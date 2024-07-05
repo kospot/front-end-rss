@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-05 10:14:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-06 07:33:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -496,3 +496,4 @@
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://jelly.jd.com/article/6006b1025b6c6a01506c8776) 
 - [2023-03-22-跨域（Options）请求介绍及解决方法](https://hughfenghen.github.io/posts/2023/03/22/options-request/) 
 - [2020-07-13-BUG:-Safari10-Cannot-declare-a-let-variable-twice:-'e'.](https://hughfenghen.github.io/posts/2020/07/13/bug1-safari10/) 
+- [2024-07-05-浏览器的储存空间，你知道吗？](https://juejin.cn/post/7388025457822859274) 

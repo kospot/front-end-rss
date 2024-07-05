@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-07-05 10:14:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-06 07:33:17，:rocket: 更新条数: +20， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -30,10 +30,12 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
+- [风痕·術&amp;思](#风痕·術&amp;思)  
+- [掘金前端](#掘金前端)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -539,7 +541,7 @@
 </summary>
 
 
-- [2024-07-05-科技爱好者周刊（第-307-期）：不要看重-Product-Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html) ![](/assets/new.png)  
+- [2024-07-05-科技爱好者周刊（第-307-期）：不要看重-Product-Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html)  
 - [2024-07-03-AI-编程助手测评：GitHub-Copilot-vs-豆包-MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html)  
 - [2024-06-28-科技爱好者周刊（第-306-期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html)  
 - [2024-06-21-科技爱好者周刊（第-305-期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html)  
@@ -653,6 +655,68 @@
 - [2023-07-23-Web-音视频（二）在浏览器中解析视频](https://hughfenghen.github.io/posts/2023/07/23/webav-2-parse-video/)  
 - [2023-07-19-Web-音视频（一）基础知识](https://hughfenghen.github.io/posts/2023/07/19/webav-1-basic/)  
 - [......【查看更多】......](/details/风痕·術&思.md)
+
+<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="风痕·術&amp;思">
+ 风痕·術&amp;思
+</summary>
+
+
+- [2024-05-11-WebCodecs-编码字符串（codec）介绍](https://hughfenghen.github.io/posts/2024/05/11/webcodecs-codec-string-explain/)  
+- [2024-05-08-自集成式-HTTP-代理方案](https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/)  
+- [2024-03-14-Web-文件系统（OPFS-及工具）介绍](https://hughfenghen.github.io/posts/2024/03/14/web-storage-and-opfs/)  
+- [2024-03-06-opfs-tools-项目介绍](https://hughfenghen.github.io/posts/2024/03/06/opfs-tools-tweet/)  
+- [2024-02-17-一句话总结：TS-何时选择-interface-或-type](https://hughfenghen.github.io/posts/2024/02/17/ts-choose-interface-type/)  
+- [2024-01-01-2024，做个“前端网红”吧](https://hughfenghen.github.io/posts/2024/01/01/wechat-subscribe/)  
+- [2023-12-23-Web-终极拦截技巧（全是骚操作）](https://hughfenghen.github.io/posts/2023/12/23/web-spy/)  
+- [2023-10-06-WebCodecs-开启-Web-音视频新篇章](https://hughfenghen.github.io/posts/2023/10/06/webcodecs-new-era-for-media-on-the-web/)  
+- [2023-10-02-【译】WebCodecs-说明](https://hughfenghen.github.io/posts/2023/10/02/webcodecs-explainer/)  
+- [2023-09-19-解决-Edge-117-浏览器视频变色](https://hughfenghen.github.io/posts/2023/09/19/edge117-amd-hevc-bugfix/)  
+- [2023-08-19-Web-音视频（六）图像素材处理](https://hughfenghen.github.io/posts/2023/08/19/webav-6-process-image/)  
+- [2023-08-19-Web-音视频（七）中期回顾](https://hughfenghen.github.io/posts/2023/08/19/webav-7-mid-review/)  
+- [2023-08-18-【转】我在-20-年的软件工程师生涯中学到的事情](https://hughfenghen.github.io/posts/2023/08/18/twenty-things-software-engineer/)  
+- [2023-08-12-Web-音视频（五）在浏览器中合成视频](https://hughfenghen.github.io/posts/2023/08/12/webav-5-combine/)  
+- [2023-08-05-Web-音视频（四）在浏览器中处理音频](https://hughfenghen.github.io/posts/2023/08/05/webav-4-process-audio/)  
+- [2023-07-31-Web-音视频（三）在浏览器中创建视频](https://hughfenghen.github.io/posts/2023/07/31/webav-3-create-video/)  
+- [2023-07-29-菩萨蛮](https://hughfenghen.github.io/posts/2023/07/29/%E8%8F%A9%E8%90%A8%E8%9B%AE/)  
+- [2023-07-29-侠客行-/-三叠](https://hughfenghen.github.io/posts/2023/07/29/%E4%BE%A0%E5%AE%A2/)  
+- [2023-07-23-Web-音视频（二）在浏览器中解析视频](https://hughfenghen.github.io/posts/2023/07/23/webav-2-parse-video/)  
+- [2023-07-19-Web-音视频（一）基础知识](https://hughfenghen.github.io/posts/2023/07/19/webav-1-basic/)  
+- [......【查看更多】......](/details/风痕·術&思.md)
+
+<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="掘金前端">
+ 掘金前端
+</summary>
+
+
+- [2024-07-06-为什么对象中的值总是拷贝不下来](https://juejin.cn/post/7387801635328032777) ![](/assets/new.png)  
+- [2024-07-05-依赖倒置在前端中的典型应用](https://juejin.cn/post/7387963628526698508) ![](/assets/new.png)  
+- [2024-07-05-vue3响应式原理：reactive](https://juejin.cn/post/7387957756392472612) ![](/assets/new.png)  
+- [2024-07-05-微前端---qiankun-入门到实践——第三节：Qiankun简介](https://juejin.cn/post/7387963168838598666) ![](/assets/new.png)  
+- [2024-07-05-你绝对需要这份-《JS-代码健壮性自检清单》](https://juejin.cn/post/7388022210856222732) ![](/assets/new.png)  
+- [2024-07-05-前端第一学习框架--react基础](https://juejin.cn/post/7387662864122413094) ![](/assets/new.png)  
+- [2024-07-05-「豆包Marscode体验官」MarsCode-IDE-搭建-VitePress-博客并使用-GitHub-部署](https://juejin.cn/post/7387992438297739264) ![](/assets/new.png)  
+- [2024-07-05-【转载】React最佳实践之“如何使用useMemo与useCallback：大部分都可以删了”](https://juejin.cn/post/7388091090321424410) ![](/assets/new.png)  
+- [2024-07-05-window.ai-开启你的内置AI之旅](https://juejin.cn/post/7388022210856337420) ![](/assets/new.png)  
+- [2024-07-05-一些你可能不知道的前端小优化--̗̀๑ᵔ⌔ᵔ๑](https://juejin.cn/post/7387801635327655945) ![](/assets/new.png)  
+- [2024-07-05-用react组件化的思想实现一个todoList](https://juejin.cn/post/7388091090321653786) ![](/assets/new.png)  
+- [2024-07-05-百度面试题：输入框的防抖节流](https://juejin.cn/post/7387801635327688713) ![](/assets/new.png)  
+- [2024-07-05-如何用koa构造优雅的端口服务](https://juejin.cn/post/7387992438297968640) ![](/assets/new.png)  
+- [2024-07-05-Node.js迈向后端世界：从"Hello-World"到"Hello-Backend!"](https://juejin.cn/post/7387999151412035619) ![](/assets/new.png)  
+- [2024-07-05-文件上传](https://juejin.cn/post/7388025457822810122) ![](/assets/new.png)  
+- [2024-07-05-由浅入深了解Promise的用法](https://juejin.cn/post/7387801635327754249) ![](/assets/new.png)  
+- [2024-07-05-浏览器的储存空间，你知道吗？](https://juejin.cn/post/7388025457822859274) ![](/assets/new.png)  
+- [2024-07-05-React-+-Todos：打造个性化任务管理器的实践指南](https://juejin.cn/post/7387999151412232227) ![](/assets/new.png)  
+- [2024-07-05-单例模式下的React-Todos：我与BUG的相爱相杀](https://juejin.cn/post/7387999151412281379) ![](/assets/new.png)  
+- [2024-07-05-Web-App-Manifest：创建沉浸式PWA体验](https://juejin.cn/post/7388039373202030628) ![](/assets/new.png)  
+- [......【查看更多】......](/details/掘金前端.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
 </details>

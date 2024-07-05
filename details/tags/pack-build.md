@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-05 10:14:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-06 07:33:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -420,3 +420,4 @@
 - [2016-11-14-Webpack-实用配置技巧](https://jelly.jd.com/article/6006b1045b6c6a01506c87c4) 
 - [2016-09-22-通过-Babel-使用-ES6-的-import](https://jelly.jd.com/article/6030845863dc65014d6fb71d) 
 - [2016-02-26-使用npm-scripts替代gulp](https://jelly.jd.com/article/6006b1035b6c6a01506c8794) 
+- [2024-07-05-「豆包Marscode体验官」MarsCode-IDE-搭建-VitePress-博客并使用-GitHub-部署](https://juejin.cn/post/7387992438297739264) 

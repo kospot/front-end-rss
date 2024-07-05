@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-07-05T02:14:09.534Z</updated>
+    <updated>2024-07-05T23:33:19.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,118 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Web App Manifest：创建沉浸式PWA体验]]></title>
+        <id>https://juejin.cn/post/7388039373202030628</id>
+        <link href="https://juejin.cn/post/7388039373202030628"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单例模式下的React Todos：我与BUG的相爱相杀]]></title>
+        <id>https://juejin.cn/post/7387999151412281379</id>
+        <link href="https://juejin.cn/post/7387999151412281379"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React + Todos：打造个性化任务管理器的实践指南]]></title>
+        <id>https://juejin.cn/post/7387999151412232227</id>
+        <link href="https://juejin.cn/post/7387999151412232227"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浏览器的储存空间，你知道吗？]]></title>
+        <id>https://juejin.cn/post/7388025457822859274</id>
+        <link href="https://juejin.cn/post/7388025457822859274"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由浅入深了解Promise的用法]]></title>
+        <id>https://juejin.cn/post/7387801635327754249</id>
+        <link href="https://juejin.cn/post/7387801635327754249"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js迈向后端世界：从"Hello World"到"Hello Backend!"]]></title>
+        <id>https://juejin.cn/post/7387999151412035619</id>
+        <link href="https://juejin.cn/post/7387999151412035619"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何用koa构造优雅的端口服务]]></title>
+        <id>https://juejin.cn/post/7387992438297968640</id>
+        <link href="https://juejin.cn/post/7387992438297968640"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百度面试题：输入框的防抖节流]]></title>
+        <id>https://juejin.cn/post/7387801635327688713</id>
+        <link href="https://juejin.cn/post/7387801635327688713"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用react组件化的思想实现一个todoList]]></title>
+        <id>https://juejin.cn/post/7388091090321653786</id>
+        <link href="https://juejin.cn/post/7388091090321653786"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一些你可能不知道的前端小优化- ̗̀(๑ᵔ⌔ᵔ๑)]]></title>
+        <id>https://juejin.cn/post/7387801635327655945</id>
+        <link href="https://juejin.cn/post/7387801635327655945"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【转载】React最佳实践之“如何使用useMemo与useCallback：大部分都可以删了”]]></title>
+        <id>https://juejin.cn/post/7388091090321424410</id>
+        <link href="https://juejin.cn/post/7388091090321424410"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「豆包Marscode体验官」MarsCode IDE 搭建 VitePress 博客并使用 GitHub 部署]]></title>
+        <id>https://juejin.cn/post/7387992438297739264</id>
+        <link href="https://juejin.cn/post/7387992438297739264"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端第一学习框架--react基础]]></title>
+        <id>https://juejin.cn/post/7387662864122413094</id>
+        <link href="https://juejin.cn/post/7387662864122413094"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你绝对需要这份 《JS 代码健壮性自检清单》]]></title>
+        <id>https://juejin.cn/post/7388022210856222732</id>
+        <link href="https://juejin.cn/post/7388022210856222732"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微前端 - qiankun 入门到实践——第三节：Qiankun简介]]></title>
+        <id>https://juejin.cn/post/7387963168838598666</id>
+        <link href="https://juejin.cn/post/7387963168838598666"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vue3响应式原理：reactive]]></title>
+        <id>https://juejin.cn/post/7387957756392472612</id>
+        <link href="https://juejin.cn/post/7387957756392472612"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何使用纯CSS鉴别是不是Safari浏览器]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/</id>
@@ -169,6 +281,13 @@
         <published>2024-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[自集成式 HTTP 代理方案]]></title>
+        <id>https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/</id>
+        <link href="https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/"/>
+        <updated>2024-05-07T16:00:00.000Z</updated>
+        <published>2024-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[React 19 出手解决了异步请求的竞态问题，是好事还是坏事？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515740&amp;idx=1&amp;sn=e3ed39575d3d7826cebd4bbed6f734e0&amp;chksm=eb078625dc700f337eadf061d4d8e1dd7b1b0fc0a816d7eac990d7a92cfda4c93b8a36623df5#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515740&amp;idx=1&amp;sn=e3ed39575d3d7826cebd4bbed6f734e0&amp;chksm=eb078625dc700f337eadf061d4d8e1dd7b1b0fc0a816d7eac990d7a92cfda4c93b8a36623df5#rd"/>
@@ -244,124 +363,5 @@
         <link href="https://nodeweekly.com/issues/529"/>
         <updated>2024-04-22T16:00:00.000Z</updated>
         <published>2024-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[node环境中使用fluent-ffmpeg每隔一秒视频截图]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/"/>
-        <updated>2024-04-21T16:00:00.000Z</updated>
-        <published>2024-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三种自定义 hook 的事件封装方式，你会选择哪种？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515674&amp;idx=2&amp;sn=429bc86b2f7c1b3f4790b01a5ea83c35&amp;chksm=eb078663dc700f757170b9aac9a8ff6e9801ee20734091ae28e985fb3ed2659c5369f0547e49#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515674&amp;idx=2&amp;sn=429bc86b2f7c1b3f4790b01a5ea83c35&amp;chksm=eb078663dc700f757170b9aac9a8ff6e9801ee20734091ae28e985fb3ed2659c5369f0547e49#rd"/>
-        <updated>2024-04-21T16:00:00.000Z</updated>
-        <published>2024-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 超前版发布三个新特性！有望全面拥抱 JSX/TSX！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515653&amp;idx=1&amp;sn=02f726732521950ae0ce6301f3a68a2d&amp;chksm=eb07867cdc700f6ad6821b6f3d39a2a53fccca9b8c643bcc5fbe8cf26ab646c1e065fafe6e69#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515653&amp;idx=1&amp;sn=02f726732521950ae0ce6301f3a68a2d&amp;chksm=eb07867cdc700f6ad6821b6f3d39a2a53fccca9b8c643bcc5fbe8cf26ab646c1e065fafe6e69#rd"/>
-        <updated>2024-04-17T16:00:00.000Z</updated>
-        <published>2024-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在大公司工作之后才真正领悟到它真的是宇宙级编辑器]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515634&amp;idx=1&amp;sn=a542fec277925a6a926dc4bc2536e759&amp;chksm=eb07858bdc700c9de604dbaea3b9510157cddd6f4db0009891922f24d6cef06af5c26aad87b2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515634&amp;idx=1&amp;sn=a542fec277925a6a926dc4bc2536e759&amp;chksm=eb07858bdc700c9de604dbaea3b9510157cddd6f4db0009891922f24d6cef06af5c26aad87b2#rd"/>
-        <updated>2024-04-15T16:00:00.000Z</updated>
-        <published>2024-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Node's contributors have been discussing]]></title>
-        <id>https://nodeweekly.com/issues/528</id>
-        <link href="https://nodeweekly.com/issues/528"/>
-        <updated>2024-04-15T16:00:00.000Z</updated>
-        <published>2024-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端性能监控，在网易云音乐大前端怎么落地的？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515631&amp;idx=1&amp;sn=14754ff8757921cfe62d686df57a9e09&amp;chksm=eb078596dc700c80b1f5df6d17213d522e4760903bde53ae95392819c7578331d2180edd8c8b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515631&amp;idx=1&amp;sn=14754ff8757921cfe62d686df57a9e09&amp;chksm=eb078596dc700c80b1f5df6d17213d522e4760903bde53ae95392819c7578331d2180edd8c8b#rd"/>
-        <updated>2024-04-14T16:00:00.000Z</updated>
-        <published>2024-04-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天学习SVG滤镜feGaussianBlur和feDropShadow]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/"/>
-        <updated>2024-04-13T16:00:00.000Z</updated>
-        <published>2024-04-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市面老多微前端框架了，它们的隔离实现方案、实战、优缺点？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515627&amp;idx=1&amp;sn=abae36e88e49ccf944025382e9464c37&amp;chksm=eb078592dc700c840578c7a119699ae70a2659f064f16dea3778ea3ab8c7392e2c8b5186113e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515627&amp;idx=1&amp;sn=abae36e88e49ccf944025382e9464c37&amp;chksm=eb078592dc700c840578c7a119699ae70a2659f064f16dea3778ea3ab8c7392e2c8b5186113e#rd"/>
-        <updated>2024-04-12T16:00:00.000Z</updated>
-        <published>2024-04-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG滤镜系列之搞懂<feBlend>元素]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/"/>
-        <updated>2024-04-10T16:00:00.000Z</updated>
-        <published>2024-04-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过 debug 搞清楚 .vue 文件怎么变成 .js 文件]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515588&amp;idx=1&amp;sn=c812b2d84675e16cf965cf45ae7f1dee&amp;chksm=eb0785bddc700cab5120d57591e83663adc81c51719c9e20398ab28d0e2ee3f2e7107f03c0c2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515588&amp;idx=1&amp;sn=c812b2d84675e16cf965cf45ae7f1dee&amp;chksm=eb0785bddc700cab5120d57591e83663adc81c51719c9e20398ab28d0e2ee3f2e7107f03c0c2#rd"/>
-        <updated>2024-04-10T16:00:00.000Z</updated>
-        <published>2024-04-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字节三年，谈谈一线团队如何搞工程化]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515582&amp;idx=1&amp;sn=63cf1f6a02782e16b87c5a8e85194e1e&amp;chksm=eb0785c7dc700cd149fd17d794256d7093471fc723ed0de7b43d34be71571952e08309a0de0d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515582&amp;idx=1&amp;sn=63cf1f6a02782e16b87c5a8e85194e1e&amp;chksm=eb0785c7dc700cd149fd17d794256d7093471fc723ed0de7b43d34be71571952e08309a0de0d#rd"/>
-        <updated>2024-04-08T16:00:00.000Z</updated>
-        <published>2024-04-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zx 8.0 for better Node scripting]]></title>
-        <id>https://nodeweekly.com/issues/527</id>
-        <link href="https://nodeweekly.com/issues/527"/>
-        <updated>2024-04-08T16:00:00.000Z</updated>
-        <published>2024-04-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2年经验前端面试网易灵犀！太注重工程化了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515536&amp;idx=2&amp;sn=7c352d640bc56e5738324f15bb4849a5&amp;chksm=eb0785e9dc700cffb0dfeedf7b77135cf5156162f8b5f54d3864dad333781a785bf488aed292#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515536&amp;idx=2&amp;sn=7c352d640bc56e5738324f15bb4849a5&amp;chksm=eb0785e9dc700cffb0dfeedf7b77135cf5156162f8b5f54d3864dad333781a785bf488aed292#rd"/>
-        <updated>2024-04-03T16:00:00.000Z</updated>
-        <published>2024-04-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A signal boost for JavaScript]]></title>
-        <id>https://javascriptweekly.com/issues/682</id>
-        <link href="https://javascriptweekly.com/issues/682"/>
-        <updated>2024-04-03T16:00:00.000Z</updated>
-        <published>2024-04-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 中文名官宣，威优易……]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515513&amp;idx=1&amp;sn=c13c7d71ad05071ab0d79dd747bb33f6&amp;chksm=eb078500dc700c160fddbd202361650bc61b5132593b37feb28c1c93fbab6cb89cd74671c893#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515513&amp;idx=1&amp;sn=c13c7d71ad05071ab0d79dd747bb33f6&amp;chksm=eb078500dc700c160fddbd202361650bc61b5132593b37feb28c1c93fbab6cb89cd74671c893#rd"/>
-        <updated>2024-04-02T16:00:00.000Z</updated>
-        <published>2024-04-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤯 [性能优化] 浏览器跨域带来的一些性能问题]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515478&amp;idx=1&amp;sn=8d4412cffa78a2a309d8402461a352c7&amp;chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515478&amp;idx=1&amp;sn=8d4412cffa78a2a309d8402461a352c7&amp;chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd"/>
-        <updated>2024-03-31T16:00:00.000Z</updated>
-        <published>2024-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Nesting嵌套与@scope规则也太雷同了吧？]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/"/>
-        <updated>2024-03-30T16:00:00.000Z</updated>
-        <published>2024-03-30T16:00:00.000Z</published>
     </entry>
 </feed>
