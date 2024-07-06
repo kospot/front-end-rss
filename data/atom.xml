@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-07-05T23:33:19.826Z</updated>
+    <updated>2024-07-06T08:56:23.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[具透 Plus | 企图变聪明的 Chrome 与小广告止不住的 Windows]]></title>
+        <id>https://sspai.com/prime/story/inside-release-notes-240705</id>
+        <link href="https://sspai.com/prime/story/inside-release-notes-240705"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「临门一脚」助你入门 Vim：Kickstart 配置笔记]]></title>
+        <id>https://sspai.com/post/90115</id>
+        <link href="https://sspai.com/post/90115"/>
+        <updated>2024-07-04T16:00:00.000Z</updated>
+        <published>2024-07-04T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web App Manifest：创建沉浸式PWA体验]]></title>
         <id>https://juejin.cn/post/7388039373202030628</id>
@@ -155,6 +169,13 @@
         <published>2024-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[小程序可测性能力建设与实践]]></title>
+        <id>https://tech.meituan.com/2024/06/28/menpiao-testing-practice.html</id>
+        <link href="https://tech.meituan.com/2024/06/28/menpiao-testing-practice.html"/>
+        <updated>2024-06-27T16:00:00.000Z</updated>
+        <published>2024-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[告别JS浮层，全新的CSS Anchor Positioning锚点定位API]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/"/>
@@ -174,6 +195,13 @@
         <link href="https://nodeweekly.com/issues/537"/>
         <updated>2024-06-24T16:00:00.000Z</updated>
         <published>2024-06-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing TypeScript 5.5]]></title>
+        <id>https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/</id>
+        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/"/>
+        <updated>2024-06-20T16:00:00.000Z</updated>
+        <published>2024-06-20T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[A snapshot of what's new in Node]]></title>
@@ -197,11 +225,25 @@
         <published>2024-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Announcing TypeScript 5.5 RC]]></title>
+        <id>https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/</id>
+        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/"/>
+        <updated>2024-06-06T16:00:00.000Z</updated>
+        <published>2024-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The newest Node.js runtime features]]></title>
         <id>https://nodeweekly.com/issues/534</id>
         <link href="https://nodeweekly.com/issues/534"/>
         <updated>2024-06-03T16:00:00.000Z</updated>
         <published>2024-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript patterns - Pyramid of doom]]></title>
+        <id>https://survivejs.com/blog/pyramid-of-doom</id>
+        <link href="https://survivejs.com/blog/pyramid-of-doom"/>
+        <updated>2024-05-30T16:00:00.000Z</updated>
+        <published>2024-05-30T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[记一次技术交流， feMerge滤镜复制任意HTML投影]]></title>
@@ -232,11 +274,25 @@
         <published>2024-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SurviveJS - What did I learn by rewriting this site]]></title>
+        <id>https://survivejs.com/blog/survivejs-site-rewrite</id>
+        <link href="https://survivejs.com/blog/survivejs-site-rewrite"/>
+        <updated>2024-05-20T16:00:00.000Z</updated>
+        <published>2024-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Node.js Advocacy Ambassador program?]]></title>
         <id>https://nodeweekly.com/issues/533</id>
         <link href="https://nodeweekly.com/issues/533"/>
         <updated>2024-05-20T16:00:00.000Z</updated>
         <published>2024-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于多模态信息抽取的菜品知识图谱构建]]></title>
+        <id>https://tech.meituan.com/2024/05/17/cross-modal-ingredient-level-dataset.html</id>
+        <link href="https://tech.meituan.com/2024/05/17/cross-modal-ingredient-level-dataset.html"/>
+        <updated>2024-05-16T16:00:00.000Z</updated>
+        <published>2024-05-16T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remix + React Router == React Router?]]></title>
@@ -260,46 +316,11 @@
         <published>2024-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[云音乐桌面端 3.0 改版前端性能优化之旅]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515774&amp;idx=1&amp;sn=4eb6d7ca8a1e7e7c9b5c936f94700547&amp;chksm=eb078607dc700f11a9506a5dd5084dedc04a5c83c7664706f7a044b91fd59f237f84bf2967f3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515774&amp;idx=1&amp;sn=4eb6d7ca8a1e7e7c9b5c936f94700547&amp;chksm=eb078607dc700f11a9506a5dd5084dedc04a5c83c7664706f7a044b91fd59f237f84bf2967f3#rd"/>
-        <updated>2024-05-09T16:00:00.000Z</updated>
-        <published>2024-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gulp is back - did it ever leave?]]></title>
         <id>https://javascriptweekly.com/issues/687</id>
         <link href="https://javascriptweekly.com/issues/687"/>
         <updated>2024-05-08T16:00:00.000Z</updated>
         <published>2024-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自集成式 HTTP 代理方案]]></title>
-        <id>https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/</id>
-        <link href="https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/"/>
-        <updated>2024-05-07T16:00:00.000Z</updated>
-        <published>2024-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自集成式 HTTP 代理方案]]></title>
-        <id>https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/</id>
-        <link href="https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/"/>
-        <updated>2024-05-07T16:00:00.000Z</updated>
-        <published>2024-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 19 出手解决了异步请求的竞态问题，是好事还是坏事？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515740&amp;idx=1&amp;sn=e3ed39575d3d7826cebd4bbed6f734e0&amp;chksm=eb078625dc700f337eadf061d4d8e1dd7b1b0fc0a816d7eac990d7a92cfda4c93b8a36623df5#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515740&amp;idx=1&amp;sn=e3ed39575d3d7826cebd4bbed6f734e0&amp;chksm=eb078625dc700f337eadf061d4d8e1dd7b1b0fc0a816d7eac990d7a92cfda4c93b8a36623df5#rd"/>
-        <updated>2024-05-07T16:00:00.000Z</updated>
-        <published>2024-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3，可以慢慢抛弃虚拟 DOM 了]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515738&amp;idx=1&amp;sn=888c75d1b8a546c425bb5d07d921b27e&amp;chksm=eb078623dc700f35095321ceb809dc5ca11198b2cadb52c25a603e6ac0a451177ec495bcb2b8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515738&amp;idx=1&amp;sn=888c75d1b8a546c425bb5d07d921b27e&amp;chksm=eb078623dc700f35095321ceb809dc5ca11198b2cadb52c25a603e6ac0a451177ec495bcb2b8#rd"/>
-        <updated>2024-05-06T16:00:00.000Z</updated>
-        <published>2024-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Node 22.1, now with even more performance]]></title>
@@ -309,18 +330,11 @@
         <published>2024-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[深入浅出 Vite5 中依赖预构建]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515732&amp;idx=1&amp;sn=70fb828954c28fedbf722299b1a02687&amp;chksm=eb07862ddc700f3b89b5c5fccf3178187a126e78a0c470feb71f3d7c19601f0b7ae14218e052#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515732&amp;idx=1&amp;sn=70fb828954c28fedbf722299b1a02687&amp;chksm=eb07862ddc700f3b89b5c5fccf3178187a126e78a0c470feb71f3d7c19601f0b7ae14218e052#rd"/>
+        <title type="html"><![CDATA[AutoDev for VSCode 预览版：精准 AI 编程提示词与编辑器的完美融合]]></title>
+        <id>https://zhuanlan.zhihu.com/p/696080970</id>
+        <link href="https://zhuanlan.zhihu.com/p/696080970"/>
         <updated>2024-05-05T16:00:00.000Z</updated>
         <published>2024-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个Level 0富文本编辑器的进化历程]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515726&amp;idx=1&amp;sn=8ed649ee69dc38031fbb4ca274384fcf&amp;chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515726&amp;idx=1&amp;sn=8ed649ee69dc38031fbb4ca274384fcf&amp;chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd"/>
-        <updated>2024-04-29T16:00:00.000Z</updated>
-        <published>2024-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Node.js 22 has entered the building]]></title>
@@ -330,18 +344,11 @@
         <published>2024-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vue3已成气候（超强）！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515724&amp;idx=1&amp;sn=0c92a291e9ea46091cf1ff8b3a137084&amp;chksm=eb078635dc700f23cb82536365d202a4b8cc266366e2d7dddee796d3c308408c8b074e2f3130#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515724&amp;idx=1&amp;sn=0c92a291e9ea46091cf1ff8b3a137084&amp;chksm=eb078635dc700f23cb82536365d202a4b8cc266366e2d7dddee796d3c308408c8b074e2f3130#rd"/>
-        <updated>2024-04-28T16:00:00.000Z</updated>
-        <published>2024-04-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Module Federation 2.0 正式发布！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515711&amp;idx=1&amp;sn=42c32859ecaf3e991aa9a5dd5fdbdccb&amp;chksm=eb078646dc700f5027bfb510e36e00755ad1d71d37dfc5548374d34e5299432130d2e6462f6a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515711&amp;idx=1&amp;sn=42c32859ecaf3e991aa9a5dd5fdbdccb&amp;chksm=eb078646dc700f5027bfb510e36e00755ad1d71d37dfc5548374d34e5299432130d2e6462f6a#rd"/>
-        <updated>2024-04-27T16:00:00.000Z</updated>
-        <published>2024-04-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Announcing TypeScript 5.5 Beta]]></title>
+        <id>https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/</id>
+        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/"/>
+        <updated>2024-04-25T16:00:00.000Z</updated>
+        <published>2024-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JSR isn't another tool, it's a fundamental shift]]></title>
@@ -351,17 +358,10 @@
         <published>2024-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[更轻巧的状态管理工具——Hookstate]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515690&amp;idx=2&amp;sn=ba2cfa783bba0d0aeeec603d9eedb3bd&amp;chksm=eb078653dc700f4560741715b075960a2992ab5e0a45f948eb302915ab661d18a59d51292eca#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515690&amp;idx=2&amp;sn=ba2cfa783bba0d0aeeec603d9eedb3bd&amp;chksm=eb078653dc700f4560741715b075960a2992ab5e0a45f948eb302915ab661d18a59d51292eca#rd"/>
-        <updated>2024-04-22T16:00:00.000Z</updated>
-        <published>2024-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[node --run send_newsletter]]></title>
-        <id>https://nodeweekly.com/issues/529</id>
-        <link href="https://nodeweekly.com/issues/529"/>
-        <updated>2024-04-22T16:00:00.000Z</updated>
-        <published>2024-04-22T16:00:00.000Z</published>
+        <title type="html"><![CDATA[HTML attributes vs DOM properties]]></title>
+        <id>https://jakearchibald.com/2024/attributes-vs-properties/</id>
+        <link href="https://jakearchibald.com/2024/attributes-vs-properties/"/>
+        <updated>2024-04-23T16:00:00.000Z</updated>
+        <published>2024-04-23T16:00:00.000Z</published>
     </entry>
 </feed>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-06 07:33:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-06 16:56:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -17,19 +17,6 @@
 - [2021-03-03-为什么要用-picture-标签代替-img-标签？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506985&idx=2&sn=2d52b27efe0d52fc3eb2a9761ad0c15e&chksm=f952696ace25e07c37b85512410826383a3f6ea1667b4fbfc1245819b7ccb91347cb58292090&scene=27#wechat_redirect) 
 - [2021-02-26-容易被忽略的5个HTML技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506806&idx=2&sn=f088238e232600ebabbfc44390c394aa&chksm=f9526e35ce25e723db74e4fd001405765e15ae74ee3853799f4ec70a0f8dc6ca381be7b7a457&scene=27#wechat_redirect) 
 - [2019-08-26-HTML规范未来还需要哪些新内容？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=2&sn=6bfd6cee50f9ec6b96ab0ba7592939cc&chksm=f95257eece25def86b3ad56aefa87f8c7c1f5dbbc1760ebc5fbbd146d346a05629c1e8342005#rd) 
-- [2023-06-25-你真的会用&lt;a&gt;标签下载文件吗?](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489250&idx=1&sn=3d2430313abc7e5cf2784baaae102a7b&chksm=ce460373f9318a650179bda6f4a6e5588e2c571adbf3c0c716e0abb5d0bcbb36d3ea1518a499#rd) 
-- [2023-02-05-面试官：原生HTML怎么实现一个Dialog？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487702&idx=1&sn=38f1c979938292e053695835065bb06a&chksm=ce460547f9318c51dc05e7d6f8bea9529f6bfc485d6a2b96558a246cb78a8b23d6214e2d0480#rd) 
-- [2022-10-08-12个可能你没见过，但非常实用的-HTML-标签](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487013&idx=1&sn=ebd90df4ce332dbb290d0c96bf8af0cb&chksm=ce461bb4f93192a21482decdda861ca3c15d26782827c00b01c2bf040a3bed22e01dd985ac9a#rd) 
-- [2022-08-29-Input标签这么牛？居然也自带颜色选择器功能？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486913&idx=1&sn=eb5a63a24332c1da903b493fc370c98a&chksm=ce461850f9319146b4857125d96006c5065df8f10239d9c40ca0d92af9b2e63f84268fd82764#rd) 
-- [2022-05-02-有意思的面试题：统计页面出现次数前三的标签](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486188&idx=1&sn=f330456718f5bba6d772a11ed78149b1&chksm=ce461f7df931966bc21360053c727ef11bc8e850eb2566c041db661c9a509916bb30167e2540#rd) 
-- [2022-08-15-为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063920&idx=1&sn=799ef858a8d64804adbd5ebc25ad03b9&chksm=87c45d60b0b3d476af82360959df1c8c803b7d47b76cd1f416c0e2ed0e7923671fea8b77472e#rd) 
-- [2022-02-11-为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061006&idx=1&sn=0a6225ad1c7fa7db92f4f1421c56f704&chksm=87c4201eb0b3a908673b3ddcbeb562039935f2e5268e74903eb32a86afad6d3d5224009277b3#rd) 
-- [2022-01-05-为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060776&idx=1&sn=ae23a10a1f0dfb3983bbca0c666f5e07&chksm=87c42138b0b3a82e5fe52bcfd5a68be0bbf3d0a2815c9fdf433448d686adc4f4528505eaacb0#rd) 
-- [2023-10-19-探索如何将html和svg导出为图片](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516680&idx=2&sn=4abe20ce473d022a8fef2653606a3515&chksm=f99284d9cee50dcff3b3051422d88378c0853852b33749e5962645b4bb380f4fd5522f83c6c8#rd) 
-- [2023-09-02-htmx-使HTML更强大，-不错！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516018&idx=1&sn=b8b7df5d66192e933149a6e9b317101e&chksm=f992b9a3cee530b5352bcb0753e9e058011f44e333635da2364af7dee885fdb1140c8c361c9f#rd) 
-- [2023-07-02-你真的会用&lt;a&gt;标签下载文件吗?](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515107&idx=1&sn=c13a4bfce28247f1633567998c895b2a&chksm=f992bd32cee53424deb1f1f4f46567b17bbdac49e66f883af513f0a3912c782ff10eb796bd5a#rd) 
-- [2023-06-20-Amazing！！单标签下的日间/黑夜模式切换按钮效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495893&idx=1&sn=4585f6741ef2bcb1330b1131533e4899&chksm=ce269323f9511a35c1425715f4d0d2553ef039a10f32ab29f4dac0097820cda7262554625def#rd) 
-- [2023-02-14-现代图片性能优化及体验优化指南---图片类型及-Picture-标签的使用](https://mp.weixin.qq.com/s/LZ86LkmGwmZMUFLCLjDa4g) 
 - [2024-05-30-记一次技术交流，-feMerge滤镜复制任意HTML投影](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/) 
 - [2024-01-31-HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/) 
 - [2023-09-15-HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/) 
@@ -49,3 +36,5 @@
 - [2019-06-15-详细介绍HTML-favicon尺寸-格式-制作等相关知识](https://www.zhangxinxu.com/wordpress/2019/06/html-favicon-size-ico-generator/) 
 - [2019-06-03-HTML-rel属性值释义大全](https://www.zhangxinxu.com/wordpress/2019/06/html-a-link-rel/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
+- [2023-07-06-The-case-against-self-closing-tags-in-HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/) 
+- [2022-12-19-Getting-the-correct-HTML-codecs-parameter-for-an-AV1-video](https://jakearchibald.com/2022/html-codecs-parameter-for-av1/) 
