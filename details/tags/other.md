@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-06 16:56:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-07 13:12:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -3055,10 +3055,15 @@
 - [2024-07-04-派早报：Apple-以观察员身份入驻-OpenAI-董事会、大疆推出自行车电助力系统等](https://sspai.com/post/90196) 
 - [2024-07-04-让-RIME-体验更上一层楼：如何用-MediaWiki-扩展词库](https://sspai.com/post/90068) 
 - [2024-07-04-空想特摄的浪漫（二）：《假面骑士》入坑指南](https://sspai.com/post/90188) 
-- [2024-07-04-安徽一张医院偷拍照走红后，我彻底明白了婚姻的意义](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%AE%89%E5%BE%BD%E4%B8%80%E5%BC%A0%E5%8C%BB%E9%99%A2%E5%81%B7%E6%8B%8D%E7%85%A7%E8%B5%B0%E7%BA%A2%E5%90%8E%EF%BC%8C%E6%88%91%E5%BD%BB%E5%BA%95%E6%98%8E%E7%99%BD%E4%BA%86%E5%A9%9A%E5%A7%BB%E7%9A%84%E6%84%8F%E4%B9%89) 
-- [2024-07-04-当你读懂了《老人与海》，你就不会再相信所谓的命运](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%BD%93%E4%BD%A0%E8%AF%BB%E6%87%82%E4%BA%86%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%8C%E4%BD%A0%E5%B0%B1%E4%B8%8D%E4%BC%9A%E5%86%8D%E7%9B%B8%E4%BF%A1%E6%89%80%E8%B0%93%E7%9A%84%E5%91%BD%E8%BF%90) 
-- [2024-07-04-一个人最稀缺的能力：情绪价值](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E7%A8%80%E7%BC%BA%E7%9A%84%E8%83%BD%E5%8A%9B%EF%BC%9A%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC) 
+- [2024-07-06-2024下半年，低成本悦己的60件小事](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+2024%E4%B8%8B%E5%8D%8A%E5%B9%B4%EF%BC%8C%E4%BD%8E%E6%88%90%E6%9C%AC%E6%82%A6%E5%B7%B1%E7%9A%8460%E4%BB%B6%E5%B0%8F%E4%BA%8B) 
+- [2024-07-06-细读《三国演义》，我才知道高手是如何拿捏人性的](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E7%BB%86%E8%AF%BB%E3%80%8A%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E3%80%8B%EF%BC%8C%E6%88%91%E6%89%8D%E7%9F%A5%E9%81%93%E9%AB%98%E6%89%8B%E6%98%AF%E5%A6%82%E4%BD%95%E6%8B%BF%E6%8D%8F%E4%BA%BA%E6%80%A7%E7%9A%84) 
+- [2024-07-06-一个保密了多年的养生技术，今天正式公开](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BF%9D%E5%AF%86%E4%BA%86%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%85%BB%E7%94%9F%E6%8A%80%E6%9C%AF%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%BC%80) 
+- [2024-07-06-一个家庭的内耗，不是源于贫穷，而是垃圾情绪](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E5%AE%B6%E5%BA%AD%E7%9A%84%E5%86%85%E8%80%97%EF%BC%8C%E4%B8%8D%E6%98%AF%E6%BA%90%E4%BA%8E%E8%B4%AB%E7%A9%B7%EF%BC%8C%E8%80%8C%E6%98%AF%E5%9E%83%E5%9C%BE%E6%83%85%E7%BB%AA) 
+- [2024-07-06-逃离底层最快的方式：数字戒断](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E9%80%83%E7%A6%BB%E5%BA%95%E5%B1%82%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%9A%E6%95%B0%E5%AD%97%E6%88%92%E6%96%AD) 
 - [2024-07-04-未来三年：不折腾，你就赢了](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%9C%AA%E6%9D%A5%E4%B8%89%E5%B9%B4%EF%BC%9A%E4%B8%8D%E6%8A%98%E8%85%BE%EF%BC%8C%E4%BD%A0%E5%B0%B1%E8%B5%A2%E4%BA%86) 
+- [2024-07-04-一个人最稀缺的能力：情绪价值](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E7%A8%80%E7%BC%BA%E7%9A%84%E8%83%BD%E5%8A%9B%EF%BC%9A%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC) 
+- [2024-07-04-当你读懂了《老人与海》，你就不会再相信所谓的命运](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%BD%93%E4%BD%A0%E8%AF%BB%E6%87%82%E4%BA%86%E3%80%8A%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8B%EF%BC%8C%E4%BD%A0%E5%B0%B1%E4%B8%8D%E4%BC%9A%E5%86%8D%E7%9B%B8%E4%BF%A1%E6%89%80%E8%B0%93%E7%9A%84%E5%91%BD%E8%BF%90) 
+- [2024-07-04-安徽一张医院偷拍照走红后，我彻底明白了婚姻的意义](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%AE%89%E5%BE%BD%E4%B8%80%E5%BC%A0%E5%8C%BB%E9%99%A2%E5%81%B7%E6%8B%8D%E7%85%A7%E8%B5%B0%E7%BA%A2%E5%90%8E%EF%BC%8C%E6%88%91%E5%BD%BB%E5%BA%95%E6%98%8E%E7%99%BD%E4%BA%86%E5%A9%9A%E5%A7%BB%E7%9A%84%E6%84%8F%E4%B9%89) 
 - [2024-07-03-成年人最舒服的活法：一半争取，一半随缘](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%88%90%E5%B9%B4%E4%BA%BA%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E6%B4%BB%E6%B3%95%EF%BC%9A%E4%B8%80%E5%8D%8A%E4%BA%89%E5%8F%96%EF%BC%8C%E4%B8%80%E5%8D%8A%E9%9A%8F%E7%BC%98) 
 - [2023-04-28-新浪张俊林：大语言模型的涌现能力——现象与解释](https://www.52nlp.cn/%e6%96%b0%e6%b5%aa%e5%bc%a0%e4%bf%8a%e6%9e%97%ef%bc%9a%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e6%b6%8c%e7%8e%b0%e8%83%bd%e5%8a%9b-%e7%8e%b0%e8%b1%a1%e4%b8%8e%e8%a7%a3) 
 - [2023-04-11-中科院张家俊：ChatGPT中的提示与指令学习](https://www.52nlp.cn/%e4%b8%ad%e7%a7%91%e9%99%a2%e5%bc%a0%e5%ae%b6%e4%bf%8a%ef%bc%9achatgpt%e4%b8%ad%e7%9a%84%e6%8f%90%e7%a4%ba%e4%b8%8e%e6%8c%87%e4%bb%a4%e5%ad%a6%e4%b9%a0) 
