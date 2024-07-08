@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-07 13:12:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-08 08:50:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -409,7 +409,12 @@
 - [2018-07-30-nativefier-–-让网页一键生成桌面应用程序](http://www.yyyweb.com/5117.html) 
 - [2022-02-13-“一把梭：REST-API-全用-POST”](https://coolshell.cn/articles/22173.html) 
 - [2024-07-05-浏览器的储存空间，你知道吗？](https://juejin.cn/post/7388025457822859274) 
+- [2024-04-24-LLM-安全-|-大语言模型应用安全入门](https://juejin.cn/post/7361253974051602441) 
+- [2024-04-24-LLM-安全-|-大语言模型应用安全入门](https://juejin.cn/post/7361253974051602441) 
+- [2024-07-01-How-to-use-container-queries-now](https://web.dev/blog/how-to-use-container-queries-now?hl=en) 
 - [2024-07-05-具透-Plus-|-企图变聪明的-Chrome-与小广告止不住的-Windows](https://sspai.com/prime/story/inside-release-notes-240705) 
+- [2019-09-01-IEEE-WIE首次在中国举行领导力峰会，就等你来！](https://posts.careerengine.us/p/5d6b41dd790f085ec56caa01) 
+- [2020-09-25-腾讯发布业内首个AI安全攻击矩阵，最全「排雷图」拿走不谢](https://posts.careerengine.us/p/62cab0de86f8106f0c1c8409) 
 - [2023-07-30-开发一个浏览器插件在第三天卖出-1000-元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/) 
 - [2021-06-16-Xbox-Series-S-一个月使用感受](https://lutaonan.com/blog/xbox-series-s/) 
 - [2021-12-20-精读《深入了解现代浏览器四》](https://zhuanlan.zhihu.com/p/447497181) 

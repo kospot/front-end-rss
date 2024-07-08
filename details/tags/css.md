@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-07 13:12:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-08 08:50:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -460,6 +460,9 @@
 - [2018-12-30-精心挑选的2018年最佳前端特效（系列一）](http://www.yyyweb.com/5236.html) 
 - [2018-12-20-再谈-SVG-vs-Image-vs-Iconfont](http://www.yyyweb.com/5228.html) 
 - [2018-11-08-动画：从-AE-到-Web，‘甩锅’给设计师](http://www.yyyweb.com/5201.html) 
+- [2024-07-07-回顾-2024-Google-I/O-大会：CSS-和-Web-UI-最新动态](https://juejin.cn/post/7388338139632877619) 
+- [2024-07-06-学习css的clip-path属性](https://juejin.cn/post/7388065349265113099) 
+- [2024-05-14-The-CSS-stepped-value-math-functions-are-now-in-Baseline-2024](https://web.dev/blog/css-stepped-value-functions?hl=en) 
 - [2019-11-12-博客改版及-Tailwind-CSS-实践](https://lutaonan.com/blog/what-is-tailwindcss-and-how-did-i-apply-it-on-my-blog/) 
 - [2023-05-07-Sliding-Enter-Animation](https://antfu.me/posts/sliding-enter-animation) 
 - [2021-11-01-Icons-in-Pure-CSS](https://antfu.me/posts/icons-in-pure-css) 

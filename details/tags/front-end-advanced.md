@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-07 13:12:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-08 08:50:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -447,6 +447,8 @@
 - [2024-07-05-微前端---qiankun-入门到实践——第三节：Qiankun简介](https://juejin.cn/post/7387963168838598666) 
 - [2024-04-11-美团外卖基于GPU的向量检索系统实践](https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html) 
 - [2024-07-05-「临门一脚」助你入门-Vim：Kickstart-配置笔记](https://sspai.com/post/90115) 
+- [2024-07-06-红杉：重金购入GPU后，AI行业收入缺口达到5000亿美元](https://posts.careerengine.us/p/6688cf49b597d908ba32df31) 
+- [2022-01-18-腾讯发布国内首份可解释-AI-报告：详解打开算法黑箱的理念与实践｜附报告下载](https://posts.careerengine.us/p/61e9363db8def616d683d0fc) 
 - [2019-09-27-我在-UC-做的前端工程化探索](https://lutaonan.com/blog/what-i-have-done-at-UC/) 
 - [2022-01-24-精读《zustand-源码》](https://zhuanlan.zhihu.com/p/461152248) 
 - [2022-12-12-Presentations:-2022-Podcasts](https://blog.isquaredsoftware.com/2022/12/presentations-2022-podcasts/) 

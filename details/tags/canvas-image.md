@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-07 13:12:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-08 08:50:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -67,6 +67,7 @@
 - [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) 
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
 - [2018-10-03-搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/) 
+- [2024-07-06-1个demo带你入门canvas](https://juejin.cn/post/7388056383642206262) 
 - [2023-07-19-Animated-SVG-Logo](https://antfu.me/posts/animated-svg-logo) 
 - [2018-11-26-Unicon---Wrangle-SVGs-from-your-favorite-design-tool---Interview-with-Travis-Arnold](https://survivejs.com/blog/unicon-interview) 
 - [2016-08-01-Mostly-Adequate-Guide-to-Functional-Programming---Interview-with-Brian-Lonsdorf](https://survivejs.com/blog/mostly-interview) 

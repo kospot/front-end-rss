@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-07 13:12:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-08 08:50:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -58,6 +58,7 @@
 - [2019-12-22-GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html) 
 - [2019-09-12-GitHub-Actions-入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html) 
 - [2019-04-21-GitHub-OAuth-示例教程](http://www.ruanyifeng.com/blog/2019/04/github-oauth.html) 
+- [2019-09-02-GitHub开学大礼包：近50种专业开发者工具，最高节省32万！](https://posts.careerengine.us/p/5d6c99490ab8e3505f4ca5ae) 
 - [2017-04-20-搭建自己的-Gitlab-CI-Runner](https://lutaonan.com/blog/gitlab-ci-runner/) 
 - [2023-11-30-GitHub-style-Alerts](https://antfu.me/posts/github-alerts) 
 - [2023-05-17-How-I-Manage-GitHub-Notifications](https://antfu.me/posts/manage-github-notifications-2023) 

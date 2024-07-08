@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-07 13:12:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-08 08:50:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -111,6 +111,7 @@
 - [2023-08-19-Mac-环境快速安装-Homebrew-&amp;-Nginx-教程](http://www.yyyweb.com/5518.html) 
 - [2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html) 
 - [2018-09-06-Apollo-GraphQL-在-Web-APP-中应用的思考](http://www.yyyweb.com/5151.html) 
+- [2024-07-05-大模型时代数据库技术创新](https://posts.careerengine.us/p/668792e80f1ebd2391b54333) 
 - [2020-02-28-Hydrating-text-content-from-Server-Side-Rendering](https://lihautan.com/hydrating-text-content/) 
 - [2017-11-26-Took-me-hours-to-realise-why-docker-build-ignores-my-.dockerignore](https://lihautan.com/why-docker-ignores-my-file/) 
 - [2019-07-21-Algebraic-Effects-for-the-Rest-of-Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/) 

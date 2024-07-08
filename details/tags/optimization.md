@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-07 13:12:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-08 08:50:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -180,7 +180,18 @@
 - [2021-09-08-VS-Code-是如何优化启动性能的？](https://fed.taobao.org/blog/taofed/do71ct/wpsf10) 
 - [2023-10-29-聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/) 
 - [2019-09-30-浏览器IMG图片原生懒加载loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/) 
+- [2024-07-05-sanderdlm/chop:-通过-CLI-重置-OPcache-内容，无需重新加载-PHP-FPM](https://github.com/guanguans/favorite-link/commit/603c1a668f2fd1502437ae99ec7b0475bd4633f8) 
 - [2024-07-05-一些你可能不知道的前端小优化--̗̀๑ᵔ⌔ᵔ๑](https://juejin.cn/post/7387801635327655945) 
+- [2024-06-14-使用-Golang-实现高-IO-性能超边缘缓存服务器](https://juejin.cn/post/7380222254195834892) 
+- [2024-06-11-抖音Android端图片优化实践](https://juejin.cn/post/7378459137418903552) 
+- [2024-05-29-字节跳动下一代通用高性能-OneAgent](https://juejin.cn/post/7373966330083573770) 
+- [2024-05-24-2024-抖音欢笑中国年六：前端互动场景中的性能优化](https://juejin.cn/post/7372115662464581683) 
+- [2024-06-14-使用-Golang-实现高-IO-性能超边缘缓存服务器](https://juejin.cn/post/7380222254195834892) 
+- [2024-06-11-抖音Android端图片优化实践](https://juejin.cn/post/7378459137418903552) 
+- [2024-05-29-字节跳动下一代通用高性能-OneAgent](https://juejin.cn/post/7373966330083573770) 
+- [2024-05-24-2024-抖音欢笑中国年六：前端互动场景中的性能优化](https://juejin.cn/post/7372115662464581683) 
 - [2024-03-21-大众点评内容搜索算法优化的探索与实践](https://tech.meituan.com/2024/03/21/content-search-algorithm-optimization.html) 
+- [2019-07-09-大盘点-|-性能最强的目标检测算法](https://posts.careerengine.us/p/5d2408838491be42195e3c5c) 
+- [2024-07-06-ICML-2024高分论文-|-大幅降低内存！用零阶优化器微调大模型](https://posts.careerengine.us/p/66884d9fe40d667052e8a6e3) 
 - [2021-11-09-边缘计算：让-CDN-成为高性能-GraphQL-网关](https://zhuanlan.zhihu.com/p/402971190) 
 - [2021-05-10-前端智能化——图层抽象与优化](https://zhuanlan.zhihu.com/p/371218022) 
