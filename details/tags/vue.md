@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-08 08:50:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-09 20:13:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -441,11 +441,15 @@
 - [2018-11-17-Vue.js-3.0-PPT（附部分中文翻译）](http://www.yyyweb.com/5216.html) 
 - [2018-11-06-Vue.js-父子组件之间通信的十种方式](http://www.yyyweb.com/5189.html) 
 - [2018-08-13-Vue-项目中-axios-的封装和API接口的管理](http://www.yyyweb.com/5135.html) 
-- [2024-07-07-Vue3.js“非原始值”响应式实现基本原理笔记（三）](https://juejin.cn/post/7388395268850581541) 
-- [2024-07-07-Vue实战——饿了么（二）](https://juejin.cn/post/7388278660149231666) 
-- [2024-07-07-Vue+OpenAi无后端实现一个简单的对话聊天功能](https://juejin.cn/post/7388488504055513124) 
-- [2024-07-07-vue入门：vue指令详解与实操运用1](https://juejin.cn/post/7388328892309651490) 
+- [2024-07-09-vue项目首次加载缓慢，利用splitChunks分包打包导致上线chunk-XX.js文件过多页面加载缓慢资源请求阻塞问题解决方案](https://juejin.cn/post/7389253841152933899) 
+- [2024-07-09-Vue中父子组件通讯](https://juejin.cn/post/7389259362720186420) 
+- [2024-07-09-【闭包】vant上传组件uploader的自定义参数实现源码分析](https://juejin.cn/post/7389428858389643275) 
+- [2024-07-09-vue3-diff算法总结](https://juejin.cn/post/7389452029347463219) 
 - [2024-07-07-「Vue学习之路」——-vue的常用指令](https://juejin.cn/post/7388278660149674034) 
+- [2024-07-07-vue入门：vue指令详解与实操运用1](https://juejin.cn/post/7388328892309651490) 
+- [2024-07-07-Vue+OpenAi无后端实现一个简单的对话聊天功能](https://juejin.cn/post/7388488504055513124) 
+- [2024-07-07-Vue实战——饿了么（二）](https://juejin.cn/post/7388278660149231666) 
+- [2024-07-07-Vue3.js“非原始值”响应式实现基本原理笔记（三）](https://juejin.cn/post/7388395268850581541) 
 - [2024-07-06-vue3使用video.js播放m3u8格式视频](https://juejin.cn/post/7388106238368989234) 
 - [2022-02-14-精读《vue-lit-源码》](https://zhuanlan.zhihu.com/p/467098102) 
 - [2022-10-16-Patterns-of-VueUse](https://antfu.me/posts/patterns-of-vueuse-vuefes-japan-2022) 

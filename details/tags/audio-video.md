@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-08 08:50:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-09 20:13:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -117,11 +117,17 @@
 - [2022-12-03-手把手教你从0到1打造一个-WebRTC-应用](http://www.yyyweb.com/5480.html) 
 - [2022-07-23-做一个-WebRTC-视频通话给自己用吧](http://www.yyyweb.com/5466.html) 
 - [2018-11-08-开发技巧：使用-ImageMagick-进行图像处理](http://www.yyyweb.com/5199.html) 
-- [2024-07-07-达摩院发布一站式AI视频创作平台“寻光”，打造全新AI工作流](https://posts.careerengine.us/p/668a250df4db0b6a59203d68) 
-- [2024-07-07-做具身大模型缺数据？ATM-教你人类视频的正确用法](https://posts.careerengine.us/p/668a251b26850b6ae4ebe263) 
+- [2024-07-09-70万人争先体验！视频生成新王者「可灵AI」又双叒升级了](https://posts.careerengine.us/p/668d0eaca8c645071f5d8a60) 
 - [2024-07-07-开源视频版GPT-4o？快速记忆，实时问答，拿下CVPR'24长视频问答竞赛冠军](https://posts.careerengine.us/p/668a252aab7dec6b08ac5770) 
+- [2024-07-07-做具身大模型缺数据？ATM-教你人类视频的正确用法](https://posts.careerengine.us/p/668a251b26850b6ae4ebe263) 
+- [2024-07-07-达摩院发布一站式AI视频创作平台“寻光”，打造全新AI工作流](https://posts.careerengine.us/p/668a250df4db0b6a59203d68) 
 - [2024-07-06-更美图像生成、直出分钟级视频，国产自研DiT架构的越级之旅](https://posts.careerengine.us/p/6688cf49b597d908ba32df39) 
+- [2024-07-09-Wolfram之父直播采访机器人，一小时30多个问题对答如流，还有网友在线提问](https://posts.careerengine.us/p/668ccb2eadacc96e6cd2a66c) 
+- [2024-07-08-半小时教你手搓AI视频通话，还有懒人版代码已开源](https://posts.careerengine.us/p/668bb999336c167586a343c4) 
 - [2024-07-06-扩散模型也能推荐短视频！港大腾讯提出新范式DiffMM](https://posts.careerengine.us/p/668921b355ac18586f97bf74) 
-- [2024-07-05-AI视频创作一条龙！达摩院“寻光”平台炸场WAIC，突破可控编辑难题](https://posts.careerengine.us/p/6687bbe1f0ca8347a881d53e) 
 - [2024-07-05-阿里音频生成大模型一次发俩还开源！50种语言快速理解+5种语言语音生成，带情感的那种](https://posts.careerengine.us/p/6687bbf0907ddc47cdf90124) 
+- [2024-07-05-AI视频创作一条龙！达摩院“寻光”平台炸场WAIC，突破可控编辑难题](https://posts.careerengine.us/p/6687bbe1f0ca8347a881d53e) 
+- [2024-07-09-xLSTM崛起！魔芯科技、中科大等新研究揭示其在医学图像分割中超越Mamba](https://posts.careerengine.us/p/668ccc4228ab7072e2400ff5) 
+- [2024-07-08-ECCV-2024-|-VideoMamba：用于高效视频理解的状态空间模型](https://posts.careerengine.us/p/668bbda3a189d8080e94c948) 
+- [2024-07-09-都说-RAG-“烂大街”了，但为何深度应用寥寥无几？|-直播预告](https://posts.careerengine.us/p/668ccc6022367d739ac7eb28) 
 - [2024-07-07-聊聊金融业如何用好大模型这把“利刃”-|-直播预告](https://posts.careerengine.us/p/668a290d6cd7b87a93cb1306) 
