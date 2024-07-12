@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-07-09T12:13:13.587Z</updated>
+    <updated>2024-07-12T03:38:11.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,254 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[josdejong/jsoneditor]]></title>
-        <id>https://github.com/josdejong/jsoneditor</id>
-        <link href="https://github.com/josdejong/jsoneditor"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[trekhleb/javascript-algorithms]]></title>
+        <id>https://github.com/trekhleb/javascript-algorithms</id>
+        <link href="https://github.com/trekhleb/javascript-algorithms"/>
+        <updated>2024-07-11T16:00:00.000Z</updated>
+        <published>2024-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[expressjs/express]]></title>
+        <id>https://github.com/expressjs/express</id>
+        <link href="https://github.com/expressjs/express"/>
+        <updated>2024-07-11T16:00:00.000Z</updated>
+        <published>2024-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[airbnb/javascript]]></title>
+        <id>https://github.com/airbnb/javascript</id>
+        <link href="https://github.com/airbnb/javascript"/>
+        <updated>2024-07-11T16:00:00.000Z</updated>
+        <published>2024-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DataDog/dd-trace-js]]></title>
+        <id>https://github.com/DataDog/dd-trace-js</id>
+        <link href="https://github.com/DataDog/dd-trace-js"/>
+        <updated>2024-07-11T16:00:00.000Z</updated>
+        <published>2024-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[diegomura/react-pdf]]></title>
+        <id>https://github.com/diegomura/react-pdf</id>
+        <link href="https://github.com/diegomura/react-pdf"/>
+        <updated>2024-07-11T16:00:00.000Z</updated>
+        <published>2024-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SortableJS/Vue.Draggable]]></title>
+        <id>https://github.com/SortableJS/Vue.Draggable</id>
+        <link href="https://github.com/SortableJS/Vue.Draggable"/>
+        <updated>2024-07-11T16:00:00.000Z</updated>
+        <published>2024-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不了解事件循环EventLoop的不是一个好前端er]]></title>
+        <id>https://juejin.cn/post/7390341683600752680</id>
+        <link href="https://juejin.cn/post/7390341683600752680"/>
+        <updated>2024-07-11T16:00:00.000Z</updated>
+        <published>2024-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超越 Transformer 与 Mamba，Meta 联合斯坦福等高校推出最强架构 TTT]]></title>
+        <id>https://posts.careerengine.us/p/668f6ed096553d7b418292b8</id>
+        <link href="https://posts.careerengine.us/p/668f6ed096553d7b418292b8"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVPR成全球第二大学术出版物，超越Science！AI顶会占领前20｜谷歌学术指标2024]]></title>
+        <id>https://posts.careerengine.us/p/668f5701ed0b8119c513978a</id>
+        <link href="https://posts.careerengine.us/p/668f5701ed0b8119c513978a"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub 8k Star，一作实习生，字节这个大模型成果被苹果选中了]]></title>
+        <id>https://posts.careerengine.us/p/668f8f140fed1a018978c8cb</id>
+        <link href="https://posts.careerengine.us/p/668f8f140fed1a018978c8cb"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halide 团队全新力作，专业视频更轻松拍：Kino]]></title>
+        <id>https://sspai.com/post/90314</id>
+        <link href="https://sspai.com/post/90314"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue Router学习（十四）—— 组合式API]]></title>
+        <id>https://juejin.cn/post/7390319395833102373</id>
+        <link href="https://juejin.cn/post/7390319395833102373"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多目标渲染(MRT)]]></title>
+        <id>https://juejin.cn/post/7390335741586489370</id>
+        <link href="https://juejin.cn/post/7390335741586489370"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PEP8（四），import]]></title>
+        <id>https://juejin.cn/post/7390335741586456602</id>
+        <link href="https://juejin.cn/post/7390335741586456602"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魔改react-calendar还原UI设计中的打卡日历效果]]></title>
+        <id>https://juejin.cn/post/7390339467783438372</id>
+        <link href="https://juejin.cn/post/7390339467783438372"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puppeteer：从零出发，全面掌握浏览器自动化神器]]></title>
+        <id>https://juejin.cn/post/7390319492121362468</id>
+        <link href="https://juejin.cn/post/7390319492121362468"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面试常考的浮动布局和高度塌陷]]></title>
+        <id>https://juejin.cn/post/7390319475520503860</id>
+        <link href="https://juejin.cn/post/7390319475520503860"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript中的常量-除了’const‘你还知道几种？]]></title>
+        <id>https://juejin.cn/post/7390339205974638611</id>
+        <link href="https://juejin.cn/post/7390339205974638611"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正则表达式：快速精准的字符串匹配宝典]]></title>
+        <id>https://juejin.cn/post/7390319475520421940</id>
+        <link href="https://juejin.cn/post/7390319475520421940"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This你到底在指谁]]></title>
+        <id>https://juejin.cn/post/7390319395832676389</id>
+        <link href="https://juejin.cn/post/7390319395832676389"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[webgpu实现画板]]></title>
+        <id>https://juejin.cn/post/7390339205974540307</id>
+        <link href="https://juejin.cn/post/7390339205974540307"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[业务代码写累了，写个小游戏玩玩]]></title>
+        <id>https://juejin.cn/post/7390335741585883162</id>
+        <link href="https://juejin.cn/post/7390335741585883162"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详解CSS引入样式的4种方式]]></title>
+        <id>https://juejin.cn/post/7390184494098579510</id>
+        <link href="https://juejin.cn/post/7390184494098579510"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koa.js: 深入探索现代web框架的实践示例（一）]]></title>
+        <id>https://juejin.cn/post/7390178097821827108</id>
+        <link href="https://juejin.cn/post/7390178097821827108"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do the (ESLint) Evolution]]></title>
+        <id>https://javascriptweekly.com/issues/696</id>
+        <link href="https://javascriptweekly.com/issues/696"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Summit 2024: Why Use Redux Today?]]></title>
+        <id>https://blog.isquaredsoftware.com/2024/07/presentations-why-use-redux/</id>
+        <link href="https://blog.isquaredsoftware.com/2024/07/presentations-why-use-redux/"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里开源语音处理模型 FunAudioLLM ：50 种语言无缝翻译，还能识别语音情绪]]></title>
+        <id>https://posts.careerengine.us/p/668e1de1a3626e12f8bf24f3</id>
+        <link href="https://posts.careerengine.us/p/668e1de1a3626e12f8bf24f3"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深圳内推 | ​腾讯AI Lab招聘自然语言处理方向算法实习生]]></title>
+        <id>https://posts.careerengine.us/p/668e184bf3d4967b1b49f014</id>
+        <link href="https://posts.careerengine.us/p/668e184bf3d4967b1b49f014"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ControlNet作者新项目爆火：仅一张图生成25秒绘画全过程！不到一天GitHub揽星600+]]></title>
+        <id>https://posts.careerengine.us/p/668e0b47726e97455039a025</id>
+        <link href="https://posts.careerengine.us/p/668e0b47726e97455039a025"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[axyr/laravel-email-viewer: 适用于 Laravel 的简单电子邮件查看器]]></title>
+        <id>https://github.com/guanguans/favorite-link/commit/585381a5ddb8d5019ddbf8b3ec00b39e83b7b0b5</id>
+        <link href="https://github.com/guanguans/favorite-link/commit/585381a5ddb8d5019ddbf8b3ec00b39e83b7b0b5"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[next-build/database-viewer: 用于查看数据库的 Laravel 软件包]]></title>
+        <id>https://github.com/guanguans/favorite-link/commit/b5962a290c6f7d9dc67e8a756d6e22692be5391e</id>
+        <link href="https://github.com/guanguans/favorite-link/commit/b5962a290c6f7d9dc67e8a756d6e22692be5391e"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[veeqtoh/secure-code: 一个 Laravel 软件包，用于生成和管理应用程序的 n 位随机安全代码。]]></title>
+        <id>https://github.com/guanguans/favorite-link/commit/31d4f93fedb9ac074175c824bf2d75072fa3c8c3</id>
+        <link href="https://github.com/guanguans/favorite-link/commit/31d4f93fedb9ac074175c824bf2d75072fa3c8c3"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bytedance/mockey: 简单易用的 golang 模拟库]]></title>
+        <id>https://github.com/guanguans/favorite-link/commit/4bd6352c268065d5617abc7650c56f12d55e8494</id>
+        <link href="https://github.com/guanguans/favorite-link/commit/4bd6352c268065d5617abc7650c56f12d55e8494"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[loong/go-concurrency-exercises: loong/go-concurrency-exercises: Golang 并发模式练习。]]></title>
+        <id>https://github.com/guanguans/favorite-link/commit/3a0f299f4a28b121ec2f4013c659478ed860ee13</id>
+        <link href="https://github.com/guanguans/favorite-link/commit/3a0f299f4a28b121ec2f4013c659478ed860ee13"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[sveltejs/svelte]]></title>
         <id>https://github.com/sveltejs/svelte</id>
         <link href="https://github.com/sveltejs/svelte"/>
+        <updated>2024-07-08T16:00:00.000Z</updated>
+        <published>2024-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[josdejong/jsoneditor]]></title>
+        <id>https://github.com/josdejong/jsoneditor</id>
+        <link href="https://github.com/josdejong/jsoneditor"/>
         <updated>2024-07-08T16:00:00.000Z</updated>
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
@@ -36,13 +274,6 @@
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECCV 2024 | 利用更易广泛获取的人体掩膜，实现SOTA无监督3D姿态估计]]></title>
-        <id>https://posts.careerengine.us/p/668ccc4228ab7072e2401005</id>
-        <link href="https://posts.careerengine.us/p/668ccc4228ab7072e2401005"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[xLSTM崛起！魔芯科技、中科大等新研究揭示其在医学图像分割中超越Mamba]]></title>
         <id>https://posts.careerengine.us/p/668ccc4228ab7072e2400ff5</id>
         <link href="https://posts.careerengine.us/p/668ccc4228ab7072e2400ff5"/>
@@ -50,16 +281,9 @@
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[无人车团队跨维进军好莱坞！推出电影级视觉AI特效，“新时代皮克斯”]]></title>
-        <id>https://posts.careerengine.us/p/668ccb2fadacc96e6cd2a674</id>
-        <link href="https://posts.careerengine.us/p/668ccb2fadacc96e6cd2a674"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wolfram之父直播采访机器人，一小时30多个问题对答如流，还有网友在线提问]]></title>
-        <id>https://posts.careerengine.us/p/668ccb2eadacc96e6cd2a66c</id>
-        <link href="https://posts.careerengine.us/p/668ccb2eadacc96e6cd2a66c"/>
+        <title type="html"><![CDATA[ECCV 2024 | 利用更易广泛获取的人体掩膜，实现SOTA无监督3D姿态估计]]></title>
+        <id>https://posts.careerengine.us/p/668ccc4228ab7072e2401005</id>
+        <link href="https://posts.careerengine.us/p/668ccc4228ab7072e2401005"/>
         <updated>2024-07-08T16:00:00.000Z</updated>
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
@@ -71,9 +295,16 @@
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[又遇到「GPT写的review」了？看看北大&密歇根的这个研究工作]]></title>
-        <id>https://posts.careerengine.us/p/668d0ecbd55871076534c857</id>
-        <link href="https://posts.careerengine.us/p/668d0ecbd55871076534c857"/>
+        <title type="html"><![CDATA[Wolfram之父直播采访机器人，一小时30多个问题对答如流，还有网友在线提问]]></title>
+        <id>https://posts.careerengine.us/p/668ccb2eadacc96e6cd2a66c</id>
+        <link href="https://posts.careerengine.us/p/668ccb2eadacc96e6cd2a66c"/>
+        <updated>2024-07-08T16:00:00.000Z</updated>
+        <published>2024-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无人车团队跨维进军好莱坞！推出电影级视觉AI特效，“新时代皮克斯”]]></title>
+        <id>https://posts.careerengine.us/p/668ccb2fadacc96e6cd2a674</id>
+        <link href="https://posts.careerengine.us/p/668ccb2fadacc96e6cd2a674"/>
         <updated>2024-07-08T16:00:00.000Z</updated>
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
@@ -85,86 +316,9 @@
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[vue3 diff算法总结]]></title>
-        <id>https://juejin.cn/post/7389452029347463219</id>
-        <link href="https://juejin.cn/post/7389452029347463219"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-in-JS：样式管理的新范式与优缺点]]></title>
-        <id>https://juejin.cn/post/7389446404189831187</id>
-        <link href="https://juejin.cn/post/7389446404189831187"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 原型与原型链，继承]]></title>
-        <id>https://juejin.cn/post/7389440983802609691</id>
-        <link href="https://juejin.cn/post/7389440983802609691"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【闭包】vant上传组件uploader的自定义参数实现源码分析]]></title>
-        <id>https://juejin.cn/post/7389428858389643275</id>
-        <link href="https://juejin.cn/post/7389428858389643275"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Element Plus 自定义加载图标]]></title>
-        <id>https://juejin.cn/post/7389428858389610507</id>
-        <link href="https://juejin.cn/post/7389428858389610507"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 19 Compiler：它是什么，它将如何改变前端开发？]]></title>
-        <id>https://juejin.cn/post/7389446655470223394</id>
-        <link href="https://juejin.cn/post/7389446655470223394"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue中父子组件通讯]]></title>
-        <id>https://juejin.cn/post/7389259362720186420</id>
-        <link href="https://juejin.cn/post/7389259362720186420"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vue项目首次加载缓慢，利用splitChunks分包打包导致上线chunk-XX.js文件过多页面加载缓慢资源请求阻塞问题解决方案]]></title>
-        <id>https://juejin.cn/post/7389253841152933899</id>
-        <link href="https://juejin.cn/post/7389253841152933899"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鸿蒙开发（二）页面组件级UI状态存储]]></title>
-        <id>https://juejin.cn/post/7389212915303170058</id>
-        <link href="https://juejin.cn/post/7389212915303170058"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你知道实现"前端路由"有多简单吗？这篇详解，让你面试考到完全不慌]]></title>
-        <id>https://juejin.cn/post/7389278362242023461</id>
-        <link href="https://juejin.cn/post/7389278362242023461"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于uniapp请求封装的一篇文章🌟]]></title>
-        <id>https://juejin.cn/post/7389225110312648704</id>
-        <link href="https://juejin.cn/post/7389225110312648704"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度解析：前端性能优化之代码分割与懒加载策略]]></title>
-        <id>https://juejin.cn/post/7389278362241613861</id>
-        <link href="https://juejin.cn/post/7389278362241613861"/>
+        <title type="html"><![CDATA[又遇到「GPT写的review」了？看看北大&密歇根的这个研究工作]]></title>
+        <id>https://posts.careerengine.us/p/668d0ecbd55871076534c857</id>
+        <link href="https://posts.careerengine.us/p/668d0ecbd55871076534c857"/>
         <updated>2024-07-08T16:00:00.000Z</updated>
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
@@ -176,192 +330,38 @@
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[gallonyin/worktool: 一款安全稳定的Android无障碍服务工具，支持控制企微/微信来运行的无人值守群管理机器人]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/a546de47150688c05b4a6f18b24746b639746810</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/a546de47150688c05b4a6f18b24746b639746810"/>
+        <title type="html"><![CDATA[深度解析：前端性能优化之代码分割与懒加载策略]]></title>
+        <id>https://juejin.cn/post/7389278362241613861</id>
+        <link href="https://juejin.cn/post/7389278362241613861"/>
         <updated>2024-07-08T16:00:00.000Z</updated>
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[facebook/react]]></title>
-        <id>https://github.com/facebook/react</id>
-        <link href="https://github.com/facebook/react"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[关于uniapp请求封装的一篇文章🌟]]></title>
+        <id>https://juejin.cn/post/7389225110312648704</id>
+        <link href="https://juejin.cn/post/7389225110312648704"/>
+        <updated>2024-07-08T16:00:00.000Z</updated>
+        <published>2024-07-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[xenova/transformers.js]]></title>
-        <id>https://github.com/xenova/transformers.js</id>
-        <link href="https://github.com/xenova/transformers.js"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[你知道实现"前端路由"有多简单吗？这篇详解，让你面试考到完全不慌]]></title>
+        <id>https://juejin.cn/post/7389278362242023461</id>
+        <link href="https://juejin.cn/post/7389278362242023461"/>
+        <updated>2024-07-08T16:00:00.000Z</updated>
+        <published>2024-07-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[nodejs/node]]></title>
-        <id>https://github.com/nodejs/node</id>
-        <link href="https://github.com/nodejs/node"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[鸿蒙开发（二）页面组件级UI状态存储]]></title>
+        <id>https://juejin.cn/post/7389212915303170058</id>
+        <link href="https://juejin.cn/post/7389212915303170058"/>
+        <updated>2024-07-08T16:00:00.000Z</updated>
+        <published>2024-07-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[面壁 WAIC 新发布：新一代高效低能耗架构面壁小钢炮、一键开发大模型 APP 的全栈工具集]]></title>
-        <id>https://posts.careerengine.us/p/668b81ff596c9814ddfa4466</id>
-        <link href="https://posts.careerengine.us/p/668b81ff596c9814ddfa4466"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECCV 2024 | VideoMamba：用于高效视频理解的状态空间模型]]></title>
-        <id>https://posts.careerengine.us/p/668bbda3a189d8080e94c948</id>
-        <link href="https://posts.careerengine.us/p/668bbda3a189d8080e94c948"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[半小时教你手搓AI视频通话，还有懒人版代码已开源]]></title>
-        <id>https://posts.careerengine.us/p/668bb999336c167586a343c4</id>
-        <link href="https://posts.careerengine.us/p/668bb999336c167586a343c4"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与世无争的WeakSet和WeakMap]]></title>
-        <id>https://juejin.cn/post/7388459061758263331</id>
-        <link href="https://juejin.cn/post/7388459061758263331"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我该怎么优化？防抖？节流？]]></title>
-        <id>https://juejin.cn/post/7388338139633352755</id>
-        <link href="https://juejin.cn/post/7388338139633352755"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ytake/phluxor: PHP 中灵活的参与者模型工具包，增强 PHP 生态系统的能力]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/07e48ed13f2c8d4be4851f896d395be35899c8a4</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/07e48ed13f2c8d4be4851f896d395be35899c8a4"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alienator88/Pearcleaner: 一款免费、源码可用且获得公平代码许可的 Mac 应用程序清理工具]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/0350a84e5c325eff90ee72531aa13683467cd253</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/0350a84e5c325eff90ee72531aa13683467cd253"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊聊金融业如何用好大模型这把“利刃” | 直播预告]]></title>
-        <id>https://posts.careerengine.us/p/668a290d6cd7b87a93cb1306</id>
-        <link href="https://posts.careerengine.us/p/668a290d6cd7b87a93cb1306"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[达摩院发布一站式AI视频创作平台“寻光”，打造全新AI工作流]]></title>
-        <id>https://posts.careerengine.us/p/668a250df4db0b6a59203d68</id>
-        <link href="https://posts.careerengine.us/p/668a250df4db0b6a59203d68"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做具身大模型缺数据？ATM 教你人类视频的正确用法]]></title>
-        <id>https://posts.careerengine.us/p/668a251b26850b6ae4ebe263</id>
-        <link href="https://posts.careerengine.us/p/668a251b26850b6ae4ebe263"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源视频版GPT-4o？快速记忆，实时问答，拿下CVPR'24长视频问答竞赛冠军]]></title>
-        <id>https://posts.careerengine.us/p/668a252aab7dec6b08ac5770</id>
-        <link href="https://posts.careerengine.us/p/668a252aab7dec6b08ac5770"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3.js“非原始值”响应式实现基本原理笔记（三）]]></title>
-        <id>https://juejin.cn/post/7388395268850581541</id>
-        <link href="https://juejin.cn/post/7388395268850581541"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回顾 2024 Google I/O 大会：CSS 和 Web UI 最新动态]]></title>
-        <id>https://juejin.cn/post/7388338139632877619</id>
-        <link href="https://juejin.cn/post/7388338139632877619"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue实战——饿了么（二）]]></title>
-        <id>https://juejin.cn/post/7388278660149231666</id>
-        <link href="https://juejin.cn/post/7388278660149231666"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[npm update/dedupe更新依赖]]></title>
-        <id>https://juejin.cn/post/7388338139633090611</id>
-        <link href="https://juejin.cn/post/7388338139633090611"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 入门 基本的使用]]></title>
-        <id>https://juejin.cn/post/7388714402167652389</id>
-        <link href="https://juejin.cn/post/7388714402167652389"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue+OpenAi无后端实现一个简单的对话聊天功能]]></title>
-        <id>https://juejin.cn/post/7388488504055513124</id>
-        <link href="https://juejin.cn/post/7388488504055513124"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vue入门：vue指令详解与实操运用(1)]]></title>
-        <id>https://juejin.cn/post/7388328892309651490</id>
-        <link href="https://juejin.cn/post/7388328892309651490"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Vue学习之路」—— vue的常用指令]]></title>
-        <id>https://juejin.cn/post/7388278660149674034</id>
-        <link href="https://juejin.cn/post/7388278660149674034"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 3D Gen 震撼发布：1 分钟打造顶级 3D 模型]]></title>
-        <id>https://posts.careerengine.us/p/6688d797ae35062a713834b8</id>
-        <link href="https://posts.careerengine.us/p/6688d797ae35062a713834b8"/>
-        <updated>2024-07-05T16:00:00.000Z</updated>
-        <published>2024-07-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICML 2024高分论文 | 大幅降低内存！用零阶优化器微调大模型]]></title>
-        <id>https://posts.careerengine.us/p/66884d9fe40d667052e8a6e3</id>
-        <link href="https://posts.careerengine.us/p/66884d9fe40d667052e8a6e3"/>
-        <updated>2024-07-05T16:00:00.000Z</updated>
-        <published>2024-07-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扩散模型也能推荐短视频！港大腾讯提出新范式DiffMM]]></title>
-        <id>https://posts.careerengine.us/p/668921b355ac18586f97bf74</id>
-        <link href="https://posts.careerengine.us/p/668921b355ac18586f97bf74"/>
-        <updated>2024-07-05T16:00:00.000Z</updated>
-        <published>2024-07-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更美图像生成、直出分钟级视频，国产自研DiT架构的越级之旅]]></title>
-        <id>https://posts.careerengine.us/p/6688cf49b597d908ba32df39</id>
-        <link href="https://posts.careerengine.us/p/6688cf49b597d908ba32df39"/>
-        <updated>2024-07-05T16:00:00.000Z</updated>
-        <published>2024-07-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[vue项目首次加载缓慢，利用splitChunks分包打包导致上线chunk-XX.js文件过多页面加载缓慢资源请求阻塞问题解决方案]]></title>
+        <id>https://juejin.cn/post/7389253841152933899</id>
+        <link href="https://juejin.cn/post/7389253841152933899"/>
+        <updated>2024-07-08T16:00:00.000Z</updated>
+        <published>2024-07-08T16:00:00.000Z</published>
     </entry>
 </feed>

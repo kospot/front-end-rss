@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-09 20:13:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-12 11:38:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-07-09-Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539) 
 - [2024-06-25-Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537) 
 - [2024-06-18-A-snapshot-of-what's-new-in-Node](https://nodeweekly.com/issues/536) 
 - [2024-06-04-The-newest-Node.js-runtime-features](https://nodeweekly.com/issues/534) 
@@ -343,8 +344,10 @@
 - [2019-03-01-快速定位线上-Node.js-内存泄漏问题](http://www.yyyweb.com/5274.html) 
 - [2018-12-20-深入理解Node.js垃圾回收与内存管理](http://www.yyyweb.com/5225.html) 
 - [2018-12-12-如何进行-GC-调优提升-Node-应用性能](http://www.yyyweb.com/5221.html) 
-- [2024-07-05-如何用koa构造优雅的端口服务](https://juejin.cn/post/7387992438297968640) 
+- [2024-07-11-Koa.js:-深入探索现代web框架的实践示例（一）](https://juejin.cn/post/7390178097821827108) 
+- [2024-07-11-Puppeteer：从零出发，全面掌握浏览器自动化神器](https://juejin.cn/post/7390319492121362468) 
 - [2024-07-05-Node.js迈向后端世界：从"Hello-World"到"Hello-Backend!"](https://juejin.cn/post/7387999151412035619) 
+- [2024-07-05-如何用koa构造优雅的端口服务](https://juejin.cn/post/7387992438297968640) 
 - [2024-04-22-在-Electron-中使用-SQLite-的最好方式](https://lutaonan.com/blog/electron-sqlite/) 
 - [2020-08-24-Midway---A-Node.js-framework-for-Serverless---Interview-with-Harry-Chen](https://survivejs.com/blog/midway-interview) 
 - [2019-04-22-Express-Gateway---A-microservices-API-Gateway-built-on-top-of-Express.js---Interview-with-Vincenzo-Chianese](https://survivejs.com/blog/express-gateway-interview) 
@@ -355,5 +358,6 @@
 - [2015-10-05-Cerebral---Expressing-Application-Flow-with-Signals---Interview-with-Christian-Alfoni](https://survivejs.com/blog/cerebral-interview) 
 - [2016-04-13-5-Steps-to-build-NodeJS-using-Travis-CI](https://lihautan.com/5-steps-to-build-nodejs-using-travis-ci/) 
 - [2019-01-22-My-first-WebAssembly-trial-with-Node.js-only](https://blog.axlight.com/posts/my-first-webassembly-trial-with-node-js-only/) 
+- [2024-07-12-expressjs/express](https://github.com/expressjs/express) 
 - [2024-07-08-nodejs/node](https://github.com/nodejs/node) 
 - [2024-05-16-ECMAScript-2025-feature:-duplicate-named-capturing-groups-for-regular-expressions](https://2ality.com/2024/05/proposal-duplicate-named-capturing-groups.html) 

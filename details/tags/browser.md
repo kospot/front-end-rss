@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-09 20:13:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-12 11:38:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -407,9 +407,13 @@
 - [2019-10-27-你真的了解重绘和重排（回流）吗？](http://www.yyyweb.com/5317.html) 
 - [2018-08-18-移动端调试痛点？送你五款前端开发利器！](http://www.yyyweb.com/5140.html) 
 - [2018-07-30-nativefier-–-让网页一键生成桌面应用程序](http://www.yyyweb.com/5117.html) 
+- [2024-07-10-veeqtoh/secure-code:-一个-Laravel-软件包，用于生成和管理应用程序的-n-位随机安全代码。](https://github.com/guanguans/favorite-link/commit/31d4f93fedb9ac074175c824bf2d75072fa3c8c3) 
+- [2024-07-10-next-build/database-viewer:-用于查看数据库的-Laravel-软件包](https://github.com/guanguans/favorite-link/commit/b5962a290c6f7d9dc67e8a756d6e22692be5391e) 
+- [2024-07-10-axyr/laravel-email-viewer:-适用于-Laravel-的简单电子邮件查看器](https://github.com/guanguans/favorite-link/commit/585381a5ddb8d5019ddbf8b3ec00b39e83b7b0b5) 
 - [2024-07-09-gallonyin/worktool:-一款安全稳定的Android无障碍服务工具，支持控制企微/微信来运行的无人值守群管理机器人](https://github.com/guanguans/favorite-link/commit/a546de47150688c05b4a6f18b24746b639746810) 
 - [2024-07-08-alienator88/Pearcleaner:-一款免费、源码可用且获得公平代码许可的-Mac-应用程序清理工具](https://github.com/guanguans/favorite-link/commit/0350a84e5c325eff90ee72531aa13683467cd253) 
 - [2022-02-13-“一把梭：REST-API-全用-POST”](https://coolshell.cn/articles/22173.html) 
+- [2024-07-11-多目标渲染MRT](https://juejin.cn/post/7390335741586489370) 
 - [2024-07-09-关于uniapp请求封装的一篇文章🌟](https://juejin.cn/post/7389225110312648704) 
 - [2024-07-05-浏览器的储存空间，你知道吗？](https://juejin.cn/post/7388025457822859274) 
 - [2024-04-24-LLM-安全-|-大语言模型应用安全入门](https://juejin.cn/post/7361253974051602441) 
@@ -417,6 +421,7 @@
 - [2024-07-01-How-to-use-container-queries-now](https://web.dev/blog/how-to-use-container-queries-now?hl=en) 
 - [2024-07-05-具透-Plus-|-企图变聪明的-Chrome-与小广告止不住的-Windows](https://sspai.com/prime/story/inside-release-notes-240705) 
 - [2024-07-09-又遇到「GPT写的review」了？看看北大&amp;密歇根的这个研究工作](https://posts.careerengine.us/p/668d0ecbd55871076534c857) 
+- [2024-07-11-CVPR成全球第二大学术出版物，超越Science！AI顶会占领前20｜谷歌学术指标2024](https://posts.careerengine.us/p/668f5701ed0b8119c513978a) 
 - [2019-09-01-IEEE-WIE首次在中国举行领导力峰会，就等你来！](https://posts.careerengine.us/p/5d6b41dd790f085ec56caa01) 
 - [2020-09-25-腾讯发布业内首个AI安全攻击矩阵，最全「排雷图」拿走不谢](https://posts.careerengine.us/p/62cab0de86f8106f0c1c8409) 
 - [2023-07-30-开发一个浏览器插件在第三天卖出-1000-元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/) 

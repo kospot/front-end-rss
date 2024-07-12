@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-09 20:13:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-12 11:38:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -444,11 +444,13 @@
 - [2019-09-09-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5305.html) 
 - [2019-08-30-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5302.html) 
 - [2019-07-08-微前端架构：增量升级、代码解耦、独立部署](http://www.yyyweb.com/5298.html) 
+- [2024-07-11-webgpu实现画板](https://juejin.cn/post/7390339205974540307) 
 - [2024-07-05-微前端---qiankun-入门到实践——第三节：Qiankun简介](https://juejin.cn/post/7387963168838598666) 
 - [2024-04-11-美团外卖基于GPU的向量检索系统实践](https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html) 
 - [2024-07-05-「临门一脚」助你入门-Vim：Kickstart-配置笔记](https://sspai.com/post/90115) 
 - [2024-07-06-红杉：重金购入GPU后，AI行业收入缺口达到5000亿美元](https://posts.careerengine.us/p/6688cf49b597d908ba32df31) 
 - [2022-01-18-腾讯发布国内首份可解释-AI-报告：详解打开算法黑箱的理念与实践｜附报告下载](https://posts.careerengine.us/p/61e9363db8def616d683d0fc) 
+- [2024-07-10-深圳内推-|-​腾讯AI-Lab招聘自然语言处理方向算法实习生](https://posts.careerengine.us/p/668e184bf3d4967b1b49f014) 
 - [2024-07-08-面壁-WAIC-新发布：新一代高效低能耗架构面壁小钢炮、一键开发大模型-APP-的全栈工具集](https://posts.careerengine.us/p/668b81ff596c9814ddfa4466) 
 - [2019-09-27-我在-UC-做的前端工程化探索](https://lutaonan.com/blog/what-i-have-done-at-UC/) 
 - [2022-01-24-精读《zustand-源码》](https://zhuanlan.zhihu.com/p/461152248) 
