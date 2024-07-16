@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-12 11:38:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-16 08:43:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -58,6 +58,8 @@
 - [2019-12-22-GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html) 
 - [2019-09-12-GitHub-Actions-入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html) 
 - [2019-04-21-GitHub-OAuth-示例教程](http://www.ruanyifeng.com/blog/2019/04/github-oauth.html) 
+- [2024-07-15-picosh/git-pr:-最简单的-Git-协作工具](https://github.com/guanguans/favorite-link/commit/a08dec26c5a899bc21b222c48e03f861bc32b794) 
+- [2024-07-15-微软开源的GraphRAG爆火，Github-Star量破万，生成式AI进入知识图谱时代？](https://posts.careerengine.us/p/6694a13d37c1e777ae4e718b) 
 - [2024-07-11-GitHub-8k-Star，一作实习生，字节这个大模型成果被苹果选中了](https://posts.careerengine.us/p/668f8f140fed1a018978c8cb) 
 - [2024-07-10-ControlNet作者新项目爆火：仅一张图生成25秒绘画全过程！不到一天GitHub揽星600+](https://posts.careerengine.us/p/668e0b47726e97455039a025) 
 - [2019-09-02-GitHub开学大礼包：近50种专业开发者工具，最高节省32万！](https://posts.careerengine.us/p/5d6c99490ab8e3505f4ca5ae) 
@@ -67,3 +69,4 @@
 - [2021-08-25-GitHub-Co-authors](https://antfu.me/posts/github-co-authors) 
 - [2019-09-04-Git-commits-went-missing-after-a-rebase](https://lihautan.com/commit-went-missing-after-rebase/) 
 - [2019-08-30-Git-Gudder](https://lihautan.com/git-gudder/) 
+- [2024-07-16-github/docs](https://github.com/github/docs) 

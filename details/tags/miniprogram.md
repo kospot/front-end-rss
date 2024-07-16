@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-12 11:38:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-16 08:43:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 小程序
 
@@ -143,5 +143,6 @@
 - [2018-12-20-Taro-1.2：将微信小程序转换为多端应用](http://www.yyyweb.com/5227.html) 
 - [2018-11-17-Taro-1.1-发布，全面支持微信/百度/支付宝小程序](http://www.yyyweb.com/5207.html) 
 - [2018-11-07-多端统一开发框架-Taro-1.0-正式发布](http://www.yyyweb.com/5197.html) 
+- [2024-07-15-收藏：吐血总结小程序的各种坑及商业项目实践](https://juejin.cn/post/7391705629012967478) 
 - [2024-06-28-小程序可测性能力建设与实践](https://tech.meituan.com/2024/06/28/menpiao-testing-practice.html) 
 - [2021-01-15-Nullstack---Full-stack-JavaScript-Components---Interview-with-Christian-Mortaro](https://survivejs.com/blog/nullstack-interview) 

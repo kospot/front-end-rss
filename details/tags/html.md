@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-12 11:38:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-16 08:43:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -36,6 +36,7 @@
 - [2019-06-15-详细介绍HTML-favicon尺寸-格式-制作等相关知识](https://www.zhangxinxu.com/wordpress/2019/06/html-favicon-size-ico-generator/) 
 - [2019-06-03-HTML-rel属性值释义大全](https://www.zhangxinxu.com/wordpress/2019/06/html-a-link-rel/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
+- [2024-07-14-Meta开发System-2蒸馏技术，Llama-2对话模型任务准确率接近100％](https://posts.careerengine.us/p/669359c36cc58b6ae165140c) 
 - [2024-07-06-Meta-3D-Gen-震撼发布：1-分钟打造顶级-3D-模型](https://posts.careerengine.us/p/6688d797ae35062a713834b8) 
 - [2023-07-06-The-case-against-self-closing-tags-in-HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/) 
 - [2022-12-19-Getting-the-correct-HTML-codecs-parameter-for-an-AV1-video](https://jakearchibald.com/2022/html-codecs-parameter-for-av1/) 
