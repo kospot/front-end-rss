@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-16 08:43:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-17 19:24:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540) 
 - [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441) 
 - [2023-12-16-【第3143期】如何提升微前端场景下的研发效能？微前端管理平台的设计与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268059&idx=1&sn=f0405c1ff8a64c5abe40eb61e80e2b0b&chksm=bd48fa5f8a3f7349be0b2b48974e3f079a7a86228c00d2338f4841f7f3011008cb1d55a5848d#rd) 
 - [2023-12-09-【第3136期】微前端时代：打造高效、灵活的前端开发体系](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267905&idx=1&sn=a86502b39ba83f5be614f1c4307ebe73&chksm=bd48fac58a3f73d3dbf54383d9eef31f117c70a9f7ffac2f113a636e148c56e4cb3228c19136#rd) 
@@ -452,6 +453,7 @@
 - [2024-07-05-「临门一脚」助你入门-Vim：Kickstart-配置笔记](https://sspai.com/post/90115) 
 - [2024-07-06-红杉：重金购入GPU后，AI行业收入缺口达到5000亿美元](https://posts.careerengine.us/p/6688cf49b597d908ba32df31) 
 - [2022-01-18-腾讯发布国内首份可解释-AI-报告：详解打开算法黑箱的理念与实践｜附报告下载](https://posts.careerengine.us/p/61e9363db8def616d683d0fc) 
+- [2024-07-17-北京内推-|-百度​​文心一言对齐策略算法团队招聘NLP算法实习生](https://posts.careerengine.us/p/669752e5711bc1180afdb564) 
 - [2024-07-10-深圳内推-|-​腾讯AI-Lab招聘自然语言处理方向算法实习生](https://posts.careerengine.us/p/668e184bf3d4967b1b49f014) 
 - [2024-07-08-面壁-WAIC-新发布：新一代高效低能耗架构面壁小钢炮、一键开发大模型-APP-的全栈工具集](https://posts.careerengine.us/p/668b81ff596c9814ddfa4466) 
 - [2019-09-27-我在-UC-做的前端工程化探索](https://lutaonan.com/blog/what-i-have-done-at-UC/) 

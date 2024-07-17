@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-16 08:43:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-17 19:24:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -303,6 +303,7 @@
 - [2018-11-08-Webpack-HMR-热更新实现原理深入分析](http://www.yyyweb.com/5194.html) 
 - [2018-09-19-H5唤起APP完整指南（附开源NPM库）](http://www.yyyweb.com/5149.html) 
 - [2018-08-05-在微服务下基于-GraphQL-构建-BFF](http://www.yyyweb.com/5122.html) 
+- [2024-07-11-前有Jenkins后有我sa-io，简洁极致的打包工具](https://juejin.cn/post/7389902952700641334) 
 - [2024-07-09-在-Unity-中构建支持超链接富文本的消息框](https://juejin.cn/post/7389406751546195979) 
 - [2024-07-07-npm-update/dedupe更新依赖](https://juejin.cn/post/7388338139633090611) 
 - [2024-07-05-「豆包Marscode体验官」MarsCode-IDE-搭建-VitePress-博客并使用-GitHub-部署](https://juejin.cn/post/7387992438297739264) 
