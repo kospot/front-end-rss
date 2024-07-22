@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-17 19:24:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-22 16:45:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -308,6 +308,7 @@
 - [2024-07-07-npm-update/dedupe更新依赖](https://juejin.cn/post/7388338139633090611) 
 - [2024-07-05-「豆包Marscode体验官」MarsCode-IDE-搭建-VitePress-博客并使用-GitHub-部署](https://juejin.cn/post/7387992438297739264) 
 - [2024-05-17-基于多模态信息抽取的菜品知识图谱构建](https://tech.meituan.com/2024/05/17/cross-modal-ingredient-level-dataset.html) 
+- [2024-07-22-GraphRAG-+-GPT-4o-mini-低成本构建-AI-图谱知识库](https://sspai.com/post/90665) 
 - [2024-07-14-WizardLM新作！ArenaLearning：通过模拟LLM竞技场来构建大规模数据飞轮](https://posts.careerengine.us/p/6693d712e7f7a74a42320e38) 
 - [2024-04-10-Refreshed-Nuxt-ESLint-Integrations](https://antfu.me/posts/refreshed-nuxt-eslint) 
 - [2024-04-06-Introducing-ESLint-Config-Inspector](https://antfu.me/posts/eslint-config-inspector) 
