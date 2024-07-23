@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-22 16:45:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-23 18:29:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -17,6 +17,7 @@
 - [2021-03-03-为什么要用-picture-标签代替-img-标签？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506985&idx=2&sn=2d52b27efe0d52fc3eb2a9761ad0c15e&chksm=f952696ace25e07c37b85512410826383a3f6ea1667b4fbfc1245819b7ccb91347cb58292090&scene=27#wechat_redirect) 
 - [2021-02-26-容易被忽略的5个HTML技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506806&idx=2&sn=f088238e232600ebabbfc44390c394aa&chksm=f9526e35ce25e723db74e4fd001405765e15ae74ee3853799f4ec70a0f8dc6ca381be7b7a457&scene=27#wechat_redirect) 
 - [2019-08-26-HTML规范未来还需要哪些新内容？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=2&sn=6bfd6cee50f9ec6b96ab0ba7592939cc&chksm=f95257eece25def86b3ad56aefa87f8c7c1f5dbbc1760ebc5fbbd146d346a05629c1e8342005#rd) 
+- [2024-07-23-关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/) 
 - [2024-05-30-记一次技术交流，-feMerge滤镜复制任意HTML投影](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/) 
 - [2024-01-31-HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/) 
 - [2023-09-15-HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/) 
