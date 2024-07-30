@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-23 18:29:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-30 09:36:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -303,6 +303,9 @@
 - [2018-11-08-Webpack-HMR-热更新实现原理深入分析](http://www.yyyweb.com/5194.html) 
 - [2018-09-19-H5唤起APP完整指南（附开源NPM库）](http://www.yyyweb.com/5149.html) 
 - [2018-08-05-在微服务下基于-GraphQL-构建-BFF](http://www.yyyweb.com/5122.html) 
+- [2024-07-29-Sammyjo20/ssh-php:-用于构建-PHP-SSH-应用程序的极其简单的框架！-🔥](https://github.com/guanguans/favorite-link/commit/27315e2e4da18a217fef7a3bd8f181638ed509ba) 
+- [2024-07-29-Pag动画：umi+libpag+copy-webpack-plugin实现及问题解决](https://juejin.cn/post/7396921720722096165) 
+- [2024-07-29-小白也能读懂的vite源码系列——vite-中间件处理（二）](https://juejin.cn/post/7396921720722325541) 
 - [2024-07-23-配置@rollup/plugi-commonjs插件处理混合模块](https://juejin.cn/post/7394369868572983347) 
 - [2024-07-11-前有Jenkins后有我sa-io，简洁极致的打包工具](https://juejin.cn/post/7389902952700641334) 
 - [2024-07-09-在-Unity-中构建支持超链接富文本的消息框](https://juejin.cn/post/7389406751546195979) 
@@ -360,6 +363,7 @@
 - [2019-03-13-Codemod-with-babel](https://lihautan.com/codemod-with-babel/) 
 - [2019-01-17-My-eslint-doesn’t-work-with-for-flow-0.85’s-explicit-type-argument-syntax](https://lihautan.com/eslint-for-flow-explicit-type-argument-syntax/) 
 - [2021-07-07-npm-audit:-Broken-by-Design](https://overreacted.io/npm-audit-broken-by-design/) 
+- [2024-07-25-Shire-RAG-工作流：在-IDE-中编排-RAG，构建可信的编码智能体](https://zhuanlan.zhihu.com/p/710846881) 
 - [2024-03-17-写个智能体语言-DevIns-——-构建上下文感知的-AI-驱动编程](https://zhuanlan.zhihu.com/p/687505554) 
 - [2024-01-30-构建沉浸式-AI-文本编辑器：开源-3B-编辑器的设计原则与思路](https://zhuanlan.zhihu.com/p/668926045) 
 - [2023-09-21-代码库-AI-助手构建：如何通过自然语言来与代码对话？](https://zhuanlan.zhihu.com/p/657587640) 

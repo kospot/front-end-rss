@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-07-12 11:38:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-30 09:36:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Phodal - 手工艺人
 
 
 
 
+- [2024-07-25-Shire-RAG-工作流：在-IDE-中编排-RAG，构建可信的编码智能体](https://zhuanlan.zhihu.com/p/710846881) 
 - [2024-07-10-Shire-编码智能体语言：打造你的专属-AI-IDE-编程助手](https://zhuanlan.zhihu.com/p/708077685) 
 - [2024-06-02-AI-辅助编码三阶段：从更少聊天到更多自动，再到自动化验证](https://zhuanlan.zhihu.com/p/701222734) 
 - [2024-05-28-在-IDE-中实现自然语言搜索代码：RAG-策略的设计与落地](https://zhuanlan.zhihu.com/p/699989059) 

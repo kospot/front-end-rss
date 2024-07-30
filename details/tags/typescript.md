@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-23 18:29:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-30 09:36:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -145,6 +145,7 @@
 - [2023-08-08-《TypeScript-教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html) 
 - [2024-07-22-TypeScript技术系列：基础类型详解与应用](https://juejin.cn/post/7393893498435862562) 
 - [2022-03-27-Extract-parameter-types-from-string-literal-types-with-TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/) 
+- [2024-07-26-Announcing-TypeScript-5.6-Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta/) 
 - [2024-06-21-Announcing-TypeScript-5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/) 
 - [2024-06-07-Announcing-TypeScript-5.5-RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/) 
 - [2024-04-26-Announcing-TypeScript-5.5-Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/) 
