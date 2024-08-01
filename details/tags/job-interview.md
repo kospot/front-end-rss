@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-30 09:36:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-01 15:43:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -404,6 +404,8 @@
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
 - [2020-03-19-2021届前端实习生内推](https://fed.taobao.org/blog/taofed/do71ct/2021-fontend-interpolate) 
 - [2018-08-15-面试感悟：当经历所有大厂的实习面试后](http://www.yyyweb.com/5136.html) 
+- [2024-08-01-什么？面试时手写一个计算器？看完这篇文章让你也可以实现](https://juejin.cn/post/7398044739893362725) 
+- [2024-08-01-面试官：设计一个程序，模拟红绿灯切换](https://juejin.cn/post/7398045554921750540) 
 - [2024-07-09-当面试官问我-let、const、var-的区别,竟然直接让我回家?](https://juejin.cn/post/7389579792510992447) 
 - [2024-07-17-一句话应付面试！2024年大模型微调对齐面试指南](https://posts.careerengine.us/p/669752d27a31a517dfff6097) 
 - [2024-07-15-上海内推-|-​​上海人工智能实验室招聘群体智能方向研究型实习生](https://posts.careerengine.us/p/6694baf11ad7a5629439563c) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-07-06 16:56:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-01 15:43:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Jake Archibald's blog
 
 
 
 
+- [2024-07-30-Garbage-collection-and-closures](https://jakearchibald.com/2024/garbage-collection-and-closures/) 
 - [2024-04-24-HTML-attributes-vs-DOM-properties](https://jakearchibald.com/2024/attributes-vs-properties/) 
 - [2024-02-21-View-transitions:-Handling-aspect-ratio-changes](https://jakearchibald.com/2024/view-transitions-handling-aspect-ratio-changes/) 
 - [2023-07-06-The-case-against-self-closing-tags-in-HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/) 

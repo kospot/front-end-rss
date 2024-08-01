@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-30 09:36:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-01 15:43:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -464,5 +464,6 @@
 - [2022-12-12-Presentations:-2022-Podcasts](https://blog.isquaredsoftware.com/2022/12/presentations-2022-podcasts/) 
 - [2024-05-06-AutoDev-for-VSCode-预览版：精准-AI-编程提示词与编辑器的完美融合](https://zhuanlan.zhihu.com/p/696080970) 
 - [2023-09-03-当大模型不是问题时，如何应对-LLM-的工程化落地挑战？](https://zhuanlan.zhihu.com/p/654076957) 
+- [2024-08-01-fastify/fastify](https://github.com/fastify/fastify) 
 - [2024-01-15-前端\算法招聘-|-与抖音网红线下互动，快来巨量星图！](https://zhuanlan.zhihu.com/p/677950706) 
 - [2021-10-25-如何实现语言服务插件---volar-原理解析](https://zhuanlan.zhihu.com/p/425449041) 

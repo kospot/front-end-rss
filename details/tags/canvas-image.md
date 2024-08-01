@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-30 09:36:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-01 15:43:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -70,6 +70,8 @@
 - [2024-07-22-SVG中的paint-order现在也支持普通文本了](https://juejin.cn/post/7394094789270880307) 
 - [2024-07-15-openlayers-WebGL-切片图层样式修改（曝光度、对比度、饱和度、明暗度、颜色）](https://juejin.cn/post/7391700919396073522) 
 - [2024-07-06-1个demo带你入门canvas](https://juejin.cn/post/7388056383642206262) 
+- [2024-07-30-PICO交互感知团队---可控3D版生成来袭：Coin3D实现三维可控的物体生成](https://juejin.cn/post/7397292869605113871) 
+- [2024-07-30-PICO交互感知团队---可控3D版生成来袭：Coin3D实现三维可控的物体生成](https://juejin.cn/post/7397292869605113871) 
 - [2024-07-14-明年，每个人都能零基础创作3D内容-|-对话VAST宋亚宸](https://posts.careerengine.us/p/66934f88974d1a412d65bce3) 
 - [2024-07-15-ECCV-2024-|-数字人也懂惯性定律！上海AI-Lab团队提出3D人体姿态序列建模](https://posts.careerengine.us/p/6694bad1ad2023623cfbac69) 
 - [2024-07-09-ECCV-2024-|-利用更易广泛获取的人体掩膜，实现SOTA无监督3D姿态估计](https://posts.careerengine.us/p/668ccc4228ab7072e2401005) 
