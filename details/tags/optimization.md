@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-01 15:43:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-02 14:39:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -180,14 +180,16 @@
 - [2021-09-08-VS-Code-是如何优化启动性能的？](https://fed.taobao.org/blog/taofed/do71ct/wpsf10) 
 - [2023-10-29-聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/) 
 - [2019-09-30-浏览器IMG图片原生懒加载loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/) 
+- [2024-08-02-ByteStorage/FlyDB:-基于-bitcask-论文的高性能-kv-存储引擎由-golang-制作](https://github.com/guanguans/favorite-link/commit/5bd1058854c132b422414c9c1fe46c63f06e5ddd) 
 - [2024-07-29-nunomaduro/laravel-optimize-database:-这个软件包提供了一种在-Laravel-中优化-SQLite-数据库的简单方法；它是生产就绪的-SQLite-数据库的良好起点。](https://github.com/guanguans/favorite-link/commit/2bde2c3877eb20a8650dc812d0ea1745fa1cea65) 
 - [2024-07-12-cyppe/laravel-batch-jobs-redis-driver:-Laravel-批量作业-Redis-驱动程序（Laravel-Batch-Jobs-Redis-Driver）为在-Laravel-中处理批量作业提供了一个性能优化...](https://github.com/guanguans/favorite-link/commit/78a87bb52883ba75035eace51df3467dc653ca6f) 
 - [2024-07-05-sanderdlm/chop:-通过-CLI-重置-OPcache-内容，无需重新加载-PHP-FPM](https://github.com/guanguans/favorite-link/commit/603c1a668f2fd1502437ae99ec7b0475bd4633f8) 
 - [2024-08-01-单页面首屏优化处理方法](https://juejin.cn/post/7397816165207326746) 
-- [2024-07-22-Nuxt-SEO优化总结-持续更新](https://juejin.cn/post/7393656776540192783) 
+- [2024-08-01-使用Enquirer来优化scripts工作流](https://juejin.cn/post/7398037498817855515) 
 - [2024-07-22-useContext-的使用优化](https://juejin.cn/post/7393713240994430991) 
-- [2024-07-09-Element-Plus-自定义加载图标](https://juejin.cn/post/7389428858389610507) 
+- [2024-07-22-Nuxt-SEO优化总结-持续更新](https://juejin.cn/post/7393656776540192783) 
 - [2024-07-09-深度解析：前端性能优化之代码分割与懒加载策略](https://juejin.cn/post/7389278362241613861) 
+- [2024-07-09-Element-Plus-自定义加载图标](https://juejin.cn/post/7389428858389610507) 
 - [2024-07-05-一些你可能不知道的前端小优化--̗̀๑ᵔ⌔ᵔ๑](https://juejin.cn/post/7387801635327655945) 
 - [2024-07-15-字节跳动基于TrafficRoute-DNS的超千亿级调度解析优化实践](https://juejin.cn/post/7391704406326738998) 
 - [2024-06-14-使用-Golang-实现高-IO-性能超边缘缓存服务器](https://juejin.cn/post/7380222254195834892) 
