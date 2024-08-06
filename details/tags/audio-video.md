@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-02 14:39:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-06 13:18:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -139,3 +139,4 @@
 - [2024-07-10-阿里开源语音处理模型-FunAudioLLM-：50-种语言无缝翻译，还能识别语音情绪](https://posts.careerengine.us/p/668e1de1a3626e12f8bf24f3) 
 - [2024-07-09-都说-RAG-“烂大街”了，但为何深度应用寥寥无几？|-直播预告](https://posts.careerengine.us/p/668ccc6022367d739ac7eb28) 
 - [2024-07-07-聊聊金融业如何用好大模型这把“利刃”-|-直播预告](https://posts.careerengine.us/p/668a290d6cd7b87a93cb1306) 
+- [2024-08-05-Video-with-alpha-transparency-on-the-web](https://jakearchibald.com/2024/video-with-transparency/) 
