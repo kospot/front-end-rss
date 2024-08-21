@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-06 13:18:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-21 12:47:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -53,6 +53,7 @@
 - [2020-11-20-科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html) 
 - [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html) 
 - [2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html) 
+- [2024-08-20-手把手使用Blender+ThreeJS制作跨栏小游戏](https://juejin.cn/post/7405153695506022451) 
 - [2024-07-22-竖版H5摸鱼挂机游戏来啦！新版雷霆传奇详细图文架设教程](https://juejin.cn/post/7393700271128641545) 
 - [2024-07-15-《Kill-the-King》游戏代码解析](https://juejin.cn/post/7391705629012361270) 
 - [2024-07-11-业务代码写累了，写个小游戏玩玩](https://juejin.cn/post/7390335741585883162) 

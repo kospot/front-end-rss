@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-08-06T05:18:47.377Z</updated>
+    <updated>2024-08-21T04:47:43.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,51 +15,226 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[naptha/tesseract.js]]></title>
+        <id>https://github.com/naptha/tesseract.js</id>
+        <link href="https://github.com/naptha/tesseract.js"/>
+        <updated>2024-08-20T16:00:00.000Z</updated>
+        <published>2024-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zizifn/edgetunnel]]></title>
+        <id>https://github.com/zizifn/edgetunnel</id>
+        <link href="https://github.com/zizifn/edgetunnel"/>
+        <updated>2024-08-20T16:00:00.000Z</updated>
+        <published>2024-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alvarotrigo/fullPage.js]]></title>
+        <id>https://github.com/alvarotrigo/fullPage.js</id>
+        <link href="https://github.com/alvarotrigo/fullPage.js"/>
+        <updated>2024-08-20T16:00:00.000Z</updated>
+        <published>2024-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenDroneMap/WebODM]]></title>
+        <id>https://github.com/OpenDroneMap/WebODM</id>
+        <link href="https://github.com/OpenDroneMap/WebODM"/>
+        <updated>2024-08-20T16:00:00.000Z</updated>
+        <published>2024-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：网页版 Apple Podcasts 上线、树莓派 5 推出 2GB 版本等]]></title>
+        <id>https://sspai.com/post/91658</id>
+        <link href="https://sspai.com/post/91658"/>
+        <updated>2024-08-20T16:00:00.000Z</updated>
+        <published>2024-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue状态管理库Pinia详解]]></title>
+        <id>https://juejin.cn/post/7405152755817988147</id>
+        <link href="https://juejin.cn/post/7405152755817988147"/>
+        <updated>2024-08-20T16:00:00.000Z</updated>
+        <published>2024-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻松掌握大型前端开源项目源码的阅读技巧]]></title>
+        <id>https://juejin.cn/post/7405153599670190118</id>
+        <link href="https://juejin.cn/post/7405153599670190118"/>
+        <updated>2024-08-20T16:00:00.000Z</updated>
+        <published>2024-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸿蒙应用开发-属性动画animation、显式动画animateTo和帧动画组件ImageAnimator]]></title>
+        <id>https://juejin.cn/post/7405153599646187558</id>
+        <link href="https://juejin.cn/post/7405153599646187558"/>
+        <updated>2024-08-20T16:00:00.000Z</updated>
+        <published>2024-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 中的 satisfies 运算符与 as 运算符的详细对比]]></title>
+        <id>https://juejin.cn/post/7405158247585087488</id>
+        <link href="https://juejin.cn/post/7405158247585087488"/>
+        <updated>2024-08-20T16:00:00.000Z</updated>
+        <published>2024-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索浏览器渲染机制：让网页炫酷登场！]]></title>
+        <id>https://juejin.cn/post/7405158681078415423</id>
+        <link href="https://juejin.cn/post/7405158681078415423"/>
+        <updated>2024-08-20T16:00:00.000Z</updated>
+        <published>2024-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vue-cli 打包之后的各种部署问题集中地]]></title>
+        <id>https://juejin.cn/post/7405152755776389129</id>
+        <link href="https://juejin.cn/post/7405152755776389129"/>
+        <updated>2024-08-20T16:00:00.000Z</updated>
+        <published>2024-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用React API和Express实现SSR]]></title>
+        <id>https://juejin.cn/post/7405158681077907519</id>
+        <link href="https://juejin.cn/post/7405158681077907519"/>
+        <updated>2024-08-20T16:00:00.000Z</updated>
+        <published>2024-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOM事件流之捕获与冒泡]]></title>
+        <id>https://juejin.cn/post/7405158681077858367</id>
+        <link href="https://juejin.cn/post/7405158681077858367"/>
+        <updated>2024-08-20T16:00:00.000Z</updated>
+        <published>2024-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你真的学会了SVG图像绘制吗？一篇带你搞定]]></title>
+        <id>https://juejin.cn/post/7405152755776028681</id>
+        <link href="https://juejin.cn/post/7405152755776028681"/>
+        <updated>2024-08-19T16:00:00.000Z</updated>
+        <published>2024-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[低代码编辑器总结]]></title>
+        <id>https://juejin.cn/post/7405158771012059151</id>
+        <link href="https://juejin.cn/post/7405158771012059151"/>
+        <updated>2024-08-19T16:00:00.000Z</updated>
+        <published>2024-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS `border-image`：复杂却强大，解锁更多创意]]></title>
+        <id>https://juejin.cn/post/7405153695506251827</id>
+        <link href="https://juejin.cn/post/7405153695506251827"/>
+        <updated>2024-08-19T16:00:00.000Z</updated>
+        <published>2024-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用滤镜实现文字根据动画图片的效果]]></title>
+        <id>https://juejin.cn/post/7405153978138820634</id>
+        <link href="https://juejin.cn/post/7405153978138820634"/>
+        <updated>2024-08-19T16:00:00.000Z</updated>
+        <published>2024-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用useMergeState简化非受控与受控组件]]></title>
+        <id>https://juejin.cn/post/7405158771011797007</id>
+        <link href="https://juejin.cn/post/7405158771011797007"/>
+        <updated>2024-08-19T16:00:00.000Z</updated>
+        <published>2024-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手把手使用Blender+ThreeJS制作跨栏小游戏]]></title>
+        <id>https://juejin.cn/post/7405153695506022451</id>
+        <link href="https://juejin.cn/post/7405153695506022451"/>
+        <updated>2024-08-19T16:00:00.000Z</updated>
+        <published>2024-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript的Iterator和for...of循环]]></title>
+        <id>https://juejin.cn/post/7405147677524017179</id>
+        <link href="https://juejin.cn/post/7405147677524017179"/>
+        <updated>2024-08-19T16:00:00.000Z</updated>
+        <published>2024-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端使用 Konva 实现可视化设计器（21）- 绘制图形（椭圆）]]></title>
+        <id>https://juejin.cn/post/7405158045627613184</id>
+        <link href="https://juejin.cn/post/7405158045627613184"/>
+        <updated>2024-08-19T16:00:00.000Z</updated>
+        <published>2024-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[butschster/proto-parser: Proto 解析器是将协议缓冲区文件解析为 AST 的库]]></title>
+        <id>https://github.com/guanguans/favorite-link/commit/4ee88df7cf6dda9ac75517bb93c10599e67a8fa7</id>
+        <link href="https://github.com/guanguans/favorite-link/commit/4ee88df7cf6dda9ac75517bb93c10599e67a8fa7"/>
+        <updated>2024-08-19T16:00:00.000Z</updated>
+        <published>2024-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hadolint/hadolint: Dockerfile 语法检查器，验证内联 bash，使用 Haskell 编写]]></title>
+        <id>https://github.com/guanguans/favorite-link/commit/5594bf262682c99dd280364c8cab531f2fa5748b</id>
+        <link href="https://github.com/guanguans/favorite-link/commit/5594bf262682c99dd280364c8cab531f2fa5748b"/>
+        <updated>2024-08-19T16:00:00.000Z</updated>
+        <published>2024-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node 22.6, Protobuf-ES 2.0, and Volta 2.0]]></title>
+        <id>https://nodeweekly.com/issues/544</id>
+        <link href="https://nodeweekly.com/issues/544"/>
+        <updated>2024-08-19T16:00:00.000Z</updated>
+        <published>2024-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ByteHouse高性能向量检索实践——“以图搜图”]]></title>
+        <id>https://juejin.cn/post/7404739357083484196</id>
+        <link href="https://juejin.cn/post/7404739357083484196"/>
+        <updated>2024-08-18T16:00:00.000Z</updated>
+        <published>2024-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ByteHouse高性能向量检索实践——“以图搜图”]]></title>
+        <id>https://juejin.cn/post/7404739357083484196</id>
+        <link href="https://juejin.cn/post/7404739357083484196"/>
+        <updated>2024-08-18T16:00:00.000Z</updated>
+        <published>2024-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kkguan/php-accessor: 为 PHP 生成 getter 和 setter 方法]]></title>
+        <id>https://github.com/guanguans/favorite-link/commit/8be39f272acb638eb15ee6766997143d6de9f064</id>
+        <link href="https://github.com/guanguans/favorite-link/commit/8be39f272acb638eb15ee6766997143d6de9f064"/>
+        <updated>2024-08-18T16:00:00.000Z</updated>
+        <published>2024-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thavarshan/comet: 由 FFmpeg 支持的跨平台应用程序，可实现简单、美观的视频转换。]]></title>
+        <id>https://github.com/guanguans/favorite-link/commit/a747ded1fd43458d7fdc064903cde89c257e0945</id>
+        <link href="https://github.com/guanguans/favorite-link/commit/a747ded1fd43458d7fdc064903cde89c257e0945"/>
+        <updated>2024-08-18T16:00:00.000Z</updated>
+        <published>2024-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[apih/laravel-route-list-web: 通过浏览器中的网页查看 Laravel 应用程序的所有路径]]></title>
+        <id>https://github.com/guanguans/favorite-link/commit/129d57a2744974c36e4e2e2ed5b6223b722ac395</id>
+        <link href="https://github.com/guanguans/favorite-link/commit/129d57a2744974c36e4e2e2ed5b6223b722ac395"/>
+        <updated>2024-08-18T16:00:00.000Z</updated>
+        <published>2024-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The npm tea party]]></title>
+        <id>https://javascriptweekly.com/issues/700</id>
+        <link href="https://javascriptweekly.com/issues/700"/>
+        <updated>2024-08-14T16:00:00.000Z</updated>
+        <published>2024-08-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[页面级可视动画View Transitions API初体验]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/"/>
+        <updated>2024-08-09T16:00:00.000Z</updated>
+        <published>2024-08-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[xifangczy/cat-catch]]></title>
         <id>https://github.com/xifangczy/cat-catch</id>
         <link href="https://github.com/xifangczy/cat-catch"/>
-        <updated>2024-08-05T16:00:00.000Z</updated>
-        <published>2024-08-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[受够了useState的逻辑分散？来，试试用reducer聚合逻辑]]></title>
-        <id>https://juejin.cn/post/7399496845277151242</id>
-        <link href="https://juejin.cn/post/7399496845277151242"/>
-        <updated>2024-08-05T16:00:00.000Z</updated>
-        <published>2024-08-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端性能优化的关键策略：防抖节流]]></title>
-        <id>https://juejin.cn/post/7399530650000277538</id>
-        <link href="https://juejin.cn/post/7399530650000277538"/>
-        <updated>2024-08-05T16:00:00.000Z</updated>
-        <published>2024-08-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于 vueuse 封装现代 vue 请求]]></title>
-        <id>https://juejin.cn/post/7399592120129257498</id>
-        <link href="https://juejin.cn/post/7399592120129257498"/>
-        <updated>2024-08-05T16:00:00.000Z</updated>
-        <published>2024-08-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浅谈preferences的封装与原理]]></title>
-        <id>https://juejin.cn/post/7399296053215264831</id>
-        <link href="https://juejin.cn/post/7399296053215264831"/>
-        <updated>2024-08-05T16:00:00.000Z</updated>
-        <published>2024-08-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iconfont字体图标]]></title>
-        <id>https://juejin.cn/post/7399674749729275930</id>
-        <link href="https://juejin.cn/post/7399674749729275930"/>
-        <updated>2024-08-05T16:00:00.000Z</updated>
-        <published>2024-08-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 中的响应式：实现页面的动态更新]]></title>
-        <id>https://juejin.cn/post/7399606877510549558</id>
-        <link href="https://juejin.cn/post/7399606877510549558"/>
         <updated>2024-08-05T16:00:00.000Z</updated>
         <published>2024-08-05T16:00:00.000Z</published>
     </entry>
@@ -71,9 +246,44 @@
         <published>2024-08-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[neilotoole/sq: sq 是一个命令行工具，提供 jq 风格的结构化数据源访问：SQL 数据库或 CSV 或 Excel 等文档格式。它是 sql+jq 的结晶。]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/2834c693a3eb3b7022faba963a9f049bf02e2ad6</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/2834c693a3eb3b7022faba963a9f049bf02e2ad6"/>
+        <title type="html"><![CDATA[Vue 中的响应式：实现页面的动态更新]]></title>
+        <id>https://juejin.cn/post/7399606877510549558</id>
+        <link href="https://juejin.cn/post/7399606877510549558"/>
+        <updated>2024-08-05T16:00:00.000Z</updated>
+        <published>2024-08-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iconfont字体图标]]></title>
+        <id>https://juejin.cn/post/7399674749729275930</id>
+        <link href="https://juejin.cn/post/7399674749729275930"/>
+        <updated>2024-08-05T16:00:00.000Z</updated>
+        <published>2024-08-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈preferences的封装与原理]]></title>
+        <id>https://juejin.cn/post/7399296053215264831</id>
+        <link href="https://juejin.cn/post/7399296053215264831"/>
+        <updated>2024-08-05T16:00:00.000Z</updated>
+        <published>2024-08-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于 vueuse 封装现代 vue 请求]]></title>
+        <id>https://juejin.cn/post/7399592120129257498</id>
+        <link href="https://juejin.cn/post/7399592120129257498"/>
+        <updated>2024-08-05T16:00:00.000Z</updated>
+        <published>2024-08-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端性能优化的关键策略：防抖节流]]></title>
+        <id>https://juejin.cn/post/7399530650000277538</id>
+        <link href="https://juejin.cn/post/7399530650000277538"/>
+        <updated>2024-08-05T16:00:00.000Z</updated>
+        <published>2024-08-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[受够了useState的逻辑分散？来，试试用reducer聚合逻辑]]></title>
+        <id>https://juejin.cn/post/7399496845277151242</id>
+        <link href="https://juejin.cn/post/7399496845277151242"/>
         <updated>2024-08-05T16:00:00.000Z</updated>
         <published>2024-08-05T16:00:00.000Z</published>
     </entry>
@@ -85,51 +295,23 @@
         <published>2024-08-05T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[neilotoole/sq: sq 是一个命令行工具，提供 jq 风格的结构化数据源访问：SQL 数据库或 CSV 或 Excel 等文档格式。它是 sql+jq 的结晶。]]></title>
+        <id>https://github.com/guanguans/favorite-link/commit/2834c693a3eb3b7022faba963a9f049bf02e2ad6</id>
+        <link href="https://github.com/guanguans/favorite-link/commit/2834c693a3eb3b7022faba963a9f049bf02e2ad6"/>
+        <updated>2024-08-05T16:00:00.000Z</updated>
+        <published>2024-08-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking through the Node toolbox]]></title>
+        <id>https://nodeweekly.com/issues/543</id>
+        <link href="https://nodeweekly.com/issues/543"/>
+        <updated>2024-08-05T16:00:00.000Z</updated>
+        <published>2024-08-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Video with alpha transparency on the web]]></title>
         <id>https://jakearchibald.com/2024/video-with-transparency/</id>
         <link href="https://jakearchibald.com/2024/video-with-transparency/"/>
-        <updated>2024-08-04T16:00:00.000Z</updated>
-        <published>2024-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nginx的安装与启动]]></title>
-        <id>https://juejin.cn/post/7399496845276004362</id>
-        <link href="https://juejin.cn/post/7399496845276004362"/>
-        <updated>2024-08-04T16:00:00.000Z</updated>
-        <published>2024-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite热更新原理(HMR)]]></title>
-        <id>https://juejin.cn/post/7399634958975516683</id>
-        <link href="https://juejin.cn/post/7399634958975516683"/>
-        <updated>2024-08-04T16:00:00.000Z</updated>
-        <published>2024-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「开发日记」升级Vue2 到 Vue3，一人一周足矣]]></title>
-        <id>https://juejin.cn/post/7399530622207934479</id>
-        <link href="https://juejin.cn/post/7399530622207934479"/>
-        <updated>2024-08-04T16:00:00.000Z</updated>
-        <published>2024-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSbridge的设计（一）API注入方式]]></title>
-        <id>https://juejin.cn/post/7399661995089838130</id>
-        <link href="https://juejin.cn/post/7399661995089838130"/>
-        <updated>2024-08-04T16:00:00.000Z</updated>
-        <published>2024-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用AOS为Apache Fury页面添加动画效果]]></title>
-        <id>https://juejin.cn/post/7399663396356587530</id>
-        <link href="https://juejin.cn/post/7399663396356587530"/>
-        <updated>2024-08-04T16:00:00.000Z</updated>
-        <published>2024-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入CSS——盒子模型📦]]></title>
-        <id>https://juejin.cn/post/7399296053215100991</id>
-        <link href="https://juejin.cn/post/7399296053215100991"/>
         <updated>2024-08-04T16:00:00.000Z</updated>
         <published>2024-08-04T16:00:00.000Z</published>
     </entry>
@@ -141,227 +323,45 @@
         <published>2024-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[reqable/reqable-app: Reqable 是新一代 API 调试和测试一站式解决方案。Reqable 完全支持 HTTP1 和 HTTP2，部分支持 HTTP3(QUIC)。现在可在 Windows、Mac、Linu...]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/ef4f4387f8f78662d9c40937345dcdd8df0f8179</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/ef4f4387f8f78662d9c40937345dcdd8df0f8179"/>
+        <title type="html"><![CDATA[深入CSS——盒子模型📦]]></title>
+        <id>https://juejin.cn/post/7399296053215100991</id>
+        <link href="https://juejin.cn/post/7399296053215100991"/>
         <updated>2024-08-04T16:00:00.000Z</updated>
         <published>2024-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ldez/tagliatelle: 该工具可根据您定义的规则验证标签。该工具还可以根据您定义的规则修复标签。]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/2e319f6a80f7408d3d06f58beb4a97b393730bf6</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/2e319f6a80f7408d3d06f58beb4a97b393730bf6"/>
+        <title type="html"><![CDATA[用AOS为Apache Fury页面添加动画效果]]></title>
+        <id>https://juejin.cn/post/7399663396356587530</id>
+        <link href="https://juejin.cn/post/7399663396356587530"/>
         <updated>2024-08-04T16:00:00.000Z</updated>
         <published>2024-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JonPurvis/profanify: 🧼 一个 PestPHP 插件，可帮助捕获应用程序中的亵渎内容。]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/7755d945f05670dcf18091577b8dcae0215490b8</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/7755d945f05670dcf18091577b8dcae0215490b8"/>
+        <title type="html"><![CDATA[JSbridge的设计（一）API注入方式]]></title>
+        <id>https://juejin.cn/post/7399661995089838130</id>
+        <link href="https://juejin.cn/post/7399661995089838130"/>
         <updated>2024-08-04T16:00:00.000Z</updated>
         <published>2024-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tailwindlabs/tailwindcss-typography]]></title>
-        <id>https://github.com/tailwindlabs/tailwindcss-typography</id>
-        <link href="https://github.com/tailwindlabs/tailwindcss-typography"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
+        <title type="html"><![CDATA[「开发日记」升级Vue2 到 Vue3，一人一周足矣]]></title>
+        <id>https://juejin.cn/post/7399530622207934479</id>
+        <link href="https://juejin.cn/post/7399530622207934479"/>
+        <updated>2024-08-04T16:00:00.000Z</updated>
+        <published>2024-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[eslint/eslint]]></title>
-        <id>https://github.com/eslint/eslint</id>
-        <link href="https://github.com/eslint/eslint"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Vite热更新原理(HMR)]]></title>
+        <id>https://juejin.cn/post/7399634958975516683</id>
+        <link href="https://juejin.cn/post/7399634958975516683"/>
+        <updated>2024-08-04T16:00:00.000Z</updated>
+        <published>2024-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[typicode/json-server]]></title>
-        <id>https://github.com/typicode/json-server</id>
-        <link href="https://github.com/typicode/json-server"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jagenjo/litegraph.js]]></title>
-        <id>https://github.com/jagenjo/litegraph.js</id>
-        <link href="https://github.com/jagenjo/litegraph.js"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NginxProxyManager/nginx-proxy-manager]]></title>
-        <id>https://github.com/NginxProxyManager/nginx-proxy-manager</id>
-        <link href="https://github.com/NginxProxyManager/nginx-proxy-manager"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭秘 webpack 插件工作原理]]></title>
-        <id>https://juejin.cn/post/7398351048739487780</id>
-        <link href="https://juejin.cn/post/7398351048739487780"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailwind CSS实践及配合vscode使用姿势【vue2项目】]]></title>
-        <id>https://juejin.cn/post/7398047016184856591</id>
-        <link href="https://juejin.cn/post/7398047016184856591"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入探索 HTML5 音频]]></title>
-        <id>https://juejin.cn/post/7398047016184938511</id>
-        <link href="https://juejin.cn/post/7398047016184938511"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在网格中拖动进行布局-vue-grid-layout]]></title>
-        <id>https://juejin.cn/post/7398091377663967272</id>
-        <link href="https://juejin.cn/post/7398091377663967272"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebSockets、服务器发送事件、长轮询、WebRTC、WebTransport]]></title>
-        <id>https://juejin.cn/post/7398091377664098344</id>
-        <link href="https://juejin.cn/post/7398091377664098344"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ByteStorage/FlyDB: 基于 bitcask 论文的高性能 kv 存储引擎由 golang 制作]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/5bd1058854c132b422414c9c1fe46c63f06e5ddd</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/5bd1058854c132b422414c9c1fe46c63f06e5ddd"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sti3bas/laravel-scout-array-driver: Laravel Scout 的数组驱动程序]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/7d307433b3cb2ae4216f6bd2d8a4156d1cac9435</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/7d307433b3cb2ae4216f6bd2d8a4156d1cac9435"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laravel 11 JSON Web Token(JWT) API 身份验证教程]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/1bad43be23cecf9aa400edfc230e596979c942d9</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/1bad43be23cecf9aa400edfc230e596979c942d9"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[spatie/pest-plugin-route-testing: 可以轻松测试 Laravel 应用程序的所有简单页面。新页面也会自动进行测试。]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/27c4253a05eae6bf85a681aa9993d463eeb27e3b</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/27c4253a05eae6bf85a681aa9993d463eeb27e3b"/>
-        <updated>2024-08-01T16:00:00.000Z</updated>
-        <published>2024-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fastify/fastify]]></title>
-        <id>https://github.com/fastify/fastify</id>
-        <link href="https://github.com/fastify/fastify"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fabricjs/fabric.js]]></title>
-        <id>https://github.com/fabricjs/fabric.js</id>
-        <link href="https://github.com/fabricjs/fabric.js"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoogleChromeLabs/chrome-for-testing]]></title>
-        <id>https://github.com/GoogleChromeLabs/chrome-for-testing</id>
-        <link href="https://github.com/GoogleChromeLabs/chrome-for-testing"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[客户端数据管理技术之Storage和Cookies]]></title>
-        <id>https://juejin.cn/post/7398044739893493797</id>
-        <link href="https://juejin.cn/post/7398044739893493797"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReactNative环境搭建及开发流程之IOS]]></title>
-        <id>https://juejin.cn/post/7398050410793713674</id>
-        <link href="https://juejin.cn/post/7398050410793713674"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nest.js 实战 (六)：使用 Session 在不同请求间存储信息]]></title>
-        <id>https://juejin.cn/post/7397822231218569226</id>
-        <link href="https://juejin.cn/post/7397822231218569226"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你需要了解的前端 Monorepo 架构]]></title>
-        <id>https://juejin.cn/post/7397718314136829967</id>
-        <link href="https://juejin.cn/post/7397718314136829967"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[单页面首屏优化处理方法]]></title>
-        <id>https://juejin.cn/post/7397816165207326746</id>
-        <link href="https://juejin.cn/post/7397816165207326746"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Github Actions 自动化部署前端页面]]></title>
-        <id>https://juejin.cn/post/7397683842633269299</id>
-        <link href="https://juejin.cn/post/7397683842633269299"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue2基于天地图实现离线地图]]></title>
-        <id>https://juejin.cn/post/7397639310721777698</id>
-        <link href="https://juejin.cn/post/7397639310721777698"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不止响应式：Vue3探秘系列— 组件的初始化过程（四）]]></title>
-        <id>https://juejin.cn/post/7397705799751434277</id>
-        <link href="https://juejin.cn/post/7397705799751434277"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何悄悄的封装一个支持图片和PDF在线预览的Vue组件]]></title>
-        <id>https://juejin.cn/post/7397616334654357542</id>
-        <link href="https://juejin.cn/post/7397616334654357542"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跟🤡杰哥一起学Flutter (二十三、⚡️玩转Flutter动画[上])]]></title>
-        <id>https://juejin.cn/post/7397683842633809971</id>
-        <link href="https://juejin.cn/post/7397683842633809971"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Enquirer来优化scripts工作流]]></title>
-        <id>https://juejin.cn/post/7398037498817855515</id>
-        <link href="https://juejin.cn/post/7398037498817855515"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EggJS系列 | 只会JS也能写后端API]]></title>
-        <id>https://juejin.cn/post/7398045554922684428</id>
-        <link href="https://juejin.cn/post/7398045554922684428"/>
-        <updated>2024-07-31T16:00:00.000Z</updated>
-        <published>2024-07-31T16:00:00.000Z</published>
+        <title type="html"><![CDATA[nginx的安装与启动]]></title>
+        <id>https://juejin.cn/post/7399496845276004362</id>
+        <link href="https://juejin.cn/post/7399496845276004362"/>
+        <updated>2024-08-04T16:00:00.000Z</updated>
+        <published>2024-08-04T16:00:00.000Z</published>
     </entry>
 </feed>

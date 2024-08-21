@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-07-06 16:56:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-21 12:47:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Randy's Blog
 
 
 
 
+- [2024-08-10-「代码艺术家」不会被-AI-取代](https://lutaonan.com/blog/code-artists/) 
 - [2024-05-14-不上班的第一年](https://lutaonan.com/blog/a-year-off-work/) 
 - [2024-04-22-在-Electron-中使用-SQLite-的最好方式](https://lutaonan.com/blog/electron-sqlite/) 
 - [2024-01-05-读《岩田先生：任天堂传奇社长如是说》](https://lutaonan.com/blog/yan-tian-xian-sheng/) 
@@ -22,8 +23,8 @@
 - [2022-05-01-遗憾最小化框架-——-如何做决定](https://lutaonan.com/blog/regret-minimization-framework/) 
 - [2021-10-20-再谈辍学](https://lutaonan.com/blog/talking-about-dropout-again/) 
 - [2021-07-20-开着特斯拉从广州到苏州的小记](https://lutaonan.com/blog/trip-from-guangzhou-to-suzhou/) 
-- [2021-06-16-Xbox-Series-S-一个月使用感受](https://lutaonan.com/blog/xbox-series-s/) 
 - [2021-06-16-Next.js-应用开发实践](https://lutaonan.com/blog/the-book-nextjs-in-action/) 
+- [2021-06-16-Xbox-Series-S-一个月使用感受](https://lutaonan.com/blog/xbox-series-s/) 
 - [2021-05-12-我给自己设立了每月-$20-的开源捐赠预算](https://lutaonan.com/blog/my-oss-donation-budget/) 
 - [2021-04-11-Svelte-的异步更新实现原理](https://lutaonan.com/blog/how-svelte-set-state-works/) 
 - [2021-03-14-读《蒂姆·库克传》](https://lutaonan.com/blog/reading-tim-cook/) 
@@ -42,8 +43,8 @@
 - [2019-12-15-录翻唱需要哪些设备](https://lutaonan.com/blog/how-to-record-cover/) 
 - [2019-11-12-博客改版及-Tailwind-CSS-实践](https://lutaonan.com/blog/what-is-tailwindcss-and-how-did-i-apply-it-on-my-blog/) 
 - [2019-11-09-1989-年的-CD-机---SONY-Discman-D-9](https://lutaonan.com/blog/sony-discman-d9/) 
-- [2019-11-05-为什么无法坚持写博客](https://lutaonan.com/blog/reason-why-your-blog-is-not-alive/) 
 - [2019-11-05-来自-2014-年给未来的我的一封信](https://lutaonan.com/blog/letter-from-few-years-ago/) 
+- [2019-11-05-为什么无法坚持写博客](https://lutaonan.com/blog/reason-why-your-blog-is-not-alive/) 
 - [2019-09-27-我在-UC-做的前端工程化探索](https://lutaonan.com/blog/what-i-have-done-at-UC/) 
 - [2019-09-21-回顾了一些读者来信](https://lutaonan.com/blog/letters-from-reader/) 
 - [2019-09-16-爱情是愿意为你放弃寻新鲜](https://lutaonan.com/blog/newness/) 

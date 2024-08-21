@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-06 13:18:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-21 12:47:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -67,6 +67,7 @@
 - [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) 
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
 - [2018-10-03-搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/) 
+- [2024-08-20-你真的学会了SVG图像绘制吗？一篇带你搞定](https://juejin.cn/post/7405152755776028681) 
 - [2024-07-22-SVG中的paint-order现在也支持普通文本了](https://juejin.cn/post/7394094789270880307) 
 - [2024-07-15-openlayers-WebGL-切片图层样式修改（曝光度、对比度、饱和度、明暗度、颜色）](https://juejin.cn/post/7391700919396073522) 
 - [2024-07-06-1个demo带你入门canvas](https://juejin.cn/post/7388056383642206262) 

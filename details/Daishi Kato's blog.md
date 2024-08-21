@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2024-07-16 08:43:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-21 12:47:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Daishi Kato's blog
 
 
 
 
+- [2024-08-18-How-Valtio-Was-Born](https://blog.axlight.com/posts/how-valtio-was-born/) 
+- [2024-08-09-How-Jotai-Was-Born](https://blog.axlight.com/posts/how-jotai-was-born/) 
 - [2024-07-14-How-Zustand-Was-Born](https://blog.axlight.com/posts/how-zustand-was-born/) 
 - [2024-04-03-Jotai-Tips](https://blog.axlight.com/posts/jotai-tips/) 
 - [2023-10-28-Why-useSyncExternalStore-Is-Not-Used-in-Jotai](https://blog.axlight.com/posts/why-use-sync-external-store-is-not-used-in-jotai/) 
