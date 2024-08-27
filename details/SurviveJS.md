@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-07-06 16:56:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-27 16:45:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## SurviveJS
 
 
 
 
+- [2024-08-22-Singulatron---AI-On-Premise---Interview-with-Janos-Dobronszki](https://survivejs.com/blog/singulatron-interview) 
 - [2024-05-31-JavaScript-patterns---Pyramid-of-doom](https://survivejs.com/blog/pyramid-of-doom) 
 - [2024-05-21-SurviveJS---What-did-I-learn-by-rewriting-this-site](https://survivejs.com/blog/survivejs-site-rewrite) 
 - [2023-07-07-RelativeCI---In-depth-bundle-stats-analysis-and-monitoring---Interview-with-Viorel-Cojocaru](https://survivejs.com/blog/relativeci-interview) 

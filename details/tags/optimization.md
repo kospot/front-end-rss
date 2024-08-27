@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-21 12:47:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-27 16:45:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -184,13 +184,14 @@
 - [2024-07-29-nunomaduro/laravel-optimize-database:-这个软件包提供了一种在-Laravel-中优化-SQLite-数据库的简单方法；它是生产就绪的-SQLite-数据库的良好起点。](https://github.com/guanguans/favorite-link/commit/2bde2c3877eb20a8650dc812d0ea1745fa1cea65) 
 - [2024-07-12-cyppe/laravel-batch-jobs-redis-driver:-Laravel-批量作业-Redis-驱动程序（Laravel-Batch-Jobs-Redis-Driver）为在-Laravel-中处理批量作业提供了一个性能优化...](https://github.com/guanguans/favorite-link/commit/78a87bb52883ba75035eace51df3467dc653ca6f) 
 - [2024-07-05-sanderdlm/chop:-通过-CLI-重置-OPcache-内容，无需重新加载-PHP-FPM](https://github.com/guanguans/favorite-link/commit/603c1a668f2fd1502437ae99ec7b0475bd4633f8) 
+- [2024-08-27-鸿蒙-下拉刷新、上拉加载更多的-LazyRefresh](https://juejin.cn/post/7407334387933495337) 
 - [2024-08-05-Cornerstone加载本地Dicom文件第二弹---Blob篇](https://juejin.cn/post/7399530649999654946) 
-- [2024-08-01-单页面首屏优化处理方法](https://juejin.cn/post/7397816165207326746) 
 - [2024-08-01-使用Enquirer来优化scripts工作流](https://juejin.cn/post/7398037498817855515) 
-- [2024-07-22-useContext-的使用优化](https://juejin.cn/post/7393713240994430991) 
+- [2024-08-01-单页面首屏优化处理方法](https://juejin.cn/post/7397816165207326746) 
 - [2024-07-22-Nuxt-SEO优化总结-持续更新](https://juejin.cn/post/7393656776540192783) 
-- [2024-07-09-深度解析：前端性能优化之代码分割与懒加载策略](https://juejin.cn/post/7389278362241613861) 
+- [2024-07-22-useContext-的使用优化](https://juejin.cn/post/7393713240994430991) 
 - [2024-07-09-Element-Plus-自定义加载图标](https://juejin.cn/post/7389428858389610507) 
+- [2024-07-09-深度解析：前端性能优化之代码分割与懒加载策略](https://juejin.cn/post/7389278362241613861) 
 - [2024-07-05-一些你可能不知道的前端小优化--̗̀๑ᵔ⌔ᵔ๑](https://juejin.cn/post/7387801635327655945) 
 - [2024-08-19-ByteHouse高性能向量检索实践——“以图搜图”](https://juejin.cn/post/7404739357083484196) 
 - [2024-07-15-字节跳动基于TrafficRoute-DNS的超千亿级调度解析优化实践](https://juejin.cn/post/7391704406326738998) 

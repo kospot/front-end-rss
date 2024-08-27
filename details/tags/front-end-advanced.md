@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-21 12:47:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-27 16:45:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -445,12 +445,14 @@
 - [2019-09-09-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5305.html) 
 - [2019-08-30-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5302.html) 
 - [2019-07-08-微前端架构：增量升级、代码解耦、独立部署](http://www.yyyweb.com/5298.html) 
+- [2024-08-23-TheDragonCode/laravel-http-macros:-扩展-Laravel-HTTP-客户端的功能](https://github.com/guanguans/favorite-link/commit/15337046589a1804afd585d6d1c3cd6cb15e7b1a) 
 - [2024-08-20-butschster/proto-parser:-Proto-解析器是将协议缓冲区文件解析为-AST-的库](https://github.com/guanguans/favorite-link/commit/4ee88df7cf6dda9ac75517bb93c10599e67a8fa7) 
 - [2024-08-06-chapar-rest/chapar:-Chapar-是一个简单易用的-api-测试工具，旨在帮助开发人员测试他们的-api-端点。它支持http和grpc协议。](https://github.com/guanguans/favorite-link/commit/17044e7ac505c7c110d951ef04112863a1e0a517) 
 - [2024-07-12-ayangweb/EcoPaste:-一款开源的跨平台剪切板管理工具。](https://github.com/guanguans/favorite-link/commit/68617579578b553015550f0f9d072833a87faa6c) 
+- [2024-08-27-flowmix/flow,-一款高度可配的可视化流程编辑器](https://juejin.cn/post/7407340295116390400) 
 - [2024-08-21-轻松掌握大型前端开源项目源码的阅读技巧](https://juejin.cn/post/7405153599670190118) 
-- [2024-08-20-前端使用-Konva-实现可视化设计器（21）--绘制图形（椭圆）](https://juejin.cn/post/7405158045627613184) 
 - [2024-08-20-低代码编辑器总结](https://juejin.cn/post/7405158771012059151) 
+- [2024-08-20-前端使用-Konva-实现可视化设计器（21）--绘制图形（椭圆）](https://juejin.cn/post/7405158045627613184) 
 - [2024-08-06-浅谈preferences的封装与原理](https://juejin.cn/post/7399296053215264831) 
 - [2024-08-01-富文本编辑器-从-Prosemirror-再到-Tiptap](https://juejin.cn/post/7398045595485634569) 
 - [2024-07-29-最长连续序列：算法虐我千百遍，我待算法如初恋（五）](https://juejin.cn/post/7397024981571993639) 
