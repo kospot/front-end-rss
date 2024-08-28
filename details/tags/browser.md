@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-27 16:45:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-28 09:54:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -425,13 +425,15 @@
 - [2024-07-09-gallonyin/worktool:-一款安全稳定的Android无障碍服务工具，支持控制企微/微信来运行的无人值守群管理机器人](https://github.com/guanguans/favorite-link/commit/a546de47150688c05b4a6f18b24746b639746810) 
 - [2024-07-08-alienator88/Pearcleaner:-一款免费、源码可用且获得公平代码许可的-Mac-应用程序清理工具](https://github.com/guanguans/favorite-link/commit/0350a84e5c325eff90ee72531aa13683467cd253) 
 - [2022-02-13-“一把梭：REST-API-全用-POST”](https://coolshell.cn/articles/22173.html) 
+- [2024-08-27-【强缓存&amp;协商缓存】拒绝废话，两分钟实操一下](https://juejin.cn/post/7407599381396422691) 
+- [2024-08-27-idea发送请求提示-无法保留-Cookie，cookie-storage-file-is-included-in-ignored-list:](https://juejin.cn/post/7407627016675295267) 
 - [2024-08-21-探索浏览器渲染机制：让网页炫酷登场！](https://juejin.cn/post/7405158681078415423) 
 - [2024-08-01-客户端数据管理技术之Storage和Cookies](https://juejin.cn/post/7398044739893493797) 
 - [2024-07-22-从输入URL到页面展示，都发生了什么](https://juejin.cn/post/7393663398405734412) 
 - [2024-07-15-el-select海量数据渲染-分页解决方案](https://juejin.cn/post/7391699600761913370) 
 - [2024-07-12-WebKit简介及工作流程](https://juejin.cn/post/7390335741587144730) 
-- [2024-07-11-多目标渲染MRT](https://juejin.cn/post/7390335741586489370) 
 - [2024-07-11-从输入url到页面展现（二）找服务器其实是在找IP地址](https://juejin.cn/post/7389925417807249417) 
+- [2024-07-11-多目标渲染MRT](https://juejin.cn/post/7390335741586489370) 
 - [2024-07-09-关于uniapp请求封装的一篇文章🌟](https://juejin.cn/post/7389225110312648704) 
 - [2024-07-05-浏览器的储存空间，你知道吗？](https://juejin.cn/post/7388025457822859274) 
 - [2024-04-24-LLM-安全-|-大语言模型应用安全入门](https://juejin.cn/post/7361253974051602441) 
@@ -527,7 +529,7 @@
 - [2020-01-01-My-Decade-in-Review](https://overreacted.io/my-decade-in-review/) 
 - [2024-08-21-zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) 
 - [2024-08-01-GoogleChromeLabs/chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing) 
-- [2024-07-17-prettier/prettier](https://github.com/prettier/prettier) 
 - [2024-07-17-egonSchiele/grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms) 
+- [2024-07-17-prettier/prettier](https://github.com/prettier/prettier) 
 - [2024-07-16-zed-industries/extensions](https://github.com/zed-industries/extensions) 
 - [2021-08-23-巧用-CDN-的-EdgeScript-轻松实现资源版本自适应与灰度](https://zhuanlan.zhihu.com/p/402822809) 

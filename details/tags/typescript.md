@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-27 16:45:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-28 09:54:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-08-27-Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545) 
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542) 
 - [2024-03-12-Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524) 
 - [2022-05-26-TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439) 
@@ -147,6 +148,7 @@
 - [2024-08-21-TypeScript-中的-satisfies-运算符与-as-运算符的详细对比](https://juejin.cn/post/7405158247585087488) 
 - [2024-07-22-TypeScript技术系列：基础类型详解与应用](https://juejin.cn/post/7393893498435862562) 
 - [2022-03-27-Extract-parameter-types-from-string-literal-types-with-TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/) 
+- [2024-08-24-Announcing-TypeScript-5.6-RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-rc/) 
 - [2024-07-26-Announcing-TypeScript-5.6-Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta/) 
 - [2024-06-21-Announcing-TypeScript-5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/) 
 - [2024-06-07-Announcing-TypeScript-5.5-RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/) 
