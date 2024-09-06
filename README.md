@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-09-03 09:31:40，:rocket: 更新条数: +61， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-06 09:10:19，:rocket: 更新条数: +57， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,10 +26,10 @@
 - [favorite-link](#favorite-link)![](/assets/dot.png)   
 - [酷-壳-–-CoolShell](#酷-壳-–-coolshell)  
 - [掘金前端](#掘金前端)![](/assets/dot.png)   
-- [掘金字节前端](#掘金字节前端)![](/assets/dot.png)   
-- [掘金飞猪前端](#掘金飞猪前端)![](/assets/dot.png)   
+- [掘金字节前端](#掘金字节前端)  
+- [掘金飞猪前端](#掘金飞猪前端)  
 - [美团技术团队](#美团技术团队)  
-- [web.dev](#web.dev)![](/assets/dot.png)   
+- [web.dev](#web.dev)  
 - [少数派](#少数派)![](/assets/dot.png)   
 - [洞见](#洞见)![](/assets/dot.png)   
 - [机器之心](#机器之心)  
@@ -52,7 +52,7 @@
 - [TypeScript](#typescript)  
 - [sorrycc/blog](#sorrycc/blog)  
 - [阳志平的网志](#阳志平的网志)  
-- [Daishi-Kato's-blog](#daishi-kato's-blog)  
+- [Daishi-Kato's-blog](#daishi-kato's-blog)![](/assets/dot.png)   
 - [Mark's-Dev-Blog](#mark's-dev-blog)  
 - [Ben-Awad](#ben-awad)  
 - [Jake-Archibald's-blog](#jake-archibald's-blog)  
@@ -60,7 +60,7 @@
 - [Phodal---手工艺人](#phodal---手工艺人)  
 - [Trending-JavaScript-repositories](#trending-javascript-repositories)![](/assets/dot.png)   
 - [阿里-CCO-体验技术专刊](#阿里-cco-体验技术专刊)  
-- [唐巧的技术博客](#唐巧的技术博客)![](/assets/dot.png)   
+- [唐巧的技术博客](#唐巧的技术博客)  
 - [2ality](#2ality)  
 - [前端外刊评论](#前端外刊评论)  
 - [InfoQ](#infoq)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-09-03-Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546) ![](/assets/new.png)  
 - [2024-08-27-Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545)  
 - [2024-08-20-Node-22.6,-Protobuf-ES-2.0,-and-Volta-2.0](https://nodeweekly.com/issues/544)  
 - [2024-08-06-Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)  
@@ -93,7 +94,6 @@
 - [2024-04-23-node---run-send_newsletter](https://nodeweekly.com/issues/529)  
 - [2024-04-16-What-Node's-contributors-have-been-discussing](https://nodeweekly.com/issues/528)  
 - [2024-04-09-zx-8.0-for-better-Node-scripting](https://nodeweekly.com/issues/527)  
-- [2024-03-26-Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -105,7 +105,8 @@
 </summary>
 
 
-- [2024-08-29-JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702) ![](/assets/new.png)  
+- [2024-09-05-Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703) ![](/assets/new.png)  
+- [2024-08-29-JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702)  
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701)  
 - [2024-08-15-The-npm-tea-party](https://javascriptweekly.com/issues/700)  
 - [2024-08-01-How-Googlebot-sees-your-JavaScript](https://javascriptweekly.com/issues/699)  
@@ -124,7 +125,6 @@
 - [2024-05-02-Svelte-5-is-almost-here](https://javascriptweekly.com/issues/686)  
 - [2024-04-25-JSR-isn't-another-tool,-it's-a-fundamental-shift](https://javascriptweekly.com/issues/685)  
 - [2024-04-18-Visualizing-algorithms](https://javascriptweekly.com/issues/684)  
-- [2024-04-11-An-easy-way-to-experiment-with-signals](https://javascriptweekly.com/issues/683)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -291,7 +291,8 @@
 </summary>
 
 
-- [2024-08-30-科技爱好者周刊（第-315-期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html) ![](/assets/new.png)  
+- [2024-09-06-科技爱好者周刊（第-316-期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html) ![](/assets/new.png)  
+- [2024-08-30-科技爱好者周刊（第-315-期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)  
 - [2024-08-23-科技爱好者周刊（第-314-期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html)  
 - [2024-08-16-科技爱好者周刊（第-313-期）：如果新加坡没有空调](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html)  
 - [2024-08-09-科技爱好者周刊（第-312-期）：从英特尔看"美国制造"](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html)  
@@ -310,7 +311,6 @@
 - [2024-05-24-科技爱好者周刊（第-301-期）：OpenAI-的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html)  
 - [2024-05-17-科技爱好者周刊（第-300-期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html)  
 - [2024-05-10-科技爱好者周刊（第-299-期）：AI-的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html)  
-- [2024-04-26-科技爱好者周刊（第-298-期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -353,26 +353,26 @@
 </summary>
 
 
-- [2024-09-02-coder/aicommit:-成为世界上最懒惰的-Committer](https://github.com/guanguans/favorite-link/commit/1fdd6b669e1b2b044036a7c1fefecca75bf6f7ca) ![](/assets/new.png)  
-- [2024-09-02-fajarwz/laravel-review:-fajarwz/laravel-review:-灵活而强大的-Laravel-审核系统，让任何模型审核和被审核。](https://github.com/guanguans/favorite-link/commit/081a097d1648aa2b1be8bd31e42665afab7bf5d3) ![](/assets/new.png)  
-- [2024-09-02-gwleuverink/blade-hints:-在您的页面上标记各种不同-Blade-指令的用法，以便您可以轻松发现缺失的-authorization/auth/env-检查](https://github.com/guanguans/favorite-link/commit/be1e1855c9ed7a5d89553a0dabe525a15263030b) ![](/assets/new.png)  
-- [2024-09-02-serversideup/spin:-不要再浪费时间修复你已经解决的生产问题了。Spin-是一款-bash-工具，可改善使用-Docker-的团队的用户体验。](https://github.com/guanguans/favorite-link/commit/e8a35fa04fa8e362647db2fadd3b508e64994ff5) ![](/assets/new.png)  
-- [2024-09-02-glhd/linen:-Linen-是一款适用于-Laravel-的轻量级电子表格工具。它是-openspout-的一个简单封装，具有一些数据规范化的便利性。](https://github.com/guanguans/favorite-link/commit/488c07c144635f9867eb3e76950c3c026f860012) ![](/assets/new.png)  
-- [2024-08-30-pxp-lang/composer-downloads-plugin:-自动下载-Composer-软件包的远程资产。](https://github.com/guanguans/favorite-link/commit/242595e95bd12d7d9d1414ae16cbf83ddc19f06f) ![](/assets/new.png)  
-- [2024-08-30-Laravel-中的惰性集合](https://github.com/guanguans/favorite-link/commit/fb349bda3dcd93ff932004d334a8685078771dbc) ![](/assets/new.png)  
-- [2024-08-29-square/vermillion:-Laravel-应用程序的-API-版本控制工具包](https://github.com/guanguans/favorite-link/commit/790b34780ba309f0e400f89df8063bfdc8bd1c8c) ![](/assets/new.png)  
-- [2024-08-29-mvaliolahi/blaze:-Blaze-是一款先进的-Laravel-软件包，旨在利用现代、高效的缓存技术提高应用程序的性能。](https://github.com/guanguans/favorite-link/commit/dc0aa0527381dfec620ba1bea2f33a50c9f42480) ![](/assets/new.png)  
-- [2024-08-29-mysql-查询缓存优化](https://github.com/guanguans/favorite-link/commit/7c938acecf708b61c2bc75a1cc76113d07200683) ![](/assets/new.png)  
-- [2024-08-27-URL-是有效的-PHP-代码？！](https://github.com/guanguans/favorite-link/commit/14d0c471bad002c6ba097765bb19d0b8f58ef4b2)  
-- [2024-08-27-TicketSwap/phpstan-error-formatter:-PHPStan-的简约错误格式化工具](https://github.com/guanguans/favorite-link/commit/cbe55a37659fcd64e8001b652e1748c38ba85dec)  
-- [2024-08-27-spatie/laravel-error-solutions:-在-Laravel-错误页面显示解决方案](https://github.com/guanguans/favorite-link/commit/3c7b69afd773496114eb6b49b363a128257611c6)  
-- [2024-08-26-Laravel-模型技巧](https://github.com/guanguans/favorite-link/commit/f789a15d95469c8cf3e9a535e096d15ac6082a0b)  
-- [2024-08-26-MaestroError/eloquent-regex:-Eloquent-Regex-为正则表达式带来了简洁与优雅。](https://github.com/guanguans/favorite-link/commit/1a8c179a933b322ffbafd36602c05c7ac0e8be5d)  
-- [2024-08-23-approvals/ApprovalTests.php:-ApprovalTests-是一个开源的断言/验证库，用于辅助单元测试。](https://github.com/guanguans/favorite-link/commit/52305ca5c765b8987b8bf301e28c6c2f21e7f005)  
-- [2024-08-23-TheDragonCode/laravel-http-macros:-扩展-Laravel-HTTP-客户端的功能](https://github.com/guanguans/favorite-link/commit/15337046589a1804afd585d6d1c3cd6cb15e7b1a)  
-- [2024-08-22-使用-Laravel-的-Cache::lock-掌握并发性](https://github.com/guanguans/favorite-link/commit/c72af19dd29abf95cb4b0568b0aab78f76bffc2e)  
-- [2024-08-22-medilies/xssless:-清除富文本中的-XSS-威胁。](https://github.com/guanguans/favorite-link/commit/a976010356a564f7b239209d180fda54079e4814)  
-- [2024-08-22-gemini-api-php/client:-Google-Gemini-API-PHP-客户端允许您使用-Gemini-AI-模型](https://github.com/guanguans/favorite-link/commit/a48d4f04a6ddb510c658cf38e540f5363e546834)  
+- [2024-09-05-sauljabin/kaskade:-Kaskade-是-Kafka-的文本用户界面，它允许您以时尚的方式从终端交互和使用主题！](https://github.com/guanguans/favorite-link/commit/e9b5806ef8490ce1dd2503d47f3f086adb69f015) ![](/assets/new.png)  
+- [2024-09-05-编写简洁、可维护代码的好处](https://github.com/guanguans/favorite-link/commit/d2fd1e73147b3ac969737159a8a93737c70d6467) ![](/assets/new.png)  
+- [2024-09-05-alireza2000sajedi/otp-code-laravel:-这个-Laravel-包提供了一个用于生成、存储和验证一次性密码-OTP-的全面解决方案。它支持可定制的-OTP-配置，包括类型、...](https://github.com/guanguans/favorite-link/commit/70a617689666b6f54a7336bdc1431dae71894961) ![](/assets/new.png)  
+- [2024-09-05-PHP-8.4-属性钩子](https://github.com/guanguans/favorite-link/commit/0e4d617c92004fefc9b3a00bbebe42533149595c) ![](/assets/new.png)  
+- [2024-09-04-czproject/phpdepend:-从PHP文件或代码片段中提取依赖项列表（类、接口和特征）。](https://github.com/guanguans/favorite-link/commit/4266a6a658d4c32341ca1d7bddf294bdc92b858a) ![](/assets/new.png)  
+- [2024-09-04-Update-feed](https://github.com/guanguans/favorite-link/commit/c425d4b396319978b0143bc50648a421a66197e4) ![](/assets/new.png)  
+- [2024-09-04-当一切都失败时，您永远可以信任-Laravel-救援助手](https://github.com/guanguans/favorite-link/commit/aceb49c635b07f16aed77d5b999fb5971e10e0bf) ![](/assets/new.png)  
+- [2024-09-04-alireza2000sajedi/api-responder-laravel:-一个简化标准化-API-响应创建的库](https://github.com/guanguans/favorite-link/commit/a2902bda2a95a4c2a34e7bb8d844a86802e1a5ea) ![](/assets/new.png)  
+- [2024-09-03-limewell/laravel-make-extender:-生成和自动加载自定义帮助程序、生成器范围、服务类、特质、自定义铸模、集合宏、视图合成器](https://github.com/guanguans/favorite-link/commit/db2d81a465c561c640055c00e55b71fc7fde6e0b) ![](/assets/new.png)  
+- [2024-09-03-WatheqAlshowaiter/backup-tables:-轻松备份单个或多个数据库表。](https://github.com/guanguans/favorite-link/commit/cc4067040a4db1cf02913f659cf89e3be44d4706) ![](/assets/new.png)  
+- [2024-09-02-glhd/linen:-Linen-是一款适用于-Laravel-的轻量级电子表格工具。它是-openspout-的一个简单封装，具有一些数据规范化的便利性。](https://github.com/guanguans/favorite-link/commit/488c07c144635f9867eb3e76950c3c026f860012)  
+- [2024-09-02-serversideup/spin:-不要再浪费时间修复你已经解决的生产问题了。Spin-是一款-bash-工具，可改善使用-Docker-的团队的用户体验。](https://github.com/guanguans/favorite-link/commit/e8a35fa04fa8e362647db2fadd3b508e64994ff5)  
+- [2024-09-02-gwleuverink/blade-hints:-在您的页面上标记各种不同-Blade-指令的用法，以便您可以轻松发现缺失的-authorization/auth/env-检查](https://github.com/guanguans/favorite-link/commit/be1e1855c9ed7a5d89553a0dabe525a15263030b)  
+- [2024-09-02-fajarwz/laravel-review:-fajarwz/laravel-review:-灵活而强大的-Laravel-审核系统，让任何模型审核和被审核。](https://github.com/guanguans/favorite-link/commit/081a097d1648aa2b1be8bd31e42665afab7bf5d3)  
+- [2024-09-02-coder/aicommit:-成为世界上最懒惰的-Committer](https://github.com/guanguans/favorite-link/commit/1fdd6b669e1b2b044036a7c1fefecca75bf6f7ca)  
+- [2024-08-30-Laravel-中的惰性集合](https://github.com/guanguans/favorite-link/commit/fb349bda3dcd93ff932004d334a8685078771dbc)  
+- [2024-08-30-pxp-lang/composer-downloads-plugin:-自动下载-Composer-软件包的远程资产。](https://github.com/guanguans/favorite-link/commit/242595e95bd12d7d9d1414ae16cbf83ddc19f06f)  
+- [2024-08-29-mysql-查询缓存优化](https://github.com/guanguans/favorite-link/commit/7c938acecf708b61c2bc75a1cc76113d07200683)  
+- [2024-08-29-mvaliolahi/blaze:-Blaze-是一款先进的-Laravel-软件包，旨在利用现代、高效的缓存技术提高应用程序的性能。](https://github.com/guanguans/favorite-link/commit/dc0aa0527381dfec620ba1bea2f33a50c9f42480)  
+- [2024-08-29-square/vermillion:-Laravel-应用程序的-API-版本控制工具包](https://github.com/guanguans/favorite-link/commit/790b34780ba309f0e400f89df8063bfdc8bd1c8c)  
 - [......【查看更多】......](/details/favorite-link.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -410,26 +410,26 @@
 </summary>
 
 
-- [2024-09-03-看完这篇文章，再也不担忧网页上传大文件！](https://juejin.cn/post/7409913195660673034) ![](/assets/new.png)  
-- [2024-09-02-大模型隐私泄露攻击技巧分析与复现](https://juejin.cn/post/7409809141352546342) ![](/assets/new.png)  
-- [2024-09-02-Unity-产品内购系统的集成](https://juejin.cn/post/7409608924054159375) ![](/assets/new.png)  
-- [2024-09-02-重构《node+React实战：从0到1实现记账本》记录（二）：前端环境搭建](https://juejin.cn/post/7409668839200030770) ![](/assets/new.png)  
-- [2024-09-02-《WebRTC-探索：前端视角下的实时通信解析》（上）](https://juejin.cn/post/7409853145763151935) ![](/assets/new.png)  
-- [2024-09-02-前端导出pdf、图片很难吗？js一把梭~](https://juejin.cn/post/7409828788127268873) ![](/assets/new.png)  
-- [2024-09-02-深入了解useEffect](https://juejin.cn/post/7409828788127350793) ![](/assets/new.png)  
-- [2024-09-02-一个开源的在线代码编辑器正在做-ws-协同编辑，期待你的加入😃😃😃](https://juejin.cn/post/7409675898328039463) ![](/assets/new.png)  
-- [2024-09-02-一文从“链表”轻松理解“原型链”](https://juejin.cn/post/7409681956697751615) ![](/assets/new.png)  
-- [2024-09-02-自定义脚手架开发](https://juejin.cn/post/7409668839200587826) ![](/assets/new.png)  
-- [2024-09-02-发布订阅模式你get了吗](https://juejin.cn/post/7409848788447838223) ![](/assets/new.png)  
-- [2024-09-02-优雅维护loading加载状态的几个案例](https://juejin.cn/post/7409809141353463846) ![](/assets/new.png)  
-- [2024-09-02-问题合集更更更之vant组件适配桌面端](https://juejin.cn/post/7409850315203887123) ![](/assets/new.png)  
-- [2024-09-02-后台管理系统的模块化设计](https://juejin.cn/post/7409866963981500451) ![](/assets/new.png)  
-- [2024-09-02-在-Next.js-中实现服务器发送事件-SSE](https://juejin.cn/post/7409882784057163787) ![](/assets/new.png)  
-- [2024-09-02-技术周刊-｜-Rspack-1.0、v0-支持-Vue、2024-年度编程语言排行榜、Ideogram-2.0、从-0-实现一个-React](https://juejin.cn/post/7409877909999206441) ![](/assets/new.png)  
-- [2024-09-02-nextjs入门](https://juejin.cn/post/7409866963981860899) ![](/assets/new.png)  
-- [2024-09-02-typescripe中typeof、keyof、in、extends、infer、as等介绍](https://juejin.cn/post/7409848788448624655) ![](/assets/new.png)  
-- [2024-09-02-js会了，ts会吗？快来看看ts的入门吧](https://juejin.cn/post/7409893566706941987) ![](/assets/new.png)  
-- [2024-09-02-面试官：请你讲讲-React-的-虚拟DOM-是如何实现复用的-🫵🏻🫵🏻🫵🏻](https://juejin.cn/post/7409872370137612338) ![](/assets/new.png)  
+- [2024-09-06-前端铲💩日记-#1——项目目录结构调整](https://juejin.cn/post/7410970003816955954) ![](/assets/new.png)  
+- [2024-09-06-一文详解TypeScript泛型大法，学习泛型各种姿势](https://juejin.cn/post/7411032557074579471) ![](/assets/new.png)  
+- [2024-09-05-初探-PWA](https://juejin.cn/post/7410987368343568438) ![](/assets/new.png)  
+- [2024-09-05-eltable固定列踩坑之旅](https://juejin.cn/post/7410980982377463862) ![](/assets/new.png)  
+- [2024-09-05-React权限系统设计与实现](https://juejin.cn/post/7410955755942314024) ![](/assets/new.png)  
+- [2024-09-05-Dart字符串到十六进制代码颜色](https://juejin.cn/post/7410963421241786403) ![](/assets/new.png)  
+- [2024-09-05-手写-Mini-React：构建一个简化版的-React](https://juejin.cn/post/7410955755942445096) ![](/assets/new.png)  
+- [2024-09-05-鸿蒙应用-JS知识提炼](https://juejin.cn/post/7410963421241835555) ![](/assets/new.png)  
+- [2024-09-05-next--react的ssr解决方案](https://juejin.cn/post/7410989416866398235) ![](/assets/new.png)  
+- [2024-09-05-前端实现视频抽取单秒缩略图](https://juejin.cn/post/7411043646127521827) ![](/assets/new.png)  
+- [2024-09-05-TS中关于void类型的奇怪现象](https://juejin.cn/post/7410955755942510632) ![](/assets/new.png)  
+- [2024-09-05-vite.config.js-配置项之-alias](https://juejin.cn/post/7410955755942641704) ![](/assets/new.png)  
+- [2024-09-05-vite.config.js-rollupOptions-指定多个入口文件](https://juejin.cn/post/7410964371247415331) ![](/assets/new.png)  
+- [2024-09-05-为了早下班，我开发了个vite插件，然而...](https://juejin.cn/post/7410963421242163235) ![](/assets/new.png)  
+- [2024-09-05-手把手教你实现一个Web版AI对话功能](https://juejin.cn/post/7411043646131159092) ![](/assets/new.png)  
+- [2024-09-05-21-个-HTML-必备的小技巧](https://juejin.cn/post/7410955755942723624) ![](/assets/new.png)  
+- [2024-09-05-小白也能看得懂！如何在浏览器插件的文件中合法引入第三方依赖远程代码？](https://juejin.cn/post/7410970003816562738) ![](/assets/new.png)  
+- [2024-09-05-前端异步处理的变革：从回调地狱到-Promise](https://juejin.cn/post/7410964371247759395) ![](/assets/new.png)  
+- [2024-09-05-【Web-Components】渐进式进阶教程一](https://juejin.cn/post/7410980982378037302) ![](/assets/new.png)  
+- [2024-09-05-万字长文，带你写一个属于自己的-React](https://juejin.cn/post/7410963421242523683) ![](/assets/new.png)  
 - [......【查看更多】......](/details/掘金前端.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -441,9 +441,9 @@
 </summary>
 
 
-- [2024-08-30-Kitex-Thrift-Streaming-在字节跳动-Prompt-平台的实践](https://juejin.cn/post/7408488304550182931) ![](/assets/new.png)  
-- [2024-08-30-kitexcall：用-JSON-发起-RPC-请求的命令行神器](https://juejin.cn/post/7408463818953195574) ![](/assets/new.png)  
-- [2024-08-30-TPC-C-too-simple？一文详解-TPC-E：TPC-C-的升级版](https://juejin.cn/post/7408481531362361380) ![](/assets/new.png)  
+- [2024-08-30-Kitex-Thrift-Streaming-在字节跳动-Prompt-平台的实践](https://juejin.cn/post/7408488304550182931)  
+- [2024-08-30-kitexcall：用-JSON-发起-RPC-请求的命令行神器](https://juejin.cn/post/7408463818953195574)  
+- [2024-08-30-TPC-C-too-simple？一文详解-TPC-E：TPC-C-的升级版](https://juejin.cn/post/7408481531362361380)  
 - [2024-08-23-字节跳动开源Linux内核网络抓包工具netcap](https://juejin.cn/post/7406139000283136039)  
 - [2024-08-19-ByteHouse高性能向量检索实践——“以图搜图”](https://juejin.cn/post/7404739357083484196)  
 - [2024-08-19-最新文生图神器-FLUX.1，火山引擎云上部署实战！](https://juejin.cn/post/7404747823226716214)  
@@ -471,9 +471,9 @@
 </summary>
 
 
-- [2024-08-30-Kitex-Thrift-Streaming-在字节跳动-Prompt-平台的实践](https://juejin.cn/post/7408488304550182931) ![](/assets/new.png)  
-- [2024-08-30-kitexcall：用-JSON-发起-RPC-请求的命令行神器](https://juejin.cn/post/7408463818953195574) ![](/assets/new.png)  
-- [2024-08-30-TPC-C-too-simple？一文详解-TPC-E：TPC-C-的升级版](https://juejin.cn/post/7408481531362361380) ![](/assets/new.png)  
+- [2024-08-30-Kitex-Thrift-Streaming-在字节跳动-Prompt-平台的实践](https://juejin.cn/post/7408488304550182931)  
+- [2024-08-30-kitexcall：用-JSON-发起-RPC-请求的命令行神器](https://juejin.cn/post/7408463818953195574)  
+- [2024-08-30-TPC-C-too-simple？一文详解-TPC-E：TPC-C-的升级版](https://juejin.cn/post/7408481531362361380)  
 - [2024-08-23-字节跳动开源Linux内核网络抓包工具netcap](https://juejin.cn/post/7406139000283136039)  
 - [2024-08-19-ByteHouse高性能向量检索实践——“以图搜图”](https://juejin.cn/post/7404739357083484196)  
 - [2024-08-19-最新文生图神器-FLUX.1，火山引擎云上部署实战！](https://juejin.cn/post/7404747823226716214)  
@@ -528,8 +528,8 @@
 </summary>
 
 
-- [2024-08-30-Tell-us-how-you-use-CSS-with-the-State-of-CSS-survey](https://web.dev/blog/state-of-css-2024?hl=en) ![](/assets/new.png)  
-- [2024-08-29-New-to-the-web-platform-in-August](https://web.dev/blog/web-platform-08-2024?hl=en) ![](/assets/new.png)  
+- [2024-08-30-Tell-us-how-you-use-CSS-with-the-State-of-CSS-survey](https://web.dev/blog/state-of-css-2024?hl=en)  
+- [2024-08-29-New-to-the-web-platform-in-August](https://web.dev/blog/web-platform-08-2024?hl=en)  
 - [2024-08-20-Common-misconceptions-about-how-to-optimize-LCP](https://web.dev/blog/common-misconceptions-lcp?hl=en)  
 - [2024-08-08-Now-in-Baseline:-animating-entry-effects](https://web.dev/blog/baseline-entry-animations?hl=en)  
 - [2024-07-31-Interop-2024:-Chrome-at-100%-for-the-accessibility-focus-area](https://web.dev/blog/interop-2024-a11y?hl=en)  
@@ -558,26 +558,26 @@
 </summary>
 
 
-- [2024-09-03-派早报：高通发布骁龙-6-Gen-3，法院驳回滥用七天无理由男子主张权益等](https://sspai.com/post/91978) ![](/assets/new.png)  
-- [2024-09-02-派早报：市场监管总局督导阿里完成三年整改](https://sspai.com/post/91952) ![](/assets/new.png)  
-- [2024-09-02-少数派线下-|-Apple「高光时刻」即将到来，欢迎你来和我们一起看](https://sspai.com/post/91958) ![](/assets/new.png)  
-- [2024-09-02-我怎样搭建舒适的写作环境](https://sspai.com/post/91791) ![](/assets/new.png)  
-- [2024-09-02-派评-|-近期值得关注的-App](https://sspai.com/post/91972) ![](/assets/new.png)  
-- [2024-09-01-开学季-|-值得关注的官翻渠道汇总（2024）](https://sspai.com/post/91945) ![](/assets/new.png)  
-- [2024-08-31-个性、好拼又好看的积木插座，TA-们这样玩](https://sspai.com/post/91899) ![](/assets/new.png)  
-- [2024-08-30-给人生经历加点料：打工人的低成本留学之旅](https://sspai.com/post/91741) ![](/assets/new.png)  
-- [2024-08-30-App+1-|-捏个朋友一起专注，主打陪伴的番茄钟：gogh](https://sspai.com/post/91696) ![](/assets/new.png)  
-- [2024-08-30-本周看什么-|-最近值得一看的-8-部作品](https://sspai.com/post/91920) ![](/assets/new.png)  
+- [2024-09-06-派早报：Remarkable-发布-Paper-Pro-墨水屏电子阅读器等](https://sspai.com/post/92062) ![](/assets/new.png)  
+- [2024-09-05-派早报：英特尔发布酷睿-Ultra-200V-系列处理器、淘宝将接入微信支付等](https://sspai.com/post/92033) ![](/assets/new.png)  
+- [2024-09-05-开学季-|-付费栏目、正版软件上新-+-多重优惠](https://sspai.com/post/92009) ![](/assets/new.png)  
+- [2024-09-05-看懂配料表、营养成分表，我是这样通过包装选购食品的](https://sspai.com/post/91911) ![](/assets/new.png)  
+- [2024-09-05-出行好物召集计划：轻装出行，但也万无一失](https://sspai.com/post/91964) ![](/assets/new.png)  
+- [2024-09-04-在无线入耳时代上手一副有线平头耳塞](https://sspai.com/post/91725) ![](/assets/new.png)  
+- [2024-09-04-仅靠软装，我打造了一个「轻度极繁主义」的家](https://sspai.com/post/91979) ![](/assets/new.png)  
+- [2024-09-04-Apple-Watch-的十年一剑（上）：从跨界新秀到可穿戴「大腕」](https://sspai.com/post/91846) ![](/assets/new.png)  
+- [2024-09-03-派早报：高通发布骁龙-6-Gen-3，法院驳回滥用七天无理由男子主张权益等](https://sspai.com/post/91978)  
+- [2024-09-03-正确显示-HDR-照片，怎么就这么难？](https://sspai.com/prime/story/hdr-photo-issues) ![](/assets/new.png)  
+- [2024-09-02-派评-|-近期值得关注的-App](https://sspai.com/post/91972)  
+- [2024-09-02-我怎样搭建舒适的写作环境](https://sspai.com/post/91791)  
+- [2024-09-02-少数派线下-|-Apple「高光时刻」即将到来，欢迎你来和我们一起看](https://sspai.com/post/91958)  
+- [2024-09-02-派早报：市场监管总局督导阿里完成三年整改](https://sspai.com/post/91952)  
+- [2024-09-01-开学季-|-值得关注的官翻渠道汇总（2024）](https://sspai.com/post/91945)  
+- [2024-08-31-个性、好拼又好看的积木插座，TA-们这样玩](https://sspai.com/post/91899)  
+- [2024-08-30-本周看什么-|-最近值得一看的-8-部作品](https://sspai.com/post/91920)  
+- [2024-08-30-App+1-|-捏个朋友一起专注，主打陪伴的番茄钟：gogh](https://sspai.com/post/91696)  
+- [2024-08-30-给人生经历加点料：打工人的低成本留学之旅](https://sspai.com/post/91741)  
 - [2024-08-28-派早报：日版-PS5-价格上调、Claude-AI-系统提示词公开等](https://sspai.com/post/91840)  
-- [2024-08-27-社区速递-059-|-你没见过的社区文章、一周最热评、派友的黑神话体验](https://sspai.com/post/91831)  
-- [2024-08-27-派早报：国内无线充电新规即将施行，奇安信公布-Steam-被攻击细节等](https://sspai.com/post/91816)  
-- [2024-08-27-App+1-|-用你可能也想要的细节，做一款更现代的倒数日应用：Pinning](https://sspai.com/post/91599)  
-- [2024-08-27-和控制面板说再见：Windows-系统设置的迁移之路](https://sspai.com/post/88491)  
-- [2024-08-26-派早报：专家回应网号、网证热点问题](https://sspai.com/post/91788)  
-- [2024-08-26-Game+1-|-希望永无二周目：把流氓软件做成游戏是什么体验？](https://sspai.com/post/91347)  
-- [2024-08-26-重塑旅行体验：Exping-城市路线探索的幕后故事](https://sspai.com/post/91416)  
-- [2024-08-26-Torch-和-PlayBook：黑莓追赶多点触控的两次尴尬尝试](https://sspai.com/prime/story/vintage-tech-stories-blackberry-5)  
-- [2024-08-26-派评-|-近期值得关注的-App](https://sspai.com/post/91806)  
 - [......【查看更多】......](/details/少数派.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -589,26 +589,26 @@
 </summary>
 
 
-- [2024-09-01-成年人的最大体面就是：不要脸](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E6%9C%80%E5%A4%A7%E4%BD%93%E9%9D%A2%E5%B0%B1%E6%98%AF%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%84%B8) ![](/assets/new.png)  
-- [2024-09-01-一个人变值钱的底层逻辑](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8F%98%E5%80%BC%E9%92%B1%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91) ![](/assets/new.png)  
-- [2024-09-01-停止家庭内耗，从遇事不对抗开始](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%81%9C%E6%AD%A2%E5%AE%B6%E5%BA%AD%E5%86%85%E8%80%97%EF%BC%8C%E4%BB%8E%E9%81%87%E4%BA%8B%E4%B8%8D%E5%AF%B9%E6%8A%97%E5%BC%80%E5%A7%8B) ![](/assets/new.png)  
-- [2024-09-01-好用不输神仙水！这瓶浓缩玫瑰纯露，补水祛黄，用完肤白如雪、年轻10岁](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%A5%BD%E7%94%A8%E4%B8%8D%E8%BE%93%E7%A5%9E%E4%BB%99%E6%B0%B4%EF%BC%81%E8%BF%99%E7%93%B6%E6%B5%93%E7%BC%A9%E7%8E%AB%E7%91%B0%E7%BA%AF%E9%9C%B2%EF%BC%8C%E8%A1%A5%E6%B0%B4%E7%A5%9B%E9%BB%84%EF%BC%8C%E7%94%A8%E5%AE%8C%E8%82%A4%E7%99%BD%E5%A6%82%E9%9B%AA%E3%80%81%E5%B9%B4%E8%BD%BB10%E5%B2%81) ![](/assets/new.png)  
-- [2024-09-01-所有长久的关系，都是讲条件的](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%89%80%E6%9C%89%E9%95%BF%E4%B9%85%E7%9A%84%E5%85%B3%E7%B3%BB%EF%BC%8C%E9%83%BD%E6%98%AF%E8%AE%B2%E6%9D%A1%E4%BB%B6%E7%9A%84) ![](/assets/new.png)  
-- [2024-08-25-一个人成长最快的方式：深度工作](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%9A%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C)  
-- [2024-08-25-看了凌晨一点杭州隧道里睡满的外卖员，我觉得李佳琦被骂一点也不冤](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E7%9C%8B%E4%BA%86%E5%87%8C%E6%99%A8%E4%B8%80%E7%82%B9%E6%9D%AD%E5%B7%9E%E9%9A%A7%E9%81%93%E9%87%8C%E7%9D%A1%E6%BB%A1%E7%9A%84%E5%A4%96%E5%8D%96%E5%91%98%EF%BC%8C%E6%88%91%E8%A7%89%E5%BE%97%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%A2%AB%E9%AA%82%E4%B8%80%E7%82%B9%E4%B9%9F%E4%B8%8D%E5%86%A4)  
-- [2024-08-25-董宇辉：真正厉害的父母，早就做到了反焦虑、反内卷、反内耗](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E8%91%A3%E5%AE%87%E8%BE%89%EF%BC%9A%E7%9C%9F%E6%AD%A3%E5%8E%89%E5%AE%B3%E7%9A%84%E7%88%B6%E6%AF%8D%EF%BC%8C%E6%97%A9%E5%B0%B1%E5%81%9A%E5%88%B0%E4%BA%86%E5%8F%8D%E7%84%A6%E8%99%91%E3%80%81%E5%8F%8D%E5%86%85%E5%8D%B7%E3%80%81%E5%8F%8D%E5%86%85%E8%80%97)  
-- [2024-08-25-耳机界的劳斯莱斯，千元级音质、久戴不痛，几十块卖疯了！](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E8%80%B3%E6%9C%BA%E7%95%8C%E7%9A%84%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%EF%BC%8C%E5%8D%83%E5%85%83%E7%BA%A7%E9%9F%B3%E8%B4%A8%E3%80%81%E4%B9%85%E6%88%B4%E4%B8%8D%E7%97%9B%EF%BC%8C%E5%87%A0%E5%8D%81%E5%9D%97%E5%8D%96%E7%96%AF%E4%BA%86%EF%BC%81)  
+- [2024-09-02-开学了：如果孩子不想读书，就带着他看看《布鲁克林有棵树》](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%BC%80%E5%AD%A6%E4%BA%86%EF%BC%9A%E5%A6%82%E6%9E%9C%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%83%B3%E8%AF%BB%E4%B9%A6%EF%BC%8C%E5%B0%B1%E5%B8%A6%E7%9D%80%E4%BB%96%E7%9C%8B%E7%9C%8B%E3%80%8A%E5%B8%83%E9%B2%81%E5%85%8B%E6%9E%97%E6%9C%89%E6%A3%B5%E6%A0%91%E3%80%8B) ![](/assets/new.png)  
+- [2024-09-02-7个能成事的顶级思维](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+7%E4%B8%AA%E8%83%BD%E6%88%90%E4%BA%8B%E7%9A%84%E9%A1%B6%E7%BA%A7%E6%80%9D%E7%BB%B4) ![](/assets/new.png)  
+- [2024-09-02-您已关注洞见满一年，10万补贴已就位，速来薅羊毛！](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%82%A8%E5%B7%B2%E5%85%B3%E6%B3%A8%E6%B4%9E%E8%A7%81%E6%BB%A1%E4%B8%80%E5%B9%B4%EF%BC%8C10%E4%B8%87%E8%A1%A5%E8%B4%B4%E5%B7%B2%E5%B0%B1%E4%BD%8D%EF%BC%8C%E9%80%9F%E6%9D%A5%E8%96%85%E7%BE%8A%E6%AF%9B%EF%BC%81) ![](/assets/new.png)  
+- [2024-09-02-强者从不纠缠，直接买单离场](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%BC%BA%E8%80%85%E4%BB%8E%E4%B8%8D%E7%BA%A0%E7%BC%A0%EF%BC%8C%E7%9B%B4%E6%8E%A5%E4%B9%B0%E5%8D%95%E7%A6%BB%E5%9C%BA) ![](/assets/new.png)  
+- [2024-09-02-无论在哪上班，都要远离“黑洞人”](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%97%A0%E8%AE%BA%E5%9C%A8%E5%93%AA%E4%B8%8A%E7%8F%AD%EF%BC%8C%E9%83%BD%E8%A6%81%E8%BF%9C%E7%A6%BB%E2%80%9C%E9%BB%91%E6%B4%9E%E4%BA%BA%E2%80%9D) ![](/assets/new.png)  
+- [2024-09-01-所有长久的关系，都是讲条件的](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%89%80%E6%9C%89%E9%95%BF%E4%B9%85%E7%9A%84%E5%85%B3%E7%B3%BB%EF%BC%8C%E9%83%BD%E6%98%AF%E8%AE%B2%E6%9D%A1%E4%BB%B6%E7%9A%84)  
+- [2024-09-01-好用不输神仙水！这瓶浓缩玫瑰纯露，补水祛黄，用完肤白如雪、年轻10岁](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%A5%BD%E7%94%A8%E4%B8%8D%E8%BE%93%E7%A5%9E%E4%BB%99%E6%B0%B4%EF%BC%81%E8%BF%99%E7%93%B6%E6%B5%93%E7%BC%A9%E7%8E%AB%E7%91%B0%E7%BA%AF%E9%9C%B2%EF%BC%8C%E8%A1%A5%E6%B0%B4%E7%A5%9B%E9%BB%84%EF%BC%8C%E7%94%A8%E5%AE%8C%E8%82%A4%E7%99%BD%E5%A6%82%E9%9B%AA%E3%80%81%E5%B9%B4%E8%BD%BB10%E5%B2%81)  
+- [2024-09-01-停止家庭内耗，从遇事不对抗开始](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%81%9C%E6%AD%A2%E5%AE%B6%E5%BA%AD%E5%86%85%E8%80%97%EF%BC%8C%E4%BB%8E%E9%81%87%E4%BA%8B%E4%B8%8D%E5%AF%B9%E6%8A%97%E5%BC%80%E5%A7%8B)  
+- [2024-09-01-一个人变值钱的底层逻辑](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8F%98%E5%80%BC%E9%92%B1%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91)  
+- [2024-09-01-成年人的最大体面就是：不要脸](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E6%9C%80%E5%A4%A7%E4%BD%93%E9%9D%A2%E5%B0%B1%E6%98%AF%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%84%B8)  
 - [2024-08-25-最顶级的社交格局（深度好文）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%9C%80%E9%A1%B6%E7%BA%A7%E7%9A%84%E7%A4%BE%E4%BA%A4%E6%A0%BC%E5%B1%80%EF%BC%88%E6%B7%B1%E5%BA%A6%E5%A5%BD%E6%96%87%EF%BC%89)  
-- [2024-08-18-陈道明：中年的最高境界，没有酒色财气](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E9%99%88%E9%81%93%E6%98%8E%EF%BC%9A%E4%B8%AD%E5%B9%B4%E7%9A%84%E6%9C%80%E9%AB%98%E5%A2%83%E7%95%8C%EF%BC%8C%E6%B2%A1%E6%9C%89%E9%85%92%E8%89%B2%E8%B4%A2%E6%B0%94)  
-- [2024-08-18-一个人最通透的活法（看完醒悟）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E9%80%9A%E9%80%8F%E7%9A%84%E6%B4%BB%E6%B3%95%EF%BC%88%E7%9C%8B%E5%AE%8C%E9%86%92%E6%82%9F%EF%BC%89)  
-- [2024-08-18-不知感恩的人，穷一辈子](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%8D%E7%9F%A5%E6%84%9F%E6%81%A9%E7%9A%84%E4%BA%BA%EF%BC%8C%E7%A9%B7%E4%B8%80%E8%BE%88%E5%AD%90)  
+- [2024-08-25-耳机界的劳斯莱斯，千元级音质、久戴不痛，几十块卖疯了！](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E8%80%B3%E6%9C%BA%E7%95%8C%E7%9A%84%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%EF%BC%8C%E5%8D%83%E5%85%83%E7%BA%A7%E9%9F%B3%E8%B4%A8%E3%80%81%E4%B9%85%E6%88%B4%E4%B8%8D%E7%97%9B%EF%BC%8C%E5%87%A0%E5%8D%81%E5%9D%97%E5%8D%96%E7%96%AF%E4%BA%86%EF%BC%81)  
+- [2024-08-25-董宇辉：真正厉害的父母，早就做到了反焦虑、反内卷、反内耗](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E8%91%A3%E5%AE%87%E8%BE%89%EF%BC%9A%E7%9C%9F%E6%AD%A3%E5%8E%89%E5%AE%B3%E7%9A%84%E7%88%B6%E6%AF%8D%EF%BC%8C%E6%97%A9%E5%B0%B1%E5%81%9A%E5%88%B0%E4%BA%86%E5%8F%8D%E7%84%A6%E8%99%91%E3%80%81%E5%8F%8D%E5%86%85%E5%8D%B7%E3%80%81%E5%8F%8D%E5%86%85%E8%80%97)  
+- [2024-08-25-看了凌晨一点杭州隧道里睡满的外卖员，我觉得李佳琦被骂一点也不冤](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E7%9C%8B%E4%BA%86%E5%87%8C%E6%99%A8%E4%B8%80%E7%82%B9%E6%9D%AD%E5%B7%9E%E9%9A%A7%E9%81%93%E9%87%8C%E7%9D%A1%E6%BB%A1%E7%9A%84%E5%A4%96%E5%8D%96%E5%91%98%EF%BC%8C%E6%88%91%E8%A7%89%E5%BE%97%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%A2%AB%E9%AA%82%E4%B8%80%E7%82%B9%E4%B9%9F%E4%B8%8D%E5%86%A4)  
+- [2024-08-25-一个人成长最快的方式：深度工作](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%9A%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C)  
 - [2024-08-18-看完苏轼的工作简历，治好了我的职场焦虑](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E7%9C%8B%E5%AE%8C%E8%8B%8F%E8%BD%BC%E7%9A%84%E5%B7%A5%E4%BD%9C%E7%AE%80%E5%8E%86%EF%BC%8C%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E7%9A%84%E8%81%8C%E5%9C%BA%E7%84%A6%E8%99%91)  
+- [2024-08-18-不知感恩的人，穷一辈子](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%8D%E7%9F%A5%E6%84%9F%E6%81%A9%E7%9A%84%E4%BA%BA%EF%BC%8C%E7%A9%B7%E4%B8%80%E8%BE%88%E5%AD%90)  
+- [2024-08-18-一个人最通透的活法（看完醒悟）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E9%80%9A%E9%80%8F%E7%9A%84%E6%B4%BB%E6%B3%95%EF%BC%88%E7%9C%8B%E5%AE%8C%E9%86%92%E6%82%9F%EF%BC%89)  
+- [2024-08-18-陈道明：中年的最高境界，没有酒色财气](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E9%99%88%E9%81%93%E6%98%8E%EF%BC%9A%E4%B8%AD%E5%B9%B4%E7%9A%84%E6%9C%80%E9%AB%98%E5%A2%83%E7%95%8C%EF%BC%8C%E6%B2%A1%E6%9C%89%E9%85%92%E8%89%B2%E8%B4%A2%E6%B0%94)  
 - [2024-08-17-中元节：人到中年，最怕中元，最盼中元](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%AD%E5%85%83%E8%8A%82%EF%BC%9A%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%EF%BC%8C%E6%9C%80%E6%80%95%E4%B8%AD%E5%85%83%EF%BC%8C%E6%9C%80%E7%9B%BC%E4%B8%AD%E5%85%83)  
-- [2024-08-04-全红婵巴黎奥运再度爆火，我顿悟一个家庭兴旺的底层逻辑](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E5%86%8D%E5%BA%A6%E7%88%86%E7%81%AB%EF%BC%8C%E6%88%91%E9%A1%BF%E6%82%9F%E4%B8%80%E4%B8%AA%E5%AE%B6%E5%BA%AD%E5%85%B4%E6%97%BA%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91)  
-- [2024-08-03-脾气好不是一种性格，而是一种智慧](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E8%84%BE%E6%B0%94%E5%A5%BD%E4%B8%8D%E6%98%AF%E4%B8%80%E7%A7%8D%E6%80%A7%E6%A0%BC%EF%BC%8C%E8%80%8C%E6%98%AF%E4%B8%80%E7%A7%8D%E6%99%BA%E6%85%A7)  
-- [2024-07-31-家庭教育的“五把刀”，一刀比一刀更伤](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2%E7%9A%84%E2%80%9C%E4%BA%94%E6%8A%8A%E5%88%80%E2%80%9D%EF%BC%8C%E4%B8%80%E5%88%80%E6%AF%94%E4%B8%80%E5%88%80%E6%9B%B4%E4%BC%A4)  
-- [2024-07-31-经常跑步的人，没有一个是弱者](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E7%BB%8F%E5%B8%B8%E8%B7%91%E6%AD%A5%E7%9A%84%E4%BA%BA%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E6%98%AF%E5%BC%B1%E8%80%85)  
-- [2024-07-31-莫言：段位越高的人，话越少](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E8%8E%AB%E8%A8%80%EF%BC%9A%E6%AE%B5%E4%BD%8D%E8%B6%8A%E9%AB%98%E7%9A%84%E4%BA%BA%EF%BC%8C%E8%AF%9D%E8%B6%8A%E5%B0%91)  
 - [......【查看更多】......](/details/洞见.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1060,6 +1060,7 @@
 </summary>
 
 
+- [2024-09-03-How-I-Got-Involved-in-OSS](https://blog.axlight.com/posts/how-i-got-involved-in-oss/) ![](/assets/new.png)  
 - [2024-08-18-How-Valtio-Was-Born](https://blog.axlight.com/posts/how-valtio-was-born/)  
 - [2024-08-09-How-Jotai-Was-Born](https://blog.axlight.com/posts/how-jotai-was-born/)  
 - [2024-07-14-How-Zustand-Was-Born](https://blog.axlight.com/posts/how-zustand-was-born/)  
@@ -1079,7 +1080,6 @@
 - [2021-06-10-Testing-Global-State-Libraries-With-React-18-Alpha-Concurrent-Rendering](https://blog.axlight.com/posts/testing-global-state-libraries-with-react-18-alpha-concurrent-rendering/)  
 - [2020-11-29-Developing-a-Memoization-Library-With-Proxies](https://blog.axlight.com/posts/developing-a-memoization-library-with-proxies/)  
 - [2020-08-13-Developing-React-Global-State-Library-With-Atom-Abstraction](https://blog.axlight.com/posts/developing-react-global-state-library-with-atom-abstraction/)  
-- [2020-03-29-Redux-in-Worker:-Off-main-thread-Redux-Reducers-and-Middleware](https://blog.axlight.com/posts/redux-in-worker-off-main-thread-redux-reducers-and-middleware/)  
 - [......【查看更多】......](/details/Daishi Kato's blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1214,26 +1214,26 @@
 </summary>
 
 
-- [2024-09-03-xnx3/translate](https://github.com/xnx3/translate) ![](/assets/new.png)  
-- [2024-09-03-jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) ![](/assets/new.png)  
-- [2024-09-03-TryGhost/Ghost](https://github.com/TryGhost/Ghost) ![](/assets/new.png)  
-- [2024-08-28-evgeny-nadymov/telegram-react](https://github.com/evgeny-nadymov/telegram-react)  
-- [2024-08-28-mozilla/pdf.js](https://github.com/mozilla/pdf.js)  
-- [2024-08-28-MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)  
-- [2024-08-28-UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar)  
-- [2024-08-28-moment/moment](https://github.com/moment/moment)  
-- [2024-08-28-bchiang7/v4](https://github.com/bchiang7/v4)  
-- [2024-08-28-zloirock/core-js](https://github.com/zloirock/core-js)  
-- [2024-08-28-mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)  
-- [2024-08-28-webpack/webpack](https://github.com/webpack/webpack)  
+- [2024-09-06-GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) ![](/assets/new.png)  
+- [2024-09-06-highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) ![](/assets/new.png)  
+- [2024-09-06-h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) ![](/assets/new.png)  
+- [2024-09-06-sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) ![](/assets/new.png)  
+- [2024-09-06-Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) ![](/assets/new.png)  
+- [2024-09-06-brix/crypto-js](https://github.com/brix/crypto-js) ![](/assets/new.png)  
+- [2024-09-06-actualbudget/actual-server](https://github.com/actualbudget/actual-server) ![](/assets/new.png)  
+- [2024-09-06-liriliri/eruda](https://github.com/liriliri/eruda) ![](/assets/new.png)  
+- [2024-09-06-processing/p5.js](https://github.com/processing/p5.js) ![](/assets/new.png)  
+- [2024-09-03-TryGhost/Ghost](https://github.com/TryGhost/Ghost)  
+- [2024-09-03-jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)  
+- [2024-09-03-xnx3/translate](https://github.com/xnx3/translate)  
 - [2024-08-28-projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)  
-- [2024-08-27-pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)  
-- [2024-08-27-evershopcommerce/evershop](https://github.com/evershopcommerce/evershop)  
-- [2024-08-27-brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)  
-- [2024-08-27-facebook/create-react-app](https://github.com/facebook/create-react-app)  
-- [2024-08-27-jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)  
-- [2024-08-21-kolbytn/mindcraft](https://github.com/kolbytn/mindcraft)  
-- [2024-08-21-naptha/tesseract.js](https://github.com/naptha/tesseract.js)  
+- [2024-08-28-webpack/webpack](https://github.com/webpack/webpack)  
+- [2024-08-28-mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)  
+- [2024-08-28-zloirock/core-js](https://github.com/zloirock/core-js)  
+- [2024-08-28-bchiang7/v4](https://github.com/bchiang7/v4)  
+- [2024-08-28-moment/moment](https://github.com/moment/moment)  
+- [2024-08-28-UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar)  
+- [2024-08-28-MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)  
 - [......【查看更多】......](/details/Trending JavaScript repositories.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1275,9 +1275,9 @@
 </summary>
 
 
-- [2024-09-01-如何在抖音直播卖货](https://blog.devtang.com/2024/09/01/living-selling-101/) ![](/assets/new.png)  
-- [2024-06-23-要利润的定价---读《定价制胜》](https://blog.devtang.com/2024/06/23/pricing-strategy/) ![](/assets/new.png)  
-- [2024-05-15-人单合一---读《永恒的活火》](https://blog.devtang.com/2024/05/15/ever-living-fire/) ![](/assets/new.png)  
+- [2024-09-01-如何在抖音直播卖货](https://blog.devtang.com/2024/09/01/living-selling-101/)  
+- [2024-06-23-要利润的定价---读《定价制胜》](https://blog.devtang.com/2024/06/23/pricing-strategy/)  
+- [2024-05-15-人单合一---读《永恒的活火》](https://blog.devtang.com/2024/05/15/ever-living-fire/)  
 - [2024-03-26-如何卖货---读《营销管理》](https://blog.devtang.com/2024/03/26/marketing-management-book-summary/)  
 - [2024-03-19-替农夫山泉说句话](https://blog.devtang.com/2024/03/19/talk-about-nongfu-spring/)  
 - [2024-03-08-关于私域的思考](https://blog.devtang.com/2024/03/08/thinking-about-private-group/)  

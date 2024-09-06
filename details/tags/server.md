@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-03 09:31:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-06 09:10:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -111,6 +111,9 @@
 - [2023-08-19-Mac-环境快速安装-Homebrew-&amp;-Nginx-教程](http://www.yyyweb.com/5518.html) 
 - [2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html) 
 - [2018-09-06-Apollo-GraphQL-在-Web-APP-中应用的思考](http://www.yyyweb.com/5151.html) 
+- [2024-09-05-PHP-8.4-属性钩子](https://github.com/guanguans/favorite-link/commit/0e4d617c92004fefc9b3a00bbebe42533149595c) 
+- [2024-09-04-czproject/phpdepend:-从PHP文件或代码片段中提取依赖项列表（类、接口和特征）。](https://github.com/guanguans/favorite-link/commit/4266a6a658d4c32341ca1d7bddf294bdc92b858a) 
+- [2024-09-03-WatheqAlshowaiter/backup-tables:-轻松备份单个或多个数据库表。](https://github.com/guanguans/favorite-link/commit/cc4067040a4db1cf02913f659cf89e3be44d4706) 
 - [2024-09-02-serversideup/spin:-不要再浪费时间修复你已经解决的生产问题了。Spin-是一款-bash-工具，可改善使用-Docker-的团队的用户体验。](https://github.com/guanguans/favorite-link/commit/e8a35fa04fa8e362647db2fadd3b508e64994ff5) 
 - [2024-08-27-TicketSwap/phpstan-error-formatter:-PHPStan-的简约错误格式化工具](https://github.com/guanguans/favorite-link/commit/cbe55a37659fcd64e8001b652e1748c38ba85dec) 
 - [2024-08-23-approvals/ApprovalTests.php:-ApprovalTests-是一个开源的断言/验证库，用于辅助单元测试。](https://github.com/guanguans/favorite-link/commit/52305ca5c765b8987b8bf301e28c6c2f21e7f005) 
@@ -119,12 +122,12 @@
 - [2024-08-05-JonPurvis/profanify:-🧼-一个-PestPHP-插件，可帮助捕获应用程序中的亵渎内容。](https://github.com/guanguans/favorite-link/commit/7755d945f05670dcf18091577b8dcae0215490b8) 
 - [2024-07-23-ChrisBuilds/terminaltexteffects:-TerminalTextEffects-TTE-是一个终端视觉效果引擎、应用程序和-Python-库。](https://github.com/guanguans/favorite-link/commit/26b31f8980377fd25915c087976c62d75e0a88f2) 
 - [2024-07-22-PHPExpertsInc/SimpleDTO:-一个易于使用的-PHP-通用-DTO-包。](https://github.com/guanguans/favorite-link/commit/087d429c503861a4991ef6877a2b58532b76ffe8) 
-- [2024-07-19-kattouf/ProgressLine:-以紧凑的单行格式跟踪命令进度](https://github.com/guanguans/favorite-link/commit/968d759e99aae85f34b45ef5507d16753614d8d8) 
 - [2024-07-19-scop/bash-completion:-用于-bash-的可编程完成函数](https://github.com/guanguans/favorite-link/commit/27cfd7c75d58284a0c4e5cb0c33d9af86f26bcc3) 
+- [2024-07-19-kattouf/ProgressLine:-以紧凑的单行格式跟踪命令进度](https://github.com/guanguans/favorite-link/commit/968d759e99aae85f34b45ef5507d16753614d8d8) 
 - [2024-07-16-DaltonMcCleery/remote-models:-有时您想使用-Eloquent，但该数据位于不同应用程序的另一个数据库中。](https://github.com/guanguans/favorite-link/commit/e4cc24317d299ab4298f9e623ebc21af64c20bbd) 
 - [2024-07-15-m3m0r7/php-os:-用-PHP-编写的操作系统](https://github.com/guanguans/favorite-link/commit/407b6ac6333ec2955a9dd539d5c1d0cb3e03457f) 
-- [2024-07-10-bytedance/mockey:-简单易用的-golang-模拟库](https://github.com/guanguans/favorite-link/commit/4bd6352c268065d5617abc7650c56f12d55e8494) 
 - [2024-07-10-loong/go-concurrency-exercises:-loong/go-concurrency-exercises:-Golang-并发模式练习。](https://github.com/guanguans/favorite-link/commit/3a0f299f4a28b121ec2f4013c659478ed860ee13) 
+- [2024-07-10-bytedance/mockey:-简单易用的-golang-模拟库](https://github.com/guanguans/favorite-link/commit/4bd6352c268065d5617abc7650c56f12d55e8494) 
 - [2024-07-08-ytake/phluxor:-PHP-中灵活的参与者模型工具包，增强-PHP-生态系统的能力](https://github.com/guanguans/favorite-link/commit/07e48ed13f2c8d4be4851f896d395be35899c8a4) 
 - [2024-08-05-nginx的安装与启动](https://juejin.cn/post/7399496845276004362) 
 - [2024-07-23-一日一技-|-使用-Docker-为-iCloud-照片生成本地备份](https://sspai.com/post/90641) 

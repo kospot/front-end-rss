@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-08-21 12:47:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-06 09:10:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Daishi Kato's blog
 
 
 
 
+- [2024-09-03-How-I-Got-Involved-in-OSS](https://blog.axlight.com/posts/how-i-got-involved-in-oss/) 
 - [2024-08-18-How-Valtio-Was-Born](https://blog.axlight.com/posts/how-valtio-was-born/) 
 - [2024-08-09-How-Jotai-Was-Born](https://blog.axlight.com/posts/how-jotai-was-born/) 
 - [2024-07-14-How-Zustand-Was-Born](https://blog.axlight.com/posts/how-zustand-was-born/) 

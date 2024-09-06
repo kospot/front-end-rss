@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-03 09:31:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-06 09:10:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -38,6 +38,7 @@
 - [2019-06-03-HTML-rel属性值释义大全](https://www.zhangxinxu.com/wordpress/2019/06/html-a-link-rel/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2024-08-05-ldez/tagliatelle:-该工具可根据您定义的规则验证标签。该工具还可以根据您定义的规则修复标签。](https://github.com/guanguans/favorite-link/commit/2e319f6a80f7408d3d06f58beb4a97b393730bf6) 
+- [2024-09-05-21-个-HTML-必备的小技巧](https://juejin.cn/post/7410955755942723624) 
 - [2024-08-26-我所知道的HTML——现成轮子都堆成山了，新特性还算新吗？（中篇）](https://juejin.cn/post/7406547469624868898) 
 - [2024-07-14-Meta开发System-2蒸馏技术，Llama-2对话模型任务准确率接近100％](https://posts.careerengine.us/p/669359c36cc58b6ae165140c) 
 - [2024-07-06-Meta-3D-Gen-震撼发布：1-分钟打造顶级-3D-模型](https://posts.careerengine.us/p/6688d797ae35062a713834b8) 

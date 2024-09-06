@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-03 09:31:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-06 09:10:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 移动开发、Flutter相关
 
@@ -114,5 +114,6 @@
 - [2018-12-05-Flutter-1.0重磅发布，它还想做桌面和Web开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490048&idx=1&sn=7fc792cccb4182ce2a4f0106658c6fb6#wechat_redirect) 
 - [2018-10-17-Chrome-70正式版发布：Windows端将支持PWA](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489693&idx=1&sn=0f618c4978d3fcf81144b57eb98b67f2#wechat_redirect) 
 - [2022-01-21-北海（Kraken）v0.10.0-发布---支持-Flutter-Widget-混合渲染](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495233&idx=1&sn=af3904c308527c447a50982e7c7b826b&chksm=ec47a582db302c944e41648e5e6cb31025ff365974fd9d9b2feb46af17293aaf77778095b539#rd) 
+- [2024-09-05-初探-PWA](https://juejin.cn/post/7410987368343568438) 
 - [2024-08-01-跟🤡杰哥一起学Flutter-二十三、⚡️玩转Flutter动画上](https://juejin.cn/post/7397683842633809971) 
 - [2024-07-05-Web-App-Manifest：创建沉浸式PWA体验](https://juejin.cn/post/7388039373202030628) 
