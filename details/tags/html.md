@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-06 09:10:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-10 09:33:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -44,3 +44,4 @@
 - [2024-07-06-Meta-3D-Gen-震撼发布：1-分钟打造顶级-3D-模型](https://posts.careerengine.us/p/6688d797ae35062a713834b8) 
 - [2023-07-06-The-case-against-self-closing-tags-in-HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/) 
 - [2022-12-19-Getting-the-correct-HTML-codecs-parameter-for-an-AV1-video](https://jakearchibald.com/2022/html-codecs-parameter-for-av1/) 
+- [2024-09-10-MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect) 

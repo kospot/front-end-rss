@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-06 09:10:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-10 09:33:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -145,10 +145,12 @@
 - [2022-03-16-TypeScript-中的类型控制流分析演进](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495503&idx=1&sn=7f5a63645e5b90d222865204df3afc2c&chksm=ec47a48cdb302d9aa0523361551dc7d839508832187f6330911695ce86c518d7c758c552635e#rd) 
 - [2022-03-01-淘宝店铺-TypeScript-研发规约落地实践](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495461&idx=1&sn=ad1efbe8eba81569aae9914d58dd2cbe&chksm=ec47a4e6db302df032a900ce47032b429b5e85c6e2fb027434ddd1f9ef16d5c19304190c5990#rd) 
 - [2023-08-08-《TypeScript-教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html) 
+- [2024-09-09-TypeScript中使用枚举-注意:你可能用的一直不对](https://juejin.cn/post/7412489953986854962) 
 - [2024-09-06-一文详解TypeScript泛型大法，学习泛型各种姿势](https://juejin.cn/post/7411032557074579471) 
 - [2024-08-21-TypeScript-中的-satisfies-运算符与-as-运算符的详细对比](https://juejin.cn/post/7405158247585087488) 
 - [2024-07-22-TypeScript技术系列：基础类型详解与应用](https://juejin.cn/post/7393893498435862562) 
 - [2022-03-27-Extract-parameter-types-from-string-literal-types-with-TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/) 
+- [2024-09-10-Announcing-TypeScript-5.6](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/) 
 - [2024-08-24-Announcing-TypeScript-5.6-RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-rc/) 
 - [2024-07-26-Announcing-TypeScript-5.6-Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta/) 
 - [2024-06-21-Announcing-TypeScript-5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-06 09:10:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-10 09:33:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -74,5 +74,6 @@
 - [2021-08-25-GitHub-Co-authors](https://antfu.me/posts/github-co-authors) 
 - [2019-09-04-Git-commits-went-missing-after-a-rebase](https://lihautan.com/commit-went-missing-after-rebase/) 
 - [2019-08-30-Git-Gudder](https://lihautan.com/git-gudder/) 
+- [2024-09-10-anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 
 - [2024-07-23-academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) 
 - [2024-07-16-github/docs](https://github.com/github/docs) 
