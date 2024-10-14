@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-09-10 09:33:58。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-10-14 09:05:55。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,9 @@
 
 
 
+- [【Node-Weekly】All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)
+- [【Node-Weekly】Principles-for-doing-Node-right-at-scale](https://nodeweekly.com/issues/549)
+- [【Node-Weekly】Express.js-5.0](https://nodeweekly.com/issues/547)
 - [【Node-Weekly】Node-22.6,-Protobuf-ES-2.0,-and-Volta-2.0](https://nodeweekly.com/issues/544)
 - [【Node-Weekly】Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)
 - [【Node-Weekly】Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)
@@ -199,9 +202,6 @@
 - [【Node-Weekly】Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526)
 - [【Node-Weekly】Ryan-Dahl-on-Deno-and-the-future-of-JavaScript](https://nodeweekly.com/issues/525)
 - [【Node-Weekly】A-new-small-Express.js-release-appears](https://nodeweekly.com/issues/523)
-- [【Node-Weekly】The-ten-top-Node-Weekly-links-of-2023](https://nodeweekly.com/issues/515)
-- [【Node-Weekly】V8's-garbage-collection-and-three-JIT-compilers](https://nodeweekly.com/issues/514)
-- [【Node-Weekly】100,000-stars-within-reach-for-Node](https://nodeweekly.com/issues/513)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -329,6 +329,8 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)
+- [【JavaScript-Weekly】Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)
 - [【JavaScript-Weekly】Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)
 - [【JavaScript-Weekly】JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702)
 - [【JavaScript-Weekly】How-Googlebot-sees-your-JavaScript](https://javascriptweekly.com/issues/699)
@@ -344,8 +346,6 @@
 - [【JavaScript-Weekly】TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675)
 - [【JavaScript-Weekly】Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)
 - [【JavaScript-Weekly】Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)
-- [【JavaScript-Weekly】Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)
-- [【JavaScript-Weekly】JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -542,6 +542,7 @@
 
 
 
+- [【Node-Weekly】Tough-cookies](https://nodeweekly.com/issues/548)
 - [【Node-Weekly】Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)
 - [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
 - [【Node-Weekly】A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449)
@@ -561,7 +562,6 @@
 - [【前端早读课】【第3051期】浏览器也拥有了原生的-“时间切片”-能力！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265683&idx=1&sn=c3c895fc9d30dde4227b6dbf2f3da051&chksm=bd48c3178a3f4a0120724da4e9b0296f5b249a9987d80b6350346a5643e6ebde8492ac91203f#rd)
 - [【前端早读课】【图书】白帽子讲Web安全第2版](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265244&idx=2&sn=a786f8e3549621ed1d29c644f53b9648&chksm=bd48c1588a3f484eb6cb77723dfd85758eee80c45ac4cd68ef0a3dcc1c13438ed8e002846ea0#rd)
 - [【前端早读课】【第3015期】新Viewport单位：svh、lvh-和-dvh](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264348&idx=1&sn=45453689feb058d0a8bfc2552a03d2c2&chksm=bd48ccd88a3f45ce96a5e21021884afb7a62bb694b5d61b855c9e671db6c2732f54309d4ab7f#rd)
-- [【前端早读课】【第3012期】Chrome-115-有哪些值得关注的新特性？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264236&idx=1&sn=2e8fdc237c1fb2222b713e021c8d920a&chksm=bd48cd688a3f447e8208c24337efc243b024a71ea92e3ce37094cde6a597164d682825cfa80f#rd)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

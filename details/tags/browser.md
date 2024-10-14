@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-10 09:33:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-14 09:05:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-09-17-Tough-cookies](https://nodeweekly.com/issues/548) 
 - [2024-09-03-Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546) 
 - [2023-06-13-Let's-get-debugging](https://nodeweekly.com/issues/490) 
 - [2022-08-04-A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449) 
@@ -442,6 +443,8 @@
 - [2024-07-05-浏览器的储存空间，你知道吗？](https://juejin.cn/post/7388025457822859274) 
 - [2024-04-24-LLM-安全-|-大语言模型应用安全入门](https://juejin.cn/post/7361253974051602441) 
 - [2024-04-24-LLM-安全-|-大语言模型应用安全入门](https://juejin.cn/post/7361253974051602441) 
+- [2024-09-16-Build-responsible-web-experiences-with-generative-AI](https://web.dev/blog/generative-ai-best-practices?hl=en) 
+- [2024-09-10-Chrome-ends-support-for-First-Input-Delay](https://web.dev/blog/fid?hl=en) 
 - [2024-07-31-Interop-2024:-Chrome-at-100%-for-the-accessibility-focus-area](https://web.dev/blog/interop-2024-a11y?hl=en) 
 - [2024-07-01-How-to-use-container-queries-now](https://web.dev/blog/how-to-use-container-queries-now?hl=en) 
 - [2024-07-22-派早报：安全软件缺陷导致全球-Windows-设备故障](https://sspai.com/post/90680) 
@@ -464,6 +467,7 @@
 - [2023-02-09-Development-Experience-with-Nuxt](https://antfu.me/posts/nuxt-dx-2023) 
 - [2022-10-01-Why-I-don't-use-Prettier](https://antfu.me/posts/why-not-prettier) 
 - [2021-07-15-Get-Package-Root](https://antfu.me/posts/get-package-root) 
+- [2024-09-23-How-to-get-started-with-web-development-in-2024?](https://survivejs.com/blog/how-to-get-started-with-web-development-in-2024) 
 - [2024-08-22-Singulatron---AI-On-Premise---Interview-with-Janos-Dobronszki](https://survivejs.com/blog/singulatron-interview) 
 - [2023-07-07-RelativeCI---In-depth-bundle-stats-analysis-and-monitoring---Interview-with-Viorel-Cojocaru](https://survivejs.com/blog/relativeci-interview) 
 - [2023-01-30-Future-Frontend---A-new-conference-to-reimagine-the-future-of-the-frontend---Interview-with-Juho-Vepsäläinen](https://survivejs.com/blog/future-frontend-interview) 

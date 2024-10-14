@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-10 09:33:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-14 09:05:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -403,6 +403,7 @@
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
 - [2020-03-19-2021届前端实习生内推](https://fed.taobao.org/blog/taofed/do71ct/2021-fontend-interpolate) 
+- [2024-10-10-后面试时代与-AI-刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html) 
 - [2018-08-15-面试感悟：当经历所有大厂的实习面试后](http://www.yyyweb.com/5136.html) 
 - [2024-08-27-大厂面试官:如何实现大文件上传](https://juejin.cn/post/7407489781440151615) 
 - [2024-08-27-3个滴滴面试题](https://juejin.cn/post/7407621980574793791) 

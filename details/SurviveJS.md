@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2024-08-27 16:45:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-14 09:05:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## SurviveJS
 
 
 
 
+- [2024-10-11-KaibanJS---Open-source-framework-for-building-multi-agent-AI-systems---Interview-with-Dariel-Vila](https://survivejs.com/blog/kaibanjs-interview) 
+- [2024-09-23-How-to-get-started-with-web-development-in-2024?](https://survivejs.com/blog/how-to-get-started-with-web-development-in-2024) 
 - [2024-08-22-Singulatron---AI-On-Premise---Interview-with-Janos-Dobronszki](https://survivejs.com/blog/singulatron-interview) 
 - [2024-05-31-JavaScript-patterns---Pyramid-of-doom](https://survivejs.com/blog/pyramid-of-doom) 
 - [2024-05-21-SurviveJS---What-did-I-learn-by-rewriting-this-site](https://survivejs.com/blog/survivejs-site-rewrite) 

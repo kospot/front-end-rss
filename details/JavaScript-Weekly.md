@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2024-09-06 09:10:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-14 09:05:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2024-10-10-A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708) 
+- [2024-10-03-Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707) 
+- [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706) 
+- [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705) 
 - [2024-09-05-Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703) 
 - [2024-08-29-JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702) 
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701) 
