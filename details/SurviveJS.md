@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-10-14 09:05:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-24 12:57:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## SurviveJS
 
 
 
 
+- [2024-10-18-state-ref---Easy-to-integrate-state-management-library---Interview-with-Kim-Jinwoo](https://survivejs.com/blog/state-ref-interview) 
 - [2024-10-11-KaibanJS---Open-source-framework-for-building-multi-agent-AI-systems---Interview-with-Dariel-Vila](https://survivejs.com/blog/kaibanjs-interview) 
 - [2024-09-23-How-to-get-started-with-web-development-in-2024?](https://survivejs.com/blog/how-to-get-started-with-web-development-in-2024) 
 - [2024-08-22-Singulatron---AI-On-Premise---Interview-with-Janos-Dobronszki](https://survivejs.com/blog/singulatron-interview) 

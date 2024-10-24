@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-14 09:05:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-24 12:57:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -457,6 +457,7 @@
 - [2019-09-01-IEEE-WIE首次在中国举行领导力峰会，就等你来！](https://posts.careerengine.us/p/5d6b41dd790f085ec56caa01) 
 - [2020-09-25-腾讯发布业内首个AI安全攻击矩阵，最全「排雷图」拿走不谢](https://posts.careerengine.us/p/62cab0de86f8106f0c1c8409) 
 - [2024-07-14-探索LLM安全漏洞新视角：植入后门的RAG会对大模型推理带来哪些风险？](https://posts.careerengine.us/p/6693d712e7f7a74a42320e40) 
+- [2024-10-16-学习与就业的一把钥匙：Macquarie-University的《适应：职业发展》课程介绍与评价](https://www.52nlp.cn/%e5%ad%a6%e4%b9%a0%e4%b8%8e%e5%b0%b1%e4%b8%9a%e7%9a%84%e4%b8%80%e6%8a%8a%e9%92%a5%e5%8c%99%ef%bc%9amacquarie-university%e7%9a%84%e3%80%8a%e9%80%82%e5%ba%94%ef%bc%9a%e8%81%8c%e4%b8%9a%e5%8f%91%e5%b1%95) 
 - [2024-07-16-OpenAI-被曝非法阻止员工披露-AI-安全风险](https://posts.careerengine.us/p/66960659764e176a98eaee10) 
 - [2023-07-30-开发一个浏览器插件在第三天卖出-1000-元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/) 
 - [2021-06-16-Xbox-Series-S-一个月使用感受](https://lutaonan.com/blog/xbox-series-s/) 
@@ -467,6 +468,7 @@
 - [2023-02-09-Development-Experience-with-Nuxt](https://antfu.me/posts/nuxt-dx-2023) 
 - [2022-10-01-Why-I-don't-use-Prettier](https://antfu.me/posts/why-not-prettier) 
 - [2021-07-15-Get-Package-Root](https://antfu.me/posts/get-package-root) 
+- [2024-10-18-state-ref---Easy-to-integrate-state-management-library---Interview-with-Kim-Jinwoo](https://survivejs.com/blog/state-ref-interview) 
 - [2024-09-23-How-to-get-started-with-web-development-in-2024?](https://survivejs.com/blog/how-to-get-started-with-web-development-in-2024) 
 - [2024-08-22-Singulatron---AI-On-Premise---Interview-with-Janos-Dobronszki](https://survivejs.com/blog/singulatron-interview) 
 - [2023-07-07-RelativeCI---In-depth-bundle-stats-analysis-and-monitoring---Interview-with-Viorel-Cojocaru](https://survivejs.com/blog/relativeci-interview) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-14 09:05:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-24 12:57:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -462,6 +462,7 @@
 - [2024-07-15-读懂-Diff-算法竟然如此简单！](https://juejin.cn/post/7391703459803201536) 
 - [2024-07-11-webgpu实现画板](https://juejin.cn/post/7390339205974540307) 
 - [2024-07-05-微前端---qiankun-入门到实践——第三节：Qiankun简介](https://juejin.cn/post/7387963168838598666) 
+- [2024-10-18-大前端：如何突破动态化容器的天花板？](https://tech.meituan.com/2024/10/18/recce-in-meituan.html) 
 - [2024-04-11-美团外卖基于GPU的向量检索系统实践](https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html) 
 - [2024-08-21-派早报：网页版-Apple-Podcasts-上线、树莓派-5-推出-2GB-版本等](https://sspai.com/post/91658) 
 - [2024-07-05-「临门一脚」助你入门-Vim：Kickstart-配置笔记](https://sspai.com/post/90115) 

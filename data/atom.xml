@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-10-14T01:05:56.837Z</updated>
+    <updated>2024-10-24T04:57:38.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,90 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[用飞书多维表格和扫码枪，快速构建个人图书管理系统]]></title>
+        <id>https://sspai.com/post/93065</id>
+        <link href="https://sspai.com/post/93065"/>
+        <updated>2024-10-23T16:00:00.000Z</updated>
+        <published>2024-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个比 tmux 更友好的终端复用工具：Zellij 简介及使用技巧]]></title>
+        <id>https://sspai.com/prime/story/get-started-with-zellij</id>
+        <link href="https://sspai.com/prime/story/get-started-with-zellij"/>
+        <updated>2024-10-22T16:00:00.000Z</updated>
+        <published>2024-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给本地设备加一层保险：我的低功率 UPS 不间断电源构建思路]]></title>
+        <id>https://sspai.com/post/90258</id>
+        <link href="https://sspai.com/post/90258"/>
+        <updated>2024-10-22T16:00:00.000Z</updated>
+        <published>2024-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 065 | 你没见过的社区文章、一周最热评、派友的音频听文]]></title>
+        <id>https://sspai.com/post/93114</id>
+        <link href="https://sspai.com/post/93114"/>
+        <updated>2024-10-21T16:00:00.000Z</updated>
+        <published>2024-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node v23, and a proper hello to Express v5]]></title>
+        <id>https://nodeweekly.com/issues/552</id>
+        <link href="https://nodeweekly.com/issues/552"/>
+        <updated>2024-10-21T16:00:00.000Z</updated>
+        <published>2024-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[state-ref - Easy to integrate state management library - Interview with Kim Jinwoo]]></title>
+        <id>https://survivejs.com/blog/state-ref-interview</id>
+        <link href="https://survivejs.com/blog/state-ref-interview"/>
+        <updated>2024-10-17T16:00:00.000Z</updated>
+        <published>2024-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大前端：如何突破动态化容器的天花板？]]></title>
+        <id>https://tech.meituan.com/2024/10/18/recce-in-meituan.html</id>
+        <link href="https://tech.meituan.com/2024/10/18/recce-in-meituan.html"/>
+        <updated>2024-10-17T16:00:00.000Z</updated>
+        <published>2024-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS0 + JSSugar not so sweet?]]></title>
+        <id>https://javascriptweekly.com/issues/709</id>
+        <link href="https://javascriptweekly.com/issues/709"/>
+        <updated>2024-10-16T16:00:00.000Z</updated>
+        <published>2024-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索3D打印与增材制造课程：转变创意为现实的艺术之旅]]></title>
+        <id>https://www.52nlp.cn/%e6%8e%a2%e7%b4%a23d%e6%89%93%e5%8d%b0%e4%b8%8e%e5%a2%9e%e6%9d%90%e5%88%b6%e9%80%a0%e8%af%be%e7%a8%8b%ef%bc%9a%e8%bd%ac%e5%8f%98%e5%88%9b%e6%84%8f%e4%b8%ba%e7%8e%b0%e5%ae%9e%e7%9a%84%e8%89%ba%e6%9c%af</id>
+        <link href="https://www.52nlp.cn/%e6%8e%a2%e7%b4%a23d%e6%89%93%e5%8d%b0%e4%b8%8e%e5%a2%9e%e6%9d%90%e5%88%b6%e9%80%a0%e8%af%be%e7%a8%8b%ef%bc%9a%e8%bd%ac%e5%8f%98%e5%88%9b%e6%84%8f%e4%b8%ba%e7%8e%b0%e5%ae%9e%e7%9a%84%e8%89%ba%e6%9c%af"/>
+        <updated>2024-10-15T16:00:00.000Z</updated>
+        <published>2024-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习3D打印的未来：阿纳မ္萨州立大学的增材制造课程推荐]]></title>
+        <id>https://www.52nlp.cn/%e5%ad%a6%e4%b9%a03d%e6%89%93%e5%8d%b0%e7%9a%84%e6%9c%aa%e6%9d%a5%ef%bc%9a%e9%98%bf%e7%ba%b3%e1%80%99%e1%80%b9%e8%90%a8%e5%b7%9e%e7%ab%8b%e5%a4%a7%e5%ad%a6%e7%9a%84%e5%a2%9e%e6%9d%90%e5%88%b6%e9%80%a0</id>
+        <link href="https://www.52nlp.cn/%e5%ad%a6%e4%b9%a03d%e6%89%93%e5%8d%b0%e7%9a%84%e6%9c%aa%e6%9d%a5%ef%bc%9a%e9%98%bf%e7%ba%b3%e1%80%99%e1%80%b9%e8%90%a8%e5%b7%9e%e7%ab%8b%e5%a4%a7%e5%ad%a6%e7%9a%84%e5%a2%9e%e6%9d%90%e5%88%b6%e9%80%a0"/>
+        <updated>2024-10-15T16:00:00.000Z</updated>
+        <published>2024-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习与就业的一把钥匙：Macquarie University的《适应：职业发展》课程介绍与评价]]></title>
+        <id>https://www.52nlp.cn/%e5%ad%a6%e4%b9%a0%e4%b8%8e%e5%b0%b1%e4%b8%9a%e7%9a%84%e4%b8%80%e6%8a%8a%e9%92%a5%e5%8c%99%ef%bc%9amacquarie-university%e7%9a%84%e3%80%8a%e9%80%82%e5%ba%94%ef%bc%9a%e8%81%8c%e4%b8%9a%e5%8f%91%e5%b1%95</id>
+        <link href="https://www.52nlp.cn/%e5%ad%a6%e4%b9%a0%e4%b8%8e%e5%b0%b1%e4%b8%9a%e7%9a%84%e4%b8%80%e6%8a%8a%e9%92%a5%e5%8c%99%ef%bc%9amacquarie-university%e7%9a%84%e3%80%8a%e9%80%82%e5%ba%94%ef%bc%9a%e8%81%8c%e4%b8%9a%e5%8f%91%e5%b1%95"/>
+        <updated>2024-10-15T16:00:00.000Z</updated>
+        <published>2024-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jod only knows what Node v22 LTS will be called]]></title>
+        <id>https://nodeweekly.com/issues/551</id>
+        <link href="https://nodeweekly.com/issues/551"/>
+        <updated>2024-10-14T16:00:00.000Z</updated>
+        <published>2024-10-14T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KaibanJS - Open-source framework for building multi-agent AI systems - Interview with Dariel Vila]]></title>
         <id>https://survivejs.com/blog/kaibanjs-interview</id>
@@ -279,89 +363,5 @@
         <link href="https://github.com/guanguans/favorite-link/commit/535edf03c84e2b4aaff09ea880824d2652d669fd"/>
         <updated>2024-09-08T16:00:00.000Z</updated>
         <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[abublihi/laravel-external-jwt-guard: 这是一个 laravel 自定义 auth guard，用于使用外部 JWT 对用户进行身份验证]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/43295b6f6f19ed2d6f9baefef0e580c20529dfc8</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/43295b6f6f19ed2d6f9baefef0e580c20529dfc8"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gwleuverink/asset-injector: 将 JS 和 CSS 自动插入网页响应，从而简化 Laravel 软件包开发。让用户无需手动添加资产]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/3d4c5f0d2dab159ef5fd42f3b7efdcd4f4dfae83</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/3d4c5f0d2dab159ef5fd42f3b7efdcd4f4dfae83"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搞懂SVG中各种Light相关的光源滤镜]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《黑神话：悟空》欢乐圆桌：聊聊游戏内外的趣事儿]]></title>
-        <id>https://sspai.com/post/92084</id>
-        <link href="https://sspai.com/post/92084"/>
-        <updated>2024-09-06T16:00:00.000Z</updated>
-        <published>2024-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一性原理思考：解决问题的通用框架]]></title>
-        <id>https://blog.devtang.com/2024/09/06/problem-solving-structure/</id>
-        <link href="https://blog.devtang.com/2024/09/06/problem-solving-structure/"/>
-        <updated>2024-09-05T16:00:00.000Z</updated>
-        <published>2024-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoogleChrome/chrome-extensions-samples]]></title>
-        <id>https://github.com/GoogleChrome/chrome-extensions-samples</id>
-        <link href="https://github.com/GoogleChrome/chrome-extensions-samples"/>
-        <updated>2024-09-05T16:00:00.000Z</updated>
-        <published>2024-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[highlightjs/highlight.js]]></title>
-        <id>https://github.com/highlightjs/highlight.js</id>
-        <link href="https://github.com/highlightjs/highlight.js"/>
-        <updated>2024-09-05T16:00:00.000Z</updated>
-        <published>2024-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[h5bp/html5-boilerplate]]></title>
-        <id>https://github.com/h5bp/html5-boilerplate</id>
-        <link href="https://github.com/h5bp/html5-boilerplate"/>
-        <updated>2024-09-05T16:00:00.000Z</updated>
-        <published>2024-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sudheerj/reactjs-interview-questions]]></title>
-        <id>https://github.com/sudheerj/reactjs-interview-questions</id>
-        <link href="https://github.com/sudheerj/reactjs-interview-questions"/>
-        <updated>2024-09-05T16:00:00.000Z</updated>
-        <published>2024-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asabeneh/30-Days-Of-React]]></title>
-        <id>https://github.com/Asabeneh/30-Days-Of-React</id>
-        <link href="https://github.com/Asabeneh/30-Days-Of-React"/>
-        <updated>2024-09-05T16:00:00.000Z</updated>
-        <published>2024-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[brix/crypto-js]]></title>
-        <id>https://github.com/brix/crypto-js</id>
-        <link href="https://github.com/brix/crypto-js"/>
-        <updated>2024-09-05T16:00:00.000Z</updated>
-        <published>2024-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[actualbudget/actual-server]]></title>
-        <id>https://github.com/actualbudget/actual-server</id>
-        <link href="https://github.com/actualbudget/actual-server"/>
-        <updated>2024-09-05T16:00:00.000Z</updated>
-        <published>2024-09-05T16:00:00.000Z</published>
     </entry>
 </feed>

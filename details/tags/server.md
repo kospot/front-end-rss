@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-14 09:05:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-24 12:57:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -131,6 +131,7 @@
 - [2024-07-10-loong/go-concurrency-exercises:-loong/go-concurrency-exercises:-Golang-并发模式练习。](https://github.com/guanguans/favorite-link/commit/3a0f299f4a28b121ec2f4013c659478ed860ee13) 
 - [2024-07-08-ytake/phluxor:-PHP-中灵活的参与者模型工具包，增强-PHP-生态系统的能力](https://github.com/guanguans/favorite-link/commit/07e48ed13f2c8d4be4851f896d395be35899c8a4) 
 - [2024-08-05-nginx的安装与启动](https://juejin.cn/post/7399496845276004362) 
+- [2024-10-23-一个比-tmux-更友好的终端复用工具：Zellij-简介及使用技巧](https://sspai.com/prime/story/get-started-with-zellij) 
 - [2024-07-23-一日一技-|-使用-Docker-为-iCloud-照片生成本地备份](https://sspai.com/post/90641) 
 - [2024-07-05-大模型时代数据库技术创新](https://posts.careerengine.us/p/668792e80f1ebd2391b54333) 
 - [2020-02-28-Hydrating-text-content-from-Server-Side-Rendering](https://lihautan.com/hydrating-text-content/) 
