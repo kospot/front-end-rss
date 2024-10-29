@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-10-24T04:57:38.949Z</updated>
+    <updated>2024-10-29T05:33:14.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,39 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[派早报：Arc 开发商宣布转向新浏览器]]></title>
+        <id>https://sspai.com/post/93325</id>
+        <link href="https://sspai.com/post/93325"/>
+        <updated>2024-10-27T16:00:00.000Z</updated>
+        <published>2024-10-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[用飞书多维表格和扫码枪，快速构建个人图书管理系统]]></title>
         <id>https://sspai.com/post/93065</id>
         <link href="https://sspai.com/post/93065"/>
         <updated>2024-10-23T16:00:00.000Z</updated>
         <published>2024-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Object.is/===、数组at/直接索引、substring/slice的区别]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/"/>
+        <updated>2024-10-23T16:00:00.000Z</updated>
+        <published>2024-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A huge week for both Svelte and Next.js]]></title>
+        <id>https://javascriptweekly.com/issues/710</id>
+        <link href="https://javascriptweekly.com/issues/710"/>
+        <updated>2024-10-23T16:00:00.000Z</updated>
+        <published>2024-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给本地设备加一层保险：我的低功率 UPS 不间断电源构建思路]]></title>
+        <id>https://sspai.com/post/90258</id>
+        <link href="https://sspai.com/post/90258"/>
+        <updated>2024-10-22T16:00:00.000Z</updated>
+        <published>2024-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[一个比 tmux 更友好的终端复用工具：Zellij 简介及使用技巧]]></title>
@@ -29,9 +57,9 @@
         <published>2024-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[给本地设备加一层保险：我的低功率 UPS 不间断电源构建思路]]></title>
-        <id>https://sspai.com/post/90258</id>
-        <link href="https://sspai.com/post/90258"/>
+        <title type="html"><![CDATA[Show Baseline status on your blog posts and presentations]]></title>
+        <id>https://web.dev/blog/show-baseline-status?hl=en</id>
+        <link href="https://web.dev/blog/show-baseline-status?hl=en"/>
         <updated>2024-10-22T16:00:00.000Z</updated>
         <published>2024-10-22T16:00:00.000Z</published>
     </entry>
@@ -211,6 +239,111 @@
         <published>2024-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[茶思屋直播|TinyEngine+AI：聚焦主航道，在实践中探索低代码技术黑土地]]></title>
+        <id>https://juejin.cn/post/7415659129041141760</id>
+        <link href="https://juejin.cn/post/7415659129041141760"/>
+        <updated>2024-09-17T16:00:00.000Z</updated>
+        <published>2024-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浏览器的渲染过程，所有面试官想知道的]]></title>
+        <id>https://juejin.cn/post/7415656200463892507</id>
+        <link href="https://juejin.cn/post/7415656200463892507"/>
+        <updated>2024-09-17T16:00:00.000Z</updated>
+        <published>2024-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14.JS高级-对象方法的补充以及创建对象方案]]></title>
+        <id>https://juejin.cn/post/7415651555112747008</id>
+        <link href="https://juejin.cn/post/7415651555112747008"/>
+        <updated>2024-09-17T16:00:00.000Z</updated>
+        <published>2024-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[js 动态获取元素宽高的几种方式]]></title>
+        <id>https://juejin.cn/post/7415776780047007753</id>
+        <link href="https://juejin.cn/post/7415776780047007753"/>
+        <updated>2024-09-17T16:00:00.000Z</updated>
+        <published>2024-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript技术系列6：接口类型(interface)和类型别名(type)]]></title>
+        <id>https://juejin.cn/post/7415661235440304182</id>
+        <link href="https://juejin.cn/post/7415661235440304182"/>
+        <updated>2024-09-17T16:00:00.000Z</updated>
+        <published>2024-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云开发让 Unity 微信小游戏实时聊起来]]></title>
+        <id>https://juejin.cn/post/7415659766552920098</id>
+        <link href="https://juejin.cn/post/7415659766552920098"/>
+        <updated>2024-09-17T16:00:00.000Z</updated>
+        <published>2024-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canvas简历编辑器-选中绘制与拖拽多选交互方案]]></title>
+        <id>https://juejin.cn/post/7415654362972585984</id>
+        <link href="https://juejin.cn/post/7415654362972585984"/>
+        <updated>2024-09-17T16:00:00.000Z</updated>
+        <published>2024-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史无前例，移植V8虚拟机到纯血鸿蒙系统]]></title>
+        <id>https://juejin.cn/post/7415751335490502694</id>
+        <link href="https://juejin.cn/post/7415751335490502694"/>
+        <updated>2024-09-17T16:00:00.000Z</updated>
+        <published>2024-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[05. 如何从零开始封装 Axios 请求]]></title>
+        <id>https://juejin.cn/post/7414733004885704739</id>
+        <link href="https://juejin.cn/post/7414733004885704739"/>
+        <updated>2024-09-16T16:00:00.000Z</updated>
+        <published>2024-09-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何实现 github 代码比对效果？]]></title>
+        <id>https://juejin.cn/post/7414702307810263091</id>
+        <link href="https://juejin.cn/post/7414702307810263091"/>
+        <updated>2024-09-16T16:00:00.000Z</updated>
+        <published>2024-09-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue.js 3.5 新特性详解]]></title>
+        <id>https://juejin.cn/post/7414732910241742883</id>
+        <link href="https://juejin.cn/post/7414732910241742883"/>
+        <updated>2024-09-16T16:00:00.000Z</updated>
+        <published>2024-09-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零构建 Vue 3 递归树形组件：功能实现与核心要点详解]]></title>
+        <id>https://juejin.cn/post/7414733004885311523</id>
+        <link href="https://juejin.cn/post/7414733004885311523"/>
+        <updated>2024-09-16T16:00:00.000Z</updated>
+        <published>2024-09-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go：开源命令行词典工具 - `dictcli` 推荐]]></title>
+        <id>https://juejin.cn/post/7414732719040233472</id>
+        <link href="https://juejin.cn/post/7414732719040233472"/>
+        <updated>2024-09-16T16:00:00.000Z</updated>
+        <published>2024-09-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可视化编辑器(postman预请求脚本)]]></title>
+        <id>https://juejin.cn/post/7414733004885049379</id>
+        <link href="https://juejin.cn/post/7414733004885049379"/>
+        <updated>2024-09-16T16:00:00.000Z</updated>
+        <published>2024-09-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于tauri2.0+vite5+vue3封装多窗口|tauri2自定义托盘消息提醒|闪烁|右键菜单]]></title>
+        <id>https://juejin.cn/post/7414732978142068751</id>
+        <link href="https://juejin.cn/post/7414732978142068751"/>
+        <updated>2024-09-16T16:00:00.000Z</updated>
+        <published>2024-09-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tough cookies]]></title>
         <id>https://nodeweekly.com/issues/548</id>
         <link href="https://nodeweekly.com/issues/548"/>
@@ -230,138 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2024/09/css-align-content/"/>
         <updated>2024-09-12T16:00:00.000Z</updated>
         <published>2024-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来了来了，scrollend滚动停止事件也支持了]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/"/>
-        <updated>2024-09-10T16:00:00.000Z</updated>
-        <published>2024-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[anuraghazra/github-readme-stats]]></title>
-        <id>https://github.com/anuraghazra/github-readme-stats</id>
-        <link href="https://github.com/anuraghazra/github-readme-stats"/>
-        <updated>2024-09-09T16:00:00.000Z</updated>
-        <published>2024-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask/eth-phishing-detect]]></title>
-        <id>https://github.com/MetaMask/eth-phishing-detect</id>
-        <link href="https://github.com/MetaMask/eth-phishing-detect"/>
-        <updated>2024-09-09T16:00:00.000Z</updated>
-        <published>2024-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing TypeScript 5.6]]></title>
-        <id>https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/</id>
-        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/"/>
-        <updated>2024-09-09T16:00:00.000Z</updated>
-        <published>2024-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome ends support for First Input Delay]]></title>
-        <id>https://web.dev/blog/fid?hl=en</id>
-        <link href="https://web.dev/blog/fid?hl=en"/>
-        <updated>2024-09-09T16:00:00.000Z</updated>
-        <published>2024-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Express.js 5.0]]></title>
-        <id>https://nodeweekly.com/issues/547</id>
-        <link href="https://nodeweekly.com/issues/547"/>
-        <updated>2024-09-09T16:00:00.000Z</updated>
-        <published>2024-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 与设计模式概述]]></title>
-        <id>https://juejin.cn/post/7412489953987346482</id>
-        <link href="https://juejin.cn/post/7412489953987346482"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虚拟dom转成真实dom]]></title>
-        <id>https://juejin.cn/post/7412489953987313714</id>
-        <link href="https://juejin.cn/post/7412489953987313714"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手把手带你学会前端优化神器《Grafana》视频+图文教程]]></title>
-        <id>https://juejin.cn/post/7412486021172297739</id>
-        <link href="https://juejin.cn/post/7412486021172297739"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纯CSS实现海浪文字效果]]></title>
-        <id>https://juejin.cn/post/7412490116793909286</id>
-        <link href="https://juejin.cn/post/7412490116793909286"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript中使用枚举 (注意:你可能用的一直不对)]]></title>
-        <id>https://juejin.cn/post/7412489953986854962</id>
-        <link href="https://juejin.cn/post/7412489953986854962"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tw_logger 支持缓存 db 的日志组件（network、crash、regular）]]></title>
-        <id>https://juejin.cn/post/7412486021139890217</id>
-        <link href="https://juejin.cn/post/7412486021139890217"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[audio自动播放为什么会失败]]></title>
-        <id>https://juejin.cn/post/7412505754383007744</id>
-        <link href="https://juejin.cn/post/7412505754383007744"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图像色值处理工具]]></title>
-        <id>https://juejin.cn/post/7412486021139791913</id>
-        <link href="https://juejin.cn/post/7412486021139791913"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vite+vue3+ts后台项目搭建全过程]]></title>
-        <id>https://juejin.cn/post/7412506389333999670</id>
-        <link href="https://juejin.cn/post/7412506389333999670"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从零开始使用React Native + Expo + Native Base搭建App]]></title>
-        <id>https://juejin.cn/post/7412504006336331791</id>
-        <link href="https://juejin.cn/post/7412504006336331791"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[组件的样式变化&可控/不可控组件]]></title>
-        <id>https://juejin.cn/post/7412506389333917750</id>
-        <link href="https://juejin.cn/post/7412506389333917750"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React一学就会（9）路由 Router 下]]></title>
-        <id>https://juejin.cn/post/7412506389333671990</id>
-        <link href="https://juejin.cn/post/7412506389333671990"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[scrivo/highlight.php: 将 highlight.js 移植到 PHP]]></title>
-        <id>https://github.com/guanguans/favorite-link/commit/535edf03c84e2b4aaff09ea880824d2652d669fd</id>
-        <link href="https://github.com/guanguans/favorite-link/commit/535edf03c84e2b4aaff09ea880824d2652d669fd"/>
-        <updated>2024-09-08T16:00:00.000Z</updated>
-        <published>2024-09-08T16:00:00.000Z</published>
     </entry>
 </feed>

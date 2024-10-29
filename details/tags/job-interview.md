@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-24 12:57:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-29 13:33:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -405,11 +405,11 @@
 - [2020-03-19-2021届前端实习生内推](https://fed.taobao.org/blog/taofed/do71ct/2021-fontend-interpolate) 
 - [2024-10-10-后面试时代与-AI-刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html) 
 - [2018-08-15-面试感悟：当经历所有大厂的实习面试后](http://www.yyyweb.com/5136.html) 
-- [2024-08-27-大厂面试官:如何实现大文件上传](https://juejin.cn/post/7407489781440151615) 
 - [2024-08-27-3个滴滴面试题](https://juejin.cn/post/7407621980574793791) 
+- [2024-08-27-大厂面试官:如何实现大文件上传](https://juejin.cn/post/7407489781440151615) 
 - [2024-08-06-因为不会手写nextTick又被面试官diss了](https://juejin.cn/post/7399530640860643380) 
-- [2024-08-01-什么？面试时手写一个计算器？看完这篇文章让你也可以实现](https://juejin.cn/post/7398044739893362725) 
 - [2024-08-01-面试官：设计一个程序，模拟红绿灯切换](https://juejin.cn/post/7398045554921750540) 
+- [2024-08-01-什么？面试时手写一个计算器？看完这篇文章让你也可以实现](https://juejin.cn/post/7398044739893362725) 
 - [2024-07-09-当面试官问我-let、const、var-的区别,竟然直接让我回家?](https://juejin.cn/post/7389579792510992447) 
 - [2024-07-17-一句话应付面试！2024年大模型微调对齐面试指南](https://posts.careerengine.us/p/669752d27a31a517dfff6097) 
 - [2024-07-15-上海内推-|-​​上海人工智能实验室招聘群体智能方向研究型实习生](https://posts.careerengine.us/p/6694baf11ad7a5629439563c) 
