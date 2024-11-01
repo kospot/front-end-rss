@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-29 13:33:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-02 05:47:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -451,6 +451,7 @@
 - [2024-09-10-Chrome-ends-support-for-First-Input-Delay](https://web.dev/blog/fid?hl=en) 
 - [2024-07-31-Interop-2024:-Chrome-at-100%-for-the-accessibility-focus-area](https://web.dev/blog/interop-2024-a11y?hl=en) 
 - [2024-07-01-How-to-use-container-queries-now](https://web.dev/blog/how-to-use-container-queries-now?hl=en) 
+- [2024-11-01-派早报：任天堂推出-Nintendo-Music-应用、知名浏览器省内存模式更新等](https://sspai.com/post/93482) 
 - [2024-10-28-派早报：Arc-开发商宣布转向新浏览器](https://sspai.com/post/93325) 
 - [2024-07-22-派早报：安全软件缺陷导致全球-Windows-设备故障](https://sspai.com/post/90680) 
 - [2024-07-05-具透-Plus-|-企图变聪明的-Chrome-与小广告止不住的-Windows](https://sspai.com/prime/story/inside-release-notes-240705) 

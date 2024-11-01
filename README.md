@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-10-29 13:33:12，:rocket: 更新条数: +41， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-02 05:47:29，:rocket: 更新条数: +18， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -25,11 +25,11 @@
 - [前端里](#前端里)  
 - [favorite-link](#favorite-link)  
 - [酷-壳-–-CoolShell](#酷-壳-–-coolshell)  
-- [掘金前端](#掘金前端)![](/assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [掘金字节前端](#掘金字节前端)  
 - [掘金飞猪前端](#掘金飞猪前端)  
 - [美团技术团队](#美团技术团队)  
-- [web.dev](#web.dev)![](/assets/dot.png)   
+- [web.dev](#web.dev)  
 - [少数派](#少数派)![](/assets/dot.png)   
 - [洞见](#洞见)![](/assets/dot.png)   
 - [机器之心](#机器之心)  
@@ -60,7 +60,7 @@
 - [Phodal---手工艺人](#phodal---手工艺人)  
 - [Trending-JavaScript-repositories](#trending-javascript-repositories)  
 - [阿里-CCO-体验技术专刊](#阿里-cco-体验技术专刊)  
-- [唐巧的技术博客](#唐巧的技术博客)![](/assets/dot.png)   
+- [唐巧的技术博客](#唐巧的技术博客)  
 - [2ality](#2ality)  
 - [前端外刊评论](#前端外刊评论)  
 - [InfoQ](#infoq)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-10-29-Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553) ![](/assets/new.png)  
 - [2024-10-22-Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)  
 - [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)  
 - [2024-10-01-All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)  
@@ -93,7 +94,6 @@
 - [2024-06-18-A-snapshot-of-what's-new-in-Node](https://nodeweekly.com/issues/536)  
 - [2024-06-11-Leaky-timeouts](https://nodeweekly.com/issues/535)  
 - [2024-06-04-The-newest-Node.js-runtime-features](https://nodeweekly.com/issues/534)  
-- [2024-05-21-The-Node.js-Advocacy-Ambassador-program?](https://nodeweekly.com/issues/533)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -105,7 +105,8 @@
 </summary>
 
 
-- [2024-10-24-A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710) ![](/assets/new.png)  
+- [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711) ![](/assets/new.png)  
+- [2024-10-24-A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)  
 - [2024-10-17-JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)  
 - [2024-10-10-A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)  
 - [2024-10-03-Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707)  
@@ -124,7 +125,6 @@
 - [2024-06-20-The-results-are-in](https://javascriptweekly.com/issues/693)  
 - [2024-06-13-The-biggest-TypeScript-release-in-years?](https://javascriptweekly.com/issues/692)  
 - [2024-06-06-The-appealing-simplicity-of-htmx](https://javascriptweekly.com/issues/691)  
-- [2024-05-30-A-variety-of-JS-hacks-and-creative-coding](https://javascriptweekly.com/issues/690)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -260,7 +260,8 @@
 </summary>
 
 
-- [2024-10-24-Object.is/===、数组at/直接索引、substring/slice的区别](https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/) ![](/assets/new.png)  
+- [2024-10-31-Pixi.js中ColorMatrixFilter自带滤镜效果一览](https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/) ![](/assets/new.png)  
+- [2024-10-24-Object.is/===、数组at/直接索引、substring/slice的区别](https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/)  
 - [2024-10-10-Nice!-Safari也支持CSS-@perporty规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/)  
 - [2024-09-26-时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/)  
 - [2024-09-19-实用的JS对象分组静态方法Object.groupBy](https://www.zhangxinxu.com/wordpress/2024/09/js-object-groupby/)  
@@ -279,7 +280,6 @@
 - [2024-06-11-聊聊Top-Layer顶层特性的隐患与实践](https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/)  
 - [2024-05-30-记一次技术交流，-feMerge滤镜复制任意HTML投影](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/)  
 - [2024-05-20-如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/)  
-- [2024-05-12-不使用font-weight等CSS实现文字变瘦或变胖效果](https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -291,7 +291,9 @@
 </summary>
 
 
-- [2024-10-25-科技爱好者周刊（第-322-期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html) ![](/assets/new.png)  
+- [2024-11-01-科技爱好者周刊（第-323-期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html) ![](/assets/new.png)  
+- [2024-10-31-AI-开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html) ![](/assets/new.png)  
+- [2024-10-25-科技爱好者周刊（第-322-期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html)  
 - [2024-10-18-科技爱好者周刊（第-321-期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html)  
 - [2024-10-11-科技爱好者周刊（第-320-期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html)  
 - [2024-10-10-后面试时代与-AI-刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html)  
@@ -309,8 +311,6 @@
 - [2024-07-03-AI-编程助手测评：GitHub-Copilot-vs-豆包-MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html)  
 - [2024-06-28-科技爱好者周刊（第-306-期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html)  
 - [2024-06-21-科技爱好者周刊（第-305-期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html)  
-- [2024-06-14-科技爱好者周刊（第-304-期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html)  
-- [2024-06-07-科技爱好者周刊（第-303-期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -410,26 +410,26 @@
 </summary>
 
 
-- [2024-09-18-史无前例，移植V8虚拟机到纯血鸿蒙系统](https://juejin.cn/post/7415751335490502694) ![](/assets/new.png)  
-- [2024-09-18-Canvas简历编辑器-选中绘制与拖拽多选交互方案](https://juejin.cn/post/7415654362972585984) ![](/assets/new.png)  
-- [2024-09-18-云开发让-Unity-微信小游戏实时聊起来](https://juejin.cn/post/7415659766552920098) ![](/assets/new.png)  
-- [2024-09-18-快速打造动态网站首页：免费-API-集成指南](https://juejin.cn/post/7415751335490781222) ![](/assets/new.png)  
-- [2024-09-18-TypeScript技术系列6：接口类型interface和类型别名type](https://juejin.cn/post/7415661235440304182) ![](/assets/new.png)  
-- [2024-09-18-校招：百度一面](https://juejin.cn/post/7415725134596587532) ![](/assets/new.png)  
-- [2024-09-18-js-动态获取元素宽高的几种方式](https://juejin.cn/post/7415776780047007753) ![](/assets/new.png)  
-- [2024-09-18-JDR-DESIGN-开发小结](https://juejin.cn/post/7415672130191261696) ![](/assets/new.png)  
-- [2024-09-18-14.JS高级-对象方法的补充以及创建对象方案](https://juejin.cn/post/7415651555112747008) ![](/assets/new.png)  
-- [2024-09-18-浏览器的渲染过程，所有面试官想知道的](https://juejin.cn/post/7415656200463892507) ![](/assets/new.png)  
-- [2024-09-18-茶思屋直播|TinyEngine+AI：聚焦主航道，在实践中探索低代码技术黑土地](https://juejin.cn/post/7415659129041141760) ![](/assets/new.png)  
-- [2024-09-17-基于tauri2.0+vite5+vue3封装多窗口|tauri2自定义托盘消息提醒|闪烁|右键菜单](https://juejin.cn/post/7414732978142068751) ![](/assets/new.png)  
-- [2024-09-17-可视化编辑器postman预请求脚本](https://juejin.cn/post/7414733004885049379) ![](/assets/new.png)  
-- [2024-09-17-🚀纯前端也可以实现文字语音互转🚀](https://juejin.cn/post/7414732910241218595) ![](/assets/new.png)  
-- [2024-09-17-Go：开源命令行词典工具---`dictcli`-推荐](https://juejin.cn/post/7414732719040233472) ![](/assets/new.png)  
-- [2024-09-17-纯前端实现史上最简洁的网站实时在线人数统计！仅需一行代码让你的网站显示实时在线人数](https://juejin.cn/post/7414507149928448009) ![](/assets/new.png)  
-- [2024-09-17-从零构建-Vue-3-递归树形组件：功能实现与核心要点详解](https://juejin.cn/post/7414733004885311523) ![](/assets/new.png)  
-- [2024-09-17-Vue.js-3.5-新特性详解](https://juejin.cn/post/7414732910241742883) ![](/assets/new.png)  
-- [2024-09-17-如何实现-github-代码比对效果？](https://juejin.cn/post/7414702307810263091) ![](/assets/new.png)  
-- [2024-09-17-05.-如何从零开始封装-Axios-请求](https://juejin.cn/post/7414733004885704739) ![](/assets/new.png)  
+- [2024-09-18-史无前例，移植V8虚拟机到纯血鸿蒙系统](https://juejin.cn/post/7415751335490502694)  
+- [2024-09-18-Canvas简历编辑器-选中绘制与拖拽多选交互方案](https://juejin.cn/post/7415654362972585984)  
+- [2024-09-18-云开发让-Unity-微信小游戏实时聊起来](https://juejin.cn/post/7415659766552920098)  
+- [2024-09-18-快速打造动态网站首页：免费-API-集成指南](https://juejin.cn/post/7415751335490781222)  
+- [2024-09-18-TypeScript技术系列6：接口类型interface和类型别名type](https://juejin.cn/post/7415661235440304182)  
+- [2024-09-18-校招：百度一面](https://juejin.cn/post/7415725134596587532)  
+- [2024-09-18-js-动态获取元素宽高的几种方式](https://juejin.cn/post/7415776780047007753)  
+- [2024-09-18-JDR-DESIGN-开发小结](https://juejin.cn/post/7415672130191261696)  
+- [2024-09-18-14.JS高级-对象方法的补充以及创建对象方案](https://juejin.cn/post/7415651555112747008)  
+- [2024-09-18-浏览器的渲染过程，所有面试官想知道的](https://juejin.cn/post/7415656200463892507)  
+- [2024-09-18-茶思屋直播|TinyEngine+AI：聚焦主航道，在实践中探索低代码技术黑土地](https://juejin.cn/post/7415659129041141760)  
+- [2024-09-17-基于tauri2.0+vite5+vue3封装多窗口|tauri2自定义托盘消息提醒|闪烁|右键菜单](https://juejin.cn/post/7414732978142068751)  
+- [2024-09-17-可视化编辑器postman预请求脚本](https://juejin.cn/post/7414733004885049379)  
+- [2024-09-17-🚀纯前端也可以实现文字语音互转🚀](https://juejin.cn/post/7414732910241218595)  
+- [2024-09-17-Go：开源命令行词典工具---`dictcli`-推荐](https://juejin.cn/post/7414732719040233472)  
+- [2024-09-17-纯前端实现史上最简洁的网站实时在线人数统计！仅需一行代码让你的网站显示实时在线人数](https://juejin.cn/post/7414507149928448009)  
+- [2024-09-17-从零构建-Vue-3-递归树形组件：功能实现与核心要点详解](https://juejin.cn/post/7414733004885311523)  
+- [2024-09-17-Vue.js-3.5-新特性详解](https://juejin.cn/post/7414732910241742883)  
+- [2024-09-17-如何实现-github-代码比对效果？](https://juejin.cn/post/7414702307810263091)  
+- [2024-09-17-05.-如何从零开始封装-Axios-请求](https://juejin.cn/post/7414733004885704739)  
 - [......【查看更多】......](/details/掘金前端.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -532,7 +532,7 @@
 </summary>
 
 
-- [2024-10-23-Show-Baseline-status-on-your-blog-posts-and-presentations](https://web.dev/blog/show-baseline-status?hl=en) ![](/assets/new.png)  
+- [2024-10-23-Show-Baseline-status-on-your-blog-posts-and-presentations](https://web.dev/blog/show-baseline-status?hl=en)  
 - [2024-10-08-CSS-nesting-improves-with-CSSNestedDeclarations](https://web.dev/blog/css-nesting-cssnesteddeclarations?hl=en)  
 - [2024-10-02-Benchmarking-the-performance-of-CSS-@property](https://web.dev/blog/at-property-performance?hl=en)  
 - [2024-09-30-New-to-the-web-platform-in-September](https://web.dev/blog/web-platform-09-2024?hl=en)  
@@ -563,26 +563,26 @@
 </summary>
 
 
-- [2024-10-29-派早报：Apple-发布搭载-M4-芯片的-iMac、Apple-智能首批功能海外上线等](https://sspai.com/post/93369) ![](/assets/new.png)  
-- [2024-10-29-有多少-AI，值得等待：iOS-18.1-值得关注的新特性](https://sspai.com/post/93291) ![](/assets/new.png)  
-- [2024-10-28-派早报：Arc-开发商宣布转向新浏览器](https://sspai.com/post/93325) ![](/assets/new.png)  
-- [2024-10-28-不仅火热，而且水深：CPE-及-MIFI-入坑指南](https://sspai.com/post/93255) ![](/assets/new.png)  
-- [2024-10-28-最快-10-分钟，比外卖更迅速的快手盖饭](https://sspai.com/post/93230) ![](/assets/new.png)  
-- [2024-10-28-派评-|-近期值得关注的-App](https://sspai.com/post/93362) ![](/assets/new.png)  
-- [2024-10-27-未来之门：在-MIX-的废墟里寻觅](https://sspai.com/post/92886) ![](/assets/new.png)  
-- [2024-10-26-两个月的美团骑手体验](https://sspai.com/post/93225) ![](/assets/new.png)  
-- [2024-10-25-本周看什么-|-最近值得一看的-9-部作品](https://sspai.com/post/93265) ![](/assets/new.png)  
-- [2024-10-25-从果香到泥煤：苏格兰威士忌入门指北](https://sspai.com/prime/story/scotch-whisky-101) ![](/assets/new.png)  
-- [2024-10-24-用飞书多维表格和扫码枪，快速构建个人图书管理系统](https://sspai.com/post/93065)  
-- [2024-10-24-派早报：Apple-回应-Apple-Intelligence-入华进度、微信推出查看单删好友功能等](https://sspai.com/post/93195)  
-- [2024-10-23-一个比-tmux-更友好的终端复用工具：Zellij-简介及使用技巧](https://sspai.com/prime/story/get-started-with-zellij)  
-- [2024-10-23-给本地设备加一层保险：我的低功率-UPS-不间断电源构建思路](https://sspai.com/post/90258)  
-- [2024-10-23-美西自驾-3000-公里：拉斯维加斯是罪恶都市还是娱乐天堂？](https://sspai.com/post/93000)  
-- [2024-10-23-vivo-X200-系列后日谈：用长期主义描绘影像「蓝图」](https://sspai.com/post/93120)  
-- [2024-10-23-派早报：华为发布-HarmonyOS-NEXT-及多款硬件新品等](https://sspai.com/post/93130)  
-- [2024-10-22-AI-而不得，未来可期：iPad-mini-A17-Pro-首发体验](https://sspai.com/post/93112)  
-- [2024-10-22-社区速递-065-|-你没见过的社区文章、一周最热评、派友的音频听文](https://sspai.com/post/93114)  
-- [2024-10-22-学会配置-Fontconfig，让-Linux-中文字体更顺心](https://sspai.com/post/92955)  
+- [2024-11-01-派早报：任天堂推出-Nintendo-Music-应用、知名浏览器省内存模式更新等](https://sspai.com/post/93482) ![](/assets/new.png)  
+- [2024-11-01-新-Mac-支持雷雳-5-了，但你真的需要它吗？](https://sspai.com/post/84508) ![](/assets/new.png)  
+- [2024-11-01-处理-RAW-照片的免费良方：RawTherapee](https://sspai.com/post/92114) ![](/assets/new.png)  
+- [2024-11-01-本周看什么-|-最近值得一看的-7-部作品](https://sspai.com/post/93498) ![](/assets/new.png)  
+- [2024-10-31-派早报：Apple-发布-2024-款-MacBook-Pro、OpenAI-将打造自研芯片等](https://sspai.com/post/93443) ![](/assets/new.png)  
+- [2024-10-31-看什么-·-特别篇丨在万圣节看恐怖片才是正经事](https://sspai.com/post/69583) ![](/assets/new.png)  
+- [2024-10-31-从纸上涂画到数字笔记：我的数字化纸质阅读方案探索](https://sspai.com/post/93418) ![](/assets/new.png)  
+- [2024-10-31-本月玩什么-|-暗喻幻想、Phoenix-Springs、龙腾世纪](https://sspai.com/post/93453) ![](/assets/new.png)  
+- [2024-10-31-双十一-|-全新贴纸+货品清仓，派的双十一如约而至](https://sspai.com/post/93413) ![](/assets/new.png)  
+- [2024-10-31-当胶片滤镜遇见柔光人像：一加-13-影像系统快速体验](https://sspai.com/post/93361) ![](/assets/new.png)  
+- [2024-10-29-有多少-AI，值得等待：iOS-18.1-值得关注的新特性](https://sspai.com/post/93291)  
+- [2024-10-29-派早报：Apple-发布搭载-M4-芯片的-iMac、Apple-智能首批功能海外上线等](https://sspai.com/post/93369)  
+- [2024-10-28-派评-|-近期值得关注的-App](https://sspai.com/post/93362)  
+- [2024-10-28-最快-10-分钟，比外卖更迅速的快手盖饭](https://sspai.com/post/93230)  
+- [2024-10-28-不仅火热，而且水深：CPE-及-MIFI-入坑指南](https://sspai.com/post/93255)  
+- [2024-10-28-派早报：Arc-开发商宣布转向新浏览器](https://sspai.com/post/93325)  
+- [2024-10-27-未来之门：在-MIX-的废墟里寻觅](https://sspai.com/post/92886)  
+- [2024-10-26-两个月的美团骑手体验](https://sspai.com/post/93225)  
+- [2024-10-25-从果香到泥煤：苏格兰威士忌入门指北](https://sspai.com/prime/story/scotch-whisky-101)  
+- [2024-10-25-本周看什么-|-最近值得一看的-9-部作品](https://sspai.com/post/93265)  
 - [......【查看更多】......](/details/少数派.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -594,26 +594,26 @@
 </summary>
 
 
-- [2024-10-26-这条“防风裤”封神了！一秒拥有细长腿，藏肉又保暖](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E8%BF%99%E6%9D%A1%E2%80%9C%E9%98%B2%E9%A3%8E%E8%A3%A4%E2%80%9D%E5%B0%81%E7%A5%9E%E4%BA%86%EF%BC%81%E4%B8%80%E7%A7%92%E6%8B%A5%E6%9C%89%E7%BB%86%E9%95%BF%E8%85%BF%EF%BC%8C%E8%97%8F%E8%82%89%E5%8F%88%E4%BF%9D%E6%9A%96) ![](/assets/new.png)  
-- [2024-10-26-付航脱口秀夺冠，让我见识了最顶级的三观](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BB%98%E8%88%AA%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%BA%E5%86%A0%EF%BC%8C%E8%AE%A9%E6%88%91%E8%A7%81%E8%AF%86%E4%BA%86%E6%9C%80%E9%A1%B6%E7%BA%A7%E7%9A%84%E4%B8%89%E8%A7%82) ![](/assets/new.png)  
-- [2024-10-26-一个人高情商的标志：把无谓的胜利让给对方](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%AB%98%E6%83%85%E5%95%86%E7%9A%84%E6%A0%87%E5%BF%97%EF%BC%9A%E6%8A%8A%E6%97%A0%E8%B0%93%E7%9A%84%E8%83%9C%E5%88%A9%E8%AE%A9%E7%BB%99%E5%AF%B9%E6%96%B9) ![](/assets/new.png)  
-- [2024-10-26-摆脱社交内耗最好的方式](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%91%86%E8%84%B1%E7%A4%BE%E4%BA%A4%E5%86%85%E8%80%97%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E5%BC%8F) ![](/assets/new.png)  
-- [2024-10-26-你的孩子未来会不会抑郁，从“周日晚上”就能看出来……](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%A0%E7%9A%84%E5%AD%A9%E5%AD%90%E6%9C%AA%E6%9D%A5%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%8A%91%E9%83%81%EF%BC%8C%E4%BB%8E%E2%80%9C%E5%91%A8%E6%97%A5%E6%99%9A%E4%B8%8A%E2%80%9D%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E6%9D%A5%E2%80%A6%E2%80%A6) ![](/assets/new.png)  
-- [2024-10-23-消化负能量的60种方式（值得收藏）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%B6%88%E5%8C%96%E8%B4%9F%E8%83%BD%E9%87%8F%E7%9A%8460%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%88%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%EF%BC%89)  
-- [2024-10-23-一个人最顶级的社交格局：一半装傻，一半扮哑](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E9%A1%B6%E7%BA%A7%E7%9A%84%E7%A4%BE%E4%BA%A4%E6%A0%BC%E5%B1%80%EF%BC%9A%E4%B8%80%E5%8D%8A%E8%A3%85%E5%82%BB%EF%BC%8C%E4%B8%80%E5%8D%8A%E6%89%AE%E5%93%91)  
-- [2024-10-23-你赚的每一分钱，都是有因果的](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%A0%E8%B5%9A%E7%9A%84%E6%AF%8F%E4%B8%80%E5%88%86%E9%92%B1%EF%BC%8C%E9%83%BD%E6%98%AF%E6%9C%89%E5%9B%A0%E6%9E%9C%E7%9A%84)  
-- [2024-10-23-底层人翻身，从三次背叛开始](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%BA%95%E5%B1%82%E4%BA%BA%E7%BF%BB%E8%BA%AB%EF%BC%8C%E4%BB%8E%E4%B8%89%E6%AC%A1%E8%83%8C%E5%8F%9B%E5%BC%80%E5%A7%8B)  
+- [2024-10-31-一个人的底层逻辑，就是他的命运](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91%EF%BC%8C%E5%B0%B1%E6%98%AF%E4%BB%96%E7%9A%84%E5%91%BD%E8%BF%90) ![](/assets/new.png)  
+- [2024-10-30-摆脱工作内耗最好的方式：断舍离](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%91%86%E8%84%B1%E5%B7%A5%E4%BD%9C%E5%86%85%E8%80%97%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%9A%E6%96%AD%E8%88%8D%E7%A6%BB) ![](/assets/new.png)  
+- [2024-10-29-14岁孩子花费上万元抽卡：对钱没概念的孩子，正在榨干父母的钱包](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+14%E5%B2%81%E5%AD%A9%E5%AD%90%E8%8A%B1%E8%B4%B9%E4%B8%8A%E4%B8%87%E5%85%83%E6%8A%BD%E5%8D%A1%EF%BC%9A%E5%AF%B9%E9%92%B1%E6%B2%A1%E6%A6%82%E5%BF%B5%E7%9A%84%E5%AD%A9%E5%AD%90%EF%BC%8C%E6%AD%A3%E5%9C%A8%E6%A6%A8%E5%B9%B2%E7%88%B6%E6%AF%8D%E7%9A%84%E9%92%B1%E5%8C%85) ![](/assets/new.png)  
+- [2024-10-26-你的孩子未来会不会抑郁，从“周日晚上”就能看出来……](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%A0%E7%9A%84%E5%AD%A9%E5%AD%90%E6%9C%AA%E6%9D%A5%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%8A%91%E9%83%81%EF%BC%8C%E4%BB%8E%E2%80%9C%E5%91%A8%E6%97%A5%E6%99%9A%E4%B8%8A%E2%80%9D%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E6%9D%A5%E2%80%A6%E2%80%A6)  
+- [2024-10-26-摆脱社交内耗最好的方式](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%91%86%E8%84%B1%E7%A4%BE%E4%BA%A4%E5%86%85%E8%80%97%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E5%BC%8F)  
+- [2024-10-26-一个人高情商的标志：把无谓的胜利让给对方](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%AB%98%E6%83%85%E5%95%86%E7%9A%84%E6%A0%87%E5%BF%97%EF%BC%9A%E6%8A%8A%E6%97%A0%E8%B0%93%E7%9A%84%E8%83%9C%E5%88%A9%E8%AE%A9%E7%BB%99%E5%AF%B9%E6%96%B9)  
+- [2024-10-26-付航脱口秀夺冠，让我见识了最顶级的三观](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BB%98%E8%88%AA%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%BA%E5%86%A0%EF%BC%8C%E8%AE%A9%E6%88%91%E8%A7%81%E8%AF%86%E4%BA%86%E6%9C%80%E9%A1%B6%E7%BA%A7%E7%9A%84%E4%B8%89%E8%A7%82)  
+- [2024-10-26-这条“防风裤”封神了！一秒拥有细长腿，藏肉又保暖](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E8%BF%99%E6%9D%A1%E2%80%9C%E9%98%B2%E9%A3%8E%E8%A3%A4%E2%80%9D%E5%B0%81%E7%A5%9E%E4%BA%86%EF%BC%81%E4%B8%80%E7%A7%92%E6%8B%A5%E6%9C%89%E7%BB%86%E9%95%BF%E8%85%BF%EF%BC%8C%E8%97%8F%E8%82%89%E5%8F%88%E4%BF%9D%E6%9A%96)  
 - [2024-10-23-毁掉孩子人生的第一“杀手”，不是打骂，不是贫穷，而是10岁前......](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%AF%81%E6%8E%89%E5%AD%A9%E5%AD%90%E4%BA%BA%E7%94%9F%E7%9A%84%E7%AC%AC%E4%B8%80%E2%80%9C%E6%9D%80%E6%89%8B%E2%80%9D%EF%BC%8C%E4%B8%8D%E6%98%AF%E6%89%93%E9%AA%82%EF%BC%8C%E4%B8%8D%E6%98%AF%E8%B4%AB%E7%A9%B7%EF%BC%8C%E8%80%8C%E6%98%AF10%E5%B2%81%E5%89%8D......)  
-- [2024-10-10-中年以后，投资自己的最好方式](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%AD%E5%B9%B4%E4%BB%A5%E5%90%8E%EF%BC%8C%E6%8A%95%E8%B5%84%E8%87%AA%E5%B7%B1%E7%9A%84%E6%9C%80%E5%A5%BD%E6%96%B9%E5%BC%8F)  
-- [2024-10-10-你真正爱不爱自己的孩子，从这10件小事就能看出来](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%A0%E7%9C%9F%E6%AD%A3%E7%88%B1%E4%B8%8D%E7%88%B1%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AD%A9%E5%AD%90%EF%BC%8C%E4%BB%8E%E8%BF%9910%E4%BB%B6%E5%B0%8F%E4%BA%8B%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E6%9D%A5)  
-- [2024-10-10-没有父母的重阳节（潸然泪下）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%B2%A1%E6%9C%89%E7%88%B6%E6%AF%8D%E7%9A%84%E9%87%8D%E9%98%B3%E8%8A%82%EF%BC%88%E6%BD%B8%E7%84%B6%E6%B3%AA%E4%B8%8B%EF%BC%89)  
-- [2024-10-10-渔民冒险发出警示：“海参”已跌落神坛，批发价公开后，震惊所有人](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%B8%94%E6%B0%91%E5%86%92%E9%99%A9%E5%8F%91%E5%87%BA%E8%AD%A6%E7%A4%BA%EF%BC%9A%E2%80%9C%E6%B5%B7%E5%8F%82%E2%80%9D%E5%B7%B2%E8%B7%8C%E8%90%BD%E7%A5%9E%E5%9D%9B%EF%BC%8C%E6%89%B9%E5%8F%91%E4%BB%B7%E5%85%AC%E5%BC%80%E5%90%8E%EF%BC%8C%E9%9C%87%E6%83%8A%E6%89%80%E6%9C%89%E4%BA%BA)  
+- [2024-10-23-底层人翻身，从三次背叛开始](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%BA%95%E5%B1%82%E4%BA%BA%E7%BF%BB%E8%BA%AB%EF%BC%8C%E4%BB%8E%E4%B8%89%E6%AC%A1%E8%83%8C%E5%8F%9B%E5%BC%80%E5%A7%8B)  
+- [2024-10-23-你赚的每一分钱，都是有因果的](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%A0%E8%B5%9A%E7%9A%84%E6%AF%8F%E4%B8%80%E5%88%86%E9%92%B1%EF%BC%8C%E9%83%BD%E6%98%AF%E6%9C%89%E5%9B%A0%E6%9E%9C%E7%9A%84)  
+- [2024-10-23-一个人最顶级的社交格局：一半装傻，一半扮哑](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E9%A1%B6%E7%BA%A7%E7%9A%84%E7%A4%BE%E4%BA%A4%E6%A0%BC%E5%B1%80%EF%BC%9A%E4%B8%80%E5%8D%8A%E8%A3%85%E5%82%BB%EF%BC%8C%E4%B8%80%E5%8D%8A%E6%89%AE%E5%93%91)  
+- [2024-10-23-消化负能量的60种方式（值得收藏）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%B6%88%E5%8C%96%E8%B4%9F%E8%83%BD%E9%87%8F%E7%9A%8460%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%88%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%EF%BC%89)  
 - [2024-10-10-住得好的人，运气会好](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%8F%E5%BE%97%E5%A5%BD%E7%9A%84%E4%BA%BA%EF%BC%8C%E8%BF%90%E6%B0%94%E4%BC%9A%E5%A5%BD)  
-- [2024-09-07-人到中年，最好的生活状态](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%EF%BC%8C%E6%9C%80%E5%A5%BD%E7%9A%84%E7%94%9F%E6%B4%BB%E7%8A%B6%E6%80%81)  
-- [2024-09-07-一个家庭最可怕的不是贫穷，而是“情绪污染”](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E5%AE%B6%E5%BA%AD%E6%9C%80%E5%8F%AF%E6%80%95%E7%9A%84%E4%B8%8D%E6%98%AF%E8%B4%AB%E7%A9%B7%EF%BC%8C%E8%80%8C%E6%98%AF%E2%80%9C%E6%83%85%E7%BB%AA%E6%B1%A1%E6%9F%93%E2%80%9D)  
-- [2024-09-07-秋天的第一瓶香水，小众不撞香，好闻到撩人于无形](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E7%93%B6%E9%A6%99%E6%B0%B4%EF%BC%8C%E5%B0%8F%E4%BC%97%E4%B8%8D%E6%92%9E%E9%A6%99%EF%BC%8C%E5%A5%BD%E9%97%BB%E5%88%B0%E6%92%A9%E4%BA%BA%E4%BA%8E%E6%97%A0%E5%BD%A2)  
-- [2024-09-07-拉开人与人之间差距的，是“闭环思维”](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%8B%89%E5%BC%80%E4%BA%BA%E4%B8%8E%E4%BA%BA%E4%B9%8B%E9%97%B4%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E6%98%AF%E2%80%9C%E9%97%AD%E7%8E%AF%E6%80%9D%E7%BB%B4%E2%80%9D)  
+- [2024-10-10-渔民冒险发出警示：“海参”已跌落神坛，批发价公开后，震惊所有人](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%B8%94%E6%B0%91%E5%86%92%E9%99%A9%E5%8F%91%E5%87%BA%E8%AD%A6%E7%A4%BA%EF%BC%9A%E2%80%9C%E6%B5%B7%E5%8F%82%E2%80%9D%E5%B7%B2%E8%B7%8C%E8%90%BD%E7%A5%9E%E5%9D%9B%EF%BC%8C%E6%89%B9%E5%8F%91%E4%BB%B7%E5%85%AC%E5%BC%80%E5%90%8E%EF%BC%8C%E9%9C%87%E6%83%8A%E6%89%80%E6%9C%89%E4%BA%BA)  
+- [2024-10-10-没有父母的重阳节（潸然泪下）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%B2%A1%E6%9C%89%E7%88%B6%E6%AF%8D%E7%9A%84%E9%87%8D%E9%98%B3%E8%8A%82%EF%BC%88%E6%BD%B8%E7%84%B6%E6%B3%AA%E4%B8%8B%EF%BC%89)  
+- [2024-10-10-你真正爱不爱自己的孩子，从这10件小事就能看出来](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%A0%E7%9C%9F%E6%AD%A3%E7%88%B1%E4%B8%8D%E7%88%B1%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AD%A9%E5%AD%90%EF%BC%8C%E4%BB%8E%E8%BF%9910%E4%BB%B6%E5%B0%8F%E4%BA%8B%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E6%9D%A5)  
+- [2024-10-10-中年以后，投资自己的最好方式](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%AD%E5%B9%B4%E4%BB%A5%E5%90%8E%EF%BC%8C%E6%8A%95%E8%B5%84%E8%87%AA%E5%B7%B1%E7%9A%84%E6%9C%80%E5%A5%BD%E6%96%B9%E5%BC%8F)  
 - [2024-09-07-冷漠的力量（深度好文）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%86%B7%E6%BC%A0%E7%9A%84%E5%8A%9B%E9%87%8F%EF%BC%88%E6%B7%B1%E5%BA%A6%E5%A5%BD%E6%96%87%EF%BC%89)  
+- [2024-09-07-拉开人与人之间差距的，是“闭环思维”](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%8B%89%E5%BC%80%E4%BA%BA%E4%B8%8E%E4%BA%BA%E4%B9%8B%E9%97%B4%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E6%98%AF%E2%80%9C%E9%97%AD%E7%8E%AF%E6%80%9D%E7%BB%B4%E2%80%9D)  
 - [......【查看更多】......](/details/洞见.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1293,8 +1293,8 @@
 </summary>
 
 
-- [2024-10-27-本份---读《段永平投资回答录》](https://blog.devtang.com/2024/10/27/notes-from-duan-yong-ping/) ![](/assets/new.png)  
-- [2024-09-27-在-VS-Code-中使用-cin-输入数据](https://blog.devtang.com/2024/09/27/use-cin-in-vscode/) ![](/assets/new.png)  
+- [2024-10-27-本份---读《段永平投资回答录》](https://blog.devtang.com/2024/10/27/notes-from-duan-yong-ping/)  
+- [2024-09-27-在-VS-Code-中使用-cin-输入数据](https://blog.devtang.com/2024/09/27/use-cin-in-vscode/)  
 - [2024-09-19-第一性原理思考：解决问题的通用框架续](https://blog.devtang.com/2024/09/19/thinking-pattens/)  
 - [2024-09-17-五分钟弄懂-CSP-J](https://blog.devtang.com/2024/09/17/cspj-introduction/)  
 - [2024-09-17-西贝创始人贾国龙的成与败---读《折腾不止》](https://blog.devtang.com/2024/09/17/talking-with-xibei/)  

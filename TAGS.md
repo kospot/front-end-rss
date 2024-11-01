@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-10-29 13:33:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-11-02 05:47:30。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,7 @@
 
 
 
+- [【Node-Weekly】Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553)
 - [【Node-Weekly】Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)
 - [【Node-Weekly】Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)
 - [【Node-Weekly】All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)
@@ -201,7 +202,6 @@
 - [【Node-Weekly】node---run-send_newsletter](https://nodeweekly.com/issues/529)
 - [【Node-Weekly】What-Node's-contributors-have-been-discussing](https://nodeweekly.com/issues/528)
 - [【Node-Weekly】zx-8.0-for-better-Node-scripting](https://nodeweekly.com/issues/527)
-- [【Node-Weekly】Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -329,6 +329,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711)
 - [【JavaScript-Weekly】A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)
 - [【JavaScript-Weekly】JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)
 - [【JavaScript-Weekly】A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】JSR-isn't-another-tool,-it's-a-fundamental-shift](https://javascriptweekly.com/issues/685)
 - [【JavaScript-Weekly】A-signal-boost-for-JavaScript](https://javascriptweekly.com/issues/682)
 - [【JavaScript-Weekly】Promises-visualized](https://javascriptweekly.com/issues/681)
-- [【JavaScript-Weekly】TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
