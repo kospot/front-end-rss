@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-11-02 05:47:30。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-10 19:00:54。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,9 @@
 
 
 
+- [【Node-Weekly】A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)
+- [【Node-Weekly】Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)
+- [【Node-Weekly】Node-v23.2-released](https://nodeweekly.com/issues/555)
 - [【Node-Weekly】Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553)
 - [【Node-Weekly】Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)
 - [【Node-Weekly】Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)
@@ -199,9 +202,6 @@
 - [【Node-Weekly】Running-other-processes-from-Node,-but-better](https://nodeweekly.com/issues/532)
 - [【Node-Weekly】Node-22.1,-now-with-even-more-performance](https://nodeweekly.com/issues/531)
 - [【Node-Weekly】Node.js-22-has-entered-the-building](https://nodeweekly.com/issues/530)
-- [【Node-Weekly】node---run-send_newsletter](https://nodeweekly.com/issues/529)
-- [【Node-Weekly】What-Node's-contributors-have-been-discussing](https://nodeweekly.com/issues/528)
-- [【Node-Weekly】zx-8.0-for-better-Node-scripting](https://nodeweekly.com/issues/527)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -326,9 +326,13 @@
 
 
 
+- [【Node-Weekly】Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715)
+- [【JavaScript-Weekly】Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714)
+- [【JavaScript-Weekly】JSConf-is-back](https://javascriptweekly.com/issues/712)
 - [【JavaScript-Weekly】Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711)
 - [【JavaScript-Weekly】A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)
 - [【JavaScript-Weekly】JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)
@@ -342,10 +346,6 @@
 - [【JavaScript-Weekly】Breaking-a-promise](https://javascriptweekly.com/issues/695)
 - [【JavaScript-Weekly】Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)
 - [【JavaScript-Weekly】A-variety-of-JS-hacks-and-creative-coding](https://javascriptweekly.com/issues/690)
-- [【JavaScript-Weekly】SolidJS-is-off-to-a-solid-start](https://javascriptweekly.com/issues/689)
-- [【JavaScript-Weekly】JSR-isn't-another-tool,-it's-a-fundamental-shift](https://javascriptweekly.com/issues/685)
-- [【JavaScript-Weekly】A-signal-boost-for-JavaScript](https://javascriptweekly.com/issues/682)
-- [【JavaScript-Weekly】Promises-visualized](https://javascriptweekly.com/issues/681)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

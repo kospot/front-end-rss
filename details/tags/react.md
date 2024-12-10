@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-02 05:47:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-10 19:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -651,6 +651,8 @@
 - [2018-10-28-TypeScript-aware-React-hooks-for-global-state](https://blog.axlight.com/posts/typescript-aware-react-hooks-for-global-state/) 
 - [2018-10-20-Clean-Expo-React-Native-+-React-Apollo-GraphQL-+-TypeScript-boilerplate](https://blog.axlight.com/posts/clean-expo-react-native-react-apollo-graphql-typescript-boilerplate/) 
 - [2018-10-05-React-global-state-by-Context-API](https://blog.axlight.com/posts/react-global-state-by-context-api/) 
+- [2024-11-22-React-Advanced-2024:-Designing-Effective-Documentation](https://blog.isquaredsoftware.com/2024/11/presentations-designing-documentation/) 
+- [2024-11-22-React-Summit-US-2024:-Maintaining-a-Library-and-a-Community](https://blog.isquaredsoftware.com/2024/11/presentations-maintaining-community/) 
 - [2024-07-10-React-Summit-2024:-Why-Use-Redux-Today?](https://blog.isquaredsoftware.com/2024/07/presentations-why-use-redux/) 
 - [2023-11-14-React-Summit-US-2023:-What's-New-in-Redux-Toolkit-2.0](https://blog.isquaredsoftware.com/2023/11/presentations-rtk-2.0-new/) 
 - [2023-10-24-React-Advanced-2023---Building-Better-React-DevTools-with-Replay-Time-Travel](https://blog.isquaredsoftware.com/2023/10/presentations-react-devtools-replay/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-02 05:47:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-10 19:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -479,5 +479,6 @@
 - [2024-08-01-fastify/fastify](https://github.com/fastify/fastify) 
 - [2024-09-19-第一性原理思考：解决问题的通用框架续](https://blog.devtang.com/2024/09/19/thinking-pattens/) 
 - [2024-09-06-第一性原理思考：解决问题的通用框架](https://blog.devtang.com/2024/09/06/problem-solving-structure/) 
+- [2024-11-20-Mastodon’s-weaknesses-and-how-to-fix-them](https://2ality.com/2024/11/mastodon-weaknesses.html) 
 - [2024-01-15-前端\算法招聘-|-与抖音网红线下互动，快来巨量星图！](https://zhuanlan.zhihu.com/p/677950706) 
 - [2021-10-25-如何实现语言服务插件---volar-原理解析](https://zhuanlan.zhihu.com/p/425449041) 

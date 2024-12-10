@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-02 05:47:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-10 19:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -127,6 +127,7 @@
 - [2024-09-05-前端实现视频抽取单秒缩略图](https://juejin.cn/post/7411043646127521827) 
 - [2024-09-02-《WebRTC-探索：前端视角下的实时通信解析》（上）](https://juejin.cn/post/7409853145763151935) 
 - [2024-07-22-Antd-Audio自定义音频播放器](https://juejin.cn/post/7394095950383824935) 
+- [2024-11-15-Watch-the-Web-AI-Summit-2024-videos](https://web.dev/blog/web-ai-summit-2024-recap?hl=en) 
 - [2024-10-22-社区速递-065-|-你没见过的社区文章、一周最热评、派友的音频听文](https://sspai.com/post/93114) 
 - [2024-07-11-Halide-团队全新力作，专业视频更轻松拍：Kino](https://sspai.com/post/90314) 
 - [2024-07-15-MotionClone：无需训练，一键克隆视频运动](https://posts.careerengine.us/p/6694a164661b1e782145bd0f) 

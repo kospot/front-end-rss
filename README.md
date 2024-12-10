@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-11-02 05:47:29，:rocket: 更新条数: +18， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-10 19:00:53，:rocket: 更新条数: +52， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -28,8 +28,8 @@
 - [掘金前端](#掘金前端)  
 - [掘金字节前端](#掘金字节前端)  
 - [掘金飞猪前端](#掘金飞猪前端)  
-- [美团技术团队](#美团技术团队)  
-- [web.dev](#web.dev)  
+- [美团技术团队](#美团技术团队)![](/assets/dot.png)   
+- [web.dev](#web.dev)![](/assets/dot.png)   
 - [少数派](#少数派)![](/assets/dot.png)   
 - [洞见](#洞见)![](/assets/dot.png)   
 - [机器之心](#机器之心)  
@@ -46,22 +46,22 @@
 - [萧宸宇](#萧宸宇)  
 - [Anthony-Fu](#anthony-fu)  
 - [oldj's-blog](#oldj's-blog)  
-- [SurviveJS](#survivejs)  
+- [SurviveJS](#survivejs)![](/assets/dot.png)   
 - [Devtrium](#devtrium)  
 - [Tan-Li-Hau's-Blog](#tan-li-hau's-blog)  
-- [TypeScript](#typescript)  
+- [TypeScript](#typescript)![](/assets/dot.png)   
 - [sorrycc/blog](#sorrycc/blog)  
 - [阳志平的网志](#阳志平的网志)  
-- [Daishi-Kato's-blog](#daishi-kato's-blog)  
-- [Mark's-Dev-Blog](#mark's-dev-blog)  
+- [Daishi-Kato's-blog](#daishi-kato's-blog)![](/assets/dot.png)   
+- [Mark's-Dev-Blog](#mark's-dev-blog)![](/assets/dot.png)   
 - [Ben-Awad](#ben-awad)  
 - [Jake-Archibald's-blog](#jake-archibald's-blog)  
 - [Dan-Abramov's-Overreacted](#dan-abramov's-overreacted)  
-- [Phodal---手工艺人](#phodal---手工艺人)  
+- [Phodal---手工艺人](#phodal---手工艺人)![](/assets/dot.png)   
 - [Trending-JavaScript-repositories](#trending-javascript-repositories)  
 - [阿里-CCO-体验技术专刊](#阿里-cco-体验技术专刊)  
-- [唐巧的技术博客](#唐巧的技术博客)  
-- [2ality](#2ality)  
+- [唐巧的技术博客](#唐巧的技术博客)![](/assets/dot.png)   
+- [2ality](#2ality)![](/assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)  
 - [InfoQ](#infoq)  
 - [InfoQ](#infoq)  
@@ -74,7 +74,11 @@
 </summary>
 
 
-- [2024-10-29-Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553) ![](/assets/new.png)  
+- [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558) ![](/assets/new.png)  
+- [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557) ![](/assets/new.png)  
+- [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556) ![](/assets/new.png)  
+- [2024-11-12-Node-v23.2-released](https://nodeweekly.com/issues/555) ![](/assets/new.png)  
+- [2024-10-29-Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553)  
 - [2024-10-22-Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)  
 - [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)  
 - [2024-10-01-All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)  
@@ -90,10 +94,6 @@
 - [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)  
 - [2024-07-09-Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539)  
 - [2024-07-02-Taming-event-loop-lag](https://nodeweekly.com/issues/538)  
-- [2024-06-25-Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537)  
-- [2024-06-18-A-snapshot-of-what's-new-in-Node](https://nodeweekly.com/issues/536)  
-- [2024-06-11-Leaky-timeouts](https://nodeweekly.com/issues/535)  
-- [2024-06-04-The-newest-Node.js-runtime-features](https://nodeweekly.com/issues/534)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -105,7 +105,11 @@
 </summary>
 
 
-- [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711) ![](/assets/new.png)  
+- [2024-12-05-Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715) ![](/assets/new.png)  
+- [2024-11-21-Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714) ![](/assets/new.png)  
+- [2024-11-14-Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713) ![](/assets/new.png)  
+- [2024-11-07-JSConf-is-back](https://javascriptweekly.com/issues/712) ![](/assets/new.png)  
+- [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711)  
 - [2024-10-24-A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)  
 - [2024-10-17-JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)  
 - [2024-10-10-A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)  
@@ -121,10 +125,6 @@
 - [2024-07-18-Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697)  
 - [2024-07-11-Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696)  
 - [2024-07-04-Breaking-a-promise](https://javascriptweekly.com/issues/695)  
-- [2024-06-27-Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)  
-- [2024-06-20-The-results-are-in](https://javascriptweekly.com/issues/693)  
-- [2024-06-13-The-biggest-TypeScript-release-in-years?](https://javascriptweekly.com/issues/692)  
-- [2024-06-06-The-appealing-simplicity-of-htmx](https://javascriptweekly.com/issues/691)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -260,7 +260,14 @@
 </summary>
 
 
-- [2024-10-31-Pixi.js中ColorMatrixFilter自带滤镜效果一览](https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/) ![](/assets/new.png)  
+- [2024-12-06-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/) ![](/assets/new.png)  
+- [2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/) ![](/assets/new.png)  
+- [2024-11-29-CSS好用的color-mix颜色函数也可以使用啦](https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/) ![](/assets/new.png)  
+- [2024-11-25-CSS-Grid布局中的subgrid的适用场景](https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/) ![](/assets/new.png)  
+- [2024-11-17-JS文本选区变化selectionchange事件实践小记](https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/) ![](/assets/new.png)  
+- [2024-11-14-这啥?CSS-calc-size和interpolate-size,真学不动了](https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/) ![](/assets/new.png)  
+- [2024-11-11-趁热打铁，SVG-feColorMatrix滤镜gogogo!](https://www.zhangxinxu.com/wordpress/2024/11/svg-fecolormatrix-filter/) ![](/assets/new.png)  
+- [2024-10-31-Pixi.js中ColorMatrixFilter自带滤镜效果一览](https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/)  
 - [2024-10-24-Object.is/===、数组at/直接索引、substring/slice的区别](https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/)  
 - [2024-10-10-Nice!-Safari也支持CSS-@perporty规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/)  
 - [2024-09-26-时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/)  
@@ -273,13 +280,6 @@
 - [2024-07-29-独家，MP3音频淡入淡出播放和转换的JS实现](https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/)  
 - [2024-07-23-关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/)  
 - [2024-07-18-今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/)  
-- [2024-07-15-了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/)  
-- [2024-07-04-如何使用纯CSS鉴别是不是Safari浏览器](https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/)  
-- [2024-06-30-CSS-transition-behavior让display-none也有动画效果](https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/)  
-- [2024-06-27-告别JS浮层，全新的CSS-Anchor-Positioning锚点定位API](https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/)  
-- [2024-06-11-聊聊Top-Layer顶层特性的隐患与实践](https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/)  
-- [2024-05-30-记一次技术交流，-feMerge滤镜复制任意HTML投影](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/)  
-- [2024-05-20-如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -291,8 +291,11 @@
 </summary>
 
 
-- [2024-11-01-科技爱好者周刊（第-323-期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html) ![](/assets/new.png)  
-- [2024-10-31-AI-开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html) ![](/assets/new.png)  
+- [2024-12-06-科技爱好者周刊（第-328-期）：AI-模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html) ![](/assets/new.png)  
+- [2024-12-02-AI-应用无代码开发教程：工作流模式详解](http://www.ruanyifeng.com/blog/2024/12/no-code-ai-tutorial.html) ![](/assets/new.png)  
+- [2024-11-29-科技爱好者周刊（第-327-期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html) ![](/assets/new.png)  
+- [2024-11-01-科技爱好者周刊（第-323-期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html)  
+- [2024-10-31-AI-开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html)  
 - [2024-10-25-科技爱好者周刊（第-322-期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html)  
 - [2024-10-18-科技爱好者周刊（第-321-期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html)  
 - [2024-10-11-科技爱好者周刊（第-320-期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html)  
@@ -308,9 +311,6 @@
 - [2024-07-19-科技爱好者周刊（第-309-期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)  
 - [2024-07-12-科技爱好者周刊（第-308-期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)  
 - [2024-07-05-科技爱好者周刊（第-307-期）：不要看重-Product-Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html)  
-- [2024-07-03-AI-编程助手测评：GitHub-Copilot-vs-豆包-MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html)  
-- [2024-06-28-科技爱好者周刊（第-306-期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html)  
-- [2024-06-21-科技爱好者周刊（第-305-期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -501,13 +501,15 @@
 </summary>
 
 
+- [2024-11-21-AutoConsis：UI内容一致性智能检测](https://tech.meituan.com/2024/11/21/autoconsis-ui-meituan.html) ![](/assets/new.png)  
+- [2024-10-31-CIKM-2024-|-美团技术团队精选论文解读](https://tech.meituan.com/2024/10/31/cikm-2024-meituan.html) ![](/assets/new.png)  
 - [2024-10-18-大前端：如何突破动态化容器的天花板？](https://tech.meituan.com/2024/10/18/recce-in-meituan.html)  
 - [2024-10-10-全域用户建模在美团首页推荐的探索与实践](https://tech.meituan.com/2024/10/10/exploration-and-practice-of-user-modeling-recommended.html)  
 - [2024-09-12-KDD-2024-OAG-Challenge-Cup赛道三项冠军技术方案解读](https://tech.meituan.com/2024/09/12/kdd-2024-oag-challenge-cup-technical-interpretation.html)  
 - [2024-09-09-新一代实验分析引擎：驱动履约平台的数据决策](https://tech.meituan.com/2024/09/09/new-generation-analysis-engine-driving-data-decisions.html)  
 - [2024-08-16-信息流广告预估技术在美团外卖的实践](https://tech.meituan.com/2024/08/16/information-flow-advertising-prediction-technology.html)  
-- [2024-08-09-ACL-2024-|-美团技术团队精选论文解读](https://tech.meituan.com/2024/08/09/acl-2024-meituan.html)  
 - [2024-08-09-大众点评技术部包揽KDD-2024-OAG-Challenge-Cup赛道全部3项冠军](https://tech.meituan.com/2024/08/09/kdd-2024-oag-challenge-cup.html)  
+- [2024-08-09-ACL-2024-|-美团技术团队精选论文解读](https://tech.meituan.com/2024/08/09/acl-2024-meituan.html)  
 - [2024-07-26-KDD-2024-|-美团技术团队精选论文解读](https://tech.meituan.com/2024/07/26/kdd-2024.html)  
 - [2024-07-19-基本功-|-一文讲清多线程和多线程同步](https://tech.meituan.com/2024/07/19/multi-threading-and-multi-thread-synchronization.html)  
 - [2024-07-05-搜索广告召回技术在美团的实践](https://tech.meituan.com/2024/07/05/the-practice-of-search-advertising-recall-technology-in-meituan.html)  
@@ -519,8 +521,6 @@
 - [2024-05-17-基于多模态信息抽取的菜品知识图谱构建](https://tech.meituan.com/2024/05/17/cross-modal-ingredient-level-dataset.html)  
 - [2024-05-09-DDD在大众点评交易系统演进中的应用](https://tech.meituan.com/2024/05/09/ddd-practice-trading-system.html)  
 - [2024-04-11-美团外卖基于GPU的向量检索系统实践](https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html)  
-- [2024-03-29-百亿大规模图在广告场景的应用](https://tech.meituan.com/2024/03/29/large-scale-graph-application.html)  
-- [2024-03-21-大众点评内容搜索算法优化的探索与实践](https://tech.meituan.com/2024/03/21/content-search-algorithm-optimization.html)  
 - [......【查看更多】......](/details/美团技术团队.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -532,6 +532,10 @@
 </summary>
 
 
+- [2024-12-06-What-do-the-State-of-CSS-and-HTML-surveys-tell-us?](https://web.dev/blog/state-of-css-html-2024?hl=en) ![](/assets/new.png)  
+- [2024-11-28-New-to-the-web-platform-in-November](https://web.dev/blog/web-platform-11-2024?hl=en) ![](/assets/new.png)  
+- [2024-11-15-Watch-the-Web-AI-Summit-2024-videos](https://web.dev/blog/web-ai-summit-2024-recap?hl=en) ![](/assets/new.png)  
+- [2024-10-30-New-to-the-web-platform-in-October](https://web.dev/blog/web-platform-10-2024?hl=en) ![](/assets/new.png)  
 - [2024-10-23-Show-Baseline-status-on-your-blog-posts-and-presentations](https://web.dev/blog/show-baseline-status?hl=en)  
 - [2024-10-08-CSS-nesting-improves-with-CSSNestedDeclarations](https://web.dev/blog/css-nesting-cssnesteddeclarations?hl=en)  
 - [2024-10-02-Benchmarking-the-performance-of-CSS-@property](https://web.dev/blog/at-property-performance?hl=en)  
@@ -548,10 +552,6 @@
 - [2024-07-30-New-to-the-web-platform-in-July](https://web.dev/blog/web-platform-07-2024?hl=en)  
 - [2024-07-23-CSS-font-size-adjust-is-now-in-Baseline](https://web.dev/blog/font-size-adjust?hl=en)  
 - [2024-07-12-@property:-Next-gen-CSS-variables-now-with-universal-browser-support](https://web.dev/blog/at-property-baseline?hl=en)  
-- [2024-07-08-Interop-2024-mid-year-update](https://web.dev/blog/interop-2024-midyear?hl=en)  
-- [2024-07-01-How-to-use-container-queries-now](https://web.dev/blog/how-to-use-container-queries-now?hl=en)  
-- [2024-06-26-The-JavaScript-Set-methods-are-now-part-of-Baseline](https://web.dev/blog/set-methods?hl=en)  
-- [2024-06-26-New-to-the-web-platform-in-June](https://web.dev/blog/web-platform-06-2024?hl=en)  
 - [......【查看更多】......](/details/web.dev.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -563,26 +563,26 @@
 </summary>
 
 
-- [2024-11-01-派早报：任天堂推出-Nintendo-Music-应用、知名浏览器省内存模式更新等](https://sspai.com/post/93482) ![](/assets/new.png)  
-- [2024-11-01-新-Mac-支持雷雳-5-了，但你真的需要它吗？](https://sspai.com/post/84508) ![](/assets/new.png)  
-- [2024-11-01-处理-RAW-照片的免费良方：RawTherapee](https://sspai.com/post/92114) ![](/assets/new.png)  
-- [2024-11-01-本周看什么-|-最近值得一看的-7-部作品](https://sspai.com/post/93498) ![](/assets/new.png)  
-- [2024-10-31-派早报：Apple-发布-2024-款-MacBook-Pro、OpenAI-将打造自研芯片等](https://sspai.com/post/93443) ![](/assets/new.png)  
-- [2024-10-31-看什么-·-特别篇丨在万圣节看恐怖片才是正经事](https://sspai.com/post/69583) ![](/assets/new.png)  
-- [2024-10-31-从纸上涂画到数字笔记：我的数字化纸质阅读方案探索](https://sspai.com/post/93418) ![](/assets/new.png)  
-- [2024-10-31-本月玩什么-|-暗喻幻想、Phoenix-Springs、龙腾世纪](https://sspai.com/post/93453) ![](/assets/new.png)  
-- [2024-10-31-双十一-|-全新贴纸+货品清仓，派的双十一如约而至](https://sspai.com/post/93413) ![](/assets/new.png)  
-- [2024-10-31-当胶片滤镜遇见柔光人像：一加-13-影像系统快速体验](https://sspai.com/post/93361) ![](/assets/new.png)  
-- [2024-10-29-有多少-AI，值得等待：iOS-18.1-值得关注的新特性](https://sspai.com/post/93291)  
-- [2024-10-29-派早报：Apple-发布搭载-M4-芯片的-iMac、Apple-智能首批功能海外上线等](https://sspai.com/post/93369)  
-- [2024-10-28-派评-|-近期值得关注的-App](https://sspai.com/post/93362)  
-- [2024-10-28-最快-10-分钟，比外卖更迅速的快手盖饭](https://sspai.com/post/93230)  
-- [2024-10-28-不仅火热，而且水深：CPE-及-MIFI-入坑指南](https://sspai.com/post/93255)  
-- [2024-10-28-派早报：Arc-开发商宣布转向新浏览器](https://sspai.com/post/93325)  
-- [2024-10-27-未来之门：在-MIX-的废墟里寻觅](https://sspai.com/post/92886)  
-- [2024-10-26-两个月的美团骑手体验](https://sspai.com/post/93225)  
-- [2024-10-25-从果香到泥煤：苏格兰威士忌入门指北](https://sspai.com/prime/story/scotch-whisky-101)  
-- [2024-10-25-本周看什么-|-最近值得一看的-9-部作品](https://sspai.com/post/93265)  
+- [2024-12-10-派早报：广电总局发布「AI-魔改」管理提示，itch.io-遭-AI-举报下线等](https://sspai.com/post/94669) ![](/assets/new.png)  
+- [2024-12-10-万字解析：AI-驱动的大纲笔记，Tana-能否超越-Notion？](https://sspai.com/post/93555) ![](/assets/new.png)  
+- [2024-12-10-线下活动｜逐一场落日余晖：少数派摄影探索日-](https://sspai.com/post/94676) ![](/assets/new.png)  
+- [2024-12-10-一半的视野，成倍的精彩：聊聊我用过的-3-台半格胶片相机](https://sspai.com/post/94585) ![](/assets/new.png)  
+- [2024-12-10-社区速递-072-|-你没见过的社区文章、一周最热评、派友吃什么火锅](https://sspai.com/post/94693) ![](/assets/new.png)  
+- [2024-12-09-派早报：美国法院维持-TikTok-强制出售法案](https://sspai.com/post/94650) ![](/assets/new.png)  
+- [2024-12-09-城市漫步指南：在博兹瓦纳与野生精灵的奇幻邂逅](https://sspai.com/post/94494) ![](/assets/new.png)  
+- [2024-12-09-双十二活动、国家补贴……-正是-iPhone-换机的好时候](https://sspai.com/post/94430) ![](/assets/new.png)  
+- [2024-12-09-派评-|-近期值得关注的-App](https://sspai.com/post/94662) ![](/assets/new.png)  
+- [2024-12-08-具透-|-一边搬家、一边填坑：Windows-11-24H2-更新速览](https://sspai.com/post/92942) ![](/assets/new.png)  
+- [2024-11-01-本周看什么-|-最近值得一看的-7-部作品](https://sspai.com/post/93498)  
+- [2024-11-01-处理-RAW-照片的免费良方：RawTherapee](https://sspai.com/post/92114)  
+- [2024-11-01-新-Mac-支持雷雳-5-了，但你真的需要它吗？](https://sspai.com/post/84508)  
+- [2024-11-01-派早报：任天堂推出-Nintendo-Music-应用、知名浏览器省内存模式更新等](https://sspai.com/post/93482)  
+- [2024-10-31-当胶片滤镜遇见柔光人像：一加-13-影像系统快速体验](https://sspai.com/post/93361)  
+- [2024-10-31-双十一-|-全新贴纸+货品清仓，派的双十一如约而至](https://sspai.com/post/93413)  
+- [2024-10-31-本月玩什么-|-暗喻幻想、Phoenix-Springs、龙腾世纪](https://sspai.com/post/93453)  
+- [2024-10-31-从纸上涂画到数字笔记：我的数字化纸质阅读方案探索](https://sspai.com/post/93418)  
+- [2024-10-31-看什么-·-特别篇丨在万圣节看恐怖片才是正经事](https://sspai.com/post/69583)  
+- [2024-10-31-派早报：Apple-发布-2024-款-MacBook-Pro、OpenAI-将打造自研芯片等](https://sspai.com/post/93443)  
 - [......【查看更多】......](/details/少数派.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -594,26 +594,26 @@
 </summary>
 
 
-- [2024-10-31-一个人的底层逻辑，就是他的命运](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91%EF%BC%8C%E5%B0%B1%E6%98%AF%E4%BB%96%E7%9A%84%E5%91%BD%E8%BF%90) ![](/assets/new.png)  
-- [2024-10-30-摆脱工作内耗最好的方式：断舍离](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%91%86%E8%84%B1%E5%B7%A5%E4%BD%9C%E5%86%85%E8%80%97%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%9A%E6%96%AD%E8%88%8D%E7%A6%BB) ![](/assets/new.png)  
-- [2024-10-29-14岁孩子花费上万元抽卡：对钱没概念的孩子，正在榨干父母的钱包](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+14%E5%B2%81%E5%AD%A9%E5%AD%90%E8%8A%B1%E8%B4%B9%E4%B8%8A%E4%B8%87%E5%85%83%E6%8A%BD%E5%8D%A1%EF%BC%9A%E5%AF%B9%E9%92%B1%E6%B2%A1%E6%A6%82%E5%BF%B5%E7%9A%84%E5%AD%A9%E5%AD%90%EF%BC%8C%E6%AD%A3%E5%9C%A8%E6%A6%A8%E5%B9%B2%E7%88%B6%E6%AF%8D%E7%9A%84%E9%92%B1%E5%8C%85) ![](/assets/new.png)  
-- [2024-10-26-你的孩子未来会不会抑郁，从“周日晚上”就能看出来……](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%A0%E7%9A%84%E5%AD%A9%E5%AD%90%E6%9C%AA%E6%9D%A5%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%8A%91%E9%83%81%EF%BC%8C%E4%BB%8E%E2%80%9C%E5%91%A8%E6%97%A5%E6%99%9A%E4%B8%8A%E2%80%9D%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E6%9D%A5%E2%80%A6%E2%80%A6)  
-- [2024-10-26-摆脱社交内耗最好的方式](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%91%86%E8%84%B1%E7%A4%BE%E4%BA%A4%E5%86%85%E8%80%97%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E5%BC%8F)  
-- [2024-10-26-一个人高情商的标志：把无谓的胜利让给对方](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%AB%98%E6%83%85%E5%95%86%E7%9A%84%E6%A0%87%E5%BF%97%EF%BC%9A%E6%8A%8A%E6%97%A0%E8%B0%93%E7%9A%84%E8%83%9C%E5%88%A9%E8%AE%A9%E7%BB%99%E5%AF%B9%E6%96%B9)  
-- [2024-10-26-付航脱口秀夺冠，让我见识了最顶级的三观](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BB%98%E8%88%AA%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%BA%E5%86%A0%EF%BC%8C%E8%AE%A9%E6%88%91%E8%A7%81%E8%AF%86%E4%BA%86%E6%9C%80%E9%A1%B6%E7%BA%A7%E7%9A%84%E4%B8%89%E8%A7%82)  
+- [2024-12-07-凌晨四点的街头，挤满了“找活路”的人：父母还在拼命，你哪有资格躺平？](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%87%8C%E6%99%A8%E5%9B%9B%E7%82%B9%E7%9A%84%E8%A1%97%E5%A4%B4%EF%BC%8C%E6%8C%A4%E6%BB%A1%E4%BA%86%E2%80%9C%E6%89%BE%E6%B4%BB%E8%B7%AF%E2%80%9D%E7%9A%84%E4%BA%BA%EF%BC%9A%E7%88%B6%E6%AF%8D%E8%BF%98%E5%9C%A8%E6%8B%BC%E5%91%BD%EF%BC%8C%E4%BD%A0%E5%93%AA%E6%9C%89%E8%B5%84%E6%A0%BC%E8%BA%BA%E5%B9%B3%EF%BC%9F) ![](/assets/new.png)  
+- [2024-12-07-一个人高情商的标志：用不对抗的方式沟通](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%AB%98%E6%83%85%E5%95%86%E7%9A%84%E6%A0%87%E5%BF%97%EF%BC%9A%E7%94%A8%E4%B8%8D%E5%AF%B9%E6%8A%97%E7%9A%84%E6%96%B9%E5%BC%8F%E6%B2%9F%E9%80%9A) ![](/assets/new.png)  
+- [2024-12-07-《瓦尔登湖》：人生最高级的活法，是素与简](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E3%80%8A%E7%93%A6%E5%B0%94%E7%99%BB%E6%B9%96%E3%80%8B%EF%BC%9A%E4%BA%BA%E7%94%9F%E6%9C%80%E9%AB%98%E7%BA%A7%E7%9A%84%E6%B4%BB%E6%B3%95%EF%BC%8C%E6%98%AF%E7%B4%A0%E4%B8%8E%E7%AE%80) ![](/assets/new.png)  
+- [2024-12-07-生命里所有的伤害，都是成全](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E7%94%9F%E5%91%BD%E9%87%8C%E6%89%80%E6%9C%89%E7%9A%84%E4%BC%A4%E5%AE%B3%EF%BC%8C%E9%83%BD%E6%98%AF%E6%88%90%E5%85%A8) ![](/assets/new.png)  
+- [2024-12-06-为什么有的人越忙越没钱：穷根难断](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E7%9A%84%E4%BA%BA%E8%B6%8A%E5%BF%99%E8%B6%8A%E6%B2%A1%E9%92%B1%EF%BC%9A%E7%A9%B7%E6%A0%B9%E9%9A%BE%E6%96%AD) ![](/assets/new.png)  
+- [2024-10-31-一个人的底层逻辑，就是他的命运](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91%EF%BC%8C%E5%B0%B1%E6%98%AF%E4%BB%96%E7%9A%84%E5%91%BD%E8%BF%90)  
+- [2024-10-30-摆脱工作内耗最好的方式：断舍离](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%91%86%E8%84%B1%E5%B7%A5%E4%BD%9C%E5%86%85%E8%80%97%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%9A%E6%96%AD%E8%88%8D%E7%A6%BB)  
+- [2024-10-29-14岁孩子花费上万元抽卡：对钱没概念的孩子，正在榨干父母的钱包](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+14%E5%B2%81%E5%AD%A9%E5%AD%90%E8%8A%B1%E8%B4%B9%E4%B8%8A%E4%B8%87%E5%85%83%E6%8A%BD%E5%8D%A1%EF%BC%9A%E5%AF%B9%E9%92%B1%E6%B2%A1%E6%A6%82%E5%BF%B5%E7%9A%84%E5%AD%A9%E5%AD%90%EF%BC%8C%E6%AD%A3%E5%9C%A8%E6%A6%A8%E5%B9%B2%E7%88%B6%E6%AF%8D%E7%9A%84%E9%92%B1%E5%8C%85)  
 - [2024-10-26-这条“防风裤”封神了！一秒拥有细长腿，藏肉又保暖](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E8%BF%99%E6%9D%A1%E2%80%9C%E9%98%B2%E9%A3%8E%E8%A3%A4%E2%80%9D%E5%B0%81%E7%A5%9E%E4%BA%86%EF%BC%81%E4%B8%80%E7%A7%92%E6%8B%A5%E6%9C%89%E7%BB%86%E9%95%BF%E8%85%BF%EF%BC%8C%E8%97%8F%E8%82%89%E5%8F%88%E4%BF%9D%E6%9A%96)  
-- [2024-10-23-毁掉孩子人生的第一“杀手”，不是打骂，不是贫穷，而是10岁前......](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%AF%81%E6%8E%89%E5%AD%A9%E5%AD%90%E4%BA%BA%E7%94%9F%E7%9A%84%E7%AC%AC%E4%B8%80%E2%80%9C%E6%9D%80%E6%89%8B%E2%80%9D%EF%BC%8C%E4%B8%8D%E6%98%AF%E6%89%93%E9%AA%82%EF%BC%8C%E4%B8%8D%E6%98%AF%E8%B4%AB%E7%A9%B7%EF%BC%8C%E8%80%8C%E6%98%AF10%E5%B2%81%E5%89%8D......)  
-- [2024-10-23-底层人翻身，从三次背叛开始](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%BA%95%E5%B1%82%E4%BA%BA%E7%BF%BB%E8%BA%AB%EF%BC%8C%E4%BB%8E%E4%B8%89%E6%AC%A1%E8%83%8C%E5%8F%9B%E5%BC%80%E5%A7%8B)  
-- [2024-10-23-你赚的每一分钱，都是有因果的](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%A0%E8%B5%9A%E7%9A%84%E6%AF%8F%E4%B8%80%E5%88%86%E9%92%B1%EF%BC%8C%E9%83%BD%E6%98%AF%E6%9C%89%E5%9B%A0%E6%9E%9C%E7%9A%84)  
-- [2024-10-23-一个人最顶级的社交格局：一半装傻，一半扮哑](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E9%A1%B6%E7%BA%A7%E7%9A%84%E7%A4%BE%E4%BA%A4%E6%A0%BC%E5%B1%80%EF%BC%9A%E4%B8%80%E5%8D%8A%E8%A3%85%E5%82%BB%EF%BC%8C%E4%B8%80%E5%8D%8A%E6%89%AE%E5%93%91)  
+- [2024-10-26-付航脱口秀夺冠，让我见识了最顶级的三观](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BB%98%E8%88%AA%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%BA%E5%86%A0%EF%BC%8C%E8%AE%A9%E6%88%91%E8%A7%81%E8%AF%86%E4%BA%86%E6%9C%80%E9%A1%B6%E7%BA%A7%E7%9A%84%E4%B8%89%E8%A7%82)  
+- [2024-10-26-一个人高情商的标志：把无谓的胜利让给对方](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%AB%98%E6%83%85%E5%95%86%E7%9A%84%E6%A0%87%E5%BF%97%EF%BC%9A%E6%8A%8A%E6%97%A0%E8%B0%93%E7%9A%84%E8%83%9C%E5%88%A9%E8%AE%A9%E7%BB%99%E5%AF%B9%E6%96%B9)  
+- [2024-10-26-摆脱社交内耗最好的方式](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%91%86%E8%84%B1%E7%A4%BE%E4%BA%A4%E5%86%85%E8%80%97%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E5%BC%8F)  
+- [2024-10-26-你的孩子未来会不会抑郁，从“周日晚上”就能看出来……](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%A0%E7%9A%84%E5%AD%A9%E5%AD%90%E6%9C%AA%E6%9D%A5%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%8A%91%E9%83%81%EF%BC%8C%E4%BB%8E%E2%80%9C%E5%91%A8%E6%97%A5%E6%99%9A%E4%B8%8A%E2%80%9D%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E6%9D%A5%E2%80%A6%E2%80%A6)  
 - [2024-10-23-消化负能量的60种方式（值得收藏）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%B6%88%E5%8C%96%E8%B4%9F%E8%83%BD%E9%87%8F%E7%9A%8460%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%88%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%EF%BC%89)  
-- [2024-10-10-住得好的人，运气会好](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%8F%E5%BE%97%E5%A5%BD%E7%9A%84%E4%BA%BA%EF%BC%8C%E8%BF%90%E6%B0%94%E4%BC%9A%E5%A5%BD)  
-- [2024-10-10-渔民冒险发出警示：“海参”已跌落神坛，批发价公开后，震惊所有人](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%B8%94%E6%B0%91%E5%86%92%E9%99%A9%E5%8F%91%E5%87%BA%E8%AD%A6%E7%A4%BA%EF%BC%9A%E2%80%9C%E6%B5%B7%E5%8F%82%E2%80%9D%E5%B7%B2%E8%B7%8C%E8%90%BD%E7%A5%9E%E5%9D%9B%EF%BC%8C%E6%89%B9%E5%8F%91%E4%BB%B7%E5%85%AC%E5%BC%80%E5%90%8E%EF%BC%8C%E9%9C%87%E6%83%8A%E6%89%80%E6%9C%89%E4%BA%BA)  
-- [2024-10-10-没有父母的重阳节（潸然泪下）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%B2%A1%E6%9C%89%E7%88%B6%E6%AF%8D%E7%9A%84%E9%87%8D%E9%98%B3%E8%8A%82%EF%BC%88%E6%BD%B8%E7%84%B6%E6%B3%AA%E4%B8%8B%EF%BC%89)  
-- [2024-10-10-你真正爱不爱自己的孩子，从这10件小事就能看出来](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%A0%E7%9C%9F%E6%AD%A3%E7%88%B1%E4%B8%8D%E7%88%B1%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AD%A9%E5%AD%90%EF%BC%8C%E4%BB%8E%E8%BF%9910%E4%BB%B6%E5%B0%8F%E4%BA%8B%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E6%9D%A5)  
+- [2024-10-23-一个人最顶级的社交格局：一半装傻，一半扮哑](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E9%A1%B6%E7%BA%A7%E7%9A%84%E7%A4%BE%E4%BA%A4%E6%A0%BC%E5%B1%80%EF%BC%9A%E4%B8%80%E5%8D%8A%E8%A3%85%E5%82%BB%EF%BC%8C%E4%B8%80%E5%8D%8A%E6%89%AE%E5%93%91)  
+- [2024-10-23-你赚的每一分钱，都是有因果的](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%A0%E8%B5%9A%E7%9A%84%E6%AF%8F%E4%B8%80%E5%88%86%E9%92%B1%EF%BC%8C%E9%83%BD%E6%98%AF%E6%9C%89%E5%9B%A0%E6%9E%9C%E7%9A%84)  
+- [2024-10-23-底层人翻身，从三次背叛开始](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%BA%95%E5%B1%82%E4%BA%BA%E7%BF%BB%E8%BA%AB%EF%BC%8C%E4%BB%8E%E4%B8%89%E6%AC%A1%E8%83%8C%E5%8F%9B%E5%BC%80%E5%A7%8B)  
+- [2024-10-23-毁掉孩子人生的第一“杀手”，不是打骂，不是贫穷，而是10岁前......](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%AF%81%E6%8E%89%E5%AD%A9%E5%AD%90%E4%BA%BA%E7%94%9F%E7%9A%84%E7%AC%AC%E4%B8%80%E2%80%9C%E6%9D%80%E6%89%8B%E2%80%9D%EF%BC%8C%E4%B8%8D%E6%98%AF%E6%89%93%E9%AA%82%EF%BC%8C%E4%B8%8D%E6%98%AF%E8%B4%AB%E7%A9%B7%EF%BC%8C%E8%80%8C%E6%98%AF10%E5%B2%81%E5%89%8D......)  
 - [2024-10-10-中年以后，投资自己的最好方式](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%AD%E5%B9%B4%E4%BB%A5%E5%90%8E%EF%BC%8C%E6%8A%95%E8%B5%84%E8%87%AA%E5%B7%B1%E7%9A%84%E6%9C%80%E5%A5%BD%E6%96%B9%E5%BC%8F)  
-- [2024-09-07-冷漠的力量（深度好文）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%86%B7%E6%BC%A0%E7%9A%84%E5%8A%9B%E9%87%8F%EF%BC%88%E6%B7%B1%E5%BA%A6%E5%A5%BD%E6%96%87%EF%BC%89)  
-- [2024-09-07-拉开人与人之间差距的，是“闭环思维”](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%8B%89%E5%BC%80%E4%BA%BA%E4%B8%8E%E4%BA%BA%E4%B9%8B%E9%97%B4%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E6%98%AF%E2%80%9C%E9%97%AD%E7%8E%AF%E6%80%9D%E7%BB%B4%E2%80%9D)  
+- [2024-10-10-你真正爱不爱自己的孩子，从这10件小事就能看出来](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%A0%E7%9C%9F%E6%AD%A3%E7%88%B1%E4%B8%8D%E7%88%B1%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AD%A9%E5%AD%90%EF%BC%8C%E4%BB%8E%E8%BF%9910%E4%BB%B6%E5%B0%8F%E4%BA%8B%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E6%9D%A5)  
 - [......【查看更多】......](/details/洞见.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -952,6 +952,7 @@
 </summary>
 
 
+- [2024-11-21-Impressions-on-Web-Summit-2024](https://survivejs.com/blog/impressions-on-web-summit-2024) ![](/assets/new.png)  
 - [2024-10-18-state-ref---Easy-to-integrate-state-management-library---Interview-with-Kim-Jinwoo](https://survivejs.com/blog/state-ref-interview)  
 - [2024-10-11-KaibanJS---Open-source-framework-for-building-multi-agent-AI-systems---Interview-with-Dariel-Vila](https://survivejs.com/blog/kaibanjs-interview)  
 - [2024-09-23-How-to-get-started-with-web-development-in-2024?](https://survivejs.com/blog/how-to-get-started-with-web-development-in-2024)  
@@ -971,7 +972,6 @@
 - [2021-02-12-PropagateAt---Talk-to-your-greatest-fans-via-text---Interview-with-Kumar-Abhirup](https://survivejs.com/blog/propagate-interview)  
 - [2021-02-03-GruCloud---Infrastructure-as-Code-in-JavaScript---Interview-with-Frederic-Heem](https://survivejs.com/blog/grucloud-interview)  
 - [2021-01-29-Renderlesskit-React---Collection-of-composable-headless-hooks---Interview-with-Anurag-Hazra](https://survivejs.com/blog/renderlesskit-interview)  
-- [2021-01-19-PixelCraft---a-Pixel-Art-Editor---Interview-with-Abhishek-Chaudhary](https://survivejs.com/blog/pixelcraft-interview)  
 - [......【查看更多】......](/details/SurviveJS.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1025,6 +1025,8 @@
 </summary>
 
 
+- [2024-11-23-Announcing-TypeScript-5.7](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/) ![](/assets/new.png)  
+- [2024-11-09-Announcing-TypeScript-5.7-RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-rc/) ![](/assets/new.png)  
 - [2024-10-10-Announcing-TypeScript-5.7-Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-beta/)  
 - [2024-09-10-Announcing-TypeScript-5.6](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/)  
 - [2024-08-24-Announcing-TypeScript-5.6-RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-rc/)  
@@ -1077,6 +1079,7 @@
 </summary>
 
 
+- [2024-11-26-Thoughts-on-What-RSC-Means-for-SPAs](https://blog.axlight.com/posts/thoughts-on-what-rsc-means-for-spas/) ![](/assets/new.png)  
 - [2024-09-03-How-I-Got-Involved-in-OSS](https://blog.axlight.com/posts/how-i-got-involved-in-oss/)  
 - [2024-08-18-How-Valtio-Was-Born](https://blog.axlight.com/posts/how-valtio-was-born/)  
 - [2024-08-09-How-Jotai-Was-Born](https://blog.axlight.com/posts/how-jotai-was-born/)  
@@ -1096,7 +1099,6 @@
 - [2021-08-27-How-Valtio-Proxy-State-Works-Vanilla-Part](https://blog.axlight.com/posts/how-valtio-proxy-state-works-vanilla-part/)  
 - [2021-06-10-Testing-Global-State-Libraries-With-React-18-Alpha-Concurrent-Rendering](https://blog.axlight.com/posts/testing-global-state-libraries-with-react-18-alpha-concurrent-rendering/)  
 - [2020-11-29-Developing-a-Memoization-Library-With-Proxies](https://blog.axlight.com/posts/developing-a-memoization-library-with-proxies/)  
-- [2020-08-13-Developing-React-Global-State-Library-With-Atom-Abstraction](https://blog.axlight.com/posts/developing-react-global-state-library-with-atom-abstraction/)  
 - [......【查看更多】......](/details/Daishi Kato's blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1108,6 +1110,8 @@
 </summary>
 
 
+- [2024-11-22-React-Advanced-2024:-Designing-Effective-Documentation](https://blog.isquaredsoftware.com/2024/11/presentations-designing-documentation/) ![](/assets/new.png)  
+- [2024-11-22-React-Summit-US-2024:-Maintaining-a-Library-and-a-Community](https://blog.isquaredsoftware.com/2024/11/presentations-maintaining-community/) ![](/assets/new.png)  
 - [2024-07-10-React-Summit-2024:-Why-Use-Redux-Today?](https://blog.isquaredsoftware.com/2024/07/presentations-why-use-redux/)  
 - [2023-11-14-React-Summit-US-2023:-What's-New-in-Redux-Toolkit-2.0](https://blog.isquaredsoftware.com/2023/11/presentations-rtk-2.0-new/)  
 - [2023-10-24-React-Advanced-2023---Building-Better-React-DevTools-with-Replay-Time-Travel](https://blog.isquaredsoftware.com/2023/10/presentations-react-devtools-replay/)  
@@ -1117,8 +1121,8 @@
 - [2022-12-12-Presentations:-2022-Podcasts](https://blog.isquaredsoftware.com/2022/12/presentations-2022-podcasts/)  
 - [2022-07-06-Blogged-Answers:-How-I-Estimate-NPM-Package-Market-Share-and-how-Redux-usage-compares-to-other-libraries](https://blog.isquaredsoftware.com/2022/07/npm-package-market-share-estimates/)  
 - [2022-06-28-Presentations:-Modern-Redux-with-Redux-Toolkit](https://blog.isquaredsoftware.com/2022/06/presentations-modern-redux-rtk/)  
-- [2022-05-05-Reactathon-2022:-The-Evolution-of-Redux-Async-Logic](https://blog.isquaredsoftware.com/2022/05/presentations-evolution-redux-async-logic/)  
 - [2022-05-05-TS-Congress-2022:-Lesson-from-Maintaining-TS-Libraries](https://blog.isquaredsoftware.com/2022/05/presentations-ts-lib-maintenance/)  
+- [2022-05-05-Reactathon-2022:-The-Evolution-of-Redux-Async-Logic](https://blog.isquaredsoftware.com/2022/05/presentations-evolution-redux-async-logic/)  
 - [2022-03-18-Idiomatic-Redux:-Designing-the-Redux-Toolkit-Listener-Middleware](https://blog.isquaredsoftware.com/2022/03/designing-rtk-listener-middleware/)  
 - [2022-02-16-I'm-Joining-Replay!](https://blog.isquaredsoftware.com/2022/02/joining-replay/)  
 - [2021-12-25-Codebase-Conversion:-Migrating-a-MEAN-AngularJS-app-to-React,-Next.js,-and-TypeScript](https://blog.isquaredsoftware.com/2021/12/codebase-conversion-mean-react-next-ts/)  
@@ -1201,9 +1205,11 @@
 </summary>
 
 
+- [2024-12-07-Shire-1.1-发布：更强大的交互支持，升级-AI-智能体与-IDE-的整合体验](https://zhuanlan.zhihu.com/p/10366904981) ![](/assets/new.png)  
+- [2024-11-04-可编排-AI-编程助手-Shire-1.0-发布：一键连接工具生态，重塑软件开发流程](https://zhuanlan.zhihu.com/p/1226012891) ![](/assets/new.png)  
 - [2024-09-18-Shire-智能体市场：IDE-一键安装多智能体，协同打造集体智慧-Copilot](https://zhuanlan.zhihu.com/p/720770984)  
-- [2024-09-11-Shire.run：Prompt-即代码到-Prompt-即程序，思考-Prompt-的无限可能性](https://zhuanlan.zhihu.com/p/718980184)  
 - [2024-09-11-云端与-IDE-智能体整合：解决工具碎片化，实现-AI-全流程自动编码](https://zhuanlan.zhihu.com/p/718809716)  
+- [2024-09-11-Shire.run：Prompt-即代码到-Prompt-即程序，思考-Prompt-的无限可能性](https://zhuanlan.zhihu.com/p/718980184)  
 - [2024-07-25-Shire-RAG-工作流：在-IDE-中编排-RAG，构建可信的编码智能体](https://zhuanlan.zhihu.com/p/710846881)  
 - [2024-07-10-Shire-编码智能体语言：打造你的专属-AI-IDE-编程助手](https://zhuanlan.zhihu.com/p/708077685)  
 - [2024-06-02-AI-辅助编码三阶段：从更少聊天到更多自动，再到自动化验证](https://zhuanlan.zhihu.com/p/701222734)  
@@ -1219,8 +1225,6 @@
 - [2023-11-15-2024-AIGC-规划：探索交互体验变革与边缘智能基础设施篇](https://zhuanlan.zhihu.com/p/667064306)  
 - [2023-10-17-Prompt-驱动架构设计：探索复杂-AIGC-应用的设计之道？](https://zhuanlan.zhihu.com/p/661861696)  
 - [2023-09-21-代码库-AI-助手构建：如何通过自然语言来与代码对话？](https://zhuanlan.zhihu.com/p/657587640)  
-- [2023-09-03-当大模型不是问题时，如何应对-LLM-的工程化落地挑战？](https://zhuanlan.zhihu.com/p/654076957)  
-- [2023-08-07-花了四个月，打造了一个满意的大模型-IDE-智能插件](https://zhuanlan.zhihu.com/p/648598153)  
 - [......【查看更多】......](/details/Phodal - 手工艺人.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1293,11 +1297,15 @@
 </summary>
 
 
+- [2024-12-01-将-stdc++.h-加到-Macbook-M1/M2/M3-编译环境中](https://blog.devtang.com/2024/12/01/add-stdc-to-macbook-m1/) ![](/assets/new.png)  
+- [2024-11-17-颠覆技术的发展---读《浪潮将至》](https://blog.devtang.com/2024/11/17/wave-coming/) ![](/assets/new.png)  
+- [2024-11-08-如何控制孩子的电脑使用](https://blog.devtang.com/2024/11/08/time-control-of-cspj-learning/) ![](/assets/new.png)  
+- [2024-11-07-CSPJ-教学思考：for-循环](https://blog.devtang.com/2024/11/07/teach-notes-of-for-loop/) ![](/assets/new.png)  
 - [2024-10-27-本份---读《段永平投资回答录》](https://blog.devtang.com/2024/10/27/notes-from-duan-yong-ping/)  
 - [2024-09-27-在-VS-Code-中使用-cin-输入数据](https://blog.devtang.com/2024/09/27/use-cin-in-vscode/)  
 - [2024-09-19-第一性原理思考：解决问题的通用框架续](https://blog.devtang.com/2024/09/19/thinking-pattens/)  
-- [2024-09-17-五分钟弄懂-CSP-J](https://blog.devtang.com/2024/09/17/cspj-introduction/)  
 - [2024-09-17-西贝创始人贾国龙的成与败---读《折腾不止》](https://blog.devtang.com/2024/09/17/talking-with-xibei/)  
+- [2024-09-17-五分钟弄懂-CSP-J](https://blog.devtang.com/2024/09/17/cspj-introduction/)  
 - [2024-09-06-第一性原理思考：解决问题的通用框架](https://blog.devtang.com/2024/09/06/problem-solving-structure/)  
 - [2024-09-01-如何在抖音直播卖货](https://blog.devtang.com/2024/09/01/living-selling-101/)  
 - [2024-06-23-要利润的定价---读《定价制胜》](https://blog.devtang.com/2024/06/23/pricing-strategy/)  
@@ -1309,10 +1317,6 @@
 - [2024-02-17-小马宋的营销总结2---读《卖货真相》](https://blog.devtang.com/2024/02/17/xiaomasong-notes-2/)  
 - [2024-02-09-小马宋的营销总结1---读《营销笔记》](https://blog.devtang.com/2024/02/09/xiaomasong-notes-1/)  
 - [2024-01-29-上下同欲的几种情况](https://blog.devtang.com/2024/01/29/target-mapping-situations/)  
-- [2024-01-15-支持-LGBT](https://blog.devtang.com/2024/01/15/support-LGBT/)  
-- [2024-01-09-跑夜车的滴滴司机](https://blog.devtang.com/2024/01/09/didi-driver-who-work-at-midnight/)  
-- [2024-01-07-将-Hexo-升级到-V7.0](https://blog.devtang.com/2024/01/07/upgrade-hexo-to-v7-0/)  
-- [2024-01-07-重装-M2-的-MBP](https://blog.devtang.com/2024/01/07/install-mac-env/)  
 - [......【查看更多】......](/details/唐巧的技术博客.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1324,6 +1328,7 @@
 </summary>
 
 
+- [2024-11-20-Mastodon’s-weaknesses-and-how-to-fix-them](https://2ality.com/2024/11/mastodon-weaknesses.html) ![](/assets/new.png)  
 - [2024-06-26-Ecma-International-approves-ECMAScript-2024:-What’s-new?](https://2ality.com/2024/06/ecmascript-2024.html)  
 - [2024-06-01-ECMAScript-2024-features:-resizing-and-transferring-ArrayBuffers](https://2ality.com/2024/06/array-buffers-es2024.html)  
 - [2024-05-19-ECMAScript-2023-feature:-symbols-as-WeakMap-keys](https://2ality.com/2024/05/proposal-symbols-as-weakmap-keys.html)  

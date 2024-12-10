@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-02 05:47:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-10 19:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -151,6 +151,8 @@
 - [2024-08-21-TypeScript-中的-satisfies-运算符与-as-运算符的详细对比](https://juejin.cn/post/7405158247585087488) 
 - [2024-07-22-TypeScript技术系列：基础类型详解与应用](https://juejin.cn/post/7393893498435862562) 
 - [2022-03-27-Extract-parameter-types-from-string-literal-types-with-TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/) 
+- [2024-11-23-Announcing-TypeScript-5.7](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/) 
+- [2024-11-09-Announcing-TypeScript-5.7-RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-rc/) 
 - [2024-10-10-Announcing-TypeScript-5.7-Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-beta/) 
 - [2024-09-10-Announcing-TypeScript-5.6](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/) 
 - [2024-08-24-Announcing-TypeScript-5.6-RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-rc/) 
