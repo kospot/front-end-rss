@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-10 19:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-18 15:08:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -433,6 +433,7 @@
 - [2021-12-20-淘系前端架构---周刊---211220-期](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494952&idx=1&sn=f0faeba878fdb5693f2faa1d15ccf08d&chksm=ec47a6ebdb302ffd04fbd6154e94733fdb14f6171dc37dd7c7c1e45d1692fea82f9cf1b258b1#rd) 
 - [2020-08-25-如何在应用架构中设计微前端方案---icestark](https://fed.taobao.org/blog/taofed/do71ct/xgmaz3) 
 - [2020-04-27-前端AB实验设计思路与实现原理](https://fed.taobao.org/blog/taofed/do71ct/frontend-ab-test) 
+- [2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/) 
 - [2023-07-28-科技爱好者周刊（第-264-期）：Elasticsearch-的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html) 
 - [2022-08-02-DNS-查询原理详解](http://www.ruanyifeng.com/blog/2022/08/dns-query.html) 
 - [2022-03-18-科技爱好者周刊（第-199-期）：俄罗斯的-HTTPS-证书问题](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html) 
@@ -477,8 +478,10 @@
 - [2024-05-06-AutoDev-for-VSCode-预览版：精准-AI-编程提示词与编辑器的完美融合](https://zhuanlan.zhihu.com/p/696080970) 
 - [2023-09-03-当大模型不是问题时，如何应对-LLM-的工程化落地挑战？](https://zhuanlan.zhihu.com/p/654076957) 
 - [2024-08-01-fastify/fastify](https://github.com/fastify/fastify) 
+- [2025-01-05-CSPJ-教学思考：贪心算法](https://blog.devtang.com/2025/01/05/cspj-notes-of-greedy-algorithm/) 
 - [2024-09-19-第一性原理思考：解决问题的通用框架续](https://blog.devtang.com/2024/09/19/thinking-pattens/) 
 - [2024-09-06-第一性原理思考：解决问题的通用框架](https://blog.devtang.com/2024/09/06/problem-solving-structure/) 
+- [2025-01-01-WebAssembly-as-an-ecosystem-for-programming-languages](https://2ality.com/2025/01/webassembly-language-ecosystem.html) 
 - [2024-11-20-Mastodon’s-weaknesses-and-how-to-fix-them](https://2ality.com/2024/11/mastodon-weaknesses.html) 
 - [2024-01-15-前端\算法招聘-|-与抖音网红线下互动，快来巨量星图！](https://zhuanlan.zhihu.com/p/677950706) 
 - [2021-10-25-如何实现语言服务插件---volar-原理解析](https://zhuanlan.zhihu.com/p/425449041) 

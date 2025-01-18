@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-10 19:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-18 15:08:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -488,8 +488,8 @@
 - [2021-10-20-New-Ways-to-Vue](https://antfu.me/posts/new-ways-to-vue-london-2021) 
 - [2021-04-29-Composable-Vue](https://antfu.me/posts/composable-vue-vueday-2021) 
 - [2021-03-06-Typed-Provide-and-Inject-in-Vue](https://antfu.me/posts/typed-provide-and-inject-in-vue) 
-- [2020-07-01-Vue-3-Migration-Notes](https://antfu.me/posts/vue-3-notes) 
 - [2020-07-01-Make-Libraries-Working-with-Vue-2-and-3](https://antfu.me/posts/make-libraries-working-with-vue-2-and-3) 
+- [2020-07-01-Vue-3-Migration-Notes](https://antfu.me/posts/vue-3-notes) 
 - [2020-06-28-Type-Inferencing-in-Vue](https://antfu.me/posts/type-inferencing-in-vue) 
 - [2024-07-12-SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) 
 - [2021-05-06-哈哈，快来看看5月22日的VueConf-21](https://zhuanlan.zhihu.com/p/369925818) 

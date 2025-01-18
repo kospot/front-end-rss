@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-10 19:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-18 15:08:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -603,6 +603,7 @@
 - [2015-07-31-SurviveJS---Webpack-and-React---v1.5](https://survivejs.com/blog/survivejs-15) 
 - [2020-01-05-Reactivity-in-Web-Frameworks-Part-1](https://lihautan.com/reactivity-in-web-frameworks-the-when/) 
 - [2017-11-16-Dynamically-load-reducers-for-code-splitting-in-a-React-Redux-application](https://lihautan.com/dynamically-load-async-reducer-for-code-splitting-in-react/) 
+- [2025-01-07-Thoughts-on-State-Management-Libraries-in-the-React-Compiler-Era](https://blog.axlight.com/posts/thoughts-on-state-management-libraries-in-the-react-compiler-era/) 
 - [2023-04-23-Why-You-Don't-Need-Signals-in-React](https://blog.axlight.com/posts/why-you-dont-need-signals-in-react/) 
 - [2023-02-26-Demystifying-Create-React-Signals-Internals](https://blog.axlight.com/posts/demystifying-create-react-signals-internals/) 
 - [2023-01-31-You-Might-Not-Need-React-Query-for-Jotai](https://blog.axlight.com/posts/you-might-not-need-react-query-for-jotai/) 

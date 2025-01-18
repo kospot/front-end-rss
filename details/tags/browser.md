@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-10 19:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-18 15:08:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -446,6 +446,7 @@
 - [2024-07-05-浏览器的储存空间，你知道吗？](https://juejin.cn/post/7388025457822859274) 
 - [2024-04-24-LLM-安全-|-大语言模型应用安全入门](https://juejin.cn/post/7361253974051602441) 
 - [2024-04-24-LLM-安全-|-大语言模型应用安全入门](https://juejin.cn/post/7361253974051602441) 
+- [2025-01-16-美团技术年货-|-600+页电子书，算法、工程、测试、数据、安全系列大合集](https://tech.meituan.com/2025/01/16/2024-spring-festival-present.html) 
 - [2024-10-23-Show-Baseline-status-on-your-blog-posts-and-presentations](https://web.dev/blog/show-baseline-status?hl=en) 
 - [2024-09-16-Build-responsible-web-experiences-with-generative-AI](https://web.dev/blog/generative-ai-best-practices?hl=en) 
 - [2024-09-10-Chrome-ends-support-for-First-Input-Delay](https://web.dev/blog/fid?hl=en) 

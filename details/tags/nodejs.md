@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-10 19:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-18 15:08:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,8 @@
 
 
 
+- [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562) 
+- [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560) 
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558) 
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556) 
 - [2024-11-12-Node-v23.2-released](https://nodeweekly.com/issues/555) 
@@ -95,6 +97,7 @@
 - [2021-12-23-Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419) 
 - [2021-12-16-Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418) 
 - [2021-12-02-One-dev's-journey-from-Node-to-Rust](https://nodeweekly.com/issues/416) 
+- [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716) 
 - [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706) 
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701) 
 - [2022-10-14-Node-to-keep-an-eye-on-your-code](https://javascriptweekly.com/issues/610) 
@@ -377,4 +380,5 @@
 - [2019-01-22-My-first-WebAssembly-trial-with-Node.js-only](https://blog.axlight.com/posts/my-first-webassembly-trial-with-node-js-only/) 
 - [2024-07-12-expressjs/express](https://github.com/expressjs/express) 
 - [2024-07-08-nodejs/node](https://github.com/nodejs/node) 
+- [2025-01-10-ECMAScript-feature:-regular-expression-pattern-modifiers](https://2ality.com/2025/01/regexp-modifiers.html) 
 - [2024-05-16-ECMAScript-2025-feature:-duplicate-named-capturing-groups-for-regular-expressions](https://2ality.com/2024/05/proposal-duplicate-named-capturing-groups.html) 

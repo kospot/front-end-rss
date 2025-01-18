@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2024-07-06 16:56:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-18 15:08:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Anthony Fu
 
 
 
 
+- [2025-01-07-Epoch-Semantic-Versioning](https://antfu.me/posts/epoch-semver) 
+- [2025-01-01-CPU-Profiling-Nuxt](https://antfu.me/posts/nuxt-cpuprofile) 
+- [2024-11-26-Introducing-Nuxt-Icon-v1](https://antfu.me/posts/nuxt-icon-v1) 
 - [2024-04-20-Initiative-on-Sponsorship-Forwarding](https://antfu.me/posts/sponsorship-forwarding) 
 - [2024-04-10-Refreshed-Nuxt-ESLint-Integrations](https://antfu.me/posts/refreshed-nuxt-eslint) 
 - [2024-04-06-Introducing-ESLint-Config-Inspector](https://antfu.me/posts/eslint-config-inspector) 
@@ -55,8 +58,8 @@
 - [2021-03-25-Type-your-Config](https://antfu.me/posts/type-your-config) 
 - [2021-03-19-Windi-CSS-and-Tailwind-JIT](https://antfu.me/posts/windicss-and-tailwind-jit) 
 - [2021-03-06-Typed-Provide-and-Inject-in-Vue](https://antfu.me/posts/typed-provide-and-inject-in-vue) 
-- [2021-03-02-Types-for-Submodules](https://antfu.me/posts/types-for-sub-modules) 
 - [2021-03-02-Color-Scheme-for-VS-Code](https://antfu.me/posts/color-scheme-for-vscode-ext) 
+- [2021-03-02-Types-for-Submodules](https://antfu.me/posts/types-for-sub-modules) 
 - [2021-03-01-Match-Quotes-in-Pairs](https://antfu.me/posts/match-quotes-in-pairs) 
 - [2021-02-26-Match-Chinese-Characters](https://antfu.me/posts/match-chinese-characters) 
 - [2021-02-21-Netlify-Redirects](https://antfu.me/posts/netlify-redirects) 
@@ -64,8 +67,8 @@
 - [2020-10-22-Destructuring...-with-object-or-array?](https://antfu.me/posts/destructuring-with-object-or-array) 
 - [2020-09-18-Watch-with-@vue/reactivity](https://antfu.me/posts/watch-with-reactivity) 
 - [2020-08-17-Journey-with-Icons](https://antfu.me/posts/journey-with-icons) 
-- [2020-07-01-Vue-3-Migration-Notes](https://antfu.me/posts/vue-3-notes) 
 - [2020-07-01-Make-Libraries-Working-with-Vue-2-and-3](https://antfu.me/posts/make-libraries-working-with-vue-2-and-3) 
+- [2020-07-01-Vue-3-Migration-Notes](https://antfu.me/posts/vue-3-notes) 
 - [2020-06-28-Type-Inferencing-in-Vue](https://antfu.me/posts/type-inferencing-in-vue) 
 - [2020-06-18-Domain-Email](https://antfu.me/posts/domain-email) 
 - [2020-06-13-New-House](https://antfu.me/posts/new-house) 

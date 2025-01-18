@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-10 19:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-18 15:08:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561) 
 - [2024-08-27-Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545) 
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542) 
 - [2024-03-12-Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524) 
@@ -170,4 +171,5 @@
 - [2023-07-19-Why-Zustand-Typescript-Implementation-Is-So-Ugly](https://blog.axlight.com/posts/why-zustand-typescript-implementation-is-so-ugly/) 
 - [2021-02-19-换个角度理解-Typescript-的-type-和-interface](https://zhuanlan.zhihu.com/p/351213183) 
 - [2021-01-12-Embrace-TypeScript](https://zhuanlan.zhihu.com/p/342240878) 
+- [2025-01-08-Node’s-new-built-in-support-for-TypeScript](https://2ality.com/2025/01/nodejs-strip-type.html) 
 - [2022-11-14-从类型兼容开始，认识-TypeScript](https://zhuanlan.zhihu.com/p/583361540) 

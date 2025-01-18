@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-10 19:00:54。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-01-18 15:08:32。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -110,6 +110,7 @@
 
 
 
+- [【Node-Weekly】Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)
 - [【Node-Weekly】Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545)
 - [【Node-Weekly】Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)
 - [【Node-Weekly】Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524)
@@ -129,7 +130,6 @@
 - [【前端早读课】【第3071期】TypeScript纪录片---开创微软的开源之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266067&idx=1&sn=efd469afca51169b6a565a920b931585&chksm=bd48c5978a3f4c814012a15ca21ad57048219937ad898bd61c9ecc6a6dee53c1388a86420a62#rd)
 - [【前端早读课】【第3047期】基于-RPC-和-TypeScript-的-BFF-设计与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265610&idx=1&sn=d95c6f8c6b99366b2e5f2b868f4d1d59&chksm=bd48c3ce8a3f4ad815b6b47f399c1dea1d8054323b32e51e51f64ffda86665bc8a73df9e6fa2#rd)
 - [【前端早读课】【第3030期】从集合论的角度理解-TypeScript](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264982&idx=1&sn=38d7d660dc6c5dc5fe4a28b2b90c06a9&chksm=bd48ce528a3f4744045c26769b600409d168d40168354af0ed38eca4d6eb4fb0c89c99c35d5e#rd)
-- [【前端早读课】【第3000期】TypeScript-的演进之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264004&idx=1&sn=2fad27fc70848c861570cfd2fe10823b&chksm=bd48cd808a3f449613db47ad3a6051b8cbb74c4bc8ed92c16703d99066319cc2637e8d72855e#rd)
 - [......【查看更多】......](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -182,6 +182,8 @@
 
 
 
+- [【Node-Weekly】2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)
+- [【Node-Weekly】A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)
 - [【Node-Weekly】A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)
 - [【Node-Weekly】Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)
 - [【Node-Weekly】Node-v23.2-released](https://nodeweekly.com/issues/555)
@@ -200,8 +202,6 @@
 - [【Node-Weekly】The-newest-Node.js-runtime-features](https://nodeweekly.com/issues/534)
 - [【Node-Weekly】The-Node.js-Advocacy-Ambassador-program?](https://nodeweekly.com/issues/533)
 - [【Node-Weekly】Running-other-processes-from-Node,-but-better](https://nodeweekly.com/issues/532)
-- [【Node-Weekly】Node-22.1,-now-with-even-more-performance](https://nodeweekly.com/issues/531)
-- [【Node-Weekly】Node.js-22-has-entered-the-building](https://nodeweekly.com/issues/530)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -330,6 +330,9 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719)
+- [【JavaScript-Weekly】The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718)
+- [【JavaScript-Weekly】A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)
 - [【JavaScript-Weekly】Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715)
 - [【JavaScript-Weekly】Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714)
 - [【JavaScript-Weekly】JSConf-is-back](https://javascriptweekly.com/issues/712)
@@ -343,9 +346,6 @@
 - [【JavaScript-Weekly】How-Googlebot-sees-your-JavaScript](https://javascriptweekly.com/issues/699)
 - [【JavaScript-Weekly】What's-new-for-us-in-ECMAScript-2024](https://javascriptweekly.com/issues/698)
 - [【JavaScript-Weekly】Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697)
-- [【JavaScript-Weekly】Breaking-a-promise](https://javascriptweekly.com/issues/695)
-- [【JavaScript-Weekly】Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)
-- [【JavaScript-Weekly】A-variety-of-JS-hacks-and-creative-coding](https://javascriptweekly.com/issues/690)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -408,6 +408,7 @@
 - [【前端之巅】为什么要用-picture-标签代替-img-标签？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506985&idx=2&sn=2d52b27efe0d52fc3eb2a9761ad0c15e&chksm=f952696ace25e07c37b85512410826383a3f6ea1667b4fbfc1245819b7ccb91347cb58292090&scene=27#wechat_redirect)
 - [【前端之巅】容易被忽略的5个HTML技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506806&idx=2&sn=f088238e232600ebabbfc44390c394aa&chksm=f9526e35ce25e723db74e4fd001405765e15ae74ee3853799f4ec70a0f8dc6ca381be7b7a457&scene=27#wechat_redirect)
 - [【前端之巅】HTML规范未来还需要哪些新内容？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=2&sn=6bfd6cee50f9ec6b96ab0ba7592939cc&chksm=f95257eece25def86b3ad56aefa87f8c7c1f5dbbc1760ebc5fbbd146d346a05629c1e8342005#rd)
+- [【张鑫旭-鑫空间-鑫生活】HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/)
 - [【张鑫旭-鑫空间-鑫生活】关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/)
 - [【张鑫旭-鑫空间-鑫生活】记一次技术交流，-feMerge滤镜复制任意HTML投影](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/)
@@ -417,7 +418,6 @@
 - [【张鑫旭-鑫空间-鑫生活】告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/)
 - [【张鑫旭-鑫空间-鑫生活】密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/)
-- [【张鑫旭-鑫空间-鑫生活】HTML-slot-插槽元素深入](https://www.zhangxinxu.com/wordpress/2021/09/html-slot-dom/)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【Node-Weekly】requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)
 - [【Node-Weekly】Taming-event-loop-lag](https://nodeweekly.com/issues/538)
 - [【Node-Weekly】Leaky-timeouts](https://nodeweekly.com/issues/535)
 - [【Node-Weekly】Say-hi-to-Rocket-Turtle](https://nodeweekly.com/issues/522)
@@ -739,7 +740,6 @@
 - [【Node-Weekly】✂️-Cutting-away-the-unused-parts-of-your-project](https://nodeweekly.com/issues/458)
 - [【Node-Weekly】Using-ML-to-rewrite-a-test-suite-to-Playwright](https://nodeweekly.com/issues/453)
 - [【Node-Weekly】The-ins-and-outs-of-'bin'-scripts](https://nodeweekly.com/issues/452)
-- [【Node-Weekly】All's-shell-that-ends-shell.](https://nodeweekly.com/issues/445)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
