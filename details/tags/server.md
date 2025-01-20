@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-18 15:08:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-20 11:52:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -111,6 +111,9 @@
 - [2023-08-19-Mac-环境快速安装-Homebrew-&amp;-Nginx-教程](http://www.yyyweb.com/5518.html) 
 - [2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html) 
 - [2018-09-06-Apollo-GraphQL-在-Web-APP-中应用的思考](http://www.yyyweb.com/5151.html) 
+- [2024-09-18-alvin0/redis-model:-Redis-Model-将帮助在-Redis-中创建多个具有相同前缀的键，并将这些键组合在一起，作为-SQL-数据库中的一个表。](https://github.com/guanguans/favorite-link/commit/979375bf3f616d76a0ab69e815b5f6118eae7b5a) 
+- [2024-09-14-chesslablab/php-chess:-PHP-的国际象棋库。](https://github.com/guanguans/favorite-link/commit/af8ef352d9bebcf6573634f9043eaaaf90b4b8bc) 
+- [2024-09-13-CodeWithDennis/larament:-这个节省时间的入门套件包括一个已经安装和设置了-FilamentPHP-3-的-Laravel-11，以及额外的功能。](https://github.com/guanguans/favorite-link/commit/96ff295f01b42efc192b05a88434adaad447b6bb) 
 - [2024-09-09-abublihi/laravel-external-jwt-guard:-这是一个-laravel-自定义-auth-guard，用于使用外部-JWT-对用户进行身份验证](https://github.com/guanguans/favorite-link/commit/43295b6f6f19ed2d6f9baefef0e580c20529dfc8) 
 - [2024-09-05-PHP-8.4-属性钩子](https://github.com/guanguans/favorite-link/commit/0e4d617c92004fefc9b3a00bbebe42533149595c) 
 - [2024-09-04-czproject/phpdepend:-从PHP文件或代码片段中提取依赖项列表（类、接口和特征）。](https://github.com/guanguans/favorite-link/commit/4266a6a658d4c32341ca1d7bddf294bdc92b858a) 
@@ -123,12 +126,12 @@
 - [2024-08-05-JonPurvis/profanify:-🧼-一个-PestPHP-插件，可帮助捕获应用程序中的亵渎内容。](https://github.com/guanguans/favorite-link/commit/7755d945f05670dcf18091577b8dcae0215490b8) 
 - [2024-07-23-ChrisBuilds/terminaltexteffects:-TerminalTextEffects-TTE-是一个终端视觉效果引擎、应用程序和-Python-库。](https://github.com/guanguans/favorite-link/commit/26b31f8980377fd25915c087976c62d75e0a88f2) 
 - [2024-07-22-PHPExpertsInc/SimpleDTO:-一个易于使用的-PHP-通用-DTO-包。](https://github.com/guanguans/favorite-link/commit/087d429c503861a4991ef6877a2b58532b76ffe8) 
-- [2024-07-19-kattouf/ProgressLine:-以紧凑的单行格式跟踪命令进度](https://github.com/guanguans/favorite-link/commit/968d759e99aae85f34b45ef5507d16753614d8d8) 
 - [2024-07-19-scop/bash-completion:-用于-bash-的可编程完成函数](https://github.com/guanguans/favorite-link/commit/27cfd7c75d58284a0c4e5cb0c33d9af86f26bcc3) 
+- [2024-07-19-kattouf/ProgressLine:-以紧凑的单行格式跟踪命令进度](https://github.com/guanguans/favorite-link/commit/968d759e99aae85f34b45ef5507d16753614d8d8) 
 - [2024-07-16-DaltonMcCleery/remote-models:-有时您想使用-Eloquent，但该数据位于不同应用程序的另一个数据库中。](https://github.com/guanguans/favorite-link/commit/e4cc24317d299ab4298f9e623ebc21af64c20bbd) 
 - [2024-07-15-m3m0r7/php-os:-用-PHP-编写的操作系统](https://github.com/guanguans/favorite-link/commit/407b6ac6333ec2955a9dd539d5c1d0cb3e03457f) 
-- [2024-07-10-bytedance/mockey:-简单易用的-golang-模拟库](https://github.com/guanguans/favorite-link/commit/4bd6352c268065d5617abc7650c56f12d55e8494) 
 - [2024-07-10-loong/go-concurrency-exercises:-loong/go-concurrency-exercises:-Golang-并发模式练习。](https://github.com/guanguans/favorite-link/commit/3a0f299f4a28b121ec2f4013c659478ed860ee13) 
+- [2024-07-10-bytedance/mockey:-简单易用的-golang-模拟库](https://github.com/guanguans/favorite-link/commit/4bd6352c268065d5617abc7650c56f12d55e8494) 
 - [2024-07-08-ytake/phluxor:-PHP-中灵活的参与者模型工具包，增强-PHP-生态系统的能力](https://github.com/guanguans/favorite-link/commit/07e48ed13f2c8d4be4851f896d395be35899c8a4) 
 - [2024-09-17-Go：开源命令行词典工具---`dictcli`-推荐](https://juejin.cn/post/7414732719040233472) 
 - [2024-08-05-nginx的安装与启动](https://juejin.cn/post/7399496845276004362) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-18 15:08:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-20 11:52:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -1185,17 +1185,18 @@
 - [2018-09-05-面向初学者：什么是高阶组件？](http://www.yyyweb.com/5190.html) 
 - [2018-08-19-据说是最好的正则表达式的教程笔记](http://www.yyyweb.com/5141.html) 
 - [2018-07-27-6个提升程序员幸福感的-JavaScript-小技巧](http://www.yyyweb.com/5112.html) 
-- [2024-09-09-gwleuverink/asset-injector:-将-JS-和-CSS-自动插入网页响应，从而简化-Laravel-软件包开发。让用户无需手动添加资产](https://github.com/guanguans/favorite-link/commit/3d4c5f0d2dab159ef5fd42f3b7efdcd4f4dfae83) 
+- [2024-09-18-Thavarshan/fetch-php:-🚀-一个轻量级-HTTP-库，其灵感来自-JavaScript-的-fetch，为-PHP-HTTP-请求带来了简单性和灵活性。](https://github.com/guanguans/favorite-link/commit/d0304b5bc3daae34f798bc481a6269dc1f90caf4) 
 - [2024-09-09-scrivo/highlight.php:-将-highlight.js-移植到-PHP](https://github.com/guanguans/favorite-link/commit/535edf03c84e2b4aaff09ea880824d2652d669fd) 
+- [2024-09-09-gwleuverink/asset-injector:-将-JS-和-CSS-自动插入网页响应，从而简化-Laravel-软件包开发。让用户无需手动添加资产](https://github.com/guanguans/favorite-link/commit/3d4c5f0d2dab159ef5fd42f3b7efdcd4f4dfae83) 
 - [2024-08-26-MaestroError/eloquent-regex:-Eloquent-Regex-为正则表达式带来了简洁与优雅。](https://github.com/guanguans/favorite-link/commit/1a8c179a933b322ffbafd36602c05c7ac0e8be5d) 
 - [2024-08-19-kkguan/php-accessor:-为-PHP-生成-getter-和-setter-方法](https://github.com/guanguans/favorite-link/commit/8be39f272acb638eb15ee6766997143d6de9f064) 
-- [2024-08-02-Sti3bas/laravel-scout-array-driver:-Laravel-Scout-的数组驱动程序](https://github.com/guanguans/favorite-link/commit/7d307433b3cb2ae4216f6bd2d8a4156d1cac9435) 
 - [2024-08-02-Laravel-11-JSON-Web-TokenJWT-API-身份验证教程](https://github.com/guanguans/favorite-link/commit/1bad43be23cecf9aa400edfc230e596979c942d9) 
-- [2024-08-01-iteks/laravel-enum:-一个全面的-Laravel-软件包，提供增强的枚举功能，包括属性处理、选择数组转换和流畅的门面交互，从而在-Laravel-应用程序中实现稳健的枚举...](https://github.com/guanguans/favorite-link/commit/9c6dfa317ec4759814cd26b490cff7965e3ab45b) 
+- [2024-08-02-Sti3bas/laravel-scout-array-driver:-Laravel-Scout-的数组驱动程序](https://github.com/guanguans/favorite-link/commit/7d307433b3cb2ae4216f6bd2d8a4156d1cac9435) 
 - [2024-08-01-Safemood/laravel-workflow:-Laravel-软件包通过清晰的操作定义和事件跟踪简化了工作流程。](https://github.com/guanguans/favorite-link/commit/59cce7f18fc3b2ac9d3da02be05a763cdda9430e) 
+- [2024-08-01-iteks/laravel-enum:-一个全面的-Laravel-软件包，提供增强的枚举功能，包括属性处理、选择数组转换和流畅的门面交互，从而在-Laravel-应用程序中实现稳健的枚举...](https://github.com/guanguans/favorite-link/commit/9c6dfa317ec4759814cd26b490cff7965e3ab45b) 
 - [2024-07-22-m3m0r7/async-promise:-用-PHP-编写的异步-Promise-库](https://github.com/guanguans/favorite-link/commit/e869d377bc1eddbdc329cb3aa8bf879b13f19c6e) 
-- [2024-07-05-permafrost-dev/php-code-search:-直接从-PHP-源代码中搜索函数和方法调用、变量赋值、类等内容。](https://github.com/guanguans/favorite-link/commit/45e255ff10b769204318520f44f9f5416defd2fd) 
 - [2024-07-05-php-type-language/mapper:-你见过的最好的-PHP-映射器（水合器/序列器）！](https://github.com/guanguans/favorite-link/commit/eee1baa78eab577570ca13e0503e78e2900719e4) 
+- [2024-07-05-permafrost-dev/php-code-search:-直接从-PHP-源代码中搜索函数和方法调用、变量赋值、类等内容。](https://github.com/guanguans/favorite-link/commit/45e255ff10b769204318520f44f9f5416defd2fd) 
 - [2024-09-18-js-动态获取元素宽高的几种方式](https://juejin.cn/post/7415776780047007753) 
 - [2024-09-18-14.JS高级-对象方法的补充以及创建对象方案](https://juejin.cn/post/7415651555112747008) 
 - [2024-09-09-虚拟dom转成真实dom](https://juejin.cn/post/7412489953987313714) 

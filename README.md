@@ -10,28 +10,28 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-01-18 15:08:31，:rocket: 更新条数: +53， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-20 11:52:28，:rocket: 更新条数: +14， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
-- [favorite-link](#favorite-link)  
+- [favorite-link](#favorite-link)![](/assets/dot.png)   
 - [酷-壳-–-CoolShell](#酷-壳-–-coolshell)  
 - [掘金前端](#掘金前端)  
 - [掘金字节前端](#掘金字节前端)  
 - [掘金飞猪前端](#掘金飞猪前端)  
-- [美团技术团队](#美团技术团队)![](/assets/dot.png)   
-- [web.dev](#web.dev)![](/assets/dot.png)   
+- [美团技术团队](#美团技术团队)  
+- [web.dev](#web.dev)  
 - [少数派](#少数派)![](/assets/dot.png)   
-- [洞见](#洞见)![](/assets/dot.png)   
+- [洞见](#洞见)  
 - [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
@@ -40,11 +40,11 @@
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
-- [Randy's-Blog](#randy's-blog)![](/assets/dot.png)   
+- [Randy's-Blog](#randy's-blog)  
 - [googleUpdates](#googleupdates)  
 - [知乎专栏前端精读](#知乎专栏前端精读)  
 - [萧宸宇](#萧宸宇)  
-- [Anthony-Fu](#anthony-fu)![](/assets/dot.png)   
+- [Anthony-Fu](#anthony-fu)  
 - [oldj's-blog](#oldj's-blog)  
 - [SurviveJS](#survivejs)  
 - [Devtrium](#devtrium)  
@@ -52,7 +52,7 @@
 - [TypeScript](#typescript)  
 - [sorrycc/blog](#sorrycc/blog)  
 - [阳志平的网志](#阳志平的网志)  
-- [Daishi-Kato's-blog](#daishi-kato's-blog)![](/assets/dot.png)   
+- [Daishi-Kato's-blog](#daishi-kato's-blog)  
 - [Mark's-Dev-Blog](#mark's-dev-blog)  
 - [Ben-Awad](#ben-awad)  
 - [Jake-Archibald's-blog](#jake-archibald's-blog)  
@@ -60,7 +60,7 @@
 - [Phodal---手工艺人](#phodal---手工艺人)  
 - [Trending-JavaScript-repositories](#trending-javascript-repositories)  
 - [阿里-CCO-体验技术专刊](#阿里-cco-体验技术专刊)  
-- [唐巧的技术博客](#唐巧的技术博客)![](/assets/dot.png)   
+- [唐巧的技术博客](#唐巧的技术博客)  
 - [2ality](#2ality)![](/assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)  
 - [InfoQ](#infoq)  
@@ -74,10 +74,10 @@
 </summary>
 
 
-- [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562) ![](/assets/new.png)  
-- [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561) ![](/assets/new.png)  
-- [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560) ![](/assets/new.png)  
-- [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559) ![](/assets/new.png)  
+- [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)  
+- [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)  
+- [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)  
+- [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)  
@@ -105,10 +105,10 @@
 </summary>
 
 
-- [2025-01-17-An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719) ![](/assets/new.png)  
-- [2025-01-10-The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718) ![](/assets/new.png)  
-- [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717) ![](/assets/new.png)  
-- [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716) ![](/assets/new.png)  
+- [2025-01-17-An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719)  
+- [2025-01-10-The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718)  
+- [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)  
+- [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716)  
 - [2024-12-05-Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715)  
 - [2024-11-21-Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714)  
 - [2024-11-14-Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713)  
@@ -260,12 +260,12 @@
 </summary>
 
 
-- [2025-01-14-如何手搓SVG半圆弧，手把手教程](https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/) ![](/assets/new.png)  
-- [2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/) ![](/assets/new.png)  
-- [2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/) ![](/assets/new.png)  
-- [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/) ![](/assets/new.png)  
-- [2024-12-23-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/) ![](/assets/new.png)  
-- [2024-12-11-全新的CSS相对颜色语法-使用from和calc](https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/) ![](/assets/new.png)  
+- [2025-01-14-如何手搓SVG半圆弧，手把手教程](https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/)  
+- [2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/)  
+- [2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/)  
+- [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/)  
+- [2024-12-23-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/)  
+- [2024-12-11-全新的CSS相对颜色语法-使用from和calc](https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/)  
 - [2024-12-06-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/)  
 - [2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/)  
 - [2024-11-29-CSS好用的color-mix颜色函数也可以使用啦](https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/)  
@@ -291,9 +291,9 @@
 </summary>
 
 
-- [2025-01-17-科技爱好者周刊（第-334-期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html) ![](/assets/new.png)  
-- [2025-01-16-AI-搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html) ![](/assets/new.png)  
-- [2025-01-10-科技爱好者周刊（第-333-期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html) ![](/assets/new.png)  
+- [2025-01-17-科技爱好者周刊（第-334-期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html)  
+- [2025-01-16-AI-搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html)  
+- [2025-01-10-科技爱好者周刊（第-333-期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html)  
 - [2024-12-06-科技爱好者周刊（第-328-期）：AI-模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html)  
 - [2024-12-02-AI-应用无代码开发教程：工作流模式详解](http://www.ruanyifeng.com/blog/2024/12/no-code-ai-tutorial.html)  
 - [2024-11-29-科技爱好者周刊（第-327-期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html)  
@@ -353,26 +353,26 @@
 </summary>
 
 
-- [2024-09-09-Honeystone/laravel-dto-tools:-一套全面的-Laravel-DTO-工具。](https://github.com/guanguans/favorite-link/commit/5b98239d40706fa4b1763d516ba18cbfe0a6041e)  
-- [2024-09-09-idootop/mi-gpt:-🏠-将小爱音箱接入-ChatGPT-和豆包，改造成你的专属语音助手。](https://github.com/guanguans/favorite-link/commit/2affd7bcab14fd5b47c7ad353df3aefb6b689e29)  
-- [2024-09-09-gwleuverink/asset-injector:-将-JS-和-CSS-自动插入网页响应，从而简化-Laravel-软件包开发。让用户无需手动添加资产](https://github.com/guanguans/favorite-link/commit/3d4c5f0d2dab159ef5fd42f3b7efdcd4f4dfae83)  
-- [2024-09-09-Laravel-11-Reverb-实时通知示例](https://github.com/guanguans/favorite-link/commit/6a433672c3851d4d8c5d3a2c018a38bf6a7967dc)  
-- [2024-09-09-在-MySQL-中存储货币值的不同策略](https://github.com/guanguans/favorite-link/commit/87d00efe35bdb032ffa1110c6915149bcbf6735c)  
-- [2024-09-09-michael-rubel/laravel-octane-best-practices:-供您的团队遵循的-Laravel-Octane-最佳实践的编译列表。](https://github.com/guanguans/favorite-link/commit/a1f5c31f4d085ed40100cae23790935d92a58a77)  
-- [2024-09-09-abublihi/laravel-external-jwt-guard:-这是一个-laravel-自定义-auth-guard，用于使用外部-JWT-对用户进行身份验证](https://github.com/guanguans/favorite-link/commit/43295b6f6f19ed2d6f9baefef0e580c20529dfc8)  
-- [2024-09-09-pinkary-project/pinkary.com:-Pinkary-是您所有链接的登陆页面，也是一个与志趣相投的人进行无噪音联系的地方。](https://github.com/guanguans/favorite-link/commit/b575a8874f16b72bb85287fc808f9e15987c4aad)  
+- [2024-09-18-alvin0/redis-model:-Redis-Model-将帮助在-Redis-中创建多个具有相同前缀的键，并将这些键组合在一起，作为-SQL-数据库中的一个表。](https://github.com/guanguans/favorite-link/commit/979375bf3f616d76a0ab69e815b5f6118eae7b5a) ![](/assets/new.png)  
+- [2024-09-18-AuroraWebSoftware/FlyModel:-FlyModel-是一个-Laravel-软件包，它能让你动态地创建和管理模型。](https://github.com/guanguans/favorite-link/commit/265cba14ce1251b18a027c7813e4cd16e1f34364) ![](/assets/new.png)  
+- [2024-09-18-spriebsch/identifier-generator:-基于-UUID-的索引值对象的代码生成器。](https://github.com/guanguans/favorite-link/commit/c378f988e8ac0c7299f2f691cb820fabb986595c) ![](/assets/new.png)  
+- [2024-09-18-Thavarshan/fetch-php:-🚀-一个轻量级-HTTP-库，其灵感来自-JavaScript-的-fetch，为-PHP-HTTP-请求带来了简单性和灵活性。](https://github.com/guanguans/favorite-link/commit/d0304b5bc3daae34f798bc481a6269dc1f90caf4) ![](/assets/new.png)  
+- [2024-09-18-lightszentip/laravel-release-changelog-generator:-使用-artisan-生成版本管理更新日志和发布版本](https://github.com/guanguans/favorite-link/commit/cb50cd67bd8df72374f88a9c8747fd2e4bea73c5) ![](/assets/new.png)  
+- [2024-09-18-codecoz/aim-admin:-强大的-Laravel-软件包可简化管理任务，加快开发可扩展的企业网络应用程序](https://github.com/guanguans/favorite-link/commit/011d4caa0e38c109854eb055f2a729150a55cfe0) ![](/assets/new.png)  
+- [2024-09-18-unopim/unopim:-基于-Laravel-的免费开源-PIM-系统，可帮助企业集中组织、管理和丰富产品数据。](https://github.com/guanguans/favorite-link/commit/7f4c1364f0e4b14c875de4e00082f9775eb69fee) ![](/assets/new.png)  
+- [2024-09-14-chesslablab/php-chess:-PHP-的国际象棋库。](https://github.com/guanguans/favorite-link/commit/af8ef352d9bebcf6573634f9043eaaaf90b4b8bc) ![](/assets/new.png)  
+- [2024-09-13-CodeWithDennis/larament:-这个节省时间的入门套件包括一个已经安装和设置了-FilamentPHP-3-的-Laravel-11，以及额外的功能。](https://github.com/guanguans/favorite-link/commit/96ff295f01b42efc192b05a88434adaad447b6bb) ![](/assets/new.png)  
+- [2024-09-13-x-cmd/x-cmd:-X-bootstrap-1000+-工具和脚本。](https://github.com/guanguans/favorite-link/commit/ecd986f0b4ef262c001e0f95828e7e8cca23dfc6) ![](/assets/new.png)  
 - [2024-09-09-scrivo/highlight.php:-将-highlight.js-移植到-PHP](https://github.com/guanguans/favorite-link/commit/535edf03c84e2b4aaff09ea880824d2652d669fd)  
+- [2024-09-09-pinkary-project/pinkary.com:-Pinkary-是您所有链接的登陆页面，也是一个与志趣相投的人进行无噪音联系的地方。](https://github.com/guanguans/favorite-link/commit/b575a8874f16b72bb85287fc808f9e15987c4aad)  
+- [2024-09-09-abublihi/laravel-external-jwt-guard:-这是一个-laravel-自定义-auth-guard，用于使用外部-JWT-对用户进行身份验证](https://github.com/guanguans/favorite-link/commit/43295b6f6f19ed2d6f9baefef0e580c20529dfc8)  
+- [2024-09-09-michael-rubel/laravel-octane-best-practices:-供您的团队遵循的-Laravel-Octane-最佳实践的编译列表。](https://github.com/guanguans/favorite-link/commit/a1f5c31f4d085ed40100cae23790935d92a58a77)  
+- [2024-09-09-在-MySQL-中存储货币值的不同策略](https://github.com/guanguans/favorite-link/commit/87d00efe35bdb032ffa1110c6915149bcbf6735c)  
+- [2024-09-09-Laravel-11-Reverb-实时通知示例](https://github.com/guanguans/favorite-link/commit/6a433672c3851d4d8c5d3a2c018a38bf6a7967dc)  
+- [2024-09-09-gwleuverink/asset-injector:-将-JS-和-CSS-自动插入网页响应，从而简化-Laravel-软件包开发。让用户无需手动添加资产](https://github.com/guanguans/favorite-link/commit/3d4c5f0d2dab159ef5fd42f3b7efdcd4f4dfae83)  
+- [2024-09-09-idootop/mi-gpt:-🏠-将小爱音箱接入-ChatGPT-和豆包，改造成你的专属语音助手。](https://github.com/guanguans/favorite-link/commit/2affd7bcab14fd5b47c7ad353df3aefb6b689e29)  
+- [2024-09-09-Honeystone/laravel-dto-tools:-一套全面的-Laravel-DTO-工具。](https://github.com/guanguans/favorite-link/commit/5b98239d40706fa4b1763d516ba18cbfe0a6041e)  
 - [2024-09-06-Update-feed](https://github.com/guanguans/favorite-link/commit/1133e5d1869908c316c8ae0c4bc8b24d76341937)  
-- [2024-09-05-PHP-8.4-属性钩子](https://github.com/guanguans/favorite-link/commit/0e4d617c92004fefc9b3a00bbebe42533149595c)  
-- [2024-09-05-alireza2000sajedi/otp-code-laravel:-这个-Laravel-包提供了一个用于生成、存储和验证一次性密码-OTP-的全面解决方案。它支持可定制的-OTP-配置，包括类型、...](https://github.com/guanguans/favorite-link/commit/70a617689666b6f54a7336bdc1431dae71894961)  
-- [2024-09-05-编写简洁、可维护代码的好处](https://github.com/guanguans/favorite-link/commit/d2fd1e73147b3ac969737159a8a93737c70d6467)  
-- [2024-09-05-sauljabin/kaskade:-Kaskade-是-Kafka-的文本用户界面，它允许您以时尚的方式从终端交互和使用主题！](https://github.com/guanguans/favorite-link/commit/e9b5806ef8490ce1dd2503d47f3f086adb69f015)  
-- [2024-09-04-alireza2000sajedi/api-responder-laravel:-一个简化标准化-API-响应创建的库](https://github.com/guanguans/favorite-link/commit/a2902bda2a95a4c2a34e7bb8d844a86802e1a5ea)  
-- [2024-09-04-当一切都失败时，您永远可以信任-Laravel-救援助手](https://github.com/guanguans/favorite-link/commit/aceb49c635b07f16aed77d5b999fb5971e10e0bf)  
-- [2024-09-04-Update-feed](https://github.com/guanguans/favorite-link/commit/c425d4b396319978b0143bc50648a421a66197e4)  
-- [2024-09-04-czproject/phpdepend:-从PHP文件或代码片段中提取依赖项列表（类、接口和特征）。](https://github.com/guanguans/favorite-link/commit/4266a6a658d4c32341ca1d7bddf294bdc92b858a)  
-- [2024-09-03-WatheqAlshowaiter/backup-tables:-轻松备份单个或多个数据库表。](https://github.com/guanguans/favorite-link/commit/cc4067040a4db1cf02913f659cf89e3be44d4706)  
-- [2024-09-03-limewell/laravel-make-extender:-生成和自动加载自定义帮助程序、生成器范围、服务类、特质、自定义铸模、集合宏、视图合成器](https://github.com/guanguans/favorite-link/commit/db2d81a465c561c640055c00e55b71fc7fde6e0b)  
 - [......【查看更多】......](/details/favorite-link.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -501,9 +501,9 @@
 </summary>
 
 
-- [2025-01-16-美团技术年货-|-600+页电子书，算法、工程、测试、数据、安全系列大合集](https://tech.meituan.com/2025/01/16/2024-spring-festival-present.html) ![](/assets/new.png)  
-- [2025-01-06-鸿蒙应用签名实操及机制探究](https://tech.meituan.com/2025/01/06/openharmony.html) ![](/assets/new.png)  
-- [2024-12-26-2024-|-美团技术团队热门技术文章汇总](https://tech.meituan.com/2024/12/26/2024-happy-new-year-top10.html) ![](/assets/new.png)  
+- [2025-01-16-美团技术年货-|-600+页电子书，算法、工程、测试、数据、安全系列大合集](https://tech.meituan.com/2025/01/16/2024-spring-festival-present.html)  
+- [2025-01-06-鸿蒙应用签名实操及机制探究](https://tech.meituan.com/2025/01/06/openharmony.html)  
+- [2024-12-26-2024-|-美团技术团队热门技术文章汇总](https://tech.meituan.com/2024/12/26/2024-happy-new-year-top10.html)  
 - [2024-11-21-AutoConsis：UI内容一致性智能检测](https://tech.meituan.com/2024/11/21/autoconsis-ui-meituan.html)  
 - [2024-10-31-CIKM-2024-|-美团技术团队精选论文解读](https://tech.meituan.com/2024/10/31/cikm-2024-meituan.html)  
 - [2024-10-18-大前端：如何突破动态化容器的天花板？](https://tech.meituan.com/2024/10/18/recce-in-meituan.html)  
@@ -532,9 +532,9 @@
 </summary>
 
 
-- [2025-01-13-Build-local-and-offline-capable-chatbots](https://web.dev/blog/build-ai-chatbot-series?hl=en) ![](/assets/new.png)  
-- [2024-12-18-New-to-the-web-platform-in-December](https://web.dev/blog/web-platform-12-2024?hl=en) ![](/assets/new.png)  
-- [2024-12-10-Baseline-2024:-more-tools-to-help-web-developers](https://web.dev/blog/baseline-project-2024?hl=en) ![](/assets/new.png)  
+- [2025-01-13-Build-local-and-offline-capable-chatbots](https://web.dev/blog/build-ai-chatbot-series?hl=en)  
+- [2024-12-18-New-to-the-web-platform-in-December](https://web.dev/blog/web-platform-12-2024?hl=en)  
+- [2024-12-10-Baseline-2024:-more-tools-to-help-web-developers](https://web.dev/blog/baseline-project-2024?hl=en)  
 - [2024-12-06-What-do-the-State-of-CSS-and-HTML-surveys-tell-us?](https://web.dev/blog/state-of-css-html-2024?hl=en)  
 - [2024-11-28-New-to-the-web-platform-in-November](https://web.dev/blog/web-platform-11-2024?hl=en)  
 - [2024-11-15-Watch-the-Web-AI-Summit-2024-videos](https://web.dev/blog/web-ai-summit-2024-recap?hl=en)  
@@ -563,26 +563,26 @@
 </summary>
 
 
-- [2025-01-17-派早报：任天堂预览-Switch-2-游戏掌机、TikTok-将在美国停止运营等](https://sspai.com/post/95680) ![](/assets/new.png)  
-- [2025-01-17-三平米搞定干湿分区、洗烘与智能马桶：我的卫生间改造复盘](https://sspai.com/post/95526) ![](/assets/new.png)  
-- [2025-01-17-人人都可以上手的-Android-TV-改造指南，让你也能开机就能看到节目](https://sspai.com/post/95529) ![](/assets/new.png)  
-- [2025-01-17-本周看什么-|-最近值得一看的-9-部作品](https://sspai.com/post/95688) ![](/assets/new.png)  
-- [2025-01-17-寻微致新：少数派的-2024-年度最佳好物](https://sspai.com/post/95681) ![](/assets/new.png)  
-- [2025-01-16-派早报：暴雪公布《守望先锋》国服回归福利、雷蛇推出新款有线耳机等](https://sspai.com/post/95654) ![](/assets/new.png)  
-- [2025-01-16-一套灵活的「动能回收」机制：我的时间管理三原则](https://sspai.com/post/95533) ![](/assets/new.png)  
-- [2025-01-16-提前会合：安徽省首家零售店，Apple-合肥抢先看](https://sspai.com/post/95659) ![](/assets/new.png)  
-- [2025-01-16-新疆二十日（下）：古道高原，南疆的冰与火之歌](https://sspai.com/post/95651) ![](/assets/new.png)  
-- [2025-01-16-新玩意-201｜少数派的编辑们最近买了啥？](https://sspai.com/post/95667) ![](/assets/new.png)  
-- [2024-12-10-社区速递-072-|-你没见过的社区文章、一周最热评、派友吃什么火锅](https://sspai.com/post/94693)  
-- [2024-12-10-一半的视野，成倍的精彩：聊聊我用过的-3-台半格胶片相机](https://sspai.com/post/94585)  
-- [2024-12-10-线下活动｜逐一场落日余晖：少数派摄影探索日-](https://sspai.com/post/94676)  
-- [2024-12-10-万字解析：AI-驱动的大纲笔记，Tana-能否超越-Notion？](https://sspai.com/post/93555)  
+- [2025-01-20-派早报：TikTok-在美短暂下线后恢复服务](https://sspai.com/post/95722) ![](/assets/new.png)  
+- [2025-01-19-App+1-|-我开发了一款旅行记录-app，让照片背后的记忆更鲜活：山河旅记](https://sspai.com/post/95430) ![](/assets/new.png)  
+- [2025-01-18-从体验到-eSIM-都独此一家：和开发者聊聊-iPad-游戏](https://sspai.com/post/95677) ![](/assets/new.png)  
+- [2025-01-17-寻微致新：少数派的-2024-年度最佳好物](https://sspai.com/post/95681)  
+- [2025-01-17-本周看什么-|-最近值得一看的-9-部作品](https://sspai.com/post/95688)  
+- [2025-01-17-人人都可以上手的-Android-TV-改造指南，让你也能开机就能看到节目](https://sspai.com/post/95529)  
+- [2025-01-17-三平米搞定干湿分区、洗烘与智能马桶：我的卫生间改造复盘](https://sspai.com/post/95526)  
+- [2025-01-17-派早报：任天堂预览-Switch-2-游戏掌机、TikTok-将在美国停止运营等](https://sspai.com/post/95680)  
+- [2025-01-16-新玩意-201｜少数派的编辑们最近买了啥？](https://sspai.com/post/95667)  
+- [2025-01-16-新疆二十日（下）：古道高原，南疆的冰与火之歌](https://sspai.com/post/95651)  
+- [2025-01-16-提前会合：安徽省首家零售店，Apple-合肥抢先看](https://sspai.com/post/95659)  
+- [2025-01-16-一套灵活的「动能回收」机制：我的时间管理三原则](https://sspai.com/post/95533)  
+- [2025-01-16-派早报：暴雪公布《守望先锋》国服回归福利、雷蛇推出新款有线耳机等](https://sspai.com/post/95654)  
 - [2024-12-10-派早报：广电总局发布「AI-魔改」管理提示，itch.io-遭-AI-举报下线等](https://sspai.com/post/94669)  
-- [2024-12-09-派评-|-近期值得关注的-App](https://sspai.com/post/94662)  
-- [2024-12-09-双十二活动、国家补贴……-正是-iPhone-换机的好时候](https://sspai.com/post/94430)  
-- [2024-12-09-城市漫步指南：在博兹瓦纳与野生精灵的奇幻邂逅](https://sspai.com/post/94494)  
+- [2024-12-10-万字解析：AI-驱动的大纲笔记，Tana-能否超越-Notion？](https://sspai.com/post/93555)  
+- [2024-12-10-线下活动｜逐一场落日余晖：少数派摄影探索日-](https://sspai.com/post/94676)  
+- [2024-12-10-一半的视野，成倍的精彩：聊聊我用过的-3-台半格胶片相机](https://sspai.com/post/94585)  
+- [2024-12-10-社区速递-072-|-你没见过的社区文章、一周最热评、派友吃什么火锅](https://sspai.com/post/94693)  
 - [2024-12-09-派早报：美国法院维持-TikTok-强制出售法案](https://sspai.com/post/94650)  
-- [2024-12-08-具透-|-一边搬家、一边填坑：Windows-11-24H2-更新速览](https://sspai.com/post/92942)  
+- [2024-12-09-城市漫步指南：在博兹瓦纳与野生精灵的奇幻邂逅](https://sspai.com/post/94494)  
 - [......【查看更多】......](/details/少数派.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -594,10 +594,10 @@
 </summary>
 
 
-- [2025-01-17-把心修好，比什么都重要](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%8A%8A%E5%BF%83%E4%BF%AE%E5%A5%BD%EF%BC%8C%E6%AF%94%E4%BB%80%E4%B9%88%E9%83%BD%E9%87%8D%E8%A6%81) ![](/assets/new.png)  
-- [2025-01-17-好穿到尖叫的运动鞋！舒适百搭秒增高、狂走不累](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%A5%BD%E7%A9%BF%E5%88%B0%E5%B0%96%E5%8F%AB%E7%9A%84%E8%BF%90%E5%8A%A8%E9%9E%8B%EF%BC%81%E8%88%92%E9%80%82%E7%99%BE%E6%90%AD%E7%A7%92%E5%A2%9E%E9%AB%98%E3%80%81%E7%8B%82%E8%B5%B0%E4%B8%8D%E7%B4%AF) ![](/assets/new.png)  
-- [2025-01-17-真正的高情商，是让人放心](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%AB%98%E6%83%85%E5%95%86%EF%BC%8C%E6%98%AF%E8%AE%A9%E4%BA%BA%E6%94%BE%E5%BF%83) ![](/assets/new.png)  
-- [2025-01-17-央视把语文课本拍成了电视剧，满屏知识点，寒假带孩子一起看（附链接）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%A4%AE%E8%A7%86%E6%8A%8A%E8%AF%AD%E6%96%87%E8%AF%BE%E6%9C%AC%E6%8B%8D%E6%88%90%E4%BA%86%E7%94%B5%E8%A7%86%E5%89%A7%EF%BC%8C%E6%BB%A1%E5%B1%8F%E7%9F%A5%E8%AF%86%E7%82%B9%EF%BC%8C%E5%AF%92%E5%81%87%E5%B8%A6%E5%AD%A9%E5%AD%90%E4%B8%80%E8%B5%B7%E7%9C%8B%EF%BC%88%E9%99%84%E9%93%BE%E6%8E%A5%EF%BC%89) ![](/assets/new.png)  
+- [2025-01-17-把心修好，比什么都重要](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%8A%8A%E5%BF%83%E4%BF%AE%E5%A5%BD%EF%BC%8C%E6%AF%94%E4%BB%80%E4%B9%88%E9%83%BD%E9%87%8D%E8%A6%81)  
+- [2025-01-17-好穿到尖叫的运动鞋！舒适百搭秒增高、狂走不累](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%A5%BD%E7%A9%BF%E5%88%B0%E5%B0%96%E5%8F%AB%E7%9A%84%E8%BF%90%E5%8A%A8%E9%9E%8B%EF%BC%81%E8%88%92%E9%80%82%E7%99%BE%E6%90%AD%E7%A7%92%E5%A2%9E%E9%AB%98%E3%80%81%E7%8B%82%E8%B5%B0%E4%B8%8D%E7%B4%AF)  
+- [2025-01-17-真正的高情商，是让人放心](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%AB%98%E6%83%85%E5%95%86%EF%BC%8C%E6%98%AF%E8%AE%A9%E4%BA%BA%E6%94%BE%E5%BF%83)  
+- [2025-01-17-央视把语文课本拍成了电视剧，满屏知识点，寒假带孩子一起看（附链接）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%A4%AE%E8%A7%86%E6%8A%8A%E8%AF%AD%E6%96%87%E8%AF%BE%E6%9C%AC%E6%8B%8D%E6%88%90%E4%BA%86%E7%94%B5%E8%A7%86%E5%89%A7%EF%BC%8C%E6%BB%A1%E5%B1%8F%E7%9F%A5%E8%AF%86%E7%82%B9%EF%BC%8C%E5%AF%92%E5%81%87%E5%B8%A6%E5%AD%A9%E5%AD%90%E4%B8%80%E8%B5%B7%E7%9C%8B%EF%BC%88%E9%99%84%E9%93%BE%E6%8E%A5%EF%BC%89)  
 - [2024-12-07-生命里所有的伤害，都是成全](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E7%94%9F%E5%91%BD%E9%87%8C%E6%89%80%E6%9C%89%E7%9A%84%E4%BC%A4%E5%AE%B3%EF%BC%8C%E9%83%BD%E6%98%AF%E6%88%90%E5%85%A8)  
 - [2024-12-07-《瓦尔登湖》：人生最高级的活法，是素与简](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E3%80%8A%E7%93%A6%E5%B0%94%E7%99%BB%E6%B9%96%E3%80%8B%EF%BC%9A%E4%BA%BA%E7%94%9F%E6%9C%80%E9%AB%98%E7%BA%A7%E7%9A%84%E6%B4%BB%E6%B3%95%EF%BC%8C%E6%98%AF%E7%B4%A0%E4%B8%8E%E7%AE%80)  
 - [2024-12-07-一个人高情商的标志：用不对抗的方式沟通](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%AB%98%E6%83%85%E5%95%86%E7%9A%84%E6%A0%87%E5%BF%97%EF%BC%9A%E7%94%A8%E4%B8%8D%E5%AF%B9%E6%8A%97%E7%9A%84%E6%96%B9%E5%BC%8F%E6%B2%9F%E9%80%9A)  
@@ -826,7 +826,7 @@
 </summary>
 
 
-- [2024-12-28-2024:-在夜海中观望浪潮](https://lutaonan.com/blog/2024-summary/) ![](/assets/new.png)  
+- [2024-12-28-2024:-在夜海中观望浪潮](https://lutaonan.com/blog/2024-summary/)  
 - [2024-10-09-AI-和写作](https://lutaonan.com/blog/ai-writing/)  
 - [2024-08-10-「代码艺术家」不会被-AI-取代](https://lutaonan.com/blog/code-artists/)  
 - [2024-05-14-不上班的第一年](https://lutaonan.com/blog/a-year-off-work/)  
@@ -910,9 +910,9 @@
 </summary>
 
 
-- [2025-01-07-Epoch-Semantic-Versioning](https://antfu.me/posts/epoch-semver) ![](/assets/new.png)  
-- [2025-01-01-CPU-Profiling-Nuxt](https://antfu.me/posts/nuxt-cpuprofile) ![](/assets/new.png)  
-- [2024-11-26-Introducing-Nuxt-Icon-v1](https://antfu.me/posts/nuxt-icon-v1) ![](/assets/new.png)  
+- [2025-01-07-Epoch-Semantic-Versioning](https://antfu.me/posts/epoch-semver)  
+- [2025-01-01-CPU-Profiling-Nuxt](https://antfu.me/posts/nuxt-cpuprofile)  
+- [2024-11-26-Introducing-Nuxt-Icon-v1](https://antfu.me/posts/nuxt-icon-v1)  
 - [2024-04-20-Initiative-on-Sponsorship-Forwarding](https://antfu.me/posts/sponsorship-forwarding)  
 - [2024-04-10-Refreshed-Nuxt-ESLint-Integrations](https://antfu.me/posts/refreshed-nuxt-eslint)  
 - [2024-04-06-Introducing-ESLint-Config-Inspector](https://antfu.me/posts/eslint-config-inspector)  
@@ -1079,7 +1079,7 @@
 </summary>
 
 
-- [2025-01-07-Thoughts-on-State-Management-Libraries-in-the-React-Compiler-Era](https://blog.axlight.com/posts/thoughts-on-state-management-libraries-in-the-react-compiler-era/) ![](/assets/new.png)  
+- [2025-01-07-Thoughts-on-State-Management-Libraries-in-the-React-Compiler-Era](https://blog.axlight.com/posts/thoughts-on-state-management-libraries-in-the-react-compiler-era/)  
 - [2024-11-26-Thoughts-on-What-RSC-Means-for-SPAs](https://blog.axlight.com/posts/thoughts-on-what-rsc-means-for-spas/)  
 - [2024-09-03-How-I-Got-Involved-in-OSS](https://blog.axlight.com/posts/how-i-got-involved-in-oss/)  
 - [2024-08-18-How-Valtio-Was-Born](https://blog.axlight.com/posts/how-valtio-was-born/)  
@@ -1297,11 +1297,11 @@
 </summary>
 
 
-- [2025-01-05-CSPJ-教学思考：贪心算法](https://blog.devtang.com/2025/01/05/cspj-notes-of-greedy-algorithm/) ![](/assets/new.png)  
-- [2025-01-05-CSPJ-教学思考：动态规划](https://blog.devtang.com/2025/01/05/teaching-notes-of-dp/) ![](/assets/new.png)  
-- [2025-01-01-2024-年个人总结](https://blog.devtang.com/2025/01/01/2024-summary/) ![](/assets/new.png)  
-- [2024-12-22-极致性价比---读《小米创业思考》](https://blog.devtang.com/2024/12/22/xiaomi-development-notes/) ![](/assets/new.png)  
-- [2024-12-15-CSPJ-教学思考：宽度优先搜索](https://blog.devtang.com/2024/12/15/bfs-teaching-notes/) ![](/assets/new.png)  
+- [2025-01-05-CSPJ-教学思考：贪心算法](https://blog.devtang.com/2025/01/05/cspj-notes-of-greedy-algorithm/)  
+- [2025-01-05-CSPJ-教学思考：动态规划](https://blog.devtang.com/2025/01/05/teaching-notes-of-dp/)  
+- [2025-01-01-2024-年个人总结](https://blog.devtang.com/2025/01/01/2024-summary/)  
+- [2024-12-22-极致性价比---读《小米创业思考》](https://blog.devtang.com/2024/12/22/xiaomi-development-notes/)  
+- [2024-12-15-CSPJ-教学思考：宽度优先搜索](https://blog.devtang.com/2024/12/15/bfs-teaching-notes/)  
 - [2024-12-01-将-stdc++.h-加到-Macbook-M1/M2/M3-编译环境中](https://blog.devtang.com/2024/12/01/add-stdc-to-macbook-m1/)  
 - [2024-11-17-颠覆技术的发展---读《浪潮将至》](https://blog.devtang.com/2024/11/17/wave-coming/)  
 - [2024-11-08-如何控制孩子的电脑使用](https://blog.devtang.com/2024/11/08/time-control-of-cspj-learning/)  
@@ -1313,7 +1313,7 @@
 - [2024-09-17-西贝创始人贾国龙的成与败---读《折腾不止》](https://blog.devtang.com/2024/09/17/talking-with-xibei/)  
 - [2024-09-06-第一性原理思考：解决问题的通用框架](https://blog.devtang.com/2024/09/06/problem-solving-structure/)  
 - [2024-09-01-如何在抖音直播卖货](https://blog.devtang.com/2024/09/01/living-selling-101/)  
-- [2024-06-29-读《蹒跚前行-1870～2010-经济史》](https://blog.devtang.com/2024/06/29/history-of-1870-2010/) ![](/assets/new.png)  
+- [2024-06-29-读《蹒跚前行-1870～2010-经济史》](https://blog.devtang.com/2024/06/29/history-of-1870-2010/)  
 - [2024-06-23-要利润的定价---读《定价制胜》](https://blog.devtang.com/2024/06/23/pricing-strategy/)  
 - [2024-05-15-人单合一---读《永恒的活火》](https://blog.devtang.com/2024/05/15/ever-living-fire/)  
 - [2024-03-26-如何卖货---读《营销管理》](https://blog.devtang.com/2024/03/26/marketing-management-book-summary/)  
@@ -1328,11 +1328,12 @@
 </summary>
 
 
-- [2025-01-15-A-checklist-for-your-&lt;code&gt;tsconfig.json&lt;/code&gt;](https://2ality.com/2025/01/tsconfig-json.html) ![](/assets/new.png)  
-- [2025-01-10-ECMAScript-feature:-regular-expression-pattern-modifiers](https://2ality.com/2025/01/regexp-modifiers.html) ![](/assets/new.png)  
-- [2025-01-09-ECMAScript-feature:-import-attributes](https://2ality.com/2025/01/import-attributes.html) ![](/assets/new.png)  
-- [2025-01-08-Node’s-new-built-in-support-for-TypeScript](https://2ality.com/2025/01/nodejs-strip-type.html) ![](/assets/new.png)  
-- [2025-01-01-WebAssembly-as-an-ecosystem-for-programming-languages](https://2ality.com/2025/01/webassembly-language-ecosystem.html) ![](/assets/new.png)  
+- [2025-01-19-TypeScript-enums:-use-cases-and-alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html) ![](/assets/new.png)  
+- [2025-01-15-A-checklist-for-your-&lt;code&gt;tsconfig.json&lt;/code&gt;](https://2ality.com/2025/01/tsconfig-json.html)  
+- [2025-01-10-ECMAScript-feature:-regular-expression-pattern-modifiers](https://2ality.com/2025/01/regexp-modifiers.html)  
+- [2025-01-09-ECMAScript-feature:-import-attributes](https://2ality.com/2025/01/import-attributes.html)  
+- [2025-01-08-Node’s-new-built-in-support-for-TypeScript](https://2ality.com/2025/01/nodejs-strip-type.html)  
+- [2025-01-01-WebAssembly-as-an-ecosystem-for-programming-languages](https://2ality.com/2025/01/webassembly-language-ecosystem.html)  
 - [2024-11-20-Mastodon’s-weaknesses-and-how-to-fix-them](https://2ality.com/2024/11/mastodon-weaknesses.html)  
 - [2024-06-26-Ecma-International-approves-ECMAScript-2024:-What’s-new?](https://2ality.com/2024/06/ecmascript-2024.html)  
 - [2024-06-01-ECMAScript-2024-features:-resizing-and-transferring-ArrayBuffers](https://2ality.com/2024/06/array-buffers-es2024.html)  

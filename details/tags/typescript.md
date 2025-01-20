@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-18 15:08:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-20 11:52:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -171,5 +171,6 @@
 - [2023-07-19-Why-Zustand-Typescript-Implementation-Is-So-Ugly](https://blog.axlight.com/posts/why-zustand-typescript-implementation-is-so-ugly/) 
 - [2021-02-19-换个角度理解-Typescript-的-type-和-interface](https://zhuanlan.zhihu.com/p/351213183) 
 - [2021-01-12-Embrace-TypeScript](https://zhuanlan.zhihu.com/p/342240878) 
+- [2025-01-19-TypeScript-enums:-use-cases-and-alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html) 
 - [2025-01-08-Node’s-new-built-in-support-for-TypeScript](https://2ality.com/2025/01/nodejs-strip-type.html) 
 - [2022-11-14-从类型兼容开始，认识-TypeScript](https://zhuanlan.zhihu.com/p/583361540) 

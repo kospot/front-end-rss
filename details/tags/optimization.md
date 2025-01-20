@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-18 15:08:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-20 11:52:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -182,8 +182,8 @@
 - [2019-09-30-浏览器IMG图片原生懒加载loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/) 
 - [2024-09-03-limewell/laravel-make-extender:-生成和自动加载自定义帮助程序、生成器范围、服务类、特质、自定义铸模、集合宏、视图合成器](https://github.com/guanguans/favorite-link/commit/db2d81a465c561c640055c00e55b71fc7fde6e0b) 
 - [2024-09-02-gwleuverink/blade-hints:-在您的页面上标记各种不同-Blade-指令的用法，以便您可以轻松发现缺失的-authorization/auth/env-检查](https://github.com/guanguans/favorite-link/commit/be1e1855c9ed7a5d89553a0dabe525a15263030b) 
-- [2024-08-29-mvaliolahi/blaze:-Blaze-是一款先进的-Laravel-软件包，旨在利用现代、高效的缓存技术提高应用程序的性能。](https://github.com/guanguans/favorite-link/commit/dc0aa0527381dfec620ba1bea2f33a50c9f42480) 
 - [2024-08-29-mysql-查询缓存优化](https://github.com/guanguans/favorite-link/commit/7c938acecf708b61c2bc75a1cc76113d07200683) 
+- [2024-08-29-mvaliolahi/blaze:-Blaze-是一款先进的-Laravel-软件包，旨在利用现代、高效的缓存技术提高应用程序的性能。](https://github.com/guanguans/favorite-link/commit/dc0aa0527381dfec620ba1bea2f33a50c9f42480) 
 - [2024-08-02-ByteStorage/FlyDB:-基于-bitcask-论文的高性能-kv-存储引擎由-golang-制作](https://github.com/guanguans/favorite-link/commit/5bd1058854c132b422414c9c1fe46c63f06e5ddd) 
 - [2024-07-29-nunomaduro/laravel-optimize-database:-这个软件包提供了一种在-Laravel-中优化-SQLite-数据库的简单方法；它是生产就绪的-SQLite-数据库的良好起点。](https://github.com/guanguans/favorite-link/commit/2bde2c3877eb20a8650dc812d0ea1745fa1cea65) 
 - [2024-07-12-cyppe/laravel-batch-jobs-redis-driver:-Laravel-批量作业-Redis-驱动程序（Laravel-Batch-Jobs-Redis-Driver）为在-Laravel-中处理批量作业提供了一个性能优化...](https://github.com/guanguans/favorite-link/commit/78a87bb52883ba75035eace51df3467dc653ca6f) 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-18T07:08:33.479Z</updated>
+    <updated>2025-01-20T03:52:30.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[TypeScript enums: use cases and alternatives]]></title>
+        <id>https://2ality.com/2025/01/typescript-enum-patterns.html</id>
+        <link href="https://2ality.com/2025/01/typescript-enum-patterns.html"/>
+        <updated>2025-01-18T16:00:00.000Z</updated>
+        <published>2025-01-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从体验到 eSIM 都独此一家：和开发者聊聊 iPad 游戏]]></title>
+        <id>https://sspai.com/post/95677</id>
+        <link href="https://sspai.com/post/95677"/>
+        <updated>2025-01-17T16:00:00.000Z</updated>
+        <published>2025-01-17T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派早报：任天堂预览 Switch 2 游戏掌机、TikTok 将在美国停止运营等]]></title>
         <id>https://sspai.com/post/95680</id>
@@ -349,19 +363,5 @@
         <link href="https://nodeweekly.com/issues/553"/>
         <updated>2024-10-28T16:00:00.000Z</updated>
         <published>2024-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Arc 开发商宣布转向新浏览器]]></title>
-        <id>https://sspai.com/post/93325</id>
-        <link href="https://sspai.com/post/93325"/>
-        <updated>2024-10-27T16:00:00.000Z</updated>
-        <published>2024-10-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用飞书多维表格和扫码枪，快速构建个人图书管理系统]]></title>
-        <id>https://sspai.com/post/93065</id>
-        <link href="https://sspai.com/post/93065"/>
-        <updated>2024-10-23T16:00:00.000Z</updated>
-        <published>2024-10-23T16:00:00.000Z</published>
     </entry>
 </feed>

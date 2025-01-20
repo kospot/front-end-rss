@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-01-18 15:08:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-20 11:52:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 2ality
 
 
 
 
+- [2025-01-19-TypeScript-enums:-use-cases-and-alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html) 
 - [2025-01-15-A-checklist-for-your-&lt;code&gt;tsconfig.json&lt;/code&gt;](https://2ality.com/2025/01/tsconfig-json.html) 
 - [2025-01-10-ECMAScript-feature:-regular-expression-pattern-modifiers](https://2ality.com/2025/01/regexp-modifiers.html) 
 - [2025-01-09-ECMAScript-feature:-import-attributes](https://2ality.com/2025/01/import-attributes.html) 

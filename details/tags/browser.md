@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-18 15:08:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-20 11:52:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -409,9 +409,10 @@
 - [2019-10-27-你真的了解重绘和重排（回流）吗？](http://www.yyyweb.com/5317.html) 
 - [2018-08-18-移动端调试痛点？送你五款前端开发利器！](http://www.yyyweb.com/5140.html) 
 - [2018-07-30-nativefier-–-让网页一键生成桌面应用程序](http://www.yyyweb.com/5117.html) 
+- [2024-09-18-spriebsch/identifier-generator:-基于-UUID-的索引值对象的代码生成器。](https://github.com/guanguans/favorite-link/commit/c378f988e8ac0c7299f2f691cb820fabb986595c) 
 - [2024-09-02-fajarwz/laravel-review:-fajarwz/laravel-review:-灵活而强大的-Laravel-审核系统，让任何模型审核和被审核。](https://github.com/guanguans/favorite-link/commit/081a097d1648aa2b1be8bd31e42665afab7bf5d3) 
-- [2024-08-27-URL-是有效的-PHP-代码？！](https://github.com/guanguans/favorite-link/commit/14d0c471bad002c6ba097765bb19d0b8f58ef4b2) 
 - [2024-08-27-spatie/laravel-error-solutions:-在-Laravel-错误页面显示解决方案](https://github.com/guanguans/favorite-link/commit/3c7b69afd773496114eb6b49b363a128257611c6) 
+- [2024-08-27-URL-是有效的-PHP-代码？！](https://github.com/guanguans/favorite-link/commit/14d0c471bad002c6ba097765bb19d0b8f58ef4b2) 
 - [2024-08-22-gemini-api-php/client:-Google-Gemini-API-PHP-客户端允许您使用-Gemini-AI-模型](https://github.com/guanguans/favorite-link/commit/a48d4f04a6ddb510c658cf38e540f5363e546834) 
 - [2024-08-19-apih/laravel-route-list-web:-通过浏览器中的网页查看-Laravel-应用程序的所有路径](https://github.com/guanguans/favorite-link/commit/129d57a2744974c36e4e2e2ed5b6223b722ac395) 
 - [2024-08-05-reqable/reqable-app:-Reqable-是新一代-API-调试和测试一站式解决方案。Reqable-完全支持-HTTP1-和-HTTP2，部分支持-HTTP3QUIC。现在可在-Windows、Mac、Linu...](https://github.com/guanguans/favorite-link/commit/ef4f4387f8f78662d9c40937345dcdd8df0f8179) 
@@ -419,12 +420,12 @@
 - [2024-07-26-spatie/laravel-ciphersweet:-使用-CipherSweet-在-Laravel-中搜索和加密数据](https://github.com/guanguans/favorite-link/commit/c958a8af03ae47c99480825cd7619053ea0dbb6c) 
 - [2024-07-19-dantsec/rand-ua:-这是一个纯-PHP-库，可为不同的浏览器和设备生成随机的用户代理，让您更轻松地在应用程序中模拟各种用户环境！](https://github.com/guanguans/favorite-link/commit/dd37df03cad36898f96472338e2db8bed77f76fc) 
 - [2024-07-18-HiEventsDev/Hi.Events:-开源活动管理和门票销售平台-🎟️](https://github.com/guanguans/favorite-link/commit/50ca999a4e9bd27c67163edb98365aeabe21e2a2) 
-- [2024-07-15-WatheqAlshowaiter/model-required-fields:-获取所需的模型字段，不包括主键、可为-null-的字段和具有默认值的字段。](https://github.com/guanguans/favorite-link/commit/f74ffb98f2fa174a635b6ba47dc3f81bdfb4c592) 
 - [2024-07-15-chaitin/SafeLine:-网络安全网关可充当反向代理，保护网站免受攻击和利用。](https://github.com/guanguans/favorite-link/commit/cc8d8638c482fb7eb56acfb2a6ce0afd3a848f42) 
+- [2024-07-15-WatheqAlshowaiter/model-required-fields:-获取所需的模型字段，不包括主键、可为-null-的字段和具有默认值的字段。](https://github.com/guanguans/favorite-link/commit/f74ffb98f2fa174a635b6ba47dc3f81bdfb4c592) 
 - [2024-07-12-osteel/openapi-httpfoundation-testing:-根据-OpenAPI-3+-定义验证-HttpFoundation-请求和响应](https://github.com/guanguans/favorite-link/commit/01639e6dba8ef1996ec3ac31d6ee42e49116ab8f) 
-- [2024-07-10-axyr/laravel-email-viewer:-适用于-Laravel-的简单电子邮件查看器](https://github.com/guanguans/favorite-link/commit/585381a5ddb8d5019ddbf8b3ec00b39e83b7b0b5) 
-- [2024-07-10-next-build/database-viewer:-用于查看数据库的-Laravel-软件包](https://github.com/guanguans/favorite-link/commit/b5962a290c6f7d9dc67e8a756d6e22692be5391e) 
 - [2024-07-10-veeqtoh/secure-code:-一个-Laravel-软件包，用于生成和管理应用程序的-n-位随机安全代码。](https://github.com/guanguans/favorite-link/commit/31d4f93fedb9ac074175c824bf2d75072fa3c8c3) 
+- [2024-07-10-next-build/database-viewer:-用于查看数据库的-Laravel-软件包](https://github.com/guanguans/favorite-link/commit/b5962a290c6f7d9dc67e8a756d6e22692be5391e) 
+- [2024-07-10-axyr/laravel-email-viewer:-适用于-Laravel-的简单电子邮件查看器](https://github.com/guanguans/favorite-link/commit/585381a5ddb8d5019ddbf8b3ec00b39e83b7b0b5) 
 - [2024-07-09-gallonyin/worktool:-一款安全稳定的Android无障碍服务工具，支持控制企微/微信来运行的无人值守群管理机器人](https://github.com/guanguans/favorite-link/commit/a546de47150688c05b4a6f18b24746b639746810) 
 - [2024-07-08-alienator88/Pearcleaner:-一款免费、源码可用且获得公平代码许可的-Mac-应用程序清理工具](https://github.com/guanguans/favorite-link/commit/0350a84e5c325eff90ee72531aa13683467cd253) 
 - [2022-02-13-“一把梭：REST-API-全用-POST”](https://coolshell.cn/articles/22173.html) 
