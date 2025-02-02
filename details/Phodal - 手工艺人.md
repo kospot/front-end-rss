@@ -1,15 +1,16 @@
-:alarm_clock: 更新时间: 2024-12-10 19:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-03 03:03:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Phodal - 手工艺人
 
 
 
 
+- [2025-01-21-AutoDev-Composer：Intellij-平台的-Cursor、WinSurf-平替方案（预览版）](https://zhuanlan.zhihu.com/p/19647798024) 
 - [2024-12-07-Shire-1.1-发布：更强大的交互支持，升级-AI-智能体与-IDE-的整合体验](https://zhuanlan.zhihu.com/p/10366904981) 
 - [2024-11-04-可编排-AI-编程助手-Shire-1.0-发布：一键连接工具生态，重塑软件开发流程](https://zhuanlan.zhihu.com/p/1226012891) 
 - [2024-09-18-Shire-智能体市场：IDE-一键安装多智能体，协同打造集体智慧-Copilot](https://zhuanlan.zhihu.com/p/720770984) 
-- [2024-09-11-云端与-IDE-智能体整合：解决工具碎片化，实现-AI-全流程自动编码](https://zhuanlan.zhihu.com/p/718809716) 
 - [2024-09-11-Shire.run：Prompt-即代码到-Prompt-即程序，思考-Prompt-的无限可能性](https://zhuanlan.zhihu.com/p/718980184) 
+- [2024-09-11-云端与-IDE-智能体整合：解决工具碎片化，实现-AI-全流程自动编码](https://zhuanlan.zhihu.com/p/718809716) 
 - [2024-07-25-Shire-RAG-工作流：在-IDE-中编排-RAG，构建可信的编码智能体](https://zhuanlan.zhihu.com/p/710846881) 
 - [2024-07-10-Shire-编码智能体语言：打造你的专属-AI-IDE-编程助手](https://zhuanlan.zhihu.com/p/708077685) 
 - [2024-06-02-AI-辅助编码三阶段：从更少聊天到更多自动，再到自动化验证](https://zhuanlan.zhihu.com/p/701222734) 

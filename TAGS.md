@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-01-20 11:52:29。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-02-03 03:03:24。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,8 @@
 
 
 
+- [【Node-Weekly】Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564)
+- [【Node-Weekly】NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)
 - [【Node-Weekly】2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)
 - [【Node-Weekly】A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)
 - [【Node-Weekly】A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)
@@ -200,8 +202,6 @@
 - [【Node-Weekly】Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537)
 - [【Node-Weekly】A-snapshot-of-what's-new-in-Node](https://nodeweekly.com/issues/536)
 - [【Node-Weekly】The-newest-Node.js-runtime-features](https://nodeweekly.com/issues/534)
-- [【Node-Weekly】The-Node.js-Advocacy-Ambassador-program?](https://nodeweekly.com/issues/533)
-- [【Node-Weekly】Running-other-processes-from-Node,-but-better](https://nodeweekly.com/issues/532)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -580,6 +580,7 @@
 
 - [【Node-Weekly】Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)
 - [【Node-Weekly】A-big-week-for-Fastify](https://nodeweekly.com/issues/441)
+- [【JavaScript-Weekly】A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721)
 - [【前端早读课】【第3143期】如何提升微前端场景下的研发效能？微前端管理平台的设计与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268059&idx=1&sn=f0405c1ff8a64c5abe40eb61e80e2b0b&chksm=bd48fa5f8a3f7349be0b2b48974e3f079a7a86228c00d2338f4841f7f3011008cb1d55a5848d#rd)
 - [【前端早读课】【第3136期】微前端时代：打造高效、灵活的前端开发体系](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267905&idx=1&sn=a86502b39ba83f5be614f1c4307ebe73&chksm=bd48fac58a3f73d3dbf54383d9eef31f117c70a9f7ffac2f113a636e148c56e4cb3228c19136#rd)
 - [【前端早读课】【第3121期】效率前端微应用推进之微前端研发提效](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267521&idx=1&sn=10a6093c015c3147e497fb251e2c08ae&chksm=bd48f8458a3f71534090392cc0860dfd0f376998a4737ba68dc78b97d5736ac0550687447e92#rd)
@@ -597,7 +598,6 @@
 - [【前端早读课】【第3001期】字节跳动的前端工程化实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264011&idx=1&sn=bfc5b9233cfcc6721537c6fff87fbd02&chksm=bd48cd8f8a3f4499e05337679ffa8d079158f7ac6d5e0560c0aa50cf70f390513bcb428e3525#rd)
 - [【前端早读课】【第2967期】探索主流前端框架的响应式原理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263167&idx=1&sn=e435ab8a60c094f0698fcbe66e7ec950&chksm=bd48c93b8a3f402dfb5cfff9292700232db6c728b74753a220c746da486fd6886f2b49082da6#rd)
 - [【前端早读课】【第2966期】云音乐低代码-+-ChatGPT-实践方案与思考](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263121&idx=1&sn=761f343fd966e5047621869b77c63e34&chksm=bd48c9158a3f4003ee14b9262aedcc45683b83095349f794c82611ffd1bf2f4f447da78a4052#rd)
-- [【前端早读课】ChatGPT-怎么结合前端工程化？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263020&idx=1&sn=3381bab4e13ba2830228d94372f726b0&chksm=bd48c9a88a3f40be0572ad946c519037e074cae47b6c594e43756637662c931c3c3a4998b5f8#rd)
 - [......【查看更多】......](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-20 11:52:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-03 03:03:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -9,6 +9,7 @@
 
 - [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540) 
 - [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441) 
+- [2025-01-31-A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721) 
 - [2023-12-16-【第3143期】如何提升微前端场景下的研发效能？微前端管理平台的设计与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268059&idx=1&sn=f0405c1ff8a64c5abe40eb61e80e2b0b&chksm=bd48fa5f8a3f7349be0b2b48974e3f079a7a86228c00d2338f4841f7f3011008cb1d55a5848d#rd) 
 - [2023-12-09-【第3136期】微前端时代：打造高效、灵活的前端开发体系](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267905&idx=1&sn=a86502b39ba83f5be614f1c4307ebe73&chksm=bd48fac58a3f73d3dbf54383d9eef31f117c70a9f7ffac2f113a636e148c56e4cb3228c19136#rd) 
 - [2023-11-24-【第3121期】效率前端微应用推进之微前端研发提效](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267521&idx=1&sn=10a6093c015c3147e497fb251e2c08ae&chksm=bd48f8458a3f71534090392cc0860dfd0f376998a4737ba68dc78b97d5736ac0550687447e92#rd) 
