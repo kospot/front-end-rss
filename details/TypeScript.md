@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-02-03 03:03:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-17 17:05:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
 
 
 
+- [2025-02-14-Announcing-TypeScript-5.8-RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-rc/) 
 - [2025-01-30-Announcing-TypeScript-5.8-Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-beta/) 
 - [2024-11-23-Announcing-TypeScript-5.7](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/) 
 - [2024-11-09-Announcing-TypeScript-5.7-RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-rc/) 

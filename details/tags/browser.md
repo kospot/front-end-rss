@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-03 03:03:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-17 17:05:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -453,6 +453,7 @@
 - [2024-09-10-Chrome-ends-support-for-First-Input-Delay](https://web.dev/blog/fid?hl=en) 
 - [2024-07-31-Interop-2024:-Chrome-at-100%-for-the-accessibility-focus-area](https://web.dev/blog/interop-2024-a11y?hl=en) 
 - [2024-07-01-How-to-use-container-queries-now](https://web.dev/blog/how-to-use-container-queries-now?hl=en) 
+- [2025-02-14-具透-Plus-|-向-Chrome-133-学写提示词，随-Android-16-一起「登岛」](https://sspai.com/prime/story/inside-release-notes-250214) 
 - [2024-11-01-派早报：任天堂推出-Nintendo-Music-应用、知名浏览器省内存模式更新等](https://sspai.com/post/93482) 
 - [2024-10-28-派早报：Arc-开发商宣布转向新浏览器](https://sspai.com/post/93325) 
 - [2024-07-22-派早报：安全软件缺陷导致全球-Windows-设备故障](https://sspai.com/post/90680) 
@@ -468,6 +469,7 @@
 - [2024-10-16-学习与就业的一把钥匙：Macquarie-University的《适应：职业发展》课程介绍与评价](https://www.52nlp.cn/%e5%ad%a6%e4%b9%a0%e4%b8%8e%e5%b0%b1%e4%b8%9a%e7%9a%84%e4%b8%80%e6%8a%8a%e9%92%a5%e5%8c%99%ef%bc%9amacquarie-university%e7%9a%84%e3%80%8a%e9%80%82%e5%ba%94%ef%bc%9a%e8%81%8c%e4%b8%9a%e5%8f%91%e5%b1%95) 
 - [2024-07-16-OpenAI-被曝非法阻止员工披露-AI-安全风险](https://posts.careerengine.us/p/66960659764e176a98eaee10) 
 - [2023-07-30-开发一个浏览器插件在第三天卖出-1000-元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/) 
+- [2023-07-30-开发一个浏览器插件在第三天卖出-1000-元](https://lutaonan.com/blog/my-extension-sold-1k-yuan) 
 - [2021-06-16-Xbox-Series-S-一个月使用感受](https://lutaonan.com/blog/xbox-series-s/) 
 - [2021-12-20-精读《深入了解现代浏览器四》](https://zhuanlan.zhihu.com/p/447497181) 
 - [2021-12-13-精读《深入了解现代浏览器三》](https://zhuanlan.zhihu.com/p/444558882) 
@@ -543,6 +545,7 @@
 - [2020-01-10-Lazy-Load-Apollo-Link-in-Apollo-Client](https://blog.axlight.com/posts/lazy-load-apollo-link-in-apollo-client/) 
 - [2018-12-22-Injecting-a-client-side-script-in-GraphQL-Playground-in-Apollo-Server](https://blog.axlight.com/posts/injecting-a-client-side-script-in-graphql-playground-in-apollo-server/) 
 - [2023-08-08-Blogged-Answers:-My-Experience-Modernizing-Packages-to-ESM](https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons/) 
+- [2025-02-14-Firefox-+-custom-elements-+-iframes-bug](https://jakearchibald.com/2025/firefox-custom-elements-iframes-bug/) 
 - [2021-10-12-How-to-win-at-CORS](https://jakearchibald.com/2021/cors/) 
 - [2020-01-01-My-Decade-in-Review](https://overreacted.io/my-decade-in-review/) 
 - [2024-09-06-actualbudget/actual-server](https://github.com/actualbudget/actual-server) 

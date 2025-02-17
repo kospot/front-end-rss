@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-10-24 12:57:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-17 17:05:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Jake Archibald's blog
 
 
 
 
+- [2025-02-14-Firefox-+-custom-elements-+-iframes-bug](https://jakearchibald.com/2025/firefox-custom-elements-iframes-bug/) 
 - [2024-10-18-How-should-&amp;lt;selectedoption&amp;gt;-work?](https://jakearchibald.com/2024/how-should-selectedoption-work/) 
 - [2024-08-05-Video-with-alpha-transparency-on-the-web](https://jakearchibald.com/2024/video-with-transparency/) 
 - [2024-07-30-Garbage-collection-and-closures](https://jakearchibald.com/2024/garbage-collection-and-closures/) 

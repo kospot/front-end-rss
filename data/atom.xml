@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-02T19:03:24.963Z</updated>
+    <updated>2025-02-17T09:05:45.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,118 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[借助 AI 生成 Python 脚本，将阅读记录自动同步到日历]]></title>
+        <id>https://sspai.com/post/96121</id>
+        <link href="https://sspai.com/post/96121"/>
+        <updated>2025-02-16T16:00:00.000Z</updated>
+        <published>2025-02-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conditional types in TypeScript]]></title>
+        <id>https://2ality.com/2025/02/conditional-types-typescript.html</id>
+        <link href="https://2ality.com/2025/02/conditional-types-typescript.html"/>
+        <updated>2025-02-14T16:00:00.000Z</updated>
+        <published>2025-02-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mapped types in TypeScript]]></title>
+        <id>https://2ality.com/2025/02/mapped-types-typescript.html</id>
+        <link href="https://2ality.com/2025/02/mapped-types-typescript.html"/>
+        <updated>2025-02-13T16:00:00.000Z</updated>
+        <published>2025-02-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox + custom elements + iframes bug]]></title>
+        <id>https://jakearchibald.com/2025/firefox-custom-elements-iframes-bug/</id>
+        <link href="https://jakearchibald.com/2025/firefox-custom-elements-iframes-bug/"/>
+        <updated>2025-02-13T16:00:00.000Z</updated>
+        <published>2025-02-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing TypeScript 5.8 RC]]></title>
+        <id>https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-rc/</id>
+        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-rc/"/>
+        <updated>2025-02-13T16:00:00.000Z</updated>
+        <published>2025-02-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具透 Plus |  向 Chrome 133 学写提示词，随 Android 16 一起「登岛」]]></title>
+        <id>https://sspai.com/prime/story/inside-release-notes-250214</id>
+        <link href="https://sspai.com/prime/story/inside-release-notes-250214"/>
+        <updated>2025-02-13T16:00:00.000Z</updated>
+        <published>2025-02-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要搞混了，不是text而是CSS font-size-adjust属性]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/"/>
+        <updated>2025-02-11T16:00:00.000Z</updated>
+        <published>2025-02-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript: extracting parts of composite types via <code>infer</code>]]></title>
+        <id>https://2ality.com/2025/02/typescript-infer-operator.html</id>
+        <link href="https://2ality.com/2025/02/typescript-infer-operator.html"/>
+        <updated>2025-02-09T16:00:00.000Z</updated>
+        <published>2025-02-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS Set新支持了intersection, union, difference等方法]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/"/>
+        <updated>2025-02-09T16:00:00.000Z</updated>
+        <published>2025-02-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何构建和优化推理型大型语言模型？DeepSeek R1的启示]]></title>
+        <id>https://www.52nlp.cn/%e5%a6%82%e4%bd%95%e6%9e%84%e5%bb%ba%e5%92%8c%e4%bc%98%e5%8c%96%e6%8e%a8%e7%90%86%e5%9e%8b%e5%a4%a7%e5%9e%8b%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%ef%bc%9fdeepseek-r1%e7%9a%84%e5%90%af%e7%a4%ba</id>
+        <link href="https://www.52nlp.cn/%e5%a6%82%e4%bd%95%e6%9e%84%e5%bb%ba%e5%92%8c%e4%bc%98%e5%8c%96%e6%8e%a8%e7%90%86%e5%9e%8b%e5%a4%a7%e5%9e%8b%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%ef%bc%9fdeepseek-r1%e7%9a%84%e5%90%af%e7%a4%ba"/>
+        <updated>2025-02-08T16:00:00.000Z</updated>
+        <published>2025-02-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript: the <code>satisfies</code> operator]]></title>
+        <id>https://2ality.com/2025/02/satisfies-operator.html</id>
+        <link href="https://2ality.com/2025/02/satisfies-operator.html"/>
+        <updated>2025-02-07T16:00:00.000Z</updated>
+        <published>2025-02-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle dabbles in some JavaScript comedy]]></title>
+        <id>https://javascriptweekly.com/issues/722</id>
+        <link href="https://javascriptweekly.com/issues/722"/>
+        <updated>2025-02-06T16:00:00.000Z</updated>
+        <published>2025-02-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read-only accessibility in TypeScript]]></title>
+        <id>https://2ality.com/2025/02/typescript-readonly.html</id>
+        <link href="https://2ality.com/2025/02/typescript-readonly.html"/>
+        <updated>2025-02-05T16:00:00.000Z</updated>
+        <published>2025-02-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS Array数组新的with方法，你知道作用吗？]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/"/>
+        <updated>2025-02-05T16:00:00.000Z</updated>
+        <published>2025-02-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: publishing ESM-based npm packages with TypeScript]]></title>
+        <id>https://2ality.com/2025/02/typescript-esm-packages.html</id>
+        <link href="https://2ality.com/2025/02/typescript-esm-packages.html"/>
+        <updated>2025-02-03T16:00:00.000Z</updated>
+        <published>2025-02-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A TypeScript release targeted at Node developers]]></title>
+        <id>https://nodeweekly.com/issues/565</id>
+        <link href="https://nodeweekly.com/issues/565"/>
+        <updated>2025-02-03T16:00:00.000Z</updated>
+        <published>2025-02-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[春节聚会玩什么？这 11 款多人游戏让假期充满欢声笑语]]></title>
         <id>https://sspai.com/post/95857</id>
         <link href="https://sspai.com/post/95857"/>
@@ -22,9 +134,23 @@
         <published>2025-01-31T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS scrollbar-color and scrollbar-gutter are Baseline Newly available]]></title>
+        <id>https://web.dev/blog/baseline-scrollbar-props?hl=en</id>
+        <link href="https://web.dev/blog/baseline-scrollbar-props?hl=en"/>
+        <updated>2025-01-31T16:00:00.000Z</updated>
+        <published>2025-01-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[新的一年，布局自己]]></title>
         <id>http://weixin.sogou.com/weixin?type=2&amp;query=%E6%B4%9E%E8%A7%81+%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%EF%BC%8C%E5%B8%83%E5%B1%80%E8%87%AA%E5%B7%B1</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%B4%9E%E8%A7%81+%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%EF%BC%8C%E5%B8%83%E5%B1%80%E8%87%AA%E5%B7%B1"/>
+        <updated>2025-01-30T16:00:00.000Z</updated>
+        <published>2025-01-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby on Rails on WebAssembly, the full-stack in-browser journey]]></title>
+        <id>https://web.dev/blog/ruby-on-rails-on-webassembly?hl=en</id>
+        <link href="https://web.dev/blog/ruby-on-rails-on-webassembly?hl=en"/>
         <updated>2025-01-30T16:00:00.000Z</updated>
         <published>2025-01-30T16:00:00.000Z</published>
     </entry>
@@ -43,6 +169,13 @@
         <published>2025-01-29T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Computing with tuple types in TypeScript]]></title>
+        <id>https://2ality.com/2025/01/typescript-tuples.html</id>
+        <link href="https://2ality.com/2025/01/typescript-tuples.html"/>
+        <updated>2025-01-28T16:00:00.000Z</updated>
+        <published>2025-01-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Things people get wrong about Electron]]></title>
         <id>https://nodeweekly.com/issues/564</id>
         <link href="https://nodeweekly.com/issues/564"/>
@@ -50,11 +183,25 @@
         <published>2025-01-27T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Template literal types in TypeScript: parsing during type checking and more]]></title>
+        <id>https://2ality.com/2025/01/template-literal-types.html</id>
+        <link href="https://2ality.com/2025/01/template-literal-types.html"/>
+        <updated>2025-01-23T16:00:00.000Z</updated>
+        <published>2025-01-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JS原生的深拷贝API structuredClone函数简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/"/>
         <updated>2025-01-21T16:00:00.000Z</updated>
         <published>2025-01-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript proposal: RegExp escaping]]></title>
+        <id>https://2ality.com/2025/01/regexp-escape.html</id>
+        <link href="https://2ality.com/2025/01/regexp-escape.html"/>
+        <updated>2025-01-20T16:00:00.000Z</updated>
+        <published>2025-01-20T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[NodeBB, the Node.js powered forum system]]></title>
@@ -216,152 +363,5 @@
         <link href="https://javascriptweekly.com/issues/717"/>
         <updated>2024-12-18T16:00:00.000Z</updated>
         <published>2024-12-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A look back at Node's 2024]]></title>
-        <id>https://nodeweekly.com/issues/560</id>
-        <link href="https://nodeweekly.com/issues/560"/>
-        <updated>2024-12-16T16:00:00.000Z</updated>
-        <published>2024-12-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarking Node's recent performance enhancements]]></title>
-        <id>https://javascriptweekly.com/issues/716</id>
-        <link href="https://javascriptweekly.com/issues/716"/>
-        <updated>2024-12-11T16:00:00.000Z</updated>
-        <published>2024-12-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全新的CSS相对颜色语法-使用from和calc()]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/"/>
-        <updated>2024-12-10T16:00:00.000Z</updated>
-        <published>2024-12-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do the State of CSS and HTML surveys tell us?]]></title>
-        <id>https://web.dev/blog/state-of-css-html-2024?hl=en</id>
-        <link href="https://web.dev/blog/state-of-css-html-2024?hl=en"/>
-        <updated>2024-12-05T16:00:00.000Z</updated>
-        <published>2024-12-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英文单词朗读基于音素预估时长的JS算法]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/"/>
-        <updated>2024-12-05T16:00:00.000Z</updated>
-        <published>2024-12-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle engages its lawyers and JavaScript turns 29]]></title>
-        <id>https://javascriptweekly.com/issues/715</id>
-        <link href="https://javascriptweekly.com/issues/715"/>
-        <updated>2024-12-04T16:00:00.000Z</updated>
-        <published>2024-12-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哇哦，font-palette支持动画和palette-mix()混合函数了]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/"/>
-        <updated>2024-12-03T16:00:00.000Z</updated>
-        <published>2024-12-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A full-fledged canvas for Node.js apps]]></title>
-        <id>https://nodeweekly.com/issues/558</id>
-        <link href="https://nodeweekly.com/issues/558"/>
-        <updated>2024-12-02T16:00:00.000Z</updated>
-        <published>2024-12-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS好用的color-mix颜色函数也可以使用啦]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/"/>
-        <updated>2024-11-28T16:00:00.000Z</updated>
-        <published>2024-11-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking the JavaScript trademark fight to the USPTO]]></title>
-        <id>https://nodeweekly.com/issues/557</id>
-        <link href="https://nodeweekly.com/issues/557"/>
-        <updated>2024-11-25T16:00:00.000Z</updated>
-        <published>2024-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Grid布局中的subgrid的适用场景]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/"/>
-        <updated>2024-11-24T16:00:00.000Z</updated>
-        <published>2024-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing TypeScript 5.7]]></title>
-        <id>https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/</id>
-        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/"/>
-        <updated>2024-11-22T16:00:00.000Z</updated>
-        <published>2024-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Summit US 2024: Maintaining a Library and a Community]]></title>
-        <id>https://blog.isquaredsoftware.com/2024/11/presentations-maintaining-community/</id>
-        <link href="https://blog.isquaredsoftware.com/2024/11/presentations-maintaining-community/"/>
-        <updated>2024-11-21T16:00:00.000Z</updated>
-        <published>2024-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Advanced 2024: Designing Effective Documentation]]></title>
-        <id>https://blog.isquaredsoftware.com/2024/11/presentations-designing-documentation/</id>
-        <link href="https://blog.isquaredsoftware.com/2024/11/presentations-designing-documentation/"/>
-        <updated>2024-11-21T16:00:00.000Z</updated>
-        <published>2024-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring JavaScript symbols]]></title>
-        <id>https://javascriptweekly.com/issues/714</id>
-        <link href="https://javascriptweekly.com/issues/714"/>
-        <updated>2024-11-20T16:00:00.000Z</updated>
-        <published>2024-11-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastodon’s weaknesses and how to fix them]]></title>
-        <id>https://2ality.com/2024/11/mastodon-weaknesses.html</id>
-        <link href="https://2ality.com/2024/11/mastodon-weaknesses.html"/>
-        <updated>2024-11-19T16:00:00.000Z</updated>
-        <published>2024-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Node to get ChatGPT on the phone]]></title>
-        <id>https://nodeweekly.com/issues/556</id>
-        <link href="https://nodeweekly.com/issues/556"/>
-        <updated>2024-11-18T16:00:00.000Z</updated>
-        <published>2024-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS文本选区变化selectionchange事件实践小记]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/"/>
-        <updated>2024-11-16T16:00:00.000Z</updated>
-        <published>2024-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch the Web AI Summit 2024 videos]]></title>
-        <id>https://web.dev/blog/web-ai-summit-2024-recap?hl=en</id>
-        <link href="https://web.dev/blog/web-ai-summit-2024-recap?hl=en"/>
-        <updated>2024-11-14T16:00:00.000Z</updated>
-        <published>2024-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这啥?CSS calc-size和interpolate-size,真学不动了]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/"/>
-        <updated>2024-11-13T16:00:00.000Z</updated>
-        <published>2024-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node v23.2 released]]></title>
-        <id>https://nodeweekly.com/issues/555</id>
-        <link href="https://nodeweekly.com/issues/555"/>
-        <updated>2024-11-11T16:00:00.000Z</updated>
-        <published>2024-11-11T16:00:00.000Z</published>
     </entry>
 </feed>

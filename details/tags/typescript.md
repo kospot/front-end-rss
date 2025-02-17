@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-03 03:03:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-17 17:05:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565) 
 - [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561) 
 - [2024-08-27-Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545) 
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542) 
@@ -152,6 +153,7 @@
 - [2024-08-21-TypeScript-中的-satisfies-运算符与-as-运算符的详细对比](https://juejin.cn/post/7405158247585087488) 
 - [2024-07-22-TypeScript技术系列：基础类型详解与应用](https://juejin.cn/post/7393893498435862562) 
 - [2022-03-27-Extract-parameter-types-from-string-literal-types-with-TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/) 
+- [2025-02-14-Announcing-TypeScript-5.8-RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-rc/) 
 - [2025-01-30-Announcing-TypeScript-5.8-Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-beta/) 
 - [2024-11-23-Announcing-TypeScript-5.7](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/) 
 - [2024-11-09-Announcing-TypeScript-5.7-RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-rc/) 
@@ -172,6 +174,14 @@
 - [2023-07-19-Why-Zustand-Typescript-Implementation-Is-So-Ugly](https://blog.axlight.com/posts/why-zustand-typescript-implementation-is-so-ugly/) 
 - [2021-02-19-换个角度理解-Typescript-的-type-和-interface](https://zhuanlan.zhihu.com/p/351213183) 
 - [2021-01-12-Embrace-TypeScript](https://zhuanlan.zhihu.com/p/342240878) 
+- [2025-02-15-Conditional-types-in-TypeScript](https://2ality.com/2025/02/conditional-types-typescript.html) 
+- [2025-02-14-Mapped-types-in-TypeScript](https://2ality.com/2025/02/mapped-types-typescript.html) 
+- [2025-02-10-TypeScript:-extracting-parts-of-composite-types-via-&lt;code&gt;infer&lt;/code&gt;](https://2ality.com/2025/02/typescript-infer-operator.html) 
+- [2025-02-08-TypeScript:-the-&lt;code&gt;satisfies&lt;/code&gt;-operator](https://2ality.com/2025/02/satisfies-operator.html) 
+- [2025-02-06-Read-only-accessibility-in-TypeScript](https://2ality.com/2025/02/typescript-readonly.html) 
+- [2025-02-04-Tutorial:-publishing-ESM-based-npm-packages-with-TypeScript](https://2ality.com/2025/02/typescript-esm-packages.html) 
+- [2025-01-29-Computing-with-tuple-types-in-TypeScript](https://2ality.com/2025/01/typescript-tuples.html) 
+- [2025-01-24-Template-literal-types-in-TypeScript:-parsing-during-type-checking-and-more](https://2ality.com/2025/01/template-literal-types.html) 
 - [2025-01-19-TypeScript-enums:-use-cases-and-alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html) 
 - [2025-01-08-Node’s-new-built-in-support-for-TypeScript](https://2ality.com/2025/01/nodejs-strip-type.html) 
 - [2022-11-14-从类型兼容开始，认识-TypeScript](https://zhuanlan.zhihu.com/p/583361540) 

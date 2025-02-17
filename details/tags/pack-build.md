@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-03 03:03:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-17 17:05:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -325,6 +325,7 @@
 - [2024-10-23-给本地设备加一层保险：我的低功率-UPS-不间断电源构建思路](https://sspai.com/post/90258) 
 - [2024-07-22-GraphRAG-+-GPT-4o-mini-低成本构建-AI-图谱知识库](https://sspai.com/post/90665) 
 - [2024-07-14-WizardLM新作！ArenaLearning：通过模拟LLM竞技场来构建大规模数据飞轮](https://posts.careerengine.us/p/6693d712e7f7a74a42320e38) 
+- [2025-02-09-如何构建和优化推理型大型语言模型？DeepSeek-R1的启示](https://www.52nlp.cn/%e5%a6%82%e4%bd%95%e6%9e%84%e5%bb%ba%e5%92%8c%e4%bc%98%e5%8c%96%e6%8e%a8%e7%90%86%e5%9e%8b%e5%a4%a7%e5%9e%8b%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%ef%bc%9fdeepseek-r1%e7%9a%84%e5%90%af%e7%a4%ba) 
 - [2024-04-10-Refreshed-Nuxt-ESLint-Integrations](https://antfu.me/posts/refreshed-nuxt-eslint) 
 - [2024-04-06-Introducing-ESLint-Config-Inspector](https://antfu.me/posts/eslint-config-inspector) 
 - [2023-07-13-pnpm-on-External-disk](https://antfu.me/posts/pnpm-external-disk) 
