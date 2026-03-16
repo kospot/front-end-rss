@@ -47,6 +47,10 @@ function handleFeed() {
   rssJson = fs.readJsonSync(RSS_PATH)
   const linksExist = fs.readJsonSync(LINKS_PATH)
   linksJson = []
+  // 只保留最近 N 天的数据
+  const KEEP_DAYS = 30
+  const cutoffDate = moment().subtract(KEEP_DAYS - 1, 'days').format('YYYY-MM-DD')
+
   newData = {
     length: 0,
     titles: [],
@@ -89,6 +93,11 @@ function handleFeed() {
           return a.date < b.date ? 1 : -1
         })
       }
+      // 统一按日期过滤，只保留最近 KEEP_DAYS 天
+      allItems = allItems.filter((item) => {
+        return item.date && item.date >= cutoffDate
+      })
+
       linksJson[rssIndex] = {
         title: rssItem.title,
         items: allItems
