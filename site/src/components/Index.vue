@@ -1,4 +1,5 @@
 <template>
+  <div class="page-root">
   <div class="container">
     <div class="fixed-box">
       <a class="action-feed" href="/atom.xml" title="Feed 订阅"></a>
@@ -67,8 +68,8 @@
       @clear="onClear"
       class="search-box"
     >
-      <div slot="label" class="action-cate" @click="showCate = true"><van-icon name="bars" /><span class="lbl">筛选</span></div>
-      <div slot="action" class="action-btn" @click="onSearch">搜索</div>
+      <button type="button" class="action-cate action-btn--secondary" @click="showCate = true"><van-icon name="bars" /><span class="lbl">筛选</span></button>
+      <button type="button" class="action-btn action-btn--primary" @click="onSearch">搜索</button>
     </van-search>
 
      <div
@@ -96,7 +97,7 @@
         >
           <van-cell is-link>
             <div slot="icon" class="item-order">{{index+1}}、</div>
-            <div slot="label">{{item.date}}<span class="item-from">{{item.rssTitle}}</span> </div>
+            <div slot="label" class="item-label">{{ formatDisplayDate(item.date) }}<span class="item-from">{{ item.rssTitle }}</span></div>
             <div slot="title" class="item-title" v-html="item.sotitle || item.title"></div>
           </van-cell>
         </a>
@@ -106,6 +107,7 @@
 
      </div>
 
+  </div>
   </div>
 </template>
 
@@ -180,6 +182,11 @@ export default {
     }
   },
   methods: {
+    formatDisplayDate (dateStr) {
+      if (!dateStr) return ''
+      const d = dayjs(dateStr)
+      return d.isValid() ? d.format('MMM D') : dateStr
+    },
     toTop () {
       window.scrollTo(0, 0)
     },
@@ -362,9 +369,22 @@ export default {
 </script>
 
 <style>
+/* Design system: base 14px, flex/grid layout, button hierarchy */
+.page-root {
+  font-size: 14px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .container {
-    width: 50%;
-    margin: 0 auto
+  width: 50%;
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
 }
 
 .fixed-box {
@@ -433,11 +453,14 @@ export default {
 }
 
 .search-modal .van-tag {
-    background: #bbb;
-    margin: .25rem;
-    cursor: pointer;
-    padding: .25rem .5rem;
-    font-size: .8125rem
+  background: #e8e8e8;
+  margin: 6px;
+  cursor: pointer;
+  padding: 6px 12px;
+  font-size: 13px;
+  border-radius: 4px;
+  border: none;
+  transition: background-color 0.2s;
 }
 
 .search-modal .van-tag:hover {
@@ -474,15 +497,18 @@ export default {
 .filter-row {
   display: flex;
   align-items: center;
+  width: 100%;
 }
 
 .filter-cell {
   font-size: 14px;
   background-color: rgba(255, 255, 255, 0.6);
-  padding: 4px 16px;
+  padding: 8px 16px;
   display: flex;
   align-items: center;
   text-align: left;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .filter-cell .lbl {
@@ -497,11 +523,13 @@ export default {
 }
 
 .result-box {
-    padding: 4.375rem 0 .375rem;
-    background: #fff;
-    min-height: 100vh;
-    box-sizing: border-box;
-    position: relative
+  padding: 4.375rem 0 1.5rem;
+  background: #fff;
+  min-height: 60vh;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
 }
 
 .result-box .van-loading {
@@ -524,11 +552,9 @@ export default {
 }
 
 .result-box .empty {
-    text-align: center;
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 30%
+  text-align: center;
+  margin: 10vh auto;
+  flex-shrink: 0;
 }
 
 .result-box .empty .van-icon {
@@ -622,8 +648,8 @@ export default {
 }
 
 .search-box input {
-    font-size: 1rem;
-    color: #999
+  font-size: 14px;
+  color: #333;
 }
 
 .search-box .van-search__action:active {
@@ -671,9 +697,44 @@ export default {
     vertical-align: middle
 }
 
+/* Button hierarchy: Primary = main action, Secondary = alternative */
 .search-box .action-btn {
-    color: #007fff;
-    cursor: pointer
+  padding: 0 14px;
+  height: 32px;
+  line-height: 30px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  border: none;
+  transition: background-color 0.2s, color 0.2s;
+}
+.search-box .action-btn--primary {
+  color: #fff;
+  background-color: #007fff;
+}
+.search-box .action-btn--primary:hover,
+.search-box .action-btn--primary:active {
+  background-color: #0066dd;
+}
+.search-box .action-btn--secondary {
+  color: #007fff;
+  background: transparent;
+  border: 1px solid #007fff;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 10px;
+}
+.search-box .action-btn--secondary:hover,
+.search-box .action-btn--secondary:active {
+  background-color: rgba(0, 127, 255, 0.08);
+}
+.search-box .action-cate.action-btn--secondary {
+  background: #fff;
+}
+.search-box .action-cate.action-btn--secondary:hover,
+.search-box .action-cate.action-btn--secondary:active {
+  background: rgba(0, 127, 255, 0.06);
 }
 
 @media screen and (max-width: 1200px) {
