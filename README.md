@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-17 23:01:59，:rocket: 更新条数: +479， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-18 06:01:38，:rocket: 更新条数: +712， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -24,25 +24,25 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [favorite-link](#favorite-link)  
-- [酷-壳-–-CoolShell](#酷-壳-–-coolshell)  
+- [酷-壳-–-CoolShell](#酷-壳-–-coolshell)![](/assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [掘金字节前端](#掘金字节前端)  
 - [掘金飞猪前端](#掘金飞猪前端)  
 - [美团技术团队](#美团技术团队)![](/assets/dot.png)   
 - [web.dev](#web.dev)  
 - [少数派](#少数派)  
-- [洞见](#洞见)  
+- [洞见](#洞见)![](/assets/dot.png)   
 - [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
-- [我爱自然语言处理](#我爱自然语言处理)  
+- [我爱自然语言处理](#我爱自然语言处理)![](/assets/dot.png)   
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
-- [Randy's-Blog](#randy's-blog)  
+- [Randy's-Blog](#randy's-blog)![](/assets/dot.png)   
 - [googleUpdates](#googleupdates)  
-- [知乎专栏前端精读](#知乎专栏前端精读)  
+- [知乎专栏前端精读](#知乎专栏前端精读)![](/assets/dot.png)   
 - [萧宸宇](#萧宸宇)  
 - [Anthony-Fu](#anthony-fu)![](/assets/dot.png)   
 - [oldj's-blog](#oldj's-blog)  
@@ -55,14 +55,14 @@
 - [Daishi-Kato's-blog](#daishi-kato's-blog)![](/assets/dot.png)   
 - [Mark's-Dev-Blog](#mark's-dev-blog)![](/assets/dot.png)   
 - [Ben-Awad](#ben-awad)  
-- [Jake-Archibald's-blog](#jake-archibald's-blog)  
-- [Dan-Abramov's-Overreacted](#dan-abramov's-overreacted)  
-- [Phodal---手工艺人](#phodal---手工艺人)  
+- [Jake-Archibald's-blog](#jake-archibald's-blog)![](/assets/dot.png)   
+- [Dan-Abramov's-Overreacted](#dan-abramov's-overreacted)![](/assets/dot.png)   
+- [Phodal---手工艺人](#phodal---手工艺人)![](/assets/dot.png)   
 - [Trending-JavaScript-repositories](#trending-javascript-repositories)  
-- [阿里-CCO-体验技术专刊](#阿里-cco-体验技术专刊)  
+- [阿里-CCO-体验技术专刊](#阿里-cco-体验技术专刊)![](/assets/dot.png)   
 - [唐巧的技术博客](#唐巧的技术博客)![](/assets/dot.png)   
 - [2ality](#2ality)  
-- [前端外刊评论](#前端外刊评论)  
+- [前端外刊评论](#前端外刊评论)![](/assets/dot.png)   
 - [InfoQ](#infoq)  
 - [InfoQ](#infoq)  
 
@@ -89,6 +89,7 @@
 </summary>
 
 
+- [2026-03-17-It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777) ![](/assets/new.png)  
 - [2026-03-10-TypeScript-6.0-RC-and-Solid-2.0-beta-arrive](https://javascriptweekly.com/issues/776)  
 - [2026-03-03-External-import-maps,-a-big-Bun-release,-and-Node.js-schedule-changes](https://javascriptweekly.com/issues/775)  
 - [2026-02-24-Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774)  
@@ -294,11 +295,16 @@
 </summary>
 
 
-- [2026-03-16-各位家长还是买便宜点的衣服吧！](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%90%84%E4%BD%8D%E5%AE%B6%E9%95%BF%E8%BF%98%E6%98%AF%E4%B9%B0%E4%BE%BF%E5%AE%9C%E7%82%B9%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%90%A7%EF%BC%81)  
-- [2026-03-16-人一旦开窍了，就不会看重任何关系](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BA%BA%E4%B8%80%E6%97%A6%E5%BC%80%E7%AA%8D%E4%BA%86%EF%BC%8C%E5%B0%B1%E4%B8%8D%E4%BC%9A%E7%9C%8B%E9%87%8D%E4%BB%BB%E4%BD%95%E5%85%B3%E7%B3%BB)  
-- [2026-03-16-人到中年，久坐真的会要命](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%EF%BC%8C%E4%B9%85%E5%9D%90%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A6%81%E5%91%BD)  
-- [2026-03-16-跟青春期孩子相处最好的方式](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E8%B7%9F%E9%9D%92%E6%98%A5%E6%9C%9F%E5%AD%A9%E5%AD%90%E7%9B%B8%E5%A4%84%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E5%BC%8F)  
+- [2026-03-17-“lulu系套装”突然火了，太时髦了！](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E2%80%9Clulu%E7%B3%BB%E5%A5%97%E8%A3%85%E2%80%9D%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86%EF%BC%8C%E5%A4%AA%E6%97%B6%E9%AB%A6%E4%BA%86%EF%BC%81) ![](/assets/new.png)  
+- [2026-03-17-《易经》四句话，解决工作中90%的问题](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E3%80%8A%E6%98%93%E7%BB%8F%E3%80%8B%E5%9B%9B%E5%8F%A5%E8%AF%9D%EF%BC%8C%E8%A7%A3%E5%86%B3%E5%B7%A5%E4%BD%9C%E4%B8%AD90%25%E7%9A%84%E9%97%AE%E9%A2%98) ![](/assets/new.png)  
+- [2026-03-17-有一种养生叫：遇事不死磕](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%9C%89%E4%B8%80%E7%A7%8D%E5%85%BB%E7%94%9F%E5%8F%AB%EF%BC%9A%E9%81%87%E4%BA%8B%E4%B8%8D%E6%AD%BB%E7%A3%95) ![](/assets/new.png)  
+- [2026-03-17-当一个中年女人开始天天跑步，不再过度操心老公孩子，说明了什么？](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%BD%93%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%B9%B4%E5%A5%B3%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%A4%A9%E5%A4%A9%E8%B7%91%E6%AD%A5%EF%BC%8C%E4%B8%8D%E5%86%8D%E8%BF%87%E5%BA%A6%E6%93%8D%E5%BF%83%E8%80%81%E5%85%AC%E5%AD%A9%E5%AD%90%EF%BC%8C%E8%AF%B4%E6%98%8E%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F) ![](/assets/new.png)  
+- [2026-03-17-一个人被锁死在底层的原因：沉溺情绪型消费](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%A2%AB%E9%94%81%E6%AD%BB%E5%9C%A8%E5%BA%95%E5%B1%82%E7%9A%84%E5%8E%9F%E5%9B%A0%EF%BC%9A%E6%B2%89%E6%BA%BA%E6%83%85%E7%BB%AA%E5%9E%8B%E6%B6%88%E8%B4%B9) ![](/assets/new.png)  
 - [2026-03-16-真正累死你的，不是工作，而是跟谁一起工作](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E7%9C%9F%E6%AD%A3%E7%B4%AF%E6%AD%BB%E4%BD%A0%E7%9A%84%EF%BC%8C%E4%B8%8D%E6%98%AF%E5%B7%A5%E4%BD%9C%EF%BC%8C%E8%80%8C%E6%98%AF%E8%B7%9F%E8%B0%81%E4%B8%80%E8%B5%B7%E5%B7%A5%E4%BD%9C)  
+- [2026-03-16-跟青春期孩子相处最好的方式](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E8%B7%9F%E9%9D%92%E6%98%A5%E6%9C%9F%E5%AD%A9%E5%AD%90%E7%9B%B8%E5%A4%84%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E5%BC%8F)  
+- [2026-03-16-人到中年，久坐真的会要命](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%EF%BC%8C%E4%B9%85%E5%9D%90%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A6%81%E5%91%BD)  
+- [2026-03-16-人一旦开窍了，就不会看重任何关系](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BA%BA%E4%B8%80%E6%97%A6%E5%BC%80%E7%AA%8D%E4%BA%86%EF%BC%8C%E5%B0%B1%E4%B8%8D%E4%BC%9A%E7%9C%8B%E9%87%8D%E4%BB%BB%E4%BD%95%E5%85%B3%E7%B3%BB)  
+- [2026-03-16-各位家长还是买便宜点的衣服吧！](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%90%84%E4%BD%8D%E5%AE%B6%E9%95%BF%E8%BF%98%E6%98%AF%E4%B9%B0%E4%BE%BF%E5%AE%9C%E7%82%B9%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%90%A7%EF%BC%81)  
 - [......【查看更多】......](/details/洞见.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -586,8 +592,8 @@
 </summary>
 
 
-- [2026-03-16-Harness-Engineering-实践：Fitness-Function-如何成为-AI-交付的防腐层](https://zhuanlan.zhihu.com/p/2017015528984717268)  
 - [2026-03-16-Harness-Engineering-的防御视角：从-Codex-Security-看-AI-生成代码的治理](https://zhuanlan.zhihu.com/p/2017014727977496848)  
+- [2026-03-16-Harness-Engineering-实践：Fitness-Function-如何成为-AI-交付的防腐层](https://zhuanlan.zhihu.com/p/2017015528984717268)  
 - [2026-03-11-Harness-Engineering：为-AI-Coding-Agent-构建工程系统](https://zhuanlan.zhihu.com/p/2015043541823424323)  
 - [2026-03-03-万物皆-Coding-Agent-的平台工程新范式（A2A-/-ACP-/-MCP-/-Skill）](https://zhuanlan.zhihu.com/p/2012162845169694492)  
 - [2026-03-02-Agent-Team-实践与架构设计：在约束下构建可演进的一个人开发团队](https://zhuanlan.zhihu.com/p/2011849479800787650)  

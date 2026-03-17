@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-17T15:02:00.059Z</updated>
+    <updated>2026-03-17T22:01:39.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[少数派十四周年直播：我们挑选了这四类好产品]]></title>
         <id>https://sspai.com/post/107428</id>
         <link href="https://sspai.com/post/107428"/>
+        <updated>2026-03-16T16:00:00.000Z</updated>
+        <published>2026-03-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s about time: Temporal advances, Vite accelerates]]></title>
+        <id>https://javascriptweekly.com/issues/777</id>
+        <link href="https://javascriptweekly.com/issues/777"/>
         <updated>2026-03-16T16:00:00.000Z</updated>
         <published>2026-03-16T16:00:00.000Z</published>
     </entry>
