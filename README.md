@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-17 12:02:21，:rocket: 更新条数: +595， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-17 15:02:52，:rocket: 更新条数: +415， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -30,7 +30,7 @@
 - [掘金飞猪前端](#掘金飞猪前端)  
 - [美团技术团队](#美团技术团队)![](/assets/dot.png)   
 - [web.dev](#web.dev)  
-- [少数派](#少数派)  
+- [少数派](#少数派)![](/assets/dot.png)   
 - [洞见](#洞见)  
 - [机器之心](#机器之心)  
 - [量子位](#量子位)  
@@ -40,7 +40,7 @@
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
-- [Randy's-Blog](#randy's-blog)![](/assets/dot.png)   
+- [Randy's-Blog](#randy's-blog)  
 - [googleUpdates](#googleupdates)  
 - [知乎专栏前端精读](#知乎专栏前端精读)  
 - [萧宸宇](#萧宸宇)  
@@ -52,17 +52,17 @@
 - [TypeScript](#typescript)![](/assets/dot.png)   
 - [sorrycc/blog](#sorrycc/blog)  
 - [阳志平的网志](#阳志平的网志)  
-- [Daishi-Kato's-blog](#daishi-kato's-blog)![](/assets/dot.png)   
+- [Daishi-Kato's-blog](#daishi-kato's-blog)  
 - [Mark's-Dev-Blog](#mark's-dev-blog)![](/assets/dot.png)   
 - [Ben-Awad](#ben-awad)  
 - [Jake-Archibald's-blog](#jake-archibald's-blog)  
 - [Dan-Abramov's-Overreacted](#dan-abramov's-overreacted)  
-- [Phodal---手工艺人](#phodal---手工艺人)![](/assets/dot.png)   
+- [Phodal---手工艺人](#phodal---手工艺人)  
 - [Trending-JavaScript-repositories](#trending-javascript-repositories)  
-- [阿里-CCO-体验技术专刊](#阿里-cco-体验技术专刊)![](/assets/dot.png)   
+- [阿里-CCO-体验技术专刊](#阿里-cco-体验技术专刊)  
 - [唐巧的技术博客](#唐巧的技术博客)![](/assets/dot.png)   
 - [2ality](#2ality)  
-- [前端外刊评论](#前端外刊评论)![](/assets/dot.png)   
+- [前端外刊评论](#前端外刊评论)  
 - [InfoQ](#infoq)  
 - [InfoQ](#infoq)  
 
@@ -267,16 +267,18 @@
 
 
 - [2026-03-17-派早报：Apple-发布-AirPods-Max-2，NVIDIA-发布-DLSS-5-等](https://sspai.com/post/107450)  
-- [2026-03-16-派评-|-近期值得关注的-App](https://sspai.com/post/107431)  
-- [2026-03-16-TDS-REVIEW｜天龙-PerL-Pro-降噪真无线耳机体验](https://sspai.com/post/107131)  
-- [2026-03-16-年度征文-|-新晋一家三口的秩序重建](https://sspai.com/post/106839)  
+- [2026-03-17-少数派十四周年直播：我们挑选了这四类好产品](https://sspai.com/post/107428) ![](/assets/new.png)  
+- [2026-03-17-为心脏健康持续护航，Apple-Watch-房颤迹象记录软件功能上线](https://sspai.com/post/107453) ![](/assets/new.png)  
 - [2026-03-16-派早报：市场监管总局整治「大字吸睛、小字免责」等广告乱象](https://sspai.com/post/107396)  
+- [2026-03-16-年度征文-|-新晋一家三口的秩序重建](https://sspai.com/post/106839)  
+- [2026-03-16-TDS-REVIEW｜天龙-PerL-Pro-降噪真无线耳机体验](https://sspai.com/post/107131)  
+- [2026-03-16-派评-|-近期值得关注的-App](https://sspai.com/post/107431)  
 - [2026-03-15-今夜，大模型从世界消散](https://sspai.com/post/106939)  
-- [2026-03-14-年度征文｜减了肥，人生就会变好吗？](https://sspai.com/post/106785)  
-- [2026-03-14-免费试读-|-日本温泉完全指南：如何找、怎么泡、泡哪里？](https://sspai.com/post/103326)  
 - [2026-03-14-Sonos-周年团购限时开启：专属好价仅限今日](https://sspai.com/post/107134)  
-- [2026-03-13-本周看什么-|-最近值得一看的-9-部作品](https://sspai.com/post/107183)  
+- [2026-03-14-免费试读-|-日本温泉完全指南：如何找、怎么泡、泡哪里？](https://sspai.com/post/103326)  
+- [2026-03-14-年度征文｜减了肥，人生就会变好吗？](https://sspai.com/post/106785)  
 - [2026-03-13-探访帝国之心，吴哥旅行完全指南（上）-：行程设计](https://sspai.com/post/106816)  
+- [2026-03-13-本周看什么-|-最近值得一看的-9-部作品](https://sspai.com/post/107183)  
 - [......【查看更多】......](/details/少数派.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

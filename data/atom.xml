@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-17T04:02:22.739Z</updated>
+    <updated>2026-03-17T07:02:53.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[少数派十四周年直播：我们挑选了这四类好产品]]></title>
+        <id>https://sspai.com/post/107428</id>
+        <link href="https://sspai.com/post/107428"/>
+        <updated>2026-03-16T16:00:00.000Z</updated>
+        <published>2026-03-16T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验]]></title>
         <id>https://sspai.com/post/107131</id>
