@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-17T09:05:45.279Z</updated>
+    <updated>2026-03-17T02:02:20.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -13,355 +13,117 @@
     <link rel="self" href="https://fed.chanceyu.com/atom.xml"/>
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
-    <rights>All rights reserved 2025 by ChaneYu</rights>
+    <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[借助 AI 生成 Python 脚本，将阅读记录自动同步到日历]]></title>
-        <id>https://sspai.com/post/96121</id>
-        <link href="https://sspai.com/post/96121"/>
-        <updated>2025-02-16T16:00:00.000Z</updated>
-        <published>2025-02-16T16:00:00.000Z</published>
+        <title type="html"><![CDATA[TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验]]></title>
+        <id>https://sspai.com/post/107131</id>
+        <link href="https://sspai.com/post/107131"/>
+        <updated>2026-03-15T16:00:00.000Z</updated>
+        <published>2026-03-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conditional types in TypeScript]]></title>
-        <id>https://2ality.com/2025/02/conditional-types-typescript.html</id>
-        <link href="https://2ality.com/2025/02/conditional-types-typescript.html"/>
-        <updated>2025-02-14T16:00:00.000Z</updated>
-        <published>2025-02-14T16:00:00.000Z</published>
+        <title type="html"><![CDATA[运动的科学原理与健康价值 - 读《锻炼》]]></title>
+        <id>https://blog.devtang.com/2026/03/14/exercise-book-summary/</id>
+        <link href="https://blog.devtang.com/2026/03/14/exercise-book-summary/"/>
+        <updated>2026-03-13T16:00:00.000Z</updated>
+        <published>2026-03-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mapped types in TypeScript]]></title>
-        <id>https://2ality.com/2025/02/mapped-types-typescript.html</id>
-        <link href="https://2ality.com/2025/02/mapped-types-typescript.html"/>
-        <updated>2025-02-13T16:00:00.000Z</updated>
-        <published>2025-02-13T16:00:00.000Z</published>
+        <title type="html"><![CDATA[重塑站外体验：大众点评 M 站基于 Qwik.js 的重构实践]]></title>
+        <id>https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html</id>
+        <link href="https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html"/>
+        <updated>2026-03-12T16:00:00.000Z</updated>
+        <published>2026-03-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox + custom elements + iframes bug]]></title>
-        <id>https://jakearchibald.com/2025/firefox-custom-elements-iframes-bug/</id>
-        <link href="https://jakearchibald.com/2025/firefox-custom-elements-iframes-bug/"/>
-        <updated>2025-02-13T16:00:00.000Z</updated>
-        <published>2025-02-13T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Can we all code Node like Matteo Collina?]]></title>
+        <id>https://nodeweekly.com/issues/615</id>
+        <link href="https://nodeweekly.com/issues/615"/>
+        <updated>2026-03-11T16:00:00.000Z</updated>
+        <published>2026-03-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Announcing TypeScript 5.8 RC]]></title>
-        <id>https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-rc/</id>
-        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-rc/"/>
-        <updated>2025-02-13T16:00:00.000Z</updated>
-        <published>2025-02-13T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Harness Engineering：为 AI Coding Agent 构建工程系统]]></title>
+        <id>https://zhuanlan.zhihu.com/p/2015043541823424323</id>
+        <link href="https://zhuanlan.zhihu.com/p/2015043541823424323"/>
+        <updated>2026-03-10T16:00:00.000Z</updated>
+        <published>2026-03-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[具透 Plus |  向 Chrome 133 学写提示词，随 Android 16 一起「登岛」]]></title>
-        <id>https://sspai.com/prime/story/inside-release-notes-250214</id>
-        <link href="https://sspai.com/prime/story/inside-release-notes-250214"/>
-        <updated>2025-02-13T16:00:00.000Z</updated>
-        <published>2025-02-13T16:00:00.000Z</published>
+        <title type="html"><![CDATA[TypeScript 6.0 RC and Solid 2.0 beta arrive]]></title>
+        <id>https://javascriptweekly.com/issues/776</id>
+        <link href="https://javascriptweekly.com/issues/776"/>
+        <updated>2026-03-09T16:00:00.000Z</updated>
+        <published>2026-03-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[不要搞混了，不是text而是CSS font-size-adjust属性]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/"/>
-        <updated>2025-02-11T16:00:00.000Z</updated>
-        <published>2025-02-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[HTML dialog元素新支持了closedBy属性]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/"/>
+        <updated>2026-03-08T16:00:00.000Z</updated>
+        <published>2026-03-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript: extracting parts of composite types via <code>infer</code>]]></title>
-        <id>https://2ality.com/2025/02/typescript-infer-operator.html</id>
-        <link href="https://2ality.com/2025/02/typescript-infer-operator.html"/>
-        <updated>2025-02-09T16:00:00.000Z</updated>
-        <published>2025-02-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[WebRTC IP 泄露问题]]></title>
+        <id>https://blog.devtang.com/2026/03/08/WebRTC-ip-leak/</id>
+        <link href="https://blog.devtang.com/2026/03/08/WebRTC-ip-leak/"/>
+        <updated>2026-03-07T16:00:00.000Z</updated>
+        <published>2026-03-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JS Set新支持了intersection, union, difference等方法]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/"/>
-        <updated>2025-02-09T16:00:00.000Z</updated>
-        <published>2025-02-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Announcing TypeScript 6.0 RC]]></title>
+        <id>https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/</id>
+        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/"/>
+        <updated>2026-03-06T16:00:00.000Z</updated>
+        <published>2026-03-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何构建和优化推理型大型语言模型？DeepSeek R1的启示]]></title>
-        <id>https://www.52nlp.cn/%e5%a6%82%e4%bd%95%e6%9e%84%e5%bb%ba%e5%92%8c%e4%bc%98%e5%8c%96%e6%8e%a8%e7%90%86%e5%9e%8b%e5%a4%a7%e5%9e%8b%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%ef%bc%9fdeepseek-r1%e7%9a%84%e5%90%af%e7%a4%ba</id>
-        <link href="https://www.52nlp.cn/%e5%a6%82%e4%bd%95%e6%9e%84%e5%bb%ba%e5%92%8c%e4%bc%98%e5%8c%96%e6%8e%a8%e7%90%86%e5%9e%8b%e5%a4%a7%e5%9e%8b%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%ef%bc%9fdeepseek-r1%e7%9a%84%e5%90%af%e7%a4%ba"/>
-        <updated>2025-02-08T16:00:00.000Z</updated>
-        <published>2025-02-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Node 25.8 adds permission model audit mode]]></title>
+        <id>https://nodeweekly.com/issues/614</id>
+        <link href="https://nodeweekly.com/issues/614"/>
+        <updated>2026-03-04T16:00:00.000Z</updated>
+        <published>2026-03-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript: the <code>satisfies</code> operator]]></title>
-        <id>https://2ality.com/2025/02/satisfies-operator.html</id>
-        <link href="https://2ality.com/2025/02/satisfies-operator.html"/>
-        <updated>2025-02-07T16:00:00.000Z</updated>
-        <published>2025-02-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[HTML interestfor属性与悬停popover交互效果]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/"/>
+        <updated>2026-03-03T16:00:00.000Z</updated>
+        <published>2026-03-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oracle dabbles in some JavaScript comedy]]></title>
-        <id>https://javascriptweekly.com/issues/722</id>
-        <link href="https://javascriptweekly.com/issues/722"/>
-        <updated>2025-02-06T16:00:00.000Z</updated>
-        <published>2025-02-06T16:00:00.000Z</published>
+        <title type="html"><![CDATA[External import maps, a big Bun release, and Node.js schedule changes]]></title>
+        <id>https://javascriptweekly.com/issues/775</id>
+        <link href="https://javascriptweekly.com/issues/775"/>
+        <updated>2026-03-02T16:00:00.000Z</updated>
+        <published>2026-03-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Read-only accessibility in TypeScript]]></title>
-        <id>https://2ality.com/2025/02/typescript-readonly.html</id>
-        <link href="https://2ality.com/2025/02/typescript-readonly.html"/>
-        <updated>2025-02-05T16:00:00.000Z</updated>
-        <published>2025-02-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Agent Team 实践与架构设计：在约束下构建可演进的一个人开发团队]]></title>
+        <id>https://zhuanlan.zhihu.com/p/2011849479800787650</id>
+        <link href="https://zhuanlan.zhihu.com/p/2011849479800787650"/>
+        <updated>2026-03-01T16:00:00.000Z</updated>
+        <published>2026-03-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JS Array数组新的with方法，你知道作用吗？]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/"/>
-        <updated>2025-02-05T16:00:00.000Z</updated>
-        <published>2025-02-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[AdonisJS v7 brings batteries-included framework upgrades]]></title>
+        <id>https://nodeweekly.com/issues/613</id>
+        <link href="https://nodeweekly.com/issues/613"/>
+        <updated>2026-02-25T16:00:00.000Z</updated>
+        <published>2026-02-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tutorial: publishing ESM-based npm packages with TypeScript]]></title>
-        <id>https://2ality.com/2025/02/typescript-esm-packages.html</id>
-        <link href="https://2ality.com/2025/02/typescript-esm-packages.html"/>
-        <updated>2025-02-03T16:00:00.000Z</updated>
-        <published>2025-02-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Oxfmt beta: 30x faster than Prettier, 100% compatible]]></title>
+        <id>https://javascriptweekly.com/issues/774</id>
+        <link href="https://javascriptweekly.com/issues/774"/>
+        <updated>2026-02-23T16:00:00.000Z</updated>
+        <published>2026-02-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A TypeScript release targeted at Node developers]]></title>
-        <id>https://nodeweekly.com/issues/565</id>
-        <link href="https://nodeweekly.com/issues/565"/>
-        <updated>2025-02-03T16:00:00.000Z</updated>
-        <published>2025-02-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[春节聚会玩什么？这 11 款多人游戏让假期充满欢声笑语]]></title>
-        <id>https://sspai.com/post/95857</id>
-        <link href="https://sspai.com/post/95857"/>
-        <updated>2025-01-31T16:00:00.000Z</updated>
-        <published>2025-01-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS scrollbar-color and scrollbar-gutter are Baseline Newly available]]></title>
-        <id>https://web.dev/blog/baseline-scrollbar-props?hl=en</id>
-        <link href="https://web.dev/blog/baseline-scrollbar-props?hl=en"/>
-        <updated>2025-01-31T16:00:00.000Z</updated>
-        <published>2025-01-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的一年，布局自己]]></title>
-        <id>http://weixin.sogou.com/weixin?type=2&amp;query=%E6%B4%9E%E8%A7%81+%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%EF%BC%8C%E5%B8%83%E5%B1%80%E8%87%AA%E5%B7%B1</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%B4%9E%E8%A7%81+%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%EF%BC%8C%E5%B8%83%E5%B1%80%E8%87%AA%E5%B7%B1"/>
-        <updated>2025-01-30T16:00:00.000Z</updated>
-        <published>2025-01-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruby on Rails on WebAssembly, the full-stack in-browser journey]]></title>
-        <id>https://web.dev/blog/ruby-on-rails-on-webassembly?hl=en</id>
-        <link href="https://web.dev/blog/ruby-on-rails-on-webassembly?hl=en"/>
-        <updated>2025-01-30T16:00:00.000Z</updated>
-        <published>2025-01-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A WebAssembly compiler in 192 bytes]]></title>
-        <id>https://javascriptweekly.com/issues/721</id>
-        <link href="https://javascriptweekly.com/issues/721"/>
-        <updated>2025-01-30T16:00:00.000Z</updated>
-        <published>2025-01-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing TypeScript 5.8 Beta]]></title>
-        <id>https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-beta/</id>
-        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-beta/"/>
-        <updated>2025-01-29T16:00:00.000Z</updated>
-        <published>2025-01-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computing with tuple types in TypeScript]]></title>
-        <id>https://2ality.com/2025/01/typescript-tuples.html</id>
-        <link href="https://2ality.com/2025/01/typescript-tuples.html"/>
-        <updated>2025-01-28T16:00:00.000Z</updated>
-        <published>2025-01-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things people get wrong about Electron]]></title>
-        <id>https://nodeweekly.com/issues/564</id>
-        <link href="https://nodeweekly.com/issues/564"/>
-        <updated>2025-01-27T16:00:00.000Z</updated>
-        <published>2025-01-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Template literal types in TypeScript: parsing during type checking and more]]></title>
-        <id>https://2ality.com/2025/01/template-literal-types.html</id>
-        <link href="https://2ality.com/2025/01/template-literal-types.html"/>
-        <updated>2025-01-23T16:00:00.000Z</updated>
-        <published>2025-01-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS原生的深拷贝API structuredClone函数简介]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/"/>
-        <updated>2025-01-21T16:00:00.000Z</updated>
-        <published>2025-01-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECMAScript proposal: RegExp escaping]]></title>
-        <id>https://2ality.com/2025/01/regexp-escape.html</id>
-        <link href="https://2ality.com/2025/01/regexp-escape.html"/>
-        <updated>2025-01-20T16:00:00.000Z</updated>
-        <published>2025-01-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NodeBB, the Node.js powered forum system]]></title>
-        <id>https://nodeweekly.com/issues/563</id>
-        <link href="https://nodeweekly.com/issues/563"/>
-        <updated>2025-01-20T16:00:00.000Z</updated>
-        <published>2025-01-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript enums: use cases and alternatives]]></title>
-        <id>https://2ality.com/2025/01/typescript-enum-patterns.html</id>
-        <link href="https://2ality.com/2025/01/typescript-enum-patterns.html"/>
-        <updated>2025-01-18T16:00:00.000Z</updated>
-        <published>2025-01-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从体验到 eSIM 都独此一家：和开发者聊聊 iPad 游戏]]></title>
-        <id>https://sspai.com/post/95677</id>
-        <link href="https://sspai.com/post/95677"/>
-        <updated>2025-01-17T16:00:00.000Z</updated>
-        <published>2025-01-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：任天堂预览 Switch 2 游戏掌机、TikTok 将在美国停止运营等]]></title>
-        <id>https://sspai.com/post/95680</id>
-        <link href="https://sspai.com/post/95680"/>
-        <updated>2025-01-16T16:00:00.000Z</updated>
-        <published>2025-01-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An introduction to building live collaborative JS apps]]></title>
-        <id>https://javascriptweekly.com/issues/719</id>
-        <link href="https://javascriptweekly.com/issues/719"/>
-        <updated>2025-01-16T16:00:00.000Z</updated>
-        <published>2025-01-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团技术年货 | 600+页电子书，算法、工程、测试、数据、安全系列大合集]]></title>
-        <id>https://tech.meituan.com/2025/01/16/2024-spring-festival-present.html</id>
-        <link href="https://tech.meituan.com/2025/01/16/2024-spring-festival-present.html"/>
-        <updated>2025-01-15T16:00:00.000Z</updated>
-        <published>2025-01-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 搞定微信小程序]]></title>
-        <id>http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html"/>
-        <updated>2025-01-15T16:00:00.000Z</updated>
-        <published>2025-01-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A checklist for your <code>tsconfig.json</code>]]></title>
-        <id>https://2ality.com/2025/01/tsconfig-json.html</id>
-        <link href="https://2ality.com/2025/01/tsconfig-json.html"/>
-        <updated>2025-01-14T16:00:00.000Z</updated>
-        <published>2025-01-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何手搓SVG半圆弧，手把手教程]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/"/>
-        <updated>2025-01-13T16:00:00.000Z</updated>
-        <published>2025-01-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 is going to be a bold year for Express.js]]></title>
-        <id>https://nodeweekly.com/issues/562</id>
-        <link href="https://nodeweekly.com/issues/562"/>
-        <updated>2025-01-13T16:00:00.000Z</updated>
-        <published>2025-01-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broadcast Channel API简介，可实现Web页面广播通信]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/"/>
-        <updated>2025-01-11T16:00:00.000Z</updated>
-        <published>2025-01-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECMAScript feature: regular expression pattern modifiers]]></title>
-        <id>https://2ality.com/2025/01/regexp-modifiers.html</id>
-        <link href="https://2ality.com/2025/01/regexp-modifiers.html"/>
-        <updated>2025-01-09T16:00:00.000Z</updated>
-        <published>2025-01-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The projects that shaped JavaScript in 2024]]></title>
-        <id>https://javascriptweekly.com/issues/718</id>
-        <link href="https://javascriptweekly.com/issues/718"/>
-        <updated>2025-01-09T16:00:00.000Z</updated>
-        <published>2025-01-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECMAScript feature: import attributes]]></title>
-        <id>https://2ality.com/2025/01/import-attributes.html</id>
-        <link href="https://2ality.com/2025/01/import-attributes.html"/>
-        <updated>2025-01-08T16:00:00.000Z</updated>
-        <published>2025-01-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node’s new built-in support for TypeScript]]></title>
-        <id>https://2ality.com/2025/01/nodejs-strip-type.html</id>
-        <link href="https://2ality.com/2025/01/nodejs-strip-type.html"/>
-        <updated>2025-01-07T16:00:00.000Z</updated>
-        <published>2025-01-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoughts on State Management Libraries in the React Compiler Era]]></title>
-        <id>https://blog.axlight.com/posts/thoughts-on-state-management-libraries-in-the-react-compiler-era/</id>
-        <link href="https://blog.axlight.com/posts/thoughts-on-state-management-libraries-in-the-react-compiler-era/"/>
-        <updated>2025-01-06T16:00:00.000Z</updated>
-        <published>2025-01-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unflagged TypeScript support is just around the corner]]></title>
-        <id>https://nodeweekly.com/issues/561</id>
-        <link href="https://nodeweekly.com/issues/561"/>
-        <updated>2025-01-06T16:00:00.000Z</updated>
-        <published>2025-01-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSPJ 教学思考：贪心算法]]></title>
-        <id>https://blog.devtang.com/2025/01/05/cspj-notes-of-greedy-algorithm/</id>
-        <link href="https://blog.devtang.com/2025/01/05/cspj-notes-of-greedy-algorithm/"/>
-        <updated>2025-01-04T16:00:00.000Z</updated>
-        <published>2025-01-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个新的CSS媒体查询prefers-reduced-transparency]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/"/>
-        <updated>2025-01-01T16:00:00.000Z</updated>
-        <published>2025-01-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAssembly as an ecosystem for programming languages]]></title>
-        <id>https://2ality.com/2025/01/webassembly-language-ecosystem.html</id>
-        <link href="https://2ality.com/2025/01/webassembly-language-ecosystem.html"/>
-        <updated>2024-12-31T16:00:00.000Z</updated>
-        <published>2024-12-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML select下拉框支持hr元素啦]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/"/>
-        <updated>2024-12-28T16:00:00.000Z</updated>
-        <published>2024-12-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用JS获取系统内存、CPU/GPU、电量等信息]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/"/>
-        <updated>2024-12-22T16:00:00.000Z</updated>
-        <published>2024-12-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 2024 JavaScript retrospective]]></title>
-        <id>https://javascriptweekly.com/issues/717</id>
-        <link href="https://javascriptweekly.com/issues/717"/>
-        <updated>2024-12-18T16:00:00.000Z</updated>
-        <published>2024-12-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Halving Node.js memory usage with pointer compression]]></title>
+        <id>https://nodeweekly.com/issues/612</id>
+        <link href="https://nodeweekly.com/issues/612"/>
+        <updated>2026-02-18T16:00:00.000Z</updated>
+        <published>2026-02-18T16:00:00.000Z</published>
     </entry>
 </feed>

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2025-02-17 17:05:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-17 01:22:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615) 
+- [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614) 
+- [2026-02-26-AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613) 
+- [2026-02-19-Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612) 
 - [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566) 
 - [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565) 
 - [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564) 
