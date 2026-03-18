@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-18 23:02:04。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-19 06:01:49。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -358,7 +358,6 @@
 
 
 
-- [【JavaScript-Weekly】Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773)
 - [【张鑫旭-鑫空间-鑫生活】浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)
 - [【张鑫旭-鑫空间-鑫生活】点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-388-期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)
@@ -378,6 +377,7 @@
 - [【少数派】派评-|-近期值得关注的-App](https://sspai.com/post/107431)
 - [【少数派】年度征文-|-新晋一家三口的秩序重建](https://sspai.com/post/106839)
 - [【少数派】派早报：市场监管总局整治「大字吸睛、小字免责」等广告乱象](https://sspai.com/post/107396)
+- [【少数派】今夜，大模型从世界消散](https://sspai.com/post/106939)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
