@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-19 21:02:56，:rocket: 更新条数: +634， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-19 23:03:11，:rocket: 更新条数: +542， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -24,13 +24,13 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [favorite-link](#favorite-link)  
-- [酷-壳-–-CoolShell](#酷-壳-–-coolshell)![](/assets/dot.png)   
+- [酷-壳-–-CoolShell](#酷-壳-–-coolshell)  
 - [掘金前端](#掘金前端)  
 - [掘金字节前端](#掘金字节前端)  
 - [掘金飞猪前端](#掘金飞猪前端)  
 - [美团技术团队](#美团技术团队)![](/assets/dot.png)   
 - [web.dev](#web.dev)  
-- [少数派](#少数派)![](/assets/dot.png)   
+- [少数派](#少数派)  
 - [洞见](#洞见)  
 - [机器之心](#机器之心)  
 - [量子位](#量子位)  
@@ -42,7 +42,7 @@
 - [ChatGPT](#chatgpt)  
 - [Randy's-Blog](#randy's-blog)  
 - [googleUpdates](#googleupdates)  
-- [知乎专栏前端精读](#知乎专栏前端精读)![](/assets/dot.png)   
+- [知乎专栏前端精读](#知乎专栏前端精读)  
 - [萧宸宇](#萧宸宇)  
 - [Anthony-Fu](#anthony-fu)![](/assets/dot.png)   
 - [oldj's-blog](#oldj's-blog)  
@@ -56,7 +56,7 @@
 - [Mark's-Dev-Blog](#mark's-dev-blog)![](/assets/dot.png)   
 - [Ben-Awad](#ben-awad)  
 - [Jake-Archibald's-blog](#jake-archibald's-blog)![](/assets/dot.png)   
-- [Dan-Abramov's-Overreacted](#dan-abramov's-overreacted)![](/assets/dot.png)   
+- [Dan-Abramov's-Overreacted](#dan-abramov's-overreacted)  
 - [Phodal---手工艺人](#phodal---手工艺人)![](/assets/dot.png)   
 - [Trending-JavaScript-repositories](#trending-javascript-repositories)  
 - [阿里-CCO-体验技术专刊](#阿里-cco-体验技术专刊)![](/assets/dot.png)   
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616) ![](/assets/new.png)  
 - [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)  
 - [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)  
 - [2026-02-26-AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)  
@@ -271,7 +272,7 @@
 - [2026-03-19-年度征文-|-最后一页并不存在——我的2025](https://sspai.com/post/106957)  
 - [2026-03-19-派早报：腾讯-QClaw-正式上线、小鹏-P7-发布-Max-版等](https://sspai.com/post/107514)  
 - [2026-03-19-杀死你的不是它：聊聊我们的-AI-的焦虑](https://sspai.com/post/106923)  
-- [2026-03-19-年度征文-|-沿海公路的出口：10年后，重返宝岛](https://sspai.com/post/97965) ![](/assets/new.png)  
+- [2026-03-19-年度征文-|-沿海公路的出口：10年后，重返宝岛](https://sspai.com/post/97965)  
 - [2026-03-18-越过参数的凝视：哈苏-X2D-II-100C-漫谈](https://sspai.com/post/106734)  
 - [2026-03-18-打造我的「智能家」：使用-Claude-Code-轻松使用-Home-Assistant](https://sspai.com/post/106992)  
 - [2026-03-18-派早报：OPPO-Find-N6-发布，广汽、华为联合发布「启境」GT7-等](https://sspai.com/post/107485)  
@@ -600,8 +601,8 @@
 </summary>
 
 
-- [2026-03-16-Harness-Engineering-实践：Fitness-Function-如何成为-AI-交付的防腐层](https://zhuanlan.zhihu.com/p/2017015528984717268)  
 - [2026-03-16-Harness-Engineering-的防御视角：从-Codex-Security-看-AI-生成代码的治理](https://zhuanlan.zhihu.com/p/2017014727977496848)  
+- [2026-03-16-Harness-Engineering-实践：Fitness-Function-如何成为-AI-交付的防腐层](https://zhuanlan.zhihu.com/p/2017015528984717268)  
 - [2026-03-11-Harness-Engineering：为-AI-Coding-Agent-构建工程系统](https://zhuanlan.zhihu.com/p/2015043541823424323)  
 - [2026-03-03-万物皆-Coding-Agent-的平台工程新范式（A2A-/-ACP-/-MCP-/-Skill）](https://zhuanlan.zhihu.com/p/2012162845169694492)  
 - [2026-03-02-Agent-Team-实践与架构设计：在约束下构建可演进的一个人开发团队](https://zhuanlan.zhihu.com/p/2011849479800787650)  
