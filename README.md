@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-19 06:01:48，:rocket: 更新条数: +701， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-19 08:01:36，:rocket: 更新条数: +706， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -31,13 +31,13 @@
 - [美团技术团队](#美团技术团队)![](/assets/dot.png)   
 - [web.dev](#web.dev)  
 - [少数派](#少数派)  
-- [洞见](#洞见)![](/assets/dot.png)   
+- [洞见](#洞见)  
 - [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
-- [我爱自然语言处理](#我爱自然语言处理)  
+- [我爱自然语言处理](#我爱自然语言处理)![](/assets/dot.png)   
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 - [Randy's-Blog](#randy's-blog)![](/assets/dot.png)   
@@ -298,11 +298,11 @@
 </summary>
 
 
-- [2026-03-18-沟通能力强的人，说话都是有顺序的（附20条说话技巧）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%B2%9F%E9%80%9A%E8%83%BD%E5%8A%9B%E5%BC%BA%E7%9A%84%E4%BA%BA%EF%BC%8C%E8%AF%B4%E8%AF%9D%E9%83%BD%E6%98%AF%E6%9C%89%E9%A1%BA%E5%BA%8F%E7%9A%84%EF%BC%88%E9%99%8420%E6%9D%A1%E8%AF%B4%E8%AF%9D%E6%8A%80%E5%B7%A7%EF%BC%89) ![](/assets/new.png)  
-- [2026-03-18-同济大学教授的晚年困境：条件越好的家庭，不要把孩子养得利欲熏心](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E7%9A%84%E6%99%9A%E5%B9%B4%E5%9B%B0%E5%A2%83%EF%BC%9A%E6%9D%A1%E4%BB%B6%E8%B6%8A%E5%A5%BD%E7%9A%84%E5%AE%B6%E5%BA%AD%EF%BC%8C%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%AD%A9%E5%AD%90%E5%85%BB%E5%BE%97%E5%88%A9%E6%AC%B2%E7%86%8F%E5%BF%83) ![](/assets/new.png)  
-- [2026-03-18-接触的人多了，你就会发现：走路稳、脾气好、性格内向、说话少，有这些特点的人，办事都特别细心，特别可靠](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%8E%A5%E8%A7%A6%E7%9A%84%E4%BA%BA%E5%A4%9A%E4%BA%86%EF%BC%8C%E4%BD%A0%E5%B0%B1%E4%BC%9A%E5%8F%91%E7%8E%B0%EF%BC%9A%E8%B5%B0%E8%B7%AF%E7%A8%B3%E3%80%81%E8%84%BE%E6%B0%94%E5%A5%BD%E3%80%81%E6%80%A7%E6%A0%BC%E5%86%85%E5%90%91%E3%80%81%E8%AF%B4%E8%AF%9D%E5%B0%91%EF%BC%8C%E6%9C%89%E8%BF%99%E4%BA%9B%E7%89%B9%E7%82%B9%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%8A%9E%E4%BA%8B%E9%83%BD%E7%89%B9%E5%88%AB%E7%BB%86%E5%BF%83%EF%BC%8C%E7%89%B9%E5%88%AB%E5%8F%AF%E9%9D%A0) ![](/assets/new.png)  
-- [2026-03-18-做人，小事要大度，大事要绝情](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%81%9A%E4%BA%BA%EF%BC%8C%E5%B0%8F%E4%BA%8B%E8%A6%81%E5%A4%A7%E5%BA%A6%EF%BC%8C%E5%A4%A7%E4%BA%8B%E8%A6%81%E7%BB%9D%E6%83%85) ![](/assets/new.png)  
-- [2026-03-18-“法式轻奢内衣”又火了！性感高级，好穿到尖叫](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E2%80%9C%E6%B3%95%E5%BC%8F%E8%BD%BB%E5%A5%A2%E5%86%85%E8%A1%A3%E2%80%9D%E5%8F%88%E7%81%AB%E4%BA%86%EF%BC%81%E6%80%A7%E6%84%9F%E9%AB%98%E7%BA%A7%EF%BC%8C%E5%A5%BD%E7%A9%BF%E5%88%B0%E5%B0%96%E5%8F%AB) ![](/assets/new.png)  
+- [2026-03-18-沟通能力强的人，说话都是有顺序的（附20条说话技巧）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%B2%9F%E9%80%9A%E8%83%BD%E5%8A%9B%E5%BC%BA%E7%9A%84%E4%BA%BA%EF%BC%8C%E8%AF%B4%E8%AF%9D%E9%83%BD%E6%98%AF%E6%9C%89%E9%A1%BA%E5%BA%8F%E7%9A%84%EF%BC%88%E9%99%8420%E6%9D%A1%E8%AF%B4%E8%AF%9D%E6%8A%80%E5%B7%A7%EF%BC%89)  
+- [2026-03-18-同济大学教授的晚年困境：条件越好的家庭，不要把孩子养得利欲熏心](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E7%9A%84%E6%99%9A%E5%B9%B4%E5%9B%B0%E5%A2%83%EF%BC%9A%E6%9D%A1%E4%BB%B6%E8%B6%8A%E5%A5%BD%E7%9A%84%E5%AE%B6%E5%BA%AD%EF%BC%8C%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%AD%A9%E5%AD%90%E5%85%BB%E5%BE%97%E5%88%A9%E6%AC%B2%E7%86%8F%E5%BF%83)  
+- [2026-03-18-接触的人多了，你就会发现：走路稳、脾气好、性格内向、说话少，有这些特点的人，办事都特别细心，特别可靠](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%8E%A5%E8%A7%A6%E7%9A%84%E4%BA%BA%E5%A4%9A%E4%BA%86%EF%BC%8C%E4%BD%A0%E5%B0%B1%E4%BC%9A%E5%8F%91%E7%8E%B0%EF%BC%9A%E8%B5%B0%E8%B7%AF%E7%A8%B3%E3%80%81%E8%84%BE%E6%B0%94%E5%A5%BD%E3%80%81%E6%80%A7%E6%A0%BC%E5%86%85%E5%90%91%E3%80%81%E8%AF%B4%E8%AF%9D%E5%B0%91%EF%BC%8C%E6%9C%89%E8%BF%99%E4%BA%9B%E7%89%B9%E7%82%B9%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%8A%9E%E4%BA%8B%E9%83%BD%E7%89%B9%E5%88%AB%E7%BB%86%E5%BF%83%EF%BC%8C%E7%89%B9%E5%88%AB%E5%8F%AF%E9%9D%A0)  
+- [2026-03-18-做人，小事要大度，大事要绝情](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%81%9A%E4%BA%BA%EF%BC%8C%E5%B0%8F%E4%BA%8B%E8%A6%81%E5%A4%A7%E5%BA%A6%EF%BC%8C%E5%A4%A7%E4%BA%8B%E8%A6%81%E7%BB%9D%E6%83%85)  
+- [2026-03-18-“法式轻奢内衣”又火了！性感高级，好穿到尖叫](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E2%80%9C%E6%B3%95%E5%BC%8F%E8%BD%BB%E5%A5%A2%E5%86%85%E8%A1%A3%E2%80%9D%E5%8F%88%E7%81%AB%E4%BA%86%EF%BC%81%E6%80%A7%E6%84%9F%E9%AB%98%E7%BA%A7%EF%BC%8C%E5%A5%BD%E7%A9%BF%E5%88%B0%E5%B0%96%E5%8F%AB)  
 - [2026-03-17-一个人被锁死在底层的原因：沉溺情绪型消费](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%A2%AB%E9%94%81%E6%AD%BB%E5%9C%A8%E5%BA%95%E5%B1%82%E7%9A%84%E5%8E%9F%E5%9B%A0%EF%BC%9A%E6%B2%89%E6%BA%BA%E6%83%85%E7%BB%AA%E5%9E%8B%E6%B6%88%E8%B4%B9)  
 - [2026-03-17-当一个中年女人开始天天跑步，不再过度操心老公孩子，说明了什么？](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%BD%93%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%B9%B4%E5%A5%B3%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%A4%A9%E5%A4%A9%E8%B7%91%E6%AD%A5%EF%BC%8C%E4%B8%8D%E5%86%8D%E8%BF%87%E5%BA%A6%E6%93%8D%E5%BF%83%E8%80%81%E5%85%AC%E5%AD%A9%E5%AD%90%EF%BC%8C%E8%AF%B4%E6%98%8E%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F)  
 - [2026-03-17-有一种养生叫：遇事不死磕](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%9C%89%E4%B8%80%E7%A7%8D%E5%85%BB%E7%94%9F%E5%8F%AB%EF%BC%9A%E9%81%87%E4%BA%8B%E4%B8%8D%E6%AD%BB%E7%A3%95)  
@@ -600,8 +600,8 @@
 </summary>
 
 
-- [2026-03-16-Harness-Engineering-实践：Fitness-Function-如何成为-AI-交付的防腐层](https://zhuanlan.zhihu.com/p/2017015528984717268)  
 - [2026-03-16-Harness-Engineering-的防御视角：从-Codex-Security-看-AI-生成代码的治理](https://zhuanlan.zhihu.com/p/2017014727977496848)  
+- [2026-03-16-Harness-Engineering-实践：Fitness-Function-如何成为-AI-交付的防腐层](https://zhuanlan.zhihu.com/p/2017015528984717268)  
 - [2026-03-11-Harness-Engineering：为-AI-Coding-Agent-构建工程系统](https://zhuanlan.zhihu.com/p/2015043541823424323)  
 - [2026-03-03-万物皆-Coding-Agent-的平台工程新范式（A2A-/-ACP-/-MCP-/-Skill）](https://zhuanlan.zhihu.com/p/2012162845169694492)  
 - [2026-03-02-Agent-Team-实践与架构设计：在约束下构建可演进的一个人开发团队](https://zhuanlan.zhihu.com/p/2011849479800787650)  
