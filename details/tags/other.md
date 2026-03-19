@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-19 10:01:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-19 12:01:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -46,8 +46,8 @@
 - [2026-03-16-人到中年，久坐真的会要命](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%EF%BC%8C%E4%B9%85%E5%9D%90%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A6%81%E5%91%BD) 
 - [2026-03-16-跟青春期孩子相处最好的方式](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E8%B7%9F%E9%9D%92%E6%98%A5%E6%9C%9F%E5%AD%A9%E5%AD%90%E7%9B%B8%E5%A4%84%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E5%BC%8F) 
 - [2026-03-16-真正累死你的，不是工作，而是跟谁一起工作](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E7%9C%9F%E6%AD%A3%E7%B4%AF%E6%AD%BB%E4%BD%A0%E7%9A%84%EF%BC%8C%E4%B8%8D%E6%98%AF%E5%B7%A5%E4%BD%9C%EF%BC%8C%E8%80%8C%E6%98%AF%E8%B7%9F%E8%B0%81%E4%B8%80%E8%B5%B7%E5%B7%A5%E4%BD%9C) 
-- [2026-03-16-Harness-Engineering-实践：Fitness-Function-如何成为-AI-交付的防腐层](https://zhuanlan.zhihu.com/p/2017015528984717268) 
 - [2026-03-16-Harness-Engineering-的防御视角：从-Codex-Security-看-AI-生成代码的治理](https://zhuanlan.zhihu.com/p/2017014727977496848) 
+- [2026-03-16-Harness-Engineering-实践：Fitness-Function-如何成为-AI-交付的防腐层](https://zhuanlan.zhihu.com/p/2017015528984717268) 
 - [2026-03-03-万物皆-Coding-Agent-的平台工程新范式（A2A-/-ACP-/-MCP-/-Skill）](https://zhuanlan.zhihu.com/p/2012162845169694492) 
 - [2026-02-24-从-AutoDev-到-Routa：开放生态下的多-Agent-编排新一代实践](https://zhuanlan.zhihu.com/p/2009668693362242633) 
 - [2026-03-08-DeerFlow-2.0：再攀高峰](https://zhuanlan.zhihu.com/p/2013702533655332262) 
