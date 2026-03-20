@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-20 06:01:07，:rocket: 更新条数: +711， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-20 08:00:51，:rocket: 更新条数: +706， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -31,7 +31,7 @@
 - [美团技术团队](#美团技术团队)![](/assets/dot.png)   
 - [web.dev](#web.dev)  
 - [少数派](#少数派)  
-- [洞见](#洞见)![](/assets/dot.png)   
+- [洞见](#洞见)  
 - [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
@@ -299,11 +299,11 @@
 </summary>
 
 
-- [2026-03-19-“蚕丝被”和“棉花被”哪个好？当初不懂，后悔我家买错......](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E2%80%9C%E8%9A%95%E4%B8%9D%E8%A2%AB%E2%80%9D%E5%92%8C%E2%80%9C%E6%A3%89%E8%8A%B1%E8%A2%AB%E2%80%9D%E5%93%AA%E4%B8%AA%E5%A5%BD%EF%BC%9F%E5%BD%93%E5%88%9D%E4%B8%8D%E6%87%82%EF%BC%8C%E5%90%8E%E6%82%94%E6%88%91%E5%AE%B6%E4%B9%B0%E9%94%99......) ![](/assets/new.png)  
-- [2026-03-19-央视大型纪录片《大宋词人传》：如果人生是一场暴雨，谁会是给你撑伞的人？](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%9E%8B%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E5%A4%A7%E5%AE%8B%E8%AF%8D%E4%BA%BA%E4%BC%A0%E3%80%8B%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%BA%BA%E7%94%9F%E6%98%AF%E4%B8%80%E5%9C%BA%E6%9A%B4%E9%9B%A8%EF%BC%8C%E8%B0%81%E4%BC%9A%E6%98%AF%E7%BB%99%E4%BD%A0%E6%92%91%E4%BC%9E%E7%9A%84%E4%BA%BA%EF%BC%9F) ![](/assets/new.png)  
-- [2026-03-19-钱的忠告（太透彻了）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E9%92%B1%E7%9A%84%E5%BF%A0%E5%91%8A%EF%BC%88%E5%A4%AA%E9%80%8F%E5%BD%BB%E4%BA%86%EF%BC%89) ![](/assets/new.png)  
-- [2026-03-19-春分三候，藏着中国人极大的生活智慧](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%98%A5%E5%88%86%E4%B8%89%E5%80%99%EF%BC%8C%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9E%81%E5%A4%A7%E7%9A%84%E7%94%9F%E6%B4%BB%E6%99%BA%E6%85%A7) ![](/assets/new.png)  
-- [2026-03-19-人与人之间有一条交往铁律：人近则贱](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BA%BA%E4%B8%8E%E4%BA%BA%E4%B9%8B%E9%97%B4%E6%9C%89%E4%B8%80%E6%9D%A1%E4%BA%A4%E5%BE%80%E9%93%81%E5%BE%8B%EF%BC%9A%E4%BA%BA%E8%BF%91%E5%88%99%E8%B4%B1) ![](/assets/new.png)  
+- [2026-03-19-“蚕丝被”和“棉花被”哪个好？当初不懂，后悔我家买错......](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E2%80%9C%E8%9A%95%E4%B8%9D%E8%A2%AB%E2%80%9D%E5%92%8C%E2%80%9C%E6%A3%89%E8%8A%B1%E8%A2%AB%E2%80%9D%E5%93%AA%E4%B8%AA%E5%A5%BD%EF%BC%9F%E5%BD%93%E5%88%9D%E4%B8%8D%E6%87%82%EF%BC%8C%E5%90%8E%E6%82%94%E6%88%91%E5%AE%B6%E4%B9%B0%E9%94%99......)  
+- [2026-03-19-央视大型纪录片《大宋词人传》：如果人生是一场暴雨，谁会是给你撑伞的人？](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%9E%8B%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E5%A4%A7%E5%AE%8B%E8%AF%8D%E4%BA%BA%E4%BC%A0%E3%80%8B%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%BA%BA%E7%94%9F%E6%98%AF%E4%B8%80%E5%9C%BA%E6%9A%B4%E9%9B%A8%EF%BC%8C%E8%B0%81%E4%BC%9A%E6%98%AF%E7%BB%99%E4%BD%A0%E6%92%91%E4%BC%9E%E7%9A%84%E4%BA%BA%EF%BC%9F)  
+- [2026-03-19-钱的忠告（太透彻了）](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E9%92%B1%E7%9A%84%E5%BF%A0%E5%91%8A%EF%BC%88%E5%A4%AA%E9%80%8F%E5%BD%BB%E4%BA%86%EF%BC%89)  
+- [2026-03-19-春分三候，藏着中国人极大的生活智慧](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%98%A5%E5%88%86%E4%B8%89%E5%80%99%EF%BC%8C%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9E%81%E5%A4%A7%E7%9A%84%E7%94%9F%E6%B4%BB%E6%99%BA%E6%85%A7)  
+- [2026-03-19-人与人之间有一条交往铁律：人近则贱](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BA%BA%E4%B8%8E%E4%BA%BA%E4%B9%8B%E9%97%B4%E6%9C%89%E4%B8%80%E6%9D%A1%E4%BA%A4%E5%BE%80%E9%93%81%E5%BE%8B%EF%BC%9A%E4%BA%BA%E8%BF%91%E5%88%99%E8%B4%B1)  
 - [2026-03-18-“法式轻奢内衣”又火了！性感高级，好穿到尖叫](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E2%80%9C%E6%B3%95%E5%BC%8F%E8%BD%BB%E5%A5%A2%E5%86%85%E8%A1%A3%E2%80%9D%E5%8F%88%E7%81%AB%E4%BA%86%EF%BC%81%E6%80%A7%E6%84%9F%E9%AB%98%E7%BA%A7%EF%BC%8C%E5%A5%BD%E7%A9%BF%E5%88%B0%E5%B0%96%E5%8F%AB)  
 - [2026-03-18-做人，小事要大度，大事要绝情](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%81%9A%E4%BA%BA%EF%BC%8C%E5%B0%8F%E4%BA%8B%E8%A6%81%E5%A4%A7%E5%BA%A6%EF%BC%8C%E5%A4%A7%E4%BA%8B%E8%A6%81%E7%BB%9D%E6%83%85)  
 - [2026-03-18-接触的人多了，你就会发现：走路稳、脾气好、性格内向、说话少，有这些特点的人，办事都特别细心，特别可靠](http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%8E%A5%E8%A7%A6%E7%9A%84%E4%BA%BA%E5%A4%9A%E4%BA%86%EF%BC%8C%E4%BD%A0%E5%B0%B1%E4%BC%9A%E5%8F%91%E7%8E%B0%EF%BC%9A%E8%B5%B0%E8%B7%AF%E7%A8%B3%E3%80%81%E8%84%BE%E6%B0%94%E5%A5%BD%E3%80%81%E6%80%A7%E6%A0%BC%E5%86%85%E5%90%91%E3%80%81%E8%AF%B4%E8%AF%9D%E5%B0%91%EF%BC%8C%E6%9C%89%E8%BF%99%E4%BA%9B%E7%89%B9%E7%82%B9%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%8A%9E%E4%BA%8B%E9%83%BD%E7%89%B9%E5%88%AB%E7%BB%86%E5%BF%83%EF%BC%8C%E7%89%B9%E5%88%AB%E5%8F%AF%E9%9D%A0)  
@@ -606,8 +606,8 @@
 </summary>
 
 
-- [2026-03-16-Harness-Engineering-实践：Fitness-Function-如何成为-AI-交付的防腐层](https://zhuanlan.zhihu.com/p/2017015528984717268)  
 - [2026-03-16-Harness-Engineering-的防御视角：从-Codex-Security-看-AI-生成代码的治理](https://zhuanlan.zhihu.com/p/2017014727977496848)  
+- [2026-03-16-Harness-Engineering-实践：Fitness-Function-如何成为-AI-交付的防腐层](https://zhuanlan.zhihu.com/p/2017015528984717268)  
 - [2026-03-11-Harness-Engineering：为-AI-Coding-Agent-构建工程系统](https://zhuanlan.zhihu.com/p/2015043541823424323)  
 - [2026-03-03-万物皆-Coding-Agent-的平台工程新范式（A2A-/-ACP-/-MCP-/-Skill）](https://zhuanlan.zhihu.com/p/2012162845169694492)  
 - [2026-03-02-Agent-Team-实践与架构设计：在约束下构建可演进的一个人开发团队](https://zhuanlan.zhihu.com/p/2011849479800787650)  
