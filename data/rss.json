@@ -1,83 +1,13 @@
 [
+  // ===== 前端 =====
   {
-    "title": "Node-Weekly",
+    "title": "Node Weekly",
     "rss": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml",
     "category": "前端"
   },
   {
-    "title": "JavaScript-Weekly",
+    "title": "JavaScript Weekly",
     "rss": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml",
-    "category": "前端"
-  },
-  {
-    "title": "前端早读课",
-    "rss": [
-      "https://posts.careerengine.us/author/5d1213cb25dbe17eab761cb8/rss"
-    ],
-    "category": "前端"
-  },
-  {
-    "title": "前端大全",
-    "rss": [
-      "https://posts.careerengine.us/author/594e6fbdea0d253f1f63cc9e/rss"
-    ],
-    "category": "前端"
-  },
-  {
-    "title": "前端之巅",
-    "rss": [
-      "https://posts.careerengine.us/author/5c5fac76719f0119cdd6f031/rss"
-    ],
-    "category": "前端"
-  },
-  {
-    "title": "淘系前端团队",
-    "rss": "https://fed.taobao.org/atom.xml",
-    "category": "前端"
-  },
-  {
-    "title": "张鑫旭-鑫空间-鑫生活",
-    "rss": "https://www.zhangxinxu.com/wordpress/feed/",
-    "category": "前端"
-  },
-  {
-    "title": "阮一峰的网络日志",
-    "rss": "http://www.ruanyifeng.com/blog/atom.xml",
-    "category": "前端"
-  },
-  {
-    "title": "前端里",
-    "rss": "http://www.yyyweb.com/feed",
-    "category": "前端"
-  },
-  {
-    "title": "favorite-link",
-    "rss": "https://rsshub.app/github/file/guanguans/favorite-link/master/README.md",
-    "category": "前端"
-  },
-  {
-    "title": "酷 壳 – CoolShell",
-    "rss": "https://coolshell.cn/feed",
-    "category": "IT"
-  },
-  {
-    "title": "掘金前端",
-    "rss": "https://rsshub.app/juejin/category/frontend",
-    "category": "前端"
-  },
-  {
-    "title": "掘金字节前端",
-    "rss": "https://rsshub.app/juejin/posts/1838039172387262",
-    "category": "前端"
-  },
-  {
-    "title": "掘金飞猪前端",
-    "rss": "https://rsshub.app/juejin/posts/1838039172387262",
-    "category": "前端"
-  },
-  {
-    "title": "美团技术团队",
-    "rss": "https://tech.meituan.com/feed/",
     "category": "前端"
   },
   {
@@ -86,14 +16,158 @@
     "category": "前端"
   },
   {
-    "title": "少数派",
-    "rss": "https://sspai.com/feed",
-    "category": "资讯"
+    "title": "CSS-Tricks",
+    "rss": "https://css-tricks.com/feed/",
+    "category": "前端"
   },
   {
-    "title": "洞见",
-    "rss": "https://plink.anyfeeder.com/weixin/DJ00123987",
-    "category": "资讯"
+    "title": "Smashing Magazine",
+    "rss": "https://www.smashingmagazine.com/feed",
+    "category": "前端"
+  },
+  {
+    "title": "Frontend Masters Blog",
+    "rss": "https://frontendmasters.com/blog/feed/",
+    "category": "前端"
+  },
+  {
+    "title": "Overreacted",
+    "rss": "https://overreacted.io/rss.xml",
+    "category": "前端"
+  },
+  {
+    "title": "2ality",
+    "rss": "http://feeds.feedburner.com/2ality",
+    "category": "前端"
+  },
+  {
+    "title": "Jake Archibald",
+    "rss": "https://jakearchibald.com/posts.rss",
+    "category": "前端"
+  },
+  {
+    "title": "Tan Li Hau",
+    "rss": "https://lihautan.com/rss.xml",
+    "category": "前端"
+  },
+  {
+    "title": "Mark Erikson Blog",
+    "rss": "http://blog.isquaredsoftware.com/index.xml",
+    "category": "前端"
+  },
+  {
+    "title": "SurviveJS",
+    "rss": "http://survivejs.com/atom.xml",
+    "category": "前端"
+  },
+  {
+    "title": "前端早读课",
+    "rss": "https://posts.careerengine.us/author/5d1213cb25dbe17eab761cb8/rss",
+    "category": "前端"
+  },
+  {
+    "title": "前端大全",
+    "rss": "https://posts.careerengine.us/author/594e6fbdea0d253f1f63cc9e/rss",
+    "category": "前端"
+  },
+  {
+    "title": "前端之巅",
+    "rss": "https://posts.careerengine.us/author/5c5fac76719f0119cdd6f031/rss",
+    "category": "前端"
+  },
+  {
+    "title": "淘系前端团队",
+    "rss": "https://fed.taobao.org/atom.xml",
+    "category": "前端"
+  },
+  {
+    "title": "张鑫旭",
+    "rss": "https://www.zhangxinxu.com/wordpress/feed/",
+    "category": "前端"
+  },
+  {
+    "title": "阮一峰",
+    "rss": "http://www.ruanyifeng.com/blog/atom.xml",
+    "category": "前端"
+  },
+  {
+    "title": "Anthony Fu",
+    "rss": "https://antfu.me/feed.xml",
+    "category": "前端"
+  },
+  {
+    "title": "Randy's Blog",
+    "rss": "https://lutaonan.com/rss.xml",
+    "category": "前端"
+  },
+  {
+    "title": "oldj",
+    "rss": "https://blog.oldj.net/feed/",
+    "category": "前端"
+  },
+  {
+    "title": "掘金前端",
+    "rss": "https://rsshub.app/juejin/category/frontend",
+    "category": "前端"
+  },
+  {
+    "title": "GitHub Trending JS",
+    "rss": "https://rsshub.app/github/trending/daily/javascript",
+    "category": "前端"
+  },
+
+  // ===== 后端 / 工程 =====
+  {
+    "title": "美团技术团队",
+    "rss": "https://tech.meituan.com/feed/",
+    "category": "后端"
+  },
+  {
+    "title": "InfoQ",
+    "rss": "http://www.infoq.com/cn/feed/minibooks",
+    "category": "后端"
+  },
+  {
+    "title": "GitHub Engineering",
+    "rss": "https://github.blog/feed/",
+    "category": "后端"
+  },
+  {
+    "title": "O'Reilly Radar",
+    "rss": "https://www.oreilly.com/radar/feed/",
+    "category": "后端"
+  },
+  {
+    "title": "Martin Fowler",
+    "rss": "https://martinfowler.com/feed.atom",
+    "category": "后端"
+  },
+
+  // ===== AI =====
+  {
+    "title": "arXiv ML",
+    "rss": "https://arxiv.org/rss/cs.LG",
+    "category": "AI"
+  },
+  {
+    "title": "HuggingFace Blog",
+    "rss": "https://huggingface.co/blog/feed.xml",
+    "category": "AI"
+  },
+  {
+    "title": "smol.ai",
+    "rss": "https://news.smol.ai/rss.xml",
+    "category": "AI"
+  },
+  {
+    "title": "Towards AI",
+    "rss": "https://pub.towardsai.net/feed",
+    "category": "AI"
+  },
+  {
+    "title": "Sebastian Raschka",
+    "rss": "https://magazine.sebastianraschka.com/feed",
+    "category": "AI"
   },
   {
     "title": "机器之心",
@@ -131,133 +205,35 @@
     "category": "AI"
   },
   {
-    "title": "ChatGPT",
+    "title": "ChatGPT 更新",
     "rss": "https://rsshub.app/openai/chatgpt/release-notes",
     "category": "AI"
   },
+
+  // ===== 科技资讯 =====
   {
-    "title": "Randy's Blog",
-    "rss": "https://lutaonan.com/rss.xml",
-    "category": "前端"
+    "title": "Hacker News",
+    "rss": "https://hnrss.org/newest",
+    "category": "资讯"
   },
   {
-    "title": "googleUpdates",
-    "rss": "https://developers.google.com/web/updates/rss.xml",
-    "category": "前端"
+    "title": "TechCrunch",
+    "rss": "https://techcrunch.com/feed/",
+    "category": "资讯"
   },
   {
-    "title": "知乎专栏前端精读",
-    "rss": "https://rss.lilydjwg.me/zhihuzhuanlan/FrontendPerusal",
-    "category": "前端"
+    "title": "Wired",
+    "rss": "https://www.wired.com/feed/rss",
+    "category": "资讯"
   },
   {
-    "title": "萧宸宇",
-    "rss": "http://www.iiiyu.com/atom.xml",
-    "category": "前端"
+    "title": "Engadget",
+    "rss": "https://www.engadget.com/rss.xml",
+    "category": "资讯"
   },
   {
-    "title": "Anthony Fu",
-    "rss": "https://antfu.me/feed.xml",
-    "category": "前端"
-  },
-  {
-    "title": "oldj's blog",
-    "rss": "https://blog.oldj.net/feed/",
-    "category": "前端"
-  },
-  {
-    "title": "SurviveJS",
-    "rss": "http://survivejs.com/atom.xml",
-    "category": "前端"
-  },
-  {
-    "title": "Devtrium",
-    "rss": "https://feed43.com/4254874062132648.xml",
-    "category": "前端"
-  },
-  {
-    "title": "Tan Li Hau's Blog",
-    "rss": "https://lihautan.com/rss.xml",
-    "category": "前端"
-  },
-  {
-    "title": "TypeScript",
-    "rss": "https://blogs.msdn.microsoft.com/typescript/feed/",
-    "category": "前端"
-  },
-  {
-    "title": "sorrycc/blog",
-    "rss": "http://gh-feed.imsun.net/sorrycc/blog/issues",
-    "category": "前端"
-  },
-  {
-    "title": "阳志平的网志",
-    "rss": "http://www.yangzhiping.com/feed",
-    "category": "前端"
-  },
-  {
-    "title": "Daishi Kato's blog",
-    "rss": "https://blog.axlight.com/index.xml",
-    "category": "前端"
-  },
-  {
-    "title": "Mark's Dev Blog",
-    "rss": "http://blog.isquaredsoftware.com/index.xml",
-    "category": "前端"
-  },
-  {
-    "title": "Ben Awad",
-    "rss": "https://www.youtube.com/feeds/videos.xml?user=99baddawg",
-    "category": "前端"
-  },
-  {
-    "title": "Jake Archibald's blog",
-    "rss": "https://jakearchibald.com/posts.rss",
-    "category": "前端"
-  },
-  {
-    "title": "Dan Abramov's Overreacted",
-    "rss": "https://overreacted.io/rss.xml",
-    "category": "前端"
-  },
-  {
-    "title": "Phodal - 手工艺人",
-    "rss": "https://rss.lilydjwg.me/zhihuzhuanlan/phodal",
-    "category": "前端"
-  },
-  {
-    "title": "Trending JavaScript repositories",
-    "rss": "https://rsshub.app/github/trending/daily/javascript",
-    "category": "前端"
-  },
-  {
-    "title": "阿里 CCO 体验技术专刊",
-    "rss": "https://rss.lilydjwg.me/zhihuzhuanlan/ali-nanjing",
-    "category": "前端"
-  },
-  {
-    "title": "唐巧的技术博客",
-    "rss": "http://blog.devtang.com/atom.xml",
-    "category": "前端"
-  },
-  {
-    "title": "2ality",
-    "rss": "http://feeds.feedburner.com/2ality",
-    "category": "前端"
-  },
-  {
-    "title": "前端外刊评论",
-    "rss": "https://rss.lilydjwg.me/zhihuzhuanlan/FrontendMagazine",
-    "category": "前端"
-  },
-  {
-    "title": "InfoQ",
-    "rss": "http://www.infoq.com/cn/feed/minibooks",
-    "category": "前端"
-  },
-  {
-    "title": "InfoQ",
-    "rss": "http://www.infoq.com/cn/feed/minibooks",
-    "category": "前端"
+    "title": "少数派",
+    "rss": "https://sspai.com/feed",
+    "category": "资讯"
   }
 ]
