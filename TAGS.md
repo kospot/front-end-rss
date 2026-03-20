@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-20 10:02:03。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-20 12:02:28。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -345,6 +345,7 @@
 
 
 
+- [【阮一峰的网络日志】科技爱好者周刊（第-389-期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)
 - [......【查看更多】......](/details/tags/job-interview.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-20 10:02:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-20 12:02:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -7,3 +7,4 @@
 
 
 
+- [2026-03-20-科技爱好者周刊（第-389-期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html) 

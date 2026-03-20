@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-20 10:02:03，:rocket: 更新条数: +697， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-20 12:02:27，:rocket: 更新条数: +707， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -21,7 +21,7 @@
 - [前端之巅](#前端之巅)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [favorite-link](#favorite-link)  
 - [酷-壳-–-CoolShell](#酷-壳-–-coolshell)![](/assets/dot.png)   
@@ -30,14 +30,14 @@
 - [掘金飞猪前端](#掘金飞猪前端)  
 - [美团技术团队](#美团技术团队)![](/assets/dot.png)   
 - [web.dev](#web.dev)  
-- [少数派](#少数派)![](/assets/dot.png)   
+- [少数派](#少数派)  
 - [洞见](#洞见)  
 - [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
-- [我爱自然语言处理](#我爱自然语言处理)  
+- [我爱自然语言处理](#我爱自然语言处理)![](/assets/dot.png)   
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 - [Randy's-Blog](#randy's-blog)![](/assets/dot.png)   
@@ -164,6 +164,7 @@
 </summary>
 
 
+- [2026-03-20-科技爱好者周刊（第-389-期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html) ![](/assets/new.png)  
 - [2026-03-13-科技爱好者周刊（第-388-期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)  
 - [2026-03-12-零安装的"云养虾"：ArkClaw-使用指南](http://www.ruanyifeng.com/blog/2026/03/arkclaw.html)  
 - [2026-03-06-科技爱好者周刊（第-387-期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html)  
@@ -268,7 +269,7 @@
 </summary>
 
 
-- [2026-03-20-派早报：小米发布多款新品、稀宇科技发布-MiniMax-M2.7-模型等](https://sspai.com/post/107563) ![](/assets/new.png)  
+- [2026-03-20-派早报：小米发布多款新品、稀宇科技发布-MiniMax-M2.7-模型等](https://sspai.com/post/107563)  
 - [2026-03-19-年度征文-|-沿海公路的出口：10年后，重返宝岛](https://sspai.com/post/97965)  
 - [2026-03-19-杀死你的不是它：聊聊我们的-AI-的焦虑](https://sspai.com/post/106923)  
 - [2026-03-19-派早报：腾讯-QClaw-正式上线、小鹏-P7-发布-Max-版等](https://sspai.com/post/107514)  
@@ -606,8 +607,8 @@
 </summary>
 
 
-- [2026-03-16-Harness-Engineering-实践：Fitness-Function-如何成为-AI-交付的防腐层](https://zhuanlan.zhihu.com/p/2017015528984717268)  
 - [2026-03-16-Harness-Engineering-的防御视角：从-Codex-Security-看-AI-生成代码的治理](https://zhuanlan.zhihu.com/p/2017014727977496848)  
+- [2026-03-16-Harness-Engineering-实践：Fitness-Function-如何成为-AI-交付的防腐层](https://zhuanlan.zhihu.com/p/2017015528984717268)  
 - [2026-03-11-Harness-Engineering：为-AI-Coding-Agent-构建工程系统](https://zhuanlan.zhihu.com/p/2015043541823424323)  
 - [2026-03-03-万物皆-Coding-Agent-的平台工程新范式（A2A-/-ACP-/-MCP-/-Skill）](https://zhuanlan.zhihu.com/p/2012162845169694492)  
 - [2026-03-02-Agent-Team-实践与架构设计：在约束下构建可演进的一个人开发团队](https://zhuanlan.zhihu.com/p/2011849479800787650)  
