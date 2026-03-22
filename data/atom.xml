@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-22T16:25:43.145Z</updated>
+    <updated>2026-03-22T22:00:51.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,23 +15,51 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Sandlock vs. Containers: 25% Faster]]></title>
-        <id>https://multikernel.io/2026/03/21/sandlock-vs-containers-network-benchmark/</id>
-        <link href="https://multikernel.io/2026/03/21/sandlock-vs-containers-network-benchmark/"/>
+        <title type="html"><![CDATA[GitHub – DrBradStanfield/Roadmap]]></title>
+        <id>https://github.com/DrBradStanfield/roadmap</id>
+        <link href="https://github.com/DrBradStanfield/roadmap"/>
         <updated>2026-03-22T16:00:00.000Z</updated>
         <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ten Million Fireflies]]></title>
-        <id>https://tenmillionfireflies.com</id>
-        <link href="https://tenmillionfireflies.com"/>
+        <title type="html"><![CDATA[Build knowledge agents without embeddings]]></title>
+        <id>https://vercel.com/blog/build-knowledge-agents-without-embeddings</id>
+        <link href="https://vercel.com/blog/build-knowledge-agents-without-embeddings"/>
         <updated>2026-03-22T16:00:00.000Z</updated>
         <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Code review as human alignment, in the era of LLMs]]></title>
-        <id>https://blog.ezyang.com/2025/12/code-review-as-human-alignment-in-the-era-of-llms/</id>
-        <link href="https://blog.ezyang.com/2025/12/code-review-as-human-alignment-in-the-era-of-llms/"/>
+        <title type="html"><![CDATA[Alpha release: HunterPrey, a persistent SSH PvP world]]></title>
+        <id>https://hunterprey.com/</id>
+        <link href="https://hunterprey.com/"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the sun sets, batteries rise: 24/7 solar in California]]></title>
+        <id>https://pv-magazine-usa.com/2026/02/17/when-the-sun-sets-batteries-rise-24-7-solar-in-california/</id>
+        <link href="https://pv-magazine-usa.com/2026/02/17/when-the-sun-sets-batteries-rise-24-7-solar-in-california/"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MoaV: Why Anti-Censorship Needs Infrastructure, Not Just Tools]]></title>
+        <id>https://medium.com/@sbetamc/moav-16-protocols-one-server-why-anti-censorship-needs-infrastructure-not-just-tools-e989f0b9c426</id>
+        <link href="https://medium.com/@sbetamc/moav-16-protocols-one-server-why-anti-censorship-needs-infrastructure-not-just-tools-e989f0b9c426"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Tech Bros Are Now Obsessed with Taste]]></title>
+        <id>https://www.newyorker.com/culture/infinite-scroll/why-tech-bros-are-now-obsessed-with-taste</id>
+        <link href="https://www.newyorker.com/culture/infinite-scroll/why-tech-bros-are-now-obsessed-with-taste"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microbenchmarking Chipsets for Giggles]]></title>
+        <id>https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles</id>
+        <link href="https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles"/>
         <updated>2026-03-22T16:00:00.000Z</updated>
         <published>2026-03-22T16:00:00.000Z</published>
     </entry>
@@ -43,6 +71,34 @@
         <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Code review as human alignment, in the era of LLMs]]></title>
+        <id>https://blog.ezyang.com/2025/12/code-review-as-human-alignment-in-the-era-of-llms/</id>
+        <link href="https://blog.ezyang.com/2025/12/code-review-as-human-alignment-in-the-era-of-llms/"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten Million Fireflies]]></title>
+        <id>https://tenmillionfireflies.com</id>
+        <link href="https://tenmillionfireflies.com"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sandlock vs. Containers: 25% Faster]]></title>
+        <id>https://multikernel.io/2026/03/21/sandlock-vs-containers-network-benchmark/</id>
+        <link href="https://multikernel.io/2026/03/21/sandlock-vs-containers-network-benchmark/"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-Tuning OpenAI’s GPT-OSS 20B: A Practitioner’s Guide to LoRA on MoE Models]]></title>
+        <id>https://pub.towardsai.net/fine-tuning-openais-gpt-oss-20b-a-practitioner-s-guide-to-lora-on-moe-models-920171bf5258?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/fine-tuning-openais-gpt-oss-20b-a-practitioner-s-guide-to-lora-on-moe-models-920171bf5258?source=rss----98111c9905da---4"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[看见 App Store 生态的更多可能，Tim Cook 会见中国游戏开发者]]></title>
         <id>https://sspai.com/post/107642</id>
         <link href="https://sspai.com/post/107642"/>
@@ -50,16 +106,16 @@
         <published>2026-03-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets & More]]></title>
-        <id>https://www.wired.com/story/best-merino-wool-clothes/</id>
-        <link href="https://www.wired.com/story/best-merino-wool-clothes/"/>
+        <title type="html"><![CDATA[The Best Subscription-Free Home Security Cameras I've Tried]]></title>
+        <id>https://www.wired.com/story/best-subscription-free-security-cameras/</id>
+        <link href="https://www.wired.com/story/best-subscription-free-security-cameras/"/>
         <updated>2026-03-21T16:00:00.000Z</updated>
         <published>2026-03-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Subscription-Free Home Security Cameras I've Tried]]></title>
-        <id>https://www.wired.com/story/best-subscription-free-security-cameras/</id>
-        <link href="https://www.wired.com/story/best-subscription-free-security-cameras/"/>
+        <title type="html"><![CDATA[Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets & More]]></title>
+        <id>https://www.wired.com/story/best-merino-wool-clothes/</id>
+        <link href="https://www.wired.com/story/best-merino-wool-clothes/"/>
         <updated>2026-03-21T16:00:00.000Z</updated>
         <published>2026-03-21T16:00:00.000Z</published>
     </entry>
@@ -78,9 +134,9 @@
         <published>2026-03-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On-Prem vs. Proxy Solutions for Secure LLM Usage: A Practical Guide for Enterprises]]></title>
-        <id>https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[From Candidate Retrieval to Fine-Grained Ranking (Part 1)]]></title>
+        <id>https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4"/>
         <updated>2026-03-21T16:00:00.000Z</updated>
         <published>2026-03-21T16:00:00.000Z</published>
     </entry>
@@ -92,44 +148,16 @@
         <published>2026-03-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Candidate Retrieval to Fine-Grained Ranking (Part 1)]]></title>
-        <id>https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[On-Prem vs. Proxy Solutions for Secure LLM Usage: A Practical Guide for Enterprises]]></title>
+        <id>https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4"/>
         <updated>2026-03-21T16:00:00.000Z</updated>
         <published>2026-03-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[71 Best Podcasts (2026): True Crime, Culture, Science, Fiction]]></title>
-        <id>https://www.wired.com/story/best-podcasts/</id>
-        <link href="https://www.wired.com/story/best-podcasts/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aiper Scuba V3 Pool Robot Review: Eye on the Prize]]></title>
-        <id>https://www.wired.com/review/aiper-scuba-v3-pool-robot/</id>
-        <link href="https://www.wired.com/review/aiper-scuba-v3-pool-robot/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work]]></title>
-        <id>https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/</id>
-        <link href="https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps]]></title>
-        <id>https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/</id>
-        <link href="https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Denies It Could Sabotage AI Tools During War]]></title>
-        <id>https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/</id>
-        <link href="https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/"/>
+        <title type="html"><![CDATA[This Compact Bose Soundbar Is $80 Off]]></title>
+        <id>https://www.wired.com/story/bose-smart-soundbar-deal-326/</id>
+        <link href="https://www.wired.com/story/bose-smart-soundbar-deal-326/"/>
         <updated>2026-03-20T16:00:00.000Z</updated>
         <published>2026-03-20T16:00:00.000Z</published>
     </entry>
@@ -141,37 +169,37 @@
         <published>2026-03-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Compact Bose Soundbar Is $80 Off]]></title>
-        <id>https://www.wired.com/story/bose-smart-soundbar-deal-326/</id>
-        <link href="https://www.wired.com/story/bose-smart-soundbar-deal-326/"/>
+        <title type="html"><![CDATA[Anthropic Denies It Could Sabotage AI Tools During War]]></title>
+        <id>https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/</id>
+        <link href="https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/"/>
         <updated>2026-03-20T16:00:00.000Z</updated>
         <published>2026-03-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elon Musk misled Twitter investors while trying to get out of acquisition, jury says]]></title>
-        <id>https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/</id>
-        <link href="https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/"/>
+        <title type="html"><![CDATA[How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps]]></title>
+        <id>https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/</id>
+        <link href="https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/"/>
         <updated>2026-03-20T16:00:00.000Z</updated>
         <published>2026-03-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pinterest CEO calls on governments to ban social media for users under 16]]></title>
-        <id>https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/</id>
-        <link href="https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/"/>
+        <title type="html"><![CDATA[I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work]]></title>
+        <id>https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/</id>
+        <link href="https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/"/>
         <updated>2026-03-20T16:00:00.000Z</updated>
         <published>2026-03-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why scientists can’t get a laugh]]></title>
-        <id>https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/</id>
-        <link href="https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/"/>
+        <title type="html"><![CDATA[Aiper Scuba V3 Pool Robot Review: Eye on the Prize]]></title>
+        <id>https://www.wired.com/review/aiper-scuba-v3-pool-robot/</id>
+        <link href="https://www.wired.com/review/aiper-scuba-v3-pool-robot/"/>
         <updated>2026-03-20T16:00:00.000Z</updated>
         <published>2026-03-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava]]></title>
-        <id>https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/</id>
-        <link href="https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/"/>
+        <title type="html"><![CDATA[71 Best Podcasts (2026): True Crime, Culture, Science, Fiction]]></title>
+        <id>https://www.wired.com/story/best-podcasts/</id>
+        <link href="https://www.wired.com/story/best-podcasts/"/>
         <updated>2026-03-20T16:00:00.000Z</updated>
         <published>2026-03-20T16:00:00.000Z</published>
     </entry>
@@ -183,6 +211,34 @@
         <published>2026-03-20T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava]]></title>
+        <id>https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/</id>
+        <link href="https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/"/>
+        <updated>2026-03-20T16:00:00.000Z</updated>
+        <published>2026-03-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why scientists can’t get a laugh]]></title>
+        <id>https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/</id>
+        <link href="https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/"/>
+        <updated>2026-03-20T16:00:00.000Z</updated>
+        <published>2026-03-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinterest CEO calls on governments to ban social media for users under 16]]></title>
+        <id>https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/</id>
+        <link href="https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/"/>
+        <updated>2026-03-20T16:00:00.000Z</updated>
+        <published>2026-03-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk misled Twitter investors while trying to get out of acquisition, jury says]]></title>
+        <id>https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/</id>
+        <link href="https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/"/>
+        <updated>2026-03-20T16:00:00.000Z</updated>
+        <published>2026-03-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Text scaling support in Chrome Canary]]></title>
         <id>https://frontendmasters.com/blog/text-scaling-support-in-chrome-canary/</id>
         <link href="https://frontendmasters.com/blog/text-scaling-support-in-chrome-canary/"/>
@@ -190,51 +246,9 @@
         <published>2026-03-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China Approves the First Brain Chips for Sale—and Has a Plan to Dominate the Industry]]></title>
-        <id>https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/</id>
-        <link href="https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/"/>
-        <updated>2026-03-19T16:00:00.000Z</updated>
-        <published>2026-03-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16 Best Camera Bags, Slings, Straps, and Backpacks (2026), Tested and Reviewed]]></title>
-        <id>https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/</id>
-        <link href="https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/"/>
-        <updated>2026-03-19T16:00:00.000Z</updated>
-        <published>2026-03-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firewire Surfboard Review (2026): Neutrino, Revo Max, Machadocado]]></title>
-        <id>https://www.wired.com/story/firewire-neutrino-surfboard-rave/</id>
-        <link href="https://www.wired.com/story/firewire-neutrino-surfboard-rave/"/>
-        <updated>2026-03-19T16:00:00.000Z</updated>
-        <published>2026-03-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corsair Frame 4000D RS PC Case Review: Excellent Flow]]></title>
-        <id>https://www.wired.com/review/corsair-frame-4000d-rs/</id>
-        <link href="https://www.wired.com/review/corsair-frame-4000d-rs/"/>
-        <updated>2026-03-19T16:00:00.000Z</updated>
-        <published>2026-03-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Danger Behind Meta Killing End-to-End Encryption for Instagram DMs]]></title>
-        <id>https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/</id>
-        <link href="https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/"/>
-        <updated>2026-03-19T16:00:00.000Z</updated>
-        <published>2026-03-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tempur-ActiveBreeze Smart Bed Review: High-Tech Titan]]></title>
-        <id>https://www.wired.com/review/tempur-activebreeze-smart-bed/</id>
-        <link href="https://www.wired.com/review/tempur-activebreeze-smart-bed/"/>
-        <updated>2026-03-19T16:00:00.000Z</updated>
-        <published>2026-03-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’]]></title>
-        <id>https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/</id>
-        <link href="https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/"/>
+        <title type="html"><![CDATA[Meta Will Keep Horizon Worlds Alive in VR ‘for the Foreseeable Future’]]></title>
+        <id>https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/</id>
+        <link href="https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/"/>
         <updated>2026-03-19T16:00:00.000Z</updated>
         <published>2026-03-19T16:00:00.000Z</published>
     </entry>
@@ -246,9 +260,51 @@
         <published>2026-03-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Will Keep Horizon Worlds Alive in VR ‘for the Foreseeable Future’]]></title>
-        <id>https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/</id>
-        <link href="https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/"/>
+        <title type="html"><![CDATA[‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’]]></title>
+        <id>https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/"/>
+        <updated>2026-03-19T16:00:00.000Z</updated>
+        <published>2026-03-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tempur-ActiveBreeze Smart Bed Review: High-Tech Titan]]></title>
+        <id>https://www.wired.com/review/tempur-activebreeze-smart-bed/</id>
+        <link href="https://www.wired.com/review/tempur-activebreeze-smart-bed/"/>
+        <updated>2026-03-19T16:00:00.000Z</updated>
+        <published>2026-03-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Danger Behind Meta Killing End-to-End Encryption for Instagram DMs]]></title>
+        <id>https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/</id>
+        <link href="https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/"/>
+        <updated>2026-03-19T16:00:00.000Z</updated>
+        <published>2026-03-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corsair Frame 4000D RS PC Case Review: Excellent Flow]]></title>
+        <id>https://www.wired.com/review/corsair-frame-4000d-rs/</id>
+        <link href="https://www.wired.com/review/corsair-frame-4000d-rs/"/>
+        <updated>2026-03-19T16:00:00.000Z</updated>
+        <published>2026-03-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firewire Surfboard Review (2026): Neutrino, Revo Max, Machadocado]]></title>
+        <id>https://www.wired.com/story/firewire-neutrino-surfboard-rave/</id>
+        <link href="https://www.wired.com/story/firewire-neutrino-surfboard-rave/"/>
+        <updated>2026-03-19T16:00:00.000Z</updated>
+        <published>2026-03-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16 Best Camera Bags, Slings, Straps, and Backpacks (2026), Tested and Reviewed]]></title>
+        <id>https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/</id>
+        <link href="https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/"/>
+        <updated>2026-03-19T16:00:00.000Z</updated>
+        <published>2026-03-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Approves the First Brain Chips for Sale—and Has a Plan to Dominate the Industry]]></title>
+        <id>https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/</id>
+        <link href="https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/"/>
         <updated>2026-03-19T16:00:00.000Z</updated>
         <published>2026-03-19T16:00:00.000Z</published>
     </entry>
@@ -260,16 +316,16 @@
         <published>2026-03-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Signal’s Creator Is Helping Encrypt Meta AI]]></title>
-        <id>https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/</id>
-        <link href="https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/"/>
+        <title type="html"><![CDATA[Soundcore Nebula X1 Pro Dolby Atmos Projector Review: Big, Brilliant]]></title>
+        <id>https://www.wired.com/review/anker-soundcore-nebula-x1-projector/</id>
+        <link href="https://www.wired.com/review/anker-soundcore-nebula-x1-projector/"/>
         <updated>2026-03-18T16:00:00.000Z</updated>
         <published>2026-03-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soundcore Nebula X1 Pro Dolby Atmos Projector Review: Big, Brilliant]]></title>
-        <id>https://www.wired.com/review/anker-soundcore-nebula-x1-projector/</id>
-        <link href="https://www.wired.com/review/anker-soundcore-nebula-x1-projector/"/>
+        <title type="html"><![CDATA[Signal’s Creator Is Helping Encrypt Meta AI]]></title>
+        <id>https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/</id>
+        <link href="https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/"/>
         <updated>2026-03-18T16:00:00.000Z</updated>
         <published>2026-03-18T16:00:00.000Z</published>
     </entry>
@@ -307,61 +363,5 @@
         <link href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/"/>
         <updated>2026-03-16T16:00:00.000Z</updated>
         <published>2026-03-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flexbox Masonry Layout (Explained with Math)]]></title>
-        <id>https://frontendmasters.com/blog/flexbox-masonry-layout-explained-with-math/</id>
-        <link href="https://frontendmasters.com/blog/flexbox-masonry-layout-explained-with-math/"/>
-        <updated>2026-03-16T16:00:00.000Z</updated>
-        <published>2026-03-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow]]></title>
-        <id>https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/</id>
-        <link href="https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/"/>
-        <updated>2026-03-16T16:00:00.000Z</updated>
-        <published>2026-03-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s about time: Temporal advances, Vite accelerates]]></title>
-        <id>https://javascriptweekly.com/issues/777</id>
-        <link href="https://javascriptweekly.com/issues/777"/>
-        <updated>2026-03-16T16:00:00.000Z</updated>
-        <published>2026-03-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验]]></title>
-        <id>https://sspai.com/post/107131</id>
-        <link href="https://sspai.com/post/107131"/>
-        <updated>2026-03-15T16:00:00.000Z</updated>
-        <published>2026-03-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Deno or Bun is a Better Solution than Node.js]]></title>
-        <id>https://frontendmasters.com/blog/when-deno-or-bun-is-a-better-solution-than-node-js/</id>
-        <link href="https://frontendmasters.com/blog/when-deno-or-bun-is-a-better-solution-than-node-js/"/>
-        <updated>2026-03-15T16:00:00.000Z</updated>
-        <published>2026-03-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More]]></title>
-        <id>https://css-tricks.com/whats-important-7/</id>
-        <link href="https://css-tricks.com/whats-important-7/"/>
-        <updated>2026-03-15T16:00:00.000Z</updated>
-        <published>2026-03-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Continuous AI for accessibility: How GitHub transforms feedback into inclusion]]></title>
-        <id>https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/</id>
-        <link href="https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/"/>
-        <updated>2026-03-12T16:00:00.000Z</updated>
-        <published>2026-03-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重塑站外体验：大众点评 M 站基于 Qwik.js 的重构实践]]></title>
-        <id>https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html</id>
-        <link href="https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html"/>
-        <updated>2026-03-12T16:00:00.000Z</updated>
-        <published>2026-03-12T16:00:00.000Z</published>
     </entry>
 </feed>

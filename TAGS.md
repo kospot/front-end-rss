@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-23 00:25:42。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-23 06:00:50。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -185,6 +185,9 @@
 - [【美团技术团队】重塑站外体验：大众点评-M-站基于-Qwik.js-的重构实践](https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html)
 - [【Towards AI】On-Prem-vs.-Proxy-Solutions-for-Secure-LLM-Usage:-A-Practical-Guide-for-Enterprises](https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4)
 - [【Hacker News】OpenAI-plans-to-almost-double-its-headcount-this-year](https://fortune.com/2026/03/21/openai-double-headcount-this-year-sam-altman-anthropic-google/)
+- [【Hacker News】Microbenchmarking-Chipsets-for-Giggles](https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles)
+- [【Hacker News】When-the-sun-sets,-batteries-rise:-24/7-solar-in-California](https://pv-magazine-usa.com/2026/02/17/when-the-sun-sets-batteries-rise-24-7-solar-in-california/)
+- [【Hacker News】GitHub-–-DrBradStanfield/Roadmap](https://github.com/DrBradStanfield/roadmap)
 - [【Wired】This-Compact-Bose-Soundbar-Is-$80-Off](https://www.wired.com/story/bose-smart-soundbar-deal-326/)
 - [【Wired】China-Approves-the-First-Brain-Chips-for-Sale—and-Has-a-Plan-to-Dominate-the-Industry](https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/)
 - [......【查看更多】......](/details/tags/javascript.md)
@@ -209,6 +212,7 @@
 - [【Frontend Masters Blog】Flexbox-Masonry-Layout-Explained-with-Math](https://frontendmasters.com/blog/flexbox-masonry-layout-explained-with-math/)
 - [【Frontend Masters Blog】The-Big-Gotcha-of-Anchor-Positioning](https://frontendmasters.com/blog/the-big-gotcha-of-anchor-positioning/)
 - [【GitHub Engineering】Continuous-AI-for-accessibility:-How-GitHub-transforms-feedback-into-inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)
+- [【smol.ai】Anthropic-accuses-DeepSeek,-Moonshot,-and-MiniMax-of-"industrial-scale-distillation-attacks".](https://news.smol.ai/issues/26-02-23-anthropic-distillation/)
 - [......【查看更多】......](/details/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -227,9 +231,9 @@
 
 - [【张鑫旭】HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)
 - [【张鑫旭】HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)
-- [【Wired】Meta-Will-Keep-Horizon-Worlds-Alive-in-VR-‘for-the-Foreseeable-Future’](https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/)
-- [【Wired】‘Uncanny-Valley’:-Nvidia’s-‘Super-Bowl-of-AI,’-Tesla-Disappoints,-and-Meta’s-VR-Metaverse-‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/)
 - [【Wired】The-Danger-Behind-Meta-Killing-End-to-End-Encryption-for-Instagram-DMs](https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/)
+- [【Wired】‘Uncanny-Valley’:-Nvidia’s-‘Super-Bowl-of-AI,’-Tesla-Disappoints,-and-Meta’s-VR-Metaverse-‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/)
+- [【Wired】Meta-Will-Keep-Horizon-Worlds-Alive-in-VR-‘for-the-Foreseeable-Future’](https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/)
 - [【Wired】Signal’s-Creator-Is-Helping-Encrypt-Meta-AI](https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/)
 - [......【查看更多】......](/details/tags/html.md)
 
@@ -250,6 +254,7 @@
 - [【CSS-Tricks】A-Complete-Guide-to-Bookmarklets](https://css-tricks.com/a-complete-guide-to-bookmarklets/)
 - [【CSS-Tricks】Loading-Smarter:-SVG-vs.-Raster-Loaders-in-Modern-Web-Design](https://css-tricks.com/loading-smarter-svg-vs-raster-loaders-in-modern-web-design/)
 - [【Smashing Magazine】A-Designer’s-Guide-To-Eco-Friendly-Interfaces](https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/)
+- [【Towards AI】Fine-Tuning-OpenAI’s-GPT-OSS-20B:-A-Practitioner’s-Guide-to-LoRA-on-MoE-Models](https://pub.towardsai.net/fine-tuning-openais-gpt-oss-20b-a-practitioner-s-guide-to-lora-on-moe-models-920171bf5258?source=rss----98111c9905da---4)
 - [【Sebastian Raschka】A-Visual-Guide-to-Attention-Variants-in-Modern-LLMs](https://magazine.sebastianraschka.com/p/visual-attention-variants)
 - [......【查看更多】......](/details/tags/canvas-image.md)
 
@@ -307,19 +312,19 @@
 - [【GitHub Engineering】GitHub-for-Beginners:-Getting-started-with-GitHub-Actions](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/)
 - [【GitHub Engineering】How-to-scan-for-vulnerabilities-with-GitHub-Security-Lab’s-open-source-AI-powered-framework](https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/)
 - [【Martin Fowler】Knowledge-Priming](https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html)
+- [【smol.ai】GPT-5.4:-SOTA-Knowledge-Work--and--Coding--and--CUA-Model,-OpenAI-is-so-very-back](https://news.smol.ai/issues/26-03-05-gpt54/)
+- [【smol.ai】OpenAI-closes-$110B-raise-from-Amazon,-NVIDIA,-SoftBank-in-largest-startup-fundraise-in-history-@-$840B-post-money](https://news.smol.ai/issues/26-02-27-openai-g/)
+- [【smol.ai】Nano-Banana-2-aka-Gemini-3.1-Flash-Image-Preview:-the-new-SOTA-Imagegen-model](https://news.smol.ai/issues/26-02-26-nanobanana2/)
 - [【Towards AI】From-Candidate-Retrieval-to-Fine-Grained-Ranking-Part-1](https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4)
-- [【Hacker News】Code-review-as-human-alignment,-in-the-era-of-LLMs](https://blog.ezyang.com/2025/12/code-review-as-human-alignment-in-the-era-of-llms/)
 - [【Hacker News】Ten-Million-Fireflies](https://tenmillionfireflies.com)
-- [【TechCrunch】WordPress.com-now-lets-AI-agents-write-and-publish-posts,-and-more](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)
-- [【TechCrunch】A-French-Navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-Strava](https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/)
-- [【TechCrunch】Why-scientists-can’t-get-a-laugh](https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/)
+- [【Hacker News】Code-review-as-human-alignment,-in-the-era-of-LLMs](https://blog.ezyang.com/2025/12/code-review-as-human-alignment-in-the-era-of-llms/)
+- [【Hacker News】Build-knowledge-agents-without-embeddings](https://vercel.com/blog/build-knowledge-agents-without-embeddings)
 - [【TechCrunch】Elon-Musk-misled-Twitter-investors-while-trying-to-get-out-of-acquisition,-jury-says](https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/)
-- [【Wired】The-Best-Subscription-Free-Home-Security-Cameras-I've-Tried](https://www.wired.com/story/best-subscription-free-security-cameras/)
+- [【TechCrunch】Why-scientists-can’t-get-a-laugh](https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/)
+- [【TechCrunch】A-French-Navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-Strava](https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/)
+- [【TechCrunch】WordPress.com-now-lets-AI-agents-write-and-publish-posts,-and-more](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)
 - [【Wired】Best-Merino-Wool-Clothing-2026:-Base-Layers,-Hoodies,-Jackets-&amp;-More](https://www.wired.com/story/best-merino-wool-clothes/)
-- [【Wired】There-Aren’t-a-Lot-of-Reasons-to-Get-Excited-About-a-New-Amazon-Smartphone](https://www.wired.com/story/amazon-smartphone-rumor-2026/)
-- [【Wired】Anthropic-Denies-It-Could-Sabotage-AI-Tools-During-War](https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/)
-- [【Wired】I-Tried-DoorDash’s-Tasks-App-and-Saw-the-Bleak-Future-of-AI-Gig-Work](https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/)
-- [【Wired】Aiper-Scuba-V3-Pool-Robot-Review:-Eye-on-the-Prize](https://www.wired.com/review/aiper-scuba-v3-pool-robot/)
+- [【Wired】The-Best-Subscription-Free-Home-Security-Cameras-I've-Tried](https://www.wired.com/story/best-subscription-free-security-cameras/)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -338,6 +343,8 @@
 
 - [【Towards AI】The-AI-Sandbox:-Why-Kubernetes-Sandbox-is-the-Future-of-AI-Infrastructure](https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4)
 - [【Hacker News】Sandlock-vs.-Containers:-25%-Faster](https://multikernel.io/2026/03/21/sandlock-vs-containers-network-benchmark/)
+- [【Hacker News】Why-Tech-Bros-Are-Now-Obsessed-with-Taste](https://www.newyorker.com/culture/infinite-scroll/why-tech-bros-are-now-obsessed-with-taste)
+- [【Hacker News】MoaV:-Why-Anti-Censorship-Needs-Infrastructure,-Not-Just-Tools](https://medium.com/@sbetamc/moav-16-protocols-one-server-why-anti-censorship-needs-infrastructure-not-just-tools-e989f0b9c426)
 - [【Hacker News】MultiHead:-Turn-one-GPU-into-a-team-of-specialized-AI-agents-open-source](https://github.com/axsar/multihead)
 - [【Wired】How-BYD-Got-EV-Chargers-to-Work-Almost-as-Fast-as-Gas-Pumps](https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/)
 - [......【查看更多】......](/details/tags/front-end-advanced.md)
@@ -356,6 +363,7 @@
 
 
 
+- [【Hacker News】Alpha-release:-HunterPrey,-a-persistent-SSH-PvP-world](https://hunterprey.com/)
 - [【TechCrunch】Pinterest-CEO-calls-on-governments-to-ban-social-media-for-users-under-16](https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/)
 - [......【查看更多】......](/details/tags/server.md)
 
@@ -393,6 +401,7 @@
 
 
 
+- [【阮一峰】科技爱好者周刊（第-389-期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)
 - [......【查看更多】......](/details/tags/job-interview.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -425,8 +434,8 @@
 - [【Frontend Masters Blog】The-Enforced-Accessibility-of-the-Geolocation-Element](https://frontendmasters.com/blog/the-enforced-accessibility-of-the-geolocation-element/)
 - [【张鑫旭】浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)
 - [【张鑫旭】点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/)
-- [【美团技术团队】美团-BI-在指标平台和分析引擎上的探索和实践](https://tech.meituan.com/2026/03/20/busniness-intelligence-practice-in-meituan.html)
-- [【美团技术团队】LongCat-为-OpenClaw-装上效率引擎：你的自动化任务还能再快-30%](https://tech.meituan.com/2026/03/09/longcat-openclaw.html)
+- [【阮一峰】套壳中国大模型撑起500亿美元估值？扒一扒-Cursor-的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)
+- [【阮一峰】科技爱好者周刊（第-388-期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
