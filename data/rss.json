@@ -1,5 +1,4 @@
 [
-  // ===== 前端 =====
   {
     "title": "Node Weekly",
     "rss": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml",
@@ -115,8 +114,6 @@
     "rss": "https://rsshub.app/github/trending/daily/javascript",
     "category": "前端"
   },
-
-  // ===== 后端 / 工程 =====
   {
     "title": "美团技术团队",
     "rss": "https://tech.meituan.com/feed/",
@@ -142,8 +139,6 @@
     "rss": "https://martinfowler.com/feed.atom",
     "category": "后端"
   },
-
-  // ===== AI =====
   {
     "title": "arXiv ML",
     "rss": "https://arxiv.org/rss/cs.LG",
@@ -209,8 +204,6 @@
     "rss": "https://rsshub.app/openai/chatgpt/release-notes",
     "category": "AI"
   },
-
-  // ===== 科技资讯 =====
   {
     "title": "Hacker News",
     "rss": "https://hnrss.org/newest",
