@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-20 12:02:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-23 00:25:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -8,4 +8,3 @@
 
 
 - [2026-03-10-TypeScript-6.0-RC-and-Solid-2.0-beta-arrive](https://javascriptweekly.com/issues/776) 
-- [2026-03-07-Announcing-TypeScript-6.0-RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/) 
