@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-23 08:00:53，:rocket: 更新条数: +1191， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-23 10:01:16，:rocket: 更新条数: +1189， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -59,7 +59,7 @@
 - [TechCrunch](#techcrunch)  
 - [Wired](#wired)  
 - [Engadget](#engadget)  
-- [少数派](#少数派)![](/assets/dot.png)   
+- [少数派](#少数派)  
 
 ## 文章链接
 
@@ -111,8 +111,8 @@
 
 
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
+- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [2026-03-05-The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)  
@@ -490,8 +490,8 @@
 - [2026-02-27-OpenAI-closes-$110B-raise-from-Amazon,-NVIDIA,-SoftBank-in-largest-startup-fundraise-in-history-@-$840B-post-money](https://news.smol.ai/issues/26-02-27-openai-g/)  
 - [2026-02-26-Nano-Banana-2-aka-Gemini-3.1-Flash-Image-Preview:-the-new-SOTA-Imagegen-model](https://news.smol.ai/issues/26-02-26-nanobanana2/)  
 - [2026-02-25-Agentic-Engineering:-WTF-Happened-in-December-2025?](https://news.smol.ai/issues/26-02-25-wtf-happened/)  
-- [2026-02-24-Anthropic-accuses-DeepSeek,-Moonshot,-and-MiniMax-of-"industrial-scale-distillation-attacks".](https://news.smol.ai/issues/26-02-23-anthropic-distillation/)  
 - [2026-02-24-Claude-Code-Anniversary-+-Launches-from:-Qwen-3.5,-Cursor-Demos,-Cognition-Devin-2.2,-Inception-Mercury-2](https://news.smol.ai/issues/26-02-24-claude-code/)  
+- [2026-02-24-Anthropic-accuses-DeepSeek,-Moonshot,-and-MiniMax-of-"industrial-scale-distillation-attacks".](https://news.smol.ai/issues/26-02-23-anthropic-distillation/)  
 - [......【查看更多】......](/details/smol.ai.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -503,22 +503,23 @@
 </summary>
 
 
-- [2026-03-23-From-Probability-to-Loss---How-MLE-Builds-Machine-Learning:-Part-2](https://pub.towardsai.net/from-probability-to-loss-how-mle-builds-machine-learning-part-2-789a9f27c254?source=rss----98111c9905da---4)  
-- [2026-03-23-Fine-Tuning-OpenAI’s-GPT-OSS-20B:-A-Practitioner’s-Guide-to-LoRA-on-MoE-Models](https://pub.towardsai.net/fine-tuning-openais-gpt-oss-20b-a-practitioner-s-guide-to-lora-on-moe-models-920171bf5258?source=rss----98111c9905da---4)  
-- [2026-03-23-Improving-Deep-Neural-Learning-Networks-Part-1:-Practical-Approaches-and-Applications-to-LLMs](https://pub.towardsai.net/improving-deep-neural-learning-networks-part-1-practical-approaches-and-applications-to-llms-72b8632e725b?source=rss----98111c9905da---4)  
-- [2026-03-23-How-I-Would-Become-an-AI-Engineer-in-2026-If-I-Had-to-Start-Over](https://pub.towardsai.net/how-i-would-become-an-ai-engineer-in-2026-if-i-had-to-start-over-c80bd754c753?source=rss----98111c9905da---4)  
+- [2026-03-23-If-OpenAI’s-$60-Ad-Test-Succeeds,-Google-Gemini-Will-Read-Your-Inbox](https://pub.towardsai.net/if-openais-60-ad-test-succeeds-google-gemini-will-read-your-inbox-ecd9c7f503ab?source=rss----98111c9905da---4)  
+- [2026-03-23-The-Hidden-Creativity-Inside-LLMs:-How-Recoding-Decoding-Unlocks-Better-Ideas](https://pub.towardsai.net/the-hidden-creativity-inside-llms-how-recoding-decoding-unlocks-better-ideas-d08e37396316?source=rss----98111c9905da---4)  
 - [2026-03-23-Nadine,-A-Social-Robot](https://pub.towardsai.net/nadine-a-social-robot-1ac757c38ccc?source=rss----98111c9905da---4)  
-- [2026-03-23-The-Hidden-Creativity-Inside-LLMs:-How-Recoding-Decoding-Unlocks-Better-Ideas](https://pub.towardsai.net/the-hidden-creativity-inside-llms-how-recoding-decoding-unlocks-better-ideas-d08e37396316?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-23-If-OpenAI’s-$60-Ad-Test-Succeeds,-Google-Gemini-Will-Read-Your-Inbox](https://pub.towardsai.net/if-openais-60-ad-test-succeeds-google-gemini-will-read-your-inbox-ecd9c7f503ab?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-22-OpenClaw;-Explained-Simply](https://pub.towardsai.net/openclaw-explained-simply-50fe4af8dcdf?source=rss----98111c9905da---4)  
-- [2026-03-22-Spreadsheet-Logic-Extraction-—-What-It-Takes,-and-How-AI-Compresses-the-Timeline](https://pub.towardsai.net/spreadsheet-logic-extraction-what-it-takes-and-how-ai-compresses-the-timeline-bad92bcccba9?source=rss----98111c9905da---4)  
-- [2026-03-22-Building-a-Data-Analysis-Agent-with-LangGraph](https://pub.towardsai.net/building-a-data-analysis-agent-with-langgraph-6a1072472a1e?source=rss----98111c9905da---4)  
-- [2026-03-22-Building-a-Local-AI-Agent-to-Summarise-Web-Articles](https://pub.towardsai.net/building-a-local-ai-agent-to-summarise-web-articles-a748c976a8d2?source=rss----98111c9905da---4)  
-- [2026-03-22-MCP-+-A2A-+-OWL-Ontology:-I-Built-the-Agentic-Mesh-Your-Enterprise-Agents-Are-Missing](https://pub.towardsai.net/mcp-a2a-owl-ontology-i-built-the-agentic-mesh-your-enterprise-agents-are-missing-84ec0487ddd4?source=rss----98111c9905da---4)  
-- [2026-03-22-Microsoft-IQ-vs.-ServiceNow:-I-Built-the-Layer-Both-Are-Missing](https://pub.towardsai.net/microsoft-iq-vs-e106645a5b17?source=rss----98111c9905da---4)  
-- [2026-03-22-From-Candidate-Retrieval-to-Fine-Grained-Ranking-Part-1](https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4)  
-- [2026-03-22-The-AI-Sandbox:-Why-Kubernetes-Sandbox-is-the-Future-of-AI-Infrastructure](https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4)  
+- [2026-03-23-How-I-Would-Become-an-AI-Engineer-in-2026-If-I-Had-to-Start-Over](https://pub.towardsai.net/how-i-would-become-an-ai-engineer-in-2026-if-i-had-to-start-over-c80bd754c753?source=rss----98111c9905da---4)  
+- [2026-03-23-Improving-Deep-Neural-Learning-Networks-Part-1:-Practical-Approaches-and-Applications-to-LLMs](https://pub.towardsai.net/improving-deep-neural-learning-networks-part-1-practical-approaches-and-applications-to-llms-72b8632e725b?source=rss----98111c9905da---4)  
+- [2026-03-23-Fine-Tuning-OpenAI’s-GPT-OSS-20B:-A-Practitioner’s-Guide-to-LoRA-on-MoE-Models](https://pub.towardsai.net/fine-tuning-openais-gpt-oss-20b-a-practitioner-s-guide-to-lora-on-moe-models-920171bf5258?source=rss----98111c9905da---4)  
+- [2026-03-23-From-Probability-to-Loss---How-MLE-Builds-Machine-Learning:-Part-2](https://pub.towardsai.net/from-probability-to-loss-how-mle-builds-machine-learning-part-2-789a9f27c254?source=rss----98111c9905da---4)  
+- [2026-03-23-I-Built-an-AI-Podcast-That-Learns-What-You-Like-—-Here’s-Exactly-How-It-Works](https://pub.towardsai.net/i-built-an-ai-podcast-that-learns-what-you-like-heres-exactly-how-it-works-2d464c8d0704?source=rss----98111c9905da---4) ![](/assets/new.png)  
 - [2026-03-22-On-Prem-vs.-Proxy-Solutions-for-Secure-LLM-Usage:-A-Practical-Guide-for-Enterprises](https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4)  
+- [2026-03-22-The-AI-Sandbox:-Why-Kubernetes-Sandbox-is-the-Future-of-AI-Infrastructure](https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4)  
+- [2026-03-22-From-Candidate-Retrieval-to-Fine-Grained-Ranking-Part-1](https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4)  
+- [2026-03-22-Microsoft-IQ-vs.-ServiceNow:-I-Built-the-Layer-Both-Are-Missing](https://pub.towardsai.net/microsoft-iq-vs-e106645a5b17?source=rss----98111c9905da---4)  
+- [2026-03-22-MCP-+-A2A-+-OWL-Ontology:-I-Built-the-Agentic-Mesh-Your-Enterprise-Agents-Are-Missing](https://pub.towardsai.net/mcp-a2a-owl-ontology-i-built-the-agentic-mesh-your-enterprise-agents-are-missing-84ec0487ddd4?source=rss----98111c9905da---4)  
+- [2026-03-22-Building-a-Local-AI-Agent-to-Summarise-Web-Articles](https://pub.towardsai.net/building-a-local-ai-agent-to-summarise-web-articles-a748c976a8d2?source=rss----98111c9905da---4)  
+- [2026-03-22-Building-a-Data-Analysis-Agent-with-LangGraph](https://pub.towardsai.net/building-a-data-analysis-agent-with-langgraph-6a1072472a1e?source=rss----98111c9905da---4)  
+- [2026-03-22-Spreadsheet-Logic-Extraction-—-What-It-Takes,-and-How-AI-Compresses-the-Timeline](https://pub.towardsai.net/spreadsheet-logic-extraction-what-it-takes-and-how-ai-compresses-the-timeline-bad92bcccba9?source=rss----98111c9905da---4)  
+- [2026-03-22-OpenClaw;-Explained-Simply](https://pub.towardsai.net/openclaw-explained-simply-50fe4af8dcdf?source=rss----98111c9905da---4)  
 - [......【查看更多】......](/details/Towards AI.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -631,26 +632,26 @@
 </summary>
 
 
-- [2026-03-23-Show-HN:-Kitty.cards-–-Create-Apple-Wallet-cards-online-no-login](https://kitty.cards/)  
-- [2026-03-23-O2Fail-–-What-You-Need-to-Know-About-Mobile-Phone-Content-Control-2010](https://shkspr.mobi/blog/2011/03/o2fail-what-you-need-to-know-about-mobile-phone-content-control/)  
-- [2026-03-23-Kash-Patel's-Nike-Shoes-Weren't-Customized-by-Nike](https://www.yellopolitics.com/p/kash-patels-garish-custom-shoes-werent)  
-- [2026-03-23-Fun-crafts-done-by-AI-agents-–-humans-subscribe-to-read](https://crafthunt.ai/)  
-- [2026-03-23-FAA-Ends-Use-of-'See-and-Avoid'-for-Helicopters-Near-Busy-Airports](https://www.nytimes.com/2026/03/18/us/politics/faa-visual-separation-policy.html)  
-- [2026-03-23-Talking-with-Robin-Brooks](https://paulkrugman.substack.com/p/talking-with-robin-brooks)  
-- [2026-03-23-GitHub-–-DrBradStanfield/Roadmap](https://github.com/DrBradStanfield/roadmap)  
-- [2026-03-23-Build-knowledge-agents-without-embeddings](https://vercel.com/blog/build-knowledge-agents-without-embeddings)  
-- [2026-03-23-AI's-impact-on-private-equity-–-based-on-AI-deep-research](https://ai-transformation.fyi/)  
-- [2026-03-23-Show-HN:-Playra](https://playra-app.vercel.app/)  
-- [2026-03-23-ClawMem](https://github.com/yoloshii/ClawMem)  
-- [2026-03-23-Alpha-release:-HunterPrey,-a-persistent-SSH-PvP-world](https://hunterprey.com/)  
-- [2026-03-23-Show-HN:-Association-rule-mining-on-21.6M-poker-hands](https://pattern.poker)  
-- [2026-03-23-The-Environment-Will-Be-Saved-If-We-Just-Avoid-Doing-Icky-Things-2024](https://branchfree.org/2024/11/25/the-environment-will-be-saved-if-we-just-avoid-doing-icky-things/)  
-- [2026-03-23-When-the-sun-sets,-batteries-rise:-24/7-solar-in-California](https://pv-magazine-usa.com/2026/02/17/when-the-sun-sets-batteries-rise-24-7-solar-in-california/)  
-- [2026-03-23-Show-HN:-Three-deployable-open-source-platforms-from-a-solo-builder](https://news.ycombinator.com/item?id=47482378)  
-- [2026-03-23-New-OllamaMQ-Version-v0.2.5](https://github.com/Chleba/ollamaMQ)  
-- [2026-03-23-MoaV:-Why-Anti-Censorship-Needs-Infrastructure,-Not-Just-Tools](https://medium.com/@sbetamc/moav-16-protocols-one-server-why-anti-censorship-needs-infrastructure-not-just-tools-e989f0b9c426)  
-- [2026-03-23-Why-Tech-Bros-Are-Now-Obsessed-with-Taste](https://www.newyorker.com/culture/infinite-scroll/why-tech-bros-are-now-obsessed-with-taste)  
-- [2026-03-23-Microbenchmarking-Chipsets-for-Giggles](https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles)  
+- [2026-03-23-AskAlf-–-Self-hosted-AI-workforce-that-runs-24/7](https://github.com/askalf/askalf)  
+- [2026-03-23-The-deep-cave-bacteria-resistant-to-modern-medicine](https://www.bbc.com/future/article/20260318-the-deep-cave-bacteria-resistant-to-modern-medicine)  
+- [2026-03-23-Unlocking-25-Gigabit/S-on-10-GbE-Direct-Attach-Copper](https://kohlschuetter.github.io/blog/posts/2026/03/22/unlock25/)  
+- [2026-03-23-Privacy-Respecting-Age-Controls](https://gist.github.com/devinvs/e334f7fb92f8d9b41b821a1dc8a46fde)  
+- [2026-03-23-Health:-Science-Outran-the-System](https://juliahawkins.substack.com/p/health-how-science-outran-the-system)  
+- [2026-03-23-The-solar-powered-compact-car-driving-Tunisia's-electric-vehicle-revolution](https://www.cnn.com/world/africa/electric-vehicle-solar-tunisia-spc)  
+- [2026-03-23-Apply-video-compression-on-KV-cache-to-10,000x-less-error-at-Q4-quant](https://github.com/cenconq25/delta-compress-llm)  
+- [2026-03-23-Zprof-–-a-comptime-configurable-and-minimal-memory-profiler-for-Zig-allocators](https://github.com/ANDRVV/zprof)  
+- [2026-03-23-VercelNet:-The-internet-but-only-Vercel-apps](https://vercelnet.vercel.app)  
+- [2026-03-23-ForgeKV-–-Redis-compatible-KV-server-in-Rust-that-scales-with-cores](https://github.com/ForgeKV/forgekv)  
+- [2026-03-23-Judge-dismisses-lawsuit-by-Sam-Altman's-sister-accusing-him-of-sexual-abuse](https://www.reuters.com/legal/government/judge-now-dismisses-lawsuit-by-sam-altmans-sister-accusing-openai-ceo-sexual-2026-03-20/)  
+- [2026-03-23-Polsia-Leaking-Customers-Secrets](https://twitter.com/NKCSS/status/2035760976377598252)  
+- [2026-03-23-Why-I-Vibe-in-Go,-Not-Rust-or-Python](https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python)  
+- [2026-03-23-Hawaii-storms-have-caused-$1B-in-damage,-governor-says](https://www.bbc.com/news/articles/czxrdxn6qwqo)  
+- [2026-03-23-Light-on-Glass:-Why-do-you-start-making-a-game-engine?](https://analogdreamdev.substack.com/p/light-on-glass)  
+- [2026-03-23-Claude-Code-for-Academics-pdf](https://github.com/aspi6246/ClaudeCodeTools/blob/main/Presentations/main.pdf)  
+- [2026-03-23-C++26-Shipped-a-SIMD-Library-Nobody-Asked-For](https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody)  
+- [2026-03-23-WW3:-What-Are-the-Chances?](https://worldwarchance.com/)  
+- [2026-03-23-National-survey-of-NIH-funded-researchers-shows-precarious-state-of-U.S.-science](https://www.statnews.com/2026/03/19/nih-funding-national-researcher-survey-finds-cutbacks-disruptions/)  
+- [2026-03-23-Pakistan's-Markets-Face-Selloff-from-Surging-Oil,-Conflict](https://www.bloomberg.com/news/articles/2026-03-17/pakistan-s-markets-face-selloff-from-surging-oil-conflict)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -735,7 +736,7 @@
 </summary>
 
 
-- [2026-03-23-派早报：微软承诺多项-Windows-11-改善措施](https://sspai.com/post/107674) ![](/assets/new.png)  
+- [2026-03-23-派早报：微软承诺多项-Windows-11-改善措施](https://sspai.com/post/107674)  
 - [2026-03-22-看见-App-Store-生态的更多可能，Tim-Cook-会见中国游戏开发者](https://sspai.com/post/107642)  
 - [2026-03-22-用十年手机相册，记录颐和园的日夜春秋](https://sspai.com/post/107010)  
 - [2026-03-21-App+1｜给「类原生」用户的来电拦截工具：Pixel-Telo](https://sspai.com/post/107136)  

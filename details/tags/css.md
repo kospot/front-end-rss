@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-23 08:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-23 10:01:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -14,5 +14,6 @@
 - [2026-03-05-The-Big-Gotcha-of-Anchor-Positioning](https://frontendmasters.com/blog/the-big-gotcha-of-anchor-positioning/) 
 - [2026-03-13-Continuous-AI-for-accessibility:-How-GitHub-transforms-feedback-into-inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/) 
 - [2026-02-24-Anthropic-accuses-DeepSeek,-Moonshot,-and-MiniMax-of-"industrial-scale-distillation-attacks".](https://news.smol.ai/issues/26-02-23-anthropic-distillation/) 
-- [2026-03-23-ForgeKV-–-Redis-compatible-KV-server-in-Rust-that-scales-with-cores](https://github.com/ForgeKV/forgekv) 
 - [2026-03-23-Apply-video-compression-on-KV-cache-to-10,000x-less-error-at-Q4-quant](https://github.com/cenconq25/delta-compress-llm) 
+- [2026-03-23-ForgeKV-–-Redis-compatible-KV-server-in-Rust-that-scales-with-cores](https://github.com/ForgeKV/forgekv) 
+- [2026-03-23-Blessed.rs-–-Recommended-Crate-Directory](https://blessed.rs/crates) 

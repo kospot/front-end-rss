@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-23 08:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-23 10:01:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -16,9 +16,13 @@
 - [2026-03-11-Goodbye-innerHTML,-Hello-setHTML](https://frontendmasters.com/blog/goodbye-innerhtml-hello-sethtml/) 
 - [2026-03-13-重塑站外体验：大众点评-M-站基于-Qwik.js-的重构实践](https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html) 
 - [2026-03-22-On-Prem-vs.-Proxy-Solutions-for-Secure-LLM-Usage:-A-Practical-Guide-for-Enterprises](https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4) 
-- [2026-03-23-GitHub-–-DrBradStanfield/Roadmap](https://github.com/DrBradStanfield/roadmap) 
-- [2026-03-23-When-the-sun-sets,-batteries-rise:-24/7-solar-in-California](https://pv-magazine-usa.com/2026/02/17/when-the-sun-sets-batteries-rise-24-7-solar-in-california/) 
-- [2026-03-23-Microbenchmarking-Chipsets-for-Giggles](https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles) 
 - [2026-03-23-OpenAI-plans-to-almost-double-its-headcount-this-year](https://fortune.com/2026/03/21/openai-double-headcount-this-year-sam-altman-anthropic-google/) 
+- [2026-03-23-Microbenchmarking-Chipsets-for-Giggles](https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles) 
+- [2026-03-23-When-the-sun-sets,-batteries-rise:-24/7-solar-in-California](https://pv-magazine-usa.com/2026/02/17/when-the-sun-sets-batteries-rise-24-7-solar-in-california/) 
+- [2026-03-23-GitHub-–-DrBradStanfield/Roadmap](https://github.com/DrBradStanfield/roadmap) 
+- [2026-03-23-Self-Recursive-Ethics-in-a-Longitudinal-AI-Ethics-Monitor-Log:-Documented](https://zenodo.org/records/19164044) 
+- [2026-03-23-More!-More!-More!-Tech-Workers-Max-Out-Their-A.I.-Use](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html) 
+- [2026-03-23-Garrytan/gstack:-Use-Garry-Tan's-exact-Claude-Code-setup:-15-opinionated-tools](https://github.com/garrytan/gstack) 
+- [2026-03-23-OpenAI-to-nearly-double-headcount-this-year](https://www.semafor.com/article/03/22/2026/openai-to-double-headcount) 
 - [2026-03-21-This-Compact-Bose-Soundbar-Is-$80-Off](https://www.wired.com/story/bose-smart-soundbar-deal-326/) 
 - [2026-03-20-China-Approves-the-First-Brain-Chips-for-Sale—and-Has-a-Plan-to-Dominate-the-Industry](https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/) 

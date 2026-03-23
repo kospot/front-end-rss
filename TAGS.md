@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-23 08:00:54。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-23 10:01:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -184,10 +184,14 @@
 - [【Frontend Masters Blog】Goodbye-innerHTML,-Hello-setHTML](https://frontendmasters.com/blog/goodbye-innerhtml-hello-sethtml/)
 - [【美团技术团队】重塑站外体验：大众点评-M-站基于-Qwik.js-的重构实践](https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html)
 - [【Towards AI】On-Prem-vs.-Proxy-Solutions-for-Secure-LLM-Usage:-A-Practical-Guide-for-Enterprises](https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4)
-- [【Hacker News】GitHub-–-DrBradStanfield/Roadmap](https://github.com/DrBradStanfield/roadmap)
-- [【Hacker News】When-the-sun-sets,-batteries-rise:-24/7-solar-in-California](https://pv-magazine-usa.com/2026/02/17/when-the-sun-sets-batteries-rise-24-7-solar-in-california/)
-- [【Hacker News】Microbenchmarking-Chipsets-for-Giggles](https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles)
 - [【Hacker News】OpenAI-plans-to-almost-double-its-headcount-this-year](https://fortune.com/2026/03/21/openai-double-headcount-this-year-sam-altman-anthropic-google/)
+- [【Hacker News】Microbenchmarking-Chipsets-for-Giggles](https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles)
+- [【Hacker News】When-the-sun-sets,-batteries-rise:-24/7-solar-in-California](https://pv-magazine-usa.com/2026/02/17/when-the-sun-sets-batteries-rise-24-7-solar-in-california/)
+- [【Hacker News】GitHub-–-DrBradStanfield/Roadmap](https://github.com/DrBradStanfield/roadmap)
+- [【Hacker News】Self-Recursive-Ethics-in-a-Longitudinal-AI-Ethics-Monitor-Log:-Documented](https://zenodo.org/records/19164044)
+- [【Hacker News】More!-More!-More!-Tech-Workers-Max-Out-Their-A.I.-Use](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html)
+- [【Hacker News】Garrytan/gstack:-Use-Garry-Tan's-exact-Claude-Code-setup:-15-opinionated-tools](https://github.com/garrytan/gstack)
+- [【Hacker News】OpenAI-to-nearly-double-headcount-this-year](https://www.semafor.com/article/03/22/2026/openai-to-double-headcount)
 - [【Wired】This-Compact-Bose-Soundbar-Is-$80-Off](https://www.wired.com/story/bose-smart-soundbar-deal-326/)
 - [【Wired】China-Approves-the-First-Brain-Chips-for-Sale—and-Has-a-Plan-to-Dominate-the-Industry](https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/)
 - [......【查看更多】......](/details/tags/javascript.md)
@@ -213,8 +217,9 @@
 - [【Frontend Masters Blog】The-Big-Gotcha-of-Anchor-Positioning](https://frontendmasters.com/blog/the-big-gotcha-of-anchor-positioning/)
 - [【GitHub Engineering】Continuous-AI-for-accessibility:-How-GitHub-transforms-feedback-into-inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)
 - [【smol.ai】Anthropic-accuses-DeepSeek,-Moonshot,-and-MiniMax-of-"industrial-scale-distillation-attacks".](https://news.smol.ai/issues/26-02-23-anthropic-distillation/)
-- [【Hacker News】ForgeKV-–-Redis-compatible-KV-server-in-Rust-that-scales-with-cores](https://github.com/ForgeKV/forgekv)
 - [【Hacker News】Apply-video-compression-on-KV-cache-to-10,000x-less-error-at-Q4-quant](https://github.com/cenconq25/delta-compress-llm)
+- [【Hacker News】ForgeKV-–-Redis-compatible-KV-server-in-Rust-that-scales-with-cores](https://github.com/ForgeKV/forgekv)
+- [【Hacker News】Blessed.rs-–-Recommended-Crate-Directory](https://blessed.rs/crates)
 - [......【查看更多】......](/details/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -318,15 +323,15 @@
 - [【smol.ai】OpenAI-closes-$110B-raise-from-Amazon,-NVIDIA,-SoftBank-in-largest-startup-fundraise-in-history-@-$840B-post-money](https://news.smol.ai/issues/26-02-27-openai-g/)
 - [【smol.ai】Nano-Banana-2-aka-Gemini-3.1-Flash-Image-Preview:-the-new-SOTA-Imagegen-model](https://news.smol.ai/issues/26-02-26-nanobanana2/)
 - [【Towards AI】From-Candidate-Retrieval-to-Fine-Grained-Ranking-Part-1](https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4)
-- [【Hacker News】Build-knowledge-agents-without-embeddings](https://vercel.com/blog/build-knowledge-agents-without-embeddings)
-- [【Hacker News】Code-review-as-human-alignment,-in-the-era-of-LLMs](https://blog.ezyang.com/2025/12/code-review-as-human-alignment-in-the-era-of-llms/)
-- [【Hacker News】Ten-Million-Fireflies](https://tenmillionfireflies.com)
-- [【Hacker News】National-survey-of-NIH-funded-researchers-shows-precarious-state-of-U.S.-science](https://www.statnews.com/2026/03/19/nih-funding-national-researcher-survey-finds-cutbacks-disruptions/)
 - [【Hacker News】Health:-Science-Outran-the-System](https://juliahawkins.substack.com/p/health-how-science-outran-the-system)
+- [【Hacker News】National-survey-of-NIH-funded-researchers-shows-precarious-state-of-U.S.-science](https://www.statnews.com/2026/03/19/nih-funding-national-researcher-survey-finds-cutbacks-disruptions/)
+- [【Hacker News】Ten-Million-Fireflies](https://tenmillionfireflies.com)
+- [【Hacker News】Code-review-as-human-alignment,-in-the-era-of-LLMs](https://blog.ezyang.com/2025/12/code-review-as-human-alignment-in-the-era-of-llms/)
+- [【Hacker News】Build-knowledge-agents-without-embeddings](https://vercel.com/blog/build-knowledge-agents-without-embeddings)
+- [【Hacker News】Locking-in-WebKit-–-WebKit](https://webkit.org/blog/6161/locking-in-webkit/)
+- [【Hacker News】Does-Computer-Science-Still-Exists?](https://davidbau.com/archives/2026/03/20/does_computer_science_still_exist.html)
 - [【TechCrunch】Elon-Musk-misled-Twitter-investors-while-trying-to-get-out-of-acquisition,-jury-says](https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/)
 - [【TechCrunch】Why-scientists-can’t-get-a-laugh](https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/)
-- [【TechCrunch】A-French-Navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-Strava](https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/)
-- [【TechCrunch】WordPress.com-now-lets-AI-agents-write-and-publish-posts,-and-more](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -343,10 +348,13 @@
 
 
 
+- [【Towards AI】I-Built-an-AI-Podcast-That-Learns-What-You-Like-—-Here’s-Exactly-How-It-Works](https://pub.towardsai.net/i-built-an-ai-podcast-that-learns-what-you-like-heres-exactly-how-it-works-2d464c8d0704?source=rss----98111c9905da---4)
 - [【Towards AI】The-AI-Sandbox:-Why-Kubernetes-Sandbox-is-the-Future-of-AI-Infrastructure](https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4)
-- [【Hacker News】MoaV:-Why-Anti-Censorship-Needs-Infrastructure,-Not-Just-Tools](https://medium.com/@sbetamc/moav-16-protocols-one-server-why-anti-censorship-needs-infrastructure-not-just-tools-e989f0b9c426)
-- [【Hacker News】Why-Tech-Bros-Are-Now-Obsessed-with-Taste](https://www.newyorker.com/culture/infinite-scroll/why-tech-bros-are-now-obsessed-with-taste)
 - [【Hacker News】Sandlock-vs.-Containers:-25%-Faster](https://multikernel.io/2026/03/21/sandlock-vs-containers-network-benchmark/)
+- [【Hacker News】Why-Tech-Bros-Are-Now-Obsessed-with-Taste](https://www.newyorker.com/culture/infinite-scroll/why-tech-bros-are-now-obsessed-with-taste)
+- [【Hacker News】MoaV:-Why-Anti-Censorship-Needs-Infrastructure,-Not-Just-Tools](https://medium.com/@sbetamc/moav-16-protocols-one-server-why-anti-censorship-needs-infrastructure-not-just-tools-e989f0b9c426)
+- [【Hacker News】Paving-Hawaiian-roads-with-recycled-plastics-and-abandoned-fishing-nets](https://www.acs.org/pressroom/presspacs/2026/march/paving-hawaiian-roads-with-recycled-plastics-and-abandoned-fishing-nets.html)
+- [【Hacker News】48k-AI-Agents-Turn-Live-News-into-Podcasts-and-Music](https://zunvra.com)
 - [【Hacker News】MultiHead:-Turn-one-GPU-into-a-team-of-specialized-AI-agents-open-source](https://github.com/axsar/multihead)
 - [【Wired】How-BYD-Got-EV-Chargers-to-Work-Almost-as-Fast-as-Gas-Pumps](https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/)
 - [......【查看更多】......](/details/tags/front-end-advanced.md)
@@ -365,8 +373,8 @@
 
 
 
-- [【Hacker News】Alpha-release:-HunterPrey,-a-persistent-SSH-PvP-world](https://hunterprey.com/)
 - [【Hacker News】Why-I-Vibe-in-Go,-Not-Rust-or-Python](https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python)
+- [【Hacker News】Alpha-release:-HunterPrey,-a-persistent-SSH-PvP-world](https://hunterprey.com/)
 - [【TechCrunch】Pinterest-CEO-calls-on-governments-to-ban-social-media-for-users-under-16](https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/)
 - [......【查看更多】......](/details/tags/server.md)
 
