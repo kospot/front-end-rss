@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-23 10:01:16，:rocket: 更新条数: +1189， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-23 12:02:31，:rocket: 更新条数: +1418， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -42,7 +42,7 @@
 - [GitHub-Engineering](#github-engineering)  
 - [O'Reilly-Radar](#o'reilly-radar)  
 - [Martin-Fowler](#martin-fowler)![](/assets/dot.png)   
-- [arXiv-ML](#arxiv-ml)  
+- [arXiv-ML](#arxiv-ml)![](/assets/dot.png)   
 - [HuggingFace-Blog](#huggingface-blog)  
 - [smol.ai](#smol.ai)![](/assets/dot.png)   
 - [Towards-AI](#towards-ai)![](/assets/dot.png)   
@@ -55,7 +55,7 @@
 - [我爱自然语言处理](#我爱自然语言处理)![](/assets/dot.png)   
 - [AI前线](#ai前线)  
 - [ChatGPT-更新](#chatgpt-更新)  
-- [Hacker-News](#hacker-news)![](/assets/dot.png)   
+- [Hacker-News](#hacker-news)  
 - [TechCrunch](#techcrunch)  
 - [Wired](#wired)  
 - [Engadget](#engadget)  
@@ -111,8 +111,8 @@
 
 
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
+- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [2026-03-05-The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)  
@@ -450,6 +450,26 @@
 </summary>
 
 
+- [2026-03-23-Evaluating-Game-Difficulty-in-Tetris-Block-Puzzle](https://arxiv.org/abs/2603.18994) ![](/assets/new.png)  
+- [2026-03-23-IRIS:-A-Real-World-Benchmark-for-Inverse-Recovery-and-Identification-of-Physical-Dynamic-Systems-from-Monocular-Video](https://arxiv.org/abs/2603.16432) ![](/assets/new.png)  
+- [2026-03-23-Learnability-with-Partial-Labels-and-Adaptive-Nearest-Neighbors](https://arxiv.org/abs/2603.15781) ![](/assets/new.png)  
+- [2026-03-23-ClawWorm:-Self-Propagating-Attacks-Across-LLM-Agent-Ecosystems](https://arxiv.org/abs/2603.15727) ![](/assets/new.png)  
+- [2026-03-23-AC-Foley:-Reference-Audio-Guided-Video-to-Audio-Synthesis-with-Acoustic-Transfer](https://arxiv.org/abs/2603.15597) ![](/assets/new.png)  
+- [2026-03-23-Medical-Image-Spatial-Grounding-with-Semantic-Sampling](https://arxiv.org/abs/2603.14579) ![](/assets/new.png)  
+- [2026-03-23-Schr\"odinger-Bridge-Over-A-Compact-Connected-Lie-Group](https://arxiv.org/abs/2603.14049) ![](/assets/new.png)  
+- [2026-03-23-Guiding-Diffusion-based-Reconstruction-with-Contrastive-Signals-for-Balanced-Visual-Representation](https://arxiv.org/abs/2603.04803) ![](/assets/new.png)  
+- [2026-03-23-CIRCUS:-Circuit-Consensus-under-Uncertainty-via-Stability-Ensembles](https://arxiv.org/abs/2603.00523) ![](/assets/new.png)  
+- [2026-03-23-Precedence-Constrained-Decision-Trees-and-Coverings](https://arxiv.org/abs/2602.21312) ![](/assets/new.png)  
+- [2026-03-23-LHAW:-Controllable-Underspecification-for-Long-Horizon-Tasks](https://arxiv.org/abs/2602.10525) ![](/assets/new.png)  
+- [2026-03-23-Accelerating-Large-Scale-Cheminformatics-Using-a-Byte-Offset-Indexing-Architecture-for-Terabyte-Scale-Data-Integration](https://arxiv.org/abs/2601.18921) ![](/assets/new.png)  
+- [2026-03-23-RayRoPE:-Projective-Ray-Positional-Encoding-for-Multi-view-Attention](https://arxiv.org/abs/2601.15275) ![](/assets/new.png)  
+- [2026-03-23-A-Multi-Perspective-Benchmark-and-Moderation-Model-for-Evaluating-Safety-and-Adversarial-Robustness](https://arxiv.org/abs/2601.03273) ![](/assets/new.png)  
+- [2026-03-23-Dementia-R1:-Reinforced-Pretraining-and-Reasoning-from-Unstructured-Clinical-Notes-for-Real-World-Dementia-Prognosis](https://arxiv.org/abs/2601.03018) ![](/assets/new.png)  
+- [2026-03-23-Unsupervised-Feature-Selection-via-Robust-Autoencoder-and-Adaptive-Graph-Learning](https://arxiv.org/abs/2512.18720) ![](/assets/new.png)  
+- [2026-03-23-3D-Consistent-Multi-View-Editing-by-Correspondence-Guidance](https://arxiv.org/abs/2511.22228) ![](/assets/new.png)  
+- [2026-03-23-FastMMoE:-Accelerating-Multimodal-Large-Language-Models-through-Dynamic-Expert-Activation-and-Routing-Aware-Token-Pruning](https://arxiv.org/abs/2511.17885) ![](/assets/new.png)  
+- [2026-03-23-FORWARD:-Dataset-of-a-forwarder-operating-in-rough-terrain](https://arxiv.org/abs/2511.17318) ![](/assets/new.png)  
+- [2026-03-23-Rep2Text:-Decoding-Full-Text-from-a-Single-LLM-Token-Representation](https://arxiv.org/abs/2511.06571) ![](/assets/new.png)  
 - [......【查看更多】......](/details/arXiv ML.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -490,8 +510,8 @@
 - [2026-02-27-OpenAI-closes-$110B-raise-from-Amazon,-NVIDIA,-SoftBank-in-largest-startup-fundraise-in-history-@-$840B-post-money](https://news.smol.ai/issues/26-02-27-openai-g/)  
 - [2026-02-26-Nano-Banana-2-aka-Gemini-3.1-Flash-Image-Preview:-the-new-SOTA-Imagegen-model](https://news.smol.ai/issues/26-02-26-nanobanana2/)  
 - [2026-02-25-Agentic-Engineering:-WTF-Happened-in-December-2025?](https://news.smol.ai/issues/26-02-25-wtf-happened/)  
-- [2026-02-24-Claude-Code-Anniversary-+-Launches-from:-Qwen-3.5,-Cursor-Demos,-Cognition-Devin-2.2,-Inception-Mercury-2](https://news.smol.ai/issues/26-02-24-claude-code/)  
 - [2026-02-24-Anthropic-accuses-DeepSeek,-Moonshot,-and-MiniMax-of-"industrial-scale-distillation-attacks".](https://news.smol.ai/issues/26-02-23-anthropic-distillation/)  
+- [2026-02-24-Claude-Code-Anniversary-+-Launches-from:-Qwen-3.5,-Cursor-Demos,-Cognition-Devin-2.2,-Inception-Mercury-2](https://news.smol.ai/issues/26-02-24-claude-code/)  
 - [......【查看更多】......](/details/smol.ai.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -503,23 +523,26 @@
 </summary>
 
 
-- [2026-03-23-If-OpenAI’s-$60-Ad-Test-Succeeds,-Google-Gemini-Will-Read-Your-Inbox](https://pub.towardsai.net/if-openais-60-ad-test-succeeds-google-gemini-will-read-your-inbox-ecd9c7f503ab?source=rss----98111c9905da---4)  
-- [2026-03-23-The-Hidden-Creativity-Inside-LLMs:-How-Recoding-Decoding-Unlocks-Better-Ideas](https://pub.towardsai.net/the-hidden-creativity-inside-llms-how-recoding-decoding-unlocks-better-ideas-d08e37396316?source=rss----98111c9905da---4)  
-- [2026-03-23-Nadine,-A-Social-Robot](https://pub.towardsai.net/nadine-a-social-robot-1ac757c38ccc?source=rss----98111c9905da---4)  
-- [2026-03-23-How-I-Would-Become-an-AI-Engineer-in-2026-If-I-Had-to-Start-Over](https://pub.towardsai.net/how-i-would-become-an-ai-engineer-in-2026-if-i-had-to-start-over-c80bd754c753?source=rss----98111c9905da---4)  
-- [2026-03-23-Improving-Deep-Neural-Learning-Networks-Part-1:-Practical-Approaches-and-Applications-to-LLMs](https://pub.towardsai.net/improving-deep-neural-learning-networks-part-1-practical-approaches-and-applications-to-llms-72b8632e725b?source=rss----98111c9905da---4)  
-- [2026-03-23-Fine-Tuning-OpenAI’s-GPT-OSS-20B:-A-Practitioner’s-Guide-to-LoRA-on-MoE-Models](https://pub.towardsai.net/fine-tuning-openais-gpt-oss-20b-a-practitioner-s-guide-to-lora-on-moe-models-920171bf5258?source=rss----98111c9905da---4)  
+- [2026-03-23-I-Built-an-AI-Podcast-That-Learns-What-You-Like-—-Here’s-Exactly-How-It-Works](https://pub.towardsai.net/i-built-an-ai-podcast-that-learns-what-you-like-heres-exactly-how-it-works-2d464c8d0704?source=rss----98111c9905da---4)  
 - [2026-03-23-From-Probability-to-Loss---How-MLE-Builds-Machine-Learning:-Part-2](https://pub.towardsai.net/from-probability-to-loss-how-mle-builds-machine-learning-part-2-789a9f27c254?source=rss----98111c9905da---4)  
-- [2026-03-23-I-Built-an-AI-Podcast-That-Learns-What-You-Like-—-Here’s-Exactly-How-It-Works](https://pub.towardsai.net/i-built-an-ai-podcast-that-learns-what-you-like-heres-exactly-how-it-works-2d464c8d0704?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-22-On-Prem-vs.-Proxy-Solutions-for-Secure-LLM-Usage:-A-Practical-Guide-for-Enterprises](https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4)  
-- [2026-03-22-The-AI-Sandbox:-Why-Kubernetes-Sandbox-is-the-Future-of-AI-Infrastructure](https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4)  
-- [2026-03-22-From-Candidate-Retrieval-to-Fine-Grained-Ranking-Part-1](https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4)  
-- [2026-03-22-Microsoft-IQ-vs.-ServiceNow:-I-Built-the-Layer-Both-Are-Missing](https://pub.towardsai.net/microsoft-iq-vs-e106645a5b17?source=rss----98111c9905da---4)  
-- [2026-03-22-MCP-+-A2A-+-OWL-Ontology:-I-Built-the-Agentic-Mesh-Your-Enterprise-Agents-Are-Missing](https://pub.towardsai.net/mcp-a2a-owl-ontology-i-built-the-agentic-mesh-your-enterprise-agents-are-missing-84ec0487ddd4?source=rss----98111c9905da---4)  
-- [2026-03-22-Building-a-Local-AI-Agent-to-Summarise-Web-Articles](https://pub.towardsai.net/building-a-local-ai-agent-to-summarise-web-articles-a748c976a8d2?source=rss----98111c9905da---4)  
-- [2026-03-22-Building-a-Data-Analysis-Agent-with-LangGraph](https://pub.towardsai.net/building-a-data-analysis-agent-with-langgraph-6a1072472a1e?source=rss----98111c9905da---4)  
-- [2026-03-22-Spreadsheet-Logic-Extraction-—-What-It-Takes,-and-How-AI-Compresses-the-Timeline](https://pub.towardsai.net/spreadsheet-logic-extraction-what-it-takes-and-how-ai-compresses-the-timeline-bad92bcccba9?source=rss----98111c9905da---4)  
+- [2026-03-23-Fine-Tuning-OpenAI’s-GPT-OSS-20B:-A-Practitioner’s-Guide-to-LoRA-on-MoE-Models](https://pub.towardsai.net/fine-tuning-openais-gpt-oss-20b-a-practitioner-s-guide-to-lora-on-moe-models-920171bf5258?source=rss----98111c9905da---4)  
+- [2026-03-23-Improving-Deep-Neural-Learning-Networks-Part-1:-Practical-Approaches-and-Applications-to-LLMs](https://pub.towardsai.net/improving-deep-neural-learning-networks-part-1-practical-approaches-and-applications-to-llms-72b8632e725b?source=rss----98111c9905da---4)  
+- [2026-03-23-How-I-Would-Become-an-AI-Engineer-in-2026-If-I-Had-to-Start-Over](https://pub.towardsai.net/how-i-would-become-an-ai-engineer-in-2026-if-i-had-to-start-over-c80bd754c753?source=rss----98111c9905da---4)  
+- [2026-03-23-Nadine,-A-Social-Robot](https://pub.towardsai.net/nadine-a-social-robot-1ac757c38ccc?source=rss----98111c9905da---4)  
+- [2026-03-23-The-Hidden-Creativity-Inside-LLMs:-How-Recoding-Decoding-Unlocks-Better-Ideas](https://pub.towardsai.net/the-hidden-creativity-inside-llms-how-recoding-decoding-unlocks-better-ideas-d08e37396316?source=rss----98111c9905da---4)  
+- [2026-03-23-If-OpenAI’s-$60-Ad-Test-Succeeds,-Google-Gemini-Will-Read-Your-Inbox](https://pub.towardsai.net/if-openais-60-ad-test-succeeds-google-gemini-will-read-your-inbox-ecd9c7f503ab?source=rss----98111c9905da---4)  
+- [2026-03-23-A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-23-The-Cognitive-Dissonance-Agent:-Why-the-Best-AI-Reasoning-Starts-With-Self-Doubt](https://pub.towardsai.net/the-cognitive-dissonance-agent-why-the-best-ai-reasoning-starts-with-self-doubt-d1a7b5ffb42e?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-23-Beyond-the-Rules-Engine:-A-Business-Analyst’s-Inside-Look-at-AI-for-Payment-Fraud-Detection](https://pub.towardsai.net/beyond-the-rules-engine-a-business-analysts-inside-look-at-ai-for-payment-fraud-detection-eb4d929c017a?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-23-How-to-Build-a-RAG-system-on-Azure:-From-Local-Dev-to-ProductionTerraform,-Python,-NextJS](https://pub.towardsai.net/how-to-build-a-rag-system-on-azure-from-local-dev-to-production-terraform-python-nextjs-28830602b84b?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-23-I-Spent-6-Months-Talking-to-AI-Founders.-Here’s-What-Actually-Works-in-2026.](https://pub.towardsai.net/i-spent-6-months-talking-to-ai-founders-heres-what-actually-works-in-2026-5baae4af57a9?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-23-Consensus:-Structured-Multi-Party-Dialogue-Between-AI-models-or-Humans-and-Models](https://pub.towardsai.net/consensus-structured-multi-party-dialogue-between-ai-models-or-humans-and-models-16d365cbb150?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-23-How-LLMs-Actually-Process-Your-Messages:-A-Clear-Guide-to-Context-Windows,-Token-Limits,-and…](https://pub.towardsai.net/how-llms-actually-process-your-messages-a-clear-guide-to-context-windows-token-limits-and-0f9ff996ba8b?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-23-Context-Engineering-Is-a-Skill.-Most-Developers-Are-Skipping-It.](https://pub.towardsai.net/context-engineering-is-a-skill-most-developers-are-skipping-it-9938678292b8?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-23-AI-in-Healthcare:-Innovations-to-Watch-in-2026](https://pub.towardsai.net/ai-in-healthcare-innovations-to-watch-in-2026-8b545edd9316?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-23-State-of-Context-Engineering-in-2026](https://pub.towardsai.net/state-of-context-engineering-in-2026-cf92d010eab1?source=rss----98111c9905da---4) ![](/assets/new.png)  
 - [2026-03-22-OpenClaw;-Explained-Simply](https://pub.towardsai.net/openclaw-explained-simply-50fe4af8dcdf?source=rss----98111c9905da---4)  
+- [2026-03-22-Spreadsheet-Logic-Extraction-—-What-It-Takes,-and-How-AI-Compresses-the-Timeline](https://pub.towardsai.net/spreadsheet-logic-extraction-what-it-takes-and-how-ai-compresses-the-timeline-bad92bcccba9?source=rss----98111c9905da---4)  
 - [......【查看更多】......](/details/Towards AI.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

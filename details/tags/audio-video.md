@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-23 10:01:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-23 12:02:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -7,4 +7,5 @@
 
 
 
+- [2026-03-23-IRIS:-A-Real-World-Benchmark-for-Inverse-Recovery-and-Identification-of-Physical-Dynamic-Systems-from-Monocular-Video](https://arxiv.org/abs/2603.16432) 
 - [2026-03-17-少数派十四周年直播：我们挑选了这四类好产品](https://sspai.com/post/107428) 

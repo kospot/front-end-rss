@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-23 10:01:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-23 12:02:31。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -39,6 +39,8 @@
 
 
 - [【Smashing Magazine】Building-Dynamic-Forms-In-React-And-Next.js](https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/)
+- [【arXiv ML】Gym-TORAX:-Open-source-software-for-integrating-reinforcement-learning-with-plasma-control-simulators-in-tokamak-research](https://arxiv.org/abs/2510.11283)
+- [【Towards AI】A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -110,6 +112,10 @@
 - [【Node Weekly】Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)
 - [【JavaScript Weekly】External-import-maps,-a-big-Bun-release,-and-Node.js-schedule-changes](https://javascriptweekly.com/issues/775)
 - [【Frontend Masters Blog】When-Deno-or-Bun-is-a-Better-Solution-than-Node.js](https://frontendmasters.com/blog/when-deno-or-bun-is-a-better-solution-than-node-js/)
+- [【arXiv ML】Predicting-Hidden-Links-and-Missing-Nodes-in-Scale-Free-Networks-with-Artificial-Neural-Networks](https://arxiv.org/abs/2109.12331)
+- [【arXiv ML】KoALA:-KL-L0-Adversarial-Detector-via-Label-Agreement](https://arxiv.org/abs/2510.12752)
+- [【arXiv ML】FNODE:-Flow-Matching-for-data-driven-simulation-of-constrained-multibody-systems](https://arxiv.org/abs/2509.00183)
+- [【arXiv ML】Evaluating-Test-Time-Adaptation-For-Facial-Expression-Recognition-Under-Natural-Cross-Dataset-Distribution-Shifts](https://arxiv.org/abs/2603.19994)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -183,17 +189,18 @@
 - [【Smashing Magazine】Moving-From-Moment.js-To-The-JS-Temporal-API](https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/)
 - [【Frontend Masters Blog】Goodbye-innerHTML,-Hello-setHTML](https://frontendmasters.com/blog/goodbye-innerhtml-hello-sethtml/)
 - [【美团技术团队】重塑站外体验：大众点评-M-站基于-Qwik.js-的重构实践](https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html)
-- [【Towards AI】On-Prem-vs.-Proxy-Solutions-for-Secure-LLM-Usage:-A-Practical-Guide-for-Enterprises](https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4)
-- [【Hacker News】OpenAI-plans-to-almost-double-its-headcount-this-year](https://fortune.com/2026/03/21/openai-double-headcount-this-year-sam-altman-anthropic-google/)
-- [【Hacker News】Microbenchmarking-Chipsets-for-Giggles](https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles)
-- [【Hacker News】When-the-sun-sets,-batteries-rise:-24/7-solar-in-California](https://pv-magazine-usa.com/2026/02/17/when-the-sun-sets-batteries-rise-24-7-solar-in-california/)
-- [【Hacker News】GitHub-–-DrBradStanfield/Roadmap](https://github.com/DrBradStanfield/roadmap)
-- [【Hacker News】Self-Recursive-Ethics-in-a-Longitudinal-AI-Ethics-Monitor-Log:-Documented](https://zenodo.org/records/19164044)
-- [【Hacker News】More!-More!-More!-Tech-Workers-Max-Out-Their-A.I.-Use](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html)
-- [【Hacker News】Garrytan/gstack:-Use-Garry-Tan's-exact-Claude-Code-setup:-15-opinionated-tools](https://github.com/garrytan/gstack)
-- [【Hacker News】OpenAI-to-nearly-double-headcount-this-year](https://www.semafor.com/article/03/22/2026/openai-to-double-headcount)
-- [【Wired】This-Compact-Bose-Soundbar-Is-$80-Off](https://www.wired.com/story/bose-smart-soundbar-deal-326/)
-- [【Wired】China-Approves-the-First-Brain-Chips-for-Sale—and-Has-a-Plan-to-Dominate-the-Industry](https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/)
+- [【arXiv ML】Accelerating-Large-Scale-Cheminformatics-Using-a-Byte-Offset-Indexing-Architecture-for-Terabyte-Scale-Data-Integration](https://arxiv.org/abs/2601.18921)
+- [【arXiv ML】FORWARD:-Dataset-of-a-forwarder-operating-in-rough-terrain](https://arxiv.org/abs/2511.17318)
+- [【arXiv ML】Virtual-Sensing-for-Solder-Layer-Degradation-and-Temperature-Monitoring-in-IGBT-Modules](https://arxiv.org/abs/2508.10515)
+- [【arXiv ML】Best-of-Both-Worlds-Multi-Dueling-Bandits:-Unified-Algorithms-for-Stochastic-and-Adversarial-Preferences-under-Condorcet-and-Borda-Objectives](https://arxiv.org/abs/2603.18972)
+- [【arXiv ML】AcceRL:-A-Distributed-Asynchronous-Reinforcement-Learning-and-World-Model-Framework-for-Vision-Language-Action-Models](https://arxiv.org/abs/2603.18464)
+- [【arXiv ML】R2-Dreamer:-Redundancy-Reduced-World-Models-without-Decoders-or-Augmentation](https://arxiv.org/abs/2603.18202)
+- [【arXiv ML】Efficient-Cross-Domain-Offline-Reinforcement-Learning-with-Dynamics--and-Value-Aligned-Data-Filtering](https://arxiv.org/abs/2512.02435)
+- [【arXiv ML】Sensing-Without-Colocation:-Operator-Based-Virtual-Instrumentation-for-Domains-Beyond-Physical-Reach](https://arxiv.org/abs/2510.18041)
+- [【arXiv ML】Antenna-Array-Beamforming-Based-on-a-Hybrid-Quantum-Optimization-Framework](https://arxiv.org/abs/2603.20072)
+- [【arXiv ML】Failure-Modes-for-Deep-Learning-Based-Online-Mapping:-How-to-Measure-and-Address-Them](https://arxiv.org/abs/2603.19852)
+- [【arXiv ML】K-GMRF:-Kinetic-Gauss-Markov-Random-Field-for-First-Principles-Covariance-Tracking-on-Lie-Groups](https://arxiv.org/abs/2603.19601)
+- [【arXiv ML】PA2D-MORL:-Pareto-Ascent-Directional-Decomposition-based-Multi-Objective-Reinforcement-Learning](https://arxiv.org/abs/2603.19579)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -216,10 +223,20 @@
 - [【Frontend Masters Blog】Flexbox-Masonry-Layout-Explained-with-Math](https://frontendmasters.com/blog/flexbox-masonry-layout-explained-with-math/)
 - [【Frontend Masters Blog】The-Big-Gotcha-of-Anchor-Positioning](https://frontendmasters.com/blog/the-big-gotcha-of-anchor-positioning/)
 - [【GitHub Engineering】Continuous-AI-for-accessibility:-How-GitHub-transforms-feedback-into-inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)
-- [【smol.ai】Anthropic-accuses-DeepSeek,-Moonshot,-and-MiniMax-of-"industrial-scale-distillation-attacks".](https://news.smol.ai/issues/26-02-23-anthropic-distillation/)
-- [【Hacker News】Apply-video-compression-on-KV-cache-to-10,000x-less-error-at-Q4-quant](https://github.com/cenconq25/delta-compress-llm)
-- [【Hacker News】ForgeKV-–-Redis-compatible-KV-server-in-Rust-that-scales-with-cores](https://github.com/ForgeKV/forgekv)
-- [【Hacker News】Blessed.rs-–-Recommended-Crate-Directory](https://blessed.rs/crates)
+- [【arXiv ML】RayRoPE:-Projective-Ray-Positional-Encoding-for-Multi-view-Attention](https://arxiv.org/abs/2601.15275)
+- [【arXiv ML】Hyper-STTN:-Hypergraph-Augmented-Spatial-Temporal-Transformer-Network-for-Trajectory-Prediction](https://arxiv.org/abs/2401.06344)
+- [【arXiv ML】On-the-Structural-Non-Preservation-of-Epistemic-Behaviour-under-Policy-Transformation](https://arxiv.org/abs/2602.21424)
+- [【arXiv ML】DETECT:-Data-Driven-Evaluation-of-Treatments-Enabled-by-Classification-Transformers](https://arxiv.org/abs/2511.07213)
+- [【arXiv ML】Less-is-More:-Towards-Simple-Graph-Contrastive-Learning](https://arxiv.org/abs/2509.25742)
+- [【arXiv ML】HALO:-Hierarchical-Reinforcement-Learning-for-Large-Scale-Adaptive-Traffic-Signal-Control](https://arxiv.org/abs/2506.14391)
+- [【arXiv ML】Structured-Latent-Dynamics-in-Wireless-CSI-via-Homomorphic-World-Models](https://arxiv.org/abs/2603.20048)
+- [【arXiv ML】Structural-Controllability-of-Large-Scale-Hypergraphs](https://arxiv.org/abs/2603.19955)
+- [【arXiv ML】On-the-Ability-of-Transformers-to-Verify-Plans](https://arxiv.org/abs/2603.19954)
+- [【arXiv ML】Infinite-dimensional-spherical-radial-decomposition-for-probabilistic-functions,-with-application-to-constrained-optimal-control-and-Gaussian-process-regression](https://arxiv.org/abs/2603.19907)
+- [【arXiv ML】Modeling-subgrid-scale-production-rates-on-complex-meshes-using-graph-neural-networks](https://arxiv.org/abs/2603.19841)
+- [【arXiv ML】SurfaceXR:-Fusing-Smartwatch-IMUs-and-Egocentric-Hand-Pose-for-Seamless-Surface-Interactions](https://arxiv.org/abs/2603.19529)
+- [【arXiv ML】Transformers-are-Stateless-Differentiable-Neural-Computers](https://arxiv.org/abs/2603.19272)
+- [【arXiv ML】How-Out-of-Equilibrium-Phase-Transitions-can-Seed-Pattern-Formation-in-Trained-Diffusion-Models](https://arxiv.org/abs/2603.20092)
 - [......【查看更多】......](/details/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -238,6 +255,7 @@
 
 - [【张鑫旭】HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)
 - [【张鑫旭】HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)
+- [【arXiv ML】Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888)
 - [【Wired】The-Danger-Behind-Meta-Killing-End-to-End-Encryption-for-Instagram-DMs](https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/)
 - [【Wired】‘Uncanny-Valley’:-Nvidia’s-‘Super-Bowl-of-AI,’-Tesla-Disappoints,-and-Meta’s-VR-Metaverse-‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/)
 - [【Wired】Meta-Will-Keep-Horizon-Worlds-Alive-in-VR-‘for-the-Foreseeable-Future’](https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/)
@@ -261,7 +279,19 @@
 - [【CSS-Tricks】A-Complete-Guide-to-Bookmarklets](https://css-tricks.com/a-complete-guide-to-bookmarklets/)
 - [【CSS-Tricks】Loading-Smarter:-SVG-vs.-Raster-Loaders-in-Modern-Web-Design](https://css-tricks.com/loading-smarter-svg-vs-raster-loaders-in-modern-web-design/)
 - [【Smashing Magazine】A-Designer’s-Guide-To-Eco-Friendly-Interfaces](https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/)
+- [【arXiv ML】AC-Foley:-Reference-Audio-Guided-Video-to-Audio-Synthesis-with-Acoustic-Transfer](https://arxiv.org/abs/2603.15597)
+- [【arXiv ML】Guiding-Diffusion-based-Reconstruction-with-Contrastive-Signals-for-Balanced-Visual-Representation](https://arxiv.org/abs/2603.04803)
+- [【arXiv ML】3D-Consistent-Multi-View-Editing-by-Correspondence-Guidance](https://arxiv.org/abs/2511.22228)
+- [【arXiv ML】Superclass-Guided-Representation-Disentanglement-for-Spurious-Correlation-Mitigation](https://arxiv.org/abs/2508.08570)
+- [【arXiv ML】Physics-Guided-Temporal-Fusion-for-Lane-Change-Intention-Prediction](https://arxiv.org/abs/2512.24075)
+- [【arXiv ML】Fast-3D-Diffusion-for-Scalable-Granular-Media-Synthesis](https://arxiv.org/abs/2508.19752)
+- [【arXiv ML】Layered-Quantum-Architecture-Search-for-3D-Point-Cloud-Classification](https://arxiv.org/abs/2603.20024)
+- [【arXiv ML】PFM-VEPAR:-Prompting-Foundation-Models-for-RGB-Event-Camera-based-Pedestrian-Attribute-Recognition](https://arxiv.org/abs/2603.19565)
+- [【arXiv ML】Reinforcement-guided-generative-protein-language-models-enable-de-novo-design-of-highly-diverse-AAV-capsids](https://arxiv.org/abs/2603.19473)
+- [【arXiv ML】Ensembles-based-Feature-Guided-Analysis](https://arxiv.org/abs/2603.19653)
+- [【arXiv ML】BrainSCL:-Subtype-Guided-Contrastive-Learning-for-Brain-Disorder-Diagnosis](https://arxiv.org/abs/2603.19295)
 - [【Towards AI】Fine-Tuning-OpenAI’s-GPT-OSS-20B:-A-Practitioner’s-Guide-to-LoRA-on-MoE-Models](https://pub.towardsai.net/fine-tuning-openais-gpt-oss-20b-a-practitioner-s-guide-to-lora-on-moe-models-920171bf5258?source=rss----98111c9905da---4)
+- [【Towards AI】How-LLMs-Actually-Process-Your-Messages:-A-Clear-Guide-to-Context-Windows,-Token-Limits,-and…](https://pub.towardsai.net/how-llms-actually-process-your-messages-a-clear-guide-to-context-windows-token-limits-and-0f9ff996ba8b?source=rss----98111c9905da---4)
 - [【Sebastian Raschka】A-Visual-Guide-to-Attention-Variants-in-Modern-LLMs](https://magazine.sebastianraschka.com/p/visual-attention-variants)
 - [......【查看更多】......](/details/tags/canvas-image.md)
 
@@ -279,6 +309,7 @@
 
 
 
+- [【arXiv ML】IRIS:-A-Real-World-Benchmark-for-Inverse-Recovery-and-Identification-of-Physical-Dynamic-Systems-from-Monocular-Video](https://arxiv.org/abs/2603.16432)
 - [【少数派】少数派十四周年直播：我们挑选了这四类好产品](https://sspai.com/post/107428)
 - [......【查看更多】......](/details/tags/audio-video.md)
 
@@ -319,19 +350,19 @@
 - [【GitHub Engineering】GitHub-for-Beginners:-Getting-started-with-GitHub-Actions](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/)
 - [【GitHub Engineering】How-to-scan-for-vulnerabilities-with-GitHub-Security-Lab’s-open-source-AI-powered-framework](https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/)
 - [【Martin Fowler】Knowledge-Priming](https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html)
-- [【smol.ai】GPT-5.4:-SOTA-Knowledge-Work--and--Coding--and--CUA-Model,-OpenAI-is-so-very-back](https://news.smol.ai/issues/26-03-05-gpt54/)
-- [【smol.ai】OpenAI-closes-$110B-raise-from-Amazon,-NVIDIA,-SoftBank-in-largest-startup-fundraise-in-history-@-$840B-post-money](https://news.smol.ai/issues/26-02-27-openai-g/)
-- [【smol.ai】Nano-Banana-2-aka-Gemini-3.1-Flash-Image-Preview:-the-new-SOTA-Imagegen-model](https://news.smol.ai/issues/26-02-26-nanobanana2/)
-- [【Towards AI】From-Candidate-Retrieval-to-Fine-Grained-Ranking-Part-1](https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4)
-- [【Hacker News】Health:-Science-Outran-the-System](https://juliahawkins.substack.com/p/health-how-science-outran-the-system)
-- [【Hacker News】National-survey-of-NIH-funded-researchers-shows-precarious-state-of-U.S.-science](https://www.statnews.com/2026/03/19/nih-funding-national-researcher-survey-finds-cutbacks-disruptions/)
-- [【Hacker News】Ten-Million-Fireflies](https://tenmillionfireflies.com)
-- [【Hacker News】Code-review-as-human-alignment,-in-the-era-of-LLMs](https://blog.ezyang.com/2025/12/code-review-as-human-alignment-in-the-era-of-llms/)
-- [【Hacker News】Build-knowledge-agents-without-embeddings](https://vercel.com/blog/build-knowledge-agents-without-embeddings)
-- [【Hacker News】Locking-in-WebKit-–-WebKit](https://webkit.org/blog/6161/locking-in-webkit/)
-- [【Hacker News】Does-Computer-Science-Still-Exists?](https://davidbau.com/archives/2026/03/20/does_computer_science_still_exist.html)
-- [【TechCrunch】Elon-Musk-misled-Twitter-investors-while-trying-to-get-out-of-acquisition,-jury-says](https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/)
-- [【TechCrunch】Why-scientists-can’t-get-a-laugh](https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/)
+- [【arXiv ML】Schr\"odinger-Bridge-Over-A-Compact-Connected-Lie-Group](https://arxiv.org/abs/2603.14049)
+- [【arXiv ML】Generalized-Continuous-Time-Models-for-Nesterov's-Accelerated-Gradient-Methods](https://arxiv.org/abs/2409.00913)
+- [【arXiv ML】In-and-Out:-Algorithmic-Diffusion-for-Sampling-Convex-Bodies](https://arxiv.org/abs/2405.01425)
+- [【arXiv ML】Balancing-the-Reasoning-Load:-Difficulty-Differentiated-Policy-Optimization-with-Length-Redistribution-for-Efficient-and-Robust-Reinforcement-Learning](https://arxiv.org/abs/2603.18533)
+- [【arXiv ML】A-Pragmatic-Method-for-Comparing-Clusterings-with-Overlaps-and-Outliers](https://arxiv.org/abs/2602.14855)
+- [【arXiv ML】Taming-the-Long-Tail:-Efficient-Reasoning-RL-Training-with-Adaptive-Drafter](https://arxiv.org/abs/2511.16665)
+- [【arXiv ML】Predictive-Scaling-Laws-for-Efficient-GRPO-Training-of-Large-Reasoning-Models](https://arxiv.org/abs/2507.18014)
+- [【arXiv ML】Flow-based-Conformal-Prediction-for-Multi-dimensional-Time-Series](https://arxiv.org/abs/2502.05709)
+- [【arXiv ML】Measuring-Faithfulness-Depends-on-How-You-Measure:-Classifier-Sensitivity-in-LLM-Chain-of-Thought-Evaluation](https://arxiv.org/abs/2603.20172)
+- [【arXiv ML】Semantic-Token-Clustering-for-Efficient-Uncertainty-Quantification-in-Large-Language-Models](https://arxiv.org/abs/2603.20161)
+- [【arXiv ML】HiPath:-Hierarchical-Vision-Language-Alignment-for-Structured-Pathology-Report-Prediction](https://arxiv.org/abs/2603.19957)
+- [【arXiv ML】TAPAS:-Efficient-Two-Server-Asymmetric-Private-Aggregation-Beyond-Prio+](https://arxiv.org/abs/2603.19949)
+- [【arXiv ML】Deep-Autocorrelation-Modeling-for-Time-Series-Forecasting:-Progress-and-Prospects](https://arxiv.org/abs/2603.19899)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -348,6 +379,18 @@
 
 
 
+- [【arXiv ML】FastMMoE:-Accelerating-Multimodal-Large-Language-Models-through-Dynamic-Expert-Activation-and-Routing-Aware-Token-Pruning](https://arxiv.org/abs/2511.17885)
+- [【arXiv ML】On-Policy-Stochasticity-in-Mutual-Information-Optimal-Control-of-Linear-Systems](https://arxiv.org/abs/2507.21543)
+- [【arXiv ML】mlx-vis:-GPU-Accelerated-Dimensionality-Reduction-and-Visualization-on-Apple-Silicon](https://arxiv.org/abs/2603.04035)
+- [【arXiv ML】How-Understanding-Forecast-Uncertainty-Resolves-the-Explainability-Problem-in-Machine-Learning-Models](https://arxiv.org/abs/2602.00179)
+- [【arXiv ML】Subspace-Projection-Methods-for-Fast-Spectral-Embeddings-of-Evolving-Graphs](https://arxiv.org/abs/2603.19439)
+- [【arXiv ML】TuLaBM:-Tumor-Biased-Latent-Bridge-Matching-for-Contrast-Enhanced-MRI-Synthesis](https://arxiv.org/abs/2603.19386)
+- [【arXiv ML】Trojan-horse-hunt-in-deep-forecasting-models:-Insights-from-the-European-Space-Agency-competition](https://arxiv.org/abs/2603.20108)
+- [【arXiv ML】A-Super-Fast-K-means-for-Indexing-Vector-Embeddings](https://arxiv.org/abs/2603.20009)
+- [【arXiv ML】NASimJax:-GPU-Accelerated-Policy-Learning-Framework-for-Penetration-Testing](https://arxiv.org/abs/2603.19864)
+- [【arXiv ML】Heavy-Tailed-and-Long-Range-Dependent-Noise-in-Stochastic-Approximation:-A-Finite-Time-Analysis](https://arxiv.org/abs/2603.19648)
+- [【arXiv ML】Stochastic-Sequential-Decision-Making-over-Expanding-Networks-with-Graph-Filtering](https://arxiv.org/abs/2603.19501)
+- [【arXiv ML】Warm-Start-Flow-Matching-for-Guaranteed-Fast-Text/Image-Generation](https://arxiv.org/abs/2603.19360)
 - [【Towards AI】I-Built-an-AI-Podcast-That-Learns-What-You-Like-—-Here’s-Exactly-How-It-Works](https://pub.towardsai.net/i-built-an-ai-podcast-that-learns-what-you-like-heres-exactly-how-it-works-2d464c8d0704?source=rss----98111c9905da---4)
 - [【Towards AI】The-AI-Sandbox:-Why-Kubernetes-Sandbox-is-the-Future-of-AI-Infrastructure](https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4)
 - [【Hacker News】Sandlock-vs.-Containers:-25%-Faster](https://multikernel.io/2026/03/21/sandlock-vs-containers-network-benchmark/)
@@ -356,7 +399,6 @@
 - [【Hacker News】Paving-Hawaiian-roads-with-recycled-plastics-and-abandoned-fishing-nets](https://www.acs.org/pressroom/presspacs/2026/march/paving-hawaiian-roads-with-recycled-plastics-and-abandoned-fishing-nets.html)
 - [【Hacker News】48k-AI-Agents-Turn-Live-News-into-Podcasts-and-Music](https://zunvra.com)
 - [【Hacker News】MultiHead:-Turn-one-GPU-into-a-team-of-specialized-AI-agents-open-source](https://github.com/axsar/multihead)
-- [【Wired】How-BYD-Got-EV-Chargers-to-Work-Almost-as-Fast-as-Gas-Pumps](https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/)
 - [......【查看更多】......](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -373,6 +415,9 @@
 
 
 
+- [【arXiv ML】Learnability-with-Partial-Labels-and-Adaptive-Nearest-Neighbors](https://arxiv.org/abs/2603.15781)
+- [【arXiv ML】Simulation-based-Inference-with-the-Python-Package-sbijax](https://arxiv.org/abs/2409.19435)
+- [【arXiv ML】EvidenceRL:-Reinforcing-Evidence-Consistency-for-Trustworthy-Language-Models](https://arxiv.org/abs/2603.19532)
 - [【Hacker News】Why-I-Vibe-in-Go,-Not-Rust-or-Python](https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python)
 - [【Hacker News】Alpha-release:-HunterPrey,-a-persistent-SSH-PvP-world](https://hunterprey.com/)
 - [【TechCrunch】Pinterest-CEO-calls-on-governments-to-ban-social-media-for-users-under-16](https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-23 10:01:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-23 12:02:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -12,3 +12,7 @@
 - [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614) 
 - [2026-03-03-External-import-maps,-a-big-Bun-release,-and-Node.js-schedule-changes](https://javascriptweekly.com/issues/775) 
 - [2026-03-16-When-Deno-or-Bun-is-a-Better-Solution-than-Node.js](https://frontendmasters.com/blog/when-deno-or-bun-is-a-better-solution-than-node-js/) 
+- [2026-03-23-Predicting-Hidden-Links-and-Missing-Nodes-in-Scale-Free-Networks-with-Artificial-Neural-Networks](https://arxiv.org/abs/2109.12331) 
+- [2026-03-23-KoALA:-KL-L0-Adversarial-Detector-via-Label-Agreement](https://arxiv.org/abs/2510.12752) 
+- [2026-03-23-FNODE:-Flow-Matching-for-data-driven-simulation-of-constrained-multibody-systems](https://arxiv.org/abs/2509.00183) 
+- [2026-03-23-Evaluating-Test-Time-Adaptation-For-Facial-Expression-Recognition-Under-Natural-Cross-Dataset-Distribution-Shifts](https://arxiv.org/abs/2603.19994) 

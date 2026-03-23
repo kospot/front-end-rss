@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-23T02:01:17.184Z</updated>
+    <updated>2026-03-23T04:02:31.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -190,9 +190,23 @@
         <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built an AI Podcast That Learns What You Like — Here’s Exactly How It Works]]></title>
-        <id>https://pub.towardsai.net/i-built-an-ai-podcast-that-learns-what-you-like-heres-exactly-how-it-works-2d464c8d0704?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-built-an-ai-podcast-that-learns-what-you-like-heres-exactly-how-it-works-2d464c8d0704?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How LLMs Actually Process Your Messages: A Clear Guide to Context Windows, Token Limits, and…]]></title>
+        <id>https://pub.towardsai.net/how-llms-actually-process-your-messages-a-clear-guide-to-context-windows-token-limits-and-0f9ff996ba8b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-llms-actually-process-your-messages-a-clear-guide-to-context-windows-token-limits-and-0f9ff996ba8b?source=rss----98111c9905da---4"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a RAG system on Azure: From Local Dev to Production(Terraform, Python, NextJS)]]></title>
+        <id>https://pub.towardsai.net/how-to-build-a-rag-system-on-azure-from-local-dev-to-production-terraform-python-nextjs-28830602b84b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-build-a-rag-system-on-azure-from-local-dev-to-production-terraform-python-nextjs-28830602b84b?source=rss----98111c9905da---4"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Beginner’s Guide to Claude Code (Skills, Agents, Hooks, Plugins, MCP & Cowork)]]></title>
+        <id>https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4"/>
         <updated>2026-03-22T16:00:00.000Z</updated>
         <published>2026-03-22T16:00:00.000Z</published>
     </entry>
@@ -204,164 +218,150 @@
         <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[看见 App Store 生态的更多可能，Tim Cook 会见中国游戏开发者]]></title>
-        <id>https://sspai.com/post/107642</id>
-        <link href="https://sspai.com/post/107642"/>
-        <updated>2026-03-21T16:00:00.000Z</updated>
-        <published>2026-03-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built an AI Podcast That Learns What You Like — Here’s Exactly How It Works]]></title>
+        <id>https://pub.towardsai.net/i-built-an-ai-podcast-that-learns-what-you-like-heres-exactly-how-it-works-2d464c8d0704?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-built-an-ai-podcast-that-learns-what-you-like-heres-exactly-how-it-works-2d464c8d0704?source=rss----98111c9905da---4"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Subscription-Free Home Security Cameras I've Tried]]></title>
-        <id>https://www.wired.com/story/best-subscription-free-security-cameras/</id>
-        <link href="https://www.wired.com/story/best-subscription-free-security-cameras/"/>
-        <updated>2026-03-21T16:00:00.000Z</updated>
-        <published>2026-03-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[BrainSCL: Subtype-Guided Contrastive Learning for Brain Disorder Diagnosis]]></title>
+        <id>https://arxiv.org/abs/2603.19295</id>
+        <link href="https://arxiv.org/abs/2603.19295"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets & More]]></title>
-        <id>https://www.wired.com/story/best-merino-wool-clothes/</id>
-        <link href="https://www.wired.com/story/best-merino-wool-clothes/"/>
-        <updated>2026-03-21T16:00:00.000Z</updated>
-        <published>2026-03-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Parameter-Efficient Token Embedding Editing for Clinical Class-Level Unlearning]]></title>
+        <id>https://arxiv.org/abs/2603.19302</id>
+        <link href="https://arxiv.org/abs/2603.19302"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MultiHead: Turn one GPU into a team of specialized AI agents (open source)]]></title>
-        <id>https://github.com/axsar/multihead</id>
-        <link href="https://github.com/axsar/multihead"/>
-        <updated>2026-03-21T16:00:00.000Z</updated>
-        <published>2026-03-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[MemReward: Graph-Based Experience Memory for LLM Reward Prediction with Limited Labels]]></title>
+        <id>https://arxiv.org/abs/2603.19310</id>
+        <link href="https://arxiv.org/abs/2603.19310"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Visual Guide to Attention Variants in Modern LLMs]]></title>
-        <id>https://magazine.sebastianraschka.com/p/visual-attention-variants</id>
-        <link href="https://magazine.sebastianraschka.com/p/visual-attention-variants"/>
-        <updated>2026-03-21T16:00:00.000Z</updated>
-        <published>2026-03-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[MSNet and LS-Net: Scalable Multi-Scale Multi-Representation Networks for Time Series Classification]]></title>
+        <id>https://arxiv.org/abs/2603.19315</id>
+        <link href="https://arxiv.org/abs/2603.19315"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Candidate Retrieval to Fine-Grained Ranking (Part 1)]]></title>
-        <id>https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4"/>
-        <updated>2026-03-21T16:00:00.000Z</updated>
-        <published>2026-03-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A General Deep Learning Framework for Wireless Resource Allocation under Discrete Constraints]]></title>
+        <id>https://arxiv.org/abs/2603.19322</id>
+        <link href="https://arxiv.org/abs/2603.19322"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The AI Sandbox: Why Kubernetes Sandbox is the Future of AI Infrastructure]]></title>
-        <id>https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4"/>
-        <updated>2026-03-21T16:00:00.000Z</updated>
-        <published>2026-03-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Target Concept Tuning Improves Extreme Weather Forecasting]]></title>
+        <id>https://arxiv.org/abs/2603.19325</id>
+        <link href="https://arxiv.org/abs/2603.19325"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On-Prem vs. Proxy Solutions for Secure LLM Usage: A Practical Guide for Enterprises]]></title>
-        <id>https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4"/>
-        <updated>2026-03-21T16:00:00.000Z</updated>
-        <published>2026-03-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Do Post-Training Algorithms Actually Differ? A Controlled Study Across Model Scales Uncovers Scale-Dependent Ranking Inversions]]></title>
+        <id>https://arxiv.org/abs/2603.19335</id>
+        <link href="https://arxiv.org/abs/2603.19335"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Compact Bose Soundbar Is $80 Off]]></title>
-        <id>https://www.wired.com/story/bose-smart-soundbar-deal-326/</id>
-        <link href="https://www.wired.com/story/bose-smart-soundbar-deal-326/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[DAPA: Distribution Aware Piecewise Activation Functions for On-Device Transformer Inference and Training]]></title>
+        <id>https://arxiv.org/abs/2603.19338</id>
+        <link href="https://arxiv.org/abs/2603.19338"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone]]></title>
-        <id>https://www.wired.com/story/amazon-smartphone-rumor-2026/</id>
-        <link href="https://www.wired.com/story/amazon-smartphone-rumor-2026/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Anatomical Heterogeneity in Transformer Language Models]]></title>
+        <id>https://arxiv.org/abs/2603.19348</id>
+        <link href="https://arxiv.org/abs/2603.19348"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic Denies It Could Sabotage AI Tools During War]]></title>
-        <id>https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/</id>
-        <link href="https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Warm-Start Flow Matching for Guaranteed Fast Text/Image Generation]]></title>
+        <id>https://arxiv.org/abs/2603.19360</id>
+        <link href="https://arxiv.org/abs/2603.19360"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps]]></title>
-        <id>https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/</id>
-        <link href="https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Optimizing Resource-Constrained Non-Pharmaceutical Interventions for Multi-Cluster Outbreak Control Using Hierarchical Reinforcement Learning]]></title>
+        <id>https://arxiv.org/abs/2603.19397</id>
+        <link href="https://arxiv.org/abs/2603.19397"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work]]></title>
-        <id>https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/</id>
-        <link href="https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[ICLAD: In-Context Learning for Unified Tabular Anomaly Detection Across Supervision Regimes]]></title>
+        <id>https://arxiv.org/abs/2603.19497</id>
+        <link href="https://arxiv.org/abs/2603.19497"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aiper Scuba V3 Pool Robot Review: Eye on the Prize]]></title>
-        <id>https://www.wired.com/review/aiper-scuba-v3-pool-robot/</id>
-        <link href="https://www.wired.com/review/aiper-scuba-v3-pool-robot/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Stochastic Sequential Decision Making over Expanding Networks with Graph Filtering]]></title>
+        <id>https://arxiv.org/abs/2603.19501</id>
+        <link href="https://arxiv.org/abs/2603.19501"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[71 Best Podcasts (2026): True Crime, Culture, Science, Fiction]]></title>
-        <id>https://www.wired.com/story/best-podcasts/</id>
-        <link href="https://www.wired.com/story/best-podcasts/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Scalable Cross-Facility Federated Learning for Scientific Foundation Models on Multiple Supercomputers]]></title>
+        <id>https://arxiv.org/abs/2603.19544</id>
+        <link href="https://arxiv.org/abs/2603.19544"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WordPress.com now lets AI agents write and publish posts, and more]]></title>
-        <id>https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/</id>
-        <link href="https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Neural Uncertainty Principle: A Unified View of Adversarial Fragility and LLM Hallucination]]></title>
+        <id>https://arxiv.org/abs/2603.19562</id>
+        <link href="https://arxiv.org/abs/2603.19562"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava]]></title>
-        <id>https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/</id>
-        <link href="https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[ARMOR: Adaptive Resilience Against Model Poisoning Attacks in Continual Federated Learning for Mobile Indoor Localization]]></title>
+        <id>https://arxiv.org/abs/2603.19594</id>
+        <link href="https://arxiv.org/abs/2603.19594"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why scientists can’t get a laugh]]></title>
-        <id>https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/</id>
-        <link href="https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Continual Learning for Food Category Classification Dataset: Enhancing Model Adaptability and Performance]]></title>
+        <id>https://arxiv.org/abs/2603.19624</id>
+        <link href="https://arxiv.org/abs/2603.19624"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pinterest CEO calls on governments to ban social media for users under 16]]></title>
-        <id>https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/</id>
-        <link href="https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Alternating Diffusion for Proximal Sampling with Zeroth Order Queries]]></title>
+        <id>https://arxiv.org/abs/2603.19633</id>
+        <link href="https://arxiv.org/abs/2603.19633"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elon Musk misled Twitter investors while trying to get out of acquisition, jury says]]></title>
-        <id>https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/</id>
-        <link href="https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[RiboSphere: Learning Unified and Efficient Representations of RNA Structures]]></title>
+        <id>https://arxiv.org/abs/2603.19636</id>
+        <link href="https://arxiv.org/abs/2603.19636"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Text scaling support in Chrome Canary]]></title>
-        <id>https://frontendmasters.com/blog/text-scaling-support-in-chrome-canary/</id>
-        <link href="https://frontendmasters.com/blog/text-scaling-support-in-chrome-canary/"/>
-        <updated>2026-03-20T16:00:00.000Z</updated>
-        <published>2026-03-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Will Keep Horizon Worlds Alive in VR ‘for the Foreseeable Future’]]></title>
-        <id>https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/</id>
-        <link href="https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/"/>
-        <updated>2026-03-19T16:00:00.000Z</updated>
-        <published>2026-03-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FCC Enforcement Chief Offered to Help Brendan Carr Target Disney, Records Show]]></title>
-        <id>https://www.wired.com/story/fcc-enforcement-chief-offered-to-help-brendan-carr-target-disney-records-show/</id>
-        <link href="https://www.wired.com/story/fcc-enforcement-chief-offered-to-help-brendan-carr-target-disney-records-show/"/>
-        <updated>2026-03-19T16:00:00.000Z</updated>
-        <published>2026-03-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Heavy-Tailed and Long-Range Dependent Noise in Stochastic Approximation: A Finite-Time Analysis]]></title>
+        <id>https://arxiv.org/abs/2603.19648</id>
+        <link href="https://arxiv.org/abs/2603.19648"/>
+        <updated>2026-03-22T16:00:00.000Z</updated>
+        <published>2026-03-22T16:00:00.000Z</published>
     </entry>
 </feed>

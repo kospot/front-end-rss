@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-23 10:01:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-23 12:02:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -7,6 +7,18 @@
 
 
 
+- [2026-03-23-FastMMoE:-Accelerating-Multimodal-Large-Language-Models-through-Dynamic-Expert-Activation-and-Routing-Aware-Token-Pruning](https://arxiv.org/abs/2511.17885) 
+- [2026-03-23-On-Policy-Stochasticity-in-Mutual-Information-Optimal-Control-of-Linear-Systems](https://arxiv.org/abs/2507.21543) 
+- [2026-03-23-mlx-vis:-GPU-Accelerated-Dimensionality-Reduction-and-Visualization-on-Apple-Silicon](https://arxiv.org/abs/2603.04035) 
+- [2026-03-23-How-Understanding-Forecast-Uncertainty-Resolves-the-Explainability-Problem-in-Machine-Learning-Models](https://arxiv.org/abs/2602.00179) 
+- [2026-03-23-Subspace-Projection-Methods-for-Fast-Spectral-Embeddings-of-Evolving-Graphs](https://arxiv.org/abs/2603.19439) 
+- [2026-03-23-TuLaBM:-Tumor-Biased-Latent-Bridge-Matching-for-Contrast-Enhanced-MRI-Synthesis](https://arxiv.org/abs/2603.19386) 
+- [2026-03-23-Trojan-horse-hunt-in-deep-forecasting-models:-Insights-from-the-European-Space-Agency-competition](https://arxiv.org/abs/2603.20108) 
+- [2026-03-23-A-Super-Fast-K-means-for-Indexing-Vector-Embeddings](https://arxiv.org/abs/2603.20009) 
+- [2026-03-23-NASimJax:-GPU-Accelerated-Policy-Learning-Framework-for-Penetration-Testing](https://arxiv.org/abs/2603.19864) 
+- [2026-03-23-Heavy-Tailed-and-Long-Range-Dependent-Noise-in-Stochastic-Approximation:-A-Finite-Time-Analysis](https://arxiv.org/abs/2603.19648) 
+- [2026-03-23-Stochastic-Sequential-Decision-Making-over-Expanding-Networks-with-Graph-Filtering](https://arxiv.org/abs/2603.19501) 
+- [2026-03-23-Warm-Start-Flow-Matching-for-Guaranteed-Fast-Text/Image-Generation](https://arxiv.org/abs/2603.19360) 
 - [2026-03-23-I-Built-an-AI-Podcast-That-Learns-What-You-Like-—-Here’s-Exactly-How-It-Works](https://pub.towardsai.net/i-built-an-ai-podcast-that-learns-what-you-like-heres-exactly-how-it-works-2d464c8d0704?source=rss----98111c9905da---4) 
 - [2026-03-22-The-AI-Sandbox:-Why-Kubernetes-Sandbox-is-the-Future-of-AI-Infrastructure](https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4) 
 - [2026-03-23-Sandlock-vs.-Containers:-25%-Faster](https://multikernel.io/2026/03/21/sandlock-vs-containers-network-benchmark/) 
