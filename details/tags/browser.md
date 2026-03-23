@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-23 06:00:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-23 08:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -18,9 +18,11 @@
 - [2026-02-27-OpenAI-closes-$110B-raise-from-Amazon,-NVIDIA,-SoftBank-in-largest-startup-fundraise-in-history-@-$840B-post-money](https://news.smol.ai/issues/26-02-27-openai-g/) 
 - [2026-02-26-Nano-Banana-2-aka-Gemini-3.1-Flash-Image-Preview:-the-new-SOTA-Imagegen-model](https://news.smol.ai/issues/26-02-26-nanobanana2/) 
 - [2026-03-22-From-Candidate-Retrieval-to-Fine-Grained-Ranking-Part-1](https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4) 
-- [2026-03-23-Ten-Million-Fireflies](https://tenmillionfireflies.com) 
-- [2026-03-23-Code-review-as-human-alignment,-in-the-era-of-LLMs](https://blog.ezyang.com/2025/12/code-review-as-human-alignment-in-the-era-of-llms/) 
 - [2026-03-23-Build-knowledge-agents-without-embeddings](https://vercel.com/blog/build-knowledge-agents-without-embeddings) 
+- [2026-03-23-Code-review-as-human-alignment,-in-the-era-of-LLMs](https://blog.ezyang.com/2025/12/code-review-as-human-alignment-in-the-era-of-llms/) 
+- [2026-03-23-Ten-Million-Fireflies](https://tenmillionfireflies.com) 
+- [2026-03-23-National-survey-of-NIH-funded-researchers-shows-precarious-state-of-U.S.-science](https://www.statnews.com/2026/03/19/nih-funding-national-researcher-survey-finds-cutbacks-disruptions/) 
+- [2026-03-23-Health:-Science-Outran-the-System](https://juliahawkins.substack.com/p/health-how-science-outran-the-system) 
 - [2026-03-21-Elon-Musk-misled-Twitter-investors-while-trying-to-get-out-of-acquisition,-jury-says](https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/) 
 - [2026-03-21-Why-scientists-can’t-get-a-laugh](https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/) 
 - [2026-03-21-A-French-Navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-Strava](https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/) 

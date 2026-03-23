@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-23 06:00:50，:rocket: 更新条数: +1219， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-23 08:00:53，:rocket: 更新条数: +1191， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -31,7 +31,7 @@
 - [前端之巅](#前端之巅)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭](#张鑫旭)![](/assets/dot.png)   
-- [阮一峰](#阮一峰)![](/assets/dot.png)   
+- [阮一峰](#阮一峰)  
 - [Anthony-Fu](#anthony-fu)![](/assets/dot.png)   
 - [Randy's-Blog](#randy's-blog)![](/assets/dot.png)   
 - [oldj](#oldj)  
@@ -56,10 +56,10 @@
 - [AI前线](#ai前线)  
 - [ChatGPT-更新](#chatgpt-更新)  
 - [Hacker-News](#hacker-news)![](/assets/dot.png)   
-- [TechCrunch](#techcrunch)![](/assets/dot.png)   
-- [Wired](#wired)![](/assets/dot.png)   
+- [TechCrunch](#techcrunch)  
+- [Wired](#wired)  
 - [Engadget](#engadget)  
-- [少数派](#少数派)  
+- [少数派](#少数派)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -111,8 +111,8 @@
 
 
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
+- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [2026-03-05-The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)  
@@ -303,9 +303,9 @@
 </summary>
 
 
-- [2026-03-21-套壳中国大模型撑起500亿美元估值？扒一扒-Cursor-的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html) ![](/assets/new.png)  
-- [2026-03-20-科技爱好者周刊（第-389-期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html) ![](/assets/new.png)  
-- [2026-03-13-科技爱好者周刊（第-388-期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html) ![](/assets/new.png)  
+- [2026-03-21-套壳中国大模型撑起500亿美元估值？扒一扒-Cursor-的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)  
+- [2026-03-20-科技爱好者周刊（第-389-期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)  
+- [2026-03-13-科技爱好者周刊（第-388-期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)  
 - [......【查看更多】......](/details/阮一峰.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -472,26 +472,26 @@
 </summary>
 
 
-- [2026-03-20-not-much-happened-today](https://news.smol.ai/issues/26-03-20-not-much/) ![](/assets/new.png)  
-- [2026-03-19-not-much-happened-today](https://news.smol.ai/issues/26-03-19-not-much/) ![](/assets/new.png)  
-- [2026-03-18-MiniMax-2.7:-GLM-5-at-1/3-cost-SOTA-Open-Model](https://news.smol.ai/issues/26-03-18-not-much/) ![](/assets/new.png)  
-- [2026-03-17-not-much-happened-today](https://news.smol.ai/issues/26-03-17-not-much/) ![](/assets/new.png)  
-- [2026-03-16-not-much-happened-today](https://news.smol.ai/issues/26-03-16-not-much/) ![](/assets/new.png)  
-- [2026-03-13-not-much-happened-today](https://news.smol.ai/issues/26-03-13-not-much/) ![](/assets/new.png)  
-- [2026-03-12-not-much-happened-today](https://news.smol.ai/issues/26-03-12-not-much/) ![](/assets/new.png)  
-- [2026-03-11-not-much-happened-today](https://news.smol.ai/issues/26-03-11-not-much/) ![](/assets/new.png)  
-- [2026-03-10-Yann-LeCun’s-AMI-Labs-launches-with-a-$1.03B-seed-to-build-world-models-around-JEPA](https://news.smol.ai/issues/26-03-10-ami-labs/) ![](/assets/new.png)  
-- [2026-03-09-Autoresearch:-Sparks-of-Recursive-Self-Improvement](https://news.smol.ai/issues/26-03-09-autoresearch/) ![](/assets/new.png)  
-- [2026-03-06-not-much-happened-today](https://news.smol.ai/issues/26-03-06-not-much/) ![](/assets/new.png)  
-- [2026-03-05-GPT-5.4:-SOTA-Knowledge-Work--and--Coding--and--CUA-Model,-OpenAI-is-so-very-back](https://news.smol.ai/issues/26-03-05-gpt54/) ![](/assets/new.png)  
-- [2026-03-04-not-much-happened-today](https://news.smol.ai/issues/26-03-04-not-much/) ![](/assets/new.png)  
-- [2026-03-03-not-much-happened-today](https://news.smol.ai/issues/26-03-03-not-much/) ![](/assets/new.png)  
-- [2026-03-02-not-much-happened-today](https://news.smol.ai/issues/26-03-02-not-much/) ![](/assets/new.png)  
-- [2026-02-27-OpenAI-closes-$110B-raise-from-Amazon,-NVIDIA,-SoftBank-in-largest-startup-fundraise-in-history-@-$840B-post-money](https://news.smol.ai/issues/26-02-27-openai-g/) ![](/assets/new.png)  
-- [2026-02-26-Nano-Banana-2-aka-Gemini-3.1-Flash-Image-Preview:-the-new-SOTA-Imagegen-model](https://news.smol.ai/issues/26-02-26-nanobanana2/) ![](/assets/new.png)  
-- [2026-02-25-Agentic-Engineering:-WTF-Happened-in-December-2025?](https://news.smol.ai/issues/26-02-25-wtf-happened/) ![](/assets/new.png)  
-- [2026-02-24-Claude-Code-Anniversary-+-Launches-from:-Qwen-3.5,-Cursor-Demos,-Cognition-Devin-2.2,-Inception-Mercury-2](https://news.smol.ai/issues/26-02-24-claude-code/) ![](/assets/new.png)  
-- [2026-02-24-Anthropic-accuses-DeepSeek,-Moonshot,-and-MiniMax-of-"industrial-scale-distillation-attacks".](https://news.smol.ai/issues/26-02-23-anthropic-distillation/) ![](/assets/new.png)  
+- [2026-03-20-not-much-happened-today](https://news.smol.ai/issues/26-03-20-not-much/)  
+- [2026-03-19-not-much-happened-today](https://news.smol.ai/issues/26-03-19-not-much/)  
+- [2026-03-18-MiniMax-2.7:-GLM-5-at-1/3-cost-SOTA-Open-Model](https://news.smol.ai/issues/26-03-18-not-much/)  
+- [2026-03-17-not-much-happened-today](https://news.smol.ai/issues/26-03-17-not-much/)  
+- [2026-03-16-not-much-happened-today](https://news.smol.ai/issues/26-03-16-not-much/)  
+- [2026-03-13-not-much-happened-today](https://news.smol.ai/issues/26-03-13-not-much/)  
+- [2026-03-12-not-much-happened-today](https://news.smol.ai/issues/26-03-12-not-much/)  
+- [2026-03-11-not-much-happened-today](https://news.smol.ai/issues/26-03-11-not-much/)  
+- [2026-03-10-Yann-LeCun’s-AMI-Labs-launches-with-a-$1.03B-seed-to-build-world-models-around-JEPA](https://news.smol.ai/issues/26-03-10-ami-labs/)  
+- [2026-03-09-Autoresearch:-Sparks-of-Recursive-Self-Improvement](https://news.smol.ai/issues/26-03-09-autoresearch/)  
+- [2026-03-06-not-much-happened-today](https://news.smol.ai/issues/26-03-06-not-much/)  
+- [2026-03-05-GPT-5.4:-SOTA-Knowledge-Work--and--Coding--and--CUA-Model,-OpenAI-is-so-very-back](https://news.smol.ai/issues/26-03-05-gpt54/)  
+- [2026-03-04-not-much-happened-today](https://news.smol.ai/issues/26-03-04-not-much/)  
+- [2026-03-03-not-much-happened-today](https://news.smol.ai/issues/26-03-03-not-much/)  
+- [2026-03-02-not-much-happened-today](https://news.smol.ai/issues/26-03-02-not-much/)  
+- [2026-02-27-OpenAI-closes-$110B-raise-from-Amazon,-NVIDIA,-SoftBank-in-largest-startup-fundraise-in-history-@-$840B-post-money](https://news.smol.ai/issues/26-02-27-openai-g/)  
+- [2026-02-26-Nano-Banana-2-aka-Gemini-3.1-Flash-Image-Preview:-the-new-SOTA-Imagegen-model](https://news.smol.ai/issues/26-02-26-nanobanana2/)  
+- [2026-02-25-Agentic-Engineering:-WTF-Happened-in-December-2025?](https://news.smol.ai/issues/26-02-25-wtf-happened/)  
+- [2026-02-24-Anthropic-accuses-DeepSeek,-Moonshot,-and-MiniMax-of-"industrial-scale-distillation-attacks".](https://news.smol.ai/issues/26-02-23-anthropic-distillation/)  
+- [2026-02-24-Claude-Code-Anniversary-+-Launches-from:-Qwen-3.5,-Cursor-Demos,-Cognition-Devin-2.2,-Inception-Mercury-2](https://news.smol.ai/issues/26-02-24-claude-code/)  
 - [......【查看更多】......](/details/smol.ai.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -503,20 +503,22 @@
 </summary>
 
 
+- [2026-03-23-From-Probability-to-Loss---How-MLE-Builds-Machine-Learning:-Part-2](https://pub.towardsai.net/from-probability-to-loss-how-mle-builds-machine-learning-part-2-789a9f27c254?source=rss----98111c9905da---4)  
+- [2026-03-23-Fine-Tuning-OpenAI’s-GPT-OSS-20B:-A-Practitioner’s-Guide-to-LoRA-on-MoE-Models](https://pub.towardsai.net/fine-tuning-openais-gpt-oss-20b-a-practitioner-s-guide-to-lora-on-moe-models-920171bf5258?source=rss----98111c9905da---4)  
+- [2026-03-23-Improving-Deep-Neural-Learning-Networks-Part-1:-Practical-Approaches-and-Applications-to-LLMs](https://pub.towardsai.net/improving-deep-neural-learning-networks-part-1-practical-approaches-and-applications-to-llms-72b8632e725b?source=rss----98111c9905da---4)  
+- [2026-03-23-How-I-Would-Become-an-AI-Engineer-in-2026-If-I-Had-to-Start-Over](https://pub.towardsai.net/how-i-would-become-an-ai-engineer-in-2026-if-i-had-to-start-over-c80bd754c753?source=rss----98111c9905da---4)  
 - [2026-03-23-Nadine,-A-Social-Robot](https://pub.towardsai.net/nadine-a-social-robot-1ac757c38ccc?source=rss----98111c9905da---4)  
-- [2026-03-23-How-I-Would-Become-an-AI-Engineer-in-2026-If-I-Had-to-Start-Over](https://pub.towardsai.net/how-i-would-become-an-ai-engineer-in-2026-if-i-had-to-start-over-c80bd754c753?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-23-Improving-Deep-Neural-Learning-Networks-Part-1:-Practical-Approaches-and-Applications-to-LLMs](https://pub.towardsai.net/improving-deep-neural-learning-networks-part-1-practical-approaches-and-applications-to-llms-72b8632e725b?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-23-Fine-Tuning-OpenAI’s-GPT-OSS-20B:-A-Practitioner’s-Guide-to-LoRA-on-MoE-Models](https://pub.towardsai.net/fine-tuning-openais-gpt-oss-20b-a-practitioner-s-guide-to-lora-on-moe-models-920171bf5258?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-23-From-Probability-to-Loss---How-MLE-Builds-Machine-Learning:-Part-2](https://pub.towardsai.net/from-probability-to-loss-how-mle-builds-machine-learning-part-2-789a9f27c254?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-22-On-Prem-vs.-Proxy-Solutions-for-Secure-LLM-Usage:-A-Practical-Guide-for-Enterprises](https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4)  
-- [2026-03-22-The-AI-Sandbox:-Why-Kubernetes-Sandbox-is-the-Future-of-AI-Infrastructure](https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4)  
-- [2026-03-22-From-Candidate-Retrieval-to-Fine-Grained-Ranking-Part-1](https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4)  
-- [2026-03-22-Microsoft-IQ-vs.-ServiceNow:-I-Built-the-Layer-Both-Are-Missing](https://pub.towardsai.net/microsoft-iq-vs-e106645a5b17?source=rss----98111c9905da---4)  
-- [2026-03-22-MCP-+-A2A-+-OWL-Ontology:-I-Built-the-Agentic-Mesh-Your-Enterprise-Agents-Are-Missing](https://pub.towardsai.net/mcp-a2a-owl-ontology-i-built-the-agentic-mesh-your-enterprise-agents-are-missing-84ec0487ddd4?source=rss----98111c9905da---4)  
-- [2026-03-22-Building-a-Local-AI-Agent-to-Summarise-Web-Articles](https://pub.towardsai.net/building-a-local-ai-agent-to-summarise-web-articles-a748c976a8d2?source=rss----98111c9905da---4)  
-- [2026-03-22-Building-a-Data-Analysis-Agent-with-LangGraph](https://pub.towardsai.net/building-a-data-analysis-agent-with-langgraph-6a1072472a1e?source=rss----98111c9905da---4)  
-- [2026-03-22-Spreadsheet-Logic-Extraction-—-What-It-Takes,-and-How-AI-Compresses-the-Timeline](https://pub.towardsai.net/spreadsheet-logic-extraction-what-it-takes-and-how-ai-compresses-the-timeline-bad92bcccba9?source=rss----98111c9905da---4)  
+- [2026-03-23-The-Hidden-Creativity-Inside-LLMs:-How-Recoding-Decoding-Unlocks-Better-Ideas](https://pub.towardsai.net/the-hidden-creativity-inside-llms-how-recoding-decoding-unlocks-better-ideas-d08e37396316?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-23-If-OpenAI’s-$60-Ad-Test-Succeeds,-Google-Gemini-Will-Read-Your-Inbox](https://pub.towardsai.net/if-openais-60-ad-test-succeeds-google-gemini-will-read-your-inbox-ecd9c7f503ab?source=rss----98111c9905da---4) ![](/assets/new.png)  
 - [2026-03-22-OpenClaw;-Explained-Simply](https://pub.towardsai.net/openclaw-explained-simply-50fe4af8dcdf?source=rss----98111c9905da---4)  
+- [2026-03-22-Spreadsheet-Logic-Extraction-—-What-It-Takes,-and-How-AI-Compresses-the-Timeline](https://pub.towardsai.net/spreadsheet-logic-extraction-what-it-takes-and-how-ai-compresses-the-timeline-bad92bcccba9?source=rss----98111c9905da---4)  
+- [2026-03-22-Building-a-Data-Analysis-Agent-with-LangGraph](https://pub.towardsai.net/building-a-data-analysis-agent-with-langgraph-6a1072472a1e?source=rss----98111c9905da---4)  
+- [2026-03-22-Building-a-Local-AI-Agent-to-Summarise-Web-Articles](https://pub.towardsai.net/building-a-local-ai-agent-to-summarise-web-articles-a748c976a8d2?source=rss----98111c9905da---4)  
+- [2026-03-22-MCP-+-A2A-+-OWL-Ontology:-I-Built-the-Agentic-Mesh-Your-Enterprise-Agents-Are-Missing](https://pub.towardsai.net/mcp-a2a-owl-ontology-i-built-the-agentic-mesh-your-enterprise-agents-are-missing-84ec0487ddd4?source=rss----98111c9905da---4)  
+- [2026-03-22-Microsoft-IQ-vs.-ServiceNow:-I-Built-the-Layer-Both-Are-Missing](https://pub.towardsai.net/microsoft-iq-vs-e106645a5b17?source=rss----98111c9905da---4)  
+- [2026-03-22-From-Candidate-Retrieval-to-Fine-Grained-Ranking-Part-1](https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4)  
+- [2026-03-22-The-AI-Sandbox:-Why-Kubernetes-Sandbox-is-the-Future-of-AI-Infrastructure](https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4)  
+- [2026-03-22-On-Prem-vs.-Proxy-Solutions-for-Secure-LLM-Usage:-A-Practical-Guide-for-Enterprises](https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4)  
 - [......【查看更多】......](/details/Towards AI.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -629,26 +631,26 @@
 </summary>
 
 
-- [2026-03-23-Any-Music-Can-Be-Played-for-the-First-Time-on-Desmos](https://satindra-r.github.io/blog/desmosMusic.html)  
-- [2026-03-23-SOC.Workflows-–-structured-AI-investigation-workflows-for-Everyone](https://socworkflows.com/)  
-- [2026-03-23-AI's-Elephant-in-the-Room](https://www.insidevoice.ai/p/ais-elephant-in-the-room)  
-- [2026-03-23-Show-HN:-A-Bridge-Between-Claude-Code-and-Codex-Using-Channels-and-MCP](https://github.com/abhishekgahlot2/codex-claude-bridge)  
-- [2026-03-23-Sandlock-vs.-Containers:-25%-Faster](https://multikernel.io/2026/03/21/sandlock-vs-containers-network-benchmark/)  
-- [2026-03-23-Ten-Million-Fireflies](https://tenmillionfireflies.com)  
-- [2026-03-23-Show-HN:-Aegis-–-self-hosted-secrets-broker-for-teams-priced-out-of-CyberArk](https://github.com/gustav0thethird/Aegis)  
-- [2026-03-23-Code-review-as-human-alignment,-in-the-era-of-LLMs](https://blog.ezyang.com/2025/12/code-review-as-human-alignment-in-the-era-of-llms/)  
-- [2026-03-23-OpenAI-plans-to-almost-double-its-headcount-this-year](https://fortune.com/2026/03/21/openai-double-headcount-this-year-sam-altman-anthropic-google/)  
-- [2026-03-23-Human-Intelligence-Portal-demo,-awareness](https://www.dvsj.in/watching)  
-- [2026-03-23-Citizens'-Commission-to-Investigate-the-FBI](https://en.wikipedia.org/wiki/Citizens%27_Commission_to_Investigate_the_FBI)  
-- [2026-03-23-Show-HN:-FlowState-Dev-memory-that-persists-across-AI-conversations-MCP+SQLite](https://github.com/dialectforge/FlowStateV1.1)  
-- [2026-03-23-Leon-Theremin](https://lemelson.mit.edu/resources/leon-theremin)  
-- [2026-03-23-Naming-Events-Beyond-CRUD](https://docs.eventsourcingdb.io/blog/2026/03/23/naming-events-beyond-crud/)  
-- [2026-03-23-Whole-Brain-Connectomic-Graph-Model-Enables-Locomotion-Control-in-Fruit-Fly](https://arxiv.org/abs/2602.17997)  
-- [2026-03-23-Show-HN:-Bossa-–-Persistent-filesystem-memory-for-AI-agents-via-MCP-or-CLI](https://news.ycombinator.com/item?id=47478872)  
-- [2026-03-23-AI-Utility:-A-Quest-for-Clarity](https://fuzzypixelz.com/blog/ai-utility/)  
-- [2026-03-23-Microbenchmarking-Chipsets-for-Giggles](https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles) ![](/assets/new.png)  
-- [2026-03-23-Why-Tech-Bros-Are-Now-Obsessed-with-Taste](https://www.newyorker.com/culture/infinite-scroll/why-tech-bros-are-now-obsessed-with-taste) ![](/assets/new.png)  
-- [2026-03-23-MoaV:-Why-Anti-Censorship-Needs-Infrastructure,-Not-Just-Tools](https://medium.com/@sbetamc/moav-16-protocols-one-server-why-anti-censorship-needs-infrastructure-not-just-tools-e989f0b9c426) ![](/assets/new.png)  
+- [2026-03-23-Show-HN:-Kitty.cards-–-Create-Apple-Wallet-cards-online-no-login](https://kitty.cards/)  
+- [2026-03-23-O2Fail-–-What-You-Need-to-Know-About-Mobile-Phone-Content-Control-2010](https://shkspr.mobi/blog/2011/03/o2fail-what-you-need-to-know-about-mobile-phone-content-control/)  
+- [2026-03-23-Kash-Patel's-Nike-Shoes-Weren't-Customized-by-Nike](https://www.yellopolitics.com/p/kash-patels-garish-custom-shoes-werent)  
+- [2026-03-23-Fun-crafts-done-by-AI-agents-–-humans-subscribe-to-read](https://crafthunt.ai/)  
+- [2026-03-23-FAA-Ends-Use-of-'See-and-Avoid'-for-Helicopters-Near-Busy-Airports](https://www.nytimes.com/2026/03/18/us/politics/faa-visual-separation-policy.html)  
+- [2026-03-23-Talking-with-Robin-Brooks](https://paulkrugman.substack.com/p/talking-with-robin-brooks)  
+- [2026-03-23-GitHub-–-DrBradStanfield/Roadmap](https://github.com/DrBradStanfield/roadmap)  
+- [2026-03-23-Build-knowledge-agents-without-embeddings](https://vercel.com/blog/build-knowledge-agents-without-embeddings)  
+- [2026-03-23-AI's-impact-on-private-equity-–-based-on-AI-deep-research](https://ai-transformation.fyi/)  
+- [2026-03-23-Show-HN:-Playra](https://playra-app.vercel.app/)  
+- [2026-03-23-ClawMem](https://github.com/yoloshii/ClawMem)  
+- [2026-03-23-Alpha-release:-HunterPrey,-a-persistent-SSH-PvP-world](https://hunterprey.com/)  
+- [2026-03-23-Show-HN:-Association-rule-mining-on-21.6M-poker-hands](https://pattern.poker)  
+- [2026-03-23-The-Environment-Will-Be-Saved-If-We-Just-Avoid-Doing-Icky-Things-2024](https://branchfree.org/2024/11/25/the-environment-will-be-saved-if-we-just-avoid-doing-icky-things/)  
+- [2026-03-23-When-the-sun-sets,-batteries-rise:-24/7-solar-in-California](https://pv-magazine-usa.com/2026/02/17/when-the-sun-sets-batteries-rise-24-7-solar-in-california/)  
+- [2026-03-23-Show-HN:-Three-deployable-open-source-platforms-from-a-solo-builder](https://news.ycombinator.com/item?id=47482378)  
+- [2026-03-23-New-OllamaMQ-Version-v0.2.5](https://github.com/Chleba/ollamaMQ)  
+- [2026-03-23-MoaV:-Why-Anti-Censorship-Needs-Infrastructure,-Not-Just-Tools](https://medium.com/@sbetamc/moav-16-protocols-one-server-why-anti-censorship-needs-infrastructure-not-just-tools-e989f0b9c426)  
+- [2026-03-23-Why-Tech-Bros-Are-Now-Obsessed-with-Taste](https://www.newyorker.com/culture/infinite-scroll/why-tech-bros-are-now-obsessed-with-taste)  
+- [2026-03-23-Microbenchmarking-Chipsets-for-Giggles](https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -662,9 +664,9 @@
 
 - [2026-03-23-Elon-Musk-unveils-chip-manufacturing-plans-for-SpaceX-and-Tesla](https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/)  
 - [2026-03-23-TechCrunch-Mobility:-Uber-everywhere,-all-at-once](https://techcrunch.com/2026/03/22/techcrunch-mobility-uber-everywhere-all-at-once/)  
-- [2026-03-23-Cursor-admits-its-new-coding-model-was-built-on-top-of-Moonshot-AI’s-Kimi](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/) ![](/assets/new.png)  
-- [2026-03-23-Do-you-want-to-build-a-robot-snowman?](https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/) ![](/assets/new.png)  
-- [2026-03-23-The-SEC-drops-its-four-year-old-investigation-into-EV-startup-Faraday-Future](https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/) ![](/assets/new.png)  
+- [2026-03-23-Cursor-admits-its-new-coding-model-was-built-on-top-of-Moonshot-AI’s-Kimi](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/)  
+- [2026-03-23-Do-you-want-to-build-a-robot-snowman?](https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/)  
+- [2026-03-23-The-SEC-drops-its-four-year-old-investigation-into-EV-startup-Faraday-Future](https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/)  
 - [2026-03-22-Delve-accused-of-misleading-customers-with-‘fake-compliance’](https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/)  
 - [2026-03-22-An-exclusive-tour-of-Amazon’s-Trainium-lab,-the-chip-that’s-won-over-Anthropic,-OpenAI,-even-Apple-](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/)  
 - [2026-03-22-Are-AI-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business?](https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/)  
@@ -691,7 +693,7 @@
 </summary>
 
 
-- [2026-03-23-Airlines-Are-Already-Preparing-for-an-Oil-Crisis](https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/) ![](/assets/new.png)  
+- [2026-03-23-Airlines-Are-Already-Preparing-for-an-Oil-Crisis](https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/)  
 - [2026-03-22-Best-Merino-Wool-Clothing-2026:-Base-Layers,-Hoodies,-Jackets-&amp;-More](https://www.wired.com/story/best-merino-wool-clothes/)  
 - [2026-03-22-Which-Instax-Camera-Should-You-Buy?-2026](https://www.wired.com/gallery/which-instax-camera-should-you-buy/)  
 - [2026-03-22-How-to-Back-Up-Your-Android-Phone-2026](https://www.wired.com/story/how-to-backup-your-android/)  
@@ -733,26 +735,26 @@
 </summary>
 
 
-- [2026-03-22-用十年手机相册，记录颐和园的日夜春秋](https://sspai.com/post/107010)  
+- [2026-03-23-派早报：微软承诺多项-Windows-11-改善措施](https://sspai.com/post/107674) ![](/assets/new.png)  
 - [2026-03-22-看见-App-Store-生态的更多可能，Tim-Cook-会见中国游戏开发者](https://sspai.com/post/107642)  
+- [2026-03-22-用十年手机相册，记录颐和园的日夜春秋](https://sspai.com/post/107010)  
 - [2026-03-21-App+1｜给「类原生」用户的来电拦截工具：Pixel-Telo](https://sspai.com/post/107136)  
-- [2026-03-20-派早报：小米发布多款新品、稀宇科技发布-MiniMax-M2.7-模型等](https://sspai.com/post/107563)  
-- [2026-03-20-写在世界口腔健康日：正确的刷牙方法以及刷牙的-10-个迷思](https://sspai.com/post/107529)  
-- [2026-03-20-年度征文｜速通新疆，我的穷游攻略](https://sspai.com/post/107202)  
 - [2026-03-20-本周看什么-|-最近值得一看的-12-部作品](https://sspai.com/post/107582)  
-- [2026-03-19-勃朗特三姐妹书影单：贫瘠土地生出的女性之花](https://sspai.com/post/107517)  
-- [2026-03-19-年度征文-|-最后一页并不存在——我的2025](https://sspai.com/post/106957)  
-- [2026-03-19-派早报：腾讯-QClaw-正式上线、小鹏-P7-发布-Max-版等](https://sspai.com/post/107514)  
-- [2026-03-19-杀死你的不是它：聊聊我们的-AI-的焦虑](https://sspai.com/post/106923)  
+- [2026-03-20-年度征文｜速通新疆，我的穷游攻略](https://sspai.com/post/107202)  
+- [2026-03-20-写在世界口腔健康日：正确的刷牙方法以及刷牙的-10-个迷思](https://sspai.com/post/107529)  
+- [2026-03-20-派早报：小米发布多款新品、稀宇科技发布-MiniMax-M2.7-模型等](https://sspai.com/post/107563)  
 - [2026-03-19-年度征文-|-沿海公路的出口：10年后，重返宝岛](https://sspai.com/post/97965)  
-- [2026-03-18-越过参数的凝视：哈苏-X2D-II-100C-漫谈](https://sspai.com/post/106734)  
-- [2026-03-18-打造我的「智能家」：使用-Claude-Code-轻松使用-Home-Assistant](https://sspai.com/post/106992)  
-- [2026-03-18-派早报：OPPO-Find-N6-发布，广汽、华为联合发布「启境」GT7-等](https://sspai.com/post/107485)  
-- [2026-03-18-年度征文｜为时间和精力埋单：我的旅行峰值体验塑造方法论](https://sspai.com/post/106217)  
+- [2026-03-19-杀死你的不是它：聊聊我们的-AI-的焦虑](https://sspai.com/post/106923)  
+- [2026-03-19-派早报：腾讯-QClaw-正式上线、小鹏-P7-发布-Max-版等](https://sspai.com/post/107514)  
+- [2026-03-19-年度征文-|-最后一页并不存在——我的2025](https://sspai.com/post/106957)  
+- [2026-03-19-勃朗特三姐妹书影单：贫瘠土地生出的女性之花](https://sspai.com/post/107517)  
 - [2026-03-18-年度征文｜效率杂谈：告别纸笔拓荒，怎么用-AI-来辅助学习？](https://sspai.com/post/106878)  
-- [2026-03-17-为心脏健康持续护航，Apple-Watch-房颤迹象记录软件功能上线](https://sspai.com/post/107453)  
-- [2026-03-17-少数派十四周年直播：我们挑选了这四类好产品](https://sspai.com/post/107428)  
-- [2026-03-17-派早报：Apple-发布-AirPods-Max-2，NVIDIA-发布-DLSS-5-等](https://sspai.com/post/107450)  
+- [2026-03-18-年度征文｜为时间和精力埋单：我的旅行峰值体验塑造方法论](https://sspai.com/post/106217)  
+- [2026-03-18-派早报：OPPO-Find-N6-发布，广汽、华为联合发布「启境」GT7-等](https://sspai.com/post/107485)  
+- [2026-03-18-打造我的「智能家」：使用-Claude-Code-轻松使用-Home-Assistant](https://sspai.com/post/106992)  
+- [2026-03-18-越过参数的凝视：哈苏-X2D-II-100C-漫谈](https://sspai.com/post/106734)  
+- [2026-03-17-社区速递-133-|-派友热议-AI-Coding-方案、西圣-Pencil-X-平替笔体验](https://sspai.com/post/107466)  
+- [2026-03-17-年度征文-|-冬游九寨，或许这个季节更适合叙述她的美](https://sspai.com/post/106439)  
 - [......【查看更多】......](/details/少数派.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
