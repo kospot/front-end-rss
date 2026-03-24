@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-24 23:02:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-25 06:01:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Martin Fowler
 
@@ -15,4 +15,3 @@
 - [2026-03-03-Design-First-Collaboration](https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html) 
 - [2026-02-25-Fragments:-February-25](https://martinfowler.com/fragments/2026-02-25.html) 
 - [2026-02-24-Knowledge-Priming](https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html) 
-- [2026-02-23-Fragments:-February-23](https://martinfowler.com/fragments/2026-02-23.html) 

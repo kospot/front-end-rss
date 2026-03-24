@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-24 23:02:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-25 06:01:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -7,3 +7,4 @@
 
 
 
+- [2026-03-24-Advantage-Shaping-as-Surrogate-Reward-Maximization:-Unifying-Pass@K-Policy-Gradients](https://arxiv.org/abs/2510.23049) 

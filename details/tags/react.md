@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-24 23:02:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-25 06:01:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -8,7 +8,10 @@
 
 
 - [2026-03-10-Building-Dynamic-Forms-In-React-And-Next.js](https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/) 
+- [2026-03-24-Intrinsic-Metric-Physics-Informed-Neural-Networks-IM-PINN-for-Reaction-Diffusion-Dynamics-on-Complex-Riemannian-Manifolds](https://arxiv.org/abs/2601.00834) 
+- [2026-03-24-FluidWorld:-Reaction-Diffusion-Dynamics-as-a-Predictive-Substrate-for-World-Models](https://arxiv.org/abs/2603.21315) 
 - [2026-03-23-Gym-TORAX:-Open-source-software-for-integrating-reinforcement-learning-with-plasma-control-simulators-in-tokamak-research](https://arxiv.org/abs/2510.11283) 
 - [2026-03-23-A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4) 
-- [2026-03-24-Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches) 
+- [2026-03-25-Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/) 
 - [2026-03-24-Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/) 
+- [2026-03-24-Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches) 

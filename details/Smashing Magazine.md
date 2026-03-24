@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-24 23:02:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-25 06:01:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
@@ -18,4 +18,3 @@
 - [2026-03-02-Getting-Started-With-The-Popover-API](https://smashingmagazine.com/2026/03/getting-started-popover-api/) 
 - [2026-02-28-Fresh-Energy-In-March-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/) 
 - [2026-02-26-Say-Cheese!-Meet-SmashingConf-Amsterdam-🇳🇱](https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/) 
-- [2026-02-23-A-Designer’s-Guide-To-Eco-Friendly-Interfaces](https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/) 
