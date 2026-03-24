@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-24T04:02:28.114Z</updated>
+    <updated>2026-03-24T07:02:35.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[A Mysterious Numbers Station Is Broadcasting Through the Iran War]]></title>
-        <id>https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/</id>
-        <link href="https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/"/>
+        <title type="html"><![CDATA[Polymarket’s Coming-Out Party in Washington Was a Disaster]]></title>
+        <id>https://www.wired.com/story/polymarket-wanted-a-coming-out-party-in-washington-it-was-a-disaster/</id>
+        <link href="https://www.wired.com/story/polymarket-wanted-a-coming-out-party-in-washington-it-was-a-disaster/"/>
         <updated>2026-03-23T16:00:00.000Z</updated>
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
@@ -29,37 +29,16 @@
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Polymarket’s Coming-Out Party in Washington Was a Disaster]]></title>
-        <id>https://www.wired.com/story/polymarket-wanted-a-coming-out-party-in-washington-it-was-a-disaster/</id>
-        <link href="https://www.wired.com/story/polymarket-wanted-a-coming-out-party-in-washington-it-was-a-disaster/"/>
+        <title type="html"><![CDATA[A Mysterious Numbers Station Is Broadcasting Through the Iran War]]></title>
+        <id>https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/</id>
+        <link href="https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/"/>
         <updated>2026-03-23T16:00:00.000Z</updated>
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Maps may be about to get ads]]></title>
-        <id>https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/</id>
-        <link href="https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DoorDash introduces relief payments for drivers as the Iran-US war drives up gas prices]]></title>
-        <id>https://techcrunch.com/2026/03/23/doordash-introduces-relief-payments-for-drivers-as-the-iran-us-war-drives-up-gas-prices/</id>
-        <link href="https://techcrunch.com/2026/03/23/doordash-introduces-relief-payments-for-drivers-as-the-iran-us-war-drives-up-gas-prices/"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple sets June date for WWDC 2026, teasing ‘AI advancements’]]></title>
-        <id>https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/</id>
-        <link href="https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian authorities block paywall removal site Archive.today]]></title>
-        <id>https://techcrunch.com/2026/03/23/russian-authorities-block-paywall-removal-site-archive-today/</id>
-        <link href="https://techcrunch.com/2026/03/23/russian-authorities-block-paywall-removal-site-archive-today/"/>
+        <title type="html"><![CDATA[Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations]]></title>
+        <id>https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/</id>
+        <link href="https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/"/>
         <updated>2026-03-23T16:00:00.000Z</updated>
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
@@ -71,170 +50,65 @@
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ArrowJS – The first UI framework for the agentic era]]></title>
-        <id>https://arrow-js.com/</id>
-        <link href="https://arrow-js.com/"/>
+        <title type="html"><![CDATA[Russian authorities block paywall removal site Archive.today]]></title>
+        <id>https://techcrunch.com/2026/03/23/russian-authorities-block-paywall-removal-site-archive-today/</id>
+        <link href="https://techcrunch.com/2026/03/23/russian-authorities-block-paywall-removal-site-archive-today/"/>
         <updated>2026-03-23T16:00:00.000Z</updated>
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: RoverBook – PostHog for AI Agents]]></title>
-        <id>https://github.com/rtrvr-ai/rover/tree/main/packages/roverbook</id>
-        <link href="https://github.com/rtrvr-ai/rover/tree/main/packages/roverbook"/>
+        <title type="html"><![CDATA[Apple sets June date for WWDC 2026, teasing ‘AI advancements’]]></title>
+        <id>https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/</id>
+        <link href="https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/"/>
         <updated>2026-03-23T16:00:00.000Z</updated>
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pharaoh – structural codebase maps for AI coding agents]]></title>
-        <id>https://pharaoh.so/</id>
-        <link href="https://pharaoh.so/"/>
+        <title type="html"><![CDATA[DoorDash introduces relief payments for drivers as the Iran-US war drives up gas prices]]></title>
+        <id>https://techcrunch.com/2026/03/23/doordash-introduces-relief-payments-for-drivers-as-the-iran-us-war-drives-up-gas-prices/</id>
+        <link href="https://techcrunch.com/2026/03/23/doordash-introduces-relief-payments-for-drivers-as-the-iran-us-war-drives-up-gas-prices/"/>
         <updated>2026-03-23T16:00:00.000Z</updated>
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Literary Celebrity, Mussolini Mouthpiece, American Traitor: Who Was Ezra Pound?]]></title>
-        <id>https://lithub.com/literary-celebrity-mussolinis-mouthpiece-and-american-traitor-who-was-ezra-pound/</id>
-        <link href="https://lithub.com/literary-celebrity-mussolinis-mouthpiece-and-american-traitor-who-was-ezra-pound/"/>
+        <title type="html"><![CDATA[Apple Maps may be about to get ads]]></title>
+        <id>https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/</id>
+        <link href="https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/"/>
         <updated>2026-03-23T16:00:00.000Z</updated>
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: OMyTree – An open-source, tree-based AI canvas for deep research]]></title>
-        <id>https://github.com/isbeingto/oMyTree</id>
-        <link href="https://github.com/isbeingto/oMyTree"/>
+        <title type="html"><![CDATA[Interactive LED system for crutches that react to walking motion]]></title>
+        <id>https://github.com/JackWetherell/Disco-Crutches</id>
+        <link href="https://github.com/JackWetherell/Disco-Crutches"/>
         <updated>2026-03-23T16:00:00.000Z</updated>
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guideline: Rust Style]]></title>
-        <id>https://epage.github.io/dev/rust-style/</id>
-        <link href="https://epage.github.io/dev/rust-style/"/>
+        <title type="html"><![CDATA[Gzip decompression in 250 lines of Rust]]></title>
+        <id>https://iev.ee/blog/gzip-decompression-in-250-lines-of-rust/</id>
+        <link href="https://iev.ee/blog/gzip-decompression-in-250-lines-of-rust/"/>
         <updated>2026-03-23T16:00:00.000Z</updated>
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Traders placed $580M in oil bets ahead of Trump's social media post on Iran]]></title>
-        <id>https://www.ft.com/content/1171d623-3709-4f6e-8ded-a5df4ec57696</id>
-        <link href="https://www.ft.com/content/1171d623-3709-4f6e-8ded-a5df4ec57696"/>
+        <title type="html"><![CDATA[Show HN: Shard-based scheduling for 100x more fine-tuning experiments on 4 GPUs]]></title>
+        <id>https://www.rapidfire.ai/blogs/case-study-how-an-enterprise-tech-team-went-from-dozens-to-2-000-fine-tuning-configurations</id>
+        <link href="https://www.rapidfire.ai/blogs/case-study-how-an-enterprise-tech-team-went-from-dozens-to-2-000-fine-tuning-configurations"/>
         <updated>2026-03-23T16:00:00.000Z</updated>
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: QuarterMaster – Generate performance reviews from your GitHub activity]]></title>
-        <id>https://github.com/imponenm/QuarterMaster</id>
-        <link href="https://github.com/imponenm/QuarterMaster"/>
+        <title type="html"><![CDATA[Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}]]></title>
+        <id>https://burntsushi.net/ripgrep/</id>
+        <link href="https://burntsushi.net/ripgrep/"/>
         <updated>2026-03-23T16:00:00.000Z</updated>
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows Start does not use React]]></title>
-        <id>https://pathar.tl/blog/no-windows-start-does-not-use-react/</id>
-        <link href="https://pathar.tl/blog/no-windows-start-does-not-use-react/"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why your guitar goes sharp when you play hard: the Kirchoff–Carrier equation]]></title>
-        <id>https://mbmccoy.dev/posts/nonlinear-vibes/</id>
-        <link href="https://mbmccoy.dev/posts/nonlinear-vibes/"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is ChatGPT a Scrabble Genius, or a Scrabble Disaster?]]></title>
-        <id>https://www.youtube.com/watch?v=8opLB1D_RYY</id>
-        <link href="https://www.youtube.com/watch?v=8opLB1D_RYY"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Software Foundation turned down Trump admin grant (2025)]]></title>
-        <id>https://arstechnica.com/tech-policy/2025/10/python-foundation-rejects-1-5-million-grant-over-trump-admins-anti-dei-rules/</id>
-        <link href="https://arstechnica.com/tech-policy/2025/10/python-foundation-rejects-1-5-million-grant-over-trump-admins-anti-dei-rules/"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SynthVision: Building a 110K Synthetic Medical VQA Dataset]]></title>
-        <id>https://huggingface.co/blog/OpenMed/synthvision</id>
-        <link href="https://huggingface.co/blog/OpenMed/synthvision"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things are about to get zany in tech]]></title>
-        <id>https://malloryloar.substack.com/p/hotel-hallway-art-vs-starry-night</id>
-        <link href="https://malloryloar.substack.com/p/hotel-hallway-art-vs-starry-night"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broadcasters urge EU to tighten rules for big tech in smart TV battle]]></title>
-        <id>https://www.theguardian.com/business/2026/mar/23/broadcasters-eu-big-tech-smart-tv-google-amazon-apple-samsung</id>
-        <link href="https://www.theguardian.com/business/2026/mar/23/broadcasters-eu-big-tech-smart-tv-google-amazon-apple-samsung"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic for Science Blog]]></title>
-        <id>https://www.anthropic.com/research/introducing-anthropic-science</id>
-        <link href="https://www.anthropic.com/research/introducing-anthropic-science"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Speak Up or You Are Getting Burned by Acid: Andrie Yunus (Indonesia)]]></title>
-        <id>https://www.techgalery.com/2026/03/dont-speak-up-or-you-are-getting-burned.html</id>
-        <link href="https://www.techgalery.com/2026/03/dont-speak-up-or-you-are-getting-burned.html"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I benchmarked GitHub CLI, MCP, Tool Search, Code Mode so we know the differences]]></title>
-        <id>https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4</id>
-        <link href="https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chat GPT 5.2 cannot explain the German word "geschniegelt"]]></title>
-        <id>https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/</id>
-        <link href="https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reflections on Hosting a Programming Contest]]></title>
-        <id>https://thomasqm.com/post/hammerwars</id>
-        <link href="https://thomasqm.com/post/hammerwars"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ExifVoid – Client-side photo metadata removal, nothing leaves the browser]]></title>
-        <id>https://www.exifvoid.com/</id>
-        <link href="https://www.exifvoid.com/"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists discover Alzheimer's hidden "death switch" in the brain]]></title>
-        <id>https://www.sciencedaily.com/releases/2026/03/260323005526.htm</id>
-        <link href="https://www.sciencedaily.com/releases/2026/03/260323005526.htm"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patrick Suppes – Foundations of Measurement (1981)[video]]]></title>
-        <id>https://www.youtube.com/watch?v=oQyo3zTyvT4</id>
-        <link href="https://www.youtube.com/watch?v=oQyo3zTyvT4"/>
-        <updated>2026-03-23T16:00:00.000Z</updated>
-        <published>2026-03-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Representation and Invariance of Scientific Structures (2002) [pdf]]]></title>
-        <id>https://web.stanford.edu/group/cslipublications/cslipublications/pdf/1575863332.rissbook.pdf</id>
-        <link href="https://web.stanford.edu/group/cslipublications/cslipublications/pdf/1575863332.rissbook.pdf"/>
+        <title type="html"><![CDATA[Sunsetting the Techempower Framework Benchmarks]]></title>
+        <id>https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932</id>
+        <link href="https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932"/>
         <updated>2026-03-23T16:00:00.000Z</updated>
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
@@ -246,9 +120,170 @@
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sunsetting the Techempower Framework Benchmarks]]></title>
-        <id>https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932</id>
-        <link href="https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932"/>
+        <title type="html"><![CDATA[Representation and Invariance of Scientific Structures (2002) [pdf]]]></title>
+        <id>https://web.stanford.edu/group/cslipublications/cslipublications/pdf/1575863332.rissbook.pdf</id>
+        <link href="https://web.stanford.edu/group/cslipublications/cslipublications/pdf/1575863332.rissbook.pdf"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patrick Suppes – Foundations of Measurement (1981)[video]]]></title>
+        <id>https://www.youtube.com/watch?v=oQyo3zTyvT4</id>
+        <link href="https://www.youtube.com/watch?v=oQyo3zTyvT4"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists discover Alzheimer's hidden "death switch" in the brain]]></title>
+        <id>https://www.sciencedaily.com/releases/2026/03/260323005526.htm</id>
+        <link href="https://www.sciencedaily.com/releases/2026/03/260323005526.htm"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ExifVoid – Client-side photo metadata removal, nothing leaves the browser]]></title>
+        <id>https://www.exifvoid.com/</id>
+        <link href="https://www.exifvoid.com/"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflections on Hosting a Programming Contest]]></title>
+        <id>https://thomasqm.com/post/hammerwars</id>
+        <link href="https://thomasqm.com/post/hammerwars"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chat GPT 5.2 cannot explain the German word "geschniegelt"]]></title>
+        <id>https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/</id>
+        <link href="https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I benchmarked GitHub CLI, MCP, Tool Search, Code Mode so we know the differences]]></title>
+        <id>https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4</id>
+        <link href="https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Speak Up or You Are Getting Burned by Acid: Andrie Yunus (Indonesia)]]></title>
+        <id>https://www.techgalery.com/2026/03/dont-speak-up-or-you-are-getting-burned.html</id>
+        <link href="https://www.techgalery.com/2026/03/dont-speak-up-or-you-are-getting-burned.html"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic for Science Blog]]></title>
+        <id>https://www.anthropic.com/research/introducing-anthropic-science</id>
+        <link href="https://www.anthropic.com/research/introducing-anthropic-science"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broadcasters urge EU to tighten rules for big tech in smart TV battle]]></title>
+        <id>https://www.theguardian.com/business/2026/mar/23/broadcasters-eu-big-tech-smart-tv-google-amazon-apple-samsung</id>
+        <link href="https://www.theguardian.com/business/2026/mar/23/broadcasters-eu-big-tech-smart-tv-google-amazon-apple-samsung"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things are about to get zany in tech]]></title>
+        <id>https://malloryloar.substack.com/p/hotel-hallway-art-vs-starry-night</id>
+        <link href="https://malloryloar.substack.com/p/hotel-hallway-art-vs-starry-night"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SynthVision: Building a 110K Synthetic Medical VQA Dataset]]></title>
+        <id>https://huggingface.co/blog/OpenMed/synthvision</id>
+        <link href="https://huggingface.co/blog/OpenMed/synthvision"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Software Foundation turned down Trump admin grant (2025)]]></title>
+        <id>https://arstechnica.com/tech-policy/2025/10/python-foundation-rejects-1-5-million-grant-over-trump-admins-anti-dei-rules/</id>
+        <link href="https://arstechnica.com/tech-policy/2025/10/python-foundation-rejects-1-5-million-grant-over-trump-admins-anti-dei-rules/"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is ChatGPT a Scrabble Genius, or a Scrabble Disaster?]]></title>
+        <id>https://www.youtube.com/watch?v=8opLB1D_RYY</id>
+        <link href="https://www.youtube.com/watch?v=8opLB1D_RYY"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why your guitar goes sharp when you play hard: the Kirchoff–Carrier equation]]></title>
+        <id>https://mbmccoy.dev/posts/nonlinear-vibes/</id>
+        <link href="https://mbmccoy.dev/posts/nonlinear-vibes/"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Start does not use React]]></title>
+        <id>https://pathar.tl/blog/no-windows-start-does-not-use-react/</id>
+        <link href="https://pathar.tl/blog/no-windows-start-does-not-use-react/"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: QuarterMaster – Generate performance reviews from your GitHub activity]]></title>
+        <id>https://github.com/imponenm/QuarterMaster</id>
+        <link href="https://github.com/imponenm/QuarterMaster"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traders placed $580M in oil bets ahead of Trump's social media post on Iran]]></title>
+        <id>https://www.ft.com/content/1171d623-3709-4f6e-8ded-a5df4ec57696</id>
+        <link href="https://www.ft.com/content/1171d623-3709-4f6e-8ded-a5df4ec57696"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guideline: Rust Style]]></title>
+        <id>https://epage.github.io/dev/rust-style/</id>
+        <link href="https://epage.github.io/dev/rust-style/"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: OMyTree – An open-source, tree-based AI canvas for deep research]]></title>
+        <id>https://github.com/isbeingto/oMyTree</id>
+        <link href="https://github.com/isbeingto/oMyTree"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Literary Celebrity, Mussolini Mouthpiece, American Traitor: Who Was Ezra Pound?]]></title>
+        <id>https://lithub.com/literary-celebrity-mussolinis-mouthpiece-and-american-traitor-who-was-ezra-pound/</id>
+        <link href="https://lithub.com/literary-celebrity-mussolinis-mouthpiece-and-american-traitor-who-was-ezra-pound/"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pharaoh – structural codebase maps for AI coding agents]]></title>
+        <id>https://pharaoh.so/</id>
+        <link href="https://pharaoh.so/"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: RoverBook – PostHog for AI Agents]]></title>
+        <id>https://github.com/rtrvr-ai/rover/tree/main/packages/roverbook</id>
+        <link href="https://github.com/rtrvr-ai/rover/tree/main/packages/roverbook"/>
+        <updated>2026-03-23T16:00:00.000Z</updated>
+        <published>2026-03-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ArrowJS – The first UI framework for the agentic era]]></title>
+        <id>https://arrow-js.com/</id>
+        <link href="https://arrow-js.com/"/>
         <updated>2026-03-23T16:00:00.000Z</updated>
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
@@ -309,16 +344,9 @@
         <published>2026-03-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Happens When You Can’t Get a Death Certificate in Gaza]]></title>
-        <id>https://www.wired.com/story/what-happens-when-you-cant-get-a-death-certificate-in-gaza/</id>
-        <link href="https://www.wired.com/story/what-happens-when-you-cant-get-a-death-certificate-in-gaza/"/>
-        <updated>2026-03-22T16:00:00.000Z</updated>
-        <published>2026-03-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GE Profile Smart Grind and Brew Review: Just the Basics]]></title>
-        <id>https://www.wired.com/review/ge-profile-smart-grind-and-brew/</id>
-        <link href="https://www.wired.com/review/ge-profile-smart-grind-and-brew/"/>
+        <title type="html"><![CDATA[The Rise of the Ray-Ban Meta Creep]]></title>
+        <id>https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/</id>
+        <link href="https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/"/>
         <updated>2026-03-22T16:00:00.000Z</updated>
         <published>2026-03-22T16:00:00.000Z</published>
     </entry>
@@ -330,37 +358,9 @@
         <published>2026-03-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Rise of the Ray-Ban Meta Creep]]></title>
-        <id>https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/</id>
-        <link href="https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/"/>
-        <updated>2026-03-22T16:00:00.000Z</updated>
-        <published>2026-03-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Federal immigration agents filmed making airport arrests as Trump calls in ICE to ease security line delays]]></title>
-        <id>https://techcrunch.com/2026/03/23/federal-immigration-agents-filmed-making-airport-arrests-as-trump-calls-in-ice-to-ease-security-line-delays/</id>
-        <link href="https://techcrunch.com/2026/03/23/federal-immigration-agents-filmed-making-airport-arrests-as-trump-calls-in-ice-to-ease-security-line-delays/"/>
-        <updated>2026-03-22T16:00:00.000Z</updated>
-        <published>2026-03-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Aerko_ – An offline-first, Vanilla JavaScript fitness PWA with local AI]]></title>
-        <id>https://github.com/SrPakura/AERKO_PWA</id>
-        <link href="https://github.com/SrPakura/AERKO_PWA"/>
-        <updated>2026-03-22T16:00:00.000Z</updated>
-        <published>2026-03-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL 19 will have pg_plan_advice contrib module (query hints)]]></title>
-        <id>https://www.depesz.com/2026/03/22/waiting-for-postgresql-19-add-pg_plan_advice-contrib-module/</id>
-        <link href="https://www.depesz.com/2026/03/22/waiting-for-postgresql-19-add-pg_plan_advice-contrib-module/"/>
-        <updated>2026-03-22T16:00:00.000Z</updated>
-        <published>2026-03-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VisionClaude – Open-Source AI Vision for iPhone and Meta Ray-Ban Glasses]]></title>
-        <id>https://github.com/mrdulasolutions/visionclaude</id>
-        <link href="https://github.com/mrdulasolutions/visionclaude"/>
+        <title type="html"><![CDATA[GE Profile Smart Grind and Brew Review: Just the Basics]]></title>
+        <id>https://www.wired.com/review/ge-profile-smart-grind-and-brew/</id>
+        <link href="https://www.wired.com/review/ge-profile-smart-grind-and-brew/"/>
         <updated>2026-03-22T16:00:00.000Z</updated>
         <published>2026-03-22T16:00:00.000Z</published>
     </entry>

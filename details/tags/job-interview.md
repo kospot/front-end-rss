@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-24 12:02:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-24 15:02:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -8,3 +8,4 @@
 
 
 - [2026-03-20-科技爱好者周刊（第-389-期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html) 
+- [2026-03-24-Kentucky-family-rejects-$$26M-offer-to-convert-farm-into-data-center](https://twitter.com/CollinRugg/status/2036237284601913674) 
