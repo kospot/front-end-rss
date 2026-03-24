@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-24 08:01:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-24 10:01:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## smol.ai
 
@@ -23,5 +23,5 @@
 - [2026-02-27-OpenAI-closes-$110B-raise-from-Amazon,-NVIDIA,-SoftBank-in-largest-startup-fundraise-in-history-@-$840B-post-money](https://news.smol.ai/issues/26-02-27-openai-g/) 
 - [2026-02-26-Nano-Banana-2-aka-Gemini-3.1-Flash-Image-Preview:-the-new-SOTA-Imagegen-model](https://news.smol.ai/issues/26-02-26-nanobanana2/) 
 - [2026-02-25-Agentic-Engineering:-WTF-Happened-in-December-2025?](https://news.smol.ai/issues/26-02-25-wtf-happened/) 
-- [2026-02-24-Anthropic-accuses-DeepSeek,-Moonshot,-and-MiniMax-of-"industrial-scale-distillation-attacks".](https://news.smol.ai/issues/26-02-23-anthropic-distillation/) 
 - [2026-02-24-Claude-Code-Anniversary-+-Launches-from:-Qwen-3.5,-Cursor-Demos,-Cognition-Devin-2.2,-Inception-Mercury-2](https://news.smol.ai/issues/26-02-24-claude-code/) 
+- [2026-02-24-Anthropic-accuses-DeepSeek,-Moonshot,-and-MiniMax-of-"industrial-scale-distillation-attacks".](https://news.smol.ai/issues/26-02-23-anthropic-distillation/) 
