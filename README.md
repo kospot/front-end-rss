@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-24 06:00:51，:rocket: 更新条数: +1217， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-24 08:01:22，:rocket: 更新条数: +1194， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,7 +19,7 @@
 - [web.dev](#web.dev)  
 - [CSS-Tricks](#css-tricks)![](/assets/dot.png)   
 - [Smashing-Magazine](#smashing-magazine)![](/assets/dot.png)   
-- [Frontend-Masters-Blog](#frontend-masters-blog)![](/assets/dot.png)   
+- [Frontend-Masters-Blog](#frontend-masters-blog)  
 - [Overreacted](#overreacted)![](/assets/dot.png)   
 - [2ality](#2ality)  
 - [Jake-Archibald](#jake-archibald)![](/assets/dot.png)   
@@ -39,7 +39,7 @@
 - [GitHub-Trending-JS](#github-trending-js)  
 - [美团技术团队](#美团技术团队)![](/assets/dot.png)   
 - [InfoQ](#infoq)  
-- [GitHub-Engineering](#github-engineering)![](/assets/dot.png)   
+- [GitHub-Engineering](#github-engineering)  
 - [O'Reilly-Radar](#o'reilly-radar)  
 - [Martin-Fowler](#martin-fowler)![](/assets/dot.png)   
 - [arXiv-ML](#arxiv-ml)  
@@ -57,7 +57,7 @@
 - [ChatGPT-更新](#chatgpt-更新)  
 - [Hacker-News](#hacker-news)![](/assets/dot.png)   
 - [TechCrunch](#techcrunch)![](/assets/dot.png)   
-- [Wired](#wired)![](/assets/dot.png)   
+- [Wired](#wired)  
 - [Engadget](#engadget)  
 - [少数派](#少数派)  
 
@@ -112,8 +112,8 @@
 
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
+- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [2026-03-05-The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)  
@@ -158,7 +158,7 @@
 </summary>
 
 
-- [2026-03-24-Two-Circles,-One-Arrow,-and-Anchor-Positioning](https://frontendmasters.com/blog/two-circles-one-arrow-and-anchor-positioning/) ![](/assets/new.png)  
+- [2026-03-24-Two-Circles,-One-Arrow,-and-Anchor-Positioning](https://frontendmasters.com/blog/two-circles-one-arrow-and-anchor-positioning/)  
 - [2026-03-21-Text-scaling-support-in-Chrome-Canary](https://frontendmasters.com/blog/text-scaling-support-in-chrome-canary/)  
 - [2026-03-19-Image-Gallery-with-Popovers-and-AIM-Anchor-Interpolated-Morph](https://frontendmasters.com/blog/image-gallery-with-popovers-and-aim-anchor-interpolated-morph/)  
 - [2026-03-19-BaseWatch](https://frontendmasters.com/blog/basewatch/)  
@@ -399,7 +399,7 @@
 </summary>
 
 
-- [2026-03-24-GitHub-expands-application-security-coverage-with-AI‑powered-detections](https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/) ![](/assets/new.png)  
+- [2026-03-24-GitHub-expands-application-security-coverage-with-AI‑powered-detections](https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/)  
 - [2026-03-20-Rethinking-open-source-mentorship-in-the-AI-era](https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/)  
 - [2026-03-20-How-Squad-runs-coordinated-AI-agents-inside-your-repository](https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/)  
 - [2026-03-18--Investing-in-the-people-shaping-open-source-and-securing-the-future-together](https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/)  
@@ -513,8 +513,8 @@
 - [2026-02-27-OpenAI-closes-$110B-raise-from-Amazon,-NVIDIA,-SoftBank-in-largest-startup-fundraise-in-history-@-$840B-post-money](https://news.smol.ai/issues/26-02-27-openai-g/)  
 - [2026-02-26-Nano-Banana-2-aka-Gemini-3.1-Flash-Image-Preview:-the-new-SOTA-Imagegen-model](https://news.smol.ai/issues/26-02-26-nanobanana2/)  
 - [2026-02-25-Agentic-Engineering:-WTF-Happened-in-December-2025?](https://news.smol.ai/issues/26-02-25-wtf-happened/)  
-- [2026-02-24-Claude-Code-Anniversary-+-Launches-from:-Qwen-3.5,-Cursor-Demos,-Cognition-Devin-2.2,-Inception-Mercury-2](https://news.smol.ai/issues/26-02-24-claude-code/)  
 - [2026-02-24-Anthropic-accuses-DeepSeek,-Moonshot,-and-MiniMax-of-"industrial-scale-distillation-attacks".](https://news.smol.ai/issues/26-02-23-anthropic-distillation/)  
+- [2026-02-24-Claude-Code-Anniversary-+-Launches-from:-Qwen-3.5,-Cursor-Demos,-Cognition-Devin-2.2,-Inception-Mercury-2](https://news.smol.ai/issues/26-02-24-claude-code/)  
 - [......【查看更多】......](/details/smol.ai.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -526,26 +526,26 @@
 </summary>
 
 
-- [2026-03-24-A-Robot-Just-Learned-Tennis-in-5-Hours.-It-Took-Me-5-Years.](https://pub.towardsai.net/a-robot-just-learned-tennis-in-5-hours-it-took-me-5-years-39944ff2fe81?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-24-Azure-Databricks:-an-end-to-end-guide-—-Part-3-of-3](https://pub.towardsai.net/azure-databricks-an-end-to-end-guide-part-3-of-3-ce68f5e92cef?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-24-How-I-Automated-My-LinkedIn-Posts-Using-n8n-—-And-How-You-Can-Too](https://pub.towardsai.net/how-i-automated-my-linkedin-posts-using-n8n-and-how-you-can-too-352a23a4d250?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-24-What-Pragmatics-Knows-That-Your-AI-Agent-Doesn’t](https://pub.towardsai.net/what-pragmatics-knows-that-your-ai-agent-doesnt-4886c1b7961e?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-24-What-SFT,-DPO,-RLHF,-and-RAG-Actually-Do-in-an-AI-Agent](https://pub.towardsai.net/what-sft-dpo-rlhf-and-rag-actually-do-in-an-ai-agent-d5b8daf0aedb?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-24-The-End-of-the-Exponential?](https://pub.towardsai.net/the-end-of-the-exponential-2288f7d3ebb6?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-23-The-LoRA-Hyperparameters-No-One-Explains-|-How-to-Fine-Tune-Correctly,-Part-4](https://pub.towardsai.net/the-lora-hyperparameters-no-one-explains-how-to-fine-tune-correctly-part-4-a58268050766?source=rss----98111c9905da---4)  
-- [2026-03-23-Azure-Databricks:-an-end-to-end-guide-—-Part-1-of-3](https://pub.towardsai.net/azure-databricks-an-end-to-end-guide-part-1-of-3-5872dcf0dccc?source=rss----98111c9905da---4)  
-- [2026-03-23-State-of-Context-Engineering-in-2026](https://pub.towardsai.net/state-of-context-engineering-in-2026-cf92d010eab1?source=rss----98111c9905da---4)  
-- [2026-03-23-AI-in-Healthcare:-Innovations-to-Watch-in-2026](https://pub.towardsai.net/ai-in-healthcare-innovations-to-watch-in-2026-8b545edd9316?source=rss----98111c9905da---4)  
-- [2026-03-23-Context-Engineering-Is-a-Skill.-Most-Developers-Are-Skipping-It.](https://pub.towardsai.net/context-engineering-is-a-skill-most-developers-are-skipping-it-9938678292b8?source=rss----98111c9905da---4)  
-- [2026-03-23-How-LLMs-Actually-Process-Your-Messages:-A-Clear-Guide-to-Context-Windows,-Token-Limits,-and…](https://pub.towardsai.net/how-llms-actually-process-your-messages-a-clear-guide-to-context-windows-token-limits-and-0f9ff996ba8b?source=rss----98111c9905da---4)  
-- [2026-03-23-Consensus:-Structured-Multi-Party-Dialogue-Between-AI-models-or-Humans-and-Models](https://pub.towardsai.net/consensus-structured-multi-party-dialogue-between-ai-models-or-humans-and-models-16d365cbb150?source=rss----98111c9905da---4)  
-- [2026-03-23-I-Spent-6-Months-Talking-to-AI-Founders.-Here’s-What-Actually-Works-in-2026.](https://pub.towardsai.net/i-spent-6-months-talking-to-ai-founders-heres-what-actually-works-in-2026-5baae4af57a9?source=rss----98111c9905da---4)  
-- [2026-03-23-How-to-Build-a-RAG-system-on-Azure:-From-Local-Dev-to-ProductionTerraform,-Python,-NextJS](https://pub.towardsai.net/how-to-build-a-rag-system-on-azure-from-local-dev-to-production-terraform-python-nextjs-28830602b84b?source=rss----98111c9905da---4)  
-- [2026-03-23-Beyond-the-Rules-Engine:-A-Business-Analyst’s-Inside-Look-at-AI-for-Payment-Fraud-Detection](https://pub.towardsai.net/beyond-the-rules-engine-a-business-analysts-inside-look-at-ai-for-payment-fraud-detection-eb4d929c017a?source=rss----98111c9905da---4)  
-- [2026-03-23-The-Cognitive-Dissonance-Agent:-Why-the-Best-AI-Reasoning-Starts-With-Self-Doubt](https://pub.towardsai.net/the-cognitive-dissonance-agent-why-the-best-ai-reasoning-starts-with-self-doubt-d1a7b5ffb42e?source=rss----98111c9905da---4)  
-- [2026-03-23-A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)  
-- [2026-03-23-If-OpenAI’s-$60-Ad-Test-Succeeds,-Google-Gemini-Will-Read-Your-Inbox](https://pub.towardsai.net/if-openais-60-ad-test-succeeds-google-gemini-will-read-your-inbox-ecd9c7f503ab?source=rss----98111c9905da---4)  
+- [2026-03-24-The-End-of-the-Exponential?](https://pub.towardsai.net/the-end-of-the-exponential-2288f7d3ebb6?source=rss----98111c9905da---4)  
+- [2026-03-24-What-SFT,-DPO,-RLHF,-and-RAG-Actually-Do-in-an-AI-Agent](https://pub.towardsai.net/what-sft-dpo-rlhf-and-rag-actually-do-in-an-ai-agent-d5b8daf0aedb?source=rss----98111c9905da---4)  
+- [2026-03-24-What-Pragmatics-Knows-That-Your-AI-Agent-Doesn’t](https://pub.towardsai.net/what-pragmatics-knows-that-your-ai-agent-doesnt-4886c1b7961e?source=rss----98111c9905da---4)  
+- [2026-03-24-How-I-Automated-My-LinkedIn-Posts-Using-n8n-—-And-How-You-Can-Too](https://pub.towardsai.net/how-i-automated-my-linkedin-posts-using-n8n-and-how-you-can-too-352a23a4d250?source=rss----98111c9905da---4)  
+- [2026-03-24-Azure-Databricks:-an-end-to-end-guide-—-Part-3-of-3](https://pub.towardsai.net/azure-databricks-an-end-to-end-guide-part-3-of-3-ce68f5e92cef?source=rss----98111c9905da---4)  
+- [2026-03-24-A-Robot-Just-Learned-Tennis-in-5-Hours.-It-Took-Me-5-Years.](https://pub.towardsai.net/a-robot-just-learned-tennis-in-5-hours-it-took-me-5-years-39944ff2fe81?source=rss----98111c9905da---4)  
+- [2026-03-24-How-I-Set-Up-OpenClaw-Across-Two-Macs-With-Git,-Tailscale,-and-macOS-Keychain](https://pub.towardsai.net/how-i-set-up-openclaw-across-two-macs-with-git-tailscale-and-macos-keychain-a62ed089ce86?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-24-Crack-ML-Interviews-with-Confidence:-Convolutional-Neural-Network-CNN-20-Q&amp;A](https://pub.towardsai.net/crack-ml-interviews-with-confidence-convolutional-neural-network-cnn-20-q-a-9759d11f8bfa?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-23-Azure-Databricks:-an-end-to-end-guide-—-Part-2-of-3](https://pub.towardsai.net/azure-databricks-an-end-to-end-guide-part-2-of-3-a8b572d0619d?source=rss----98111c9905da---4)  
+- [2026-03-23-AI’s-Blindspot:-The-‘Lost-in-the-Middle’-Effect](https://pub.towardsai.net/ais-blindspot-the-lost-in-the-middle-effect-07ea592c33eb?source=rss----98111c9905da---4)  
+- [2026-03-23-I-Built-an-AI-Podcast-That-Learns-What-You-Like-—-Here’s-Exactly-How-It-Works](https://pub.towardsai.net/i-built-an-ai-podcast-that-learns-what-you-like-heres-exactly-how-it-works-2d464c8d0704?source=rss----98111c9905da---4)  
+- [2026-03-23-From-Probability-to-Loss---How-MLE-Builds-Machine-Learning:-Part-2](https://pub.towardsai.net/from-probability-to-loss-how-mle-builds-machine-learning-part-2-789a9f27c254?source=rss----98111c9905da---4)  
+- [2026-03-23-Fine-Tuning-OpenAI’s-GPT-OSS-20B:-A-Practitioner’s-Guide-to-LoRA-on-MoE-Models](https://pub.towardsai.net/fine-tuning-openais-gpt-oss-20b-a-practitioner-s-guide-to-lora-on-moe-models-920171bf5258?source=rss----98111c9905da---4)  
+- [2026-03-23-Improving-Deep-Neural-Learning-Networks-Part-1:-Practical-Approaches-and-Applications-to-LLMs](https://pub.towardsai.net/improving-deep-neural-learning-networks-part-1-practical-approaches-and-applications-to-llms-72b8632e725b?source=rss----98111c9905da---4)  
+- [2026-03-23-How-I-Would-Become-an-AI-Engineer-in-2026-If-I-Had-to-Start-Over](https://pub.towardsai.net/how-i-would-become-an-ai-engineer-in-2026-if-i-had-to-start-over-c80bd754c753?source=rss----98111c9905da---4)  
+- [2026-03-23-Nadine,-A-Social-Robot](https://pub.towardsai.net/nadine-a-social-robot-1ac757c38ccc?source=rss----98111c9905da---4)  
 - [2026-03-23-The-Hidden-Creativity-Inside-LLMs:-How-Recoding-Decoding-Unlocks-Better-Ideas](https://pub.towardsai.net/the-hidden-creativity-inside-llms-how-recoding-decoding-unlocks-better-ideas-d08e37396316?source=rss----98111c9905da---4)  
+- [2026-03-23-If-OpenAI’s-$60-Ad-Test-Succeeds,-Google-Gemini-Will-Read-Your-Inbox](https://pub.towardsai.net/if-openais-60-ad-test-succeeds-google-gemini-will-read-your-inbox-ecd9c7f503ab?source=rss----98111c9905da---4)  
+- [2026-03-23-A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)  
+- [2026-03-23-The-Cognitive-Dissonance-Agent:-Why-the-Best-AI-Reasoning-Starts-With-Self-Doubt](https://pub.towardsai.net/the-cognitive-dissonance-agent-why-the-best-ai-reasoning-starts-with-self-doubt-d1a7b5ffb42e?source=rss----98111c9905da---4)  
 - [......【查看更多】......](/details/Towards AI.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -658,26 +658,26 @@
 </summary>
 
 
-- [2026-03-24-Quadruple-Amputee,-professional-cornhole-player,-accused-of-fatally-shooting-man](https://www.fox5dc.com/news/dayton-webber-amputee-cornhole-player-accused-murder) ![](/assets/new.png)  
-- [2026-03-24-Show-HN:-Evals-Skills](https://langwatch.ai/docs/skills/directory) ![](/assets/new.png)  
-- [2026-03-24-Things-are-about-to-get-zany-in-tech](https://malloryloar.substack.com/p/hotel-hallway-art-vs-starry-night) ![](/assets/new.png)  
-- [2026-03-24-FCC-Updates-Covered-List-to-Include-Foreign-Made-Consumer-Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers) ![](/assets/new.png)  
-- [2026-03-24-MacShot-–-Native-macOS-screenshot-tool-with-annotation,-auto-redact,-and-more](https://github.com/sw33tLie/macshot) ![](/assets/new.png)  
-- [2026-03-24-Put-Claude-to-work-on-your-computer](https://claude.com/blog/dispatch-and-computer-use) ![](/assets/new.png)  
-- [2026-03-24-Broadcasters-urge-EU-to-tighten-rules-for-big-tech-in-smart-TV-battle](https://www.theguardian.com/business/2026/mar/23/broadcasters-eu-big-tech-smart-tv-google-amazon-apple-samsung) ![](/assets/new.png)  
-- [2026-03-24-Things-Will-Take-Longer-Than-You-Think-They-Will](https://dontbreakprod.com/posts/things-will-take-longer-than-you-think-they-will) ![](/assets/new.png)  
-- [2026-03-24-Anthropic-for-Science-Blog](https://www.anthropic.com/research/introducing-anthropic-science) ![](/assets/new.png)  
-- [2026-03-24-Don't-Speak-Up-or-You-Are-Getting-Burned-by-Acid:-Andrie-Yunus-Indonesia](https://www.techgalery.com/2026/03/dont-speak-up-or-you-are-getting-burned.html) ![](/assets/new.png)  
-- [2026-03-24-NYU-Professors-Begin-Strike-over-Pay-and-Job-Protections](https://www.nytimes.com/2026/03/23/nyregion/nyu-professors-strike.html) ![](/assets/new.png)  
-- [2026-03-24-Making-a-Language](https://thunderseethe.dev/series/making-a-language/) ![](/assets/new.png)  
-- [2026-03-24-I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4) ![](/assets/new.png)  
-- [2026-03-24-Sneaky-Header-Blocker-Trick](https://www.joshwcomeau.com/css/header-blockers/?from=newsletter) ![](/assets/new.png)  
-- [2026-03-24-Printable-Claude-Code-Cheat-Sheet-auto-updated-daily](https://cc.storyfox.cz) ![](/assets/new.png)  
-- [2026-03-24-Vibe-physics:-The-AI-grad-student](https://www.anthropic.com/research/vibe-physics) ![](/assets/new.png)  
-- [2026-03-24-Chat-GPT-5.2-cannot-explain-the-German-word-"geschniegelt"](https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/) ![](/assets/new.png)  
-- [2026-03-24-The-Ant-Ssembly-Line](https://hallofdreams.org/posts/the-ant-ssembly-line/) ![](/assets/new.png)  
-- [2026-03-24-AspireConf-2026](https://aspire.dev/aspireconf/) ![](/assets/new.png)  
-- [2026-03-24-FCC-considering-a-ban-for-all-foreign-made-routers](https://bsky.app/profile/ericjgeller.com/post/3mhqxf2pzvz2j) ![](/assets/new.png)  
+- [2026-03-24-FCC-considering-a-ban-for-all-foreign-made-routers](https://bsky.app/profile/ericjgeller.com/post/3mhqxf2pzvz2j)  
+- [2026-03-24-AspireConf-2026](https://aspire.dev/aspireconf/)  
+- [2026-03-24-The-Ant-Ssembly-Line](https://hallofdreams.org/posts/the-ant-ssembly-line/)  
+- [2026-03-24-Chat-GPT-5.2-cannot-explain-the-German-word-"geschniegelt"](https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/)  
+- [2026-03-24-Vibe-physics:-The-AI-grad-student](https://www.anthropic.com/research/vibe-physics)  
+- [2026-03-24-Printable-Claude-Code-Cheat-Sheet-auto-updated-daily](https://cc.storyfox.cz)  
+- [2026-03-24-Sneaky-Header-Blocker-Trick](https://www.joshwcomeau.com/css/header-blockers/?from=newsletter)  
+- [2026-03-24-I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4)  
+- [2026-03-24-Making-a-Language](https://thunderseethe.dev/series/making-a-language/)  
+- [2026-03-24-NYU-Professors-Begin-Strike-over-Pay-and-Job-Protections](https://www.nytimes.com/2026/03/23/nyregion/nyu-professors-strike.html)  
+- [2026-03-24-Don't-Speak-Up-or-You-Are-Getting-Burned-by-Acid:-Andrie-Yunus-Indonesia](https://www.techgalery.com/2026/03/dont-speak-up-or-you-are-getting-burned.html)  
+- [2026-03-24-Anthropic-for-Science-Blog](https://www.anthropic.com/research/introducing-anthropic-science)  
+- [2026-03-24-Things-Will-Take-Longer-Than-You-Think-They-Will](https://dontbreakprod.com/posts/things-will-take-longer-than-you-think-they-will)  
+- [2026-03-24-Broadcasters-urge-EU-to-tighten-rules-for-big-tech-in-smart-TV-battle](https://www.theguardian.com/business/2026/mar/23/broadcasters-eu-big-tech-smart-tv-google-amazon-apple-samsung)  
+- [2026-03-24-Put-Claude-to-work-on-your-computer](https://claude.com/blog/dispatch-and-computer-use)  
+- [2026-03-24-MacShot-–-Native-macOS-screenshot-tool-with-annotation,-auto-redact,-and-more](https://github.com/sw33tLie/macshot)  
+- [2026-03-24-FCC-Updates-Covered-List-to-Include-Foreign-Made-Consumer-Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers)  
+- [2026-03-24-Things-are-about-to-get-zany-in-tech](https://malloryloar.substack.com/p/hotel-hallway-art-vs-starry-night)  
+- [2026-03-24-Show-HN:-Evals-Skills](https://langwatch.ai/docs/skills/directory)  
+- [2026-03-24-Quadruple-Amputee,-professional-cornhole-player,-accused-of-fatally-shooting-man](https://www.fox5dc.com/news/dayton-webber-amputee-cornhole-player-accused-murder)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -689,26 +689,26 @@
 </summary>
 
 
-- [2026-03-24-Littlebird-raises-$11M-for-its-AI-assisted-‘recall’-tool-that-reads-your-computer-screen](https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/) ![](/assets/new.png)  
-- [2026-03-24-Startup-Gimlet-Labs-is-solving-the-AI-inference-bottleneck-in-a-surprisingly-elegant-way](https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/) ![](/assets/new.png)  
-- [2026-03-24-Leonid-Radvinsky,-the-owner-of-OnlyFans,-has-passed-away](https://techcrunch.com/2026/03/23/leonid-radvinsky-the-owner-of-onlyfans-has-passed-away/) ![](/assets/new.png)  
-- [2026-03-24-DoorDash-introduces-relief-payments-for-drivers-as-the-Iran-US-war-drives-up-gas-prices](https://techcrunch.com/2026/03/23/doordash-introduces-relief-payments-for-drivers-as-the-iran-us-war-drives-up-gas-prices/) ![](/assets/new.png)  
-- [2026-03-24-Apple-sets-June-date-for-WWDC-2026,-teasing-‘AI-advancements’](https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/) ![](/assets/new.png)  
-- [2026-03-24-Vibe-coding-startup-Lovable-is-on-the-hunt-for-acquisitions](https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/) ![](/assets/new.png)  
-- [2026-03-24-Bipartisan-bill-seeks-to-ban-sports-betting-on-Kalshi-and-Polymarket](https://techcrunch.com/2026/03/23/bipartisan-bill-seeks-to-ban-sports-betting-on-kalshi-and-polymarket/) ![](/assets/new.png)  
-- [2026-03-24-Russian-authorities-block-paywall-removal-site-Archive.today](https://techcrunch.com/2026/03/23/russian-authorities-block-paywall-removal-site-archive-today/) ![](/assets/new.png)  
-- [2026-03-24-Bernie-Sanders’-AI-‘gotcha’-video-flops,-but-the-memes-are-great](https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/) ![](/assets/new.png)  
-- [2026-03-24-Zipline-snaps-up-another-$200M-to-fuel-its-drone-delivery-expansion](https://techcrunch.com/2026/03/23/zipline-snaps-up-another-200m-to-fuel-its-drone-delivery-expansion/) ![](/assets/new.png)  
-- [2026-03-24-Someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iPhones](https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/) ![](/assets/new.png)  
-- [2026-03-23-The-SEC-drops-its-four-year-old-investigation-into-EV-startup-Faraday-Future](https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/)  
-- [2026-03-23-Do-you-want-to-build-a-robot-snowman?](https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/)  
-- [2026-03-23-Cursor-admits-its-new-coding-model-was-built-on-top-of-Moonshot-AI’s-Kimi](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/)  
-- [2026-03-23-TechCrunch-Mobility:-Uber-everywhere,-all-at-once](https://techcrunch.com/2026/03/22/techcrunch-mobility-uber-everywhere-all-at-once/)  
-- [2026-03-23-Elon-Musk-unveils-chip-manufacturing-plans-for-SpaceX-and-Tesla](https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/)  
-- [2026-03-23-Federal-immigration-agents-filmed-making-airport-arrests-as-Trump-calls-in-ICE-to-ease-security-line-delays](https://techcrunch.com/2026/03/23/federal-immigration-agents-filmed-making-airport-arrests-as-trump-calls-in-ice-to-ease-security-line-delays/) ![](/assets/new.png)  
-- [2026-03-23-Sam-Altman-backed-fusion-startup-Helion-in-talks-to-sell-power-to-OpenAI](https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/) ![](/assets/new.png)  
-- [2026-03-23-FBI-says-Iranian-hackers-are-using-Telegram-to-steal-data-in-malware-attacks](https://techcrunch.com/2026/03/23/fbi-says-iranian-hackers-are-using-telegram-to-steal-data-in-malware-attacks/) ![](/assets/new.png)  
-- [2026-03-23-Elizabeth-Warren-calls-Pentagon’s-decision-to-bar-Anthropic-‘retaliation’](https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/) ![](/assets/new.png)  
+- [2026-03-24-Someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iPhones](https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/)  
+- [2026-03-24-Zipline-snaps-up-another-$200M-to-fuel-its-drone-delivery-expansion](https://techcrunch.com/2026/03/23/zipline-snaps-up-another-200m-to-fuel-its-drone-delivery-expansion/)  
+- [2026-03-24-Bernie-Sanders’-AI-‘gotcha’-video-flops,-but-the-memes-are-great](https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/)  
+- [2026-03-24-Russian-authorities-block-paywall-removal-site-Archive.today](https://techcrunch.com/2026/03/23/russian-authorities-block-paywall-removal-site-archive-today/)  
+- [2026-03-24-Bipartisan-bill-seeks-to-ban-sports-betting-on-Kalshi-and-Polymarket](https://techcrunch.com/2026/03/23/bipartisan-bill-seeks-to-ban-sports-betting-on-kalshi-and-polymarket/)  
+- [2026-03-24-Vibe-coding-startup-Lovable-is-on-the-hunt-for-acquisitions](https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/)  
+- [2026-03-24-Apple-sets-June-date-for-WWDC-2026,-teasing-‘AI-advancements’](https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/)  
+- [2026-03-24-DoorDash-introduces-relief-payments-for-drivers-as-the-Iran-US-war-drives-up-gas-prices](https://techcrunch.com/2026/03/23/doordash-introduces-relief-payments-for-drivers-as-the-iran-us-war-drives-up-gas-prices/)  
+- [2026-03-24-Leonid-Radvinsky,-the-owner-of-OnlyFans,-has-passed-away](https://techcrunch.com/2026/03/23/leonid-radvinsky-the-owner-of-onlyfans-has-passed-away/)  
+- [2026-03-24-Startup-Gimlet-Labs-is-solving-the-AI-inference-bottleneck-in-a-surprisingly-elegant-way](https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/)  
+- [2026-03-24-Littlebird-raises-$11M-for-its-AI-assisted-‘recall’-tool-that-reads-your-computer-screen](https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/)  
+- [2026-03-24-Apple-Maps-may-be-about-to-get-ads](https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/) ![](/assets/new.png)  
+- [2026-03-24-Air-Street-becomes-one-of-the-largest-solo-VCs-in-Europe-with-$232M-fund](https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/) ![](/assets/new.png)  
+- [2026-03-24-Despite-bitter-rivalry,-Kalshi,-Polymarket-CEOs-back-$35M-predictions-markets-VC-fund](https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/) ![](/assets/new.png)  
+- [2026-03-24-Bengaluru-food-delivery-startup-Swish-raises-$38M:-its-third-round-in-18-months](https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/) ![](/assets/new.png)  
+- [2026-03-24-Emil-Michael,-now-a-senior-Pentagon-official,-says-he’ll-never-forgive-Uber-investors-who-ousted-him-and-Kalanick](https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/) ![](/assets/new.png)  
+- [2026-03-23-Grab-to-buy-Foodpanda-Taiwan-from-Delivery-Hero-for-$600-million](https://techcrunch.com/2026/03/23/grab-to-buy-foodpanda-taiwan-from-delivery-hero-for-600-million/)  
+- [2026-03-23-Elizabeth-Warren-calls-Pentagon’s-decision-to-bar-Anthropic-‘retaliation’](https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/)  
+- [2026-03-23-FBI-says-Iranian-hackers-are-using-Telegram-to-steal-data-in-malware-attacks](https://techcrunch.com/2026/03/23/fbi-says-iranian-hackers-are-using-telegram-to-steal-data-in-malware-attacks/)  
+- [2026-03-23-Sam-Altman-backed-fusion-startup-Helion-in-talks-to-sell-power-to-OpenAI](https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/)  
 - [......【查看更多】......](/details/TechCrunch.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -720,11 +720,11 @@
 </summary>
 
 
-- [2026-03-24-Polymarket’s-Coming-Out-Party-in-Washington-Was-a-Disaster](https://www.wired.com/story/polymarket-wanted-a-coming-out-party-in-washington-it-was-a-disaster/) ![](/assets/new.png)  
-- [2026-03-24-ICE-Invades-Airports-Across-the-US](https://www.wired.com/story/ice-invades-airports-across-the-us/) ![](/assets/new.png)  
-- [2026-03-24-Our-Favorite-Budget-Earbuds-Are-Literally-$19](https://www.wired.com/story/jlab-go-pop-deal-326/) ![](/assets/new.png)  
-- [2026-03-24-A-Mysterious-Numbers-Station-Is-Broadcasting-Through-the-Iran-War](https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/) ![](/assets/new.png)  
-- [2026-03-24-A-Billionaire-Backed-Startup-Wants-to-Grow-'Organ-Sacks'-to-Replace-Animal-Testing](https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/) ![](/assets/new.png)  
+- [2026-03-24-Polymarket’s-Coming-Out-Party-in-Washington-Was-a-Disaster](https://www.wired.com/story/polymarket-wanted-a-coming-out-party-in-washington-it-was-a-disaster/)  
+- [2026-03-24-ICE-Invades-Airports-Across-the-US](https://www.wired.com/story/ice-invades-airports-across-the-us/)  
+- [2026-03-24-Our-Favorite-Budget-Earbuds-Are-Literally-$19](https://www.wired.com/story/jlab-go-pop-deal-326/)  
+- [2026-03-24-A-Mysterious-Numbers-Station-Is-Broadcasting-Through-the-Iran-War](https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/)  
+- [2026-03-24-A-Billionaire-Backed-Startup-Wants-to-Grow-'Organ-Sacks'-to-Replace-Animal-Testing](https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/)  
 - [2026-03-23-Best-Laptops-2026:-My-Honest-Advice-Having-Tested-Hundreds](https://www.wired.com/story/best-laptops/)  
 - [2026-03-23-The-Rise-of-the-Ray-Ban-Meta-Creep](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/)  
 - [2026-03-23-7-Best-Phones-You-Can’t-Buy-in-the-US-2026](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)  
