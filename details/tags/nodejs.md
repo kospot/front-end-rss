@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-25 08:01:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-25 10:02:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -23,4 +23,5 @@
 - [2026-03-23-FNODE:-Flow-Matching-for-data-driven-simulation-of-constrained-multibody-systems](https://arxiv.org/abs/2509.00183) 
 - [2026-03-23-KoALA:-KL-L0-Adversarial-Detector-via-Label-Agreement](https://arxiv.org/abs/2510.12752) 
 - [2026-03-23-Predicting-Hidden-Links-and-Missing-Nodes-in-Scale-Free-Networks-with-Artificial-Neural-Networks](https://arxiv.org/abs/2109.12331) 
+- [2026-03-25-Show-HN:-Herd-–-A-Go-sidecar-to-stop-stateful-processes-Puppeteer/LLMs-from-OOM](https://news.ycombinator.com/item?id=47511866) 
 - [2026-03-23-Show-HN:-Linkpeek-–-link-preview-for-Node.js,-Bun,-and-Deno-1-dependency](https://github.com/thegruber/linkpeek) 
