@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-25 18:02:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-25 21:03:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -17,3 +17,4 @@
 - [2026-03-25-Show-HN:-Looking-for-feedback-on-a-Git-native-message-board](https://zenmemes.com/compose/thread) 
 - [2026-03-24-I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4) 
 - [2026-03-24-Telegram-Outages-Spike-in-Kremlin's-Push-for-Digital-Control](https://jamestown.org/telegram-outages-spike-in-kremlins-push-for-digital-control/) 
+- [2026-03-25-The-Best-Digital-Wall-Calendar-2026:-Skylight,-Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/) 

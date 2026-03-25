@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-25T10:02:43.236Z</updated>
+    <updated>2026-03-25T13:03:50.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Iranians Don’t Have a Missile Alert System, So Volunteers Built Their Own Warning Map]]></title>
-        <id>https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/</id>
-        <link href="https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/"/>
+        <title type="html"><![CDATA[Samsung’s Galaxy A37 and Galaxy A57 Phones Get Price Hikes]]></title>
+        <id>https://www.wired.com/story/samsung-galaxy-a37-galaxy-a57/</id>
+        <link href="https://www.wired.com/story/samsung-galaxy-a37-galaxy-a57/"/>
+        <updated>2026-03-24T16:00:00.000Z</updated>
+        <published>2026-03-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Digital Wall Calendar (2026): Skylight, Apolosign]]></title>
+        <id>https://www.wired.com/story/are-digital-wall-calendars-worth-it/</id>
+        <link href="https://www.wired.com/story/are-digital-wall-calendars-worth-it/"/>
+        <updated>2026-03-24T16:00:00.000Z</updated>
+        <published>2026-03-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lego Star Wars Smart Play Throne Room Duel and A-Wing Review]]></title>
+        <id>https://www.wired.com/story/lego-star-wars-smart-play-throne-room-duel-a-wing-review/</id>
+        <link href="https://www.wired.com/story/lego-star-wars-smart-play-throne-room-duel-a-wing-review/"/>
         <updated>2026-03-24T16:00:00.000Z</updated>
         <published>2026-03-24T16:00:00.000Z</published>
     </entry>
@@ -25,6 +39,13 @@
         <title type="html"><![CDATA[Rover Promo Codes and Deals: Get Up to $50 This Month]]></title>
         <id>https://www.wired.com/story/rover-promo-code/</id>
         <link href="https://www.wired.com/story/rover-promo-code/"/>
+        <updated>2026-03-24T16:00:00.000Z</updated>
+        <published>2026-03-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iranians Don’t Have a Missile Alert System, So Volunteers Built Their Own Warning Map]]></title>
+        <id>https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/</id>
+        <link href="https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/"/>
         <updated>2026-03-24T16:00:00.000Z</updated>
         <published>2026-03-24T16:00:00.000Z</published>
     </entry>
@@ -316,23 +337,9 @@
         <published>2026-03-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prod Scale Visual Document Retrieval with ColModernVBERT and Qdrant for VLMs]]></title>
-        <id>https://pub.towardsai.net/prod-scale-visual-document-retrieval-with-colmodernvbert-and-qdrant-for-vlms-4e98dfc75e99?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/prod-scale-visual-document-retrieval-with-colmodernvbert-and-qdrant-for-vlms-4e98dfc75e99?source=rss----98111c9905da---4"/>
-        <updated>2026-03-24T16:00:00.000Z</updated>
-        <published>2026-03-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Claude Code’s /btw, /fork, and /rewind: The Context Hygiene Toolkit]]></title>
-        <id>https://pub.towardsai.net/mastering-claude-codes-btw-fork-and-rewind-the-context-hygiene-toolkit-5ceefa59623d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/mastering-claude-codes-btw-fork-and-rewind-the-context-hygiene-toolkit-5ceefa59623d?source=rss----98111c9905da---4"/>
-        <updated>2026-03-24T16:00:00.000Z</updated>
-        <published>2026-03-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your One Stop Reference for PatchTST, Because It Is the Only Time Series Model Which Listens!]]></title>
-        <id>https://pub.towardsai.net/your-one-stop-reference-for-patchtst-because-it-is-the-only-time-series-model-which-listens-4bf91145389b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-one-stop-reference-for-patchtst-because-it-is-the-only-time-series-model-which-listens-4bf91145389b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why My PyTorch Diffusion Model Was Slow — and How I Made It 3× Faster]]></title>
+        <id>https://pub.towardsai.net/why-my-pytorch-diffusion-model-was-slow-and-how-i-made-it-3-faster-1e3fe8bf0893?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-my-pytorch-diffusion-model-was-slow-and-how-i-made-it-3-faster-1e3fe8bf0893?source=rss----98111c9905da---4"/>
         <updated>2026-03-24T16:00:00.000Z</updated>
         <published>2026-03-24T16:00:00.000Z</published>
     </entry>
@@ -344,23 +351,16 @@
         <published>2026-03-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond Hard Constraints: Budget-Conditioned Reachability For Safe Offline Reinforcement Learning]]></title>
-        <id>https://arxiv.org/abs/2603.22292</id>
-        <link href="https://arxiv.org/abs/2603.22292"/>
+        <title type="html"><![CDATA[Your One Stop Reference for PatchTST, Because It Is the Only Time Series Model Which Listens!]]></title>
+        <id>https://pub.towardsai.net/your-one-stop-reference-for-patchtst-because-it-is-the-only-time-series-model-which-listens-4bf91145389b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-one-stop-reference-for-patchtst-because-it-is-the-only-time-series-model-which-listens-4bf91145389b?source=rss----98111c9905da---4"/>
         <updated>2026-03-24T16:00:00.000Z</updated>
         <published>2026-03-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Efficient Embedding-based Synthetic Data Generation for Complex Reasoning Tasks]]></title>
-        <id>https://arxiv.org/abs/2603.22294</id>
-        <link href="https://arxiv.org/abs/2603.22294"/>
-        <updated>2026-03-24T16:00:00.000Z</updated>
-        <published>2026-03-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Between the Layers Lies the Truth: Uncertainty Estimation in LLMs Using Intra-Layer Local Information Scores]]></title>
-        <id>https://arxiv.org/abs/2603.22299</id>
-        <link href="https://arxiv.org/abs/2603.22299"/>
+        <title type="html"><![CDATA[Mastering Claude Code’s /btw, /fork, and /rewind: The Context Hygiene Toolkit]]></title>
+        <id>https://pub.towardsai.net/mastering-claude-codes-btw-fork-and-rewind-the-context-hygiene-toolkit-5ceefa59623d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/mastering-claude-codes-btw-fork-and-rewind-the-context-hygiene-toolkit-5ceefa59623d?source=rss----98111c9905da---4"/>
         <updated>2026-03-24T16:00:00.000Z</updated>
         <published>2026-03-24T16:00:00.000Z</published>
     </entry>

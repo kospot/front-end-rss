@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-25 18:02:43。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-25 21:03:49。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -517,6 +517,7 @@
 - [【Hacker News】Show-HN:-Looking-for-feedback-on-a-Git-native-message-board](https://zenmemes.com/compose/thread)
 - [【Hacker News】I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4)
 - [【Hacker News】Telegram-Outages-Spike-in-Kremlin's-Push-for-Digital-Control](https://jamestown.org/telegram-outages-spike-in-kremlins-push-for-digital-control/)
+- [【Wired】The-Best-Digital-Wall-Calendar-2026:-Skylight,-Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

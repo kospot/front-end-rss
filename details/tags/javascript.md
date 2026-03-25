@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-25 18:02:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-25 21:03:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -97,8 +97,8 @@
 - [2026-03-23-Scalable-Learning-of-Multivariate-Distributions-via-Coresets](https://arxiv.org/abs/2603.19792) 
 - [2026-03-23-Continual-Learning-for-Food-Category-Classification-Dataset:-Enhancing-Model-Adaptability-and-Performance](https://arxiv.org/abs/2603.19624) 
 - [2026-03-25-Prod-Scale-Visual-Document-Retrieval-with-ColModernVBERT-and-Qdrant-for-VLMs](https://pub.towardsai.net/prod-scale-visual-document-retrieval-with-colmodernvbert-and-qdrant-for-vlms-4e98dfc75e99?source=rss----98111c9905da---4) 
-- [2026-03-24-This-196B-Open-Source-Model-Beats-Claude-Opus-4.5,](https://pub.towardsai.net/this-196b-open-source-model-beats-claude-opus-4-5-e4fe60852c24?source=rss----98111c9905da---4) 
 - [2026-03-24-How-I-Set-Up-OpenClaw-Across-Two-Macs-With-Git,-Tailscale,-and-macOS-Keychain](https://pub.towardsai.net/how-i-set-up-openclaw-across-two-macs-with-git-tailscale-and-macos-keychain-a62ed089ce86?source=rss----98111c9905da---4) 
+- [2026-03-24-This-196B-Open-Source-Model-Beats-Claude-Opus-4.5,](https://pub.towardsai.net/this-196b-open-source-model-beats-claude-opus-4-5-e4fe60852c24?source=rss----98111c9905da---4) 
 - [2026-03-23-How-to-Build-a-RAG-system-on-Azure:-From-Local-Dev-to-ProductionTerraform,-Python,-NextJS](https://pub.towardsai.net/how-to-build-a-rag-system-on-azure-from-local-dev-to-production-terraform-python-nextjs-28830602b84b?source=rss----98111c9905da---4) 
 - [2026-03-22-On-Prem-vs.-Proxy-Solutions-for-Secure-LLM-Usage:-A-Practical-Guide-for-Enterprises](https://pub.towardsai.net/on-prem-vs-proxy-solutions-for-secure-llm-usage-a-practical-guide-for-enterprises-fa928a4b249d?source=rss----98111c9905da---4) 
 - [2026-03-25-Half-of-VMware-users-plan-to-reduce-usage-by-2028](https://www.theregister.com/2026/03/24/vmware_usage_reduction_analysis/) 
@@ -134,8 +134,8 @@
 - [2026-03-24-Spotify’s-new-SongDNA-feature-maps-how-your-favorite-songs-are-connected](https://techcrunch.com/2026/03/24/spotifys-songdna-feature-lets-you-explore-the-connections-behind-your-favorite-songs/) 
 - [2026-03-24-FCC-bans-import-of-new-consumer-routers-made-overseas,-citing-security-risks](https://techcrunch.com/2026/03/24/fcc-bans-import-of-new-consumer-routers-made-overseas-citing-security-risks/) 
 - [2026-03-24-Ads-are-coming-to-Apple-Maps,-as-Apple-expands-its-business-offerings](https://techcrunch.com/2026/03/24/apple-maps-ads-apple-business/) 
-- [2026-03-25-Rover-Promo-Codes-and-Deals:-Get-Up-to-$50-This-Month](https://www.wired.com/story/rover-promo-code/) 
 - [2026-03-25-Iranians-Don’t-Have-a-Missile-Alert-System,-So-Volunteers-Built-Their-Own-Warning-Map](https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/) 
+- [2026-03-25-Rover-Promo-Codes-and-Deals:-Get-Up-to-$50-This-Month](https://www.wired.com/story/rover-promo-code/) 
 - [2026-03-24-ICE-Is-Paying-the-Salaries-of-This-Town’s-Entire-Police-Force](https://www.wired.com/story/ice-is-paying-the-salaries-of-this-towns-entire-police-force/) 
 - [2026-03-21-This-Compact-Bose-Soundbar-Is-$80-Off](https://www.wired.com/story/bose-smart-soundbar-deal-326/) 
 - [2026-03-20-China-Approves-the-First-Brain-Chips-for-Sale—and-Has-a-Plan-to-Dominate-the-Industry](https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/) 
