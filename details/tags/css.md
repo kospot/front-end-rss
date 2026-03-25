@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-25 06:01:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-25 08:01:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -69,7 +69,8 @@
 - [2026-03-23-Hyper-STTN:-Hypergraph-Augmented-Spatial-Temporal-Transformer-Network-for-Trajectory-Prediction](https://arxiv.org/abs/2401.06344) 
 - [2026-03-23-RayRoPE:-Projective-Ray-Positional-Encoding-for-Multi-view-Attention](https://arxiv.org/abs/2601.15275) 
 - [2026-02-24-Anthropic-accuses-DeepSeek,-Moonshot,-and-MiniMax-of-"industrial-scale-distillation-attacks".](https://news.smol.ai/issues/26-02-23-anthropic-distillation/) 
-- [2026-03-23-The-Great-CSS-Expansion](https://blog.gitbutler.com/the-great-css-expansion) 
-- [2026-03-23-Apply-video-compression-on-KV-cache-to-10,000x-less-error-at-Q4-quant](https://github.com/cenconq25/delta-compress-llm) 
-- [2026-03-23-ForgeKV-–-Redis-compatible-KV-server-in-Rust-that-scales-with-cores](https://github.com/ForgeKV/forgekv) 
+- [2026-03-25-Ask-HN:-Do-you-feel-less-happy-when-coding-with-agent?](https://news.ycombinator.com/item?id=47511075) 
 - [2026-03-23-Blessed.rs-–-Recommended-Crate-Directory](https://blessed.rs/crates) 
+- [2026-03-23-ForgeKV-–-Redis-compatible-KV-server-in-Rust-that-scales-with-cores](https://github.com/ForgeKV/forgekv) 
+- [2026-03-23-Apply-video-compression-on-KV-cache-to-10,000x-less-error-at-Q4-quant](https://github.com/cenconq25/delta-compress-llm) 
+- [2026-03-23-The-Great-CSS-Expansion](https://blog.gitbutler.com/the-great-css-expansion) 

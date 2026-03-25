@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-25 06:01:38。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-25 08:01:16。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -44,8 +44,9 @@
 - [【arXiv ML】Gym-TORAX:-Open-source-software-for-integrating-reinforcement-learning-with-plasma-control-simulators-in-tokamak-research](https://arxiv.org/abs/2510.11283)
 - [【Towards AI】A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)
 - [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
-- [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
+- [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
 - [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
+- [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -98,6 +99,7 @@
 
 
 - [【JavaScript Weekly】It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
+- [【Hacker News】Show-HN:-Safe-install-–-Docker-first-install-time-hardening-for-pip-and-NPM](https://github.com/Khaeldur/safe-install)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -204,6 +206,7 @@
 - [【CSS-Tricks】What’s-!important-#6:-:heading,-border-shape,-Truncating-Text-From-the-Middle,-and-More](https://css-tricks.com/whats-important-6/)
 - [【Smashing Magazine】Dropdowns-Inside-Scrollable-Containers:-Why-They-Break-And-How-To-Fix-Them-Properly](https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/)
 - [【Smashing Magazine】Moving-From-Moment.js-To-The-JS-Temporal-API](https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/)
+- [【Frontend Masters Blog】Shadow-DOM-Focus-Delegation:-Getting-delegatesFocus-Right](https://frontendmasters.com/blog/shadow-dom-focus-delegation-getting-delegatesfocus-right/)
 - [【Frontend Masters Blog】Goodbye-innerHTML,-Hello-setHTML](https://frontendmasters.com/blog/goodbye-innerhtml-hello-sethtml/)
 - [【美团技术团队】重塑站外体验：大众点评-M-站基于-Qwik.js-的重构实践](https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html)
 - [【arXiv ML】Nemotron-Cascade-2:-Post-Training-LLMs-with-Cascade-RL-and-Multi-Domain-On-Policy-Distillation](https://arxiv.org/abs/2603.19220)
@@ -216,7 +219,6 @@
 - [【arXiv ML】Tiny-Neural-Networks-for-Multi-Object-Tracking-in-a-Modular-Kalman-Framework](https://arxiv.org/abs/2504.02519)
 - [【arXiv ML】LOCO-Feature-Importance-Inference-without-Data-Splitting-via-Minipatch-Ensembles](https://arxiv.org/abs/2206.02088)
 - [【arXiv ML】T1:-One-to-One-Channel-Head-Binding-for-Multivariate-Time-Series-Imputation](https://arxiv.org/abs/2602.21043)
-- [【arXiv ML】On-Randomness-in-Agentic-Evals](https://arxiv.org/abs/2602.07150)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -278,15 +280,17 @@
 - [【arXiv ML】Confidence-Freeze:-Early-Success-Induces-a-Metastable-Decoupling-of-Metacognition-and-Behaviour](https://arxiv.org/abs/2603.21043)
 - [【arXiv ML】Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888)
 - [【Hacker News】Jury-finds-Meta-liable-in-case-over-child-sexual-exploitation-on-its-platforms](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)
+- [【Hacker News】Metasystemic](https://metasystemic.xyz)
+- [【Hacker News】Arm-releases-first-in-house-chip,-with-Meta-as-debut-customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
+- [【Hacker News】Meta-Harmed-Children,-Allowing-Adults-to-Prey-on-Them](https://www.wsj.com/tech/landmark-verdict-says-meta-harmed-children-allowing-adults-to-prey-on-them-cb3ad674)
 - [【Hacker News】ExifVoid-–-Client-side-photo-metadata-removal,-nothing-leaves-the-browser](https://www.exifvoid.com/)
-- [【Hacker News】VisionClaude-–-Open-Source-AI-Vision-for-iPhone-and-Meta-Ray-Ban-Glasses](https://github.com/mrdulasolutions/visionclaude)
-- [【Hacker News】Meta-faces-potential-billions-in-fines-in-trial-over-children's-safety-practices](https://www.latimes.com/business/story/2026-03-23/meta-faces-potential-billions-in-fines-in-trial-over-childrens-safety-practices)
 - [【Hacker News】The-Rise-of-the-Ray-Ban-Meta-Creep](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/)
+- [【Hacker News】Meta-faces-potential-billions-in-fines-in-trial-over-children's-safety-practices](https://www.latimes.com/business/story/2026-03-23/meta-faces-potential-billions-in-fines-in-trial-over-childrens-safety-practices)
+- [【Hacker News】VisionClaude-–-Open-Source-AI-Vision-for-iPhone-and-Meta-Ray-Ban-Glasses](https://github.com/mrdulasolutions/visionclaude)
 - [【Wired】The-Rise-of-the-Ray-Ban-Meta-Creep](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/)
-- [【Wired】Meta-Will-Keep-Horizon-Worlds-Alive-in-VR-‘for-the-Foreseeable-Future’](https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/)
-- [【Wired】‘Uncanny-Valley’:-Nvidia’s-‘Super-Bowl-of-AI,’-Tesla-Disappoints,-and-Meta’s-VR-Metaverse-‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/)
 - [【Wired】The-Danger-Behind-Meta-Killing-End-to-End-Encryption-for-Instagram-DMs](https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/)
-- [【Wired】Signal’s-Creator-Is-Helping-Encrypt-Meta-AI](https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/)
+- [【Wired】‘Uncanny-Valley’:-Nvidia’s-‘Super-Bowl-of-AI,’-Tesla-Disappoints,-and-Meta’s-VR-Metaverse-‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/)
+- [【Wired】Meta-Will-Keep-Horizon-Worlds-Alive-in-VR-‘for-the-Foreseeable-Future’](https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -348,15 +352,15 @@
 - [【arXiv ML】HELIX:-Scaling-Raw-Audio-Understanding-with-Hybrid-Mamba-Attention-Beyond-the-Quadratic-Limit](https://arxiv.org/abs/2603.21316)
 - [【arXiv ML】Pretrained-Video-Models-as-Differentiable-Physics-Simulators-for-Urban-Wind-Flows](https://arxiv.org/abs/2603.21210)
 - [【arXiv ML】IRIS:-A-Real-World-Benchmark-for-Inverse-Recovery-and-Identification-of-Physical-Dynamic-Systems-from-Monocular-Video](https://arxiv.org/abs/2603.16432)
-- [【Hacker News】Show-HN:-Using-the-Web-Audio-API-to-simulate-various-tuning-forks](https://github.com/evoluteur/healing-frequencies)
 - [【Hacker News】Patrick-Suppes-–-Foundations-of-Measurement-1981video](https://www.youtube.com/watch?v=oQyo3zTyvT4)
-- [【Hacker News】Show-HN:-Free-Online-Audio-Cut-–-Trim-MP3,-WAV-and-More](https://audiocut.io/)
-- [【Hacker News】BYD-Battery-Box-HVB-video](https://www.youtube.com/watch?v=WPTgg3joL5E)
+- [【Hacker News】Show-HN:-Using-the-Web-Audio-API-to-simulate-various-tuning-forks](https://github.com/evoluteur/healing-frequencies)
 - [【Hacker News】Precision-from-simple-parts---Machine-Thinkingvideo](https://www.youtube.com/watch?v=8VyyNsifckU)
-- [【TechCrunch】Roku’s-$3-Howdy-subscription-service-launches-on-Prime-Video](https://techcrunch.com/2026/03/24/rokus-3-howdy-subscription-service-launches-on-prime-video/)
-- [【TechCrunch】Mirage-raises-$75M-to-continue-building-models-for-its-AI-video-editing-app-Captions](https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/)
-- [【TechCrunch】Snapchat’s-new-‘AI-Clips’-Lens-format-turns-photos-into-five-second-videos](https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/)
+- [【Hacker News】BYD-Battery-Box-HVB-video](https://www.youtube.com/watch?v=WPTgg3joL5E)
+- [【Hacker News】Show-HN:-Free-Online-Audio-Cut-–-Trim-MP3,-WAV-and-More](https://audiocut.io/)
 - [【TechCrunch】Bernie-Sanders’-AI-‘gotcha’-video-flops,-but-the-memes-are-great](https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/)
+- [【TechCrunch】Snapchat’s-new-‘AI-Clips’-Lens-format-turns-photos-into-five-second-videos](https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/)
+- [【TechCrunch】Mirage-raises-$75M-to-continue-building-models-for-its-AI-video-editing-app-Captions](https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/)
+- [【TechCrunch】Roku’s-$3-Howdy-subscription-service-launches-on-Prime-Video](https://techcrunch.com/2026/03/24/rokus-3-howdy-subscription-service-launches-on-prime-video/)
 - [【Wired】Best-Premium-Soundbars:-Dolby-Atmos,-Hi-Res-Audio,-and-More](https://www.wired.com/gallery/best-premium-soundbars/)
 - [【少数派】少数派十四周年直播：我们挑选了这四类好产品](https://sspai.com/post/107428)
 - [......【查看更多】......](/details/tags/audio-video.md)
@@ -470,17 +474,17 @@
 - [【arXiv ML】EvidenceRL:-Reinforcing-Evidence-Consistency-for-Trustworthy-Language-Models](https://arxiv.org/abs/2603.19532)
 - [【arXiv ML】Simulation-based-Inference-with-the-Python-Package-sbijax](https://arxiv.org/abs/2409.19435)
 - [【arXiv ML】Learnability-with-Partial-Labels-and-Adaptive-Nearest-Neighbors](https://arxiv.org/abs/2603.15781)
-- [【Hacker News】Show-HN:-Pipguard-–-pre-install-malware-scanner-for-Python-supply-chain-attacks](https://github.com/atomsai/pipguard)
-- [【Hacker News】Kite-MCP-–-Trade-Indian-stocks-on-Zerodha-via-AI-conversation-MCP-server](https://github.com/aranjan/kite-mcp)
 - [【Hacker News】Show-HN:-Create-a-full-language-server-in-Go-with-3.17-spec-support](https://github.com/owenrumney/go-lsp)
-- [【Hacker News】Python-Software-Foundation-turned-down-Trump-admin-grant-2025](https://arstechnica.com/tech-policy/2025/10/python-foundation-rejects-1-5-million-grant-over-trump-admins-anti-dei-rules/)
+- [【Hacker News】Kite-MCP-–-Trade-Indian-stocks-on-Zerodha-via-AI-conversation-MCP-server](https://github.com/aranjan/kite-mcp)
+- [【Hacker News】Show-HN:-Pipguard-–-pre-install-malware-scanner-for-Python-supply-chain-attacks](https://github.com/atomsai/pipguard)
 - [【Hacker News】Gzip-decompression-in-250-lines-of-Rust](https://iev.ee/blog/gzip-decompression-in-250-lines-of-rust/)
-- [【Hacker News】Show-HN:-MCP-scan-–-Security-scanner-for-MCP-server-configs](https://github.com/rodolfboctor/mcp-scan)
-- [【Hacker News】Canonical-joins-the-Rust-Foundation-as-a-Gold-member](https://rustfoundation.org/media/canonical-joins-the-rust-foundation-as-a-gold-member/)
-- [【Hacker News】MCP-Registry-–-Open-source-discovery-layer-for-20-Model-Context-Protocol-servers](https://github.com/SirhanMacx/mcp-registry)
-- [【Hacker News】Why-I-Vibe-in-Go,-Not-Rust-or-Python](https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python)
-- [【Hacker News】Alpha-release:-HunterPrey,-a-persistent-SSH-PvP-world](https://hunterprey.com/)
+- [【Hacker News】Python-Software-Foundation-turned-down-Trump-admin-grant-2025](https://arstechnica.com/tech-policy/2025/10/python-foundation-rejects-1-5-million-grant-over-trump-admins-anti-dei-rules/)
 - [【Hacker News】Chainguard-is-racing-to-fix-trust-in-AI-built-software](https://www.zdnet.com/article/how-chainguard-is-fixing-trust-in-ai-built-software/)
+- [【Hacker News】Alpha-release:-HunterPrey,-a-persistent-SSH-PvP-world](https://hunterprey.com/)
+- [【Hacker News】Why-I-Vibe-in-Go,-Not-Rust-or-Python](https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python)
+- [【Hacker News】MCP-Registry-–-Open-source-discovery-layer-for-20-Model-Context-Protocol-servers](https://github.com/SirhanMacx/mcp-registry)
+- [【Hacker News】Canonical-joins-the-Rust-Foundation-as-a-Gold-member](https://rustfoundation.org/media/canonical-joins-the-rust-foundation-as-a-gold-member/)
+- [【Hacker News】Show-HN:-MCP-scan-–-Security-scanner-for-MCP-server-configs](https://github.com/rodolfboctor/mcp-scan)
 - [【TechCrunch】Pinterest-launches-a-new-feature-to-promote-a-Pin](https://techcrunch.com/2026/03/24/pinterest-launches-a-new-feature-to-promote-a-pin/)
 - [【TechCrunch】Federal-immigration-agents-filmed-making-airport-arrests-as-Trump-calls-in-ICE-to-ease-security-line-delays](https://techcrunch.com/2026/03/23/federal-immigration-agents-filmed-making-airport-arrests-as-trump-calls-in-ice-to-ease-security-line-delays/)
 - [......【查看更多】......](/details/tags/server.md)
@@ -506,8 +510,8 @@
 - [【GitHub Engineering】GitHub-availability-report:-February-2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/)
 - [【GitHub Engineering】Under-the-hood:-Security-architecture-of-GitHub-Agentic-Workflows](https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/)
 - [【arXiv ML】SDE-Driven-Spatio-Temporal-Hypergraph-Neural-Networks-for-Irregular-Longitudinal-fMRI-Connectome-Modeling-in-Alzheimer's-Disease](https://arxiv.org/abs/2603.20452)
-- [【Hacker News】Telegram-Outages-Spike-in-Kremlin's-Push-for-Digital-Control](https://jamestown.org/telegram-outages-spike-in-kremlins-push-for-digital-control/)
 - [【Hacker News】I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4)
+- [【Hacker News】Telegram-Outages-Spike-in-Kremlin's-Push-for-Digital-Control](https://jamestown.org/telegram-outages-spike-in-kremlins-push-for-digital-control/)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -526,6 +530,7 @@
 
 - [【阮一峰】科技爱好者周刊（第-389-期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)
 - [【Hacker News】Kentucky-family-rejects-$$26M-offer-to-convert-farm-into-data-center](https://twitter.com/CollinRugg/status/2036237284601913674)
+- [【TechCrunch】Kentucky-woman-rejects-$26M-offer-to-turn-her-farm-into-a-data-center](https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/)
 - [......【查看更多】......](/details/tags/job-interview.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -552,10 +557,10 @@
 - [【Smashing Magazine】Now-Shipping:-Accessible-UX-Research,-A-New-Smashing-Book-By-Michele-Williams](https://smashingmagazine.com/2026/03/accessible-ux-research-release/)
 - [【Smashing Magazine】Fresh-Energy-In-March-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/)
 - [【Smashing Magazine】Say-Cheese!-Meet-SmashingConf-Amsterdam-🇳🇱](https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/)
-- [【Frontend Masters Blog】Image-Gallery-with-Popovers-and-AIM-Anchor-Interpolated-Morph](https://frontendmasters.com/blog/image-gallery-with-popovers-and-aim-anchor-interpolated-morph/)
 - [【Frontend Masters Blog】BaseWatch](https://frontendmasters.com/blog/basewatch/)
-- [【Frontend Masters Blog】Collaborative-Markdown](https://frontendmasters.com/blog/collaborative-markdown/)
+- [【Frontend Masters Blog】Image-Gallery-with-Popovers-and-AIM-Anchor-Interpolated-Morph](https://frontendmasters.com/blog/image-gallery-with-popovers-and-aim-anchor-interpolated-morph/)
 - [【Frontend Masters Blog】Form-Associated-Custom-Elements-in-Practice](https://frontendmasters.com/blog/form-associated-custom-elements-in-practice/)
+- [【Frontend Masters Blog】Collaborative-Markdown](https://frontendmasters.com/blog/collaborative-markdown/)
 - [【Frontend Masters Blog】The-Enforced-Accessibility-of-the-Geolocation-Element](https://frontendmasters.com/blog/the-enforced-accessibility-of-the-geolocation-element/)
 - [【张鑫旭】浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)
 - [【张鑫旭】点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/)
