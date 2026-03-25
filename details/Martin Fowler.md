@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-25 23:02:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-26 06:01:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Martin Fowler
 
@@ -14,4 +14,3 @@
 - [2026-03-04-Humans-and-Agents-in-Software-Engineering-Loops](https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html) 
 - [2026-03-03-Design-First-Collaboration](https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html) 
 - [2026-02-25-Fragments:-February-25](https://martinfowler.com/fragments/2026-02-25.html) 
-- [2026-02-24-Knowledge-Priming](https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html) 
