@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-26T00:01:47.216Z</updated>
+    <updated>2026-03-26T02:02:13.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[派早报：英特尔推出 IBOT 二进制优化技术、3 英寸小屏手机 Meadow 1 亮相等]]></title>
+        <id>https://sspai.com/post/107831</id>
+        <link href="https://sspai.com/post/107831"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Spring Sale Deal: The Typhur Dome 2 Air Fryer Is 30% Off]]></title>
         <id>https://www.wired.com/story/typhur-dome-2-air-fryer-deal-amazon-spring-sale/</id>
@@ -43,30 +50,9 @@
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks]]></title>
-        <id>https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/</id>
-        <link href="https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’]]></title>
-        <id>https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/</id>
-        <link href="https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jury finds Meta and Google negligent in landmark social media addiction trial]]></title>
-        <id>https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/</id>
-        <link href="https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta is cutting several hundred jobs]]></title>
-        <id>https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/</id>
-        <link href="https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/"/>
+        <title type="html"><![CDATA[Russia arrests alleged owner of cybercrime forum LeakBase, report says]]></title>
+        <id>https://techcrunch.com/2026/03/25/russia-arrests-alleged-owner-of-cybercrime-forum-leakbase-report-says/</id>
+        <link href="https://techcrunch.com/2026/03/25/russia-arrests-alleged-owner-of-cybercrime-forum-leakbase-report-says/"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
@@ -78,121 +64,58 @@
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Russia arrests alleged owner of cybercrime forum LeakBase, report says]]></title>
-        <id>https://techcrunch.com/2026/03/25/russia-arrests-alleged-owner-of-cybercrime-forum-leakbase-report-says/</id>
-        <link href="https://techcrunch.com/2026/03/25/russia-arrests-alleged-owner-of-cybercrime-forum-leakbase-report-says/"/>
+        <title type="html"><![CDATA[Meta is cutting several hundred jobs]]></title>
+        <id>https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/</id>
+        <link href="https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Created Rosie's mRNA Vaccine Protocol]]></title>
-        <id>https://twitter.com/paul_conyngham/status/2036940410363535823</id>
-        <link href="https://twitter.com/paul_conyngham/status/2036940410363535823"/>
+        <title type="html"><![CDATA[Jury finds Meta and Google negligent in landmark social media addiction trial]]></title>
+        <id>https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/</id>
+        <link href="https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a tiny CLI that writes my commit messages from Git diff]]></title>
-        <id>https://github.com/saccofrancesco/gitsloth</id>
-        <link href="https://github.com/saccofrancesco/gitsloth"/>
+        <title type="html"><![CDATA[Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’]]></title>
+        <id>https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/</id>
+        <link href="https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPU's Are Being Wasted]]></title>
-        <id>https://getlilac.com/blog/gpu-scarcity-paradox</id>
-        <link href="https://getlilac.com/blog/gpu-scarcity-paradox"/>
+        <title type="html"><![CDATA[Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks]]></title>
+        <id>https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/</id>
+        <link href="https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zephyr Zero JavaScript Framework]]></title>
-        <id>https://github.com/daltlc/zephyr-framework</id>
-        <link href="https://github.com/daltlc/zephyr-framework"/>
+        <title type="html"><![CDATA[Bee Dancing Is Better with the Right Audience]]></title>
+        <id>https://today.ucsd.edu/story/bee-dancing-is-better-with-the-right-audience</id>
+        <link href="https://today.ucsd.edu/story/bee-dancing-is-better-with-the-right-audience"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Attributed Claude activity over the last 90 days on GitHub]]></title>
-        <id>https://www.claudescode.dev/?window=90d</id>
-        <link href="https://www.claudescode.dev/?window=90d"/>
+        <title type="html"><![CDATA[GitHub expands AI bug detection, but recent outages hit Actions, API, and Git]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stedi's $70M Series B to Build the Only AI-Enabled Clearinghouse]]></title>
-        <id>https://www.healthcareittoday.com/2025/09/09/announcing-stedis-70-million-series-b-to-build-the-only-ai-enabled-clearinghouse/</id>
-        <link href="https://www.healthcareittoday.com/2025/09/09/announcing-stedis-70-million-series-b-to-build-the-only-ai-enabled-clearinghouse/"/>
+        <title type="html"><![CDATA[GitKingdom – GitHub repos in a procedurally generated fantasy world]]></title>
+        <id>https://www.gitkingdom.com/</id>
+        <link href="https://www.gitkingdom.com/"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qualified Health raises $125M to scale enterprise AI at health systems]]></title>
-        <id>https://www.fiercehealthcare.com/ai-and-machine-learning/qualified-health-locks-125m-fresh-funding-scale-ai-health-systems</id>
-        <link href="https://www.fiercehealthcare.com/ai-and-machine-learning/qualified-health-locks-125m-fresh-funding-scale-ai-health-systems"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google is first hyperscaler to promise GW-scale power demand response]]></title>
-        <id>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/demand-response-data-center-milestone/</id>
-        <link href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/demand-response-data-center-milestone/"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cursive Transformer]]></title>
-        <id>https://greydanus.github.io/2025/03/30/cursive-transformer/</id>
-        <link href="https://greydanus.github.io/2025/03/30/cursive-transformer/"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrant children detained California used as bait to arrest and deport parents]]></title>
-        <id>https://laist.com/news/migrant-children-southern-california-used-as-bait-to-arrest-deport-parents</id>
-        <link href="https://laist.com/news/migrant-children-southern-california-used-as-bait-to-arrest-deport-parents"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI and Git Worktree: a multi-agent setup that works]]></title>
-        <id>https://www.memmof.dev/writing/git-worktree-ai-agents</id>
-        <link href="https://www.memmof.dev/writing/git-worktree-ai-agents"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRINC's new police drone uses Starlink, carries Narcan, chases vehicles at 60mph]]></title>
-        <id>https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/</id>
-        <link href="https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bruno: The Git-native API client]]></title>
-        <id>https://www.usebruno.com</id>
-        <link href="https://www.usebruno.com"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I coded Podhoc – Podcast generator to learn on the go]]></title>
-        <id>https://podhoc.com</id>
-        <link href="https://podhoc.com"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Rostra – Scroll the Greats]]></title>
-        <id>https://www.readrostra.com</id>
-        <link href="https://www.readrostra.com"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To Get a Government Contract in 38 States, You Must Pledge Not to Boycott Israel]]></title>
-        <id>https://www.aclu.org/news/free-speech/congress-laws-suppressing-boycotts-israel-are-unconstitutional-sincerely-three</id>
-        <link href="https://www.aclu.org/news/free-speech/congress-laws-suppressing-boycotts-israel-are-unconstitutional-sincerely-three"/>
+        <title type="html"><![CDATA[Quiver – diff viewing hasn't changed for decades, we still squint on lines]]></title>
+        <id>https://ataraxy-labs.github.io/quiver/</id>
+        <link href="https://ataraxy-labs.github.io/quiver/"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
@@ -204,30 +127,121 @@
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is an API? A Simple Guide for Beginners (With Real Examples)]]></title>
-        <id>https://pub.towardsai.net/what-is-an-api-a-simple-guide-for-beginners-with-real-examples-16b3be032d1f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-is-an-api-a-simple-guide-for-beginners-with-real-examples-16b3be032d1f?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[To Get a Government Contract in 38 States, You Must Pledge Not to Boycott Israel]]></title>
+        <id>https://www.aclu.org/news/free-speech/congress-laws-suppressing-boycotts-israel-are-unconstitutional-sincerely-three</id>
+        <link href="https://www.aclu.org/news/free-speech/congress-laws-suppressing-boycotts-israel-are-unconstitutional-sincerely-three"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Reads Every Word You Say. It Still Gets You Wrong.]]></title>
-        <id>https://pub.towardsai.net/ai-reads-every-word-you-say-it-still-gets-you-wrong-e5bb7d0dec9f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ai-reads-every-word-you-say-it-still-gets-you-wrong-e5bb7d0dec9f?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Rostra – Scroll the Greats]]></title>
+        <id>https://www.readrostra.com</id>
+        <link href="https://www.readrostra.com"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Just Acqui-Hired Its 4th AI Startup in 4 Months. Zuckerberg’s Agent Empire Is Taking Shape.]]></title>
-        <id>https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: I coded Podhoc – Podcast generator to learn on the go]]></title>
+        <id>https://podhoc.com</id>
+        <link href="https://podhoc.com"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crack ML Interviews with Confidence: K-means Clustering (20 Q&A)]]></title>
-        <id>https://pub.towardsai.net/crack-ml-interviews-with-confidence-k-means-clustering-20-q-a-d062c3fe97ef?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/crack-ml-interviews-with-confidence-k-means-clustering-20-q-a-d062c3fe97ef?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Bruno: The Git-native API client]]></title>
+        <id>https://www.usebruno.com</id>
+        <link href="https://www.usebruno.com"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRINC's new police drone uses Starlink, carries Narcan, chases vehicles at 60mph]]></title>
+        <id>https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/</id>
+        <link href="https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI and Git Worktree: a multi-agent setup that works]]></title>
+        <id>https://www.memmof.dev/writing/git-worktree-ai-agents</id>
+        <link href="https://www.memmof.dev/writing/git-worktree-ai-agents"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrant children detained California used as bait to arrest and deport parents]]></title>
+        <id>https://laist.com/news/migrant-children-southern-california-used-as-bait-to-arrest-deport-parents</id>
+        <link href="https://laist.com/news/migrant-children-southern-california-used-as-bait-to-arrest-deport-parents"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cursive Transformer]]></title>
+        <id>https://greydanus.github.io/2025/03/30/cursive-transformer/</id>
+        <link href="https://greydanus.github.io/2025/03/30/cursive-transformer/"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google is first hyperscaler to promise GW-scale power demand response]]></title>
+        <id>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/demand-response-data-center-milestone/</id>
+        <link href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/demand-response-data-center-milestone/"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualified Health raises $125M to scale enterprise AI at health systems]]></title>
+        <id>https://www.fiercehealthcare.com/ai-and-machine-learning/qualified-health-locks-125m-fresh-funding-scale-ai-health-systems</id>
+        <link href="https://www.fiercehealthcare.com/ai-and-machine-learning/qualified-health-locks-125m-fresh-funding-scale-ai-health-systems"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stedi's $70M Series B to Build the Only AI-Enabled Clearinghouse]]></title>
+        <id>https://www.healthcareittoday.com/2025/09/09/announcing-stedis-70-million-series-b-to-build-the-only-ai-enabled-clearinghouse/</id>
+        <link href="https://www.healthcareittoday.com/2025/09/09/announcing-stedis-70-million-series-b-to-build-the-only-ai-enabled-clearinghouse/"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attributed Claude activity over the last 90 days on GitHub]]></title>
+        <id>https://www.claudescode.dev/?window=90d</id>
+        <link href="https://www.claudescode.dev/?window=90d"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zephyr Zero JavaScript Framework]]></title>
+        <id>https://github.com/daltlc/zephyr-framework</id>
+        <link href="https://github.com/daltlc/zephyr-framework"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPU's Are Being Wasted]]></title>
+        <id>https://getlilac.com/blog/gpu-scarcity-paradox</id>
+        <link href="https://getlilac.com/blog/gpu-scarcity-paradox"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a tiny CLI that writes my commit messages from Git diff]]></title>
+        <id>https://github.com/saccofrancesco/gitsloth</id>
+        <link href="https://github.com/saccofrancesco/gitsloth"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Created Rosie's mRNA Vaccine Protocol]]></title>
+        <id>https://twitter.com/paul_conyngham/status/2036940410363535823</id>
+        <link href="https://twitter.com/paul_conyngham/status/2036940410363535823"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Automated My Entire Weekly Report With Python in Fabric Notebooks — Here’s the Exact Code]]></title>
+        <id>https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
@@ -239,9 +253,30 @@
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Automated My Entire Weekly Report With Python in Fabric Notebooks — Here’s the Exact Code]]></title>
-        <id>https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Crack ML Interviews with Confidence: K-means Clustering (20 Q&A)]]></title>
+        <id>https://pub.towardsai.net/crack-ml-interviews-with-confidence-k-means-clustering-20-q-a-d062c3fe97ef?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/crack-ml-interviews-with-confidence-k-means-clustering-20-q-a-d062c3fe97ef?source=rss----98111c9905da---4"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Just Acqui-Hired Its 4th AI Startup in 4 Months. Zuckerberg’s Agent Empire Is Taking Shape.]]></title>
+        <id>https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Reads Every Word You Say. It Still Gets You Wrong.]]></title>
+        <id>https://pub.towardsai.net/ai-reads-every-word-you-say-it-still-gets-you-wrong-e5bb7d0dec9f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-reads-every-word-you-say-it-still-gets-you-wrong-e5bb7d0dec9f?source=rss----98111c9905da---4"/>
+        <updated>2026-03-25T16:00:00.000Z</updated>
+        <published>2026-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an API? A Simple Guide for Beginners (With Real Examples)]]></title>
+        <id>https://pub.towardsai.net/what-is-an-api-a-simple-guide-for-beginners-with-real-examples-16b3be032d1f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-is-an-api-a-simple-guide-for-beginners-with-real-examples-16b3be032d1f?source=rss----98111c9905da---4"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>
@@ -295,37 +330,9 @@
         <published>2026-03-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A former Thiel fellow’s startup just launched a drone it says can replace police helicopters]]></title>
-        <id>https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/</id>
-        <link href="https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/"/>
-        <updated>2026-03-24T16:00:00.000Z</updated>
-        <published>2026-03-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down]]></title>
-        <id>https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/</id>
-        <link href="https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/"/>
-        <updated>2026-03-24T16:00:00.000Z</updated>
-        <published>2026-03-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accel, Prosus pick six ‘off-the-map’ startups for inaugural India cohort]]></title>
-        <id>https://techcrunch.com/2026/03/24/accel-prosus-pick-six-off-the-map-startups-for-inaugural-india-cohort-atoms/</id>
-        <link href="https://techcrunch.com/2026/03/24/accel-prosus-pick-six-off-the-map-startups-for-inaugural-india-cohort-atoms/"/>
-        <updated>2026-03-24T16:00:00.000Z</updated>
-        <published>2026-03-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Music partners with Ticketmaster to power its concert discovery feature]]></title>
-        <id>https://techcrunch.com/2026/03/24/apple-music-partners-with-ticketmaster-to-power-its-concert-discovery-feature/</id>
-        <link href="https://techcrunch.com/2026/03/24/apple-music-partners-with-ticketmaster-to-power-its-concert-discovery-feature/"/>
-        <updated>2026-03-24T16:00:00.000Z</updated>
-        <published>2026-03-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching]]></title>
-        <id>https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/</id>
-        <link href="https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/"/>
+        <title type="html"><![CDATA[Meta launches new initiative to support entrepreneurship, drive AI adoption]]></title>
+        <id>https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/</id>
+        <link href="https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/"/>
         <updated>2026-03-24T16:00:00.000Z</updated>
         <published>2026-03-24T16:00:00.000Z</published>
     </entry>
@@ -337,30 +344,23 @@
         <published>2026-03-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta launches new initiative to support entrepreneurship, drive AI adoption]]></title>
-        <id>https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/</id>
-        <link href="https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/"/>
+        <title type="html"><![CDATA[New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching]]></title>
+        <id>https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/</id>
+        <link href="https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/"/>
         <updated>2026-03-24T16:00:00.000Z</updated>
         <published>2026-03-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How AI Kills at Scale]]></title>
-        <id>https://msukhareva.substack.com/p/how-ai-kills-at-scale</id>
-        <link href="https://msukhareva.substack.com/p/how-ai-kills-at-scale"/>
+        <title type="html"><![CDATA[Apple Music partners with Ticketmaster to power its concert discovery feature]]></title>
+        <id>https://techcrunch.com/2026/03/24/apple-music-partners-with-ticketmaster-to-power-its-concert-discovery-feature/</id>
+        <link href="https://techcrunch.com/2026/03/24/apple-music-partners-with-ticketmaster-to-power-its-concert-discovery-feature/"/>
         <updated>2026-03-24T16:00:00.000Z</updated>
         <published>2026-03-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building pentest devices with Rust and an ESP32-C6]]></title>
-        <id>https://kerkour.com/rust-esp32-pentest</id>
-        <link href="https://kerkour.com/rust-esp32-pentest"/>
-        <updated>2026-03-24T16:00:00.000Z</updated>
-        <published>2026-03-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phlogiston Forty Four: An Interview with Roger Zelazny]]></title>
-        <id>https://web.archive.org/web/20080216071439/http://zelazny.corrupt.net/phlog44rzint.txt</id>
-        <link href="https://web.archive.org/web/20080216071439/http://zelazny.corrupt.net/phlog44rzint.txt"/>
+        <title type="html"><![CDATA[Accel, Prosus pick six ‘off-the-map’ startups for inaugural India cohort]]></title>
+        <id>https://techcrunch.com/2026/03/24/accel-prosus-pick-six-off-the-map-startups-for-inaugural-india-cohort-atoms/</id>
+        <link href="https://techcrunch.com/2026/03/24/accel-prosus-pick-six-off-the-map-startups-for-inaugural-india-cohort-atoms/"/>
         <updated>2026-03-24T16:00:00.000Z</updated>
         <published>2026-03-24T16:00:00.000Z</published>
     </entry>
