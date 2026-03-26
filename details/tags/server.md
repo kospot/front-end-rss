@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-26 10:02:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-26 12:03:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -7,17 +7,20 @@
 
 
 
-- [2026-03-25-An-Accurate-and-Interpretable-Framework-for-Trustworthy-Process-Monitoring](https://arxiv.org/abs/2302.10426) 
+- [2026-03-26-Why-Machine-Learning-Models-Systematically-Underestimate-Extreme-Values-II:-How-to-Fix-It-with-LatentNN](https://arxiv.org/abs/2512.23138) 
+- [2026-03-26-Trust-Region-Constrained-Bayesian-Optimization-with-Penalized-Constraint-Handling](https://arxiv.org/abs/2603.24567) 
+- [2026-03-26-MDKeyChunker:-Single-Call-LLM-Enrichment-with-Rolling-Keys-and-Key-Based-Restructuring-for-High-Accuracy-RAG](https://arxiv.org/abs/2603.23533) 
 - [2026-03-25-A-Bayesian-Learning-Approach-for-Drone-Coverage-Network:-A-Case-Study-on-Cardiac-Arrest-in-Scotland](https://arxiv.org/abs/2603.23134) 
-- [2026-03-24-TrustFed:-Enabling-Trustworthy-Medical-AI-under-Data-Privacy-Constraints](https://arxiv.org/abs/2603.21656) 
-- [2026-03-24-Verifiable-Error-Bounds-for-Physics-Informed-Neural-KKL-Observers](https://arxiv.org/abs/2603.20434) 
-- [2026-03-24-SSR:-Speculative-Parallel-Scaling-Reasoning-in-Test-time](https://arxiv.org/abs/2505.15340) 
+- [2026-03-25-An-Accurate-and-Interpretable-Framework-for-Trustworthy-Process-Monitoring](https://arxiv.org/abs/2302.10426) 
 - [2026-03-24-BayesFlow-2:-Multi-Backend-Amortized-Bayesian-Inference-in-Python](https://arxiv.org/abs/2602.07098) 
-- [2026-03-23-Learnability-with-Partial-Labels-and-Adaptive-Nearest-Neighbors](https://arxiv.org/abs/2603.15781) 
-- [2026-03-23-Simulation-based-Inference-with-the-Python-Package-sbijax](https://arxiv.org/abs/2409.19435) 
+- [2026-03-24-SSR:-Speculative-Parallel-Scaling-Reasoning-in-Test-time](https://arxiv.org/abs/2505.15340) 
+- [2026-03-24-Verifiable-Error-Bounds-for-Physics-Informed-Neural-KKL-Observers](https://arxiv.org/abs/2603.20434) 
+- [2026-03-24-TrustFed:-Enabling-Trustworthy-Medical-AI-under-Data-Privacy-Constraints](https://arxiv.org/abs/2603.21656) 
 - [2026-03-23-EvidenceRL:-Reinforcing-Evidence-Consistency-for-Trustworthy-Language-Models](https://arxiv.org/abs/2603.19532) 
-- [2026-03-26-AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4) 
+- [2026-03-23-Simulation-based-Inference-with-the-Python-Package-sbijax](https://arxiv.org/abs/2409.19435) 
+- [2026-03-23-Learnability-with-Partial-Labels-and-Adaptive-Nearest-Neighbors](https://arxiv.org/abs/2603.15781) 
 - [2026-03-26-I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4) 
+- [2026-03-26-AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4) 
 - [2026-03-25-The-Context-Reliability-Framework-CRF:-A-Production-Architecture-for-Trustworthy-AI-Systems](https://pub.towardsai.net/the-context-reliability-framework-crf-a-production-architecture-for-trustworthy-ai-systems-05d359aa5447?source=rss----98111c9905da---4) 
 - [2026-03-26-Migrant-children-detained-California-used-as-bait-to-arrest-and-deport-parents](https://laist.com/news/migrant-children-southern-california-used-as-bait-to-arrest-deport-parents) 
 - [2026-03-25-Building-pentest-devices-with-Rust-and-an-ESP32-C6](https://kerkour.com/rust-esp32-pentest) 

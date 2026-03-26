@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-26 10:02:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-26 12:03:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -14,6 +14,9 @@
 - [2026-03-12-GitHub-availability-report:-February-2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/) 
 - [2026-03-12-Addressing-GitHub’s-recent-availability-issues](https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/) 
 - [2026-03-10-Under-the-hood:-Security-architecture-of-GitHub-Agentic-Workflows](https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/) 
+- [2026-03-26-Continuous-Time-Learning-of-Probability-Distributions:-A-Case-Study-in-a-Digital-Trial-of-Young-Children-with-Type-1-Diabetes](https://arxiv.org/abs/2603.24427) 
+- [2026-03-26-Digital-Twin-Assisted-Measurement-Design-and-Channel-Statistics-Prediction](https://arxiv.org/abs/2603.23787) 
+- [2026-03-26-The-Economics-of-Builder-Saturation-in-Digital-Markets](https://arxiv.org/abs/2603.23685) 
 - [2026-03-24-SDE-Driven-Spatio-Temporal-Hypergraph-Neural-Networks-for-Irregular-Longitudinal-fMRI-Connectome-Modeling-in-Alzheimer's-Disease](https://arxiv.org/abs/2603.20452) 
 - [2026-03-26-I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth) 
 - [2026-03-26-GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/) 
