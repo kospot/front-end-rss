@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-26 18:01:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-26 21:03:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -31,3 +31,4 @@
 - [2026-03-23-Predicting-Hidden-Links-and-Missing-Nodes-in-Scale-Free-Networks-with-Artificial-Neural-Networks](https://arxiv.org/abs/2109.12331) 
 - [2026-03-25-Show-HN:-Herd-–-A-Go-sidecar-to-stop-stateful-processes-Puppeteer/LLMs-from-OOM](https://news.ycombinator.com/item?id=47511866) 
 - [2026-03-23-Show-HN:-Linkpeek-–-link-preview-for-Node.js,-Bun,-and-Deno-1-dependency](https://github.com/thegruber/linkpeek) 
+- [2026-03-26-How-to-Buy-Ethical-and-Eco-Friendly-Electronics-2026](https://www.wired.com/story/how-to-buy-ethical-and-eco-friendly-electronics/) 
