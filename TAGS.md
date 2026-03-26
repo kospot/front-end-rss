@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-26 15:02:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-26 18:01:25。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -47,10 +47,10 @@
 - [【arXiv ML】Gym-TORAX:-Open-source-software-for-integrating-reinforcement-learning-with-plasma-control-simulators-in-tokamak-research](https://arxiv.org/abs/2510.11283)
 - [【Towards AI】Building-a-Financial-Research-Agent-with-ReAct,-LangGraph,-and-LangChain](https://pub.towardsai.net/building-a-financial-research-agent-with-react-langgraph-and-langchain-c5d5142d8b29?source=rss----98111c9905da---4)
 - [【Towards AI】A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)
-- [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
 - [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
-- [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
+- [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
 - [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
+- [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -291,14 +291,14 @@
 - [【arXiv ML】Confidence-Freeze:-Early-Success-Induces-a-Metastable-Decoupling-of-Metacognition-and-Behaviour](https://arxiv.org/abs/2603.21043)
 - [【arXiv ML】Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888)
 - [【Towards AI】Meta-Just-Acqui-Hired-Its-4th-AI-Startup-in-4-Months.-Zuckerberg’s-Agent-Empire-Is-Taking-Shape.](https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4)
-- [【Hacker News】Meta-Harmed-Children,-Allowing-Adults-to-Prey-on-Them](https://www.wsj.com/tech/landmark-verdict-says-meta-harmed-children-allowing-adults-to-prey-on-them-cb3ad674)
-- [【Hacker News】Arm-releases-first-in-house-chip,-with-Meta-as-debut-customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
-- [【Hacker News】Metasystemic](https://metasystemic.xyz)
-- [【Hacker News】Jury-finds-Meta-liable-in-case-over-child-sexual-exploitation-on-its-platforms](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)
+- [【Hacker News】MetaImGui](https://github.com/andynicholson/MetaImGUI)
 - [【Hacker News】Some-Meta-employees-were-told-to-work-remotely-for-the-day-as-layoffs-loom](https://www.businessinsider.com/meta-employees-work-remotely-email-layoffs-hr-wfh-2026-3)
+- [【Hacker News】Jury-finds-Meta-liable-in-case-over-child-sexual-exploitation-on-its-platforms](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)
+- [【Hacker News】Metasystemic](https://metasystemic.xyz)
+- [【Hacker News】Arm-releases-first-in-house-chip,-with-Meta-as-debut-customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
+- [【Hacker News】Meta-Harmed-Children,-Allowing-Adults-to-Prey-on-Them](https://www.wsj.com/tech/landmark-verdict-says-meta-harmed-children-allowing-adults-to-prey-on-them-cb3ad674)
 - [【Hacker News】ExifVoid-–-Client-side-photo-metadata-removal,-nothing-leaves-the-browser](https://www.exifvoid.com/)
-- [【Hacker News】VisionClaude-–-Open-Source-AI-Vision-for-iPhone-and-Meta-Ray-Ban-Glasses](https://github.com/mrdulasolutions/visionclaude)
-- [【Hacker News】Meta-faces-potential-billions-in-fines-in-trial-over-children's-safety-practices](https://www.latimes.com/business/story/2026-03-23/meta-faces-potential-billions-in-fines-in-trial-over-childrens-safety-practices)
+- [【Hacker News】The-Rise-of-the-Ray-Ban-Meta-Creep](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -368,9 +368,9 @@
 - [【arXiv ML】HELIX:-Scaling-Raw-Audio-Understanding-with-Hybrid-Mamba-Attention-Beyond-the-Quadratic-Limit](https://arxiv.org/abs/2603.21316)
 - [【arXiv ML】Pretrained-Video-Models-as-Differentiable-Physics-Simulators-for-Urban-Wind-Flows](https://arxiv.org/abs/2603.21210)
 - [【arXiv ML】IRIS:-A-Real-World-Benchmark-for-Inverse-Recovery-and-Identification-of-Physical-Dynamic-Systems-from-Monocular-Video](https://arxiv.org/abs/2603.16432)
-- [【Hacker News】Rise-and-Fall-of-the-Cloud-–-Again-with-Tom-Lyon-video](https://www.youtube.com/watch?v=1D5cjOVR-3k)
+- [【Hacker News】Ireland's-first-mobile-video-call-via-satellite-is-made](https://www.rte.ie/news/business/2026/0326/1565222-satellite-call-ireland/)
 - [【Hacker News】I-Spoke-to-the-Dev-Behind-the-Systemd-Birth-Date-Change-video](https://www.youtube.com/watch?v=8bAN4Jam974)
-- [【Hacker News】Show-HN:-Using-the-Web-Audio-API-to-simulate-various-tuning-forks](https://github.com/evoluteur/healing-frequencies)
+- [【Hacker News】Rise-and-Fall-of-the-Cloud-–-Again-with-Tom-Lyon-video](https://www.youtube.com/watch?v=1D5cjOVR-3k)
 - [......【查看更多】......](/details/tags/audio-video.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -492,10 +492,10 @@
 - [【Towards AI】I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4)
 - [【Towards AI】AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4)
 - [【Towards AI】The-Context-Reliability-Framework-CRF:-A-Production-Architecture-for-Trustworthy-AI-Systems](https://pub.towardsai.net/the-context-reliability-framework-crf-a-production-architecture-for-trustworthy-ai-systems-05d359aa5447?source=rss----98111c9905da---4)
-- [【Hacker News】Migrant-children-detained-California-used-as-bait-to-arrest-and-deport-parents](https://laist.com/news/migrant-children-southern-california-used-as-bait-to-arrest-deport-parents)
 - [【Hacker News】XReplicator-–-eBPF-based-server-backups-that-track-only-changed-disk-sectors](https://news.ycombinator.com/item?id=47527328)
-- [【Hacker News】Show-HN:-Pipguard-–-pre-install-malware-scanner-for-Python-supply-chain-attacks](https://github.com/atomsai/pipguard)
-- [【Hacker News】Kite-MCP-–-Trade-Indian-stocks-on-Zerodha-via-AI-conversation-MCP-server](https://github.com/aranjan/kite-mcp)
+- [【Hacker News】Migrant-children-detained-California-used-as-bait-to-arrest-and-deport-parents](https://laist.com/news/migrant-children-southern-california-used-as-bait-to-arrest-deport-parents)
+- [【Hacker News】Running-Sonnet-4.5-Level-LLM's-on-Your-Own-Servers:-Kimi-K2.5-Economics](https://twitter.com/CDerinbogaz/status/2037101565249487079)
+- [【Hacker News】Building-pentest-devices-with-Rust-and-an-ESP32-C6](https://kerkour.com/rust-esp32-pentest)
 - [【Hacker News】Show-HN:-Create-a-full-language-server-in-Go-with-3.17-spec-support](https://github.com/owenrumney/go-lsp)
 - [......【查看更多】......](/details/tags/server.md)
 
@@ -524,12 +524,14 @@
 - [【arXiv ML】Digital-Twin-Assisted-Measurement-Design-and-Channel-Statistics-Prediction](https://arxiv.org/abs/2603.23787)
 - [【arXiv ML】The-Economics-of-Builder-Saturation-in-Digital-Markets](https://arxiv.org/abs/2603.23685)
 - [【arXiv ML】SDE-Driven-Spatio-Temporal-Hypergraph-Neural-Networks-for-Irregular-Longitudinal-fMRI-Connectome-Modeling-in-Alzheimer's-Disease](https://arxiv.org/abs/2603.20452)
-- [【Hacker News】GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
-- [【Hacker News】I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth)
 - [【Hacker News】The-Digital-Imprimatur-2003](https://www.fourmilab.ch/documents/digital-imprimatur/)
+- [【Hacker News】I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth)
+- [【Hacker News】GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
+- [【Hacker News】Why-pylock.toml-includes-digital-attestations](https://snarky.ca/why-pylock-toml-includes-digital-attestations/)
+- [【Hacker News】In-Math,-Rigor-Is-Vital.-But-Are-Digitized-Proofs-Taking-It-Too-Far?](https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/)
 - [【Hacker News】Show-HN:-Looking-for-feedback-on-a-Git-native-message-board](https://zenmemes.com/compose/thread)
-- [【Hacker News】Telegram-Outages-Spike-in-Kremlin's-Push-for-Digital-Control](https://jamestown.org/telegram-outages-spike-in-kremlins-push-for-digital-control/)
 - [【Hacker News】I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4)
+- [【Hacker News】Telegram-Outages-Spike-in-Kremlin's-Push-for-Digital-Control](https://jamestown.org/telegram-outages-spike-in-kremlins-push-for-digital-control/)
 - [【Wired】The-Best-Digital-Wall-Calendar-2026:-Skylight,-Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
