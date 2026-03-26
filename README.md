@@ -10,17 +10,17 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-26 23:03:09，:rocket: 更新条数: +1081， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-27 06:00:52，:rocket: 更新条数: +1217， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [web.dev](#web.dev)  
 - [CSS-Tricks](#css-tricks)![](/assets/dot.png)   
 - [Smashing-Magazine](#smashing-magazine)![](/assets/dot.png)   
-- [Frontend-Masters-Blog](#frontend-masters-blog)  
-- [Overreacted](#overreacted)  
+- [Frontend-Masters-Blog](#frontend-masters-blog)![](/assets/dot.png)   
+- [Overreacted](#overreacted)![](/assets/dot.png)   
 - [2ality](#2ality)  
 - [Jake-Archibald](#jake-archibald)![](/assets/dot.png)   
 - [Tan-Li-Hau](#tan-li-hau)![](/assets/dot.png)   
@@ -33,13 +33,13 @@
 - [张鑫旭](#张鑫旭)![](/assets/dot.png)   
 - [阮一峰](#阮一峰)  
 - [Anthony-Fu](#anthony-fu)![](/assets/dot.png)   
-- [Randy's-Blog](#randy's-blog)  
+- [Randy's-Blog](#randy's-blog)![](/assets/dot.png)   
 - [oldj](#oldj)  
 - [掘金前端](#掘金前端)  
 - [GitHub-Trending-JS](#github-trending-js)  
 - [美团技术团队](#美团技术团队)![](/assets/dot.png)   
 - [InfoQ](#infoq)  
-- [GitHub-Engineering](#github-engineering)  
+- [GitHub-Engineering](#github-engineering)![](/assets/dot.png)   
 - [O'Reilly-Radar](#o'reilly-radar)  
 - [Martin-Fowler](#martin-fowler)![](/assets/dot.png)   
 - [arXiv-ML](#arxiv-ml)  
@@ -69,7 +69,7 @@
 </summary>
 
 
-- [2026-03-26-How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617) ![](/assets/new.png)  
+- [2026-03-26-How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617)  
 - [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)  
 - [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)  
 - [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)  
@@ -111,11 +111,11 @@
 </summary>
 
 
-- [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/) ![](/assets/new.png)  
+- [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)  
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
+- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [2026-03-05-The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)  
@@ -123,7 +123,6 @@
 - [2026-02-28-What’s-!important-#6:-:heading,-border-shape,-Truncating-Text-From-the-Middle,-and-More](https://css-tricks.com/whats-important-6/)  
 - [2026-02-27-Yet-Another-Way-to-Center-an-Absolute-Element](https://css-tricks.com/yet-another-way-to-center-an-absolute-element/)  
 - [2026-02-26-An-Exploit-…-in-CSS?!](https://css-tricks.com/an-exploit-in-css/)  
-- [2026-02-25-A-Complete-Guide-to-Bookmarklets](https://css-tricks.com/a-complete-guide-to-bookmarklets/)  
 - [......【查看更多】......](/details/CSS-Tricks.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -135,7 +134,7 @@
 </summary>
 
 
-- [2026-03-26-The-Site-Search-Paradox:-Why-The-Big-Box-Always-Wins](https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/) ![](/assets/new.png)  
+- [2026-03-26-The-Site-Search-Paradox:-Why-The-Big-Box-Always-Wins](https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/)  
 - [2026-03-24-Testing-Font-Scaling-For-Accessibility-With-Figma-Variables](https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/)  
 - [2026-03-20-Dropdowns-Inside-Scrollable-Containers:-Why-They-Break-And-How-To-Fix-Them-Properly](https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/)  
 - [2026-03-19-Modal-vs.-Separate-Page:-UX-Decision-Tree](https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/)  
@@ -160,15 +159,16 @@
 </summary>
 
 
+- [2026-03-26-The-Top-Trait-Companies-Look-For-in-a-Technical-Interview](https://frontendmasters.com/blog/the-top-trait-companies-look-for-in-a-technical-interview/) ![](/assets/new.png)  
 - [2026-03-25-Shadow-DOM-Focus-Delegation:-Getting-delegatesFocus-Right](https://frontendmasters.com/blog/shadow-dom-focus-delegation-getting-delegatesfocus-right/)  
 - [2026-03-24-Two-Circles,-One-Arrow,-and-Anchor-Positioning](https://frontendmasters.com/blog/two-circles-one-arrow-and-anchor-positioning/)  
 - [2026-03-21-Text-scaling-support-in-Chrome-Canary](https://frontendmasters.com/blog/text-scaling-support-in-chrome-canary/)  
-- [2026-03-19-BaseWatch](https://frontendmasters.com/blog/basewatch/)  
 - [2026-03-19-Image-Gallery-with-Popovers-and-AIM-Anchor-Interpolated-Morph](https://frontendmasters.com/blog/image-gallery-with-popovers-and-aim-anchor-interpolated-morph/)  
+- [2026-03-19-BaseWatch](https://frontendmasters.com/blog/basewatch/)  
 - [2026-03-17-Flexbox-Masonry-Layout-Explained-with-Math](https://frontendmasters.com/blog/flexbox-masonry-layout-explained-with-math/)  
 - [2026-03-16-When-Deno-or-Bun-is-a-Better-Solution-than-Node.js](https://frontendmasters.com/blog/when-deno-or-bun-is-a-better-solution-than-node-js/)  
-- [2026-03-12-Form-Associated-Custom-Elements-in-Practice](https://frontendmasters.com/blog/form-associated-custom-elements-in-practice/)  
 - [2026-03-12-Collaborative-Markdown](https://frontendmasters.com/blog/collaborative-markdown/)  
+- [2026-03-12-Form-Associated-Custom-Elements-in-Practice](https://frontendmasters.com/blog/form-associated-custom-elements-in-practice/)  
 - [2026-03-11-Goodbye-innerHTML,-Hello-setHTML](https://frontendmasters.com/blog/goodbye-innerhtml-hello-sethtml/)  
 - [2026-03-10-The-Enforced-Accessibility-of-the-Geolocation-Element](https://frontendmasters.com/blog/the-enforced-accessibility-of-the-geolocation-element/)  
 - [2026-03-05-The-Big-Gotcha-of-Anchor-Positioning](https://frontendmasters.com/blog/the-big-gotcha-of-anchor-positioning/)  
@@ -297,7 +297,6 @@
 - [2026-03-17-浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)  
 - [2026-03-09-HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)  
 - [2026-03-04-HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)  
-- [2026-02-25-点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/)  
 - [......【查看更多】......](/details/张鑫旭.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -403,16 +402,18 @@
 </summary>
 
 
+- [2026-03-27-A-year-of-open-source-vulnerability-trends:-CVEs,-advisories,-and-malware](https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/) ![](/assets/new.png)  
+- [2026-03-27-What’s-coming-to-our-GitHub-Actions-2026-security-roadmap](https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/) ![](/assets/new.png)  
 - [2026-03-26-Updates-to-GitHub-Copilot-interaction-data-usage-policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)  
 - [2026-03-25-Building-AI-powered-GitHub-issue-triage-with-the-Copilot-SDK](https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/)  
 - [2026-03-24-GitHub-expands-application-security-coverage-with-AI‑powered-detections](https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/)  
-- [2026-03-20-Rethinking-open-source-mentorship-in-the-AI-era](https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/)  
 - [2026-03-20-How-Squad-runs-coordinated-AI-agents-inside-your-repository](https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/)  
+- [2026-03-20-Rethinking-open-source-mentorship-in-the-AI-era](https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/)  
 - [2026-03-18--Investing-in-the-people-shaping-open-source-and-securing-the-future-together](https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/)  
 - [2026-03-17-GitHub-for-Beginners:-Getting-started-with-GitHub-Actions](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/)  
 - [2026-03-13-Continuous-AI-for-accessibility:-How-GitHub-transforms-feedback-into-inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)  
-- [2026-03-12-GitHub-availability-report:-February-2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/)  
 - [2026-03-12-Addressing-GitHub’s-recent-availability-issues](https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/)  
+- [2026-03-12-GitHub-availability-report:-February-2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/)  
 - [2026-03-11-The-era-of-“AI-as-text”-is-over.-Execution-is-the-new-interface.](https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/)  
 - [2026-03-10-Under-the-hood:-Security-architecture-of-GitHub-Agentic-Workflows](https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/)  
 - [2026-03-07-How-to-scan-for-vulnerabilities-with-GitHub-Security-Lab’s-open-source-AI-powered-framework](https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/)  
@@ -438,6 +439,7 @@
 </summary>
 
 
+- [2026-03-27-Fragments:-March-26](https://martinfowler.com/fragments/2026-03-26.html) ![](/assets/new.png)  
 - [2026-03-24-Bliki:-Architecture-Decision-Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html)  
 - [2026-03-19-Fragments:-March-19](https://martinfowler.com/fragments/2026-03-19.html)  
 - [2026-03-17-Context-Anchoring](https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html)  
@@ -446,7 +448,6 @@
 - [2026-03-05-Ideological-Resistance-to-Patents,-Followed-by-Reluctant-Pragmatism](https://martinfowler.com/articles/patents-reluctant-pragmatism.html)  
 - [2026-03-04-Humans-and-Agents-in-Software-Engineering-Loops](https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html)  
 - [2026-03-03-Design-First-Collaboration](https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html)  
-- [2026-02-25-Fragments:-February-25](https://martinfowler.com/fragments/2026-02-25.html)  
 - [......【查看更多】......](/details/Martin Fowler.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -500,8 +501,8 @@
 </summary>
 
 
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
 - [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
 - [2026-03-23-not-much-happened-today](https://news.smol.ai/issues/26-03-23-not-much/)  
 - [2026-03-20-not-much-happened-today](https://news.smol.ai/issues/26-03-20-not-much/)  
 - [2026-03-19-not-much-happened-today](https://news.smol.ai/issues/26-03-19-not-much/)  
@@ -531,26 +532,26 @@
 </summary>
 
 
-- [2026-03-26-Rhino-+-AI-Agent:-For-Architects-Who-Don’t-Code-—-A-Setup-Guide-on-Mac](https://pub.towardsai.net/rhino-ai-agent-for-architects-who-dont-code-a-setup-guide-on-mac-0845bd5ba436?source=rss----98111c9905da---4)  
-- [2026-03-26-The-Software-That-Built-Itself:-Well-Defined-Intents-Are-All-You-Need](https://pub.towardsai.net/the-software-that-built-itself-well-defined-intents-are-all-you-need-064503c3b67b?source=rss----98111c9905da---4)  
-- [2026-03-26-HIPAA-Meets-AI:-Are-We-Really-Ready-for-the-Privacy-Challenges-Ahead?](https://pub.towardsai.net/hipaa-meets-ai-are-we-really-ready-for-the-privacy-challenges-ahead-a15527485928?source=rss----98111c9905da---4)  
-- [2026-03-26-The-Rule-That-Vibe-Coders-Keep-Breaking-And-How-to-Stop](https://pub.towardsai.net/the-rule-that-vibe-coders-keep-breaking-and-how-to-stop-9f63f7034476?source=rss----98111c9905da---4)  
-- [2026-03-26-Generative-AI-Meets-Data-Engineering:-What-Happens-When-You-Can-Describe-Your-Database-in-Plain…](https://pub.towardsai.net/generative-ai-meets-data-engineering-what-happens-when-you-can-describe-your-database-in-plain-8e14856bd5ef?source=rss----98111c9905da---4)  
-- [2026-03-26-I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4)  
-- [2026-03-26-AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4)  
-- [2026-03-26-Crack-ML-Interviews-with-Confidence:-K-means-Clustering-20-Q&amp;A](https://pub.towardsai.net/crack-ml-interviews-with-confidence-k-means-clustering-20-q-a-d062c3fe97ef?source=rss----98111c9905da---4)  
-- [2026-03-26-OpenResearcher:-The-30B-Model-That-Out-Researches-GPT-4.1,-Claude-Opus,-and-Gemini-2.5-Pro](https://pub.towardsai.net/openresearcher-the-30b-model-that-out-researches-gpt-4-1-claude-opus-and-gemini-2-5-pro-86ec12bbc08f?source=rss----98111c9905da---4)  
-- [2026-03-26-The-SyncNet-Research-Paper,-Clearly-Explained](https://pub.towardsai.net/the-syncnet-research-paper-clearly-explained-5b4b545b0ff8?source=rss----98111c9905da---4)  
-- [2026-03-26-Improving-Visual-Recommendations-with-Vision-Language-Model-Embeddings](https://pub.towardsai.net/improving-visual-recommendation-with-vision-language-model-embeddings-f299dc744b23?source=rss----98111c9905da---4)  
-- [2026-03-26-Meta-Just-Acqui-Hired-Its-4th-AI-Startup-in-4-Months.-Zuckerberg’s-Agent-Empire-Is-Taking-Shape.](https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4)  
-- [2026-03-26-Idempotency-for-Agents:-The-Production-Safe-Pattern-You’re-Missing](https://pub.towardsai.net/idempotency-for-agents-the-production-safe-pattern-youre-missing-a94ef0db20a9?source=rss----98111c9905da---4)  
-- [2026-03-26-AI-Reads-Every-Word-You-Say.-It-Still-Gets-You-Wrong.](https://pub.towardsai.net/ai-reads-every-word-you-say-it-still-gets-you-wrong-e5bb7d0dec9f?source=rss----98111c9905da---4)  
-- [2026-03-26-What-is-an-API?-A-Simple-Guide-for-Beginners-With-Real-Examples](https://pub.towardsai.net/what-is-an-api-a-simple-guide-for-beginners-with-real-examples-16b3be032d1f?source=rss----98111c9905da---4)  
-- [2026-03-26-I-Turned-Google-Workspace-Into-an-AI-Operating-System](https://pub.towardsai.net/i-turned-google-workspace-into-an-ai-operating-system-23309c721f89?source=rss----98111c9905da---4)  
-- [2026-03-26-RAG-Beyond-the-Basics:-Five-Retrieval-Patterns-That-Turn-Chatbots-Into-Knowledge-Engines](https://pub.towardsai.net/rag-beyond-the-basics-five-retrieval-patterns-that-turn-chatbots-into-knowledge-engines-d4d227f0f5e4?source=rss----98111c9905da---4)  
-- [2026-03-26-The-Death-of-the-Middleware:-How-I-Built-a-Serverless-AI-Resume-Parser-on-Android](https://pub.towardsai.net/building-serverless-ai-features-on-android-structuring-chaos-with-firebase-ai-logic-ca15eae810d8?source=rss----98111c9905da---4)  
-- [2026-03-26-MCP-+-A2A-Thanks-to-Skills:-The-Complete-Protocol-Stack-Your-Multi-Agent-System-Needs](https://pub.towardsai.net/mcp-a2a-thanks-to-skills-the-complete-protocol-stack-your-multi-agent-system-needs-2757b2028b9f?source=rss----98111c9905da---4)  
+- [2026-03-27-MiniMax-M2.7-Built-Itself.-Here’s-How-to-Use-It-Like-a-Pro.](https://pub.towardsai.net/minimax-m2-7-built-itself-heres-how-to-use-it-like-a-pro-81b7ec04151f?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-27-System-Prompts,-Commands-&amp;-Skills:-How-AI-Personalization-Grew-Up](https://pub.towardsai.net/system-prompts-commands-skills-how-ai-personalization-grew-up-af2fc985fa74?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-27-Why-I-Built-Per-Agent-Model-Routing-—-And-What-It-Reveals-About-AI-Cost-at-Scale](https://pub.towardsai.net/why-i-built-per-agent-model-routing-and-what-it-reveals-about-ai-cost-at-scale-1ae16d5833c3?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-27-Which-AI-Search-Algorithm-Should-You-Actually-Use?](https://pub.towardsai.net/which-ai-search-algorithm-should-you-actually-use-c0228b21d0ab?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-27-Google-Just-Released-a-7-Course-AI-Professional-Certificate-And-I-Earned-Mine-in-a-Weekend](https://pub.towardsai.net/google-just-released-a-7-course-ai-professional-certificate-and-i-earned-mine-in-a-weekend-98511d6ddc6d?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-27-Gap-Up-and-Fade-Is-Not-Random](https://pub.towardsai.net/gap-up-and-fade-is-not-random-ab4f64ee230e?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-26-The-engineering-best-practices-you-can-drop-straight-into-Claude](https://pub.towardsai.net/the-engineering-best-practices-you-can-drop-straight-into-claude-8b69a55ce60d?source=rss----98111c9905da---4)  
+- [2026-03-26-How-I-Added-Semantic-Search-to-a-Production-App-Using-pgvector:-What-the-Tutorials-Skip](https://pub.towardsai.net/how-i-added-semantic-search-to-a-production-app-using-pgvector-what-the-tutorials-skip-47d95a65262f?source=rss----98111c9905da---4)  
+- [2026-03-26-Why-LightGBM-Trains-Faster-Than-XGBoost-And-When-It-Doesn’t](https://pub.towardsai.net/why-lightgbm-trains-faster-than-xgboost-and-when-it-doesnt-dbfd55e1d9cb?source=rss----98111c9905da---4)  
+- [2026-03-26-The-AI-Data-Illusion:-Why-“Boring”-Tech-is-the-Only-Real-Enterprise-Solution](https://pub.towardsai.net/the-ai-data-illusion-why-boring-tech-is-the-only-real-enterprise-solution-18c5ce0a2ed4?source=rss----98111c9905da---4)  
+- [2026-03-26-Claude-Certified-Architect:-The-Complete-Guide-to-Passing-the-CCA-Foundations-Exam](https://pub.towardsai.net/claude-certified-architect-the-complete-guide-to-passing-the-cca-foundations-exam-9665ce7342a8?source=rss----98111c9905da---4)  
+- [2026-03-26-APIs-in-the-Age-of-AI-Agents](https://pub.towardsai.net/apis-in-the-age-of-ai-agents-1b4215e138a8?source=rss----98111c9905da---4)  
+- [2026-03-26-NVIDIA-Nemoclaw-+-OpenShell:-FASTEST-Way-to-Install](https://pub.towardsai.net/nvidia-nemoclaw-openshell-fastest-way-to-install-bbfb82b08ea7?source=rss----98111c9905da---4)  
 - [2026-03-26-Google’s-TurboQuant-Explained:-How-They-Cut-LLM-Memory-by-6x-Without-Losing-Accuracy](https://pub.towardsai.net/googles-turboquant-how-they-cut-llm-memory-by-6x-without-losing-accuracy-971313c9aa7e?source=rss----98111c9905da---4)  
+- [2026-03-26-MCP-+-A2A-Thanks-to-Skills:-The-Complete-Protocol-Stack-Your-Multi-Agent-System-Needs](https://pub.towardsai.net/mcp-a2a-thanks-to-skills-the-complete-protocol-stack-your-multi-agent-system-needs-2757b2028b9f?source=rss----98111c9905da---4)  
+- [2026-03-26-The-Death-of-the-Middleware:-How-I-Built-a-Serverless-AI-Resume-Parser-on-Android](https://pub.towardsai.net/building-serverless-ai-features-on-android-structuring-chaos-with-firebase-ai-logic-ca15eae810d8?source=rss----98111c9905da---4)  
+- [2026-03-26-RAG-Beyond-the-Basics:-Five-Retrieval-Patterns-That-Turn-Chatbots-Into-Knowledge-Engines](https://pub.towardsai.net/rag-beyond-the-basics-five-retrieval-patterns-that-turn-chatbots-into-knowledge-engines-d4d227f0f5e4?source=rss----98111c9905da---4)  
+- [2026-03-26-I-Turned-Google-Workspace-Into-an-AI-Operating-System](https://pub.towardsai.net/i-turned-google-workspace-into-an-ai-operating-system-23309c721f89?source=rss----98111c9905da---4)  
+- [2026-03-26-What-is-an-API?-A-Simple-Guide-for-Beginners-With-Real-Examples](https://pub.towardsai.net/what-is-an-api-a-simple-guide-for-beginners-with-real-examples-16b3be032d1f?source=rss----98111c9905da---4)  
+- [2026-03-26-AI-Reads-Every-Word-You-Say.-It-Still-Gets-You-Wrong.](https://pub.towardsai.net/ai-reads-every-word-you-say-it-still-gets-you-wrong-e5bb7d0dec9f?source=rss----98111c9905da---4)  
 - [......【查看更多】......](/details/Towards AI.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -563,7 +564,6 @@
 
 
 - [2026-03-22-A-Visual-Guide-to-Attention-Variants-in-Modern-LLMs](https://magazine.sebastianraschka.com/p/visual-attention-variants)  
-- [2026-02-25-A-Dream-of-Spring-for-Open-Weight-LLMs:-10-Architectures-from-Jan-Feb-2026](https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight)  
 - [......【查看更多】......](/details/Sebastian Raschka.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -663,26 +663,26 @@
 </summary>
 
 
-- [2026-03-26-Modernizing-encryption-of-Home-Assistant-backups-with-SecureTar-v3](https://www.home-assistant.io/blog/2026/03/26/modernizing-encryption-of-home-assistant-backups/)  
-- [2026-03-26-MEPs-block-tech-firms-from-scanning-for-child-sexual-abuse-material](https://www.politico.eu/article/european-parliament-rejects-child-sexual-abuse-bill-blocking-tech-firms-scanning-meta-google/)  
-- [2026-03-26-Sewer-line-workers-stumble-on-Viking-ship-timber](https://www.popsci.com/science/viking-ship-sewer-line/)  
-- [2026-03-26-The-term-"technical-debt"-is-wrong](https://badsoftwareadvice.substack.com/p/the-term-technical-debt-is-bad-and)  
-- [2026-03-26-A-Small-Figma-Update-and-a-Big-Signal-for-SaaS](https://metedata.substack.com/p/a-small-figma-update-and-a-big-signal)  
-- [2026-03-26-Unsuccessfully-training-AI-to-play-my-favorite-niche-childhood-game](https://boesch.dev/posts/ddnet-rl/)  
-- [2026-03-26-The-Biggest-Bundle?-How-everyone-is-wrong-about-AI](https://asymco.com/2026/03/26/the-biggest-bundle/)  
-- [2026-03-26-See-how-major-news-publications-report-the-same-issues-differently-–-ReadTheBias](https://readthebias.com)  
-- [2026-03-26-Anduril's-Real-War-Is-with-Itself](https://www.wired.com/story/andurils-real-war-is-with-itself/)  
-- [2026-03-26-Hedge:-Adaptive-hedged-requests-for-Go-based-on-Google's-Tail-at-Scale](https://github.com/bhope/hedge)  
-- [2026-03-26-I-use-CLI-agents-daily.-They-are-capable-–-but-they-don't-understand-my-product](https://www.indiehackers.com/post/i-use-claude-code-and-codex-cli-daily-they-are-incredible-but-they-still-dont-understand-my-product-so-i-m-building-the-missing-layer-efa8e6da5c)  
-- [2026-03-26-The-Marginal-Revolution:-Rise-and-Decline,-and-the-Pending-AI-Revolution](https://tylercowen.com/marginal-revolution-generative-book/)  
-- [2026-03-26-An-unstoppable-mushroom-is-tearing-through-North-American-forests](https://www.bbc.com/future/article/20260325-an-unstoppable-mushroom-is-tearing-through-north-american-forests)  
-- [2026-03-26-AI-supply-chain-attacks-don't-even-require-malware-just-post-poisoned-doc](https://www.theregister.com/2026/03/25/ai_agents_supply_chain_attack_context_hub/)  
-- [2026-03-26-The-AAC-Revolution](https://worldofmatthew.com/blog/aac/)  
-- [2026-03-26-Parents-should-monitor-children-'24/7'-on-Roblox,-says-developer](https://www.bbc.com/news/articles/cd6l07wwvlpo)  
-- [2026-03-26-Pleinement-Givré](https://pleinementgivre.fr/)  
-- [2026-03-26-The-AI-Productivity-Paradox:-More-Done-and-Still-Zero-Free-Time](https://thoughts.jock.pl/p/ai-productivity-paradox-wellbeing-agent-age-2026)  
-- [2026-03-26-The-Fate-of-a-Soviet-Nuclear-Sub-Decades-After-It-Sank](https://nautil.us/the-fate-of-a-soviet-nuclear-sub-decades-after-it-sank-1279236)  
-- [2026-03-26-An-app-that-makes-you-do-pushups-to-turn-off-your-alarm](https://unsnooze.framer.ai/)  
+- [2026-03-27-Anthropic-Subprocessor-Changes](https://trust.anthropic.com) ![](/assets/new.png)  
+- [2026-03-27-The-Software-Factory:-Why-Your-Team-Will-Never-Work-the-Same-Again](https://alexop.dev/posts/the-software-factory/) ![](/assets/new.png)  
+- [2026-03-27-Google-warns-quantum-computers-could-hack-encrypted-systems-by-2029](https://www.theguardian.com/technology/2026/mar/26/google-quantum-computers-crack-encryption-2029) ![](/assets/new.png)  
+- [2026-03-27-She-spent-20-months-battling-to-die-under-a-euthanasia-law.-Today-Spain-let-her](https://www.cnn.com/2026/03/26/europe/euthanasia-spain-noelia-castillo-latam-intl) ![](/assets/new.png)  
+- [2026-03-27-Apple-Confirms-Mac-Pro-Is-Dead,-No-Future-Models-Planned](https://www.macrumors.com/2026/03/26/apple-discontinues-mac-pro/) ![](/assets/new.png)  
+- [2026-03-27-Show-HN:-Threat-hunting-command-system-for-agentic-IDEs](https://github.com/backbay-labs/thrunt-god) ![](/assets/new.png)  
+- [2026-03-27-AI-Japanese-metal-band-becomes-real-life-after-creator-hires-actual-musicians](https://www.dexerto.com/entertainment/ai-band-becomes-real-life-group-after-creator-hires-actual-musicians-to-perform-for-them-3336120/) ![](/assets/new.png)  
+- [2026-03-27-Netflix-Raises-Prices-Across-All-Plans,-Premium-Now-Costs-$27/Month](https://www.macrumors.com/2026/03/26/netflix-price-increase-2025/) ![](/assets/new.png)  
+- [2026-03-27-Jargon-Sucks](https://om.co/2026/03/26/jargon-sucks/) ![](/assets/new.png)  
+- [2026-03-27-Show-HN:-Memoir-–-Sync-your-AI-coding-memory-across-11-tools-and-every-device](https://github.com/camgitt/memoir) ![](/assets/new.png)  
+- [2026-03-27-Show-HN:-Convene-–-Marketplace-and-management-software-for-event-organizers](https://convene.markets/) ![](/assets/new.png)  
+- [2026-03-27-The-Enhancement](https://theattempts.substack.com/p/the-enhancement) ![](/assets/new.png)  
+- [2026-03-27-Framework-Doesn't-Matter](https://cemrehancavdar.com/2026/02/19/your-framework-may-not-matter/) ![](/assets/new.png)  
+- [2026-03-27-Gemini-CLI-not-working-for-many-users](https://github.com/google-gemini/gemini-cli/issues/23795) ![](/assets/new.png)  
+- [2026-03-27-A-Look-at-Some-Retro-Desktop-Graphical-User-Interfaces](https://www.goto10retro.com/p/a-look-at-some-retro-desktop-graphical) ![](/assets/new.png)  
+- [2026-03-27-Why-experts-rarely-give-you-a-straight-answer](https://idiallo.com/blog/it-depends-experts-never-give-straight-answers) ![](/assets/new.png)  
+- [2026-03-27-The-AI-boom-wasn't-built-for-the-polycrisis](https://www.theatlantic.com/technology/2026/03/ai-boom-polycrisis/686559/) ![](/assets/new.png)  
+- [2026-03-27-The-ANSI-art-"telecomics"-of-the-1992-election](https://breakintochat.com/blog/2026/03/25/don-lokke-and-mack-the-mouse/) ![](/assets/new.png)  
+- [2026-03-27-Iran-oil-revenue-soars-as-it's-the-only-exporter-out-of-Hormuz](https://financialpost.com/commodities/energy/oil-gas/iran-oil-revenue-soars-hormuz) ![](/assets/new.png)  
+- [2026-03-26-The-Old-Internet-Is-Still-Here](https://tylergaw.com/blog/the-old-internet-is-still-here/)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -694,26 +694,26 @@
 </summary>
 
 
-- [2026-03-26-WhatsApp-can-now-draft-AI-generated-responses-based-on-your-conversations](https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/)  
-- [2026-03-26-A-‘pound-of-flesh’-from-data-centers:-one-senator’s-answer-to-AI-job-losses](https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/)  
-- [2026-03-26-Mistral-releases-a-new-open-source-model-for-speech-generation](https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/)  
-- [2026-03-26-The-least-surprising-chapter-of-the-Manus-story-is-what’s-happening-right-now](https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/)  
-- [2026-03-26-The-AI-skills-gap-is-here,-says-AI-company,-and-power-users-are-pulling-ahead](https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/)  
-- [2026-03-26-Convicted-spyware-chief-hints-that-Greece’s-government-was-behind-dozens-of-phone-hacks](https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/)  
-- [2026-03-26-Who’s-driving-Waymo’s-self-driving-cars?-Sometimes,-the-police.](https://techcrunch.com/2026/03/25/waymo-robotaxi-roadside-assistance-emergency-first-responders/)  
-- [2026-03-26-Google-unveils-TurboQuant,-a-new-AI-memory-compression-algorithm-—-and-yes,-the-internet-is-calling-it-‘Pied-Piper’](https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/)  
-- [2026-03-26-Melania-Trump-wants-a-robot-to-homeschool-your-child](https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/)  
-- [2026-03-26-Riding-the-GLP-1-boom,-VITL-lands-$7.5M-to-overhaul-cash-pay-clinic-prescribing](https://techcrunch.com/2026/03/25/riding-the-glp-1-boom-vitl-lands-7-5m-to-overhaul-cash-pay-clinic-prescribing/)  
-- [2026-03-26-Jury-finds-Meta-and-Google-negligent-in-landmark-social-media-addiction-trial](https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/)  
-- [2026-03-26-Meta-is-cutting-several-hundred-jobs](https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/)  
-- [2026-03-26-Apple-overhauls-its-app-developer-platform-with-100-new-metrics,-more-tools](https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/)  
-- [2026-03-26-Bernie-Sanders-and-AOC-propose-a-ban-on-data-center-construction](https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/)  
-- [2026-03-26-DeleteMe-acquires-social-media-security-tool-Block-Party](https://techcrunch.com/2026/03/25/deleteme-acquires-social-media-security-tool-block-party/)  
-- [2026-03-26-Google-launches-Lyria-3-Pro-music-generation-model](https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/)  
-- [2026-03-26-Russia-arrests-alleged-owner-of-cybercrime-forum-LeakBase,-report-says](https://techcrunch.com/2026/03/25/russia-arrests-alleged-owner-of-cybercrime-forum-leakbase-report-says/)  
-- [2026-03-26-Reddit-takes-on-the-bots-with-new-‘human-verification’-requirements-for-fishy-behavior](https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/)  
-- [2026-03-26-Delve-did-the-security-compliance-on-LiteLLM,-an-AI-project-hit-by-malware](https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/)  
+- [2026-03-27-Silicon-Valley’s-two-biggest-dramas-have-intersected:-LiteLLM-and-Delve](https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/) ![](/assets/new.png)  
+- [2026-03-27-Google-is-launching-Search-Live-globally](https://techcrunch.com/2026/03/26/google-is-launching-search-live-globally/) ![](/assets/new.png)  
+- [2026-03-27-Apple-made-strides-with-iOS-26-security,-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks](https://techcrunch.com/2026/03/26/apple-made-strides-with-ios-26-security-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks/) ![](/assets/new.png)  
+- [2026-03-27-Defense-startup-Shield-AI-lands-$12.7B-valuation,-up-140%,-after-US-Air-Force-deal](https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/) ![](/assets/new.png)  
+- [2026-03-27-Data-centers-get-ready-—-the-Senate-wants-to-see-your-power-bills](https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/) ![](/assets/new.png)  
+- [2026-03-27-OpenAI-abandons-yet-another-side-quest:-ChatGPT’s-erotic-mode](https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/) ![](/assets/new.png)  
+- [2026-03-27-Google-Translate’s-real-time-headphone-translations-feature-expands-to-iOS-and-more-countries](https://techcrunch.com/2026/03/26/google-translates-real-time-headphone-translations-feature-expands-to-ios-and-more-countries/) ![](/assets/new.png)  
+- [2026-03-27-16-of-the-most-interesting-startups-from-YC-W26-Demo-Day](https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/) ![](/assets/new.png)  
+- [2026-03-27-Netflix-confirms-it’s-raising-prices-again](https://techcrunch.com/2026/03/26/netflix-confirms-its-raising-prices-again/) ![](/assets/new.png)  
+- [2026-03-27-Mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp](https://techcrunch.com/2026/03/26/mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp/) ![](/assets/new.png)  
+- [2026-03-27-Wikipedia-cracks-down-on-the-use-of-AI-in-article-writing](https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/) ![](/assets/new.png)  
+- [2026-03-26-Why-hiring-the-weirdos-works](https://techcrunch.com/2026/03/26/why-hiring-the-weirdos-works/)  
+- [2026-03-26-A-major-hacking-tool-has-leaked-online,-putting-millions-of-iPhones-at-risk.-Here’s-what-you-need-to-know.](https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/)  
+- [2026-03-26-Conntour-raises-$7M-from-General-Catalyst,-YC-to-build-an-AI-search-engine-for-security-video-systems](https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/)  
+- [2026-03-26-Cohere-launches-an-open-source-voice-model-specifically-for-transcription](https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/)  
+- [2026-03-26-A-little-known-Croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-Uber](https://techcrunch.com/2026/03/26/uber-invests-verne-ponyai-robotaxi-europe/)  
+- [2026-03-26-A-little-known-Croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-Uber](https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/)  
 - [2026-03-26-Mercor-competitor-Deccan-AI-raises-$25M,-sources-experts-from-India](https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/)  
+- [2026-03-26-Delve-did-the-security-compliance-on-LiteLLM,-an-AI-project-hit-by-malware](https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/)  
+- [2026-03-26-Reddit-takes-on-the-bots-with-new-‘human-verification’-requirements-for-fishy-behavior](https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/)  
 - [......【查看更多】......](/details/TechCrunch.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -725,26 +725,26 @@
 </summary>
 
 
-- [2026-03-26-Soundboks-Mix-Review:-A-Great-Party-Speaker](https://www.wired.com/review/soundboks-mix/)  
-- [2026-03-26-Senators-Demand-to-Know-How-Much-Energy-Data-Centers-Use](https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/)  
-- [2026-03-26-Eufy-Omni-C28-Review:-Affordable-and-Full-Featured](https://www.wired.com/review/eufy-omni-c28/)  
-- [2026-03-26-How-to-Buy-Ethical-and-Eco-Friendly-Electronics-2026](https://www.wired.com/story/how-to-buy-ethical-and-eco-friendly-electronics/)  
-- [2026-03-26-This-Groundbreaking-Omega-Watch’s-Accuracy-Is-Calibrated-Using-Sound](https://www.wired.com/story/omega-constellation-observatory-watch-accuracy-is-calibrated-using-sound/)  
-- [2026-03-26-‘She’s-Never-Going-to-Age’:-Porn-Stars-Are-Embracing-AI-Clones-to-Stay-Forever-Young](https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/)  
-- [2026-03-26-Why-ICE-Is-Allowed-to-Impersonate-Law-Enforcement](https://www.wired.com/story/why-ice-is-allowed-to-impersonate-law-enforcement/)  
-- [2026-03-26-Anduril’s-Real-War-Is-With-Itself](https://www.wired.com/story/andurils-real-war-is-with-itself/)  
-- [2026-03-26-Therabody-Promo-Codes:-15%-Off-March-2026](https://www.wired.com/story/therabody-promo-code/)  
-- [2026-03-26-Lenovo-Coupon-Codes-and-Deals:-$5,000+-Off](https://www.wired.com/story/lenovo-coupon-code/)  
-- [2026-03-26-Tuft-&amp;-Needle-Promo-Codes:-20%-Off-|-March-2026](https://www.wired.com/story/tuft-and-needle-promo-code/)  
-- [2026-03-26-Hulu-Promo-Codes-&amp;-Discounts:-20%-Off-in-March](https://www.wired.com/story/hulu-promo-code/)  
-- [2026-03-26-Factor-Promo-Code:-50%-Off-Off-Meal-Prep](https://www.wired.com/story/factor-promo-code/)  
-- [2026-03-26-60%-HP-Discount-Codes-&amp;-Coupons-March-2026](https://www.wired.com/story/hp-coupon-code/)  
-- [2026-03-26-20%-Squarespace-Promo-Codes-|-March-2026](https://www.wired.com/story/squarespace-promo-code/)  
-- [2026-03-26-LegalZoom-Promo-Code:-Exclusive-10%-Off-LLC-Formations](https://www.wired.com/story/legalzoom-promo-code/)  
-- [2026-03-26-50%-Off-Verizon-Promo-Codes-|-March-2026](https://www.wired.com/story/verizon-promo-code/)  
-- [2026-03-26-Amazon’s-Spring-Sale-Is-Blooming-With-Smart-Bird-Feeders](https://www.wired.com/story/smart-bird-feeders-amazon-spring-sale-2026/)  
-- [2026-03-26-Best-Vacuum-Deals-for-Amazon's-Spring-Sale:-Dyson,-Shark,-Bissell-2026](https://www.wired.com/story/amazon-spring-sale-vacuum-deals/)  
+- [2026-03-27-This-Premium-Gaming-Headset-Is-$80-Off-on-Amazon](https://www.wired.com/story/steelseries-arctis-nova-pro-deal-326/) ![](/assets/new.png)  
+- [2026-03-27-Which-E-Readers-I'd-Recommend-Buying-in-Amazon's-Spring-Sale](https://www.wired.com/story/e-reader-deals-amazon-spring-sale/) ![](/assets/new.png)  
+- [2026-03-27-Meet-the-Tech-Reporters-Using-AI-to-Help-Write-and-Edit-Their-Stories](https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/) ![](/assets/new.png)  
+- [2026-03-27-These-35-Amazon-Spring-Sale-Tech-Deals-Are-Actually-Good.-We-Checked-the-Price-History-2026](https://www.wired.com/story/the-amazon-spring-sale-2026-1/) ![](/assets/new.png)  
+- [2026-03-27-You-Can-Skip-a-Lot-of-Amazon’s-Spring-Sale,-but-Don’t-Skip-This-Travel-Upgrade](https://www.wired.com/story/cadence-capsules-amazon-spring-sale-2026/) ![](/assets/new.png)  
+- [2026-03-27-How-Trump’s-Plot-to-Grab-Iran's-Nuclear-Fuel-Would-Actually-Work](https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/) ![](/assets/new.png)  
+- [2026-03-26-The-Sony-Afeela-Was-Doomed-to-Fail](https://www.wired.com/story/sony-afeela-was-doomed-to-fail/)  
+- [2026-03-26-Using-a-VPN-May-Subject-You-to-NSA-Spying](https://www.wired.com/story/using-a-vpn-may-subject-you-to-nsa-spying/)  
+- [2026-03-26-Saatva-HD-Mattress-Review:-A-Solution-for-Heavy-Bodied-Sleepers](https://www.wired.com/review/saatva-hd-mattress/)  
+- [2026-03-26-The-Government’s-Shittiest-Website](https://www.wired.com/story/the-governments-shittiest-website/)  
+- [2026-03-26-Amazon-Spring-Sale-Deal:-The-Typhur-Dome-2-Air-Fryer-Is-30%-Off](https://www.wired.com/story/typhur-dome-2-air-fryer-deal-amazon-spring-sale/)  
+- [2026-03-26-There’s-Something-Very-Dark-About-a-Lot-of-Those-Viral-AI-Fruit-Videos](https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/)  
+- [2026-03-26-OpenClaw-Agents-Can-Be-Guilt-Tripped-Into-Self-Sabotage](https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/)  
+- [2026-03-26-The-Comedy-Club-at-the-End-of-the-Metaverse](https://www.wired.com/story/the-last-comedy-club-at-the-end-of-the-metaverse/)  
 - [2026-03-26-Save-$100-on-Our-Favorite-Soundbar-and-Subwoofer-Combo](https://www.wired.com/story/jbl-bar500mk2-deal-326/)  
+- [2026-03-26-Best-Vacuum-Deals-for-Amazon's-Spring-Sale:-Dyson,-Shark,-Bissell-2026](https://www.wired.com/story/amazon-spring-sale-vacuum-deals/)  
+- [2026-03-26-Amazon’s-Spring-Sale-Is-Blooming-With-Smart-Bird-Feeders](https://www.wired.com/story/smart-bird-feeders-amazon-spring-sale-2026/)  
+- [2026-03-26-50%-Off-Verizon-Promo-Codes-|-March-2026](https://www.wired.com/story/verizon-promo-code/)  
+- [2026-03-26-LegalZoom-Promo-Code:-Exclusive-10%-Off-LLC-Formations](https://www.wired.com/story/legalzoom-promo-code/)  
+- [2026-03-26-20%-Squarespace-Promo-Codes-|-March-2026](https://www.wired.com/story/squarespace-promo-code/)  
 - [......【查看更多】......](/details/Wired.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

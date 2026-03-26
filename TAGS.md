@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-26 23:03:10。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-27 06:00:52。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -47,10 +47,10 @@
 - [【arXiv ML】Gym-TORAX:-Open-source-software-for-integrating-reinforcement-learning-with-plasma-control-simulators-in-tokamak-research](https://arxiv.org/abs/2510.11283)
 - [【Towards AI】Building-a-Financial-Research-Agent-with-ReAct,-LangGraph,-and-LangChain](https://pub.towardsai.net/building-a-financial-research-agent-with-react-langgraph-and-langchain-c5d5142d8b29?source=rss----98111c9905da---4)
 - [【Towards AI】A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)
-- [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
 - [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
-- [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
+- [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
 - [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
+- [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -218,6 +218,7 @@
 - [【Frontend Masters Blog】Shadow-DOM-Focus-Delegation:-Getting-delegatesFocus-Right](https://frontendmasters.com/blog/shadow-dom-focus-delegation-getting-delegatesfocus-right/)
 - [【Frontend Masters Blog】Goodbye-innerHTML,-Hello-setHTML](https://frontendmasters.com/blog/goodbye-innerhtml-hello-sethtml/)
 - [【美团技术团队】重塑站外体验：大众点评-M-站基于-Qwik.js-的重构实践](https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html)
+- [【GitHub Engineering】What’s-coming-to-our-GitHub-Actions-2026-security-roadmap](https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/)
 - [【arXiv ML】RadioDiff-FS:-Physics-Informed-Manifold-Alignment-in-Few-Shot-Diffusion-Models-for-High-Fidelity-Radio-Map-Construction](https://arxiv.org/abs/2603.18865)
 - [【arXiv ML】OSMDA:-OpenStreetMap-based-Domain-Adaptation-for-Remote-Sensing-VLMs](https://arxiv.org/abs/2603.11804)
 - [【arXiv ML】Distributional-Shrinkage-II:-Higher-Order-Scores-Encode-Brenier-Map](https://arxiv.org/abs/2512.09295)
@@ -227,7 +228,6 @@
 - [【arXiv ML】Set2Seq-Transformer:-Temporal-and-Position-Aware-Set-Representations-for-Sequential-Multiple-Instance-Learning](https://arxiv.org/abs/2408.03404)
 - [【arXiv ML】Perturbative-adaptive-importance-sampling-for-Bayesian-LOO-cross-validation](https://arxiv.org/abs/2402.08151)
 - [【arXiv ML】A-Compression-Based-Classification-Framework-Using-Symbolic-Dynamics-of-Chaotic-Maps](https://arxiv.org/abs/2508.02330)
-- [【arXiv ML】TimeRecipe:-A-Time-Series-Forecasting-Recipe-via-Benchmarking-Module-Level-Effectiveness](https://arxiv.org/abs/2506.06482)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -292,14 +292,14 @@
 - [【arXiv ML】Confidence-Freeze:-Early-Success-Induces-a-Metastable-Decoupling-of-Metacognition-and-Behaviour](https://arxiv.org/abs/2603.21043)
 - [【arXiv ML】Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888)
 - [【Towards AI】Meta-Just-Acqui-Hired-Its-4th-AI-Startup-in-4-Months.-Zuckerberg’s-Agent-Empire-Is-Taking-Shape.](https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4)
-- [【Hacker News】MetaImGui](https://github.com/andynicholson/MetaImGUI)
+- [【Hacker News】AI-Japanese-metal-band-becomes-real-life-after-creator-hires-actual-musicians](https://www.dexerto.com/entertainment/ai-band-becomes-real-life-group-after-creator-hires-actual-musicians-to-perform-for-them-3336120/)
 - [【Hacker News】Show-HN:-Codeseum-–-From-Bare-Metal-to-Pure-Thought](https://codeseum.tyku8.com/spectrum)
-- [【Hacker News】Some-Meta-employees-were-told-to-work-remotely-for-the-day-as-layoffs-loom](https://www.businessinsider.com/meta-employees-work-remotely-email-layoffs-hr-wfh-2026-3)
-- [【Hacker News】Jury-finds-Meta-liable-in-case-over-child-sexual-exploitation-on-its-platforms](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)
-- [【Hacker News】Metasystemic](https://metasystemic.xyz)
-- [【Hacker News】Arm-releases-first-in-house-chip,-with-Meta-as-debut-customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
+- [【Hacker News】MetaImGui](https://github.com/andynicholson/MetaImGUI)
 - [【Hacker News】Meta-Harmed-Children,-Allowing-Adults-to-Prey-on-Them](https://www.wsj.com/tech/landmark-verdict-says-meta-harmed-children-allowing-adults-to-prey-on-them-cb3ad674)
-- [【Hacker News】ExifVoid-–-Client-side-photo-metadata-removal,-nothing-leaves-the-browser](https://www.exifvoid.com/)
+- [【Hacker News】Arm-releases-first-in-house-chip,-with-Meta-as-debut-customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
+- [【Hacker News】Metasystemic](https://metasystemic.xyz)
+- [【Hacker News】Jury-finds-Meta-liable-in-case-over-child-sexual-exploitation-on-its-platforms](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)
+- [【Hacker News】Some-Meta-employees-were-told-to-work-remotely-for-the-day-as-layoffs-loom](https://www.businessinsider.com/meta-employees-work-remotely-email-layoffs-hr-wfh-2026-3)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -316,7 +316,6 @@
 
 
 
-- [【CSS-Tricks】A-Complete-Guide-to-Bookmarklets](https://css-tricks.com/a-complete-guide-to-bookmarklets/)
 - [【arXiv ML】Learn-for-Variation:-Variationally-Guided-AAV-Trajectory-Learning-in-Differentiable-Environments](https://arxiv.org/abs/2603.18853)
 - [【arXiv ML】FLOWR.root:-A-flow-matching-based-foundation-model-for-joint-multi-purpose-structure-aware-3D-ligand-generation-and-affinity-prediction](https://arxiv.org/abs/2510.02578)
 - [【arXiv ML】NaviMaster:-Learning-a-Unified-Policy-for-GUI-and-Embodied-Navigation-Tasks](https://arxiv.org/abs/2508.02046)
@@ -336,6 +335,7 @@
 - [【arXiv ML】MoE-Sieve:-Routing-Guided-LoRA-for-Efficient-MoE-Fine-Tuning](https://arxiv.org/abs/2603.24044)
 - [【arXiv ML】Geometric-Mixture-of-Experts-with-Curvature-Guided-Adaptive-Routing-for-Graph-Representation-Learning](https://arxiv.org/abs/2603.22317)
 - [【arXiv ML】VLGOR:-Visual-Language-Knowledge-Guided-Offline-Reinforcement-Learning-for-Generalizable-Agents](https://arxiv.org/abs/2603.22892)
+- [【arXiv ML】GEM:-Guided-Expectation-Maximization-for-Behavior-Normalized-Candidate-Action-Selection-in-Offline-RL](https://arxiv.org/abs/2603.23232)
 - [......【查看更多】......](/details/tags/canvas-image.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -370,8 +370,8 @@
 - [【arXiv ML】Pretrained-Video-Models-as-Differentiable-Physics-Simulators-for-Urban-Wind-Flows](https://arxiv.org/abs/2603.21210)
 - [【arXiv ML】IRIS:-A-Real-World-Benchmark-for-Inverse-Recovery-and-Identification-of-Physical-Dynamic-Systems-from-Monocular-Video](https://arxiv.org/abs/2603.16432)
 - [【Hacker News】Ireland's-first-mobile-video-call-via-satellite-is-made](https://www.rte.ie/news/business/2026/0326/1565222-satellite-call-ireland/)
-- [【Hacker News】I-Spoke-to-the-Dev-Behind-the-Systemd-Birth-Date-Change-video](https://www.youtube.com/watch?v=8bAN4Jam974)
 - [【Hacker News】Rise-and-Fall-of-the-Cloud-–-Again-with-Tom-Lyon-video](https://www.youtube.com/watch?v=1D5cjOVR-3k)
+- [【Hacker News】I-Spoke-to-the-Dev-Behind-the-Systemd-Birth-Date-Change-video](https://www.youtube.com/watch?v=8bAN4Jam974)
 - [......【查看更多】......](/details/tags/audio-video.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -407,7 +407,9 @@
 
 
 - [【Smashing Magazine】Getting-Started-With-The-Popover-API](https://smashingmagazine.com/2026/03/getting-started-popover-api/)
+- [【Frontend Masters Blog】The-Top-Trait-Companies-Look-For-in-a-Technical-Interview](https://frontendmasters.com/blog/the-top-trait-companies-look-for-in-a-technical-interview/)
 - [【Frontend Masters Blog】Text-scaling-support-in-Chrome-Canary](https://frontendmasters.com/blog/text-scaling-support-in-chrome-canary/)
+- [【GitHub Engineering】A-year-of-open-source-vulnerability-trends:-CVEs,-advisories,-and-malware](https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/)
 - [【GitHub Engineering】-Investing-in-the-people-shaping-open-source-and-securing-the-future-together](https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/)
 - [【GitHub Engineering】GitHub-for-Beginners:-Getting-started-with-GitHub-Actions](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/)
 - [【GitHub Engineering】How-to-scan-for-vulnerabilities-with-GitHub-Security-Lab’s-open-source-AI-powered-framework](https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/)
@@ -424,8 +426,6 @@
 - [【arXiv ML】Efficient-Continual-Learning-in-Language-Models-via-Thalamically-Routed-Cortical-Columns](https://arxiv.org/abs/2602.22479)
 - [【arXiv ML】Tackling-Time-Series-Forecasting-Generalization-via-Mitigating-Concept-Drift](https://arxiv.org/abs/2510.14814)
 - [【arXiv ML】Beyond-Multi-Token-Prediction:-Pretraining-LLMs-with-Future-Summaries](https://arxiv.org/abs/2510.14751)
-- [【arXiv ML】Fiaingen:-A-financial-time-series-generative-method-matching-real-world-data-quality](https://arxiv.org/abs/2510.01169)
-- [【arXiv ML】A-signal-separation-view-of-classification](https://arxiv.org/abs/2509.24140)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -490,14 +490,14 @@
 - [【arXiv ML】EvidenceRL:-Reinforcing-Evidence-Consistency-for-Trustworthy-Language-Models](https://arxiv.org/abs/2603.19532)
 - [【arXiv ML】Simulation-based-Inference-with-the-Python-Package-sbijax](https://arxiv.org/abs/2409.19435)
 - [【arXiv ML】Learnability-with-Partial-Labels-and-Adaptive-Nearest-Neighbors](https://arxiv.org/abs/2603.15781)
-- [【Towards AI】I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4)
 - [【Towards AI】AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4)
+- [【Towards AI】I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4)
 - [【Towards AI】The-Context-Reliability-Framework-CRF:-A-Production-Architecture-for-Trustworthy-AI-Systems](https://pub.towardsai.net/the-context-reliability-framework-crf-a-production-architecture-for-trustworthy-ai-systems-05d359aa5447?source=rss----98111c9905da---4)
-- [【Hacker News】An-unstoppable-mushroom-is-tearing-through-North-American-forests](https://www.bbc.com/future/article/20260325-an-unstoppable-mushroom-is-tearing-through-north-american-forests)
-- [【Hacker News】XReplicator-–-eBPF-based-server-backups-that-track-only-changed-disk-sectors](https://news.ycombinator.com/item?id=47527328)
-- [【Hacker News】Migrant-children-detained-California-used-as-bait-to-arrest-and-deport-parents](https://laist.com/news/migrant-children-southern-california-used-as-bait-to-arrest-deport-parents)
-- [【Hacker News】Running-Sonnet-4.5-Level-LLM's-on-Your-Own-Servers:-Kimi-K2.5-Economics](https://twitter.com/CDerinbogaz/status/2037101565249487079)
 - [【Hacker News】Don't-Trust,-Verify](https://daniel.haxx.se/blog/2026/03/26/dont-trust-verify/)
+- [【Hacker News】Running-Sonnet-4.5-Level-LLM's-on-Your-Own-Servers:-Kimi-K2.5-Economics](https://twitter.com/CDerinbogaz/status/2037101565249487079)
+- [【Hacker News】Migrant-children-detained-California-used-as-bait-to-arrest-and-deport-parents](https://laist.com/news/migrant-children-southern-california-used-as-bait-to-arrest-deport-parents)
+- [【Hacker News】XReplicator-–-eBPF-based-server-backups-that-track-only-changed-disk-sectors](https://news.ycombinator.com/item?id=47527328)
+- [【Hacker News】An-unstoppable-mushroom-is-tearing-through-North-American-forests](https://www.bbc.com/future/article/20260325-an-unstoppable-mushroom-is-tearing-through-north-american-forests)
 - [......【查看更多】......](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -518,21 +518,21 @@
 - [【GitHub Engineering】Updates-to-GitHub-Copilot-interaction-data-usage-policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
 - [【GitHub Engineering】Building-AI-powered-GitHub-issue-triage-with-the-Copilot-SDK](https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/)
 - [【GitHub Engineering】GitHub-expands-application-security-coverage-with-AI‑powered-detections](https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/)
-- [【GitHub Engineering】GitHub-availability-report:-February-2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/)
 - [【GitHub Engineering】Addressing-GitHub’s-recent-availability-issues](https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/)
+- [【GitHub Engineering】GitHub-availability-report:-February-2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/)
 - [【GitHub Engineering】Under-the-hood:-Security-architecture-of-GitHub-Agentic-Workflows](https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/)
 - [【arXiv ML】Continuous-Time-Learning-of-Probability-Distributions:-A-Case-Study-in-a-Digital-Trial-of-Young-Children-with-Type-1-Diabetes](https://arxiv.org/abs/2603.24427)
 - [【arXiv ML】Digital-Twin-Assisted-Measurement-Design-and-Channel-Statistics-Prediction](https://arxiv.org/abs/2603.23787)
 - [【arXiv ML】The-Economics-of-Builder-Saturation-in-Digital-Markets](https://arxiv.org/abs/2603.23685)
 - [【arXiv ML】SDE-Driven-Spatio-Temporal-Hypergraph-Neural-Networks-for-Irregular-Longitudinal-fMRI-Connectome-Modeling-in-Alzheimer's-Disease](https://arxiv.org/abs/2603.20452)
-- [【Hacker News】The-Digital-Imprimatur-2003](https://www.fourmilab.ch/documents/digital-imprimatur/)
-- [【Hacker News】I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth)
-- [【Hacker News】GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
-- [【Hacker News】Why-pylock.toml-includes-digital-attestations](https://snarky.ca/why-pylock-toml-includes-digital-attestations/)
 - [【Hacker News】In-Math,-Rigor-Is-Vital.-But-Are-Digitized-Proofs-Taking-It-Too-Far?](https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/)
+- [【Hacker News】Why-pylock.toml-includes-digital-attestations](https://snarky.ca/why-pylock-toml-includes-digital-attestations/)
+- [【Hacker News】GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
+- [【Hacker News】I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth)
+- [【Hacker News】The-Digital-Imprimatur-2003](https://www.fourmilab.ch/documents/digital-imprimatur/)
 - [【Hacker News】Show-HN:-Looking-for-feedback-on-a-Git-native-message-board](https://zenmemes.com/compose/thread)
-- [【Hacker News】I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4)
 - [【Hacker News】Telegram-Outages-Spike-in-Kremlin's-Push-for-Digital-Control](https://jamestown.org/telegram-outages-spike-in-kremlins-push-for-digital-control/)
+- [【Hacker News】I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4)
 - [【Wired】The-Best-Digital-Wall-Calendar-2026:-Skylight,-Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
@@ -581,10 +581,10 @@
 - [【Smashing Magazine】Now-Shipping:-Accessible-UX-Research,-A-New-Smashing-Book-By-Michele-Williams](https://smashingmagazine.com/2026/03/accessible-ux-research-release/)
 - [【Smashing Magazine】Fresh-Energy-In-March-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/)
 - [【Smashing Magazine】Say-Cheese!-Meet-SmashingConf-Amsterdam-🇳🇱](https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/)
-- [【Frontend Masters Blog】BaseWatch](https://frontendmasters.com/blog/basewatch/)
 - [【Frontend Masters Blog】Image-Gallery-with-Popovers-and-AIM-Anchor-Interpolated-Morph](https://frontendmasters.com/blog/image-gallery-with-popovers-and-aim-anchor-interpolated-morph/)
-- [【Frontend Masters Blog】Form-Associated-Custom-Elements-in-Practice](https://frontendmasters.com/blog/form-associated-custom-elements-in-practice/)
+- [【Frontend Masters Blog】BaseWatch](https://frontendmasters.com/blog/basewatch/)
 - [【Frontend Masters Blog】Collaborative-Markdown](https://frontendmasters.com/blog/collaborative-markdown/)
+- [【Frontend Masters Blog】Form-Associated-Custom-Elements-in-Practice](https://frontendmasters.com/blog/form-associated-custom-elements-in-practice/)
 - [【Frontend Masters Blog】The-Enforced-Accessibility-of-the-Geolocation-Element](https://frontendmasters.com/blog/the-enforced-accessibility-of-the-geolocation-element/)
 - [【张鑫旭】浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)
 - [......【查看更多】......](/details/tags/other.md)
