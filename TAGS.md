@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-27 23:02:09。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-28 06:00:59。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -47,10 +47,10 @@
 - [【arXiv ML】Gym-TORAX:-Open-source-software-for-integrating-reinforcement-learning-with-plasma-control-simulators-in-tokamak-research](https://arxiv.org/abs/2510.11283)
 - [【Towards AI】Building-a-Financial-Research-Agent-with-ReAct,-LangGraph,-and-LangChain](https://pub.towardsai.net/building-a-financial-research-agent-with-react-langgraph-and-langchain-c5d5142d8b29?source=rss----98111c9905da---4)
 - [【Towards AI】A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)
-- [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
 - [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
-- [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
+- [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
 - [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
+- [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -209,7 +209,6 @@
 
 
 
-- [【Node Weekly】AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)
 - [【CSS-Tricks】Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)
 - [【CSS-Tricks】JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)
 - [【CSS-Tricks】What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)
@@ -229,6 +228,7 @@
 - [【arXiv ML】Set2Seq-Transformer:-Temporal-and-Position-Aware-Set-Representations-for-Sequential-Multiple-Instance-Learning](https://arxiv.org/abs/2408.03404)
 - [【arXiv ML】Perturbative-adaptive-importance-sampling-for-Bayesian-LOO-cross-validation](https://arxiv.org/abs/2402.08151)
 - [【arXiv ML】A-Compression-Based-Classification-Framework-Using-Symbolic-Dynamics-of-Chaotic-Maps](https://arxiv.org/abs/2508.02330)
+- [【arXiv ML】TimeRecipe:-A-Time-Series-Forecasting-Recipe-via-Benchmarking-Module-Level-Effectiveness](https://arxiv.org/abs/2506.06482)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -246,7 +246,6 @@
 
 
 - [【CSS-Tricks】The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)
-- [【CSS-Tricks】An-Exploit-…-in-CSS?!](https://css-tricks.com/an-exploit-in-css/)
 - [【Smashing Magazine】Beyond-`border-radius`:-What-The-CSS-`corner-shape`-Property-Unlocks-For-Everyday-UI](https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/)
 - [【Frontend Masters Blog】Two-Circles,-One-Arrow,-and-Anchor-Positioning](https://frontendmasters.com/blog/two-circles-one-arrow-and-anchor-positioning/)
 - [【Frontend Masters Blog】Flexbox-Masonry-Layout-Explained-with-Math](https://frontendmasters.com/blog/flexbox-masonry-layout-explained-with-math/)
@@ -265,6 +264,7 @@
 - [【arXiv ML】Beyond-Masks:-Efficient,-Flexible-Diffusion-Language-Models-via-Deletion-Insertion-Processes](https://arxiv.org/abs/2603.23507)
 - [【arXiv ML】Marchuk:-Efficient-Global-Weather-Forecasting-from-Mid-Range-to-Sub-Seasonal-Scales-via-Flow-Matching](https://arxiv.org/abs/2603.24428)
 - [【arXiv ML】DeepDTF:-Dual-Branch-Transformer-Fusion-for-Multi-Omics-Anticancer-Drug-Response-Prediction](https://arxiv.org/abs/2603.24265)
+- [【arXiv ML】IPatch:-A-Multi-Resolution-Transformer-Architecture-for-Robust-Time-Series-Forecasting](https://arxiv.org/abs/2603.24207)
 - [......【查看更多】......](/details/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -294,13 +294,13 @@
 - [【arXiv ML】Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888)
 - [【Towards AI】Meta-Just-Acqui-Hired-Its-4th-AI-Startup-in-4-Months.-Zuckerberg’s-Agent-Empire-Is-Taking-Shape.](https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4)
 - [【Hacker News】AI-Japanese-metal-band-becomes-real-life-after-creator-hires-actual-musicians](https://www.dexerto.com/entertainment/ai-band-becomes-real-life-group-after-creator-hires-actual-musicians-to-perform-for-them-3336120/)
-- [【Hacker News】Show-HN:-Codeseum-–-From-Bare-Metal-to-Pure-Thought](https://codeseum.tyku8.com/spectrum)
 - [【Hacker News】MetaImGui](https://github.com/andynicholson/MetaImGUI)
-- [【Hacker News】Meta-Harmed-Children,-Allowing-Adults-to-Prey-on-Them](https://www.wsj.com/tech/landmark-verdict-says-meta-harmed-children-allowing-adults-to-prey-on-them-cb3ad674)
-- [【Hacker News】Arm-releases-first-in-house-chip,-with-Meta-as-debut-customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
-- [【Hacker News】Metasystemic](https://metasystemic.xyz)
-- [【Hacker News】Jury-finds-Meta-liable-in-case-over-child-sexual-exploitation-on-its-platforms](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)
+- [【Hacker News】Show-HN:-Codeseum-–-From-Bare-Metal-to-Pure-Thought](https://codeseum.tyku8.com/spectrum)
 - [【Hacker News】Some-Meta-employees-were-told-to-work-remotely-for-the-day-as-layoffs-loom](https://www.businessinsider.com/meta-employees-work-remotely-email-layoffs-hr-wfh-2026-3)
+- [【Hacker News】Jury-finds-Meta-liable-in-case-over-child-sexual-exploitation-on-its-platforms](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)
+- [【Hacker News】Metasystemic](https://metasystemic.xyz)
+- [【Hacker News】Arm-releases-first-in-house-chip,-with-Meta-as-debut-customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
+- [【Hacker News】Meta-Harmed-Children,-Allowing-Adults-to-Prey-on-Them](https://www.wsj.com/tech/landmark-verdict-says-meta-harmed-children-allowing-adults-to-prey-on-them-cb3ad674)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -372,7 +372,7 @@
 - [【arXiv ML】IRIS:-A-Real-World-Benchmark-for-Inverse-Recovery-and-Identification-of-Physical-Dynamic-Systems-from-Monocular-Video](https://arxiv.org/abs/2603.16432)
 - [【Hacker News】Offline-Mac-Translator-WebRTC+Llama.cpp.-Roast-My-C++](https://github.com/GlitchyBlep/Realtime-AI-Translator)
 - [【Hacker News】Ireland's-first-mobile-video-call-via-satellite-is-made](https://www.rte.ie/news/business/2026/0326/1565222-satellite-call-ireland/)
-- [【Hacker News】Rise-and-Fall-of-the-Cloud-–-Again-with-Tom-Lyon-video](https://www.youtube.com/watch?v=1D5cjOVR-3k)
+- [【Hacker News】I-Spoke-to-the-Dev-Behind-the-Systemd-Birth-Date-Change-video](https://www.youtube.com/watch?v=8bAN4Jam974)
 - [......【查看更多】......](/details/tags/audio-video.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -491,14 +491,14 @@
 - [【arXiv ML】EvidenceRL:-Reinforcing-Evidence-Consistency-for-Trustworthy-Language-Models](https://arxiv.org/abs/2603.19532)
 - [【arXiv ML】Simulation-based-Inference-with-the-Python-Package-sbijax](https://arxiv.org/abs/2409.19435)
 - [【arXiv ML】Learnability-with-Partial-Labels-and-Adaptive-Nearest-Neighbors](https://arxiv.org/abs/2603.15781)
-- [【Towards AI】I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4)
 - [【Towards AI】AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4)
+- [【Towards AI】I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4)
 - [【Towards AI】The-Context-Reliability-Framework-CRF:-A-Production-Architecture-for-Trustworthy-AI-Systems](https://pub.towardsai.net/the-context-reliability-framework-crf-a-production-architecture-for-trustworthy-ai-systems-05d359aa5447?source=rss----98111c9905da---4)
-- [【Hacker News】Show-HN:-ClearConfig-for-Java-–-A-modern,-highly-composable-config-library](https://github.com/japgolly/clear-config-java)
-- [【Hacker News】Ask-HN:-Build-trust-for-closed-source-product](https://news.ycombinator.com/item?id=47538125)
-- [【Hacker News】AutoModel-–-SQL-First-Reverse-ORM-for-Rust,-Built-for-the-Greater-DX-and-AI-Era](https://github.com/thepartly/automodel)
-- [【Hacker News】Operation-Moonshot:-Can-Claude-Rewrite-Linux-in-Rust?](https://blog.zolty.systems/posts/2026-03-22-operation-moonshot-linux-in-rust)
 - [【Hacker News】MCP-Smoke-–-test-MCP-servers-using-plain-English-commands](https://github.com/Agent-Hellboy/mcp-smoke)
+- [【Hacker News】Operation-Moonshot:-Can-Claude-Rewrite-Linux-in-Rust?](https://blog.zolty.systems/posts/2026-03-22-operation-moonshot-linux-in-rust)
+- [【Hacker News】AutoModel-–-SQL-First-Reverse-ORM-for-Rust,-Built-for-the-Greater-DX-and-AI-Era](https://github.com/thepartly/automodel)
+- [【Hacker News】Ask-HN:-Build-trust-for-closed-source-product](https://news.ycombinator.com/item?id=47538125)
+- [【Hacker News】Show-HN:-ClearConfig-for-Java-–-A-modern,-highly-composable-config-library](https://github.com/japgolly/clear-config-java)
 - [......【查看更多】......](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -526,14 +526,14 @@
 - [【arXiv ML】Digital-Twin-Assisted-Measurement-Design-and-Channel-Statistics-Prediction](https://arxiv.org/abs/2603.23787)
 - [【arXiv ML】The-Economics-of-Builder-Saturation-in-Digital-Markets](https://arxiv.org/abs/2603.23685)
 - [【arXiv ML】SDE-Driven-Spatio-Temporal-Hypergraph-Neural-Networks-for-Irregular-Longitudinal-fMRI-Connectome-Modeling-in-Alzheimer's-Disease](https://arxiv.org/abs/2603.20452)
-- [【Hacker News】In-Math,-Rigor-Is-Vital.-But-Are-Digitized-Proofs-Taking-It-Too-Far?](https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/)
-- [【Hacker News】Why-pylock.toml-includes-digital-attestations](https://snarky.ca/why-pylock-toml-includes-digital-attestations/)
-- [【Hacker News】GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
-- [【Hacker News】I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth)
 - [【Hacker News】The-Digital-Imprimatur-2003](https://www.fourmilab.ch/documents/digital-imprimatur/)
+- [【Hacker News】I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth)
+- [【Hacker News】GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
+- [【Hacker News】Why-pylock.toml-includes-digital-attestations](https://snarky.ca/why-pylock-toml-includes-digital-attestations/)
+- [【Hacker News】In-Math,-Rigor-Is-Vital.-But-Are-Digitized-Proofs-Taking-It-Too-Far?](https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/)
 - [【Hacker News】Show-HN:-Looking-for-feedback-on-a-Git-native-message-board](https://zenmemes.com/compose/thread)
-- [【Hacker News】Telegram-Outages-Spike-in-Kremlin's-Push-for-Digital-Control](https://jamestown.org/telegram-outages-spike-in-kremlins-push-for-digital-control/)
 - [【Hacker News】I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4)
+- [【Hacker News】Telegram-Outages-Spike-in-Kremlin's-Push-for-Digital-Control](https://jamestown.org/telegram-outages-spike-in-kremlins-push-for-digital-control/)
 - [【Wired】The-Best-Digital-Wall-Calendar-2026:-Skylight,-Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
@@ -581,13 +581,13 @@
 - [【Smashing Magazine】Human-Strategy-In-An-AI-Accelerated-Workflow](https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/)
 - [【Smashing Magazine】Now-Shipping:-Accessible-UX-Research,-A-New-Smashing-Book-By-Michele-Williams](https://smashingmagazine.com/2026/03/accessible-ux-research-release/)
 - [【Smashing Magazine】Fresh-Energy-In-March-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/)
-- [【Smashing Magazine】Say-Cheese!-Meet-SmashingConf-Amsterdam-🇳🇱](https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/)
 - [【Frontend Masters Blog】Image-Gallery-with-Popovers-and-AIM-Anchor-Interpolated-Morph](https://frontendmasters.com/blog/image-gallery-with-popovers-and-aim-anchor-interpolated-morph/)
 - [【Frontend Masters Blog】BaseWatch](https://frontendmasters.com/blog/basewatch/)
 - [【Frontend Masters Blog】Collaborative-Markdown](https://frontendmasters.com/blog/collaborative-markdown/)
 - [【Frontend Masters Blog】Form-Associated-Custom-Elements-in-Practice](https://frontendmasters.com/blog/form-associated-custom-elements-in-practice/)
 - [【Frontend Masters Blog】The-Enforced-Accessibility-of-the-Geolocation-Element](https://frontendmasters.com/blog/the-enforced-accessibility-of-the-geolocation-element/)
 - [【张鑫旭】浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)
+- [【阮一峰】科技爱好者周刊（第-390-期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
