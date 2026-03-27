@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-27 12:02:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-27 15:01:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -26,13 +26,13 @@
 - [2026-03-23-IRIS:-A-Real-World-Benchmark-for-Inverse-Recovery-and-Identification-of-Physical-Dynamic-Systems-from-Monocular-Video](https://arxiv.org/abs/2603.16432) 
 - [2026-03-27-Offline-Mac-Translator-WebRTC+Llama.cpp.-Roast-My-C++](https://github.com/GlitchyBlep/Realtime-AI-Translator) 
 - [2026-03-26-Ireland's-first-mobile-video-call-via-satellite-is-made](https://www.rte.ie/news/business/2026/0326/1565222-satellite-call-ireland/) 
-- [2026-03-25-I-Spoke-to-the-Dev-Behind-the-Systemd-Birth-Date-Change-video](https://www.youtube.com/watch?v=8bAN4Jam974) 
 - [2026-03-25-Rise-and-Fall-of-the-Cloud-–-Again-with-Tom-Lyon-video](https://www.youtube.com/watch?v=1D5cjOVR-3k) 
-- [2026-03-24-Patrick-Suppes-–-Foundations-of-Measurement-1981video](https://www.youtube.com/watch?v=oQyo3zTyvT4) 
+- [2026-03-25-I-Spoke-to-the-Dev-Behind-the-Systemd-Birth-Date-Change-video](https://www.youtube.com/watch?v=8bAN4Jam974) 
 - [2026-03-24-Show-HN:-Using-the-Web-Audio-API-to-simulate-various-tuning-forks](https://github.com/evoluteur/healing-frequencies) 
-- [2026-03-23-Precision-from-simple-parts---Machine-Thinkingvideo](https://www.youtube.com/watch?v=8VyyNsifckU) 
-- [2026-03-23-BYD-Battery-Box-HVB-video](https://www.youtube.com/watch?v=WPTgg3joL5E) 
+- [2026-03-24-Patrick-Suppes-–-Foundations-of-Measurement-1981video](https://www.youtube.com/watch?v=oQyo3zTyvT4) 
 - [2026-03-23-Show-HN:-Free-Online-Audio-Cut-–-Trim-MP3,-WAV-and-More](https://audiocut.io/) 
+- [2026-03-23-BYD-Battery-Box-HVB-video](https://www.youtube.com/watch?v=WPTgg3joL5E) 
+- [2026-03-23-Precision-from-simple-parts---Machine-Thinkingvideo](https://www.youtube.com/watch?v=8VyyNsifckU) 
 - [2026-03-26-Conntour-raises-$7M-from-General-Catalyst,-YC-to-build-an-AI-search-engine-for-security-video-systems](https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/) 
 - [2026-03-26-ByteDance’s-new-AI-video-generation-model,-Dreamina-Seedance-2.0,-comes-to-CapCut](https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/) 
 - [2026-03-24-Bernie-Sanders’-AI-‘gotcha’-video-flops,-but-the-memes-are-great](https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/) 
