@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-27T02:01:50.096Z</updated>
+    <updated>2026-03-27T04:02:03.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,107 +71,51 @@
         <published>2026-03-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists Filmed a Whale Birth. The Surprise: Mom Had Many Helpers]]></title>
-        <id>https://www.nytimes.com/2026/03/26/climate/sperm-whale-birth-assistance.html</id>
-        <link href="https://www.nytimes.com/2026/03/26/climate/sperm-whale-birth-assistance.html"/>
+        <title type="html"><![CDATA[Why the Minnesota Starvation Experiment Doesn't Generalize to Modern Dieting]]></title>
+        <id>https://greyenlightenment.com/2026/03/21/why-the-minnesota-starvation-experiment-doesnt-generalize-to-modern-dieting/</id>
+        <link href="https://greyenlightenment.com/2026/03/21/why-the-minnesota-starvation-experiment-doesnt-generalize-to-modern-dieting/"/>
         <updated>2026-03-26T16:00:00.000Z</updated>
         <published>2026-03-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AutoModel – SQL-First Reverse ORM for Rust, Built for the Greater DX and AI Era]]></title>
-        <id>https://github.com/thepartly/automodel</id>
-        <link href="https://github.com/thepartly/automodel"/>
+        <title type="html"><![CDATA[Scale AI X Prediction Markets]]></title>
+        <id>https://reppo.ai/</id>
+        <link href="https://reppo.ai/"/>
         <updated>2026-03-26T16:00:00.000Z</updated>
         <published>2026-03-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Build trust for closed source product]]></title>
-        <id>https://news.ycombinator.com/item?id=47538125</id>
-        <link href="https://news.ycombinator.com/item?id=47538125"/>
+        <title type="html"><![CDATA[PICO-8 platformer system: handling every notoriously difficult physics edge case]]></title>
+        <id>https://torcado.com/blog/simple-platformer/</id>
+        <link href="https://torcado.com/blog/simple-platformer/"/>
         <updated>2026-03-26T16:00:00.000Z</updated>
         <published>2026-03-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[600-year-old grape seed used to make pinot noir wine found in medieval toilet]]></title>
-        <id>https://www.cbsnews.com/news/ancient-grape-pinot-noir-wine-found-toilet-medieval-hospital-france/</id>
-        <link href="https://www.cbsnews.com/news/ancient-grape-pinot-noir-wine-found-toilet-medieval-hospital-france/"/>
+        <title type="html"><![CDATA[Update and learning from Unfudged HN Show last month]]></title>
+        <id>https://cyrusradfar.com/thoughts/unfudged-from-frustration-to-open-source</id>
+        <link href="https://cyrusradfar.com/thoughts/unfudged-from-frustration-to-open-source"/>
         <updated>2026-03-26T16:00:00.000Z</updated>
         <published>2026-03-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Offline Mac Translator (WebRTC+Llama.cpp). Roast My C++]]></title>
-        <id>https://github.com/GlitchyBlep/Realtime-AI-Translator</id>
-        <link href="https://github.com/GlitchyBlep/Realtime-AI-Translator"/>
+        <title type="html"><![CDATA[Show HN: Scroll bar scuba dude swimming as you scroll]]></title>
+        <id>https://scrollbuddy.com/</id>
+        <link href="https://scrollbuddy.com/"/>
         <updated>2026-03-26T16:00:00.000Z</updated>
         <published>2026-03-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Documentation Agent for Engineers]]></title>
-        <id>https://github.com/Qurse123/Documenation-agent</id>
-        <link href="https://github.com/Qurse123/Documenation-agent"/>
+        <title type="html"><![CDATA[The Innovation Edge: How Large Companies Lose It and How to Get It Back]]></title>
+        <id>https://books.forbes.com/books/the-innovation-edge/</id>
+        <link href="https://books.forbes.com/books/the-innovation-edge/"/>
         <updated>2026-03-26T16:00:00.000Z</updated>
         <published>2026-03-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fundamentals of Astronomy: A Guide for Olympiads]]></title>
-        <id>https://www.astrolympiad.com/</id>
-        <link href="https://www.astrolympiad.com/"/>
-        <updated>2026-03-26T16:00:00.000Z</updated>
-        <published>2026-03-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pentagon considers diverting Ukraine military aid to the Middle East]]></title>
-        <id>https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/</id>
-        <link href="https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/"/>
-        <updated>2026-03-26T16:00:00.000Z</updated>
-        <published>2026-03-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: ClearConfig for Java – A modern, highly-composable config library]]></title>
-        <id>https://github.com/japgolly/clear-config-java</id>
-        <link href="https://github.com/japgolly/clear-config-java"/>
-        <updated>2026-03-26T16:00:00.000Z</updated>
-        <published>2026-03-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Domain-Specific Embedding Model in Under a Day]]></title>
-        <id>https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune</id>
-        <link href="https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune"/>
-        <updated>2026-03-26T16:00:00.000Z</updated>
-        <published>2026-03-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Japanese metal band becomes real-life after creator hires actual musicians]]></title>
-        <id>https://www.dexerto.com/entertainment/ai-band-becomes-real-life-group-after-creator-hires-actual-musicians-to-perform-for-them-3336120/</id>
-        <link href="https://www.dexerto.com/entertainment/ai-band-becomes-real-life-group-after-creator-hires-actual-musicians-to-perform-for-them-3336120/"/>
-        <updated>2026-03-26T16:00:00.000Z</updated>
-        <published>2026-03-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[She spent 20 months battling to die under a euthanasia law. Today Spain let her]]></title>
-        <id>https://www.cnn.com/2026/03/26/europe/euthanasia-spain-noelia-castillo-latam-intl</id>
-        <link href="https://www.cnn.com/2026/03/26/europe/euthanasia-spain-noelia-castillo-latam-intl"/>
-        <updated>2026-03-26T16:00:00.000Z</updated>
-        <published>2026-03-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Complete Guide to Deploying Rails 8 with Kamal on Hetzner]]></title>
-        <id>https://mooktakim.com/blog/deploying-rails-with-kamal/</id>
-        <link href="https://mooktakim.com/blog/deploying-rails-with-kamal/"/>
-        <updated>2026-03-26T16:00:00.000Z</updated>
-        <published>2026-03-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Considering MMAP() verus plain reads for my recent code]]></title>
-        <id>https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts</id>
-        <link href="https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts"/>
-        <updated>2026-03-26T16:00:00.000Z</updated>
-        <published>2026-03-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A Postgres Extension to Write PostgreSQL Functions in TypeScript]]></title>
-        <id>https://github.com/isaacd9/pg_typescript</id>
-        <link href="https://github.com/isaacd9/pg_typescript"/>
+        <title type="html"><![CDATA[Postmortem of March 2026 Archive of Our Own Downtime]]></title>
+        <id>https://archiveofourown.org/works/81635876</id>
+        <link href="https://archiveofourown.org/works/81635876"/>
         <updated>2026-03-26T16:00:00.000Z</updated>
         <published>2026-03-26T16:00:00.000Z</published>
     </entry>
@@ -183,9 +127,107 @@
         <published>2026-03-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postmortem of March 2026 Archive of Our Own Downtime]]></title>
-        <id>https://archiveofourown.org/works/81635876</id>
-        <link href="https://archiveofourown.org/works/81635876"/>
+        <title type="html"><![CDATA[Show HN: A Postgres Extension to Write PostgreSQL Functions in TypeScript]]></title>
+        <id>https://github.com/isaacd9/pg_typescript</id>
+        <link href="https://github.com/isaacd9/pg_typescript"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Considering MMAP() verus plain reads for my recent code]]></title>
+        <id>https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts</id>
+        <link href="https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Complete Guide to Deploying Rails 8 with Kamal on Hetzner]]></title>
+        <id>https://mooktakim.com/blog/deploying-rails-with-kamal/</id>
+        <link href="https://mooktakim.com/blog/deploying-rails-with-kamal/"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[She spent 20 months battling to die under a euthanasia law. Today Spain let her]]></title>
+        <id>https://www.cnn.com/2026/03/26/europe/euthanasia-spain-noelia-castillo-latam-intl</id>
+        <link href="https://www.cnn.com/2026/03/26/europe/euthanasia-spain-noelia-castillo-latam-intl"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Japanese metal band becomes real-life after creator hires actual musicians]]></title>
+        <id>https://www.dexerto.com/entertainment/ai-band-becomes-real-life-group-after-creator-hires-actual-musicians-to-perform-for-them-3336120/</id>
+        <link href="https://www.dexerto.com/entertainment/ai-band-becomes-real-life-group-after-creator-hires-actual-musicians-to-perform-for-them-3336120/"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Domain-Specific Embedding Model in Under a Day]]></title>
+        <id>https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune</id>
+        <link href="https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: ClearConfig for Java – A modern, highly-composable config library]]></title>
+        <id>https://github.com/japgolly/clear-config-java</id>
+        <link href="https://github.com/japgolly/clear-config-java"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentagon considers diverting Ukraine military aid to the Middle East]]></title>
+        <id>https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/</id>
+        <link href="https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fundamentals of Astronomy: A Guide for Olympiads]]></title>
+        <id>https://www.astrolympiad.com/</id>
+        <link href="https://www.astrolympiad.com/"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Documentation Agent for Engineers]]></title>
+        <id>https://github.com/Qurse123/Documenation-agent</id>
+        <link href="https://github.com/Qurse123/Documenation-agent"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Offline Mac Translator (WebRTC+Llama.cpp). Roast My C++]]></title>
+        <id>https://github.com/GlitchyBlep/Realtime-AI-Translator</id>
+        <link href="https://github.com/GlitchyBlep/Realtime-AI-Translator"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[600-year-old grape seed used to make pinot noir wine found in medieval toilet]]></title>
+        <id>https://www.cbsnews.com/news/ancient-grape-pinot-noir-wine-found-toilet-medieval-hospital-france/</id>
+        <link href="https://www.cbsnews.com/news/ancient-grape-pinot-noir-wine-found-toilet-medieval-hospital-france/"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Build trust for closed source product]]></title>
+        <id>https://news.ycombinator.com/item?id=47538125</id>
+        <link href="https://news.ycombinator.com/item?id=47538125"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AutoModel – SQL-First Reverse ORM for Rust, Built for the Greater DX and AI Era]]></title>
+        <id>https://github.com/thepartly/automodel</id>
+        <link href="https://github.com/thepartly/automodel"/>
+        <updated>2026-03-26T16:00:00.000Z</updated>
+        <published>2026-03-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists Filmed a Whale Birth. The Surprise: Mom Had Many Helpers]]></title>
+        <id>https://www.nytimes.com/2026/03/26/climate/sperm-whale-birth-assistance.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/climate/sperm-whale-birth-assistance.html"/>
         <updated>2026-03-26T16:00:00.000Z</updated>
         <published>2026-03-26T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks]]></title>
         <id>https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/</id>
         <link href="https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’]]></title>
-        <id>https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/</id>
-        <link href="https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jury finds Meta and Google negligent in landmark social media addiction trial]]></title>
-        <id>https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/</id>
-        <link href="https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta is cutting several hundred jobs]]></title>
-        <id>https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/</id>
-        <link href="https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bernie Sanders and AOC propose a ban on data center construction]]></title>
-        <id>https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/</id>
-        <link href="https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia arrests alleged owner of cybercrime forum LeakBase, report says]]></title>
-        <id>https://techcrunch.com/2026/03/25/russia-arrests-alleged-owner-of-cybercrime-forum-leakbase-report-says/</id>
-        <link href="https://techcrunch.com/2026/03/25/russia-arrests-alleged-owner-of-cybercrime-forum-leakbase-report-says/"/>
-        <updated>2026-03-25T16:00:00.000Z</updated>
-        <published>2026-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems]]></title>
-        <id>https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/</id>
-        <link href="https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/"/>
         <updated>2026-03-25T16:00:00.000Z</updated>
         <published>2026-03-25T16:00:00.000Z</published>
     </entry>

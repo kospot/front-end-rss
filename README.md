@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-27 10:01:49，:rocket: 更新条数: +1197， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-27 12:02:02，:rocket: 更新条数: +1178， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [2ality](#2ality)  
 - [Jake-Archibald](#jake-archibald)![](/assets/dot.png)   
 - [Tan-Li-Hau](#tan-li-hau)![](/assets/dot.png)   
-- [Mark-Erikson-Blog](#mark-erikson-blog)![](/assets/dot.png)   
+- [Mark-Erikson-Blog](#mark-erikson-blog)  
 - [SurviveJS](#survivejs)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -45,7 +45,7 @@
 - [arXiv-ML](#arxiv-ml)  
 - [HuggingFace-Blog](#huggingface-blog)  
 - [smol.ai](#smol.ai)![](/assets/dot.png)   
-- [Towards-AI](#towards-ai)![](/assets/dot.png)   
+- [Towards-AI](#towards-ai)  
 - [Sebastian-Raschka](#sebastian-raschka)![](/assets/dot.png)   
 - [机器之心](#机器之心)  
 - [量子位](#量子位)  
@@ -56,10 +56,10 @@
 - [AI前线](#ai前线)  
 - [ChatGPT-更新](#chatgpt-更新)  
 - [Hacker-News](#hacker-news)![](/assets/dot.png)   
-- [TechCrunch](#techcrunch)![](/assets/dot.png)   
+- [TechCrunch](#techcrunch)  
 - [Wired](#wired)  
 - [Engadget](#engadget)  
-- [少数派](#少数派)![](/assets/dot.png)   
+- [少数派](#少数派)  
 
 ## 文章链接
 
@@ -114,8 +114,8 @@
 - [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)  
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
+- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [2026-03-05-The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)  
@@ -502,9 +502,9 @@
 </summary>
 
 
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
 - [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/) ![](/assets/new.png)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
 - [2026-03-23-not-much-happened-today](https://news.smol.ai/issues/26-03-23-not-much/)  
 - [2026-03-20-not-much-happened-today](https://news.smol.ai/issues/26-03-20-not-much/)  
 - [2026-03-19-not-much-happened-today](https://news.smol.ai/issues/26-03-19-not-much/)  
@@ -541,7 +541,7 @@
 - [2026-03-27-Which-AI-Search-Algorithm-Should-You-Actually-Use?](https://pub.towardsai.net/which-ai-search-algorithm-should-you-actually-use-c0228b21d0ab?source=rss----98111c9905da---4)  
 - [2026-03-27-Google-Just-Released-a-7-Course-AI-Professional-Certificate-And-I-Earned-Mine-in-a-Weekend](https://pub.towardsai.net/google-just-released-a-7-course-ai-professional-certificate-and-i-earned-mine-in-a-weekend-98511d6ddc6d?source=rss----98111c9905da---4)  
 - [2026-03-27-Gap-Up-and-Fade-Is-Not-Random](https://pub.towardsai.net/gap-up-and-fade-is-not-random-ab4f64ee230e?source=rss----98111c9905da---4)  
-- [2026-03-27-Improving-Deep-Neural-Learning-Networks-Part-2:-Optimization-Algorithms](https://pub.towardsai.net/improving-deep-neural-learning-networks-part-2-optimization-algorithms-79a475632328?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-27-Improving-Deep-Neural-Learning-Networks-Part-2:-Optimization-Algorithms](https://pub.towardsai.net/improving-deep-neural-learning-networks-part-2-optimization-algorithms-79a475632328?source=rss----98111c9905da---4)  
 - [2026-03-26-The-engineering-best-practices-you-can-drop-straight-into-Claude](https://pub.towardsai.net/the-engineering-best-practices-you-can-drop-straight-into-claude-8b69a55ce60d?source=rss----98111c9905da---4)  
 - [2026-03-26-How-I-Added-Semantic-Search-to-a-Production-App-Using-pgvector:-What-the-Tutorials-Skip](https://pub.towardsai.net/how-i-added-semantic-search-to-a-production-app-using-pgvector-what-the-tutorials-skip-47d95a65262f?source=rss----98111c9905da---4)  
 - [2026-03-26-Why-LightGBM-Trains-Faster-Than-XGBoost-And-When-It-Doesn’t](https://pub.towardsai.net/why-lightgbm-trains-faster-than-xgboost-and-when-it-doesnt-dbfd55e1d9cb?source=rss----98111c9905da---4)  
@@ -664,26 +664,26 @@
 </summary>
 
 
-- [2026-03-27-People-who-obsessively-exercise-are-boring](https://mathbabe.org/2014/04/14/people-who-obsessively-exercise-are-boring/)  
-- [2026-03-27-Anthropic-wins-preliminary-injunction-in-DoD-fight-on-1A](https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html)  
-- [2026-03-27-Apple-Discontinues-the-Mac-Pro](https://www.thurrott.com/mobile/mac-and-macos/334274/apple-discontinues-the-mac-pro)  
-- [2026-03-27-Monetization-needs-its-Platform-Engineering-moment](https://www.withsahel.com/blog/monetization-needs-platform-engineering-moment)  
-- [2026-03-27-Trump's-signature-to-appear-on-paper-currency-in-first-for-sitting-President](https://www.nbcnews.com/politics/donald-trump/signature-appear-paper-currency-dollar-bills-first-sitting-president-rcna265389)  
-- [2026-03-27-Postmortem-of-March-2026-Archive-of-Our-Own-Downtime](https://archiveofourown.org/works/81635876)  
-- [2026-03-27-US-Treasury-plans-to-put-Trump's-signature-on-new-paper-currency](https://apnews.com/article/trump-currency-signiture-treasury-first-d919877e39f907eba1172a07920ea80e)  
-- [2026-03-27-Know-where-your-AI-budget-is-going](https://www.flowstate.inc/)  
-- [2026-03-27-OpenChamber-–-Desktop-and-web-interface-for-OpenCode-AI-agent](https://github.com/openchamber/openchamber)  
-- [2026-03-27-One-API-for-every-AI-model.-Lower-costs-on-autopilot](https://www.deepmyst.com/)  
-- [2026-03-27-Show-HN:-A-Postgres-Extension-to-Write-PostgreSQL-Functions-in-TypeScript](https://github.com/isaacd9/pg_typescript)  
-- [2026-03-27-Considering-MMAP-verus-plain-reads-for-my-recent-code](https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts)  
-- [2026-03-27-MacBook-Neo,-the-Benchmarks](https://birchtree.me/blog/macbook-neo-the-benchmarks/)  
-- [2026-03-27-What-Will-It-Take-to-Build-the-World's-Largest-Data-Center?](https://spectrum.ieee.org/5gw-data-center)  
-- [2026-03-27-Unorthodox-Financial-Advice](https://liamrosen.com/unorthodox-financial-advice/)  
-- [2026-03-27-ERC-8004-Launch-Day-was-11-days-ago.-We-shipped-a-live-implementation](https://openpub.ai/blog/erc-8004-launch-day)  
-- [2026-03-27-Judge-blocks-Pentagon-effort-to-'punish'-Anthropic-with-supply-chain-risk-label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk)  
-- [2026-03-27-Trump-Says-He'll-Sign-Order-to-Pay-TSA](https://gizmodo.com/trump-says-hell-sign-order-to-pay-tsa-2000738813)  
-- [2026-03-27-The-Complete-Guide-to-Deploying-Rails-8-with-Kamal-on-Hetzner](https://mooktakim.com/blog/deploying-rails-with-kamal/)  
-- [2026-03-27-Anthropic-Subprocessor-Changes](https://trust.anthropic.com)  
+- [2026-03-27-Please-Compensate-the-Work-You-Appreciate](https://brainbaking.com/post/2026/03/please-compensate-the-work-you-appreciate/)  
+- [2026-03-27-Merchants-of-Certainty](https://asteriskmag.com/issues/13/merchants-of-certainty)  
+- [2026-03-27-Inkstravaganza](https://www.inkandswitch.com/newsletter/dispatch-015/)  
+- [2026-03-27-Agent-to-Agent-Pair-Programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)  
+- [2026-03-27-Show-HN:-ReportRemarks-–-A-report-card-comment-workflow-for-K-12-teachers](https://www.reportremarks.com/en)  
+- [2026-03-27-Experiment:-I-built-an-AI-that-lets-you-explore-your-possible-future-selves](https://medium.com/activated-thinker/explow-me-ai-now-lets-you-meet-and-talk-to-your-future-selves-9026da54e668)  
+- [2026-03-27-Scientists-Filmed-a-Whale-Birth.-The-Surprise:-Mom-Had-Many-Helpers](https://www.nytimes.com/2026/03/26/climate/sperm-whale-birth-assistance.html)  
+- [2026-03-27-AutoModel-–-SQL-First-Reverse-ORM-for-Rust,-Built-for-the-Greater-DX-and-AI-Era](https://github.com/thepartly/automodel)  
+- [2026-03-27-Ask-HN:-Build-trust-for-closed-source-product](https://news.ycombinator.com/item?id=47538125)  
+- [2026-03-27-600-year-old-grape-seed-used-to-make-pinot-noir-wine-found-in-medieval-toilet](https://www.cbsnews.com/news/ancient-grape-pinot-noir-wine-found-toilet-medieval-hospital-france/)  
+- [2026-03-27-Offline-Mac-Translator-WebRTC+Llama.cpp.-Roast-My-C++](https://github.com/GlitchyBlep/Realtime-AI-Translator)  
+- [2026-03-27-MineGuard-–-Autonomous-Bitcoin-mining-fleet-manager,-Karpathy-loop-optimization](https://github.com/enriquevazquezusa/mineguard)  
+- [2026-03-27-From-0%-to-36%-on-Day-1-of-ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)  
+- [2026-03-27-Show-HN:-SwiftSlim-–-Learn-Swift/SwiftUI-by-building-apps](https://testflight.apple.com/join/K4R7X4MH)  
+- [2026-03-27-A-Documentation-Agent-for-Engineers](https://github.com/Qurse123/Documenation-agent)  
+- [2026-03-27-Fundamentals-of-Astronomy:-A-Guide-for-Olympiads](https://www.astrolympiad.com/)  
+- [2026-03-27-Tinker-–-free-AI-creative-tools-by-Shopify](https://www.tinker.com/)  
+- [2026-03-27-Pentagon-considers-diverting-Ukraine-military-aid-to-the-Middle-East](https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/)  
+- [2026-03-27-Show-HN:-ClearConfig-for-Java-–-A-modern,-highly-composable-config-library](https://github.com/japgolly/clear-config-java)  
+- [2026-03-27-Build-a-Domain-Specific-Embedding-Model-in-Under-a-Day](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -707,8 +707,8 @@
 - [2026-03-27-Netflix-confirms-it’s-raising-prices-again](https://techcrunch.com/2026/03/26/netflix-confirms-its-raising-prices-again/)  
 - [2026-03-27-Mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp](https://techcrunch.com/2026/03/26/mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp/)  
 - [2026-03-27-Wikipedia-cracks-down-on-the-use-of-AI-in-article-writing](https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/)  
-- [2026-03-27-Anthropic-wins-injunction-against-Trump-administration-over-Defense-Department-saga](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/) ![](/assets/new.png)  
-- [2026-03-27-David-Sacks-is-done-as-AI-czar-—-here’s-what-he’s-doing-instead](https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/) ![](/assets/new.png)  
+- [2026-03-27-Anthropic-wins-injunction-against-Trump-administration-over-Defense-Department-saga](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/)  
+- [2026-03-27-David-Sacks-is-done-as-AI-czar-—-here’s-what-he’s-doing-instead](https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/)  
 - [2026-03-26-Why-hiring-the-weirdos-works](https://techcrunch.com/2026/03/26/why-hiring-the-weirdos-works/)  
 - [2026-03-26-A-major-hacking-tool-has-leaked-online,-putting-millions-of-iPhones-at-risk.-Here’s-what-you-need-to-know.](https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/)  
 - [2026-03-26-Conntour-raises-$7M-from-General-Catalyst,-YC-to-build-an-AI-search-engine-for-security-video-systems](https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/)  
@@ -768,7 +768,7 @@
 </summary>
 
 
-- [2026-03-27-派早报：iQOO-发布-Z11-系列手机等](https://sspai.com/post/107915) ![](/assets/new.png)  
+- [2026-03-27-派早报：iQOO-发布-Z11-系列手机等](https://sspai.com/post/107915)  
 - [2026-03-26-新玩意-238｜少数派的编辑们最近买了啥？](https://sspai.com/post/107863)  
 - [2026-03-26-住久了没意思？租房常见问题与我的改造原则](https://sspai.com/prime/story/how-to-renovate-a-rental)  
 - [2026-03-26-年度征文「决赛圈」：选出你的心中最佳](https://sspai.com/post/107830)  
