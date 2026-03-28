@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-28 15:01:07，:rocket: 更新条数: +1070， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-28 18:01:56，:rocket: 更新条数: +1056， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -52,14 +52,14 @@
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
-- [我爱自然语言处理](#我爱自然语言处理)![](/assets/dot.png)   
+- [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT-更新](#chatgpt-更新)  
 - [Hacker-News](#hacker-news)![](/assets/dot.png)   
 - [TechCrunch](#techcrunch)  
 - [Wired](#wired)![](/assets/dot.png)   
 - [Engadget](#engadget)  
-- [少数派](#少数派)![](/assets/dot.png)   
+- [少数派](#少数派)  
 
 ## 文章链接
 
@@ -113,8 +113,8 @@
 - [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)  
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
+- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [2026-03-05-The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)  
@@ -499,10 +499,10 @@
 </summary>
 
 
-- [2026-03-27-not-much-happened-today](https://news.smol.ai/issues/26-03-27-not-much/) ![](/assets/new.png)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
+- [2026-03-27-not-much-happened-today](https://news.smol.ai/issues/26-03-27-not-much/)  
 - [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
 - [2026-03-23-not-much-happened-today](https://news.smol.ai/issues/26-03-23-not-much/)  
 - [2026-03-20-not-much-happened-today](https://news.smol.ai/issues/26-03-20-not-much/)  
 - [2026-03-19-not-much-happened-today](https://news.smol.ai/issues/26-03-19-not-much/)  
@@ -661,26 +661,26 @@
 </summary>
 
 
-- [2026-03-28-The-AI-Boom-Is-Missing-the-Secret-Sauce-of-the-1990s](https://www.bloomberg.com/news/articles/2026-03-27/why-today-s-ai-boom-won-t-repeat-the-1990s-economy)  
-- [2026-03-28-Australia's-Social-Media-Ban-Runs-into-a-Wave-of-Teen-Workarounds](https://www.bloomberg.com/news/articles/2026-03-27/instagram-and-tiktok-ban-for-australian-kids-is-put-to-the-test)  
-- [2026-03-28-Gulf-Countries'-Frustration-with-the-US-Grows-as-War-Wears-On](https://www.bloomberg.com/news/articles/2026-03-27/gulf-countries-frustration-with-the-us-grows-as-war-wears-on)  
-- [2026-03-28-Tyler-Cowen-on-the-state-of-economics-and-AI](https://arnoldkling.substack.com/p/tyler-cowen-on-the-state-of-economics)  
-- [2026-03-28-Social-Security-Should-Be-a-Forced-Savings-Program-Not-a-Welfare-Program](https://marginalrevolution.com/marginalrevolution/2026/03/social-security-should-be-a-forced-savings-program-not-a-welfare-program.html)  
-- [2026-03-28-PonderingEffects](https://wiki.alopex.li/PonderingEffects)  
-- [2026-03-28-How-to-use-mutliple-Android-devices-together-to-make-music-and-more](https://codeberg.org/ohmstone/android-multi-device-demo)  
-- [2026-03-28-Everyone-is-building-a-software-factory](https://blog.exe.dev/bones-of-the-software-factory)  
-- [2026-03-28-FitBit-Fakes-Data:-Google-Treats-Integrity-as-Career-Poison](https://www.flyingpenguin.com/fitbit-fakes-data-google-treats-integrity-as-career-poison/)  
-- [2026-03-28-Your-Defense-Code-Is-Already-AI-Generated.-Now-What?](https://warontherocks.com/2026/03/your-defense-code-is-already-ai-generated-now-what/)  
-- [2026-03-28-The-future-of-text-layout-is-not-CSS](https://chenglou.me/pretext/editorial-engine/)  
-- [2026-03-28-Consumer-Rights-Wiki](https://consumerrights.wiki/w/Main_Page)  
-- [2026-03-28-Americans-can-'directly-text-Donald-Trump'-with-new-White-House-app](https://www.the-sun.com/news/16147962/donald-trump-new-white-house-app-livestreams-unfiltered-news/)  
-- [2026-03-28-Show-HN:-Sigil-–-A-zero-knowledge-steganography-vault-for-AI-training-data](https://news.ycombinator.com/item?id=47551236)  
-- [2026-03-28-The-Worst-Case-Scenario-for-AI-and-the-News-Is-Here](https://www.theatlantic.com/international/2026/03/netanyahu-not-dead-israel-ai/686593/)  
-- [2026-03-28-Musk-has-a-plan-to-make-human-labor-obsolete.-Billionaires-are-joining-in.](https://www.washingtonpost.com/technology/2026/03/27/musk-optimus-robot-physical-ai/)  
-- [2026-03-28-Trump-Said-This-Policy-Would-Make-Manhattan-a-'Ghost-Town.'-He-Was-Wrong](https://www.nytimes.com/2026/03/27/opinion/congestion-pricing-traffic-new-york.html)  
-- [2026-03-28-SlopCodeBench:-Benchmarking-How-Coding-Agents-Degrade-over-Long-Horizon-Tasks](https://www.scbench.ai/)  
-- [2026-03-28-ViraxLog-–-Tamper-Proof-Logging-Using-Merkle-Trees-and-BLAKE2B-for-Python](https://github.com/damienos61/viraxlog)  
-- [2026-03-28-Chezmoi:-Manage-Dotfiles-Across-Machines](https://www.chezmoi.io/)  
+- [2026-03-28-Llama.cpp-with-CUDA-Support-on-Original-Jetson-Nano-4GB](https://github.com/kreier/llama.cpp-jetson)  
+- [2026-03-28-LLMs-on-a-PowerPC-Mac](http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html)  
+- [2026-03-28-Show-HN:-WordGen,-a-fast-and-easy-to-use-wordlist-generator](https://news.ycombinator.com/item?id=47552244)  
+- [2026-03-28-Stop-Guessing.-Start-Scaling.-Land-Your-Dream-Big-Tech-Offer-with-InterviewGPT](https://interviewgpt.deepchill.app/blogs)  
+- [2026-03-28-Show-HN:-NUPA-is-Pax-Economica,-6,480x-more-stable-than-current-US-economy](https://news.ycombinator.com/item?id=47552220)  
+- [2026-03-28-Show-HN:-Live-global-gas-station-inventory](https://tanklevel.info/)  
+- [2026-03-28-First-evidence-of-birth-assistance-in-non-primates-filmed-whales](https://www.dawn.com/news/1986116)  
+- [2026-03-28-Sora-2-API-and-Sora-2-Pro-API](https://sora2-api.com)  
+- [2026-03-28-Code-review-skill-inspierd-by-Gilfoyle-and-Dinesh](https://github.com/v1r3n/dinesh-gilfoyle)  
+- [2026-03-28-I-Let-AI-Write-My-Code,-but-Not-My-Writing](https://hermeticwoodsman.substack.com/p/why-i-let-ai-write-my-code-but-not)  
+- [2026-03-28-The-Machiavellian-Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)  
+- [2026-03-28-Pretext:-JavaScript/TypeScript-library-for-multiline-text-measurement-and-layout](https://github.com/chenglou/pretext)  
+- [2026-03-28-Scientists-film-whale-giving-birth-while-other-whales-work-together-to-help-her](https://www.theguardian.com/environment/2026/mar/27/scientists-film-whale-giving-birth-other-whales-help-her)  
+- [2026-03-28-Ada-and-Spark-on-ARM-Cortex-M-–-A-Tutorial-with-Arduino-and-Nucleo-Examples](http://inspirel.com/articles/Ada_On_Cortex.html)  
+- [2026-03-28-Poison-AI-Training-Data-Scrapers](https://github.com/austin-weeks/miasma)  
+- [2026-03-28-Show-HN:-Local-Vault-–-AES-256-GCM-password-manager-in-a-single-HTML-file](https://github.com/RachidBoutaguiout/local-vault)  
+- [2026-03-28-Stop-Calling-Them-VPNs-2024](https://flameeyes.blog/2024/09/29/stop-calling-them-vpns/)  
+- [2026-03-28-Ask-HN:-Best-place-to-host-a-Node.js-App-in-2026](https://news.ycombinator.com/item?id=47552071)  
+- [2026-03-28-The-Deliverable-Is-You-Programming-as-Theory-Building](https://nekolucifer.substack.com/p/the-deliverable-is-you-programming)  
+- [2026-03-28-Fear-and-denial-in-Silicon-Valley-over-social-media-addiction-trial](https://www.bbc.com/news/articles/c86e3eglv2go)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -723,26 +723,26 @@
 </summary>
 
 
-- [2026-03-28-AI-Research-Is-Getting-Harder-to-Separate-From-Geopolitics](https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/)  
-- [2026-03-28-The-Best-Office-Chair-Is-$50-Cheaper-Than-We've-Seen-Before](https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/)  
-- [2026-03-28-10-Things-You-Can-Do-While-Waiting-in-the-TSA-Line](https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/)  
-- [2026-03-28-Iranian-Hackers-Breached-Kash-Patel’s-Email—but-Not-the-FBI’s](https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/)  
+- [2026-03-28-Loop-Earplugs-Discount-Codes-and-Deals:-Save-on-Ear-Buds-and-Gift-Sets](https://www.wired.com/story/loop-earplugs-discount-code/)  
+- [2026-03-28-Instacart-Promo-Code:-Save-on-Groceries-in-March-2026](https://www.wired.com/story/instacart-promo/code/)  
+- [2026-03-28-Meta-Quest-Promo-Codes:-$50-Off-|-March-2026](https://www.wired.com/story/meta-quest-promo-code/)  
+- [2026-03-28-Acer-Promo-Codes-and-Deals:-Save-40%-on-Bundles](https://www.wired.com/story/acer-promo-code/)  
 - [2026-03-28-This-Premium-Sennheiser-Soundbar-Is-$1,000-Off](https://www.wired.com/story/sennheiser-ambeo-max-deal-326/)  
-- [2026-03-28-Acer-Promo-Codes-and-Deals:-Save-40%-on-Bundles](https://www.wired.com/story/acer-promo-code/) ![](/assets/new.png)  
-- [2026-03-28-Meta-Quest-Promo-Codes:-$50-Off-|-March-2026](https://www.wired.com/story/meta-quest-promo-code/) ![](/assets/new.png)  
-- [2026-03-28-Instacart-Promo-Code:-Save-on-Groceries-in-March-2026](https://www.wired.com/story/instacart-promo/code/) ![](/assets/new.png)  
-- [2026-03-28-Loop-Earplugs-Discount-Codes-and-Deals:-Save-on-Ear-Buds-and-Gift-Sets](https://www.wired.com/story/loop-earplugs-discount-code/) ![](/assets/new.png)  
-- [2026-03-27-ICE-Agents-Frustrate-Airport-Workers-as-Shutdown-Drags-On](https://www.wired.com/story/ice-agents-frustrate-airport-employees-as-shutdown-drags-on/)  
-- [2026-03-27-Apple-Still-Plans-to-Sell-iPhones-When-It-Turns-100](https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/)  
-- [2026-03-27-8-Best-Espresso-Machines-for-Home-2026,-Tested-by-Coffee-Pros](https://www.wired.com/gallery/best-espresso-machines/)  
-- [2026-03-27-Porsche-Cayenne-Electric-Review:-A-Phenomenally-Capable-SUV](https://www.wired.com/review/porsche-cayenne-electric-2026/)  
-- [2026-03-27-13-Best-MagSafe-Wallets-2026,-Tested-IRL](https://www.wired.com/gallery/best-magsafe-wallets/)  
-- [2026-03-27-Best-External-Hard-Drive-2026:-SSD-to-Store-Data,-Video,-and-More](https://www.wired.com/story/best-portable-external-storage-drives/)  
-- [2026-03-27-One-Way-or-Another,-Most-of-Our-Electricity-Comes-From-Solar-Power](https://www.wired.com/story/most-of-our-electricity-comes-from-solar-power/)  
-- [2026-03-27-A-New-AI-Documentary-Puts-CEOs-in-the-Hot-Seat—but-Goes-Too-Easy-on-Them](https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/)  
-- [2026-03-27-I-Asked-ChatGPT-500-Questions.-Here-Are-the-Ads-I-Saw-Most-Often](https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/)  
-- [2026-03-27-Samsung-Galaxy-S26-and-Galaxy-S26+-Review:-Lacking-Ambition](https://www.wired.com/review/samsung-galaxy-s26-and-galaxy-s26-plus/)  
-- [2026-03-27-How-to-Back-Up-Your-iPhone-to-iCloud,-MacOS,-or-Windows-2026](https://www.wired.com/story/how-to-backup-your-iphone/)  
+- [2026-03-28-Iranian-Hackers-Breached-Kash-Patel’s-Email—but-Not-the-FBI’s](https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/)  
+- [2026-03-28-10-Things-You-Can-Do-While-Waiting-in-the-TSA-Line](https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/)  
+- [2026-03-28-The-Best-Office-Chair-Is-$50-Cheaper-Than-We've-Seen-Before](https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/)  
+- [2026-03-28-AI-Research-Is-Getting-Harder-to-Separate-From-Geopolitics](https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/)  
+- [2026-03-28-Best-360-Cameras-2026:-DJI,-Insta360,-GoPro](https://www.wired.com/gallery/best-360-cameras/) ![](/assets/new.png)  
+- [2026-03-27-Skip-the-TSA-Line:-Where-to-Find-Travel-by-Bus,-Train,-and-Boat](https://www.wired.com/story/skip-the-tsa-line-where-to-find-travel-by-bus-train-and-boat/)  
+- [2026-03-27-Garmin-InReach-Mini-3-Plus-Satellite-Messenger-Review:-Robust-With-Lots-of-Upselling](https://www.wired.com/review/garmin-inreach-mini-3-plus/)  
+- [2026-03-27-Anthropic-Supply-Chain-Risk-Designation-Halted-By-Judge](https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/)  
+- [2026-03-27-This-Premium-Gaming-Headset-Is-$80-Off-on-Amazon](https://www.wired.com/story/steelseries-arctis-nova-pro-deal-326/)  
+- [2026-03-27-Which-E-Readers-I'd-Recommend-Buying-in-Amazon's-Spring-Sale](https://www.wired.com/story/e-reader-deals-amazon-spring-sale/)  
+- [2026-03-27-Meet-the-Tech-Reporters-Using-AI-to-Help-Write-and-Edit-Their-Stories](https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/)  
+- [2026-03-27-These-35-Amazon-Spring-Sale-Tech-Deals-Are-Actually-Good.-We-Checked-the-Price-History-2026](https://www.wired.com/story/the-amazon-spring-sale-2026-1/)  
+- [2026-03-27-You-Can-Skip-a-Lot-of-Amazon’s-Spring-Sale,-but-Don’t-Skip-This-Travel-Upgrade](https://www.wired.com/story/cadence-capsules-amazon-spring-sale-2026/)  
+- [2026-03-27-How-Trump’s-Plot-to-Grab-Iran's-Nuclear-Fuel-Would-Actually-Work](https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/)  
+- [2026-03-27-50%-Off-DoorDash-Promo-Code-|-March-2026](https://www.wired.com/story/doordash-promo-code/)  
 - [......【查看更多】......](/details/Wired.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -766,7 +766,7 @@
 
 
 - [2026-03-28-付费栏目试读-|-词不达意想找表情？不妨试试-Raycast-Emoji-选择器](https://sspai.com/post/107843)  
-- [2026-03-28-写在-Raycast-2.0-前夜：一份不再过时的使用指南](https://sspai.com/post/107980) ![](/assets/new.png)  
+- [2026-03-28-写在-Raycast-2.0-前夜：一份不再过时的使用指南](https://sspai.com/post/107980)  
 - [2026-03-27-共创-|-守护孩子的天马行空：《写给家长的幼儿美术启蒙指南》上线](https://sspai.com/post/107748)  
 - [2026-03-27-共创栏目试读-|-美术专业就能做好幼儿美育启蒙吗？](https://sspai.com/post/101488)  
 - [2026-03-27-派早报：iQOO-发布-Z11-系列手机等](https://sspai.com/post/107915)  
