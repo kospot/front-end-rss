@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-28 06:00:58，:rocket: 更新条数: +1213， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-28 08:01:47，:rocket: 更新条数: +1187， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -52,12 +52,12 @@
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
-- [我爱自然语言处理](#我爱自然语言处理)![](/assets/dot.png)   
+- [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT-更新](#chatgpt-更新)  
 - [Hacker-News](#hacker-news)![](/assets/dot.png)   
-- [TechCrunch](#techcrunch)![](/assets/dot.png)   
-- [Wired](#wired)![](/assets/dot.png)   
+- [TechCrunch](#techcrunch)  
+- [Wired](#wired)  
 - [Engadget](#engadget)  
 - [少数派](#少数派)  
 
@@ -113,8 +113,8 @@
 - [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)  
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
+- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [2026-03-05-The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)  
@@ -499,9 +499,9 @@
 </summary>
 
 
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
 - [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
 - [2026-03-23-not-much-happened-today](https://news.smol.ai/issues/26-03-23-not-much/)  
 - [2026-03-20-not-much-happened-today](https://news.smol.ai/issues/26-03-20-not-much/)  
 - [2026-03-19-not-much-happened-today](https://news.smol.ai/issues/26-03-19-not-much/)  
@@ -530,26 +530,26 @@
 </summary>
 
 
-- [2026-03-28-Vibe-Coding-vs.-Agentic-Coding:-The-New-Frontier-of-AI-Software-Engineering](https://pub.towardsai.net/vibe-coding-vs-agentic-coding-the-new-frontier-of-ai-software-engineering-cfa9b18ad39c?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-28-The-Socratic-Model:-Why-the-Wisest-AI-is-the-One-That-Knows-When-to-Ask.](https://pub.towardsai.net/the-socratic-model-why-the-wisest-ai-is-the-one-that-knows-when-to-ask-f9b777a483f4?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-28-Crack-ML-Interviews-with-Confidence:-Principal-Component-Analysis,-PCA-20-Q&amp;A](https://pub.towardsai.net/crack-ml-interviews-with-confidence-principal-component-analysis-pca-20-q-a-d6134465cc3d?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-28-OpenAI-Spent-$15-Million-a-Day-on-Sora.-It-Earned-$2.1-Million-Total.](https://pub.towardsai.net/openai-spent-15-million-a-day-on-sora-it-earned-2-1-million-total-b23977bba89b?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-27-Amazon’s-AI-Health-Tool-Transforms-Medical-Navigation](https://pub.towardsai.net/amazons-ai-health-tool-transforms-medical-navigation-e07879534091?source=rss----98111c9905da---4)  
-- [2026-03-27-A-coding-agent-token-saving-tool](https://pub.towardsai.net/a-new-mcp-tool-token-codegraph-32a91db978e0?source=rss----98111c9905da---4)  
-- [2026-03-27-Building-Governance-for-AI-Agents-Exposes-Fractures-in-How-We-Govern-Today](https://pub.towardsai.net/building-governance-for-ai-agents-exposes-fractures-in-how-we-govern-today-d36eb8fc7413?source=rss----98111c9905da---4)  
-- [2026-03-27-Blackwall-LLM-Shield--Because-“Hope-It-Doesn’t-Jailbreak”-Isn’t-a-Security-Strategy](https://pub.towardsai.net/blackwall-llm-shield-because-hope-it-doesnt-jailbreak-isn-t-a-security-strategy-0074c842be03?source=rss----98111c9905da---4)  
-- [2026-03-27-XGBoost-Has-Been-King-for-20-Years.](https://pub.towardsai.net/xgboost-has-been-king-for-20-years-4d80267a9ae5?source=rss----98111c9905da---4)  
-- [2026-03-27-Popular-Development-Environments-Using-Localhost-Understanding-Localhost-Domains:-Your-Gateway-to…](https://pub.towardsai.net/popular-development-environments-using-localhostunderstanding-localhost-domains-your-gateway-to-dbc10c7c3127?source=rss----98111c9905da---4)  
-- [2026-03-27-Every-Business-Will-Build-AI-Skills.-Most-Will-Ship-Garbage.](https://pub.towardsai.net/every-business-will-build-ai-skills-most-will-ship-garbage-f1bcf218a8d7?source=rss----98111c9905da---4)  
-- [2026-03-27-Agentic-AI-Project:-Build-a-Customer-Service-Chatbot-for-a-Clinic](https://pub.towardsai.net/agentic-ai-project-build-a-customer-service-chatbot-for-a-clinic-9744ef4a5b25?source=rss----98111c9905da---4)  
-- [2026-03-27-MiniMax-M2.7-Built-Itself.-Here’s-How-to-Use-It-Like-a-Pro.](https://pub.towardsai.net/minimax-m2-7-built-itself-heres-how-to-use-it-like-a-pro-81b7ec04151f?source=rss----98111c9905da---4)  
-- [2026-03-27-System-Prompts,-Commands-&amp;-Skills:-How-AI-Personalization-Grew-Up](https://pub.towardsai.net/system-prompts-commands-skills-how-ai-personalization-grew-up-af2fc985fa74?source=rss----98111c9905da---4)  
-- [2026-03-27-Why-I-Built-Per-Agent-Model-Routing-—-And-What-It-Reveals-About-AI-Cost-at-Scale](https://pub.towardsai.net/why-i-built-per-agent-model-routing-and-what-it-reveals-about-ai-cost-at-scale-1ae16d5833c3?source=rss----98111c9905da---4)  
-- [2026-03-27-Which-AI-Search-Algorithm-Should-You-Actually-Use?](https://pub.towardsai.net/which-ai-search-algorithm-should-you-actually-use-c0228b21d0ab?source=rss----98111c9905da---4)  
-- [2026-03-27-Google-Just-Released-a-7-Course-AI-Professional-Certificate-And-I-Earned-Mine-in-a-Weekend](https://pub.towardsai.net/google-just-released-a-7-course-ai-professional-certificate-and-i-earned-mine-in-a-weekend-98511d6ddc6d?source=rss----98111c9905da---4)  
-- [2026-03-27-Gap-Up-and-Fade-Is-Not-Random](https://pub.towardsai.net/gap-up-and-fade-is-not-random-ab4f64ee230e?source=rss----98111c9905da---4)  
-- [2026-03-27-Improving-Deep-Neural-Learning-Networks-Part-2:-Optimization-Algorithms](https://pub.towardsai.net/improving-deep-neural-learning-networks-part-2-optimization-algorithms-79a475632328?source=rss----98111c9905da---4)  
+- [2026-03-28-OpenAI-Spent-$15-Million-a-Day-on-Sora.-It-Earned-$2.1-Million-Total.](https://pub.towardsai.net/openai-spent-15-million-a-day-on-sora-it-earned-2-1-million-total-b23977bba89b?source=rss----98111c9905da---4)  
+- [2026-03-28-Crack-ML-Interviews-with-Confidence:-Principal-Component-Analysis,-PCA-20-Q&amp;A](https://pub.towardsai.net/crack-ml-interviews-with-confidence-principal-component-analysis-pca-20-q-a-d6134465cc3d?source=rss----98111c9905da---4)  
+- [2026-03-28-The-Socratic-Model:-Why-the-Wisest-AI-is-the-One-That-Knows-When-to-Ask.](https://pub.towardsai.net/the-socratic-model-why-the-wisest-ai-is-the-one-that-knows-when-to-ask-f9b777a483f4?source=rss----98111c9905da---4)  
+- [2026-03-28-Vibe-Coding-vs.-Agentic-Coding:-The-New-Frontier-of-AI-Software-Engineering](https://pub.towardsai.net/vibe-coding-vs-agentic-coding-the-new-frontier-of-ai-software-engineering-cfa9b18ad39c?source=rss----98111c9905da---4)  
+- [2026-03-28-You-Don’t-Need-RAG.-You-Need-Semantic-Compression.](https://pub.towardsai.net/you-dont-need-rag-you-need-semantic-compression-74d41d65bac1?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-28-I-Burned-Thousands-of-Hours-on-the-Cursor.-Here-Is-Why-“Auto-Accept”-Is-a-Trap.](https://pub.towardsai.net/i-burned-thousands-of-hours-on-the-cursor-here-is-why-auto-accept-is-a-trap-94db0390ab11?source=rss----98111c9905da---4) ![](/assets/new.png)  
 - [2026-03-27-A-Hands-On-guide-for-Learning-Langchain,-LCEL,-LLMOps-the-Practical-Way](https://pub.towardsai.net/a-hands-on-guide-for-learning-langchain-lcel-llmops-the-practical-way-43f107a8b588?source=rss----98111c9905da---4)  
+- [2026-03-27-Improving-Deep-Neural-Learning-Networks-Part-2:-Optimization-Algorithms](https://pub.towardsai.net/improving-deep-neural-learning-networks-part-2-optimization-algorithms-79a475632328?source=rss----98111c9905da---4)  
+- [2026-03-27-Gap-Up-and-Fade-Is-Not-Random](https://pub.towardsai.net/gap-up-and-fade-is-not-random-ab4f64ee230e?source=rss----98111c9905da---4)  
+- [2026-03-27-Google-Just-Released-a-7-Course-AI-Professional-Certificate-And-I-Earned-Mine-in-a-Weekend](https://pub.towardsai.net/google-just-released-a-7-course-ai-professional-certificate-and-i-earned-mine-in-a-weekend-98511d6ddc6d?source=rss----98111c9905da---4)  
+- [2026-03-27-Which-AI-Search-Algorithm-Should-You-Actually-Use?](https://pub.towardsai.net/which-ai-search-algorithm-should-you-actually-use-c0228b21d0ab?source=rss----98111c9905da---4)  
+- [2026-03-27-Why-I-Built-Per-Agent-Model-Routing-—-And-What-It-Reveals-About-AI-Cost-at-Scale](https://pub.towardsai.net/why-i-built-per-agent-model-routing-and-what-it-reveals-about-ai-cost-at-scale-1ae16d5833c3?source=rss----98111c9905da---4)  
+- [2026-03-27-System-Prompts,-Commands-&amp;-Skills:-How-AI-Personalization-Grew-Up](https://pub.towardsai.net/system-prompts-commands-skills-how-ai-personalization-grew-up-af2fc985fa74?source=rss----98111c9905da---4)  
+- [2026-03-27-MiniMax-M2.7-Built-Itself.-Here’s-How-to-Use-It-Like-a-Pro.](https://pub.towardsai.net/minimax-m2-7-built-itself-heres-how-to-use-it-like-a-pro-81b7ec04151f?source=rss----98111c9905da---4)  
+- [2026-03-27-Agentic-AI-Project:-Build-a-Customer-Service-Chatbot-for-a-Clinic](https://pub.towardsai.net/agentic-ai-project-build-a-customer-service-chatbot-for-a-clinic-9744ef4a5b25?source=rss----98111c9905da---4)  
+- [2026-03-27-Every-Business-Will-Build-AI-Skills.-Most-Will-Ship-Garbage.](https://pub.towardsai.net/every-business-will-build-ai-skills-most-will-ship-garbage-f1bcf218a8d7?source=rss----98111c9905da---4)  
+- [2026-03-27-Popular-Development-Environments-Using-Localhost-Understanding-Localhost-Domains:-Your-Gateway-to…](https://pub.towardsai.net/popular-development-environments-using-localhostunderstanding-localhost-domains-your-gateway-to-dbc10c7c3127?source=rss----98111c9905da---4)  
+- [2026-03-27-XGBoost-Has-Been-King-for-20-Years.](https://pub.towardsai.net/xgboost-has-been-king-for-20-years-4d80267a9ae5?source=rss----98111c9905da---4)  
+- [2026-03-27-Blackwall-LLM-Shield--Because-“Hope-It-Doesn’t-Jailbreak”-Isn’t-a-Security-Strategy](https://pub.towardsai.net/blackwall-llm-shield-because-hope-it-doesnt-jailbreak-isn-t-a-security-strategy-0074c842be03?source=rss----98111c9905da---4)  
+- [2026-03-27-Building-Governance-for-AI-Agents-Exposes-Fractures-in-How-We-Govern-Today](https://pub.towardsai.net/building-governance-for-ai-agents-exposes-fractures-in-how-we-govern-today-d36eb8fc7413?source=rss----98111c9905da---4)  
 - [......【查看更多】......](/details/Towards AI.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -661,26 +661,26 @@
 </summary>
 
 
-- [2026-03-28-Zero-Day-Exploit-in-Telegram](https://www.zerodayinitiative.com/advisories/upcoming/#ZDI-CAN-30207) ![](/assets/new.png)  
-- [2026-03-28-Canadian-retiree-required-to-give-DNA-at-Blue-Water-Bridge](https://phoebewallhoward.substack.com/p/canadian-retiree-required-to-give) ![](/assets/new.png)  
-- [2026-03-28-The-Autonomous-Battlefield](https://www.foreignaffairs.com/middle-east/autonomous-battlefield) ![](/assets/new.png)  
-- [2026-03-28-Why-AI-may-increase-competition-but-not-success-rates](https://arxiv.org/abs/2603.23685) ![](/assets/new.png)  
-- [2026-03-28-NASA-to-spend-$20B-to-build-a-base-on-the-moon](https://www.nbcnews.com/science/space/nasa-build-base-moon-20-billion-rcna264899) ![](/assets/new.png)  
-- [2026-03-28-Firefox-is-and-always-has-been-terrible](https://alexandmanu.com/blog/firefox-is-actually-terrible/) ![](/assets/new.png)  
-- [2026-03-28-Fear-of-Missing-Code](https://news.ycombinator.com/item?id=47548481) ![](/assets/new.png)  
-- [2026-03-28-Ask-HN:-What's-your-desktop-setup-optimized-to-work-with-AI?](https://news.ycombinator.com/item?id=47548522) ![](/assets/new.png)  
-- [2026-03-28-iOS-Exploit-Chain-Adopted-by-Multiple-Threat-Actors](https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain) ![](/assets/new.png)  
-- [2026-03-28-US-Battled-Drone-Incursions-in-Louisiana's-Barksdale-Bomber-Base](https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury) ![](/assets/new.png)  
-- [2026-03-28-John-Bradley,-author-of-xv,-died](https://gab.com/markofafreeman/posts/116290669616400528) ![](/assets/new.png)  
-- [2026-03-28-Petri-Nets-as-Music-Sequencers:-Token-Rings,-Inhibitor-Arcs,-and-Euclidean](https://blog.stackdump.com/posts/petri-net-sequencer) ![](/assets/new.png)  
-- [2026-03-28-DOJ-confirms-FBI-Director-Kash-Patel's-personal-email-was-hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/) ![](/assets/new.png)  
-- [2026-03-28-A-Raspberry-Pi-5-Kernel-Survival-Guide](https://www.eddieoz.com/the-nvme-ghost-in-the-machine-a-raspberry-pi-5-kernel-survival-guide/) ![](/assets/new.png)  
-- [2026-03-28-CrewForm-–-Open-source-multi-agent-AI-orchestration-platform](https://github.com/CrewForm/crewform) ![](/assets/new.png)  
-- [2026-03-28-The-Definitive-Guide-for-Sales-People-to-Learn-Vibe-Coding](https://arkweaver.com/blog/sales-vibe-coding-prototyping-for-reps) ![](/assets/new.png)  
-- [2026-03-28-The-Comforting-Lie-of-SHA-Pinning](https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/) ![](/assets/new.png)  
-- [2026-03-28-Context-Matters-–-Why-Current-LLMs-Suck](https://blighhedges.substack.com/p/adaptive-prediction-under-constraints) ![](/assets/new.png)  
-- [2026-03-28-English-Wikipedia-prohibits-the-use-of-LLMs-to-generate-or-rewrite-articles](https://en.wikipedia.org/wiki/Wikipedia:Writing_articles_with_large_language_models) ![](/assets/new.png)  
-- [2026-03-28-Dear-Substack:-You-are-missing-out-on-a-big-revenue-model-opportunity](https://olshansky.substack.com/p/dear-substack-you-are-missing-out) ![](/assets/new.png)  
+- [2026-03-28-Dear-Substack:-You-are-missing-out-on-a-big-revenue-model-opportunity](https://olshansky.substack.com/p/dear-substack-you-are-missing-out)  
+- [2026-03-28-English-Wikipedia-prohibits-the-use-of-LLMs-to-generate-or-rewrite-articles](https://en.wikipedia.org/wiki/Wikipedia:Writing_articles_with_large_language_models)  
+- [2026-03-28-Context-Matters-–-Why-Current-LLMs-Suck](https://blighhedges.substack.com/p/adaptive-prediction-under-constraints)  
+- [2026-03-28-The-Comforting-Lie-of-SHA-Pinning](https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/)  
+- [2026-03-28-The-Definitive-Guide-for-Sales-People-to-Learn-Vibe-Coding](https://arkweaver.com/blog/sales-vibe-coding-prototyping-for-reps)  
+- [2026-03-28-CrewForm-–-Open-source-multi-agent-AI-orchestration-platform](https://github.com/CrewForm/crewform)  
+- [2026-03-28-A-Raspberry-Pi-5-Kernel-Survival-Guide](https://www.eddieoz.com/the-nvme-ghost-in-the-machine-a-raspberry-pi-5-kernel-survival-guide/)  
+- [2026-03-28-DOJ-confirms-FBI-Director-Kash-Patel's-personal-email-was-hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/)  
+- [2026-03-28-Petri-Nets-as-Music-Sequencers:-Token-Rings,-Inhibitor-Arcs,-and-Euclidean](https://blog.stackdump.com/posts/petri-net-sequencer)  
+- [2026-03-28-John-Bradley,-author-of-xv,-died](https://gab.com/markofafreeman/posts/116290669616400528)  
+- [2026-03-28-US-Battled-Drone-Incursions-in-Louisiana's-Barksdale-Bomber-Base](https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury)  
+- [2026-03-28-iOS-Exploit-Chain-Adopted-by-Multiple-Threat-Actors](https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain)  
+- [2026-03-28-Ask-HN:-What's-your-desktop-setup-optimized-to-work-with-AI?](https://news.ycombinator.com/item?id=47548522)  
+- [2026-03-28-Fear-of-Missing-Code](https://news.ycombinator.com/item?id=47548481)  
+- [2026-03-28-Firefox-is-and-always-has-been-terrible](https://alexandmanu.com/blog/firefox-is-actually-terrible/)  
+- [2026-03-28-NASA-to-spend-$20B-to-build-a-base-on-the-moon](https://www.nbcnews.com/science/space/nasa-build-base-moon-20-billion-rcna264899)  
+- [2026-03-28-Why-AI-may-increase-competition-but-not-success-rates](https://arxiv.org/abs/2603.23685)  
+- [2026-03-28-The-Autonomous-Battlefield](https://www.foreignaffairs.com/middle-east/autonomous-battlefield)  
+- [2026-03-28-Canadian-retiree-required-to-give-DNA-at-Blue-Water-Bridge](https://phoebewallhoward.substack.com/p/canadian-retiree-required-to-give)  
+- [2026-03-28-Zero-Day-Exploit-in-Telegram](https://www.zerodayinitiative.com/advisories/upcoming/#ZDI-CAN-30207)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -692,11 +692,11 @@
 </summary>
 
 
-- [2026-03-28-Aetherflux-reportedly-raising-Series-B-at-$2-billion-valuation](https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/) ![](/assets/new.png)  
-- [2026-03-28-European-Commission-confirms-cyberattack-after-hackers-claim-data-breach-](https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/) ![](/assets/new.png)  
-- [2026-03-28-Waymo’s-skyrocketing-ridership-in-one-chart](https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/) ![](/assets/new.png)  
-- [2026-03-28-Memory-chip-giant-SK-hynix-could-help-end-‘RAMmageddon’-with-blockbuster-US-IPO](https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/) ![](/assets/new.png)  
-- [2026-03-28-Why-SoftBank’s-new-$40B-loan-points-to-a-2026-OpenAI-IPO](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/) ![](/assets/new.png)  
+- [2026-03-28-Aetherflux-reportedly-raising-Series-B-at-$2-billion-valuation](https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/)  
+- [2026-03-28-European-Commission-confirms-cyberattack-after-hackers-claim-data-breach-](https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/)  
+- [2026-03-28-Waymo’s-skyrocketing-ridership-in-one-chart](https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/)  
+- [2026-03-28-Memory-chip-giant-SK-hynix-could-help-end-‘RAMmageddon’-with-blockbuster-US-IPO](https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/)  
+- [2026-03-28-Why-SoftBank’s-new-$40B-loan-points-to-a-2026-OpenAI-IPO](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/)  
 - [2026-03-27-David-Sacks-is-done-as-AI-czar-—-here’s-what-he’s-doing-instead](https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/)  
 - [2026-03-27-Anthropic-wins-injunction-against-Trump-administration-over-Defense-Department-saga](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/)  
 - [2026-03-27-Wikipedia-cracks-down-on-the-use-of-AI-in-article-writing](https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/)  
@@ -711,7 +711,7 @@
 - [2026-03-27-Google-is-launching-Search-Live-globally](https://techcrunch.com/2026/03/26/google-is-launching-search-live-globally/)  
 - [2026-03-27-Silicon-Valley’s-two-biggest-dramas-have-intersected:-LiteLLM-and-Delve](https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/)  
 - [2026-03-27-You-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-Gemini](https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/)  
-- [2026-03-27-OpenAI-shuts-down-Sora-while-Meta-gets-shut-out-in-court](https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/) ![](/assets/new.png)  
+- [2026-03-27-OpenAI-shuts-down-Sora-while-Meta-gets-shut-out-in-court](https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/)  
 - [......【查看更多】......](/details/TechCrunch.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -723,11 +723,11 @@
 </summary>
 
 
-- [2026-03-28-This-Premium-Sennheiser-Soundbar-Is-$1,000-Off](https://www.wired.com/story/sennheiser-ambeo-max-deal-326/) ![](/assets/new.png)  
-- [2026-03-28-Iranian-Hackers-Breached-Kash-Patel’s-Email—but-Not-the-FBI’s](https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/) ![](/assets/new.png)  
-- [2026-03-28-10-Things-You-Can-Do-While-Waiting-in-the-TSA-Line](https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/) ![](/assets/new.png)  
-- [2026-03-28-The-Best-Office-Chair-Is-$50-Cheaper-Than-We've-Seen-Before](https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/) ![](/assets/new.png)  
-- [2026-03-28-AI-Research-Is-Getting-Harder-to-Separate-From-Geopolitics](https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/) ![](/assets/new.png)  
+- [2026-03-28-This-Premium-Sennheiser-Soundbar-Is-$1,000-Off](https://www.wired.com/story/sennheiser-ambeo-max-deal-326/)  
+- [2026-03-28-Iranian-Hackers-Breached-Kash-Patel’s-Email—but-Not-the-FBI’s](https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/)  
+- [2026-03-28-10-Things-You-Can-Do-While-Waiting-in-the-TSA-Line](https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/)  
+- [2026-03-28-The-Best-Office-Chair-Is-$50-Cheaper-Than-We've-Seen-Before](https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/)  
+- [2026-03-28-AI-Research-Is-Getting-Harder-to-Separate-From-Geopolitics](https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/)  
 - [2026-03-27-Skip-the-TSA-Line:-Where-to-Find-Travel-by-Bus,-Train,-and-Boat](https://www.wired.com/story/skip-the-tsa-line-where-to-find-travel-by-bus-train-and-boat/)  
 - [2026-03-27-Garmin-InReach-Mini-3-Plus-Satellite-Messenger-Review:-Robust-With-Lots-of-Upselling](https://www.wired.com/review/garmin-inreach-mini-3-plus/)  
 - [2026-03-27-Anthropic-Supply-Chain-Risk-Designation-Halted-By-Judge](https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/)  
