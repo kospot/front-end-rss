@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-29 10:01:20，:rocket: 更新条数: +1067， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-29 12:01:10，:rocket: 更新条数: +1067， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -113,8 +113,8 @@
 - [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)  
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
+- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [2026-03-05-The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)  
@@ -499,9 +499,9 @@
 
 
 - [2026-03-27-not-much-happened-today](https://news.smol.ai/issues/26-03-27-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
 - [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
 - [2026-03-23-not-much-happened-today](https://news.smol.ai/issues/26-03-23-not-much/)  
 - [2026-03-20-not-much-happened-today](https://news.smol.ai/issues/26-03-20-not-much/)  
 - [2026-03-19-not-much-happened-today](https://news.smol.ai/issues/26-03-19-not-much/)  
@@ -660,26 +660,26 @@
 </summary>
 
 
-- [2026-03-29-I-built-PistonAlpha-to-track-the-collector-car-market-in-real-time](https://pistonalpha.com/)  
-- [2026-03-29-The-Cryptopals-Crypto-Challenges](https://cryptopals.com/)  
-- [2026-03-29-The-Braille-Institute's-family-of-hyperlegible-fonts](https://www.brailleinstitute.org/freefont/)  
-- [2026-03-29-Benchmarking-quantum-simulation-with-neutron-scattering-experiments](https://arxiv.org/abs/2603.15608)  
-- [2026-03-29-MCP-Toolbox-for-Databases](https://github.com/googleapis/genai-toolbox)  
-- [2026-03-29-Old-masters,-new-perspectives:-The-Gemäldegalerie-in-Berlin](https://blog.google/company-news/outreach-and-initiatives/arts-culture/old-masters-new-perspectives-the-gemaldegalerie-in-berlin/)  
-- [2026-03-29-Claude-IPC:-Watch-5-claudes-build-a-terminal-Yubikey-manager-together-video](https://www.youtube.com/watch?v=6vEJNr8sASI)  
-- [2026-03-29-Is-AI-agent-discoverability-a-reputation-graph-problem,-not-an-SEO-problem?](https://www.snackonai.com/p/the-web-of-trust-will-be-the-next-distribution-layer)  
-- [2026-03-29-Private-equity-turned-vulnerable-elderly-people-into-human-ATMs](https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms)  
-- [2026-03-29-OpenClaw-is-fun.-OpenClaw-is-dangerous.-Here's-where-Tailscale-helps](https://tailscale.com/blog/openclaw-tailscale-aperture-serve)  
-- [2026-03-29-U.S.-uses-hundreds-of-Tomahawk-missiles-on-Iran,-alarming-some-at-Pentagon](https://www.washingtonpost.com/national-security/2026/03/27/iran-war-tomahawk-missiles/)  
-- [2026-03-29-Left-Atrial-Appendage-Closure-or-Anticoagulation-for-Atrial-Fibrillation](https://www.nejm.org/doi/full/10.1056/NEJMoa2517213)  
-- [2026-03-29-Verify_before-–-pre-deployment-verifiability-analysis-for-neuro-symbolic-AI](https://elliotfairbanksjunior.substack.com/p/i-predicted-a-number)  
-- [2026-03-29-Building-an-E2E-Encrypted-Chat-Application-with-LanceDB-and-Libsodium](https://www.justinrmiller.com/building-an-e2e-encrypted-chat-application-with-lancedb-and-libsodium/)  
-- [2026-03-29-Drones-Market-Research-Report-2026-2036](https://finance.yahoo.com/news/drones-market-research-report-2026-144300424.html)  
-- [2026-03-29-Show-HN:-Glazyr-Viz-–-Zero-Copy-MCP-Vision-Server-via-POSIX-Shared-Memory](https://github.com/senti-001/glazyr-viz)  
-- [2026-03-29-Effective-Debugging](https://simplerengineeringmanagement.substack.com/p/effective-debugging)  
-- [2026-03-29-Through-the-Roof-2021](https://humbledollar.com/2021/05/through-the-roof/)  
-- [2026-03-29-Who-should-you-subject-to-your-vibe-coding?](https://tomjohnell.com/who-should-you-subject-to-your-vibe-coding/)  
-- [2026-03-29-Entroly-Context-engine--AI-coding-tools-100%-codebase-visibility](https://github.com/juyterman1000/entroly)  
+- [2026-03-29-Calculate-Dora-Metrics-for-Free](https://www.arewedeploying.com/)  
+- [2026-03-29-Turing-Complete](https://store.steampowered.com/app/1444480/Turing_Complete/)  
+- [2026-03-29-Meet-The-'Corporate-Bro'-Making-Millions-Satirizing-Tech-Sales](https://www.wsj.com/business/media/meet-the-corporate-bro-making-millions-satirizing-tech-sales-dccaf132)  
+- [2026-03-29-Claude-found-zero-days-in-Ghost-and-the-Linux-kernel](https://twitter.com/chiefofautism/status/2037951563931500669)  
+- [2026-03-29-Rama-matches-CockroachDB's-TPC-C-performance-at-40%-less-AWS-cost](https://blog.redplanetlabs.com/2026/03/17/rama-matches-cockroachdbs-tpc-c-performance-at-40-less-aws-cost/)  
+- [2026-03-29-Sel-–-short-film-lauren-flinner](https://www.youtube.com/watch?v=rhCn9DgOSiI)  
+- [2026-03-29-Kee-–-Key-combination-matching-on-the-modern-web](https://github.com/juzerzarif/kee)  
+- [2026-03-29-Show-HN:-PeriodicTableOfElements.org](https://periodictableofelements.org/?lang=en)  
+- [2026-03-29-Social-media-is-populist-and-polarising;-AI-may-be-the-opposite](https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e)  
+- [2026-03-29-Show-HN:-Anamnesis-–-Open-source-4D-strategic-memory-engine-for-AI-agents](https://github.com/gayawellness/anamnesis)  
+- [2026-03-29-Pretext-Demos](https://chenglou.me/pretext/)  
+- [2026-03-29-Alzheimer's-disease-mortality-among-taxi-and-ambulance-drivers-2024](https://www.bmj.com/content/387/bmj-2024-082194)  
+- [2026-03-29-pbix-mcp-—-create-and-modify-Power-BI-PBIX-files-in-pure-Python](https://github.com/d0nk3yhm/pbix-mcp)  
+- [2026-03-29-Translating-non-trivial-codebases-with-Claude](https://blog.danieljanus.pl/2026/03/26/claude-nlp/)  
+- [2026-03-29-Catching-crumbs-from-the-table-by-Ted-Chiang-2000-pdf](https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf)  
+- [2026-03-29-The-Opt-Out-Project](https://www.optoutproject.net/)  
+- [2026-03-29-BubbleWrap-your-dev-env-and-agents](https://dpc.pw/posts/bubblewrap-your-dev-env-and-agents/)  
+- [2026-03-29-A-simple-explanation-of-the-key-idea-behind-TurboQuant](https://old.reddit.com/r/LocalLLaMA/comments/1s62g5v/a_simple_explanation_of_the_key_idea_behind/)  
+- [2026-03-29-IN-Event-of-Moon-Disaster-pdf](https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf)  
+- [2026-03-29-Anthropic's-Mythos-leak:-3k-files-in-a-public-CMS,-and-what-the-docs-revealed](https://medium.com/ai-advances/anthropic-claude-mythos-leak-analysis-b77c1b304eb8)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
