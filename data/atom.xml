@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-29T13:02:20.503Z</updated>
+    <updated>2026-03-29T15:01:25.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,254 +43,44 @@
         <published>2026-03-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Multibillion-Dollar Foundation That Controls the Humanities]]></title>
-        <id>https://www.theatlantic.com/magazine/2026/03/mellon-foundation-humanities-research-funding/685733/</id>
-        <link href="https://www.theatlantic.com/magazine/2026/03/mellon-foundation-humanities-research-funding/685733/"/>
+        <title type="html"><![CDATA[16% of my Chrome extension's users are Chinese-speaking found it organically]]></title>
+        <id>https://wushu75.github.io/readr/</id>
+        <link href="https://wushu75.github.io/readr/"/>
         <updated>2026-03-28T16:00:00.000Z</updated>
         <published>2026-03-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta's victim-blaming failed to sway jurors in social media addiction trial]]></title>
-        <id>https://www.theguardian.com/technology/2026/mar/29/meta-loss-social-media-addiction-trial</id>
-        <link href="https://www.theguardian.com/technology/2026/mar/29/meta-loss-social-media-addiction-trial"/>
+        <title type="html"><![CDATA[Lasers used to seal paper – no adhesives or plastics required]]></title>
+        <id>https://newatlas.com/manufacturing/laser-paper-sealing/</id>
+        <link href="https://newatlas.com/manufacturing/laser-paper-sealing/"/>
         <updated>2026-03-28T16:00:00.000Z</updated>
         <published>2026-03-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: F1 Data – 100 resources across 11 racing series]]></title>
-        <id>https://github.com/subinium/awesome-f1</id>
-        <link href="https://github.com/subinium/awesome-f1"/>
+        <title type="html"><![CDATA[Jupiter's weather forecast: cloudy with a chance of nukes]]></title>
+        <id>https://www.science.org/content/article/jupiter-s-weather-forecast-cloudy-chance-nukes</id>
+        <link href="https://www.science.org/content/article/jupiter-s-weather-forecast-cloudy-chance-nukes"/>
         <updated>2026-03-28T16:00:00.000Z</updated>
         <published>2026-03-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taipower submits plans to restart Pingtung nuclear plant]]></title>
-        <id>https://www.taipeitimes.com/News/taiwan/archives/2026/03/27/2003854583</id>
-        <link href="https://www.taipeitimes.com/News/taiwan/archives/2026/03/27/2003854583"/>
+        <title type="html"><![CDATA[OpenAI drops AI video tool Sora, startling Disney, sources say]]></title>
+        <id>https://www.reuters.com/technology/openai-set-discontinue-sora-video-platform-app-wsj-reports-2026-03-24/</id>
+        <link href="https://www.reuters.com/technology/openai-set-discontinue-sora-video-platform-app-wsj-reports-2026-03-24/"/>
         <updated>2026-03-28T16:00:00.000Z</updated>
         <published>2026-03-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: PyNear – exact and approximate KNN, faster than Faiss]]></title>
-        <id>https://news.ycombinator.com/item?id=47562682</id>
-        <link href="https://news.ycombinator.com/item?id=47562682"/>
+        <title type="html"><![CDATA[The enshittification of Audre Lorde: "the Master's tools" in tech discourse]]></title>
+        <id>https://tarakiyee.com/on-the-enshittification-of-audre-lorde-the-masters-tools-in-tech-discourse/</id>
+        <link href="https://tarakiyee.com/on-the-enshittification-of-audre-lorde-the-masters-tools-in-tech-discourse/"/>
         <updated>2026-03-28T16:00:00.000Z</updated>
         <published>2026-03-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AltClaw – A secure scripting layer for AI agents with a module marketplace]]></title>
-        <id>https://github.com/altlimit/altclaw</id>
-        <link href="https://github.com/altlimit/altclaw"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nucleus – A minimalist container engine written in Rust]]></title>
-        <id>https://github.com/sumant1122/Nucleus</id>
-        <link href="https://github.com/sumant1122/Nucleus"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x]]></title>
-        <id>https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/</id>
-        <link href="https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QR codes can be copied – I built a way to stop reuse]]></title>
-        <id>https://news.ycombinator.com/item?id=47560784</id>
-        <link href="https://news.ycombinator.com/item?id=47560784"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Systemd Bloat Real? Dinit vs. Systemd: Which Session Uses Less Memory?]]></title>
-        <id>https://grigio.org/is-systemd-bloat-real-dinit-vs-systemd-which-session-uses-less-memory-with-labwc/</id>
-        <link href="https://grigio.org/is-systemd-bloat-real-dinit-vs-systemd-which-session-uses-less-memory-with-labwc/"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rama matches CockroachDB's TPC-C performance at 40% less AWS cost]]></title>
-        <id>https://blog.redplanetlabs.com/2026/03/17/rama-matches-cockroachdbs-tpc-c-performance-at-40-less-aws-cost/</id>
-        <link href="https://blog.redplanetlabs.com/2026/03/17/rama-matches-cockroachdbs-tpc-c-performance-at-40-less-aws-cost/"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pbix-mcp — create and modify Power BI PBIX files in pure Python]]></title>
-        <id>https://github.com/d0nk3yhm/pbix-mcp</id>
-        <link href="https://github.com/d0nk3yhm/pbix-mcp"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catching crumbs from the table by Ted Chiang (2000) [pdf]]]></title>
-        <id>https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf</id>
-        <link href="https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IN Event of Moon Disaster [pdf]]]></title>
-        <id>https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf</id>
-        <link href="https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Glazyr Viz – Zero-Copy MCP Vision Server via POSIX Shared Memory]]></title>
-        <id>https://github.com/senti-001/glazyr-viz</id>
-        <link href="https://github.com/senti-001/glazyr-viz"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw is fun. OpenClaw is dangerous. Here's where Tailscale helps]]></title>
-        <id>https://tailscale.com/blog/openclaw-tailscale-aperture-serve</id>
-        <link href="https://tailscale.com/blog/openclaw-tailscale-aperture-serve"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is AI agent discoverability a reputation graph problem, not an SEO problem?]]></title>
-        <id>https://www.snackonai.com/p/the-web-of-trust-will-be-the-next-distribution-layer</id>
-        <link href="https://www.snackonai.com/p/the-web-of-trust-will-be-the-next-distribution-layer"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude-IPC: Watch 5 claudes build a terminal Yubikey manager together [video]]]></title>
-        <id>https://www.youtube.com/watch?v=6vEJNr8sASI</id>
-        <link href="https://www.youtube.com/watch?v=6vEJNr8sASI"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old masters, new perspectives: The Gemäldegalerie in Berlin]]></title>
-        <id>https://blog.google/company-news/outreach-and-initiatives/arts-culture/old-masters-new-perspectives-the-gemaldegalerie-in-berlin/</id>
-        <link href="https://blog.google/company-news/outreach-and-initiatives/arts-culture/old-masters-new-perspectives-the-gemaldegalerie-in-berlin/"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator]]></title>
-        <id>http://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html</id>
-        <link href="http://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: JSONPath Benchmark in Java (SJF4J vs. Jayway)]]></title>
-        <id>https://news.ycombinator.com/item?id=47560038</id>
-        <link href="https://news.ycombinator.com/item?id=47560038"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: NoEyes – Terminal chat where the server is architecturally blind]]></title>
-        <id>https://github.com/Ymsniper/NoEyes</id>
-        <link href="https://github.com/Ymsniper/NoEyes"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeBSD, Caddy and PHP – a perfect match (2022)]]></title>
-        <id>https://it-notes.dragas.net/2022/07/18/freebsd-caddy-and-php-a-perfect-match/</id>
-        <link href="https://it-notes.dragas.net/2022/07/18/freebsd-caddy-and-php-a-perfect-match/"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A n00B PM's guide to vibe coding kernels from scratch]]></title>
-        <id>https://www.ddmckinnon.com/2026/03/28/a-n00b-pms-guide-to-vibe-coding-kernels-from-scratch/</id>
-        <link href="https://www.ddmckinnon.com/2026/03/28/a-n00b-pms-guide-to-vibe-coding-kernels-from-scratch/"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk's last co-founder reportedly leaves xAI]]></title>
-        <id>https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/</id>
-        <link href="https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indonesia's social media curbs for under 16s take set to start]]></title>
-        <id>https://www.reuters.com/business/media-telecom/indonesias-social-media-curbs-kids-set-saturday-few-know-how-it-will-work-2026-03-27/</id>
-        <link href="https://www.reuters.com/business/media-telecom/indonesias-social-media-curbs-kids-set-saturday-few-know-how-it-will-work-2026-03-27/"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iceflake's First Patch for Cities Skylines 2 Is Good [video]]]></title>
-        <id>https://www.youtube.com/watch?v=pNL0iYIj0mA</id>
-        <link href="https://www.youtube.com/watch?v=pNL0iYIj0mA"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Agent to Domain Intelligence: A Self-Evolving Knowledge Engine]]></title>
-        <id>https://simaxiaoqian.substack.com/p/from-agent-to-domain-intelligence</id>
-        <link href="https://simaxiaoqian.substack.com/p/from-agent-to-domain-intelligence"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A minimal React shopping list app structured for Capacitor/iOS packaging]]></title>
-        <id>https://github.com/sangress/shopping-list</id>
-        <link href="https://github.com/sangress/shopping-list"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DaVinci-MagiHuman: Open-source AI model for realistic video generation]]></title>
-        <id>https://firethering.com/davinci-magihuman-open-source-ai-video-model/</id>
-        <link href="https://firethering.com/davinci-magihuman-open-source-ai-video-model/"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lithuanian Legislation as a Git Repo]]></title>
-        <id>https://github.com/Yiin/lt-teises-aktai</id>
-        <link href="https://github.com/Yiin/lt-teises-aktai"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are LLMs a Dead End? [video]]]></title>
-        <id>https://www.youtube.com/watch?v=9IMV80GvBpU</id>
-        <link href="https://www.youtube.com/watch?v=9IMV80GvBpU"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What fork() Actually Copies]]></title>
-        <id>https://tech.daniellbastos.com.br/posts/what-fork-actually-copies/</id>
-        <link href="https://tech.daniellbastos.com.br/posts/what-fork-actually-copies/"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scion: Running Concurrent LLM Agents with Isolated Identities and Workspaces]]></title>
-        <id>https://googlecloudplatform.github.io/scion/overview/</id>
-        <link href="https://googlecloudplatform.github.io/scion/overview/"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overestimation of microplastics potentially caused by scientists' gloves]]></title>
-        <id>https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/</id>
-        <link href="https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/"/>
-        <updated>2026-03-28T16:00:00.000Z</updated>
-        <published>2026-03-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Native Jellyfin Client for macOS]]></title>
-        <id>https://github.com/CustomIcon/Lume</id>
-        <link href="https://github.com/CustomIcon/Lume"/>
+        <title type="html"><![CDATA[Scientists Create Novel Organism with Primitive Nervous System]]></title>
+        <id>https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system</id>
+        <link href="https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system"/>
         <updated>2026-03-28T16:00:00.000Z</updated>
         <published>2026-03-28T16:00:00.000Z</published>
     </entry>
@@ -302,16 +92,261 @@
         <published>2026-03-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ Technology as a Living Forest: How It Breathes and Connects]]></title>
-        <id>https://pub.towardsai.net/technology-as-a-living-forest-how-it-breathes-and-connects-4f3c5ee14d06?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/technology-as-a-living-forest-how-it-breathes-and-connects-4f3c5ee14d06?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Native Jellyfin Client for macOS]]></title>
+        <id>https://github.com/CustomIcon/Lume</id>
+        <link href="https://github.com/CustomIcon/Lume"/>
         <updated>2026-03-28T16:00:00.000Z</updated>
         <published>2026-03-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Breast Cancer Detection System End-to-End.]]></title>
-        <id>https://pub.towardsai.net/i-built-a-breast-cancer-detection-system-end-to-end-48402465aae9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-built-a-breast-cancer-detection-system-end-to-end-48402465aae9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Overestimation of microplastics potentially caused by scientists' gloves]]></title>
+        <id>https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/</id>
+        <link href="https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scion: Running Concurrent LLM Agents with Isolated Identities and Workspaces]]></title>
+        <id>https://googlecloudplatform.github.io/scion/overview/</id>
+        <link href="https://googlecloudplatform.github.io/scion/overview/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What fork() Actually Copies]]></title>
+        <id>https://tech.daniellbastos.com.br/posts/what-fork-actually-copies/</id>
+        <link href="https://tech.daniellbastos.com.br/posts/what-fork-actually-copies/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are LLMs a Dead End? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=9IMV80GvBpU</id>
+        <link href="https://www.youtube.com/watch?v=9IMV80GvBpU"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lithuanian Legislation as a Git Repo]]></title>
+        <id>https://github.com/Yiin/lt-teises-aktai</id>
+        <link href="https://github.com/Yiin/lt-teises-aktai"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DaVinci-MagiHuman: Open-source AI model for realistic video generation]]></title>
+        <id>https://firethering.com/davinci-magihuman-open-source-ai-video-model/</id>
+        <link href="https://firethering.com/davinci-magihuman-open-source-ai-video-model/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A minimal React shopping list app structured for Capacitor/iOS packaging]]></title>
+        <id>https://github.com/sangress/shopping-list</id>
+        <link href="https://github.com/sangress/shopping-list"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Agent to Domain Intelligence: A Self-Evolving Knowledge Engine]]></title>
+        <id>https://simaxiaoqian.substack.com/p/from-agent-to-domain-intelligence</id>
+        <link href="https://simaxiaoqian.substack.com/p/from-agent-to-domain-intelligence"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iceflake's First Patch for Cities Skylines 2 Is Good [video]]]></title>
+        <id>https://www.youtube.com/watch?v=pNL0iYIj0mA</id>
+        <link href="https://www.youtube.com/watch?v=pNL0iYIj0mA"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indonesia's social media curbs for under 16s take set to start]]></title>
+        <id>https://www.reuters.com/business/media-telecom/indonesias-social-media-curbs-kids-set-saturday-few-know-how-it-will-work-2026-03-27/</id>
+        <link href="https://www.reuters.com/business/media-telecom/indonesias-social-media-curbs-kids-set-saturday-few-know-how-it-will-work-2026-03-27/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk's last co-founder reportedly leaves xAI]]></title>
+        <id>https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/</id>
+        <link href="https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A n00B PM's guide to vibe coding kernels from scratch]]></title>
+        <id>https://www.ddmckinnon.com/2026/03/28/a-n00b-pms-guide-to-vibe-coding-kernels-from-scratch/</id>
+        <link href="https://www.ddmckinnon.com/2026/03/28/a-n00b-pms-guide-to-vibe-coding-kernels-from-scratch/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD, Caddy and PHP – a perfect match (2022)]]></title>
+        <id>https://it-notes.dragas.net/2022/07/18/freebsd-caddy-and-php-a-perfect-match/</id>
+        <link href="https://it-notes.dragas.net/2022/07/18/freebsd-caddy-and-php-a-perfect-match/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: NoEyes – Terminal chat where the server is architecturally blind]]></title>
+        <id>https://github.com/Ymsniper/NoEyes</id>
+        <link href="https://github.com/Ymsniper/NoEyes"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: JSONPath Benchmark in Java (SJF4J vs. Jayway)]]></title>
+        <id>https://news.ycombinator.com/item?id=47560038</id>
+        <link href="https://news.ycombinator.com/item?id=47560038"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator]]></title>
+        <id>http://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html</id>
+        <link href="http://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old masters, new perspectives: The Gemäldegalerie in Berlin]]></title>
+        <id>https://blog.google/company-news/outreach-and-initiatives/arts-culture/old-masters-new-perspectives-the-gemaldegalerie-in-berlin/</id>
+        <link href="https://blog.google/company-news/outreach-and-initiatives/arts-culture/old-masters-new-perspectives-the-gemaldegalerie-in-berlin/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude-IPC: Watch 5 claudes build a terminal Yubikey manager together [video]]]></title>
+        <id>https://www.youtube.com/watch?v=6vEJNr8sASI</id>
+        <link href="https://www.youtube.com/watch?v=6vEJNr8sASI"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is AI agent discoverability a reputation graph problem, not an SEO problem?]]></title>
+        <id>https://www.snackonai.com/p/the-web-of-trust-will-be-the-next-distribution-layer</id>
+        <link href="https://www.snackonai.com/p/the-web-of-trust-will-be-the-next-distribution-layer"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw is fun. OpenClaw is dangerous. Here's where Tailscale helps]]></title>
+        <id>https://tailscale.com/blog/openclaw-tailscale-aperture-serve</id>
+        <link href="https://tailscale.com/blog/openclaw-tailscale-aperture-serve"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Glazyr Viz – Zero-Copy MCP Vision Server via POSIX Shared Memory]]></title>
+        <id>https://github.com/senti-001/glazyr-viz</id>
+        <link href="https://github.com/senti-001/glazyr-viz"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IN Event of Moon Disaster [pdf]]]></title>
+        <id>https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf</id>
+        <link href="https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Catching crumbs from the table by Ted Chiang (2000) [pdf]]]></title>
+        <id>https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf</id>
+        <link href="https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pbix-mcp — create and modify Power BI PBIX files in pure Python]]></title>
+        <id>https://github.com/d0nk3yhm/pbix-mcp</id>
+        <link href="https://github.com/d0nk3yhm/pbix-mcp"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rama matches CockroachDB's TPC-C performance at 40% less AWS cost]]></title>
+        <id>https://blog.redplanetlabs.com/2026/03/17/rama-matches-cockroachdbs-tpc-c-performance-at-40-less-aws-cost/</id>
+        <link href="https://blog.redplanetlabs.com/2026/03/17/rama-matches-cockroachdbs-tpc-c-performance-at-40-less-aws-cost/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Systemd Bloat Real? Dinit vs. Systemd: Which Session Uses Less Memory?]]></title>
+        <id>https://grigio.org/is-systemd-bloat-real-dinit-vs-systemd-which-session-uses-less-memory-with-labwc/</id>
+        <link href="https://grigio.org/is-systemd-bloat-real-dinit-vs-systemd-which-session-uses-less-memory-with-labwc/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QR codes can be copied – I built a way to stop reuse]]></title>
+        <id>https://news.ycombinator.com/item?id=47560784</id>
+        <link href="https://news.ycombinator.com/item?id=47560784"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x]]></title>
+        <id>https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/</id>
+        <link href="https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nucleus – A minimalist container engine written in Rust]]></title>
+        <id>https://github.com/sumant1122/Nucleus</id>
+        <link href="https://github.com/sumant1122/Nucleus"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AltClaw – A secure scripting layer for AI agents with a module marketplace]]></title>
+        <id>https://github.com/altlimit/altclaw</id>
+        <link href="https://github.com/altlimit/altclaw"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: PyNear – exact and approximate KNN, faster than Faiss]]></title>
+        <id>https://news.ycombinator.com/item?id=47562682</id>
+        <link href="https://news.ycombinator.com/item?id=47562682"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taipower submits plans to restart Pingtung nuclear plant]]></title>
+        <id>https://www.taipeitimes.com/News/taiwan/archives/2026/03/27/2003854583</id>
+        <link href="https://www.taipeitimes.com/News/taiwan/archives/2026/03/27/2003854583"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: F1 Data – 100 resources across 11 racing series]]></title>
+        <id>https://github.com/subinium/awesome-f1</id>
+        <link href="https://github.com/subinium/awesome-f1"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta's victim-blaming failed to sway jurors in social media addiction trial]]></title>
+        <id>https://www.theguardian.com/technology/2026/mar/29/meta-loss-social-media-addiction-trial</id>
+        <link href="https://www.theguardian.com/technology/2026/mar/29/meta-loss-social-media-addiction-trial"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Multibillion-Dollar Foundation That Controls the Humanities]]></title>
+        <id>https://www.theatlantic.com/magazine/2026/03/mellon-foundation-humanities-research-funding/685733/</id>
+        <link href="https://www.theatlantic.com/magazine/2026/03/mellon-foundation-humanities-research-funding/685733/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ChatGPT Works Explained With Minimal Python Knowledge]]></title>
+        <id>https://pub.towardsai.net/how-chatgpt-works-explained-with-minimal-python-knowledge-380f0e24a35c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-chatgpt-works-explained-with-minimal-python-knowledge-380f0e24a35c?source=rss----98111c9905da---4"/>
         <updated>2026-03-28T16:00:00.000Z</updated>
         <published>2026-03-28T16:00:00.000Z</published>
     </entry>
@@ -323,45 +358,10 @@
         <published>2026-03-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[付费栏目试读 | 词不达意想找表情？不妨试试 Raycast Emoji 选择器]]></title>
-        <id>https://sspai.com/post/107843</id>
-        <link href="https://sspai.com/post/107843"/>
-        <updated>2026-03-27T16:00:00.000Z</updated>
-        <published>2026-03-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写在 Raycast 2.0 前夜：一份不再过时的使用指南]]></title>
-        <id>https://sspai.com/post/107980</id>
-        <link href="https://sspai.com/post/107980"/>
-        <updated>2026-03-27T16:00:00.000Z</updated>
-        <published>2026-03-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Pixel 10 Cases and Accessories (2026): We’ve Tested Dozens]]></title>
-        <id>https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/</id>
-        <link href="https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/"/>
-        <updated>2026-03-27T16:00:00.000Z</updated>
-        <published>2026-03-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Samsung Phones of 2026, Tested and Reviewed]]></title>
-        <id>https://www.wired.com/gallery/best-samsung-phones/</id>
-        <link href="https://www.wired.com/gallery/best-samsung-phones/"/>
-        <updated>2026-03-27T16:00:00.000Z</updated>
-        <published>2026-03-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Frame Pro Review: A Good TV for a Pretty Living Room]]></title>
-        <id>https://www.wired.com/review/samsung-frame-pro/</id>
-        <link href="https://www.wired.com/review/samsung-frame-pro/"/>
-        <updated>2026-03-27T16:00:00.000Z</updated>
-        <published>2026-03-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loop Earplugs Discount Codes and Deals: Save on Ear Buds and Gift Sets]]></title>
-        <id>https://www.wired.com/story/loop-earplugs-discount-code/</id>
-        <link href="https://www.wired.com/story/loop-earplugs-discount-code/"/>
-        <updated>2026-03-27T16:00:00.000Z</updated>
-        <published>2026-03-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built a Breast Cancer Detection System End-to-End.]]></title>
+        <id>https://pub.towardsai.net/i-built-a-breast-cancer-detection-system-end-to-end-48402465aae9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-built-a-breast-cancer-detection-system-end-to-end-48402465aae9?source=rss----98111c9905da---4"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
     </entry>
 </feed>
