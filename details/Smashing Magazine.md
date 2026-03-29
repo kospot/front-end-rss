@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-29 23:01:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-30 06:01:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
@@ -17,4 +17,3 @@
 - [2026-03-06-Human-Strategy-In-An-AI-Accelerated-Workflow](https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/) 
 - [2026-03-03-Now-Shipping:-Accessible-UX-Research,-A-New-Smashing-Book-By-Michele-Williams](https://smashingmagazine.com/2026/03/accessible-ux-research-release/) 
 - [2026-03-02-Getting-Started-With-The-Popover-API](https://smashingmagazine.com/2026/03/getting-started-popover-api/) 
-- [2026-02-28-Fresh-Energy-In-March-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/) 

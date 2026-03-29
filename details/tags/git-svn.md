@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-29 23:01:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-30 06:01:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -19,12 +19,12 @@
 - [2026-03-26-The-Economics-of-Builder-Saturation-in-Digital-Markets](https://arxiv.org/abs/2603.23685) 
 - [2026-03-24-SDE-Driven-Spatio-Temporal-Hypergraph-Neural-Networks-for-Irregular-Longitudinal-fMRI-Connectome-Modeling-in-Alzheimer's-Disease](https://arxiv.org/abs/2603.20452) 
 - [2026-03-29-Lithuanian-Legislation-as-a-Git-Repo](https://github.com/Yiin/lt-teises-aktai) 
-- [2026-03-26-The-Digital-Imprimatur-2003](https://www.fourmilab.ch/documents/digital-imprimatur/) 
-- [2026-03-26-I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth) 
-- [2026-03-26-GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/) 
-- [2026-03-26-Why-pylock.toml-includes-digital-attestations](https://snarky.ca/why-pylock-toml-includes-digital-attestations/) 
 - [2026-03-26-In-Math,-Rigor-Is-Vital.-But-Are-Digitized-Proofs-Taking-It-Too-Far?](https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/) 
+- [2026-03-26-Why-pylock.toml-includes-digital-attestations](https://snarky.ca/why-pylock-toml-includes-digital-attestations/) 
+- [2026-03-26-GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/) 
+- [2026-03-26-I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth) 
+- [2026-03-26-The-Digital-Imprimatur-2003](https://www.fourmilab.ch/documents/digital-imprimatur/) 
 - [2026-03-25-Show-HN:-Looking-for-feedback-on-a-Git-native-message-board](https://zenmemes.com/compose/thread) 
-- [2026-03-24-I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4) 
 - [2026-03-24-Telegram-Outages-Spike-in-Kremlin's-Push-for-Digital-Control](https://jamestown.org/telegram-outages-spike-in-kremlins-push-for-digital-control/) 
+- [2026-03-24-I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4) 
 - [2026-03-25-The-Best-Digital-Wall-Calendar-2026:-Skylight,-Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/) 
