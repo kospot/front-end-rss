@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-29 06:00:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-29 08:02:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -35,11 +35,11 @@
 - [2026-03-23-Meta-faces-potential-billions-in-fines-in-trial-over-children's-safety-practices](https://www.latimes.com/business/story/2026-03-23/meta-faces-potential-billions-in-fines-in-trial-over-childrens-safety-practices) 
 - [2026-03-23-VisionClaude-–-Open-Source-AI-Vision-for-iPhone-and-Meta-Ray-Ban-Glasses](https://github.com/mrdulasolutions/visionclaude) 
 - [2026-03-27-OpenAI-shuts-down-Sora-while-Meta-gets-shut-out-in-court](https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/) 
-- [2026-03-26-Meta-is-cutting-several-hundred-jobs](https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/) 
 - [2026-03-26-Jury-finds-Meta-and-Google-negligent-in-landmark-social-media-addiction-trial](https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/) 
-- [2026-03-25-Meta-launches-new-initiative-to-support-entrepreneurship,-drive-AI-adoption](https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/) 
-- [2026-03-25-Meta-turns-to-AI-to-make-shopping-easier-on-Instagram-and-Facebook](https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/) 
+- [2026-03-26-Meta-is-cutting-several-hundred-jobs](https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/) 
 - [2026-03-25-New-Mexico-just-handed-Meta-its-first-courtroom-defeat-over-child-safety,-and-the-rest-of-the-country-is-watching](https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/) 
+- [2026-03-25-Meta-turns-to-AI-to-make-shopping-easier-on-Instagram-and-Facebook](https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/) 
+- [2026-03-25-Meta-launches-new-initiative-to-support-entrepreneurship,-drive-AI-adoption](https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/) 
 - [2026-03-28-Meta-Quest-Promo-Codes:-$50-Off-|-March-2026](https://www.wired.com/story/meta-quest-promo-code/) 
 - [2026-03-26-The-Comedy-Club-at-the-End-of-the-Metaverse](https://www.wired.com/story/the-last-comedy-club-at-the-end-of-the-metaverse/) 
 - [2026-03-23-The-Rise-of-the-Ray-Ban-Meta-Creep](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/) 

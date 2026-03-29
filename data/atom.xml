@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-28T22:00:55.907Z</updated>
+    <updated>2026-03-29T00:02:18.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Bluesky leans into AI with Attie, an app for building custom feeds]]></title>
+        <id>https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/</id>
+        <link href="https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/"/>
+        <updated>2026-03-28T16:00:00.000Z</updated>
+        <published>2026-03-28T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elon Musk’s last co-founder reportedly leaves xAI]]></title>
         <id>https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[ViraxLog – Tamper-Proof Logging Using Merkle Trees and BLAKE2B for Python]]></title>
         <id>https://github.com/damienos61/viraxlog</id>
         <link href="https://github.com/damienos61/viraxlog"/>
-        <updated>2026-03-27T16:00:00.000Z</updated>
-        <published>2026-03-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Said This Policy Would Make Manhattan a 'Ghost Town.' He Was Wrong]]></title>
-        <id>https://www.nytimes.com/2026/03/27/opinion/congestion-pricing-traffic-new-york.html</id>
-        <link href="https://www.nytimes.com/2026/03/27/opinion/congestion-pricing-traffic-new-york.html"/>
         <updated>2026-03-27T16:00:00.000Z</updated>
         <published>2026-03-27T16:00:00.000Z</published>
     </entry>
