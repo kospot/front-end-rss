@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-29 12:01:10。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-29 15:01:43。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -48,10 +48,10 @@
 - [【Towards AI】Building-a-Financial-Research-Agent-with-ReAct,-LangGraph,-and-LangChain](https://pub.towardsai.net/building-a-financial-research-agent-with-react-langgraph-and-langchain-c5d5142d8b29?source=rss----98111c9905da---4)
 - [【Towards AI】A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)
 - [【Hacker News】ViraxLog-–-Tamper-Proof-Logging-Using-Merkle-Trees-and-BLAKE2B-for-Python](https://github.com/damienos61/viraxlog)
-- [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
 - [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
-- [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
+- [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
 - [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
+- [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -295,14 +295,14 @@
 - [【arXiv ML】Confidence-Freeze:-Early-Success-Induces-a-Metastable-Decoupling-of-Metacognition-and-Behaviour](https://arxiv.org/abs/2603.21043)
 - [【arXiv ML】Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888)
 - [【Towards AI】Meta-Just-Acqui-Hired-Its-4th-AI-Startup-in-4-Months.-Zuckerberg’s-Agent-Empire-Is-Taking-Shape.](https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4)
-- [【Hacker News】Show-HN:-Local-Vault-–-AES-256-GCM-password-manager-in-a-single-HTML-file](https://github.com/RachidBoutaguiout/local-vault)
-- [【Hacker News】Meta-hit-with-$375M-verdict-in-New-Mexico-child-safety-case](https://www.politico.com/news/2026/03/24/meta-hit-with-375m-verdict-in-new-mexico-child-safety-case-00842998)
 - [【Hacker News】Meta-and-Google-face-a-reckoning-over-social-media-addiction](https://www.economist.com/business/2026/03/25/meta-and-google-face-a-reckoning-over-social-media-addiction)
+- [【Hacker News】Meta-hit-with-$375M-verdict-in-New-Mexico-child-safety-case](https://www.politico.com/news/2026/03/24/meta-hit-with-375m-verdict-in-new-mexico-child-safety-case-00842998)
+- [【Hacker News】Show-HN:-Local-Vault-–-AES-256-GCM-password-manager-in-a-single-HTML-file](https://github.com/RachidBoutaguiout/local-vault)
 - [【Hacker News】AI-Japanese-metal-band-becomes-real-life-after-creator-hires-actual-musicians](https://www.dexerto.com/entertainment/ai-band-becomes-real-life-group-after-creator-hires-actual-musicians-to-perform-for-them-3336120/)
-- [【Hacker News】MetaImGui](https://github.com/andynicholson/MetaImGUI)
 - [【Hacker News】Show-HN:-Codeseum-–-From-Bare-Metal-to-Pure-Thought](https://codeseum.tyku8.com/spectrum)
-- [【Hacker News】Some-Meta-employees-were-told-to-work-remotely-for-the-day-as-layoffs-loom](https://www.businessinsider.com/meta-employees-work-remotely-email-layoffs-hr-wfh-2026-3)
-- [【Hacker News】Jury-finds-Meta-liable-in-case-over-child-sexual-exploitation-on-its-platforms](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)
+- [【Hacker News】MetaImGui](https://github.com/andynicholson/MetaImGUI)
+- [【Hacker News】Meta-Harmed-Children,-Allowing-Adults-to-Prey-on-Them](https://www.wsj.com/tech/landmark-verdict-says-meta-harmed-children-allowing-adults-to-prey-on-them-cb3ad674)
+- [【Hacker News】Arm-releases-first-in-house-chip,-with-Meta-as-debut-customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -373,7 +373,7 @@
 - [【arXiv ML】Pretrained-Video-Models-as-Differentiable-Physics-Simulators-for-Urban-Wind-Flows](https://arxiv.org/abs/2603.21210)
 - [【arXiv ML】IRIS:-A-Real-World-Benchmark-for-Inverse-Recovery-and-Identification-of-Physical-Dynamic-Systems-from-Monocular-Video](https://arxiv.org/abs/2603.16432)
 - [【Hacker News】Claude-IPC:-Watch-5-claudes-build-a-terminal-Yubikey-manager-together-video](https://www.youtube.com/watch?v=6vEJNr8sASI)
-- [【Hacker News】I-left-YouTube-two-years-ago.-Time-to-come-back-video](https://www.youtube.com/watch?v=Yz3lSKgz4q8)
+- [【Hacker News】12-Hours-How-Does-a-Computer-Work?-video](https://www.youtube.com/watch?v=rl0jkP9kOMw)
 - [【Hacker News】Nicholas-Carlini-–-Black-hat-LLMs-–-unprompted-2026-video](https://www.youtube.com/watch?v=1sd26pWhfmg)
 - [......【查看更多】......](/details/tags/audio-video.md)
 
@@ -494,14 +494,14 @@
 - [【arXiv ML】EvidenceRL:-Reinforcing-Evidence-Consistency-for-Trustworthy-Language-Models](https://arxiv.org/abs/2603.19532)
 - [【arXiv ML】Simulation-based-Inference-with-the-Python-Package-sbijax](https://arxiv.org/abs/2409.19435)
 - [【arXiv ML】Learnability-with-Partial-Labels-and-Adaptive-Nearest-Neighbors](https://arxiv.org/abs/2603.15781)
-- [【Towards AI】AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4)
+- [【Towards AI】-Technology-as-a-Living-Forest:-How-It-Breathes-and-Connects](https://pub.towardsai.net/technology-as-a-living-forest-how-it-breathes-and-connects-4f3c5ee14d06?source=rss----98111c9905da---4)
 - [【Towards AI】I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4)
+- [【Towards AI】AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4)
 - [【Towards AI】The-Context-Reliability-Framework-CRF:-A-Production-Architecture-for-Trustworthy-AI-Systems](https://pub.towardsai.net/the-context-reliability-framework-crf-a-production-architecture-for-trustworthy-ai-systems-05d359aa5447?source=rss----98111c9905da---4)
-- [【Hacker News】pbix-mcp-—-create-and-modify-Power-BI-PBIX-files-in-pure-Python](https://github.com/d0nk3yhm/pbix-mcp)
-- [【Hacker News】Show-HN:-Glazyr-Viz-–-Zero-Copy-MCP-Vision-Server-via-POSIX-Shared-Memory](https://github.com/senti-001/glazyr-viz)
-- [【Hacker News】Show-HN:-NoEyes-–-Terminal-chat-where-the-server-is-architecturally-blind](https://github.com/Ymsniper/NoEyes)
 - [【Hacker News】FreeBSD,-Caddy-and-PHP-–-a-perfect-match-2022](https://it-notes.dragas.net/2022/07/18/freebsd-caddy-and-php-a-perfect-match/)
-- [【Hacker News】ICAO-issued-new-power-bank-restriction-on-flight](https://www.icao.int/news/new-power-bank-restrictions-will-safeguard-international-aviation)
+- [【Hacker News】Show-HN:-NoEyes-–-Terminal-chat-where-the-server-is-architecturally-blind](https://github.com/Ymsniper/NoEyes)
+- [【Hacker News】Show-HN:-Glazyr-Viz-–-Zero-Copy-MCP-Vision-Server-via-POSIX-Shared-Memory](https://github.com/senti-001/glazyr-viz)
+- [【Hacker News】pbix-mcp-—-create-and-modify-Power-BI-PBIX-files-in-pure-Python](https://github.com/d0nk3yhm/pbix-mcp)
 - [......【查看更多】......](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -529,14 +529,14 @@
 - [【arXiv ML】Digital-Twin-Assisted-Measurement-Design-and-Channel-Statistics-Prediction](https://arxiv.org/abs/2603.23787)
 - [【arXiv ML】The-Economics-of-Builder-Saturation-in-Digital-Markets](https://arxiv.org/abs/2603.23685)
 - [【arXiv ML】SDE-Driven-Spatio-Temporal-Hypergraph-Neural-Networks-for-Irregular-Longitudinal-fMRI-Connectome-Modeling-in-Alzheimer's-Disease](https://arxiv.org/abs/2603.20452)
-- [【Hacker News】The-Digital-Imprimatur-2003](https://www.fourmilab.ch/documents/digital-imprimatur/)
-- [【Hacker News】I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth)
-- [【Hacker News】GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
-- [【Hacker News】Why-pylock.toml-includes-digital-attestations](https://snarky.ca/why-pylock-toml-includes-digital-attestations/)
 - [【Hacker News】In-Math,-Rigor-Is-Vital.-But-Are-Digitized-Proofs-Taking-It-Too-Far?](https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/)
+- [【Hacker News】Why-pylock.toml-includes-digital-attestations](https://snarky.ca/why-pylock-toml-includes-digital-attestations/)
+- [【Hacker News】GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
+- [【Hacker News】I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth)
+- [【Hacker News】The-Digital-Imprimatur-2003](https://www.fourmilab.ch/documents/digital-imprimatur/)
 - [【Hacker News】Show-HN:-Looking-for-feedback-on-a-Git-native-message-board](https://zenmemes.com/compose/thread)
-- [【Hacker News】I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4)
 - [【Hacker News】Telegram-Outages-Spike-in-Kremlin's-Push-for-Digital-Control](https://jamestown.org/telegram-outages-spike-in-kremlins-push-for-digital-control/)
+- [【Hacker News】I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4)
 - [【Wired】The-Best-Digital-Wall-Calendar-2026:-Skylight,-Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
