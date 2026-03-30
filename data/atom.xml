@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-30T13:01:17.614Z</updated>
+    <updated>2026-03-30T15:02:14.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,23 +50,16 @@
         <published>2026-03-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mistral AI raises $830M in debt to set up a data center near Paris]]></title>
-        <id>https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/</id>
-        <link href="https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/"/>
+        <title type="html"><![CDATA[Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem]]></title>
+        <id>https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/</id>
+        <link href="https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/"/>
         <updated>2026-03-29T16:00:00.000Z</updated>
         <published>2026-03-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qodo raises $70M for code verification as AI coding scales]]></title>
-        <id>https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/</id>
-        <link href="https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starcloud raises $170 million Series Ato build data centers in space]]></title>
-        <id>https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/</id>
-        <link href="https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/"/>
+        <title type="html"><![CDATA[ScaleOps raises $130M to improve computing efficiency amid AI demand]]></title>
+        <id>https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/</id>
+        <link href="https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/"/>
         <updated>2026-03-29T16:00:00.000Z</updated>
         <published>2026-03-29T16:00:00.000Z</published>
     </entry>
@@ -78,261 +71,37 @@
         <published>2026-03-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast sandboxed code execution with pre-warmed gVisor pools]]></title>
-        <id>https://github.com/shayonj/gvisord</id>
-        <link href="https://github.com/shayonj/gvisord"/>
+        <title type="html"><![CDATA[Starcloud raises $170 million Series Ato build data centers in space]]></title>
+        <id>https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/</id>
+        <link href="https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/"/>
         <updated>2026-03-29T16:00:00.000Z</updated>
         <published>2026-03-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZimaOS: A Simplified, Focused and Open NAS OS Supports All x86-64 Hardware]]></title>
-        <id>https://www.zimaspace.com/zimaos</id>
-        <link href="https://www.zimaspace.com/zimaos"/>
+        <title type="html"><![CDATA[Qodo raises $70M for code verification as AI coding scales]]></title>
+        <id>https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/</id>
+        <link href="https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/"/>
         <updated>2026-03-29T16:00:00.000Z</updated>
         <published>2026-03-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Operational Benefits of Databases Built on Object Storage]]></title>
-        <id>https://blog.colinbreck.com/operational-benefits-of-databases-built-on-object-storage/</id>
-        <link href="https://blog.colinbreck.com/operational-benefits-of-databases-built-on-object-storage/"/>
+        <title type="html"><![CDATA[Mistral AI raises $830M in debt to set up a data center near Paris]]></title>
+        <id>https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/</id>
+        <link href="https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/"/>
         <updated>2026-03-29T16:00:00.000Z</updated>
         <published>2026-03-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A CardDAV server for LDAP]]></title>
-        <id>https://github.com/isubsoft/ldap-carddav</id>
-        <link href="https://github.com/isubsoft/ldap-carddav"/>
+        <title type="html"><![CDATA[Show HN: Local video search with Qwen3-VL: no API, runs on Apple Silicon, GPUs]]></title>
+        <id>https://github.com/ssrajadh/sentrysearch/tree/master</id>
+        <link href="https://github.com/ssrajadh/sentrysearch/tree/master"/>
         <updated>2026-03-29T16:00:00.000Z</updated>
         <published>2026-03-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Do AI-enabled companies need fewer people?]]></title>
-        <id>https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/</id>
-        <link href="https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craig Newmark: Billionaires, Stop Whining About the Giving Pledge]]></title>
-        <id>https://www.nytimes.com/2026/03/30/opinion/giving-pledge-philanthropy.html</id>
-        <link href="https://www.nytimes.com/2026/03/30/opinion/giving-pledge-philanthropy.html"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)]]></title>
-        <id>https://github.com/yannick-cw/korb</id>
-        <link href="https://github.com/yannick-cw/korb"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APIEval-20: A Benchmark for Black-Box API Test Suite Generation]]></title>
-        <id>https://huggingface.co/datasets/kusho-ai/api-eval-20</id>
-        <link href="https://huggingface.co/datasets/kusho-ai/api-eval-20"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uutils/tar: Rust reimplementation of the tar utility]]></title>
-        <id>https://github.com/uutils/tar</id>
-        <link href="https://github.com/uutils/tar"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Captain Midnight satellite broadcast intrusion]]></title>
-        <id>https://en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion</id>
-        <link href="https://en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is OpenClaw Safe Yet? I Audited My Own Setup]]></title>
-        <id>https://www.dhawalshah.net/article/openclaw-security-audit</id>
-        <link href="https://www.dhawalshah.net/article/openclaw-security-audit"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: RedTerm, an Android SSH terminal for clipboard image upload]]></title>
-        <id>https://play.google.com/store/apps/details?id=com.coderred.redterm&amp;hl=en_US</id>
-        <link href="https://play.google.com/store/apps/details?id=com.coderred.redterm&amp;hl=en_US"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays]]></title>
-        <id>https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/</id>
-        <link href="https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tierless Web Programming in the Large]]></title>
-        <id>https://dl.acm.org/doi/fullHtml/10.1145/3184558.3185953</id>
-        <link href="https://dl.acm.org/doi/fullHtml/10.1145/3184558.3185953"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Run SEO for a Startup Without Engineers or SEO SaaS Tools]]></title>
-        <id>https://camelai.com/blog/how-i-automate-seo-with-ai-without-engineers</id>
-        <link href="https://camelai.com/blog/how-i-automate-seo-with-ai-without-engineers"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Marriage, for So Many, Is Less Appealing]]></title>
-        <id>https://www.nytimes.com/2026/03/29/style/marriage-decline-delay.html</id>
-        <link href="https://www.nytimes.com/2026/03/29/style/marriage-decline-delay.html"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Navajo Nation is tackling diabetes with a return to its ancestral diet]]></title>
-        <id>https://coloradosun.com/2026/03/27/how-the-navajo-nation-is-tackling-diabetes-with-a-return-to-its-ancestral-diet/</id>
-        <link href="https://coloradosun.com/2026/03/27/how-the-navajo-nation-is-tackling-diabetes-with-a-return-to-its-ancestral-diet/"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Batch_forge – A bare-metal Jax/Equinox runner in Rust for Mac]]></title>
-        <id>https://github.com/yash27-lab/batch_forge</id>
-        <link href="https://github.com/yash27-lab/batch_forge"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph Attention Networks for Detecting Epilepsy from EEG in LowResource Settings]]></title>
-        <id>https://ieeexplore.ieee.org/document/11287992</id>
-        <link href="https://ieeexplore.ieee.org/document/11287992"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Air Force’s New Answer To Shahed Drones [video][13m]]]></title>
-        <id>https://www.youtube.com/watch?v=H2ZeZXQAtGQ</id>
-        <link href="https://www.youtube.com/watch?v=H2ZeZXQAtGQ"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attie: The Future of AI Should Serve People, Not Platforms]]></title>
-        <id>https://theliquidfrontier.leaflet.pub/3mi5pwkoqx22g</id>
-        <link href="https://theliquidfrontier.leaflet.pub/3mi5pwkoqx22g"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StorePin – watch your e-commerce sales appear live on a world map]]></title>
-        <id>https://storepin.me</id>
-        <link href="https://storepin.me"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SolveBar – 77 client-side tools, zero server and zero tracking]]></title>
-        <id>https://solvebar.com</id>
-        <link href="https://solvebar.com"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[300M triangles and 10k skinned characters in the browser via WebGPU]]></title>
-        <id>https://twitter.com/etiennepinchon/status/2038261399236075647</id>
-        <link href="https://twitter.com/etiennepinchon/status/2038261399236075647"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: AI Job Transformation Model]]></title>
-        <id>https://dontloseyourjob.com/</id>
-        <link href="https://dontloseyourjob.com/"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EvalBench – Browser-based binary classifier evaluation, no back end]]></title>
-        <id>https://evalbench-75a.pages.dev</id>
-        <link href="https://evalbench-75a.pages.dev"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App Reviews Published]]></title>
-        <id>https://appaddict.app/post/500-app-reviews-published</id>
-        <link href="https://appaddict.app/post/500-app-reviews-published"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Lays Off Employee with Terminal Brain Cancer Who Cant Get LifeInsurance Now]]></title>
-        <id>https://kotaku.com/epic-games-layoffs-fortnite-brain-cancer-2000682941</id>
-        <link href="https://kotaku.com/epic-games-layoffs-fortnite-brain-cancer-2000682941"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Need Servers – Lots of Servers]]></title>
-        <id>https://www.nextplatform.com/compute/2026/03/26/we-need-servers-lots-of-servers/5211678</id>
-        <link href="https://www.nextplatform.com/compute/2026/03/26/we-need-servers-lots-of-servers/5211678"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Reddit Karma Fast]]></title>
-        <id>https://karmabuilder.xyz/blog/how-to-build-reddit-karma-fast</id>
-        <link href="https://karmabuilder.xyz/blog/how-to-build-reddit-karma-fast"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typed-fetch – Go-style error handling for fetch in TypeScript]]></title>
-        <id>https://github.com/pbpeterson/typed-fetch</id>
-        <link href="https://github.com/pbpeterson/typed-fetch"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: ChameleonDB – A database toolkit with auditable schema versioning]]></title>
-        <id>https://www.chameleondb.dev/</id>
-        <link href="https://www.chameleondb.dev/"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resurrecting Sinistar: A Cyber-Archaeology Documentary [video]]]></title>
-        <id>https://www.youtube.com/watch?v=lCuoUSDBVac</id>
-        <link href="https://www.youtube.com/watch?v=lCuoUSDBVac"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gleam Decoding and Why Dynamic.from Had to Die]]></title>
-        <id>https://blog.guillheu.dev/articles/gleam-decoding/</id>
-        <link href="https://blog.guillheu.dev/articles/gleam-decoding/"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSON Canvas Spec]]></title>
-        <id>https://jsoncanvas.org/spec/1.0/</id>
-        <link href="https://jsoncanvas.org/spec/1.0/"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CringeScan – upload a LinkedIn screenshot and get a cringe score]]></title>
-        <id>https://vibe-audit-lab.base44.app</id>
-        <link href="https://vibe-audit-lab.base44.app"/>
-        <updated>2026-03-29T16:00:00.000Z</updated>
-        <published>2026-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: ConvertPNG2JPG – A 100% free, client-side image and PDF converter]]></title>
-        <id>https://convertpng2jpg.com/</id>
-        <link href="https://convertpng2jpg.com/"/>
+        <title type="html"><![CDATA[Zero Ambient Authority: The Principle That Should Govern Every AI Agent]]></title>
+        <id>https://grith.ai/blog/zero-ambient-authority-ai-agents</id>
+        <link href="https://grith.ai/blog/zero-ambient-authority-ai-agents"/>
         <updated>2026-03-29T16:00:00.000Z</updated>
         <published>2026-03-29T16:00:00.000Z</published>
     </entry>
@@ -344,23 +113,254 @@
         <published>2026-03-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Scissor Effect: Quantifying the Transition from Unstructured DevOps to Product-Led Platform…]]></title>
-        <id>https://pub.towardsai.net/platform-engineering-adoption-by-a-company-case-study-a874c070ab91?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/platform-engineering-adoption-by-a-company-case-study-a874c070ab91?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: ConvertPNG2JPG – A 100% free, client-side image and PDF converter]]></title>
+        <id>https://convertpng2jpg.com/</id>
+        <link href="https://convertpng2jpg.com/"/>
         <updated>2026-03-29T16:00:00.000Z</updated>
         <published>2026-03-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modern RAG in 2026: The Components That Actually Matter]]></title>
-        <id>https://pub.towardsai.net/modern-rag-in-2026-the-components-that-actually-matter-3f6a138ef117?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/modern-rag-in-2026-the-components-that-actually-matter-3f6a138ef117?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[CringeScan – upload a LinkedIn screenshot and get a cringe score]]></title>
+        <id>https://vibe-audit-lab.base44.app</id>
+        <link href="https://vibe-audit-lab.base44.app"/>
         <updated>2026-03-29T16:00:00.000Z</updated>
         <published>2026-03-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crack ML Interviews with Confidence: Regression KPIs (20 Q&A)]]></title>
-        <id>https://pub.towardsai.net/crack-ml-interviews-with-confidence-regression-kpis-20-q-a-c73138f612b1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/crack-ml-interviews-with-confidence-regression-kpis-20-q-a-c73138f612b1?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[JSON Canvas Spec]]></title>
+        <id>https://jsoncanvas.org/spec/1.0/</id>
+        <link href="https://jsoncanvas.org/spec/1.0/"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gleam Decoding and Why Dynamic.from Had to Die]]></title>
+        <id>https://blog.guillheu.dev/articles/gleam-decoding/</id>
+        <link href="https://blog.guillheu.dev/articles/gleam-decoding/"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resurrecting Sinistar: A Cyber-Archaeology Documentary [video]]]></title>
+        <id>https://www.youtube.com/watch?v=lCuoUSDBVac</id>
+        <link href="https://www.youtube.com/watch?v=lCuoUSDBVac"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: ChameleonDB – A database toolkit with auditable schema versioning]]></title>
+        <id>https://www.chameleondb.dev/</id>
+        <link href="https://www.chameleondb.dev/"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typed-fetch – Go-style error handling for fetch in TypeScript]]></title>
+        <id>https://github.com/pbpeterson/typed-fetch</id>
+        <link href="https://github.com/pbpeterson/typed-fetch"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Reddit Karma Fast]]></title>
+        <id>https://karmabuilder.xyz/blog/how-to-build-reddit-karma-fast</id>
+        <link href="https://karmabuilder.xyz/blog/how-to-build-reddit-karma-fast"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Need Servers – Lots of Servers]]></title>
+        <id>https://www.nextplatform.com/compute/2026/03/26/we-need-servers-lots-of-servers/5211678</id>
+        <link href="https://www.nextplatform.com/compute/2026/03/26/we-need-servers-lots-of-servers/5211678"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Lays Off Employee with Terminal Brain Cancer Who Cant Get LifeInsurance Now]]></title>
+        <id>https://kotaku.com/epic-games-layoffs-fortnite-brain-cancer-2000682941</id>
+        <link href="https://kotaku.com/epic-games-layoffs-fortnite-brain-cancer-2000682941"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App Reviews Published]]></title>
+        <id>https://appaddict.app/post/500-app-reviews-published</id>
+        <link href="https://appaddict.app/post/500-app-reviews-published"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EvalBench – Browser-based binary classifier evaluation, no back end]]></title>
+        <id>https://evalbench-75a.pages.dev</id>
+        <link href="https://evalbench-75a.pages.dev"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: AI Job Transformation Model]]></title>
+        <id>https://dontloseyourjob.com/</id>
+        <link href="https://dontloseyourjob.com/"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[300M triangles and 10k skinned characters in the browser via WebGPU]]></title>
+        <id>https://twitter.com/etiennepinchon/status/2038261399236075647</id>
+        <link href="https://twitter.com/etiennepinchon/status/2038261399236075647"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SolveBar – 77 client-side tools, zero server and zero tracking]]></title>
+        <id>https://solvebar.com</id>
+        <link href="https://solvebar.com"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StorePin – watch your e-commerce sales appear live on a world map]]></title>
+        <id>https://storepin.me</id>
+        <link href="https://storepin.me"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attie: The Future of AI Should Serve People, Not Platforms]]></title>
+        <id>https://theliquidfrontier.leaflet.pub/3mi5pwkoqx22g</id>
+        <link href="https://theliquidfrontier.leaflet.pub/3mi5pwkoqx22g"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Air Force’s New Answer To Shahed Drones [video][13m]]]></title>
+        <id>https://www.youtube.com/watch?v=H2ZeZXQAtGQ</id>
+        <link href="https://www.youtube.com/watch?v=H2ZeZXQAtGQ"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Attention Networks for Detecting Epilepsy from EEG in LowResource Settings]]></title>
+        <id>https://ieeexplore.ieee.org/document/11287992</id>
+        <link href="https://ieeexplore.ieee.org/document/11287992"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batch_forge – A bare-metal Jax/Equinox runner in Rust for Mac]]></title>
+        <id>https://github.com/yash27-lab/batch_forge</id>
+        <link href="https://github.com/yash27-lab/batch_forge"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Navajo Nation is tackling diabetes with a return to its ancestral diet]]></title>
+        <id>https://coloradosun.com/2026/03/27/how-the-navajo-nation-is-tackling-diabetes-with-a-return-to-its-ancestral-diet/</id>
+        <link href="https://coloradosun.com/2026/03/27/how-the-navajo-nation-is-tackling-diabetes-with-a-return-to-its-ancestral-diet/"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Marriage, for So Many, Is Less Appealing]]></title>
+        <id>https://www.nytimes.com/2026/03/29/style/marriage-decline-delay.html</id>
+        <link href="https://www.nytimes.com/2026/03/29/style/marriage-decline-delay.html"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Run SEO for a Startup Without Engineers or SEO SaaS Tools]]></title>
+        <id>https://camelai.com/blog/how-i-automate-seo-with-ai-without-engineers</id>
+        <link href="https://camelai.com/blog/how-i-automate-seo-with-ai-without-engineers"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tierless Web Programming in the Large]]></title>
+        <id>https://dl.acm.org/doi/fullHtml/10.1145/3184558.3185953</id>
+        <link href="https://dl.acm.org/doi/fullHtml/10.1145/3184558.3185953"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays]]></title>
+        <id>https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/</id>
+        <link href="https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: RedTerm, an Android SSH terminal for clipboard image upload]]></title>
+        <id>https://play.google.com/store/apps/details?id=com.coderred.redterm&amp;hl=en_US</id>
+        <link href="https://play.google.com/store/apps/details?id=com.coderred.redterm&amp;hl=en_US"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is OpenClaw Safe Yet? I Audited My Own Setup]]></title>
+        <id>https://www.dhawalshah.net/article/openclaw-security-audit</id>
+        <link href="https://www.dhawalshah.net/article/openclaw-security-audit"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Captain Midnight satellite broadcast intrusion]]></title>
+        <id>https://en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion</id>
+        <link href="https://en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uutils/tar: Rust reimplementation of the tar utility]]></title>
+        <id>https://github.com/uutils/tar</id>
+        <link href="https://github.com/uutils/tar"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APIEval-20: A Benchmark for Black-Box API Test Suite Generation]]></title>
+        <id>https://huggingface.co/datasets/kusho-ai/api-eval-20</id>
+        <link href="https://huggingface.co/datasets/kusho-ai/api-eval-20"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)]]></title>
+        <id>https://github.com/yannick-cw/korb</id>
+        <link href="https://github.com/yannick-cw/korb"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Craig Newmark: Billionaires, Stop Whining About the Giving Pledge]]></title>
+        <id>https://www.nytimes.com/2026/03/30/opinion/giving-pledge-philanthropy.html</id>
+        <link href="https://www.nytimes.com/2026/03/30/opinion/giving-pledge-philanthropy.html"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do AI-enabled companies need fewer people?]]></title>
+        <id>https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/</id>
+        <link href="https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A CardDAV server for LDAP]]></title>
+        <id>https://github.com/isubsoft/ldap-carddav</id>
+        <link href="https://github.com/isubsoft/ldap-carddav"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operational Benefits of Databases Built on Object Storage]]></title>
+        <id>https://blog.colinbreck.com/operational-benefits-of-databases-built-on-object-storage/</id>
+        <link href="https://blog.colinbreck.com/operational-benefits-of-databases-built-on-object-storage/"/>
+        <updated>2026-03-29T16:00:00.000Z</updated>
+        <published>2026-03-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZimaOS: A Simplified, Focused and Open NAS OS Supports All x86-64 Hardware]]></title>
+        <id>https://www.zimaspace.com/zimaos</id>
+        <link href="https://www.zimaspace.com/zimaos"/>
         <updated>2026-03-29T16:00:00.000Z</updated>
         <published>2026-03-29T16:00:00.000Z</published>
     </entry>
