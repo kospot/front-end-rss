@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-30 08:01:44，:rocket: 更新条数: +1192， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-30 10:01:47，:rocket: 更新条数: +1069， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -20,7 +20,7 @@
 - [CSS-Tricks](#css-tricks)![](/assets/dot.png)   
 - [Smashing-Magazine](#smashing-magazine)![](/assets/dot.png)   
 - [Frontend-Masters-Blog](#frontend-masters-blog)  
-- [Overreacted](#overreacted)![](/assets/dot.png)   
+- [Overreacted](#overreacted)  
 - [2ality](#2ality)  
 - [Jake-Archibald](#jake-archibald)![](/assets/dot.png)   
 - [Tan-Li-Hau](#tan-li-hau)![](/assets/dot.png)   
@@ -33,7 +33,7 @@
 - [张鑫旭](#张鑫旭)![](/assets/dot.png)   
 - [阮一峰](#阮一峰)  
 - [Anthony-Fu](#anthony-fu)![](/assets/dot.png)   
-- [Randy's-Blog](#randy's-blog)![](/assets/dot.png)   
+- [Randy's-Blog](#randy's-blog)  
 - [oldj](#oldj)  
 - [掘金前端](#掘金前端)  
 - [GitHub-Trending-JS](#github-trending-js)  
@@ -59,7 +59,7 @@
 - [TechCrunch](#techcrunch)  
 - [Wired](#wired)  
 - [Engadget](#engadget)  
-- [少数派](#少数派)![](/assets/dot.png)   
+- [少数派](#少数派)  
 
 ## 文章链接
 
@@ -113,8 +113,8 @@
 - [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)  
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
+- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [2026-03-05-The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)  
@@ -497,9 +497,9 @@
 
 
 - [2026-03-27-not-much-happened-today](https://news.smol.ai/issues/26-03-27-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
 - [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
 - [2026-03-23-not-much-happened-today](https://news.smol.ai/issues/26-03-23-not-much/)  
 - [2026-03-20-not-much-happened-today](https://news.smol.ai/issues/26-03-20-not-much/)  
 - [2026-03-19-not-much-happened-today](https://news.smol.ai/issues/26-03-19-not-much/)  
@@ -527,26 +527,26 @@
 </summary>
 
 
-- [2026-03-30-Vercel-Labs-Just-Killed-the-Most-Annoying-Part-of-Testing](https://pub.towardsai.net/vercel-labs-just-killed-the-most-annoying-part-of-testing-d63e28a84711?source=rss----98111c9905da---4)  
-- [2026-03-30-Auto-Coder:-A-Pattern-for-Building-Software-with-Recursive-AI-Loops](https://pub.towardsai.net/auto-coder-a-pattern-for-building-software-with-recursive-ai-loops-77cc65c503f2?source=rss----98111c9905da---4)  
-- [2026-03-30-Modern-RAG-in-2026:-The-Components-That-Actually-Matter](https://pub.towardsai.net/modern-rag-in-2026-the-components-that-actually-matter-3f6a138ef117?source=rss----98111c9905da---4)  
-- [2026-03-30-What-Makes-an-AI-Agent-Actually-Agentic?-Building-Beyond-the-Basics-with-LangGraph](https://pub.towardsai.net/what-makes-an-ai-agent-actually-agentic-building-beyond-the-basics-with-langgraph-cf73c659d753?source=rss----98111c9905da---4)  
-- [2026-03-30-How-Multi-Agent-Self-Verification-Actually-Works-And-Why-It-Changes-Everything-for-Production-AI](https://pub.towardsai.net/how-multi-agent-self-verification-actually-works-and-why-it-changes-everything-for-production-ai-71923df63d01?source=rss----98111c9905da---4)  
+- [2026-03-30-Stop-Using-Accuracy:-5-ML-Metrics-You-Must-Understand](https://pub.towardsai.net/stop-using-accuracy-5-ml-metrics-you-must-understand-81d2acbf9955?source=rss----98111c9905da---4)  
+- [2026-03-30-CoopRAG:-Unroll,-Retrieve,-Cooperate,-and-Repair](https://pub.towardsai.net/cooprag-unroll-retrieve-cooperate-and-repair-48e3c2138777?source=rss----98111c9905da---4)  
 - [2026-03-30-Crack-ML-Interviews-with-Confidence:-Regression-KPIs-20-Q&amp;A](https://pub.towardsai.net/crack-ml-interviews-with-confidence-regression-kpis-20-q-a-c73138f612b1?source=rss----98111c9905da---4)  
-- [2026-03-30-CoopRAG:-Unroll,-Retrieve,-Cooperate,-and-Repair](https://pub.towardsai.net/cooprag-unroll-retrieve-cooperate-and-repair-48e3c2138777?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-30-Stop-Using-Accuracy:-5-ML-Metrics-You-Must-Understand](https://pub.towardsai.net/stop-using-accuracy-5-ml-metrics-you-must-understand-81d2acbf9955?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-29-A-101-guide-to-Claude-Skills-and-Cowork-Projects](https://pub.towardsai.net/a-101-guide-to-claude-skills-and-cowork-projects-fd3acae6d7c8?source=rss----98111c9905da---4)  
-- [2026-03-29-I-Built-a-Comic-Book-Analytics-Dashboard-That-Reads-Real-Data](https://pub.towardsai.net/i-built-a-comic-book-analytics-dashboard-that-reads-real-data-fa7eccb41305?source=rss----98111c9905da---4)  
-- [2026-03-29-If-You-Understand-These-5-AI-Terms,-You’re-Ahead-of-90%-of-People](https://pub.towardsai.net/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-c7622d353319?source=rss----98111c9905da---4)  
-- [2026-03-29--Technology-as-a-Living-Forest:-How-It-Breathes-and-Connects](https://pub.towardsai.net/technology-as-a-living-forest-how-it-breathes-and-connects-4f3c5ee14d06?source=rss----98111c9905da---4)  
-- [2026-03-29-I-Built-a-Breast-Cancer-Detection-System-End-to-End.](https://pub.towardsai.net/i-built-a-breast-cancer-detection-system-end-to-end-48402465aae9?source=rss----98111c9905da---4)  
-- [2026-03-29-The-Ouroboros-Protocol:-When-AI-Stops-Waiting-for-Instructions-and-Starts-Rewriting-Itself](https://pub.towardsai.net/the-ouroboros-protocol-when-ai-stops-waiting-for-instructions-and-starts-rewriting-itself-77e7759807ed?source=rss----98111c9905da---4)  
-- [2026-03-29-The-$570K-Paradox:-What-Anthropic’s-Most-Controversial-Job-Posting-Reveals-About-the-True-State-of…](https://pub.towardsai.net/the-570k-paradox-what-anthropics-most-controversial-job-posting-reveals-about-the-true-state-of-d474f41083bb?source=rss----98111c9905da---4)  
-- [2026-03-29-Ilya-Left-OpenAI.](https://pub.towardsai.net/ilya-left-openai-440192ebab28?source=rss----98111c9905da---4)  
-- [2026-03-29-The-KV-Cache.-Every-LLM-Running-Today-Is-Built-Around-One-Number-Staying-Still.](https://pub.towardsai.net/the-kv-cache-every-llm-running-today-is-built-around-one-number-staying-still-cf2e36d29b5a?source=rss----98111c9905da---4)  
-- [2026-03-29-Multi-Agent-Systems-Aren’t-Magic-—-Here’s-the-Orchestration-Problem-Nobody-Talks-About](https://pub.towardsai.net/multi-agent-systems-arent-magic-here-s-the-orchestration-problem-nobody-talks-about-547d2e3437ca?source=rss----98111c9905da---4)  
-- [2026-03-29-LangChain-Middleware:-The-Missing-Layer-Between-Your-Agent-and-Production](https://pub.towardsai.net/langchain-middleware-the-missing-layer-between-your-agent-and-production-b7a5b8cba4c2?source=rss----98111c9905da---4)  
+- [2026-03-30-How-Multi-Agent-Self-Verification-Actually-Works-And-Why-It-Changes-Everything-for-Production-AI](https://pub.towardsai.net/how-multi-agent-self-verification-actually-works-and-why-it-changes-everything-for-production-ai-71923df63d01?source=rss----98111c9905da---4)  
+- [2026-03-30-What-Makes-an-AI-Agent-Actually-Agentic?-Building-Beyond-the-Basics-with-LangGraph](https://pub.towardsai.net/what-makes-an-ai-agent-actually-agentic-building-beyond-the-basics-with-langgraph-cf73c659d753?source=rss----98111c9905da---4)  
+- [2026-03-30-Modern-RAG-in-2026:-The-Components-That-Actually-Matter](https://pub.towardsai.net/modern-rag-in-2026-the-components-that-actually-matter-3f6a138ef117?source=rss----98111c9905da---4)  
+- [2026-03-30-Auto-Coder:-A-Pattern-for-Building-Software-with-Recursive-AI-Loops](https://pub.towardsai.net/auto-coder-a-pattern-for-building-software-with-recursive-ai-loops-77cc65c503f2?source=rss----98111c9905da---4)  
+- [2026-03-30-Vercel-Labs-Just-Killed-the-Most-Annoying-Part-of-Testing](https://pub.towardsai.net/vercel-labs-just-killed-the-most-annoying-part-of-testing-d63e28a84711?source=rss----98111c9905da---4)  
+- [2026-03-30-The-Scissor-Effect:-Quantifying-the-Transition-from-Unstructured-DevOps-to-Product-Led-Platform…](https://pub.towardsai.net/platform-engineering-adoption-by-a-company-case-study-a874c070ab91?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-29-The-Moral-Ceiling-of-Reinforcement-Learning](https://pub.towardsai.net/the-moral-ceiling-of-reinforcement-learning-8a1118d6b30e?source=rss----98111c9905da---4)  
+- [2026-03-29-How-ChatGPT-Works-Explained-With-Minimal-Python-Knowledge](https://pub.towardsai.net/how-chatgpt-works-explained-with-minimal-python-knowledge-380f0e24a35c?source=rss----98111c9905da---4)  
 - [2026-03-29-Anthropic-Leaked-Its-Own-Nuclear-Option:-Mythos.-The-Irony-Is-Killing-Me](https://pub.towardsai.net/anthropic-leaked-its-own-nuclear-option-mythos-the-irony-is-killing-me-2b92f77484a2?source=rss----98111c9905da---4)  
+- [2026-03-29-LangChain-Middleware:-The-Missing-Layer-Between-Your-Agent-and-Production](https://pub.towardsai.net/langchain-middleware-the-missing-layer-between-your-agent-and-production-b7a5b8cba4c2?source=rss----98111c9905da---4)  
+- [2026-03-29-Multi-Agent-Systems-Aren’t-Magic-—-Here’s-the-Orchestration-Problem-Nobody-Talks-About](https://pub.towardsai.net/multi-agent-systems-arent-magic-here-s-the-orchestration-problem-nobody-talks-about-547d2e3437ca?source=rss----98111c9905da---4)  
+- [2026-03-29-The-KV-Cache.-Every-LLM-Running-Today-Is-Built-Around-One-Number-Staying-Still.](https://pub.towardsai.net/the-kv-cache-every-llm-running-today-is-built-around-one-number-staying-still-cf2e36d29b5a?source=rss----98111c9905da---4)  
+- [2026-03-29-Ilya-Left-OpenAI.](https://pub.towardsai.net/ilya-left-openai-440192ebab28?source=rss----98111c9905da---4)  
+- [2026-03-29-The-$570K-Paradox:-What-Anthropic’s-Most-Controversial-Job-Posting-Reveals-About-the-True-State-of…](https://pub.towardsai.net/the-570k-paradox-what-anthropics-most-controversial-job-posting-reveals-about-the-true-state-of-d474f41083bb?source=rss----98111c9905da---4)  
+- [2026-03-29-The-Ouroboros-Protocol:-When-AI-Stops-Waiting-for-Instructions-and-Starts-Rewriting-Itself](https://pub.towardsai.net/the-ouroboros-protocol-when-ai-stops-waiting-for-instructions-and-starts-rewriting-itself-77e7759807ed?source=rss----98111c9905da---4)  
+- [2026-03-29-I-Built-a-Breast-Cancer-Detection-System-End-to-End.](https://pub.towardsai.net/i-built-a-breast-cancer-detection-system-end-to-end-48402465aae9?source=rss----98111c9905da---4)  
+- [2026-03-29--Technology-as-a-Living-Forest:-How-It-Breathes-and-Connects](https://pub.towardsai.net/technology-as-a-living-forest-how-it-breathes-and-connects-4f3c5ee14d06?source=rss----98111c9905da---4)  
 - [......【查看更多】......](/details/Towards AI.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -658,26 +658,26 @@
 </summary>
 
 
-- [2026-03-30-China's-DJI-sues-rival-Insta360-for-alleged-patent-infringement](https://www.scmp.com/tech/article/3347580/chinas-dji-sues-rival-insta360-alleged-patent-infringement-ahead-new-drone-launch)  
-- [2026-03-30-Claude-for-Marathon-Training](https://temporunner.substack.com/p/claude-for-a-sub-3-hour-marathon)  
-- [2026-03-30-QA-Panda-–-Open-source-AI-QA-engineer-that-tests-web-apps-in-a-real-browser](https://github.com/gzmagyari/qapanda)  
-- [2026-03-30-Graph-Attention-Networks-for-Detecting-Epilepsy-from-EEG-in-LowResource-Settings](https://ieeexplore.ieee.org/document/11287992)  
-- [2026-03-30-US-Air-Force’s-New-Answer-To-Shahed-Drones-video13m](https://www.youtube.com/watch?v=H2ZeZXQAtGQ)  
-- [2026-03-30-Sunday-Robotics:-The-Household-Robot-We've-Been-Waiting-For?-YouTube](https://www.youtube.com/watch?v=QfBw0gMuhaI)  
-- [2026-03-30-Autogrind:-Let-your-agent-grind-on-your-projects-24x7-fully-autonomously](https://github.com/ttttonyhe/autogrind)  
-- [2026-03-30-C](https://news.ycombinator.com/item?id=47567713)  
-- [2026-03-30-Introduction-to-the-PineTime-Pro](https://pine64.org/2026/03/28/pinetime_march_2026/)  
-- [2026-03-30-Rotating-Globes-Powered-by-Light](https://www.movaglobes.com/)  
-- [2026-03-30-Built-Verit:-Runs-real-paid-tests-on-startup-ideas-and-returns-a-demand-report](https://www.verit.dev/)  
-- [2026-03-30-Intuiting-Pratt-Parsing](https://louis.co.nz/2026/03/26/pratt-parsing.html)  
-- [2026-03-30-Operating-in-the-Dark:-The-First-Cycle](https://www.amazon.com/dp/B0GPXHK1KS)  
-- [2026-03-30-No-Plan:-How-Germany-Is-Losing-Its-Business-Model](https://respublica.media/no-plan-how-germany-is-losing-its-business-model/)  
-- [2026-03-30-Attie:-The-Future-of-AI-Should-Serve-People,-Not-Platforms](https://theliquidfrontier.leaflet.pub/3mi5pwkoqx22g)  
-- [2026-03-30-What-software-engineering-got-wrong-for-decades,-you're-about-to-repeat-with-AI](https://www.lobsterpack.com/blog/software-engineering-lessons-ai-tools/)  
-- [2026-03-30-StorePin-–-watch-your-e-commerce-sales-appear-live-on-a-world-map](https://storepin.me)  
-- [2026-03-30-Rational-quantum-mechanics:-Testing-quantum-theory-with-quantum-computers](https://www.pnas.org/doi/abs/10.1073/pnas.2523350123)  
-- [2026-03-30-SolveBar-–-77-client-side-tools,-zero-server-and-zero-tracking](https://solvebar.com)  
-- [2026-03-30-300M-triangles-and-10k-skinned-characters-in-the-browser-via-WebGPU](https://twitter.com/etiennepinchon/status/2038261399236075647) ![](/assets/new.png)  
+- [2026-03-30-US-will-reportedly-allow-Russian-oil-tanker-to-reach-Cuba-amid-blockade](https://www.theguardian.com/us-news/2026/mar/29/us-russian-oil-tanker-cuba-blockade)  
+- [2026-03-30-I-Saw-Something-New-in-San-Francisco](https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html)  
+- [2026-03-30-iPhone-Mirroring-is-not-available-in-the-EU,-so-I-built-my-own](https://twitter.com/alexintosh/status/2038317511054172208)  
+- [2026-03-30-I-built-a-free-offline-productivity-app](https://apps.apple.com/us/app/gluon-todo-project-planner/id6758938759)  
+- [2026-03-30-The-Pirate-Bay's-Oldest-Torrent-Turned-22](https://torrentfreak.com/the-pirate-bays-oldest-torrent-turned-22/)  
+- [2026-03-30-Show-HN:-Manifold-–-generate-CLI-and-MCP-surfaces-from-one-.NET-operation](https://github.com/Garume/Manifold)  
+- [2026-03-30-Collapse-of-US-Agriculture](https://collapse2050.substack.com/p/collapse-of-us-agriculture)  
+- [2026-03-30-ADL-Online-Gaming-Leaderboard](https://www.adl.org/online-gaming-leaderboard)  
+- [2026-03-30-How-to-think-about-human-likeness-in-the-age-of-autonomy](https://daphnecornelisse.substack.com/p/how-to-think-about-human-likeness)  
+- [2026-03-30-A-self-hosted-proton-mail-alternative-SMTP-stack-with-E2EE-support](https://openneutron.com/)  
+- [2026-03-30-Abacus-Agentic-Behavior](https://news.ycombinator.com/item?id=47568594)  
+- [2026-03-30-From-Mercury-to-Artemis:-The-evolution-of-mission-control](https://www.bbc.com/future/article/20260327-from-mercury-to-artemis-the-evolution-of-mission-control)  
+- [2026-03-30-App-Reviews-Published](https://appaddict.app/post/500-app-reviews-published)  
+- [2026-03-30-EvalBench-–-Browser-based-binary-classifier-evaluation,-no-back-end](https://evalbench-75a.pages.dev)  
+- [2026-03-30-Software-Is-a-Feeling](https://robinrendle.com/notes/software-is-a-feeling/)  
+- [2026-03-30-Insider-trading-with-Truth-Social-and-form-capture](https://greyenlightenment.com/2026/03/29/insider-trading-with-truth-social-and-form-capture/)  
+- [2026-03-30-Show-HN:-AI-Job-Transformation-Model](https://dontloseyourjob.com/)  
+- [2026-03-30-From-Nintendo-to-"The-Exit-8":-The-Enduring-Identity-of-Japanese-Games](https://www.nippon.com/en/in-depth/d01200/)  
+- [2026-03-30-Rare-US-"Eye-in-the-Sky"-Command-Plane-Destroyed-in-Iran-Strike-on-Saudi-AirBase](https://simpleflying.com/rare-us-command-plane-destroyed-iran-missile-strike/)  
+- [2026-03-30-300M-triangles-and-10k-skinned-characters-in-the-browser-via-WebGPU](https://twitter.com/etiennepinchon/status/2038261399236075647)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -762,7 +762,7 @@
 </summary>
 
 
-- [2026-03-30-派早报：英文维基百科正式禁止-AI-参与编写](https://sspai.com/post/108044) ![](/assets/new.png)  
+- [2026-03-30-派早报：英文维基百科正式禁止-AI-参与编写](https://sspai.com/post/108044)  
 - [2026-03-29-自制电子墨水屏，以及我用它来干了什么？](https://sspai.com/post/105990)  
 - [2026-03-28-付费栏目试读-|-词不达意想找表情？不妨试试-Raycast-Emoji-选择器](https://sspai.com/post/107843)  
 - [2026-03-28-写在-Raycast-2.0-前夜：一份不再过时的使用指南](https://sspai.com/post/107980)  
