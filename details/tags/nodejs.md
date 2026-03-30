@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-30 23:02:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-31 06:01:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -31,6 +31,7 @@
 - [2026-03-23-KoALA:-KL-L0-Adversarial-Detector-via-Label-Agreement](https://arxiv.org/abs/2510.12752) 
 - [2026-03-23-FNODE:-Flow-Matching-for-data-driven-simulation-of-constrained-multibody-systems](https://arxiv.org/abs/2509.00183) 
 - [2026-03-23-Evaluating-Test-Time-Adaptation-For-Facial-Expression-Recognition-Under-Natural-Cross-Dataset-Distribution-Shifts](https://arxiv.org/abs/2603.19994) 
+- [2026-03-31-Pwning-V8-with-Turbofan-Type-Confusion-CVE-2025-2135](https://www.zellic.io/blog/pwning-v8ctf/) 
 - [2026-03-28-Ask-HN:-Best-place-to-host-a-Node.js-App-in-2026](https://news.ycombinator.com/item?id=47552071) 
 - [2026-03-25-Show-HN:-Herd-–-A-Go-sidecar-to-stop-stateful-processes-Puppeteer/LLMs-from-OOM](https://news.ycombinator.com/item?id=47511866) 
 - [2026-03-23-Show-HN:-Linkpeek-–-link-preview-for-Node.js,-Bun,-and-Deno-1-dependency](https://github.com/thegruber/linkpeek) 
