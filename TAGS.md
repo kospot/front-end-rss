@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-31 18:01:59。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-31 21:02:05。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -117,6 +117,7 @@
 - [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
 - [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
 - [【Hacker News】Show-HN:-Safe-install-–-Docker-first-install-time-hardening-for-pip-and-NPM](https://github.com/Khaeldur/safe-install)
+- [【Wired】Vitesy-Shelfy-2-Smart-Fridge-Purifier-Review:-Small-Box,-Big-Promises](https://www.wired.com/review/vitesy-shelfy-2/)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -507,8 +508,8 @@
 - [【arXiv ML】Simulation-based-Inference-with-the-Python-Package-sbijax](https://arxiv.org/abs/2409.19435)
 - [【arXiv ML】Learnability-with-Partial-Labels-and-Adaptive-Nearest-Neighbors](https://arxiv.org/abs/2603.15781)
 - [【Towards AI】-Technology-as-a-Living-Forest:-How-It-Breathes-and-Connects](https://pub.towardsai.net/technology-as-a-living-forest-how-it-breathes-and-connects-4f3c5ee14d06?source=rss----98111c9905da---4)
-- [【Towards AI】I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4)
 - [【Towards AI】AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4)
+- [【Towards AI】I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4)
 - [【Towards AI】The-Context-Reliability-Framework-CRF:-A-Production-Architecture-for-Trustworthy-AI-Systems](https://pub.towardsai.net/the-context-reliability-framework-crf-a-production-architecture-for-trustworthy-ai-systems-05d359aa5447?source=rss----98111c9905da---4)
 - [【Hacker News】From-static-findings-to-runtime-exploits:-testing-6-popular-MCP-servers](https://agentseal.org/blog)
 - [【Hacker News】Observers-Are-All-You-Need:-How-Observer-Synchronization-Creates-All-of-Physics](https://muellerberndt.medium.com/observers-are-all-you-need-how-observer-synchronization-creates-all-of-physics-8ebb7e9783e7)
@@ -588,6 +589,7 @@
 - [【CSS-Tricks】Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)
 - [【CSS-Tricks】The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)
 - [【CSS-Tricks】Popover-API-or-Dialog-API:-Which-to-Choose?](https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/)
+- [【Smashing Magazine】The-Joy-Of-A-Fresh-Beginning-April-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/)
 - [【Smashing Magazine】The-Site-Search-Paradox:-Why-The-Big-Box-Always-Wins](https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/)
 - [【Smashing Magazine】Testing-Font-Scaling-For-Accessibility-With-Figma-Variables](https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/)
 - [【Smashing Magazine】Modal-vs.-Separate-Page:-UX-Decision-Tree](https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/)
@@ -602,7 +604,6 @@
 - [【Frontend Masters Blog】The-Enforced-Accessibility-of-the-Geolocation-Element](https://frontendmasters.com/blog/the-enforced-accessibility-of-the-geolocation-element/)
 - [【张鑫旭】浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)
 - [【阮一峰】科技爱好者周刊（第-390-期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)
-- [【阮一峰】套壳中国大模型撑起500亿美元估值？扒一扒-Cursor-的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

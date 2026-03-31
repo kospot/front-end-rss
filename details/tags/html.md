@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-31 18:01:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-31 21:02:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -41,15 +41,15 @@
 - [2026-03-23-VisionClaude-–-Open-Source-AI-Vision-for-iPhone-and-Meta-Ray-Ban-Glasses](https://github.com/mrdulasolutions/visionclaude) 
 - [2026-03-31-Meta-starts-testing-a-premium-subscription-on-Instagram](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/) 
 - [2026-03-27-OpenAI-shuts-down-Sora-while-Meta-gets-shut-out-in-court](https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/) 
-- [2026-03-26-Jury-finds-Meta-and-Google-negligent-in-landmark-social-media-addiction-trial](https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/) 
 - [2026-03-26-Meta-is-cutting-several-hundred-jobs](https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/) 
-- [2026-03-25-New-Mexico-just-handed-Meta-its-first-courtroom-defeat-over-child-safety,-and-the-rest-of-the-country-is-watching](https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/) 
-- [2026-03-25-Meta-turns-to-AI-to-make-shopping-easier-on-Instagram-and-Facebook](https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/) 
+- [2026-03-26-Jury-finds-Meta-and-Google-negligent-in-landmark-social-media-addiction-trial](https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/) 
 - [2026-03-25-Meta-launches-new-initiative-to-support-entrepreneurship,-drive-AI-adoption](https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/) 
+- [2026-03-25-Meta-turns-to-AI-to-make-shopping-easier-on-Instagram-and-Facebook](https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/) 
+- [2026-03-25-New-Mexico-just-handed-Meta-its-first-courtroom-defeat-over-child-safety,-and-the-rest-of-the-country-is-watching](https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/) 
 - [2026-03-28-Meta-Quest-Promo-Codes:-$50-Off-|-March-2026](https://www.wired.com/story/meta-quest-promo-code/) 
 - [2026-03-26-The-Comedy-Club-at-the-End-of-the-Metaverse](https://www.wired.com/story/the-last-comedy-club-at-the-end-of-the-metaverse/) 
 - [2026-03-23-The-Rise-of-the-Ray-Ban-Meta-Creep](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/) 
-- [2026-03-20-Meta-Will-Keep-Horizon-Worlds-Alive-in-VR-‘for-the-Foreseeable-Future’](https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/) 
-- [2026-03-20-‘Uncanny-Valley’:-Nvidia’s-‘Super-Bowl-of-AI,’-Tesla-Disappoints,-and-Meta’s-VR-Metaverse-‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/) 
 - [2026-03-20-The-Danger-Behind-Meta-Killing-End-to-End-Encryption-for-Instagram-DMs](https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/) 
+- [2026-03-20-‘Uncanny-Valley’:-Nvidia’s-‘Super-Bowl-of-AI,’-Tesla-Disappoints,-and-Meta’s-VR-Metaverse-‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/) 
+- [2026-03-20-Meta-Will-Keep-Horizon-Worlds-Alive-in-VR-‘for-the-Foreseeable-Future’](https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/) 
 - [2026-03-19-Signal’s-Creator-Is-Helping-Encrypt-Meta-AI](https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-31 18:01:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-31 21:02:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -13,3 +13,4 @@
 - [2026-03-31-Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code) 
 - [2026-03-31-Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/) 
 - [2026-03-25-Show-HN:-Safe-install-–-Docker-first-install-time-hardening-for-pip-and-NPM](https://github.com/Khaeldur/safe-install) 
+- [2026-03-31-Vitesy-Shelfy-2-Smart-Fridge-Purifier-Review:-Small-Box,-Big-Promises](https://www.wired.com/review/vitesy-shelfy-2/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-31 18:01:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-31 21:02:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -29,4 +29,5 @@
 - [2026-03-24-I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4) 
 - [2026-03-24-Telegram-Outages-Spike-in-Kremlin's-Push-for-Digital-Control](https://jamestown.org/telegram-outages-spike-in-kremlins-push-for-digital-control/) 
 - [2026-03-30-Mantis-Biotech-is-making-‘digital-twins’-of-humans-to-help-solve-medicine’s-data-availability-problem](https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/) 
+- [2026-03-31-Backup-Files-and-Your-Entire-Digital-Life-2026:-Hard-Drives,-Cloud-Based-Tools,-and-Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/) 
 - [2026-03-25-The-Best-Digital-Wall-Calendar-2026:-Skylight,-Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/) 

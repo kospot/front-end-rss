@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-31T10:02:00.121Z</updated>
+    <updated>2026-03-31T13:02:05.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,23 +15,30 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The Silicon Valley congressional race is getting ugly]]></title>
-        <id>https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/</id>
-        <link href="https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/"/>
+        <title type="html"><![CDATA[Backup Files and Your Entire Digital Life (2026): Hard Drives, Cloud-Based Tools, and Tips]]></title>
+        <id>https://www.wired.com/story/how-to-back-up-your-digital-life/</id>
+        <link href="https://www.wired.com/story/how-to-back-up-your-digital-life/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bluesky’s new AI tool Attie is already the most blocked account other than J.D. Vance]]></title>
-        <id>https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/</id>
-        <link href="https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/"/>
+        <title type="html"><![CDATA[Vitesy Shelfy 2 Smart Fridge Purifier Review: Small Box, Big Promises]]></title>
+        <id>https://www.wired.com/review/vitesy-shelfy-2/</id>
+        <link href="https://www.wired.com/review/vitesy-shelfy-2/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta starts testing a premium subscription on Instagram]]></title>
-        <id>https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/</id>
-        <link href="https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/"/>
+        <title type="html"><![CDATA[This App Makes Even the Sketchiest PDF or Word Doc Safe to Open]]></title>
+        <id>https://www.wired.com/story/dangerzone-app-for-safe-pdfs-word-docs/</id>
+        <link href="https://www.wired.com/story/dangerzone-app-for-safe-pdfs-word-docs/"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As more Americans adopt AI tools, fewer say they can trust the results]]></title>
+        <id>https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/</id>
+        <link href="https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
@@ -43,9 +50,23 @@
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[As more Americans adopt AI tools, fewer say they can trust the results]]></title>
-        <id>https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/</id>
-        <link href="https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"/>
+        <title type="html"><![CDATA[Meta starts testing a premium subscription on Instagram]]></title>
+        <id>https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/</id>
+        <link href="https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bluesky’s new AI tool Attie is already the most blocked account other than J.D. Vance]]></title>
+        <id>https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/</id>
+        <link href="https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Silicon Valley congressional race is getting ugly]]></title>
+        <id>https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/</id>
+        <link href="https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[Memopt – GPU memory infrastructure for AI clusters]]></title>
         <id>https://memopt.com/</id>
         <link href="https://memopt.com/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Smallest Thing in PyTorch Opens Half the GPU Stack]]></title>
-        <id>https://pub.towardsai.net/the-smallest-thing-in-pytorch-opens-half-the-gpu-stack-5775e137e8a9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-smallest-thing-in-pytorch-opens-half-the-gpu-stack-5775e137e8a9?source=rss----98111c9905da---4"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vector Search on the Edge: Sensor Retrieval with Qdrant Edge on Ubuntu]]></title>
-        <id>https://pub.towardsai.net/vector-search-on-the-edge-sensor-retrieval-with-qdrant-edge-on-ubuntu-c0518de7a536?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/vector-search-on-the-edge-sensor-retrieval-with-qdrant-edge-on-ubuntu-c0518de7a536?source=rss----98111c9905da---4"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automation Lifecycle and the Importance of Guardrails in Business Processes]]></title>
-        <id>https://pub.towardsai.net/automation-lifecycle-and-importance-of-guardrails-in-business-processes-0cbe3f0c3b60?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/automation-lifecycle-and-importance-of-guardrails-in-business-processes-0cbe3f0c3b60?source=rss----98111c9905da---4"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
