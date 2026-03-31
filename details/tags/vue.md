@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-31 10:00:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-31 12:01:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -7,5 +7,6 @@
 
 
 
+- [2026-03-31-Unveiling-Implicit-Advantage-Symmetry:-Why-GRPO-Struggles-with-Exploration-and-Difficulty-Adaptation](https://arxiv.org/abs/2602.05548) 
 - [2026-03-26-Smooth-Gate-Functions-for-Soft-Advantage-Policy-Optimization](https://arxiv.org/abs/2602.19345) 
 - [2026-03-24-Advantage-Shaping-as-Surrogate-Reward-Maximization:-Unifying-Pass@K-Policy-Gradients](https://arxiv.org/abs/2510.23049) 
