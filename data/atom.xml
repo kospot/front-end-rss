@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-31T04:01:56.396Z</updated>
+    <updated>2026-03-31T07:01:19.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Bluesky’s new AI tool Attie is already the most blocked account other than J.D. Vance]]></title>
-        <id>https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/</id>
-        <link href="https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta starts testing a premium subscription on Instagram]]></title>
-        <id>https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/</id>
-        <link href="https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/"/>
+        <title type="html"><![CDATA[As more Americans adopt AI tools, fewer say they can trust the results]]></title>
+        <id>https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/</id>
+        <link href="https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
@@ -36,177 +29,72 @@
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[As more Americans adopt AI tools, fewer say they can trust the results]]></title>
-        <id>https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/</id>
-        <link href="https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"/>
+        <title type="html"><![CDATA[Meta starts testing a premium subscription on Instagram]]></title>
+        <id>https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/</id>
+        <link href="https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Supply Chain Attack on Axios Pulls Malicious Dependency from NPM]]></title>
-        <id>https://socket.dev/blog/axios-npm-package-compromised</id>
-        <link href="https://socket.dev/blog/axios-npm-package-compromised"/>
+        <title type="html"><![CDATA[Bluesky’s new AI tool Attie is already the most blocked account other than J.D. Vance]]></title>
+        <id>https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/</id>
+        <link href="https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Semantic – Reducing LLM "Agent Loops" by 27.78% via AST Logic Graphs]]></title>
-        <id>https://github.com/concensure/Semantic</id>
-        <link href="https://github.com/concensure/Semantic"/>
+        <title type="html"><![CDATA[Memopt – GPU memory infrastructure for AI clusters]]></title>
+        <id>https://memopt.com/</id>
+        <link href="https://memopt.com/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ollama is now powered by MLX on Apple Silicon in preview]]></title>
-        <id>https://ollama.com/blog/mlx</id>
-        <link href="https://ollama.com/blog/mlx"/>
+        <title type="html"><![CDATA[Vaping likely to cause cancer, new Australian review of evidence finds]]></title>
+        <id>https://www.rnz.co.nz/news/world/591096/vaping-likely-to-cause-cancer-new-australian-review-of-evidence-finds</id>
+        <link href="https://www.rnz.co.nz/news/world/591096/vaping-likely-to-cause-cancer-new-australian-review-of-evidence-finds"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Disney Reportedly Interested in Acquiring Epic Games and Fortnite]]></title>
-        <id>https://tech4gamers.com/disney-interested-epic-games-fortnite/</id>
-        <link href="https://tech4gamers.com/disney-interested-epic-games-fortnite/"/>
+        <title type="html"><![CDATA[Q4_0 KV cache collapses 92.5% at 64K on DGX Spark GB10 (unified memory paradox)]]></title>
+        <id>https://github.com/Memoriant/dgx-spark-kv-cache-benchmark</id>
+        <link href="https://github.com/Memoriant/dgx-spark-kv-cache-benchmark"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astronaut's Condition That Led to Space Station Evacuation Remains a Mystery]]></title>
-        <id>https://www.nytimes.com/2026/03/28/science/nasa-astronaut-medical-evaluation.html</id>
-        <link href="https://www.nytimes.com/2026/03/28/science/nasa-astronaut-medical-evaluation.html"/>
+        <title type="html"><![CDATA[Don't sleep on your feedback infrastructure]]></title>
+        <id>https://www.lumeforms.com/audit</id>
+        <link href="https://www.lumeforms.com/audit"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly]]></title>
-        <id>https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/</id>
-        <link href="https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/"/>
+        <title type="html"><![CDATA[Scientists uncovered the nutrients bees were missing – Colonies surged 15-fold]]></title>
+        <id>https://www.sciencedaily.com/releases/2026/03/260327000518.htm</id>
+        <link href="https://www.sciencedaily.com/releases/2026/03/260327000518.htm"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Critical: Active supply chain attack on axios – one of NPM's most used packages]]></title>
-        <id>https://twitter.com/i/status/2038807290422370479</id>
-        <link href="https://twitter.com/i/status/2038807290422370479"/>
+        <title type="html"><![CDATA[Claude Code v2.1.88 Sourcemap]]></title>
+        <id>https://unpkg.com/@anthropic-ai/claude-code@2.1.88/cli.js.map</id>
+        <link href="https://unpkg.com/@anthropic-ai/claude-code@2.1.88/cli.js.map"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shape-Invariant Transforms Using Wide-Band Voice Pulse Modeling]]></title>
-        <id>https://queuesevenm.wordpress.com/2026/03/30/shape-invariant-transforms-using-wide-band-voice-pulse-modeling/</id>
-        <link href="https://queuesevenm.wordpress.com/2026/03/30/shape-invariant-transforms-using-wide-band-voice-pulse-modeling/"/>
+        <title type="html"><![CDATA[Write Native Web HTML and CSS for Roblox UI]]></title>
+        <id>https://twitter.com/xeno_mouse/status/2038759250453729685</id>
+        <link href="https://twitter.com/xeno_mouse/status/2038759250453729685"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leveling Up Secure Code Reviews with Claude Code]]></title>
-        <id>https://specterops.io/blog/2026/03/26/leveling-up-secure-code-reviews-with-claude-code/</id>
-        <link href="https://specterops.io/blog/2026/03/26/leveling-up-secure-code-reviews-with-claude-code/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Are you too getting addicted to the dev workflow of coding with agents?]]></title>
-        <id>https://news.ycombinator.com/item?id=47581097</id>
-        <link href="https://news.ycombinator.com/item?id=47581097"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A guide to Io_uring]]></title>
-        <id>https://nick-black.com/dankwiki/index.php?title=Io_uring</id>
-        <link href="https://nick-black.com/dankwiki/index.php?title=Io_uring"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hank Green: What is "Slop" (and why it gives me hope) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=dT5IJExTUR4</id>
-        <link href="https://www.youtube.com/watch?v=dT5IJExTUR4"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An introduction to the io_uring asynchronous I/O framework (2020)]]></title>
-        <id>https://blogs.oracle.com/linux/an-introduction-to-the-io-uring-asynchronous-io-framework</id>
-        <link href="https://blogs.oracle.com/linux/an-introduction-to-the-io-uring-asynchronous-io-framework"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freedom Studio – local AI runner with Tor, E2E encryption, and zero telemetry]]></title>
-        <id>https://github.com/albertotijunelis/freedom-studio</id>
-        <link href="https://github.com/albertotijunelis/freedom-studio"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observers Are All You Need: How Observer-Synchronization Creates All of Physics]]></title>
-        <id>https://muellerberndt.medium.com/observers-are-all-you-need-how-observer-synchronization-creates-all-of-physics-8ebb7e9783e7</id>
-        <link href="https://muellerberndt.medium.com/observers-are-all-you-need-how-observer-synchronization-creates-all-of-physics-8ebb7e9783e7"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pitch your idea to a team of voice agents, get a dev-ready spec in < 3 minutes]]></title>
-        <id>https://demo.unaverse.ai/</id>
-        <link href="https://demo.unaverse.ai/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fossier: A slop evaluator for GitHub PRs to prevent spams]]></title>
-        <id>https://github.com/PThorpe92/fossier</id>
-        <link href="https://github.com/PThorpe92/fossier"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DocsMD – Git-able agent friendly documentation]]></title>
-        <id>https://github.com/joachimhs/docs-md</id>
-        <link href="https://github.com/joachimhs/docs-md"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Army paratroopers arrive in Middle East as buildup intensifies]]></title>
-        <id>http://reuters.com/world/middle-east/thousands-us-army-paratroopers-arrive-middle-east-buildup-intensifies-2026-03-30/</id>
-        <link href="http://reuters.com/world/middle-east/thousands-us-army-paratroopers-arrive-middle-east-buildup-intensifies-2026-03-30/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YeetCode – I built a platform for coding duels with friends]]></title>
-        <id>https://yeetcode.xyz/</id>
-        <link href="https://yeetcode.xyz/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pwning V8 with Turbofan Type Confusion (CVE-2025-2135)]]></title>
-        <id>https://www.zellic.io/blog/pwning-v8ctf/</id>
-        <link href="https://www.zellic.io/blog/pwning-v8ctf/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From static findings to runtime exploits: testing 6 popular MCP servers]]></title>
-        <id>https://agentseal.org/blog</id>
-        <link href="https://agentseal.org/blog"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explore Benjamin Franklin's Science on NotebookLM]]></title>
-        <id>https://blog.google/company-news/outreach-and-initiatives/arts-culture/benjamin-franklin-notebooklm/</id>
-        <link href="https://blog.google/company-news/outreach-and-initiatives/arts-culture/benjamin-franklin-notebooklm/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F1 in Japan: Oh no, what have they done to all the fast corners?]]></title>
-        <id>https://arstechnica.com/cars/2026/03/f1-in-japan-oh-no-what-have-they-done-to-all-the-fast-corners/</id>
-        <link href="https://arstechnica.com/cars/2026/03/f1-in-japan-oh-no-what-have-they-done-to-all-the-fast-corners/"/>
+        <title type="html"><![CDATA[Seeds of doubt:The dark side of an Italian energy giant's green jet fuel promise]]></title>
+        <id>https://www.politico.eu/article/seeds-of-doubt-the-dark-side-of-enis-green-jet-fuel-promise/</id>
+        <link href="https://www.politico.eu/article/seeds-of-doubt-the-dark-side-of-enis-green-jet-fuel-promise/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
@@ -218,16 +106,198 @@
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 15-File Setup That Turned Claude Code Into My Development Team]]></title>
-        <id>https://pub.towardsai.net/the-15-file-setup-that-turned-claude-code-into-my-development-team-04bc38da49de?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-15-file-setup-that-turned-claude-code-into-my-development-team-04bc38da49de?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[F1 in Japan: Oh no, what have they done to all the fast corners?]]></title>
+        <id>https://arstechnica.com/cars/2026/03/f1-in-japan-oh-no-what-have-they-done-to-all-the-fast-corners/</id>
+        <link href="https://arstechnica.com/cars/2026/03/f1-in-japan-oh-no-what-have-they-done-to-all-the-fast-corners/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Text to Knowledge Graph in One Command: Building a Modular LLM-Backed Framework]]></title>
-        <id>https://pub.towardsai.net/from-text-to-knowledge-graph-in-one-command-building-a-modular-llm-backed-framework-ec98abd3d565?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/from-text-to-knowledge-graph-in-one-command-building-a-modular-llm-backed-framework-ec98abd3d565?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Explore Benjamin Franklin's Science on NotebookLM]]></title>
+        <id>https://blog.google/company-news/outreach-and-initiatives/arts-culture/benjamin-franklin-notebooklm/</id>
+        <link href="https://blog.google/company-news/outreach-and-initiatives/arts-culture/benjamin-franklin-notebooklm/"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From static findings to runtime exploits: testing 6 popular MCP servers]]></title>
+        <id>https://agentseal.org/blog</id>
+        <link href="https://agentseal.org/blog"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pwning V8 with Turbofan Type Confusion (CVE-2025-2135)]]></title>
+        <id>https://www.zellic.io/blog/pwning-v8ctf/</id>
+        <link href="https://www.zellic.io/blog/pwning-v8ctf/"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YeetCode – I built a platform for coding duels with friends]]></title>
+        <id>https://yeetcode.xyz/</id>
+        <link href="https://yeetcode.xyz/"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Army paratroopers arrive in Middle East as buildup intensifies]]></title>
+        <id>http://reuters.com/world/middle-east/thousands-us-army-paratroopers-arrive-middle-east-buildup-intensifies-2026-03-30/</id>
+        <link href="http://reuters.com/world/middle-east/thousands-us-army-paratroopers-arrive-middle-east-buildup-intensifies-2026-03-30/"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DocsMD – Git-able agent friendly documentation]]></title>
+        <id>https://github.com/joachimhs/docs-md</id>
+        <link href="https://github.com/joachimhs/docs-md"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fossier: A slop evaluator for GitHub PRs to prevent spams]]></title>
+        <id>https://github.com/PThorpe92/fossier</id>
+        <link href="https://github.com/PThorpe92/fossier"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pitch your idea to a team of voice agents, get a dev-ready spec in < 3 minutes]]></title>
+        <id>https://demo.unaverse.ai/</id>
+        <link href="https://demo.unaverse.ai/"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observers Are All You Need: How Observer-Synchronization Creates All of Physics]]></title>
+        <id>https://muellerberndt.medium.com/observers-are-all-you-need-how-observer-synchronization-creates-all-of-physics-8ebb7e9783e7</id>
+        <link href="https://muellerberndt.medium.com/observers-are-all-you-need-how-observer-synchronization-creates-all-of-physics-8ebb7e9783e7"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freedom Studio – local AI runner with Tor, E2E encryption, and zero telemetry]]></title>
+        <id>https://github.com/albertotijunelis/freedom-studio</id>
+        <link href="https://github.com/albertotijunelis/freedom-studio"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An introduction to the io_uring asynchronous I/O framework (2020)]]></title>
+        <id>https://blogs.oracle.com/linux/an-introduction-to-the-io-uring-asynchronous-io-framework</id>
+        <link href="https://blogs.oracle.com/linux/an-introduction-to-the-io-uring-asynchronous-io-framework"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hank Green: What is "Slop" (and why it gives me hope) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=dT5IJExTUR4</id>
+        <link href="https://www.youtube.com/watch?v=dT5IJExTUR4"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A guide to Io_uring]]></title>
+        <id>https://nick-black.com/dankwiki/index.php?title=Io_uring</id>
+        <link href="https://nick-black.com/dankwiki/index.php?title=Io_uring"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Are you too getting addicted to the dev workflow of coding with agents?]]></title>
+        <id>https://news.ycombinator.com/item?id=47581097</id>
+        <link href="https://news.ycombinator.com/item?id=47581097"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leveling Up Secure Code Reviews with Claude Code]]></title>
+        <id>https://specterops.io/blog/2026/03/26/leveling-up-secure-code-reviews-with-claude-code/</id>
+        <link href="https://specterops.io/blog/2026/03/26/leveling-up-secure-code-reviews-with-claude-code/"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shape-Invariant Transforms Using Wide-Band Voice Pulse Modeling]]></title>
+        <id>https://queuesevenm.wordpress.com/2026/03/30/shape-invariant-transforms-using-wide-band-voice-pulse-modeling/</id>
+        <link href="https://queuesevenm.wordpress.com/2026/03/30/shape-invariant-transforms-using-wide-band-voice-pulse-modeling/"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical: Active supply chain attack on axios – one of NPM's most used packages]]></title>
+        <id>https://twitter.com/i/status/2038807290422370479</id>
+        <link href="https://twitter.com/i/status/2038807290422370479"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly]]></title>
+        <id>https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/</id>
+        <link href="https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astronaut's Condition That Led to Space Station Evacuation Remains a Mystery]]></title>
+        <id>https://www.nytimes.com/2026/03/28/science/nasa-astronaut-medical-evaluation.html</id>
+        <link href="https://www.nytimes.com/2026/03/28/science/nasa-astronaut-medical-evaluation.html"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney Reportedly Interested in Acquiring Epic Games and Fortnite]]></title>
+        <id>https://tech4gamers.com/disney-interested-epic-games-fortnite/</id>
+        <link href="https://tech4gamers.com/disney-interested-epic-games-fortnite/"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ollama is now powered by MLX on Apple Silicon in preview]]></title>
+        <id>https://ollama.com/blog/mlx</id>
+        <link href="https://ollama.com/blog/mlx"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semantic – Reducing LLM "Agent Loops" by 27.78% via AST Logic Graphs]]></title>
+        <id>https://github.com/concensure/Semantic</id>
+        <link href="https://github.com/concensure/Semantic"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supply Chain Attack on Axios Pulls Malicious Dependency from NPM]]></title>
+        <id>https://socket.dev/blog/axios-npm-package-compromised</id>
+        <link href="https://socket.dev/blog/axios-npm-package-compromised"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Smallest Thing in PyTorch Opens Half the GPU Stack]]></title>
+        <id>https://pub.towardsai.net/the-smallest-thing-in-pytorch-opens-half-the-gpu-stack-5775e137e8a9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-smallest-thing-in-pytorch-opens-half-the-gpu-stack-5775e137e8a9?source=rss----98111c9905da---4"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vector Search on the Edge: Sensor Retrieval with Qdrant Edge on Ubuntu]]></title>
+        <id>https://pub.towardsai.net/vector-search-on-the-edge-sensor-retrieval-with-qdrant-edge-on-ubuntu-c0518de7a536?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/vector-search-on-the-edge-sensor-retrieval-with-qdrant-edge-on-ubuntu-c0518de7a536?source=rss----98111c9905da---4"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automation Lifecycle and the Importance of Guardrails in Business Processes]]></title>
+        <id>https://pub.towardsai.net/automation-lifecycle-and-importance-of-guardrails-in-business-processes-0cbe3f0c3b60?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/automation-lifecycle-and-importance-of-guardrails-in-business-processes-0cbe3f0c3b60?source=rss----98111c9905da---4"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Advanced AI Agents: A Complete Guide to ChatGPT Architecture]]></title>
+        <id>https://pub.towardsai.net/building-advanced-ai-agents-a-complete-guide-to-chatgpt-architecture-24ee20168236?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-advanced-ai-agents-a-complete-guide-to-chatgpt-architecture-24ee20168236?source=rss----98111c9905da---4"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
@@ -239,9 +309,16 @@
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Advanced AI Agents: A Complete Guide to ChatGPT Architecture]]></title>
-        <id>https://pub.towardsai.net/building-advanced-ai-agents-a-complete-guide-to-chatgpt-architecture-24ee20168236?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-advanced-ai-agents-a-complete-guide-to-chatgpt-architecture-24ee20168236?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[From Text to Knowledge Graph in One Command: Building a Modular LLM-Backed Framework]]></title>
+        <id>https://pub.towardsai.net/from-text-to-knowledge-graph-in-one-command-building-a-modular-llm-backed-framework-ec98abd3d565?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/from-text-to-knowledge-graph-in-one-command-building-a-modular-llm-backed-framework-ec98abd3d565?source=rss----98111c9905da---4"/>
+        <updated>2026-03-30T16:00:00.000Z</updated>
+        <published>2026-03-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 15-File Setup That Turned Claude Code Into My Development Team]]></title>
+        <id>https://pub.towardsai.net/the-15-file-setup-that-turned-claude-code-into-my-development-team-04bc38da49de?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-15-file-setup-that-turned-claude-code-into-my-development-team-04bc38da49de?source=rss----98111c9905da---4"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
@@ -284,83 +361,6 @@
         <title type="html"><![CDATA[Sparse-by-Design Cross-Modality Prediction: L0-Gated Representations for Reliable and Efficient Learning]]></title>
         <id>https://arxiv.org/abs/2603.26801</id>
         <link href="https://arxiv.org/abs/2603.26801"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epileptic Seizure Prediction Using Patient-Adaptive Transformer Networks]]></title>
-        <id>https://arxiv.org/abs/2603.26821</id>
-        <link href="https://arxiv.org/abs/2603.26821"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Throughput Optimization as a Strategic Lever in Large-Scale AI Systems: Evidence from Dataloader and Memory Profiling Innovations]]></title>
-        <id>https://arxiv.org/abs/2603.26823</id>
-        <link href="https://arxiv.org/abs/2603.26823"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Central-to-Local Adaptive Generative Diffusion Framework for Improving Gene Expression Prediction in Data-Limited Spatial Transcriptomics]]></title>
-        <id>https://arxiv.org/abs/2603.26827</id>
-        <link href="https://arxiv.org/abs/2603.26827"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Regression Framework for Understanding Prompt Component Impact on LLM Performance]]></title>
-        <id>https://arxiv.org/abs/2603.26830</id>
-        <link href="https://arxiv.org/abs/2603.26830"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VAN-AD: Visual Masked Autoencoder with Normalizing Flow For Time Series Anomaly Detection]]></title>
-        <id>https://arxiv.org/abs/2603.26842</id>
-        <link href="https://arxiv.org/abs/2603.26842"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Hierarchical Sheaf Spectral Embedding Framework for Single-Cell RNA-seq Analysis]]></title>
-        <id>https://arxiv.org/abs/2603.26858</id>
-        <link href="https://arxiv.org/abs/2603.26858"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Property-Guided Molecular Generation and Optimization via Latent Flows]]></title>
-        <id>https://arxiv.org/abs/2603.26889</id>
-        <link href="https://arxiv.org/abs/2603.26889"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tunable Domain Adaptation Using Unfolding]]></title>
-        <id>https://arxiv.org/abs/2603.26931</id>
-        <link href="https://arxiv.org/abs/2603.26931"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probabilistic Forecasting of Localized Wildfire Spread Based on Conditional Flow Matching]]></title>
-        <id>https://arxiv.org/abs/2603.26975</id>
-        <link href="https://arxiv.org/abs/2603.26975"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ImmSET: Sequence-Based Predictor of TCR-pMHC Specificity at Scale]]></title>
-        <id>https://arxiv.org/abs/2603.26994</id>
-        <link href="https://arxiv.org/abs/2603.26994"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquid Networks with Mixture Density Heads for Efficient Imitation Learning]]></title>
-        <id>https://arxiv.org/abs/2603.27058</id>
-        <link href="https://arxiv.org/abs/2603.27058"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
