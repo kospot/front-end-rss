@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-31 23:03:07。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-01 06:01:50。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -47,13 +47,14 @@
 - [【arXiv ML】Gym-TORAX:-Open-source-software-for-integrating-reinforcement-learning-with-plasma-control-simulators-in-tokamak-research](https://arxiv.org/abs/2510.11283)
 - [【Towards AI】Building-a-Financial-Research-Agent-with-ReAct,-LangGraph,-and-LangChain](https://pub.towardsai.net/building-a-financial-research-agent-with-react-langgraph-and-langchain-c5d5142d8b29?source=rss----98111c9905da---4)
 - [【Towards AI】A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)
-- [【Hacker News】Scientists-Create-Novel-Organism-with-Primitive-Nervous-System](https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system)
+- [【Hacker News】A-satellite-smashing-chain-reaction-could-spiral-out-of-control](https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control)
 - [【Hacker News】A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list)
+- [【Hacker News】Scientists-Create-Novel-Organism-with-Primitive-Nervous-System](https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system)
 - [【Hacker News】ViraxLog-–-Tamper-Proof-Logging-Using-Merkle-Trees-and-BLAKE2B-for-Python](https://github.com/damienos61/viraxlog)
-- [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
 - [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
-- [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
+- [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
 - [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
+- [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -111,11 +112,12 @@
 
 
 
+- [【JavaScript Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 - [【JavaScript Weekly】It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
-- [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
-- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
-- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
 - [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
+- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
+- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
 - [【Hacker News】Show-HN:-Safe-install-–-Docker-first-install-time-hardening-for-pip-and-NPM](https://github.com/Khaeldur/safe-install)
 - [【Wired】Vitesy-Shelfy-2-Smart-Fridge-Purifier-Review:-Small-Box,-Big-Promises](https://www.wired.com/review/vitesy-shelfy-2/)
 - [......【查看更多】......](/details/tags/pack-build.md)
@@ -307,12 +309,12 @@
 - [【arXiv ML】Meta-Learning-for-Repeated-Bayesian-Persuasion](https://arxiv.org/abs/2603.20408)
 - [【arXiv ML】Confidence-Freeze:-Early-Success-Induces-a-Metastable-Decoupling-of-Metacognition-and-Behaviour](https://arxiv.org/abs/2603.21043)
 - [【arXiv ML】Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888)
+- [【Towards AI】How-Meta’s-TRIBE-v2-Predicts-Human-Brain-Activity-Using-AI](https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4)
 - [【Towards AI】Meta-Just-Acqui-Hired-Its-4th-AI-Startup-in-4-Months.-Zuckerberg’s-Agent-Empire-Is-Taking-Shape.](https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4)
 - [【Hacker News】Batch_forge-–-A-bare-metal-Jax/Equinox-runner-in-Rust-for-Mac](https://github.com/yash27-lab/batch_forge)
 - [【Hacker News】Meta's-victim-blaming-failed-to-sway-jurors-in-social-media-addiction-trial](https://www.theguardian.com/technology/2026/mar/29/meta-loss-social-media-addiction-trial)
-- [【Hacker News】Meta-and-Google-face-a-reckoning-over-social-media-addiction](https://www.economist.com/business/2026/03/25/meta-and-google-face-a-reckoning-over-social-media-addiction)
-- [【Hacker News】Meta-hit-with-$375M-verdict-in-New-Mexico-child-safety-case](https://www.politico.com/news/2026/03/24/meta-hit-with-375m-verdict-in-new-mexico-child-safety-case-00842998)
 - [【Hacker News】Show-HN:-Local-Vault-–-AES-256-GCM-password-manager-in-a-single-HTML-file](https://github.com/RachidBoutaguiout/local-vault)
+- [【Hacker News】Meta-hit-with-$375M-verdict-in-New-Mexico-child-safety-case](https://www.politico.com/news/2026/03/24/meta-hit-with-375m-verdict-in-new-mexico-child-safety-case-00842998)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -422,9 +424,9 @@
 
 
 - [【CSS-Tricks】Form-Automation-Tips-for-Happier-User-and-Clients](https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/)
-- [【Smashing Magazine】Getting-Started-With-The-Popover-API](https://smashingmagazine.com/2026/03/getting-started-popover-api/)
 - [【Frontend Masters Blog】The-Top-Trait-Companies-Look-For-in-a-Technical-Interview](https://frontendmasters.com/blog/the-top-trait-companies-look-for-in-a-technical-interview/)
 - [【Frontend Masters Blog】Text-scaling-support-in-Chrome-Canary](https://frontendmasters.com/blog/text-scaling-support-in-chrome-canary/)
+- [【GitHub Engineering】Agent-driven-development-in-Copilot-Applied-Science](https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/)
 - [【GitHub Engineering】GitHub-for-Beginners:-Getting-started-with-GitHub-security](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/)
 - [【GitHub Engineering】A-year-of-open-source-vulnerability-trends:-CVEs,-advisories,-and-malware](https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/)
 - [【GitHub Engineering】-Investing-in-the-people-shaping-open-source-and-securing-the-future-together](https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/)
@@ -507,12 +509,12 @@
 - [【arXiv ML】EvidenceRL:-Reinforcing-Evidence-Consistency-for-Trustworthy-Language-Models](https://arxiv.org/abs/2603.19532)
 - [【arXiv ML】Simulation-based-Inference-with-the-Python-Package-sbijax](https://arxiv.org/abs/2409.19435)
 - [【arXiv ML】Learnability-with-Partial-Labels-and-Adaptive-Nearest-Neighbors](https://arxiv.org/abs/2603.15781)
+- [【Towards AI】Building-a-Realistic-Relational-Test-Database-from-Scratch-with-Python](https://pub.towardsai.net/building-a-realistic-relational-test-database-from-scratch-with-python-af1909cd822b?source=rss----98111c9905da---4)
 - [【Towards AI】-Technology-as-a-Living-Forest:-How-It-Breathes-and-Connects](https://pub.towardsai.net/technology-as-a-living-forest-how-it-breathes-and-connects-4f3c5ee14d06?source=rss----98111c9905da---4)
-- [【Towards AI】I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4)
 - [【Towards AI】AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4)
+- [【Towards AI】I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4)
 - [【Towards AI】The-Context-Reliability-Framework-CRF:-A-Production-Architecture-for-Trustworthy-AI-Systems](https://pub.towardsai.net/the-context-reliability-framework-crf-a-production-architecture-for-trustworthy-ai-systems-05d359aa5447?source=rss----98111c9905da---4)
-- [【Hacker News】Disney-Reportedly-Interested-in-Acquiring-Epic-Games-and-Fortnite](https://tech4gamers.com/disney-interested-epic-games-fortnite/)
-- [【Hacker News】Observers-Are-All-You-Need:-How-Observer-Synchronization-Creates-All-of-Physics](https://muellerberndt.medium.com/observers-are-all-you-need-how-observer-synchronization-creates-all-of-physics-8ebb7e9783e7)
+- [【Hacker News】Clawd-code-–-A-Python-slop-fork-of-Claude-Code](https://github.com/instructkr/clawd-code)
 - [......【查看更多】......](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -533,8 +535,8 @@
 - [【GitHub Engineering】Updates-to-GitHub-Copilot-interaction-data-usage-policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
 - [【GitHub Engineering】Building-AI-powered-GitHub-issue-triage-with-the-Copilot-SDK](https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/)
 - [【GitHub Engineering】GitHub-expands-application-security-coverage-with-AI‑powered-detections](https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/)
-- [【GitHub Engineering】GitHub-availability-report:-February-2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/)
 - [【GitHub Engineering】Addressing-GitHub’s-recent-availability-issues](https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/)
+- [【GitHub Engineering】GitHub-availability-report:-February-2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/)
 - [【GitHub Engineering】Under-the-hood:-Security-architecture-of-GitHub-Agentic-Workflows](https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/)
 - [【arXiv ML】Masked-Training-for-Robust-Arrhythmia-Detection-from-Digitalized-Multiple-Layout-ECG-Images](https://arxiv.org/abs/2508.09165)
 - [【arXiv ML】Continuous-Time-Learning-of-Probability-Distributions:-A-Case-Study-in-a-Digital-Trial-of-Young-Children-with-Type-1-Diabetes](https://arxiv.org/abs/2603.24427)
@@ -542,13 +544,13 @@
 - [【arXiv ML】The-Economics-of-Builder-Saturation-in-Digital-Markets](https://arxiv.org/abs/2603.23685)
 - [【arXiv ML】SDE-Driven-Spatio-Temporal-Hypergraph-Neural-Networks-for-Irregular-Longitudinal-fMRI-Connectome-Modeling-in-Alzheimer's-Disease](https://arxiv.org/abs/2603.20452)
 - [【Hacker News】Lithuanian-Legislation-as-a-Git-Repo](https://github.com/Yiin/lt-teises-aktai)
-- [【Hacker News】In-Math,-Rigor-Is-Vital.-But-Are-Digitized-Proofs-Taking-It-Too-Far?](https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/)
-- [【Hacker News】Why-pylock.toml-includes-digital-attestations](https://snarky.ca/why-pylock-toml-includes-digital-attestations/)
-- [【Hacker News】GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
-- [【Hacker News】I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth)
 - [【Hacker News】The-Digital-Imprimatur-2003](https://www.fourmilab.ch/documents/digital-imprimatur/)
+- [【Hacker News】I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth)
+- [【Hacker News】GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
+- [【Hacker News】Why-pylock.toml-includes-digital-attestations](https://snarky.ca/why-pylock-toml-includes-digital-attestations/)
+- [【Hacker News】In-Math,-Rigor-Is-Vital.-But-Are-Digitized-Proofs-Taking-It-Too-Far?](https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/)
 - [【Hacker News】Show-HN:-Looking-for-feedback-on-a-Git-native-message-board](https://zenmemes.com/compose/thread)
-- [【Hacker News】Telegram-Outages-Spike-in-Kremlin's-Push-for-Digital-Control](https://jamestown.org/telegram-outages-spike-in-kremlins-push-for-digital-control/)
+- [【Hacker News】I-benchmarked-GitHub-CLI,-MCP,-Tool-Search,-Code-Mode-so-we-know-the-differences](https://medium.com/@kunchenguid/i-benchmarked-github-cli-vs-mcp-vs-tool-search-vs-code-mode-turns-out-the-best-solution-is-none-93528d5039e4)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -588,7 +590,6 @@
 - [【CSS-Tricks】4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)
 - [【CSS-Tricks】Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)
 - [【CSS-Tricks】The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)
-- [【CSS-Tricks】Popover-API-or-Dialog-API:-Which-to-Choose?](https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/)
 - [【Smashing Magazine】The-Joy-Of-A-Fresh-Beginning-April-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/)
 - [【Smashing Magazine】The-Site-Search-Paradox:-Why-The-Big-Box-Always-Wins](https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/)
 - [【Smashing Magazine】Testing-Font-Scaling-For-Accessibility-With-Figma-Variables](https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/)
@@ -596,11 +597,12 @@
 - [【Smashing Magazine】Persuasive-Design:-Ten-Years-Later](https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/)
 - [【Smashing Magazine】Human-Strategy-In-An-AI-Accelerated-Workflow](https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/)
 - [【Smashing Magazine】Now-Shipping:-Accessible-UX-Research,-A-New-Smashing-Book-By-Michele-Williams](https://smashingmagazine.com/2026/03/accessible-ux-research-release/)
+- [【Frontend Masters Blog】Fancy-Short-Screen-Recording-Tools](https://frontendmasters.com/blog/fancy-short-screen-recording-tools/)
 - [【Frontend Masters Blog】The-Drill-Down-Menu-with-Details-and-@scope](https://frontendmasters.com/blog/the-drill-down-menu-with-details-and-scope/)
-- [【Frontend Masters Blog】BaseWatch](https://frontendmasters.com/blog/basewatch/)
 - [【Frontend Masters Blog】Image-Gallery-with-Popovers-and-AIM-Anchor-Interpolated-Morph](https://frontendmasters.com/blog/image-gallery-with-popovers-and-aim-anchor-interpolated-morph/)
-- [【Frontend Masters Blog】Form-Associated-Custom-Elements-in-Practice](https://frontendmasters.com/blog/form-associated-custom-elements-in-practice/)
+- [【Frontend Masters Blog】BaseWatch](https://frontendmasters.com/blog/basewatch/)
 - [【Frontend Masters Blog】Collaborative-Markdown](https://frontendmasters.com/blog/collaborative-markdown/)
+- [【Frontend Masters Blog】Form-Associated-Custom-Elements-in-Practice](https://frontendmasters.com/blog/form-associated-custom-elements-in-practice/)
 - [【Frontend Masters Blog】The-Enforced-Accessibility-of-the-Geolocation-Element](https://frontendmasters.com/blog/the-enforced-accessibility-of-the-geolocation-element/)
 - [【张鑫旭】浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)
 - [【阮一峰】科技爱好者周刊（第-390-期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)
