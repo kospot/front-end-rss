@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-31 06:01:01，:rocket: 更新条数: +1210， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-31 08:01:40，:rocket: 更新条数: +1201， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,7 +19,7 @@
 - [web.dev](#web.dev)  
 - [CSS-Tricks](#css-tricks)![](/assets/dot.png)   
 - [Smashing-Magazine](#smashing-magazine)![](/assets/dot.png)   
-- [Frontend-Masters-Blog](#frontend-masters-blog)![](/assets/dot.png)   
+- [Frontend-Masters-Blog](#frontend-masters-blog)  
 - [Overreacted](#overreacted)![](/assets/dot.png)   
 - [2ality](#2ality)  
 - [Jake-Archibald](#jake-archibald)![](/assets/dot.png)   
@@ -39,7 +39,7 @@
 - [GitHub-Trending-JS](#github-trending-js)  
 - [美团技术团队](#美团技术团队)![](/assets/dot.png)   
 - [InfoQ](#infoq)  
-- [GitHub-Engineering](#github-engineering)![](/assets/dot.png)   
+- [GitHub-Engineering](#github-engineering)  
 - [O'Reilly-Radar](#o'reilly-radar)  
 - [Martin-Fowler](#martin-fowler)![](/assets/dot.png)   
 - [arXiv-ML](#arxiv-ml)  
@@ -57,7 +57,7 @@
 - [ChatGPT-更新](#chatgpt-更新)  
 - [Hacker-News](#hacker-news)![](/assets/dot.png)   
 - [TechCrunch](#techcrunch)![](/assets/dot.png)   
-- [Wired](#wired)![](/assets/dot.png)   
+- [Wired](#wired)  
 - [Engadget](#engadget)  
 - [少数派](#少数派)  
 
@@ -114,8 +114,8 @@
 - [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)  
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
+- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [2026-03-05-The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)  
@@ -154,7 +154,7 @@
 </summary>
 
 
-- [2026-03-30-The-Drill-Down-Menu-with-Details-and-@scope](https://frontendmasters.com/blog/the-drill-down-menu-with-details-and-scope/) ![](/assets/new.png)  
+- [2026-03-30-The-Drill-Down-Menu-with-Details-and-@scope](https://frontendmasters.com/blog/the-drill-down-menu-with-details-and-scope/)  
 - [2026-03-26-The-Top-Trait-Companies-Look-For-in-a-Technical-Interview](https://frontendmasters.com/blog/the-top-trait-companies-look-for-in-a-technical-interview/)  
 - [2026-03-25-Shadow-DOM-Focus-Delegation:-Getting-delegatesFocus-Right](https://frontendmasters.com/blog/shadow-dom-focus-delegation-getting-delegatesfocus-right/)  
 - [2026-03-24-Two-Circles,-One-Arrow,-and-Anchor-Positioning](https://frontendmasters.com/blog/two-circles-one-arrow-and-anchor-positioning/)  
@@ -400,7 +400,7 @@
 </summary>
 
 
-- [2026-03-31-GitHub-for-Beginners:-Getting-started-with-GitHub-security](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/) ![](/assets/new.png)  
+- [2026-03-31-GitHub-for-Beginners:-Getting-started-with-GitHub-security](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/)  
 - [2026-03-27-What’s-coming-to-our-GitHub-Actions-2026-security-roadmap](https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/)  
 - [2026-03-27-A-year-of-open-source-vulnerability-trends:-CVEs,-advisories,-and-malware](https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/)  
 - [2026-03-26-Updates-to-GitHub-Copilot-interaction-data-usage-policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)  
@@ -501,9 +501,9 @@
 
 
 - [2026-03-27-not-much-happened-today](https://news.smol.ai/issues/26-03-27-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
 - [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
 - [2026-03-23-not-much-happened-today](https://news.smol.ai/issues/26-03-23-not-much/)  
 - [2026-03-20-not-much-happened-today](https://news.smol.ai/issues/26-03-20-not-much/)  
 - [2026-03-19-not-much-happened-today](https://news.smol.ai/issues/26-03-19-not-much/)  
@@ -531,26 +531,26 @@
 </summary>
 
 
-- [2026-03-31-Agent-Washing-vs.-Real-Agents-—-A-Production-Engineer’s-Guide-to-Telling-the-Difference](https://pub.towardsai.net/agent-washing-vs-real-agents-a-production-engineers-guide-to-telling-the-difference-ea5a681a37a4?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-31-From-Text-to-Knowledge-Graph-in-One-Command:-Building-a-Modular-LLM-Backed-Framework](https://pub.towardsai.net/from-text-to-knowledge-graph-in-one-command-building-a-modular-llm-backed-framework-ec98abd3d565?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-31-How-to-pass-the-DP-900-Azure-Data-Fundamentals-in-one-day](https://pub.towardsai.net/how-to-pass-the-dp-900-azure-data-fundamentals-in-one-day-60aeee4bb8c9?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-03-30-Devin-Was-Never-Ready-for-the-Enterprise.-Cognition’s-V3-Architecture-Changes-That.](https://pub.towardsai.net/devin-was-never-ready-for-the-enterprise-cognitions-v3-architecture-changes-that-bc09f3ad5805?source=rss----98111c9905da---4)  
-- [2026-03-30-Understanding-the-Real-AI-Stack-Beyond-LLM-APIs](https://pub.towardsai.net/understanding-the-real-ai-stack-beyond-llm-apis-d8f6fb77443c?source=rss----98111c9905da---4)  
-- [2026-03-30-Use-Prompt-Caching-to-Reduce-Input-Tokens-with-Claude](https://pub.towardsai.net/use-prompt-caching-to-reduce-input-tokens-with-claude-d6b050500983?source=rss----98111c9905da---4)  
-- [2026-03-30-Paperclip:-The-Open-Source-Operating-System-for-Zero-Human-Companies](https://pub.towardsai.net/paperclip-the-open-source-operating-system-for-zero-human-companies-2c16f3f22182?source=rss----98111c9905da---4)  
-- [2026-03-30-LangChain-Skills:-Boost-Your-AI-Coding-Agent-with-Expert-Prompts](https://pub.towardsai.net/langchain-skills-boost-your-ai-coding-agent-with-expert-prompts-cc82785b20cb?source=rss----98111c9905da---4)  
-- [2026-03-30-Claude-Code-Certification-—-Exam-Prep:-Mastering-the-Customer-Support-Resolution-Agent-Scenario](https://pub.towardsai.net/claude-code-certification-exam-prep-mastering-the-customer-support-resolution-agent-scenario-5b82a086eaf8?source=rss----98111c9905da---4)  
-- [2026-03-30-OpenClaw-3.13-→-3.28:-The-Migration-Report](https://pub.towardsai.net/openclaw-3-13-3-28-the-migration-report-e1ffce6458f2?source=rss----98111c9905da---4)  
-- [2026-03-30-The-Deep-Learning](https://pub.towardsai.net/the-deep-learning-6cb3d2bd7db4?source=rss----98111c9905da---4)  
-- [2026-03-30-Explainable-Agentic-AI-for-Autonomous-Task-Allocation-in-Distributed-Multi-Agent-Systems](https://pub.towardsai.net/explainable-agentic-ai-for-autonomous-task-allocation-in-distributed-multi-agent-systems-b82d749c59e2?source=rss----98111c9905da---4)  
-- [2026-03-30-A-full-explanation-of-Claudini-—-the-auto-research-pipeline-that-discovered-state-of-the-art…](https://pub.towardsai.net/a-full-explanation-of-claudini-the-auto-research-pipeline-that-discovered-state-of-the-art-d8078cdb7e75?source=rss----98111c9905da---4)  
-- [2026-03-30-Practical-Context-Engineering-Using-LangChain-for-AI-Developers-A-Comprehensive-Guide](https://pub.towardsai.net/practical-context-engineering-using-langchain-for-ai-developers-a-comprehensive-guide-6023ce2b1f2d?source=rss----98111c9905da---4)  
-- [2026-03-30-Stop-Using-Accuracy:-5-ML-Metrics-You-Must-Understand](https://pub.towardsai.net/stop-using-accuracy-5-ml-metrics-you-must-understand-81d2acbf9955?source=rss----98111c9905da---4)  
-- [2026-03-30-CoopRAG:-Unroll,-Retrieve,-Cooperate,-and-Repair](https://pub.towardsai.net/cooprag-unroll-retrieve-cooperate-and-repair-48e3c2138777?source=rss----98111c9905da---4)  
-- [2026-03-30-Crack-ML-Interviews-with-Confidence:-Regression-KPIs-20-Q&amp;A](https://pub.towardsai.net/crack-ml-interviews-with-confidence-regression-kpis-20-q-a-c73138f612b1?source=rss----98111c9905da---4)  
-- [2026-03-30-How-Multi-Agent-Self-Verification-Actually-Works-And-Why-It-Changes-Everything-for-Production-AI](https://pub.towardsai.net/how-multi-agent-self-verification-actually-works-and-why-it-changes-everything-for-production-ai-71923df63d01?source=rss----98111c9905da---4)  
-- [2026-03-30-What-Makes-an-AI-Agent-Actually-Agentic?-Building-Beyond-the-Basics-with-LangGraph](https://pub.towardsai.net/what-makes-an-ai-agent-actually-agentic-building-beyond-the-basics-with-langgraph-cf73c659d753?source=rss----98111c9905da---4)  
+- [2026-03-31-How-to-pass-the-DP-900-Azure-Data-Fundamentals-in-one-day](https://pub.towardsai.net/how-to-pass-the-dp-900-azure-data-fundamentals-in-one-day-60aeee4bb8c9?source=rss----98111c9905da---4)  
+- [2026-03-31-From-Text-to-Knowledge-Graph-in-One-Command:-Building-a-Modular-LLM-Backed-Framework](https://pub.towardsai.net/from-text-to-knowledge-graph-in-one-command-building-a-modular-llm-backed-framework-ec98abd3d565?source=rss----98111c9905da---4)  
+- [2026-03-31-Agent-Washing-vs.-Real-Agents-—-A-Production-Engineer’s-Guide-to-Telling-the-Difference](https://pub.towardsai.net/agent-washing-vs-real-agents-a-production-engineers-guide-to-telling-the-difference-ea5a681a37a4?source=rss----98111c9905da---4)  
+- [2026-03-31-Building-Advanced-AI-Agents:-A-Complete-Guide-to-ChatGPT-Architecture](https://pub.towardsai.net/building-advanced-ai-agents-a-complete-guide-to-chatgpt-architecture-24ee20168236?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-31-The-Air-Gapped-Chronicles:-The-Agentic-Ecosystem-—-When-Your-AI-Agents-Become-Your-Loudest-Shadow…](https://pub.towardsai.net/the-air-gapped-chronicles-the-agentic-ecosystem-when-your-ai-agents-become-your-loudest-shadow-b0fa58f136d0?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-03-30-Claude-Can-Now-Control-Your-Computer:-How-Dispatch-Works,-What-It-Can-Do,-and-Its-Honest…](https://pub.towardsai.net/claude-can-now-control-your-computer-how-dispatch-works-what-it-can-do-and-its-honest-f405a07829c1?source=rss----98111c9905da---4)  
+- [2026-03-30-The-Scissor-Effect:-Quantifying-the-Transition-from-Unstructured-DevOps-to-Product-Led-Platform…](https://pub.towardsai.net/platform-engineering-adoption-by-a-company-case-study-a874c070ab91?source=rss----98111c9905da---4)  
+- [2026-03-30-Vercel-Labs-Just-Killed-the-Most-Annoying-Part-of-Testing](https://pub.towardsai.net/vercel-labs-just-killed-the-most-annoying-part-of-testing-d63e28a84711?source=rss----98111c9905da---4)  
+- [2026-03-30-Auto-Coder:-A-Pattern-for-Building-Software-with-Recursive-AI-Loops](https://pub.towardsai.net/auto-coder-a-pattern-for-building-software-with-recursive-ai-loops-77cc65c503f2?source=rss----98111c9905da---4)  
 - [2026-03-30-Modern-RAG-in-2026:-The-Components-That-Actually-Matter](https://pub.towardsai.net/modern-rag-in-2026-the-components-that-actually-matter-3f6a138ef117?source=rss----98111c9905da---4)  
+- [2026-03-30-What-Makes-an-AI-Agent-Actually-Agentic?-Building-Beyond-the-Basics-with-LangGraph](https://pub.towardsai.net/what-makes-an-ai-agent-actually-agentic-building-beyond-the-basics-with-langgraph-cf73c659d753?source=rss----98111c9905da---4)  
+- [2026-03-30-How-Multi-Agent-Self-Verification-Actually-Works-And-Why-It-Changes-Everything-for-Production-AI](https://pub.towardsai.net/how-multi-agent-self-verification-actually-works-and-why-it-changes-everything-for-production-ai-71923df63d01?source=rss----98111c9905da---4)  
+- [2026-03-30-Crack-ML-Interviews-with-Confidence:-Regression-KPIs-20-Q&amp;A](https://pub.towardsai.net/crack-ml-interviews-with-confidence-regression-kpis-20-q-a-c73138f612b1?source=rss----98111c9905da---4)  
+- [2026-03-30-CoopRAG:-Unroll,-Retrieve,-Cooperate,-and-Repair](https://pub.towardsai.net/cooprag-unroll-retrieve-cooperate-and-repair-48e3c2138777?source=rss----98111c9905da---4)  
+- [2026-03-30-Stop-Using-Accuracy:-5-ML-Metrics-You-Must-Understand](https://pub.towardsai.net/stop-using-accuracy-5-ml-metrics-you-must-understand-81d2acbf9955?source=rss----98111c9905da---4)  
+- [2026-03-30-Practical-Context-Engineering-Using-LangChain-for-AI-Developers-A-Comprehensive-Guide](https://pub.towardsai.net/practical-context-engineering-using-langchain-for-ai-developers-a-comprehensive-guide-6023ce2b1f2d?source=rss----98111c9905da---4)  
+- [2026-03-30-A-full-explanation-of-Claudini-—-the-auto-research-pipeline-that-discovered-state-of-the-art…](https://pub.towardsai.net/a-full-explanation-of-claudini-the-auto-research-pipeline-that-discovered-state-of-the-art-d8078cdb7e75?source=rss----98111c9905da---4)  
+- [2026-03-30-Explainable-Agentic-AI-for-Autonomous-Task-Allocation-in-Distributed-Multi-Agent-Systems](https://pub.towardsai.net/explainable-agentic-ai-for-autonomous-task-allocation-in-distributed-multi-agent-systems-b82d749c59e2?source=rss----98111c9905da---4)  
+- [2026-03-30-The-Deep-Learning](https://pub.towardsai.net/the-deep-learning-6cb3d2bd7db4?source=rss----98111c9905da---4)  
+- [2026-03-30-OpenClaw-3.13-→-3.28:-The-Migration-Report](https://pub.towardsai.net/openclaw-3-13-3-28-the-migration-report-e1ffce6458f2?source=rss----98111c9905da---4)  
 - [......【查看更多】......](/details/Towards AI.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -662,26 +662,26 @@
 </summary>
 
 
-- [2026-03-31-Google-removes-Search-Engine-Land-article-after-false-DMCA-claim](https://searchengineland.com/google-removes-search-engine-land-article-473007) ![](/assets/new.png)  
-- [2026-03-31-Two-Worlds](https://geohot.github.io//blog/jekyll/update/2026/03/30/two-worlds.html) ![](/assets/new.png)  
-- [2026-03-31-Observers-Are-All-You-Need:-How-Observer-Synchronization-Creates-All-of-Physics](https://muellerberndt.medium.com/observers-are-all-you-need-how-observer-synchronization-creates-all-of-physics-8ebb7e9783e7) ![](/assets/new.png)  
-- [2026-03-31-Pitch-your-idea-to-a-team-of-voice-agents,-get-a-dev-ready-spec-in-&lt;-3-minutes](https://demo.unaverse.ai/) ![](/assets/new.png)  
-- [2026-03-31-Fossier:-A-slop-evaluator-for-GitHub-PRs-to-prevent-spams](https://github.com/PThorpe92/fossier) ![](/assets/new.png)  
-- [2026-03-31-Built-a-cheap-DIY-fan-controller-because-my-motherboard-never-had-working-PWM](https://www.himthe.dev/blog/msi-forgot-my-fans) ![](/assets/new.png)  
-- [2026-03-31-A-Taxonomy-of-Office-Chairs](https://en.wikipedia.org/wiki/A_Taxonomy_of_Office_Chairs) ![](/assets/new.png)  
-- [2026-03-31-DocsMD-–-Git-able-agent-friendly-documentation](https://github.com/joachimhs/docs-md) ![](/assets/new.png)  
-- [2026-03-31-Tickets-Are-Prompts](https://dheer.co/tickets-are-prompts/) ![](/assets/new.png)  
-- [2026-03-31-Mathematical-methods-and-human-thought-in-the-age-of-AI](https://terrytao.wordpress.com/2026/03/29/mathematical-methods-and-human-thought-in-the-age-of-ai/) ![](/assets/new.png)  
-- [2026-03-31-US-Army-paratroopers-arrive-in-Middle-East-as-buildup-intensifies](http://reuters.com/world/middle-east/thousands-us-army-paratroopers-arrive-middle-east-buildup-intensifies-2026-03-30/) ![](/assets/new.png)  
-- [2026-03-31-YeetCode-–-I-built-a-platform-for-coding-duels-with-friends](https://yeetcode.xyz/) ![](/assets/new.png)  
-- [2026-03-31-Booby-Trapped-Insoles-Allegedly-Sent-to-Russian-Troops](https://www.forbes.com/sites/davidkirichenko/2026/03/28/booby-trapped-insoles-allegedly-reached-russian-troops/) ![](/assets/new.png)  
-- [2026-03-31-Pwning-V8-with-Turbofan-Type-Confusion-CVE-2025-2135](https://www.zellic.io/blog/pwning-v8ctf/) ![](/assets/new.png)  
-- [2026-03-31-Agentic-AI-and-the-next-intelligence-explosion](https://arxiv.org/abs/2603.20639) ![](/assets/new.png)  
-- [2026-03-31-MAME-0.287](https://www.mamedev.org/?p=561) ![](/assets/new.png)  
-- [2026-03-31-AMD-Zen-6-'Venice'-ES-chips-break-cover-with-up-to-192-cores,-32-per-CCD](https://www.tomshardware.com/pc-components/cpus/amd-zen-6-venice-es-chips-break-cover-with-up-to-192-cores-32-per-ccd-in-early-stress-test-kenya-congo-nigeria-platforms-leaked) ![](/assets/new.png)  
-- [2026-03-31-Veethi-–-We-replaced-5-sales-tools-with-one-AI-chat-for-founder-led-outbound](https://veethi.so) ![](/assets/new.png)  
-- [2026-03-31-Job-Isn't-Programming](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming) ![](/assets/new.png)  
-- [2026-03-30-Anthropic-Says-Use-More-Agents-to-Fix-Agent-Code.-Here's-What's-Missing](https://mergeshield.dev/blog/anthropic-multi-agent-harness-whats-missing)  
+- [2026-03-31-Job-Isn't-Programming](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming)  
+- [2026-03-31-Veethi-–-We-replaced-5-sales-tools-with-one-AI-chat-for-founder-led-outbound](https://veethi.so)  
+- [2026-03-31-AMD-Zen-6-'Venice'-ES-chips-break-cover-with-up-to-192-cores,-32-per-CCD](https://www.tomshardware.com/pc-components/cpus/amd-zen-6-venice-es-chips-break-cover-with-up-to-192-cores-32-per-ccd-in-early-stress-test-kenya-congo-nigeria-platforms-leaked)  
+- [2026-03-31-MAME-0.287](https://www.mamedev.org/?p=561)  
+- [2026-03-31-Agentic-AI-and-the-next-intelligence-explosion](https://arxiv.org/abs/2603.20639)  
+- [2026-03-31-Pwning-V8-with-Turbofan-Type-Confusion-CVE-2025-2135](https://www.zellic.io/blog/pwning-v8ctf/)  
+- [2026-03-31-Booby-Trapped-Insoles-Allegedly-Sent-to-Russian-Troops](https://www.forbes.com/sites/davidkirichenko/2026/03/28/booby-trapped-insoles-allegedly-reached-russian-troops/)  
+- [2026-03-31-YeetCode-–-I-built-a-platform-for-coding-duels-with-friends](https://yeetcode.xyz/)  
+- [2026-03-31-US-Army-paratroopers-arrive-in-Middle-East-as-buildup-intensifies](http://reuters.com/world/middle-east/thousands-us-army-paratroopers-arrive-middle-east-buildup-intensifies-2026-03-30/)  
+- [2026-03-31-Mathematical-methods-and-human-thought-in-the-age-of-AI](https://terrytao.wordpress.com/2026/03/29/mathematical-methods-and-human-thought-in-the-age-of-ai/)  
+- [2026-03-31-Tickets-Are-Prompts](https://dheer.co/tickets-are-prompts/)  
+- [2026-03-31-DocsMD-–-Git-able-agent-friendly-documentation](https://github.com/joachimhs/docs-md)  
+- [2026-03-31-A-Taxonomy-of-Office-Chairs](https://en.wikipedia.org/wiki/A_Taxonomy_of_Office_Chairs)  
+- [2026-03-31-Built-a-cheap-DIY-fan-controller-because-my-motherboard-never-had-working-PWM](https://www.himthe.dev/blog/msi-forgot-my-fans)  
+- [2026-03-31-Fossier:-A-slop-evaluator-for-GitHub-PRs-to-prevent-spams](https://github.com/PThorpe92/fossier)  
+- [2026-03-31-Pitch-your-idea-to-a-team-of-voice-agents,-get-a-dev-ready-spec-in-&lt;-3-minutes](https://demo.unaverse.ai/)  
+- [2026-03-31-Observers-Are-All-You-Need:-How-Observer-Synchronization-Creates-All-of-Physics](https://muellerberndt.medium.com/observers-are-all-you-need-how-observer-synchronization-creates-all-of-physics-8ebb7e9783e7)  
+- [2026-03-31-Two-Worlds](https://geohot.github.io//blog/jekyll/update/2026/03/30/two-worlds.html)  
+- [2026-03-31-Google-removes-Search-Engine-Land-article-after-false-DMCA-claim](https://searchengineland.com/google-removes-search-engine-land-article-473007)  
+- [2026-03-31-d-HNSW:-A-High-Performance-Vector-Search-Engine-on-Disaggregated-Memory](https://arxiv.org/abs/2603.13591) ![](/assets/new.png)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -693,26 +693,26 @@
 </summary>
 
 
-- [2026-03-31-Bluesky’s-new-AI-tool-Attie-is-already-the-most-blocked-account-other-than-J.D.-Vance](https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/) ![](/assets/new.png)  
-- [2026-03-31-Meta-starts-testing-a-premium-subscription-on-Instagram](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/) ![](/assets/new.png)  
-- [2026-03-31-Delve-whistleblower-strikes-again,-with-alleged-receipts-about-‘fake-compliance’](https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/) ![](/assets/new.png)  
-- [2026-03-31-What-we’re-looking-for-in-Startup-Battlefield-2026-and-how-to-put-your-best-application-forward](https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/) ![](/assets/new.png)  
-- [2026-03-31-As-more-Americans-adopt-AI-tools,-fewer-say-they-can-trust-the-results](https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/) ![](/assets/new.png)  
-- [2026-03-31-15%-of-Americans-say-they’d-be-willing-to-work-for-an-AI-boss](https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/) ![](/assets/new.png)  
-- [2026-03-31-Former-Coatue-partner-raises-huge-$65M-seed-for-enterprise-AI-agent-startup-](https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/) ![](/assets/new.png)  
-- [2026-03-30-Uber-is-buying-Berlin-startup-Blacklane-to-bolster-its-‘Elite’-offering](https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/)  
-- [2026-03-30-Mantis-Biotech-is-making-‘digital-twins’-of-humans-to-help-solve-medicine’s-data-availability-problem](https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/)  
-- [2026-03-30-ScaleOps-raises-$130M-to-improve-computing-efficiency-amid-AI-demand](https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/)  
-- [2026-03-30-Why-OpenAI-really-shut-down-Sora](https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/)  
-- [2026-03-30-TechCrunch-Mobility:-When-a-robotaxi-has-to-call-911](https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/)  
-- [2026-03-30-Sora’s-shutdown-could-be-a-reality-check-moment-for-AI-video](https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/)  
-- [2026-03-30-‘Project-Hail-Mary’-becomes-Amazon-MGM’s-biggest-box-office-hit](https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/)  
-- [2026-03-30-YouTube-CEO-says-the-best-YouTubers-will-‘never-leave-their-home’](https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/)  
-- [2026-03-30-The-Pixel-10a-doesn’t-have-a-camera-bump,-and-it’s-great](https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/)  
-- [2026-03-30-Starcloud-raises-$170-million-Series-Ato-build-data-centers-in-space](https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/)  
-- [2026-03-30-Qodo-raises-$70M-for-code-verification-as-AI-coding-scales](https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/)  
-- [2026-03-30-Mistral-AI-raises-$830M-in-debt-to-set-up-a-data-center-near-Paris](https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/)  
+- [2026-03-31-Former-Coatue-partner-raises-huge-$65M-seed-for-enterprise-AI-agent-startup-](https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/)  
+- [2026-03-31-15%-of-Americans-say-they’d-be-willing-to-work-for-an-AI-boss](https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/)  
+- [2026-03-31-As-more-Americans-adopt-AI-tools,-fewer-say-they-can-trust-the-results](https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/)  
+- [2026-03-31-What-we’re-looking-for-in-Startup-Battlefield-2026-and-how-to-put-your-best-application-forward](https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/)  
+- [2026-03-31-Delve-whistleblower-strikes-again,-with-alleged-receipts-about-‘fake-compliance’](https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/)  
+- [2026-03-31-Meta-starts-testing-a-premium-subscription-on-Instagram](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/)  
+- [2026-03-31-Bluesky’s-new-AI-tool-Attie-is-already-the-most-blocked-account-other-than-J.D.-Vance](https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/)  
+- [2026-03-31-Popular-AI-gateway-startup-LiteLLM-ditches-controversial-startup-Delve](https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/) ![](/assets/new.png)  
+- [2026-03-31-15%-of-Americans-say-they’d-be-willing-to-work-for-an-AI-boss,-according-to-new-poll](https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/) ![](/assets/new.png)  
+- [2026-03-30-Apple-will-hide-your-email-address-from-apps-and-websites,-but-not-cops](https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/)  
 - [2026-03-30-AI-chip-startup-Rebellions-raises-$400-million-at-$2.3B-valuation-in-pre-IPO-round](https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/)  
+- [2026-03-30-Mistral-AI-raises-$830M-in-debt-to-set-up-a-data-center-near-Paris](https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/)  
+- [2026-03-30-Qodo-raises-$70M-for-code-verification-as-AI-coding-scales](https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/)  
+- [2026-03-30-Starcloud-raises-$170-million-Series-Ato-build-data-centers-in-space](https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/)  
+- [2026-03-30-The-Pixel-10a-doesn’t-have-a-camera-bump,-and-it’s-great](https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/)  
+- [2026-03-30-YouTube-CEO-says-the-best-YouTubers-will-‘never-leave-their-home’](https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/)  
+- [2026-03-30-‘Project-Hail-Mary’-becomes-Amazon-MGM’s-biggest-box-office-hit](https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/)  
+- [2026-03-30-Sora’s-shutdown-could-be-a-reality-check-moment-for-AI-video](https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/)  
+- [2026-03-30-TechCrunch-Mobility:-When-a-robotaxi-has-to-call-911](https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/)  
+- [2026-03-30-Why-OpenAI-really-shut-down-Sora](https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/)  
 - [......【查看更多】......](/details/TechCrunch.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -724,7 +724,7 @@
 </summary>
 
 
-- [2026-03-31-Our-Favorite-Amazon-Streaming-Stick-Is-Almost-Half-Off](https://www.wired.com/story/fire-tv-stick-max-deal-326/) ![](/assets/new.png)  
+- [2026-03-31-Our-Favorite-Amazon-Streaming-Stick-Is-Almost-Half-Off](https://www.wired.com/story/fire-tv-stick-max-deal-326/)  
 - [2026-03-30-5-Best-Video-Doorbell-Cameras-2026:-Smart,-Battery,-AI,-Budget,-and-Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)  
 - [2026-03-30-The-Best-Earplugs-for-Protecting-Your-Hearing-2026](https://www.wired.com/story/best-earplugs/)  
 - [2026-03-30-Meet-the-Man-Making-Music-With-His-Brain-Implant](https://www.wired.com/story/meet-the-man-making-music-with-his-brain-implant/)  
