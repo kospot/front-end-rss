@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-01 23:02:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-02 06:01:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Martin Fowler
 
@@ -14,4 +14,3 @@
 - [2026-03-11-Fragments:-March-10](https://martinfowler.com/fragments/2026-03-10.html) 
 - [2026-03-05-Ideological-Resistance-to-Patents,-Followed-by-Reluctant-Pragmatism](https://martinfowler.com/articles/patents-reluctant-pragmatism.html) 
 - [2026-03-04-Humans-and-Agents-in-Software-Engineering-Loops](https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html) 
-- [2026-03-03-Design-First-Collaboration](https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html) 

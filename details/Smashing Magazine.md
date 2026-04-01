@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-01 23:02:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-02 06:01:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
@@ -17,4 +17,3 @@
 - [2026-03-10-Building-Dynamic-Forms-In-React-And-Next.js](https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/) 
 - [2026-03-09-Persuasive-Design:-Ten-Years-Later](https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/) 
 - [2026-03-06-Human-Strategy-In-An-AI-Accelerated-Workflow](https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/) 
-- [2026-03-03-Now-Shipping:-Accessible-UX-Research,-A-New-Smashing-Book-By-Michele-Williams](https://smashingmagazine.com/2026/03/accessible-ux-research-release/) 
