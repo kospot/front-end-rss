@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-31T22:01:50.757Z</updated>
+    <updated>2026-04-01T00:01:55.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,16 +22,9 @@
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robotaxi companies refuse to say how often their AVs need remote help]]></title>
-        <id>https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/</id>
-        <link href="https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta was finally held accountable for harming teens. Now what?]]></title>
-        <id>https://techcrunch.com/2026/03/31/meta-was-finally-held-accountable-for-harming-teens-now-what/</id>
-        <link href="https://techcrunch.com/2026/03/31/meta-was-finally-held-accountable-for-harming-teens-now-what/"/>
+        <title type="html"><![CDATA[Alexa+ gets new food ordering experiences with Uber Eats and Grubhub]]></title>
+        <id>https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/</id>
+        <link href="https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
@@ -43,23 +36,100 @@
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alexa+ gets new food ordering experiences with Uber Eats and Grubhub]]></title>
-        <id>https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/</id>
-        <link href="https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/"/>
+        <title type="html"><![CDATA[Meta was finally held accountable for harming teens. Now what?]]></title>
+        <id>https://techcrunch.com/2026/03/31/meta-was-finally-held-accountable-for-harming-teens-now-what/</id>
+        <link href="https://techcrunch.com/2026/03/31/meta-was-finally-held-accountable-for-harming-teens-now-what/"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clawbernetes. Infra to deploy agents fast with enterprise grade features]]></title>
-        <id>https://clawbernetes.org</id>
-        <link href="https://clawbernetes.org"/>
+        <title type="html"><![CDATA[Robotaxi companies refuse to say how often their AVs need remote help]]></title>
+        <id>https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/</id>
+        <link href="https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Allbirds, Once Valued at $4B, Just Sold Its Assets for Next to Nothing]]></title>
-        <id>https://www.wsj.com/business/retail/allbirds-the-tech-bro-favorite-once-valued-at-4-billion-just-sold-its-assets-for-next-to-nothing-605e3216</id>
-        <link href="https://www.wsj.com/business/retail/allbirds-the-tech-bro-favorite-once-valued-at-4-billion-just-sold-its-assets-for-next-to-nothing-605e3216"/>
+        <title type="html"><![CDATA[Pretext's most interesting use cases have no DOM at all]]></title>
+        <id>https://cyrusradfar.com/thoughts/pretext-beyond-the-browser</id>
+        <link href="https://cyrusradfar.com/thoughts/pretext-beyond-the-browser"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse engineering GTA San Andreas with autonomous LLM agents [video]]]></title>
+        <id>https://www.youtube.com/watch?v=zBQJYMKmwAs</id>
+        <link href="https://www.youtube.com/watch?v=zBQJYMKmwAs"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Control for AI Agents – Cyberpunk dashboard, zero deps, one HTML file]]></title>
+        <id>https://github.com/Audazia/solar-system-agentsIbuiltSolarSystemAgentsbecauseIwanted:1.AdashboardthatlookssogoodIactuallywanttokeepitopen2.WorkswithANYagentframework3.Zerosetupfriction—noDocker,nonpm,nodatabase</id>
+        <link href="https://github.com/Audazia/solar-system-agentsIbuiltSolarSystemAgentsbecauseIwanted:1.AdashboardthatlookssogoodIactuallywanttokeepitopen2.WorkswithANYagentframework3.Zerosetupfriction—noDocker,nonpm,nodatabase"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large-scale BTU study shows: solar panels last longer than previously thought]]></title>
+        <id>https://www.b-tu.de/en/news/article/31103-grossangelegte-btu-studie-zeigt-solaranlagen-halten-laenger-als-gedacht</id>
+        <link href="https://www.b-tu.de/en/news/article/31103-grossangelegte-btu-studie-zeigt-solaranlagen-halten-laenger-als-gedacht"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia readies social media court action citing teen ban breaches]]></title>
+        <id>https://www.reuters.com/sustainability/society-equity/australia-investigates-tech-giants-over-social-media-ban-compliance-2026-03-30/</id>
+        <link href="https://www.reuters.com/sustainability/society-equity/australia-investigates-tech-giants-over-social-media-ban-compliance-2026-03-30/"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veo 3.1 Lite – Veo 3.1 Lite – Turn Any Idea into AI Videos Instantly]]></title>
+        <id>https://veo31lite.com</id>
+        <link href="https://veo31lite.com"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic just fired dev who published dev/Claude-code NPM package]]></title>
+        <id>https://twitter.com/KevinNaughtonJr/status/2039087166626656618</id>
+        <link href="https://twitter.com/KevinNaughtonJr/status/2039087166626656618"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub has DMCA'd nearly all forks of the official Claude-code repo]]></title>
+        <id>https://github.com/anthropics/claude-code/forks</id>
+        <link href="https://github.com/anthropics/claude-code/forks"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Has GitLab Felt into the Enshittification?]]></title>
+        <id>https://gitlab.com/gitlab-org/gitlab/-/work_items/590689</id>
+        <link href="https://gitlab.com/gitlab-org/gitlab/-/work_items/590689"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea-Nexus Threat Actor Compromises Widely Used Axios NPM Package]]></title>
+        <id>https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/</id>
+        <link href="https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Pipelining for GPU Kernels: Part 1 – The Pipeline Problem]]></title>
+        <id>https://www.modular.com/blog/software-pipelining-for-gpu-kernels-part-1-the-pipeline-problem</id>
+        <link href="https://www.modular.com/blog/software-pipelining-for-gpu-kernels-part-1-the-pipeline-problem"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent skills for desktop automation and video recording]]></title>
+        <id>https://github.com/TwillAI/skills</id>
+        <link href="https://github.com/TwillAI/skills"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
@@ -71,9 +141,30 @@
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Meta’s TRIBE v2 Predicts Human Brain Activity Using AI]]></title>
-        <id>https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Allbirds, Once Valued at $4B, Just Sold Its Assets for Next to Nothing]]></title>
+        <id>https://www.wsj.com/business/retail/allbirds-the-tech-bro-favorite-once-valued-at-4-billion-just-sold-its-assets-for-next-to-nothing-605e3216</id>
+        <link href="https://www.wsj.com/business/retail/allbirds-the-tech-bro-favorite-once-valued-at-4-billion-just-sold-its-assets-for-next-to-nothing-605e3216"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clawbernetes. Infra to deploy agents fast with enterprise grade features]]></title>
+        <id>https://clawbernetes.org</id>
+        <link href="https://clawbernetes.org"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why NO one uses AI Code review tools]]></title>
+        <id>https://pub.towardsai.net/why-no-one-uses-ai-code-review-tools-bf3ec837ed17?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-no-one-uses-ai-code-review-tools-bf3ec837ed17?source=rss----98111c9905da---4"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built an local AI Agent That Never Forgets — Here's How]]></title>
+        <id>https://pub.towardsai.net/i-built-an-local-ai-agent-that-never-forgets-heres-how-bbfa9d66a1a1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-built-an-local-ai-agent-that-never-forgets-heres-how-bbfa9d66a1a1?source=rss----98111c9905da---4"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
@@ -85,9 +176,9 @@
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built an local AI Agent That Never Forgets — Here's How]]></title>
-        <id>https://pub.towardsai.net/i-built-an-local-ai-agent-that-never-forgets-heres-how-bbfa9d66a1a1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-built-an-local-ai-agent-that-never-forgets-heres-how-bbfa9d66a1a1?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How Meta’s TRIBE v2 Predicts Human Brain Activity Using AI]]></title>
+        <id>https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
@@ -134,44 +225,9 @@
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FedEx chooses partnerships over proprietary tech for its automation strategy]]></title>
-        <id>https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/</id>
-        <link href="https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Health data giant CareCloud says hackers accessed patients’ medical records]]></title>
-        <id>https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-medical-records-ehr/</id>
-        <link href="https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-medical-records-ehr/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta launches two new Ray-Ban glasses designed for prescription wearers]]></title>
-        <id>https://techcrunch.com/2026/03/31/meta-launches-two-new-ray-ban-glasses-designed-for-prescription-wearers/</id>
-        <link href="https://techcrunch.com/2026/03/31/meta-launches-two-new-ray-ban-glasses-designed-for-prescription-wearers/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Silicon Valley congressional race is getting ugly]]></title>
-        <id>https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/</id>
-        <link href="https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bluesky’s new AI tool Attie is already the most blocked account other than J.D. Vance]]></title>
-        <id>https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/</id>
-        <link href="https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta starts testing a premium subscription on Instagram]]></title>
-        <id>https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/</id>
-        <link href="https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/"/>
+        <title type="html"><![CDATA[As more Americans adopt AI tools, fewer say they can trust the results]]></title>
+        <id>https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/</id>
+        <link href="https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
@@ -183,184 +239,128 @@
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[As more Americans adopt AI tools, fewer say they can trust the results]]></title>
-        <id>https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/</id>
-        <link href="https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"/>
+        <title type="html"><![CDATA[Meta starts testing a premium subscription on Instagram]]></title>
+        <id>https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/</id>
+        <link href="https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Dean of studies at a French CS school – what should we teach?]]></title>
-        <id>https://news.ycombinator.com/item?id=47584934</id>
-        <link href="https://news.ycombinator.com/item?id=47584934"/>
+        <title type="html"><![CDATA[Bluesky’s new AI tool Attie is already the most blocked account other than J.D. Vance]]></title>
+        <id>https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/</id>
+        <link href="https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Axios NPM Package Compromised: Supply Chain Attack Delivers Cross-Platform Rat]]></title>
-        <id>https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/</id>
-        <link href="https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/"/>
+        <title type="html"><![CDATA[The Silicon Valley congressional race is getting ugly]]></title>
+        <id>https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/</id>
+        <link href="https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code full source code leaked on NPM]]></title>
-        <id>https://github.com/chatgptprojects/claude-code</id>
-        <link href="https://github.com/chatgptprojects/claude-code"/>
+        <title type="html"><![CDATA[Meta launches two new Ray-Ban glasses designed for prescription wearers]]></title>
+        <id>https://techcrunch.com/2026/03/31/meta-launches-two-new-ray-ban-glasses-designed-for-prescription-wearers/</id>
+        <link href="https://techcrunch.com/2026/03/31/meta-launches-two-new-ray-ban-glasses-designed-for-prescription-wearers/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orca – Executable skills and capabilities for AI agent workflows]]></title>
-        <id>https://github.com/gfernandf/agent-skills</id>
-        <link href="https://github.com/gfernandf/agent-skills"/>
+        <title type="html"><![CDATA[Health data giant CareCloud says hackers accessed patients’ medical records]]></title>
+        <id>https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-medical-records-ehr/</id>
+        <link href="https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-medical-records-ehr/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why the US Navy Won't Blast the Iranians and 'Open' Strait of Hormuz]]></title>
-        <id>https://responsiblestatecraft.org/iran-strait-of-hormuz/</id>
-        <link href="https://responsiblestatecraft.org/iran-strait-of-hormuz/"/>
+        <title type="html"><![CDATA[FedEx chooses partnerships over proprietary tech for its automation strategy]]></title>
+        <id>https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/</id>
+        <link href="https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["An Endless Stream of AI Slop"]]></title>
-        <id>https://arxiv.org/abs/2603.27249</id>
-        <link href="https://arxiv.org/abs/2603.27249"/>
+        <title type="html"><![CDATA[Heerich.js – A tiny engine for 3D voxel scenes rendered to SVG]]></title>
+        <id>https://meodai.github.io/heerich/</id>
+        <link href="https://meodai.github.io/heerich/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cursor rules that prevent AI from hallucinating bad Next.js code]]></title>
-        <id>https://github.com/vibestackdev/vibe-stack</id>
-        <link href="https://github.com/vibestackdev/vibe-stack"/>
+        <title type="html"><![CDATA[UK Police will no longer waste time investigating legal social media posts]]></title>
+        <id>https://twitter.com/ukhomeoffice/status/2038969583227355252</id>
+        <link href="https://twitter.com/ukhomeoffice/status/2038969583227355252"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Engineering Blog Posts from Top Tech Companies]]></title>
-        <id>https://www.engineering.fyi</id>
-        <link href="https://www.engineering.fyi"/>
+        <title type="html"><![CDATA[New fibre optic record allows 50M movies to be streamed at once]]></title>
+        <id>https://www.newscientist.com/article/2520542-new-fibre-optic-record-allows-50000000-movies-to-be-streamed-at-once/</id>
+        <link href="https://www.newscientist.com/article/2520542-new-fibre-optic-record-allows-50000000-movies-to-be-streamed-at-once/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Causality optional? Testing the "indefinite causal order" superposition]]></title>
-        <id>https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/</id>
-        <link href="https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/"/>
+        <title type="html"><![CDATA[On the trail of ancient art, deep in the Sahara]]></title>
+        <id>https://www.ft.com/content/524ed21e-5c35-489e-ae0b-90d40b4cf28a</id>
+        <link href="https://www.ft.com/content/524ed21e-5c35-489e-ae0b-90d40b4cf28a"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Supply Chain Attack on Axios Pulls Malicious Dependency from NPM]]></title>
-        <id>https://socket.dev/blog/axios-npm-package-compromised</id>
-        <link href="https://socket.dev/blog/axios-npm-package-compromised"/>
+        <title type="html"><![CDATA[I Just Want to Own My Audiobooks]]></title>
+        <id>https://medium.com/@sageframe/i-just-want-to-own-my-audiobooks-d98f71652711</id>
+        <link href="https://medium.com/@sageframe/i-just-want-to-own-my-audiobooks-d98f71652711"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Semantic – Reducing LLM "Agent Loops" by 27.78% via AST Logic Graphs]]></title>
-        <id>https://github.com/concensure/Semantic</id>
-        <link href="https://github.com/concensure/Semantic"/>
+        <title type="html"><![CDATA[Clawd-code – A Python slop fork of Claude Code]]></title>
+        <id>https://github.com/instructkr/clawd-code</id>
+        <link href="https://github.com/instructkr/clawd-code"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ollama is now powered by MLX on Apple Silicon in preview]]></title>
-        <id>https://ollama.com/blog/mlx</id>
-        <link href="https://ollama.com/blog/mlx"/>
+        <title type="html"><![CDATA[Synthetic Responses: The Big Lie of AI]]></title>
+        <id>https://lovelaceanalytics.com/posts/synthetic-responses-lie/</id>
+        <link href="https://lovelaceanalytics.com/posts/synthetic-responses-lie/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Disney Reportedly Interested in Acquiring Epic Games and Fortnite]]></title>
-        <id>https://tech4gamers.com/disney-interested-epic-games-fortnite/</id>
-        <link href="https://tech4gamers.com/disney-interested-epic-games-fortnite/"/>
+        <title type="html"><![CDATA[The Minimum Developer Must Know About Unicode and Character Sets (2003)]]></title>
+        <id>https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/</id>
+        <link href="https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astronaut's Condition That Led to Space Station Evacuation Remains a Mystery]]></title>
-        <id>https://www.nytimes.com/2026/03/28/science/nasa-astronaut-medical-evaluation.html</id>
-        <link href="https://www.nytimes.com/2026/03/28/science/nasa-astronaut-medical-evaluation.html"/>
+        <title type="html"><![CDATA[Memopt – GPU memory infrastructure for AI clusters]]></title>
+        <id>https://memopt.com/</id>
+        <link href="https://memopt.com/"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly]]></title>
-        <id>https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/</id>
-        <link href="https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/"/>
+        <title type="html"><![CDATA[Vaping likely to cause cancer, new Australian review of evidence finds]]></title>
+        <id>https://www.rnz.co.nz/news/world/591096/vaping-likely-to-cause-cancer-new-australian-review-of-evidence-finds</id>
+        <link href="https://www.rnz.co.nz/news/world/591096/vaping-likely-to-cause-cancer-new-australian-review-of-evidence-finds"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Critical: Active supply chain attack on axios – one of NPM's most used packages]]></title>
-        <id>https://twitter.com/i/status/2038807290422370479</id>
-        <link href="https://twitter.com/i/status/2038807290422370479"/>
+        <title type="html"><![CDATA[Q4_0 KV cache collapses 92.5% at 64K on DGX Spark GB10 (unified memory paradox)]]></title>
+        <id>https://github.com/Memoriant/dgx-spark-kv-cache-benchmark</id>
+        <link href="https://github.com/Memoriant/dgx-spark-kv-cache-benchmark"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shape-Invariant Transforms Using Wide-Band Voice Pulse Modeling]]></title>
-        <id>https://queuesevenm.wordpress.com/2026/03/30/shape-invariant-transforms-using-wide-band-voice-pulse-modeling/</id>
-        <link href="https://queuesevenm.wordpress.com/2026/03/30/shape-invariant-transforms-using-wide-band-voice-pulse-modeling/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leveling Up Secure Code Reviews with Claude Code]]></title>
-        <id>https://specterops.io/blog/2026/03/26/leveling-up-secure-code-reviews-with-claude-code/</id>
-        <link href="https://specterops.io/blog/2026/03/26/leveling-up-secure-code-reviews-with-claude-code/"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Are you too getting addicted to the dev workflow of coding with agents?]]></title>
-        <id>https://news.ycombinator.com/item?id=47581097</id>
-        <link href="https://news.ycombinator.com/item?id=47581097"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A guide to Io_uring]]></title>
-        <id>https://nick-black.com/dankwiki/index.php?title=Io_uring</id>
-        <link href="https://nick-black.com/dankwiki/index.php?title=Io_uring"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hank Green: What is "Slop" (and why it gives me hope) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=dT5IJExTUR4</id>
-        <link href="https://www.youtube.com/watch?v=dT5IJExTUR4"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An introduction to the io_uring asynchronous I/O framework (2020)]]></title>
-        <id>https://blogs.oracle.com/linux/an-introduction-to-the-io-uring-asynchronous-io-framework</id>
-        <link href="https://blogs.oracle.com/linux/an-introduction-to-the-io-uring-asynchronous-io-framework"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freedom Studio – local AI runner with Tor, E2E encryption, and zero telemetry]]></title>
-        <id>https://github.com/albertotijunelis/freedom-studio</id>
-        <link href="https://github.com/albertotijunelis/freedom-studio"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observers Are All You Need: How Observer-Synchronization Creates All of Physics]]></title>
-        <id>https://muellerberndt.medium.com/observers-are-all-you-need-how-observer-synchronization-creates-all-of-physics-8ebb7e9783e7</id>
-        <link href="https://muellerberndt.medium.com/observers-are-all-you-need-how-observer-synchronization-creates-all-of-physics-8ebb7e9783e7"/>
-        <updated>2026-03-30T16:00:00.000Z</updated>
-        <published>2026-03-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pitch your idea to a team of voice agents, get a dev-ready spec in < 3 minutes]]></title>
-        <id>https://demo.unaverse.ai/</id>
-        <link href="https://demo.unaverse.ai/"/>
+        <title type="html"><![CDATA[Don't sleep on your feedback infrastructure]]></title>
+        <id>https://www.lumeforms.com/audit</id>
+        <link href="https://www.lumeforms.com/audit"/>
         <updated>2026-03-30T16:00:00.000Z</updated>
         <published>2026-03-30T16:00:00.000Z</published>
     </entry>
