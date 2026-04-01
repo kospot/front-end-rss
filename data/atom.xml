@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-01T07:03:04.723Z</updated>
+    <updated>2026-04-01T10:01:48.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,20 @@
         <title type="html"><![CDATA[派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等]]></title>
         <id>https://sspai.com/post/108133</id>
         <link href="https://sspai.com/post/108133"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong]]></title>
+        <id>https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/</id>
+        <link href="https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Mushroom Coffee, WIRED Tested and Reviewed (2026)]]></title>
+        <id>https://www.wired.com/gallery/best-mushroom-coffee/</id>
+        <link href="https://www.wired.com/gallery/best-mushroom-coffee/"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
@@ -64,114 +78,72 @@
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gaim 3 Is in Development for Restoring the Original Gaim Instant Messaging App]]></title>
-        <id>https://www.phoronix.com/news/Gaim-3-In-Development</id>
-        <link href="https://www.phoronix.com/news/Gaim-3-In-Development"/>
+        <title type="html"><![CDATA[What the Claude Code Leak Means for Regulated Industries]]></title>
+        <id>https://systima.ai/blog/claude-code-leak-compliance-implications</id>
+        <link href="https://systima.ai/blog/claude-code-leak-compliance-implications"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modern physics is forcing us to rethink existence – Michelle Thaller: Interview [video]]]></title>
-        <id>https://www.youtube.com/watch?v=RGbZsE7qFgw</id>
-        <link href="https://www.youtube.com/watch?v=RGbZsE7qFgw"/>
+        <title type="html"><![CDATA[Justice Alito: "do you think we should ask Claude to decide this case?"]]></title>
+        <id>https://reason.com/volokh/2026/04/01/justice-alito-just-out-of-curiosity-do-you-think-we-should-ask-claude-to-decide-this-case/</id>
+        <link href="https://reason.com/volokh/2026/04/01/justice-alito-just-out-of-curiosity-do-you-think-we-should-ask-claude-to-decide-this-case/"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neanderthals survived on a knife's edge for 350k years]]></title>
-        <id>https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years</id>
-        <link href="https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years"/>
+        <title type="html"><![CDATA[No More Code Reviews: Lights-Out Codebases Ahead]]></title>
+        <id>https://molochinations.substack.com/p/no-more-code-reviews-lights-out-codebases</id>
+        <link href="https://molochinations.substack.com/p/no-more-code-reviews-lights-out-codebases"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clawbernetes. Infra to deploy agents fast with enterprise grade features]]></title>
-        <id>https://clawbernetes.org</id>
-        <link href="https://clawbernetes.org"/>
+        <title type="html"><![CDATA[Satcove – Query 5 AI models at once and get one structured verdict]]></title>
+        <id>https://satcove.com</id>
+        <link href="https://satcove.com"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Allbirds, Once Valued at $4B, Just Sold Its Assets for Next to Nothing]]></title>
-        <id>https://www.wsj.com/business/retail/allbirds-the-tech-bro-favorite-once-valued-at-4-billion-just-sold-its-assets-for-next-to-nothing-605e3216</id>
-        <link href="https://www.wsj.com/business/retail/allbirds-the-tech-bro-favorite-once-valued-at-4-billion-just-sold-its-assets-for-next-to-nothing-605e3216"/>
+        <title type="html"><![CDATA[Show HN: Crossmind-CLI – CLI for X, Reddit, HN API with compact JSON output]]></title>
+        <id>https://github.com/cross-mind/crossmind-cli</id>
+        <link href="https://github.com/cross-mind/crossmind-cli"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A satellite-smashing chain reaction could spiral out of control]]></title>
-        <id>https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control</id>
-        <link href="https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control"/>
+        <title type="html"><![CDATA[Mtp-rs: pure-Rust MTP library, up to 4x faster than libmtp]]></title>
+        <id>https://www.veszelovszki.com/a/mtp-rs/</id>
+        <link href="https://www.veszelovszki.com/a/mtp-rs/"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent skills for desktop automation and video recording]]></title>
-        <id>https://github.com/TwillAI/skills</id>
-        <link href="https://github.com/TwillAI/skills"/>
+        <title type="html"><![CDATA[If Your AI Agent Ran NPM Install During the Axios Attack, You're Compromised]]></title>
+        <id>https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install</id>
+        <link href="https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Software Pipelining for GPU Kernels: Part 1 – The Pipeline Problem]]></title>
-        <id>https://www.modular.com/blog/software-pipelining-for-gpu-kernels-part-1-the-pipeline-problem</id>
-        <link href="https://www.modular.com/blog/software-pipelining-for-gpu-kernels-part-1-the-pipeline-problem"/>
+        <title type="html"><![CDATA[Nginx Proxy Manager Linux Native Installer]]></title>
+        <id>https://github.com/njordium/npm-native</id>
+        <link href="https://github.com/njordium/npm-native"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[North Korea-Nexus Threat Actor Compromises Widely Used Axios NPM Package]]></title>
-        <id>https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/</id>
-        <link href="https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/"/>
+        <title type="html"><![CDATA[Pyre: New JIT Python interpreter written in Rust]]></title>
+        <id>https://pyre-lang.org/</id>
+        <link href="https://pyre-lang.org/"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Has GitLab Felt into the Enshittification?]]></title>
-        <id>https://gitlab.com/gitlab-org/gitlab/-/work_items/590689</id>
-        <link href="https://gitlab.com/gitlab-org/gitlab/-/work_items/590689"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub has DMCA'd nearly all forks of the official Claude-code repo]]></title>
-        <id>https://github.com/anthropics/claude-code/forks</id>
-        <link href="https://github.com/anthropics/claude-code/forks"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic just fired dev who published dev/Claude-code NPM package]]></title>
-        <id>https://twitter.com/KevinNaughtonJr/status/2039087166626656618</id>
-        <link href="https://twitter.com/KevinNaughtonJr/status/2039087166626656618"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veo 3.1 Lite – Veo 3.1 Lite – Turn Any Idea into AI Videos Instantly]]></title>
-        <id>https://veo31lite.com</id>
-        <link href="https://veo31lite.com"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia readies social media court action citing teen ban breaches]]></title>
-        <id>https://www.reuters.com/sustainability/society-equity/australia-investigates-tech-giants-over-social-media-ban-compliance-2026-03-30/</id>
-        <link href="https://www.reuters.com/sustainability/society-equity/australia-investigates-tech-giants-over-social-media-ban-compliance-2026-03-30/"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large-scale BTU study shows: solar panels last longer than previously thought]]></title>
-        <id>https://www.b-tu.de/en/news/article/31103-grossangelegte-btu-studie-zeigt-solaranlagen-halten-laenger-als-gedacht</id>
-        <link href="https://www.b-tu.de/en/news/article/31103-grossangelegte-btu-studie-zeigt-solaranlagen-halten-laenger-als-gedacht"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mission Control for AI Agents – Cyberpunk dashboard, zero deps, one HTML file]]></title>
-        <id>https://github.com/Audazia/solar-system-agentsIbuiltSolarSystemAgentsbecauseIwanted:1.AdashboardthatlookssogoodIactuallywanttokeepitopen2.WorkswithANYagentframework3.Zerosetupfriction—noDocker,nonpm,nodatabase</id>
-        <link href="https://github.com/Audazia/solar-system-agentsIbuiltSolarSystemAgentsbecauseIwanted:1.AdashboardthatlookssogoodIactuallywanttokeepitopen2.WorkswithANYagentframework3.Zerosetupfriction—noDocker,nonpm,nodatabase"/>
+        <title type="html"><![CDATA[Pretext's most interesting use cases have no DOM at all]]></title>
+        <id>https://cyrusradfar.com/thoughts/pretext-beyond-the-browser</id>
+        <link href="https://cyrusradfar.com/thoughts/pretext-beyond-the-browser"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
@@ -183,9 +155,114 @@
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pretext's most interesting use cases have no DOM at all]]></title>
-        <id>https://cyrusradfar.com/thoughts/pretext-beyond-the-browser</id>
-        <link href="https://cyrusradfar.com/thoughts/pretext-beyond-the-browser"/>
+        <title type="html"><![CDATA[Mission Control for AI Agents – Cyberpunk dashboard, zero deps, one HTML file]]></title>
+        <id>https://github.com/Audazia/solar-system-agentsIbuiltSolarSystemAgentsbecauseIwanted:1.AdashboardthatlookssogoodIactuallywanttokeepitopen2.WorkswithANYagentframework3.Zerosetupfriction—noDocker,nonpm,nodatabase</id>
+        <link href="https://github.com/Audazia/solar-system-agentsIbuiltSolarSystemAgentsbecauseIwanted:1.AdashboardthatlookssogoodIactuallywanttokeepitopen2.WorkswithANYagentframework3.Zerosetupfriction—noDocker,nonpm,nodatabase"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large-scale BTU study shows: solar panels last longer than previously thought]]></title>
+        <id>https://www.b-tu.de/en/news/article/31103-grossangelegte-btu-studie-zeigt-solaranlagen-halten-laenger-als-gedacht</id>
+        <link href="https://www.b-tu.de/en/news/article/31103-grossangelegte-btu-studie-zeigt-solaranlagen-halten-laenger-als-gedacht"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia readies social media court action citing teen ban breaches]]></title>
+        <id>https://www.reuters.com/sustainability/society-equity/australia-investigates-tech-giants-over-social-media-ban-compliance-2026-03-30/</id>
+        <link href="https://www.reuters.com/sustainability/society-equity/australia-investigates-tech-giants-over-social-media-ban-compliance-2026-03-30/"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veo 3.1 Lite – Veo 3.1 Lite – Turn Any Idea into AI Videos Instantly]]></title>
+        <id>https://veo31lite.com</id>
+        <link href="https://veo31lite.com"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic just fired dev who published dev/Claude-code NPM package]]></title>
+        <id>https://twitter.com/KevinNaughtonJr/status/2039087166626656618</id>
+        <link href="https://twitter.com/KevinNaughtonJr/status/2039087166626656618"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub has DMCA'd nearly all forks of the official Claude-code repo]]></title>
+        <id>https://github.com/anthropics/claude-code/forks</id>
+        <link href="https://github.com/anthropics/claude-code/forks"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Has GitLab Felt into the Enshittification?]]></title>
+        <id>https://gitlab.com/gitlab-org/gitlab/-/work_items/590689</id>
+        <link href="https://gitlab.com/gitlab-org/gitlab/-/work_items/590689"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea-Nexus Threat Actor Compromises Widely Used Axios NPM Package]]></title>
+        <id>https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/</id>
+        <link href="https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Pipelining for GPU Kernels: Part 1 – The Pipeline Problem]]></title>
+        <id>https://www.modular.com/blog/software-pipelining-for-gpu-kernels-part-1-the-pipeline-problem</id>
+        <link href="https://www.modular.com/blog/software-pipelining-for-gpu-kernels-part-1-the-pipeline-problem"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent skills for desktop automation and video recording]]></title>
+        <id>https://github.com/TwillAI/skills</id>
+        <link href="https://github.com/TwillAI/skills"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A satellite-smashing chain reaction could spiral out of control]]></title>
+        <id>https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control</id>
+        <link href="https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allbirds, Once Valued at $4B, Just Sold Its Assets for Next to Nothing]]></title>
+        <id>https://www.wsj.com/business/retail/allbirds-the-tech-bro-favorite-once-valued-at-4-billion-just-sold-its-assets-for-next-to-nothing-605e3216</id>
+        <link href="https://www.wsj.com/business/retail/allbirds-the-tech-bro-favorite-once-valued-at-4-billion-just-sold-its-assets-for-next-to-nothing-605e3216"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clawbernetes. Infra to deploy agents fast with enterprise grade features]]></title>
+        <id>https://clawbernetes.org</id>
+        <link href="https://clawbernetes.org"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neanderthals survived on a knife's edge for 350k years]]></title>
+        <id>https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years</id>
+        <link href="https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern physics is forcing us to rethink existence – Michelle Thaller: Interview [video]]]></title>
+        <id>https://www.youtube.com/watch?v=RGbZsE7qFgw</id>
+        <link href="https://www.youtube.com/watch?v=RGbZsE7qFgw"/>
+        <updated>2026-03-31T16:00:00.000Z</updated>
+        <published>2026-03-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gaim 3 Is in Development for Restoring the Original Gaim Instant Messaging App]]></title>
+        <id>https://www.phoronix.com/news/Gaim-3-In-Development</id>
+        <link href="https://www.phoronix.com/news/Gaim-3-In-Development"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>
@@ -284,83 +361,6 @@
         <title type="html"><![CDATA[Efficient and Scalable Granular-ball Graph Coarsening Method for Large-scale Graph Node Classification]]></title>
         <id>https://arxiv.org/abs/2603.29148</id>
         <link href="https://arxiv.org/abs/2603.29148"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection]]></title>
-        <id>https://arxiv.org/abs/2603.29183</id>
-        <link href="https://arxiv.org/abs/2603.29183"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biomimetic PINNs for Cell-Induced Phase Transitions: UQ-R3 Sampling with Causal Gating]]></title>
-        <id>https://arxiv.org/abs/2603.29184</id>
-        <link href="https://arxiv.org/abs/2603.29184"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving Ensemble Forecasts of Abnormally Deflecting Tropical Cyclones with Fused Atmosphere-Ocean-Terrain Data]]></title>
-        <id>https://arxiv.org/abs/2603.29200</id>
-        <link href="https://arxiv.org/abs/2603.29200"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Derived Fields Preserve Fine-Scale Detail in Budgeted Neural Simulators]]></title>
-        <id>https://arxiv.org/abs/2603.29224</id>
-        <link href="https://arxiv.org/abs/2603.29224"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stochastic Dimension Implicit Functional Projections for Exact Integral Conservation in High-Dimensional PINNs]]></title>
-        <id>https://arxiv.org/abs/2603.29237</id>
-        <link href="https://arxiv.org/abs/2603.29237"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monodense Deep Neural Model for Determining Item Price Elasticity]]></title>
-        <id>https://arxiv.org/abs/2603.29261</id>
-        <link href="https://arxiv.org/abs/2603.29261"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lie Generator Networks for Nonlinear Partial Differential Equations]]></title>
-        <id>https://arxiv.org/abs/2603.29264</id>
-        <link href="https://arxiv.org/abs/2603.29264"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Physics to Surrogate Intelligence: A Unified Electro-Thermo-Optimization Framework for TSV Networks]]></title>
-        <id>https://arxiv.org/abs/2603.29268</id>
-        <link href="https://arxiv.org/abs/2603.29268"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Learning-Based Anomaly Detection in Spacecraft Telemetry on Edge Devices]]></title>
-        <id>https://arxiv.org/abs/2603.29375</id>
-        <link href="https://arxiv.org/abs/2603.29375"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finite-time analysis of Multi-timescale Stochastic Optimization Algorithms]]></title>
-        <id>https://arxiv.org/abs/2603.29380</id>
-        <link href="https://arxiv.org/abs/2603.29380"/>
-        <updated>2026-03-31T16:00:00.000Z</updated>
-        <published>2026-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hybrid Quantum-Classical Spatiotemporal Forecasting for 3D Cloud Fields]]></title>
-        <id>https://arxiv.org/abs/2603.29407</id>
-        <link href="https://arxiv.org/abs/2603.29407"/>
         <updated>2026-03-31T16:00:00.000Z</updated>
         <published>2026-03-31T16:00:00.000Z</published>
     </entry>

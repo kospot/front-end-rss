@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-01 15:03:04。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-01 18:01:48。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -48,13 +48,13 @@
 - [【Towards AI】Building-a-Financial-Research-Agent-with-ReAct,-LangGraph,-and-LangChain](https://pub.towardsai.net/building-a-financial-research-agent-with-react-langgraph-and-langchain-c5d5142d8b29?source=rss----98111c9905da---4)
 - [【Towards AI】A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)
 - [【Hacker News】A-satellite-smashing-chain-reaction-could-spiral-out-of-control](https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control)
-- [【Hacker News】A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list)
 - [【Hacker News】Scientists-Create-Novel-Organism-with-Primitive-Nervous-System](https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system)
+- [【Hacker News】A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list)
 - [【Hacker News】ViraxLog-–-Tamper-Proof-Logging-Using-Merkle-Trees-and-BLAKE2B-for-Python](https://github.com/damienos61/viraxlog)
-- [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
 - [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
-- [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
+- [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
 - [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
+- [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -114,12 +114,13 @@
 
 - [【JavaScript Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 - [【JavaScript Weekly】It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
-- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
 - [【Hacker News】North-Korea-Nexus-Threat-Actor-Compromises-Widely-Used-Axios-NPM-Package](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/)
-- [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
-- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
-- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
+- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
 - [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
+- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
+- [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
 - [【Hacker News】Show-HN:-Safe-install-–-Docker-first-install-time-hardening-for-pip-and-NPM](https://github.com/Khaeldur/safe-install)
 - [【Wired】Vitesy-Shelfy-2-Smart-Fridge-Purifier-Review:-Small-Box,-Big-Promises](https://www.wired.com/review/vitesy-shelfy-2/)
 - [......【查看更多】......](/details/tags/pack-build.md)
@@ -545,14 +546,14 @@
 - [【arXiv ML】Digital-Twin-Assisted-Measurement-Design-and-Channel-Statistics-Prediction](https://arxiv.org/abs/2603.23787)
 - [【arXiv ML】Continuous-Time-Learning-of-Probability-Distributions:-A-Case-Study-in-a-Digital-Trial-of-Young-Children-with-Type-1-Diabetes](https://arxiv.org/abs/2603.24427)
 - [【arXiv ML】SDE-Driven-Spatio-Temporal-Hypergraph-Neural-Networks-for-Irregular-Longitudinal-fMRI-Connectome-Modeling-in-Alzheimer's-Disease](https://arxiv.org/abs/2603.20452)
-- [【Hacker News】GitHub-has-DMCA'd-nearly-all-forks-of-the-official-Claude-code-repo](https://github.com/anthropics/claude-code/forks)
 - [【Hacker News】Has-GitLab-Felt-into-the-Enshittification?](https://gitlab.com/gitlab-org/gitlab/-/work_items/590689)
+- [【Hacker News】GitHub-has-DMCA'd-nearly-all-forks-of-the-official-Claude-code-repo](https://github.com/anthropics/claude-code/forks)
 - [【Hacker News】Lithuanian-Legislation-as-a-Git-Repo](https://github.com/Yiin/lt-teises-aktai)
-- [【Hacker News】The-Digital-Imprimatur-2003](https://www.fourmilab.ch/documents/digital-imprimatur/)
-- [【Hacker News】I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth)
-- [【Hacker News】GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
-- [【Hacker News】Why-pylock.toml-includes-digital-attestations](https://snarky.ca/why-pylock-toml-includes-digital-attestations/)
 - [【Hacker News】In-Math,-Rigor-Is-Vital.-But-Are-Digitized-Proofs-Taking-It-Too-Far?](https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/)
+- [【Hacker News】Why-pylock.toml-includes-digital-attestations](https://snarky.ca/why-pylock-toml-includes-digital-attestations/)
+- [【Hacker News】GitHub-expands-AI-bug-detection,-but-recent-outages-hit-Actions,-API,-and-Git](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
+- [【Hacker News】I-built-a-tiny-CLI-that-writes-my-commit-messages-from-Git-diff](https://github.com/saccofrancesco/gitsloth)
+- [【Hacker News】The-Digital-Imprimatur-2003](https://www.fourmilab.ch/documents/digital-imprimatur/)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
