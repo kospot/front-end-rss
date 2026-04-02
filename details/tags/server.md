@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-02 23:03:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-03 06:02:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -26,10 +26,11 @@
 - [2026-03-23-EvidenceRL:-Reinforcing-Evidence-Consistency-for-Trustworthy-Language-Models](https://arxiv.org/abs/2603.19532) 
 - [2026-03-23-Simulation-based-Inference-with-the-Python-Package-sbijax](https://arxiv.org/abs/2409.19435) 
 - [2026-03-23-Learnability-with-Partial-Labels-and-Adaptive-Nearest-Neighbors](https://arxiv.org/abs/2603.15781) 
+- [2026-04-03-NVIDIA-Took-20-Years-to-Ship-25-Lines-of-Python](https://pub.towardsai.net/cuda-tile-gpu-programming-model-1a4bc93ae9b4?source=rss----98111c9905da---4) 
 - [2026-04-01-Building-a-Realistic-Relational-Test-Database-from-Scratch-with-Python](https://pub.towardsai.net/building-a-realistic-relational-test-database-from-scratch-with-python-af1909cd822b?source=rss----98111c9905da---4) 
 - [2026-03-29--Technology-as-a-Living-Forest:-How-It-Breathes-and-Connects](https://pub.towardsai.net/technology-as-a-living-forest-how-it-breathes-and-connects-4f3c5ee14d06?source=rss----98111c9905da---4) 
-- [2026-03-26-AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4) 
 - [2026-03-26-I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4) 
+- [2026-03-26-AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4) 
 - [2026-03-25-The-Context-Reliability-Framework-CRF:-A-Production-Architecture-for-Trustworthy-AI-Systems](https://pub.towardsai.net/the-context-reliability-framework-crf-a-production-architecture-for-trustworthy-ai-systems-05d359aa5447?source=rss----98111c9905da---4) 
 - [2026-04-02-MCP-Server-turned-my-NAS-into-a-self-hosted-AI-assistant](https://www.xda-developers.com/this-mcp-server-turned-my-nas-into-a-self-hosted-ai-assistant/) 
 - [2026-04-02-MAME-moves-to-rust-/-AI-refactoring](https://www.reddit.com/r/MAME/s/ReyyrrW41z) 

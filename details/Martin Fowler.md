@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-04-02 23:03:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-03 06:02:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Martin Fowler
 
 
 
 
+- [2026-04-03-Fragments:-April-2](https://martinfowler.com/fragments/2026-04-02.html) 
 - [2026-04-02-Harness-engineering-for-coding-agent-users](https://martinfowler.com/articles/harness-engineering.html) 
 - [2026-03-31-Encoding-Team-Standards](https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html) 
 - [2026-03-27-Fragments:-March-26](https://martinfowler.com/fragments/2026-03-26.html) 
@@ -14,4 +15,3 @@
 - [2026-03-16-Fragments:-March-16](https://martinfowler.com/fragments/2026-03-16.html) 
 - [2026-03-11-Fragments:-March-10](https://martinfowler.com/fragments/2026-03-10.html) 
 - [2026-03-05-Ideological-Resistance-to-Patents,-Followed-by-Reluctant-Pragmatism](https://martinfowler.com/articles/patents-reluctant-pragmatism.html) 
-- [2026-03-04-Humans-and-Agents-in-Software-Engineering-Loops](https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html) 

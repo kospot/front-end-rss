@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-02 23:03:24。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-03 06:02:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -303,7 +303,6 @@
 
 
 - [【张鑫旭】HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)
-- [【张鑫旭】HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)
 - [【arXiv ML】Meta-Learning-and-Meta-Reinforcement-Learning----Tracing-the-Path-towards-DeepMind's-Adaptive-Agent](https://arxiv.org/abs/2602.19837)
 - [【arXiv ML】Meta-probabilistic-Modeling](https://arxiv.org/abs/2601.04462)
 - [【arXiv ML】Multimodal-Machine-Learning-for-Early-Prediction-of-Metastasis-in-a-Swedish-Multi-Cancer-Cohort](https://arxiv.org/abs/2603.29793)
@@ -320,8 +319,9 @@
 - [【arXiv ML】Meta-Learning-for-Repeated-Bayesian-Persuasion](https://arxiv.org/abs/2603.20408)
 - [【arXiv ML】Confidence-Freeze:-Early-Success-Induces-a-Metastable-Decoupling-of-Metacognition-and-Behaviour](https://arxiv.org/abs/2603.21043)
 - [【arXiv ML】Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888)
-- [【Towards AI】Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4)
 - [【Towards AI】How-Meta’s-TRIBE-v2-Predicts-Human-Brain-Activity-Using-AI](https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4)
+- [【Towards AI】Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4)
+- [【Towards AI】Meta-Just-Acqui-Hired-Its-4th-AI-Startup-in-4-Months.-Zuckerberg’s-Agent-Empire-Is-Taking-Shape.](https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -521,7 +521,7 @@
 - [【arXiv ML】EvidenceRL:-Reinforcing-Evidence-Consistency-for-Trustworthy-Language-Models](https://arxiv.org/abs/2603.19532)
 - [【arXiv ML】Simulation-based-Inference-with-the-Python-Package-sbijax](https://arxiv.org/abs/2409.19435)
 - [【arXiv ML】Learnability-with-Partial-Labels-and-Adaptive-Nearest-Neighbors](https://arxiv.org/abs/2603.15781)
-- [【Towards AI】Building-a-Realistic-Relational-Test-Database-from-Scratch-with-Python](https://pub.towardsai.net/building-a-realistic-relational-test-database-from-scratch-with-python-af1909cd822b?source=rss----98111c9905da---4)
+- [【Towards AI】NVIDIA-Took-20-Years-to-Ship-25-Lines-of-Python](https://pub.towardsai.net/cuda-tile-gpu-programming-model-1a4bc93ae9b4?source=rss----98111c9905da---4)
 - [......【查看更多】......](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

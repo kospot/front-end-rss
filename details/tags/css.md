@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-02 23:03:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-03 06:02:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -200,8 +200,8 @@
 - [2026-03-23-Hyper-STTN:-Hypergraph-Augmented-Spatial-Temporal-Transformer-Network-for-Trajectory-Prediction](https://arxiv.org/abs/2401.06344) 
 - [2026-03-23-RayRoPE:-Projective-Ray-Positional-Encoding-for-Multi-view-Attention](https://arxiv.org/abs/2601.15275) 
 - [2026-03-30-The-Scissor-Effect:-Quantifying-the-Transition-from-Unstructured-DevOps-to-Product-Led-Platform…](https://pub.towardsai.net/platform-engineering-adoption-by-a-company-case-study-a874c070ab91?source=rss----98111c9905da---4) 
-- [2026-03-27-Amazon’s-AI-Health-Tool-Transforms-Medical-Navigation](https://pub.towardsai.net/amazons-ai-health-tool-transforms-medical-navigation-e07879534091?source=rss----98111c9905da---4) 
 - [2026-03-27-Why-I-Built-Per-Agent-Model-Routing-—-And-What-It-Reveals-About-AI-Cost-at-Scale](https://pub.towardsai.net/why-i-built-per-agent-model-routing-and-what-it-reveals-about-ai-cost-at-scale-1ae16d5833c3?source=rss----98111c9905da---4) 
+- [2026-03-27-Amazon’s-AI-Health-Tool-Transforms-Medical-Navigation](https://pub.towardsai.net/amazons-ai-health-tool-transforms-medical-navigation-e07879534091?source=rss----98111c9905da---4) 
 - [2026-03-26-The-Death-of-the-Middleware:-How-I-Built-a-Serverless-AI-Resume-Parser-on-Android](https://pub.towardsai.net/building-serverless-ai-features-on-android-structuring-chaos-with-firebase-ai-logic-ca15eae810d8?source=rss----98111c9905da---4) 
 - [2026-04-02-Phalus:-Private-Headless-Automated-License-Uncoupling-System-Self-Hosted](https://phalus.sh/) 
 - [2026-04-01-CSS-or-BS?](https://www.keithcirkel.co.uk/css-or-bs/) 
@@ -236,5 +236,5 @@
 - [2026-03-23-ForgeKV-–-Redis-compatible-KV-server-in-Rust-that-scales-with-cores](https://github.com/ForgeKV/forgekv) 
 - [2026-03-23-Blessed.rs-–-Recommended-Crate-Directory](https://blessed.rs/crates) 
 - [2026-04-01-Less-than-a-month:-StrictlyVC-San-Francisco-brings-leaders-from-TDK-Ventures,-Replit,-and-more-together](https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/) 
-- [2026-03-30-Qodo-raises-$70M-for-code-verification-as-AI-coding-scales](https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/) 
 - [2026-03-30-ScaleOps-raises-$130M-to-improve-computing-efficiency-amid-AI-demand](https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/) 
+- [2026-03-30-Qodo-raises-$70M-for-code-verification-as-AI-coding-scales](https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/) 

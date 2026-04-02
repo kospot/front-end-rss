@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-02 23:03:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-03 06:02:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -8,7 +8,6 @@
 
 
 - [2026-03-09-HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/) 
-- [2026-03-04-HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/) 
 - [2026-04-02-Meta-Learning-and-Meta-Reinforcement-Learning----Tracing-the-Path-towards-DeepMind's-Adaptive-Agent](https://arxiv.org/abs/2602.19837) 
 - [2026-04-02-Meta-probabilistic-Modeling](https://arxiv.org/abs/2601.04462) 
 - [2026-04-01-Multimodal-Machine-Learning-for-Early-Prediction-of-Metastasis-in-a-Swedish-Multi-Cancer-Cohort](https://arxiv.org/abs/2603.29793) 
@@ -25,8 +24,8 @@
 - [2026-03-24-Meta-Learning-for-Repeated-Bayesian-Persuasion](https://arxiv.org/abs/2603.20408) 
 - [2026-03-24-Confidence-Freeze:-Early-Success-Induces-a-Metastable-Decoupling-of-Metacognition-and-Behaviour](https://arxiv.org/abs/2603.21043) 
 - [2026-03-23-Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888) 
-- [2026-04-01-Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4) 
 - [2026-04-01-How-Meta’s-TRIBE-v2-Predicts-Human-Brain-Activity-Using-AI](https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4) 
+- [2026-04-01-Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4) 
 - [2026-03-26-Meta-Just-Acqui-Hired-Its-4th-AI-Startup-in-4-Months.-Zuckerberg’s-Agent-Empire-Is-Taking-Shape.](https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4) 
 - [2026-04-02-Show-HN:-Mkdnsite-–-Markdown-native-web-server-for-humans-HTML-and-agents-md](https://github.com/mkdnsite/mkdnsite) 
 - [2026-04-02-MetaLLM-–-Metasploit-inspired-AI/ML-security-testing-framework](https://github.com/scthornton/MetaLLM) 
@@ -51,18 +50,18 @@
 - [2026-03-23-The-Rise-of-the-Ray-Ban-Meta-Creep](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/) 
 - [2026-04-02-Meta’s-natural-gas-binge-could-power-South-Dakota](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/) 
 - [2026-04-01-Meta-was-finally-held-accountable-for-harming-teens.-Now-what?](https://techcrunch.com/2026/03/31/meta-was-finally-held-accountable-for-harming-teens-now-what/) 
-- [2026-03-31-Meta-starts-testing-a-premium-subscription-on-Instagram](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/) 
 - [2026-03-31-Meta-launches-two-new-Ray-Ban-glasses-designed-for-prescription-wearers](https://techcrunch.com/2026/03/31/meta-launches-two-new-ray-ban-glasses-designed-for-prescription-wearers/) 
+- [2026-03-31-Meta-starts-testing-a-premium-subscription-on-Instagram](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/) 
 - [2026-03-27-OpenAI-shuts-down-Sora-while-Meta-gets-shut-out-in-court](https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/) 
-- [2026-03-26-Jury-finds-Meta-and-Google-negligent-in-landmark-social-media-addiction-trial](https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/) 
 - [2026-03-26-Meta-is-cutting-several-hundred-jobs](https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/) 
-- [2026-03-25-New-Mexico-just-handed-Meta-its-first-courtroom-defeat-over-child-safety,-and-the-rest-of-the-country-is-watching](https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/) 
-- [2026-03-25-Meta-turns-to-AI-to-make-shopping-easier-on-Instagram-and-Facebook](https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/) 
+- [2026-03-26-Jury-finds-Meta-and-Google-negligent-in-landmark-social-media-addiction-trial](https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/) 
 - [2026-03-25-Meta-launches-new-initiative-to-support-entrepreneurship,-drive-AI-adoption](https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/) 
+- [2026-03-25-Meta-turns-to-AI-to-make-shopping-easier-on-Instagram-and-Facebook](https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/) 
+- [2026-03-25-New-Mexico-just-handed-Meta-its-first-courtroom-defeat-over-child-safety,-and-the-rest-of-the-country-is-watching](https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/) 
 - [2026-03-28-Meta-Quest-Promo-Codes:-$50-Off-|-March-2026](https://www.wired.com/story/meta-quest-promo-code/) 
 - [2026-03-26-The-Comedy-Club-at-the-End-of-the-Metaverse](https://www.wired.com/story/the-last-comedy-club-at-the-end-of-the-metaverse/) 
 - [2026-03-23-The-Rise-of-the-Ray-Ban-Meta-Creep](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/) 
-- [2026-03-20-Meta-Will-Keep-Horizon-Worlds-Alive-in-VR-‘for-the-Foreseeable-Future’](https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/) 
-- [2026-03-20-‘Uncanny-Valley’:-Nvidia’s-‘Super-Bowl-of-AI,’-Tesla-Disappoints,-and-Meta’s-VR-Metaverse-‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/) 
 - [2026-03-20-The-Danger-Behind-Meta-Killing-End-to-End-Encryption-for-Instagram-DMs](https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/) 
+- [2026-03-20-‘Uncanny-Valley’:-Nvidia’s-‘Super-Bowl-of-AI,’-Tesla-Disappoints,-and-Meta’s-VR-Metaverse-‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/) 
+- [2026-03-20-Meta-Will-Keep-Horizon-Worlds-Alive-in-VR-‘for-the-Foreseeable-Future’](https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/) 
 - [2026-03-19-Signal’s-Creator-Is-Helping-Encrypt-Meta-AI](https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/) 
