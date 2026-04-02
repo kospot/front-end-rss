@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-02 21:02:22，:rocket: 更新条数: +1210， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-02 23:03:23，:rocket: 更新条数: +382， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [web.dev](#web.dev)  
 - [CSS-Tricks](#css-tricks)![](/assets/dot.png)   
@@ -25,7 +25,7 @@
 - [Jake-Archibald](#jake-archibald)![](/assets/dot.png)   
 - [Tan-Li-Hau](#tan-li-hau)![](/assets/dot.png)   
 - [Mark-Erikson-Blog](#mark-erikson-blog)![](/assets/dot.png)   
-- [SurviveJS](#survivejs)![](/assets/dot.png)   
+- [SurviveJS](#survivejs)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -44,8 +44,8 @@
 - [Martin-Fowler](#martin-fowler)![](/assets/dot.png)   
 - [arXiv-ML](#arxiv-ml)  
 - [HuggingFace-Blog](#huggingface-blog)  
-- [smol.ai](#smol.ai)![](/assets/dot.png)   
-- [Towards-AI](#towards-ai)![](/assets/dot.png)   
+- [smol.ai](#smol.ai)  
+- [Towards-AI](#towards-ai)  
 - [Sebastian-Raschka](#sebastian-raschka)![](/assets/dot.png)   
 - [机器之心](#机器之心)  
 - [量子位](#量子位)  
@@ -57,9 +57,9 @@
 - [ChatGPT-更新](#chatgpt-更新)  
 - [Hacker-News](#hacker-news)![](/assets/dot.png)   
 - [TechCrunch](#techcrunch)![](/assets/dot.png)   
-- [Wired](#wired)![](/assets/dot.png)   
+- [Wired](#wired)  
 - [Engadget](#engadget)  
-- [少数派](#少数派)![](/assets/dot.png)   
+- [少数派](#少数派)  
 
 ## 文章链接
 
@@ -69,7 +69,7 @@
 </summary>
 
 
-- [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618) ![](/assets/new.png)  
+- [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618)  
 - [2026-03-26-How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617)  
 - [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)  
 - [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)  
@@ -111,15 +111,16 @@
 </summary>
 
 
-- [2026-04-01-Sniffing-Out-the-CSS-Olfactive-API](https://css-tricks.com/css-olfactive-api/)  
+- [2026-04-02-Making-Complex-CSS-Shapes-Using-shape](https://css-tricks.com/complex-css-shapes-with-shape-function/) ![](/assets/new.png)  
 - [2026-04-01-Front-End-Fools:-Top-10-April-Fools’-UI-Pranks-of-All-Time](https://css-tricks.com/front-end-april-fools-top-10/)  
+- [2026-04-01-Sniffing-Out-the-CSS-Olfactive-API](https://css-tricks.com/css-olfactive-api/)  
 - [2026-03-31-What’s-!important-#8:-Light/Dark-Favicons,-@mixin,-object-view-box,-and-More](https://css-tricks.com/whats-important-8/)  
 - [2026-03-30-Form-Automation-Tips-for-Happier-User-and-Clients](https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/)  
 - [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)  
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
+- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [2026-03-05-The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)  
@@ -445,6 +446,7 @@
 </summary>
 
 
+- [2026-04-02-Harness-engineering-for-coding-agent-users](https://martinfowler.com/articles/harness-engineering.html) ![](/assets/new.png)  
 - [2026-03-31-Encoding-Team-Standards](https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html)  
 - [2026-03-27-Fragments:-March-26](https://martinfowler.com/fragments/2026-03-26.html)  
 - [2026-03-24-Bliki:-Architecture-Decision-Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html)  
@@ -669,26 +671,26 @@
 </summary>
 
 
-- [2026-04-02-The-∞-Oreo](https://arxiv.org/abs/2604.00435)  
-- [2026-04-02-Men-are-ditching-TV-for-YouTube-as-AI-usage-and-social-media-fatigue-grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)  
-- [2026-04-02-China-became-a-global-pharmaceutical-powerhouse](https://cepr.org/voxeu/columns/free-rider-innovator-how-china-became-global-pharmaceutical-powerhouse)  
-- [2026-04-02-Solar-saved-Europe-€3B-in-fossil-fuel-imports-in-March](https://www.euronews.com/2026/04/01/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way)  
-- [2026-04-02-PowerChest:-macOS-app-for-people-who-miss-old-school-Powertoys](https://powerchest.app)  
-- [2026-04-02-WebGPU-Bench](https://sylwia-lask.github.io/webgpu-bench/)  
-- [2026-04-02-Tell-HN:-Who-Is-Hiring-Since-2016,-Trend-is-evolving](https://news.ycombinator.com/item?id=47612062)  
-- [2026-04-02-I-Am-Not-A-Number.-In-memory-of-the-more-than-72,000-Palestinians-killed](https://bkhmsi.github.io/i-am-not-a-number/)  
-- [2026-04-02-Show-HN:-A-drop-in-replacement-and-memory-safe-TLS-back-end-for-Python](https://github.com/jawah/rtls)  
-- [2026-04-02-UK-Government-unveils-rules-to-end-subscription-traps](https://www.gov.uk/government/news/consumers-to-save-around-400-million-every-year-from-government-crackdown-on-costly-subscription-traps)  
-- [2026-04-02-Cloudflare-Announces-EmDash-as-Open-Source-"Spiritual-Successor"-to-WordPress](https://www.phoronix.com/news/Cloudflare-EmDash)  
-- [2026-04-02-Knightcore-·-Zone-AI-Engine-Dungeon-Combat](https://peacebinflow.itch.io/knightcore-pixel-monastery)  
-- [2026-04-02-How-to-use-a-Claude-Subscription-in-Cursor-without-paying-for-API-tokens](https://forum.cursor.com/t/how-to-use-a-claude-subscription-in-cursor-without-paying-for-api-tokens/156488)  
-- [2026-04-02-Add-AI-to-your-apps-and-business-with-one-line](https://news.ycombinator.com/item?id=47612014)  
-- [2026-04-02-Show-HN:-Extra-Platforms,-Python-library-to-detect-OS,-arch,-shell,-CI,-AI](https://github.com/kdeldycke/extra-platforms)  
-- [2026-04-02-VR-Realizes-the-Cyberspace-Metaphor](https://yadin.com/notes/vr-disrupts/)  
-- [2026-04-02-P2P-from-scratch-–-The-Internet-is-hostile](https://pears.com/news/p2p-from-scratch-part-1-the-internet-is-hostile/)  
-- [2026-04-02-WebGPU-in-WASM-via-Emscripten-Or-Dawn](https://github.com/juj/wasm_webgpu)  
-- [2026-04-02-Web-Neural-Network-API](https://www.w3.org/TR/webnn/)  
-- [2026-04-02-Significant-Raise-of-Reports](https://lwn.net/Articles/1065620/)  
+- [2026-04-02-Show-HN:-S0-Tuning-–-+23.6pp-on-HumanEval-by-tuning-state,-not-weights](https://github.com/JackYoung27/s0-tuning)  
+- [2026-04-02-Ask-HN:-What's-the-long-term-future-of-online-human-discussion?](https://news.ycombinator.com/item?id=47613790)  
+- [2026-04-02-MarCognity-AI-v2.7.0-–-factual-grounding-for-LLM-epistemic-verification](https://github.com/elly99-AI/MarCognity-AI)  
+- [2026-04-02-Maki-the-efficient-AI-coder-–-Rust-TUI-saves-40%-tokens-and-low-RAM](https://maki.sh)  
+- [2026-04-02-Marc-Andreessen-Is-Right-That-AI-Isn't-Killing-Entry-Level-Jobs](https://www.governance.fyi/p/marc-andreessen-is-right-that-ai)  
+- [2026-04-02-What-does-it-mean-to-'age-well'?](https://www.cnn.com/2026/04/02/style/anti-ageing-art-exhibition-london)  
+- [2026-04-02-Adding-WASM-Plugins-to-Your-App](https://blog.ar-ms.me/thoughts/adding-wasm-plugins-to-your-app/)  
+- [2026-04-02-Onboarding:-Time-to-First-Release](https://huntersoftwareconsulting.com/posts/2026-03-30-onboarding-time-to-first-release/)  
+- [2026-04-02-Developers-Should-–-and-Shouldn't-–-Use-LLMs-in-Our-Development](https://tighten.com/insights/pragmatic-ai-why-devs-should-and-shouldnt-use-llms/)  
+- [2026-04-02-Melting-Himalayan-glacier-unleashed-tsunami-at-17,000-feet,-shattering-lives](https://www.wsj.com/world/asia/how-a-tsunami-was-unleashed-at-17-000-feet-shattering-lives-below-01e18c99)  
+- [2026-04-02-Visa-is-bringing-AI-to-credit-card-charge-disputes](https://qz.com/visa-ai-tools-credit-card-dispute-management)  
+- [2026-04-02-A-conversation-with-the-creator-of-TomWikiAssist,-the-bot-that-edited-Wikipedia](https://www.niemanlab.org/2026/03/i-was-surprised-how-upset-some-people-got-a-conversation-with-the-creator-of-tomwikiassist-the-bot-that-edited-wikipedia/)  
+- [2026-04-02-Ask-HN:-How-do-you-get-LLMs-to-stop-spewing-corpo-speak?](https://news.ycombinator.com/item?id=47613671)  
+- [2026-04-02-Show-HN:-Abject:-the-first-self-aware-object-runtime](https://blog.mempko.com/an-abject-horror/)  
+- [2026-04-02-Staying-Aligned-with-Authority](https://staffeng.com/guides/staying-aligned-with-authority/)  
+- [2026-04-02-How-I-Made-My-Homelab-Fix-Itself-Using-Komodo-and-OpenClaw](https://fariszr.com/homelab-fixes-itself-komodo-openclaw/)  
+- [2026-04-02-China's-Aiming-for-the-Moon,-and-NASA-Is-Looking-over-Its-Shoulder](https://www.nytimes.com/2026/04/02/world/asia/china-space-moon-nasa-artemis.html)  
+- [2026-04-02-Prediction-Markets-Make-a-Bet-Against-Public-Health](https://undark.org/2026/04/02/opinion-prediction-markets-public-health/)  
+- [2026-04-02-Writers-must-accept-artificial-intelligence-–-but-we-are-as-valuable-as-ever](https://www.theguardian.com/commentisfree/2026/apr/02/artificial-intelligence-writers-powerful-language)  
+- [2026-04-02-Show-HN:-I-rewrote-my-2012-self-signed-cert-generator-in-Go-–-cert-depot.com](https://news.ycombinator.com/item?id=47613622)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -700,26 +702,26 @@
 </summary>
 
 
-- [2026-04-02-De-fi-platform-Drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack](https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/)  
-- [2026-04-02-Anthropic-took-down-thousands-of-GitHub-repos-trying-to-yank-its-leaked-source-code-—-a-move-the-company-says-was-an-accident](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)  
-- [2026-04-02-Cognichip-wants-AI-to-design-the-chips-that-power-AI,-and-just-raised-$60M-to-try](https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/)  
-- [2026-04-02-WhatsApp-notifies-hundreds-of-users-who-installed-a-fake-app-made-by-government-spyware-maker](https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/)  
-- [2026-04-02-Cameo-partners-with-TikTok-to-boost-popularity](https://techcrunch.com/2026/04/01/cameo-partners-with-tiktok-to-boost-popularity/)  
-- [2026-04-02-Meta’s-natural-gas-binge-could-power-South-Dakota](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/)  
-- [2026-04-02-Apple-releases-security-fix-for-older-iPhones-and-iPads-to-protect-against-DarkSword-attacks](https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/)  
-- [2026-04-02-Startup-funding-shatters-all-records-in-Q1](https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/)  
-- [2026-04-02-A-new-dating-app,-Sonder,-has-a-deliberately-annoying-sign-up-process-and-it’s-working](https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/)  
-- [2026-04-02-‘System-failure’-paralyzes-Baidu-robotaxis-in-China](https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/)  
+- [2026-04-02-Exclusive:-Beehiiv-expands-into-podcasting,-taking-aim-at-Patreon](https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/)  
+- [2026-04-02-Cash-App-launches-‘pay-later’-feature-for-P2P-pay-transfers](https://techcrunch.com/2026/04/02/cash-app-launches-buy-now-pay-later-feature-for-p2p-pay-transfers/)  
 - [2026-04-02-The-reputation-of-troubled-YC-startup-Delve-has-gotten-even-worse](https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/)  
-- [2026-04-02-Cash-App-launches-‘pay-later’-feature-for-P2P-pay-transfers](https://techcrunch.com/2026/04/02/cash-app-launches-buy-now-pay-later-feature-for-p2p-pay-transfers/) ![](/assets/new.png)  
-- [2026-04-02-Exclusive:-Beehiiv-expands-into-podcasting,-taking-aim-at-Patreon](https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/) ![](/assets/new.png)  
-- [2026-04-01-Hasbro-says-it-was-hacked,-and-may-take-‘several-weeks’-to-recover](https://techcrunch.com/2026/04/01/hasbro-hacked-may-take-several-weeks-to-recover/)  
-- [2026-04-01-Less-than-a-month:-StrictlyVC-San-Francisco-brings-leaders-from-TDK-Ventures,-Replit,-and-more-together](https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/)  
-- [2026-04-01-Lucid-Motors-recalls-over-4,000-Gravity-SUVs-citing-improperly-welded-seat-belts](https://techcrunch.com/2026/04/01/lucid-motors-recalls-over-4000-gravity-suvs-citing-improperly-welded-seat-belts/)  
-- [2026-04-01-Mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-LiteLLM-project](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)  
-- [2026-04-01-Toyota’s-Woven-Capital-appoints-new-CIO-and-COO-in-push-for-finding-the-‘future-of-mobility’](https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/)  
-- [2026-04-01-Robotaxi-companies-refuse-to-say-how-often-their-AVs-need-remote-help](https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/)  
-- [2026-04-01-OpenAI,-not-yet-public,-raises-$3B-from-retail-investors-in-monster-$122B-fund-raise](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/)  
+- [2026-04-02-‘System-failure’-paralyzes-Baidu-robotaxis-in-China](https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/)  
+- [2026-04-02-A-new-dating-app,-Sonder,-has-a-deliberately-annoying-sign-up-process-and-it’s-working](https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/)  
+- [2026-04-02-Startup-funding-shatters-all-records-in-Q1](https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/)  
+- [2026-04-02-Apple-releases-security-fix-for-older-iPhones-and-iPads-to-protect-against-DarkSword-attacks](https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/)  
+- [2026-04-02-Meta’s-natural-gas-binge-could-power-South-Dakota](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/)  
+- [2026-04-02-Cameo-partners-with-TikTok-to-boost-popularity](https://techcrunch.com/2026/04/01/cameo-partners-with-tiktok-to-boost-popularity/)  
+- [2026-04-02-WhatsApp-notifies-hundreds-of-users-who-installed-a-fake-app-made-by-government-spyware-maker](https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/)  
+- [2026-04-02-Cognichip-wants-AI-to-design-the-chips-that-power-AI,-and-just-raised-$60M-to-try](https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/)  
+- [2026-04-02-Anthropic-took-down-thousands-of-GitHub-repos-trying-to-yank-its-leaked-source-code-—-a-move-the-company-says-was-an-accident](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)  
+- [2026-04-02-De-fi-platform-Drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack](https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/)  
+- [2026-04-02-Diverse-teams-start-with-diverse-VCs](https://techcrunch.com/2026/04/02/diverse-teams-start-with-diverse-vcs/) ![](/assets/new.png)  
+- [2026-04-02-Commonwealth-Fusion-Systems-leans-on-magnets-for-near-term-revenue](https://techcrunch.com/2026/04/02/commonwealth-fusion-systems-leans-on-magnets-for-near-term-revenue/) ![](/assets/new.png)  
+- [2026-04-02-Tesla’s-cheaper-vehicles-aren’t-helping-its-declining-sales](https://techcrunch.com/2026/04/02/tesla-deliveries-cheaper-vehicles-model-y-3-sales/) ![](/assets/new.png)  
+- [2026-04-02-United’s-mobile-app-now-shows-TSA-wait-times-at-select-airports](https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/) ![](/assets/new.png)  
+- [2026-04-01-SpaceX-files-confidentially-for-IPO-in-mega-listing-potentially-valued-at-$1.75-trillion,-report-says](https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/)  
+- [2026-04-01-Nothing’s-AI-devices-plan-reportedly-contains-smart-glasses-and-earbuds](https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/)  
+- [2026-04-01-Anthropic-is-having-a-month](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/)  
 - [......【查看更多】......](/details/TechCrunch.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -750,7 +752,7 @@
 - [2026-04-02-Hydrow-Discount-Code:-Save-Up-to-$150-|-April-2026](https://www.wired.com/story/hydrow-discount-code/)  
 - [2026-04-02-Exclusive-Lovehoney-Discount-Codes:-15%-Off](https://www.wired.com/story/lovehoney-discount-code/)  
 - [2026-04-02-OnePlus-Promo-Code:-$70-Off-|-April-2026](https://www.wired.com/story/oneplus-promo-code/)  
-- [2026-04-02-Unmasking-the-Paramilitary-Agents-Behind-Trump’s-Violent-Immigration-Crackdown](https://www.wired.com/story/border-patrol-bortac-borstar-use-of-force-midway-blitz/) ![](/assets/new.png)  
+- [2026-04-02-Unmasking-the-Paramilitary-Agents-Behind-Trump’s-Violent-Immigration-Crackdown](https://www.wired.com/story/border-patrol-bortac-borstar-use-of-force-midway-blitz/)  
 - [......【查看更多】......](/details/Wired.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -776,7 +778,7 @@
 - [2026-04-02-派晚报：2026-年愚人节产品大赏](https://sspai.com/post/108197)  
 - [2026-04-02-派早报：OPPO-发布-K15-Pro-系列、DLSS-4.5-开始推送等](https://sspai.com/post/108175)  
 - [2026-04-02-被咬一口的世界，苹果-50-年的疯狂与奇迹](https://sspai.com/post/107218)  
-- [2026-04-02-汇聚热爱，「2050-大会」少数派线下活动邀请你来参与](https://sspai.com/post/108202) ![](/assets/new.png)  
+- [2026-04-02-汇聚热爱，「2050-大会」少数派线下活动邀请你来参与](https://sspai.com/post/108202)  
 - [2026-04-01-派早报：Claude-Code-源码意外泄露、OpenAI-获-1220-亿美元融资等](https://sspai.com/post/108133)  
 - [2026-04-01-Agent-的家：如何在-AI-时代搭建硬件基座](https://sspai.com/post/108064)  
 - [2026-04-01-本月玩什么｜失落星船：马拉松、Pokémon-Pokopia-等](https://sspai.com/post/108163)  

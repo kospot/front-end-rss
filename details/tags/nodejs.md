@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-02 21:02:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-02 23:03:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -50,6 +50,7 @@
 - [2026-03-23-FNODE:-Flow-Matching-for-data-driven-simulation-of-constrained-multibody-systems](https://arxiv.org/abs/2509.00183) 
 - [2026-03-23-KoALA:-KL-L0-Adversarial-Detector-via-Label-Agreement](https://arxiv.org/abs/2510.12752) 
 - [2026-03-23-Predicting-Hidden-Links-and-Missing-Nodes-in-Scale-Free-Networks-with-Artificial-Neural-Networks](https://arxiv.org/abs/2109.12331) 
+- [2026-04-02-Iterable-Streams-in-Node.js-25.9.0](https://nodejs.org/api/stream_iter.html) 
 - [2026-03-31-Pwning-V8-with-Turbofan-Type-Confusion-CVE-2025-2135](https://www.zellic.io/blog/pwning-v8ctf/) 
 - [2026-03-28-Ask-HN:-Best-place-to-host-a-Node.js-App-in-2026](https://news.ycombinator.com/item?id=47552071) 
 - [2026-03-25-Show-HN:-Herd-–-A-Go-sidecar-to-stop-stateful-processes-Puppeteer/LLMs-from-OOM](https://news.ycombinator.com/item?id=47511866) 
