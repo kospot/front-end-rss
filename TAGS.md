@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-02 18:02:19。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-02 21:02:23。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -48,13 +48,13 @@
 - [【Towards AI】Building-a-Financial-Research-Agent-with-ReAct,-LangGraph,-and-LangChain](https://pub.towardsai.net/building-a-financial-research-agent-with-react-langgraph-and-langchain-c5d5142d8b29?source=rss----98111c9905da---4)
 - [【Towards AI】A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)
 - [【Hacker News】A-satellite-smashing-chain-reaction-could-spiral-out-of-control](https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control)
-- [【Hacker News】Scientists-Create-Novel-Organism-with-Primitive-Nervous-System](https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system)
 - [【Hacker News】A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list)
+- [【Hacker News】Scientists-Create-Novel-Organism-with-Primitive-Nervous-System](https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system)
 - [【Hacker News】ViraxLog-–-Tamper-Proof-Logging-Using-Merkle-Trees-and-BLAKE2B-for-Python](https://github.com/damienos61/viraxlog)
-- [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
 - [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
-- [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
+- [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
 - [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
+- [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -114,16 +114,16 @@
 
 - [【JavaScript Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 - [【JavaScript Weekly】It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
-- [【Hacker News】I-Am-a-Cross-Cutting-Concern:-On-Having-a-Personal-Monorepo](https://scottlawsonbc.com/post/monorepo)
 - [【Hacker News】1-Click-authentication-with-new-NPM-package](https://www.npmjs.com/package/react-google-one-tap-extention)
-- [【Hacker News】North-Korea-Nexus-Threat-Actor-Compromises-Widely-Used-Axios-NPM-Package](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/)
-- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
-- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
+- [【Hacker News】I-Am-a-Cross-Cutting-Concern:-On-Having-a-Personal-Monorepo](https://scottlawsonbc.com/post/monorepo)
 - [【Hacker News】Top-NPM-package-backdoored-to-drop-dirty-RAT-on-dev-machines](https://www.theregister.com/2026/03/31/axios_npm_backdoor_rat/)
-- [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
-- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
-- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
+- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
+- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
+- [【Hacker News】North-Korea-Nexus-Threat-Actor-Compromises-Widely-Used-Axios-NPM-Package](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/)
 - [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
+- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
+- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
 - [【Hacker News】Show-HN:-Safe-install-–-Docker-first-install-time-hardening-for-pip-and-NPM](https://github.com/Khaeldur/safe-install)
 - [【Wired】Vitesy-Shelfy-2-Smart-Fridge-Purifier-Review:-Small-Box,-Big-Promises](https://www.wired.com/review/vitesy-shelfy-2/)
 - [......【查看更多】......](/details/tags/pack-build.md)
@@ -142,6 +142,7 @@
 
 
 
+- [【Node Weekly】Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618)
 - [【Node Weekly】Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)
 - [【Node Weekly】Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)
 - [【Node Weekly】Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)
@@ -161,7 +162,6 @@
 - [【arXiv ML】Learning-Expressive-Priors-for-Generalization-and-Uncertainty-Estimation-in-Neural-Networks](https://arxiv.org/abs/2307.07753)
 - [【arXiv ML】Tracking-without-Seeing:-Geospatial-Inference-using-Encrypted-Traffic-from-Distributed-Nodes](https://arxiv.org/abs/2603.27811)
 - [【arXiv ML】LogicDiff:-Logic-Guided-Denoising-Improves-Reasoning-in-Masked-Diffusion-Language-Models](https://arxiv.org/abs/2603.26771)
-- [【arXiv ML】EVNextTrade:-Learning-to-Rank-Based-Recommendation-of-Next-Charging-Nodes-for-EV-EV-Energy-Trading](https://arxiv.org/abs/2603.26688)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -320,8 +320,8 @@
 - [【arXiv ML】Meta-Learning-for-Repeated-Bayesian-Persuasion](https://arxiv.org/abs/2603.20408)
 - [【arXiv ML】Confidence-Freeze:-Early-Success-Induces-a-Metastable-Decoupling-of-Metacognition-and-Behaviour](https://arxiv.org/abs/2603.21043)
 - [【arXiv ML】Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888)
-- [【Towards AI】How-Meta’s-TRIBE-v2-Predicts-Human-Brain-Activity-Using-AI](https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4)
 - [【Towards AI】Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4)
+- [【Towards AI】How-Meta’s-TRIBE-v2-Predicts-Human-Brain-Activity-Using-AI](https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -554,10 +554,10 @@
 - [【arXiv ML】The-Economics-of-Builder-Saturation-in-Digital-Markets](https://arxiv.org/abs/2603.23685)
 - [【arXiv ML】SDE-Driven-Spatio-Temporal-Hypergraph-Neural-Networks-for-Irregular-Longitudinal-fMRI-Connectome-Modeling-in-Alzheimer's-Disease](https://arxiv.org/abs/2603.20452)
 - [【Hacker News】RepoFortify-–-Production-readiness-scanner-for-GitHub-repos-free,-no-signup](https://repofortify.com/)
-- [【Hacker News】8,400-GitHub-repos-share-a-naming-convention-that-traces-back-to-South-Park-joke](https://github.com/search)
-- [【Hacker News】Has-GitLab-Felt-into-the-Enshittification?](https://gitlab.com/gitlab-org/gitlab/-/work_items/590689)
-- [【Hacker News】GitHub-has-DMCA'd-nearly-all-forks-of-the-official-Claude-code-repo](https://github.com/anthropics/claude-code/forks)
+- [【Hacker News】'People's-Panel'-to-check-if-UK-wants-controversial-Digital-ID-will-cost-£630K](https://www.theregister.com/2026/04/01/peoples_panel_digital_id/)
 - [【Hacker News】Show-HN:-Nixidy-–-Kubernetes-GitOps-with-Nix-and-Argo-CD](https://nixidy.dev/)
+- [【Hacker News】GitHub-has-DMCA'd-nearly-all-forks-of-the-official-Claude-code-repo](https://github.com/anthropics/claude-code/forks)
+- [【Hacker News】Has-GitLab-Felt-into-the-Enshittification?](https://gitlab.com/gitlab-org/gitlab/-/work_items/590689)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
