@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-03 23:03:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-04 06:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -10,7 +10,6 @@
 - [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618) 
 - [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616) 
 - [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615) 
-- [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614) 
 - [2026-03-16-When-Deno-or-Bun-is-a-Better-Solution-than-Node.js](https://frontendmasters.com/blog/when-deno-or-bun-is-a-better-solution-than-node-js/) 
 - [2026-04-03-Adaptive-Regime-Aware-Stock-Price-Prediction-Using-Autoencoder-Gated-Dual-Node-Transformers-with-Reinforcement-Learning-Control](https://arxiv.org/abs/2603.19136) 
 - [2026-04-03-Smoothing-the-Landscape:-Causal-Structure-Learning-via-Diffusion-Denoising-Objectives](https://arxiv.org/abs/2604.02250) 

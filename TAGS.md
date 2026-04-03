@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-03 23:03:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-04 06:00:54。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -51,13 +51,13 @@
 - [【Towards AI】A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)
 - [【Hacker News】Real-Time-App-Store-IAP-Notifications-via-Telegram-Vercel-Webhook](https://old.reddit.com/r/iOSProgramming/comments/1rn9t4l/realtime_app_store_iap_notifications_via_telegram/)
 - [【Hacker News】A-satellite-smashing-chain-reaction-could-spiral-out-of-control](https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control)
-- [【Hacker News】A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list)
 - [【Hacker News】Scientists-Create-Novel-Organism-with-Primitive-Nervous-System](https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system)
+- [【Hacker News】A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list)
 - [【Hacker News】ViraxLog-–-Tamper-Proof-Logging-Using-Merkle-Trees-and-BLAKE2B-for-Python](https://github.com/damienos61/viraxlog)
-- [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
 - [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
-- [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
+- [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
 - [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
+- [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -117,16 +117,16 @@
 
 - [【JavaScript Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 - [【JavaScript Weekly】It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
-- [【Hacker News】1-Click-authentication-with-new-NPM-package](https://www.npmjs.com/package/react-google-one-tap-extention)
 - [【Hacker News】I-Am-a-Cross-Cutting-Concern:-On-Having-a-Personal-Monorepo](https://scottlawsonbc.com/post/monorepo)
-- [【Hacker News】Top-NPM-package-backdoored-to-drop-dirty-RAT-on-dev-machines](https://www.theregister.com/2026/03/31/axios_npm_backdoor_rat/)
-- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
-- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
+- [【Hacker News】1-Click-authentication-with-new-NPM-package](https://www.npmjs.com/package/react-google-one-tap-extention)
 - [【Hacker News】North-Korea-Nexus-Threat-Actor-Compromises-Widely-Used-Axios-NPM-Package](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/)
-- [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
-- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
-- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
+- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
+- [【Hacker News】Top-NPM-package-backdoored-to-drop-dirty-RAT-on-dev-machines](https://www.theregister.com/2026/03/31/axios_npm_backdoor_rat/)
 - [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
+- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
+- [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
 - [【Hacker News】Show-HN:-Safe-install-–-Docker-first-install-time-hardening-for-pip-and-NPM](https://github.com/Khaeldur/safe-install)
 - [【Wired】Vitesy-Shelfy-2-Smart-Fridge-Purifier-Review:-Small-Box,-Big-Promises](https://www.wired.com/review/vitesy-shelfy-2/)
 - [......【查看更多】......](/details/tags/pack-build.md)
@@ -148,7 +148,6 @@
 - [【Node Weekly】Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618)
 - [【Node Weekly】Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)
 - [【Node Weekly】Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)
-- [【Node Weekly】Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)
 - [【Frontend Masters Blog】When-Deno-or-Bun-is-a-Better-Solution-than-Node.js](https://frontendmasters.com/blog/when-deno-or-bun-is-a-better-solution-than-node-js/)
 - [【arXiv ML】Adaptive-Regime-Aware-Stock-Price-Prediction-Using-Autoencoder-Gated-Dual-Node-Transformers-with-Reinforcement-Learning-Control](https://arxiv.org/abs/2603.19136)
 - [【arXiv ML】Smoothing-the-Landscape:-Causal-Structure-Learning-via-Diffusion-Denoising-Objectives](https://arxiv.org/abs/2604.02250)
@@ -165,6 +164,7 @@
 - [【arXiv ML】Central-to-Local-Adaptive-Generative-Diffusion-Framework-for-Improving-Gene-Expression-Prediction-in-Data-Limited-Spatial-Transcriptomics](https://arxiv.org/abs/2603.26827)
 - [【arXiv ML】A-Tight-Expressivity-Hierarchy-for-GNN-Based-Entity-Resolution-in-Master-Data-Management](https://arxiv.org/abs/2603.27154)
 - [【arXiv ML】Unrestrained-Simplex-Denoising-for-Discrete-Data.-A-Non-Markovian-Approach-Applied-to-Graph-Generation](https://arxiv.org/abs/2603.28572)
+- [【arXiv ML】EVNextTrade:-Learning-to-Rank-Based-Recommendation-of-Next-Charging-Nodes-for-EV-EV-Energy-Trading](https://arxiv.org/abs/2603.26688)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -271,11 +271,9 @@
 
 - [【CSS-Tricks】Making-Complex-CSS-Shapes-Using-shape](https://css-tricks.com/complex-css-shapes-with-shape-function/)
 - [【CSS-Tricks】Sniffing-Out-the-CSS-Olfactive-API](https://css-tricks.com/css-olfactive-api/)
-- [【CSS-Tricks】The-Different-Ways-to-Select-&lt;html&gt;-in-CSS](https://css-tricks.com/the-different-ways-to-select-html-in-css/)
 - [【Smashing Magazine】Beyond-`border-radius`:-What-The-CSS-`corner-shape`-Property-Unlocks-For-Everyday-UI](https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/)
 - [【Frontend Masters Blog】Two-Circles,-One-Arrow,-and-Anchor-Positioning](https://frontendmasters.com/blog/two-circles-one-arrow-and-anchor-positioning/)
 - [【Frontend Masters Blog】Flexbox-Masonry-Layout-Explained-with-Math](https://frontendmasters.com/blog/flexbox-masonry-layout-explained-with-math/)
-- [【Frontend Masters Blog】The-Big-Gotcha-of-Anchor-Positioning](https://frontendmasters.com/blog/the-big-gotcha-of-anchor-positioning/)
 - [【张鑫旭】CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/)
 - [【GitHub Engineering】Continuous-AI-for-accessibility:-How-GitHub-transforms-feedback-into-inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)
 - [【arXiv ML】Wireless-Power-Control-Based-on-Large-Language-Models](https://arxiv.org/abs/2603.00474)
@@ -289,6 +287,8 @@
 - [【arXiv ML】Finite-Time-Analysis-of-Gradient-Descent-for-Shallow-Transformers](https://arxiv.org/abs/2601.16514)
 - [【arXiv ML】Group-Representational-Position-Encoding](https://arxiv.org/abs/2512.07805)
 - [【arXiv ML】Demystifying-Transition-Matching:-When-and-Why-It-Can-Beat-Flow-Matching](https://arxiv.org/abs/2510.17991)
+- [【arXiv ML】GCond:-Gradient-Conflict-Resolution-via-Accumulation-based-Stabilization-for-Large-Scale-Multi-Task-Learning](https://arxiv.org/abs/2509.07252)
+- [【arXiv ML】Meta-Learning-at-Scale-for-Large-Language-Models-via-Low-Rank-Amortized-Bayesian-Meta-Learning](https://arxiv.org/abs/2508.14285)
 - [......【查看更多】......](/details/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -323,8 +323,8 @@
 - [【arXiv ML】Meta-Cognitive-Reinforcement-Learning-with-Self-Doubt-and-Recovery](https://arxiv.org/abs/2601.20193)
 - [【arXiv ML】An-explainable-framework-for-the-relationship-between-dementia-and-glucose-metabolism-patterns](https://arxiv.org/abs/2601.20480)
 - [【arXiv ML】Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888)
-- [【Towards AI】Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4)
 - [【Towards AI】How-Meta’s-TRIBE-v2-Predicts-Human-Brain-Activity-Using-AI](https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4)
+- [【Towards AI】Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -546,8 +546,8 @@
 - [【GitHub Engineering】Updates-to-GitHub-Copilot-interaction-data-usage-policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
 - [【GitHub Engineering】Building-AI-powered-GitHub-issue-triage-with-the-Copilot-SDK](https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/)
 - [【GitHub Engineering】GitHub-expands-application-security-coverage-with-AI‑powered-detections](https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/)
-- [【GitHub Engineering】GitHub-availability-report:-February-2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/)
 - [【GitHub Engineering】Addressing-GitHub’s-recent-availability-issues](https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/)
+- [【GitHub Engineering】GitHub-availability-report:-February-2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/)
 - [【GitHub Engineering】Under-the-hood:-Security-architecture-of-GitHub-Agentic-Workflows](https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/)
 - [【arXiv ML】Lead-Zirconate-Titanate-Reservoir-Computing-for-Classification-of-Written-and-Spoken-Digits](https://arxiv.org/abs/2604.00207)
 - [【arXiv ML】Vocal-Prognostic-Digital-Biomarkers-in-Monitoring-Chronic-Heart-Failure:-A-Longitudinal-Observational-Study](https://arxiv.org/abs/2604.00308)
@@ -556,11 +556,11 @@
 - [【arXiv ML】Digital-Twin-Assisted-Measurement-Design-and-Channel-Statistics-Prediction](https://arxiv.org/abs/2603.23787)
 - [【arXiv ML】Continuous-Time-Learning-of-Probability-Distributions:-A-Case-Study-in-a-Digital-Trial-of-Young-Children-with-Type-1-Diabetes](https://arxiv.org/abs/2603.24427)
 - [【arXiv ML】SDE-Driven-Spatio-Temporal-Hypergraph-Neural-Networks-for-Irregular-Longitudinal-fMRI-Connectome-Modeling-in-Alzheimer's-Disease](https://arxiv.org/abs/2603.20452)
-- [【Hacker News】git-leash---time-focused-controls-for-Git](https://github.com/SiteRelEnby/git-leash)
+- [【Towards AI】The-Hidden-Cost-of-Manual-Intervention-in-Digital-Products](https://pub.towardsai.net/the-hidden-cost-of-manual-intervention-in-digital-products-05427eb8fc88?source=rss----98111c9905da---4)
 - [【Hacker News】Every-Law-a-Commit-–-US-Law-in-GitHub](https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html)
-- [【Hacker News】cla-bot-Is-a-GitHub-Application-for-Automation-of-Contributor-Licence-Agreements](https://colineberhardt.github.io/cla-bot/)
+- [【Hacker News】git-leash---time-focused-controls-for-Git](https://github.com/SiteRelEnby/git-leash)
 - [【Hacker News】RepoFortify-–-Production-readiness-scanner-for-GitHub-repos-free,-no-signup](https://repofortify.com/)
-- [【Hacker News】'People's-Panel'-to-check-if-UK-wants-controversial-Digital-ID-will-cost-£630K](https://www.theregister.com/2026/04/01/peoples_panel_digital_id/)
+- [【Hacker News】cla-bot-Is-a-GitHub-Application-for-Automation-of-Contributor-Licence-Agreements](https://colineberhardt.github.io/cla-bot/)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
