@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-02T22:02:17.412Z</updated>
+    <updated>2026-04-03T00:01:55.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,13 +36,6 @@
         <published>2026-04-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Artemis II is NASA’s last moon mission without Silicon Valley ]]></title>
-        <id>https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/</id>
-        <link href="https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/"/>
-        <updated>2026-04-02T16:00:00.000Z</updated>
-        <published>2026-04-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NASA astronauts prove that sending an email really is rocket science]]></title>
         <id>https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/</id>
         <link href="https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/"/>
@@ -50,9 +43,72 @@
         <published>2026-04-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pandas vs Polars vs DuckDB: A Data Scientist’s Guide to Choosing the Right Tool]]></title>
-        <id>https://pub.towardsai.net/pandas-vs-polars-vs-duckdb-a-data-scientists-guide-to-choosing-the-right-tool-9fd08f8e5119?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/pandas-vs-polars-vs-duckdb-a-data-scientists-guide-to-choosing-the-right-tool-9fd08f8e5119?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Artemis II is NASA’s last moon mission without Silicon Valley ]]></title>
+        <id>https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/</id>
+        <link href="https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/"/>
+        <updated>2026-04-02T16:00:00.000Z</updated>
+        <published>2026-04-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NIH restrictions on foreign research partnerships impacted 1 in 4 scientists]]></title>
+        <id>https://www.statnews.com/2026/03/27/nih-funding-national-researcher-survey-foreign-subaward-ban-impact/</id>
+        <link href="https://www.statnews.com/2026/03/27/nih-funding-national-researcher-survey-foreign-subaward-ban-impact/"/>
+        <updated>2026-04-02T16:00:00.000Z</updated>
+        <published>2026-04-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Army chief of staff fired by Hegseth]]></title>
+        <id>https://www.reuters.com/world/us/hegseth-has-asked-us-army-chief-staff-step-down-cbs-news-reports-2026-04-02/</id>
+        <link href="https://www.reuters.com/world/us/hegseth-has-asked-us-army-chief-staff-step-down-cbs-news-reports-2026-04-02/"/>
+        <updated>2026-04-02T16:00:00.000Z</updated>
+        <published>2026-04-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Law a Commit – US Law in GitHub]]></title>
+        <id>https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html</id>
+        <link href="https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html"/>
+        <updated>2026-04-02T16:00:00.000Z</updated>
+        <published>2026-04-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: SkiFlee (an HTML5 game)]]></title>
+        <id>https://easel.games/@raysplaceinspace/skiflee</id>
+        <link href="https://easel.games/@raysplaceinspace/skiflee"/>
+        <updated>2026-04-02T16:00:00.000Z</updated>
+        <published>2026-04-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: MicroSafe-RL – Sub-microsecond safety layer for Edge AI 1.18µs latency]]></title>
+        <id>https://github.com/Kretski/MicroSafe-RL</id>
+        <link href="https://github.com/Kretski/MicroSafe-RL"/>
+        <updated>2026-04-02T16:00:00.000Z</updated>
+        <published>2026-04-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's getting hard to justify app stores]]></title>
+        <id>https://codemade.net/blog/appstores-are-in-trouble/</id>
+        <link href="https://codemade.net/blog/appstores-are-in-trouble/"/>
+        <updated>2026-04-02T16:00:00.000Z</updated>
+        <published>2026-04-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tor Alva: The Tallest 3D-Printed Building in the World]]></title>
+        <id>https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/</id>
+        <link href="https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/"/>
+        <updated>2026-04-02T16:00:00.000Z</updated>
+        <published>2026-04-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Let a Local AI Read My WhatsApp Group Chats, It Ranked My Friends by Who Actually Cares]]></title>
+        <id>https://pub.towardsai.net/i-let-a-local-ai-read-my-whatsapp-group-chats-it-ranked-my-friends-by-who-actually-cares-3dc27ab3410a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-let-a-local-ai-read-my-whatsapp-group-chats-it-ranked-my-friends-by-who-actually-cares-3dc27ab3410a?source=rss----98111c9905da---4"/>
+        <updated>2026-04-02T16:00:00.000Z</updated>
+        <published>2026-04-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Took 20 Years to Ship 25 Lines of Python]]></title>
+        <id>https://pub.towardsai.net/cuda-tile-gpu-programming-model-1a4bc93ae9b4?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/cuda-tile-gpu-programming-model-1a4bc93ae9b4?source=rss----98111c9905da---4"/>
         <updated>2026-04-02T16:00:00.000Z</updated>
         <published>2026-04-02T16:00:00.000Z</published>
     </entry>
@@ -64,9 +120,9 @@
         <published>2026-04-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NVIDIA Took 20 Years to Ship 25 Lines of Python]]></title>
-        <id>https://pub.towardsai.net/cuda-tile-gpu-programming-model-1a4bc93ae9b4?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/cuda-tile-gpu-programming-model-1a4bc93ae9b4?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[pandas vs Polars vs DuckDB: A Data Scientist’s Guide to Choosing the Right Tool]]></title>
+        <id>https://pub.towardsai.net/pandas-vs-polars-vs-duckdb-a-data-scientists-guide-to-choosing-the-right-tool-9fd08f8e5119?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/pandas-vs-polars-vs-duckdb-a-data-scientists-guide-to-choosing-the-right-tool-9fd08f8e5119?source=rss----98111c9905da---4"/>
         <updated>2026-04-02T16:00:00.000Z</updated>
         <published>2026-04-02T16:00:00.000Z</published>
     </entry>
@@ -148,16 +204,9 @@
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exclusive: Beehiiv expands into podcasting, taking aim at Patreon]]></title>
-        <id>https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/</id>
-        <link href="https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/"/>
-        <updated>2026-04-01T16:00:00.000Z</updated>
-        <published>2026-04-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s natural gas binge could power South Dakota]]></title>
-        <id>https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/</id>
-        <link href="https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/"/>
+        <title type="html"><![CDATA[Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident]]></title>
+        <id>https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/</id>
+        <link href="https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
@@ -169,198 +218,149 @@
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident]]></title>
-        <id>https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/</id>
-        <link href="https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/"/>
+        <title type="html"><![CDATA[Meta’s natural gas binge could power South Dakota]]></title>
+        <id>https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/</id>
+        <link href="https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claw Code – A Full Rewrite of Claude Code in Python]]></title>
-        <id>https://github.com/ultraworkers/claw-code</id>
-        <link href="https://github.com/ultraworkers/claw-code"/>
+        <title type="html"><![CDATA[Exclusive: Beehiiv expands into podcasting, taking aim at Patreon]]></title>
+        <id>https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/</id>
+        <link href="https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[cla-bot Is a GitHub Application for Automation of Contributor Licence Agreements]]></title>
-        <id>https://colineberhardt.github.io/cla-bot/</id>
-        <link href="https://colineberhardt.github.io/cla-bot/"/>
+        <title type="html"><![CDATA[Maki the efficient AI coder – Rust TUI (saves 40% tokens and low RAM)]]></title>
+        <id>https://maki.sh</id>
+        <link href="https://maki.sh"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Declarative paper titles get 3.5x more citations (423 PubMed papers)]]></title>
-        <id>https://academicseo.co.uk/blog/cancer-title-analysis-study.html</id>
-        <link href="https://academicseo.co.uk/blog/cancer-title-analysis-study.html"/>
+        <title type="html"><![CDATA[Melting Himalayan glacier unleashed tsunami at 17,000 feet, shattering lives]]></title>
+        <id>https://www.wsj.com/world/asia/how-a-tsunami-was-unleashed-at-17-000-feet-shattering-lives-below-01e18c99</id>
+        <link href="https://www.wsj.com/world/asia/how-a-tsunami-was-unleashed-at-17-000-feet-shattering-lives-below-01e18c99"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Time to Take Down Your Smart Cameras [video]]]></title>
-        <id>https://www.youtube.com/watch?v=UMIwNiwQewQ</id>
-        <link href="https://www.youtube.com/watch?v=UMIwNiwQewQ"/>
+        <title type="html"><![CDATA[Ask HN: How do you get LLMs to stop spewing corpo speak?]]></title>
+        <id>https://news.ycombinator.com/item?id=47613671</id>
+        <link href="https://news.ycombinator.com/item?id=47613671"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can a country get too rich?]]></title>
-        <id>https://www.economist.com/finance-and-economics/2026/04/01/can-a-country-get-too-rich</id>
-        <link href="https://www.economist.com/finance-and-economics/2026/04/01/can-a-country-get-too-rich"/>
+        <title type="html"><![CDATA[Show HN: Abject: the first self-aware object runtime]]></title>
+        <id>https://blog.mempko.com/an-abject-horror/</id>
+        <link href="https://blog.mempko.com/an-abject-horror/"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TokensTree – collaborative network for AI agents with shared knowledge cache.MIT]]></title>
-        <id>https://tokenstree.com</id>
-        <link href="https://tokenstree.com"/>
+        <title type="html"><![CDATA[Universal diagnostic and monitoring tool for GPUs, TPUs and NPUs]]></title>
+        <id>https://zml.ai/posts/zml-smi/</id>
+        <link href="https://zml.ai/posts/zml-smi/"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Most Important Technology of the Next Decade]]></title>
-        <id>https://boringops.sh/articles/the_most_important_technology_of_the_next_decade/</id>
-        <link href="https://boringops.sh/articles/the_most_important_technology_of_the_next_decade/"/>
+        <title type="html"><![CDATA[WhatsApp notifies users who installed fake app made by government spyware maker]]></title>
+        <id>https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/</id>
+        <link href="https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Iterable Streams in Node.js 25.9.0]]></title>
-        <id>https://nodejs.org/api/stream_iter.html</id>
-        <link href="https://nodejs.org/api/stream_iter.html"/>
+        <title type="html"><![CDATA[Holo3: Breaking the Computer Use Frontier]]></title>
+        <id>https://hcompany.ai/holo3</id>
+        <link href="https://hcompany.ai/holo3"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solar saved Europe €3B in fossil fuel imports in March]]></title>
-        <id>https://www.euronews.com/2026/04/01/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way</id>
-        <link href="https://www.euronews.com/2026/04/01/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way"/>
+        <title type="html"><![CDATA[RepoFortify – Production readiness scanner for GitHub repos (free, no signup)]]></title>
+        <id>https://repofortify.com/</id>
+        <link href="https://repofortify.com/"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebGPU Bench]]></title>
-        <id>https://sylwia-lask.github.io/webgpu-bench/</id>
-        <link href="https://sylwia-lask.github.io/webgpu-bench/"/>
+        <title type="html"><![CDATA[Quad9 Enables DNS over HTTP/3 and DNS over QUIC]]></title>
+        <id>https://quad9.net/news/blog/quad9-enables-dns-over-http-3-and-dns-over-quic/</id>
+        <link href="https://quad9.net/news/blog/quad9-enables-dns-over-http-3-and-dns-over-quic/"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A drop-in replacement and memory-safe TLS back end for Python]]></title>
-        <id>https://github.com/jawah/rtls</id>
-        <link href="https://github.com/jawah/rtls"/>
+        <title type="html"><![CDATA[Nerd meets crazy nerd in random comment section]]></title>
+        <id>https://reverseengineering.stackexchange.com/questions/8549/reverse-engineering-a-proprietary-gpu-device-driver</id>
+        <link href="https://reverseengineering.stackexchange.com/questions/8549/reverse-engineering-a-proprietary-gpu-device-driver"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Extra-Platforms, Python library to detect OS, arch, shell, CI, AI]]></title>
-        <id>https://github.com/kdeldycke/extra-platforms</id>
-        <link href="https://github.com/kdeldycke/extra-platforms"/>
+        <title type="html"><![CDATA[Neuledge Context: Local-first documentation for AI agents]]></title>
+        <id>https://github.com/neuledge/context</id>
+        <link href="https://github.com/neuledge/context"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VR Realizes the Cyberspace Metaphor]]></title>
-        <id>https://yadin.com/notes/vr-disrupts/</id>
-        <link href="https://yadin.com/notes/vr-disrupts/"/>
+        <title type="html"><![CDATA[AI CEO vs. Engineer [video]]]></title>
+        <id>https://www.youtube.com/watch?v=WAUnmQt2Z7Y</id>
+        <link href="https://www.youtube.com/watch?v=WAUnmQt2Z7Y"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebGPU in WASM via Emscripten (Or Dawn)]]></title>
-        <id>https://github.com/juj/wasm_webgpu</id>
-        <link href="https://github.com/juj/wasm_webgpu"/>
+        <title type="html"><![CDATA[Elizabeth I's Manuscript of Pierre Boaistuau's Histoires Prodigieuses (1559)]]></title>
+        <id>https://publicdomainreview.org/collection/histoires-prodigieuses/</id>
+        <link href="https://publicdomainreview.org/collection/histoires-prodigieuses/"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tim Cook (Still) Believes in Crazy Ideas]]></title>
-        <id>https://www.esquire.com/news-politics/a70886045/apple-50th-anniversary/</id>
-        <link href="https://www.esquire.com/news-politics/a70886045/apple-50th-anniversary/"/>
+        <title type="html"><![CDATA[The East India Company in Japan]]></title>
+        <id>https://www.historytoday.com/archive/history-matters/east-india-company-japan</id>
+        <link href="https://www.historytoday.com/archive/history-matters/east-india-company-japan"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Iran targeted Amazon data centers]]></title>
-        <id>https://theconversation.com/why-iran-targeted-amazon-data-centers-and-what-that-does-and-doesnt-change-about-warfare-278642</id>
-        <link href="https://theconversation.com/why-iran-targeted-amazon-data-centers-and-what-that-does-and-doesnt-change-about-warfare-278642"/>
+        <title type="html"><![CDATA[Scroll to the moon. Will Artemis II take us higher than ever before?]]></title>
+        <id>https://www.abc.net.au/news/2026-04-02/the-artemis-ii-mission-to-the-moon/106300532</id>
+        <link href="https://www.abc.net.au/news/2026-04-02/the-artemis-ii-mission-to-the-moon/106300532"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The future of code search is not regex – 100x faster than ripgrep]]></title>
-        <id>https://fff.dmtrkovalenko.dev/</id>
-        <link href="https://fff.dmtrkovalenko.dev/"/>
+        <title type="html"><![CDATA[NASA's Artemis II Live Mission Coverage (Official Broadcast) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=m3kR2KK8TEs</id>
+        <link href="https://www.youtube.com/watch?v=m3kR2KK8TEs"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Python Library in 2026]]></title>
-        <id>https://stephenlf.dev/blog/python-library-in-2026/</id>
-        <link href="https://stephenlf.dev/blog/python-library-in-2026/"/>
+        <title type="html"><![CDATA[The Document Foundation's comment about the Collabora blog post]]></title>
+        <id>https://blog.documentfoundation.org/blog/2026/04/01/comment-about-collabora-blog-post/</id>
+        <link href="https://blog.documentfoundation.org/blog/2026/04/01/comment-about-collabora-blog-post/"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Iron-proxy – An egress firewall for untrusted workloads]]></title>
-        <id>https://github.com/ironsh/iron-proxy</id>
-        <link href="https://github.com/ironsh/iron-proxy"/>
+        <title type="html"><![CDATA[MCP Server turned my NAS into a self-hosted AI assistant]]></title>
+        <id>https://www.xda-developers.com/this-mcp-server-turned-my-nas-into-a-self-hosted-ai-assistant/</id>
+        <link href="https://www.xda-developers.com/this-mcp-server-turned-my-nas-into-a-self-hosted-ai-assistant/"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1 Click authentication with new NPM package]]></title>
-        <id>https://www.npmjs.com/package/react-google-one-tap-extention</id>
-        <link href="https://www.npmjs.com/package/react-google-one-tap-extention"/>
-        <updated>2026-04-01T16:00:00.000Z</updated>
-        <published>2026-04-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Americas military is never coming back from this]]></title>
-        <id>https://indi.ca/americas-military-is-never-coming-back-from-this/</id>
-        <link href="https://indi.ca/americas-military-is-never-coming-back-from-this/"/>
-        <updated>2026-04-01T16:00:00.000Z</updated>
-        <published>2026-04-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaLLM – Metasploit-inspired AI/ML security testing framework]]></title>
-        <id>https://github.com/scthornton/MetaLLM</id>
-        <link href="https://github.com/scthornton/MetaLLM"/>
-        <updated>2026-04-01T16:00:00.000Z</updated>
-        <published>2026-04-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Montana referendum to outlaw corporate campaign contributions [video]]]></title>
-        <id>https://www.youtube.com/watch?v=p1fPbGHe3xE</id>
-        <link href="https://www.youtube.com/watch?v=p1fPbGHe3xE"/>
-        <updated>2026-04-01T16:00:00.000Z</updated>
-        <published>2026-04-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[43 hours battery life: Dell XPS 14 2026 lasts almost 3x longer vs MacBook Air 15]]></title>
-        <id>https://www.notebookcheck.net/43-hours-battery-life-Dell-XPS-14-2026-lasts-almost-3x-longer-vs-MacBook-Air-15-M5-in-web-browsing-test.1262947.0.html</id>
-        <link href="https://www.notebookcheck.net/43-hours-battery-life-Dell-XPS-14-2026-lasts-almost-3x-longer-vs-MacBook-Air-15-M5-in-web-browsing-test.1262947.0.html"/>
-        <updated>2026-04-01T16:00:00.000Z</updated>
-        <published>2026-04-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shared mutable state in Rust (2022)]]></title>
-        <id>https://draft.ryhl.io/blog/shared-mutable-state/</id>
-        <link href="https://draft.ryhl.io/blog/shared-mutable-state/"/>
-        <updated>2026-04-01T16:00:00.000Z</updated>
-        <published>2026-04-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anyone came up with any great format for technical interviews?]]></title>
-        <id>https://news.ycombinator.com/item?id=47607997</id>
-        <link href="https://news.ycombinator.com/item?id=47607997"/>
-        <updated>2026-04-01T16:00:00.000Z</updated>
-        <published>2026-04-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Am a Cross-Cutting Concern: On Having a Personal Monorepo]]></title>
-        <id>https://scottlawsonbc.com/post/monorepo</id>
-        <link href="https://scottlawsonbc.com/post/monorepo"/>
+        <title type="html"><![CDATA[Field Amoeba – virtual creature simulation [video]]]></title>
+        <id>https://www.youtube.com/watch?v=I3Y9OdjFqRs</id>
+        <link href="https://www.youtube.com/watch?v=I3Y9OdjFqRs"/>
         <updated>2026-04-01T16:00:00.000Z</updated>
         <published>2026-04-01T16:00:00.000Z</published>
     </entry>
