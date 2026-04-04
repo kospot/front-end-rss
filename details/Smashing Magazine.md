@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-04 23:02:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-05 06:00:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
@@ -16,4 +16,3 @@
 - [2026-03-12-Beyond-`border-radius`:-What-The-CSS-`corner-shape`-Property-Unlocks-For-Everyday-UI](https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/) 
 - [2026-03-10-Building-Dynamic-Forms-In-React-And-Next.js](https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/) 
 - [2026-03-09-Persuasive-Design:-Ten-Years-Later](https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/) 
-- [2026-03-06-Human-Strategy-In-An-AI-Accelerated-Workflow](https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/) 
