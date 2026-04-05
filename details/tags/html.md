@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-05 15:01:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-05 18:01:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -25,8 +25,8 @@
 - [2026-03-24-Meta-Cognitive-Reinforcement-Learning-with-Self-Doubt-and-Recovery](https://arxiv.org/abs/2601.20193) 
 - [2026-03-24-An-explainable-framework-for-the-relationship-between-dementia-and-glucose-metabolism-patterns](https://arxiv.org/abs/2601.20480) 
 - [2026-03-23-Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888) 
-- [2026-04-01-How-Meta’s-TRIBE-v2-Predicts-Human-Brain-Activity-Using-AI](https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4) 
 - [2026-04-01-Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4) 
+- [2026-04-01-How-Meta’s-TRIBE-v2-Predicts-Human-Brain-Activity-Using-AI](https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4) 
 - [2026-03-26-Meta-Just-Acqui-Hired-Its-4th-AI-Startup-in-4-Months.-Zuckerberg’s-Agent-Empire-Is-Taking-Shape.](https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4) 
 - [2026-04-04-Meta-and-Google-Trial-Loss-Suggests-Product-Design-Is-Big-Tech's-Achilles'-Heel](https://www.law.com/corpcounsel/2026/04/03/meta-and-googles-trial-loss-suggests-product-design-is-big-techs-achilles-heel/) 
 - [2026-04-03-High-Temperature-Superconductivity-of-Pure-Mg-Metals,-UFOs-and-Cuprates](https://news.ycombinator.com/item?id=47627331) 
