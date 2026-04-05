@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-05 12:01:32，:rocket: 更新条数: +1200， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-05 15:01:59，:rocket: 更新条数: +1201， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -111,15 +111,15 @@
 
 
 - [2026-04-02-Making-Complex-CSS-Shapes-Using-shape](https://css-tricks.com/complex-css-shapes-with-shape-function/)  
-- [2026-04-01-Sniffing-Out-the-CSS-Olfactive-API](https://css-tricks.com/css-olfactive-api/)  
 - [2026-04-01-Front-End-Fools:-Top-10-April-Fools’-UI-Pranks-of-All-Time](https://css-tricks.com/front-end-april-fools-top-10/)  
+- [2026-04-01-Sniffing-Out-the-CSS-Olfactive-API](https://css-tricks.com/css-olfactive-api/)  
 - [2026-03-31-What’s-!important-#8:-Light/Dark-Favicons,-@mixin,-object-view-box,-and-More](https://css-tricks.com/whats-important-8/)  
 - [2026-03-30-Form-Automation-Tips-for-Happier-User-and-Clients](https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/)  
 - [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)  
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
+- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [......【查看更多】......](/details/CSS-Tricks.md)
@@ -511,10 +511,10 @@
 - [2026-04-01-not-much-happened-today](https://news.smol.ai/issues/26-04-01-not-much/)  
 - [2026-03-30-not-much-happened-today](https://news.smol.ai/issues/26-03-30-not-much/)  
 - [2026-03-27-not-much-happened-today](https://news.smol.ai/issues/26-03-27-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
 - [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-31-claude-code-leak/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
 - [2026-03-23-not-much-happened-today](https://news.smol.ai/issues/26-03-23-not-much/)  
 - [2026-03-20-not-much-happened-today](https://news.smol.ai/issues/26-03-20-not-much/)  
 - [2026-03-19-not-much-happened-today](https://news.smol.ai/issues/26-03-19-not-much/)  
@@ -669,26 +669,26 @@
 </summary>
 
 
-- [2026-04-05-Show-HN:-A-LinuxCNC-gRPC-Server-with-Clients-in-Rust,-Go,-Python,-Node](https://github.com/dougcalobrisi/linuxcnc-grpc)  
-- [2026-04-05-The-Importance-of-Accurate-Color-Values-2019](https://www.outdoorpainter.com/accurate-color-values/)  
-- [2026-04-05-Show-HN:-Dobby-Layer-–-Tool-to-uncover-hidden-costs-in-crypto-trades-and-fix-it](https://dobbylayer.com/analyze)  
-- [2026-04-05-Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops](http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/)  
-- [2026-04-05-Show-HN:-Lagsim-–-Simulate-real-network-conditions-3G,-WiFi,-Starlink](https://github.com/rs/lagsim)  
-- [2026-04-05-Families-Can-Now-Eat-Some-Fish-from-Hudson-River-for-First-Time-in-50-Years](https://www.health.ny.gov/press/releases/2026/2026-04-01_advice_for_eating_fish.htm)  
-- [2026-04-05-You-gave-a-perfect-demo-–-they-still-said-no](https://www.21-lessons.com/you-gave-a-perfect-demo-they-still-said-no/)  
-- [2026-04-05-SpaceX-Pushes-Back-Crucial-Starship-Test-Launch](https://www.wsj.com/business/spacex-pushes-back-crucial-starship-test-launch-e1fb91f5)  
-- [2026-04-05-Discovery-of-capability-overhangs-via-wiki-writing](https://news.ycombinator.com/item?id=47645237)  
-- [2026-04-05-Brain-scans-reveal-how-to-enters-a-psychedelic-like-trance-without-drugs](https://www.psypost.org/brain-scans-reveal-how-a-woman-voluntarily-enters-a-psychedelic-like-trance-without-drugs/)  
-- [2026-04-05-I-built-an-autoresearch-loop-for-performance-engineering-27%-speedup-hashtable](https://bluuewhale.github.io/posts/i-automated-my-way-to-a-27-percent-faster-hash-table/)  
-- [2026-04-05-Black-Hat-USA-2025-–-HTTP/1.1-Must-Die-the-Desync-Endgame-video](https://www.youtube.com/watch?v=FJbuAyxTTWc)  
-- [2026-04-05-Cuneicode---Exact-rational-arithmetic.-Quantum-computing-stdlib.](https://github.com/enkimecca/cuneicode)  
-- [2026-04-05-The-secrets-of-black-holes-and-the-Higgs-mass-could-be-hidden-in-a-7D-geometry](https://phys.org/news/2026-04-secrets-black-holes-higgs-mass.html)  
-- [2026-04-05-Mirror's-Edge-Early-Prototype-Feb-7,-2008-video](https://www.youtube.com/watch?v=bPd-kEu60LI)  
-- [2026-04-05-Isseven](https://isseven.app/)  
-- [2026-04-05-Heavy-Wizardry-101-Official-Repo](https://github.com/0x00pf/heavywizardry101)  
-- [2026-04-05-Ask-HN:-Will-AI-agents-replace-data-scientists-or-make-them-better?](https://news.ycombinator.com/item?id=47645141)  
-- [2026-04-05-Mission-to-Recover-Downed-F-15E-Aircrew](https://theaviationist.com/2026/04/04/csar-in-the-spotlight/)  
-- [2026-04-05-We-Score-MCP-Servers-–-and-Why-We-Rebuilt-It-from-Scratch](https://mcppedia.org/blog/2026-04-04-how-we-score-mcp-servers)  
+- [2026-04-05-Pre-Critical-Recursive-Cutoff:-A-Boundary-Condition-for-AI-Irreversibility](https://zenodo.org/records/18824181)  
+- [2026-04-05-The-Spaceballs-sequel-will-be-released-in-April-next-year](https://www.engadget.com/entertainment/tv-movies/the-spaceballs-sequel-will-be-released-in-april-next-year-213543871.html)  
+- [2026-04-05-Don't-Buy-the-DGX-Spark:-NVFP4-Still-Missing-After-6-Months](https://old.reddit.com/r/LocalLLaMA/comments/1scf1x8/dont_buy_the_dgx_spark_nvfp4_still_missing_after/)  
+- [2026-04-05-Anyone-else-having-a-terrible-experience-with-Claude-Code's-remote-control?](https://news.ycombinator.com/item?id=47645915)  
+- [2026-04-05-Anthropic-blocks-OpenClaw-from-Claude-subscriptions-in-cost-crackdown](https://thenextweb.com/news/anthropic-openclaw-claude-subscription-ban-cost)  
+- [2026-04-05-Live-Artemis-II-position-tracker](https://issinfo.net/artemis)  
+- [2026-04-05-Quantum-computers-need-fewer-resources-than-thought-to-break-vital-encryption](https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/)  
+- [2026-04-05-China's-"pig-semen-eyedrop"-could-help-deliver-Alzheimer's-treatment](https://www.scmp.com/news/china/science/article/3348726/chinas-brain-penetrating-pig-semen-eyedrop-may-treat-alzheimers-scientist-australia)  
+- [2026-04-05-Remember-Their-Names](https://visualizingpalestine.org/visual/end-30-billion-of-us-military-aid-to-israel-green-jobs/)  
+- [2026-04-05-Web-server-ratelimits-are-a-precaution-to-let-me-stop-worrying](https://utcc.utoronto.ca/~cks/space/blog/web/RatelimitsAreAPrecaution)  
+- [2026-04-05-After-Fighting-Malware-for-Decades,-Cybersecurity-Vet-Now-Hacking-Drones](https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/)  
+- [2026-04-05-How-Pope-Leo-is-pushing-back-on-divine-justification-of-war](https://www.cnn.com/2026/04/04/middleeast/pope-leo-iran-war-analysis-latam-intl)  
+- [2026-04-05-AGI-Is-Here](https://breaking-changes.blog/agi-is-here/)  
+- [2026-04-05-Show-HN:-Yoink-functionality-from-dependencies-and-avoid-supply-chain-attacks](https://github.com/theogbrand/yoink)  
+- [2026-04-05-Half-of-social-science-studies-fail-replication-test-in-years-long-project](https://www.nature.com/articles/d41586-026-00955-5)  
+- [2026-04-05-The-Rise-of-Worse-Is-Better](https://dreamsongs.com/RiseOfWorseIsBetter.html)  
+- [2026-04-05-Show-HN:-mailtrim-–-find-what's-actually-filling-your-Gmail-inbox](https://news.ycombinator.com/item?id=47645719)  
+- [2026-04-05-Explore-union-types-in-C#-15](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/)  
+- [2026-04-05-Mlx-VLM:-Fast-Local-VLMs-and-Omni-Models-on-Apple-Silicon-with-MLX](https://github.com/Blaizzy/mlx-vlm)  
+- [2026-04-05-Write-Your-Own-Copy](https://news.ycombinator.com/item?id=47644774)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
