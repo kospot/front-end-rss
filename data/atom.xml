@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-06T07:02:15.894Z</updated>
+    <updated>2026-04-06T10:02:41.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[5 Mysteries That the Artemis Missions to the Moon Could Finally Solve]]></title>
+        <id>https://www.wired.com/story/5-mysteries-that-the-artemis-missions-to-the-moon-could-finally-solve/</id>
+        <link href="https://www.wired.com/story/5-mysteries-that-the-artemis-missions-to-the-moon-could-finally-solve/"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[As people look for ways to make new friends, here are the apps promising to help]]></title>
         <id>https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/</id>
@@ -29,121 +36,51 @@
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shadowing a British Blood Biker on Shift [video]]]></title>
-        <id>https://www.youtube.com/watch?v=N-lJbkNSeO8</id>
-        <link href="https://www.youtube.com/watch?v=N-lJbkNSeO8"/>
+        <title type="html"><![CDATA[Show HN: Free AI Business Name Generator with Domain Screening]]></title>
+        <id>https://noetron.ai/namegen</id>
+        <link href="https://noetron.ai/namegen"/>
         <updated>2026-04-05T16:00:00.000Z</updated>
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Overwrite This Website]]></title>
-        <id>https://overwritten.site</id>
-        <link href="https://overwritten.site"/>
+        <title type="html"><![CDATA[Auto read and summarize bookmarked X posts and Substack newsletters – feedback?]]></title>
+        <id>https://readingnotes.ai/producthunt</id>
+        <link href="https://readingnotes.ai/producthunt"/>
         <updated>2026-04-05T16:00:00.000Z</updated>
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Aiaiai.guide: Plain-English mental model for LLM apps, tools and agents]]></title>
-        <id>https://aiaiai.guide/</id>
-        <link href="https://aiaiai.guide/"/>
+        <title type="html"><![CDATA[How Paris swapped cars for bikes – and transformed its streets]]></title>
+        <id>https://www.theguardian.com/world/2026/apr/05/how-paris-swapped-cars-for-bikes-and-remade-its-streets</id>
+        <link href="https://www.theguardian.com/world/2026/apr/05/how-paris-swapped-cars-for-bikes-and-remade-its-streets"/>
         <updated>2026-04-05T16:00:00.000Z</updated>
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blast from the Past [video]]]></title>
-        <id>https://www.youtube.com/watch?v=lwawPMSJins</id>
-        <link href="https://www.youtube.com/watch?v=lwawPMSJins"/>
+        <title type="html"><![CDATA[On the brink of disaster]]></title>
+        <id>https://www.taxresearch.org.uk/Blog/2026/04/06/on-the-brink-of-disaster/</id>
+        <link href="https://www.taxresearch.org.uk/Blog/2026/04/06/on-the-brink-of-disaster/"/>
         <updated>2026-04-05T16:00:00.000Z</updated>
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Endless Goodbye]]></title>
-        <id>https://www.theatlantic.com/family/2026/04/death-dementia/686552/</id>
-        <link href="https://www.theatlantic.com/family/2026/04/death-dementia/686552/"/>
+        <title type="html"><![CDATA[Show HN: I just built a MCP Server that connects Claude to all your wearables]]></title>
+        <id>https://pacetraining.co/</id>
+        <link href="https://pacetraining.co/"/>
         <updated>2026-04-05T16:00:00.000Z</updated>
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Vim Navigator – MCP server that lets AI agents drive your Neovim]]></title>
-        <id>https://github.com/kcaldas/vim-navigator</id>
-        <link href="https://github.com/kcaldas/vim-navigator"/>
+        <title type="html"><![CDATA[Tips and tricks to avoid cloning in Rust]]></title>
+        <id>https://antoine.vandecreme.net/blog/avoiding-clone/</id>
+        <link href="https://antoine.vandecreme.net/blog/avoiding-clone/"/>
         <updated>2026-04-05T16:00:00.000Z</updated>
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reasons Mastodon won't survive (2017)]]></title>
-        <id>https://mashable.com/article/mastodon-wont-survive</id>
-        <link href="https://mashable.com/article/mastodon-wont-survive"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report]]></title>
-        <id>https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html</id>
-        <link href="https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI videos fuel rhetoric as Orbán bids for four more years in Hungary]]></title>
-        <id>https://www.bbc.com/news/articles/c5yj97yd6v5o</id>
-        <link href="https://www.bbc.com/news/articles/c5yj97yd6v5o"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing Baby Screensaver. 1996 (original music) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=LlG9yYW6Bi8</id>
-        <link href="https://www.youtube.com/watch?v=LlG9yYW6Bi8"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Code Reviews]]></title>
-        <id>https://i0exception.substack.com/p/rethinking-code-reviews</id>
-        <link href="https://i0exception.substack.com/p/rethinking-code-reviews"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Any Interesting Niche Hobbies?]]></title>
-        <id>https://news.ycombinator.com/item?id=47654062</id>
-        <link href="https://news.ycombinator.com/item?id=47654062"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 'enshittification' of the internet explained [video]]]></title>
-        <id>https://www.youtube.com/watch?v=dCVUCdg3Uqc</id>
-        <link href="https://www.youtube.com/watch?v=dCVUCdg3Uqc"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TreeSheets: Free Form Data Organizer (Hierarchical Spreadsheet)]]></title>
-        <id>https://strlen.com/treesheets/</id>
-        <link href="https://strlen.com/treesheets/"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump proposes steep cut to NASA budget as astronauts head for the Moon]]></title>
-        <id>https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/</id>
-        <link href="https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AissenceAI – Real-time AI interview copilot]]></title>
-        <id>https://www.aissence.ai/</id>
-        <link href="https://www.aissence.ai/"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSH to any machine without IP]]></title>
-        <id>https://github.com/rustonbsd/iroh-ssh</id>
-        <link href="https://github.com/rustonbsd/iroh-ssh"/>
+        <title type="html"><![CDATA[The story of one failed digital transformation]]></title>
+        <id>https://blogs.lse.ac.uk/businessreview/2026/03/18/the-story-of-one-failed-digital-transformation/</id>
+        <link href="https://blogs.lse.ac.uk/businessreview/2026/03/18/the-story-of-one-failed-digital-transformation/"/>
         <updated>2026-04-05T16:00:00.000Z</updated>
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
@@ -155,9 +92,121 @@
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The story of one failed digital transformation]]></title>
-        <id>https://blogs.lse.ac.uk/businessreview/2026/03/18/the-story-of-one-failed-digital-transformation/</id>
-        <link href="https://blogs.lse.ac.uk/businessreview/2026/03/18/the-story-of-one-failed-digital-transformation/"/>
+        <title type="html"><![CDATA[SSH to any machine without IP]]></title>
+        <id>https://github.com/rustonbsd/iroh-ssh</id>
+        <link href="https://github.com/rustonbsd/iroh-ssh"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AissenceAI – Real-time AI interview copilot]]></title>
+        <id>https://www.aissence.ai/</id>
+        <link href="https://www.aissence.ai/"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump proposes steep cut to NASA budget as astronauts head for the Moon]]></title>
+        <id>https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/</id>
+        <link href="https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TreeSheets: Free Form Data Organizer (Hierarchical Spreadsheet)]]></title>
+        <id>https://strlen.com/treesheets/</id>
+        <link href="https://strlen.com/treesheets/"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 'enshittification' of the internet explained [video]]]></title>
+        <id>https://www.youtube.com/watch?v=dCVUCdg3Uqc</id>
+        <link href="https://www.youtube.com/watch?v=dCVUCdg3Uqc"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Any Interesting Niche Hobbies?]]></title>
+        <id>https://news.ycombinator.com/item?id=47654062</id>
+        <link href="https://news.ycombinator.com/item?id=47654062"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Code Reviews]]></title>
+        <id>https://i0exception.substack.com/p/rethinking-code-reviews</id>
+        <link href="https://i0exception.substack.com/p/rethinking-code-reviews"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dancing Baby Screensaver. 1996 (original music) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=LlG9yYW6Bi8</id>
+        <link href="https://www.youtube.com/watch?v=LlG9yYW6Bi8"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI videos fuel rhetoric as Orbán bids for four more years in Hungary]]></title>
+        <id>https://www.bbc.com/news/articles/c5yj97yd6v5o</id>
+        <link href="https://www.bbc.com/news/articles/c5yj97yd6v5o"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report]]></title>
+        <id>https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html</id>
+        <link href="https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reasons Mastodon won't survive (2017)]]></title>
+        <id>https://mashable.com/article/mastodon-wont-survive</id>
+        <link href="https://mashable.com/article/mastodon-wont-survive"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Vim Navigator – MCP server that lets AI agents drive your Neovim]]></title>
+        <id>https://github.com/kcaldas/vim-navigator</id>
+        <link href="https://github.com/kcaldas/vim-navigator"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Endless Goodbye]]></title>
+        <id>https://www.theatlantic.com/family/2026/04/death-dementia/686552/</id>
+        <link href="https://www.theatlantic.com/family/2026/04/death-dementia/686552/"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blast from the Past [video]]]></title>
+        <id>https://www.youtube.com/watch?v=lwawPMSJins</id>
+        <link href="https://www.youtube.com/watch?v=lwawPMSJins"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Aiaiai.guide: Plain-English mental model for LLM apps, tools and agents]]></title>
+        <id>https://aiaiai.guide/</id>
+        <link href="https://aiaiai.guide/"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwrite This Website]]></title>
+        <id>https://overwritten.site</id>
+        <link href="https://overwritten.site"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadowing a British Blood Biker on Shift [video]]]></title>
+        <id>https://www.youtube.com/watch?v=N-lJbkNSeO8</id>
+        <link href="https://www.youtube.com/watch?v=N-lJbkNSeO8"/>
         <updated>2026-04-05T16:00:00.000Z</updated>
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
@@ -313,55 +362,6 @@ in 5 Minutes]]></title>
         <title type="html"><![CDATA[Prism: Policy Reuse via Interpretable Strategy Mapping in Reinforcement Learning]]></title>
         <id>https://arxiv.org/abs/2604.02353</id>
         <link href="https://arxiv.org/abs/2604.02353"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation]]></title>
-        <id>https://arxiv.org/abs/2604.02355</id>
-        <link href="https://arxiv.org/abs/2604.02355"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YC Bench: a Live Benchmark for Forecasting Startup Outperformance in Y Combinator Batches]]></title>
-        <id>https://arxiv.org/abs/2604.02378</id>
-        <link href="https://arxiv.org/abs/2604.02378"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamical structure of vanishing gradient and overfitting in multi-layer perceptrons]]></title>
-        <id>https://arxiv.org/abs/2604.02393</id>
-        <link href="https://arxiv.org/abs/2604.02393"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix Profile for Time-Series Anomaly Detection: A Reproducible Open-Source Benchmark on TSB-AD]]></title>
-        <id>https://arxiv.org/abs/2604.02445</id>
-        <link href="https://arxiv.org/abs/2604.02445"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do We Need Frontier Models to Verify Mathematical Proofs?]]></title>
-        <id>https://arxiv.org/abs/2604.02450</id>
-        <link href="https://arxiv.org/abs/2604.02450"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEDGE: Structural Extrapolated Data Generation]]></title>
-        <id>https://arxiv.org/abs/2604.02482</id>
-        <link href="https://arxiv.org/abs/2604.02482"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Causal-Audit: A Framework for Risk Assessment of Assumption Violations in Time-Series Causal Discovery]]></title>
-        <id>https://arxiv.org/abs/2604.02488</id>
-        <link href="https://arxiv.org/abs/2604.02488"/>
         <updated>2026-04-05T16:00:00.000Z</updated>
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
