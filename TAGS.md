@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-06 08:01:52。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-06 10:02:02。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -323,8 +323,8 @@
 - [【arXiv ML】Meta-Cognitive-Reinforcement-Learning-with-Self-Doubt-and-Recovery](https://arxiv.org/abs/2601.20193)
 - [【arXiv ML】An-explainable-framework-for-the-relationship-between-dementia-and-glucose-metabolism-patterns](https://arxiv.org/abs/2601.20480)
 - [【arXiv ML】Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888)
-- [【Towards AI】Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4)
 - [【Towards AI】How-Meta’s-TRIBE-v2-Predicts-Human-Brain-Activity-Using-AI](https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4)
+- [【Towards AI】Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

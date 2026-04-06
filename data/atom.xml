@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-06T00:01:52.589Z</updated>
+    <updated>2026-04-06T02:02:02.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -106,23 +106,10 @@
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Missing Guide: Configuring OpenClaw on AWS Lightsail in Under 30 Minutes]]></title>
-        <id>https://pub.towardsai.net/the-missing-guide-configuring-openclaw-on-aws-lightsail-in-under-30-minutes-844bd6a9c8f0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-missing-guide-configuring-openclaw-on-aws-lightsail-in-under-30-minutes-844bd6a9c8f0?source=rss----98111c9905da---4"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Copied OpenClaw’s Features, Then Banned OpenClaw. Here’s the Proof.]]></title>
-        <id>https://pub.towardsai.net/anthropic-copied-openclaws-features-then-banned-openclaw-here-s-the-proof-a64f8f9a9a7f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/anthropic-copied-openclaws-features-then-banned-openclaw-here-s-the-proof-a64f8f9a9a7f?source=rss----98111c9905da---4"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get the Most Out of Claude Code]]></title>
-        <id>https://pub.towardsai.net/how-to-get-the-most-out-of-claude-code-85723dcfd347?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-get-the-most-out-of-claude-code-85723dcfd347?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Learn Transformers (LLMs)
+in 5 Minutes]]></title>
+        <id>https://pub.towardsai.net/learn-transformers-llms-in-5-minutes-3a8de1b04268?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/learn-transformers-llms-in-5-minutes-3a8de1b04268?source=rss----98111c9905da---4"/>
         <updated>2026-04-05T16:00:00.000Z</updated>
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
@@ -134,10 +121,23 @@
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Transformers (LLMs)
-in 5 Minutes]]></title>
-        <id>https://pub.towardsai.net/learn-transformers-llms-in-5-minutes-3a8de1b04268?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/learn-transformers-llms-in-5-minutes-3a8de1b04268?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How to Get the Most Out of Claude Code]]></title>
+        <id>https://pub.towardsai.net/how-to-get-the-most-out-of-claude-code-85723dcfd347?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-get-the-most-out-of-claude-code-85723dcfd347?source=rss----98111c9905da---4"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Copied OpenClaw’s Features, Then Banned OpenClaw. Here’s the Proof.]]></title>
+        <id>https://pub.towardsai.net/anthropic-copied-openclaws-features-then-banned-openclaw-here-s-the-proof-a64f8f9a9a7f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/anthropic-copied-openclaws-features-then-banned-openclaw-here-s-the-proof-a64f8f9a9a7f?source=rss----98111c9905da---4"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <published>2026-04-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Missing Guide: Configuring OpenClaw on AWS Lightsail in Under 30 Minutes]]></title>
+        <id>https://pub.towardsai.net/the-missing-guide-configuring-openclaw-on-aws-lightsail-in-under-30-minutes-844bd6a9c8f0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-missing-guide-configuring-openclaw-on-aws-lightsail-in-under-30-minutes-844bd6a9c8f0?source=rss----98111c9905da---4"/>
         <updated>2026-04-05T16:00:00.000Z</updated>
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>

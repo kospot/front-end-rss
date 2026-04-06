@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-06 08:01:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-06 10:02:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -229,8 +229,8 @@
 - [2026-04-04-Understanding-Positional-Embeddings-in-Transformers-with-Intuition-and-Examples](https://pub.towardsai.net/understanding-positional-embeddings-in-transformers-with-intuition-and-examples-bfd88cedd4c4?source=rss----98111c9905da---4) 
 - [2026-04-03-The-Softmax-Function-Every-Transformer-Uses-is-the-Boltzmann-Distribution-—-Not-Inspired-by-It,-Not…](https://pub.towardsai.net/the-softmax-function-every-transformer-uses-is-the-boltzmann-distribution-not-inspired-by-it-not-080fb2036918?source=rss----98111c9905da---4) 
 - [2026-03-30-The-Scissor-Effect:-Quantifying-the-Transition-from-Unstructured-DevOps-to-Product-Led-Platform…](https://pub.towardsai.net/platform-engineering-adoption-by-a-company-case-study-a874c070ab91?source=rss----98111c9905da---4) 
-- [2026-03-27-Amazon’s-AI-Health-Tool-Transforms-Medical-Navigation](https://pub.towardsai.net/amazons-ai-health-tool-transforms-medical-navigation-e07879534091?source=rss----98111c9905da---4) 
 - [2026-03-27-Why-I-Built-Per-Agent-Model-Routing-—-And-What-It-Reveals-About-AI-Cost-at-Scale](https://pub.towardsai.net/why-i-built-per-agent-model-routing-and-what-it-reveals-about-ai-cost-at-scale-1ae16d5833c3?source=rss----98111c9905da---4) 
+- [2026-03-27-Amazon’s-AI-Health-Tool-Transforms-Medical-Navigation](https://pub.towardsai.net/amazons-ai-health-tool-transforms-medical-navigation-e07879534091?source=rss----98111c9905da---4) 
 - [2026-03-26-The-Death-of-the-Middleware:-How-I-Built-a-Serverless-AI-Resume-Parser-on-Android](https://pub.towardsai.net/building-serverless-ai-features-on-android-structuring-chaos-with-firebase-ai-logic-ca15eae810d8?source=rss----98111c9905da---4) 
 - [2026-04-06-The-Endless-Goodbye](https://www.theatlantic.com/family/2026/04/death-dementia/686552/) 
 - [2026-04-05-Live-Artemis-II-position-tracker](https://issinfo.net/artemis) 
