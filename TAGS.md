@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-07 12:02:07。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-07 15:01:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -52,12 +52,12 @@
 - [【Hacker News】Nutrax-–-a-social-calorie-tracking-app-with-AI-food-scanning-iOS](https://apps.apple.com/no/app/nutrax-ai-food-tracker/id6761395869)
 - [【Hacker News】Real-Time-App-Store-IAP-Notifications-via-Telegram-Vercel-Webhook](https://old.reddit.com/r/iOSProgramming/comments/1rn9t4l/realtime_app_store_iap_notifications_via_telegram/)
 - [【Hacker News】A-satellite-smashing-chain-reaction-could-spiral-out-of-control](https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control)
-- [【Hacker News】A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list)
 - [【Hacker News】Scientists-Create-Novel-Organism-with-Primitive-Nervous-System](https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system)
+- [【Hacker News】A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list)
 - [【Hacker News】ViraxLog-–-Tamper-Proof-Logging-Using-Merkle-Trees-and-BLAKE2B-for-Python](https://github.com/damienos61/viraxlog)
-- [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
 - [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
-- [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
+- [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
+- [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -119,16 +119,17 @@
 - [【JavaScript Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 - [【JavaScript Weekly】It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
 - [【Hacker News】Show-HN:-CacheZero-–-Karpathy's-LLM-wiki-idea-as-one-NPM-install](https://news.ycombinator.com/item?id=47667723)
-- [【Hacker News】1-Click-authentication-with-new-NPM-package](https://www.npmjs.com/package/react-google-one-tap-extention)
+- [【Hacker News】58%-of-PRs-in-our-largest-monorepo-merge-without-human-review](https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review)
 - [【Hacker News】I-Am-a-Cross-Cutting-Concern:-On-Having-a-Personal-Monorepo](https://scottlawsonbc.com/post/monorepo)
-- [【Hacker News】Top-NPM-package-backdoored-to-drop-dirty-RAT-on-dev-machines](https://www.theregister.com/2026/03/31/axios_npm_backdoor_rat/)
-- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
-- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
+- [【Hacker News】1-Click-authentication-with-new-NPM-package](https://www.npmjs.com/package/react-google-one-tap-extention)
 - [【Hacker News】North-Korea-Nexus-Threat-Actor-Compromises-Widely-Used-Axios-NPM-Package](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/)
-- [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
-- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
-- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
+- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
+- [【Hacker News】Top-NPM-package-backdoored-to-drop-dirty-RAT-on-dev-machines](https://www.theregister.com/2026/03/31/axios_npm_backdoor_rat/)
 - [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
+- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
+- [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
 - [【Hacker News】Show-HN:-Safe-install-–-Docker-first-install-time-hardening-for-pip-and-NPM](https://github.com/Khaeldur/safe-install)
 - [【Wired】Vitesy-Shelfy-2-Smart-Fridge-Purifier-Review:-Small-Box,-Big-Promises](https://www.wired.com/review/vitesy-shelfy-2/)
 - [......【查看更多】......](/details/tags/pack-build.md)
@@ -218,6 +219,7 @@
 
 
 
+- [【少数派】互联网，电子游戏与屏幕之后的个人健康](https://sspai.com/post/108322)
 - [【少数派】看见-App-Store-生态的更多可能，Tim-Cook-会见中国游戏开发者](https://sspai.com/post/107642)
 - [......【查看更多】......](/details/tags/dev-game.md)
 
@@ -562,7 +564,7 @@
 - [【Towards AI】The-Hidden-Cost-of-Manual-Intervention-in-Digital-Products](https://pub.towardsai.net/the-hidden-cost-of-manual-intervention-in-digital-products-05427eb8fc88?source=rss----98111c9905da---4)
 - [【Hacker News】Show-HN:-Coding-Planets-–-turn-GitHub-contributions-into-sound-and-space](https://joaonetto.me/projects/music/)
 - [【Hacker News】GitHub-Watch](https://rohanadwankar.github.io/github_watch/)
-- [【Hacker News】git-leash---time-focused-controls-for-Git](https://github.com/SiteRelEnby/git-leash)
+- [【Hacker News】Every-Law-a-Commit-–-US-Law-in-GitHub](https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -582,6 +584,7 @@
 - [【阮一峰】科技爱好者周刊（第-389-期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html)
 - [【Hacker News】AI-dolls-offer-companionship-to-the-elderly](https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd)
 - [【Hacker News】Kentucky-family-rejects-$$26M-offer-to-convert-farm-into-data-center](https://twitter.com/CollinRugg/status/2036237284601913674)
+- [【TechCrunch】AI-startup-Rocket-offers-vibe-McKinsey-style-reports-at-a-fraction-of-the-cost](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)
 - [【TechCrunch】Uber-is-buying-Berlin-startup-Blacklane-to-bolster-its-‘Elite’-offering](https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/)
 - [【TechCrunch】Mark-Zuckerberg-texted-Elon-Musk-to-offer-help-with-DOGE](https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/)
 - [【TechCrunch】Kentucky-woman-rejects-$26M-offer-to-turn-her-farm-into-a-data-center](https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/)
