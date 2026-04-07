@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-07T07:01:17.962Z</updated>
+    <updated>2026-04-07T10:01:47.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,23 +22,9 @@
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Europe Gets Serious About Age Verification Online]]></title>
-        <id>https://www.wired.com/story/europe-gets-serious-about-age-verification-online/</id>
-        <link href="https://www.wired.com/story/europe-gets-serious-about-age-verification-online/"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$50 Target Promo Code & Coupons | April 2026]]></title>
-        <id>https://www.wired.com/story/target-promo-code/</id>
-        <link href="https://www.wired.com/story/target-promo-code/"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$100 Off Shark Promo Code | This April]]></title>
-        <id>https://www.wired.com/story/shark-promo-code/</id>
-        <link href="https://www.wired.com/story/shark-promo-code/"/>
+        <title type="html"><![CDATA[Border Patrol Agents Sold Challenge Coins With ‘Charlotte’s Web’ Characters in Riot Gear]]></title>
+        <id>https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/</id>
+        <link href="https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
@@ -50,9 +36,23 @@
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Border Patrol Agents Sold Challenge Coins With ‘Charlotte’s Web’ Characters in Riot Gear]]></title>
-        <id>https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/</id>
-        <link href="https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/"/>
+        <title type="html"><![CDATA[$100 Off Shark Promo Code | This April]]></title>
+        <id>https://www.wired.com/story/shark-promo-code/</id>
+        <link href="https://www.wired.com/story/shark-promo-code/"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$50 Target Promo Code & Coupons | April 2026]]></title>
+        <id>https://www.wired.com/story/target-promo-code/</id>
+        <link href="https://www.wired.com/story/target-promo-code/"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europe Gets Serious About Age Verification Online]]></title>
+        <id>https://www.wired.com/story/europe-gets-serious-about-age-verification-online/</id>
+        <link href="https://www.wired.com/story/europe-gets-serious-about-age-verification-online/"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
@@ -78,191 +78,30 @@
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TriAttention: Efficient Long Reasoning with Trigonometric KV Compression]]></title>
-        <id>https://weianmao.github.io/tri-attention-project-page/</id>
-        <link href="https://weianmao.github.io/tri-attention-project-page/"/>
+        <title type="html"><![CDATA[Breaking the console: a brief history of video game security]]></title>
+        <id>https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/</id>
+        <link href="https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When War Crimes Rhetoric Becomes Battlefield Reality]]></title>
-        <id>https://www.justsecurity.org/135797/war-crimes-rhetoric-power-plants-iran/</id>
-        <link href="https://www.justsecurity.org/135797/war-crimes-rhetoric-power-plants-iran/"/>
+        <title type="html"><![CDATA[TraceFix – paste a Linux/SSH log error, get the root cause and fix command]]></title>
+        <id>https://tracefix.vercel.app/</id>
+        <link href="https://tracefix.vercel.app/"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Good Taste" Is Just Experience]]></title>
-        <id>https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/</id>
-        <link href="https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/"/>
+        <title type="html"><![CDATA[CricketBrain: Neuromorphic signal processor in Rust (0.175us/step, 944 bytes)]]></title>
+        <id>https://github.com/BEKO2210/cricket-brain</id>
+        <link href="https://github.com/BEKO2210/cricket-brain"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abraham Lincoln Invented Pro Wrestling's Chokeslam (2020)]]></title>
-        <id>https://fanbuzz.com/pro-wrestling/who-invented-the-chokeslam/</id>
-        <link href="https://fanbuzz.com/pro-wrestling/who-invented-the-chokeslam/"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of America's Largest 3D Print Farms Started in a Closet]]></title>
-        <id>https://www.thestartupstorys.com/2026/03/kason-knight-3d-print-farm-revenue-cut-startup-story.html</id>
-        <link href="https://www.thestartupstorys.com/2026/03/kason-knight-3d-print-farm-revenue-cut-startup-story.html"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As Meta Flounders, It Reportedly Plans to Open Source Its New AI Models]]></title>
-        <id>https://gizmodo.com/as-meta-flounders-it-reportedly-plans-to-open-source-its-new-ai-models-2000743047</id>
-        <link href="https://gizmodo.com/as-meta-flounders-it-reportedly-plans-to-open-source-its-new-ai-models-2000743047"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[58% of PRs in our largest monorepo merge without human review]]></title>
-        <id>https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review</id>
-        <link href="https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: The two storage engine families behind every database (animated) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=c4YtYzyAf3I</id>
-        <link href="https://www.youtube.com/watch?v=c4YtYzyAf3I"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bezier drawing tool w infinite zoom]]></title>
-        <id>https://fatih-erikli-potato.github.io/path-draw/</id>
-        <link href="https://fatih-erikli-potato.github.io/path-draw/"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw Plugin for Claude Code CLI – Persistent Worker Pool with Smart OAuth]]></title>
-        <id>https://github.com/AlexChen31337/openclaw-plugin-claude-code</id>
-        <link href="https://github.com/AlexChen31337/openclaw-plugin-claude-code"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astronauts Dedicate Moon Crater to Carroll Wiseman, Wife of NASA Commander]]></title>
-        <id>https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html</id>
-        <link href="https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training mRNA Language Models Across 25 Species for $165]]></title>
-        <id>https://huggingface.co/blog/OpenMed/training-mrna-models-25-species</id>
-        <link href="https://huggingface.co/blog/OpenMed/training-mrna-models-25-species"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATS Resume Builder – Build an ATS friendly resume and get more interviews]]></title>
-        <id>https://ats-resume.com</id>
-        <link href="https://ats-resume.com"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I set up a static blog that can be updated just by email]]></title>
-        <id>https://knxnts.xyz/blog-4.6.26.html</id>
-        <link href="https://knxnts.xyz/blog-4.6.26.html"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Psychic Powers Live TV Special (1989) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=djKBUDg-v-M</id>
-        <link href="https://www.youtube.com/watch?v=djKBUDg-v-M"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brevity Constraints Reverse Performance Hierarchies in Language Models]]></title>
-        <id>https://arxiv.org/abs/2604.00025</id>
-        <link href="https://arxiv.org/abs/2604.00025"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bernie Sanders: "AI Is a Threat to Everything the American People Hold Dear"]]></title>
-        <id>https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459</id>
-        <link href="https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot CLI combines model families for a second opinion]]></title>
-        <id>https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/</id>
-        <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: CacheZero – Karpathy's LLM wiki idea as one NPM install]]></title>
-        <id>https://news.ycombinator.com/item?id=47667723</id>
-        <link href="https://news.ycombinator.com/item?id=47667723"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An In-Depth Study of Filter-Agnostic Vector Search on PostgreSQL]]></title>
-        <id>https://arxiv.org/abs/2603.23710</id>
-        <link href="https://arxiv.org/abs/2603.23710"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: FieldLedgr – Free field service software for tradespeople]]></title>
-        <id>https://www.fieldledgr.com/</id>
-        <link href="https://www.fieldledgr.com/"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Displaced Workers Could Face Long Setbacks, Report Finds]]></title>
-        <id>https://www.wsj.com/economy/jobs/ai-displaced-workers-could-face-long-setbacks-report-finds-57ef1356</id>
-        <link href="https://www.wsj.com/economy/jobs/ai-displaced-workers-could-face-long-setbacks-report-finds-57ef1356"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3x faster project loads with the origin private file system]]></title>
-        <id>https://barndoors.lumafield.com/3x-faster-project-loads-with-the-origin-private-file-system/</id>
-        <link href="https://barndoors.lumafield.com/3x-faster-project-loads-with-the-origin-private-file-system/"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I use Pollinations as a lightweight LLM back end (faster than Hugging Face)]]></title>
-        <id>https://pollinations.ai</id>
-        <link href="https://pollinations.ai"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm building a local-first CLI "knowledge foundry" for LLM workflows]]></title>
-        <id>https://twitter.com/theopuslabs/status/2041316189515723028</id>
-        <link href="https://twitter.com/theopuslabs/status/2041316189515723028"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Softie's View of the Evolution of Windows APIs]]></title>
-        <id>https://twitter.com/stevesi/status/2036921223150440542</id>
-        <link href="https://twitter.com/stevesi/status/2036921223150440542"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Portable offline LLM knowledge system that runs in browser]]></title>
-        <id>https://news.ycombinator.com/item?id=47670330</id>
-        <link href="https://news.ycombinator.com/item?id=47670330"/>
+        <title type="html"><![CDATA[Show HN: Wan 2.7 – AI Video Generator for Cinematic Content]]></title>
+        <id>https://wan27.co</id>
+        <link href="https://wan27.co"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
@@ -274,9 +113,191 @@
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Wan 2.7 – AI Video Generator for Cinematic Content]]></title>
-        <id>https://wan27.co</id>
-        <link href="https://wan27.co"/>
+        <title type="html"><![CDATA[Show HN: Portable offline LLM knowledge system that runs in browser]]></title>
+        <id>https://news.ycombinator.com/item?id=47670330</id>
+        <link href="https://news.ycombinator.com/item?id=47670330"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Softie's View of the Evolution of Windows APIs]]></title>
+        <id>https://twitter.com/stevesi/status/2036921223150440542</id>
+        <link href="https://twitter.com/stevesi/status/2036921223150440542"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm building a local-first CLI "knowledge foundry" for LLM workflows]]></title>
+        <id>https://twitter.com/theopuslabs/status/2041316189515723028</id>
+        <link href="https://twitter.com/theopuslabs/status/2041316189515723028"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I use Pollinations as a lightweight LLM back end (faster than Hugging Face)]]></title>
+        <id>https://pollinations.ai</id>
+        <link href="https://pollinations.ai"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3x faster project loads with the origin private file system]]></title>
+        <id>https://barndoors.lumafield.com/3x-faster-project-loads-with-the-origin-private-file-system/</id>
+        <link href="https://barndoors.lumafield.com/3x-faster-project-loads-with-the-origin-private-file-system/"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Displaced Workers Could Face Long Setbacks, Report Finds]]></title>
+        <id>https://www.wsj.com/economy/jobs/ai-displaced-workers-could-face-long-setbacks-report-finds-57ef1356</id>
+        <link href="https://www.wsj.com/economy/jobs/ai-displaced-workers-could-face-long-setbacks-report-finds-57ef1356"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: FieldLedgr – Free field service software for tradespeople]]></title>
+        <id>https://www.fieldledgr.com/</id>
+        <link href="https://www.fieldledgr.com/"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An In-Depth Study of Filter-Agnostic Vector Search on PostgreSQL]]></title>
+        <id>https://arxiv.org/abs/2603.23710</id>
+        <link href="https://arxiv.org/abs/2603.23710"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: CacheZero – Karpathy's LLM wiki idea as one NPM install]]></title>
+        <id>https://news.ycombinator.com/item?id=47667723</id>
+        <link href="https://news.ycombinator.com/item?id=47667723"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot CLI combines model families for a second opinion]]></title>
+        <id>https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/</id>
+        <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bernie Sanders: "AI Is a Threat to Everything the American People Hold Dear"]]></title>
+        <id>https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459</id>
+        <link href="https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brevity Constraints Reverse Performance Hierarchies in Language Models]]></title>
+        <id>https://arxiv.org/abs/2604.00025</id>
+        <link href="https://arxiv.org/abs/2604.00025"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Psychic Powers Live TV Special (1989) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=djKBUDg-v-M</id>
+        <link href="https://www.youtube.com/watch?v=djKBUDg-v-M"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I set up a static blog that can be updated just by email]]></title>
+        <id>https://knxnts.xyz/blog-4.6.26.html</id>
+        <link href="https://knxnts.xyz/blog-4.6.26.html"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATS Resume Builder – Build an ATS friendly resume and get more interviews]]></title>
+        <id>https://ats-resume.com</id>
+        <link href="https://ats-resume.com"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training mRNA Language Models Across 25 Species for $165]]></title>
+        <id>https://huggingface.co/blog/OpenMed/training-mrna-models-25-species</id>
+        <link href="https://huggingface.co/blog/OpenMed/training-mrna-models-25-species"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astronauts Dedicate Moon Crater to Carroll Wiseman, Wife of NASA Commander]]></title>
+        <id>https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html</id>
+        <link href="https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw Plugin for Claude Code CLI – Persistent Worker Pool with Smart OAuth]]></title>
+        <id>https://github.com/AlexChen31337/openclaw-plugin-claude-code</id>
+        <link href="https://github.com/AlexChen31337/openclaw-plugin-claude-code"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bezier drawing tool w infinite zoom]]></title>
+        <id>https://fatih-erikli-potato.github.io/path-draw/</id>
+        <link href="https://fatih-erikli-potato.github.io/path-draw/"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: The two storage engine families behind every database (animated) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=c4YtYzyAf3I</id>
+        <link href="https://www.youtube.com/watch?v=c4YtYzyAf3I"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[58% of PRs in our largest monorepo merge without human review]]></title>
+        <id>https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review</id>
+        <link href="https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As Meta Flounders, It Reportedly Plans to Open Source Its New AI Models]]></title>
+        <id>https://gizmodo.com/as-meta-flounders-it-reportedly-plans-to-open-source-its-new-ai-models-2000743047</id>
+        <link href="https://gizmodo.com/as-meta-flounders-it-reportedly-plans-to-open-source-its-new-ai-models-2000743047"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One of America's Largest 3D Print Farms Started in a Closet]]></title>
+        <id>https://www.thestartupstorys.com/2026/03/kason-knight-3d-print-farm-revenue-cut-startup-story.html</id>
+        <link href="https://www.thestartupstorys.com/2026/03/kason-knight-3d-print-farm-revenue-cut-startup-story.html"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abraham Lincoln Invented Pro Wrestling's Chokeslam (2020)]]></title>
+        <id>https://fanbuzz.com/pro-wrestling/who-invented-the-chokeslam/</id>
+        <link href="https://fanbuzz.com/pro-wrestling/who-invented-the-chokeslam/"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Good Taste" Is Just Experience]]></title>
+        <id>https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/</id>
+        <link href="https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When War Crimes Rhetoric Becomes Battlefield Reality]]></title>
+        <id>https://www.justsecurity.org/135797/war-crimes-rhetoric-power-plants-iran/</id>
+        <link href="https://www.justsecurity.org/135797/war-crimes-rhetoric-power-plants-iran/"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TriAttention: Efficient Long Reasoning with Trigonometric KV Compression]]></title>
+        <id>https://weianmao.github.io/tri-attention-project-page/</id>
+        <link href="https://weianmao.github.io/tri-attention-project-page/"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
@@ -323,18 +344,11 @@
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Mysteries That the Artemis Missions to the Moon Could Finally Solve]]></title>
-        <id>https://www.wired.com/story/5-mysteries-that-the-artemis-missions-to-the-moon-could-finally-solve/</id>
-        <link href="https://www.wired.com/story/5-mysteries-that-the-artemis-missions-to-the-moon-could-finally-solve/"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snake Bros Keep Getting Bitten by Their Lethal Pets. Only Zoos Can Save Them]]></title>
-        <id>https://www.wired.com/snake-bros-antivenom-index-zoos-influencers-chris-gifford/</id>
-        <link href="https://www.wired.com/snake-bros-antivenom-index-zoos-influencers-chris-gifford/"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[CSS六边形头像的实现与蜂巢布局]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[8 Best Apple Watch Accessories (2026): Bands, Chargers, and More]]></title>
@@ -344,23 +358,9 @@
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K]]></title>
-        <id>https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/</id>
-        <link href="https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ticket savings of up to $500 this week for TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/</id>
-        <link href="https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/"/>
-        <updated>2026-04-05T16:00:00.000Z</updated>
-        <published>2026-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spain’s Xoople raises $130 million Series B to map the Earth for AI]]></title>
-        <id>https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/</id>
-        <link href="https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/"/>
+        <title type="html"><![CDATA[Snake Bros Keep Getting Bitten by Their Lethal Pets. Only Zoos Can Save Them]]></title>
+        <id>https://www.wired.com/snake-bros-antivenom-index-zoos-influencers-chris-gifford/</id>
+        <link href="https://www.wired.com/snake-bros-antivenom-index-zoos-influencers-chris-gifford/"/>
         <updated>2026-04-05T16:00:00.000Z</updated>
         <published>2026-04-05T16:00:00.000Z</published>
     </entry>
