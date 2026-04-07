@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-07 23:03:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-08 06:00:48。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -52,12 +52,12 @@
 - [【Hacker News】Nutrax-–-a-social-calorie-tracking-app-with-AI-food-scanning-iOS](https://apps.apple.com/no/app/nutrax-ai-food-tracker/id6761395869)
 - [【Hacker News】Real-Time-App-Store-IAP-Notifications-via-Telegram-Vercel-Webhook](https://old.reddit.com/r/iOSProgramming/comments/1rn9t4l/realtime_app_store_iap_notifications_via_telegram/)
 - [【Hacker News】A-satellite-smashing-chain-reaction-could-spiral-out-of-control](https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control)
-- [【Hacker News】Scientists-Create-Novel-Organism-with-Primitive-Nervous-System](https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system)
 - [【Hacker News】A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list)
+- [【Hacker News】Scientists-Create-Novel-Organism-with-Primitive-Nervous-System](https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system)
 - [【Hacker News】ViraxLog-–-Tamper-Proof-Logging-Using-Merkle-Trees-and-BLAKE2B-for-Python](https://github.com/damienos61/viraxlog)
-- [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
 - [【Hacker News】Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/)
-- [【Hacker News】Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
+- [【Hacker News】NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/)
+- [【Hacker News】Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -118,18 +118,19 @@
 
 - [【JavaScript Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 - [【JavaScript Weekly】It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
-- [【Hacker News】Show-HN:-CacheZero-–-Karpathy's-LLM-wiki-idea-as-one-NPM-install](https://news.ycombinator.com/item?id=47667723)
+- [【Towards AI】Anthropic-Code-Leak:-512,000-Lines-Exposed-by-One-npm-Mistake](https://pub.towardsai.net/anthropic-code-leak-512-000-lines-exposed-by-one-npm-mistake-df261de3ff1c?source=rss----98111c9905da---4)
 - [【Hacker News】58%-of-PRs-in-our-largest-monorepo-merge-without-human-review](https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review)
-- [【Hacker News】I-Am-a-Cross-Cutting-Concern:-On-Having-a-Personal-Monorepo](https://scottlawsonbc.com/post/monorepo)
+- [【Hacker News】Show-HN:-CacheZero-–-Karpathy's-LLM-wiki-idea-as-one-NPM-install](https://news.ycombinator.com/item?id=47667723)
 - [【Hacker News】1-Click-authentication-with-new-NPM-package](https://www.npmjs.com/package/react-google-one-tap-extention)
-- [【Hacker News】North-Korea-Nexus-Threat-Actor-Compromises-Widely-Used-Axios-NPM-Package](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/)
-- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
-- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
+- [【Hacker News】I-Am-a-Cross-Cutting-Concern:-On-Having-a-Personal-Monorepo](https://scottlawsonbc.com/post/monorepo)
 - [【Hacker News】Top-NPM-package-backdoored-to-drop-dirty-RAT-on-dev-machines](https://www.theregister.com/2026/03/31/axios_npm_backdoor_rat/)
-- [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
-- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
-- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
+- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
+- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
+- [【Hacker News】North-Korea-Nexus-Threat-Actor-Compromises-Widely-Used-Axios-NPM-Package](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/)
 - [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
+- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
+- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
 - [【Hacker News】Show-HN:-Safe-install-–-Docker-first-install-time-hardening-for-pip-and-NPM](https://github.com/Khaeldur/safe-install)
 - [【Wired】Vitesy-Shelfy-2-Smart-Fridge-Purifier-Review:-Small-Box,-Big-Promises](https://www.wired.com/review/vitesy-shelfy-2/)
 - [......【查看更多】......](/details/tags/pack-build.md)
@@ -237,6 +238,7 @@
 
 
 
+- [【JavaScript Weekly】What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)
 - [【CSS-Tricks】Alternatives-to-the-!important-Keyword](https://css-tricks.com/alternatives-to-the-important-keyword/)
 - [【CSS-Tricks】What’s-!important-#8:-Light/Dark-Favicons,-@mixin,-object-view-box,-and-More](https://css-tricks.com/whats-important-8/)
 - [【CSS-Tricks】Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)
@@ -256,7 +258,6 @@
 - [【arXiv ML】Diffusion-Models-as-Dataset-Distillation-Priors](https://arxiv.org/abs/2510.17421)
 - [【arXiv ML】f-INE:-A-Hypothesis-Testing-Framework-for-Estimating-Influence-under-Training-Randomness](https://arxiv.org/abs/2510.10510)
 - [【arXiv ML】A-Tsetlin-Machine-driven-Intrusion-Detection-System-for-Next-Generation-IoMT-Security](https://arxiv.org/abs/2604.03205)
-- [【arXiv ML】Contrastive-Language-Colored-Pointmap-Pretraining-for-Unified-3D-Scene-Understanding](https://arxiv.org/abs/2604.02546)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -309,7 +310,6 @@
 
 
 
-- [【张鑫旭】HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)
 - [【arXiv ML】Transfer-Learning-for-Meta-analysis-Under-Covariate-Shift](https://arxiv.org/abs/2604.02656)
 - [【arXiv ML】HyperFitS----Hypernetwork-Fitting-Spectra-for-metabolic-quantification-of-${}^1$H-MR-spectroscopic-imaging](https://arxiv.org/abs/2604.03150)
 - [【arXiv ML】Variational-LSTM-with-Augmented-Inputs:-Nonlinear-Response-History-Metamodeling-with-Aleatoric-and-Epistemic-Uncertainty](https://arxiv.org/abs/2604.01587)
@@ -329,6 +329,7 @@
 - [【arXiv ML】Meta-Learning-for-Repeated-Bayesian-Persuasion](https://arxiv.org/abs/2603.20408)
 - [【arXiv ML】Confidence-Freeze:-Early-Success-Induces-a-Metastable-Decoupling-of-Metacognition-and-Behaviour](https://arxiv.org/abs/2603.21043)
 - [【arXiv ML】Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888)
+- [【Towards AI】Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -564,7 +565,7 @@
 - [【Towards AI】The-Hidden-Cost-of-Manual-Intervention-in-Digital-Products](https://pub.towardsai.net/the-hidden-cost-of-manual-intervention-in-digital-products-05427eb8fc88?source=rss----98111c9905da---4)
 - [【Hacker News】Show-HN:-Coding-Planets-–-turn-GitHub-contributions-into-sound-and-space](https://joaonetto.me/projects/music/)
 - [【Hacker News】GitHub-Watch](https://rohanadwankar.github.io/github_watch/)
-- [【Hacker News】Every-Law-a-Commit-–-US-Law-in-GitHub](https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html)
+- [【Hacker News】git-leash---time-focused-controls-for-Git](https://github.com/SiteRelEnby/git-leash)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -606,13 +607,11 @@
 - [【CSS-Tricks】Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)
 - [【CSS-Tricks】4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)
 - [【CSS-Tricks】Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)
-- [【CSS-Tricks】The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)
 - [【Smashing Magazine】Identifying-Necessary-Transparency-Moments-In-Agentic-AI-Part-1](https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/)
 - [【Smashing Magazine】The-Joy-Of-A-Fresh-Beginning-April-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/)
 - [【Smashing Magazine】The-Site-Search-Paradox:-Why-The-Big-Box-Always-Wins](https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/)
 - [【Smashing Magazine】Testing-Font-Scaling-For-Accessibility-With-Figma-Variables](https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/)
 - [【Smashing Magazine】Modal-vs.-Separate-Page:-UX-Decision-Tree](https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/)
-- [【Smashing Magazine】Persuasive-Design:-Ten-Years-Later](https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/)
 - [【Frontend Masters Blog】Name-Only-Containers:-The-Scoping-We-Needed](https://frontendmasters.com/blog/name-only-containers-the-scoping-we-needed/)
 - [【Frontend Masters Blog】Fancy-Short-Screen-Recording-Tools](https://frontendmasters.com/blog/fancy-short-screen-recording-tools/)
 - [【Frontend Masters Blog】The-Drill-Down-Menu-with-Details-and-@scope](https://frontendmasters.com/blog/the-drill-down-menu-with-details-and-scope/)
@@ -622,6 +621,8 @@
 - [【Frontend Masters Blog】Collaborative-Markdown](https://frontendmasters.com/blog/collaborative-markdown/)
 - [【Frontend Masters Blog】The-Enforced-Accessibility-of-the-Geolocation-Element](https://frontendmasters.com/blog/the-enforced-accessibility-of-the-geolocation-element/)
 - [【张鑫旭】浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)
+- [【阮一峰】科技爱好者周刊（第-391-期）：AI-的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)
+- [【阮一峰】科技爱好者周刊（第-390-期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
