@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-07 21:02:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-07 23:03:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -96,12 +96,12 @@
 - [2026-03-23-BYD-Battery-Box-HVB-video](https://www.youtube.com/watch?v=WPTgg3joL5E) 
 - [2026-03-23-Precision-from-simple-parts---Machine-Thinkingvideo](https://www.youtube.com/watch?v=8VyyNsifckU) 
 - [2026-03-30-Sora’s-shutdown-could-be-a-reality-check-moment-for-AI-video](https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/) 
-- [2026-03-26-Conntour-raises-$7M-from-General-Catalyst,-YC-to-build-an-AI-search-engine-for-security-video-systems](https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/) 
 - [2026-03-26-ByteDance’s-new-AI-video-generation-model,-Dreamina-Seedance-2.0,-comes-to-CapCut](https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/) 
-- [2026-03-24-Bernie-Sanders’-AI-‘gotcha’-video-flops,-but-the-memes-are-great](https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/) 
-- [2026-03-24-Snapchat’s-new-‘AI-Clips’-Lens-format-turns-photos-into-five-second-videos](https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/) 
-- [2026-03-24-Mirage-raises-$75M-to-continue-building-models-for-its-AI-video-editing-app-Captions](https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/) 
+- [2026-03-26-Conntour-raises-$7M-from-General-Catalyst,-YC-to-build-an-AI-search-engine-for-security-video-systems](https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/) 
 - [2026-03-24-Roku’s-$3-Howdy-subscription-service-launches-on-Prime-Video](https://techcrunch.com/2026/03/24/rokus-3-howdy-subscription-service-launches-on-prime-video/) 
+- [2026-03-24-Mirage-raises-$75M-to-continue-building-models-for-its-AI-video-editing-app-Captions](https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/) 
+- [2026-03-24-Snapchat’s-new-‘AI-Clips’-Lens-format-turns-photos-into-five-second-videos](https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/) 
+- [2026-03-24-Bernie-Sanders’-AI-‘gotcha’-video-flops,-but-the-memes-are-great](https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/) 
 - [2026-04-04-Edward-‘Big-Balls’-Coristine-Is-Helping-Out-on-Viral-Fraud-Videos-Now](https://www.wired.com/story/edward-coristine-nick-shirley-fraud-videos/) 
 - [2026-04-02-Best-Lego-Gifts-for-Brick-Builders-2026:-Smart-Bricks,-Video-Games,-and-More](https://www.wired.com/gallery/gifts-for-lego-lovers/) 
 - [2026-03-30-5-Best-Video-Doorbell-Cameras-2026:-Smart,-Battery,-AI,-Budget,-and-Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/) 

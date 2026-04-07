@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-07 21:02:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-07 23:03:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -31,16 +31,16 @@
 - [2026-03-23-EvidenceRL:-Reinforcing-Evidence-Consistency-for-Trustworthy-Language-Models](https://arxiv.org/abs/2603.19532) 
 - [2026-03-23-Simulation-based-Inference-with-the-Python-Package-sbijax](https://arxiv.org/abs/2409.19435) 
 - [2026-03-23-Learnability-with-Partial-Labels-and-Adaptive-Nearest-Neighbors](https://arxiv.org/abs/2603.15781) 
-- [2026-04-07-AI-Agents-Are-Calling-Restaurants.-Restaurants-Can’t-Talk-Back.](https://pub.towardsai.net/ai-agents-are-calling-restaurants-restaurants-cant-talk-back-03b644b36a6f?source=rss----98111c9905da---4) 
 - [2026-04-07-From-Whiteboard-to-IDE:-Implementing-Google’s-TurboQuant-KV-Cache-Compression-in-Python](https://pub.towardsai.net/from-whiteboard-to-ide-implementing-googles-turboquant-kv-cache-compression-in-python-0e02b53a4640?source=rss----98111c9905da---4) 
+- [2026-04-07-AI-Agents-Are-Calling-Restaurants.-Restaurants-Can’t-Talk-Back.](https://pub.towardsai.net/ai-agents-are-calling-restaurants-restaurants-cant-talk-back-03b644b36a6f?source=rss----98111c9905da---4) 
 - [2026-04-05-GraphQL-Is-the-Native-Language-of-AI-Agents](https://pub.towardsai.net/graphql-is-the-native-language-of-ai-agents-91dd1c318f0c?source=rss----98111c9905da---4) 
-- [2026-04-04-Anthropic-Accidentally-Leaked-Claude-Code’s-Brain-—-And-It’s-Way-More-Interesting-Than-Anyone’s…](https://pub.towardsai.net/anthropic-accidentally-leaked-claude-codes-brain-and-it-s-way-more-interesting-than-anyone-s-07294575f60e?source=rss----98111c9905da---4) 
 - [2026-04-04-The-Complete-Architecture-for-Trustworthy-Autonomous-Agents](https://pub.towardsai.net/the-complete-architecture-for-trustworthy-autonomous-agents-11f1bc19bf6f?source=rss----98111c9905da---4) 
+- [2026-04-04-Anthropic-Accidentally-Leaked-Claude-Code’s-Brain-—-And-It’s-Way-More-Interesting-Than-Anyone’s…](https://pub.towardsai.net/anthropic-accidentally-leaked-claude-codes-brain-and-it-s-way-more-interesting-than-anyone-s-07294575f60e?source=rss----98111c9905da---4) 
 - [2026-04-03-NVIDIA-Took-20-Years-to-Ship-25-Lines-of-Python](https://pub.towardsai.net/cuda-tile-gpu-programming-model-1a4bc93ae9b4?source=rss----98111c9905da---4) 
 - [2026-04-01-Building-a-Realistic-Relational-Test-Database-from-Scratch-with-Python](https://pub.towardsai.net/building-a-realistic-relational-test-database-from-scratch-with-python-af1909cd822b?source=rss----98111c9905da---4) 
 - [2026-03-29--Technology-as-a-Living-Forest:-How-It-Breathes-and-Connects](https://pub.towardsai.net/technology-as-a-living-forest-how-it-breathes-and-connects-4f3c5ee14d06?source=rss----98111c9905da---4) 
-- [2026-03-26-AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4) 
 - [2026-03-26-I-Automated-My-Entire-Weekly-Report-With-Python-in-Fabric-Notebooks-—-Here’s-the-Exact-Code](https://pub.towardsai.net/i-automated-my-entire-weekly-report-with-python-in-fabric-notebooks-heres-the-exact-code-bbc137c4129e?source=rss----98111c9905da---4) 
+- [2026-03-26-AI-Can-Finally-Do-Your-Chores.-But-Should-You-Trust-It-With-Your-Password?](https://pub.towardsai.net/ai-can-finally-do-your-chores-but-should-you-trust-it-with-your-password-e422cbfc6f7e?source=rss----98111c9905da---4) 
 - [2026-03-25-The-Context-Reliability-Framework-CRF:-A-Production-Architecture-for-Trustworthy-AI-Systems](https://pub.towardsai.net/the-context-reliability-framework-crf-a-production-architecture-for-trustworthy-ai-systems-05d359aa5447?source=rss----98111c9905da---4) 
 - [2026-04-07-CricketBrain:-Neuromorphic-signal-processor-in-Rust-0.175us/step,-944-bytes](https://github.com/BEKO2210/cricket-brain) 
 - [2026-04-07-Abraham-Lincoln-Invented-Pro-Wrestling's-Chokeslam-2020](https://fanbuzz.com/pro-wrestling/who-invented-the-chokeslam/) 

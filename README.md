@@ -10,22 +10,22 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-07 21:02:01，:rocket: 更新条数: +388， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-07 23:03:13，:rocket: 更新条数: +601， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [web.dev](#web.dev)  
-- [CSS-Tricks](#css-tricks)  
+- [CSS-Tricks](#css-tricks)![](/assets/dot.png)   
 - [Smashing-Magazine](#smashing-magazine)![](/assets/dot.png)   
-- [Frontend-Masters-Blog](#frontend-masters-blog)  
+- [Frontend-Masters-Blog](#frontend-masters-blog)![](/assets/dot.png)   
 - [Overreacted](#overreacted)![](/assets/dot.png)   
 - [2ality](#2ality)  
 - [Jake-Archibald](#jake-archibald)![](/assets/dot.png)   
 - [Tan-Li-Hau](#tan-li-hau)![](/assets/dot.png)   
 - [Mark-Erikson-Blog](#mark-erikson-blog)![](/assets/dot.png)   
-- [SurviveJS](#survivejs)  
+- [SurviveJS](#survivejs)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -55,9 +55,9 @@
 - [我爱自然语言处理](#我爱自然语言处理)![](/assets/dot.png)   
 - [AI前线](#ai前线)  
 - [ChatGPT-更新](#chatgpt-更新)  
-- [Hacker-News](#hacker-news)![](/assets/dot.png)   
+- [Hacker-News](#hacker-news)  
 - [TechCrunch](#techcrunch)![](/assets/dot.png)   
-- [Wired](#wired)![](/assets/dot.png)   
+- [Wired](#wired)  
 - [Engadget](#engadget)  
 - [少数派](#少数派)  
 
@@ -110,17 +110,18 @@
 </summary>
 
 
+- [2026-04-07-Alternatives-to-the-!important-Keyword](https://css-tricks.com/alternatives-to-the-important-keyword/) ![](/assets/new.png)  
 - [2026-04-06-Looking-at-New-CSS-Multi-Column-Layout-Wrapping-Features](https://css-tricks.com/css-multi-column-layout-wrapping-features/)  
 - [2026-04-02-Making-Complex-CSS-Shapes-Using-shape](https://css-tricks.com/complex-css-shapes-with-shape-function/)  
-- [2026-04-01-Sniffing-Out-the-CSS-Olfactive-API](https://css-tricks.com/css-olfactive-api/)  
 - [2026-04-01-Front-End-Fools:-Top-10-April-Fools’-UI-Pranks-of-All-Time](https://css-tricks.com/front-end-april-fools-top-10/)  
+- [2026-04-01-Sniffing-Out-the-CSS-Olfactive-API](https://css-tricks.com/css-olfactive-api/)  
 - [2026-03-31-What’s-!important-#8:-Light/Dark-Favicons,-@mixin,-object-view-box,-and-More](https://css-tricks.com/whats-important-8/)  
 - [2026-03-30-Form-Automation-Tips-for-Happier-User-and-Clients](https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/)  
 - [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)  
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
+- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [2026-03-09-The-Value-of-z-index](https://css-tricks.com/the-value-of-z-index/)  
 - [......【查看更多】......](/details/CSS-Tricks.md)
@@ -134,7 +135,7 @@
 </summary>
 
 
-- [2026-04-07-Identifying-Necessary-Transparency-Moments-In-Agentic-AI-Part-1](https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/) ![](/assets/new.png)  
+- [2026-04-07-Identifying-Necessary-Transparency-Moments-In-Agentic-AI-Part-1](https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/)  
 - [2026-04-01-A-Practical-Guide-To-Design-Principles](https://smashingmagazine.com/2026/04/practical-guide-design-principles/)  
 - [2026-03-31-The-Joy-Of-A-Fresh-Beginning-April-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/)  
 - [2026-03-26-The-Site-Search-Paradox:-Why-The-Big-Box-Always-Wins](https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/)  
@@ -157,6 +158,7 @@
 </summary>
 
 
+- [2026-04-07-Name-Only-Containers:-The-Scoping-We-Needed](https://frontendmasters.com/blog/name-only-containers-the-scoping-we-needed/) ![](/assets/new.png)  
 - [2026-04-06-Let’s-Get-Puzzled!](https://frontendmasters.com/blog/creating-puzzle-peices-in-css/)  
 - [2026-04-03-What-To-Know-in-JavaScript-2026-Edition](https://frontendmasters.com/blog/what-to-know-in-javascript-2026-edition/)  
 - [2026-03-31-Fancy-Short-Screen-Recording-Tools](https://frontendmasters.com/blog/fancy-short-screen-recording-tools/)  
@@ -165,12 +167,12 @@
 - [2026-03-25-Shadow-DOM-Focus-Delegation:-Getting-delegatesFocus-Right](https://frontendmasters.com/blog/shadow-dom-focus-delegation-getting-delegatesfocus-right/)  
 - [2026-03-24-Two-Circles,-One-Arrow,-and-Anchor-Positioning](https://frontendmasters.com/blog/two-circles-one-arrow-and-anchor-positioning/)  
 - [2026-03-21-Text-scaling-support-in-Chrome-Canary](https://frontendmasters.com/blog/text-scaling-support-in-chrome-canary/)  
-- [2026-03-19-Image-Gallery-with-Popovers-and-AIM-Anchor-Interpolated-Morph](https://frontendmasters.com/blog/image-gallery-with-popovers-and-aim-anchor-interpolated-morph/)  
 - [2026-03-19-BaseWatch](https://frontendmasters.com/blog/basewatch/)  
+- [2026-03-19-Image-Gallery-with-Popovers-and-AIM-Anchor-Interpolated-Morph](https://frontendmasters.com/blog/image-gallery-with-popovers-and-aim-anchor-interpolated-morph/)  
 - [2026-03-17-Flexbox-Masonry-Layout-Explained-with-Math](https://frontendmasters.com/blog/flexbox-masonry-layout-explained-with-math/)  
 - [2026-03-16-When-Deno-or-Bun-is-a-Better-Solution-than-Node.js](https://frontendmasters.com/blog/when-deno-or-bun-is-a-better-solution-than-node-js/)  
-- [2026-03-12-Collaborative-Markdown](https://frontendmasters.com/blog/collaborative-markdown/)  
 - [2026-03-12-Form-Associated-Custom-Elements-in-Practice](https://frontendmasters.com/blog/form-associated-custom-elements-in-practice/)  
+- [2026-03-12-Collaborative-Markdown](https://frontendmasters.com/blog/collaborative-markdown/)  
 - [2026-03-11-Goodbye-innerHTML,-Hello-setHTML](https://frontendmasters.com/blog/goodbye-innerhtml-hello-sethtml/)  
 - [2026-03-10-The-Enforced-Accessibility-of-the-Geolocation-Element](https://frontendmasters.com/blog/the-enforced-accessibility-of-the-geolocation-element/)  
 - [......【查看更多】......](/details/Frontend Masters Blog.md)
@@ -448,6 +450,7 @@
 </summary>
 
 
+- [2026-04-07-Principles-of-Mechanical-Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html) ![](/assets/new.png)  
 - [2026-04-03-Fragments:-April-2](https://martinfowler.com/fragments/2026-04-02.html)  
 - [2026-04-02-Harness-engineering-for-coding-agent-users](https://martinfowler.com/articles/harness-engineering.html)  
 - [2026-03-31-Encoding-Team-Standards](https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html)  
@@ -541,26 +544,26 @@
 </summary>
 
 
-- [2026-04-07-Your-Claude-Code-is-Starving,-the-Food’s-Scattered-All-Over-Your-Org,-and-Some-of-it-is-Stale](https://pub.towardsai.net/your-claude-code-is-starving-the-foods-scattered-all-over-your-org-and-some-of-it-is-stale-b54ccc32c40c?source=rss----98111c9905da---4)  
-- [2026-04-07-The-Agentic-AI:-How-Autonomous-AI-Systems-Are-Rewriting-the-Rules-of-Work,-Business,-and-Technology](https://pub.towardsai.net/the-agentic-ai-how-autonomous-ai-systems-are-rewriting-the-rules-of-work-business-and-technology-bbbc22ac24f7?source=rss----98111c9905da---4)  
-- [2026-04-07-Before-Word2Vec:-The-Strange,-Fascinating-Road-from-Counting-Words-to-Learning-Meaning](https://pub.towardsai.net/before-word2vec-the-strange-fascinating-road-from-counting-words-to-learning-meaning-70555181dd7c?source=rss----98111c9905da---4)  
-- [2026-04-07-AI-Agents-Are-Calling-Restaurants.-Restaurants-Can’t-Talk-Back.](https://pub.towardsai.net/ai-agents-are-calling-restaurants-restaurants-cant-talk-back-03b644b36a6f?source=rss----98111c9905da---4)  
-- [2026-04-07-The-Claude-Code-Leak-Didn’t-Hurt-Cursor.-It-Forced-a-More-Honest-Competition.](https://pub.towardsai.net/the-claude-code-leak-didnt-hurt-cursor-it-forced-a-more-honest-competition-aea0b075a4cd?source=rss----98111c9905da---4)  
-- [2026-04-07-30-ChatGPT-Commands-That-Actually-Save-You-Hours-Tested-in-Real-Workflows](https://pub.towardsai.net/30-chatgpt-commands-that-actually-save-you-hours-tested-in-real-workflows-7be5d019233e?source=rss----98111c9905da---4)  
-- [2026-04-07-Seedream-5.0-vs-Seedream-4.5-vs-Nano-Banana-2:-Who-Actually-Wins-in-2026?](https://pub.towardsai.net/seedream-5-0-vs-seedream-4-5-vs-nano-banana-2-who-actually-wins-in-2026-f11a79d1f324?source=rss----98111c9905da---4)  
-- [2026-04-07-From-Whiteboard-to-IDE:-Implementing-Google’s-TurboQuant-KV-Cache-Compression-in-Python](https://pub.towardsai.net/from-whiteboard-to-ide-implementing-googles-turboquant-kv-cache-compression-in-python-0e02b53a4640?source=rss----98111c9905da---4)  
-- [2026-04-07-CCA:-Master-the-Developer-Productivity-scenario-for-the-Claude-Certified-Architect-exam-—-from…](https://pub.towardsai.net/cca-master-the-developer-productivity-scenario-for-the-claude-certified-architect-exam-from-e402d9bb277d?source=rss----98111c9905da---4)  
-- [2026-04-07-Your-AI-Coding-Agent-Isn’t-a-Team-Member.-It’s-Five-of-Them.](https://pub.towardsai.net/your-ai-coding-agent-isnt-a-team-member-it-s-five-of-them-8a3cf6711008?source=rss----98111c9905da---4)  
-- [2026-04-07-Before-You-Learn-Machine-Learning,-Understand-These-5-Basics](https://pub.towardsai.net/before-you-learn-machine-learning-understand-these-5-basics-c4be249717c2?source=rss----98111c9905da---4)  
-- [2026-04-07-The-$100-Billion-Selloff-Started-by-a-12-Page-PDF-From-Two-Google-Researchers](https://pub.towardsai.net/the-100-billion-selloff-started-by-a-12-page-pdf-from-two-google-researchers-ea88cf8451a5?source=rss----98111c9905da---4)  
-- [2026-04-07-Tiny-Models-are-Getting-Really-Good](https://pub.towardsai.net/tiny-models-are-getting-really-good-379c16131a48?source=rss----98111c9905da---4)  
-- [2026-04-07-Gemma-4’s-Breakthrough:-Why-Your-Open-AI-Agent’s-Reasoning-is-About-to-Level-Up](https://pub.towardsai.net/gemma-4s-breakthrough-why-your-open-ai-agent-s-reasoning-is-about-to-level-up-2e13d7900e8e?source=rss----98111c9905da---4)  
-- [2026-04-07-The-Silicon-Protocol:-The-Model-Hosting-Decision-—-When-Azure-OpenAI-Isn’t-Enough-And-When-It’s…](https://pub.towardsai.net/the-silicon-protocol-the-model-hosting-decision-when-azure-openai-isnt-enough-and-when-it-s-137422021b60?source=rss----98111c9905da---4)  
-- [2026-04-07-What-AI-Really-Means-for-Cybersecurity-—-An-Architect’s-Honest-View](https://pub.towardsai.net/what-ai-really-means-for-cybersecurity-an-architects-honest-view-d463e622a66d?source=rss----98111c9905da---4)  
+- [2026-04-07-SQL-vs-NoSQL:-Understand-Databases-in-5-Minutes](https://pub.towardsai.net/sql-vs-nosql-understand-databases-in-5-minutes-6701bf5b7932?source=rss----98111c9905da---4)  
 - [2026-04-07-Summary-Statistics](https://pub.towardsai.net/summary-statistics-f0f8b9edf1b9?source=rss----98111c9905da---4)  
-- [2026-04-07-SQL-vs-NoSQL:-Understand-Databases-in-5-Minutes](https://pub.towardsai.net/sql-vs-nosql-understand-databases-in-5-minutes-6701bf5b7932?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-04-06-Stop-editing-AI-slop-manually-free-guide-inside](https://pub.towardsai.net/stop-editing-ai-slop-manually-free-guide-inside-ea3ad5b64afc?source=rss----98111c9905da---4)  
-- [2026-04-06-Why-Your-AI-Agent-Keeps-Getting-It-Wrong:-The-Three-Layer-Architecture-Every-Data-Leader-Needs-to…](https://pub.towardsai.net/why-your-ai-agent-keeps-getting-it-wrong-the-three-layer-architecture-every-data-leader-needs-to-d98d7bb4eafc?source=rss----98111c9905da---4)  
+- [2026-04-07-What-AI-Really-Means-for-Cybersecurity-—-An-Architect’s-Honest-View](https://pub.towardsai.net/what-ai-really-means-for-cybersecurity-an-architects-honest-view-d463e622a66d?source=rss----98111c9905da---4)  
+- [2026-04-07-The-Silicon-Protocol:-The-Model-Hosting-Decision-—-When-Azure-OpenAI-Isn’t-Enough-And-When-It’s…](https://pub.towardsai.net/the-silicon-protocol-the-model-hosting-decision-when-azure-openai-isnt-enough-and-when-it-s-137422021b60?source=rss----98111c9905da---4)  
+- [2026-04-07-Gemma-4’s-Breakthrough:-Why-Your-Open-AI-Agent’s-Reasoning-is-About-to-Level-Up](https://pub.towardsai.net/gemma-4s-breakthrough-why-your-open-ai-agent-s-reasoning-is-about-to-level-up-2e13d7900e8e?source=rss----98111c9905da---4)  
+- [2026-04-07-Tiny-Models-are-Getting-Really-Good](https://pub.towardsai.net/tiny-models-are-getting-really-good-379c16131a48?source=rss----98111c9905da---4)  
+- [2026-04-07-The-$100-Billion-Selloff-Started-by-a-12-Page-PDF-From-Two-Google-Researchers](https://pub.towardsai.net/the-100-billion-selloff-started-by-a-12-page-pdf-from-two-google-researchers-ea88cf8451a5?source=rss----98111c9905da---4)  
+- [2026-04-07-Before-You-Learn-Machine-Learning,-Understand-These-5-Basics](https://pub.towardsai.net/before-you-learn-machine-learning-understand-these-5-basics-c4be249717c2?source=rss----98111c9905da---4)  
+- [2026-04-07-Your-AI-Coding-Agent-Isn’t-a-Team-Member.-It’s-Five-of-Them.](https://pub.towardsai.net/your-ai-coding-agent-isnt-a-team-member-it-s-five-of-them-8a3cf6711008?source=rss----98111c9905da---4)  
+- [2026-04-07-CCA:-Master-the-Developer-Productivity-scenario-for-the-Claude-Certified-Architect-exam-—-from…](https://pub.towardsai.net/cca-master-the-developer-productivity-scenario-for-the-claude-certified-architect-exam-from-e402d9bb277d?source=rss----98111c9905da---4)  
+- [2026-04-07-From-Whiteboard-to-IDE:-Implementing-Google’s-TurboQuant-KV-Cache-Compression-in-Python](https://pub.towardsai.net/from-whiteboard-to-ide-implementing-googles-turboquant-kv-cache-compression-in-python-0e02b53a4640?source=rss----98111c9905da---4)  
+- [2026-04-07-Seedream-5.0-vs-Seedream-4.5-vs-Nano-Banana-2:-Who-Actually-Wins-in-2026?](https://pub.towardsai.net/seedream-5-0-vs-seedream-4-5-vs-nano-banana-2-who-actually-wins-in-2026-f11a79d1f324?source=rss----98111c9905da---4)  
+- [2026-04-07-30-ChatGPT-Commands-That-Actually-Save-You-Hours-Tested-in-Real-Workflows](https://pub.towardsai.net/30-chatgpt-commands-that-actually-save-you-hours-tested-in-real-workflows-7be5d019233e?source=rss----98111c9905da---4)  
+- [2026-04-07-The-Claude-Code-Leak-Didn’t-Hurt-Cursor.-It-Forced-a-More-Honest-Competition.](https://pub.towardsai.net/the-claude-code-leak-didnt-hurt-cursor-it-forced-a-more-honest-competition-aea0b075a4cd?source=rss----98111c9905da---4)  
+- [2026-04-07-AI-Agents-Are-Calling-Restaurants.-Restaurants-Can’t-Talk-Back.](https://pub.towardsai.net/ai-agents-are-calling-restaurants-restaurants-cant-talk-back-03b644b36a6f?source=rss----98111c9905da---4)  
+- [2026-04-07-Before-Word2Vec:-The-Strange,-Fascinating-Road-from-Counting-Words-to-Learning-Meaning](https://pub.towardsai.net/before-word2vec-the-strange-fascinating-road-from-counting-words-to-learning-meaning-70555181dd7c?source=rss----98111c9905da---4)  
+- [2026-04-07-The-Agentic-AI:-How-Autonomous-AI-Systems-Are-Rewriting-the-Rules-of-Work,-Business,-and-Technology](https://pub.towardsai.net/the-agentic-ai-how-autonomous-ai-systems-are-rewriting-the-rules-of-work-business-and-technology-bbbc22ac24f7?source=rss----98111c9905da---4)  
+- [2026-04-07-Your-Claude-Code-is-Starving,-the-Food’s-Scattered-All-Over-Your-Org,-and-Some-of-it-is-Stale](https://pub.towardsai.net/your-claude-code-is-starving-the-foods-scattered-all-over-your-org-and-some-of-it-is-stale-b54ccc32c40c?source=rss----98111c9905da---4)  
+- [2026-04-07-How-Snowflake-Cortex-Code-CoCo-Works-with-RBAC:-A-Complete-Security-Guide](https://pub.towardsai.net/how-snowflake-cortex-code-coco-works-with-rbac-a-complete-security-guide-6d9934acb522?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-04-07-MiA-RAG:-Building-a-“Whole-Book”-Brain-for-Document-QA](https://pub.towardsai.net/mia-rag-building-a-whole-book-brain-for-document-qa-2f86494fd8a3?source=rss----98111c9905da---4) ![](/assets/new.png)  
 - [......【查看更多】......](/details/Towards AI.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -704,26 +707,26 @@
 </summary>
 
 
-- [2026-04-07-AI-startup-Rocket-offers-vibe-McKinsey-style-reports-at-a-fraction-of-the-cost](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)  
-- [2026-04-07-OpenAI-alums-have-been-quietly-investing-from-a-new,-potentially-$100M-fund-](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/)  
-- [2026-04-07-Gas-prices-aren’t-the-only-factor-fueling-used-EV-sales](https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/)  
-- [2026-04-07-Google-quietly-launched-an-AI-dictation-app-that-works-offline](https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)  
-- [2026-04-07-Netflix-is-expanding-into-kids’-games-with-a-new-standalone-app](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/)  
-- [2026-04-07-Why-safety-regulators-closed-their-investigation-into-Tesla’s-remote-parking-feature](https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/)  
-- [2026-04-07-Iran-threatens-‘Stargate’-AI-data-centers](https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/)  
-- [2026-04-07-Apple-is-taking-its-App-Store-fight-to-the-Supreme-Court-—-again](https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/)  
-- [2026-04-07-Watch-this-video-of-how-a-job-interviewer-exposes-a-North-Korean-fake-IT-worker](https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/)  
-- [2026-04-07-North-Korea’s-hijack-of-one-of-the-web’s-most-used-open-source-projects-was-likely-weeks-in-the-making](https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/)  
+- [2026-04-07-Why-a-former-AirPods-engineer-is-now-building-heat-pumps](https://techcrunch.com/2026/04/07/why-a-former-airpods-engineer-is-now-building-heat-pumps/)  
+- [2026-04-07-The-AI-gold-rush-is-pulling-private-wealth-into-riskier,-earlier-bets-](https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/)  
+- [2026-04-07-Adobe-launches-Acrobat-Spaces,-a-free-AI-powered-study-tool-for-students](https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/)  
+- [2026-04-07-Waymo-opens-robotaxi-service-in-Nashville,-partners-with-Lyft](https://techcrunch.com/2026/04/07/waymo-opens-robotaxi-service-in-nashville-partners-with-lyft/)  
+- [2026-04-07-Hermeus-raises-$350M-to-build-autonomous-hypersonic-fighters](https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-autonomous-hypersonic-fighters/)  
+- [2026-04-07-Spotify’s-prompted-playlist-feature-will-now-work-for-podcasts,-too](https://techcrunch.com/2026/04/07/spotifys-prompted-playlist-feature-will-now-work-for-podcasts-too/)  
 - [2026-04-07-AI-design-platform-Picsart-launches-a-creator-monetization-program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)  
-- [2026-04-07-Spotify’s-prompted-playlist-feature-will-now-work-for-podcasts,-too](https://techcrunch.com/2026/04/07/spotifys-prompted-playlist-feature-will-now-work-for-podcasts-too/) ![](/assets/new.png)  
-- [2026-04-07-Hermeus-raises-$350M-to-build-autonomous-hypersonic-fighters](https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-autonomous-hypersonic-fighters/) ![](/assets/new.png)  
-- [2026-04-07-Waymo-opens-robotaxi-service-in-Nashville,-partners-with-Lyft](https://techcrunch.com/2026/04/07/waymo-opens-robotaxi-service-in-nashville-partners-with-lyft/) ![](/assets/new.png)  
-- [2026-04-07-Adobe-launches-Acrobat-Spaces,-a-free-AI-powered-study-tool-for-students](https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/) ![](/assets/new.png)  
-- [2026-04-07-The-AI-gold-rush-is-pulling-private-wealth-into-riskier,-earlier-bets-](https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/) ![](/assets/new.png)  
-- [2026-04-07-Why-a-former-AirPods-engineer-is-now-building-heat-pumps](https://techcrunch.com/2026/04/07/why-a-former-airpods-engineer-is-now-building-heat-pumps/) ![](/assets/new.png)  
-- [2026-04-06-OpenAI’s-vision-for-the-AI-economy:-public-wealth-funds,-robot-taxes,-and-a-four-day-workweek](https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/)  
-- [2026-04-06-Startup-Battlefield-200-applications-open:-a-chance-for-VC-access,-TechCrunch-coverage,-and-$100K](https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/)  
-- [2026-04-06-How-to-use-the-new-ChatGPT-app-integrations,-including-DoorDash,-Spotify,-Uber,-and-others](https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/)  
+- [2026-04-07-North-Korea’s-hijack-of-one-of-the-web’s-most-used-open-source-projects-was-likely-weeks-in-the-making](https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/)  
+- [2026-04-07-Watch-this-video-of-how-a-job-interviewer-exposes-a-North-Korean-fake-IT-worker](https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/)  
+- [2026-04-07-Apple-is-taking-its-App-Store-fight-to-the-Supreme-Court-—-again](https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/)  
+- [2026-04-07-Iran-threatens-‘Stargate’-AI-data-centers](https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/)  
+- [2026-04-07-Why-safety-regulators-closed-their-investigation-into-Tesla’s-remote-parking-feature](https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/)  
+- [2026-04-07-Netflix-is-expanding-into-kids’-games-with-a-new-standalone-app](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/)  
+- [2026-04-07-Google-quietly-launched-an-AI-dictation-app-that-works-offline](https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)  
+- [2026-04-07-Gas-prices-aren’t-the-only-factor-fueling-used-EV-sales](https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/)  
+- [2026-04-07-OpenAI-alums-have-been-quietly-investing-from-a-new,-potentially-$100M-fund-](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/)  
+- [2026-04-07-AI-startup-Rocket-offers-vibe-McKinsey-style-reports-at-a-fraction-of-the-cost](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)  
+- [2026-04-07-Hermeus-raises-$350M-to-build-unmanned-hypersonic-fighters](https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-unmanned-hypersonic-fighters/) ![](/assets/new.png)  
+- [2026-04-07-Trump-administration-plans-to-cut-cybersecurity-agency’s-budget-by-$700-million](https://techcrunch.com/2026/04/07/cisa-budget-cuts-700-million-cybersecurity-agency-trump/) ![](/assets/new.png)  
+- [2026-04-07-4-days-left-to-save-close-to-$500-on-TechCrunch-Disrupt-2026-passes](https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/) ![](/assets/new.png)  
 - [......【查看更多】......](/details/TechCrunch.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -751,10 +754,10 @@
 - [2026-04-07-Hoka-Coupon-Codes:-10%-Off-|-April-2026](https://www.wired.com/story/hoka-coupon-code/)  
 - [2026-04-07-AirDoctor-Coupon-Codes:-40%-Off-|-April-2026](https://www.wired.com/story/airdoctor-coupon-code/)  
 - [2026-04-07-Europe-Gets-Serious-About-Age-Verification-Online](https://www.wired.com/story/europe-gets-serious-about-age-verification-online/)  
-- [2026-04-07-Best-Mesh-Wi-Fi-Systems-2026:-Netgear,-Asus,-Amazon,-and-More](https://www.wired.com/story/best-mesh-wifi-routers/) ![](/assets/new.png)  
-- [2026-04-07-He-Started-a-Social-Network-Alone.-Then-5-Million-People-Signed-Up](https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi/) ![](/assets/new.png)  
-- [2026-04-07-My-Blissful-Week-as-a-‘Do-Not-Disturb’-Maximalist](https://www.wired.com/story/my-blissful-unbothered-life-as-a-do-not-disturb-maximalist/) ![](/assets/new.png)  
-- [2026-04-07-The-5-Best-Outdoor-Pizza-Ovens:-Wood-Fired,-Gas,-Propane-2026](https://www.wired.com/story/best-outdoor-pizza-ovens/) ![](/assets/new.png)  
+- [2026-04-07-Best-Mesh-Wi-Fi-Systems-2026:-Netgear,-Asus,-Amazon,-and-More](https://www.wired.com/story/best-mesh-wifi-routers/)  
+- [2026-04-07-He-Started-a-Social-Network-Alone.-Then-5-Million-People-Signed-Up](https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi/)  
+- [2026-04-07-My-Blissful-Week-as-a-‘Do-Not-Disturb’-Maximalist](https://www.wired.com/story/my-blissful-unbothered-life-as-a-do-not-disturb-maximalist/)  
+- [2026-04-07-The-5-Best-Outdoor-Pizza-Ovens:-Wood-Fired,-Gas,-Propane-2026](https://www.wired.com/story/best-outdoor-pizza-ovens/)  
 - [......【查看更多】......](/details/Wired.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
