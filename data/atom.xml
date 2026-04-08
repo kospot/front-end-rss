@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-07T22:00:48.627Z</updated>
+    <updated>2026-04-08T00:01:32.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,37 +71,58 @@
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Biggest Oil Disruption in History Is Accelerating the Energy Transition]]></title>
-        <id>https://oilprice.com/Energy/Energy-General/The-Biggest-Oil-Disruption-in-History-Is-Accelerating-the-Energy-Transition.html</id>
-        <link href="https://oilprice.com/Energy/Energy-General/The-Biggest-Oil-Disruption-in-History-Is-Accelerating-the-Energy-Transition.html"/>
+        <title type="html"><![CDATA[DocumentDB Fuse – FS interface for the database]]></title>
+        <id>https://github.com/xgerman/documentdbfuse</id>
+        <link href="https://github.com/xgerman/documentdbfuse"/>
         <updated>2026-04-07T16:00:00.000Z</updated>
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fox to Integrate Kalshi Forecasts Across Fox News Media and Fox One Platforms]]></title>
-        <id>https://news.kalshi.com/p/fox-kalshi-partnership-prediction-market-data-integration</id>
-        <link href="https://news.kalshi.com/p/fox-kalshi-partnership-prediction-market-data-integration"/>
+        <title type="html"><![CDATA[Behind the curtain. A comprehensive guide to Russia internet censorship in 2026]]></title>
+        <id>https://en.zona.media/article/2026/04/07/russian_internet_censorship_2026</id>
+        <link href="https://en.zona.media/article/2026/04/07/russian_internet_censorship_2026"/>
         <updated>2026-04-07T16:00:00.000Z</updated>
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Appwrite 1.9.0: Self-hosting with MongoDB as the underlying database]]></title>
-        <id>https://appwrite.io/blog/post/self-hosting-appwrite-with-mongodb</id>
-        <link href="https://appwrite.io/blog/post/self-hosting-appwrite-with-mongodb"/>
+        <title type="html"><![CDATA[Xilem – An experimental Rust native UI framework]]></title>
+        <id>https://github.com/linebender/xilem</id>
+        <link href="https://github.com/linebender/xilem"/>
         <updated>2026-04-07T16:00:00.000Z</updated>
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Towards Post-Quantum Cryptography in TLS (2019)]]></title>
-        <id>https://blog.cloudflare.com/towards-post-quantum-cryptography-in-tls/</id>
-        <link href="https://blog.cloudflare.com/towards-post-quantum-cryptography-in-tls/"/>
+        <title type="html"><![CDATA[Voice AI that helps families find a parent's finances before crisis hits]]></title>
+        <id>https://www.clearnestme.com/landing.html</id>
+        <link href="https://www.clearnestme.com/landing.html"/>
         <updated>2026-04-07T16:00:00.000Z</updated>
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Hierarchy to Intelligence]]></title>
-        <id>https://sequoiacap.com/article/from-hierarchy-to-intelligence/</id>
-        <link href="https://sequoiacap.com/article/from-hierarchy-to-intelligence/"/>
+        <title type="html"><![CDATA[Ask HN: My Mac decided out of the blue to delete Node. Why?]]></title>
+        <id>https://news.ycombinator.com/item?id=47682659</id>
+        <link href="https://news.ycombinator.com/item?id=47682659"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea's Contagious Interview Campaign Spreads Across 5 Ecosystems]]></title>
+        <id>https://socket.dev/blog/contagious-interview-campaign-spreads-across-5-ecosystems</id>
+        <link href="https://socket.dev/blog/contagious-interview-campaign-spreads-across-5-ecosystems"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple and Lenovo have the least repairable laptops, analysis finds]]></title>
+        <id>https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/</id>
+        <link href="https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USCIS.gov sends user/visitor data to Meta and Google]]></title>
+        <id>https://varlog.in/inspect/</id>
+        <link href="https://varlog.in/inspect/"/>
         <updated>2026-04-07T16:00:00.000Z</updated>
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
@@ -113,16 +134,65 @@
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Is a Revenue Multiplier. So Why the Obsession with Cost Cuts?]]></title>
-        <id>https://pub.towardsai.net/ai-is-a-revenue-multiplier-so-why-the-obsession-with-cost-cuts-485453f01afd?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ai-is-a-revenue-multiplier-so-why-the-obsession-with-cost-cuts-485453f01afd?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[From Hierarchy to Intelligence]]></title>
+        <id>https://sequoiacap.com/article/from-hierarchy-to-intelligence/</id>
+        <link href="https://sequoiacap.com/article/from-hierarchy-to-intelligence/"/>
         <updated>2026-04-07T16:00:00.000Z</updated>
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic Code Leak: 512,000 Lines Exposed by One npm Mistake]]></title>
-        <id>https://pub.towardsai.net/anthropic-code-leak-512-000-lines-exposed-by-one-npm-mistake-df261de3ff1c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/anthropic-code-leak-512-000-lines-exposed-by-one-npm-mistake-df261de3ff1c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Towards Post-Quantum Cryptography in TLS (2019)]]></title>
+        <id>https://blog.cloudflare.com/towards-post-quantum-cryptography-in-tls/</id>
+        <link href="https://blog.cloudflare.com/towards-post-quantum-cryptography-in-tls/"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appwrite 1.9.0: Self-hosting with MongoDB as the underlying database]]></title>
+        <id>https://appwrite.io/blog/post/self-hosting-appwrite-with-mongodb</id>
+        <link href="https://appwrite.io/blog/post/self-hosting-appwrite-with-mongodb"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fox to Integrate Kalshi Forecasts Across Fox News Media and Fox One Platforms]]></title>
+        <id>https://news.kalshi.com/p/fox-kalshi-partnership-prediction-market-data-integration</id>
+        <link href="https://news.kalshi.com/p/fox-kalshi-partnership-prediction-market-data-integration"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Biggest Oil Disruption in History Is Accelerating the Energy Transition]]></title>
+        <id>https://oilprice.com/Energy/Energy-General/The-Biggest-Oil-Disruption-in-History-Is-Accelerating-the-Energy-Transition.html</id>
+        <link href="https://oilprice.com/Energy/Energy-General/The-Biggest-Oil-Disruption-in-History-Is-Accelerating-the-Energy-Transition.html"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Data Governance: Autogenerating Documentation and Tags with Snowflake Cortex and DBT]]></title>
+        <id>https://pub.towardsai.net/scaling-data-governance-autogenerating-documentation-and-tags-with-snowflake-cortex-and-dbt-7d865ffaa177?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/scaling-data-governance-autogenerating-documentation-and-tags-with-snowflake-cortex-and-dbt-7d865ffaa177?source=rss----98111c9905da---4"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Gemma 4 Is the Most Architecturally Interesting Open Model Released This Year. ]]></title>
+        <id>https://pub.towardsai.net/googles-gemma-4-is-the-most-architecturally-interesting-open-model-released-this-year-b245a406cd6a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/googles-gemma-4-is-the-most-architecturally-interesting-open-model-released-this-year-b245a406cd6a?source=rss----98111c9905da---4"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI Is Agreeing With You. Here’s an Open-Source Protocol to Catch It.]]></title>
+        <id>https://pub.towardsai.net/your-ai-is-agreeing-with-you-heres-an-open-source-protocol-to-catch-it-c2d08d6c2a99?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-ai-is-agreeing-with-you-heres-an-open-source-protocol-to-catch-it-c2d08d6c2a99?source=rss----98111c9905da---4"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Analyzed 500 Power BI Job Postings in 2026. Here Are the 7 Skills That Actually Get You Hired.]]></title>
+        <id>https://pub.towardsai.net/i-analyzed-500-power-bi-job-postings-in-2026-here-are-the-7-skills-that-actually-get-you-hired-9ad9c9c37673?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-analyzed-500-power-bi-job-postings-in-2026-here-are-the-7-skills-that-actually-get-you-hired-9ad9c9c37673?source=rss----98111c9905da---4"/>
         <updated>2026-04-07T16:00:00.000Z</updated>
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
@@ -134,9 +204,16 @@
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Analyzed 500 Power BI Job Postings in 2026. Here Are the 7 Skills That Actually Get You Hired.]]></title>
-        <id>https://pub.towardsai.net/i-analyzed-500-power-bi-job-postings-in-2026-here-are-the-7-skills-that-actually-get-you-hired-9ad9c9c37673?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-analyzed-500-power-bi-job-postings-in-2026-here-are-the-7-skills-that-actually-get-you-hired-9ad9c9c37673?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Anthropic Code Leak: 512,000 Lines Exposed by One npm Mistake]]></title>
+        <id>https://pub.towardsai.net/anthropic-code-leak-512-000-lines-exposed-by-one-npm-mistake-df261de3ff1c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/anthropic-code-leak-512-000-lines-exposed-by-one-npm-mistake-df261de3ff1c?source=rss----98111c9905da---4"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Is a Revenue Multiplier. So Why the Obsession with Cost Cuts?]]></title>
+        <id>https://pub.towardsai.net/ai-is-a-revenue-multiplier-so-why-the-obsession-with-cost-cuts-485453f01afd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-is-a-revenue-multiplier-so-why-the-obsession-with-cost-cuts-485453f01afd?source=rss----98111c9905da---4"/>
         <updated>2026-04-07T16:00:00.000Z</updated>
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
@@ -232,135 +309,58 @@
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Breaking the console: a brief history of video game security]]></title>
-        <id>https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/</id>
-        <link href="https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/"/>
+        <title type="html"><![CDATA[Show HN: I built a local first web-app that builds 3D maps of your knowledge]]></title>
+        <id>https://cognir.netlify.app/</id>
+        <link href="https://cognir.netlify.app/"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TraceFix – paste a Linux/SSH log error, get the root cause and fix command]]></title>
-        <id>https://tracefix.vercel.app/</id>
-        <link href="https://tracefix.vercel.app/"/>
+        <title type="html"><![CDATA[I ran an AI pentester on a vibe-coded quiz app and found 22 vulnerabilities]]></title>
+        <id>https://github.com/FrancescoStabile/numasec</id>
+        <link href="https://github.com/FrancescoStabile/numasec"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CricketBrain: Neuromorphic signal processor in Rust (0.175us/step, 944 bytes)]]></title>
-        <id>https://github.com/BEKO2210/cricket-brain</id>
-        <link href="https://github.com/BEKO2210/cricket-brain"/>
+        <title type="html"><![CDATA[10 Enduring Lessons from Adam Smith]]></title>
+        <id>https://thedailyeconomy.org/article/the-wealth-of-nations-at-250-ten-profound-quotations-from-adam-smith/</id>
+        <link href="https://thedailyeconomy.org/article/the-wealth-of-nations-at-250-ten-profound-quotations-from-adam-smith/"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Wan 2.7 – AI Video Generator for Cinematic Content]]></title>
-        <id>https://wan27.co</id>
-        <link href="https://wan27.co"/>
+        <title type="html"><![CDATA[Show HN: Factagora API – Before your AI hallucinates, Factagora verifies]]></title>
+        <id>https://enterprise.factagora.com/en/api</id>
+        <link href="https://enterprise.factagora.com/en/api"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Coding Planets – turn GitHub contributions into sound and space]]></title>
-        <id>https://joaonetto.me/projects/music/</id>
-        <link href="https://joaonetto.me/projects/music/"/>
+        <title type="html"><![CDATA[I get wanting to test models on CTFs but lame to do this at our university event]]></title>
+        <id>https://twitter.com/_sy1vi3/status/2041379985114411379</id>
+        <link href="https://twitter.com/_sy1vi3/status/2041379985114411379"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Portable offline LLM knowledge system that runs in browser]]></title>
-        <id>https://news.ycombinator.com/item?id=47670330</id>
-        <link href="https://news.ycombinator.com/item?id=47670330"/>
+        <title type="html"><![CDATA[TriAttention: Efficient Long Reasoning with Trigonometric KV Compression]]></title>
+        <id>https://weianmao.github.io/tri-attention-project-page/</id>
+        <link href="https://weianmao.github.io/tri-attention-project-page/"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Softie's View of the Evolution of Windows APIs]]></title>
-        <id>https://twitter.com/stevesi/status/2036921223150440542</id>
-        <link href="https://twitter.com/stevesi/status/2036921223150440542"/>
+        <title type="html"><![CDATA[When War Crimes Rhetoric Becomes Battlefield Reality]]></title>
+        <id>https://www.justsecurity.org/135797/war-crimes-rhetoric-power-plants-iran/</id>
+        <link href="https://www.justsecurity.org/135797/war-crimes-rhetoric-power-plants-iran/"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I'm building a local-first CLI "knowledge foundry" for LLM workflows]]></title>
-        <id>https://twitter.com/theopuslabs/status/2041316189515723028</id>
-        <link href="https://twitter.com/theopuslabs/status/2041316189515723028"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I use Pollinations as a lightweight LLM back end (faster than Hugging Face)]]></title>
-        <id>https://pollinations.ai</id>
-        <link href="https://pollinations.ai"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3x faster project loads with the origin private file system]]></title>
-        <id>https://barndoors.lumafield.com/3x-faster-project-loads-with-the-origin-private-file-system/</id>
-        <link href="https://barndoors.lumafield.com/3x-faster-project-loads-with-the-origin-private-file-system/"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Displaced Workers Could Face Long Setbacks, Report Finds]]></title>
-        <id>https://www.wsj.com/economy/jobs/ai-displaced-workers-could-face-long-setbacks-report-finds-57ef1356</id>
-        <link href="https://www.wsj.com/economy/jobs/ai-displaced-workers-could-face-long-setbacks-report-finds-57ef1356"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: FieldLedgr – Free field service software for tradespeople]]></title>
-        <id>https://www.fieldledgr.com/</id>
-        <link href="https://www.fieldledgr.com/"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An In-Depth Study of Filter-Agnostic Vector Search on PostgreSQL]]></title>
-        <id>https://arxiv.org/abs/2603.23710</id>
-        <link href="https://arxiv.org/abs/2603.23710"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: CacheZero – Karpathy's LLM wiki idea as one NPM install]]></title>
-        <id>https://news.ycombinator.com/item?id=47667723</id>
-        <link href="https://news.ycombinator.com/item?id=47667723"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot CLI combines model families for a second opinion]]></title>
-        <id>https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/</id>
-        <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bernie Sanders: "AI Is a Threat to Everything the American People Hold Dear"]]></title>
-        <id>https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459</id>
-        <link href="https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brevity Constraints Reverse Performance Hierarchies in Language Models]]></title>
-        <id>https://arxiv.org/abs/2604.00025</id>
-        <link href="https://arxiv.org/abs/2604.00025"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Psychic Powers Live TV Special (1989) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=djKBUDg-v-M</id>
-        <link href="https://www.youtube.com/watch?v=djKBUDg-v-M"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I set up a static blog that can be updated just by email]]></title>
-        <id>https://knxnts.xyz/blog-4.6.26.html</id>
-        <link href="https://knxnts.xyz/blog-4.6.26.html"/>
+        <title type="html"><![CDATA["Good Taste" Is Just Experience]]></title>
+        <id>https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/</id>
+        <link href="https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>

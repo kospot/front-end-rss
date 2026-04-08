@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-08 06:00:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-08 08:01:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -56,6 +56,7 @@
 - [2026-03-23-FNODE:-Flow-Matching-for-data-driven-simulation-of-constrained-multibody-systems](https://arxiv.org/abs/2509.00183) 
 - [2026-03-23-KoALA:-KL-L0-Adversarial-Detector-via-Label-Agreement](https://arxiv.org/abs/2510.12752) 
 - [2026-03-23-Predicting-Hidden-Links-and-Missing-Nodes-in-Scale-Free-Networks-with-Artificial-Neural-Networks](https://arxiv.org/abs/2109.12331) 
+- [2026-04-08-Ask-HN:-My-Mac-decided-out-of-the-blue-to-delete-Node.-Why?](https://news.ycombinator.com/item?id=47682659) 
 - [2026-04-05-Show-HN:-A-LinuxCNC-gRPC-Server-with-Clients-in-Rust,-Go,-Python,-Node](https://github.com/dougcalobrisi/linuxcnc-grpc) 
 - [2026-04-02-Iterable-Streams-in-Node.js-25.9.0](https://nodejs.org/api/stream_iter.html) 
 - [2026-03-31-Pwning-V8-with-Turbofan-Type-Confusion-CVE-2025-2135](https://www.zellic.io/blog/pwning-v8ctf/) 
