@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-08T02:01:25.150Z</updated>
+    <updated>2026-04-08T04:02:14.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,135 +71,30 @@
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Personal Site Infrastructure, Diagrammed]]></title>
-        <id>https://www.coryd.dev/posts/2026/personal-site-infrastructure-diagrammed</id>
-        <link href="https://www.coryd.dev/posts/2026/personal-site-infrastructure-diagrammed"/>
+        <title type="html"><![CDATA[Alexander Friedmann and the origins of modern cosmology (2012)]]></title>
+        <id>https://physicstoday.aip.org/features/alexander-friedmann-and-the-origins-of-modern-cosmology</id>
+        <link href="https://physicstoday.aip.org/features/alexander-friedmann-and-the-origins-of-modern-cosmology"/>
         <updated>2026-04-07T16:00:00.000Z</updated>
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Alive Can a Video Game Street Be?]]></title>
-        <id>https://www.youtube.com/watch?v=5wU4AB7Y2Kw</id>
-        <link href="https://www.youtube.com/watch?v=5wU4AB7Y2Kw"/>
+        <title type="html"><![CDATA[Part 1 of 8 – The Infrastructure Entropy Problem]]></title>
+        <id>https://www.planetform.io/blog/infrastructure-entropy-problem</id>
+        <link href="https://www.planetform.io/blog/infrastructure-entropy-problem"/>
         <updated>2026-04-07T16:00:00.000Z</updated>
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICE acknowledges it is using powerful spyware]]></title>
-        <id>https://text.npr.org/nx-s1-5776799</id>
-        <link href="https://text.npr.org/nx-s1-5776799"/>
+        <title type="html"><![CDATA[DayZ devs talk 1.29 server performance update [video]]]></title>
+        <id>https://www.youtube.com/watch?v=xPKl5yOPk28</id>
+        <link href="https://www.youtube.com/watch?v=xPKl5yOPk28"/>
         <updated>2026-04-07T16:00:00.000Z</updated>
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Kylrix- open source de-googled privacy suite for techies]]></title>
-        <id>https://news.ycombinator.com/item?id=47683565</id>
-        <link href="https://news.ycombinator.com/item?id=47683565"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I wrote maternity experience on my resume]]></title>
-        <id>https://story.cv/blog/articles/maternity-leave-on-resume</id>
-        <link href="https://story.cv/blog/articles/maternity-leave-on-resume"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot CLI now supports BYOK and local models]]></title>
-        <id>https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models/</id>
-        <link href="https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models/"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odd Lots: This Is How to Tell If Writing Was Made by AI]]></title>
-        <id>https://www.bloomberg.com/news/audio/2026-04-02/odd-lots-how-to-tell-if-writing-was-made-by-ai-podcast</id>
-        <link href="https://www.bloomberg.com/news/audio/2026-04-02/odd-lots-how-to-tell-if-writing-was-made-by-ai-podcast"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Biggest Oil Disruption in History Is Accelerating the Energy Transition]]></title>
-        <id>https://oilprice.com/Energy/Energy-General/The-Biggest-Oil-Disruption-in-History-Is-Accelerating-the-Energy-Transition.html</id>
-        <link href="https://oilprice.com/Energy/Energy-General/The-Biggest-Oil-Disruption-in-History-Is-Accelerating-the-Energy-Transition.html"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fox to Integrate Kalshi Forecasts Across Fox News Media and Fox One Platforms]]></title>
-        <id>https://news.kalshi.com/p/fox-kalshi-partnership-prediction-market-data-integration</id>
-        <link href="https://news.kalshi.com/p/fox-kalshi-partnership-prediction-market-data-integration"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appwrite 1.9.0: Self-hosting with MongoDB as the underlying database]]></title>
-        <id>https://appwrite.io/blog/post/self-hosting-appwrite-with-mongodb</id>
-        <link href="https://appwrite.io/blog/post/self-hosting-appwrite-with-mongodb"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards Post-Quantum Cryptography in TLS (2019)]]></title>
-        <id>https://blog.cloudflare.com/towards-post-quantum-cryptography-in-tls/</id>
-        <link href="https://blog.cloudflare.com/towards-post-quantum-cryptography-in-tls/"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Hierarchy to Intelligence]]></title>
-        <id>https://sequoiacap.com/article/from-hierarchy-to-intelligence/</id>
-        <link href="https://sequoiacap.com/article/from-hierarchy-to-intelligence/"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Effective Weapon on the Modern Battlefield Is Concrete (2016)]]></title>
-        <id>https://mwi.westpoint.edu/effective-weapon-modern-battlefield-concrete/</id>
-        <link href="https://mwi.westpoint.edu/effective-weapon-modern-battlefield-concrete/"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USCIS.gov sends user/visitor data to Meta and Google]]></title>
-        <id>https://varlog.in/inspect/</id>
-        <link href="https://varlog.in/inspect/"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple and Lenovo have the least repairable laptops, analysis finds]]></title>
-        <id>https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/</id>
-        <link href="https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korea's Contagious Interview Campaign Spreads Across 5 Ecosystems]]></title>
-        <id>https://socket.dev/blog/contagious-interview-campaign-spreads-across-5-ecosystems</id>
-        <link href="https://socket.dev/blog/contagious-interview-campaign-spreads-across-5-ecosystems"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: My Mac decided out of the blue to delete Node. Why?]]></title>
-        <id>https://news.ycombinator.com/item?id=47682659</id>
-        <link href="https://news.ycombinator.com/item?id=47682659"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voice AI that helps families find a parent's finances before crisis hits]]></title>
-        <id>https://www.clearnestme.com/landing.html</id>
-        <link href="https://www.clearnestme.com/landing.html"/>
-        <updated>2026-04-07T16:00:00.000Z</updated>
-        <published>2026-04-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xilem – An experimental Rust native UI framework]]></title>
-        <id>https://github.com/linebender/xilem</id>
-        <link href="https://github.com/linebender/xilem"/>
+        <title type="html"><![CDATA[DocumentDB Fuse – FS interface for the database]]></title>
+        <id>https://github.com/xgerman/documentdbfuse</id>
+        <link href="https://github.com/xgerman/documentdbfuse"/>
         <updated>2026-04-07T16:00:00.000Z</updated>
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
@@ -211,9 +106,135 @@
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DocumentDB Fuse – FS interface for the database]]></title>
-        <id>https://github.com/xgerman/documentdbfuse</id>
-        <link href="https://github.com/xgerman/documentdbfuse"/>
+        <title type="html"><![CDATA[Xilem – An experimental Rust native UI framework]]></title>
+        <id>https://github.com/linebender/xilem</id>
+        <link href="https://github.com/linebender/xilem"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voice AI that helps families find a parent's finances before crisis hits]]></title>
+        <id>https://www.clearnestme.com/landing.html</id>
+        <link href="https://www.clearnestme.com/landing.html"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: My Mac decided out of the blue to delete Node. Why?]]></title>
+        <id>https://news.ycombinator.com/item?id=47682659</id>
+        <link href="https://news.ycombinator.com/item?id=47682659"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea's Contagious Interview Campaign Spreads Across 5 Ecosystems]]></title>
+        <id>https://socket.dev/blog/contagious-interview-campaign-spreads-across-5-ecosystems</id>
+        <link href="https://socket.dev/blog/contagious-interview-campaign-spreads-across-5-ecosystems"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple and Lenovo have the least repairable laptops, analysis finds]]></title>
+        <id>https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/</id>
+        <link href="https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USCIS.gov sends user/visitor data to Meta and Google]]></title>
+        <id>https://varlog.in/inspect/</id>
+        <link href="https://varlog.in/inspect/"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Effective Weapon on the Modern Battlefield Is Concrete (2016)]]></title>
+        <id>https://mwi.westpoint.edu/effective-weapon-modern-battlefield-concrete/</id>
+        <link href="https://mwi.westpoint.edu/effective-weapon-modern-battlefield-concrete/"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Hierarchy to Intelligence]]></title>
+        <id>https://sequoiacap.com/article/from-hierarchy-to-intelligence/</id>
+        <link href="https://sequoiacap.com/article/from-hierarchy-to-intelligence/"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Post-Quantum Cryptography in TLS (2019)]]></title>
+        <id>https://blog.cloudflare.com/towards-post-quantum-cryptography-in-tls/</id>
+        <link href="https://blog.cloudflare.com/towards-post-quantum-cryptography-in-tls/"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appwrite 1.9.0: Self-hosting with MongoDB as the underlying database]]></title>
+        <id>https://appwrite.io/blog/post/self-hosting-appwrite-with-mongodb</id>
+        <link href="https://appwrite.io/blog/post/self-hosting-appwrite-with-mongodb"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fox to Integrate Kalshi Forecasts Across Fox News Media and Fox One Platforms]]></title>
+        <id>https://news.kalshi.com/p/fox-kalshi-partnership-prediction-market-data-integration</id>
+        <link href="https://news.kalshi.com/p/fox-kalshi-partnership-prediction-market-data-integration"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Biggest Oil Disruption in History Is Accelerating the Energy Transition]]></title>
+        <id>https://oilprice.com/Energy/Energy-General/The-Biggest-Oil-Disruption-in-History-Is-Accelerating-the-Energy-Transition.html</id>
+        <link href="https://oilprice.com/Energy/Energy-General/The-Biggest-Oil-Disruption-in-History-Is-Accelerating-the-Energy-Transition.html"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Odd Lots: This Is How to Tell If Writing Was Made by AI]]></title>
+        <id>https://www.bloomberg.com/news/audio/2026-04-02/odd-lots-how-to-tell-if-writing-was-made-by-ai-podcast</id>
+        <link href="https://www.bloomberg.com/news/audio/2026-04-02/odd-lots-how-to-tell-if-writing-was-made-by-ai-podcast"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot CLI now supports BYOK and local models]]></title>
+        <id>https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models/</id>
+        <link href="https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models/"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I wrote maternity experience on my resume]]></title>
+        <id>https://story.cv/blog/articles/maternity-leave-on-resume</id>
+        <link href="https://story.cv/blog/articles/maternity-leave-on-resume"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Kylrix- open source de-googled privacy suite for techies]]></title>
+        <id>https://news.ycombinator.com/item?id=47683565</id>
+        <link href="https://news.ycombinator.com/item?id=47683565"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICE acknowledges it is using powerful spyware]]></title>
+        <id>https://text.npr.org/nx-s1-5776799</id>
+        <link href="https://text.npr.org/nx-s1-5776799"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Alive Can a Video Game Street Be?]]></title>
+        <id>https://www.youtube.com/watch?v=5wU4AB7Y2Kw</id>
+        <link href="https://www.youtube.com/watch?v=5wU4AB7Y2Kw"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <published>2026-04-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personal Site Infrastructure, Diagrammed]]></title>
+        <id>https://www.coryd.dev/posts/2026/personal-site-infrastructure-diagrammed</id>
+        <link href="https://www.coryd.dev/posts/2026/personal-site-infrastructure-diagrammed"/>
         <updated>2026-04-07T16:00:00.000Z</updated>
         <published>2026-04-07T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[Watch this video of how a job interviewer exposes a North Korean fake IT worker]]></title>
         <id>https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/</id>
         <link href="https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google quietly launched an AI dictation app that works offline]]></title>
-        <id>https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/</id>
-        <link href="https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI alums have been quietly investing from a new, potentially $100M fund ]]></title>
-        <id>https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/</id>
-        <link href="https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/"/>
-        <updated>2026-04-06T16:00:00.000Z</updated>
-        <published>2026-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump administration plans to cut cybersecurity agency’s budget by $700 million]]></title>
-        <id>https://techcrunch.com/2026/04/07/cisa-budget-cuts-700-million-cybersecurity-agency-trump/</id>
-        <link href="https://techcrunch.com/2026/04/07/cisa-budget-cuts-700-million-cybersecurity-agency-trump/"/>
         <updated>2026-04-06T16:00:00.000Z</updated>
         <published>2026-04-06T16:00:00.000Z</published>
     </entry>
