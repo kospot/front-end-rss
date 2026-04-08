@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-08 23:03:52。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-09 06:01:46。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -38,7 +38,6 @@
 
 
 
-- [【Smashing Magazine】Building-Dynamic-Forms-In-React-And-Next.js](https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/)
 - [【arXiv ML】Learning-continuous-state-of-charge-dependent-thermal-decomposition-kinetics-for-Li-ion-cathodes-using-Kolmogorov-Arnold-Chemical-Reaction-Neural-Networks-KA-CRNNs](https://arxiv.org/abs/2512.15628)
 - [【arXiv ML】Predict,-Don't-React:-Value-Based-Safety-Forecasting-for-LLM-Streaming](https://arxiv.org/abs/2604.03962)
 - [【arXiv ML】Application-of-parametric-Shallow-Recurrent-Decoder-Network-to-magnetohydrodynamic-flows-in-liquid-metal-blankets-of-fusion-reactors](https://arxiv.org/abs/2604.02139)
@@ -51,12 +50,13 @@
 - [【Towards AI】ReAct-Agents-in-2026:-Build-a-Real-World-Research-Agent-with-LangGraph](https://pub.towardsai.net/react-agents-in-2026-build-a-real-world-research-agent-with-langgraph-af645e9dd2f1?source=rss----98111c9905da---4)
 - [【Towards AI】Building-a-Financial-Research-Agent-with-ReAct,-LangGraph,-and-LangChain](https://pub.towardsai.net/building-a-financial-research-agent-with-react-langgraph-and-langchain-c5d5142d8b29?source=rss----98111c9905da---4)
 - [【Towards AI】A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)
+- [【Hacker News】So-My-Friend-Made-Me-a-Bioreactor](https://chillphysicsenjoyer.substack.com/p/so-my-friend-made-me-a-bioreactor)
 - [【Hacker News】500-MWe-Nuclear-Fast-Breeder-Reactor-built-by-India-attains-first-criticality](https://www.pib.gov.in/FactsheetDetails.aspx?Id=150617)
 - [【Hacker News】Nutrax-–-a-social-calorie-tracking-app-with-AI-food-scanning-iOS](https://apps.apple.com/no/app/nutrax-ai-food-tracker/id6761395869)
 - [【Hacker News】Real-Time-App-Store-IAP-Notifications-via-Telegram-Vercel-Webhook](https://old.reddit.com/r/iOSProgramming/comments/1rn9t4l/realtime_app_store_iap_notifications_via_telegram/)
 - [【Hacker News】A-satellite-smashing-chain-reaction-could-spiral-out-of-control](https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control)
-- [【Hacker News】Scientists-Create-Novel-Organism-with-Primitive-Nervous-System](https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system)
 - [【Hacker News】A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list)
+- [【Hacker News】Scientists-Create-Novel-Organism-with-Primitive-Nervous-System](https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system)
 - [【Hacker News】ViraxLog-–-Tamper-Proof-Logging-Using-Merkle-Trees-and-BLAKE2B-for-Python](https://github.com/damienos61/viraxlog)
 - [......【查看更多】......](/details/tags/react.md)
 
@@ -97,7 +97,6 @@
 
 - [【Node Weekly】How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617)
 - [【JavaScript Weekly】TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778)
-- [【JavaScript Weekly】TypeScript-6.0-RC-and-Solid-2.0-beta-arrive](https://javascriptweekly.com/issues/776)
 - [【Hacker News】Typed-fetch-–-Go-style-error-handling-for-fetch-in-TypeScript](https://github.com/pbpeterson/typed-fetch)
 - [【Hacker News】Pretext:-JavaScript/TypeScript-library-for-multiline-text-measurement-and-layout](https://github.com/chenglou/pretext)
 - [【Hacker News】Show-HN:-A-Postgres-Extension-to-Write-PostgreSQL-Functions-in-TypeScript](https://github.com/isaacd9/pg_typescript)
@@ -120,18 +119,18 @@
 - [【JavaScript Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 - [【JavaScript Weekly】It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
 - [【Towards AI】Anthropic-Code-Leak:-512,000-Lines-Exposed-by-One-npm-Mistake](https://pub.towardsai.net/anthropic-code-leak-512-000-lines-exposed-by-one-npm-mistake-df261de3ff1c?source=rss----98111c9905da---4)
-- [【Hacker News】Show-HN:-CacheZero-–-Karpathy's-LLM-wiki-idea-as-one-NPM-install](https://news.ycombinator.com/item?id=47667723)
 - [【Hacker News】58%-of-PRs-in-our-largest-monorepo-merge-without-human-review](https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review)
-- [【Hacker News】I-Am-a-Cross-Cutting-Concern:-On-Having-a-Personal-Monorepo](https://scottlawsonbc.com/post/monorepo)
+- [【Hacker News】Show-HN:-CacheZero-–-Karpathy's-LLM-wiki-idea-as-one-NPM-install](https://news.ycombinator.com/item?id=47667723)
 - [【Hacker News】1-Click-authentication-with-new-NPM-package](https://www.npmjs.com/package/react-google-one-tap-extention)
-- [【Hacker News】North-Korea-Nexus-Threat-Actor-Compromises-Widely-Used-Axios-NPM-Package](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/)
-- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
-- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
+- [【Hacker News】I-Am-a-Cross-Cutting-Concern:-On-Having-a-Personal-Monorepo](https://scottlawsonbc.com/post/monorepo)
 - [【Hacker News】Top-NPM-package-backdoored-to-drop-dirty-RAT-on-dev-machines](https://www.theregister.com/2026/03/31/axios_npm_backdoor_rat/)
-- [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
-- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
-- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
+- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
+- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
+- [【Hacker News】North-Korea-Nexus-Threat-Actor-Compromises-Widely-Used-Axios-NPM-Package](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/)
 - [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
+- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
+- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
 - [【Hacker News】Show-HN:-Safe-install-–-Docker-first-install-time-hardening-for-pip-and-NPM](https://github.com/Khaeldur/safe-install)
 - [【Wired】Vitesy-Shelfy-2-Smart-Fridge-Purifier-Review:-Small-Box,-Big-Promises](https://www.wired.com/review/vitesy-shelfy-2/)
 - [......【查看更多】......](/details/tags/pack-build.md)
@@ -548,13 +547,13 @@
 
 
 - [【Smashing Magazine】Anime-vs.-Marvel/DC:-Designing-Digital-Products-With-Emotion-In-Flow](https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/)
+- [【GitHub Engineering】GitHub-Universe-is-back:-We-want-you-to-take-the-stage](https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/)
 - [【GitHub Engineering】Securing-the-open-source-supply-chain-across-GitHub](https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/)
 - [【GitHub Engineering】Updates-to-GitHub-Copilot-interaction-data-usage-policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
 - [【GitHub Engineering】Building-AI-powered-GitHub-issue-triage-with-the-Copilot-SDK](https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/)
 - [【GitHub Engineering】GitHub-expands-application-security-coverage-with-AI‑powered-detections](https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/)
-- [【GitHub Engineering】GitHub-availability-report:-February-2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/)
 - [【GitHub Engineering】Addressing-GitHub’s-recent-availability-issues](https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/)
-- [【GitHub Engineering】Under-the-hood:-Security-architecture-of-GitHub-Agentic-Workflows](https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/)
+- [【GitHub Engineering】GitHub-availability-report:-February-2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/)
 - [【arXiv ML】Towards-Build-Optimization-Using-Digital-Twins](https://arxiv.org/abs/2503.19381)
 - [【arXiv ML】Steerable-but-Not-Decodable:-Function-Vectors-Operate-Beyond-the-Logit-Lens](https://arxiv.org/abs/2604.02608)
 - [【arXiv ML】Lead-Zirconate-Titanate-Reservoir-Computing-for-Classification-of-Written-and-Spoken-Digits](https://arxiv.org/abs/2604.00207)
@@ -620,10 +619,10 @@
 - [【Frontend Masters Blog】Image-Gallery-with-Popovers-and-AIM-Anchor-Interpolated-Morph](https://frontendmasters.com/blog/image-gallery-with-popovers-and-aim-anchor-interpolated-morph/)
 - [【Frontend Masters Blog】Form-Associated-Custom-Elements-in-Practice](https://frontendmasters.com/blog/form-associated-custom-elements-in-practice/)
 - [【Frontend Masters Blog】Collaborative-Markdown](https://frontendmasters.com/blog/collaborative-markdown/)
-- [【Frontend Masters Blog】The-Enforced-Accessibility-of-the-Geolocation-Element](https://frontendmasters.com/blog/the-enforced-accessibility-of-the-geolocation-element/)
 - [【张鑫旭】浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)
 - [【阮一峰】科技爱好者周刊（第-391-期）：AI-的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)
 - [【阮一峰】科技爱好者周刊（第-390-期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)
+- [【阮一峰】套壳中国大模型撑起500亿美元估值？扒一扒-Cursor-的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
