@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-08 21:03:58。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-08 23:03:52。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -55,8 +55,8 @@
 - [【Hacker News】Nutrax-–-a-social-calorie-tracking-app-with-AI-food-scanning-iOS](https://apps.apple.com/no/app/nutrax-ai-food-tracker/id6761395869)
 - [【Hacker News】Real-Time-App-Store-IAP-Notifications-via-Telegram-Vercel-Webhook](https://old.reddit.com/r/iOSProgramming/comments/1rn9t4l/realtime_app_store_iap_notifications_via_telegram/)
 - [【Hacker News】A-satellite-smashing-chain-reaction-could-spiral-out-of-control](https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control)
-- [【Hacker News】A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list)
 - [【Hacker News】Scientists-Create-Novel-Organism-with-Primitive-Nervous-System](https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system)
+- [【Hacker News】A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list)
 - [【Hacker News】ViraxLog-–-Tamper-Proof-Logging-Using-Merkle-Trees-and-BLAKE2B-for-Python](https://github.com/damienos61/viraxlog)
 - [......【查看更多】......](/details/tags/react.md)
 
@@ -120,18 +120,18 @@
 - [【JavaScript Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 - [【JavaScript Weekly】It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
 - [【Towards AI】Anthropic-Code-Leak:-512,000-Lines-Exposed-by-One-npm-Mistake](https://pub.towardsai.net/anthropic-code-leak-512-000-lines-exposed-by-one-npm-mistake-df261de3ff1c?source=rss----98111c9905da---4)
-- [【Hacker News】58%-of-PRs-in-our-largest-monorepo-merge-without-human-review](https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review)
 - [【Hacker News】Show-HN:-CacheZero-–-Karpathy's-LLM-wiki-idea-as-one-NPM-install](https://news.ycombinator.com/item?id=47667723)
-- [【Hacker News】1-Click-authentication-with-new-NPM-package](https://www.npmjs.com/package/react-google-one-tap-extention)
+- [【Hacker News】58%-of-PRs-in-our-largest-monorepo-merge-without-human-review](https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review)
 - [【Hacker News】I-Am-a-Cross-Cutting-Concern:-On-Having-a-Personal-Monorepo](https://scottlawsonbc.com/post/monorepo)
-- [【Hacker News】Top-NPM-package-backdoored-to-drop-dirty-RAT-on-dev-machines](https://www.theregister.com/2026/03/31/axios_npm_backdoor_rat/)
-- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
-- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
+- [【Hacker News】1-Click-authentication-with-new-NPM-package](https://www.npmjs.com/package/react-google-one-tap-extention)
 - [【Hacker News】North-Korea-Nexus-Threat-Actor-Compromises-Widely-Used-Axios-NPM-Package](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/)
-- [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
-- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
-- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
+- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
+- [【Hacker News】Top-NPM-package-backdoored-to-drop-dirty-RAT-on-dev-machines](https://www.theregister.com/2026/03/31/axios_npm_backdoor_rat/)
 - [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
+- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
+- [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
 - [【Hacker News】Show-HN:-Safe-install-–-Docker-first-install-time-hardening-for-pip-and-NPM](https://github.com/Khaeldur/safe-install)
 - [【Wired】Vitesy-Shelfy-2-Smart-Fridge-Purifier-Review:-Small-Box,-Big-Promises](https://www.wired.com/review/vitesy-shelfy-2/)
 - [......【查看更多】......](/details/tags/pack-build.md)

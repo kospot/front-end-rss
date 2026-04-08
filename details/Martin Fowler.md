@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-04-08 21:03:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-08 23:03:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Martin Fowler
 
 
 
 
+- [2026-04-08-Feedback-Flywheel](https://martinfowler.com/articles/reduce-friction-ai/feedback-flywheel.html) 
 - [2026-04-07-Principles-of-Mechanical-Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html) 
 - [2026-04-03-Fragments:-April-2](https://martinfowler.com/fragments/2026-04-02.html) 
 - [2026-04-02-Harness-engineering-for-coding-agent-users](https://martinfowler.com/articles/harness-engineering.html) 
