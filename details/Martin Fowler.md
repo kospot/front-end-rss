@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-09 23:03:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-10 06:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Martin Fowler
 
@@ -16,4 +16,3 @@
 - [2026-03-19-Fragments:-March-19](https://martinfowler.com/fragments/2026-03-19.html) 
 - [2026-03-17-Context-Anchoring](https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html) 
 - [2026-03-16-Fragments:-March-16](https://martinfowler.com/fragments/2026-03-16.html) 
-- [2026-03-11-Fragments:-March-10](https://martinfowler.com/fragments/2026-03-10.html) 
