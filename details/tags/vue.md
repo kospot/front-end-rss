@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-09 10:01:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-09 12:01:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-04-09-SHAPE:-Stage-aware-Hierarchical-Advantage-via-Potential-Estimation-for-LLM-Reasoning](https://arxiv.org/abs/2604.06636) 
 - [2026-04-07-Selecting-Decision-Relevant-Concepts-in-Reinforcement-Learning](https://arxiv.org/abs/2604.04808) 
 - [2026-04-06-Mitigating-Reward-Hacking-in-RLHF-via-Advantage-Sign-Robustness](https://arxiv.org/abs/2604.02986) 
 - [2026-03-31-Unveiling-Implicit-Advantage-Symmetry:-Why-GRPO-Struggles-with-Exploration-and-Difficulty-Adaptation](https://arxiv.org/abs/2602.05548) 
