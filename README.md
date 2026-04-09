@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-09 08:01:13，:rocket: 更新条数: +1206， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-09 10:01:09，:rocket: 更新条数: +1201， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,7 +19,7 @@
 - [web.dev](#web.dev)  
 - [CSS-Tricks](#css-tricks)![](/assets/dot.png)   
 - [Smashing-Magazine](#smashing-magazine)![](/assets/dot.png)   
-- [Frontend-Masters-Blog](#frontend-masters-blog)![](/assets/dot.png)   
+- [Frontend-Masters-Blog](#frontend-masters-blog)  
 - [Overreacted](#overreacted)![](/assets/dot.png)   
 - [2ality](#2ality)  
 - [Jake-Archibald](#jake-archibald)![](/assets/dot.png)   
@@ -57,9 +57,9 @@
 - [ChatGPT-更新](#chatgpt-更新)  
 - [Hacker-News](#hacker-news)![](/assets/dot.png)   
 - [TechCrunch](#techcrunch)  
-- [Wired](#wired)![](/assets/dot.png)   
+- [Wired](#wired)  
 - [Engadget](#engadget)  
-- [少数派](#少数派)  
+- [少数派](#少数派)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -113,15 +113,15 @@
 - [2026-04-07-Alternatives-to-the-!important-Keyword](https://css-tricks.com/alternatives-to-the-important-keyword/)  
 - [2026-04-06-Looking-at-New-CSS-Multi-Column-Layout-Wrapping-Features](https://css-tricks.com/css-multi-column-layout-wrapping-features/)  
 - [2026-04-02-Making-Complex-CSS-Shapes-Using-shape](https://css-tricks.com/complex-css-shapes-with-shape-function/)  
-- [2026-04-01-Front-End-Fools:-Top-10-April-Fools’-UI-Pranks-of-All-Time](https://css-tricks.com/front-end-april-fools-top-10/)  
 - [2026-04-01-Sniffing-Out-the-CSS-Olfactive-API](https://css-tricks.com/css-olfactive-api/)  
+- [2026-04-01-Front-End-Fools:-Top-10-April-Fools’-UI-Pranks-of-All-Time](https://css-tricks.com/front-end-april-fools-top-10/)  
 - [2026-03-31-What’s-!important-#8:-Light/Dark-Favicons,-@mixin,-object-view-box,-and-More](https://css-tricks.com/whats-important-8/)  
 - [2026-03-30-Form-Automation-Tips-for-Happier-User-and-Clients](https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/)  
 - [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)  
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
+- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [2026-03-11-Abusing-Customizable-Selects](https://css-tricks.com/abusing-customizable-selects/)  
 - [......【查看更多】......](/details/CSS-Tricks.md)
 
@@ -155,7 +155,7 @@
 </summary>
 
 
-- [2026-04-09-Keith-Cirkel](https://frontendmasters.com/blog/keith-cirkel/) ![](/assets/new.png)  
+- [2026-04-09-Keith-Cirkel](https://frontendmasters.com/blog/keith-cirkel/)  
 - [2026-04-07-Name-Only-Containers:-The-Scoping-We-Needed](https://frontendmasters.com/blog/name-only-containers-the-scoping-we-needed/)  
 - [2026-04-06-Let’s-Get-Puzzled!](https://frontendmasters.com/blog/creating-puzzle-peices-in-css/)  
 - [2026-04-03-What-To-Know-in-JavaScript-2026-Edition](https://frontendmasters.com/blog/what-to-know-in-javascript-2026-edition/)  
@@ -511,19 +511,19 @@
 </summary>
 
 
-- [2026-04-08-not-much-happened-today](https://news.smol.ai/issues/26-04-08-not-much/) ![](/assets/new.png)  
+- [2026-04-08-not-much-happened-today](https://news.smol.ai/issues/26-04-08-not-much/)  
 - [2026-04-07-anthropic](https://news.smol.ai/issues/26-04-06-anthropic-mythos/)  
+- [2026-04-06-not-much-happened-today](https://news.smol.ai/issues/26-04-07-not-much/)  
 - [2026-04-06-not-much-happened-today](https://news.smol.ai/issues/26-04-06-not-much/)  
-- [2026-04-06-not-much-happened-today](https://news.smol.ai/issues/26-04-07-not-much/) ![](/assets/new.png)  
 - [2026-04-03-not-much-happened-today](https://news.smol.ai/issues/26-04-03-not-much/)  
 - [2026-04-02-Gemma-4](https://news.smol.ai/issues/26-04-02-gemma-4/)  
 - [2026-04-01-not-much-happened-today](https://news.smol.ai/issues/26-04-01-not-much/)  
 - [2026-03-30-not-much-happened-today](https://news.smol.ai/issues/26-03-30-not-much/)  
 - [2026-03-27-not-much-happened-today](https://news.smol.ai/issues/26-03-27-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-31-claude-code-leak/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
 - [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-31-claude-code-leak/)  
 - [2026-03-23-not-much-happened-today](https://news.smol.ai/issues/26-03-23-not-much/)  
 - [2026-03-20-not-much-happened-today](https://news.smol.ai/issues/26-03-20-not-much/)  
 - [2026-03-19-not-much-happened-today](https://news.smol.ai/issues/26-03-19-not-much/)  
@@ -542,26 +542,26 @@
 </summary>
 
 
-- [2026-04-09-The-Silent-Crisis-in-Your-AI-Codebase-and-Why-MCP-Changes-Everything](https://pub.towardsai.net/the-silent-crisis-in-your-ai-codebase-and-why-mcp-changes-everything-5f0e52d55d54?source=rss----98111c9905da---4)  
-- [2026-04-09-Designing-Ontology-Aware-Tooling-for-Agents](https://pub.towardsai.net/designing-ontology-aware-tooling-for-agents-61035921af1c?source=rss----98111c9905da---4)  
-- [2026-04-09-You-Fine-Tuned-Your-Model.-Now-It’s-Worse.-Here’s-the-Concept-You-Were-Never-Taught.](https://pub.towardsai.net/you-fine-tuned-your-model-now-its-worse-here-s-the-concept-you-were-never-taught-784266e1f13b?source=rss----98111c9905da---4)  
-- [2026-04-09-Post-SFT-Alignment-with-DPO-and-GRPO-:-How-to-Fine-Tune-Correctly,-Part-6](https://pub.towardsai.net/post-sft-alignment-with-dpo-and-grpo-how-to-fine-tune-correctly-part-6-31feed90c9a0?source=rss----98111c9905da---4)  
-- [2026-04-09-Top-20-Data-Preparation-Interview-Questions-and-Answers-Part-1-of-2](https://pub.towardsai.net/top-20-data-preparation-interview-questions-and-answers-part-1-of-2-e554ebb68fce?source=rss----98111c9905da---4)  
+- [2026-04-09-Andrej-Karpathy-Killed-RAG.-Or-Did-He?-The-LLM-Wiki-Pattern](https://pub.towardsai.net/andrej-karpathy-killed-rag-or-did-he-the-llm-wiki-pattern-7824d876e790?source=rss----98111c9905da---4)  
+- [2026-04-09-Markdown-as-an-Agent-Instruction-File:-How-to-Write-Files-That-Agents-Actually-Read](https://pub.towardsai.net/markdown-as-an-agent-instruction-file-how-to-write-files-that-agents-actually-read-5722ede42ff2?source=rss----98111c9905da---4)  
+- [2026-04-09-RAG-vs-MCP:-The-Architectural-Difference-Every-AI-Developer-Must-Understand](https://pub.towardsai.net/rag-vs-mcp-the-architectural-difference-every-ai-developer-must-understand-736b08a24ed0?source=rss----98111c9905da---4)  
+- [2026-04-09-How-I-Deployed-an-AI-Agent-Swarm-on-Railway-and-Why-It-Actually-Works](https://pub.towardsai.net/how-i-deployed-an-ai-agent-swarm-on-railway-and-why-it-actually-works-5d8d142a2c5a?source=rss----98111c9905da---4)  
+- [2026-04-09-The-Silicon-Protocol:-The-De-identification-Decision-—-When-“We’ll-Just-Anonymize-It”-Becomes-a-$1.2](https://pub.towardsai.net/the-silicon-protocol-the-de-identification-decision-when-well-just-anonymize-it-becomes-a-1-2-e8d694461b29?source=rss----98111c9905da---4)  
 - [2026-04-09-Semantic-Caching-in-Agentic-AI:-Determining-Cache-Eligibility-and-Invalidation](https://pub.towardsai.net/semantic-caching-in-agentic-ai-determining-cache-eligibility-and-invalidation-3cf1add6ded7?source=rss----98111c9905da---4)  
-- [2026-04-09-The-Silicon-Protocol:-The-De-identification-Decision-—-When-“We’ll-Just-Anonymize-It”-Becomes-a-$1.2](https://pub.towardsai.net/the-silicon-protocol-the-de-identification-decision-when-well-just-anonymize-it-becomes-a-1-2-e8d694461b29?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-04-09-How-I-Deployed-an-AI-Agent-Swarm-on-Railway-and-Why-It-Actually-Works](https://pub.towardsai.net/how-i-deployed-an-ai-agent-swarm-on-railway-and-why-it-actually-works-5d8d142a2c5a?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-04-09-RAG-vs-MCP:-The-Architectural-Difference-Every-AI-Developer-Must-Understand](https://pub.towardsai.net/rag-vs-mcp-the-architectural-difference-every-ai-developer-must-understand-736b08a24ed0?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-04-09-Markdown-as-an-Agent-Instruction-File:-How-to-Write-Files-That-Agents-Actually-Read](https://pub.towardsai.net/markdown-as-an-agent-instruction-file-how-to-write-files-that-agents-actually-read-5722ede42ff2?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-04-09-Andrej-Karpathy-Killed-RAG.-Or-Did-He?-The-LLM-Wiki-Pattern](https://pub.towardsai.net/andrej-karpathy-killed-rag-or-did-he-the-llm-wiki-pattern-7824d876e790?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-04-08-I-Built-a-Tiny-Graph-Computer-Inside-a-Graph-Neural-Network](https://pub.towardsai.net/i-built-a-tiny-graph-computer-inside-a-graph-neural-network-fa09949f4872?source=rss----98111c9905da---4)  
-- [2026-04-08-Building-AI-Ready-Backends-With-Spring-Boot-in-2026](https://pub.towardsai.net/building-ai-ready-backends-with-spring-boot-in-2026-1f649a166aee?source=rss----98111c9905da---4)  
-- [2026-04-08-Building-ML-in-the-Dark:-A-Survival-Guide-for-the-Solo-Practitioner](https://pub.towardsai.net/building-ml-in-the-dark-a-survival-guide-for-the-solo-practitioner-0b42d272f3d8?source=rss----98111c9905da---4)  
-- [2026-04-08-AI-Is-a-Revenue-Multiplier.-So-Why-the-Obsession-with-Cost-Cuts?](https://pub.towardsai.net/ai-is-a-revenue-multiplier-so-why-the-obsession-with-cost-cuts-485453f01afd?source=rss----98111c9905da---4)  
-- [2026-04-08-Anthropic-Code-Leak:-512,000-Lines-Exposed-by-One-npm-Mistake](https://pub.towardsai.net/anthropic-code-leak-512-000-lines-exposed-by-one-npm-mistake-df261de3ff1c?source=rss----98111c9905da---4)  
-- [2026-04-08-Privacy-First-Personalization:-How-Synthetic-Data-Powers-Accurate-Recommendations-Without-Risk](https://pub.towardsai.net/privacy-first-personalization-how-synthetic-data-powers-accurate-recommendations-without-risk-99123a32cbd1?source=rss----98111c9905da---4)  
-- [2026-04-08-Cursor-3-Just-Launched-Cloud-Agents:-I-Just-Tested-It-And-It’s-Bigger-Than-It-Looks](https://pub.towardsai.net/cursor-3-just-launched-cloud-agents-i-just-tested-it-and-its-bigger-than-it-looks-613ba4a997ce?source=rss----98111c9905da---4)  
-- [2026-04-08-OpenAI’s-Billion‑Dollar-Reality-Check](https://pub.towardsai.net/openais-billion-dollar-reality-check-b0321a4a13fc?source=rss----98111c9905da---4)  
-- [2026-04-08-Force-Multiplier:-The-4-Pillars-of-Claude-Code-Every-Developer-Needs-to-Master](https://pub.towardsai.net/force-multiplier-the-4-pillars-of-claude-code-every-developer-needs-to-master-b4e0cd96742d?source=rss----98111c9905da---4)  
+- [2026-04-09-Top-20-Data-Preparation-Interview-Questions-and-Answers-Part-1-of-2](https://pub.towardsai.net/top-20-data-preparation-interview-questions-and-answers-part-1-of-2-e554ebb68fce?source=rss----98111c9905da---4)  
+- [2026-04-09-Post-SFT-Alignment-with-DPO-and-GRPO-:-How-to-Fine-Tune-Correctly,-Part-6](https://pub.towardsai.net/post-sft-alignment-with-dpo-and-grpo-how-to-fine-tune-correctly-part-6-31feed90c9a0?source=rss----98111c9905da---4)  
+- [2026-04-09-You-Fine-Tuned-Your-Model.-Now-It’s-Worse.-Here’s-the-Concept-You-Were-Never-Taught.](https://pub.towardsai.net/you-fine-tuned-your-model-now-its-worse-here-s-the-concept-you-were-never-taught-784266e1f13b?source=rss----98111c9905da---4)  
+- [2026-04-09-Designing-Ontology-Aware-Tooling-for-Agents](https://pub.towardsai.net/designing-ontology-aware-tooling-for-agents-61035921af1c?source=rss----98111c9905da---4)  
+- [2026-04-09-The-Silent-Crisis-in-Your-AI-Codebase-and-Why-MCP-Changes-Everything](https://pub.towardsai.net/the-silent-crisis-in-your-ai-codebase-and-why-mcp-changes-everything-5f0e52d55d54?source=rss----98111c9905da---4)  
+- [2026-04-09-Build-a-Book-Catalog-Template-in-Excel-with-ChatGPT:-A-Step-by-Step-Tutorial](https://pub.towardsai.net/build-a-book-catalog-template-in-excel-with-chatgpt-a-step-by-step-tutorial-1428e2130104?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-04-08-Your-Job-Isn’t-Being-Taken-—-Yet.-But-Your-Next-One-Might-Not-Exist.](https://pub.towardsai.net/your-job-isnt-being-taken-yet-but-your-next-one-might-not-exist-6a024c640b53?source=rss----98111c9905da---4)  
+- [2026-04-08-Google-Enhances-AI-Inference-Control-for-Enterprises](https://pub.towardsai.net/google-enhances-ai-inference-control-for-enterprises-acdb5cd7dea0?source=rss----98111c9905da---4)  
+- [2026-04-08-Agentic-AI-in-Action-—-Part-17-—-Building-a-Domain-Expert-Agent-with-Memory,-Reasoning,-and…](https://pub.towardsai.net/building-a-domain-expert-agent-with-memory-reasoning-and-learning-664be23a229c?source=rss----98111c9905da---4)  
+- [2026-04-08-I-Tested-GPT-5.4-vs-Claude-Opus-4.6-on-20-Real-Tasks-—-The-#1-Model-on-LMSYS-Isn't-What-You-Think](https://pub.towardsai.net/i-tested-gpt-5-4-vs-claude-opus-4-6-on-20-real-tasks-the-1-model-on-lmsys-isnt-what-you-think-8ade957dea0d?source=rss----98111c9905da---4)  
+- [2026-04-08-Wisdom-of-the-Crowds:-The-Secret-Behind-the-Random-Forest](https://pub.towardsai.net/wisdom-of-the-crowds-the-secret-behind-the-random-forest-e5a7ed92fdff?source=rss----98111c9905da---4)  
+- [2026-04-08-Why-Static-Embeddings-Were-Not-Enough:-The-Point-Where-Meaning-Needed-Context](https://pub.towardsai.net/why-static-embeddings-were-not-enough-the-point-where-meaning-needed-context-9ad391695002?source=rss----98111c9905da---4)  
+- [2026-04-08-Claude-Code-Section-4:-Production-Mastery-—-7-Advanced-Workflows-That-Make-Claude-Code-a-True-Force…](https://pub.towardsai.net/claude-code-section-4-production-mastery-7-advanced-workflows-that-make-claude-code-a-true-force-1ca216915f1f?source=rss----98111c9905da---4)  
+- [2026-04-08-The-Entire-$50-Billion-Vector-Database-Industry-Was-Built-on-a-Category-Error.](https://pub.towardsai.net/the-entire-50-billion-vector-database-industry-was-built-on-a-category-error-5ce03b0ee30a?source=rss----98111c9905da---4)  
 - [......【查看更多】......](/details/Towards AI.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -641,8 +641,8 @@
 </summary>
 
 
-- [2026-04-08-What-Makes-Modern-Online-Casinos-So-Popular](https://www.52nlp.cn/what-makes-modern-online-casinos-so-popular-1359)  
 - [2026-04-08-What-Makes-Modern-Online-Casinos-So-Popular](https://www.52nlp.cn/what-makes-modern-online-casinos-so-popular-1207)  
+- [2026-04-08-What-Makes-Modern-Online-Casinos-So-Popular](https://www.52nlp.cn/what-makes-modern-online-casinos-so-popular-1359)  
 - [......【查看更多】......](/details/我爱自然语言处理.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -676,26 +676,26 @@
 </summary>
 
 
-- [2026-04-09-Hsihp-Hsims](https://fromouterstace.com)  
-- [2026-04-09-Prisoner's-Dilemma-–-An-Extension-from-game-theory](https://pd.luthira.com/)  
-- [2026-04-09-Resurrecting-a-1992-MUD-with-Agentic-AI](https://meditations.metavert.io/p/resurrecting-a-1992-mud-with-agentic)  
-- [2026-04-09-Once-'Ultra-MAGA',-Trump-Supporters-Fume-About-Iran-on-Truth-Social](https://www.nytimes.com/2026/04/08/us/politics/trump-truth-social-iran.html)  
-- [2026-04-09-Volatco-–-Powerful-Multicompute](https://volatco.github.io/)  
-- [2026-04-09-Show-HN:-Linggen-–-Open-source-AI-agent-with-P2P-remote-access-from-your-phone](https://linggen.dev/)  
-- [2026-04-09-How-to-Connect-to-Builders-in-Web3](https://woof.software/)  
-- [2026-04-09-Google-engineer-rejected-by-colleges-uses-AI-to-sue-for-racial-discrimination](https://abc7news.com/post/google-engineer-rejected-colleges-uses-ai-sue-ucs-other-universities-racial-discrimination/18849388/)  
-- [2026-04-09-AI-Did-It-in-12-Minutes.-It-Took-Me-10-Hours-to-Fix-It](https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code)  
-- [2026-04-09-Show-HN:-Is-Hormuz-Open-Yet?](https://www.ishormuzopenyet.com/)  
-- [2026-04-09-Finetuning-Activates-Verbatim-Recall-of-Copyrighted-Books-in-LLMs](https://arxiv.org/abs/2603.20957)  
-- [2026-04-09-Boots-on-the-Ground,-Flip-Flops-in-the-Air-pdf](https://drive.google.com/file/d/1DrnHCWOQ7PRHNBqbxdqT_yQMRVFC8YbD/view?usp=drive_link)  
-- [2026-04-09-Show-HN:-Phantom-UI-–-Skeleton-that-measures-your-real-DOM-Web-Component,-8kb](https://github.com/Aejkatappaja/phantom-ui)  
-- [2026-04-09-Agent-Brain-–-7-layer-cognitive-memory-for-AI-agents-open-source](https://github.com/kaderosio/agent-brain)  
-- [2026-04-09-OpenAI:-The-Next-Phase-of-Enterprise-AI](https://openai.com/index/next-phase-of-enterprise-ai/)  
-- [2026-04-09-Show-HN:-SessionFlow-macOS-app-that-auto-schedules-sessions-around-your-calendar](https://github.com/kibermaks/SessionFlow)  
-- [2026-04-09-Grading-laptop-and-cell-phone-companies-on-the-fixability-of-their-products](https://pirg.org/edfund/resources/failing-the-fix-2026/)  
-- [2026-04-09-So-My-Friend-Made-Me-a-Bioreactor](https://chillphysicsenjoyer.substack.com/p/so-my-friend-made-me-a-bioreactor)  
-- [2026-04-09-Anthropic-Set-to-Preview-Powerful-'Mythos'-Model-to-Ward-Off-AI-Cyberthreats](https://www.wsj.com/tech/ai/anthropic-set-to-preview-powerful-mythos-model-to-ward-off-ai-cyberthreats-75683cf5)  
+- [2026-04-09-54kb-Minecraft-clone-made-without-a-graphics-library-video](https://www.youtube.com/watch?v=JO8EnzNfEk4)  
+- [2026-04-09-Show-HN:-Infer-–-Pipe-friendly-Agent-Harness-with-one-tool:-Bash](https://github.com/turlockmike/infer)  
+- [2026-04-09-I-built-a-tool-to-let-you-export-your-X-bookmarks-and-categorize-them](https://x-archive.netlify.app/)  
+- [2026-04-09-Google-backs-London-AI-Campus-with-Camden-partners-to-expand-AI-skills-provision](https://www.edtechinnovationhub.com/news/google-backs-london-ai-campus-with-camden-partners-to-expand-ai-skills-provision)  
+- [2026-04-09-Automatic-registration-for-US-Military-draft-to-begin-in-December](https://thehill.com/policy/defense/5822914-automatic-registration-military-draft/)  
+- [2026-04-09-Boring-Is-Good-2024](https://www.coryd.dev/posts/2024/boring-is-good)  
+- [2026-04-09-Russian-spooks-hack-Wi-Fi-routers-to-spy-on-West](https://www.politico.eu/article/russias-gru-hacked-hundreds-of-wi-fi-routers-world-wide/)  
+- [2026-04-09-Show-HN:-Free-AI-ad-credits.md-–-$12K+-in-free-AI-ad-credits](https://github.com/darwin-studios/agents/blob/main/free-ai-ad-credits.md)  
+- [2026-04-09-Claude-Managed-Agents-Overview](https://platform.claude.com/docs/en/managed-agents/overview)  
+- [2026-04-09-The-Cost-of-Scrolling](https://azariak.github.io/CostOfScrolling/)  
+- [2026-04-09-Have-Codex-review-Claude's-work](https://gist.github.com/anchpop/56688d3526e1d4019db7c4fc1bcb2b2c)  
+- [2026-04-09-The-Political-Disaster-That-Is-California-video15min](https://www.youtube.com/watch?v=inOci0iH4Q8)  
+- [2026-04-09-Amazon-Stopping-Support-for-Old-Kindles](https://www.independent.co.uk/news/world/americas/amazon-kindle-ending-support-old-e-readers-b2953972.html)  
+- [2026-04-09-Show-HN:-Prefab-–-A-generative-UI-framework-for-Python](https://prefab.prefect.io/docs/welcome)  
+- [2026-04-09-Local-SEO-Analyst-Agent-–-PDF-Report-Generation](https://github.com/jeffjbowie/Local-SEO-Analyst-Agent)  
+- [2026-04-09-Are-We-in-the-Chinese-Room?](https://thefriendlyghost.nl/chinese-room-ai/)  
+- [2026-04-09-The-Hormuz-chokehold-affects-AI-funding-too](https://highabsolutevalue.substack.com/p/the-hormuz-chokehold-affects-ai-funding)  
+- [2026-04-09-I-Don't-Care-What-the-Haters-Are-Saying,-I'm-Having-a-Blast](https://systemdrift.neocities.org/blog/i-dont-care-what-the-haters-are-saying-im-having-a-blast)  
 - [2026-04-09-Show-HN:-I-built-a-local-data-lake-for-AI-powered-data-engineering-and-analytics](https://stream-sock-3f5.notion.site/Nile-Local-an-AI-Data-IDE-that-runs-on-your-local-machine-33b126c4d01a8052a96cc879c2dea08e?source=copy_link)  
+- [2026-04-09-Anthropic-Set-to-Preview-Powerful-'Mythos'-Model-to-Ward-Off-AI-Cyberthreats](https://www.wsj.com/tech/ai/anthropic-set-to-preview-powerful-mythos-model-to-ward-off-ai-cyberthreats-75683cf5)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -746,7 +746,7 @@
 - [2026-04-09-5-Burning-Questions-About-Elon-Musk’s-Terafab-Chip-Partnership-with-Intel](https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/)  
 - [2026-04-09-Anthropic’s-New-Product-Aims-to-Handle-the-Hard-Part-of-Building-AI-Agents](https://www.wired.com/story/anthropic-launches-claude-managed-agents/)  
 - [2026-04-09-Amazon-Pulls-Support-for-Perfectly-Fine-Older-Kindles](https://www.wired.com/story/amazon-pulls-support-for-perfectly-fine-older-kindles/)  
-- [2026-04-09-Conflicting-Rulings-Leave-Anthropic-in-‘Supply-Chain-Risk’-Limbo](https://www.wired.com/story/anthropic-appeals-court-ruling/) ![](/assets/new.png)  
+- [2026-04-09-Conflicting-Rulings-Leave-Anthropic-in-‘Supply-Chain-Risk’-Limbo](https://www.wired.com/story/anthropic-appeals-court-ruling/)  
 - [2026-04-08-The-Next-Attorney-General-Will-Probably-Be-an-Election-Denier](https://www.wired.com/story/the-next-attorney-general-will-probably-be-an-election-denier/)  
 - [2026-04-08-The-Best-Automatic-Litter-Box-of-2026:-Petkit-and-Litter-Robot](https://www.wired.com/gallery/best-automatic-cat-litter-boxes/)  
 - [2026-04-08-Dyson-Spot+Scrub-Ai-Robot-Vacuum-Review-2026](https://www.wired.com/review/dyson-spot-scrub-ai/)  
@@ -780,26 +780,26 @@
 </summary>
 
 
-- [2026-04-08-Type-C-接口最大的问题，是看起来已经「统一」了](https://sspai.com/post/108325)  
-- [2026-04-08-谈谈-Windows-的视觉风格与交互演变](https://sspai.com/prime/story/windows-ui-styles-history)  
-- [2026-04-08-派早报：macOS-内核-TCP-协议栈存在溢出漏洞、Google-Pixel-10a-推出独占版本等](https://sspai.com/post/108380)  
-- [2026-04-08-🎁-福利派-|-少数派首款超薄钢化膜今日开售](https://sspai.com/post/108285)  
+- [2026-04-09-派早报：智谱发布旗舰模型-GLM-5.1、索尼推出-Playerbase-计划等](https://sspai.com/post/108426) ![](/assets/new.png)  
 - [2026-04-08-回望日系手机的「加拉帕戈斯」时代](https://sspai.com/prime/story/a-look-at-the-galapagos-era-of-japanese-cellphones)  
-- [2026-04-07-互联网，电子游戏与屏幕之后的个人健康](https://sspai.com/post/108322)  
-- [2026-04-07-派早报：OpenAI-发布文章探讨-AI-时代的政策建议等](https://sspai.com/post/108326)  
-- [2026-04-07-写给「跑两步就喘」的你：跑前精准热身，缓解跑时疼痛](https://sspai.com/post/108150)  
+- [2026-04-08-🎁-福利派-|-少数派首款超薄钢化膜今日开售](https://sspai.com/post/108285)  
+- [2026-04-08-派早报：macOS-内核-TCP-协议栈存在溢出漏洞、Google-Pixel-10a-推出独占版本等](https://sspai.com/post/108380)  
+- [2026-04-08-谈谈-Windows-的视觉风格与交互演变](https://sspai.com/prime/story/windows-ui-styles-history)  
+- [2026-04-08-Type-C-接口最大的问题，是看起来已经「统一」了](https://sspai.com/post/108325)  
 - [2026-04-07-社区速递-136-|-派友大秀-Vibe-Coding-作品、ROCK-数据线收纳盒与空气凤梨](https://sspai.com/post/108343)  
+- [2026-04-07-写给「跑两步就喘」的你：跑前精准热身，缓解跑时疼痛](https://sspai.com/post/108150)  
+- [2026-04-07-派早报：OpenAI-发布文章探讨-AI-时代的政策建议等](https://sspai.com/post/108326)  
+- [2026-04-07-互联网，电子游戏与屏幕之后的个人健康](https://sspai.com/post/108322)  
 - [2026-04-06-App+1｜装上它、然后忘掉它：用-ShotClean-自动化管理截图](https://sspai.com/post/108294)  
 - [2026-04-05-愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护](https://sspai.com/post/69901)  
 - [2026-04-04-买前必看：千问-AI-眼镜-G1-自费长测](https://sspai.com/post/108103)  
-- [2026-04-03-为了将网页变为应用程序，我们付出了多少努力？（一）](https://sspai.com/post/107928)  
-- [2026-04-03-派早报：Google-发布-Gemma-4-开源系列模型、智谱发布-GLM-5V-Turbo-多模态模型等](https://sspai.com/post/108209)  
-- [2026-04-03-vivo-X300-Ultra-影像漫谈：最大的变化是变化很大](https://sspai.com/post/108187)  
 - [2026-04-03-本周看什么-|-最近值得一看的-9-部作品](https://sspai.com/post/108231)  
-- [2026-04-02-派晚报：2026-年愚人节产品大赏](https://sspai.com/post/108197)  
-- [2026-04-02-派早报：OPPO-发布-K15-Pro-系列、DLSS-4.5-开始推送等](https://sspai.com/post/108175)  
-- [2026-04-02-被咬一口的世界，苹果-50-年的疯狂与奇迹](https://sspai.com/post/107218)  
+- [2026-04-03-vivo-X300-Ultra-影像漫谈：最大的变化是变化很大](https://sspai.com/post/108187)  
+- [2026-04-03-派早报：Google-发布-Gemma-4-开源系列模型、智谱发布-GLM-5V-Turbo-多模态模型等](https://sspai.com/post/108209)  
+- [2026-04-03-为了将网页变为应用程序，我们付出了多少努力？（一）](https://sspai.com/post/107928)  
 - [2026-04-02-汇聚热爱，「2050-大会」少数派线下活动邀请你来参与](https://sspai.com/post/108202)  
+- [2026-04-02-被咬一口的世界，苹果-50-年的疯狂与奇迹](https://sspai.com/post/107218)  
+- [2026-04-02-派早报：OPPO-发布-K15-Pro-系列、DLSS-4.5-开始推送等](https://sspai.com/post/108175)  
 - [......【查看更多】......](/details/少数派.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
