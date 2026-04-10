@@ -5,6 +5,7 @@
   "dependencies": {
     "@octokit/core": "^4.0.5",
     "async": "^2.6.1",
+    "axios": "^1.7.9",
     "chalk": "^4.1.2",
     "dotenv": "^16.0.3",
     "feed": "^4.2.2",
@@ -20,7 +21,8 @@
   "description": "front-end-rss",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sync-feishu": "node sync-links-to-feishu.js"
   },
   "author": "ChanceYu",
   "license": "MIT",
