@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-09T22:00:52.671Z</updated>
+    <updated>2026-04-10T00:01:48.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,23 +22,9 @@
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[StubHub to pay $10M to settle FTC allegations over ‘deceptive’ ticket pricing]]></title>
-        <id>https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/</id>
-        <link href="https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta AI app climbs to No. 5 on the App Store after Muse Spark launch]]></title>
-        <id>https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/</id>
-        <link href="https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google and Intel deepen AI infrastructure partnership]]></title>
-        <id>https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/</id>
-        <link href="https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/"/>
+        <title type="html"><![CDATA[Sierra’s Bret Taylor says the era of clicking buttons is over]]></title>
+        <id>https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/</id>
+        <link href="https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/"/>
         <updated>2026-04-09T16:00:00.000Z</updated>
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
@@ -50,44 +36,51 @@
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sierra’s Bret Taylor says the era of clicking buttons is over]]></title>
-        <id>https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/</id>
-        <link href="https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/"/>
+        <title type="html"><![CDATA[Google and Intel deepen AI infrastructure partnership]]></title>
+        <id>https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/</id>
+        <link href="https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/"/>
         <updated>2026-04-09T16:00:00.000Z</updated>
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We simulate target market so you can ask anything ±4% vs. real surveys]]></title>
-        <id>https://inqvey.com/hn</id>
-        <link href="https://inqvey.com/hn"/>
+        <title type="html"><![CDATA[Meta AI app climbs to No. 5 on the App Store after Muse Spark launch]]></title>
+        <id>https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/</id>
+        <link href="https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/"/>
         <updated>2026-04-09T16:00:00.000Z</updated>
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to achieve P90 sub-microsecond latency in a C++ FIX engine]]></title>
-        <id>https://akinocal1.substack.com/p/how-to-achieve-p90-sub-microsecond</id>
-        <link href="https://akinocal1.substack.com/p/how-to-achieve-p90-sub-microsecond"/>
+        <title type="html"><![CDATA[StubHub to pay $10M to settle FTC allegations over ‘deceptive’ ticket pricing]]></title>
+        <id>https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/</id>
+        <link href="https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/"/>
         <updated>2026-04-09T16:00:00.000Z</updated>
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Undocumented Qualcomm mesh topology 802.11 frames]]></title>
-        <id>https://david.weekly.org/blog/2026-04-09-orbi-mesh-beacon-topology/</id>
-        <link href="https://david.weekly.org/blog/2026-04-09-orbi-mesh-beacon-topology/"/>
+        <title type="html"><![CDATA[Scientists invented a fake disease. AI told people it was real]]></title>
+        <id>https://www.nature.com/articles/d41586-026-01100-y</id>
+        <link href="https://www.nature.com/articles/d41586-026-01100-y"/>
         <updated>2026-04-09T16:00:00.000Z</updated>
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Speedometer: Real-time AI model speed benchmarks]]></title>
-        <id>https://ai-speedometer.oliveowl.xyz/</id>
-        <link href="https://ai-speedometer.oliveowl.xyz/"/>
+        <title type="html"><![CDATA[GoScrapy: New Fast Web Scraping with Go (Built for Concurrency)]]></title>
+        <id>https://github.com/tech-engine/goscrapy</id>
+        <link href="https://github.com/tech-engine/goscrapy"/>
         <updated>2026-04-09T16:00:00.000Z</updated>
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CyberAgent moves faster with ChatGPT Enterprise and Codex]]></title>
-        <id>https://openai.com/index/cyber-agent</id>
-        <link href="https://openai.com/index/cyber-agent"/>
+        <title type="html"><![CDATA[Show HN: AnimTOON – AI that animates SVGs with 3-4x fewer tokens than OmniLottie]]></title>
+        <id>https://github.com/srk0102/AnimTOON</id>
+        <link href="https://github.com/srk0102/AnimTOON"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You know what I haven't ever seen? a good blogpost from an AI]]></title>
+        <id>https://news.ycombinator.com/item?id=47711588</id>
+        <link href="https://news.ycombinator.com/item?id=47711588"/>
         <updated>2026-04-09T16:00:00.000Z</updated>
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
@@ -99,9 +92,44 @@
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Compared 6 Python AI Agent Frameworks So You Don’t Have To: LangGraph vs CrewAI vs PydanticAI vs OpenAI SDK vs Smolagents vs Google ADK]]></title>
-        <id>https://pub.towardsai.net/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[CyberAgent moves faster with ChatGPT Enterprise and Codex]]></title>
+        <id>https://openai.com/index/cyber-agent</id>
+        <link href="https://openai.com/index/cyber-agent"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Speedometer: Real-time AI model speed benchmarks]]></title>
+        <id>https://ai-speedometer.oliveowl.xyz/</id>
+        <link href="https://ai-speedometer.oliveowl.xyz/"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Undocumented Qualcomm mesh topology 802.11 frames]]></title>
+        <id>https://david.weekly.org/blog/2026-04-09-orbi-mesh-beacon-topology/</id>
+        <link href="https://david.weekly.org/blog/2026-04-09-orbi-mesh-beacon-topology/"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to achieve P90 sub-microsecond latency in a C++ FIX engine]]></title>
+        <id>https://akinocal1.substack.com/p/how-to-achieve-p90-sub-microsecond</id>
+        <link href="https://akinocal1.substack.com/p/how-to-achieve-p90-sub-microsecond"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We simulate target market so you can ask anything ±4% vs. real surveys]]></title>
+        <id>https://inqvey.com/hn</id>
+        <link href="https://inqvey.com/hn"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 3.13 & 3.14 Are Breaking Backward Compatibility on Purpose]]></title>
+        <id>https://pub.towardsai.net/python-3-13-3-14-are-breaking-backward-compatibility-on-purpose-b6c7d7351336?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/python-3-13-3-14-are-breaking-backward-compatibility-on-purpose-b6c7d7351336?source=rss----98111c9905da---4"/>
         <updated>2026-04-09T16:00:00.000Z</updated>
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
@@ -109,6 +137,13 @@
         <title type="html"><![CDATA[Top 20 Data Preparation Interview Questions and Answers (Part 2 of 2)]]></title>
         <id>https://pub.towardsai.net/top-20-data-preparation-interview-questions-and-answers-part-2-of-2-e020628865fa?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/top-20-data-preparation-interview-questions-and-answers-part-2-of-2-e020628865fa?source=rss----98111c9905da---4"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Compared 6 Python AI Agent Frameworks So You Don’t Have To: LangGraph vs CrewAI vs PydanticAI vs OpenAI SDK vs Smolagents vs Google ADK]]></title>
+        <id>https://pub.towardsai.net/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262?source=rss----98111c9905da---4"/>
         <updated>2026-04-09T16:00:00.000Z</updated>
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
@@ -190,51 +225,9 @@
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify now lets everyone turn off videos in its app]]></title>
-        <id>https://techcrunch.com/2026/04/09/spotify-now-lets-everyone-turn-off-all-videos-in-its-app/</id>
-        <link href="https://techcrunch.com/2026/04/09/spotify-now-lets-everyone-turn-off-all-videos-in-its-app/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram expands its movie-inspired content restrictions for teens internationally]]></title>
-        <id>https://techcrunch.com/2026/04/09/instagram-expands-its-movie-inspired-content-restriction-for-teens-internationally/</id>
-        <link href="https://techcrunch.com/2026/04/09/instagram-expands-its-movie-inspired-content-restriction-for-teens-internationally/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI]]></title>
-        <id>https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/</id>
-        <link href="https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hack-for-hire group caught targeting Android devices and iCloud backups]]></title>
-        <id>https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/</id>
-        <link href="https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These are the countries moving to ban social media for children]]></title>
-        <id>https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/</id>
-        <link href="https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto]]></title>
-        <id>https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/</id>
-        <link href="https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astropad’s Workbench reimagines remote desktop for AI agents, not IT support]]></title>
-        <id>https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/</id>
-        <link href="https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/"/>
+        <title type="html"><![CDATA[This founder helped build SpaceX’s most powerful rocket engine. Now he’s building a ‘fighter jet for orbit’]]></title>
+        <id>https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/</id>
+        <link href="https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
@@ -246,121 +239,128 @@
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This founder helped build SpaceX’s most powerful rocket engine. Now he’s building a ‘fighter jet for orbit’]]></title>
-        <id>https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/</id>
-        <link href="https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/"/>
+        <title type="html"><![CDATA[Astropad’s Workbench reimagines remote desktop for AI agents, not IT support]]></title>
+        <id>https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/</id>
+        <link href="https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eve: Expressive Vector Engine – SIMD in C++ Goes Brrrr]]></title>
-        <id>https://github.com/jfalcou/eve</id>
-        <link href="https://github.com/jfalcou/eve"/>
+        <title type="html"><![CDATA[British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto]]></title>
+        <id>https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/</id>
+        <link href="https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Miro-pdf v0.8.0 – Fullscreen, presentation mode and friendly keybinds]]></title>
-        <id>https://github.com/vincent-uden/miro</id>
-        <link href="https://github.com/vincent-uden/miro"/>
+        <title type="html"><![CDATA[These are the countries moving to ban social media for children]]></title>
+        <id>https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/</id>
+        <link href="https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Study: Online comments shape perception of political posts despite fixed opinion]]></title>
-        <id>https://news.exeter.ac.uk/faculty-of-humanities-arts-and-social-sciences/even-when-peoples-opinions-are-hard-to-change-online-comments-can-shape-how-political-social-media-content-is-perceived-study-shows/</id>
-        <link href="https://news.exeter.ac.uk/faculty-of-humanities-arts-and-social-sciences/even-when-peoples-opinions-are-hard-to-change-online-comments-can-shape-how-political-social-media-content-is-perceived-study-shows/"/>
+        <title type="html"><![CDATA[Hack-for-hire group caught targeting Android devices and iCloud backups]]></title>
+        <id>https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/</id>
+        <link href="https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Index: The paid API directory for AI agents: indexed, verified, searchable]]></title>
-        <id>https://402index.io/</id>
-        <link href="https://402index.io/"/>
+        <title type="html"><![CDATA[Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI]]></title>
+        <id>https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/</id>
+        <link href="https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Loopback – Verified interview feedback that builds your live resume]]></title>
-        <id>https://www.joinloopback.com/</id>
-        <link href="https://www.joinloopback.com/"/>
+        <title type="html"><![CDATA[Instagram expands its movie-inspired content restrictions for teens internationally]]></title>
+        <id>https://techcrunch.com/2026/04/09/instagram-expands-its-movie-inspired-content-restriction-for-teens-internationally/</id>
+        <link href="https://techcrunch.com/2026/04/09/instagram-expands-its-movie-inspired-content-restriction-for-teens-internationally/"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Agent Skill Based on "Open Source Security at Astral"]]></title>
-        <id>https://github.com/backnotprop/oss-security-audit</id>
-        <link href="https://github.com/backnotprop/oss-security-audit"/>
+        <title type="html"><![CDATA[Spotify now lets everyone turn off videos in its app]]></title>
+        <id>https://techcrunch.com/2026/04/09/spotify-now-lets-everyone-turn-off-all-videos-in-its-app/</id>
+        <link href="https://techcrunch.com/2026/04/09/spotify-now-lets-everyone-turn-off-all-videos-in-its-app/"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Stricline: A meta-framework to easily build robust CLI apps w/stricli]]></title>
-        <id>https://codeberg.org/reesericci/stricline/</id>
-        <link href="https://codeberg.org/reesericci/stricline/"/>
+        <title type="html"><![CDATA[Show HN: MCP Gateway – Zero-Trust Access to MCP Tool Servers]]></title>
+        <id>https://github.com/openziti/mcp-gateway</id>
+        <link href="https://github.com/openziti/mcp-gateway"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Summer is getting longer, and it's happening faster than we thought]]></title>
-        <id>https://news.ubc.ca/2026/04/summer-is-getting-longer-and-its-happening-faster-than-we-thought/</id>
-        <link href="https://news.ubc.ca/2026/04/summer-is-getting-longer-and-its-happening-faster-than-we-thought/"/>
+        <title type="html"><![CDATA[Family files lawsuit after man dies in care of telehealth ICU doctor]]></title>
+        <id>https://www.cnn.com/2026/04/09/health/telehealth-icu-conor-hylton</id>
+        <link href="https://www.cnn.com/2026/04/09/health/telehealth-icu-conor-hylton"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New version of Claude-ground with newly added skills for indie devs]]></title>
-        <id>https://github.com/akinalpfdn/claude-ground</id>
-        <link href="https://github.com/akinalpfdn/claude-ground"/>
+        <title type="html"><![CDATA[How to End American Power [video]]]></title>
+        <id>https://www.youtube.com/watch?v=0Vo_fVDRnzY</id>
+        <link href="https://www.youtube.com/watch?v=0Vo_fVDRnzY"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: AccessGuard – Scan your site for accessibility lawsuit risks]]></title>
-        <id>https://getaccessguard.com/</id>
-        <link href="https://getaccessguard.com/"/>
+        <title type="html"><![CDATA[Mass drowning of chicks puts emperor penguins at risk of extinction]]></title>
+        <id>https://www.theguardian.com/environment/2026/apr/09/mass-drowning-of-chicks-puts-emperor-penguins-at-risk-of-extinction</id>
+        <link href="https://www.theguardian.com/environment/2026/apr/09/mass-drowning-of-chicks-puts-emperor-penguins-at-risk-of-extinction"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Rust Runtime for TypeScript]]></title>
-        <id>https://encore.dev/blog/rust-runtime</id>
-        <link href="https://encore.dev/blog/rust-runtime"/>
+        <title type="html"><![CDATA[SilentGuard: A lightweight Linux network monitor with TUI and GUI]]></title>
+        <id>https://github.com/TheZupZup/SilentGuard</id>
+        <link href="https://github.com/TheZupZup/SilentGuard"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Cybersecurity After Mythos: The Jagged Frontier]]></title>
-        <id>https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier</id>
-        <link href="https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier"/>
+        <title type="html"><![CDATA[Wine on Astral OS]]></title>
+        <id>https://astral-os.org/posts/2026/04/03/wine-on-astral.html</id>
+        <link href="https://astral-os.org/posts/2026/04/03/wine-on-astral.html"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Public Domain Audiobooks with AI (Azalea Audio)]]></title>
-        <id>https://apps.apple.com/us/app/azalea-audio/id6761150322</id>
-        <link href="https://apps.apple.com/us/app/azalea-audio/id6761150322"/>
+        <title type="html"><![CDATA[HookVerify – Webhook reliability layer for the receiving side]]></title>
+        <id>https://hookverify.com/</id>
+        <link href="https://hookverify.com/"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Pasteur, a Milkdrop Visualization Exporter]]></title>
-        <id>https://pasteur.cc/</id>
-        <link href="https://pasteur.cc/"/>
+        <title type="html"><![CDATA[Multi-Core by Default – By Ryan Fleury – Digital Grove]]></title>
+        <id>https://www.dgtlgrove.com/p/multi-core-by-default</id>
+        <link href="https://www.dgtlgrove.com/p/multi-core-by-default"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Starfling: A one-tap endless orbital slingshot game in a single HTML file]]></title>
-        <id>https://playstarfling.com</id>
-        <link href="https://playstarfling.com"/>
+        <title type="html"><![CDATA[Mano-P: Open-source on-device GUI agent, #1 on OSWorld benchmark]]></title>
+        <id>https://arxiv.org/abs/2509.17336</id>
+        <link href="https://arxiv.org/abs/2509.17336"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Darknet Diaries: SuperBox]]></title>
-        <id>https://darknetdiaries.com/episode/172/</id>
-        <link href="https://darknetdiaries.com/episode/172/"/>
+        <title type="html"><![CDATA[The day you get cut out of the economy]]></title>
+        <id>https://geohot.github.io//blog/jekyll/update/2026/04/08/the-day-you-get-cut-out.html</id>
+        <link href="https://geohot.github.io//blog/jekyll/update/2026/04/08/the-day-you-get-cut-out.html"/>
+        <updated>2026-04-08T16:00:00.000Z</updated>
+        <published>2026-04-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search page for Rust developer blogs]]></title>
+        <id>https://rustgrep.dev</id>
+        <link href="https://rustgrep.dev"/>
         <updated>2026-04-08T16:00:00.000Z</updated>
         <published>2026-04-08T16:00:00.000Z</published>
     </entry>
