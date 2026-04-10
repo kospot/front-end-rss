@@ -7,6 +7,133 @@
       <div class="action-top" @click="toTop" title="返回顶部"><van-icon name="arrow-up" /></div>
     </div>
 
+    <div class="layout-shell">
+      <aside class="layout-sidebar" aria-label="搜索与筛选">
+        <div class="sidebar-sticky">
+          <header class="page-hero page-hero--sidebar" aria-label="站点介绍">
+            <div class="page-hero__inner">
+              <div class="page-hero__copy">
+                <p class="page-hero__eyebrow">Front-end RSS</p>
+                <h1 class="page-hero__title">发现优质前端文章</h1>
+                <p class="page-hero__lead">聚合多源 RSS，按类型与主题浏览，一站读完技术圈更新。</p>
+                <p v-if="isLoad" class="page-hero__stats">
+                  <span>{{ totalArticles }} 条收录</span>
+                  <span class="page-hero__stats-dot" aria-hidden="true">·</span>
+                  <span>{{ rss.length }} 个信源</span>
+                  <span class="page-hero__stats-dot" aria-hidden="true">·</span>
+                  <span>{{ tags.length }} 个主题</span>
+                </p>
+              </div>
+              <div class="page-hero__art" aria-hidden="true">
+                <img class="page-hero__img" src="/static/hero-deco.svg" width="280" height="200" alt="">
+              </div>
+            </div>
+          </header>
+
+          <div class="search-strip">
+            <van-search
+              v-model="searchValue"
+              placeholder="搜索文章标题…"
+              show-action
+              @search="onSearch"
+              @clear="onClear"
+              class="search-box"
+            >
+              <button type="button" class="action-cate action-btn--secondary" @click="showCate = true"><van-icon name="bars" /><span class="lbl">筛选</span></button>
+              <button type="button" class="action-btn action-btn--primary" @click="onSearch">搜索</button>
+            </van-search>
+
+            <div v-if="isLoad" class="filter-strip">
+              <div class="filter-strip__row">
+                <span class="filter-strip__label">类型</span>
+                <div class="chip-scroll" role="tablist" aria-label="RSS 类型">
+                  <button
+                    type="button"
+                    role="tab"
+                    class="chip"
+                    :class="{ 'chip--active': !activeCategory }"
+                    @click="setCategory('')"
+                  >全部</button>
+                  <button
+                    v-for="c in browseCategories"
+                    :key="'cat-' + c"
+                    type="button"
+                    role="tab"
+                    class="chip"
+                    :class="{ 'chip--active': activeCategory === c }"
+                    @click="setCategory(c)"
+                  >{{ c }}</button>
+                </div>
+              </div>
+              <div class="filter-strip__row">
+                <span class="filter-strip__label">主题</span>
+                <div class="chip-scroll" role="tablist" aria-label="文章主题标签">
+                  <button
+                    type="button"
+                    class="chip"
+                    :class="{ 'chip--active': !activeTag }"
+                    @click="setTag('')"
+                  >全部</button>
+                  <button
+                    v-for="t in tagChips"
+                    :key="'tag-' + t.tag"
+                    type="button"
+                    class="chip"
+                    :class="{ 'chip--active': activeTag === t.tag }"
+                    @click="setTag(t.tag)"
+                  >{{ t.shortLabel }}</button>
+                  <button type="button" class="chip chip--ghost" @click="showCate = true">更多…</button>
+                </div>
+              </div>
+              <div v-if="activeCategory || activeTag" class="filter-strip__meta">
+                <span class="filter-strip__hint">{{ filterHint }}</span>
+                <button type="button" class="filter-strip__reset" @click="clearBrowseFilters">重置筛选</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </aside>
+
+      <main class="layout-main">
+     <div
+      class="result-box"
+      v-infinite-scroll="loadMore"
+      infinite-scroll-disabled="isBusy"
+      infinite-scroll-distance="100"
+    >
+      <template v-if="!isLoad">
+        <van-skeleton  v-for="(item, index) in skeletons" :key="index"  avatar avatar-size="20" title title-width="100%" :row="1" />
+      </template>
+
+       <div class="empty" v-if="isLoad && !results.length">
+         <van-icon name="info-o" />
+         <div class="title">没有搜索到文章，换个关键词试试<br />或者<span class="cate" @click="showCate = true">手动筛选</span></div>
+       </div>
+
+        <a
+          v-for="(item, index) in results"
+          :key="index"
+          :href="item.link"
+          target="_blank"
+          class="item-link"
+        >
+          <van-cell is-link>
+            <div slot="icon" class="item-order">{{index+1}}、</div>
+            <div slot="label" class="item-label">
+              <span class="item-cat" v-if="item.rssCategory">{{ item.rssCategory }}</span>
+              {{ formatDisplayDate(item.date) }}<span class="item-from">{{ item.rssTitle }}</span>
+            </div>
+            <div slot="title" class="item-title" v-html="item.sotitle || item.title"></div>
+          </van-cell>
+        </a>
+
+        <van-loading v-if="results.length && !isBusy && isLoad">加载中...</van-loading>
+        <van-divider v-if="results.length && isBusy">没有更多了~</van-divider>
+
+     </div>
+      </main>
+    </div>
+
     <van-popup v-model="showCate" position="left" class="search-modal">
       <van-cell-group class="tag-group">
         <div class="filter-row">
@@ -38,6 +165,17 @@
           @click="handlerCate(item)"
         />
       </van-cell-group>
+      <van-cell-group>
+        <div slot="title" class="title-box"><van-icon name="wap-nav" />RSS 类型</div>
+        <van-cell title="全部类型" is-link @click="pickCategoryDrawer('')" />
+        <van-cell
+          v-for="(c, index) in browseCategories"
+          :key="'pop-cat-' + index"
+          :title="c"
+          is-link
+          @click="pickCategoryDrawer(c)"
+        />
+      </van-cell-group>
       <van-cell-group title="文章来源">
         <div slot="title" class="title-box"><van-icon name="records" />文章来源</div>
         <van-cell
@@ -59,53 +197,6 @@
         />
       </van-cell-group>
     </van-popup>
-
-    <van-search
-      v-model="searchValue"
-      placeholder="搜索前端技术文章"
-      show-action
-      @search="onSearch"
-      @clear="onClear"
-      class="search-box"
-    >
-      <button type="button" class="action-cate action-btn--secondary" @click="showCate = true"><van-icon name="bars" /><span class="lbl">筛选</span></button>
-      <button type="button" class="action-btn action-btn--primary" @click="onSearch">搜索</button>
-    </van-search>
-
-     <div
-      class="result-box"
-      v-infinite-scroll="loadMore"
-      infinite-scroll-disabled="isBusy"
-      infinite-scroll-distance="100"
-    >
-
-      <template v-if="!isLoad">
-        <van-skeleton  v-for="(item, index) in skeletons" :key="index"  avatar avatar-size="20" title title-width="100%" :row="1" />
-      </template>
-
-       <div class="empty" v-if="isLoad && !results.length">
-         <van-icon name="info-o" />
-         <div class="title">没有搜索到文章，换个关键词试试<br />或者<span class="cate" @click="showCate = true">手动筛选</span></div>
-       </div>
-
-        <a
-          v-for="(item, index) in results"
-          :key="index"
-          :href="item.link"
-          target="_blank"
-          class="item-link"
-        >
-          <van-cell is-link>
-            <div slot="icon" class="item-order">{{index+1}}、</div>
-            <div slot="label" class="item-label">{{ formatDisplayDate(item.date) }}<span class="item-from">{{ item.rssTitle }}</span></div>
-            <div slot="title" class="item-title" v-html="item.sotitle || item.title"></div>
-          </van-cell>
-        </a>
-
-        <van-loading v-if="results.length && !isBusy && isLoad">加载中...</van-loading>
-        <van-divider v-if="results.length && isBusy">没有更多了~</van-divider>
-
-     </div>
 
   </div>
   </div>
@@ -150,6 +241,15 @@ const rss = window.RSS_DATA
 const tags = window.TAGS_DATA
 const links = window.LINKS_DATA
 
+const rssCategoryByTitle = {}
+rss.forEach((r) => {
+  rssCategoryByTitle[r.title] = r.category || '其它'
+})
+
+const CATEGORY_ORDER = ['前端', '后端', 'AI', '资讯']
+
+const BROWSE_STORAGE_KEY = 'front-end-rss-browse-v1'
+
 let results = []
 let datesMap = {}
 let rssMap = {}
@@ -167,21 +267,62 @@ export default {
       ranges,
       rss: [],
       tags: [],
+      activeCategory: '',
+      activeTag: '',
+      browseCategories: [],
       pageNo: 1,
       pageSize: 20,
       isBusy: true,
       allList: [],
       results: [],
       isLoad: false,
+      totalArticles: 0,
       skeletons: [1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  },
+  computed: {
+    tagChips () {
+      return this.tags.map((t) => {
+        const tag = t.tag
+        const shortLabel = tag.length > 11 ? `${tag.slice(0, 10)}…` : tag
+        return { tag, shortLabel }
+      })
+    },
+    filterHint () {
+      const parts = []
+      if (this.activeCategory) parts.push(this.activeCategory)
+      if (this.activeTag) parts.push(this.activeTag)
+      return parts.join(' · ')
     }
   },
   watch: {
     matchSkill () {
-      this.initLoadData().then(() => this.handlerSearch())
+      this.initLoadData().then(() => this.refreshList())
     }
   },
   methods: {
+    loadBrowseState () {
+      try {
+        const raw = localStorage.getItem(BROWSE_STORAGE_KEY)
+        if (!raw) return null
+        const o = JSON.parse(raw)
+        if (!o || typeof o !== 'object') return null
+        return o
+      } catch (e) {
+        return null
+      }
+    },
+    saveBrowseState () {
+      try {
+        const payload = {
+          q: (this.searchValue || '').trim(),
+          cat: this.activeCategory || '',
+          tag: this.activeTag || '',
+          matchSkill: !!this.matchSkill
+        }
+        localStorage.setItem(BROWSE_STORAGE_KEY, JSON.stringify(payload))
+      } catch (e) {}
+    },
     formatDisplayDate (dateStr) {
       if (!dateStr) return ''
       const d = dayjs(dateStr)
@@ -202,6 +343,7 @@ export default {
           item.rss = rssItem.rss
           item.rssTitle = rssItem.title
           item.rssLink = rssItem.link
+          item.rssCategory = rssCategoryByTitle[rssItem.title] || '其它'
 
           let isInTag = false
           let isFilter = !this.matchSkill
@@ -251,10 +393,136 @@ export default {
       })
 
       results = sortArray(results)
+      this.totalArticles = results.length
+
+      const present = new Set(results.map((i) => i.rssCategory).filter(Boolean))
+      const ordered = CATEGORY_ORDER.filter((c) => present.has(c))
+      const rest = Array.from(present).filter((c) => !CATEGORY_ORDER.includes(c))
+      this.browseCategories = [...ordered, ...rest]
 
       this.rss = rss
       this.tags = tags
       this.isLoad = true
+    },
+    getBrowsePool () {
+      let pool = results
+      if (this.activeCategory) {
+        pool = pool.filter((i) => i.rssCategory === this.activeCategory)
+      }
+      if (this.activeTag) {
+        const tagItems = tagsMap[this.activeTag]
+        if (!tagItems || !tagItems.length) {
+          pool = []
+        } else {
+          const linkSet = new Set(tagItems.map((x) => x.link))
+          pool = pool.filter((i) => linkSet.has(i.link))
+        }
+      }
+      return pool
+    },
+    intersectWithPool (arr, pool) {
+      const linkSet = new Set(pool.map((i) => i.link))
+      return arr.filter((i) => linkSet.has(i.link))
+    },
+    syncRoute () {
+      const q = (this.searchValue || '').trim()
+      const query = {}
+      if (q) query.q = q
+      if (this.activeCategory) query.cat = this.activeCategory
+      if (this.activeTag) query.tag = this.activeTag
+      const cur = this.$route.query || {}
+      const same = (cur.q || '') === (query.q || '') &&
+        (cur.cat || '') === (query.cat || '') &&
+        (cur.tag || '') === (query.tag || '')
+      if (!same) {
+        this.$router.replace({ path: '/', query })
+      }
+    },
+    resetPagination () {
+      window.scrollTo(0, 0)
+      this.pageNo = 1
+      this.results = []
+      this.loadMore()
+    },
+    refreshList () {
+      const pool = this.getBrowsePool()
+      const value = (this.searchValue || '').trim()
+
+      if (!value) {
+        this.allList = sortArray([...pool])
+        this.syncRoute()
+        this.resetPagination()
+        this.saveBrowseState()
+        return
+      }
+
+      const matches = value.match(/^\[(时间|来源|分类)\]\s(.+)/)
+      const matchValue = matches && matches[2]
+      let arr = []
+
+      if (matches && datesMap[matchValue]) {
+        arr = datesMap[matchValue]
+      } else if (matches && rssMap[matchValue]) {
+        arr = rssMap[matchValue]
+      } else if (matches && tagsMap[matchValue]) {
+        arr = tagsMap[matchValue]
+      } else {
+        pool.forEach((item) => {
+          let reg = null
+          try {
+            reg = new RegExp('(' + value.replace(/([?\u005b\u005d])/g, '\\$1') + ')', 'gi')
+          } catch (e) {}
+
+          const matchSplit = (val) => {
+            const exist = item.title.split(val)
+
+            if (exist.length > 1) {
+              arr.push({
+                ...item,
+                sotitle: exist.join(`<span class="red">${val}</span>`)
+              })
+              return true
+            }
+          }
+
+          if (reg && reg.test(item.title)) {
+            arr.push({
+              ...item,
+              sotitle: item.title.replace(reg, `<span class="red">$1</span>`)
+            })
+          } else if (matchSplit(value)) {
+          } else if (matchSplit(value.toLowerCase())) {
+          } else if (matchSplit(value.toUpperCase())) {
+          }
+        })
+      }
+
+      if (matches && matchValue) {
+        arr = this.intersectWithPool(arr, pool)
+      }
+
+      this.allList = [...arr]
+      this.syncRoute()
+      this.resetPagination()
+      this.saveBrowseState()
+    },
+    setCategory (cat) {
+      this.activeCategory = cat
+      this.refreshList()
+    },
+    setTag (tag) {
+      this.activeTag = tag
+      this.refreshList()
+    },
+    clearBrowseFilters () {
+      this.activeCategory = ''
+      this.activeTag = ''
+      this.refreshList()
+    },
+    pickCategoryDrawer (c) {
+      this.activeCategory = c
+      this.showCate = false
+      this.refreshList()
     },
     loadMore () {
       const allLen = this.allList.length
@@ -265,89 +533,33 @@ export default {
       this.pageNo += 1
     },
     handlerCate (item) {
+      if (typeof item === 'string') {
+        this.searchValue = item
+        this.refreshList()
+        this.showCate = false
+        return
+      }
+
+      if (item.tag) {
+        this.activeTag = item.tag
+        this.searchValue = ''
+        this.showCate = false
+        this.refreshList()
+        return
+      }
+
       let label = ''
       if (item.dates) {
         label = '[时间] ' + item.title
-      } else if (item.tag) {
-        label = '[分类] ' + item.tag
       } else if (item.rss) {
         label = '[来源] ' + item.title
       }
-
-      if (typeof item === 'string') {
-        this.searchValue = item
-      } else {
-        this.searchValue = label
-      }
-
-      this.handlerSearch()
+      this.searchValue = label
+      this.refreshList()
       this.showCate = false
     },
     handlerSearch () {
-      const value = this.searchValue
-      const matches = value.match(/^\[(时间|来源|分类)\]\s(.+)/)
-      const matchValue = matches && matches[2]
-
-      if (value) {
-        let arr = []
-
-        if (matches && datesMap[matchValue]) {
-          arr = datesMap[matchValue]
-        } else if (matches && rssMap[matchValue]) {
-          arr = rssMap[matchValue]
-        } else if (matches && tagsMap[matchValue]) {
-          arr = tagsMap[matchValue]
-        } else {
-          results.forEach((item) => {
-            let reg = null
-            try {
-            // eslint-disable-next-line
-              reg = new RegExp('(' + value.replace(/([?\[\]])/g, '\\$1') + ')', 'gi')
-            } catch (e) {}
-
-            const matchSplit = (val) => {
-              const exist = item.title.split(val)
-
-              if (exist.length > 1) {
-                arr.push({
-                  ...item,
-                  sotitle: exist.join(`<span class="red">${val}</span>`)
-                })
-                return true
-              }
-            }
-
-            if (reg && reg.test(item.title)) {
-              arr.push({
-                ...item,
-                sotitle: item.title.replace(reg, `<span class="red">$1</span>`)
-              })
-            } else if (matchSplit(value)) {
-            } else if (matchSplit(value.toLowerCase())) {
-            } else if (matchSplit(value.toUpperCase())) {
-            }
-          })
-        }
-
-        this.allList = [...arr]
-      } else {
-        this.allList = [...results]
-      }
-
-      if ((this.$route.query.q || '') !== value) {
-        this.$router.replace({
-          path: '/',
-          query: value ? {
-            q: value
-          } : {}
-        })
-      }
-
-      window.scrollTo(0, 0)
-
-      this.pageNo = 1
-      this.results = []
-      this.loadMore()
+      this.refreshList()
     },
     onSearch () {
       this.handlerSearch()
@@ -360,56 +572,233 @@ export default {
     }
   },
   mounted () {
-    const { q } = this.$route.query
+    const { q, cat, tag } = this.$route.query || {}
+    const qStr = q != null && q !== '' ? String(q) : ''
+    const catStr = cat != null && cat !== '' ? String(cat) : ''
+    const tagStr = tag != null && tag !== '' ? String(tag) : ''
+    const hasRouteBrowse = !!(qStr || catStr || tagStr)
 
-    this.searchValue = q || ''
-    this.initLoadData().then(() => this.handlerSearch())
+    if (hasRouteBrowse) {
+      this.searchValue = qStr
+      this.activeCategory = catStr
+      this.activeTag = tagStr
+    } else {
+      const saved = this.loadBrowseState()
+      if (saved) {
+        if (typeof saved.q === 'string') this.searchValue = saved.q
+        if (typeof saved.cat === 'string') this.activeCategory = saved.cat
+        if (typeof saved.tag === 'string') this.activeTag = saved.tag
+        if (typeof saved.matchSkill === 'boolean') this.matchSkill = saved.matchSkill
+      }
+    }
+
+    this.initLoadData().then(() => this.refreshList())
   }
 }
 </script>
 
 <style>
-/* Design system: base 14px, flex/grid layout, button hierarchy */
+/* Flat layout: tokens on html (App.vue); borders over shadows */
 .page-root {
-  font-size: 14px;
+  font-size: 15px;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
+  background: transparent;
+  color: var(--fe-text);
 }
 
 .container {
-  width: 50%;
-  max-width: 720px;
+  width: min(96vw, 1680px);
+  max-width: 1680px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
   flex: 1;
 }
 
+.layout-shell {
+  width: 100%;
+  box-sizing: border-box;
+  flex: 1;
+}
+
+.layout-sidebar {
+  min-width: 0;
+}
+
+.layout-main {
+  min-width: 0;
+  flex: 1;
+}
+
+.sidebar-sticky {
+  box-sizing: border-box;
+}
+
+/* 搜索 + 筛选（宽屏在侧栏内；窄屏随侧栏固定在顶部） */
+.search-strip {
+  position: relative;
+  width: 100%;
+  max-width: none;
+  z-index: 1;
+  background: rgba(255, 255, 255, 0.76);
+  backdrop-filter: blur(16px) saturate(1.35);
+  -webkit-backdrop-filter: blur(16px) saturate(1.35);
+  border-bottom: 1px solid rgba(213, 219, 232, 0.9);
+  box-shadow: none;
+  box-sizing: border-box;
+}
+
+.filter-strip {
+  padding: 0 14px 12px;
+  border-top: 1px solid rgba(213, 219, 232, 0.75);
+  background: rgba(244, 246, 251, 0.82);
+}
+
+.filter-strip__row {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.filter-strip__row:first-of-type {
+  margin-top: 8px;
+}
+
+.filter-strip__label {
+  flex-shrink: 0;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--fe-muted);
+  line-height: 32px;
+  width: 2.25rem;
+}
+
+.chip-scroll {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 8px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 2px;
+  scrollbar-width: thin;
+}
+
+.chip-scroll::-webkit-scrollbar {
+  height: 4px;
+}
+
+.chip-scroll::-webkit-scrollbar-thumb {
+  background: var(--fe-border);
+  border-radius: 2px;
+}
+
+.chip {
+  flex-shrink: 0;
+  border: 1px solid var(--fe-border);
+  background: var(--fe-surface);
+  color: var(--fe-text);
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.2;
+  padding: 7px 14px;
+  border-radius: var(--fe-radius-sm);
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.chip:hover {
+  border-color: var(--fe-accent);
+  color: var(--fe-accent);
+  background: var(--fe-accent-soft);
+}
+
+.chip--active {
+  border-color: var(--fe-accent);
+  background: var(--fe-accent);
+  color: #fff;
+}
+
+.chip--active:hover {
+  background: var(--fe-accent-hover);
+  border-color: var(--fe-accent-hover);
+  color: #fff;
+}
+
+.chip--ghost {
+  border-style: dashed;
+  color: var(--fe-accent);
+  background: var(--fe-surface);
+}
+
+.filter-strip__meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid var(--fe-border);
+}
+
+.filter-strip__hint {
+  font-size: 12px;
+  color: var(--fe-muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.filter-strip__reset {
+  flex-shrink: 0;
+  border: none;
+  background: none;
+  color: var(--fe-accent);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 4px 0;
+}
+
+.filter-strip__reset:hover {
+  text-decoration: underline;
+}
+
 .fixed-box {
     position: fixed;
     bottom: 6.25rem;
-    right: 25%;
+    right: max(16px, calc((100vw - min(96vw, 1680px)) / 2 - 12px));
     z-index: 9
 }
 
 .fixed-box .action-feed,.fixed-box .action-github,.fixed-box .action-top {
     width: 2.5rem;
     height: 2.5rem;
-    line-height: 2.5rem;
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     cursor: pointer;
     margin-top: .75rem;
-    border-radius: .125rem;
+    border-radius: var(--fe-radius-sm);
     overflow: hidden;
     position: relative;
     left: 3.125rem;
-    background-color: #f8f8f8
+    background-color: var(--fe-surface);
+    border: 1px solid var(--fe-border);
+    box-sizing: border-box;
 }
 
 .fixed-box .action-feed:hover,.fixed-box .action-github:hover,.fixed-box .action-top:hover {
-    background-color: #f5f5f5
+    background-color: var(--fe-surface-2);
+    border-color: var(--fe-accent);
 }
 
 .fixed-box .action-feed {
@@ -427,12 +816,15 @@ export default {
 }
 
 .fixed-box .action-top {
-    color: #171717
+    color: var(--fe-text);
 }
 
 .fixed-box .action-top .van-icon {
     font-weight: 700;
-    vertical-align: middle
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .search-modal {
@@ -453,44 +845,49 @@ export default {
 }
 
 .search-modal .van-tag {
-  background: #e8e8e8;
+  background: var(--fe-surface-2);
   margin: 6px;
   cursor: pointer;
   padding: 6px 12px;
   font-size: 13px;
-  border-radius: 4px;
-  border: none;
-  transition: background-color 0.2s;
+  font-weight: 500;
+  border-radius: var(--fe-radius-sm);
+  border: 1px solid var(--fe-border);
+  color: var(--fe-text);
+  transition: background-color 0.15s, border-color 0.15s, color 0.15s;
 }
 
 .search-modal .van-tag:hover {
-    background: #666
+    background: var(--fe-accent-soft);
+    border-color: var(--fe-accent);
+    color: var(--fe-accent);
 }
 
 .search-modal .van-cell-group__title {
     font-size: .9375rem;
-    color: #007fff;
-    background: #f5f5f5
+    font-weight: 600;
+    color: var(--fe-accent);
+    background: var(--fe-surface-2);
 }
 
 .search-modal .van-cell {
     font-size: .8125rem;
-    color: #262626;
+    color: var(--fe-text);
     text-align: left;
-    cursor: pointer
+    cursor: pointer;
 }
 
 .search-modal .van-cell:active,.search-modal .van-cell:hover {
-    background: #f7f8fa
+    background: var(--fe-surface-2);
 }
 
 .search-modal .van-cell:not(:last-child):after {
-    border-bottom-color: #f7f8fa
+    border-bottom-color: var(--fe-border);
 }
 
 .search-modal .van-cell__label {
     font-size: .75rem;
-    color: #999;
+    color: var(--fe-muted);
     word-break: break-all
 }
 
@@ -502,7 +899,7 @@ export default {
 
 .filter-cell {
   font-size: 14px;
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: var(--fe-surface);
   padding: 8px 16px;
   display: flex;
   align-items: center;
@@ -518,18 +915,126 @@ export default {
 
 .filter-cell .desc {
   font-size: 12px;
-  color: #999;
+  color: var(--fe-muted);
   display: block;
 }
 
+.page-hero--sidebar {
+  flex-shrink: 0;
+  padding: 0.75rem 1rem 0.85rem;
+  border-bottom: 1px solid rgba(213, 219, 232, 0.55);
+  margin: 0;
+  background: transparent;
+}
+
+.page-hero__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  max-width: 100%;
+}
+
+.page-hero__copy {
+  min-width: 0;
+  flex: 1;
+}
+
+.page-hero__eyebrow {
+  margin: 0 0 0.35rem;
+  font-family: var(--fe-font-display);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--fe-accent);
+}
+
+@supports (-webkit-background-clip: text) or (background-clip: text) {
+  .page-hero__eyebrow {
+    background: linear-gradient(120deg, var(--fe-accent), var(--fe-accent-2));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+  }
+}
+
+.page-hero__title {
+  margin: 0 0 0.35rem;
+  font-family: var(--fe-font-display);
+  font-size: clamp(1.15rem, 2.2vw, 1.5rem);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  color: var(--fe-text);
+}
+
+.page-hero__lead {
+  margin: 0;
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  color: var(--fe-muted);
+  max-width: none;
+}
+
+.page-hero__stats {
+  margin: 0.55rem 0 0;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--fe-muted);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 0.35rem;
+}
+
+.page-hero__stats-dot {
+  opacity: 0.45;
+  user-select: none;
+}
+
+.page-hero__art {
+  flex-shrink: 0;
+  width: min(28vw, 120px);
+  max-width: 120px;
+}
+
+.page-hero__img {
+  display: block;
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 12px 28px rgba(37, 99, 235, 0.12));
+}
+
 .result-box {
-  padding: 4.375rem 0 1.5rem;
-  background: #fff;
-  min-height: 60vh;
+  padding: 0.5rem 0 1.75rem;
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  min-height: 50vh;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
   align-items: stretch;
+  border-radius: var(--fe-radius);
+  margin-top: 0;
+  border: 1px solid rgba(213, 219, 232, 0.95);
+  box-shadow: var(--fe-shadow-md);
+}
+
+.result-box .item-cat {
+  display: inline-block;
+  margin-right: 6px;
+  padding: 2px 8px;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.35;
+  border-radius: 4px;
+  border: 1px solid var(--fe-border);
+  background: var(--fe-surface-2);
+  color: var(--fe-accent);
+  vertical-align: middle;
 }
 
 .result-box .van-loading {
@@ -558,7 +1063,7 @@ export default {
 }
 
 .result-box .empty .van-icon {
-    color: #007fff;
+    color: var(--fe-accent);
     font-size: 3.125rem
 }
 
@@ -566,19 +1071,22 @@ export default {
     display: block;
     margin-top: .625rem;
     line-height: 1.875rem;
-    color: #999;
+    color: var(--fe-muted);
     font-size: .875rem;
     font-weight: 400
 }
 
 .result-box .empty .cate {
     cursor: pointer;
-    color: #666;
+    color: var(--fe-accent);
+    font-weight: 600;
     text-decoration: underline
 }
 
 .result-box .item-order {
-    color: #999
+    color: var(--fe-muted);
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
 }
 
 .result-box .item-title {
@@ -594,30 +1102,43 @@ export default {
     color: #f44336
 }
 
-.result-box .van-cell {
-    font-size: 1.125rem;
-    color: #262626;
+.result-box .item-link {
+  display: block;
+  text-decoration: none;
+  margin: 0 12px 10px;
+  color: inherit;
+}
+
+.result-box .item-link .van-cell {
+    font-size: 1.0625rem;
+    font-weight: 500;
+    color: var(--fe-text);
     text-align: left;
-    border-bottom: 1px dashed #f4f5f5;
-    cursor: pointer
+    border: 1px solid var(--fe-border);
+    border-radius: 12px;
+    cursor: pointer;
+    box-shadow: var(--fe-shadow-sm);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.15s ease;
 }
 
-.result-box .van-cell:active,.result-box .van-cell:hover {
-    background: #f7f8fa;
-    border-bottom: 1px solid #f7f8fa
+.result-box .item-link .van-cell:active,
+.result-box .item-link .van-cell:hover {
+    background: var(--fe-surface-2);
+    transform: translateY(-2px);
+    box-shadow: var(--fe-shadow-md);
 }
 
-.result-box .item-link:last-of-type .van-cell {
-    border-bottom: none
+.result-box .item-link:last-of-type {
+  margin-bottom: 4px;
 }
 
-.result-box .van-cell:not(:last-child):after {
-    border-bottom-color: #f7f8fa
+.result-box .item-link .van-cell:after {
+  display: none;
 }
 
 .result-box .van-cell__label {
-    font-size: .875rem;
-    color: #999;
+    font-size: .8125rem;
+    color: var(--fe-muted);
     word-break: break-all
 }
 
@@ -626,12 +1147,12 @@ export default {
 }
 
 .search-box {
-    position: fixed;
-    width: 50%;
-    z-index: 9;
-    margin: 0 auto;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    margin: 0;
     padding: .625rem;
-    box-shadow: 0 .125rem .625rem 0 #f0f0f0
+    box-shadow: none;
 }
 
 .search-box .van-cell {
@@ -649,7 +1170,7 @@ export default {
 
 .search-box input {
   font-size: 14px;
-  color: #333;
+  color: var(--fe-text);
 }
 
 .search-box .van-search__action:active {
@@ -657,17 +1178,20 @@ export default {
 }
 
 .search-box .van-search__content {
-    padding: 0
+    padding: 0;
+    background: var(--fe-surface-2);
+    border: 1px solid var(--fe-border);
+    border-radius: var(--fe-radius-sm);
 }
 
 .search-box .van-field__left-icon {
-    color: #007fff;
+    color: var(--fe-accent);
     margin-left: .5rem
 }
 
 .search-box .van-search__label {
-    color: #007fff;
-    background: #fff;
+    color: var(--fe-accent);
+    background: transparent;
     display: -webkit-box;
     display: -webkit-flex;
     display: flex;
@@ -677,7 +1201,7 @@ export default {
 }
 
 .search-box .van-search__label:active,.search-box .van-search__label:hover {
-    color: #004dcd
+    color: var(--fe-accent-hover);
 }
 
 .search-box .action-cate {
@@ -700,50 +1224,254 @@ export default {
 /* Button hierarchy: Primary = main action, Secondary = alternative */
 .search-box .action-btn {
   padding: 0 14px;
-  height: 32px;
-  line-height: 30px;
-  border-radius: 4px;
+  height: 34px;
+  line-height: 32px;
+  border-radius: var(--fe-radius-sm);
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   cursor: pointer;
   border: none;
-  transition: background-color 0.2s, color 0.2s;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s;
 }
 .search-box .action-btn--primary {
   color: #fff;
-  background-color: #007fff;
+  background: linear-gradient(135deg, var(--fe-accent) 0%, #4f46e5 100%);
+  border-radius: var(--fe-radius-sm);
 }
 .search-box .action-btn--primary:hover,
 .search-box .action-btn--primary:active {
-  background-color: #0066dd;
+  background-color: var(--fe-accent-hover);
 }
 .search-box .action-btn--secondary {
-  color: #007fff;
+  color: var(--fe-accent);
   background: transparent;
-  border: 1px solid #007fff;
+  border: 1px solid var(--fe-accent);
+  border-radius: var(--fe-radius-sm);
   display: inline-flex;
   align-items: center;
   padding: 0 10px;
 }
 .search-box .action-btn--secondary:hover,
 .search-box .action-btn--secondary:active {
-  background-color: rgba(0, 127, 255, 0.08);
+  background-color: var(--fe-accent-soft);
 }
 .search-box .action-cate.action-btn--secondary {
-  background: #fff;
+  background: var(--fe-surface);
 }
 .search-box .action-cate.action-btn--secondary:hover,
 .search-box .action-cate.action-btn--secondary:active {
-  background: rgba(0, 127, 255, 0.06);
+  background: var(--fe-accent-soft);
+}
+
+@media screen and (min-width: 1024px) {
+  .layout-shell {
+    display: block;
+    padding: 1rem 0 2.5rem;
+  }
+
+  .layout-sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: calc((100vw - min(96vw, 1680px)) / 2);
+    width: clamp(268px, 22vw, 360px);
+    z-index: 8;
+    box-sizing: border-box;
+    padding: max(1rem, env(safe-area-inset-top, 0px)) 0 max(1rem, env(safe-area-inset-bottom, 0px));
+  }
+
+  .sidebar-sticky {
+    position: static;
+    height: 100%;
+    max-height: none;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border-radius: 0 var(--fe-radius) var(--fe-radius) 0;
+    border: 1px solid rgba(213, 219, 232, 0.95);
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(14px) saturate(1.35);
+    -webkit-backdrop-filter: blur(14px) saturate(1.35);
+    box-shadow: var(--fe-shadow-md);
+  }
+
+  .layout-sidebar .search-strip .search-box {
+    flex-shrink: 0;
+  }
+
+  .layout-sidebar .search-strip {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background: transparent;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    border-bottom: none;
+    box-shadow: none;
+  }
+
+  .layout-sidebar .filter-strip {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    border-top: 1px solid rgba(213, 219, 232, 0.65);
+    background: rgba(244, 246, 251, 0.72);
+  }
+
+  .layout-main {
+    margin-left: calc(clamp(268px, 22vw, 360px) + clamp(1rem, 2vw, 1.75rem));
+    width: auto;
+    max-width: 100%;
+    box-sizing: border-box;
+    min-width: 0;
+  }
+
+  .page-hero--sidebar {
+    flex-shrink: 0;
+    padding: 1.1rem 1.1rem 1rem;
+    border-bottom: 1px solid rgba(213, 219, 232, 0.55);
+  }
+
+  .page-hero--sidebar .page-hero__inner {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5rem;
+  }
+
+  .page-hero--sidebar .page-hero__title {
+    font-size: clamp(1.2rem, 1.5vw, 1.45rem);
+    margin-bottom: 0.4rem;
+  }
+
+  .page-hero--sidebar .page-hero__lead {
+    font-size: 0.8125rem;
+  }
+
+  .page-hero--sidebar .page-hero__art {
+    display: none;
+  }
+
+  .page-hero--sidebar .page-hero__stats {
+    font-size: 0.75rem;
+    margin-top: 0.5rem;
+  }
+
+  .layout-sidebar .filter-strip__row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+    margin-top: 12px;
+  }
+
+  .layout-sidebar .filter-strip__row:first-of-type {
+    margin-top: 10px;
+  }
+
+  .layout-sidebar .filter-strip__label {
+    width: auto;
+    line-height: 1.25;
+    font-size: 10px;
+  }
+
+  .layout-sidebar .chip-scroll {
+    flex-wrap: wrap;
+    overflow-x: visible;
+    overflow-y: visible;
+  }
+
+  .result-box {
+    padding: 1.15rem 1.35rem 2rem;
+    margin-top: 0;
+    min-height: calc(100vh - 2rem);
+  }
+
+  .layout-main .result-box .item-link {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 1200px) and (min-width: 1024px) {
+  .layout-sidebar {
+    left: calc((100vw - min(94vw, 1680px)) / 2);
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .layout-shell {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0;
+  }
+
+  .sidebar-sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    max-height: min(52vh, 400px);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    border-bottom: 1px solid rgba(213, 219, 232, 0.9);
+    box-shadow: var(--fe-shadow-sm);
+    background: rgba(255, 255, 255, 0.82);
+    backdrop-filter: blur(16px) saturate(1.35);
+    -webkit-backdrop-filter: blur(16px) saturate(1.35);
+  }
+
+  .page-hero--sidebar {
+    padding: 0.45rem 0.75rem 0.35rem;
+    border-bottom: 1px solid rgba(213, 219, 232, 0.45);
+  }
+
+  .page-hero--sidebar .page-hero__inner {
+    flex-direction: row;
+    align-items: center;
+    gap: 0.65rem;
+  }
+
+  .page-hero--sidebar .page-hero__title {
+    font-size: 1.02rem;
+    margin-bottom: 0.1rem;
+  }
+
+  .page-hero--sidebar .page-hero__eyebrow {
+    margin-bottom: 0.15rem;
+    font-size: 0.62rem;
+  }
+
+  .page-hero--sidebar .page-hero__lead {
+    display: none;
+  }
+
+  .page-hero--sidebar .page-hero__stats {
+    margin-top: 0.25rem;
+    font-size: 0.68rem;
+    gap: 0.15rem 0.25rem;
+  }
+
+  .page-hero--sidebar .page-hero__art {
+    width: 64px;
+    max-width: 64px;
+  }
+
+  .layout-main {
+    padding-top: clamp(10.75rem, 34vh, 18rem);
+  }
 }
 
 @media screen and (max-width: 1200px) {
-    .container,.search-box {
-        width:70%
+    .container {
+        width: min(94vw, 1680px);
+        max-width: 1680px;
     }
 
     .fixed-box {
-        right: 15%
+        right: max(12px, calc((100vw - min(94vw, 1680px)) / 2 - 8px));
     }
 }
 
@@ -758,14 +1486,16 @@ export default {
         right: .625rem
     }
 
-    .fixed-box .action-github,.fixed-box .action-top {
+    .fixed-box .action-feed,
+    .fixed-box .action-github,
+    .fixed-box .action-top {
         left: 0;
-        background-color: #f5f5f5
+        background-color: var(--fe-surface);
     }
 
     .fixed-box .action-top:hover {
         color: inherit;
-        background: #f5f5f5
+        background: var(--fe-surface-2);
     }
 
     .search-modal {
@@ -774,7 +1504,31 @@ export default {
 
     .search-box {
         width: 100%;
-        padding: .625rem
+        padding: .5rem .5rem .25rem
+    }
+
+    .result-box {
+        padding: 0.35rem 0 1.25rem;
+        border-radius: 0;
+        margin-left: 0;
+        margin-right: 0;
+        border-left: none;
+        border-right: none;
+    }
+
+    .result-box .item-link {
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+
+    .filter-strip__label {
+        width: 2rem;
+        font-size: 11px;
+    }
+
+    .chip {
+        font-size: 12px;
+        padding: 5px 10px;
     }
 
     .search-box .van-cell {
@@ -799,6 +1553,13 @@ export default {
 
     .result-box .van-cell__label {
         font-size: .75rem
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .chip-scroll {
+        flex-wrap: wrap;
+        overflow-x: visible;
     }
 }
 </style>

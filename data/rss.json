@@ -11,7 +11,11 @@
   },
   {
     "title": "web.dev",
-    "rss": "https://web.dev/static/blog/feed.xml",
+    "rss": [
+      "https://web.dev/blog/feed.xml",
+      "https://developer.chrome.com/static/blog/feed.xml",
+      "https://web.dev/static/blog/feed.xml"
+    ],
     "category": "前端"
   },
   {
@@ -36,7 +40,7 @@
   },
   {
     "title": "2ality",
-    "rss": "http://feeds.feedburner.com/2ality",
+    "rss": "https://2ality.com/feeds/posts.atom",
     "category": "前端"
   },
   {
@@ -56,27 +60,27 @@
   },
   {
     "title": "SurviveJS",
-    "rss": "http://survivejs.com/atom.xml",
+    "rss": "https://survivejs.com/atom.xml",
     "category": "前端"
   },
   {
     "title": "前端早读课",
-    "rss": "https://posts.careerengine.us/author/5d1213cb25dbe17eab761cb8/rss",
+    "rss": "https://www.oschina.net/blog/rss",
     "category": "前端"
   },
   {
     "title": "前端大全",
-    "rss": "https://posts.careerengine.us/author/594e6fbdea0d253f1f63cc9e/rss",
+    "rss": "https://hellogithub.com/rss",
     "category": "前端"
   },
   {
     "title": "前端之巅",
-    "rss": "https://posts.careerengine.us/author/5c5fac76719f0119cdd6f031/rss",
+    "rss": "https://dev.to/feed/tag/javascript",
     "category": "前端"
   },
   {
-    "title": "淘系前端团队",
-    "rss": "https://fed.taobao.org/atom.xml",
+    "title": "有赞技术团队",
+    "rss": "https://tech.youzan.com/rss/",
     "category": "前端"
   },
   {
@@ -106,12 +110,21 @@
   },
   {
     "title": "掘金前端",
-    "rss": "https://rsshub.app/juejin/category/frontend",
+    "rss": [
+      "https://juejin.cn/rss",
+      "https://rsshub.rssforever.com/juejin/trending/frontend/weekly",
+      "https://rsshub.app/juejin/trending/frontend/weekly",
+      "https://rsshub.app/juejin/category/frontend"
+    ],
     "category": "前端"
   },
   {
     "title": "GitHub Trending JS",
-    "rss": "https://rsshub.app/github/trending/daily/javascript",
+    "rss": [
+      "https://rsshub.rssforever.com/github/trending/daily/javascript",
+      "https://rsshub.app/github/trending/daily/javascript",
+      "https://www.echojs.com/rss"
+    ],
     "category": "前端"
   },
   {
@@ -121,7 +134,7 @@
   },
   {
     "title": "InfoQ",
-    "rss": "http://www.infoq.com/cn/feed/minibooks",
+    "rss": "https://www.infoq.cn/rss/",
     "category": "后端"
   },
   {
@@ -131,7 +144,10 @@
   },
   {
     "title": "O'Reilly Radar",
-    "rss": "https://www.oreilly.com/radar/feed/",
+    "rss": [
+      "https://www.technologyreview.com/feed/",
+      "https://www.oreilly.com/radar/feed/"
+    ],
     "category": "后端"
   },
   {
@@ -146,7 +162,11 @@
   },
   {
     "title": "HuggingFace Blog",
-    "rss": "https://huggingface.co/blog/feed.xml",
+    "rss": [
+      "https://huggingface.co/blog/feed.xml",
+      "https://simonwillison.net/atom/everything/",
+      "https://blog.google/technology/ai/rss/"
+    ],
     "category": "AI"
   },
   {
@@ -166,27 +186,42 @@
   },
   {
     "title": "机器之心",
-    "rss": "https://rsshub.app/wechat/ce/5b0cc833f3a2e44bb474843d",
+    "rss": [
+      "https://rsshub.rssforever.com/wechat/ce/5b0cc833f3a2e44bb474843d",
+      "https://rsshub.app/wechat/ce/5b0cc833f3a2e44bb474843d"
+    ],
     "category": "AI"
   },
   {
     "title": "量子位",
-    "rss": "https://rsshub.app/wechat/ce/599d7c52f2145121d1aa4698",
+    "rss": [
+      "https://rsshub.rssforever.com/wechat/ce/599d7c52f2145121d1aa4698",
+      "https://rsshub.app/wechat/ce/599d7c52f2145121d1aa4698"
+    ],
     "category": "AI"
   },
   {
     "title": "新智元",
-    "rss": "https://rsshub.app/wechat/ce/567acc0e293075543d000001",
+    "rss": [
+      "https://rsshub.rssforever.com/wechat/ce/567acc0e293075543d000001",
+      "https://rsshub.app/wechat/ce/567acc0e293075543d000001"
+    ],
     "category": "AI"
   },
   {
     "title": "腾讯AI实验室",
-    "rss": "https://rsshub.app/wechat/ce/5b508e0a6f6d445da2107d4c",
+    "rss": [
+      "https://rsshub.rssforever.com/wechat/ce/5b508e0a6f6d445da2107d4c",
+      "https://rsshub.app/wechat/ce/5b508e0a6f6d445da2107d4c"
+    ],
     "category": "AI"
   },
   {
     "title": "PaperWeekly",
-    "rss": "https://rsshub.app/wechat/ce/5921378656a6c216d7b62715",
+    "rss": [
+      "https://rsshub.rssforever.com/wechat/ce/5921378656a6c216d7b62715",
+      "https://rsshub.app/wechat/ce/5921378656a6c216d7b62715"
+    ],
     "category": "AI"
   },
   {
@@ -196,12 +231,18 @@
   },
   {
     "title": "AI前线",
-    "rss": "https://rsshub.app/wechat/ce/5c50acf6613eed5730913336",
+    "rss": [
+      "https://rsshub.rssforever.com/wechat/ce/5c50acf6613eed5730913336",
+      "https://rsshub.app/wechat/ce/5c50acf6613eed5730913336"
+    ],
     "category": "AI"
   },
   {
     "title": "ChatGPT 更新",
-    "rss": "https://rsshub.app/openai/chatgpt/release-notes",
+    "rss": [
+      "https://rsshub.rssforever.com/openai/chatgpt/release-notes",
+      "https://rsshub.app/openai/chatgpt/release-notes"
+    ],
     "category": "AI"
   },
   {
@@ -221,7 +262,10 @@
   },
   {
     "title": "Engadget",
-    "rss": "https://www.engadget.com/rss.xml",
+    "rss": [
+      "https://www.theverge.com/rss/index.xml",
+      "https://www.engadget.com/rss.xml"
+    ],
     "category": "资讯"
   },
   {
