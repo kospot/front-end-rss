@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-10 18:01:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-10 21:02:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -295,14 +295,14 @@
 - [2026-03-23-A-General-Deep-Learning-Framework-for-Wireless-Resource-Allocation-under-Discrete-Constraints](https://arxiv.org/abs/2603.19322) 
 - [2026-03-23-MSNet-and-LS-Net:-Scalable-Multi-Scale-Multi-Representation-Networks-for-Time-Series-Classification](https://arxiv.org/abs/2603.19315) 
 - [2026-04-08-The-Post-Transformer-Era](https://pub.towardsai.net/the-post-transformer-era-39e458ef339a?source=rss----98111c9905da---4) 
-- [2026-04-06-4-Vectorless-RAG-Approaches-—-And-Why-Vector-Based-RAG-Fails-A-2026-Guide-](https://pub.towardsai.net/4-vectorless-rag-approaches-and-why-vector-based-rag-fails-a-2026-guide-d7f264942eb2?source=rss----98111c9905da---4) 
 - [2026-04-06-Learn-Transformers-LLMs-in-5-Minutes](https://pub.towardsai.net/learn-transformers-llms-in-5-minutes-3a8de1b04268?source=rss----98111c9905da---4) 
+- [2026-04-06-4-Vectorless-RAG-Approaches-—-And-Why-Vector-Based-RAG-Fails-A-2026-Guide-](https://pub.towardsai.net/4-vectorless-rag-approaches-and-why-vector-based-rag-fails-a-2026-guide-d7f264942eb2?source=rss----98111c9905da---4) 
 - [2026-04-05-Vectorless-RAG:-How-I-Built-a-RAG-System-Without-Embeddings,-Databases,-or-Vector-Similarity](https://pub.towardsai.net/vectorless-rag-how-i-built-a-rag-system-without-embeddings-databases-or-vector-similarity-efccf21e42ff?source=rss----98111c9905da---4) 
 - [2026-04-04-Understanding-Positional-Embeddings-in-Transformers-with-Intuition-and-Examples](https://pub.towardsai.net/understanding-positional-embeddings-in-transformers-with-intuition-and-examples-bfd88cedd4c4?source=rss----98111c9905da---4) 
 - [2026-04-03-The-Softmax-Function-Every-Transformer-Uses-is-the-Boltzmann-Distribution-—-Not-Inspired-by-It,-Not…](https://pub.towardsai.net/the-softmax-function-every-transformer-uses-is-the-boltzmann-distribution-not-inspired-by-it-not-080fb2036918?source=rss----98111c9905da---4) 
 - [2026-03-30-The-Scissor-Effect:-Quantifying-the-Transition-from-Unstructured-DevOps-to-Product-Led-Platform…](https://pub.towardsai.net/platform-engineering-adoption-by-a-company-case-study-a874c070ab91?source=rss----98111c9905da---4) 
-- [2026-03-27-Why-I-Built-Per-Agent-Model-Routing-—-And-What-It-Reveals-About-AI-Cost-at-Scale](https://pub.towardsai.net/why-i-built-per-agent-model-routing-and-what-it-reveals-about-ai-cost-at-scale-1ae16d5833c3?source=rss----98111c9905da---4) 
 - [2026-03-27-Amazon’s-AI-Health-Tool-Transforms-Medical-Navigation](https://pub.towardsai.net/amazons-ai-health-tool-transforms-medical-navigation-e07879534091?source=rss----98111c9905da---4) 
+- [2026-03-27-Why-I-Built-Per-Agent-Model-Routing-—-And-What-It-Reveals-About-AI-Cost-at-Scale](https://pub.towardsai.net/why-i-built-per-agent-model-routing-and-what-it-reveals-about-ai-cost-at-scale-1ae16d5833c3?source=rss----98111c9905da---4) 
 - [2026-03-26-The-Death-of-the-Middleware:-How-I-Built-a-Serverless-AI-Resume-Parser-on-Android](https://pub.towardsai.net/building-serverless-ai-features-on-android-structuring-chaos-with-firebase-ai-logic-ca15eae810d8?source=rss----98111c9905da---4) 
 - [2026-04-10-Ask-HN:-Looking-for-AI-Video-Upscaler](https://news.ycombinator.com/item?id=47712332) 
 - [2026-04-10-FeatureIQ-–-A-knowledge-graph-that-knows-which-transforms-help-which-ML-models](https://github.com/khedekarpratik0337/featureiq) 
@@ -358,6 +358,8 @@
 - [2026-03-23-The-Great-CSS-Expansion](https://blog.gitbutler.com/the-great-css-expansion) 
 - [2026-04-10-How-to-make-the-Startup-Battlefield-Top-20-—-and-what-every-company-gets-regardless](https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/) 
 - [2026-04-01-Less-than-a-month:-StrictlyVC-San-Francisco-brings-leaders-from-TDK-Ventures,-Replit,-and-more-together](https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/) 
-- [2026-03-30-Qodo-raises-$70M-for-code-verification-as-AI-coding-scales](https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/) 
 - [2026-03-30-ScaleOps-raises-$130M-to-improve-computing-efficiency-amid-AI-demand](https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/) 
+- [2026-03-30-Qodo-raises-$70M-for-code-verification-as-AI-coding-scales](https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/) 
+- [2026-04-10-Asus-ROG-Cetra-Open-Wireless-Earbuds-Review:-Open-Gaming-Buds?](https://www.wired.com/review/asus-rog-cetra/) 
+- [2026-04-10-Irrigreen-Smart-Irrigation-System-3.0-2026-Review:-Smart-Watering,-Less-Hassle](https://www.wired.com/review/irrigreen-smart-irrigation-system-3-2026/) 
 - [2026-04-07-Border-Patrol-Agents-Sold-Challenge-Coins-With-‘Charlotte’s-Web’-Characters-in-Riot-Gear](https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/) 

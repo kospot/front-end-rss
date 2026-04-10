@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-10 18:01:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-10 21:02:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -55,7 +55,7 @@
 - [2026-04-02-Anthropic-took-down-thousands-of-GitHub-repos-trying-to-yank-its-leaked-source-code-—-a-move-the-company-says-was-an-accident](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/) 
 - [2026-03-30-Mantis-Biotech-is-making-‘digital-twins’-of-humans-to-help-solve-medicine’s-data-availability-problem](https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/) 
 - [2026-04-05-With-One-Million-Displaced,-Lebanon-Turns-to-Digital-Wallets-for-Aid](https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/) 
-- [2026-04-02-Logitech-Promo-Codes-and-Deals:-Up-to-$100-Off](https://www.wired.com/story/logitech-promo-code/) 
 - [2026-04-02-Western-Digital-Promo-Code:-10%-Off](https://www.wired.com/story/western-digital-promo-code/) 
+- [2026-04-02-Logitech-Promo-Codes-and-Deals:-Up-to-$100-Off](https://www.wired.com/story/logitech-promo-code/) 
 - [2026-03-31-Backup-Files-and-Your-Entire-Digital-Life-2026:-Hard-Drives,-Cloud-Based-Tools,-and-Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/) 
 - [2026-03-25-The-Best-Digital-Wall-Calendar-2026:-Skylight,-Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/) 
