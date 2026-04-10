@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-10T02:01:11.486Z</updated>
+    <updated>2026-04-10T04:01:28.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -204,23 +204,37 @@
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Mythos Preview: 93.9% SWE-Bench, Finds Zero-Days Overnight — Here's Why You Can't Use It]]></title>
-        <id>https://pub.towardsai.net/claude-mythos-preview-93-9-swe-bench-finds-zero-days-overnight-heres-why-you-can-t-use-it-adfa4de4414c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-mythos-preview-93-9-swe-bench-finds-zero-days-overnight-heres-why-you-can-t-use-it-adfa4de4414c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The L1 Loss Gradient, Explained From Scratch]]></title>
+        <id>https://pub.towardsai.net/the-l1-loss-gradient-explained-from-scratch-f2b0f912b119?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-l1-loss-gradient-explained-from-scratch-f2b0f912b119?source=rss----98111c9905da---4"/>
         <updated>2026-04-09T16:00:00.000Z</updated>
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Compared 6 Python AI Agent Frameworks So You Don’t Have To: LangGraph vs CrewAI vs PydanticAI vs OpenAI SDK vs Smolagents vs Google ADK]]></title>
-        <id>https://pub.towardsai.net/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[PINNs and Neural Operators: Two Competing Visions of Scientific AI]]></title>
+        <id>https://pub.towardsai.net/pinns-and-neural-operators-two-competing-visions-of-scientific-ai-c5be098aa2c5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/pinns-and-neural-operators-two-competing-visions-of-scientific-ai-c5be098aa2c5?source=rss----98111c9905da---4"/>
         <updated>2026-04-09T16:00:00.000Z</updated>
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 Data Preparation Interview Questions and Answers (Part 2 of 2)]]></title>
-        <id>https://pub.towardsai.net/top-20-data-preparation-interview-questions-and-answers-part-2-of-2-e020628865fa?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/top-20-data-preparation-interview-questions-and-answers-part-2-of-2-e020628865fa?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Beyond the Prompt: Building a Multi-Agent DevOps Squad with a Security Conscience]]></title>
+        <id>https://pub.towardsai.net/we-let-ai-write-our-terraform-then-we-gave-it-a-security-conscience-8a6f37f59eab?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/we-let-ai-write-our-terraform-then-we-gave-it-a-security-conscience-8a6f37f59eab?source=rss----98111c9905da---4"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Postcode Is Deciding Your Care. I Built a Pipeline to Prove It.]]></title>
+        <id>https://pub.towardsai.net/your-postcode-is-deciding-your-care-i-built-a-pipeline-to-prove-it-c14ddea2370d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-postcode-is-deciding-your-care-i-built-a-pipeline-to-prove-it-c14ddea2370d?source=rss----98111c9905da---4"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Lineage: A Field-Level Trust Contract for AI Data Consumers]]></title>
+        <id>https://pub.towardsai.net/beyond-lineage-a-field-level-trust-contract-for-ai-data-consumers-ad5abe2b54fb?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beyond-lineage-a-field-level-trust-contract-for-ai-data-consumers-ad5abe2b54fb?source=rss----98111c9905da---4"/>
         <updated>2026-04-09T16:00:00.000Z</updated>
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
@@ -232,136 +246,122 @@
         <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Politicians Are Spending More Money on Security as They Increasingly Become Targets]]></title>
-        <id>https://www.wired.com/story/political-campaign-security-spending/</id>
-        <link href="https://www.wired.com/story/political-campaign-security-spending/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Top 20 Data Preparation Interview Questions and Answers (Part 2 of 2)]]></title>
+        <id>https://pub.towardsai.net/top-20-data-preparation-interview-questions-and-answers-part-2-of-2-e020628865fa?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/top-20-data-preparation-interview-questions-and-answers-part-2-of-2-e020628865fa?source=rss----98111c9905da---4"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TCL NXTVISION Art TV Review: Just Fine]]></title>
-        <id>https://www.wired.com/review/tcl-nxtvision-2025/</id>
-        <link href="https://www.wired.com/review/tcl-nxtvision-2025/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Compared 6 Python AI Agent Frameworks So You Don’t Have To: LangGraph vs CrewAI vs PydanticAI vs OpenAI SDK vs Smolagents vs Google ADK]]></title>
+        <id>https://pub.towardsai.net/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262?source=rss----98111c9905da---4"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle]]></title>
-        <id>https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/</id>
-        <link href="https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Claude Mythos Preview: 93.9% SWE-Bench, Finds Zero-Days Overnight — Here's Why You Can't Use It]]></title>
+        <id>https://pub.towardsai.net/claude-mythos-preview-93-9-swe-bench-finds-zero-days-overnight-heres-why-you-can-t-use-it-adfa4de4414c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-mythos-preview-93-9-swe-bench-finds-zero-days-overnight-heres-why-you-can-t-use-it-adfa4de4414c?source=rss----98111c9905da---4"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Artemis II Astronauts Witnessed 6 Meteorites Colliding With the Moon]]></title>
-        <id>https://www.wired.com/story/artemis-ii-astronauts-witnessed-6-meteorites-collide-with-the-moon/</id>
-        <link href="https://www.wired.com/story/artemis-ii-astronauts-witnessed-6-meteorites-collide-with-the-moon/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[LLM-Generated Fault Scenarios for Evaluating Perception-Driven Lane Following in Autonomous Edge Systems]]></title>
+        <id>https://arxiv.org/abs/2604.07362</id>
+        <link href="https://arxiv.org/abs/2604.07362"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s Fanciest Watch Is $100 Off]]></title>
-        <id>https://www.wired.com/story/apple-watch-ultra-3-deal-426/</id>
-        <link href="https://www.wired.com/story/apple-watch-ultra-3-deal-426/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Flow Learners for PDEs: Toward a Physics-to-Physics Paradigm for Scientific Computing]]></title>
+        <id>https://arxiv.org/abs/2604.07366</id>
+        <link href="https://arxiv.org/abs/2604.07366"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘We Were Not Ready for This’: Lebanon's Emergency System Is Hanging by a Thread]]></title>
-        <id>https://www.wired.com/story/we-were-not-ready-for-this-lebanons-emergency-system-is-hanging-by-a-thread/</id>
-        <link href="https://www.wired.com/story/we-were-not-ready-for-this-lebanons-emergency-system-is-hanging-by-a-thread/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[The Lifecycle of the Spectral Edge: From Gradient Learning to Weight-Decay Compression]]></title>
+        <id>https://arxiv.org/abs/2604.07380</id>
+        <link href="https://arxiv.org/abs/2604.07380"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table]]></title>
-        <id>https://www.wired.com/story/muse-spark-meta-open-source-closed-source/</id>
-        <link href="https://www.wired.com/story/muse-spark-meta-open-source-closed-source/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[SCOT: Multi-Source Cross-City Transfer with Optimal-Transport Soft-Correspondence Objective]]></title>
+        <id>https://arxiv.org/abs/2604.07383</id>
+        <link href="https://arxiv.org/abs/2604.07383"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Altra Promo Codes: Get 20% Off Plus Free Shipping]]></title>
-        <id>https://www.wired.com/story/altra-promo-code/</id>
-        <link href="https://www.wired.com/story/altra-promo-code/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Decisions and Deployment: The Five-Year SAHELI Project (2020-2025) on Restless Multi-Armed Bandits for Improving Maternal and Child Health]]></title>
+        <id>https://arxiv.org/abs/2604.07384</id>
+        <link href="https://arxiv.org/abs/2604.07384"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vimeo Promo Codes and Deals: Save Up to 40%]]></title>
-        <id>https://www.wired.com/story/vimeo-promo-code/</id>
-        <link href="https://www.wired.com/story/vimeo-promo-code/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A Novel Edge-Assisted Quantum-Classical Hybrid Framework for Crime Pattern Learning and Classification]]></title>
+        <id>https://arxiv.org/abs/2604.07389</id>
+        <link href="https://arxiv.org/abs/2604.07389"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Cafeteria Workers Did What Execs Won’t: Took on ICE and Won]]></title>
-        <id>https://www.wired.com/story/how-meta-cafeteria-workers-rallied-to-take-on-ice/</id>
-        <link href="https://www.wired.com/story/how-meta-cafeteria-workers-rallied-to-take-on-ice/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A Graph Foundation Model for Wireless Resource Allocation]]></title>
+        <id>https://arxiv.org/abs/2604.07390</id>
+        <link href="https://arxiv.org/abs/2604.07390"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fi Mini for Cats Review: Track Your Pets and Monitor Their Activity]]></title>
-        <id>https://www.wired.com/review/fi-mini-for-cats/</id>
-        <link href="https://www.wired.com/review/fi-mini-for-cats/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Event-Centric World Modeling with Memory-Augmented Retrieval for Embodied Decision-Making]]></title>
+        <id>https://arxiv.org/abs/2604.07392</id>
+        <link href="https://arxiv.org/abs/2604.07392"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This founder helped build SpaceX’s most powerful rocket engine. Now he’s building a ‘fighter jet for orbit’]]></title>
-        <id>https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/</id>
-        <link href="https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[DSPR: Dual-Stream Physics-Residual Networks for Trustworthy Industrial Time Series Forecasting]]></title>
+        <id>https://arxiv.org/abs/2604.07393</id>
+        <link href="https://arxiv.org/abs/2604.07393"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Radify’s sci-fi plasma reactors could break China’s dominance of rare earth elements]]></title>
-        <id>https://techcrunch.com/2026/04/09/radifys-sci-fi-plasma-reactors-could-break-chinas-dominance-of-rare-earth-elements/</id>
-        <link href="https://techcrunch.com/2026/04/09/radifys-sci-fi-plasma-reactors-could-break-chinas-dominance-of-rare-earth-elements/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference]]></title>
+        <id>https://arxiv.org/abs/2604.07394</id>
+        <link href="https://arxiv.org/abs/2604.07394"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astropad’s Workbench reimagines remote desktop for AI agents, not IT support]]></title>
-        <id>https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/</id>
-        <link href="https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Data Warmup: Complexity-Aware Curricula for Efficient Diffusion Training]]></title>
+        <id>https://arxiv.org/abs/2604.07397</id>
+        <link href="https://arxiv.org/abs/2604.07397"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto]]></title>
-        <id>https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/</id>
-        <link href="https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Critical Patch-Aware Sparse Prompting with Decoupled Training for Continual Learning on the Edge]]></title>
+        <id>https://arxiv.org/abs/2604.07399</id>
+        <link href="https://arxiv.org/abs/2604.07399"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These are the countries moving to ban social media for children]]></title>
-        <id>https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/</id>
-        <link href="https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Accelerating Training of Autoregressive Video Generation Models via Local Optimization with Representation Continuity]]></title>
+        <id>https://arxiv.org/abs/2604.07402</id>
+        <link href="https://arxiv.org/abs/2604.07402"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hack-for-hire group caught targeting Android devices and iCloud backups]]></title>
-        <id>https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/</id>
-        <link href="https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI]]></title>
-        <id>https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/</id>
-        <link href="https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram expands its movie-inspired content restrictions for teens internationally]]></title>
-        <id>https://techcrunch.com/2026/04/09/instagram-expands-its-movie-inspired-content-restriction-for-teens-internationally/</id>
-        <link href="https://techcrunch.com/2026/04/09/instagram-expands-its-movie-inspired-content-restriction-for-teens-internationally/"/>
-        <updated>2026-04-08T16:00:00.000Z</updated>
-        <published>2026-04-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Conservation Law Breaking at the Edge of Stability: A Spectral Theory of Non-Convex Neural Network Optimization]]></title>
+        <id>https://arxiv.org/abs/2604.07405</id>
+        <link href="https://arxiv.org/abs/2604.07405"/>
+        <updated>2026-04-09T16:00:00.000Z</updated>
+        <published>2026-04-09T16:00:00.000Z</published>
     </entry>
 </feed>

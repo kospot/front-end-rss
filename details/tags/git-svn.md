@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-10 10:01:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-10 12:01:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -16,15 +16,17 @@
 - [2026-03-24-GitHub-expands-application-security-coverage-with-AI‑powered-detections](https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/) 
 - [2026-03-12-GitHub-availability-report:-February-2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/) 
 - [2026-03-12-Addressing-GitHub’s-recent-availability-issues](https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/) 
+- [2026-04-10-Joint-Task-Offloading,-Inference-Optimization-and-UAV-Trajectory-Planning-for-Generative-AI-Empowered-Intelligent-Transportation-Digital-Twin](https://arxiv.org/abs/2604.07687) 
+- [2026-04-10-SYN-DIGITS:-A-Synthetic-Control-Framework-for-Calibrated-Digital-Twin-Simulation](https://arxiv.org/abs/2604.07513) 
 - [2026-04-09-TwinLoop:-Simulation-in-the-Loop-Digital-Twins-for-Online-Multi-Agent-Reinforcement-Learning](https://arxiv.org/abs/2604.06610) 
 - [2026-04-07-Towards-Build-Optimization-Using-Digital-Twins](https://arxiv.org/abs/2503.19381) 
 - [2026-04-06-Steerable-but-Not-Decodable:-Function-Vectors-Operate-Beyond-the-Logit-Lens](https://arxiv.org/abs/2604.02608) 
-- [2026-04-02-Vocal-Prognostic-Digital-Biomarkers-in-Monitoring-Chronic-Heart-Failure:-A-Longitudinal-Observational-Study](https://arxiv.org/abs/2604.00308) 
 - [2026-04-02-Lead-Zirconate-Titanate-Reservoir-Computing-for-Classification-of-Written-and-Spoken-Digits](https://arxiv.org/abs/2604.00207) 
+- [2026-04-02-Vocal-Prognostic-Digital-Biomarkers-in-Monitoring-Chronic-Heart-Failure:-A-Longitudinal-Observational-Study](https://arxiv.org/abs/2604.00308) 
 - [2026-03-30-Masked-Training-for-Robust-Arrhythmia-Detection-from-Digitalized-Multiple-Layout-ECG-Images](https://arxiv.org/abs/2508.09165) 
-- [2026-03-26-Continuous-Time-Learning-of-Probability-Distributions:-A-Case-Study-in-a-Digital-Trial-of-Young-Children-with-Type-1-Diabetes](https://arxiv.org/abs/2603.24427) 
-- [2026-03-26-Digital-Twin-Assisted-Measurement-Design-and-Channel-Statistics-Prediction](https://arxiv.org/abs/2603.23787) 
 - [2026-03-26-The-Economics-of-Builder-Saturation-in-Digital-Markets](https://arxiv.org/abs/2603.23685) 
+- [2026-03-26-Digital-Twin-Assisted-Measurement-Design-and-Channel-Statistics-Prediction](https://arxiv.org/abs/2603.23787) 
+- [2026-03-26-Continuous-Time-Learning-of-Probability-Distributions:-A-Case-Study-in-a-Digital-Trial-of-Young-Children-with-Type-1-Diabetes](https://arxiv.org/abs/2603.24427) 
 - [2026-03-24-SDE-Driven-Spatio-Temporal-Hypergraph-Neural-Networks-for-Irregular-Longitudinal-fMRI-Connectome-Modeling-in-Alzheimer's-Disease](https://arxiv.org/abs/2603.20452) 
 - [2026-04-04-The-Hidden-Cost-of-Manual-Intervention-in-Digital-Products](https://pub.towardsai.net/the-hidden-cost-of-manual-intervention-in-digital-products-05427eb8fc88?source=rss----98111c9905da---4) 
 - [2026-04-10-We've-raised-$17M-to-build-what-comes-after-Git](https://blog.gitbutler.com/series-a) 

@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-10 10:01:10，:rocket: 更新条数: +1204， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-10 12:01:27，:rocket: 更新条数: +1456， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -42,7 +42,7 @@
 - [GitHub-Engineering](#github-engineering)  
 - [O'Reilly-Radar](#o'reilly-radar)  
 - [Martin-Fowler](#martin-fowler)![](/assets/dot.png)   
-- [arXiv-ML](#arxiv-ml)  
+- [arXiv-ML](#arxiv-ml)![](/assets/dot.png)   
 - [HuggingFace-Blog](#huggingface-blog)  
 - [smol.ai](#smol.ai)![](/assets/dot.png)   
 - [Towards-AI](#towards-ai)![](/assets/dot.png)   
@@ -55,11 +55,11 @@
 - [我爱自然语言处理](#我爱自然语言处理)![](/assets/dot.png)   
 - [AI前线](#ai前线)  
 - [ChatGPT-更新](#chatgpt-更新)  
-- [Hacker-News](#hacker-news)![](/assets/dot.png)   
+- [Hacker-News](#hacker-news)  
 - [TechCrunch](#techcrunch)  
-- [Wired](#wired)![](/assets/dot.png)   
+- [Wired](#wired)  
 - [Engadget](#engadget)  
-- [少数派](#少数派)![](/assets/dot.png)   
+- [少数派](#少数派)  
 
 ## 文章链接
 
@@ -115,15 +115,15 @@
 - [2026-04-07-Alternatives-to-the-!important-Keyword](https://css-tricks.com/alternatives-to-the-important-keyword/)  
 - [2026-04-06-Looking-at-New-CSS-Multi-Column-Layout-Wrapping-Features](https://css-tricks.com/css-multi-column-layout-wrapping-features/)  
 - [2026-04-02-Making-Complex-CSS-Shapes-Using-shape](https://css-tricks.com/complex-css-shapes-with-shape-function/)  
-- [2026-04-01-Sniffing-Out-the-CSS-Olfactive-API](https://css-tricks.com/css-olfactive-api/)  
 - [2026-04-01-Front-End-Fools:-Top-10-April-Fools’-UI-Pranks-of-All-Time](https://css-tricks.com/front-end-april-fools-top-10/)  
+- [2026-04-01-Sniffing-Out-the-CSS-Olfactive-API](https://css-tricks.com/css-olfactive-api/)  
 - [2026-03-31-What’s-!important-#8:-Light/Dark-Favicons,-@mixin,-object-view-box,-and-More](https://css-tricks.com/whats-important-8/)  
 - [2026-03-30-Form-Automation-Tips-for-Happier-User-and-Clients](https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/)  
 - [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)  
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
+- [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
 - [......【查看更多】......](/details/CSS-Tricks.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -471,26 +471,26 @@
 </summary>
 
 
-- [2026-04-09-CodecFlow:-Codec-Guided-End-to-End-Optimization-for-Streaming-Video-Analytics](https://arxiv.org/abs/2604.06036)  
-- [2026-04-09-ChopGrad:-Pixel-Wise-Losses-for-Latent-Video-Diffusion-via-Truncated-Backpropagation](https://arxiv.org/abs/2603.17812)  
-- [2026-04-09-Conditional-flow-matching-for-physics-constrained-inverse-problems-with-finite-training-data](https://arxiv.org/abs/2603.14135)  
-- [2026-04-09-AgriPath:-A-Systematic-Exploration-of-Architectural-Trade-offs-for-Crop-Disease-Classification](https://arxiv.org/abs/2603.13354)  
-- [2026-04-09-Resource-constrained-Amazons-chess-decision-framework-integrating-large-language-models-and-graph-attention](https://arxiv.org/abs/2603.10512)  
-- [2026-04-09-Robust-support-vector-model-based-on-bounded-asymmetric-elastic-net-loss-for-binary-classification](https://arxiv.org/abs/2603.06257)  
-- [2026-04-09-Theory-and-interpretability-of-Quantum-Extreme-Learning-Machines:-a-Pauli-transfer-matrix-approach](https://arxiv.org/abs/2602.18377)  
-- [2026-04-09-Concave-Certificates:-Geometric-Framework-for-Distributionally-Robust-Risk-and-Complexity-Analysis](https://arxiv.org/abs/2601.01311)  
-- [2026-04-09-ADOPT:-Adaptive-Dependency-Guided-Joint-Prompt-Optimization-for-Multi-Step-LLM-Pipelines](https://arxiv.org/abs/2512.24933)  
-- [2026-04-09-Fast-reconstruction-based-ROI-triggering-via-anomaly-detection-in-the-CYGNO-optical-TPC](https://arxiv.org/abs/2512.24290)  
-- [2026-04-09-Probabilistic-Predictions-of-Process-Induced-Deformation-in-Carbon/Epoxy-Composites-Using-a-Deep-Operator-Network](https://arxiv.org/abs/2512.13746)  
-- [2026-04-09-Physics-Informed-Neural-Networks-for-Source-Inversion-and-Parameters-Estimation-in-Atmospheric-Dispersion](https://arxiv.org/abs/2512.07755)  
-- [2026-04-09-DisCEdge:-Distributed-Context-Management-for-Large-Language-Models-at-the-Edge](https://arxiv.org/abs/2511.22599)  
-- [2026-04-09-PULSE:-Privileged-Knowledge-Transfer-from-Rich-to-Deployable-Sensors-for-Embodied-Multi-Sensory-Learning](https://arxiv.org/abs/2510.24058)  
-- [2026-04-09-RLBoost:-Harvesting-Preemptible-Resources-for-Cost-Efficient-Reinforcement-Learning-on-LLMs](https://arxiv.org/abs/2510.19225)  
-- [2026-04-09-One-Life-to-Learn:-Inferring-Symbolic-World-Models-for-Stochastic-Environments-from-Unguided-Exploration](https://arxiv.org/abs/2510.12088)  
-- [2026-04-09-PAC-Bayesian-Bounds-on-Constrained-f-Entropic-Risk-Measures](https://arxiv.org/abs/2510.11169)  
-- [2026-04-09-LifeAlign:-Lifelong-Alignment-for-Large-Language-Models-with-Memory-Augmented-Focalized-Preference-Optimization](https://arxiv.org/abs/2509.17183)  
-- [2026-04-09-Synthetic-Homes:-A-Multimodal-Generative-AI-Pipeline-for-Residential-Building-Data-Generation-under-Data-Scarcity](https://arxiv.org/abs/2509.09794)  
-- [2026-04-09-AugLift:-Depth-Aware-Input-Reparameterization-Improves-Domain-Generalization-in-2D-to-3D-Pose-Lifting](https://arxiv.org/abs/2508.07112)  
+- [2026-04-10-Stop-Listening-to-Me!-How-Multi-turn-Conversations-Can-Degrade-LLM-Diagnostic-Reasoning](https://arxiv.org/abs/2603.11394) ![](/assets/new.png)  
+- [2026-04-10-ZipMap:-Linear-Time-Stateful-3D-Reconstruction-via-Test-Time-Training](https://arxiv.org/abs/2603.04385) ![](/assets/new.png)  
+- [2026-04-10-Flow-Matching-is-Adaptive-to-Manifold-Structures](https://arxiv.org/abs/2602.22486) ![](/assets/new.png)  
+- [2026-04-10-Complexity-of-Classical-Acceleration-for-$\ell_1$-Regularized-PageRank](https://arxiv.org/abs/2602.21138) ![](/assets/new.png)  
+- [2026-04-10-Differentiable-Logical-Programming-for-Quantum-Circuit-Discovery-and-Optimization](https://arxiv.org/abs/2602.08880) ![](/assets/new.png)  
+- [2026-04-10-Accordion-Thinking:-Self-Regulated-Step-Summaries-for-Efficient-and-Readable-LLM-Reasoning](https://arxiv.org/abs/2602.03249) ![](/assets/new.png)  
+- [2026-04-10-Over-The-Air-Extreme-Learning-Machines-with-XL-Reception-via-Nonlinear-Cascaded-Metasurfaces](https://arxiv.org/abs/2601.17749) ![](/assets/new.png)  
+- [2026-04-10-Compact-Example-Based-Explanations-for-Language-Models](https://arxiv.org/abs/2601.03786) ![](/assets/new.png)  
+- [2026-04-10-Parameter-Efficient-Transfer-Learning-for-Microseismic-Phase-Picking-Using-a-Neural-Operator](https://arxiv.org/abs/2512.13197) ![](/assets/new.png)  
+- [2026-04-10-Evaluating-Singular-Value-Thresholds-for-DNN-Weight-Matrices-based-on-Random-Matrix-Theory](https://arxiv.org/abs/2512.12911) ![](/assets/new.png)  
+- [2026-04-10-OxEnsemble:-Fair-Ensembles-for-Low-Data-Classification](https://arxiv.org/abs/2512.09665) ![](/assets/new.png)  
+- [2026-04-10-The-Specification-Trap:-Why-Static-Value-Alignment-Alone-Cannot-Produce-Robust-Alignment](https://arxiv.org/abs/2512.03048) ![](/assets/new.png)  
+- [2026-04-10-Understanding-Task-Transfer-in-Vision-Language-Models](https://arxiv.org/abs/2511.18787) ![](/assets/new.png)  
+- [2026-04-10-Adversarially-and-Distributionally-Robust-Virtual-Energy-Storage-Systems-via-the-Scenario-Approach](https://arxiv.org/abs/2511.09427) ![](/assets/new.png)  
+- [2026-04-10-Rate-optimal-Design-for-Anytime-Best-Arm-Identification](https://arxiv.org/abs/2510.23199) ![](/assets/new.png)  
+- [2026-04-10-BADiff:-Bandwidth-Adaptive-Diffusion-Model](https://arxiv.org/abs/2510.21366) ![](/assets/new.png)  
+- [2026-04-10-Mitigating-Spurious-Background-Bias-in-Multimedia-Recognition-with-Disentangled-Concept-Bottlenecks](https://arxiv.org/abs/2510.15770) ![](/assets/new.png)  
+- [2026-04-10-Fast-and-Interpretable-Protein-Substructure-Alignment-via-Optimal-Transport](https://arxiv.org/abs/2510.11752) ![](/assets/new.png)  
+- [2026-04-10-Prompt-reinforcing-for-long-term-planning-of-large-language-models](https://arxiv.org/abs/2510.05921) ![](/assets/new.png)  
+- [2026-04-10-Evaluating-LLMs-for-Demographic-Targeted-Social-Bias-Detection:-A-Comprehensive-Benchmark-Study](https://arxiv.org/abs/2510.04641) ![](/assets/new.png)  
 - [......【查看更多】......](/details/arXiv ML.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -515,17 +515,17 @@
 
 - [2026-04-08-not-much-happened-today](https://news.smol.ai/issues/26-04-08-not-much/)  
 - [2026-04-07-anthropic](https://news.smol.ai/issues/26-04-06-anthropic-mythos/)  
-- [2026-04-06-not-much-happened-today](https://news.smol.ai/issues/26-04-06-not-much/)  
 - [2026-04-06-not-much-happened-today](https://news.smol.ai/issues/26-04-07-not-much/)  
+- [2026-04-06-not-much-happened-today](https://news.smol.ai/issues/26-04-06-not-much/)  
 - [2026-04-03-not-much-happened-today](https://news.smol.ai/issues/26-04-03-not-much/)  
 - [2026-04-02-Gemma-4](https://news.smol.ai/issues/26-04-02-gemma-4/)  
 - [2026-04-01-not-much-happened-today](https://news.smol.ai/issues/26-04-01-not-much/)  
 - [2026-03-30-not-much-happened-today](https://news.smol.ai/issues/26-03-30-not-much/)  
 - [2026-03-27-not-much-happened-today](https://news.smol.ai/issues/26-03-27-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-31-claude-code-leak/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
 - [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-31-claude-code-leak/)  
 - [2026-03-23-not-much-happened-today](https://news.smol.ai/issues/26-03-23-not-much/)  
 - [2026-03-20-not-much-happened-today](https://news.smol.ai/issues/26-03-20-not-much/)  
 - [2026-03-19-not-much-happened-today](https://news.smol.ai/issues/26-03-19-not-much/)  
@@ -544,26 +544,26 @@
 </summary>
 
 
-- [2026-04-10-We-Gave-AI-a-Brain-—-Now-We’re-Giving-It-a-Job](https://pub.towardsai.net/we-gave-ai-a-brain-now-were-giving-it-a-job-815b3f5b33de?source=rss----98111c9905da---4)  
-- [2026-04-10-Python-3.13-&amp;-3.14-Are-Breaking-Backward-Compatibility-on-Purpose](https://pub.towardsai.net/python-3-13-3-14-are-breaking-backward-compatibility-on-purpose-b6c7d7351336?source=rss----98111c9905da---4)  
-- [2026-04-10-The-LLM-Wiki-Trend-Has-a-Retention-Problem-Nobody-Mentions](https://pub.towardsai.net/the-llm-wiki-trend-has-a-retention-problem-nobody-mentions-4b376d288e9c?source=rss----98111c9905da---4)  
-- [2026-04-10-The-100th-Tool-Call-Problem:-Why-Most-CI-Agents-Fail-in-Production](https://pub.towardsai.net/the-100th-tool-call-problem-why-most-ci-agents-fail-in-production-36b4fd62089b?source=rss----98111c9905da---4)  
-- [2026-04-10-Top-20-Data-Preparation-Interview-Questions-and-Answers-Part-2-of-2](https://pub.towardsai.net/top-20-data-preparation-interview-questions-and-answers-part-2-of-2-e020628865fa?source=rss----98111c9905da---4)  
-- [2026-04-10-Inside-YouTube’s-Recommendation-System](https://pub.towardsai.net/inside-youtubes-recommendation-system-572e820e6447?source=rss----98111c9905da---4)  
-- [2026-04-10-GLM-5.1-Beats-GPT-5.4-on-SWE-Bench-Pro.-The-Failure-Modes-Are-What-Matter.](https://pub.towardsai.net/glm-5-1-beats-gpt-5-4-on-swe-bench-pro-the-failure-modes-are-what-matter-77c85ea26c3f?source=rss----98111c9905da---4)  
-- [2026-04-10-How-AI-Has-Turned-Cybersecurity-From-Defense-to-Offense](https://pub.towardsai.net/how-ai-has-turned-cybersecurity-from-defense-to-offense-63f017e20e40?source=rss----98111c9905da---4)  
-- [2026-04-10-I-Compared-6-Python-AI-Agent-Frameworks-So-You-Don’t-Have-To:-LangGraph-vs-CrewAI-vs-PydanticAI-vs-OpenAI-SDK-vs-Smolagents-vs-Google-ADK](https://pub.towardsai.net/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262?source=rss----98111c9905da---4)  
+- [2026-04-10-Claude-Mythos-Preview:-93.9%-SWE-Bench,-Finds-Zero-Days-Overnight-—-Here's-Why-You-Can't-Use-It](https://pub.towardsai.net/claude-mythos-preview-93-9-swe-bench-finds-zero-days-overnight-heres-why-you-can-t-use-it-adfa4de4414c?source=rss----98111c9905da---4)  
+- [2026-04-10-Architecture-Without-Architects:-The-Hidden-Cost-of-AI-Coding-Agents](https://pub.towardsai.net/architecture-without-architects-the-hidden-cost-of-ai-coding-agents-a7298110b7be?source=rss----98111c9905da---4)  
 - [2026-04-10-Human-in-the-Loop-HITL:-“The-Veto-Protocol”](https://pub.towardsai.net/human-in-the-loop-hitl-the-veto-protocol-ac36a0b6366d?source=rss----98111c9905da---4)  
-- [2026-04-10-Architecture-Without-Architects:-The-Hidden-Cost-of-AI-Coding-Agents](https://pub.towardsai.net/architecture-without-architects-the-hidden-cost-of-ai-coding-agents-a7298110b7be?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-04-10-Claude-Mythos-Preview:-93.9%-SWE-Bench,-Finds-Zero-Days-Overnight-—-Here's-Why-You-Can't-Use-It](https://pub.towardsai.net/claude-mythos-preview-93-9-swe-bench-finds-zero-days-overnight-heres-why-you-can-t-use-it-adfa4de4414c?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-04-09-Your-First-Claude-API-Call-in-60-Seconds-Complete-Python-Guide](https://pub.towardsai.net/your-first-claude-api-call-in-60-seconds-complete-python-guide-cf3fa1ebee71?source=rss----98111c9905da---4)  
-- [2026-04-09-Supercharge-Your-Notes:-Obsidian-+-iCloud-+-an-AI-That-Actually-Lives-in-Your-Notes](https://pub.towardsai.net/supercharge-your-notes-obsidian-icloud-an-ai-that-actually-lives-in-your-notes-af8413e15313?source=rss----98111c9905da---4)  
-- [2026-04-09-Top-15-Computer-Vision-Datasets-2026](https://pub.towardsai.net/computer-vision-datasets-f6d59f319e85?source=rss----98111c9905da---4)  
-- [2026-04-09-40-Generative-AI-Interview-Questions-That-Actually-Get-Asked-in-2026-With-Answers](https://pub.towardsai.net/40-generative-ai-interview-questions-that-actually-get-asked-in-2026-with-answers-b4c647f1e2e8?source=rss----98111c9905da---4)  
-- [2026-04-09-Next-Word-Prediction:-How-Conditional-Probability-Turned-Language-into-a-Learning-Task](https://pub.towardsai.net/next-word-prediction-how-conditional-probability-turned-language-into-a-learning-task-a5cecfadf40d?source=rss----98111c9905da---4)  
-- [2026-04-09-Your-Brain-Is-Running-5-Electrical-Symphonies-Right-Now.-We-Built-a-Quantum-Circuit-to-Listen.](https://pub.towardsai.net/your-brain-is-running-5-electrical-symphonies-right-now-we-built-a-quantum-circuit-to-listen-82f8cf968b6b?source=rss----98111c9905da---4)  
-- [2026-04-09-Multimodal-AI-Systems:-Scalability-&amp;-Cost-Optimization](https://pub.towardsai.net/multimodal-ai-systems-scalability-cost-optimization-74e9e73f010a?source=rss----98111c9905da---4)  
-- [2026-04-09-Breaking-the-Memory-Wall:-TurboQuant-KV-Cache-Quantization-on-Apple-Silicon](https://pub.towardsai.net/breaking-the-memory-wall-turboquant-kv-cache-quantization-on-apple-silicon-84b87f6f3bd9?source=rss----98111c9905da---4)  
+- [2026-04-10-I-Compared-6-Python-AI-Agent-Frameworks-So-You-Don’t-Have-To:-LangGraph-vs-CrewAI-vs-PydanticAI-vs-OpenAI-SDK-vs-Smolagents-vs-Google-ADK](https://pub.towardsai.net/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262?source=rss----98111c9905da---4)  
+- [2026-04-10-How-AI-Has-Turned-Cybersecurity-From-Defense-to-Offense](https://pub.towardsai.net/how-ai-has-turned-cybersecurity-from-defense-to-offense-63f017e20e40?source=rss----98111c9905da---4)  
+- [2026-04-10-GLM-5.1-Beats-GPT-5.4-on-SWE-Bench-Pro.-The-Failure-Modes-Are-What-Matter.](https://pub.towardsai.net/glm-5-1-beats-gpt-5-4-on-swe-bench-pro-the-failure-modes-are-what-matter-77c85ea26c3f?source=rss----98111c9905da---4)  
+- [2026-04-10-Inside-YouTube’s-Recommendation-System](https://pub.towardsai.net/inside-youtubes-recommendation-system-572e820e6447?source=rss----98111c9905da---4)  
+- [2026-04-10-Top-20-Data-Preparation-Interview-Questions-and-Answers-Part-2-of-2](https://pub.towardsai.net/top-20-data-preparation-interview-questions-and-answers-part-2-of-2-e020628865fa?source=rss----98111c9905da---4)  
+- [2026-04-10-The-100th-Tool-Call-Problem:-Why-Most-CI-Agents-Fail-in-Production](https://pub.towardsai.net/the-100th-tool-call-problem-why-most-ci-agents-fail-in-production-36b4fd62089b?source=rss----98111c9905da---4)  
+- [2026-04-10-The-LLM-Wiki-Trend-Has-a-Retention-Problem-Nobody-Mentions](https://pub.towardsai.net/the-llm-wiki-trend-has-a-retention-problem-nobody-mentions-4b376d288e9c?source=rss----98111c9905da---4)  
+- [2026-04-10-Python-3.13-&amp;-3.14-Are-Breaking-Backward-Compatibility-on-Purpose](https://pub.towardsai.net/python-3-13-3-14-are-breaking-backward-compatibility-on-purpose-b6c7d7351336?source=rss----98111c9905da---4)  
+- [2026-04-10-We-Gave-AI-a-Brain-—-Now-We’re-Giving-It-a-Job](https://pub.towardsai.net/we-gave-ai-a-brain-now-were-giving-it-a-job-815b3f5b33de?source=rss----98111c9905da---4)  
+- [2026-04-10-Beyond-Lineage:-A-Field-Level-Trust-Contract-for-AI-Data-Consumers](https://pub.towardsai.net/beyond-lineage-a-field-level-trust-contract-for-ai-data-consumers-ad5abe2b54fb?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-04-10-Palantir-Foundry-Ontology:-How-It-Works,-What-Problems-It-Solves,-and-Where-It-Falls-Short](https://pub.towardsai.net/palantir-foundry-ontology-how-it-works-what-problems-it-solves-and-where-it-falls-short-d8b4a1ae4900?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-04-10-Langfuse-vs-LangSmith:-Two-Competing-AI-Observability-Platforms-Compared](https://pub.towardsai.net/langfuse-vs-langsmith-two-competing-ai-observability-platforms-compared-2527a5ce023b?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-04-10-I-Directed-AI-Agents-to-Build-a-Tool-That-Stress-Tests-Incentive-Designs.-Here’s-What-It-Found.](https://pub.towardsai.net/i-directed-ai-agents-to-build-a-tool-that-stress-tests-incentive-designs-heres-what-it-found-a079f152b158?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-04-10-Your-Postcode-Is-Deciding-Your-Care.-I-Built-a-Pipeline-to-Prove-It.](https://pub.towardsai.net/your-postcode-is-deciding-your-care-i-built-a-pipeline-to-prove-it-c14ddea2370d?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-04-10-Beyond-the-Prompt:-Building-a-Multi-Agent-DevOps-Squad-with-a-Security-Conscience](https://pub.towardsai.net/we-let-ai-write-our-terraform-then-we-gave-it-a-security-conscience-8a6f37f59eab?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-04-10-PINNs-and-Neural-Operators:-Two-Competing-Visions-of-Scientific-AI](https://pub.towardsai.net/pinns-and-neural-operators-two-competing-visions-of-scientific-ai-c5be098aa2c5?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-04-10-N-Grams-and-Markov-Assumptions:-The-First-Predictive-Models-of-Language](https://pub.towardsai.net/n-grams-and-markov-assumptions-the-first-predictive-models-of-language-ace56da7b390?source=rss----98111c9905da---4) ![](/assets/new.png)  
 - [......【查看更多】......](/details/Towards AI.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -643,8 +643,8 @@
 </summary>
 
 
-- [2026-04-08-What-Makes-Modern-Online-Casinos-So-Popular](https://www.52nlp.cn/what-makes-modern-online-casinos-so-popular-1207)  
 - [2026-04-08-What-Makes-Modern-Online-Casinos-So-Popular](https://www.52nlp.cn/what-makes-modern-online-casinos-so-popular-1359)  
+- [2026-04-08-What-Makes-Modern-Online-Casinos-So-Popular](https://www.52nlp.cn/what-makes-modern-online-casinos-so-popular-1207)  
 - [......【查看更多】......](/details/我爱自然语言处理.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -741,10 +741,10 @@
 
 
 - [2026-04-10-China-Is-Cracking-Down-on-Scams.-Just-Not-the-Ones-Hitting-Americans](https://www.wired.com/story/made-in-china-inside-chinas-selective-war-on-the-scam-economy/)  
-- [2026-04-10-The-70-Person-AI-Image-Startup-Taking-on-Silicon-Valley's-Giants](https://www.wired.com/story/black-forest-labs-ai-image-generation/) ![](/assets/new.png)  
+- [2026-04-10-The-70-Person-AI-Image-Startup-Taking-on-Silicon-Valley's-Giants](https://www.wired.com/story/black-forest-labs-ai-image-generation/)  
 - [2026-04-10-Save-$20-on-This-Already-Inexpensive-Wireless-Mic-Set](https://www.wired.com/story/dji-mic-mini-deal-426/)  
 - [2026-04-10-John-Deere-Is-Paying-Farmers-$99-Million-for-Allegedly-Monopolizing-Repair](https://www.wired.com/story/john-deere-is-paying-farmers-99-million-for-allegedly-monopolizing-repair/)  
-- [2026-04-10-OpenAI-Backs-Bill-That-Would-Limit-Liability-for-AI-Enabled-Mass-Deaths-or-Financial-Disasters](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/) ![](/assets/new.png)  
+- [2026-04-10-OpenAI-Backs-Bill-That-Would-Limit-Liability-for-AI-Enabled-Mass-Deaths-or-Financial-Disasters](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)  
 - [2026-04-09-Fi-Mini-for-Cats-Review:-Track-Your-Pets-and-Monitor-Their-Activity](https://www.wired.com/review/fi-mini-for-cats/)  
 - [2026-04-09-Meta-Cafeteria-Workers-Did-What-Execs-Won’t:-Took-on-ICE-and-Won](https://www.wired.com/story/how-meta-cafeteria-workers-rallied-to-take-on-ice/)  
 - [2026-04-09-I-Asked-Netflix’s-Reality-TV-Boss-Why-So-Many-Men-On-Dating-Shows-Are-Terrible](https://www.wired.com/story/netflix-love-is-blind-brandon-riegg-on-why-so-many-men-on-dating-shows-are-terrible/)  
@@ -782,7 +782,7 @@
 </summary>
 
 
-- [2026-04-10-派早报：微信支付发布接入-Skill-工具体系等](https://sspai.com/post/108468) ![](/assets/new.png)  
+- [2026-04-10-派早报：微信支付发布接入-Skill-工具体系等](https://sspai.com/post/108468)  
 - [2026-04-09-AI-时代，我关于教育的思考](https://sspai.com/post/108300)  
 - [2026-04-09-雷鸟-Air3-AR-眼镜：一年使用体验复盘](https://sspai.com/post/108367)  
 - [2026-04-09-派早报：智谱发布旗舰模型-GLM-5.1、索尼推出-Playerbase-计划等](https://sspai.com/post/108426)  

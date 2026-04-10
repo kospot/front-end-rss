@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-10 10:01:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-10 12:01:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -7,15 +7,16 @@
 
 
 
+- [2026-04-10-Physics-informed-neural-operators-for-the-in-situ-characterization-of-locally-reacting-sound-absorbers](https://arxiv.org/abs/2604.07412) 
 - [2026-04-09-Graph-Neural-ODE-Digital-Twins-for-Control-Oriented-Reactor-Thermal-Hydraulic-Forecasting-Under-Partial-Observability](https://arxiv.org/abs/2604.07292) 
-- [2026-04-07-Predict,-Don't-React:-Value-Based-Safety-Forecasting-for-LLM-Streaming](https://arxiv.org/abs/2604.03962) 
 - [2026-04-07-Learning-continuous-state-of-charge-dependent-thermal-decomposition-kinetics-for-Li-ion-cathodes-using-Kolmogorov-Arnold-Chemical-Reaction-Neural-Networks-KA-CRNNs](https://arxiv.org/abs/2512.15628) 
+- [2026-04-07-Predict,-Don't-React:-Value-Based-Safety-Forecasting-for-LLM-Streaming](https://arxiv.org/abs/2604.03962) 
 - [2026-04-03-Application-of-parametric-Shallow-Recurrent-Decoder-Network-to-magnetohydrodynamic-flows-in-liquid-metal-blankets-of-fusion-reactors](https://arxiv.org/abs/2604.02139) 
-- [2026-03-26-Enhancing-Nuclear-Reactor-Core-Simulation-through-Data-Based-Surrogate-Models](https://arxiv.org/abs/2511.16148) 
 - [2026-03-26-Praxium:-Diagnosing-Cloud-Anomalies-with-AI-based-Telemetry-and-Dependency-Analysis](https://arxiv.org/abs/2603.23890) 
+- [2026-03-26-Enhancing-Nuclear-Reactor-Core-Simulation-through-Data-Based-Surrogate-Models](https://arxiv.org/abs/2511.16148) 
 - [2026-03-25-Causal-Discovery-in-Action:-Learning-Chain-Reaction-Mechanisms-from-Interventions](https://arxiv.org/abs/2603.22620) 
-- [2026-03-24-Intrinsic-Metric-Physics-Informed-Neural-Networks-IM-PINN-for-Reaction-Diffusion-Dynamics-on-Complex-Riemannian-Manifolds](https://arxiv.org/abs/2601.00834) 
 - [2026-03-24-FluidWorld:-Reaction-Diffusion-Dynamics-as-a-Predictive-Substrate-for-World-Models](https://arxiv.org/abs/2603.21315) 
+- [2026-03-24-Intrinsic-Metric-Physics-Informed-Neural-Networks-IM-PINN-for-Reaction-Diffusion-Dynamics-on-Complex-Riemannian-Manifolds](https://arxiv.org/abs/2601.00834) 
 - [2026-03-23-Gym-TORAX:-Open-source-software-for-integrating-reinforcement-learning-with-plasma-control-simulators-in-tokamak-research](https://arxiv.org/abs/2510.11283) 
 - [2026-04-03-ReAct-Agents-in-2026:-Build-a-Real-World-Research-Agent-with-LangGraph](https://pub.towardsai.net/react-agents-in-2026-build-a-real-world-research-agent-with-langgraph-af645e9dd2f1?source=rss----98111c9905da---4) 
 - [2026-03-25-Building-a-Financial-Research-Agent-with-ReAct,-LangGraph,-and-LangChain](https://pub.towardsai.net/building-a-financial-research-agent-with-react-langgraph-and-langchain-c5d5142d8b29?source=rss----98111c9905da---4) 

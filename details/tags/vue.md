@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-10 10:01:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-10 12:01:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -7,6 +7,8 @@
 
 
 
+- [2026-04-10-TreeAdv:-Tree-Structured-Advantage-Redistribution-for-Group-Based-RL](https://arxiv.org/abs/2601.03703) 
+- [2026-04-10-Exponential-quantum-advantage-in-processing-massive-classical-data](https://arxiv.org/abs/2604.07639) 
 - [2026-04-09-SHAPE:-Stage-aware-Hierarchical-Advantage-via-Potential-Estimation-for-LLM-Reasoning](https://arxiv.org/abs/2604.06636) 
 - [2026-04-07-Selecting-Decision-Relevant-Concepts-in-Reinforcement-Learning](https://arxiv.org/abs/2604.04808) 
 - [2026-04-06-Mitigating-Reward-Hacking-in-RLHF-via-Advantage-Sign-Robustness](https://arxiv.org/abs/2604.02986) 
