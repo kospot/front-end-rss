@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-10 23:03:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-11 15:45:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -10,8 +10,10 @@
 - [2026-04-09-Social-engineering-attacks-target-high-impact-Node.js-maintainers](https://nodeweekly.com/issues/619) 
 - [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618) 
 - [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616) 
-- [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615) 
 - [2026-03-16-When-Deno-or-Bun-is-a-Better-Solution-than-Node.js](https://frontendmasters.com/blog/when-deno-or-bun-is-a-better-solution-than-node-js/) 
+- [2026-04-11-Node.jsJavaScript-Memory-Leak-Bellek-Sızıntısı-Tespiti-ve-Önleme](https://dev.to/forumweb/nodejsjavascript-memory-leak-bellek-sizintisi-tespiti-ve-onleme-5235) 
+- [2026-04-11-Node.jsCallback-Pattern-Geri-Çağırma-Fonksiyonları-Kullanım-Rehberi](https://dev.to/forumweb/nodejscallback-pattern-geri-cagirma-fonksiyonlari-kullanim-rehberi-h03) 
+- [2026-04-11-nodejs/node](https://github.com/nodejs/node) 
 - [2026-04-10-The-Impact-of-Dimensionality-on-the-Stability-of-Node-Embeddings](https://arxiv.org/abs/2604.08492) 
 - [2026-04-09-Quality-preserving-Model-for-Electronics-Production-Quality-Tests-Reduction](https://arxiv.org/abs/2604.06451) 
 - [2026-04-09-GraphWalker:-Graph-Guided-In-Context-Learning-for-Clinical-Reasoning-on-Electronic-Health-Records](https://arxiv.org/abs/2604.06684) 
