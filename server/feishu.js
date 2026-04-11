@@ -88,6 +88,7 @@ const CREATE_FIELD_ALIASES = {
   中文标题: ['中文标题', 'Chinese title', 'chinese title'],
   推荐度: ['推荐度', 'Recommendation', 'recommendation'],
   所属源: ['所属源', 'Source', 'source', '来源'],
+  链接: ['链接', 'Link', 'link', 'URL', 'url', '文章链接', '原文链接'],
 }
 
 let cachedToken = null
@@ -231,7 +232,6 @@ async function syncNewLinks(rows, options = {}) {
     fieldInfo && fieldInfo.tableFieldNames && fieldInfo.tableFieldNames.length > 0
       ? fieldInfo.tableFieldNames
       : Object.values(CREATE_FIELD_ALIASES).flat()
-
   const recordPayloads = []
   for (let i = 0; i < rows.length; i += 1) {
     const row = rows[i]
@@ -242,11 +242,12 @@ async function syncNewLinks(rows, options = {}) {
       中文标题: row.zhTitle != null ? String(row.zhTitle) : '',
       推荐度: row.category != null ? String(row.category) : '',
       所属源: row.source != null ? String(row.source) : '',
+      链接: row.link != null ? String(row.link) : '',
     }
     const fields = resolveFieldsForTable(rawFields, tableFieldNames)
     if (Object.keys(fields).length === 0) {
       throw new Error(
-        '多维表字段与代码不匹配：未找到 日期/原标题/中文标题/推荐度/所属源 中任一列。当前表字段: ' +
+        '多维表字段与代码不匹配：未找到 日期/原标题/中文标题/推荐度/所属源/链接 中任一列。当前表字段: ' +
           tableFieldNames.join('、'),
       )
     }
