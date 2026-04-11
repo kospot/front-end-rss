@@ -11,7 +11,7 @@
  *
  * 注意：重复执行会为同一批链接再建记录；需要去重请在飞书侧处理或先清空表。
  */
-require('dotenv').config({ multiline: true })
+require('./load-env')
 
 const fs = require('fs-extra')
 const path = require('path')

@@ -3,8 +3,6 @@ const Async = require('async')
 
 const utils = require('./utils')
 
-require('dotenv').config({ multiline: true })
-
 let rssConfig = {}
 try {
   rssConfig = JSON.parse(process.env.RSS_CONFIG || '{}')

@@ -1,11 +1,10 @@
+require('./load-env')
 const fs = require('fs-extra')
 const path = require('path')
 const moment = require('moment')
 const chalk = require('chalk')
 const queryString = require('query-string')
 const { Octokit } = require('@octokit/core')
-
-require('dotenv').config({ multiline: true })
 
 const RESP_PATH              = path.join(__dirname, '../')
 const RSS_PATH               = path.join(RESP_PATH + '/data/rss.json')

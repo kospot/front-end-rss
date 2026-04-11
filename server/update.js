@@ -9,8 +9,6 @@ const createFeed = require('./feed')
 const fetch = require('./fetch')
 const { syncNewLinks, isFeishuSyncEnabled } = require('./feishu')
 
-require('dotenv').config({ multiline: true })
-
 const {
   RESP_PATH,
   RSS_PATH,

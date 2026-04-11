@@ -6,6 +6,80 @@ const axios = require('axios')
 
 const FEISHU_BASE = 'https://open.feishu.cn'
 const TOKEN_BUFFER_MS = 5 * 60 * 1000
+const LOG_BODY_MAX_LEN = 8000
+
+function stringifyForLog(obj) {
+  try {
+    const s = JSON.stringify(obj, null, 2)
+    if (s.length > LOG_BODY_MAX_LEN) {
+      return `${s.slice(0, LOG_BODY_MAX_LEN)}\n... (truncated, ${s.length} chars)`
+    }
+    return s
+  } catch (_) {
+    return String(obj)
+  }
+}
+
+/** 请求体脱敏后用于日志 */
+function sanitizeRequestBodyForLog(data) {
+  if (data == null) return data
+  let parsed = data
+  if (typeof data === 'string') {
+    try {
+      parsed = JSON.parse(data)
+    } catch (_) {
+      return data.length > 500 ? `${data.slice(0, 500)}...` : data
+    }
+  }
+  if (parsed && typeof parsed === 'object' && !Array.isArray(parsed)) {
+    if (parsed.app_secret != null) {
+      return { ...parsed, app_secret: '***' }
+    }
+  }
+  if (parsed && typeof parsed === 'object' && Array.isArray(parsed.records)) {
+    const n = parsed.records.length
+    return {
+      recordsCount: n,
+      recordsSample: parsed.records.slice(0, 2),
+    }
+  }
+  return parsed
+}
+
+function logFeishuHttpError(label, err) {
+  const cfg = err.config || {}
+  const method = (cfg.method || 'get').toUpperCase()
+  const url = cfg.url || ''
+  const res = err.response
+  console.error(`[feishu] ${label}`)
+  console.error('  接口:', method, url)
+  console.error('  请求参数/体:', stringifyForLog(sanitizeRequestBodyForLog(cfg.data)))
+  if (res) {
+    console.error('  HTTP状态:', res.status, res.statusText || '')
+    console.error('  响应体:', stringifyForLog(res.data))
+  } else {
+    console.error('  网络/其它错误:', err.message || String(err))
+  }
+}
+
+/** @param {string} label @param {object} config axios 请求配置 */
+async function feishuRequest(label, config) {
+  try {
+    return await axios(config)
+  } catch (err) {
+    logFeishuHttpError(label, err)
+    throw err
+  }
+}
+
+function logFeishuBusinessError(label, url, method, requestSummary, data) {
+  console.error(`[feishu] ${label}（HTTP 200 但业务 code 非 0）`)
+  console.error('  接口:', method, url)
+  if (requestSummary !== undefined) {
+    console.error('  请求概要:', stringifyForLog(requestSummary))
+  }
+  console.error('  响应体:', stringifyForLog(data))
+}
 
 /** 逻辑名 -> 多维表里可能出现的字段名候选 */
 const CREATE_FIELD_ALIASES = {
@@ -47,12 +121,21 @@ async function getTenantAccessToken() {
   if (!appId || !appSecret) {
     throw new Error('请配置 FEISHU_APP_ID 和 FEISHU_APP_SECRET')
   }
-  const { data } = await axios.post(
-    `${FEISHU_BASE}/open-apis/auth/v3/tenant_access_token/internal`,
-    { app_id: appId, app_secret: appSecret },
-    { headers: { 'Content-Type': 'application/json' } },
-  )
+  const tokenUrl = `${FEISHU_BASE}/open-apis/auth/v3/tenant_access_token/internal`
+  const { data } = await feishuRequest('获取 tenant_access_token', {
+    method: 'POST',
+    url: tokenUrl,
+    data: { app_id: appId, app_secret: appSecret },
+    headers: { 'Content-Type': 'application/json' },
+  })
   if (data.code !== 0) {
+    logFeishuBusinessError(
+      '获取 tenant_access_token',
+      tokenUrl,
+      'POST',
+      { app_id: appId, app_secret: '***' },
+      data,
+    )
     throw new Error(data.msg || '获取飞书 token 失败')
   }
   cachedToken = data.tenant_access_token
@@ -86,11 +169,16 @@ function hasFeishuCredentials() {
 }
 
 async function getTableFields(appToken, tableId, accessToken) {
-  const { data } = await axios.get(
-    `${FEISHU_BASE}/open-apis/bitable/v1/apps/${appToken}/tables/${tableId}/fields`,
-    { headers: { Authorization: `Bearer ${accessToken}` } },
-  )
-  if (data.code !== 0) return null
+  const fieldsUrl = `${FEISHU_BASE}/open-apis/bitable/v1/apps/${appToken}/tables/${tableId}/fields`
+  const { data } = await feishuRequest('获取数据表字段列表', {
+    method: 'GET',
+    url: fieldsUrl,
+    headers: { Authorization: `Bearer ${accessToken}` },
+  })
+  if (data.code !== 0) {
+    logFeishuBusinessError('获取数据表字段列表', fieldsUrl, 'GET', { appToken, tableId }, data)
+    return null
+  }
   const dataObj = data.data || {}
   let rawItems = []
   if (Array.isArray(dataObj.items)) rawItems = dataObj.items
@@ -169,17 +257,25 @@ async function syncNewLinks(rows, options = {}) {
   let created = 0
   for (let off = 0; off < recordPayloads.length; off += BATCH) {
     const chunk = recordPayloads.slice(off, off + BATCH)
-    const { data } = await axios.post(
-      `${FEISHU_BASE}/open-apis/bitable/v1/apps/${appToken}/tables/${tableId}/records/batch_create`,
-      { records: chunk },
-      {
-        headers: {
-          'Content-Type': 'application/json',
-          Authorization: `Bearer ${accessToken}`,
-        },
+    const batchUrl = `${FEISHU_BASE}/open-apis/bitable/v1/apps/${appToken}/tables/${tableId}/records/batch_create`
+    const body = { records: chunk }
+    const { data } = await feishuRequest(`批量创建记录 (offset=${off}, size=${chunk.length})`, {
+      method: 'POST',
+      url: batchUrl,
+      data: body,
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${accessToken}`,
       },
-    )
+    })
     if (data.code !== 0) {
+      logFeishuBusinessError(
+        '批量写入飞书记录',
+        batchUrl,
+        'POST',
+        sanitizeRequestBodyForLog(body),
+        data,
+      )
       throwFeishuError(data, '批量写入飞书记录失败')
     }
     const recs = (data.data && data.data.records) || []
