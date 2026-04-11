@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-11T07:45:03.066Z</updated>
+    <updated>2026-04-11T10:03:20.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[浅谈人工智能时代的用户体验：Agent Experience 导论]]></title>
+        <id>https://sspai.com/post/107600</id>
+        <link href="https://sspai.com/post/107600"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house]]></title>
         <id>https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail</id>
@@ -36,16 +43,9 @@
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Artemis II Astronauts Safely Return to Earth After Historic Flight Around the Moon]]></title>
-        <id>https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/</id>
-        <link href="https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/"/>
-        <updated>2026-04-10T16:00:00.000Z</updated>
-        <published>2026-04-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home]]></title>
-        <id>https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/</id>
-        <link href="https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/"/>
+        <title type="html"><![CDATA[This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts]]></title>
+        <id>https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/</id>
+        <link href="https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
@@ -57,9 +57,16 @@
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts]]></title>
-        <id>https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/</id>
-        <link href="https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/"/>
+        <title type="html"><![CDATA[Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home]]></title>
+        <id>https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/</id>
+        <link href="https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artemis II Astronauts Safely Return to Earth After Historic Flight Around the Moon]]></title>
+        <id>https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/</id>
+        <link href="https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
@@ -71,30 +78,72 @@
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancer with MND performs on stage again through digital avatar]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cgqkz5lzvnwo</id>
-        <link href="https://www.bbc.co.uk/news/articles/cgqkz5lzvnwo"/>
+        <title type="html"><![CDATA[You Do Need to Understand Mythos (YouTube Video)]]></title>
+        <id>https://www.youtube.com/watch?v=V6pgZKVcKpw</id>
+        <link href="https://www.youtube.com/watch?v=V6pgZKVcKpw"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gigi – Geometric Intrinsic Global Index – A new approach to database queries]]></title>
-        <id>https://www.davisgeometric.com/gigi#home</id>
-        <link href="https://www.davisgeometric.com/gigi#home"/>
+        <title type="html"><![CDATA[How to Build a Secure AI PR Reviewer with Claude, GitHub Actions, and JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-secure-ai-pr-reviewer-with-claude-github-actions-and-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-secure-ai-pr-reviewer-with-claude-github-actions-and-javascript/"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MLSharp Single-View High-Quality AI Reconstruction Pipeline]]></title>
-        <id>https://suto.bex.jp/mac/mlsharp/index.html</id>
-        <link href="https://suto.bex.jp/mac/mlsharp/index.html"/>
+        <title type="html"><![CDATA[Strait of Hormuz: A Citrini Field Trip (Free)]]></title>
+        <id>https://www.citriniresearch.com/p/free-strait-of-hormuz-a-citrini-field</id>
+        <link href="https://www.citriniresearch.com/p/free-strait-of-hormuz-a-citrini-field"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI is the boss at this retail store. What could go wrong?]]></title>
-        <id>https://www.nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-labs-market-boss-rcna267013</id>
-        <link href="https://www.nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-labs-market-boss-rcna267013"/>
+        <title type="html"><![CDATA[I Built an AI PR Reviewer That Catches Bugs by Not Looking for Bugs]]></title>
+        <id>https://tessl.io/blog/i-built-an-ai-pr-reviewer-that-catches-bugs-by-not-looking-for-bugs/</id>
+        <link href="https://tessl.io/blog/i-built-an-ai-pr-reviewer-that-catches-bugs-by-not-looking-for-bugs/"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air Powered Segment Display? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=E1BLGpE5zH0</id>
+        <link href="https://www.youtube.com/watch?v=E1BLGpE5zH0"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aisbf (AI Should Be Free) proxy 0.99.18 released]]></title>
+        <id>https://pypi.org/project/aisbf/</id>
+        <link href="https://pypi.org/project/aisbf/"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code doesn't trust Claude with permissions]]></title>
+        <id>https://blog.raed.dev/posts/claude_code_permissions/</id>
+        <link href="https://blog.raed.dev/posts/claude_code_permissions/"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write less code, be more responsible]]></title>
+        <id>https://blog.orhun.dev/code-responsibly/</id>
+        <link href="https://blog.orhun.dev/code-responsibly/"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tabularis: A lightweight, cross-platform database client. Hackable with pkugins]]></title>
+        <id>https://github.com/debba/tabularis</id>
+        <link href="https://github.com/debba/tabularis"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premium: The Hater's Guide to OpenAI]]></title>
+        <id>https://www.wheresyoured.at/hatersguide-openai/</id>
+        <link href="https://www.wheresyoured.at/hatersguide-openai/"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
@@ -106,9 +155,30 @@
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Premium: The Hater's Guide to OpenAI]]></title>
-        <id>https://www.wheresyoured.at/hatersguide-openai/</id>
-        <link href="https://www.wheresyoured.at/hatersguide-openai/"/>
+        <title type="html"><![CDATA[AI is the boss at this retail store. What could go wrong?]]></title>
+        <id>https://www.nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-labs-market-boss-rcna267013</id>
+        <link href="https://www.nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-labs-market-boss-rcna267013"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MLSharp Single-View High-Quality AI Reconstruction Pipeline]]></title>
+        <id>https://suto.bex.jp/mac/mlsharp/index.html</id>
+        <link href="https://suto.bex.jp/mac/mlsharp/index.html"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gigi – Geometric Intrinsic Global Index – A new approach to database queries]]></title>
+        <id>https://www.davisgeometric.com/gigi#home</id>
+        <link href="https://www.davisgeometric.com/gigi#home"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dancer with MND performs on stage again through digital avatar]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cgqkz5lzvnwo</id>
+        <link href="https://www.bbc.co.uk/news/articles/cgqkz5lzvnwo"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
@@ -155,213 +225,263 @@
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anil-matcha/Open-Higgsfield-AI]]></title>
-        <id>https://github.com/Anil-matcha/Open-Higgsfield-AI</id>
-        <link href="https://github.com/Anil-matcha/Open-Higgsfield-AI"/>
+        <title type="html"><![CDATA[
+Phantom UI – Skeleton that measures your real DOM (Web Component, 8kb)
+]]></title>
+        <id>
+https://github.com/Aejkatappaja/phantom-ui
+</id>
+        <link href="
+https://github.com/Aejkatappaja/phantom-ui
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[sveltejs/svelte]]></title>
-        <id>https://github.com/sveltejs/svelte</id>
-        <link href="https://github.com/sveltejs/svelte"/>
+        <title type="html"><![CDATA[
+A lightweight front end framework with native JavaScript/TS feel
+]]></title>
+        <id>
+https://qingkuai.dev
+</id>
+        <link href="
+https://qingkuai.dev
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[eslint/eslint]]></title>
-        <id>https://github.com/eslint/eslint</id>
-        <link href="https://github.com/eslint/eslint"/>
+        <title type="html"><![CDATA[
+Zephyr Events – A 2KB TypeScript event emitter that's race-condition safe
+]]></title>
+        <id>
+https://www.npmjs.com/package/zephyr-events
+</id>
+        <link href="
+https://www.npmjs.com/package/zephyr-events
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[vercel/next.js]]></title>
-        <id>https://github.com/vercel/next.js</id>
-        <link href="https://github.com/vercel/next.js"/>
+        <title type="html"><![CDATA[
+Your options for preloading images with JavaScript
+]]></title>
+        <id>
+https://macarthur.me/posts/preloading-images/
+</id>
+        <link href="
+https://macarthur.me/posts/preloading-images/
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[facebook/react]]></title>
-        <id>https://github.com/facebook/react</id>
-        <link href="https://github.com/facebook/react"/>
+        <title type="html"><![CDATA[
+A simple physics engine in around 100 lines of pure JS
+]]></title>
+        <id>
+https://slicker.me/javascript/physics/physics_engine.htm
+</id>
+        <link href="
+https://slicker.me/javascript/physics/physics_engine.htm
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[nodejs/node]]></title>
-        <id>https://github.com/nodejs/node</id>
-        <link href="https://github.com/nodejs/node"/>
+        <title type="html"><![CDATA[
+Heat.js v5.1.0 - New line/point line support! Improved dynamic colors! Fixes!
+]]></title>
+        <id>
+https://www.heatjs.com/
+</id>
+        <link href="
+https://www.heatjs.com/
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[webpack/webpack]]></title>
-        <id>https://github.com/webpack/webpack</id>
-        <link href="https://github.com/webpack/webpack"/>
+        <title type="html"><![CDATA[
+[AI] webpage-mcp: Turn your existing webpages into an MCP server for agent control
+]]></title>
+        <id>
+https://github.com/mcpland/webpage-mcp
+</id>
+        <link href="
+https://github.com/mcpland/webpage-mcp
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[gsd-build/get-shit-done]]></title>
-        <id>https://github.com/gsd-build/get-shit-done</id>
-        <link href="https://github.com/gsd-build/get-shit-done"/>
+        <title type="html"><![CDATA[
+Bun is Fast. Your Event Loop is Not.
+]]></title>
+        <id>
+https://howtocenterdiv.com/beyond-the-div/bun-is-fast-your-event-loop-is-not
+</id>
+        <link href="
+https://howtocenterdiv.com/beyond-the-div/bun-is-fast-your-event-loop-is-not
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON Security 101: Handling Sensitive Data Locally]]></title>
-        <id>https://dev.to/napster_rj/json-security-101-handling-sensitive-data-locally-bl4</id>
-        <link href="https://dev.to/napster_rj/json-security-101-handling-sensitive-data-locally-bl4"/>
+        <title type="html"><![CDATA[
+Web UI to play the frequencies of various sets of tuning forks using the Web Audio API
+]]></title>
+        <id>
+https://github.com/evoluteur/healing-frequencies
+</id>
+        <link href="
+https://github.com/evoluteur/healing-frequencies
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.jsCallback Pattern Geri Çağırma Fonksiyonları Kullanım Rehberi]]></title>
-        <id>https://dev.to/forumweb/nodejscallback-pattern-geri-cagirma-fonksiyonlari-kullanim-rehberi-h03</id>
-        <link href="https://dev.to/forumweb/nodejscallback-pattern-geri-cagirma-fonksiyonlari-kullanim-rehberi-h03"/>
+        <title type="html"><![CDATA[
+I Scanned 6 Popular Node.js Repos for Undocumented Environment Variables. Here's What I Found.
+]]></title>
+        <id>
+https://dev.to/ckmtools/i-scanned-6-popular-nodejs-repos-for-undocumented-environment-variables-heres-what-i-found-5478
+</id>
+        <link href="
+https://dev.to/ckmtools/i-scanned-6-popular-nodejs-repos-for-undocumented-environment-variables-heres-what-i-found-5478
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Writing a Regex Parser and Tree Visualizer in ~400 Lines of Vanilla JS]]></title>
-        <id>https://dev.to/sendotltd/writing-a-regex-parser-and-tree-visualizer-in-400-lines-of-vanilla-js-3dp7</id>
-        <link href="https://dev.to/sendotltd/writing-a-regex-parser-and-tree-visualizer-in-400-lines-of-vanilla-js-3dp7"/>
+        <title type="html"><![CDATA[
+I Wrapped My Free npm Package as a Paid REST API — Here's the Architecture
+]]></title>
+        <id>
+https://dev.to/ckmtools/i-wrapped-my-free-npm-package-as-a-paid-rest-api-heres-the-architecture-24p9
+</id>
+        <link href="
+https://dev.to/ckmtools/i-wrapped-my-free-npm-package-as-a-paid-rest-api-heres-the-architecture-24p9
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automate Your Links: A Developer's Guide to the toui.io API]]></title>
-        <id>https://dev.to/thebrecht/automate-your-links-a-developers-guide-to-the-touiio-api-gam</id>
-        <link href="https://dev.to/thebrecht/automate-your-links-a-developers-guide-to-the-touiio-api-gam"/>
+        <title type="html"><![CDATA[
+Built an open source SVG brand library with 4,700+ icons
+]]></title>
+        <id>
+https://github.com/glincker/thesvg
+</id>
+        <link href="
+https://github.com/glincker/thesvg
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Your Frontend Build with Bazel: Testing]]></title>
-        <id>https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-testing-mlg</id>
-        <link href="https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-testing-mlg"/>
+        <title type="html"><![CDATA[
+Why Node.js Needs A Virtual File System
+]]></title>
+        <id>
+https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system
+</id>
+        <link href="
+https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I was tired of json-server — so I built a free mock API tool (no signup needed)]]></title>
-        <id>https://dev.to/mockbolt02/i-was-tired-of-json-server-so-i-built-a-free-mock-api-tool-no-signup-needed-fkn</id>
-        <link href="https://dev.to/mockbolt02/i-was-tired-of-json-server-so-i-built-a-free-mock-api-tool-no-signup-needed-fkn"/>
+        <title type="html"><![CDATA[
+We Benchmarked Top React Gantt Chart Libraries So You Don't Have To
+]]></title>
+        <id>
+https://svar.dev/blog/react-gantt-benchmark/
+</id>
+        <link href="
+https://svar.dev/blog/react-gantt-benchmark/
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ReactPerplexity Politika Koruma Kuralları - Claude Code Skill Rehberi]]></title>
-        <id>https://dev.to/forumweb/reactperplexity-politika-koruma-kurallari-claude-code-skill-rehberi-4jfl</id>
-        <link href="https://dev.to/forumweb/reactperplexity-politika-koruma-kurallari-claude-code-skill-rehberi-4jfl"/>
+        <title type="html"><![CDATA[
+Cool Github Copilot Metrics Dashboard
+]]></title>
+        <id>
+https://github.com/zahhar/ghcp-dashboard
+</id>
+        <link href="
+https://github.com/zahhar/ghcp-dashboard
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.jsJavaScript Memory Leak Bellek Sızıntısı Tespiti ve Önleme]]></title>
-        <id>https://dev.to/forumweb/nodejsjavascript-memory-leak-bellek-sizintisi-tespiti-ve-onleme-5235</id>
-        <link href="https://dev.to/forumweb/nodejsjavascript-memory-leak-bellek-sizintisi-tespiti-ve-onleme-5235"/>
+        <title type="html"><![CDATA[
+Native JSON modules are finally real
+]]></title>
+        <id>
+https://allthingssmitty.com/2026/03/16/native-json-modules-are-finally-real/
+</id>
+        <link href="
+https://allthingssmitty.com/2026/03/16/native-json-modules-are-finally-real/
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I rewrote my encrypted form tool because I was tired of Cloudflare owning my setup]]></title>
-        <id>https://dev.to/grayguava/i-rewrote-my-encrypted-form-tool-because-i-was-tired-of-cloudflare-owning-my-setup-9j</id>
-        <link href="https://dev.to/grayguava/i-rewrote-my-encrypted-form-tool-because-i-was-tired-of-cloudflare-owning-my-setup-9j"/>
+        <title type="html"><![CDATA[
+I Built an npm Package and Tracked Every Download for Two Weeks. Here's the Data.
+]]></title>
+        <id>
+https://dev.to/ckmtools/i-built-an-npm-package-and-tracked-every-download-for-two-weeks-heres-the-data-3jck
+</id>
+        <link href="
+https://dev.to/ckmtools/i-built-an-npm-package-and-tracked-every-download-for-two-weeks-heres-the-data-3jck
+"/>
         <updated>2026-04-10T16:00:00.000Z</updated>
         <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bose’s rugged Soundlink Flex Bluetooth speaker is on sale for up to $50 off]]></title>
-        <id>https://www.theverge.com/gadgets/907744/bose-soundlink-flex-2nd-gen-google-nest-doorbell-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/907744/bose-soundlink-flex-2nd-gen-google-nest-doorbell-deal-sale"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[
+alonronin/orbit: A better search engine for your github starred collection.
+]]></title>
+        <id>
+https://github.com/alonronin/orbit
+</id>
+        <link href="
+https://github.com/alonronin/orbit
+"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice]]></title>
-        <id>https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/</id>
-        <link href="https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[
+HTML and web page minification benchmarks
+]]></title>
+        <id>
+https://github.com/j9t/minifier-benchmarks
+</id>
+        <link href="
+https://github.com/j9t/minifier-benchmarks
+"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters]]></title>
-        <id>https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/</id>
-        <link href="https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save $20 on This Already Inexpensive Wireless Mic Set]]></title>
-        <id>https://www.wired.com/story/dji-mic-mini-deal-426/</id>
-        <link href="https://www.wired.com/story/dji-mic-mini-deal-426/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivid Seats Promo Codes and Deals: Save 10% This April]]></title>
-        <id>https://www.wired.com/story/vivid-seats-promo-code/</id>
-        <link href="https://www.wired.com/story/vivid-seats-promo-code/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sealy Promo Code: Save $200 on Mattresses This Month]]></title>
-        <id>https://www.wired.com/story/sealy-promo-code/</id>
-        <link href="https://www.wired.com/story/sealy-promo-code/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Nomad Goods Promo Codes: Get 25% Off in April 2026]]></title>
-        <id>https://www.wired.com/story/nomad-discount-code/</id>
-        <link href="https://www.wired.com/story/nomad-discount-code/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hungryroot Coupon Codes: 30% Off This April]]></title>
-        <id>https://www.wired.com/story/hungryroot-promo-code/</id>
-        <link href="https://www.wired.com/story/hungryroot-promo-code/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asus ROG Cetra Open Wireless Earbuds Review: Open Gaming Buds?]]></title>
-        <id>https://www.wired.com/review/asus-rog-cetra/</id>
-        <link href="https://www.wired.com/review/asus-rog-cetra/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irrigreen Smart Irrigation System 3.0 (2026) Review: Smart Watering, Less Hassle]]></title>
-        <id>https://www.wired.com/review/irrigreen-smart-irrigation-system-3-2026/</id>
-        <link href="https://www.wired.com/review/irrigreen-smart-irrigation-system-3-2026/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Podcasters Really Want to Tell You How to Keep a Man Happy]]></title>
-        <id>https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/</id>
-        <link href="https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Indie News Queen Who’s Not Done Pissing Off the Powerful]]></title>
-        <id>https://www.wired.com/story/the-indie-news-queen-whos-not-done-pissing-off-the-powerful/</id>
-        <link href="https://www.wired.com/story/the-indie-news-queen-whos-not-done-pissing-off-the-powerful/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aventon Current ADV Electric Mountain Bike Review: Feels Just Like the Real Thing]]></title>
-        <id>https://www.wired.com/review/aventon-current-adv-electric-mountain-bike/</id>
-        <link href="https://www.wired.com/review/aventon-current-adv-electric-mountain-bike/"/>
-        <updated>2026-04-09T16:00:00.000Z</updated>
-        <published>2026-04-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[
+JavaScript Performance Benchmarking Tool
+]]></title>
+        <id>
+https://benchmarkstudio.net
+</id>
+        <link href="
+https://benchmarkstudio.net
+"/>
+        <updated>2026-04-10T16:00:00.000Z</updated>
+        <published>2026-04-10T16:00:00.000Z</published>
     </entry>
 </feed>

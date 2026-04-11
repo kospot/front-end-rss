@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-11 15:45:02。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-11 18:03:20。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -39,7 +39,11 @@
 
 
 - [【前端之巅】ReactPerplexity-Politika-Koruma-Kuralları---Claude-Code-Skill-Rehberi](https://dev.to/forumweb/reactperplexity-politika-koruma-kurallari-claude-code-skill-rehberi-4jfl)
+- [【前端之巅】Stop-Using-useState-for-Forms:-The-React-Hook-Form-+-Zod-Architecture](https://dev.to/iprajapatiparesh/stop-using-usestate-for-forms-the-react-hook-form-zod-architecture-15p1)
 - [【GitHub Trending JS】facebook/react](https://github.com/facebook/react)
+- [【GitHub Trending JS】-We-Benchmarked-Top-React-Gantt-Chart-Libraries-So-You-Don't-Have-To-](
+https://svar.dev/blog/react-gantt-benchmark/
+)
 - [【arXiv ML】Physics-informed-neural-operators-for-the-in-situ-characterization-of-locally-reacting-sound-absorbers](https://arxiv.org/abs/2604.07412)
 - [【arXiv ML】Graph-Neural-ODE-Digital-Twins-for-Control-Oriented-Reactor-Thermal-Hydraulic-Forecasting-Under-Partial-Observability](https://arxiv.org/abs/2604.07292)
 - [【arXiv ML】Learning-continuous-state-of-charge-dependent-thermal-decomposition-kinetics-for-Li-ion-cathodes-using-Kolmogorov-Arnold-Chemical-Reaction-Neural-Networks-KA-CRNNs](https://arxiv.org/abs/2512.15628)
@@ -55,9 +59,7 @@
 - [【Towards AI】Building-a-Financial-Research-Agent-with-ReAct,-LangGraph,-and-LangChain](https://pub.towardsai.net/building-a-financial-research-agent-with-react-langgraph-and-langchain-c5d5142d8b29?source=rss----98111c9905da---4)
 - [【Towards AI】A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4)
 - [【Hacker News】Show-HN:-Polter-–-Agent-Driven-UI-react-library](https://mydatavalue.github.io/polter/)
-- [【Hacker News】HookVerify-–-Webhook-reliability-layer-for-the-receiving-side](https://hookverify.com/)
 - [【Hacker News】So-My-Friend-Made-Me-a-Bioreactor](https://chillphysicsenjoyer.substack.com/p/so-my-friend-made-me-a-bioreactor)
-- [【Hacker News】500-MWe-Nuclear-Fast-Breeder-Reactor-built-by-India-attains-first-criticality](https://www.pib.gov.in/FactsheetDetails.aspx?Id=150617)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -100,6 +102,9 @@
 
 - [【Node Weekly】How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617)
 - [【JavaScript Weekly】TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778)
+- [【GitHub Trending JS】-Zephyr-Events-–-A-2KB-TypeScript-event-emitter-that's-race-condition-safe-](
+https://www.npmjs.com/package/zephyr-events
+)
 - [【Hacker News】Building-a-Rust-Runtime-for-TypeScript](https://encore.dev/blog/rust-runtime)
 - [【Hacker News】Typed-fetch-–-Go-style-error-handling-for-fetch-in-TypeScript](https://github.com/pbpeterson/typed-fetch)
 - [【Hacker News】Pretext:-JavaScript/TypeScript-library-for-multiline-text-measurement-and-layout](https://github.com/chenglou/pretext)
@@ -122,23 +127,28 @@
 
 - [【JavaScript Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 - [【JavaScript Weekly】It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
-- [【GitHub Trending JS】webpack/webpack](https://github.com/webpack/webpack)
+- [【前端之巅】I-Built-an-ESLint-Plugin-+-Zero-Config-CLI-That-Catches-AI-Generated-Code-Slop-1,137-Downloads-in-Days](https://dev.to/yashjadhav21/i-built-an-eslint-plugin-zero-config-cli-that-catches-ai-generated-code-slop-1137-downloads-in-4dkm)
 - [【GitHub Trending JS】eslint/eslint](https://github.com/eslint/eslint)
+- [【GitHub Trending JS】webpack/webpack](https://github.com/webpack/webpack)
+- [【GitHub Trending JS】-I-Built-an-npm-Package-and-Tracked-Every-Download-for-Two-Weeks.-Here's-the-Data.-](
+https://dev.to/ckmtools/i-built-an-npm-package-and-tracked-every-download-for-two-weeks-heres-the-data-3jck
+)
+- [【GitHub Trending JS】-I-Wrapped-My-Free-npm-Package-as-a-Paid-REST-API-—-Here's-the-Architecture-](
+https://dev.to/ckmtools/i-wrapped-my-free-npm-package-as-a-paid-rest-api-heres-the-architecture-24p9
+)
 - [【Towards AI】Anthropic-Code-Leak:-512,000-Lines-Exposed-by-One-npm-Mistake](https://pub.towardsai.net/anthropic-code-leak-512-000-lines-exposed-by-one-npm-mistake-df261de3ff1c?source=rss----98111c9905da---4)
-- [【Hacker News】58%-of-PRs-in-our-largest-monorepo-merge-without-human-review](https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review)
 - [【Hacker News】Show-HN:-CacheZero-–-Karpathy's-LLM-wiki-idea-as-one-NPM-install](https://news.ycombinator.com/item?id=47667723)
-- [【Hacker News】1-Click-authentication-with-new-NPM-package](https://www.npmjs.com/package/react-google-one-tap-extention)
+- [【Hacker News】58%-of-PRs-in-our-largest-monorepo-merge-without-human-review](https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review)
 - [【Hacker News】I-Am-a-Cross-Cutting-Concern:-On-Having-a-Personal-Monorepo](https://scottlawsonbc.com/post/monorepo)
-- [【Hacker News】Top-NPM-package-backdoored-to-drop-dirty-RAT-on-dev-machines](https://www.theregister.com/2026/03/31/axios_npm_backdoor_rat/)
-- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
-- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
+- [【Hacker News】1-Click-authentication-with-new-NPM-package](https://www.npmjs.com/package/react-google-one-tap-extention)
 - [【Hacker News】North-Korea-Nexus-Threat-Actor-Compromises-Widely-Used-Axios-NPM-Package](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/)
-- [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
-- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
-- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Anthropic-just-fired-dev-who-published-dev/Claude-code-NPM-package](https://twitter.com/KevinNaughtonJr/status/2039087166626656618)
+- [【Hacker News】If-Your-AI-Agent-Ran-NPM-Install-During-the-Axios-Attack,-You're-Compromised](https://grith.ai/blog/axios-supply-chain-attack-ai-agents-npm-install)
+- [【Hacker News】Top-NPM-package-backdoored-to-drop-dirty-RAT-on-dev-machines](https://www.theregister.com/2026/03/31/axios_npm_backdoor_rat/)
 - [【Hacker News】Axios-NPM-Package-Compromised:-Supply-Chain-Attack-Delivers-Cross-Platform-Rat](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/)
-- [【Hacker News】Show-HN:-Safe-install-–-Docker-first-install-time-hardening-for-pip-and-NPM](https://github.com/Khaeldur/safe-install)
-- [【Wired】Vitesy-Shelfy-2-Smart-Fridge-Purifier-Review:-Small-Box,-Big-Promises](https://www.wired.com/review/vitesy-shelfy-2/)
+- [【Hacker News】Claude-Code-full-source-code-leaked-on-NPM](https://github.com/chatgptprojects/claude-code)
+- [【Hacker News】Supply-Chain-Attack-on-Axios-Pulls-Malicious-Dependency-from-NPM](https://socket.dev/blog/axios-npm-package-compromised)
+- [【Hacker News】Critical:-Active-supply-chain-attack-on-axios-–-one-of-NPM's-most-used-packages](https://twitter.com/i/status/2038807290422370479)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -159,9 +169,16 @@
 - [【Node Weekly】Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618)
 - [【Node Weekly】Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)
 - [【Frontend Masters Blog】When-Deno-or-Bun-is-a-Better-Solution-than-Node.js](https://frontendmasters.com/blog/when-deno-or-bun-is-a-better-solution-than-node-js/)
-- [【前端之巅】Node.jsJavaScript-Memory-Leak-Bellek-Sızıntısı-Tespiti-ve-Önleme](https://dev.to/forumweb/nodejsjavascript-memory-leak-bellek-sizintisi-tespiti-ve-onleme-5235)
 - [【前端之巅】Node.jsCallback-Pattern-Geri-Çağırma-Fonksiyonları-Kullanım-Rehberi](https://dev.to/forumweb/nodejscallback-pattern-geri-cagirma-fonksiyonlari-kullanim-rehberi-h03)
+- [【前端之巅】Node.jsJavaScript-Memory-Leak-Bellek-Sızıntısı-Tespiti-ve-Önleme](https://dev.to/forumweb/nodejsjavascript-memory-leak-bellek-sizintisi-tespiti-ve-onleme-5235)
+- [【前端之巅】When-Your-Node.js-App-Works-Locally-but-Fails-on-a-VPS](https://dev.to/nixx/when-your-nodejs-app-works-locally-but-fails-on-a-vps-3nd6)
 - [【GitHub Trending JS】nodejs/node](https://github.com/nodejs/node)
+- [【GitHub Trending JS】-Why-Node.js-Needs-A-Virtual-File-System-](
+https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system
+)
+- [【GitHub Trending JS】-I-Scanned-6-Popular-Node.js-Repos-for-Undocumented-Environment-Variables.-Here's-What-I-Found.-](
+https://dev.to/ckmtools/i-scanned-6-popular-nodejs-repos-for-undocumented-environment-variables-heres-what-i-found-5478
+)
 - [【arXiv ML】The-Impact-of-Dimensionality-on-the-Stability-of-Node-Embeddings](https://arxiv.org/abs/2604.08492)
 - [【arXiv ML】Quality-preserving-Model-for-Electronics-Production-Quality-Tests-Reduction](https://arxiv.org/abs/2604.06451)
 - [【arXiv ML】GraphWalker:-Graph-Guided-In-Context-Learning-for-Clinical-Reasoning-on-Electronic-Health-Records](https://arxiv.org/abs/2604.06684)
@@ -172,9 +189,6 @@
 - [【arXiv ML】Expressibility-of-neural-quantum-states:-a-Walsh-complexity-perspective](https://arxiv.org/abs/2604.03294)
 - [【arXiv ML】Explainable-Machine-Learning-for-Sepsis-Outcome-Prediction-Using-a-Novel-Romanian-Electronic-Health-Record-Dataset](https://arxiv.org/abs/2604.04698)
 - [【arXiv ML】k-Maximum-Inner-Product-Attention-for-Graph-Transformers-and-the-Expressive-Power-of-GraphGPS-The-Expressive-Power-of-GraphGPS](https://arxiv.org/abs/2604.03815)
-- [【arXiv ML】Not-All-Denoising-Steps-Are-Equal:-Model-Scheduling-for-Faster-Masked-Diffusion-Language-Models](https://arxiv.org/abs/2604.02340)
-- [【arXiv ML】LieTrunc-QNN:-Lie-Algebra-Truncation-and-Quantum-Expressivity-Phase-Transition-from-LiePrune-to-Provably-Stable-Quantum-Neural-Networks](https://arxiv.org/abs/2604.02697)
-- [【arXiv ML】A-Unified-Approach-to-Analysis-and-Design-of-Denoising-Markov-Models](https://arxiv.org/abs/2504.01938)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -254,16 +268,20 @@
 - [【Smashing Magazine】Moving-From-Moment.js-To-The-JS-Temporal-API](https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/)
 - [【Frontend Masters Blog】What-To-Know-in-JavaScript-2026-Edition](https://frontendmasters.com/blog/what-to-know-in-javascript-2026-edition/)
 - [【Frontend Masters Blog】Shadow-DOM-Focus-Delegation:-Getting-delegatesFocus-Right](https://frontendmasters.com/blog/shadow-dom-focus-delegation-getting-delegatesfocus-right/)
-- [【前端之巅】I-rewrote-my-encrypted-form-tool-because-I-was-tired-of-Cloudflare-owning-my-setup](https://dev.to/grayguava/i-rewrote-my-encrypted-form-tool-because-i-was-tired-of-cloudflare-owning-my-setup-9j)
-- [【前端之巅】I-was-tired-of-json-server-—-so-I-built-a-free-mock-API-tool-no-signup-needed](https://dev.to/mockbolt02/i-was-tired-of-json-server-so-i-built-a-free-mock-api-tool-no-signup-needed-fkn)
-- [【前端之巅】Writing-a-Regex-Parser-and-Tree-Visualizer-in-~400-Lines-of-Vanilla-JS](https://dev.to/sendotltd/writing-a-regex-parser-and-tree-visualizer-in-400-lines-of-vanilla-js-3dp7)
 - [【前端之巅】JSON-Security-101:-Handling-Sensitive-Data-Locally](https://dev.to/napster_rj/json-security-101-handling-sensitive-data-locally-bl4)
-- [【GitHub Trending JS】vercel/next.js](https://github.com/vercel/next.js)
+- [【前端之巅】Writing-a-Regex-Parser-and-Tree-Visualizer-in-~400-Lines-of-Vanilla-JS](https://dev.to/sendotltd/writing-a-regex-parser-and-tree-visualizer-in-400-lines-of-vanilla-js-3dp7)
+- [【前端之巅】I-was-tired-of-json-server-—-so-I-built-a-free-mock-API-tool-no-signup-needed](https://dev.to/mockbolt02/i-was-tired-of-json-server-so-i-built-a-free-mock-api-tool-no-signup-needed-fkn)
+- [【前端之巅】I-rewrote-my-encrypted-form-tool-because-I-was-tired-of-Cloudflare-owning-my-setup](https://dev.to/grayguava/i-rewrote-my-encrypted-form-tool-because-i-was-tired-of-cloudflare-owning-my-setup-9j)
+- [【前端之巅】Building-a-Browser-Based-Keyboard-Tester-with-Vanilla-JavaScript](https://dev.to/dngzihng114379/building-a-browser-based-keyboard-tester-with-vanilla-javascript-96g)
+- [【前端之巅】🤖-From-Browser-to-Robot:-How-JavaScript-Powers-IoT-and-Robotics](https://dev.to/okoye_ndidiamaka_5e3b7d30/from-browser-to-robot-how-javascript-powers-iot-and-robotics-5cln)
 - [【GitHub Trending JS】sveltejs/svelte](https://github.com/sveltejs/svelte)
-- [【美团技术团队】重塑站外体验：大众点评-M-站基于-Qwik.js-的重构实践](https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html)
-- [【GitHub Engineering】What’s-coming-to-our-GitHub-Actions-2026-security-roadmap](https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/)
-- [【arXiv ML】ZipMap:-Linear-Time-Stateful-3D-Reconstruction-via-Test-Time-Training](https://arxiv.org/abs/2603.04385)
-- [【arXiv ML】Evaluating-Singular-Value-Thresholds-for-DNN-Weight-Matrices-based-on-Random-Matrix-Theory](https://arxiv.org/abs/2512.12911)
+- [【GitHub Trending JS】vercel/next.js](https://github.com/vercel/next.js)
+- [【GitHub Trending JS】-My-8-Year-Old-Open-Source-Project-Neutralino.js-was-a-Victim-of-a-Major-Cyber-Attack-](
+https://medium.com/gitconnected/my-8-year-old-open-source-project-was-a-victim-of-a-major-cyber-attack-24af7eb3a82b?sk=e58c8c8d6028a7bc2bba14266f2c5d08
+)
+- [【GitHub Trending JS】-JavaScript-Performance-Benchmarking-Tool-](
+https://benchmarkstudio.net
+)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -287,6 +305,7 @@
 - [【Frontend Masters Blog】How-I-Lost-MadCSS](https://frontendmasters.com/blog/how-i-lost-madcss/)
 - [【Frontend Masters Blog】Two-Circles,-One-Arrow,-and-Anchor-Positioning](https://frontendmasters.com/blog/two-circles-one-arrow-and-anchor-positioning/)
 - [【Frontend Masters Blog】Flexbox-Masonry-Layout-Explained-with-Math](https://frontendmasters.com/blog/flexbox-masonry-layout-explained-with-math/)
+- [【前端之巅】Remote-Terminal:-iPhone-to-Mac-via-Tailscale](https://dev.to/didof/remote-terminal-iphone-to-mac-via-tailscale-3l6f)
 - [【张鑫旭】CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/)
 - [【张鑫旭】CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/)
 - [【GitHub Engineering】Continuous-AI-for-accessibility:-How-GitHub-transforms-feedback-into-inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)
@@ -299,7 +318,6 @@
 - [【arXiv ML】A-Decomposition-Perspective-to-Long-context-Reasoning-for-LLMs](https://arxiv.org/abs/2604.07981)
 - [【arXiv ML】Loop,-Think,-&amp;-Generalize:-Implicit-Reasoning-in-Recurrent-Depth-Transformers](https://arxiv.org/abs/2604.07822)
 - [【arXiv ML】Sensitivity-Positional-Co-Localization-in-GQA-Transformers](https://arxiv.org/abs/2604.07766)
-- [【arXiv ML】Geometric-Entropy-and-Retrieval-Phase-Transitions-in-Continuous-Thermal-Dense-Associative-Memory](https://arxiv.org/abs/2604.07401)
 - [......【查看更多】......](/details/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -316,6 +334,9 @@
 
 
 
+- [【GitHub Trending JS】-HTML-and-web-page-minification-benchmarks-](
+https://github.com/j9t/minifier-benchmarks
+)
 - [【arXiv ML】Over-The-Air-Extreme-Learning-Machines-with-XL-Reception-via-Nonlinear-Cascaded-Metasurfaces](https://arxiv.org/abs/2601.17749)
 - [【arXiv ML】Tractable-Uncertainty-Aware-Meta-Learning](https://arxiv.org/abs/2210.01881)
 - [【arXiv ML】Meta-learning-In-Context-Enables-Training-Free-Cross-Subject-Brain-Decoding](https://arxiv.org/abs/2604.08537)
@@ -335,7 +356,6 @@
 - [【arXiv ML】Meta-Learned-Adaptive-Optimization-for-Robust-Human-Mesh-Recovery-with-Uncertainty-Aware-Parameter-Updates](https://arxiv.org/abs/2603.26447)
 - [【arXiv ML】MetaKube:-An-Experience-Aware-LLM-Framework-for-Kubernetes-Failure-Diagnosis](https://arxiv.org/abs/2603.23580)
 - [【arXiv ML】LLMORPH:-Automated-Metamorphic-Testing-of-Large-Language-Models](https://arxiv.org/abs/2603.23611)
-- [【arXiv ML】Generalizable-Heuristic-Generation-Through-LLMs-with-Meta-Optimization](https://arxiv.org/abs/2505.20881)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -355,6 +375,12 @@
 - [【Smashing Magazine】A-Practical-Guide-To-Design-Principles](https://smashingmagazine.com/2026/04/practical-guide-design-principles/)
 - [【Frontend Masters Blog】SVG-Filters-Guide:-Getting-Started-with-the-Basics](https://frontendmasters.com/blog/svg-filters-guide-getting-started-with-the-basics/)
 - [【前端之巅】Automate-Your-Links:-A-Developer's-Guide-to-the-toui.io-API](https://dev.to/thebrecht/automate-your-links-a-developers-guide-to-the-touiio-api-gam)
+- [【GitHub Trending JS】-Built-an-open-source-SVG-brand-library-with-4,700+-icons-](
+https://github.com/glincker/thesvg
+)
+- [【GitHub Trending JS】-AI-webpage-mcp:-Turn-your-existing-webpages-into-an-MCP-server-for-agent-control-](
+https://github.com/mcpland/webpage-mcp
+)
 - [【arXiv ML】C$^2$FG:-Control-Classifier-Free-Guidance-via-Score-Discrepancy-Analysis](https://arxiv.org/abs/2603.08155)
 - [【arXiv ML】What-a-Comfortable-World:-Ergonomic-Principles-Guided-Apartment-Layout-Generation](https://arxiv.org/abs/2604.08411)
 - [【arXiv ML】Generative-3D-Gaussian-Splatting-for-Arbitrary-ResolutionAtmospheric-Downscaling-and-Forecasting](https://arxiv.org/abs/2604.07928)
@@ -370,8 +396,6 @@
 - [【arXiv ML】ADOPT:-Adaptive-Dependency-Guided-Joint-Prompt-Optimization-for-Multi-Step-LLM-Pipelines](https://arxiv.org/abs/2512.24933)
 - [【arXiv ML】CodecFlow:-Codec-Guided-End-to-End-Optimization-for-Streaming-Video-Analytics](https://arxiv.org/abs/2604.06036)
 - [【arXiv ML】Efficient-and-Private-Property-Testing-via-Indistinguishability](https://arxiv.org/abs/2511.03653)
-- [【arXiv ML】NAIMA:-Semantics-Aware-RGB-Guided-Depth-Super-Resolution](https://arxiv.org/abs/2604.04407)
-- [【arXiv ML】TORA:-Topological-Representation-Alignment-for-3D-Shape-Assembly](https://arxiv.org/abs/2604.04050)
 - [......【查看更多】......](/details/tags/canvas-image.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -449,8 +473,8 @@
 - [【Frontend Masters Blog】Let’s-Get-Puzzled!](https://frontendmasters.com/blog/creating-puzzle-peices-in-css/)
 - [【Frontend Masters Blog】The-Top-Trait-Companies-Look-For-in-a-Technical-Interview](https://frontendmasters.com/blog/the-top-trait-companies-look-for-in-a-technical-interview/)
 - [【Frontend Masters Blog】Text-scaling-support-in-Chrome-Canary](https://frontendmasters.com/blog/text-scaling-support-in-chrome-canary/)
-- [【GitHub Trending JS】gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
 - [【GitHub Trending JS】Anil-matcha/Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI)
+- [【GitHub Trending JS】gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
 - [【GitHub Engineering】GitHub-Copilot-CLI-for-Beginners:-Getting-started-with-GitHub-Copilot-CLI](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/)
 - [【GitHub Engineering】GitHub-Copilot-CLI-combines-model-families-for-a-second-opinion](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/)
 - [【GitHub Engineering】Agent-driven-development-in-Copilot-Applied-Science](https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/)
@@ -483,6 +507,9 @@
 
 - [【Mark Erikson Blog】Presentations:-How-I-Made-Immer-Twice-as-Fast:-Performance-Optimization-in-Practice](https://blog.isquaredsoftware.com/2026/03/presentations-immer-perf/)
 - [【前端之巅】Mastering-Your-Frontend-Build-with-Bazel:-Testing](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-testing-mlg)
+- [【GitHub Trending JS】-Bun-is-Fast.-Your-Event-Loop-is-Not.-](
+https://howtocenterdiv.com/beyond-the-div/bun-is-fast-your-event-loop-is-not
+)
 - [【O'Reilly Radar】Is-fake-grass-a-bad-idea?-The-AstroTurf-wars-are-far-from-over.](https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/)
 - [【O'Reilly Radar】The-Download:-AstroTurf-wars-and-exponential-AI-growth](https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/)
 - [【O'Reilly Radar】Desalination-plants-in-the-Middle-East-are-increasingly-vulnerable](https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/)
@@ -500,7 +527,6 @@
 - [【arXiv ML】Foundry:-Template-Based-CUDA-Graph-Context-Materialization-for-Fast-LLM-Serving-Cold-Start](https://arxiv.org/abs/2604.06664)
 - [【arXiv ML】A-solver-in-the-loop-framework-for-end-to-end-differentiable-coastal-hydrodynamics](https://arxiv.org/abs/2604.07129)
 - [【arXiv ML】Making-Room-for-AI:-Multi-GPU-Molecular-Dynamics-with-Deep-Potentials-in-GROMACS](https://arxiv.org/abs/2604.07276)
-- [【arXiv ML】Measurement-of-Generative-AI-Workload-Power-Profiles-for-Whole-Facility-Data-Center-Infrastructure-Planning](https://arxiv.org/abs/2604.07345)
 - [......【查看更多】......](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -555,6 +581,12 @@
 
 - [【Smashing Magazine】Anime-vs.-Marvel/DC:-Designing-Digital-Products-With-Emotion-In-Flow](https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/)
 - [【前端大全】HelloGitHub-第-120-期](https://hellogithub.com/periodical/volume/120)
+- [【GitHub Trending JS】-alonronin/orbit:-A-better-search-engine-for-your-github-starred-collection.-](
+https://github.com/alonronin/orbit
+)
+- [【GitHub Trending JS】-Cool-Github-Copilot-Metrics-Dashboard-](
+https://github.com/zahhar/ghcp-dashboard
+)
 - [【GitHub Engineering】GitHub-availability-report:-March-2026](https://github.blog/news-insights/company-news/github-availability-report-march-2026/)
 - [【GitHub Engineering】GitHub-Universe-is-back:-We-want-you-to-take-the-stage](https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/)
 - [【GitHub Engineering】Securing-the-open-source-supply-chain-across-GitHub](https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/)
@@ -571,8 +603,6 @@
 - [【arXiv ML】Masked-Training-for-Robust-Arrhythmia-Detection-from-Digitalized-Multiple-Layout-ECG-Images](https://arxiv.org/abs/2508.09165)
 - [【arXiv ML】The-Economics-of-Builder-Saturation-in-Digital-Markets](https://arxiv.org/abs/2603.23685)
 - [【arXiv ML】Digital-Twin-Assisted-Measurement-Design-and-Channel-Statistics-Prediction](https://arxiv.org/abs/2603.23787)
-- [【arXiv ML】Continuous-Time-Learning-of-Probability-Distributions:-A-Case-Study-in-a-Digital-Trial-of-Young-Children-with-Type-1-Diabetes](https://arxiv.org/abs/2603.24427)
-- [【arXiv ML】SDE-Driven-Spatio-Temporal-Hypergraph-Neural-Networks-for-Irregular-Longitudinal-fMRI-Connectome-Modeling-in-Alzheimer's-Disease](https://arxiv.org/abs/2603.20452)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -611,6 +641,7 @@
 
 
 
+- [【MDN Blog】Under-the-hood-of-MDN's-new-frontend](https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/)
 - [【CSS-Tricks】Front-End-Fools:-Top-10-April-Fools’-UI-Pranks-of-All-Time](https://css-tricks.com/front-end-april-fools-top-10/)
 - [【CSS-Tricks】Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)
 - [【CSS-Tricks】4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)
@@ -626,11 +657,10 @@
 - [【Frontend Masters Blog】The-Drill-Down-Menu-with-Details-and-@scope](https://frontendmasters.com/blog/the-drill-down-menu-with-details-and-scope/)
 - [【Frontend Masters Blog】Image-Gallery-with-Popovers-and-AIM-Anchor-Interpolated-Morph](https://frontendmasters.com/blog/image-gallery-with-popovers-and-aim-anchor-interpolated-morph/)
 - [【Frontend Masters Blog】BaseWatch](https://frontendmasters.com/blog/basewatch/)
-- [【前端之巅】The-5-APIs-That-Run-200+-Times-Per-User-And-Why-That-Matters](https://dev.to/the_aientrepreneur_7ae85/the-5-apis-that-run-200-times-per-user-and-why-that-matters-5hi9)
-- [【前端之巅】UUID-v7,-ULID,-KSUID-—-What's-the-Difference?-I-Implemented-All-Five](https://dev.to/sendotltd/uuid-v7-ulid-ksuid-whats-the-difference-i-implemented-all-five-46k1)
 - [【前端之巅】Jestronaut:-Explore-Your-Jest-Tests-Like-Never-Before](https://dev.to/realdeepnandi/jestronaut-explore-your-jest-tests-like-never-before-4kc2)
-- [【张鑫旭】浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)
-- [【阮一峰】科技爱好者周刊（第-392-期）：axios-投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)
+- [【前端之巅】UUID-v7,-ULID,-KSUID-—-What's-the-Difference?-I-Implemented-All-Five](https://dev.to/sendotltd/uuid-v7-ulid-ksuid-whats-the-difference-i-implemented-all-five-46k1)
+- [【前端之巅】The-5-APIs-That-Run-200+-Times-Per-User-And-Why-That-Matters](https://dev.to/the_aientrepreneur_7ae85/the-5-apis-that-run-200-times-per-user-and-why-that-matters-5hi9)
+- [【前端之巅】Best-Ethical-Hacking-Tools-Used-by-Cybersecurity-Professionals](https://dev.to/cybersecurity-12/best-ethical-hacking-tools-used-by-cybersecurity-professionals-2p5p)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
