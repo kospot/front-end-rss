@@ -10,11 +10,10 @@
     "category": "前端"
   },
   {
-    "title": "web.dev",
+    "title": "MDN Blog",
     "rss": [
-      "https://web.dev/blog/feed.xml",
-      "https://developer.chrome.com/static/blog/feed.xml",
-      "https://web.dev/static/blog/feed.xml"
+      "https://developer.mozilla.org/en-US/blog/rss.xml",
+      "https://developer.mozilla.org/en-US/blog/atom.xml"
     ],
     "category": "前端"
   },
@@ -64,11 +63,6 @@
     "category": "前端"
   },
   {
-    "title": "前端早读课",
-    "rss": "https://www.oschina.net/blog/rss",
-    "category": "前端"
-  },
-  {
     "title": "前端大全",
     "rss": "https://hellogithub.com/rss",
     "category": "前端"
@@ -104,21 +98,6 @@
     "category": "前端"
   },
   {
-    "title": "oldj",
-    "rss": "https://blog.oldj.net/feed/",
-    "category": "前端"
-  },
-  {
-    "title": "掘金前端",
-    "rss": [
-      "https://juejin.cn/rss",
-      "https://rsshub.rssforever.com/juejin/trending/frontend/weekly",
-      "https://rsshub.app/juejin/trending/frontend/weekly",
-      "https://rsshub.app/juejin/category/frontend"
-    ],
-    "category": "前端"
-  },
-  {
     "title": "GitHub Trending JS",
     "rss": [
       "https://rsshub.rssforever.com/github/trending/daily/javascript",
@@ -134,7 +113,7 @@
   },
   {
     "title": "InfoQ",
-    "rss": "https://www.infoq.cn/rss/",
+    "rss": "https://www.infoq.com/feed",
     "category": "后端"
   },
   {
@@ -163,7 +142,6 @@
   {
     "title": "HuggingFace Blog",
     "rss": [
-      "https://huggingface.co/blog/feed.xml",
       "https://simonwillison.net/atom/everything/",
       "https://blog.google/technology/ai/rss/"
     ],
@@ -185,63 +163,15 @@
     "category": "AI"
   },
   {
-    "title": "机器之心",
-    "rss": [
-      "https://rsshub.rssforever.com/wechat/ce/5b0cc833f3a2e44bb474843d",
-      "https://rsshub.app/wechat/ce/5b0cc833f3a2e44bb474843d"
-    ],
-    "category": "AI"
-  },
-  {
-    "title": "量子位",
-    "rss": [
-      "https://rsshub.rssforever.com/wechat/ce/599d7c52f2145121d1aa4698",
-      "https://rsshub.app/wechat/ce/599d7c52f2145121d1aa4698"
-    ],
-    "category": "AI"
-  },
-  {
-    "title": "新智元",
-    "rss": [
-      "https://rsshub.rssforever.com/wechat/ce/567acc0e293075543d000001",
-      "https://rsshub.app/wechat/ce/567acc0e293075543d000001"
-    ],
-    "category": "AI"
-  },
-  {
-    "title": "腾讯AI实验室",
-    "rss": [
-      "https://rsshub.rssforever.com/wechat/ce/5b508e0a6f6d445da2107d4c",
-      "https://rsshub.app/wechat/ce/5b508e0a6f6d445da2107d4c"
-    ],
-    "category": "AI"
-  },
-  {
-    "title": "PaperWeekly",
-    "rss": [
-      "https://rsshub.rssforever.com/wechat/ce/5921378656a6c216d7b62715",
-      "https://rsshub.app/wechat/ce/5921378656a6c216d7b62715"
-    ],
-    "category": "AI"
-  },
-  {
     "title": "我爱自然语言处理",
     "rss": "https://www.52nlp.cn/feed",
     "category": "AI"
   },
   {
-    "title": "AI前线",
+    "title": "OpenAI Blog",
     "rss": [
-      "https://rsshub.rssforever.com/wechat/ce/5c50acf6613eed5730913336",
-      "https://rsshub.app/wechat/ce/5c50acf6613eed5730913336"
-    ],
-    "category": "AI"
-  },
-  {
-    "title": "ChatGPT 更新",
-    "rss": [
-      "https://rsshub.rssforever.com/openai/chatgpt/release-notes",
-      "https://rsshub.app/openai/chatgpt/release-notes"
+      "https://openai.com/news/rss.xml",
+      "https://openai.com/blog/rss.xml"
     ],
     "category": "AI"
   },
