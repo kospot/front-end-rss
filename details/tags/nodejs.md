@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-12 12:02:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-12 15:02:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -11,11 +11,11 @@
 - [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618) 
 - [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616) 
 - [2026-03-16-When-Deno-or-Bun-is-a-Better-Solution-than-Node.js](https://frontendmasters.com/blog/when-deno-or-bun-is-a-better-solution-than-node-js/) 
-- [2026-04-12-How-I-Built-a-Real-Time-Trading-Automation-Engine-with-Node.js](https://dev.to/cvchelles/how-i-built-a-real-time-trading-automation-engine-with-nodejs-46h7) 
 - [2026-04-12-How-I-Built-a-Full-Stack-Car-Rental-Platform-in-Moldova-with-Node.js,-Supabase-&amp;-Vercel](https://dev.to/bostan/how-i-built-a-full-stack-car-rental-platform-in-moldova-with-nodejs-supabase-vercel-2c9m) 
-- [2026-04-11-Node.jsCallback-Pattern-Geri-Çağırma-Fonksiyonları-Kullanım-Rehberi](https://dev.to/forumweb/nodejscallback-pattern-geri-cagirma-fonksiyonlari-kullanim-rehberi-h03) 
-- [2026-04-11-Node.jsJavaScript-Memory-Leak-Bellek-Sızıntısı-Tespiti-ve-Önleme](https://dev.to/forumweb/nodejsjavascript-memory-leak-bellek-sizintisi-tespiti-ve-onleme-5235) 
+- [2026-04-12-How-I-Built-a-Real-Time-Trading-Automation-Engine-with-Node.js](https://dev.to/cvchelles/how-i-built-a-real-time-trading-automation-engine-with-nodejs-46h7) 
 - [2026-04-11-When-Your-Node.js-App-Works-Locally-but-Fails-on-a-VPS](https://dev.to/nixx/when-your-nodejs-app-works-locally-but-fails-on-a-vps-3nd6) 
+- [2026-04-11-Node.jsJavaScript-Memory-Leak-Bellek-Sızıntısı-Tespiti-ve-Önleme](https://dev.to/forumweb/nodejsjavascript-memory-leak-bellek-sizintisi-tespiti-ve-onleme-5235) 
+- [2026-04-11-Node.jsCallback-Pattern-Geri-Çağırma-Fonksiyonları-Kullanım-Rehberi](https://dev.to/forumweb/nodejscallback-pattern-geri-cagirma-fonksiyonlari-kullanim-rehberi-h03) 
 - [2026-04-11--I-Scanned-6-Popular-Node.js-Repos-for-Undocumented-Environment-Variables.-Here's-What-I-Found.-](
 https://dev.to/ckmtools/i-scanned-6-popular-nodejs-repos-for-undocumented-environment-variables-heres-what-i-found-5478
 ) 
@@ -78,6 +78,7 @@ https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system
 - [2026-03-23-KoALA:-KL-L0-Adversarial-Detector-via-Label-Agreement](https://arxiv.org/abs/2510.12752) 
 - [2026-03-23-FNODE:-Flow-Matching-for-data-driven-simulation-of-constrained-multibody-systems](https://arxiv.org/abs/2509.00183) 
 - [2026-03-23-Evaluating-Test-Time-Adaptation-For-Facial-Expression-Recognition-Under-Natural-Cross-Dataset-Distribution-Shifts](https://arxiv.org/abs/2603.19994) 
+- [2026-04-12-Why-the-Grand-Paris-Express-Is-Europes-Biggest-Infrastructure-Project-video](https://www.youtube.com/watch?v=c_iuctRkmp0) 
 - [2026-04-09-Eve:-Expressive-Vector-Engine-–-SIMD-in-C++-Goes-Brrrr](https://github.com/jfalcou/eve) 
 - [2026-04-08-Ask-HN:-My-Mac-decided-out-of-the-blue-to-delete-Node.-Why?](https://news.ycombinator.com/item?id=47682659) 
 - [2026-04-05-Show-HN:-A-LinuxCNC-gRPC-Server-with-Clients-in-Rust,-Go,-Python,-Node](https://github.com/dougcalobrisi/linuxcnc-grpc) 
