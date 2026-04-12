@@ -10,14 +10,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-12 15:02:25，:rocket: 更新条数: +2269， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-12 18:02:10，:rocket: 更新条数: +2359， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [MDN-Blog](#mdn-blog)  
-- [CSS-Tricks](#css-tricks)  
+- [MDN-Blog](#mdn-blog)![](/assets/dot.png)   
+- [CSS-Tricks](#css-tricks)![](/assets/dot.png)   
 - [Smashing-Magazine](#smashing-magazine)![](/assets/dot.png)   
 - [Frontend-Masters-Blog](#frontend-masters-blog)  
 - [Overreacted](#overreacted)![](/assets/dot.png)   
@@ -33,7 +33,7 @@
 - [阮一峰](#阮一峰)  
 - [Anthony-Fu](#anthony-fu)![](/assets/dot.png)   
 - [Randy's-Blog](#randy's-blog)![](/assets/dot.png)   
-- [GitHub-Trending-JS](#github-trending-js)  
+- [GitHub-Trending-JS](#github-trending-js)![](/assets/dot.png)   
 - [美团技术团队](#美团技术团队)![](/assets/dot.png)   
 - [InfoQ](#infoq)  
 - [GitHub-Engineering](#github-engineering)  
@@ -43,12 +43,12 @@
 - [HuggingFace-Blog](#huggingface-blog)  
 - [smol.ai](#smol.ai)![](/assets/dot.png)   
 - [Towards-AI](#towards-ai)  
-- [Sebastian-Raschka](#sebastian-raschka)  
+- [Sebastian-Raschka](#sebastian-raschka)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [OpenAI-Blog](#openai-blog)![](/assets/dot.png)   
 - [Hacker-News](#hacker-news)![](/assets/dot.png)   
 - [TechCrunch](#techcrunch)  
-- [Wired](#wired)  
+- [Wired](#wired)![](/assets/dot.png)   
 - [Engadget](#engadget)  
 - [少数派](#少数派)  
 
@@ -106,15 +106,15 @@
 - [2026-04-07-Alternatives-to-the-!important-Keyword](https://css-tricks.com/alternatives-to-the-important-keyword/)  
 - [2026-04-06-Looking-at-New-CSS-Multi-Column-Layout-Wrapping-Features](https://css-tricks.com/css-multi-column-layout-wrapping-features/)  
 - [2026-04-02-Making-Complex-CSS-Shapes-Using-shape](https://css-tricks.com/complex-css-shapes-with-shape-function/)  
-- [2026-04-01-Front-End-Fools:-Top-10-April-Fools’-UI-Pranks-of-All-Time](https://css-tricks.com/front-end-april-fools-top-10/)  
 - [2026-04-01-Sniffing-Out-the-CSS-Olfactive-API](https://css-tricks.com/css-olfactive-api/)  
+- [2026-04-01-Front-End-Fools:-Top-10-April-Fools’-UI-Pranks-of-All-Time](https://css-tricks.com/front-end-april-fools-top-10/)  
 - [2026-03-31-What’s-!important-#8:-Light/Dark-Favicons,-@mixin,-object-view-box,-and-More](https://css-tricks.com/whats-important-8/)  
 - [2026-03-30-Form-Automation-Tips-for-Happier-User-and-Clients](https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/)  
 - [2026-03-26-Generative-UI-Notes](https://css-tricks.com/generative-ui-notes/)  
 - [2026-03-23-Experimenting-With-Scroll-Driven-corner-shape-Animations](https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/)  
 - [2026-03-19-JavaScript-for-Everyone:-Destructuring](https://css-tricks.com/javascript-for-everyone-destructuring/)  
-- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [2026-03-16-4-Reasons-That-Make-Tailwind-Great-for-Building-Layouts](https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/)  
+- [2026-03-16-What’s-!important-#7:-random,-Folded-Corners,-Anchored-Container-Queries,-and-More](https://css-tricks.com/whats-important-7/)  
 - [......【查看更多】......](/details/CSS-Tricks.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -252,26 +252,26 @@
 </summary>
 
 
-- [2026-04-12-M||D||JS-=-MorDorJS](https://dev.to/pengeszikra/mdjs-mordorjs-1mon)  
-- [2026-04-12-TypeScript-6.0-Is-Here:-A-Deep-Dive-Into-the-Bridge-Before-the-Go-Rewrite](https://dev.to/vikrant_bagal_afae3e25ca7/typescript-60-is-here-a-deep-dive-into-the-bridge-before-the-go-rewrite-3104)  
-- [2026-04-12-.NET-11-Runtime-Async-V2:-50%-Faster-Async,-Cleaner-Stack-Traces](https://dev.to/vikrant_bagal_afae3e25ca7/net-11-runtime-async-v2-50-faster-async-cleaner-stack-traces-bic)  
-- [2026-04-12-I-built-a-FIRE-calculator-in-a-single-HTML-file.-Here's-the-math.](https://dev.to/misterlsj/i-built-a-fire-calculator-in-a-single-html-file-heres-the-math-dca)  
-- [2026-04-12-Frontend-Developer-Resume-Example-React/Next.js-2026](https://dev.to/sarah_m/frontend-developer-resume-example-reactnextjs-2026-4i89)  
-- [2026-04-12-Why-useEffect-Confuses-Every-C#-Developer-And-How-to-Finally-Think-About-It](https://dev.to/cstrainer_44b9bd49cccf955/why-useeffect-confuses-every-c-developer-and-how-to-finally-think-about-it-5gh)  
-- [2026-04-12-How-I-use-Claude-Code-to-write-tests-for-untested-code-—-a-complete-workflow](https://dev.to/subprime2010/how-i-use-claude-code-to-write-tests-for-untested-code-a-complete-workflow-32oh)  
-- [2026-04-12-Semantic-Taxonomy-–-Official-Path-Rules](https://dev.to/suign/semantic-taxonomy-official-path-rules-5ggk)  
-- [2026-04-12-.NET-11-Runtime-Async-V2:-50%-Faster-Async,-Cleaner-Stack-Traces](https://dev.to/vikrant_bagal_afae3e25ca7/net-11-runtime-async-v2-50-faster-async-cleaner-stack-traces-1n6g)  
-- [2026-04-12-Best-AI-Video-Generator-in-2026:-Top-Tools-Tested-&amp;-Compared](https://dev.to/bean_bean/best-ai-video-generator-in-2026-top-tools-tested-compared-p9)  
-- [2026-04-12-.NET-11-Runtime-Async-V2:-50%-Faster-Async,-Cleaner-Stack-Traces](https://dev.to/vikrant_bagal_afae3e25ca7/net-11-runtime-async-v2-50-faster-async-cleaner-stack-traces-4bga)  
-- [2026-04-12-"What-a-₹30-LPA-Dev's-Daily-Work-Actually-Looks-Like"](https://dev.to/devraj_singh7/what-a-30-lpa-devs-daily-work-actually-looks-like-27bn)  
-- [2026-04-12-I-shipped-100+-free-tools-on-a-$5-VPS-in-5-days](https://dev.to/foxyyybusiness/i-shipped-100-free-tools-on-a-5-vps-in-5-days-18pn)  
-- [2026-04-12-Biometric-Authentication-in-Turbo-Native:-The-Art-of-the-Invisible-Handshake](https://dev.to/alex_aslam/biometric-authentication-in-turbo-native-the-art-of-the-invisible-handshake-4kmi)  
-- [2026-04-12-Running-BEN2-in-the-browser:-a-free-but-imperfect-remove.bg-alternative](https://dev.to/sean_a9809089e059088b7de6/running-ben2-in-the-browser-a-free-but-imperfect-removebg-alternative-15jp)  
-- [2026-04-12-Full-Attack‑Chain-Breakdown:-How-XSS-Becomes-a-Silent-Session-Hijack-CAISD](https://dev.to/kevin_mitnick_d472d4e23f6/full-attack-chain-breakdown-how-xss-becomes-a-silent-session-hijack-caisd-1j06)  
-- [2026-04-12-#-Oops:-I-Leaked-Secrets-—-GitGuardian-warned-me-...](https://dev.to/stepheninfanto/-oops-i-leaked-secrets-gitguardian-warned-me--12fi)  
-- [2026-04-12-How-I-use-Claude-Code-to-write-tests-for-untested-legacy-code](https://dev.to/subprime2010/how-i-use-claude-code-to-write-tests-for-untested-legacy-code-32ck)  
-- [2026-04-12-What-you-can-do-with-LinkedIn-Jobs-data-that-LinkedIn's-own-UI-won't-let-you](https://dev.to/agenthustler/what-you-can-do-with-linkedin-jobs-data-that-linkedins-own-ui-wont-let-you-m1f)  
-- [2026-04-12-Proyecto-escolar:-Tendencias-web-y-herramientas-para-administrar-equipos-y-negocios](https://dev.to/lisbeth_marielreyes_9265/proyecto-escolar-tendencias-web-y-herramientas-para-administrar-equipos-y-negocios-390g)  
+- [2026-04-12-.me-URI-Scheme-v1---Eng](https://dev.to/suign/me-uri-scheme-v1-eng-4djp)  
+- [2026-04-12-My-Review-of-PASSWORD:-How-It-Helps-Me-Share-Sensitive-Stuff-Safely-With-Links-That-Disappear!](https://dev.to/al_beruni_6f2dfaf29b51d96/my-review-of-password-how-it-helps-me-share-sensitive-stuff-safely-with-links-that-disappear-286f)  
+- [2026-04-12-How-to-Celebrate-Your-First-6,000m-Summit-on-Mera-Peak-Climbing](https://dev.to/aftab_sheikh_617b9af5bf85/how-to-celebrate-your-first-6000m-summit-on-mera-peak-climbing-39dp)  
+- [2026-04-12-Golden-Triangle-Tour-with-Haridwar-&amp;-Rishikesh-–-7-Days-Itinerary-&amp;-Price](https://dev.to/mysatyatravels/golden-triangle-tour-with-haridwar-rishikesh-7-days-itinerary-price-1lid)  
+- [2026-04-12-I-Built-an-AI-Job-Board-That-Deploys-in-30-Minutes-—-Here's-How](https://dev.to/buildwithai/i-built-an-ai-job-board-that-deploys-in-30-minutes-heres-how-kn6)  
+- [2026-04-12-What-Is-WPM?-How-to-Check-Your-Typing-Speed-and-Words-Per-Minute](https://dev.to/shaishav_patel_271fdcd61a/what-is-wpm-how-to-check-your-typing-speed-and-words-per-minute-27p5)  
+- [2026-04-12-Best-Free-Website-Audit-Tools-for-2026](https://dev.to/mitudas/best-free-website-audit-tools-for-2026-55l0)  
+- [2026-04-12-Building-Sync-Sphere:-A-Real-Time-Venue-Experience-Dashboard](https://dev.to/vinayak_bhardwaj_38e8241a/building-sync-sphere-a-real-time-venue-experience-dashboard-3nlb)  
+- [2026-04-12-Google-Stitch-2.0-+-Antigravity:-Inside-Google's-AI-Pipeline-That-Designs-AND-Codes-Your-App-Deep-Dive-2026](https://dev.to/bean_bean/google-stitch-20-antigravity-inside-googles-ai-pipeline-that-designs-and-codes-your-app-deep-32ao)  
+- [2026-04-12-This-Website-Actively-Hates-You-😈-|-Anti-UX-Experiment-+-418-Teapot-Chaos](https://dev.to/kushan_prasad_3c6b8f0a473/this-website-actively-hates-you-anti-ux-experiment-418-teapot-chaos-obl)  
+- [2026-04-12-My-JSON-LD-schemas-were-silently-broken-—-until-I-found-@graph](https://dev.to/alamin_c5eb10132845723c2b/my-json-ld-schemas-were-silently-broken-until-i-found-graph-5aan)  
+- [2026-04-12-Building-Hangman-in-React-—-SVG-Progressive-Drawing,-Word-Categories,-and-Physical-Keyboard-Events](https://dev.to/shaishav_patel_271fdcd61a/building-hangman-in-react-svg-progressive-drawing-word-categories-and-physical-keyboard-events-3e3n)  
+- [2026-04-12-How-I-Built-a-Real-Time-Trading-Automation-Engine-with-Node.js](https://dev.to/cvchelles/how-i-built-a-real-time-trading-automation-engine-with-nodejs-46h7)  
+- [2026-04-12-OpenTelemetry's-Stability-Sprint:-The-Week-Nobody-Noticed](https://dev.to/practiceoverflow/opentelemetrys-stability-sprint-the-week-nobody-noticed-11i1)  
+- [2026-04-12-How-I-Built-a-Full-Stack-Car-Rental-Platform-in-Moldova-with-Node.js,-Supabase-&amp;-Vercel](https://dev.to/bostan/how-i-built-a-full-stack-car-rental-platform-in-moldova-with-nodejs-supabase-vercel-2c9m)  
+- [2026-04-12-Understanding-and-Implementing-Debounce-and-Throttle-in-JS](https://dev.to/omriluz1/understanding-and-implementing-debounce-and-throttle-in-js-2o0o)  
+- [2026-04-12-Handling-Inline-Scripts-in-htmx-with-Go-Templates](https://dev.to/mojatter/how-i-solved-the-htmx-script-problem-with-go-templates-5a9e)  
+- [2026-04-12-How-I-use-Claude-Code-for-API-design-—-a-complete-workflow](https://dev.to/subprime2010/how-i-use-claude-code-for-api-design-a-complete-workflow-d3h)  
+- [2026-04-12-React-Query-vs-SWR-in-2026:-What-I-Actually-Use-and-Why](https://dev.to/whoffagents/react-query-vs-swr-in-2026-what-i-actually-use-and-why-3362)  
+- [2026-04-12-How-to-integrate-DeepSeek-R1-into-your-React-app](https://dev.to/apollo_ag/how-to-integrate-deepseek-r1-into-your-react-app-579)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,66 +346,30 @@
 </summary>
 
 
-- [2026-04-11--Soft-deletes-in-a-Zustand-store-via-enumerable:false-property-descriptors-](
-https://dev.to/finom/stop-duplicating-api-state-a-zustand-registry-that-auto-updates-every-component-10if
-)  
-- [2026-04-11--Phantom-UI-–-Skeleton-that-measures-your-real-DOM-Web-Component,-8kb-](
-https://github.com/Aejkatappaja/phantom-ui
-)  
-- [2026-04-11--A-lightweight-front-end-framework-with-native-JavaScript/TS-feel-](
-https://qingkuai.dev
-)  
-- [2026-04-11--Zephyr-Events-–-A-2KB-TypeScript-event-emitter-that's-race-condition-safe-](
-https://www.npmjs.com/package/zephyr-events
-)  
-- [2026-04-11--easy-live2d-v0.4.0:-A-Milestone-Release-for-Live2D-on-the-Web-](
-https://github.com/Panzer-Jack/easy-live2d
-)  
-- [2026-04-11--oh-my-hi:-Visual-dashboard-for-your-Claude-Code-harness-](
-https://github.com/netil/oh-my-hi
-)  
-- [2026-04-11--Auth-library-with-AI-agent-identity-and-MCP-OAuth-2.1-](
-https://github.com/kavachos/kavachos
-)  
-- [2026-04-11--Your-options-for-preloading-images-with-JavaScript-](
-https://macarthur.me/posts/preloading-images/
-)  
-- [2026-04-11--You-probably-don't-need-to-lift-state-](
-https://allthingssmitty.com/2026/03/30/you-probably-dont-need-to-lift-that-state/
-)  
-- [2026-04-11--Polpelmi---Open-source-file-upload-security-](
-https://pompelmi.github.io/pompelmi/
-)  
-- [2026-04-11--A-simple-physics-engine-in-around-100-lines-of-pure-JS-](
-https://slicker.me/javascript/physics/physics_engine.htm
-)  
-- [2026-04-11--Heat.js-v5.1.0---New-line/point-line-support!-Improved-dynamic-colors!-Fixes!-](
-https://www.heatjs.com/
-)  
-- [2026-04-11--AI-webpage-mcp:-Turn-your-existing-webpages-into-an-MCP-server-for-agent-control-](
-https://github.com/mcpland/webpage-mcp
-)  
-- [2026-04-11--Bun-is-Fast.-Your-Event-Loop-is-Not.-](
-https://howtocenterdiv.com/beyond-the-div/bun-is-fast-your-event-loop-is-not
-)  
-- [2026-04-11--AI-Kuberna-Labs-–-Open-source-SDK-for-autonomous-cross-chain-AI-agents-](
-https://github.com/kawacukennedy/kuberna-labs
-)  
-- [2026-04-11--Web-UI-to-play-the-frequencies-of-various-sets-of-tuning-forks-using-the-Web-Audio-API-](
-https://github.com/evoluteur/healing-frequencies
-)  
-- [2026-04-11--I-Scanned-6-Popular-Node.js-Repos-for-Undocumented-Environment-Variables.-Here's-What-I-Found.-](
-https://dev.to/ckmtools/i-scanned-6-popular-nodejs-repos-for-undocumented-environment-variables-heres-what-i-found-5478
-)  
-- [2026-04-11--I-Wrapped-My-Free-npm-Package-as-a-Paid-REST-API-—-Here's-the-Architecture-](
-https://dev.to/ckmtools/i-wrapped-my-free-npm-package-as-a-paid-rest-api-heres-the-architecture-24p9
-)  
-- [2026-04-11--Built-an-open-source-SVG-brand-library-with-4,700+-icons-](
-https://github.com/glincker/thesvg
-)  
-- [2026-04-11--Why-Node.js-Needs-A-Virtual-File-System-](
-https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system
-)  
+- [2026-04-12--VertexMods-—-Premium-FiveM-Scripts,-MLOs-&amp;-Vehicles-Marketplace-2,200+-Resources-](
+https://vertexmods.com
+) ![](/assets/new.png)  
+- [2026-04-12--A-minimal-Node.js-wrapper-around-ClamAV-that-scans-any-file-and-returns-a-plain-string:-Clean,-Malicious,-or-ScanError.-](
+https://pompelmi.app/index.html
+) ![](/assets/new.png)  
+- [2026-04-11-maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)  
+- [2026-04-11-prettier/prettier](https://github.com/prettier/prettier)  
+- [2026-04-11-h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)  
+- [2026-04-11-expo/skills](https://github.com/expo/skills)  
+- [2026-04-11-yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw)  
+- [2026-04-11-cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS)  
+- [2026-04-11-atlassian/atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server)  
+- [2026-04-11-Anil-matcha/Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI)  
+- [2026-04-11-decolua/9router](https://github.com/decolua/9router)  
+- [2026-04-11-mui/material-ui](https://github.com/mui/material-ui)  
+- [2026-04-11-swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)  
+- [2026-04-11-pbakaus/impeccable](https://github.com/pbakaus/impeccable)  
+- [2026-04-11-zen-browser/desktop](https://github.com/zen-browser/desktop)  
+- [2026-04-11-jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)  
+- [2026-04-11-sveltejs/svelte](https://github.com/sveltejs/svelte)  
+- [2026-04-11-eslint/eslint](https://github.com/eslint/eslint)  
+- [2026-04-11-lazaroagomez/BeatDock](https://github.com/lazaroagomez/BeatDock)  
+- [2026-04-11-vercel/next.js](https://github.com/vercel/next.js)  
 - [......【查看更多】......](/details/GitHub Trending JS.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -581,17 +545,17 @@ https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system
 - [2026-04-09-not-much-happened-today](https://news.smol.ai/issues/26-04-09-not-much/)  
 - [2026-04-08-not-much-happened-today](https://news.smol.ai/issues/26-04-08-not-much/)  
 - [2026-04-07-anthropic](https://news.smol.ai/issues/26-04-06-anthropic-mythos/)  
-- [2026-04-06-not-much-happened-today](https://news.smol.ai/issues/26-04-06-not-much/)  
 - [2026-04-06-not-much-happened-today](https://news.smol.ai/issues/26-04-07-not-much/)  
+- [2026-04-06-not-much-happened-today](https://news.smol.ai/issues/26-04-06-not-much/)  
 - [2026-04-03-not-much-happened-today](https://news.smol.ai/issues/26-04-03-not-much/)  
 - [2026-04-02-Gemma-4](https://news.smol.ai/issues/26-04-02-gemma-4/)  
 - [2026-04-01-not-much-happened-today](https://news.smol.ai/issues/26-04-01-not-much/)  
 - [2026-03-30-not-much-happened-today](https://news.smol.ai/issues/26-03-30-not-much/)  
 - [2026-03-27-not-much-happened-today](https://news.smol.ai/issues/26-03-27-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-31-claude-code-leak/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
-- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
 - [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-24-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-25-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-26-not-much/)  
+- [2026-03-24-not-much-happened-today](https://news.smol.ai/issues/26-03-31-claude-code-leak/)  
 - [2026-03-23-not-much-happened-today](https://news.smol.ai/issues/26-03-23-not-much/)  
 - [2026-03-20-not-much-happened-today](https://news.smol.ai/issues/26-03-20-not-much/)  
 - [2026-03-19-not-much-happened-today](https://news.smol.ai/issues/26-03-19-not-much/)  
@@ -665,26 +629,26 @@ https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system
 </summary>
 
 
-- [2026-04-10-Using-custom-GPTs](https://openai.com/academy/custom-gpts)  
-- [2026-04-10-ChatGPT-for-customer-success-teams](https://openai.com/academy/customer-success)  
-- [2026-04-10-Applications-of-AI-at-OpenAI](https://openai.com/academy/applications-of-ai)  
-- [2026-04-10-Research-with-ChatGPT](https://openai.com/academy/search-and-deep-research)  
-- [2026-04-10-Analyzing-data-with-ChatGPT](https://openai.com/academy/data-analysis)  
-- [2026-04-10-Financial-services](https://openai.com/academy/financial-services)  
-- [2026-04-10-Responsible-and-safe-use-of-AI-](https://openai.com/academy/responsible-and-safe-use)  
-- [2026-04-10-Writing-with-ChatGPT](https://openai.com/academy/writing)  
-- [2026-04-10-ChatGPT-for-research](https://openai.com/academy/research)  
-- [2026-04-10-Creating-images-with-ChatGPT](https://openai.com/academy/image-generation)  
-- [2026-04-10-Personalizing-ChatGPT](https://openai.com/academy/personalization)  
-- [2026-04-10-ChatGPT-for-finance-teams](https://openai.com/academy/finance)  
-- [2026-04-10-Getting-started-with-ChatGPT](https://openai.com/academy/getting-started)  
-- [2026-04-10-Working-with-files-in-ChatGPT](https://openai.com/academy/working-with-files)  
-- [2026-04-10-ChatGPT-for-sales-teams](https://openai.com/academy/sales)  
-- [2026-04-10-Prompting-fundamentals](https://openai.com/academy/prompting)  
-- [2026-04-10-ChatGPT-for-managers](https://openai.com/academy/managers)  
-- [2026-04-10-Using-projects-in-ChatGPT](https://openai.com/academy/projects)  
-- [2026-04-10-ChatGPT-for-marketing-teams](https://openai.com/academy/marketing)  
+- [2026-04-10-Using-skills](https://openai.com/academy/skills)  
+- [2026-04-10-Our-response-to-the-Axios-developer-tool-compromise](https://openai.com/index/axios-developer-tool-compromise)  
+- [2026-04-10-Healthcare](https://openai.com/academy/healthcare)  
+- [2026-04-10-ChatGPT-for-operations-teams](https://openai.com/academy/operations)  
+- [2026-04-10-AI-fundamentals](https://openai.com/academy/what-is-ai)  
 - [2026-04-10-Brainstorming-with-ChatGPT](https://openai.com/academy/brainstorming)  
+- [2026-04-10-ChatGPT-for-marketing-teams](https://openai.com/academy/marketing)  
+- [2026-04-10-Using-projects-in-ChatGPT](https://openai.com/academy/projects)  
+- [2026-04-10-ChatGPT-for-managers](https://openai.com/academy/managers)  
+- [2026-04-10-Prompting-fundamentals](https://openai.com/academy/prompting)  
+- [2026-04-10-ChatGPT-for-sales-teams](https://openai.com/academy/sales)  
+- [2026-04-10-Working-with-files-in-ChatGPT](https://openai.com/academy/working-with-files)  
+- [2026-04-10-Getting-started-with-ChatGPT](https://openai.com/academy/getting-started)  
+- [2026-04-10-ChatGPT-for-finance-teams](https://openai.com/academy/finance)  
+- [2026-04-10-Personalizing-ChatGPT](https://openai.com/academy/personalization)  
+- [2026-04-10-Creating-images-with-ChatGPT](https://openai.com/academy/image-generation)  
+- [2026-04-10-ChatGPT-for-research](https://openai.com/academy/research)  
+- [2026-04-10-Writing-with-ChatGPT](https://openai.com/academy/writing)  
+- [2026-04-10-Responsible-and-safe-use-of-AI-](https://openai.com/academy/responsible-and-safe-use)  
+- [2026-04-10-Financial-services](https://openai.com/academy/financial-services)  
 - [......【查看更多】......](/details/OpenAI Blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -696,26 +660,26 @@ https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system
 </summary>
 
 
-- [2026-04-12-Apollo-Domain/IX-User's-Guide-pdf](https://dn710900.ca.archive.org/0/items/bitsavers_apollo0058ideDec86_7208983/005803-01_DOMAIN_IX_Users_Guide_Dec86.pdf)  
-- [2026-04-12-Show-HN:-Minimalist-template-for-scientific-and-academic-CVS](https://github.com/pmichaillat/latex-cv)  
-- [2026-04-12-Electric-Rail-Bike-for-Abandoned-Railroads-video](https://www.youtube.com/watch?v=HhZNUNomXyo)  
-- [2026-04-12-Powell,-Bessent-discussed-Anthropic's-Mythos-AI-cyber-threat-with-major-US-banks](https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html)  
-- [2026-04-12-A-new-interpretation-of-the-Riemann-Hypothesis-based-on-wave-interaction-Flux](https://zenodo.org/records/19515676)  
-- [2026-04-12-Excellence-Is-a-Habit](https://www.flyingbarron.com/2026/04/excellence-is-habit.html)  
-- [2026-04-12-Ideas-for-marketing-a-dev-centric-product-2019](https://www.mooreds.com/wordpress/archives/3197)  
-- [2026-04-12-Is-the-'Holy-Grail-of-batteries'-ready-to-bless-us-with-its-presence?](https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china)  
-- [2026-04-12-New-town-every-hour-blue-sky-account](https://bsky.app/profile/townsusa.bsky.social)  
-- [2026-04-12-Vance-Says-U.S.-Iran-Peace-Talks-Break-Down-over-Nuclear-Issue](https://www.wsj.com/livecoverage/iran-war-latest-news-israel-us-lebanon-2026)  
-- [2026-04-12-iPhone-18-Pro-Leaked-Designs](https://9to5mac.com/2026/04/09/leaker-gives-iphone-18-pro-updates-on-two-design-changes/)  
-- [2026-04-12-Bella:-Hypergrah-memory-for-AI-agent10x-time-horizon](https://github.com/immartian/bellamem)  
-- [2026-04-12-Online-Phreak-Box](https://phreaknet.org/bluebox/)  
-- [2026-04-12-The-Local-Universe's-Expansion-Rate-Clearer-Than-Ever.-But-Still-Doesn't-Add-Up](https://noirlab.edu/public/news/noirlab2611/?lang)  
-- [2026-04-12-Why-meaningful-days-look-like-nothing-while-you-are-living-them](https://pilgrima.ge/p/the-grand-line)  
-- [2026-04-12-Show-HN:-Posse-–-Open-Source-Web-UI-for-Anthropic-Managed-Agents](https://github.com/oguzbilgic/posse)  
-- [2026-04-12-Jury-reaches-no-verdict-on-first-day-deliberating-at-Live-Nation-monopoly-trial](https://www.boston25news.com/entertainment/jury-starts/V36MJOVVPA373JW3P5TFJZJ7OI/)  
-- [2026-04-12-Building-a-better-crossword-page-for-my-daily-cryptic-hit-–-Whitebeard's-Realm](https://whitebeard.blog/posts/building-a-better-crossword-page/)  
-- [2026-04-12-How-Ship-Anchors-Work-video](https://www.youtube.com/shorts/X7bWj115UwY)  
-- [2026-04-12-Building-a-Z-Machine-in-the-worst-possible-language-–-Whitebeard's-Realm](https://whitebeard.blog/posts/building-a-z-machine-in-elm/)  
+- [2026-04-12-The-AI-Layoff-Trap](https://arxiv.org/abs/2603.20617)  
+- [2026-04-12-Why-the-Grand-Paris-Express-Is-Europes-Biggest-Infrastructure-Project-video](https://www.youtube.com/watch?v=c_iuctRkmp0)  
+- [2026-04-12-I-tested-10k-VPNs-–-67%-leak-your-data](https://medium.com/@examineip/i-built-a-free-vpn-leak-test-tool-heres-what-10-000-tests-revealed-1fc8816f7a9d)  
+- [2026-04-12-Frugal-AI-for-Education](https://www.col.org/frugal/)  
+- [2026-04-12-FIXAPL](https://fixapl.netlify.app/)  
+- [2026-04-12-Put-Down-Your-Phone-and-Embrace-Bookish-Snobbery](https://thatvastvariety.substack.com/p/my-notes-on-amusing-ourselves-to)  
+- [2026-04-12-Native-Raspberry-Pi-Version-of-the-Oberon-System-3](https://github.com/rochus-keller/OberonSystem3Native/releases/tag/2026-04-10)  
+- [2026-04-12-Snorb.lol](https://snorb.lol)  
+- [2026-04-12-Code-Mode:-Let-Your-AI-Write-Programs,-Not-Just-Call-Tools](https://tanstack.com/blog/tanstack-ai-code-mode)  
+- [2026-04-12-Science-Communication-and-the-Hype-Machine](https://cognitivewonderland.substack.com/p/science-communication-and-the-hype)  
+- [2026-04-12-CDC-director-delays-report-showing-Covid-vaccine-benefits](https://www.theguardian.com/us-news/2026/apr/10/cdc-chief-covid-vaccine)  
+- [2026-04-12-Silicon-Valley-is-quietly-running-on-Chinese-open-source-models](https://old.reddit.com/r/Futurology/comments/1siea6z/silicon_valley_is_quietly_running_on_chinese_open/)  
+- [2026-04-12-April-12th-is-Yuri's-Night](https://yurisnight.net/)  
+- [2026-04-12-Show-HN:-I-visualized-how-AI-agent-systems-accidentally-become-org-charts](https://jointherevolution.today/emergence)  
+- [2026-04-12-I-run-multiple-$10K-MRR-companies-on-a-$20/month-tech-stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)  
+- [2026-04-12-Behind-the-Scenes-of-the-Demise-of-Muxtape-2008](https://www.wired.com/2008/09/behind-the-scenes-of-the-demise-of-muxtape/)  
+- [2026-04-12-Intel-Arc-Pro-B70-Brings-32GB-VRAM-to-Local-AI-for-$949](https://awesomeagents.ai/news/intel-arc-pro-b70-32gb-local-inference/)  
+- [2026-04-12-Combatting-illegal-trade-of-wildlife-with-ML-and-radiation-technologies](https://www.mdpi.com/2076-2615/16/5/731)  
+- [2026-04-12-Graft-–-Go-AI-Agent-Framework-with-Temporal/Hatchet/Trigger.dev-Support](https://github.com/delavalom/graft)  
+- [2026-04-12-Used-Graphify-to-turn-incidents-into-a-queryable-knowledge-graph](https://github.com/Rootly-AI-Labs/rootly-graphify-importer)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -758,26 +722,26 @@ https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system
 </summary>
 
 
-- [2026-04-11-How-the-Internet-Broke-Everyone’s-Bullshit-Detectors](https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/)  
-- [2026-04-11-The-All-Clad-Factory-Seconds-Sale-Is-Back—for-Now-2026](https://www.wired.com/story/all-clad-factory-seconds-april-2026/)  
-- [2026-04-11-This-Startup-Wants-You-to-Pay-Up-to-Talk-With-AI-Versions-of-Human-Experts](https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/)  
-- [2026-04-11-This-Clever-Bike-Bell-Can-Even-Be-Heard-by-People-Wearing-Noise-Canceling-Headphones](https://www.wired.com/story/skoda-duobell-bike-bell-can-be-heard-by-people-wearing-noise-canceling-headphones/)  
-- [2026-04-11-"Uncanny-Valley":-OpenAI-and-Musk-Fight-Again;-DOJ-Mishandles-Voter-Data;-Artemis-II-Comes-Home](https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home/)  
-- [2026-04-11-Suspect-Arrested-for-Allegedly-Throwing-Molotov-Cocktail-at-Sam-Altman’s-Home](https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/)  
-- [2026-04-11-The-Future-of-the-Artemis-Program-Is-Riding-on-Reentry](https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/)  
-- [2026-04-11-Anthropic’s-Mythos-Will-Force-a-Cybersecurity-Reckoning—Just-Not-the-One-You-Think](https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/)  
-- [2026-04-11-Motorola’s-Souped-Up-Folding-Phone-Is-Almost-Half-Off](https://www.wired.com/story/motorola-razr-ultra-deal-426/)  
-- [2026-04-11-Home-Depot-Spring-Black-Friday-2026:-Best-Tool-and-Grill-Deals](https://www.wired.com/story/home-depot-spring-black-friday-deals-2026/)  
-- [2026-04-11-Artemis-II-Astronauts-Safely-Return-to-Earth-After-Historic-Flight-Around-the-Moon](https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/)  
-- [2026-04-11-Flight-Path-Data-Shows-How-Mosquitoes-Target-Humans](https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/)  
-- [2026-04-11-Your-Push-Notifications-Aren’t-Safe-From-the-FBI](https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/)  
-- [2026-04-11-Best-Electric-Cargo-Bikes-2026:-Urban-Arrow,-Lectric,-Tern,-and-More](https://www.wired.com/story/best-electric-cargo-bikes/)  
-- [2026-04-11-MacBook-Neo-vs.-MacBook-Air:-Which-One-Should-You-Buy?](https://www.wired.com/story/macbook-neo-vs-macbook-air/)  
-- [2026-04-11-Zuvi-ColorBox-Review:-A-Hair-Dye-Printer-That-Struggles](https://www.wired.com/review/zuvi-colorbox/)  
+- [2026-04-12-The-3-Best-Mug-Warmers-of-2026:-Better-Than-the-Ember-Mug?](https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/) ![](/assets/new.png)  
 - [2026-04-11-‘Crimson-Desert’-Is-a-Cat-Dad-Simulator](https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/)  
-- [2026-04-10-Aventon-Current-ADV-Electric-Mountain-Bike-Review:-Feels-Just-Like-the-Real-Thing](https://www.wired.com/review/aventon-current-adv-electric-mountain-bike/)  
-- [2026-04-10-Best-Smart-Shades,-Blinds,-and-Curtains-2026:-Motorized,-Tailor-Made,-and-More](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)  
-- [2026-04-10-The-Indie-News-Queen-Who’s-Not-Done-Pissing-Off-the-Powerful](https://www.wired.com/story/the-indie-news-queen-whos-not-done-pissing-off-the-powerful/)  
+- [2026-04-11-Zuvi-ColorBox-Review:-A-Hair-Dye-Printer-That-Struggles](https://www.wired.com/review/zuvi-colorbox/)  
+- [2026-04-11-MacBook-Neo-vs.-MacBook-Air:-Which-One-Should-You-Buy?](https://www.wired.com/story/macbook-neo-vs-macbook-air/)  
+- [2026-04-11-Best-Electric-Cargo-Bikes-2026:-Urban-Arrow,-Lectric,-Tern,-and-More](https://www.wired.com/story/best-electric-cargo-bikes/)  
+- [2026-04-11-Your-Push-Notifications-Aren’t-Safe-From-the-FBI](https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/)  
+- [2026-04-11-Flight-Path-Data-Shows-How-Mosquitoes-Target-Humans](https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/)  
+- [2026-04-11-Artemis-II-Astronauts-Safely-Return-to-Earth-After-Historic-Flight-Around-the-Moon](https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/)  
+- [2026-04-11-Home-Depot-Spring-Black-Friday-2026:-Best-Tool-and-Grill-Deals](https://www.wired.com/story/home-depot-spring-black-friday-deals-2026/)  
+- [2026-04-11-Motorola’s-Souped-Up-Folding-Phone-Is-Almost-Half-Off](https://www.wired.com/story/motorola-razr-ultra-deal-426/)  
+- [2026-04-11-Anthropic’s-Mythos-Will-Force-a-Cybersecurity-Reckoning—Just-Not-the-One-You-Think](https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/)  
+- [2026-04-11-The-Future-of-the-Artemis-Program-Is-Riding-on-Reentry](https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/)  
+- [2026-04-11-Suspect-Arrested-for-Allegedly-Throwing-Molotov-Cocktail-at-Sam-Altman’s-Home](https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/)  
+- [2026-04-11-"Uncanny-Valley":-OpenAI-and-Musk-Fight-Again;-DOJ-Mishandles-Voter-Data;-Artemis-II-Comes-Home](https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home/)  
+- [2026-04-11-This-Clever-Bike-Bell-Can-Even-Be-Heard-by-People-Wearing-Noise-Canceling-Headphones](https://www.wired.com/story/skoda-duobell-bike-bell-can-be-heard-by-people-wearing-noise-canceling-headphones/)  
+- [2026-04-11-This-Startup-Wants-You-to-Pay-Up-to-Talk-With-AI-Versions-of-Human-Experts](https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/)  
+- [2026-04-11-The-All-Clad-Factory-Seconds-Sale-Is-Back—for-Now-2026](https://www.wired.com/story/all-clad-factory-seconds-april-2026/)  
+- [2026-04-11-How-the-Internet-Broke-Everyone’s-Bullshit-Detectors](https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/)  
+- [2026-04-10-Meta’s-New-AI-Asked-for-My-Raw-Health-Data—and-Gave-Me-Terrible-Advice](https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/)  
+- [2026-04-10-How-and-When-to-Watch-the-Artemis-II-Mission’s-Return-to-Earth](https://www.wired.com/story/how-and-when-to-watch-the-artemis-ii-missions-return-to-earth/)  
 - [......【查看更多】......](/details/Wired.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
