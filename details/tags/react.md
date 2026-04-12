@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-12 10:02:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-12 12:02:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -7,10 +7,12 @@
 
 
 
-- [2026-04-12-How-to-integrate-DeepSeek-R1-into-your-React-app](https://dev.to/apollo_ag/how-to-integrate-deepseek-r1-into-your-react-app-579) 
 - [2026-04-12-React-Query-vs-SWR-in-2026:-What-I-Actually-Use-and-Why](https://dev.to/whoffagents/react-query-vs-swr-in-2026-what-i-actually-use-and-why-3362) 
-- [2026-04-11-Stop-Using-useState-for-Forms:-The-React-Hook-Form-+-Zod-Architecture](https://dev.to/iprajapatiparesh/stop-using-usestate-for-forms-the-react-hook-form-zod-architecture-15p1) 
+- [2026-04-12-How-to-integrate-DeepSeek-R1-into-your-React-app](https://dev.to/apollo_ag/how-to-integrate-deepseek-r1-into-your-react-app-579) 
+- [2026-04-12-Why-useEffect-Confuses-Every-C#-Developer-And-How-to-Finally-Think-About-It](https://dev.to/cstrainer_44b9bd49cccf955/why-useeffect-confuses-every-c-developer-and-how-to-finally-think-about-it-5gh) 
+- [2026-04-12-Frontend-Developer-Resume-Example-React/Next.js-2026](https://dev.to/sarah_m/frontend-developer-resume-example-reactnextjs-2026-4i89) 
 - [2026-04-11-ReactPerplexity-Politika-Koruma-Kuralları---Claude-Code-Skill-Rehberi](https://dev.to/forumweb/reactperplexity-politika-koruma-kurallari-claude-code-skill-rehberi-4jfl) 
+- [2026-04-11-Stop-Using-useState-for-Forms:-The-React-Hook-Form-+-Zod-Architecture](https://dev.to/iprajapatiparesh/stop-using-usestate-for-forms-the-react-hook-form-zod-architecture-15p1) 
 - [2026-04-11--We-Benchmarked-Top-React-Gantt-Chart-Libraries-So-You-Don't-Have-To-](
 https://svar.dev/blog/react-gantt-benchmark/
 ) 
@@ -31,17 +33,17 @@ https://svar.dev/blog/react-gantt-benchmark/
 - [2026-03-23-A-Complete-Beginner’s-Guide-to-Claude-Code-Skills,-Agents,-Hooks,-Plugins,-MCP-&amp;-Cowork](https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4) 
 - [2026-04-12-React-Debug-Updates](https://github.com/pie6k/react-debug-updates) 
 - [2026-04-10-Show-HN:-Polter-–-Agent-Driven-UI-react-library](https://mydatavalue.github.io/polter/) 
-- [2026-04-09-HookVerify-–-Webhook-reliability-layer-for-the-receiving-side](https://hookverify.com/) 
 - [2026-04-09-So-My-Friend-Made-Me-a-Bioreactor](https://chillphysicsenjoyer.substack.com/p/so-my-friend-made-me-a-bioreactor) 
+- [2026-04-09-HookVerify-–-Webhook-reliability-layer-for-the-receiving-side](https://hookverify.com/) 
 - [2026-04-08-500-MWe-Nuclear-Fast-Breeder-Reactor-built-by-India-attains-first-criticality](https://www.pib.gov.in/FactsheetDetails.aspx?Id=150617) 
 - [2026-04-04-Nutrax-–-a-social-calorie-tracking-app-with-AI-food-scanning-iOS](https://apps.apple.com/no/app/nutrax-ai-food-tracker/id6761395869) 
 - [2026-04-03-Real-Time-App-Store-IAP-Notifications-via-Telegram-Vercel-Webhook](https://old.reddit.com/r/iOSProgramming/comments/1rn9t4l/realtime_app_store_iap_notifications_via_telegram/) 
 - [2026-04-01-A-satellite-smashing-chain-reaction-could-spiral-out-of-control](https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control) 
-- [2026-03-29-A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list) 
 - [2026-03-29-Scientists-Create-Novel-Organism-with-Primitive-Nervous-System](https://now.tufts.edu/2026/03/16/scientists-create-novel-organism-primitive-nervous-system) 
+- [2026-03-29-A-minimal-React-shopping-list-app-structured-for-Capacitor/iOS-packaging](https://github.com/sangress/shopping-list) 
 - [2026-03-28-ViraxLog-–-Tamper-Proof-Logging-Using-Merkle-Trees-and-BLAKE2B-for-Python](https://github.com/damienos61/viraxlog) 
-- [2026-03-25-Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/) 
 - [2026-03-25-NASA-unveils-Space-Reactor-1-Freedom-mission-to-Mars-in-2028](https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/) 
-- [2026-03-24-Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches) 
+- [2026-03-25-Why-Be-Reactive?](https://crank.js.org/blog/why-be-reactive/) 
 - [2026-03-24-Windows-Start-does-not-use-React](https://pathar.tl/blog/no-windows-start-does-not-use-react/) 
+- [2026-03-24-Interactive-LED-system-for-crutches-that-react-to-walking-motion](https://github.com/JackWetherell/Disco-Crutches) 
 - [2026-04-09-Radify’s-sci-fi-plasma-reactors-could-break-China’s-dominance-of-rare-earth-elements](https://techcrunch.com/2026/04/09/radifys-sci-fi-plasma-reactors-could-break-chinas-dominance-of-rare-earth-elements/) 
