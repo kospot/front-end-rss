@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-13T02:01:51.679Z</updated>
+    <updated>2026-04-13T04:01:03.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,107 +15,51 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Level 3 Thinking: A Unified Theory of Self-Improvement]]></title>
-        <id>https://www.nateliason.com/blog/level-3-thinking</id>
-        <link href="https://www.nateliason.com/blog/level-3-thinking"/>
+        <title type="html"><![CDATA[Best AI coding interview assistant in 2026]]></title>
+        <id>https://www.linkjob.ai/interview-questions/ai-coding-interview-assistant/</id>
+        <link href="https://www.linkjob.ai/interview-questions/ai-coding-interview-assistant/"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenMAIC – Open Multi-Agent Interactive Classroom]]></title>
-        <id>https://open.maic.chat/</id>
-        <link href="https://open.maic.chat/"/>
+        <title type="html"><![CDATA[Show HN: Chipmunkify – I used ML to solve audio's dumbest problem]]></title>
+        <id>https://www.chipmunkify.com/</id>
+        <link href="https://www.chipmunkify.com/"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Social Battery Paper: Gradient, Constraint, and the Extraction of Work In]]></title>
-        <id>https://www.academia.edu/165644285/The_Social_Battery_Paper_Gradient_Constraint_and_the_Extraction_of_Work_in_Polarized_Systems_Deprivation_and_Human_Suffering_As_Input_For_Extractive_Economic_Systems_Not_Arbitrary_Output</id>
-        <link href="https://www.academia.edu/165644285/The_Social_Battery_Paper_Gradient_Constraint_and_the_Extraction_of_Work_in_Polarized_Systems_Deprivation_and_Human_Suffering_As_Input_For_Extractive_Economic_Systems_Not_Arbitrary_Output"/>
+        <title type="html"><![CDATA[Show HN: React Modern Audio Player]]></title>
+        <id>https://github.com/slash9494/react-modern-audio-player</id>
+        <link href="https://github.com/slash9494/react-modern-audio-player"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Business Case for Vanilla JavaScript]]></title>
-        <id>https://lewiscampbell.tech/blog/250430.html</id>
-        <link href="https://lewiscampbell.tech/blog/250430.html"/>
+        <title type="html"><![CDATA[Uses for Nested Promises]]></title>
+        <id>https://blog.jcoglan.com/2026/03/23/uses-for-nested-promises/</id>
+        <link href="https://blog.jcoglan.com/2026/03/23/uses-for-nested-promises/"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Internet down for you? X, GitHub, etc.]]></title>
-        <id>https://news.ycombinator.com/item?id=47746404</id>
-        <link href="https://news.ycombinator.com/item?id=47746404"/>
+        <title type="html"><![CDATA[HN: Distill-CBL, a single-file COBOL-to-WASM compiler in Rust]]></title>
+        <id>https://github.com/StealthEyeLLC/distill-cbl</id>
+        <link href="https://github.com/StealthEyeLLC/distill-cbl"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GraphAI – dual-graph $0 knowledge system with AI-native binary format]]></title>
-        <id>https://github.com/nehloo/graphAI</id>
-        <link href="https://github.com/nehloo/graphAI"/>
+        <title type="html"><![CDATA[Show HN: Turn any YouTube video into something you can use]]></title>
+        <id>https://www.pandarecord.com/extension</id>
+        <link href="https://www.pandarecord.com/extension"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Private Post-Training and Inference with TEEs for Frontier Models]]></title>
-        <id>https://www.workshoplabs.ai/blog/private-post-training</id>
-        <link href="https://www.workshoplabs.ai/blog/private-post-training"/>
-        <updated>2026-04-12T16:00:00.000Z</updated>
-        <published>2026-04-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unitree's H1 robot hits 10m/s sprint speed, getting close to 100M world record]]></title>
-        <id>https://www.globaltimes.cn/page/202604/1358712.shtml</id>
-        <link href="https://www.globaltimes.cn/page/202604/1358712.shtml"/>
-        <updated>2026-04-12T16:00:00.000Z</updated>
-        <published>2026-04-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare Agents week preview: What to expect]]></title>
-        <id>https://www.youtube.com/watch?v=nCrG-ixRoGg</id>
-        <link href="https://www.youtube.com/watch?v=nCrG-ixRoGg"/>
-        <updated>2026-04-12T16:00:00.000Z</updated>
-        <published>2026-04-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maine set to become first state with data center ban]]></title>
-        <id>https://www.cnbc.com/2026/04/09/maine-data-center-ban.html</id>
-        <link href="https://www.cnbc.com/2026/04/09/maine-data-center-ban.html"/>
-        <updated>2026-04-12T16:00:00.000Z</updated>
-        <published>2026-04-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitamin C inhibits ACSL4 to alleviate ferro-aging in primates: Cell Metabolism]]></title>
-        <id>https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00053-7</id>
-        <link href="https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00053-7"/>
-        <updated>2026-04-12T16:00:00.000Z</updated>
-        <published>2026-04-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applied Reverse Engineering: Crude T&E for Control-Flow Tracing]]></title>
-        <id>https://revers.engineering/applied-re-crude-te-for-control-flow-tracing/</id>
-        <link href="https://revers.engineering/applied-re-crude-te-for-control-flow-tracing/"/>
-        <updated>2026-04-12T16:00:00.000Z</updated>
-        <published>2026-04-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pi Coding Agent [video]]]></title>
-        <id>https://www.youtube.com/watch?v=O-96yYDPMOc</id>
-        <link href="https://www.youtube.com/watch?v=O-96yYDPMOc"/>
-        <updated>2026-04-12T16:00:00.000Z</updated>
-        <published>2026-04-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death of Character in Game Console Interfaces]]></title>
-        <id>https://vale.rocks/posts/game-console-interfaces</id>
-        <link href="https://vale.rocks/posts/game-console-interfaces"/>
-        <updated>2026-04-12T16:00:00.000Z</updated>
-        <published>2026-04-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[At Coachella, Justin Bieber spends half an hour surfing YouTube]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/bieber-coachella-22202157.php</id>
-        <link href="https://www.sfgate.com/sf-culture/article/bieber-coachella-22202157.php"/>
+        <title type="html"><![CDATA[Git fixup is magic (and Magit is too)]]></title>
+        <id>https://arialdomartini.github.io/git-fixup</id>
+        <link href="https://arialdomartini.github.io/git-fixup"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
@@ -127,9 +71,107 @@
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git fixup is magic (and Magit is too)]]></title>
-        <id>https://arialdomartini.github.io/git-fixup</id>
-        <link href="https://arialdomartini.github.io/git-fixup"/>
+        <title type="html"><![CDATA[At Coachella, Justin Bieber spends half an hour surfing YouTube]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/bieber-coachella-22202157.php</id>
+        <link href="https://www.sfgate.com/sf-culture/article/bieber-coachella-22202157.php"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Death of Character in Game Console Interfaces]]></title>
+        <id>https://vale.rocks/posts/game-console-interfaces</id>
+        <link href="https://vale.rocks/posts/game-console-interfaces"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pi Coding Agent [video]]]></title>
+        <id>https://www.youtube.com/watch?v=O-96yYDPMOc</id>
+        <link href="https://www.youtube.com/watch?v=O-96yYDPMOc"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Applied Reverse Engineering: Crude T&E for Control-Flow Tracing]]></title>
+        <id>https://revers.engineering/applied-re-crude-te-for-control-flow-tracing/</id>
+        <link href="https://revers.engineering/applied-re-crude-te-for-control-flow-tracing/"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitamin C inhibits ACSL4 to alleviate ferro-aging in primates: Cell Metabolism]]></title>
+        <id>https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00053-7</id>
+        <link href="https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00053-7"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maine set to become first state with data center ban]]></title>
+        <id>https://www.cnbc.com/2026/04/09/maine-data-center-ban.html</id>
+        <link href="https://www.cnbc.com/2026/04/09/maine-data-center-ban.html"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Agents week preview: What to expect]]></title>
+        <id>https://www.youtube.com/watch?v=nCrG-ixRoGg</id>
+        <link href="https://www.youtube.com/watch?v=nCrG-ixRoGg"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unitree's H1 robot hits 10m/s sprint speed, getting close to 100M world record]]></title>
+        <id>https://www.globaltimes.cn/page/202604/1358712.shtml</id>
+        <link href="https://www.globaltimes.cn/page/202604/1358712.shtml"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Private Post-Training and Inference with TEEs for Frontier Models]]></title>
+        <id>https://www.workshoplabs.ai/blog/private-post-training</id>
+        <link href="https://www.workshoplabs.ai/blog/private-post-training"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphAI – dual-graph $0 knowledge system with AI-native binary format]]></title>
+        <id>https://github.com/nehloo/graphAI</id>
+        <link href="https://github.com/nehloo/graphAI"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internet down for you? X, GitHub, etc.]]></title>
+        <id>https://news.ycombinator.com/item?id=47746404</id>
+        <link href="https://news.ycombinator.com/item?id=47746404"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Business Case for Vanilla JavaScript]]></title>
+        <id>https://lewiscampbell.tech/blog/250430.html</id>
+        <link href="https://lewiscampbell.tech/blog/250430.html"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Social Battery Paper: Gradient, Constraint, and the Extraction of Work In]]></title>
+        <id>https://www.academia.edu/165644285/The_Social_Battery_Paper_Gradient_Constraint_and_the_Extraction_of_Work_in_Polarized_Systems_Deprivation_and_Human_Suffering_As_Input_For_Extractive_Economic_Systems_Not_Arbitrary_Output</id>
+        <link href="https://www.academia.edu/165644285/The_Social_Battery_Paper_Gradient_Constraint_and_the_Extraction_of_Work_in_Polarized_Systems_Deprivation_and_Human_Suffering_As_Input_For_Extractive_Economic_Systems_Not_Arbitrary_Output"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenMAIC – Open Multi-Agent Interactive Classroom]]></title>
+        <id>https://open.maic.chat/</id>
+        <link href="https://open.maic.chat/"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Level 3 Thinking: A Unified Theory of Self-Improvement]]></title>
+        <id>https://www.nateliason.com/blog/level-3-thinking</id>
+        <link href="https://www.nateliason.com/blog/level-3-thinking"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
@@ -169,199 +211,157 @@
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React File Handling: Uploads, Drop Zones, and Object URLs]]></title>
-        <id>https://dev.to/childrentime/react-file-handling-uploads-drop-zones-and-object-urls-30p5</id>
-        <link href="https://dev.to/childrentime/react-file-handling-uploads-drop-zones-and-object-urls-30p5"/>
+        <title type="html"><![CDATA[Memory-Guided Trust-Region Bayesian Optimization (MG-TuRBO) for High Dimensions]]></title>
+        <id>https://arxiv.org/abs/2604.08569</id>
+        <link href="https://arxiv.org/abs/2604.08569"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tuition Centre Bukit Timah – A Complete Guide to Choosing the Right Academic Support]]></title>
-        <id>https://dev.to/joxiyam440/tuition-centre-bukit-timah-a-complete-guide-to-choosing-the-right-academic-support-3hd7</id>
-        <link href="https://dev.to/joxiyam440/tuition-centre-bukit-timah-a-complete-guide-to-choosing-the-right-academic-support-3hd7"/>
+        <title type="html"><![CDATA[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation]]></title>
+        <id>https://arxiv.org/abs/2604.08570</id>
+        <link href="https://arxiv.org/abs/2604.08570"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[trimoji — Unicode and emoji-aware text truncation for JavaScript]]></title>
-        <id>https://dev.to/kunaltanwar/trimoji-unicode-and-emoji-aware-text-truncation-for-javascript-2b3e</id>
-        <link href="https://dev.to/kunaltanwar/trimoji-unicode-and-emoji-aware-text-truncation-for-javascript-2b3e"/>
+        <title type="html"><![CDATA[Ranked Activation Shift for Post-Hoc Out-of-Distribution Detection]]></title>
+        <id>https://arxiv.org/abs/2604.08572</id>
+        <link href="https://arxiv.org/abs/2604.08572"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep Dive into the Security Implications of JavaScript APIs]]></title>
-        <id>https://dev.to/omriluz1/deep-dive-into-the-security-implications-of-javascript-apis-404j</id>
-        <link href="https://dev.to/omriluz1/deep-dive-into-the-security-implications-of-javascript-apis-404j"/>
+        <title type="html"><![CDATA[Distilling Genomic Models for Efficient mRNA Representation Learning via Embedding Matching]]></title>
+        <id>https://arxiv.org/abs/2604.08574</id>
+        <link href="https://arxiv.org/abs/2604.08574"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is my first post]]></title>
-        <id>https://dev.to/mohsinproduct/this-is-my-first-post-4pce</id>
-        <link href="https://dev.to/mohsinproduct/this-is-my-first-post-4pce"/>
+        <title type="html"><![CDATA[On the Spectral Geometry of Cross-Modal Representations: A Functional Map Diagnostic for Multimodal Alignment]]></title>
+        <id>https://arxiv.org/abs/2604.08579</id>
+        <link href="https://arxiv.org/abs/2604.08579"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The YouTube Content Repurposing Workflow That Multiplies Your Reach Without Extra Filming]]></title>
-        <id>https://dev.to/repairxpert/the-youtube-content-repurposing-workflow-that-multiplies-your-reach-without-extra-filming-4e4k</id>
-        <link href="https://dev.to/repairxpert/the-youtube-content-repurposing-workflow-that-multiplies-your-reach-without-extra-filming-4e4k"/>
+        <title type="html"><![CDATA[Multivariate Time Series Anomaly Detection via Dual-Branch Reconstruction and Autoregressive Flow-based Residual Density Estimation]]></title>
+        <id>https://arxiv.org/abs/2604.08582</id>
+        <link href="https://arxiv.org/abs/2604.08582"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a free desktop video downloader for Windows — Grabbit]]></title>
-        <id>https://dev.to/indignity/i-built-a-free-desktop-video-downloader-for-windows-grabbit-3knc</id>
-        <link href="https://dev.to/indignity/i-built-a-free-desktop-video-downloader-for-windows-grabbit-3knc"/>
+        <title type="html"><![CDATA[EngageTriBoost: Predictive Modeling of User Engagement in Digital Mental Health Intervention Using Explainable Machine Learning]]></title>
+        <id>https://arxiv.org/abs/2604.08589</id>
+        <link href="https://arxiv.org/abs/2604.08589"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript Utility Types That Actually Save Time in Production SaaS Code]]></title>
-        <id>https://dev.to/whoffagents/typescript-utility-types-that-actually-save-time-in-production-saas-code-5afd</id>
-        <link href="https://dev.to/whoffagents/typescript-utility-types-that-actually-save-time-in-production-saas-code-5afd"/>
+        <title type="html"><![CDATA[AlphaLab: Autonomous Multi-Agent Research Across Optimization Domains with Frontier LLMs]]></title>
+        <id>https://arxiv.org/abs/2604.08590</id>
+        <link href="https://arxiv.org/abs/2604.08590"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zod v3: The Runtime Validation Guide TypeScript Developers Actually Need]]></title>
-        <id>https://dev.to/whoffagents/zod-v3-the-runtime-validation-guide-typescript-developers-actually-need-5ae9</id>
-        <link href="https://dev.to/whoffagents/zod-v3-the-runtime-validation-guide-typescript-developers-actually-need-5ae9"/>
+        <title type="html"><![CDATA[From Dispersion to Attraction: Spectral Dynamics of Hallucination Across Whisper Model Scales]]></title>
+        <id>https://arxiv.org/abs/2604.08591</id>
+        <link href="https://arxiv.org/abs/2604.08591"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a VAT Number Validator API for 35 Countries - Day 3 of 21]]></title>
-        <id>https://dev.to/ruanmuller04/i-built-a-vat-number-validator-api-for-35-countries-day-3-of-21-5h5e</id>
-        <link href="https://dev.to/ruanmuller04/i-built-a-vat-number-validator-api-for-35-countries-day-3-of-21-5h5e"/>
+        <title type="html"><![CDATA[Reservoir observer enhanced with residual calibration and attention mechanism]]></title>
+        <id>https://arxiv.org/abs/2604.08592</id>
+        <link href="https://arxiv.org/abs/2604.08592"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Ran Four Security Tools Against Express.js. They Found Each Other's Proof.]]></title>
-        <id>https://dev.to/copyleftdev/we-ran-four-security-tools-against-expressjs-they-found-each-others-proof-34ah</id>
-        <link href="https://dev.to/copyleftdev/we-ran-four-security-tools-against-expressjs-they-found-each-others-proof-34ah"/>
+        <title type="html"><![CDATA[Evidential Transformation Network: Turning Pretrained Models into Evidential Models for Post-hoc Uncertainty Estimation]]></title>
+        <id>https://arxiv.org/abs/2604.08627</id>
+        <link href="https://arxiv.org/abs/2604.08627"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Zero-Buffering Video Player in React (HLS + Adaptive Bitrate)]]></title>
-        <id>https://dev.to/michael_dl/how-i-built-a-zero-buffering-video-player-in-react-hls-adaptive-bitrate-nn8</id>
-        <link href="https://dev.to/michael_dl/how-i-built-a-zero-buffering-video-player-in-react-hls-adaptive-bitrate-nn8"/>
+        <title type="html"><![CDATA[Skip-Connected Policy Optimization for Implicit Advantage]]></title>
+        <id>https://arxiv.org/abs/2604.08690</id>
+        <link href="https://arxiv.org/abs/2604.08690"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Anthropic SDK Looks Safe. Two of Its Transitive Dependencies Aren't.]]></title>
-        <id>https://dev.to/piiiico/the-anthropic-sdk-looks-safe-two-of-its-transitive-dependencies-arent-4jlf</id>
-        <link href="https://dev.to/piiiico/the-anthropic-sdk-looks-safe-two-of-its-transitive-dependencies-arent-4jlf"/>
+        <title type="html"><![CDATA[EvoLen: Evolution-Guided Tokenization for DNA Language Model]]></title>
+        <id>https://arxiv.org/abs/2604.08698</id>
+        <link href="https://arxiv.org/abs/2604.08698"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I reduced my audio file size by 80% without losing quality (no upload needed)]]></title>
-        <id>https://dev.to/cloudairambo/i-reduced-my-audio-file-size-by-80-without-losing-quality-no-upload-needed-14j7</id>
-        <link href="https://dev.to/cloudairambo/i-reduced-my-audio-file-size-by-80-without-losing-quality-no-upload-needed-14j7"/>
+        <title type="html"><![CDATA[Efficient RL Training for LLMs with Experience Replay]]></title>
+        <id>https://arxiv.org/abs/2604.08706</id>
+        <link href="https://arxiv.org/abs/2604.08706"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Real-Time Breath Detection in the Browser: Spectral Centroid, Dual-Path State Machines, and a Nasty iOS Bug]]></title>
-        <id>https://dev.to/felix_zeller_6f3c43a7513f/real-time-breath-detection-in-the-browser-spectral-centroid-dual-path-state-machines-and-a-nasty-56bb</id>
-        <link href="https://dev.to/felix_zeller_6f3c43a7513f/real-time-breath-detection-in-the-browser-spectral-centroid-dual-path-state-machines-and-a-nasty-56bb"/>
+        <title type="html"><![CDATA[Every Response Counts: Quantifying Uncertainty of LLM-based Multi-Agent Systems through Tensor Decomposition]]></title>
+        <id>https://arxiv.org/abs/2604.08708</id>
+        <link href="https://arxiv.org/abs/2604.08708"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Buy Verified Webmoney Accounts Online from progmb]]></title>
-        <id>https://dev.to/rohid4223/how-to-buy-verified-webmoney-accounts-online-from-progmb-3b0n</id>
-        <link href="https://dev.to/rohid4223/how-to-buy-verified-webmoney-accounts-online-from-progmb-3b0n"/>
+        <title type="html"><![CDATA[Wireless Communication Enhanced Value Decomposition for Multi-Agent Reinforcement Learning]]></title>
+        <id>https://arxiv.org/abs/2604.08728</id>
+        <link href="https://arxiv.org/abs/2604.08728"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20 Top Sites for Buying Verified Monzo Accounts Quickly ...]]></title>
-        <id>https://dev.to/rohid4223/20-top-sites-for-buying-verified-monzo-accounts-quickly--ld2</id>
-        <link href="https://dev.to/rohid4223/20-top-sites-for-buying-verified-monzo-accounts-quickly--ld2"/>
+        <title type="html"><![CDATA[A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need]]></title>
+        <id>https://arxiv.org/abs/2604.08749</id>
+        <link href="https://arxiv.org/abs/2604.08749"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Buy Verified Skrill Accounts for Long Term Money from progmb]]></title>
-        <id>https://dev.to/rohid4223/how-to-buy-verified-skrill-accounts-for-long-term-money-from-progmb-542f</id>
-        <link href="https://dev.to/rohid4223/how-to-buy-verified-skrill-accounts-for-long-term-money-from-progmb-542f"/>
+        <title type="html"><![CDATA[IKKA: Inversion Classification via Critical Anomalies for Robust Visual Servoing]]></title>
+        <id>https://arxiv.org/abs/2604.08754</id>
+        <link href="https://arxiv.org/abs/2604.08754"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TinyPNG Alternative: Why Photographers Switch to SammaPix (2026)]]></title>
-        <id>https://dev.to/samma1997/tinypng-alternative-why-photographers-switch-to-sammapix-2026-15dh</id>
-        <link href="https://dev.to/samma1997/tinypng-alternative-why-photographers-switch-to-sammapix-2026-15dh"/>
+        <title type="html"><![CDATA[Alleviating Community Fear in Disasters via Multi-Agent Actor-Critic Reinforcement Learning]]></title>
+        <id>https://arxiv.org/abs/2604.08802</id>
+        <link href="https://arxiv.org/abs/2604.08802"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JVM vs V8: How Java and JavaScript Execution Works]]></title>
-        <id>https://dev.to/godinhojoao/jvm-vs-v8-how-java-and-javascript-execution-works-5hl0</id>
-        <link href="https://dev.to/godinhojoao/jvm-vs-v8-how-java-and-javascript-execution-works-5hl0"/>
+        <title type="html"><![CDATA[Smartwatch-Based Sitting Time Estimation in Real-World Office Settings]]></title>
+        <id>https://arxiv.org/abs/2604.08808</id>
+        <link href="https://arxiv.org/abs/2604.08808"/>
         <updated>2026-04-12T16:00:00.000Z</updated>
         <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Allow me to explain why I love this camera that can’t shoot color]]></title>
-        <id>https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review</id>
-        <link href="https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review"/>
-        <updated>2026-04-11T16:00:00.000Z</updated>
-        <published>2026-04-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Structural Evaluation Metrics for SVG Generation via Leave-One-Out Analysis]]></title>
+        <id>https://arxiv.org/abs/2604.08809</id>
+        <link href="https://arxiv.org/abs/2604.08809"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There’s a Secret Ingredient to Making Luxury Ice at Home]]></title>
-        <id>https://www.wired.com/story/secret-ingredient-to-making-luxury-ice-at-home/</id>
-        <link href="https://www.wired.com/story/secret-ingredient-to-making-luxury-ice-at-home/"/>
-        <updated>2026-04-11T16:00:00.000Z</updated>
-        <published>2026-04-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mammotion Spino E1 Review: A Budget Pool Bot That Comes Up Short]]></title>
-        <id>https://www.wired.com/review/mammotion-spino-e1-pool-robot/</id>
-        <link href="https://www.wired.com/review/mammotion-spino-e1-pool-robot/"/>
-        <updated>2026-04-11T16:00:00.000Z</updated>
-        <published>2026-04-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From LLMs to hallucinations, here’s a simple guide to common AI terms]]></title>
-        <id>https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</id>
-        <link href="https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"/>
-        <updated>2026-04-11T16:00:00.000Z</updated>
-        <published>2026-04-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok]]></title>
-        <id>https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/</id>
-        <link href="https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/"/>
-        <updated>2026-04-11T16:00:00.000Z</updated>
-        <published>2026-04-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Breaking Bad grand strategy browser game – pure JavaScript, no frameworks]]></title>
-        <id>https://breakingbadgame.com</id>
-        <link href="https://breakingbadgame.com"/>
-        <updated>2026-04-11T16:00:00.000Z</updated>
-        <published>2026-04-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Historical Java (2014)]]></title>
-        <id>https://www.sweharris.org/post/2014-02-28-java/</id>
-        <link href="https://www.sweharris.org/post/2014-02-28-java/"/>
-        <updated>2026-04-11T16:00:00.000Z</updated>
-        <published>2026-04-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suno, AI Music, and the Bad Future [video]]]></title>
-        <id>https://www.youtube.com/watch?v=U8dcFhF0Dlk</id>
-        <link href="https://www.youtube.com/watch?v=U8dcFhF0Dlk"/>
-        <updated>2026-04-11T16:00:00.000Z</updated>
-        <published>2026-04-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Post-Hoc Guidance for Consistency Models by Joint Flow Distribution Learning]]></title>
+        <id>https://arxiv.org/abs/2604.08828</id>
+        <link href="https://arxiv.org/abs/2604.08828"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <published>2026-04-12T16:00:00.000Z</published>
     </entry>
 </feed>
