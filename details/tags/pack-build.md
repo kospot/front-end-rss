@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-13 06:00:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-13 08:01:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -9,12 +9,12 @@
 
 - [2026-03-31-A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779) 
 - [2026-03-17-It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777) 
-- [2026-04-12-Vitest-Mocking:-vi.mock-vs-vi.spyOn-Explained](https://dev.to/maanu07/vitest-mocking-vimock-vs-vispyon-explained-19ho) 
-- [2026-04-12-Finally-found-a-way-to-stop-stressing-over-"npm-install"-security](https://dev.to/iasldfksdkfhdfkjlafa/finally-found-a-way-to-stop-stressing-over-npm-install-security-2139) 
-- [2026-04-12-pnpm-vs-npm-vs-Yarn-2026:-Which-Package-Manager-Should-You-Use?](https://dev.to/jake_kim_bd3065a6816799db/pnpm-vs-npm-vs-yarn-2026-which-package-manager-should-you-use-3673) 
 - [2026-04-12-Vite-is-fast,-but-it's-still-wasting-your-time.-🚩](https://dev.to/khaledmsalem/vite-is-fast-but-its-still-wasting-your-time-4ae9) 
-- [2026-04-11-I-Built-an-ESLint-Plugin-+-Zero-Config-CLI-That-Catches-AI-Generated-Code-Slop-1,137-Downloads-in-Days](https://dev.to/yashjadhav21/i-built-an-eslint-plugin-zero-config-cli-that-catches-ai-generated-code-slop-1137-downloads-in-4dkm) 
+- [2026-04-12-pnpm-vs-npm-vs-Yarn-2026:-Which-Package-Manager-Should-You-Use?](https://dev.to/jake_kim_bd3065a6816799db/pnpm-vs-npm-vs-yarn-2026-which-package-manager-should-you-use-3673) 
+- [2026-04-12-Finally-found-a-way-to-stop-stressing-over-"npm-install"-security](https://dev.to/iasldfksdkfhdfkjlafa/finally-found-a-way-to-stop-stressing-over-npm-install-security-2139) 
+- [2026-04-12-Vitest-Mocking:-vi.mock-vs-vi.spyOn-Explained](https://dev.to/maanu07/vitest-mocking-vimock-vs-vispyon-explained-19ho) 
 - [2026-04-11-Move-From-Vite-To-Ionify](https://dev.to/khaledmsalem/move-from-vite-to-ionify-4dj6) 
+- [2026-04-11-I-Built-an-ESLint-Plugin-+-Zero-Config-CLI-That-Catches-AI-Generated-Code-Slop-1,137-Downloads-in-Days](https://dev.to/yashjadhav21/i-built-an-eslint-plugin-zero-config-cli-that-catches-ai-generated-code-slop-1137-downloads-in-4dkm) 
 - [2026-04-11-eslint/eslint](https://github.com/eslint/eslint) 
 - [2026-04-11-webpack/webpack](https://github.com/webpack/webpack) 
 - [2026-04-11--I-Built-an-npm-Package-and-Tracked-Every-Download-for-Two-Weeks.-Here's-the-Data.-](

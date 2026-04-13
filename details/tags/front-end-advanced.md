@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-13 06:00:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-13 08:01:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -9,8 +9,8 @@
 
 - [2026-03-27-Presentations:-How-I-Made-Immer-Twice-as-Fast:-Performance-Optimization-in-Practice](https://blog.isquaredsoftware.com/2026/03/presentations-immer-perf/) 
 - [2026-04-13-Real-Time-Breath-Detection-in-the-Browser:-Spectral-Centroid,-Dual-Path-State-Machines,-and-a-Nasty-iOS-Bug](https://dev.to/felix_zeller_6f3c43a7513f/real-time-breath-detection-in-the-browser-spectral-centroid-dual-path-state-machines-and-a-nasty-56bb) 
-- [2026-04-11-Mastering-Your-Frontend-Build-with-Bazel:-Testing](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-testing-mlg) 
 - [2026-04-11-The-fastest-way-to-build-a-Telegram-Bot-natively](https://dev.to/apollo_ag/the-fastest-way-to-build-a-telegram-bot-natively-4j6g) 
+- [2026-04-11-Mastering-Your-Frontend-Build-with-Bazel:-Testing](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-testing-mlg) 
 - [2026-04-11--Bun-is-Fast.-Your-Event-Loop-is-Not.-](
 https://howtocenterdiv.com/beyond-the-div/bun-is-fast-your-event-loop-is-not
 ) 
@@ -166,8 +166,8 @@ https://howtocenterdiv.com/beyond-the-div/bun-is-fast-your-event-loop-is-not
 - [2026-03-23-Warm-Start-Flow-Matching-for-Guaranteed-Fast-Text/Image-Generation](https://arxiv.org/abs/2603.19360) 
 - [2026-04-06-Cleanup-Claude-Code-Paste](https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything) 
 - [2026-04-03-Highlights-from-my-conversation-about-agentic-engineering-on-Lenny's-Podcast](https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything) 
-- [2026-04-12-Run-Your-First-Local-LLM-in-10-Minutes,-No-GPU-Required](https://pub.towardsai.net/run-your-first-local-llm-in-10-minutes-no-gpu-required-35c49965dedb?source=rss----98111c9905da---4) 
 - [2026-04-12-Smaller.-Faster.-Better?-How-Gemma-4-Is-Outperforming-Bigger-AI-Models](https://pub.towardsai.net/smaller-faster-better-how-gemma-4-is-outperforming-bigger-ai-models-3e1c96c3941b?source=rss----98111c9905da---4) 
+- [2026-04-12-Run-Your-First-Local-LLM-in-10-Minutes,-No-GPU-Required](https://pub.towardsai.net/run-your-first-local-llm-in-10-minutes-no-gpu-required-35c49965dedb?source=rss----98111c9905da---4) 
 - [2026-04-11-Why-I-Spent-Years-Building-a-35,000-Prediction/s-Forecasting-Engine…](https://pub.towardsai.net/why-i-spent-years-building-a-35-000-prediction-s-forecasting-engine-1f08f63956f8?source=rss----98111c9905da---4) 
 - [2026-04-08-Claude-Code-Section-4:-Production-Mastery-—-7-Advanced-Workflows-That-Make-Claude-Code-a-True-Force…](https://pub.towardsai.net/claude-code-section-4-production-mastery-7-advanced-workflows-that-make-claude-code-a-true-force-1ca216915f1f?source=rss----98111c9905da---4) 
 - [2026-04-06-TurboQuant-Explained:-Extreme-AI-Compression-for-Faster,-Cheaper-LLM-Inference-and-Vector-Search](https://pub.towardsai.net/turboquant-explained-extreme-ai-compression-for-faster-cheaper-llm-inference-and-vector-search-91d1a7ae1f63?source=rss----98111c9905da---4) 
@@ -177,8 +177,8 @@ https://howtocenterdiv.com/beyond-the-div/bun-is-fast-your-event-loop-is-not
 - [2026-03-31-The-Smallest-Thing-in-PyTorch-Opens-Half-the-GPU-Stack](https://pub.towardsai.net/the-smallest-thing-in-pytorch-opens-half-the-gpu-stack-5775e137e8a9?source=rss----98111c9905da---4) 
 - [2026-03-30-Claude-Code-Certification-—-Exam-Prep:-Mastering-the-Customer-Support-Resolution-Agent-Scenario](https://pub.towardsai.net/claude-code-certification-exam-prep-mastering-the-customer-support-resolution-agent-scenario-5b82a086eaf8?source=rss----98111c9905da---4) 
 - [2026-03-29-I-Built-a-Breast-Cancer-Detection-System-End-to-End.](https://pub.towardsai.net/i-built-a-breast-cancer-detection-system-end-to-end-48402465aae9?source=rss----98111c9905da---4) 
-- [2026-03-26-Why-LightGBM-Trains-Faster-Than-XGBoost-And-When-It-Doesn’t](https://pub.towardsai.net/why-lightgbm-trains-faster-than-xgboost-and-when-it-doesnt-dbfd55e1d9cb?source=rss----98111c9905da---4) 
 - [2026-03-26-NVIDIA-Nemoclaw-+-OpenShell:-FASTEST-Way-to-Install](https://pub.towardsai.net/nvidia-nemoclaw-openshell-fastest-way-to-install-bbfb82b08ea7?source=rss----98111c9905da---4) 
+- [2026-03-26-Why-LightGBM-Trains-Faster-Than-XGBoost-And-When-It-Doesn’t](https://pub.towardsai.net/why-lightgbm-trains-faster-than-xgboost-and-when-it-doesnt-dbfd55e1d9cb?source=rss----98111c9905da---4) 
 - [2026-03-25-Why-My-PyTorch-Diffusion-Model-Was-Slow-—-and-How-I-Made-It-3×-Faster](https://pub.towardsai.net/why-my-pytorch-diffusion-model-was-slow-and-how-i-made-it-3-faster-1e3fe8bf0893?source=rss----98111c9905da---4) 
 - [2026-03-23-I-Built-an-AI-Podcast-That-Learns-What-You-Like-—-Here’s-Exactly-How-It-Works](https://pub.towardsai.net/i-built-an-ai-podcast-that-learns-what-you-like-heres-exactly-how-it-works-2d464c8d0704?source=rss----98111c9905da---4) 
 - [2026-03-22-The-AI-Sandbox:-Why-Kubernetes-Sandbox-is-the-Future-of-AI-Infrastructure](https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4) 

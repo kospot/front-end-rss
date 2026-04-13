@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-13 06:00:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-13 08:01:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -39,8 +39,8 @@ https://github.com/j9t/minifier-benchmarks
 - [2026-03-23-Integrating-Meta-Features-with-Knowledge-Graph-Embeddings-for-Meta-Learning](https://arxiv.org/abs/2603.19888) 
 - [2026-04-09-Meta's-new-model-is-Muse-Spark,-and-meta.ai-chat-has-some-interesting-tools](https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything) 
 - [2026-04-10-Is-Meta’s-Muse-Spark-Actually-Frontier-Level-AI,-or-Just-Benchmaxxing-Again?](https://pub.towardsai.net/is-metas-muse-spark-actually-frontier-level-ai-or-just-benchmaxxing-again-9297b13ddc54?source=rss----98111c9905da---4) 
-- [2026-04-01-Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4) 
 - [2026-04-01-How-Meta’s-TRIBE-v2-Predicts-Human-Brain-Activity-Using-AI](https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4) 
+- [2026-04-01-Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4) 
 - [2026-03-26-Meta-Just-Acqui-Hired-Its-4th-AI-Startup-in-4-Months.-Zuckerberg’s-Agent-Empire-Is-Taking-Shape.](https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4) 
 - [2026-04-13-Vitamin-C-inhibits-ACSL4-to-alleviate-ferro-aging-in-primates:-Cell-Metabolism](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00053-7) 
 - [2026-04-10-Show-HN:-Go-language-extension-with-HTML-templates](https://github.com/doors-dev/gox) 
