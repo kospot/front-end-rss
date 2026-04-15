@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-15 06:00:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-15 08:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 移动开发、Flutter相关
 
@@ -7,4 +7,5 @@
 
 
 
+- [2026-04-15-A-Shopping-List-PWA-That-Learns-Your-Frequently-Bought-Items](https://dev.to/sendotltd/a-shopping-list-pwa-that-learns-your-frequently-bought-items-2nng) 
 - [2026-03-23-Show-HN:-Aerko_-–-An-offline-first,-Vanilla-JavaScript-fitness-PWA-with-local-AI](https://github.com/SrPakura/AERKO_PWA) 
