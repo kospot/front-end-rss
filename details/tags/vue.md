@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-15 08:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-15 10:02:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -7,6 +7,8 @@
 
 
 
+- [2026-04-15-Vue-Router-Testing-Strategies](https://dev.to/focused_dot_io/vue-router-testing-strategies-1ldn) 
+- [2026-04-15-Add-Keyboard-Shortcuts-to-Your-Vue-App-⌨️](https://dev.to/focused_dot_io/add-keyboard-shortcuts-to-your-vue-app-bn9) 
 - [2026-04-13-The-Hidden-Cost-of-‘Reusable-Components’-in-Vue](https://dev.to/livecodebase/the-hidden-cost-of-reusable-components-in-vue-4mce) 
 - [2026-04-11-Stop-Adding-Components-for-Everything-—-Try-This-Instead-Vue](https://dev.to/buxee/stop-adding-components-for-everything-try-this-instead-vue-1lgd) 
 - [2026-04-14--New-Vue-UI-components-from-SVAR:-30+-controls,-edit-forms,-and-filtering-widgets-](
