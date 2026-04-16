@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-16 18:02:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-16 21:02:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -10,33 +10,33 @@
 - [2026-04-09-Social-engineering-attacks-target-high-impact-Node.js-maintainers](https://nodeweekly.com/issues/619) 
 - [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618) 
 - [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616) 
-- [2026-04-16-How-We-Built-an-Expression-Engine-Inside-Image-Templates](https://dev.to/suyashthakur/how-we-built-an-expression-engine-inside-image-templates-20nl) 
-- [2026-04-16-TLS-in-Node.js-Is-a-Black-Box---Here's-an-Open-One](https://dev.to/colocohen/tls-in-nodejs-is-a-black-box-heres-an-open-one-38ik) 
-- [2026-04-16-Add-HTTP/3-to-Your-Node.js-App](https://dev.to/colocohen/add-http3-to-your-nodejs-app-48l3) 
-- [2026-04-16-Stop-Using-Certbot.-Manage-SSL-Certificates-From-Your-Node.js-Code.](https://dev.to/colocohen/stop-using-certbot-manage-ssl-certificates-from-your-nodejs-code-32i1) 
-- [2026-04-16-Building-a-voice-activated-AI-assistant-with-Node.js-and-Claude-API](https://dev.to/subprime2010/building-a-voice-activated-ai-assistant-with-nodejs-and-claude-api-4ip4) 
-- [2026-04-16-Node.js-Graceful-Shutdown:-Stop-Dropping-Requests-in-Production](https://dev.to/benriemer/nodejs-graceful-shutdown-stop-dropping-requests-in-production-1ph2) 
 - [2026-04-16-Node.js-Graceful-Shutdown:-How-to-Stop-Dropping-Requests-in-Production](https://dev.to/benriemer/nodejs-graceful-shutdown-how-to-stop-dropping-requests-in-production-1jg6) 
+- [2026-04-16-Node.js-Graceful-Shutdown:-Stop-Dropping-Requests-in-Production](https://dev.to/benriemer/nodejs-graceful-shutdown-stop-dropping-requests-in-production-1ph2) 
+- [2026-04-16-Building-a-voice-activated-AI-assistant-with-Node.js-and-Claude-API](https://dev.to/subprime2010/building-a-voice-activated-ai-assistant-with-nodejs-and-claude-api-4ip4) 
+- [2026-04-16-Stop-Using-Certbot.-Manage-SSL-Certificates-From-Your-Node.js-Code.](https://dev.to/colocohen/stop-using-certbot-manage-ssl-certificates-from-your-nodejs-code-32i1) 
+- [2026-04-16-Add-HTTP/3-to-Your-Node.js-App](https://dev.to/colocohen/add-http3-to-your-nodejs-app-48l3) 
+- [2026-04-16-TLS-in-Node.js-Is-a-Black-Box---Here's-an-Open-One](https://dev.to/colocohen/tls-in-nodejs-is-a-black-box-heres-an-open-one-38ik) 
+- [2026-04-16-How-We-Built-an-Expression-Engine-Inside-Image-Templates](https://dev.to/suyashthakur/how-we-built-an-expression-engine-inside-image-templates-20nl) 
 - [2026-04-15-I-replaced-Puppeteer-with-a-Zig-engine-and-went-from-18-to-17,000-PDFs-per-second](https://dev.to/johnsoto90/i-replaced-puppeteer-with-a-zig-engine-and-went-from-18-to-17000-pdfs-per-second-3ga5) 
-- [2026-04-13-JVM-vs-V8:-How-Java-and-JavaScript-Execution-Works](https://dev.to/godinhojoao/jvm-vs-v8-how-java-and-javascript-execution-works-5hl0) 
 - [2026-04-13-We-Ran-Four-Security-Tools-Against-Express.js.-They-Found-Each-Other's-Proof.](https://dev.to/copyleftdev/we-ran-four-security-tools-against-expressjs-they-found-each-others-proof-34ah) 
-- [2026-04-12-I-Spent-3-Hours-Adding-Antivirus-to-My-Express-App.-Then-I-Reduced-It-to-3-Lines.](https://dev.to/sonotommy/i-spent-3-hours-adding-antivirus-to-my-express-app-then-i-reduced-it-to-3-lines-2dm7) 
-- [2026-04-12-How-I-Built-a-Full-Stack-Car-Rental-Platform-in-Moldova-with-Node.js,-Supabase-&amp;-Vercel](https://dev.to/bostan/how-i-built-a-full-stack-car-rental-platform-in-moldova-with-nodejs-supabase-vercel-2c9m) 
-- [2026-04-12-How-I-Built-a-Real-Time-Trading-Automation-Engine-with-Node.js](https://dev.to/cvchelles/how-i-built-a-real-time-trading-automation-engine-with-nodejs-46h7) 
+- [2026-04-13-JVM-vs-V8:-How-Java-and-JavaScript-Execution-Works](https://dev.to/godinhojoao/jvm-vs-v8-how-java-and-javascript-execution-works-5hl0) 
 - [2026-04-12-Bun-1.x-in-Production:-What-Every-Node.js-Developer-Needs-to-Know](https://dev.to/whoffagents/bun-1x-in-production-what-every-nodejs-developer-needs-to-know-4hh6) 
-- [2026-04-11-When-Your-Node.js-App-Works-Locally-but-Fails-on-a-VPS](https://dev.to/nixx/when-your-nodejs-app-works-locally-but-fails-on-a-vps-3nd6) 
-- [2026-04-11-Node.jsJavaScript-Memory-Leak-Bellek-Sızıntısı-Tespiti-ve-Önleme](https://dev.to/forumweb/nodejsjavascript-memory-leak-bellek-sizintisi-tespiti-ve-onleme-5235) 
+- [2026-04-12-How-I-Built-a-Real-Time-Trading-Automation-Engine-with-Node.js](https://dev.to/cvchelles/how-i-built-a-real-time-trading-automation-engine-with-nodejs-46h7) 
+- [2026-04-12-How-I-Built-a-Full-Stack-Car-Rental-Platform-in-Moldova-with-Node.js,-Supabase-&amp;-Vercel](https://dev.to/bostan/how-i-built-a-full-stack-car-rental-platform-in-moldova-with-nodejs-supabase-vercel-2c9m) 
+- [2026-04-12-I-Spent-3-Hours-Adding-Antivirus-to-My-Express-App.-Then-I-Reduced-It-to-3-Lines.](https://dev.to/sonotommy/i-spent-3-hours-adding-antivirus-to-my-express-app-then-i-reduced-it-to-3-lines-2dm7) 
 - [2026-04-11-Node.jsCallback-Pattern-Geri-Çağırma-Fonksiyonları-Kullanım-Rehberi](https://dev.to/forumweb/nodejscallback-pattern-geri-cagirma-fonksiyonlari-kullanim-rehberi-h03) 
+- [2026-04-11-Node.jsJavaScript-Memory-Leak-Bellek-Sızıntısı-Tespiti-ve-Önleme](https://dev.to/forumweb/nodejsjavascript-memory-leak-bellek-sizintisi-tespiti-ve-onleme-5235) 
+- [2026-04-11-When-Your-Node.js-App-Works-Locally-but-Fails-on-a-VPS](https://dev.to/nixx/when-your-nodejs-app-works-locally-but-fails-on-a-vps-3nd6) 
 - [2026-04-12--A-minimal-Node.js-wrapper-around-ClamAV-that-scans-any-file-and-returns-a-plain-string:-Clean,-Malicious,-or-ScanError.-](
 https://pompelmi.app/index.html
-) 
-- [2026-04-11-nodejs/node](https://github.com/nodejs/node) 
-- [2026-04-11--Why-Node.js-Needs-A-Virtual-File-System-](
-https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system
 ) 
 - [2026-04-11--I-Scanned-6-Popular-Node.js-Repos-for-Undocumented-Environment-Variables.-Here's-What-I-Found.-](
 https://dev.to/ckmtools/i-scanned-6-popular-nodejs-repos-for-undocumented-environment-variables-heres-what-i-found-5478
 ) 
+- [2026-04-11--Why-Node.js-Needs-A-Virtual-File-System-](
+https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system
+) 
+- [2026-04-11-nodejs/node](https://github.com/nodejs/node) 
 - [2026-04-16-Mitigating-Barren-Plateaus-in-Quantum-Denoising-Diffusion-Probabilistic-Model](https://arxiv.org/abs/2512.06695) 
 - [2026-04-16-node2vec-or-triangle-biased-random-walks:-stationarity,-regularity-&amp;-recurrence](https://arxiv.org/abs/2604.13681) 
 - [2026-04-16-PRiMeFlow:-Capturing-Complex-Expression-Heterogeneity-in-Perturbation-Response-Modelling](https://arxiv.org/abs/2604.13986) 
@@ -107,6 +107,7 @@ https://dev.to/ckmtools/i-scanned-6-popular-nodejs-repos-for-undocumented-enviro
 - [2026-03-23-KoALA:-KL-L0-Adversarial-Detector-via-Label-Agreement](https://arxiv.org/abs/2510.12752) 
 - [2026-03-23-FNODE:-Flow-Matching-for-data-driven-simulation-of-constrained-multibody-systems](https://arxiv.org/abs/2509.00183) 
 - [2026-03-23-Evaluating-Test-Time-Adaptation-For-Facial-Expression-Recognition-Under-Natural-Cross-Dataset-Distribution-Shifts](https://arxiv.org/abs/2603.19994) 
+- [2026-04-16-IPv6-Has-Failed:-Meet-IPv8-–-IPv4,-but-Better](https://medium.com/asecuritysite-when-bob-met-alice/meet-ipv8-ipv4-but-better-cb5c18180863) 
 - [2026-04-12-Why-the-Grand-Paris-Express-Is-Europes-Biggest-Infrastructure-Project-video](https://www.youtube.com/watch?v=c_iuctRkmp0) 
 - [2026-04-09-Eve:-Expressive-Vector-Engine-–-SIMD-in-C++-Goes-Brrrr](https://github.com/jfalcou/eve) 
 - [2026-04-08-Ask-HN:-My-Mac-decided-out-of-the-blue-to-delete-Node.-Why?](https://news.ycombinator.com/item?id=47682659) 
