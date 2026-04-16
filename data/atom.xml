@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-16T00:01:54.904Z</updated>
+    <updated>2026-04-16T02:01:30.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -113,107 +113,37 @@
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebODM – Free and open source drone mapping software]]></title>
-        <id>https://webodm.org</id>
-        <link href="https://webodm.org"/>
+        <title type="html"><![CDATA[Fibroblasts of disparate developmental origins harbor scarring potential]]></title>
+        <id>https://www.cell.com/cell/abstract/S0092-8674(25)01427-8</id>
+        <link href="https://www.cell.com/cell/abstract/S0092-8674(25)01427-8"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tirith – Track your AI API spend with one CLI import]]></title>
-        <id>https://github.com/joedaviesio/tirith</id>
-        <link href="https://github.com/joedaviesio/tirith"/>
+        <title type="html"><![CDATA[Show HN: Object Storage Comparisons]]></title>
+        <id>https://storage.mixpeek.com</id>
+        <link href="https://storage.mixpeek.com"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: The RUM Conjecture Explained [video]]]></title>
-        <id>https://www.youtube.com/watch?v=DGoI6T3SGfY</id>
-        <link href="https://www.youtube.com/watch?v=DGoI6T3SGfY"/>
+        <title type="html"><![CDATA[Show HN: Flint – A 30B model fine-tuned for less repetition]]></title>
+        <id>https://springboards.ai/models/flint-alpha</id>
+        <link href="https://springboards.ai/models/flint-alpha"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon worker dies on warehouse floor. Workers told to keep going]]></title>
-        <id>https://finance.yahoo.com/sectors/healthcare/articles/just-dont-look-amazon-worker-170000180.html</id>
-        <link href="https://finance.yahoo.com/sectors/healthcare/articles/just-dont-look-amazon-worker-170000180.html"/>
+        <title type="html"><![CDATA[Pico.css v2.2.0-beta released [community fork]]]></title>
+        <id>https://github.com/anyblades/pico</id>
+        <link href="https://github.com/anyblades/pico"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zappa: An AI Powered Mitmproxy]]></title>
-        <id>https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html</id>
-        <link href="https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TruffleRuby 34: Ruby 3.4 Compatibility, 23% Faster Parsing, New 20x Faster]]></title>
-        <id>https://truffleruby.dev/blog/truffleruby-34-is-released</id>
-        <link href="https://truffleruby.dev/blog/truffleruby-34-is-released"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Hodgepodge Images]]></title>
-        <id>https://www.chainguard.dev/unchained/docker-hodgepodge-images</id>
-        <link href="https://www.chainguard.dev/unchained/docker-hodgepodge-images"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch: Faster, smarter AI audio conversion]]></title>
-        <id>https://www.nch.com.au/pad/switch.xml</id>
-        <link href="https://www.nch.com.au/pad/switch.xml"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Made a tool where "make it feel like cold metal" is a valid instruction]]></title>
-        <id>https://cast.bsct.so/</id>
-        <link href="https://cast.bsct.so/"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monkey selfie will protect you from AI slop]]></title>
-        <id>https://www.bbc.com/future/article/20260414-the-monkey-selfie-that-predicted-the-ai-age</id>
-        <link href="https://www.bbc.com/future/article/20260414-the-monkey-selfie-that-predicted-the-ai-age"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solid-state EV batteries are coming sooner than expected after breakthrough]]></title>
-        <id>https://electrek.co/2026/04/15/solid-state-ev-batteries-coming-sooner-than-expected/</id>
-        <link href="https://electrek.co/2026/04/15/solid-state-ev-batteries-coming-sooner-than-expected/"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fiverr denies leak of sensitive documents]]></title>
-        <id>https://xcancel.com/fiverr/status/2044389801495773339</id>
-        <link href="https://xcancel.com/fiverr/status/2044389801495773339"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My AI Filmmaking Workflow: Kling, Veo and Nano Banana [video]]]></title>
-        <id>https://www.youtube.com/watch?v=31GR1pXlB1g</id>
-        <link href="https://www.youtube.com/watch?v=31GR1pXlB1g"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot rate limits Pro Users]]></title>
-        <id>https://github.com/orgs/community/discussions/180092</id>
-        <link href="https://github.com/orgs/community/discussions/180092"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glydways – SF startup (autonomous pod) raises $170M Series C]]></title>
-        <id>https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/</id>
-        <link href="https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/"/>
+        <title type="html"><![CDATA[Query LLMs like a graph database [video]]]></title>
+        <id>https://www.youtube.com/watch?v=8Ppw8254nLI</id>
+        <link href="https://www.youtube.com/watch?v=8Ppw8254nLI"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
@@ -225,9 +155,114 @@
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 4 Multilingual Model Capabilities: How AI Speaks 100+ Languages Without Learning Each…]]></title>
-        <id>https://pub.towardsai.net/the-4-multilingual-model-capabilities-how-ai-speaks-100-languages-without-learning-each-f5092e724b32?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-4-multilingual-model-capabilities-how-ai-speaks-100-languages-without-learning-each-f5092e724b32?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Glydways – SF startup (autonomous pod) raises $170M Series C]]></title>
+        <id>https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/</id>
+        <link href="https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot rate limits Pro Users]]></title>
+        <id>https://github.com/orgs/community/discussions/180092</id>
+        <link href="https://github.com/orgs/community/discussions/180092"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My AI Filmmaking Workflow: Kling, Veo and Nano Banana [video]]]></title>
+        <id>https://www.youtube.com/watch?v=31GR1pXlB1g</id>
+        <link href="https://www.youtube.com/watch?v=31GR1pXlB1g"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fiverr denies leak of sensitive documents]]></title>
+        <id>https://xcancel.com/fiverr/status/2044389801495773339</id>
+        <link href="https://xcancel.com/fiverr/status/2044389801495773339"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solid-state EV batteries are coming sooner than expected after breakthrough]]></title>
+        <id>https://electrek.co/2026/04/15/solid-state-ev-batteries-coming-sooner-than-expected/</id>
+        <link href="https://electrek.co/2026/04/15/solid-state-ev-batteries-coming-sooner-than-expected/"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monkey selfie will protect you from AI slop]]></title>
+        <id>https://www.bbc.com/future/article/20260414-the-monkey-selfie-that-predicted-the-ai-age</id>
+        <link href="https://www.bbc.com/future/article/20260414-the-monkey-selfie-that-predicted-the-ai-age"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Made a tool where "make it feel like cold metal" is a valid instruction]]></title>
+        <id>https://cast.bsct.so/</id>
+        <link href="https://cast.bsct.so/"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch: Faster, smarter AI audio conversion]]></title>
+        <id>https://www.nch.com.au/pad/switch.xml</id>
+        <link href="https://www.nch.com.au/pad/switch.xml"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Hodgepodge Images]]></title>
+        <id>https://www.chainguard.dev/unchained/docker-hodgepodge-images</id>
+        <link href="https://www.chainguard.dev/unchained/docker-hodgepodge-images"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TruffleRuby 34: Ruby 3.4 Compatibility, 23% Faster Parsing, New 20x Faster]]></title>
+        <id>https://truffleruby.dev/blog/truffleruby-34-is-released</id>
+        <link href="https://truffleruby.dev/blog/truffleruby-34-is-released"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zappa: An AI Powered Mitmproxy]]></title>
+        <id>https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html</id>
+        <link href="https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon worker dies on warehouse floor. Workers told to keep going]]></title>
+        <id>https://finance.yahoo.com/sectors/healthcare/articles/just-dont-look-amazon-worker-170000180.html</id>
+        <link href="https://finance.yahoo.com/sectors/healthcare/articles/just-dont-look-amazon-worker-170000180.html"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: The RUM Conjecture Explained [video]]]></title>
+        <id>https://www.youtube.com/watch?v=DGoI6T3SGfY</id>
+        <link href="https://www.youtube.com/watch?v=DGoI6T3SGfY"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tirith – Track your AI API spend with one CLI import]]></title>
+        <id>https://github.com/joedaviesio/tirith</id>
+        <link href="https://github.com/joedaviesio/tirith"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebODM – Free and open source drone mapping software]]></title>
+        <id>https://webodm.org</id>
+        <link href="https://webodm.org"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run 32B Models on Your Mac With 5x Less Memory: Google’s TurboQuant Hits Apple Silicon]]></title>
+        <id>https://pub.towardsai.net/run-32b-models-on-your-mac-with-5x-less-memory-googles-turboquant-hits-apple-silicon-ad59f9292d1c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/run-32b-models-on-your-mac-with-5x-less-memory-googles-turboquant-hits-apple-silicon-ad59f9292d1c?source=rss----98111c9905da---4"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
@@ -239,9 +274,23 @@
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Run 32B Models on Your Mac With 5x Less Memory: Google’s TurboQuant Hits Apple Silicon]]></title>
-        <id>https://pub.towardsai.net/run-32b-models-on-your-mac-with-5x-less-memory-googles-turboquant-hits-apple-silicon-ad59f9292d1c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/run-32b-models-on-your-mac-with-5x-less-memory-googles-turboquant-hits-apple-silicon-ad59f9292d1c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The 4 Multilingual Model Capabilities: How AI Speaks 100+ Languages Without Learning Each…]]></title>
+        <id>https://pub.towardsai.net/the-4-multilingual-model-capabilities-how-ai-speaks-100-languages-without-learning-each-f5092e724b32?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-4-multilingual-model-capabilities-how-ai-speaks-100-languages-without-learning-each-f5092e724b32?source=rss----98111c9905da---4"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[datasette.io news preview]]></title>
+        <id>https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything"/>
+        <updated>2026-04-15T16:00:00.000Z</updated>
+        <published>2026-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[datasette-export-database 0.3a1]]></title>
+        <id>https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
@@ -273,100 +322,51 @@ https://dev.to/subito/letting-product-teams-own-svg-icons-without-code-changes-5
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's New in ASP.NET Core (.NET 11): Zstandard, HTTP/3, Virtualize & More]]></title>
-        <id>https://dev.to/vikrant_bagal_afae3e25ca7/whats-new-in-aspnet-core-net-11-zstandard-http3-virtualize-more-1h9h</id>
-        <link href="https://dev.to/vikrant_bagal_afae3e25ca7/whats-new-in-aspnet-core-net-11-zstandard-http3-virtualize-more-1h9h"/>
+        <title type="html"><![CDATA[Implementing a JavaScript-Based Virtual Machine]]></title>
+        <id>https://dev.to/omriluz1/implementing-a-javascript-based-virtual-machine-22kb</id>
+        <link href="https://dev.to/omriluz1/implementing-a-javascript-based-virtual-machine-22kb"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Fastest Way to Add SEO Keyword Extraction to Any App]]></title>
-        <id>https://dev.to/apollo_ag/the-fastest-way-to-add-seo-keyword-extraction-to-any-app-12o6</id>
-        <link href="https://dev.to/apollo_ag/the-fastest-way-to-add-seo-keyword-extraction-to-any-app-12o6"/>
+        <title type="html"><![CDATA[Signals in Vue (I): A Minimal Bridge to the Composition API]]></title>
+        <id>https://dev.to/luciano0322/signals-in-vue-i-a-minimal-bridge-to-the-composition-api-45cf</id>
+        <link href="https://dev.to/luciano0322/signals-in-vue-i-a-minimal-bridge-to-the-composition-api-45cf"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a trading intelligence MCP server in 2 days — here's how]]></title>
-        <id>https://dev.to/nikunjdoshi/i-built-a-trading-intelligence-mcp-server-in-2-days-heres-how-13m9</id>
-        <link href="https://dev.to/nikunjdoshi/i-built-a-trading-intelligence-mcp-server-in-2-days-heres-how-13m9"/>
+        <title type="html"><![CDATA[TLS in Node.js Is a Black Box - Here's an Open One]]></title>
+        <id>https://dev.to/colocohen/tls-in-nodejs-is-a-black-box-heres-an-open-one-38ik</id>
+        <link href="https://dev.to/colocohen/tls-in-nodejs-is-a-black-box-heres-an-open-one-38ik"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js 14 Server Actions: The Patterns Junior Devs Always Get Wrong]]></title>
-        <id>https://dev.to/apollo_ag/nextjs-14-server-actions-the-patterns-junior-devs-always-get-wrong-25ka</id>
-        <link href="https://dev.to/apollo_ag/nextjs-14-server-actions-the-patterns-junior-devs-always-get-wrong-25ka"/>
+        <title type="html"><![CDATA[Add HTTP/3 to Your Node.js App]]></title>
+        <id>https://dev.to/colocohen/add-http3-to-your-nodejs-app-48l3</id>
+        <link href="https://dev.to/colocohen/add-http3-to-your-nodejs-app-48l3"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Monte Carlo Stock Simulator on a Restricted School Chromebook]]></title>
-        <id>https://dev.to/enshuo/building-a-monte-carlo-stock-simulator-on-a-restricted-school-chromebook-1182</id>
-        <link href="https://dev.to/enshuo/building-a-monte-carlo-stock-simulator-on-a-restricted-school-chromebook-1182"/>
+        <title type="html"><![CDATA[WebRTC Works Great in Demos. In Production, It Falls Apart. Here's the Fix.]]></title>
+        <id>https://dev.to/colocohen/webrtc-works-great-in-demos-in-production-it-falls-apart-heres-the-fix-f9h</id>
+        <link href="https://dev.to/colocohen/webrtc-works-great-in-demos-in-production-it-falls-apart-heres-the-fix-f9h"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a voice-activated AI assistant with Node.js and Claude API]]></title>
-        <id>https://dev.to/subprime2010/building-a-voice-activated-ai-assistant-with-nodejs-and-claude-api-4ip4</id>
-        <link href="https://dev.to/subprime2010/building-a-voice-activated-ai-assistant-with-nodejs-and-claude-api-4ip4"/>
+        <title type="html"><![CDATA[Stop Using Certbot. Manage SSL Certificates From Your Node.js Code.]]></title>
+        <id>https://dev.to/colocohen/stop-using-certbot-manage-ssl-certificates-from-your-nodejs-code-32i1</id>
+        <link href="https://dev.to/colocohen/stop-using-certbot-manage-ssl-certificates-from-your-nodejs-code-32i1"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["GitHub Copilot vs Claude vs ChatGPT — Which Helps You Code Faster?"]]></title>
-        <id>https://dev.to/devraj_singh7/github-copilot-vs-claude-vs-chatgpt-which-helps-you-code-faster-53gj</id>
-        <link href="https://dev.to/devraj_singh7/github-copilot-vs-claude-vs-chatgpt-which-helps-you-code-faster-53gj"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a Vertical Area Chart with JavaScript: 80+ Years of U.S. Presidential Approval Data]]></title>
-        <id>https://dev.to/anychart/creating-a-vertical-area-chart-with-javascript-80-years-of-us-presidential-approval-data-ei5</id>
-        <link href="https://dev.to/anychart/creating-a-vertical-area-chart-with-javascript-80-years-of-us-presidential-approval-data-ei5"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Javascript Array iteration methods]]></title>
-        <id>https://dev.to/mohandassmani/javascript-array-iteration-methods-n6e</id>
-        <link href="https://dev.to/mohandassmani/javascript-array-iteration-methods-n6e"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Array iteration methods in javascript]]></title>
-        <id>https://dev.to/praveenkumarpraveen/array-iteration-methods-in-javascript-49ea</id>
-        <link href="https://dev.to/praveenkumarpraveen/array-iteration-methods-in-javascript-49ea"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Writing Regex to Parse Social Media URLs (Build a Universal Parser)]]></title>
-        <id>https://dev.to/olams/stop-writing-regex-to-parse-social-media-urls-build-a-universal-parser-2d24</id>
-        <link href="https://dev.to/olams/stop-writing-regex-to-parse-social-media-urls-build-a-universal-parser-2d24"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Yahoo Account Guide: Understanding Trust.....]]></title>
-        <id>https://dev.to/tabbithachisolm1t0a3/buy-yahoo-account-guide-understanding-trust-3d8a</id>
-        <link href="https://dev.to/tabbithachisolm1t0a3/buy-yahoo-account-guide-understanding-trust-3d8a"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Free ExerciseDB Alternative (1,300+ Exercises with GIF Animations)]]></title>
-        <id>https://dev.to/furkanuruk/i-built-a-free-exercisedb-alternative-1300-exercises-with-gif-animations-5868</id>
-        <link href="https://dev.to/furkanuruk/i-built-a-free-exercisedb-alternative-1300-exercises-with-gif-animations-5868"/>
-        <updated>2026-04-15T16:00:00.000Z</updated>
-        <published>2026-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Mejor Librería de Toast Notifications para React.js]]></title>
-        <id>https://dev.to/urian121/la-mejor-libreria-de-toast-notifications-para-reactjs-49cl</id>
-        <link href="https://dev.to/urian121/la-mejor-libreria-de-toast-notifications-para-reactjs-49cl"/>
+        <title type="html"><![CDATA[The fastest way to build a Telegram Bot natively]]></title>
+        <id>https://dev.to/apollo_ag/the-fastest-way-to-build-a-telegram-bot-natively-kjh</id>
+        <link href="https://dev.to/apollo_ag/the-fastest-way-to-build-a-telegram-bot-natively-kjh"/>
         <updated>2026-04-15T16:00:00.000Z</updated>
         <published>2026-04-15T16:00:00.000Z</published>
     </entry>
