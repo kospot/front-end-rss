@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-17 18:02:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-17 21:02:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -8,8 +8,8 @@
 
 
 - [2026-04-16-Signals-in-Vue-I:-A-Minimal-Bridge-to-the-Composition-API](https://dev.to/luciano0322/signals-in-vue-i-a-minimal-bridge-to-the-composition-api-45cf) 
-- [2026-04-15-Add-Keyboard-Shortcuts-to-Your-Vue-App-⌨️](https://dev.to/focused_dot_io/add-keyboard-shortcuts-to-your-vue-app-bn9) 
 - [2026-04-15-Vue-Router-Testing-Strategies](https://dev.to/focused_dot_io/vue-router-testing-strategies-1ldn) 
+- [2026-04-15-Add-Keyboard-Shortcuts-to-Your-Vue-App-⌨️](https://dev.to/focused_dot_io/add-keyboard-shortcuts-to-your-vue-app-bn9) 
 - [2026-04-13-The-Hidden-Cost-of-‘Reusable-Components’-in-Vue](https://dev.to/livecodebase/the-hidden-cost-of-reusable-components-in-vue-4mce) 
 - [2026-04-11-Stop-Adding-Components-for-Everything-—-Try-This-Instead-Vue](https://dev.to/buxee/stop-adding-components-for-everything-try-this-instead-vue-1lgd) 
 - [2026-04-14--New-Vue-UI-components-from-SVAR:-30+-controls,-edit-forms,-and-filtering-widgets-](
@@ -30,3 +30,4 @@ https://svar.dev/blog/svar-vue-components-released/
 - [2026-03-24-Advantage-Shaping-as-Surrogate-Reward-Maximization:-Unifying-Pass@K-Policy-Gradients](https://arxiv.org/abs/2510.23049) 
 - [2026-04-17-We're-AvantiRMG-–-helping-practices-profit-and-increase-revenue](https://avantirmg.com/) 
 - [2026-04-16-Iran-war's-global-energy-crisis-sharpens-China's-clean-tech-advantage](https://english.kyodonews.net/articles/-/74214) 
+- [2026-04-17-Coolfly-Aura-Review:-More-Angles,-Fewer-Advantages](https://www.wired.com/review/coolfly-aura-smart-bird-feeder/) 
