@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-18T04:01:47.567Z</updated>
+    <updated>2026-04-18T07:04:32.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,13 +29,6 @@
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.]]></title>
-        <id>https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/</id>
-        <link href="https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘Tokenmaxxing’ is making developers less productive than they think]]></title>
         <id>https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/</id>
         <link href="https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/"/>
@@ -43,142 +36,72 @@
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump's 'Triumphal Arch' Is Vastly Larger Than Other Washington Monuments]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-04-16/trump-s-triumphal-arch-takes-a-step-toward-approval-in-dc</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-04-16/trump-s-triumphal-arch-takes-a-step-toward-approval-in-dc"/>
+        <title type="html"><![CDATA[Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.]]></title>
+        <id>https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/</id>
+        <link href="https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A story about how I dug into the PostgreSQL sources to write my own WAL receiver]]></title>
-        <id>https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25</id>
-        <link href="https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25"/>
+        <title type="html"><![CDATA[Show HN: PrivaKit – A zero-upload AI workspace in the browser via WebGPU]]></title>
+        <id>https://news.ycombinator.com/item?id=47813703</id>
+        <link href="https://news.ycombinator.com/item?id=47813703"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG]]></title>
-        <id>https://github.com/yapstudios/sfsym</id>
-        <link href="https://github.com/yapstudios/sfsym"/>
+        <title type="html"><![CDATA[Meta prepares to lay off a tenth of its workforce]]></title>
+        <id>https://www.thetimes.com/us/business-us/article/meta-prepares-to-lay-off-a-tenth-of-its-workforce-flz9fklqj</id>
+        <link href="https://www.thetimes.com/us/business-us/article/meta-prepares-to-lay-off-a-tenth-of-its-workforce-flz9fklqj"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ohio's nursing homes are dumping patients at homeless shelters]]></title>
-        <id>https://apnews.com/article/ohio-nursing-home-patients-homeless-shelters-9c000eeddc9c9411f44fd605fafc6771</id>
-        <link href="https://apnews.com/article/ohio-nursing-home-patients-homeless-shelters-9c000eeddc9c9411f44fd605fafc6771"/>
+        <title type="html"><![CDATA[Three meningitis B cases confirmed in Dorset schools outbreak]]></title>
+        <id>https://www.thetimes.com/uk/healthcare/article/meningitis-outbreak-dorset-p8gsjrvx7</id>
+        <link href="https://www.thetimes.com/uk/healthcare/article/meningitis-outbreak-dorset-p8gsjrvx7"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There is no you in your brain – your identity is a "society of the mind"]]></title>
-        <id>https://bigthink.com/books/our-brains-our-selves/</id>
-        <link href="https://bigthink.com/books/our-brains-our-selves/"/>
+        <title type="html"><![CDATA[Display-switch: Turn a $30 USB switch into a full-featured KVM]]></title>
+        <id>https://github.com/haimgel/display-switch</id>
+        <link href="https://github.com/haimgel/display-switch"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can a browser with user and clickbait queries protect from the attention economy]]></title>
-        <id>https://news.ycombinator.com/item?id=47811800</id>
-        <link href="https://news.ycombinator.com/item?id=47811800"/>
+        <title type="html"><![CDATA[Interesting Map Geometry and Mathematics]]></title>
+        <id>https://www.markrjohnsongames.com/2026/04/11/ultima-ratio-regum-0-11-update-57-interesting-map-geometry-and-mathematics/</id>
+        <link href="https://www.markrjohnsongames.com/2026/04/11/ultima-ratio-regum-0-11-update-57-interesting-map-geometry-and-mathematics/"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[John Wick, Madara Uchiha, characters that take on entire armies by themselves]]></title>
-        <id>https://www.juanmanarmy.com/</id>
-        <link href="https://www.juanmanarmy.com/"/>
+        <title type="html"><![CDATA[Why Companies Are Quietly Rehiring Software Engineers]]></title>
+        <id>https://www.youtube.com/watch?v=OFmxKgaLN80</id>
+        <link href="https://www.youtube.com/watch?v=OFmxKgaLN80"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shuttered startups are selling old Slack chats and emails to AI companies]]></title>
-        <id>https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies</id>
-        <link href="https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies"/>
+        <title type="html"><![CDATA[Proboscis monkey found in Thailand is evidence of cross-border illegal trade]]></title>
+        <id>https://news.mongabay.com/2026/03/proboscis-monkey-found-in-thailand-adds-to-evidence-of-cross-border-illegal-trade/</id>
+        <link href="https://news.mongabay.com/2026/03/proboscis-monkey-found-in-thailand-adds-to-evidence-of-cross-border-illegal-trade/"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OSS code review, in the era of LLMs]]></title>
-        <id>https://blog.ezyang.com/2026/04/oss-code-review-in-the-era-of-llms/</id>
-        <link href="https://blog.ezyang.com/2026/04/oss-code-review-in-the-era-of-llms/"/>
+        <title type="html"><![CDATA[Building Pi in a World of Slop – Mario Zechner [video]]]></title>
+        <id>https://www.youtube.com/watch?v=RjfbvDXpFls</id>
+        <link href="https://www.youtube.com/watch?v=RjfbvDXpFls"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free tool for WebP and SVG optimization. Privat data]]></title>
-        <id>https://axiomoverclock.ca/</id>
-        <link href="https://axiomoverclock.ca/"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A private space company has a new plan to bag an asteroid]]></title>
-        <id>https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/</id>
-        <link href="https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Buick GNX Merged with an El Camino to Create This 470-HP Masterpiece]]></title>
-        <id>https://www.thedrive.com/news/a-buick-gnx-merged-with-an-el-camino-to-create-this-470-hp-masterpiece</id>
-        <link href="https://www.thedrive.com/news/a-buick-gnx-merged-with-an-el-camino-to-create-this-470-hp-masterpiece"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opus 4.7: better or worse so far compared to 4.6? (don't forget to upvote)]]></title>
-        <id>https://strawpoll.com/Qrgewz4kRyp/results</id>
-        <link href="https://strawpoll.com/Qrgewz4kRyp/results"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia's startup scene is thriving at last]]></title>
-        <id>https://www.economist.com/business/2026/04/16/australias-startup-scene-is-thriving-at-last</id>
-        <link href="https://www.economist.com/business/2026/04/16/australias-startup-scene-is-thriving-at-last"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A simplified model of Fil-C]]></title>
-        <id>https://www.corsix.org/content/simplified-model-of-fil-c</id>
-        <link href="https://www.corsix.org/content/simplified-model-of-fil-c"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ryan Mather: My tips for getting the best results out of Claude Design]]></title>
-        <id>https://twitter.com/flomerboy/status/2045162321589252458</id>
-        <link href="https://twitter.com/flomerboy/status/2045162321589252458"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Pyra – a Python toolchain experiment inspired by uv and Bun]]></title>
-        <id>https://github.com/treyorr/pyra</id>
-        <link href="https://github.com/treyorr/pyra"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: IDEViewer – OSS scanner for IDE extensions, AI tools, and workstation]]></title>
-        <id>https://github.com/securient/ideviewer-oss</id>
-        <link href="https://github.com/securient/ideviewer-oss"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reflecting on my own strange year at Uber]]></title>
-        <id>https://anon-ex-uber.medium.com/reflecting-on-my-own-strange-year-at-uber-e73165422245</id>
-        <link href="https://anon-ex-uber.medium.com/reflecting-on-my-own-strange-year-at-uber-e73165422245"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I made a calculator that works over disjoint sets of intervals]]></title>
-        <id>https://victorpoughon.github.io/interval-calculator/</id>
-        <link href="https://victorpoughon.github.io/interval-calculator/"/>
+        <title type="html"><![CDATA[The rate trap: how one architecture decision kills flexibility]]></title>
+        <id>https://github.com/getlago/lago/wiki/The-rate-trap:-how-one-architecture-decision-kills-flexibility</id>
+        <link href="https://github.com/getlago/lago/wiki/The-rate-trap:-how-one-architecture-decision-kills-flexibility"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
@@ -190,9 +113,142 @@
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The rate trap: how one architecture decision kills flexibility]]></title>
-        <id>https://github.com/getlago/lago/wiki/The-rate-trap:-how-one-architecture-decision-kills-flexibility</id>
-        <link href="https://github.com/getlago/lago/wiki/The-rate-trap:-how-one-architecture-decision-kills-flexibility"/>
+        <title type="html"><![CDATA[Show HN: I made a calculator that works over disjoint sets of intervals]]></title>
+        <id>https://victorpoughon.github.io/interval-calculator/</id>
+        <link href="https://victorpoughon.github.io/interval-calculator/"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflecting on my own strange year at Uber]]></title>
+        <id>https://anon-ex-uber.medium.com/reflecting-on-my-own-strange-year-at-uber-e73165422245</id>
+        <link href="https://anon-ex-uber.medium.com/reflecting-on-my-own-strange-year-at-uber-e73165422245"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: IDEViewer – OSS scanner for IDE extensions, AI tools, and workstation]]></title>
+        <id>https://github.com/securient/ideviewer-oss</id>
+        <link href="https://github.com/securient/ideviewer-oss"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Pyra – a Python toolchain experiment inspired by uv and Bun]]></title>
+        <id>https://github.com/treyorr/pyra</id>
+        <link href="https://github.com/treyorr/pyra"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryan Mather: My tips for getting the best results out of Claude Design]]></title>
+        <id>https://twitter.com/flomerboy/status/2045162321589252458</id>
+        <link href="https://twitter.com/flomerboy/status/2045162321589252458"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A simplified model of Fil-C]]></title>
+        <id>https://www.corsix.org/content/simplified-model-of-fil-c</id>
+        <link href="https://www.corsix.org/content/simplified-model-of-fil-c"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia's startup scene is thriving at last]]></title>
+        <id>https://www.economist.com/business/2026/04/16/australias-startup-scene-is-thriving-at-last</id>
+        <link href="https://www.economist.com/business/2026/04/16/australias-startup-scene-is-thriving-at-last"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opus 4.7: better or worse so far compared to 4.6? (don't forget to upvote)]]></title>
+        <id>https://strawpoll.com/Qrgewz4kRyp/results</id>
+        <link href="https://strawpoll.com/Qrgewz4kRyp/results"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Buick GNX Merged with an El Camino to Create This 470-HP Masterpiece]]></title>
+        <id>https://www.thedrive.com/news/a-buick-gnx-merged-with-an-el-camino-to-create-this-470-hp-masterpiece</id>
+        <link href="https://www.thedrive.com/news/a-buick-gnx-merged-with-an-el-camino-to-create-this-470-hp-masterpiece"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A private space company has a new plan to bag an asteroid]]></title>
+        <id>https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/</id>
+        <link href="https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free tool for WebP and SVG optimization. Privat data]]></title>
+        <id>https://axiomoverclock.ca/</id>
+        <link href="https://axiomoverclock.ca/"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSS code review, in the era of LLMs]]></title>
+        <id>https://blog.ezyang.com/2026/04/oss-code-review-in-the-era-of-llms/</id>
+        <link href="https://blog.ezyang.com/2026/04/oss-code-review-in-the-era-of-llms/"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shuttered startups are selling old Slack chats and emails to AI companies]]></title>
+        <id>https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies</id>
+        <link href="https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Wick, Madara Uchiha, characters that take on entire armies by themselves]]></title>
+        <id>https://www.juanmanarmy.com/</id>
+        <link href="https://www.juanmanarmy.com/"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can a browser with user and clickbait queries protect from the attention economy]]></title>
+        <id>https://news.ycombinator.com/item?id=47811800</id>
+        <link href="https://news.ycombinator.com/item?id=47811800"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There is no you in your brain – your identity is a "society of the mind"]]></title>
+        <id>https://bigthink.com/books/our-brains-our-selves/</id>
+        <link href="https://bigthink.com/books/our-brains-our-selves/"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ohio's nursing homes are dumping patients at homeless shelters]]></title>
+        <id>https://apnews.com/article/ohio-nursing-home-patients-homeless-shelters-9c000eeddc9c9411f44fd605fafc6771</id>
+        <link href="https://apnews.com/article/ohio-nursing-home-patients-homeless-shelters-9c000eeddc9c9411f44fd605fafc6771"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG]]></title>
+        <id>https://github.com/yapstudios/sfsym</id>
+        <link href="https://github.com/yapstudios/sfsym"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A story about how I dug into the PostgreSQL sources to write my own WAL receiver]]></title>
+        <id>https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25</id>
+        <link href="https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25"/>
+        <updated>2026-04-17T16:00:00.000Z</updated>
+        <published>2026-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump's 'Triumphal Arch' Is Vastly Larger Than Other Washington Monuments]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-04-16/trump-s-triumphal-arch-takes-a-step-toward-approval-in-dc</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-04-16/trump-s-triumphal-arch-takes-a-step-toward-approval-in-dc"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
@@ -253,114 +309,58 @@
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zustand vs Redux: Choosing the Right State Management for React]]></title>
-        <id>https://dev.to/peakiqofficial/zustand-vs-redux-choosing-the-right-state-management-for-react-ikk</id>
-        <link href="https://dev.to/peakiqofficial/zustand-vs-redux-choosing-the-right-state-management-for-react-ikk"/>
+        <title type="html"><![CDATA[FitCafe Review: Benefits, Side Effects & Real Weight Loss Results]]></title>
+        <id>https://dev.to/healthvilla/fitcafe-review-benefits-side-effects-real-weight-loss-results-2435</id>
+        <link href="https://dev.to/healthvilla/fitcafe-review-benefits-side-effects-real-weight-loss-results-2435"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Scroll Animation That Was Hiding Our LCP Element]]></title>
-        <id>https://dev.to/gillygangopolus/the-scroll-animation-that-was-hiding-our-lcp-element-2edp</id>
-        <link href="https://dev.to/gillygangopolus/the-scroll-animation-that-was-hiding-our-lcp-element-2edp"/>
+        <title type="html"><![CDATA[I Built a Free Image Compressor Using Next.js (No Signup Required)]]></title>
+        <id>https://dev.to/astonishbuddy/i-built-a-free-image-compressor-using-nextjs-no-signup-required-55d5</id>
+        <link href="https://dev.to/astonishbuddy/i-built-a-free-image-compressor-using-nextjs-no-signup-required-55d5"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I Switched from React to Vue (And Back Again) - Updated April 18, 2026]]></title>
-        <id>https://dev.to/mukhtar_abdussalam_0de093/why-i-switched-from-react-to-vue-and-back-again-updated-april-18-2026-3i0o</id>
-        <link href="https://dev.to/mukhtar_abdussalam_0de093/why-i-switched-from-react-to-vue-and-back-again-updated-april-18-2026-3i0o"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The fastest way to build a Telegram Bot natively]]></title>
-        <id>https://dev.to/apollo_ag/the-fastest-way-to-build-a-telegram-bot-natively-4cpd</id>
-        <link href="https://dev.to/apollo_ag/the-fastest-way-to-build-a-telegram-bot-natively-4cpd"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Sense of JavaScript in Rails: Webpack, Rollup, esbuild, and Importmaps]]></title>
-        <id>https://dev.to/zilton7/making-sense-of-javascript-in-rails-webpack-rollup-esbuild-and-importmaps-2732</id>
-        <link href="https://dev.to/zilton7/making-sense-of-javascript-in-rails-webpack-rollup-esbuild-and-importmaps-2732"/>
+        <title type="html"><![CDATA[JavaScript scenario questions using(Variables, operators, conditional Statements)]]></title>
+        <id>https://dev.to/deva_i_932c8869ada96d4c9f/javascript-scenario-questions-usingvariables-operators-conditional-statements-31fj</id>
+        <link href="https://dev.to/deva_i_932c8869ada96d4c9f/javascript-scenario-questions-usingvariables-operators-conditional-statements-31fj"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js vs Vite in 2026: What you should actually use]]></title>
-        <id>https://dev.to/apollo_ag/nextjs-vs-vite-in-2026-what-you-should-actually-use-1mje</id>
-        <link href="https://dev.to/apollo_ag/nextjs-vs-vite-in-2026-what-you-should-actually-use-1mje"/>
+        <id>https://dev.to/apollo_ag/nextjs-vs-vite-in-2026-what-you-should-actually-use-1k2m</id>
+        <link href="https://dev.to/apollo_ag/nextjs-vs-vite-in-2026-what-you-should-actually-use-1k2m"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Fastest Way to Add SEO Keyword Extraction to Any App]]></title>
-        <id>https://dev.to/apollo_ag/the-fastest-way-to-add-seo-keyword-extraction-to-any-app-1b7m</id>
-        <link href="https://dev.to/apollo_ag/the-fastest-way-to-add-seo-keyword-extraction-to-any-app-1b7m"/>
+        <title type="html"><![CDATA[Zustand vs Redux: Choosing the Right State Management for React]]></title>
+        <id>https://dev.to/peakiqofficial/zustand-vs-redux-choosing-the-right-state-management-for-react-3cp9</id>
+        <link href="https://dev.to/peakiqofficial/zustand-vs-redux-choosing-the-right-state-management-for-react-3cp9"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Made My React Components 3x Smaller Using AI Prompts]]></title>
-        <id>https://dev.to/apollo_ag/how-i-made-my-react-components-3x-smaller-using-ai-prompts-48hd</id>
-        <link href="https://dev.to/apollo_ag/how-i-made-my-react-components-3x-smaller-using-ai-prompts-48hd"/>
+        <title type="html"><![CDATA[Building Client-Side Financial Calculators with Vanilla JavaScript - No Framework Needed]]></title>
+        <id>https://dev.to/airbyte250/building-client-side-financial-calculators-with-vanilla-javascript-no-framework-needed-1l47</id>
+        <link href="https://dev.to/airbyte250/building-client-side-financial-calculators-with-vanilla-javascript-no-framework-needed-1l47"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Object & Array Scenario Quections]]></title>
-        <id>https://dev.to/mohandassmani/object-array-scenario-quections-2gll</id>
-        <link href="https://dev.to/mohandassmani/object-array-scenario-quections-2gll"/>
+        <title type="html"><![CDATA[Implementing a Custom Promise Library for Educational Purposes]]></title>
+        <id>https://dev.to/omriluz1/implementing-a-custom-promise-library-for-educational-purposes-4mo7</id>
+        <link href="https://dev.to/omriluz1/implementing-a-custom-promise-library-for-educational-purposes-4mo7"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Our TypeScript Migration Broke Production Node.js APIs in Unexpected Ways]]></title>
-        <id>https://dev.to/pyhelp__5e8fe4425516/why-our-typescript-migration-broke-production-nodejs-apis-in-unexpected-ways-48pj</id>
-        <link href="https://dev.to/pyhelp__5e8fe4425516/why-our-typescript-migration-broke-production-nodejs-apis-in-unexpected-ways-48pj"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Compress Images in the Browser With Canvas API (No Server Needed)]]></title>
-        <id>https://dev.to/samma1997/how-to-compress-images-in-the-browser-with-canvas-api-no-server-needed-463h</id>
-        <link href="https://dev.to/samma1997/how-to-compress-images-in-the-browser-with-canvas-api-no-server-needed-463h"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The JavaScript Logic Behind Tracking 14 Credit Card APR Deadlines (Without Losing Your Mind)]]></title>
-        <id>https://dev.to/stackeasy/the-javascript-logic-behind-tracking-14-credit-card-apr-deadlines-without-losing-your-mind-3l6h</id>
-        <link href="https://dev.to/stackeasy/the-javascript-logic-behind-tracking-14-credit-card-apr-deadlines-without-losing-your-mind-3l6h"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET Application Architectures: Complete Guide to Monolithic, Layered, Clean, and More]]></title>
-        <id>https://dev.to/vikrant_bagal_afae3e25ca7/net-application-architectures-complete-guide-to-monolithic-layered-clean-and-more-eio</id>
-        <link href="https://dev.to/vikrant_bagal_afae3e25ca7/net-application-architectures-complete-guide-to-monolithic-layered-clean-and-more-eio"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your package.json only shows 20 dependencies. Your lock file has 487. I built a scanner for the other 467.]]></title>
-        <id>https://dev.to/piiiico/your-packagejson-only-shows-20-dependencies-your-lock-file-has-487-i-built-a-scanner-for-the-2ke0</id>
-        <link href="https://dev.to/piiiico/your-packagejson-only-shows-20-dependencies-your-lock-file-has-487-i-built-a-scanner-for-the-2ke0"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The fastest way to build a Telegram Bot natively]]></title>
-        <id>https://dev.to/apollo_ag/the-fastest-way-to-build-a-telegram-bot-natively-2a86</id>
-        <link href="https://dev.to/apollo_ag/the-fastest-way-to-build-a-telegram-bot-natively-2a86"/>
-        <updated>2026-04-17T16:00:00.000Z</updated>
-        <published>2026-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Dev.to — I’m Emenike Nathaniel I’m excited to officially join this amazing developer community.]]></title>
-        <id>https://dev.to/githubnath/hello-devto-im-nathaniel-emenike-im-excited-to-officially-join-this-amazing-developer-21cd</id>
-        <link href="https://dev.to/githubnath/hello-devto-im-nathaniel-emenike-im-excited-to-officially-join-this-amazing-developer-21cd"/>
+        <title type="html"><![CDATA[Next.js 16.2 Deep Dive — Turbopack's 400% Faster Dev Server, Server Fast Refresh at 375%, and the AI Agent DevTools (AGENTS.md) Era]]></title>
+        <id>https://dev.to/x4nent/nextjs-162-deep-dive-turbopacks-400-faster-dev-server-server-fast-refresh-at-375-and-the-58dp</id>
+        <link href="https://dev.to/x4nent/nextjs-162-deep-dive-turbopacks-400-faster-dev-server-server-fast-refresh-at-375-and-the-58dp"/>
         <updated>2026-04-17T16:00:00.000Z</updated>
         <published>2026-04-17T16:00:00.000Z</published>
     </entry>
