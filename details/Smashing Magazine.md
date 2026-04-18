@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-18 23:07:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-19 06:01:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
@@ -11,4 +11,3 @@
 - [2026-03-31-The-Joy-Of-A-Fresh-Beginning-April-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/) 
 - [2026-03-26-The-Site-Search-Paradox:-Why-The-Big-Box-Always-Wins](https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/) 
 - [2026-03-24-Testing-Font-Scaling-For-Accessibility-With-Figma-Variables](https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/) 
-- [2026-03-20-Dropdowns-Inside-Scrollable-Containers:-Why-They-Break-And-How-To-Fix-Them-Properly](https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/) 

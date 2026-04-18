@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-18 23:07:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-19 06:01:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -8,7 +8,6 @@
 
 
 - [2026-04-15-I-Got-a-Job-Offer.-But,-It-Came-With-Malware.](https://dev.to/denyherianto/i-got-a-job-offer-but-it-came-with-malwares-4c9a) 
-- [2026-03-20-科技爱好者周刊（第-389-期）：未来如何招聘程序员](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html) 
 - [2026-04-06-AI-dolls-offer-companionship-to-the-elderly](https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd) 
 - [2026-03-24-Kentucky-family-rejects-$$26M-offer-to-convert-farm-into-data-center](https://twitter.com/CollinRugg/status/2036237284601913674) 
 - [2026-04-17-Anthropic-CPO-leaves-Figma’s-board-after-reports-he-will-offer-a-competing-product](https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/) 
