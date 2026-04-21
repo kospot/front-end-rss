@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-21 06:02:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-21 08:01:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -7,11 +7,11 @@
 
 
 
-- [2026-04-20-Signals-in-Vue-II:-Interop,-Async-Patterns,-SSR,-and-Common-Pitfalls](https://dev.to/luciano0322/signals-in-vue-ii-interop-async-patterns-ssr-and-common-pitfalls-284d) 
 - [2026-04-20-Stop-Hardcoding-Layouts-in-Vue-—-Use-Route-Meta-Like-a-Pro](https://dev.to/kais_sraieb/stop-hardcoding-layouts-in-vue-use-route-meta-like-a-pro-49on) 
+- [2026-04-20-Signals-in-Vue-II:-Interop,-Async-Patterns,-SSR,-and-Common-Pitfalls](https://dev.to/luciano0322/signals-in-vue-ii-interop-async-patterns-ssr-and-common-pitfalls-284d) 
 - [2026-04-16-Signals-in-Vue-I:-A-Minimal-Bridge-to-the-Composition-API](https://dev.to/luciano0322/signals-in-vue-i-a-minimal-bridge-to-the-composition-api-45cf) 
-- [2026-04-15-Vue-Router-Testing-Strategies](https://dev.to/focused_dot_io/vue-router-testing-strategies-1ldn) 
 - [2026-04-15-Add-Keyboard-Shortcuts-to-Your-Vue-App-⌨️](https://dev.to/focused_dot_io/add-keyboard-shortcuts-to-your-vue-app-bn9) 
+- [2026-04-15-Vue-Router-Testing-Strategies](https://dev.to/focused_dot_io/vue-router-testing-strategies-1ldn) 
 - [2026-04-13-The-Hidden-Cost-of-‘Reusable-Components’-in-Vue](https://dev.to/livecodebase/the-hidden-cost-of-reusable-components-in-vue-4mce) 
 - [2026-04-11-Stop-Adding-Components-for-Everything-—-Try-This-Instead-Vue](https://dev.to/buxee/stop-adding-components-for-everything-try-this-instead-vue-1lgd) 
 - [2026-04-14--New-Vue-UI-components-from-SVAR:-30+-controls,-edit-forms,-and-filtering-widgets-](
@@ -30,6 +30,7 @@ https://svar.dev/blog/svar-vue-components-released/
 - [2026-03-31-Unveiling-Implicit-Advantage-Symmetry:-Why-GRPO-Struggles-with-Exploration-and-Difficulty-Adaptation](https://arxiv.org/abs/2602.05548) 
 - [2026-03-26-Smooth-Gate-Functions-for-Soft-Advantage-Policy-Optimization](https://arxiv.org/abs/2602.19345) 
 - [2026-03-24-Advantage-Shaping-as-Surrogate-Reward-Maximization:-Unifying-Pass@K-Policy-Gradients](https://arxiv.org/abs/2510.23049) 
+- [2026-04-21-Fedizen.eu-Delivers-All-Relevant-Fediverse-News](https://fedizen.eu/#Fedizen) 
 - [2026-04-20-The-Interpretive-Advantage-video](https://www.youtube.com/watch?v=-6no6N3i9Tg) 
 - [2026-04-18-Graph-RAG-finds-what's-similar.-We-should-aim-for-what's-relevant](https://github.com/FlowElement-ai/m_flow) 
 - [2026-04-17-We're-AvantiRMG-–-helping-practices-profit-and-increase-revenue](https://avantirmg.com/) 
