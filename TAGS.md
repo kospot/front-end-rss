@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-21 18:02:35。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-21 21:02:51。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -579,11 +579,11 @@ https://github.com/j9t/minifier-benchmarks
 - [【前端之巅】You-can't-trust-agent-tests](https://dev.to/alexocallaghan/you-cant-trust-agent-tests-j8o)
 - [【前端之巅】45-days-Python-training-summer-internship-with-practical-training](https://dev.to/cybersecurity-12/45-days-python-training-summer-internship-with-practical-training-ncm)
 - [【前端之巅】Running-AI-in-the-Browser-with-Gemma-4-No-API,-No-Server](https://dev.to/system_rationale/running-ai-in-the-browser-with-gemma-4-no-api-no-server-3en2)
+- [【GitHub Trending JS】xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server)
 - [【GitHub Trending JS】atlassian/atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server)
 - [【O'Reilly Radar】Building-trust-in-the-AI-era-with-privacy-led-UX](https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/)
 - [【arXiv ML】Unsupervised-Discovery-of-Intermediate-Phase-Order-in-the-Frustrated-$J_1$-$J_2$-Heisenberg-Model-via-Prometheus-Framework](https://arxiv.org/abs/2602.21468)
 - [【arXiv ML】Culinary-Crossroads:-A-RAG-Framework-for-Enhancing-Diversity-in-Cross-Cultural-Recipe-Adaptation](https://arxiv.org/abs/2507.21934)
-- [【arXiv ML】Enhancing-Trust-in-Large-Language-Models-via-Uncertainty-Calibrated-Fine-Tuning](https://arxiv.org/abs/2412.02904)
 - [......【查看更多】......](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -615,13 +615,13 @@ https://github.com/j9t/minifier-benchmarks
 - [【前端之巅】Digital-Marketing-Course-in-Lahore-–-Build-Your-Future-with-Asdigitals](https://dev.to/ghazal_riaz_93aae9e614139/digital-marketing-course-in-lahore-build-your-future-with-asdigitals-m75)
 - [【前端之巅】Audit-any-GitHub-repo's-supply-chain-risk-with-one-API-call](https://dev.to/piiiico/audit-any-github-repos-supply-chain-risk-with-one-api-call-58fi)
 - [【GitHub Trending JS】GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
-- [【GitHub Trending JS】maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)
-- [【GitHub Trending JS】-alonronin/orbit:-A-better-search-engine-for-your-github-starred-collection.-](
-https://github.com/alonronin/orbit
-)
 - [【GitHub Trending JS】-Cool-Github-Copilot-Metrics-Dashboard-](
 https://github.com/zahhar/ghcp-dashboard
 )
+- [【GitHub Trending JS】-alonronin/orbit:-A-better-search-engine-for-your-github-starred-collection.-](
+https://github.com/alonronin/orbit
+)
+- [【GitHub Trending JS】maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)
 - [【GitHub Engineering】Highlights-from-Git-2.54](https://github.blog/open-source/git/highlights-from-git-2-54/)
 - [【GitHub Engineering】Changes-to-GitHub-Copilot-Individual-plans](https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/)
 - [......【查看更多】......](/details/tags/git-svn.md)
