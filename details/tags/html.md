@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-21 21:02:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-21 23:04:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,11 +7,12 @@
 
 
 
-- [2026-04-19-How-to-Auto-Generate-Instagram-Images-with-HTML-and-a-Render-API](https://dev.to/ozgurs/how-to-auto-generate-instagram-images-with-html-and-a-render-api-2d54) 
+- [2026-04-21-The-Web-Is-Fun-Again:-First-Experiments-with-HTML-in-Canvas](https://frontendmasters.com/blog/the-web-is-fun-again-first-experiments-with-html-in-canvas/) 
 - [2026-04-19-Meta's-Post-Quantum-Crypto-Migration-Playbook](https://dev.to/practiceoverflow/metas-post-quantum-crypto-migration-playbook-333l) 
+- [2026-04-19-How-to-Auto-Generate-Instagram-Images-with-HTML-and-a-Render-API](https://dev.to/ozgurs/how-to-auto-generate-instagram-images-with-html-and-a-render-api-2d54) 
 - [2026-04-18-How-to-Fix-an-Over-Engineered-Frontend-When-Plain-HTML-Was-Enough](https://dev.to/alanwest/how-to-fix-an-over-engineered-frontend-when-plain-html-was-enough-nce) 
-- [2026-04-17-Which-company-offers-the-best-metahuman-creator-solutions?](https://dev.to/charuabhiwan001/which-company-offers-the-best-metahuman-creator-solutions-1cbm) 
 - [2026-04-17-HTML-in-Canvas:-The-API-That-Could-Change-How-We-Build-Interactive-Experiences-on-the-Web](https://dev.to/andresclua/html-in-canvas-the-api-that-could-change-how-we-build-interactive-experiences-on-the-web-1435) 
+- [2026-04-17-Which-company-offers-the-best-metahuman-creator-solutions?](https://dev.to/charuabhiwan001/which-company-offers-the-best-metahuman-creator-solutions-1cbm) 
 - [2026-04-15-100-Projects-in-4-Days-—-A-Meta-Dashboard-Celebrating-the-Milestone](https://dev.to/sendotltd/100-projects-in-4-days-a-meta-dashboard-celebrating-the-milestone-336j) 
 - [2026-04-13-Which-Apps-Strip-Photo-Metadata?-The-Complete-2026-Guide](https://dev.to/samma1997/which-apps-strip-photo-metadata-the-complete-2026-guide-5ghh) 
 - [2026-04-12-I-built-a-FIRE-calculator-in-a-single-HTML-file.-Here's-the-math.](https://dev.to/misterlsj/i-built-a-fire-calculator-in-a-single-html-file-heres-the-math-dca) 
@@ -73,8 +74,8 @@ https://github.com/j9t/minifier-benchmarks
 - [2026-04-09-Meta's-new-model-is-Muse-Spark,-and-meta.ai-chat-has-some-interesting-tools](https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything) 
 - [2026-04-14-How-Meta-Killed-Llama-to-Save-Its-AI-Business](https://pub.towardsai.net/how-meta-killed-llama-to-save-its-ai-business-efa5dc129f10?source=rss----98111c9905da---4) 
 - [2026-04-10-Is-Meta’s-Muse-Spark-Actually-Frontier-Level-AI,-or-Just-Benchmaxxing-Again?](https://pub.towardsai.net/is-metas-muse-spark-actually-frontier-level-ai-or-just-benchmaxxing-again-9297b13ddc54?source=rss----98111c9905da---4) 
-- [2026-04-01-Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4) 
 - [2026-04-01-How-Meta’s-TRIBE-v2-Predicts-Human-Brain-Activity-Using-AI](https://pub.towardsai.net/how-metas-tribe-v2-predicts-human-brain-activity-using-ai-56e72890eaca?source=rss----98111c9905da---4) 
+- [2026-04-01-Meta-Just-Built-an-AI-That-Rewrites-the-Rules-of-How-It-Gets-Smarter.](https://pub.towardsai.net/meta-just-built-an-ai-that-rewrites-the-rules-of-how-it-gets-smarter-c9f22cc45f2d?source=rss----98111c9905da---4) 
 - [2026-03-26-Meta-Just-Acqui-Hired-Its-4th-AI-Startup-in-4-Months.-Zuckerberg’s-Agent-Empire-Is-Taking-Shape.](https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4) 
 - [2026-04-19-Show-HN:-Jitter-Done-–-a-simple-tool-to-understand-your-caffeine-metabolism](https://jitterdone.com/) 
 - [2026-04-19-Meta-to-cut-8k-jobs-10%-of-workforce-in-major-bloodbath-next-month](https://nypost.com/2026/04/17/business/meta-to-cut-8000-jobs-in-major-bloodbath-next-month-report/) 

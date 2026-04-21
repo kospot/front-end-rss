@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-21 21:02:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-21 23:04:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -223,7 +223,7 @@
 - [2026-03-27-Best-External-Hard-Drive-2026:-SSD-to-Store-Data,-Video,-and-More](https://www.wired.com/story/best-portable-external-storage-drives/) 
 - [2026-03-26-There’s-Something-Very-Dark-About-a-Lot-of-Those-Viral-AI-Fruit-Videos](https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/) 
 - [2026-03-24-Best-Premium-Soundbars:-Dolby-Atmos,-Hi-Res-Audio,-and-More](https://www.wired.com/gallery/best-premium-soundbars/) 
-- [2026-04-17-YouTube’s-mobile-app-finally-lets-you-share-timestamped-videos](https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips) 
 - [2026-04-17-Netflix-embraces-vertical-video-with-major-mobile-app-update](https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video) 
+- [2026-04-17-YouTube’s-mobile-app-finally-lets-you-share-timestamped-videos](https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips) 
 - [2026-04-15-Prime-Video-is-bundling-Apple-TV-Plus-and-Peacock-for-a-limited-time](https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle) 
 - [2026-04-11-The-Iranian-Lego-AI-video-creators-credit-their-virality-to-&amp;#8216;heart&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu) 
