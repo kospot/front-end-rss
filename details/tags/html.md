@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-21 15:03:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-21 18:02:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,11 +7,11 @@
 
 
 
-- [2026-04-19-Meta's-Post-Quantum-Crypto-Migration-Playbook](https://dev.to/practiceoverflow/metas-post-quantum-crypto-migration-playbook-333l) 
 - [2026-04-19-How-to-Auto-Generate-Instagram-Images-with-HTML-and-a-Render-API](https://dev.to/ozgurs/how-to-auto-generate-instagram-images-with-html-and-a-render-api-2d54) 
+- [2026-04-19-Meta's-Post-Quantum-Crypto-Migration-Playbook](https://dev.to/practiceoverflow/metas-post-quantum-crypto-migration-playbook-333l) 
 - [2026-04-18-How-to-Fix-an-Over-Engineered-Frontend-When-Plain-HTML-Was-Enough](https://dev.to/alanwest/how-to-fix-an-over-engineered-frontend-when-plain-html-was-enough-nce) 
-- [2026-04-17-HTML-in-Canvas:-The-API-That-Could-Change-How-We-Build-Interactive-Experiences-on-the-Web](https://dev.to/andresclua/html-in-canvas-the-api-that-could-change-how-we-build-interactive-experiences-on-the-web-1435) 
 - [2026-04-17-Which-company-offers-the-best-metahuman-creator-solutions?](https://dev.to/charuabhiwan001/which-company-offers-the-best-metahuman-creator-solutions-1cbm) 
+- [2026-04-17-HTML-in-Canvas:-The-API-That-Could-Change-How-We-Build-Interactive-Experiences-on-the-Web](https://dev.to/andresclua/html-in-canvas-the-api-that-could-change-how-we-build-interactive-experiences-on-the-web-1435) 
 - [2026-04-15-100-Projects-in-4-Days-—-A-Meta-Dashboard-Celebrating-the-Milestone](https://dev.to/sendotltd/100-projects-in-4-days-a-meta-dashboard-celebrating-the-milestone-336j) 
 - [2026-04-13-Which-Apps-Strip-Photo-Metadata?-The-Complete-2026-Guide](https://dev.to/samma1997/which-apps-strip-photo-metadata-the-complete-2026-guide-5ghh) 
 - [2026-04-12-I-built-a-FIRE-calculator-in-a-single-HTML-file.-Here's-the-math.](https://dev.to/misterlsj/i-built-a-fire-calculator-in-a-single-html-file-heres-the-math-dca) 
@@ -115,19 +115,19 @@ https://github.com/j9t/minifier-benchmarks
 - [2026-03-23-Meta-faces-potential-billions-in-fines-in-trial-over-children's-safety-practices](https://www.latimes.com/business/story/2026-03-23/meta-faces-potential-billions-in-fines-in-trial-over-childrens-safety-practices) 
 - [2026-03-23-The-Rise-of-the-Ray-Ban-Meta-Creep](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/) 
 - [2026-04-16-Meta-raises-Quest-3-and-Quest-3S-prices-due-to-RAM-shortage](https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/) 
-- [2026-04-10-Meta-AI-app-climbs-to-No.-5-on-the-App-Store-after-Muse-Spark-launch](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/) 
 - [2026-04-10-PSA:-If-you-use-the-Meta-AI-app,-your-friends-will-find-out-and-it-will-be-embarrassing](https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/) 
+- [2026-04-10-Meta-AI-app-climbs-to-No.-5-on-the-App-Store-after-Muse-Spark-launch](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/) 
 - [2026-04-09-Meta-debuts-the-Muse-Spark-model-in-a-‘ground-up-overhaul’-of-its-AI](https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/) 
 - [2026-04-02-Meta’s-natural-gas-binge-could-power-South-Dakota](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/) 
 - [2026-04-01-Meta-was-finally-held-accountable-for-harming-teens.-Now-what?](https://techcrunch.com/2026/03/31/meta-was-finally-held-accountable-for-harming-teens-now-what/) 
-- [2026-03-31-Meta-starts-testing-a-premium-subscription-on-Instagram](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/) 
 - [2026-03-31-Meta-launches-two-new-Ray-Ban-glasses-designed-for-prescription-wearers](https://techcrunch.com/2026/03/31/meta-launches-two-new-ray-ban-glasses-designed-for-prescription-wearers/) 
+- [2026-03-31-Meta-starts-testing-a-premium-subscription-on-Instagram](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/) 
 - [2026-03-27-OpenAI-shuts-down-Sora-while-Meta-gets-shut-out-in-court](https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/) 
-- [2026-03-26-Jury-finds-Meta-and-Google-negligent-in-landmark-social-media-addiction-trial](https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/) 
 - [2026-03-26-Meta-is-cutting-several-hundred-jobs](https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/) 
-- [2026-03-25-New-Mexico-just-handed-Meta-its-first-courtroom-defeat-over-child-safety,-and-the-rest-of-the-country-is-watching](https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/) 
-- [2026-03-25-Meta-turns-to-AI-to-make-shopping-easier-on-Instagram-and-Facebook](https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/) 
+- [2026-03-26-Jury-finds-Meta-and-Google-negligent-in-landmark-social-media-addiction-trial](https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/) 
 - [2026-03-25-Meta-launches-new-initiative-to-support-entrepreneurship,-drive-AI-adoption](https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/) 
+- [2026-03-25-Meta-turns-to-AI-to-make-shopping-easier-on-Instagram-and-Facebook](https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/) 
+- [2026-03-25-New-Mexico-just-handed-Meta-its-first-courtroom-defeat-over-child-safety,-and-the-rest-of-the-country-is-watching](https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/) 
 - [2026-04-19-Best-Meta-Glasses-2026:-Ray-Ban,-Oakley,-AR](https://www.wired.com/story/best-meta-glasses/) 
 - [2026-04-14-Meta-Is-Warned-That-Facial-Recognition-Glasses-Will-Arm-Sexual-Predators](https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/) 
 - [2026-04-10-Meta’s-New-AI-Asked-for-My-Raw-Health-Data—and-Gave-Me-Terrible-Advice](https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/) 
