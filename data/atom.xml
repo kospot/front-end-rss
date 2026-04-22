@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-21T22:01:14.691Z</updated>
+    <updated>2026-04-22T00:02:35.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[ISS astronauts are getting new laptops]]></title>
-        <id>https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9</id>
-        <link href="https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X makes it 1,900 percent more expensive to post links]]></title>
-        <id>https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme</id>
-        <link href="https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme"/>
+        <title type="html"><![CDATA[Framework is building a better couch keyboard because everyone hates the Logitech one]]></title>
+        <id>https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one</id>
+        <link href="https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
@@ -36,9 +29,16 @@
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Framework is building a better couch keyboard because everyone hates the Logitech one]]></title>
-        <id>https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one</id>
-        <link href="https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one"/>
+        <title type="html"><![CDATA[X makes it 1,900 percent more expensive to post links]]></title>
+        <id>https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme</id>
+        <link href="https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISS astronauts are getting new laptops]]></title>
+        <id>https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9</id>
+        <link href="https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
@@ -57,9 +57,9 @@
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield]]></title>
-        <id>https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/</id>
-        <link href="https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/"/>
+        <title type="html"><![CDATA[Meta will record employees’ keystrokes and use it to train its AI models]]></title>
+        <id>https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/</id>
+        <link href="https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
@@ -71,65 +71,58 @@
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yojam: A macOS default-browser shim that routes URLs through a rule engine]]></title>
-        <id>https://github.com/fluffypony/yojam</id>
-        <link href="https://github.com/fluffypony/yojam"/>
+        <title type="html"><![CDATA[Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield]]></title>
+        <id>https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/</id>
+        <link href="https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: CLI-use – turn any MCP server into a CLI in one command]]></title>
-        <id>https://news.ycombinator.com/item?id=47854957</id>
-        <link href="https://news.ycombinator.com/item?id=47854957"/>
+        <title type="html"><![CDATA[Drunk Post: Things I've Learned as a Senior Engineer]]></title>
+        <id>https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as</id>
+        <link href="https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tenstorrent's Large Compute Cluster, Generates Video Faster Than Real Time]]></title>
-        <id>https://www.eetimes.com/tenstorrent-previews-large-compute-cluster-generates-video-faster-than-real-time/</id>
-        <link href="https://www.eetimes.com/tenstorrent-previews-large-compute-cluster-generates-video-faster-than-real-time/"/>
+        <title type="html"><![CDATA[Bloom filters: the niche trick behind a 16× faster API – Blog – incident.io]]></title>
+        <id>https://incident.io/blog/bloom-filters</id>
+        <link href="https://incident.io/blog/bloom-filters"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic]]></title>
-        <id>https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/</id>
-        <link href="https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/"/>
+        <title type="html"><![CDATA[How Much Do GPU Clusters Cost?]]></title>
+        <id>https://newsletter.semianalysis.com/p/how-much-do-gpu-clusters-really-cost</id>
+        <link href="https://newsletter.semianalysis.com/p/how-much-do-gpu-clusters-really-cost"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Objectively Measured Daytime Napping Pattern&All-Cause Mortality in Older Adults]]></title>
-        <id>https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2847953</id>
-        <link href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2847953"/>
+        <title type="html"><![CDATA[Google Ads Keeps Marking My Site Compromised]]></title>
+        <id>https://news.ycombinator.com/item?id=47856280</id>
+        <link href="https://news.ycombinator.com/item?id=47856280"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parrot is a C++ library for fused array operations using CUDA/Thrust]]></title>
-        <id>https://github.com/NVlabs/parrot</id>
-        <link href="https://github.com/NVlabs/parrot"/>
+        <title type="html"><![CDATA[Single-minded pursuit of profit can get firms in trouble. Same thing with AI]]></title>
+        <id>https://news.harvard.edu/gazette/story/2026/04/single-minded-pursuit-of-profit-can-get-firms-in-trouble-same-thing-with-ai/</id>
+        <link href="https://news.harvard.edu/gazette/story/2026/04/single-minded-pursuit-of-profit-can-get-firms-in-trouble-same-thing-with-ai/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Might be the most Hollywood style launch video I've seen]]></title>
-        <id>https://twitter.com/photon_hq/status/2046656633749860430</id>
-        <link href="https://twitter.com/photon_hq/status/2046656633749860430"/>
+        <title type="html"><![CDATA[BYD Looking to Open 20 Dealerships in Canada This Year]]></title>
+        <id>https://gmauthority.com/blog/2026/04/byd-looking-to-open-20-dealerships-in-canada-this-year/</id>
+        <link href="https://gmauthority.com/blog/2026/04/byd-looking-to-open-20-dealerships-in-canada-this-year/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terence Tao: On the importance of partial progress (2012)]]></title>
-        <id>https://terrytao.wordpress.com/career-advice/on-the-importance-of-partial-progress/</id>
-        <link href="https://terrytao.wordpress.com/career-advice/on-the-importance-of-partial-progress/"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TSRX – TypeScript Language Extension for Declarative UI]]></title>
-        <id>https://tsrx.dev/</id>
-        <link href="https://tsrx.dev/"/>
+        <title type="html"><![CDATA[Show HN: Agent Brain Trust, customisable expert panels for AI agents]]></title>
+        <id>https://github.com/bahulneel/agent-brain-trust</id>
+        <link href="https://github.com/bahulneel/agent-brain-trust"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
@@ -141,37 +134,72 @@
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TSRX – TypeScript Language Extension for Declarative UI]]></title>
+        <id>https://tsrx.dev/</id>
+        <link href="https://tsrx.dev/"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terence Tao: On the importance of partial progress (2012)]]></title>
+        <id>https://terrytao.wordpress.com/career-advice/on-the-importance-of-partial-progress/</id>
+        <link href="https://terrytao.wordpress.com/career-advice/on-the-importance-of-partial-progress/"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Might be the most Hollywood style launch video I've seen]]></title>
+        <id>https://twitter.com/photon_hq/status/2046656633749860430</id>
+        <link href="https://twitter.com/photon_hq/status/2046656633749860430"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parrot is a C++ library for fused array operations using CUDA/Thrust]]></title>
+        <id>https://github.com/NVlabs/parrot</id>
+        <link href="https://github.com/NVlabs/parrot"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Objectively Measured Daytime Napping Pattern&All-Cause Mortality in Older Adults]]></title>
+        <id>https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2847953</id>
+        <link href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2847953"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic]]></title>
+        <id>https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/</id>
+        <link href="https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tenstorrent's Large Compute Cluster, Generates Video Faster Than Real Time]]></title>
+        <id>https://www.eetimes.com/tenstorrent-previews-large-compute-cluster-generates-video-faster-than-real-time/</id>
+        <link href="https://www.eetimes.com/tenstorrent-previews-large-compute-cluster-generates-video-faster-than-real-time/"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: CLI-use – turn any MCP server into a CLI in one command]]></title>
+        <id>https://news.ycombinator.com/item?id=47854957</id>
+        <link href="https://news.ycombinator.com/item?id=47854957"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yojam: A macOS default-browser shim that routes URLs through a rule engine]]></title>
+        <id>https://github.com/fluffypony/yojam</id>
+        <link href="https://github.com/fluffypony/yojam"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Anthropic Promised Claude Opus 4.7 Would Change Everything. Here’s What Actually Happened.]]></title>
         <id>https://pub.towardsai.net/anthropic-promised-claude-opus-4-7-would-change-everything-heres-what-actually-happened-bc3bc18fafa6?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/anthropic-promised-claude-opus-4-7-would-change-everything-heres-what-actually-happened-bc3bc18fafa6?source=rss----98111c9905da---4"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new word in home construction could be “plastics”]]></title>
-        <id>https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/</id>
-        <link href="https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This tool could show how consciousness works]]></title>
-        <id>https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/</id>
-        <link href="https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Early life may have breathed oxygen earlier than believed]]></title>
-        <id>https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/</id>
-        <link href="https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analog computing from waste heat]]></title>
-        <id>https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/</id>
-        <link href="https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
@@ -183,51 +211,72 @@
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zod: TypeScript Schema Validation Without the Boilerplate]]></title>
-        <id>https://dev.to/recca0120/zod-typescript-schema-validation-without-the-boilerplate-3k3a</id>
-        <link href="https://dev.to/recca0120/zod-typescript-schema-validation-without-the-boilerplate-3k3a"/>
+        <title type="html"><![CDATA[Analog computing from waste heat]]></title>
+        <id>https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/</id>
+        <link href="https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Capture Console Errors and Network Requests in JavaScript]]></title>
-        <id>https://dev.to/issuecapture/how-to-capture-console-errors-and-network-requests-in-javascript-1jn6</id>
-        <link href="https://dev.to/issuecapture/how-to-capture-console-errors-and-network-requests-in-javascript-1jn6"/>
+        <title type="html"><![CDATA[Early life may have breathed oxygen earlier than believed]]></title>
+        <id>https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/</id>
+        <link href="https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Migrating from Open Exchange Rates to AllRatesToday: A Developer's Guide]]></title>
-        <id>https://dev.to/chathuranga_basnayaka_d50/migrating-from-open-exchange-rates-to-allratestoday-a-developers-guide-38o1</id>
-        <link href="https://dev.to/chathuranga_basnayaka_d50/migrating-from-open-exchange-rates-to-allratestoday-a-developers-guide-38o1"/>
+        <title type="html"><![CDATA[This tool could show how consciousness works]]></title>
+        <id>https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/</id>
+        <link href="https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buy Verified LinkedIn Accounts – Boost Your B2B Sales Pipeline Fast]]></title>
-        <id>https://dev.to/tracy_paul_86eff969accdcb/buy-verified-linkedin-accounts-boost-your-b2b-sales-pipeline-fast-2a67</id>
-        <link href="https://dev.to/tracy_paul_86eff969accdcb/buy-verified-linkedin-accounts-boost-your-b2b-sales-pipeline-fast-2a67"/>
+        <title type="html"><![CDATA[The new word in home construction could be “plastics”]]></title>
+        <id>https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/</id>
+        <link href="https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From 53 to 88: A Practical Guide to PageSpeed Optimization for Static Next.js Sites]]></title>
-        <id>https://dev.to/alexander_nitrovich_16568/from-53-to-88-a-practical-guide-to-pagespeed-optimization-for-static-nextjs-sites-48mg</id>
-        <link href="https://dev.to/alexander_nitrovich_16568/from-53-to-88-a-practical-guide-to-pagespeed-optimization-for-static-nextjs-sites-48mg"/>
+        <title type="html"><![CDATA[I built a testimonial wall tool and the hardest part wasn't the product — it was the embed widget]]></title>
+        <id>https://dev.to/alex_gutscher_2ab0d3cf4c3/i-built-a-testimonial-wall-tool-and-the-hardest-part-wasnt-the-product-it-was-the-embed-widget-4eg9</id>
+        <link href="https://dev.to/alex_gutscher_2ab0d3cf4c3/i-built-a-testimonial-wall-tool-and-the-hardest-part-wasnt-the-product-it-was-the-embed-widget-4eg9"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4 JavaScript Frameworks Powering the Generative AI Revolution (and How to Choose)]]></title>
-        <id>https://dev.to/middlewaremind/4-javascript-frameworks-powering-the-generative-ai-revolution-and-how-to-choose-48pk</id>
-        <link href="https://dev.to/middlewaremind/4-javascript-frameworks-powering-the-generative-ai-revolution-and-how-to-choose-48pk"/>
+        <title type="html"><![CDATA[Deep Dive: JavaScript Innovations in April 2026]]></title>
+        <id>https://dev.to/norviktech/deep-dive-javascript-innovations-in-april-2026-f4k</id>
+        <link href="https://dev.to/norviktech/deep-dive-javascript-innovations-in-april-2026-f4k"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Is Vue 3 Vapor Mode?!]]></title>
-        <id>https://dev.to/parsajiravand/what-is-vue-3-vapor-mode-3k2o</id>
-        <link href="https://dev.to/parsajiravand/what-is-vue-3-vapor-mode-3k2o"/>
+        <title type="html"><![CDATA[How I Reduced PDF File Size by 80% in the Browser — No Server Needed]]></title>
+        <id>https://dev.to/kabir_daki/how-i-reduced-pdf-file-size-by-80-in-the-browser-no-server-needed-2dd</id>
+        <link href="https://dev.to/kabir_daki/how-i-reduced-pdf-file-size-by-80-in-the-browser-no-server-needed-2dd"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript vs JavaScript: The Complete Guide for 2026]]></title>
+        <id>https://dev.to/alaashamel/typescript-vs-javascript-the-complete-guide-for-2026-1471</id>
+        <link href="https://dev.to/alaashamel/typescript-vs-javascript-the-complete-guide-for-2026-1471"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3.1 Flash TTS for Next.js: ship voice UX in 15 min (2026)]]></title>
+        <id>https://dev.to/bean_bean/gemini-31-flash-tts-for-nextjs-ship-voice-ux-in-15-min-2026-8fp</id>
+        <link href="https://dev.to/bean_bean/gemini-31-flash-tts-for-nextjs-ship-voice-ux-in-15-min-2026-8fp"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Scalable React Applications in 2026: Best Practices & Patterns]]></title>
+        <id>https://dev.to/alaashamel/building-scalable-react-applications-in-2026-best-practices-patterns-37f0</id>
+        <link href="https://dev.to/alaashamel/building-scalable-react-applications-in-2026-best-practices-patterns-37f0"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
@@ -239,37 +288,58 @@
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Insta360 is putting screens on its next wireless mics to show logos or images]]></title>
-        <id>https://www.theverge.com/tech/914814/insta360-wireless-mic-pro-e-ink-screen-nab-2026-teaser</id>
-        <link href="https://www.theverge.com/tech/914814/insta360-wireless-mic-pro-e-ink-screen-nab-2026-teaser"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[What Is Vue 3 Vapor Mode?!]]></title>
+        <id>https://dev.to/parsajiravand/what-is-vue-3-vapor-mode-3k2o</id>
+        <link href="https://dev.to/parsajiravand/what-is-vue-3-vapor-mode-3k2o"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japanese man sentenced to prison for posting spoilers]]></title>
-        <id>https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten</id>
-        <link href="https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[4 JavaScript Frameworks Powering the Generative AI Revolution (and How to Choose)]]></title>
+        <id>https://dev.to/middlewaremind/4-javascript-frameworks-powering-the-generative-ai-revolution-and-how-to-choose-48pk</id>
+        <link href="https://dev.to/middlewaremind/4-javascript-frameworks-powering-the-generative-ai-revolution-and-how-to-choose-48pk"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple names Johny Srouji as chief hardware officer]]></title>
-        <id>https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook</id>
-        <link href="https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[From 53 to 88: A Practical Guide to PageSpeed Optimization for Static Next.js Sites]]></title>
+        <id>https://dev.to/alexander_nitrovich_16568/from-53-to-88-a-practical-guide-to-pagespeed-optimization-for-static-nextjs-sites-48mg</id>
+        <link href="https://dev.to/alexander_nitrovich_16568/from-53-to-88-a-practical-guide-to-pagespeed-optimization-for-static-nextjs-sites-48mg"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PlayStation&#8217;s age-gating restrictions are coming to UK consoles]]></title>
-        <id>https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat</id>
-        <link href="https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Buy Verified LinkedIn Accounts – Boost Your B2B Sales Pipeline Fast]]></title>
+        <id>https://dev.to/tracy_paul_86eff969accdcb/buy-verified-linkedin-accounts-boost-your-b2b-sales-pipeline-fast-2a67</id>
+        <link href="https://dev.to/tracy_paul_86eff969accdcb/buy-verified-linkedin-accounts-boost-your-b2b-sales-pipeline-fast-2a67"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Sports now lets you follow scores in a CarPlay widget]]></title>
-        <id>https://www.theverge.com/news/915564/apple-sports-widget-carplay</id>
-        <link href="https://www.theverge.com/news/915564/apple-sports-widget-carplay"/>
+        <title type="html"><![CDATA[Migrating from Open Exchange Rates to AllRatesToday: A Developer's Guide]]></title>
+        <id>https://dev.to/chathuranga_basnayaka_d50/migrating-from-open-exchange-rates-to-allratestoday-a-developers-guide-38o1</id>
+        <link href="https://dev.to/chathuranga_basnayaka_d50/migrating-from-open-exchange-rates-to-allratestoday-a-developers-guide-38o1"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Capture Console Errors and Network Requests in JavaScript]]></title>
+        <id>https://dev.to/issuecapture/how-to-capture-console-errors-and-network-requests-in-javascript-1jn6</id>
+        <link href="https://dev.to/issuecapture/how-to-capture-console-errors-and-network-requests-in-javascript-1jn6"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zod: TypeScript Schema Validation Without the Boilerplate]]></title>
+        <id>https://dev.to/recca0120/zod-typescript-schema-validation-without-the-boilerplate-3k3a</id>
+        <link href="https://dev.to/recca0120/zod-typescript-schema-validation-without-the-boilerplate-3k3a"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Vergecast Vergecast, 2026 edition]]></title>
+        <id>https://www.theverge.com/podcast/915682/how-the-verge-works-vergecast</id>
+        <link href="https://www.theverge.com/podcast/915682/how-the-verge-works-vergecast"/>
         <updated>2026-04-20T16:00:00.000Z</updated>
         <published>2026-04-20T16:00:00.000Z</published>
     </entry>
@@ -281,86 +351,16 @@
         <published>2026-04-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Vergecast Vergecast, 2026 edition]]></title>
-        <id>https://www.theverge.com/podcast/915682/how-the-verge-works-vergecast</id>
-        <link href="https://www.theverge.com/podcast/915682/how-the-verge-works-vergecast"/>
+        <title type="html"><![CDATA[Apple Sports now lets you follow scores in a CarPlay widget]]></title>
+        <id>https://www.theverge.com/news/915564/apple-sports-widget-carplay</id>
+        <link href="https://www.theverge.com/news/915564/apple-sports-widget-carplay"/>
         <updated>2026-04-20T16:00:00.000Z</updated>
         <published>2026-04-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men]]></title>
-        <id>https://www.wired.com/story/ai-generated-maga-girls/</id>
-        <link href="https://www.wired.com/story/ai-generated-maga-girls/"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H2O Audio Tri Run Workout Headphones Review: A Little Underwhelming]]></title>
-        <id>https://www.wired.com/review/h2o-audio-tri-run-workout-headphones/</id>
-        <link href="https://www.wired.com/review/h2o-audio-tri-run-workout-headphones/"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[They Built a Legendary Privacy Tool. Now They’re Sworn Enemies]]></title>
-        <id>https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/</id>
-        <link href="https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Humanoid Robot Set a Half-Marathon Record in China]]></title>
-        <id>https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/</id>
-        <link href="https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ben McKenzie Says Crypto Has a Secret Ingredient: Male Loneliness]]></title>
-        <id>https://www.wired.com/story/wired-at-night-event-ben-mckenzie-reads-mean-tweets/</id>
-        <link href="https://www.wired.com/story/wired-at-night-event-ben-mckenzie-reads-mean-tweets/"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Kitchen Composters and Food Recyclers (2026)]]></title>
-        <id>https://www.wired.com/story/home-composters-buying-guide/</id>
-        <link href="https://www.wired.com/story/home-composters-buying-guide/"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware negotiator pleads guilty to helping ransomware gang]]></title>
-        <id>https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/</id>
-        <link href="https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit]]></title>
-        <id>https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/</id>
-        <link href="https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube expands its AI likeness detection technology to celebrities]]></title>
-        <id>https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/</id>
-        <link href="https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance]]></title>
-        <id>https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/</id>
-        <link href="https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/"/>
-        <updated>2026-04-20T16:00:00.000Z</updated>
-        <published>2026-04-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s the key to better vegan cheese? Microbreweries, one startup says.]]></title>
-        <id>https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/</id>
-        <link href="https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/"/>
+        <title type="html"><![CDATA[PlayStation&#8217;s age-gating restrictions are coming to UK consoles]]></title>
+        <id>https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat</id>
+        <link href="https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat"/>
         <updated>2026-04-20T16:00:00.000Z</updated>
         <published>2026-04-20T16:00:00.000Z</published>
     </entry>
