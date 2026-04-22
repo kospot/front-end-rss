@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-22 15:01:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-22 18:02:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,12 +7,13 @@
 
 
 
+- [2026-04-22-Big-SEO-Mistakes-Developers-Make](https://dev.to/mitudas/biggest-seo-mistakes-developers-make-5eb8) 
 - [2026-04-18-The-Fastest-Way-to-Add-SEO-Keyword-Extraction-to-Any-App](https://dev.to/apollo_ag/the-fastest-way-to-add-seo-keyword-extraction-to-any-app-1b7m) 
 - [2026-04-16-The-Fastest-Way-to-Add-SEO-Keyword-Extraction-to-Any-App](https://dev.to/apollo_ag/the-fastest-way-to-add-seo-keyword-extraction-to-any-app-12o6) 
 - [2026-04-15-How-I-Built-23,000-SEO-Pages-in-20-Days-Programmatic-SEO-+-4-Languages](https://dev.to/skool_ora_7633c751fe0804b/how-i-built-23000-seo-pages-in-20-days-programmatic-seo-4-languages-51gn) 
-- [2026-04-13-Semantic-SEO-for-WordPress:-Rank-Higher-Without-Keyword-Stuffing](https://dev.to/fai_0e4beef557fe0f42b1a0b/semantic-seo-for-wordpress-rank-higher-without-keyword-stuffing-3h18) 
-- [2026-04-13-Batch-Rename-Photos-with-AI:-SEO-Friendly-Filenames-2026](https://dev.to/samma1997/batch-rename-photos-with-ai-seo-friendly-filenames-2026-1n9p) 
 - [2026-04-13-Social-IT-Kota-–-Leading-SEO-and-Digital-Marketing-Solutions-for-Business-Growth](https://dev.to/madhurmatka8437/social-it-kota-leading-seo-and-digital-marketing-solutions-for-business-growth-3790) 
+- [2026-04-13-Batch-Rename-Photos-with-AI:-SEO-Friendly-Filenames-2026](https://dev.to/samma1997/batch-rename-photos-with-ai-seo-friendly-filenames-2026-1n9p) 
+- [2026-04-13-Semantic-SEO-for-WordPress:-Rank-Higher-Without-Keyword-Stuffing](https://dev.to/fai_0e4beef557fe0f42b1a0b/semantic-seo-for-wordpress-rank-higher-without-keyword-stuffing-3h18) 
 - [2026-04-19-SEO,-AEO,-and-Geo-for-a-Modern-Developer-Portfolio](https://www.yashkapure.com/en/blog/seo-aeo-geo-for-a-modern-developer-portfolio/) 
 - [2026-04-18-Show-HN:-PushToPost-–-Automate-social-posts-and-SEO-changelogs-from-Git-pushes](https://news.ycombinator.com/item?id=47816357) 
 - [2026-04-15-Show-HN:-EverList-Programmatic-SEO-for-SaaS-founders-who-can't-afford-agencies](https://everlist.dev) 
