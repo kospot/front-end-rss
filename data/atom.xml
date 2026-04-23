@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-22T22:01:46.783Z</updated>
+    <updated>2026-04-23T00:01:21.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD]]></title>
+        <id>https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd</id>
+        <link href="https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Former MrBeast exec sues over ‘years’ of alleged harassment]]></title>
         <id>https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit</id>
@@ -29,30 +36,9 @@
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LinkedIn’s CEO is moving on; please hold your tearful video tributes]]></title>
-        <id>https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/</id>
-        <link href="https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA’s Artemis II moon mission shows space-to-Earth laser comms can scale]]></title>
-        <id>https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/</id>
-        <link href="https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From the stage to the future: Where are Startup Battlefield’s alumni now?]]></title>
-        <id>https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/</id>
-        <link href="https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google turns Chrome into an AI co-worker for the workplace]]></title>
-        <id>https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/</id>
-        <link href="https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/"/>
+        <title type="html"><![CDATA[AI Overviews are coming to your Gmail at work]]></title>
+        <id>https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/</id>
+        <link href="https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
@@ -64,16 +50,51 @@
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Overviews are coming to your Gmail at work]]></title>
-        <id>https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/</id>
-        <link href="https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/"/>
+        <title type="html"><![CDATA[Google turns Chrome into an AI co-worker for the workplace]]></title>
+        <id>https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/</id>
+        <link href="https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cursor vs Windsurf: Which IDE will get your code merged faster?]]></title>
-        <id>https://pub.towardsai.net/cursor-vs-windsurf-which-ide-will-get-your-code-merged-faster-a37157bf4fe7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/cursor-vs-windsurf-which-ide-will-get-your-code-merged-faster-a37157bf4fe7?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[From the stage to the future: Where are Startup Battlefield’s alumni now?]]></title>
+        <id>https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/</id>
+        <link href="https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA’s Artemis II moon mission shows space-to-Earth laser comms can scale]]></title>
+        <id>https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/</id>
+        <link href="https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn’s CEO is moving on; please hold your tearful video tributes]]></title>
+        <id>https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/</id>
+        <link href="https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humanoid robots race past humans in Beijing half-marathon,showing rapid advances]]></title>
+        <id>https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/</id>
+        <link href="https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent = Model + Harness. What Scales This Agent?]]></title>
+        <id>https://pub.towardsai.net/agent-model-harness-what-scales-this-agent-5f447815b602?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/agent-model-harness-what-scales-this-agent-5f447815b602?source=rss----98111c9905da---4"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Open Source Vector Search Engine Changed Local-First AI Direction]]></title>
+        <id>https://pub.towardsai.net/this-open-source-vector-search-engine-changed-local-first-ai-direction-23e9a3dde6df?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-open-source-vector-search-engine-changed-local-first-ai-direction-23e9a3dde6df?source=rss----98111c9905da---4"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
@@ -85,23 +106,51 @@
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Text Transform Tool]]></title>
-        <id>https://dev.to/macraemyintminhein98/text-transform-tool-5hhh</id>
-        <link href="https://dev.to/macraemyintminhein98/text-transform-tool-5hhh"/>
+        <title type="html"><![CDATA[Cursor vs Windsurf: Which IDE will get your code merged faster?]]></title>
+        <id>https://pub.towardsai.net/cursor-vs-windsurf-which-ide-will-get-your-code-merged-faster-a37157bf4fe7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/cursor-vs-windsurf-which-ide-will-get-your-code-merged-faster-a37157bf4fe7?source=rss----98111c9905da---4"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Announcing ElementsKit: a toolkit of reactive primitives for building the web UI]]></title>
-        <id>https://dev.to/wael/announcing-elementskit-a-toolkit-of-reactive-primitives-for-building-the-web-ui-2gbd</id>
-        <link href="https://dev.to/wael/announcing-elementskit-a-toolkit-of-reactive-primitives-for-building-the-web-ui-2gbd"/>
+        <title type="html"><![CDATA[AI PR Reviewer]]></title>
+        <id>https://dev.to/macraemyintminhein98/ai-pr-reviewer-5cga</id>
+        <link href="https://dev.to/macraemyintminhein98/ai-pr-reviewer-5cga"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PNG to JPG vs WebP: Which One Should You Actually Use in 2026]]></title>
-        <id>https://dev.to/samma1997/png-to-jpg-vs-webp-which-one-should-you-actually-use-in-2026-4o2m</id>
-        <link href="https://dev.to/samma1997/png-to-jpg-vs-webp-which-one-should-you-actually-use-in-2026-4o2m"/>
+        <title type="html"><![CDATA[I Built a Live Subscription Dashboard on RevenueCat's Charts API in One HTML File]]></title>
+        <id>https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-5alc</id>
+        <link href="https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-5alc"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Live Subscription Dashboard on RevenueCat's Charts API in One HTML File]]></title>
+        <id>https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-18ph</id>
+        <link href="https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-18ph"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gpt-image-2 API: ship 2K AI images in Next.js for $0.21 (2026)]]></title>
+        <id>https://dev.to/bean_bean/gpt-image-2-api-ship-2k-ai-images-in-nextjs-for-021-2026-17g6</id>
+        <link href="https://dev.to/bean_bean/gpt-image-2-api-ship-2k-ai-images-in-nextjs-for-021-2026-17g6"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apex GitHub Profile README Creator]]></title>
+        <id>https://dev.to/macraemyintminhein98/apex-github-profile-readme-creator-3o8b</id>
+        <link href="https://dev.to/macraemyintminhein98/apex-github-profile-readme-creator-3o8b"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built an AI Text Summarizer in One Night with Claude + Next.js]]></title>
+        <id>https://dev.to/yramstech/i-built-an-ai-text-summarizer-in-one-night-with-claude-nextjs-3p9</id>
+        <link href="https://dev.to/yramstech/i-built-an-ai-text-summarizer-in-one-night-with-claude-nextjs-3p9"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
@@ -113,51 +162,30 @@
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PNG to JPG vs WebP: Which One Should You Actually Use in 2026]]></title>
+        <id>https://dev.to/samma1997/png-to-jpg-vs-webp-which-one-should-you-actually-use-in-2026-4o2m</id>
+        <link href="https://dev.to/samma1997/png-to-jpg-vs-webp-which-one-should-you-actually-use-in-2026-4o2m"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing ElementsKit: a toolkit of reactive primitives for building the web UI]]></title>
+        <id>https://dev.to/wael/announcing-elementskit-a-toolkit-of-reactive-primitives-for-building-the-web-ui-2gbd</id>
+        <link href="https://dev.to/wael/announcing-elementskit-a-toolkit-of-reactive-primitives-for-building-the-web-ui-2gbd"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text Transform Tool]]></title>
+        <id>https://dev.to/macraemyintminhein98/text-transform-tool-5hhh</id>
+        <link href="https://dev.to/macraemyintminhein98/text-transform-tool-5hhh"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[把家里的游戏带出门：开源本地串流方案 Sunshine 上手指南]]></title>
         <id>https://sspai.com/post/108857</id>
         <link href="https://sspai.com/post/108857"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMW’s flagship 7 Series gets its ‘Neue Klasse’ upgrade]]></title>
-        <id>https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs</id>
-        <link href="https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framework is building a better couch keyboard because everyone hates the Logitech one]]></title>
-        <id>https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one</id>
-        <link href="https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framework’s first eGPUs turn its laptop into a desktop PC]]></title>
-        <id>https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16</id>
-        <link href="https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X makes it 1,900 percent more expensive to post links]]></title>
-        <id>https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme</id>
-        <link href="https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISS astronauts are getting new laptops]]></title>
-        <id>https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9</id>
-        <link href="https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I bought Alienware&#8217;s $350 OLED monitor and I can&#8217;t believe how good it is]]></title>
-        <id>https://www.theverge.com/tech/916277/alienware-aw2726dm-qdoled-gaming-monitor-specs-hands-on</id>
-        <link href="https://www.theverge.com/tech/916277/alienware-aw2726dm-qdoled-gaming-monitor-specs-hands-on"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
@@ -169,44 +197,44 @@
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox]]></title>
-        <id>https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/</id>
-        <link href="https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/"/>
+        <title type="html"><![CDATA[I bought Alienware&#8217;s $350 OLED monitor and I can&#8217;t believe how good it is]]></title>
+        <id>https://www.theverge.com/tech/916277/alienware-aw2726dm-qdoled-gaming-monitor-specs-hands-on</id>
+        <link href="https://www.theverge.com/tech/916277/alienware-aw2726dm-qdoled-gaming-monitor-specs-hands-on"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Is Sued Over Scam Ads on Facebook and Instagram]]></title>
-        <id>https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/</id>
-        <link href="https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/"/>
+        <title type="html"><![CDATA[ISS astronauts are getting new laptops]]></title>
+        <id>https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9</id>
+        <link href="https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Starz Promo Codes & Deals: Get a Discount This April 2026]]></title>
-        <id>https://www.wired.com/story/starz-promo-code/</id>
-        <link href="https://www.wired.com/story/starz-promo-code/"/>
+        <title type="html"><![CDATA[X makes it 1,900 percent more expensive to post links]]></title>
+        <id>https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme</id>
+        <link href="https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Infinite Machine Olto Review: A Tremendously Fun Ride]]></title>
-        <id>https://www.wired.com/review/infinite-machine-olto/</id>
-        <link href="https://www.wired.com/review/infinite-machine-olto/"/>
+        <title type="html"><![CDATA[Framework’s first eGPUs turn its laptop into a desktop PC]]></title>
+        <id>https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16</id>
+        <link href="https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beatbot Sora 30 Review: Midrange Price, High-End Results]]></title>
-        <id>https://www.wired.com/review/beatbot-sora-30/</id>
-        <link href="https://www.wired.com/review/beatbot-sora-30/"/>
+        <title type="html"><![CDATA[Framework is building a better couch keyboard because everyone hates the Logitech one]]></title>
+        <id>https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one</id>
+        <link href="https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dinnerly Meal Kit Review (2026): Hearty Meals on a Budget]]></title>
-        <id>https://www.wired.com/review/dinnerly-meal-kit-2026/</id>
-        <link href="https://www.wired.com/review/dinnerly-meal-kit-2026/"/>
+        <title type="html"><![CDATA[BMW’s flagship 7 Series gets its ‘Neue Klasse’ upgrade]]></title>
+        <id>https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs</id>
+        <link href="https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
@@ -218,79 +246,44 @@
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.]]></title>
-        <id>https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/</id>
-        <link href="https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/"/>
+        <title type="html"><![CDATA[Dinnerly Meal Kit Review (2026): Hearty Meals on a Budget]]></title>
+        <id>https://www.wired.com/review/dinnerly-meal-kit-2026/</id>
+        <link href="https://www.wired.com/review/dinnerly-meal-kit-2026/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snap Map’s new ‘Place Loyalty’ badges will show the spots you visit most often]]></title>
-        <id>https://techcrunch.com/2026/04/22/snap-maps-new-place-loyalty-badges-will-show-the-spots-you-visit-most-often/</id>
-        <link href="https://techcrunch.com/2026/04/22/snap-maps-new-place-loyalty-badges-will-show-the-spots-you-visit-most-often/"/>
+        <title type="html"><![CDATA[Beatbot Sora 30 Review: Midrange Price, High-End Results]]></title>
+        <id>https://www.wired.com/review/beatbot-sora-30/</id>
+        <link href="https://www.wired.com/review/beatbot-sora-30/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The most interesting startups showcased at Google Cloud Next 2026]]></title>
-        <id>https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/</id>
-        <link href="https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/"/>
+        <title type="html"><![CDATA[Infinite Machine Olto Review: A Tremendously Fun Ride]]></title>
+        <id>https://www.wired.com/review/infinite-machine-olto/</id>
+        <link href="https://www.wired.com/review/infinite-machine-olto/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Maps is about to get a big dose of AI]]></title>
-        <id>https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/</id>
-        <link href="https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/"/>
+        <title type="html"><![CDATA[Starz Promo Codes & Deals: Get a Discount This April 2026]]></title>
+        <id>https://www.wired.com/story/starz-promo-code/</id>
+        <link href="https://www.wired.com/story/starz-promo-code/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal]]></title>
-        <id>https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/</id>
-        <link href="https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/"/>
+        <title type="html"><![CDATA[Meta Is Sued Over Scam Ads on Facebook and Instagram]]></title>
+        <id>https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/</id>
+        <link href="https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta will record employees’ keystrokes and use it to train its AI models]]></title>
-        <id>https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/</id>
-        <link href="https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Pinterest team redesigns email with Extra — and it’s actually good]]></title>
-        <id>https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/</id>
-        <link href="https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield]]></title>
-        <id>https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/</id>
-        <link href="https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redwood Materials lays off 10% in restructuring to chase energy storage business]]></title>
-        <id>https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/</id>
-        <link href="https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X makes it more expensive to post links through its API]]></title>
-        <id>https://techcrunch.com/2026/04/22/x-makes-it-more-expensive-to-post-links-through-its-api/</id>
-        <link href="https://techcrunch.com/2026/04/22/x-makes-it-more-expensive-to-post-links-through-its-api/"/>
-        <updated>2026-04-21T16:00:00.000Z</updated>
-        <published>2026-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK government says 100 countries have spyware that can hack people’s phones]]></title>
-        <id>https://techcrunch.com/2026/04/22/uk-government-says-100-countries-have-spyware-that-can-hack-peoples-phones/</id>
-        <link href="https://techcrunch.com/2026/04/22/uk-government-says-100-countries-have-spyware-that-can-hack-peoples-phones/"/>
+        <title type="html"><![CDATA[Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox]]></title>
+        <id>https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/</id>
+        <link href="https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
@@ -302,65 +295,72 @@
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Legit – Dockerized git server for agent interaction]]></title>
-        <id>https://github.com/aquanauts/legit</id>
-        <link href="https://github.com/aquanauts/legit"/>
+        <title type="html"><![CDATA[UK government says 100 countries have spyware that can hack people’s phones]]></title>
+        <id>https://techcrunch.com/2026/04/22/uk-government-says-100-countries-have-spyware-that-can-hack-peoples-phones/</id>
+        <link href="https://techcrunch.com/2026/04/22/uk-government-says-100-countries-have-spyware-that-can-hack-peoples-phones/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The best time to post on Hacker News]]></title>
-        <id>https://blog.alcazarsec.com/tech/posts/best-time-to-post-on-hacker-news</id>
-        <link href="https://blog.alcazarsec.com/tech/posts/best-time-to-post-on-hacker-news"/>
+        <title type="html"><![CDATA[X makes it more expensive to post links through its API]]></title>
+        <id>https://techcrunch.com/2026/04/22/x-makes-it-more-expensive-to-post-links-through-its-api/</id>
+        <link href="https://techcrunch.com/2026/04/22/x-makes-it-more-expensive-to-post-links-through-its-api/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I turned an old Android phone into a home server]]></title>
-        <id>https://www.xda-developers.com/turned-old-android-phone-into-home-server-more-useful-than-raspberry-pi/</id>
-        <link href="https://www.xda-developers.com/turned-old-android-phone-into-home-server-more-useful-than-raspberry-pi/"/>
+        <title type="html"><![CDATA[Redwood Materials lays off 10% in restructuring to chase energy storage business]]></title>
+        <id>https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/</id>
+        <link href="https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NASA reckons Artemis II heat shield performed like a champ]]></title>
-        <id>https://www.theregister.com/2026/04/22/nasa_artemis_ii_heat_shield/</id>
-        <link href="https://www.theregister.com/2026/04/22/nasa_artemis_ii_heat_shield/"/>
+        <title type="html"><![CDATA[Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield]]></title>
+        <id>https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/</id>
+        <link href="https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Move Lights in a Photograph in 3D]]></title>
-        <id>https://vrroom.github.io/tokenlight/</id>
-        <link href="https://vrroom.github.io/tokenlight/"/>
+        <title type="html"><![CDATA[Former Pinterest team redesigns email with Extra — and it’s actually good]]></title>
+        <id>https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/</id>
+        <link href="https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unpickable Lock [video]]]></title>
-        <id>https://www.youtube.com/watch?v=-qUu8kIliy8</id>
-        <link href="https://www.youtube.com/watch?v=-qUu8kIliy8"/>
+        <title type="html"><![CDATA[Meta will record employees’ keystrokes and use it to train its AI models]]></title>
+        <id>https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/</id>
+        <link href="https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Physics-accurate 3D assets for robotics simulations from any input]]></title>
-        <id>https://app.rigyd.com/</id>
-        <link href="https://app.rigyd.com/"/>
+        <title type="html"><![CDATA[Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal]]></title>
+        <id>https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/</id>
+        <link href="https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The last Elasticsearch engineer you will hire]]></title>
-        <id>https://www.trydeer.sh/product</id>
-        <link href="https://www.trydeer.sh/product"/>
+        <title type="html"><![CDATA[Google Maps is about to get a big dose of AI]]></title>
+        <id>https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/</id>
+        <link href="https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser]]></title>
-        <id>https://duckdb.org/2026/04/13/announcing-duckdb-152</id>
-        <link href="https://duckdb.org/2026/04/13/announcing-duckdb-152"/>
+        <title type="html"><![CDATA[The most interesting startups showcased at Google Cloud Next 2026]]></title>
+        <id>https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/</id>
+        <link href="https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/"/>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+        <published>2026-04-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snap Map’s new ‘Place Loyalty’ badges will show the spots you visit most often]]></title>
+        <id>https://techcrunch.com/2026/04/22/snap-maps-new-place-loyalty-badges-will-show-the-spots-you-visit-most-often/</id>
+        <link href="https://techcrunch.com/2026/04/22/snap-maps-new-place-loyalty-badges-will-show-the-spots-you-visit-most-often/"/>
         <updated>2026-04-21T16:00:00.000Z</updated>
         <published>2026-04-21T16:00:00.000Z</published>
     </entry>
