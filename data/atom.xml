@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-23T07:01:24.664Z</updated>
+    <updated>2026-04-23T10:02:37.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,6 +22,13 @@
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD]]></title>
+        <id>https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd</id>
+        <link href="https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Former MrBeast exec sues over ‘years’ of alleged harassment]]></title>
         <id>https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit</id>
         <link href="https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit"/>
@@ -29,9 +36,16 @@
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD]]></title>
-        <id>https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd</id>
-        <link href="https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd"/>
+        <title type="html"><![CDATA[The Adidas Hyperboost Edge Is Your New Super Trainer]]></title>
+        <id>https://www.wired.com/story/adidas-hyperboost-edge-super-trainer/</id>
+        <link href="https://www.wired.com/story/adidas-hyperboost-edge-super-trainer/"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony Inzone H6 Air Review: Comfortable Headphones, Great Sound]]></title>
+        <id>https://www.wired.com/review/sony-inzone-h6-air/</id>
+        <link href="https://www.wired.com/review/sony-inzone-h6-air/"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
@@ -92,156 +106,51 @@
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Linguistics/Computing Overview for the Layperson]]></title>
-        <id>https://news.ycombinator.com/item?id=47872849</id>
-        <link href="https://news.ycombinator.com/item?id=47872849"/>
+        <title type="html"><![CDATA[Local LLM for Private Companies]]></title>
+        <id>https://news.ycombinator.com/item?id=47873854</id>
+        <link href="https://news.ycombinator.com/item?id=47873854"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hey I made a AI Native personal workspace for the desktop worker]]></title>
-        <id>https://news.ycombinator.com/item?id=47872758</id>
-        <link href="https://news.ycombinator.com/item?id=47872758"/>
+        <title type="html"><![CDATA[GBC/GBA Emulator in Rust]]></title>
+        <id>https://github.com/Sessa93/gbrust/tree/main</id>
+        <link href="https://github.com/Sessa93/gbrust/tree/main"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A neural network for lossy audio codec reconstruction]]></title>
-        <id>https://github.com/aston89/UNlossifier-lossy-audio-reconstructor-and-sound-signature-simulator/tree/main</id>
-        <link href="https://github.com/aston89/UNlossifier-lossy-audio-reconstructor-and-sound-signature-simulator/tree/main"/>
+        <title type="html"><![CDATA[Show HN: Floors – DJ mix discovery built around a music knowledge graph]]></title>
+        <id>https://floors.music/</id>
+        <link href="https://floors.music/"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[256 Lines or Less: Test Case Minimization]]></title>
-        <id>https://matklad.github.io/2026/04/20/test-case-minimization.html</id>
-        <link href="https://matklad.github.io/2026/04/20/test-case-minimization.html"/>
+        <title type="html"><![CDATA[Cortex Auth – Rust secrets vault for AI agents (exec-based injection)]]></title>
+        <id>https://github.com/davideuler/cortex-auth</id>
+        <link href="https://github.com/davideuler/cortex-auth"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Asset Harvester]]></title>
-        <id>https://github.com/NVIDIA/asset-harvester</id>
-        <link href="https://github.com/NVIDIA/asset-harvester"/>
+        <title type="html"><![CDATA[Trust Me, I'm a Shortcut]]></title>
+        <id>https://www.wietzebeukema.nl/blog/trust-me-im-a-shortcut</id>
+        <link href="https://www.wietzebeukema.nl/blog/trust-me-im-a-shortcut"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aisbf – AI Service Broker Framework (BETA) unified proxy and intelligent router]]></title>
-        <id>https://aisbf.cloud</id>
-        <link href="https://aisbf.cloud"/>
+        <title type="html"><![CDATA[Bitwuzla: Satisfiability Modulo Theories (SMT) Solver]]></title>
+        <id>https://github.com/bitwuzla/bitwuzla</id>
+        <link href="https://github.com/bitwuzla/bitwuzla"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Habitual coffee intake modifies host physiology and cognition]]></title>
-        <id>https://www.nature.com/articles/s41467-026-71264-8</id>
-        <link href="https://www.nature.com/articles/s41467-026-71264-8"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fatty acid could restore failing vision]]></title>
-        <id>https://www.sciencedaily.com/releases/2026/04/260422091043.htm</id>
-        <link href="https://www.sciencedaily.com/releases/2026/04/260422091043.htm"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TeraFab facilities will use Intel's 14A process]]></title>
-        <id>https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-terafab-will-use-intels-14a-process-technology-to-make-ai-chips-spacex-will-be-responsible-for-high-volume-chip-manufacturing-in-liekly-intel-tech-licensing-deal</id>
-        <link href="https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-terafab-will-use-intels-14a-process-technology-to-make-ai-chips-spacex-will-be-responsible-for-high-volume-chip-manufacturing-in-liekly-intel-tech-licensing-deal"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bruce Davidson – His landmark Subway series and his path to Magnum]]></title>
-        <id>https://www.youtube.com/watch?v=8KmDB4VHpzQ</id>
-        <link href="https://www.youtube.com/watch?v=8KmDB4VHpzQ"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database Turing Award Winner Mike Stonebraker [video]]]></title>
-        <id>https://www.youtube.com/watch?v=YPObBOwIrHk</id>
-        <link href="https://www.youtube.com/watch?v=YPObBOwIrHk"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Stenobird, podcast transcription service for your agent]]></title>
-        <id>https://stenobird.com</id>
-        <link href="https://stenobird.com"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humanoid robots race past humans in Beijing half-marathon,showing rapid advances]]></title>
-        <id>https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/</id>
-        <link href="https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Iran Metabolizes the Pressure That Broke Venezuela]]></title>
-        <id>https://warontherocks.com/why-iran-metabolizes-the-pressure-that-broke-venezuela/</id>
-        <link href="https://warontherocks.com/why-iran-metabolizes-the-pressure-that-broke-venezuela/"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arti: a Rust Tor Implementation – no longer experimental and ready for use]]></title>
-        <id>https://arti.torproject.org</id>
-        <link href="https://arti.torproject.org"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tasteful Tokenmaxxing]]></title>
-        <id>https://www.latent.space/p/ainews-tasteful-tokenmaxxing</id>
-        <link href="https://www.latent.space/p/ainews-tasteful-tokenmaxxing"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bash-ships: A Bash implementation of the classic strategy game Battleships]]></title>
-        <id>https://github.com/StarShovel/bash-ships</id>
-        <link href="https://github.com/StarShovel/bash-ships"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why This Car Rental Company's Stock Climbed 700% in One Month]]></title>
-        <id>https://www.forbes.com/sites/aliciapark/2026/04/22/a-car-rental-stock-is-up-700-in-one-month-is-it-a-meme-stock/</id>
-        <link href="https://www.forbes.com/sites/aliciapark/2026/04/22/a-car-rental-stock-is-up-700-in-one-month-is-it-a-meme-stock/"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google upgrades AI Mode in the Chrome browser]]></title>
-        <id>https://blog.google/products-and-platforms/products/search/ai-mode-chrome/</id>
-        <link href="https://blog.google/products-and-platforms/products/search/ai-mode-chrome/"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's time to reclaim the word "Palantir" for JRR Tolkien]]></title>
-        <id>https://www.zig.art/p/its-time-to-reclaim-the-word-palantir</id>
-        <link href="https://www.zig.art/p/its-time-to-reclaim-the-word-palantir"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic: No "kill switch" for AI in classified settings]]></title>
-        <id>https://www.axios.com/2026/04/22/anthropic-no-kill-switch-ai-classified-settings</id>
-        <link href="https://www.axios.com/2026/04/22/anthropic-no-kill-switch-ai-classified-settings"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A classic Excel ad just got a 2026 upgrade [video]]]></title>
-        <id>https://www.youtube.com/watch?v=iEVx2ylAbI4</id>
-        <link href="https://www.youtube.com/watch?v=iEVx2ylAbI4"/>
+        <title type="html"><![CDATA[Roast my game: Photobomb mobile multiplayer party game]]></title>
+        <id>https://www.photobomb.online/</id>
+        <link href="https://www.photobomb.online/"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
@@ -253,9 +162,156 @@
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roast my game: Photobomb mobile multiplayer party game]]></title>
-        <id>https://www.photobomb.online/</id>
-        <link href="https://www.photobomb.online/"/>
+        <title type="html"><![CDATA[A classic Excel ad just got a 2026 upgrade [video]]]></title>
+        <id>https://www.youtube.com/watch?v=iEVx2ylAbI4</id>
+        <link href="https://www.youtube.com/watch?v=iEVx2ylAbI4"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic: No "kill switch" for AI in classified settings]]></title>
+        <id>https://www.axios.com/2026/04/22/anthropic-no-kill-switch-ai-classified-settings</id>
+        <link href="https://www.axios.com/2026/04/22/anthropic-no-kill-switch-ai-classified-settings"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's time to reclaim the word "Palantir" for JRR Tolkien]]></title>
+        <id>https://www.zig.art/p/its-time-to-reclaim-the-word-palantir</id>
+        <link href="https://www.zig.art/p/its-time-to-reclaim-the-word-palantir"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google upgrades AI Mode in the Chrome browser]]></title>
+        <id>https://blog.google/products-and-platforms/products/search/ai-mode-chrome/</id>
+        <link href="https://blog.google/products-and-platforms/products/search/ai-mode-chrome/"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why This Car Rental Company's Stock Climbed 700% in One Month]]></title>
+        <id>https://www.forbes.com/sites/aliciapark/2026/04/22/a-car-rental-stock-is-up-700-in-one-month-is-it-a-meme-stock/</id>
+        <link href="https://www.forbes.com/sites/aliciapark/2026/04/22/a-car-rental-stock-is-up-700-in-one-month-is-it-a-meme-stock/"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash-ships: A Bash implementation of the classic strategy game Battleships]]></title>
+        <id>https://github.com/StarShovel/bash-ships</id>
+        <link href="https://github.com/StarShovel/bash-ships"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tasteful Tokenmaxxing]]></title>
+        <id>https://www.latent.space/p/ainews-tasteful-tokenmaxxing</id>
+        <link href="https://www.latent.space/p/ainews-tasteful-tokenmaxxing"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arti: a Rust Tor Implementation – no longer experimental and ready for use]]></title>
+        <id>https://arti.torproject.org</id>
+        <link href="https://arti.torproject.org"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Iran Metabolizes the Pressure That Broke Venezuela]]></title>
+        <id>https://warontherocks.com/why-iran-metabolizes-the-pressure-that-broke-venezuela/</id>
+        <link href="https://warontherocks.com/why-iran-metabolizes-the-pressure-that-broke-venezuela/"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humanoid robots race past humans in Beijing half-marathon,showing rapid advances]]></title>
+        <id>https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/</id>
+        <link href="https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Stenobird, podcast transcription service for your agent]]></title>
+        <id>https://stenobird.com</id>
+        <link href="https://stenobird.com"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Turing Award Winner Mike Stonebraker [video]]]></title>
+        <id>https://www.youtube.com/watch?v=YPObBOwIrHk</id>
+        <link href="https://www.youtube.com/watch?v=YPObBOwIrHk"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bruce Davidson – His landmark Subway series and his path to Magnum]]></title>
+        <id>https://www.youtube.com/watch?v=8KmDB4VHpzQ</id>
+        <link href="https://www.youtube.com/watch?v=8KmDB4VHpzQ"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TeraFab facilities will use Intel's 14A process]]></title>
+        <id>https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-terafab-will-use-intels-14a-process-technology-to-make-ai-chips-spacex-will-be-responsible-for-high-volume-chip-manufacturing-in-liekly-intel-tech-licensing-deal</id>
+        <link href="https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-terafab-will-use-intels-14a-process-technology-to-make-ai-chips-spacex-will-be-responsible-for-high-volume-chip-manufacturing-in-liekly-intel-tech-licensing-deal"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fatty acid could restore failing vision]]></title>
+        <id>https://www.sciencedaily.com/releases/2026/04/260422091043.htm</id>
+        <link href="https://www.sciencedaily.com/releases/2026/04/260422091043.htm"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Habitual coffee intake modifies host physiology and cognition]]></title>
+        <id>https://www.nature.com/articles/s41467-026-71264-8</id>
+        <link href="https://www.nature.com/articles/s41467-026-71264-8"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aisbf – AI Service Broker Framework (BETA) unified proxy and intelligent router]]></title>
+        <id>https://aisbf.cloud</id>
+        <link href="https://aisbf.cloud"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asset Harvester]]></title>
+        <id>https://github.com/NVIDIA/asset-harvester</id>
+        <link href="https://github.com/NVIDIA/asset-harvester"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[256 Lines or Less: Test Case Minimization]]></title>
+        <id>https://matklad.github.io/2026/04/20/test-case-minimization.html</id>
+        <link href="https://matklad.github.io/2026/04/20/test-case-minimization.html"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A neural network for lossy audio codec reconstruction]]></title>
+        <id>https://github.com/aston89/UNlossifier-lossy-audio-reconstructor-and-sound-signature-simulator/tree/main</id>
+        <link href="https://github.com/aston89/UNlossifier-lossy-audio-reconstructor-and-sound-signature-simulator/tree/main"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey I made a AI Native personal workspace for the desktop worker]]></title>
+        <id>https://news.ycombinator.com/item?id=47872758</id>
+        <link href="https://news.ycombinator.com/item?id=47872758"/>
+        <updated>2026-04-22T16:00:00.000Z</updated>
+        <published>2026-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Linguistics/Computing Overview for the Layperson]]></title>
+        <id>https://news.ycombinator.com/item?id=47872849</id>
+        <link href="https://news.ycombinator.com/item?id=47872849"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
@@ -305,62 +361,6 @@
         <title type="html"><![CDATA[This Open Source Vector Search Engine Changed Local-First AI Direction]]></title>
         <id>https://pub.towardsai.net/this-open-source-vector-search-engine-changed-local-first-ai-direction-23e9a3dde6df?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/this-open-source-vector-search-engine-changed-local-first-ai-direction-23e9a3dde6df?source=rss----98111c9905da---4"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fine-Tuning vs. RAG for Medical AI: A Builder’s Honest Guide]]></title>
-        <id>https://pub.towardsai.net/fine-tuning-vs-rag-for-medical-ai-a-builders-honest-guide-4efe723f2e57?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/fine-tuning-vs-rag-for-medical-ai-a-builders-honest-guide-4efe723f2e57?source=rss----98111c9905da---4"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor vs Windsurf: Which IDE will get your code merged faster?]]></title>
-        <id>https://pub.towardsai.net/cursor-vs-windsurf-which-ide-will-get-your-code-merged-faster-a37157bf4fe7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/cursor-vs-windsurf-which-ide-will-get-your-code-merged-faster-a37157bf4fe7?source=rss----98111c9905da---4"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Most AI Products Fail: The Missing System Design Layer (AI Architecture Guide)]]></title>
-        <id>https://pub.towardsai.net/why-most-ai-products-fail-the-missing-system-design-layer-ai-architecture-guide-c6b98f4817ac?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-most-ai-products-fail-the-missing-system-design-layer-ai-architecture-guide-c6b98f4817ac?source=rss----98111c9905da---4"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WorkflowGen:an adaptive workflow generation mechanism driven by trajectory experience]]></title>
-        <id>https://arxiv.org/abs/2604.19756</id>
-        <link href="https://arxiv.org/abs/2604.19756"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On-Meter Graph Machine Learning: A Case Study of PV Power Forecasting for Grid Edge Intelligence]]></title>
-        <id>https://arxiv.org/abs/2604.19800</id>
-        <link href="https://arxiv.org/abs/2604.19800"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixture-of-Experts]]></title>
-        <id>https://arxiv.org/abs/2604.19835</id>
-        <link href="https://arxiv.org/abs/2604.19835"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Reinforcement Fine-Tuning in LVLM: Convergence, Reward Decomposition, and Generalization]]></title>
-        <id>https://arxiv.org/abs/2604.19857</id>
-        <link href="https://arxiv.org/abs/2604.19857"/>
-        <updated>2026-04-22T16:00:00.000Z</updated>
-        <published>2026-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data]]></title>
-        <id>https://arxiv.org/abs/2604.19859</id>
-        <link href="https://arxiv.org/abs/2604.19859"/>
         <updated>2026-04-22T16:00:00.000Z</updated>
         <published>2026-04-22T16:00:00.000Z</published>
     </entry>
