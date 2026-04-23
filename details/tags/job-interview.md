@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-23 23:02:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-24 06:00:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -9,6 +9,7 @@
 
 - [2026-04-15-I-Got-a-Job-Offer.-But,-It-Came-With-Malware.](https://dev.to/denyherianto/i-got-a-job-offer-but-it-came-with-malwares-4c9a) 
 - [2026-04-06-AI-dolls-offer-companionship-to-the-elderly](https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd) 
+- [2026-04-24-Microsoft-offers-buyout-for-up-to-7%-of-US-employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/) 
 - [2026-04-23-How-SpaceX-preempted-a-$2B-fundraise-with-a-$60B-buyout-offer](https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/) 
 - [2026-04-17-Anthropic-CPO-leaves-Figma’s-board-after-reports-he-will-offer-a-competing-product](https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/) 
 - [2026-04-16-Anthropic-shrugs-off-VC-funding-offers-valuing-it-at-$800B+,-for-now](https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/) 
@@ -16,4 +17,3 @@
 - [2026-04-07-AI-startup-Rocket-offers-vibe-McKinsey-style-reports-at-a-fraction-of-the-cost](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/) 
 - [2026-03-30-Uber-is-buying-Berlin-startup-Blacklane-to-bolster-its-‘Elite’-offering](https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/) 
 - [2026-03-29-Mark-Zuckerberg-texted-Elon-Musk-to-offer-help-with-DOGE](https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/) 
-- [2026-03-25-Kentucky-woman-rejects-$26M-offer-to-turn-her-farm-into-a-data-center](https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/) 
