@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-24 08:01:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-24 10:01:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -8,6 +8,7 @@
 
 
 - [2026-04-15-I-Got-a-Job-Offer.-But,-It-Came-With-Malware.](https://dev.to/denyherianto/i-got-a-job-offer-but-it-came-with-malwares-4c9a) 
+- [2026-04-24-Light-activated-material-offers-new-approach-to-carbon-dioxide-conversion](https://phys.org/news/2026-03-material-approach-carbon-dioxide-conversion.html) 
 - [2026-04-06-AI-dolls-offer-companionship-to-the-elderly](https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd) 
 - [2026-04-24-Microsoft-offers-buyout-for-up-to-7%-of-US-employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/) 
 - [2026-04-23-How-SpaceX-preempted-a-$2B-fundraise-with-a-$60B-buyout-offer](https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/) 
