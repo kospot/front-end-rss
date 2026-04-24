@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-24 12:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-24 15:02:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -8,6 +8,7 @@
 
 
 - [2026-04-24-Making-GIFs-from-Videos-Without-Leaving-Your-Browser-—-How-I-Did-It](https://dev.to/linmingren/making-gifs-from-videos-without-leaving-your-browser-how-i-did-it-3ojl) 
+- [2026-04-24-Strip-the-Sound-from-Any-Video-in-Seconds](https://dev.to/linmingren/strip-the-sound-from-any-video-in-seconds-359l) 
 - [2026-04-18-WebRTC-vs-WebSocket-Explained:-When-to-Use-What-A-Real-World-Story](https://dev.to/abdullahmubin/webrtc-vs-websocket-explained-when-to-use-what-a-real-world-story-5de9) 
 - [2026-04-16-WebRTC-Works-Great-in-Demos.-In-Production,-It-Falls-Apart.-Here's-the-Fix.](https://dev.to/colocohen/webrtc-works-great-in-demos-in-production-it-falls-apart-heres-the-fix-f9h) 
 - [2026-04-13-I-built-a-free-desktop-video-downloader-for-Windows-—-Grabbit](https://dev.to/indignity/i-built-a-free-desktop-video-downloader-for-windows-grabbit-3knc) 
@@ -195,15 +196,15 @@
 - [2026-03-28-I-left-YouTube-two-years-ago.-Time-to-come-back-video](https://www.youtube.com/watch?v=Yz3lSKgz4q8) 
 - [2026-03-27-Offline-Mac-Translator-WebRTC+Llama.cpp.-Roast-My-C++](https://github.com/GlitchyBlep/Realtime-AI-Translator) 
 - [2026-03-26-Ireland's-first-mobile-video-call-via-satellite-is-made](https://www.rte.ie/news/business/2026/0326/1565222-satellite-call-ireland/) 
-- [2026-04-23-LinkedIn’s-CEO-is-moving-on;-please-hold-your-tearful-video-tributes](https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/) 
 - [2026-04-23-Shade-lands-$14M-to-let-creative-teams-search-their-video-libraries-in-plain-English](https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/) 
-- [2026-04-17-SaySo-is-a-new-short-form-video-app-that-aims-to-restore-users’-trust-in-news](https://techcrunch.com/2026/04/17/sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-trust-in-news/) 
+- [2026-04-23-LinkedIn’s-CEO-is-moving-on;-please-hold-your-tearful-video-tributes](https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/) 
 - [2026-04-17-Netflix-plans-to-add-a-vertical-video-feed,-use-AI-for-recommendations](https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/) 
+- [2026-04-17-SaySo-is-a-new-short-form-video-app-that-aims-to-restore-users’-trust-in-news](https://techcrunch.com/2026/04/17/sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-trust-in-news/) 
 - [2026-04-09-Spotify-now-lets-everyone-turn-off-videos-in-its-app](https://techcrunch.com/2026/04/09/spotify-now-lets-everyone-turn-off-all-videos-in-its-app/) 
 - [2026-04-08-As-YouTube-grows-on-TV,-it-eyes-more-interactive-video-across-formats](https://techcrunch.com/2026/04/08/as-youtube-grows-on-tv-it-eyes-more-interactive-video-across-formats/) 
 - [2026-03-30-Sora’s-shutdown-could-be-a-reality-check-moment-for-AI-video](https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/) 
-- [2026-03-26-Conntour-raises-$7M-from-General-Catalyst,-YC-to-build-an-AI-search-engine-for-security-video-systems](https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/) 
 - [2026-03-26-ByteDance’s-new-AI-video-generation-model,-Dreamina-Seedance-2.0,-comes-to-CapCut](https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/) 
+- [2026-03-26-Conntour-raises-$7M-from-General-Catalyst,-YC-to-build-an-AI-search-engine-for-security-video-systems](https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/) 
 - [2026-04-21-H2O-Audio-Tri-Run-Workout-Headphones-Review:-A-Little-Underwhelming](https://www.wired.com/review/h2o-audio-tri-run-workout-headphones/) 
 - [2026-04-15-GoPro’s-New-Mission-1-Cameras-Have-8K-Video-and-Interchangeable-Lenses](https://www.wired.com/story/gopro-mission-1-cameras/) 
 - [2026-04-08-Our-Favorite-Video-Doorbell-Is-$40-Off](https://www.wired.com/story/nest-doorbell-deal-426/) 
@@ -212,8 +213,8 @@
 - [2026-03-30-5-Best-Video-Doorbell-Cameras-2026:-Smart,-Battery,-AI,-Budget,-and-Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/) 
 - [2026-03-27-Best-External-Hard-Drive-2026:-SSD-to-Store-Data,-Video,-and-More](https://www.wired.com/story/best-portable-external-storage-drives/) 
 - [2026-03-26-There’s-Something-Very-Dark-About-a-Lot-of-Those-Viral-AI-Fruit-Videos](https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/) 
-- [2026-04-17-YouTube’s-mobile-app-finally-lets-you-share-timestamped-videos](https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips) 
 - [2026-04-17-Netflix-embraces-vertical-video-with-major-mobile-app-update](https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video) 
+- [2026-04-17-YouTube’s-mobile-app-finally-lets-you-share-timestamped-videos](https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips) 
 - [2026-04-15-Prime-Video-is-bundling-Apple-TV-Plus-and-Peacock-for-a-limited-time](https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle) 
 - [2026-04-11-The-Iranian-Lego-AI-video-creators-credit-their-virality-to-&amp;#8216;heart&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu) 
 - [2026-04-23--App+1｜秒看视频参数，我做了个免费的-Mac-小工具](https://sspai.com/post/108385) 
