@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-24T13:03:49.579Z</updated>
+    <updated>2026-04-24T15:03:39.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,37 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Brendan Carr’s war on wokeness targets inclusive children&#8217;s television]]></title>
-        <id>https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming</id>
-        <link href="https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming"/>
+        <title type="html"><![CDATA[AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy]]></title>
+        <id>https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition</id>
+        <link href="https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta is laying off 10 percent of its staff]]></title>
-        <id>https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff</id>
-        <link href="https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games]]></title>
-        <id>https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma</id>
-        <link href="https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI says its new GPT-5.5 model is more efficient and better at coding]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US arrests soldier who allegedly made $400k on Maduro Polymarket bets]]></title>
-        <id>https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke</id>
-        <link href="https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke"/>
+        <title type="html"><![CDATA[China’s DeepSeek previews new AI model a year after jolting US rivals ]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
@@ -57,9 +36,37 @@
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China’s DeepSeek previews new AI model a year after jolting US rivals ]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model"/>
+        <title type="html"><![CDATA[US arrests soldier who allegedly made $400k on Maduro Polymarket bets]]></title>
+        <id>https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke</id>
+        <link href="https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI says its new GPT-5.5 model is more efficient and better at coding]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games]]></title>
+        <id>https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma</id>
+        <link href="https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta is laying off 10 percent of its staff]]></title>
+        <id>https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff</id>
+        <link href="https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brendan Carr’s war on wokeness targets inclusive children&#8217;s television]]></title>
+        <id>https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming</id>
+        <link href="https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
@@ -106,58 +113,9 @@
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs]]></title>
-        <id>https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/</id>
-        <link href="https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These are the countries moving to ban social media for children]]></title>
-        <id>https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/</id>
-        <link href="https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bret Taylor’s Sierra buys YC-backed AI startup Fragment]]></title>
-        <id>https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/</id>
-        <link href="https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Noscroll, an AI bot that does your doomscrolling for you]]></title>
-        <id>https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/</id>
-        <link href="https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta to cut 10% of jobs, or 8,000 employees, report says]]></title>
-        <id>https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/</id>
-        <link href="https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Era raises $11M to build a software platform for AI gadgets]]></title>
-        <id>https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/</id>
-        <link href="https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta is revamping its cross-app management system]]></title>
-        <id>https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/</id>
-        <link href="https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redwood Materials loses COO amid layoffs, restructuring]]></title>
-        <id>https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/</id>
-        <link href="https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/"/>
+        <title type="html"><![CDATA[DeepSeek previews new AI model that ‘closes the gap’ with frontier models]]></title>
+        <id>https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/</id>
+        <link href="https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
@@ -169,184 +127,156 @@
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a full-stack app with Wasp, an agent-friendly web framework]]></title>
-        <id>https://wasp.sh/blog/2026/03/29/hireveld-from-10-stacks-to-production-with-wasp</id>
-        <link href="https://wasp.sh/blog/2026/03/29/hireveld-from-10-stacks-to-production-with-wasp"/>
+        <title type="html"><![CDATA[Redwood Materials loses COO amid layoffs, restructuring]]></title>
+        <id>https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/</id>
+        <link href="https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A plain-text knowledge vault with Claude Code and Obsidian]]></title>
-        <id>https://canatak.substack.com/p/i-dont-need-to-know-everything-i</id>
-        <link href="https://canatak.substack.com/p/i-dont-need-to-know-everything-i"/>
+        <title type="html"><![CDATA[Meta is revamping its cross-app management system]]></title>
+        <id>https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/</id>
+        <link href="https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Cardcast.gg – Play paper Magic: The Gathering over webcam]]></title>
-        <id>https://cardcast.gg</id>
-        <link href="https://cardcast.gg"/>
+        <title type="html"><![CDATA[Era raises $11M to build a software platform for AI gadgets]]></title>
+        <id>https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/</id>
+        <link href="https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No 10 says Falklands sovereignty rests with UK after report of US 'review']]></title>
-        <id>https://www.bbc.com/news/articles/cde51y0zgjyo</id>
-        <link href="https://www.bbc.com/news/articles/cde51y0zgjyo"/>
+        <title type="html"><![CDATA[Meta to cut 10% of jobs, or 8,000 employees, report says]]></title>
+        <id>https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/</id>
+        <link href="https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ContextSync – MCP server that auto-loads your Linear tickets into Claude Code]]></title>
-        <id>https://news.ycombinator.com/item?id=47889491</id>
-        <link href="https://news.ycombinator.com/item?id=47889491"/>
+        <title type="html"><![CDATA[Meet Noscroll, an AI bot that does your doomscrolling for you]]></title>
+        <id>https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/</id>
+        <link href="https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Toolchain Horizons: Exploring Rust Dependency-Toolchain Compatibility]]></title>
-        <id>https://tigerbeetle.com/blog/2026-04-24-toolchain-horizons/</id>
-        <link href="https://tigerbeetle.com/blog/2026-04-24-toolchain-horizons/"/>
+        <title type="html"><![CDATA[Bret Taylor’s Sierra buys YC-backed AI startup Fragment]]></title>
+        <id>https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/</id>
+        <link href="https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Study shows removing exposure to plastic from our food chain yields quick result]]></title>
-        <id>https://www.abc.net.au/news/2026-04-23/plastic-packaging-body-chemicals-study/106594194</id>
-        <link href="https://www.abc.net.au/news/2026-04-23/plastic-packaging-body-chemicals-study/106594194"/>
+        <title type="html"><![CDATA[These are the countries moving to ban social media for children]]></title>
+        <id>https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/</id>
+        <link href="https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mahjong: A Visual Guide]]></title>
-        <id>https://themahjong.guide/</id>
-        <link href="https://themahjong.guide/"/>
+        <title type="html"><![CDATA[In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs]]></title>
+        <id>https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/</id>
+        <link href="https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Privacy Setup for Android 16 with GrapheneOS]]></title>
-        <id>https://xn--gckvb8fzb.com/privacy-setup-for-android-16-with-grapheneos/</id>
-        <link href="https://xn--gckvb8fzb.com/privacy-setup-for-android-16-with-grapheneos/"/>
+        <title type="html"><![CDATA[GitHub randomly reverting merged commits without notification]]></title>
+        <id>https://twitter.com/theotherelliott/status/2047467609486954623</id>
+        <link href="https://twitter.com/theotherelliott/status/2047467609486954623"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is possible a language easy as py, fast as C, more secure than Rust?]]></title>
-        <id>https://news.ycombinator.com/item?id=47885142</id>
-        <link href="https://news.ycombinator.com/item?id=47885142"/>
+        <title type="html"><![CDATA[Kaplay.js, HTML5 Game Library for JavaScript and TypeScript]]></title>
+        <id>https://kaplayjs.com</id>
+        <link href="https://kaplayjs.com"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: SQL Protocol – learn SQL by running real queries, with 1v1 PvP]]></title>
-        <id>https://sqlprotocol.com</id>
-        <link href="https://sqlprotocol.com"/>
+        <title type="html"><![CDATA[Ask HN: Agentic Prompt Compaction Strategies]]></title>
+        <id>https://news.ycombinator.com/item?id=47891020</id>
+        <link href="https://news.ycombinator.com/item?id=47891020"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HX Is the New UX: Designing for the Harness Experience]]></title>
-        <id>https://neurometric.substack.com/p/hx-is-the-new-ux-what-you-need-to</id>
-        <link href="https://neurometric.substack.com/p/hx-is-the-new-ux-what-you-need-to"/>
+        <title type="html"><![CDATA[Norway Set to Become Latest Country to Ban Social Media for Under 16s]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitwarden engineers who had the compromised Checkmarx VSCode extension got hit]]></title>
-        <id>https://old.reddit.com/r/selfhosted/comments/1stjtay/comment/ohvbj63/</id>
-        <link href="https://old.reddit.com/r/selfhosted/comments/1stjtay/comment/ohvbj63/"/>
+        <title type="html"><![CDATA[What Will It Take to Get A.I. Out of Schools?]]></title>
+        <id>https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools</id>
+        <link href="https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Targets About 7% of Its U.S. Workers with Buyout Offer]]></title>
-        <id>https://www.nytimes.com/2026/04/23/business/microsoft-layoffs-artificial-intelligence.html</id>
-        <link href="https://www.nytimes.com/2026/04/23/business/microsoft-layoffs-artificial-intelligence.html"/>
+        <title type="html"><![CDATA[GitHub secure repo template (pinned SHAs and vulnerability scanning)]]></title>
+        <id>https://github.com/CaseyLabs/kc-secure-repo-template</id>
+        <link href="https://github.com/CaseyLabs/kc-secure-repo-template"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dev targeted by sophisticated job scam]]></title>
-        <id>https://www.theregister.com/2026/04/23/job_scam_targeted_developer/</id>
-        <link href="https://www.theregister.com/2026/04/23/job_scam_targeted_developer/"/>
+        <title type="html"><![CDATA[The DevTool Verdict Ft Madhav Bhagat [video]]]></title>
+        <id>https://www.youtube.com/watch?v=VFFzC1GpC-o</id>
+        <link href="https://www.youtube.com/watch?v=VFFzC1GpC-o"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Former MrBeast employee accuses YouTube giant of wrongful termination]]></title>
-        <id>https://courthousenews.com/former-mrbeast-employee-accuses-youtube-giant-of-wrongful-termination/</id>
-        <link href="https://courthousenews.com/former-mrbeast-employee-accuses-youtube-giant-of-wrongful-termination/"/>
+        <title type="html"><![CDATA[Vibe-coding video games with Claude]]></title>
+        <id>https://gamevibe.us/11-breakout-ultra</id>
+        <link href="https://gamevibe.us/11-breakout-ultra"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understand the Transit Compromise to Grasp Efficiency]]></title>
-        <id>https://www.forbes.com/sites/bradtempleton/2026/04/23/after-earth-day-understand-the-transit-compromise-to-grasp-efficiency/</id>
-        <link href="https://www.forbes.com/sites/bradtempleton/2026/04/23/after-earth-day-understand-the-transit-compromise-to-grasp-efficiency/"/>
+        <title type="html"><![CDATA[Amazon-Backed Hollywood Production Startup Deploys AI for Speed and Cost-Cutting [video]]]></title>
+        <id>https://www.youtube.com/watch?v=D5Ylmvn_D6g</id>
+        <link href="https://www.youtube.com/watch?v=D5Ylmvn_D6g"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AudioClean Pro – on-device audio cleanup for macOS]]></title>
-        <id>https://www.audiocleanpro.com/</id>
-        <link href="https://www.audiocleanpro.com/"/>
+        <title type="html"><![CDATA[Spectro – macOS app to detect fake lossless audio files]]></title>
+        <id>https://www.getspectro.app</id>
+        <link href="https://www.getspectro.app"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Authors Guild Addresses Publishers' AI Use]]></title>
-        <id>https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/100211-authors-guild-speaks-out-on-publisher-ai-use.html</id>
-        <link href="https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/100211-authors-guild-speaks-out-on-publisher-ai-use.html"/>
+        <title type="html"><![CDATA[C64 Bass Guitar – Cool to Be Square Wave? (2012) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=_kDhpFaf4EY</id>
+        <link href="https://www.youtube.com/watch?v=_kDhpFaf4EY"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pdfnative – zero-dependency TypeScript PDF engine]]></title>
-        <id>https://www.npmjs.com/package/pdfnative</id>
-        <link href="https://www.npmjs.com/package/pdfnative"/>
+        <title type="html"><![CDATA[Fast16: High-Precision Software Sabotage 5 Years Before Stuxnet]]></title>
+        <id>https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/</id>
+        <link href="https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fluid dynamics for Toddlers: A much simpler Navier-Stokes derivation]]></title>
-        <id>https://chillphysicsenjoyer.substack.com/p/fluid-dynamics-for-toddlers</id>
-        <link href="https://chillphysicsenjoyer.substack.com/p/fluid-dynamics-for-toddlers"/>
+        <title type="html"><![CDATA[Got the Rust dream job, then AI happened]]></title>
+        <id>https://old.reddit.com/r/rust/comments/1stj607/got_the_rust_dream_job_then_ai_happened/</id>
+        <link href="https://old.reddit.com/r/rust/comments/1stj607/got_the_rust_dream_job_then_ai_happened/"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Endo Familiar, an O-cap based JavaScript agent sandbox]]></title>
-        <id>https://dcfoundation.io/containing-ai-agents-the-endo-familiar-demo/</id>
-        <link href="https://dcfoundation.io/containing-ai-agents-the-endo-familiar-demo/"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selvedge: Capture the why behind AI code changes]]></title>
-        <id>https://github.com/masondelan/selvedge</id>
-        <link href="https://github.com/masondelan/selvedge"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Never Stopped Developing the Model S [video]]]></title>
-        <id>https://www.youtube.com/watch?v=IwnJzP0TlCk</id>
-        <link href="https://www.youtube.com/watch?v=IwnJzP0TlCk"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a 3B Robot Policy Faster]]></title>
-        <id>https://www.hapticlabs.ai/blog/2026/04/23/my-first-week-at-haptic-making-a-3b-robot-policy-faster</id>
-        <link href="https://www.hapticlabs.ai/blog/2026/04/23/my-first-week-at-haptic-making-a-3b-robot-policy-faster"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt engineering is dead, but Claude still tries]]></title>
-        <id>https://blog.exe.dev/prompt-engineering-is-dead</id>
-        <link href="https://blog.exe.dev/prompt-engineering-is-dead"/>
+        <title type="html"><![CDATA[S. Korea police arrest man over AI image of runaway wolf that misled authorities]]></title>
+        <id>https://www.bbc.com/news/articles/c4gx1n0dl9no</id>
+        <link href="https://www.bbc.com/news/articles/c4gx1n0dl9no"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
@@ -358,9 +288,79 @@
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[S. Korea police arrest man over AI image of runaway wolf that misled authorities]]></title>
-        <id>https://www.bbc.com/news/articles/c4gx1n0dl9no</id>
-        <link href="https://www.bbc.com/news/articles/c4gx1n0dl9no"/>
+        <title type="html"><![CDATA[Prompt engineering is dead, but Claude still tries]]></title>
+        <id>https://blog.exe.dev/prompt-engineering-is-dead</id>
+        <link href="https://blog.exe.dev/prompt-engineering-is-dead"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a 3B Robot Policy Faster]]></title>
+        <id>https://www.hapticlabs.ai/blog/2026/04/23/my-first-week-at-haptic-making-a-3b-robot-policy-faster</id>
+        <link href="https://www.hapticlabs.ai/blog/2026/04/23/my-first-week-at-haptic-making-a-3b-robot-policy-faster"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla Never Stopped Developing the Model S [video]]]></title>
+        <id>https://www.youtube.com/watch?v=IwnJzP0TlCk</id>
+        <link href="https://www.youtube.com/watch?v=IwnJzP0TlCk"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selvedge: Capture the why behind AI code changes]]></title>
+        <id>https://github.com/masondelan/selvedge</id>
+        <link href="https://github.com/masondelan/selvedge"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Endo Familiar, an O-cap based JavaScript agent sandbox]]></title>
+        <id>https://dcfoundation.io/containing-ai-agents-the-endo-familiar-demo/</id>
+        <link href="https://dcfoundation.io/containing-ai-agents-the-endo-familiar-demo/"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fluid dynamics for Toddlers: A much simpler Navier-Stokes derivation]]></title>
+        <id>https://chillphysicsenjoyer.substack.com/p/fluid-dynamics-for-toddlers</id>
+        <link href="https://chillphysicsenjoyer.substack.com/p/fluid-dynamics-for-toddlers"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pdfnative – zero-dependency TypeScript PDF engine]]></title>
+        <id>https://www.npmjs.com/package/pdfnative</id>
+        <link href="https://www.npmjs.com/package/pdfnative"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authors Guild Addresses Publishers' AI Use]]></title>
+        <id>https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/100211-authors-guild-speaks-out-on-publisher-ai-use.html</id>
+        <link href="https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/100211-authors-guild-speaks-out-on-publisher-ai-use.html"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AudioClean Pro – on-device audio cleanup for macOS]]></title>
+        <id>https://www.audiocleanpro.com/</id>
+        <link href="https://www.audiocleanpro.com/"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understand the Transit Compromise to Grasp Efficiency]]></title>
+        <id>https://www.forbes.com/sites/bradtempleton/2026/04/23/after-earth-day-understand-the-transit-compromise-to-grasp-efficiency/</id>
+        <link href="https://www.forbes.com/sites/bradtempleton/2026/04/23/after-earth-day-understand-the-transit-compromise-to-grasp-efficiency/"/>
+        <updated>2026-04-23T16:00:00.000Z</updated>
+        <published>2026-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former MrBeast employee accuses YouTube giant of wrongful termination]]></title>
+        <id>https://courthousenews.com/former-mrbeast-employee-accuses-youtube-giant-of-wrongful-termination/</id>
+        <link href="https://courthousenews.com/former-mrbeast-employee-accuses-youtube-giant-of-wrongful-termination/"/>
         <updated>2026-04-23T16:00:00.000Z</updated>
         <published>2026-04-23T16:00:00.000Z</published>
     </entry>
