@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-25 08:01:38。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-25 10:02:33。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -642,6 +642,7 @@ https://github.com/j9t/minifier-benchmarks
 
 - [【前端之巅】I-Got-a-Job-Offer.-But,-It-Came-With-Malware.](https://dev.to/denyherianto/i-got-a-job-offer-but-it-came-with-malwares-4c9a)
 - [【Hacker News】Microsoft-offers-voluntary-employee-buyout/retirement-for-7%-of-U.S.-workforce](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html)
+- [【Hacker News】Rippling-exposed-your-SSN/banking-to-anyone-who-sent-you-an-offer-letter](https://infosec.exchange/@SecureOwl/116415101610028363)
 - [【Hacker News】Light-activated-material-offers-new-approach-to-carbon-dioxide-conversion](https://phys.org/news/2026-03-material-approach-carbon-dioxide-conversion.html)
 - [【Hacker News】AI-dolls-offer-companionship-to-the-elderly](https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd)
 - [【TechCrunch】Microsoft-offers-buyout-for-up-to-7%-of-US-employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/)
