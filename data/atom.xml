@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-25T02:02:33.715Z</updated>
+    <updated>2026-04-25T04:02:08.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,13 +43,6 @@
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’]]></title>
-        <id>https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/</id>
-        <link href="https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meta’s loss is Thinking Machines’ gain]]></title>
         <id>https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/</id>
         <link href="https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/"/>
@@ -57,149 +50,58 @@
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FilamentPHP MCP Server]]></title>
-        <id>https://github.com/suwi-lanji/filamentphp-mcp</id>
-        <link href="https://github.com/suwi-lanji/filamentphp-mcp"/>
+        <title type="html"><![CDATA[Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’]]></title>
+        <id>https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/</id>
+        <link href="https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX Starship Documentary – Test Like You Fly]]></title>
-        <id>https://www.spacex.com/content/starship/test-like-you-fly</id>
-        <link href="https://www.spacex.com/content/starship/test-like-you-fly"/>
+        <title type="html"><![CDATA[What's New in Firefox 150]]></title>
+        <id>https://www.firefox.com/en-GB/whatsnew/150/</id>
+        <link href="https://www.firefox.com/en-GB/whatsnew/150/"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Developing Trustworthy Information]]></title>
-        <id>https://jessicacanepa.com/blog/developing-trustworthy-information/</id>
-        <link href="https://jessicacanepa.com/blog/developing-trustworthy-information/"/>
+        <title type="html"><![CDATA[The Observer Effect – Abelian Probability Theory]]></title>
+        <id>https://lcsig.github.io/Observer-Effect/</id>
+        <link href="https://lcsig.github.io/Observer-Effect/"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox Has Integrated Brave's Adblock Engine]]></title>
-        <id>https://itsfoss.com/news/firefox-ships-brave-adblock-engine/</id>
-        <link href="https://itsfoss.com/news/firefox-ships-brave-adblock-engine/"/>
+        <title type="html"><![CDATA[Can jarrah forests be recovered after bauxite mining?]]></title>
+        <id>https://particle.scitech.org.au/earth-water/can-jarrah-forests-be-recovered-after-bauxite-mining/</id>
+        <link href="https://particle.scitech.org.au/earth-water/can-jarrah-forests-be-recovered-after-bauxite-mining/"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Useknockout – open-source background removal API, 40× cheaper than remove.bg]]></title>
-        <id>https://github.com/useknockout/api</id>
-        <link href="https://github.com/useknockout/api"/>
+        <title type="html"><![CDATA[Show HN: VT Code – Rust TUI coding agent with multi-provider support]]></title>
+        <id>https://github.com/vinhnx/VTCode</id>
+        <link href="https://github.com/vinhnx/VTCode"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SF Giants sell piece of team to venture capital firm run by Joshua Kushner]]></title>
-        <id>https://www.sfgate.com/giants/article/sf-giants-joshua-kushner-22224927.php</id>
-        <link href="https://www.sfgate.com/giants/article/sf-giants-joshua-kushner-22224927.php"/>
+        <title type="html"><![CDATA[Conspiracy about missing/dead scientists from online forums to the White House]]></title>
+        <id>https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</id>
+        <link href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevResolve – AI chat widget that answers technical questions from your docs]]></title>
-        <id>https://devresolve.ai</id>
-        <link href="https://devresolve.ai"/>
+        <title type="html"><![CDATA[Why the Washington Post Lost in Virginia]]></title>
+        <id>https://www.semafor.com/article/04/22/2026/why-the-washington-post-lost-in-virginia</id>
+        <link href="https://www.semafor.com/article/04/22/2026/why-the-washington-post-lost-in-virginia"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Llama 4: A Deep Dive into Liquid Transformers 2.0 and Sovereign AI]]></title>
-        <id>https://en.landingfymax.com.br/artificial-intelligence/llama-4-meta-open-source-sovereignty-2026</id>
-        <link href="https://en.landingfymax.com.br/artificial-intelligence/llama-4-meta-open-source-sovereignty-2026"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working with Claude Code: A Field Manual]]></title>
-        <id>https://blog.iannelson.uk/working-with-claude-code</id>
-        <link href="https://blog.iannelson.uk/working-with-claude-code"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editable 3D models with code or AI in Roblox]]></title>
-        <id>https://twitter.com/roblox/status/2047406073263382834</id>
-        <link href="https://twitter.com/roblox/status/2047406073263382834"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I've built a nice home server OS]]></title>
-        <id>https://lightwhale.asklandd.dk/</id>
-        <link href="https://lightwhale.asklandd.dk/"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare for SaaS: your old provider can silently keep your domain]]></title>
-        <id>https://blog.iodev.org/blog/cloudflare-saas-custom-hostname-conflict/</id>
-        <link href="https://blog.iodev.org/blog/cloudflare-saas-custom-hostname-conflict/"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Codex context bloat? 87% avg reduction on SWE-bench Verified traces]]></title>
-        <id>https://www.npmjs.com/package/pando-proxy</id>
-        <link href="https://www.npmjs.com/package/pando-proxy"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is your meditation posture making things worse?]]></title>
-        <id>https://mvmnt.substack.com/p/is-your-meditation-posture-making</id>
-        <link href="https://mvmnt.substack.com/p/is-your-meditation-posture-making"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lumitime Automata – The Most Amazing Digital Clock Is a Machine [video]]]></title>
-        <id>https://www.youtube.com/shorts/LTInOMdjs5o</id>
-        <link href="https://www.youtube.com/shorts/LTInOMdjs5o"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: RoboAPI – A unified REST API for robots, like Stripe but for hardware]]></title>
-        <id>https://github.com/amitb-quantum/roboapi</id>
-        <link href="https://github.com/amitb-quantum/roboapi"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ancient amber reveals a true bug equipped with claws, a highly unusual feature]]></title>
-        <id>https://phys.org/news/2026-04-ancient-amber-reveals-true-bug.html</id>
-        <link href="https://phys.org/news/2026-04-ancient-amber-reveals-true-bug.html"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese National Arrested for Illegally Photographing Military Aircraft at AFB]]></title>
-        <id>https://www.justice.gov/opa/pr/chinese-national-arrested-jfk-international-airport-federal-charges-illegally-photographing</id>
-        <link href="https://www.justice.gov/opa/pr/chinese-national-arrested-jfk-international-airport-federal-charges-illegally-photographing"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Databases Were Not Designed for This]]></title>
-        <id>https://arpitbhayani.me/blogs/defensive-databases/</id>
-        <link href="https://arpitbhayani.me/blogs/defensive-databases/"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese National Pleads Guilty to Photographing Air Force Base and Equipment]]></title>
-        <id>https://www.justice.gov/usao-wdmo/pr/chinese-national-pleads-guilty-unlawfully-photographing-air-force-base-and-vital</id>
-        <link href="https://www.justice.gov/usao-wdmo/pr/chinese-national-pleads-guilty-unlawfully-photographing-air-force-base-and-vital"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Context Pricing and Accounting [video]]]></title>
-        <id>https://www.youtube.com/watch?v=xcYhV4S7faI</id>
-        <link href="https://www.youtube.com/watch?v=xcYhV4S7faI"/>
+        <title type="html"><![CDATA[BugBash'26 Keynote]]></title>
+        <id>http://muratbuffalo.blogspot.com/2026/04/bugbash26-keynote.html</id>
+        <link href="http://muratbuffalo.blogspot.com/2026/04/bugbash26-keynote.html"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
@@ -211,6 +113,167 @@
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Context Pricing and Accounting [video]]]></title>
+        <id>https://www.youtube.com/watch?v=xcYhV4S7faI</id>
+        <link href="https://www.youtube.com/watch?v=xcYhV4S7faI"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese National Pleads Guilty to Photographing Air Force Base and Equipment]]></title>
+        <id>https://www.justice.gov/usao-wdmo/pr/chinese-national-pleads-guilty-unlawfully-photographing-air-force-base-and-vital</id>
+        <link href="https://www.justice.gov/usao-wdmo/pr/chinese-national-pleads-guilty-unlawfully-photographing-air-force-base-and-vital"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Databases Were Not Designed for This]]></title>
+        <id>https://arpitbhayani.me/blogs/defensive-databases/</id>
+        <link href="https://arpitbhayani.me/blogs/defensive-databases/"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese National Arrested for Illegally Photographing Military Aircraft at AFB]]></title>
+        <id>https://www.justice.gov/opa/pr/chinese-national-arrested-jfk-international-airport-federal-charges-illegally-photographing</id>
+        <link href="https://www.justice.gov/opa/pr/chinese-national-arrested-jfk-international-airport-federal-charges-illegally-photographing"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancient amber reveals a true bug equipped with claws, a highly unusual feature]]></title>
+        <id>https://phys.org/news/2026-04-ancient-amber-reveals-true-bug.html</id>
+        <link href="https://phys.org/news/2026-04-ancient-amber-reveals-true-bug.html"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: RoboAPI – A unified REST API for robots, like Stripe but for hardware]]></title>
+        <id>https://github.com/amitb-quantum/roboapi</id>
+        <link href="https://github.com/amitb-quantum/roboapi"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lumitime Automata – The Most Amazing Digital Clock Is a Machine [video]]]></title>
+        <id>https://www.youtube.com/shorts/LTInOMdjs5o</id>
+        <link href="https://www.youtube.com/shorts/LTInOMdjs5o"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is your meditation posture making things worse?]]></title>
+        <id>https://mvmnt.substack.com/p/is-your-meditation-posture-making</id>
+        <link href="https://mvmnt.substack.com/p/is-your-meditation-posture-making"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Codex context bloat? 87% avg reduction on SWE-bench Verified traces]]></title>
+        <id>https://www.npmjs.com/package/pando-proxy</id>
+        <link href="https://www.npmjs.com/package/pando-proxy"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare for SaaS: your old provider can silently keep your domain]]></title>
+        <id>https://blog.iodev.org/blog/cloudflare-saas-custom-hostname-conflict/</id>
+        <link href="https://blog.iodev.org/blog/cloudflare-saas-custom-hostname-conflict/"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I've built a nice home server OS]]></title>
+        <id>https://lightwhale.asklandd.dk/</id>
+        <link href="https://lightwhale.asklandd.dk/"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editable 3D models with code or AI in Roblox]]></title>
+        <id>https://twitter.com/roblox/status/2047406073263382834</id>
+        <link href="https://twitter.com/roblox/status/2047406073263382834"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Claude Code: A Field Manual]]></title>
+        <id>https://blog.iannelson.uk/working-with-claude-code</id>
+        <link href="https://blog.iannelson.uk/working-with-claude-code"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Llama 4: A Deep Dive into Liquid Transformers 2.0 and Sovereign AI]]></title>
+        <id>https://en.landingfymax.com.br/artificial-intelligence/llama-4-meta-open-source-sovereignty-2026</id>
+        <link href="https://en.landingfymax.com.br/artificial-intelligence/llama-4-meta-open-source-sovereignty-2026"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevResolve – AI chat widget that answers technical questions from your docs]]></title>
+        <id>https://devresolve.ai</id>
+        <link href="https://devresolve.ai"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SF Giants sell piece of team to venture capital firm run by Joshua Kushner]]></title>
+        <id>https://www.sfgate.com/giants/article/sf-giants-joshua-kushner-22224927.php</id>
+        <link href="https://www.sfgate.com/giants/article/sf-giants-joshua-kushner-22224927.php"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useknockout – open-source background removal API, 40× cheaper than remove.bg]]></title>
+        <id>https://github.com/useknockout/api</id>
+        <link href="https://github.com/useknockout/api"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Has Integrated Brave's Adblock Engine]]></title>
+        <id>https://itsfoss.com/news/firefox-ships-brave-adblock-engine/</id>
+        <link href="https://itsfoss.com/news/firefox-ships-brave-adblock-engine/"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing Trustworthy Information]]></title>
+        <id>https://jessicacanepa.com/blog/developing-trustworthy-information/</id>
+        <link href="https://jessicacanepa.com/blog/developing-trustworthy-information/"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX Starship Documentary – Test Like You Fly]]></title>
+        <id>https://www.spacex.com/content/starship/test-like-you-fly</id>
+        <link href="https://www.spacex.com/content/starship/test-like-you-fly"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FilamentPHP MCP Server]]></title>
+        <id>https://github.com/suwi-lanji/filamentphp-mcp</id>
+        <link href="https://github.com/suwi-lanji/filamentphp-mcp"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Being Scared of Git: A Practical Guide to GitHub, Commits, Branches, and Version Control]]></title>
+        <id>https://pub.towardsai.net/stop-being-scared-of-git-a-practical-guide-to-github-commits-branches-and-version-control-f0450ab4210b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/stop-being-scared-of-git-a-practical-guide-to-github-commits-branches-and-version-control-f0450ab4210b?source=rss----98111c9905da---4"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Shannon Died in 2001.]]></title>
+        <id>https://pub.towardsai.net/claude-shannon-died-in-2001-0f4b31e9f96c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-shannon-died-in-2001-0f4b31e9f96c?source=rss----98111c9905da---4"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GPT‑5.5 vs Claude Opus 4.7: Benchmarks, Trade‑offs, and Practical Guidance for 2026]]></title>
         <id>https://pub.towardsai.net/gpt-5-5-vs-claude-opus-4-7-benchmarks-trade-offs-and-practical-guidance-for-2026-cebed8574790?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/gpt-5-5-vs-claude-opus-4-7-benchmarks-trade-offs-and-practical-guidance-for-2026-cebed8574790?source=rss----98111c9905da---4"/>
@@ -218,51 +281,56 @@
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I didn't believe USDT recovery was possible until I worked with TechY Force Cyber Retrieval]]></title>
-        <id>https://dev.to/ray_larnerd_3ae6b0ccec19f/i-didnt-believe-usdt-recovery-was-possible-until-i-worked-with-techy-force-cyber-retrieval-5bcc</id>
-        <link href="https://dev.to/ray_larnerd_3ae6b0ccec19f/i-didnt-believe-usdt-recovery-was-possible-until-i-worked-with-techy-force-cyber-retrieval-5bcc"/>
+        <title type="html"><![CDATA[
+One PR to a parser unlocked prerendering in Brisa
+]]></title>
+        <id>
+https://aralroca.hashnode.dev/one-pr-to-a-parser-unlocked-prerendering-in-brisa
+</id>
+        <link href="
+https://aralroca.hashnode.dev/one-pr-to-a-parser-unlocked-prerendering-in-brisa
+"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Your Web Audio Tuner Sucks at Low Notes (and What to Use Instead of FFT)]]></title>
-        <id>https://dev.to/sendotltd/why-your-web-audio-tuner-sucks-at-low-notes-and-what-to-use-instead-of-fft-391h</id>
-        <link href="https://dev.to/sendotltd/why-your-web-audio-tuner-sucks-at-low-notes-and-what-to-use-instead-of-fft-391h"/>
+        <title type="html"><![CDATA[
+Honker - PosgtreSQL style NOTIFY/LISTEN with SQLite (Node/Bun Libraries)
+]]></title>
+        <id>
+https://github.com/russellromney/honker
+</id>
+        <link href="
+https://github.com/russellromney/honker
+"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apex Previews]]></title>
-        <id>https://dev.to/macraemyintminhein98/apex-previews-386i</id>
-        <link href="https://dev.to/macraemyintminhein98/apex-previews-386i"/>
+        <title type="html"><![CDATA[How To Build A Simple Voting Eligibility Age Checker With JavaScript]]></title>
+        <id>https://dev.to/diamond_worlldd/how-to-build-a-simple-voting-eligibility-age-checker-with-javascript-3g7a</id>
+        <link href="https://dev.to/diamond_worlldd/how-to-build-a-simple-voting-eligibility-age-checker-with-javascript-3g7a"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Operators: The Basics You Need to Know]]></title>
-        <id>https://dev.to/kunal_dev/javascript-operators-the-basics-you-need-to-know-15b2</id>
-        <link href="https://dev.to/kunal_dev/javascript-operators-the-basics-you-need-to-know-15b2"/>
+        <title type="html"><![CDATA[I built a CLI that fixes TypeScript errors automatically]]></title>
+        <id>https://dev.to/iamkillvish/i-built-a-cli-that-fixes-typescript-errors-automatically-8e3</id>
+        <link href="https://dev.to/iamkillvish/i-built-a-cli-that-fixes-typescript-errors-automatically-8e3"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Contributors Action]]></title>
-        <id>https://dev.to/macraemyintminhein98/github-contributors-action-pib</id>
-        <link href="https://dev.to/macraemyintminhein98/github-contributors-action-pib"/>
+        <title type="html"><![CDATA[GitHub README Generator]]></title>
+        <id>https://dev.to/macraemyintminhein98/github-readme-generator-31h9</id>
+        <link href="https://dev.to/macraemyintminhein98/github-readme-generator-31h9"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop arguing about formatting in code reviews. Use Husky and lint-staged instead.]]></title>
-        <id>https://dev.to/edriso/stop-arguing-about-formatting-in-code-reviews-use-husky-and-lint-staged-instead-1lp</id>
-        <link href="https://dev.to/edriso/stop-arguing-about-formatting-in-code-reviews-use-husky-and-lint-staged-instead-1lp"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic QR Code Redirect Architecture at the Edge]]></title>
-        <id>https://dev.to/nchgzl/dynamic-qr-code-redirect-architecture-at-the-edge-88k</id>
-        <link href="https://dev.to/nchgzl/dynamic-qr-code-redirect-architecture-at-the-edge-88k"/>
+        <title type="html"><![CDATA[How I built a Stripe Webhook in Node.js (Full Guide)]]></title>
+        <id>https://dev.to/apollo_ag/how-i-built-a-stripe-webhook-in-nodejs-full-guide-2kg9</id>
+        <link href="https://dev.to/apollo_ag/how-i-built-a-stripe-webhook-in-nodejs-full-guide-2kg9"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
@@ -274,94 +342,38 @@
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brendan Carr’s war on wokeness targets inclusive children&#8217;s television]]></title>
-        <id>https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming</id>
-        <link href="https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Dynamic QR Code Redirect Architecture at the Edge]]></title>
+        <id>https://dev.to/nchgzl/dynamic-qr-code-redirect-architecture-at-the-edge-88k</id>
+        <link href="https://dev.to/nchgzl/dynamic-qr-code-redirect-architecture-at-the-edge-88k"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta is laying off 10 percent of its staff]]></title>
-        <id>https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff</id>
-        <link href="https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Stop arguing about formatting in code reviews. Use Husky and lint-staged instead.]]></title>
+        <id>https://dev.to/edriso/stop-arguing-about-formatting-in-code-reviews-use-husky-and-lint-staged-instead-1lp</id>
+        <link href="https://dev.to/edriso/stop-arguing-about-formatting-in-code-reviews-use-husky-and-lint-staged-instead-1lp"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games]]></title>
-        <id>https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma</id>
-        <link href="https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
+        <title type="html"><![CDATA[GitHub Contributors Action]]></title>
+        <id>https://dev.to/macraemyintminhein98/github-contributors-action-pib</id>
+        <link href="https://dev.to/macraemyintminhein98/github-contributors-action-pib"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI says its new GPT-5.5 model is more efficient and better at coding]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JavaScript Operators: The Basics You Need to Know]]></title>
+        <id>https://dev.to/kunal_dev/javascript-operators-the-basics-you-need-to-know-15b2</id>
+        <link href="https://dev.to/kunal_dev/javascript-operators-the-basics-you-need-to-know-15b2"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US arrests soldier who allegedly made $400k on Maduro Polymarket bets]]></title>
-        <id>https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke</id>
-        <link href="https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prestigious photo contest answers ‘what is a photo?’]]></title>
-        <id>https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo</id>
-        <link href="https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China’s DeepSeek previews new AI model a year after jolting US rivals ]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy]]></title>
-        <id>https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition</id>
-        <link href="https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dyson PencilVac Review (2026): Limited but Handy]]></title>
-        <id>https://www.wired.com/review/dyson-pencilvac-review/</id>
-        <link href="https://www.wired.com/review/dyson-pencilvac-review/"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Cordless Vacuums for Your Whole House (2026)]]></title>
-        <id>https://www.wired.com/gallery/the-best-cordless-vacuum/</id>
-        <link href="https://www.wired.com/gallery/the-best-cordless-vacuum/"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMax New V4 Electric Scooter Review: Unleash the Beast]]></title>
-        <id>https://www.wired.com/review/vmax-new-vx4-electric-scooter/</id>
-        <link href="https://www.wired.com/review/vmax-new-vx4-electric-scooter/"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The FTC Is Ramping Up to Target Transgender Rights]]></title>
-        <id>https://www.wired.com/story/the-federal-agency-coming-for-gender-affirming-care/</id>
-        <link href="https://www.wired.com/story/the-federal-agency-coming-for-gender-affirming-care/"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet]]></title>
-        <id>https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/</id>
-        <link href="https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/"/>
-        <updated>2026-04-23T16:00:00.000Z</updated>
-        <published>2026-04-23T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Apex Previews]]></title>
+        <id>https://dev.to/macraemyintminhein98/apex-previews-386i</id>
+        <link href="https://dev.to/macraemyintminhein98/apex-previews-386i"/>
+        <updated>2026-04-24T16:00:00.000Z</updated>
+        <published>2026-04-24T16:00:00.000Z</published>
     </entry>
 </feed>
