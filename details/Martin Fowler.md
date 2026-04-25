@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-25 23:02:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-26 06:00:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Martin Fowler
 
@@ -14,4 +14,3 @@
 - [2026-04-03-Fragments:-April-2](https://martinfowler.com/fragments/2026-04-02.html) 
 - [2026-04-02-Harness-engineering-for-coding-agent-users](https://martinfowler.com/articles/harness-engineering.html) 
 - [2026-03-31-Encoding-Team-Standards](https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html) 
-- [2026-03-27-Fragments:-March-26](https://martinfowler.com/fragments/2026-03-26.html) 
