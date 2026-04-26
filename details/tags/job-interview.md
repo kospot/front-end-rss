@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-26 15:01:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-26 18:01:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -8,8 +8,8 @@
 
 
 - [2026-04-15-I-Got-a-Job-Offer.-But,-It-Came-With-Malware.](https://dev.to/denyherianto/i-got-a-job-offer-but-it-came-with-malwares-4c9a) 
-- [2026-04-25-Microsoft-offers-voluntary-employee-buyout/retirement-for-7%-of-U.S.-workforce](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html) 
 - [2026-04-25-Rippling-exposed-your-SSN/banking-to-anyone-who-sent-you-an-offer-letter](https://infosec.exchange/@SecureOwl/116415101610028363) 
+- [2026-04-25-Microsoft-offers-voluntary-employee-buyout/retirement-for-7%-of-U.S.-workforce](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html) 
 - [2026-04-24-Light-activated-material-offers-new-approach-to-carbon-dioxide-conversion](https://phys.org/news/2026-03-material-approach-carbon-dioxide-conversion.html) 
 - [2026-04-06-AI-dolls-offer-companionship-to-the-elderly](https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd) 
 - [2026-04-24-Microsoft-offers-buyout-for-up-to-7%-of-US-employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/) 
