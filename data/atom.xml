@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-26T00:01:03.189Z</updated>
+    <updated>2026-04-26T02:00:54.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,100 +22,37 @@
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agents Aren't Coworkers, Embed Them in Your Software]]></title>
-        <id>https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software</id>
-        <link href="https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software"/>
+        <title type="html"><![CDATA[Open-Source Inference is growing 10% week over week this year]]></title>
+        <id>https://news.ycombinator.com/item?id=47906463</id>
+        <link href="https://news.ycombinator.com/item?id=47906463"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Copenhagen built a metro for free (The Flying Moose) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=GzamwVH3CXU</id>
-        <link href="https://www.youtube.com/watch?v=GzamwVH3CXU"/>
+        <title type="html"><![CDATA[Culina – an OS for multi-location restaurant operations]]></title>
+        <id>https://app.getculina.app/login</id>
+        <link href="https://app.getculina.app/login"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microfiche, Microfilm and Other Minutiae (1981) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Q6P9FhSkd0I</id>
-        <link href="https://www.youtube.com/watch?v=Q6P9FhSkd0I"/>
+        <title type="html"><![CDATA[Evolution Strategies at the Hyperscale [pdf]]]></title>
+        <id>https://eshyperscale.github.io/imgs/paper.pdf</id>
+        <link href="https://eshyperscale.github.io/imgs/paper.pdf"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles]]></title>
-        <id>https://www.lmsys.org/blog/2026-04-25-deepseek-v4/</id>
-        <link href="https://www.lmsys.org/blog/2026-04-25-deepseek-v4/"/>
+        <title type="html"><![CDATA[Tired of high costs, some Americans are importing homes straight from China]]></title>
+        <id>https://www.cnn.com/2026/04/25/business/china-imports-americans-homebuilding-costs</id>
+        <link href="https://www.cnn.com/2026/04/25/business/china-imports-americans-homebuilding-costs"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding the short circuit in solid-state batteries]]></title>
-        <id>https://www.mpie.de/5151287/short-circuit-solid-state-batteries</id>
-        <link href="https://www.mpie.de/5151287/short-circuit-solid-state-batteries"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steak 'n Shake: We're going 'back to the glory days of fast food']]></title>
-        <id>https://thehill.com/business/5848987-steak-n-shake-healthy-ingredients/</id>
-        <link href="https://thehill.com/business/5848987-steak-n-shake-healthy-ingredients/"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marc Andreessen on how the internet changed news, politics, and outrage [video]]]></title>
-        <id>https://www.youtube.com/watch?v=82HsvG1_Nqk</id>
-        <link href="https://www.youtube.com/watch?v=82HsvG1_Nqk"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An interesting OpenAI Codex Q&A]]></title>
-        <id>https://news.ycombinator.com/item?id=47905649</id>
-        <link href="https://news.ycombinator.com/item?id=47905649"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who's developing Golden Dome's orbital interceptors–if they're ever built]]></title>
-        <id>https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/</id>
-        <link href="https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic by Return of Post: How Mail Order Delivered the Occult]]></title>
-        <id>https://publicdomainreview.org/essay/magic-by-return-of-post/</id>
-        <link href="https://publicdomainreview.org/essay/magic-by-return-of-post/"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can parse an .env file as an .ini with PHP – but there's a catch]]></title>
-        <id>https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/</id>
-        <link href="https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Phishing: The Control-Plane Risk of Recursive Trust]]></title>
-        <id>https://zenodo.org/records/19432540</id>
-        <link href="https://zenodo.org/records/19432540"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How did the industry settle on weekly limits?]]></title>
-        <id>https://news.ycombinator.com/item?id=47904716</id>
-        <link href="https://news.ycombinator.com/item?id=47904716"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCP Spine – Middleware proxy for LLM tool calls with security and token control]]></title>
-        <id>https://github.com/Donnyb369/mcp-spine</id>
-        <link href="https://github.com/Donnyb369/mcp-spine"/>
+        <title type="html"><![CDATA[Show HN: Get – get anything from your computer]]></title>
+        <id>https://github.com/Water-Run/get</id>
+        <link href="https://github.com/Water-Run/get"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
@@ -127,16 +64,107 @@
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent Harnessing: The Non-Model Infrastructure That Makes AI Agents Actually Work]]></title>
-        <id>https://pub.towardsai.net/agent-harnessing-the-non-model-infrastructure-that-makes-ai-agents-actually-work-48c7330074d1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/agent-harnessing-the-non-model-infrastructure-that-makes-ai-agents-actually-work-48c7330074d1?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[MCP Spine – Middleware proxy for LLM tool calls with security and token control]]></title>
+        <id>https://github.com/Donnyb369/mcp-spine</id>
+        <link href="https://github.com/Donnyb369/mcp-spine"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Wasted 6 Months Using Claude Code Wrong. Here Are the 14 Commands That Changed Everything.]]></title>
-        <id>https://pub.towardsai.net/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything-b892b8f07915?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything-b892b8f07915?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Ask HN: How did the industry settle on weekly limits?]]></title>
+        <id>https://news.ycombinator.com/item?id=47904716</id>
+        <link href="https://news.ycombinator.com/item?id=47904716"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Phishing: The Control-Plane Risk of Recursive Trust]]></title>
+        <id>https://zenodo.org/records/19432540</id>
+        <link href="https://zenodo.org/records/19432540"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can parse an .env file as an .ini with PHP – but there's a catch]]></title>
+        <id>https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/</id>
+        <link href="https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic by Return of Post: How Mail Order Delivered the Occult]]></title>
+        <id>https://publicdomainreview.org/essay/magic-by-return-of-post/</id>
+        <link href="https://publicdomainreview.org/essay/magic-by-return-of-post/"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who's developing Golden Dome's orbital interceptors–if they're ever built]]></title>
+        <id>https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/</id>
+        <link href="https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An interesting OpenAI Codex Q&A]]></title>
+        <id>https://news.ycombinator.com/item?id=47905649</id>
+        <link href="https://news.ycombinator.com/item?id=47905649"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marc Andreessen on how the internet changed news, politics, and outrage [video]]]></title>
+        <id>https://www.youtube.com/watch?v=82HsvG1_Nqk</id>
+        <link href="https://www.youtube.com/watch?v=82HsvG1_Nqk"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steak 'n Shake: We're going 'back to the glory days of fast food']]></title>
+        <id>https://thehill.com/business/5848987-steak-n-shake-healthy-ingredients/</id>
+        <link href="https://thehill.com/business/5848987-steak-n-shake-healthy-ingredients/"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the short circuit in solid-state batteries]]></title>
+        <id>https://www.mpie.de/5151287/short-circuit-solid-state-batteries</id>
+        <link href="https://www.mpie.de/5151287/short-circuit-solid-state-batteries"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles]]></title>
+        <id>https://www.lmsys.org/blog/2026-04-25-deepseek-v4/</id>
+        <link href="https://www.lmsys.org/blog/2026-04-25-deepseek-v4/"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microfiche, Microfilm and Other Minutiae (1981) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Q6P9FhSkd0I</id>
+        <link href="https://www.youtube.com/watch?v=Q6P9FhSkd0I"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Copenhagen built a metro for free (The Flying Moose) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=GzamwVH3CXU</id>
+        <link href="https://www.youtube.com/watch?v=GzamwVH3CXU"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agents Aren't Coworkers, Embed Them in Your Software]]></title>
+        <id>https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software</id>
+        <link href="https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why FDE is the Fastest-Growing Job in AI Enterprise Software]]></title>
+        <id>https://pub.towardsai.net/why-fde-is-the-fastest-growing-job-in-ai-enterprise-software-a05d1dcd2ed9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-fde-is-the-fastest-growing-job-in-ai-enterprise-software-a05d1dcd2ed9?source=rss----98111c9905da---4"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
@@ -148,6 +176,20 @@
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I Wasted 6 Months Using Claude Code Wrong. Here Are the 14 Commands That Changed Everything.]]></title>
+        <id>https://pub.towardsai.net/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything-b892b8f07915?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything-b892b8f07915?source=rss----98111c9905da---4"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Harnessing: The Non-Model Infrastructure That Makes AI Agents Actually Work]]></title>
+        <id>https://pub.towardsai.net/agent-harnessing-the-non-model-infrastructure-that-makes-ai-agents-actually-work-48c7330074d1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/agent-harnessing-the-non-model-infrastructure-that-makes-ai-agents-actually-work-48c7330074d1?source=rss----98111c9905da---4"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WHY ARE YOU LIKE THIS]]></title>
         <id>https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything</id>
         <link href="https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything"/>
@@ -155,44 +197,65 @@
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How ProtoConsent answers consent banners without touching the DOM]]></title>
+        <id>https://dev.to/protoconsent/how-protoconsent-answers-consent-banners-without-touching-the-dom-ie7</id>
+        <link href="https://dev.to/protoconsent/how-protoconsent-answers-consent-banners-without-touching-the-dom-ie7"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["React, Vue, or Svelte: The Ultimate Showdown - Which JavaScript Framework to Learn First in 2025 for a Future-Proof Career"]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/react-vue-or-svelte-the-ultimate-showdown-which-javascript-framework-to-learn-first-in-2025-een</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/react-vue-or-svelte-the-ultimate-showdown-which-javascript-framework-to-learn-first-in-2025-een"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["React, Vue, or Svelte: The Ultimate Showdown - Which JavaScript Framework to Learn First in 2025 for a Future-Proof Career"]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/react-vue-or-svelte-the-ultimate-showdown-which-javascript-framework-to-learn-first-in-2025-4fl2</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/react-vue-or-svelte-the-ultimate-showdown-which-javascript-framework-to-learn-first-in-2025-4fl2"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["Level Up Your Code: Top 10 TypeScript Libraries to Master in 2025 for Next-Level Development"]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/level-up-your-code-top-10-typescript-libraries-to-master-in-2025-for-next-level-development-1i3j</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/level-up-your-code-top-10-typescript-libraries-to-master-in-2025-for-next-level-development-1i3j"/>
+        <id>https://dev.to/orbit_websites_b004ed2787/level-up-your-code-top-10-typescript-libraries-to-master-in-2025-for-next-level-development-9j1</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/level-up-your-code-top-10-typescript-libraries-to-master-in-2025-for-next-level-development-9j1"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your First Twilio Webhook in Production — What the Docs Don’t Tell You]]></title>
-        <id>https://dev.to/jordan_sterchele/your-first-twilio-webhook-in-production-what-the-docs-dont-tell-you-58al</id>
-        <link href="https://dev.to/jordan_sterchele/your-first-twilio-webhook-in-production-what-the-docs-dont-tell-you-58al"/>
+        <title type="html"><![CDATA[Implementing a Custom Polyfill for Future ECMAScript Features]]></title>
+        <id>https://dev.to/omriluz1/implementing-a-custom-polyfill-for-future-ecmascript-features-72f</id>
+        <link href="https://dev.to/omriluz1/implementing-a-custom-polyfill-for-future-ecmascript-features-72f"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BIP39 in 180 Lines of Vanilla JS — Mnemonic Generation, Validation, Seed Derivation, and the Japanese Wordlist Trap]]></title>
-        <id>https://dev.to/sendotltd/bip39-in-180-lines-of-vanilla-js-mnemonic-generation-validation-seed-derivation-and-the-2hcn</id>
-        <link href="https://dev.to/sendotltd/bip39-in-180-lines-of-vanilla-js-mnemonic-generation-validation-seed-derivation-and-the-2hcn"/>
+        <title type="html"><![CDATA["Turbocharge Your Workflow: Setting Up a Lightning-Fast Node.js Development Environment in Minutes"]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/turbocharge-your-workflow-setting-up-a-lightning-fast-nodejs-development-environment-in-minutes-ji6</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/turbocharge-your-workflow-setting-up-a-lightning-fast-nodejs-development-environment-in-minutes-ji6"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[⚡ Advanced Path Aliases in Vite — Stop Writing ../../ Forever]]></title>
-        <id>https://dev.to/prabhanshtiwari/advanced-path-aliases-in-vite-stop-writing-forever-2855</id>
-        <link href="https://dev.to/prabhanshtiwari/advanced-path-aliases-in-vite-stop-writing-forever-2855"/>
+        <title type="html"><![CDATA[Why Playwright + Vitest is the Future of Web Testing]]></title>
+        <id>https://dev.to/yashpandey07/why-playwright-vitest-is-the-future-of-web-testing-4hg1</id>
+        <link href="https://dev.to/yashpandey07/why-playwright-vitest-is-the-future-of-web-testing-4hg1"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Social Post Generator]]></title>
-        <id>https://dev.to/macraemyintminhein98/ai-social-post-generator-4b2d</id>
-        <link href="https://dev.to/macraemyintminhein98/ai-social-post-generator-4b2d"/>
+        <title type="html"><![CDATA[JSON to TypeScript interface converter — free browser tool for developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-interface-converter-free-browser-tool-for-developers-2edp</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-interface-converter-free-browser-tool-for-developers-2edp"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vue 3 Google Login (OAuth) – Quick Setup with vue3-google-login]]></title>
-        <id>https://dev.to/devbaji/vue-3-google-login-oauth-quick-setup-with-vue3-google-login-2m28</id>
-        <link href="https://dev.to/devbaji/vue-3-google-login-oauth-quick-setup-with-vue3-google-login-2m28"/>
+        <title type="html"><![CDATA["React, Vue, or Svelte: Which JavaScript Framework to Learn First in 2025 for a Future-Proof Career"]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/react-vue-or-svelte-which-javascript-framework-to-learn-first-in-2025-for-a-future-proof-career-mkc</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/react-vue-or-svelte-which-javascript-framework-to-learn-first-in-2025-for-a-future-proof-career-mkc"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
@@ -204,9 +267,44 @@
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["React, Vue, or Svelte: Which JavaScript Framework to Learn First in 2025 for a Future-Proof Career"]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/react-vue-or-svelte-which-javascript-framework-to-learn-first-in-2025-for-a-future-proof-career-mkc</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/react-vue-or-svelte-which-javascript-framework-to-learn-first-in-2025-for-a-future-proof-career-mkc"/>
+        <title type="html"><![CDATA[Vue 3 Google Login (OAuth) – Quick Setup with vue3-google-login]]></title>
+        <id>https://dev.to/devbaji/vue-3-google-login-oauth-quick-setup-with-vue3-google-login-2m28</id>
+        <link href="https://dev.to/devbaji/vue-3-google-login-oauth-quick-setup-with-vue3-google-login-2m28"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Social Post Generator]]></title>
+        <id>https://dev.to/macraemyintminhein98/ai-social-post-generator-4b2d</id>
+        <link href="https://dev.to/macraemyintminhein98/ai-social-post-generator-4b2d"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚡ Advanced Path Aliases in Vite — Stop Writing ../../ Forever]]></title>
+        <id>https://dev.to/prabhanshtiwari/advanced-path-aliases-in-vite-stop-writing-forever-2855</id>
+        <link href="https://dev.to/prabhanshtiwari/advanced-path-aliases-in-vite-stop-writing-forever-2855"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIP39 in 180 Lines of Vanilla JS — Mnemonic Generation, Validation, Seed Derivation, and the Japanese Wordlist Trap]]></title>
+        <id>https://dev.to/sendotltd/bip39-in-180-lines-of-vanilla-js-mnemonic-generation-validation-seed-derivation-and-the-2hcn</id>
+        <link href="https://dev.to/sendotltd/bip39-in-180-lines-of-vanilla-js-mnemonic-generation-validation-seed-derivation-and-the-2hcn"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your First Twilio Webhook in Production — What the Docs Don’t Tell You]]></title>
+        <id>https://dev.to/jordan_sterchele/your-first-twilio-webhook-in-production-what-the-docs-dont-tell-you-58al</id>
+        <link href="https://dev.to/jordan_sterchele/your-first-twilio-webhook-in-production-what-the-docs-dont-tell-you-58al"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Level Up Your Code: Top 10 TypeScript Libraries to Master in 2025 for Next-Level Development"]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/level-up-your-code-top-10-typescript-libraries-to-master-in-2025-for-next-level-development-1i3j</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/level-up-your-code-top-10-typescript-libraries-to-master-in-2025-for-next-level-development-1i3j"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
@@ -263,104 +361,6 @@
         <title type="html"><![CDATA[Give Mom Warm Coffee All Year Long With This Ember Smart Mug Deal]]></title>
         <id>https://www.wired.com/story/ember-mug-2-deal-april-2026/</id>
         <link href="https://www.wired.com/story/ember-mug-2-deal-april-2026/"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Tokyo is the most important tech destination of 2026]]></title>
-        <id>https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/</id>
-        <link href="https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s loss is Thinking Machines’ gain]]></title>
-        <id>https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/</id>
-        <link href="https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’]]></title>
-        <id>https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/</id>
-        <link href="https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apps to distract you from the endless cycle of doomscrolling]]></title>
-        <id>https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/</id>
-        <link href="https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[People Smuggle the Internet Through DNS [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Bnir1IQAPPE</id>
-        <link href="https://www.youtube.com/watch?v=Bnir1IQAPPE"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 Years Ago, I Spent $8 on This. My Life Was Never the Same]]></title>
-        <id>https://ryanholiday.net/20-years-ago-i-spent-8-on-this-my-life-was-never-the-same/</id>
-        <link href="https://ryanholiday.net/20-years-ago-i-spent-8-on-this-my-life-was-never-the-same/"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: SherifDB, a databe written in Golang under 500 LOC]]></title>
-        <id>https://emmanuel326.github.io/blogs/sheriffdb.html</id>
-        <link href="https://emmanuel326.github.io/blogs/sheriffdb.html"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide to Reducing Cognitive Load]]></title>
-        <id>https://www.softwaredesign.ing/blog/a-guide-to-reducing-cognitive-load</id>
-        <link href="https://www.softwaredesign.ing/blog/a-guide-to-reducing-cognitive-load"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DrP: Meta's Root Cause Analysis Platform at Scale]]></title>
-        <id>https://engineering.fb.com/2025/12/19/data-infrastructure/drp-metas-root-cause-analysis-platform-at-scale/</id>
-        <link href="https://engineering.fb.com/2025/12/19/data-infrastructure/drp-metas-root-cause-analysis-platform-at-scale/"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surf-CLI – a CLI for AI agents to control Chrome]]></title>
-        <id>https://github.com/nicobailon/surf-cli</id>
-        <link href="https://github.com/nicobailon/surf-cli"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I wrote an async LSM storage engine in Rust]]></title>
-        <id>https://github.com/mehrdad3301/tiny-lsm</id>
-        <link href="https://github.com/mehrdad3301/tiny-lsm"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk's near-daily online posts about race are turning off some fans]]></title>
-        <id>https://www.washingtonpost.com/technology/2026/04/24/musk-online-posts-race-whiteness/</id>
-        <link href="https://www.washingtonpost.com/technology/2026/04/24/musk-online-posts-race-whiteness/"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SiGit Code: local-first coding agent]]></title>
-        <id>https://github.com/getsigit/sigit</id>
-        <link href="https://github.com/getsigit/sigit"/>
-        <updated>2026-04-24T16:00:00.000Z</updated>
-        <published>2026-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Dose of Wisdom from Silicon Valley's Favorite Prophet]]></title>
-        <id>https://www.nytimes.com/2026/04/24/opinion/ezra-klein-podcast-stewart-brand.html</id>
-        <link href="https://www.nytimes.com/2026/04/24/opinion/ezra-klein-podcast-stewart-brand.html"/>
         <updated>2026-04-24T16:00:00.000Z</updated>
         <published>2026-04-24T16:00:00.000Z</published>
     </entry>
