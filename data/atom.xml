@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-26T15:02:17.041Z</updated>
+    <updated>2026-04-26T22:00:52.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,167 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Google’s new gradient icon design is coming to more apps]]></title>
+        <id>https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps</id>
+        <link href="https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s new podcast strategy: Monetize everything]]></title>
+        <id>https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/</id>
+        <link href="https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Askbetter.dev – a simple guide to asking better technical questions]]></title>
+        <id>https://askbetter.dev/</id>
+        <link href="https://askbetter.dev/"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twenty Years, Twenty Lessons from Creating Magic the Gathering (2016)]]></title>
+        <id>https://magic.wizards.com/en/news/making-magic/twenty-years-twenty-lessons-part-1-2016-05-30</id>
+        <link href="https://magic.wizards.com/en/news/making-magic/twenty-years-twenty-lessons-part-1-2016-05-30"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I built a 2010s microblogging site with SolidJS and .NET Core]]></title>
+        <id>https://bojan.social</id>
+        <link href="https://bojan.social"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Starter: React App on Workers with SSR D1 SQLite R2 Bucket]]></title>
+        <id>https://github.com/DialtoneApp/cloudflare-starter</id>
+        <link href="https://github.com/DialtoneApp/cloudflare-starter"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Polynya – Turn your Postgres into workspaces for AI]]></title>
+        <id>https://polynya.dev/</id>
+        <link href="https://polynya.dev/"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT&T Unix PC – What went wrong? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=_x3uxKfFI-0</id>
+        <link href="https://www.youtube.com/watch?v=_x3uxKfFI-0"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ace Technical Preview: GitHub Next's Agentic Workspace – Maggie Appleton [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ClWD8OEYgp8</id>
+        <link href="https://www.youtube.com/watch?v=ClWD8OEYgp8"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Butterflies are in decline across North America, a look at the Western Monarch]]></title>
+        <id>https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/</id>
+        <link href="https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security issues found within rust-coreutils]]></title>
+        <id>https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773</id>
+        <link href="https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kitty-graphics.el v0.5.0: tmux support for images inside terminal Emacs]]></title>
+        <id>https://cashmere.rs/blog/kitty-graphicsel-v050-tmux-support-sixel-performance-typst-support</id>
+        <link href="https://cashmere.rs/blog/kitty-graphicsel-v050-tmux-support-sixel-performance-typst-support"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hierarchical Sales Target Cascading using Directed Acyclic Graphs (DAGs) in Python]]></title>
+        <id>https://pub.towardsai.net/hierarchical-sales-target-cascading-using-directed-acyclic-graphs-dags-in-python-1426c7980b87?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/hierarchical-sales-target-cascading-using-directed-acyclic-graphs-dags-in-python-1426c7980b87?source=rss----98111c9905da---4"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangChain vs LangGraph vs LangSmith: A Beginner‑Friendly Shootout]]></title>
+        <id>https://pub.towardsai.net/langchain-vs-langgraph-vs-langsmith-a-beginner-friendly-shootout-e3f39826a56f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/langchain-vs-langgraph-vs-langsmith-a-beginner-friendly-shootout-e3f39826a56f?source=rss----98111c9905da---4"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-tuning BLIP2 for Prompt-instructed Video Classification]]></title>
+        <id>https://pub.towardsai.net/fine-tuning-blip2-for-prompt-instructed-video-classification-e1a3aaf40c34?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/fine-tuning-blip2-for-prompt-instructed-video-classification-e1a3aaf40c34?source=rss----98111c9905da---4"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Tokens: How JEPA Is Quietly Teaching AI to Understand the World]]></title>
+        <id>https://pub.towardsai.net/beyond-tokens-how-jepa-is-quietly-teaching-ai-to-understand-the-world-cb610807bb98?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beyond-tokens-how-jepa-is-quietly-teaching-ai-to-understand-the-world-cb610807bb98?source=rss----98111c9905da---4"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verified Wise Accounts with Instant Access]]></title>
+        <id>https://dev.to/kara_ellis_1d45ef7360e4bd/verified-wise-accounts-with-instant-access-aii</id>
+        <link href="https://dev.to/kara_ellis_1d45ef7360e4bd/verified-wise-accounts-with-instant-access-aii"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anthropic SDK Looks Safe. Two of Its Transitive Dependencies Are Not.]]></title>
+        <id>https://dev.to/piiiico/the-anthropic-sdk-looks-safe-two-of-its-transitive-dependencies-are-not-4l13</id>
+        <link href="https://dev.to/piiiico/the-anthropic-sdk-looks-safe-two-of-its-transitive-dependencies-are-not-4l13"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Array Flattening in JavaScript: From Nested Chaos to Clean Lists]]></title>
+        <id>https://dev.to/ritam369/mastering-array-flattening-in-javascript-594k</id>
+        <link href="https://dev.to/ritam369/mastering-array-flattening-in-javascript-594k"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is API Testing in Software? A Complete Guide]]></title>
+        <id>https://dev.to/alexai/what-is-api-testing-in-software-a-complete-guide-1gnk</id>
+        <link href="https://dev.to/alexai/what-is-api-testing-in-software-a-complete-guide-1gnk"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I got tired of the Jira Git PR ritual, so I automated it]]></title>
+        <id>https://dev.to/aashishwastaken/i-got-tired-of-the-jira-git-pr-ritual-so-i-automated-it-36c9</id>
+        <link href="https://dev.to/aashishwastaken/i-got-tired-of-the-jira-git-pr-ritual-so-i-automated-it-36c9"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a REST API with Node.js and Express in 2026 – The Ultimate Guide]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/how-to-build-a-rest-api-with-nodejs-and-express-in-2026-the-ultimate-guide-292f</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/how-to-build-a-rest-api-with-nodejs-and-express-in-2026-the-ultimate-guide-292f"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built an Extension That Makes Dynamics 365 Development 10x Faster]]></title>
+        <id>https://dev.to/hamzakhan/i-built-an-extension-that-makes-dynamics-365-development-10x-faster-3b26</id>
+        <link href="https://dev.to/hamzakhan/i-built-an-extension-that-makes-dynamics-365-development-10x-faster-3b26"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[App+1 | 谈谈网页浏览器中的一个异类：qutebrowser]]></title>
         <id>https://sspai.com/post/98931</id>
         <link href="https://sspai.com/post/98931"/>
@@ -22,16 +183,16 @@
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump fires the entire National Science Board]]></title>
-        <id>https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board</id>
-        <link href="https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board"/>
+        <title type="html"><![CDATA[The plan to quietly kill Coyote v. Acme blew up in David Zaslav&#8217;s face]]></title>
+        <id>https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs</id>
+        <link href="https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The plan to quietly kill Coyote v. Acme blew up in David Zaslav&#8217;s face]]></title>
-        <id>https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs</id>
-        <link href="https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs"/>
+        <title type="html"><![CDATA[Trump fires the entire National Science Board]]></title>
+        <id>https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board</id>
+        <link href="https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
@@ -64,296 +225,128 @@
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Text Trace – Keynote-style SVG text trace animations for the web]]></title>
-        <id>https://github.com/Jannchie/text-trace</id>
-        <link href="https://github.com/Jannchie/text-trace"/>
+        <title type="html"><![CDATA[To buy this Bay Area home, you’ll need Anthropic equity]]></title>
+        <id>https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/</id>
+        <link href="https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[List of personal sites that host Wander Console, a tool to explore the small web]]></title>
-        <id>https://susam.codeberg.page/wcn/</id>
-        <link href="https://susam.codeberg.page/wcn/"/>
+        <title type="html"><![CDATA[National Science Board members told by Trump administration they were terminated]]></title>
+        <id>https://thehill.com/policy/energy-environment/5849158-national-science-board-members-terminated-trump/</id>
+        <link href="https://thehill.com/policy/energy-environment/5849158-national-science-board-members-terminated-trump/"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT Image Generation Models Prompting Guide]]></title>
-        <id>https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide</id>
-        <link href="https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide"/>
+        <title type="html"><![CDATA[Show HN: Thelawin – Generate EU e-invoices from JSON]]></title>
+        <id>https://thelawin.dev/</id>
+        <link href="https://thelawin.dev/"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A high-performance 2D graphics painter that use SDL3 GPU API]]></title>
-        <id>https://github.com/n67094/SDL_gp</id>
-        <link href="https://github.com/n67094/SDL_gp"/>
+        <title type="html"><![CDATA[Bob Odenkirk Would Like to Remind You That Life Is a Meaningless Farce]]></title>
+        <id>https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html</id>
+        <link href="https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub unwanted UX change: issue links now open in a popup]]></title>
-        <id>https://github.com/orgs/community/discussions/192666</id>
-        <link href="https://github.com/orgs/community/discussions/192666"/>
+        <title type="html"><![CDATA[We have no chance against this: Honda reacts to China's supplier strength]]></title>
+        <id>https://www.motor1.com/news/792130/honda-reacts-china-supplier-strength/</id>
+        <link href="https://www.motor1.com/news/792130/honda-reacts-china-supplier-strength/"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Statecharts: hierarchical state machines]]></title>
-        <id>https://statecharts.dev/</id>
-        <link href="https://statecharts.dev/"/>
+        <title type="html"><![CDATA[GitHub's Outages Since the Microsoft Acquisition]]></title>
+        <id>https://old.reddit.com/r/github/comments/1rnvhs9/githubs_historic_downtime_scraped_and_plotted/</id>
+        <link href="https://old.reddit.com/r/github/comments/1rnvhs9/githubs_historic_downtime_scraped_and_plotted/"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rockchip-vaapi – VA-API hardware video decode driver for RK3588]]></title>
-        <id>https://github.com/woodyst/rockchip-vaapi</id>
-        <link href="https://github.com/woodyst/rockchip-vaapi"/>
+        <title type="html"><![CDATA[Researchers say we're talking less]]></title>
+        <id>https://www.theverge.com/science/918753/researchers-talking-less</id>
+        <link href="https://www.theverge.com/science/918753/researchers-talking-less"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can LLMs Scale to AGI?]]></title>
-        <id>https://news.ycombinator.com/item?id=47908784</id>
-        <link href="https://news.ycombinator.com/item?id=47908784"/>
+        <title type="html"><![CDATA[Meta buys AWS Graviton Arm cores in a CPU land grab]]></title>
+        <id>https://www.servethehome.com/meta-buys-tens-of-millions-of-aws-graviton-arm-cores-in-a-cpu-land-grab/</id>
+        <link href="https://www.servethehome.com/meta-buys-tens-of-millions-of-aws-graviton-arm-cores-in-a-cpu-land-grab/"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: OpenClaw but Efficient and with an SDK]]></title>
-        <id>https://www.npmjs.com/package/fastyclaw</id>
-        <link href="https://www.npmjs.com/package/fastyclaw"/>
+        <title type="html"><![CDATA[The Scrum-to-POM Transition Is a Role Repositioning Event]]></title>
+        <id>https://age-of-product.com/scrum-to-pom-transition/</id>
+        <link href="https://age-of-product.com/scrum-to-pom-transition/"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Can submissions omit both the "url" and "text" field?]]></title>
-        <id>https://news.ycombinator.com/item?id=47908752</id>
-        <link href="https://news.ycombinator.com/item?id=47908752"/>
+        <title type="html"><![CDATA[Pytest-cloudreport – local HTML reports and flaky-test detection for pytest]]></title>
+        <id>https://github.com/ahmad212o/pytest-cloudreport</id>
+        <link href="https://github.com/ahmad212o/pytest-cloudreport"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Play on your TV using mobile phones as controllers – PadlessBox]]></title>
-        <id>https://padlessbox.com/</id>
-        <link href="https://padlessbox.com/"/>
+        <title type="html"><![CDATA[The reporters at this news site are AI bots. OpenAI's super PAC is funding it]]></title>
+        <id>https://twitter.com/TheMidasProj/status/2047692328396034490</id>
+        <link href="https://twitter.com/TheMidasProj/status/2047692328396034490"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: I think we need Trustpilot for GitHub users, don't we?]]></title>
-        <id>https://news.ycombinator.com/item?id=47908718</id>
-        <link href="https://news.ycombinator.com/item?id=47908718"/>
+        <title type="html"><![CDATA[The West Forgot How to Make Things. Now It's Forgetting How to Code]]></title>
+        <id>https://techtrenches.dev/p/the-west-forgot-how-to-make-things</id>
+        <link href="https://techtrenches.dev/p/the-west-forgot-how-to-make-things"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI CEO Apologizes for Not Warning Authorities About Mass Shooting Suspect]]></title>
-        <id>https://www.pcmag.com/news/openai-ceo-deeply-sorry-for-not-warning-authorities-about-mass-shooting</id>
-        <link href="https://www.pcmag.com/news/openai-ceo-deeply-sorry-for-not-warning-authorities-about-mass-shooting"/>
+        <title type="html"><![CDATA[WTF Are Metaballs?]]></title>
+        <id>https://www.youtube.com/watch?v=LW03EEKjy9o</id>
+        <link href="https://www.youtube.com/watch?v=LW03EEKjy9o"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How much for a fake authorship? Ad database reveals secrets of scientific fraud]]></title>
-        <id>https://www.nature.com/articles/d41586-026-01340-y</id>
-        <link href="https://www.nature.com/articles/d41586-026-01340-y"/>
+        <title type="html"><![CDATA[Iran war hits Dubai chocolate pistachio supplies]]></title>
+        <id>https://www.ft.com/content/438ef32a-59e5-41b3-a0da-569716385347</id>
+        <link href="https://www.ft.com/content/438ef32a-59e5-41b3-a0da-569716385347"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar]]></title>
-        <id>https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar</id>
-        <link href="https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar"/>
+        <title type="html"><![CDATA[Why Rome Never Industrialized [video]]]></title>
+        <id>https://www.youtube.com/watch?v=uR8-AF6NJcc</id>
+        <link href="https://www.youtube.com/watch?v=uR8-AF6NJcc"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EU Age Control: The trojan horse for digital IDs]]></title>
-        <id>https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/</id>
-        <link href="https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/"/>
+        <title type="html"><![CDATA[A Taiwanese Vestige in the Geedge Supply Chain]]></title>
+        <id>https://interseclab.org/research/madlink-a-taiwanese-vestige-in-the-geedge-supply-chain/</id>
+        <link href="https://interseclab.org/research/madlink-a-taiwanese-vestige-in-the-geedge-supply-chain/"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dataland, the first museum of AI arts, sets opening date and first exhibition]]></title>
-        <id>https://www.latimes.com/entertainment-arts/story/2026-04-23/refik-anadol-ai-art-museum-dataland-opening-date</id>
-        <link href="https://www.latimes.com/entertainment-arts/story/2026-04-23/refik-anadol-ai-art-museum-dataland-opening-date"/>
+        <title type="html"><![CDATA[Show HN: Implit – Catch fake AI-generated dependencies]]></title>
+        <id>https://github.com/build-neurall/implit</id>
+        <link href="https://github.com/build-neurall/implit"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Peeroxide – Full wire-compatible Rust implementation of Hyperswarm]]></title>
-        <id>https://github.com/Rightbracket/peeroxide</id>
-        <link href="https://github.com/Rightbracket/peeroxide"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chernobyl at 40: Secret Stasi files reveal extent of Soviet misinformation]]></title>
-        <id>https://theconversation.com/chernobyl-at-40-secret-stasi-files-reveal-extent-of-soviet-misinformation-campaign-over-nuclear-disaster-274930</id>
-        <link href="https://theconversation.com/chernobyl-at-40-secret-stasi-files-reveal-extent-of-soviet-misinformation-campaign-over-nuclear-disaster-274930"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Type of Neuroplasticity Rewires the Brain After a Single Experience]]></title>
-        <id>https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/</id>
-        <link href="https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GnuPG – post-quantum crypto landing in mainline]]></title>
-        <id>https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html</id>
-        <link href="https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wedges and Control Points in Product Strategy]]></title>
-        <id>https://edwardhsu.substack.com/p/wedges-control-points-and-the-missing</id>
-        <link href="https://edwardhsu.substack.com/p/wedges-control-points-and-the-missing"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agents Aren't Coworkers, Embed Them in Your Software]]></title>
-        <id>https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software</id>
-        <link href="https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Copenhagen built a metro for free (The Flying Moose) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=GzamwVH3CXU</id>
-        <link href="https://www.youtube.com/watch?v=GzamwVH3CXU"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microfiche, Microfilm and Other Minutiae (1981) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Q6P9FhSkd0I</id>
-        <link href="https://www.youtube.com/watch?v=Q6P9FhSkd0I"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles]]></title>
-        <id>https://www.lmsys.org/blog/2026-04-25-deepseek-v4/</id>
-        <link href="https://www.lmsys.org/blog/2026-04-25-deepseek-v4/"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the short circuit in solid-state batteries]]></title>
-        <id>https://www.mpie.de/5151287/short-circuit-solid-state-batteries</id>
-        <link href="https://www.mpie.de/5151287/short-circuit-solid-state-batteries"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steak 'n Shake: We're going 'back to the glory days of fast food']]></title>
-        <id>https://thehill.com/business/5848987-steak-n-shake-healthy-ingredients/</id>
-        <link href="https://thehill.com/business/5848987-steak-n-shake-healthy-ingredients/"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marc Andreessen on how the internet changed news, politics, and outrage [video]]]></title>
-        <id>https://www.youtube.com/watch?v=82HsvG1_Nqk</id>
-        <link href="https://www.youtube.com/watch?v=82HsvG1_Nqk"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An interesting OpenAI Codex Q&A]]></title>
-        <id>https://news.ycombinator.com/item?id=47905649</id>
-        <link href="https://news.ycombinator.com/item?id=47905649"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who's developing Golden Dome's orbital interceptors–if they're ever built]]></title>
-        <id>https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/</id>
-        <link href="https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic by Return of Post: How Mail Order Delivered the Occult]]></title>
-        <id>https://publicdomainreview.org/essay/magic-by-return-of-post/</id>
-        <link href="https://publicdomainreview.org/essay/magic-by-return-of-post/"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can parse an .env file as an .ini with PHP – but there's a catch]]></title>
-        <id>https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/</id>
-        <link href="https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Phishing: The Control-Plane Risk of Recursive Trust]]></title>
-        <id>https://zenodo.org/records/19432540</id>
-        <link href="https://zenodo.org/records/19432540"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How did the industry settle on weekly limits?]]></title>
-        <id>https://news.ycombinator.com/item?id=47904716</id>
-        <link href="https://news.ycombinator.com/item?id=47904716"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCP Spine – Middleware proxy for LLM tool calls with security and token control]]></title>
-        <id>https://github.com/Donnyb369/mcp-spine</id>
-        <link href="https://github.com/Donnyb369/mcp-spine"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 3D Controller That Should Have Existed 20 Years Ago [video]]]></title>
-        <id>https://www.youtube.com/watch?v=u1v7TXViRi8</id>
-        <link href="https://www.youtube.com/watch?v=u1v7TXViRi8"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Get – get anything from your computer]]></title>
-        <id>https://github.com/Water-Run/get</id>
-        <link href="https://github.com/Water-Run/get"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tired of high costs, some Americans are importing homes straight from China]]></title>
-        <id>https://www.cnn.com/2026/04/25/business/china-imports-americans-homebuilding-costs</id>
-        <link href="https://www.cnn.com/2026/04/25/business/china-imports-americans-homebuilding-costs"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolution Strategies at the Hyperscale [pdf]]]></title>
-        <id>https://eshyperscale.github.io/imgs/paper.pdf</id>
-        <link href="https://eshyperscale.github.io/imgs/paper.pdf"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Culina – an OS for multi-location restaurant operations]]></title>
-        <id>https://app.getculina.app/login</id>
-        <link href="https://app.getculina.app/login"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-Source Inference is growing 10% week over week this year]]></title>
-        <id>https://news.ycombinator.com/item?id=47906463</id>
-        <link href="https://news.ycombinator.com/item?id=47906463"/>
+        <title type="html"><![CDATA[Modern, Simple, Web Framework in C. REST, Templates, SSL, Metrics]]></title>
+        <id>https://github.com/briandowns/libpapago</id>
+        <link href="https://github.com/briandowns/libpapago"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
@@ -361,6 +354,13 @@
         <title type="html"><![CDATA[Rootless virtual machines with KVM and QEMU (2024)]]></title>
         <id>https://developers.redhat.com/articles/2024/12/18/rootless-virtual-machines-kvm-and-qemu</id>
         <link href="https://developers.redhat.com/articles/2024/12/18/rootless-virtual-machines-kvm-and-qemu"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <published>2026-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source Inference is growing 10% week over week this year]]></title>
+        <id>https://news.ycombinator.com/item?id=47906463</id>
+        <link href="https://news.ycombinator.com/item?id=47906463"/>
         <updated>2026-04-25T16:00:00.000Z</updated>
         <published>2026-04-25T16:00:00.000Z</published>
     </entry>
