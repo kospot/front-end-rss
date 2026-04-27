@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-27 23:02:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-28 06:01:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -8,8 +8,8 @@
 
 
 - [2026-04-15-I-Got-a-Job-Offer.-But,-It-Came-With-Malware.](https://dev.to/denyherianto/i-got-a-job-offer-but-it-came-with-malwares-4c9a) 
-- [2026-04-25-Rippling-exposed-your-SSN/banking-to-anyone-who-sent-you-an-offer-letter](https://infosec.exchange/@SecureOwl/116415101610028363) 
 - [2026-04-25-Microsoft-offers-voluntary-employee-buyout/retirement-for-7%-of-U.S.-workforce](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html) 
+- [2026-04-25-Rippling-exposed-your-SSN/banking-to-anyone-who-sent-you-an-offer-letter](https://infosec.exchange/@SecureOwl/116415101610028363) 
 - [2026-04-24-Light-activated-material-offers-new-approach-to-carbon-dioxide-conversion](https://phys.org/news/2026-03-material-approach-carbon-dioxide-conversion.html) 
 - [2026-04-06-AI-dolls-offer-companionship-to-the-elderly](https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd) 
 - [2026-04-24-Microsoft-offers-buyout-for-up-to-7%-of-US-employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/) 
@@ -19,4 +19,3 @@
 - [2026-04-10-ChatGPT-finally-offers-$100/month-Pro-plan](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/) 
 - [2026-04-07-AI-startup-Rocket-offers-vibe-McKinsey-style-reports-at-a-fraction-of-the-cost](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/) 
 - [2026-03-30-Uber-is-buying-Berlin-startup-Blacklane-to-bolster-its-‘Elite’-offering](https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/) 
-- [2026-03-29-Mark-Zuckerberg-texted-Elon-Musk-to-offer-help-with-DOGE](https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/) 
