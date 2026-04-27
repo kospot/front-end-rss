@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-27T02:01:00.735Z</updated>
+    <updated>2026-04-27T04:01:01.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,13 +22,6 @@
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder]]></title>
-        <id>https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/</id>
-        <link href="https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon’s new podcast strategy: Monetize everything]]></title>
         <id>https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/</id>
         <link href="https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/"/>
@@ -36,114 +29,44 @@
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: The Unix Magic poster, annotated (updated)]]></title>
-        <id>https://github.com/drio/unixmagic</id>
-        <link href="https://github.com/drio/unixmagic"/>
+        <title type="html"><![CDATA[The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder]]></title>
+        <id>https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/</id>
+        <link href="https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coding agents ignore their own budgets]]></title>
-        <id>https://twitter.com/RampLabs/status/2046624992956146158</id>
-        <link href="https://twitter.com/RampLabs/status/2046624992956146158"/>
+        <title type="html"><![CDATA[Surfshark releases new proprietary VPN protocol]]></title>
+        <id>https://www.zdnet.com/article/surfshark-dausos-vpn-protocol/</id>
+        <link href="https://www.zdnet.com/article/surfshark-dausos-vpn-protocol/"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Askbetter.dev – a simple guide to asking better technical questions]]></title>
-        <id>https://askbetter.dev/</id>
-        <link href="https://askbetter.dev/"/>
+        <title type="html"><![CDATA[Italy to extradite suspected Chinese hacker wanted by US authorities]]></title>
+        <id>https://www.reuters.com/world/china/italy-extradite-suspected-chinese-hacker-wanted-by-us-authorities-says-source-2026-04-26/</id>
+        <link href="https://www.reuters.com/world/china/italy-extradite-suspected-chinese-hacker-wanted-by-us-authorities-says-source-2026-04-26/"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twenty Years, Twenty Lessons from Creating Magic the Gathering (2016)]]></title>
-        <id>https://magic.wizards.com/en/news/making-magic/twenty-years-twenty-lessons-part-1-2016-05-30</id>
-        <link href="https://magic.wizards.com/en/news/making-magic/twenty-years-twenty-lessons-part-1-2016-05-30"/>
+        <title type="html"><![CDATA[Ask HN: Is there a way to render URLs to PDFs on Android?]]></title>
+        <id>https://news.ycombinator.com/item?id=47917446</id>
+        <link href="https://news.ycombinator.com/item?id=47917446"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I built a 2010s microblogging site with SolidJS and .NET Core]]></title>
-        <id>https://bojan.social</id>
-        <link href="https://bojan.social"/>
+        <title type="html"><![CDATA[Framework's new Linux laptop is selling faster than its Windows one]]></title>
+        <id>https://www.pcworld.com/article/3123900/framework-new-linux-laptop-is-selling-faster-than-its-windows-one.html</id>
+        <link href="https://www.pcworld.com/article/3123900/framework-new-linux-laptop-is-selling-faster-than-its-windows-one.html"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare Starter: React App on Workers with SSR D1 SQLite R2 Bucket]]></title>
-        <id>https://github.com/DialtoneApp/cloudflare-starter</id>
-        <link href="https://github.com/DialtoneApp/cloudflare-starter"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Polynya – Turn your Postgres into workspaces for AI]]></title>
-        <id>https://polynya.dev/</id>
-        <link href="https://polynya.dev/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AT&T Unix PC – What went wrong? [video]]]></title>
-        <id>https://www.youtube.com/watch?v=_x3uxKfFI-0</id>
-        <link href="https://www.youtube.com/watch?v=_x3uxKfFI-0"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ace Technical Preview: GitHub Next's Agentic Workspace – Maggie Appleton [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ClWD8OEYgp8</id>
-        <link href="https://www.youtube.com/watch?v=ClWD8OEYgp8"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Butterflies are in decline across North America, a look at the Western Monarch]]></title>
-        <id>https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/</id>
-        <link href="https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security issues found within rust-coreutils]]></title>
-        <id>https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773</id>
-        <link href="https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kitty-graphics.el v0.5.0: tmux support for images inside terminal Emacs]]></title>
-        <id>https://cashmere.rs/blog/kitty-graphicsel-v050-tmux-support-sixel-performance-typst-support</id>
-        <link href="https://cashmere.rs/blog/kitty-graphicsel-v050-tmux-support-sixel-performance-typst-support"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: CheckThisOut – a filtered directory of side hustles and AI tools]]></title>
-        <id>https://checkthisout.com/</id>
-        <link href="https://checkthisout.com/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel reportedly says it boosted yields by selling what would normally be scrap]]></title>
-        <id>https://www.tomshardware.com/pc-components/cpus/intel-reportedly-says-it-boosted-yields-by-selling-what-would-normally-be-scrap-or-low-expectation-cpus-customers-more-willing-to-accept-lesser-chips-due-to-overwhelming-cpu-demand</id>
-        <link href="https://www.tomshardware.com/pc-components/cpus/intel-reportedly-says-it-boosted-yields-by-selling-what-would-normally-be-scrap-or-low-expectation-cpus-customers-more-willing-to-accept-lesser-chips-due-to-overwhelming-cpu-demand"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Nitrum – Rust Toolkit and CLI for AWS Nitro Enclaves]]></title>
-        <id>https://github.com/matzapata/nitrum</id>
-        <link href="https://github.com/matzapata/nitrum"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sabastian Sawe becomes first person to break two-hour marathon mark]]></title>
-        <id>https://www.rte.ie/sport/athletics/2026/0426/1570275-sawe-becomes-first-man-to-break-two-hour-mark-in-marathon/</id>
-        <link href="https://www.rte.ie/sport/athletics/2026/0426/1570275-sawe-becomes-first-man-to-break-two-hour-mark-in-marathon/"/>
+        <title type="html"><![CDATA[AI and Digitalization in HTA: Enhancing Evidence, Equity and Efficiency [video]]]></title>
+        <id>https://www.youtube.com/watch?v=2wN0D-AqUQQ</id>
+        <link href="https://www.youtube.com/watch?v=2wN0D-AqUQQ"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
@@ -155,37 +78,128 @@
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World Models Explained: The Architecture That Could Replace Transformers]]></title>
-        <id>https://pub.towardsai.net/world-models-explained-the-architecture-that-could-replace-transformers-be049336c354?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/world-models-explained-the-architecture-that-could-replace-transformers-be049336c354?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Sabastian Sawe becomes first person to break two-hour marathon mark]]></title>
+        <id>https://www.rte.ie/sport/athletics/2026/0426/1570275-sawe-becomes-first-man-to-break-two-hour-mark-in-marathon/</id>
+        <link href="https://www.rte.ie/sport/athletics/2026/0426/1570275-sawe-becomes-first-man-to-break-two-hour-mark-in-marathon/"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hierarchical Sales Target Cascading using Directed Acyclic Graphs (DAGs) in Python]]></title>
-        <id>https://pub.towardsai.net/hierarchical-sales-target-cascading-using-directed-acyclic-graphs-dags-in-python-1426c7980b87?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/hierarchical-sales-target-cascading-using-directed-acyclic-graphs-dags-in-python-1426c7980b87?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Nitrum – Rust Toolkit and CLI for AWS Nitro Enclaves]]></title>
+        <id>https://github.com/matzapata/nitrum</id>
+        <link href="https://github.com/matzapata/nitrum"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LangChain vs LangGraph vs LangSmith: A Beginner‑Friendly Shootout]]></title>
-        <id>https://pub.towardsai.net/langchain-vs-langgraph-vs-langsmith-a-beginner-friendly-shootout-e3f39826a56f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/langchain-vs-langgraph-vs-langsmith-a-beginner-friendly-shootout-e3f39826a56f?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Intel reportedly says it boosted yields by selling what would normally be scrap]]></title>
+        <id>https://www.tomshardware.com/pc-components/cpus/intel-reportedly-says-it-boosted-yields-by-selling-what-would-normally-be-scrap-or-low-expectation-cpus-customers-more-willing-to-accept-lesser-chips-due-to-overwhelming-cpu-demand</id>
+        <link href="https://www.tomshardware.com/pc-components/cpus/intel-reportedly-says-it-boosted-yields-by-selling-what-would-normally-be-scrap-or-low-expectation-cpus-customers-more-willing-to-accept-lesser-chips-due-to-overwhelming-cpu-demand"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fine-tuning BLIP2 for Prompt-instructed Video Classification]]></title>
-        <id>https://pub.towardsai.net/fine-tuning-blip2-for-prompt-instructed-video-classification-e1a3aaf40c34?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/fine-tuning-blip2-for-prompt-instructed-video-classification-e1a3aaf40c34?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: CheckThisOut – a filtered directory of side hustles and AI tools]]></title>
+        <id>https://checkthisout.com/</id>
+        <link href="https://checkthisout.com/"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond Tokens: How JEPA Is Quietly Teaching AI to Understand the World]]></title>
-        <id>https://pub.towardsai.net/beyond-tokens-how-jepa-is-quietly-teaching-ai-to-understand-the-world-cb610807bb98?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/beyond-tokens-how-jepa-is-quietly-teaching-ai-to-understand-the-world-cb610807bb98?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Kitty-graphics.el v0.5.0: tmux support for images inside terminal Emacs]]></title>
+        <id>https://cashmere.rs/blog/kitty-graphicsel-v050-tmux-support-sixel-performance-typst-support</id>
+        <link href="https://cashmere.rs/blog/kitty-graphicsel-v050-tmux-support-sixel-performance-typst-support"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security issues found within rust-coreutils]]></title>
+        <id>https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773</id>
+        <link href="https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Butterflies are in decline across North America, a look at the Western Monarch]]></title>
+        <id>https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/</id>
+        <link href="https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ace Technical Preview: GitHub Next's Agentic Workspace – Maggie Appleton [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ClWD8OEYgp8</id>
+        <link href="https://www.youtube.com/watch?v=ClWD8OEYgp8"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT&T Unix PC – What went wrong? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=_x3uxKfFI-0</id>
+        <link href="https://www.youtube.com/watch?v=_x3uxKfFI-0"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Polynya – Turn your Postgres into workspaces for AI]]></title>
+        <id>https://polynya.dev/</id>
+        <link href="https://polynya.dev/"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Starter: React App on Workers with SSR D1 SQLite R2 Bucket]]></title>
+        <id>https://github.com/DialtoneApp/cloudflare-starter</id>
+        <link href="https://github.com/DialtoneApp/cloudflare-starter"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I built a 2010s microblogging site with SolidJS and .NET Core]]></title>
+        <id>https://bojan.social</id>
+        <link href="https://bojan.social"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twenty Years, Twenty Lessons from Creating Magic the Gathering (2016)]]></title>
+        <id>https://magic.wizards.com/en/news/making-magic/twenty-years-twenty-lessons-part-1-2016-05-30</id>
+        <link href="https://magic.wizards.com/en/news/making-magic/twenty-years-twenty-lessons-part-1-2016-05-30"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Askbetter.dev – a simple guide to asking better technical questions]]></title>
+        <id>https://askbetter.dev/</id>
+        <link href="https://askbetter.dev/"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding agents ignore their own budgets]]></title>
+        <id>https://twitter.com/RampLabs/status/2046624992956146158</id>
+        <link href="https://twitter.com/RampLabs/status/2046624992956146158"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: The Unix Magic poster, annotated (updated)]]></title>
+        <id>https://github.com/drio/unixmagic</id>
+        <link href="https://github.com/drio/unixmagic"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Certified Architect (CCA-F) Exam Prep: The Gap Closer: Everything the Other Articles Missed]]></title>
+        <id>https://pub.towardsai.net/claude-certified-architect-cca-f-exam-prep-the-gap-closer-everything-the-other-articles-missed-4ed0515f3ed5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-certified-architect-cca-f-exam-prep-the-gap-closer-everything-the-other-articles-missed-4ed0515f3ed5?source=rss----98111c9905da---4"/>
+        <updated>2026-04-26T16:00:00.000Z</updated>
+        <published>2026-04-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17,000 People Got Fired This Week So Big Tech Could Spend $250 Billion on AI. The Math Is Brutal.]]></title>
+        <id>https://pub.towardsai.net/17-000-people-got-fired-this-week-so-big-tech-could-spend-250-billion-on-ai-the-math-is-brutal-f961e14f42ad?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/17-000-people-got-fired-this-week-so-big-tech-could-spend-250-billion-on-ai-the-math-is-brutal-f961e14f42ad?source=rss----98111c9905da---4"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
@@ -197,174 +211,157 @@
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advanced Techniques for Parsing and Interpreting JavaScript Code]]></title>
-        <id>https://dev.to/omriluz1/advanced-techniques-for-parsing-and-interpreting-javascript-code-3ldk</id>
-        <link href="https://dev.to/omriluz1/advanced-techniques-for-parsing-and-interpreting-javascript-code-3ldk"/>
+        <title type="html"><![CDATA[Beyond Tokens: How JEPA Is Quietly Teaching AI to Understand the World]]></title>
+        <id>https://pub.towardsai.net/beyond-tokens-how-jepa-is-quietly-teaching-ai-to-understand-the-world-cb610807bb98?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beyond-tokens-how-jepa-is-quietly-teaching-ai-to-understand-the-world-cb610807bb98?source=rss----98111c9905da---4"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Add OG Images to Next.js in 5 Minutes]]></title>
-        <id>https://dev.to/corbanware/how-to-add-og-images-to-nextjs-in-5-minutes-45nj</id>
-        <link href="https://dev.to/corbanware/how-to-add-og-images-to-nextjs-in-5-minutes-45nj"/>
+        <title type="html"><![CDATA[Fine-tuning BLIP2 for Prompt-instructed Video Classification]]></title>
+        <id>https://pub.towardsai.net/fine-tuning-blip2-for-prompt-instructed-video-classification-e1a3aaf40c34?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/fine-tuning-blip2-for-prompt-instructed-video-classification-e1a3aaf40c34?source=rss----98111c9905da---4"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Client-Side AI Tool With Zero Backend (Full Tutorial)]]></title>
-        <id>https://dev.to/charliemorrison/how-to-build-a-client-side-ai-tool-with-zero-backend-full-tutorial-474j</id>
-        <link href="https://dev.to/charliemorrison/how-to-build-a-client-side-ai-tool-with-zero-backend-full-tutorial-474j"/>
+        <title type="html"><![CDATA[LangChain vs LangGraph vs LangSmith: A Beginner‑Friendly Shootout]]></title>
+        <id>https://pub.towardsai.net/langchain-vs-langgraph-vs-langsmith-a-beginner-friendly-shootout-e3f39826a56f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/langchain-vs-langgraph-vs-langsmith-a-beginner-friendly-shootout-e3f39826a56f?source=rss----98111c9905da---4"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New article in my signal-kernel series:
-Async Transactions for Signals
-How do you batch updates across await boundaries without breaking lazy computed or your scheduler model?
-This article shows the implementation and the trade-offs.]]></title>
-        <id>https://dev.to/luciano0322/new-article-in-my-signal-kernel-series-async-transactions-for-signals-how-do-you-batch-updates-3dg7</id>
-        <link href="https://dev.to/luciano0322/new-article-in-my-signal-kernel-series-async-transactions-for-signals-how-do-you-batch-updates-3dg7"/>
+        <title type="html"><![CDATA[Hierarchical Sales Target Cascading using Directed Acyclic Graphs (DAGs) in Python]]></title>
+        <id>https://pub.towardsai.net/hierarchical-sales-target-cascading-using-directed-acyclic-graphs-dags-in-python-1426c7980b87?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/hierarchical-sales-target-cascading-using-directed-acyclic-graphs-dags-in-python-1426c7980b87?source=rss----98111c9905da---4"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Async Transactions for Signals: Batching Updates Across await]]></title>
-        <id>https://dev.to/luciano0322/async-transactions-for-signals-batching-updates-across-await-32hj</id>
-        <link href="https://dev.to/luciano0322/async-transactions-for-signals-batching-updates-across-await-32hj"/>
+        <title type="html"><![CDATA[World Models Explained: The Architecture That Could Replace Transformers]]></title>
+        <id>https://pub.towardsai.net/world-models-explained-the-architecture-that-could-replace-transformers-be049336c354?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/world-models-explained-the-architecture-that-could-replace-transformers-be049336c354?source=rss----98111c9905da---4"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I just wanted to compress a confidential document. Instead I built 60 client-side file tools.]]></title>
-        <id>https://dev.to/nengil/i-just-wanted-to-compress-a-confidential-document-instead-i-built-60-client-side-file-tools-5454</id>
-        <link href="https://dev.to/nengil/i-just-wanted-to-compress-a-confidential-document-instead-i-built-60-client-side-file-tools-5454"/>
+        <title type="html"><![CDATA[When Quotes Crumble: Detecting Transient Mechanical Liquidity Erosion in Limit Order Books]]></title>
+        <id>https://arxiv.org/abs/2604.21993</id>
+        <link href="https://arxiv.org/abs/2604.21993"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A 230-Line Chrome MV3 Extension That Copies the Page Selection as Markdown — Without `<all_urls>`]]></title>
-        <id>https://dev.to/sendotltd/a-230-line-chrome-mv3-extension-that-copies-the-page-selection-as-markdown-without--2jo</id>
-        <link href="https://dev.to/sendotltd/a-230-line-chrome-mv3-extension-that-copies-the-page-selection-as-markdown-without--2jo"/>
+        <title type="html"><![CDATA[Universal Transformers Need Memory: Depth-State Trade-offs in Adaptive Recursive Reasoning]]></title>
+        <id>https://arxiv.org/abs/2604.21999</id>
+        <link href="https://arxiv.org/abs/2604.21999"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js vs Vite in 2026: What you should actually use]]></title>
-        <id>https://dev.to/apollo_ag/nextjs-vs-vite-in-2026-what-you-should-actually-use-4o2g</id>
-        <link href="https://dev.to/apollo_ag/nextjs-vs-vite-in-2026-what-you-should-actually-use-4o2g"/>
+        <title type="html"><![CDATA[Mochi: Aligning Pre-training and Inference for Efficient Graph Foundation Models via Meta-Learning]]></title>
+        <id>https://arxiv.org/abs/2604.22031</id>
+        <link href="https://arxiv.org/abs/2604.22031"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verified Wise Accounts with Instant Access]]></title>
-        <id>https://dev.to/kara_ellis_1d45ef7360e4bd/verified-wise-accounts-with-instant-access-aii</id>
-        <link href="https://dev.to/kara_ellis_1d45ef7360e4bd/verified-wise-accounts-with-instant-access-aii"/>
+        <title type="html"><![CDATA[LayerBoost: Layer-Aware Attention Reduction for Efficient LLMs]]></title>
+        <id>https://arxiv.org/abs/2604.22050</id>
+        <link href="https://arxiv.org/abs/2604.22050"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Anthropic SDK Looks Safe. Two of Its Transitive Dependencies Are Not.]]></title>
-        <id>https://dev.to/piiiico/the-anthropic-sdk-looks-safe-two-of-its-transitive-dependencies-are-not-4l13</id>
-        <link href="https://dev.to/piiiico/the-anthropic-sdk-looks-safe-two-of-its-transitive-dependencies-are-not-4l13"/>
+        <title type="html"><![CDATA[Learning Coverage- and Power-Optimal Transmitter Placement from Building Maps: A Comparative Study of Direct and Indirect Neural Approaches]]></title>
+        <id>https://arxiv.org/abs/2604.22056</id>
+        <link href="https://arxiv.org/abs/2604.22056"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Array Flattening in JavaScript: From Nested Chaos to Clean Lists]]></title>
-        <id>https://dev.to/ritam369/mastering-array-flattening-in-javascript-594k</id>
-        <link href="https://dev.to/ritam369/mastering-array-flattening-in-javascript-594k"/>
+        <title type="html"><![CDATA[PrivUn: Unveiling Latent Ripple Effects and Shallow Forgetting in Privacy Unlearning]]></title>
+        <id>https://arxiv.org/abs/2604.22076</id>
+        <link href="https://arxiv.org/abs/2604.22076"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Is API Testing in Software? A Complete Guide]]></title>
-        <id>https://dev.to/alexai/what-is-api-testing-in-software-a-complete-guide-1gnk</id>
-        <link href="https://dev.to/alexai/what-is-api-testing-in-software-a-complete-guide-1gnk"/>
+        <title type="html"><![CDATA[Do Not Imitate, Reinforce: Iterative Classification via Belief Refinement]]></title>
+        <id>https://arxiv.org/abs/2604.22110</id>
+        <link href="https://arxiv.org/abs/2604.22110"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I got tired of the Jira Git PR ritual, so I automated it]]></title>
-        <id>https://dev.to/aashishwastaken/i-got-tired-of-the-jira-git-pr-ritual-so-i-automated-it-36c9</id>
-        <link href="https://dev.to/aashishwastaken/i-got-tired-of-the-jira-git-pr-ritual-so-i-automated-it-36c9"/>
+        <title type="html"><![CDATA[Optimal sequential decision-making for error propagation mitigation in digital twins]]></title>
+        <id>https://arxiv.org/abs/2604.22168</id>
+        <link href="https://arxiv.org/abs/2604.22168"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a REST API with Node.js and Express in 2026 – The Ultimate Guide]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/how-to-build-a-rest-api-with-nodejs-and-express-in-2026-the-ultimate-guide-292f</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/how-to-build-a-rest-api-with-nodejs-and-express-in-2026-the-ultimate-guide-292f"/>
+        <title type="html"><![CDATA[ReCast: Recasting Learning Signals for Reinforcement Learning in Generative Recommendation]]></title>
+        <id>https://arxiv.org/abs/2604.22169</id>
+        <link href="https://arxiv.org/abs/2604.22169"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built an Extension That Makes Dynamics 365 Development 10x Faster]]></title>
-        <id>https://dev.to/hamzakhan/i-built-an-extension-that-makes-dynamics-365-development-10x-faster-3b26</id>
-        <link href="https://dev.to/hamzakhan/i-built-an-extension-that-makes-dynamics-365-development-10x-faster-3b26"/>
+        <title type="html"><![CDATA[Fast Neural-Network Approximation of Active Target Search Under Uncertainty]]></title>
+        <id>https://arxiv.org/abs/2604.22254</id>
+        <link href="https://arxiv.org/abs/2604.22254"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👉 Oreste AI: assistente vocale italiano costruito con JavaScript e Web Speech API]]></title>
-        <id>https://dev.to/oreste_dechiara_94b056fb/oreste-ai-assistente-vocale-italiano-costruito-con-javascript-e-web-speech-api-2k7d</id>
-        <link href="https://dev.to/oreste_dechiara_94b056fb/oreste-ai-assistente-vocale-italiano-costruito-con-javascript-e-web-speech-api-2k7d"/>
+        <title type="html"><![CDATA[FETS Benchmark: Foundation Models Outperform Dataset-specific Machine Learning in Energy Time Series Forecasting]]></title>
+        <id>https://arxiv.org/abs/2604.22328</id>
+        <link href="https://arxiv.org/abs/2604.22328"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Async/Await in JavaScript: A Practical Guide to Efficient Coding]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/mastering-asyncawait-in-javascript-a-practical-guide-to-efficient-coding-3fdm</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-asyncawait-in-javascript-a-practical-guide-to-efficient-coding-3fdm"/>
+        <title type="html"><![CDATA[A Nationwide Japanese Medical Claims Foundation Model: Balancing Model Scaling and Task-Specific Computational Efficiency]]></title>
+        <id>https://arxiv.org/abs/2604.22348</id>
+        <link href="https://arxiv.org/abs/2604.22348"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Level Up Your Code: Top 10 TypeScript Libraries to Master in 2025 for Next-Level Development"]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/level-up-your-code-top-10-typescript-libraries-to-master-in-2025-for-next-level-development-5a76</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/level-up-your-code-top-10-typescript-libraries-to-master-in-2025-for-next-level-development-5a76"/>
+        <title type="html"><![CDATA[Hidden Failure Modes of Gradient Modification under Adam in Continual Learning, and Adaptive Decoupled Moment Routing as a Repair]]></title>
+        <id>https://arxiv.org/abs/2604.22407</id>
+        <link href="https://arxiv.org/abs/2604.22407"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built the Same API in Next.js and Elysia. The Results Shocked Me.]]></title>
-        <id>https://dev.to/arnold_johnson_swe/i-built-the-same-api-in-nextjs-and-elysia-the-results-shocked-me-40of</id>
-        <link href="https://dev.to/arnold_johnson_swe/i-built-the-same-api-in-nextjs-and-elysia-the-results-shocked-me-40of"/>
+        <title type="html"><![CDATA[Distance-Misaligned Training in Graph Transformers and Adaptive Graph-Aware Control]]></title>
+        <id>https://arxiv.org/abs/2604.22413</id>
+        <link href="https://arxiv.org/abs/2604.22413"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build Smooth Loading Animations Using Parametric Curves]]></title>
-        <id>https://dev.to/alanwest/how-to-build-smooth-loading-animations-using-parametric-curves-4lo5</id>
-        <link href="https://dev.to/alanwest/how-to-build-smooth-loading-animations-using-parametric-curves-4lo5"/>
+        <title type="html"><![CDATA[From Local to Cluster: A Unified Framework for Causal Discovery with Latent Variables]]></title>
+        <id>https://arxiv.org/abs/2604.22416</id>
+        <link href="https://arxiv.org/abs/2604.22416"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Headless CMS Is the Wrong Category]]></title>
-        <id>https://dev.to/tonyspiro/why-headless-cms-is-the-wrong-category-n1e</id>
-        <link href="https://dev.to/tonyspiro/why-headless-cms-is-the-wrong-category-n1e"/>
+        <title type="html"><![CDATA[Decoding High-Dimensional Finger Motion from EMG Using Riemannian Features and RNNs]]></title>
+        <id>https://arxiv.org/abs/2604.22499</id>
+        <link href="https://arxiv.org/abs/2604.22499"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your First SerpApi Integration in JavaScript — From Hello World to Production]]></title>
-        <id>https://dev.to/jordan_sterchele/your-first-serpapi-integration-in-javascript-from-hello-world-to-production-2n9i</id>
-        <link href="https://dev.to/jordan_sterchele/your-first-serpapi-integration-in-javascript-from-hello-world-to-production-2n9i"/>
+        <title type="html"><![CDATA[FeatEHR-LLM: Leveraging Large Language Models for Feature Engineering in Electronic Health Records]]></title>
+        <id>https://arxiv.org/abs/2604.22534</id>
+        <link href="https://arxiv.org/abs/2604.22534"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | 谈谈网页浏览器中的一个异类：qutebrowser]]></title>
-        <id>https://sspai.com/post/98931</id>
-        <link href="https://sspai.com/post/98931"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The plan to quietly kill Coyote v. Acme blew up in David Zaslav&#8217;s face]]></title>
-        <id>https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs</id>
-        <link href="https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs"/>
-        <updated>2026-04-25T16:00:00.000Z</updated>
-        <published>2026-04-25T16:00:00.000Z</published>
     </entry>
 </feed>
