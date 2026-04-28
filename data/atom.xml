@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-28T00:01:24.716Z</updated>
+    <updated>2026-04-28T02:01:08.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Google employees ask Sundar Pichai to say no to classified military AI use]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter"/>
+        <title type="html"><![CDATA[派早报：阿里巴巴发布视频生成模型 HappyHorse 1.0 等]]></title>
+        <id>https://sspai.com/post/109160</id>
+        <link href="https://sspai.com/post/109160"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We reviewed Valve’s new Steam Controller, ask us anything]]></title>
+        <id>https://www.theverge.com/games/919157/valve-steam-controller-ask-us-anything-ama</id>
+        <link href="https://www.theverge.com/games/919157/valve-steam-controller-ask-us-anything-ama"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -29,9 +36,9 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We reviewed Valve’s new Steam Controller, ask us anything]]></title>
-        <id>https://www.theverge.com/games/919157/valve-steam-controller-ask-us-anything-ama</id>
-        <link href="https://www.theverge.com/games/919157/valve-steam-controller-ask-us-anything-ama"/>
+        <title type="html"><![CDATA[Google employees ask Sundar Pichai to say no to classified military AI use]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -50,79 +57,51 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Full-Cycle Agentic Experience]]></title>
-        <id>https://normalphd.substack.com/p/the-full-cycle-agentic-experience</id>
-        <link href="https://normalphd.substack.com/p/the-full-cycle-agentic-experience"/>
+        <title type="html"><![CDATA[The physics slop that YouTube wants me to make [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Cd5EHfRerGI</id>
+        <link href="https://www.youtube.com/watch?v=Cd5EHfRerGI"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Views on abilities of large cos to disrupt supply]]></title>
-        <id>https://news.ycombinator.com/item?id=47928745</id>
-        <link href="https://news.ycombinator.com/item?id=47928745"/>
+        <title type="html"><![CDATA[When robots.txt blocks the crawl, noindex never applies]]></title>
+        <id>https://netguard24-7.com/blog/a-field-note-on-claudeai-share-url-discoverability</id>
+        <link href="https://netguard24-7.com/blog/a-field-note-on-claudeai-share-url-discoverability"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Brink of Global Recession [audio]]]></title>
-        <id>https://www.theatlantic.com/podcasts/2026/04/david-frum-show-adam-posen-global-recession/686900/</id>
-        <link href="https://www.theatlantic.com/podcasts/2026/04/david-frum-show-adam-posen-global-recession/686900/"/>
+        <title type="html"><![CDATA[OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO]]></title>
+        <id>https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273</id>
+        <link href="https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is there any proof that scrolling ruins our attention span? [video]]]></title>
-        <id>https://www.bbc.com/reel/video/p0nfykf2/watch</id>
-        <link href="https://www.bbc.com/reel/video/p0nfykf2/watch"/>
+        <title type="html"><![CDATA[Show HN: Blotter, a live map of LAPD radio activity]]></title>
+        <id>https://blotter.fm</id>
+        <link href="https://blotter.fm"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steam Controller: Official Overview and Quick Start Guide [video]]]></title>
-        <id>https://www.youtube.com/watch?v=a55UIaiTE-A</id>
-        <link href="https://www.youtube.com/watch?v=a55UIaiTE-A"/>
+        <title type="html"><![CDATA[Show HN: Multi Kanban Task Board and MCP Server]]></title>
+        <id>https://github.com/dizlexic/moo-tasks</id>
+        <link href="https://github.com/dizlexic/moo-tasks"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NSF science advisory board fired by Trump administration]]></title>
-        <id>https://www.nature.com/articles/d41586-026-01361-7</id>
-        <link href="https://www.nature.com/articles/d41586-026-01361-7"/>
+        <title type="html"><![CDATA[Apple WWDC 2014 scrapped opening video]]></title>
+        <id>https://archive.org/details/apple-scrapped-wwdc-14-video</id>
+        <link href="https://archive.org/details/apple-scrapped-wwdc-14-video"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ex-GitHub CTO on Git internals]]></title>
-        <id>https://twitter.com/tnm/status/2046815943414935648</id>
-        <link href="https://twitter.com/tnm/status/2046815943414935648"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noctua releases official 3D CAD models for its cooling fans]]></title>
-        <id>https://www.noctua.at/en/3d-cad-models</id>
-        <link href="https://www.noctua.at/en/3d-cad-models"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switched from robot_localization to a single-node GPS fusion setup]]></title>
-        <id>https://github.com/manankharwar/fusioncore</id>
-        <link href="https://github.com/manankharwar/fusioncore"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitglimpse – a CLI that turns your Git history into structured context]]></title>
-        <id>https://github.com/dino-zecevic/gitglimpse</id>
-        <link href="https://github.com/dino-zecevic/gitglimpse"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Rust to Build a $1 Handheld Gaming Console]]></title>
-        <id>https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/</id>
-        <link href="https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/"/>
+        <title type="html"><![CDATA[Microsoft TRELLIS.2: An Open-Source, 4B-Parameter, Image-to-3D Model [pdf]]]></title>
+        <id>https://arxiv.org/abs/2512.14692</id>
+        <link href="https://arxiv.org/abs/2512.14692"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -134,16 +113,86 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 K-Nearest Neighbors (KNN) Interview Questions and Answer (Part 2 of 2)]]></title>
-        <id>https://pub.towardsai.net/top-20-k-nearest-neighbors-knn-interview-questions-and-answer-part-2-of-2-dfd23445ce28?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/top-20-k-nearest-neighbors-knn-interview-questions-and-answer-part-2-of-2-dfd23445ce28?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Using Rust to Build a $1 Handheld Gaming Console]]></title>
+        <id>https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/</id>
+        <link href="https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tested the 27B Open-Source Model That Crushed a 397B MoE on Coding — It Fits on One 24GB GPU]]></title>
-        <id>https://pub.towardsai.net/i-tested-the-27b-open-source-model-that-crushed-a-397b-moe-on-coding-it-fits-on-one-24gb-gpu-c2d81837121c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-tested-the-27b-open-source-model-that-crushed-a-397b-moe-on-coding-it-fits-on-one-24gb-gpu-c2d81837121c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Gitglimpse – a CLI that turns your Git history into structured context]]></title>
+        <id>https://github.com/dino-zecevic/gitglimpse</id>
+        <link href="https://github.com/dino-zecevic/gitglimpse"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switched from robot_localization to a single-node GPS fusion setup]]></title>
+        <id>https://github.com/manankharwar/fusioncore</id>
+        <link href="https://github.com/manankharwar/fusioncore"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noctua releases official 3D CAD models for its cooling fans]]></title>
+        <id>https://www.noctua.at/en/3d-cad-models</id>
+        <link href="https://www.noctua.at/en/3d-cad-models"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-GitHub CTO on Git internals]]></title>
+        <id>https://twitter.com/tnm/status/2046815943414935648</id>
+        <link href="https://twitter.com/tnm/status/2046815943414935648"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSF science advisory board fired by Trump administration]]></title>
+        <id>https://www.nature.com/articles/d41586-026-01361-7</id>
+        <link href="https://www.nature.com/articles/d41586-026-01361-7"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Controller: Official Overview and Quick Start Guide [video]]]></title>
+        <id>https://www.youtube.com/watch?v=a55UIaiTE-A</id>
+        <link href="https://www.youtube.com/watch?v=a55UIaiTE-A"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is there any proof that scrolling ruins our attention span? [video]]]></title>
+        <id>https://www.bbc.com/reel/video/p0nfykf2/watch</id>
+        <link href="https://www.bbc.com/reel/video/p0nfykf2/watch"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Brink of Global Recession [audio]]]></title>
+        <id>https://www.theatlantic.com/podcasts/2026/04/david-frum-show-adam-posen-global-recession/686900/</id>
+        <link href="https://www.theatlantic.com/podcasts/2026/04/david-frum-show-adam-posen-global-recession/686900/"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Views on abilities of large cos to disrupt supply]]></title>
+        <id>https://news.ycombinator.com/item?id=47928745</id>
+        <link href="https://news.ycombinator.com/item?id=47928745"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Full-Cycle Agentic Experience]]></title>
+        <id>https://normalphd.substack.com/p/the-full-cycle-agentic-experience</id>
+        <link href="https://normalphd.substack.com/p/the-full-cycle-agentic-experience"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Automated Architecture Code Reviews Using Agentic AI and GitHub Actions]]></title>
+        <id>https://pub.towardsai.net/how-i-automated-architecture-code-reviews-using-agentic-ai-and-github-actions-e8f349679d81?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-i-automated-architecture-code-reviews-using-agentic-ai-and-github-actions-e8f349679d81?source=rss----98111c9905da---4"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -155,72 +204,86 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Minify JSON and Shrink Your API Payloads in Seconds]]></title>
-        <id>https://dev.to/pioneer10/how-to-minify-json-and-shrink-your-api-payloads-in-seconds-4dkp</id>
-        <link href="https://dev.to/pioneer10/how-to-minify-json-and-shrink-your-api-payloads-in-seconds-4dkp"/>
+        <title type="html"><![CDATA[I Tested the 27B Open-Source Model That Crushed a 397B MoE on Coding — It Fits on One 24GB GPU]]></title>
+        <id>https://pub.towardsai.net/i-tested-the-27b-open-source-model-that-crushed-a-397b-moe-on-coding-it-fits-on-one-24gb-gpu-c2d81837121c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tested-the-27b-open-source-model-that-crushed-a-397b-moe-on-coding-it-fits-on-one-24gb-gpu-c2d81837121c?source=rss----98111c9905da---4"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built 19 Per-Topic OG Images with Japanese Fonts at Build Time (Next.js + Satori)]]></title>
-        <id>https://dev.to/mitsuashi/how-i-built-19-per-topic-og-images-with-japanese-fonts-at-build-time-nextjs-satori-1ako</id>
-        <link href="https://dev.to/mitsuashi/how-i-built-19-per-topic-og-images-with-japanese-fonts-at-build-time-nextjs-satori-1ako"/>
+        <title type="html"><![CDATA[Top 20 K-Nearest Neighbors (KNN) Interview Questions and Answer (Part 2 of 2)]]></title>
+        <id>https://pub.towardsai.net/top-20-k-nearest-neighbors-knn-interview-questions-and-answer-part-2-of-2-dfd23445ce28?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/top-20-k-nearest-neighbors-knn-interview-questions-and-answer-part-2-of-2-dfd23445ce28?source=rss----98111c9905da---4"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn React 2026 Roadmap: From JS to Production]]></title>
-        <id>https://dev.to/juan_diegoisazaa_5362a/learn-react-2026-roadmap-from-js-to-production-577p</id>
-        <link href="https://dev.to/juan_diegoisazaa_5362a/learn-react-2026-roadmap-from-js-to-production-577p"/>
+        <title type="html"><![CDATA[Choosing the Perfect Frontend Framework: React vs Vue vs Svelte vs SolidJS - A Beginner's Guide]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/choosing-the-perfect-frontend-framework-react-vs-vue-vs-svelte-vs-solidjs-a-beginners-guide-3ggh</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/choosing-the-perfect-frontend-framework-react-vs-vue-vs-svelte-vs-solidjs-a-beginners-guide-3ggh"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn React 2026 Roadmap: Skills, Projects, Stack]]></title>
-        <id>https://dev.to/juan_diegoisazaa_5362a/learn-react-2026-roadmap-skills-projects-stack-2m4j</id>
-        <link href="https://dev.to/juan_diegoisazaa_5362a/learn-react-2026-roadmap-skills-projects-stack-2m4j"/>
+        <title type="html"><![CDATA[JSONL Explained: The Line-by-Line Format Powering AI Datasets]]></title>
+        <id>https://dev.to/pioneer10/jsonl-explained-the-line-by-line-format-powering-ai-datasets-3op6</id>
+        <link href="https://dev.to/pioneer10/jsonl-explained-the-line-by-line-format-powering-ai-datasets-3op6"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Three Ways to Convert JSON to TypeScript. Only One Is Deterministic.]]></title>
-        <id>https://dev.to/aralroca/three-ways-to-convert-json-to-typescript-only-one-is-deterministic-1h59</id>
-        <link href="https://dev.to/aralroca/three-ways-to-convert-json-to-typescript-only-one-is-deterministic-1h59"/>
+        <title type="html"><![CDATA[Building CLI Tools with Node.js: A Practical Guide for Developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/building-cli-tools-with-nodejs-a-practical-guide-for-developers-2cn0</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/building-cli-tools-with-nodejs-a-practical-guide-for-developers-2cn0"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boosting Node.js Productivity: A Step-by-Step Guide to Setting Up a Lightning-Fast Development Environment in 2026]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-32p3</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-32p3"/>
+        <title type="html"><![CDATA[How to Convert JSON to TypeScript Types (Without Writing Them by Hand)]]></title>
+        <id>https://dev.to/pioneer10/how-to-convert-json-to-typescript-types-without-writing-them-by-hand-1b8b</id>
+        <link href="https://dev.to/pioneer10/how-to-convert-json-to-typescript-types-without-writing-them-by-hand-1b8b"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Tool That Matches Your Tech Stack Against 435 Live JavaScript Job Listings]]></title>
-        <id>https://dev.to/jsgurujobs/i-built-a-tool-that-matches-your-tech-stack-against-435-live-javascript-job-listings-44kf</id>
-        <link href="https://dev.to/jsgurujobs/i-built-a-tool-that-matches-your-tech-stack-against-435-live-javascript-job-listings-44kf"/>
+        <title type="html"><![CDATA[Building CLI Tools with Node.js: A Step-by-Step Guide for Developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/building-cli-tools-with-nodejs-a-step-by-step-guide-for-developers-obp</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/building-cli-tools-with-nodejs-a-step-by-step-guide-for-developers-obp"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Complete Business Management Dashboard in React (No Dependencies)]]></title>
-        <id>https://dev.to/aura_base_1c30e463954de0f/how-i-built-a-complete-business-management-dashboard-in-react-no-dependencies-lmc</id>
-        <link href="https://dev.to/aura_base_1c30e463954de0f/how-i-built-a-complete-business-management-dashboard-in-react-no-dependencies-lmc"/>
+        <title type="html"><![CDATA[Leveraging Generators for Coroutine-based Concurrency in JS]]></title>
+        <id>https://dev.to/omriluz1/leveraging-generators-for-coroutine-based-concurrency-in-js-3h6g</id>
+        <link href="https://dev.to/omriluz1/leveraging-generators-for-coroutine-based-concurrency-in-js-3h6g"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Async/Await in JavaScript: A Practical Guide to Efficient Coding]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/mastering-asyncawait-in-javascript-a-practical-guide-to-efficient-coding-hp2</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-asyncawait-in-javascript-a-practical-guide-to-efficient-coding-hp2"/>
+        <title type="html"><![CDATA[HTML 테이블의 숨겨진 복잡성 (파싱이 생각보다 어려운 이유)]]></title>
+        <id>https://dev.to/circobit/html-teibeulyi-sumgyeojin-bogjabseong-pasingi-saenggagboda-eoryeoun-iyu-21d</id>
+        <link href="https://dev.to/circobit/html-teibeulyi-sumgyeojin-bogjabseong-pasingi-saenggagboda-eoryeoun-iyu-21d"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Destructuring in JavaScript: Extract Smarter, Code Cleaner]]></title>
-        <id>https://dev.to/ritam369/mastering-destructuring-in-javascript-3le0</id>
-        <link href="https://dev.to/ritam369/mastering-destructuring-in-javascript-3le0"/>
+        <title type="html"><![CDATA[URL encoding — what it is, when it breaks, and how to fix it]]></title>
+        <id>https://dev.to/willivan0706/url-encoding-what-it-is-when-it-breaks-and-how-to-fix-it-13i2</id>
+        <link href="https://dev.to/willivan0706/url-encoding-what-it-is-when-it-breaks-and-how-to-fix-it-13i2"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your React app is one XSS away from a full account takeover]]></title>
+        <id>https://dev.to/neilpmas/your-react-app-is-one-xss-away-from-a-full-account-takeover-ipm</id>
+        <link href="https://dev.to/neilpmas/your-react-app-is-one-xss-away-from-a-full-account-takeover-ipm"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Address Checksums, Three Engineering Philosophies — Verifying Base58Check, Bech32m, and EIP-55 in 250 Lines of Browser JS]]></title>
+        <id>https://dev.to/sendotltd/three-address-checksums-three-engineering-philosophies-verifying-base58check-bech32m-and-59kp</id>
+        <link href="https://dev.to/sendotltd/three-address-checksums-three-engineering-philosophies-verifying-base58check-bech32m-and-59kp"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -232,136 +295,73 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify is partnering with Peloton for guided workouts]]></title>
-        <id>https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts</id>
-        <link href="https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Mastering Destructuring in JavaScript: Extract Smarter, Code Cleaner]]></title>
+        <id>https://dev.to/ritam369/mastering-destructuring-in-javascript-3le0</id>
+        <link href="https://dev.to/ritam369/mastering-destructuring-in-javascript-3le0"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is this Samsung’s upcoming wide foldable?]]></title>
-        <id>https://www.theverge.com/tech/918951/samsung-galaxy-z-fold-8-wide-dummy-leak</id>
-        <link href="https://www.theverge.com/tech/918951/samsung-galaxy-z-fold-8-wide-dummy-leak"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Mastering Async/Await in JavaScript: A Practical Guide to Efficient Coding]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/mastering-asyncawait-in-javascript-a-practical-guide-to-efficient-coding-hp2</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-asyncawait-in-javascript-a-practical-guide-to-efficient-coding-hp2"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This touchscreen mouse is my over-engineering nightmare]]></title>
-        <id>https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series</id>
-        <link href="https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How I Built a Complete Business Management Dashboard in React (No Dependencies)]]></title>
+        <id>https://dev.to/aura_base_1c30e463954de0f/how-i-built-a-complete-business-management-dashboard-in-react-no-dependencies-lmc</id>
+        <link href="https://dev.to/aura_base_1c30e463954de0f/how-i-built-a-complete-business-management-dashboard-in-react-no-dependencies-lmc"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google’s new gradient icon design is coming to more apps]]></title>
-        <id>https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps</id>
-        <link href="https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built a Tool That Matches Your Tech Stack Against 435 Live JavaScript Job Listings]]></title>
+        <id>https://dev.to/jsgurujobs/i-built-a-tool-that-matches-your-tech-stack-against-435-live-javascript-job-listings-44kf</id>
+        <link href="https://dev.to/jsgurujobs/i-built-a-tool-that-matches-your-tech-stack-against-435-live-javascript-job-listings-44kf"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon snaps up Oprah Winfrey’s podcast]]></title>
-        <id>https://www.theverge.com/tech/918962/amazon-wondery-oprah-podcast-show</id>
-        <link href="https://www.theverge.com/tech/918962/amazon-wondery-oprah-podcast-show"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Boosting Node.js Productivity: A Step-by-Step Guide to Setting Up a Lightning-Fast Development Environment in 2026]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-32p3</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-32p3"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Verge’s 2026 Mother’s Day gift guide]]></title>
-        <id>https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets</id>
-        <link href="https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Three Ways to Convert JSON to TypeScript. Only One Is Deterministic.]]></title>
+        <id>https://dev.to/aralroca/three-ways-to-convert-json-to-typescript-only-one-is-deterministic-1h59</id>
+        <link href="https://dev.to/aralroca/three-ways-to-convert-json-to-typescript-only-one-is-deterministic-1h59"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best iPhone Charger: Cable, Wireless, MagSafe, and More]]></title>
-        <id>https://www.wired.com/story/best-iphone-charger/</id>
-        <link href="https://www.wired.com/story/best-iphone-charger/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Learn React 2026 Roadmap: Skills, Projects, Stack]]></title>
+        <id>https://dev.to/juan_diegoisazaa_5362a/learn-react-2026-roadmap-skills-projects-stack-2m4j</id>
+        <link href="https://dev.to/juan_diegoisazaa_5362a/learn-react-2026-roadmap-skills-projects-stack-2m4j"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here’s How Much San Francisco Tech Companies Pay for Police Protection]]></title>
-        <id>https://www.wired.com/story/heres-how-much-san-francisco-tech-companies-are-paying-for-police-protection/</id>
-        <link href="https://www.wired.com/story/heres-how-much-san-francisco-tech-companies-are-paying-for-police-protection/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Learn React 2026 Roadmap: From JS to Production]]></title>
+        <id>https://dev.to/juan_diegoisazaa_5362a/learn-react-2026-roadmap-from-js-to-production-577p</id>
+        <link href="https://dev.to/juan_diegoisazaa_5362a/learn-react-2026-roadmap-from-js-to-production-577p"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Smart Glasses (2026): Meta, Viture, Xreal, and More]]></title>
-        <id>https://www.wired.com/gallery/best-smart-glasses/</id>
-        <link href="https://www.wired.com/gallery/best-smart-glasses/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How I Built 19 Per-Topic OG Images with Japanese Fonts at Build Time (Next.js + Satori)]]></title>
+        <id>https://dev.to/mitsuashi/how-i-built-19-per-topic-og-images-with-japanese-fonts-at-build-time-nextjs-satori-1ako</id>
+        <link href="https://dev.to/mitsuashi/how-i-built-19-per-topic-og-images-with-japanese-fonts-at-build-time-nextjs-satori-1ako"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify’s next frontier: fitness content]]></title>
-        <id>https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/</id>
-        <link href="https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon’s new podcast strategy: Monetize everything]]></title>
-        <id>https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/</id>
-        <link href="https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder]]></title>
-        <id>https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/</id>
-        <link href="https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta inks deal for solar power at night, beamed from space]]></title>
-        <id>https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/</id>
-        <link href="https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical infrastructure giant Itron says it was hacked]]></title>
-        <id>https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/</id>
-        <link href="https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China blocks Meta’s $2B Manus deal after months-long probe]]></title>
-        <id>https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/</id>
-        <link href="https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nth Derivative of a Quotient]]></title>
-        <id>https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/</id>
-        <link href="https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hardware-accelerated 4K video on RK3588 with Linux 7.0]]></title>
-        <id>https://seoulsaram.org/articles/RK3588/mainline-hwdec</id>
-        <link href="https://seoulsaram.org/articles/RK3588/mainline-hwdec"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic ML engineer. works with Colab. Zero infra needed. 3x faster TurboQuant]]></title>
-        <id>https://github.com/altaidevorg/isanagent</id>
-        <link href="https://github.com/altaidevorg/isanagent"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sometimes Your Job Is to Get in the Way]]></title>
-        <id>https://randsinrepose.com/archives/sometimes-your-job-is-to-get-in-the-way/</id>
-        <link href="https://randsinrepose.com/archives/sometimes-your-job-is-to-get-in-the-way/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How to Minify JSON and Shrink Your API Payloads in Seconds]]></title>
+        <id>https://dev.to/pioneer10/how-to-minify-json-and-shrink-your-api-payloads-in-seconds-4dkp</id>
+        <link href="https://dev.to/pioneer10/how-to-minify-json-and-shrink-your-api-payloads-in-seconds-4dkp"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
     </entry>
 </feed>
