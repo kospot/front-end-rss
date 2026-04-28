@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-28T04:01:48.963Z</updated>
+    <updated>2026-04-28T07:03:21.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,16 +22,9 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google employees ask Sundar Pichai to say no to classified military AI use]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting]]></title>
-        <id>https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories</id>
-        <link href="https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories"/>
+        <title type="html"><![CDATA[Microsoft Office can now be controlled with Logitech’s MX Creative Console]]></title>
+        <id>https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion</id>
+        <link href="https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -43,16 +36,23 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cole Allen Charged With Attempting to Assassinate Trump]]></title>
-        <id>https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/</id>
-        <link href="https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/"/>
+        <title type="html"><![CDATA[Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting]]></title>
+        <id>https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories</id>
+        <link href="https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[India’s Snabbit closes $56M round as investor interest in on-demand home services heats up]]></title>
-        <id>https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/</id>
-        <link href="https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/"/>
+        <title type="html"><![CDATA[Google employees ask Sundar Pichai to say no to classified military AI use]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cole Allen Charged With Attempting to Assassinate Trump]]></title>
+        <id>https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/</id>
+        <link href="https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -64,156 +64,51 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[British cyclist takes KOM on San Francisco's steepest street with 41% gradient]]></title>
-        <id>https://www.bikeradar.com/news/harry-macfarlane-san-francisco-kom</id>
-        <link href="https://www.bikeradar.com/news/harry-macfarlane-san-francisco-kom"/>
+        <title type="html"><![CDATA[India’s Snabbit closes $56M round as investor interest in on-demand home services heats up]]></title>
+        <id>https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/</id>
+        <link href="https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cheapest GPUs in the World]]></title>
-        <id>https://timlig.com/posts/cheapest-gpus-in-the-world/</id>
-        <link href="https://timlig.com/posts/cheapest-gpus-in-the-world/"/>
+        <title type="html"><![CDATA[PayPal's $4B stablecoin is mostly held by DeFi yield farmers]]></title>
+        <id>https://stablecoinbrief.substack.com/p/paypals-4b-stablecoin-is-mostly-held</id>
+        <link href="https://stablecoinbrief.substack.com/p/paypals-4b-stablecoin-is-mostly-held"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Is Preparing to Have to Undo Its Manus Acquisition After China Ban]]></title>
-        <id>https://www.wsj.com/tech/ai/meta-is-preparing-to-have-to-undo-its-manus-acquisition-after-china-ban-a4ffbefb</id>
-        <link href="https://www.wsj.com/tech/ai/meta-is-preparing-to-have-to-undo-its-manus-acquisition-after-china-ban-a4ffbefb"/>
+        <title type="html"><![CDATA[Generation Is Required for Data-Efficient Perception]]></title>
+        <id>https://arxiv.org/abs/2512.08854</id>
+        <link href="https://arxiv.org/abs/2512.08854"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stripe: Radar Technical Guide]]></title>
-        <id>https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection</id>
-        <link href="https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection"/>
+        <title type="html"><![CDATA[Too many meetings? Try this]]></title>
+        <id>https://www.leadinginproduct.com/p/how-to-have-fewer-meetings</id>
+        <link href="https://www.leadinginproduct.com/p/how-to-have-fewer-meetings"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Full-Cycle Agentic Experience]]></title>
-        <id>https://normalphd.substack.com/p/the-full-cycle-agentic-experience</id>
-        <link href="https://normalphd.substack.com/p/the-full-cycle-agentic-experience"/>
+        <title type="html"><![CDATA[CATL says sodium batteries are mainstream-ready, signs 60 GWh deal]]></title>
+        <id>https://electrek.co/2026/04/27/catl-sodium-ion-battery-60gwh-energy-storage-deal/</id>
+        <link href="https://electrek.co/2026/04/27/catl-sodium-ion-battery-60gwh-energy-storage-deal/"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Views on abilities of large cos to disrupt supply]]></title>
-        <id>https://news.ycombinator.com/item?id=47928745</id>
-        <link href="https://news.ycombinator.com/item?id=47928745"/>
+        <title type="html"><![CDATA[IMDB introduces mandatory account: User reviews only readable after login]]></title>
+        <id>https://basic-tutorials.com/news/imdb-introduces-mandatory-account-user-reviews-only-readable-after-login/</id>
+        <link href="https://basic-tutorials.com/news/imdb-introduces-mandatory-account-user-reviews-only-readable-after-login/"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Brink of Global Recession [audio]]]></title>
-        <id>https://www.theatlantic.com/podcasts/2026/04/david-frum-show-adam-posen-global-recession/686900/</id>
-        <link href="https://www.theatlantic.com/podcasts/2026/04/david-frum-show-adam-posen-global-recession/686900/"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is there any proof that scrolling ruins our attention span? [video]]]></title>
-        <id>https://www.bbc.com/reel/video/p0nfykf2/watch</id>
-        <link href="https://www.bbc.com/reel/video/p0nfykf2/watch"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Controller: Official Overview and Quick Start Guide [video]]]></title>
-        <id>https://www.youtube.com/watch?v=a55UIaiTE-A</id>
-        <link href="https://www.youtube.com/watch?v=a55UIaiTE-A"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSF science advisory board fired by Trump administration]]></title>
-        <id>https://www.nature.com/articles/d41586-026-01361-7</id>
-        <link href="https://www.nature.com/articles/d41586-026-01361-7"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-GitHub CTO on Git internals]]></title>
-        <id>https://twitter.com/tnm/status/2046815943414935648</id>
-        <link href="https://twitter.com/tnm/status/2046815943414935648"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noctua releases official 3D CAD models for its cooling fans]]></title>
-        <id>https://www.noctua.at/en/3d-cad-models</id>
-        <link href="https://www.noctua.at/en/3d-cad-models"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switched from robot_localization to a single-node GPS fusion setup]]></title>
-        <id>https://github.com/manankharwar/fusioncore</id>
-        <link href="https://github.com/manankharwar/fusioncore"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitglimpse – a CLI that turns your Git history into structured context]]></title>
-        <id>https://github.com/dino-zecevic/gitglimpse</id>
-        <link href="https://github.com/dino-zecevic/gitglimpse"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Rust to Build a $1 Handheld Gaming Console]]></title>
-        <id>https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/</id>
-        <link href="https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD used AI to reimplement slurm in Rust]]></title>
-        <id>https://github.com/ROCm/spur</id>
-        <link href="https://github.com/ROCm/spur"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft TRELLIS.2: An Open-Source, 4B-Parameter, Image-to-3D Model [pdf]]]></title>
-        <id>https://arxiv.org/abs/2512.14692</id>
-        <link href="https://arxiv.org/abs/2512.14692"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple WWDC 2014 scrapped opening video]]></title>
-        <id>https://archive.org/details/apple-scrapped-wwdc-14-video</id>
-        <link href="https://archive.org/details/apple-scrapped-wwdc-14-video"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Multi Kanban Task Board and MCP Server]]></title>
-        <id>https://github.com/dizlexic/moo-tasks</id>
-        <link href="https://github.com/dizlexic/moo-tasks"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Blotter, a live map of LAPD radio activity]]></title>
-        <id>https://blotter.fm</id>
-        <link href="https://blotter.fm"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO]]></title>
-        <id>https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273</id>
-        <link href="https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When robots.txt blocks the crawl, noindex never applies]]></title>
-        <id>https://netguard24-7.com/blog/a-field-note-on-claudeai-share-url-discoverability</id>
-        <link href="https://netguard24-7.com/blog/a-field-note-on-claudeai-share-url-discoverability"/>
+        <title type="html"><![CDATA[Show HN: Gate – AI workers handle dev tickets in a visual workspace]]></title>
+        <id>https://soliddark.net/gate</id>
+        <link href="https://soliddark.net/gate"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -225,16 +120,184 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Automated Architecture Code Reviews Using Agentic AI and GitHub Actions]]></title>
-        <id>https://pub.towardsai.net/how-i-automated-architecture-code-reviews-using-agentic-ai-and-github-actions-e8f349679d81?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-i-automated-architecture-code-reviews-using-agentic-ai-and-github-actions-e8f349679d81?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[When robots.txt blocks the crawl, noindex never applies]]></title>
+        <id>https://netguard24-7.com/blog/a-field-note-on-claudeai-share-url-discoverability</id>
+        <link href="https://netguard24-7.com/blog/a-field-note-on-claudeai-share-url-discoverability"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Encoder Transformers Actually Understand Language]]></title>
-        <id>https://pub.towardsai.net/how-encoder-transformers-actually-understand-language-2de2142847a8?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-encoder-transformers-actually-understand-language-2de2142847a8?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO]]></title>
+        <id>https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273</id>
+        <link href="https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Blotter, a live map of LAPD radio activity]]></title>
+        <id>https://blotter.fm</id>
+        <link href="https://blotter.fm"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Multi Kanban Task Board and MCP Server]]></title>
+        <id>https://github.com/dizlexic/moo-tasks</id>
+        <link href="https://github.com/dizlexic/moo-tasks"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple WWDC 2014 scrapped opening video]]></title>
+        <id>https://archive.org/details/apple-scrapped-wwdc-14-video</id>
+        <link href="https://archive.org/details/apple-scrapped-wwdc-14-video"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft TRELLIS.2: An Open-Source, 4B-Parameter, Image-to-3D Model [pdf]]]></title>
+        <id>https://arxiv.org/abs/2512.14692</id>
+        <link href="https://arxiv.org/abs/2512.14692"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD used AI to reimplement slurm in Rust]]></title>
+        <id>https://github.com/ROCm/spur</id>
+        <link href="https://github.com/ROCm/spur"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Rust to Build a $1 Handheld Gaming Console]]></title>
+        <id>https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/</id>
+        <link href="https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitglimpse – a CLI that turns your Git history into structured context]]></title>
+        <id>https://github.com/dino-zecevic/gitglimpse</id>
+        <link href="https://github.com/dino-zecevic/gitglimpse"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switched from robot_localization to a single-node GPS fusion setup]]></title>
+        <id>https://github.com/manankharwar/fusioncore</id>
+        <link href="https://github.com/manankharwar/fusioncore"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noctua releases official 3D CAD models for its cooling fans]]></title>
+        <id>https://www.noctua.at/en/3d-cad-models</id>
+        <link href="https://www.noctua.at/en/3d-cad-models"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-GitHub CTO on Git internals]]></title>
+        <id>https://twitter.com/tnm/status/2046815943414935648</id>
+        <link href="https://twitter.com/tnm/status/2046815943414935648"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSF science advisory board fired by Trump administration]]></title>
+        <id>https://www.nature.com/articles/d41586-026-01361-7</id>
+        <link href="https://www.nature.com/articles/d41586-026-01361-7"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Controller: Official Overview and Quick Start Guide [video]]]></title>
+        <id>https://www.youtube.com/watch?v=a55UIaiTE-A</id>
+        <link href="https://www.youtube.com/watch?v=a55UIaiTE-A"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is there any proof that scrolling ruins our attention span? [video]]]></title>
+        <id>https://www.bbc.com/reel/video/p0nfykf2/watch</id>
+        <link href="https://www.bbc.com/reel/video/p0nfykf2/watch"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Brink of Global Recession [audio]]]></title>
+        <id>https://www.theatlantic.com/podcasts/2026/04/david-frum-show-adam-posen-global-recession/686900/</id>
+        <link href="https://www.theatlantic.com/podcasts/2026/04/david-frum-show-adam-posen-global-recession/686900/"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Views on abilities of large cos to disrupt supply]]></title>
+        <id>https://news.ycombinator.com/item?id=47928745</id>
+        <link href="https://news.ycombinator.com/item?id=47928745"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Full-Cycle Agentic Experience]]></title>
+        <id>https://normalphd.substack.com/p/the-full-cycle-agentic-experience</id>
+        <link href="https://normalphd.substack.com/p/the-full-cycle-agentic-experience"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe: Radar Technical Guide]]></title>
+        <id>https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection</id>
+        <link href="https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Is Preparing to Have to Undo Its Manus Acquisition After China Ban]]></title>
+        <id>https://www.wsj.com/tech/ai/meta-is-preparing-to-have-to-undo-its-manus-acquisition-after-china-ban-a4ffbefb</id>
+        <link href="https://www.wsj.com/tech/ai/meta-is-preparing-to-have-to-undo-its-manus-acquisition-after-china-ban-a4ffbefb"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheapest GPUs in the World]]></title>
+        <id>https://timlig.com/posts/cheapest-gpus-in-the-world/</id>
+        <link href="https://timlig.com/posts/cheapest-gpus-in-the-world/"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[British cyclist takes KOM on San Francisco's steepest street with 41% gradient]]></title>
+        <id>https://www.bikeradar.com/news/harry-macfarlane-san-francisco-kom</id>
+        <link href="https://www.bikeradar.com/news/harry-macfarlane-san-francisco-kom"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI in Action — Part 20 — Building an AI Digital Twin Agent for Scenario Simulation]]></title>
+        <id>https://pub.towardsai.net/agentic-ai-in-action-part-20-building-an-ai-digital-twin-agent-for-scenario-simulation-c1a8924ec3af?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/agentic-ai-in-action-part-20-building-an-ai-digital-twin-agent-for-scenario-simulation-c1a8924ec3af?source=rss----98111c9905da---4"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Was Losing the Enterprise Market for Six Months. Last Thursday, They Hit Back.]]></title>
+        <id>https://pub.towardsai.net/openai-was-losing-the-enterprise-market-for-six-months-last-thursday-they-hit-back-5bbad0a55c02?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openai-was-losing-the-enterprise-market-for-six-months-last-thursday-they-hit-back-5bbad0a55c02?source=rss----98111c9905da---4"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yann LeCun Quit Meta 5 Months Ago to Bet $1.03B Against LLMs — His 3 New World Models Just Shipped]]></title>
+        <id>https://pub.towardsai.net/yann-lecun-quit-meta-5-months-ago-to-bet-1-03b-against-llms-his-3-new-world-models-just-shipped-673be1325347?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/yann-lecun-quit-meta-5-months-ago-to-bet-1-03b-against-llms-his-3-new-world-models-just-shipped-673be1325347?source=rss----98111c9905da---4"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 K-Nearest Neighbors (KNN) Interview Questions and Answer (Part 2 of 2)]]></title>
+        <id>https://pub.towardsai.net/top-20-k-nearest-neighbors-knn-interview-questions-and-answer-part-2-of-2-dfd23445ce28?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/top-20-k-nearest-neighbors-knn-interview-questions-and-answer-part-2-of-2-dfd23445ce28?source=rss----98111c9905da---4"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -246,9 +309,16 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 K-Nearest Neighbors (KNN) Interview Questions and Answer (Part 2 of 2)]]></title>
-        <id>https://pub.towardsai.net/top-20-k-nearest-neighbors-knn-interview-questions-and-answer-part-2-of-2-dfd23445ce28?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/top-20-k-nearest-neighbors-knn-interview-questions-and-answer-part-2-of-2-dfd23445ce28?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How Encoder Transformers Actually Understand Language]]></title>
+        <id>https://pub.towardsai.net/how-encoder-transformers-actually-understand-language-2de2142847a8?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-encoder-transformers-actually-understand-language-2de2142847a8?source=rss----98111c9905da---4"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Automated Architecture Code Reviews Using Agentic AI and GitHub Actions]]></title>
+        <id>https://pub.towardsai.net/how-i-automated-architecture-code-reviews-using-agentic-ai-and-github-actions-e8f349679d81?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-i-automated-architecture-code-reviews-using-agentic-ai-and-github-actions-e8f349679d81?source=rss----98111c9905da---4"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -291,76 +361,6 @@
         <title type="html"><![CDATA[Parameter Efficiency Is Not Memory Efficiency: Rethinking Fine-Tuning for On-Device LLM Adaptation]]></title>
         <id>https://arxiv.org/abs/2604.22783</id>
         <link href="https://arxiv.org/abs/2604.22783"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoFi-PGMA: Counterfactual Policy Gradients under Filtered Feedback for Multi-Agent LLMs]]></title>
-        <id>https://arxiv.org/abs/2604.22785</id>
-        <link href="https://arxiv.org/abs/2604.22785"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoCompress: Critical Layer Isolation for Efficient Transformer Compression]]></title>
-        <id>https://arxiv.org/abs/2604.22786</id>
-        <link href="https://arxiv.org/abs/2604.22786"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conformal PM2.5 Mapping Under Spatial Covariate Shift: Satellite-Reanalysis Fusion for Africa's Green Industrial Transition]]></title>
-        <id>https://arxiv.org/abs/2604.22787</id>
-        <link href="https://arxiv.org/abs/2604.22787"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards Understanding the Expressive Power of GNNs with Global Readout]]></title>
-        <id>https://arxiv.org/abs/2604.22870</id>
-        <link href="https://arxiv.org/abs/2604.22870"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Policies Cannot Be Retrained: A Unified Closed-Form View of Post-Training Steering in Offline Reinforcement Learning]]></title>
-        <id>https://arxiv.org/abs/2604.22873</id>
-        <link href="https://arxiv.org/abs/2604.22873"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MTServe: Efficient Serving for Generative Recommendation Models with Hierarchical Caches]]></title>
-        <id>https://arxiv.org/abs/2604.22881</id>
-        <link href="https://arxiv.org/abs/2604.22881"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating Frequency Domain Diffusion Models with Error-Feedback Event-Driven Caching]]></title>
-        <id>https://arxiv.org/abs/2604.22901</id>
-        <link href="https://arxiv.org/abs/2604.22901"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Score-Repellent Monte Carlo: Toward Efficient Non-Markovian Sampler with Constant Memory in General State Spaces]]></title>
-        <id>https://arxiv.org/abs/2604.22948</id>
-        <link href="https://arxiv.org/abs/2604.22948"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ML-Guided Primal Heuristics for Mixed Binary Quadratic Programs]]></title>
-        <id>https://arxiv.org/abs/2604.23053</id>
-        <link href="https://arxiv.org/abs/2604.23053"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C-MORAL: Controllable Multi-Objective Molecular Optimization with Reinforcement Alignment for LLMs]]></title>
-        <id>https://arxiv.org/abs/2604.23061</id>
-        <link href="https://arxiv.org/abs/2604.23061"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
