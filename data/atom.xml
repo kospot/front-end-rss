@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-27T22:01:04.236Z</updated>
+    <updated>2026-04-28T00:01:24.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,44 +50,37 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD used AI to reimplement slurm in Rust]]></title>
-        <id>https://github.com/ROCm/spur</id>
-        <link href="https://github.com/ROCm/spur"/>
+        <title type="html"><![CDATA[The Full-Cycle Agentic Experience]]></title>
+        <id>https://normalphd.substack.com/p/the-full-cycle-agentic-experience</id>
+        <link href="https://normalphd.substack.com/p/the-full-cycle-agentic-experience"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Rust to Build a $1 Handheld Gaming Console]]></title>
-        <id>https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/</id>
-        <link href="https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/"/>
+        <title type="html"><![CDATA[Ask HN: Views on abilities of large cos to disrupt supply]]></title>
+        <id>https://news.ycombinator.com/item?id=47928745</id>
+        <link href="https://news.ycombinator.com/item?id=47928745"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gitglimpse – a CLI that turns your Git history into structured context]]></title>
-        <id>https://github.com/dino-zecevic/gitglimpse</id>
-        <link href="https://github.com/dino-zecevic/gitglimpse"/>
+        <title type="html"><![CDATA[The Brink of Global Recession [audio]]]></title>
+        <id>https://www.theatlantic.com/podcasts/2026/04/david-frum-show-adam-posen-global-recession/686900/</id>
+        <link href="https://www.theatlantic.com/podcasts/2026/04/david-frum-show-adam-posen-global-recession/686900/"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Switched from robot_localization to a single-node GPS fusion setup]]></title>
-        <id>https://github.com/manankharwar/fusioncore</id>
-        <link href="https://github.com/manankharwar/fusioncore"/>
+        <title type="html"><![CDATA[Is there any proof that scrolling ruins our attention span? [video]]]></title>
+        <id>https://www.bbc.com/reel/video/p0nfykf2/watch</id>
+        <link href="https://www.bbc.com/reel/video/p0nfykf2/watch"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Noctua releases official 3D CAD models for its cooling fans]]></title>
-        <id>https://www.noctua.at/en/3d-cad-models</id>
-        <link href="https://www.noctua.at/en/3d-cad-models"/>
-        <updated>2026-04-27T16:00:00.000Z</updated>
-        <published>2026-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-GitHub CTO on Git internals]]></title>
-        <id>https://twitter.com/tnm/status/2046815943414935648</id>
-        <link href="https://twitter.com/tnm/status/2046815943414935648"/>
+        <title type="html"><![CDATA[Steam Controller: Official Overview and Quick Start Guide [video]]]></title>
+        <id>https://www.youtube.com/watch?v=a55UIaiTE-A</id>
+        <link href="https://www.youtube.com/watch?v=a55UIaiTE-A"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -99,9 +92,51 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Encoder Transformers Actually Understand Language]]></title>
-        <id>https://pub.towardsai.net/how-encoder-transformers-actually-understand-language-2de2142847a8?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-encoder-transformers-actually-understand-language-2de2142847a8?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Ex-GitHub CTO on Git internals]]></title>
+        <id>https://twitter.com/tnm/status/2046815943414935648</id>
+        <link href="https://twitter.com/tnm/status/2046815943414935648"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noctua releases official 3D CAD models for its cooling fans]]></title>
+        <id>https://www.noctua.at/en/3d-cad-models</id>
+        <link href="https://www.noctua.at/en/3d-cad-models"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switched from robot_localization to a single-node GPS fusion setup]]></title>
+        <id>https://github.com/manankharwar/fusioncore</id>
+        <link href="https://github.com/manankharwar/fusioncore"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitglimpse – a CLI that turns your Git history into structured context]]></title>
+        <id>https://github.com/dino-zecevic/gitglimpse</id>
+        <link href="https://github.com/dino-zecevic/gitglimpse"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Rust to Build a $1 Handheld Gaming Console]]></title>
+        <id>https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/</id>
+        <link href="https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD used AI to reimplement slurm in Rust]]></title>
+        <id>https://github.com/ROCm/spur</id>
+        <link href="https://github.com/ROCm/spur"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 K-Nearest Neighbors (KNN) Interview Questions and Answer (Part 2 of 2)]]></title>
+        <id>https://pub.towardsai.net/top-20-k-nearest-neighbors-knn-interview-questions-and-answer-part-2-of-2-dfd23445ce28?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/top-20-k-nearest-neighbors-knn-interview-questions-and-answer-part-2-of-2-dfd23445ce28?source=rss----98111c9905da---4"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -113,30 +148,51 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚀 New Free React Challenge: New Way of Passing Ref]]></title>
-        <id>https://dev.to/reactchallenges/new-free-react-challenge-new-way-of-passing-ref-29h5</id>
-        <link href="https://dev.to/reactchallenges/new-free-react-challenge-new-way-of-passing-ref-29h5"/>
+        <title type="html"><![CDATA[How Encoder Transformers Actually Understand Language]]></title>
+        <id>https://pub.towardsai.net/how-encoder-transformers-actually-understand-language-2de2142847a8?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-encoder-transformers-actually-understand-language-2de2142847a8?source=rss----98111c9905da---4"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Destructuring in JavaScript: Extract Smarter, Code Cleaner]]></title>
-        <id>https://dev.to/ritam369/mastering-destructuring-in-javascript-3le0</id>
-        <link href="https://dev.to/ritam369/mastering-destructuring-in-javascript-3le0"/>
+        <title type="html"><![CDATA[How to Minify JSON and Shrink Your API Payloads in Seconds]]></title>
+        <id>https://dev.to/pioneer10/how-to-minify-json-and-shrink-your-api-payloads-in-seconds-4dkp</id>
+        <link href="https://dev.to/pioneer10/how-to-minify-json-and-shrink-your-api-payloads-in-seconds-4dkp"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Async/Await in JavaScript: A Practical Guide to Efficient Coding]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/mastering-asyncawait-in-javascript-a-practical-guide-to-efficient-coding-hp2</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-asyncawait-in-javascript-a-practical-guide-to-efficient-coding-hp2"/>
+        <title type="html"><![CDATA[How I Built 19 Per-Topic OG Images with Japanese Fonts at Build Time (Next.js + Satori)]]></title>
+        <id>https://dev.to/mitsuashi/how-i-built-19-per-topic-og-images-with-japanese-fonts-at-build-time-nextjs-satori-1ako</id>
+        <link href="https://dev.to/mitsuashi/how-i-built-19-per-topic-og-images-with-japanese-fonts-at-build-time-nextjs-satori-1ako"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Complete Business Management Dashboard in React (No Dependencies)]]></title>
-        <id>https://dev.to/aura_base_1c30e463954de0f/how-i-built-a-complete-business-management-dashboard-in-react-no-dependencies-lmc</id>
-        <link href="https://dev.to/aura_base_1c30e463954de0f/how-i-built-a-complete-business-management-dashboard-in-react-no-dependencies-lmc"/>
+        <title type="html"><![CDATA[Learn React 2026 Roadmap: From JS to Production]]></title>
+        <id>https://dev.to/juan_diegoisazaa_5362a/learn-react-2026-roadmap-from-js-to-production-577p</id>
+        <link href="https://dev.to/juan_diegoisazaa_5362a/learn-react-2026-roadmap-from-js-to-production-577p"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React 2026 Roadmap: Skills, Projects, Stack]]></title>
+        <id>https://dev.to/juan_diegoisazaa_5362a/learn-react-2026-roadmap-skills-projects-stack-2m4j</id>
+        <link href="https://dev.to/juan_diegoisazaa_5362a/learn-react-2026-roadmap-skills-projects-stack-2m4j"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Ways to Convert JSON to TypeScript. Only One Is Deterministic.]]></title>
+        <id>https://dev.to/aralroca/three-ways-to-convert-json-to-typescript-only-one-is-deterministic-1h59</id>
+        <link href="https://dev.to/aralroca/three-ways-to-convert-json-to-typescript-only-one-is-deterministic-1h59"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting Node.js Productivity: A Step-by-Step Guide to Setting Up a Lightning-Fast Development Environment in 2026]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-32p3</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-32p3"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -148,9 +204,30 @@
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boosting Node.js Productivity: A Step-by-Step Guide to Setting Up a Lightning-Fast Development Environment in 2026]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-32p3</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-32p3"/>
+        <title type="html"><![CDATA[How I Built a Complete Business Management Dashboard in React (No Dependencies)]]></title>
+        <id>https://dev.to/aura_base_1c30e463954de0f/how-i-built-a-complete-business-management-dashboard-in-react-no-dependencies-lmc</id>
+        <link href="https://dev.to/aura_base_1c30e463954de0f/how-i-built-a-complete-business-management-dashboard-in-react-no-dependencies-lmc"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Async/Await in JavaScript: A Practical Guide to Efficient Coding]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/mastering-asyncawait-in-javascript-a-practical-guide-to-efficient-coding-hp2</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-asyncawait-in-javascript-a-practical-guide-to-efficient-coding-hp2"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Destructuring in JavaScript: Extract Smarter, Code Cleaner]]></title>
+        <id>https://dev.to/ritam369/mastering-destructuring-in-javascript-3le0</id>
+        <link href="https://dev.to/ritam369/mastering-destructuring-in-javascript-3le0"/>
+        <updated>2026-04-27T16:00:00.000Z</updated>
+        <published>2026-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀 New Free React Challenge: New Way of Passing Ref]]></title>
+        <id>https://dev.to/reactchallenges/new-free-react-challenge-new-way-of-passing-ref-29h5</id>
+        <link href="https://dev.to/reactchallenges/new-free-react-challenge-new-way-of-passing-ref-29h5"/>
         <updated>2026-04-27T16:00:00.000Z</updated>
         <published>2026-04-27T16:00:00.000Z</published>
     </entry>
@@ -260,107 +337,30 @@
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eight months early and under budget, the Roman Telescope is ready to launch]]></title>
-        <id>https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/</id>
-        <link href="https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/"/>
+        <title type="html"><![CDATA[Nth Derivative of a Quotient]]></title>
+        <id>https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/</id>
+        <link href="https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Registries Considered Harmful]]></title>
-        <id>https://words.filippo.io/registries-considered-harmful/</id>
-        <link href="https://words.filippo.io/registries-considered-harmful/"/>
+        <title type="html"><![CDATA[Hardware-accelerated 4K video on RK3588 with Linux 7.0]]></title>
+        <id>https://seoulsaram.org/articles/RK3588/mainline-hwdec</id>
+        <link href="https://seoulsaram.org/articles/RK3588/mainline-hwdec"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: HumansMap, Leaderboards,interactive graphs on 1M+ Wikidata entities]]></title>
-        <id>https://humansmap.com/</id>
-        <link href="https://humansmap.com/"/>
+        <title type="html"><![CDATA[Agentic ML engineer. works with Colab. Zero infra needed. 3x faster TurboQuant]]></title>
+        <id>https://github.com/altaidevorg/isanagent</id>
+        <link href="https://github.com/altaidevorg/isanagent"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A local-first sync setup for a Markdown-based feed reader]]></title>
-        <id>https://crocidb.com/post/a-local-first-sync-setup-for-a-markdown-based-feed-reader/</id>
-        <link href="https://crocidb.com/post/a-local-first-sync-setup-for-a-markdown-based-feed-reader/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview]]></title>
-        <id>https://github.com/dirac-run/dirac</id>
-        <link href="https://github.com/dirac-run/dirac"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Uncertain Uncertainties]]></title>
-        <id>https://kk.org/thetechnium/our-uncertain-uncertainties/</id>
-        <link href="https://kk.org/thetechnium/our-uncertain-uncertainties/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek V4 is a display of Huawei AI chip's capabilities]]></title>
-        <id>https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/</id>
-        <link href="https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dwarkesh Patel’s Podcast Lets You Can Eavesdrop on the A.I. Elite]]></title>
-        <id>https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html</id>
-        <link href="https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgate: Multi-tenant HTTP proxy for PostgreSQL with SQL validation]]></title>
-        <id>https://github.com/openworkers/postgate</id>
-        <link href="https://github.com/openworkers/postgate"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Study the 50 leaked LLM Interview Questions with my lil learning App]]></title>
-        <id>https://boguslavskyy.com/projects/llm-interview-learning-app/</id>
-        <link href="https://boguslavskyy.com/projects/llm-interview-learning-app/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POV: You Go to Australia [video]]]></title>
-        <id>https://www.youtube.com/shorts/qryHpGtpukM</id>
-        <link href="https://www.youtube.com/shorts/qryHpGtpukM"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: The Unix Magic poster, annotated (updated)]]></title>
-        <id>https://github.com/drio/unixmagic</id>
-        <link href="https://github.com/drio/unixmagic"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding agents ignore their own budgets]]></title>
-        <id>https://twitter.com/RampLabs/status/2046624992956146158</id>
-        <link href="https://twitter.com/RampLabs/status/2046624992956146158"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Askbetter.dev – a simple guide to asking better technical questions]]></title>
-        <id>https://askbetter.dev/</id>
-        <link href="https://askbetter.dev/"/>
-        <updated>2026-04-26T16:00:00.000Z</updated>
-        <published>2026-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twenty Years, Twenty Lessons from Creating Magic the Gathering (2016)]]></title>
-        <id>https://magic.wizards.com/en/news/making-magic/twenty-years-twenty-lessons-part-1-2016-05-30</id>
-        <link href="https://magic.wizards.com/en/news/making-magic/twenty-years-twenty-lessons-part-1-2016-05-30"/>
+        <title type="html"><![CDATA[Sometimes Your Job Is to Get in the Way]]></title>
+        <id>https://randsinrepose.com/archives/sometimes-your-job-is-to-get-in-the-way/</id>
+        <link href="https://randsinrepose.com/archives/sometimes-your-job-is-to-get-in-the-way/"/>
         <updated>2026-04-26T16:00:00.000Z</updated>
         <published>2026-04-26T16:00:00.000Z</published>
     </entry>
