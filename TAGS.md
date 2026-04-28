@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-28 21:02:47。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-28 23:03:59。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -392,6 +392,7 @@ https://github.com/j9t/minifier-benchmarks
 
 
 - [【Smashing Magazine】A-Practical-Guide-To-Design-Principles](https://smashingmagazine.com/2026/04/practical-guide-design-principles/)
+- [【Frontend Masters Blog】AI-Assisted-Coding:-A-Practical-Guide-for-Software-Engineers](https://frontendmasters.com/blog/ai-assisted-coding-a-practical-guide-for-software-engineers/)
 - [【Frontend Masters Blog】SVG-Filters-Guide:-Getting-Started-with-the-Basics](https://frontendmasters.com/blog/svg-filters-guide-getting-started-with-the-basics/)
 - [【前端之巅】Stop-Defaulting-to-WebSockets:-A-Practical-Guide-to-SSE,-Polling,-and-Knowing-When-You-Actually-Need-Them](https://dev.to/benriemer/stop-defaulting-to-websockets-a-practical-guide-to-sse-polling-and-knowing-when-you-actually-nln)
 - [【前端之巅】What-Is-API-Testing-in-Software?-A-Complete-Guide](https://dev.to/alexai/what-is-api-testing-in-software-a-complete-guide-1gnk)
@@ -410,7 +411,6 @@ https://github.com/j9t/minifier-benchmarks
 - [【前端之巅】I-Built-a-Carbon-Footprint-Calculator-That-Generates-Unique-SVG-Fingerprints-—-Here’s-How-Earth-Day-2026-🌍](https://dev.to/mamoor_ahmad/i-built-a-carbon-footprint-calculator-that-generates-unique-svg-fingerprints-heres-how-earth-1ci)
 - [【前端之巅】Migrating-from-Open-Exchange-Rates-to-AllRatesToday:-A-Developer's-Guide](https://dev.to/chathuranga_basnayaka_d50/migrating-from-open-exchange-rates-to-allratestoday-a-developers-guide-38o1)
 - [【前端之巅】Uber-System-Design:-A-Comprehensive-Guide-to-Building-a-Real-Time-Ride-Sharing-Platform](https://dev.to/raajaryan/uber-system-design-a-comprehensive-guide-to-building-a-real-time-ride-sharing-platform-59kk)
-- [【前端之巅】From-PNG-to-3D-Print:-Building-a-Browser-Based-STL-Pipeline](https://dev.to/kaan_tokali_5a4828a3f897c/from-png-to-3d-print-building-a-browser-based-stl-pipeline-34ln)
 - [......【查看更多】......](/details/tags/canvas-image.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -478,13 +478,13 @@ https://github.com/j9t/minifier-benchmarks
 - [【GitHub Trending JS】-One-PR-to-a-parser-unlocked-prerendering-in-Brisa-](
 https://aralroca.hashnode.dev/one-pr-to-a-parser-unlocked-prerendering-in-brisa
 )
+- [【Hacker News】Why-more-content-is-no-longer-a-reliable-way-to-grow-SEO](https://searchengineland.com/more-content-unreliable-seo-475688)
 - [【Hacker News】I-built-a-WordPress-plugin-that-generates-1000-SEO-pages-in-minutes](https://www.indiehackers.com/post/i-built-a-wordpress-plugin-that-generates-100-seo-pages-in-minutes-looking-for-feedback-5j55M4ex1qGJqY5MUXZ5)
 - [【Hacker News】The-end-of-oil?-As-fuel-shocks-cascade,-53-nations-plan-a-fossil-fuel-phaseout](https://theconversation.com/the-end-of-oil-as-fuel-shocks-cascade-53-nations-gather-to-plan-a-fossil-fuel-phaseout-280263)
 - [【Hacker News】SEO,-AEO,-and-Geo-for-a-Modern-Developer-Portfolio](https://www.yashkapure.com/en/blog/seo-aeo-geo-for-a-modern-developer-portfolio/)
 - [【Hacker News】Show-HN:-PushToPost-–-Automate-social-posts-and-SEO-changelogs-from-Git-pushes](https://news.ycombinator.com/item?id=47816357)
 - [【Hacker News】Show-HN:-EverList-Programmatic-SEO-for-SaaS-founders-who-can't-afford-agencies](https://everlist.dev)
 - [【Hacker News】Local-SEO-Analyst-Agent-–-PDF-Report-Generation](https://github.com/jeffjbowie/Local-SEO-Analyst-Agent)
-- [【Hacker News】How-I-Run-SEO-for-a-Startup-Without-Engineers-or-SEO-SaaS-Tools](https://camelai.com/blog/how-i-automate-seo-with-ai-without-engineers)
 - [......【查看更多】......](/details/tags/optimization.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -646,8 +646,8 @@ https://aralroca.hashnode.dev/one-pr-to-a-parser-unlocked-prerendering-in-brisa
 
 
 - [【前端之巅】I-Got-a-Job-Offer.-But,-It-Came-With-Malware.](https://dev.to/denyherianto/i-got-a-job-offer-but-it-came-with-malwares-4c9a)
-- [【Hacker News】Microsoft-offers-voluntary-employee-buyout/retirement-for-7%-of-U.S.-workforce](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html)
 - [【Hacker News】Rippling-exposed-your-SSN/banking-to-anyone-who-sent-you-an-offer-letter](https://infosec.exchange/@SecureOwl/116415101610028363)
+- [【Hacker News】Microsoft-offers-voluntary-employee-buyout/retirement-for-7%-of-U.S.-workforce](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html)
 - [【Hacker News】Light-activated-material-offers-new-approach-to-carbon-dioxide-conversion](https://phys.org/news/2026-03-material-approach-carbon-dioxide-conversion.html)
 - [【Hacker News】AI-dolls-offer-companionship-to-the-elderly](https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd)
 - [【TechCrunch】Microsoft-offers-buyout-for-up-to-7%-of-US-employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/)
@@ -680,8 +680,8 @@ https://aralroca.hashnode.dev/one-pr-to-a-parser-unlocked-prerendering-in-brisa
 - [【Smashing Magazine】Identifying-Necessary-Transparency-Moments-In-Agentic-AI-Part-1](https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/)
 - [【Smashing Magazine】The-Joy-Of-A-Fresh-Beginning-April-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/)
 - [【Frontend Masters Blog】Code-is-Clay](https://frontendmasters.com/blog/code-is-clay/)
-- [【Frontend Masters Blog】Auto-`sizes`-on-Images](https://frontendmasters.com/blog/auto-sizes-on-images/)
 - [【Frontend Masters Blog】Constructable-Stylesheets-and-adoptedStyleSheets:-One-Parse,-Every-Shadow-Root](https://frontendmasters.com/blog/constructable-stylesheets-and-adoptedstylesheets-one-parse-every-shadow-root/)
+- [【Frontend Masters Blog】Auto-`sizes`-on-Images](https://frontendmasters.com/blog/auto-sizes-on-images/)
 - [【Frontend Masters Blog】The-Incredible-Overcomplexity-of-the-Shadcn-Radio-Button](https://frontendmasters.com/blog/the-incredible-overcomplexity-of-the-shadcn-radio-button/)
 - [【Frontend Masters Blog】Building-a-Blog-in-TanStack-Part-2-of-2](https://frontendmasters.com/blog/building-a-blog-in-tanstack-part-2-of-2/)
 - [【Frontend Masters Blog】Building-a-Blog-in-TanStack-Part-1-of-2](https://frontendmasters.com/blog/building-a-blog-in-tanstack-part-1-of-2/)

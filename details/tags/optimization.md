@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-28 21:02:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-28 23:03:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -22,6 +22,7 @@
 - [2026-04-25--One-PR-to-a-parser-unlocked-prerendering-in-Brisa-](
 https://aralroca.hashnode.dev/one-pr-to-a-parser-unlocked-prerendering-in-brisa
 ) 
+- [2026-04-28-Why-more-content-is-no-longer-a-reliable-way-to-grow-SEO](https://searchengineland.com/more-content-unreliable-seo-475688) 
 - [2026-04-27-I-built-a-WordPress-plugin-that-generates-1000-SEO-pages-in-minutes](https://www.indiehackers.com/post/i-built-a-wordpress-plugin-that-generates-100-seo-pages-in-minutes-looking-for-feedback-5j55M4ex1qGJqY5MUXZ5) 
 - [2026-04-23-The-end-of-oil?-As-fuel-shocks-cascade,-53-nations-plan-a-fossil-fuel-phaseout](https://theconversation.com/the-end-of-oil-as-fuel-shocks-cascade-53-nations-gather-to-plan-a-fossil-fuel-phaseout-280263) 
 - [2026-04-19-SEO,-AEO,-and-Geo-for-a-Modern-Developer-Portfolio](https://www.yashkapure.com/en/blog/seo-aeo-geo-for-a-modern-developer-portfolio/) 
