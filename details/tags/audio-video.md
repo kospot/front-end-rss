@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-29 15:01:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-29 18:02:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -9,8 +9,8 @@
 
 - [2026-04-26-Отказоустойчивые-видеозвонки-на-WebRTC](https://dev.to/andreik/otkazoustoichivyie-vidieozvonki-na-webrtc-cln) 
 - [2026-04-25-Why-Your-Web-Audio-Tuner-Sucks-at-Low-Notes-and-What-to-Use-Instead-of-FFT](https://dev.to/sendotltd/why-your-web-audio-tuner-sucks-at-low-notes-and-what-to-use-instead-of-fft-391h) 
-- [2026-04-24-Making-GIFs-from-Videos-Without-Leaving-Your-Browser-—-How-I-Did-It](https://dev.to/linmingren/making-gifs-from-videos-without-leaving-your-browser-how-i-did-it-3ojl) 
 - [2026-04-24-Strip-the-Sound-from-Any-Video-in-Seconds](https://dev.to/linmingren/strip-the-sound-from-any-video-in-seconds-359l) 
+- [2026-04-24-Making-GIFs-from-Videos-Without-Leaving-Your-Browser-—-How-I-Did-It](https://dev.to/linmingren/making-gifs-from-videos-without-leaving-your-browser-how-i-did-it-3ojl) 
 - [2026-04-18-WebRTC-vs-WebSocket-Explained:-When-to-Use-What-A-Real-World-Story](https://dev.to/abdullahmubin/webrtc-vs-websocket-explained-when-to-use-what-a-real-world-story-5de9) 
 - [2026-04-16-WebRTC-Works-Great-in-Demos.-In-Production,-It-Falls-Apart.-Here's-the-Fix.](https://dev.to/colocohen/webrtc-works-great-in-demos-in-production-it-falls-apart-heres-the-fix-f9h) 
 - [2026-04-13-I-built-a-free-desktop-video-downloader-for-Windows-—-Grabbit](https://dev.to/indignity/i-built-a-free-desktop-video-downloader-for-windows-grabbit-3knc) 
@@ -224,8 +224,8 @@
 - [2026-04-04-Edward-‘Big-Balls’-Coristine-Is-Helping-Out-on-Viral-Fraud-Videos-Now](https://www.wired.com/story/edward-coristine-nick-shirley-fraud-videos/) 
 - [2026-04-02-Best-Lego-Gifts-for-Brick-Builders-2026:-Smart-Bricks,-Video-Games,-and-More](https://www.wired.com/gallery/gifts-for-lego-lovers/) 
 - [2026-04-29-It’s-primetime-for-conspiracy-theorist-video-creators](https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag) 
-- [2026-04-17-YouTube’s-mobile-app-finally-lets-you-share-timestamped-videos](https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips) 
 - [2026-04-17-Netflix-embraces-vertical-video-with-major-mobile-app-update](https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video) 
+- [2026-04-17-YouTube’s-mobile-app-finally-lets-you-share-timestamped-videos](https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips) 
 - [2026-04-15-Prime-Video-is-bundling-Apple-TV-Plus-and-Peacock-for-a-limited-time](https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle) 
 - [2026-04-11-The-Iranian-Lego-AI-video-creators-credit-their-virality-to-&amp;#8216;heart&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu) 
 - [2026-04-28-派早报：阿里巴巴发布视频生成模型-HappyHorse-1.0-等](https://sspai.com/post/109160) 

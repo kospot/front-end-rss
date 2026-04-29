@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-29T07:01:41.002Z</updated>
+    <updated>2026-04-29T10:02:33.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,30 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[It’s primetime for conspiracy theorist video creators]]></title>
-        <id>https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag</id>
-        <link href="https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Nex Playground gaming console is $60 off this week]]></title>
-        <id>https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Home makes it easier to understand why devices aren&#8217;t working]]></title>
-        <id>https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update</id>
-        <link href="https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can get dragged into a police investigation by proximity alone — for now]]></title>
-        <id>https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants</id>
-        <link href="https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants"/>
+        <title type="html"><![CDATA[Now YouTube TV lets you multiview any channel you want]]></title>
+        <id>https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel</id>
+        <link href="https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
@@ -50,23 +29,44 @@
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Now YouTube TV lets you multiview any channel you want]]></title>
-        <id>https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel</id>
-        <link href="https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel"/>
+        <title type="html"><![CDATA[You can get dragged into a police investigation by proximity alone — for now]]></title>
+        <id>https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants</id>
+        <link href="https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Sharing a Screenshot Can Get You Jailed in the UAE]]></title>
-        <id>https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/</id>
-        <link href="https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/"/>
+        <title type="html"><![CDATA[Google Home makes it easier to understand why devices aren&#8217;t working]]></title>
+        <id>https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update</id>
+        <link href="https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off]]></title>
-        <id>https://www.wired.com/story/meta-covalen-ai-workers-layoffs/</id>
-        <link href="https://www.wired.com/story/meta-covalen-ai-workers-layoffs/"/>
+        <title type="html"><![CDATA[The Nex Playground gaming console is $60 off this week]]></title>
+        <id>https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale"/>
+        <updated>2026-04-28T16:00:00.000Z</updated>
+        <published>2026-04-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s primetime for conspiracy theorist video creators]]></title>
+        <id>https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag</id>
+        <link href="https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag"/>
+        <updated>2026-04-28T16:00:00.000Z</updated>
+        <published>2026-04-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vari Align Desk Chair Review (2026): Breathable, Comfy, Low Cost]]></title>
+        <id>https://www.wired.com/review/vari-align-office-chair/</id>
+        <link href="https://www.wired.com/review/vari-align-office-chair/"/>
+        <updated>2026-04-28T16:00:00.000Z</updated>
+        <published>2026-04-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’]]></title>
+        <id>https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/</id>
+        <link href="https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
@@ -78,9 +78,16 @@
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’]]></title>
-        <id>https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/</id>
-        <link href="https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/"/>
+        <title type="html"><![CDATA[‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off]]></title>
+        <id>https://www.wired.com/story/meta-covalen-ai-workers-layoffs/</id>
+        <link href="https://www.wired.com/story/meta-covalen-ai-workers-layoffs/"/>
+        <updated>2026-04-28T16:00:00.000Z</updated>
+        <published>2026-04-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Sharing a Screenshot Can Get You Jailed in the UAE]]></title>
+        <id>https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/</id>
+        <link href="https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[The Dev Environment Setup Every AI Engineer Should Have]]></title>
         <id>https://pub.towardsai.net/the-dev-environment-setup-every-ai-engineer-should-have-cab1f23a29db?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/the-dev-environment-setup-every-ai-engineer-should-have-cab1f23a29db?source=rss----98111c9905da---4"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Content Understanding Accuracy Improvement Guide — Custom Analyzer + Prompt Engineering]]></title>
-        <id>https://pub.towardsai.net/azure-content-understanding-accuracy-improvement-guide-custom-analyzer-prompt-engineering-a71f7ee4f311?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/azure-content-understanding-accuracy-improvement-guide-custom-analyzer-prompt-engineering-a71f7ee4f311?source=rss----98111c9905da---4"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
