@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-29T22:00:58.417Z</updated>
+    <updated>2026-04-30T00:01:41.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,13 +22,6 @@
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emergency First Responders Say Waymos Are Getting Worse]]></title>
-        <id>https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/</id>
-        <link href="https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed]]></title>
         <id>https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/</id>
         <link href="https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/"/>
@@ -36,9 +29,23 @@
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parallel Web Systems hits $2B valuation five months after its last big raise]]></title>
-        <id>https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/</id>
-        <link href="https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/"/>
+        <title type="html"><![CDATA[Emergency First Responders Say Waymos Are Getting Worse]]></title>
+        <id>https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/</id>
+        <link href="https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta is still burning money on AR/VR]]></title>
+        <id>https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/</id>
+        <link href="https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government]]></title>
+        <id>https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/</id>
+        <link href="https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
@@ -50,9 +57,9 @@
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government]]></title>
-        <id>https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/</id>
-        <link href="https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/"/>
+        <title type="html"><![CDATA[Parallel Web Systems hits $2B valuation five months after its last big raise]]></title>
+        <id>https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/</id>
+        <link href="https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
@@ -99,30 +106,16 @@
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Blind Speed of Adoption: How Financial Advisors Are Racing to Embrace AI — While Leaving Client…]]></title>
-        <id>https://pub.towardsai.net/the-blind-speed-of-adoption-how-financial-advisors-are-racing-to-embrace-ai-while-leaving-client-c5a5252e5df3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-blind-speed-of-adoption-how-financial-advisors-are-racing-to-embrace-ai-while-leaving-client-c5a5252e5df3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Transformers Without the RNN]]></title>
+        <id>https://pub.towardsai.net/transformers-without-the-rnn-406f05f241fa?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/transformers-without-the-rnn-406f05f241fa?source=rss----98111c9905da---4"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Gave Copilot the Same 10 DAX Problems I Give in Job Interviews. It Failed 6.]]></title>
-        <id>https://pub.towardsai.net/i-gave-copilot-the-same-10-dax-problems-i-give-in-job-interviews-it-failed-6-18d4be55d13c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-gave-copilot-the-same-10-dax-problems-i-give-in-job-interviews-it-failed-6-18d4be55d13c?source=rss----98111c9905da---4"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Trusted Fabric Copilot and Fabric IQ With My Production Pipeline for 30 Days — Here’s the Honest…]]></title>
-        <id>https://pub.towardsai.net/i-trusted-fabric-copilot-and-fabric-iq-with-my-production-pipeline-for-30-days-heres-the-honest-67bca927b7f3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-trusted-fabric-copilot-and-fabric-iq-with-my-production-pipeline-for-30-days-heres-the-honest-67bca927b7f3?source=rss----98111c9905da---4"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Background Jobs in FastAPI on EKS: APScheduler vs Celery vs EventBridge — What to Pick and Why]]></title>
-        <id>https://pub.towardsai.net/background-jobs-in-fastapi-on-eks-apscheduler-vs-celery-vs-eventbridge-what-to-pick-and-why-4a6edabc1735?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/background-jobs-in-fastapi-on-eks-apscheduler-vs-celery-vs-eventbridge-what-to-pick-and-why-4a6edabc1735?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[What Is Harness Engineering? A Builder’s Guide]]></title>
+        <id>https://pub.towardsai.net/what-is-harness-engineering-a-builders-guide-eaedc301982d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-is-harness-engineering-a-builders-guide-eaedc301982d?source=rss----98111c9905da---4"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
@@ -134,58 +127,44 @@
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I used FFmpeg.wasm to build a browser-based audio remover]]></title>
-        <id>https://dev.to/iamcodemaster/how-i-used-ffmpegwasm-to-build-a-browser-based-audio-remover-dc3</id>
-        <link href="https://dev.to/iamcodemaster/how-i-used-ffmpegwasm-to-build-a-browser-based-audio-remover-dc3"/>
+        <title type="html"><![CDATA[Background Jobs in FastAPI on EKS: APScheduler vs Celery vs EventBridge — What to Pick and Why]]></title>
+        <id>https://pub.towardsai.net/background-jobs-in-fastapi-on-eks-apscheduler-vs-celery-vs-eventbridge-what-to-pick-and-why-4a6edabc1735?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/background-jobs-in-fastapi-on-eks-apscheduler-vs-celery-vs-eventbridge-what-to-pick-and-why-4a6edabc1735?source=rss----98111c9905da---4"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript 7 beta benchmark: what the repo numbers confirmed for me — and what I still don't buy]]></title>
-        <id>https://dev.to/jtorchia/typescript-7-beta-benchmark-what-the-repo-numbers-confirmed-for-me-and-what-i-still-dont-buy-icc</id>
-        <link href="https://dev.to/jtorchia/typescript-7-beta-benchmark-what-the-repo-numbers-confirmed-for-me-and-what-i-still-dont-buy-icc"/>
+        <title type="html"><![CDATA[I Trusted Fabric Copilot and Fabric IQ With My Production Pipeline for 30 Days — Here’s the Honest…]]></title>
+        <id>https://pub.towardsai.net/i-trusted-fabric-copilot-and-fabric-iq-with-my-production-pipeline-for-30-days-heres-the-honest-67bca927b7f3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-trusted-fabric-copilot-and-fabric-iq-with-my-production-pipeline-for-30-days-heres-the-honest-67bca927b7f3?source=rss----98111c9905da---4"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free Bot Detection Without CAPTCHAs: BotShield Proof-of-Work]]></title>
-        <id>https://dev.to/h33ai/free-bot-detection-without-captchas-botshield-proof-of-work-12b1</id>
-        <link href="https://dev.to/h33ai/free-bot-detection-without-captchas-botshield-proof-of-work-12b1"/>
+        <title type="html"><![CDATA[I Gave Copilot the Same 10 DAX Problems I Give in Job Interviews. It Failed 6.]]></title>
+        <id>https://pub.towardsai.net/i-gave-copilot-the-same-10-dax-problems-i-give-in-job-interviews-it-failed-6-18d4be55d13c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-gave-copilot-the-same-10-dax-problems-i-give-in-job-interviews-it-failed-6-18d4be55d13c?source=rss----98111c9905da---4"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Express depends on escape-html. It hasn't been updated since 2015.]]></title>
-        <id>https://dev.to/piiiico/express-depends-on-escape-html-it-hasnt-been-updated-since-2015-2o88</id>
-        <link href="https://dev.to/piiiico/express-depends-on-escape-html-it-hasnt-been-updated-since-2015-2o88"/>
+        <title type="html"><![CDATA[The Blind Speed of Adoption: How Financial Advisors Are Racing to Embrace AI — While Leaving Client…]]></title>
+        <id>https://pub.towardsai.net/the-blind-speed-of-adoption-how-financial-advisors-are-racing-to-embrace-ai-while-leaving-client-c5a5252e5df3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-blind-speed-of-adoption-how-financial-advisors-are-racing-to-embrace-ai-while-leaving-client-c5a5252e5df3?source=rss----98111c9905da---4"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qualified Lead Generation Services to Skyrocket Your Sales Funnel in 2025]]></title>
-        <id>https://dev.to/bob_lane_38f6fb7771454234/qualified-lead-generation-services-to-skyrocket-your-sales-funnel-in-2025-3og9</id>
-        <link href="https://dev.to/bob_lane_38f6fb7771454234/qualified-lead-generation-services-to-skyrocket-your-sales-funnel-in-2025-3og9"/>
+        <title type="html"><![CDATA[A Per-URL TODO List Chrome Extension in 150 Lines — Single-Key chrome.storage Design, URL Normalization, and Three Sync Paths for the Toolbar Badge]]></title>
+        <id>https://dev.to/sendotltd/a-per-url-todo-list-chrome-extension-in-150-lines-single-key-chromestorage-design-url-32h7</id>
+        <link href="https://dev.to/sendotltd/a-per-url-todo-list-chrome-extension-in-150-lines-single-key-chromestorage-design-url-32h7"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Front-End Framework Migration in Large-Scale Projects]]></title>
-        <id>https://dev.to/ahmadkzx/front-end-framework-migration-in-large-scale-projects-3m9n</id>
-        <link href="https://dev.to/ahmadkzx/front-end-framework-migration-in-large-scale-projects-3m9n"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InstaUp APK 2026 – Download Free App for Faster Instagram Growth]]></title>
-        <id>https://dev.to/ryon_reyolds_6449788f0bb2/instaup-apk-2026-download-free-app-for-faster-instagram-growth-nfj</id>
-        <link href="https://dev.to/ryon_reyolds_6449788f0bb2/instaup-apk-2026-download-free-app-for-faster-instagram-growth-nfj"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(ShowDev) JavaScript Exceptions: What they do right, and what they do wrong]]></title>
-        <id>https://dev.to/bogdansandu/showdev-javascript-exceptions-what-they-do-right-and-what-they-do-wrong-53nm</id>
-        <link href="https://dev.to/bogdansandu/showdev-javascript-exceptions-what-they-do-right-and-what-they-do-wrong-53nm"/>
+        <title type="html"><![CDATA[Companies Say There Are No Good Juniors. They Mean They Stopped Training Them"]]></title>
+        <id>https://dev.to/bradleymatera/companies-say-there-are-no-good-juniors-they-mean-they-stopped-training-them-l68</id>
+        <link href="https://dev.to/bradleymatera/companies-say-there-are-no-good-juniors-they-mean-they-stopped-training-them-l68"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
@@ -197,72 +176,65 @@
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your PS5 can now transform into a Linux PC]]></title>
-        <id>https://www.theverge.com/news/920322/ps5-linux-project-exploit-install</id>
-        <link href="https://www.theverge.com/news/920322/ps5-linux-project-exploit-install"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[(ShowDev) JavaScript Exceptions: What they do right, and what they do wrong]]></title>
+        <id>https://dev.to/bogdansandu/showdev-javascript-exceptions-what-they-do-right-and-what-they-do-wrong-53nm</id>
+        <link href="https://dev.to/bogdansandu/showdev-javascript-exceptions-what-they-do-right-and-what-they-do-wrong-53nm"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta isn’t doing enough to keep kids off Facebook and Instagram, rules EU]]></title>
-        <id>https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification</id>
-        <link href="https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[InstaUp APK 2026 – Download Free App for Faster Instagram Growth]]></title>
+        <id>https://dev.to/ryon_reyolds_6449788f0bb2/instaup-apk-2026-download-free-app-for-faster-instagram-growth-nfj</id>
+        <link href="https://dev.to/ryon_reyolds_6449788f0bb2/instaup-apk-2026-download-free-app-for-faster-instagram-growth-nfj"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub rushed to fix a critical vulnerability in less than six hours]]></title>
-        <id>https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix</id>
-        <link href="https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Front-End Framework Migration in Large-Scale Projects]]></title>
+        <id>https://dev.to/ahmadkzx/front-end-framework-migration-in-large-scale-projects-3m9n</id>
+        <link href="https://dev.to/ahmadkzx/front-end-framework-migration-in-large-scale-projects-3m9n"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s primetime for conspiracy theorist video creators]]></title>
-        <id>https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag</id>
-        <link href="https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Qualified Lead Generation Services to Skyrocket Your Sales Funnel in 2025]]></title>
+        <id>https://dev.to/bob_lane_38f6fb7771454234/qualified-lead-generation-services-to-skyrocket-your-sales-funnel-in-2025-3og9</id>
+        <link href="https://dev.to/bob_lane_38f6fb7771454234/qualified-lead-generation-services-to-skyrocket-your-sales-funnel-in-2025-3og9"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Nex Playground gaming console is $60 off this week]]></title>
-        <id>https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Express depends on escape-html. It hasn't been updated since 2015.]]></title>
+        <id>https://dev.to/piiiico/express-depends-on-escape-html-it-hasnt-been-updated-since-2015-2o88</id>
+        <link href="https://dev.to/piiiico/express-depends-on-escape-html-it-hasnt-been-updated-since-2015-2o88"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Home makes it easier to understand why devices aren&#8217;t working]]></title>
-        <id>https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update</id>
-        <link href="https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Free Bot Detection Without CAPTCHAs: BotShield Proof-of-Work]]></title>
+        <id>https://dev.to/h33ai/free-bot-detection-without-captchas-botshield-proof-of-work-12b1</id>
+        <link href="https://dev.to/h33ai/free-bot-detection-without-captchas-botshield-proof-of-work-12b1"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You can get dragged into a police investigation by proximity alone — for now]]></title>
-        <id>https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants</id>
-        <link href="https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[TypeScript 7 beta benchmark: what the repo numbers confirmed for me — and what I still don't buy]]></title>
+        <id>https://dev.to/jtorchia/typescript-7-beta-benchmark-what-the-repo-numbers-confirmed-for-me-and-what-i-still-dont-buy-icc</id>
+        <link href="https://dev.to/jtorchia/typescript-7-beta-benchmark-what-the-repo-numbers-confirmed-for-me-and-what-i-still-dont-buy-icc"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The FCC is going after the broadcast licenses of Disney-owned ABC stations]]></title>
-        <id>https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat</id>
-        <link href="https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How I used FFmpeg.wasm to build a browser-based audio remover]]></title>
+        <id>https://dev.to/iamcodemaster/how-i-used-ffmpegwasm-to-build-a-browser-based-audio-remover-dc3</id>
+        <link href="https://dev.to/iamcodemaster/how-i-used-ffmpegwasm-to-build-a-browser-based-audio-remover-dc3"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Now YouTube TV lets you multiview any channel you want]]></title>
-        <id>https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel</id>
-        <link href="https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The keyboard used to score Dune 2 is getting more affordable]]></title>
-        <id>https://www.theverge.com/gadgets/920432/osmose-ce-mpe-midi-controller</id>
-        <link href="https://www.theverge.com/gadgets/920432/osmose-ce-mpe-midi-controller"/>
+        <title type="html"><![CDATA[Google TV is getting a dedicated row for YouTube Shorts]]></title>
+        <id>https://www.theverge.com/tech/920354/google-tv-youtube-shorts-row-update</id>
+        <link href="https://www.theverge.com/tech/920354/google-tv-youtube-shorts-row-update"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
@@ -274,44 +246,72 @@
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google TV is getting a dedicated row for YouTube Shorts]]></title>
-        <id>https://www.theverge.com/tech/920354/google-tv-youtube-shorts-row-update</id>
-        <link href="https://www.theverge.com/tech/920354/google-tv-youtube-shorts-row-update"/>
+        <title type="html"><![CDATA[The keyboard used to score Dune 2 is getting more affordable]]></title>
+        <id>https://www.theverge.com/gadgets/920432/osmose-ce-mpe-midi-controller</id>
+        <link href="https://www.theverge.com/gadgets/920432/osmose-ce-mpe-midi-controller"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vari Align Desk Chair Review (2026): Breathable, Comfy, Low Cost]]></title>
-        <id>https://www.wired.com/review/vari-align-office-chair/</id>
-        <link href="https://www.wired.com/review/vari-align-office-chair/"/>
+        <title type="html"><![CDATA[Now YouTube TV lets you multiview any channel you want]]></title>
+        <id>https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel</id>
+        <link href="https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’]]></title>
-        <id>https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/</id>
-        <link href="https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/"/>
+        <title type="html"><![CDATA[The FCC is going after the broadcast licenses of Disney-owned ABC stations]]></title>
+        <id>https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat</id>
+        <link href="https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sniffies’ Users Worry About a ‘Straightification’ of the Gay Hookup App]]></title>
-        <id>https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/</id>
-        <link href="https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/"/>
+        <title type="html"><![CDATA[You can get dragged into a police investigation by proximity alone — for now]]></title>
+        <id>https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants</id>
+        <link href="https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off]]></title>
-        <id>https://www.wired.com/story/meta-covalen-ai-workers-layoffs/</id>
-        <link href="https://www.wired.com/story/meta-covalen-ai-workers-layoffs/"/>
+        <title type="html"><![CDATA[Google Home makes it easier to understand why devices aren&#8217;t working]]></title>
+        <id>https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update</id>
+        <link href="https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Sharing a Screenshot Can Get You Jailed in the UAE]]></title>
-        <id>https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/</id>
-        <link href="https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/"/>
+        <title type="html"><![CDATA[The Nex Playground gaming console is $60 off this week]]></title>
+        <id>https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale"/>
+        <updated>2026-04-28T16:00:00.000Z</updated>
+        <published>2026-04-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s primetime for conspiracy theorist video creators]]></title>
+        <id>https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag</id>
+        <link href="https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag"/>
+        <updated>2026-04-28T16:00:00.000Z</updated>
+        <published>2026-04-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub rushed to fix a critical vulnerability in less than six hours]]></title>
+        <id>https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix</id>
+        <link href="https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix"/>
+        <updated>2026-04-28T16:00:00.000Z</updated>
+        <published>2026-04-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta isn’t doing enough to keep kids off Facebook and Instagram, rules EU]]></title>
+        <id>https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification</id>
+        <link href="https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification"/>
+        <updated>2026-04-28T16:00:00.000Z</updated>
+        <published>2026-04-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your PS5 can now transform into a Linux PC]]></title>
+        <id>https://www.theverge.com/news/920322/ps5-linux-project-exploit-install</id>
+        <link href="https://www.theverge.com/news/920322/ps5-linux-project-exploit-install"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
@@ -323,30 +323,37 @@
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[At his OpenAI trial, Musk relitigates an old friendship]]></title>
-        <id>https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/</id>
-        <link href="https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/"/>
+        <title type="html"><![CDATA[Why Sharing a Screenshot Can Get You Jailed in the UAE]]></title>
+        <id>https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/</id>
+        <link href="https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paragon is not collaborating with Italian authorities probing spyware attacks, report says]]></title>
-        <id>https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/</id>
-        <link href="https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/"/>
+        <title type="html"><![CDATA[‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off]]></title>
+        <id>https://www.wired.com/story/meta-covalen-ai-workers-layoffs/</id>
+        <link href="https://www.wired.com/story/meta-covalen-ai-workers-layoffs/"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Match Group invests $100M in Sniffies, a cruising app for gay men]]></title>
-        <id>https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/</id>
-        <link href="https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/"/>
+        <title type="html"><![CDATA[Sniffies’ Users Worry About a ‘Straightification’ of the Gay Hookup App]]></title>
+        <id>https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/</id>
+        <link href="https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon launches an AI-powered audio Q&A experience on product pages]]></title>
-        <id>https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/</id>
-        <link href="https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/"/>
+        <title type="html"><![CDATA[Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’]]></title>
+        <id>https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/</id>
+        <link href="https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/"/>
+        <updated>2026-04-28T16:00:00.000Z</updated>
+        <published>2026-04-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vari Align Desk Chair Review (2026): Breathable, Comfy, Low Cost]]></title>
+        <id>https://www.wired.com/review/vari-align-office-chair/</id>
+        <link href="https://www.wired.com/review/vari-align-office-chair/"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Firestorm Labs raises $82M to take drone factories into the field]]></title>
         <id>https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/</id>
         <link href="https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/"/>
-        <updated>2026-04-28T16:00:00.000Z</updated>
-        <published>2026-04-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X11 is dead, Selkies web based remote desktop protocol explained]]></title>
-        <id>https://www.linuxserver.io/blog/webtop-4-1-x11-is-dead-and-what-is-selkies-anyway</id>
-        <link href="https://www.linuxserver.io/blog/webtop-4-1-x11-is-dead-and-what-is-selkies-anyway"/>
         <updated>2026-04-28T16:00:00.000Z</updated>
         <published>2026-04-28T16:00:00.000Z</published>
     </entry>
