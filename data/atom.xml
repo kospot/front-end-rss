@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-30T10:01:39.302Z</updated>
+    <updated>2026-04-30T13:02:03.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,27 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Here’s what Netflix’s new vertical video feed is like]]></title>
+        <id>https://www.theverge.com/streaming/920179/netflix-vertical-video-feed-mobile-app-ui</id>
+        <link href="https://www.theverge.com/streaming/920179/netflix-vertical-video-feed-mobile-app-ui"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is this ‘de-extinction’ project actually onto something?]]></title>
+        <id>https://www.theverge.com/science/921088/colossal-de-extinction-antelope-reproduction</id>
+        <link href="https://www.theverge.com/science/921088/colossal-de-extinction-antelope-reproduction"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta lost 20 million users last quarter]]></title>
+        <id>https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments</id>
+        <link href="https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google Search queries hit an ‘all time high’ last quarter]]></title>
         <id>https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai</id>
         <link href="https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai"/>
@@ -22,9 +43,30 @@
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emergency First Responders Say Waymos Are Getting Worse]]></title>
-        <id>https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/</id>
-        <link href="https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/"/>
+        <title type="html"><![CDATA[Goal Zero Yeti 1500 Power Station Review (2026): More Power, Better Chemistry]]></title>
+        <id>https://www.wired.com/review/goal-zero-yeti-1500-power-station-2026/</id>
+        <link href="https://www.wired.com/review/goal-zero-yeti-1500-power-station-2026/"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Summer, the American Water Crisis Becomes Real]]></title>
+        <id>https://www.wired.com/story/the-summer-the-american-water-crisis-turned-real/</id>
+        <link href="https://www.wired.com/story/the-summer-the-american-water-crisis-turned-real/"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EufyMake E1 UV Printer Review (2026): Add 3D Texture to Mugs, Magnets, and More]]></title>
+        <id>https://www.wired.com/review/review-eufymake-e1-uv-printer/</id>
+        <link href="https://www.wired.com/review/review-eufymake-e1-uv-printer/"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola Moto G Stylus 2026 Review: Better Pen, Higher Price]]></title>
+        <id>https://www.wired.com/review/motorola-moto-g-stylus-2026/</id>
+        <link href="https://www.wired.com/review/motorola-moto-g-stylus-2026/"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
@@ -36,30 +78,30 @@
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta is still burning money on AR/VR]]></title>
-        <id>https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/</id>
-        <link href="https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/"/>
+        <title type="html"><![CDATA[Emergency First Responders Say Waymos Are Getting Worse]]></title>
+        <id>https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/</id>
+        <link href="https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government]]></title>
-        <id>https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/</id>
-        <link href="https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/"/>
+        <title type="html"><![CDATA[Spotify introduces verified artist badges to help distinguish humans from AI]]></title>
+        <id>https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/</id>
+        <link href="https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality]]></title>
-        <id>https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/</id>
-        <link href="https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/"/>
+        <title type="html"><![CDATA[Netflix wants you to watch ‘Clips,’ its TikTok-like vertical video feed]]></title>
+        <id>https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/</id>
+        <link href="https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parallel Web Systems hits $2B valuation five months after its last big raise]]></title>
-        <id>https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/</id>
-        <link href="https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/"/>
+        <title type="html"><![CDATA[Meta says its business AI now facilitates 10 million conversations a week]]></title>
+        <id>https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/</id>
+        <link href="https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
@@ -71,177 +113,58 @@
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using LLMs to find Python C-extension bugs]]></title>
-        <id>https://lwn.net/Articles/1067234/</id>
-        <link href="https://lwn.net/Articles/1067234/"/>
+        <title type="html"><![CDATA[Parallel Web Systems hits $2B valuation five months after its last big raise]]></title>
+        <id>https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/</id>
+        <link href="https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scale invariance and the beauty of computer simulations [video]]]></title>
-        <id>https://www.youtube.com/watch?v=fIWleJeep0U</id>
-        <link href="https://www.youtube.com/watch?v=fIWleJeep0U"/>
+        <title type="html"><![CDATA[Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality]]></title>
+        <id>https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/</id>
+        <link href="https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[J. Craig Venter, Scientist Who Decoded the Human Genome, Dies at 79]]></title>
-        <id>https://www.nytimes.com/2026/04/30/science/j-craig-venter-dead.html</id>
-        <link href="https://www.nytimes.com/2026/04/30/science/j-craig-venter-dead.html"/>
+        <title type="html"><![CDATA[Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government]]></title>
+        <id>https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/</id>
+        <link href="https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Table Oriented Programming (2002)]]></title>
-        <id>https://www.oocities.org/tablizer/top.htm</id>
-        <link href="https://www.oocities.org/tablizer/top.htm"/>
+        <title type="html"><![CDATA[Meta is still burning money on AR/VR]]></title>
+        <id>https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/</id>
+        <link href="https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remembering the Computer Literacy Project (1992) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=JZjNHnYFqOA</id>
-        <link href="https://www.youtube.com/watch?v=JZjNHnYFqOA"/>
+        <title type="html"><![CDATA[Weather and Clock Dashboard – Firefox new tab extension]]></title>
+        <id>https://addons.mozilla.org/en-US/firefox/addon/weather-clock-dashboard/</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/weather-clock-dashboard/"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can LLMs create lasting flashcards from readers' highlights?]]></title>
-        <id>https://memory-machines.com/report/</id>
-        <link href="https://memory-machines.com/report/"/>
+        <title type="html"><![CDATA[Analog Resistance: Mechanical Simplicity in a Growing Digital Cycling World [video]]]></title>
+        <id>https://www.youtube.com/watch?v=fNX2ygniYyo</id>
+        <link href="https://www.youtube.com/watch?v=fNX2ygniYyo"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Demonstrating the idea of gamma camera imaging [video]]]></title>
-        <id>https://www.youtube.com/watch?v=PyGlHtvihXA</id>
-        <link href="https://www.youtube.com/watch?v=PyGlHtvihXA"/>
+        <title type="html"><![CDATA[I tricked 3M people into believing in an evil fake polycule]]></title>
+        <id>https://rawandferal.substack.com/p/norman-polycule</id>
+        <link href="https://rawandferal.substack.com/p/norman-polycule"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ernie 5.1 Preview]]></title>
-        <id>https://ernie.baidu.com/</id>
-        <link href="https://ernie.baidu.com/"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Is Sinking]]></title>
-        <id>https://dbushell.com/2026/04/29/github-is-sinking/</id>
-        <link href="https://dbushell.com/2026/04/29/github-is-sinking/"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scroll-Driven Animations]]></title>
-        <id>https://www.joshwcomeau.com/animation/scroll-driven-animations/</id>
-        <link href="https://www.joshwcomeau.com/animation/scroll-driven-animations/"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Lssh – Terminal-native remote access suite for SSH and cloud targets]]></title>
-        <id>https://github.com/blacknon/lssh</id>
-        <link href="https://github.com/blacknon/lssh"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Rat Run" Sudoku Series by Marty Sears]]></title>
-        <id>https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?chlang=en&amp;id=000IFI</id>
-        <link href="https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?chlang=en&amp;id=000IFI"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Young with Experience" Paradox: Einstein's Twin as a Critique of Modern Hiring]]></title>
-        <id>https://zenodo.org/records/19898846</id>
-        <link href="https://zenodo.org/records/19898846"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MiniRAT: A Go-based macOS RAT delivered via malicious NPM package]]></title>
-        <id>https://www.iru.com/blog/minirat</id>
-        <link href="https://www.iru.com/blog/minirat"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta's Reality Labs lost over $4B in first quarter]]></title>
-        <id>https://www.cnbc.com/2026/04/29/metas-reality-labs-lost-over-4-billion-in-first-quarter.html</id>
-        <link href="https://www.cnbc.com/2026/04/29/metas-reality-labs-lost-over-4-billion-in-first-quarter.html"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale]]></title>
-        <id>https://z.ai/blog/scaling-pain</id>
-        <link href="https://z.ai/blog/scaling-pain"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting Cookies with Device Bound Session Credentials]]></title>
-        <id>https://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html</id>
-        <link href="https://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot Updates in Postgres]]></title>
-        <id>https://boringsql.com/posts/hot-updates/</id>
-        <link href="https://boringsql.com/posts/hot-updates/"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the US keeps getting richer while Britain stagnates]]></title>
-        <id>https://www.thetimes.com/business/economics/article/why-us-richer-than-uk-rlkshqvq9</id>
-        <link href="https://www.thetimes.com/business/economics/article/why-us-richer-than-uk-rlkshqvq9"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We never get to what matters]]></title>
-        <id>https://yewjin.substack.com/p/why-we-never-get-to-what-matters</id>
-        <link href="https://yewjin.substack.com/p/why-we-never-get-to-what-matters"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siddharth on X: "Software Is Eating the World (But This Time)"]]></title>
-        <id>https://twitter.com/siddharthvader_/status/2049161016156762441</id>
-        <link href="https://twitter.com/siddharthvader_/status/2049161016156762441"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Czech Prime Minister just reacted to our video]]></title>
-        <id>https://www.youtube.com/watch?v=nzDuj42HJ1o</id>
-        <link href="https://www.youtube.com/watch?v=nzDuj42HJ1o"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Guidance – GPT-5.5]]></title>
-        <id>https://developers.openai.com/api/docs/guides/prompt-guidance</id>
-        <link href="https://developers.openai.com/api/docs/guides/prompt-guidance"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: RSME:A Reactive Stability Mutation Encryption]]></title>
-        <id>https://zenodo.org/records/19712564</id>
-        <link href="https://zenodo.org/records/19712564"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ts-rest – what happens when a 3.3k star OSS project goes dormant]]></title>
-        <id>https://news.ycombinator.com/item?id=47959078</id>
-        <link href="https://news.ycombinator.com/item?id=47959078"/>
+        <title type="html"><![CDATA[Jesus' Time Management Secret [video]]]></title>
+        <id>https://www.youtube.com/watch?v=U-89DOwuZXM</id>
+        <link href="https://www.youtube.com/watch?v=U-89DOwuZXM"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
@@ -253,72 +176,184 @@
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond Text-to-SQL: Mastering the Model Context Protocol (MCP) for Agentic Data Workflows]]></title>
-        <id>https://pub.towardsai.net/beyond-text-to-sql-mastering-the-model-context-protocol-mcp-for-agentic-data-workflows-0c2888bd4950?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/beyond-text-to-sql-mastering-the-model-context-protocol-mcp-for-agentic-data-workflows-0c2888bd4950?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Ts-rest – what happens when a 3.3k star OSS project goes dormant]]></title>
+        <id>https://news.ycombinator.com/item?id=47959078</id>
+        <link href="https://news.ycombinator.com/item?id=47959078"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Tiny Language Models Are Quietly Replacing Big LLMs in Enterprise Analytics]]></title>
-        <id>https://pub.towardsai.net/why-tiny-language-models-are-quietly-replacing-big-llms-in-enterprise-analytics-807e0b9eb9be?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-tiny-language-models-are-quietly-replacing-big-llms-in-enterprise-analytics-807e0b9eb9be?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: RSME:A Reactive Stability Mutation Encryption]]></title>
+        <id>https://zenodo.org/records/19712564</id>
+        <link href="https://zenodo.org/records/19712564"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Things Not to Miss: A High-Signal Refresher for ML Engineering Interviews in 2026]]></title>
-        <id>https://pub.towardsai.net/things-not-to-miss-a-high-signal-refresher-for-ml-engineering-interviews-in-2026-dd7ff63ce55b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/things-not-to-miss-a-high-signal-refresher-for-ml-engineering-interviews-in-2026-dd7ff63ce55b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Prompt Guidance – GPT-5.5]]></title>
+        <id>https://developers.openai.com/api/docs/guides/prompt-guidance</id>
+        <link href="https://developers.openai.com/api/docs/guides/prompt-guidance"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andrej Karpathy Dropped a 200-Line GPT; I Used the Same Math To Turn Datasets Into Searchable…]]></title>
-        <id>https://pub.towardsai.net/andrej-karpathy-dropped-a-200-line-gpt-d153e9557463?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/andrej-karpathy-dropped-a-200-line-gpt-d153e9557463?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Czech Prime Minister just reacted to our video]]></title>
+        <id>https://www.youtube.com/watch?v=nzDuj42HJ1o</id>
+        <link href="https://www.youtube.com/watch?v=nzDuj42HJ1o"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transformers Without the RNN]]></title>
-        <id>https://pub.towardsai.net/transformers-without-the-rnn-406f05f241fa?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/transformers-without-the-rnn-406f05f241fa?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Siddharth on X: "Software Is Eating the World (But This Time)"]]></title>
+        <id>https://twitter.com/siddharthvader_/status/2049161016156762441</id>
+        <link href="https://twitter.com/siddharthvader_/status/2049161016156762441"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Is Harness Engineering? A Builder’s Guide]]></title>
-        <id>https://pub.towardsai.net/what-is-harness-engineering-a-builders-guide-eaedc301982d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-is-harness-engineering-a-builders-guide-eaedc301982d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[We never get to what matters]]></title>
+        <id>https://yewjin.substack.com/p/why-we-never-get-to-what-matters</id>
+        <link href="https://yewjin.substack.com/p/why-we-never-get-to-what-matters"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeepSeek-V4: Frontier AI Intelligence at Commodity Pricing]]></title>
-        <id>https://pub.towardsai.net/deepseek-v4-frontier-ai-intelligence-at-commodity-pricing-4f452e928534?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/deepseek-v4-frontier-ai-intelligence-at-commodity-pricing-4f452e928534?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why the US keeps getting richer while Britain stagnates]]></title>
+        <id>https://www.thetimes.com/business/economics/article/why-us-richer-than-uk-rlkshqvq9</id>
+        <link href="https://www.thetimes.com/business/economics/article/why-us-richer-than-uk-rlkshqvq9"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Background Jobs in FastAPI on EKS: APScheduler vs Celery vs EventBridge — What to Pick and Why]]></title>
-        <id>https://pub.towardsai.net/background-jobs-in-fastapi-on-eks-apscheduler-vs-celery-vs-eventbridge-what-to-pick-and-why-4a6edabc1735?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/background-jobs-in-fastapi-on-eks-apscheduler-vs-celery-vs-eventbridge-what-to-pick-and-why-4a6edabc1735?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Hot Updates in Postgres]]></title>
+        <id>https://boringsql.com/posts/hot-updates/</id>
+        <link href="https://boringsql.com/posts/hot-updates/"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Trusted Fabric Copilot and Fabric IQ With My Production Pipeline for 30 Days — Here’s the Honest…]]></title>
-        <id>https://pub.towardsai.net/i-trusted-fabric-copilot-and-fabric-iq-with-my-production-pipeline-for-30-days-heres-the-honest-67bca927b7f3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-trusted-fabric-copilot-and-fabric-iq-with-my-production-pipeline-for-30-days-heres-the-honest-67bca927b7f3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Protecting Cookies with Device Bound Session Credentials]]></title>
+        <id>https://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html</id>
+        <link href="https://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Gave Copilot the Same 10 DAX Problems I Give in Job Interviews. It Failed 6.]]></title>
-        <id>https://pub.towardsai.net/i-gave-copilot-the-same-10-dax-problems-i-give-in-job-interviews-it-failed-6-18d4be55d13c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-gave-copilot-the-same-10-dax-problems-i-give-in-job-interviews-it-failed-6-18d4be55d13c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale]]></title>
+        <id>https://z.ai/blog/scaling-pain</id>
+        <link href="https://z.ai/blog/scaling-pain"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta's Reality Labs lost over $4B in first quarter]]></title>
+        <id>https://www.cnbc.com/2026/04/29/metas-reality-labs-lost-over-4-billion-in-first-quarter.html</id>
+        <link href="https://www.cnbc.com/2026/04/29/metas-reality-labs-lost-over-4-billion-in-first-quarter.html"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MiniRAT: A Go-based macOS RAT delivered via malicious NPM package]]></title>
+        <id>https://www.iru.com/blog/minirat</id>
+        <link href="https://www.iru.com/blog/minirat"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Young with Experience" Paradox: Einstein's Twin as a Critique of Modern Hiring]]></title>
+        <id>https://zenodo.org/records/19898846</id>
+        <link href="https://zenodo.org/records/19898846"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Rat Run" Sudoku Series by Marty Sears]]></title>
+        <id>https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?chlang=en&amp;id=000IFI</id>
+        <link href="https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?chlang=en&amp;id=000IFI"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Lssh – Terminal-native remote access suite for SSH and cloud targets]]></title>
+        <id>https://github.com/blacknon/lssh</id>
+        <link href="https://github.com/blacknon/lssh"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scroll-Driven Animations]]></title>
+        <id>https://www.joshwcomeau.com/animation/scroll-driven-animations/</id>
+        <link href="https://www.joshwcomeau.com/animation/scroll-driven-animations/"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Is Sinking]]></title>
+        <id>https://dbushell.com/2026/04/29/github-is-sinking/</id>
+        <link href="https://dbushell.com/2026/04/29/github-is-sinking/"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ernie 5.1 Preview]]></title>
+        <id>https://ernie.baidu.com/</id>
+        <link href="https://ernie.baidu.com/"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demonstrating the idea of gamma camera imaging [video]]]></title>
+        <id>https://www.youtube.com/watch?v=PyGlHtvihXA</id>
+        <link href="https://www.youtube.com/watch?v=PyGlHtvihXA"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can LLMs create lasting flashcards from readers' highlights?]]></title>
+        <id>https://memory-machines.com/report/</id>
+        <link href="https://memory-machines.com/report/"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering the Computer Literacy Project (1992) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=JZjNHnYFqOA</id>
+        <link href="https://www.youtube.com/watch?v=JZjNHnYFqOA"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Table Oriented Programming (2002)]]></title>
+        <id>https://www.oocities.org/tablizer/top.htm</id>
+        <link href="https://www.oocities.org/tablizer/top.htm"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J. Craig Venter, Scientist Who Decoded the Human Genome, Dies at 79]]></title>
+        <id>https://www.nytimes.com/2026/04/30/science/j-craig-venter-dead.html</id>
+        <link href="https://www.nytimes.com/2026/04/30/science/j-craig-venter-dead.html"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scale invariance and the beauty of computer simulations [video]]]></title>
+        <id>https://www.youtube.com/watch?v=fIWleJeep0U</id>
+        <link href="https://www.youtube.com/watch?v=fIWleJeep0U"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using LLMs to find Python C-extension bugs]]></title>
+        <id>https://lwn.net/Articles/1067234/</id>
+        <link href="https://lwn.net/Articles/1067234/"/>
+        <updated>2026-04-29T16:00:00.000Z</updated>
+        <published>2026-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Machine Learned to See. Then It Tried to Remember.]]></title>
+        <id>https://pub.towardsai.net/the-machine-learned-to-see-then-it-tried-to-remember-b03b27bb8488?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-machine-learned-to-see-then-it-tried-to-remember-b03b27bb8488?source=rss----98111c9905da---4"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
@@ -326,41 +361,6 @@
         <title type="html"><![CDATA[The Blind Speed of Adoption: How Financial Advisors Are Racing to Embrace AI — While Leaving Client…]]></title>
         <id>https://pub.towardsai.net/the-blind-speed-of-adoption-how-financial-advisors-are-racing-to-embrace-ai-while-leaving-client-c5a5252e5df3?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/the-blind-speed-of-adoption-how-financial-advisors-are-racing-to-embrace-ai-while-leaving-client-c5a5252e5df3?source=rss----98111c9905da---4"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Randomized PDE Energy driven Iterative Framework for Efficient and Stable PDE Solutions]]></title>
-        <id>https://arxiv.org/abs/2604.25943</id>
-        <link href="https://arxiv.org/abs/2604.25943"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective]]></title>
-        <id>https://arxiv.org/abs/2604.25975</id>
-        <link href="https://arxiv.org/abs/2604.25975"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mini-Batch Class Composition Bias in Link Prediction]]></title>
-        <id>https://arxiv.org/abs/2604.25978</id>
-        <link href="https://arxiv.org/abs/2604.25978"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Problems in Frontier AI Risk Management]]></title>
-        <id>https://arxiv.org/abs/2604.25982</id>
-        <link href="https://arxiv.org/abs/2604.25982"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observable Neural ODEs for Identifiable Causal Forecasting in Continuous Time]]></title>
-        <id>https://arxiv.org/abs/2604.26070</id>
-        <link href="https://arxiv.org/abs/2604.26070"/>
         <updated>2026-04-29T16:00:00.000Z</updated>
         <published>2026-04-29T16:00:00.000Z</published>
     </entry>
