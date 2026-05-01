@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-01T00:01:56.820Z</updated>
+    <updated>2026-05-01T02:01:27.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,13 +29,6 @@
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Good Luck Getting a Mac Mini for the Next ‘Several Months’]]></title>
-        <id>https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/</id>
-        <link href="https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System]]></title>
         <id>https://www.wired.com/story/daniel-davis-immunology-wired-health/</id>
         <link href="https://www.wired.com/story/daniel-davis-immunology-wired-health/"/>
@@ -43,30 +36,9 @@
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Salesforce is crowdsourcing its AI roadmap — with customers ]]></title>
-        <id>https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/</id>
-        <link href="https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe introduces Link, a digital wallet that autonomous AI agents can use, too]]></title>
-        <id>https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/</id>
-        <link href="https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk testifies that xAI trained Grok on OpenAI models]]></title>
-        <id>https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/</id>
-        <link href="https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting]]></title>
-        <id>https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/</id>
-        <link href="https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/"/>
+        <title type="html"><![CDATA[Good Luck Getting a Mac Mini for the Next ‘Several Months’]]></title>
+        <id>https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/</id>
+        <link href="https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
@@ -78,107 +50,65 @@
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Utah's New Law Targeting VPNs Goes into Effect Next Week]]></title>
-        <id>https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week</id>
-        <link href="https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week"/>
+        <title type="html"><![CDATA[EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting]]></title>
+        <id>https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/</id>
+        <link href="https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Gemini free tier is all you need]]></title>
-        <id>https://juanpabloaj.com/2026/04/30/gemini-free-tier-is-all-you-need/</id>
-        <link href="https://juanpabloaj.com/2026/04/30/gemini-free-tier-is-all-you-need/"/>
+        <title type="html"><![CDATA[Elon Musk testifies that xAI trained Grok on OpenAI models]]></title>
+        <id>https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/</id>
+        <link href="https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We scanned 100 Smithery MCP servers, 22 flagged, here's what we found]]></title>
-        <id>https://news.ycombinator.com/item?id=47969781</id>
-        <link href="https://news.ycombinator.com/item?id=47969781"/>
+        <title type="html"><![CDATA[Stripe introduces Link, a digital wallet that autonomous AI agents can use, too]]></title>
+        <id>https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/</id>
+        <link href="https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator]]></title>
-        <id>https://www.iankduncan.com/engineering/2026-02-06-bash-is-not-enough/</id>
-        <link href="https://www.iankduncan.com/engineering/2026-02-06-bash-is-not-enough/"/>
+        <title type="html"><![CDATA[Salesforce is crowdsourcing its AI roadmap — with customers ]]></title>
+        <id>https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/</id>
+        <link href="https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them with AI]]></title>
-        <id>https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-1024</id>
-        <link href="https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-1024"/>
+        <title type="html"><![CDATA[This photo has no color – how Lippmann Plates work]]></title>
+        <id>https://www.youtube.com/watch?v=-DyrBDsKA5s</id>
+        <link href="https://www.youtube.com/watch?v=-DyrBDsKA5s"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Fauxcquired Podcast about Eli Lilly]]></title>
-        <id>https://open.spotify.com/episode/2jQhCJBOVMXrfpSoC1c9ou</id>
-        <link href="https://open.spotify.com/episode/2jQhCJBOVMXrfpSoC1c9ou"/>
+        <title type="html"><![CDATA[Psychology of How Dogs Feel Your Love [video]]]></title>
+        <id>https://www.youtube.com/watch?v=JaRB1wEUpIo</id>
+        <link href="https://www.youtube.com/watch?v=JaRB1wEUpIo"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JuliaHub Raises $65M Series B]]></title>
-        <id>https://juliahub.com/blog/juliahub-raises-65m-series-b-launches-dyad-3.0</id>
-        <link href="https://juliahub.com/blog/juliahub-raises-65m-series-b-launches-dyad-3.0"/>
+        <title type="html"><![CDATA[State of the AI Frontier, April 2026]]></title>
+        <id>https://gertlabs.com/blog/state-of-frontier-april-2026</id>
+        <link href="https://gertlabs.com/blog/state-of-frontier-april-2026"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Good news for New Mexico. Meta withdrawal on the horizon]]></title>
-        <id>https://www.engadget.com/2161607/meta-says-it-may-withdraw-its-apps-from-new-mexico-if-judge-agrees-to-the-states-demands/</id>
-        <link href="https://www.engadget.com/2161607/meta-says-it-may-withdraw-its-apps-from-new-mexico-if-judge-agrees-to-the-states-demands/"/>
+        <title type="html"><![CDATA[Cardboard Hinge Masterclass [video]]]></title>
+        <id>https://www.youtube.com/watch?v=TOm8APHrVas</id>
+        <link href="https://www.youtube.com/watch?v=TOm8APHrVas"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public Libraries Scrap Late Fines to Alleviate Inequity (2019)]]></title>
-        <id>https://www.kuow.org/stories/we-wanted-our-patrons-back-public-libraries-scrap-late-fines-to-alleviate-inequity</id>
-        <link href="https://www.kuow.org/stories/we-wanted-our-patrons-back-public-libraries-scrap-late-fines-to-alleviate-inequity"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Spectrum of Agentic Coding [video]]]></title>
-        <id>https://vimeo.com/1187957189</id>
-        <link href="https://vimeo.com/1187957189"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Science Weekly – Issue 649]]></title>
-        <id>https://datascienceweekly.substack.com/p/data-science-weekly-issue-649</id>
-        <link href="https://datascienceweekly.substack.com/p/data-science-weekly-issue-649"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performance Analysis of AI Query Approximation Using Lightweight Proxy Models]]></title>
-        <id>https://arxiv.org/abs/2603.15970</id>
-        <link href="https://arxiv.org/abs/2603.15970"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanochemical synthesis of pincer nanotraps for efficient rhodium recovery]]></title>
-        <id>https://www.nature.com/articles/s41467-026-72569-4</id>
-        <link href="https://www.nature.com/articles/s41467-026-72569-4"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We have figured out a new way to send messages into the past]]></title>
-        <id>https://www.newscientist.com/article/2524371-we-have-figured-out-a-new-way-to-send-messages-into-the-past/</id>
-        <link href="https://www.newscientist.com/article/2524371-we-have-figured-out-a-new-way-to-send-messages-into-the-past/"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The NPM CLI has 65 production dependencies from the NPM registry]]></title>
-        <id>https://github.com/npm/cli/blob/latest/package.json</id>
-        <link href="https://github.com/npm/cli/blob/latest/package.json"/>
+        <title type="html"><![CDATA[Show HN: KeeWebX – KeePass that runs from a double-clicked HTML file]]></title>
+        <id>https://keewebx.app/app?demo=1</id>
+        <link href="https://keewebx.app/app?demo=1"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
@@ -190,16 +120,121 @@
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond Grep: A Semantic Memory Engine for Codebases Using Qdrant Edge]]></title>
-        <id>https://pub.towardsai.net/beyond-grep-a-semantic-memory-engine-for-codebases-using-qdrant-edge-cb739a063400?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/beyond-grep-a-semantic-memory-engine-for-codebases-using-qdrant-edge-cb739a063400?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The NPM CLI has 65 production dependencies from the NPM registry]]></title>
+        <id>https://github.com/npm/cli/blob/latest/package.json</id>
+        <link href="https://github.com/npm/cli/blob/latest/package.json"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Can Agent and Workflow Be Unified in a Single Architecture?]]></title>
-        <id>https://pub.towardsai.net/why-can-agent-and-workflow-be-unified-in-a-single-architecture-8aad96fe948b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-can-agent-and-workflow-be-unified-in-a-single-architecture-8aad96fe948b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[We have figured out a new way to send messages into the past]]></title>
+        <id>https://www.newscientist.com/article/2524371-we-have-figured-out-a-new-way-to-send-messages-into-the-past/</id>
+        <link href="https://www.newscientist.com/article/2524371-we-have-figured-out-a-new-way-to-send-messages-into-the-past/"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mechanochemical synthesis of pincer nanotraps for efficient rhodium recovery]]></title>
+        <id>https://www.nature.com/articles/s41467-026-72569-4</id>
+        <link href="https://www.nature.com/articles/s41467-026-72569-4"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Performance Analysis of AI Query Approximation Using Lightweight Proxy Models]]></title>
+        <id>https://arxiv.org/abs/2603.15970</id>
+        <link href="https://arxiv.org/abs/2603.15970"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Science Weekly – Issue 649]]></title>
+        <id>https://datascienceweekly.substack.com/p/data-science-weekly-issue-649</id>
+        <link href="https://datascienceweekly.substack.com/p/data-science-weekly-issue-649"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Spectrum of Agentic Coding [video]]]></title>
+        <id>https://vimeo.com/1187957189</id>
+        <link href="https://vimeo.com/1187957189"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public Libraries Scrap Late Fines to Alleviate Inequity (2019)]]></title>
+        <id>https://www.kuow.org/stories/we-wanted-our-patrons-back-public-libraries-scrap-late-fines-to-alleviate-inequity</id>
+        <link href="https://www.kuow.org/stories/we-wanted-our-patrons-back-public-libraries-scrap-late-fines-to-alleviate-inequity"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good news for New Mexico. Meta withdrawal on the horizon]]></title>
+        <id>https://www.engadget.com/2161607/meta-says-it-may-withdraw-its-apps-from-new-mexico-if-judge-agrees-to-the-states-demands/</id>
+        <link href="https://www.engadget.com/2161607/meta-says-it-may-withdraw-its-apps-from-new-mexico-if-judge-agrees-to-the-states-demands/"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaHub Raises $65M Series B]]></title>
+        <id>https://juliahub.com/blog/juliahub-raises-65m-series-b-launches-dyad-3.0</id>
+        <link href="https://juliahub.com/blog/juliahub-raises-65m-series-b-launches-dyad-3.0"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Fauxcquired Podcast about Eli Lilly]]></title>
+        <id>https://open.spotify.com/episode/2jQhCJBOVMXrfpSoC1c9ou</id>
+        <link href="https://open.spotify.com/episode/2jQhCJBOVMXrfpSoC1c9ou"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them with AI]]></title>
+        <id>https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-1024</id>
+        <link href="https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-1024"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator]]></title>
+        <id>https://www.iankduncan.com/engineering/2026-02-06-bash-is-not-enough/</id>
+        <link href="https://www.iankduncan.com/engineering/2026-02-06-bash-is-not-enough/"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We scanned 100 Smithery MCP servers, 22 flagged, here's what we found]]></title>
+        <id>https://news.ycombinator.com/item?id=47969781</id>
+        <link href="https://news.ycombinator.com/item?id=47969781"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Gemini free tier is all you need]]></title>
+        <id>https://juanpabloaj.com/2026/04/30/gemini-free-tier-is-all-you-need/</id>
+        <link href="https://juanpabloaj.com/2026/04/30/gemini-free-tier-is-all-you-need/"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Utah's New Law Targeting VPNs Goes into Effect Next Week]]></title>
+        <id>https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week</id>
+        <link href="https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small Frontier Models Are Not Just Tiny LLMs]]></title>
+        <id>https://pub.towardsai.net/small-frontier-models-are-not-just-tiny-llms-c2178a90730a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/small-frontier-models-are-not-just-tiny-llms-c2178a90730a?source=rss----98111c9905da---4"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Fine-Tuned YOLO to Understand Document Structure — Here’s How It Works]]></title>
+        <id>https://pub.towardsai.net/i-fine-tuned-yolo-to-understand-document-structure-heres-how-it-works-d7dbbb415145?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-fine-tuned-yolo-to-understand-document-structure-heres-how-it-works-d7dbbb415145?source=rss----98111c9905da---4"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
@@ -211,9 +246,16 @@
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Fine-Tuned YOLO to Understand Document Structure — Here’s How It Works]]></title>
-        <id>https://pub.towardsai.net/i-fine-tuned-yolo-to-understand-document-structure-heres-how-it-works-d7dbbb415145?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-fine-tuned-yolo-to-understand-document-structure-heres-how-it-works-d7dbbb415145?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why Can Agent and Workflow Be Unified in a Single Architecture?]]></title>
+        <id>https://pub.towardsai.net/why-can-agent-and-workflow-be-unified-in-a-single-architecture-8aad96fe948b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-can-agent-and-workflow-be-unified-in-a-single-architecture-8aad96fe948b?source=rss----98111c9905da---4"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Grep: A Semantic Memory Engine for Codebases Using Qdrant Edge]]></title>
+        <id>https://pub.towardsai.net/beyond-grep-a-semantic-memory-engine-for-codebases-using-qdrant-edge-cb739a063400?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beyond-grep-a-semantic-memory-engine-for-codebases-using-qdrant-edge-cb739a063400?source=rss----98111c9905da---4"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
@@ -239,100 +281,51 @@
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day 5/60: Prefix sums in JavaScript - JavaScript DSA]]></title>
-        <id>https://dev.to/thinkkun/day-560-prefix-sums-in-javascript-javascript-dsa-56ok</id>
-        <link href="https://dev.to/thinkkun/day-560-prefix-sums-in-javascript-javascript-dsa-56ok"/>
+        <title type="html"><![CDATA[I Built a Privacy-First Chrome Extension That Saves Your Forms Locally — Zero Network Requests]]></title>
+        <id>https://dev.to/tiltedlunar123/i-built-a-privacy-first-chrome-extension-that-saves-your-forms-locally-zero-network-requests-97j</id>
+        <link href="https://dev.to/tiltedlunar123/i-built-a-privacy-first-chrome-extension-that-saves-your-forms-locally-zero-network-requests-97j"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day 5/90: Control flow - JavaScript Engineering]]></title>
-        <id>https://dev.to/thinkkun/day-590-control-flow-javascript-engineering-1e4a</id>
-        <link href="https://dev.to/thinkkun/day-590-control-flow-javascript-engineering-1e4a"/>
+        <title type="html"><![CDATA[Advanced Techniques for Optimizing JavaScript Rendering Pipelines]]></title>
+        <id>https://dev.to/omriluz1/advanced-techniques-for-optimizing-javascript-rendering-pipelines-59ch</id>
+        <link href="https://dev.to/omriluz1/advanced-techniques-for-optimizing-javascript-rendering-pipelines-59ch"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sample-Free Drum Synthesis in Web Audio — Building Kick, Snare, and Hi-Hat from Oscillators in 60 Lines]]></title>
-        <id>https://dev.to/sendotltd/sample-free-drum-synthesis-in-web-audio-building-kick-snare-and-hi-hat-from-oscillators-in-60-2c0k</id>
-        <link href="https://dev.to/sendotltd/sample-free-drum-synthesis-in-web-audio-building-kick-snare-and-hi-hat-from-oscillators-in-60-2c0k"/>
+        <title type="html"><![CDATA[React UI Components: 273 Free Copy-Paste Designs 2026]]></title>
+        <id>https://dev.to/imran_khan_a3cc224344dbcf/react-ui-components-273-free-copy-paste-designs-2026-2b3h</id>
+        <link href="https://dev.to/imran_khan_a3cc224344dbcf/react-ui-components-273-free-copy-paste-designs-2026-2b3h"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Calculate Business Days Between Two Dates in JavaScript]]></title>
-        <id>https://dev.to/sabita_kumari_7b0e5b47ad5/how-to-calculate-business-days-between-two-dates-in-javascript-16h6</id>
-        <link href="https://dev.to/sabita_kumari_7b0e5b47ad5/how-to-calculate-business-days-between-two-dates-in-javascript-16h6"/>
+        <title type="html"><![CDATA[Level Up Your Logic: 5 JavaScript Tips for Modern Full-Stack Developers]]></title>
+        <id>https://dev.to/frankstack/level-up-your-logic-5-javascript-tips-for-modern-full-stack-developers-114i</id>
+        <link href="https://dev.to/frankstack/level-up-your-logic-5-javascript-tips-for-modern-full-stack-developers-114i"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buy Elite Yelp Reviews – Trusted & Affordable Services]]></title>
-        <id>https://dev.to/hsnvddjvdla/buy-elite-yelp-reviews-trusted-affordable-services-3nk1</id>
-        <link href="https://dev.to/hsnvddjvdla/buy-elite-yelp-reviews-trusted-affordable-services-3nk1"/>
+        <title type="html"><![CDATA[Tree Shaking and Code Splitting in JavaScript]]></title>
+        <id>https://dev.to/helloashish99/tree-shaking-and-code-splitting-in-javascript-gkd</id>
+        <link href="https://dev.to/helloashish99/tree-shaking-and-code-splitting-in-javascript-gkd"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[13 Reliable Platforms to Buy Elite Yelp Reviews Safely]]></title>
-        <id>https://dev.to/hsnvddjvdla/13-reliable-platforms-to-buy-elite-yelp-reviews-safely-1a7p</id>
-        <link href="https://dev.to/hsnvddjvdla/13-reliable-platforms-to-buy-elite-yelp-reviews-safely-1a7p"/>
+        <title type="html"><![CDATA[npm just made private packages free. Here's what this means for AI tool dependency.]]></title>
+        <id>https://dev.to/subprime2010/npm-just-made-private-packages-free-heres-what-this-means-for-ai-tool-dependency-5g70</id>
+        <link href="https://dev.to/subprime2010/npm-just-made-private-packages-free-heres-what-this-means-for-ai-tool-dependency-5g70"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-4p27</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-4p27"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You've probably never heard of these npm packages. They're in your production app.]]></title>
-        <id>https://dev.to/piiiico/youve-probably-never-heard-of-these-npm-packages-theyre-in-your-production-app-27hi</id>
-        <link href="https://dev.to/piiiico/youve-probably-never-heard-of-these-npm-packages-theyre-in-your-production-app-27hi"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I audited 25 top npm packages with a zero-install CLI. Here's who passes.]]></title>
-        <id>https://dev.to/piiiico/i-audited-25-top-npm-packages-with-a-zero-install-cli-heres-who-passes-40kk</id>
-        <link href="https://dev.to/piiiico/i-audited-25-top-npm-packages-with-a-zero-install-cli-heres-who-passes-40kk"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5.5 Sites to Buy Edu Emails Fast and Secure]]></title>
-        <id>https://dev.to/hsnvddjvdla/top-55-sites-to-buy-edu-emails-fast-and-secure-iep</id>
-        <link href="https://dev.to/hsnvddjvdla/top-55-sites-to-buy-edu-emails-fast-and-secure-iep"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Best Sites to Buy Google Reviews (5 Star & Positive)]]></title>
-        <id>https://dev.to/hsnvddjvdla/8-best-sites-to-buy-google-reviews-5-star-positive-2n30</id>
-        <link href="https://dev.to/hsnvddjvdla/8-best-sites-to-buy-google-reviews-5-star-positive-2n30"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Best Sites to Buy Google Map Reviews (5 Star & Positive) ...]]></title>
-        <id>https://dev.to/hsnvddjvdla/8-best-sites-to-buy-google-map-reviews-5-star-positive--4cc</id>
-        <link href="https://dev.to/hsnvddjvdla/8-best-sites-to-buy-google-map-reviews-5-star-positive--4cc"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Google Map Reviews USA]]></title>
-        <id>https://dev.to/hsnvddjvdla/buy-google-map-reviews-usa-4aa0</id>
-        <link href="https://dev.to/hsnvddjvdla/buy-google-map-reviews-usa-4aa0"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React + fetchstream-js: Render JSON as It Arrives]]></title>
-        <id>https://dev.to/coding_inblood_7cb339747/react-fetchstream-js-render-json-as-it-arrives-58jo</id>
-        <link href="https://dev.to/coding_inblood_7cb339747/react-fetchstream-js-render-json-as-it-arrives-58jo"/>
+        <title type="html"><![CDATA[How to integrate DeepSeek R1 into your React app]]></title>
+        <id>https://dev.to/apollo_ag/how-to-integrate-deepseek-r1-into-your-react-app-198g</id>
+        <link href="https://dev.to/apollo_ag/how-to-integrate-deepseek-r1-into-your-react-app-198g"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
@@ -344,24 +337,31 @@
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anbernic’s new rotating screen handheld will start at less than $100]]></title>
-        <id>https://www.theverge.com/tech/921203/anbernic-rg-rotate-android-handheld-pricing-availability-preorders</id>
-        <link href="https://www.theverge.com/tech/921203/anbernic-rg-rotate-android-handheld-pricing-availability-preorders"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
+        <title type="html"><![CDATA[React + fetchstream-js: Render JSON as It Arrives]]></title>
+        <id>https://dev.to/coding_inblood_7cb339747/react-fetchstream-js-render-json-as-it-arrives-58jo</id>
+        <link href="https://dev.to/coding_inblood_7cb339747/react-fetchstream-js-render-json-as-it-arrives-58jo"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Adam Scott became an accidental horror movie star]]></title>
-        <id>https://www.theverge.com/entertainment/920921/adam-scott-interview-hokum-horror</id>
-        <link href="https://www.theverge.com/entertainment/920921/adam-scott-interview-hokum-horror"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Buy Google Map Reviews USA]]></title>
+        <id>https://dev.to/hsnvddjvdla/buy-google-map-reviews-usa-4aa0</id>
+        <link href="https://dev.to/hsnvddjvdla/buy-google-map-reviews-usa-4aa0"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samsung says the RAM shortage could get even worse next year]]></title>
-        <id>https://www.theverge.com/tech/921190/samsung-ram-shortage-getting-worse-2027</id>
-        <link href="https://www.theverge.com/tech/921190/samsung-ram-shortage-getting-worse-2027"/>
-        <updated>2026-04-29T16:00:00.000Z</updated>
-        <published>2026-04-29T16:00:00.000Z</published>
+        <title type="html"><![CDATA[8 Best Sites to Buy Google Map Reviews (5 Star & Positive) ...]]></title>
+        <id>https://dev.to/hsnvddjvdla/8-best-sites-to-buy-google-map-reviews-5-star-positive--4cc</id>
+        <link href="https://dev.to/hsnvddjvdla/8-best-sites-to-buy-google-map-reviews-5-star-positive--4cc"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Best Sites to Buy Google Reviews (5 Star & Positive)]]></title>
+        <id>https://dev.to/hsnvddjvdla/8-best-sites-to-buy-google-reviews-5-star-positive-2n30</id>
+        <link href="https://dev.to/hsnvddjvdla/8-best-sites-to-buy-google-reviews-5-star-positive-2n30"/>
+        <updated>2026-04-30T16:00:00.000Z</updated>
+        <published>2026-04-30T16:00:00.000Z</published>
     </entry>
 </feed>
