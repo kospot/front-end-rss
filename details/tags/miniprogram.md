@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-01 23:03:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-02 06:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 小程序
 
@@ -7,4 +7,3 @@
 
 
 
-- [2026-04-02-Chameleons-do-not-Forget:-Prompt-Based-Online-Continual-Learning-for-Next-Activity-Prediction](https://arxiv.org/abs/2604.00653) 
