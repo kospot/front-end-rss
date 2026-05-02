@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-01T22:00:54.902Z</updated>
+    <updated>2026-05-02T00:01:36.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Amazon&#8217;s built-in AI price history expands to show the entire last year]]></title>
-        <id>https://www.theverge.com/tech/922302/amazon-price-tracker-year</id>
-        <link href="https://www.theverge.com/tech/922302/amazon-price-tracker-year"/>
+        <title type="html"><![CDATA[We just got a new reason to believe the Trump phone is real(ish)]]></title>
+        <id>https://www.theverge.com/gadgets/922180/trump-mobile-t1-phone-ptcrb-certification-t-mobile</id>
+        <link href="https://www.theverge.com/gadgets/922180/trump-mobile-t1-phone-ptcrb-certification-t-mobile"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
@@ -29,37 +29,16 @@
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We just got a new reason to believe the Trump phone is real(ish)]]></title>
-        <id>https://www.theverge.com/gadgets/922180/trump-mobile-t1-phone-ptcrb-certification-t-mobile</id>
-        <link href="https://www.theverge.com/gadgets/922180/trump-mobile-t1-phone-ptcrb-certification-t-mobile"/>
+        <title type="html"><![CDATA[Amazon&#8217;s built-in AI price history expands to show the entire last year]]></title>
+        <id>https://www.theverge.com/tech/922302/amazon-price-tracker-year</id>
+        <link href="https://www.theverge.com/tech/922302/amazon-price-tracker-year"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users]]></title>
-        <id>https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/</id>
-        <link href="https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers]]></title>
-        <id>https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/</id>
-        <link href="https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Eye-Catching Indoor Garden Is 20 Percent Off Right Now]]></title>
-        <id>https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/</id>
-        <link href="https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Alzheimer’s Breakthrough Will Take More Than Just Science]]></title>
-        <id>https://www.wired.com/story/john-hardy-dementia-wired-health/</id>
-        <link href="https://www.wired.com/story/john-hardy-dementia-wired-health/"/>
+        <title type="html"><![CDATA[Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars]]></title>
+        <id>https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/</id>
+        <link href="https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
@@ -71,6 +50,41 @@
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Next Alzheimer’s Breakthrough Will Take More Than Just Science]]></title>
+        <id>https://www.wired.com/story/john-hardy-dementia-wired-health/</id>
+        <link href="https://www.wired.com/story/john-hardy-dementia-wired-health/"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Eye-Catching Indoor Garden Is 20 Percent Off Right Now]]></title>
+        <id>https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/</id>
+        <link href="https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers]]></title>
+        <id>https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/</id>
+        <link href="https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users]]></title>
+        <id>https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/</id>
+        <link href="https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta buys robotics startup to bolster its humanoid AI ambitions]]></title>
+        <id>https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/</id>
+        <link href="https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks]]></title>
         <id>https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/</id>
         <link href="https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/"/>
@@ -78,16 +92,58 @@
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Man dies covered in necrotic lesions after amoebas eat him alive]]></title>
-        <id>https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/</id>
-        <link href="https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/"/>
+        <title type="html"><![CDATA[uget – stupid get-file-over-HTTP program/function]]></title>
+        <id>https://github.com/troglobit/uget</id>
+        <link href="https://github.com/troglobit/uget"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stackless coroutines for gamedev in ~200 lines of C++]]></title>
-        <id>https://vittorioromeo.com/index/blog/sfex_coroutine.html</id>
-        <link href="https://vittorioromeo.com/index/blog/sfex_coroutine.html"/>
+        <title type="html"><![CDATA[NASA's Curiosity and Perseverance rovers capture Mars panoramas [video]]]></title>
+        <id>https://www.space.com/astronomy/mars/nasas-curiosity-and-perseverance-rovers-capture-sweeping-mars-panoramas-video</id>
+        <link href="https://www.space.com/astronomy/mars/nasas-curiosity-and-perseverance-rovers-capture-sweeping-mars-panoramas-video"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Report on Burnout in Open Source Software Communities (2025) [pdf]]]></title>
+        <id>https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf</id>
+        <link href="https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New v2 UALink specification aims to catch up to NVLink]]></title>
+        <id>https://www.networkworld.com/article/4155357/new-v2-ualink-specification-aims-to-catch-up-to-nvlink.html</id>
+        <link href="https://www.networkworld.com/article/4155357/new-v2-ualink-specification-aims-to-catch-up-to-nvlink.html"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Taste]]></title>
+        <id>https://endler.dev/2026/taste/</id>
+        <link href="https://endler.dev/2026/taste/"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palantir Workers Are Finally Noticing the Skulls on Their Caps]]></title>
+        <id>https://www.techdirt.com/2026/04/30/palantir-workers-are-finally-noticing-the-skulls-on-their-caps/</id>
+        <link href="https://www.techdirt.com/2026/04/30/palantir-workers-are-finally-noticing-the-skulls-on-their-caps/"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Companies Can't Regulate Themselves. They Should Regulate Each Other]]></title>
+        <id>https://www.lawfaremedia.org/article/ai-companies-can-t-regulate-themselves-they-should-regulate-each-other</id>
+        <link href="https://www.lawfaremedia.org/article/ai-companies-can-t-regulate-themselves-they-should-regulate-each-other"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Programmer's Guide to Common Lisp]]></title>
+        <id>https://archive.org/details/a-programmers-guide-to-common-lisp</id>
+        <link href="https://archive.org/details/a-programmers-guide-to-common-lisp"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
@@ -99,9 +155,16 @@
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Human In The Context — Why AI Systems Stall at Scale]]></title>
-        <id>https://pub.towardsai.net/human-in-the-context-why-ai-systems-stall-at-scale-7b83b29529cd?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/human-in-the-context-why-ai-systems-stall-at-scale-7b83b29529cd?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Stackless coroutines for gamedev in ~200 lines of C++]]></title>
+        <id>https://vittorioromeo.com/index/blog/sfex_coroutine.html</id>
+        <link href="https://vittorioromeo.com/index/blog/sfex_coroutine.html"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man dies covered in necrotic lesions after amoebas eat him alive]]></title>
+        <id>https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/</id>
+        <link href="https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
@@ -113,37 +176,37 @@
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering JavaScript in 2026: A Comprehensive and Practical Guide for Developers]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-comprehensive-and-practical-guide-for-developers-g78</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-comprehensive-and-practical-guide-for-developers-g78"/>
+        <title type="html"><![CDATA[Human In The Context — Why AI Systems Stall at Scale]]></title>
+        <id>https://pub.towardsai.net/human-in-the-context-why-ai-systems-stall-at-scale-7b83b29529cd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/human-in-the-context-why-ai-systems-stall-at-scale-7b83b29529cd?source=rss----98111c9905da---4"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Queue-Based Shopify Webhook Processing: Why It Matters and How to Build It]]></title>
+        <id>https://dev.to/masadashraf/queue-based-shopify-webhook-processing-why-it-matters-and-how-to-build-it-5gff</id>
+        <link href="https://dev.to/masadashraf/queue-based-shopify-webhook-processing-why-it-matters-and-how-to-build-it-5gff"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering React in 2026: A Comprehensive Guide for Developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/mastering-react-in-2026-a-comprehensive-guide-for-developers-28in</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-react-in-2026-a-comprehensive-guide-for-developers-28in"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-16b6</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-16b6"/>
+        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-44c1</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-44c1"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering JavaScript in 2026 A Practical Guide to Boosting Your Coding Skills]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-practical-guide-to-boosting-your-coding-skills-3bl3</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-practical-guide-to-boosting-your-coding-skills-3bl3"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automating React Router v6 to v7 Migration with AST Codemods]]></title>
-        <id>https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888</id>
-        <link href="https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Telegram Accounts Like a Pro (2026 Guide)]]></title>
-        <id>https://dev.to/monica_gibson_85cb3e666d3/buy-telegram-accounts-like-a-pro-2026-guide-15kn</id>
-        <link href="https://dev.to/monica_gibson_85cb3e666d3/buy-telegram-accounts-like-a-pro-2026-guide-15kn"/>
+        <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-1bpi</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-1bpi"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
@@ -155,30 +218,44 @@
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft wants lawyers to trust its new AI agent in Word documents]]></title>
-        <id>https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai</id>
-        <link href="https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Buy Telegram Accounts Like a Pro (2026 Guide)]]></title>
+        <id>https://dev.to/monica_gibson_85cb3e666d3/buy-telegram-accounts-like-a-pro-2026-guide-15kn</id>
+        <link href="https://dev.to/monica_gibson_85cb3e666d3/buy-telegram-accounts-like-a-pro-2026-guide-15kn"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes]]></title>
-        <id>https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico</id>
-        <link href="https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Automating React Router v6 to v7 Migration with AST Codemods]]></title>
+        <id>https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888</id>
+        <link href="https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The craziest part of Musk v. Altman happened while the jury was out of the room]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Mastering JavaScript in 2026 A Practical Guide to Boosting Your Coding Skills]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-practical-guide-to-boosting-your-coding-skills-3bl3</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-practical-guide-to-boosting-your-coding-skills-3bl3"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Christian content creators are outsourcing AI slop to gig workers on Fiverr]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop"/>
+        <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-16b6</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-16b6"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering JavaScript in 2026: A Comprehensive and Practical Guide for Developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-comprehensive-and-practical-guide-for-developers-g78</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-comprehensive-and-practical-guide-for-developers-g78"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
@@ -190,44 +267,30 @@
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia"/>
+        <title type="html"><![CDATA[Christian content creators are outsourcing AI slop to gig workers on Fiverr]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Treatment Could Reverse Osteoarthritis Joint Damage With a Single Injection]]></title>
-        <id>https://www.wired.com/story/osteoarthritis-joint-damage-single-injection-treatment/</id>
-        <link href="https://www.wired.com/story/osteoarthritis-joint-damage-single-injection-treatment/"/>
+        <title type="html"><![CDATA[The craziest part of Musk v. Altman happened while the jury was out of the room]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?]]></title>
-        <id>https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/</id>
-        <link href="https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/"/>
+        <title type="html"><![CDATA[Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes]]></title>
+        <id>https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico</id>
+        <link href="https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System]]></title>
-        <id>https://www.wired.com/story/daniel-davis-immunology-wired-health/</id>
-        <link href="https://www.wired.com/story/daniel-davis-immunology-wired-health/"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Luck Getting a Mac Mini for the Next ‘Several Months’]]></title>
-        <id>https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/</id>
-        <link href="https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soundcore Nebula P1 Projector Review (2026): Compact and Portable for Indoor-Outdoor Viewing]]></title>
-        <id>https://www.wired.com/review/soundcore-nebula-p1/</id>
-        <link href="https://www.wired.com/review/soundcore-nebula-p1/"/>
+        <title type="html"><![CDATA[Microsoft wants lawyers to trust its new AI agent in Word documents]]></title>
+        <id>https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai</id>
+        <link href="https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
@@ -239,37 +302,37 @@
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Musk v. Altman is just getting started]]></title>
-        <id>https://techcrunch.com/video/musk-v-altman-is-just-getting-started/</id>
-        <link href="https://techcrunch.com/video/musk-v-altman-is-just-getting-started/"/>
+        <title type="html"><![CDATA[Soundcore Nebula P1 Projector Review (2026): Compact and Portable for Indoor-Outdoor Viewing]]></title>
+        <id>https://www.wired.com/review/soundcore-nebula-p1/</id>
+        <link href="https://www.wired.com/review/soundcore-nebula-p1/"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too]]></title>
-        <id>https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/</id>
-        <link href="https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/"/>
+        <title type="html"><![CDATA[Good Luck Getting a Mac Mini for the Next ‘Several Months’]]></title>
+        <id>https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/</id>
+        <link href="https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting]]></title>
-        <id>https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/</id>
-        <link href="https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/"/>
+        <title type="html"><![CDATA[Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System]]></title>
+        <id>https://www.wired.com/story/daniel-davis-immunology-wired-health/</id>
+        <link href="https://www.wired.com/story/daniel-davis-immunology-wired-health/"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elon Musk testifies that xAI trained Grok on OpenAI models]]></title>
-        <id>https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/</id>
-        <link href="https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/"/>
+        <title type="html"><![CDATA[This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?]]></title>
+        <id>https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/</id>
+        <link href="https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stripe introduces Link, a digital wallet that autonomous AI agents can use, too]]></title>
-        <id>https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/</id>
-        <link href="https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/"/>
+        <title type="html"><![CDATA[This Treatment Could Reverse Osteoarthritis Joint Damage With a Single Injection]]></title>
+        <id>https://www.wired.com/story/osteoarthritis-joint-damage-single-injection-treatment/</id>
+        <link href="https://www.wired.com/story/osteoarthritis-joint-damage-single-injection-treatment/"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
@@ -281,86 +344,23 @@
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Stanzio, AI presentation tool that designs each slide as real HTML]]></title>
-        <id>https://stanzio.fly.dev/</id>
-        <link href="https://stanzio.fly.dev/"/>
+        <title type="html"><![CDATA[Stripe introduces Link, a digital wallet that autonomous AI agents can use, too]]></title>
+        <id>https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/</id>
+        <link href="https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bolt Graphics Targets FP64 HPC Workloads with Zeus GPU]]></title>
-        <id>https://www.hpcwire.com/2026/04/22/bolt-graphics-targets-fp64-hpc-workloads-with-zeus-gpu/</id>
-        <link href="https://www.hpcwire.com/2026/04/22/bolt-graphics-targets-fp64-hpc-workloads-with-zeus-gpu/"/>
+        <title type="html"><![CDATA[Elon Musk testifies that xAI trained Grok on OpenAI models]]></title>
+        <id>https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/</id>
+        <link href="https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft rolls out Xbox Mode, bringing a console-like experience to any PC]]></title>
-        <id>https://www.xda-developers.com/microsoft-rolls-out-xbox-mode-bringing-a-console-like-experience-to-any-pc/</id>
-        <link href="https://www.xda-developers.com/microsoft-rolls-out-xbox-mode-bringing-a-console-like-experience-to-any-pc/"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An AI reasoning system just discovered a candidate universal law in astrophysics]]></title>
-        <id>https://blankline.org/research/universal-bimodal-drift-rate</id>
-        <link href="https://blankline.org/research/universal-bimodal-drift-rate"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workflow Engine for Async Microservice Flows]]></title>
-        <id>https://littlehorse.io/blog/callbacks</id>
-        <link href="https://littlehorse.io/blog/callbacks"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: MappyMail – The cheapest way to send letters online]]></title>
-        <id>https://mappymail.com</id>
-        <link href="https://mappymail.com"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Art and War with a Master Storyteller]]></title>
-        <id>https://www.realcleardefense.com/articles/2026/05/01/art_and_war_with_a_master_storyteller_1179885.html</id>
-        <link href="https://www.realcleardefense.com/articles/2026/05/01/art_and_war_with_a_master_storyteller_1179885.html"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: LocalVQE: Tiny ~1M param audio model that cancels echo and noise]]></title>
-        <id>https://huggingface.co/spaces/LocalAI-io/LocalVQE-demo</id>
-        <link href="https://huggingface.co/spaces/LocalAI-io/LocalVQE-demo"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Completely horrible': UK job hunters share frustration with AI interviews]]></title>
-        <id>https://www.theguardian.com/technology/2026/may/01/uk-job-hunters-frustration-ai-interviews</id>
-        <link href="https://www.theguardian.com/technology/2026/may/01/uk-job-hunters-frustration-ai-interviews"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SlothDB a 5X Faster Alternative to DuckDB, ClickHouse DB]]></title>
-        <id>https://news.ycombinator.com/item?id=47971921</id>
-        <link href="https://news.ycombinator.com/item?id=47971921"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Connected to Apple Car Play and Android Auto [video]]]></title>
-        <id>https://www.youtube.com/shorts/edA00WNhNwM</id>
-        <link href="https://www.youtube.com/shorts/edA00WNhNwM"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta's Big Tobacco PR Tactics]]></title>
-        <id>https://yadin.com/notes/toasted/</id>
-        <link href="https://yadin.com/notes/toasted/"/>
+        <title type="html"><![CDATA[EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting]]></title>
+        <id>https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/</id>
+        <link href="https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/"/>
         <updated>2026-04-30T16:00:00.000Z</updated>
         <published>2026-04-30T16:00:00.000Z</published>
     </entry>
