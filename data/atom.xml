@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-02T02:02:07.789Z</updated>
+    <updated>2026-05-02T04:02:09.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -92,100 +92,44 @@
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Job Postings for Software Engineers Are Rapidly Rising]]></title>
-        <id>https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/</id>
-        <link href="https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/"/>
+        <title type="html"><![CDATA[Hyperscalers are buying all the chips to then rent them to us later]]></title>
+        <id>https://news.ycombinator.com/item?id=47983138</id>
+        <link href="https://news.ycombinator.com/item?id=47983138"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Footbinding Persisted in China for a Millennium (2015)]]></title>
-        <id>https://www.smithsonianmag.com/history/why-footbinding-persisted-china-millennium-180953971/</id>
-        <link href="https://www.smithsonianmag.com/history/why-footbinding-persisted-china-millennium-180953971/"/>
+        <title type="html"><![CDATA[The new Run dialog: faster, cleaner, and more capable]]></title>
+        <id>https://devblogs.microsoft.com/commandline/the-new-run-dialog-faster-cleaner-and-more-capable/</id>
+        <link href="https://devblogs.microsoft.com/commandline/the-new-run-dialog-faster-cleaner-and-more-capable/"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Echon – A privacy-first Discord alternative built in Tauri/Rust]]></title>
-        <id>https://echon-voice.com</id>
-        <link href="https://echon-voice.com"/>
+        <title type="html"><![CDATA[A contribution to solving the existential anxiety problem of AI hallucinations]]></title>
+        <id>https://zenodo.org/records/19608960</id>
+        <link href="https://zenodo.org/records/19608960"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: MemHub, Turn Your GPT/Claude/Gemini History into LLM-Wiki Mindmap]]></title>
-        <id>https://github.com/XTraceAI/memhub-llm-wiki-guide</id>
-        <link href="https://github.com/XTraceAI/memhub-llm-wiki-guide"/>
+        <title type="html"><![CDATA[CSS Reboot Day (May 1, 2026)]]></title>
+        <id>https://holidaytoday.org/css-reboot-day/</id>
+        <link href="https://holidaytoday.org/css-reboot-day/"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kubernetes Secret Extraction via ArgoCD ServerSideDiff]]></title>
-        <id>https://github.com/argoproj/argo-cd/security/advisories/GHSA-3v3m-wc6v-x4x3</id>
-        <link href="https://github.com/argoproj/argo-cd/security/advisories/GHSA-3v3m-wc6v-x4x3"/>
+        <title type="html"><![CDATA[An Unreleased Lyme Disease Vaccine Is Sparking False Conspiracy Theories]]></title>
+        <id>https://www.motherjones.com/politics/2026/05/lyme-disease-vaccine-conspiracy/</id>
+        <link href="https://www.motherjones.com/politics/2026/05/lyme-disease-vaccine-conspiracy/"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Man dies covered in necrotic lesions after amoebas eat him alive]]></title>
-        <id>https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/</id>
-        <link href="https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stackless coroutines for gamedev in ~200 lines of C++]]></title>
-        <id>https://vittorioromeo.com/index/blog/sfex_coroutine.html</id>
-        <link href="https://vittorioromeo.com/index/blog/sfex_coroutine.html"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Single bash command to find the best matching HN jobs]]></title>
-        <id>https://news.ycombinator.com/item?id=47980706</id>
-        <link href="https://news.ycombinator.com/item?id=47980706"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Programmer's Guide to Common Lisp]]></title>
-        <id>https://archive.org/details/a-programmers-guide-to-common-lisp</id>
-        <link href="https://archive.org/details/a-programmers-guide-to-common-lisp"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Companies Can't Regulate Themselves. They Should Regulate Each Other]]></title>
-        <id>https://www.lawfaremedia.org/article/ai-companies-can-t-regulate-themselves-they-should-regulate-each-other</id>
-        <link href="https://www.lawfaremedia.org/article/ai-companies-can-t-regulate-themselves-they-should-regulate-each-other"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palantir Workers Are Finally Noticing the Skulls on Their Caps]]></title>
-        <id>https://www.techdirt.com/2026/04/30/palantir-workers-are-finally-noticing-the-skulls-on-their-caps/</id>
-        <link href="https://www.techdirt.com/2026/04/30/palantir-workers-are-finally-noticing-the-skulls-on-their-caps/"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Taste]]></title>
-        <id>https://endler.dev/2026/taste/</id>
-        <link href="https://endler.dev/2026/taste/"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New v2 UALink specification aims to catch up to NVLink]]></title>
-        <id>https://www.networkworld.com/article/4155357/new-v2-ualink-specification-aims-to-catch-up-to-nvlink.html</id>
-        <link href="https://www.networkworld.com/article/4155357/new-v2-ualink-specification-aims-to-catch-up-to-nvlink.html"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Report on Burnout in Open Source Software Communities (2025) [pdf]]]></title>
-        <id>https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf</id>
-        <link href="https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf"/>
+        <title type="html"><![CDATA[uget – stupid get-file-over-HTTP program/function]]></title>
+        <id>https://github.com/troglobit/uget</id>
+        <link href="https://github.com/troglobit/uget"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
@@ -197,9 +141,100 @@
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[uget – stupid get-file-over-HTTP program/function]]></title>
-        <id>https://github.com/troglobit/uget</id>
-        <link href="https://github.com/troglobit/uget"/>
+        <title type="html"><![CDATA[A Report on Burnout in Open Source Software Communities (2025) [pdf]]]></title>
+        <id>https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf</id>
+        <link href="https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New v2 UALink specification aims to catch up to NVLink]]></title>
+        <id>https://www.networkworld.com/article/4155357/new-v2-ualink-specification-aims-to-catch-up-to-nvlink.html</id>
+        <link href="https://www.networkworld.com/article/4155357/new-v2-ualink-specification-aims-to-catch-up-to-nvlink.html"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Taste]]></title>
+        <id>https://endler.dev/2026/taste/</id>
+        <link href="https://endler.dev/2026/taste/"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palantir Workers Are Finally Noticing the Skulls on Their Caps]]></title>
+        <id>https://www.techdirt.com/2026/04/30/palantir-workers-are-finally-noticing-the-skulls-on-their-caps/</id>
+        <link href="https://www.techdirt.com/2026/04/30/palantir-workers-are-finally-noticing-the-skulls-on-their-caps/"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Companies Can't Regulate Themselves. They Should Regulate Each Other]]></title>
+        <id>https://www.lawfaremedia.org/article/ai-companies-can-t-regulate-themselves-they-should-regulate-each-other</id>
+        <link href="https://www.lawfaremedia.org/article/ai-companies-can-t-regulate-themselves-they-should-regulate-each-other"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Programmer's Guide to Common Lisp]]></title>
+        <id>https://archive.org/details/a-programmers-guide-to-common-lisp</id>
+        <link href="https://archive.org/details/a-programmers-guide-to-common-lisp"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Single bash command to find the best matching HN jobs]]></title>
+        <id>https://news.ycombinator.com/item?id=47980706</id>
+        <link href="https://news.ycombinator.com/item?id=47980706"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stackless coroutines for gamedev in ~200 lines of C++]]></title>
+        <id>https://vittorioromeo.com/index/blog/sfex_coroutine.html</id>
+        <link href="https://vittorioromeo.com/index/blog/sfex_coroutine.html"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man dies covered in necrotic lesions after amoebas eat him alive]]></title>
+        <id>https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/</id>
+        <link href="https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Secret Extraction via ArgoCD ServerSideDiff]]></title>
+        <id>https://github.com/argoproj/argo-cd/security/advisories/GHSA-3v3m-wc6v-x4x3</id>
+        <link href="https://github.com/argoproj/argo-cd/security/advisories/GHSA-3v3m-wc6v-x4x3"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: MemHub, Turn Your GPT/Claude/Gemini History into LLM-Wiki Mindmap]]></title>
+        <id>https://github.com/XTraceAI/memhub-llm-wiki-guide</id>
+        <link href="https://github.com/XTraceAI/memhub-llm-wiki-guide"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Echon – A privacy-first Discord alternative built in Tauri/Rust]]></title>
+        <id>https://echon-voice.com</id>
+        <link href="https://echon-voice.com"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Footbinding Persisted in China for a Millennium (2015)]]></title>
+        <id>https://www.smithsonianmag.com/history/why-footbinding-persisted-china-millennium-180953971/</id>
+        <link href="https://www.smithsonianmag.com/history/why-footbinding-persisted-china-millennium-180953971/"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job Postings for Software Engineers Are Rapidly Rising]]></title>
+        <id>https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/</id>
+        <link href="https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
@@ -218,107 +253,51 @@
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-43ko</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-43ko"/>
+        <title type="html"><![CDATA["10 Free Websites to Learn JavaScript in 2026"]]></title>
+        <id>https://dev.to/devraj_singh7/10-free-websites-to-learn-javascript-in-2026-481h</id>
+        <link href="https://dev.to/devraj_singh7/10-free-websites-to-learn-javascript-in-2026-481h"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What %20, %3F, and %26 Mean in a URL — URL Encoding Explained Simply]]></title>
+        <id>https://dev.to/shaishav_patel_271fdcd61a/what-20-3f-and-26-mean-in-a-url-url-encoding-explained-simply-430d</id>
+        <link href="https://dev.to/shaishav_patel_271fdcd61a/what-20-3f-and-26-mean-in-a-url-url-encoding-explained-simply-430d"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebP vs AVIF vs HEIC: The Real-World Image Format Comparison (2026)]]></title>
+        <id>https://dev.to/cc_quickconv_ff5b94a1d015/webp-vs-avif-vs-heic-the-real-world-image-format-comparison-2026-14bd</id>
+        <link href="https://dev.to/cc_quickconv_ff5b94a1d015/webp-vs-avif-vs-heic-the-real-world-image-format-comparison-2026-14bd"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-fip</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-fip"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing a Custom Logger for High-Volume JavaScript Applications]]></title>
-        <id>https://dev.to/omriluz1/implementing-a-custom-logger-for-high-volume-javascript-applications-5l8</id>
-        <link href="https://dev.to/omriluz1/implementing-a-custom-logger-for-high-volume-javascript-applications-5l8"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite 8 + Rolldown Complete Guide — Ending the esbuild·Rollup Dual-Bundler Era with a Single Rust Bundler and the Oxc Toolchain]]></title>
-        <id>https://dev.to/x4nent/vite-8-rolldown-complete-guide-ending-the-esbuildrollup-dual-bundler-era-with-a-single-rust-m4j</id>
-        <link href="https://dev.to/x4nent/vite-8-rolldown-complete-guide-ending-the-esbuildrollup-dual-bundler-era-with-a-single-rust-m4j"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Authorization Middleware for Express.js Applications]]></title>
-        <id>https://dev.to/137foundry/how-to-write-authorization-middleware-for-expressjs-applications-4kkb</id>
-        <link href="https://dev.to/137foundry/how-to-write-authorization-middleware-for-expressjs-applications-4kkb"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js vs Vite in 2026: What you should actually use]]></title>
-        <id>https://dev.to/apollo_ag/nextjs-vs-vite-in-2026-what-you-should-actually-use-334o</id>
-        <link href="https://dev.to/apollo_ag/nextjs-vs-vite-in-2026-what-you-should-actually-use-334o"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering JavaScript in 2026: A Comprehensive and Practical Guide for Developers]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-comprehensive-and-practical-guide-for-developers-g78</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-comprehensive-and-practical-guide-for-developers-g78"/>
+        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-4c1h</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-4c1h"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-16b6</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-16b6"/>
+        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-3i2e</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-3i2e"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering JavaScript in 2026 A Practical Guide to Boosting Your Coding Skills]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-practical-guide-to-boosting-your-coding-skills-3bl3</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-practical-guide-to-boosting-your-coding-skills-3bl3"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automating React Router v6 to v7 Migration with AST Codemods]]></title>
-        <id>https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888</id>
-        <link href="https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Telegram Accounts Like a Pro (2026 Guide)]]></title>
-        <id>https://dev.to/monica_gibson_85cb3e666d3/buy-telegram-accounts-like-a-pro-2026-guide-15kn</id>
-        <link href="https://dev.to/monica_gibson_85cb3e666d3/buy-telegram-accounts-like-a-pro-2026-guide-15kn"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Formatear y validar JSON en JavaScript: JSON.stringify(), errores comunes y casos límite]]></title>
-        <id>https://dev.to/toolrapido/formatear-y-validar-json-en-javascript-jsonstringify-errores-comunes-y-casos-limite-2c6c</id>
-        <link href="https://dev.to/toolrapido/formatear-y-validar-json-en-javascript-jsonstringify-errores-comunes-y-casos-limite-2c6c"/>
+        <title type="html"><![CDATA[Mastering JavaScript in 2026: A Comprehensive Guide for Developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-comprehensive-guide-for-developers-15cm</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-comprehensive-guide-for-developers-15cm"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-1bpi</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-1bpi"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-44c1</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-44c1"/>
-        <updated>2026-05-01T16:00:00.000Z</updated>
-        <published>2026-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering React in 2026: A Comprehensive Guide for Developers]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/mastering-react-in-2026-a-comprehensive-guide-for-developers-28in</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-react-in-2026-a-comprehensive-guide-for-developers-28in"/>
+        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-50hc</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-50hc"/>
         <updated>2026-05-01T16:00:00.000Z</updated>
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
@@ -330,38 +309,59 @@
         <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Mastering React in 2026: A Comprehensive Guide for Developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/mastering-react-in-2026-a-comprehensive-guide-for-developers-28in</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-react-in-2026-a-comprehensive-guide-for-developers-28in"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your guide to sci-fi streaming season]]></title>
-        <id>https://www.theverge.com/tech/921610/sci-fi-streaming-shows-2026</id>
-        <link href="https://www.theverge.com/tech/921610/sci-fi-streaming-shows-2026"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-44c1</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-44c1"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Christian content creators are outsourcing AI slop to gig workers on Fiverr]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-1bpi</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-1bpi"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The craziest part of Musk v. Altman happened while the jury was out of the room]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Formatear y validar JSON en JavaScript: JSON.stringify(), errores comunes y casos límite]]></title>
+        <id>https://dev.to/toolrapido/formatear-y-validar-json-en-javascript-jsonstringify-errores-comunes-y-casos-limite-2c6c</id>
+        <link href="https://dev.to/toolrapido/formatear-y-validar-json-en-javascript-jsonstringify-errores-comunes-y-casos-limite-2c6c"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes]]></title>
-        <id>https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico</id>
-        <link href="https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico"/>
-        <updated>2026-04-30T16:00:00.000Z</updated>
-        <published>2026-04-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Buy Telegram Accounts Like a Pro (2026 Guide)]]></title>
+        <id>https://dev.to/monica_gibson_85cb3e666d3/buy-telegram-accounts-like-a-pro-2026-guide-15kn</id>
+        <link href="https://dev.to/monica_gibson_85cb3e666d3/buy-telegram-accounts-like-a-pro-2026-guide-15kn"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating React Router v6 to v7 Migration with AST Codemods]]></title>
+        <id>https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888</id>
+        <link href="https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering JavaScript in 2026 A Practical Guide to Boosting Your Coding Skills]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-practical-guide-to-boosting-your-coding-skills-3bl3</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-practical-guide-to-boosting-your-coding-skills-3bl3"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-16b6</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-16b6"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <published>2026-05-01T16:00:00.000Z</published>
     </entry>
 </feed>
