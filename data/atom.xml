@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-03T15:01:38.610Z</updated>
+    <updated>2026-05-03T22:00:55.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,114 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Meta&#8217;s historic loss in court could cost a lot more than $375 million]]></title>
-        <id>https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety</id>
-        <link href="https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety"/>
+        <title type="html"><![CDATA[‘This is fine’ creator says AI startup stole his art]]></title>
+        <id>https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/</id>
+        <link href="https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Long Road To Windows 95 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=u8k66A9n8gE</id>
+        <link href="https://www.youtube.com/watch?v=u8k66A9n8gE"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transport access reduces deprivation: When colocation misleads]]></title>
+        <id>https://pnas.scienceconnect.io/error?msg=ewogICJpZCIgOiAiNmU3ZTA0MTEtMWQ1Yi00NDhjLTg0MDgtZGE4NjI4Nzc1NDI2IiwKICAidGl0bGUiIDogIkVycm9yIiwKICAibWVzc2FnZSIgOiAiY29tLm5pbWJ1c2RzLm9hdXRoMi5zZGsuUGFyc2VFeGNlcHRpb246IFRoZSBzY29wZSBtdXN0IGluY2x1ZGUgYW4gb3BlbmlkIHZhbHVlIiwKICAiY29kZSIgOiAiR0VORVJBTF9FUlJPUiIKfQ==&amp;errorCode=500-feb</id>
+        <link href="https://pnas.scienceconnect.io/error?msg=ewogICJpZCIgOiAiNmU3ZTA0MTEtMWQ1Yi00NDhjLTg0MDgtZGE4NjI4Nzc1NDI2IiwKICAidGl0bGUiIDogIkVycm9yIiwKICAibWVzc2FnZSIgOiAiY29tLm5pbWJ1c2RzLm9hdXRoMi5zZGsuUGFyc2VFeGNlcHRpb246IFRoZSBzY29wZSBtdXN0IGluY2x1ZGUgYW4gb3BlbmlkIHZhbHVlIiwKICAiY29kZSIgOiAiR0VORVJBTF9FUlJPUiIKfQ==&amp;errorCode=500-feb"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists Gave Cocaine to Salmon]]></title>
+        <id>https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/</id>
+        <link href="https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shipping todometer, Version 3]]></title>
+        <id>https://cassidoo.co/post/todometer-v3/</id>
+        <link href="https://cassidoo.co/post/todometer-v3/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a daily AI news brief in 325 lines of Python]]></title>
+        <id>https://gist.github.com/Agentic-Intel/33fa978b281667bf0852d33f146c4528</id>
+        <link href="https://gist.github.com/Agentic-Intel/33fa978b281667bf0852d33f146c4528"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xAI Is Reportedly Using Just 11% of Its 550k Nvidia GPUs]]></title>
+        <id>https://wccftech.com/xai-using-just-11-percent-gpus-while-meta-google-squeeze-out-much-more/</id>
+        <link href="https://wccftech.com/xai-using-just-11-percent-gpus-while-meta-google-squeeze-out-much-more/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linear Regression: Statistical vs Machine Learning View]]></title>
+        <id>https://pub.towardsai.net/linear-regression-statistical-vs-machine-learning-view-b157a1efeb3e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/linear-regression-statistical-vs-machine-learning-view-b157a1efeb3e?source=rss----98111c9905da---4"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWeatherMap API for Browser Extensions: A Practical Guide]]></title>
+        <id>https://dev.to/weatherclockdash/openweathermap-api-for-browser-extensions-a-practical-guide-5m7</id>
+        <link href="https://dev.to/weatherclockdash/openweathermap-api-for-browser-extensions-a-practical-guide-5m7"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Lessons I Learned Building a Firefox New Tab Extension from Scratch]]></title>
+        <id>https://dev.to/weatherclockdash/5-lessons-i-learned-building-a-firefox-new-tab-extension-from-scratch-1720</id>
+        <link href="https://dev.to/weatherclockdash/5-lessons-i-learned-building-a-firefox-new-tab-extension-from-scratch-1720"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Search Crawlers Are Curl From 1998, Not Chrome. Your SPA Is Invisible and Here Is the Mechanism.]]></title>
+        <id>https://dev.to/cihangir_bozdogan_76b8c99/ai-search-crawlers-are-curl-from-1998-not-chrome-your-spa-is-invisible-and-here-is-the-mechanism-2pgg</id>
+        <link href="https://dev.to/cihangir_bozdogan_76b8c99/ai-search-crawlers-are-curl-from-1998-not-chrome-your-spa-is-invisible-and-here-is-the-mechanism-2pgg"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[# Introducing Conté UI - A New Dynamic CSS System for Advanced Styling]]></title>
+        <id>https://dev.to/conte-ui/-introducing-conte-ui-a-dynamic-css-system-for-advanced-styling-4ejj</id>
+        <link href="https://dev.to/conte-ui/-introducing-conte-ui-a-dynamic-css-system-for-advanced-styling-4ejj"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes a Good Browser Extension? Lessons from Building One]]></title>
+        <id>https://dev.to/weatherclockdash/what-makes-a-good-browser-extension-lessons-from-building-one-5e66</id>
+        <link href="https://dev.to/weatherclockdash/what-makes-a-good-browser-extension-lessons-from-building-one-5e66"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Firefox New Tab Extension: From Idea to AMO Publishing]]></title>
+        <id>https://dev.to/weatherclockdash/building-a-firefox-new-tab-extension-from-idea-to-amo-publishing-4hc</id>
+        <link href="https://dev.to/weatherclockdash/building-a-firefox-new-tab-extension-from-idea-to-amo-publishing-4hc"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reggie Fils-Aimé says Amazon once asked Nintendo to break the law]]></title>
+        <id>https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal</id>
+        <link href="https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These reusable digital Polaroids are a clever way to cover a fridge in memories]]></title>
+        <id>https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on</id>
+        <link href="https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
@@ -29,9 +134,9 @@
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These reusable digital Polaroids are a clever way to cover a fridge in memories]]></title>
-        <id>https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on</id>
-        <link href="https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on"/>
+        <title type="html"><![CDATA[Meta&#8217;s historic loss in court could cost a lot more than $375 million]]></title>
+        <id>https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety</id>
+        <link href="https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
@@ -71,13 +176,6 @@
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This tiny, magnetic e-reader could stop you from doomscrolling]]></title>
-        <id>https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/</id>
-        <link href="https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027]]></title>
         <id>https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/</id>
         <link href="https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/"/>
@@ -85,268 +183,23 @@
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Hiddn Financial Bubble in AI Infrastructure [pdf]]]></title>
-        <id>https://financial-ai-bubble.pagey.site/The-Hidden-Financial-Bubble-in-AI-Infrastructure.pdf</id>
-        <link href="https://financial-ai-bubble.pagey.site/The-Hidden-Financial-Bubble-in-AI-Infrastructure.pdf"/>
+        <title type="html"><![CDATA[This tiny, magnetic e-reader could stop you from doomscrolling]]></title>
+        <id>https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/</id>
+        <link href="https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Servers with Personality]]></title>
-        <id>https://caolan.uk/links/servers/</id>
-        <link href="https://caolan.uk/links/servers/"/>
+        <title type="html"><![CDATA[Does APL Need a Type System? (2018) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=z8MVKianh54</id>
+        <link href="https://www.youtube.com/watch?v=z8MVKianh54"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The text mode lie: why modern TUIs are a nightmare for accessibility]]></title>
-        <id>https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility</id>
-        <link href="https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transmute – a self-hosted file converter with a web UI and REST API]]></title>
-        <id>https://github.com/transmute-app/transmute</id>
-        <link href="https://github.com/transmute-app/transmute"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZenTTY – A terminal that gets out of your way]]></title>
-        <id>https://zentty.org/</id>
-        <link href="https://zentty.org/"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI coding tool config problem is getting worse, not better]]></title>
-        <id>https://github.com/sampleXbro/agentsmesh</id>
-        <link href="https://github.com/sampleXbro/agentsmesh"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FDA Clearance of IND Application for ER-100 in Optic Neuropathies]]></title>
-        <id>https://www.lifebiosciences.com/life-biosciences-announces-fda-clearance-of-ind-application-for-er-100-in-optic-neuropathies/</id>
-        <link href="https://www.lifebiosciences.com/life-biosciences-announces-fda-clearance-of-ind-application-for-er-100-in-optic-neuropathies/"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evaluating ER-100 for Safety in People with Glaucoma or Optic Nerve Conditions]]></title>
-        <id>https://clinicaltrials.gov/study/NCT07290244</id>
-        <link href="https://clinicaltrials.gov/study/NCT07290244"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artisan (YC W24) uses AI to rip off "This is Fine" artist for ad]]></title>
-        <id>https://bsky.app/profile/kcg.bsky.social/post/3mkwcpx45q223</id>
-        <link href="https://bsky.app/profile/kcg.bsky.social/post/3mkwcpx45q223"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Wrote Ultralearning. This Is What I'd Change Because of AI]]></title>
-        <id>https://www.scotthyoung.com/blog/2026/04/29/ultralearning-ai/</id>
-        <link href="https://www.scotthyoung.com/blog/2026/04/29/ultralearning-ai/"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Like science fiction': How a new wave of immunotherapy is eliminating cancers]]></title>
-        <id>https://www.bbc.com/future/article/20260410-how-a-new-wave-of-immunotherapy-is-eliminating-cancers</id>
-        <link href="https://www.bbc.com/future/article/20260410-how-a-new-wave-of-immunotherapy-is-eliminating-cancers"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spirit Airlines' Abandoned Azure Booking APIs and Exposed Phishing Domains]]></title>
-        <id>https://braydenbte.substack.com/p/spirit-airlines-liquidation</id>
-        <link href="https://braydenbte.substack.com/p/spirit-airlines-liquidation"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Pressure Canceled Largest Digital Human Rights Conference]]></title>
-        <id>https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/</id>
-        <link href="https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spine – verified codebase onboarding for Claude Code]]></title>
-        <id>https://github.com/ahmedbutt2015/spine</id>
-        <link href="https://github.com/ahmedbutt2015/spine"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EaglePress - Python3 CMS to blog]]></title>
-        <id>https://postwits.com/post/eaglepress-cms-latest-version</id>
-        <link href="https://postwits.com/post/eaglepress-cms-latest-version"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mousetrapped]]></title>
-        <id>https://mousetrappedcomic.blog</id>
-        <link href="https://mousetrappedcomic.blog"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is locking people out. At Scale]]></title>
-        <id>https://conesible.de/wab/</id>
-        <link href="https://conesible.de/wab/"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VueBuds integrate low-res cameras and visual AI as a smart glasses alternative]]></title>
-        <id>https://spectrum.ieee.org/smart-earbuds-smart-glasses-privacy</id>
-        <link href="https://spectrum.ieee.org/smart-earbuds-smart-glasses-privacy"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pentagon strikes deals with 7 Big Tech companies after shunning Anthropic]]></title>
-        <id>https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic</id>
-        <link href="https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last few hours until Unix Epoch 1777777777]]></title>
-        <id>https://www.epoch101.com/epochclock</id>
-        <link href="https://www.epoch101.com/epochclock"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mistral Medium 3.5 YaRN bug fix]]></title>
-        <id>https://huggingface.co/mistralai/Mistral-Medium-3.5-128B/discussions/18</id>
-        <link href="https://huggingface.co/mistralai/Mistral-Medium-3.5-128B/discussions/18"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Headcam - head tracking & streaming app (iOS) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=s8khQ_-6aM8</id>
-        <link href="https://www.youtube.com/watch?v=s8khQ_-6aM8"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Government Just Got Largest Digital Rights Conference Canceled]]></title>
-        <id>https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/</id>
-        <link href="https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clojurists Together – Q2 2026 Open Source Funding Announcement]]></title>
-        <id>https://www.clojuriststogether.org/news/q2-2026-funding-announcement/</id>
-        <link href="https://www.clojuriststogether.org/news/q2-2026-funding-announcement/"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[talkie-coder: From 1930 to SWE-bench]]></title>
-        <id>https://github.com/RicardoDominguez/talkie-coder</id>
-        <link href="https://github.com/RicardoDominguez/talkie-coder"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Martian Glaciers with Drones]]></title>
-        <id>https://nautil.us/uncovering-hidden-martian-glaciers-with-drones-1280400</id>
-        <link href="https://nautil.us/uncovering-hidden-martian-glaciers-with-drones-1280400"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NovAST]]></title>
-        <id>https://github.com/sharkkyyy10/NovAST</id>
-        <link href="https://github.com/sharkkyyy10/NovAST"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Built this for my civil engineering firm's static site on Cloudflare Pages]]></title>
-        <id>https://github.com/bwengr/knowledge-base-spec</id>
-        <link href="https://github.com/bwengr/knowledge-base-spec"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Falcon 9 rocket will hit the Moon this summer at 7 times the speed of sound]]></title>
-        <id>https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/</id>
-        <link href="https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual Scrolling]]></title>
-        <id>https://www.nicbarker.com/virtual-scrolling</id>
-        <link href="https://www.nicbarker.com/virtual-scrolling"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wyoming celebrates 'nuclear Renaissance' as feds approve license for a reactor]]></title>
-        <id>https://text.npr.org/nx-s1-5798892</id>
-        <link href="https://text.npr.org/nx-s1-5798892"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ORBA: Orthogonal Reflection Bounded Ablation]]></title>
-        <id>https://huggingface.co/blog/grimjim/orthogonal-reflection-bounded-ablation</id>
-        <link href="https://huggingface.co/blog/grimjim/orthogonal-reflection-bounded-ablation"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Common Proof of the Riemann Hypothesis and the Collatz Conjecture]]></title>
-        <id>https://www.academia.edu/166172334/A_Common_Proof_of_the_Riemann_Hypothesis_and_the_Collatz_Conjecture_Echo_Interference_in_Number_Theoretic_Acoustic_Spacetime</id>
-        <link href="https://www.academia.edu/166172334/A_Common_Proof_of_the_Riemann_Hypothesis_and_the_Collatz_Conjecture_Echo_Interference_in_Number_Theoretic_Acoustic_Spacetime"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Nostr Will Win Where Mastodon and Bluesky Failed]]></title>
-        <id>https://primal.net/a/naddr1qvzqqqr4gupzqgycd7urua6ajmgc3jjunhcseekkz0swkljhdzs0pvftxlx6cgdnqq2hwvpnddt4zu2x2vcx5hmnwdx573jrxay5vllycxr</id>
-        <link href="https://primal.net/a/naddr1qvzqqqr4gupzqgycd7urua6ajmgc3jjunhcseekkz0swkljhdzs0pvftxlx6cgdnqq2hwvpnddt4zu2x2vcx5hmnwdx573jrxay5vllycxr"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training language models to be warm can reduce accuracy and increase sycophancy]]></title>
-        <id>https://www.nature.com/articles/s41586-026-10410-0</id>
-        <link href="https://www.nature.com/articles/s41586-026-10410-0"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reaching for the stars: enduring symbols of Soviet science in pictures]]></title>
-        <id>https://www.theguardian.com/artanddesign/gallery/2026/may/03/symbols-of-soviet-science-in-pictures</id>
-        <link href="https://www.theguardian.com/artanddesign/gallery/2026/may/03/symbols-of-soviet-science-in-pictures"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Netflix documentary reexamines Winnie Mandela's divisive legacy]]></title>
-        <id>https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela</id>
-        <link href="https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why do crabs walk sideways? Scientists trace it back 200M years]]></title>
-        <id>https://www.sciencedaily.com/releases/2026/05/260501052844.htm</id>
-        <link href="https://www.sciencedaily.com/releases/2026/05/260501052844.htm"/>
+        <title type="html"><![CDATA[ChatGPT Wrestles with Its Most Chilling Conversation: How Do I Plan an Attack?]]></title>
+        <id>https://www.wsj.com/us-news/chatgpt-mass-shooting-openai-78a436d1</id>
+        <link href="https://www.wsj.com/us-news/chatgpt-mass-shooting-openai-78a436d1"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
@@ -358,9 +211,156 @@
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT Wrestles with Its Most Chilling Conversation: How Do I Plan an Attack?]]></title>
-        <id>https://www.wsj.com/us-news/chatgpt-mass-shooting-openai-78a436d1</id>
-        <link href="https://www.wsj.com/us-news/chatgpt-mass-shooting-openai-78a436d1"/>
+        <title type="html"><![CDATA[Why do crabs walk sideways? Scientists trace it back 200M years]]></title>
+        <id>https://www.sciencedaily.com/releases/2026/05/260501052844.htm</id>
+        <link href="https://www.sciencedaily.com/releases/2026/05/260501052844.htm"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Netflix documentary reexamines Winnie Mandela's divisive legacy]]></title>
+        <id>https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela</id>
+        <link href="https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reaching for the stars: enduring symbols of Soviet science in pictures]]></title>
+        <id>https://www.theguardian.com/artanddesign/gallery/2026/may/03/symbols-of-soviet-science-in-pictures</id>
+        <link href="https://www.theguardian.com/artanddesign/gallery/2026/may/03/symbols-of-soviet-science-in-pictures"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training language models to be warm can reduce accuracy and increase sycophancy]]></title>
+        <id>https://www.nature.com/articles/s41586-026-10410-0</id>
+        <link href="https://www.nature.com/articles/s41586-026-10410-0"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Nostr Will Win Where Mastodon and Bluesky Failed]]></title>
+        <id>https://primal.net/a/naddr1qvzqqqr4gupzqgycd7urua6ajmgc3jjunhcseekkz0swkljhdzs0pvftxlx6cgdnqq2hwvpnddt4zu2x2vcx5hmnwdx573jrxay5vllycxr</id>
+        <link href="https://primal.net/a/naddr1qvzqqqr4gupzqgycd7urua6ajmgc3jjunhcseekkz0swkljhdzs0pvftxlx6cgdnqq2hwvpnddt4zu2x2vcx5hmnwdx573jrxay5vllycxr"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Common Proof of the Riemann Hypothesis and the Collatz Conjecture]]></title>
+        <id>https://www.academia.edu/166172334/A_Common_Proof_of_the_Riemann_Hypothesis_and_the_Collatz_Conjecture_Echo_Interference_in_Number_Theoretic_Acoustic_Spacetime</id>
+        <link href="https://www.academia.edu/166172334/A_Common_Proof_of_the_Riemann_Hypothesis_and_the_Collatz_Conjecture_Echo_Interference_in_Number_Theoretic_Acoustic_Spacetime"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ORBA: Orthogonal Reflection Bounded Ablation]]></title>
+        <id>https://huggingface.co/blog/grimjim/orthogonal-reflection-bounded-ablation</id>
+        <link href="https://huggingface.co/blog/grimjim/orthogonal-reflection-bounded-ablation"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wyoming celebrates 'nuclear Renaissance' as feds approve license for a reactor]]></title>
+        <id>https://text.npr.org/nx-s1-5798892</id>
+        <link href="https://text.npr.org/nx-s1-5798892"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual Scrolling]]></title>
+        <id>https://www.nicbarker.com/virtual-scrolling</id>
+        <link href="https://www.nicbarker.com/virtual-scrolling"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Falcon 9 rocket will hit the Moon this summer at 7 times the speed of sound]]></title>
+        <id>https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/</id>
+        <link href="https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Built this for my civil engineering firm's static site on Cloudflare Pages]]></title>
+        <id>https://github.com/bwengr/knowledge-base-spec</id>
+        <link href="https://github.com/bwengr/knowledge-base-spec"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NovAST]]></title>
+        <id>https://github.com/sharkkyyy10/NovAST</id>
+        <link href="https://github.com/sharkkyyy10/NovAST"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Martian Glaciers with Drones]]></title>
+        <id>https://nautil.us/uncovering-hidden-martian-glaciers-with-drones-1280400</id>
+        <link href="https://nautil.us/uncovering-hidden-martian-glaciers-with-drones-1280400"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[talkie-coder: From 1930 to SWE-bench]]></title>
+        <id>https://github.com/RicardoDominguez/talkie-coder</id>
+        <link href="https://github.com/RicardoDominguez/talkie-coder"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clojurists Together – Q2 2026 Open Source Funding Announcement]]></title>
+        <id>https://www.clojuriststogether.org/news/q2-2026-funding-announcement/</id>
+        <link href="https://www.clojuriststogether.org/news/q2-2026-funding-announcement/"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese Government Just Got Largest Digital Rights Conference Canceled]]></title>
+        <id>https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/</id>
+        <link href="https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Headcam - head tracking & streaming app (iOS) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=s8khQ_-6aM8</id>
+        <link href="https://www.youtube.com/watch?v=s8khQ_-6aM8"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistral Medium 3.5 YaRN bug fix]]></title>
+        <id>https://huggingface.co/mistralai/Mistral-Medium-3.5-128B/discussions/18</id>
+        <link href="https://huggingface.co/mistralai/Mistral-Medium-3.5-128B/discussions/18"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last few hours until Unix Epoch 1777777777]]></title>
+        <id>https://www.epoch101.com/epochclock</id>
+        <link href="https://www.epoch101.com/epochclock"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentagon strikes deals with 7 Big Tech companies after shunning Anthropic]]></title>
+        <id>https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic</id>
+        <link href="https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VueBuds integrate low-res cameras and visual AI as a smart glasses alternative]]></title>
+        <id>https://spectrum.ieee.org/smart-earbuds-smart-glasses-privacy</id>
+        <link href="https://spectrum.ieee.org/smart-earbuds-smart-glasses-privacy"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI is locking people out. At Scale]]></title>
+        <id>https://conesible.de/wab/</id>
+        <link href="https://conesible.de/wab/"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
