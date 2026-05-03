@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-03T02:01:03.634Z</updated>
+    <updated>2026-05-03T04:01:39.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -246,114 +246,107 @@
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Harness engineering: Preparing TypeScript codebases for coding agents]]></title>
-        <id>https://dev.to/zeyu2001/harness-engineering-preparing-typescript-codebases-for-coding-agents-5ad0</id>
-        <link href="https://dev.to/zeyu2001/harness-engineering-preparing-typescript-codebases-for-coding-agents-5ad0"/>
+        <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-pdg</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-pdg"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Convert JSON to YAML (and Back) Without Writing a Single Line of Code]]></title>
-        <id>https://dev.to/pioneer10/how-to-convert-json-to-yaml-and-back-without-writing-a-single-line-of-code-5655</id>
-        <link href="https://dev.to/pioneer10/how-to-convert-json-to-yaml-and-back-without-writing-a-single-line-of-code-5655"/>
+        <title type="html"><![CDATA[Mastering JavaScript in 2026: A Comprehensive and Practical Guide for Developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-comprehensive-and-practical-guide-for-developers-ei0</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-comprehensive-and-practical-guide-for-developers-ei0"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Query Nested JSON with JSONPath (Without Writing Loops)]]></title>
-        <id>https://dev.to/pioneer10/how-to-query-nested-json-with-jsonpath-without-writing-loops-4jpa</id>
-        <link href="https://dev.to/pioneer10/how-to-query-nested-json-with-jsonpath-without-writing-loops-4jpa"/>
+        <title type="html"><![CDATA[Mastering JavaScript in 2026: A Comprehensive Guide for Developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-comprehensive-guide-for-developers-5843</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-javascript-in-2026-a-comprehensive-guide-for-developers-5843"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Implementing Custom Debuggers and Profilers for JavaScript]]></title>
-        <id>https://dev.to/omriluz1/implementing-custom-debuggers-and-profilers-for-javascript-5fg1</id>
-        <link href="https://dev.to/omriluz1/implementing-custom-debuggers-and-profilers-for-javascript-5fg1"/>
+        <title type="html"><![CDATA[Mastering React in 2026: A Comprehensive Guide for Developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/mastering-react-in-2026-a-comprehensive-guide-for-developers-4p6e</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-react-in-2026-a-comprehensive-guide-for-developers-4p6e"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering React in 2026: A Comprehensive and Practical Guide for Developers]]></title>
+        <id>https://dev.to/orbit_websites_b004ed2787/mastering-react-in-2026-a-comprehensive-and-practical-guide-for-developers-1o7h</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/mastering-react-in-2026-a-comprehensive-and-practical-guide-for-developers-1o7h"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JSON to TypeScript Converter — free browser tool for developers]]></title>
-        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-5467</id>
-        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-5467"/>
+        <id>https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-4i3c</id>
+        <link href="https://dev.to/orbit_websites_b004ed2787/json-to-typescript-converter-free-browser-tool-for-developers-4i3c"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript GC: Pauses, Allocation Rate, Frontend Jank]]></title>
-        <id>https://dev.to/helloashish99/javascript-gc-pauses-allocation-rate-frontend-jank-3jig</id>
-        <link href="https://dev.to/helloashish99/javascript-gc-pauses-allocation-rate-frontend-jank-3jig"/>
+        <title type="html"><![CDATA[Migrating a legacy React app from webpack to Vite]]></title>
+        <id>https://dev.to/aoligama/migrating-a-legacy-react-app-from-webpack-to-vite-9kl</id>
+        <link href="https://dev.to/aoligama/migrating-a-legacy-react-app-from-webpack-to-vite-9kl"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making OAuth Testable: Rethinking OIDC Clients in JavaScript]]></title>
-        <id>https://dev.to/eugenioenko/making-oauth-testable-rethinking-oidc-clients-in-javascript-2i93</id>
-        <link href="https://dev.to/eugenioenko/making-oauth-testable-rethinking-oidc-clients-in-javascript-2i93"/>
+        <title type="html"><![CDATA[I built a Shopify app to bulk edit metaobjects — here's what broke]]></title>
+        <id>https://dev.to/curythm/i-built-a-shopify-app-to-bulk-edit-metaobjects-heres-what-broke-1gci</id>
+        <link href="https://dev.to/curythm/i-built-a-shopify-app-to-bulk-edit-metaobjects-heres-what-broke-1gci"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to integrate DeepSeek R1 into your React app]]></title>
-        <id>https://dev.to/apollo_ag/how-to-integrate-deepseek-r1-into-your-react-app-54m3</id>
-        <link href="https://dev.to/apollo_ag/how-to-integrate-deepseek-r1-into-your-react-app-54m3"/>
+        <title type="html"><![CDATA[Contrarian Opinion: JavaScript and TypeScript 5.6 Are Worse Than Python 3.14 for Scripting]]></title>
+        <id>https://dev.to/johalputt/contrarian-opinion-javascript-and-typescript-56-are-worse-than-python-314-for-scripting-3a4i</id>
+        <link href="https://dev.to/johalputt/contrarian-opinion-javascript-and-typescript-56-are-worse-than-python-314-for-scripting-3a4i"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8 Best Sites to Buy Verified Binance Accounts Instantly ...]]></title>
-        <id>https://dev.to/jisankhan0229966/8-best-sites-to-buy-verified-binance-accounts-instantly--1p7i</id>
-        <link href="https://dev.to/jisankhan0229966/8-best-sites-to-buy-verified-binance-accounts-instantly--1p7i"/>
+        <title type="html"><![CDATA[10 Best Sites to Buy Verified OKX Accounts Safely and ...]]></title>
+        <id>https://dev.to/jisankhan0229966/10-best-sites-to-buy-verified-okx-accounts-safely-and--4l39</id>
+        <link href="https://dev.to/jisankhan0229966/10-best-sites-to-buy-verified-okx-accounts-safely-and--4l39"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buy Verified Binance Accounts - Secure Crypto ...]]></title>
-        <id>https://dev.to/jisankhan0229966/buy-verified-binance-accounts-secure-crypto--27f9</id>
-        <link href="https://dev.to/jisankhan0229966/buy-verified-binance-accounts-secure-crypto--27f9"/>
+        <title type="html"><![CDATA[Buy Verified OKX Accounts | 100% Reliable & Safe ...]]></title>
+        <id>https://dev.to/jisankhan0229966/buy-verified-okx-accounts-100-reliable-safe--5g39</id>
+        <link href="https://dev.to/jisankhan0229966/buy-verified-okx-accounts-100-reliable-safe--5g39"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are We Overcomplicating React State? A Look at Valtio]]></title>
-        <id>https://dev.to/kensaadi/are-we-overcomplicating-react-state-a-look-at-valtio-3oh1</id>
-        <link href="https://dev.to/kensaadi/are-we-overcomplicating-react-state-a-look-at-valtio-3oh1"/>
+        <title type="html"><![CDATA[17 Best Sites to Buy Verified Mexc Accounts ...]]></title>
+        <id>https://dev.to/jisankhan0229966/17-best-sites-to-buy-verified-mexc-accounts--5en5</id>
+        <link href="https://dev.to/jisankhan0229966/17-best-sites-to-buy-verified-mexc-accounts--5en5"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buy Facebook 5 Star Ratings and Reviews]]></title>
-        <id>https://dev.to/jisankhan0229966/buy-facebook-5-star-ratings-and-reviews-3jod</id>
-        <link href="https://dev.to/jisankhan0229966/buy-facebook-5-star-ratings-and-reviews-3jod"/>
+        <title type="html"><![CDATA[The Ultimate Guide to Buying Verified MEXC Accounts]]></title>
+        <id>https://dev.to/jisankhan0229966/the-ultimate-guide-to-buying-verified-mexc-accounts-2jd8</id>
+        <link href="https://dev.to/jisankhan0229966/the-ultimate-guide-to-buying-verified-mexc-accounts-2jd8"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Using Firebase for Everything: Why I Switched to PostgreSQL (Supabase)]]></title>
-        <id>https://dev.to/stackbyujjwal/stop-using-firebase-for-everything-why-i-switched-to-postgresql-supabase-53ci</id>
-        <link href="https://dev.to/stackbyujjwal/stop-using-firebase-for-everything-why-i-switched-to-postgresql-supabase-53ci"/>
+        <title type="html"><![CDATA[The Trusted Yelp 'Elite' Reviewers Who Sell Their ...]]></title>
+        <id>https://dev.to/jisankhan0229966/the-trusted-yelp-elite-reviewers-who-sell-their--2f24</id>
+        <link href="https://dev.to/jisankhan0229966/the-trusted-yelp-elite-reviewers-who-sell-their--2f24"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9 Secure Ways to Buy BBB Reviews with Real Bio History ...]]></title>
-        <id>https://dev.to/jisankhan0229966/9-secure-ways-to-buy-bbb-reviews-with-real-bio-history--cjm</id>
-        <link href="https://dev.to/jisankhan0229966/9-secure-ways-to-buy-bbb-reviews-with-real-bio-history--cjm"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Negative Google Reviews The Truth, Risks & How to ...]]></title>
-        <id>https://dev.to/jisankhan0229966/buy-negative-google-reviews-the-truth-risks-how-to--2mja</id>
-        <link href="https://dev.to/jisankhan0229966/buy-negative-google-reviews-the-truth-risks-how-to--2mja"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Best Sites to Buy Negative Google Reviews]]></title>
-        <id>https://dev.to/jisankhan0229966/4-best-sites-to-buy-negative-google-reviews-37</id>
-        <link href="https://dev.to/jisankhan0229966/4-best-sites-to-buy-negative-google-reviews-37"/>
+        <title type="html"><![CDATA[Top 4 Sites to Buy Yelp Reviews (Elite)]]></title>
+        <id>https://dev.to/jisankhan0229966/top-4-sites-to-buy-yelp-reviews-elite-4gho</id>
+        <link href="https://dev.to/jisankhan0229966/top-4-sites-to-buy-yelp-reviews-elite-4gho"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
@@ -361,6 +354,13 @@
         <title type="html"><![CDATA[TestSprite: Review Teknis Mendalam untuk Developer Indonesia — Termasuk Isu Locale Handling]]></title>
         <id>https://dev.to/bajuriasadrgb/testsprite-review-teknis-mendalam-untuk-developer-indonesia-termasuk-isu-locale-handling-bbn</id>
         <link href="https://dev.to/bajuriasadrgb/testsprite-review-teknis-mendalam-untuk-developer-indonesia-termasuk-isu-locale-handling-bbn"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Best Sites to Buy Negative Google Reviews]]></title>
+        <id>https://dev.to/jisankhan0229966/4-best-sites-to-buy-negative-google-reviews-37</id>
+        <link href="https://dev.to/jisankhan0229966/4-best-sites-to-buy-negative-google-reviews-37"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
