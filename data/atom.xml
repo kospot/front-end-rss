@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-03T10:01:06.339Z</updated>
+    <updated>2026-05-03T13:01:52.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Meta&#8217;s historic loss in court could cost a lot more than $375 million]]></title>
-        <id>https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety</id>
-        <link href="https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety"/>
+        <title type="html"><![CDATA[These reusable digital Polaroids are a clever way to cover a fridge in memories]]></title>
+        <id>https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on</id>
+        <link href="https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
@@ -29,16 +29,23 @@
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KitchenAid Artisan Plus Stand Mixer Review: Tiny Additions, Big Difference]]></title>
-        <id>https://www.wired.com/review/kitchenaid-artisan-plus-stand-mixer/</id>
-        <link href="https://www.wired.com/review/kitchenaid-artisan-plus-stand-mixer/"/>
+        <title type="html"><![CDATA[Meta&#8217;s historic loss in court could cost a lot more than $375 million]]></title>
+        <id>https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety</id>
+        <link href="https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coway Airmega Mighty2 Review: The Sequel Is Better Than the Original]]></title>
-        <id>https://www.wired.com/review/coway-airmega-mighty2/</id>
-        <link href="https://www.wired.com/review/coway-airmega-mighty2/"/>
+        <title type="html"><![CDATA[Asus Zenbook A16 (2026) Review: Savor the Power, Ignore the Beige]]></title>
+        <id>https://www.wired.com/review/asus-zenbook-a16-2026/</id>
+        <link href="https://www.wired.com/review/asus-zenbook-a16-2026/"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Limited Time: TurboTax Full Service Coupons This May]]></title>
+        <id>https://www.wired.com/story/turbotax-coupon/</id>
+        <link href="https://www.wired.com/story/turbotax-coupon/"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
@@ -50,9 +57,23 @@
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Limited Time: TurboTax Full Service Coupons This May]]></title>
-        <id>https://www.wired.com/story/turbotax-coupon/</id>
-        <link href="https://www.wired.com/story/turbotax-coupon/"/>
+        <title type="html"><![CDATA[Coway Airmega Mighty2 Review: The Sequel Is Better Than the Original]]></title>
+        <id>https://www.wired.com/review/coway-airmega-mighty2/</id>
+        <link href="https://www.wired.com/review/coway-airmega-mighty2/"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KitchenAid Artisan Plus Stand Mixer Review: Tiny Additions, Big Difference]]></title>
+        <id>https://www.wired.com/review/kitchenaid-artisan-plus-stand-mixer/</id>
+        <link href="https://www.wired.com/review/kitchenaid-artisan-plus-stand-mixer/"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This tiny, magnetic e-reader could stop you from doomscrolling]]></title>
+        <id>https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/</id>
+        <link href="https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
@@ -323,37 +344,9 @@
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GraphRAG vs Vectorless RAG vs Vector RAG (A 2026 Guide to Advanced Context Engineering)]]></title>
-        <id>https://pub.towardsai.net/graphrag-vs-vectorless-rag-vs-vector-rag-a-2026-guide-to-advanced-context-engineering-e8e9264cab38?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/graphrag-vs-vectorless-rag-vs-vector-rag-a-2026-guide-to-advanced-context-engineering-e8e9264cab38?source=rss----98111c9905da---4"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Rebuilt Our Entire Architecture with Spring Boot & Kafka — The Unexpected Lessons I Learned]]></title>
-        <id>https://pub.towardsai.net/i-rebuilt-our-entire-architecture-with-spring-boot-and-kafka-the-unexpected-lessons-i-learned-43dc27376ac8?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-rebuilt-our-entire-architecture-with-spring-boot-and-kafka-the-unexpected-lessons-i-learned-43dc27376ac8?source=rss----98111c9905da---4"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to Fine-Tuning Foundation Models on AWS Sagemaker]]></title>
-        <id>https://pub.towardsai.net/the-ultimate-guide-to-fine-tuning-foundation-models-on-aws-sagemaker-efc673509bb2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-ultimate-guide-to-fine-tuning-foundation-models-on-aws-sagemaker-efc673509bb2?source=rss----98111c9905da---4"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Reranking Techniques in RAG: From Fast Retrieval to Accurate Context]]></title>
-        <id>https://pub.towardsai.net/5-reranking-techniques-in-rag-from-fast-retrieval-to-accurate-context-16f80a919c4e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/5-reranking-techniques-in-rag-from-fast-retrieval-to-accurate-context-16f80a919c4e?source=rss----98111c9905da---4"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Chronicle Lets Codex Read Your Screen to Build Memories]]></title>
-        <id>https://pub.towardsai.net/openai-chronicle-lets-codex-read-your-screen-to-build-memories-fc72468dfb72?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/openai-chronicle-lets-codex-read-your-screen-to-build-memories-fc72468dfb72?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[AI Kept Forgetting My Notes. Fixing That Taught Me How It Actually Works.]]></title>
+        <id>https://pub.towardsai.net/ai-kept-forgetting-my-notes-fixing-that-taught-me-how-it-actually-works-e08ff209403d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-kept-forgetting-my-notes-fixing-that-taught-me-how-it-actually-works-e08ff209403d?source=rss----98111c9905da---4"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
@@ -361,6 +354,13 @@
         <title type="html"><![CDATA[What Is Vectorless RAG? The Three-Stage Tree-and-Reasoning Architecture That Threw Out Embeddings]]></title>
         <id>https://pub.towardsai.net/what-is-vectorless-rag-the-three-stage-tree-and-reasoning-architecture-that-threw-out-embeddings-bdb8079af068?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/what-is-vectorless-rag-the-three-stage-tree-and-reasoning-architecture-that-threw-out-embeddings-bdb8079af068?source=rss----98111c9905da---4"/>
+        <updated>2026-05-02T16:00:00.000Z</updated>
+        <published>2026-05-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Chronicle Lets Codex Read Your Screen to Build Memories]]></title>
+        <id>https://pub.towardsai.net/openai-chronicle-lets-codex-read-your-screen-to-build-memories-fc72468dfb72?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openai-chronicle-lets-codex-read-your-screen-to-build-memories-fc72468dfb72?source=rss----98111c9905da---4"/>
         <updated>2026-05-02T16:00:00.000Z</updated>
         <published>2026-05-02T16:00:00.000Z</published>
     </entry>
