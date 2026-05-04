@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-04 21:01:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-04 23:03:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -24,3 +24,4 @@
 - [2026-04-16-Anthropic-shrugs-off-VC-funding-offers-valuing-it-at-$800B+,-for-now](https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/) 
 - [2026-04-10-ChatGPT-finally-offers-$100/month-Pro-plan](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/) 
 - [2026-04-07-AI-startup-Rocket-offers-vibe-McKinsey-style-reports-at-a-fraction-of-the-cost](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/) 
+- [2026-05-04-GameStop-makes-$56-billion-offer-to-acquire-eBay](https://www.theverge.com/games/922935/gamestop-ebay-bid) 
