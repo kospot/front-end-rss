@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-04T02:01:12.740Z</updated>
+    <updated>2026-05-04T04:01:18.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse]]></title>
+        <id>https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/</id>
+        <link href="https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘This is fine’ creator says AI startup stole his art]]></title>
         <id>https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/</id>
         <link href="https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"/>
@@ -22,128 +29,44 @@
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Checkpoint/Restore in Userspace (CRIU)]]></title>
-        <id>https://criu.org/Main_Page</id>
-        <link href="https://criu.org/Main_Page"/>
+        <title type="html"><![CDATA[Practical Electronics Course]]></title>
+        <id>https://practicingelectronics.com/practical-electronics-course/</id>
+        <link href="https://practicingelectronics.com/practical-electronics-course/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Shape of a Guitar Pick]]></title>
-        <id>https://www.johndcook.com/blog/2026/05/03/guitar-pick/</id>
-        <link href="https://www.johndcook.com/blog/2026/05/03/guitar-pick/"/>
+        <title type="html"><![CDATA[Humanoid Robot Actuators: The Complete Engineering Guide]]></title>
+        <id>https://www.firgelli.com/pages/humanoid-robot-actuators</id>
+        <link href="https://www.firgelli.com/pages/humanoid-robot-actuators"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists discover 27 potential new planets that orbit two stars]]></title>
-        <id>https://www.theguardian.com/science/2026/may/04/scientists-discover-27-potential-new-planets</id>
-        <link href="https://www.theguardian.com/science/2026/may/04/scientists-discover-27-potential-new-planets"/>
+        <title type="html"><![CDATA[BrowserQuest – Mozilla's HTML5 MMO is back]]></title>
+        <id>https://korben.info/browserquest-mmo-mozilla-html5-retour.html</id>
+        <link href="https://korben.info/browserquest-mmo-mozilla-html5-retour.html"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Think pop music is basic? Even classical and jazz are getting less complex]]></title>
-        <id>https://connectsci.au/news/news-parent/9259/Think-pop-music-is-basic-Even-classical-and-jazz</id>
-        <link href="https://connectsci.au/news/news-parent/9259/Think-pop-music-is-basic-Even-classical-and-jazz"/>
+        <title type="html"><![CDATA[Show HN: TTSC – TypeScript-Go compiler and runner with transform plugins]]></title>
+        <id>https://github.com/samchon/ttsc</id>
+        <link href="https://github.com/samchon/ttsc"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shoppers falsely identified by facial recognition system]]></title>
-        <id>https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name</id>
-        <link href="https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name"/>
+        <title type="html"><![CDATA[LegalEase – plain-English incorporation guidance for Canadian founders]]></title>
+        <id>https://legalease.dev/legalease.dev/</id>
+        <link href="https://legalease.dev/legalease.dev/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PicoServer: A glue library embedding web server for .NET, no IIS, no Kestrel]]></title>
-        <id>https://www.nuget.org/packages/PicoServer</id>
-        <link href="https://www.nuget.org/packages/PicoServer"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL databases are boring on purpose]]></title>
-        <id>https://stormatics.tech/blogs/the-best-postgresql-databases-are-boring-on-purpose</id>
-        <link href="https://stormatics.tech/blogs/the-best-postgresql-databases-are-boring-on-purpose"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Long Road To Windows 95 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=u8k66A9n8gE</id>
-        <link href="https://www.youtube.com/watch?v=u8k66A9n8gE"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transport access reduces deprivation: When colocation misleads]]></title>
-        <id>https://pnas.scienceconnect.io/error?msg=ewogICJpZCIgOiAiNmU3ZTA0MTEtMWQ1Yi00NDhjLTg0MDgtZGE4NjI4Nzc1NDI2IiwKICAidGl0bGUiIDogIkVycm9yIiwKICAibWVzc2FnZSIgOiAiY29tLm5pbWJ1c2RzLm9hdXRoMi5zZGsuUGFyc2VFeGNlcHRpb246IFRoZSBzY29wZSBtdXN0IGluY2x1ZGUgYW4gb3BlbmlkIHZhbHVlIiwKICAiY29kZSIgOiAiR0VORVJBTF9FUlJPUiIKfQ==&amp;errorCode=500-feb</id>
-        <link href="https://pnas.scienceconnect.io/error?msg=ewogICJpZCIgOiAiNmU3ZTA0MTEtMWQ1Yi00NDhjLTg0MDgtZGE4NjI4Nzc1NDI2IiwKICAidGl0bGUiIDogIkVycm9yIiwKICAibWVzc2FnZSIgOiAiY29tLm5pbWJ1c2RzLm9hdXRoMi5zZGsuUGFyc2VFeGNlcHRpb246IFRoZSBzY29wZSBtdXN0IGluY2x1ZGUgYW4gb3BlbmlkIHZhbHVlIiwKICAiY29kZSIgOiAiR0VORVJBTF9FUlJPUiIKfQ==&amp;errorCode=500-feb"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists Gave Cocaine to Salmon]]></title>
-        <id>https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/</id>
-        <link href="https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shipping todometer, Version 3]]></title>
-        <id>https://cassidoo.co/post/todometer-v3/</id>
-        <link href="https://cassidoo.co/post/todometer-v3/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a daily AI news brief in 325 lines of Python]]></title>
-        <id>https://gist.github.com/Agentic-Intel/33fa978b281667bf0852d33f146c4528</id>
-        <link href="https://gist.github.com/Agentic-Intel/33fa978b281667bf0852d33f146c4528"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xAI Is Reportedly Using Just 11% of Its 550k Nvidia GPUs]]></title>
-        <id>https://wccftech.com/xai-using-just-11-percent-gpus-while-meta-google-squeeze-out-much-more/</id>
-        <link href="https://wccftech.com/xai-using-just-11-percent-gpus-while-meta-google-squeeze-out-much-more/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H4ckf0r0day/obscura: The headless browser for AI agents and web scraping]]></title>
-        <id>https://github.com/h4ckf0r0day/obscura</id>
-        <link href="https://github.com/h4ckf0r0day/obscura"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three cruise ship passengers die in suspected hantavirus outbreak]]></title>
-        <id>https://www.reuters.com/business/healthcare-pharmaceuticals/three-passengers-dead-one-case-hantavirus-confirmed-atlantic-cruise-ship-who-2026-05-03/</id>
-        <link href="https://www.reuters.com/business/healthcare-pharmaceuticals/three-passengers-dead-one-case-hantavirus-confirmed-atlantic-cruise-ship-who-2026-05-03/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want to Watch button missing for movie searches]]></title>
-        <id>https://support.google.com/websearch/thread/414738182/want-to-watch-button-missing-for-movie-searches?hl=en</id>
-        <link href="https://support.google.com/websearch/thread/414738182/want-to-watch-button-missing-for-movie-searches?hl=en"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xAI (Grok) Text-to-Speech and Speech-to-Text Are Now Available in Puter.js]]></title>
-        <id>https://developer.puter.com/blog/xai-tts-stt-in-puter-js/</id>
-        <link href="https://developer.puter.com/blog/xai-tts-stt-in-puter-js/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ProteinView]]></title>
-        <id>https://github.com/001TMF/ProteinView</id>
-        <link href="https://github.com/001TMF/ProteinView"/>
+        <title type="html"><![CDATA[Why I Created phpc.tv]]></title>
+        <id>https://afilina.com/why-phpc-tv</id>
+        <link href="https://afilina.com/why-phpc-tv"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
@@ -155,9 +78,128 @@
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I Created phpc.tv]]></title>
-        <id>https://afilina.com/why-phpc-tv</id>
-        <link href="https://afilina.com/why-phpc-tv"/>
+        <title type="html"><![CDATA[ProteinView]]></title>
+        <id>https://github.com/001TMF/ProteinView</id>
+        <link href="https://github.com/001TMF/ProteinView"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xAI (Grok) Text-to-Speech and Speech-to-Text Are Now Available in Puter.js]]></title>
+        <id>https://developer.puter.com/blog/xai-tts-stt-in-puter-js/</id>
+        <link href="https://developer.puter.com/blog/xai-tts-stt-in-puter-js/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want to Watch button missing for movie searches]]></title>
+        <id>https://support.google.com/websearch/thread/414738182/want-to-watch-button-missing-for-movie-searches?hl=en</id>
+        <link href="https://support.google.com/websearch/thread/414738182/want-to-watch-button-missing-for-movie-searches?hl=en"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three cruise ship passengers die in suspected hantavirus outbreak]]></title>
+        <id>https://www.reuters.com/business/healthcare-pharmaceuticals/three-passengers-dead-one-case-hantavirus-confirmed-atlantic-cruise-ship-who-2026-05-03/</id>
+        <link href="https://www.reuters.com/business/healthcare-pharmaceuticals/three-passengers-dead-one-case-hantavirus-confirmed-atlantic-cruise-ship-who-2026-05-03/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H4ckf0r0day/obscura: The headless browser for AI agents and web scraping]]></title>
+        <id>https://github.com/h4ckf0r0day/obscura</id>
+        <link href="https://github.com/h4ckf0r0day/obscura"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xAI Is Reportedly Using Just 11% of Its 550k Nvidia GPUs]]></title>
+        <id>https://wccftech.com/xai-using-just-11-percent-gpus-while-meta-google-squeeze-out-much-more/</id>
+        <link href="https://wccftech.com/xai-using-just-11-percent-gpus-while-meta-google-squeeze-out-much-more/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a daily AI news brief in 325 lines of Python]]></title>
+        <id>https://gist.github.com/Agentic-Intel/33fa978b281667bf0852d33f146c4528</id>
+        <link href="https://gist.github.com/Agentic-Intel/33fa978b281667bf0852d33f146c4528"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shipping todometer, Version 3]]></title>
+        <id>https://cassidoo.co/post/todometer-v3/</id>
+        <link href="https://cassidoo.co/post/todometer-v3/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists Gave Cocaine to Salmon]]></title>
+        <id>https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/</id>
+        <link href="https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transport access reduces deprivation: When colocation misleads]]></title>
+        <id>https://pnas.scienceconnect.io/error?msg=ewogICJpZCIgOiAiNmU3ZTA0MTEtMWQ1Yi00NDhjLTg0MDgtZGE4NjI4Nzc1NDI2IiwKICAidGl0bGUiIDogIkVycm9yIiwKICAibWVzc2FnZSIgOiAiY29tLm5pbWJ1c2RzLm9hdXRoMi5zZGsuUGFyc2VFeGNlcHRpb246IFRoZSBzY29wZSBtdXN0IGluY2x1ZGUgYW4gb3BlbmlkIHZhbHVlIiwKICAiY29kZSIgOiAiR0VORVJBTF9FUlJPUiIKfQ==&amp;errorCode=500-feb</id>
+        <link href="https://pnas.scienceconnect.io/error?msg=ewogICJpZCIgOiAiNmU3ZTA0MTEtMWQ1Yi00NDhjLTg0MDgtZGE4NjI4Nzc1NDI2IiwKICAidGl0bGUiIDogIkVycm9yIiwKICAibWVzc2FnZSIgOiAiY29tLm5pbWJ1c2RzLm9hdXRoMi5zZGsuUGFyc2VFeGNlcHRpb246IFRoZSBzY29wZSBtdXN0IGluY2x1ZGUgYW4gb3BlbmlkIHZhbHVlIiwKICAiY29kZSIgOiAiR0VORVJBTF9FUlJPUiIKfQ==&amp;errorCode=500-feb"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Long Road To Windows 95 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=u8k66A9n8gE</id>
+        <link href="https://www.youtube.com/watch?v=u8k66A9n8gE"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL databases are boring on purpose]]></title>
+        <id>https://stormatics.tech/blogs/the-best-postgresql-databases-are-boring-on-purpose</id>
+        <link href="https://stormatics.tech/blogs/the-best-postgresql-databases-are-boring-on-purpose"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PicoServer: A glue library embedding web server for .NET, no IIS, no Kestrel]]></title>
+        <id>https://www.nuget.org/packages/PicoServer</id>
+        <link href="https://www.nuget.org/packages/PicoServer"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shoppers falsely identified by facial recognition system]]></title>
+        <id>https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name</id>
+        <link href="https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Think pop music is basic? Even classical and jazz are getting less complex]]></title>
+        <id>https://connectsci.au/news/news-parent/9259/Think-pop-music-is-basic-Even-classical-and-jazz</id>
+        <link href="https://connectsci.au/news/news-parent/9259/Think-pop-music-is-basic-Even-classical-and-jazz"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists discover 27 potential new planets that orbit two stars]]></title>
+        <id>https://www.theguardian.com/science/2026/may/04/scientists-discover-27-potential-new-planets</id>
+        <link href="https://www.theguardian.com/science/2026/may/04/scientists-discover-27-potential-new-planets"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shape of a Guitar Pick]]></title>
+        <id>https://www.johndcook.com/blog/2026/05/03/guitar-pick/</id>
+        <link href="https://www.johndcook.com/blog/2026/05/03/guitar-pick/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Checkpoint/Restore in Userspace (CRIU)]]></title>
+        <id>https://criu.org/Main_Page</id>
+        <link href="https://criu.org/Main_Page"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
@@ -183,185 +225,143 @@
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Embedding UPI QR Codes in PDF Invoices with qr-code-styling and pdf-lib in Next.js]]></title>
-        <id>https://dev.to/shaishav_patel_271fdcd61a/embedding-upi-qr-codes-in-pdf-invoices-with-qr-code-styling-and-pdf-lib-in-nextjs-59cp</id>
-        <link href="https://dev.to/shaishav_patel_271fdcd61a/embedding-upi-qr-codes-in-pdf-invoices-with-qr-code-styling-and-pdf-lib-in-nextjs-59cp"/>
+        <title type="html"><![CDATA[AirFM-DDA: Air-Interface Foundation Model in the Delay-Doppler-Angle Domain for AI-Native 6G]]></title>
+        <id>https://arxiv.org/abs/2605.00020</id>
+        <link href="https://arxiv.org/abs/2605.00020"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advanced Use of Async Hooks in Node.js]]></title>
-        <id>https://dev.to/omriluz1/advanced-use-of-async-hooks-in-nodejs-23c7</id>
-        <link href="https://dev.to/omriluz1/advanced-use-of-async-hooks-in-nodejs-23c7"/>
+        <title type="html"><![CDATA[Smart Ensemble Learning Framework for Predicting Groundwater Heavy Metal Pollution]]></title>
+        <id>https://arxiv.org/abs/2605.00056</id>
+        <link href="https://arxiv.org/abs/2605.00056"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Your AI Agent Needs a Commerce MCP Server (Not a Web Scraper)]]></title>
-        <id>https://dev.to/buywhere/why-your-ai-agent-needs-a-commerce-mcp-server-not-a-web-scraper-2o34</id>
-        <link href="https://dev.to/buywhere/why-your-ai-agent-needs-a-commerce-mcp-server-not-a-web-scraper-2o34"/>
+        <title type="html"><![CDATA[Information-Theoretic Generalization Bounds for Stochastic Gradient Descent with Predictable Virtual Noise]]></title>
+        <id>https://arxiv.org/abs/2605.00064</id>
+        <link href="https://arxiv.org/abs/2605.00064"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4 Lines in ~/.npmrc That Block 80% of npm Supply Chain Attacks]]></title>
-        <id>https://dev.to/shipwithaiio/4-lines-in-npmrc-that-block-80-of-npm-supply-chain-attacks-1acp</id>
-        <link href="https://dev.to/shipwithaiio/4-lines-in-npmrc-that-block-80-of-npm-supply-chain-attacks-1acp"/>
+        <title type="html"><![CDATA[Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications]]></title>
+        <id>https://arxiv.org/abs/2605.00068</id>
+        <link href="https://arxiv.org/abs/2605.00068"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Personal Glucose Tracking Dashboard with React and Firebase (What I Learned After 3 Months of Daily Use)]]></title>
-        <id>https://dev.to/ericwoooo_kr/building-a-personal-glucose-tracking-dashboard-with-react-and-firebase-what-i-learned-after-3-2np8</id>
-        <link href="https://dev.to/ericwoooo_kr/building-a-personal-glucose-tracking-dashboard-with-react-and-firebase-what-i-learned-after-3-2np8"/>
+        <title type="html"><![CDATA[Soft-MSM: Differentiable Context-Aware Elastic Alignment for Time Series]]></title>
+        <id>https://arxiv.org/abs/2605.00069</id>
+        <link href="https://arxiv.org/abs/2605.00069"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 React Performance Mistakes That Are Slowing Your App Down]]></title>
-        <id>https://dev.to/khris_breezy/5-react-performance-mistakes-that-are-slowing-your-app-down-4b2n</id>
-        <link href="https://dev.to/khris_breezy/5-react-performance-mistakes-that-are-slowing-your-app-down-4b2n"/>
+        <title type="html"><![CDATA[SPLICE: Latent Diffusion over JEPA Embeddings for Conformal Time-Series Inpainting]]></title>
+        <id>https://arxiv.org/abs/2605.00126</id>
+        <link href="https://arxiv.org/abs/2605.00126"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Performance Tips for Firefox New Tab Extensions: Sub-100ms Load Times]]></title>
-        <id>https://dev.to/weatherclockdash/performance-tips-for-firefox-new-tab-extensions-sub-100ms-load-times-4mhi</id>
-        <link href="https://dev.to/weatherclockdash/performance-tips-for-firefox-new-tab-extensions-sub-100ms-load-times-4mhi"/>
+        <title type="html"><![CDATA[Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization]]></title>
+        <id>https://arxiv.org/abs/2605.00130</id>
+        <link href="https://arxiv.org/abs/2605.00130"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The fastest way to build a Telegram Bot natively]]></title>
-        <id>https://dev.to/apollo_ag/the-fastest-way-to-build-a-telegram-bot-natively-49hb</id>
-        <link href="https://dev.to/apollo_ag/the-fastest-way-to-build-a-telegram-bot-natively-49hb"/>
+        <title type="html"><![CDATA[Introducing WARM-VR: Benchmark Dataset for Multimodal Wearable Affect Recognition in Virtual Reality]]></title>
+        <id>https://arxiv.org/abs/2605.00184</id>
+        <link href="https://arxiv.org/abs/2605.00184"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manifest V3 Migration Pitfalls — Lessons from 17 Chrome Extensions]]></title>
-        <id>https://dev.to/_350df62777eb55e1/manifest-v3-migration-pitfalls-lessons-from-17-chrome-extensions-2j3h</id>
-        <link href="https://dev.to/_350df62777eb55e1/manifest-v3-migration-pitfalls-lessons-from-17-chrome-extensions-2j3h"/>
+        <title type="html"><![CDATA[Fair Dataset Distillation via Cross-Group Barycenter Alignment]]></title>
+        <id>https://arxiv.org/abs/2605.00185</id>
+        <link href="https://arxiv.org/abs/2605.00185"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keyboard Shortcuts in Firefox Extensions: A Complete Guide]]></title>
-        <id>https://dev.to/weatherclockdash/keyboard-shortcuts-in-firefox-extensions-a-complete-guide-2n8o</id>
-        <link href="https://dev.to/weatherclockdash/keyboard-shortcuts-in-firefox-extensions-a-complete-guide-2n8o"/>
+        <title type="html"><![CDATA[OTSS: Output-Targeted Soft Segmentation for Contextual Decision-Weight Learning]]></title>
+        <id>https://arxiv.org/abs/2605.00193</id>
+        <link href="https://arxiv.org/abs/2605.00193"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenWeatherMap API for Browser Extensions: A Practical Guide]]></title>
-        <id>https://dev.to/weatherclockdash/openweathermap-api-for-browser-extensions-a-practical-guide-5m7</id>
-        <link href="https://dev.to/weatherclockdash/openweathermap-api-for-browser-extensions-a-practical-guide-5m7"/>
+        <title type="html"><![CDATA[State Stream Transformer (SST) V2: Parallel Training of Nonlinear Recurrence for Latent Space Reasoning]]></title>
+        <id>https://arxiv.org/abs/2605.00206</id>
+        <link href="https://arxiv.org/abs/2605.00206"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Lessons I Learned Building a Firefox New Tab Extension from Scratch]]></title>
-        <id>https://dev.to/weatherclockdash/5-lessons-i-learned-building-a-firefox-new-tab-extension-from-scratch-1720</id>
-        <link href="https://dev.to/weatherclockdash/5-lessons-i-learned-building-a-firefox-new-tab-extension-from-scratch-1720"/>
+        <title type="html"><![CDATA[CompleteRXN: Toward Completing Open Chemical Reaction Databases]]></title>
+        <id>https://arxiv.org/abs/2605.00222</id>
+        <link href="https://arxiv.org/abs/2605.00222"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Search Crawlers Are Curl From 1998, Not Chrome. Your SPA Is Invisible and Here Is the Mechanism.]]></title>
-        <id>https://dev.to/cihangir_bozdogan_76b8c99/ai-search-crawlers-are-curl-from-1998-not-chrome-your-spa-is-invisible-and-here-is-the-mechanism-2pgg</id>
-        <link href="https://dev.to/cihangir_bozdogan_76b8c99/ai-search-crawlers-are-curl-from-1998-not-chrome-your-spa-is-invisible-and-here-is-the-mechanism-2pgg"/>
+        <title type="html"><![CDATA[Polaris: Coupled Orbital Polar Embeddings for Hierarchical Concept Learning]]></title>
+        <id>https://arxiv.org/abs/2605.00265</id>
+        <link href="https://arxiv.org/abs/2605.00265"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[# Introducing Conté UI - A New Dynamic CSS System for Advanced Styling]]></title>
-        <id>https://dev.to/conte-ui/-introducing-conte-ui-a-dynamic-css-system-for-advanced-styling-4ejj</id>
-        <link href="https://dev.to/conte-ui/-introducing-conte-ui-a-dynamic-css-system-for-advanced-styling-4ejj"/>
+        <title type="html"><![CDATA[Jailbroken Frontier Models Retain Their Capabilities]]></title>
+        <id>https://arxiv.org/abs/2605.00267</id>
+        <link href="https://arxiv.org/abs/2605.00267"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Makes a Good Browser Extension? Lessons from Building One]]></title>
-        <id>https://dev.to/weatherclockdash/what-makes-a-good-browser-extension-lessons-from-building-one-5e66</id>
-        <link href="https://dev.to/weatherclockdash/what-makes-a-good-browser-extension-lessons-from-building-one-5e66"/>
+        <title type="html"><![CDATA[High-Probability Convergence in Decentralized Stochastic Optimization with Gradient Tracking]]></title>
+        <id>https://arxiv.org/abs/2605.00281</id>
+        <link href="https://arxiv.org/abs/2605.00281"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Firefox New Tab Extension: From Idea to AMO Publishing]]></title>
-        <id>https://dev.to/weatherclockdash/building-a-firefox-new-tab-extension-from-idea-to-amo-publishing-4hc</id>
-        <link href="https://dev.to/weatherclockdash/building-a-firefox-new-tab-extension-from-idea-to-amo-publishing-4hc"/>
+        <title type="html"><![CDATA[Borrowed Geometry: Computational Reuse of Frozen Text-Pretrained Transformer Weights Across Modalities]]></title>
+        <id>https://arxiv.org/abs/2605.00333</id>
+        <link href="https://arxiv.org/abs/2605.00333"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Browser Storage for Extension Developers: localStorage vs. browser.storage.local]]></title>
-        <id>https://dev.to/weatherclockdash/browser-storage-for-extension-developers-localstorage-vs-browserstoragelocal-2gg</id>
-        <link href="https://dev.to/weatherclockdash/browser-storage-for-extension-developers-localstorage-vs-browserstoragelocal-2gg"/>
+        <title type="html"><![CDATA[Free Energy Surface Sampling via Reduced Flow Matching]]></title>
+        <id>https://arxiv.org/abs/2605.00337</id>
+        <link href="https://arxiv.org/abs/2605.00337"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I Used wttr.in Instead of OpenWeatherMap for My Firefox Extension]]></title>
-        <id>https://dev.to/weatherclockdash/why-i-used-wttrin-instead-of-openweathermap-for-my-firefox-extension-2f0k</id>
-        <link href="https://dev.to/weatherclockdash/why-i-used-wttrin-instead-of-openweathermap-for-my-firefox-extension-2f0k"/>
+        <title type="html"><![CDATA[Binomial flows: Denoising and flow matching for discrete ordinal data]]></title>
+        <id>https://arxiv.org/abs/2605.00360</id>
+        <link href="https://arxiv.org/abs/2605.00360"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a World Clock in 30 Lines of Vanilla JS]]></title>
-        <id>https://dev.to/weatherclockdash/build-a-world-clock-in-30-lines-of-vanilla-js-3k2k</id>
-        <link href="https://dev.to/weatherclockdash/build-a-world-clock-in-30-lines-of-vanilla-js-3k2k"/>
+        <title type="html"><![CDATA[AlphaInventory: Evolving White-Box Inventory Policies via Large Language Models with Deployment Guarantees]]></title>
+        <id>https://arxiv.org/abs/2605.00369</id>
+        <link href="https://arxiv.org/abs/2605.00369"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making a Firefox Extension Work Offline — Service Workers vs. Cache API]]></title>
-        <id>https://dev.to/weatherclockdash/making-a-firefox-extension-work-offline-service-workers-vs-cache-api-12hi</id>
-        <link href="https://dev.to/weatherclockdash/making-a-firefox-extension-work-offline-service-workers-vs-cache-api-12hi"/>
+        <title type="html"><![CDATA[Advancing Edge Classification through High-Dimensional Causal Modeling of Node-Edge Interplay]]></title>
+        <id>https://arxiv.org/abs/2605.00374</id>
+        <link href="https://arxiv.org/abs/2605.00374"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handling Time Zones in Browser Extensions: Lessons from Building a World Clock]]></title>
-        <id>https://dev.to/weatherclockdash/handling-time-zones-in-browser-extensions-lessons-from-building-a-world-clock-206h</id>
-        <link href="https://dev.to/weatherclockdash/handling-time-zones-in-browser-extensions-lessons-from-building-a-world-clock-206h"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox Extension Manifest V3 Migration: What Actually Changed]]></title>
-        <id>https://dev.to/weatherclockdash/firefox-extension-manifest-v3-migration-what-actually-changed-46gk</id>
-        <link href="https://dev.to/weatherclockdash/firefox-extension-manifest-v3-migration-what-actually-changed-46gk"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Weather Widget for Firefox New Tab: API-Free Approach with wttr.in]]></title>
-        <id>https://dev.to/weatherclockdash/building-a-weather-widget-for-firefox-new-tab-api-free-approach-with-wttrin-3e8</id>
-        <link href="https://dev.to/weatherclockdash/building-a-weather-widget-for-firefox-new-tab-api-free-approach-with-wttrin-3e8"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using browser.storage.sync vs storage.local in Firefox Extensions: When to Use Each]]></title>
-        <id>https://dev.to/weatherclockdash/using-browserstoragesync-vs-storagelocal-in-firefox-extensions-when-to-use-each-42b4</id>
-        <link href="https://dev.to/weatherclockdash/using-browserstoragesync-vs-storagelocal-in-firefox-extensions-when-to-use-each-42b4"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Search Bar in a Firefox New Tab Extension: Which Engine, How to Handle]]></title>
-        <id>https://dev.to/weatherclockdash/search-bar-in-a-firefox-new-tab-extension-which-engine-how-to-handle-3dl6</id>
-        <link href="https://dev.to/weatherclockdash/search-bar-in-a-firefox-new-tab-extension-which-engine-how-to-handle-3dl6"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reggie Fils-Aimé says Amazon once asked Nintendo to break the law]]></title>
-        <id>https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal</id>
-        <link href="https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal"/>
-        <updated>2026-05-02T16:00:00.000Z</updated>
-        <published>2026-05-02T16:00:00.000Z</published>
     </entry>
 </feed>
