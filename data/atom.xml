@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-04T15:03:33.533Z</updated>
+    <updated>2026-05-04T22:00:55.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,58 +15,184 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[What to Know About Sony’s $7.85 Million PlayStation Settlement]]></title>
+        <id>https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/</id>
+        <link href="https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katie Haun raises $1B for new venture funds]]></title>
+        <id>https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/</id>
+        <link href="https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sierra raises $950M as the race to own enterprise AI gets serious]]></title>
+        <id>https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/</id>
+        <link href="https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims]]></title>
+        <id>https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/</id>
+        <link href="https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China is an engineers' country, but US and Germany are now lawyers' countries]]></title>
+        <id>https://www.globaltimes.cn/page/202605/1360255.shtml</id>
+        <link href="https://www.globaltimes.cn/page/202605/1360255.shtml"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube now has customizable multiview]]></title>
+        <id>https://www.androidauthority.com/youtube-tv-customizable-multiview-how-to-make-3660768/</id>
+        <link href="https://www.androidauthority.com/youtube-tv-customizable-multiview-how-to-make-3660768/"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Learning with Python – Read Online]]></title>
+        <id>https://deeplearningwithpython.io/</id>
+        <link href="https://deeplearningwithpython.io/"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Cut 8,000 Jobs to Fund AI. Zuckerberg Said It Out Loud. Nobody Noticed.]]></title>
+        <id>https://pub.towardsai.net/meta-cut-8-000-jobs-to-fund-ai-zuckerberg-said-it-out-loud-nobody-noticed-2f1eec1472e0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/meta-cut-8-000-jobs-to-fund-ai-zuckerberg-said-it-out-loud-nobody-noticed-2f1eec1472e0?source=rss----98111c9905da---4"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Nobody Tells You About Building a Personal Knowledge Base With LLMs]]></title>
+        <id>https://pub.towardsai.net/what-nobody-tells-you-about-building-a-personal-knowledge-base-with-llms-283e944ac730?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-nobody-tells-you-about-building-a-personal-knowledge-base-with-llms-283e944ac730?source=rss----98111c9905da---4"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAX User-Defined Functions in Power BI (Preview): How One Function Replaced 40 Format Strings in My…]]></title>
+        <id>https://pub.towardsai.net/dax-user-defined-functions-in-power-bi-preview-how-one-function-replaced-40-format-strings-in-my-0d4d977fb506?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/dax-user-defined-functions-in-power-bi-preview-how-one-function-replaced-40-format-strings-in-my-0d4d977fb506?source=rss----98111c9905da---4"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Companies Tried Replacing Data Analysts With AI.]]></title>
+        <id>https://pub.towardsai.net/three-companies-tried-replacing-data-analysts-with-ai-f9930095ae17?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/three-companies-tried-replacing-data-analysts-with-ai-f9930095ae17?source=rss----98111c9905da---4"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real Leap Is Not Better Retrieval. It’s Better Control Over Retrieval.]]></title>
+        <id>https://pub.towardsai.net/the-real-leap-is-not-better-retrieval-its-better-control-over-retrieval-2bd470bba9d3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-real-leap-is-not-better-retrieval-its-better-control-over-retrieval-2bd470bba9d3?source=rss----98111c9905da---4"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code vs Cursor vs Devin vs Copilot in 2026: The Comparison Everyone Is Still Getting Wrong]]></title>
+        <id>https://pub.towardsai.net/claude-code-vs-cursor-vs-devin-vs-copilot-in-2026-the-comparison-everyone-is-still-getting-wrong-5afd6ceff3e7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-code-vs-cursor-vs-devin-vs-copilot-in-2026-the-comparison-everyone-is-still-getting-wrong-5afd6ceff3e7?source=rss----98111c9905da---4"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRE Python binding — ReDoS robustness demo]]></title>
+        <id>https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best 7 Ways to Buy Verified KuCoin Accounts on a Budget]]></title>
+        <id>https://dev.to/carry5474/best-7-ways-to-buy-verified-kucoin-accounts-on-a-budget-lbo</id>
+        <link href="https://dev.to/carry5474/best-7-ways-to-buy-verified-kucoin-accounts-on-a-budget-lbo"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Verified OKX Accounts | 100% Reliable & Safe ...]]></title>
+        <id>https://dev.to/carry5474/buy-verified-okx-accounts-100-reliable-safe--2p5k</id>
+        <link href="https://dev.to/carry5474/buy-verified-okx-accounts-100-reliable-safe--2p5k"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fastest and Easiest Way to Buy Verified Mexc Accounts]]></title>
+        <id>https://dev.to/carry5474/the-fastest-and-easiest-way-to-buy-verified-mexc-accounts-3oa1</id>
+        <link href="https://dev.to/carry5474/the-fastest-and-easiest-way-to-buy-verified-mexc-accounts-3oa1"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Added OpenSSF Scorecard to getcommit.dev. The Results Tell Two Different Stories.]]></title>
+        <id>https://dev.to/piiiico/i-added-openssf-scorecard-to-getcommitdev-the-results-tell-two-different-stories-ccn</id>
+        <link href="https://dev.to/piiiico/i-added-openssf-scorecard-to-getcommitdev-the-results-tell-two-different-stories-ccn"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your package.json only shows 20 dependencies. Your lock file has 487. I built a scanner for the other 467.]]></title>
+        <id>https://dev.to/piiiico/your-packagejson-only-shows-20-dependencies-your-lock-file-has-487-i-built-a-scanner-for-the-3gg4</id>
+        <link href="https://dev.to/piiiico/your-packagejson-only-shows-20-dependencies-your-lock-file-has-487-i-built-a-scanner-for-the-3gg4"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Sites To Buy Verified Binance Accounts ...]]></title>
+        <id>https://dev.to/carry5474/top-10-sites-to-buy-verified-binance-accounts--4loc</id>
+        <link href="https://dev.to/carry5474/top-10-sites-to-buy-verified-binance-accounts--4loc"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Best Sites to Buy Facebook Reviews]]></title>
+        <id>https://dev.to/carry5474/5-best-sites-to-buy-facebook-reviews-2p6g</id>
+        <link href="https://dev.to/carry5474/5-best-sites-to-buy-facebook-reviews-2p6g"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy BBB Reviews – Boost Trust & Business Credibility]]></title>
+        <id>https://dev.to/carry5474/buy-bbb-reviews-boost-trust-business-credibility-2m3</id>
+        <link href="https://dev.to/carry5474/buy-bbb-reviews-boost-trust-business-credibility-2m3"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Old GitHub Accounts for Maximum Credibility]]></title>
+        <id>https://dev.to/jenica_tucker_268c6d70301/buy-old-github-accounts-for-maximum-credibility-1fk3</id>
+        <link href="https://dev.to/jenica_tucker_268c6d70301/buy-old-github-accounts-for-maximum-credibility-1fk3"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redefining the Boundaries of Web Puzzle Games with LOOP (05/04 19:55)]]></title>
+        <id>https://dev.to/harumasa_matsushita/redefining-the-boundaries-of-web-puzzle-games-with-loop-0504-1955-28lj</id>
+        <link href="https://dev.to/harumasa_matsushita/redefining-the-boundaries-of-web-puzzle-games-with-loop-0504-1955-28lj"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Side to Buy Verified Binance Account from Best Seller]]></title>
+        <id>https://dev.to/jfrnedgukf/top-side-to-buy-verified-binance-account-from-best-seller-4mcg</id>
+        <link href="https://dev.to/jfrnedgukf/top-side-to-buy-verified-binance-account-from-best-seller-4mcg"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hisense aggressively cuts the price of its RGB LED TV on release day]]></title>
         <id>https://www.theverge.com/tech/922571/hisense-cuts-price-ur9</id>
         <link href="https://www.theverge.com/tech/922571/hisense-cuts-price-ur9"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHS Demanded Google Surrender Data on Canadian's Activity, Location Over Anti-ICE Posts]]></title>
-        <id>https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/</id>
-        <link href="https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive: Metalenz Has Figured Out a Way to Make Face ID Invisible]]></title>
-        <id>https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/</id>
-        <link href="https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Science Has Found Even More Ways Coffee Is Good for You]]></title>
-        <id>https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/</id>
-        <link href="https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers]]></title>
-        <id>https://www.wired.com/gallery/best-magsafe-wireless-chargers/</id>
-        <link href="https://www.wired.com/gallery/best-magsafe-wireless-chargers/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-star-wars-gifts/</id>
-        <link href="https://www.wired.com/gallery/best-star-wars-gifts/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Listening to ‘Subliminals’ Make You Beautiful? Plenty of Women Believe It]]></title>
-        <id>https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/</id>
-        <link href="https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Federal Worker Was Fired for Filming DOGE. Now She’s Running for Congress]]></title>
-        <id>https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/</id>
-        <link href="https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
@@ -78,23 +204,58 @@
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass]]></title>
-        <id>https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/</id>
-        <link href="https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/"/>
+        <title type="html"><![CDATA[A Federal Worker Was Fired for Filming DOGE. Now She’s Running for Congress]]></title>
+        <id>https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/</id>
+        <link href="https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘This is fine’ creator says AI startup stole his art]]></title>
-        <id>https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/</id>
-        <link href="https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"/>
+        <title type="html"><![CDATA[Can Listening to ‘Subliminals’ Make You Beautiful? Plenty of Women Believe It]]></title>
+        <id>https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/</id>
+        <link href="https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse]]></title>
-        <id>https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/</id>
-        <link href="https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/"/>
+        <title type="html"><![CDATA[The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2026)]]></title>
+        <id>https://www.wired.com/gallery/best-star-wars-gifts/</id>
+        <link href="https://www.wired.com/gallery/best-star-wars-gifts/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers]]></title>
+        <id>https://www.wired.com/gallery/best-magsafe-wireless-chargers/</id>
+        <link href="https://www.wired.com/gallery/best-magsafe-wireless-chargers/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science Has Found Even More Ways Coffee Is Good for You]]></title>
+        <id>https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/</id>
+        <link href="https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclusive: Metalenz Has Figured Out a Way to Make Face ID Invisible]]></title>
+        <id>https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/</id>
+        <link href="https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHS Demanded Google Surrender Data on Canadian's Activity, Location Over Anti-ICE Posts]]></title>
+        <id>https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/</id>
+        <link href="https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As X shuts down Communities, Acorn debuts an alternative that puts creators in control]]></title>
+        <id>https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/</id>
+        <link href="https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
@@ -106,212 +267,23 @@
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How long ago would the MacBook Neo be Apple's fastest computer?]]></title>
-        <id>https://www.thestudiesshow.com/p/macbook-neo-when-fastest-apple-computer-time-machine</id>
-        <link href="https://www.thestudiesshow.com/p/macbook-neo-when-fastest-apple-computer-time-machine"/>
+        <title type="html"><![CDATA[We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse]]></title>
+        <id>https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/</id>
+        <link href="https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Practical Electronics Course]]></title>
-        <id>https://practicingelectronics.com/practical-electronics-course/</id>
-        <link href="https://practicingelectronics.com/practical-electronics-course/"/>
+        <title type="html"><![CDATA[‘This is fine’ creator says AI startup stole his art]]></title>
+        <id>https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/</id>
+        <link href="https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humanoid Robot Actuators: The Complete Engineering Guide]]></title>
-        <id>https://www.firgelli.com/pages/humanoid-robot-actuators</id>
-        <link href="https://www.firgelli.com/pages/humanoid-robot-actuators"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BrowserQuest – Mozilla's HTML5 MMO is back]]></title>
-        <id>https://korben.info/browserquest-mmo-mozilla-html5-retour.html</id>
-        <link href="https://korben.info/browserquest-mmo-mozilla-html5-retour.html"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: TTSC – TypeScript-Go compiler and runner with transform plugins]]></title>
-        <id>https://github.com/samchon/ttsc</id>
-        <link href="https://github.com/samchon/ttsc"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LegalEase – plain-English incorporation guidance for Canadian founders]]></title>
-        <id>https://legalease.dev/legalease.dev/</id>
-        <link href="https://legalease.dev/legalease.dev/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I Created phpc.tv]]></title>
-        <id>https://afilina.com/why-phpc-tv</id>
-        <link href="https://afilina.com/why-phpc-tv"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can a quantum sensor detect your heartbeat from 60 km away? [video]]]></title>
-        <id>https://www.youtube.com/watch?v=N3zU7sV4bJE</id>
-        <link href="https://www.youtube.com/watch?v=N3zU7sV4bJE"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ProteinView]]></title>
-        <id>https://github.com/001TMF/ProteinView</id>
-        <link href="https://github.com/001TMF/ProteinView"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xAI (Grok) Text-to-Speech and Speech-to-Text Are Now Available in Puter.js]]></title>
-        <id>https://developer.puter.com/blog/xai-tts-stt-in-puter-js/</id>
-        <link href="https://developer.puter.com/blog/xai-tts-stt-in-puter-js/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want to Watch button missing for movie searches]]></title>
-        <id>https://support.google.com/websearch/thread/414738182/want-to-watch-button-missing-for-movie-searches?hl=en</id>
-        <link href="https://support.google.com/websearch/thread/414738182/want-to-watch-button-missing-for-movie-searches?hl=en"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three cruise ship passengers die in suspected hantavirus outbreak]]></title>
-        <id>https://www.reuters.com/business/healthcare-pharmaceuticals/three-passengers-dead-one-case-hantavirus-confirmed-atlantic-cruise-ship-who-2026-05-03/</id>
-        <link href="https://www.reuters.com/business/healthcare-pharmaceuticals/three-passengers-dead-one-case-hantavirus-confirmed-atlantic-cruise-ship-who-2026-05-03/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H4ckf0r0day/obscura: The headless browser for AI agents and web scraping]]></title>
-        <id>https://github.com/h4ckf0r0day/obscura</id>
-        <link href="https://github.com/h4ckf0r0day/obscura"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xAI Is Reportedly Using Just 11% of Its 550k Nvidia GPUs]]></title>
-        <id>https://wccftech.com/xai-using-just-11-percent-gpus-while-meta-google-squeeze-out-much-more/</id>
-        <link href="https://wccftech.com/xai-using-just-11-percent-gpus-while-meta-google-squeeze-out-much-more/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a daily AI news brief in 325 lines of Python]]></title>
-        <id>https://gist.github.com/Agentic-Intel/33fa978b281667bf0852d33f146c4528</id>
-        <link href="https://gist.github.com/Agentic-Intel/33fa978b281667bf0852d33f146c4528"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shipping todometer, Version 3]]></title>
-        <id>https://cassidoo.co/post/todometer-v3/</id>
-        <link href="https://cassidoo.co/post/todometer-v3/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists Gave Cocaine to Salmon]]></title>
-        <id>https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/</id>
-        <link href="https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transport access reduces deprivation: When colocation misleads]]></title>
-        <id>https://pnas.scienceconnect.io/error?msg=ewogICJpZCIgOiAiNmU3ZTA0MTEtMWQ1Yi00NDhjLTg0MDgtZGE4NjI4Nzc1NDI2IiwKICAidGl0bGUiIDogIkVycm9yIiwKICAibWVzc2FnZSIgOiAiY29tLm5pbWJ1c2RzLm9hdXRoMi5zZGsuUGFyc2VFeGNlcHRpb246IFRoZSBzY29wZSBtdXN0IGluY2x1ZGUgYW4gb3BlbmlkIHZhbHVlIiwKICAiY29kZSIgOiAiR0VORVJBTF9FUlJPUiIKfQ==&amp;errorCode=500-feb</id>
-        <link href="https://pnas.scienceconnect.io/error?msg=ewogICJpZCIgOiAiNmU3ZTA0MTEtMWQ1Yi00NDhjLTg0MDgtZGE4NjI4Nzc1NDI2IiwKICAidGl0bGUiIDogIkVycm9yIiwKICAibWVzc2FnZSIgOiAiY29tLm5pbWJ1c2RzLm9hdXRoMi5zZGsuUGFyc2VFeGNlcHRpb246IFRoZSBzY29wZSBtdXN0IGluY2x1ZGUgYW4gb3BlbmlkIHZhbHVlIiwKICAiY29kZSIgOiAiR0VORVJBTF9FUlJPUiIKfQ==&amp;errorCode=500-feb"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Long Road To Windows 95 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=u8k66A9n8gE</id>
-        <link href="https://www.youtube.com/watch?v=u8k66A9n8gE"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL databases are boring on purpose]]></title>
-        <id>https://stormatics.tech/blogs/the-best-postgresql-databases-are-boring-on-purpose</id>
-        <link href="https://stormatics.tech/blogs/the-best-postgresql-databases-are-boring-on-purpose"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PicoServer: A glue library embedding web server for .NET, no IIS, no Kestrel]]></title>
-        <id>https://www.nuget.org/packages/PicoServer</id>
-        <link href="https://www.nuget.org/packages/PicoServer"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shoppers falsely identified by facial recognition system]]></title>
-        <id>https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name</id>
-        <link href="https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Think pop music is basic? Even classical and jazz are getting less complex]]></title>
-        <id>https://connectsci.au/news/news-parent/9259/Think-pop-music-is-basic-Even-classical-and-jazz</id>
-        <link href="https://connectsci.au/news/news-parent/9259/Think-pop-music-is-basic-Even-classical-and-jazz"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists discover 27 potential new planets that orbit two stars]]></title>
-        <id>https://www.theguardian.com/science/2026/may/04/scientists-discover-27-potential-new-planets</id>
-        <link href="https://www.theguardian.com/science/2026/may/04/scientists-discover-27-potential-new-planets"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Shape of a Guitar Pick]]></title>
-        <id>https://www.johndcook.com/blog/2026/05/03/guitar-pick/</id>
-        <link href="https://www.johndcook.com/blog/2026/05/03/guitar-pick/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Checkpoint/Restore in Userspace (CRIU)]]></title>
-        <id>https://criu.org/Main_Page</id>
-        <link href="https://criu.org/Main_Page"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Package and distribute Electron apps with "auto update" support]]></title>
-        <id>https://www.electron.build/index.html</id>
-        <link href="https://www.electron.build/index.html"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda Cold Start: Java, Python, Go, Rust]]></title>
-        <id>https://medium.com/@yalovoy/four-million-lambda-invokes-across-python-java-rust-and-go-5b9218f64563</id>
-        <link href="https://medium.com/@yalovoy/four-million-lambda-invokes-across-python-java-rust-and-go-5b9218f64563"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golang Tutorial: Find and fix vulnerable dependencies with govulncheck]]></title>
-        <id>https://go.dev/doc/tutorial/govulncheck</id>
-        <link href="https://go.dev/doc/tutorial/govulncheck"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call JavaScript functions across thread boundaries like they were local]]></title>
-        <id>https://www.npmjs.com/package/achi-rpc</id>
-        <link href="https://www.npmjs.com/package/achi-rpc"/>
+        <title type="html"><![CDATA[5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass]]></title>
+        <id>https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/</id>
+        <link href="https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
@@ -323,44 +295,72 @@
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Ran This Open-Source AI Tool on a Messy Codebase and Got 71x Fewer Tokens — Here Is Exactly What…]]></title>
-        <id>https://pub.towardsai.net/turn-any-codebase-into-a-knowledge-graph-71cd233e33f7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/turn-any-codebase-into-a-knowledge-graph-71cd233e33f7?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Call JavaScript functions across thread boundaries like they were local]]></title>
+        <id>https://www.npmjs.com/package/achi-rpc</id>
+        <link href="https://www.npmjs.com/package/achi-rpc"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linear Regression: Statistical vs Machine Learning View]]></title>
-        <id>https://pub.towardsai.net/linear-regression-statistical-vs-machine-learning-view-b157a1efeb3e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/linear-regression-statistical-vs-machine-learning-view-b157a1efeb3e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Golang Tutorial: Find and fix vulnerable dependencies with govulncheck]]></title>
+        <id>https://go.dev/doc/tutorial/govulncheck</id>
+        <link href="https://go.dev/doc/tutorial/govulncheck"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tested AI on Junior Developer Tasks. The Apprenticeship Lasted 40 Minutes.]]></title>
-        <id>https://pub.towardsai.net/i-tested-ai-on-junior-developer-tasks-the-apprenticeship-lasted-40-minutes-032c25244ea4?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-tested-ai-on-junior-developer-tasks-the-apprenticeship-lasted-40-minutes-032c25244ea4?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[AWS Lambda Cold Start: Java, Python, Go, Rust]]></title>
+        <id>https://medium.com/@yalovoy/four-million-lambda-invokes-across-python-java-rust-and-go-5b9218f64563</id>
+        <link href="https://medium.com/@yalovoy/four-million-lambda-invokes-across-python-java-rust-and-go-5b9218f64563"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transformers Aren’t Magic — They’re Just Expensive: A Closer Look at What Actually Matters in…]]></title>
-        <id>https://pub.towardsai.net/transformers-arent-magic-they-re-just-expensive-a-closer-look-at-what-actually-matters-in-e3d69a5007af?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/transformers-arent-magic-they-re-just-expensive-a-closer-look-at-what-actually-matters-in-e3d69a5007af?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Package and distribute Electron apps with "auto update" support]]></title>
+        <id>https://www.electron.build/index.html</id>
+        <link href="https://www.electron.build/index.html"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is an LLM and Why Transformers Changed Everything]]></title>
-        <id>https://pub.towardsai.net/what-is-an-llm-and-why-transformers-changed-everything-c69f601ef788?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-is-an-llm-and-why-transformers-changed-everything-c69f601ef788?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Checkpoint/Restore in Userspace (CRIU)]]></title>
+        <id>https://criu.org/Main_Page</id>
+        <link href="https://criu.org/Main_Page"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Databricks Generative AI Engineer Associate : Study Guide]]></title>
-        <id>https://pub.towardsai.net/databricks-generative-ai-engineer-associate-study-guide-30e7454c9e7e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/databricks-generative-ai-engineer-associate-study-guide-30e7454c9e7e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Shape of a Guitar Pick]]></title>
+        <id>https://www.johndcook.com/blog/2026/05/03/guitar-pick/</id>
+        <link href="https://www.johndcook.com/blog/2026/05/03/guitar-pick/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists discover 27 potential new planets that orbit two stars]]></title>
+        <id>https://www.theguardian.com/science/2026/may/04/scientists-discover-27-potential-new-planets</id>
+        <link href="https://www.theguardian.com/science/2026/may/04/scientists-discover-27-potential-new-planets"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Think pop music is basic? Even classical and jazz are getting less complex]]></title>
+        <id>https://connectsci.au/news/news-parent/9259/Think-pop-music-is-basic-Even-classical-and-jazz</id>
+        <link href="https://connectsci.au/news/news-parent/9259/Think-pop-music-is-basic-Even-classical-and-jazz"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shoppers falsely identified by facial recognition system]]></title>
+        <id>https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name</id>
+        <link href="https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PicoServer: A glue library embedding web server for .NET, no IIS, no Kestrel]]></title>
+        <id>https://www.nuget.org/packages/PicoServer</id>
+        <link href="https://www.nuget.org/packages/PicoServer"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
