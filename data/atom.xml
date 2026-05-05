@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-04T22:00:55.286Z</updated>
+    <updated>2026-05-05T00:00:58.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,23 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Valve just imported 50 tons of game consoles in two days]]></title>
+        <id>https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026</id>
+        <link href="https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk will settle the feds’ Twitter lawsuit with pocket change]]></title>
+        <id>https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x</id>
+        <link href="https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What to Know About Sony’s $7.85 Million PlayStation Settlement]]></title>
         <id>https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/</id>
         <link href="https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/"/>
-        <updated>2026-05-04T16:00:00.000Z</updated>
-        <published>2026-05-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Katie Haun raises $1B for new venture funds]]></title>
-        <id>https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/</id>
-        <link href="https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/"/>
-        <updated>2026-05-04T16:00:00.000Z</updated>
-        <published>2026-05-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sierra raises $950M as the race to own enterprise AI gets serious]]></title>
-        <id>https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/</id>
-        <link href="https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/"/>
         <updated>2026-05-04T16:00:00.000Z</updated>
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
@@ -43,16 +43,58 @@
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China is an engineers' country, but US and Germany are now lawyers' countries]]></title>
-        <id>https://www.globaltimes.cn/page/202605/1360255.shtml</id>
-        <link href="https://www.globaltimes.cn/page/202605/1360255.shtml"/>
+        <title type="html"><![CDATA[Sierra raises $950M as the race to own enterprise AI gets serious]]></title>
+        <id>https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/</id>
+        <link href="https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/"/>
         <updated>2026-05-04T16:00:00.000Z</updated>
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube now has customizable multiview]]></title>
-        <id>https://www.androidauthority.com/youtube-tv-customizable-multiview-how-to-make-3660768/</id>
-        <link href="https://www.androidauthority.com/youtube-tv-customizable-multiview-how-to-make-3660768/"/>
+        <title type="html"><![CDATA[Katie Haun raises $1B for new venture funds]]></title>
+        <id>https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/</id>
+        <link href="https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Austria expels three Russian embassy staff after 'forest of antennae' discovered]]></title>
+        <id>https://www.theguardian.com/world/2026/may/04/austria-expels-three-russian-embassy-staff-vienna-suspicion-of-spying</id>
+        <link href="https://www.theguardian.com/world/2026/may/04/austria-expels-three-russian-embassy-staff-vienna-suspicion-of-spying"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Yames – A distraction-free desktop metronome built with Rust and Tauri]]></title>
+        <id>https://turutupa.github.io/yames/</id>
+        <link href="https://turutupa.github.io/yames/"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Cocodona Livestream Day 1 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=dWhF6tTn8zI</id>
+        <link href="https://www.youtube.com/watch?v=dWhF6tTn8zI"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metalenz Has Figured Out a Way to Make Face ID Invisible]]></title>
+        <id>https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/</id>
+        <link href="https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Started Exploring Payment Infrastructure for Online Businesses (Stripe, API)]]></title>
+        <id>https://chain2pay.cloud</id>
+        <link href="https://chain2pay.cloud"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Decoded Isn't Verified: Closing a Trust-Boundary Gap in Envoy's JWT Filter]]></title>
+        <id>https://netguard24-7.com/blog/envoy-jwt-authn-confused-deputy-pr-43630</id>
+        <link href="https://netguard24-7.com/blog/envoy-jwt-authn-confused-deputy-pr-43630"/>
         <updated>2026-05-04T16:00:00.000Z</updated>
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
@@ -64,37 +106,30 @@
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Cut 8,000 Jobs to Fund AI. Zuckerberg Said It Out Loud. Nobody Noticed.]]></title>
-        <id>https://pub.towardsai.net/meta-cut-8-000-jobs-to-fund-ai-zuckerberg-said-it-out-loud-nobody-noticed-2f1eec1472e0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/meta-cut-8-000-jobs-to-fund-ai-zuckerberg-said-it-out-loud-nobody-noticed-2f1eec1472e0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[YouTube now has customizable multiview]]></title>
+        <id>https://www.androidauthority.com/youtube-tv-customizable-multiview-how-to-make-3660768/</id>
+        <link href="https://www.androidauthority.com/youtube-tv-customizable-multiview-how-to-make-3660768/"/>
         <updated>2026-05-04T16:00:00.000Z</updated>
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Nobody Tells You About Building a Personal Knowledge Base With LLMs]]></title>
-        <id>https://pub.towardsai.net/what-nobody-tells-you-about-building-a-personal-knowledge-base-with-llms-283e944ac730?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-nobody-tells-you-about-building-a-personal-knowledge-base-with-llms-283e944ac730?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[China is an engineers' country, but US and Germany are now lawyers' countries]]></title>
+        <id>https://www.globaltimes.cn/page/202605/1360255.shtml</id>
+        <link href="https://www.globaltimes.cn/page/202605/1360255.shtml"/>
         <updated>2026-05-04T16:00:00.000Z</updated>
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAX User-Defined Functions in Power BI (Preview): How One Function Replaced 40 Format Strings in My…]]></title>
-        <id>https://pub.towardsai.net/dax-user-defined-functions-in-power-bi-preview-how-one-function-replaced-40-format-strings-in-my-0d4d977fb506?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/dax-user-defined-functions-in-power-bi-preview-how-one-function-replaced-40-format-strings-in-my-0d4d977fb506?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Evolution of AI Systems — From Reactive Chatbots to Autonomous Agents]]></title>
+        <id>https://pub.towardsai.net/the-evolution-of-ai-systems-from-reactive-chatbots-to-autonomous-agents-6572ef9de312?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-evolution-of-ai-systems-from-reactive-chatbots-to-autonomous-agents-6572ef9de312?source=rss----98111c9905da---4"/>
         <updated>2026-05-04T16:00:00.000Z</updated>
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Three Companies Tried Replacing Data Analysts With AI.]]></title>
-        <id>https://pub.towardsai.net/three-companies-tried-replacing-data-analysts-with-ai-f9930095ae17?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/three-companies-tried-replacing-data-analysts-with-ai-f9930095ae17?source=rss----98111c9905da---4"/>
-        <updated>2026-05-04T16:00:00.000Z</updated>
-        <published>2026-05-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real Leap Is Not Better Retrieval. It’s Better Control Over Retrieval.]]></title>
-        <id>https://pub.towardsai.net/the-real-leap-is-not-better-retrieval-its-better-control-over-retrieval-2bd470bba9d3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-real-leap-is-not-better-retrieval-its-better-control-over-retrieval-2bd470bba9d3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[OpenAI Just Resurrected Clippy. This Time It’s Actually Useful.]]></title>
+        <id>https://pub.towardsai.net/openai-just-resurrected-clippy-this-time-its-actually-useful-d5d6d8ad1b8c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openai-just-resurrected-clippy-this-time-its-actually-useful-d5d6d8ad1b8c?source=rss----98111c9905da---4"/>
         <updated>2026-05-04T16:00:00.000Z</updated>
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
@@ -106,6 +141,48 @@
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Real Leap Is Not Better Retrieval. It’s Better Control Over Retrieval.]]></title>
+        <id>https://pub.towardsai.net/the-real-leap-is-not-better-retrieval-its-better-control-over-retrieval-2bd470bba9d3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-real-leap-is-not-better-retrieval-its-better-control-over-retrieval-2bd470bba9d3?source=rss----98111c9905da---4"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Companies Tried Replacing Data Analysts With AI.]]></title>
+        <id>https://pub.towardsai.net/three-companies-tried-replacing-data-analysts-with-ai-f9930095ae17?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/three-companies-tried-replacing-data-analysts-with-ai-f9930095ae17?source=rss----98111c9905da---4"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAX User-Defined Functions in Power BI (Preview): How One Function Replaced 40 Format Strings in My…]]></title>
+        <id>https://pub.towardsai.net/dax-user-defined-functions-in-power-bi-preview-how-one-function-replaced-40-format-strings-in-my-0d4d977fb506?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/dax-user-defined-functions-in-power-bi-preview-how-one-function-replaced-40-format-strings-in-my-0d4d977fb506?source=rss----98111c9905da---4"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Nobody Tells You About Building a Personal Knowledge Base With LLMs]]></title>
+        <id>https://pub.towardsai.net/what-nobody-tells-you-about-building-a-personal-knowledge-base-with-llms-283e944ac730?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-nobody-tells-you-about-building-a-personal-knowledge-base-with-llms-283e944ac730?source=rss----98111c9905da---4"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Cut 8,000 Jobs to Fund AI. Zuckerberg Said It Out Loud. Nobody Noticed.]]></title>
+        <id>https://pub.towardsai.net/meta-cut-8-000-jobs-to-fund-ai-zuckerberg-said-it-out-loud-nobody-noticed-2f1eec1472e0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/meta-cut-8-000-jobs-to-fund-ai-zuckerberg-said-it-out-loud-nobody-noticed-2f1eec1472e0?source=rss----98111c9905da---4"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Granite 4.1 3B SVG Pelican Gallery]]></title>
+        <id>https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TRE Python binding — ReDoS robustness demo]]></title>
         <id>https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything</id>
         <link href="https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything"/>
@@ -113,72 +190,16 @@
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best 7 Ways to Buy Verified KuCoin Accounts on a Budget]]></title>
-        <id>https://dev.to/carry5474/best-7-ways-to-buy-verified-kucoin-accounts-on-a-budget-lbo</id>
-        <link href="https://dev.to/carry5474/best-7-ways-to-buy-verified-kucoin-accounts-on-a-budget-lbo"/>
+        <title type="html"><![CDATA[I built a REST API that detects how your users feel in real time]]></title>
+        <id>https://dev.to/bendrotstudios/i-built-a-rest-api-that-detects-how-your-users-feel-in-real-time-113a</id>
+        <link href="https://dev.to/bendrotstudios/i-built-a-rest-api-that-detects-how-your-users-feel-in-real-time-113a"/>
         <updated>2026-05-04T16:00:00.000Z</updated>
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buy Verified OKX Accounts | 100% Reliable & Safe ...]]></title>
-        <id>https://dev.to/carry5474/buy-verified-okx-accounts-100-reliable-safe--2p5k</id>
-        <link href="https://dev.to/carry5474/buy-verified-okx-accounts-100-reliable-safe--2p5k"/>
-        <updated>2026-05-04T16:00:00.000Z</updated>
-        <published>2026-05-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fastest and Easiest Way to Buy Verified Mexc Accounts]]></title>
-        <id>https://dev.to/carry5474/the-fastest-and-easiest-way-to-buy-verified-mexc-accounts-3oa1</id>
-        <link href="https://dev.to/carry5474/the-fastest-and-easiest-way-to-buy-verified-mexc-accounts-3oa1"/>
-        <updated>2026-05-04T16:00:00.000Z</updated>
-        <published>2026-05-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Added OpenSSF Scorecard to getcommit.dev. The Results Tell Two Different Stories.]]></title>
-        <id>https://dev.to/piiiico/i-added-openssf-scorecard-to-getcommitdev-the-results-tell-two-different-stories-ccn</id>
-        <link href="https://dev.to/piiiico/i-added-openssf-scorecard-to-getcommitdev-the-results-tell-two-different-stories-ccn"/>
-        <updated>2026-05-04T16:00:00.000Z</updated>
-        <published>2026-05-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your package.json only shows 20 dependencies. Your lock file has 487. I built a scanner for the other 467.]]></title>
-        <id>https://dev.to/piiiico/your-packagejson-only-shows-20-dependencies-your-lock-file-has-487-i-built-a-scanner-for-the-3gg4</id>
-        <link href="https://dev.to/piiiico/your-packagejson-only-shows-20-dependencies-your-lock-file-has-487-i-built-a-scanner-for-the-3gg4"/>
-        <updated>2026-05-04T16:00:00.000Z</updated>
-        <published>2026-05-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Sites To Buy Verified Binance Accounts ...]]></title>
-        <id>https://dev.to/carry5474/top-10-sites-to-buy-verified-binance-accounts--4loc</id>
-        <link href="https://dev.to/carry5474/top-10-sites-to-buy-verified-binance-accounts--4loc"/>
-        <updated>2026-05-04T16:00:00.000Z</updated>
-        <published>2026-05-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Best Sites to Buy Facebook Reviews]]></title>
-        <id>https://dev.to/carry5474/5-best-sites-to-buy-facebook-reviews-2p6g</id>
-        <link href="https://dev.to/carry5474/5-best-sites-to-buy-facebook-reviews-2p6g"/>
-        <updated>2026-05-04T16:00:00.000Z</updated>
-        <published>2026-05-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy BBB Reviews – Boost Trust & Business Credibility]]></title>
-        <id>https://dev.to/carry5474/buy-bbb-reviews-boost-trust-business-credibility-2m3</id>
-        <link href="https://dev.to/carry5474/buy-bbb-reviews-boost-trust-business-credibility-2m3"/>
-        <updated>2026-05-04T16:00:00.000Z</updated>
-        <published>2026-05-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Old GitHub Accounts for Maximum Credibility]]></title>
-        <id>https://dev.to/jenica_tucker_268c6d70301/buy-old-github-accounts-for-maximum-credibility-1fk3</id>
-        <link href="https://dev.to/jenica_tucker_268c6d70301/buy-old-github-accounts-for-maximum-credibility-1fk3"/>
-        <updated>2026-05-04T16:00:00.000Z</updated>
-        <published>2026-05-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redefining the Boundaries of Web Puzzle Games with LOOP (05/04 19:55)]]></title>
-        <id>https://dev.to/harumasa_matsushita/redefining-the-boundaries-of-web-puzzle-games-with-loop-0504-1955-28lj</id>
-        <link href="https://dev.to/harumasa_matsushita/redefining-the-boundaries-of-web-puzzle-games-with-loop-0504-1955-28lj"/>
+        <title type="html"><![CDATA["Honest Fresher Salary Guide 2026 — City by City (Bangalore, Delhi, Mumbai)"]]></title>
+        <id>https://dev.to/devraj_singh7/honest-fresher-salary-guide-2026-city-by-city-bangalore-delhi-mumbai-51j1</id>
+        <link href="https://dev.to/devraj_singh7/honest-fresher-salary-guide-2026-city-by-city-bangalore-delhi-mumbai-51j1"/>
         <updated>2026-05-04T16:00:00.000Z</updated>
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
@@ -190,58 +211,79 @@
         <published>2026-05-04T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Redefining the Boundaries of Web Puzzle Games with LOOP (05/04 19:55)]]></title>
+        <id>https://dev.to/harumasa_matsushita/redefining-the-boundaries-of-web-puzzle-games-with-loop-0504-1955-28lj</id>
+        <link href="https://dev.to/harumasa_matsushita/redefining-the-boundaries-of-web-puzzle-games-with-loop-0504-1955-28lj"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Old GitHub Accounts for Maximum Credibility]]></title>
+        <id>https://dev.to/jenica_tucker_268c6d70301/buy-old-github-accounts-for-maximum-credibility-1fk3</id>
+        <link href="https://dev.to/jenica_tucker_268c6d70301/buy-old-github-accounts-for-maximum-credibility-1fk3"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy BBB Reviews – Boost Trust & Business Credibility]]></title>
+        <id>https://dev.to/carry5474/buy-bbb-reviews-boost-trust-business-credibility-2m3</id>
+        <link href="https://dev.to/carry5474/buy-bbb-reviews-boost-trust-business-credibility-2m3"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Best Sites to Buy Facebook Reviews]]></title>
+        <id>https://dev.to/carry5474/5-best-sites-to-buy-facebook-reviews-2p6g</id>
+        <link href="https://dev.to/carry5474/5-best-sites-to-buy-facebook-reviews-2p6g"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Sites To Buy Verified Binance Accounts ...]]></title>
+        <id>https://dev.to/carry5474/top-10-sites-to-buy-verified-binance-accounts--4loc</id>
+        <link href="https://dev.to/carry5474/top-10-sites-to-buy-verified-binance-accounts--4loc"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your package.json only shows 20 dependencies. Your lock file has 487. I built a scanner for the other 467.]]></title>
+        <id>https://dev.to/piiiico/your-packagejson-only-shows-20-dependencies-your-lock-file-has-487-i-built-a-scanner-for-the-3gg4</id>
+        <link href="https://dev.to/piiiico/your-packagejson-only-shows-20-dependencies-your-lock-file-has-487-i-built-a-scanner-for-the-3gg4"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Added OpenSSF Scorecard to getcommit.dev. The Results Tell Two Different Stories.]]></title>
+        <id>https://dev.to/piiiico/i-added-openssf-scorecard-to-getcommitdev-the-results-tell-two-different-stories-ccn</id>
+        <link href="https://dev.to/piiiico/i-added-openssf-scorecard-to-getcommitdev-the-results-tell-two-different-stories-ccn"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fastest and Easiest Way to Buy Verified Mexc Accounts]]></title>
+        <id>https://dev.to/carry5474/the-fastest-and-easiest-way-to-buy-verified-mexc-accounts-3oa1</id>
+        <link href="https://dev.to/carry5474/the-fastest-and-easiest-way-to-buy-verified-mexc-accounts-3oa1"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Verified OKX Accounts | 100% Reliable & Safe ...]]></title>
+        <id>https://dev.to/carry5474/buy-verified-okx-accounts-100-reliable-safe--2p5k</id>
+        <link href="https://dev.to/carry5474/buy-verified-okx-accounts-100-reliable-safe--2p5k"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best 7 Ways to Buy Verified KuCoin Accounts on a Budget]]></title>
+        <id>https://dev.to/carry5474/best-7-ways-to-buy-verified-kucoin-accounts-on-a-budget-lbo</id>
+        <link href="https://dev.to/carry5474/best-7-ways-to-buy-verified-kucoin-accounts-on-a-budget-lbo"/>
+        <updated>2026-05-04T16:00:00.000Z</updated>
+        <published>2026-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hisense aggressively cuts the price of its RGB LED TV on release day]]></title>
         <id>https://www.theverge.com/tech/922571/hisense-cuts-price-ur9</id>
         <link href="https://www.theverge.com/tech/922571/hisense-cuts-price-ur9"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RFK Jr.’s New Podcast Is as Weird as You’d Expect]]></title>
-        <id>https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/</id>
-        <link href="https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Federal Worker Was Fired for Filming DOGE. Now She’s Running for Congress]]></title>
-        <id>https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/</id>
-        <link href="https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Listening to ‘Subliminals’ Make You Beautiful? Plenty of Women Believe It]]></title>
-        <id>https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/</id>
-        <link href="https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-star-wars-gifts/</id>
-        <link href="https://www.wired.com/gallery/best-star-wars-gifts/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers]]></title>
-        <id>https://www.wired.com/gallery/best-magsafe-wireless-chargers/</id>
-        <link href="https://www.wired.com/gallery/best-magsafe-wireless-chargers/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Science Has Found Even More Ways Coffee Is Good for You]]></title>
-        <id>https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/</id>
-        <link href="https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive: Metalenz Has Figured Out a Way to Make Face ID Invisible]]></title>
-        <id>https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/</id>
-        <link href="https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
@@ -253,30 +295,51 @@
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[As X shuts down Communities, Acorn debuts an alternative that puts creators in control]]></title>
-        <id>https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/</id>
-        <link href="https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/"/>
+        <title type="html"><![CDATA[Exclusive: Metalenz Has Figured Out a Way to Make Face ID Invisible]]></title>
+        <id>https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/</id>
+        <link href="https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Barocal can cool your food and drink by squeezing a hunk of plastic crystals]]></title>
-        <id>https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/</id>
-        <link href="https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/"/>
+        <title type="html"><![CDATA[Science Has Found Even More Ways Coffee Is Good for You]]></title>
+        <id>https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/</id>
+        <link href="https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse]]></title>
-        <id>https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/</id>
-        <link href="https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/"/>
+        <title type="html"><![CDATA[15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers]]></title>
+        <id>https://www.wired.com/gallery/best-magsafe-wireless-chargers/</id>
+        <link href="https://www.wired.com/gallery/best-magsafe-wireless-chargers/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘This is fine’ creator says AI startup stole his art]]></title>
-        <id>https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/</id>
-        <link href="https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"/>
+        <title type="html"><![CDATA[The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2026)]]></title>
+        <id>https://www.wired.com/gallery/best-star-wars-gifts/</id>
+        <link href="https://www.wired.com/gallery/best-star-wars-gifts/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Listening to ‘Subliminals’ Make You Beautiful? Plenty of Women Believe It]]></title>
+        <id>https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/</id>
+        <link href="https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Federal Worker Was Fired for Filming DOGE. Now She’s Running for Congress]]></title>
+        <id>https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/</id>
+        <link href="https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/"/>
+        <updated>2026-05-03T16:00:00.000Z</updated>
+        <published>2026-05-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFK Jr.’s New Podcast Is as Weird as You’d Expect]]></title>
+        <id>https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/</id>
+        <link href="https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
@@ -288,79 +351,16 @@
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OSTree Overview – Ostreedev/Ostree]]></title>
-        <id>https://ostreedev.github.io/ostree/introduction/</id>
-        <link href="https://ostreedev.github.io/ostree/introduction/"/>
+        <title type="html"><![CDATA[‘This is fine’ creator says AI startup stole his art]]></title>
+        <id>https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/</id>
+        <link href="https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Call JavaScript functions across thread boundaries like they were local]]></title>
-        <id>https://www.npmjs.com/package/achi-rpc</id>
-        <link href="https://www.npmjs.com/package/achi-rpc"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golang Tutorial: Find and fix vulnerable dependencies with govulncheck]]></title>
-        <id>https://go.dev/doc/tutorial/govulncheck</id>
-        <link href="https://go.dev/doc/tutorial/govulncheck"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda Cold Start: Java, Python, Go, Rust]]></title>
-        <id>https://medium.com/@yalovoy/four-million-lambda-invokes-across-python-java-rust-and-go-5b9218f64563</id>
-        <link href="https://medium.com/@yalovoy/four-million-lambda-invokes-across-python-java-rust-and-go-5b9218f64563"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Package and distribute Electron apps with "auto update" support]]></title>
-        <id>https://www.electron.build/index.html</id>
-        <link href="https://www.electron.build/index.html"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Checkpoint/Restore in Userspace (CRIU)]]></title>
-        <id>https://criu.org/Main_Page</id>
-        <link href="https://criu.org/Main_Page"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Shape of a Guitar Pick]]></title>
-        <id>https://www.johndcook.com/blog/2026/05/03/guitar-pick/</id>
-        <link href="https://www.johndcook.com/blog/2026/05/03/guitar-pick/"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists discover 27 potential new planets that orbit two stars]]></title>
-        <id>https://www.theguardian.com/science/2026/may/04/scientists-discover-27-potential-new-planets</id>
-        <link href="https://www.theguardian.com/science/2026/may/04/scientists-discover-27-potential-new-planets"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Think pop music is basic? Even classical and jazz are getting less complex]]></title>
-        <id>https://connectsci.au/news/news-parent/9259/Think-pop-music-is-basic-Even-classical-and-jazz</id>
-        <link href="https://connectsci.au/news/news-parent/9259/Think-pop-music-is-basic-Even-classical-and-jazz"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shoppers falsely identified by facial recognition system]]></title>
-        <id>https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name</id>
-        <link href="https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name"/>
-        <updated>2026-05-03T16:00:00.000Z</updated>
-        <published>2026-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PicoServer: A glue library embedding web server for .NET, no IIS, no Kestrel]]></title>
-        <id>https://www.nuget.org/packages/PicoServer</id>
-        <link href="https://www.nuget.org/packages/PicoServer"/>
+        <title type="html"><![CDATA[We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse]]></title>
+        <id>https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/</id>
+        <link href="https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/"/>
         <updated>2026-05-03T16:00:00.000Z</updated>
         <published>2026-05-03T16:00:00.000Z</published>
     </entry>
