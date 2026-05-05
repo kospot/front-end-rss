@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-05 12:02:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-05 15:03:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -175,14 +175,14 @@ https://dev.to/ckmtools/i-scanned-6-popular-nodejs-repos-for-undocumented-enviro
 - [2026-04-06-A-Unified-Approach-to-Analysis-and-Design-of-Denoising-Markov-Models](https://arxiv.org/abs/2504.01938) 
 - [2026-04-06-LieTrunc-QNN:-Lie-Algebra-Truncation-and-Quantum-Expressivity-Phase-Transition-from-LiePrune-to-Provably-Stable-Quantum-Neural-Networks](https://arxiv.org/abs/2604.02697) 
 - [2026-04-06-Not-All-Denoising-Steps-Are-Equal:-Model-Scheduling-for-Faster-Masked-Diffusion-Language-Models](https://arxiv.org/abs/2604.02340) 
-- [2026-05-04-Practical-Electronics-Course](https://practicingelectronics.com/practical-electronics-course/) 
 - [2026-05-04-Package-and-distribute-Electron-apps-with-"auto-update"-support](https://www.electron.build/index.html) 
-- [2026-04-28-Switched-from-robot_localization-to-a-single-node-GPS-fusion-setup](https://github.com/manankharwar/fusioncore) 
+- [2026-05-04-Practical-Electronics-Course](https://practicingelectronics.com/practical-electronics-course/) 
 - [2026-04-28-I-migrated-16-sites-between-Linode-servers-in-1-day-with-Claude-Code](https://thekeesh.com/2026/04/how-i-migrated-16-sites-between-linode-servers-in-1-day-with-claude-code/) 
+- [2026-04-28-Switched-from-robot_localization-to-a-single-node-GPS-fusion-setup](https://github.com/manankharwar/fusioncore) 
 - [2026-04-25-What-Happens-When-You-Build-an-Inode-Style-Vector-in-Rust](https://sot.dev/inode-style-vector-in-rust.html) 
 - [2026-04-21-Writing-Node.js-Addons-with-.NET-Native-AOT](https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/) 
-- [2026-04-19-The-Flipper-Zero-is-now-rewriting-electronic-price-tags-The-Verge](https://www.theverge.com/tech/912713/the-flipper-zero-is-now-rickrolling-electronic-price-tags-at-retail) 
 - [2026-04-19-Show-HN:-Fuelgauge-–-a-Claude-Code-status-line-that-doesn't-need-Node](https://github.com/adityaarakeri/fuelgauge) 
+- [2026-04-19-The-Flipper-Zero-is-now-rewriting-electronic-price-tags-The-Verge](https://www.theverge.com/tech/912713/the-flipper-zero-is-now-rickrolling-electronic-price-tags-at-retail) 
 - [2026-04-17-Drive-Without-Gasoline-–-V8-Wood-Gas-Chevrolet-Fleetside-video](https://www.youtube.com/watch?v=bWnhtqDJwIU) 
 - [2026-04-16-IPv6-Has-Failed:-Meet-IPv8-–-IPv4,-but-Better](https://medium.com/asecuritysite-when-bob-met-alice/meet-ipv8-ipv4-but-better-cb5c18180863) 
 - [2026-04-12-Why-the-Grand-Paris-Express-Is-Europes-Biggest-Infrastructure-Project-video](https://www.youtube.com/watch?v=c_iuctRkmp0) 

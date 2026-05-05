@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-05 12:02:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-05 15:03:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -81,5 +81,5 @@ https://dev.to/ckmtools/i-wrapped-my-free-npm-package-as-a-paid-rest-api-heres-t
 - [2026-04-22-Jeffrey-Epstein's-name-appears-twice-on-a-2015-Silicon-Valley-dinner-invite](https://hebrewhorror.substack.com/p/the-eternal-jew-the-eternal-jeff) 
 - [2026-04-21-Using-Changesets-in-a-polyglot-monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/) 
 - [2026-04-11-Selective-Test-Execution-at-Stripe:-Fast-CI-for-a-50M-Line-Ruby-Monorepo](https://stripe.dev/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo) 
-- [2026-04-07-Show-HN:-CacheZero-–-Karpathy's-LLM-wiki-idea-as-one-NPM-install](https://news.ycombinator.com/item?id=47667723) 
 - [2026-04-07-58%-of-PRs-in-our-largest-monorepo-merge-without-human-review](https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review) 
+- [2026-04-07-Show-HN:-CacheZero-–-Karpathy's-LLM-wiki-idea-as-one-NPM-install](https://news.ycombinator.com/item?id=47667723) 

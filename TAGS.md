@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-05 12:02:01。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-05 15:03:26。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -646,12 +646,12 @@ https://aralroca.hashnode.dev/one-pr-to-a-parser-unlocked-prerendering-in-brisa
 
 
 - [【前端之巅】I-Got-a-Job-Offer.-But,-It-Came-With-Malware.](https://dev.to/denyherianto/i-got-a-job-offer-but-it-came-with-malwares-4c9a)
-- [【Hacker News】GameStop-Is-Offering-to-Buy-eBay-for-$56B,-CEO-Ryan-Cohen-Says](https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a)
 - [【Hacker News】Midori,-the-first-browser-to-offer-a-VPN-with-Mesh-technology](https://astian.org/midori-en/performance-adblock-and-more-in-midori-11-7-1/)
+- [【Hacker News】GameStop-Is-Offering-to-Buy-eBay-for-$56B,-CEO-Ryan-Cohen-Says](https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a)
 - [【Hacker News】GameStop-Preparing-Offer-for-eBay](https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de)
 - [【Hacker News】Amazon-is-offering-new-OpenAI-products-on-AWS](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/)
-- [【Hacker News】Microsoft-offers-voluntary-employee-buyout/retirement-for-7%-of-U.S.-workforce](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html)
 - [【Hacker News】Rippling-exposed-your-SSN/banking-to-anyone-who-sent-you-an-offer-letter](https://infosec.exchange/@SecureOwl/116415101610028363)
+- [【Hacker News】Microsoft-offers-voluntary-employee-buyout/retirement-for-7%-of-U.S.-workforce](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html)
 - [【Hacker News】Light-activated-material-offers-new-approach-to-carbon-dioxide-conversion](https://phys.org/news/2026-03-material-approach-carbon-dioxide-conversion.html)
 - [【Hacker News】AI-dolls-offer-companionship-to-the-elderly](https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd)
 - [【TechCrunch】In-Harvard-study,-AI-offered-more-accurate-emergency-room-diagnoses-than-two-human-doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)
