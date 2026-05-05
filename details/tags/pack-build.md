@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-05 21:02:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-05 23:03:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -64,14 +64,14 @@
 - [2026-04-11-I-Built-an-ESLint-Plugin-+-Zero-Config-CLI-That-Catches-AI-Generated-Code-Slop-1,137-Downloads-in-Days](https://dev.to/yashjadhav21/i-built-an-eslint-plugin-zero-config-cli-that-catches-ai-generated-code-slop-1137-downloads-in-4dkm) 
 - [2026-04-11-Move-From-Vite-To-Ionify](https://dev.to/khaledmsalem/move-from-vite-to-ionify-4dj6) 
 - [2026-04-24-npm/cli](https://github.com/npm/cli) 
-- [2026-04-11--I-Wrapped-My-Free-npm-Package-as-a-Paid-REST-API-—-Here's-the-Architecture-](
-https://dev.to/ckmtools/i-wrapped-my-free-npm-package-as-a-paid-rest-api-heres-the-architecture-24p9
-) 
+- [2026-04-11-eslint/eslint](https://github.com/eslint/eslint) 
+- [2026-04-11-webpack/webpack](https://github.com/webpack/webpack) 
 - [2026-04-11--I-Built-an-npm-Package-and-Tracked-Every-Download-for-Two-Weeks.-Here's-the-Data.-](
 https://dev.to/ckmtools/i-built-an-npm-package-and-tracked-every-download-for-two-weeks-heres-the-data-3jck
 ) 
-- [2026-04-11-webpack/webpack](https://github.com/webpack/webpack) 
-- [2026-04-11-eslint/eslint](https://github.com/eslint/eslint) 
+- [2026-04-11--I-Wrapped-My-Free-npm-Package-as-a-Paid-REST-API-—-Here's-the-Architecture-](
+https://dev.to/ckmtools/i-wrapped-my-free-npm-package-as-a-paid-rest-api-heres-the-architecture-24p9
+) 
 - [2026-04-08-Anthropic-Code-Leak:-512,000-Lines-Exposed-by-One-npm-Mistake](https://pub.towardsai.net/anthropic-code-leak-512-000-lines-exposed-by-one-npm-mistake-df261de3ff1c?source=rss----98111c9905da---4) 
 - [2026-05-05-Show-HN:-I-Built-a-Polyfill-for-the-Browser's-New-Language-Detection-API](https://unforbiddenyet.substack.com/p/i-built-a-polyfill-for-the-browsers) 
 - [2026-05-03-Mistral-Medium-3.5-YaRN-bug-fix](https://huggingface.co/mistralai/Mistral-Medium-3.5-128B/discussions/18) 
@@ -82,5 +82,5 @@ https://dev.to/ckmtools/i-built-an-npm-package-and-tracked-every-download-for-tw
 - [2026-04-22-Jeffrey-Epstein's-name-appears-twice-on-a-2015-Silicon-Valley-dinner-invite](https://hebrewhorror.substack.com/p/the-eternal-jew-the-eternal-jeff) 
 - [2026-04-21-Using-Changesets-in-a-polyglot-monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/) 
 - [2026-04-11-Selective-Test-Execution-at-Stripe:-Fast-CI-for-a-50M-Line-Ruby-Monorepo](https://stripe.dev/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo) 
-- [2026-04-07-58%-of-PRs-in-our-largest-monorepo-merge-without-human-review](https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review) 
 - [2026-04-07-Show-HN:-CacheZero-–-Karpathy's-LLM-wiki-idea-as-one-NPM-install](https://news.ycombinator.com/item?id=47667723) 
+- [2026-04-07-58%-of-PRs-in-our-largest-monorepo-merge-without-human-review](https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review) 
