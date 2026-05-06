@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-06T07:02:50.356Z</updated>
+    <updated>2026-05-06T10:01:30.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -85,198 +85,65 @@
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PostHog Code]]></title>
-        <id>https://posthog.com/code</id>
-        <link href="https://posthog.com/code"/>
+        <title type="html"><![CDATA[How Mobile Ethnography Is Transforming Research from Guesswork]]></title>
+        <id>https://figshare.com/articles/journal_contribution/_sup_How_Mobile_Ethnography_is_Transforming_Research_from_Guesswork_to_Lived_Experience_sup_/32185116</id>
+        <link href="https://figshare.com/articles/journal_contribution/_sup_How_Mobile_Ethnography_is_Transforming_Research_from_Guesswork_to_Lived_Experience_sup_/32185116"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitter Lessons from the ISSpresso]]></title>
-        <id>https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso</id>
-        <link href="https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso"/>
+        <title type="html"><![CDATA[Show HN: BotParty, a native macOS chat app where conversations are documents]]></title>
+        <id>https://botparty.com/</id>
+        <link href="https://botparty.com/"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[.de domains were 'down' for 2 hours]]></title>
-        <id>https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38</id>
-        <link href="https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38"/>
+        <title type="html"><![CDATA[Ghost map: Europe's first glimpse of Tenochtitlan shows a city destroyed]]></title>
+        <id>https://bigthink.com/strange-maps/aztec-capital-map/</id>
+        <link href="https://bigthink.com/strange-maps/aztec-capital-map/"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New PyXHDL Release (Python Frontend To VHDL And Verilog)]]></title>
-        <id>https://github.com/davidel/pyxhdl</id>
-        <link href="https://github.com/davidel/pyxhdl"/>
+        <title type="html"><![CDATA[Ask your agent to do Docker and K8s]]></title>
+        <id>https://ingresslabs.github.io/torque/</id>
+        <link href="https://ingresslabs.github.io/torque/"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reverse-engineering the 1998 Ultima Online demo server]]></title>
-        <id>https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html</id>
-        <link href="https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html"/>
+        <title type="html"><![CDATA[Git worktree manager with fuzzy finder]]></title>
+        <id>https://github.com/d-kuro/gwq/tree/main</id>
+        <link href="https://github.com/d-kuro/gwq/tree/main"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google DeepMind workers vote to unionize over military AI deals]]></title>
-        <id>https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/</id>
-        <link href="https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/"/>
+        <title type="html"><![CDATA[The Faster You Go, the Wronger You Get]]></title>
+        <id>https://hagakure.substack.com/p/the-bottleneck-was-understanding</id>
+        <link href="https://hagakure.substack.com/p/the-bottleneck-was-understanding"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reflections on the motive power of heat (1890)]]></title>
-        <id>https://gutenberg.org/cache/epub/78610/pg78610-images.html</id>
-        <link href="https://gutenberg.org/cache/epub/78610/pg78610-images.html"/>
+        <title type="html"><![CDATA[Deltax – structured reasoning for complex scientific claims]]></title>
+        <id>https://chatgpt.com/g/g-69f11b6a1bdc8191ab1100acf60f40cc-deltdx-free</id>
+        <link href="https://chatgpt.com/g/g-69f11b6a1bdc8191ab1100acf60f40cc-deltdx-free"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Integrate Cashfree Payments in less than 7 minutes]]></title>
-        <id>https://tech.cashfree.com/building-cashfree-agent-skills-a-task-aware-knowledge-layer-for-ai-coding-assistants-84098c384f26</id>
-        <link href="https://tech.cashfree.com/building-cashfree-agent-skills-a-task-aware-knowledge-layer-for-ai-coding-assistants-84098c384f26"/>
+        <title type="html"><![CDATA[Researchers turn ocean dead zones into talking skies for pilots]]></title>
+        <id>https://english.elpais.com/technology/2026-05-03/researchers-turn-ocean-dead-zones-into-talking-skies-for-pilots.html</id>
+        <link href="https://english.elpais.com/technology/2026-05-03/researchers-turn-ocean-dead-zones-into-talking-skies-for-pilots.html"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gitea Runner 1.0.0 is released]]></title>
-        <id>https://blog.gitea.com/release-of-runner-1.0.0/</id>
-        <link href="https://blog.gitea.com/release-of-runner-1.0.0/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN: GapMap – A quantitative index of knowledge gaps between Wikipedias]]></title>
-        <id>https://www.gapmap.wiki/</id>
-        <link href="https://www.gapmap.wiki/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI delivers low-latency voice AI at scale]]></title>
-        <id>https://www.google.com/</id>
-        <link href="https://www.google.com/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simpler JVM Project Setup with Mill]]></title>
-        <id>https://mill-build.org/blog/17-simpler-jvm-mill-110.html</id>
-        <link href="https://mill-build.org/blog/17-simpler-jvm-mill-110.html"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAG retrieves the refutation and still gets it wrong]]></title>
-        <id>https://reyes.id.au/posts/anchor-catching-the-failure-mode-where-rag-retrieves-the-refutation-and-still-gets-it-wrong/</id>
-        <link href="https://reyes.id.au/posts/anchor-catching-the-failure-mode-where-rag-retrieves-the-refutation-and-still-gets-it-wrong/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers]]></title>
-        <id>https://www.lucasaguiar.xyz/posts/newsletter-beehiiv-cloudflare-github/</id>
-        <link href="https://www.lucasaguiar.xyz/posts/newsletter-beehiiv-cloudflare-github/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Span to launch distributed AI data centers for edge compute]]></title>
-        <id>https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/</id>
-        <link href="https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Reaches $250M Settlement Over Claims It Misled People on A.I]]></title>
-        <id>https://www.nytimes.com/2026/05/05/technology/apple-intelligence-lawsuit-settlement.html</id>
-        <link href="https://www.nytimes.com/2026/05/05/technology/apple-intelligence-lawsuit-settlement.html"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IronMap – Self-hosted fitness tracker with community gym equipment database]]></title>
-        <id>https://github.com/bhman792/ironmap</id>
-        <link href="https://github.com/bhman792/ironmap"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How much of the scientific literature is generated by AI?]]></title>
-        <id>https://www.nature.com/articles/d41586-025-03504-8</id>
-        <link href="https://www.nature.com/articles/d41586-025-03504-8"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache HTTP Server: HTTP2: double free and possible RCE on early reset]]></title>
-        <id>https://www.cve.org/CVERecord?id=CVE-2026-23918</id>
-        <link href="https://www.cve.org/CVERecord?id=CVE-2026-23918"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek V4 Pro: The First Chinese Model at the Frontier]]></title>
-        <id>https://foodtruckbench.com/blog/deepseek-v4-pro</id>
-        <link href="https://foodtruckbench.com/blog/deepseek-v4-pro"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex's precision and attention to detail is *crazy* when set up correctly]]></title>
-        <id>https://news.ycombinator.com/item?id=48030302</id>
-        <link href="https://news.ycombinator.com/item?id=48030302"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese court rules firms can't lay off workers on AI grounds]]></title>
-        <id>https://fortune.com/2026/05/03/chinese-court-layoffs-workers-ai-replacement-labor-market/</id>
-        <link href="https://fortune.com/2026/05/03/chinese-court-layoffs-workers-ai-replacement-labor-market/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not sure how to view or share your Claude Code sessions? Drop them right here]]></title>
-        <id>https://specious.github.io/obsession/</id>
-        <link href="https://specious.github.io/obsession/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwe (kiwi): lightweight, flexible, file-first version/revision control system]]></title>
-        <id>https://github.com/mainak55512/qwe</id>
-        <link href="https://github.com/mainak55512/qwe"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agents can now create Cloudflare accounts, buy domains, and deploy]]></title>
-        <id>https://blog.cloudflare.com/agents-stripe-projects/</id>
-        <link href="https://blog.cloudflare.com/agents-stripe-projects/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supermicro's co-founder smuggled $2.5B in Nvidia-chipped servers to China]]></title>
-        <id>https://finance.yahoo.com/markets/stocks/articles/supermicro-co-founder-allegedly-smuggled-090700142.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/supermicro-co-founder-allegedly-smuggled-090700142.html"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Is reviewing phase on development getting worse?]]></title>
-        <id>https://news.ycombinator.com/item?id=48031799</id>
-        <link href="https://news.ycombinator.com/item?id=48031799"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure Electronic Transaction]]></title>
-        <id>https://en.wikipedia.org/wiki/Secure_Electronic_Transaction</id>
-        <link href="https://en.wikipedia.org/wiki/Secure_Electronic_Transaction"/>
+        <title type="html"><![CDATA[Laid Off After 25 Years in Tech: Anxiety, Sacrifice, Reality No One Talks About [video]]]></title>
+        <id>https://www.youtube.com/watch?v=VeMA9WGKxOg</id>
+        <link href="https://www.youtube.com/watch?v=VeMA9WGKxOg"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
@@ -288,9 +155,198 @@
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laid Off After 25 Years in Tech: Anxiety, Sacrifice, Reality No One Talks About [video]]]></title>
-        <id>https://www.youtube.com/watch?v=VeMA9WGKxOg</id>
-        <link href="https://www.youtube.com/watch?v=VeMA9WGKxOg"/>
+        <title type="html"><![CDATA[Secure Electronic Transaction]]></title>
+        <id>https://en.wikipedia.org/wiki/Secure_Electronic_Transaction</id>
+        <link href="https://en.wikipedia.org/wiki/Secure_Electronic_Transaction"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Is reviewing phase on development getting worse?]]></title>
+        <id>https://news.ycombinator.com/item?id=48031799</id>
+        <link href="https://news.ycombinator.com/item?id=48031799"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supermicro's co-founder smuggled $2.5B in Nvidia-chipped servers to China]]></title>
+        <id>https://finance.yahoo.com/markets/stocks/articles/supermicro-co-founder-allegedly-smuggled-090700142.html</id>
+        <link href="https://finance.yahoo.com/markets/stocks/articles/supermicro-co-founder-allegedly-smuggled-090700142.html"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agents can now create Cloudflare accounts, buy domains, and deploy]]></title>
+        <id>https://blog.cloudflare.com/agents-stripe-projects/</id>
+        <link href="https://blog.cloudflare.com/agents-stripe-projects/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwe (kiwi): lightweight, flexible, file-first version/revision control system]]></title>
+        <id>https://github.com/mainak55512/qwe</id>
+        <link href="https://github.com/mainak55512/qwe"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not sure how to view or share your Claude Code sessions? Drop them right here]]></title>
+        <id>https://specious.github.io/obsession/</id>
+        <link href="https://specious.github.io/obsession/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese court rules firms can't lay off workers on AI grounds]]></title>
+        <id>https://fortune.com/2026/05/03/chinese-court-layoffs-workers-ai-replacement-labor-market/</id>
+        <link href="https://fortune.com/2026/05/03/chinese-court-layoffs-workers-ai-replacement-labor-market/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex's precision and attention to detail is *crazy* when set up correctly]]></title>
+        <id>https://news.ycombinator.com/item?id=48030302</id>
+        <link href="https://news.ycombinator.com/item?id=48030302"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek V4 Pro: The First Chinese Model at the Frontier]]></title>
+        <id>https://foodtruckbench.com/blog/deepseek-v4-pro</id>
+        <link href="https://foodtruckbench.com/blog/deepseek-v4-pro"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache HTTP Server: HTTP2: double free and possible RCE on early reset]]></title>
+        <id>https://www.cve.org/CVERecord?id=CVE-2026-23918</id>
+        <link href="https://www.cve.org/CVERecord?id=CVE-2026-23918"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much of the scientific literature is generated by AI?]]></title>
+        <id>https://www.nature.com/articles/d41586-025-03504-8</id>
+        <link href="https://www.nature.com/articles/d41586-025-03504-8"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IronMap – Self-hosted fitness tracker with community gym equipment database]]></title>
+        <id>https://github.com/bhman792/ironmap</id>
+        <link href="https://github.com/bhman792/ironmap"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Reaches $250M Settlement Over Claims It Misled People on A.I]]></title>
+        <id>https://www.nytimes.com/2026/05/05/technology/apple-intelligence-lawsuit-settlement.html</id>
+        <link href="https://www.nytimes.com/2026/05/05/technology/apple-intelligence-lawsuit-settlement.html"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Span to launch distributed AI data centers for edge compute]]></title>
+        <id>https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/</id>
+        <link href="https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers]]></title>
+        <id>https://www.lucasaguiar.xyz/posts/newsletter-beehiiv-cloudflare-github/</id>
+        <link href="https://www.lucasaguiar.xyz/posts/newsletter-beehiiv-cloudflare-github/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG retrieves the refutation and still gets it wrong]]></title>
+        <id>https://reyes.id.au/posts/anchor-catching-the-failure-mode-where-rag-retrieves-the-refutation-and-still-gets-it-wrong/</id>
+        <link href="https://reyes.id.au/posts/anchor-catching-the-failure-mode-where-rag-retrieves-the-refutation-and-still-gets-it-wrong/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simpler JVM Project Setup with Mill]]></title>
+        <id>https://mill-build.org/blog/17-simpler-jvm-mill-110.html</id>
+        <link href="https://mill-build.org/blog/17-simpler-jvm-mill-110.html"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI delivers low-latency voice AI at scale]]></title>
+        <id>https://www.google.com/</id>
+        <link href="https://www.google.com/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN: GapMap – A quantitative index of knowledge gaps between Wikipedias]]></title>
+        <id>https://www.gapmap.wiki/</id>
+        <link href="https://www.gapmap.wiki/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitea Runner 1.0.0 is released]]></title>
+        <id>https://blog.gitea.com/release-of-runner-1.0.0/</id>
+        <link href="https://blog.gitea.com/release-of-runner-1.0.0/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrate Cashfree Payments in less than 7 minutes]]></title>
+        <id>https://tech.cashfree.com/building-cashfree-agent-skills-a-task-aware-knowledge-layer-for-ai-coding-assistants-84098c384f26</id>
+        <link href="https://tech.cashfree.com/building-cashfree-agent-skills-a-task-aware-knowledge-layer-for-ai-coding-assistants-84098c384f26"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflections on the motive power of heat (1890)]]></title>
+        <id>https://gutenberg.org/cache/epub/78610/pg78610-images.html</id>
+        <link href="https://gutenberg.org/cache/epub/78610/pg78610-images.html"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google DeepMind workers vote to unionize over military AI deals]]></title>
+        <id>https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/</id>
+        <link href="https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse-engineering the 1998 Ultima Online demo server]]></title>
+        <id>https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html</id>
+        <link href="https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New PyXHDL Release (Python Frontend To VHDL And Verilog)]]></title>
+        <id>https://github.com/davidel/pyxhdl</id>
+        <link href="https://github.com/davidel/pyxhdl"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.de domains were 'down' for 2 hours]]></title>
+        <id>https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38</id>
+        <link href="https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitter Lessons from the ISSpresso]]></title>
+        <id>https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso</id>
+        <link href="https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostHog Code]]></title>
+        <id>https://posthog.com/code</id>
+        <link href="https://posthog.com/code"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
@@ -305,62 +361,6 @@
         <title type="html"><![CDATA[How to Think Like a Data Scientist Without Writing Code]]></title>
         <id>https://pub.towardsai.net/how-to-think-like-a-data-scientist-without-writing-code-401436a9ce86?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/how-to-think-like-a-data-scientist-without-writing-code-401436a9ce86?source=rss----98111c9905da---4"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Accuracy Lies: Rethinking Metrics in Imbalanced Multiclass Models]]></title>
-        <id>https://pub.towardsai.net/when-accuracy-lies-rethinking-metrics-in-imbalanced-multiclass-models-82b505353a69?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/when-accuracy-lies-rethinking-metrics-in-imbalanced-multiclass-models-82b505353a69?source=rss----98111c9905da---4"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[datasette-referrer-policy 0.1]]></title>
-        <id>https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StateSMix: Online Lossless Compression via Mamba State Space Models and Sparse N-gram Context Mixing]]></title>
-        <id>https://arxiv.org/abs/2605.02904</id>
-        <link href="https://arxiv.org/abs/2605.02904"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eOptShrinkQ: Near-Lossless KV Cache Compression Through Optimal Spectral Denoising and Quantization]]></title>
-        <id>https://arxiv.org/abs/2605.02905</id>
-        <link href="https://arxiv.org/abs/2605.02905"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning]]></title>
-        <id>https://arxiv.org/abs/2605.02913</id>
-        <link href="https://arxiv.org/abs/2605.02913"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Safety Geometry Collapses: Fine-Tuning Vulnerabilities in Agentic Guard Models]]></title>
-        <id>https://arxiv.org/abs/2605.02914</id>
-        <link href="https://arxiv.org/abs/2605.02914"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset]]></title>
-        <id>https://arxiv.org/abs/2605.02916</id>
-        <link href="https://arxiv.org/abs/2605.02916"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRISM-CTG: A Foundation Model for Cardiotocography Analysis with Multi-View SSL]]></title>
-        <id>https://arxiv.org/abs/2605.02917</id>
-        <link href="https://arxiv.org/abs/2605.02917"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
