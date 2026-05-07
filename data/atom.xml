@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-06T22:00:57.812Z</updated>
+    <updated>2026-05-07T00:02:17.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,13 +15,6 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Mira Murati tells the court that she couldn’t trust Sam Altman’s words]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This slim ice cream maker could fit in my already crowded kitchen]]></title>
         <id>https://www.theverge.com/tech/925124/nutribullet-chill-ice-cream-maker</id>
         <link href="https://www.theverge.com/tech/925124/nutribullet-chill-ice-cream-maker"/>
@@ -29,16 +22,16 @@
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird]]></title>
-        <id>https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/</id>
-        <link href="https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/"/>
+        <title type="html"><![CDATA[Mira Murati tells the court that she couldn’t trust Sam Altman’s words]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast]]></title>
-        <id>https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/</id>
-        <link href="https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/"/>
+        <title type="html"><![CDATA[Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla]]></title>
+        <id>https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/</id>
+        <link href="https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
@@ -50,9 +43,23 @@
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.]]></title>
-        <id>https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/</id>
-        <link href="https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/"/>
+        <title type="html"><![CDATA[Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast]]></title>
+        <id>https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/</id>
+        <link href="https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird]]></title>
+        <id>https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/</id>
+        <link href="https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys]]></title>
+        <id>https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/</id>
+        <link href="https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
@@ -64,9 +71,9 @@
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys]]></title>
-        <id>https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/</id>
-        <link href="https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/"/>
+        <title type="html"><![CDATA[Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.]]></title>
+        <id>https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/</id>
+        <link href="https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
@@ -92,58 +99,9 @@
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seven third-party script patterns we triage before touching CSS]]></title>
-        <id>https://dev.to/apogeewatcher/seven-third-party-script-patterns-we-triage-before-touching-css-1fb1</id>
-        <link href="https://dev.to/apogeewatcher/seven-third-party-script-patterns-we-triage-before-touching-css-1fb1"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best 6 Ways to Buy Verified Gemini Accounts for Secure ...]]></title>
-        <id>https://dev.to/nextion722/best-6-ways-to-buy-verified-gemini-accounts-for-secure--4m3o</id>
-        <link href="https://dev.to/nextion722/best-6-ways-to-buy-verified-gemini-accounts-for-secure--4m3o"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Verified Skrill Accounts – Fast & Secure Access]]></title>
-        <id>https://dev.to/alexlow081/buy-verified-skrill-accounts-fast-secure-access-2k69</id>
-        <link href="https://dev.to/alexlow081/buy-verified-skrill-accounts-fast-secure-access-2k69"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call me back its a promise]]></title>
-        <id>https://dev.to/shivam_yadav_8e22bf5bf987/call-me-back-its-a-promise-57ia</id>
-        <link href="https://dev.to/shivam_yadav_8e22bf5bf987/call-me-back-its-a-promise-57ia"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Verified ByBit Account - Quick KYC & Safe Trading Access]]></title>
-        <id>https://dev.to/nextion722/buy-verified-bybit-account-quick-kyc-safe-trading-access-d75</id>
-        <link href="https://dev.to/nextion722/buy-verified-bybit-account-quick-kyc-safe-trading-access-d75"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Best Sites to Buy Verified Kucoin Accounts]]></title>
-        <id>https://dev.to/nextion722/7-best-sites-to-buy-verified-kucoin-accounts-3g0a</id>
-        <link href="https://dev.to/nextion722/7-best-sites-to-buy-verified-kucoin-accounts-3g0a"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best Sites to Buy Verified OKX Accounts Secure P ...]]></title>
-        <id>https://dev.to/nextion722/10-best-sites-to-buy-verified-okx-accounts-secure-p--5apf</id>
-        <link href="https://dev.to/nextion722/10-best-sites-to-buy-verified-okx-accounts-secure-p--5apf"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro SEO Checklist 2026 and I…]]></title>
-        <id>https://dev.to/norviktech/astro-seo-checklist-2026-and-i-2cfl</id>
-        <link href="https://dev.to/norviktech/astro-seo-checklist-2026-and-i-2cfl"/>
+        <title type="html"><![CDATA[Auto-Furigana in the Browser — Lazy-Loading kuromoji.js's 4 MB Dictionary from a CDN to Annotate Japanese Kanji With Their Readings]]></title>
+        <id>https://dev.to/sendotltd/auto-furigana-in-the-browser-lazy-loading-kuromojijss-4-mb-dictionary-from-a-cdn-to-annotate-3h01</id>
+        <link href="https://dev.to/sendotltd/auto-furigana-in-the-browser-lazy-loading-kuromojijss-4-mb-dictionary-from-a-cdn-to-annotate-3h01"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
@@ -155,58 +113,65 @@
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google&#8217;s AI search summaries will now quote Reddit]]></title>
-        <id>https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links</id>
-        <link href="https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Astro SEO Checklist 2026 and I…]]></title>
+        <id>https://dev.to/norviktech/astro-seo-checklist-2026-and-i-2cfl</id>
+        <link href="https://dev.to/norviktech/astro-seo-checklist-2026-and-i-2cfl"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Remarkable Paper Pure is the best digital notepad I&#8217;ve ever used]]></title>
-        <id>https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on</id>
-        <link href="https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[10 Best Sites to Buy Verified OKX Accounts Secure P ...]]></title>
+        <id>https://dev.to/nextion722/10-best-sites-to-buy-verified-okx-accounts-secure-p--5apf</id>
+        <link href="https://dev.to/nextion722/10-best-sites-to-buy-verified-okx-accounts-secure-p--5apf"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remarkable’s next E Ink digital notepad skips the color screen]]></title>
-        <id>https://www.theverge.com/tech/923994/remarkable-e-ink-tablet-paper-pure-black-and-white-pricing-availability</id>
-        <link href="https://www.theverge.com/tech/923994/remarkable-e-ink-tablet-paper-pure-black-and-white-pricing-availability"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[7 Best Sites to Buy Verified Kucoin Accounts]]></title>
+        <id>https://dev.to/nextion722/7-best-sites-to-buy-verified-kucoin-accounts-3g0a</id>
+        <link href="https://dev.to/nextion722/7-best-sites-to-buy-verified-kucoin-accounts-3g0a"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Energizer’s new coin batteries won’t cause ingestion burns if swallowed]]></title>
-        <id>https://www.theverge.com/tech/924966/energizer-ultimate-child-shield-batteries-ingestion-swallow-burn-prevention</id>
-        <link href="https://www.theverge.com/tech/924966/energizer-ultimate-child-shield-batteries-ingestion-swallow-burn-prevention"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Buy Verified ByBit Account - Quick KYC & Safe Trading Access]]></title>
+        <id>https://dev.to/nextion722/buy-verified-bybit-account-quick-kyc-safe-trading-access-d75</id>
+        <link href="https://dev.to/nextion722/buy-verified-bybit-account-quick-kyc-safe-trading-access-d75"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle]]></title>
-        <id>https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle</id>
-        <link href="https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Call me back its a promise]]></title>
+        <id>https://dev.to/shivam_yadav_8e22bf5bf987/call-me-back-its-a-promise-57ia</id>
+        <link href="https://dev.to/shivam_yadav_8e22bf5bf987/call-me-back-its-a-promise-57ia"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome’s AI features may be hogging 4GB of your computer storage]]></title>
-        <id>https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features</id>
-        <link href="https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Buy Verified Skrill Accounts – Fast & Secure Access]]></title>
+        <id>https://dev.to/alexlow081/buy-verified-skrill-accounts-fast-secure-access-2k69</id>
+        <link href="https://dev.to/alexlow081/buy-verified-skrill-accounts-fast-secure-access-2k69"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying]]></title>
-        <id>https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright</id>
-        <link href="https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Best 6 Ways to Buy Verified Gemini Accounts for Secure ...]]></title>
+        <id>https://dev.to/nextion722/best-6-ways-to-buy-verified-gemini-accounts-for-secure--4m3o</id>
+        <link href="https://dev.to/nextion722/best-6-ways-to-buy-verified-gemini-accounts-for-secure--4m3o"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI claims ChatGPT’s new default model hallucinates way less]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant"/>
+        <title type="html"><![CDATA[Seven third-party script patterns we triage before touching CSS]]></title>
+        <id>https://dev.to/apogeewatcher/seven-third-party-script-patterns-we-triage-before-touching-css-1fb1</id>
+        <link href="https://dev.to/apogeewatcher/seven-third-party-script-patterns-we-triage-before-touching-css-1fb1"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blink bumps its budget buzzer to 2K]]></title>
+        <id>https://www.theverge.com/tech/924976/blink-video-doorbell-2k-wired-battery-price-specs-release-date</id>
+        <link href="https://www.theverge.com/tech/924976/blink-video-doorbell-2k-wired-battery-price-specs-release-date"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
@@ -218,58 +183,58 @@
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blink bumps its budget buzzer to 2K]]></title>
-        <id>https://www.theverge.com/tech/924976/blink-video-doorbell-2k-wired-battery-price-specs-release-date</id>
-        <link href="https://www.theverge.com/tech/924976/blink-video-doorbell-2k-wired-battery-price-specs-release-date"/>
+        <title type="html"><![CDATA[OpenAI claims ChatGPT’s new default model hallucinates way less]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle]]></title>
-        <id>https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/</id>
-        <link href="https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/"/>
+        <title type="html"><![CDATA[Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying]]></title>
+        <id>https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright</id>
+        <link href="https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ReMarkable Paper Pure Tablet Review: Back to Basics]]></title>
-        <id>https://www.wired.com/review/remarkable-paper-pure/</id>
-        <link href="https://www.wired.com/review/remarkable-paper-pure/"/>
+        <title type="html"><![CDATA[Chrome’s AI features may be hogging 4GB of your computer storage]]></title>
+        <id>https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features</id>
+        <link href="https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features]]></title>
-        <id>https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/</id>
-        <link href="https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/"/>
+        <title type="html"><![CDATA[Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle]]></title>
+        <id>https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle</id>
+        <link href="https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Focal Mu-So Hekla Soundbar Review: Dolby Atmos With 1 Speaker]]></title>
-        <id>https://www.wired.com/review/focal-muso-hekla/</id>
-        <link href="https://www.wired.com/review/focal-muso-hekla/"/>
+        <title type="html"><![CDATA[Energizer’s new coin batteries won’t cause ingestion burns if swallowed]]></title>
+        <id>https://www.theverge.com/tech/924966/energizer-ultimate-child-shield-batteries-ingestion-swallow-burn-prevention</id>
+        <link href="https://www.theverge.com/tech/924966/energizer-ultimate-child-shield-batteries-ingestion-swallow-burn-prevention"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smeg Forte Stand Mixer Review: Big Power, Mixed Results]]></title>
-        <id>https://www.wired.com/review/smeg-forte-stand-mixer/</id>
-        <link href="https://www.wired.com/review/smeg-forte-stand-mixer/"/>
+        <title type="html"><![CDATA[Remarkable’s next E Ink digital notepad skips the color screen]]></title>
+        <id>https://www.theverge.com/tech/923994/remarkable-e-ink-tablet-paper-pure-black-and-white-pricing-availability</id>
+        <link href="https://www.theverge.com/tech/923994/remarkable-e-ink-tablet-paper-pure-black-and-white-pricing-availability"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die]]></title>
-        <id>https://www.wired.com/story/hasan-piker-user-behavior/</id>
-        <link href="https://www.wired.com/story/hasan-piker-user-behavior/"/>
+        <title type="html"><![CDATA[The Remarkable Paper Pure is the best digital notepad I&#8217;ve ever used]]></title>
+        <id>https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on</id>
+        <link href="https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jabra Promo Codes: 30% Off  Headphones, Headsets & More]]></title>
-        <id>https://www.wired.com/story/jabra-promo-codes-coupons/</id>
-        <link href="https://www.wired.com/story/jabra-promo-codes-coupons/"/>
+        <title type="html"><![CDATA[Google&#8217;s AI search summaries will now quote Reddit]]></title>
+        <id>https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links</id>
+        <link href="https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
@@ -281,65 +246,51 @@
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome on Android now supports approximate instead of precise location sharing]]></title>
-        <id>https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/</id>
-        <link href="https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/"/>
+        <title type="html"><![CDATA[Jabra Promo Codes: 30% Off  Headphones, Headsets & More]]></title>
+        <id>https://www.wired.com/story/jabra-promo-codes-coupons/</id>
+        <link href="https://www.wired.com/story/jabra-promo-codes-coupons/"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple to pay $250M to settle lawsuit over Siri’s delayed AI features]]></title>
-        <id>https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/</id>
-        <link href="https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/"/>
+        <title type="html"><![CDATA[Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die]]></title>
+        <id>https://www.wired.com/story/hasan-piker-user-behavior/</id>
+        <link href="https://www.wired.com/story/hasan-piker-user-behavior/"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aurora lands McLane deal to run driverless truck routes in Texas]]></title>
-        <id>https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/</id>
-        <link href="https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/"/>
+        <title type="html"><![CDATA[Smeg Forte Stand Mixer Review: Big Power, Mixed Results]]></title>
+        <id>https://www.wired.com/review/smeg-forte-stand-mixer/</id>
+        <link href="https://www.wired.com/review/smeg-forte-stand-mixer/"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marc Lore says that AI will soon enable anyone open a restaurant]]></title>
-        <id>https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/</id>
-        <link href="https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/"/>
+        <title type="html"><![CDATA[Focal Mu-So Hekla Soundbar Review: Dolby Atmos With 1 Speaker]]></title>
+        <id>https://www.wired.com/review/focal-muso-hekla/</id>
+        <link href="https://www.wired.com/review/focal-muso-hekla/"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bumble’s paying users are slipping as it bets on an overhaul later this year]]></title>
-        <id>https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/</id>
-        <link href="https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/"/>
+        <title type="html"><![CDATA[Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features]]></title>
+        <id>https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/</id>
+        <link href="https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Altara secures $7M to bridge the data gap that’s slowing down physical sciences]]></title>
-        <id>https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/</id>
-        <link href="https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/"/>
+        <title type="html"><![CDATA[ReMarkable Paper Pure Tablet Review: Back to Basics]]></title>
+        <id>https://www.wired.com/review/remarkable-paper-pure/</id>
+        <link href="https://www.wired.com/review/remarkable-paper-pure/"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lucid Motors doesn’t know how many EVs it will build this year]]></title>
-        <id>https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/</id>
-        <link href="https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbnb co-founder taps Peter Arnell as first US chief brand architect]]></title>
-        <id>https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/</id>
-        <link href="https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuro receives driverless testing permit ahead of Uber robotaxi service launch]]></title>
-        <id>https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/</id>
-        <link href="https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/"/>
+        <title type="html"><![CDATA[7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle]]></title>
+        <id>https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/</id>
+        <link href="https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
@@ -351,16 +302,65 @@
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clipps personal save library with relevant link extraction and an MCP server]]></title>
-        <id>https://clippsapp.com/</id>
-        <link href="https://clippsapp.com/"/>
+        <title type="html"><![CDATA[Nuro receives driverless testing permit ahead of Uber robotaxi service launch]]></title>
+        <id>https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/</id>
+        <link href="https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Opus 4.7 is unusable. I am tired of the apologies]]></title>
-        <id>https://news.ycombinator.com/item?id=48035637</id>
-        <link href="https://news.ycombinator.com/item?id=48035637"/>
+        <title type="html"><![CDATA[Airbnb co-founder taps Peter Arnell as first US chief brand architect]]></title>
+        <id>https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/</id>
+        <link href="https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucid Motors doesn’t know how many EVs it will build this year]]></title>
+        <id>https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/</id>
+        <link href="https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Altara secures $7M to bridge the data gap that’s slowing down physical sciences]]></title>
+        <id>https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/</id>
+        <link href="https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bumble’s paying users are slipping as it bets on an overhaul later this year]]></title>
+        <id>https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/</id>
+        <link href="https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marc Lore says that AI will soon enable anyone open a restaurant]]></title>
+        <id>https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/</id>
+        <link href="https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aurora lands McLane deal to run driverless truck routes in Texas]]></title>
+        <id>https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/</id>
+        <link href="https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple to pay $250M to settle lawsuit over Siri’s delayed AI features]]></title>
+        <id>https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/</id>
+        <link href="https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/"/>
+        <updated>2026-05-05T16:00:00.000Z</updated>
+        <published>2026-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome on Android now supports approximate instead of precise location sharing]]></title>
+        <id>https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/</id>
+        <link href="https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
