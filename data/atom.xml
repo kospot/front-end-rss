@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-07T07:02:51.990Z</updated>
+    <updated>2026-05-07T10:01:52.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,23 +36,9 @@
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Target Promo Code: $50 Off | May 2026]]></title>
-        <id>https://www.wired.com/story/target-promo-code/</id>
-        <link href="https://www.wired.com/story/target-promo-code/"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird]]></title>
-        <id>https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/</id>
-        <link href="https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast]]></title>
-        <id>https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/</id>
-        <link href="https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/"/>
+        <title type="html"><![CDATA[Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla]]></title>
+        <id>https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/</id>
+        <link href="https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
@@ -64,9 +50,23 @@
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla]]></title>
-        <id>https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/</id>
-        <link href="https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/"/>
+        <title type="html"><![CDATA[Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast]]></title>
+        <id>https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/</id>
+        <link href="https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird]]></title>
+        <id>https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/</id>
+        <link href="https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Target Promo Code: $50 Off | May 2026]]></title>
+        <id>https://www.wired.com/story/target-promo-code/</id>
+        <link href="https://www.wired.com/story/target-promo-code/"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
@@ -92,142 +92,65 @@
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What It Feels Like to Do Data Science]]></title>
-        <id>https://lovelaceanalytics.com/posts/what-it-feels-like-to-do-data-science/</id>
-        <link href="https://lovelaceanalytics.com/posts/what-it-feels-like-to-do-data-science/"/>
+        <title type="html"><![CDATA[PHP's Biggest Problem]]></title>
+        <id>https://stitcher.io/blog/php-biggest-problem</id>
+        <link href="https://stitcher.io/blog/php-biggest-problem"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[F2c – Convert Figma designs to React/Vue inside VSCode, no plugin needed]]></title>
-        <id>https://marketplace.visualstudio.com/items?itemName=dujun-bot.f2c-figma-to-code</id>
-        <link href="https://marketplace.visualstudio.com/items?itemName=dujun-bot.f2c-figma-to-code"/>
+        <title type="html"><![CDATA[Locked, stocked, and losing budget: AI vendor lock-in bites back]]></title>
+        <id>https://www.theregister.com/software/2026/04/28/locked-stocked-and-losing-budget-ai-vendor-lock-in-bites/5229050</id>
+        <link href="https://www.theregister.com/software/2026/04/28/locked-stocked-and-losing-budget-ai-vendor-lock-in-bites/5229050"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Capacity Is the Roadmap]]></title>
-        <id>https://yusufaytas.com/capacity-is-the-roadmap</id>
-        <link href="https://yusufaytas.com/capacity-is-the-roadmap"/>
+        <title type="html"><![CDATA[AI Slop Is Killing Online Communities]]></title>
+        <id>https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/</id>
+        <link href="https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Star Fox for Nintendo Switch 2 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ePZeyh5q9R8</id>
-        <link href="https://www.youtube.com/watch?v=ePZeyh5q9R8"/>
+        <title type="html"><![CDATA['No one has done this in the wild': study observes AI replicate itself]]></title>
+        <id>https://www.theguardian.com/technology/2026/may/07/no-one-has-done-this-in-the-wild-study-observes-ai-replicate-itself</id>
+        <link href="https://www.theguardian.com/technology/2026/may/07/no-one-has-done-this-in-the-wild-study-observes-ai-replicate-itself"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Axavive Can This "Golden Seed Switch" Transform Your Skin?]]></title>
-        <id>https://finance.yahoo.com/sectors/healthcare/articles/axavive-skin-exploding-2026-golden-225900607.html</id>
-        <link href="https://finance.yahoo.com/sectors/healthcare/articles/axavive-skin-exploding-2026-golden-225900607.html"/>
+        <title type="html"><![CDATA[Doodle: Compositional 2D Graphics]]></title>
+        <id>https://www.creativescala.org/doodle/</id>
+        <link href="https://www.creativescala.org/doodle/"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The four horsemen behind Postgres outages]]></title>
-        <id>https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/</id>
-        <link href="https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/"/>
+        <title type="html"><![CDATA[The User Is Visibly Frustrated]]></title>
+        <id>https://pscanf.com/s/354/</id>
+        <link href="https://pscanf.com/s/354/"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discord group guessed the URL to Anthropic's Mythos model before CISA used it]]></title>
-        <id>https://www.msn.com/en-us/technology/cybersecurity/discord-group-guessed-the-url-to-anthropic-s-most-dangerous-ai-and-used-it-before-cisa-did/ar-AA22enqY</id>
-        <link href="https://www.msn.com/en-us/technology/cybersecurity/discord-group-guessed-the-url-to-anthropic-s-most-dangerous-ai-and-used-it-before-cisa-did/ar-AA22enqY"/>
+        <title type="html"><![CDATA[Prompt Screener – Catches biased prompts before you send them to AI]]></title>
+        <id>https://chromewebstore.google.com/detail/prompt-screener/hdooilgdenkeeccfomlkkenhmelobcjm</id>
+        <link href="https://chromewebstore.google.com/detail/prompt-screener/hdooilgdenkeeccfomlkkenhmelobcjm"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open weights are quietly closing up – and that's a problem]]></title>
-        <id>https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s</id>
-        <link href="https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s"/>
+        <title type="html"><![CDATA[Tired of "Move to left and decrease border radius"? Try Browser-Mutation]]></title>
+        <id>https://github.com/JosPMSilva/Browser-mutation</id>
+        <link href="https://github.com/JosPMSilva/Browser-mutation"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Six New High Severity CVEs for Next.js and 1 for React]]></title>
-        <id>https://github.com/vercel/next.js/releases/tag/v16.2.5</id>
-        <link href="https://github.com/vercel/next.js/releases/tag/v16.2.5"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Web client analyzing prediction market outcomes]]></title>
-        <id>https://o-u.ai</id>
-        <link href="https://o-u.ai"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I made $350K from an open-source JavaScript library using dual licensing]]></title>
-        <id>https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/</id>
-        <link href="https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Julia as Fast as C++]]></title>
-        <id>https://flow.byu.edu/posts/julia-c++</id>
-        <link href="https://flow.byu.edu/posts/julia-c++"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over 3k Datacentres planned for 2026 global map]]></title>
-        <id>https://roboticforce.io/datacentermap</id>
-        <link href="https://roboticforce.io/datacentermap"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CrustAI – Private local AI assistant]]></title>
-        <id>https://github.com/DaveSimoes/CrustAI</id>
-        <link href="https://github.com/DaveSimoes/CrustAI"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riju: Fast online playground for every programming language]]></title>
-        <id>https://riju.codes/</id>
-        <link href="https://riju.codes/"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TogetherLoop – Social media minus the nonsense]]></title>
-        <id>https://togetherloop.com/</id>
-        <link href="https://togetherloop.com/"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diskless Linux boot using ZFS, iSCSI and PXE]]></title>
-        <id>https://aniket.foo/posts/20260505-netboot/</id>
-        <link href="https://aniket.foo/posts/20260505-netboot/"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Budgetbreeze: AI-Assisted Personal Finance]]></title>
-        <id>https://www.budgetbreeze.io/</id>
-        <link href="https://www.budgetbreeze.io/"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitburner (Open source JavaScript-based hacking automation game): v3.0 released]]></title>
-        <id>https://store.steampowered.com/app/1812820/Bitburner/</id>
-        <link href="https://store.steampowered.com/app/1812820/Bitburner/"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whistleblower David Grusch on "Non-Human" Biologics and Craft [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Q3BpTZXmDns</id>
-        <link href="https://www.youtube.com/watch?v=Q3BpTZXmDns"/>
+        <title type="html"><![CDATA[Zustand: Bear necessities for state management in React]]></title>
+        <id>https://github.com/pmndrs/zustand</id>
+        <link href="https://github.com/pmndrs/zustand"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
@@ -239,9 +162,142 @@
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zustand: Bear necessities for state management in React]]></title>
-        <id>https://github.com/pmndrs/zustand</id>
-        <link href="https://github.com/pmndrs/zustand"/>
+        <title type="html"><![CDATA[Whistleblower David Grusch on "Non-Human" Biologics and Craft [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Q3BpTZXmDns</id>
+        <link href="https://www.youtube.com/watch?v=Q3BpTZXmDns"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitburner (Open source JavaScript-based hacking automation game): v3.0 released]]></title>
+        <id>https://store.steampowered.com/app/1812820/Bitburner/</id>
+        <link href="https://store.steampowered.com/app/1812820/Bitburner/"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Budgetbreeze: AI-Assisted Personal Finance]]></title>
+        <id>https://www.budgetbreeze.io/</id>
+        <link href="https://www.budgetbreeze.io/"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diskless Linux boot using ZFS, iSCSI and PXE]]></title>
+        <id>https://aniket.foo/posts/20260505-netboot/</id>
+        <link href="https://aniket.foo/posts/20260505-netboot/"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TogetherLoop – Social media minus the nonsense]]></title>
+        <id>https://togetherloop.com/</id>
+        <link href="https://togetherloop.com/"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Riju: Fast online playground for every programming language]]></title>
+        <id>https://riju.codes/</id>
+        <link href="https://riju.codes/"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CrustAI – Private local AI assistant]]></title>
+        <id>https://github.com/DaveSimoes/CrustAI</id>
+        <link href="https://github.com/DaveSimoes/CrustAI"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 3k Datacentres planned for 2026 global map]]></title>
+        <id>https://roboticforce.io/datacentermap</id>
+        <link href="https://roboticforce.io/datacentermap"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Julia as Fast as C++]]></title>
+        <id>https://flow.byu.edu/posts/julia-c++</id>
+        <link href="https://flow.byu.edu/posts/julia-c++"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I made $350K from an open-source JavaScript library using dual licensing]]></title>
+        <id>https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/</id>
+        <link href="https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Web client analyzing prediction market outcomes]]></title>
+        <id>https://o-u.ai</id>
+        <link href="https://o-u.ai"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six New High Severity CVEs for Next.js and 1 for React]]></title>
+        <id>https://github.com/vercel/next.js/releases/tag/v16.2.5</id>
+        <link href="https://github.com/vercel/next.js/releases/tag/v16.2.5"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open weights are quietly closing up – and that's a problem]]></title>
+        <id>https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s</id>
+        <link href="https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord group guessed the URL to Anthropic's Mythos model before CISA used it]]></title>
+        <id>https://www.msn.com/en-us/technology/cybersecurity/discord-group-guessed-the-url-to-anthropic-s-most-dangerous-ai-and-used-it-before-cisa-did/ar-AA22enqY</id>
+        <link href="https://www.msn.com/en-us/technology/cybersecurity/discord-group-guessed-the-url-to-anthropic-s-most-dangerous-ai-and-used-it-before-cisa-did/ar-AA22enqY"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The four horsemen behind Postgres outages]]></title>
+        <id>https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/</id>
+        <link href="https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Axavive Can This "Golden Seed Switch" Transform Your Skin?]]></title>
+        <id>https://finance.yahoo.com/sectors/healthcare/articles/axavive-skin-exploding-2026-golden-225900607.html</id>
+        <link href="https://finance.yahoo.com/sectors/healthcare/articles/axavive-skin-exploding-2026-golden-225900607.html"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Fox for Nintendo Switch 2 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ePZeyh5q9R8</id>
+        <link href="https://www.youtube.com/watch?v=ePZeyh5q9R8"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capacity Is the Roadmap]]></title>
+        <id>https://yusufaytas.com/capacity-is-the-roadmap</id>
+        <link href="https://yusufaytas.com/capacity-is-the-roadmap"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F2c – Convert Figma designs to React/Vue inside VSCode, no plugin needed]]></title>
+        <id>https://marketplace.visualstudio.com/items?itemName=dujun-bot.f2c-figma-to-code</id>
+        <link href="https://marketplace.visualstudio.com/items?itemName=dujun-bot.f2c-figma-to-code"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What It Feels Like to Do Data Science]]></title>
+        <id>https://lovelaceanalytics.com/posts/what-it-feels-like-to-do-data-science/</id>
+        <link href="https://lovelaceanalytics.com/posts/what-it-feels-like-to-do-data-science/"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
@@ -305,62 +361,6 @@
         <title type="html"><![CDATA[Single-Position Intervention Fails: Distributed Output Templates Drive In-Context Learning]]></title>
         <id>https://arxiv.org/abs/2605.04061</id>
         <link href="https://arxiv.org/abs/2605.04061"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation]]></title>
-        <id>https://arxiv.org/abs/2605.04062</id>
-        <link href="https://arxiv.org/abs/2605.04062"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investigating Trustworthiness of Nonparametric Deep Survival Models for Alzheimer's Disease Progression Analysis]]></title>
-        <id>https://arxiv.org/abs/2605.04063</id>
-        <link href="https://arxiv.org/abs/2605.04063"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing a double deep reinforcement learning selection tool for resilient demand prediction]]></title>
-        <id>https://arxiv.org/abs/2605.04068</id>
-        <link href="https://arxiv.org/abs/2605.04068"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAWS: Learning from Actual Workloads Symbolically -- A Self-Certifying Parametrized Cache Architecture for Neural Inference, Robotics, and Edge Deployment]]></title>
-        <id>https://arxiv.org/abs/2605.04069</id>
-        <link href="https://arxiv.org/abs/2605.04069"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparse Autoencoder Decomposition of Clinical Sequence Model Representations: Feature Complexity, Task Specialisation, and Mortality Prediction]]></title>
-        <id>https://arxiv.org/abs/2605.04072</id>
-        <link href="https://arxiv.org/abs/2605.04072"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Physics-Aware Framework for Short-Term GPU Power Forecasting of AI Data Centers]]></title>
-        <id>https://arxiv.org/abs/2605.04074</id>
-        <link href="https://arxiv.org/abs/2605.04074"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient Handwriting-Based Alzheimer,s Disease Diagnosis Using a Low-Rank Mixture of Experts Deep Learning Framework]]></title>
-        <id>https://arxiv.org/abs/2605.04079</id>
-        <link href="https://arxiv.org/abs/2605.04079"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time series causal discovery with variable lags]]></title>
-        <id>https://arxiv.org/abs/2605.04081</id>
-        <link href="https://arxiv.org/abs/2605.04081"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
