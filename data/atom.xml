@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-07T00:02:17.809Z</updated>
+    <updated>2026-05-07T02:01:59.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等]]></title>
+        <id>https://sspai.com/post/109448</id>
+        <link href="https://sspai.com/post/109448"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This slim ice cream maker could fit in my already crowded kitchen]]></title>
         <id>https://www.theverge.com/tech/925124/nutribullet-chill-ice-cream-maker</id>
@@ -78,16 +85,37 @@
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CrustAI – Private local AI assistant]]></title>
-        <id>https://github.com/DaveSimoes/CrustAI</id>
-        <link href="https://github.com/DaveSimoes/CrustAI"/>
+        <title type="html"><![CDATA[Discord group guessed the URL to Anthropic's Mythos model before CISA used it]]></title>
+        <id>https://www.msn.com/en-us/technology/cybersecurity/discord-group-guessed-the-url-to-anthropic-s-most-dangerous-ai-and-used-it-before-cisa-did/ar-AA22enqY</id>
+        <link href="https://www.msn.com/en-us/technology/cybersecurity/discord-group-guessed-the-url-to-anthropic-s-most-dangerous-ai-and-used-it-before-cisa-did/ar-AA22enqY"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Over 3k Datacentres planned for 2026 global map]]></title>
-        <id>https://roboticforce.io/datacentermap</id>
-        <link href="https://roboticforce.io/datacentermap"/>
+        <title type="html"><![CDATA[Open weights are quietly closing up – and that's a problem]]></title>
+        <id>https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s</id>
+        <link href="https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six New High Severity CVEs for Next.js and 1 for React]]></title>
+        <id>https://github.com/vercel/next.js/releases/tag/v16.2.5</id>
+        <link href="https://github.com/vercel/next.js/releases/tag/v16.2.5"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Web client analyzing prediction market outcomes]]></title>
+        <id>https://o-u.ai</id>
+        <link href="https://o-u.ai"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I made $350K from an open-source JavaScript library using dual licensing]]></title>
+        <id>https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/</id>
+        <link href="https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
@@ -99,58 +127,51 @@
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Auto-Furigana in the Browser — Lazy-Loading kuromoji.js's 4 MB Dictionary from a CDN to Annotate Japanese Kanji With Their Readings]]></title>
-        <id>https://dev.to/sendotltd/auto-furigana-in-the-browser-lazy-loading-kuromojijss-4-mb-dictionary-from-a-cdn-to-annotate-3h01</id>
-        <link href="https://dev.to/sendotltd/auto-furigana-in-the-browser-lazy-loading-kuromojijss-4-mb-dictionary-from-a-cdn-to-annotate-3h01"/>
+        <title type="html"><![CDATA[Over 3k Datacentres planned for 2026 global map]]></title>
+        <id>https://roboticforce.io/datacentermap</id>
+        <link href="https://roboticforce.io/datacentermap"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trusted Platforms to Buy Verified Gemini Accounts]]></title>
-        <id>https://dev.to/alexlow081/trusted-platforms-to-buy-verified-gemini-accounts-147j</id>
-        <link href="https://dev.to/alexlow081/trusted-platforms-to-buy-verified-gemini-accounts-147j"/>
+        <title type="html"><![CDATA[CrustAI – Private local AI assistant]]></title>
+        <id>https://github.com/DaveSimoes/CrustAI</id>
+        <link href="https://github.com/DaveSimoes/CrustAI"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astro SEO Checklist 2026 and I…]]></title>
-        <id>https://dev.to/norviktech/astro-seo-checklist-2026-and-i-2cfl</id>
-        <link href="https://dev.to/norviktech/astro-seo-checklist-2026-and-i-2cfl"/>
+        <title type="html"><![CDATA[Understanding the Impact of JavaScript Frameworks on Application Performance]]></title>
+        <id>https://dev.to/omriluz1/understanding-the-impact-of-javascript-frameworks-on-application-performance-41jl</id>
+        <link href="https://dev.to/omriluz1/understanding-the-impact-of-javascript-frameworks-on-application-performance-41jl"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 Best Sites to Buy Verified OKX Accounts Secure P ...]]></title>
-        <id>https://dev.to/nextion722/10-best-sites-to-buy-verified-okx-accounts-secure-p--5apf</id>
-        <link href="https://dev.to/nextion722/10-best-sites-to-buy-verified-okx-accounts-secure-p--5apf"/>
+        <title type="html"><![CDATA[How to Prepare CSV Files Before Importing into Systems]]></title>
+        <id>https://dev.to/kike-dev/how-to-prepare-csv-files-before-importing-into-systems-21oo</id>
+        <link href="https://dev.to/kike-dev/how-to-prepare-csv-files-before-importing-into-systems-21oo"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 Best Sites to Buy Verified Kucoin Accounts]]></title>
-        <id>https://dev.to/nextion722/7-best-sites-to-buy-verified-kucoin-accounts-3g0a</id>
-        <link href="https://dev.to/nextion722/7-best-sites-to-buy-verified-kucoin-accounts-3g0a"/>
+        <title type="html"><![CDATA[TypeScript vs. JavaScript: Explaining the differences]]></title>
+        <id>https://dev.to/hugonaili/typescript-vs-javascript-explaining-the-differences-41n4</id>
+        <link href="https://dev.to/hugonaili/typescript-vs-javascript-explaining-the-differences-41n4"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buy Verified ByBit Account - Quick KYC & Safe Trading Access]]></title>
-        <id>https://dev.to/nextion722/buy-verified-bybit-account-quick-kyc-safe-trading-access-d75</id>
-        <link href="https://dev.to/nextion722/buy-verified-bybit-account-quick-kyc-safe-trading-access-d75"/>
+        <title type="html"><![CDATA[How I built a Stripe Webhook in Node.js (Full Guide)]]></title>
+        <id>https://dev.to/apollo_ag/how-i-built-a-stripe-webhook-in-nodejs-full-guide-54i9</id>
+        <link href="https://dev.to/apollo_ag/how-i-built-a-stripe-webhook-in-nodejs-full-guide-54i9"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Call me back its a promise]]></title>
-        <id>https://dev.to/shivam_yadav_8e22bf5bf987/call-me-back-its-a-promise-57ia</id>
-        <link href="https://dev.to/shivam_yadav_8e22bf5bf987/call-me-back-its-a-promise-57ia"/>
-        <updated>2026-05-06T16:00:00.000Z</updated>
-        <published>2026-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Verified Skrill Accounts – Fast & Secure Access]]></title>
-        <id>https://dev.to/alexlow081/buy-verified-skrill-accounts-fast-secure-access-2k69</id>
-        <link href="https://dev.to/alexlow081/buy-verified-skrill-accounts-fast-secure-access-2k69"/>
+        <title type="html"><![CDATA[Seven third-party script patterns we triage before touching CSS]]></title>
+        <id>https://dev.to/apogeewatcher/seven-third-party-script-patterns-we-triage-before-touching-css-1fb1</id>
+        <link href="https://dev.to/apogeewatcher/seven-third-party-script-patterns-we-triage-before-touching-css-1fb1"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
@@ -162,9 +183,65 @@
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seven third-party script patterns we triage before touching CSS]]></title>
-        <id>https://dev.to/apogeewatcher/seven-third-party-script-patterns-we-triage-before-touching-css-1fb1</id>
-        <link href="https://dev.to/apogeewatcher/seven-third-party-script-patterns-we-triage-before-touching-css-1fb1"/>
+        <title type="html"><![CDATA[Buy Verified Skrill Accounts – Fast & Secure Access]]></title>
+        <id>https://dev.to/alexlow081/buy-verified-skrill-accounts-fast-secure-access-2k69</id>
+        <link href="https://dev.to/alexlow081/buy-verified-skrill-accounts-fast-secure-access-2k69"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call me back its a promise]]></title>
+        <id>https://dev.to/shivam_yadav_8e22bf5bf987/call-me-back-its-a-promise-57ia</id>
+        <link href="https://dev.to/shivam_yadav_8e22bf5bf987/call-me-back-its-a-promise-57ia"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Verified ByBit Account - Quick KYC & Safe Trading Access]]></title>
+        <id>https://dev.to/nextion722/buy-verified-bybit-account-quick-kyc-safe-trading-access-d75</id>
+        <link href="https://dev.to/nextion722/buy-verified-bybit-account-quick-kyc-safe-trading-access-d75"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Best Sites to Buy Verified Kucoin Accounts]]></title>
+        <id>https://dev.to/nextion722/7-best-sites-to-buy-verified-kucoin-accounts-3g0a</id>
+        <link href="https://dev.to/nextion722/7-best-sites-to-buy-verified-kucoin-accounts-3g0a"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best Sites to Buy Verified OKX Accounts Secure P ...]]></title>
+        <id>https://dev.to/nextion722/10-best-sites-to-buy-verified-okx-accounts-secure-p--5apf</id>
+        <link href="https://dev.to/nextion722/10-best-sites-to-buy-verified-okx-accounts-secure-p--5apf"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astro SEO Checklist 2026 and I…]]></title>
+        <id>https://dev.to/norviktech/astro-seo-checklist-2026-and-i-2cfl</id>
+        <link href="https://dev.to/norviktech/astro-seo-checklist-2026-and-i-2cfl"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trusted Platforms to Buy Verified Gemini Accounts]]></title>
+        <id>https://dev.to/alexlow081/trusted-platforms-to-buy-verified-gemini-accounts-147j</id>
+        <link href="https://dev.to/alexlow081/trusted-platforms-to-buy-verified-gemini-accounts-147j"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto-Furigana in the Browser — Lazy-Loading kuromoji.js's 4 MB Dictionary from a CDN to Annotate Japanese Kanji With Their Readings]]></title>
+        <id>https://dev.to/sendotltd/auto-furigana-in-the-browser-lazy-loading-kuromojijss-4-mb-dictionary-from-a-cdn-to-annotate-3h01</id>
+        <link href="https://dev.to/sendotltd/auto-furigana-in-the-browser-lazy-loading-kuromojijss-4-mb-dictionary-from-a-cdn-to-annotate-3h01"/>
+        <updated>2026-05-06T16:00:00.000Z</updated>
+        <published>2026-05-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animating Focus with View Transitions]]></title>
+        <id>https://frontendmasters.com/blog/animating-focus-with-view-transitions/</id>
+        <link href="https://frontendmasters.com/blog/animating-focus-with-view-transitions/"/>
         <updated>2026-05-06T16:00:00.000Z</updated>
         <published>2026-05-06T16:00:00.000Z</published>
     </entry>
@@ -284,83 +361,6 @@
         <title type="html"><![CDATA[ReMarkable Paper Pure Tablet Review: Back to Basics]]></title>
         <id>https://www.wired.com/review/remarkable-paper-pure/</id>
         <link href="https://www.wired.com/review/remarkable-paper-pure/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle]]></title>
-        <id>https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/</id>
-        <link href="https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen]]></title>
-        <id>https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/</id>
-        <link href="https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuro receives driverless testing permit ahead of Uber robotaxi service launch]]></title>
-        <id>https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/</id>
-        <link href="https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbnb co-founder taps Peter Arnell as first US chief brand architect]]></title>
-        <id>https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/</id>
-        <link href="https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lucid Motors doesn’t know how many EVs it will build this year]]></title>
-        <id>https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/</id>
-        <link href="https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Altara secures $7M to bridge the data gap that’s slowing down physical sciences]]></title>
-        <id>https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/</id>
-        <link href="https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bumble’s paying users are slipping as it bets on an overhaul later this year]]></title>
-        <id>https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/</id>
-        <link href="https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marc Lore says that AI will soon enable anyone open a restaurant]]></title>
-        <id>https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/</id>
-        <link href="https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aurora lands McLane deal to run driverless truck routes in Texas]]></title>
-        <id>https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/</id>
-        <link href="https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple to pay $250M to settle lawsuit over Siri’s delayed AI features]]></title>
-        <id>https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/</id>
-        <link href="https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/"/>
-        <updated>2026-05-05T16:00:00.000Z</updated>
-        <published>2026-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome on Android now supports approximate instead of precise location sharing]]></title>
-        <id>https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/</id>
-        <link href="https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/"/>
         <updated>2026-05-05T16:00:00.000Z</updated>
         <published>2026-05-05T16:00:00.000Z</published>
     </entry>
