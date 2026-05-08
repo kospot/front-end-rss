@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-08 12:01:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-08 15:02:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -388,6 +388,7 @@ https://github.com/glincker/thesvg
 - [2026-04-21-Ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang](https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/) 
 - [2026-04-13-Vercel-CEO-Guillermo-Rauch-signals-IPO-readiness-as-AI-agents-fuel-revenue-surge](https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/) 
 - [2026-04-12-From-LLMs-to-hallucinations,-here’s-a-simple-guide-to-common-AI-terms](https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) 
+- [2026-05-08-The-Canvas-Hack-Is-a-New-Kind-of-Ransomware-Debacle](https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/) 
 - [2026-04-30-EufyMake-E1-UV-Printer-Review-2026:-Add-3D-Texture-to-Mugs,-Magnets,-and-More](https://www.wired.com/review/review-eufymake-e1-uv-printer/) 
 - [2026-04-28-WIRED’s-Smart-Home-Ecosystem-Guide-2026](https://www.wired.com/story/how-to-choose-your-smart-home-ecosystem/) 
 - [2026-04-16-Smart-Plug-Guide-2026:-When-You-Should-and-Shouldn’t-Use-One](https://www.wired.com/story/do-you-need-a-smart-plug/) 

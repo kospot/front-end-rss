@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-08T04:01:38.021Z</updated>
+    <updated>2026-05-08T07:02:41.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,9 +36,16 @@
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’]]></title>
-        <id>https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/</id>
-        <link href="https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/"/>
+        <title type="html"><![CDATA[The Canvas Hack Is a New Kind of Ransomware Debacle]]></title>
+        <id>https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/</id>
+        <link href="https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained]]></title>
+        <id>https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
@@ -50,9 +57,9 @@
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained]]></title>
-        <id>https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/</id>
-        <link href="https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/"/>
+        <title type="html"><![CDATA[ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’]]></title>
+        <id>https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/</id>
+        <link href="https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Two-Stage Learned Decomposition for Scalable Routing on Multigraphs]]></title>
         <id>https://arxiv.org/abs/2605.05389</id>
         <link href="https://arxiv.org/abs/2605.05389"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Unified Benchmark for Evaluating Knowledge Graph Construction Methods and Graph Neural Networks]]></title>
-        <id>https://arxiv.org/abs/2605.05476</id>
-        <link href="https://arxiv.org/abs/2605.05476"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
