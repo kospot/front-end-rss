@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-08T13:02:48.037Z</updated>
+    <updated>2026-05-08T15:03:22.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Canvas is down as ShinyHunters threatens to leak schools’ data]]></title>
-        <id>https://www.theverge.com/tech/926458/canvas-shinyhunters-breach</id>
-        <link href="https://www.theverge.com/tech/926458/canvas-shinyhunters-breach"/>
+        <title type="html"><![CDATA[The future of game consoles is looking bleak]]></title>
+        <id>https://www.theverge.com/games/926772/nintendo-switch-2-price-hike-console-gaming-future</id>
+        <link href="https://www.theverge.com/games/926772/nintendo-switch-2-price-hike-console-gaming-future"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
@@ -29,9 +36,9 @@
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification"/>
+        <title type="html"><![CDATA[Canvas is down as ShinyHunters threatens to leak schools’ data]]></title>
+        <id>https://www.theverge.com/tech/926458/canvas-shinyhunters-breach</id>
+        <link href="https://www.theverge.com/tech/926458/canvas-shinyhunters-breach"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
@@ -71,30 +78,16 @@
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity]]></title>
-        <id>https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/</id>
-        <link href="https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/"/>
+        <title type="html"><![CDATA[Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027]]></title>
+        <id>https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/</id>
+        <link href="https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bumble is getting rid of the swipe, CEO says]]></title>
-        <id>https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/</id>
-        <link href="https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm]]></title>
-        <id>https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/</id>
-        <link href="https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney looking to make a unified ‘super app,’ report says]]></title>
-        <id>https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/</id>
-        <link href="https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/"/>
+        <title type="html"><![CDATA[Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026]]></title>
+        <id>https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/</id>
+        <link href="https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
@@ -106,240 +99,79 @@
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Crit – local review tool for agent plans and code diffs]]></title>
-        <id>https://crit.md/</id>
-        <link href="https://crit.md/"/>
+        <title type="html"><![CDATA[Disney looking to make a unified ‘super app,’ report says]]></title>
+        <id>https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/</id>
+        <link href="https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Space: Large difference in efficiency between what was possible & what was done]]></title>
-        <id>https://twitter.com/ID_AA_Carmack/status/2052486841174049113</id>
-        <link href="https://twitter.com/ID_AA_Carmack/status/2052486841174049113"/>
+        <title type="html"><![CDATA[OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm]]></title>
+        <id>https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/</id>
+        <link href="https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git LFS server with affordable storage]]></title>
-        <id>https://github.com/unknwon/git-lfs-server</id>
-        <link href="https://github.com/unknwon/git-lfs-server"/>
+        <title type="html"><![CDATA[Bumble is getting rid of the swipe, CEO says]]></title>
+        <id>https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/</id>
+        <link href="https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We're mapping the global peptide market]]></title>
-        <id>https://peptel.co/</id>
-        <link href="https://peptel.co/"/>
+        <title type="html"><![CDATA[How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity]]></title>
+        <id>https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/</id>
+        <link href="https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Omerbenamram/mft: A parser for the MFT (Master File Table) format]]></title>
-        <id>https://github.com/omerbenamram/mft</id>
-        <link href="https://github.com/omerbenamram/mft"/>
+        <title type="html"><![CDATA[Show HW: Markdown Object Language]]></title>
+        <id>https://github.com/mol-format/mol-specs</id>
+        <link href="https://github.com/mol-format/mol-specs"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HST – shape mapping via one eigenfunction, +42% ZoomOut, +52% FMaps]]></title>
-        <id>https://github.com/sel8888/harmonic-shape-transform-2026-koncept</id>
-        <link href="https://github.com/sel8888/harmonic-shape-transform-2026-koncept"/>
+        <title type="html"><![CDATA[Functioning Claude-code replica that believes it's real and tries its best]]></title>
+        <id>https://clodoop.us/</id>
+        <link href="https://clodoop.us/"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: jj diff review integrated with agents]]></title>
-        <id>https://twitter.com/plannotator/status/2052594084527677612</id>
-        <link href="https://twitter.com/plannotator/status/2052594084527677612"/>
+        <title type="html"><![CDATA[It's Never Been Easier to Be Impractical]]></title>
+        <id>https://dinosaurseateverybody.com/blog/its-never-been-easier-to-be-impractical</id>
+        <link href="https://dinosaurseateverybody.com/blog/its-never-been-easier-to-be-impractical"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digging into Drama at the Document Foundation]]></title>
-        <id>https://lwn.net/Articles/1066418/</id>
-        <link href="https://lwn.net/Articles/1066418/"/>
+        <title type="html"><![CDATA[In Blow to Democrats, Virginia Court Strikes Down House Map]]></title>
+        <id>https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html</id>
+        <link href="https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Am I over reacting?]]></title>
-        <id>https://talkboy.org/s/DgwuLPHR</id>
-        <link href="https://talkboy.org/s/DgwuLPHR"/>
+        <title type="html"><![CDATA[Auth Proxy Injection for LLMs]]></title>
+        <id>https://www.grepular.com/Auth_Proxy_Injection_for_LLMs</id>
+        <link href="https://www.grepular.com/Auth_Proxy_Injection_for_LLMs"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guitar tuner that uses phone accelerometer]]></title>
-        <id>https://tautme.github.io/phone-sensors/accel-tuner.html</id>
-        <link href="https://tautme.github.io/phone-sensors/accel-tuner.html"/>
+        <title type="html"><![CDATA[Ads in AI Chatbots? An Analysis of How LLMs Navigate Conflicts of Interest]]></title>
+        <id>https://arxiv.org/abs/2604.08525</id>
+        <link href="https://arxiv.org/abs/2604.08525"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New York state set to ban law enforcement, including ICE, from wearing masks]]></title>
-        <id>https://www.reuters.com/legal/government/new-york-state-set-ban-law-enforcement-including-ice-wearing-masks-2026-05-07/</id>
-        <link href="https://www.reuters.com/legal/government/new-york-state-set-ban-law-enforcement-including-ice-wearing-masks-2026-05-07/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canadian sues DHS over alleged Google data grab tied to social media posts]]></title>
-        <id>https://www.cbc.ca/news/world/us-dhs-aclu-lawsuit-canadian-john-doe-9.7187851</id>
-        <link href="https://www.cbc.ca/news/world/us-dhs-aclu-lawsuit-canadian-john-doe-9.7187851"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Texas Tech cautions broadcasting research restrictions to prospective students]]></title>
-        <id>https://www.texastribune.org/2026/05/06/texas-tech-university-graduate-research-limit-warnings/</id>
-        <link href="https://www.texastribune.org/2026/05/06/texas-tech-university-graduate-research-limit-warnings/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The people preserving the scientific practice of bird banding]]></title>
-        <id>https://thenarwhal.ca/bird-banding-ontario/</id>
-        <link href="https://thenarwhal.ca/bird-banding-ontario/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Could Be Working on 'Spatial iPhone' with Holographic Display]]></title>
-        <id>https://www.macrumors.com/2026/05/07/apple-working-on-spatial-iphone/</id>
-        <link href="https://www.macrumors.com/2026/05/07/apple-working-on-spatial-iphone/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find out why Elon gave over his keys to Anthropic He is right can't win this]]></title>
-        <id>https://deepseekresearch.com/models.html</id>
-        <link href="https://deepseekresearch.com/models.html"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Notion-to-site – sync any Notion database to local Markdown/MDX/JSON]]></title>
-        <id>https://github.com/rashidazarang/notion-to-site</id>
-        <link href="https://github.com/rashidazarang/notion-to-site"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[thoughts on Gen AI's frontier of individuality]]></title>
-        <id>https://news.ycombinator.com/item?id=48055412</id>
-        <link href="https://news.ycombinator.com/item?id=48055412"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do AI based layoffs say about their ability to scale?]]></title>
-        <id>https://www.elliotcsmith.com/what-do-ai-based-layoffs-say-about-tam/</id>
-        <link href="https://www.elliotcsmith.com/what-do-ai-based-layoffs-say-about-tam/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling Trusted Access for Cyber with GPT‑5.5 and GPT‑5.5‑Cyber]]></title>
-        <id>https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/</id>
-        <link href="https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Family Deserves a Lasting Legacy]]></title>
-        <id>https://kleinlegacywealth.pro/</id>
-        <link href="https://kleinlegacywealth.pro/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercrime group crashes Penn's Canvas system]]></title>
-        <id>https://www.thedp.com/article/2026/05/penn-canvas-shinythunters-data-breach-hack-second</id>
-        <link href="https://www.thedp.com/article/2026/05/penn-canvas-shinythunters-data-breach-hack-second"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pentagon CTO demonstrates Palantir's Maven system, used for military operations [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Q5uVckUvGcQ</id>
-        <link href="https://www.youtube.com/watch?v=Q5uVckUvGcQ"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UBC, SFU among universities affected by Canvas software cyber breach]]></title>
-        <id>https://www.cbc.ca/news/canada/british-columbia/ubc-sfu-canvas-cyber-breach-9.7191972</id>
-        <link href="https://www.cbc.ca/news/canada/british-columbia/ubc-sfu-canvas-cyber-breach-9.7191972"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS EC2 outage in use1-az4 (us-east-1)]]></title>
-        <id>https://health.aws.amazon.com/health/status?t=2026-05-07</id>
-        <link href="https://health.aws.amazon.com/health/status?t=2026-05-07"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Dangerous New Attack on Press Freedom]]></title>
-        <id>https://www.theatlantic.com/ideas/2026/05/kash-patel-fitzpatrick-fbi-investigation/687077/</id>
-        <link href="https://www.theatlantic.com/ideas/2026/05/kash-patel-fitzpatrick-fbi-investigation/687077/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upper bound for AI output is based on your taste/exposure]]></title>
-        <id>https://news.ycombinator.com/item?id=48057514</id>
-        <link href="https://news.ycombinator.com/item?id=48057514"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Syrian Tourist Map]]></title>
-        <id>https://alnashra.org/map11/gis_syria2/syria_tourism.php</id>
-        <link href="https://alnashra.org/map11/gis_syria2/syria_tourism.php"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla's 4680 battery cells are underperforming and frustrating buyers – Electrek]]></title>
-        <id>https://electrek.co/2026/05/07/tesla-4680-battery-cell-performance-data-shows-cant-build-own-cells/</id>
-        <link href="https://electrek.co/2026/05/07/tesla-4680-battery-cell-performance-data-shows-cant-build-own-cells/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salary isn't everything: Why flexibility to work remotely is the future of work]]></title>
-        <id>https://thehill.com/opinion/finance/5859902-hybrid-work-performance-retention/</id>
-        <link href="https://thehill.com/opinion/finance/5859902-hybrid-work-performance-retention/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Using Yarn Classic]]></title>
-        <id>https://charpeni.com/blog/stop-using-yarn-classic</id>
-        <link href="https://charpeni.com/blog/stop-using-yarn-classic"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A Local-First Agentic Knowledge Manager]]></title>
-        <id>https://github.com/egroup-labs/kept</id>
-        <link href="https://github.com/egroup-labs/kept"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unique index failure on Postgres – my bad]]></title>
-        <id>https://news.ycombinator.com/item?id=48060911</id>
-        <link href="https://news.ycombinator.com/item?id=48060911"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[go-libghostty: Go bindings for libghostty-vt]]></title>
-        <id>https://tangled.org/mitchellh.com/go-libghostty</id>
-        <link href="https://tangled.org/mitchellh.com/go-libghostty"/>
+        <title type="html"><![CDATA[Reggie: Hybrid Compile-Time and Runtime Optimized Regex for Java]]></title>
+        <id>https://github.com/DataDog/java-reggie</id>
+        <link href="https://github.com/DataDog/java-reggie"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
@@ -351,16 +183,184 @@
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Silicon Protocol: When RAG Retrieves Wrong Patient Charts in Healthcare AI (2026)]]></title>
-        <id>https://pub.towardsai.net/the-silicon-protocol-when-rag-retrieves-wrong-patient-charts-in-healthcare-ai-2026-614c996d8675?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-silicon-protocol-when-rag-retrieves-wrong-patient-charts-in-healthcare-ai-2026-614c996d8675?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[go-libghostty: Go bindings for libghostty-vt]]></title>
+        <id>https://tangled.org/mitchellh.com/go-libghostty</id>
+        <link href="https://tangled.org/mitchellh.com/go-libghostty"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rethinking Predictors: Why Causal Reasoning Matters in Data Science (Part 1)]]></title>
-        <id>https://pub.towardsai.net/rethinking-predictors-why-causal-reasoning-matters-in-data-science-part-1-f1d4c1e08068?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/rethinking-predictors-why-causal-reasoning-matters-in-data-science-part-1-f1d4c1e08068?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Unique index failure on Postgres – my bad]]></title>
+        <id>https://news.ycombinator.com/item?id=48060911</id>
+        <link href="https://news.ycombinator.com/item?id=48060911"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A Local-First Agentic Knowledge Manager]]></title>
+        <id>https://github.com/egroup-labs/kept</id>
+        <link href="https://github.com/egroup-labs/kept"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Using Yarn Classic]]></title>
+        <id>https://charpeni.com/blog/stop-using-yarn-classic</id>
+        <link href="https://charpeni.com/blog/stop-using-yarn-classic"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salary isn't everything: Why flexibility to work remotely is the future of work]]></title>
+        <id>https://thehill.com/opinion/finance/5859902-hybrid-work-performance-retention/</id>
+        <link href="https://thehill.com/opinion/finance/5859902-hybrid-work-performance-retention/"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla's 4680 battery cells are underperforming and frustrating buyers – Electrek]]></title>
+        <id>https://electrek.co/2026/05/07/tesla-4680-battery-cell-performance-data-shows-cant-build-own-cells/</id>
+        <link href="https://electrek.co/2026/05/07/tesla-4680-battery-cell-performance-data-shows-cant-build-own-cells/"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Syrian Tourist Map]]></title>
+        <id>https://alnashra.org/map11/gis_syria2/syria_tourism.php</id>
+        <link href="https://alnashra.org/map11/gis_syria2/syria_tourism.php"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upper bound for AI output is based on your taste/exposure]]></title>
+        <id>https://news.ycombinator.com/item?id=48057514</id>
+        <link href="https://news.ycombinator.com/item?id=48057514"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Dangerous New Attack on Press Freedom]]></title>
+        <id>https://www.theatlantic.com/ideas/2026/05/kash-patel-fitzpatrick-fbi-investigation/687077/</id>
+        <link href="https://www.theatlantic.com/ideas/2026/05/kash-patel-fitzpatrick-fbi-investigation/687077/"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS EC2 outage in use1-az4 (us-east-1)]]></title>
+        <id>https://health.aws.amazon.com/health/status?t=2026-05-07</id>
+        <link href="https://health.aws.amazon.com/health/status?t=2026-05-07"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UBC, SFU among universities affected by Canvas software cyber breach]]></title>
+        <id>https://www.cbc.ca/news/canada/british-columbia/ubc-sfu-canvas-cyber-breach-9.7191972</id>
+        <link href="https://www.cbc.ca/news/canada/british-columbia/ubc-sfu-canvas-cyber-breach-9.7191972"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentagon CTO demonstrates Palantir's Maven system, used for military operations [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Q5uVckUvGcQ</id>
+        <link href="https://www.youtube.com/watch?v=Q5uVckUvGcQ"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybercrime group crashes Penn's Canvas system]]></title>
+        <id>https://www.thedp.com/article/2026/05/penn-canvas-shinythunters-data-breach-hack-second</id>
+        <link href="https://www.thedp.com/article/2026/05/penn-canvas-shinythunters-data-breach-hack-second"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Family Deserves a Lasting Legacy]]></title>
+        <id>https://kleinlegacywealth.pro/</id>
+        <link href="https://kleinlegacywealth.pro/"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Trusted Access for Cyber with GPT‑5.5 and GPT‑5.5‑Cyber]]></title>
+        <id>https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/</id>
+        <link href="https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What do AI based layoffs say about their ability to scale?]]></title>
+        <id>https://www.elliotcsmith.com/what-do-ai-based-layoffs-say-about-tam/</id>
+        <link href="https://www.elliotcsmith.com/what-do-ai-based-layoffs-say-about-tam/"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[thoughts on Gen AI's frontier of individuality]]></title>
+        <id>https://news.ycombinator.com/item?id=48055412</id>
+        <link href="https://news.ycombinator.com/item?id=48055412"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Notion-to-site – sync any Notion database to local Markdown/MDX/JSON]]></title>
+        <id>https://github.com/rashidazarang/notion-to-site</id>
+        <link href="https://github.com/rashidazarang/notion-to-site"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find out why Elon gave over his keys to Anthropic He is right can't win this]]></title>
+        <id>https://deepseekresearch.com/models.html</id>
+        <link href="https://deepseekresearch.com/models.html"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Could Be Working on 'Spatial iPhone' with Holographic Display]]></title>
+        <id>https://www.macrumors.com/2026/05/07/apple-working-on-spatial-iphone/</id>
+        <link href="https://www.macrumors.com/2026/05/07/apple-working-on-spatial-iphone/"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The people preserving the scientific practice of bird banding]]></title>
+        <id>https://thenarwhal.ca/bird-banding-ontario/</id>
+        <link href="https://thenarwhal.ca/bird-banding-ontario/"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Texas Tech cautions broadcasting research restrictions to prospective students]]></title>
+        <id>https://www.texastribune.org/2026/05/06/texas-tech-university-graduate-research-limit-warnings/</id>
+        <link href="https://www.texastribune.org/2026/05/06/texas-tech-university-graduate-research-limit-warnings/"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canadian sues DHS over alleged Google data grab tied to social media posts]]></title>
+        <id>https://www.cbc.ca/news/world/us-dhs-aclu-lawsuit-canadian-john-doe-9.7187851</id>
+        <link href="https://www.cbc.ca/news/world/us-dhs-aclu-lawsuit-canadian-john-doe-9.7187851"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York state set to ban law enforcement, including ICE, from wearing masks]]></title>
+        <id>https://www.reuters.com/legal/government/new-york-state-set-ban-law-enforcement-including-ice-wearing-masks-2026-05-07/</id>
+        <link href="https://www.reuters.com/legal/government/new-york-state-set-ban-law-enforcement-including-ice-wearing-masks-2026-05-07/"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guitar tuner that uses phone accelerometer]]></title>
+        <id>https://tautme.github.io/phone-sensors/accel-tuner.html</id>
+        <link href="https://tautme.github.io/phone-sensors/accel-tuner.html"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <published>2026-05-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Am I over reacting?]]></title>
+        <id>https://talkboy.org/s/DgwuLPHR</id>
+        <link href="https://talkboy.org/s/DgwuLPHR"/>
         <updated>2026-05-07T16:00:00.000Z</updated>
         <published>2026-05-07T16:00:00.000Z</published>
     </entry>
