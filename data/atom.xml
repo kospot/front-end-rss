@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-09T02:02:26.402Z</updated>
+    <updated>2026-05-09T04:01:15.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,128 +64,86 @@
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia introduces back end for CUDA kernels in Rust]]></title>
-        <id>https://github.com/NVlabs/cuda-oxide</id>
-        <link href="https://github.com/NVlabs/cuda-oxide"/>
+        <title type="html"><![CDATA[Show HN: CopyProps – A Figma plugin that copies element properties as text]]></title>
+        <id>https://github.com/p32929/figma_copy_props</id>
+        <link href="https://github.com/p32929/figma_copy_props"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VGC: A Zone-Based Garbage Collection Architecture for Python's Parallel Runtime]]></title>
-        <id>https://arxiv.org/abs/2512.23768</id>
-        <link href="https://arxiv.org/abs/2512.23768"/>
+        <title type="html"><![CDATA[The React2Shell Story and What Happened Next.js]]></title>
+        <id>https://sylvie.fyi/posts/react2shell/</id>
+        <link href="https://sylvie.fyi/posts/react2shell/"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tell HN: "Epstein files" is getting buried by deliberate suppresion-propaganda]]></title>
-        <id>https://news.ycombinator.com/item?id=48070895</id>
-        <link href="https://news.ycombinator.com/item?id=48070895"/>
+        <title type="html"><![CDATA[Show HN: Ovlt – Lightweight Auth Server That Runs in ~20MB RAM]]></title>
+        <id>https://www.ovlt.tech/</id>
+        <link href="https://www.ovlt.tech/"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built GitHub Store to 12,500 stars in 6 months – I started at 16]]></title>
-        <id>https://github-store.org/blog/how-i-built-github-store/</id>
-        <link href="https://github-store.org/blog/how-i-built-github-store/"/>
+        <title type="html"><![CDATA[Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux]]></title>
+        <id>https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml</id>
+        <link href="https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a baremetal RustOS (O(1)allocator NVMeDMA ZeroTrust sandbox for AIAgents]]></title>
-        <id>https://github.com/joreag/polymorph_os</id>
-        <link href="https://github.com/joreag/polymorph_os"/>
+        <title type="html"><![CDATA[Show HN: TigerJSON – Native macOS JSON viewer with jq filter engine ($9.99)]]></title>
+        <id>https://apps.apple.com/kr/app/tiger-json/id6761610376?mt=12</id>
+        <link href="https://apps.apple.com/kr/app/tiger-json/id6761610376?mt=12"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Explorer Board a $99 Artix UltraScale+ FPGA Board from Adiuvo]]></title>
-        <id>https://explorerboard.tech/</id>
-        <link href="https://explorerboard.tech/"/>
+        <title type="html"><![CDATA[Scott Sumner Q1 movie reviews]]></title>
+        <id>https://scottsumner.substack.com/p/films-of-2026-q1</id>
+        <link href="https://scottsumner.substack.com/p/films-of-2026-q1"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remembering Planet Source Code: Sharing Code Before GitHub Made It Easy]]></title>
-        <id>https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy</id>
-        <link href="https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy"/>
+        <title type="html"><![CDATA[Meltdown: LLM Client Made in Python and Tk]]></title>
+        <id>https://github.com/Merkoba/Meltdown</id>
+        <link href="https://github.com/Merkoba/Meltdown"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discord Automates ScyllaDB Clusters at Scale]]></title>
-        <id>https://discord.com/blog/how-discord-automates-scylladb-clusters-at-scale</id>
-        <link href="https://discord.com/blog/how-discord-automates-scylladb-clusters-at-scale"/>
+        <title type="html"><![CDATA[ShowHN: Applying PEFT (e.g., LoRA) for edge-cloud collaborative computing]]></title>
+        <id>https://github.com/ShadowLLM/shadow-peft</id>
+        <link href="https://github.com/ShadowLLM/shadow-peft"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Shuts Down End-to-End Encryption for Instagram Messaging]]></title>
-        <id>https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging</id>
-        <link href="https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging"/>
+        <title type="html"><![CDATA[A recent experience with ChatGPT 5.5 Pro]]></title>
+        <id>https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/</id>
+        <link href="https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android application to switch display into side-by-side VR mode]]></title>
-        <id>https://github.com/dmikushin/android-native-sbs</id>
-        <link href="https://github.com/dmikushin/android-native-sbs"/>
+        <title type="html"><![CDATA[Show HN: Ant – A from-scratch JavaScript runtime in 9 MB]]></title>
+        <id>https://github.com/themackabu/ant</id>
+        <link href="https://github.com/themackabu/ant"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Conference 2026 Videos]]></title>
-        <id>https://www.youtube.com/playlist?list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR</id>
-        <link href="https://www.youtube.com/playlist?list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR"/>
+        <title type="html"><![CDATA[SoC 2 has no real edge]]></title>
+        <id>https://news.ycombinator.com/item?id=48071158</id>
+        <link href="https://news.ycombinator.com/item?id=48071158"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deploying Go with Apache? (Using FastCGI)]]></title>
-        <id>https://www.piperswe.me/blog/2023-10-12-deploy-go-with-fastcgi</id>
-        <link href="https://www.piperswe.me/blog/2023-10-12-deploy-go-with-fastcgi"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jetro – JSON query engine for Rust (jq-like DSL with compilation and VM)]]></title>
-        <id>https://github.com/mitghi/jetro</id>
-        <link href="https://github.com/mitghi/jetro"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Context-compiler: graph-based code retrieval for Claude Code]]></title>
-        <id>https://github.com/bytewise-ca/claude-context-compiler</id>
-        <link href="https://github.com/bytewise-ca/claude-context-compiler"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RISC-V Server Platform Spec Ratified]]></title>
-        <id>https://github.com/riscv-non-isa/riscv-server-platform/releases/tag/v1.0</id>
-        <link href="https://github.com/riscv-non-isa/riscv-server-platform/releases/tag/v1.0"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Run and debug ThingWorx services locally with TypeScript]]></title>
-        <id>https://github.com/ssilvestri15/thingworx-local-dev</id>
-        <link href="https://github.com/ssilvestri15/thingworx-local-dev"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vedit – Git-style version control for video timelines]]></title>
-        <id>https://github.com/explicit09/vedit</id>
-        <link href="https://github.com/explicit09/vedit"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tax of Living in a Low-Trust Society: How Collapsed Trust Costs You]]></title>
-        <id>https://yourbrainonmoney.substack.com/p/low-trust-society-cost</id>
-        <link href="https://yourbrainonmoney.substack.com/p/low-trust-society-cost"/>
+        <title type="html"><![CDATA[Show HN: [Video] Tribute to LLM releases in April 2026]]></title>
+        <id>https://www.youtube.com/watch?v=uu5ffMH_X9w</id>
+        <link href="https://www.youtube.com/watch?v=uu5ffMH_X9w"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
@@ -197,9 +155,128 @@
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: [Video] Tribute to LLM releases in April 2026]]></title>
-        <id>https://www.youtube.com/watch?v=uu5ffMH_X9w</id>
-        <link href="https://www.youtube.com/watch?v=uu5ffMH_X9w"/>
+        <title type="html"><![CDATA[The Tax of Living in a Low-Trust Society: How Collapsed Trust Costs You]]></title>
+        <id>https://yourbrainonmoney.substack.com/p/low-trust-society-cost</id>
+        <link href="https://yourbrainonmoney.substack.com/p/low-trust-society-cost"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vedit – Git-style version control for video timelines]]></title>
+        <id>https://github.com/explicit09/vedit</id>
+        <link href="https://github.com/explicit09/vedit"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Run and debug ThingWorx services locally with TypeScript]]></title>
+        <id>https://github.com/ssilvestri15/thingworx-local-dev</id>
+        <link href="https://github.com/ssilvestri15/thingworx-local-dev"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RISC-V Server Platform Spec Ratified]]></title>
+        <id>https://github.com/riscv-non-isa/riscv-server-platform/releases/tag/v1.0</id>
+        <link href="https://github.com/riscv-non-isa/riscv-server-platform/releases/tag/v1.0"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Context-compiler: graph-based code retrieval for Claude Code]]></title>
+        <id>https://github.com/bytewise-ca/claude-context-compiler</id>
+        <link href="https://github.com/bytewise-ca/claude-context-compiler"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetro – JSON query engine for Rust (jq-like DSL with compilation and VM)]]></title>
+        <id>https://github.com/mitghi/jetro</id>
+        <link href="https://github.com/mitghi/jetro"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying Go with Apache? (Using FastCGI)]]></title>
+        <id>https://www.piperswe.me/blog/2023-10-12-deploy-go-with-fastcgi</id>
+        <link href="https://www.piperswe.me/blog/2023-10-12-deploy-go-with-fastcgi"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Conference 2026 Videos]]></title>
+        <id>https://www.youtube.com/playlist?list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR</id>
+        <link href="https://www.youtube.com/playlist?list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android application to switch display into side-by-side VR mode]]></title>
+        <id>https://github.com/dmikushin/android-native-sbs</id>
+        <link href="https://github.com/dmikushin/android-native-sbs"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Shuts Down End-to-End Encryption for Instagram Messaging]]></title>
+        <id>https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging</id>
+        <link href="https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord Automates ScyllaDB Clusters at Scale]]></title>
+        <id>https://discord.com/blog/how-discord-automates-scylladb-clusters-at-scale</id>
+        <link href="https://discord.com/blog/how-discord-automates-scylladb-clusters-at-scale"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering Planet Source Code: Sharing Code Before GitHub Made It Easy]]></title>
+        <id>https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy</id>
+        <link href="https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Explorer Board a $99 Artix UltraScale+ FPGA Board from Adiuvo]]></title>
+        <id>https://explorerboard.tech/</id>
+        <link href="https://explorerboard.tech/"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a baremetal RustOS (O(1)allocator NVMeDMA ZeroTrust sandbox for AIAgents]]></title>
+        <id>https://github.com/joreag/polymorph_os</id>
+        <link href="https://github.com/joreag/polymorph_os"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built GitHub Store to 12,500 stars in 6 months – I started at 16]]></title>
+        <id>https://github-store.org/blog/how-i-built-github-store/</id>
+        <link href="https://github-store.org/blog/how-i-built-github-store/"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: "Epstein files" is getting buried by deliberate suppresion-propaganda]]></title>
+        <id>https://news.ycombinator.com/item?id=48070895</id>
+        <link href="https://news.ycombinator.com/item?id=48070895"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VGC: A Zone-Based Garbage Collection Architecture for Python's Parallel Runtime]]></title>
+        <id>https://arxiv.org/abs/2512.23768</id>
+        <link href="https://arxiv.org/abs/2512.23768"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia introduces back end for CUDA kernels in Rust]]></title>
+        <id>https://github.com/NVlabs/cuda-oxide</id>
+        <link href="https://github.com/NVlabs/cuda-oxide"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
@@ -239,128 +316,51 @@
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Resume Keywords for Software Engineers - The Complete 2026 Guide]]></title>
-        <id>https://dev.to/sarah_m/resume-keywords-for-software-engineers-the-complete-2026-guide-pco</id>
-        <link href="https://dev.to/sarah_m/resume-keywords-for-software-engineers-the-complete-2026-guide-pco"/>
+        <title type="html"><![CDATA[TypeScript vs JavaScript in 2026: Is JavaScript Still Worth Using?]]></title>
+        <id>https://dev.to/_6638a39c349d7e9c85ee20/typescript-vs-javascript-in-2026-is-javascript-still-worth-using-382k</id>
+        <link href="https://dev.to/_6638a39c349d7e9c85ee20/typescript-vs-javascript-in-2026-is-javascript-still-worth-using-382k"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astro 6 Deep Dive — Vite Environment API, Rust Compiler, Live Content Collections, and First-Class Cloudflare Workers]]></title>
-        <id>https://dev.to/x4nent/astro-6-deep-dive-vite-environment-api-rust-compiler-live-content-collections-and-first-class-bc</id>
-        <link href="https://dev.to/x4nent/astro-6-deep-dive-vite-environment-api-rust-compiler-live-content-collections-and-first-class-bc"/>
+        <title type="html"><![CDATA[React]]></title>
+        <id>https://dev.to/priya_k_9427a2e692abd3ddb/react-1a1m</id>
+        <link href="https://dev.to/priya_k_9427a2e692abd3ddb/react-1a1m"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I built a JS Framework that beats Vanilla JS in row selection performance]]></title>
-        <id>https://dev.to/yanivsuzana/how-i-built-a-js-framework-that-beats-vanilla-js-in-row-selection-performance-5e6e</id>
-        <link href="https://dev.to/yanivsuzana/how-i-built-a-js-framework-that-beats-vanilla-js-in-row-selection-performance-5e6e"/>
+        <title type="html"><![CDATA[Functions in JavaScript]]></title>
+        <id>https://dev.to/priya_k_9427a2e692abd3ddb/functions-in-javascript-5e4j</id>
+        <link href="https://dev.to/priya_k_9427a2e692abd3ddb/functions-in-javascript-5e4j"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js vs Vite in 2026: What you should actually use]]></title>
-        <id>https://dev.to/apollo_ag/nextjs-vs-vite-in-2026-what-you-should-actually-use-2mk3</id>
-        <link href="https://dev.to/apollo_ag/nextjs-vs-vite-in-2026-what-you-should-actually-use-2mk3"/>
+        <title type="html"><![CDATA[useEffect in React Hooks]]></title>
+        <id>https://dev.to/priya_k_9427a2e692abd3ddb/useeffect-in-react-hooks-331j</id>
+        <link href="https://dev.to/priya_k_9427a2e692abd3ddb/useeffect-in-react-hooks-331j"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How should the JS inside a <script async> be written? Does it really not use the DOM?]]></title>
-        <id>https://dev.to/king_fb561b037550fd9af/how-should-the-js-inside-a-be-written-does-it-really-not-use-the-dom-5d5k</id>
-        <link href="https://dev.to/king_fb561b037550fd9af/how-should-the-js-inside-a-be-written-does-it-really-not-use-the-dom-5d5k"/>
+        <title type="html"><![CDATA[useParams in React]]></title>
+        <id>https://dev.to/priya_k_9427a2e692abd3ddb/useparams-in-react-3bbb</id>
+        <link href="https://dev.to/priya_k_9427a2e692abd3ddb/useparams-in-react-3bbb"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing Resilient Shopify Middleware]]></title>
-        <id>https://dev.to/masadashraf/designing-resilient-shopify-middleware-4d6i</id>
-        <link href="https://dev.to/masadashraf/designing-resilient-shopify-middleware-4d6i"/>
+        <title type="html"><![CDATA[What is Javascript?]]></title>
+        <id>https://dev.to/priya_k_9427a2e692abd3ddb/what-is-javascript-mnl</id>
+        <link href="https://dev.to/priya_k_9427a2e692abd3ddb/what-is-javascript-mnl"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FluxA: The Payment Infrastructure That Finally Lets AI Agents Handle Money on Their Own]]></title>
-        <id>https://dev.to/bandrex_asta/fluxa-the-payment-infrastructure-that-finally-lets-ai-agents-handle-money-on-their-own-12gc</id>
-        <link href="https://dev.to/bandrex_asta/fluxa-the-payment-infrastructure-that-finally-lets-ai-agents-handle-money-on-their-own-12gc"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go Edge-native fast]]></title>
-        <id>https://dev.to/rabbxdev/go-edge-native-fast-dm8</id>
-        <link href="https://dev.to/rabbxdev/go-edge-native-fast-dm8"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Browser-Based PDF Converter to Stop Uploading Sensitive Files to Random Sites Tags: #showdev #webdev #javascript #privacy]]></title>
-        <id>https://dev.to/bunnyconvertpdf/i-built-a-browser-based-pdf-converter-to-stop-uploading-sensitive-files-to-random-sites-tags-4pfg</id>
-        <link href="https://dev.to/bunnyconvertpdf/i-built-a-browser-based-pdf-converter-to-stop-uploading-sensitive-files-to-random-sites-tags-4pfg"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shopify App Database Optimization: What Breaks at Scale and How to Fix It]]></title>
-        <id>https://dev.to/asad_abdullah_zafar/shopify-app-database-optimization-what-breaks-at-scale-and-how-to-fix-it-3mo8</id>
-        <link href="https://dev.to/asad_abdullah_zafar/shopify-app-database-optimization-what-breaks-at-scale-and-how-to-fix-it-3mo8"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Top 99 Best Sites to Buy Old telegram Accounts - Trusted Sources Only"]]></title>
-        <id>https://dev.to/richmosa/top-99-best-sites-to-buy-old-telegram-accounts-trusted-sources-only-35gn</id>
-        <link href="https://dev.to/richmosa/top-99-best-sites-to-buy-old-telegram-accounts-trusted-sources-only-35gn"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWT Authentication — 7 Common Mistakes Developers Make (And How to Fix Them)]]></title>
-        <id>https://dev.to/ramshakomal/jwt-authentication-7-common-mistakes-developers-make-and-how-to-fix-them-3l3l</id>
-        <link href="https://dev.to/ramshakomal/jwt-authentication-7-common-mistakes-developers-make-and-how-to-fix-them-3l3l"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Top 99 Best Sites to Buy Old GitHub Accounts - Master Guide"]]></title>
-        <id>https://dev.to/richmosa/top-99-best-sites-to-buy-old-github-accounts-master-guide-2gm8</id>
-        <link href="https://dev.to/richmosa/top-99-best-sites-to-buy-old-github-accounts-master-guide-2gm8"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js & GLSL]]></title>
-        <id>https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea</id>
-        <link href="https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cookie banner auto-dismiss patterns for 12 CMPs (open source rules)]]></title>
-        <id>https://dev.to/toolkitonline/cookie-banner-auto-dismiss-patterns-for-12-cmps-open-source-rules-46k1</id>
-        <link href="https://dev.to/toolkitonline/cookie-banner-auto-dismiss-patterns-for-12-cmps-open-source-rules-46k1"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Where to Buy Old Yahoo Accounts - Safe Platforms Guide"]]></title>
-        <id>https://dev.to/richmosa/where-to-buy-old-yahoo-accounts-safe-platforms-guide-1ma5</id>
-        <link href="https://dev.to/richmosa/where-to-buy-old-yahoo-accounts-safe-platforms-guide-1ma5"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I turned 1,460+ public APIs into a searchable JSON endpoint]]></title>
-        <id>https://dev.to/easymoneyawmsniper/i-turned-1460-public-apis-into-a-searchable-json-endpoint-21ep</id>
-        <link href="https://dev.to/easymoneyawmsniper/i-turned-1460-public-apis-into-a-searchable-json-endpoint-21ep"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Most Side Projects Die Before Launch]]></title>
-        <id>https://dev.to/georgegoodluck/why-most-side-projects-die-before-launch-322l</id>
-        <link href="https://dev.to/georgegoodluck/why-most-side-projects-die-before-launch-322l"/>
+        <title type="html"><![CDATA[useState in React Hooks]]></title>
+        <id>https://dev.to/priya_k_9427a2e692abd3ddb/usestate-in-react-hooks-168d</id>
+        <link href="https://dev.to/priya_k_9427a2e692abd3ddb/usestate-in-react-hooks-168d"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
