@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-09T00:01:26.790Z</updated>
+    <updated>2026-05-09T02:02:26.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,86 +64,51 @@
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: [Video] Tribute to LLM releases in April 2026]]></title>
-        <id>https://www.youtube.com/watch?v=uu5ffMH_X9w</id>
-        <link href="https://www.youtube.com/watch?v=uu5ffMH_X9w"/>
+        <title type="html"><![CDATA[Nvidia introduces back end for CUDA kernels in Rust]]></title>
+        <id>https://github.com/NVlabs/cuda-oxide</id>
+        <link href="https://github.com/NVlabs/cuda-oxide"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The FCC Wants Your ID Before You Get a Phone Number]]></title>
-        <id>https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number</id>
-        <link href="https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number"/>
+        <title type="html"><![CDATA[VGC: A Zone-Based Garbage Collection Architecture for Python's Parallel Runtime]]></title>
+        <id>https://arxiv.org/abs/2512.23768</id>
+        <link href="https://arxiv.org/abs/2512.23768"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Tax of Living in a Low-Trust Society: How Collapsed Trust Costs You]]></title>
-        <id>https://yourbrainonmoney.substack.com/p/low-trust-society-cost</id>
-        <link href="https://yourbrainonmoney.substack.com/p/low-trust-society-cost"/>
+        <title type="html"><![CDATA[Tell HN: "Epstein files" is getting buried by deliberate suppresion-propaganda]]></title>
+        <id>https://news.ycombinator.com/item?id=48070895</id>
+        <link href="https://news.ycombinator.com/item?id=48070895"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vedit – Git-style version control for video timelines]]></title>
-        <id>https://github.com/explicit09/vedit</id>
-        <link href="https://github.com/explicit09/vedit"/>
+        <title type="html"><![CDATA[I built GitHub Store to 12,500 stars in 6 months – I started at 16]]></title>
+        <id>https://github-store.org/blog/how-i-built-github-store/</id>
+        <link href="https://github-store.org/blog/how-i-built-github-store/"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Run and debug ThingWorx services locally with TypeScript]]></title>
-        <id>https://github.com/ssilvestri15/thingworx-local-dev</id>
-        <link href="https://github.com/ssilvestri15/thingworx-local-dev"/>
+        <title type="html"><![CDATA[I built a baremetal RustOS (O(1)allocator NVMeDMA ZeroTrust sandbox for AIAgents]]></title>
+        <id>https://github.com/joreag/polymorph_os</id>
+        <link href="https://github.com/joreag/polymorph_os"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RISC-V Server Platform Spec Ratified]]></title>
-        <id>https://github.com/riscv-non-isa/riscv-server-platform/releases/tag/v1.0</id>
-        <link href="https://github.com/riscv-non-isa/riscv-server-platform/releases/tag/v1.0"/>
+        <title type="html"><![CDATA[The Explorer Board a $99 Artix UltraScale+ FPGA Board from Adiuvo]]></title>
+        <id>https://explorerboard.tech/</id>
+        <link href="https://explorerboard.tech/"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Context-compiler: graph-based code retrieval for Claude Code]]></title>
-        <id>https://github.com/bytewise-ca/claude-context-compiler</id>
-        <link href="https://github.com/bytewise-ca/claude-context-compiler"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jetro – JSON query engine for Rust (jq-like DSL with compilation and VM)]]></title>
-        <id>https://github.com/mitghi/jetro</id>
-        <link href="https://github.com/mitghi/jetro"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying Go with Apache? (Using FastCGI)]]></title>
-        <id>https://www.piperswe.me/blog/2023-10-12-deploy-go-with-fastcgi</id>
-        <link href="https://www.piperswe.me/blog/2023-10-12-deploy-go-with-fastcgi"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Conference 2026 Videos]]></title>
-        <id>https://www.youtube.com/playlist?list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR</id>
-        <link href="https://www.youtube.com/playlist?list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android application to switch display into side-by-side VR mode]]></title>
-        <id>https://github.com/dmikushin/android-native-sbs</id>
-        <link href="https://github.com/dmikushin/android-native-sbs"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Shuts Down End-to-End Encryption for Instagram Messaging]]></title>
-        <id>https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging</id>
-        <link href="https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging"/>
+        <title type="html"><![CDATA[Remembering Planet Source Code: Sharing Code Before GitHub Made It Easy]]></title>
+        <id>https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy</id>
+        <link href="https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
@@ -155,9 +120,86 @@
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code Is a Mess, Until You Install This Official Plugin]]></title>
-        <id>https://pub.towardsai.net/claude-code-is-a-mess-until-you-install-this-official-plugin-f94e7cac723f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-code-is-a-mess-until-you-install-this-official-plugin-f94e7cac723f?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Meta Shuts Down End-to-End Encryption for Instagram Messaging]]></title>
+        <id>https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging</id>
+        <link href="https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android application to switch display into side-by-side VR mode]]></title>
+        <id>https://github.com/dmikushin/android-native-sbs</id>
+        <link href="https://github.com/dmikushin/android-native-sbs"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Conference 2026 Videos]]></title>
+        <id>https://www.youtube.com/playlist?list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR</id>
+        <link href="https://www.youtube.com/playlist?list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying Go with Apache? (Using FastCGI)]]></title>
+        <id>https://www.piperswe.me/blog/2023-10-12-deploy-go-with-fastcgi</id>
+        <link href="https://www.piperswe.me/blog/2023-10-12-deploy-go-with-fastcgi"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetro – JSON query engine for Rust (jq-like DSL with compilation and VM)]]></title>
+        <id>https://github.com/mitghi/jetro</id>
+        <link href="https://github.com/mitghi/jetro"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Context-compiler: graph-based code retrieval for Claude Code]]></title>
+        <id>https://github.com/bytewise-ca/claude-context-compiler</id>
+        <link href="https://github.com/bytewise-ca/claude-context-compiler"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RISC-V Server Platform Spec Ratified]]></title>
+        <id>https://github.com/riscv-non-isa/riscv-server-platform/releases/tag/v1.0</id>
+        <link href="https://github.com/riscv-non-isa/riscv-server-platform/releases/tag/v1.0"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Run and debug ThingWorx services locally with TypeScript]]></title>
+        <id>https://github.com/ssilvestri15/thingworx-local-dev</id>
+        <link href="https://github.com/ssilvestri15/thingworx-local-dev"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vedit – Git-style version control for video timelines]]></title>
+        <id>https://github.com/explicit09/vedit</id>
+        <link href="https://github.com/explicit09/vedit"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tax of Living in a Low-Trust Society: How Collapsed Trust Costs You]]></title>
+        <id>https://yourbrainonmoney.substack.com/p/low-trust-society-cost</id>
+        <link href="https://yourbrainonmoney.substack.com/p/low-trust-society-cost"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The FCC Wants Your ID Before You Get a Phone Number]]></title>
+        <id>https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number</id>
+        <link href="https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: [Video] Tribute to LLM releases in April 2026]]></title>
+        <id>https://www.youtube.com/watch?v=uu5ffMH_X9w</id>
+        <link href="https://www.youtube.com/watch?v=uu5ffMH_X9w"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
@@ -169,6 +211,20 @@
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Claude Code Is a Mess, Until You Install This Official Plugin]]></title>
+        <id>https://pub.towardsai.net/claude-code-is-a-mess-until-you-install-this-official-plugin-f94e7cac723f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-code-is-a-mess-until-you-install-this-official-plugin-f94e7cac723f?source=rss----98111c9905da---4"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Luke Curley]]></title>
+        <id>https://simonwillison.net/2026/May/9/luke-curley/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/May/9/luke-curley/#atom-everything"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Using Claude Code: The Unreasonable Effectiveness of HTML]]></title>
         <id>https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything</id>
         <link href="https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything"/>
@@ -176,86 +232,44 @@
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Most Side Projects Die Before Launch]]></title>
-        <id>https://dev.to/georgegoodluck/why-most-side-projects-die-before-launch-322l</id>
-        <link href="https://dev.to/georgegoodluck/why-most-side-projects-die-before-launch-322l"/>
+        <title type="html"><![CDATA[Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman]]></title>
+        <id>https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/</id>
+        <link href="https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I turned 1,460+ public APIs into a searchable JSON endpoint]]></title>
-        <id>https://dev.to/easymoneyawmsniper/i-turned-1460-public-apis-into-a-searchable-json-endpoint-21ep</id>
-        <link href="https://dev.to/easymoneyawmsniper/i-turned-1460-public-apis-into-a-searchable-json-endpoint-21ep"/>
+        <title type="html"><![CDATA[Resume Keywords for Software Engineers - The Complete 2026 Guide]]></title>
+        <id>https://dev.to/sarah_m/resume-keywords-for-software-engineers-the-complete-2026-guide-pco</id>
+        <link href="https://dev.to/sarah_m/resume-keywords-for-software-engineers-the-complete-2026-guide-pco"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Where to Buy Old Yahoo Accounts - Safe Platforms Guide"]]></title>
-        <id>https://dev.to/richmosa/where-to-buy-old-yahoo-accounts-safe-platforms-guide-1ma5</id>
-        <link href="https://dev.to/richmosa/where-to-buy-old-yahoo-accounts-safe-platforms-guide-1ma5"/>
+        <title type="html"><![CDATA[Astro 6 Deep Dive — Vite Environment API, Rust Compiler, Live Content Collections, and First-Class Cloudflare Workers]]></title>
+        <id>https://dev.to/x4nent/astro-6-deep-dive-vite-environment-api-rust-compiler-live-content-collections-and-first-class-bc</id>
+        <link href="https://dev.to/x4nent/astro-6-deep-dive-vite-environment-api-rust-compiler-live-content-collections-and-first-class-bc"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cookie banner auto-dismiss patterns for 12 CMPs (open source rules)]]></title>
-        <id>https://dev.to/toolkitonline/cookie-banner-auto-dismiss-patterns-for-12-cmps-open-source-rules-46k1</id>
-        <link href="https://dev.to/toolkitonline/cookie-banner-auto-dismiss-patterns-for-12-cmps-open-source-rules-46k1"/>
+        <title type="html"><![CDATA[How I built a JS Framework that beats Vanilla JS in row selection performance]]></title>
+        <id>https://dev.to/yanivsuzana/how-i-built-a-js-framework-that-beats-vanilla-js-in-row-selection-performance-5e6e</id>
+        <link href="https://dev.to/yanivsuzana/how-i-built-a-js-framework-that-beats-vanilla-js-in-row-selection-performance-5e6e"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js & GLSL]]></title>
-        <id>https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea</id>
-        <link href="https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea"/>
+        <title type="html"><![CDATA[Next.js vs Vite in 2026: What you should actually use]]></title>
+        <id>https://dev.to/apollo_ag/nextjs-vs-vite-in-2026-what-you-should-actually-use-2mk3</id>
+        <link href="https://dev.to/apollo_ag/nextjs-vs-vite-in-2026-what-you-should-actually-use-2mk3"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Top 99 Best Sites to Buy Old GitHub Accounts - Master Guide"]]></title>
-        <id>https://dev.to/richmosa/top-99-best-sites-to-buy-old-github-accounts-master-guide-2gm8</id>
-        <link href="https://dev.to/richmosa/top-99-best-sites-to-buy-old-github-accounts-master-guide-2gm8"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWT Authentication — 7 Common Mistakes Developers Make (And How to Fix Them)]]></title>
-        <id>https://dev.to/ramshakomal/jwt-authentication-7-common-mistakes-developers-make-and-how-to-fix-them-3l3l</id>
-        <link href="https://dev.to/ramshakomal/jwt-authentication-7-common-mistakes-developers-make-and-how-to-fix-them-3l3l"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Top 99 Best Sites to Buy Old telegram Accounts - Trusted Sources Only"]]></title>
-        <id>https://dev.to/richmosa/top-99-best-sites-to-buy-old-telegram-accounts-trusted-sources-only-35gn</id>
-        <link href="https://dev.to/richmosa/top-99-best-sites-to-buy-old-telegram-accounts-trusted-sources-only-35gn"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shopify App Database Optimization: What Breaks at Scale and How to Fix It]]></title>
-        <id>https://dev.to/asad_abdullah_zafar/shopify-app-database-optimization-what-breaks-at-scale-and-how-to-fix-it-3mo8</id>
-        <link href="https://dev.to/asad_abdullah_zafar/shopify-app-database-optimization-what-breaks-at-scale-and-how-to-fix-it-3mo8"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Browser-Based PDF Converter to Stop Uploading Sensitive Files to Random Sites Tags: #showdev #webdev #javascript #privacy]]></title>
-        <id>https://dev.to/bunnyconvertpdf/i-built-a-browser-based-pdf-converter-to-stop-uploading-sensitive-files-to-random-sites-tags-4pfg</id>
-        <link href="https://dev.to/bunnyconvertpdf/i-built-a-browser-based-pdf-converter-to-stop-uploading-sensitive-files-to-random-sites-tags-4pfg"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go Edge-native fast]]></title>
-        <id>https://dev.to/rabbxdev/go-edge-native-fast-dm8</id>
-        <link href="https://dev.to/rabbxdev/go-edge-native-fast-dm8"/>
-        <updated>2026-05-08T16:00:00.000Z</updated>
-        <published>2026-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FluxA: The Payment Infrastructure That Finally Lets AI Agents Handle Money on Their Own]]></title>
-        <id>https://dev.to/bandrex_asta/fluxa-the-payment-infrastructure-that-finally-lets-ai-agents-handle-money-on-their-own-12gc</id>
-        <link href="https://dev.to/bandrex_asta/fluxa-the-payment-infrastructure-that-finally-lets-ai-agents-handle-money-on-their-own-12gc"/>
+        <title type="html"><![CDATA[How should the JS inside a <script async> be written? Does it really not use the DOM?]]></title>
+        <id>https://dev.to/king_fb561b037550fd9af/how-should-the-js-inside-a-be-written-does-it-really-not-use-the-dom-5d5k</id>
+        <link href="https://dev.to/king_fb561b037550fd9af/how-should-the-js-inside-a-be-written-does-it-really-not-use-the-dom-5d5k"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
@@ -267,101 +281,87 @@
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Control Infinite CSS Animations (Part 1 of 2)]]></title>
-        <id>https://frontendmasters.com/blog/how-to-control-infinite-css-animations-part-1-of-2/</id>
-        <link href="https://frontendmasters.com/blog/how-to-control-infinite-css-animations-part-1-of-2/"/>
+        <title type="html"><![CDATA[FluxA: The Payment Infrastructure That Finally Lets AI Agents Handle Money on Their Own]]></title>
+        <id>https://dev.to/bandrex_asta/fluxa-the-payment-infrastructure-that-finally-lets-ai-agents-handle-money-on-their-own-12gc</id>
+        <link href="https://dev.to/bandrex_asta/fluxa-the-payment-infrastructure-that-finally-lets-ai-agents-handle-money-on-their-own-12gc"/>
         <updated>2026-05-08T16:00:00.000Z</updated>
         <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canvas is down as ShinyHunters threatens to leak schools’ data]]></title>
-        <id>https://www.theverge.com/tech/926458/canvas-shinyhunters-breach</id>
-        <link href="https://www.theverge.com/tech/926458/canvas-shinyhunters-breach"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Go Edge-native fast]]></title>
+        <id>https://dev.to/rabbxdev/go-edge-native-fast-dm8</id>
+        <link href="https://dev.to/rabbxdev/go-edge-native-fast-dm8"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built a Browser-Based PDF Converter to Stop Uploading Sensitive Files to Random Sites Tags: #showdev #webdev #javascript #privacy]]></title>
+        <id>https://dev.to/bunnyconvertpdf/i-built-a-browser-based-pdf-converter-to-stop-uploading-sensitive-files-to-random-sites-tags-4pfg</id>
+        <link href="https://dev.to/bunnyconvertpdf/i-built-a-browser-based-pdf-converter-to-stop-uploading-sensitive-files-to-random-sites-tags-4pfg"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Shopify App Database Optimization: What Breaks at Scale and How to Fix It]]></title>
+        <id>https://dev.to/asad_abdullah_zafar/shopify-app-database-optimization-what-breaks-at-scale-and-how-to-fix-it-3mo8</id>
+        <link href="https://dev.to/asad_abdullah_zafar/shopify-app-database-optimization-what-breaks-at-scale-and-how-to-fix-it-3mo8"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The future of game consoles is looking bleak]]></title>
-        <id>https://www.theverge.com/games/926772/nintendo-switch-2-price-hike-console-gaming-future</id>
-        <link href="https://www.theverge.com/games/926772/nintendo-switch-2-price-hike-console-gaming-future"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA["Top 99 Best Sites to Buy Old telegram Accounts - Trusted Sources Only"]]></title>
+        <id>https://dev.to/richmosa/top-99-best-sites-to-buy-old-telegram-accounts-trusted-sources-only-35gn</id>
+        <link href="https://dev.to/richmosa/top-99-best-sites-to-buy-old-telegram-accounts-trusted-sources-only-35gn"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Billie Eilish Doesn't Know if There Will Ever Be Another Billie Eilish]]></title>
-        <id>https://www.wired.com/story/billie-eilish-doesnt-know-if-there-will-ever-be-another-billie-eilish/</id>
-        <link href="https://www.wired.com/story/billie-eilish-doesnt-know-if-there-will-ever-be-another-billie-eilish/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JWT Authentication — 7 Common Mistakes Developers Make (And How to Fix Them)]]></title>
+        <id>https://dev.to/ramshakomal/jwt-authentication-7-common-mistakes-developers-make-and-how-to-fix-them-3l3l</id>
+        <link href="https://dev.to/ramshakomal/jwt-authentication-7-common-mistakes-developers-make-and-how-to-fix-them-3l3l"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Canvas Hack Is a New Kind of Ransomware Debacle]]></title>
-        <id>https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/</id>
-        <link href="https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA["Top 99 Best Sites to Buy Old GitHub Accounts - Master Guide"]]></title>
+        <id>https://dev.to/richmosa/top-99-best-sites-to-buy-old-github-accounts-master-guide-2gm8</id>
+        <link href="https://dev.to/richmosa/top-99-best-sites-to-buy-old-github-accounts-master-guide-2gm8"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained]]></title>
-        <id>https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/</id>
-        <link href="https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js & GLSL]]></title>
+        <id>https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea</id>
+        <link href="https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Disable Google's Gemini in Chrome]]></title>
-        <id>https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/</id>
-        <link href="https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Cookie banner auto-dismiss patterns for 12 CMPs (open source rules)]]></title>
+        <id>https://dev.to/toolkitonline/cookie-banner-auto-dismiss-patterns-for-12-cmps-open-source-rules-46k1</id>
+        <link href="https://dev.to/toolkitonline/cookie-banner-auto-dismiss-patterns-for-12-cmps-open-source-rules-46k1"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’]]></title>
-        <id>https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/</id>
-        <link href="https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA["Where to Buy Old Yahoo Accounts - Safe Platforms Guide"]]></title>
+        <id>https://dev.to/richmosa/where-to-buy-old-yahoo-accounts-safe-platforms-guide-1ma5</id>
+        <link href="https://dev.to/richmosa/where-to-buy-old-yahoo-accounts-safe-platforms-guide-1ma5"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There’s a Long-Shot Proposal to Protect California Workers From AI]]></title>
-        <id>https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/</id>
-        <link href="https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I turned 1,460+ public APIs into a searchable JSON endpoint]]></title>
+        <id>https://dev.to/easymoneyawmsniper/i-turned-1460-public-apis-into-a-searchable-json-endpoint-21ep</id>
+        <link href="https://dev.to/easymoneyawmsniper/i-turned-1460-public-apis-into-a-searchable-json-endpoint-21ep"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027]]></title>
-        <id>https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/</id>
-        <link href="https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/</id>
-        <link href="https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why you can never get your doctor to call you back]]></title>
-        <id>https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/</id>
-        <link href="https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/"/>
-        <updated>2026-05-07T16:00:00.000Z</updated>
-        <published>2026-05-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Why Most Side Projects Die Before Launch]]></title>
+        <id>https://dev.to/georgegoodluck/why-most-side-projects-die-before-launch-322l</id>
+        <link href="https://dev.to/georgegoodluck/why-most-side-projects-die-before-launch-322l"/>
+        <updated>2026-05-08T16:00:00.000Z</updated>
+        <published>2026-05-08T16:00:00.000Z</published>
     </entry>
 </feed>
