@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-10T15:01:36.249Z</updated>
+    <updated>2026-05-10T22:01:37.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,62 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[The Bastl Kalimba is a wild synth that thinks it’s a thumb piano]]></title>
+        <id>https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano</id>
+        <link href="https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get ready for the whisper-filled office of the future]]></title>
+        <id>https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/</id>
+        <link href="https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKLab vs RGB: Why Your Color Matching Algorithm is Wrong]]></title>
+        <id>https://dev.to/bmbrick/oklab-vs-rgb-why-your-color-matching-algorithm-is-wrong-2dd0</id>
+        <link href="https://dev.to/bmbrick/oklab-vs-rgb-why-your-color-matching-algorithm-is-wrong-2dd0"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It]]></title>
+        <id>https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm</id>
+        <link href="https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REST API Design Made Simple with Express.js]]></title>
+        <id>https://dev.to/harman_panwar_46de8d9454b/rest-api-design-made-simple-with-expressjs-1p7o</id>
+        <link href="https://dev.to/harman_panwar_46de8d9454b/rest-api-design-made-simple-with-expressjs-1p7o"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Node.js? JavaScript on the Server Explained]]></title>
+        <id>https://dev.to/harman_panwar_46de8d9454b/what-is-nodejs-javascript-on-the-server-explained-3dc5</id>
+        <link href="https://dev.to/harman_panwar_46de8d9454b/what-is-nodejs-javascript-on-the-server-explained-3dc5"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storing Uploaded Files and Serving Them in Express]]></title>
+        <id>https://dev.to/harman_panwar_46de8d9454b/storing-uploaded-files-and-serving-them-in-express-1n2b</id>
+        <link href="https://dev.to/harman_panwar_46de8d9454b/storing-uploaded-files-and-serving-them-in-express-1n2b"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Modules: Import and Export Explained]]></title>
+        <id>https://dev.to/harman_panwar_46de8d9454b/javascript-modules-import-and-export-explained-51e1</id>
+        <link href="https://dev.to/harman_panwar_46de8d9454b/javascript-modules-import-and-export-explained-51e1"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe]]></title>
         <id>https://www.wired.com/story/reservation-hijacks-scam-safety-tips/</id>
@@ -305,62 +361,6 @@
         <title type="html"><![CDATA[Some gene therapies no longer require clinical trials, thanks to new FDA rule]]></title>
         <id>https://www.livescience.com/health/some-gene-therapies-no-longer-require-clinical-trials-thanks-to-new-fda-rule-is-this-safe-and-who-will-it-help</id>
         <link href="https://www.livescience.com/health/some-gene-therapies-no-longer-require-clinical-trials-thanks-to-new-fda-rule-is-this-safe-and-who-will-it-help"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepInfra raises $107M Series B]]></title>
-        <id>https://deepinfra.com/blog/deepinfra-series-b</id>
-        <link href="https://deepinfra.com/blog/deepinfra-series-b"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visit a Mosque in video game format and learn things about Islam]]></title>
-        <id>https://islamicsystems.itch.io/the-mosque-visit</id>
-        <link href="https://islamicsystems.itch.io/the-mosque-visit"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysis points to a unexpected cause of reading difficulties]]></title>
-        <id>https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html</id>
-        <link href="https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rex is a secure script execution engine that uses Cedar policies]]></title>
-        <id>https://github.com/trusted-remote-execution/trusted-remote-execution</id>
-        <link href="https://github.com/trusted-remote-execution/trusted-remote-execution"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palette Masters: 46 Zed themes derived from master painter color palettes]]></title>
-        <id>https://github.com/regnull/palette-masters-zed</id>
-        <link href="https://github.com/regnull/palette-masters-zed"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[History and Science of the Hanta Virus]]></title>
-        <id>https://distressedscientists.substack.com/p/hantan-hondius</id>
-        <link href="https://distressedscientists.substack.com/p/hantan-hondius"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tsz: TypeScript checker and LSP written in Rust, designed to outperform tsgo]]></title>
-        <id>https://github.com/mohsen1/tsz</id>
-        <link href="https://github.com/mohsen1/tsz"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miniature Armoured Train Fought Hitler's Luftwaffe [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Td3oD3cCXZ4</id>
-        <link href="https://www.youtube.com/watch?v=Td3oD3cCXZ4"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
