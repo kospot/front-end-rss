@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-10T07:02:41.821Z</updated>
+    <updated>2026-05-10T10:01:33.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe]]></title>
+        <id>https://www.wired.com/story/reservation-hijacks-scam-safety-tips/</id>
+        <link href="https://www.wired.com/story/reservation-hijacks-scam-safety-tips/"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GM agrees to pay $12.75M in California driver privacy settlement]]></title>
         <id>https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/</id>
         <link href="https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/"/>
@@ -22,226 +29,72 @@
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chewing gum releases microplastics into your saliva, UCLA research shows]]></title>
-        <id>https://newsroom.ucla.edu/releases/bursting-your-bubble-chewing-gum-releases-microplastics-into-your-saliva-ucla-research-shows</id>
-        <link href="https://newsroom.ucla.edu/releases/bursting-your-bubble-chewing-gum-releases-microplastics-into-your-saliva-ucla-research-shows"/>
+        <title type="html"><![CDATA[A clock that maps Earth's 4.5B year history onto 12 hours. 1s=0.105Myears]]></title>
+        <id>https://eona.earth/</id>
+        <link href="https://eona.earth/"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How do I make painful lyrics feel less generic?]]></title>
-        <id>https://suno.com/@zeroxdesignartzero</id>
-        <link href="https://suno.com/@zeroxdesignartzero"/>
+        <title type="html"><![CDATA[Show HN: WfmOxide a Rust parser (.wfm/.isf) with CLI and time axis]]></title>
+        <id>https://github.com/SGavrl/WfmOxide</id>
+        <link href="https://github.com/SGavrl/WfmOxide"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Local Models Are Not Frontier. They Are Enough]]></title>
-        <id>https://quodeq.ai/blog/local-models-not-frontier/</id>
-        <link href="https://quodeq.ai/blog/local-models-not-frontier/"/>
+        <title type="html"><![CDATA[FreeBSD – A Lesson in Poor Defaults]]></title>
+        <id>https://vez.mrsk.me/freebsd-defaults</id>
+        <link href="https://vez.mrsk.me/freebsd-defaults"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Miniature Armoured Train Fought Hitler's Luftwaffe [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Td3oD3cCXZ4</id>
-        <link href="https://www.youtube.com/watch?v=Td3oD3cCXZ4"/>
+        <title type="html"><![CDATA[AI Act Article 50 transparency rules. Heading for another cookie consent moment?]]></title>
+        <id>https://digital-strategy.ec.europa.eu/en/library/draft-guidelines-implementation-transparency-obligations-certain-ai-systems-under-article-50-ai-act</id>
+        <link href="https://digital-strategy.ec.europa.eu/en/library/draft-guidelines-implementation-transparency-obligations-certain-ai-systems-under-article-50-ai-act"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tsz: TypeScript checker and LSP written in Rust, designed to outperform tsgo]]></title>
-        <id>https://github.com/mohsen1/tsz</id>
-        <link href="https://github.com/mohsen1/tsz"/>
+        <title type="html"><![CDATA[I made a better viewer for the WAR.GOV/UFO Files]]></title>
+        <id>https://hypergrid.systems/site/</id>
+        <link href="https://hypergrid.systems/site/"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[History and Science of the Hanta Virus]]></title>
-        <id>https://distressedscientists.substack.com/p/hantan-hondius</id>
-        <link href="https://distressedscientists.substack.com/p/hantan-hondius"/>
+        <title type="html"><![CDATA[Open-source Express.js dev panel for routes and request logs]]></title>
+        <id>https://www.npmjs.com/package/express-dev-panel</id>
+        <link href="https://www.npmjs.com/package/express-dev-panel"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Palette Masters: 46 Zed themes derived from master painter color palettes]]></title>
-        <id>https://github.com/regnull/palette-masters-zed</id>
-        <link href="https://github.com/regnull/palette-masters-zed"/>
+        <title type="html"><![CDATA[Engineering as Humanity's Highest Achievement]]></title>
+        <id>https://walkingtheworld.substack.com/p/engineering-as-humanitys-highest</id>
+        <link href="https://walkingtheworld.substack.com/p/engineering-as-humanitys-highest"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rex is a secure script execution engine that uses Cedar policies]]></title>
-        <id>https://github.com/trusted-remote-execution/trusted-remote-execution</id>
-        <link href="https://github.com/trusted-remote-execution/trusted-remote-execution"/>
+        <title type="html"><![CDATA[Chess.com produces 3500 ton of CO2 in air for loading JavaScript bundles]]></title>
+        <id>https://www.chess.com/</id>
+        <link href="https://www.chess.com/"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Analysis points to a unexpected cause of reading difficulties]]></title>
-        <id>https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html</id>
-        <link href="https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html"/>
+        <title type="html"><![CDATA[Outlook on Windows silently scales your email by 1.5×]]></title>
+        <id>http://picmel.com/blog/outlook-dpi-scaling-bug</id>
+        <link href="http://picmel.com/blog/outlook-dpi-scaling-bug"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visit a Mosque in video game format and learn things about Islam]]></title>
-        <id>https://islamicsystems.itch.io/the-mosque-visit</id>
-        <link href="https://islamicsystems.itch.io/the-mosque-visit"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepInfra raises $107M Series B]]></title>
-        <id>https://deepinfra.com/blog/deepinfra-series-b</id>
-        <link href="https://deepinfra.com/blog/deepinfra-series-b"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some gene therapies no longer require clinical trials, thanks to new FDA rule]]></title>
-        <id>https://www.livescience.com/health/some-gene-therapies-no-longer-require-clinical-trials-thanks-to-new-fda-rule-is-this-safe-and-who-will-it-help</id>
-        <link href="https://www.livescience.com/health/some-gene-therapies-no-longer-require-clinical-trials-thanks-to-new-fda-rule-is-this-safe-and-who-will-it-help"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 is getting faster the lazy way]]></title>
-        <id>https://www.neowin.net/opinions/windows-11-is-getting-faster-the-lazy-way/</id>
-        <link href="https://www.neowin.net/opinions/windows-11-is-getting-faster-the-lazy-way/"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did the Soviets Collude in the 1953 Candidates Tournament?]]></title>
-        <id>https://lichess.org/@/RuyLopez1000/blog/did-the-soviets-collude-in-the-1953-candidates-tournament/PFaoJIPI</id>
-        <link href="https://lichess.org/@/RuyLopez1000/blog/did-the-soviets-collude-in-the-1953-candidates-tournament/PFaoJIPI"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death of the Roadmap]]></title>
-        <id>https://debarshibasak.github.io/readables/blogs/death-of-roadmap.html</id>
-        <link href="https://debarshibasak.github.io/readables/blogs/death-of-roadmap.html"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust but Lisp]]></title>
-        <id>https://github.com/ThatXliner/rust-but-lisp</id>
-        <link href="https://github.com/ThatXliner/rust-but-lisp"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[London's BT Tower to get rooftop swimming pool]]></title>
-        <id>https://www.theregister.com/offbeat/2026/05/09/londons-bt-tower-to-get-rooftop-swimming-pool/5237337</id>
-        <link href="https://www.theregister.com/offbeat/2026/05/09/londons-bt-tower-to-get-rooftop-swimming-pool/5237337"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog Post Tells the Time]]></title>
-        <id>https://alexsci.com/blog/this-blog-post-tells-the-time/</id>
-        <link href="https://alexsci.com/blog/this-blog-post-tells-the-time/"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Free OSS transcription app I made and found it's faster than wispr flow]]></title>
-        <id>https://mumbli.app/</id>
-        <link href="https://mumbli.app/"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Server on a Nintendo Wii]]></title>
-        <id>http://wii.sjmulder.nl/</id>
-        <link href="http://wii.sjmulder.nl/"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lies, damned lies, and Elastic's benchmarks]]></title>
-        <id>https://www.gouthamve.dev/lies-damned-lies-and-elastics-benchmarks/</id>
-        <link href="https://www.gouthamve.dev/lies-damned-lies-and-elastics-benchmarks/"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does it scale? Who cares (2011)]]></title>
-        <id>https://jacquesmattheij.com/does-it-scale-who-cares/</id>
-        <link href="https://jacquesmattheij.com/does-it-scale-who-cares/"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schliemann found Troy by destroying it]]></title>
-        <id>https://storica.club/blog/troy-was-real/</id>
-        <link href="https://storica.club/blog/troy-was-real/"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ToolOps: One Decorator Away from Production-Ready AI Agents]]></title>
-        <id>https://github.com/hedimanai-pro/toolops</id>
-        <link href="https://github.com/hedimanai-pro/toolops"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Countries where you can leave your MacBook at a random coffee shop]]></title>
-        <id>https://vouchatlas.com</id>
-        <link href="https://vouchatlas.com"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Before Open Source took over the server, what was the discourse like?]]></title>
-        <id>https://news.ycombinator.com/item?id=48079444</id>
-        <link href="https://news.ycombinator.com/item?id=48079444"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Las Vegas Sphere Looked Like a Disaster. It's Become a Huge Hit Instead.]]></title>
-        <id>https://www.wsj.com/business/media/sphere-vegas-dolan-disaster-hit-fa0e6b17</id>
-        <link href="https://www.wsj.com/business/media/sphere-vegas-dolan-disaster-hit-fa0e6b17"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canvas Breach Disrupts Schools and Colleges Nationwide]]></title>
-        <id>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</id>
-        <link href="https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kit that converts film to digital]]></title>
-        <id>https://www.digitalcameraworld.com/cameras/film-cameras/the-trending-kit-that-converts-film-to-digital-finally-shoots-more-like-a-film-camera-as-im-back-roll-approaches-us-usd1-million-mark</id>
-        <link href="https://www.digitalcameraworld.com/cameras/film-cameras/the-trending-kit-that-converts-film-to-digital-finally-shoots-more-like-a-film-camera-as-im-back-roll-approaches-us-usd1-million-mark"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Building a web server in assembly to give my life (a lack of) meaning]]></title>
-        <id>https://github.com/imtomt/ymawky</id>
-        <link href="https://github.com/imtomt/ymawky"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOS, Floppies, NetBSD and Nostalgia]]></title>
-        <id>https://exquisite.tube/w/dkV6kWiT9sp2y6xVwkH1iF</id>
-        <link href="https://exquisite.tube/w/dkV6kWiT9sp2y6xVwkH1iF"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powering the Inference Era: Inside the DigitalOcean AI-Native Cloud]]></title>
-        <id>https://www.digitalocean.com/blog/powering-the-inference-era</id>
-        <link href="https://www.digitalocean.com/blog/powering-the-inference-era"/>
+        <title type="html"><![CDATA[Grinder12: 0.96-Bit Lossless Streaming KV-Cache (16.55x VRAM Savings]]></title>
+        <id>https://github.com/ggml-org/llama.cpp/discussions/22891</id>
+        <link href="https://github.com/ggml-org/llama.cpp/discussions/22891"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
@@ -253,9 +106,226 @@
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grinder12: 0.96-Bit Lossless Streaming KV-Cache (16.55x VRAM Savings]]></title>
-        <id>https://github.com/ggml-org/llama.cpp/discussions/22891</id>
-        <link href="https://github.com/ggml-org/llama.cpp/discussions/22891"/>
+        <title type="html"><![CDATA[Powering the Inference Era: Inside the DigitalOcean AI-Native Cloud]]></title>
+        <id>https://www.digitalocean.com/blog/powering-the-inference-era</id>
+        <link href="https://www.digitalocean.com/blog/powering-the-inference-era"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOS, Floppies, NetBSD and Nostalgia]]></title>
+        <id>https://exquisite.tube/w/dkV6kWiT9sp2y6xVwkH1iF</id>
+        <link href="https://exquisite.tube/w/dkV6kWiT9sp2y6xVwkH1iF"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Building a web server in assembly to give my life (a lack of) meaning]]></title>
+        <id>https://github.com/imtomt/ymawky</id>
+        <link href="https://github.com/imtomt/ymawky"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kit that converts film to digital]]></title>
+        <id>https://www.digitalcameraworld.com/cameras/film-cameras/the-trending-kit-that-converts-film-to-digital-finally-shoots-more-like-a-film-camera-as-im-back-roll-approaches-us-usd1-million-mark</id>
+        <link href="https://www.digitalcameraworld.com/cameras/film-cameras/the-trending-kit-that-converts-film-to-digital-finally-shoots-more-like-a-film-camera-as-im-back-roll-approaches-us-usd1-million-mark"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canvas Breach Disrupts Schools and Colleges Nationwide]]></title>
+        <id>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</id>
+        <link href="https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Las Vegas Sphere Looked Like a Disaster. It's Become a Huge Hit Instead.]]></title>
+        <id>https://www.wsj.com/business/media/sphere-vegas-dolan-disaster-hit-fa0e6b17</id>
+        <link href="https://www.wsj.com/business/media/sphere-vegas-dolan-disaster-hit-fa0e6b17"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Before Open Source took over the server, what was the discourse like?]]></title>
+        <id>https://news.ycombinator.com/item?id=48079444</id>
+        <link href="https://news.ycombinator.com/item?id=48079444"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Countries where you can leave your MacBook at a random coffee shop]]></title>
+        <id>https://vouchatlas.com</id>
+        <link href="https://vouchatlas.com"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ToolOps: One Decorator Away from Production-Ready AI Agents]]></title>
+        <id>https://github.com/hedimanai-pro/toolops</id>
+        <link href="https://github.com/hedimanai-pro/toolops"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schliemann found Troy by destroying it]]></title>
+        <id>https://storica.club/blog/troy-was-real/</id>
+        <link href="https://storica.club/blog/troy-was-real/"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does it scale? Who cares (2011)]]></title>
+        <id>https://jacquesmattheij.com/does-it-scale-who-cares/</id>
+        <link href="https://jacquesmattheij.com/does-it-scale-who-cares/"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lies, damned lies, and Elastic's benchmarks]]></title>
+        <id>https://www.gouthamve.dev/lies-damned-lies-and-elastics-benchmarks/</id>
+        <link href="https://www.gouthamve.dev/lies-damned-lies-and-elastics-benchmarks/"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Server on a Nintendo Wii]]></title>
+        <id>http://wii.sjmulder.nl/</id>
+        <link href="http://wii.sjmulder.nl/"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Free OSS transcription app I made and found it's faster than wispr flow]]></title>
+        <id>https://mumbli.app/</id>
+        <link href="https://mumbli.app/"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog Post Tells the Time]]></title>
+        <id>https://alexsci.com/blog/this-blog-post-tells-the-time/</id>
+        <link href="https://alexsci.com/blog/this-blog-post-tells-the-time/"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[London's BT Tower to get rooftop swimming pool]]></title>
+        <id>https://www.theregister.com/offbeat/2026/05/09/londons-bt-tower-to-get-rooftop-swimming-pool/5237337</id>
+        <link href="https://www.theregister.com/offbeat/2026/05/09/londons-bt-tower-to-get-rooftop-swimming-pool/5237337"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust but Lisp]]></title>
+        <id>https://github.com/ThatXliner/rust-but-lisp</id>
+        <link href="https://github.com/ThatXliner/rust-but-lisp"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Death of the Roadmap]]></title>
+        <id>https://debarshibasak.github.io/readables/blogs/death-of-roadmap.html</id>
+        <link href="https://debarshibasak.github.io/readables/blogs/death-of-roadmap.html"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did the Soviets Collude in the 1953 Candidates Tournament?]]></title>
+        <id>https://lichess.org/@/RuyLopez1000/blog/did-the-soviets-collude-in-the-1953-candidates-tournament/PFaoJIPI</id>
+        <link href="https://lichess.org/@/RuyLopez1000/blog/did-the-soviets-collude-in-the-1953-candidates-tournament/PFaoJIPI"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 is getting faster the lazy way]]></title>
+        <id>https://www.neowin.net/opinions/windows-11-is-getting-faster-the-lazy-way/</id>
+        <link href="https://www.neowin.net/opinions/windows-11-is-getting-faster-the-lazy-way/"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some gene therapies no longer require clinical trials, thanks to new FDA rule]]></title>
+        <id>https://www.livescience.com/health/some-gene-therapies-no-longer-require-clinical-trials-thanks-to-new-fda-rule-is-this-safe-and-who-will-it-help</id>
+        <link href="https://www.livescience.com/health/some-gene-therapies-no-longer-require-clinical-trials-thanks-to-new-fda-rule-is-this-safe-and-who-will-it-help"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepInfra raises $107M Series B]]></title>
+        <id>https://deepinfra.com/blog/deepinfra-series-b</id>
+        <link href="https://deepinfra.com/blog/deepinfra-series-b"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visit a Mosque in video game format and learn things about Islam]]></title>
+        <id>https://islamicsystems.itch.io/the-mosque-visit</id>
+        <link href="https://islamicsystems.itch.io/the-mosque-visit"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysis points to a unexpected cause of reading difficulties]]></title>
+        <id>https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html</id>
+        <link href="https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rex is a secure script execution engine that uses Cedar policies]]></title>
+        <id>https://github.com/trusted-remote-execution/trusted-remote-execution</id>
+        <link href="https://github.com/trusted-remote-execution/trusted-remote-execution"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palette Masters: 46 Zed themes derived from master painter color palettes]]></title>
+        <id>https://github.com/regnull/palette-masters-zed</id>
+        <link href="https://github.com/regnull/palette-masters-zed"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[History and Science of the Hanta Virus]]></title>
+        <id>https://distressedscientists.substack.com/p/hantan-hondius</id>
+        <link href="https://distressedscientists.substack.com/p/hantan-hondius"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tsz: TypeScript checker and LSP written in Rust, designed to outperform tsgo]]></title>
+        <id>https://github.com/mohsen1/tsz</id>
+        <link href="https://github.com/mohsen1/tsz"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miniature Armoured Train Fought Hitler's Luftwaffe [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Td3oD3cCXZ4</id>
+        <link href="https://www.youtube.com/watch?v=Td3oD3cCXZ4"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local Models Are Not Frontier. They Are Enough]]></title>
+        <id>https://quodeq.ai/blog/local-models-not-frontier/</id>
+        <link href="https://quodeq.ai/blog/local-models-not-frontier/"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do I make painful lyrics feel less generic?]]></title>
+        <id>https://suno.com/@zeroxdesignartzero</id>
+        <link href="https://suno.com/@zeroxdesignartzero"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <published>2026-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chewing gum releases microplastics into your saliva, UCLA research shows]]></title>
+        <id>https://newsroom.ucla.edu/releases/bursting-your-bubble-chewing-gum-releases-microplastics-into-your-saliva-ucla-research-shows</id>
+        <link href="https://newsroom.ucla.edu/releases/bursting-your-bubble-chewing-gum-releases-microplastics-into-your-saliva-ucla-research-shows"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
@@ -281,86 +351,16 @@
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A small Vite plugin for moving heavy JSX attributes into comments]]></title>
-        <id>https://dev.to/vo9312/a-small-vite-plugin-for-moving-heavy-jsx-attributes-into-comments-21dn</id>
-        <link href="https://dev.to/vo9312/a-small-vite-plugin-for-moving-heavy-jsx-attributes-into-comments-21dn"/>
+        <title type="html"><![CDATA[Why Bun's Rust Rewrite is Already Rewriting the Dev Landscape in 2026]]></title>
+        <id>https://dev.to/miral_dhodi_38e9644df1762/why-buns-rust-rewrite-is-already-rewriting-the-dev-landscape-in-2026-3chn</id>
+        <link href="https://dev.to/miral_dhodi_38e9644df1762/why-buns-rust-rewrite-is-already-rewriting-the-dev-landscape-in-2026-3chn"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I Stopped Using Random Online JSON Formatters (And Why You Should Too)]]></title>
-        <id>https://dev.to/rahulthummar/why-i-stopped-using-random-online-json-formatters-and-why-you-should-too-bea</id>
-        <link href="https://dev.to/rahulthummar/why-i-stopped-using-random-online-json-formatters-and-why-you-should-too-bea"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State management in React: when Redux, Zustand, and Context API actually fit]]></title>
-        <id>https://dev.to/aoligama/state-management-in-react-when-redux-zustand-and-context-api-actually-fit-43bp</id>
-        <link href="https://dev.to/aoligama/state-management-in-react-when-redux-zustand-and-context-api-actually-fit-43bp"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A GPU-Accelerated PDF Dark Mode Converter, That Runs Entirely in Your Browser]]></title>
-        <id>https://dev.to/bratukadotdev/a-gpu-accelerated-pdf-dark-mode-converter-that-runs-entirely-in-your-browser-4610</id>
-        <link href="https://dev.to/bratukadotdev/a-gpu-accelerated-pdf-dark-mode-converter-that-runs-entirely-in-your-browser-4610"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite Cold Start White Screen? A Plugin Shows Resource Loading on Page]]></title>
-        <id>https://dev.to/devzuo/vite-cold-start-white-screen-a-plugin-shows-resource-loading-on-page-4gj7</id>
-        <link href="https://dev.to/devzuo/vite-cold-start-white-screen-a-plugin-shows-resource-loading-on-page-4gj7"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the `this` Keyword in JavaScript]]></title>
-        <id>https://dev.to/pratham69/understanding-the-this-keyword-in-javascript-f76</id>
-        <link href="https://dev.to/pratham69/understanding-the-this-keyword-in-javascript-f76"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The release checks I want before I trust a JavaScript repo in 2026]]></title>
-        <id>https://dev.to/tatelyman/the-release-checks-i-want-before-i-trust-a-javascript-repo-in-2026-4jgl</id>
-        <link href="https://dev.to/tatelyman/the-release-checks-i-want-before-i-trust-a-javascript-repo-in-2026-4jgl"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Modules: Import and Export Explained]]></title>
-        <id>https://dev.to/pratham69/javascript-modules-import-and-export-explained-116j</id>
-        <link href="https://dev.to/pratham69/javascript-modules-import-and-export-explained-116j"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 React + Vite + Tailwind CSS + Shadcn UI Setup (vanillaJS)]]></title>
-        <id>https://dev.to/nabinkdl/react-vite-tailwind-css-shadcn-ui-setup-js-version-3c7i</id>
-        <link href="https://dev.to/nabinkdl/react-vite-tailwind-css-shadcn-ui-setup-js-version-3c7i"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Objects in JavaScript]]></title>
-        <id>https://dev.to/pratham69/understanding-objects-in-javascript-4d0c</id>
-        <link href="https://dev.to/pratham69/understanding-objects-in-javascript-4d0c"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Arrays 101]]></title>
-        <id>https://dev.to/pratham69/javascript-arrays-101-3hd1</id>
-        <link href="https://dev.to/pratham69/javascript-arrays-101-3hd1"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <published>2026-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding JavaScript Classes Objects and the ‘new’ Keyword: A Beginner’s Guide]]></title>
-        <id>https://dev.to/nabinkdl/understanding-javascript-classes-objects-and-the-new-keyword-a-beginners-guide-1b04</id>
-        <link href="https://dev.to/nabinkdl/understanding-javascript-classes-objects-and-the-new-keyword-a-beginners-guide-1b04"/>
+        <title type="html"><![CDATA[8 Web Worker Techniques That Stop JavaScript From Freezing Your Browser]]></title>
+        <id>https://dev.to/nithinbharathwaj/8-web-worker-techniques-that-stop-javascript-from-freezing-your-browser-413d</id>
+        <link href="https://dev.to/nithinbharathwaj/8-web-worker-techniques-that-stop-javascript-from-freezing-your-browser-413d"/>
         <updated>2026-05-09T16:00:00.000Z</updated>
         <published>2026-05-09T16:00:00.000Z</published>
     </entry>
