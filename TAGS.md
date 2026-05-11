@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-11 10:01:31。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-11 12:03:09。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -90,14 +90,14 @@ https://github.com/svar-widgets/vue-gantt
 - [【GitHub Trending JS】-New-Vue-UI-components-from-SVAR:-30+-controls,-edit-forms,-and-filtering-widgets-](
 https://svar.dev/blog/svar-vue-components-released/
 )
+- [【arXiv ML】Self-Play-Enhancement-via-Advantage-Weighted-Refinement-in-Online-Federated-LLM-Fine-Tuning-with-Real-Time-Feedback](https://arxiv.org/abs/2605.07977)
 - [【arXiv ML】Revisiting-Uncertainty:-On-Evidential-Learning-for-Partially-Relevant-Video-Retrieval](https://arxiv.org/abs/2605.06083)
-- [【arXiv ML】Deployment-Relevant-Alignment-Cannot-Be-Inferred-from-Model-Level-Evaluation-Alone](https://arxiv.org/abs/2605.04454)
 - [【arXiv ML】Free-Energy-Driven-Reinforcement-Learning-with-Adaptive-Advantage-Shaping-for-Unsupervised-Reasoning-in-LLMs](https://arxiv.org/abs/2605.04065)
+- [【arXiv ML】Deployment-Relevant-Alignment-Cannot-Be-Inferred-from-Model-Level-Evaluation-Alone](https://arxiv.org/abs/2605.04454)
 - [【arXiv ML】MAGIC:-Multi-Step-Advantage-Gated-Causal-Influence-for-Multi-agent-Reinforcement-Learning](https://arxiv.org/abs/2605.01805)
 - [【arXiv ML】Kernelized-Advantage-Estimation:-From-Nonparametric-Statistics-to-LLM-Reasoning](https://arxiv.org/abs/2604.28005)
-- [【arXiv ML】Leveraging-Human-Feedback-for-Semantically-Relevant-Skill-Discovery](https://arxiv.org/abs/2604.24127)
 - [【arXiv ML】Stabilizing-Efficient-Reasoning-with-Step-Level-Advantage-Selection](https://arxiv.org/abs/2604.24003)
-- [【arXiv ML】Demonstrating-Real-Advantage-of-Machine-Learning-Enhanced-Monte-Carlo-for-Combinatorial-Optimization](https://arxiv.org/abs/2510.19544)
+- [【arXiv ML】Leveraging-Human-Feedback-for-Semantically-Relevant-Skill-Discovery](https://arxiv.org/abs/2604.24127)
 - [......【查看更多】......](/details/tags/vue.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -373,7 +373,7 @@ https://svar.dev/blog/svar-vue-components-released/
 - [【GitHub Trending JS】-Fax-Office-1987-8-film-cameras-simulated-in-a-single-HTML-file-](
 https://faxoffice1987.com
 )
-- [【arXiv ML】Attributions-All-the-Way-Down?-The-Metagame-of-Interpretability](https://arxiv.org/abs/2605.06295)
+- [【arXiv ML】On-the-Meta-Design-of-Allocation-Problems](https://arxiv.org/abs/2602.08786)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -443,9 +443,9 @@ https://faxoffice1987.com
 - [【GitHub Trending JS】advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)
 - [【美团技术团队】LARYBench-发布：定义具身动作表征-ImageNet，首次度量从人类视频学习的泛化表征](https://tech.meituan.com/2026/04/27/longcat-larybench.html)
 - [【美团技术团队】突破零样本-TTS-音色克隆上限：LongCat-AudioDiT-的声音克隆艺术](https://tech.meituan.com/2026/04/20/longcat-audiodit.html)
+- [【arXiv ML】VDCook:DIY-video-data-cook-your-MLLMs](https://arxiv.org/abs/2603.05539)
+- [【arXiv ML】LookWhen?-Fast-Video-Recognition-by-Learning-When,-Where,-and-What-to-Compute](https://arxiv.org/abs/2605.06809)
 - [【arXiv ML】PairAlign:-A-Framework-for-Sequence-Tokenization-via-Self-Alignment-with-Applications-to-Audio-Tokenization](https://arxiv.org/abs/2605.06582)
-- [【arXiv ML】Privacy-Preserving-Empathy-Detection-in-Video-Interactions](https://arxiv.org/abs/2504.10808)
-- [【arXiv ML】Sparse-Tokens-Suffice:-Jailbreaking-Audio-Language-Models-via-Token-Aware-Gradient-Optimization](https://arxiv.org/abs/2605.04700)
 - [......【查看更多】......](/details/tags/audio-video.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

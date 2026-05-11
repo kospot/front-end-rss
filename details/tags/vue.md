@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-11 10:01:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-11 12:03:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -23,19 +23,20 @@ https://github.com/svar-widgets/vue-gantt
 - [2026-04-14--New-Vue-UI-components-from-SVAR:-30+-controls,-edit-forms,-and-filtering-widgets-](
 https://svar.dev/blog/svar-vue-components-released/
 ) 
+- [2026-05-11-Self-Play-Enhancement-via-Advantage-Weighted-Refinement-in-Online-Federated-LLM-Fine-Tuning-with-Real-Time-Feedback](https://arxiv.org/abs/2605.07977) 
 - [2026-05-08-Revisiting-Uncertainty:-On-Evidential-Learning-for-Partially-Relevant-Video-Retrieval](https://arxiv.org/abs/2605.06083) 
-- [2026-05-07-Deployment-Relevant-Alignment-Cannot-Be-Inferred-from-Model-Level-Evaluation-Alone](https://arxiv.org/abs/2605.04454) 
 - [2026-05-07-Free-Energy-Driven-Reinforcement-Learning-with-Adaptive-Advantage-Shaping-for-Unsupervised-Reasoning-in-LLMs](https://arxiv.org/abs/2605.04065) 
+- [2026-05-07-Deployment-Relevant-Alignment-Cannot-Be-Inferred-from-Model-Level-Evaluation-Alone](https://arxiv.org/abs/2605.04454) 
 - [2026-05-05-MAGIC:-Multi-Step-Advantage-Gated-Causal-Influence-for-Multi-agent-Reinforcement-Learning](https://arxiv.org/abs/2605.01805) 
 - [2026-05-01-Kernelized-Advantage-Estimation:-From-Nonparametric-Statistics-to-LLM-Reasoning](https://arxiv.org/abs/2604.28005) 
-- [2026-04-28-Leveraging-Human-Feedback-for-Semantically-Relevant-Skill-Discovery](https://arxiv.org/abs/2604.24127) 
 - [2026-04-28-Stabilizing-Efficient-Reasoning-with-Step-Level-Advantage-Selection](https://arxiv.org/abs/2604.24003) 
+- [2026-04-28-Leveraging-Human-Feedback-for-Semantically-Relevant-Skill-Discovery](https://arxiv.org/abs/2604.24127) 
 - [2026-04-21-Demonstrating-Real-Advantage-of-Machine-Learning-Enhanced-Monte-Carlo-for-Combinatorial-Optimization](https://arxiv.org/abs/2510.19544) 
 - [2026-04-17-GFT:-From-Imitation-to-Reward-Fine-Tuning-with-Unbiased-Group-Advantages-and-Dynamic-Coefficient-Rectification](https://arxiv.org/abs/2604.14258) 
 - [2026-04-15-AAPO:-Enhancing-the-Reasoning-Capabilities-of-LLMs-with-Advantage-Margin](https://arxiv.org/abs/2505.14264) 
-- [2026-04-13-Skip-Connected-Policy-Optimization-for-Implicit-Advantage](https://arxiv.org/abs/2604.08690) 
-- [2026-04-13-Advantage-Guided-Diffusion-for-Model-Based-Reinforcement-Learning](https://arxiv.org/abs/2604.09035) 
 - [2026-04-13-Contribution-of-task-irrelevant-stimuli-to-drift-of-neural-representations](https://arxiv.org/abs/2510.21588) 
+- [2026-04-13-Advantage-Guided-Diffusion-for-Model-Based-Reinforcement-Learning](https://arxiv.org/abs/2604.09035) 
+- [2026-04-13-Skip-Connected-Policy-Optimization-for-Implicit-Advantage](https://arxiv.org/abs/2604.08690) 
 - [2026-05-06-How-frontier-enterprises-are-building-an-AI-advantage](https://openai.com/index/introducing-b2b-signals) 
 - [2026-05-07-China's-Unwinding-of-the-Manus-Deal-Highlights-a-Key-US-Advantage](https://thediplomat.com/2026/05/chinas-unwinding-of-the-manus-deal-highlights-a-key-us-advantage/) 
 - [2026-05-06-Clipps-personal-save-library-with-relevant-link-extraction-and-an-MCP-server](https://clippsapp.com/) 

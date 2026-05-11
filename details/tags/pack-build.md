@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-11 10:01:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-11 12:03:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -71,6 +71,7 @@
 - [2026-04-12-pnpm-vs-npm-vs-Yarn-2026:-Which-Package-Manager-Should-You-Use?](https://dev.to/jake_kim_bd3065a6816799db/pnpm-vs-npm-vs-yarn-2026-which-package-manager-should-you-use-3673) 
 - [2026-04-12-Vite-is-fast,-but-it's-still-wasting-your-time.-🚩](https://dev.to/khaledmsalem/vite-is-fast-but-its-still-wasting-your-time-4ae9) 
 - [2026-04-24-npm/cli](https://github.com/npm/cli) 
+- [2026-05-11-NPMixer:-Hierarchical-Neighboring-Patch-Mixing-for-Time-Series-Forecasting](https://arxiv.org/abs/2605.07476) 
 - [2026-05-09-I-Still-Like-Jenkins](https://til.andrew-quinn.me/posts/i-still-like-jenkins/) 
 - [2026-05-08-Stop-Using-Yarn-Classic](https://charpeni.com/blog/stop-using-yarn-classic) 
 - [2026-05-05-Show-HN:-I-Built-a-Polyfill-for-the-Browser's-New-Language-Detection-API](https://unforbiddenyet.substack.com/p/i-built-a-polyfill-for-the-browsers) 

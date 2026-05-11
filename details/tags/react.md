@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-11 10:01:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-11 12:03:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -217,15 +217,17 @@
 - [2026-04-12-Building-Hangman-in-React-—-SVG-Progressive-Drawing,-Word-Categories,-and-Physical-Keyboard-Events](https://dev.to/shaishav_patel_271fdcd61a/building-hangman-in-react-svg-progressive-drawing-word-categories-and-physical-keyboard-events-3e3n) 
 - [2026-04-17-DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) 
 - [2026-04-14-NASA-is-building-the-first-nuclear-reactor-powered-interplanetary-spacecraft.-How-will-it-work?](https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/) 
+- [2026-05-11-Minerva:-Reinforcement-Learning-with-Verifiable-Rewards-for-Cyber-Threat-Intelligence-LLMs](https://arxiv.org/abs/2602.00513) 
+- [2026-05-11-TraXion:-Rethinking-Pre-training-Frameworks-for-Mobility-and-Beyond](https://arxiv.org/abs/2605.06906) 
 - [2026-05-08-ReActor:-Reinforcement-Learning-for-Physics-Aware-Motion-Retargeting](https://arxiv.org/abs/2605.06593) 
-- [2026-05-07-Differentiable-Chemistry-in-PINNs-for-Solving-Parameterized-and-Stiff-Reaction-Systems](https://arxiv.org/abs/2605.04708) 
 - [2026-05-07-Model-synthesis-and-identifiability-analysis-of-stiff-chemical-reaction-systems-with-inVAErt-networks](https://arxiv.org/abs/2605.04134) 
+- [2026-05-07-Differentiable-Chemistry-in-PINNs-for-Solving-Parameterized-and-Stiff-Reaction-Systems](https://arxiv.org/abs/2605.04708) 
 - [2026-05-05-Selective-Correlation-Based-Knowledge-Distillation-for-Ground-Reaction-Force-Estimation](https://arxiv.org/abs/2605.00888) 
 - [2026-05-04-CompleteRXN:-Toward-Completing-Open-Chemical-Reaction-Databases](https://arxiv.org/abs/2605.00222) 
 - [2026-04-22-When-Active-Learning-Falls-Short:-An-Empirical-Study-on-Chemical-Reaction-Extraction](https://arxiv.org/abs/2604.19335) 
-- [2026-04-21-Applications-of-deep-generative-models-to-DNA-reaction-kinetics-and-to-cryogenic-electron-microscopy](https://arxiv.org/abs/2604.16851) 
-- [2026-04-21-Physics-Informed-Neural-Networks-for-Biological-$2\mathrm{D}{+}t$-Reaction-Diffusion-Systems](https://arxiv.org/abs/2604.18548) 
 - [2026-04-21-Modelling-Gas-Phase-Reaction-Kinetics-with-Guided-Particle-Diffusion-Sampling](https://arxiv.org/abs/2604.16461) 
+- [2026-04-21-Physics-Informed-Neural-Networks-for-Biological-$2\mathrm{D}{+}t$-Reaction-Diffusion-Systems](https://arxiv.org/abs/2604.18548) 
+- [2026-04-21-Applications-of-deep-generative-models-to-DNA-reaction-kinetics-and-to-cryogenic-electron-microscopy](https://arxiv.org/abs/2604.16851) 
 - [2026-05-04-Reduce-friction-and-latency-for-long-running-jobs-with-Webhooks-in-Gemini-API](https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/) 
 - [2026-05-05-The-Evolution-of-AI-Systems-—-From-Reactive-Chatbots-to-Autonomous-Agents](https://pub.towardsai.net/the-evolution-of-ai-systems-from-reactive-chatbots-to-autonomous-agents-6572ef9de312?source=rss----98111c9905da---4) 
 - [2026-04-29-The-4-Hooks-Every-Claude-Code-Project-Needs](https://pub.towardsai.net/the-4-hooks-every-claude-code-project-needs-665f8d610f8b?source=rss----98111c9905da---4) 
