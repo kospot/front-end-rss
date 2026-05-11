@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-11T07:02:44.248Z</updated>
+    <updated>2026-05-11T10:01:15.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Logitech’s tiny folding mouse improves upon the laptop trackpad]]></title>
+        <id>https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images</id>
+        <link href="https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Bastl Kalimba is a wild synth that thinks it’s a thumb piano]]></title>
         <id>https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano</id>
@@ -29,114 +36,44 @@
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Attitudes Towards Intelligence Matter in Universities]]></title>
-        <id>https://news.ycombinator.com/item?id=48091790</id>
-        <link href="https://news.ycombinator.com/item?id=48091790"/>
+        <title type="html"><![CDATA[Scorpi – a Docker-like VM development platform for macOS]]></title>
+        <id>https://fuse-t.org/scorpi/</id>
+        <link href="https://fuse-t.org/scorpi/"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Strong Views on PostgreSQL VIEWs]]></title>
-        <id>https://boringsql.com/posts/strong-views/</id>
-        <link href="https://boringsql.com/posts/strong-views/"/>
+        <title type="html"><![CDATA[I Do Not Recommend Fastmail]]></title>
+        <id>https://www.vincentschmalbach.com/why-i-do-not-recommend-fastmail-for-primary-email/</id>
+        <link href="https://www.vincentschmalbach.com/why-i-do-not-recommend-fastmail-for-primary-email/"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mythos Finds a Curl Vulnerability]]></title>
-        <id>https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/</id>
-        <link href="https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/"/>
+        <title type="html"><![CDATA[A game based on scrolling and zooming]]></title>
+        <id>https://www.vaskange.world/</id>
+        <link href="https://www.vaskange.world/"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Biblio, a 3D bookshelf app, organise your ePub files, PDFs, or physical book]]></title>
-        <id>https://biblio.ink/</id>
-        <link href="https://biblio.ink/"/>
+        <title type="html"><![CDATA[Chaos erupts as cyberattack disrupts learning platform Canvas amid finals]]></title>
+        <id>https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/</id>
+        <link href="https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Resilience Engineering Papers]]></title>
-        <id>https://github.com/lorin/resilience-engineering</id>
-        <link href="https://github.com/lorin/resilience-engineering"/>
+        <title type="html"><![CDATA[Lython: Experimental Python compiler toolchain based on LLVM]]></title>
+        <id>https://github.com/t3tra-dev/lython</id>
+        <link href="https://github.com/t3tra-dev/lython"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Garry Tan's GBrain – most important idea of the year]]></title>
-        <id>https://twitter.com/garrytan/status/2053127519872614419</id>
-        <link href="https://twitter.com/garrytan/status/2053127519872614419"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report shows banned non-fiction books doubled over last school year in US]]></title>
-        <id>https://www.theguardian.com/books/2026/may/07/banned-non-fiction-books-doubles</id>
-        <link href="https://www.theguardian.com/books/2026/may/07/banned-non-fiction-books-doubles"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Need AI That Reduces Maintenance Costs]]></title>
-        <id>https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs</id>
-        <link href="https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?]]></title>
-        <id>https://dunkels.com/adam/claude-user-space-ip-stack-ping/</id>
-        <link href="https://dunkels.com/adam/claude-user-space-ip-stack-ping/"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReactOS ARM64-port finally boots to desktop and even works]]></title>
-        <id>https://www.youtube.com/watch?v=c1LjnFKGDhQ</id>
-        <link href="https://www.youtube.com/watch?v=c1LjnFKGDhQ"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan's New Care Workers: Bodybuilders, Wrestlers and MMA Fighters]]></title>
-        <id>https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html</id>
-        <link href="https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Budi – local-first AI coding cost tracker (Rust, tails local logs, no proxy)]]></title>
-        <id>https://getbudi.dev/</id>
-        <link href="https://getbudi.dev/"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[West Bank settlers forced a Palestinian to dig up the body of his father]]></title>
-        <id>https://www.bbc.com/news/articles/cjrpnjpl39po</id>
-        <link href="https://www.bbc.com/news/articles/cjrpnjpl39po"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stateless settlement-gated HTTP APIs using UTXO replay protection]]></title>
-        <id>https://github.com/ruidasilva/merkleworks-x402-spec</id>
-        <link href="https://github.com/ruidasilva/merkleworks-x402-spec"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Cannot be explained" – New ultra stainless steel stuns researchers]]></title>
-        <id>https://www.sciencedaily.com/releases/2026/05/260510030950.htm</id>
-        <link href="https://www.sciencedaily.com/releases/2026/05/260510030950.htm"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freenode IRC Mathematics Seminars (2010)]]></title>
-        <id>https://freenode-math.fandom.com/wiki/Seminars</id>
-        <link href="https://freenode-math.fandom.com/wiki/Seminars"/>
+        <title type="html"><![CDATA[Johnny Castaway Screensaver 1992 for macOS Tahoe. Runs as a Screensaver]]></title>
+        <id>https://github.com/tallPete/JohnnyCastaway</id>
+        <link href="https://github.com/tallPete/JohnnyCastaway"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
@@ -148,9 +85,114 @@
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Johnny Castaway Screensaver 1992 for macOS Tahoe. Runs as a Screensaver]]></title>
-        <id>https://github.com/tallPete/JohnnyCastaway</id>
-        <link href="https://github.com/tallPete/JohnnyCastaway"/>
+        <title type="html"><![CDATA[Freenode IRC Mathematics Seminars (2010)]]></title>
+        <id>https://freenode-math.fandom.com/wiki/Seminars</id>
+        <link href="https://freenode-math.fandom.com/wiki/Seminars"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Cannot be explained" – New ultra stainless steel stuns researchers]]></title>
+        <id>https://www.sciencedaily.com/releases/2026/05/260510030950.htm</id>
+        <link href="https://www.sciencedaily.com/releases/2026/05/260510030950.htm"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stateless settlement-gated HTTP APIs using UTXO replay protection]]></title>
+        <id>https://github.com/ruidasilva/merkleworks-x402-spec</id>
+        <link href="https://github.com/ruidasilva/merkleworks-x402-spec"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[West Bank settlers forced a Palestinian to dig up the body of his father]]></title>
+        <id>https://www.bbc.com/news/articles/cjrpnjpl39po</id>
+        <link href="https://www.bbc.com/news/articles/cjrpnjpl39po"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Budi – local-first AI coding cost tracker (Rust, tails local logs, no proxy)]]></title>
+        <id>https://getbudi.dev/</id>
+        <link href="https://getbudi.dev/"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan's New Care Workers: Bodybuilders, Wrestlers and MMA Fighters]]></title>
+        <id>https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html</id>
+        <link href="https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReactOS ARM64-port finally boots to desktop and even works]]></title>
+        <id>https://www.youtube.com/watch?v=c1LjnFKGDhQ</id>
+        <link href="https://www.youtube.com/watch?v=c1LjnFKGDhQ"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?]]></title>
+        <id>https://dunkels.com/adam/claude-user-space-ip-stack-ping/</id>
+        <link href="https://dunkels.com/adam/claude-user-space-ip-stack-ping/"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Need AI That Reduces Maintenance Costs]]></title>
+        <id>https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs</id>
+        <link href="https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report shows banned non-fiction books doubled over last school year in US]]></title>
+        <id>https://www.theguardian.com/books/2026/may/07/banned-non-fiction-books-doubles</id>
+        <link href="https://www.theguardian.com/books/2026/may/07/banned-non-fiction-books-doubles"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garry Tan's GBrain – most important idea of the year]]></title>
+        <id>https://twitter.com/garrytan/status/2053127519872614419</id>
+        <link href="https://twitter.com/garrytan/status/2053127519872614419"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resilience Engineering Papers]]></title>
+        <id>https://github.com/lorin/resilience-engineering</id>
+        <link href="https://github.com/lorin/resilience-engineering"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biblio, a 3D bookshelf app, organise your ePub files, PDFs, or physical book]]></title>
+        <id>https://biblio.ink/</id>
+        <link href="https://biblio.ink/"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mythos Finds a Curl Vulnerability]]></title>
+        <id>https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/</id>
+        <link href="https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strong Views on PostgreSQL VIEWs]]></title>
+        <id>https://boringsql.com/posts/strong-views/</id>
+        <link href="https://boringsql.com/posts/strong-views/"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Attitudes Towards Intelligence Matter in Universities]]></title>
+        <id>https://news.ycombinator.com/item?id=48091790</id>
+        <link href="https://news.ycombinator.com/item?id=48091790"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[Christoffel-DPS: Optimal sensor placement in diffusion posterior sampling for arbitrary distributions]]></title>
         <id>https://arxiv.org/abs/2605.06861</id>
         <link href="https://arxiv.org/abs/2605.06861"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Objective Multi-Agent Bandits: From Learning Efficiency to Fairness Optimization]]></title>
-        <id>https://arxiv.org/abs/2605.06864</id>
-        <link href="https://arxiv.org/abs/2605.06864"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dataset Watermarking for Closed LLMs with Provable Detection]]></title>
-        <id>https://arxiv.org/abs/2605.06865</id>
-        <link href="https://arxiv.org/abs/2605.06865"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Finite-Iteration Theory for Asynchronous Categorical Distributional Temporal-Difference Learning]]></title>
-        <id>https://arxiv.org/abs/2605.06866</id>
-        <link href="https://arxiv.org/abs/2605.06866"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streaming Adversarial Robustness in Fuzzy ARTMAP: Mechanism-Aligned Evaluation, Progressive Training, and Interpretable Diagnostics]]></title>
-        <id>https://arxiv.org/abs/2605.06902</id>
-        <link href="https://arxiv.org/abs/2605.06902"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TraXion: Rethinking Pre-training Frameworks for Mobility and Beyond]]></title>
-        <id>https://arxiv.org/abs/2605.06906</id>
-        <link href="https://arxiv.org/abs/2605.06906"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dual-Scale Temporal Fusion Reveals Structured Predictability in Subseasonal-to-Seasonal Temperature Prediction]]></title>
-        <id>https://arxiv.org/abs/2605.06911</id>
-        <link href="https://arxiv.org/abs/2605.06911"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
