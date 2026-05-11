@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-11T10:01:15.447Z</updated>
+    <updated>2026-05-11T13:04:03.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Logitech’s tiny folding mouse improves upon the laptop trackpad]]></title>
-        <id>https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images</id>
-        <link href="https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images"/>
+        <title type="html"><![CDATA[Windows 11 is getting a macOS-like speed boost]]></title>
+        <id>https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost</id>
+        <link href="https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
@@ -25,6 +25,34 @@
         <title type="html"><![CDATA[The Bastl Kalimba is a wild synth that thinks it’s a thumb piano]]></title>
         <id>https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano</id>
         <link href="https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech’s tiny folding mouse improves upon the laptop trackpad]]></title>
+        <id>https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images</id>
+        <link href="https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Papa Johns Is Getting Into Drone Delivery—but Not for Pizza]]></title>
+        <id>https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza/</id>
+        <link href="https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza/"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost]]></title>
+        <id>https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/</id>
+        <link href="https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venmo’s biggest makeover in years comes at a very interesting time]]></title>
+        <id>https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/</id>
+        <link href="https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
@@ -204,9 +232,16 @@
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RNNs Cannot Think What Transformers Think Cheaply. ICLR 2026 Proved the Gap Is Exponential.]]></title>
-        <id>https://pub.towardsai.net/rnns-cannot-think-what-transformers-think-cheaply-iclr-2026-proved-the-gap-is-exponential-abb2ee25996f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/rnns-cannot-think-what-transformers-think-cheaply-iclr-2026-proved-the-gap-is-exponential-abb2ee25996f?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[CNN Architecture Evolution: ResNet → EfficientNet → ConvNeXt — What Actually Changed?]]></title>
+        <id>https://pub.towardsai.net/cnn-architecture-evolution-resnet-efficientnet-convnext-what-actually-changed-f38fc3f7e831?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/cnn-architecture-evolution-resnet-efficientnet-convnext-what-actually-changed-f38fc3f7e831?source=rss----98111c9905da---4"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tested StepAudio 2.5 TTS on 18 Lines — The Shanghai Startup Just Embarrassed ElevenLabs at #3]]></title>
+        <id>https://pub.towardsai.net/i-tested-stepaudio-2-5-tts-on-18-lines-the-shanghai-startup-just-embarrassed-elevenlabs-at-3-a01b3e87f489?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tested-stepaudio-2-5-tts-on-18-lines-the-shanghai-startup-just-embarrassed-elevenlabs-at-3-a01b3e87f489?source=rss----98111c9905da---4"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
@@ -218,9 +253,9 @@
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tested StepAudio 2.5 TTS on 18 Lines — The Shanghai Startup Just Embarrassed ElevenLabs at #3]]></title>
-        <id>https://pub.towardsai.net/i-tested-stepaudio-2-5-tts-on-18-lines-the-shanghai-startup-just-embarrassed-elevenlabs-at-3-a01b3e87f489?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-tested-stepaudio-2-5-tts-on-18-lines-the-shanghai-startup-just-embarrassed-elevenlabs-at-3-a01b3e87f489?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[RNNs Cannot Think What Transformers Think Cheaply. ICLR 2026 Proved the Gap Is Exponential.]]></title>
+        <id>https://pub.towardsai.net/rnns-cannot-think-what-transformers-think-cheaply-iclr-2026-proved-the-gap-is-exponential-abb2ee25996f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/rnns-cannot-think-what-transformers-think-cheaply-iclr-2026-proved-the-gap-is-exponential-abb2ee25996f?source=rss----98111c9905da---4"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
@@ -326,41 +361,6 @@
         <title type="html"><![CDATA[A Unified Measure-Theoretic View of Diffusion, Score-Based, and Flow Matching Generative Models]]></title>
         <id>https://arxiv.org/abs/2605.06829</id>
         <link href="https://arxiv.org/abs/2605.06829"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ProtSent: Protein Sentence Transformers]]></title>
-        <id>https://arxiv.org/abs/2605.06830</id>
-        <link href="https://arxiv.org/abs/2605.06830"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attribution-Based Neuron Utility for Plasticity Restoration in Deep Networks]]></title>
-        <id>https://arxiv.org/abs/2605.06834</id>
-        <link href="https://arxiv.org/abs/2605.06834"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Privacy Leakage in Tabular Diffusion Models: Influential Factors, Attacker Knowledge, and Metrics]]></title>
-        <id>https://arxiv.org/abs/2605.06835</id>
-        <link href="https://arxiv.org/abs/2605.06835"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Compress KV Cache in RL Post-Training? Shadow Mask Distillation for Memory-Efficient Alignment]]></title>
-        <id>https://arxiv.org/abs/2605.06850</id>
-        <link href="https://arxiv.org/abs/2605.06850"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christoffel-DPS: Optimal sensor placement in diffusion posterior sampling for arbitrary distributions]]></title>
-        <id>https://arxiv.org/abs/2605.06861</id>
-        <link href="https://arxiv.org/abs/2605.06861"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
