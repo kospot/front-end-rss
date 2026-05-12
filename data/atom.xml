@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-11T22:01:09.157Z</updated>
+    <updated>2026-05-12T00:02:24.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Palantir&#8217;s true believers are wearing this jacket]]></title>
-        <id>https://www.theverge.com/report/928026/palantir-chore-coat</id>
-        <link href="https://www.theverge.com/report/928026/palantir-chore-coat"/>
+        <title type="html"><![CDATA[A million baby monitors and security cameras were easily viewable by hackers]]></title>
+        <id>https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera</id>
+        <link href="https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A million baby monitors and security cameras were easily viewable by hackers]]></title>
-        <id>https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera</id>
-        <link href="https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera"/>
+        <title type="html"><![CDATA[Palantir&#8217;s true believers are wearing this jacket]]></title>
+        <id>https://www.theverge.com/report/928026/palantir-chore-coat</id>
+        <link href="https://www.theverge.com/report/928026/palantir-chore-coat"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
@@ -36,9 +36,9 @@
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation]]></title>
-        <id>https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/</id>
-        <link href="https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/"/>
+        <title type="html"><![CDATA[GM just laid off hundreds of IT workers to hire those with stronger AI skills]]></title>
+        <id>https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/</id>
+        <link href="https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[Digg tries again, this time as an AI news aggregator]]></title>
         <id>https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/</id>
         <link href="https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/"/>
+        <updated>2026-05-11T16:00:00.000Z</updated>
+        <published>2026-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation]]></title>
+        <id>https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/</id>
+        <link href="https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
@@ -85,9 +92,9 @@
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Google I/O 2026 Is Different This Time — Agentic AI, Unified OS, and the World’s Most…]]></title>
-        <id>https://pub.towardsai.net/why-google-i-o-2026-is-different-this-time-agentic-ai-unified-os-and-the-worlds-most-afda4d3fc1d6?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-google-i-o-2026-is-different-this-time-agentic-ai-unified-os-and-the-worlds-most-afda4d3fc1d6?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I Tested Direct Lake vs Import vs DirectQuery on the Same Power BI Dataset — One Silently Switched…]]></title>
+        <id>https://pub.towardsai.net/i-tested-direct-lake-vs-import-vs-directquery-on-the-same-power-bi-dataset-one-silently-switched-b1f3104392f9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tested-direct-lake-vs-import-vs-directquery-on-the-same-power-bi-dataset-one-silently-switched-b1f3104392f9?source=rss----98111c9905da---4"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
@@ -99,6 +106,13 @@
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why Google I/O 2026 Is Different This Time — Agentic AI, Unified OS, and the World’s Most…]]></title>
+        <id>https://pub.towardsai.net/why-google-i-o-2026-is-different-this-time-agentic-ai-unified-os-and-the-worlds-most-afda4d3fc1d6?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-google-i-o-2026-is-different-this-time-agentic-ai-unified-os-and-the-worlds-most-afda4d3fc1d6?source=rss----98111c9905da---4"/>
+        <updated>2026-05-11T16:00:00.000Z</updated>
+        <published>2026-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub for Beginners: Getting started with OSS contributions]]></title>
         <id>https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/</id>
         <link href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/"/>
@@ -106,51 +120,9 @@
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop copy-pasting your React route protection. Here's a better way.]]></title>
-        <id>https://dev.to/aastakhov/stop-copy-pasting-your-react-route-protection-heres-a-better-way-2k8o</id>
-        <link href="https://dev.to/aastakhov/stop-copy-pasting-your-react-route-protection-heres-a-better-way-2k8o"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Programmatic SEO Tool with 126K Pages Indexed in 30 Days (Built with AI Assistance)]]></title>
-        <id>https://dev.to/themob000/how-i-built-a-programmatic-seo-tool-with-126k-pages-indexed-in-30-days-built-with-ai-assistance-464f</id>
-        <link href="https://dev.to/themob000/how-i-built-a-programmatic-seo-tool-with-126k-pages-indexed-in-30-days-built-with-ai-assistance-464f"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paste a wallet, get a personal airdrop verdict — and call the same logic from any LLM]]></title>
-        <id>https://dev.to/weston_g/paste-a-wallet-get-a-personal-airdrop-verdict-and-call-the-same-logic-from-any-llm-4ej0</id>
-        <link href="https://dev.to/weston_g/paste-a-wallet-get-a-personal-airdrop-verdict-and-call-the-same-logic-from-any-llm-4ej0"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Chrome Extension That Writes LinkedIn DMs Using Claude AI]]></title>
-        <id>https://dev.to/sujal_meena_cf186b9b452cd/i-built-a-chrome-extension-that-writes-linkedin-dms-using-claude-ai-42b3</id>
-        <link href="https://dev.to/sujal_meena_cf186b9b452cd/i-built-a-chrome-extension-that-writes-linkedin-dms-using-claude-ai-42b3"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Trusted Site to Buy USA Gmail Accounts with Instant Access]]></title>
-        <id>https://dev.to/gmail986/best-trusted-site-to-buy-usa-gmail-accounts-with-instant-access-100c</id>
-        <link href="https://dev.to/gmail986/best-trusted-site-to-buy-usa-gmail-accounts-with-instant-access-100c"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy USA Gmail Accounts from the Best Seller Website with Fast Support]]></title>
-        <id>https://dev.to/gmail986/buy-usa-gmail-accounts-from-the-best-seller-website-with-fast-support-1c6p</id>
-        <link href="https://dev.to/gmail986/buy-usa-gmail-accounts-from-the-best-seller-website-with-fast-support-1c6p"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Trusted Source to Buy USA Gmail Accounts for SEO Projects]]></title>
-        <id>https://dev.to/gmail999/top-trusted-source-to-buy-usa-gmail-accounts-for-seo-projects-18o7</id>
-        <link href="https://dev.to/gmail999/top-trusted-source-to-buy-usa-gmail-accounts-for-seo-projects-18o7"/>
+        <title type="html"><![CDATA[Why Your Body is the Most Important System You’ll Ever Maintain 💻🧘‍♂️]]></title>
+        <id>https://dev.to/emilycarterus/why-your-body-is-the-most-important-system-youll-ever-maintain-o8m</id>
+        <link href="https://dev.to/emilycarterus/why-your-body-is-the-most-important-system-youll-ever-maintain-o8m"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
@@ -162,16 +134,65 @@
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GM settles California lawsuit claiming it sold driving habit data to insurance companies]]></title>
-        <id>https://www.theverge.com/transportation/927863/gm-settles-california-lawsuit-claiming-it-sold-driving-habit-data-to-insurance-companies</id>
-        <link href="https://www.theverge.com/transportation/927863/gm-settles-california-lawsuit-claiming-it-sold-driving-habit-data-to-insurance-companies"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Top Trusted Source to Buy USA Gmail Accounts for SEO Projects]]></title>
+        <id>https://dev.to/gmail999/top-trusted-source-to-buy-usa-gmail-accounts-for-seo-projects-18o7</id>
+        <link href="https://dev.to/gmail999/top-trusted-source-to-buy-usa-gmail-accounts-for-seo-projects-18o7"/>
+        <updated>2026-05-11T16:00:00.000Z</updated>
+        <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 11 is getting a macOS-like speed boost]]></title>
-        <id>https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost</id>
-        <link href="https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost"/>
+        <title type="html"><![CDATA[Buy USA Gmail Accounts from the Best Seller Website with Fast Support]]></title>
+        <id>https://dev.to/gmail986/buy-usa-gmail-accounts-from-the-best-seller-website-with-fast-support-1c6p</id>
+        <link href="https://dev.to/gmail986/buy-usa-gmail-accounts-from-the-best-seller-website-with-fast-support-1c6p"/>
+        <updated>2026-05-11T16:00:00.000Z</updated>
+        <published>2026-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Trusted Site to Buy USA Gmail Accounts with Instant Access]]></title>
+        <id>https://dev.to/gmail986/best-trusted-site-to-buy-usa-gmail-accounts-with-instant-access-100c</id>
+        <link href="https://dev.to/gmail986/best-trusted-site-to-buy-usa-gmail-accounts-with-instant-access-100c"/>
+        <updated>2026-05-11T16:00:00.000Z</updated>
+        <published>2026-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Chrome Extension That Writes LinkedIn DMs Using Claude AI]]></title>
+        <id>https://dev.to/sujal_meena_cf186b9b452cd/i-built-a-chrome-extension-that-writes-linkedin-dms-using-claude-ai-42b3</id>
+        <link href="https://dev.to/sujal_meena_cf186b9b452cd/i-built-a-chrome-extension-that-writes-linkedin-dms-using-claude-ai-42b3"/>
+        <updated>2026-05-11T16:00:00.000Z</updated>
+        <published>2026-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paste a wallet, get a personal airdrop verdict — and call the same logic from any LLM]]></title>
+        <id>https://dev.to/weston_g/paste-a-wallet-get-a-personal-airdrop-verdict-and-call-the-same-logic-from-any-llm-4ej0</id>
+        <link href="https://dev.to/weston_g/paste-a-wallet-get-a-personal-airdrop-verdict-and-call-the-same-logic-from-any-llm-4ej0"/>
+        <updated>2026-05-11T16:00:00.000Z</updated>
+        <published>2026-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Programmatic SEO Tool with 126K Pages Indexed in 30 Days (Built with AI Assistance)]]></title>
+        <id>https://dev.to/themob000/how-i-built-a-programmatic-seo-tool-with-126k-pages-indexed-in-30-days-built-with-ai-assistance-464f</id>
+        <link href="https://dev.to/themob000/how-i-built-a-programmatic-seo-tool-with-126k-pages-indexed-in-30-days-built-with-ai-assistance-464f"/>
+        <updated>2026-05-11T16:00:00.000Z</updated>
+        <published>2026-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop copy-pasting your React route protection. Here's a better way.]]></title>
+        <id>https://dev.to/aastakhov/stop-copy-pasting-your-react-route-protection-heres-a-better-way-2k8o</id>
+        <link href="https://dev.to/aastakhov/stop-copy-pasting-your-react-route-protection-heres-a-better-way-2k8o"/>
+        <updated>2026-05-11T16:00:00.000Z</updated>
+        <published>2026-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arrays, objects… now ‘composites’?]]></title>
+        <id>https://frontendmasters.com/blog/arrays-objects-now-composites/</id>
+        <link href="https://frontendmasters.com/blog/arrays-objects-now-composites/"/>
+        <updated>2026-05-11T16:00:00.000Z</updated>
+        <published>2026-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech’s tiny folding mouse improves upon the laptop trackpad]]></title>
+        <id>https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images</id>
+        <link href="https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
@@ -183,9 +204,16 @@
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logitech’s tiny folding mouse improves upon the laptop trackpad]]></title>
-        <id>https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images</id>
-        <link href="https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images"/>
+        <title type="html"><![CDATA[Windows 11 is getting a macOS-like speed boost]]></title>
+        <id>https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost</id>
+        <link href="https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost"/>
+        <updated>2026-05-10T16:00:00.000Z</updated>
+        <published>2026-05-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GM settles California lawsuit claiming it sold driving habit data to insurance companies]]></title>
+        <id>https://www.theverge.com/transportation/927863/gm-settles-california-lawsuit-claiming-it-sold-driving-habit-data-to-insurance-companies</id>
+        <link href="https://www.theverge.com/transportation/927863/gm-settles-california-lawsuit-claiming-it-sold-driving-habit-data-to-insurance-companies"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
@@ -197,9 +225,9 @@
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost]]></title>
-        <id>https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/</id>
-        <link href="https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/"/>
+        <title type="html"><![CDATA[Get ready for the whisper-filled office of the future]]></title>
+        <id>https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/</id>
+        <link href="https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
@@ -211,9 +239,9 @@
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get ready for the whisper-filled office of the future]]></title>
-        <id>https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/</id>
-        <link href="https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/"/>
+        <title type="html"><![CDATA[Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost]]></title>
+        <id>https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/</id>
+        <link href="https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
@@ -333,34 +361,6 @@
         <title type="html"><![CDATA[Report shows banned non-fiction books doubled over last school year in US]]></title>
         <id>https://www.theguardian.com/books/2026/may/07/banned-non-fiction-books-doubles</id>
         <link href="https://www.theguardian.com/books/2026/may/07/banned-non-fiction-books-doubles"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garry Tan's GBrain – most important idea of the year]]></title>
-        <id>https://twitter.com/garrytan/status/2053127519872614419</id>
-        <link href="https://twitter.com/garrytan/status/2053127519872614419"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resilience Engineering Papers]]></title>
-        <id>https://github.com/lorin/resilience-engineering</id>
-        <link href="https://github.com/lorin/resilience-engineering"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biblio, a 3D bookshelf app, organise your ePub files, PDFs, or physical book]]></title>
-        <id>https://biblio.ink/</id>
-        <link href="https://biblio.ink/"/>
-        <updated>2026-05-10T16:00:00.000Z</updated>
-        <published>2026-05-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mythos Finds a Curl Vulnerability]]></title>
-        <id>https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/</id>
-        <link href="https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/"/>
         <updated>2026-05-10T16:00:00.000Z</updated>
         <published>2026-05-10T16:00:00.000Z</published>
     </entry>
