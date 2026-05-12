@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-12T10:03:05.031Z</updated>
+    <updated>2026-05-12T13:03:35.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Palantir&#8217;s true believers are wearing this jacket]]></title>
+        <id>https://www.theverge.com/report/928026/palantir-chore-coat</id>
+        <link href="https://www.theverge.com/report/928026/palantir-chore-coat"/>
+        <updated>2026-05-11T16:00:00.000Z</updated>
+        <published>2026-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A million baby monitors and security cameras were easily viewable by hackers]]></title>
         <id>https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera</id>
         <link href="https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera"/>
@@ -22,9 +29,16 @@
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Palantir&#8217;s true believers are wearing this jacket]]></title>
-        <id>https://www.theverge.com/report/928026/palantir-chore-coat</id>
-        <link href="https://www.theverge.com/report/928026/palantir-chore-coat"/>
+        <title type="html"><![CDATA[Why Soccer Still Defies Statistical Analysis]]></title>
+        <id>https://www.wired.com/story/book-excerpt-how-to-watch-soccer-like-a-genius-nick-greene/</id>
+        <link href="https://www.wired.com/story/book-excerpt-how-to-watch-soccer-like-a-genius-nick-greene/"/>
+        <updated>2026-05-11T16:00:00.000Z</updated>
+        <published>2026-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epson Lifestudio Grand Plus Review: Rich Colors, Gemini Support]]></title>
+        <id>https://www.wired.com/review/epson-lifestudio-grand-plus/</id>
+        <link href="https://www.wired.com/review/epson-lifestudio-grand-plus/"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
@@ -309,30 +323,9 @@
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The SQL+JSON+Vector Triad: How I Built 3 AI-Powered Analytics Layers Without Writing a Single…]]></title>
-        <id>https://pub.towardsai.net/the-sql-json-vector-triad-how-i-built-3-ai-powered-analytics-layers-without-writing-a-single-429570b11199?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-sql-json-vector-triad-how-i-built-3-ai-powered-analytics-layers-without-writing-a-single-429570b11199?source=rss----98111c9905da---4"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tested Direct Lake vs Import vs DirectQuery on the Same Power BI Dataset — One Silently Switched…]]></title>
-        <id>https://pub.towardsai.net/i-tested-direct-lake-vs-import-vs-directquery-on-the-same-power-bi-dataset-one-silently-switched-b1f3104392f9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-tested-direct-lake-vs-import-vs-directquery-on-the-same-power-bi-dataset-one-silently-switched-b1f3104392f9?source=rss----98111c9905da---4"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Character.AI’s Fake Psychiatrist Saw 45,500 Patients. Pennsylvania Just Found Out.]]></title>
-        <id>https://pub.towardsai.net/character-ais-fake-psychiatrist-saw-45-500-patients-pennsylvania-just-found-out-5e82c2ee789c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/character-ais-fake-psychiatrist-saw-45-500-patients-pennsylvania-just-found-out-5e82c2ee789c?source=rss----98111c9905da---4"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Google I/O 2026 Is Different This Time — Agentic AI, Unified OS, and the World’s Most…]]></title>
-        <id>https://pub.towardsai.net/why-google-i-o-2026-is-different-this-time-agentic-ai-unified-os-and-the-worlds-most-afda4d3fc1d6?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-google-i-o-2026-is-different-this-time-agentic-ai-unified-os-and-the-worlds-most-afda4d3fc1d6?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Understanding Agentic AI : A Complete Guide]]></title>
+        <id>https://pub.towardsai.net/understanding-agentic-ai-a-complete-guide-4833087fed2d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/understanding-agentic-ai-a-complete-guide-4833087fed2d?source=rss----98111c9905da---4"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
@@ -344,23 +337,30 @@
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"]]></title>
-        <id>https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything"/>
+        <title type="html"><![CDATA[Why Google I/O 2026 Is Different This Time — Agentic AI, Unified OS, and the World’s Most…]]></title>
+        <id>https://pub.towardsai.net/why-google-i-o-2026-is-different-this-time-agentic-ai-unified-os-and-the-worlds-most-afda4d3fc1d6?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-google-i-o-2026-is-different-this-time-agentic-ai-unified-os-and-the-worlds-most-afda4d3fc1d6?source=rss----98111c9905da---4"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub for Beginners: Getting started with OSS contributions]]></title>
-        <id>https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/</id>
-        <link href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/"/>
+        <title type="html"><![CDATA[Character.AI’s Fake Psychiatrist Saw 45,500 Patients. Pennsylvania Just Found Out.]]></title>
+        <id>https://pub.towardsai.net/character-ais-fake-psychiatrist-saw-45-500-patients-pennsylvania-just-found-out-5e82c2ee789c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/character-ais-fake-psychiatrist-saw-45-500-patients-pennsylvania-just-found-out-5e82c2ee789c?source=rss----98111c9905da---4"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built kenya-utils so you can stop copy-pasting the same regexes between projects]]></title>
-        <id>https://dev.to/collins87mbathi/i-built-kenya-utils-so-you-can-stop-copy-pasting-the-same-regexes-between-projects-i09</id>
-        <link href="https://dev.to/collins87mbathi/i-built-kenya-utils-so-you-can-stop-copy-pasting-the-same-regexes-between-projects-i09"/>
+        <title type="html"><![CDATA[I Tested Direct Lake vs Import vs DirectQuery on the Same Power BI Dataset — One Silently Switched…]]></title>
+        <id>https://pub.towardsai.net/i-tested-direct-lake-vs-import-vs-directquery-on-the-same-power-bi-dataset-one-silently-switched-b1f3104392f9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tested-direct-lake-vs-import-vs-directquery-on-the-same-power-bi-dataset-one-silently-switched-b1f3104392f9?source=rss----98111c9905da---4"/>
+        <updated>2026-05-11T16:00:00.000Z</updated>
+        <published>2026-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The SQL+JSON+Vector Triad: How I Built 3 AI-Powered Analytics Layers Without Writing a Single…]]></title>
+        <id>https://pub.towardsai.net/the-sql-json-vector-triad-how-i-built-3-ai-powered-analytics-layers-without-writing-a-single-429570b11199?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-sql-json-vector-triad-how-i-built-3-ai-powered-analytics-layers-without-writing-a-single-429570b11199?source=rss----98111c9905da---4"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>

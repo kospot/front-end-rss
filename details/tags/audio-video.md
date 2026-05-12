@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-12 18:03:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-12 21:03:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -8,15 +8,15 @@
 
 
 - [2026-05-10-Real-Time-Video-Compression-Techniques-Explained](https://dev.to/kevien_aca30c4fa5670237be/real-time-video-compression-techniques-explained-9fo) 
-- [2026-05-04-🎬-I-Built-a-Universal-Video-Player-That-Supports-HLS,-DASH-&amp;-MP4-Works-on-Smart-TVs](https://dev.to/guillaumesere/i-built-a-universal-video-player-that-supports-hls-dash-mp4-works-on-smart-tvs-2io6) 
-- [2026-05-04-Free-Online-Video-Player-for-Cloud-Storage-Links](https://dev.to/siddharth_hariramani_36b4/free-online-video-player-for-cloud-storage-links-akf) 
 - [2026-05-04-Building-Browser-to-Browser-File-Transfer-with-WebRTC:-What-I-Learned-Building-TransP2P](https://dev.to/kaidev-dev/building-browser-to-browser-file-transfer-with-webrtc-what-i-learned-building-transp2p-kfc) 
+- [2026-05-04-Free-Online-Video-Player-for-Cloud-Storage-Links](https://dev.to/siddharth_hariramani_36b4/free-online-video-player-for-cloud-storage-links-akf) 
+- [2026-05-04-🎬-I-Built-a-Universal-Video-Player-That-Supports-HLS,-DASH-&amp;-MP4-Works-on-Smart-TVs](https://dev.to/guillaumesere/i-built-a-universal-video-player-that-supports-hls-dash-mp4-works-on-smart-tvs-2io6) 
 - [2026-05-01-Sample-Free-Drum-Synthesis-in-Web-Audio-—-Building-Kick,-Snare,-and-Hi-Hat-from-Oscillators-in-60-Lines](https://dev.to/sendotltd/sample-free-drum-synthesis-in-web-audio-building-kick-snare-and-hi-hat-from-oscillators-in-60-2c0k) 
 - [2026-04-30-How-I-used-FFmpeg.wasm-to-build-a-browser-based-audio-remover](https://dev.to/iamcodemaster/how-i-used-ffmpegwasm-to-build-a-browser-based-audio-remover-dc3) 
 - [2026-04-26-Отказоустойчивые-видеозвонки-на-WebRTC](https://dev.to/andreik/otkazoustoichivyie-vidieozvonki-na-webrtc-cln) 
 - [2026-04-25-Why-Your-Web-Audio-Tuner-Sucks-at-Low-Notes-and-What-to-Use-Instead-of-FFT](https://dev.to/sendotltd/why-your-web-audio-tuner-sucks-at-low-notes-and-what-to-use-instead-of-fft-391h) 
-- [2026-04-24-Making-GIFs-from-Videos-Without-Leaving-Your-Browser-—-How-I-Did-It](https://dev.to/linmingren/making-gifs-from-videos-without-leaving-your-browser-how-i-did-it-3ojl) 
 - [2026-04-24-Strip-the-Sound-from-Any-Video-in-Seconds](https://dev.to/linmingren/strip-the-sound-from-any-video-in-seconds-359l) 
+- [2026-04-24-Making-GIFs-from-Videos-Without-Leaving-Your-Browser-—-How-I-Did-It](https://dev.to/linmingren/making-gifs-from-videos-without-leaving-your-browser-how-i-did-it-3ojl) 
 - [2026-04-18-WebRTC-vs-WebSocket-Explained:-When-to-Use-What-A-Real-World-Story](https://dev.to/abdullahmubin/webrtc-vs-websocket-explained-when-to-use-what-a-real-world-story-5de9) 
 - [2026-04-16-WebRTC-Works-Great-in-Demos.-In-Production,-It-Falls-Apart.-Here's-the-Fix.](https://dev.to/colocohen/webrtc-works-great-in-demos-in-production-it-falls-apart-heres-the-fix-f9h) 
 - [2026-04-13-I-built-a-free-desktop-video-downloader-for-Windows-—-Grabbit](https://dev.to/indignity/i-built-a-free-desktop-video-downloader-for-windows-grabbit-3knc) 
@@ -223,8 +223,8 @@
 - [2026-05-09-Amazon-is-adding-a-vertical-video-feed-to-Prime-Video](https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed) 
 - [2026-04-30-Here’s-what-Netflix’s-new-vertical-video-feed-is-like](https://www.theverge.com/streaming/920179/netflix-vertical-video-feed-mobile-app-ui) 
 - [2026-04-29-It’s-primetime-for-conspiracy-theorist-video-creators](https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag) 
-- [2026-04-17-Netflix-embraces-vertical-video-with-major-mobile-app-update](https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video) 
 - [2026-04-17-YouTube’s-mobile-app-finally-lets-you-share-timestamped-videos](https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips) 
+- [2026-04-17-Netflix-embraces-vertical-video-with-major-mobile-app-update](https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video) 
 - [2026-04-15-Prime-Video-is-bundling-Apple-TV-Plus-and-Peacock-for-a-limited-time](https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle) 
 - [2026-04-28-派早报：阿里巴巴发布视频生成模型-HappyHorse-1.0-等](https://sspai.com/post/109160) 
 - [2026-04-23--App+1｜秒看视频参数，我做了个免费的-Mac-小工具](https://sspai.com/post/108385) 
