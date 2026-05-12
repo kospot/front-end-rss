@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-12 23:03:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-13 06:01:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 小程序
 
@@ -7,3 +7,4 @@
 
 
 
+- [2026-05-12-TARO:-Temporal-Adversarial-Rectification-Optimization-Using-Diffusion-Models-as-Purifiers](https://arxiv.org/abs/2605.08440) 
