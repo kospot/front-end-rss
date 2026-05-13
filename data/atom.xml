@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-13T02:02:23.905Z</updated>
+    <updated>2026-05-13T04:02:04.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -106,121 +106,51 @@
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reanimation of the First Automatic Theorem Prover (From 1956)]]></title>
-        <id>https://github.com/dmoews/logic-theorist</id>
-        <link href="https://github.com/dmoews/logic-theorist"/>
+        <title type="html"><![CDATA[Solving Brain Aging: Fast and Slow]]></title>
+        <id>https://blog.amaranth.foundation/p/solving-brain-aging-fast-and-slow</id>
+        <link href="https://blog.amaranth.foundation/p/solving-brain-aging-fast-and-slow"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Latency Map – Latency Changes by City]]></title>
-        <id>https://clm.kentik.com/</id>
-        <link href="https://clm.kentik.com/"/>
+        <title type="html"><![CDATA['Googlebooks' have a premium focus, some Chromebooks can be upgraded]]></title>
+        <id>https://9to5google.com/2026/05/12/googlebooks-have-a-premium-focus-some-chromebooks-can-be-upgraded/</id>
+        <link href="https://9to5google.com/2026/05/12/googlebooks-have-a-premium-focus-some-chromebooks-can-be-upgraded/"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zig vs. Rust, agentic coding, and intellectual control [video]]]></title>
-        <id>https://www.youtube.com/watch?v=urMV1JKbIxs</id>
-        <link href="https://www.youtube.com/watch?v=urMV1JKbIxs"/>
+        <title type="html"><![CDATA[NPM-Scan – Detects TanStack Worm, Beats Socket/Snyk (Local/BYOC)]]></title>
+        <id>https://github.com/lateos-ai/npm-scan</id>
+        <link href="https://github.com/lateos-ai/npm-scan"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[London Rooftop Where Beatles Played Last Gig (1969) to Become Museum]]></title>
-        <id>https://www.nytimes.com/2026/05/11/arts/music/beatles-museum-london.html</id>
-        <link href="https://www.nytimes.com/2026/05/11/arts/music/beatles-museum-london.html"/>
+        <title type="html"><![CDATA[Let's Encrypt: Gen Y Cross-Certified Subordinate CAs Missing ServerAuth EKU]]></title>
+        <id>https://bugzilla.mozilla.org/show_bug.cgi?id=2038351</id>
+        <link href="https://bugzilla.mozilla.org/show_bug.cgi?id=2038351"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Atlas: An LLM inference engine written from scratch in Rust and CUDA]]></title>
-        <id>https://atlasinference.io</id>
-        <link href="https://atlasinference.io"/>
+        <title type="html"><![CDATA[Cemu (WiiU emulator) compromised by Russian threat actor]]></title>
+        <id>https://rentry.co/cemu-security-psa</id>
+        <link href="https://rentry.co/cemu-security-psa"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I traveled 65 countries and built my own travel tracker]]></title>
-        <id>https://play.google.com/store/apps/details?id=com.ahnlee.jidoapp&amp;hl=en_US</id>
-        <link href="https://play.google.com/store/apps/details?id=com.ahnlee.jidoapp&amp;hl=en_US"/>
+        <title type="html"><![CDATA[Self-hosted AI memory with web dashboard – Cloudflare Workers, D1, Vectorize]]></title>
+        <id>https://github.com/rahilp/second-brain-cloudflare</id>
+        <link href="https://github.com/rahilp/second-brain-cloudflare"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First 3D Emoji?]]></title>
-        <id>https://news.ycombinator.com/item?id=48116614</id>
-        <link href="https://news.ycombinator.com/item?id=48116614"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nearly Optimal Attention Coresets]]></title>
-        <id>https://www.pinecone.io/research/Nearly-Optimal-Attention-Coresets/</id>
-        <link href="https://www.pinecone.io/research/Nearly-Optimal-Attention-Coresets/"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Use in Codex [video]]]></title>
-        <id>https://www.youtube.com/watch?v=D_FCYsshMI4</id>
-        <link href="https://www.youtube.com/watch?v=D_FCYsshMI4"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant]]></title>
-        <id>https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant</id>
-        <link href="https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robot Dogs Are a Security Nightmare [video]]]></title>
-        <id>https://www.youtube.com/watch?v=lA8WuXDXfcI</id>
-        <link href="https://www.youtube.com/watch?v=lA8WuXDXfcI"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU iPhones Get AirPod Pairing and Notifications for Third-Party Wearables]]></title>
-        <id>https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/</id>
-        <link href="https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The hardware isn't broken, the documentation is]]></title>
-        <id>https://essenceia.github.io/thoughts/broken_doc/</id>
-        <link href="https://essenceia.github.io/thoughts/broken_doc/"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Display.dev, agent-native way to publish HTML or MD behind company auth]]></title>
-        <id>https://display.dev/</id>
-        <link href="https://display.dev/"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mini Shai-Hulud Is Back: NPM Worm Hits over 160 Packages, Including Mistral]]></title>
-        <id>https://www.aikido.dev/blog/mini-shai-hulud-is-back-tanstack-compromised</id>
-        <link href="https://www.aikido.dev/blog/mini-shai-hulud-is-back-tanstack-compromised"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Heck Is Reflection?]]></title>
-        <id>https://www.murathepeyiler.com/what-the-heck-is-reflection/</id>
-        <link href="https://www.murathepeyiler.com/what-the-heck-is-reflection/"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compressing Scrabble Dictionaries (2014)]]></title>
-        <id>https://williame.github.io/post/87682811573.html</id>
-        <link href="https://williame.github.io/post/87682811573.html"/>
+        <title type="html"><![CDATA[Show HN: Outpainting Avatar: The Last Airbender from 4:3 to 16:9]]></title>
+        <id>https://bsky.app/profile/markjgx.bsky.social/post/3mlotqveddc2i</id>
+        <link href="https://bsky.app/profile/markjgx.bsky.social/post/3mlotqveddc2i"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
@@ -232,9 +162,121 @@
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Outpainting Avatar: The Last Airbender from 4:3 to 16:9]]></title>
-        <id>https://bsky.app/profile/markjgx.bsky.social/post/3mlotqveddc2i</id>
-        <link href="https://bsky.app/profile/markjgx.bsky.social/post/3mlotqveddc2i"/>
+        <title type="html"><![CDATA[Compressing Scrabble Dictionaries (2014)]]></title>
+        <id>https://williame.github.io/post/87682811573.html</id>
+        <link href="https://williame.github.io/post/87682811573.html"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Heck Is Reflection?]]></title>
+        <id>https://www.murathepeyiler.com/what-the-heck-is-reflection/</id>
+        <link href="https://www.murathepeyiler.com/what-the-heck-is-reflection/"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mini Shai-Hulud Is Back: NPM Worm Hits over 160 Packages, Including Mistral]]></title>
+        <id>https://www.aikido.dev/blog/mini-shai-hulud-is-back-tanstack-compromised</id>
+        <link href="https://www.aikido.dev/blog/mini-shai-hulud-is-back-tanstack-compromised"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Display.dev, agent-native way to publish HTML or MD behind company auth]]></title>
+        <id>https://display.dev/</id>
+        <link href="https://display.dev/"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The hardware isn't broken, the documentation is]]></title>
+        <id>https://essenceia.github.io/thoughts/broken_doc/</id>
+        <link href="https://essenceia.github.io/thoughts/broken_doc/"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU iPhones Get AirPod Pairing and Notifications for Third-Party Wearables]]></title>
+        <id>https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/</id>
+        <link href="https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robot Dogs Are a Security Nightmare [video]]]></title>
+        <id>https://www.youtube.com/watch?v=lA8WuXDXfcI</id>
+        <link href="https://www.youtube.com/watch?v=lA8WuXDXfcI"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant]]></title>
+        <id>https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant</id>
+        <link href="https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Use in Codex [video]]]></title>
+        <id>https://www.youtube.com/watch?v=D_FCYsshMI4</id>
+        <link href="https://www.youtube.com/watch?v=D_FCYsshMI4"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly Optimal Attention Coresets]]></title>
+        <id>https://www.pinecone.io/research/Nearly-Optimal-Attention-Coresets/</id>
+        <link href="https://www.pinecone.io/research/Nearly-Optimal-Attention-Coresets/"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First 3D Emoji?]]></title>
+        <id>https://news.ycombinator.com/item?id=48116614</id>
+        <link href="https://news.ycombinator.com/item?id=48116614"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I traveled 65 countries and built my own travel tracker]]></title>
+        <id>https://play.google.com/store/apps/details?id=com.ahnlee.jidoapp&amp;hl=en_US</id>
+        <link href="https://play.google.com/store/apps/details?id=com.ahnlee.jidoapp&amp;hl=en_US"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atlas: An LLM inference engine written from scratch in Rust and CUDA]]></title>
+        <id>https://atlasinference.io</id>
+        <link href="https://atlasinference.io"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[London Rooftop Where Beatles Played Last Gig (1969) to Become Museum]]></title>
+        <id>https://www.nytimes.com/2026/05/11/arts/music/beatles-museum-london.html</id>
+        <link href="https://www.nytimes.com/2026/05/11/arts/music/beatles-museum-london.html"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zig vs. Rust, agentic coding, and intellectual control [video]]]></title>
+        <id>https://www.youtube.com/watch?v=urMV1JKbIxs</id>
+        <link href="https://www.youtube.com/watch?v=urMV1JKbIxs"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Latency Map – Latency Changes by City]]></title>
+        <id>https://clm.kentik.com/</id>
+        <link href="https://clm.kentik.com/"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reanimation of the First Automatic Theorem Prover (From 1956)]]></title>
+        <id>https://github.com/dmoews/logic-theorist</id>
+        <link href="https://github.com/dmoews/logic-theorist"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
@@ -281,86 +323,44 @@
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan]]></title>
-        <id>https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/</id>
-        <link href="https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/"/>
+        <title type="html"><![CDATA[QuIDE: Mastering the Quantized Intelligence Trade-off via Active Optimization]]></title>
+        <id>https://arxiv.org/abs/2605.10959</id>
+        <link href="https://arxiv.org/abs/2605.10959"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Regulalar Expression]]></title>
-        <id>https://dev.to/juma_evans_34e389ef539266/regulalar-expression-1e8p</id>
-        <link href="https://dev.to/juma_evans_34e389ef539266/regulalar-expression-1e8p"/>
+        <title type="html"><![CDATA[Vertex-Softmax: Tight Transformer Verification via Exact Softmax Optimization]]></title>
+        <id>https://arxiv.org/abs/2605.10974</id>
+        <link href="https://arxiv.org/abs/2605.10974"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Browser Ear-Training Trainer in 350 Lines — Equal-Temperament Frequencies and Three Web Audio Footguns]]></title>
-        <id>https://dev.to/sendotltd/a-browser-ear-training-trainer-in-350-lines-equal-temperament-frequencies-and-three-web-audio-o0d</id>
-        <link href="https://dev.to/sendotltd/a-browser-ear-training-trainer-in-350-lines-equal-temperament-frequencies-and-three-web-audio-o0d"/>
+        <title type="html"><![CDATA[Hierarchical Multi-Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation]]></title>
+        <id>https://arxiv.org/abs/2605.10975</id>
+        <link href="https://arxiv.org/abs/2605.10975"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ES2026: The Latest Evolution of JavaScript — A Comprehensive Feature Overview]]></title>
-        <id>https://dev.to/linmingren/es2026-the-latest-evolution-of-javascript-a-comprehensive-feature-overview-328a</id>
-        <link href="https://dev.to/linmingren/es2026-the-latest-evolution-of-javascript-a-comprehensive-feature-overview-328a"/>
+        <title type="html"><![CDATA[TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment]]></title>
+        <id>https://arxiv.org/abs/2605.10983</id>
+        <link href="https://arxiv.org/abs/2605.10983"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Async Architectures for Shopify Operations: Patterns That Actually Hold Under Load]]></title>
-        <id>https://dev.to/asad_abdullah_zafar/async-architectures-for-shopify-operations-patterns-that-actually-hold-under-load-4aoe</id>
-        <link href="https://dev.to/asad_abdullah_zafar/async-architectures-for-shopify-operations-patterns-that-actually-hold-under-load-4aoe"/>
+        <title type="html"><![CDATA[SURGE: Surrogate Gradient Adaptation in Binary Neural Networks]]></title>
+        <id>https://arxiv.org/abs/2605.10989</id>
+        <link href="https://arxiv.org/abs/2605.10989"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I reduced my AI bill by 90% with 50 lines of code. Here's the trick.]]></title>
-        <id>https://dev.to/subprime2010/i-reduced-my-ai-bill-by-90-with-50-lines-of-code-heres-the-trick-i34</id>
-        <link href="https://dev.to/subprime2010/i-reduced-my-ai-bill-by-90-with-50-lines-of-code-heres-the-trick-i34"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[npx -y create-vite@latest ./ --template vanilla]]></title>
-        <id>https://dev.to/javiercertificadofp_170bc/npx-y-create-vitelatest-template-vanilla-3dc</id>
-        <link href="https://dev.to/javiercertificadofp_170bc/npx-y-create-vitelatest-template-vanilla-3dc"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 18 is a year past EOL and Node.js 20 just hit EOL — is your stack exposed?]]></title>
-        <id>https://dev.to/endoflifeai/nodejs-18-is-a-year-past-eol-and-nodejs-20-just-hit-eol-is-your-stack-exposed-394h</id>
-        <link href="https://dev.to/endoflifeai/nodejs-18-is-a-year-past-eol-and-nodejs-20-just-hit-eol-is-your-stack-exposed-394h"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro vs Next.js: Which Framework Should You Use in 2026?]]></title>
-        <id>https://dev.to/tonyspiro/astro-vs-nextjs-which-framework-should-you-use-in-2026-5e2h</id>
-        <link href="https://dev.to/tonyspiro/astro-vs-nextjs-which-framework-should-you-use-in-2026-5e2h"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you stop attacking #npm packages? I'm scared of installing packages. Now it's time to switch 100% to PNPM...]]></title>
-        <id>https://dev.to/fromchiapasdev/can-you-stop-attacking-npm-packages-im-scared-of-installing-packages-now-its-time-to-switch-1aa4</id>
-        <link href="https://dev.to/fromchiapasdev/can-you-stop-attacking-npm-packages-im-scared-of-installing-packages-now-its-time-to-switch-1aa4"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why you keep attacking npm?]]></title>
-        <id>https://dev.to/fromchiapasdev/why-you-keep-attacking-npm-4a53</id>
-        <link href="https://dev.to/fromchiapasdev/why-you-keep-attacking-npm-4a53"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Repeating Square Dots Backgrounds in CSS]]></title>
-        <id>https://frontendmasters.com/blog/repeating-square-dots-backgrounds-in-css/</id>
-        <link href="https://frontendmasters.com/blog/repeating-square-dots-backgrounds-in-css/"/>
+        <title type="html"><![CDATA[SkillGen: Verified Inference-Time Agent Skill Synthesis]]></title>
+        <id>https://arxiv.org/abs/2605.10999</id>
+        <link href="https://arxiv.org/abs/2605.10999"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>

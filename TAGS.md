@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-13 10:02:23。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-13 12:02:03。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -89,15 +89,15 @@ https://github.com/svar-widgets/vue-gantt
 - [【GitHub Trending JS】-New-Vue-UI-components-from-SVAR:-30+-controls,-edit-forms,-and-filtering-widgets-](
 https://svar.dev/blog/svar-vue-components-released/
 )
+- [【arXiv ML】Asymmetric-Advantage-Modulation-Calibrates-Entropy-Dynamics-in-RLVR](https://arxiv.org/abs/2604.04894)
+- [【arXiv ML】Context-Steering:-A-New-Paradigm-for-Compression-based-Embeddings-by-Synthesizing-Relevant-Information-Features](https://arxiv.org/abs/2508.14780)
+- [【arXiv ML】Taming-Extreme-Tokens:-Covariance-Aware-GRPO-with-Gaussian-Kernel-Advantage-Reweighting](https://arxiv.org/abs/2605.11538)
+- [【arXiv ML】Towards-Order-Fairness:-Mitigating-LLMs-Order-Sensitivity-through-Dual-Group-Advantage-Optimization](https://arxiv.org/abs/2605.11974)
+- [【arXiv ML】GEAR:-Granularity-Adaptive-Advantage-Reweighting-for-LLM-Agents-via-Self-Distillation](https://arxiv.org/abs/2605.11853)
 - [【arXiv ML】Self-Play-Enhancement-via-Advantage-Weighted-Refinement-in-Online-Federated-LLM-Fine-Tuning-with-Real-Time-Feedback](https://arxiv.org/abs/2605.07977)
 - [【arXiv ML】Revisiting-Uncertainty:-On-Evidential-Learning-for-Partially-Relevant-Video-Retrieval](https://arxiv.org/abs/2605.06083)
-- [【arXiv ML】Deployment-Relevant-Alignment-Cannot-Be-Inferred-from-Model-Level-Evaluation-Alone](https://arxiv.org/abs/2605.04454)
 - [【arXiv ML】Free-Energy-Driven-Reinforcement-Learning-with-Adaptive-Advantage-Shaping-for-Unsupervised-Reasoning-in-LLMs](https://arxiv.org/abs/2605.04065)
-- [【arXiv ML】MAGIC:-Multi-Step-Advantage-Gated-Causal-Influence-for-Multi-agent-Reinforcement-Learning](https://arxiv.org/abs/2605.01805)
-- [【arXiv ML】Kernelized-Advantage-Estimation:-From-Nonparametric-Statistics-to-LLM-Reasoning](https://arxiv.org/abs/2604.28005)
-- [【arXiv ML】Leveraging-Human-Feedback-for-Semantically-Relevant-Skill-Discovery](https://arxiv.org/abs/2604.24127)
-- [【arXiv ML】Stabilizing-Efficient-Reasoning-with-Step-Level-Advantage-Selection](https://arxiv.org/abs/2604.24003)
-- [【arXiv ML】Demonstrating-Real-Advantage-of-Machine-Learning-Enhanced-Monte-Carlo-for-Combinatorial-Optimization](https://arxiv.org/abs/2510.19544)
+- [【arXiv ML】Deployment-Relevant-Alignment-Cannot-Be-Inferred-from-Model-Level-Evaluation-Alone](https://arxiv.org/abs/2605.04454)
 - [......【查看更多】......](/details/tags/vue.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -373,8 +373,8 @@ https://svar.dev/blog/svar-vue-components-released/
 - [【GitHub Trending JS】-Fax-Office-1987-8-film-cameras-simulated-in-a-single-HTML-file-](
 https://faxoffice1987.com
 )
-- [【arXiv ML】Learning-to-Learn-the-Macroscopic-Fundamental-Diagram-using-Physics-Informed-and-meta-Machine-Learning-techniques](https://arxiv.org/abs/2508.14137)
-- [【arXiv ML】Meta-reinforcement-learning-with-minimum-attention](https://arxiv.org/abs/2505.16741)
+- [【arXiv ML】MetaColloc:-Optimization-Free-PDE-Solving-via-Meta-Learned-Basis-Functions](https://arxiv.org/abs/2605.12368)
+- [【arXiv ML】NoiseRater:-Meta-Learned-Noise-Valuation-for-Diffusion-Model-Training](https://arxiv.org/abs/2605.08144)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -442,11 +442,11 @@ https://faxoffice1987.com
 - [【前端之巅】WebRTC-Works-Great-in-Demos.-In-Production,-It-Falls-Apart.-Here's-the-Fix.](https://dev.to/colocohen/webrtc-works-great-in-demos-in-production-it-falls-apart-heres-the-fix-f9h)
 - [【美团技术团队】LARYBench-发布：定义具身动作表征-ImageNet，首次度量从人类视频学习的泛化表征](https://tech.meituan.com/2026/04/27/longcat-larybench.html)
 - [【美团技术团队】突破零样本-TTS-音色克隆上限：LongCat-AudioDiT-的声音克隆艺术](https://tech.meituan.com/2026/04/20/longcat-audiodit.html)
-- [【arXiv ML】AU-Harness:-An-Open-Source-Toolkit-for-Holistic-Evaluation-of-Audio-LLMs](https://arxiv.org/abs/2509.08031)
-- [【arXiv ML】AllocMV:-Optimal-Resource-Allocation-for-Music-Video-Generation-via-Structured-Persistent-State](https://arxiv.org/abs/2605.10723)
-- [【arXiv ML】APEX:-Audio-Prototype-EXplanations-for-Classification-Tasks](https://arxiv.org/abs/2605.10153)
-- [【arXiv ML】PoDAR:-Power-Disentangled-Audio-Representation-for-Generative-Modeling](https://arxiv.org/abs/2605.10084)
-- [【arXiv ML】Towards-Trustworthy-Audio-Deepfake-Detection:-A-Systematic-Framework-for-Diagnosing-and-Mitigating-Gender-Bias](https://arxiv.org/abs/2605.09087)
+- [【arXiv ML】Efficient-Remote-KV-Cache-Reuse-with-GPU-native-Video-Codec](https://arxiv.org/abs/2602.09725)
+- [【arXiv ML】Detecting-In-Person-Conversations-in-Noisy-Real-World-Environments-with-Smartwatch-Audio-and-Motion-Sensing](https://arxiv.org/abs/2507.12002)
+- [【arXiv ML】FIS-DiT:-Breaking-the-Few-Step-Video-Inference-Barrier-via-Training-Free-Frame-Interleaved-Sparsity](https://arxiv.org/abs/2605.11869)
+- [【arXiv ML】Exploring-Token-Space-Manipulation-in-Latent-Audio-Tokenizers](https://arxiv.org/abs/2605.11192)
+- [【arXiv ML】Alice-v1:-Distillation-Enhanced-Video-Generation-Surpassing-Closed-Source-Models](https://arxiv.org/abs/2605.08115)
 - [......【查看更多】......](/details/tags/audio-video.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -646,12 +646,12 @@ https://faxoffice1987.com
 - [【前端之巅】I-Got-a-Job-Offer.-But,-It-Came-With-Malware.](https://dev.to/denyherianto/i-got-a-job-offer-but-it-came-with-malwares-4c9a)
 - [【arXiv ML】Rethinking-Data-Curation-in-LLM-Training:-Online-Reweighting-Offers-Better-Generalization-than-Offline-Methods](https://arxiv.org/abs/2605.05227)
 - [【Hacker News】Google-now-offers-up-to-$1.5M-for-some-Android-exploits](https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/)
-- [【Hacker News】GameStop-Is-Offering-to-Buy-eBay-for-$56B,-CEO-Ryan-Cohen-Says](https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a)
 - [【Hacker News】Midori,-the-first-browser-to-offer-a-VPN-with-Mesh-technology](https://astian.org/midori-en/performance-adblock-and-more-in-midori-11-7-1/)
+- [【Hacker News】GameStop-Is-Offering-to-Buy-eBay-for-$56B,-CEO-Ryan-Cohen-Says](https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a)
 - [【Hacker News】GameStop-Preparing-Offer-for-eBay](https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de)
 - [【Hacker News】Amazon-is-offering-new-OpenAI-products-on-AWS](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/)
-- [【Hacker News】Microsoft-offers-voluntary-employee-buyout/retirement-for-7%-of-U.S.-workforce](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html)
 - [【Hacker News】Rippling-exposed-your-SSN/banking-to-anyone-who-sent-you-an-offer-letter](https://infosec.exchange/@SecureOwl/116415101610028363)
+- [【Hacker News】Microsoft-offers-voluntary-employee-buyout/retirement-for-7%-of-U.S.-workforce](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html)
 - [【Hacker News】Light-activated-material-offers-new-approach-to-carbon-dioxide-conversion](https://phys.org/news/2026-03-material-approach-carbon-dioxide-conversion.html)
 - [【TechCrunch】Anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares](https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/)
 - [【TechCrunch】In-Harvard-study,-AI-offered-more-accurate-emergency-room-diagnoses-than-two-human-doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)

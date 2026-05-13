@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-13 10:02:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-13 12:02:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -22,14 +22,19 @@ https://github.com/svar-widgets/vue-gantt
 - [2026-04-14--New-Vue-UI-components-from-SVAR:-30+-controls,-edit-forms,-and-filtering-widgets-](
 https://svar.dev/blog/svar-vue-components-released/
 ) 
+- [2026-05-13-Asymmetric-Advantage-Modulation-Calibrates-Entropy-Dynamics-in-RLVR](https://arxiv.org/abs/2604.04894) 
+- [2026-05-13-Context-Steering:-A-New-Paradigm-for-Compression-based-Embeddings-by-Synthesizing-Relevant-Information-Features](https://arxiv.org/abs/2508.14780) 
+- [2026-05-13-Taming-Extreme-Tokens:-Covariance-Aware-GRPO-with-Gaussian-Kernel-Advantage-Reweighting](https://arxiv.org/abs/2605.11538) 
+- [2026-05-13-Towards-Order-Fairness:-Mitigating-LLMs-Order-Sensitivity-through-Dual-Group-Advantage-Optimization](https://arxiv.org/abs/2605.11974) 
+- [2026-05-13-GEAR:-Granularity-Adaptive-Advantage-Reweighting-for-LLM-Agents-via-Self-Distillation](https://arxiv.org/abs/2605.11853) 
 - [2026-05-11-Self-Play-Enhancement-via-Advantage-Weighted-Refinement-in-Online-Federated-LLM-Fine-Tuning-with-Real-Time-Feedback](https://arxiv.org/abs/2605.07977) 
 - [2026-05-08-Revisiting-Uncertainty:-On-Evidential-Learning-for-Partially-Relevant-Video-Retrieval](https://arxiv.org/abs/2605.06083) 
-- [2026-05-07-Deployment-Relevant-Alignment-Cannot-Be-Inferred-from-Model-Level-Evaluation-Alone](https://arxiv.org/abs/2605.04454) 
 - [2026-05-07-Free-Energy-Driven-Reinforcement-Learning-with-Adaptive-Advantage-Shaping-for-Unsupervised-Reasoning-in-LLMs](https://arxiv.org/abs/2605.04065) 
+- [2026-05-07-Deployment-Relevant-Alignment-Cannot-Be-Inferred-from-Model-Level-Evaluation-Alone](https://arxiv.org/abs/2605.04454) 
 - [2026-05-05-MAGIC:-Multi-Step-Advantage-Gated-Causal-Influence-for-Multi-agent-Reinforcement-Learning](https://arxiv.org/abs/2605.01805) 
 - [2026-05-01-Kernelized-Advantage-Estimation:-From-Nonparametric-Statistics-to-LLM-Reasoning](https://arxiv.org/abs/2604.28005) 
-- [2026-04-28-Leveraging-Human-Feedback-for-Semantically-Relevant-Skill-Discovery](https://arxiv.org/abs/2604.24127) 
 - [2026-04-28-Stabilizing-Efficient-Reasoning-with-Step-Level-Advantage-Selection](https://arxiv.org/abs/2604.24003) 
+- [2026-04-28-Leveraging-Human-Feedback-for-Semantically-Relevant-Skill-Discovery](https://arxiv.org/abs/2604.24127) 
 - [2026-04-21-Demonstrating-Real-Advantage-of-Machine-Learning-Enhanced-Monte-Carlo-for-Combinatorial-Optimization](https://arxiv.org/abs/2510.19544) 
 - [2026-04-17-GFT:-From-Imitation-to-Reward-Fine-Tuning-with-Unbiased-Group-Advantages-and-Dynamic-Coefficient-Rectification](https://arxiv.org/abs/2604.14258) 
 - [2026-04-15-AAPO:-Enhancing-the-Reasoning-Capabilities-of-LLMs-with-Advantage-Margin](https://arxiv.org/abs/2505.14264) 
