@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-12T22:01:16.133Z</updated>
+    <updated>2026-05-13T00:02:08.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Meta won’t let you block its AI account on Threads]]></title>
-        <id>https://www.theverge.com/tech/929091/meta-ai-threads-account-block</id>
-        <link href="https://www.theverge.com/tech/929091/meta-ai-threads-account-block"/>
+        <title type="html"><![CDATA[Google announces its Chromebook successor: the Googlebook]]></title>
+        <id>https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook</id>
+        <link href="https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
@@ -29,9 +29,9 @@
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google announces its Chromebook successor: the Googlebook]]></title>
-        <id>https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook</id>
-        <link href="https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook"/>
+        <title type="html"><![CDATA[Meta won’t let you block its AI account on Threads]]></title>
+        <id>https://www.theverge.com/tech/929091/meta-ai-threads-account-block</id>
+        <link href="https://www.theverge.com/tech/929091/meta-ai-threads-account-block"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
@@ -99,37 +99,44 @@
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nearly Optimal Attention Coresets]]></title>
-        <id>https://www.pinecone.io/research/Nearly-Optimal-Attention-Coresets/</id>
-        <link href="https://www.pinecone.io/research/Nearly-Optimal-Attention-Coresets/"/>
+        <title type="html"><![CDATA[Show HN: Outpainting Avatar: The Last Airbender from 4:3 to 16:9]]></title>
+        <id>https://bsky.app/profile/markjgx.bsky.social/post/3mlotqveddc2i</id>
+        <link href="https://bsky.app/profile/markjgx.bsky.social/post/3mlotqveddc2i"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Computer Use in Codex [video]]]></title>
-        <id>https://www.youtube.com/watch?v=D_FCYsshMI4</id>
-        <link href="https://www.youtube.com/watch?v=D_FCYsshMI4"/>
+        <title type="html"><![CDATA[Canvas hack: Company pays criminals to delete students' stolen data]]></title>
+        <id>https://www.bbc.com/news/articles/cdepzg83x87o</id>
+        <link href="https://www.bbc.com/news/articles/cdepzg83x87o"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant]]></title>
-        <id>https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant</id>
-        <link href="https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant"/>
+        <title type="html"><![CDATA[Compressing Scrabble Dictionaries (2014)]]></title>
+        <id>https://williame.github.io/post/87682811573.html</id>
+        <link href="https://williame.github.io/post/87682811573.html"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robot Dogs Are a Security Nightmare [video]]]></title>
-        <id>https://www.youtube.com/watch?v=lA8WuXDXfcI</id>
-        <link href="https://www.youtube.com/watch?v=lA8WuXDXfcI"/>
+        <title type="html"><![CDATA[What the Heck Is Reflection?]]></title>
+        <id>https://www.murathepeyiler.com/what-the-heck-is-reflection/</id>
+        <link href="https://www.murathepeyiler.com/what-the-heck-is-reflection/"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EU iPhones Get AirPod Pairing and Notifications for Third-Party Wearables]]></title>
-        <id>https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/</id>
-        <link href="https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/"/>
+        <title type="html"><![CDATA[Mini Shai-Hulud Is Back: NPM Worm Hits over 160 Packages, Including Mistral]]></title>
+        <id>https://www.aikido.dev/blog/mini-shai-hulud-is-back-tanstack-compromised</id>
+        <link href="https://www.aikido.dev/blog/mini-shai-hulud-is-back-tanstack-compromised"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Display.dev, agent-native way to publish HTML or MD behind company auth]]></title>
+        <id>https://display.dev/</id>
+        <link href="https://display.dev/"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
@@ -141,23 +148,44 @@
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Orchestration Tax: Why Multi-Agent Systems Get Expensive]]></title>
-        <id>https://pub.towardsai.net/the-orchestration-tax-why-multi-agent-systems-get-expensive-724479a85702?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-orchestration-tax-why-multi-agent-systems-get-expensive-724479a85702?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[EU iPhones Get AirPod Pairing and Notifications for Third-Party Wearables]]></title>
+        <id>https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/</id>
+        <link href="https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Schema Migrations Are Silently Breaking Your ML Models. Synthetic Databases Can Catch It First.]]></title>
-        <id>https://pub.towardsai.net/schema-migrations-are-silently-breaking-your-ml-models-synthetic-databases-can-catch-it-first-a0f1fbe66a81?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/schema-migrations-are-silently-breaking-your-ml-models-synthetic-databases-can-catch-it-first-a0f1fbe66a81?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Robot Dogs Are a Security Nightmare [video]]]></title>
+        <id>https://www.youtube.com/watch?v=lA8WuXDXfcI</id>
+        <link href="https://www.youtube.com/watch?v=lA8WuXDXfcI"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 AdaBoost Interview Questions & Answers (Part 1 of 2)]]></title>
-        <id>https://pub.towardsai.net/top-20-adaboost-interview-questions-answers-part-1-of-2-470c8e9941ca?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/top-20-adaboost-interview-questions-answers-part-1-of-2-470c8e9941ca?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant]]></title>
+        <id>https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant</id>
+        <link href="https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Use in Codex [video]]]></title>
+        <id>https://www.youtube.com/watch?v=D_FCYsshMI4</id>
+        <link href="https://www.youtube.com/watch?v=D_FCYsshMI4"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly Optimal Attention Coresets]]></title>
+        <id>https://www.pinecone.io/research/Nearly-Optimal-Attention-Coresets/</id>
+        <link href="https://www.pinecone.io/research/Nearly-Optimal-Attention-Coresets/"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataset Versioning Without the Tools: A Practical Approach for Reproducible Machine Learning]]></title>
+        <id>https://pub.towardsai.net/dataset-versioning-without-the-tools-a-practical-approach-for-reproducible-machine-learning-53532468c941?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/dataset-versioning-without-the-tools-a-practical-approach-for-reproducible-machine-learning-53532468c941?source=rss----98111c9905da---4"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
@@ -169,6 +197,34 @@
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Top 20 AdaBoost Interview Questions & Answers (Part 1 of 2)]]></title>
+        <id>https://pub.towardsai.net/top-20-adaboost-interview-questions-answers-part-1-of-2-470c8e9941ca?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/top-20-adaboost-interview-questions-answers-part-1-of-2-470c8e9941ca?source=rss----98111c9905da---4"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schema Migrations Are Silently Breaking Your ML Models. Synthetic Databases Can Catch It First.]]></title>
+        <id>https://pub.towardsai.net/schema-migrations-are-silently-breaking-your-ml-models-synthetic-databases-can-catch-it-first-a0f1fbe66a81?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/schema-migrations-are-silently-breaking-your-ml-models-synthetic-databases-can-catch-it-first-a0f1fbe66a81?source=rss----98111c9905da---4"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Orchestration Tax: Why Multi-Agent Systems Get Expensive]]></title>
+        <id>https://pub.towardsai.net/the-orchestration-tax-why-multi-agent-systems-get-expensive-724479a85702?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-orchestration-tax-why-multi-agent-systems-get-expensive-724479a85702?source=rss----98111c9905da---4"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[datasette 1.0a29]]></title>
+        <id>https://simonwillison.net/2026/May/12/datasette/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/May/12/datasette/#atom-everything"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan]]></title>
         <id>https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/</id>
         <link href="https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/"/>
@@ -176,23 +232,23 @@
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Async Architectures for Shopify Operations: Patterns That Actually Hold Under Load]]></title>
-        <id>https://dev.to/asad_abdullah_zafar/async-architectures-for-shopify-operations-patterns-that-actually-hold-under-load-4aoe</id>
-        <link href="https://dev.to/asad_abdullah_zafar/async-architectures-for-shopify-operations-patterns-that-actually-hold-under-load-4aoe"/>
+        <title type="html"><![CDATA[Why you keep attacking npm?]]></title>
+        <id>https://dev.to/fromchiapasdev/why-you-keep-attacking-npm-4a53</id>
+        <link href="https://dev.to/fromchiapasdev/why-you-keep-attacking-npm-4a53"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I reduced my AI bill by 90% with 50 lines of code. Here's the trick.]]></title>
-        <id>https://dev.to/subprime2010/i-reduced-my-ai-bill-by-90-with-50-lines-of-code-heres-the-trick-i34</id>
-        <link href="https://dev.to/subprime2010/i-reduced-my-ai-bill-by-90-with-50-lines-of-code-heres-the-trick-i34"/>
+        <title type="html"><![CDATA[Can you stop attacking #npm packages? I'm scared of installing packages. Now it's time to switch 100% to PNPM...]]></title>
+        <id>https://dev.to/fromchiapasdev/can-you-stop-attacking-npm-packages-im-scared-of-installing-packages-now-its-time-to-switch-1aa4</id>
+        <link href="https://dev.to/fromchiapasdev/can-you-stop-attacking-npm-packages-im-scared-of-installing-packages-now-its-time-to-switch-1aa4"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[npx -y create-vite@latest ./ --template vanilla]]></title>
-        <id>https://dev.to/javiercertificadofp_170bc/npx-y-create-vitelatest-template-vanilla-3dc</id>
-        <link href="https://dev.to/javiercertificadofp_170bc/npx-y-create-vitelatest-template-vanilla-3dc"/>
+        <title type="html"><![CDATA[Astro vs Next.js: Which Framework Should You Use in 2026?]]></title>
+        <id>https://dev.to/tonyspiro/astro-vs-nextjs-which-framework-should-you-use-in-2026-5e2h</id>
+        <link href="https://dev.to/tonyspiro/astro-vs-nextjs-which-framework-should-you-use-in-2026-5e2h"/>
         <updated>2026-05-12T16:00:00.000Z</updated>
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
@@ -204,6 +260,27 @@
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[npx -y create-vite@latest ./ --template vanilla]]></title>
+        <id>https://dev.to/javiercertificadofp_170bc/npx-y-create-vitelatest-template-vanilla-3dc</id>
+        <link href="https://dev.to/javiercertificadofp_170bc/npx-y-create-vitelatest-template-vanilla-3dc"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I reduced my AI bill by 90% with 50 lines of code. Here's the trick.]]></title>
+        <id>https://dev.to/subprime2010/i-reduced-my-ai-bill-by-90-with-50-lines-of-code-heres-the-trick-i34</id>
+        <link href="https://dev.to/subprime2010/i-reduced-my-ai-bill-by-90-with-50-lines-of-code-heres-the-trick-i34"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Async Architectures for Shopify Operations: Patterns That Actually Hold Under Load]]></title>
+        <id>https://dev.to/asad_abdullah_zafar/async-architectures-for-shopify-operations-patterns-that-actually-hold-under-load-4aoe</id>
+        <link href="https://dev.to/asad_abdullah_zafar/async-architectures-for-shopify-operations-patterns-that-actually-hold-under-load-4aoe"/>
+        <updated>2026-05-12T16:00:00.000Z</updated>
+        <published>2026-05-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Repeating Square Dots Backgrounds in CSS]]></title>
         <id>https://frontendmasters.com/blog/repeating-square-dots-backgrounds-in-css/</id>
         <link href="https://frontendmasters.com/blog/repeating-square-dots-backgrounds-in-css/"/>
@@ -211,30 +288,9 @@
         <published>2026-05-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Palantir&#8217;s true believers are wearing this jacket]]></title>
-        <id>https://www.theverge.com/report/928026/palantir-chore-coat</id>
-        <link href="https://www.theverge.com/report/928026/palantir-chore-coat"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A million baby monitors and security cameras were easily viewable by hackers]]></title>
-        <id>https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera</id>
-        <link href="https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canvas owner reaches &#8216;agreement&#8217; with hackers to secure stolen data]]></title>
-        <id>https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement</id>
-        <link href="https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon’s ultrafast 30-minute deliveries are now available in more cities]]></title>
-        <id>https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities</id>
-        <link href="https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities"/>
+        <title type="html"><![CDATA[Google&#8217;s Aluminium OS revealed in 16-minute leaked video]]></title>
+        <id>https://www.theverge.com/tech/928598/google-aluminium-os-mystic-leaks-video</id>
+        <link href="https://www.theverge.com/tech/928598/google-aluminium-os-mystic-leaks-video"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
@@ -246,37 +302,30 @@
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google&#8217;s Aluminium OS revealed in 16-minute leaked video]]></title>
-        <id>https://www.theverge.com/tech/928598/google-aluminium-os-mystic-leaks-video</id>
-        <link href="https://www.theverge.com/tech/928598/google-aluminium-os-mystic-leaks-video"/>
+        <title type="html"><![CDATA[Amazon’s ultrafast 30-minute deliveries are now available in more cities]]></title>
+        <id>https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities</id>
+        <link href="https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump Media Scales Back Plans for Its Own Prediction Market]]></title>
-        <id>https://www.wired.com/story/trump-media-scales-back-plans-for-its-own-prediction-market/</id>
-        <link href="https://www.wired.com/story/trump-media-scales-back-plans-for-its-own-prediction-market/"/>
+        <title type="html"><![CDATA[Canvas owner reaches &#8216;agreement&#8217; with hackers to secure stolen data]]></title>
+        <id>https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement</id>
+        <link href="https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Soccer Still Defies Statistical Analysis]]></title>
-        <id>https://www.wired.com/story/book-excerpt-how-to-watch-soccer-like-a-genius-nick-greene/</id>
-        <link href="https://www.wired.com/story/book-excerpt-how-to-watch-soccer-like-a-genius-nick-greene/"/>
+        <title type="html"><![CDATA[A million baby monitors and security cameras were easily viewable by hackers]]></title>
+        <id>https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera</id>
+        <link href="https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Epson Lifestudio Grand Plus Review: Rich Colors, Gemini Support]]></title>
-        <id>https://www.wired.com/review/epson-lifestudio-grand-plus/</id>
-        <link href="https://www.wired.com/review/epson-lifestudio-grand-plus/"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There’s an Unhinged New Video Game About Trump and the Iran War]]></title>
-        <id>https://www.wired.com/story/video-game-trump-iran-war/</id>
-        <link href="https://www.wired.com/story/video-game-trump-iran-war/"/>
+        <title type="html"><![CDATA[Palantir&#8217;s true believers are wearing this jacket]]></title>
+        <id>https://www.theverge.com/report/928026/palantir-chore-coat</id>
+        <link href="https://www.theverge.com/report/928026/palantir-chore-coat"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
@@ -288,79 +337,30 @@
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen]]></title>
-        <id>https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/</id>
-        <link href="https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/"/>
+        <title type="html"><![CDATA[There’s an Unhinged New Video Game About Trump and the Iran War]]></title>
+        <id>https://www.wired.com/story/video-game-trump-iran-war/</id>
+        <link href="https://www.wired.com/story/video-game-trump-iran-war/"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation]]></title>
-        <id>https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/</id>
-        <link href="https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/"/>
+        <title type="html"><![CDATA[Epson Lifestudio Grand Plus Review: Rich Colors, Gemini Support]]></title>
+        <id>https://www.wired.com/review/epson-lifestudio-grand-plus/</id>
+        <link href="https://www.wired.com/review/epson-lifestudio-grand-plus/"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digg tries again, this time as an AI news aggregator]]></title>
-        <id>https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/</id>
-        <link href="https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/"/>
+        <title type="html"><![CDATA[Why Soccer Still Defies Statistical Analysis]]></title>
+        <id>https://www.wired.com/story/book-excerpt-how-to-watch-soccer-like-a-genius-nick-greene/</id>
+        <link href="https://www.wired.com/story/book-excerpt-how-to-watch-soccer-like-a-genius-nick-greene/"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GM just laid off hundreds of IT workers to hire those with stronger AI skills]]></title>
-        <id>https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/</id>
-        <link href="https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Weinberger interviews Paul Graham (2006) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=s2DkhL_Bypo</id>
-        <link href="https://www.youtube.com/watch?v=s2DkhL_Bypo"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unitree GD01: China's $537k rideable transformer robot is now in production]]></title>
-        <id>https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/</id>
-        <link href="https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm Making Strandfall, a Solarpunk Orienteering Larp]]></title>
-        <id>https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/</id>
-        <link href="https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ducklake-SDK: Use DuckLake from Python or Rust without going through DuckDB]]></title>
-        <id>https://github.com/borchero/ducklake-sdk</id>
-        <link href="https://github.com/borchero/ducklake-sdk"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[URLSession to Electrons: how networking works under the hood]]></title>
-        <id>https://blog.jacobstechtavern.com/p/urlsession-to-electrons</id>
-        <link href="https://blog.jacobstechtavern.com/p/urlsession-to-electrons"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDB/DuckLake multi-user in the browser with Read/Write and WebSocket notify]]></title>
-        <id>https://ducklake-with-vgi.query-farm.services/</id>
-        <link href="https://ducklake-with-vgi.query-farm.services/"/>
-        <updated>2026-05-11T16:00:00.000Z</updated>
-        <published>2026-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TanStack NPM Packages Compromised in Ongoing Mini Shai-Hulud Supply-Chain Attack]]></title>
-        <id>https://socket.dev/blog/tanstack-npm-packages-compromised-mini-shai-hulud-supply-chain-attack</id>
-        <link href="https://socket.dev/blog/tanstack-npm-packages-compromised-mini-shai-hulud-supply-chain-attack"/>
+        <title type="html"><![CDATA[Trump Media Scales Back Plans for Its Own Prediction Market]]></title>
+        <id>https://www.wired.com/story/trump-media-scales-back-plans-for-its-own-prediction-market/</id>
+        <link href="https://www.wired.com/story/trump-media-scales-back-plans-for-its-own-prediction-market/"/>
         <updated>2026-05-11T16:00:00.000Z</updated>
         <published>2026-05-11T16:00:00.000Z</published>
     </entry>
