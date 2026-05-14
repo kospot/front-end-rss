@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-14T02:01:20.844Z</updated>
+    <updated>2026-05-14T04:02:34.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -253,115 +253,115 @@
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)]]></title>
-        <id>https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/</id>
-        <link href="https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/"/>
+        <title type="html"><![CDATA[Learning When to Act: Communication-Efficient Reinforcement Learning via Run-Time Assurance]]></title>
+        <id>https://arxiv.org/abs/2605.12561</id>
+        <link href="https://arxiv.org/abs/2605.12561"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why `.filter(Boolean)` Doesn't Narrow Types in TypeScript (and how I built an AST fixer for it)]]></title>
-        <id>https://dev.to/iamkillvish/why-filterboolean-doesnt-narrow-types-in-typescriptand-how-i-built-an-ast-fixer-for-it-3ijh</id>
-        <link href="https://dev.to/iamkillvish/why-filterboolean-doesnt-narrow-types-in-typescriptand-how-i-built-an-ast-fixer-for-it-3ijh"/>
+        <title type="html"><![CDATA[CAWI: Copula-Aligned Weight Initialization for Randomized Neural Networks]]></title>
+        <id>https://arxiv.org/abs/2605.12580</id>
+        <link href="https://arxiv.org/abs/2605.12580"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advanced Techniques for Implementing Singleton Patterns in JS]]></title>
-        <id>https://dev.to/omriluz1/advanced-techniques-for-implementing-singleton-patterns-in-js-2gl1</id>
-        <link href="https://dev.to/omriluz1/advanced-techniques-for-implementing-singleton-patterns-in-js-2gl1"/>
+        <title type="html"><![CDATA[OceanCBM: A Concept Bottleneck Model for Mechanistic Interpretability in Ocean Forecasting]]></title>
+        <id>https://arxiv.org/abs/2605.12639</id>
+        <link href="https://arxiv.org/abs/2605.12639"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A 350-Line GLSL Shader Playground in the Browser — WebGL Init, Line-Number-Aware Errors, and URL-Hash Sharing]]></title>
-        <id>https://dev.to/sendotltd/a-350-line-glsl-shader-playground-in-the-browser-webgl-init-line-number-aware-errors-and-cii</id>
-        <link href="https://dev.to/sendotltd/a-350-line-glsl-shader-playground-in-the-browser-webgl-init-line-number-aware-errors-and-cii"/>
+        <title type="html"><![CDATA[ODRPO: Ordinal Decompositions of Discrete Rewards for Robust Policy Optimization]]></title>
+        <id>https://arxiv.org/abs/2605.12667</id>
+        <link href="https://arxiv.org/abs/2605.12667"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding 'this' in JavaScript]]></title>
-        <id>https://dev.to/swarnaliroy94/understanding-this-in-javascript-3if1</id>
-        <link href="https://dev.to/swarnaliroy94/understanding-this-in-javascript-3if1"/>
+        <title type="html"><![CDATA[A Unified Perspective for Learning Graph Representations Across Multi-Level Abstractions]]></title>
+        <id>https://arxiv.org/abs/2605.12685</id>
+        <link href="https://arxiv.org/abs/2605.12685"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[npm audit ships yesterday's risk. Here's how to measure tomorrow's.]]></title>
-        <id>https://dev.to/piiiico/npm-audit-ships-yesterdays-risk-heres-how-to-measure-tomorrows-5g7a</id>
-        <link href="https://dev.to/piiiico/npm-audit-ships-yesterdays-risk-heres-how-to-measure-tomorrows-5g7a"/>
+        <title type="html"><![CDATA[IGT-OMD: Implicit Gradient Transport for Decision-Focused Learning under Delayed Feedback]]></title>
+        <id>https://arxiv.org/abs/2605.12693</id>
+        <link href="https://arxiv.org/abs/2605.12693"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Take on: React is Overkill: Why Python + HTMX is Domin]]></title>
-        <id>https://dev.to/qingluan/my-take-on-react-is-overkill-why-python-htmx-is-domin-22m6</id>
-        <link href="https://dev.to/qingluan/my-take-on-react-is-overkill-why-python-htmx-is-domin-22m6"/>
+        <title type="html"><![CDATA[Modeling Heterophily in Multiplex Graphs: An Adaptive Approach for Node Classification]]></title>
+        <id>https://arxiv.org/abs/2605.12699</id>
+        <link href="https://arxiv.org/abs/2605.12699"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built ClockAura: A Free Online Timer Platform with React + Vite (My Solo Dev Journey)]]></title>
-        <id>https://dev.to/om_vaghani_9f90828ac042e7/i-built-clockaura-a-free-online-timer-platform-with-react-vite-my-solo-dev-journey-52p0</id>
-        <link href="https://dev.to/om_vaghani_9f90828ac042e7/i-built-clockaura-a-free-online-timer-platform-with-react-vite-my-solo-dev-journey-52p0"/>
+        <title type="html"><![CDATA[UFO: A Domain-Unification-Free Operator Framework for Generalized Operator Learning]]></title>
+        <id>https://arxiv.org/abs/2605.12700</id>
+        <link href="https://arxiv.org/abs/2605.12700"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Expected value calculation for stock positions — a Claude Code skill that does the math]]></title>
-        <id>https://dev.to/tellmefrankie/expected-value-calculation-for-stock-positions-a-claude-code-skill-that-does-the-math-1kk4</id>
-        <link href="https://dev.to/tellmefrankie/expected-value-calculation-for-stock-positions-a-claude-code-skill-that-does-the-math-1kk4"/>
+        <title type="html"><![CDATA[Before the Last Token: Diagnosing Final-Token Safety Probe Failures]]></title>
+        <id>https://arxiv.org/abs/2605.12726</id>
+        <link href="https://arxiv.org/abs/2605.12726"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a free JSON Formatter & Validator with Angular 21 and Monaco Editor]]></title>
-        <id>https://dev.to/fazeelmehar/i-built-a-free-json-formatter-validator-with-angular-21-and-monaco-editor-2ag8</id>
-        <link href="https://dev.to/fazeelmehar/i-built-a-free-json-formatter-validator-with-angular-21-and-monaco-editor-2ag8"/>
+        <title type="html"><![CDATA[Learning with Rare Success but Rich Feedback via Reflection-Enhanced Self-Distillation]]></title>
+        <id>https://arxiv.org/abs/2605.12741</id>
+        <link href="https://arxiv.org/abs/2605.12741"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goethe B1, B2, C1, C2 - GLS Campus Berlin WhatsApp(+371 204 33160)buy TELC B1 Zertifikat,Buy B1 polish proficiency certificate online]]></title>
-        <id>https://dev.to/make_olise_04687327efa4a8/goethe-b1-b2-c1-c2-gls-campus-berlin-whatsapp371-204-33160buy-telc-b1-zertifikatbuy-b1-45d</id>
-        <link href="https://dev.to/make_olise_04687327efa4a8/goethe-b1-b2-c1-c2-gls-campus-berlin-whatsapp371-204-33160buy-telc-b1-zertifikatbuy-b1-45d"/>
+        <title type="html"><![CDATA[Low-Rank Adapters Initialization via Gradient Surgery for Continual Learning]]></title>
+        <id>https://arxiv.org/abs/2605.12752</id>
+        <link href="https://arxiv.org/abs/2605.12752"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discovering JavaScript Functions Through the Lens of Go]]></title>
-        <id>https://dev.to/dixon-o/discovering-javascript-functions-through-the-lens-of-go-9ak</id>
-        <link href="https://dev.to/dixon-o/discovering-javascript-functions-through-the-lens-of-go-9ak"/>
+        <title type="html"><![CDATA[ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery]]></title>
+        <id>https://arxiv.org/abs/2605.12784</id>
+        <link href="https://arxiv.org/abs/2605.12784"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[App+1 | 把笔记软件「装进」浏览器：SilverBullet.md]]></title>
-        <id>https://sspai.com/post/109399</id>
-        <link href="https://sspai.com/post/109399"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning]]></title>
+        <id>https://arxiv.org/abs/2605.12788</id>
+        <link href="https://arxiv.org/abs/2605.12788"/>
+        <updated>2026-05-13T16:00:00.000Z</updated>
+        <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The border is everywhere]]></title>
-        <id>https://www.theverge.com/report/928726/border-security-expo-cbp-ice-dhs-surveillance</id>
-        <link href="https://www.theverge.com/report/928726/border-security-expo-cbp-ice-dhs-surveillance"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Discrete MeanFlow: One-Step Generation via Conditional Transition Kernels]]></title>
+        <id>https://arxiv.org/abs/2605.12805</id>
+        <link href="https://arxiv.org/abs/2605.12805"/>
+        <updated>2026-05-13T16:00:00.000Z</updated>
+        <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google announces its Chromebook successor: the Googlebook]]></title>
-        <id>https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook</id>
-        <link href="https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Neurodata Without Boredom: Benchmarking Agentic AI for Data Reuse]]></title>
+        <id>https://arxiv.org/abs/2605.12808</id>
+        <link href="https://arxiv.org/abs/2605.12808"/>
+        <updated>2026-05-13T16:00:00.000Z</updated>
+        <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta will tell parents when their teens add new interests to their Instagram algorithm]]></title>
-        <id>https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls</id>
-        <link href="https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls"/>
-        <updated>2026-05-12T16:00:00.000Z</updated>
-        <published>2026-05-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[AGOP as Explanation: From Feature Learning to Per-Sample Attribution in Image Classifiers]]></title>
+        <id>https://arxiv.org/abs/2605.12816</id>
+        <link href="https://arxiv.org/abs/2605.12816"/>
+        <updated>2026-05-13T16:00:00.000Z</updated>
+        <published>2026-05-13T16:00:00.000Z</published>
     </entry>
 </feed>
