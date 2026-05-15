@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-14T22:02:06.849Z</updated>
+    <updated>2026-05-15T00:02:29.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses]]></title>
-        <id>https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer</id>
-        <link href="https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer"/>
+        <title type="html"><![CDATA[Use this map to find the data centers in your backyard]]></title>
+        <id>https://www.theverge.com/policy/930629/data-center-policy-map-interactive</id>
+        <link href="https://www.theverge.com/policy/930629/data-center-policy-map-interactive"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
@@ -29,16 +29,9 @@
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Use this map to find the data centers in your backyard]]></title>
-        <id>https://www.theverge.com/policy/930629/data-center-policy-map-interactive</id>
-        <link href="https://www.theverge.com/policy/930629/data-center-policy-map-interactive"/>
-        <updated>2026-05-14T16:00:00.000Z</updated>
-        <published>2026-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta]]></title>
-        <id>https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/</id>
-        <link href="https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/"/>
+        <title type="html"><![CDATA[Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses]]></title>
+        <id>https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer</id>
+        <link href="https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
@@ -50,6 +43,13 @@
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta]]></title>
+        <id>https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/</id>
+        <link href="https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/"/>
+        <updated>2026-05-14T16:00:00.000Z</updated>
+        <published>2026-05-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[YouTube viewers watch 2 billion hours of Shorts on TVs each month]]></title>
         <id>https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/</id>
         <link href="https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/"/>
@@ -57,44 +57,44 @@
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Security Horror Stories]]></title>
-        <id>https://securityhorrors.com/</id>
-        <link href="https://securityhorrors.com/"/>
+        <title type="html"><![CDATA[Honda posts first annual loss on $9B EV writedown, scraps EV sales goals]]></title>
+        <id>https://www.reuters.com/business/autos-transportation/honda-books-first-annual-loss-hit-by-hefty-ev-charge-2026-05-14/</id>
+        <link href="https://www.reuters.com/business/autos-transportation/honda-books-first-annual-loss-hit-by-hefty-ev-charge-2026-05-14/"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Godot WebGPU]]></title>
-        <id>https://godotwebgpu.com/</id>
-        <link href="https://godotwebgpu.com/"/>
+        <title type="html"><![CDATA[The real singularity is the friends we made along the way]]></title>
+        <id>https://geohot.github.io//blog/jekyll/update/2026/05/09/real-singularity.html</id>
+        <link href="https://geohot.github.io//blog/jekyll/update/2026/05/09/real-singularity.html"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interesting that Bing is down/intermittent]]></title>
-        <id>https://news.ycombinator.com/item?id=48141650</id>
-        <link href="https://news.ycombinator.com/item?id=48141650"/>
+        <title type="html"><![CDATA[LLM Policy for Rust Compiler]]></title>
+        <id>https://github.com/rust-lang/rust-forge/pull/1040</id>
+        <link href="https://github.com/rust-lang/rust-forge/pull/1040"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lessons from Building AI Agents for Financial Services]]></title>
-        <id>https://nicolasbustamante.com/blog/lessons-from-building-ai-agents-for-financial-services</id>
-        <link href="https://nicolasbustamante.com/blog/lessons-from-building-ai-agents-for-financial-services"/>
+        <title type="html"><![CDATA[AMD EPYC CPUs Reach Record Server Revenue Share of 46.2%]]></title>
+        <id>https://www.techpowerup.com/349029/amd-epyc-cpus-reach-record-server-revenue-share-of-46-2</id>
+        <link href="https://www.techpowerup.com/349029/amd-epyc-cpus-reach-record-server-revenue-share-of-46-2"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Setting the Standard for Agentic Development]]></title>
-        <id>https://lovable.dev/blog/setting-the-standard-for-agentic-development</id>
-        <link href="https://lovable.dev/blog/setting-the-standard-for-agentic-development"/>
+        <title type="html"><![CDATA[Decisions in the past have long running repercussions]]></title>
+        <id>https://www.distributedthoughts.org/2026-05-07-roman-bridge-still-determines-your-commute/</id>
+        <link href="https://www.distributedthoughts.org/2026-05-07-roman-bridge-still-determines-your-commute/"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TikTok for News with Friends]]></title>
-        <id>https://thedailyscout.com</id>
-        <link href="https://thedailyscout.com"/>
+        <title type="html"><![CDATA[A scientist made a clone of a clone of a clone of a clone]]></title>
+        <id>https://www.nationalgeographic.com/science/article/scientists-reclone-mice+</id>
+        <link href="https://www.nationalgeographic.com/science/article/scientists-reclone-mice+"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
@@ -106,9 +106,72 @@
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TikTok for News with Friends]]></title>
+        <id>https://thedailyscout.com</id>
+        <link href="https://thedailyscout.com"/>
+        <updated>2026-05-14T16:00:00.000Z</updated>
+        <published>2026-05-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting the Standard for Agentic Development]]></title>
+        <id>https://lovable.dev/blog/setting-the-standard-for-agentic-development</id>
+        <link href="https://lovable.dev/blog/setting-the-standard-for-agentic-development"/>
+        <updated>2026-05-14T16:00:00.000Z</updated>
+        <published>2026-05-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons from Building AI Agents for Financial Services]]></title>
+        <id>https://nicolasbustamante.com/blog/lessons-from-building-ai-agents-for-financial-services</id>
+        <link href="https://nicolasbustamante.com/blog/lessons-from-building-ai-agents-for-financial-services"/>
+        <updated>2026-05-14T16:00:00.000Z</updated>
+        <published>2026-05-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interesting that Bing is down/intermittent]]></title>
+        <id>https://news.ycombinator.com/item?id=48141650</id>
+        <link href="https://news.ycombinator.com/item?id=48141650"/>
+        <updated>2026-05-14T16:00:00.000Z</updated>
+        <published>2026-05-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Godot WebGPU]]></title>
+        <id>https://godotwebgpu.com/</id>
+        <link href="https://godotwebgpu.com/"/>
+        <updated>2026-05-14T16:00:00.000Z</updated>
+        <published>2026-05-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Horror Stories]]></title>
+        <id>https://securityhorrors.com/</id>
+        <link href="https://securityhorrors.com/"/>
+        <updated>2026-05-14T16:00:00.000Z</updated>
+        <published>2026-05-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Single Prompt Turns Any AI Chatbot Into a Technical Interview Coach]]></title>
+        <id>https://pub.towardsai.net/this-single-prompt-turns-any-ai-chatbot-into-a-technical-interview-coach-45ebb71c9f1d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-single-prompt-turns-any-ai-chatbot-into-a-technical-interview-coach-45ebb71c9f1d?source=rss----98111c9905da---4"/>
+        <updated>2026-05-14T16:00:00.000Z</updated>
+        <published>2026-05-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 AdaBoost Interview Questions & Answers (Part 2 of 2)]]></title>
+        <id>https://pub.towardsai.net/top-20-adaboost-interview-questions-answers-part-2-of-2-84e6da9a05e0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/top-20-adaboost-interview-questions-answers-part-2-of-2-84e6da9a05e0?source=rss----98111c9905da---4"/>
+        <updated>2026-05-14T16:00:00.000Z</updated>
+        <published>2026-05-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Architecting a Unified Revenue Platform]]></title>
         <id>https://pub.towardsai.net/architecting-a-unified-revenue-platform-08bb62d9f0e7?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/architecting-a-unified-revenue-platform-08bb62d9f0e7?source=rss----98111c9905da---4"/>
+        <updated>2026-05-14T16:00:00.000Z</updated>
+        <published>2026-05-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub availability report: April 2026]]></title>
+        <id>https://github.blog/news-insights/company-news/github-availability-report-april-2026/</id>
+        <link href="https://github.blog/news-insights/company-news/github-availability-report-april-2026/"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
@@ -120,16 +183,16 @@
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing Golt: A Lightweight TypeScript Runtime Powered by Go]]></title>
-        <id>https://dev.to/atrox39/introducing-golt-a-lightweight-typescript-runtime-powered-by-go-i2g</id>
-        <link href="https://dev.to/atrox39/introducing-golt-a-lightweight-typescript-runtime-powered-by-go-i2g"/>
+        <title type="html"><![CDATA[Deobfuscate Javascript using PhantomJS (Headless browser)]]></title>
+        <id>https://dev.to/jose_franciscobustamante/deobfuscate-javascript-using-phantomjs-headless-browser-23o9</id>
+        <link href="https://dev.to/jose_franciscobustamante/deobfuscate-javascript-using-phantomjs-headless-browser-23o9"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I used shadow DOM instead of iframes for inline tooltips]]></title>
-        <id>https://dev.to/palo_alto_ai/why-i-used-shadow-dom-instead-of-iframes-for-inline-tooltips-35no</id>
-        <link href="https://dev.to/palo_alto_ai/why-i-used-shadow-dom-instead-of-iframes-for-inline-tooltips-35no"/>
+        <title type="html"><![CDATA[Rolling a Google Service Account JWT in Node.js without the googleapis package]]></title>
+        <id>https://dev.to/morinaga/rolling-a-google-service-account-jwt-in-nodejs-without-the-googleapis-package-2ac3</id>
+        <link href="https://dev.to/morinaga/rolling-a-google-service-account-jwt-in-nodejs-without-the-googleapis-package-2ac3"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
@@ -141,44 +204,23 @@
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dell and RAMageddon are watering down the Alienware brand]]></title>
-        <id>https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding</id>
-        <link href="https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding"/>
-        <updated>2026-05-13T16:00:00.000Z</updated>
-        <published>2026-05-13T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Why I used shadow DOM instead of iframes for inline tooltips]]></title>
+        <id>https://dev.to/palo_alto_ai/why-i-used-shadow-dom-instead-of-iframes-for-inline-tooltips-35no</id>
+        <link href="https://dev.to/palo_alto_ai/why-i-used-shadow-dom-instead-of-iframes-for-inline-tooltips-35no"/>
+        <updated>2026-05-14T16:00:00.000Z</updated>
+        <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Insta360’s new viewfinder turns the action cam into a retro shooter]]></title>
-        <id>https://www.theverge.com/tech/929125/insta360-360-go-3s-retro-bundle-viewfinder-accessory</id>
-        <link href="https://www.theverge.com/tech/929125/insta360-360-go-3s-retro-bundle-viewfinder-accessory"/>
-        <updated>2026-05-13T16:00:00.000Z</updated>
-        <published>2026-05-13T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Introducing Golt: A Lightweight TypeScript Runtime Powered by Go]]></title>
+        <id>https://dev.to/atrox39/introducing-golt-a-lightweight-typescript-runtime-powered-by-go-i2g</id>
+        <link href="https://dev.to/atrox39/introducing-golt-a-lightweight-typescript-runtime-powered-by-go-i2g"/>
+        <updated>2026-05-14T16:00:00.000Z</updated>
+        <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs]]></title>
-        <id>https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs</id>
-        <link href="https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs"/>
-        <updated>2026-05-13T16:00:00.000Z</updated>
-        <published>2026-05-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Zuckerberg announces &#8216;completely private&#8217; encrypted Meta AI chat]]></title>
-        <id>https://www.theverge.com/tech/929791/meta-ai-incognito-chats</id>
-        <link href="https://www.theverge.com/tech/929791/meta-ai-incognito-chats"/>
-        <updated>2026-05-13T16:00:00.000Z</updated>
-        <published>2026-05-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.]]></title>
-        <id>https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it</id>
-        <link href="https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it"/>
-        <updated>2026-05-13T16:00:00.000Z</updated>
-        <published>2026-05-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dyson put a camera on its purifier so fresh air can follow you around the room]]></title>
-        <id>https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy</id>
-        <link href="https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy"/>
+        <title type="html"><![CDATA[Razer’s Blade 18 is getting a $500 price hike and a new Intel chip]]></title>
+        <id>https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip</id>
+        <link href="https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
@@ -190,65 +232,44 @@
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Razer’s Blade 18 is getting a $500 price hike and a new Intel chip]]></title>
-        <id>https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip</id>
-        <link href="https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip"/>
+        <title type="html"><![CDATA[Dyson put a camera on its purifier so fresh air can follow you around the room]]></title>
+        <id>https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy</id>
+        <link href="https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These Instagram Ads Sure Seem to Be Selling Cocaine Accessories]]></title>
-        <id>https://www.wired.com/story/it-sure-seems-like-these-instagram-ads-think-youre-doing-cocaine-all-wrong/</id>
-        <link href="https://www.wired.com/story/it-sure-seems-like-these-instagram-ads-think-youre-doing-cocaine-all-wrong/"/>
+        <title type="html"><![CDATA[The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.]]></title>
+        <id>https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it</id>
+        <link href="https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s New Reality: Record High Profits. Record Low Morale]]></title>
-        <id>https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/</id>
-        <link href="https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/"/>
+        <title type="html"><![CDATA[Mark Zuckerberg announces &#8216;completely private&#8217; encrypted Meta AI chat]]></title>
+        <id>https://www.theverge.com/tech/929791/meta-ai-incognito-chats</id>
+        <link href="https://www.theverge.com/tech/929791/meta-ai-incognito-chats"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border]]></title>
-        <id>https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/</id>
-        <link href="https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/"/>
+        <title type="html"><![CDATA[Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs]]></title>
+        <id>https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs</id>
+        <link href="https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hungryroot Coupon Codes: 30% Off This May]]></title>
-        <id>https://www.wired.com/story/hungryroot-promo-code/</id>
-        <link href="https://www.wired.com/story/hungryroot-promo-code/"/>
+        <title type="html"><![CDATA[Insta360’s new viewfinder turns the action cam into a retro shooter]]></title>
+        <id>https://www.theverge.com/tech/929125/insta360-360-go-3s-retro-bundle-viewfinder-accessory</id>
+        <link href="https://www.theverge.com/tech/929125/insta360-360-go-3s-retro-bundle-viewfinder-accessory"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your iPhone Gets Stolen. Then the Hacking Begins]]></title>
-        <id>https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/</id>
-        <link href="https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/"/>
-        <updated>2026-05-13T16:00:00.000Z</updated>
-        <published>2026-05-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HelloFresh Meal Kit Review (2026): Vast Options, Good Execution]]></title>
-        <id>https://www.wired.com/review/hellofresh-meal-kit-2026/</id>
-        <link href="https://www.wired.com/review/hellofresh-meal-kit-2026/"/>
-        <updated>2026-05-13T16:00:00.000Z</updated>
-        <published>2026-05-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Klipsch the Fives II Speakers Review for Music, Movies, More (2026)]]></title>
-        <id>https://www.wired.com/review/klipsch-the-fives-ii/</id>
-        <link href="https://www.wired.com/review/klipsch-the-fives-ii/"/>
-        <updated>2026-05-13T16:00:00.000Z</updated>
-        <published>2026-05-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InstaFarm Automated Indoor Microgreens Garden Review: Easy Being Green]]></title>
-        <id>https://www.wired.com/review/instafarm-automated-indoor-microgreens-garden/</id>
-        <link href="https://www.wired.com/review/instafarm-automated-indoor-microgreens-garden/"/>
+        <title type="html"><![CDATA[Dell and RAMageddon are watering down the Alienware brand]]></title>
+        <id>https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding</id>
+        <link href="https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
@@ -260,58 +281,58 @@
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution]]></title>
-        <id>https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/</id>
-        <link href="https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/"/>
+        <title type="html"><![CDATA[InstaFarm Automated Indoor Microgreens Garden Review: Easy Being Green]]></title>
+        <id>https://www.wired.com/review/instafarm-automated-indoor-microgreens-garden/</id>
+        <link href="https://www.wired.com/review/instafarm-automated-indoor-microgreens-garden/"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts]]></title>
-        <id>https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/</id>
-        <link href="https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/"/>
+        <title type="html"><![CDATA[Klipsch the Fives II Speakers Review for Music, Movies, More (2026)]]></title>
+        <id>https://www.wired.com/review/klipsch-the-fives-ii/</id>
+        <link href="https://www.wired.com/review/klipsch-the-fives-ii/"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is what some the world’s largest banks of malware look like stacked as hard drives]]></title>
-        <id>https://techcrunch.com/2026/05/13/this-is-what-some-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/</id>
-        <link href="https://techcrunch.com/2026/05/13/this-is-what-some-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/"/>
+        <title type="html"><![CDATA[HelloFresh Meal Kit Review (2026): Vast Options, Good Execution]]></title>
+        <id>https://www.wired.com/review/hellofresh-meal-kit-2026/</id>
+        <link href="https://www.wired.com/review/hellofresh-meal-kit-2026/"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X launches a History tab for bookmarks, likes, videos, and articles]]></title>
-        <id>https://techcrunch.com/2026/05/13/x-launches-a-history-tab-for-bookmarks-likes-videos-and-articles/</id>
-        <link href="https://techcrunch.com/2026/05/13/x-launches-a-history-tab-for-bookmarks-likes-videos-and-articles/"/>
+        <title type="html"><![CDATA[Your iPhone Gets Stolen. Then the Hacking Begins]]></title>
+        <id>https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/</id>
+        <link href="https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Who trusts Sam Altman?]]></title>
-        <id>https://techcrunch.com/2026/05/13/who-trusts-sam-altman/</id>
-        <link href="https://techcrunch.com/2026/05/13/who-trusts-sam-altman/"/>
+        <title type="html"><![CDATA[Hungryroot Coupon Codes: 30% Off This May]]></title>
+        <id>https://www.wired.com/story/hungryroot-promo-code/</id>
+        <link href="https://www.wired.com/story/hungryroot-promo-code/"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Origin Lab raises $8M to help video game companies sell data to world-model builders]]></title>
-        <id>https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/</id>
-        <link href="https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/"/>
+        <title type="html"><![CDATA[DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border]]></title>
+        <id>https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/</id>
+        <link href="https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is what some of the world’s largest banks of malware look like stacked as hard drives]]></title>
-        <id>https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/</id>
-        <link href="https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/"/>
+        <title type="html"><![CDATA[Meta’s New Reality: Record High Profits. Record Low Morale]]></title>
+        <id>https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/</id>
+        <link href="https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two weeks left: Startup Battlefield 200 applications close May 27]]></title>
-        <id>https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/</id>
-        <link href="https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/"/>
+        <title type="html"><![CDATA[These Instagram Ads Sure Seem to Be Selling Cocaine Accessories]]></title>
+        <id>https://www.wired.com/story/it-sure-seems-like-these-instagram-ads-think-youre-doing-cocaine-all-wrong/</id>
+        <link href="https://www.wired.com/story/it-sure-seems-like-these-instagram-ads-think-youre-doing-cocaine-all-wrong/"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
@@ -323,44 +344,23 @@
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Technical Deep Dive into the New Raycast]]></title>
-        <id>https://www.raycast.com/blog/a-technical-deep-dive-into-the-new-raycast</id>
-        <link href="https://www.raycast.com/blog/a-technical-deep-dive-into-the-new-raycast"/>
+        <title type="html"><![CDATA[Two weeks left: Startup Battlefield 200 applications close May 27]]></title>
+        <id>https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/</id>
+        <link href="https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Requirements analysis: catching requirement bugs before they become code]]></title>
-        <id>https://kiro.dev/blog/deep-spec-analysis/</id>
-        <link href="https://kiro.dev/blog/deep-spec-analysis/"/>
+        <title type="html"><![CDATA[This is what some of the world’s largest banks of malware look like stacked as hard drives]]></title>
+        <id>https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/</id>
+        <link href="https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Computer-Use in Hermes Agent v2.0 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Gx2joHxUhgg</id>
-        <link href="https://www.youtube.com/watch?v=Gx2joHxUhgg"/>
-        <updated>2026-05-13T16:00:00.000Z</updated>
-        <published>2026-05-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Nobel-Winning Psychologist Who Believed He Found the Secret to Happiness]]></title>
-        <id>https://www.nytimes.com/2026/05/12/opinion/decision-making-herbert-simon.html</id>
-        <link href="https://www.nytimes.com/2026/05/12/opinion/decision-making-herbert-simon.html"/>
-        <updated>2026-05-13T16:00:00.000Z</updated>
-        <published>2026-05-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We used an AI as a controlled probe of our alert documentation]]></title>
-        <id>https://glassmkr.com/blog/ai-controlled-probe-of-alert-docs</id>
-        <link href="https://glassmkr.com/blog/ai-controlled-probe-of-alert-docs"/>
-        <updated>2026-05-13T16:00:00.000Z</updated>
-        <published>2026-05-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PgGraph – Graph database superpowers for your existing Postgres data]]></title>
-        <id>https://docs.evokoa.com/pggraph</id>
-        <link href="https://docs.evokoa.com/pggraph"/>
+        <title type="html"><![CDATA[Origin Lab raises $8M to help video game companies sell data to world-model builders]]></title>
+        <id>https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/</id>
+        <link href="https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/"/>
         <updated>2026-05-13T16:00:00.000Z</updated>
         <published>2026-05-13T16:00:00.000Z</published>
     </entry>
