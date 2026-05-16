@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-16T02:02:28.358Z</updated>
+    <updated>2026-05-16T04:02:03.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,114 +43,51 @@
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a machine that can make you rich with math [video]]]></title>
-        <id>https://www.youtube.com/watch?v=2UM4j1_xEs0</id>
-        <link href="https://www.youtube.com/watch?v=2UM4j1_xEs0"/>
+        <title type="html"><![CDATA[I want to create fintech in Latam, someone with exprience can guide me?]]></title>
+        <id>https://news.ycombinator.com/item?id=48156658</id>
+        <link href="https://news.ycombinator.com/item?id=48156658"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YC startup Luel appears to have copied Kled]]></title>
-        <id>https://twitter.com/avipat_/status/2055384102409253056</id>
-        <link href="https://twitter.com/avipat_/status/2055384102409253056"/>
+        <title type="html"><![CDATA[Cloudflare Based URL Shortener Open Source]]></title>
+        <id>https://github.com/clarkhacks/RdRx</id>
+        <link href="https://github.com/clarkhacks/RdRx"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: What Happened to ssh-audit.com?]]></title>
-        <id>https://news.ycombinator.com/item?id=48156006</id>
-        <link href="https://news.ycombinator.com/item?id=48156006"/>
+        <title type="html"><![CDATA[California's Battery Array Is as Powerful as 12 Nuclear Power Plants]]></title>
+        <id>https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/</id>
+        <link href="https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Wyndup – share a live countdown with your podcast guest]]></title>
-        <id>https://wyndup.net</id>
-        <link href="https://wyndup.net"/>
+        <title type="html"><![CDATA[Astrometry – automatic recognition of astronomical images]]></title>
+        <id>https://github.com/dstndstn/astrometry.net</id>
+        <link href="https://github.com/dstndstn/astrometry.net"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elastic Cloud on Kubernetes, simplified: zone awareness, restarts, and mTLS]]></title>
-        <id>https://www.elastic.co/search-labs/blog/elasticsearch-kubernetes-zone-awareness-restarts-mtls</id>
-        <link href="https://www.elastic.co/search-labs/blog/elasticsearch-kubernetes-zone-awareness-restarts-mtls"/>
+        <title type="html"><![CDATA[Show HN: 3D Tetris]]></title>
+        <id>http://www.hb.codes/</id>
+        <link href="http://www.hb.codes/"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jane Street's approach to AI adoption throughout their SDLC [video]]]></title>
-        <id>https://www.youtube.com/watch?v=rUYP4C29yCw</id>
-        <link href="https://www.youtube.com/watch?v=rUYP4C29yCw"/>
+        <title type="html"><![CDATA[The Spirit Airlines Repo Operation [video]]]></title>
+        <id>https://www.youtube.com/watch?v=moEixIux1b0</id>
+        <link href="https://www.youtube.com/watch?v=moEixIux1b0"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Random.website]]></title>
-        <id>https://random.website</id>
-        <link href="https://random.website"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Skeptic: This Business Makes No Sense [video]]]></title>
-        <id>https://www.youtube.com/watch?v=BI96xGqvWII</id>
-        <link href="https://www.youtube.com/watch?v=BI96xGqvWII"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review of Surgery]]></title>
-        <id>https://operativereview.com/subjects/</id>
-        <link href="https://operativereview.com/subjects/"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX accelerates IPO timeline, targets June 12 listing on Nasdaq, sources say]]></title>
-        <id>https://www.reuters.com/world/spacex-accelerates-ipo-timeline-targets-june-11-pricing-nasdaq-2026-05-15/</id>
-        <link href="https://www.reuters.com/world/spacex-accelerates-ipo-timeline-targets-june-11-pricing-nasdaq-2026-05-15/"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scalable GPU Acceleration of Scalar Functions in Analytical Databases [pdf]]]></title>
-        <id>https://www.vldb.org/pvldb/vol19/p1441-rajan.pdf</id>
-        <link href="https://www.vldb.org/pvldb/vol19/p1441-rajan.pdf"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Coding Harness Behind GitHub Copilot in VS Code]]></title>
-        <id>https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode</id>
-        <link href="https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonoeazy – Validating a short-form audio platform. Experiment 1: "I love you"]]></title>
-        <id>https://sonoeazy.com/</id>
-        <link href="https://sonoeazy.com/"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo driverless cars become trapped in Atlanta suburb after glitch]]></title>
-        <id>https://www.bbc.com/news/videos/czx20g00ly1o</id>
-        <link href="https://www.bbc.com/news/videos/czx20g00ly1o"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google says generative AI visibility is still SEO]]></title>
-        <id>https://developers.google.com/search/docs/fundamentals/ai-optimization-guide</id>
-        <link href="https://developers.google.com/search/docs/fundamentals/ai-optimization-guide"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why surveillance pricing bans are suddenly gaining traction this year]]></title>
-        <id>https://calmatters.org/economy/technology/2026/05/why-surveillance-pricing-bans-are-suddenly-gaining-traction-this-year-and-not-just-in-california/</id>
-        <link href="https://calmatters.org/economy/technology/2026/05/why-surveillance-pricing-bans-are-suddenly-gaining-traction-this-year-and-not-just-in-california/"/>
+        <title type="html"><![CDATA[When Knowledge Is Cheap, Insight Is Everything: Jevons Paradox]]></title>
+        <id>https://twitter.com/ZoharAtkins/status/2054168204658815070</id>
+        <link href="https://twitter.com/ZoharAtkins/status/2054168204658815070"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
@@ -162,9 +99,114 @@
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When Knowledge Is Cheap, Insight Is Everything: Jevons Paradox]]></title>
-        <id>https://twitter.com/ZoharAtkins/status/2054168204658815070</id>
-        <link href="https://twitter.com/ZoharAtkins/status/2054168204658815070"/>
+        <title type="html"><![CDATA[Why surveillance pricing bans are suddenly gaining traction this year]]></title>
+        <id>https://calmatters.org/economy/technology/2026/05/why-surveillance-pricing-bans-are-suddenly-gaining-traction-this-year-and-not-just-in-california/</id>
+        <link href="https://calmatters.org/economy/technology/2026/05/why-surveillance-pricing-bans-are-suddenly-gaining-traction-this-year-and-not-just-in-california/"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google says generative AI visibility is still SEO]]></title>
+        <id>https://developers.google.com/search/docs/fundamentals/ai-optimization-guide</id>
+        <link href="https://developers.google.com/search/docs/fundamentals/ai-optimization-guide"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waymo driverless cars become trapped in Atlanta suburb after glitch]]></title>
+        <id>https://www.bbc.com/news/videos/czx20g00ly1o</id>
+        <link href="https://www.bbc.com/news/videos/czx20g00ly1o"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonoeazy – Validating a short-form audio platform. Experiment 1: "I love you"]]></title>
+        <id>https://sonoeazy.com/</id>
+        <link href="https://sonoeazy.com/"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Coding Harness Behind GitHub Copilot in VS Code]]></title>
+        <id>https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode</id>
+        <link href="https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scalable GPU Acceleration of Scalar Functions in Analytical Databases [pdf]]]></title>
+        <id>https://www.vldb.org/pvldb/vol19/p1441-rajan.pdf</id>
+        <link href="https://www.vldb.org/pvldb/vol19/p1441-rajan.pdf"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX accelerates IPO timeline, targets June 12 listing on Nasdaq, sources say]]></title>
+        <id>https://www.reuters.com/world/spacex-accelerates-ipo-timeline-targets-june-11-pricing-nasdaq-2026-05-15/</id>
+        <link href="https://www.reuters.com/world/spacex-accelerates-ipo-timeline-targets-june-11-pricing-nasdaq-2026-05-15/"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review of Surgery]]></title>
+        <id>https://operativereview.com/subjects/</id>
+        <link href="https://operativereview.com/subjects/"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Skeptic: This Business Makes No Sense [video]]]></title>
+        <id>https://www.youtube.com/watch?v=BI96xGqvWII</id>
+        <link href="https://www.youtube.com/watch?v=BI96xGqvWII"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random.website]]></title>
+        <id>https://random.website</id>
+        <link href="https://random.website"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jane Street's approach to AI adoption throughout their SDLC [video]]]></title>
+        <id>https://www.youtube.com/watch?v=rUYP4C29yCw</id>
+        <link href="https://www.youtube.com/watch?v=rUYP4C29yCw"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elastic Cloud on Kubernetes, simplified: zone awareness, restarts, and mTLS]]></title>
+        <id>https://www.elastic.co/search-labs/blog/elasticsearch-kubernetes-zone-awareness-restarts-mtls</id>
+        <link href="https://www.elastic.co/search-labs/blog/elasticsearch-kubernetes-zone-awareness-restarts-mtls"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Wyndup – share a live countdown with your podcast guest]]></title>
+        <id>https://wyndup.net</id>
+        <link href="https://wyndup.net"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What Happened to ssh-audit.com?]]></title>
+        <id>https://news.ycombinator.com/item?id=48156006</id>
+        <link href="https://news.ycombinator.com/item?id=48156006"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YC startup Luel appears to have copied Kled]]></title>
+        <id>https://twitter.com/avipat_/status/2055384102409253056</id>
+        <link href="https://twitter.com/avipat_/status/2055384102409253056"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a machine that can make you rich with math [video]]]></title>
+        <id>https://www.youtube.com/watch?v=2UM4j1_xEs0</id>
+        <link href="https://www.youtube.com/watch?v=2UM4j1_xEs0"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[5 Express.js Middleware Patterns You'll Use in Every App]]></title>
         <id>https://dev.to/armorbreak/5-expressjs-middleware-patterns-youll-use-in-every-app-2k31</id>
         <link href="https://dev.to/armorbreak/5-expressjs-middleware-patterns-youll-use-in-every-app-2k31"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Error Handling in Node.js: The Missing Guide]]></title>
-        <id>https://dev.to/armorbreak/error-handling-in-nodejs-the-missing-guide-4ll6</id>
-        <link href="https://dev.to/armorbreak/error-handling-in-nodejs-the-missing-guide-4ll6"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Number Tricks Every Developer Should Know]]></title>
-        <id>https://dev.to/armorbreak/javascript-number-tricks-every-developer-should-know-3m0l</id>
-        <link href="https://dev.to/armorbreak/javascript-number-tricks-every-developer-should-know-3m0l"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Map, Set, WeakMap, and WeakSet: When to Use Which]]></title>
-        <id>https://dev.to/armorbreak/javascript-map-set-weakmap-and-weakset-when-to-use-which-10oh</id>
-        <link href="https://dev.to/armorbreak/javascript-map-set-weakmap-and-weakset-when-to-use-which-10oh"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript String Methods: The Ultimate Cheat Sheet]]></title>
-        <id>https://dev.to/armorbreak/javascript-string-methods-the-ultimate-cheat-sheet-3eeg</id>
-        <link href="https://dev.to/armorbreak/javascript-string-methods-the-ultimate-cheat-sheet-3eeg"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working with Dates and Times in JavaScript (2026)]]></title>
-        <id>https://dev.to/armorbreak/working-with-dates-and-times-in-javascript-2026-1ghb</id>
-        <link href="https://dev.to/armorbreak/working-with-dates-and-times-in-javascript-2026-1ghb"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Object Patterns: From Basics to Advanced]]></title>
-        <id>https://dev.to/armorbreak/javascript-object-patterns-from-basics-to-advanced-1kdi</id>
-        <link href="https://dev.to/armorbreak/javascript-object-patterns-from-basics-to-advanced-1kdi"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>

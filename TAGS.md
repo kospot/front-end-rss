@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-16 10:02:27。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-16 12:02:03。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -642,12 +642,12 @@ https://faxoffice1987.com
 
 - [【arXiv ML】Rethinking-Data-Curation-in-LLM-Training:-Online-Reweighting-Offers-Better-Generalization-than-Offline-Methods](https://arxiv.org/abs/2605.05227)
 - [【Hacker News】Google-now-offers-up-to-$1.5M-for-some-Android-exploits](https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/)
-- [【Hacker News】GameStop-Is-Offering-to-Buy-eBay-for-$56B,-CEO-Ryan-Cohen-Says](https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a)
 - [【Hacker News】Midori,-the-first-browser-to-offer-a-VPN-with-Mesh-technology](https://astian.org/midori-en/performance-adblock-and-more-in-midori-11-7-1/)
+- [【Hacker News】GameStop-Is-Offering-to-Buy-eBay-for-$56B,-CEO-Ryan-Cohen-Says](https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a)
 - [【Hacker News】GameStop-Preparing-Offer-for-eBay](https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de)
 - [【Hacker News】Amazon-is-offering-new-OpenAI-products-on-AWS](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/)
-- [【Hacker News】Microsoft-offers-voluntary-employee-buyout/retirement-for-7%-of-U.S.-workforce](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html)
 - [【Hacker News】Rippling-exposed-your-SSN/banking-to-anyone-who-sent-you-an-offer-letter](https://infosec.exchange/@SecureOwl/116415101610028363)
+- [【Hacker News】Microsoft-offers-voluntary-employee-buyout/retirement-for-7%-of-U.S.-workforce](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html)
 - [【Hacker News】Light-activated-material-offers-new-approach-to-carbon-dioxide-conversion](https://phys.org/news/2026-03-material-approach-carbon-dioxide-conversion.html)
 - [【TechCrunch】Anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares](https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/)
 - [【TechCrunch】In-Harvard-study,-AI-offered-more-accurate-emergency-room-diagnoses-than-two-human-doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)
