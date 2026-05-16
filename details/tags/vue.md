@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-16 23:02:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-17 06:00:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -11,10 +11,10 @@
 - [2026-05-13-How-I-Built-a-90+-Tools-Developer-Platform-with-Vue-3-+-SSG](https://dev.to/ruoyexi_pan_9ef6adab51ba8/how-i-built-a-90-tools-developer-platform-with-vue-3-ssg-5def) 
 - [2026-05-11-Using-Vue-in-Laravel-Without-Inertia](https://dev.to/raflizocky_/using-vue-in-laravel-without-inertia-2p47) 
 - [2026-04-26-Vue-3-Google-Login-OAuth-–-Quick-Setup-with-vue3-google-login](https://dev.to/devbaji/vue-3-google-login-oauth-quick-setup-with-vue3-google-login-2m28) 
-- [2026-04-22-Cursor-Rules-for-Vue.js:-Composition-API-Patterns-That-Scale](https://dev.to/olivia_craft/cursor-rules-for-vuejs-composition-api-patterns-that-scale-5col) 
 - [2026-04-22-What-Is-Vue-3-Vapor-Mode?!](https://dev.to/parsajiravand/what-is-vue-3-vapor-mode-3k2o) 
-- [2026-04-20-Stop-Hardcoding-Layouts-in-Vue-—-Use-Route-Meta-Like-a-Pro](https://dev.to/kais_sraieb/stop-hardcoding-layouts-in-vue-use-route-meta-like-a-pro-49on) 
+- [2026-04-22-Cursor-Rules-for-Vue.js:-Composition-API-Patterns-That-Scale](https://dev.to/olivia_craft/cursor-rules-for-vuejs-composition-api-patterns-that-scale-5col) 
 - [2026-04-20-Signals-in-Vue-II:-Interop,-Async-Patterns,-SSR,-and-Common-Pitfalls](https://dev.to/luciano0322/signals-in-vue-ii-interop-async-patterns-ssr-and-common-pitfalls-284d) 
+- [2026-04-20-Stop-Hardcoding-Layouts-in-Vue-—-Use-Route-Meta-Like-a-Pro](https://dev.to/kais_sraieb/stop-hardcoding-layouts-in-vue-use-route-meta-like-a-pro-49on) 
 - [2026-04-29--SVAR-Vue-Gantt---Build-custom-Gantt-charts-for-project-scheduling-](
 https://github.com/svar-widgets/vue-gantt
 ) 
@@ -36,7 +36,6 @@ https://github.com/svar-widgets/vue-gantt
 - [2026-04-28-Leveraging-Human-Feedback-for-Semantically-Relevant-Skill-Discovery](https://arxiv.org/abs/2604.24127) 
 - [2026-04-28-Stabilizing-Efficient-Reasoning-with-Step-Level-Advantage-Selection](https://arxiv.org/abs/2604.24003) 
 - [2026-04-21-Demonstrating-Real-Advantage-of-Machine-Learning-Enhanced-Monte-Carlo-for-Combinatorial-Optimization](https://arxiv.org/abs/2510.19544) 
-- [2026-04-17-GFT:-From-Imitation-to-Reward-Fine-Tuning-with-Unbiased-Group-Advantages-and-Dynamic-Coefficient-Rectification](https://arxiv.org/abs/2604.14258) 
 - [2026-05-06-How-frontier-enterprises-are-building-an-AI-advantage](https://openai.com/index/introducing-b2b-signals) 
 - [2026-05-16-Why-vibe-coding-is-becoming-an-SEO-advantage](https://searchengineland.com/vibe-coding-seo-advantage-477069) 
 - [2026-05-15-Britain's-latest-civil-servant-is-a-chatbot-trained-on-Gov.uk-misery](https://www.theregister.com/public-sector/2026/05/15/britains-latest-civil-servant-is-a-chatbot-trained-on-govuk-misery/5240955) 
@@ -46,6 +45,4 @@ https://github.com/svar-widgets/vue-gantt
 - [2026-04-21-Fedizen.eu-Delivers-All-Relevant-Fediverse-News](https://fedizen.eu/#Fedizen) 
 - [2026-04-20-The-Interpretive-Advantage-video](https://www.youtube.com/watch?v=-6no6N3i9Tg) 
 - [2026-04-18-Graph-RAG-finds-what's-similar.-We-should-aim-for-what's-relevant](https://github.com/FlowElement-ai/m_flow) 
-- [2026-04-17-We're-AvantiRMG-–-helping-practices-profit-and-increase-revenue](https://avantirmg.com/) 
 - [2026-05-07-Barry-Diller-trusts-Sam-Altman.-But-‘trust-is-irrelevant’-as-AGI-nears,-he-says.](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/) 
-- [2026-04-17-Coolfly-Aura-Review:-More-Angles,-Fewer-Advantages](https://www.wired.com/review/coolfly-aura-smart-bird-feeder/) 
