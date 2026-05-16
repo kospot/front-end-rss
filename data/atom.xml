@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-15T22:01:26.318Z</updated>
+    <updated>2026-05-16T00:02:39.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The Analogue 3D is finally getting save states]]></title>
-        <id>https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state</id>
-        <link href="https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state"/>
+        <title type="html"><![CDATA[AI radio hosts demonstrate why AI can’t be trusted alone]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
@@ -29,9 +29,9 @@
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI radio hosts demonstrate why AI can’t be trusted alone]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies"/>
+        <title type="html"><![CDATA[The Analogue 3D is finally getting save states]]></title>
+        <id>https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state</id>
+        <link href="https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
@@ -120,16 +120,9 @@
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Generic HNSW Index in Rust: When Cosine Distance Isn’t Enough]]></title>
-        <id>https://pub.towardsai.net/building-a-generic-hnsw-index-in-rust-when-cosine-distance-isnt-enough-0679e46f9075?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-a-generic-hnsw-index-in-rust-when-cosine-distance-isnt-enough-0679e46f9075?source=rss----98111c9905da---4"/>
-        <updated>2026-05-15T16:00:00.000Z</updated>
-        <published>2026-05-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GRU: The Simpler Successor to LSTM That Quietly Took Over Sequence Modeling]]></title>
-        <id>https://pub.towardsai.net/gru-explained-8c7eb590c701?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/gru-explained-8c7eb590c701?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Beyond the Jupyter Notebook: How to Build a Dockerized RAG Pipeline in Python using Haystack.]]></title>
+        <id>https://pub.towardsai.net/beyond-the-jupyter-notebook-how-to-build-a-dockerized-rag-pipeline-in-python-using-haystack-0f213864ce05?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beyond-the-jupyter-notebook-how-to-build-a-dockerized-rag-pipeline-in-python-using-haystack-0f213864ce05?source=rss----98111c9905da---4"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
@@ -141,51 +134,93 @@
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Array Methods: The Complete Visual Guide]]></title>
-        <id>https://dev.to/armorbreak/javascript-array-methods-the-complete-visual-guide-3a75</id>
-        <link href="https://dev.to/armorbreak/javascript-array-methods-the-complete-visual-guide-3a75"/>
+        <title type="html"><![CDATA[GRU: The Simpler Successor to LSTM That Quietly Took Over Sequence Modeling]]></title>
+        <id>https://pub.towardsai.net/gru-explained-8c7eb590c701?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/gru-explained-8c7eb590c701?source=rss----98111c9905da---4"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Express.js Middleware Patterns You'll Use in Every App]]></title>
-        <id>https://dev.to/armorbreak/5-expressjs-middleware-patterns-youll-use-in-every-app-4c4k</id>
-        <link href="https://dev.to/armorbreak/5-expressjs-middleware-patterns-youll-use-in-every-app-4c4k"/>
+        <title type="html"><![CDATA[Building a Generic HNSW Index in Rust: When Cosine Distance Isn’t Enough]]></title>
+        <id>https://pub.towardsai.net/building-a-generic-hnsw-index-in-rust-when-cosine-distance-isnt-enough-0679e46f9075?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-a-generic-hnsw-index-in-rust-when-cosine-distance-isnt-enough-0679e46f9075?source=rss----98111c9905da---4"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 TypeScript Patterns I Use in Every Project]]></title>
-        <id>https://dev.to/armorbreak/7-typescript-patterns-i-use-in-every-project-4i24</id>
-        <link href="https://dev.to/armorbreak/7-typescript-patterns-i-use-in-every-project-4i24"/>
+        <title type="html"><![CDATA[I Published My First npm Package: Here's Everything I Wish I Knew]]></title>
+        <id>https://dev.to/armorbreak/i-published-my-first-npm-package-heres-everything-i-wish-i-knew-1kmi</id>
+        <link href="https://dev.to/armorbreak/i-published-my-first-npm-package-heres-everything-i-wish-i-knew-1kmi"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fallowmanager5 Restopas]]></title>
-        <id>https://dev.to/tileil/fallowmanager5-restopas-30lo</id>
-        <link href="https://dev.to/tileil/fallowmanager5-restopas-30lo"/>
+        <title type="html"><![CDATA[JavaScript String Methods: The Ultimate Cheat Sheet]]></title>
+        <id>https://dev.to/armorbreak/javascript-string-methods-the-ultimate-cheat-sheet-4ak9</id>
+        <link href="https://dev.to/armorbreak/javascript-string-methods-the-ultimate-cheat-sheet-4ak9"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 Hidden Security Vulnerabilities in Modern Node.js Applications]]></title>
-        <id>https://dev.to/saadahmed/7-hidden-security-vulnerabilities-in-modern-nodejs-applications-8f3</id>
-        <link href="https://dev.to/saadahmed/7-hidden-security-vulnerabilities-in-modern-nodejs-applications-8f3"/>
+        <title type="html"><![CDATA[I built an unofficial Google Calendar desktop widget — works on Windows, Mac, and Linux]]></title>
+        <id>https://dev.to/fayazbuilds_n5f2t7/i-built-an-unofficial-google-calendar-desktop-widget-works-on-windows-mac-and-linux-3h86</id>
+        <link href="https://dev.to/fayazbuilds_n5f2t7/i-built-an-unofficial-google-calendar-desktop-widget-works-on-windows-mac-and-linux-3h86"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep Dive: TanStack npm supply-chain compromise]]></title>
-        <id>https://dev.to/shrutikapoor08/deep-dive-tanstack-npm-supply-chain-compromise-399i</id>
-        <link href="https://dev.to/shrutikapoor08/deep-dive-tanstack-npm-supply-chain-compromise-399i"/>
+        <title type="html"><![CDATA[JavaScript Modules: The 2026 Guide (ESM vs CommonJS)]]></title>
+        <id>https://dev.to/armorbreak/javascript-modules-the-2026-guide-esm-vs-commonjs-21fn</id>
+        <link href="https://dev.to/armorbreak/javascript-modules-the-2026-guide-esm-vs-commonjs-21fn"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Published My First npm Package — Here's Everything I Wish I Knew]]></title>
-        <id>https://dev.to/armorbreak/i-published-my-first-npm-package-heres-everything-i-wish-i-knew-153e</id>
-        <link href="https://dev.to/armorbreak/i-published-my-first-npm-package-heres-everything-i-wish-i-knew-153e"/>
+        <title type="html"><![CDATA[Error Handling in JavaScript: The Complete Guide]]></title>
+        <id>https://dev.to/armorbreak/error-handling-in-javascript-the-complete-guide-3f2e</id>
+        <link href="https://dev.to/armorbreak/error-handling-in-javascript-the-complete-guide-3f2e"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Object Patterns: From Basics to Advanced]]></title>
+        <id>https://dev.to/armorbreak/javascript-object-patterns-from-basics-to-advanced-1kdi</id>
+        <link href="https://dev.to/armorbreak/javascript-object-patterns-from-basics-to-advanced-1kdi"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Dates and Times in JavaScript (2026)]]></title>
+        <id>https://dev.to/armorbreak/working-with-dates-and-times-in-javascript-2026-1ghb</id>
+        <link href="https://dev.to/armorbreak/working-with-dates-and-times-in-javascript-2026-1ghb"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript String Methods: The Ultimate Cheat Sheet]]></title>
+        <id>https://dev.to/armorbreak/javascript-string-methods-the-ultimate-cheat-sheet-3eeg</id>
+        <link href="https://dev.to/armorbreak/javascript-string-methods-the-ultimate-cheat-sheet-3eeg"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Map, Set, WeakMap, and WeakSet: When to Use Which]]></title>
+        <id>https://dev.to/armorbreak/javascript-map-set-weakmap-and-weakset-when-to-use-which-10oh</id>
+        <link href="https://dev.to/armorbreak/javascript-map-set-weakmap-and-weakset-when-to-use-which-10oh"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Number Tricks Every Developer Should Know]]></title>
+        <id>https://dev.to/armorbreak/javascript-number-tricks-every-developer-should-know-3m0l</id>
+        <link href="https://dev.to/armorbreak/javascript-number-tricks-every-developer-should-know-3m0l"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error Handling in Node.js: The Missing Guide]]></title>
+        <id>https://dev.to/armorbreak/error-handling-in-nodejs-the-missing-guide-4ll6</id>
+        <link href="https://dev.to/armorbreak/error-handling-in-nodejs-the-missing-guide-4ll6"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
@@ -197,9 +232,51 @@
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Error Handling in Node.js: The Missing Guide]]></title>
-        <id>https://dev.to/armorbreak/error-handling-in-nodejs-the-missing-guide-4ll6</id>
-        <link href="https://dev.to/armorbreak/error-handling-in-nodejs-the-missing-guide-4ll6"/>
+        <title type="html"><![CDATA[I Published My First npm Package — Here's Everything I Wish I Knew]]></title>
+        <id>https://dev.to/armorbreak/i-published-my-first-npm-package-heres-everything-i-wish-i-knew-153e</id>
+        <link href="https://dev.to/armorbreak/i-published-my-first-npm-package-heres-everything-i-wish-i-knew-153e"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Dive: TanStack npm supply-chain compromise]]></title>
+        <id>https://dev.to/shrutikapoor08/deep-dive-tanstack-npm-supply-chain-compromise-399i</id>
+        <link href="https://dev.to/shrutikapoor08/deep-dive-tanstack-npm-supply-chain-compromise-399i"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Hidden Security Vulnerabilities in Modern Node.js Applications]]></title>
+        <id>https://dev.to/saadahmed/7-hidden-security-vulnerabilities-in-modern-nodejs-applications-8f3</id>
+        <link href="https://dev.to/saadahmed/7-hidden-security-vulnerabilities-in-modern-nodejs-applications-8f3"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fallowmanager5 Restopas]]></title>
+        <id>https://dev.to/tileil/fallowmanager5-restopas-30lo</id>
+        <link href="https://dev.to/tileil/fallowmanager5-restopas-30lo"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 TypeScript Patterns I Use in Every Project]]></title>
+        <id>https://dev.to/armorbreak/7-typescript-patterns-i-use-in-every-project-4i24</id>
+        <link href="https://dev.to/armorbreak/7-typescript-patterns-i-use-in-every-project-4i24"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Express.js Middleware Patterns You'll Use in Every App]]></title>
+        <id>https://dev.to/armorbreak/5-expressjs-middleware-patterns-youll-use-in-every-app-4c4k</id>
+        <link href="https://dev.to/armorbreak/5-expressjs-middleware-patterns-youll-use-in-every-app-4c4k"/>
+        <updated>2026-05-15T16:00:00.000Z</updated>
+        <published>2026-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Array Methods: The Complete Visual Guide]]></title>
+        <id>https://dev.to/armorbreak/javascript-array-methods-the-complete-visual-guide-3a75</id>
+        <link href="https://dev.to/armorbreak/javascript-array-methods-the-complete-visual-guide-3a75"/>
         <updated>2026-05-15T16:00:00.000Z</updated>
         <published>2026-05-15T16:00:00.000Z</published>
     </entry>
@@ -218,30 +295,9 @@
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI research papers are getting better, and it’s a big problem for scientists]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem"/>
-        <updated>2026-05-14T16:00:00.000Z</updated>
-        <published>2026-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses]]></title>
-        <id>https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer</id>
-        <link href="https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer"/>
-        <updated>2026-05-14T16:00:00.000Z</updated>
-        <published>2026-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices]]></title>
-        <id>https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale"/>
-        <updated>2026-05-14T16:00:00.000Z</updated>
-        <published>2026-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use this map to find the data centers in your backyard]]></title>
-        <id>https://www.theverge.com/policy/930629/data-center-policy-map-interactive</id>
-        <link href="https://www.theverge.com/policy/930629/data-center-policy-map-interactive"/>
+        <title type="html"><![CDATA[The funniest thing about the Trump arcade game is how good it is]]></title>
+        <id>https://www.theverge.com/games/930605/operation-epic-fury-strait-to-hell-the-secret-handshake-trump</id>
+        <link href="https://www.theverge.com/games/930605/operation-epic-fury-strait-to-hell-the-secret-handshake-trump"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
@@ -253,44 +309,30 @@
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The funniest thing about the Trump arcade game is how good it is]]></title>
-        <id>https://www.theverge.com/games/930605/operation-epic-fury-strait-to-hell-the-secret-handshake-trump</id>
-        <link href="https://www.theverge.com/games/930605/operation-epic-fury-strait-to-hell-the-secret-handshake-trump"/>
+        <title type="html"><![CDATA[Use this map to find the data centers in your backyard]]></title>
+        <id>https://www.theverge.com/policy/930629/data-center-policy-map-interactive</id>
+        <link href="https://www.theverge.com/policy/930629/data-center-policy-map-interactive"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Companies Keep Slashing Employees’ Benefits for the Worst Reasons]]></title>
-        <id>https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/</id>
-        <link href="https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/"/>
+        <title type="html"><![CDATA[Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices]]></title>
+        <id>https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gantri’s 3D-Printed Lamps Are Going Wireless]]></title>
-        <id>https://www.wired.com/story/gantri-3d-printed-lamps-are-going-wireless/</id>
-        <link href="https://www.wired.com/story/gantri-3d-printed-lamps-are-going-wireless/"/>
+        <title type="html"><![CDATA[Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses]]></title>
+        <id>https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer</id>
+        <link href="https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Centris 2 Folding Ebike Review: Compact, Sturdy, Budget-Friendly]]></title>
-        <id>https://www.wired.com/review/buzz-bicycles-centris-2/</id>
-        <link href="https://www.wired.com/review/buzz-bicycles-centris-2/"/>
-        <updated>2026-05-14T16:00:00.000Z</updated>
-        <published>2026-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Total Wireless Promo Codes & Deals: 50% Off Select Plans]]></title>
-        <id>https://www.wired.com/story/total-wireless-promo-code/</id>
-        <link href="https://www.wired.com/story/total-wireless-promo-code/"/>
-        <updated>2026-05-14T16:00:00.000Z</updated>
-        <published>2026-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories]]></title>
-        <id>https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/</id>
-        <link href="https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/"/>
+        <title type="html"><![CDATA[AI research papers are getting better, and it’s a big problem for scientists]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
@@ -302,65 +344,23 @@
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube viewers watch 2 billion hours of Shorts on TVs each month]]></title>
-        <id>https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/</id>
-        <link href="https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/"/>
+        <title type="html"><![CDATA[Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories]]></title>
+        <id>https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Achieve Serverless GPUs]]></title>
-        <id>https://modal.com/blog/truly-serverless-gpus</id>
-        <link href="https://modal.com/blog/truly-serverless-gpus"/>
+        <title type="html"><![CDATA[Total Wireless Promo Codes & Deals: 50% Off Select Plans]]></title>
+        <id>https://www.wired.com/story/total-wireless-promo-code/</id>
+        <link href="https://www.wired.com/story/total-wireless-promo-code/"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unlocking Asynchronicity in Continuous Batching]]></title>
-        <id>https://huggingface.co/blog/continuous_async</id>
-        <link href="https://huggingface.co/blog/continuous_async"/>
-        <updated>2026-05-14T16:00:00.000Z</updated>
-        <published>2026-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AST-outline: AST-based code-navigation CLI]]></title>
-        <id>https://github.com/aeroxy/ast-outline</id>
-        <link href="https://github.com/aeroxy/ast-outline"/>
-        <updated>2026-05-14T16:00:00.000Z</updated>
-        <published>2026-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Secret Management Right in Kubernetes]]></title>
-        <id>https://cymatic.ie/blog/kubernetes-secret-management/</id>
-        <link href="https://cymatic.ie/blog/kubernetes-secret-management/"/>
-        <updated>2026-05-14T16:00:00.000Z</updated>
-        <published>2026-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI makes weak engineers less harmful]]></title>
-        <id>https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/</id>
-        <link href="https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/"/>
-        <updated>2026-05-14T16:00:00.000Z</updated>
-        <published>2026-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Chronology of Science and Discovery 2.0 (2024)]]></title>
-        <id>https://invention.cards/</id>
-        <link href="https://invention.cards/"/>
-        <updated>2026-05-14T16:00:00.000Z</updated>
-        <published>2026-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medium's JavaScript Bloat, Gibberish Semantics, and Accessibility Failings]]></title>
-        <id>https://medium.com/codex/mediums-javascript-bloat-gibberish-semantics-and-accessibility-failings-130c9c657206</id>
-        <link href="https://medium.com/codex/mediums-javascript-bloat-gibberish-semantics-and-accessibility-failings-130c9c657206"/>
-        <updated>2026-05-14T16:00:00.000Z</updated>
-        <published>2026-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[buffa – zero-copy Protobuf lib for Rust]]></title>
-        <id>https://github.com/anthropics/buffa</id>
-        <link href="https://github.com/anthropics/buffa"/>
+        <title type="html"><![CDATA[Centris 2 Folding Ebike Review: Compact, Sturdy, Budget-Friendly]]></title>
+        <id>https://www.wired.com/review/buzz-bicycles-centris-2/</id>
+        <link href="https://www.wired.com/review/buzz-bicycles-centris-2/"/>
         <updated>2026-05-14T16:00:00.000Z</updated>
         <published>2026-05-14T16:00:00.000Z</published>
     </entry>
