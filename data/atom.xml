@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-17T10:02:47.997Z</updated>
+    <updated>2026-05-17T13:02:39.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[Snap, YouTube, and TikTok settle suit over harm to students]]></title>
         <id>https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools</id>
         <link href="https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools"/>
+        <updated>2026-05-16T16:00:00.000Z</updated>
+        <published>2026-05-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use]]></title>
+        <id>https://www.wired.com/review/oto-smart-sprinkler/</id>
+        <link href="https://www.wired.com/review/oto-smart-sprinkler/"/>
         <updated>2026-05-16T16:00:00.000Z</updated>
         <published>2026-05-16T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Gaussian Splatting for Dummies]]></title>
         <id>https://darshanmakwana412.github.io/2026/04/gaussian-splatting/</id>
         <link href="https://darshanmakwana412.github.io/2026/04/gaussian-splatting/"/>
-        <updated>2026-05-16T16:00:00.000Z</updated>
-        <published>2026-05-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abseil Common Libraries (C++)]]></title>
-        <id>https://github.com/abseil/abseil-cpp</id>
-        <link href="https://github.com/abseil/abseil-cpp"/>
         <updated>2026-05-16T16:00:00.000Z</updated>
         <published>2026-05-16T16:00:00.000Z</published>
     </entry>
