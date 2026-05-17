@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-17 15:02:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-17 18:02:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 移动开发、Flutter相关
 
@@ -11,4 +11,7 @@
 - [2026-04-23-#-8-Proven-Techniques-for-Building-Offline-First-PWAs-with-Service-Workers](https://dev.to/nithinbharathwaj/-8-proven-techniques-for-building-offline-first-pwas-with-service-workers-3mlk) 
 - [2026-04-20-📶-No-Internet?-Your-Web-App-Should-Still-Work:-Offline-Functionality-in-PWAs-Explained](https://dev.to/okoye_ndidiamaka_5e3b7d30/no-internet-your-web-app-should-still-work-offline-functionality-in-pwas-explained-4egg) 
 - [2026-04-18-🚀-Why-Some-PWAs-Win-Users-Instantly—And-Others-Get-Ignored](https://dev.to/okoye_ndidiamaka_5e3b7d30/why-some-pwas-win-users-instantly-and-others-get-ignored-44g2) 
+- [2026-05-17--Runtime-Errors-in-PWAs:-Risk-Surface-and-Mitigation-](
+https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
+) 
 - [2026-05-09-PWABuilder](https://pwabuilder.com/) 
