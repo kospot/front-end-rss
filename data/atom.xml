@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-18T07:02:48.789Z</updated>
+    <updated>2026-05-18T10:01:39.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,30 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试]]></title>
+        <id>https://sspai.com/post/109743</id>
+        <link href="https://sspai.com/post/109743"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft is retiring Teams’ Together Mode]]></title>
         <id>https://www.theverge.com/tech/932215/microsoft-teams-together-mode</id>
         <link href="https://www.theverge.com/tech/932215/microsoft-teams-together-mode"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m a Normie. Can Normies Really Vibe Code?]]></title>
+        <id>https://www.wired.com/story/normie-vibe-code/</id>
+        <link href="https://www.wired.com/story/normie-vibe-code/"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings]]></title>
+        <id>https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/</id>
+        <link href="https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/"/>
         <updated>2026-05-17T16:00:00.000Z</updated>
         <published>2026-05-17T16:00:00.000Z</published>
     </entry>
@@ -29,226 +50,58 @@
         <published>2026-05-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Learn Agentic AI in 2026 – Without Getting Lost in Hype]]></title>
-        <id>https://simplai.ai/blogs/how-to-actually-learn-agentic-ai-in-2026/</id>
-        <link href="https://simplai.ai/blogs/how-to-actually-learn-agentic-ai-in-2026/"/>
+        <title type="html"><![CDATA[Show HN: Latlng – open-source geospatial object engine written in Rust]]></title>
+        <id>https://latlng.cloud/</id>
+        <link href="https://latlng.cloud/"/>
         <updated>2026-05-17T16:00:00.000Z</updated>
         <published>2026-05-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Litterbox: Somewhat Isolated Development Environments [video]]]></title>
-        <id>https://www.youtube.com/watch?v=OMCWs7qmKFc</id>
-        <link href="https://www.youtube.com/watch?v=OMCWs7qmKFc"/>
+        <title type="html"><![CDATA[The Mysterious Crypto Judges Who Settle Polymarket Disputes]]></title>
+        <id>https://www.wsj.com/finance/polymarket-bet-disputes-fb1b8c6a</id>
+        <link href="https://www.wsj.com/finance/polymarket-bet-disputes-fb1b8c6a"/>
         <updated>2026-05-17T16:00:00.000Z</updated>
         <published>2026-05-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RCE and arbitrary file write in Vitess vtbackup via untrusted MANIFEST fields]]></title>
-        <id>https://neurowinter.com/security/2026/05/18/RCE-and-arbitrary-file-write-in-Vitess-vtbackup-via-untrusted-MANIFEST-fields/</id>
-        <link href="https://neurowinter.com/security/2026/05/18/RCE-and-arbitrary-file-write-in-Vitess-vtbackup-via-untrusted-MANIFEST-fields/"/>
+        <title type="html"><![CDATA[A Node Based Brush Engine – PixiEditor 2.1]]></title>
+        <id>https://pixieditor.net/blog/2026/04/30/21-release/</id>
+        <link href="https://pixieditor.net/blog/2026/04/30/21-release/"/>
         <updated>2026-05-17T16:00:00.000Z</updated>
         <published>2026-05-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Micro-Drilling Machine [video]]]></title>
-        <id>https://www.youtube.com/watch?v=KrStsdNG5go</id>
-        <link href="https://www.youtube.com/watch?v=KrStsdNG5go"/>
+        <title type="html"><![CDATA[Protéger Mastodon contre les bots IA avec Anubis – Techno-Fil et faits divers]]></title>
+        <id>https://blogs.gayfr.social/barbapulpe/proteger-mastodon-contre-les-bots-ia-avec-anubis</id>
+        <link href="https://blogs.gayfr.social/barbapulpe/proteger-mastodon-contre-les-bots-ia-avec-anubis"/>
         <updated>2026-05-17T16:00:00.000Z</updated>
         <published>2026-05-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Better CSS fluid sizing with round()]]></title>
-        <id>https://ishadeed.com/article/css-round/</id>
-        <link href="https://ishadeed.com/article/css-round/"/>
+        <title type="html"><![CDATA[Fireside Chat with Bjarne Stroustrup at CTO Summit 2025 Hamburg [video]]]></title>
+        <id>https://www.youtube.com/watch?v=hqUItF7m3tk</id>
+        <link href="https://www.youtube.com/watch?v=hqUItF7m3tk"/>
         <updated>2026-05-17T16:00:00.000Z</updated>
         <published>2026-05-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeerFlow 2.0 – Deep Exploration and Efficient Research Flow]]></title>
-        <id>https://github.com/bytedance/deer-flow</id>
-        <link href="https://github.com/bytedance/deer-flow"/>
+        <title type="html"><![CDATA[Review: 50 Years of Text Games, by Aaron Reed]]></title>
+        <id>https://www.thepsmiths.com/p/review-50-years-of-text-games-by</id>
+        <link href="https://www.thepsmiths.com/p/review-50-years-of-text-games-by"/>
         <updated>2026-05-17T16:00:00.000Z</updated>
         <published>2026-05-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Most Americans don't trust AI – or the people in charge of it]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai"/>
+        <title type="html"><![CDATA[Harmony Infra Ventures Reflects the Leadership of Harmandeep Singh Kandhari]]></title>
+        <id>https://sites.google.com/view/harmandeep-singh-kandhari</id>
+        <link href="https://sites.google.com/view/harmandeep-singh-kandhari"/>
         <updated>2026-05-17T16:00:00.000Z</updated>
         <published>2026-05-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft will let you remap the Copilot key to restore right ctrl functionality]]></title>
-        <id>https://support.microsoft.com/en-us/accessibility/windows/copilot/understand-updates-to-the-copilot-key-on-windows-devices</id>
-        <link href="https://support.microsoft.com/en-us/accessibility/windows/copilot/understand-updates-to-the-copilot-key-on-windows-devices"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tracking Skyscraper-Size Asteroids, Failed Supernovas and Interstellar Visits]]></title>
-        <id>https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/</id>
-        <link href="https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signex: AI-first EDA, KiCad-compatible schematic and PCB editor built in Rust]]></title>
-        <id>https://github.com/alplabai/signex</id>
-        <link href="https://github.com/alplabai/signex"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tie Club]]></title>
-        <id>https://martin-baker.com/tie-club/</id>
-        <link href="https://martin-baker.com/tie-club/"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yum Brands, Nvidia will deploy new AI at 500 restaurants]]></title>
-        <id>https://www.restaurantdive.com/news/yum-brands-nvidia-ai-taco-bell-pizza-hut-kfc-deal/742926/</id>
-        <link href="https://www.restaurantdive.com/news/yum-brands-nvidia-ai-taco-bell-pizza-hut-kfc-deal/742926/"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why raw RPC logs are not enough for trading infrastructure]]></title>
-        <id>https://blog.bridgexapi.io/behavior-reconstruction-vs-token-scanners</id>
-        <link href="https://blog.bridgexapi.io/behavior-reconstruction-vs-token-scanners"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peter G. Neumann, Who Warned of Computer Security Risks, Dies at 93]]></title>
-        <id>https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html</id>
-        <link href="https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Killing a `Cow` made my JSON formatter 42% faster]]></title>
-        <id>https://jacobasper.com/blog/killing-a-cow-made-my-json-formatter-42-percent-faster/</id>
-        <link href="https://jacobasper.com/blog/killing-a-cow-made-my-json-formatter-42-percent-faster/"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free 3D Mockup Video for Apps and Websites]]></title>
-        <id>https://www.freemockup.video/</id>
-        <link href="https://www.freemockup.video/"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LightInk: Solar E-ink smartwatch with LoRa and GPS lasts 10 months on one charge]]></title>
-        <id>https://www.notebookcheck.net/LightInk-E-ink-smartwatch-with-solar-LoRa-and-GPS-lasts-10-months-on-single-charge.1298684.0.html</id>
-        <link href="https://www.notebookcheck.net/LightInk-E-ink-smartwatch-with-solar-LoRa-and-GPS-lasts-10-months-on-single-charge.1298684.0.html"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft is retiring Teams' Together Mode]]></title>
-        <id>https://www.theverge.com/tech/932215/microsoft-teams-together-mode</id>
-        <link href="https://www.theverge.com/tech/932215/microsoft-teams-together-mode"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why ML is a metaphor for life]]></title>
-        <id>https://adeshpande3.github.io/Why-Machine-Learning-is-a-Metaphor-For-Life</id>
-        <link href="https://adeshpande3.github.io/Why-Machine-Learning-is-a-Metaphor-For-Life"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design posters showcasing your country's electrical grid]]></title>
-        <id>https://github.com/open-energy-transition/grid2poster</id>
-        <link href="https://github.com/open-energy-transition/grid2poster"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust Async and the Arm Generic Timer]]></title>
-        <id>https://thejpster.org.uk/blog/blog-2026-05-17/</id>
-        <link href="https://thejpster.org.uk/blog/blog-2026-05-17/"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists have invented a way to erase bad memories. But should we?]]></title>
-        <id>https://www.sciencefocus.com/future-technology/erase-painful-memories</id>
-        <link href="https://www.sciencefocus.com/future-technology/erase-painful-memories"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do less so you can do better (2020)]]></title>
-        <id>https://www.indiehackers.com/post/do-less-so-you-can-do-it-better-3ea77e92b4</id>
-        <link href="https://www.indiehackers.com/post/do-less-so-you-can-do-it-better-3ea77e92b4"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Agetor - An open-source Harness Orchestrator]]></title>
-        <id>https://github.com/alamops/agetor</id>
-        <link href="https://github.com/alamops/agetor"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made realtime raytraced reflections for my portfolio site]]></title>
-        <id>https://taggartmaher.com/projects/this-website</id>
-        <link href="https://taggartmaher.com/projects/this-website"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Searching "remove definition" on Google results in pointless AI text]]></title>
-        <id>https://www.google.com/search?q=remove+definition</id>
-        <link href="https://www.google.com/search?q=remove+definition"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Target can't measure their own bins]]></title>
-        <id>https://ninjacheetah.dev/2026/05/17/target-cant-measure.html</id>
-        <link href="https://ninjacheetah.dev/2026/05/17/target-cant-measure.html"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archivists Turn to LLMs to Decipher Handwriting at Scale]]></title>
-        <id>https://spectrum.ieee.org/ai-handwriting-transcription-transkribus-lecun</id>
-        <link href="https://spectrum.ieee.org/ai-handwriting-transcription-transkribus-lecun"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turn inbound call recordings into structured JSON]]></title>
-        <id>https://www.gensail.com/call-data-extraction</id>
-        <link href="https://www.gensail.com/call-data-extraction"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple commencement speakers booed for AI comments during graduation speeches [video]]]></title>
-        <id>https://www.youtube.com/watch?v=xwWaoyIy5e8</id>
-        <link href="https://www.youtube.com/watch?v=xwWaoyIy5e8"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a multi-agent system from scratch: 50 lines of bash and Git]]></title>
-        <id>https://en.andros.dev/blog/ed26ea98/building-a-multi-agent-system-from-scratch-50-lines-of-bash-git/</id>
-        <link href="https://en.andros.dev/blog/ed26ea98/building-a-multi-agent-system-from-scratch-50-lines-of-bash-git/"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Proxy for Twitter 2026]]></title>
-        <id>https://momoproxy.com/blog/best-proxy-for-twitter-2026</id>
-        <link href="https://momoproxy.com/blog/best-proxy-for-twitter-2026"/>
+        <title type="html"><![CDATA[Show HN: Map of 90 companies in the co-packaged optics supply chain]]></title>
+        <id>https://leoinai.substack.com/p/supply-chain-photonics-and-co-packaged</id>
+        <link href="https://leoinai.substack.com/p/supply-chain-photonics-and-co-packaged"/>
         <updated>2026-05-17T16:00:00.000Z</updated>
         <published>2026-05-17T16:00:00.000Z</published>
     </entry>
@@ -260,9 +113,226 @@
         <published>2026-05-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Map of 90 companies in the co-packaged optics supply chain]]></title>
-        <id>https://leoinai.substack.com/p/supply-chain-photonics-and-co-packaged</id>
-        <link href="https://leoinai.substack.com/p/supply-chain-photonics-and-co-packaged"/>
+        <title type="html"><![CDATA[Best Proxy for Twitter 2026]]></title>
+        <id>https://momoproxy.com/blog/best-proxy-for-twitter-2026</id>
+        <link href="https://momoproxy.com/blog/best-proxy-for-twitter-2026"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a multi-agent system from scratch: 50 lines of bash and Git]]></title>
+        <id>https://en.andros.dev/blog/ed26ea98/building-a-multi-agent-system-from-scratch-50-lines-of-bash-git/</id>
+        <link href="https://en.andros.dev/blog/ed26ea98/building-a-multi-agent-system-from-scratch-50-lines-of-bash-git/"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple commencement speakers booed for AI comments during graduation speeches [video]]]></title>
+        <id>https://www.youtube.com/watch?v=xwWaoyIy5e8</id>
+        <link href="https://www.youtube.com/watch?v=xwWaoyIy5e8"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turn inbound call recordings into structured JSON]]></title>
+        <id>https://www.gensail.com/call-data-extraction</id>
+        <link href="https://www.gensail.com/call-data-extraction"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archivists Turn to LLMs to Decipher Handwriting at Scale]]></title>
+        <id>https://spectrum.ieee.org/ai-handwriting-transcription-transkribus-lecun</id>
+        <link href="https://spectrum.ieee.org/ai-handwriting-transcription-transkribus-lecun"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Target can't measure their own bins]]></title>
+        <id>https://ninjacheetah.dev/2026/05/17/target-cant-measure.html</id>
+        <link href="https://ninjacheetah.dev/2026/05/17/target-cant-measure.html"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Searching "remove definition" on Google results in pointless AI text]]></title>
+        <id>https://www.google.com/search?q=remove+definition</id>
+        <link href="https://www.google.com/search?q=remove+definition"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made realtime raytraced reflections for my portfolio site]]></title>
+        <id>https://taggartmaher.com/projects/this-website</id>
+        <link href="https://taggartmaher.com/projects/this-website"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Agetor - An open-source Harness Orchestrator]]></title>
+        <id>https://github.com/alamops/agetor</id>
+        <link href="https://github.com/alamops/agetor"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do less so you can do better (2020)]]></title>
+        <id>https://www.indiehackers.com/post/do-less-so-you-can-do-it-better-3ea77e92b4</id>
+        <link href="https://www.indiehackers.com/post/do-less-so-you-can-do-it-better-3ea77e92b4"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists have invented a way to erase bad memories. But should we?]]></title>
+        <id>https://www.sciencefocus.com/future-technology/erase-painful-memories</id>
+        <link href="https://www.sciencefocus.com/future-technology/erase-painful-memories"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Async and the Arm Generic Timer]]></title>
+        <id>https://thejpster.org.uk/blog/blog-2026-05-17/</id>
+        <link href="https://thejpster.org.uk/blog/blog-2026-05-17/"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design posters showcasing your country's electrical grid]]></title>
+        <id>https://github.com/open-energy-transition/grid2poster</id>
+        <link href="https://github.com/open-energy-transition/grid2poster"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why ML is a metaphor for life]]></title>
+        <id>https://adeshpande3.github.io/Why-Machine-Learning-is-a-Metaphor-For-Life</id>
+        <link href="https://adeshpande3.github.io/Why-Machine-Learning-is-a-Metaphor-For-Life"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is retiring Teams' Together Mode]]></title>
+        <id>https://www.theverge.com/tech/932215/microsoft-teams-together-mode</id>
+        <link href="https://www.theverge.com/tech/932215/microsoft-teams-together-mode"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LightInk: Solar E-ink smartwatch with LoRa and GPS lasts 10 months on one charge]]></title>
+        <id>https://www.notebookcheck.net/LightInk-E-ink-smartwatch-with-solar-LoRa-and-GPS-lasts-10-months-on-single-charge.1298684.0.html</id>
+        <link href="https://www.notebookcheck.net/LightInk-E-ink-smartwatch-with-solar-LoRa-and-GPS-lasts-10-months-on-single-charge.1298684.0.html"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free 3D Mockup Video for Apps and Websites]]></title>
+        <id>https://www.freemockup.video/</id>
+        <link href="https://www.freemockup.video/"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Killing a `Cow` made my JSON formatter 42% faster]]></title>
+        <id>https://jacobasper.com/blog/killing-a-cow-made-my-json-formatter-42-percent-faster/</id>
+        <link href="https://jacobasper.com/blog/killing-a-cow-made-my-json-formatter-42-percent-faster/"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter G. Neumann, Who Warned of Computer Security Risks, Dies at 93]]></title>
+        <id>https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html</id>
+        <link href="https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why raw RPC logs are not enough for trading infrastructure]]></title>
+        <id>https://blog.bridgexapi.io/behavior-reconstruction-vs-token-scanners</id>
+        <link href="https://blog.bridgexapi.io/behavior-reconstruction-vs-token-scanners"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yum Brands, Nvidia will deploy new AI at 500 restaurants]]></title>
+        <id>https://www.restaurantdive.com/news/yum-brands-nvidia-ai-taco-bell-pizza-hut-kfc-deal/742926/</id>
+        <link href="https://www.restaurantdive.com/news/yum-brands-nvidia-ai-taco-bell-pizza-hut-kfc-deal/742926/"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tie Club]]></title>
+        <id>https://martin-baker.com/tie-club/</id>
+        <link href="https://martin-baker.com/tie-club/"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signex: AI-first EDA, KiCad-compatible schematic and PCB editor built in Rust]]></title>
+        <id>https://github.com/alplabai/signex</id>
+        <link href="https://github.com/alplabai/signex"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracking Skyscraper-Size Asteroids, Failed Supernovas and Interstellar Visits]]></title>
+        <id>https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/</id>
+        <link href="https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft will let you remap the Copilot key to restore right ctrl functionality]]></title>
+        <id>https://support.microsoft.com/en-us/accessibility/windows/copilot/understand-updates-to-the-copilot-key-on-windows-devices</id>
+        <link href="https://support.microsoft.com/en-us/accessibility/windows/copilot/understand-updates-to-the-copilot-key-on-windows-devices"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Americans don't trust AI – or the people in charge of it]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeerFlow 2.0 – Deep Exploration and Efficient Research Flow]]></title>
+        <id>https://github.com/bytedance/deer-flow</id>
+        <link href="https://github.com/bytedance/deer-flow"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better CSS fluid sizing with round()]]></title>
+        <id>https://ishadeed.com/article/css-round/</id>
+        <link href="https://ishadeed.com/article/css-round/"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Micro-Drilling Machine [video]]]></title>
+        <id>https://www.youtube.com/watch?v=KrStsdNG5go</id>
+        <link href="https://www.youtube.com/watch?v=KrStsdNG5go"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RCE and arbitrary file write in Vitess vtbackup via untrusted MANIFEST fields]]></title>
+        <id>https://neurowinter.com/security/2026/05/18/RCE-and-arbitrary-file-write-in-Vitess-vtbackup-via-untrusted-MANIFEST-fields/</id>
+        <link href="https://neurowinter.com/security/2026/05/18/RCE-and-arbitrary-file-write-in-Vitess-vtbackup-via-untrusted-MANIFEST-fields/"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Litterbox: Somewhat Isolated Development Environments [video]]]></title>
+        <id>https://www.youtube.com/watch?v=OMCWs7qmKFc</id>
+        <link href="https://www.youtube.com/watch?v=OMCWs7qmKFc"/>
+        <updated>2026-05-17T16:00:00.000Z</updated>
+        <published>2026-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Agentic AI in 2026 – Without Getting Lost in Hype]]></title>
+        <id>https://simplai.ai/blogs/how-to-actually-learn-agentic-ai-in-2026/</id>
+        <link href="https://simplai.ai/blogs/how-to-actually-learn-agentic-ai-in-2026/"/>
         <updated>2026-05-17T16:00:00.000Z</updated>
         <published>2026-05-17T16:00:00.000Z</published>
     </entry>
@@ -291,76 +361,6 @@
         <title type="html"><![CDATA[Mask-Morph Graph U-Net: A Generalisable Mesh-Based Surrogate for Crashworthiness Field Prediction under Large Geometric Variation]]></title>
         <id>https://arxiv.org/abs/2605.15231</id>
         <link href="https://arxiv.org/abs/2605.15231"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reading the Cell, Designing the Cure: Perturbation-Conditioned Molecular Diffusion for Function-Oriented Drug Design]]></title>
-        <id>https://arxiv.org/abs/2605.15243</id>
-        <link href="https://arxiv.org/abs/2605.15243"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Position: Ideas Should be the Center of Machine Learning Research]]></title>
-        <id>https://arxiv.org/abs/2605.15253</id>
-        <link href="https://arxiv.org/abs/2605.15253"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training on Documents About Monitoring Leads to CoT Obfuscation]]></title>
-        <id>https://arxiv.org/abs/2605.15257</id>
-        <link href="https://arxiv.org/abs/2605.15257"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tadpole: Autoencoders as Foundation Models for 3D PDEs with Online Learning]]></title>
-        <id>https://arxiv.org/abs/2605.15284</id>
-        <link href="https://arxiv.org/abs/2605.15284"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GESD: Beyond Outcome-Oriented Fairness]]></title>
-        <id>https://arxiv.org/abs/2605.15295</id>
-        <link href="https://arxiv.org/abs/2605.15295"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Bounded Variance: Variance-Reduced Normalized Methods for Nonconvex Optimization under Blum-Gladyshev Noise]]></title>
-        <id>https://arxiv.org/abs/2605.15314</id>
-        <link href="https://arxiv.org/abs/2605.15314"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEAP: Trajectory-Level Evaluation of LLMs in Iterative Scientific Design]]></title>
-        <id>https://arxiv.org/abs/2605.15341</id>
-        <link href="https://arxiv.org/abs/2605.15341"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PACER: Acyclic Causal Discovery from Large-Scale Interventional Data]]></title>
-        <id>https://arxiv.org/abs/2605.15353</id>
-        <link href="https://arxiv.org/abs/2605.15353"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRB-RUPFormer: A Recursive Unified Probabilistic Transformer for Residual PRB Forecasting]]></title>
-        <id>https://arxiv.org/abs/2605.15363</id>
-        <link href="https://arxiv.org/abs/2605.15363"/>
-        <updated>2026-05-17T16:00:00.000Z</updated>
-        <published>2026-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unified High-Probability Analysis of Stochastic Variance-Reduced Estimation]]></title>
-        <id>https://arxiv.org/abs/2605.15388</id>
-        <link href="https://arxiv.org/abs/2605.15388"/>
         <updated>2026-05-17T16:00:00.000Z</updated>
         <published>2026-05-17T16:00:00.000Z</published>
     </entry>
