@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-18 21:02:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-18 23:02:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -139,7 +139,7 @@ https://aralroca.hashnode.dev/three-ways-to-convert-json-to-typescript-only-one-
 - [2026-05-10-tsz:-TypeScript-checker-and-LSP-written-in-Rust,-designed-to-outperform-tsgo](https://github.com/mohsen1/tsz) 
 - [2026-05-09-Show-HN:-Run-and-debug-ThingWorx-services-locally-with-TypeScript](https://github.com/ssilvestri15/thingworx-local-dev) 
 - [2026-05-04-Show-HN:-TTSC-–-TypeScript-Go-compiler-and-runner-with-transform-plugins](https://github.com/samchon/ttsc) 
-- [2026-04-24-Pdfnative-–-zero-dependency-TypeScript-PDF-engine](https://www.npmjs.com/package/pdfnative) 
 - [2026-04-24-Kaplay.js,-HTML5-Game-Library-for-JavaScript-and-TypeScript](https://kaplayjs.com) 
-- [2026-04-22-TSRX-–-TypeScript-Language-Extension-for-Declarative-UI](https://tsrx.dev/) 
+- [2026-04-24-Pdfnative-–-zero-dependency-TypeScript-PDF-engine](https://www.npmjs.com/package/pdfnative) 
 - [2026-04-22-MCPorter-–-Call-MCPs-from-TypeScript-or-as-CLI](https://github.com/steipete/mcporter) 
+- [2026-04-22-TSRX-–-TypeScript-Language-Extension-for-Declarative-UI](https://tsrx.dev/) 

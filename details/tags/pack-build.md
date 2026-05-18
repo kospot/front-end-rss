@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-18 21:02:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-18 23:02:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -73,12 +73,12 @@ https://github.com/jskits/vite-plugin-federation
 - [2026-05-18-RCE-and-arbitrary-file-write-in-Vitess-vtbackup-via-untrusted-MANIFEST-fields](https://neurowinter.com/security/2026/05/18/RCE-and-arbitrary-file-write-in-Vitess-vtbackup-via-untrusted-MANIFEST-fields/) 
 - [2026-05-16-Popular-node-IPC-NPM-package-compromised-to-steal-credentials](https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/) 
 - [2026-05-15-Popular-node-ipc-NPM-Package-Infected-with-Credential-Stealer](https://socket.dev/blog/node-ipc-package-compromised) 
-- [2026-05-13-Show-HN:-FixMyNPM,-CLI-to-fix-your-insecure-npm-config](https://github.com/madhugb/FixMyNPM) 
-- [2026-05-13-Mass-Supply-Chain-Attack-Hits-TanStack,-Mistral-AI-NPM-and-PyPI-Packages](https://safedep.io/mass-npm-supply-chain-attack-tanstack-mistral/) 
-- [2026-05-13-Mini-Shai-Hulud-Is-Back:-NPM-Worm-Hits-over-160-Packages,-Including-Mistral](https://www.aikido.dev/blog/mini-shai-hulud-is-back-tanstack-compromised) 
 - [2026-05-13-NPM-Scan-–-Detects-TanStack-Worm,-Beats-Socket/Snyk-Local/BYOC](https://github.com/lateos-ai/npm-scan) 
-- [2026-05-12-TanStack-NPM-Packages-Compromised-in-Ongoing-Mini-Shai-Hulud-Supply-Chain-Attack](https://socket.dev/blog/tanstack-npm-packages-compromised-mini-shai-hulud-supply-chain-attack) 
+- [2026-05-13-Mini-Shai-Hulud-Is-Back:-NPM-Worm-Hits-over-160-Packages,-Including-Mistral](https://www.aikido.dev/blog/mini-shai-hulud-is-back-tanstack-compromised) 
+- [2026-05-13-Mass-Supply-Chain-Attack-Hits-TanStack,-Mistral-AI-NPM-and-PyPI-Packages](https://safedep.io/mass-npm-supply-chain-attack-tanstack-mistral/) 
+- [2026-05-13-Show-HN:-FixMyNPM,-CLI-to-fix-your-insecure-npm-config](https://github.com/madhugb/FixMyNPM) 
 - [2026-05-12-Ask-HN:-Can-NPM-postinstall-script-be-run-in-a-sandbox?-how-to-do-that?](https://news.ycombinator.com/item?id=48103729) 
+- [2026-05-12-TanStack-NPM-Packages-Compromised-in-Ongoing-Mini-Shai-Hulud-Supply-Chain-Attack](https://socket.dev/blog/tanstack-npm-packages-compromised-mini-shai-hulud-supply-chain-attack) 
 - [2026-05-09-I-Still-Like-Jenkins](https://til.andrew-quinn.me/posts/i-still-like-jenkins/) 
 - [2026-05-08-Stop-Using-Yarn-Classic](https://charpeni.com/blog/stop-using-yarn-classic) 
 - [2026-05-05-Show-HN:-I-Built-a-Polyfill-for-the-Browser's-New-Language-Detection-API](https://unforbiddenyet.substack.com/p/i-built-a-polyfill-for-the-browsers) 
