@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-19T04:03:38.044Z</updated>
+    <updated>2026-05-19T07:04:14.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,13 +29,6 @@
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OSHA probing worker death at SpaceX’s Starbase site]]></title>
-        <id>https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/</id>
-        <link href="https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people]]></title>
         <id>https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/</id>
         <link href="https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/"/>
@@ -43,149 +36,44 @@
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frontier models at open source cost – hot new AI Model Router]]></title>
-        <id>https://www.orcarouter.ai/</id>
-        <link href="https://www.orcarouter.ai/"/>
+        <title type="html"><![CDATA[OSHA probing worker death at SpaceX’s Starbase site]]></title>
+        <id>https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/</id>
+        <link href="https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Active Supply Chain Attack Compromises Antv Packages on NPM]]></title>
-        <id>https://socket.dev/blog/antv-packages-compromised</id>
-        <link href="https://socket.dev/blog/antv-packages-compromised"/>
+        <title type="html"><![CDATA[One Million Humans – A digital time capsule]]></title>
+        <id>https://one-million-humans.vercel.app/</id>
+        <link href="https://one-million-humans.vercel.app/"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finnish spy chief warns Europe may never break free from foreign tech]]></title>
-        <id>https://www.politico.eu/article/europe-tech-dependent-us-china-fully-sovereign-finnish-intel-chief/</id>
-        <link href="https://www.politico.eu/article/europe-tech-dependent-us-china-fully-sovereign-finnish-intel-chief/"/>
+        <title type="html"><![CDATA[Show HN: Cumulative GitHub star history for an org, as an embeddable SVG]]></title>
+        <id>https://stars.wavekat.com/</id>
+        <link href="https://stars.wavekat.com/"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub]]></title>
-        <id>https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330</id>
-        <link href="https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330"/>
+        <title type="html"><![CDATA[Hey API – OpenAPI to TypeScript in Seconds]]></title>
+        <id>https://heyapi.dev</id>
+        <link href="https://heyapi.dev"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Confidence in (Agentic) Code]]></title>
-        <id>https://ucsd-cse-115-215.github.io/sp26/lectures/04-correctness.html</id>
-        <link href="https://ucsd-cse-115-215.github.io/sp26/lectures/04-correctness.html"/>
+        <title type="html"><![CDATA[Npmx: A fast, modern browser for the NPM registry]]></title>
+        <id>https://github.com/npmx-dev/npmx.dev</id>
+        <link href="https://github.com/npmx-dev/npmx.dev"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open-sourcing ShipReq – a requirements platform written in FP Scala/Scala.js]]></title>
-        <id>https://gist.github.com/japgolly/538875580ec648ca7517ce04d63dc009</id>
-        <link href="https://gist.github.com/japgolly/538875580ec648ca7517ce04d63dc009"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peter Neumann Has Died]]></title>
-        <id>https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html</id>
-        <link href="https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What even IS runtime infrastructure?]]></title>
-        <id>https://blog.bridgexapi.io/why-developers-need-programmable-evm-runtime-infrastructure</id>
-        <link href="https://blog.bridgexapi.io/why-developers-need-programmable-evm-runtime-infrastructure"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Clark-Browser – Stealth Chromium]]></title>
-        <id>https://github.com/clark-labs-inc/clark-browser</id>
-        <link href="https://github.com/clark-labs-inc/clark-browser"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European imaging companies step in to fill warzone gap]]></title>
-        <id>https://spacenews.com/european-imaging-companies-step-in-to-fill-warzone-gap/</id>
-        <link href="https://spacenews.com/european-imaging-companies-step-in-to-fill-warzone-gap/"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reviewing so called Pull Requests at $dayjob]]></title>
-        <id>https://rkta.de/dayjob-pr-review.html</id>
-        <link href="https://rkta.de/dayjob-pr-review.html"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing metadata is essential in LLM world]]></title>
-        <id>https://www.itbrew.com/stories/managing-metadata-is-essential-in-llm-world</id>
-        <link href="https://www.itbrew.com/stories/managing-metadata-is-essential-in-llm-world"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Are coding interview still relevant?]]></title>
-        <id>https://news.ycombinator.com/item?id=48185969</id>
-        <link href="https://news.ycombinator.com/item?id=48185969"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio Code for Education roadmap update]]></title>
-        <id>https://vscodeedu.com/whats-new/2645</id>
-        <link href="https://vscodeedu.com/whats-new/2645"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Start an AI Business as a Teenager in 2026 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=X_lxuGsFu4M</id>
-        <link href="https://www.youtube.com/watch?v=X_lxuGsFu4M"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secret History of Silicon Valley [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ZTC_RxWN_xo</id>
-        <link href="https://www.youtube.com/watch?v=ZTC_RxWN_xo"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Tracecast – open-source generative data apps built on top of Marimo]]></title>
-        <id>https://github.com/tracecast/open_data_apps</id>
-        <link href="https://github.com/tracecast/open_data_apps"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running PyTorch Models on Apple Silicon GPUs with the ExecuTorch MLX Delegate]]></title>
-        <id>https://pytorch.org/blog/running-pytorch-models-on-apple-silicon-gpus-with-the-executorch-mlx-delegate/</id>
-        <link href="https://pytorch.org/blog/running-pytorch-models-on-apple-silicon-gpus-with-the-executorch-mlx-delegate/"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intern gets inspired by Bun to rewrite codebase into assembly]]></title>
-        <id>https://twitter.com/KashyapVisharad/status/2055239392147718394</id>
-        <link href="https://twitter.com/KashyapVisharad/status/2055239392147718394"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Reassigns 7k Employees to Focus on A.I]]></title>
-        <id>https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html</id>
-        <link href="https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Built an API client with age-encrypted vault for secrets]]></title>
-        <id>https://github.com/xaaha/hulak</id>
-        <link href="https://github.com/xaaha/hulak"/>
+        <title type="html"><![CDATA[Samaris OS: A Bootable Linux-Based OS with React UI, Rust Daemons and Local AI]]></title>
+        <id>https://github.com/btkhaled/SamarisOS</id>
+        <link href="https://github.com/btkhaled/SamarisOS"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
@@ -197,9 +85,184 @@
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Infrastructure Lets One Base Model Serve Millions of LoRA Policies]]></title>
-        <id>https://pub.towardsai.net/this-infrastructure-lets-one-base-model-serve-millions-of-lora-policies-7ba4c698af8e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/this-infrastructure-lets-one-base-model-serve-millions-of-lora-policies-7ba4c698af8e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Built an API client with age-encrypted vault for secrets]]></title>
+        <id>https://github.com/xaaha/hulak</id>
+        <link href="https://github.com/xaaha/hulak"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Reassigns 7k Employees to Focus on A.I]]></title>
+        <id>https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html</id>
+        <link href="https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intern gets inspired by Bun to rewrite codebase into assembly]]></title>
+        <id>https://twitter.com/KashyapVisharad/status/2055239392147718394</id>
+        <link href="https://twitter.com/KashyapVisharad/status/2055239392147718394"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running PyTorch Models on Apple Silicon GPUs with the ExecuTorch MLX Delegate]]></title>
+        <id>https://pytorch.org/blog/running-pytorch-models-on-apple-silicon-gpus-with-the-executorch-mlx-delegate/</id>
+        <link href="https://pytorch.org/blog/running-pytorch-models-on-apple-silicon-gpus-with-the-executorch-mlx-delegate/"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Tracecast – open-source generative data apps built on top of Marimo]]></title>
+        <id>https://github.com/tracecast/open_data_apps</id>
+        <link href="https://github.com/tracecast/open_data_apps"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secret History of Silicon Valley [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ZTC_RxWN_xo</id>
+        <link href="https://www.youtube.com/watch?v=ZTC_RxWN_xo"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start an AI Business as a Teenager in 2026 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=X_lxuGsFu4M</id>
+        <link href="https://www.youtube.com/watch?v=X_lxuGsFu4M"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio Code for Education roadmap update]]></title>
+        <id>https://vscodeedu.com/whats-new/2645</id>
+        <link href="https://vscodeedu.com/whats-new/2645"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Are coding interview still relevant?]]></title>
+        <id>https://news.ycombinator.com/item?id=48185969</id>
+        <link href="https://news.ycombinator.com/item?id=48185969"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing metadata is essential in LLM world]]></title>
+        <id>https://www.itbrew.com/stories/managing-metadata-is-essential-in-llm-world</id>
+        <link href="https://www.itbrew.com/stories/managing-metadata-is-essential-in-llm-world"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reviewing so called Pull Requests at $dayjob]]></title>
+        <id>https://rkta.de/dayjob-pr-review.html</id>
+        <link href="https://rkta.de/dayjob-pr-review.html"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[European imaging companies step in to fill warzone gap]]></title>
+        <id>https://spacenews.com/european-imaging-companies-step-in-to-fill-warzone-gap/</id>
+        <link href="https://spacenews.com/european-imaging-companies-step-in-to-fill-warzone-gap/"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Clark-Browser – Stealth Chromium]]></title>
+        <id>https://github.com/clark-labs-inc/clark-browser</id>
+        <link href="https://github.com/clark-labs-inc/clark-browser"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What even IS runtime infrastructure?]]></title>
+        <id>https://blog.bridgexapi.io/why-developers-need-programmable-evm-runtime-infrastructure</id>
+        <link href="https://blog.bridgexapi.io/why-developers-need-programmable-evm-runtime-infrastructure"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Neumann Has Died]]></title>
+        <id>https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html</id>
+        <link href="https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-sourcing ShipReq – a requirements platform written in FP Scala/Scala.js]]></title>
+        <id>https://gist.github.com/japgolly/538875580ec648ca7517ce04d63dc009</id>
+        <link href="https://gist.github.com/japgolly/538875580ec648ca7517ce04d63dc009"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Confidence in (Agentic) Code]]></title>
+        <id>https://ucsd-cse-115-215.github.io/sp26/lectures/04-correctness.html</id>
+        <link href="https://ucsd-cse-115-215.github.io/sp26/lectures/04-correctness.html"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub]]></title>
+        <id>https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330</id>
+        <link href="https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finnish spy chief warns Europe may never break free from foreign tech]]></title>
+        <id>https://www.politico.eu/article/europe-tech-dependent-us-china-fully-sovereign-finnish-intel-chief/</id>
+        <link href="https://www.politico.eu/article/europe-tech-dependent-us-china-fully-sovereign-finnish-intel-chief/"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Active Supply Chain Attack Compromises Antv Packages on NPM]]></title>
+        <id>https://socket.dev/blog/antv-packages-compromised</id>
+        <link href="https://socket.dev/blog/antv-packages-compromised"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontier models at open source cost – hot new AI Model Router]]></title>
+        <id>https://www.orcarouter.ai/</id>
+        <link href="https://www.orcarouter.ai/"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI Agent Works Perfectly in the Demo. Here Are the 6 Ways It Dies in Production.]]></title>
+        <id>https://pub.towardsai.net/your-ai-agent-works-perfectly-in-the-demo-here-are-the-6-ways-it-dies-in-production-251cc3a32054?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-ai-agent-works-perfectly-in-the-demo-here-are-the-6-ways-it-dies-in-production-251cc3a32054?source=rss----98111c9905da---4"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tested ZAYA1-8B — Trained on Zero NVIDIA GPUs, Its 760M Active Params Cheated GPT-5-High on Math]]></title>
+        <id>https://pub.towardsai.net/i-tested-zaya1-8b-trained-on-zero-nvidia-gpus-its-760m-active-params-cheated-gpt-5-high-on-math-cfdb897b4900?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tested-zaya1-8b-trained-on-zero-nvidia-gpus-its-760m-active-params-cheated-gpt-5-high-on-math-cfdb897b4900?source=rss----98111c9905da---4"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When AI Lies to You: Hallucination, Data Quality, and the Old School Fix]]></title>
+        <id>https://pub.towardsai.net/when-ai-lies-to-you-hallucination-data-quality-and-the-old-school-fix-f9fc09c2f5c1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/when-ai-lies-to-you-hallucination-data-quality-and-the-old-school-fix-f9fc09c2f5c1?source=rss----98111c9905da---4"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your LLM Server Is Wasting 80% of Its GPU Memory — Here’s How vLLM Fixes That]]></title>
+        <id>https://pub.towardsai.net/your-llm-server-is-wasting-80-of-its-gpu-memory-heres-how-vllm-fixes-that-12d2fce99994?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-llm-server-is-wasting-80-of-its-gpu-memory-heres-how-vllm-fixes-that-12d2fce99994?source=rss----98111c9905da---4"/>
+        <updated>2026-05-18T16:00:00.000Z</updated>
+        <published>2026-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Data Centers Are Wasting Heat Cooling Chips. I Built a System That Feeds a Greenhouse Instead.]]></title>
+        <id>https://pub.towardsai.net/ai-data-centers-are-wasting-heat-cooling-chips-i-built-a-system-that-feeds-a-greenhouse-instead-17e21cb57e62?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-data-centers-are-wasting-heat-cooling-chips-i-built-a-system-that-feeds-a-greenhouse-instead-17e21cb57e62?source=rss----98111c9905da---4"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
@@ -211,9 +274,9 @@
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Data Centers Are Wasting Heat Cooling Chips. I Built a System That Feeds a Greenhouse Instead.]]></title>
-        <id>https://pub.towardsai.net/ai-data-centers-are-wasting-heat-cooling-chips-i-built-a-system-that-feeds-a-greenhouse-instead-17e21cb57e62?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ai-data-centers-are-wasting-heat-cooling-chips-i-built-a-system-that-feeds-a-greenhouse-instead-17e21cb57e62?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[This Infrastructure Lets One Base Model Serve Millions of LoRA Policies]]></title>
+        <id>https://pub.towardsai.net/this-infrastructure-lets-one-base-model-serve-millions-of-lora-policies-7ba4c698af8e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-infrastructure-lets-one-base-model-serve-millions-of-lora-policies-7ba4c698af8e?source=rss----98111c9905da---4"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
@@ -246,121 +309,70 @@
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Watching API Tutorials. Do This Instead.]]></title>
-        <id>https://dev.to/swappydev/stop-watching-api-tutorials-do-this-instead-916</id>
-        <link href="https://dev.to/swappydev/stop-watching-api-tutorials-do-this-instead-916"/>
+        <title type="html"><![CDATA[
+ansilight: truecolor syntax highlighting in the terminal with 256 highlight.js themes
+]]></title>
+        <id>
+https://github.com/webdiscus/ansilight
+</id>
+        <link href="
+https://github.com/webdiscus/ansilight
+"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Shopping Data Scraping: Comprehensive Tool Comparison and Legal Guide]]></title>
-        <id>https://dev.to/lynn7777/google-shopping-data-scraping-comprehensive-tool-comparison-and-legal-guide-2oha</id>
-        <link href="https://dev.to/lynn7777/google-shopping-data-scraping-comprehensive-tool-comparison-and-legal-guide-2oha"/>
+        <title type="html"><![CDATA[
+Lift: A blazing‑fast, lightweight TypeScript runner for Node.js — with built‑in monorepo support and TS debugging.
+]]></title>
+        <id>
+https://github.com/BitairLabs/lift
+</id>
+        <link href="
+https://github.com/BitairLabs/lift
+"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React2Shell (CVE-2025-55182): Exploitation Flow and Secure Coding Lessons]]></title>
-        <id>https://dev.to/secdim/react2shell-cve-2025-55182-exploitation-flow-and-secure-coding-lessons-2kl8</id>
-        <link href="https://dev.to/secdim/react2shell-cve-2025-55182-exploitation-flow-and-secure-coding-lessons-2kl8"/>
+        <title type="html"><![CDATA[I Built a 3D Solar System in 300 Lines of React (No Game Engine)]]></title>
+        <id>https://dev.to/dev48v/i-built-a-3d-solar-system-in-300-lines-of-react-no-game-engine-52b2</id>
+        <link href="https://dev.to/dev48v/i-built-a-3d-solar-system-in-300-lines-of-react-no-game-engine-52b2"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Scrape 1000 Pages Per Day Without Getting Banned]]></title>
-        <id>https://dev.to/charles_90891cea4a1800830/how-to-scrape-1000-pages-per-day-without-getting-banned-5bmf</id>
-        <link href="https://dev.to/charles_90891cea4a1800830/how-to-scrape-1000-pages-per-day-without-getting-banned-5bmf"/>
+        <title type="html"><![CDATA[Virtual Phone Numbers for Developers: Complete API Guide 2026]]></title>
+        <id>https://dev.to/dishantsinghdev/virtual-phone-numbers-for-developers-complete-api-guide-2026-274p</id>
+        <link href="https://dev.to/dishantsinghdev/virtual-phone-numbers-for-developers-complete-api-guide-2026-274p"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Complete Guide to Web Scraping E-Commerce Sites in 2026]]></title>
-        <id>https://dev.to/charles_90891cea4a1800830/the-complete-guide-to-web-scraping-e-commerce-sites-in-2026-1hgm</id>
-        <link href="https://dev.to/charles_90891cea4a1800830/the-complete-guide-to-web-scraping-e-commerce-sites-in-2026-1hgm"/>
+        <title type="html"><![CDATA[How to Receive SMS Online for Free: A Developer's Guide (2026)]]></title>
+        <id>https://dev.to/dishantsinghdev/how-to-receive-sms-online-for-free-a-developers-guide-2026-4bd8</id>
+        <link href="https://dev.to/dishantsinghdev/how-to-receive-sms-online-for-free-a-developers-guide-2026-4bd8"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Browser IPv4 CIDR Calculator — Three JavaScript Gotchas (uint32 Coercion, /0 Shift Trap, RFC 3021 /31)]]></title>
-        <id>https://dev.to/sendotltd/a-browser-ipv4-cidr-calculator-three-javascript-gotchas-uint32-coercion-0-shift-trap-rfc-3021-5h1m</id>
-        <link href="https://dev.to/sendotltd/a-browser-ipv4-cidr-calculator-three-javascript-gotchas-uint32-coercion-0-shift-trap-rfc-3021-5h1m"/>
+        <title type="html"><![CDATA[Headless CMS Architektur 2026: Warum Laravel 12 & Next.js 19 das ultimative Power-Duo sind]]></title>
+        <id>https://dev.to/webinteger/headless-cms-architektur-2026-warum-laravel-12-nextjs-19-das-ultimative-power-duo-sind-49d7</id>
+        <link href="https://dev.to/webinteger/headless-cms-architektur-2026-warum-laravel-12-nextjs-19-das-ultimative-power-duo-sind-49d7"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built 56 Free Tools for Pakistani Students Using Next.js 14 — Architecture Deep Dive]]></title>
-        <id>https://dev.to/abid_niazi_a7faa6246a7952/i-built-56-free-tools-for-pakistani-students-using-nextjs-14-architecture-deep-dive-50he</id>
-        <link href="https://dev.to/abid_niazi_a7faa6246a7952/i-built-56-free-tools-for-pakistani-students-using-nextjs-14-architecture-deep-dive-50he"/>
+        <title type="html"><![CDATA[Server Rendering in JavaScript Frameworks Is Changing Fast]]></title>
+        <id>https://dev.to/vishal_porwal_e0389856c35/server-rendering-in-javascript-frameworks-is-changing-fast-327p</id>
+        <link href="https://dev.to/vishal_porwal_e0389856c35/server-rendering-in-javascript-frameworks-is-changing-fast-327p"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Enhancing UI Reactivity: Dynamic Editor Panels with Alpine.js and PHP]]></title>
-        <id>https://dev.to/geanruca/enhancing-ui-reactivity-dynamic-editor-panels-with-alpinejs-and-php-1hj4</id>
-        <link href="https://dev.to/geanruca/enhancing-ui-reactivity-dynamic-editor-panels-with-alpinejs-and-php-1hj4"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handling Real-Time HK Stock Quotes Without Timeouts: A WebSocket Approach]]></title>
-        <id>https://dev.to/emily19980210/handling-real-time-hk-stock-quotes-without-timeouts-a-websocket-approach-7h1</id>
-        <link href="https://dev.to/emily19980210/handling-real-time-hk-stock-quotes-without-timeouts-a-websocket-approach-7h1"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Weird Beauty of JavaScript: One Language, Infinite Personalities]]></title>
-        <id>https://dev.to/codecrumb/the-weird-beauty-of-javascript-one-language-infinite-personalities-3f64</id>
-        <link href="https://dev.to/codecrumb/the-weird-beauty-of-javascript-one-language-infinite-personalities-3f64"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Performance: 8 Fixes That Actually Matter (2026)]]></title>
-        <id>https://dev.to/armorbreak/javascript-performance-8-fixes-that-actually-matter-2026-53f7</id>
-        <link href="https://dev.to/armorbreak/javascript-performance-8-fixes-that-actually-matter-2026-53f7"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things Nobody Tells You About Building Chrome Extensions]]></title>
-        <id>https://dev.to/shubham_gupta_decf96a6ab2/things-nobody-tells-you-about-building-chrome-extensions-3i09</id>
-        <link href="https://dev.to/shubham_gupta_decf96a6ab2/things-nobody-tells-you-about-building-chrome-extensions-3i09"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[About Hookes in React]]></title>
-        <id>https://dev.to/abinaya_v_7e6321c160544f1/about-hookes-in-react-m29</id>
-        <link href="https://dev.to/abinaya_v_7e6321c160544f1/about-hookes-in-react-m29"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Structure My Node.js Projects (2026)]]></title>
-        <id>https://dev.to/armorbreak/how-i-structure-my-nodejs-projects-2026-8e2</id>
-        <link href="https://dev.to/armorbreak/how-i-structure-my-nodejs-projects-2026-8e2"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrating from gl-transitions to @vysmo/transitions: the diff that matters]]></title>
-        <id>https://dev.to/thomasdolso/migrating-from-gl-transitions-to-vysmotransitions-the-diff-that-matters-g82</id>
-        <link href="https://dev.to/thomasdolso/migrating-from-gl-transitions-to-vysmotransitions-the-diff-that-matters-g82"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Got Tired of Ctrl+F on Dense Pages, So I Built a Chrome Extension]]></title>
-        <id>https://dev.to/khim_trngxun_e41e0b9/i-got-tired-of-ctrlf-on-dense-pages-so-i-built-a-chrome-extension-3eg5</id>
-        <link href="https://dev.to/khim_trngxun_e41e0b9/i-got-tired-of-ctrlf-on-dense-pages-so-i-built-a-chrome-extension-3eg5"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript로 웹 테이블 내보내기 자동화하기: 실용 가이드]]></title>
-        <id>https://dev.to/circobit/javascriptro-web-teibeul-naebonaegi-jadonghwahagi-silyong-gaideu-3oco</id>
-        <link href="https://dev.to/circobit/javascriptro-web-teibeul-naebonaegi-jadonghwahagi-silyong-gaideu-3oco"/>
+        <title type="html"><![CDATA[370 Tithis, 4 Eclipses, and One Bug That Moved Dussehra by 11 Days]]></title>
+        <id>https://dev.to/krazykrackpot/370-tithis-4-eclipses-and-one-bug-that-moved-dussehra-by-11-days-473c</id>
+        <link href="https://dev.to/krazykrackpot/370-tithis-4-eclipses-and-one-bug-that-moved-dussehra-by-11-days-473c"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
