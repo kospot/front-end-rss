@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-20T10:02:47.231Z</updated>
+    <updated>2026-05-20T13:03:24.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,37 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Samsung workers set to strike at worst possible time]]></title>
-        <id>https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply</id>
-        <link href="https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply"/>
+        <title type="html"><![CDATA[Android 17 is getting its own version of Apple&#8217;s Handoff]]></title>
+        <id>https://www.theverge.com/tech/934457/android-17-continue-on-handoff</id>
+        <link href="https://www.theverge.com/tech/934457/android-17-continue-on-handoff"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wear OS 7 will keep track of deliveries and sports scores on your wrist]]></title>
-        <id>https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026</id>
-        <link href="https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plex is tripling the price of a lifetime pass to $750 after doubling it last year]]></title>
-        <id>https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike</id>
-        <link href="https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demis Hassabis said this might be the ‘foothills of the singularity.’ What?]]></title>
-        <id>https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis</id>
-        <link href="https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democrats preview how they’d go after the Ticketmaster settlement if they regain power]]></title>
-        <id>https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement</id>
-        <link href="https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement"/>
+        <title type="html"><![CDATA[We react to Google I/O 2026]]></title>
+        <id>https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026</id>
+        <link href="https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
@@ -57,9 +36,58 @@
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We react to Google I/O 2026]]></title>
-        <id>https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026</id>
-        <link href="https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026"/>
+        <title type="html"><![CDATA[Democrats preview how they’d go after the Ticketmaster settlement if they regain power]]></title>
+        <id>https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement</id>
+        <link href="https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demis Hassabis said this might be the ‘foothills of the singularity.’ What?]]></title>
+        <id>https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis</id>
+        <link href="https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plex is tripling the price of a lifetime pass to $750 after doubling it last year]]></title>
+        <id>https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike</id>
+        <link href="https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wear OS 7 will keep track of deliveries and sports scores on your wrist]]></title>
+        <id>https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026</id>
+        <link href="https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung workers set to strike at worst possible time]]></title>
+        <id>https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply</id>
+        <link href="https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ride1Up Roadster Review (2026): An Ebike That Feels Like a Bike]]></title>
+        <id>https://www.wired.com/review/ride1up-roadster-ebike-review/</id>
+        <link href="https://www.wired.com/review/ride1up-roadster-ebike-review/"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hypershell X Ultra S Review: The Best Exoskeleton Yet]]></title>
+        <id>https://www.wired.com/review/hypershell-x-ultra-s/</id>
+        <link href="https://www.wired.com/review/hypershell-x-ultra-s/"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Election Officials Are Getting Ready for ICE to Show Up at the Polls]]></title>
+        <id>https://www.wired.com/story/election-officials-are-getting-ready-for-ice-to-show-up-midterms/</id>
+        <link href="https://www.wired.com/story/election-officials-are-getting-ready-for-ice-to-show-up-midterms/"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
@@ -141,177 +169,86 @@
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Professor Miller (1973) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=qSKqW6Olm7I</id>
-        <link href="https://www.youtube.com/watch?v=qSKqW6Olm7I"/>
+        <title type="html"><![CDATA[Show HN: A fast, thread-safe C hashmap with lazy sorting]]></title>
+        <id>https://github.com/RaphaelPrevost/hashmap-benchmark</id>
+        <link href="https://github.com/RaphaelPrevost/hashmap-benchmark"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Chrome ext to let zot, your terminal coding agent, operate the browser]]></title>
-        <id>https://github.com/patriceckhart/zot-chrome-operator</id>
-        <link href="https://github.com/patriceckhart/zot-chrome-operator"/>
+        <title type="html"><![CDATA[A preserved Titan II nuclear missile silo [video]]]></title>
+        <id>https://www.youtube.com/watch?v=rSFSnOBYlbM</id>
+        <link href="https://www.youtube.com/watch?v=rSFSnOBYlbM"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Weaving baskets and braiding hair for quantum computing [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Y0mn7UBonSs</id>
-        <link href="https://www.youtube.com/watch?v=Y0mn7UBonSs"/>
+        <title type="html"><![CDATA[A reproducible forecasting tutorial using ERA5 and electricity data]]></title>
+        <id>https://sentinel-forecasting.com/RTE_tutorial/</id>
+        <link href="https://sentinel-forecasting.com/RTE_tutorial/"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grafana Labs security update on TanStack NPM supply chain ransomware incident]]></title>
-        <id>https://grafana.com/blog/grafana-labs-security-update-latest-on-tanstack-npm-supply-chain-ransomware-incident/</id>
-        <link href="https://grafana.com/blog/grafana-labs-security-update-latest-on-tanstack-npm-supply-chain-ransomware-incident/"/>
+        <title type="html"><![CDATA[Turn any Chromium-based browser into a permanent JavaScript botnet member]]></title>
+        <id>https://infosec.exchange/@rebane2001/116606719764376414</id>
+        <link href="https://infosec.exchange/@rebane2001/116606719764376414"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ringspace Trusted Webrings: Is a great idea returning?]]></title>
-        <id>https://ringspace.net/</id>
-        <link href="https://ringspace.net/"/>
+        <title type="html"><![CDATA[Meta Begins Laying Off Thousands of Employees as It Transforms Around AI]]></title>
+        <id>https://www.wsj.com/tech/ai/meta-begins-laying-off-thousands-of-employees-as-it-transforms-around-ai-3c31a9eb</id>
+        <link href="https://www.wsj.com/tech/ai/meta-begins-laying-off-thousands-of-employees-as-it-transforms-around-ai-3c31a9eb"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mirage – Unified Virtual File System for AI Agents]]></title>
-        <id>https://www.strukto.ai/mirage</id>
-        <link href="https://www.strukto.ai/mirage"/>
+        <title type="html"><![CDATA[Yeunjoo Choi from Igalia on Chromium]]></title>
+        <id>https://theconsensus.dev/p/2026/05/20/yeunjoo-choi-from-igalia-on-chromium.html</id>
+        <link href="https://theconsensus.dev/p/2026/05/20/yeunjoo-choi-from-igalia-on-chromium.html"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is an executive chair, Tim Cook's new position?]]></title>
-        <id>https://hsu.cy/2026/04/tim-cook-as-the-executive-chair/</id>
-        <link href="https://hsu.cy/2026/04/tim-cook-as-the-executive-chair/"/>
+        <title type="html"><![CDATA[Discord Voice and Video Calls Now End-to-End Encrypted by Default]]></title>
+        <id>https://www.macrumors.com/2026/05/20/discord-voice-video-calls-e2ee-default/</id>
+        <link href="https://www.macrumors.com/2026/05/20/discord-voice-video-calls-e2ee-default/"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tonic is joining the gRPC project]]></title>
-        <id>https://luciofranco.com/blog/tonic-joins-grpc/</id>
-        <link href="https://luciofranco.com/blog/tonic-joins-grpc/"/>
+        <title type="html"><![CDATA[Meta blocks human rights accounts from reaching audiences in Arabia and the UAE]]></title>
+        <id>https://www.alqst.org/ar/posts/1190</id>
+        <link href="https://www.alqst.org/ar/posts/1190"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My GitHub Account Was Unexpectedly Suspended]]></title>
-        <id>https://blog.lyc8503.net/en/post/github-account-suspended/</id>
-        <link href="https://blog.lyc8503.net/en/post/github-account-suspended/"/>
+        <title type="html"><![CDATA[Neutron scattering explains why gluten-free pasta falls apart (2025)]]></title>
+        <id>https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html</id>
+        <link href="https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Arduino spins faster when Claude burns more tokens]]></title>
-        <id>https://terminalbytes.com/arduino-claude-code-activity-meter/</id>
-        <link href="https://terminalbytes.com/arduino-claude-code-activity-meter/"/>
+        <title type="html"><![CDATA[Why Agents Suddenly Need a Sandbox [video]]]></title>
+        <id>https://www.youtube.com/watch?v=hkEH_fTH8iI</id>
+        <link href="https://www.youtube.com/watch?v=hkEH_fTH8iI"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML-in-Canvas Demos]]></title>
-        <id>https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md</id>
-        <link href="https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md"/>
+        <title type="html"><![CDATA[Zettelkasten]]></title>
+        <id>https://en.wikipedia.org/wiki/Zettelkasten</id>
+        <link href="https://en.wikipedia.org/wiki/Zettelkasten"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Language Registries Are Unstable by Default]]></title>
-        <id>https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html</id>
-        <link href="https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Widening the Conversation on Frontier AI]]></title>
-        <id>https://www.anthropic.com/news/widening-conversation-ai</id>
-        <link href="https://www.anthropic.com/news/widening-conversation-ai"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paul Schrader Had an 'AI Girlfriend' Who 'Terminated Our Conversation']]></title>
-        <id>https://variety.com/2026/film/news/paul-schrader-ai-girlfriend-ended-relationship-1236753609/</id>
-        <link href="https://variety.com/2026/film/news/paul-schrader-ai-girlfriend-ended-relationship-1236753609/"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join a group chat with 30 random people that is locked forever]]></title>
-        <id>https://isle31.com/</id>
-        <link href="https://isle31.com/"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Alint, a fast linter for repository structure and hygiene]]></title>
-        <id>https://github.com/asamarts/alint</id>
-        <link href="https://github.com/asamarts/alint"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Claude-Autopilot: autonomous dev pipeline with risk-tiered review]]></title>
-        <id>https://github.com/axledbetter/claude-autopilot</id>
-        <link href="https://github.com/axledbetter/claude-autopilot"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTK: Rust Token Killer]]></title>
-        <id>https://github.com/rtk-ai/rtk</id>
-        <link href="https://github.com/rtk-ai/rtk"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Javalamp – A glowing terminal screensaver that keeps your Mac awake]]></title>
-        <id>https://github.com/breschio/javalamp</id>
-        <link href="https://github.com/breschio/javalamp"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Incompatibilities Between Generative AI and Art: Q&A with Ted Chiang]]></title>
-        <id>https://cdh.princeton.edu/blog/ted-chiang/</id>
-        <link href="https://cdh.princeton.edu/blog/ted-chiang/"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: What are Stainless users doing now that Anthropic has killed it?]]></title>
-        <id>https://news.ycombinator.com/item?id=48202774</id>
-        <link href="https://news.ycombinator.com/item?id=48202774"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM detector with science behind it]]></title>
-        <id>https://huggingface.co/spaces/akolpakov/SatorArepo</id>
-        <link href="https://huggingface.co/spaces/akolpakov/SatorArepo"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slap Links – A Chrome extension inspired by SlapMac]]></title>
-        <id>https://slaplinks.app/</id>
-        <link href="https://slaplinks.app/"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[List of Consumer Reporting Companies [pdf]]]></title>
-        <id>https://files.consumerfinance.gov/f/documents/cfpb_consumer-reporting-companies_list_2025.pdf</id>
-        <link href="https://files.consumerfinance.gov/f/documents/cfpb_consumer-reporting-companies_list_2025.pdf"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI commits S$300M to grow Singapore's AI capabilities]]></title>
-        <id>https://www.channelnewsasia.com/singapore/openai-singapore-300-million-ai-6128036</id>
-        <link href="https://www.channelnewsasia.com/singapore/openai-singapore-300-million-ai-6128036"/>
+        <title type="html"><![CDATA[HTML-anything – The agentic HTML editor – your local AI agent writes the HTML]]></title>
+        <id>https://github.com/nexu-io/html-anything</id>
+        <link href="https://github.com/nexu-io/html-anything"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
@@ -323,44 +260,107 @@
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The next phase of OpenAI’s Education for Countries]]></title>
-        <id>https://openai.com/index/the-next-phase-of-education-for-countries</id>
-        <link href="https://openai.com/index/the-next-phase-of-education-for-countries"/>
+        <title type="html"><![CDATA[OpenAI commits S$300M to grow Singapore's AI capabilities]]></title>
+        <id>https://www.channelnewsasia.com/singapore/openai-singapore-300-million-ai-6128036</id>
+        <link href="https://www.channelnewsasia.com/singapore/openai-singapore-300-million-ai-6128036"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tested Gemini 3.5 Flash on 18 Agent Tasks — Its 6× Pricier 'Flash' Crushed GPT-5.5 at 4× Speed]]></title>
-        <id>https://pub.towardsai.net/i-tested-gemini-3-5-flash-on-18-agent-tasks-its-6-pricier-flash-crushed-gpt-5-5-at-4-speed-aeab103e0981?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-tested-gemini-3-5-flash-on-18-agent-tasks-its-6-pricier-flash-crushed-gpt-5-5-at-4-speed-aeab103e0981?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[List of Consumer Reporting Companies [pdf]]]></title>
+        <id>https://files.consumerfinance.gov/f/documents/cfpb_consumer-reporting-companies_list_2025.pdf</id>
+        <link href="https://files.consumerfinance.gov/f/documents/cfpb_consumer-reporting-companies_list_2025.pdf"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Contextual Retrieval: The Preprocessing Step That Makes RAG Actually Work]]></title>
-        <id>https://pub.towardsai.net/contextual-retrieval-the-preprocessing-step-that-makes-rag-actually-work-96b9aa15c775?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/contextual-retrieval-the-preprocessing-step-that-makes-rag-actually-work-96b9aa15c775?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Slap Links – A Chrome extension inspired by SlapMac]]></title>
+        <id>https://slaplinks.app/</id>
+        <link href="https://slaplinks.app/"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building an Agentic Healthcare Retrieval System Using QQL and Qdrant]]></title>
-        <id>https://pub.towardsai.net/building-an-agentic-healthcare-retrieval-system-using-qql-and-qdrant-8c2d37591f98?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-an-agentic-healthcare-retrieval-system-using-qql-and-qdrant-8c2d37591f98?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[LLM detector with science behind it]]></title>
+        <id>https://huggingface.co/spaces/akolpakov/SatorArepo</id>
+        <link href="https://huggingface.co/spaces/akolpakov/SatorArepo"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Multi-Agent AI Systems: The Tech Behind the World’s Fastest-Growing Startups]]></title>
-        <id>https://pub.towardsai.net/multi-agent-ai-systems-the-tech-behind-the-worlds-fastest-growing-startups-4c2ecb69470c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/multi-agent-ai-systems-the-tech-behind-the-worlds-fastest-growing-startups-4c2ecb69470c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Ask HN: What are Stainless users doing now that Anthropic has killed it?]]></title>
+        <id>https://news.ycombinator.com/item?id=48202774</id>
+        <link href="https://news.ycombinator.com/item?id=48202774"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data’s Best Decade is Ahead. Most Companies Are Looking at it Wrong.]]></title>
-        <id>https://pub.towardsai.net/datas-best-decade-is-ahead-most-companies-are-looking-at-it-wrong-dd5b3ccc3270?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/datas-best-decade-is-ahead-most-companies-are-looking-at-it-wrong-dd5b3ccc3270?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Incompatibilities Between Generative AI and Art: Q&A with Ted Chiang]]></title>
+        <id>https://cdh.princeton.edu/blog/ted-chiang/</id>
+        <link href="https://cdh.princeton.edu/blog/ted-chiang/"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Javalamp – A glowing terminal screensaver that keeps your Mac awake]]></title>
+        <id>https://github.com/breschio/javalamp</id>
+        <link href="https://github.com/breschio/javalamp"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTK: Rust Token Killer]]></title>
+        <id>https://github.com/rtk-ai/rtk</id>
+        <link href="https://github.com/rtk-ai/rtk"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Claude-Autopilot: autonomous dev pipeline with risk-tiered review]]></title>
+        <id>https://github.com/axledbetter/claude-autopilot</id>
+        <link href="https://github.com/axledbetter/claude-autopilot"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Alint, a fast linter for repository structure and hygiene]]></title>
+        <id>https://github.com/asamarts/alint</id>
+        <link href="https://github.com/asamarts/alint"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join a group chat with 30 random people that is locked forever]]></title>
+        <id>https://isle31.com/</id>
+        <link href="https://isle31.com/"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paul Schrader Had an 'AI Girlfriend' Who 'Terminated Our Conversation']]></title>
+        <id>https://variety.com/2026/film/news/paul-schrader-ai-girlfriend-ended-relationship-1236753609/</id>
+        <link href="https://variety.com/2026/film/news/paul-schrader-ai-girlfriend-ended-relationship-1236753609/"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Widening the Conversation on Frontier AI]]></title>
+        <id>https://www.anthropic.com/news/widening-conversation-ai</id>
+        <link href="https://www.anthropic.com/news/widening-conversation-ai"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Language Registries Are Unstable by Default]]></title>
+        <id>https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html</id>
+        <link href="https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML-in-Canvas Demos]]></title>
+        <id>https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md</id>
+        <link href="https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
