@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-20T07:03:01.305Z</updated>
+    <updated>2026-05-20T10:02:47.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,30 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[We react to Google I/O 2026]]></title>
-        <id>https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026</id>
-        <link href="https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026"/>
+        <title type="html"><![CDATA[Samsung workers set to strike at worst possible time]]></title>
+        <id>https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply</id>
+        <link href="https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google’s AI future demands trust — and your personal data]]></title>
-        <id>https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data</id>
-        <link href="https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democrats preview how they’d go after the Ticketmaster settlement if they regain power]]></title>
-        <id>https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement</id>
-        <link href="https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demis Hassabis said this might be the ‘foothills of the singularity.’ What?]]></title>
-        <id>https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis</id>
-        <link href="https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis"/>
+        <title type="html"><![CDATA[Wear OS 7 will keep track of deliveries and sports scores on your wrist]]></title>
+        <id>https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026</id>
+        <link href="https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
@@ -50,9 +36,30 @@
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wear OS 7 will keep track of deliveries and sports scores on your wrist]]></title>
-        <id>https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026</id>
-        <link href="https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026"/>
+        <title type="html"><![CDATA[Demis Hassabis said this might be the ‘foothills of the singularity.’ What?]]></title>
+        <id>https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis</id>
+        <link href="https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats preview how they’d go after the Ticketmaster settlement if they regain power]]></title>
+        <id>https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement</id>
+        <link href="https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s AI future demands trust — and your personal data]]></title>
+        <id>https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data</id>
+        <link href="https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We react to Google I/O 2026]]></title>
+        <id>https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026</id>
+        <link href="https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
@@ -316,6 +323,13 @@
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The next phase of OpenAI’s Education for Countries]]></title>
+        <id>https://openai.com/index/the-next-phase-of-education-for-countries</id>
+        <link href="https://openai.com/index/the-next-phase-of-education-for-countries"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I Tested Gemini 3.5 Flash on 18 Agent Tasks — Its 6× Pricier 'Flash' Crushed GPT-5.5 at 4× Speed]]></title>
         <id>https://pub.towardsai.net/i-tested-gemini-3-5-flash-on-18-agent-tasks-its-6-pricier-flash-crushed-gpt-5-5-at-4-speed-aeab103e0981?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/i-tested-gemini-3-5-flash-on-18-agent-tasks-its-6-pricier-flash-crushed-gpt-5-5-at-4-speed-aeab103e0981?source=rss----98111c9905da---4"/>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Data’s Best Decade is Ahead. Most Companies Are Looking at it Wrong.]]></title>
         <id>https://pub.towardsai.net/datas-best-decade-is-ahead-most-companies-are-looking-at-it-wrong-dd5b3ccc3270?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/datas-best-decade-is-ahead-most-companies-are-looking-at-it-wrong-dd5b3ccc3270?source=rss----98111c9905da---4"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KV Cache Internals: How Transformers Avoid Recomputing Attention]]></title>
-        <id>https://pub.towardsai.net/kv-cache-internals-how-transformers-avoid-recomputing-attention-27672f3382e0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/kv-cache-internals-how-transformers-avoid-recomputing-attention-27672f3382e0?source=rss----98111c9905da---4"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crack ML Interviews with Confidence: CatBoost (25 Q&A)]]></title>
-        <id>https://pub.towardsai.net/crack-ml-interviews-with-confidence-catboost-25-q-a-32461acb2de5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/crack-ml-interviews-with-confidence-catboost-25-q-a-32461acb2de5?source=rss----98111c9905da---4"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
