@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-20 08:02:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-20 10:02:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -14,12 +14,12 @@
 - [2026-05-12-I-built-an-HTML-to-PDF-API-in-6-weeks-—-here's-what-I-learned](https://dev.to/jabeer_s/i-built-an-html-to-pdf-api-in-6-weeks-heres-what-i-learned-14b6) 
 - [2026-05-08-I-built-a-'life-in-weeks'-poster-generator-in-one-HTML-file](https://dev.to/alialp/i-built-a-life-in-weeks-poster-generator-in-one-html-file-40hp) 
 - [2026-04-30-A-Complexidade-Oculta-das-Tabelas-HTML-Por-Que-Parseá-las-É-Mais-Difícil-Do-Que-Você-Imagina](https://dev.to/circobit/a-complexidade-oculta-das-tabelas-html-por-que-parsea-las-e-mais-dificil-do-que-voce-imagina-2b5o) 
-- [2026-04-28-Die-versteckte-Komplexität-von-HTML-Tabellen-Warum-das-Parsen-schwieriger-ist,-als-man-denkt](https://dev.to/circobit/die-versteckte-komplexitat-von-html-tabellen-warum-das-parsen-schwieriger-ist-als-man-denkt-50d9) 
 - [2026-04-28-HTML-테이블의-숨겨진-복잡성-파싱이-생각보다-어려운-이유](https://dev.to/circobit/html-teibeulyi-sumgyeojin-bogjabseong-pasingi-saenggagboda-eoryeoun-iyu-21d) 
-- [2026-04-27-Why-do-scheduling-apps-need-my-email?-I-built-a-100%-Client-Side-Timetable-Builder-instead-📅🚀](https://dev.to/adawati/why-do-scheduling-apps-need-my-email-i-built-a-100-client-side-timetable-builder-instead-3fbj) 
+- [2026-04-28-Die-versteckte-Komplexität-von-HTML-Tabellen-Warum-das-Parsen-schwieriger-ist,-als-man-denkt](https://dev.to/circobit/die-versteckte-komplexitat-von-html-tabellen-warum-das-parsen-schwieriger-ist-als-man-denkt-50d9) 
 - [2026-04-27-De-Verborgen-Complexiteit-van-HTML-Tabellen-Waarom-Parsen-Moeilijker-Is-Dan-Je-Denkt](https://dev.to/circobit/de-verborgen-complexiteit-van-html-tabellen-waarom-parsen-moeilijker-is-dan-je-denkt-4ohe) 
-- [2026-04-23-I-Built-a-Live-Subscription-Dashboard-on-RevenueCat's-Charts-API-in-One-HTML-File](https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-18ph) 
+- [2026-04-27-Why-do-scheduling-apps-need-my-email?-I-built-a-100%-Client-Side-Timetable-Builder-instead-📅🚀](https://dev.to/adawati/why-do-scheduling-apps-need-my-email-i-built-a-100-client-side-timetable-builder-instead-3fbj) 
 - [2026-04-23-I-Built-a-Live-Subscription-Dashboard-on-RevenueCat's-Charts-API-in-One-HTML-File](https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-5alc) 
+- [2026-04-23-I-Built-a-Live-Subscription-Dashboard-on-RevenueCat's-Charts-API-in-One-HTML-File](https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-18ph) 
 - [2026-04-22-7-HTML-Button-Mistakes-Beginners-Make-Fix-Them-Now](https://dev.to/drivecoding/7-html-button-mistakes-beginners-make-fix-them-now-429n) 
 - [2026-04-21--Fax-Office-1987-8-film-cameras-simulated-in-a-single-HTML-file-](
 https://faxoffice1987.com

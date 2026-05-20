@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-20T00:02:03.078Z</updated>
+    <updated>2026-05-20T02:02:34.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -190,23 +190,16 @@
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data’s Best Decade is Ahead. Most Companies Are Looking at it Wrong.]]></title>
-        <id>https://pub.towardsai.net/datas-best-decade-is-ahead-most-companies-are-looking-at-it-wrong-dd5b3ccc3270?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/datas-best-decade-is-ahead-most-companies-are-looking-at-it-wrong-dd5b3ccc3270?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Beating Frontier Models on a Turkish Classification task for $30 of GPU + RL]]></title>
+        <id>https://pub.towardsai.net/beating-frontier-models-on-a-turkish-classification-task-for-30-of-gpu-rl-b68e2d824685?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beating-frontier-models-on-a-turkish-classification-task-for-30-of-gpu-rl-b68e2d824685?source=rss----98111c9905da---4"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KV Cache Internals: How Transformers Avoid Recomputing Attention]]></title>
-        <id>https://pub.towardsai.net/kv-cache-internals-how-transformers-avoid-recomputing-attention-27672f3382e0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/kv-cache-internals-how-transformers-avoid-recomputing-attention-27672f3382e0?source=rss----98111c9905da---4"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crack ML Interviews with Confidence: CatBoost (25 Q&A)]]></title>
-        <id>https://pub.towardsai.net/crack-ml-interviews-with-confidence-catboost-25-q-a-32461acb2de5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/crack-ml-interviews-with-confidence-catboost-25-q-a-32461acb2de5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I Wish I Knew This Before Building an AI Second Brain]]></title>
+        <id>https://pub.towardsai.net/i-wish-i-knew-this-before-building-an-ai-second-brain-6179aa439aef?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-wish-i-knew-this-before-building-an-ai-second-brain-6179aa439aef?source=rss----98111c9905da---4"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
@@ -218,9 +211,23 @@
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Wish I Knew This Before Building an AI Second Brain]]></title>
-        <id>https://pub.towardsai.net/i-wish-i-knew-this-before-building-an-ai-second-brain-6179aa439aef?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-wish-i-knew-this-before-building-an-ai-second-brain-6179aa439aef?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Crack ML Interviews with Confidence: CatBoost (25 Q&A)]]></title>
+        <id>https://pub.towardsai.net/crack-ml-interviews-with-confidence-catboost-25-q-a-32461acb2de5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/crack-ml-interviews-with-confidence-catboost-25-q-a-32461acb2de5?source=rss----98111c9905da---4"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KV Cache Internals: How Transformers Avoid Recomputing Attention]]></title>
+        <id>https://pub.towardsai.net/kv-cache-internals-how-transformers-avoid-recomputing-attention-27672f3382e0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/kv-cache-internals-how-transformers-avoid-recomputing-attention-27672f3382e0?source=rss----98111c9905da---4"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data’s Best Decade is Ahead. Most Companies Are Looking at it Wrong.]]></title>
+        <id>https://pub.towardsai.net/datas-best-decade-is-ahead-most-companies-are-looking-at-it-wrong-dd5b3ccc3270?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/datas-best-decade-is-ahead-most-companies-are-looking-at-it-wrong-dd5b3ccc3270?source=rss----98111c9905da---4"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
@@ -239,79 +246,30 @@
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I benchmarked 6 WASM image codecs in the browser. Here is what beats the server.]]></title>
-        <id>https://dev.to/convertilo/i-benchmarked-6-wasm-image-codecs-in-the-browser-here-is-what-beats-the-server-1dlb</id>
-        <link href="https://dev.to/convertilo/i-benchmarked-6-wasm-image-codecs-in-the-browser-here-is-what-beats-the-server-1dlb"/>
+        <title type="html"><![CDATA[ScaffoldX vs Vite vs Create-React-App: Which Project Scaffolder Is Right for You in 2026]]></title>
+        <id>https://dev.to/ke_jia_24bb2f9f84f14f728a/scaffoldx-vs-vite-vs-create-react-app-which-project-scaffolder-is-right-for-you-in-2026-4bfk</id>
+        <link href="https://dev.to/ke_jia_24bb2f9f84f14f728a/scaffoldx-vs-vite-vs-create-react-app-which-project-scaffolder-is-right-for-you-in-2026-4bfk"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Braintrust vs LangSmith: Is $249/mo Worth It? The May 2026 Math]]></title>
-        <id>https://dev.to/bean_bean/braintrust-vs-langsmith-is-249mo-worth-it-the-may-2026-math-2i2a</id>
-        <link href="https://dev.to/bean_bean/braintrust-vs-langsmith-is-249mo-worth-it-the-may-2026-math-2i2a"/>
+        <title type="html"><![CDATA[How I Built a Habit Tracker With Living Trees Using React and Firebase at 17]]></title>
+        <id>https://dev.to/bloomer_1217/how-i-built-a-habit-tracker-with-living-trees-using-react-and-firebase-at-17-gi9</id>
+        <link href="https://dev.to/bloomer_1217/how-i-built-a-habit-tracker-with-living-trees-using-react-and-firebase-at-17-gi9"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Computing Moon Phase in 150 Lines of JavaScript — Julian Date, Synodic Month, and SVG Terminator]]></title>
-        <id>https://dev.to/sendotltd/computing-moon-phase-in-150-lines-of-javascript-julian-date-synodic-month-and-svg-terminator-1o3k</id>
-        <link href="https://dev.to/sendotltd/computing-moon-phase-in-150-lines-of-javascript-julian-date-synodic-month-and-svg-terminator-1o3k"/>
+        <title type="html"><![CDATA[Node.js Streams: The Practical Guide (2026)]]></title>
+        <id>https://dev.to/armorbreak/nodejs-streams-the-practical-guide-2026-472a</id>
+        <link href="https://dev.to/armorbreak/nodejs-streams-the-practical-guide-2026-472a"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Did you know Docker images of Node.js running on Alpine Linux are "unofficial"?]]></title>
-        <id>https://dev.to/jscv-solutions/did-you-know-docker-images-of-nodejs-running-on-alpine-linux-are-unofficial-4anm</id>
-        <link href="https://dev.to/jscv-solutions/did-you-know-docker-images-of-nodejs-running-on-alpine-linux-are-unofficial-4anm"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens When You Run `npm run dev`]]></title>
-        <id>https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9</id>
-        <link href="https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEO Challenges With Dynamic Prayer Time City Pages]]></title>
-        <id>https://dev.to/jem_vick_c8/seo-challenges-with-dynamic-prayer-time-city-pages-1hd4</id>
-        <link href="https://dev.to/jem_vick_c8/seo-challenges-with-dynamic-prayer-time-city-pages-1hd4"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Built a Contactless Digital Signature App inside the Browser (No Servers, 100% Private)]]></title>
-        <id>https://dev.to/somyabhalani/how-we-built-a-contactless-digital-signature-app-inside-the-browser-no-servers-100-private-18n2</id>
-        <link href="https://dev.to/somyabhalani/how-we-built-a-contactless-digital-signature-app-inside-the-browser-no-servers-100-private-18n2"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NestJS vs Express: Which One Should You Choose in 2025?]]></title>
-        <id>https://dev.to/mirzasaikatahmmed/nestjs-vs-express-which-one-should-you-choose-in-2025-o14</id>
-        <link href="https://dev.to/mirzasaikatahmmed/nestjs-vs-express-which-one-should-you-choose-in-2025-o14"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pop any UI component into a floating Picture-in-Picture window.]]></title>
-        <id>https://dev.to/shakya47/pop-any-ui-component-into-a-floating-picture-in-picture-window-3ebl</id>
-        <link href="https://dev.to/shakya47/pop-any-ui-component-into-a-floating-picture-in-picture-window-3ebl"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rakers — a headless JS renderer in Rust]]></title>
-        <id>https://dev.to/tbxyz_0/rakers-a-headless-js-renderer-in-rust-23m4</id>
-        <link href="https://dev.to/tbxyz_0/rakers-a-headless-js-renderer-in-rust-23m4"/>
-        <updated>2026-05-19T16:00:00.000Z</updated>
-        <published>2026-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The JavaScript Event Loop Explained Simply (2026)]]></title>
-        <id>https://dev.to/armorbreak/the-javascript-event-loop-explained-simply-2026-45e1</id>
-        <link href="https://dev.to/armorbreak/the-javascript-event-loop-explained-simply-2026-45e1"/>
+        <title type="html"><![CDATA[JavaScriptでWebテーブルエクスポートを自動化する実践ガイド]]></title>
+        <id>https://dev.to/circobit/javascriptdewebteburuekusupotowozi-dong-hua-surushi-jian-gaido-2oi1</id>
+        <link href="https://dev.to/circobit/javascriptdewebteburuekusupotowozi-dong-hua-surushi-jian-gaido-2oi1"/>
         <updated>2026-05-19T16:00:00.000Z</updated>
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
@@ -323,44 +281,86 @@
         <published>2026-05-19T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The JavaScript Event Loop Explained Simply (2026)]]></title>
+        <id>https://dev.to/armorbreak/the-javascript-event-loop-explained-simply-2026-45e1</id>
+        <link href="https://dev.to/armorbreak/the-javascript-event-loop-explained-simply-2026-45e1"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rakers — a headless JS renderer in Rust]]></title>
+        <id>https://dev.to/tbxyz_0/rakers-a-headless-js-renderer-in-rust-23m4</id>
+        <link href="https://dev.to/tbxyz_0/rakers-a-headless-js-renderer-in-rust-23m4"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pop any UI component into a floating Picture-in-Picture window.]]></title>
+        <id>https://dev.to/shakya47/pop-any-ui-component-into-a-floating-picture-in-picture-window-3ebl</id>
+        <link href="https://dev.to/shakya47/pop-any-ui-component-into-a-floating-picture-in-picture-window-3ebl"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NestJS vs Express: Which One Should You Choose in 2025?]]></title>
+        <id>https://dev.to/mirzasaikatahmmed/nestjs-vs-express-which-one-should-you-choose-in-2025-o14</id>
+        <link href="https://dev.to/mirzasaikatahmmed/nestjs-vs-express-which-one-should-you-choose-in-2025-o14"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Built a Contactless Digital Signature App inside the Browser (No Servers, 100% Private)]]></title>
+        <id>https://dev.to/somyabhalani/how-we-built-a-contactless-digital-signature-app-inside-the-browser-no-servers-100-private-18n2</id>
+        <link href="https://dev.to/somyabhalani/how-we-built-a-contactless-digital-signature-app-inside-the-browser-no-servers-100-private-18n2"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEO Challenges With Dynamic Prayer Time City Pages]]></title>
+        <id>https://dev.to/jem_vick_c8/seo-challenges-with-dynamic-prayer-time-city-pages-1hd4</id>
+        <link href="https://dev.to/jem_vick_c8/seo-challenges-with-dynamic-prayer-time-city-pages-1hd4"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When You Run `npm run dev`]]></title>
+        <id>https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9</id>
+        <link href="https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did you know Docker images of Node.js running on Alpine Linux are "unofficial"?]]></title>
+        <id>https://dev.to/jscv-solutions/did-you-know-docker-images-of-nodejs-running-on-alpine-linux-are-unofficial-4anm</id>
+        <link href="https://dev.to/jscv-solutions/did-you-know-docker-images-of-nodejs-running-on-alpine-linux-are-unofficial-4anm"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computing Moon Phase in 150 Lines of JavaScript — Julian Date, Synodic Month, and SVG Terminator]]></title>
+        <id>https://dev.to/sendotltd/computing-moon-phase-in-150-lines-of-javascript-julian-date-synodic-month-and-svg-terminator-1o3k</id>
+        <link href="https://dev.to/sendotltd/computing-moon-phase-in-150-lines-of-javascript-julian-date-synodic-month-and-svg-terminator-1o3k"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Braintrust vs LangSmith: Is $249/mo Worth It? The May 2026 Math]]></title>
+        <id>https://dev.to/bean_bean/braintrust-vs-langsmith-is-249mo-worth-it-the-may-2026-math-2i2a</id>
+        <link href="https://dev.to/bean_bean/braintrust-vs-langsmith-is-249mo-worth-it-the-may-2026-math-2i2a"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I benchmarked 6 WASM image codecs in the browser. Here is what beats the server.]]></title>
+        <id>https://dev.to/convertilo/i-benchmarked-6-wasm-image-codecs-in-the-browser-here-is-what-beats-the-server-1dlb</id>
+        <link href="https://dev.to/convertilo/i-benchmarked-6-wasm-image-codecs-in-the-browser-here-is-what-beats-the-server-1dlb"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <published>2026-05-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LG will release the first 1000Hz, 1080p gaming monitor this year]]></title>
         <id>https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b</id>
         <link href="https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walmart launches new budget-friendly Android tablets starting at $97]]></title>
-        <id>https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets</id>
-        <link href="https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marshall brings ANC back to its smaller on-ear wireless headphones]]></title>
-        <id>https://www.theverge.com/tech/930787/marshall-milton-anc-active-noise-canceling-wireless-headphones</id>
-        <link href="https://www.theverge.com/tech/930787/marshall-milton-anc-active-noise-canceling-wireless-headphones"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set Up Your Phone’s Always-On Display So You’re Unlocking It Less Often]]></title>
-        <id>https://www.wired.com/story/set-up-always-on-display-iphone-android/</id>
-        <link href="https://www.wired.com/story/set-up-always-on-display-iphone-android/"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Action Cameras for All Your Craziest Adventures (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-action-cameras/</id>
-        <link href="https://www.wired.com/gallery/best-action-cameras/"/>
-        <updated>2026-05-18T16:00:00.000Z</updated>
-        <published>2026-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forget the feed: Status AI raises $17M to turn social media into interactive entertainment]]></title>
-        <id>https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/</id>
-        <link href="https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/"/>
         <updated>2026-05-18T16:00:00.000Z</updated>
         <published>2026-05-18T16:00:00.000Z</published>
     </entry>
