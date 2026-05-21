@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-21T04:02:10.202Z</updated>
+    <updated>2026-05-21T07:04:42.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,37 +36,9 @@
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI claims it solved an 80-year-old math problem — for real this time]]></title>
-        <id>https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/</id>
-        <link href="https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbnb gets into hotels, expands AI for host onboarding and customer support]]></title>
-        <id>https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/</id>
-        <link href="https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global EV market goes K-shaped as the US gets left behind]]></title>
-        <id>https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/</id>
-        <link href="https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia posts another record quarter, reveals $43B of holdings in startups]]></title>
-        <id>https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/</id>
-        <link href="https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over]]></title>
-        <id>https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/</id>
-        <link href="https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/"/>
+        <title type="html"><![CDATA[Truecaller gets into the eSIM business to diversify its revenue streams]]></title>
+        <id>https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/</id>
+        <link href="https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
@@ -78,177 +50,79 @@
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lazydiff: Fast TUI for Reviewing PRs with Semantic Diffs (GitHub, GitLab, Gitea)]]></title>
-        <id>https://github.com/Ataraxy-Labs/lazydiff</id>
-        <link href="https://github.com/Ataraxy-Labs/lazydiff"/>
+        <title type="html"><![CDATA[xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over]]></title>
+        <id>https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/</id>
+        <link href="https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Python Becoming Pinyin?]]></title>
-        <id>https://lernerpython.com/2026/05/19/is-python-becoming-pinyin/</id>
-        <link href="https://lernerpython.com/2026/05/19/is-python-becoming-pinyin/"/>
+        <title type="html"><![CDATA[Nvidia posts another record quarter, reveals $43B of holdings in startups]]></title>
+        <id>https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/</id>
+        <link href="https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rewrite System Showdown: Stochastic Search vs. EqSat]]></title>
-        <id>https://arxiv.org/abs/2605.19005</id>
-        <link href="https://arxiv.org/abs/2605.19005"/>
+        <title type="html"><![CDATA[Global EV market goes K-shaped as the US gets left behind]]></title>
+        <id>https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/</id>
+        <link href="https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Workers in India are training robots that may replace them]]></title>
-        <id>https://indianexpress.com/article/business/workers-india-training-robots-replace-factory-10698712/</id>
-        <link href="https://indianexpress.com/article/business/workers-india-training-robots-replace-factory-10698712/"/>
+        <title type="html"><![CDATA[Airbnb gets into hotels, expands AI for host onboarding and customer support]]></title>
+        <id>https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/</id>
+        <link href="https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Birth Rate Debate: 40% of Girls Will Never Be Mothers [video]]]></title>
-        <id>https://www.youtube.com/watch?v=8eCM3NTBeb4</id>
-        <link href="https://www.youtube.com/watch?v=8eCM3NTBeb4"/>
+        <title type="html"><![CDATA[OpenAI claims it solved an 80-year-old math problem — for real this time]]></title>
+        <id>https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/</id>
+        <link href="https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a tool to auto-generate iMessage replies]]></title>
-        <id>https://github.com/aditya-r123/iMessage-Bot</id>
-        <link href="https://github.com/aditya-r123/iMessage-Bot"/>
+        <title type="html"><![CDATA[Dust raises $40M Series B to scale multiplayer AI for human-agent collaboration]]></title>
+        <id>https://dust.tt/blog/series-b-multiplayer-ai</id>
+        <link href="https://dust.tt/blog/series-b-multiplayer-ai"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Begins AI-Driven Layoffs, Report Says. Can They Boost the Struggling Stock?]]></title>
-        <id>https://www.barrons.com/articles/meta-stock-ai-layoffs-f9dba997</id>
-        <link href="https://www.barrons.com/articles/meta-stock-ai-layoffs-f9dba997"/>
+        <title type="html"><![CDATA[Could IPv6 have an edge over IPv4?]]></title>
+        <id>https://ssg.dev/could-ipv6-have-an-edge-over-ipv4/</id>
+        <link href="https://ssg.dev/could-ipv6-have-an-edge-over-ipv4/"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tracking Capabilities for Safer Agents]]></title>
-        <id>https://arxiv.org/abs/2603.00991</id>
-        <link href="https://arxiv.org/abs/2603.00991"/>
+        <title type="html"><![CDATA[MeetMarket: Alternative Gay Hookup App]]></title>
+        <id>https://meetmarket.io/welcome</id>
+        <link href="https://meetmarket.io/welcome"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JAM: DSP audio engine programmable via AI chat]]></title>
-        <id>https://jeffsaudiomachines.com/my-story</id>
-        <link href="https://jeffsaudiomachines.com/my-story"/>
+        <title type="html"><![CDATA[Noyb success: ORF.at must correct misleading cookie banner]]></title>
+        <id>https://noyb.eu/en/noyb-success-orfat-must-correct-misleading-cookie-banner</id>
+        <link href="https://noyb.eu/en/noyb-success-orfat-must-correct-misleading-cookie-banner"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Primer Pay – micropayments for WordPress on Base requiring Chrome extension]]></title>
-        <id>https://wordpress.org/plugins/primer-pay/</id>
-        <link href="https://wordpress.org/plugins/primer-pay/"/>
+        <title type="html"><![CDATA[Dire wolf brought back from extinction after 13,000 years [video]]]></title>
+        <id>https://www.youtube.com/watch?v=uxo2xIBe_0Y</id>
+        <link href="https://www.youtube.com/watch?v=uxo2xIBe_0Y"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pgrls: Static Analyzer for Postgres Row-Level Security]]></title>
-        <id>https://github.com/pgrls/pgrls</id>
-        <link href="https://github.com/pgrls/pgrls"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA's Psyche spacecraft returns unfamiliar views of a familiar world]]></title>
-        <id>https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/</id>
-        <link href="https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Foreground Tab Tracking to the Chrome Devtools Protocol]]></title>
-        <id>https://www.browserbase.com/blog/cdp-foreground-tab-tracking</id>
-        <link href="https://www.browserbase.com/blog/cdp-foreground-tab-tracking"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL backup tool gets some backup of its own after maintainer sounds alarm]]></title>
-        <id>https://www.theregister.com/databases/2026/05/20/postgresql-backup-tool-gets-some-backup-of-its-own-after-sole-maintainer-sounds-alarm/5242822</id>
-        <link href="https://www.theregister.com/databases/2026/05/20/postgresql-backup-tool-gets-some-backup-of-its-own-after-sole-maintainer-sounds-alarm/5242822"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTSB Animation for UPS flight 2976 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=iWkLZjJXaos</id>
-        <link href="https://www.youtube.com/watch?v=iWkLZjJXaos"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A beginner-friendly approach to Pratt Parsing]]></title>
-        <id>https://washingtonramos.com/posts/1</id>
-        <link href="https://washingtonramos.com/posts/1"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung vs. MPEG LA appeals arguments [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ixVEsTbt9LU</id>
-        <link href="https://www.youtube.com/watch?v=ixVEsTbt9LU"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starting June 1 Copilot code review runs will consume minutes on GitHub]]></title>
-        <id>https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing</id>
-        <link href="https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is protein design? A Beginner's Guide to the Future of Biology]]></title>
-        <id>https://www.ipd.uw.edu/what-is-protein-design/</id>
-        <link href="https://www.ipd.uw.edu/what-is-protein-design/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compromised Nx Console]]></title>
-        <id>https://github.com/nrwl/nx-console/security/advisories/GHSA-c9j4-9m59-847w</id>
-        <link href="https://github.com/nrwl/nx-console/security/advisories/GHSA-c9j4-9m59-847w"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New dinosaur species Nagatitan chaiyaphumensis]]></title>
-        <id>https://www.smithsonianmag.com/smart-news/a-man-spotted-strange-looking-rocks-near-a-pond-in-thailand-they-turned-out-to-be-the-bones-of-a-massive-new-dinosaur-species-180988744/</id>
-        <link href="https://www.smithsonianmag.com/smart-news/a-man-spotted-strange-looking-rocks-near-a-pond-in-thailand-they-turned-out-to-be-the-bones-of-a-massive-new-dinosaur-species-180988744/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nx Console VS Code extension was the initial access vector in the GitHub breach]]></title>
-        <id>https://twitter.com/jeffbcross/status/2057236396658811020</id>
-        <link href="https://twitter.com/jeffbcross/status/2057236396658811020"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Demand Coop and why tech workers should join one]]></title>
-        <id>https://cahootzcoops.com/blog/what-is-a-demand-coop</id>
-        <link href="https://cahootzcoops.com/blog/what-is-a-demand-coop"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers in Ireland uncover medieval book in Rome with oldest English poem]]></title>
-        <id>https://apnews.com/article/old-english-manuscript-poetry-bede-caedmon-hymn-latin-italy-106769c014901cf06d8a56839d56ac90</id>
-        <link href="https://apnews.com/article/old-english-manuscript-poetry-bede-caedmon-hymn-latin-italy-106769c014901cf06d8a56839d56ac90"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decompile binaries to Rust, not C]]></title>
-        <id>https://twitter.com/mahal0z/status/2057147401987637300</id>
-        <link href="https://twitter.com/mahal0z/status/2057147401987637300"/>
+        <title type="html"><![CDATA[TBN Protocol – Runtime governance infrastructure for AI agents]]></title>
+        <id>https://tbn.hardinai.co.uk/demo</id>
+        <link href="https://tbn.hardinai.co.uk/demo"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
@@ -260,9 +134,177 @@
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBN Protocol – Runtime governance infrastructure for AI agents]]></title>
-        <id>https://tbn.hardinai.co.uk/demo</id>
-        <link href="https://tbn.hardinai.co.uk/demo"/>
+        <title type="html"><![CDATA[Decompile binaries to Rust, not C]]></title>
+        <id>https://twitter.com/mahal0z/status/2057147401987637300</id>
+        <link href="https://twitter.com/mahal0z/status/2057147401987637300"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers in Ireland uncover medieval book in Rome with oldest English poem]]></title>
+        <id>https://apnews.com/article/old-english-manuscript-poetry-bede-caedmon-hymn-latin-italy-106769c014901cf06d8a56839d56ac90</id>
+        <link href="https://apnews.com/article/old-english-manuscript-poetry-bede-caedmon-hymn-latin-italy-106769c014901cf06d8a56839d56ac90"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Demand Coop and why tech workers should join one]]></title>
+        <id>https://cahootzcoops.com/blog/what-is-a-demand-coop</id>
+        <link href="https://cahootzcoops.com/blog/what-is-a-demand-coop"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nx Console VS Code extension was the initial access vector in the GitHub breach]]></title>
+        <id>https://twitter.com/jeffbcross/status/2057236396658811020</id>
+        <link href="https://twitter.com/jeffbcross/status/2057236396658811020"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New dinosaur species Nagatitan chaiyaphumensis]]></title>
+        <id>https://www.smithsonianmag.com/smart-news/a-man-spotted-strange-looking-rocks-near-a-pond-in-thailand-they-turned-out-to-be-the-bones-of-a-massive-new-dinosaur-species-180988744/</id>
+        <link href="https://www.smithsonianmag.com/smart-news/a-man-spotted-strange-looking-rocks-near-a-pond-in-thailand-they-turned-out-to-be-the-bones-of-a-massive-new-dinosaur-species-180988744/"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compromised Nx Console]]></title>
+        <id>https://github.com/nrwl/nx-console/security/advisories/GHSA-c9j4-9m59-847w</id>
+        <link href="https://github.com/nrwl/nx-console/security/advisories/GHSA-c9j4-9m59-847w"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is protein design? A Beginner's Guide to the Future of Biology]]></title>
+        <id>https://www.ipd.uw.edu/what-is-protein-design/</id>
+        <link href="https://www.ipd.uw.edu/what-is-protein-design/"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starting June 1 Copilot code review runs will consume minutes on GitHub]]></title>
+        <id>https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing</id>
+        <link href="https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung vs. MPEG LA appeals arguments [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ixVEsTbt9LU</id>
+        <link href="https://www.youtube.com/watch?v=ixVEsTbt9LU"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A beginner-friendly approach to Pratt Parsing]]></title>
+        <id>https://washingtonramos.com/posts/1</id>
+        <link href="https://washingtonramos.com/posts/1"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTSB Animation for UPS flight 2976 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=iWkLZjJXaos</id>
+        <link href="https://www.youtube.com/watch?v=iWkLZjJXaos"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL backup tool gets some backup of its own after maintainer sounds alarm]]></title>
+        <id>https://www.theregister.com/databases/2026/05/20/postgresql-backup-tool-gets-some-backup-of-its-own-after-sole-maintainer-sounds-alarm/5242822</id>
+        <link href="https://www.theregister.com/databases/2026/05/20/postgresql-backup-tool-gets-some-backup-of-its-own-after-sole-maintainer-sounds-alarm/5242822"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Foreground Tab Tracking to the Chrome Devtools Protocol]]></title>
+        <id>https://www.browserbase.com/blog/cdp-foreground-tab-tracking</id>
+        <link href="https://www.browserbase.com/blog/cdp-foreground-tab-tracking"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA's Psyche spacecraft returns unfamiliar views of a familiar world]]></title>
+        <id>https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/</id>
+        <link href="https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pgrls: Static Analyzer for Postgres Row-Level Security]]></title>
+        <id>https://github.com/pgrls/pgrls</id>
+        <link href="https://github.com/pgrls/pgrls"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Primer Pay – micropayments for WordPress on Base requiring Chrome extension]]></title>
+        <id>https://wordpress.org/plugins/primer-pay/</id>
+        <link href="https://wordpress.org/plugins/primer-pay/"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAM: DSP audio engine programmable via AI chat]]></title>
+        <id>https://jeffsaudiomachines.com/my-story</id>
+        <link href="https://jeffsaudiomachines.com/my-story"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracking Capabilities for Safer Agents]]></title>
+        <id>https://arxiv.org/abs/2603.00991</id>
+        <link href="https://arxiv.org/abs/2603.00991"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Begins AI-Driven Layoffs, Report Says. Can They Boost the Struggling Stock?]]></title>
+        <id>https://www.barrons.com/articles/meta-stock-ai-layoffs-f9dba997</id>
+        <link href="https://www.barrons.com/articles/meta-stock-ai-layoffs-f9dba997"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a tool to auto-generate iMessage replies]]></title>
+        <id>https://github.com/aditya-r123/iMessage-Bot</id>
+        <link href="https://github.com/aditya-r123/iMessage-Bot"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Birth Rate Debate: 40% of Girls Will Never Be Mothers [video]]]></title>
+        <id>https://www.youtube.com/watch?v=8eCM3NTBeb4</id>
+        <link href="https://www.youtube.com/watch?v=8eCM3NTBeb4"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workers in India are training robots that may replace them]]></title>
+        <id>https://indianexpress.com/article/business/workers-india-training-robots-replace-factory-10698712/</id>
+        <link href="https://indianexpress.com/article/business/workers-india-training-robots-replace-factory-10698712/"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewrite System Showdown: Stochastic Search vs. EqSat]]></title>
+        <id>https://arxiv.org/abs/2605.19005</id>
+        <link href="https://arxiv.org/abs/2605.19005"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Python Becoming Pinyin?]]></title>
+        <id>https://lernerpython.com/2026/05/19/is-python-becoming-pinyin/</id>
+        <link href="https://lernerpython.com/2026/05/19/is-python-becoming-pinyin/"/>
+        <updated>2026-05-20T16:00:00.000Z</updated>
+        <published>2026-05-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lazydiff: Fast TUI for Reviewing PRs with Semantic Diffs (GitHub, GitLab, Gitea)]]></title>
+        <id>https://github.com/Ataraxy-Labs/lazydiff</id>
+        <link href="https://github.com/Ataraxy-Labs/lazydiff"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[FBOS-RL: Feedback-Driven Bi-Objective Synergistic Reinforcement Learning]]></title>
         <id>https://arxiv.org/abs/2605.20256</id>
         <link href="https://arxiv.org/abs/2605.20256"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chronicle: A Multimodal Foundation Model for Joint Language and Time Series Understanding]]></title>
-        <id>https://arxiv.org/abs/2605.20268</id>
-        <link href="https://arxiv.org/abs/2605.20268"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catching a Moving Subspace: Low-Rank Bandits Beyond Stationarity]]></title>
-        <id>https://arxiv.org/abs/2605.20269</id>
-        <link href="https://arxiv.org/abs/2605.20269"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smaller Abstract State Spaces Enable Cross-Scale Generalization in Reinforcement Learning]]></title>
-        <id>https://arxiv.org/abs/2605.20272</id>
-        <link href="https://arxiv.org/abs/2605.20272"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OmniISR: A Unified Framework for Centralized and Federated Learning via Intermediate Supervision and Regularization]]></title>
-        <id>https://arxiv.org/abs/2605.20276</id>
-        <link href="https://arxiv.org/abs/2605.20276"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plug-and-Play Spiking Operators: Breaking the Nonlinearity Bottleneck in Spiking Transformers]]></title>
-        <id>https://arxiv.org/abs/2605.20289</id>
-        <link href="https://arxiv.org/abs/2605.20289"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weasel: Out-of-Domain Generalization for Web Agents via Importance-Diversity Data Selection]]></title>
-        <id>https://arxiv.org/abs/2605.20291</id>
-        <link href="https://arxiv.org/abs/2605.20291"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
