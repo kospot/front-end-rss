@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-22T04:02:26.592Z</updated>
+    <updated>2026-05-22T07:02:50.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Maptoposter Online：把你爱的城市画成艺术海报]]></title>
+        <id>https://sspai.com/post/109287</id>
+        <link href="https://sspai.com/post/109287"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[States ask judge to break up Live Nation-Ticketmaster]]></title>
         <id>https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up</id>
@@ -64,16 +71,9 @@
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?]]></title>
-        <id>https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/</id>
-        <link href="https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says]]></title>
-        <id>https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/</id>
-        <link href="https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/"/>
+        <title type="html"><![CDATA[Palantir Held Another ‘Hack Week.’ This Time, the Focus Was ICE]]></title>
+        <id>https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/</id>
+        <link href="https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
@@ -85,37 +85,16 @@
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Palantir Held Another ‘Hack Week.’ This Time, the Focus Was ICE]]></title>
-        <id>https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/</id>
-        <link href="https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/"/>
+        <title type="html"><![CDATA[‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says]]></title>
+        <id>https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/</id>
+        <link href="https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waymo expands pause to four cities as robotaxis keep driving into floods]]></title>
-        <id>https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/</id>
-        <link href="https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This young startup is taking on a fragrance industry that hasn’t changed in almost half a century]]></title>
-        <id>https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/</id>
-        <link href="https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’]]></title>
-        <id>https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/</id>
-        <link href="https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convective Capital raises an $85 million fund to build disaster resilience]]></title>
-        <id>https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/</id>
-        <link href="https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/"/>
+        <title type="html"><![CDATA[Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?]]></title>
+        <id>https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/</id>
+        <link href="https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
@@ -127,177 +106,65 @@
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kyle Busch, two-time NASCAR Cup Series champion, dies at age 41]]></title>
-        <id>https://www.nascar.com/news-media/2026/05/21/kyle-busch-two-time-nascar-cup-series-champion-dies-at-age-41/</id>
-        <link href="https://www.nascar.com/news-media/2026/05/21/kyle-busch-two-time-nascar-cup-series-champion-dies-at-age-41/"/>
+        <title type="html"><![CDATA[Convective Capital raises an $85 million fund to build disaster resilience]]></title>
+        <id>https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/</id>
+        <link href="https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Roughform, a free Browser-Based 3D Creation Tool]]></title>
-        <id>https://roughform.app</id>
-        <link href="https://roughform.app"/>
+        <title type="html"><![CDATA[Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’]]></title>
+        <id>https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/</id>
+        <link href="https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The fastest manmade object ever was a manhole cover launched by nuke]]></title>
-        <id>https://www.wearethemighty.com/mighty-history/fastest-manmade-object/</id>
-        <link href="https://www.wearethemighty.com/mighty-history/fastest-manmade-object/"/>
+        <title type="html"><![CDATA[This young startup is taking on a fragrance industry that hasn’t changed in almost half a century]]></title>
+        <id>https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/</id>
+        <link href="https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build Adafruit projects right from Firefox]]></title>
-        <id>https://www.firefox.com/en-US/landing/adafruit/</id>
-        <link href="https://www.firefox.com/en-US/landing/adafruit/"/>
+        <title type="html"><![CDATA[Waymo expands pause to four cities as robotaxis keep driving into floods]]></title>
+        <id>https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/</id>
+        <link href="https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alleged Kimwolf Botmaster 'Dort' Arrested, Charged in U.S. and Canada]]></title>
-        <id>https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</id>
-        <link href="https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/"/>
+        <title type="html"><![CDATA[Chinese authorities destroy villager's 10-storey Studio Ghibli-esque home]]></title>
+        <id>https://www.theguardian.com/world/2026/may/22/china-officials-destroy-ramshackle-10-storey-studio-ghibli-esque-home</id>
+        <link href="https://www.theguardian.com/world/2026/may/22/china-officials-destroy-ramshackle-10-storey-studio-ghibli-esque-home"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Getmonero.org Website Design]]></title>
-        <id>https://beta.monerodevs.org/</id>
-        <link href="https://beta.monerodevs.org/"/>
+        <title type="html"><![CDATA[Check DNS bind configuration with Sparrow and Python]]></title>
+        <id>https://sparky.sparrowhub.io/report/scc/29082#Report/</id>
+        <link href="https://sparky.sparrowhub.io/report/scc/29082#Report/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Donald Trump abruptly postpones AI order after White House infighting]]></title>
-        <id>https://www.ft.com/content/14213cb0-8d11-4118-bac0-12a403696185</id>
-        <link href="https://www.ft.com/content/14213cb0-8d11-4118-bac0-12a403696185"/>
+        <title type="html"><![CDATA[A.I. Learns to Optimize Factorio Blueprints [video]]]></title>
+        <id>https://www.youtube.com/watch?v=mGOKKtIDNbk</id>
+        <link href="https://www.youtube.com/watch?v=mGOKKtIDNbk"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Node.js and V8 keep each other working]]></title>
-        <id>https://joyeecheung.github.io/blog/2026/05/18/how-nodejs-and-v8-keep-each-other-working/</id>
-        <link href="https://joyeecheung.github.io/blog/2026/05/18/how-nodejs-and-v8-keep-each-other-working/"/>
+        <title type="html"><![CDATA[Preconditioning Vectors: Making Elasticsearch VectorDB BBQ Work for Every Vector]]></title>
+        <id>https://www.elastic.co/search-labs/blog/elasticsearch-bbq-preconditioning-vectors</id>
+        <link href="https://www.elastic.co/search-labs/blog/elasticsearch-bbq-preconditioning-vectors"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nascar champion Kyle Busch dies, 41 after hospitalization with 'severe illness']]></title>
-        <id>https://www.npr.org/2026/05/21/g-s1-123547/nascar-champ-kyle-busch-dies</id>
-        <link href="https://www.npr.org/2026/05/21/g-s1-123547/nascar-champ-kyle-busch-dies"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why metaphors make AI animations come out better]]></title>
-        <id>https://frigade.com/blog/describe-the-world-not-the-widget</id>
-        <link href="https://frigade.com/blog/describe-the-world-not-the-widget"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will agents like Git any more than we do?]]></title>
-        <id>https://www.amplifypartners.com/blog-posts/will-agents-like-git-any-more-than-we-do</id>
-        <link href="https://www.amplifypartners.com/blog-posts/will-agents-like-git-any-more-than-we-do"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Client approvals via magic link, no more lost feedback]]></title>
-        <id>https://puxeline.com</id>
-        <link href="https://puxeline.com"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebGPU support in llama.cpp]]></title>
-        <id>https://reeselevine.github.io/llamas-on-the-web/</id>
-        <link href="https://reeselevine.github.io/llamas-on-the-web/"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InvizCrypt – Secure Cloud Documents]]></title>
-        <id>https://invizcrypt.com/</id>
-        <link href="https://invizcrypt.com/"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code Bubble: Clojure functions as bubbles on a canvas]]></title>
-        <id>https://github.com/ertugrulcetin/code-bubble</id>
-        <link href="https://github.com/ertugrulcetin/code-bubble"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consumer groups file complaint against Meta, TikTok and Google running scam ads]]></title>
-        <id>https://www.beuc.eu/press-releases/consumer-groups-file-complaints-against-meta-tiktok-and-google-failing-protect</id>
-        <link href="https://www.beuc.eu/press-releases/consumer-groups-file-complaints-against-meta-tiktok-and-google-failing-protect"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Broadview Six' defendants have all remaining charges dismissed]]></title>
-        <id>https://www.nbcchicago.com/news/local/chicago-politics/broadview-six-defendants-have-all-remaining-charges-dismissed-by-judge/3939029/</id>
-        <link href="https://www.nbcchicago.com/news/local/chicago-politics/broadview-six-defendants-have-all-remaining-charges-dismissed-by-judge/3939029/"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto and AI-Funded Super PACs Are Metastasizing]]></title>
-        <id>https://www.thenation.com/article/politics/crypto-ai-super-pacs-election-spending-big-tech-dark-money-2026/</id>
-        <link href="https://www.thenation.com/article/politics/crypto-ai-super-pacs-election-spending-big-tech-dark-money-2026/"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why does it look like LLMs consistently overestimate implementation time?]]></title>
-        <id>https://news.ycombinator.com/item?id=48230861</id>
-        <link href="https://news.ycombinator.com/item?id=48230861"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Title: Tax season felt chaotic at my accounting firm, so I built this]]></title>
-        <id>https://taxassembly.com/</id>
-        <link href="https://taxassembly.com/"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran Moved Billions Through Binance to Fund Regime–Continuing into This Month]]></title>
-        <id>https://www.wsj.com/world/middle-east/iran-binance-crypto-military-e755b218</id>
-        <link href="https://www.wsj.com/world/middle-east/iran-binance-crypto-military-e755b218"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung chip workers will get an average $340k bonus as AI profits soar]]></title>
-        <id>https://qz.com/samsung-chip-workers-bonus-ai-profits-052126</id>
-        <link href="https://qz.com/samsung-chip-workers-bonus-ai-profits-052126"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Deputies, an open source background agent]]></title>
-        <id>https://deputies.dev/</id>
-        <link href="https://deputies.dev/"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI-Native Interview]]></title>
-        <id>https://sierra.ai/blog/the-ai-native-interview</id>
-        <link href="https://sierra.ai/blog/the-ai-native-interview"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read Meta's Layoff Email to Employees]]></title>
-        <id>https://www.businessinsider.com/read-meta-layoff-email-employees-2026-5</id>
-        <link href="https://www.businessinsider.com/read-meta-layoff-email-employees-2026-5"/>
+        <title type="html"><![CDATA[Repeated Header in a Next.js page using iframe and BBPress]]></title>
+        <id>https://news.ycombinator.com/item?id=48232545</id>
+        <link href="https://news.ycombinator.com/item?id=48232545"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
@@ -309,58 +176,191 @@
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Not Every Node in Your Agent Needs an LLM]]></title>
-        <id>https://pub.towardsai.net/not-every-node-in-your-agent-needs-an-llm-853f314d2ef0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/not-every-node-in-your-agent-needs-an-llm-853f314d2ef0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Read Meta's Layoff Email to Employees]]></title>
+        <id>https://www.businessinsider.com/read-meta-layoff-email-employees-2026-5</id>
+        <link href="https://www.businessinsider.com/read-meta-layoff-email-employees-2026-5"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On the Same Day Google Declared the Agentic Era, Meta Fired 8,000 People to Pay for It]]></title>
-        <id>https://pub.towardsai.net/on-the-same-day-google-declared-the-agentic-era-meta-fired-8-000-people-to-pay-for-it-d6b699d53f4d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/on-the-same-day-google-declared-the-agentic-era-meta-fired-8-000-people-to-pay-for-it-d6b699d53f4d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The AI-Native Interview]]></title>
+        <id>https://sierra.ai/blog/the-ai-native-interview</id>
+        <link href="https://sierra.ai/blog/the-ai-native-interview"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Datasette Agent]]></title>
-        <id>https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything"/>
+        <title type="html"><![CDATA[Show HN: Deputies, an open source background agent]]></title>
+        <id>https://deputies.dev/</id>
+        <link href="https://deputies.dev/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[datasette-agent-sprites 0.1a0]]></title>
-        <id>https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything"/>
+        <title type="html"><![CDATA[Samsung chip workers will get an average $340k bonus as AI profits soar]]></title>
+        <id>https://qz.com/samsung-chip-workers-bonus-ai-profits-052126</id>
+        <link href="https://qz.com/samsung-chip-workers-bonus-ai-profits-052126"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Temporal Contrastive Transformer for Financial Crime Detection: Self-Supervised Sequence Embeddings via Predictive Contrastive Coding]]></title>
-        <id>https://arxiv.org/abs/2605.21490</id>
-        <link href="https://arxiv.org/abs/2605.21490"/>
+        <title type="html"><![CDATA[Iran Moved Billions Through Binance to Fund Regime–Continuing into This Month]]></title>
+        <id>https://www.wsj.com/world/middle-east/iran-binance-crypto-military-e755b218</id>
+        <link href="https://www.wsj.com/world/middle-east/iran-binance-crypto-military-e755b218"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Teaching Language Models to Forecast Research Success Through Comparative Idea Evaluation]]></title>
-        <id>https://arxiv.org/abs/2605.21491</id>
-        <link href="https://arxiv.org/abs/2605.21491"/>
+        <title type="html"><![CDATA[Title: Tax season felt chaotic at my accounting firm, so I built this]]></title>
+        <id>https://taxassembly.com/</id>
+        <link href="https://taxassembly.com/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't Collapse Your Features: Why CenterLoss Hurts OOD Detection and Multi-Scale Mahalanobis Wins]]></title>
-        <id>https://arxiv.org/abs/2605.21493</id>
-        <link href="https://arxiv.org/abs/2605.21493"/>
+        <title type="html"><![CDATA[Why does it look like LLMs consistently overestimate implementation time?]]></title>
+        <id>https://news.ycombinator.com/item?id=48230861</id>
+        <link href="https://news.ycombinator.com/item?id=48230861"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Double descent for least-squares interpolation on contaminated data: A simulation study]]></title>
-        <id>https://arxiv.org/abs/2605.21494</id>
-        <link href="https://arxiv.org/abs/2605.21494"/>
+        <title type="html"><![CDATA[Crypto and AI-Funded Super PACs Are Metastasizing]]></title>
+        <id>https://www.thenation.com/article/politics/crypto-ai-super-pacs-election-spending-big-tech-dark-money-2026/</id>
+        <link href="https://www.thenation.com/article/politics/crypto-ai-super-pacs-election-spending-big-tech-dark-money-2026/"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Broadview Six' defendants have all remaining charges dismissed]]></title>
+        <id>https://www.nbcchicago.com/news/local/chicago-politics/broadview-six-defendants-have-all-remaining-charges-dismissed-by-judge/3939029/</id>
+        <link href="https://www.nbcchicago.com/news/local/chicago-politics/broadview-six-defendants-have-all-remaining-charges-dismissed-by-judge/3939029/"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consumer groups file complaint against Meta, TikTok and Google running scam ads]]></title>
+        <id>https://www.beuc.eu/press-releases/consumer-groups-file-complaints-against-meta-tiktok-and-google-failing-protect</id>
+        <link href="https://www.beuc.eu/press-releases/consumer-groups-file-complaints-against-meta-tiktok-and-google-failing-protect"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Bubble: Clojure functions as bubbles on a canvas]]></title>
+        <id>https://github.com/ertugrulcetin/code-bubble</id>
+        <link href="https://github.com/ertugrulcetin/code-bubble"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InvizCrypt – Secure Cloud Documents]]></title>
+        <id>https://invizcrypt.com/</id>
+        <link href="https://invizcrypt.com/"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebGPU support in llama.cpp]]></title>
+        <id>https://reeselevine.github.io/llamas-on-the-web/</id>
+        <link href="https://reeselevine.github.io/llamas-on-the-web/"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Client approvals via magic link, no more lost feedback]]></title>
+        <id>https://puxeline.com</id>
+        <link href="https://puxeline.com"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will agents like Git any more than we do?]]></title>
+        <id>https://www.amplifypartners.com/blog-posts/will-agents-like-git-any-more-than-we-do</id>
+        <link href="https://www.amplifypartners.com/blog-posts/will-agents-like-git-any-more-than-we-do"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why metaphors make AI animations come out better]]></title>
+        <id>https://frigade.com/blog/describe-the-world-not-the-widget</id>
+        <link href="https://frigade.com/blog/describe-the-world-not-the-widget"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nascar champion Kyle Busch dies, 41 after hospitalization with 'severe illness']]></title>
+        <id>https://www.npr.org/2026/05/21/g-s1-123547/nascar-champ-kyle-busch-dies</id>
+        <link href="https://www.npr.org/2026/05/21/g-s1-123547/nascar-champ-kyle-busch-dies"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Node.js and V8 keep each other working]]></title>
+        <id>https://joyeecheung.github.io/blog/2026/05/18/how-nodejs-and-v8-keep-each-other-working/</id>
+        <link href="https://joyeecheung.github.io/blog/2026/05/18/how-nodejs-and-v8-keep-each-other-working/"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Donald Trump abruptly postpones AI order after White House infighting]]></title>
+        <id>https://www.ft.com/content/14213cb0-8d11-4118-bac0-12a403696185</id>
+        <link href="https://www.ft.com/content/14213cb0-8d11-4118-bac0-12a403696185"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Getmonero.org Website Design]]></title>
+        <id>https://beta.monerodevs.org/</id>
+        <link href="https://beta.monerodevs.org/"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alleged Kimwolf Botmaster 'Dort' Arrested, Charged in U.S. and Canada]]></title>
+        <id>https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</id>
+        <link href="https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Adafruit projects right from Firefox]]></title>
+        <id>https://www.firefox.com/en-US/landing/adafruit/</id>
+        <link href="https://www.firefox.com/en-US/landing/adafruit/"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The fastest manmade object ever was a manhole cover launched by nuke]]></title>
+        <id>https://www.wearethemighty.com/mighty-history/fastest-manmade-object/</id>
+        <link href="https://www.wearethemighty.com/mighty-history/fastest-manmade-object/"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Roughform, a free Browser-Based 3D Creation Tool]]></title>
+        <id>https://roughform.app</id>
+        <link href="https://roughform.app"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyle Busch, two-time NASCAR Cup Series champion, dies at age 41]]></title>
+        <id>https://www.nascar.com/news-media/2026/05/21/kyle-busch-two-time-nascar-cup-series-champion-dies-at-age-41/</id>
+        <link href="https://www.nascar.com/news-media/2026/05/21/kyle-busch-two-time-nascar-cup-series-champion-dies-at-age-41/"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI SDK Supply Chain Risk: How Developers Should Protect Generated Clients After the Stainless…]]></title>
+        <id>https://pub.towardsai.net/ai-sdk-supply-chain-risk-how-developers-should-protect-generated-clients-after-the-stainless-636cbd36b022?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-sdk-supply-chain-risk-how-developers-should-protect-generated-clients-after-the-stainless-636cbd36b022?source=rss----98111c9905da---4"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Durable AI Agents: How to Build Long-Running Workflows That Survive Crashes, Restarts, and Real…]]></title>
+        <id>https://pub.towardsai.net/durable-ai-agents-how-to-build-long-running-workflows-that-survive-crashes-restarts-and-real-c79b32c24cde?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/durable-ai-agents-how-to-build-long-running-workflows-that-survive-crashes-restarts-and-real-c79b32c24cde?source=rss----98111c9905da---4"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
