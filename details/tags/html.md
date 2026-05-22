@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-22 21:04:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-22 23:05:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -14,12 +14,12 @@
 - [2026-05-12-I-built-an-HTML-to-PDF-API-in-6-weeks-—-here's-what-I-learned](https://dev.to/jabeer_s/i-built-an-html-to-pdf-api-in-6-weeks-heres-what-i-learned-14b6) 
 - [2026-05-08-I-built-a-'life-in-weeks'-poster-generator-in-one-HTML-file](https://dev.to/alialp/i-built-a-life-in-weeks-poster-generator-in-one-html-file-40hp) 
 - [2026-04-30-A-Complexidade-Oculta-das-Tabelas-HTML-Por-Que-Parseá-las-É-Mais-Difícil-Do-Que-Você-Imagina](https://dev.to/circobit/a-complexidade-oculta-das-tabelas-html-por-que-parsea-las-e-mais-dificil-do-que-voce-imagina-2b5o) 
-- [2026-04-28-HTML-테이블의-숨겨진-복잡성-파싱이-생각보다-어려운-이유](https://dev.to/circobit/html-teibeulyi-sumgyeojin-bogjabseong-pasingi-saenggagboda-eoryeoun-iyu-21d) 
 - [2026-04-28-Die-versteckte-Komplexität-von-HTML-Tabellen-Warum-das-Parsen-schwieriger-ist,-als-man-denkt](https://dev.to/circobit/die-versteckte-komplexitat-von-html-tabellen-warum-das-parsen-schwieriger-ist-als-man-denkt-50d9) 
-- [2026-04-27-De-Verborgen-Complexiteit-van-HTML-Tabellen-Waarom-Parsen-Moeilijker-Is-Dan-Je-Denkt](https://dev.to/circobit/de-verborgen-complexiteit-van-html-tabellen-waarom-parsen-moeilijker-is-dan-je-denkt-4ohe) 
+- [2026-04-28-HTML-테이블의-숨겨진-복잡성-파싱이-생각보다-어려운-이유](https://dev.to/circobit/html-teibeulyi-sumgyeojin-bogjabseong-pasingi-saenggagboda-eoryeoun-iyu-21d) 
 - [2026-04-27-Why-do-scheduling-apps-need-my-email?-I-built-a-100%-Client-Side-Timetable-Builder-instead-📅🚀](https://dev.to/adawati/why-do-scheduling-apps-need-my-email-i-built-a-100-client-side-timetable-builder-instead-3fbj) 
-- [2026-04-23-I-Built-a-Live-Subscription-Dashboard-on-RevenueCat's-Charts-API-in-One-HTML-File](https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-5alc) 
+- [2026-04-27-De-Verborgen-Complexiteit-van-HTML-Tabellen-Waarom-Parsen-Moeilijker-Is-Dan-Je-Denkt](https://dev.to/circobit/de-verborgen-complexiteit-van-html-tabellen-waarom-parsen-moeilijker-is-dan-je-denkt-4ohe) 
 - [2026-04-23-I-Built-a-Live-Subscription-Dashboard-on-RevenueCat's-Charts-API-in-One-HTML-File](https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-18ph) 
+- [2026-04-23-I-Built-a-Live-Subscription-Dashboard-on-RevenueCat's-Charts-API-in-One-HTML-File](https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-5alc) 
 - [2026-05-20-Boston-Metal-gets-a-$75-million-lifeline-to-produce-critical-metals](https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/) 
 - [2026-05-19-Inside-Anduril-and-Meta’s-quest-to-make-smart-glasses-for-warfare](https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/) 
 - [2026-05-22-CoRMA:-Contrastive-RMA-for-Contact-Rich-Meta-Adaptation](https://arxiv.org/abs/2605.22082) 
@@ -156,8 +156,8 @@
 - [2026-04-27-Best-Smart-Glasses-2026:-Meta,-Viture,-Xreal,-and-More](https://www.wired.com/gallery/best-smart-glasses/) 
 - [2026-05-15-Meta’s-summer-sale-drops-Ray-Ban’s-new-smart-glasses-to-record-low-prices](https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale) 
 - [2026-05-14-Mark-Zuckerberg-announces-&amp;#8216;completely-private&amp;#8217;-encrypted-Meta-AI-chat](https://www.theverge.com/tech/929791/meta-ai-incognito-chats) 
-- [2026-05-13-Meta-will-tell-parents-when-their-teens-add-new-interests-to-their-Instagram-algorithm](https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls) 
 - [2026-05-13-Meta-won’t-let-you-block-its-AI-account-on-Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block) 
+- [2026-05-13-Meta-will-tell-parents-when-their-teens-add-new-interests-to-their-Instagram-algorithm](https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls) 
 - [2026-05-06-Book-publishers-sue-Meta-over-AI&amp;#8217;s-&amp;#8216;word-for-word&amp;#8217;-copying](https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright) 
 - [2026-05-03-Meta&amp;#8217;s-historic-loss-in-court-could-cost-a-lot-more-than-$375-million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety) 
 - [2026-05-01-Meta-threatens-to-pull-its-apps-from-New-Mexico-if-forced-to-make-‘technologically-impractical’-changes](https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico) 
