@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-21T22:01:01.269Z</updated>
+    <updated>2026-05-22T00:02:27.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,37 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI]]></title>
-        <id>https://www.theverge.com/tech/935631/firefox-project-nova-redesign</id>
-        <link href="https://www.theverge.com/tech/935631/firefox-project-nova-redesign"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who gets to own the Luigi Mangione story?]]></title>
-        <id>https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters</id>
-        <link href="https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Philips’ new display has a screen on both sides]]></title>
-        <id>https://www.theverge.com/tech/935477/philips-business-monitor-dual-sided-lcd-display-24b2d5300</id>
-        <link href="https://www.theverge.com/tech/935477/philips-business-monitor-dual-sided-lcd-display-24b2d5300"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of Meta’s big legal reckonings just ended in a settlement]]></title>
-        <id>https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement</id>
-        <link href="https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <published>2026-05-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bungie gives up on Destiny]]></title>
-        <id>https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date</id>
-        <link href="https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date"/>
+        <title type="html"><![CDATA[States ask judge to break up Live Nation-Ticketmaster]]></title>
+        <id>https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up</id>
+        <link href="https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
@@ -57,9 +29,44 @@
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says]]></title>
-        <id>https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/</id>
-        <link href="https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/"/>
+        <title type="html"><![CDATA[Bungie gives up on Destiny]]></title>
+        <id>https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date</id>
+        <link href="https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One of Meta’s big legal reckonings just ended in a settlement]]></title>
+        <id>https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement</id>
+        <link href="https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philips’ new display has a screen on both sides]]></title>
+        <id>https://www.theverge.com/tech/935477/philips-business-monitor-dual-sided-lcd-display-24b2d5300</id>
+        <link href="https://www.theverge.com/tech/935477/philips-business-monitor-dual-sided-lcd-display-24b2d5300"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who gets to own the Luigi Mangione story?]]></title>
+        <id>https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters</id>
+        <link href="https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI]]></title>
+        <id>https://www.theverge.com/tech/935631/firefox-project-nova-redesign</id>
+        <link href="https://www.theverge.com/tech/935631/firefox-project-nova-redesign"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palantir Held Another ‘Hack Week.’ This Time, the Focus Was ICE]]></title>
+        <id>https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/</id>
+        <link href="https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
@@ -71,9 +78,9 @@
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Palantir Held Another ‘Hack Week.’ This Time, the Focus Was ICE]]></title>
-        <id>https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/</id>
-        <link href="https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/"/>
+        <title type="html"><![CDATA[‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says]]></title>
+        <id>https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/</id>
+        <link href="https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
@@ -106,30 +113,37 @@
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Code Bubble: Clojure functions as bubbles on a canvas]]></title>
-        <id>https://github.com/ertugrulcetin/code-bubble</id>
-        <link href="https://github.com/ertugrulcetin/code-bubble"/>
+        <title type="html"><![CDATA[New Getmonero.org Website Design]]></title>
+        <id>https://beta.monerodevs.org/</id>
+        <link href="https://beta.monerodevs.org/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[InvizCrypt – Secure Cloud Documents]]></title>
-        <id>https://invizcrypt.com/</id>
-        <link href="https://invizcrypt.com/"/>
+        <title type="html"><![CDATA[Donald Trump abruptly postpones AI order after White House infighting]]></title>
+        <id>https://www.ft.com/content/14213cb0-8d11-4118-bac0-12a403696185</id>
+        <link href="https://www.ft.com/content/14213cb0-8d11-4118-bac0-12a403696185"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebGPU support in llama.cpp]]></title>
-        <id>https://reeselevine.github.io/llamas-on-the-web/</id>
-        <link href="https://reeselevine.github.io/llamas-on-the-web/"/>
+        <title type="html"><![CDATA[How Node.js and V8 keep each other working]]></title>
+        <id>https://joyeecheung.github.io/blog/2026/05/18/how-nodejs-and-v8-keep-each-other-working/</id>
+        <link href="https://joyeecheung.github.io/blog/2026/05/18/how-nodejs-and-v8-keep-each-other-working/"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Client approvals via magic link, no more lost feedback]]></title>
-        <id>https://puxeline.com</id>
-        <link href="https://puxeline.com"/>
+        <title type="html"><![CDATA[Nascar champion Kyle Busch dies, 41 after hospitalization with 'severe illness']]></title>
+        <id>https://www.npr.org/2026/05/21/g-s1-123547/nascar-champ-kyle-busch-dies</id>
+        <link href="https://www.npr.org/2026/05/21/g-s1-123547/nascar-champ-kyle-busch-dies"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why metaphors make AI animations come out better]]></title>
+        <id>https://frigade.com/blog/describe-the-world-not-the-widget</id>
+        <link href="https://frigade.com/blog/describe-the-world-not-the-widget"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
@@ -141,9 +155,30 @@
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Not Every Node in Your Agent Needs an LLM]]></title>
-        <id>https://pub.towardsai.net/not-every-node-in-your-agent-needs-an-llm-853f314d2ef0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/not-every-node-in-your-agent-needs-an-llm-853f314d2ef0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Client approvals via magic link, no more lost feedback]]></title>
+        <id>https://puxeline.com</id>
+        <link href="https://puxeline.com"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebGPU support in llama.cpp]]></title>
+        <id>https://reeselevine.github.io/llamas-on-the-web/</id>
+        <link href="https://reeselevine.github.io/llamas-on-the-web/"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InvizCrypt – Secure Cloud Documents]]></title>
+        <id>https://invizcrypt.com/</id>
+        <link href="https://invizcrypt.com/"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Bubble: Clojure functions as bubbles on a canvas]]></title>
+        <id>https://github.com/ertugrulcetin/code-bubble</id>
+        <link href="https://github.com/ertugrulcetin/code-bubble"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
@@ -151,6 +186,13 @@
         <title type="html"><![CDATA[On the Same Day Google Declared the Agentic Era, Meta Fired 8,000 People to Pay for It]]></title>
         <id>https://pub.towardsai.net/on-the-same-day-google-declared-the-agentic-era-meta-fired-8-000-people-to-pay-for-it-d6b699d53f4d?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/on-the-same-day-google-declared-the-agentic-era-meta-fired-8-000-people-to-pay-for-it-d6b699d53f4d?source=rss----98111c9905da---4"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not Every Node in Your Agent Needs an LLM]]></title>
+        <id>https://pub.towardsai.net/not-every-node-in-your-agent-needs-an-llm-853f314d2ef0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/not-every-node-in-your-agent-needs-an-llm-853f314d2ef0?source=rss----98111c9905da---4"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
@@ -183,30 +225,58 @@
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[400+ Remote Companies Using React in 2026]]></title>
-        <id>https://dev.to/remoet/400-remote-companies-using-react-in-2026-58bb</id>
-        <link href="https://dev.to/remoet/400-remote-companies-using-react-in-2026-58bb"/>
+        <title type="html"><![CDATA[The Folly of Currency-Based Payment Systems for Digital Creators]]></title>
+        <id>https://dev.to/sovereignty-advocate/the-folly-of-currency-based-payment-systems-for-digital-creators-1g54</id>
+        <link href="https://dev.to/sovereignty-advocate/the-folly-of-currency-based-payment-systems-for-digital-creators-1g54"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JPG vs PNG vs WebP: Which Image Format Should You Use?]]></title>
-        <id>https://dev.to/shaishav_patel_271fdcd61a/jpg-vs-png-vs-webp-which-image-format-should-you-use-3ooh</id>
-        <link href="https://dev.to/shaishav_patel_271fdcd61a/jpg-vs-png-vs-webp-which-image-format-should-you-use-3ooh"/>
+        <title type="html"><![CDATA[The False Promise of Global Access Through Siloed Payment Gateways]]></title>
+        <id>https://dev.to/sovereignty-advocate/the-false-promise-of-global-access-through-siloed-payment-gateways-1c8j</id>
+        <link href="https://dev.to/sovereignty-advocate/the-false-promise-of-global-access-through-siloed-payment-gateways-1c8j"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Myth of Borderless Payment Platforms: A Cautionary Tale of Building Digital Creator Income Under Sanctions]]></title>
-        <id>https://dev.to/sovereignty-advocate/the-myth-of-borderless-payment-platforms-a-cautionary-tale-of-building-digital-creator-income-37fb</id>
-        <link href="https://dev.to/sovereignty-advocate/the-myth-of-borderless-payment-platforms-a-cautionary-tale-of-building-digital-creator-income-37fb"/>
+        <title type="html"><![CDATA[I Built a Safari Extension That Shows When Your YouTube Video Ends]]></title>
+        <id>https://dev.to/fluphalicious/i-built-a-safari-extension-that-shows-when-your-youtube-video-ends-1jfh</id>
+        <link href="https://dev.to/fluphalicious/i-built-a-safari-extension-that-shows-when-your-youtube-video-ends-1jfh"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When Your Country's Restrictions Don't Get in the Way of Getting Paid]]></title>
-        <id>https://dev.to/sovereignty-advocate/when-your-countrys-restrictions-dont-get-in-the-way-of-getting-paid-36pa</id>
-        <link href="https://dev.to/sovereignty-advocate/when-your-countrys-restrictions-dont-get-in-the-way-of-getting-paid-36pa"/>
+        <title type="html"><![CDATA[Paying Creators Without Borders: Why our Multi-Chain Payment Integration Took the Path it Did]]></title>
+        <id>https://dev.to/sovereignty-advocate/paying-creators-without-borders-why-our-multi-chain-payment-integration-took-the-path-it-did-207b</id>
+        <link href="https://dev.to/sovereignty-advocate/paying-creators-without-borders-why-our-multi-chain-payment-integration-took-the-path-it-did-207b"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing a pause inside a worker isn’t one decision — it’s two contracts at once: the engine’s hook and the worker-main protocol.]]></title>
+        <id>https://dev.to/mellonis/implementing-a-pause-inside-a-worker-isnt-one-decision-its-two-contracts-at-once-the-engines-jfl</id>
+        <link href="https://dev.to/mellonis/implementing-a-pause-inside-a-worker-isnt-one-decision-its-two-contracts-at-once-the-engines-jfl"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Verified Gmail Accounts (Aged or ...]]></title>
+        <id>https://dev.to/rraghucrchikkade/buy-verified-gmail-accounts-aged-or--1hmp</id>
+        <link href="https://dev.to/rraghucrchikkade/buy-verified-gmail-accounts-aged-or--1hmp"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chat is Dead: How JSON Prompting Cut My AI Costs by 73%]]></title>
+        <id>https://dev.to/mihokoto/chat-is-dead-how-json-prompting-cut-my-ai-costs-by-73-426m</id>
+        <link href="https://dev.to/mihokoto/chat-is-dead-how-json-prompting-cut-my-ai-costs-by-73-426m"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browser Mining in 2026: Is It Still Profitable? (Revenue Data + Setup Guide)]]></title>
+        <id>https://dev.to/romannoodles/browser-mining-in-2026-is-it-still-profitable-revenue-data-setup-guide-158f</id>
+        <link href="https://dev.to/romannoodles/browser-mining-in-2026-is-it-still-profitable-revenue-data-setup-guide-158f"/>
         <updated>2026-05-21T16:00:00.000Z</updated>
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
@@ -218,44 +288,37 @@
         <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I review robot vacuums for a living, ask me anything!]]></title>
-        <id>https://www.theverge.com/tech/935196/i-review-robot-vacuums-for-a-living-ask-me-anything</id>
-        <link href="https://www.theverge.com/tech/935196/i-review-robot-vacuums-for-a-living-ask-me-anything"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[When Your Country's Restrictions Don't Get in the Way of Getting Paid]]></title>
+        <id>https://dev.to/sovereignty-advocate/when-your-countrys-restrictions-dont-get-in-the-way-of-getting-paid-36pa</id>
+        <link href="https://dev.to/sovereignty-advocate/when-your-countrys-restrictions-dont-get-in-the-way-of-getting-paid-36pa"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I can’t believe how fast Google vibe coded my first Android app]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[The Myth of Borderless Payment Platforms: A Cautionary Tale of Building Digital Creator Income Under Sanctions]]></title>
+        <id>https://dev.to/sovereignty-advocate/the-myth-of-borderless-payment-platforms-a-cautionary-tale-of-building-digital-creator-income-37fb</id>
+        <link href="https://dev.to/sovereignty-advocate/the-myth-of-borderless-payment-platforms-a-cautionary-tale-of-building-digital-creator-income-37fb"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NYC Mayor Zohran Mamdani is launching a Twitch series]]></title>
-        <id>https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people</id>
-        <link href="https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JPG vs PNG vs WebP: Which Image Format Should You Use?]]></title>
+        <id>https://dev.to/shaishav_patel_271fdcd61a/jpg-vs-png-vs-webp-which-image-format-should-you-use-3ooh</id>
+        <link href="https://dev.to/shaishav_patel_271fdcd61a/jpg-vs-png-vs-webp-which-image-format-should-you-use-3ooh"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo is trying to put its EV stumbles in the rearview]]></title>
-        <id>https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy</id>
-        <link href="https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[400+ Remote Companies Using React in 2026]]></title>
+        <id>https://dev.to/remoet/400-remote-companies-using-react-in-2026-58bb</id>
+        <link href="https://dev.to/remoet/400-remote-companies-using-react-in-2026-58bb"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <published>2026-05-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I’ve tested the latest Switch 2 controllers, and this one is the best]]></title>
-        <id>https://www.theverge.com/tech/791574/best-switch-2-controllers</id>
-        <link href="https://www.theverge.com/tech/791574/best-switch-2-controllers"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta lays off thousands of employees to offset AI investments]]></title>
-        <id>https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo</id>
-        <link href="https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo"/>
+        <title type="html"><![CDATA[Netflix’s next great sci-fi show is set in a retirement community]]></title>
+        <id>https://www.theverge.com/entertainment/935218/the-boroughs-review-netflix</id>
+        <link href="https://www.theverge.com/entertainment/935218/the-boroughs-review-netflix"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
@@ -267,100 +330,37 @@
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix’s next great sci-fi show is set in a retirement community]]></title>
-        <id>https://www.theverge.com/entertainment/935218/the-boroughs-review-netflix</id>
-        <link href="https://www.theverge.com/entertainment/935218/the-boroughs-review-netflix"/>
+        <title type="html"><![CDATA[Meta lays off thousands of employees to offset AI investments]]></title>
+        <id>https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo</id>
+        <link href="https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me]]></title>
-        <id>https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/</id>
-        <link href="https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/"/>
+        <title type="html"><![CDATA[I’ve tested the latest Switch 2 controllers, and this one is the best]]></title>
+        <id>https://www.theverge.com/tech/791574/best-switch-2-controllers</id>
+        <link href="https://www.theverge.com/tech/791574/best-switch-2-controllers"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Hacker Group Is Poisoning Open Source Code at an Unprecedented Scale]]></title>
-        <id>https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/</id>
-        <link href="https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/"/>
+        <title type="html"><![CDATA[Volvo is trying to put its EV stumbles in the rearview]]></title>
+        <id>https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy</id>
+        <link href="https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 10 Best TV Shows to Stream This Month (May 2026)]]></title>
-        <id>https://www.wired.com/story/the-10-best-shows-to-stream-right-now/</id>
-        <link href="https://www.wired.com/story/the-10-best-shows-to-stream-right-now/"/>
+        <title type="html"><![CDATA[NYC Mayor Zohran Mamdani is launching a Twitch series]]></title>
+        <id>https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people</id>
+        <link href="https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Duffel Bags: Eastpak, Patagonia, Baboon to the Moon (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-duffel-bags/</id>
-        <link href="https://www.wired.com/gallery/best-duffel-bags/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic]]></title>
-        <id>https://www.wired.com/gallery/best-meal-kit-services-1/</id>
-        <link href="https://www.wired.com/gallery/best-meal-kit-services-1/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify adds AI-powered Q&A and briefing generation features to podcasts]]></title>
-        <id>https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/</id>
-        <link href="https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify launches an ElevenLabs-powered audiobook creation tool]]></title>
-        <id>https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/</id>
-        <link href="https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI claims it solved an 80-year-old math problem — for real this time]]></title>
-        <id>https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/</id>
-        <link href="https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbnb gets into hotels, expands AI for host onboarding and customer support]]></title>
-        <id>https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/</id>
-        <link href="https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global EV market goes K-shaped as the US gets left behind]]></title>
-        <id>https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/</id>
-        <link href="https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia posts another record quarter, reveals $43B of holdings in startups]]></title>
-        <id>https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/</id>
-        <link href="https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over]]></title>
-        <id>https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/</id>
-        <link href="https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/"/>
-        <updated>2026-05-20T16:00:00.000Z</updated>
-        <published>2026-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clouted wants to take the guesswork out of making short videos go viral]]></title>
-        <id>https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/</id>
-        <link href="https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/"/>
+        <title type="html"><![CDATA[I can’t believe how fast Google vibe coded my first Android app]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio"/>
         <updated>2026-05-20T16:00:00.000Z</updated>
         <published>2026-05-20T16:00:00.000Z</published>
     </entry>
