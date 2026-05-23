@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-23T02:02:24.757Z</updated>
+    <updated>2026-05-23T04:02:54.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,142 +43,44 @@
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Megalodon: Mass GitHub Repo Backdooring via CI Workflows]]></title>
-        <id>https://safedep.io/megalodon-mass-github-repo-backdooring-ci-workflows/</id>
-        <link href="https://safedep.io/megalodon-mass-github-repo-backdooring-ci-workflows/"/>
+        <title type="html"><![CDATA[Google Is Killing ChromeOS: Aluminium OS, Its Android-Based Replacement]]></title>
+        <id>https://techjournal.org/google-aluminium-os-replacing-chromeos</id>
+        <link href="https://techjournal.org/google-aluminium-os-replacing-chromeos"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Malicious Postinstall Hook Found in 700 GitHub Repos, Including Node Projects]]></title>
-        <id>https://socket.dev/blog/malicious-postinstall-hook-found-across-700-github-repos</id>
-        <link href="https://socket.dev/blog/malicious-postinstall-hook-found-across-700-github-repos"/>
+        <title type="html"><![CDATA[Laravel Lang Compromised with RCE Backdoor Across 700 Versions]]></title>
+        <id>https://socket.dev/blog/laravel-lang-compromise</id>
+        <link href="https://socket.dev/blog/laravel-lang-compromise"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shelf – Describe a tool in plain English, get a local app forever]]></title>
-        <id>https://getmyshelf.app/</id>
-        <link href="https://getmyshelf.app/"/>
+        <title type="html"><![CDATA[Kagi Search API is now in public preview]]></title>
+        <id>https://kagi.com/changelog#10622</id>
+        <link href="https://kagi.com/changelog#10622"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[94% companies will keep spending on AI even when it fails]]></title>
-        <id>https://readuncut.com/94-will-keep-spending-on-ai-even-when-it-fails/</id>
-        <link href="https://readuncut.com/94-will-keep-spending-on-ai-even-when-it-fails/"/>
+        <title type="html"><![CDATA[My Hermes and Obsidian Setup and Use Cases]]></title>
+        <id>https://metedata.substack.com/p/013-my-hermes-and-obsidian-set-up</id>
+        <link href="https://metedata.substack.com/p/013-my-hermes-and-obsidian-set-up"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrated franchisee sues Pizza Hut over crappy kitchen AI]]></title>
-        <id>https://www.theregister.com/ai-ml/2026/05/19/frustrated-franchisee-sues-pizza-hut-over-crappy-kitchen-ai/5242899</id>
-        <link href="https://www.theregister.com/ai-ml/2026/05/19/frustrated-franchisee-sues-pizza-hut-over-crappy-kitchen-ai/5242899"/>
+        <title type="html"><![CDATA[Shocker: Docker implemented in ~300 lines of bash]]></title>
+        <id>https://github.com/traceypooh/shocker</id>
+        <link href="https://github.com/traceypooh/shocker"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Battle over WiseTech AI job cuts intensifies amid China staff accusations]]></title>
-        <id>https://www.afr.com/technology/wisetech-ai-redundancy-fight-worsens-with-china-accusations-20260521-p5zzm8</id>
-        <link href="https://www.afr.com/technology/wisetech-ai-redundancy-fight-worsens-with-china-accusations-20260521-p5zzm8"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mdview and the missing middle between less and Electron]]></title>
-        <id>https://blog.leonbecker.de/mdview-and-the-missing-middle-between-less-and-electron/</id>
-        <link href="https://blog.leonbecker.de/mdview-and-the-missing-middle-between-less-and-electron/"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Provenance: A survival toolkit for an AI dominant information landscape]]></title>
-        <id>https://vinchenkov.substack.com/p/provenance</id>
-        <link href="https://vinchenkov.substack.com/p/provenance"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Departing Meta Staffer Posts Biting Anti-AI Video Internally Amid Mass Layoffs]]></title>
-        <id>https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/</id>
-        <link href="https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<model-viewer>: Easily display interactive 3D models on the web and in AR]]></title>
-        <id>https://modelviewer.dev/</id>
-        <link href="https://modelviewer.dev/"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oops you specified provider but forgot quant]]></title>
-        <id>https://github.com/qpwo/openrouter_triples</id>
-        <link href="https://github.com/qpwo/openrouter_triples"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare's Matthew Prince says AI has made a category of workers obsolete]]></title>
-        <id>https://fortune.com/2026/05/21/cloudflare-ceo-matthew-prince-layoffs-ai-automation-measurers/</id>
-        <link href="https://fortune.com/2026/05/21/cloudflare-ceo-matthew-prince-layoffs-ai-automation-measurers/"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Draft executive order would set deadlines for quantum encryption]]></title>
-        <id>https://www.nextgov.com/cybersecurity/2026/05/draft-executive-order-would-set-deadlines-digital-signature-and-key-quantum-encryption/413668/</id>
-        <link href="https://www.nextgov.com/cybersecurity/2026/05/draft-executive-order-would-set-deadlines-digital-signature-and-key-quantum-encryption/413668/"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead Metaphor]]></title>
-        <id>https://en.wikipedia.org/wiki/Dead_metaphor</id>
-        <link href="https://en.wikipedia.org/wiki/Dead_metaphor"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Microcodegen.py – PRD → FastAPI app, one file, no LLM calls]]></title>
-        <id>https://github.com/Anioko/microcodegen</id>
-        <link href="https://github.com/Anioko/microcodegen"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luminous: Rust Based Image Viewer]]></title>
-        <id>https://github.com/jaroslavszkandera/luminous</id>
-        <link href="https://github.com/jaroslavszkandera/luminous"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panorama – Review Code, Faster]]></title>
-        <id>https://panorama.stagas.deno.net/</id>
-        <link href="https://panorama.stagas.deno.net/"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I was bored so I turned my dev tools into an alien planet ruled by my dog]]></title>
-        <id>https://github.com/bkawa-bot/planet-maiko</id>
-        <link href="https://github.com/bkawa-bot/planet-maiko"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: AI Guided 3D atomic orbital simulation]]></title>
-        <id>https://atom.plumocracy.com</id>
-        <link href="https://atom.plumocracy.com"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVE-2026-9256: Nginx 1.31.1 and 1.30.1]]></title>
-        <id>https://www.cve.org/CVERecord?id=CVE-2026-9256</id>
-        <link href="https://www.cve.org/CVERecord?id=CVE-2026-9256"/>
+        <title type="html"><![CDATA[TikTok disproportionately served anti-Democratic videos during the 2024 election]]></title>
+        <id>https://www.psypost.org/tiktok-disproportionately-served-anti-democratic-videos-during-the-2024-election-study-finds/</id>
+        <link href="https://www.psypost.org/tiktok-disproportionately-served-anti-democratic-videos-during-the-2024-election-study-finds/"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
@@ -190,9 +92,142 @@
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TikTok disproportionately served anti-Democratic videos during the 2024 election]]></title>
-        <id>https://www.psypost.org/tiktok-disproportionately-served-anti-democratic-videos-during-the-2024-election-study-finds/</id>
-        <link href="https://www.psypost.org/tiktok-disproportionately-served-anti-democratic-videos-during-the-2024-election-study-finds/"/>
+        <title type="html"><![CDATA[CVE-2026-9256: Nginx 1.31.1 and 1.30.1]]></title>
+        <id>https://www.cve.org/CVERecord?id=CVE-2026-9256</id>
+        <link href="https://www.cve.org/CVERecord?id=CVE-2026-9256"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: AI Guided 3D atomic orbital simulation]]></title>
+        <id>https://atom.plumocracy.com</id>
+        <link href="https://atom.plumocracy.com"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I was bored so I turned my dev tools into an alien planet ruled by my dog]]></title>
+        <id>https://github.com/bkawa-bot/planet-maiko</id>
+        <link href="https://github.com/bkawa-bot/planet-maiko"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panorama – Review Code, Faster]]></title>
+        <id>https://panorama.stagas.deno.net/</id>
+        <link href="https://panorama.stagas.deno.net/"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luminous: Rust Based Image Viewer]]></title>
+        <id>https://github.com/jaroslavszkandera/luminous</id>
+        <link href="https://github.com/jaroslavszkandera/luminous"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Microcodegen.py – PRD → FastAPI app, one file, no LLM calls]]></title>
+        <id>https://github.com/Anioko/microcodegen</id>
+        <link href="https://github.com/Anioko/microcodegen"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead Metaphor]]></title>
+        <id>https://en.wikipedia.org/wiki/Dead_metaphor</id>
+        <link href="https://en.wikipedia.org/wiki/Dead_metaphor"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Draft executive order would set deadlines for quantum encryption]]></title>
+        <id>https://www.nextgov.com/cybersecurity/2026/05/draft-executive-order-would-set-deadlines-digital-signature-and-key-quantum-encryption/413668/</id>
+        <link href="https://www.nextgov.com/cybersecurity/2026/05/draft-executive-order-would-set-deadlines-digital-signature-and-key-quantum-encryption/413668/"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare's Matthew Prince says AI has made a category of workers obsolete]]></title>
+        <id>https://fortune.com/2026/05/21/cloudflare-ceo-matthew-prince-layoffs-ai-automation-measurers/</id>
+        <link href="https://fortune.com/2026/05/21/cloudflare-ceo-matthew-prince-layoffs-ai-automation-measurers/"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oops you specified provider but forgot quant]]></title>
+        <id>https://github.com/qpwo/openrouter_triples</id>
+        <link href="https://github.com/qpwo/openrouter_triples"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<model-viewer>: Easily display interactive 3D models on the web and in AR]]></title>
+        <id>https://modelviewer.dev/</id>
+        <link href="https://modelviewer.dev/"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Departing Meta Staffer Posts Biting Anti-AI Video Internally Amid Mass Layoffs]]></title>
+        <id>https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/</id>
+        <link href="https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Provenance: A survival toolkit for an AI dominant information landscape]]></title>
+        <id>https://vinchenkov.substack.com/p/provenance</id>
+        <link href="https://vinchenkov.substack.com/p/provenance"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mdview and the missing middle between less and Electron]]></title>
+        <id>https://blog.leonbecker.de/mdview-and-the-missing-middle-between-less-and-electron/</id>
+        <link href="https://blog.leonbecker.de/mdview-and-the-missing-middle-between-less-and-electron/"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battle over WiseTech AI job cuts intensifies amid China staff accusations]]></title>
+        <id>https://www.afr.com/technology/wisetech-ai-redundancy-fight-worsens-with-china-accusations-20260521-p5zzm8</id>
+        <link href="https://www.afr.com/technology/wisetech-ai-redundancy-fight-worsens-with-china-accusations-20260521-p5zzm8"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrated franchisee sues Pizza Hut over crappy kitchen AI]]></title>
+        <id>https://www.theregister.com/ai-ml/2026/05/19/frustrated-franchisee-sues-pizza-hut-over-crappy-kitchen-ai/5242899</id>
+        <link href="https://www.theregister.com/ai-ml/2026/05/19/frustrated-franchisee-sues-pizza-hut-over-crappy-kitchen-ai/5242899"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[94% companies will keep spending on AI even when it fails]]></title>
+        <id>https://readuncut.com/94-will-keep-spending-on-ai-even-when-it-fails/</id>
+        <link href="https://readuncut.com/94-will-keep-spending-on-ai-even-when-it-fails/"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shelf – Describe a tool in plain English, get a local app forever]]></title>
+        <id>https://getmyshelf.app/</id>
+        <link href="https://getmyshelf.app/"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious Postinstall Hook Found in 700 GitHub Repos, Including Node Projects]]></title>
+        <id>https://socket.dev/blog/malicious-postinstall-hook-found-across-700-github-repos</id>
+        <link href="https://socket.dev/blog/malicious-postinstall-hook-found-across-700-github-repos"/>
+        <updated>2026-05-22T16:00:00.000Z</updated>
+        <published>2026-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Megalodon: Mass GitHub Repo Backdooring via CI Workflows]]></title>
+        <id>https://safedep.io/megalodon-mass-github-repo-backdooring-ci-workflows/</id>
+        <link href="https://safedep.io/megalodon-mass-github-repo-backdooring-ci-workflows/"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
@@ -252,121 +287,86 @@ https://datsusara.hashnode.dev/a-powerful-node-js-cli-time-tracker
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Elusive Configuration Truth in Veltrix: Why Operators Get Stuck]]></title>
-        <id>https://dev.to/sovereignty-advocate/the-elusive-configuration-truth-in-veltrix-why-operators-get-stuck-1gcc</id>
-        <link href="https://dev.to/sovereignty-advocate/the-elusive-configuration-truth-in-veltrix-why-operators-get-stuck-1gcc"/>
+        <title type="html"><![CDATA[Treating Events as Code: Why You're Probably Failing to Scale]]></title>
+        <id>https://dev.to/sovereignty-advocate/treating-events-as-code-why-youre-probably-failing-to-scale-1dkl</id>
+        <link href="https://dev.to/sovereignty-advocate/treating-events-as-code-why-youre-probably-failing-to-scale-1dkl"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Free Markdown to HTML Converters Online — Live Preview, Tables, Compared]]></title>
-        <id>https://dev.to/shaishav_patel_271fdcd61a/best-free-markdown-to-html-converters-online-live-preview-tables-compared-5e1e</id>
-        <link href="https://dev.to/shaishav_patel_271fdcd61a/best-free-markdown-to-html-converters-online-live-preview-tables-compared-5e1e"/>
+        <title type="html"><![CDATA[Event Loop: como o JavaScript executa código assíncrono]]></title>
+        <id>https://dev.to/rohyer/event-loop-como-o-javascript-executa-codigo-assincrono-59jd</id>
+        <link href="https://dev.to/rohyer/event-loop-como-o-javascript-executa-codigo-assincrono-59jd"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Tragic Flaw of Our Serverless Treasure Hunt Engine]]></title>
-        <id>https://dev.to/sovereignty-advocate/the-tragic-flaw-of-our-serverless-treasure-hunt-engine-3a3a</id>
-        <link href="https://dev.to/sovereignty-advocate/the-tragic-flaw-of-our-serverless-treasure-hunt-engine-3a3a"/>
+        <title type="html"><![CDATA[Treasure Maps and Server Fires: My Honest Look at the Breakdown of our 2026 Treasure Hunt Engine]]></title>
+        <id>https://dev.to/sovereignty-advocate/treasure-maps-and-server-fires-my-honest-look-at-the-breakdown-of-our-2026-treasure-hunt-engine-49cg</id>
+        <link href="https://dev.to/sovereignty-advocate/treasure-maps-and-server-fires-my-honest-look-at-the-breakdown-of-our-2026-treasure-hunt-engine-49cg"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How does VuReact compile Vue 3's defineSlots() to React?]]></title>
-        <id>https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-defineslots-to-react-3jad</id>
-        <link href="https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-defineslots-to-react-3jad"/>
+        <title type="html"><![CDATA[The night Meta flagged my Instagram automation - what I rewrote in v1.5.0]]></title>
+        <id>https://dev.to/ryuji_saas/the-night-meta-flagged-my-instagram-automation-what-i-rewrote-in-v150-1ham</id>
+        <link href="https://dev.to/ryuji_saas/the-night-meta-flagged-my-instagram-automation-what-i-rewrote-in-v150-1ham"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Minify JavaScript, CSS, and HTML Online Free — No Ads, No Upload]]></title>
-        <id>https://dev.to/shaishav_patel_271fdcd61a/minify-javascript-css-and-html-online-free-no-ads-no-upload-43oe</id>
-        <link href="https://dev.to/shaishav_patel_271fdcd61a/minify-javascript-css-and-html-online-free-no-ads-no-upload-43oe"/>
+        <title type="html"><![CDATA[From Frustration to Innovation: Why I Built Caloi AI]]></title>
+        <id>https://dev.to/himanshu_sharma_248f48d39/from-frustration-to-innovation-why-i-built-caloi-ai-3n6k</id>
+        <link href="https://dev.to/himanshu_sharma_248f48d39/from-frustration-to-innovation-why-i-built-caloi-ai-3n6k"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I Still Regret Choosing Veltrix for Our Server Scaling]]></title>
-        <id>https://dev.to/sovereignty-advocate/why-i-still-regret-choosing-veltrix-for-our-server-scaling-3mf8</id>
-        <link href="https://dev.to/sovereignty-advocate/why-i-still-regret-choosing-veltrix-for-our-server-scaling-3mf8"/>
+        <title type="html"><![CDATA[URL Query String Parser Online Free — Extract UTM Params and Decode Any URL]]></title>
+        <id>https://dev.to/shaishav_patel_271fdcd61a/url-query-string-parser-online-free-extract-utm-params-and-decode-any-url-ael</id>
+        <link href="https://dev.to/shaishav_patel_271fdcd61a/url-query-string-parser-online-free-extract-utm-params-and-decode-any-url-ael"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Best Sites to Buy Negative Google Reviews]]></title>
-        <id>https://dev.to/rraghucrchikkade/5-best-sites-to-buy-negative-google-reviews-3j5c</id>
-        <link href="https://dev.to/rraghucrchikkade/5-best-sites-to-buy-negative-google-reviews-3j5c"/>
+        <title type="html"><![CDATA[Technical SEO Checklist for Full-Stack Developers in 2026]]></title>
+        <id>https://dev.to/ailocalseoexpert/technical-seo-checklist-for-full-stack-developers-in-2026-446n</id>
+        <link href="https://dev.to/ailocalseoexpert/technical-seo-checklist-for-full-stack-developers-in-2026-446n"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4 Best Sites to Buy Google Reviews (Forget The Risk)]]></title>
-        <id>https://dev.to/rraghucrchikkade/4-best-sites-to-buy-google-reviews-forget-the-risk-1j40</id>
-        <link href="https://dev.to/rraghucrchikkade/4-best-sites-to-buy-google-reviews-forget-the-risk-1j40"/>
+        <title type="html"><![CDATA[The Unspoken Cost of Scaling a Treasure Hunt Engine: When Documentation Falls Short]]></title>
+        <id>https://dev.to/sovereignty-advocate/the-unspoken-cost-of-scaling-a-treasure-hunt-engine-when-documentation-falls-short-44i9</id>
+        <link href="https://dev.to/sovereignty-advocate/the-unspoken-cost-of-scaling-a-treasure-hunt-engine-when-documentation-falls-short-44i9"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Live Flight Radar in a Single HTML File]]></title>
-        <id>https://dev.to/sergeysta/build-a-live-flight-radar-in-a-single-html-file-p9p</id>
-        <link href="https://dev.to/sergeysta/build-a-live-flight-radar-in-a-single-html-file-p9p"/>
+        <title type="html"><![CDATA[Optimizing the Default Config is a False Economy: The Lessons I Learned Building a Production-Ready Treasure Hunt Engine]]></title>
+        <id>https://dev.to/sovereignty-advocate/optimizing-the-default-config-is-a-false-economy-the-lessons-i-learned-building-a-production-ready-dk</id>
+        <link href="https://dev.to/sovereignty-advocate/optimizing-the-default-config-is-a-false-economy-the-lessons-i-learned-building-a-production-ready-dk"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Treasure Map to Nowhere: A Cautionary Tale of Veltrix Configuration]]></title>
-        <id>https://dev.to/sovereignty-advocate/treasure-map-to-nowhere-a-cautionary-tale-of-veltrix-configuration-3oe3</id>
-        <link href="https://dev.to/sovereignty-advocate/treasure-map-to-nowhere-a-cautionary-tale-of-veltrix-configuration-3oe3"/>
+        <title type="html"><![CDATA[Treasure Hunt Engine Performance Deterioration - A Warning Sign Your Server is Scaling Faster Than Your Configuration]]></title>
+        <id>https://dev.to/sovereignty-advocate/treasure-hunt-engine-performance-deterioration-a-warning-sign-your-server-is-scaling-faster-than-3lka</id>
+        <link href="https://dev.to/sovereignty-advocate/treasure-hunt-engine-performance-deterioration-a-warning-sign-your-server-is-scaling-faster-than-3lka"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3 Sites to Buy Verified Stripe Accounts]]></title>
-        <id>https://dev.to/rraghucrchikkade/3-sites-to-buy-verified-stripe-accounts-56gk</id>
-        <link href="https://dev.to/rraghucrchikkade/3-sites-to-buy-verified-stripe-accounts-56gk"/>
+        <title type="html"><![CDATA[Ghost Bugs Cost $40K: A Neural Debugging Postmortem]]></title>
+        <id>https://dev.to/mihokoto/ghost-bugs-cost-40k-a-neural-debugging-postmortem-1nb3</id>
+        <link href="https://dev.to/mihokoto/ghost-bugs-cost-40k-a-neural-debugging-postmortem-1nb3"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4 Best Sites to Buy Google Reviews (Forget The Risk)]]></title>
-        <id>https://dev.to/rraghucrchikkade/4-best-sites-to-buy-google-reviews-forget-the-risk-3a4e</id>
-        <link href="https://dev.to/rraghucrchikkade/4-best-sites-to-buy-google-reviews-forget-the-risk-3a4e"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Google Reviews (Real, Safe, Legit)]]></title>
-        <id>https://dev.to/rraghucrchikkade/buy-google-reviews-real-safe-legit-3fbl</id>
-        <link href="https://dev.to/rraghucrchikkade/buy-google-reviews-real-safe-legit-3fbl"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy BBB Reviews – Boost Your Local Business Ratings Fast]]></title>
-        <id>https://dev.to/rraghucrchikkade/buy-bbb-reviews-boost-your-local-business-ratings-fast-4md0</id>
-        <link href="https://dev.to/rraghucrchikkade/buy-bbb-reviews-boost-your-local-business-ratings-fast-4md0"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Facebook 5 Star Ratings and Reviews]]></title>
-        <id>https://dev.to/rraghucrchikkade/buy-facebook-5-star-ratings-and-reviews-4pci</id>
-        <link href="https://dev.to/rraghucrchikkade/buy-facebook-5-star-ratings-and-reviews-4pci"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Unspoken Consequences of Overreliance on Client-Side Configuration for Scalability]]></title>
-        <id>https://dev.to/sovereignty-advocate/the-unspoken-consequences-of-overreliance-on-client-side-configuration-for-scalability-41o3</id>
-        <link href="https://dev.to/sovereignty-advocate/the-unspoken-consequences-of-overreliance-on-client-side-configuration-for-scalability-41o3"/>
-        <updated>2026-05-22T16:00:00.000Z</updated>
-        <published>2026-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built my first Chrome extension because editing localStorage was annoying]]></title>
-        <id>https://dev.to/rodrigocnascimento/i-built-my-first-chrome-extension-because-editing-localstorage-was-annoying-1ji1</id>
-        <link href="https://dev.to/rodrigocnascimento/i-built-my-first-chrome-extension-because-editing-localstorage-was-annoying-1ji1"/>
+        <title type="html"><![CDATA[PasteCheck v1.7 + v1.8 — Hints that tell you what to fix, and a nudge panel that tells you where to start]]></title>
+        <id>https://dev.to/charles_blackwood/pastecheck-v17-v18-hints-that-tell-you-what-to-fix-and-a-nudge-panel-that-tells-you-where-to-42lc</id>
+        <link href="https://dev.to/charles_blackwood/pastecheck-v17-v18-hints-that-tell-you-what-to-fix-and-a-nudge-panel-that-tells-you-where-to-42lc"/>
         <updated>2026-05-22T16:00:00.000Z</updated>
         <published>2026-05-22T16:00:00.000Z</published>
     </entry>
