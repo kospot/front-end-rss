@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-24 10:01:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-24 12:02:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -11,12 +11,12 @@
 - [2026-05-21-Sam-Altman-makes-'mic-drop'-offer-to-every-Y-Combinator-startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/) 
 - [2026-05-17-OpenAI-is-offering-ChatGPT-Plus-to-citizens-of-Malta-for-a-year](https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/) 
 - [2026-05-05-Google-now-offers-up-to-$1.5M-for-some-Android-exploits](https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/) 
-- [2026-05-04-Midori,-the-first-browser-to-offer-a-VPN-with-Mesh-technology](https://astian.org/midori-en/performance-adblock-and-more-in-midori-11-7-1/) 
 - [2026-05-04-GameStop-Is-Offering-to-Buy-eBay-for-$56B,-CEO-Ryan-Cohen-Says](https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a) 
+- [2026-05-04-Midori,-the-first-browser-to-offer-a-VPN-with-Mesh-technology](https://astian.org/midori-en/performance-adblock-and-more-in-midori-11-7-1/) 
 - [2026-05-02-GameStop-Preparing-Offer-for-eBay](https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de) 
 - [2026-04-29-Amazon-is-offering-new-OpenAI-products-on-AWS](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/) 
-- [2026-04-25-Rippling-exposed-your-SSN/banking-to-anyone-who-sent-you-an-offer-letter](https://infosec.exchange/@SecureOwl/116415101610028363) 
 - [2026-04-25-Microsoft-offers-voluntary-employee-buyout/retirement-for-7%-of-U.S.-workforce](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html) 
+- [2026-04-25-Rippling-exposed-your-SSN/banking-to-anyone-who-sent-you-an-offer-letter](https://infosec.exchange/@SecureOwl/116415101610028363) 
 - [2026-05-21-The-Path,-founded-by-Tony-Robbins-and-Calm-alums,-hopes-to-offer-safer-AI-therapy](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/) 
 - [2026-05-21-Sam-Altman-makes-‘mic-drop’-offer-to-every-Y-Combinator-startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/) 
 - [2026-05-20-NanoClaw-creator-turns-down-$20M-buyout-offer,-raises-$12M-seed-instead](https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/) 
