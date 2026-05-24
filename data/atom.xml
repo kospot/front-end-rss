@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-24T13:03:04.311Z</updated>
+    <updated>2026-05-24T15:03:26.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Hackers are learning to exploit chatbot &#8216;personalities&#8217;]]></title>
-        <id>https://www.theverge.com/column/935545/hackers-ai-chatbots</id>
-        <link href="https://www.theverge.com/column/935545/hackers-ai-chatbots"/>
+        <title type="html"><![CDATA[Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage]]></title>
+        <id>https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo</id>
+        <link href="https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage]]></title>
-        <id>https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo</id>
-        <link href="https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo"/>
+        <title type="html"><![CDATA[Hackers are learning to exploit chatbot &#8216;personalities&#8217;]]></title>
+        <id>https://www.theverge.com/column/935545/hackers-ai-chatbots</id>
+        <link href="https://www.theverge.com/column/935545/hackers-ai-chatbots"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
@@ -43,9 +43,9 @@
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Dreamie alarm clock got me to stop using my phone in bed]]></title>
-        <id>https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/</id>
-        <link href="https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/"/>
+        <title type="html"><![CDATA[I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out]]></title>
+        <id>https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/</id>
+        <link href="https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
@@ -57,261 +57,51 @@
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A picker that maps local LLMs to hardware, hardware to LLMs]]></title>
-        <id>https://llmrequirements.com/</id>
-        <link href="https://llmrequirements.com/"/>
+        <title type="html"><![CDATA[The Dreamie alarm clock got me to stop using my phone in bed]]></title>
+        <id>https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/</id>
+        <link href="https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The guide to RL environments: building and scaling them in the LLM era]]></title>
-        <id>https://huggingface.co/spaces/AdithyaSK/rl-environments-guide</id>
-        <link href="https://huggingface.co/spaces/AdithyaSK/rl-environments-guide"/>
+        <title type="html"><![CDATA[Show HN: Time to Get Up]]></title>
+        <id>https://bigballi.com/move-reminder/</id>
+        <link href="https://bigballi.com/move-reminder/"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a free AI travel planner for budget Europe trips]]></title>
-        <id>https://news.ycombinator.com/item?id=48256767</id>
-        <link href="https://news.ycombinator.com/item?id=48256767"/>
+        <title type="html"><![CDATA[The Shadowserver Foundation is a nonprofit security organization]]></title>
+        <id>https://www.shadowserver.org/</id>
+        <link href="https://www.shadowserver.org/"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Accessibility in JavaFX]]></title>
-        <id>https://dev.java/learn/javafx/a11y/</id>
-        <link href="https://dev.java/learn/javafx/a11y/"/>
+        <title type="html"><![CDATA[How my minimal, memory-safe Go rsync steers clear of vulnerabilities]]></title>
+        <id>https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/</id>
+        <link href="https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Neuroscience Behind Writing: Handwriting vs. Typing–Who Wins the Battle?]]></title>
-        <id>https://www.mdpi.com/2075-1729/15/3/345?</id>
-        <link href="https://www.mdpi.com/2075-1729/15/3/345?"/>
+        <title type="html"><![CDATA[The seed oil panic is hurting my cardiac patients]]></title>
+        <id>https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/</id>
+        <link href="https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USDA Conducts Oral Rabies Vaccination Efforts Targeting Wildlife (2025)]]></title>
-        <id>https://www.aphis.usda.gov/news/agency-announcements/usda-conducts-2025-oral-rabies-vaccination-efforts-targeting-wildlife</id>
-        <link href="https://www.aphis.usda.gov/news/agency-announcements/usda-conducts-2025-oral-rabies-vaccination-efforts-targeting-wildlife"/>
+        <title type="html"><![CDATA[AI and the Rise of Just-in-Time Knowledge Work]]></title>
+        <id>https://operatingnotes.bearblog.dev/ai-and-the-rise-of-just-in-time-knowledge-work/</id>
+        <link href="https://operatingnotes.bearblog.dev/ai-and-the-rise-of-just-in-time-knowledge-work/"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Catastrophe Is Emerging in the Most Vulnerable Places]]></title>
-        <id>https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html</id>
-        <link href="https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turned ArXiv into an AI-Agent-Friendly Interface (No Browser Vision Needed)]]></title>
-        <id>https://mediause.dev/skills/arxiv</id>
-        <link href="https://mediause.dev/skills/arxiv"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Documenting my immigrant founder's journey in the Bay Area]]></title>
-        <id>https://iamandrespalacios.substack.com/p/series-eh-a-founders-journey</id>
-        <link href="https://iamandrespalacios.substack.com/p/series-eh-a-founders-journey"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Every IKEA Product Has a Weird Name [video]]]></title>
-        <id>https://www.youtube.com/watch?v=c89T2snPvNo</id>
-        <link href="https://www.youtube.com/watch?v=c89T2snPvNo"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta's Claudeonomics leaderboard]]></title>
-        <id>https://www.indiatoday.in/technology/news/story/meta-shuts-down-internal-claudeonomics-ai-tool-after-employees-started-leaking-data-to-public-2893581-2026-04-09</id>
-        <link href="https://www.indiatoday.in/technology/news/story/meta-shuts-down-internal-claudeonomics-ai-tool-after-employees-started-leaking-data-to-public-2893581-2026-04-09"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I tracked down the thief who stole $200k of Lego [video]]]></title>
-        <id>https://www.youtube.com/watch?v=wscQpkcwgNU</id>
-        <link href="https://www.youtube.com/watch?v=wscQpkcwgNU"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Were Wrong About Fasting Study Finds]]></title>
-        <id>https://www.sciencealert.com/we-were-wrong-about-fasting-massive-study-finds</id>
-        <link href="https://www.sciencealert.com/we-were-wrong-about-fasting-massive-study-finds"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Images are not displayed in emails, newsletters or signatures in classic Outlook]]></title>
-        <id>https://support.microsoft.com/en-us/office/images-are-not-displayed-in-emails-newsletters-or-signatures-in-classic-outlook-74600b12-905a-4f2c-9de5-ba295a675216</id>
-        <link href="https://support.microsoft.com/en-us/office/images-are-not-displayed-in-emails-newsletters-or-signatures-in-classic-outlook-74600b12-905a-4f2c-9de5-ba295a675216"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A simple AI agent in Java]]></title>
-        <id>https://github.com/machineswillrise/jagent</id>
-        <link href="https://github.com/machineswillrise/jagent"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joe Rogan accidentally exposed AI in four words [video][12 mins]]]></title>
-        <id>https://www.youtube.com/watch?v=waFl4uBfXRA</id>
-        <link href="https://www.youtube.com/watch?v=waFl4uBfXRA"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft open-sources "the earliest DOS source code discovered to date"]]></title>
-        <id>https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/</id>
-        <link href="https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Sam 3: Segment Anything with Text, Clicks and Concepts]]></title>
-        <id>https://sam3ai.com/</id>
-        <link href="https://sam3ai.com/"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Headshot Generator – Preview Before You Pay, $4.99 One-Time]]></title>
-        <id>https://aiheadshotgenerator.pro/</id>
-        <link href="https://aiheadshotgenerator.pro/"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CodeShot – Web screenshots,scraping, and link previews for AI agents]]></title>
-        <id>https://drmadmeow.up.railway.app/</id>
-        <link href="https://drmadmeow.up.railway.app/"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: World Cup 2026 free family and friends prediction platform]]></title>
-        <id>https://wc-2026-predictions.vercel.app</id>
-        <link href="https://wc-2026-predictions.vercel.app"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Megalodon Mass GitHub Actions Secret Exfiltration Across 5500 Public Repos]]></title>
-        <id>https://www.stepsecurity.io/blog/megalodon-mass-github-actions-secret-exfiltration-across-5-500-public-repositories</id>
-        <link href="https://www.stepsecurity.io/blog/megalodon-mass-github-actions-secret-exfiltration-across-5-500-public-repositories"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duolingo's CEO says he backtracked on evaluating AI use in performance reviews]]></title>
-        <id>https://www.businessinsider.com/duolingo-ai-performance-reviews-ceo-backtracked-2026-4</id>
-        <link href="https://www.businessinsider.com/duolingo-ai-performance-reviews-ceo-backtracked-2026-4"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The HTML-in-Canvas API [video]]]></title>
-        <id>https://www.youtube.com/watch?v=TUtKGTeFWjQ</id>
-        <link href="https://www.youtube.com/watch?v=TUtKGTeFWjQ"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental Drug Retatrutide Yields Dramatic Weight Loss]]></title>
-        <id>https://www.nytimes.com/2026/05/21/science/retatrutide-weight-loss-drug.html</id>
-        <link href="https://www.nytimes.com/2026/05/21/science/retatrutide-weight-loss-drug.html"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies]]></title>
-        <id>https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning</id>
-        <link href="https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crafting Fluid Animations Across Apple Platforms with Phil Zakharchenko [video]]]></title>
-        <id>https://vimeo.com/1194916003</id>
-        <link href="https://vimeo.com/1194916003"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeremy Scott gets cheer after ripping up AI-written commencement speech]]></title>
-        <id>https://www.businessinsider.com/jeremy-scott-fashion-graduation-speech-commencement-ai-student-backlash-2026-5</id>
-        <link href="https://www.businessinsider.com/jeremy-scott-fashion-graduation-speech-commencement-ai-student-backlash-2026-5"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Looking for experienced web developer to commission]]></title>
-        <id>https://news.ycombinator.com/item?id=48252752</id>
-        <link href="https://news.ycombinator.com/item?id=48252752"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video Generator]]></title>
-        <id>https://github.com/BestGiter/VideoGenerator</id>
-        <link href="https://github.com/BestGiter/VideoGenerator"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Says Mythos Has Found More Than 10k Vulnerabilities]]></title>
-        <id>https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update/</id>
-        <link href="https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update/"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Is the King of Memorial Day Weekend Movies? We Ranked the Biggest Stars]]></title>
-        <id>https://editorial.rottentomatoes.com/article/memorial-day-weekend-movie-stars-ranked/</id>
-        <link href="https://editorial.rottentomatoes.com/article/memorial-day-weekend-movie-stars-ranked/"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Vibe Coding to AI-Assisted Engineering: Lessons from Real Projects]]></title>
-        <id>https://medium.com/@eritonsilva/from-vibe-coding-to-ai-assisted-engineering-lessons-from-real-projects-c403b85eaad1</id>
-        <link href="https://medium.com/@eritonsilva/from-vibe-coding-to-ai-assisted-engineering-lessons-from-real-projects-c403b85eaad1"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alexander Grothendieck Revolutionized 20th-Century Mathematics]]></title>
-        <id>https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/</id>
-        <link href="https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investigating Trump's Stock Trades and Public Announcement Timings [video]]]></title>
-        <id>https://www.youtube.com/shorts/LEIn9wHJTbw</id>
-        <link href="https://www.youtube.com/shorts/LEIn9wHJTbw"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Impossible' Black Holes: Scientists Know Why]]></title>
-        <id>https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/</id>
-        <link href="https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scriba: Structured Logging in Lisp (Guile Scheme)]]></title>
-        <id>https://codeberg.org/jjba23/scriba</id>
-        <link href="https://codeberg.org/jjba23/scriba"/>
+        <title type="html"><![CDATA[Salesforce Touts AI Promise over Reality in SaaSpocalypse Fight]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-05-22/salesforce-touts-ai-promise-over-reality-in-saaspocalypse-fight</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-05-22/salesforce-touts-ai-promise-over-reality-in-saaspocalypse-fight"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
@@ -323,44 +113,254 @@
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Briefcast: How I Built a Personal AI Intelligence Agent That Reads the Entire AI Ecosystem — For…]]></title>
-        <id>https://pub.towardsai.net/briefcast-how-i-built-a-personal-ai-intelligence-agent-that-reads-the-entire-ai-ecosystem-for-ac0f87d4fe65?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/briefcast-how-i-built-a-personal-ai-intelligence-agent-that-reads-the-entire-ai-ecosystem-for-ac0f87d4fe65?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Scriba: Structured Logging in Lisp (Guile Scheme)]]></title>
+        <id>https://codeberg.org/jjba23/scriba</id>
+        <link href="https://codeberg.org/jjba23/scriba"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SVM : 40 Must Visit Interview Questions (Part 1)]]></title>
-        <id>https://pub.towardsai.net/svm-40-must-visit-interview-questions-8a0213c2dbf7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/svm-40-must-visit-interview-questions-8a0213c2dbf7?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA['Impossible' Black Holes: Scientists Know Why]]></title>
+        <id>https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/</id>
+        <link href="https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond Foundation Models: Why Enterprise Context Could Become the Real AI Advantage]]></title>
-        <id>https://pub.towardsai.net/beyond-foundation-models-why-enterprise-context-could-become-the-real-ai-advantage-3b17fbd14c72?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/beyond-foundation-models-why-enterprise-context-could-become-the-real-ai-advantage-3b17fbd14c72?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Investigating Trump's Stock Trades and Public Announcement Timings [video]]]></title>
+        <id>https://www.youtube.com/shorts/LEIn9wHJTbw</id>
+        <link href="https://www.youtube.com/shorts/LEIn9wHJTbw"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent Memory with Vector Stores: HNSW, Forgetting, and Budgets]]></title>
-        <id>https://pub.towardsai.net/agent-memory-with-vector-stores-hnsw-forgetting-and-budgets-a6ad00c76841?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/agent-memory-with-vector-stores-hnsw-forgetting-and-budgets-a6ad00c76841?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Alexander Grothendieck Revolutionized 20th-Century Mathematics]]></title>
+        <id>https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/</id>
+        <link href="https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is AI Overview Agent, How Does it Work, and How to Exploit its Biases]]></title>
-        <id>https://pub.towardsai.net/what-is-ai-overview-agent-how-does-it-work-and-how-to-exploit-its-biases-a743867f7453?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-is-ai-overview-agent-how-does-it-work-and-how-to-exploit-its-biases-a743867f7453?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[From Vibe Coding to AI-Assisted Engineering: Lessons from Real Projects]]></title>
+        <id>https://medium.com/@eritonsilva/from-vibe-coding-to-ai-assisted-engineering-lessons-from-real-projects-c403b85eaad1</id>
+        <link href="https://medium.com/@eritonsilva/from-vibe-coding-to-ai-assisted-engineering-lessons-from-real-projects-c403b85eaad1"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building RAG Systems: A Complete Guide]]></title>
-        <id>https://pub.towardsai.net/building-rag-systems-a-complete-guide-a1b94c997000?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-rag-systems-a-complete-guide-a1b94c997000?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Who Is the King of Memorial Day Weekend Movies? We Ranked the Biggest Stars]]></title>
+        <id>https://editorial.rottentomatoes.com/article/memorial-day-weekend-movie-stars-ranked/</id>
+        <link href="https://editorial.rottentomatoes.com/article/memorial-day-weekend-movie-stars-ranked/"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Says Mythos Has Found More Than 10k Vulnerabilities]]></title>
+        <id>https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update/</id>
+        <link href="https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update/"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video Generator]]></title>
+        <id>https://github.com/BestGiter/VideoGenerator</id>
+        <link href="https://github.com/BestGiter/VideoGenerator"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Looking for experienced web developer to commission]]></title>
+        <id>https://news.ycombinator.com/item?id=48252752</id>
+        <link href="https://news.ycombinator.com/item?id=48252752"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeremy Scott gets cheer after ripping up AI-written commencement speech]]></title>
+        <id>https://www.businessinsider.com/jeremy-scott-fashion-graduation-speech-commencement-ai-student-backlash-2026-5</id>
+        <link href="https://www.businessinsider.com/jeremy-scott-fashion-graduation-speech-commencement-ai-student-backlash-2026-5"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crafting Fluid Animations Across Apple Platforms with Phil Zakharchenko [video]]]></title>
+        <id>https://vimeo.com/1194916003</id>
+        <link href="https://vimeo.com/1194916003"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies]]></title>
+        <id>https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning</id>
+        <link href="https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental Drug Retatrutide Yields Dramatic Weight Loss]]></title>
+        <id>https://www.nytimes.com/2026/05/21/science/retatrutide-weight-loss-drug.html</id>
+        <link href="https://www.nytimes.com/2026/05/21/science/retatrutide-weight-loss-drug.html"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The HTML-in-Canvas API [video]]]></title>
+        <id>https://www.youtube.com/watch?v=TUtKGTeFWjQ</id>
+        <link href="https://www.youtube.com/watch?v=TUtKGTeFWjQ"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duolingo's CEO says he backtracked on evaluating AI use in performance reviews]]></title>
+        <id>https://www.businessinsider.com/duolingo-ai-performance-reviews-ceo-backtracked-2026-4</id>
+        <link href="https://www.businessinsider.com/duolingo-ai-performance-reviews-ceo-backtracked-2026-4"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Megalodon Mass GitHub Actions Secret Exfiltration Across 5500 Public Repos]]></title>
+        <id>https://www.stepsecurity.io/blog/megalodon-mass-github-actions-secret-exfiltration-across-5-500-public-repositories</id>
+        <link href="https://www.stepsecurity.io/blog/megalodon-mass-github-actions-secret-exfiltration-across-5-500-public-repositories"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: World Cup 2026 free family and friends prediction platform]]></title>
+        <id>https://wc-2026-predictions.vercel.app</id>
+        <link href="https://wc-2026-predictions.vercel.app"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodeShot – Web screenshots,scraping, and link previews for AI agents]]></title>
+        <id>https://drmadmeow.up.railway.app/</id>
+        <link href="https://drmadmeow.up.railway.app/"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Headshot Generator – Preview Before You Pay, $4.99 One-Time]]></title>
+        <id>https://aiheadshotgenerator.pro/</id>
+        <link href="https://aiheadshotgenerator.pro/"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Sam 3: Segment Anything with Text, Clicks and Concepts]]></title>
+        <id>https://sam3ai.com/</id>
+        <link href="https://sam3ai.com/"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft open-sources "the earliest DOS source code discovered to date"]]></title>
+        <id>https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/</id>
+        <link href="https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Rogan accidentally exposed AI in four words [video][12 mins]]]></title>
+        <id>https://www.youtube.com/watch?v=waFl4uBfXRA</id>
+        <link href="https://www.youtube.com/watch?v=waFl4uBfXRA"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A simple AI agent in Java]]></title>
+        <id>https://github.com/machineswillrise/jagent</id>
+        <link href="https://github.com/machineswillrise/jagent"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Images are not displayed in emails, newsletters or signatures in classic Outlook]]></title>
+        <id>https://support.microsoft.com/en-us/office/images-are-not-displayed-in-emails-newsletters-or-signatures-in-classic-outlook-74600b12-905a-4f2c-9de5-ba295a675216</id>
+        <link href="https://support.microsoft.com/en-us/office/images-are-not-displayed-in-emails-newsletters-or-signatures-in-classic-outlook-74600b12-905a-4f2c-9de5-ba295a675216"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Were Wrong About Fasting Study Finds]]></title>
+        <id>https://www.sciencealert.com/we-were-wrong-about-fasting-massive-study-finds</id>
+        <link href="https://www.sciencealert.com/we-were-wrong-about-fasting-massive-study-finds"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tracked down the thief who stole $200k of Lego [video]]]></title>
+        <id>https://www.youtube.com/watch?v=wscQpkcwgNU</id>
+        <link href="https://www.youtube.com/watch?v=wscQpkcwgNU"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta's Claudeonomics leaderboard]]></title>
+        <id>https://www.indiatoday.in/technology/news/story/meta-shuts-down-internal-claudeonomics-ai-tool-after-employees-started-leaking-data-to-public-2893581-2026-04-09</id>
+        <link href="https://www.indiatoday.in/technology/news/story/meta-shuts-down-internal-claudeonomics-ai-tool-after-employees-started-leaking-data-to-public-2893581-2026-04-09"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Every IKEA Product Has a Weird Name [video]]]></title>
+        <id>https://www.youtube.com/watch?v=c89T2snPvNo</id>
+        <link href="https://www.youtube.com/watch?v=c89T2snPvNo"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Documenting my immigrant founder's journey in the Bay Area]]></title>
+        <id>https://iamandrespalacios.substack.com/p/series-eh-a-founders-journey</id>
+        <link href="https://iamandrespalacios.substack.com/p/series-eh-a-founders-journey"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turned ArXiv into an AI-Agent-Friendly Interface (No Browser Vision Needed)]]></title>
+        <id>https://mediause.dev/skills/arxiv</id>
+        <link href="https://mediause.dev/skills/arxiv"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Catastrophe Is Emerging in the Most Vulnerable Places]]></title>
+        <id>https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html</id>
+        <link href="https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USDA Conducts Oral Rabies Vaccination Efforts Targeting Wildlife (2025)]]></title>
+        <id>https://www.aphis.usda.gov/news/agency-announcements/usda-conducts-2025-oral-rabies-vaccination-efforts-targeting-wildlife</id>
+        <link href="https://www.aphis.usda.gov/news/agency-announcements/usda-conducts-2025-oral-rabies-vaccination-efforts-targeting-wildlife"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Neuroscience Behind Writing: Handwriting vs. Typing–Who Wins the Battle?]]></title>
+        <id>https://www.mdpi.com/2075-1729/15/3/345?</id>
+        <link href="https://www.mdpi.com/2075-1729/15/3/345?"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessibility in JavaFX]]></title>
+        <id>https://dev.java/learn/javafx/a11y/</id>
+        <link href="https://dev.java/learn/javafx/a11y/"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a free AI travel planner for budget Europe trips]]></title>
+        <id>https://news.ycombinator.com/item?id=48256767</id>
+        <link href="https://news.ycombinator.com/item?id=48256767"/>
+        <updated>2026-05-23T16:00:00.000Z</updated>
+        <published>2026-05-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The guide to RL environments: building and scaling them in the LLM era]]></title>
+        <id>https://huggingface.co/spaces/AdithyaSK/rl-environments-guide</id>
+        <link href="https://huggingface.co/spaces/AdithyaSK/rl-environments-guide"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
