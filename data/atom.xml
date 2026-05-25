@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-25T00:01:34.233Z</updated>
+    <updated>2026-05-25T02:02:22.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,23 +36,79 @@
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: JavaScript Crossword – a crossword where the clue = eval(answer)]]></title>
-        <id>https://lyra.horse/fun/jscrossword/</id>
-        <link href="https://lyra.horse/fun/jscrossword/"/>
+        <title type="html"><![CDATA[NymphCast – Libre Multicast DNS Media Streaming to Any Device]]></title>
+        <id>https://github.com/MayaPosch/NymphCast</id>
+        <link href="https://github.com/MayaPosch/NymphCast"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No Asterisk Products Manifesto: hardware that works when the servers go down]]></title>
-        <id>https://noasteriskproducts.org/</id>
-        <link href="https://noasteriskproducts.org/"/>
+        <title type="html"><![CDATA[Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Tuie - A rich, performant TUI library for rust]]></title>
-        <id>https://github.com/jake-stewart/tuie</id>
-        <link href="https://github.com/jake-stewart/tuie"/>
+        <title type="html"><![CDATA[The Morale of Tech Workers Is Plunging as Layoffs Mount]]></title>
+        <id>https://www.nytimes.com/2026/05/19/business/tech-layoffs-blind.html</id>
+        <link href="https://www.nytimes.com/2026/05/19/business/tech-layoffs-blind.html"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Unified Theory of Alignment in Layered Systems]]></title>
+        <id>https://a-unified-theory-of-alignment-in-layered-systems.tiiny.site/</id>
+        <link href="https://a-unified-theory-of-alignment-in-layered-systems.tiiny.site/"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The quiet grief of adult friendship]]></title>
+        <id>https://timesofindia.indiatimes.com/blogs/civil-irony/the-quiet-grief-of-adult-friendship/</id>
+        <link href="https://timesofindia.indiatimes.com/blogs/civil-irony/the-quiet-grief-of-adult-friendship/"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canonical to shut Ubuntu Pastebin after 18 years of service]]></title>
+        <id>https://www.omgubuntu.co.uk/2026/05/canonical-ubuntu-pastebin-shutdown</id>
+        <link href="https://www.omgubuntu.co.uk/2026/05/canonical-ubuntu-pastebin-shutdown"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built an online leather goods store focused on making gift buying less painful]]></title>
+        <id>https://www.vintageleather.com.au/</id>
+        <link href="https://www.vintageleather.com.au/"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tfdraw.dev – turn Terraform plan JSON into an editable architecture diagram]]></title>
+        <id>https://tfdraw.dev/demo</id>
+        <link href="https://tfdraw.dev/demo"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: The first (free) podcast ad blocker]]></title>
+        <id>https://apps.apple.com/us/app/drea-podcast-ad-blocker/id6759070798</id>
+        <link href="https://apps.apple.com/us/app/drea-podcast-ad-blocker/id6759070798"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Talks People Out of Conspiracy Theories–and What We Can Learn from That]]></title>
+        <id>https://www.wsj.com/tech/ai/ai-debunks-conspiracy-theories-92eff2c5</id>
+        <link href="https://www.wsj.com/tech/ai/ai-debunks-conspiracy-theories-92eff2c5"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Built Secure, Scalable Agent Sandbox Infrastructure]]></title>
+        <id>https://twitter.com/larsencc/status/2027225210412470668</id>
+        <link href="https://twitter.com/larsencc/status/2027225210412470668"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
@@ -64,9 +120,37 @@
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The AI Bill Just Arrived. And Nobody Budgeted for It]]></title>
-        <id>https://pub.towardsai.net/the-ai-bill-just-arrived-and-nobody-budgeted-for-it-7f32d18e24a2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-ai-bill-just-arrived-and-nobody-budgeted-for-it-7f32d18e24a2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Tuie - A rich, performant TUI library for rust]]></title>
+        <id>https://github.com/jake-stewart/tuie</id>
+        <link href="https://github.com/jake-stewart/tuie"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Asterisk Products Manifesto: hardware that works when the servers go down]]></title>
+        <id>https://noasteriskproducts.org/</id>
+        <link href="https://noasteriskproducts.org/"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: JavaScript Crossword – a crossword where the clue = eval(answer)]]></title>
+        <id>https://lyra.horse/fun/jscrossword/</id>
+        <link href="https://lyra.horse/fun/jscrossword/"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Most AI Agents Die in Production]]></title>
+        <id>https://pub.towardsai.net/why-most-ai-agents-die-in-production-2f93ddcf7386?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-most-ai-agents-die-in-production-2f93ddcf7386?source=rss----98111c9905da---4"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is MCP? Build Your First Server in Under 10 Minutes]]></title>
+        <id>https://pub.towardsai.net/what-is-mcp-build-a-custom-mcp-server-in-python-91ba71830d6a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-is-mcp-build-a-custom-mcp-server-in-python-91ba71830d6a?source=rss----98111c9905da---4"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
@@ -78,9 +162,9 @@
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Is MCP? Build Your First Server in Under 10 Minutes]]></title>
-        <id>https://pub.towardsai.net/what-is-mcp-build-a-custom-mcp-server-in-python-91ba71830d6a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-is-mcp-build-a-custom-mcp-server-in-python-91ba71830d6a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The AI Bill Just Arrived. And Nobody Budgeted for It]]></title>
+        <id>https://pub.towardsai.net/the-ai-bill-just-arrived-and-nobody-budgeted-for-it-7f32d18e24a2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-ai-bill-just-arrived-and-nobody-budgeted-for-it-7f32d18e24a2?source=rss----98111c9905da---4"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
@@ -106,86 +190,30 @@
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Turned npm outdated into a CI Gate — Here's How]]></title>
-        <id>https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-1e0m</id>
-        <link href="https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-1e0m"/>
+        <title type="html"><![CDATA[SEO-Search-appearence]]></title>
+        <id>https://dev.to/joseph_anady_214bacedf939/seo-search-appearence-3n25</id>
+        <link href="https://dev.to/joseph_anady_214bacedf939/seo-search-appearence-3n25"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built PROOFER - Privacy first Chrome extension that proofreads your texts using Gemma 4]]></title>
-        <id>https://dev.to/samirmishra27/i-built-proofer-chrome-extension-that-proofreads-your-texts-using-gemma-4-3am7</id>
-        <link href="https://dev.to/samirmishra27/i-built-proofer-chrome-extension-that-proofreads-your-texts-using-gemma-4-3am7"/>
+        <title type="html"><![CDATA[React Pointer Hooks: Hover, Long-Press, Double-Click, Scratch, and Click-Outside Without the Bugs]]></title>
+        <id>https://dev.to/childrentime/react-pointer-hooks-hover-long-press-double-click-scratch-and-click-outside-without-the-bugs-1pfb</id>
+        <link href="https://dev.to/childrentime/react-pointer-hooks-hover-long-press-double-click-scratch-and-click-outside-without-the-bugs-1pfb"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An npm Downloads Comparison Chart in 300 Lines of Vanilla JS — Nice-Tick Math and API-Direct Fetch]]></title>
-        <id>https://dev.to/sendotltd/an-npm-downloads-comparison-chart-in-300-lines-of-vanilla-js-nice-tick-math-and-api-direct-fetch-4kbp</id>
-        <link href="https://dev.to/sendotltd/an-npm-downloads-comparison-chart-in-300-lines-of-vanilla-js-nice-tick-math-and-api-direct-fetch-4kbp"/>
+        <title type="html"><![CDATA[Inlining and Deoptimization in JavaScript Engines]]></title>
+        <id>https://dev.to/omriluz1/inlining-and-deoptimization-in-javascript-engines-2okj</id>
+        <link href="https://dev.to/omriluz1/inlining-and-deoptimization-in-javascript-engines-2okj"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SSR with JavaScript: Escaping Node.js Clunkiness with AxonASP]]></title>
-        <id>https://dev.to/lucas_guimaraes/ssr-with-javascript-escaping-nodejs-clunkiness-with-axonasp-2ojc</id>
-        <link href="https://dev.to/lucas_guimaraes/ssr-with-javascript-escaping-nodejs-clunkiness-with-axonasp-2ojc"/>
-        <updated>2026-05-24T16:00:00.000Z</updated>
-        <published>2026-05-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stop Stolen Session Cookies in Node.js using Device Bound Session Credentials (DBSC)]]></title>
-        <id>https://dev.to/suliman_abdulrazzaq_14907/how-to-stop-stolen-session-cookies-in-nodejs-using-device-bound-session-credentials-dbsc-58op</id>
-        <link href="https://dev.to/suliman_abdulrazzaq_14907/how-to-stop-stolen-session-cookies-in-nodejs-using-device-bound-session-credentials-dbsc-58op"/>
-        <updated>2026-05-24T16:00:00.000Z</updated>
-        <published>2026-05-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to with Buying Old GitHub Accounts in 2023 ...]]></title>
-        <id>https://dev.to/larissabattaglia5g4s0/how-to-with-buying-old-github-accounts-in-2023--1jef</id>
-        <link href="https://dev.to/larissabattaglia5g4s0/how-to-with-buying-old-github-accounts-in-2023--1jef"/>
-        <updated>2026-05-24T16:00:00.000Z</updated>
-        <published>2026-05-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does this legacy intranet page really need IE mode?]]></title>
-        <id>https://dev.to/lexi_parrish/does-this-legacy-intranet-page-really-need-ie-mode-370i</id>
-        <link href="https://dev.to/lexi_parrish/does-this-legacy-intranet-page-really-need-ie-mode-370i"/>
-        <updated>2026-05-24T16:00:00.000Z</updated>
-        <published>2026-05-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Browser Based Video Editor, 0 uploads..100% Privacy]]></title>
-        <id>https://dev.to/robert_corn_2c1ef7ffc084b/browser-based-video-editor-0-uploads100-privacy-5bli</id>
-        <link href="https://dev.to/robert_corn_2c1ef7ffc084b/browser-based-video-editor-0-uploads100-privacy-5bli"/>
-        <updated>2026-05-24T16:00:00.000Z</updated>
-        <published>2026-05-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When the Hype of Serverless Meets Reality: My Quest For a Scalable Treasure Hunt Engine]]></title>
-        <id>https://dev.to/sovereignty-advocate/when-the-hype-of-serverless-meets-reality-my-quest-for-a-scalable-treasure-hunt-engine-510c</id>
-        <link href="https://dev.to/sovereignty-advocate/when-the-hype-of-serverless-meets-reality-my-quest-for-a-scalable-treasure-hunt-engine-510c"/>
-        <updated>2026-05-24T16:00:00.000Z</updated>
-        <published>2026-05-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js vs Bun vs Go - A Multi-Layer HTTP Benchmark]]></title>
-        <id>https://dev.to/vastavadi/nodejs-vs-bun-vs-go-30a1</id>
-        <link href="https://dev.to/vastavadi/nodejs-vs-bun-vs-go-30a1"/>
-        <updated>2026-05-24T16:00:00.000Z</updated>
-        <published>2026-05-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Best Sites to Buy Negative Google Reviews]]></title>
-        <id>https://dev.to/sagorkhana30/5-best-sites-to-buy-negative-google-reviews-4bao</id>
-        <link href="https://dev.to/sagorkhana30/5-best-sites-to-buy-negative-google-reviews-4bao"/>
-        <updated>2026-05-24T16:00:00.000Z</updated>
-        <published>2026-05-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Facebook 5 Star Ratings and Reviews]]></title>
-        <id>https://dev.to/sagorkhana30/buy-facebook-5-star-ratings-and-reviews-3b8f</id>
-        <link href="https://dev.to/sagorkhana30/buy-facebook-5-star-ratings-and-reviews-3b8f"/>
+        <title type="html"><![CDATA[Stripe and Google Cloud Storage Are Both CRITICAL on npm]]></title>
+        <id>https://dev.to/piiiico/stripe-and-google-cloud-storage-are-both-critical-on-npm-55c6</id>
+        <link href="https://dev.to/piiiico/stripe-and-google-cloud-storage-are-both-critical-on-npm-55c6"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
@@ -197,9 +225,86 @@
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stripe and Google Cloud Storage Are Both CRITICAL on npm]]></title>
-        <id>https://dev.to/piiiico/stripe-and-google-cloud-storage-are-both-critical-on-npm-55c6</id>
-        <link href="https://dev.to/piiiico/stripe-and-google-cloud-storage-are-both-critical-on-npm-55c6"/>
+        <title type="html"><![CDATA[Buy Facebook 5 Star Ratings and Reviews]]></title>
+        <id>https://dev.to/sagorkhana30/buy-facebook-5-star-ratings-and-reviews-3b8f</id>
+        <link href="https://dev.to/sagorkhana30/buy-facebook-5-star-ratings-and-reviews-3b8f"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Best Sites to Buy Negative Google Reviews]]></title>
+        <id>https://dev.to/sagorkhana30/5-best-sites-to-buy-negative-google-reviews-4bao</id>
+        <link href="https://dev.to/sagorkhana30/5-best-sites-to-buy-negative-google-reviews-4bao"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js vs Bun vs Go - A Multi-Layer HTTP Benchmark]]></title>
+        <id>https://dev.to/vastavadi/nodejs-vs-bun-vs-go-30a1</id>
+        <link href="https://dev.to/vastavadi/nodejs-vs-bun-vs-go-30a1"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the Hype of Serverless Meets Reality: My Quest For a Scalable Treasure Hunt Engine]]></title>
+        <id>https://dev.to/sovereignty-advocate/when-the-hype-of-serverless-meets-reality-my-quest-for-a-scalable-treasure-hunt-engine-510c</id>
+        <link href="https://dev.to/sovereignty-advocate/when-the-hype-of-serverless-meets-reality-my-quest-for-a-scalable-treasure-hunt-engine-510c"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browser Based Video Editor, 0 uploads..100% Privacy]]></title>
+        <id>https://dev.to/robert_corn_2c1ef7ffc084b/browser-based-video-editor-0-uploads100-privacy-5bli</id>
+        <link href="https://dev.to/robert_corn_2c1ef7ffc084b/browser-based-video-editor-0-uploads100-privacy-5bli"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does this legacy intranet page really need IE mode?]]></title>
+        <id>https://dev.to/lexi_parrish/does-this-legacy-intranet-page-really-need-ie-mode-370i</id>
+        <link href="https://dev.to/lexi_parrish/does-this-legacy-intranet-page-really-need-ie-mode-370i"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to with Buying Old GitHub Accounts in 2023 ...]]></title>
+        <id>https://dev.to/larissabattaglia5g4s0/how-to-with-buying-old-github-accounts-in-2023--1jef</id>
+        <link href="https://dev.to/larissabattaglia5g4s0/how-to-with-buying-old-github-accounts-in-2023--1jef"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Stolen Session Cookies in Node.js using Device Bound Session Credentials (DBSC)]]></title>
+        <id>https://dev.to/suliman_abdulrazzaq_14907/how-to-stop-stolen-session-cookies-in-nodejs-using-device-bound-session-credentials-dbsc-58op</id>
+        <link href="https://dev.to/suliman_abdulrazzaq_14907/how-to-stop-stolen-session-cookies-in-nodejs-using-device-bound-session-credentials-dbsc-58op"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSR with JavaScript: Escaping Node.js Clunkiness with AxonASP]]></title>
+        <id>https://dev.to/lucas_guimaraes/ssr-with-javascript-escaping-nodejs-clunkiness-with-axonasp-2ojc</id>
+        <link href="https://dev.to/lucas_guimaraes/ssr-with-javascript-escaping-nodejs-clunkiness-with-axonasp-2ojc"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An npm Downloads Comparison Chart in 300 Lines of Vanilla JS — Nice-Tick Math and API-Direct Fetch]]></title>
+        <id>https://dev.to/sendotltd/an-npm-downloads-comparison-chart-in-300-lines-of-vanilla-js-nice-tick-math-and-api-direct-fetch-4kbp</id>
+        <link href="https://dev.to/sendotltd/an-npm-downloads-comparison-chart-in-300-lines-of-vanilla-js-nice-tick-math-and-api-direct-fetch-4kbp"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built PROOFER - Privacy first Chrome extension that proofreads your texts using Gemma 4]]></title>
+        <id>https://dev.to/samirmishra27/i-built-proofer-chrome-extension-that-proofreads-your-texts-using-gemma-4-3am7</id>
+        <link href="https://dev.to/samirmishra27/i-built-proofer-chrome-extension-that-proofreads-your-texts-using-gemma-4-3am7"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Turned npm outdated into a CI Gate — Here's How]]></title>
+        <id>https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-1e0m</id>
+        <link href="https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-1e0m"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
@@ -256,111 +361,6 @@
         <title type="html"><![CDATA[I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out]]></title>
         <id>https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/</id>
         <link href="https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A picker that maps local LLMs to hardware, hardware to LLMs]]></title>
-        <id>https://llmrequirements.com/</id>
-        <link href="https://llmrequirements.com/"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The guide to RL environments: building and scaling them in the LLM era]]></title>
-        <id>https://huggingface.co/spaces/AdithyaSK/rl-environments-guide</id>
-        <link href="https://huggingface.co/spaces/AdithyaSK/rl-environments-guide"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a free AI travel planner for budget Europe trips]]></title>
-        <id>https://news.ycombinator.com/item?id=48256767</id>
-        <link href="https://news.ycombinator.com/item?id=48256767"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessibility in JavaFX]]></title>
-        <id>https://dev.java/learn/javafx/a11y/</id>
-        <link href="https://dev.java/learn/javafx/a11y/"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Neuroscience Behind Writing: Handwriting vs. Typing–Who Wins the Battle?]]></title>
-        <id>https://www.mdpi.com/2075-1729/15/3/345?</id>
-        <link href="https://www.mdpi.com/2075-1729/15/3/345?"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDA Conducts Oral Rabies Vaccination Efforts Targeting Wildlife (2025)]]></title>
-        <id>https://www.aphis.usda.gov/news/agency-announcements/usda-conducts-2025-oral-rabies-vaccination-efforts-targeting-wildlife</id>
-        <link href="https://www.aphis.usda.gov/news/agency-announcements/usda-conducts-2025-oral-rabies-vaccination-efforts-targeting-wildlife"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catastrophe Is Emerging in the Most Vulnerable Places]]></title>
-        <id>https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html</id>
-        <link href="https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turned ArXiv into an AI-Agent-Friendly Interface (No Browser Vision Needed)]]></title>
-        <id>https://mediause.dev/skills/arxiv</id>
-        <link href="https://mediause.dev/skills/arxiv"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Documenting my immigrant founder's journey in the Bay Area]]></title>
-        <id>https://iamandrespalacios.substack.com/p/series-eh-a-founders-journey</id>
-        <link href="https://iamandrespalacios.substack.com/p/series-eh-a-founders-journey"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Every IKEA Product Has a Weird Name [video]]]></title>
-        <id>https://www.youtube.com/watch?v=c89T2snPvNo</id>
-        <link href="https://www.youtube.com/watch?v=c89T2snPvNo"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta's Claudeonomics leaderboard]]></title>
-        <id>https://www.indiatoday.in/technology/news/story/meta-shuts-down-internal-claudeonomics-ai-tool-after-employees-started-leaking-data-to-public-2893581-2026-04-09</id>
-        <link href="https://www.indiatoday.in/technology/news/story/meta-shuts-down-internal-claudeonomics-ai-tool-after-employees-started-leaking-data-to-public-2893581-2026-04-09"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I tracked down the thief who stole $200k of Lego [video]]]></title>
-        <id>https://www.youtube.com/watch?v=wscQpkcwgNU</id>
-        <link href="https://www.youtube.com/watch?v=wscQpkcwgNU"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Were Wrong About Fasting Study Finds]]></title>
-        <id>https://www.sciencealert.com/we-were-wrong-about-fasting-massive-study-finds</id>
-        <link href="https://www.sciencealert.com/we-were-wrong-about-fasting-massive-study-finds"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Images are not displayed in emails, newsletters or signatures in classic Outlook]]></title>
-        <id>https://support.microsoft.com/en-us/office/images-are-not-displayed-in-emails-newsletters-or-signatures-in-classic-outlook-74600b12-905a-4f2c-9de5-ba295a675216</id>
-        <link href="https://support.microsoft.com/en-us/office/images-are-not-displayed-in-emails-newsletters-or-signatures-in-classic-outlook-74600b12-905a-4f2c-9de5-ba295a675216"/>
-        <updated>2026-05-23T16:00:00.000Z</updated>
-        <published>2026-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A simple AI agent in Java]]></title>
-        <id>https://github.com/machineswillrise/jagent</id>
-        <link href="https://github.com/machineswillrise/jagent"/>
         <updated>2026-05-23T16:00:00.000Z</updated>
         <published>2026-05-23T16:00:00.000Z</published>
     </entry>
