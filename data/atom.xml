@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-25T10:01:28.419Z</updated>
+    <updated>2026-05-25T13:03:57.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,13 +15,6 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[派早报：GitHub 在微软治下面临技术和人员流失困境]]></title>
-        <id>https://sspai.com/post/110130</id>
-        <link href="https://sspai.com/post/110130"/>
-        <updated>2026-05-24T16:00:00.000Z</updated>
-        <published>2026-05-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役]]></title>
         <id>https://sspai.com/post/109450</id>
         <link href="https://sspai.com/post/109450"/>
@@ -29,9 +22,16 @@
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid]]></title>
-        <id>https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/</id>
-        <link href="https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/"/>
+        <title type="html"><![CDATA[派早报：GitHub 在微软治下面临技术和人员流失困境]]></title>
+        <id>https://sspai.com/post/110130</id>
+        <link href="https://sspai.com/post/110130"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Defense of My Attachment to This Lululemon Duffel Bag (2026)]]></title>
+        <id>https://www.wired.com/story/i-stopped-tolerating-crossbody-pain-thanks-to-this-lululemon-duffel/</id>
+        <link href="https://www.wired.com/story/i-stopped-tolerating-crossbody-pain-thanks-to-this-lululemon-duffel/"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[Shark Promo Codes for This May]]></title>
         <id>https://www.wired.com/story/shark-promo-code/</id>
         <link href="https://www.wired.com/story/shark-promo-code/"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid]]></title>
+        <id>https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/</id>
+        <link href="https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
@@ -309,44 +316,23 @@
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Token Waste: The Silent Tax on Every AI Team]]></title>
-        <id>https://pub.towardsai.net/token-waste-the-silent-tax-on-every-ai-team-022d2400b6ab?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/token-waste-the-silent-tax-on-every-ai-team-022d2400b6ab?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why Most AI Agents Die in Production]]></title>
+        <id>https://pub.towardsai.net/why-most-ai-agents-die-in-production-2f93ddcf7386?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-most-ai-agents-die-in-production-2f93ddcf7386?source=rss----98111c9905da---4"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sliding Windows Forget: Why Long-Running LLM Apps Need Memory Policy]]></title>
-        <id>https://pub.towardsai.net/sliding-windows-forget-why-long-running-llm-apps-need-memory-policy-8d24a80038fd?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/sliding-windows-forget-why-long-running-llm-apps-need-memory-policy-8d24a80038fd?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[What Is MCP? Build Your First Server in Under 10 Minutes]]></title>
+        <id>https://pub.towardsai.net/what-is-mcp-build-a-custom-mcp-server-in-python-91ba71830d6a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-is-mcp-build-a-custom-mcp-server-in-python-91ba71830d6a?source=rss----98111c9905da---4"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Agentic AI Bill Is a Prompt Engineering Problem in Disguise]]></title>
-        <id>https://pub.towardsai.net/your-agentic-ai-bill-is-a-prompt-engineering-problem-in-disguise-64f4eb111bf0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-agentic-ai-bill-is-a-prompt-engineering-problem-in-disguise-64f4eb111bf0?source=rss----98111c9905da---4"/>
-        <updated>2026-05-24T16:00:00.000Z</updated>
-        <published>2026-05-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Engineering Strategies to Cut Your AI Infrastructure Costs — Without Sacrificing Performance]]></title>
-        <id>https://pub.towardsai.net/5-engineering-strategies-to-cut-your-ai-infrastructure-costs-without-sacrificing-performance-d464d59fc69c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/5-engineering-strategies-to-cut-your-ai-infrastructure-costs-without-sacrificing-performance-d464d59fc69c?source=rss----98111c9905da---4"/>
-        <updated>2026-05-24T16:00:00.000Z</updated>
-        <published>2026-05-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two HTML Attributes Now Turn Your Website Into an AI Agent Tool — Inside Chrome's WebMCP]]></title>
-        <id>https://pub.towardsai.net/two-html-attributes-now-turn-your-website-into-an-ai-agent-tool-inside-chromes-webmcp-59c780f1edb7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/two-html-attributes-now-turn-your-website-into-an-ai-agent-tool-inside-chromes-webmcp-59c780f1edb7?source=rss----98111c9905da---4"/>
-        <updated>2026-05-24T16:00:00.000Z</updated>
-        <published>2026-05-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVM : 40 must visit Interview Questions (Part 2)]]></title>
-        <id>https://pub.towardsai.net/svm-40-must-visit-interview-questions-part-2-f491c44a53ab?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/svm-40-must-visit-interview-questions-part-2-f491c44a53ab?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Claude Code Hooks, Subagents, and Worktrees: The Power Features Nobody Explains]]></title>
+        <id>https://pub.towardsai.net/claude-code-hooks-subagents-and-worktrees-the-power-features-nobody-explains-db5e24c811c4?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-code-hooks-subagents-and-worktrees-the-power-features-nobody-explains-db5e24c811c4?source=rss----98111c9905da---4"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
@@ -358,9 +344,23 @@
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code Hooks, Subagents, and Worktrees: The Power Features Nobody Explains]]></title>
-        <id>https://pub.towardsai.net/claude-code-hooks-subagents-and-worktrees-the-power-features-nobody-explains-db5e24c811c4?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-code-hooks-subagents-and-worktrees-the-power-features-nobody-explains-db5e24c811c4?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[SVM : 40 must visit Interview Questions (Part 2)]]></title>
+        <id>https://pub.towardsai.net/svm-40-must-visit-interview-questions-part-2-f491c44a53ab?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/svm-40-must-visit-interview-questions-part-2-f491c44a53ab?source=rss----98111c9905da---4"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two HTML Attributes Now Turn Your Website Into an AI Agent Tool — Inside Chrome's WebMCP]]></title>
+        <id>https://pub.towardsai.net/two-html-attributes-now-turn-your-website-into-an-ai-agent-tool-inside-chromes-webmcp-59c780f1edb7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/two-html-attributes-now-turn-your-website-into-an-ai-agent-tool-inside-chromes-webmcp-59c780f1edb7?source=rss----98111c9905da---4"/>
+        <updated>2026-05-24T16:00:00.000Z</updated>
+        <published>2026-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Engineering Strategies to Cut Your AI Infrastructure Costs — Without Sacrificing Performance]]></title>
+        <id>https://pub.towardsai.net/5-engineering-strategies-to-cut-your-ai-infrastructure-costs-without-sacrificing-performance-d464d59fc69c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/5-engineering-strategies-to-cut-your-ai-infrastructure-costs-without-sacrificing-performance-d464d59fc69c?source=rss----98111c9905da---4"/>
         <updated>2026-05-24T16:00:00.000Z</updated>
         <published>2026-05-24T16:00:00.000Z</published>
     </entry>

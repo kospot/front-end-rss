@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-25 18:01:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-25 21:03:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,11 +7,12 @@
 
 
 
-- [2026-05-24-I-Built-a-Mix-Translation-Tool-in-a-Single-HTML-File](https://dev.to/chukiextra/i-built-a-mix-translation-tool-in-a-single-html-file-4dgc) 
+- [2026-05-25-Hoe-Ik-Geneste-Tabellen-en-Rowspans-Verwerk-De-Moeilijke-Onderdelen-van-HTML-tabelparsing](https://dev.to/circobit/hoe-ik-geneste-tabellen-en-rowspans-verwerk-de-moeilijke-onderdelen-van-html-tabelparsing-17a2) 
 - [2026-05-24-I-Built-a-Free-Metal-Weight-Calculator-—-Here's-the-Math-Behind-It](https://dev.to/param_mehta_0f2ed8b74e91f/i-built-a-free-metal-weight-calculator-heres-the-math-behind-it-529j) 
-- [2026-05-23-Best-Free-Markdown-to-HTML-Converters-Online-—-Live-Preview,-Tables,-Compared](https://dev.to/shaishav_patel_271fdcd61a/best-free-markdown-to-html-converters-online-live-preview-tables-compared-5e1e) 
-- [2026-05-23-Build-a-Live-Flight-Radar-in-a-Single-HTML-File](https://dev.to/sergeysta/build-a-live-flight-radar-in-a-single-html-file-p9p) 
+- [2026-05-24-I-Built-a-Mix-Translation-Tool-in-a-Single-HTML-File](https://dev.to/chukiextra/i-built-a-mix-translation-tool-in-a-single-html-file-4dgc) 
 - [2026-05-23-The-night-Meta-flagged-my-Instagram-automation---what-I-rewrote-in-v1.5.0](https://dev.to/ryuji_saas/the-night-meta-flagged-my-instagram-automation-what-i-rewrote-in-v150-1ham) 
+- [2026-05-23-Build-a-Live-Flight-Radar-in-a-Single-HTML-File](https://dev.to/sergeysta/build-a-live-flight-radar-in-a-single-html-file-p9p) 
+- [2026-05-23-Best-Free-Markdown-to-HTML-Converters-Online-—-Live-Preview,-Tables,-Compared](https://dev.to/shaishav_patel_271fdcd61a/best-free-markdown-to-html-converters-online-live-preview-tables-compared-5e1e) 
 - [2026-05-20-La-Complejidad-Oculta-de-las-Tablas-HTML](https://dev.to/circobit/la-complejidad-oculta-de-las-tablas-html-l24) 
 - [2026-05-16-How-to-Save-a-Webpage-or-HTML-as-an-Image-—-Free,-No-Extension,-No-Screenshot-App](https://dev.to/shaishav_patel_271fdcd61a/how-to-save-a-webpage-or-html-as-an-image-free-no-extension-no-screenshot-app-1m1i) 
 - [2026-05-15-NASSCAD-V4.2-—-A-full-CAD-modeler-that-lives-in-a-single-HTML-file](https://dev.to/nasser_7cff6f77e08155b603/nasscad-v42-a-full-cad-modeler-that-lives-in-a-single-html-file-2jf2) 
@@ -19,10 +20,10 @@
 - [2026-05-12-I-built-an-HTML-to-PDF-API-in-6-weeks-—-here's-what-I-learned](https://dev.to/jabeer_s/i-built-an-html-to-pdf-api-in-6-weeks-heres-what-i-learned-14b6) 
 - [2026-05-08-I-built-a-'life-in-weeks'-poster-generator-in-one-HTML-file](https://dev.to/alialp/i-built-a-life-in-weeks-poster-generator-in-one-html-file-40hp) 
 - [2026-04-30-A-Complexidade-Oculta-das-Tabelas-HTML-Por-Que-Parseá-las-É-Mais-Difícil-Do-Que-Você-Imagina](https://dev.to/circobit/a-complexidade-oculta-das-tabelas-html-por-que-parsea-las-e-mais-dificil-do-que-voce-imagina-2b5o) 
-- [2026-04-28-Die-versteckte-Komplexität-von-HTML-Tabellen-Warum-das-Parsen-schwieriger-ist,-als-man-denkt](https://dev.to/circobit/die-versteckte-komplexitat-von-html-tabellen-warum-das-parsen-schwieriger-ist-als-man-denkt-50d9) 
 - [2026-04-28-HTML-테이블의-숨겨진-복잡성-파싱이-생각보다-어려운-이유](https://dev.to/circobit/html-teibeulyi-sumgyeojin-bogjabseong-pasingi-saenggagboda-eoryeoun-iyu-21d) 
-- [2026-04-27-Why-do-scheduling-apps-need-my-email?-I-built-a-100%-Client-Side-Timetable-Builder-instead-📅🚀](https://dev.to/adawati/why-do-scheduling-apps-need-my-email-i-built-a-100-client-side-timetable-builder-instead-3fbj) 
+- [2026-04-28-Die-versteckte-Komplexität-von-HTML-Tabellen-Warum-das-Parsen-schwieriger-ist,-als-man-denkt](https://dev.to/circobit/die-versteckte-komplexitat-von-html-tabellen-warum-das-parsen-schwieriger-ist-als-man-denkt-50d9) 
 - [2026-04-27-De-Verborgen-Complexiteit-van-HTML-Tabellen-Waarom-Parsen-Moeilijker-Is-Dan-Je-Denkt](https://dev.to/circobit/de-verborgen-complexiteit-van-html-tabellen-waarom-parsen-moeilijker-is-dan-je-denkt-4ohe) 
+- [2026-04-27-Why-do-scheduling-apps-need-my-email?-I-built-a-100%-Client-Side-Timetable-Builder-instead-📅🚀](https://dev.to/adawati/why-do-scheduling-apps-need-my-email-i-built-a-100-client-side-timetable-builder-instead-3fbj) 
 - [2026-05-20-Boston-Metal-gets-a-$75-million-lifeline-to-produce-critical-metals](https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/) 
 - [2026-05-19-Inside-Anduril-and-Meta’s-quest-to-make-smart-glasses-for-warfare](https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/) 
 - [2026-05-25-LLAMA-LIMA:-A-Living-Meta-Analysis-on-the-Effects-of-Generative-AI-on-Learning-Mathematics](https://arxiv.org/abs/2601.18685) 
