@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-27T02:02:01.256Z</updated>
+    <updated>2026-05-27T04:02:22.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -92,93 +92,72 @@
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists say they've reversed brain aging with a simple nasal spray]]></title>
-        <id>https://www.sciencedaily.com/releases/2026/05/260526022018.htm</id>
-        <link href="https://www.sciencedaily.com/releases/2026/05/260526022018.htm"/>
+        <title type="html"><![CDATA[Run Llama.cpp on a Mac Pro 6,1 with Dual FirePro D700 GPUs on Ubuntu]]></title>
+        <id>https://matthewgribben.com/blog/mac-pro-6-1-llama-cpp-firepro-d700-vulkan-ubuntu</id>
+        <link href="https://matthewgribben.com/blog/mac-pro-6-1-llama-cpp-firepro-d700-vulkan-ubuntu"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A 3D Lattice Boltzmann solver with 200x compute acceleration]]></title>
-        <id>https://frontend-seven-delta-66.vercel.app/</id>
-        <link href="https://frontend-seven-delta-66.vercel.app/"/>
+        <title type="html"><![CDATA[Credit card skimmer disguised as Google Tag Manager]]></title>
+        <id>https://anchor.host/so-you-get-hit-with-a-credit-card-skimmer-what-now/</id>
+        <link href="https://anchor.host/so-you-get-hit-with-a-credit-card-skimmer-what-now/"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Class of Gaming Systems (Hardware): Imagination Based Gaming [video]]]></title>
-        <id>https://www.youtube.com/shorts/TU0SFNk0hg0</id>
-        <link href="https://www.youtube.com/shorts/TU0SFNk0hg0"/>
+        <title type="html"><![CDATA[FML-Bench: A Controlled Study of AI Research Agent Strategies]]></title>
+        <id>https://arxiv.org/abs/2605.17373</id>
+        <link href="https://arxiv.org/abs/2605.17373"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["my battery is low and it's getting dark" – were never sent from Mars]]></title>
-        <id>https://spacedaily.com/b-the-opportunity-rovers-famous-last-words-my-battery-is-low-and-its-getting-dark-were-never-actually-sent-from-mars-the-real-story-of-where-that-sentence-came-from-is-stranger/</id>
-        <link href="https://spacedaily.com/b-the-opportunity-rovers-famous-last-words-my-battery-is-low-and-its-getting-dark-were-never-actually-sent-from-mars-the-real-story-of-where-that-sentence-came-from-is-stranger/"/>
+        <title type="html"><![CDATA[When Quiet Undersea Volcanoes Turn Disruptive]]></title>
+        <id>https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/</id>
+        <link href="https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netherlands blocked US company from buying provider of Dutch digital identity]]></title>
-        <id>https://thenextweb.com/news/the-netherlands-just-blocked-a-us-company-from-buying-the-cloud-provider-that-runs-dutch-digital-identity</id>
-        <link href="https://thenextweb.com/news/the-netherlands-just-blocked-a-us-company-from-buying-the-cloud-provider-that-runs-dutch-digital-identity"/>
+        <title type="html"><![CDATA[OpenRouter $113M Series C]]></title>
+        <id>https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html</id>
+        <link href="https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Rust to Ruby]]></title>
-        <id>https://xlii.space/eng/from-rust-to-ruby/</id>
-        <link href="https://xlii.space/eng/from-rust-to-ruby/"/>
+        <title type="html"><![CDATA[I added achievements to my portfolio site]]></title>
+        <id>https://charlie.dudzik.me</id>
+        <link href="https://charlie.dudzik.me"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geometry Dash triggers were too hard, let's use assembly instead [video]]]></title>
-        <id>https://www.youtube.com/watch?v=FvMM29MO1qw</id>
-        <link href="https://www.youtube.com/watch?v=FvMM29MO1qw"/>
+        <title type="html"><![CDATA[1.96.0 pre-release testing – Inside Rust Blog]]></title>
+        <id>https://blog.rust-lang.org/inside-rust/2026/05/26/1.96.0-prerelease/</id>
+        <link href="https://blog.rust-lang.org/inside-rust/2026/05/26/1.96.0-prerelease/"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bouncy Castle Communism Is the Solution]]></title>
-        <id>https://www.laborpolitics.com/p/bouncy-castle-communism</id>
-        <link href="https://www.laborpolitics.com/p/bouncy-castle-communism"/>
+        <title type="html"><![CDATA[You Can't Stop This Data Center, a Mom Was Told. She Won't Quit]]></title>
+        <id>https://www.nytimes.com/2026/05/26/us/data-centers-kassi-solberg.html</id>
+        <link href="https://www.nytimes.com/2026/05/26/us/data-centers-kassi-solberg.html"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I turned my personal website into a bash shell (with Vim)]]></title>
-        <id>https://darrikonn.com</id>
-        <link href="https://darrikonn.com"/>
+        <title type="html"><![CDATA[Micro-Expert-Router: Running Mixtral-Class Moe Models on NVMe SSDs Without a GPU]]></title>
+        <id>https://github.com/randyap8-wq/Micro-Expert-Router-SSD-Streamed-MoE-MER</id>
+        <link href="https://github.com/randyap8-wq/Micro-Expert-Router-SSD-Streamed-MoE-MER"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Docker on Windows Server Felt Easier After I Tried VisualDock Server]]></title>
-        <id>https://www.virtualizationhowto.com/2026/05/docker-on-windows-server-finally-felt-easier-after-i-tried-visualdock-server/</id>
-        <link href="https://www.virtualizationhowto.com/2026/05/docker-on-windows-server-finally-felt-easier-after-i-tried-visualdock-server/"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Vibe Coding Era: Why AI Won't Replace Software Engineers [video]]]></title>
-        <id>https://www.youtube.com/watch?v=xYU7zaaRjmE</id>
-        <link href="https://www.youtube.com/watch?v=xYU7zaaRjmE"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where are those goalposts? I'm sure I put them here somewhere]]></title>
-        <id>https://nickdrozd.github.io/2026/05/26/goalposts-math.html</id>
-        <link href="https://nickdrozd.github.io/2026/05/26/goalposts-math.html"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The true reason C++ always wins [video]]]></title>
-        <id>https://www.youtube.com/watch?v=I7fEsbksKRE</id>
-        <link href="https://www.youtube.com/watch?v=I7fEsbksKRE"/>
+        <title type="html"><![CDATA[Show HN: Artifold – A local-first library for AI-generated HTML artifacts]]></title>
+        <id>https://github.com/shubhamgoel27/artifold</id>
+        <link href="https://github.com/shubhamgoel27/artifold"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
@@ -190,9 +169,93 @@
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Artifold – A local-first library for AI-generated HTML artifacts]]></title>
-        <id>https://github.com/shubhamgoel27/artifold</id>
-        <link href="https://github.com/shubhamgoel27/artifold"/>
+        <title type="html"><![CDATA[The true reason C++ always wins [video]]]></title>
+        <id>https://www.youtube.com/watch?v=I7fEsbksKRE</id>
+        <link href="https://www.youtube.com/watch?v=I7fEsbksKRE"/>
+        <updated>2026-05-26T16:00:00.000Z</updated>
+        <published>2026-05-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where are those goalposts? I'm sure I put them here somewhere]]></title>
+        <id>https://nickdrozd.github.io/2026/05/26/goalposts-math.html</id>
+        <link href="https://nickdrozd.github.io/2026/05/26/goalposts-math.html"/>
+        <updated>2026-05-26T16:00:00.000Z</updated>
+        <published>2026-05-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Vibe Coding Era: Why AI Won't Replace Software Engineers [video]]]></title>
+        <id>https://www.youtube.com/watch?v=xYU7zaaRjmE</id>
+        <link href="https://www.youtube.com/watch?v=xYU7zaaRjmE"/>
+        <updated>2026-05-26T16:00:00.000Z</updated>
+        <published>2026-05-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker on Windows Server Felt Easier After I Tried VisualDock Server]]></title>
+        <id>https://www.virtualizationhowto.com/2026/05/docker-on-windows-server-finally-felt-easier-after-i-tried-visualdock-server/</id>
+        <link href="https://www.virtualizationhowto.com/2026/05/docker-on-windows-server-finally-felt-easier-after-i-tried-visualdock-server/"/>
+        <updated>2026-05-26T16:00:00.000Z</updated>
+        <published>2026-05-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I turned my personal website into a bash shell (with Vim)]]></title>
+        <id>https://darrikonn.com</id>
+        <link href="https://darrikonn.com"/>
+        <updated>2026-05-26T16:00:00.000Z</updated>
+        <published>2026-05-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bouncy Castle Communism Is the Solution]]></title>
+        <id>https://www.laborpolitics.com/p/bouncy-castle-communism</id>
+        <link href="https://www.laborpolitics.com/p/bouncy-castle-communism"/>
+        <updated>2026-05-26T16:00:00.000Z</updated>
+        <published>2026-05-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry Dash triggers were too hard, let's use assembly instead [video]]]></title>
+        <id>https://www.youtube.com/watch?v=FvMM29MO1qw</id>
+        <link href="https://www.youtube.com/watch?v=FvMM29MO1qw"/>
+        <updated>2026-05-26T16:00:00.000Z</updated>
+        <published>2026-05-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Rust to Ruby]]></title>
+        <id>https://xlii.space/eng/from-rust-to-ruby/</id>
+        <link href="https://xlii.space/eng/from-rust-to-ruby/"/>
+        <updated>2026-05-26T16:00:00.000Z</updated>
+        <published>2026-05-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netherlands blocked US company from buying provider of Dutch digital identity]]></title>
+        <id>https://thenextweb.com/news/the-netherlands-just-blocked-a-us-company-from-buying-the-cloud-provider-that-runs-dutch-digital-identity</id>
+        <link href="https://thenextweb.com/news/the-netherlands-just-blocked-a-us-company-from-buying-the-cloud-provider-that-runs-dutch-digital-identity"/>
+        <updated>2026-05-26T16:00:00.000Z</updated>
+        <published>2026-05-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["my battery is low and it's getting dark" – were never sent from Mars]]></title>
+        <id>https://spacedaily.com/b-the-opportunity-rovers-famous-last-words-my-battery-is-low-and-its-getting-dark-were-never-actually-sent-from-mars-the-real-story-of-where-that-sentence-came-from-is-stranger/</id>
+        <link href="https://spacedaily.com/b-the-opportunity-rovers-famous-last-words-my-battery-is-low-and-its-getting-dark-were-never-actually-sent-from-mars-the-real-story-of-where-that-sentence-came-from-is-stranger/"/>
+        <updated>2026-05-26T16:00:00.000Z</updated>
+        <published>2026-05-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Class of Gaming Systems (Hardware): Imagination Based Gaming [video]]]></title>
+        <id>https://www.youtube.com/shorts/TU0SFNk0hg0</id>
+        <link href="https://www.youtube.com/shorts/TU0SFNk0hg0"/>
+        <updated>2026-05-26T16:00:00.000Z</updated>
+        <published>2026-05-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 3D Lattice Boltzmann solver with 200x compute acceleration]]></title>
+        <id>https://frontend-seven-delta-66.vercel.app/</id>
+        <link href="https://frontend-seven-delta-66.vercel.app/"/>
+        <updated>2026-05-26T16:00:00.000Z</updated>
+        <published>2026-05-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists say they've reversed brain aging with a simple nasal spray]]></title>
+        <id>https://www.sciencedaily.com/releases/2026/05/260526022018.htm</id>
+        <link href="https://www.sciencedaily.com/releases/2026/05/260526022018.htm"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
@@ -218,150 +281,87 @@
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vue v-bind to React: How does VuReact handle it?]]></title>
-        <id>https://dev.to/smirk9581/vue-v-bind-to-react-how-does-vureact-handle-it-456i</id>
-        <link href="https://dev.to/smirk9581/vue-v-bind-to-react-how-does-vureact-handle-it-456i"/>
+        <title type="html"><![CDATA[AirCast-SR: A Foundation Model for Kilometer-Scale Atmospheric Super-Resolution via Latent Consistency Diffusion]]></title>
+        <id>https://arxiv.org/abs/2605.26130</id>
+        <link href="https://arxiv.org/abs/2605.26130"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How does VuReact implement Vue v-on in React]]></title>
-        <id>https://dev.to/smirk9581/how-does-vureact-implement-vue-v-on-in-react-4mb0</id>
-        <link href="https://dev.to/smirk9581/how-does-vureact-implement-vue-v-on-in-react-4mb0"/>
+        <title type="html"><![CDATA[SilIF: Silhouette-Augmented Isolation Forest for Unsupervised Transaction Fraud Detection]]></title>
+        <id>https://arxiv.org/abs/2605.26135</id>
+        <link href="https://arxiv.org/abs/2605.26135"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Visual CSS @keyframes Editor in 500 Lines — Plus the 'Same Animation Won't Restart' Trap and How to Fix It]]></title>
-        <id>https://dev.to/sendotltd/a-visual-css-keyframes-editor-in-500-lines-plus-the-same-animation-wont-restart-trap-and-how-23o</id>
-        <link href="https://dev.to/sendotltd/a-visual-css-keyframes-editor-in-500-lines-plus-the-same-animation-wont-restart-trap-and-how-23o"/>
+        <title type="html"><![CDATA[TSFMAudit: Data Contamination Auditing in Forecasting Time Series Foundation Models]]></title>
+        <id>https://arxiv.org/abs/2605.26161</id>
+        <link href="https://arxiv.org/abs/2605.26161"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ネストテーブルとrowspanの処理方法（HTMLテーブルパースの難所）]]></title>
-        <id>https://dev.to/circobit/nesutoteburutorowspannochu-li-fang-fa-htmlteburupasunonan-suo--4j3j</id>
-        <link href="https://dev.to/circobit/nesutoteburutorowspannochu-li-fang-fa-htmlteburupasunonan-suo--4j3j"/>
+        <title type="html"><![CDATA[On the Push-Based Asynchronous Federated Learning: A Bias-Correction Aggregation Approach]]></title>
+        <id>https://arxiv.org/abs/2605.26162</id>
+        <link href="https://arxiv.org/abs/2605.26162"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a WordPress plugin that turns any post title into a featured image (one click, no Canva)]]></title>
-        <id>https://dev.to/dinall/i-built-a-wordpress-plugin-that-turns-any-post-title-into-a-featured-image-one-click-no-canva-3na1</id>
-        <link href="https://dev.to/dinall/i-built-a-wordpress-plugin-that-turns-any-post-title-into-a-featured-image-one-click-no-canva-3na1"/>
+        <title type="html"><![CDATA[Planning Neural Dynamics with Lie Group Embedding through Supervised Projective Manifold Learning]]></title>
+        <id>https://arxiv.org/abs/2605.26167</id>
+        <link href="https://arxiv.org/abs/2605.26167"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Indexing rescue for a 7-day-old domain: 4 of 18 priority pages indexed in 6 days]]></title>
-        <id>https://dev.to/joseph_anady_214bacedf939/indexing-rescue-for-a-7-day-old-domain-4-of-18-priority-pages-indexed-in-6-days-2gk7</id>
-        <link href="https://dev.to/joseph_anady_214bacedf939/indexing-rescue-for-a-7-day-old-domain-4-of-18-priority-pages-indexed-in-6-days-2gk7"/>
+        <title type="html"><![CDATA[GAC: Noise-Aware Adaptive Mixing for Hybrid SFT-RL Post-Training]]></title>
+        <id>https://arxiv.org/abs/2605.26184</id>
+        <link href="https://arxiv.org/abs/2605.26184"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stripe revenue attribution in a cookieless world. The webhook patterns that hold up]]></title>
-        <id>https://dev.to/zenovay/stripe-revenue-attribution-in-a-cookieless-world-the-webhook-patterns-that-hold-up-3a23</id>
-        <link href="https://dev.to/zenovay/stripe-revenue-attribution-in-a-cookieless-world-the-webhook-patterns-that-hold-up-3a23"/>
+        <title type="html"><![CDATA[Max-Window Scale Estimation for Near-Lossless HiF8 W8A8 Quantization-Aware Training]]></title>
+        <id>https://arxiv.org/abs/2605.26189</id>
+        <link href="https://arxiv.org/abs/2605.26189"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reconciling P2P Collaborative States via WebRTC Data Channels]]></title>
-        <id>https://dev.to/ebendttl/reconciling-p2p-collaborative-states-via-webrtc-data-channels-d5g</id>
-        <link href="https://dev.to/ebendttl/reconciling-p2p-collaborative-states-via-webrtc-data-channels-d5g"/>
+        <title type="html"><![CDATA[Modeling Dynamic Mixtures of Time-Delay Systems from Streaming Time Series]]></title>
+        <id>https://arxiv.org/abs/2605.26191</id>
+        <link href="https://arxiv.org/abs/2605.26191"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep Dive into Y.js CRDTs for Real-Time Multiplayer Editors]]></title>
-        <id>https://dev.to/ebendttl/deep-dive-into-yjs-crdts-for-real-time-multiplayer-editors-5b33</id>
-        <link href="https://dev.to/ebendttl/deep-dive-into-yjs-crdts-for-real-time-multiplayer-editors-5b33"/>
+        <title type="html"><![CDATA[Co-folding model guided by structural proteomics]]></title>
+        <id>https://arxiv.org/abs/2605.26192</id>
+        <link href="https://arxiv.org/abs/2605.26192"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Real-Time Simulation Game in a Single HTML File (Without React or Custom JavaScript)]]></title>
-        <id>https://dev.to/idevgames/i-built-a-real-time-simulation-game-in-a-single-html-file-without-react-or-custom-javascript-262p</id>
-        <link href="https://dev.to/idevgames/i-built-a-real-time-simulation-game-in-a-single-html-file-without-react-or-custom-javascript-262p"/>
+        <title type="html"><![CDATA[Bridging Classification and Reconstruction: Cooperative Time Series Anomaly Detection]]></title>
+        <id>https://arxiv.org/abs/2605.26193</id>
+        <link href="https://arxiv.org/abs/2605.26193"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Structured JSON Outputs with Gemini API]]></title>
-        <id>https://dev.to/ebendttl/mastering-structured-json-outputs-with-gemini-api-9j</id>
-        <link href="https://dev.to/ebendttl/mastering-structured-json-outputs-with-gemini-api-9j"/>
+        <title type="html"><![CDATA[On the Role of Inductive Bias in Time-Series Pretraining: A Case Study in Learning Generalizable Representations for Clinical Time Series]]></title>
+        <id>https://arxiv.org/abs/2605.26194</id>
+        <link href="https://arxiv.org/abs/2605.26194"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Saving for a Switch 2 is easier with Newegg’s gift card deal]]></title>
-        <id>https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale"/>
-        <updated>2026-05-25T16:00:00.000Z</updated>
-        <published>2026-05-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oppo’s Bubble is a thin round screen for taking rear camera selfies]]></title>
-        <id>https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic</id>
-        <link href="https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic"/>
-        <updated>2026-05-25T16:00:00.000Z</updated>
-        <published>2026-05-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cox Media fined after bragging it spied on users through their phones]]></title>
-        <id>https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine</id>
-        <link href="https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine"/>
-        <updated>2026-05-25T16:00:00.000Z</updated>
-        <published>2026-05-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber president says AI spending is getting ‘harder to justify’]]></title>
-        <id>https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify</id>
-        <link href="https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify"/>
-        <updated>2026-05-25T16:00:00.000Z</updated>
-        <published>2026-05-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The US Can Put People on the Moon. Why Can’t It Get Iranians Online?]]></title>
-        <id>https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/</id>
-        <link href="https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/"/>
-        <updated>2026-05-25T16:00:00.000Z</updated>
-        <published>2026-05-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Fitbit Air Review: Barely There, Always Running]]></title>
-        <id>https://www.wired.com/review/google-fitbit-air/</id>
-        <link href="https://www.wired.com/review/google-fitbit-air/"/>
-        <updated>2026-05-25T16:00:00.000Z</updated>
-        <published>2026-05-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Never Liked a Laptop Sleeve Until I Tried the Bellroy Laptop Caddy]]></title>
-        <id>https://www.wired.com/story/finally-a-laptop-sleeve-for-me/</id>
-        <link href="https://www.wired.com/story/finally-a-laptop-sleeve-for-me/"/>
-        <updated>2026-05-25T16:00:00.000Z</updated>
-        <published>2026-05-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Ways to Get So Good at AI, People Will Think You Are AI]]></title>
-        <id>https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/</id>
-        <link href="https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/"/>
-        <updated>2026-05-25T16:00:00.000Z</updated>
-        <published>2026-05-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Take This Mandatory AI Workplace Training Right Now—or Else]]></title>
-        <id>https://www.wired.com/story/ai-or-die-trying/</id>
-        <link href="https://www.wired.com/story/ai-or-die-trying/"/>
-        <updated>2026-05-25T16:00:00.000Z</updated>
-        <published>2026-05-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dutch government blocks US company from acquisition, citing ‘risk to public interest’]]></title>
-        <id>https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/</id>
-        <link href="https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/"/>
-        <updated>2026-05-25T16:00:00.000Z</updated>
-        <published>2026-05-25T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Provably Communication-Efficient and Privacy-Preserving Federated Graph Neural Networks]]></title>
+        <id>https://arxiv.org/abs/2605.26243</id>
+        <link href="https://arxiv.org/abs/2605.26243"/>
+        <updated>2026-05-26T16:00:00.000Z</updated>
+        <published>2026-05-26T16:00:00.000Z</published>
     </entry>
 </feed>
