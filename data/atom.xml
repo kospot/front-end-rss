@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-27T22:01:54.529Z</updated>
+    <updated>2026-05-28T00:01:29.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[You can print, slice, and engrave using this desktop crafting machine]]></title>
         <id>https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter</id>
         <link href="https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme]]></title>
+        <id>https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/</id>
+        <link href="https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -50,58 +57,51 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I help founders kill doom scrolling and hook people's attention fast]]></title>
-        <id>https://stopclip.com</id>
-        <link href="https://stopclip.com"/>
+        <title type="html"><![CDATA[GitMo – Git Mobile, auto-sync your local project files to GitHub]]></title>
+        <id>https://github.com/KyleBenzle/GitMo/tree/main</id>
+        <link href="https://github.com/KyleBenzle/GitMo/tree/main"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sony Launches Bravia 9 II and Bravia 7 II with 'True RGB']]></title>
-        <id>https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1779897602</id>
-        <link href="https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1779897602"/>
+        <title type="html"><![CDATA[Dutch block US takeover of Solvinity as against public interest]]></title>
+        <id>https://www.reuters.com/technology/dutch-government-block-takeover-cloud-services-company-solvinity-by-us-based-2026-05-26/</id>
+        <link href="https://www.reuters.com/technology/dutch-government-block-takeover-cloud-services-company-solvinity-by-us-based-2026-05-26/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DNTerminal – Autonomous Domain Investment Agent]]></title>
-        <id>https://dnterminal.com</id>
-        <link href="https://dnterminal.com"/>
+        <title type="html"><![CDATA[You Should Not Update Your Dependencies]]></title>
+        <id>https://www.mendral.com/blog/you-should-not-update</id>
+        <link href="https://www.mendral.com/blog/you-should-not-update"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apex: A Fast, Specialized Model for React Native]]></title>
-        <id>https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native</id>
-        <link href="https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native"/>
+        <title type="html"><![CDATA[OpenDisplay – open standard for e-paper screens]]></title>
+        <id>https://opendisplay.org/</id>
+        <link href="https://opendisplay.org/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Fast CPU summarize, eli5, fact-check or translate any text]]></title>
-        <id>https://github.com/kouhxp/fftext</id>
-        <link href="https://github.com/kouhxp/fftext"/>
+        <title type="html"><![CDATA[Monome at 20: memories of the grid, in pictures]]></title>
+        <id>https://cdm.link/monome-at-20-memories-of-the-grid-in-pictures/</id>
+        <link href="https://cdm.link/monome-at-20-memories-of-the-grid-in-pictures/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ClickStack Cloud: Serverless observability powered by ClickHouse]]></title>
-        <id>https://clickhouse.com/blog/clickstack-cloud-private-preview</id>
-        <link href="https://clickhouse.com/blog/clickstack-cloud-private-preview"/>
+        <title type="html"><![CDATA[Am I a Bad Friend?]]></title>
+        <id>https://drobinin.com/posts/am-i-a-bad-friend/</id>
+        <link href="https://drobinin.com/posts/am-i-a-bad-friend/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sam Altman and Dario Amodei are walking back their AI jobs apocalypse prophecies]]></title>
-        <id>https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/</id>
-        <link href="https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI readies cyber, misinformation defenses ahead of elections]]></title>
-        <id>https://www.axios.com/2026/05/27/openai-cyber-misinformation-defenses-elections</id>
-        <link href="https://www.axios.com/2026/05/27/openai-cyber-misinformation-defenses-elections"/>
+        <title type="html"><![CDATA[FBI Arrests CIA Official with $40M in Gold Bars in His Home]]></title>
+        <id>https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html</id>
+        <link href="https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -113,16 +113,72 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Responsible AI in Retail: Guardrails That Finance, Legal, and Customers Can Trust]]></title>
-        <id>https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[OpenAI readies cyber, misinformation defenses ahead of elections]]></title>
+        <id>https://www.axios.com/2026/05/27/openai-cyber-misinformation-defenses-elections</id>
+        <link href="https://www.axios.com/2026/05/27/openai-cyber-misinformation-defenses-elections"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Swarm Intelligence: How Ant Colonies Can Solve the Bin Packing Problem (Part 1)]]></title>
-        <id>https://pub.towardsai.net/swarm-intelligence-how-ant-colonies-can-solve-the-bin-packing-problem-part-1-7d2320db9d16?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/swarm-intelligence-how-ant-colonies-can-solve-the-bin-packing-problem-part-1-7d2320db9d16?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Sam Altman and Dario Amodei are walking back their AI jobs apocalypse prophecies]]></title>
+        <id>https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/</id>
+        <link href="https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClickStack Cloud: Serverless observability powered by ClickHouse]]></title>
+        <id>https://clickhouse.com/blog/clickstack-cloud-private-preview</id>
+        <link href="https://clickhouse.com/blog/clickstack-cloud-private-preview"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Fast CPU summarize, eli5, fact-check or translate any text]]></title>
+        <id>https://github.com/kouhxp/fftext</id>
+        <link href="https://github.com/kouhxp/fftext"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apex: A Fast, Specialized Model for React Native]]></title>
+        <id>https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native</id>
+        <link href="https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNTerminal – Autonomous Domain Investment Agent]]></title>
+        <id>https://dnterminal.com</id>
+        <link href="https://dnterminal.com"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony Launches Bravia 9 II and Bravia 7 II with 'True RGB']]></title>
+        <id>https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1779897602</id>
+        <link href="https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1779897602"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I help founders kill doom scrolling and hook people's attention fast]]></title>
+        <id>https://stopclip.com</id>
+        <link href="https://stopclip.com"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proof of Payment Verification Using Vision Language Models: A Practical Guide]]></title>
+        <id>https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Principal Component Analysis Has Been Over-Explained and Under-Taught]]></title>
+        <id>https://pub.towardsai.net/principal-component-analysis-has-been-over-explained-and-under-taught-cf8db499a2ca?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/principal-component-analysis-has-been-over-explained-and-under-taught-cf8db499a2ca?source=rss----98111c9905da---4"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -134,44 +190,58 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[State.js Tutorial: Creating Reusable UI Components with Pure CSS Reactivity]]></title>
-        <id>https://dev.to/idevgames/statejs-tutorial-creating-reusable-ui-components-with-pure-css-reactivity-3b56</id>
-        <link href="https://dev.to/idevgames/statejs-tutorial-creating-reusable-ui-components-with-pure-css-reactivity-3b56"/>
+        <title type="html"><![CDATA[Swarm Intelligence: How Ant Colonies Can Solve the Bin Packing Problem (Part 1)]]></title>
+        <id>https://pub.towardsai.net/swarm-intelligence-how-ant-colonies-can-solve-the-bin-packing-problem-part-1-7d2320db9d16?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/swarm-intelligence-how-ant-colonies-can-solve-the-bin-packing-problem-part-1-7d2320db9d16?source=rss----98111c9905da---4"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a 1980s Mainframe Slot Machine in Vanilla JS: RNG Math, Web Audio, and CLI Integration]]></title>
-        <id>https://dev.to/donovanlafferty/building-a-1980s-mainframe-slot-machine-in-vanilla-js-rng-math-web-audio-and-cli-integration-59c6</id>
-        <link href="https://dev.to/donovanlafferty/building-a-1980s-mainframe-slot-machine-in-vanilla-js-rng-math-web-audio-and-cli-integration-59c6"/>
+        <title type="html"><![CDATA[Responsible AI in Retail: Guardrails That Finance, Legal, and Customers Can Trust]]></title>
+        <id>https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5g.chat – Instant P2P file transfer in your browser, no server, no account]]></title>
-        <id>https://dev.to/5gchat/5gchat-instant-p2p-file-transfer-in-your-browser-no-server-no-account-4ki0</id>
-        <link href="https://dev.to/5gchat/5gchat-instant-p2p-file-transfer-in-your-browser-no-server-no-account-4ki0"/>
+        <title type="html"><![CDATA[liyupi/ai-guide]]></title>
+        <id>https://github.com/liyupi/ai-guide</id>
+        <link href="https://github.com/liyupi/ai-guide"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop pasting production JWTs into random online decoders.]]></title>
-        <id>https://dev.to/devnovatools/stop-pasting-production-jwts-into-random-online-decoders-36o7</id>
-        <link href="https://dev.to/devnovatools/stop-pasting-production-jwts-into-random-online-decoders-36o7"/>
+        <title type="html"><![CDATA[How I Built a Dark Cinematic Restaurant Landing Page Template and Listed It For Sale]]></title>
+        <id>https://dev.to/cy_cod/how-i-built-a-dark-cinematic-restaurant-landing-page-template-and-listed-it-for-sale-58fm</id>
+        <link href="https://dev.to/cy_cod/how-i-built-a-dark-cinematic-restaurant-landing-page-template-and-listed-it-for-sale-58fm"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[INP in production: what we wish we had measured earlier]]></title>
-        <id>https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk</id>
-        <link href="https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk"/>
+        <title type="html"><![CDATA["7 Free GitHub Repos Every Beginner Should Star Right Now"]]></title>
+        <id>https://dev.to/devraj_singh7/7-free-github-repos-every-beginner-should-star-right-now-57ij</id>
+        <link href="https://dev.to/devraj_singh7/7-free-github-repos-every-beginner-should-star-right-now-57ij"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exo: Declarative Cross‑Section Coordination for Astro Without Components or Global Mutable State]]></title>
-        <id>https://dev.to/lucianofedericopereira/exo-declarative-cross-section-coordination-for-astro-without-components-or-global-mutable-state-52a</id>
-        <link href="https://dev.to/lucianofedericopereira/exo-declarative-cross-section-coordination-for-astro-without-components-or-global-mutable-state-52a"/>
+        <title type="html"><![CDATA[Blockless Scope: JavaScript Shenanigans]]></title>
+        <id>https://dev.to/oculus42/blockless-scope-javascript-shenanigans-561f</id>
+        <link href="https://dev.to/oculus42/blockless-scope-javascript-shenanigans-561f"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontier AI Agents Hit a 60% Ceiling: 10 May 2026 Benchmarks Compared]]></title>
+        <id>https://dev.to/bean_bean/frontier-ai-agents-hit-a-60-ceiling-10-may-2026-benchmarks-compared-2n3p</id>
+        <link href="https://dev.to/bean_bean/frontier-ai-agents-hit-a-60-ceiling-10-may-2026-benchmarks-compared-2n3p"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Cinematic Scroll Experience with GSAP and ScrollTrigger]]></title>
+        <id>https://dev.to/jkimdd/how-i-built-a-cinematic-scroll-experience-with-gsap-and-scrolltrigger-11hj</id>
+        <link href="https://dev.to/jkimdd/how-i-built-a-cinematic-scroll-experience-with-gsap-and-scrolltrigger-11hj"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -183,65 +253,51 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Win cool gadgets we can’t keep because The Verge has ethics]]></title>
-        <id>https://www.theverge.com/gadgets/936771/today-im-toying-with-giveaway-free-gadgets</id>
-        <link href="https://www.theverge.com/gadgets/936771/today-im-toying-with-giveaway-free-gadgets"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Exo: Declarative Cross‑Section Coordination for Astro Without Components or Global Mutable State]]></title>
+        <id>https://dev.to/lucianofedericopereira/exo-declarative-cross-section-coordination-for-astro-without-components-or-global-mutable-state-52a</id>
+        <link href="https://dev.to/lucianofedericopereira/exo-declarative-cross-section-coordination-for-astro-without-components-or-global-mutable-state-52a"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The best part of Mina the Hollower is how it randomizes the Zelda formula]]></title>
-        <id>https://www.theverge.com/games/937480/mina-the-hollower-remix-modifiers-randomizer-interview</id>
-        <link href="https://www.theverge.com/games/937480/mina-the-hollower-remix-modifiers-randomizer-interview"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[INP in production: what we wish we had measured earlier]]></title>
+        <id>https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk</id>
+        <link href="https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Witcher 3 is getting another expansion, more than a decade after launch]]></title>
-        <id>https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion</id>
-        <link href="https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Stop pasting production JWTs into random online decoders.]]></title>
+        <id>https://dev.to/devnovatools/stop-pasting-production-jwts-into-random-online-decoders-36o7</id>
+        <link href="https://dev.to/devnovatools/stop-pasting-production-jwts-into-random-online-decoders-36o7"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xreal’s budget AR glasses feature anti-shake tech and swappable frames]]></title>
-        <id>https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability</id>
-        <link href="https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[5g.chat – Instant P2P file transfer in your browser, no server, no account]]></title>
+        <id>https://dev.to/5gchat/5gchat-instant-p2p-file-transfer-in-your-browser-no-server-no-account-4ki0</id>
+        <link href="https://dev.to/5gchat/5gchat-instant-p2p-file-transfer-in-your-browser-no-server-no-account-4ki0"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NASA&#8217;s permanent Moon base plans start with three missions this year]]></title>
-        <id>https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates</id>
-        <link href="https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Building a 1980s Mainframe Slot Machine in Vanilla JS: RNG Math, Web Audio, and CLI Integration]]></title>
+        <id>https://dev.to/donovanlafferty/building-a-1980s-mainframe-slot-machine-in-vanilla-js-rng-math-web-audio-and-cli-integration-59c6</id>
+        <link href="https://dev.to/donovanlafferty/building-a-1980s-mainframe-slot-machine-in-vanilla-js-rng-math-web-audio-and-cli-integration-59c6"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[American Airlines is getting Starlink Wi-Fi]]></title>
-        <id>https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed</id>
-        <link href="https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[State.js Tutorial: Creating Reusable UI Components with Pure CSS Reactivity]]></title>
+        <id>https://dev.to/idevgames/statejs-tutorial-creating-reusable-ui-components-with-pure-css-reactivity-3b56</id>
+        <link href="https://dev.to/idevgames/statejs-tutorial-creating-reusable-ui-components-with-pure-css-reactivity-3b56"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir]]></title>
-        <id>https://www.theverge.com/entertainment/936358/amazon-spider-noir-review</id>
-        <link href="https://www.theverge.com/entertainment/936358/amazon-spider-noir-review"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GE’s nugget ice maker is nearly half off if you buy it refurbished]]></title>
-        <id>https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[007 First Light is like a James Bond movie in the best way possible]]></title>
-        <id>https://www.theverge.com/entertainment/937984/007-first-light-review-james-bond-ps5-xbox</id>
-        <link href="https://www.theverge.com/entertainment/937984/007-first-light-review-james-bond-ps5-xbox"/>
+        <title type="html"><![CDATA[This smart bird feeder captures more of my backyard drama]]></title>
+        <id>https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review</id>
+        <link href="https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
@@ -253,114 +309,58 @@
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This smart bird feeder captures more of my backyard drama]]></title>
-        <id>https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review</id>
-        <link href="https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review"/>
+        <title type="html"><![CDATA[007 First Light is like a James Bond movie in the best way possible]]></title>
+        <id>https://www.theverge.com/entertainment/937984/007-first-light-review-james-bond-ps5-xbox</id>
+        <link href="https://www.theverge.com/entertainment/937984/007-first-light-review-james-bond-ps5-xbox"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Like Ferrari's Luce EV. But This Is Why It's Heartbreaking]]></title>
-        <id>https://www.wired.com/story/i-like-ferrari-luce-ev-but-this-is-why-its-heartbreaking/</id>
-        <link href="https://www.wired.com/story/i-like-ferrari-luce-ev-but-this-is-why-its-heartbreaking/"/>
+        <title type="html"><![CDATA[GE’s nugget ice maker is nearly half off if you buy it refurbished]]></title>
+        <id>https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Corsair Galleon 100 SD Review: Stream Deck Now Included]]></title>
-        <id>https://www.wired.com/review/review-corsair-galleon-100-sd/</id>
-        <link href="https://www.wired.com/review/review-corsair-galleon-100-sd/"/>
+        <title type="html"><![CDATA[Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir]]></title>
+        <id>https://www.theverge.com/entertainment/936358/amazon-spider-noir-review</id>
+        <link href="https://www.theverge.com/entertainment/936358/amazon-spider-noir-review"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation]]></title>
-        <id>https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/</id>
-        <link href="https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/"/>
+        <title type="html"><![CDATA[American Airlines is getting Starlink Wi-Fi]]></title>
+        <id>https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed</id>
+        <link href="https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Movies to Stream This Month (May 2026)]]></title>
-        <id>https://www.wired.com/story/the-9-best-movies-to-stream-right-now/</id>
-        <link href="https://www.wired.com/story/the-9-best-movies-to-stream-right-now/"/>
+        <title type="html"><![CDATA[NASA&#8217;s permanent Moon base plans start with three missions this year]]></title>
+        <id>https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates</id>
+        <link href="https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pope Leo Schooled the Tech Bros on Tolkien]]></title>
-        <id>https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/</id>
-        <link href="https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/"/>
+        <title type="html"><![CDATA[Xreal’s budget AR glasses feature anti-shake tech and swappable frames]]></title>
+        <id>https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability</id>
+        <link href="https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A New Species of Tiny Octopus Was Discovered in the Galápagos Islands]]></title>
-        <id>https://www.wired.com/story/a-new-species-of-tiny-octopus-was-discovered-in-the-galapagos-islands/</id>
-        <link href="https://www.wired.com/story/a-new-species-of-tiny-octopus-was-discovered-in-the-galapagos-islands/"/>
+        <title type="html"><![CDATA[The Witcher 3 is getting another expansion, more than a decade after launch]]></title>
+        <id>https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion</id>
+        <link href="https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google just broke SEO. Here’s what replaces it.]]></title>
-        <id>https://techcrunch.com/video/google-just-broke-seo-heres-what-replaces-it/</id>
-        <link href="https://techcrunch.com/video/google-just-broke-seo-heres-what-replaces-it/"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube will now automatically label AI videos]]></title>
-        <id>https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/</id>
-        <link href="https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This startup is betting India’s gig economy can train the world’s robots]]></title>
-        <id>https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/</id>
-        <link href="https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump administration wants nuclear startups to use plutonium for their reactors]]></title>
-        <id>https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/</id>
-        <link href="https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline]]></title>
-        <id>https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/</id>
-        <link href="https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak]]></title>
-        <id>https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/</id>
-        <link href="https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify now lets you ‘clip’ moments from your favorite podcast]]></title>
-        <id>https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/</id>
-        <link href="https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Startup Battlefield 200 applications close today: Nominate a founder or submit your startup]]></title>
-        <id>https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/</id>
-        <link href="https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Map drawing tool where the map lives in the URL]]></title>
-        <id>https://drawonamap.com/</id>
-        <link href="https://drawonamap.com/"/>
+        <title type="html"><![CDATA[The best part of Mina the Hollower is how it randomizes the Zelda formula]]></title>
+        <id>https://www.theverge.com/games/937480/mina-the-hollower-remix-modifiers-randomizer-interview</id>
+        <link href="https://www.theverge.com/games/937480/mina-the-hollower-remix-modifiers-randomizer-interview"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
