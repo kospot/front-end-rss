@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-28 15:04:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-28 18:02:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,16 +7,17 @@
 
 
 
+- [2026-05-28-Building-Metadata-Capabilities-in-Apache-SeaTunnel:-A-Committer’s-Journey](https://dev.to/seatunnel/building-metadata-capabilities-in-apache-seatunnel-a-committers-journey-o5l) 
 - [2026-05-27-ネストテーブルとrowspanの処理方法（HTMLテーブルパースの難所）](https://dev.to/circobit/nesutoteburutorowspannochu-li-fang-fa-htmlteburupasunonan-suo--4j3j) 
-- [2026-05-26-중첩-테이블과-Rowspan-처리하기-HTML-테이블-파싱의-어려운-부분](https://dev.to/circobit/jungceob-teibeulgwa-rowspan-ceorihagi-html-teibeul-pasingyi-eoryeoun-bubun-4a12) 
-- [2026-05-26-Your-SEO-Audit-Tool-Sees-HTML.-Google-Sees-the-Rendered-Page.](https://dev.to/cag1145/your-seo-audit-tool-sees-html-google-sees-the-rendered-page-2cb2) 
 - [2026-05-26-#-🍃-Building-a-Privacy-First-Cultural-Page:-Bonsai,-Patience,-and-Pure-HTML-.-japan](https://dev.to/learn2027/-building-a-privacy-first-cultural-page-bonsai-patience-and-pure-html-japan-194g) 
+- [2026-05-26-Your-SEO-Audit-Tool-Sees-HTML.-Google-Sees-the-Rendered-Page.](https://dev.to/cag1145/your-seo-audit-tool-sees-html-google-sees-the-rendered-page-2cb2) 
+- [2026-05-26-중첩-테이블과-Rowspan-처리하기-HTML-테이블-파싱의-어려운-부분](https://dev.to/circobit/jungceob-teibeulgwa-rowspan-ceorihagi-html-teibeul-pasingyi-eoryeoun-bubun-4a12) 
 - [2026-05-25-Hoe-Ik-Geneste-Tabellen-en-Rowspans-Verwerk-De-Moeilijke-Onderdelen-van-HTML-tabelparsing](https://dev.to/circobit/hoe-ik-geneste-tabellen-en-rowspans-verwerk-de-moeilijke-onderdelen-van-html-tabelparsing-17a2) 
-- [2026-05-24-I-Built-a-Free-Metal-Weight-Calculator-—-Here's-the-Math-Behind-It](https://dev.to/param_mehta_0f2ed8b74e91f/i-built-a-free-metal-weight-calculator-heres-the-math-behind-it-529j) 
 - [2026-05-24-I-Built-a-Mix-Translation-Tool-in-a-Single-HTML-File](https://dev.to/chukiextra/i-built-a-mix-translation-tool-in-a-single-html-file-4dgc) 
-- [2026-05-23-The-night-Meta-flagged-my-Instagram-automation---what-I-rewrote-in-v1.5.0](https://dev.to/ryuji_saas/the-night-meta-flagged-my-instagram-automation-what-i-rewrote-in-v150-1ham) 
-- [2026-05-23-Build-a-Live-Flight-Radar-in-a-Single-HTML-File](https://dev.to/sergeysta/build-a-live-flight-radar-in-a-single-html-file-p9p) 
+- [2026-05-24-I-Built-a-Free-Metal-Weight-Calculator-—-Here's-the-Math-Behind-It](https://dev.to/param_mehta_0f2ed8b74e91f/i-built-a-free-metal-weight-calculator-heres-the-math-behind-it-529j) 
 - [2026-05-23-Best-Free-Markdown-to-HTML-Converters-Online-—-Live-Preview,-Tables,-Compared](https://dev.to/shaishav_patel_271fdcd61a/best-free-markdown-to-html-converters-online-live-preview-tables-compared-5e1e) 
+- [2026-05-23-Build-a-Live-Flight-Radar-in-a-Single-HTML-File](https://dev.to/sergeysta/build-a-live-flight-radar-in-a-single-html-file-p9p) 
+- [2026-05-23-The-night-Meta-flagged-my-Instagram-automation---what-I-rewrote-in-v1.5.0](https://dev.to/ryuji_saas/the-night-meta-flagged-my-instagram-automation-what-i-rewrote-in-v150-1ham) 
 - [2026-05-20-La-Complejidad-Oculta-de-las-Tablas-HTML](https://dev.to/circobit/la-complejidad-oculta-de-las-tablas-html-l24) 
 - [2026-05-16-How-to-Save-a-Webpage-or-HTML-as-an-Image-—-Free,-No-Extension,-No-Screenshot-App](https://dev.to/shaishav_patel_271fdcd61a/how-to-save-a-webpage-or-html-as-an-image-free-no-extension-no-screenshot-app-1m1i) 
 - [2026-05-15-NASSCAD-V4.2-—-A-full-CAD-modeler-that-lives-in-a-single-HTML-file](https://dev.to/nasser_7cff6f77e08155b603/nasscad-v42-a-full-cad-modeler-that-lives-in-a-single-html-file-2jf2) 
@@ -165,8 +166,8 @@
 - [2026-05-23-Meta’s-Forum-is-part-Reddit,-part-Facebook,-and-part-Google-AI-Overview](https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on) 
 - [2026-05-15-Meta’s-summer-sale-drops-Ray-Ban’s-new-smart-glasses-to-record-low-prices](https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale) 
 - [2026-05-14-Mark-Zuckerberg-announces-&amp;#8216;completely-private&amp;#8217;-encrypted-Meta-AI-chat](https://www.theverge.com/tech/929791/meta-ai-incognito-chats) 
-- [2026-05-13-Meta-will-tell-parents-when-their-teens-add-new-interests-to-their-Instagram-algorithm](https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls) 
 - [2026-05-13-Meta-won’t-let-you-block-its-AI-account-on-Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block) 
+- [2026-05-13-Meta-will-tell-parents-when-their-teens-add-new-interests-to-their-Instagram-algorithm](https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls) 
 - [2026-05-06-Book-publishers-sue-Meta-over-AI&amp;#8217;s-&amp;#8216;word-for-word&amp;#8217;-copying](https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright) 
 - [2026-05-03-Meta&amp;#8217;s-historic-loss-in-court-could-cost-a-lot-more-than-$375-million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety) 
 - [2026-05-01-Meta-threatens-to-pull-its-apps-from-New-Mexico-if-forced-to-make-‘technologically-impractical’-changes](https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico) 

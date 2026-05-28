@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-28T07:04:03.589Z</updated>
+    <updated>2026-05-28T10:02:57.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,6 +22,13 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[YouTube will let you ask AI to make a custom video feed]]></title>
+        <id>https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability</id>
+        <link href="https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[You can print, slice, and engrave using this desktop crafting machine]]></title>
         <id>https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter</id>
         <link href="https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter"/>
@@ -29,16 +36,16 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme]]></title>
-        <id>https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/</id>
-        <link href="https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/"/>
+        <title type="html"><![CDATA[A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House]]></title>
+        <id>https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/</id>
+        <link href="https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House]]></title>
-        <id>https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/</id>
-        <link href="https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/"/>
+        <title type="html"><![CDATA[Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme]]></title>
+        <id>https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/</id>
+        <link href="https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -260,44 +267,37 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where Should Your Automation Live? Lessons From a Jira Integration That Quietly Broke]]></title>
-        <id>https://pub.towardsai.net/where-should-your-automation-live-lessons-from-a-jira-integration-that-quietly-broke-393d53f1d9d6?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/where-should-your-automation-live-lessons-from-a-jira-integration-that-quietly-broke-393d53f1d9d6?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How Agentic AI Is Transforming Airline Disruption Recovery]]></title>
+        <id>https://pub.towardsai.net/how-agentic-ai-is-transforming-airline-disruption-recovery-5740fc6124ad?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-agentic-ai-is-transforming-airline-disruption-recovery-5740fc6124ad?source=rss----98111c9905da---4"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cortex Code’s Access Troubleshooter Skill: From “Insufficient Privileges” to Authorized in Seconds]]></title>
-        <id>https://pub.towardsai.net/cortex-codes-access-troubleshooter-skill-from-insufficient-privileges-to-authorized-in-seconds-9b89a370dca1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/cortex-codes-access-troubleshooter-skill-from-insufficient-privileges-to-authorized-in-seconds-9b89a370dca1?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[AI Agents Are Not Just Chatbots Anymore: Real Stories, Lessons and a DIY Framework]]></title>
+        <id>https://pub.towardsai.net/ai-agents-are-not-just-chatbots-anymore-real-stories-lessons-and-a-diy-framework-98660a5cf734?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-agents-are-not-just-chatbots-anymore-real-stories-lessons-and-a-diy-framework-98660a5cf734?source=rss----98111c9905da---4"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This One AI Tool Changed How I Write Spring Boot Forever in 2026]]></title>
-        <id>https://pub.towardsai.net/this-one-ai-tool-changed-how-i-write-spring-boot-forever-in-2026-f6ed4fdaa0e0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/this-one-ai-tool-changed-how-i-write-spring-boot-forever-in-2026-f6ed4fdaa0e0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Last Human Internet: How Model Collapse Could Break AI]]></title>
+        <id>https://pub.towardsai.net/the-last-human-internet-how-model-collapse-could-break-ai-f80f6047a4ed?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-last-human-internet-how-model-collapse-could-break-ai-f80f6047a4ed?source=rss----98111c9905da---4"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Proof of Payment Verification Using Vision Language Models: A Practical Guide]]></title>
-        <id>https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Linear Regression : 35 Must Do Interview Questions]]></title>
+        <id>https://pub.towardsai.net/linear-regression-35-must-do-interview-questions-1c1c2e33956b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/linear-regression-35-must-do-interview-questions-1c1c2e33956b?source=rss----98111c9905da---4"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Principal Component Analysis Has Been Over-Explained and Under-Taught]]></title>
-        <id>https://pub.towardsai.net/principal-component-analysis-has-been-over-explained-and-under-taught-cf8db499a2ca?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/principal-component-analysis-has-been-over-explained-and-under-taught-cf8db499a2ca?source=rss----98111c9905da---4"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why An AI Model Only Uses 0.34% of The GPU Compute: How GPUs Actually Work, Part 2]]></title>
-        <id>https://pub.towardsai.net/why-an-ai-model-only-uses-0-34-of-the-gpu-compute-how-gpus-actually-work-part-2-639e9a7bd97b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-an-ai-model-only-uses-0-34-of-the-gpu-compute-how-gpus-actually-work-part-2-639e9a7bd97b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Responsible AI in Retail: Guardrails That Finance, Legal, and Customers Can Trust]]></title>
+        <id>https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -309,9 +309,44 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Responsible AI in Retail: Guardrails That Finance, Legal, and Customers Can Trust]]></title>
-        <id>https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why An AI Model Only Uses 0.34% of The GPU Compute: How GPUs Actually Work, Part 2]]></title>
+        <id>https://pub.towardsai.net/why-an-ai-model-only-uses-0-34-of-the-gpu-compute-how-gpus-actually-work-part-2-639e9a7bd97b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-an-ai-model-only-uses-0-34-of-the-gpu-compute-how-gpus-actually-work-part-2-639e9a7bd97b?source=rss----98111c9905da---4"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Principal Component Analysis Has Been Over-Explained and Under-Taught]]></title>
+        <id>https://pub.towardsai.net/principal-component-analysis-has-been-over-explained-and-under-taught-cf8db499a2ca?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/principal-component-analysis-has-been-over-explained-and-under-taught-cf8db499a2ca?source=rss----98111c9905da---4"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proof of Payment Verification Using Vision Language Models: A Practical Guide]]></title>
+        <id>https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This One AI Tool Changed How I Write Spring Boot Forever in 2026]]></title>
+        <id>https://pub.towardsai.net/this-one-ai-tool-changed-how-i-write-spring-boot-forever-in-2026-f6ed4fdaa0e0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-one-ai-tool-changed-how-i-write-spring-boot-forever-in-2026-f6ed4fdaa0e0?source=rss----98111c9905da---4"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cortex Code’s Access Troubleshooter Skill: From “Insufficient Privileges” to Authorized in Seconds]]></title>
+        <id>https://pub.towardsai.net/cortex-codes-access-troubleshooter-skill-from-insufficient-privileges-to-authorized-in-seconds-9b89a370dca1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/cortex-codes-access-troubleshooter-skill-from-insufficient-privileges-to-authorized-in-seconds-9b89a370dca1?source=rss----98111c9905da---4"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Should Your Automation Live? Lessons From a Jira Integration That Quietly Broke]]></title>
+        <id>https://pub.towardsai.net/where-should-your-automation-live-lessons-from-a-jira-integration-that-quietly-broke-393d53f1d9d6?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/where-should-your-automation-live-lessons-from-a-jira-integration-that-quietly-broke-393d53f1d9d6?source=rss----98111c9905da---4"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -326,41 +361,6 @@
         <title type="html"><![CDATA[A Simple State Space Model Excels at Multivariate Time Series Classification]]></title>
         <id>https://arxiv.org/abs/2605.27406</id>
         <link href="https://arxiv.org/abs/2605.27406"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$E^3$-Agent: An Executable and Evolving Agent for Resource Management of Edge Generative Inference]]></title>
-        <id>https://arxiv.org/abs/2605.27428</id>
-        <link href="https://arxiv.org/abs/2605.27428"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparative Analysis of Liquid Neural Networks and LSTM for Sequential Pattern Recognition: Robustness, Efficiency, and Clinical Utility]]></title>
-        <id>https://arxiv.org/abs/2605.27467</id>
-        <link href="https://arxiv.org/abs/2605.27467"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Architecture-driven Shift: towards a lightweight selector for capturing the trends of logit shift]]></title>
-        <id>https://arxiv.org/abs/2605.27469</id>
-        <link href="https://arxiv.org/abs/2605.27469"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEAL: Resilient and Self-* Hub-based Learning]]></title>
-        <id>https://arxiv.org/abs/2605.27475</id>
-        <link href="https://arxiv.org/abs/2605.27475"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective]]></title>
-        <id>https://arxiv.org/abs/2605.27476</id>
-        <link href="https://arxiv.org/abs/2605.27476"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
