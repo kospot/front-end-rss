@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-28T00:01:29.286Z</updated>
+    <updated>2026-05-28T02:01:15.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[You can print, slice, and engrave using this desktop crafting machine]]></title>
-        <id>https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter</id>
-        <link href="https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter"/>
+        <title type="html"><![CDATA[派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等]]></title>
+        <id>https://sspai.com/post/110368</id>
+        <link href="https://sspai.com/post/110368"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme]]></title>
-        <id>https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/</id>
-        <link href="https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/"/>
+        <title type="html"><![CDATA[You can print, slice, and engrave using this desktop crafting machine]]></title>
+        <id>https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter</id>
+        <link href="https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -36,9 +36,16 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us]]></title>
-        <id>https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/</id>
-        <link href="https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/"/>
+        <title type="html"><![CDATA[Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme]]></title>
+        <id>https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/</id>
+        <link href="https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CrowdStrike and Google take down botnet used by hackers to target open source software developers]]></title>
+        <id>https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/</id>
+        <link href="https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -50,9 +57,9 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CrowdStrike and Google take down botnet used by hackers to target open source software developers]]></title>
-        <id>https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/</id>
-        <link href="https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/"/>
+        <title type="html"><![CDATA[UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us]]></title>
+        <id>https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/</id>
+        <link href="https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -169,23 +176,9 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Proof of Payment Verification Using Vision Language Models: A Practical Guide]]></title>
-        <id>https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Principal Component Analysis Has Been Over-Explained and Under-Taught]]></title>
-        <id>https://pub.towardsai.net/principal-component-analysis-has-been-over-explained-and-under-taught-cf8db499a2ca?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/principal-component-analysis-has-been-over-explained-and-under-taught-cf8db499a2ca?source=rss----98111c9905da---4"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why An AI Model Only Uses 0.34% of The GPU Compute: How GPUs Actually Work, Part 2]]></title>
-        <id>https://pub.towardsai.net/why-an-ai-model-only-uses-0-34-of-the-gpu-compute-how-gpus-actually-work-part-2-639e9a7bd97b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-an-ai-model-only-uses-0-34-of-the-gpu-compute-how-gpus-actually-work-part-2-639e9a7bd97b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Responsible AI in Retail: Guardrails That Finance, Legal, and Customers Can Trust]]></title>
+        <id>https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -197,9 +190,23 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Responsible AI in Retail: Guardrails That Finance, Legal, and Customers Can Trust]]></title>
-        <id>https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why An AI Model Only Uses 0.34% of The GPU Compute: How GPUs Actually Work, Part 2]]></title>
+        <id>https://pub.towardsai.net/why-an-ai-model-only-uses-0-34-of-the-gpu-compute-how-gpus-actually-work-part-2-639e9a7bd97b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-an-ai-model-only-uses-0-34-of-the-gpu-compute-how-gpus-actually-work-part-2-639e9a7bd97b?source=rss----98111c9905da---4"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Principal Component Analysis Has Been Over-Explained and Under-Taught]]></title>
+        <id>https://pub.towardsai.net/principal-component-analysis-has-been-over-explained-and-under-taught-cf8db499a2ca?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/principal-component-analysis-has-been-over-explained-and-under-taught-cf8db499a2ca?source=rss----98111c9905da---4"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proof of Payment Verification Using Vision Language Models: A Practical Guide]]></title>
+        <id>https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -211,72 +218,37 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Dark Cinematic Restaurant Landing Page Template and Listed It For Sale]]></title>
-        <id>https://dev.to/cy_cod/how-i-built-a-dark-cinematic-restaurant-landing-page-template-and-listed-it-for-sale-58fm</id>
-        <link href="https://dev.to/cy_cod/how-i-built-a-dark-cinematic-restaurant-landing-page-template-and-listed-it-for-sale-58fm"/>
+        <title type="html"><![CDATA[TypeScript 5 Utility Types Cheatsheet — One Page, 28 Items]]></title>
+        <id>https://dev.to/mumicrotools/typescript-5-utility-types-cheatsheet-one-page-28-items-124b</id>
+        <link href="https://dev.to/mumicrotools/typescript-5-utility-types-cheatsheet-one-page-28-items-124b"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["7 Free GitHub Repos Every Beginner Should Star Right Now"]]></title>
-        <id>https://dev.to/devraj_singh7/7-free-github-repos-every-beginner-should-star-right-now-57ij</id>
-        <link href="https://dev.to/devraj_singh7/7-free-github-repos-every-beginner-should-star-right-now-57ij"/>
+        <title type="html"><![CDATA[Service Workers and Progressive Web Apps]]></title>
+        <id>https://dev.to/omriluz1/service-workers-and-progressive-web-apps-51co</id>
+        <link href="https://dev.to/omriluz1/service-workers-and-progressive-web-apps-51co"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blockless Scope: JavaScript Shenanigans]]></title>
-        <id>https://dev.to/oculus42/blockless-scope-javascript-shenanigans-561f</id>
-        <link href="https://dev.to/oculus42/blockless-scope-javascript-shenanigans-561f"/>
+        <title type="html"><![CDATA[前端性能优化实战：从FCP到LCP，让你的网站快3倍]]></title>
+        <id>https://dev.to/wdsega/qian-duan-xing-neng-you-hua-shi-zhan-cong-fcpdao-lcprang-ni-de-wang-zhan-kuai-3bei-35ha</id>
+        <link href="https://dev.to/wdsega/qian-duan-xing-neng-you-hua-shi-zhan-cong-fcpdao-lcprang-ni-de-wang-zhan-kuai-3bei-35ha"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frontier AI Agents Hit a 60% Ceiling: 10 May 2026 Benchmarks Compared]]></title>
-        <id>https://dev.to/bean_bean/frontier-ai-agents-hit-a-60-ceiling-10-may-2026-benchmarks-compared-2n3p</id>
-        <link href="https://dev.to/bean_bean/frontier-ai-agents-hit-a-60-ceiling-10-may-2026-benchmarks-compared-2n3p"/>
+        <title type="html"><![CDATA[A Click-to-Build Regex Builder in 500 Lines of Vanilla JS — Token Model and Live Highlight Internals]]></title>
+        <id>https://dev.to/sendotltd/a-click-to-build-regex-builder-in-500-lines-of-vanilla-js-token-model-and-live-highlight-internals-14lc</id>
+        <link href="https://dev.to/sendotltd/a-click-to-build-regex-builder-in-500-lines-of-vanilla-js-token-model-and-live-highlight-internals-14lc"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Cinematic Scroll Experience with GSAP and ScrollTrigger]]></title>
-        <id>https://dev.to/jkimdd/how-i-built-a-cinematic-scroll-experience-with-gsap-and-scrolltrigger-11hj</id>
-        <link href="https://dev.to/jkimdd/how-i-built-a-cinematic-scroll-experience-with-gsap-and-scrolltrigger-11hj"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React vs Angular in 2026 — Architecture, Performance & a Decision Matrix]]></title>
-        <id>https://dev.to/kirandeepjassalcrypto/react-vs-angular-in-2026-architecture-performance-a-decision-matrix-e5o</id>
-        <link href="https://dev.to/kirandeepjassalcrypto/react-vs-angular-in-2026-architecture-performance-a-decision-matrix-e5o"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exo: Declarative Cross‑Section Coordination for Astro Without Components or Global Mutable State]]></title>
-        <id>https://dev.to/lucianofedericopereira/exo-declarative-cross-section-coordination-for-astro-without-components-or-global-mutable-state-52a</id>
-        <link href="https://dev.to/lucianofedericopereira/exo-declarative-cross-section-coordination-for-astro-without-components-or-global-mutable-state-52a"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INP in production: what we wish we had measured earlier]]></title>
-        <id>https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk</id>
-        <link href="https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop pasting production JWTs into random online decoders.]]></title>
-        <id>https://dev.to/devnovatools/stop-pasting-production-jwts-into-random-online-decoders-36o7</id>
-        <link href="https://dev.to/devnovatools/stop-pasting-production-jwts-into-random-online-decoders-36o7"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5g.chat – Instant P2P file transfer in your browser, no server, no account]]></title>
-        <id>https://dev.to/5gchat/5gchat-instant-p2p-file-transfer-in-your-browser-no-server-no-account-4ki0</id>
-        <link href="https://dev.to/5gchat/5gchat-instant-p2p-file-transfer-in-your-browser-no-server-no-account-4ki0"/>
+        <title type="html"><![CDATA[State.js Tutorial: Creating Reusable UI Components with Pure CSS Reactivity]]></title>
+        <id>https://dev.to/idevgames/statejs-tutorial-creating-reusable-ui-components-with-pure-css-reactivity-3b56</id>
+        <link href="https://dev.to/idevgames/statejs-tutorial-creating-reusable-ui-components-with-pure-css-reactivity-3b56"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -288,9 +260,79 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[State.js Tutorial: Creating Reusable UI Components with Pure CSS Reactivity]]></title>
-        <id>https://dev.to/idevgames/statejs-tutorial-creating-reusable-ui-components-with-pure-css-reactivity-3b56</id>
-        <link href="https://dev.to/idevgames/statejs-tutorial-creating-reusable-ui-components-with-pure-css-reactivity-3b56"/>
+        <title type="html"><![CDATA[5g.chat – Instant P2P file transfer in your browser, no server, no account]]></title>
+        <id>https://dev.to/5gchat/5gchat-instant-p2p-file-transfer-in-your-browser-no-server-no-account-4ki0</id>
+        <link href="https://dev.to/5gchat/5gchat-instant-p2p-file-transfer-in-your-browser-no-server-no-account-4ki0"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop pasting production JWTs into random online decoders.]]></title>
+        <id>https://dev.to/devnovatools/stop-pasting-production-jwts-into-random-online-decoders-36o7</id>
+        <link href="https://dev.to/devnovatools/stop-pasting-production-jwts-into-random-online-decoders-36o7"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INP in production: what we wish we had measured earlier]]></title>
+        <id>https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk</id>
+        <link href="https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exo: Declarative Cross‑Section Coordination for Astro Without Components or Global Mutable State]]></title>
+        <id>https://dev.to/lucianofedericopereira/exo-declarative-cross-section-coordination-for-astro-without-components-or-global-mutable-state-52a</id>
+        <link href="https://dev.to/lucianofedericopereira/exo-declarative-cross-section-coordination-for-astro-without-components-or-global-mutable-state-52a"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React vs Angular in 2026 — Architecture, Performance & a Decision Matrix]]></title>
+        <id>https://dev.to/kirandeepjassalcrypto/react-vs-angular-in-2026-architecture-performance-a-decision-matrix-e5o</id>
+        <link href="https://dev.to/kirandeepjassalcrypto/react-vs-angular-in-2026-architecture-performance-a-decision-matrix-e5o"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Cinematic Scroll Experience with GSAP and ScrollTrigger]]></title>
+        <id>https://dev.to/jkimdd/how-i-built-a-cinematic-scroll-experience-with-gsap-and-scrolltrigger-11hj</id>
+        <link href="https://dev.to/jkimdd/how-i-built-a-cinematic-scroll-experience-with-gsap-and-scrolltrigger-11hj"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontier AI Agents Hit a 60% Ceiling: 10 May 2026 Benchmarks Compared]]></title>
+        <id>https://dev.to/bean_bean/frontier-ai-agents-hit-a-60-ceiling-10-may-2026-benchmarks-compared-2n3p</id>
+        <link href="https://dev.to/bean_bean/frontier-ai-agents-hit-a-60-ceiling-10-may-2026-benchmarks-compared-2n3p"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockless Scope: JavaScript Shenanigans]]></title>
+        <id>https://dev.to/oculus42/blockless-scope-javascript-shenanigans-561f</id>
+        <link href="https://dev.to/oculus42/blockless-scope-javascript-shenanigans-561f"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["7 Free GitHub Repos Every Beginner Should Star Right Now"]]></title>
+        <id>https://dev.to/devraj_singh7/7-free-github-repos-every-beginner-should-star-right-now-57ij</id>
+        <link href="https://dev.to/devraj_singh7/7-free-github-repos-every-beginner-should-star-right-now-57ij"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Dark Cinematic Restaurant Landing Page Template and Listed It For Sale]]></title>
+        <id>https://dev.to/cy_cod/how-i-built-a-dark-cinematic-restaurant-landing-page-template-and-listed-it-for-sale-58fm</id>
+        <link href="https://dev.to/cy_cod/how-i-built-a-dark-cinematic-restaurant-landing-page-template-and-listed-it-for-sale-58fm"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HelloGitHub 第 122 期]]></title>
+        <id>https://hellogithub.com/periodical/volume/122</id>
+        <link href="https://hellogithub.com/periodical/volume/122"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[GE’s nugget ice maker is nearly half off if you buy it refurbished]]></title>
         <id>https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale</id>
         <link href="https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir]]></title>
-        <id>https://www.theverge.com/entertainment/936358/amazon-spider-noir-review</id>
-        <link href="https://www.theverge.com/entertainment/936358/amazon-spider-noir-review"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[American Airlines is getting Starlink Wi-Fi]]></title>
-        <id>https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed</id>
-        <link href="https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA&#8217;s permanent Moon base plans start with three missions this year]]></title>
-        <id>https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates</id>
-        <link href="https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xreal’s budget AR glasses feature anti-shake tech and swappable frames]]></title>
-        <id>https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability</id>
-        <link href="https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Witcher 3 is getting another expansion, more than a decade after launch]]></title>
-        <id>https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion</id>
-        <link href="https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion"/>
-        <updated>2026-05-26T16:00:00.000Z</updated>
-        <published>2026-05-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best part of Mina the Hollower is how it randomizes the Zelda formula]]></title>
-        <id>https://www.theverge.com/games/937480/mina-the-hollower-remix-modifiers-randomizer-interview</id>
-        <link href="https://www.theverge.com/games/937480/mina-the-hollower-remix-modifiers-randomizer-interview"/>
         <updated>2026-05-26T16:00:00.000Z</updated>
         <published>2026-05-26T16:00:00.000Z</published>
     </entry>
