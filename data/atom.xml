@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-28T04:02:07.214Z</updated>
+    <updated>2026-05-28T07:04:03.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,13 +29,6 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House]]></title>
-        <id>https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/</id>
-        <link href="https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme]]></title>
         <id>https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/</id>
         <link href="https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/"/>
@@ -43,16 +36,16 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CrowdStrike and Google take down botnet used by hackers to target open source software developers]]></title>
-        <id>https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/</id>
-        <link href="https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/"/>
+        <title type="html"><![CDATA[A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House]]></title>
+        <id>https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/</id>
+        <link href="https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans]]></title>
-        <id>https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/</id>
-        <link href="https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"/>
+        <title type="html"><![CDATA[Vertu wants CEOs to run companies from an AI foldable starting at $6,880]]></title>
+        <id>https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/</id>
+        <link href="https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -64,149 +57,51 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenGlasses: Meta Glasses open source app]]></title>
-        <id>https://github.com/straff2002/OpenGlasses</id>
-        <link href="https://github.com/straff2002/OpenGlasses"/>
+        <title type="html"><![CDATA[Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans]]></title>
+        <id>https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/</id>
+        <link href="https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I'm bad at game art. So I cheated. [video]]]></title>
-        <id>https://www.youtube.com/watch?v=gb0dY7VyoBg</id>
-        <link href="https://www.youtube.com/watch?v=gb0dY7VyoBg"/>
+        <title type="html"><![CDATA[CrowdStrike and Google take down botnet used by hackers to target open source software developers]]></title>
+        <id>https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/</id>
+        <link href="https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RuView: See Through Walls with WiFi]]></title>
-        <id>https://github.com/ruvnet/RuView</id>
-        <link href="https://github.com/ruvnet/RuView"/>
+        <title type="html"><![CDATA[Dispatches from the possibly last days of human relevance]]></title>
+        <id>https://scottaaronson.blog/?p=9782</id>
+        <link href="https://scottaaronson.blog/?p=9782"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Friendly Tour of Substructural, Uniqueness, Ownership, Capabilities and more!]]></title>
-        <id>https://federicobruzzone.github.io/posts/eter/a-friendly-tour-of-substructural-uniqueness-ownership-and-capabilities-types-and-more.html</id>
-        <link href="https://federicobruzzone.github.io/posts/eter/a-friendly-tour-of-substructural-uniqueness-ownership-and-capabilities-types-and-more.html"/>
+        <title type="html"><![CDATA[Omniclip: Open-source, powerful video editor right in the browser]]></title>
+        <id>https://github.com/omni-media/omniclip</id>
+        <link href="https://github.com/omni-media/omniclip"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux reportedly restored to the free version of Vivado]]></title>
-        <id>https://twitter.com/HotAisle/status/2059706563665998317</id>
-        <link href="https://twitter.com/HotAisle/status/2059706563665998317"/>
+        <title type="html"><![CDATA[Is it better to have fewer components?]]></title>
+        <id>https://alokit.substack.com/p/four-components-each-90-reliable</id>
+        <link href="https://alokit.substack.com/p/four-components-each-90-reliable"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Harness Sensitivity Is Non-Monotone Across LLM Agent Tiers]]></title>
-        <id>https://arxiv.org/abs/2605.26731</id>
-        <link href="https://arxiv.org/abs/2605.26731"/>
+        <title type="html"><![CDATA[UK's rudest chalk figure gets a glow-up to stop it fading in the rain]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cpvppe84lnvo</id>
+        <link href="https://www.bbc.co.uk/news/articles/cpvppe84lnvo"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I help founders kill doom scrolling and hook people's attention fast]]></title>
-        <id>https://stopclip.com</id>
-        <link href="https://stopclip.com"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony Launches Bravia 9 II and Bravia 7 II with 'True RGB']]></title>
-        <id>https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1779897602</id>
-        <link href="https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1779897602"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNTerminal – Autonomous Domain Investment Agent]]></title>
-        <id>https://dnterminal.com</id>
-        <link href="https://dnterminal.com"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apex: A Fast, Specialized Model for React Native]]></title>
-        <id>https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native</id>
-        <link href="https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Fast CPU summarize, eli5, fact-check or translate any text]]></title>
-        <id>https://github.com/kouhxp/fftext</id>
-        <link href="https://github.com/kouhxp/fftext"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClickStack Cloud: Serverless observability powered by ClickHouse]]></title>
-        <id>https://clickhouse.com/blog/clickstack-cloud-private-preview</id>
-        <link href="https://clickhouse.com/blog/clickstack-cloud-private-preview"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Altman and Dario Amodei are walking back their AI jobs apocalypse prophecies]]></title>
-        <id>https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/</id>
-        <link href="https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI readies cyber, misinformation defenses ahead of elections]]></title>
-        <id>https://www.axios.com/2026/05/27/openai-cyber-misinformation-defenses-elections</id>
-        <link href="https://www.axios.com/2026/05/27/openai-cyber-misinformation-defenses-elections"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncle Sam Awards $2B-Plus to Quantum Companies, but Wants a Cut]]></title>
-        <id>https://www.nextplatform.com/compute/2026/05/27/uncle-sam-awards-2-billion-plus-to-quantum-companies-but-wants-a-cut/5247083</id>
-        <link href="https://www.nextplatform.com/compute/2026/05/27/uncle-sam-awards-2-billion-plus-to-quantum-companies-but-wants-a-cut/5247083"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI Arrests CIA Official with $40M in Gold Bars in His Home]]></title>
-        <id>https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html</id>
-        <link href="https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Am I a Bad Friend?]]></title>
-        <id>https://drobinin.com/posts/am-i-a-bad-friend/</id>
-        <link href="https://drobinin.com/posts/am-i-a-bad-friend/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monome at 20: memories of the grid, in pictures]]></title>
-        <id>https://cdm.link/monome-at-20-memories-of-the-grid-in-pictures/</id>
-        <link href="https://cdm.link/monome-at-20-memories-of-the-grid-in-pictures/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenDisplay – open standard for e-paper screens]]></title>
-        <id>https://opendisplay.org/</id>
-        <link href="https://opendisplay.org/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Should Not Update Your Dependencies]]></title>
-        <id>https://www.mendral.com/blog/you-should-not-update</id>
-        <link href="https://www.mendral.com/blog/you-should-not-update"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dutch block US takeover of Solvinity as against public interest]]></title>
-        <id>https://www.reuters.com/technology/dutch-government-block-takeover-cloud-services-company-solvinity-by-us-based-2026-05-26/</id>
-        <link href="https://www.reuters.com/technology/dutch-government-block-takeover-cloud-services-company-solvinity-by-us-based-2026-05-26/"/>
+        <title type="html"><![CDATA[Space, time and Shakespeare – Paul Glendinning [video]]]></title>
+        <id>https://www.youtube.com/watch?v=iMHvwhXFrNQ</id>
+        <link href="https://www.youtube.com/watch?v=iMHvwhXFrNQ"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -218,23 +113,177 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Responsible AI in Retail: Guardrails That Finance, Legal, and Customers Can Trust]]></title>
-        <id>https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Dutch block US takeover of Solvinity as against public interest]]></title>
+        <id>https://www.reuters.com/technology/dutch-government-block-takeover-cloud-services-company-solvinity-by-us-based-2026-05-26/</id>
+        <link href="https://www.reuters.com/technology/dutch-government-block-takeover-cloud-services-company-solvinity-by-us-based-2026-05-26/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Swarm Intelligence: How Ant Colonies Can Solve the Bin Packing Problem (Part 1)]]></title>
-        <id>https://pub.towardsai.net/swarm-intelligence-how-ant-colonies-can-solve-the-bin-packing-problem-part-1-7d2320db9d16?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/swarm-intelligence-how-ant-colonies-can-solve-the-bin-packing-problem-part-1-7d2320db9d16?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[You Should Not Update Your Dependencies]]></title>
+        <id>https://www.mendral.com/blog/you-should-not-update</id>
+        <link href="https://www.mendral.com/blog/you-should-not-update"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why An AI Model Only Uses 0.34% of The GPU Compute: How GPUs Actually Work, Part 2]]></title>
-        <id>https://pub.towardsai.net/why-an-ai-model-only-uses-0-34-of-the-gpu-compute-how-gpus-actually-work-part-2-639e9a7bd97b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-an-ai-model-only-uses-0-34-of-the-gpu-compute-how-gpus-actually-work-part-2-639e9a7bd97b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[OpenDisplay – open standard for e-paper screens]]></title>
+        <id>https://opendisplay.org/</id>
+        <link href="https://opendisplay.org/"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monome at 20: memories of the grid, in pictures]]></title>
+        <id>https://cdm.link/monome-at-20-memories-of-the-grid-in-pictures/</id>
+        <link href="https://cdm.link/monome-at-20-memories-of-the-grid-in-pictures/"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Am I a Bad Friend?]]></title>
+        <id>https://drobinin.com/posts/am-i-a-bad-friend/</id>
+        <link href="https://drobinin.com/posts/am-i-a-bad-friend/"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI Arrests CIA Official with $40M in Gold Bars in His Home]]></title>
+        <id>https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html</id>
+        <link href="https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncle Sam Awards $2B-Plus to Quantum Companies, but Wants a Cut]]></title>
+        <id>https://www.nextplatform.com/compute/2026/05/27/uncle-sam-awards-2-billion-plus-to-quantum-companies-but-wants-a-cut/5247083</id>
+        <link href="https://www.nextplatform.com/compute/2026/05/27/uncle-sam-awards-2-billion-plus-to-quantum-companies-but-wants-a-cut/5247083"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI readies cyber, misinformation defenses ahead of elections]]></title>
+        <id>https://www.axios.com/2026/05/27/openai-cyber-misinformation-defenses-elections</id>
+        <link href="https://www.axios.com/2026/05/27/openai-cyber-misinformation-defenses-elections"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Altman and Dario Amodei are walking back their AI jobs apocalypse prophecies]]></title>
+        <id>https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/</id>
+        <link href="https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClickStack Cloud: Serverless observability powered by ClickHouse]]></title>
+        <id>https://clickhouse.com/blog/clickstack-cloud-private-preview</id>
+        <link href="https://clickhouse.com/blog/clickstack-cloud-private-preview"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Fast CPU summarize, eli5, fact-check or translate any text]]></title>
+        <id>https://github.com/kouhxp/fftext</id>
+        <link href="https://github.com/kouhxp/fftext"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apex: A Fast, Specialized Model for React Native]]></title>
+        <id>https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native</id>
+        <link href="https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNTerminal – Autonomous Domain Investment Agent]]></title>
+        <id>https://dnterminal.com</id>
+        <link href="https://dnterminal.com"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony Launches Bravia 9 II and Bravia 7 II with 'True RGB']]></title>
+        <id>https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1779897602</id>
+        <link href="https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1779897602"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I help founders kill doom scrolling and hook people's attention fast]]></title>
+        <id>https://stopclip.com</id>
+        <link href="https://stopclip.com"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harness Sensitivity Is Non-Monotone Across LLM Agent Tiers]]></title>
+        <id>https://arxiv.org/abs/2605.26731</id>
+        <link href="https://arxiv.org/abs/2605.26731"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux reportedly restored to the free version of Vivado]]></title>
+        <id>https://twitter.com/HotAisle/status/2059706563665998317</id>
+        <link href="https://twitter.com/HotAisle/status/2059706563665998317"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Friendly Tour of Substructural, Uniqueness, Ownership, Capabilities and more!]]></title>
+        <id>https://federicobruzzone.github.io/posts/eter/a-friendly-tour-of-substructural-uniqueness-ownership-and-capabilities-types-and-more.html</id>
+        <link href="https://federicobruzzone.github.io/posts/eter/a-friendly-tour-of-substructural-uniqueness-ownership-and-capabilities-types-and-more.html"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RuView: See Through Walls with WiFi]]></title>
+        <id>https://github.com/ruvnet/RuView</id>
+        <link href="https://github.com/ruvnet/RuView"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm bad at game art. So I cheated. [video]]]></title>
+        <id>https://www.youtube.com/watch?v=gb0dY7VyoBg</id>
+        <link href="https://www.youtube.com/watch?v=gb0dY7VyoBg"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenGlasses: Meta Glasses open source app]]></title>
+        <id>https://github.com/straff2002/OpenGlasses</id>
+        <link href="https://github.com/straff2002/OpenGlasses"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Should Your Automation Live? Lessons From a Jira Integration That Quietly Broke]]></title>
+        <id>https://pub.towardsai.net/where-should-your-automation-live-lessons-from-a-jira-integration-that-quietly-broke-393d53f1d9d6?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/where-should-your-automation-live-lessons-from-a-jira-integration-that-quietly-broke-393d53f1d9d6?source=rss----98111c9905da---4"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cortex Code’s Access Troubleshooter Skill: From “Insufficient Privileges” to Authorized in Seconds]]></title>
+        <id>https://pub.towardsai.net/cortex-codes-access-troubleshooter-skill-from-insufficient-privileges-to-authorized-in-seconds-9b89a370dca1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/cortex-codes-access-troubleshooter-skill-from-insufficient-privileges-to-authorized-in-seconds-9b89a370dca1?source=rss----98111c9905da---4"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This One AI Tool Changed How I Write Spring Boot Forever in 2026]]></title>
+        <id>https://pub.towardsai.net/this-one-ai-tool-changed-how-i-write-spring-boot-forever-in-2026-f6ed4fdaa0e0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-one-ai-tool-changed-how-i-write-spring-boot-forever-in-2026-f6ed4fdaa0e0?source=rss----98111c9905da---4"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proof of Payment Verification Using Vision Language Models: A Practical Guide]]></title>
+        <id>https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -246,9 +295,23 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Proof of Payment Verification Using Vision Language Models: A Practical Guide]]></title>
-        <id>https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/proof-of-payment-verification-using-vision-language-models-a-practical-guide-a6daceab9c85?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why An AI Model Only Uses 0.34% of The GPU Compute: How GPUs Actually Work, Part 2]]></title>
+        <id>https://pub.towardsai.net/why-an-ai-model-only-uses-0-34-of-the-gpu-compute-how-gpus-actually-work-part-2-639e9a7bd97b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-an-ai-model-only-uses-0-34-of-the-gpu-compute-how-gpus-actually-work-part-2-639e9a7bd97b?source=rss----98111c9905da---4"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swarm Intelligence: How Ant Colonies Can Solve the Bin Packing Problem (Part 1)]]></title>
+        <id>https://pub.towardsai.net/swarm-intelligence-how-ant-colonies-can-solve-the-bin-packing-problem-part-1-7d2320db9d16?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/swarm-intelligence-how-ant-colonies-can-solve-the-bin-packing-problem-part-1-7d2320db9d16?source=rss----98111c9905da---4"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsible AI in Retail: Guardrails That Finance, Legal, and Customers Can Trust]]></title>
+        <id>https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/responsible-ai-in-retail-guardrails-that-finance-legal-and-customers-can-trust-5354bd7dd3ff?source=rss----98111c9905da---4"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -298,69 +361,6 @@
         <title type="html"><![CDATA[Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective]]></title>
         <id>https://arxiv.org/abs/2605.27476</id>
         <link href="https://arxiv.org/abs/2605.27476"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Federated Learning for Multivariate Time Series Anomaly Detection in Industrial Automation]]></title>
-        <id>https://arxiv.org/abs/2605.27486</id>
-        <link href="https://arxiv.org/abs/2605.27486"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training]]></title>
-        <id>https://arxiv.org/abs/2605.27541</id>
-        <link href="https://arxiv.org/abs/2605.27541"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradient Transformer: Learning to Generate Updates for LLMs]]></title>
-        <id>https://arxiv.org/abs/2605.27591</id>
-        <link href="https://arxiv.org/abs/2605.27591"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Energy Blind Spot: NVIDIA's Flagship Edge AI Hardware Cannot Support Process-Level Energy Attribution]]></title>
-        <id>https://arxiv.org/abs/2605.27599</id>
-        <link href="https://arxiv.org/abs/2605.27599"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faster Thermal Profiling of a Lunar Rover with Machine Learning Adapted Finite Difference Model]]></title>
-        <id>https://arxiv.org/abs/2605.27651</id>
-        <link href="https://arxiv.org/abs/2605.27651"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aligning LLMs with Human Uncertainty: A Beta-Bernoulli Calibrator for LLM Forecasting]]></title>
-        <id>https://arxiv.org/abs/2605.27668</id>
-        <link href="https://arxiv.org/abs/2605.27668"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test-Time Collective Action: Proxy-Based Perturbations for Correcting Algorithmic Harms]]></title>
-        <id>https://arxiv.org/abs/2605.27689</id>
-        <link href="https://arxiv.org/abs/2605.27689"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NUCLEUS-MoE: Unified Model of Pool Boiling for Liquid Cooling]]></title>
-        <id>https://arxiv.org/abs/2605.27722</id>
-        <link href="https://arxiv.org/abs/2605.27722"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Entry-Wise Clipping Give Spectral Control of Stochastic Gradients?]]></title>
-        <id>https://arxiv.org/abs/2605.27733</id>
-        <link href="https://arxiv.org/abs/2605.27733"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
