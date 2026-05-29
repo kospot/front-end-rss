@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-28T22:01:50.003Z</updated>
+    <updated>2026-05-29T00:02:06.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -57,13 +57,6 @@
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Copies Snapchat’s Homework Again With ‘Plus’ Features for Instagram and Facebook]]></title>
-        <id>https://www.wired.com/story/meta-copies-snapchats-homework-again/</id>
-        <link href="https://www.wired.com/story/meta-copies-snapchats-homework-again/"/>
-        <updated>2026-05-28T16:00:00.000Z</updated>
-        <published>2026-05-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are]]></title>
         <id>https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/</id>
         <link href="https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/"/>
@@ -71,9 +64,16 @@
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Paris may be the most important AI city outside Silicon Valley]]></title>
-        <id>https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/</id>
-        <link href="https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/"/>
+        <title type="html"><![CDATA[Meta Copies Snapchat’s Homework Again With ‘Plus’ Features for Instagram and Facebook]]></title>
+        <id>https://www.wired.com/story/meta-copies-snapchats-homework-again/</id>
+        <link href="https://www.wired.com/story/meta-copies-snapchats-homework-again/"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline]]></title>
+        <id>https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/</id>
+        <link href="https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
@@ -81,6 +81,13 @@
         <title type="html"><![CDATA[US says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’]]></title>
         <id>https://techcrunch.com/2026/05/28/u-s-says-troops-were-targeted-with-location-data-as-senator-warns-ad-industry-is-a-national-security-threat/</id>
         <link href="https://techcrunch.com/2026/05/28/u-s-says-troops-were-targeted-with-location-data-as-senator-warns-ad-industry-is-a-national-security-threat/"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Paris may be the most important AI city outside Silicon Valley]]></title>
+        <id>https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/</id>
+        <link href="https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
@@ -141,23 +148,35 @@
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why AI price estimates lie (and how to anchor them to real market data)]]></title>
-        <id>https://dev.to/weston_thomas_4472566c0ec/why-ai-price-estimates-lie-and-how-to-anchor-them-to-real-market-data-1253</id>
-        <link href="https://dev.to/weston_thomas_4472566c0ec/why-ai-price-estimates-lie-and-how-to-anchor-them-to-real-market-data-1253"/>
+        <title type="html"><![CDATA[
+SVAR Vue Gantt - Build custom Gantt charts for project scheduling
+]]></title>
+        <id>
+https://github.com/svar-widgets/vue-gantt
+</id>
+        <link href="
+https://github.com/svar-widgets/vue-gantt
+"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Chrome extension that switches localhost/staging/production URLs]]></title>
-        <id>https://dev.to/ttcd77/build-a-chrome-extension-that-switches-localhoststagingproduction-urls-28hc</id>
-        <link href="https://dev.to/ttcd77/build-a-chrome-extension-that-switches-localhoststagingproduction-urls-28hc"/>
+        <title type="html"><![CDATA[
+Three Ways to Convert JSON to TypeScript. Only One Is Deterministic.
+]]></title>
+        <id>
+https://aralroca.hashnode.dev/three-ways-to-convert-json-to-typescript-only-one-is-deterministic
+</id>
+        <link href="
+https://aralroca.hashnode.dev/three-ways-to-convert-json-to-typescript-only-one-is-deterministic
+"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bQuery.js Grows Up: From Tiny jQuery Tribute to a Full-Stack Framework — and a Brand New Home at bquery.js.org 🎉]]></title>
-        <id>https://dev.to/josunlp/bqueryjs-grows-up-from-tiny-jquery-tribute-to-a-full-stack-framework-and-a-brand-new-home-at-1paa</id>
-        <link href="https://dev.to/josunlp/bqueryjs-grows-up-from-tiny-jquery-tribute-to-a-full-stack-framework-and-a-brand-new-home-at-1paa"/>
+        <title type="html"><![CDATA[Express Middleware — What It Actually Is and How It Really Works]]></title>
+        <id>https://dev.to/chinwuba_jeffrey/express-middleware-what-it-actually-is-and-how-it-really-works-2c3g</id>
+        <link href="https://dev.to/chinwuba_jeffrey/express-middleware-what-it-actually-is-and-how-it-really-works-2c3g"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
@@ -169,9 +188,23 @@
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Express Middleware — What It Actually Is and How It Really Works]]></title>
-        <id>https://dev.to/chinwuba_jeffrey/express-middleware-what-it-actually-is-and-how-it-really-works-2c3g</id>
-        <link href="https://dev.to/chinwuba_jeffrey/express-middleware-what-it-actually-is-and-how-it-really-works-2c3g"/>
+        <title type="html"><![CDATA[bQuery.js Grows Up: From Tiny jQuery Tribute to a Full-Stack Framework — and a Brand New Home at bquery.js.org 🎉]]></title>
+        <id>https://dev.to/josunlp/bqueryjs-grows-up-from-tiny-jquery-tribute-to-a-full-stack-framework-and-a-brand-new-home-at-1paa</id>
+        <link href="https://dev.to/josunlp/bqueryjs-grows-up-from-tiny-jquery-tribute-to-a-full-stack-framework-and-a-brand-new-home-at-1paa"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Chrome extension that switches localhost/staging/production URLs]]></title>
+        <id>https://dev.to/ttcd77/build-a-chrome-extension-that-switches-localhoststagingproduction-urls-28hc</id>
+        <link href="https://dev.to/ttcd77/build-a-chrome-extension-that-switches-localhoststagingproduction-urls-28hc"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI price estimates lie (and how to anchor them to real market data)]]></title>
+        <id>https://dev.to/weston_thomas_4472566c0ec/why-ai-price-estimates-lie-and-how-to-anchor-them-to-real-market-data-1253</id>
+        <link href="https://dev.to/weston_thomas_4472566c0ec/why-ai-price-estimates-lie-and-how-to-anchor-them-to-real-market-data-1253"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
@@ -239,9 +272,9 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canon EOS R6 Mark III Review: A Serious Upgrade]]></title>
-        <id>https://www.wired.com/review/canon-eos-r6-mark-iii-camera/</id>
-        <link href="https://www.wired.com/review/canon-eos-r6-mark-iii-camera/"/>
+        <title type="html"><![CDATA[A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House]]></title>
+        <id>https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/</id>
+        <link href="https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -253,37 +286,16 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House]]></title>
-        <id>https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/</id>
-        <link href="https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/"/>
+        <title type="html"><![CDATA[Canon EOS R6 Mark III Review: A Serious Upgrade]]></title>
+        <id>https://www.wired.com/review/canon-eos-r6-mark-iii-camera/</id>
+        <link href="https://www.wired.com/review/canon-eos-r6-mark-iii-camera/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vertu wants CEOs to run companies from an AI foldable starting at $6,880]]></title>
-        <id>https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/</id>
-        <link href="https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us]]></title>
-        <id>https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/</id>
-        <link href="https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans]]></title>
-        <id>https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/</id>
-        <link href="https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CrowdStrike and Google take down botnet used by hackers to target open source software developers]]></title>
-        <id>https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/</id>
-        <link href="https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/"/>
+        <title type="html"><![CDATA[YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’]]></title>
+        <id>https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/</id>
+        <link href="https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -295,9 +307,30 @@
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’]]></title>
-        <id>https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/</id>
-        <link href="https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/"/>
+        <title type="html"><![CDATA[CrowdStrike and Google take down botnet used by hackers to target open source software developers]]></title>
+        <id>https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/</id>
+        <link href="https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans]]></title>
+        <id>https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/</id>
+        <link href="https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us]]></title>
+        <id>https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/</id>
+        <link href="https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/"/>
+        <updated>2026-05-27T16:00:00.000Z</updated>
+        <published>2026-05-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vertu wants CEOs to run companies from an AI foldable starting at $6,880]]></title>
+        <id>https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/</id>
+        <link href="https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
@@ -340,27 +373,6 @@
         <title type="html"><![CDATA[OpenGlasses: Meta Glasses open source app]]></title>
         <id>https://github.com/straff2002/OpenGlasses</id>
         <link href="https://github.com/straff2002/OpenGlasses"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm bad at game art. So I cheated. [video]]]></title>
-        <id>https://www.youtube.com/watch?v=gb0dY7VyoBg</id>
-        <link href="https://www.youtube.com/watch?v=gb0dY7VyoBg"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RuView: See Through Walls with WiFi]]></title>
-        <id>https://github.com/ruvnet/RuView</id>
-        <link href="https://github.com/ruvnet/RuView"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Friendly Tour of Substructural, Uniqueness, Ownership, Capabilities and more!]]></title>
-        <id>https://federicobruzzone.github.io/posts/eter/a-friendly-tour-of-substructural-uniqueness-ownership-and-capabilities-types-and-more.html</id>
-        <link href="https://federicobruzzone.github.io/posts/eter/a-friendly-tour-of-substructural-uniqueness-ownership-and-capabilities-types-and-more.html"/>
         <updated>2026-05-27T16:00:00.000Z</updated>
         <published>2026-05-27T16:00:00.000Z</published>
     </entry>
