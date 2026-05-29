@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-29T02:01:49.430Z</updated>
+    <updated>2026-05-29T04:02:16.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[什么才是「好」的 Android 音频输出？从一台旧日 Xperia 说起]]></title>
+        <id>https://sspai.com/post/110120</id>
+        <link href="https://sspai.com/post/110120"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Copilot gets a speed boost and cleaner design]]></title>
         <id>https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign</id>
@@ -106,37 +113,44 @@
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Threat Actor 'Jinx-0164' Targets Crypto Firms with Custom macOS Malware]]></title>
-        <id>https://cyber.netsecops.io/articles/new-macos-malware-campaign-jinx-0164-targets-cryptocurrency-firms/</id>
-        <link href="https://cyber.netsecops.io/articles/new-macos-malware-campaign-jinx-0164-targets-cryptocurrency-firms/"/>
+        <title type="html"><![CDATA[We Saw What AI Data Centers Don't Want You to See [video]]]></title>
+        <id>https://www.youtube.com/watch?v=5p426fSlYH4</id>
+        <link href="https://www.youtube.com/watch?v=5p426fSlYH4"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub bans security researcher who posted zero-day Windows exploits]]></title>
-        <id>https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation</id>
-        <link href="https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation"/>
+        <title type="html"><![CDATA[RSQL – High-Performance, Open Source PostgreSQL Client (Tauri v2, React, Rust)]]></title>
+        <id>https://github.com/rust-dd/rsql</id>
+        <link href="https://github.com/rust-dd/rsql"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hacking a Casio F91W digital watch (Bluetooth and OLED display)]]></title>
-        <id>https://github.com/PegorK/F91_Kepler</id>
-        <link href="https://github.com/PegorK/F91_Kepler"/>
+        <title type="html"><![CDATA[The 'Salami Incident' That Has JPMorgan Chase on the Hook for $4.25M]]></title>
+        <id>https://www.wsj.com/finance/banking/the-salami-incident-that-has-jpmorgan-chase-on-the-hook-for-4-25-million-bcfe73f5</id>
+        <link href="https://www.wsj.com/finance/banking/the-salami-incident-that-has-jpmorgan-chase-on-the-hook-for-4-25-million-bcfe73f5"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dell Gets a $9.7B Defense Contract. Trump's Portfolio Stands to Benefit]]></title>
-        <id>https://www.nytimes.com/2026/05/28/us/politics/trump-dell-stock-purchases.html</id>
-        <link href="https://www.nytimes.com/2026/05/28/us/politics/trump-dell-stock-purchases.html"/>
+        <title type="html"><![CDATA[Github's Top Programming Languages Over Time]]></title>
+        <id>https://innovationgraph.github.com/global-metrics/programming-languages</id>
+        <link href="https://innovationgraph.github.com/global-metrics/programming-languages"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Imagine Kickstarter, but doubters get paid if the project flops]]></title>
-        <id>https://trypieces.com/p/as9wuvhp1qwb4NvpMGG2FU</id>
-        <link href="https://trypieces.com/p/as9wuvhp1qwb4NvpMGG2FU"/>
+        <title type="html"><![CDATA[Get your chores done for free as training data in NYC]]></title>
+        <id>https://www.shiftapp.nyc/</id>
+        <link href="https://www.shiftapp.nyc/"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager]]></title>
+        <id>https://github.com/HeidiSQL/HeidiSQL</id>
+        <link href="https://github.com/HeidiSQL/HeidiSQL"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
@@ -148,6 +162,41 @@
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: Imagine Kickstarter, but doubters get paid if the project flops]]></title>
+        <id>https://trypieces.com/p/as9wuvhp1qwb4NvpMGG2FU</id>
+        <link href="https://trypieces.com/p/as9wuvhp1qwb4NvpMGG2FU"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dell Gets a $9.7B Defense Contract. Trump's Portfolio Stands to Benefit]]></title>
+        <id>https://www.nytimes.com/2026/05/28/us/politics/trump-dell-stock-purchases.html</id>
+        <link href="https://www.nytimes.com/2026/05/28/us/politics/trump-dell-stock-purchases.html"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking a Casio F91W digital watch (Bluetooth and OLED display)]]></title>
+        <id>https://github.com/PegorK/F91_Kepler</id>
+        <link href="https://github.com/PegorK/F91_Kepler"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub bans security researcher who posted zero-day Windows exploits]]></title>
+        <id>https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation</id>
+        <link href="https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Threat Actor 'Jinx-0164' Targets Crypto Firms with Custom macOS Malware]]></title>
+        <id>https://cyber.netsecops.io/articles/new-macos-malware-campaign-jinx-0164-targets-cryptocurrency-firms/</id>
+        <link href="https://cyber.netsecops.io/articles/new-macos-malware-campaign-jinx-0164-targets-cryptocurrency-firms/"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Full-Stack Data Scientists for the Agentic Coding World]]></title>
         <id>https://pub.towardsai.net/full-stack-data-scientists-for-the-agentic-coding-world-9e44ba58015e?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/full-stack-data-scientists-for-the-agentic-coding-world-9e44ba58015e?source=rss----98111c9905da---4"/>
@@ -155,225 +204,164 @@
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Still a developer. Just outside. Our latest GitHub Shop collection is here.]]></title>
-        <id>https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/</id>
-        <link href="https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/"/>
+        <title type="html"><![CDATA[Mechanistic origins of catastrophic forgetting: why RL preserves circuits better than SFT?]]></title>
+        <id>https://arxiv.org/abs/2605.28860</id>
+        <link href="https://arxiv.org/abs/2605.28860"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-SVAR Vue Gantt - Build custom Gantt charts for project scheduling
-]]></title>
-        <id>
-https://github.com/svar-widgets/vue-gantt
-</id>
-        <link href="
-https://github.com/svar-widgets/vue-gantt
-"/>
+        <title type="html"><![CDATA[Emergent Semantic Representations in World Models through Physical Interaction without Linguistic Supervision]]></title>
+        <id>https://arxiv.org/abs/2605.28865</id>
+        <link href="https://arxiv.org/abs/2605.28865"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-Three Ways to Convert JSON to TypeScript. Only One Is Deterministic.
-]]></title>
-        <id>
-https://aralroca.hashnode.dev/three-ways-to-convert-json-to-typescript-only-one-is-deterministic
-</id>
-        <link href="
-https://aralroca.hashnode.dev/three-ways-to-convert-json-to-typescript-only-one-is-deterministic
-"/>
+        <title type="html"><![CDATA[Continuity and Ordinality Matter: Constraining Time Series Tokens for Effective Time Series Analysis with Large Language Models]]></title>
+        <id>https://arxiv.org/abs/2605.28866</id>
+        <link href="https://arxiv.org/abs/2605.28866"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React Performance Optimization 2026]]></title>
-        <id>https://dev.to/wdsega/react-performance-optimization-2026-34j8</id>
-        <link href="https://dev.to/wdsega/react-performance-optimization-2026-34j8"/>
+        <title type="html"><![CDATA[PrismFlow: Residual Dynamics for Flow Matching in Time-Series Generation]]></title>
+        <id>https://arxiv.org/abs/2605.28867</id>
+        <link href="https://arxiv.org/abs/2605.28867"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built an open-source tool that reverse-engineers any GitHub repo in 10 seconds]]></title>
-        <id>https://dev.to/sidhant0707/i-built-an-open-source-tool-that-reverse-engineers-any-github-repo-in-10-seconds-323c</id>
-        <link href="https://dev.to/sidhant0707/i-built-an-open-source-tool-that-reverse-engineers-any-github-repo-in-10-seconds-323c"/>
+        <title type="html"><![CDATA[TaxDistill: Improving Metagenomic Taxonomic Annotation via Distilled Genomic Foundation Models]]></title>
+        <id>https://arxiv.org/abs/2605.28868</id>
+        <link href="https://arxiv.org/abs/2605.28868"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Visual CSS Grid Builder in 500 Lines — How fr, minmax, and repeat Actually Compute Sizes]]></title>
-        <id>https://dev.to/sendotltd/a-visual-css-grid-builder-in-500-lines-how-fr-minmax-and-repeat-actually-compute-sizes-56cj</id>
-        <link href="https://dev.to/sendotltd/a-visual-css-grid-builder-in-500-lines-how-fr-minmax-and-repeat-actually-compute-sizes-56cj"/>
+        <title type="html"><![CDATA[Representation Alignment Rests on Linear Structure]]></title>
+        <id>https://arxiv.org/abs/2605.28870</id>
+        <link href="https://arxiv.org/abs/2605.28870"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why AI price estimates lie (and how to anchor them to real market data)]]></title>
-        <id>https://dev.to/weston_thomas_4472566c0ec/why-ai-price-estimates-lie-and-how-to-anchor-them-to-real-market-data-1253</id>
-        <link href="https://dev.to/weston_thomas_4472566c0ec/why-ai-price-estimates-lie-and-how-to-anchor-them-to-real-market-data-1253"/>
+        <title type="html"><![CDATA[Pre-Registering the Detectable Effect: A Paired-MDE Budget for 4-bit Quantization Benchmarks, with a Pilot Audit]]></title>
+        <id>https://arxiv.org/abs/2605.28873</id>
+        <link href="https://arxiv.org/abs/2605.28873"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Chrome extension that switches localhost/staging/production URLs]]></title>
-        <id>https://dev.to/ttcd77/build-a-chrome-extension-that-switches-localhoststagingproduction-urls-28hc</id>
-        <link href="https://dev.to/ttcd77/build-a-chrome-extension-that-switches-localhoststagingproduction-urls-28hc"/>
+        <title type="html"><![CDATA[Spectral Guidance for Flexible and Efficient Control of Diffusion Models]]></title>
+        <id>https://arxiv.org/abs/2605.28900</id>
+        <link href="https://arxiv.org/abs/2605.28900"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bQuery.js Grows Up: From Tiny jQuery Tribute to a Full-Stack Framework — and a Brand New Home at bquery.js.org 🎉]]></title>
-        <id>https://dev.to/josunlp/bqueryjs-grows-up-from-tiny-jquery-tribute-to-a-full-stack-framework-and-a-brand-new-home-at-1paa</id>
-        <link href="https://dev.to/josunlp/bqueryjs-grows-up-from-tiny-jquery-tribute-to-a-full-stack-framework-and-a-brand-new-home-at-1paa"/>
+        <title type="html"><![CDATA[CosmicFish-HRM: Adaptive Reasoning via Hierarchical Recurrent Mechanisms in Compact Language Models]]></title>
+        <id>https://arxiv.org/abs/2605.28919</id>
+        <link href="https://arxiv.org/abs/2605.28919"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cansado do algoritmo do LinkedIn? Criei um "terminal" em Vanilla JS para forçar buscas limpas]]></title>
-        <id>https://dev.to/matheuscsnt/cansado-do-algoritmo-do-linkedin-criei-um-terminal-em-vanilla-js-para-forcar-buscas-limpas-5aa6</id>
-        <link href="https://dev.to/matheuscsnt/cansado-do-algoritmo-do-linkedin-criei-um-terminal-em-vanilla-js-para-forcar-buscas-limpas-5aa6"/>
+        <title type="html"><![CDATA[Comparing Post-Hoc Explainable AI Methods for Interpreting Black-Box EEG Models in Depression Detection]]></title>
+        <id>https://arxiv.org/abs/2605.28977</id>
+        <link href="https://arxiv.org/abs/2605.28977"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Express Middleware — What It Actually Is and How It Really Works]]></title>
-        <id>https://dev.to/chinwuba_jeffrey/express-middleware-what-it-actually-is-and-how-it-really-works-2c3g</id>
-        <link href="https://dev.to/chinwuba_jeffrey/express-middleware-what-it-actually-is-and-how-it-really-works-2c3g"/>
+        <title type="html"><![CDATA[LoRe: Adaptive Interaction-Evaluation Routing with Per-Step Interaction Budgets for Iterative Graph Solvers]]></title>
+        <id>https://arxiv.org/abs/2605.29005</id>
+        <link href="https://arxiv.org/abs/2605.29005"/>
         <updated>2026-05-28T16:00:00.000Z</updated>
         <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等]]></title>
-        <id>https://sspai.com/post/110368</id>
-        <link href="https://sspai.com/post/110368"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Causal Intelligence for Constraint-Aware Intervention Design to Induce State Transitions]]></title>
+        <id>https://arxiv.org/abs/2605.29008</id>
+        <link href="https://arxiv.org/abs/2605.29008"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[从原理到实践：年轻人的第一篇染发及洗护指南]]></title>
-        <id>https://sspai.com/prime/story/hair-dye-tutorial</id>
-        <link href="https://sspai.com/prime/story/hair-dye-tutorial"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Return-to-Go Is More Than a Number: Q-Guided Alignment for Return-Conditioned Supervised Learning]]></title>
+        <id>https://arxiv.org/abs/2605.29028</id>
+        <link href="https://arxiv.org/abs/2605.29028"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qualcomm promises $300 Windows laptops with new Snapdragon C]]></title>
-        <id>https://www.theverge.com/tech/938665/qualcomm-promises-300-windows-laptops-with-new-snapdragon-c</id>
-        <link href="https://www.theverge.com/tech/938665/qualcomm-promises-300-windows-laptops-with-new-snapdragon-c"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Parallel Adaptive Multi-Objective Evolutionary Learning of Discretized Bayesian Network Classifiers for Clinical Data]]></title>
+        <id>https://arxiv.org/abs/2605.29058</id>
+        <link href="https://arxiv.org/abs/2605.29058"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Official: Intel’s first handheld gaming chip is the Arc G3 and this Acer is using it]]></title>
-        <id>https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming</id>
-        <link href="https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Ensemble Score Filtering for Real-Data Energy Consumption Forecast Correction]]></title>
+        <id>https://arxiv.org/abs/2605.29072</id>
+        <link href="https://arxiv.org/abs/2605.29072"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You can print, slice, and engrave using this desktop crafting machine]]></title>
-        <id>https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter</id>
-        <link href="https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Knowledge Offloading: Decomposing LLMs into Sparse Backbones and Memory Modules]]></title>
+        <id>https://arxiv.org/abs/2605.29075</id>
+        <link href="https://arxiv.org/abs/2605.29075"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube will let you ask AI to make a custom video feed]]></title>
-        <id>https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability</id>
-        <link href="https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Optimal Gap-Dependent Regret for Private Stochastic Decision-Theoretic Online Learning]]></title>
+        <id>https://arxiv.org/abs/2605.29148</id>
+        <link href="https://arxiv.org/abs/2605.29148"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons]]></title>
-        <id>https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai</id>
-        <link href="https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Do Deep Networks Forget Initialization? A Forgetting-Time View of Practical Inductive Bias]]></title>
+        <id>https://arxiv.org/abs/2605.29152</id>
+        <link href="https://arxiv.org/abs/2605.29152"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These are my favorite Switch 2 accessories]]></title>
-        <id>https://www.theverge.com/buying-guides/720160/best-switch-2-accessories</id>
-        <link href="https://www.theverge.com/buying-guides/720160/best-switch-2-accessories"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[RUBRIC-ARROW: Alternating Pointwise Rubric Reward Modeling for LLM Post-training in Non-verifiable Domains]]></title>
+        <id>https://arxiv.org/abs/2605.29156</id>
+        <link href="https://arxiv.org/abs/2605.29156"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This sound card could give gamers a competitive edge]]></title>
-        <id>https://www.theverge.com/tech/938861/fosi-audio-c3-gaming-sound-card-headphone-app-fps-audio-boost</id>
-        <link href="https://www.theverge.com/tech/938861/fosi-audio-c3-gaming-sound-card-headphone-app-fps-audio-boost"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[PROTOCOL: Late Interaction Retrieval for Protein Homolog Search]]></title>
+        <id>https://arxiv.org/abs/2605.29158</id>
+        <link href="https://arxiv.org/abs/2605.29158"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House]]></title>
-        <id>https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/</id>
-        <link href="https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Evolutionary Refinement of Generative Graph Topologies: A Hybrid WGAN-GA Approach]]></title>
+        <id>https://arxiv.org/abs/2605.29161</id>
+        <link href="https://arxiv.org/abs/2605.29161"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme]]></title>
-        <id>https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/</id>
-        <link href="https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Probabilistic bias adjustment of seasonal forecasts using generative machine learning: A case study of Arctic sea ice predictions]]></title>
+        <id>https://arxiv.org/abs/2605.29172</id>
+        <link href="https://arxiv.org/abs/2605.29172"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canon EOS R6 Mark III Review: A Serious Upgrade]]></title>
-        <id>https://www.wired.com/review/canon-eos-r6-mark-iii-camera/</id>
-        <link href="https://www.wired.com/review/canon-eos-r6-mark-iii-camera/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vertu wants CEOs to run companies from an AI foldable starting at $6,880]]></title>
-        <id>https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/</id>
-        <link href="https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us]]></title>
-        <id>https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/</id>
-        <link href="https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans]]></title>
-        <id>https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/</id>
-        <link href="https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CrowdStrike and Google take down botnet used by hackers to target open source software developers]]></title>
-        <id>https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/</id>
-        <link href="https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand]]></title>
-        <id>https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/</id>
-        <link href="https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’]]></title>
-        <id>https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/</id>
-        <link href="https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's iOS 27 Siri Overhaul and AI Features Previewed in New Images]]></title>
-        <id>https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features</id>
-        <link href="https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <published>2026-05-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback]]></title>
+        <id>https://arxiv.org/abs/2605.29184</id>
+        <link href="https://arxiv.org/abs/2605.29184"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <published>2026-05-28T16:00:00.000Z</published>
     </entry>
 </feed>
