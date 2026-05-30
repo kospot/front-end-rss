@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-30 23:03:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-31 06:01:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
@@ -13,4 +13,3 @@
 - [2026-05-13-Practical-Interface-Patterns-For-AI-Transparency-Part-2](https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/) 
 - [2026-05-06-The-Architecture-Of-Local-First-Web-Development](https://smashingmagazine.com/2026/05/architecture-local-first-web-development/) 
 - [2026-05-05-Rethinking-The-Experience-Of-System-Tools](https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/) 
-- [2026-05-01-Designing-Stable-Interfaces-For-Streaming-Content](https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/) 
