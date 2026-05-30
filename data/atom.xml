@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-30T13:03:08.814Z</updated>
+    <updated>2026-05-30T15:03:17.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[This is the James Bond game we’ve been waiting for]]></title>
-        <id>https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer</id>
-        <link href="https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer"/>
+        <title type="html"><![CDATA[Some of our favorite art TVs are more than 40 percent off this weekend]]></title>
+        <id>https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal</id>
+        <link href="https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Arduboy FX-C is an excellent time killer you might forget you’re carrying]]></title>
+        <id>https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on</id>
+        <link href="https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech companies desperately want to film you doing chores]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
@@ -29,9 +43,9 @@
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tech companies desperately want to film you doing chores]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data"/>
+        <title type="html"><![CDATA[This is the James Bond game we’ve been waiting for]]></title>
+        <id>https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer</id>
+        <link href="https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
@@ -78,6 +92,20 @@
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026]]></title>
+        <id>https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/</id>
+        <link href="https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This $300 pizza oven can easily help elevate your summer pizza nights]]></title>
+        <id>https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/</id>
+        <link href="https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What happens when companies become too AI-pilled?]]></title>
         <id>https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/</id>
         <link href="https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/"/>
@@ -85,268 +113,170 @@
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust Will Save Linux from AI]]></title>
-        <id>https://www.zdnet.com/article/rust-will-save-linux-from-ai-says-greg-kroah-hartman/</id>
-        <link href="https://www.zdnet.com/article/rust-will-save-linux-from-ai-says-greg-kroah-hartman/"/>
+        <title type="html"><![CDATA[Show HN: Extend AI turns a voice note into posts that sound like you]]></title>
+        <id>https://extend.redsystem.dev</id>
+        <link href="https://extend.redsystem.dev"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samsung Throws Its Support Behind Digital ID]]></title>
-        <id>https://reclaimthenet.org/samsung-throws-its-support-behind-digital-id</id>
-        <link href="https://reclaimthenet.org/samsung-throws-its-support-behind-digital-id"/>
+        <title type="html"><![CDATA[Seriously Off-Topic, But: Things My Girlfriend and I Have Argued About]]></title>
+        <id>http://thingsmygirlfriendandihavearguedabout.com/</id>
+        <link href="http://thingsmygirlfriendandihavearguedabout.com/"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Espresso Tastes Different Every Minute: Science Explains Coffee Physics]]></title>
-        <id>https://brieflycurious.com/espresso-tastes-different-physics-coffee-bed/</id>
-        <link href="https://brieflycurious.com/espresso-tastes-different-physics-coffee-bed/"/>
+        <title type="html"><![CDATA[Canonical takes over Flutter desktop maintenance]]></title>
+        <id>https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained</id>
+        <link href="https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DocumentAI Visual Benchmark - GPT 5.5, Gemini 3.5, Qwen...]]></title>
-        <id>https://www.maltebuettner.eu/posts/documentai-bbox-benchmark</id>
-        <link href="https://www.maltebuettner.eu/posts/documentai-bbox-benchmark"/>
+        <title type="html"><![CDATA[Semantic knowledge (TF-IDF and tool-IDF and clustering) from Claude sessions]]></title>
+        <id>https://github.com/chigichan24/crune</id>
+        <link href="https://github.com/chigichan24/crune"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nike World Cup Uniforms Made of Recycled Textiles Won't Solve Fashion Waste]]></title>
-        <id>https://www.wired.com/story/nike-recycled-world-cup-uniforms/</id>
-        <link href="https://www.wired.com/story/nike-recycled-world-cup-uniforms/"/>
+        <title type="html"><![CDATA[Is Astranis Preparing for Acquisition via SPAC?]]></title>
+        <id>https://shielddigitaldesign.com/posts/2026/astranis-acquisition/</id>
+        <link href="https://shielddigitaldesign.com/posts/2026/astranis-acquisition/"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Full-Pipeline Inference Optimization for MiMo-v2.5 Series]]></title>
-        <id>https://mimo.xiaomi.com/blog/mimo-v2-5-inference</id>
-        <link href="https://mimo.xiaomi.com/blog/mimo-v2-5-inference"/>
+        <title type="html"><![CDATA[AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers]]></title>
+        <id>https://jackmaguire.org/blog/ai-job-grief/</id>
+        <link href="https://jackmaguire.org/blog/ai-job-grief/"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Software Companies Are Making Weird Physical Objects Now. Here's Why]]></title>
-        <id>https://www.inc.com/connor-jewiss/software-companies-are-making-weird-physical-objects-now-heres-why/91352578</id>
-        <link href="https://www.inc.com/connor-jewiss/software-companies-are-making-weird-physical-objects-now-heres-why/91352578"/>
+        <title type="html"><![CDATA[Leap 71 Computational Engineering Podcast [video]]]></title>
+        <id>https://www.youtube.com/watch?v=OI4v77ONPlc</id>
+        <link href="https://www.youtube.com/watch?v=OI4v77ONPlc"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Four Privacy Enforcement Priorities Emerge Among States]]></title>
-        <id>https://news.bloomberglaw.com/privacy-and-data-security/four-privacy-enforcement-priorities-emerge-among-states</id>
-        <link href="https://news.bloomberglaw.com/privacy-and-data-security/four-privacy-enforcement-priorities-emerge-among-states"/>
+        <title type="html"><![CDATA[The RIGGED attention system of this website needs to be ERADICATED]]></title>
+        <id>https://news.ycombinator.com/item?id=48336679</id>
+        <link href="https://news.ycombinator.com/item?id=48336679"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More State Data Laws Signal Companies to Act on AI and Privacy]]></title>
-        <id>https://news.bloomberglaw.com/us-law-week/more-state-data-laws-signal-companies-to-act-on-ai-and-privacy</id>
-        <link href="https://news.bloomberglaw.com/us-law-week/more-state-data-laws-signal-companies-to-act-on-ai-and-privacy"/>
+        <title type="html"><![CDATA[GrafoPropagation Strong Model [video]]]></title>
+        <id>https://www.tiktok.com/@claudio.fernandes165/video/7645614973263056161</id>
+        <link href="https://www.tiktok.com/@claudio.fernandes165/video/7645614973263056161"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lisa Su Address to MIT Class of 2026 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=vQMQjHv5pEM</id>
-        <link href="https://www.youtube.com/watch?v=vQMQjHv5pEM"/>
+        <title type="html"><![CDATA[The Importance of Out-of-Band Metadata for Safe Autonomous Agents [Redpanda]]]></title>
+        <id>https://arxiv.org/abs/2605.29082</id>
+        <link href="https://arxiv.org/abs/2605.29082"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NPM Packages Attacks]]></title>
-        <id>https://news.ycombinator.com/item?id=48333319</id>
-        <link href="https://news.ycombinator.com/item?id=48333319"/>
+        <title type="html"><![CDATA[AWS Interconnect – multicloud now offers a free 500 Mbps tier]]></title>
+        <id>https://aws.amazon.com/about-aws/whats-new/2026/05/aws-interconnect-multicloud-offers-free-500-mbps-tier/</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2026/05/aws-interconnect-multicloud-offers-free-500-mbps-tier/"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)]]></title>
-        <id>http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html</id>
-        <link href="http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html"/>
+        <title type="html"><![CDATA[AI coding agents ships at the cost of intuition and taste]]></title>
+        <id>https://shivekkhurana.com/blog/coding-agent-dopamine/</id>
+        <link href="https://shivekkhurana.com/blog/coding-agent-dopamine/"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenRCT2 v0.5.1 "Swamp Castle" released Last version to support Windows 7]]></title>
-        <id>https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released</id>
-        <link href="https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released"/>
+        <title type="html"><![CDATA[Powerful A.I. Super PACs Duel over the Midterms: 'This Is a War']]></title>
+        <id>https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html</id>
+        <link href="https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guitar Tools – PWA for Scales, Circle of Fifths and More]]></title>
-        <id>https://guitar-tools.eejalab.xyz/</id>
-        <link href="https://guitar-tools.eejalab.xyz/"/>
+        <title type="html"><![CDATA[More efficient Earth–Moon transfer]]></title>
+        <id>https://link.springer.com/article/10.1007/s42064-025-0297-x</id>
+        <link href="https://link.springer.com/article/10.1007/s42064-025-0297-x"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cathy Tie's mission to genetically modify babies]]></title>
-        <id>https://www.theguardian.com/science/2026/may/30/there-is-no-way-to-stop-this-biotech-barbie-cathy-tie-on-her-mission-to-genetically-modify-babies</id>
-        <link href="https://www.theguardian.com/science/2026/may/30/there-is-no-way-to-stop-this-biotech-barbie-cathy-tie-on-her-mission-to-genetically-modify-babies"/>
+        <title type="html"><![CDATA[Earliest evidence for invasive mitigation of dental caries by Neanderthals]]></title>
+        <id>https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0347662</id>
+        <link href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0347662"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["The Apple Boogie" 1987 Mac Promo Album Cassette Tape [video]]]></title>
-        <id>https://www.youtube.com/watch?v=chJHB-btMNI</id>
-        <link href="https://www.youtube.com/watch?v=chJHB-btMNI"/>
+        <title type="html"><![CDATA[Automate your version control with, GitMo]]></title>
+        <id>https://github.com/KyleBenzle/GitMo</id>
+        <link href="https://github.com/KyleBenzle/GitMo"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We open source our threejs based game engine]]></title>
-        <id>https://buildwithstem.com</id>
-        <link href="https://buildwithstem.com"/>
+        <title type="html"><![CDATA[Windows Reactor – React like WinUI 3 framework]]></title>
+        <id>https://github.com/microsoft/microsoft-ui-reactor</id>
+        <link href="https://github.com/microsoft/microsoft-ui-reactor"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Restoring macOS on an Intel T2 Mac via Target Disk Mode from Apple Silicon]]></title>
-        <id>https://it-solutions-usa.github.io/mac-admin/reports/macos_restore_tdm_report.html</id>
-        <link href="https://it-solutions-usa.github.io/mac-admin/reports/macos_restore_tdm_report.html"/>
+        <title type="html"><![CDATA[Prism is a purpose-built, redundant, global broadcasting platform]]></title>
+        <id>https://www.prism18.com/</id>
+        <link href="https://www.prism18.com/"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aedis – An open-source macroeconomic framework for the AI transition Body]]></title>
-        <id>https://github.com/rand55/project-aedis-framework/tree/main</id>
-        <link href="https://github.com/rand55/project-aedis-framework/tree/main"/>
+        <title type="html"><![CDATA[After decades risking arrest, South Korea's tattoo artists step into limelight]]></title>
+        <id>https://www.bbc.com/news/articles/cg4pwdn6130o</id>
+        <link href="https://www.bbc.com/news/articles/cg4pwdn6130o"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the West Lost to China in EVs [video]]]></title>
-        <id>https://www.youtube.com/watch?v=UhhZu0ZHdw4</id>
-        <link href="https://www.youtube.com/watch?v=UhhZu0ZHdw4"/>
+        <title type="html"><![CDATA[Perry Compiles TypeScript directly to executables using SWC and LLVM]]></title>
+        <id>https://www.perryts.com/</id>
+        <link href="https://www.perryts.com/"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mac External Display Support by Chip]]></title>
-        <id>https://retinadesk.com/tools/external-display-support/</id>
-        <link href="https://retinadesk.com/tools/external-display-support/"/>
+        <title type="html"><![CDATA[Show HN: VT Code – open-source terminal coding agent in Rust]]></title>
+        <id>https://github.com/vinhnx/VTCode</id>
+        <link href="https://github.com/vinhnx/VTCode"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stephen Hawking's father worried his son 'does not study much', diaries reveal]]></title>
-        <id>https://www.theguardian.com/science/2026/may/23/stephen-hawking-father-worried-son-does-not-study-much-diaries</id>
-        <link href="https://www.theguardian.com/science/2026/may/23/stephen-hawking-father-worried-son-does-not-study-much-diaries"/>
+        <title type="html"><![CDATA[What's Next in Computer Graphics? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=sIcGH3M5yPc</id>
+        <link href="https://www.youtube.com/watch?v=sIcGH3M5yPc"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed]]></title>
-        <id>https://github.com/schildep/verified-polygon-intersection</id>
-        <link href="https://github.com/schildep/verified-polygon-intersection"/>
+        <title type="html"><![CDATA[Project Feather – Faster local mode Spark]]></title>
+        <id>https://docs.google.com/document/u/0/d/1Nphejrf_vh4YRECn0JPgKClqxDS_lB6wufZFJQxyY98/edit</id>
+        <link href="https://docs.google.com/document/u/0/d/1Nphejrf_vh4YRECn0JPgKClqxDS_lB6wufZFJQxyY98/edit"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In situ cryo-ET defines the ultrastructure of ER exit sites in human cells]]></title>
-        <id>https://www.nature.com/articles/s41556-026-01964-2</id>
-        <link href="https://www.nature.com/articles/s41556-026-01964-2"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Textile Markup Language Documentation]]></title>
-        <id>https://textile-lang.com/</id>
-        <link href="https://textile-lang.com/"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic test could spare millions of breast cancer patients chemotherapy]]></title>
-        <id>https://www.theguardian.com/society/2026/may/29/groundbreaking-genomic-test-spare-breast-cancer-patients-chemotherapy-hormone-therapy</id>
-        <link href="https://www.theguardian.com/society/2026/may/29/groundbreaking-genomic-test-spare-breast-cancer-patients-chemotherapy-hormone-therapy"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The CNF Illusion: Navigating the Realities of Cloud-Native Networking]]></title>
-        <id>https://vahidhashemi.com/2026/05/29/the-cnf-illusion-navigating-the-realities-of-cloud-native-networking/</id>
-        <link href="https://vahidhashemi.com/2026/05/29/the-cnf-illusion-navigating-the-realities-of-cloud-native-networking/"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple M1 Chip Deep-Dive [video]]]></title>
-        <id>https://www.youtube.com/watch?v=mHEWMiHgyU8</id>
-        <link href="https://www.youtube.com/watch?v=mHEWMiHgyU8"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gnome 2.20 but it's Web Components]]></title>
-        <id>https://bennypowers.dev/posts/gnome-2-web/</id>
-        <link href="https://bennypowers.dev/posts/gnome-2-web/"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Oscar Levant Show (1958)]]></title>
-        <id>https://archive.org/details/TheOscarLevantShow</id>
-        <link href="https://archive.org/details/TheOscarLevantShow"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICANN director and African internet pioneer Barrett dies – Domain Incite]]></title>
-        <id>https://domainincite.com/31750-icann-director-and-african-internet-pioneer-barrett-dies</id>
-        <link href="https://domainincite.com/31750-icann-director-and-african-internet-pioneer-barrett-dies"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists found the optimal robot body, and it has 20 legs]]></title>
-        <id>https://www.livescience.com/technology/robotics/scientists-found-the-optimal-robot-body-and-it-has-20-legs-watch-it-scale-walls-and-move-through-trees</id>
-        <link href="https://www.livescience.com/technology/robotics/scientists-found-the-optimal-robot-body-and-it-has-20-legs-watch-it-scale-walls-and-move-through-trees"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iownthis.page – one link that tells your whole story]]></title>
-        <id>https://iownthis.page/</id>
-        <link href="https://iownthis.page/"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit blocks JSON API access, which leaves read-only apps like RDX unusable]]></title>
-        <id>https://lemmy.world/post/47486620</id>
-        <link href="https://lemmy.world/post/47486620"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turn a folder of PDFs into a live JSON API]]></title>
-        <id>https://parseapi.dev/blog/show-hn-folder-to-json-api</id>
-        <link href="https://parseapi.dev/blog/show-hn-folder-to-json-api"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The early days – Steve Wozniak – TEDxBerkeley [video]]]></title>
-        <id>https://www.youtube.com/watch?v=PwSyjz1off4</id>
-        <link href="https://www.youtube.com/watch?v=PwSyjz1off4"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free website audit tool – enter a URL, get actionable fixes]]></title>
-        <id>https://outboundautonomy.com/audit</id>
-        <link href="https://outboundautonomy.com/audit"/>
-        <updated>2026-05-29T16:00:00.000Z</updated>
-        <published>2026-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Der Spiegel has made Nazi party membership cards searchable]]></title>
-        <id>https://www.spiegel.de/international/nazi-card-index-digitized-the-lies-come-to-an-end-a-22bfa301-397f-4fef-9878-f30f327c6d58</id>
-        <link href="https://www.spiegel.de/international/nazi-card-index-digitized-the-lies-come-to-an-end-a-22bfa301-397f-4fef-9878-f30f327c6d58"/>
+        <title type="html"><![CDATA[Hacker News MCP Server]]></title>
+        <id>https://github.com/devrelopers/hackernews-mcp</id>
+        <link href="https://github.com/devrelopers/hackernews-mcp"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
@@ -358,9 +288,79 @@
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hacker News MCP Server]]></title>
-        <id>https://github.com/devrelopers/hackernews-mcp</id>
-        <link href="https://github.com/devrelopers/hackernews-mcp"/>
+        <title type="html"><![CDATA[Der Spiegel has made Nazi party membership cards searchable]]></title>
+        <id>https://www.spiegel.de/international/nazi-card-index-digitized-the-lies-come-to-an-end-a-22bfa301-397f-4fef-9878-f30f327c6d58</id>
+        <link href="https://www.spiegel.de/international/nazi-card-index-digitized-the-lies-come-to-an-end-a-22bfa301-397f-4fef-9878-f30f327c6d58"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free website audit tool – enter a URL, get actionable fixes]]></title>
+        <id>https://outboundautonomy.com/audit</id>
+        <link href="https://outboundautonomy.com/audit"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The early days – Steve Wozniak – TEDxBerkeley [video]]]></title>
+        <id>https://www.youtube.com/watch?v=PwSyjz1off4</id>
+        <link href="https://www.youtube.com/watch?v=PwSyjz1off4"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turn a folder of PDFs into a live JSON API]]></title>
+        <id>https://parseapi.dev/blog/show-hn-folder-to-json-api</id>
+        <link href="https://parseapi.dev/blog/show-hn-folder-to-json-api"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit blocks JSON API access, which leaves read-only apps like RDX unusable]]></title>
+        <id>https://lemmy.world/post/47486620</id>
+        <link href="https://lemmy.world/post/47486620"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iownthis.page – one link that tells your whole story]]></title>
+        <id>https://iownthis.page/</id>
+        <link href="https://iownthis.page/"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists found the optimal robot body, and it has 20 legs]]></title>
+        <id>https://www.livescience.com/technology/robotics/scientists-found-the-optimal-robot-body-and-it-has-20-legs-watch-it-scale-walls-and-move-through-trees</id>
+        <link href="https://www.livescience.com/technology/robotics/scientists-found-the-optimal-robot-body-and-it-has-20-legs-watch-it-scale-walls-and-move-through-trees"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICANN director and African internet pioneer Barrett dies – Domain Incite]]></title>
+        <id>https://domainincite.com/31750-icann-director-and-african-internet-pioneer-barrett-dies</id>
+        <link href="https://domainincite.com/31750-icann-director-and-african-internet-pioneer-barrett-dies"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Oscar Levant Show (1958)]]></title>
+        <id>https://archive.org/details/TheOscarLevantShow</id>
+        <link href="https://archive.org/details/TheOscarLevantShow"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gnome 2.20 but it's Web Components]]></title>
+        <id>https://bennypowers.dev/posts/gnome-2-web/</id>
+        <link href="https://bennypowers.dev/posts/gnome-2-web/"/>
+        <updated>2026-05-29T16:00:00.000Z</updated>
+        <published>2026-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple M1 Chip Deep-Dive [video]]]></title>
+        <id>https://www.youtube.com/watch?v=mHEWMiHgyU8</id>
+        <link href="https://www.youtube.com/watch?v=mHEWMiHgyU8"/>
         <updated>2026-05-29T16:00:00.000Z</updated>
         <published>2026-05-29T16:00:00.000Z</published>
     </entry>
