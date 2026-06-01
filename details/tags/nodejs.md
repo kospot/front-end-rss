@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-01 08:01:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-01 10:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -232,6 +232,7 @@ https://pompelmi.app/index.html
 - [2026-05-23-The-memory-shortage-is-causing-a-repricing-of-consumer-electronics](https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything) 
 - [2026-05-22-Not-Every-Node-in-Your-Agent-Needs-an-LLM](https://pub.towardsai.net/not-every-node-in-your-agent-needs-an-llm-853f314d2ef0?source=rss----98111c9905da---4) 
 - [2026-05-22-Gene-Expression-and-Network-Analysis-of-COVID-19–Associated-Thrombosis-Using-the-DICE-Algorithm](https://pub.towardsai.net/gene-expression-and-network-analysis-of-covid-19-associated-thrombosis-using-the-dice-algorithm-2b10b1c3b5a1?source=rss----98111c9905da---4) 
+- [2026-06-01-Club-Car-Introduces-Electronic-Park-Brake-That-Requires-$500-Tool](https://consumerrights.wiki/w/Club_Car_Introduces_Electronic_Park_Brake_That_Requires_$500_Tool) 
 - [2026-05-25-LPeg-–-Parsing-Expression-Grammars-for-Lua](https://www.inf.puc-rio.br/~roberto/lpeg/) 
 - [2026-05-23-Mdview-and-the-missing-middle-between-less-and-Electron](https://blog.leonbecker.de/mdview-and-the-missing-middle-between-less-and-electron/) 
 - [2026-05-22-How-Node.js-and-V8-keep-each-other-working](https://joyeecheung.github.io/blog/2026/05/18/how-nodejs-and-v8-keep-each-other-working/) 
@@ -245,6 +246,6 @@ https://pompelmi.app/index.html
 - [2026-05-11-Freenode-IRC-Mathematics-Seminars-2010](https://freenode-math.fandom.com/wiki/Seminars) 
 - [2026-05-10-Open-source-Express.js-dev-panel-for-routes-and-request-logs](https://www.npmjs.com/package/express-dev-panel) 
 - [2026-05-06-Secure-Electronic-Transaction](https://en.wikipedia.org/wiki/Secure_Electronic_Transaction) 
-- [2026-05-04-Package-and-distribute-Electron-apps-with-"auto-update"-support](https://www.electron.build/index.html) 
 - [2026-05-04-Practical-Electronics-Course](https://practicingelectronics.com/practical-electronics-course/) 
+- [2026-05-04-Package-and-distribute-Electron-apps-with-"auto-update"-support](https://www.electron.build/index.html) 
 - [2026-05-13-Ransomware-hackers-claim-breach-at-Foxconn,-a-major-electronics-manufacturer-for-Apple,-Google,-and-Nvidia](https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/) 
