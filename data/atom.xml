@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-01T04:02:16.470Z</updated>
+    <updated>2026-06-01T07:02:57.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Feeble Little Horse leans into digital weirdness on bitknot]]></title>
-        <id>https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review</id>
-        <link href="https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review"/>
+        <title type="html"><![CDATA[This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark]]></title>
+        <id>https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures</id>
+        <link href="https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’]]></title>
+        <id>https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date</id>
+        <link href="https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date"/>
         <updated>2026-05-31T16:00:00.000Z</updated>
         <published>2026-05-31T16:00:00.000Z</published>
     </entry>
@@ -25,6 +32,13 @@
         <title type="html"><![CDATA[Here’s your first look at ‘A Minecraft Movie Squared’ with Kirsten Dunst as Alex]]></title>
         <id>https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex</id>
         <link href="https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feeble Little Horse leans into digital weirdness on bitknot]]></title>
+        <id>https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review</id>
+        <link href="https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review"/>
         <updated>2026-05-31T16:00:00.000Z</updated>
         <published>2026-05-31T16:00:00.000Z</published>
     </entry>
@@ -50,163 +64,44 @@
         <published>2026-05-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The first Vera Rubin NVL72 server rack]]></title>
-        <id>https://twitter.com/i/status/2061118201636036668</id>
-        <link href="https://twitter.com/i/status/2061118201636036668"/>
+        <title type="html"><![CDATA[Rift: Better Alternative to Git Worktrees]]></title>
+        <id>https://github.com/anomalyco/rift</id>
+        <link href="https://github.com/anomalyco/rift"/>
         <updated>2026-05-31T16:00:00.000Z</updated>
         <published>2026-05-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marcus Aurelius Had Anxiety Too – Stoicism for People Who Overthink]]></title>
-        <id>https://stvrrll1ght.substack.com/p/marcus-aurelius-had-anxiety-too-stoicism</id>
-        <link href="https://stvrrll1ght.substack.com/p/marcus-aurelius-had-anxiety-too-stoicism"/>
+        <title type="html"><![CDATA[A 10 year old Xeon is all you need (for 26B-A4B MTP Drafters without GPU)]]></title>
+        <id>https://point.free/blog/gemma-4-on-a-2016-xeon/</id>
+        <link href="https://point.free/blog/gemma-4-on-a-2016-xeon/"/>
         <updated>2026-05-31T16:00:00.000Z</updated>
         <published>2026-05-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[xAI touts 10x performance gain while Ceramic has achieved 80 MFU]]></title>
-        <id>https://www.ceramic.ai/blog/ai-training-stack-performance-how-ceramic-achieved</id>
-        <link href="https://www.ceramic.ai/blog/ai-training-stack-performance-how-ceramic-achieved"/>
+        <title type="html"><![CDATA[Sealed classes and interfaces in Java (2025)]]></title>
+        <id>https://www.baeldung.com/java-sealed-classes-interfaces</id>
+        <link href="https://www.baeldung.com/java-sealed-classes-interfaces"/>
         <updated>2026-05-31T16:00:00.000Z</updated>
         <published>2026-05-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peter Thiel warns AI is threat to technical roles more than to creative thinkers]]></title>
-        <id>https://fortune.com/article/peter-thiel-ai-skills-creative-thinking-technical/</id>
-        <link href="https://fortune.com/article/peter-thiel-ai-skills-creative-thinking-technical/"/>
+        <title type="html"><![CDATA[Show HN: Feedjolt a Feedback tool wiith unlimited seats and developer friendly]]></title>
+        <id>https://www.feedjolt.com/en</id>
+        <link href="https://www.feedjolt.com/en"/>
         <updated>2026-05-31T16:00:00.000Z</updated>
         <published>2026-05-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Instagram exploit allows you to use Meta AI to reset passwords to accounts]]></title>
-        <id>https://xcancel.com/DarkWebInformer/status/2061253599758315527</id>
-        <link href="https://xcancel.com/DarkWebInformer/status/2061253599758315527"/>
+        <title type="html"><![CDATA[My AI Skill Edited This Video That Explains My AI Skill – Arcturus Labs]]></title>
+        <id>https://arcturus-labs.com/blog/2026/05/31/my-ai-skill-edited-this-video-that-explains-my-ai-skill/</id>
+        <link href="https://arcturus-labs.com/blog/2026/05/31/my-ai-skill-edited-this-video-that-explains-my-ai-skill/"/>
         <updated>2026-05-31T16:00:00.000Z</updated>
         <published>2026-05-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Grand Unified Model of DevOps/SRE Dynamics]]></title>
-        <id>https://sigbovik.org/2026/proceedings.pdf#page=897</id>
-        <link href="https://sigbovik.org/2026/proceedings.pdf#page=897"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wasp Colonies Explode into Violence After Losing Their Queen]]></title>
-        <id>https://scitechdaily.com/wasp-colonies-explode-into-violence-after-losing-their-queen/</id>
-        <link href="https://scitechdaily.com/wasp-colonies-explode-into-violence-after-losing-their-queen/"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia GTC Taipei 2026 Keynote [video]]]></title>
-        <id>https://www.youtube.com/watch?v=wSp6AiNIrsY</id>
-        <link href="https://www.youtube.com/watch?v=wSp6AiNIrsY"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Croft: VSCode-style TUI written in Rust]]></title>
-        <id>https://codeberg.org/vitali87/croft</id>
-        <link href="https://codeberg.org/vitali87/croft"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gen Z are 'zebra striping' to avoid hangovers, scientists say it works]]></title>
-        <id>https://www.dailymail.com/sciencetech/article-15854983/Gen-Z-zebra-striping-avoid-hangovers-scientists.html</id>
-        <link href="https://www.dailymail.com/sciencetech/article-15854983/Gen-Z-zebra-striping-avoid-hangovers-scientists.html"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Servers Work: A Hands-On Introduction to TCP Sockets]]></title>
-        <id>https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets</id>
-        <link href="https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taiwan's DRAM Failure [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ehT3U935Pww</id>
-        <link href="https://www.youtube.com/watch?v=ehT3U935Pww"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clint Eastwood Turns 96 as Son Kyle Says the Legendary Director Has "Retired"]]></title>
-        <id>https://www.worldofreel.com/blog/2026/5/31/happy-birthday-clint-eastwood</id>
-        <link href="https://www.worldofreel.com/blog/2026/5/31/happy-birthday-clint-eastwood"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Kiwi Farms was targeted with a historic DDoS attack of up to 8Tbps last week]]></title>
-        <id>https://twitter.com/KiwiFarmsDotNet/status/2061199487855481199</id>
-        <link href="https://twitter.com/KiwiFarmsDotNet/status/2061199487855481199"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten EU countries are breaching the fiscal rules]]></title>
-        <id>https://www.ft.com/content/38119f3e-4570-4367-a014-9c5bd626cfb6</id>
-        <link href="https://www.ft.com/content/38119f3e-4570-4367-a014-9c5bd626cfb6"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europe's "most complex server processor" is running]]></title>
-        <id>https://www.heise.de/en/news/Europe-s-most-complex-server-processor-is-running-11308863.html</id>
-        <link href="https://www.heise.de/en/news/Europe-s-most-complex-server-processor-is-running-11308863.html"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Orchid Mantis – A PoC in Rust for Zero Knowledge Proofs of Exploit]]></title>
-        <id>https://github.com/unprovable/OrchidMantis</id>
-        <link href="https://github.com/unprovable/OrchidMantis"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent-stack – one command to make any repo token-efficient for Claude Code]]></title>
-        <id>https://github.com/drmahdikazempour/agent-stack</id>
-        <link href="https://github.com/drmahdikazempour/agent-stack"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Border Cameras and Childhood: Why AI Age Estimation Fails Asylum Seekers]]></title>
-        <id>https://smarterarticles.co.uk/border-cameras-and-childhood-why-ai-age-estimation-fails-asylum-seekers</id>
-        <link href="https://smarterarticles.co.uk/border-cameras-and-childhood-why-ai-age-estimation-fails-asylum-seekers"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Metaverse and its ghost towns: Why social VR apps are struggling]]></title>
-        <id>https://www.heise.de/en/background/The-Metaverse-and-its-ghost-towns-Why-social-VR-apps-are-struggling-11311515.html</id>
-        <link href="https://www.heise.de/en/background/The-Metaverse-and-its-ghost-towns-Why-social-VR-apps-are-struggling-11311515.html"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whisked: Taste the Local Difference [video]]]></title>
-        <id>https://www.youtube.com/watch?v=DOG-9cQw4IU</id>
-        <link href="https://www.youtube.com/watch?v=DOG-9cQw4IU"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta tool track employee mouse clicks on collision course with EU privacy rules]]></title>
-        <id>https://www.reuters.com/business/meta-tool-track-employee-mouse-clicks-collision-course-with-eu-privacy-rules-2026-05-29/</id>
-        <link href="https://www.reuters.com/business/meta-tool-track-employee-mouse-clicks-collision-course-with-eu-privacy-rules-2026-05-29/"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Club Car Introduces Electronic Park Brake That Requires $500 Tool]]></title>
-        <id>https://consumerrights.wiki/w/Club_Car_Introduces_Electronic_Park_Brake_That_Requires_$500_Tool</id>
-        <link href="https://consumerrights.wiki/w/Club_Car_Introduces_Electronic_Park_Brake_That_Requires_$500_Tool"/>
+        <title type="html"><![CDATA[SlimTide Reviews: A Modern Solution for Metabolism and Energy]]></title>
+        <id>https://finance.yahoo.com/sectors/healthcare/articles/slimtide-capsules-shocking-report-2026-172400089.html</id>
+        <link href="https://finance.yahoo.com/sectors/healthcare/articles/slimtide-capsules-shocking-report-2026-172400089.html"/>
         <updated>2026-05-31T16:00:00.000Z</updated>
         <published>2026-05-31T16:00:00.000Z</published>
     </entry>
@@ -218,9 +113,177 @@
         <published>2026-05-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unity Catalog is Blind. Here’s How We Gave It X‑Ray Vision with Purview.]]></title>
-        <id>https://pub.towardsai.net/unity-catalog-is-blind-heres-how-we-gave-it-x-ray-vision-with-purview-c1565135dfb9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/unity-catalog-is-blind-heres-how-we-gave-it-x-ray-vision-with-purview-c1565135dfb9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Club Car Introduces Electronic Park Brake That Requires $500 Tool]]></title>
+        <id>https://consumerrights.wiki/w/Club_Car_Introduces_Electronic_Park_Brake_That_Requires_$500_Tool</id>
+        <link href="https://consumerrights.wiki/w/Club_Car_Introduces_Electronic_Park_Brake_That_Requires_$500_Tool"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta tool track employee mouse clicks on collision course with EU privacy rules]]></title>
+        <id>https://www.reuters.com/business/meta-tool-track-employee-mouse-clicks-collision-course-with-eu-privacy-rules-2026-05-29/</id>
+        <link href="https://www.reuters.com/business/meta-tool-track-employee-mouse-clicks-collision-course-with-eu-privacy-rules-2026-05-29/"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whisked: Taste the Local Difference [video]]]></title>
+        <id>https://www.youtube.com/watch?v=DOG-9cQw4IU</id>
+        <link href="https://www.youtube.com/watch?v=DOG-9cQw4IU"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Metaverse and its ghost towns: Why social VR apps are struggling]]></title>
+        <id>https://www.heise.de/en/background/The-Metaverse-and-its-ghost-towns-Why-social-VR-apps-are-struggling-11311515.html</id>
+        <link href="https://www.heise.de/en/background/The-Metaverse-and-its-ghost-towns-Why-social-VR-apps-are-struggling-11311515.html"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Border Cameras and Childhood: Why AI Age Estimation Fails Asylum Seekers]]></title>
+        <id>https://smarterarticles.co.uk/border-cameras-and-childhood-why-ai-age-estimation-fails-asylum-seekers</id>
+        <link href="https://smarterarticles.co.uk/border-cameras-and-childhood-why-ai-age-estimation-fails-asylum-seekers"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent-stack – one command to make any repo token-efficient for Claude Code]]></title>
+        <id>https://github.com/drmahdikazempour/agent-stack</id>
+        <link href="https://github.com/drmahdikazempour/agent-stack"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Orchid Mantis – A PoC in Rust for Zero Knowledge Proofs of Exploit]]></title>
+        <id>https://github.com/unprovable/OrchidMantis</id>
+        <link href="https://github.com/unprovable/OrchidMantis"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europe's "most complex server processor" is running]]></title>
+        <id>https://www.heise.de/en/news/Europe-s-most-complex-server-processor-is-running-11308863.html</id>
+        <link href="https://www.heise.de/en/news/Europe-s-most-complex-server-processor-is-running-11308863.html"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten EU countries are breaching the fiscal rules]]></title>
+        <id>https://www.ft.com/content/38119f3e-4570-4367-a014-9c5bd626cfb6</id>
+        <link href="https://www.ft.com/content/38119f3e-4570-4367-a014-9c5bd626cfb6"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Kiwi Farms was targeted with a historic DDoS attack of up to 8Tbps last week]]></title>
+        <id>https://twitter.com/KiwiFarmsDotNet/status/2061199487855481199</id>
+        <link href="https://twitter.com/KiwiFarmsDotNet/status/2061199487855481199"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clint Eastwood Turns 96 as Son Kyle Says the Legendary Director Has "Retired"]]></title>
+        <id>https://www.worldofreel.com/blog/2026/5/31/happy-birthday-clint-eastwood</id>
+        <link href="https://www.worldofreel.com/blog/2026/5/31/happy-birthday-clint-eastwood"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taiwan's DRAM Failure [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ehT3U935Pww</id>
+        <link href="https://www.youtube.com/watch?v=ehT3U935Pww"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Servers Work: A Hands-On Introduction to TCP Sockets]]></title>
+        <id>https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets</id>
+        <link href="https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gen Z are 'zebra striping' to avoid hangovers, scientists say it works]]></title>
+        <id>https://www.dailymail.com/sciencetech/article-15854983/Gen-Z-zebra-striping-avoid-hangovers-scientists.html</id>
+        <link href="https://www.dailymail.com/sciencetech/article-15854983/Gen-Z-zebra-striping-avoid-hangovers-scientists.html"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Croft: VSCode-style TUI written in Rust]]></title>
+        <id>https://codeberg.org/vitali87/croft</id>
+        <link href="https://codeberg.org/vitali87/croft"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia GTC Taipei 2026 Keynote [video]]]></title>
+        <id>https://www.youtube.com/watch?v=wSp6AiNIrsY</id>
+        <link href="https://www.youtube.com/watch?v=wSp6AiNIrsY"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wasp Colonies Explode into Violence After Losing Their Queen]]></title>
+        <id>https://scitechdaily.com/wasp-colonies-explode-into-violence-after-losing-their-queen/</id>
+        <link href="https://scitechdaily.com/wasp-colonies-explode-into-violence-after-losing-their-queen/"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Grand Unified Model of DevOps/SRE Dynamics]]></title>
+        <id>https://sigbovik.org/2026/proceedings.pdf#page=897</id>
+        <link href="https://sigbovik.org/2026/proceedings.pdf#page=897"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram exploit allows you to use Meta AI to reset passwords to accounts]]></title>
+        <id>https://xcancel.com/DarkWebInformer/status/2061253599758315527</id>
+        <link href="https://xcancel.com/DarkWebInformer/status/2061253599758315527"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Thiel warns AI is threat to technical roles more than to creative thinkers]]></title>
+        <id>https://fortune.com/article/peter-thiel-ai-skills-creative-thinking-technical/</id>
+        <link href="https://fortune.com/article/peter-thiel-ai-skills-creative-thinking-technical/"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xAI touts 10x performance gain while Ceramic has achieved 80 MFU]]></title>
+        <id>https://www.ceramic.ai/blog/ai-training-stack-performance-how-ceramic-achieved</id>
+        <link href="https://www.ceramic.ai/blog/ai-training-stack-performance-how-ceramic-achieved"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marcus Aurelius Had Anxiety Too – Stoicism for People Who Overthink]]></title>
+        <id>https://stvrrll1ght.substack.com/p/marcus-aurelius-had-anxiety-too-stoicism</id>
+        <link href="https://stvrrll1ght.substack.com/p/marcus-aurelius-had-anxiety-too-stoicism"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first Vera Rubin NVL72 server rack]]></title>
+        <id>https://twitter.com/i/status/2061118201636036668</id>
+        <link href="https://twitter.com/i/status/2061118201636036668"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried 100+ Claude Code Skills. These 7 Are The Best.]]></title>
+        <id>https://pub.towardsai.net/i-tried-100-claude-code-skills-these-7-are-the-best-f6bfb13d04f5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tried-100-claude-code-skills-these-7-are-the-best-f6bfb13d04f5?source=rss----98111c9905da---4"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 4.8 Is Here — But Is Older Claude Getting Worse?]]></title>
+        <id>https://pub.towardsai.net/claude-opus-4-8-is-here-but-is-older-claude-getting-worse-35f6d5f5ff9f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-opus-4-8-is-here-but-is-older-claude-getting-worse-35f6d5f5ff9f?source=rss----98111c9905da---4"/>
         <updated>2026-05-31T16:00:00.000Z</updated>
         <published>2026-05-31T16:00:00.000Z</published>
     </entry>
@@ -228,6 +291,13 @@
         <title type="html"><![CDATA[The Transformer’s Three Unfinished Promises变压器的三大未竟之诺]]></title>
         <id>https://pub.towardsai.net/the-transformers-three-unfinished-promises%E5%8F%98%E5%8E%8B%E5%99%A8%E7%9A%84%E4%B8%89%E5%A4%A7%E6%9C%AA%E7%AB%9F%E4%B9%8B%E8%AF%BA-39445f8881fc?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/the-transformers-three-unfinished-promises%E5%8F%98%E5%8E%8B%E5%99%A8%E7%9A%84%E4%B8%89%E5%A4%A7%E6%9C%AA%E7%AB%9F%E4%B9%8B%E8%AF%BA-39445f8881fc?source=rss----98111c9905da---4"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <published>2026-05-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity Catalog is Blind. Here’s How We Gave It X‑Ray Vision with Purview.]]></title>
+        <id>https://pub.towardsai.net/unity-catalog-is-blind-heres-how-we-gave-it-x-ray-vision-with-purview-c1565135dfb9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/unity-catalog-is-blind-heres-how-we-gave-it-x-ray-vision-with-purview-c1565135dfb9?source=rss----98111c9905da---4"/>
         <updated>2026-05-31T16:00:00.000Z</updated>
         <published>2026-05-31T16:00:00.000Z</published>
     </entry>
@@ -291,76 +361,6 @@
         <title type="html"><![CDATA[DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers]]></title>
         <id>https://arxiv.org/abs/2605.30456</id>
         <link href="https://arxiv.org/abs/2605.30456"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[idSCD: Identifying Training Datasets through Semantic Correlation Descriptors]]></title>
-        <id>https://arxiv.org/abs/2605.30462</id>
-        <link href="https://arxiv.org/abs/2605.30462"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discovering a Zeta Map Algorithm on Dyck Paths via Mechanistic Interpretability]]></title>
-        <id>https://arxiv.org/abs/2605.30482</id>
-        <link href="https://arxiv.org/abs/2605.30482"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph-Conditioned Mixture of Graph Neural Network Experts for Traffic Forecasting]]></title>
-        <id>https://arxiv.org/abs/2605.30486</id>
-        <link href="https://arxiv.org/abs/2605.30486"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAAT: Multi-phase Adapter-Aware Targeted Unlearning]]></title>
-        <id>https://arxiv.org/abs/2605.30514</id>
-        <link href="https://arxiv.org/abs/2605.30514"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revisiting Padded Transformer Expressivity: Which Architectural Choices Matter and Which Don't]]></title>
-        <id>https://arxiv.org/abs/2605.30523</id>
-        <link href="https://arxiv.org/abs/2605.30523"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Representation Collapse in Sequential Post-Training of Large Language Models]]></title>
-        <id>https://arxiv.org/abs/2605.30524</id>
-        <link href="https://arxiv.org/abs/2605.30524"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DisasterLex: An Expert Concept-to-Schema Knowledge Graph for Geospatial Reasoning in Disaster Analytics]]></title>
-        <id>https://arxiv.org/abs/2605.30538</id>
-        <link href="https://arxiv.org/abs/2605.30538"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SubsurfaceGen: Procedural Generation of Field-Scale Earth Models and Seismic Data]]></title>
-        <id>https://arxiv.org/abs/2605.30541</id>
-        <link href="https://arxiv.org/abs/2605.30541"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarking Machine Learning Uncertainty Quantification Methodologies for Predicting Turbine Gas Temperature Degradation]]></title>
-        <id>https://arxiv.org/abs/2605.30585</id>
-        <link href="https://arxiv.org/abs/2605.30585"/>
-        <updated>2026-05-31T16:00:00.000Z</updated>
-        <published>2026-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientific Machine Learning for Engine Health Management and Remaining Useful Life Prediction]]></title>
-        <id>https://arxiv.org/abs/2605.30593</id>
-        <link href="https://arxiv.org/abs/2605.30593"/>
         <updated>2026-05-31T16:00:00.000Z</updated>
         <published>2026-05-31T16:00:00.000Z</published>
     </entry>
