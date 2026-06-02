@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-02 12:02:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-02 15:05:18。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -244,8 +244,8 @@ https://svar.dev/blog/svar-vue-components-released/
 - [【GitHub Trending JS】-Runtime-Errors-in-PWAs:-Risk-Surface-and-Mitigation-](
 https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 )
-- [【Hacker News】Canonical-takes-over-Flutter-desktop-maintenance](https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained)
 - [【Hacker News】Guitar-Tools-–-PWA-for-Scales,-Circle-of-Fifths-and-More](https://guitar-tools.eejalab.xyz/)
+- [【Hacker News】Canonical-takes-over-Flutter-desktop-maintenance](https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained)
 - [【Hacker News】PWABuilder](https://pwabuilder.com/)
 - [......【查看更多】......](/details/tags/dev-mobile.md)
 
@@ -655,8 +655,8 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 - [【Hacker News】Sam-Altman-makes-'mic-drop'-offer-to-every-Y-Combinator-startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/)
 - [【Hacker News】OpenAI-is-offering-ChatGPT-Plus-to-citizens-of-Malta-for-a-year](https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/)
 - [【Hacker News】Google-now-offers-up-to-$1.5M-for-some-Android-exploits](https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/)
-- [【Hacker News】Midori,-the-first-browser-to-offer-a-VPN-with-Mesh-technology](https://astian.org/midori-en/performance-adblock-and-more-in-midori-11-7-1/)
 - [【Hacker News】GameStop-Is-Offering-to-Buy-eBay-for-$56B,-CEO-Ryan-Cohen-Says](https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a)
+- [【Hacker News】Midori,-the-first-browser-to-offer-a-VPN-with-Mesh-technology](https://astian.org/midori-en/performance-adblock-and-more-in-midori-11-7-1/)
 - [【TechCrunch】Sam-Altman-makes-‘mic-drop’-offer-to-every-Y-Combinator-startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/)
 - [【TechCrunch】The-Path,-founded-by-Tony-Robbins-and-Calm-alums,-hopes-to-offer-safer-AI-therapy](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/)
 - [【TechCrunch】NanoClaw-creator-turns-down-$20M-buyout-offer,-raises-$12M-seed-instead](https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/)
