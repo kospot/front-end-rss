@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-02T02:01:35.793Z</updated>
+    <updated>2026-06-02T04:02:38.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -92,121 +92,58 @@
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Miasma supply chain attack: malicious code found in RedHat-cloud-services NPM]]></title>
-        <id>https://snyk.io/blog/miasma-supply-chain-attack-malicious-code-redhat-cloud-services-npm-packages/</id>
-        <link href="https://snyk.io/blog/miasma-supply-chain-attack-malicious-code-redhat-cloud-services-npm-packages/"/>
+        <title type="html"><![CDATA[Bloc – Cursor for AI video (a canvas IDE, not a timeline)]]></title>
+        <id>https://vidbloc.com/</id>
+        <link href="https://vidbloc.com/"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI costs how much? GitHub Copilot users react to new usage-based pricing system]]></title>
-        <id>https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/</id>
-        <link href="https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/"/>
+        <title type="html"><![CDATA[I built a GitHub App to help reviewers decide if a PR is ready to approve]]></title>
+        <id>https://github.com/marketplace/approvalops</id>
+        <link href="https://github.com/marketplace/approvalops"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BorrowSanitizer: Find Rust aliasing violations even with FFI]]></title>
-        <id>https://github.com/borrowSanitizer/bsan</id>
-        <link href="https://github.com/borrowSanitizer/bsan"/>
+        <title type="html"><![CDATA[Show HN: Opthash – Rust implementations of Elastic and Funnel hashing]]></title>
+        <id>https://github.com/aaron-ang/opthash-rs</id>
+        <link href="https://github.com/aaron-ang/opthash-rs"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chinese firm developing AI to predict dissent, leaked documents show]]></title>
-        <id>https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html</id>
-        <link href="https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html"/>
+        <title type="html"><![CDATA[AI can chart a course to disaster faster than humans can notice]]></title>
+        <id>https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/</id>
+        <link href="https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI frontier models and Codex are now available on AWS]]></title>
-        <id>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/</id>
-        <link href="https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/"/>
+        <title type="html"><![CDATA[Introducing The American AI Sovereign Wealth Fund Act [video]]]></title>
+        <id>https://www.youtube.com/watch?v=VN4b4UCWMKI</id>
+        <link href="https://www.youtube.com/watch?v=VN4b4UCWMKI"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terrascan: Explore public deep earth scan datasets]]></title>
-        <id>https://terrascan.bowd.io</id>
-        <link href="https://terrascan.bowd.io"/>
+        <title type="html"><![CDATA[Building a Recurrent-Depth Transformer for Security Research on a 2013 MacBook]]></title>
+        <id>https://github.com/TushaeBXN/kerrigan-fantasma/blob/main/USE_POLICY.md</id>
+        <link href="https://github.com/TushaeBXN/kerrigan-fantasma/blob/main/USE_POLICY.md"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Dataroom – a Pi and self-hosted research harness on low-budget GPU]]></title>
-        <id>https://github.com/hanxiao/dataroom</id>
-        <link href="https://github.com/hanxiao/dataroom"/>
+        <title type="html"><![CDATA[Meta AI Support – full system prompt leaked]]></title>
+        <id>https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md</id>
+        <link href="https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Random cat GIFs, every few mins]]></title>
-        <id>https://kevinhwong.com/cats-appear</id>
-        <link href="https://kevinhwong.com/cats-appear"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A trend and monthly viewer of the monthly Ask HN: Who's Hiring?]]></title>
-        <id>https://hacker-hirings.com</id>
-        <link href="https://hacker-hirings.com"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UtilYard – 55 free browser-based tools (calculators, dev utilities, image tools)]]></title>
-        <id>https://utilyard.com</id>
-        <link href="https://utilyard.com"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxime Guillaume patented the axial turbojet in 1921]]></title>
-        <id>https://en.wikipedia.org/wiki/Maxime_Guillaume</id>
-        <link href="https://en.wikipedia.org/wiki/Maxime_Guillaume"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resolving Feynman restaurant problem reveals optimal solutions&human strategies]]></title>
-        <id>https://www.pnas.org/doi/full/10.1073/pnas.2509612123</id>
-        <link href="https://www.pnas.org/doi/full/10.1073/pnas.2509612123"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chief economist says AI-related job losses aren't happening]]></title>
-        <id>https://www.techradar.com/pro/zero-evidence-apollos-chief-economist-says-ai-related-job-losses-arent-happening</id>
-        <link href="https://www.techradar.com/pro/zero-evidence-apollos-chief-economist-says-ai-related-job-losses-arent-happening"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Seeks to Raise $80B for AI Infrastructure]]></title>
-        <id>https://www.wsj.com/tech/ai/google-seeks-to-raise-80-billion-for-ai-infrastructure-05a379be</id>
-        <link href="https://www.wsj.com/tech/ai/google-seeks-to-raise-80-billion-for-ai-infrastructure-05a379be"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Wikipedia and news podcast by LLMs that isn't terrible]]></title>
-        <id>https://element47.podbean.com/</id>
-        <link href="https://element47.podbean.com/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Free in-browser post-production calculators, no signup]]></title>
-        <id>https://www.postmicrotools.com/</id>
-        <link href="https://www.postmicrotools.com/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenmaxxing: One AI budget, four jobs]]></title>
-        <id>https://www.mintlify.com/blog/tokenmaxxing-one-ai-budget-four-jobs</id>
-        <link href="https://www.mintlify.com/blog/tokenmaxxing-one-ai-budget-four-jobs"/>
+        <title type="html"><![CDATA[KineQuetEngine – Bio-inspired context engine in Rust (sub-100µs latency)]]></title>
+        <id>https://github.com/gemirson/kinequet</id>
+        <link href="https://github.com/gemirson/kinequet"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
@@ -218,9 +155,121 @@
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KineQuetEngine – Bio-inspired context engine in Rust (sub-100µs latency)]]></title>
-        <id>https://github.com/gemirson/kinequet</id>
-        <link href="https://github.com/gemirson/kinequet"/>
+        <title type="html"><![CDATA[Tokenmaxxing: One AI budget, four jobs]]></title>
+        <id>https://www.mintlify.com/blog/tokenmaxxing-one-ai-budget-four-jobs</id>
+        <link href="https://www.mintlify.com/blog/tokenmaxxing-one-ai-budget-four-jobs"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Free in-browser post-production calculators, no signup]]></title>
+        <id>https://www.postmicrotools.com/</id>
+        <link href="https://www.postmicrotools.com/"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Wikipedia and news podcast by LLMs that isn't terrible]]></title>
+        <id>https://element47.podbean.com/</id>
+        <link href="https://element47.podbean.com/"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Seeks to Raise $80B for AI Infrastructure]]></title>
+        <id>https://www.wsj.com/tech/ai/google-seeks-to-raise-80-billion-for-ai-infrastructure-05a379be</id>
+        <link href="https://www.wsj.com/tech/ai/google-seeks-to-raise-80-billion-for-ai-infrastructure-05a379be"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chief economist says AI-related job losses aren't happening]]></title>
+        <id>https://www.techradar.com/pro/zero-evidence-apollos-chief-economist-says-ai-related-job-losses-arent-happening</id>
+        <link href="https://www.techradar.com/pro/zero-evidence-apollos-chief-economist-says-ai-related-job-losses-arent-happening"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolving Feynman restaurant problem reveals optimal solutions&human strategies]]></title>
+        <id>https://www.pnas.org/doi/full/10.1073/pnas.2509612123</id>
+        <link href="https://www.pnas.org/doi/full/10.1073/pnas.2509612123"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maxime Guillaume patented the axial turbojet in 1921]]></title>
+        <id>https://en.wikipedia.org/wiki/Maxime_Guillaume</id>
+        <link href="https://en.wikipedia.org/wiki/Maxime_Guillaume"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UtilYard – 55 free browser-based tools (calculators, dev utilities, image tools)]]></title>
+        <id>https://utilyard.com</id>
+        <link href="https://utilyard.com"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A trend and monthly viewer of the monthly Ask HN: Who's Hiring?]]></title>
+        <id>https://hacker-hirings.com</id>
+        <link href="https://hacker-hirings.com"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random cat GIFs, every few mins]]></title>
+        <id>https://kevinhwong.com/cats-appear</id>
+        <link href="https://kevinhwong.com/cats-appear"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Dataroom – a Pi and self-hosted research harness on low-budget GPU]]></title>
+        <id>https://github.com/hanxiao/dataroom</id>
+        <link href="https://github.com/hanxiao/dataroom"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terrascan: Explore public deep earth scan datasets]]></title>
+        <id>https://terrascan.bowd.io</id>
+        <link href="https://terrascan.bowd.io"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI frontier models and Codex are now available on AWS]]></title>
+        <id>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/</id>
+        <link href="https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese firm developing AI to predict dissent, leaked documents show]]></title>
+        <id>https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html</id>
+        <link href="https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BorrowSanitizer: Find Rust aliasing violations even with FFI]]></title>
+        <id>https://github.com/borrowSanitizer/bsan</id>
+        <link href="https://github.com/borrowSanitizer/bsan"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI costs how much? GitHub Copilot users react to new usage-based pricing system]]></title>
+        <id>https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/</id>
+        <link href="https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miasma supply chain attack: malicious code found in RedHat-cloud-services NPM]]></title>
+        <id>https://snyk.io/blog/miasma-supply-chain-attack-malicious-code-redhat-cloud-services-npm-packages/</id>
+        <link href="https://snyk.io/blog/miasma-supply-chain-attack-malicious-code-redhat-cloud-services-npm-packages/"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
@@ -253,100 +302,44 @@
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create YouTube course: React RSC (est 500 views/mo, $150/mo)]]></title>
-        <id>https://dev.to/amoussa-eduhub/create-youtube-course-react-rsc-est-500-viewsmo-150mo-4dog</id>
-        <link href="https://dev.to/amoussa-eduhub/create-youtube-course-react-rsc-est-500-viewsmo-150mo-4dog"/>
+        <title type="html"><![CDATA[Coming Soon: vm2 and JS Sandboxes]]></title>
+        <id>https://dev.to/secdim/coming-soon-vm2-and-js-sandboxes-1eob</id>
+        <link href="https://dev.to/secdim/coming-soon-vm2-and-js-sandboxes-1eob"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How does VuReact optimize Vue 3's top-level constants and variables for React?]]></title>
-        <id>https://dev.to/smirk9581/how-does-vureact-optimize-vue-3s-top-level-constants-and-variables-for-react-233n</id>
-        <link href="https://dev.to/smirk9581/how-does-vureact-optimize-vue-3s-top-level-constants-and-variables-for-react-233n"/>
+        <title type="html"><![CDATA[The Web Developer’s Guide to Browser Storage: LocalStorage, SessionStorage, and Cookies]]></title>
+        <id>https://dev.to/wandanamaddumage/the-web-developers-guide-to-browser-storage-localstorage-sessionstorage-and-cookies-hk9</id>
+        <link href="https://dev.to/wandanamaddumage/the-web-developers-guide-to-browser-storage-localstorage-sessionstorage-and-cookies-hk9"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 5 HTML CSS Tools In 2026: Which One Actually Gets Results]]></title>
-        <id>https://dev.to/dev_learning_hub/top-5-html-css-tools-in-2026-which-one-actually-gets-results-4ang</id>
-        <link href="https://dev.to/dev_learning_hub/top-5-html-css-tools-in-2026-which-one-actually-gets-results-4ang"/>
+        <title type="html"><![CDATA[A.I. LESSONS]]></title>
+        <id>https://dev.to/jwp/ai-lessons-5351</id>
+        <link href="https://dev.to/jwp/ai-lessons-5351"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leetcode 150 | Day 1: Merge Sorted Array - Naive vs. Optimized]]></title>
-        <id>https://dev.to/afuji/leetcode-150-day-1-merge-sorted-array-naive-vs-optimized-11pg</id>
-        <link href="https://dev.to/afuji/leetcode-150-day-1-merge-sorted-array-naive-vs-optimized-11pg"/>
+        <title type="html"><![CDATA[I built a free energy calculator site with plain HTML/CSS/JS — here's what I learned in week 1]]></title>
+        <id>https://dev.to/canghun13/i-built-a-free-energy-calculator-site-with-plain-htmlcssjs-heres-what-i-learned-in-week-1-4ndi</id>
+        <link href="https://dev.to/canghun13/i-built-a-free-energy-calculator-site-with-plain-htmlcssjs-heres-what-i-learned-in-week-1-4ndi"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[npm Scripts and package.json Mastery (2026)]]></title>
-        <id>https://dev.to/armorbreak/npm-scripts-and-packagejson-mastery-2026-1kb</id>
-        <link href="https://dev.to/armorbreak/npm-scripts-and-packagejson-mastery-2026-1kb"/>
+        <title type="html"><![CDATA[Try the Tech Radar #4 — Server-driven UI in a 12-Widget Vanilla JS Interpreter]]></title>
+        <id>https://dev.to/sendotltd/try-the-tech-radar-4-server-driven-ui-in-a-12-widget-vanilla-js-interpreter-51j7</id>
+        <link href="https://dev.to/sendotltd/try-the-tech-radar-4-server-driven-ui-in-a-12-widget-vanilla-js-interpreter-51j7"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How does VuReact compile Vue 3's TransitionGroup to React?]]></title>
-        <id>https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-transitiongroup-to-react-1g9b</id>
-        <link href="https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-transitiongroup-to-react-1g9b"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I built a zero-cost edge email pipeline using Cloudflare Workers]]></title>
-        <id>https://dev.to/zerodrop/how-i-built-a-zero-cost-edge-email-pipeline-using-cloudflare-workers-27kp</id>
-        <link href="https://dev.to/zerodrop/how-i-built-a-zero-cost-edge-email-pipeline-using-cloudflare-workers-27kp"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[32 Red Hat Packages Had Valid Provenance. All 32 Were Compromised.]]></title>
-        <id>https://dev.to/piiiico/32-red-hat-packages-had-valid-provenance-all-32-were-compromised-2ljc</id>
-        <link href="https://dev.to/piiiico/32-red-hat-packages-had-valid-provenance-all-32-were-compromised-2ljc"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic SEO in Next.js with generateMetadata()]]></title>
-        <id>https://dev.to/joodi/dynamic-seo-in-nextjs-with-generatemetadata-kal</id>
-        <link href="https://dev.to/joodi/dynamic-seo-in-nextjs-with-generatemetadata-kal"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebRTC Video Call Tutorial with PeerJs Alternative]]></title>
-        <id>https://dev.to/aprogrammer22/webrtc-video-call-tutorial-11-video-chat-in-js-with-metered-peer-4m1e</id>
-        <link href="https://dev.to/aprogrammer22/webrtc-video-call-tutorial-11-video-chat-in-js-with-metered-peer-4m1e"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to scrape Google Play data with Node.js (no API key needed)]]></title>
-        <id>https://dev.to/freshactors/how-to-scrape-google-play-data-with-nodejs-no-api-key-needed-4gbc</id>
-        <link href="https://dev.to/freshactors/how-to-scrape-google-play-data-with-nodejs-no-api-key-needed-4gbc"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to scrape Shopify App Store data with Python (no API key needed)]]></title>
-        <id>https://dev.to/freshactors/how-to-scrape-shopify-app-store-data-with-python-no-api-key-needed-24pc</id>
-        <link href="https://dev.to/freshactors/how-to-scrape-shopify-app-store-data-with-python-no-api-key-needed-24pc"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built rtl-text-tools ( A Complete RTL Text Processing Toolkit for JavaScript )]]></title>
-        <id>https://dev.to/homayounmmdy/i-built-rtl-text-tools-a-complete-rtl-text-processing-toolkit-for-javascript--4ed4</id>
-        <link href="https://dev.to/homayounmmdy/i-built-rtl-text-tools-a-complete-rtl-text-processing-toolkit-for-javascript--4ed4"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entenda o Zoneless do Angular]]></title>
-        <id>https://dev.to/vandrei/entenda-o-zoneless-no-angular-2576</id>
-        <link href="https://dev.to/vandrei/entenda-o-zoneless-no-angular-2576"/>
+        <title type="html"><![CDATA[I built a free cooking calculator site with pure HTML/CSS/JS — here's what week two looks like]]></title>
+        <id>https://dev.to/canghun13/i-built-a-free-cooking-calculator-site-with-pure-htmlcssjs-heres-what-week-two-looks-like-3725</id>
+        <link href="https://dev.to/canghun13/i-built-a-free-cooking-calculator-site-with-pure-htmlcssjs-heres-what-week-two-looks-like-3725"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
@@ -358,9 +351,16 @@
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a free cooking calculator site with pure HTML/CSS/JS — here's what week two looks like]]></title>
-        <id>https://dev.to/canghun13/i-built-a-free-cooking-calculator-site-with-pure-htmlcssjs-heres-what-week-two-looks-like-3725</id>
-        <link href="https://dev.to/canghun13/i-built-a-free-cooking-calculator-site-with-pure-htmlcssjs-heres-what-week-two-looks-like-3725"/>
+        <title type="html"><![CDATA[Entenda o Zoneless do Angular]]></title>
+        <id>https://dev.to/vandrei/entenda-o-zoneless-no-angular-2576</id>
+        <link href="https://dev.to/vandrei/entenda-o-zoneless-no-angular-2576"/>
+        <updated>2026-06-01T16:00:00.000Z</updated>
+        <published>2026-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built rtl-text-tools ( A Complete RTL Text Processing Toolkit for JavaScript )]]></title>
+        <id>https://dev.to/homayounmmdy/i-built-rtl-text-tools-a-complete-rtl-text-processing-toolkit-for-javascript--4ed4</id>
+        <link href="https://dev.to/homayounmmdy/i-built-rtl-text-tools-a-complete-rtl-text-processing-toolkit-for-javascript--4ed4"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
