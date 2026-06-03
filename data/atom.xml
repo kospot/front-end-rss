@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-03T00:02:02.106Z</updated>
+    <updated>2026-06-03T02:01:56.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,30 +64,58 @@
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ReachIQ – paste a LinkedIn URL, get a personalised cold email draft in 10s]]></title>
-        <id>https://reachiq.co</id>
-        <link href="https://reachiq.co"/>
+        <title type="html"><![CDATA[Ask HN: A Brief History of LLMs]]></title>
+        <id>https://news.ycombinator.com/item?id=48378906</id>
+        <link href="https://news.ycombinator.com/item?id=48378906"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jeffrey Epstein, Chief Financial Officer, Oracle USA, Inc (2010)]]></title>
-        <id>https://search.sunbiz.org/Inquiry/CorporationSearch/ConvertTiffToPDF?storagePath=COR%5C2010%5C0105%5C64445631.tif&amp;documentNumber=F96000003847</id>
-        <link href="https://search.sunbiz.org/Inquiry/CorporationSearch/ConvertTiffToPDF?storagePath=COR%5C2010%5C0105%5C64445631.tif&amp;documentNumber=F96000003847"/>
+        <title type="html"><![CDATA[Adding Features That Help Get Users]]></title>
+        <id>https://fastbusinessapi.com/article/adding-features-that-help-get-users/</id>
+        <link href="https://fastbusinessapi.com/article/adding-features-that-help-get-users/"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hiring Thread for AML/KYC/Trust and Safety Roles – June 2026]]></title>
-        <id>https://news.ycombinator.com/item?id=48376739</id>
-        <link href="https://news.ycombinator.com/item?id=48376739"/>
+        <title type="html"><![CDATA[Videos show people entering NYC sewers at night; residents,investigators baffled]]></title>
+        <id>https://apnews.com/article/nyc-sewer-explorers-manhole-investigation-a229be36b3daa74223ad0a43bfdcc488</id>
+        <link href="https://apnews.com/article/nyc-sewer-explorers-manhole-investigation-a229be36b3daa74223ad0a43bfdcc488"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Majorana 2 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=1bN4O5_meB4</id>
-        <link href="https://www.youtube.com/watch?v=1bN4O5_meB4"/>
+        <title type="html"><![CDATA[Apple and Google developed a new HDR standard: Eclipsa Video]]></title>
+        <id>https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1780395034</id>
+        <link href="https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1780395034"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Chess Friends Battled Demons and Saved Two Lives]]></title>
+        <id>https://www.nytimes.com/2026/06/02/nyregion/how-three-chess-friends-battled-demons-and-saved-two-lives.html</id>
+        <link href="https://www.nytimes.com/2026/06/02/nyregion/how-three-chess-friends-battled-demons-and-saved-two-lives.html"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide to Codex Goals]]></title>
+        <id>https://www.augmentedswe.com/p/codex-goals</id>
+        <link href="https://www.augmentedswe.com/p/codex-goals"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patterns of Structure and Argument: a guide to mathematical thinking(2017) [pdf]]]></title>
+        <id>https://www.ux1.eiu.edu/~cidelman/Research/foundationsbook.pdf</id>
+        <link href="https://www.ux1.eiu.edu/~cidelman/Research/foundationsbook.pdf"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A crowdsourced map of surveillance camera's based on OSM]]></title>
+        <id>https://mapcomplete.org/surveillance?z=0.5&amp;lon=12.732776</id>
+        <link href="https://mapcomplete.org/surveillance?z=0.5&amp;lon=12.732776"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
@@ -99,16 +127,30 @@
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your JWT Is Lying to You - The Authorization Problem Nobody Solves Correctly]]></title>
-        <id>https://pub.towardsai.net/your-jwt-is-lying-to-you-the-authorization-problem-nobody-solves-correctly-9c2026532e03?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-jwt-is-lying-to-you-the-authorization-problem-nobody-solves-correctly-9c2026532e03?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Majorana 2 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=1bN4O5_meB4</id>
+        <link href="https://www.youtube.com/watch?v=1bN4O5_meB4"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MiniMax M3 Just Made Frontier-Level Coding Look Cheap]]></title>
-        <id>https://pub.towardsai.net/minimax-m3-just-made-frontier-level-coding-look-cheap-d85518cc4ac5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/minimax-m3-just-made-frontier-level-coding-look-cheap-d85518cc4ac5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Hiring Thread for AML/KYC/Trust and Safety Roles – June 2026]]></title>
+        <id>https://news.ycombinator.com/item?id=48376739</id>
+        <link href="https://news.ycombinator.com/item?id=48376739"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeffrey Epstein, Chief Financial Officer, Oracle USA, Inc (2010)]]></title>
+        <id>https://search.sunbiz.org/Inquiry/CorporationSearch/ConvertTiffToPDF?storagePath=COR%5C2010%5C0105%5C64445631.tif&amp;documentNumber=F96000003847</id>
+        <link href="https://search.sunbiz.org/Inquiry/CorporationSearch/ConvertTiffToPDF?storagePath=COR%5C2010%5C0105%5C64445631.tif&amp;documentNumber=F96000003847"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReachIQ – paste a LinkedIn URL, get a personalised cold email draft in 10s]]></title>
+        <id>https://reachiq.co</id>
+        <link href="https://reachiq.co"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
@@ -120,6 +162,34 @@
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MiniMax M3 Just Made Frontier-Level Coding Look Cheap]]></title>
+        <id>https://pub.towardsai.net/minimax-m3-just-made-frontier-level-coding-look-cheap-d85518cc4ac5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/minimax-m3-just-made-frontier-level-coding-look-cheap-d85518cc4ac5?source=rss----98111c9905da---4"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your JWT Is Lying to You - The Authorization Problem Nobody Solves Correctly]]></title>
+        <id>https://pub.towardsai.net/your-jwt-is-lying-to-you-the-authorization-problem-nobody-solves-correctly-9c2026532e03?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-jwt-is-lying-to-you-the-authorization-problem-nobody-solves-correctly-9c2026532e03?source=rss----98111c9905da---4"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[datasette-agent-micropython 0.1a0]]></title>
+        <id>https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[micropython-wasm 0.1a1]]></title>
+        <id>https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub Copilot app: The agent-native desktop experience]]></title>
         <id>https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/</id>
         <link href="https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/"/>
@@ -127,107 +197,9 @@
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a Chrome extension that tests web forms with AI]]></title>
-        <id>https://dev.to/ishimirwe_denyse_dcb4142f/i-built-a-chrome-extension-that-tests-web-forms-with-ai-2m7l</id>
-        <link href="https://dev.to/ishimirwe_denyse_dcb4142f/i-built-a-chrome-extension-that-tests-web-forms-with-ai-2m7l"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Try the Tech Radar #5 — Mutation Testing in 500 Lines of Vanilla JS (and Why High Coverage Lies)]]></title>
-        <id>https://dev.to/sendotltd/try-the-tech-radar-5-mutation-testing-in-500-lines-of-vanilla-js-and-why-high-coverage-lies-585d</id>
-        <link href="https://dev.to/sendotltd/try-the-tech-radar-5-mutation-testing-in-500-lines-of-vanilla-js-and-why-high-coverage-lies-585d"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI-Powered Classifieds Stack That Posts in Seconds]]></title>
-        <id>https://dev.to/slawekluzny/the-ai-powered-classifieds-stack-that-posts-in-seconds-4dd8</id>
-        <link href="https://dev.to/slawekluzny/the-ai-powered-classifieds-stack-that-posts-in-seconds-4dd8"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Async Event Processing Architectures for Shopify — A Developer's Guide]]></title>
-        <id>https://dev.to/masadashraf/async-event-processing-architectures-for-shopify-a-developers-guide-f1j</id>
-        <link href="https://dev.to/masadashraf/async-event-processing-architectures-for-shopify-a-developers-guide-f1j"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js "type": "module" vs CommonJS: 7 Real Errors and the .cjs/.mjs Fix Map (2026)]]></title>
-        <id>https://dev.to/_7fb6011b57d383122b5a/nodejs-type-module-vs-commonjs-7-real-errors-and-the-cjsmjs-fix-map-2026-14b3</id>
-        <link href="https://dev.to/_7fb6011b57d383122b5a/nodejs-type-module-vs-commonjs-7-real-errors-and-the-cjsmjs-fix-map-2026-14b3"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 React Tools In 2026: Which One Actually Gets Results]]></title>
-        <id>https://dev.to/dev_learning_hub/top-5-react-tools-in-2026-which-one-actually-gets-results-1a9e</id>
-        <link href="https://dev.to/dev_learning_hub/top-5-react-tools-in-2026-which-one-actually-gets-results-1a9e"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your photos are quietly leaking your home address — the byte-level reason, and a fix]]></title>
-        <id>https://dev.to/milton_rojas_6bdc219110e9/your-photos-are-quietly-leaking-your-home-address-the-byte-level-reason-and-a-fix-3m5k</id>
-        <link href="https://dev.to/milton_rojas_6bdc219110e9/your-photos-are-quietly-leaking-your-home-address-the-byte-level-reason-and-a-fix-3m5k"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Modules: ES Modules, CommonJS, and How They Actually Work (2026)]]></title>
-        <id>https://dev.to/armorbreak/javascript-modules-es-modules-commonjs-and-how-they-actually-work-2026-3g5j</id>
-        <link href="https://dev.to/armorbreak/javascript-modules-es-modules-commonjs-and-how-they-actually-work-2026-3g5j"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Express: Building Real APIs That Scale (2026)]]></title>
-        <id>https://dev.to/armorbreak/nodejs-express-building-real-apis-that-scale-2026-pil</id>
-        <link href="https://dev.to/armorbreak/nodejs-express-building-real-apis-that-scale-2026-pil"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript: The Practical Guide for JavaScript Developers (2026)]]></title>
-        <id>https://dev.to/armorbreak/typescript-the-practical-guide-for-javascript-developers-2026-4dpa</id>
-        <link href="https://dev.to/armorbreak/typescript-the-practical-guide-for-javascript-developers-2026-4dpa"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JAVASCRIPT]]></title>
-        <id>https://dev.to/karthika_jasinska_443e83f/javascript-46g7</id>
-        <link href="https://dev.to/karthika_jasinska_443e83f/javascript-46g7"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frameworks mudam. JavaScript continua.]]></title>
-        <id>https://dev.to/camilasrody/frameworks-mudam-javascript-continua-onj</id>
-        <link href="https://dev.to/camilasrody/frameworks-mudam-javascript-continua-onj"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frameworks Change. JavaScript Remains.]]></title>
-        <id>https://dev.to/camilasrody/frameworks-change-javascript-remains-5c6h</id>
-        <link href="https://dev.to/camilasrody/frameworks-change-javascript-remains-5c6h"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS ellipsis is great. Until the string itself matters.]]></title>
-        <id>https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl</id>
-        <link href="https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Take on: Next.js 16 Broke My App in 4 Places and None]]></title>
-        <id>https://dev.to/qingluan/my-take-on-nextjs-16-broke-my-app-in-4-places-and-none-5217</id>
-        <link href="https://dev.to/qingluan/my-take-on-nextjs-16-broke-my-app-in-4-places-and-none-5217"/>
+        <title type="html"><![CDATA[The 1959 Algorithm That Still Powers Every GPS on Earth — Visualized in React]]></title>
+        <id>https://dev.to/amargul/the-1959-algorithm-that-still-powers-every-gps-on-earth-visualized-in-react-3d3f</id>
+        <link href="https://dev.to/amargul/the-1959-algorithm-that-still-powers-every-gps-on-earth-visualized-in-react-3d3f"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
@@ -239,9 +211,107 @@
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 1959 Algorithm That Still Powers Every GPS on Earth — Visualized in React]]></title>
-        <id>https://dev.to/amargul/the-1959-algorithm-that-still-powers-every-gps-on-earth-visualized-in-react-3d3f</id>
-        <link href="https://dev.to/amargul/the-1959-algorithm-that-still-powers-every-gps-on-earth-visualized-in-react-3d3f"/>
+        <title type="html"><![CDATA[My Take on: Next.js 16 Broke My App in 4 Places and None]]></title>
+        <id>https://dev.to/qingluan/my-take-on-nextjs-16-broke-my-app-in-4-places-and-none-5217</id>
+        <link href="https://dev.to/qingluan/my-take-on-nextjs-16-broke-my-app-in-4-places-and-none-5217"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS ellipsis is great. Until the string itself matters.]]></title>
+        <id>https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl</id>
+        <link href="https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frameworks Change. JavaScript Remains.]]></title>
+        <id>https://dev.to/camilasrody/frameworks-change-javascript-remains-5c6h</id>
+        <link href="https://dev.to/camilasrody/frameworks-change-javascript-remains-5c6h"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frameworks mudam. JavaScript continua.]]></title>
+        <id>https://dev.to/camilasrody/frameworks-mudam-javascript-continua-onj</id>
+        <link href="https://dev.to/camilasrody/frameworks-mudam-javascript-continua-onj"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAVASCRIPT]]></title>
+        <id>https://dev.to/karthika_jasinska_443e83f/javascript-46g7</id>
+        <link href="https://dev.to/karthika_jasinska_443e83f/javascript-46g7"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript: The Practical Guide for JavaScript Developers (2026)]]></title>
+        <id>https://dev.to/armorbreak/typescript-the-practical-guide-for-javascript-developers-2026-4dpa</id>
+        <link href="https://dev.to/armorbreak/typescript-the-practical-guide-for-javascript-developers-2026-4dpa"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js Express: Building Real APIs That Scale (2026)]]></title>
+        <id>https://dev.to/armorbreak/nodejs-express-building-real-apis-that-scale-2026-pil</id>
+        <link href="https://dev.to/armorbreak/nodejs-express-building-real-apis-that-scale-2026-pil"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Modules: ES Modules, CommonJS, and How They Actually Work (2026)]]></title>
+        <id>https://dev.to/armorbreak/javascript-modules-es-modules-commonjs-and-how-they-actually-work-2026-3g5j</id>
+        <link href="https://dev.to/armorbreak/javascript-modules-es-modules-commonjs-and-how-they-actually-work-2026-3g5j"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your photos are quietly leaking your home address — the byte-level reason, and a fix]]></title>
+        <id>https://dev.to/milton_rojas_6bdc219110e9/your-photos-are-quietly-leaking-your-home-address-the-byte-level-reason-and-a-fix-3m5k</id>
+        <link href="https://dev.to/milton_rojas_6bdc219110e9/your-photos-are-quietly-leaking-your-home-address-the-byte-level-reason-and-a-fix-3m5k"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 React Tools In 2026: Which One Actually Gets Results]]></title>
+        <id>https://dev.to/dev_learning_hub/top-5-react-tools-in-2026-which-one-actually-gets-results-1a9e</id>
+        <link href="https://dev.to/dev_learning_hub/top-5-react-tools-in-2026-which-one-actually-gets-results-1a9e"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js "type": "module" vs CommonJS: 7 Real Errors and the .cjs/.mjs Fix Map (2026)]]></title>
+        <id>https://dev.to/_7fb6011b57d383122b5a/nodejs-type-module-vs-commonjs-7-real-errors-and-the-cjsmjs-fix-map-2026-14b3</id>
+        <link href="https://dev.to/_7fb6011b57d383122b5a/nodejs-type-module-vs-commonjs-7-real-errors-and-the-cjsmjs-fix-map-2026-14b3"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Async Event Processing Architectures for Shopify — A Developer's Guide]]></title>
+        <id>https://dev.to/masadashraf/async-event-processing-architectures-for-shopify-a-developers-guide-f1j</id>
+        <link href="https://dev.to/masadashraf/async-event-processing-architectures-for-shopify-a-developers-guide-f1j"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI-Powered Classifieds Stack That Posts in Seconds]]></title>
+        <id>https://dev.to/slawekluzny/the-ai-powered-classifieds-stack-that-posts-in-seconds-4dd8</id>
+        <link href="https://dev.to/slawekluzny/the-ai-powered-classifieds-stack-that-posts-in-seconds-4dd8"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try the Tech Radar #5 — Mutation Testing in 500 Lines of Vanilla JS (and Why High Coverage Lies)]]></title>
+        <id>https://dev.to/sendotltd/try-the-tech-radar-5-mutation-testing-in-500-lines-of-vanilla-js-and-why-high-coverage-lies-585d</id>
+        <link href="https://dev.to/sendotltd/try-the-tech-radar-5-mutation-testing-in-500-lines-of-vanilla-js-and-why-high-coverage-lies-585d"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a Chrome extension that tests web forms with AI]]></title>
+        <id>https://dev.to/ishimirwe_denyse_dcb4142f/i-built-a-chrome-extension-that-tests-web-forms-with-ai-2m7l</id>
+        <link href="https://dev.to/ishimirwe_denyse_dcb4142f/i-built-a-chrome-extension-that-tests-web-forms-with-ai-2m7l"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
@@ -291,76 +361,6 @@
         <title type="html"><![CDATA[Gemini Spark is the most impressive and terrifying AI experience I’ve had yet]]></title>
         <id>https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning</id>
         <link href="https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coway Airmega Pedestal Fan P50 Review: Anti-App]]></title>
-        <id>https://www.wired.com/review/coway-airmega-pedestal-fan-p50/</id>
-        <link href="https://www.wired.com/review/coway-airmega-pedestal-fan-p50/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[McLaren CEO Zak Brown Still Gets FOMO About Racing Cars]]></title>
-        <id>https://www.wired.com/story/the-big-interview-podcast-mclaren-ceo-zak-brown/</id>
-        <link href="https://www.wired.com/story/the-big-interview-podcast-mclaren-ceo-zak-brown/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Avoid Scams and Bad Gadgets on Amazon (2026)]]></title>
-        <id>https://www.wired.com/story/how-shop-safe-amazon/</id>
-        <link href="https://www.wired.com/story/how-shop-safe-amazon/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivid Seats Promo Codes and Deals: Get 10% Off]]></title>
-        <id>https://www.wired.com/story/vivid-seats-promo-code/</id>
-        <link href="https://www.wired.com/story/vivid-seats-promo-code/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the Accidental Editor in Chief of Muslim Media]]></title>
-        <id>https://www.wired.com/story/meet-the-accidental-editor-in-chief-of-muslim-media/</id>
-        <link href="https://www.wired.com/story/meet-the-accidental-editor-in-chief-of-muslim-media/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget]]></title>
-        <id>https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/</id>
-        <link href="https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta tests ‘Series’ for episodic Reels on Instagram and Facebook]]></title>
-        <id>https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/</id>
-        <link href="https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X caters to creators with new ‘React with Video’ feature]]></title>
-        <id>https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/</id>
-        <link href="https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries]]></title>
-        <id>https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/</id>
-        <link href="https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blue Origin plans to launch New Glenn again this year after explosion]]></title>
-        <id>https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/</id>
-        <link href="https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
