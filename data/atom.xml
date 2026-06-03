@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-02T22:01:44.701Z</updated>
+    <updated>2026-06-03T00:02:02.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,23 +29,9 @@
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uber caps employee AI spending after blowing through budget in 4 months]]></title>
-        <id>https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/</id>
-        <link href="https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon]]></title>
-        <id>https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/</id>
-        <link href="https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI]]></title>
-        <id>https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/</id>
-        <link href="https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/"/>
+        <title type="html"><![CDATA[Trump signs narrower executive order on AI oversight after industry objections ]]></title>
+        <id>https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/</id>
+        <link href="https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
@@ -57,9 +43,23 @@
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump signs narrower executive order on AI oversight after industry objections ]]></title>
-        <id>https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/</id>
-        <link href="https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/"/>
+        <title type="html"><![CDATA[Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI]]></title>
+        <id>https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/</id>
+        <link href="https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon]]></title>
+        <id>https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/</id>
+        <link href="https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber caps employee AI spending after blowing through budget in 4 months]]></title>
+        <id>https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/</id>
+        <link href="https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
@@ -99,9 +99,9 @@
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taming the Monolith: A Claude Code Setup Guide for Large Codebases]]></title>
-        <id>https://pub.towardsai.net/taming-the-monolith-a-claude-code-setup-guide-for-large-codebases-f03220669ea5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/taming-the-monolith-a-claude-code-setup-guide-for-large-codebases-f03220669ea5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Your JWT Is Lying to You - The Authorization Problem Nobody Solves Correctly]]></title>
+        <id>https://pub.towardsai.net/your-jwt-is-lying-to-you-the-authorization-problem-nobody-solves-correctly-9c2026532e03?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-jwt-is-lying-to-you-the-authorization-problem-nobody-solves-correctly-9c2026532e03?source=rss----98111c9905da---4"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
@@ -113,9 +113,9 @@
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your JWT Is Lying to You - The Authorization Problem Nobody Solves Correctly]]></title>
-        <id>https://pub.towardsai.net/your-jwt-is-lying-to-you-the-authorization-problem-nobody-solves-correctly-9c2026532e03?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-jwt-is-lying-to-you-the-authorization-problem-nobody-solves-correctly-9c2026532e03?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Taming the Monolith: A Claude Code Setup Guide for Large Codebases]]></title>
+        <id>https://pub.towardsai.net/taming-the-monolith-a-claude-code-setup-guide-for-large-codebases-f03220669ea5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/taming-the-monolith-a-claude-code-setup-guide-for-large-codebases-f03220669ea5?source=rss----98111c9905da---4"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
@@ -127,37 +127,79 @@
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 1959 Algorithm That Still Powers Every GPS on Earth — Visualized in React]]></title>
-        <id>https://dev.to/amargul/the-1959-algorithm-that-still-powers-every-gps-on-earth-visualized-in-react-3d3f</id>
-        <link href="https://dev.to/amargul/the-1959-algorithm-that-still-powers-every-gps-on-earth-visualized-in-react-3d3f"/>
+        <title type="html"><![CDATA[I built a Chrome extension that tests web forms with AI]]></title>
+        <id>https://dev.to/ishimirwe_denyse_dcb4142f/i-built-a-chrome-extension-that-tests-web-forms-with-ai-2m7l</id>
+        <link href="https://dev.to/ishimirwe_denyse_dcb4142f/i-built-a-chrome-extension-that-tests-web-forms-with-ai-2m7l"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Browser-based MMD Studio (WebGL + WASM) — No Install]]></title>
-        <id>https://dev.to/fbnoname/browser-based-mmd-studio-webgl-wasm-no-install-oec</id>
-        <link href="https://dev.to/fbnoname/browser-based-mmd-studio-webgl-wasm-no-install-oec"/>
+        <title type="html"><![CDATA[Try the Tech Radar #5 — Mutation Testing in 500 Lines of Vanilla JS (and Why High Coverage Lies)]]></title>
+        <id>https://dev.to/sendotltd/try-the-tech-radar-5-mutation-testing-in-500-lines-of-vanilla-js-and-why-high-coverage-lies-585d</id>
+        <link href="https://dev.to/sendotltd/try-the-tech-radar-5-mutation-testing-in-500-lines-of-vanilla-js-and-why-high-coverage-lies-585d"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Take on: Next.js 16 Broke My App in 4 Places and None]]></title>
-        <id>https://dev.to/qingluan/my-take-on-nextjs-16-broke-my-app-in-4-places-and-none-5217</id>
-        <link href="https://dev.to/qingluan/my-take-on-nextjs-16-broke-my-app-in-4-places-and-none-5217"/>
+        <title type="html"><![CDATA[The AI-Powered Classifieds Stack That Posts in Seconds]]></title>
+        <id>https://dev.to/slawekluzny/the-ai-powered-classifieds-stack-that-posts-in-seconds-4dd8</id>
+        <link href="https://dev.to/slawekluzny/the-ai-powered-classifieds-stack-that-posts-in-seconds-4dd8"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS ellipsis is great. Until the string itself matters.]]></title>
-        <id>https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl</id>
-        <link href="https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl"/>
+        <title type="html"><![CDATA[Async Event Processing Architectures for Shopify — A Developer's Guide]]></title>
+        <id>https://dev.to/masadashraf/async-event-processing-architectures-for-shopify-a-developers-guide-f1j</id>
+        <link href="https://dev.to/masadashraf/async-event-processing-architectures-for-shopify-a-developers-guide-f1j"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frameworks Change. JavaScript Remains.]]></title>
-        <id>https://dev.to/camilasrody/frameworks-change-javascript-remains-5c6h</id>
-        <link href="https://dev.to/camilasrody/frameworks-change-javascript-remains-5c6h"/>
+        <title type="html"><![CDATA[Node.js "type": "module" vs CommonJS: 7 Real Errors and the .cjs/.mjs Fix Map (2026)]]></title>
+        <id>https://dev.to/_7fb6011b57d383122b5a/nodejs-type-module-vs-commonjs-7-real-errors-and-the-cjsmjs-fix-map-2026-14b3</id>
+        <link href="https://dev.to/_7fb6011b57d383122b5a/nodejs-type-module-vs-commonjs-7-real-errors-and-the-cjsmjs-fix-map-2026-14b3"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 React Tools In 2026: Which One Actually Gets Results]]></title>
+        <id>https://dev.to/dev_learning_hub/top-5-react-tools-in-2026-which-one-actually-gets-results-1a9e</id>
+        <link href="https://dev.to/dev_learning_hub/top-5-react-tools-in-2026-which-one-actually-gets-results-1a9e"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your photos are quietly leaking your home address — the byte-level reason, and a fix]]></title>
+        <id>https://dev.to/milton_rojas_6bdc219110e9/your-photos-are-quietly-leaking-your-home-address-the-byte-level-reason-and-a-fix-3m5k</id>
+        <link href="https://dev.to/milton_rojas_6bdc219110e9/your-photos-are-quietly-leaking-your-home-address-the-byte-level-reason-and-a-fix-3m5k"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Modules: ES Modules, CommonJS, and How They Actually Work (2026)]]></title>
+        <id>https://dev.to/armorbreak/javascript-modules-es-modules-commonjs-and-how-they-actually-work-2026-3g5j</id>
+        <link href="https://dev.to/armorbreak/javascript-modules-es-modules-commonjs-and-how-they-actually-work-2026-3g5j"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js Express: Building Real APIs That Scale (2026)]]></title>
+        <id>https://dev.to/armorbreak/nodejs-express-building-real-apis-that-scale-2026-pil</id>
+        <link href="https://dev.to/armorbreak/nodejs-express-building-real-apis-that-scale-2026-pil"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript: The Practical Guide for JavaScript Developers (2026)]]></title>
+        <id>https://dev.to/armorbreak/typescript-the-practical-guide-for-javascript-developers-2026-4dpa</id>
+        <link href="https://dev.to/armorbreak/typescript-the-practical-guide-for-javascript-developers-2026-4dpa"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAVASCRIPT]]></title>
+        <id>https://dev.to/karthika_jasinska_443e83f/javascript-46g7</id>
+        <link href="https://dev.to/karthika_jasinska_443e83f/javascript-46g7"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
@@ -169,44 +211,44 @@
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Frameworks Change. JavaScript Remains.]]></title>
+        <id>https://dev.to/camilasrody/frameworks-change-javascript-remains-5c6h</id>
+        <link href="https://dev.to/camilasrody/frameworks-change-javascript-remains-5c6h"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS ellipsis is great. Until the string itself matters.]]></title>
+        <id>https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl</id>
+        <link href="https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Take on: Next.js 16 Broke My App in 4 Places and None]]></title>
+        <id>https://dev.to/qingluan/my-take-on-nextjs-16-broke-my-app-in-4-places-and-none-5217</id>
+        <link href="https://dev.to/qingluan/my-take-on-nextjs-16-broke-my-app-in-4-places-and-none-5217"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browser-based MMD Studio (WebGL + WASM) — No Install]]></title>
+        <id>https://dev.to/fbnoname/browser-based-mmd-studio-webgl-wasm-no-install-oec</id>
+        <link href="https://dev.to/fbnoname/browser-based-mmd-studio-webgl-wasm-no-install-oec"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 1959 Algorithm That Still Powers Every GPS on Earth — Visualized in React]]></title>
+        <id>https://dev.to/amargul/the-1959-algorithm-that-still-powers-every-gps-on-earth-visualized-in-react-3d3f</id>
+        <link href="https://dev.to/amargul/the-1959-algorithm-that-still-powers-every-gps-on-earth-visualized-in-react-3d3f"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <published>2026-06-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈]]></title>
         <id>https://sspai.com/post/110550</id>
         <link href="https://sspai.com/post/110550"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini Spark is the most impressive and terrifying AI experience I’ve had yet]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Casey Neistat’s guide to posting every day]]></title>
-        <id>https://www.theverge.com/podcast/941140/casey-neistat-daily-vergecast</id>
-        <link href="https://www.theverge.com/podcast/941140/casey-neistat-daily-vergecast"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta&#8217;s own AI was exploited to hijack Instagram accounts]]></title>
-        <id>https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked</id>
-        <link href="https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This could be Windows’ M1 moment — but expect it to cost a ton]]></title>
-        <id>https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram</id>
-        <link href="https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands]]></title>
-        <id>https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands</id>
-        <link href="https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
@@ -218,37 +260,37 @@
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget]]></title>
-        <id>https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/</id>
-        <link href="https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/"/>
+        <title type="html"><![CDATA[The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands]]></title>
+        <id>https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands</id>
+        <link href="https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet the Accidental Editor in Chief of Muslim Media]]></title>
-        <id>https://www.wired.com/story/meet-the-accidental-editor-in-chief-of-muslim-media/</id>
-        <link href="https://www.wired.com/story/meet-the-accidental-editor-in-chief-of-muslim-media/"/>
+        <title type="html"><![CDATA[This could be Windows’ M1 moment — but expect it to cost a ton]]></title>
+        <id>https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram</id>
+        <link href="https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vivid Seats Promo Codes and Deals: Get 10% Off]]></title>
-        <id>https://www.wired.com/story/vivid-seats-promo-code/</id>
-        <link href="https://www.wired.com/story/vivid-seats-promo-code/"/>
+        <title type="html"><![CDATA[Meta&#8217;s own AI was exploited to hijack Instagram accounts]]></title>
+        <id>https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked</id>
+        <link href="https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Avoid Scams and Bad Gadgets on Amazon (2026)]]></title>
-        <id>https://www.wired.com/story/how-shop-safe-amazon/</id>
-        <link href="https://www.wired.com/story/how-shop-safe-amazon/"/>
+        <title type="html"><![CDATA[Casey Neistat’s guide to posting every day]]></title>
+        <id>https://www.theverge.com/podcast/941140/casey-neistat-daily-vergecast</id>
+        <link href="https://www.theverge.com/podcast/941140/casey-neistat-daily-vergecast"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[McLaren CEO Zak Brown Still Gets FOMO About Racing Cars]]></title>
-        <id>https://www.wired.com/story/the-big-interview-podcast-mclaren-ceo-zak-brown/</id>
-        <link href="https://www.wired.com/story/the-big-interview-podcast-mclaren-ceo-zak-brown/"/>
+        <title type="html"><![CDATA[Gemini Spark is the most impressive and terrifying AI experience I’ve had yet]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
@@ -260,72 +302,37 @@
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to make the Startup Battlefield Top 20 — and what every company gets regardless]]></title>
-        <id>https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/</id>
-        <link href="https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/"/>
+        <title type="html"><![CDATA[McLaren CEO Zak Brown Still Gets FOMO About Racing Cars]]></title>
+        <id>https://www.wired.com/story/the-big-interview-podcast-mclaren-ceo-zak-brown/</id>
+        <link href="https://www.wired.com/story/the-big-interview-podcast-mclaren-ceo-zak-brown/"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This AI weather startup is out-forecasting government agencies]]></title>
-        <id>https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/</id>
-        <link href="https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/"/>
+        <title type="html"><![CDATA[How to Avoid Scams and Bad Gadgets on Amazon (2026)]]></title>
+        <id>https://www.wired.com/story/how-shop-safe-amazon/</id>
+        <link href="https://www.wired.com/story/how-shop-safe-amazon/"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zigging when most are zagging, ex-Meta CTO raises $250M climate fund]]></title>
-        <id>https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/</id>
-        <link href="https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/"/>
+        <title type="html"><![CDATA[Vivid Seats Promo Codes and Deals: Get 10% Off]]></title>
+        <id>https://www.wired.com/story/vivid-seats-promo-code/</id>
+        <link href="https://www.wired.com/story/vivid-seats-promo-code/"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers]]></title>
-        <id>https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/</id>
-        <link href="https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/"/>
+        <title type="html"><![CDATA[Meet the Accidental Editor in Chief of Muslim Media]]></title>
+        <id>https://www.wired.com/story/meet-the-accidental-editor-in-chief-of-muslim-media/</id>
+        <link href="https://www.wired.com/story/meet-the-accidental-editor-in-chief-of-muslim-media/"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access]]></title>
-        <id>https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/</id>
-        <link href="https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From the stage to the future: Where are Startup Battlefield’s alumni now?]]></title>
-        <id>https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/</id>
-        <link href="https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year]]></title>
-        <id>https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/</id>
-        <link href="https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blue Origin plans to launch New Glenn again this year after explosion]]></title>
-        <id>https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/</id>
-        <link href="https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries]]></title>
-        <id>https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/</id>
-        <link href="https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X caters to creators with new ‘React with Video’ feature]]></title>
-        <id>https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/</id>
-        <link href="https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/"/>
+        <title type="html"><![CDATA[Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget]]></title>
+        <id>https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/</id>
+        <link href="https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
@@ -337,30 +344,23 @@
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Site to check actual past weather for trip planning, not just averages]]></title>
-        <id>https://www.wengotravel.com</id>
-        <link href="https://www.wengotravel.com"/>
+        <title type="html"><![CDATA[X caters to creators with new ‘React with Video’ feature]]></title>
+        <id>https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/</id>
+        <link href="https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Turn a URL into a custom lead-capture funnel]]></title>
-        <id>https://funnelt.com/</id>
-        <link href="https://funnelt.com/"/>
+        <title type="html"><![CDATA[Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries]]></title>
+        <id>https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/</id>
+        <link href="https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neovim Hooks for AI Agents]]></title>
-        <id>https://github.com/NishantJoshi00/sidekick</id>
-        <link href="https://github.com/NishantJoshi00/sidekick"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <published>2026-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradient Shader]]></title>
-        <id>https://garden.bradwoods.io/notes/shaders/gradient</id>
-        <link href="https://garden.bradwoods.io/notes/shaders/gradient"/>
+        <title type="html"><![CDATA[Blue Origin plans to launch New Glenn again this year after explosion]]></title>
+        <id>https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/</id>
+        <link href="https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/"/>
         <updated>2026-06-01T16:00:00.000Z</updated>
         <published>2026-06-01T16:00:00.000Z</published>
     </entry>
