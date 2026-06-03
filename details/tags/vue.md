@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-03 23:04:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-04 06:00:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -11,10 +11,10 @@
 - [2026-05-28-How-I-reverse-engineered-the-StudentVue-SOAP-API-to-build-the-only-study-planner-that-syncs-with-it](https://dev.to/anirudh_ulabala_ea94f489e/how-i-reverse-engineered-the-studentvue-soap-api-to-build-the-only-study-planner-that-syncs-with-it-180o) 
 - [2026-05-26-Composable-Abstraction-Layer:-o-pattern-que-faltava-entre-Pinia-e-seus-componentes-Vue](https://dev.to/gabrielcaiana/composable-abstraction-layer-o-pattern-que-faltava-entre-pinia-e-seus-componentes-vue-5efc) 
 - [2026-05-25-Cache-Everything:-Advanced-Caching-Strategies-in-Vue-3-&amp;-Nuxt-4](https://dev.to/parsajiravand/cache-everything-advanced-caching-strategies-in-vue-3-nuxt-4-bgi) 
-- [2026-05-18-Disadvantage-Of-C-language](https://dev.to/waseem_khan_4baa15643a034/disadvantage-of-c-language-2bcp) 
-- [2026-05-18-Avoid-Unnecessary-Re-renders-in-Vue-with-`v-memo`](https://dev.to/jacobandrewsky/avoid-unnecessary-re-renders-in-vue-with-v-memo-49bo) 
-- [2026-05-18-Construí-un-clon-de-LWN.net-en-un-solo-App.vue-de-2292-líneas-porque-estaba-enojado](https://dev.to/andres_avalosgallegos_7d/construi-un-clon-de-lwnnet-en-un-solo-appvue-de-2292-lineas-porque-estaba-enojado-1mkh) 
 - [2026-05-18-Construí-un-clon-de-LWN.net-en-un-solo-App.vue-de-2292-líneas-porque-estaba-enojado](https://dev.to/andres_avalosgallegos_7d/construi-un-clon-de-lwnnet-en-un-solo-appvue-de-2292-lineas-porque-estaba-enojado-329g) 
+- [2026-05-18-Construí-un-clon-de-LWN.net-en-un-solo-App.vue-de-2292-líneas-porque-estaba-enojado](https://dev.to/andres_avalosgallegos_7d/construi-un-clon-de-lwnnet-en-un-solo-appvue-de-2292-lineas-porque-estaba-enojado-1mkh) 
+- [2026-05-18-Avoid-Unnecessary-Re-renders-in-Vue-with-`v-memo`](https://dev.to/jacobandrewsky/avoid-unnecessary-re-renders-in-vue-with-v-memo-49bo) 
+- [2026-05-18-Disadvantage-Of-C-language](https://dev.to/waseem_khan_4baa15643a034/disadvantage-of-c-language-2bcp) 
 - [2026-05-15-Advantages-of-TypeScript](https://dev.to/atif_tanwri_05545e2e22b82/advantages-of-typescript-a0o) 
 - [2026-05-13-How-I-Built-a-90+-Tools-Developer-Platform-with-Vue-3-+-SSG](https://dev.to/ruoyexi_pan_9ef6adab51ba8/how-i-built-a-90-tools-developer-platform-with-vue-3-ssg-5def) 
 - [2026-05-11-Using-Vue-in-Laravel-Without-Inertia](https://dev.to/raflizocky_/using-vue-in-laravel-without-inertia-2p47) 
@@ -47,7 +47,6 @@ https://svar.dev/blog/svar-vue-components-released/
 - [2026-05-08-Revisiting-Uncertainty:-On-Evidential-Learning-for-Partially-Relevant-Video-Retrieval](https://arxiv.org/abs/2605.06083) 
 - [2026-05-07-Free-Energy-Driven-Reinforcement-Learning-with-Adaptive-Advantage-Shaping-for-Unsupervised-Reasoning-in-LLMs](https://arxiv.org/abs/2605.04065) 
 - [2026-05-07-Deployment-Relevant-Alignment-Cannot-Be-Inferred-from-Model-Level-Evaluation-Alone](https://arxiv.org/abs/2605.04454) 
-- [2026-05-05-MAGIC:-Multi-Step-Advantage-Gated-Causal-Influence-for-Multi-agent-Reinforcement-Learning](https://arxiv.org/abs/2605.01805) 
 - [2026-05-26-Agentic-AI-and-the-SMB-Banking-Advantage](https://pub.towardsai.net/agentic-ai-and-the-smb-banking-advantage-0e75e0514707?source=rss----98111c9905da---4) 
 - [2026-05-24-Beyond-Foundation-Models:-Why-Enterprise-Context-Could-Become-the-Real-AI-Advantage](https://pub.towardsai.net/beyond-foundation-models-why-enterprise-context-could-become-the-real-ai-advantage-3b17fbd14c72?source=rss----98111c9905da---4) 
 - [2026-05-06-How-frontier-enterprises-are-building-an-AI-advantage](https://openai.com/index/introducing-b2b-signals) 
