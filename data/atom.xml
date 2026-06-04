@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-03T22:00:58.487Z</updated>
+    <updated>2026-06-04T00:02:48.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,23 +36,9 @@
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Defense tech is flooded with money, but who’s built to last?]]></title>
-        <id>https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/</id>
-        <link href="https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/"/>
-        <updated>2026-06-03T16:00:00.000Z</updated>
-        <published>2026-06-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber to put 500 data-collection vehicles on the road this year]]></title>
-        <id>https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/</id>
-        <link href="https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/"/>
-        <updated>2026-06-03T16:00:00.000Z</updated>
-        <published>2026-06-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta mercifully spun out VR fitness game Supernatural instead of just killing it]]></title>
-        <id>https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/</id>
-        <link href="https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/"/>
+        <title type="html"><![CDATA[Instagram is alerting users who were targeted by hackers during AI chatbot attacks]]></title>
+        <id>https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/</id>
+        <link href="https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
@@ -64,65 +50,51 @@
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Instagram is alerting users who were targeted by hackers during AI chatbot attacks]]></title>
-        <id>https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/</id>
-        <link href="https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/"/>
+        <title type="html"><![CDATA[Meta mercifully spun out VR fitness game Supernatural instead of just killing it]]></title>
+        <id>https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/</id>
+        <link href="https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Breaking Circular Imports in Python Without Losing Type Safety]]></title>
-        <id>https://www.orcaset.com/blog/breaking-circular-imports-in-python-without-losing-type-safety</id>
-        <link href="https://www.orcaset.com/blog/breaking-circular-imports-in-python-without-losing-type-safety"/>
+        <title type="html"><![CDATA[Uber to put 500 data-collection vehicles on the road this year]]></title>
+        <id>https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/</id>
+        <link href="https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Subpostmaster federation hit by ransomware attack]]></title>
-        <id>https://www.computerweekly.com/news/366643958/Subpostmaster-federation-hit-by-ransomware-attack</id>
-        <link href="https://www.computerweekly.com/news/366643958/Subpostmaster-federation-hit-by-ransomware-attack"/>
+        <title type="html"><![CDATA[Defense tech is flooded with money, but who’s built to last?]]></title>
+        <id>https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/</id>
+        <link href="https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ReactOS Joins VCF Southwest for the First Time]]></title>
-        <id>https://reactos.org/blogs/vcfsw-2026/</id>
-        <link href="https://reactos.org/blogs/vcfsw-2026/"/>
+        <title type="html"><![CDATA[Last.fm's robots.txt include's Asimov's three laws of robotics as URIs]]></title>
+        <id>https://www.last.fm/robots.txt</id>
+        <link href="https://www.last.fm/robots.txt"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plants like canola, tomatoes and rice reduce iron uptake in drought]]></title>
-        <id>https://ucalgary.ca/news/research-shows-plants-such-canola-tomatoes-and-rice-reduce-iron-uptake-when-stressed-drought</id>
-        <link href="https://ucalgary.ca/news/research-shows-plants-such-canola-tomatoes-and-rice-reduce-iron-uptake-when-stressed-drought"/>
+        <title type="html"><![CDATA[Polymarket cuts ties with Santos as regulators probe trades on Kalshi]]></title>
+        <id>https://apnews.com/article/george-santos-polymarket-kalshi-prediction-market-dcc34f4d927d074fe4e1bedeff04b64f</id>
+        <link href="https://apnews.com/article/george-santos-polymarket-kalshi-prediction-market-dcc34f4d927d074fe4e1bedeff04b64f"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terrifying -Two airliners took off just metres above airport workers]]></title>
-        <id>https://www.sbs.com.au/news/article/how-a-runway-change-led-to-two-terrifying-near-misses-at-this-australian-airport/48ommkllf</id>
-        <link href="https://www.sbs.com.au/news/article/how-a-runway-change-led-to-two-terrifying-near-misses-at-this-australian-airport/48ommkllf"/>
+        <title type="html"><![CDATA[Can I get feedback on my llms.txt file?]]></title>
+        <id>https://fyikamran.com/llms.txt</id>
+        <link href="https://fyikamran.com/llms.txt"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Code3DBench – single-image to executable Three.js benchmark]]></title>
-        <id>https://github.com/VladimirGl/Code3DBench</id>
-        <link href="https://github.com/VladimirGl/Code3DBench"/>
-        <updated>2026-06-03T16:00:00.000Z</updated>
-        <published>2026-06-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybe Don't Rely on Google's "Modern Web Guidance"]]></title>
-        <id>https://adrianroselli.com/2026/05/maybe-dont-rely-on-googles-modern-web-guidance.html</id>
-        <link href="https://adrianroselli.com/2026/05/maybe-dont-rely-on-googles-modern-web-guidance.html"/>
-        <updated>2026-06-03T16:00:00.000Z</updated>
-        <published>2026-06-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Beauty and the Beast' singer Peabo Bryson dies at 75]]></title>
-        <id>https://abcnews.com/GMA/Culture/singer-peabo-bryson-dies-75/story?id=133533357</id>
-        <link href="https://abcnews.com/GMA/Culture/singer-peabo-bryson-dies-75/story?id=133533357"/>
+        <title type="html"><![CDATA[Llms.txt is not a docs url dump]]></title>
+        <id>https://docsalot.dev/blog/llms-txt-for-saas-docs-what-to-include-and-what-to-skip</id>
+        <link href="https://docsalot.dev/blog/llms-txt-for-saas-docs-what-to-include-and-what-to-skip"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
@@ -134,9 +106,72 @@
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Building RAG Pipelines That Lie to You]]></title>
-        <id>https://pub.towardsai.net/stop-building-rag-pipelines-that-lie-to-you-a492f4f8ca05?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/stop-building-rag-pipelines-that-lie-to-you-a492f4f8ca05?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA['Beauty and the Beast' singer Peabo Bryson dies at 75]]></title>
+        <id>https://abcnews.com/GMA/Culture/singer-peabo-bryson-dies-75/story?id=133533357</id>
+        <link href="https://abcnews.com/GMA/Culture/singer-peabo-bryson-dies-75/story?id=133533357"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maybe Don't Rely on Google's "Modern Web Guidance"]]></title>
+        <id>https://adrianroselli.com/2026/05/maybe-dont-rely-on-googles-modern-web-guidance.html</id>
+        <link href="https://adrianroselli.com/2026/05/maybe-dont-rely-on-googles-modern-web-guidance.html"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Code3DBench – single-image to executable Three.js benchmark]]></title>
+        <id>https://github.com/VladimirGl/Code3DBench</id>
+        <link href="https://github.com/VladimirGl/Code3DBench"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terrifying -Two airliners took off just metres above airport workers]]></title>
+        <id>https://www.sbs.com.au/news/article/how-a-runway-change-led-to-two-terrifying-near-misses-at-this-australian-airport/48ommkllf</id>
+        <link href="https://www.sbs.com.au/news/article/how-a-runway-change-led-to-two-terrifying-near-misses-at-this-australian-airport/48ommkllf"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plants like canola, tomatoes and rice reduce iron uptake in drought]]></title>
+        <id>https://ucalgary.ca/news/research-shows-plants-such-canola-tomatoes-and-rice-reduce-iron-uptake-when-stressed-drought</id>
+        <link href="https://ucalgary.ca/news/research-shows-plants-such-canola-tomatoes-and-rice-reduce-iron-uptake-when-stressed-drought"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReactOS Joins VCF Southwest for the First Time]]></title>
+        <id>https://reactos.org/blogs/vcfsw-2026/</id>
+        <link href="https://reactos.org/blogs/vcfsw-2026/"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subpostmaster federation hit by ransomware attack]]></title>
+        <id>https://www.computerweekly.com/news/366643958/Subpostmaster-federation-hit-by-ransomware-attack</id>
+        <link href="https://www.computerweekly.com/news/366643958/Subpostmaster-federation-hit-by-ransomware-attack"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Circular Imports in Python Without Losing Type Safety]]></title>
+        <id>https://www.orcaset.com/blog/breaking-circular-imports-in-python-without-losing-type-safety</id>
+        <link href="https://www.orcaset.com/blog/breaking-circular-imports-in-python-without-losing-type-safety"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried Building Claude Code From Scratch | Here’s How Far I Got]]></title>
+        <id>https://pub.towardsai.net/i-tried-building-claude-code-from-scratch-heres-how-far-i-got-9ba607a81787?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tried-building-claude-code-from-scratch-heres-how-far-i-got-9ba607a81787?source=rss----98111c9905da---4"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Built a Pipeline and Called It a Decision Layer — And It’s Quietly Costing You]]></title>
+        <id>https://pub.towardsai.net/you-built-a-pipeline-and-called-it-a-decision-layer-and-its-quietly-costing-you-740d1fa0491b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/you-built-a-pipeline-and-called-it-a-decision-layer-and-its-quietly-costing-you-740d1fa0491b?source=rss----98111c9905da---4"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
@@ -148,9 +183,35 @@
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[prettier/prettier]]></title>
-        <id>https://github.com/prettier/prettier</id>
-        <link href="https://github.com/prettier/prettier"/>
+        <title type="html"><![CDATA[Stop Building RAG Pipelines That Lie to You]]></title>
+        <id>https://pub.towardsai.net/stop-building-rag-pipelines-that-lie-to-you-a492f4f8ca05?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/stop-building-rag-pipelines-that-lie-to-you-a492f4f8ca05?source=rss----98111c9905da---4"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[
+@ant-design/cli — A fully offline CLI for Ant Design component knowledge, project analysis, and version migration (with MCP server)
+]]></title>
+        <id>
+https://github.com/ant-design/ant-design-cli
+</id>
+        <link href="
+https://github.com/ant-design/ant-design-cli
+"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[
+A look at where the bytes are gonig when we deliver optimized JavaScript
+]]></title>
+        <id>
+https://pagegym.com/blog/minifying-your-javascript-helps
+</id>
+        <link href="
+https://pagegym.com/blog/minifying-your-javascript-helps
+"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
@@ -162,58 +223,58 @@
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Death of the Handoff Gap: How ExodeUI Restores the Designer's Intent]]></title>
-        <id>https://dev.to/shinoj_cm_6b559b3ab51bf47/the-death-of-the-handoff-gap-how-exodeui-restores-the-designers-intent-kga</id>
-        <link href="https://dev.to/shinoj_cm_6b559b3ab51bf47/the-death-of-the-handoff-gap-how-exodeui-restores-the-designers-intent-kga"/>
+        <title type="html"><![CDATA[prettier/prettier]]></title>
+        <id>https://github.com/prettier/prettier</id>
+        <link href="https://github.com/prettier/prettier"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RECOVERING LOST AND STOLEN CRYPTOCURRENCY WITH ZEUS CRYPTO RECOVERY SERVICES — THE BEST CHOICE FOR PROFESSIONAL DIGITAL ASSET RECOVERY]]></title>
-        <id>https://dev.to/callum_charles_5560d7bd15/recovering-lost-and-stolen-cryptocurrency-with-zeus-crypto-recovery-services-the-best-choice-for-25a8</id>
-        <link href="https://dev.to/callum_charles_5560d7bd15/recovering-lost-and-stolen-cryptocurrency-with-zeus-crypto-recovery-services-the-best-choice-for-25a8"/>
+        <title type="html"><![CDATA[I almost gave up on timezones — the day a Casablanca salon couldn't book a London client]]></title>
+        <id>https://dev.to/youssefroop/i-almost-gave-up-on-timezones-the-day-a-casablanca-salon-couldnt-book-a-london-client-1l2p</id>
+        <link href="https://dev.to/youssefroop/i-almost-gave-up-on-timezones-the-day-a-casablanca-salon-couldnt-book-a-london-client-1l2p"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blocking Rendering with Scripts: When and Why to Avoid Async/Defer in the]]></title>
-        <id>https://dev.to/pavkode/blocking-rendering-with-scripts-when-and-why-to-avoid-asyncdefer-in-the-pp</id>
-        <link href="https://dev.to/pavkode/blocking-rendering-with-scripts-when-and-why-to-avoid-asyncdefer-in-the-pp"/>
+        <title type="html"><![CDATA[Regular Expressions: The Guide I Always Wanted (2026)]]></title>
+        <id>https://dev.to/armorbreak/regular-expressions-the-guide-i-always-wanted-2026-3h8i</id>
+        <link href="https://dev.to/armorbreak/regular-expressions-the-guide-i-always-wanted-2026-3h8i"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How V8 Optimizes JavaScript Under the Hood]]></title>
-        <id>https://dev.to/bysontech_8dd1313811a8895/understanding-how-javascript-runs-in-the-browser-v8-rendering-engines-and-devtools-42oj</id>
-        <link href="https://dev.to/bysontech_8dd1313811a8895/understanding-how-javascript-runs-in-the-browser-v8-rendering-engines-and-devtools-42oj"/>
+        <title type="html"><![CDATA[Error Handling in Node.js: Beyond Try/Catch (2026)]]></title>
+        <id>https://dev.to/armorbreak/error-handling-in-nodejs-beyond-trycatch-2026-44h3</id>
+        <link href="https://dev.to/armorbreak/error-handling-in-nodejs-beyond-trycatch-2026-44h3"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How JavaScript Asynchronous Processing Actually Works]]></title>
-        <id>https://dev.to/bysontech_8dd1313811a8895/how-javascript-asynchronous-processing-actually-works-1m1d</id>
-        <link href="https://dev.to/bysontech_8dd1313811a8895/how-javascript-asynchronous-processing-actually-works-1m1d"/>
+        <title type="html"><![CDATA[Prisma 7: “The datasource property url is no longer supported" – Here's the Fix]]></title>
+        <id>https://dev.to/joodi/prisma-7-the-datasource-property-url-is-no-longer-supported-heres-the-fix-1178</id>
+        <link href="https://dev.to/joodi/prisma-7-the-datasource-property-url-is-no-longer-supported-heres-the-fix-1178"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How JavaScript Actually Runs in the Browser: V8, DOM, Rendering, and DevTools]]></title>
-        <id>https://dev.to/bysontech_8dd1313811a8895/how-javascript-actually-runs-in-the-browser-v8-dom-rendering-and-devtools-4i8a</id>
-        <link href="https://dev.to/bysontech_8dd1313811a8895/how-javascript-actually-runs-in-the-browser-v8-dom-rendering-and-devtools-4i8a"/>
+        <title type="html"><![CDATA[Environment Variables in Node.js: The Complete Guide (2026)]]></title>
+        <id>https://dev.to/armorbreak/environment-variables-in-nodejs-the-complete-guide-2026-16dj</id>
+        <link href="https://dev.to/armorbreak/environment-variables-in-nodejs-the-complete-guide-2026-16dj"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The WebSocket Auth Problem: Cookies vs. Bearer Tokens]]></title>
-        <id>https://dev.to/nikhilsharma6/the-websocket-auth-problem-cookies-vs-bearer-tokens-4eel</id>
-        <link href="https://dev.to/nikhilsharma6/the-websocket-auth-problem-cookies-vs-bearer-tokens-4eel"/>
+        <title type="html"><![CDATA[Killing Frontend State: How Visual Logic Nodes Enable Vibe Design]]></title>
+        <id>https://dev.to/shinoj_cm_6b559b3ab51bf47/killing-frontend-state-how-visual-logic-nodes-enable-vibe-design-5gkj</id>
+        <link href="https://dev.to/shinoj_cm_6b559b3ab51bf47/killing-frontend-state-how-visual-logic-nodes-enable-vibe-design-5gkj"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chat Genius AI — A Modular AI Desktop Workspace Built with Electron]]></title>
-        <id>https://dev.to/gokhank58/chat-genius-ai-a-modular-ai-desktop-workspace-built-with-electron-1g45</id>
-        <link href="https://dev.to/gokhank58/chat-genius-ai-a-modular-ai-desktop-workspace-built-with-electron-1g45"/>
+        <title type="html"><![CDATA[📢 Oreste AI + Oreste OS Browser è online!]]></title>
+        <id>https://dev.to/oreste_dechiara_94b056fb/oreste-ai-oreste-os-browser-e-online-3e3p</id>
+        <link href="https://dev.to/oreste_dechiara_94b056fb/oreste-ai-oreste-os-browser-e-online-3e3p"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
@@ -225,9 +286,58 @@
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[📢 Oreste AI + Oreste OS Browser è online!]]></title>
-        <id>https://dev.to/oreste_dechiara_94b056fb/oreste-ai-oreste-os-browser-e-online-3e3p</id>
-        <link href="https://dev.to/oreste_dechiara_94b056fb/oreste-ai-oreste-os-browser-e-online-3e3p"/>
+        <title type="html"><![CDATA[Chat Genius AI — A Modular AI Desktop Workspace Built with Electron]]></title>
+        <id>https://dev.to/gokhank58/chat-genius-ai-a-modular-ai-desktop-workspace-built-with-electron-1g45</id>
+        <link href="https://dev.to/gokhank58/chat-genius-ai-a-modular-ai-desktop-workspace-built-with-electron-1g45"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The WebSocket Auth Problem: Cookies vs. Bearer Tokens]]></title>
+        <id>https://dev.to/nikhilsharma6/the-websocket-auth-problem-cookies-vs-bearer-tokens-4eel</id>
+        <link href="https://dev.to/nikhilsharma6/the-websocket-auth-problem-cookies-vs-bearer-tokens-4eel"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How JavaScript Actually Runs in the Browser: V8, DOM, Rendering, and DevTools]]></title>
+        <id>https://dev.to/bysontech_8dd1313811a8895/how-javascript-actually-runs-in-the-browser-v8-dom-rendering-and-devtools-4i8a</id>
+        <link href="https://dev.to/bysontech_8dd1313811a8895/how-javascript-actually-runs-in-the-browser-v8-dom-rendering-and-devtools-4i8a"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How JavaScript Asynchronous Processing Actually Works]]></title>
+        <id>https://dev.to/bysontech_8dd1313811a8895/how-javascript-asynchronous-processing-actually-works-1m1d</id>
+        <link href="https://dev.to/bysontech_8dd1313811a8895/how-javascript-asynchronous-processing-actually-works-1m1d"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How V8 Optimizes JavaScript Under the Hood]]></title>
+        <id>https://dev.to/bysontech_8dd1313811a8895/understanding-how-javascript-runs-in-the-browser-v8-rendering-engines-and-devtools-42oj</id>
+        <link href="https://dev.to/bysontech_8dd1313811a8895/understanding-how-javascript-runs-in-the-browser-v8-rendering-engines-and-devtools-42oj"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blocking Rendering with Scripts: When and Why to Avoid Async/Defer in the]]></title>
+        <id>https://dev.to/pavkode/blocking-rendering-with-scripts-when-and-why-to-avoid-asyncdefer-in-the-pp</id>
+        <link href="https://dev.to/pavkode/blocking-rendering-with-scripts-when-and-why-to-avoid-asyncdefer-in-the-pp"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RECOVERING LOST AND STOLEN CRYPTOCURRENCY WITH ZEUS CRYPTO RECOVERY SERVICES — THE BEST CHOICE FOR PROFESSIONAL DIGITAL ASSET RECOVERY]]></title>
+        <id>https://dev.to/callum_charles_5560d7bd15/recovering-lost-and-stolen-cryptocurrency-with-zeus-crypto-recovery-services-the-best-choice-for-25a8</id>
+        <link href="https://dev.to/callum_charles_5560d7bd15/recovering-lost-and-stolen-cryptocurrency-with-zeus-crypto-recovery-services-the-best-choice-for-25a8"/>
+        <updated>2026-06-03T16:00:00.000Z</updated>
+        <published>2026-06-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Death of the Handoff Gap: How ExodeUI Restores the Designer's Intent]]></title>
+        <id>https://dev.to/shinoj_cm_6b559b3ab51bf47/the-death-of-the-handoff-gap-how-exodeui-restores-the-designers-intent-kga</id>
+        <link href="https://dev.to/shinoj_cm_6b559b3ab51bf47/the-death-of-the-handoff-gap-how-exodeui-restores-the-designers-intent-kga"/>
         <updated>2026-06-03T16:00:00.000Z</updated>
         <published>2026-06-03T16:00:00.000Z</published>
     </entry>
@@ -253,13 +363,6 @@
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Is How Trump Finally Signed the AI Executive Order]]></title>
-        <id>https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/</id>
-        <link href="https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet Microsoft Scout, Your AI Coworker That Never Logs Off]]></title>
         <id>https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/</id>
         <link href="https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/"/>
@@ -267,100 +370,9 @@
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump signs narrower executive order on AI oversight after industry objections ]]></title>
-        <id>https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/</id>
-        <link href="https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Focused Energy raises whopping $240M Series A for laser-powered fusion tech]]></title>
-        <id>https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/</id>
-        <link href="https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI]]></title>
-        <id>https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/</id>
-        <link href="https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon]]></title>
-        <id>https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/</id>
-        <link href="https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber caps employee AI spending after blowing through budget in 4 months]]></title>
-        <id>https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/</id>
-        <link href="https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s AI agent for WhatsApp Business is now available globally]]></title>
-        <id>https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/</id>
-        <link href="https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLab cuts 14% of staff as it scales its platform to serve AI workloads]]></title>
-        <id>https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/</id>
-        <link href="https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked]]></title>
-        <id>https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/</id>
-        <link href="https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alexandr Wang's bid to revive Meta's AI edge]]></title>
-        <id>https://www.ft.com/content/d26faf9d-6ef0-4480-ab80-bac6a36fe173</id>
-        <link href="https://www.ft.com/content/d26faf9d-6ef0-4480-ab80-bac6a36fe173"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akaganite, a managed Rust toolchain for licensed console developers (Xbox, PS 5)]]></title>
-        <id>https://akaganite.com</id>
-        <link href="https://akaganite.com"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A chart detailing countries' attitudes toward international cuisines]]></title>
-        <id>https://old.reddit.com/r/Infographics/comments/1m2qpse/a_chart_detailing_countries_attitudes_toward/</id>
-        <link href="https://old.reddit.com/r/Infographics/comments/1m2qpse/a_chart_detailing_countries_attitudes_toward/"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Session Vault – Stop Chrome from Discarding Heavy Claude and AI Tabs]]></title>
-        <id>https://chromewebstore.google.com/detail/session-vault/mnjlmmekjefpcjopgdbadafkdjibbhpa</id>
-        <link href="https://chromewebstore.google.com/detail/session-vault/mnjlmmekjefpcjopgdbadafkdjibbhpa"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta workers can opt out of being tracked at work up to 30 min]]></title>
-        <id>https://www.bbc.com/news/articles/c93x0k194yno</id>
-        <link href="https://www.bbc.com/news/articles/c93x0k194yno"/>
-        <updated>2026-06-02T16:00:00.000Z</updated>
-        <published>2026-06-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New York to require 3D printers to be equipped with filter software]]></title>
-        <id>https://www.governor.ny.gov/news/keeping-new-yorkers-safe-governor-hochul-signs-legislation-strengthen-public-safety-and-make</id>
-        <link href="https://www.governor.ny.gov/news/keeping-new-yorkers-safe-governor-hochul-signs-legislation-strengthen-public-safety-and-make"/>
+        <title type="html"><![CDATA[This Is How Trump Finally Signed the AI Executive Order]]></title>
+        <id>https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/</id>
+        <link href="https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/"/>
         <updated>2026-06-02T16:00:00.000Z</updated>
         <published>2026-06-02T16:00:00.000Z</published>
     </entry>
