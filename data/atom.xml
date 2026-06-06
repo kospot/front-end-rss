@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-06T04:02:59.364Z</updated>
+    <updated>2026-06-06T07:02:58.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -113,177 +113,37 @@
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Vinyl, a TypeScript streaming engine for HTML5 media]]></title>
-        <id>https://amazonmusic.github.io/vinyl/</id>
-        <link href="https://amazonmusic.github.io/vinyl/"/>
+        <title type="html"><![CDATA[Show HN: Summarize YT Video by pasting url into AI chat]]></title>
+        <id>https://www.youtube.com/watch?v=BblwmuFhhOI</id>
+        <link href="https://www.youtube.com/watch?v=BblwmuFhhOI"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pre-Modern Armies for Worldbuilders, Part I: Why They Fight]]></title>
-        <id>https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/</id>
-        <link href="https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/"/>
+        <title type="html"><![CDATA[39C3: The art of text rendering (Nicolas Rougier)]]></title>
+        <id>https://news.ycombinator.com/item?id=48422104</id>
+        <link href="https://news.ycombinator.com/item?id=48422104"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MIT's Dr Fink got Sakharov Prize for defending human rights of scientists in US]]></title>
-        <id>https://www.aps.org/funding-recognition/prize/andrei-sakharov</id>
-        <link href="https://www.aps.org/funding-recognition/prize/andrei-sakharov"/>
+        <title type="html"><![CDATA[Running Python code in a sandbox with MicroPython and WASM]]></title>
+        <id>https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/</id>
+        <link href="https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Fix for AI's Spending Problem Is Not Good for OpenAI and Anthropic [video]]]></title>
-        <id>https://www.youtube.com/watch?v=w1yB7ck36JA</id>
-        <link href="https://www.youtube.com/watch?v=w1yB7ck36JA"/>
+        <title type="html"><![CDATA[Alan Kay on "Should web browsers have stuck to being document viewers?"]]></title>
+        <id>https://donhopkins.medium.com/alan-kay-on-should-web-browsers-have-stuck-to-being-document-viewers-and-a-discussion-of-news-5cb92c7b3445</id>
+        <link href="https://donhopkins.medium.com/alan-kay-on-should-web-browsers-have-stuck-to-being-document-viewers-and-a-discussion-of-news-5cb92c7b3445"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: NEP – Ethereum JSON-RPC transform that beats ZSTD by 12%]]></title>
-        <id>https://github.com/Louw115/nep-ethereum-compression</id>
-        <link href="https://github.com/Louw115/nep-ethereum-compression"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Maps on the Web]]></title>
-        <id>https://maps.apple.com/</id>
-        <link href="https://maps.apple.com/"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tensor Shapes in Pyrefly – Avik Chaudhuri – PyCon US 2026 Typing Summit [video]]]></title>
-        <id>https://www.youtube.com/watch?v=HE5EyQW_7eY</id>
-        <link href="https://www.youtube.com/watch?v=HE5EyQW_7eY"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njsakjfhiqugf83279r239r23hosbdbaisdsaLOL]]></title>
-        <id>https://news.ycombinator.com/item?id=48419815</id>
-        <link href="https://news.ycombinator.com/item?id=48419815"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex for Sales Teams: Moving Faster to Solve Customer Problems [video]]]></title>
-        <id>https://www.youtube.com/watch?v=U2C55LC0ZLM</id>
-        <link href="https://www.youtube.com/watch?v=U2C55LC0ZLM"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BenchEvolver: Frontier Task Synthesis via Solution-Centric Evolution]]></title>
-        <id>https://benchevolver.github.io/</id>
-        <link href="https://benchevolver.github.io/"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Alternative to WebXR, TypeScript SDK for multi-user VR app development]]></title>
-        <id>https://github.com/adamas-vr/runtime-interface</id>
-        <link href="https://github.com/adamas-vr/runtime-interface"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investment leaders share views on AI job displacement as next big risk (2021)]]></title>
-        <id>https://www.bloomberg.com/news/articles/2021-01-12/what-do-wall-street-leaders-think-is-the-next-big-risk</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-01-12/what-do-wall-street-leaders-think-is-the-next-big-risk"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Simple attributes for spec-driven agentic workflows (C#, Rust)]]></title>
-        <id>https://github.com/doublecouponday/gherkinsync</id>
-        <link href="https://github.com/doublecouponday/gherkinsync"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief History of Reviewing Things on the Internet, Vol. I]]></title>
-        <id>https://catandgirl.com/a-brief-history-of-reviewing-things-on-the-internet-vol-i/</id>
-        <link href="https://catandgirl.com/a-brief-history-of-reviewing-things-on-the-internet-vol-i/"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Knowledge Access for Agents?]]></title>
-        <id>https://news.ycombinator.com/item?id=48419692</id>
-        <link href="https://news.ycombinator.com/item?id=48419692"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safsaf – A Web Framework for Guile]]></title>
-        <id>https://www.cbaines.net/posts/safsaf_a_guile_web_framework/</id>
-        <link href="https://www.cbaines.net/posts/safsaf_a_guile_web_framework/"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Geo and Why It Matters for B2B Companies in Latam]]></title>
-        <id>https://expansionamericas.com/what-is-geo-and-why-it-matters-for-b2b-companies-in-latam</id>
-        <link href="https://expansionamericas.com/what-is-geo-and-why-it-matters-for-b2b-companies-in-latam"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PR: Banana as an official unit in Python pint package]]></title>
-        <id>https://github.com/hgrecco/pint/pull/2316</id>
-        <link href="https://github.com/hgrecco/pint/pull/2316"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do You Really Want That Computer-Science Degree?]]></title>
-        <id>https://www.economist.com/graphic-detail/2026/06/01/do-you-really-want-that-computer-science-degree</id>
-        <link href="https://www.economist.com/graphic-detail/2026/06/01/do-you-really-want-that-computer-science-degree"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Port React Compiler to Rust]]></title>
-        <id>https://github.com/facebook/react/pull/36173</id>
-        <link href="https://github.com/facebook/react/pull/36173"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astrocytic Contributions to Cognition Across Rodent Models of Brain Dysfunction]]></title>
-        <id>https://www.mdpi.com/2218-273X/16/5/662</id>
-        <link href="https://www.mdpi.com/2218-273X/16/5/662"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Non-Uniform KV Cache for Efficient Multi-Turn LLM Serving]]></title>
-        <id>https://arxiv.org/abs/2606.06302</id>
-        <link href="https://arxiv.org/abs/2606.06302"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alzheimer's patient gets back speech, bladder control and memory in drug trial]]></title>
-        <id>https://nypost.com/2026/06/04/health/alzheimers-patient-recovers-speech-continence-and-memory-with-this-drug/</id>
-        <link href="https://nypost.com/2026/06/04/health/alzheimers-patient-recovers-speech-continence-and-memory-with-this-drug/"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Incremental SfM pipeline that reconstructs 3D point clouds from images]]></title>
-        <id>https://github.com/egeozgul/Incremental-3D-Reconstruction-SfM/tree/main</id>
-        <link href="https://github.com/egeozgul/Incremental-3D-Reconstruction-SfM/tree/main"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Will your company be doing "LeetCode" interviews a year from now?]]></title>
-        <id>https://news.ycombinator.com/item?id=48420519</id>
-        <link href="https://news.ycombinator.com/item?id=48420519"/>
+        <title type="html"><![CDATA[Bernie Sanders: A.I. Is a Public Resource. You Should Own Half of It]]></title>
+        <id>https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html</id>
+        <link href="https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
@@ -295,9 +155,177 @@
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bernie Sanders: A.I. Is a Public Resource. You Should Own Half of It]]></title>
-        <id>https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html</id>
-        <link href="https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html"/>
+        <title type="html"><![CDATA[Ask HN: Will your company be doing "LeetCode" interviews a year from now?]]></title>
+        <id>https://news.ycombinator.com/item?id=48420519</id>
+        <link href="https://news.ycombinator.com/item?id=48420519"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Incremental SfM pipeline that reconstructs 3D point clouds from images]]></title>
+        <id>https://github.com/egeozgul/Incremental-3D-Reconstruction-SfM/tree/main</id>
+        <link href="https://github.com/egeozgul/Incremental-3D-Reconstruction-SfM/tree/main"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alzheimer's patient gets back speech, bladder control and memory in drug trial]]></title>
+        <id>https://nypost.com/2026/06/04/health/alzheimers-patient-recovers-speech-continence-and-memory-with-this-drug/</id>
+        <link href="https://nypost.com/2026/06/04/health/alzheimers-patient-recovers-speech-continence-and-memory-with-this-drug/"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Non-Uniform KV Cache for Efficient Multi-Turn LLM Serving]]></title>
+        <id>https://arxiv.org/abs/2606.06302</id>
+        <link href="https://arxiv.org/abs/2606.06302"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astrocytic Contributions to Cognition Across Rodent Models of Brain Dysfunction]]></title>
+        <id>https://www.mdpi.com/2218-273X/16/5/662</id>
+        <link href="https://www.mdpi.com/2218-273X/16/5/662"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Port React Compiler to Rust]]></title>
+        <id>https://github.com/facebook/react/pull/36173</id>
+        <link href="https://github.com/facebook/react/pull/36173"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do You Really Want That Computer-Science Degree?]]></title>
+        <id>https://www.economist.com/graphic-detail/2026/06/01/do-you-really-want-that-computer-science-degree</id>
+        <link href="https://www.economist.com/graphic-detail/2026/06/01/do-you-really-want-that-computer-science-degree"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PR: Banana as an official unit in Python pint package]]></title>
+        <id>https://github.com/hgrecco/pint/pull/2316</id>
+        <link href="https://github.com/hgrecco/pint/pull/2316"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Geo and Why It Matters for B2B Companies in Latam]]></title>
+        <id>https://expansionamericas.com/what-is-geo-and-why-it-matters-for-b2b-companies-in-latam</id>
+        <link href="https://expansionamericas.com/what-is-geo-and-why-it-matters-for-b2b-companies-in-latam"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safsaf – A Web Framework for Guile]]></title>
+        <id>https://www.cbaines.net/posts/safsaf_a_guile_web_framework/</id>
+        <link href="https://www.cbaines.net/posts/safsaf_a_guile_web_framework/"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Knowledge Access for Agents?]]></title>
+        <id>https://news.ycombinator.com/item?id=48419692</id>
+        <link href="https://news.ycombinator.com/item?id=48419692"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Brief History of Reviewing Things on the Internet, Vol. I]]></title>
+        <id>https://catandgirl.com/a-brief-history-of-reviewing-things-on-the-internet-vol-i/</id>
+        <link href="https://catandgirl.com/a-brief-history-of-reviewing-things-on-the-internet-vol-i/"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Simple attributes for spec-driven agentic workflows (C#, Rust)]]></title>
+        <id>https://github.com/doublecouponday/gherkinsync</id>
+        <link href="https://github.com/doublecouponday/gherkinsync"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investment leaders share views on AI job displacement as next big risk (2021)]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-01-12/what-do-wall-street-leaders-think-is-the-next-big-risk</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-01-12/what-do-wall-street-leaders-think-is-the-next-big-risk"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Alternative to WebXR, TypeScript SDK for multi-user VR app development]]></title>
+        <id>https://github.com/adamas-vr/runtime-interface</id>
+        <link href="https://github.com/adamas-vr/runtime-interface"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BenchEvolver: Frontier Task Synthesis via Solution-Centric Evolution]]></title>
+        <id>https://benchevolver.github.io/</id>
+        <link href="https://benchevolver.github.io/"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex for Sales Teams: Moving Faster to Solve Customer Problems [video]]]></title>
+        <id>https://www.youtube.com/watch?v=U2C55LC0ZLM</id>
+        <link href="https://www.youtube.com/watch?v=U2C55LC0ZLM"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njsakjfhiqugf83279r239r23hosbdbaisdsaLOL]]></title>
+        <id>https://news.ycombinator.com/item?id=48419815</id>
+        <link href="https://news.ycombinator.com/item?id=48419815"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensor Shapes in Pyrefly – Avik Chaudhuri – PyCon US 2026 Typing Summit [video]]]></title>
+        <id>https://www.youtube.com/watch?v=HE5EyQW_7eY</id>
+        <link href="https://www.youtube.com/watch?v=HE5EyQW_7eY"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Maps on the Web]]></title>
+        <id>https://maps.apple.com/</id>
+        <link href="https://maps.apple.com/"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: NEP – Ethereum JSON-RPC transform that beats ZSTD by 12%]]></title>
+        <id>https://github.com/Louw115/nep-ethereum-compression</id>
+        <link href="https://github.com/Louw115/nep-ethereum-compression"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fix for AI's Spending Problem Is Not Good for OpenAI and Anthropic [video]]]></title>
+        <id>https://www.youtube.com/watch?v=w1yB7ck36JA</id>
+        <link href="https://www.youtube.com/watch?v=w1yB7ck36JA"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT's Dr Fink got Sakharov Prize for defending human rights of scientists in US]]></title>
+        <id>https://www.aps.org/funding-recognition/prize/andrei-sakharov</id>
+        <link href="https://www.aps.org/funding-recognition/prize/andrei-sakharov"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pre-Modern Armies for Worldbuilders, Part I: Why They Fight]]></title>
+        <id>https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/</id>
+        <link href="https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Vinyl, a TypeScript streaming engine for HTML5 media]]></title>
+        <id>https://amazonmusic.github.io/vinyl/</id>
+        <link href="https://amazonmusic.github.io/vinyl/"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
@@ -323,44 +351,16 @@
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[micropython-wasm 0.1a2]]></title>
+        <id>https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Running Python code in a sandbox with MicroPython and WASM]]></title>
         <id>https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</id>
         <link href="https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective Request Cancellation with Axios in JavaScript]]></title>
-        <id>https://dev.to/peakiqofficial/effective-request-cancellation-with-axios-in-javascript-4979</id>
-        <link href="https://dev.to/peakiqofficial/effective-request-cancellation-with-axios-in-javascript-4979"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The FDD for Vanilla JS: The 20-Min Doc That Saves 2 Days of Rework]]></title>
-        <id>https://dev.to/brixtonmavu/the-fdd-for-vanilla-js-the-20-min-doc-that-saves-2-days-of-rework-3dhf</id>
-        <link href="https://dev.to/brixtonmavu/the-fdd-for-vanilla-js-the-20-min-doc-that-saves-2-days-of-rework-3dhf"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Express: Building Real APIs That Scale (2026)]]></title>
-        <id>https://dev.to/armorbreak/nodejs-express-building-real-apis-that-scale-2026-564f</id>
-        <link href="https://dev.to/armorbreak/nodejs-express-building-real-apis-that-scale-2026-564f"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript: The Practical Guide for JavaScript Developers (2026)]]></title>
-        <id>https://dev.to/armorbreak/typescript-the-practical-guide-for-javascript-developers-2026-2j57</id>
-        <link href="https://dev.to/armorbreak/typescript-the-practical-guide-for-javascript-developers-2026-2j57"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ParadeDB NPM Package Seeks Feedback on Simplifying Postgres Integration with JavaScript via Drizzle ORM]]></title>
-        <id>https://dev.to/pavkode/paradedb-npm-package-seeks-feedback-on-simplifying-postgres-integration-with-javascript-via-drizzle-4pje</id>
-        <link href="https://dev.to/pavkode/paradedb-npm-package-seeks-feedback-on-simplifying-postgres-integration-with-javascript-via-drizzle-4pje"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
