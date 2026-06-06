@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-06 21:03:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-06 23:03:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -13,6 +13,7 @@
 - [2026-05-20-I-built-a-cinematic-dark-luxury-coffee-shop-template-with-Next.js,-GSAP-&amp;-Three.js-—-here's-how-and-it's-on-Gumroad](https://dev.to/aiman03del/i-built-a-cinematic-dark-luxury-coffee-shop-template-with-nextjs-gsap-threejs-heres-how-gdf) 
 - [2026-05-20-Building-a-live-3D-globe-of-real-time-web-traffic-with-Three.js-and-Server-Sent-Events](https://dev.to/zenovay/building-a-live-3d-globe-of-real-time-web-traffic-with-threejs-and-server-sent-events-3lok) 
 - [2026-05-31-mrdoob/three.js](https://github.com/mrdoob/three.js) 
+- [2026-06-06-The-Hidden-Mathematics-Behind-a-Speaking-3D-AI-Avatar-in-Three.js](https://pub.towardsai.net/the-hidden-mathematics-behind-a-speaking-3d-ai-avatar-in-three-js-e9a6651e6725?source=rss----98111c9905da---4) 
 - [2026-06-04-Show-HN:-Code3DBench-–-single-image-to-executable-Three.js-benchmark](https://github.com/VladimirGl/Code3DBench) 
 - [2026-05-30-We-open-source-our-threejs-based-game-engine](https://buildwithstem.com) 
 - [2026-05-18-打破虚拟与现实的边界，这-6-款网页解谜游戏值得一试](https://sspai.com/post/109743) 

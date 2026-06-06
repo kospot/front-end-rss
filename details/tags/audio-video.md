@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-06 21:03:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-06 23:03:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -237,15 +237,15 @@
 - [2026-06-03-A-startup,-Everand,-is-now-bundling-e-books,-audiobooks,-and-book-clubs-in-challenge-to-Amazon](https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/) 
 - [2026-05-27-YouTube-will-now-automatically-label-AI-videos](https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/) 
 - [2026-05-22-Audio-generation-app-Huxe,-founded-by-former-NotebookLM-developers,-shuts-down](https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/) 
-- [2026-05-21-Clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral](https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/) 
 - [2026-05-21-Spotify-launches-an-ElevenLabs-powered-audiobook-creation-tool](https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/) 
-- [2026-05-20-Stability-AI-releases-a-new-audio-model-that-can-create-six-minute-songs](https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/) 
-- [2026-05-20-Google’s-Gemini-Omni-turns-images,-audio,-and-text-into-video-—-and-that’s-just-the-start](https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/) 
-- [2026-05-20-Discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user](https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/) 
+- [2026-05-21-Clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral](https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/) 
 - [2026-05-20-‘Ask-YouTube’-brings-AI-powered-conversational-search-to-video,-adds-Gemini-Omni-to-Shorts](https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/) 
-- [2026-05-14-Spotify-to-adopt-Apple’s-new-video-podcast-tech,-offering-creators-easier-cross-platform-distribution](https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/) 
-- [2026-05-14-X-launches-a-History-tab-for-bookmarks,-likes,-videos,-and-articles](https://techcrunch.com/2026/05/13/x-launches-a-history-tab-for-bookmarks-likes-videos-and-articles/) 
+- [2026-05-20-Discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user](https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/) 
+- [2026-05-20-Google’s-Gemini-Omni-turns-images,-audio,-and-text-into-video-—-and-that’s-just-the-start](https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/) 
+- [2026-05-20-Stability-AI-releases-a-new-audio-model-that-can-create-six-minute-songs](https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/) 
 - [2026-05-14-Origin-Lab-raises-$8M-to-help-video-game-companies-sell-data-to-world-model-builders](https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/) 
+- [2026-05-14-X-launches-a-History-tab-for-bookmarks,-likes,-videos,-and-articles](https://techcrunch.com/2026/05/13/x-launches-a-history-tab-for-bookmarks-likes-videos-and-articles/) 
+- [2026-05-14-Spotify-to-adopt-Apple’s-new-video-podcast-tech,-offering-creators-easier-cross-platform-distribution](https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/) 
 - [2026-05-09-Prime-Video-follows-Netflix-and-Disney-by-adding-a-TikTok-like-‘Clips’-feed-in-its-app](https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/) 
 - [2026-06-02-Flush-With-Cash-From-OpenAI,-Opal-Is-Making-an-AI-Powered-Audio-Gadget](https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/) 
 - [2026-06-01-Universal-Audio-Volt-876-USB-Audio-Interface-Review:-Pro-Level-Polish](https://www.wired.com/review/universal-audio-volt-876-usb-audio-interface/) 

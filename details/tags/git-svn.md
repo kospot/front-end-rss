@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-06 21:03:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-06 23:03:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -136,8 +136,8 @@
 - [2026-05-09-Remembering-Planet-Source-Code:-Sharing-Code-Before-GitHub-Made-It-Easy](https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy) 
 - [2026-05-31-‘What-a-joke’:-Github-Copilot’s-new-token-based-billing-spurs-consternation-among-devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/) 
 - [2026-05-13-Poppy-debuts-a-proactive-AI-assistant-to-help-organize-your-digital-life](https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/) 
-- [2026-05-09-Western-Digital-Promo-Code:-15%-Off](https://www.wired.com/story/western-digital-promo-code/) 
 - [2026-05-09-Logitech-Promo-Codes-and-Deals:-Up-to-$100-Off](https://www.wired.com/story/logitech-promo-code/) 
+- [2026-05-09-Western-Digital-Promo-Code:-15%-Off](https://www.wired.com/story/western-digital-promo-code/) 
 - [2026-06-01-Feeble-Little-Horse-leans-into-digital-weirdness-on-bitknot](https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review) 
 - [2026-05-11-Logitech’s-tiny-folding-mouse-improves-upon-the-laptop-trackpad](https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images) 
 - [2026-05-09-These-great-digital-gifts-will-arrive-just-in-time-for-Mother’s-Day](https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026) 

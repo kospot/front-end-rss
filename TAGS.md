@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-06 21:03:12。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-06 23:03:38。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -271,6 +271,7 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 - [【前端之巅】I-built-a-cinematic-dark-luxury-coffee-shop-template-with-Next.js,-GSAP-&amp;-Three.js-—-here's-how-and-it's-on-Gumroad](https://dev.to/aiman03del/i-built-a-cinematic-dark-luxury-coffee-shop-template-with-nextjs-gsap-threejs-heres-how-gdf)
 - [【前端之巅】Building-a-live-3D-globe-of-real-time-web-traffic-with-Three.js-and-Server-Sent-Events](https://dev.to/zenovay/building-a-live-3d-globe-of-real-time-web-traffic-with-threejs-and-server-sent-events-3lok)
 - [【GitHub Trending JS】mrdoob/three.js](https://github.com/mrdoob/three.js)
+- [【Towards AI】The-Hidden-Mathematics-Behind-a-Speaking-3D-AI-Avatar-in-Three.js](https://pub.towardsai.net/the-hidden-mathematics-behind-a-speaking-3d-ai-avatar-in-three-js-e9a6651e6725?source=rss----98111c9905da---4)
 - [【Hacker News】Show-HN:-Code3DBench-–-single-image-to-executable-Three.js-benchmark](https://github.com/VladimirGl/Code3DBench)
 - [【Hacker News】We-open-source-our-threejs-based-game-engine](https://buildwithstem.com)
 - [【少数派】打破虚拟与现实的边界，这-6-款网页解谜游戏值得一试](https://sspai.com/post/109743)
@@ -660,8 +661,8 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 - [【Hacker News】Sam-Altman-makes-'mic-drop'-offer-to-every-Y-Combinator-startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/)
 - [【Hacker News】OpenAI-is-offering-ChatGPT-Plus-to-citizens-of-Malta-for-a-year](https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/)
 - [【TechCrunch】Microsoft-offers-devs-a-better-way-to-control-AI-agent-behavior](https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/)
-- [【TechCrunch】The-Path,-founded-by-Tony-Robbins-and-Calm-alums,-hopes-to-offer-safer-AI-therapy](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/)
 - [【TechCrunch】Sam-Altman-makes-‘mic-drop’-offer-to-every-Y-Combinator-startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/)
+- [【TechCrunch】The-Path,-founded-by-Tony-Robbins-and-Calm-alums,-hopes-to-offer-safer-AI-therapy](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/)
 - [【TechCrunch】NanoClaw-creator-turns-down-$20M-buyout-offer,-raises-$12M-seed-instead](https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/)
 - [【TechCrunch】Anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares](https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/)
 - [【Wired】Petlibro-Offers:-60%-Off-in-May](https://www.wired.com/story/petlibro-discount-code/)
