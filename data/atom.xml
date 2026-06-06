@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-06T15:03:38.714Z</updated>
+    <updated>2026-06-06T22:01:21.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,142 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Meta made its own AI-generated clickbait news feed]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Show HN: Aegis – post-quantum cyberdefense proxy (471 attacks, 0 breaches)]]></title>
+        <id>https://github.com/conchaestradamiguelangel-droid/aegis</id>
+        <link href="https://github.com/conchaestradamiguelangel-droid/aegis"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grand Theft Auto VI is warping the video game release calendar]]></title>
-        <id>https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest</id>
-        <link href="https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest"/>
+        <title type="html"><![CDATA[No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management]]></title>
+        <id>https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management?source=:so:tw:or:awr:odv:::&amp;SC=:so:tw:or:awr:odv:::&amp;pcode=</id>
+        <link href="https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management?source=:so:tw:or:awr:odv:::&amp;SC=:so:tw:or:awr:odv:::&amp;pcode="/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a Little Something to the CSS]]></title>
+        <id>https://codeberg.org/gedankenstuecke/pages-source/commit/57f7df832d45eb847d1a0af3cca2f3ab81585a2c</id>
+        <link href="https://codeberg.org/gedankenstuecke/pages-source/commit/57f7df832d45eb847d1a0af3cca2f3ab81585a2c"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How to get my contact info off US political party's list]]></title>
+        <id>https://news.ycombinator.com/item?id=48429285</id>
+        <link href="https://news.ycombinator.com/item?id=48429285"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukrainian Drone Strikes Target Russian Military Facilities in St. Petersburg]]></title>
+        <id>https://www.wsj.com/world/russia/mass-ukrainian-drone-strikes-target-russian-military-facilities-in-st-petersburg-224502a5</id>
+        <link href="https://www.wsj.com/world/russia/mass-ukrainian-drone-strikes-target-russian-military-facilities-in-st-petersburg-224502a5"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI could drive advances that solve problems it brings, scientist suggests]]></title>
+        <id>https://www.rnz.co.nz/news/science-and-technology/597458/ai-could-drive-advances-that-solve-the-problems-it-brings-computer-scientist-suggests</id>
+        <link href="https://www.rnz.co.nz/news/science-and-technology/597458/ai-could-drive-advances-that-solve-the-problems-it-brings-computer-scientist-suggests"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Robotics Is a Pre-Paradigm Field]]></title>
+        <id>https://whattotelltherobot.com/p/why-robotics-is-a-pre-paradigm-field</id>
+        <link href="https://whattotelltherobot.com/p/why-robotics-is-a-pre-paradigm-field"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEOM issues temporary work stoppage on The Line until at least 2030]]></title>
+        <id>https://www.archpaper.com/2026/06/neom-temporary-work-pause-the-line/</id>
+        <link href="https://www.archpaper.com/2026/06/neom-temporary-work-pause-the-line/"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The C++ Documentary Won't Show You a Number. I Will]]></title>
+        <id>https://hftuniversity.com/post/the-c-documentary-won-t-show-you-a-number-i-will</id>
+        <link href="https://hftuniversity.com/post/the-c-documentary-won-t-show-you-a-number-i-will"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-tuning vs RAG vs MeMo: Where should LLM Knowledge Live?]]></title>
+        <id>https://pub.towardsai.net/fine-tuning-vs-rag-vs-memo-where-should-llm-knowledge-live-b39f3e7ff564?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/fine-tuning-vs-rag-vs-memo-where-should-llm-knowledge-live-b39f3e7ff564?source=rss----98111c9905da---4"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If You’re a Python Developer, These 7 AI APIs Could Be Your Biggest Advantage in 2026.]]></title>
+        <id>https://pub.towardsai.net/if-youre-a-python-developer-these-7-ai-apis-could-be-your-biggest-advantage-in-2026-deac03bc92d3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/if-youre-a-python-developer-these-7-ai-apis-could-be-your-biggest-advantage-in-2026-deac03bc92d3?source=rss----98111c9905da---4"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[webpack/webpack]]></title>
+        <id>https://github.com/webpack/webpack</id>
+        <link href="https://github.com/webpack/webpack"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[juliangarnier/anime]]></title>
+        <id>https://github.com/juliangarnier/anime</id>
+        <link href="https://github.com/juliangarnier/anime"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀 Day 1 of My JavaScript Problem-Solving JourneyAssalamu Alaikum]]></title>
+        <id>https://dev.to/shadhin282/day-1-of-my-javascript-problem-solving-journeyassalamu-alaikum-4e16</id>
+        <link href="https://dev.to/shadhin282/day-1-of-my-javascript-problem-solving-journeyassalamu-alaikum-4e16"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[# Oreste AI – Assistente vocale italiano + mini OS in HTML]]></title>
+        <id>https://dev.to/oreste_dechiara_94b056fb/-oreste-ai-assistente-vocale-italiano-mini-os-in-html-1391</id>
+        <link href="https://dev.to/oreste_dechiara_94b056fb/-oreste-ai-assistente-vocale-italiano-mini-os-in-html-1391"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy YouTube SEO Success 2026 | Rank Higher, Grow Faster]]></title>
+        <id>https://dev.to/sheriwonggw1y9/buy-youtube-seo-success-2026-rank-higher-grow-faster-31n7</id>
+        <link href="https://dev.to/sheriwonggw1y9/buy-youtube-seo-success-2026-rank-higher-grow-faster-31n7"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Event Loop Explained — A Visual, Step-by-Step Guide]]></title>
+        <id>https://dev.to/supratikdas01/javascript-event-loop-explained-a-visual-step-by-step-guide-27ie</id>
+        <link href="https://dev.to/supratikdas01/javascript-event-loop-explained-a-visual-step-by-step-guide-27ie"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embed Live Government Contracts & Financial Data on Any Website in 10 Lines of HTML]]></title>
+        <id>https://dev.to/linderrogereng/embed-live-government-contracts-financial-data-on-any-website-in-10-lines-of-html-4i02</id>
+        <link href="https://dev.to/linderrogereng/embed-live-government-contracts-financial-data-on-any-website-in-10-lines-of-html-4i02"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A fast, free Epoch & Timestamps that works offline]]></title>
+        <id>https://dev.to/crypto_plato_26/a-fast-free-epoch-timestamps-that-works-offline-5adk</id>
+        <link href="https://dev.to/crypto_plato_26/a-fast-free-epoch-timestamps-that-works-offline-5adk"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <published>2026-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress still can’t decide what to do about warrantless surveillance]]></title>
+        <id>https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte</id>
+        <link href="https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
@@ -36,9 +162,16 @@
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Congress still can’t decide what to do about warrantless surveillance]]></title>
-        <id>https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte</id>
-        <link href="https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte"/>
+        <title type="html"><![CDATA[Grand Theft Auto VI is warping the video game release calendar]]></title>
+        <id>https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest</id>
+        <link href="https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta made its own AI-generated clickbait news feed]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
@@ -92,23 +225,9 @@
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Founders share VC horror stories, and some are naming names]]></title>
-        <id>https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/</id>
-        <link href="https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Startup Battlefield 200 applications officially close in 3 days]]></title>
-        <id>https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/</id>
-        <link href="https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GM’s electric future depends on a new battery — and this facility]]></title>
-        <id>https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/</id>
-        <link href="https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/"/>
+        <title type="html"><![CDATA[Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person]]></title>
+        <id>https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/</id>
+        <link href="https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
@@ -120,233 +239,86 @@
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person]]></title>
-        <id>https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/</id>
-        <link href="https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/"/>
+        <title type="html"><![CDATA[GM’s electric future depends on a new battery — and this facility]]></title>
+        <id>https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/</id>
+        <link href="https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia is proposing a beast of a CPU system for Windows PCs]]></title>
-        <id>https://twitter.com/lemire/status/2062880075117113739</id>
-        <link href="https://twitter.com/lemire/status/2062880075117113739"/>
+        <title type="html"><![CDATA[Startup Battlefield 200 applications officially close in 3 days]]></title>
+        <id>https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/</id>
+        <link href="https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dwarkesh Patel grew his podcast]]></title>
-        <id>https://www.youtube.com/watch?v=kbydfaJsLSE</id>
-        <link href="https://www.youtube.com/watch?v=kbydfaJsLSE"/>
+        <title type="html"><![CDATA[Founders share VC horror stories, and some are naming names]]></title>
+        <id>https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/</id>
+        <link href="https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump says his team will 'look into' US taking stake in AI companies]]></title>
-        <id>https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/</id>
-        <link href="https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/"/>
+        <title type="html"><![CDATA[World Food Programme breach exposes data of 600k vulnerable Gazan families]]></title>
+        <id>https://www.theregister.com/security/2026/06/05/world-food-programme-breach-exposes-data-of-600k-vulnerable-gazan-families/5251605</id>
+        <link href="https://www.theregister.com/security/2026/06/05/world-food-programme-breach-exposes-data-of-600k-vulnerable-gazan-families/5251605"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA['Teachers Are Going to Hate It': How Social Media Apps Hooked Teens at School]]></title>
-        <id>https://www.nytimes.com/2026/06/04/us/social-media-schools.html</id>
-        <link href="https://www.nytimes.com/2026/06/04/us/social-media-schools.html"/>
+        <title type="html"><![CDATA[UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI]]></title>
+        <id>https://www.bbc.com/news/articles/cm2p3j6lvn7o</id>
+        <link href="https://www.bbc.com/news/articles/cm2p3j6lvn7o"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Summarize YT Video by pasting url into AI chat]]></title>
-        <id>https://www.youtube.com/watch?v=BblwmuFhhOI</id>
-        <link href="https://www.youtube.com/watch?v=BblwmuFhhOI"/>
+        <title type="html"><![CDATA[Brave Origin premium experience offers users a minimalist version of the Brave]]></title>
+        <id>https://brave.com/blog/brave-origin/ource=perplexity</id>
+        <link href="https://brave.com/blog/brave-origin/ource=perplexity"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[39C3: The art of text rendering (Nicolas Rougier)]]></title>
-        <id>https://news.ycombinator.com/item?id=48422104</id>
-        <link href="https://news.ycombinator.com/item?id=48422104"/>
+        <title type="html"><![CDATA[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy]]></title>
+        <id>https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/</id>
+        <link href="https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Running Python code in a sandbox with MicroPython and WASM]]></title>
-        <id>https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/</id>
-        <link href="https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/"/>
+        <title type="html"><![CDATA[Performance: Unroll popcount reductions and add a NextClear fast path]]></title>
+        <id>https://github.com/bits-and-blooms/bitset/pull/219</id>
+        <link href="https://github.com/bits-and-blooms/bitset/pull/219"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alan Kay on "Should web browsers have stuck to being document viewers?"]]></title>
-        <id>https://donhopkins.medium.com/alan-kay-on-should-web-browsers-have-stuck-to-being-document-viewers-and-a-discussion-of-news-5cb92c7b3445</id>
-        <link href="https://donhopkins.medium.com/alan-kay-on-should-web-browsers-have-stuck-to-being-document-viewers-and-a-discussion-of-news-5cb92c7b3445"/>
+        <title type="html"><![CDATA[Sam Altman and Moxie Marlinspike Play Mafia [video]]]></title>
+        <id>https://www.youtube.com/watch?v=EDCwQe7P8T0</id>
+        <link href="https://www.youtube.com/watch?v=EDCwQe7P8T0"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bernie Sanders: A.I. Is a Public Resource. You Should Own Half of It]]></title>
-        <id>https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html</id>
-        <link href="https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html"/>
+        <title type="html"><![CDATA[Kalshi asks paid influencers to delete posts sowing doubts over LA election]]></title>
+        <id>https://www.semafor.com/article/06/05/2026/kalshi-asks-paid-influencers-to-delete-posts-on-la-mayoral-election</id>
+        <link href="https://www.semafor.com/article/06/05/2026/kalshi-asks-paid-influencers-to-delete-posts-on-la-mayoral-election"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why sophrosyne, an ancient Greek virtue, matters more than ever in the age of AI]]></title>
-        <id>https://theconversation.com/why-sophrosyne-an-ancient-greek-virtue-matters-more-than-ever-in-the-age-of-ai-282665</id>
-        <link href="https://theconversation.com/why-sophrosyne-an-ancient-greek-virtue-matters-more-than-ever-in-the-age-of-ai-282665"/>
+        <title type="html"><![CDATA[Amazon Vinyl, a TypeScript streaming engine for HTML5 media]]></title>
+        <id>https://amazonmusic.github.io/vinyl/</id>
+        <link href="https://amazonmusic.github.io/vinyl/"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Will your company be doing "LeetCode" interviews a year from now?]]></title>
-        <id>https://news.ycombinator.com/item?id=48420519</id>
-        <link href="https://news.ycombinator.com/item?id=48420519"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Incremental SfM pipeline that reconstructs 3D point clouds from images]]></title>
-        <id>https://github.com/egeozgul/Incremental-3D-Reconstruction-SfM/tree/main</id>
-        <link href="https://github.com/egeozgul/Incremental-3D-Reconstruction-SfM/tree/main"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alzheimer's patient gets back speech, bladder control and memory in drug trial]]></title>
-        <id>https://nypost.com/2026/06/04/health/alzheimers-patient-recovers-speech-continence-and-memory-with-this-drug/</id>
-        <link href="https://nypost.com/2026/06/04/health/alzheimers-patient-recovers-speech-continence-and-memory-with-this-drug/"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Non-Uniform KV Cache for Efficient Multi-Turn LLM Serving]]></title>
-        <id>https://arxiv.org/abs/2606.06302</id>
-        <link href="https://arxiv.org/abs/2606.06302"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astrocytic Contributions to Cognition Across Rodent Models of Brain Dysfunction]]></title>
-        <id>https://www.mdpi.com/2218-273X/16/5/662</id>
-        <link href="https://www.mdpi.com/2218-273X/16/5/662"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Port React Compiler to Rust]]></title>
-        <id>https://github.com/facebook/react/pull/36173</id>
-        <link href="https://github.com/facebook/react/pull/36173"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do You Really Want That Computer-Science Degree?]]></title>
-        <id>https://www.economist.com/graphic-detail/2026/06/01/do-you-really-want-that-computer-science-degree</id>
-        <link href="https://www.economist.com/graphic-detail/2026/06/01/do-you-really-want-that-computer-science-degree"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PR: Banana as an official unit in Python pint package]]></title>
-        <id>https://github.com/hgrecco/pint/pull/2316</id>
-        <link href="https://github.com/hgrecco/pint/pull/2316"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Geo and Why It Matters for B2B Companies in Latam]]></title>
-        <id>https://expansionamericas.com/what-is-geo-and-why-it-matters-for-b2b-companies-in-latam</id>
-        <link href="https://expansionamericas.com/what-is-geo-and-why-it-matters-for-b2b-companies-in-latam"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safsaf – A Web Framework for Guile]]></title>
-        <id>https://www.cbaines.net/posts/safsaf_a_guile_web_framework/</id>
-        <link href="https://www.cbaines.net/posts/safsaf_a_guile_web_framework/"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Knowledge Access for Agents?]]></title>
-        <id>https://news.ycombinator.com/item?id=48419692</id>
-        <link href="https://news.ycombinator.com/item?id=48419692"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief History of Reviewing Things on the Internet, Vol. I]]></title>
-        <id>https://catandgirl.com/a-brief-history-of-reviewing-things-on-the-internet-vol-i/</id>
-        <link href="https://catandgirl.com/a-brief-history-of-reviewing-things-on-the-internet-vol-i/"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Simple attributes for spec-driven agentic workflows (C#, Rust)]]></title>
-        <id>https://github.com/doublecouponday/gherkinsync</id>
-        <link href="https://github.com/doublecouponday/gherkinsync"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investment leaders share views on AI job displacement as next big risk (2021)]]></title>
-        <id>https://www.bloomberg.com/news/articles/2021-01-12/what-do-wall-street-leaders-think-is-the-next-big-risk</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-01-12/what-do-wall-street-leaders-think-is-the-next-big-risk"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Alternative to WebXR, TypeScript SDK for multi-user VR app development]]></title>
-        <id>https://github.com/adamas-vr/runtime-interface</id>
-        <link href="https://github.com/adamas-vr/runtime-interface"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BenchEvolver: Frontier Task Synthesis via Solution-Centric Evolution]]></title>
-        <id>https://benchevolver.github.io/</id>
-        <link href="https://benchevolver.github.io/"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex for Sales Teams: Moving Faster to Solve Customer Problems [video]]]></title>
-        <id>https://www.youtube.com/watch?v=U2C55LC0ZLM</id>
-        <link href="https://www.youtube.com/watch?v=U2C55LC0ZLM"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njsakjfhiqugf83279r239r23hosbdbaisdsaLOL]]></title>
-        <id>https://news.ycombinator.com/item?id=48419815</id>
-        <link href="https://news.ycombinator.com/item?id=48419815"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tensor Shapes in Pyrefly – Avik Chaudhuri – PyCon US 2026 Typing Summit [video]]]></title>
-        <id>https://www.youtube.com/watch?v=HE5EyQW_7eY</id>
-        <link href="https://www.youtube.com/watch?v=HE5EyQW_7eY"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Maps on the Web]]></title>
-        <id>https://maps.apple.com/</id>
-        <link href="https://maps.apple.com/"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: NEP – Ethereum JSON-RPC transform that beats ZSTD by 12%]]></title>
-        <id>https://github.com/Louw115/nep-ethereum-compression</id>
-        <link href="https://github.com/Louw115/nep-ethereum-compression"/>
-        <updated>2026-06-05T16:00:00.000Z</updated>
-        <published>2026-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fix for AI's Spending Problem Is Not Good for OpenAI and Anthropic [video]]]></title>
-        <id>https://www.youtube.com/watch?v=w1yB7ck36JA</id>
-        <link href="https://www.youtube.com/watch?v=w1yB7ck36JA"/>
+        <title type="html"><![CDATA[Pre-Modern Armies for Worldbuilders, Part I: Why They Fight]]></title>
+        <id>https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/</id>
+        <link href="https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
@@ -358,9 +330,37 @@
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pre-Modern Armies for Worldbuilders, Part I: Why They Fight]]></title>
-        <id>https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/</id>
-        <link href="https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/"/>
+        <title type="html"><![CDATA[The Fix for AI's Spending Problem Is Not Good for OpenAI and Anthropic [video]]]></title>
+        <id>https://www.youtube.com/watch?v=w1yB7ck36JA</id>
+        <link href="https://www.youtube.com/watch?v=w1yB7ck36JA"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: NEP – Ethereum JSON-RPC transform that beats ZSTD by 12%]]></title>
+        <id>https://github.com/Louw115/nep-ethereum-compression</id>
+        <link href="https://github.com/Louw115/nep-ethereum-compression"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Maps on the Web]]></title>
+        <id>https://maps.apple.com/</id>
+        <link href="https://maps.apple.com/"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensor Shapes in Pyrefly – Avik Chaudhuri – PyCon US 2026 Typing Summit [video]]]></title>
+        <id>https://www.youtube.com/watch?v=HE5EyQW_7eY</id>
+        <link href="https://www.youtube.com/watch?v=HE5EyQW_7eY"/>
+        <updated>2026-06-05T16:00:00.000Z</updated>
+        <published>2026-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njsakjfhiqugf83279r239r23hosbdbaisdsaLOL]]></title>
+        <id>https://news.ycombinator.com/item?id=48419815</id>
+        <link href="https://news.ycombinator.com/item?id=48419815"/>
         <updated>2026-06-05T16:00:00.000Z</updated>
         <published>2026-06-05T16:00:00.000Z</published>
     </entry>
