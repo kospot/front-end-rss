@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-07 18:01:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-07 21:02:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,26 +7,26 @@
 
 
 
-- [2026-06-07-#-Oreste-AI-–-Assistente-vocale-italiano-+-mini-OS-in-HTML](https://dev.to/oreste_dechiara_94b056fb/-oreste-ai-assistente-vocale-italiano-mini-os-in-html-1391) 
 - [2026-06-07-Embed-Live-Government-Contracts-&amp;-Financial-Data-on-Any-Website-in-10-Lines-of-HTML](https://dev.to/linderrogereng/embed-live-government-contracts-financial-data-on-any-website-in-10-lines-of-html-4i02) 
+- [2026-06-07-#-Oreste-AI-–-Assistente-vocale-italiano-+-mini-OS-in-HTML](https://dev.to/oreste_dechiara_94b056fb/-oreste-ai-assistente-vocale-italiano-mini-os-in-html-1391) 
 - [2026-06-06-The-gap-between-AI-demo-hype-and-real-user-onboarding-is-bigger-than-most-teams-admit.-Meta-Architect-v0.1.13-is-our-step-toward-closing-it.](https://dev.to/justinedevs/the-gap-between-ai-demo-hype-and-real-user-onboarding-is-bigger-than-most-teams-admit-meta-m73) 
-- [2026-06-05-10-Advanced-HTML-Attributes-You-Built-In-to-Stop-Reinventing-the-Wheel](https://dev.to/sadek_hossen_98109d4e4aaa/10-advanced-html-attributes-you-built-in-to-stop-reinventing-the-wheel-4d4d) 
 - [2026-06-05-How-We-Built-a-Dual-Fire-Meta-CAPI-Tracking-System-for-iGaming-Landing-Pages](https://dev.to/clarencyuboop/how-we-built-a-dual-fire-meta-capi-tracking-system-for-igaming-landing-pages-44j1) 
+- [2026-06-05-10-Advanced-HTML-Attributes-You-Built-In-to-Stop-Reinventing-the-Wheel](https://dev.to/sadek_hossen_98109d4e4aaa/10-advanced-html-attributes-you-built-in-to-stop-reinventing-the-wheel-4d4d) 
 - [2026-06-04-🚀-I-Built-a-Free-Markdown-to-HTML-Live-Preview-Tool](https://dev.to/austin_cao_ad36cb9cda472b/i-built-a-free-markdown-to-html-live-preview-tool-4aob) 
 - [2026-06-03-Cómo-Manejo-Tablas-Anidadas-y-Rowspans-Las-Partes-Difíciles-del-Parsing-de-Tablas-HTML](https://dev.to/circobit/como-manejo-tablas-anidadas-y-rowspans-las-partes-dificiles-del-parsing-de-tablas-html-5g18) 
 - [2026-05-30-🇺🇸reward-here:-👇-https://gettheoffernow.blogspot.com/p/nice-offer-for-you.html](https://dev.to/asoquran_bujhi_7caa262e84/reward-here-httpsgettheoffernowblogspotcompnice-offer-for-youhtml-1of6) 
-- [2026-05-28-Building-Metadata-Capabilities-in-Apache-SeaTunnel:-A-Committer’s-Journey](https://dev.to/seatunnel/building-metadata-capabilities-in-apache-seatunnel-a-committers-journey-o5l) 
 - [2026-05-28-Como-Eu-Lido-com-Tabelas-Aninhadas-e-Rowspans-As-Partes-Difíceis-do-Parsing-de-Tabelas-HTML](https://dev.to/circobit/como-eu-lido-com-tabelas-aninhadas-e-rowspans-as-partes-dificeis-do-parsing-de-tabelas-html-66c) 
+- [2026-05-28-Building-Metadata-Capabilities-in-Apache-SeaTunnel:-A-Committer’s-Journey](https://dev.to/seatunnel/building-metadata-capabilities-in-apache-seatunnel-a-committers-journey-o5l) 
 - [2026-05-27-ネストテーブルとrowspanの処理方法（HTMLテーブルパースの難所）](https://dev.to/circobit/nesutoteburutorowspannochu-li-fang-fa-htmlteburupasunonan-suo--4j3j) 
-- [2026-05-26-중첩-테이블과-Rowspan-처리하기-HTML-테이블-파싱의-어려운-부분](https://dev.to/circobit/jungceob-teibeulgwa-rowspan-ceorihagi-html-teibeul-pasingyi-eoryeoun-bubun-4a12) 
-- [2026-05-26-Your-SEO-Audit-Tool-Sees-HTML.-Google-Sees-the-Rendered-Page.](https://dev.to/cag1145/your-seo-audit-tool-sees-html-google-sees-the-rendered-page-2cb2) 
 - [2026-05-26-#-🍃-Building-a-Privacy-First-Cultural-Page:-Bonsai,-Patience,-and-Pure-HTML-.-japan](https://dev.to/learn2027/-building-a-privacy-first-cultural-page-bonsai-patience-and-pure-html-japan-194g) 
+- [2026-05-26-Your-SEO-Audit-Tool-Sees-HTML.-Google-Sees-the-Rendered-Page.](https://dev.to/cag1145/your-seo-audit-tool-sees-html-google-sees-the-rendered-page-2cb2) 
+- [2026-05-26-중첩-테이블과-Rowspan-처리하기-HTML-테이블-파싱의-어려운-부분](https://dev.to/circobit/jungceob-teibeulgwa-rowspan-ceorihagi-html-teibeul-pasingyi-eoryeoun-bubun-4a12) 
 - [2026-05-25-Hoe-Ik-Geneste-Tabellen-en-Rowspans-Verwerk-De-Moeilijke-Onderdelen-van-HTML-tabelparsing](https://dev.to/circobit/hoe-ik-geneste-tabellen-en-rowspans-verwerk-de-moeilijke-onderdelen-van-html-tabelparsing-17a2) 
-- [2026-05-24-I-Built-a-Free-Metal-Weight-Calculator-—-Here's-the-Math-Behind-It](https://dev.to/param_mehta_0f2ed8b74e91f/i-built-a-free-metal-weight-calculator-heres-the-math-behind-it-529j) 
 - [2026-05-24-I-Built-a-Mix-Translation-Tool-in-a-Single-HTML-File](https://dev.to/chukiextra/i-built-a-mix-translation-tool-in-a-single-html-file-4dgc) 
-- [2026-05-23-The-night-Meta-flagged-my-Instagram-automation---what-I-rewrote-in-v1.5.0](https://dev.to/ryuji_saas/the-night-meta-flagged-my-instagram-automation-what-i-rewrote-in-v150-1ham) 
-- [2026-05-23-Build-a-Live-Flight-Radar-in-a-Single-HTML-File](https://dev.to/sergeysta/build-a-live-flight-radar-in-a-single-html-file-p9p) 
+- [2026-05-24-I-Built-a-Free-Metal-Weight-Calculator-—-Here's-the-Math-Behind-It](https://dev.to/param_mehta_0f2ed8b74e91f/i-built-a-free-metal-weight-calculator-heres-the-math-behind-it-529j) 
 - [2026-05-23-Best-Free-Markdown-to-HTML-Converters-Online-—-Live-Preview,-Tables,-Compared](https://dev.to/shaishav_patel_271fdcd61a/best-free-markdown-to-html-converters-online-live-preview-tables-compared-5e1e) 
+- [2026-05-23-Build-a-Live-Flight-Radar-in-a-Single-HTML-File](https://dev.to/sergeysta/build-a-live-flight-radar-in-a-single-html-file-p9p) 
+- [2026-05-23-The-night-Meta-flagged-my-Instagram-automation---what-I-rewrote-in-v1.5.0](https://dev.to/ryuji_saas/the-night-meta-flagged-my-instagram-automation-what-i-rewrote-in-v150-1ham) 
 - [2026-05-20-La-Complejidad-Oculta-de-las-Tablas-HTML](https://dev.to/circobit/la-complejidad-oculta-de-las-tablas-html-l24) 
 - [2026-05-16-How-to-Save-a-Webpage-or-HTML-as-an-Image-—-Free,-No-Extension,-No-Screenshot-App](https://dev.to/shaishav_patel_271fdcd61a/how-to-save-a-webpage-or-html-as-an-image-free-no-extension-no-screenshot-app-1m1i) 
 - [2026-05-15-NASSCAD-V4.2-—-A-full-CAD-modeler-that-lives-in-a-single-HTML-file](https://dev.to/nasser_7cff6f77e08155b603/nasscad-v42-a-full-cad-modeler-that-lives-in-a-single-html-file-2jf2) 
@@ -182,5 +182,5 @@
 - [2026-05-23-Meta’s-Forum-is-part-Reddit,-part-Facebook,-and-part-Google-AI-Overview](https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on) 
 - [2026-05-15-Meta’s-summer-sale-drops-Ray-Ban’s-new-smart-glasses-to-record-low-prices](https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale) 
 - [2026-05-14-Mark-Zuckerberg-announces-&amp;#8216;completely-private&amp;#8217;-encrypted-Meta-AI-chat](https://www.theverge.com/tech/929791/meta-ai-incognito-chats) 
-- [2026-05-13-Meta-will-tell-parents-when-their-teens-add-new-interests-to-their-Instagram-algorithm](https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls) 
 - [2026-05-13-Meta-won’t-let-you-block-its-AI-account-on-Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block) 
+- [2026-05-13-Meta-will-tell-parents-when-their-teens-add-new-interests-to-their-Instagram-algorithm](https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls) 
