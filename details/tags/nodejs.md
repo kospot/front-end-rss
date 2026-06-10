@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-10 21:03:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-10 23:04:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -243,15 +243,16 @@ https://pompelmi.app/index.html
 - [2026-05-12-PGID:-Progressive-Guided-Inversion-and-Denoising-for-Robust-Watermark-Detection](https://arxiv.org/abs/2605.09319) 
 - [2026-05-12-Explaining-Graph-Neural-Networks-for-Node-Similarity-on-Graphs](https://arxiv.org/abs/2407.07639) 
 - [2026-05-23-The-memory-shortage-is-causing-a-repricing-of-consumer-electronics](https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything) 
-- [2026-05-22-Not-Every-Node-in-Your-Agent-Needs-an-LLM](https://pub.towardsai.net/not-every-node-in-your-agent-needs-an-llm-853f314d2ef0?source=rss----98111c9905da---4) 
+- [2026-06-10-Build-a-Customer-Service-AI-Agent-with-OpenAI-and-Node.js](https://pub.towardsai.net/build-a-customer-service-ai-agent-with-openai-and-node-js-847fe4dbeab0?source=rss----98111c9905da---4) 
 - [2026-05-22-Gene-Expression-and-Network-Analysis-of-COVID-19–Associated-Thrombosis-Using-the-DICE-Algorithm](https://pub.towardsai.net/gene-expression-and-network-analysis-of-covid-19-associated-thrombosis-using-the-dice-algorithm-2b10b1c3b5a1?source=rss----98111c9905da---4) 
+- [2026-05-22-Not-Every-Node-in-Your-Agent-Needs-an-LLM](https://pub.towardsai.net/not-every-node-in-your-agent-needs-an-llm-853f314d2ef0?source=rss----98111c9905da---4) 
 - [2026-06-03-How-Wasmer-used-Codex-to-build-a-Node.js-runtime-for-the-edge](https://openai.com/index/wasmer) 
-- [2026-06-10-Show-HN:-Master-–-Rails-style-full-stack-productivity-for-Node.js](https://bookbag.ai/blog/i-built-master-because-i-missed-rails) 
-- [2026-06-10-Comparing-Email-Address-Validating-Regular-Expressions-2006](https://fightingforalostcause.net/content/misc/2006/compare-email-regex.php) 
 - [2026-06-10-Master:-A-Rails-style-full-stack-framework-for-Node.js](https://masterjs.org) 
+- [2026-06-10-Comparing-Email-Address-Validating-Regular-Expressions-2006](https://fightingforalostcause.net/content/misc/2006/compare-email-regex.php) 
+- [2026-06-10-Show-HN:-Master-–-Rails-style-full-stack-productivity-for-Node.js](https://bookbag.ai/blog/i-built-master-because-i-missed-rails) 
 - [2026-06-06-The-Smart-TV-in-Your-LivingRoom-Is-a-Node-in-the-AIScraping-Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/) 
-- [2026-06-04-Rooting-Home-Assistant-through-MeshCore:-XSS-attacks-with-a-LoRa-node-name](https://mxsasha.eu/posts/meshcore-xss-home-assistant/) 
 - [2026-06-04-Radicle-Garden:-hosted-always-on-nodes-for-Radicle](https://radicle.dev/2026/06/02/announcing-radicle-garden) 
+- [2026-06-04-Rooting-Home-Assistant-through-MeshCore:-XSS-attacks-with-a-LoRa-node-name](https://mxsasha.eu/posts/meshcore-xss-home-assistant/) 
 - [2026-06-01-Club-Car-Introduces-Electronic-Park-Brake-That-Requires-$500-Tool](https://consumerrights.wiki/w/Club_Car_Introduces_Electronic_Park_Brake_That_Requires_$500_Tool) 
 - [2026-05-25-LPeg-–-Parsing-Expression-Grammars-for-Lua](https://www.inf.puc-rio.br/~roberto/lpeg/) 
 - [2026-05-23-Mdview-and-the-missing-middle-between-less-and-Electron](https://blog.leonbecker.de/mdview-and-the-missing-middle-between-less-and-electron/) 
