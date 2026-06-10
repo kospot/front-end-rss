@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-09T22:00:56.446Z</updated>
+    <updated>2026-06-10T00:01:03.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[I tried Siri AI, and so far it actually works]]></title>
+        <id>https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc</id>
+        <link href="https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech]]></title>
         <id>https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion</id>
@@ -29,23 +36,9 @@
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GM joins race to build batteries for AI data centers and the grid]]></title>
-        <id>https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/</id>
-        <link href="https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic’s Fable 5 can make weirdly fun video games with the click of a button]]></title>
-        <id>https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/</id>
-        <link href="https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can tech companies learn to love cheaper AI models? ]]></title>
-        <id>https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/</id>
-        <link href="https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/"/>
+        <title type="html"><![CDATA[Rivian starts deliveries of its all-important R2 SUV]]></title>
+        <id>https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/</id>
+        <link href="https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
@@ -57,51 +50,65 @@
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rivian starts deliveries of its all-important R2 SUV]]></title>
-        <id>https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/</id>
-        <link href="https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/"/>
+        <title type="html"><![CDATA[Can tech companies learn to love cheaper AI models? ]]></title>
+        <id>https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/</id>
+        <link href="https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Capture Go board positions with a browser extension]]></title>
-        <id>https://play.goshawk.cc/gsx/index.html</id>
-        <link href="https://play.goshawk.cc/gsx/index.html"/>
+        <title type="html"><![CDATA[Anthropic’s Fable 5 can make weirdly fun video games with the click of a button]]></title>
+        <id>https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/</id>
+        <link href="https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia CUDA Python 1.0 and CUDA 13.3 Release]]></title>
-        <id>https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates/</id>
-        <link href="https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates/"/>
+        <title type="html"><![CDATA[GM joins race to build batteries for AI data centers and the grid]]></title>
+        <id>https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/</id>
+        <link href="https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fable 5 remotion video benchmark and examples]]></title>
-        <id>https://mesmer.tools/benchmarks/ai-video-generation</id>
-        <link href="https://mesmer.tools/benchmarks/ai-video-generation"/>
+        <title type="html"><![CDATA[2026 Volvo XC60 T8 Recharge Review: Solid Combo of Competence and Comfort]]></title>
+        <id>https://www.thedrive.com/news/2026-volvo-xc60-t8-recharge-review</id>
+        <link href="https://www.thedrive.com/news/2026-volvo-xc60-t8-recharge-review"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create WhatsApp screenshots from a 3D phone model]]></title>
-        <id>https://www.getmockly.com/chats/whatsapp</id>
-        <link href="https://www.getmockly.com/chats/whatsapp"/>
+        <title type="html"><![CDATA[Side by side videos of Claude Fable vs. Opus 4.8 vs. ChatGPT 5.5]]></title>
+        <id>https://generative-ai.review/2026/06/claude-fable-rush-test-compare-vs-opus-4-8-vs-chatgpt-5-5-2026-06-09/</id>
+        <link href="https://generative-ai.review/2026/06/claude-fable-rush-test-compare-vs-opus-4-8-vs-chatgpt-5-5-2026-06-09/"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Elah – A browser-native, frame-accurate video editor]]></title>
-        <id>https://github.com/elahlabs/elah</id>
-        <link href="https://github.com/elahlabs/elah"/>
+        <title type="html"><![CDATA[Did Claude just reset usage?]]></title>
+        <id>https://ajin.im/is/building/did-claude-just-reset-usage/</id>
+        <link href="https://ajin.im/is/building/did-claude-just-reset-usage/"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The contract that could get you FIRED (lexploit)]]></title>
-        <id>https://www.legalquants.com/blog/the-contract-that-could-get-you-fired</id>
-        <link href="https://www.legalquants.com/blog/the-contract-that-could-get-you-fired"/>
+        <title type="html"><![CDATA[A filterable, tag-based GPU reference for every card released since 2020]]></title>
+        <id>https://www.supertags.app/ws/gpulist--g8qQfl</id>
+        <link href="https://www.supertags.app/ws/gpulist--g8qQfl"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Reported a Facebook Scam. Meta Reported Back: 'Looks Fine to Us']]></title>
+        <id>https://brothke.medium.com/i-reported-a-facebook-scam-meta-reported-back-looks-fine-to-us-bdb1f8fa42eb</id>
+        <link href="https://brothke.medium.com/i-reported-a-facebook-scam-meta-reported-back-looks-fine-to-us-bdb1f8fa42eb"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stadium workers have a tentative deal, averting strike ahead of World Cup]]></title>
+        <id>https://apnews.com/article/world-cup-los-angeles-sofi-stadium-workers-a25f17dfdc4172a585880834a252728b</id>
+        <link href="https://apnews.com/article/world-cup-los-angeles-sofi-stadium-workers-a25f17dfdc4172a585880834a252728b"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
@@ -113,9 +120,58 @@
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fourier Analysis from a Linear Algebraic Perspective]]></title>
-        <id>https://pub.towardsai.net/fourier-analysis-from-a-linear-algebraic-perspective-bcd42b288806?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/fourier-analysis-from-a-linear-algebraic-perspective-bcd42b288806?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The contract that could get you FIRED (lexploit)]]></title>
+        <id>https://www.legalquants.com/blog/the-contract-that-could-get-you-fired</id>
+        <link href="https://www.legalquants.com/blog/the-contract-that-could-get-you-fired"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Elah – A browser-native, frame-accurate video editor]]></title>
+        <id>https://github.com/elahlabs/elah</id>
+        <link href="https://github.com/elahlabs/elah"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create WhatsApp screenshots from a 3D phone model]]></title>
+        <id>https://www.getmockly.com/chats/whatsapp</id>
+        <link href="https://www.getmockly.com/chats/whatsapp"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fable 5 remotion video benchmark and examples]]></title>
+        <id>https://mesmer.tools/benchmarks/ai-video-generation</id>
+        <link href="https://mesmer.tools/benchmarks/ai-video-generation"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia CUDA Python 1.0 and CUDA 13.3 Release]]></title>
+        <id>https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates/</id>
+        <link href="https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates/"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Capture Go board positions with a browser extension]]></title>
+        <id>https://play.goshawk.cc/gsx/index.html</id>
+        <link href="https://play.goshawk.cc/gsx/index.html"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCP Is Not One-Directional — Here Are 5 Ways Your Server Talks Back]]></title>
+        <id>https://pub.towardsai.net/mcp-server-not-one-directional-c2f19a2e9b5c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/mcp-server-not-one-directional-c2f19a2e9b5c?source=rss----98111c9905da---4"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Reinforcement Learning Help LLMs Discover New Reasoning Strategies?]]></title>
+        <id>https://pub.towardsai.net/can-reinforcement-learning-help-llms-discover-new-reasoning-strategies-f50b1b054ec7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/can-reinforcement-learning-help-llms-discover-new-reasoning-strategies-f50b1b054ec7?source=rss----98111c9905da---4"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
@@ -123,6 +179,13 @@
         <title type="html"><![CDATA[Embeddings: 30 Scenario-Based Interview Questions & Solutions (Part 2 of 3)]]></title>
         <id>https://pub.towardsai.net/embeddings-30-scenario-based-interview-questions-solutions-part-2-of-3-3787e34eb6e0?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/embeddings-30-scenario-based-interview-questions-solutions-part-2-of-3-3787e34eb6e0?source=rss----98111c9905da---4"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fourier Analysis from a Linear Algebraic Perspective]]></title>
+        <id>https://pub.towardsai.net/fourier-analysis-from-a-linear-algebraic-perspective-bcd42b288806?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/fourier-analysis-from-a-linear-algebraic-perspective-bcd42b288806?source=rss----98111c9905da---4"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
@@ -141,44 +204,23 @@
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GroupBy in JavaScript: the easy way to index and organize data]]></title>
-        <id>https://dev.to/sucodelarangela/groupby-in-javascript-the-easy-way-to-index-and-organize-data-53op</id>
-        <link href="https://dev.to/sucodelarangela/groupby-in-javascript-the-easy-way-to-index-and-organize-data-53op"/>
+        <title type="html"><![CDATA[Async/await em JavaScript: o que acontece de verdade quando você dá `await`]]></title>
+        <id>https://dev.to/erickwillian_dev/asyncawait-em-javascript-o-que-acontece-de-verdade-quando-voce-da-await-3k6o</id>
+        <link href="https://dev.to/erickwillian_dev/asyncawait-em-javascript-o-que-acontece-de-verdade-quando-voce-da-await-3k6o"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Pattern Matching using 'match' with Flow]]></title>
-        <id>https://dev.to/gkz/javascript-pattern-matching-using-match-with-flow-52od</id>
-        <link href="https://dev.to/gkz/javascript-pattern-matching-using-match-with-flow-52od"/>
+        <title type="html"><![CDATA[Static site search for Astro in 2026: why I picked Pagefind over Algolia and Lunr]]></title>
+        <id>https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-6dg</id>
+        <link href="https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-6dg"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Every JavaScript Object is a Hash Table — Here is What is Actually Happening Inside Your Curly Braces]]></title>
-        <id>https://dev.to/amargul/every-javascript-object-is-a-hash-table-here-is-what-is-actually-happening-inside-your-curly-5hl7</id>
-        <link href="https://dev.to/amargul/every-javascript-object-is-a-hash-table-here-is-what-is-actually-happening-inside-your-curly-5hl7"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The setTimeout Rabbit Hole]]></title>
-        <id>https://dev.to/jeffrey_riggle_e261fba011/the-settimeout-rabbit-hole-5ff4</id>
-        <link href="https://dev.to/jeffrey_riggle_e261fba011/the-settimeout-rabbit-hole-5ff4"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Blank Terminal to Shipping a Real Client Project: My First Year of Coding]]></title>
-        <id>https://dev.to/madoyakimberley/from-blank-terminal-to-shipping-a-real-client-project-my-first-year-of-coding-44mf</id>
-        <link href="https://dev.to/madoyakimberley/from-blank-terminal-to-shipping-a-real-client-project-my-first-year-of-coding-44mf"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite Unified Toolchains IS Brilliant, But Is it Enough for Frontend 2026]]></title>
-        <id>https://dev.to/khaledmsalem/vite-unified-toolchains-is-brilliant-but-is-it-enough-for-frontend-2026-5b7h</id>
-        <link href="https://dev.to/khaledmsalem/vite-unified-toolchains-is-brilliant-but-is-it-enough-for-frontend-2026-5b7h"/>
+        <title type="html"><![CDATA[Title: I built a browser-native video editor using WebCodecs and WebGL2]]></title>
+        <id>https://dev.to/paul_spaurgen_c5ec1fc6704/title-i-built-a-browser-native-video-editor-using-webcodecs-and-webgl2-1m99</id>
+        <link href="https://dev.to/paul_spaurgen_c5ec1fc6704/title-i-built-a-browser-native-video-editor-using-webcodecs-and-webgl2-1m99"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
@@ -190,51 +232,51 @@
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s AI pitch will live or die by its privacy promise]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <published>2026-06-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Vite Unified Toolchains IS Brilliant, But Is it Enough for Frontend 2026]]></title>
+        <id>https://dev.to/khaledmsalem/vite-unified-toolchains-is-brilliant-but-is-it-enough-for-frontend-2026-5b7h</id>
+        <link href="https://dev.to/khaledmsalem/vite-unified-toolchains-is-brilliant-but-is-it-enough-for-frontend-2026-5b7h"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marshall’s Stockwell speaker gets a replaceable battery that runs twice as long]]></title>
-        <id>https://www.theverge.com/tech/945623/marshalls-stockwell-speaker-gets-a-replaceable-battery-that-runs-twice-as-long</id>
-        <link href="https://www.theverge.com/tech/945623/marshalls-stockwell-speaker-gets-a-replaceable-battery-that-runs-twice-as-long"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <published>2026-06-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[From Blank Terminal to Shipping a Real Client Project: My First Year of Coding]]></title>
+        <id>https://dev.to/madoyakimberley/from-blank-terminal-to-shipping-a-real-client-project-my-first-year-of-coding-44mf</id>
+        <link href="https://dev.to/madoyakimberley/from-blank-terminal-to-shipping-a-real-client-project-my-first-year-of-coding-44mf"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple is using AI to fix Safari’s extension problem]]></title>
-        <id>https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions</id>
-        <link href="https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <published>2026-06-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[The setTimeout Rabbit Hole]]></title>
+        <id>https://dev.to/jeffrey_riggle_e261fba011/the-settimeout-rabbit-hole-5ff4</id>
+        <link href="https://dev.to/jeffrey_riggle_e261fba011/the-settimeout-rabbit-hole-5ff4"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cameras get an Apple Intelligence boost in Apple Home]]></title>
-        <id>https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k</id>
-        <link href="https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <published>2026-06-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Every JavaScript Object is a Hash Table — Here is What is Actually Happening Inside Your Curly Braces]]></title>
+        <id>https://dev.to/amargul/every-javascript-object-is-a-hash-table-here-is-what-is-actually-happening-inside-your-curly-5hl7</id>
+        <link href="https://dev.to/amargul/every-javascript-object-is-a-hash-table-here-is-what-is-actually-happening-inside-your-curly-5hl7"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s AI promises are finally, almost, sort of, here]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <published>2026-06-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JavaScript Pattern Matching using 'match' with Flow]]></title>
+        <id>https://dev.to/gkz/javascript-pattern-matching-using-match-with-flow-52od</id>
+        <link href="https://dev.to/gkz/javascript-pattern-matching-using-match-with-flow-52od"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft AI chief walks back comments about AI taking over white-collar work]]></title>
-        <id>https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs</id>
-        <link href="https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <published>2026-06-08T16:00:00.000Z</published>
+        <title type="html"><![CDATA[GroupBy in JavaScript: the easy way to index and organize data]]></title>
+        <id>https://dev.to/sucodelarangela/groupby-in-javascript-the-easy-way-to-index-and-organize-data-53op</id>
+        <link href="https://dev.to/sucodelarangela/groupby-in-javascript-the-easy-way-to-index-and-organize-data-53op"/>
+        <updated>2026-06-09T16:00:00.000Z</updated>
+        <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2]]></title>
-        <id>https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026</id>
-        <link href="https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026"/>
+        <title type="html"><![CDATA[Square Enix announces Kingdom Hearts 4]]></title>
+        <id>https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2</id>
+        <link href="https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2"/>
         <updated>2026-06-08T16:00:00.000Z</updated>
         <published>2026-06-08T16:00:00.000Z</published>
     </entry>
@@ -246,65 +288,51 @@
         <published>2026-06-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Square Enix announces Kingdom Hearts 4]]></title>
-        <id>https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2</id>
-        <link href="https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2"/>
+        <title type="html"><![CDATA[The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2]]></title>
+        <id>https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026</id>
+        <link href="https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026"/>
         <updated>2026-06-08T16:00:00.000Z</updated>
         <published>2026-06-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Ember Artline Review: A Stylish Art Television]]></title>
-        <id>https://www.wired.com/review/amazon-ember-artline/</id>
-        <link href="https://www.wired.com/review/amazon-ember-artline/"/>
+        <title type="html"><![CDATA[Microsoft AI chief walks back comments about AI taking over white-collar work]]></title>
+        <id>https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs</id>
+        <link href="https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs"/>
         <updated>2026-06-08T16:00:00.000Z</updated>
         <published>2026-06-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anguished Parents, Crying Doctors: Life Amid Utah’s Measles Outbreak]]></title>
-        <id>https://www.wired.com/story/anguished-parents-crying-doctors-life-amid-utahs-measles-outbreak/</id>
-        <link href="https://www.wired.com/story/anguished-parents-crying-doctors-life-amid-utahs-measles-outbreak/"/>
+        <title type="html"><![CDATA[Apple’s AI promises are finally, almost, sort of, here]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here"/>
         <updated>2026-06-08T16:00:00.000Z</updated>
         <published>2026-06-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Threats Against Politicians Skyrocketed After Meta Changed Its Speech Rules]]></title>
-        <id>https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/</id>
-        <link href="https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/"/>
+        <title type="html"><![CDATA[Cameras get an Apple Intelligence boost in Apple Home]]></title>
+        <id>https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k</id>
+        <link href="https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k"/>
         <updated>2026-06-08T16:00:00.000Z</updated>
         <published>2026-06-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Western Digital Promo Code: 15% Off]]></title>
-        <id>https://www.wired.com/story/western-digital-promo-code/</id>
-        <link href="https://www.wired.com/story/western-digital-promo-code/"/>
+        <title type="html"><![CDATA[Apple is using AI to fix Safari’s extension problem]]></title>
+        <id>https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions</id>
+        <link href="https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions"/>
         <updated>2026-06-08T16:00:00.000Z</updated>
         <published>2026-06-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logitech Promo Codes and Deals: Up to $100 Off]]></title>
-        <id>https://www.wired.com/story/logitech-promo-code/</id>
-        <link href="https://www.wired.com/story/logitech-promo-code/"/>
+        <title type="html"><![CDATA[Marshall’s Stockwell speaker gets a replaceable battery that runs twice as long]]></title>
+        <id>https://www.theverge.com/tech/945623/marshalls-stockwell-speaker-gets-a-replaceable-battery-that-runs-twice-as-long</id>
+        <link href="https://www.theverge.com/tech/945623/marshalls-stockwell-speaker-gets-a-replaceable-battery-that-runs-twice-as-long"/>
         <updated>2026-06-08T16:00:00.000Z</updated>
         <published>2026-06-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report]]></title>
-        <id>https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/</id>
-        <link href="https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <published>2026-06-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s New Siri AI Is Ready to Get Personal]]></title>
-        <id>https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/</id>
-        <link href="https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <published>2026-06-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27]]></title>
-        <id>https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/</id>
-        <link href="https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/"/>
+        <title type="html"><![CDATA[Apple’s AI pitch will live or die by its privacy promise]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc"/>
         <updated>2026-06-08T16:00:00.000Z</updated>
         <published>2026-06-08T16:00:00.000Z</published>
     </entry>
@@ -316,51 +344,23 @@
         <published>2026-06-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple plays catch-up at WWDC]]></title>
-        <id>https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/</id>
-        <link href="https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/"/>
+        <title type="html"><![CDATA[Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27]]></title>
+        <id>https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/</id>
+        <link href="https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/"/>
         <updated>2026-06-08T16:00:00.000Z</updated>
         <published>2026-06-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s Photos app is getting new AI editing features]]></title>
-        <id>https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/</id>
-        <link href="https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/"/>
+        <title type="html"><![CDATA[Apple’s New Siri AI Is Ready to Get Personal]]></title>
+        <id>https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/</id>
+        <link href="https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/"/>
         <updated>2026-06-08T16:00:00.000Z</updated>
         <published>2026-06-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s long-awaited AI Siri overhaul is finally here]]></title>
-        <id>https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/</id>
-        <link href="https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <published>2026-06-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to apply to Startup Battlefield 2026, what you need ahead of today’s June 8 deadline]]></title>
-        <id>https://techcrunch.com/2026/06/08/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-todays-june-8-deadline/</id>
-        <link href="https://techcrunch.com/2026/06/08/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-todays-june-8-deadline/"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <published>2026-06-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s WWDC AI demos looked more real after $250M false ad settlement]]></title>
-        <id>https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/</id>
-        <link href="https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <published>2026-06-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet]]></title>
-        <id>https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/</id>
-        <link href="https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <published>2026-06-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn anything with the /teach skill [video]]]></title>
-        <id>https://www.youtube.com/watch?v=s5T5oQJcJ6U</id>
-        <link href="https://www.youtube.com/watch?v=s5T5oQJcJ6U"/>
+        <title type="html"><![CDATA[Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report]]></title>
+        <id>https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/</id>
+        <link href="https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/"/>
         <updated>2026-06-08T16:00:00.000Z</updated>
         <published>2026-06-08T16:00:00.000Z</published>
     </entry>
