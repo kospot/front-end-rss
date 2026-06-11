@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-11 21:03:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-12 06:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
@@ -13,4 +13,3 @@
 - [2026-05-22-Four-Levels-Of-Customer-Understanding](https://smashingmagazine.com/2026/05/four-levels-customer-understanding/) 
 - [2026-05-21-Advanced-Tree-Counting:-Mathematical-Layouts-With-`sibling-index`-And-`sibling-count`](https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/) 
 - [2026-05-15-Ten-Data-Backed-Truths-Of-User-Experience-ROI](https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/) 
-- [2026-05-13-Practical-Interface-Patterns-For-AI-Transparency-Part-2](https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/) 
