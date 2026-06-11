@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-10T22:00:57.720Z</updated>
+    <updated>2026-06-11T00:00:58.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,13 +15,6 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs]]></title>
-        <id>https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma</id>
-        <link href="https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma"/>
-        <updated>2026-06-10T16:00:00.000Z</updated>
-        <published>2026-06-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft, like, totally gets why students are booing AI-pilled graduation speakers]]></title>
         <id>https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft</id>
         <link href="https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft"/>
@@ -29,16 +22,9 @@
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats]]></title>
-        <id>https://www.wired.com/story/cisa-ai-vulnerability-directive/</id>
-        <link href="https://www.wired.com/story/cisa-ai-vulnerability-directive/"/>
-        <updated>2026-06-10T16:00:00.000Z</updated>
-        <published>2026-06-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick]]></title>
-        <id>https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/</id>
-        <link href="https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/"/>
+        <title type="html"><![CDATA[Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs]]></title>
+        <id>https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma</id>
+        <link href="https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
@@ -50,9 +36,16 @@
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations]]></title>
-        <id>https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/</id>
-        <link href="https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/"/>
+        <title type="html"><![CDATA[Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick]]></title>
+        <id>https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/</id>
+        <link href="https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats]]></title>
+        <id>https://www.wired.com/story/cisa-ai-vulnerability-directive/</id>
+        <link href="https://www.wired.com/story/cisa-ai-vulnerability-directive/"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
@@ -64,65 +57,72 @@
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Is Tokenomics, and Why Your AI Infrastructure Is Now a FinOps Problem]]></title>
-        <id>https://cast.ai/blog/tokenomics-why-your-ai-infrastructure-is-now-a-finops-problem/</id>
-        <link href="https://cast.ai/blog/tokenomics-why-your-ai-infrastructure-is-now-a-finops-problem/"/>
+        <title type="html"><![CDATA[Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations]]></title>
+        <id>https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/</id>
+        <link href="https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Holster-scan – catch AI-hallucinated package imports before agents run]]></title>
-        <id>https://github.com/nauta-ai/holster-scan</id>
-        <link href="https://github.com/nauta-ai/holster-scan"/>
+        <title type="html"><![CDATA[GGUF vs. GPTQ vs. AWQ: The Plain-English Guide to LLM Quantization]]></title>
+        <id>https://vettedconsumer.com/gguf-vs-gptq-vs-awq-the-plain-english-guide-to-llm-quantization-and-which-one-to-pick/</id>
+        <link href="https://vettedconsumer.com/gguf-vs-gptq-vs-awq-the-plain-english-guide-to-llm-quantization-and-which-one-to-pick/"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a free tool that extracts recipes from YouTube cooking videos]]></title>
-        <id>http://217.154.165.14:8080</id>
-        <link href="http://217.154.165.14:8080"/>
+        <title type="html"><![CDATA[Show HN: Jailbreak this model to get 3B tokens]]></title>
+        <id>https://opir.ai/challenge</id>
+        <link href="https://opir.ai/challenge"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ottawa moves to restrict social media for kids under 16]]></title>
-        <id>https://www.cbc.ca/news/politics/online-harms-ai-social-media-children-9.7229976</id>
-        <link href="https://www.cbc.ca/news/politics/online-harms-ai-social-media-children-9.7229976"/>
+        <title type="html"><![CDATA[Radix Top-K: finding the top-k elements in an array without sorting]]></title>
+        <id>https://veitner.bearblog.dev/radix-top-k/</id>
+        <link href="https://veitner.bearblog.dev/radix-top-k/"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japan is everything wrong with society [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ugPtz0zL4gI</id>
-        <link href="https://www.youtube.com/watch?v=ugPtz0zL4gI"/>
+        <title type="html"><![CDATA[Deficient executive control in transformer attention]]></title>
+        <id>https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838</id>
+        <link href="https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uber sues New York City over 'reckless' driver protection law]]></title>
-        <id>https://www.reuters.com/business/uber-sues-new-york-city-over-reckless-driver-protection-law-2026-06-10/</id>
-        <link href="https://www.reuters.com/business/uber-sues-new-york-city-over-reckless-driver-protection-law-2026-06-10/"/>
+        <title type="html"><![CDATA[America Is Not Ready For What's Coming – pt 1 [video][25 mins]]]></title>
+        <id>https://www.youtube.com/watch?v=Ru5zJ_eRtPg</id>
+        <link href="https://www.youtube.com/watch?v=Ru5zJ_eRtPg"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Intelligence: Apple got it right this time]]></title>
-        <id>https://trk.barrons.com/view/699d75232ec2b6256c871dadrg22t.12dw/c6474167</id>
-        <link href="https://trk.barrons.com/view/699d75232ec2b6256c871dadrg22t.12dw/c6474167"/>
+        <title type="html"><![CDATA[AI hiring lawsuit: Workday's bias-testing data is attorney-client privileged]]></title>
+        <id>https://blog.mccoy.io/workday-ruling-ai-screener-audit</id>
+        <link href="https://blog.mccoy.io/workday-ruling-ai-screener-audit"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICANN sends breach notice to TrustName]]></title>
-        <id>https://domainnamewire.com/2026/06/10/icann-sends-breach-notice-to-trustname/</id>
-        <link href="https://domainnamewire.com/2026/06/10/icann-sends-breach-notice-to-trustname/"/>
+        <title type="html"><![CDATA[This Flash Drive Has Literally Every File]]></title>
+        <id>https://www.youtube.com/watch?v=w6rkhvdAqHU</id>
+        <link href="https://www.youtube.com/watch?v=w6rkhvdAqHU"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Organic foods are not healthier or pesticide free]]></title>
-        <id>https://news.immunologic.org/p/organic-foods-are-not-healthieror</id>
-        <link href="https://news.immunologic.org/p/organic-foods-are-not-healthieror"/>
+        <title type="html"><![CDATA[Ask HN: Why does Deno Deploy block /wp-content?]]></title>
+        <id>https://deno.com/wp-content</id>
+        <link href="https://deno.com/wp-content"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent-gate – fail-closed agent gate and tamper-evident receipts as an MCP server]]></title>
+        <id>https://github.com/Jott2121/agent-gate</id>
+        <link href="https://github.com/Jott2121/agent-gate"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
@@ -134,16 +134,72 @@
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI SQL Sentinel: A Database Performance Monitoring Tool Built on Operational Knowledge]]></title>
-        <id>https://pub.towardsai.net/ai-sql-sentinel-a-database-performance-monitoring-tool-built-on-operational-knowledge-4248cf7f0c9c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ai-sql-sentinel-a-database-performance-monitoring-tool-built-on-operational-knowledge-4248cf7f0c9c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Organic foods are not healthier or pesticide free]]></title>
+        <id>https://news.immunologic.org/p/organic-foods-are-not-healthieror</id>
+        <link href="https://news.immunologic.org/p/organic-foods-are-not-healthieror"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hugging Face Transformers: Complete Guide (2026)]]></title>
-        <id>https://pub.towardsai.net/hugging-face-transformers-complete-guide-2026-cdb452c055da?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/hugging-face-transformers-complete-guide-2026-cdb452c055da?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[ICANN sends breach notice to TrustName]]></title>
+        <id>https://domainnamewire.com/2026/06/10/icann-sends-breach-notice-to-trustname/</id>
+        <link href="https://domainnamewire.com/2026/06/10/icann-sends-breach-notice-to-trustname/"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Intelligence: Apple got it right this time]]></title>
+        <id>https://trk.barrons.com/view/699d75232ec2b6256c871dadrg22t.12dw/c6474167</id>
+        <link href="https://trk.barrons.com/view/699d75232ec2b6256c871dadrg22t.12dw/c6474167"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber sues New York City over 'reckless' driver protection law]]></title>
+        <id>https://www.reuters.com/business/uber-sues-new-york-city-over-reckless-driver-protection-law-2026-06-10/</id>
+        <link href="https://www.reuters.com/business/uber-sues-new-york-city-over-reckless-driver-protection-law-2026-06-10/"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan is everything wrong with society [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ugPtz0zL4gI</id>
+        <link href="https://www.youtube.com/watch?v=ugPtz0zL4gI"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ottawa moves to restrict social media for kids under 16]]></title>
+        <id>https://www.cbc.ca/news/politics/online-harms-ai-social-media-children-9.7229976</id>
+        <link href="https://www.cbc.ca/news/politics/online-harms-ai-social-media-children-9.7229976"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a free tool that extracts recipes from YouTube cooking videos]]></title>
+        <id>http://217.154.165.14:8080</id>
+        <link href="http://217.154.165.14:8080"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holster-scan – catch AI-hallucinated package imports before agents run]]></title>
+        <id>https://github.com/nauta-ai/holster-scan</id>
+        <link href="https://github.com/nauta-ai/holster-scan"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Tokenomics, and Why Your AI Infrastructure Is Now a FinOps Problem]]></title>
+        <id>https://cast.ai/blog/tokenomics-why-your-ai-infrastructure-is-now-a-finops-problem/</id>
+        <link href="https://cast.ai/blog/tokenomics-why-your-ai-infrastructure-is-now-a-finops-problem/"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an astrophysicist uses Codex to help simulate black holes]]></title>
+        <id>https://openai.com/index/using-codex-to-simulate-black-holes</id>
+        <link href="https://openai.com/index/using-codex-to-simulate-black-holes"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
@@ -155,6 +211,20 @@
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hugging Face Transformers: Complete Guide (2026)]]></title>
+        <id>https://pub.towardsai.net/hugging-face-transformers-complete-guide-2026-cdb452c055da?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/hugging-face-transformers-complete-guide-2026-cdb452c055da?source=rss----98111c9905da---4"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI SQL Sentinel: A Database Performance Monitoring Tool Built on Operational Knowledge]]></title>
+        <id>https://pub.towardsai.net/ai-sql-sentinel-a-database-performance-monitoring-tool-built-on-operational-knowledge-4248cf7f0c9c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-sql-sentinel-a-database-performance-monitoring-tool-built-on-operational-knowledge-4248cf7f0c9c?source=rss----98111c9905da---4"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Give GitHub Copilot CLI real code intelligence with language servers]]></title>
         <id>https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/</id>
         <link href="https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/"/>
@@ -162,44 +232,9 @@
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Keypoints to Measurements: Why Landmarks Alone Are Useless]]></title>
-        <id>https://dev.to/rahul_sangamker_653e0c1ba/from-keypoints-to-measurements-why-landmarks-alone-are-useless-4oec</id>
-        <link href="https://dev.to/rahul_sangamker_653e0c1ba/from-keypoints-to-measurements-why-landmarks-alone-are-useless-4oec"/>
-        <updated>2026-06-10T16:00:00.000Z</updated>
-        <published>2026-06-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Put a Neural Network Inside My Portfolio — No TensorFlow, No Server, 145 KB]]></title>
-        <id>https://dev.to/rahul_sangamker_653e0c1ba/i-put-a-neural-network-inside-my-portfolio-no-tensorflow-no-server-145-kb-32k7</id>
-        <link href="https://dev.to/rahul_sangamker_653e0c1ba/i-put-a-neural-network-inside-my-portfolio-no-tensorflow-no-server-145-kb-32k7"/>
-        <updated>2026-06-10T16:00:00.000Z</updated>
-        <published>2026-06-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Cough Has a Fingerprint: Hand-Rolling an FFT and MFCCs in JavaScript]]></title>
-        <id>https://dev.to/rahul_sangamker_653e0c1ba/your-cough-has-a-fingerprint-hand-rolling-an-fft-and-mfccs-in-javascript-e4k</id>
-        <link href="https://dev.to/rahul_sangamker_653e0c1ba/your-cough-has-a-fingerprint-hand-rolling-an-fft-and-mfccs-in-javascript-e4k"/>
-        <updated>2026-06-10T16:00:00.000Z</updated>
-        <published>2026-06-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MV3 Chrome Extension Tutorial: What Changed and How to Build It Right]]></title>
-        <id>https://dev.to/extinde/mv3-chrome-extension-tutorial-what-changed-and-how-to-build-it-right-3pp6</id>
-        <link href="https://dev.to/extinde/mv3-chrome-extension-tutorial-what-changed-and-how-to-build-it-right-3pp6"/>
-        <updated>2026-06-10T16:00:00.000Z</updated>
-        <published>2026-06-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML in Canvas API]]></title>
-        <id>https://dev.to/rajeshkr/html-in-canvas-api-1i1o</id>
-        <link href="https://dev.to/rajeshkr/html-in-canvas-api-1i1o"/>
-        <updated>2026-06-10T16:00:00.000Z</updated>
-        <published>2026-06-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regular Expressions: The Guide I Always Wanted (2026)]]></title>
-        <id>https://dev.to/armorbreak/regular-expressions-the-guide-i-always-wanted-2026-3j1j</id>
-        <link href="https://dev.to/armorbreak/regular-expressions-the-guide-i-always-wanted-2026-3j1j"/>
+        <title type="html"><![CDATA[Enhancing Source Maps: Recovering Function Names and Context in Minified JavaScript/TypeScript Bundles]]></title>
+        <id>https://dev.to/pavkode/enhancing-source-maps-recovering-function-names-and-context-in-minified-javascripttypescript-3man</id>
+        <link href="https://dev.to/pavkode/enhancing-source-maps-recovering-function-names-and-context-in-minified-javascripttypescript-3man"/>
         <updated>2026-06-10T16:00:00.000Z</updated>
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
@@ -211,44 +246,51 @@
         <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The three sets of earbuds I reach for]]></title>
-        <id>https://www.theverge.com/gadgets/947325/three-earbuds-i-consistently-use</id>
-        <link href="https://www.theverge.com/gadgets/947325/three-earbuds-i-consistently-use"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Regular Expressions: The Guide I Always Wanted (2026)]]></title>
+        <id>https://dev.to/armorbreak/regular-expressions-the-guide-i-always-wanted-2026-3j1j</id>
+        <link href="https://dev.to/armorbreak/regular-expressions-the-guide-i-always-wanted-2026-3j1j"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xbox exploring ‘radically different’ console business models]]></title>
-        <id>https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon</id>
-        <link href="https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[HTML in Canvas API]]></title>
+        <id>https://dev.to/rajeshkr/html-in-canvas-api-1i1o</id>
+        <link href="https://dev.to/rajeshkr/html-in-canvas-api-1i1o"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logitech’s new Mobi Fold squeezes a lot of functionality into a tiny folding mouse]]></title>
-        <id>https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on</id>
-        <link href="https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[MV3 Chrome Extension Tutorial: What Changed and How to Build It Right]]></title>
+        <id>https://dev.to/extinde/mv3-chrome-extension-tutorial-what-changed-and-how-to-build-it-right-3pp6</id>
+        <link href="https://dev.to/extinde/mv3-chrome-extension-tutorial-what-changed-and-how-to-build-it-right-3pp6"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech]]></title>
-        <id>https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion</id>
-        <link href="https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Your Cough Has a Fingerprint: Hand-Rolling an FFT and MFCCs in JavaScript]]></title>
+        <id>https://dev.to/rahul_sangamker_653e0c1ba/your-cough-has-a-fingerprint-hand-rolling-an-fft-and-mfccs-in-javascript-e4k</id>
+        <link href="https://dev.to/rahul_sangamker_653e0c1ba/your-cough-has-a-fingerprint-hand-rolling-an-fft-and-mfccs-in-javascript-e4k"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I tried Siri AI, and so far it actually works]]></title>
-        <id>https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc</id>
-        <link href="https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Put a Neural Network Inside My Portfolio — No TensorFlow, No Server, 145 KB]]></title>
+        <id>https://dev.to/rahul_sangamker_653e0c1ba/i-put-a-neural-network-inside-my-portfolio-no-tensorflow-no-server-145-kb-32k7</id>
+        <link href="https://dev.to/rahul_sangamker_653e0c1ba/i-put-a-neural-network-inside-my-portfolio-no-tensorflow-no-server-145-kb-32k7"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waymo built a virtual driver to study how humans react to surprises on the road]]></title>
-        <id>https://www.theverge.com/transportation/947178/waymo-reference-driver-model-surprise-avoid-collision</id>
-        <link href="https://www.theverge.com/transportation/947178/waymo-reference-driver-model-surprise-avoid-collision"/>
+        <title type="html"><![CDATA[From Keypoints to Measurements: Why Landmarks Alone Are Useless]]></title>
+        <id>https://dev.to/rahul_sangamker_653e0c1ba/from-keypoints-to-measurements-why-landmarks-alone-are-useless-4oec</id>
+        <link href="https://dev.to/rahul_sangamker_653e0c1ba/from-keypoints-to-measurements-why-landmarks-alone-are-useless-4oec"/>
+        <updated>2026-06-10T16:00:00.000Z</updated>
+        <published>2026-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Apple Watch Series 11 is back to its best price]]></title>
+        <id>https://www.theverge.com/gadgets/947773/apple-watch-series-11-beats-studio-buds-plus-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/947773/apple-watch-series-11-beats-studio-buds-plus-deal-sale"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
@@ -260,51 +302,44 @@
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Apple Watch Series 11 is back to its best price]]></title>
-        <id>https://www.theverge.com/gadgets/947773/apple-watch-series-11-beats-studio-buds-plus-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/947773/apple-watch-series-11-beats-studio-buds-plus-deal-sale"/>
+        <title type="html"><![CDATA[Waymo built a virtual driver to study how humans react to surprises on the road]]></title>
+        <id>https://www.theverge.com/transportation/947178/waymo-reference-driver-model-surprise-avoid-collision</id>
+        <link href="https://www.theverge.com/transportation/947178/waymo-reference-driver-model-surprise-avoid-collision"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best iPad Accessories (2026): Keyboards, Cases, Styli]]></title>
-        <id>https://www.wired.com/gallery/best-ipad-accessories/</id>
-        <link href="https://www.wired.com/gallery/best-ipad-accessories/"/>
+        <title type="html"><![CDATA[I tried Siri AI, and so far it actually works]]></title>
+        <id>https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc</id>
+        <link href="https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mapping Every Flock License Plate Reader Near US World Cup Stadiums]]></title>
-        <id>https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/</id>
-        <link href="https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/"/>
+        <title type="html"><![CDATA[GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech]]></title>
+        <id>https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion</id>
+        <link href="https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This World Cup, You Can Watch the Game From a Ref’s Point of View]]></title>
-        <id>https://www.wired.com/story/world-cup-referee-body-cameras-live/</id>
-        <link href="https://www.wired.com/story/world-cup-referee-body-cameras-live/"/>
+        <title type="html"><![CDATA[Logitech’s new Mobi Fold squeezes a lot of functionality into a tiny folding mouse]]></title>
+        <id>https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on</id>
+        <link href="https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Other Major Soccer Event of 2026? The Shake-Up in the World of Video Games]]></title>
-        <id>https://www.wired.com/story/2026-world-cup-soccer-video-games/</id>
-        <link href="https://www.wired.com/story/2026-world-cup-soccer-video-games/"/>
+        <title type="html"><![CDATA[Xbox exploring ‘radically different’ console business models]]></title>
+        <id>https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon</id>
+        <link href="https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You]]></title>
-        <id>https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/</id>
-        <link href="https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Notebook Throwdown (2026): Kindle Scribe, ReMarkable Paper Pure]]></title>
-        <id>https://www.wired.com/story/affordable-digital-notebook-comparison-2026/</id>
-        <link href="https://www.wired.com/story/affordable-digital-notebook-comparison-2026/"/>
+        <title type="html"><![CDATA[The three sets of earbuds I reach for]]></title>
+        <id>https://www.theverge.com/gadgets/947325/three-earbuds-i-consistently-use</id>
+        <link href="https://www.theverge.com/gadgets/947325/three-earbuds-i-consistently-use"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
@@ -316,51 +351,16 @@
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zest launches a restaurant discovery app powered by where people actually eat]]></title>
-        <id>https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/</id>
-        <link href="https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/"/>
+        <title type="html"><![CDATA[Digital Notebook Throwdown (2026): Kindle Scribe, ReMarkable Paper Pure]]></title>
+        <id>https://www.wired.com/story/affordable-digital-notebook-comparison-2026/</id>
+        <link href="https://www.wired.com/story/affordable-digital-notebook-comparison-2026/"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta signs first AI data center deal in India with Reliance]]></title>
-        <id>https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/</id>
-        <link href="https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GM joins race to build batteries for AI data centers and the grid]]></title>
-        <id>https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/</id>
-        <link href="https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic’s Fable 5 can make weirdly fun video games with the click of a button]]></title>
-        <id>https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/</id>
-        <link href="https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can tech companies learn to love cheaper AI models? ]]></title>
-        <id>https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/</id>
-        <link href="https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang]]></title>
-        <id>https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/</id>
-        <link href="https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/"/>
-        <updated>2026-06-09T16:00:00.000Z</updated>
-        <published>2026-06-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rivian starts deliveries of its all-important R2 SUV]]></title>
-        <id>https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/</id>
-        <link href="https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/"/>
+        <title type="html"><![CDATA[Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You]]></title>
+        <id>https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/</id>
+        <link href="https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/"/>
         <updated>2026-06-09T16:00:00.000Z</updated>
         <published>2026-06-09T16:00:00.000Z</published>
     </entry>
