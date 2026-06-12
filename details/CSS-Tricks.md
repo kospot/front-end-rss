@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-12 21:03:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-13 06:01:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS-Tricks
 
@@ -6,12 +6,13 @@
 
 
 - [2026-06-12-Why-Isn’t-My-3D-View-Transition-Working?](https://css-tricks.com/why-isnt-my-3d-view-transition-working/) 
+- [2026-06-12-There’s-no-need-to-include-‘navigation’-in-your-navigation-labels](https://css-tricks.com/navigation-in-your-navigation-labels/) 
 - [2026-06-10-Creating-Memorable-Web-Experiences:-A-Modern-CSS-Toolkit](https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/) 
 - [2026-06-08-Scroll-Driven,-Scroll-Triggered,-Scroll-States,-and-View-Transitions](https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/) 
 - [2026-06-04-Another-Stab-at-the-Perfect-CSS-Pie-Chart…-Sans-JavaScript!](https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/) 
-- [2026-06-03-@custom-media](https://css-tricks.com/almanac/rules/c/custom-media/) 
-- [2026-06-03-@function](https://css-tricks.com/almanac/rules/f/function/) 
 - [2026-06-03-offset-path](https://css-tricks.com/almanac/properties/o/offset-path/) 
+- [2026-06-03-@function](https://css-tricks.com/almanac/rules/f/function/) 
+- [2026-06-03-@custom-media](https://css-tricks.com/almanac/rules/c/custom-media/) 
 - [2026-06-02-::search-text](https://css-tricks.com/almanac/pseudo-selectors/s/search-text/) 
 - [2026-06-01-Astro-Markdown-Component-Utility-for-Any-Framework](https://css-tricks.com/astro-markdown-component-utility-any-framework/) 
 - [2026-05-29-What’s-!important-#12:-Safari-Testing,-::checkmark,-HTML-Anchor-Positioning,-and-More](https://css-tricks.com/whats-important-12/) 
@@ -22,4 +23,3 @@
 - [2026-05-20-Stack-Overflow:-When-We-Stop-Asking](https://css-tricks.com/stack-overflow-when-we-stop-asking/) 
 - [2026-05-18-Cross-Document-View-Transitions:-The-Gotchas-Nobody-Mentions](https://css-tricks.com/cross-document-view-transitions-part-1/) 
 - [2026-05-15-What’s-!important-#11:-3D-Voxel-Scenes,-Flying-Focus,-CSS-Syntaxes,-and-More](https://css-tricks.com/whats-important-11/) 
-- [2026-05-14-Computing-and-Displaying-Discounted-Prices-in-CSS](https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/) 
