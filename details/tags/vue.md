@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-13 23:02:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-14 06:00:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -8,8 +8,8 @@
 
 
 - [2026-06-13-How-to-Convert-Word-to-PDF-in-the-Browser-with-Vue-3,-mammoth,-and-html2pdf.js](https://dev.to/sunshey/how-to-convert-word-to-pdf-in-the-browser-with-vue-3-mammoth-and-html2pdfjs-4c7h) 
-- [2026-06-12-Vue-3.6-Vapor-Mode:-Opt-Out-of-the-Virtual-DOM](https://dev.to/grimicorn/vue-36-vapor-mode-opt-out-of-the-virtual-dom-50en) 
 - [2026-06-12-How-to-Merge-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-merge-pdfs-in-the-browser-with-vue-3-and-pdf-lib-56m6) 
+- [2026-06-12-Vue-3.6-Vapor-Mode:-Opt-Out-of-the-Virtual-DOM](https://dev.to/grimicorn/vue-36-vapor-mode-opt-out-of-the-virtual-dom-50en) 
 - [2026-06-11-How-to-Add-Electronic-Signatures-to-PDFs-in-the-Browser-Vue-3-+-HTML5-Canvas](https://dev.to/sunshey/how-to-add-electronic-signatures-to-pdfs-in-the-browser-vue-3-html5-canvas-2804) 
 - [2026-06-10-ما-الذي-يميز-مهندس-Vue.js-Senior؟](https://dev.to/ahmed_niazy/m-ldhy-ymyz-mhnds-vuejs-senior-162i) 
 - [2026-06-06-What-is-JavaScript?-Features,-Advantages,-Disadvantages,-and-Uses](https://dev.to/sivasakthi_paramasivam_e8/what-is-javascript-features-advantages-disadvantages-and-uses-19b6) 
@@ -17,11 +17,10 @@
 - [2026-05-28-How-I-reverse-engineered-the-StudentVue-SOAP-API-to-build-the-only-study-planner-that-syncs-with-it](https://dev.to/anirudh_ulabala_ea94f489e/how-i-reverse-engineered-the-studentvue-soap-api-to-build-the-only-study-planner-that-syncs-with-it-180o) 
 - [2026-05-26-Composable-Abstraction-Layer:-o-pattern-que-faltava-entre-Pinia-e-seus-componentes-Vue](https://dev.to/gabrielcaiana/composable-abstraction-layer-o-pattern-que-faltava-entre-pinia-e-seus-componentes-vue-5efc) 
 - [2026-05-25-Cache-Everything:-Advanced-Caching-Strategies-in-Vue-3-&amp;-Nuxt-4](https://dev.to/parsajiravand/cache-everything-advanced-caching-strategies-in-vue-3-nuxt-4-bgi) 
-- [2026-05-18-Disadvantage-Of-C-language](https://dev.to/waseem_khan_4baa15643a034/disadvantage-of-c-language-2bcp) 
-- [2026-05-18-Avoid-Unnecessary-Re-renders-in-Vue-with-`v-memo`](https://dev.to/jacobandrewsky/avoid-unnecessary-re-renders-in-vue-with-v-memo-49bo) 
-- [2026-05-18-Construí-un-clon-de-LWN.net-en-un-solo-App.vue-de-2292-líneas-porque-estaba-enojado](https://dev.to/andres_avalosgallegos_7d/construi-un-clon-de-lwnnet-en-un-solo-appvue-de-2292-lineas-porque-estaba-enojado-1mkh) 
 - [2026-05-18-Construí-un-clon-de-LWN.net-en-un-solo-App.vue-de-2292-líneas-porque-estaba-enojado](https://dev.to/andres_avalosgallegos_7d/construi-un-clon-de-lwnnet-en-un-solo-appvue-de-2292-lineas-porque-estaba-enojado-329g) 
-- [2026-05-15-Advantages-of-TypeScript](https://dev.to/atif_tanwri_05545e2e22b82/advantages-of-typescript-a0o) 
+- [2026-05-18-Construí-un-clon-de-LWN.net-en-un-solo-App.vue-de-2292-líneas-porque-estaba-enojado](https://dev.to/andres_avalosgallegos_7d/construi-un-clon-de-lwnnet-en-un-solo-appvue-de-2292-lineas-porque-estaba-enojado-1mkh) 
+- [2026-05-18-Avoid-Unnecessary-Re-renders-in-Vue-with-`v-memo`](https://dev.to/jacobandrewsky/avoid-unnecessary-re-renders-in-vue-with-v-memo-49bo) 
+- [2026-05-18-Disadvantage-Of-C-language](https://dev.to/waseem_khan_4baa15643a034/disadvantage-of-c-language-2bcp) 
 - [2026-05-29--SVAR-Vue-Gantt---Build-custom-Gantt-charts-for-project-scheduling-](
 https://github.com/svar-widgets/vue-gantt
 ) 
@@ -47,8 +46,6 @@ https://svar.dev/blog/svar-vue-components-released/
 - [2026-05-22-Riemannian-geometry-meets-fMRI:-the-advantages-of-modeling-correlation-manifolds-and-eigenvector-subspaces](https://arxiv.org/abs/2605.22334) 
 - [2026-05-21-Advantage-Collapse-in-Group-Relative-Policy-Optimization:-Diagnosis-and-Mitigation](https://arxiv.org/abs/2605.21125) 
 - [2026-05-19-Randomized-Advantage-Transformation-RAT:-Computing-Natural-Policy-Gradients-via-Direct-Backpropagation](https://arxiv.org/abs/2605.18591) 
-- [2026-05-15-Reinforcement-Learning-for-Diffusion-LLMs-with-Entropy-Guided-Step-Selection-and-Stepwise-Advantages](https://arxiv.org/abs/2603.12554) 
-- [2026-05-15-Quantum-Advantage-in-Multi-Agent-Reinforcement-Learning](https://arxiv.org/abs/2605.14235) 
 - [2026-06-07-If-You’re-a-Python-Developer,-These-7-AI-APIs-Could-Be-Your-Biggest-Advantage-in-2026.](https://pub.towardsai.net/if-youre-a-python-developer-these-7-ai-apis-could-be-your-biggest-advantage-in-2026-deac03bc92d3?source=rss----98111c9905da---4) 
 - [2026-05-26-Agentic-AI-and-the-SMB-Banking-Advantage](https://pub.towardsai.net/agentic-ai-and-the-smb-banking-advantage-0e75e0514707?source=rss----98111c9905da---4) 
 - [2026-05-24-Beyond-Foundation-Models:-Why-Enterprise-Context-Could-Become-the-Real-AI-Advantage](https://pub.towardsai.net/beyond-foundation-models-why-enterprise-context-could-become-the-real-ai-advantage-3b17fbd14c72?source=rss----98111c9905da---4) 
@@ -56,5 +53,4 @@ https://svar.dev/blog/svar-vue-components-released/
 - [2026-05-30-The-Oscar-Levant-Show-1958](https://archive.org/details/TheOscarLevantShow) 
 - [2026-05-19-Ask-HN:-Are-coding-interview-still-relevant?](https://news.ycombinator.com/item?id=48185969) 
 - [2026-05-16-Why-vibe-coding-is-becoming-an-SEO-advantage](https://searchengineland.com/vibe-coding-seo-advantage-477069) 
-- [2026-05-15-Britain's-latest-civil-servant-is-a-chatbot-trained-on-Gov.uk-misery](https://www.theregister.com/public-sector/2026/05/15/britains-latest-civil-servant-is-a-chatbot-trained-on-govuk-misery/5240955) 
 - [2026-05-24-Why-Nuro-thinks-being-a-robotaxi-‘second-mover’-gives-it-an-advantage](https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo) 
