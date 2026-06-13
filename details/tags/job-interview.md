@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-13 12:01:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-13 15:01:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -15,8 +15,8 @@
 - [2026-05-21-Sam-Altman-makes-'mic-drop'-offer-to-every-Y-Combinator-startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/) 
 - [2026-05-17-OpenAI-is-offering-ChatGPT-Plus-to-citizens-of-Malta-for-a-year](https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/) 
 - [2026-06-03-Microsoft-offers-devs-a-better-way-to-control-AI-agent-behavior](https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/) 
-- [2026-05-21-The-Path,-founded-by-Tony-Robbins-and-Calm-alums,-hopes-to-offer-safer-AI-therapy](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/) 
 - [2026-05-21-Sam-Altman-makes-‘mic-drop’-offer-to-every-Y-Combinator-startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/) 
+- [2026-05-21-The-Path,-founded-by-Tony-Robbins-and-Calm-alums,-hopes-to-offer-safer-AI-therapy](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/) 
 - [2026-05-20-NanoClaw-creator-turns-down-$20M-buyout-offer,-raises-$12M-seed-instead](https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/) 
 - [2026-05-31-The-Mercedes-CLA-offers-great-EV-specs-for-an-average-price](https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs) 
 - [2026-05-28-Sony-is-offering-up-to-50-percent-off-some-of-our-favorite-PS5-games](https://www.theverge.com/gadgets/937711/cheap-ps5-games-sony-state-of-play-2026-sale-govee-lightwall-deal) 
