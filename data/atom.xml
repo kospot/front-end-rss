@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-13T02:01:20.924Z</updated>
+    <updated>2026-06-13T04:01:34.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,9 @@
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon]]></title>
-        <id>https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/</id>
-        <link href="https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/"/>
+        <title type="html"><![CDATA[‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess]]></title>
+        <id>https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/</id>
+        <link href="https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
@@ -36,9 +36,9 @@
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess]]></title>
-        <id>https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/</id>
-        <link href="https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"/>
+        <title type="html"><![CDATA[Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon]]></title>
+        <id>https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/</id>
+        <link href="https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
@@ -50,121 +50,79 @@
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta's months-old AI unit is a soul-crushing gulag]]></title>
-        <id>https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/</id>
-        <link href="https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/"/>
+        <title type="html"><![CDATA[HAFT: Higher-Order Abstractions for Rust]]></title>
+        <id>https://www.deepcausality.com/blog/announcement-haft-hkt/</id>
+        <link href="https://www.deepcausality.com/blog/announcement-haft-hkt/"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raspberry Pi projects I'm self-hosting this year]]></title>
-        <id>https://www.xda-developers.com/raspberry-pi-projects-self-hosting-this-year-instead-of-paying-monthly/</id>
-        <link href="https://www.xda-developers.com/raspberry-pi-projects-self-hosting-this-year-instead-of-paying-monthly/"/>
+        <title type="html"><![CDATA[Qatar pursued secret talks with Iran to shield gas complex from strikes]]></title>
+        <id>https://www.washingtonpost.com/world/2026/06/12/qatar-pursued-secret-talks-with-iran-shield-gas-complex-strikes/</id>
+        <link href="https://www.washingtonpost.com/world/2026/06/12/qatar-pursued-secret-talks-with-iran-shield-gas-complex-strikes/"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Open-source Git-like Markdown docs for humans and agents]]></title>
-        <id>https://www.datacompany.dev</id>
-        <link href="https://www.datacompany.dev"/>
+        <title type="html"><![CDATA[Show HN: DNSweep – DNS lookup with ASN, anycast, and CDN/WAF detection]]></title>
+        <id>https://dnsweep.com</id>
+        <link href="https://dnsweep.com"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic Fable just deleted a .git folder of mine, what's next?]]></title>
-        <id>https://news.ycombinator.com/item?id=48509874</id>
-        <link href="https://news.ycombinator.com/item?id=48509874"/>
+        <title type="html"><![CDATA[A Lean 4-verified Balansis lib to eliminate NaN and make zero-division safe]]></title>
+        <id>https://github.com/XTeam-Pro/Balansis</id>
+        <link href="https://github.com/XTeam-Pro/Balansis"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zero Install: The future of FOSS Python static application security testing]]></title>
-        <id>https://nocomplexity.substack.com/p/zero-install-the-future-of-foss-python</id>
-        <link href="https://nocomplexity.substack.com/p/zero-install-the-future-of-foss-python"/>
+        <title type="html"><![CDATA[Charlie Dalin, Who Set a Sailing Record While Battling Cancer, Dies at 42]]></title>
+        <id>https://www.nytimes.com/2026/06/12/sports/sailing/charlie-dalin-dead.html</id>
+        <link href="https://www.nytimes.com/2026/06/12/sports/sailing/charlie-dalin-dead.html"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doomsday Simulator: Fable physically realistic WebGPU planetary collision SIM]]></title>
-        <id>https://doomsdaysimulator.com</id>
-        <link href="https://doomsdaysimulator.com"/>
+        <title type="html"><![CDATA[Gene Shalit, longtime 'Today' show movie critic, dies at 100]]></title>
+        <id>https://apnews.com/article/gene-shalit-dies-b8ed6f4b7054e530e5fba9a808902cca</id>
+        <link href="https://apnews.com/article/gene-shalit-dies-b8ed6f4b7054e530e5fba9a808902cca"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Atlas – local-first memory that re-evaluates beliefs when facts change]]></title>
-        <id>https://github.com/RichSchefren/atlas</id>
-        <link href="https://github.com/RichSchefren/atlas"/>
+        <title type="html"><![CDATA[Dhtmlx Gantt – JavaScript Gantt Chart (Community Edition)]]></title>
+        <id>https://github.com/DHTMLX/gantt</id>
+        <link href="https://github.com/DHTMLX/gantt"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Interview with Intel's Kira Boyko: Xeon 6's Product Director]]></title>
-        <id>https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko</id>
-        <link href="https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko"/>
+        <title type="html"><![CDATA[CipherNode – An offline, self-correcting AI swarm compiled to a single .exe]]></title>
+        <id>https://news.ycombinator.com/item?id=48512309</id>
+        <link href="https://news.ycombinator.com/item?id=48512309"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I reviewed Wordle in 2026]]></title>
-        <id>https://dles.gg/reviews/wordle</id>
-        <link href="https://dles.gg/reviews/wordle"/>
+        <title type="html"><![CDATA[China cracks down on Western AI models while US companies flock to DeepSeek]]></title>
+        <id>https://www.techradar.com/pro/the-great-ai-irony-china-cracks-down-on-western-models-while-us-companies-flock-to-deepseek</id>
+        <link href="https://www.techradar.com/pro/the-great-ai-irony-china-cracks-down-on-western-models-while-us-companies-flock-to-deepseek"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DigitalOcean Ending Student Credit Promotion]]></title>
-        <id>https://news.ycombinator.com/item?id=48509700</id>
-        <link href="https://news.ycombinator.com/item?id=48509700"/>
+        <title type="html"><![CDATA[A generic dynamic array in C that stores no capacity and needs no struct]]></title>
+        <id>https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e</id>
+        <link href="https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Agent Joe – a Rust only coding agent with no shell access]]></title>
-        <id>https://github.com/Kapperchino/agent-joe</id>
-        <link href="https://github.com/Kapperchino/agent-joe"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Do Engineers Mean When We Say "Taste"?]]></title>
-        <id>https://davegriffith.substack.com/p/what-do-engineers-mean-when-we-say</id>
-        <link href="https://davegriffith.substack.com/p/what-do-engineers-mean-when-we-say"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Tomatoes Are the Most Expensive They've Been in Four Decades [audio] [video]]]></title>
-        <id>https://www.youtube.com/watch?v=pUrIlUAo0kM</id>
-        <link href="https://www.youtube.com/watch?v=pUrIlUAo0kM"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pink Cosmo Blueberries]]></title>
-        <id>https://www.baldorfood.com/product/blueberries/be3p-pink-cosmo-blueberries</id>
-        <link href="https://www.baldorfood.com/product/blueberries/be3p-pink-cosmo-blueberries"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From a Single File to an MCP Server: Six Rewrites of My Own Harness]]></title>
-        <id>https://pub.towardsai.net/from-a-single-file-to-an-mcp-server-six-rewrites-of-my-own-harness-74b4d67b5373?source=friends_link&amp;sk=9e8b13e4920771b5d414db224901bf0e</id>
-        <link href="https://pub.towardsai.net/from-a-single-file-to-an-mcp-server-six-rewrites-of-my-own-harness-74b4d67b5373?source=friends_link&amp;sk=9e8b13e4920771b5d414db224901bf0e"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia builds up infrastructure near Europe's border to deploy over 100k troops]]></title>
-        <id>https://www.pravda.com.ua/eng/news/2026/06/10/8038671/</id>
-        <link href="https://www.pravda.com.ua/eng/news/2026/06/10/8038671/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs]]></title>
-        <id>https://arxiv.org/abs/2606.06622</id>
-        <link href="https://arxiv.org/abs/2606.06622"/>
+        <title type="html"><![CDATA[Humans in the Way [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ruzZ5UDm-MM&amp;list=PLyfdekfVUs1zBkdxO99rhEJ695mMzGso6</id>
+        <link href="https://www.youtube.com/watch?v=ruzZ5UDm-MM&amp;list=PLyfdekfVUs1zBkdxO99rhEJ695mMzGso6"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
@@ -176,9 +134,121 @@
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humans in the Way [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ruzZ5UDm-MM&amp;list=PLyfdekfVUs1zBkdxO99rhEJ695mMzGso6</id>
-        <link href="https://www.youtube.com/watch?v=ruzZ5UDm-MM&amp;list=PLyfdekfVUs1zBkdxO99rhEJ695mMzGso6"/>
+        <title type="html"><![CDATA[UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs]]></title>
+        <id>https://arxiv.org/abs/2606.06622</id>
+        <link href="https://arxiv.org/abs/2606.06622"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia builds up infrastructure near Europe's border to deploy over 100k troops]]></title>
+        <id>https://www.pravda.com.ua/eng/news/2026/06/10/8038671/</id>
+        <link href="https://www.pravda.com.ua/eng/news/2026/06/10/8038671/"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From a Single File to an MCP Server: Six Rewrites of My Own Harness]]></title>
+        <id>https://pub.towardsai.net/from-a-single-file-to-an-mcp-server-six-rewrites-of-my-own-harness-74b4d67b5373?source=friends_link&amp;sk=9e8b13e4920771b5d414db224901bf0e</id>
+        <link href="https://pub.towardsai.net/from-a-single-file-to-an-mcp-server-six-rewrites-of-my-own-harness-74b4d67b5373?source=friends_link&amp;sk=9e8b13e4920771b5d414db224901bf0e"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pink Cosmo Blueberries]]></title>
+        <id>https://www.baldorfood.com/product/blueberries/be3p-pink-cosmo-blueberries</id>
+        <link href="https://www.baldorfood.com/product/blueberries/be3p-pink-cosmo-blueberries"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Tomatoes Are the Most Expensive They've Been in Four Decades [audio] [video]]]></title>
+        <id>https://www.youtube.com/watch?v=pUrIlUAo0kM</id>
+        <link href="https://www.youtube.com/watch?v=pUrIlUAo0kM"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Do Engineers Mean When We Say "Taste"?]]></title>
+        <id>https://davegriffith.substack.com/p/what-do-engineers-mean-when-we-say</id>
+        <link href="https://davegriffith.substack.com/p/what-do-engineers-mean-when-we-say"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Agent Joe – a Rust only coding agent with no shell access]]></title>
+        <id>https://github.com/Kapperchino/agent-joe</id>
+        <link href="https://github.com/Kapperchino/agent-joe"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DigitalOcean Ending Student Credit Promotion]]></title>
+        <id>https://news.ycombinator.com/item?id=48509700</id>
+        <link href="https://news.ycombinator.com/item?id=48509700"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I reviewed Wordle in 2026]]></title>
+        <id>https://dles.gg/reviews/wordle</id>
+        <link href="https://dles.gg/reviews/wordle"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interview with Intel's Kira Boyko: Xeon 6's Product Director]]></title>
+        <id>https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko</id>
+        <link href="https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Atlas – local-first memory that re-evaluates beliefs when facts change]]></title>
+        <id>https://github.com/RichSchefren/atlas</id>
+        <link href="https://github.com/RichSchefren/atlas"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doomsday Simulator: Fable physically realistic WebGPU planetary collision SIM]]></title>
+        <id>https://doomsdaysimulator.com</id>
+        <link href="https://doomsdaysimulator.com"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero Install: The future of FOSS Python static application security testing]]></title>
+        <id>https://nocomplexity.substack.com/p/zero-install-the-future-of-foss-python</id>
+        <link href="https://nocomplexity.substack.com/p/zero-install-the-future-of-foss-python"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Fable just deleted a .git folder of mine, what's next?]]></title>
+        <id>https://news.ycombinator.com/item?id=48509874</id>
+        <link href="https://news.ycombinator.com/item?id=48509874"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Open-source Git-like Markdown docs for humans and agents]]></title>
+        <id>https://www.datacompany.dev</id>
+        <link href="https://www.datacompany.dev"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi projects I'm self-hosting this year]]></title>
+        <id>https://www.xda-developers.com/raspberry-pi-projects-self-hosting-this-year-instead-of-paying-monthly/</id>
+        <link href="https://www.xda-developers.com/raspberry-pi-projects-self-hosting-this-year-instead-of-paying-monthly/"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta's months-old AI unit is a soul-crushing gulag]]></title>
+        <id>https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/</id>
+        <link href="https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
@@ -260,101 +330,30 @@
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built an Open-Source JavaScript Data Grid Because Tables Never Stay Simple]]></title>
-        <id>https://dev.to/vitalii_shevchuk_de4862c7/i-built-an-open-source-javascript-data-grid-because-tables-never-stay-simple-4bgd</id>
-        <link href="https://dev.to/vitalii_shevchuk_de4862c7/i-built-an-open-source-javascript-data-grid-because-tables-never-stay-simple-4bgd"/>
+        <title type="html"><![CDATA[JavaScript Formatter Pro | beautify & minify]]></title>
+        <id>https://dev.to/inarlearn/javascript-formatter-pro-beautify-minify-b7d</id>
+        <link href="https://dev.to/inarlearn/javascript-formatter-pro-beautify-minify-b7d"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Catch and Release Pattern: Handling High-Volume Webhooks in Node.js]]></title>
-        <id>https://dev.to/matt_rose_9d0fe88d3533a4f/the-catch-and-release-pattern-handling-high-volume-webhooks-in-nodejs-17d2</id>
-        <link href="https://dev.to/matt_rose_9d0fe88d3533a4f/the-catch-and-release-pattern-handling-high-volume-webhooks-in-nodejs-17d2"/>
+        <title type="html"><![CDATA[AI Infrastructure Demand Diverges from Crypto Sentiment as NIFTY Signals Institutional Confidence]]></title>
+        <id>https://dev.to/chantpulse/ai-infrastructure-demand-diverges-from-crypto-sentiment-as-nifty-signals-institutional-confidence-56a0</id>
+        <link href="https://dev.to/chantpulse/ai-infrastructure-demand-diverges-from-crypto-sentiment-as-nifty-signals-institutional-confidence-56a0"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript Discriminated Unions: The Pattern That Made My Error Handling Click]]></title>
-        <id>https://dev.to/kaithorne/typescript-discriminated-unions-the-pattern-that-made-my-error-handling-click-2550</id>
-        <link href="https://dev.to/kaithorne/typescript-discriminated-unions-the-pattern-that-made-my-error-handling-click-2550"/>
+        <title type="html"><![CDATA[How I Built a 24 Game Solver: Brute-Force Meets Elegance in TypeScript]]></title>
+        <id>https://dev.to/_fd62359cd3c9c677f9e9f6/how-i-built-a-24-game-solver-brute-force-meets-elegance-in-typescript-50ko</id>
+        <link href="https://dev.to/_fd62359cd3c9c677f9e9f6/how-i-built-a-24-game-solver-brute-force-meets-elegance-in-typescript-50ko"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No Suggest - distraction-free YouTube client]]></title>
-        <id>https://dev.to/vj_2_108/no-suggest-distraction-free-youtube-client-9p7</id>
-        <link href="https://dev.to/vj_2_108/no-suggest-distraction-free-youtube-client-9p7"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run a script every day at a set time with Apps Script]]></title>
-        <id>https://dev.to/bulldo_gs/run-a-script-every-day-at-a-set-time-with-apps-script-3kp9</id>
-        <link href="https://dev.to/bulldo_gs/run-a-script-every-day-at-a-set-time-with-apps-script-3kp9"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convert getValues for loops to map and filter]]></title>
-        <id>https://dev.to/bulldo_gs/convert-getvalues-for-loops-to-map-and-filter-1eln</id>
-        <link href="https://dev.to/bulldo_gs/convert-getvalues-for-loops-to-map-and-filter-1eln"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch an old script from Rhino to the V8 runtime]]></title>
-        <id>https://dev.to/bulldo_gs/switch-an-old-script-from-rhino-to-the-v8-runtime-4oej</id>
-        <link href="https://dev.to/bulldo_gs/switch-an-old-script-from-rhino-to-the-v8-runtime-4oej"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSR, CSR, SSG, ISR — I Was Confused Too. Here's What Actually Matters.]]></title>
-        <id>https://dev.to/alaa-samy/ssr-csr-ssg-isr-i-was-confused-too-heres-what-actually-matters-305f</id>
-        <link href="https://dev.to/alaa-samy/ssr-csr-ssg-isr-i-was-confused-too-heres-what-actually-matters-305f"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PeerJS alternatives in 2026- free TURN, auto-reconnect, and which WebRTC library to actually pick.]]></title>
-        <id>https://dev.to/alakkadshaw/peerjs-alternatives-in-2026-free-turn-auto-reconnect-and-which-webrtc-library-to-actually-pick-14ad</id>
-        <link href="https://dev.to/alakkadshaw/peerjs-alternatives-in-2026-free-turn-auto-reconnect-and-which-webrtc-library-to-actually-pick-14ad"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I stopped pasting into online Encode / Decode tools]]></title>
-        <id>https://dev.to/crypto_plato_26/why-i-stopped-pasting-into-online-encode-decode-tools-3bfd</id>
-        <link href="https://dev.to/crypto_plato_26/why-i-stopped-pasting-into-online-encode-decode-tools-3bfd"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML-First Websites Are Quietly Winning Again in 2026]]></title>
-        <id>https://dev.to/maxmendes91/html-first-websites-are-quietly-winning-again-in-2026-4gg0</id>
-        <link href="https://dev.to/maxmendes91/html-first-websites-are-quietly-winning-again-in-2026-4gg0"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[**What's the most over-engineered AI solution you've seen for a problem a linter already solves?**
- We added AI to write code. Then AI to review code. Then AI to verify code. The thing that actually reduced incidents? ESLint.]]></title>
-        <id>https://dev.to/utkarsh_bansal_01/whats-the-most-over-engineered-ai-solution-youve-seen-for-a-problem-a-linter-already-48b5</id>
-        <link href="https://dev.to/utkarsh_bansal_01/whats-the-most-over-engineered-ai-solution-youve-seen-for-a-problem-a-linter-already-48b5"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert Excel Files to CSV and JSON Programmatically]]></title>
-        <id>https://dev.to/lb1192176991lab/how-to-convert-excel-files-to-csv-and-json-programmatically-4l4f</id>
-        <link href="https://dev.to/lb1192176991lab/how-to-convert-excel-files-to-csv-and-json-programmatically-4l4f"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best JavaScript Slider Library? Introducing Pagiflow: A Zero-Dependency, High-Performance Carousel]]></title>
-        <id>https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch</id>
-        <link href="https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch"/>
+        <title type="html"><![CDATA[A Hello World Museum for 84 Languages — and the Round-Trip Test That Makes a Tiny Syntax Highlighter Trustworthy]]></title>
+        <id>https://dev.to/sendotltd/a-hello-world-museum-for-84-languages-and-the-round-trip-test-that-makes-a-tiny-syntax-20jj</id>
+        <link href="https://dev.to/sendotltd/a-hello-world-museum-for-84-languages-and-the-round-trip-test-that-makes-a-tiny-syntax-20jj"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
