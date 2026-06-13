@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-13T00:01:10.540Z</updated>
+    <updated>2026-06-13T02:01:20.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Valve just imported 13 tons of VR headsets in one day]]></title>
+        <id>https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console</id>
+        <link href="https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon]]></title>
         <id>https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/</id>
@@ -43,107 +50,23 @@
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humans in the Way [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ruzZ5UDm-MM&amp;list=PLyfdekfVUs1zBkdxO99rhEJ695mMzGso6</id>
-        <link href="https://www.youtube.com/watch?v=ruzZ5UDm-MM&amp;list=PLyfdekfVUs1zBkdxO99rhEJ695mMzGso6"/>
+        <title type="html"><![CDATA[Meta's months-old AI unit is a soul-crushing gulag]]></title>
+        <id>https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/</id>
+        <link href="https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quantum Field Screensaver]]></title>
-        <id>https://rogmash.neocities.org/quantumfield</id>
-        <link href="https://rogmash.neocities.org/quantumfield"/>
+        <title type="html"><![CDATA[Raspberry Pi projects I'm self-hosting this year]]></title>
+        <id>https://www.xda-developers.com/raspberry-pi-projects-self-hosting-this-year-instead-of-paying-monthly/</id>
+        <link href="https://www.xda-developers.com/raspberry-pi-projects-self-hosting-this-year-instead-of-paying-monthly/"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs]]></title>
-        <id>https://arxiv.org/abs/2606.06622</id>
-        <link href="https://arxiv.org/abs/2606.06622"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia builds up infrastructure near Europe's border to deploy over 100k troops]]></title>
-        <id>https://www.pravda.com.ua/eng/news/2026/06/10/8038671/</id>
-        <link href="https://www.pravda.com.ua/eng/news/2026/06/10/8038671/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From a Single File to an MCP Server: Six Rewrites of My Own Harness]]></title>
-        <id>https://pub.towardsai.net/from-a-single-file-to-an-mcp-server-six-rewrites-of-my-own-harness-74b4d67b5373?source=friends_link&amp;sk=9e8b13e4920771b5d414db224901bf0e</id>
-        <link href="https://pub.towardsai.net/from-a-single-file-to-an-mcp-server-six-rewrites-of-my-own-harness-74b4d67b5373?source=friends_link&amp;sk=9e8b13e4920771b5d414db224901bf0e"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pink Cosmo Blueberries]]></title>
-        <id>https://www.baldorfood.com/product/blueberries/be3p-pink-cosmo-blueberries</id>
-        <link href="https://www.baldorfood.com/product/blueberries/be3p-pink-cosmo-blueberries"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Tomatoes Are the Most Expensive They've Been in Four Decades [audio] [video]]]></title>
-        <id>https://www.youtube.com/watch?v=pUrIlUAo0kM</id>
-        <link href="https://www.youtube.com/watch?v=pUrIlUAo0kM"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Do Engineers Mean When We Say "Taste"?]]></title>
-        <id>https://davegriffith.substack.com/p/what-do-engineers-mean-when-we-say</id>
-        <link href="https://davegriffith.substack.com/p/what-do-engineers-mean-when-we-say"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Agent Joe – a Rust only coding agent with no shell access]]></title>
-        <id>https://github.com/Kapperchino/agent-joe</id>
-        <link href="https://github.com/Kapperchino/agent-joe"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DigitalOcean Ending Student Credit Promotion]]></title>
-        <id>https://news.ycombinator.com/item?id=48509700</id>
-        <link href="https://news.ycombinator.com/item?id=48509700"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I reviewed Wordle in 2026]]></title>
-        <id>https://dles.gg/reviews/wordle</id>
-        <link href="https://dles.gg/reviews/wordle"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Interview with Intel's Kira Boyko: Xeon 6's Product Director]]></title>
-        <id>https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko</id>
-        <link href="https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Atlas – local-first memory that re-evaluates beliefs when facts change]]></title>
-        <id>https://github.com/RichSchefren/atlas</id>
-        <link href="https://github.com/RichSchefren/atlas"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doomsday Simulator: Fable physically realistic WebGPU planetary collision SIM]]></title>
-        <id>https://doomsdaysimulator.com</id>
-        <link href="https://doomsdaysimulator.com"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero Install: The future of FOSS Python static application security testing]]></title>
-        <id>https://nocomplexity.substack.com/p/zero-install-the-future-of-foss-python</id>
-        <link href="https://nocomplexity.substack.com/p/zero-install-the-future-of-foss-python"/>
+        <title type="html"><![CDATA[Show HN: Open-source Git-like Markdown docs for humans and agents]]></title>
+        <id>https://www.datacompany.dev</id>
+        <link href="https://www.datacompany.dev"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
@@ -155,37 +78,121 @@
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zero Install: The future of FOSS Python static application security testing]]></title>
+        <id>https://nocomplexity.substack.com/p/zero-install-the-future-of-foss-python</id>
+        <link href="https://nocomplexity.substack.com/p/zero-install-the-future-of-foss-python"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doomsday Simulator: Fable physically realistic WebGPU planetary collision SIM]]></title>
+        <id>https://doomsdaysimulator.com</id>
+        <link href="https://doomsdaysimulator.com"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Atlas – local-first memory that re-evaluates beliefs when facts change]]></title>
+        <id>https://github.com/RichSchefren/atlas</id>
+        <link href="https://github.com/RichSchefren/atlas"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interview with Intel's Kira Boyko: Xeon 6's Product Director]]></title>
+        <id>https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko</id>
+        <link href="https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I reviewed Wordle in 2026]]></title>
+        <id>https://dles.gg/reviews/wordle</id>
+        <link href="https://dles.gg/reviews/wordle"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DigitalOcean Ending Student Credit Promotion]]></title>
+        <id>https://news.ycombinator.com/item?id=48509700</id>
+        <link href="https://news.ycombinator.com/item?id=48509700"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Agent Joe – a Rust only coding agent with no shell access]]></title>
+        <id>https://github.com/Kapperchino/agent-joe</id>
+        <link href="https://github.com/Kapperchino/agent-joe"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Do Engineers Mean When We Say "Taste"?]]></title>
+        <id>https://davegriffith.substack.com/p/what-do-engineers-mean-when-we-say</id>
+        <link href="https://davegriffith.substack.com/p/what-do-engineers-mean-when-we-say"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Tomatoes Are the Most Expensive They've Been in Four Decades [audio] [video]]]></title>
+        <id>https://www.youtube.com/watch?v=pUrIlUAo0kM</id>
+        <link href="https://www.youtube.com/watch?v=pUrIlUAo0kM"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pink Cosmo Blueberries]]></title>
+        <id>https://www.baldorfood.com/product/blueberries/be3p-pink-cosmo-blueberries</id>
+        <link href="https://www.baldorfood.com/product/blueberries/be3p-pink-cosmo-blueberries"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From a Single File to an MCP Server: Six Rewrites of My Own Harness]]></title>
-        <id>https://pub.towardsai.net/from-a-single-file-to-an-mcp-server-six-rewrites-of-my-own-harness-74b4d67b5373?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/from-a-single-file-to-an-mcp-server-six-rewrites-of-my-own-harness-74b4d67b5373?source=rss----98111c9905da---4"/>
+        <id>https://pub.towardsai.net/from-a-single-file-to-an-mcp-server-six-rewrites-of-my-own-harness-74b4d67b5373?source=friends_link&amp;sk=9e8b13e4920771b5d414db224901bf0e</id>
+        <link href="https://pub.towardsai.net/from-a-single-file-to-an-mcp-server-six-rewrites-of-my-own-harness-74b4d67b5373?source=friends_link&amp;sk=9e8b13e4920771b5d414db224901bf0e"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 CatBoost Interview Questions and Answers (Part 2 of 2)]]></title>
-        <id>https://pub.towardsai.net/top-20-catboost-interview-questions-and-answers-part-2-of-2-372cfecbc4e5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/top-20-catboost-interview-questions-and-answers-part-2-of-2-372cfecbc4e5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Russia builds up infrastructure near Europe's border to deploy over 100k troops]]></title>
+        <id>https://www.pravda.com.ua/eng/news/2026/06/10/8038671/</id>
+        <link href="https://www.pravda.com.ua/eng/news/2026/06/10/8038671/"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XGBoost for Tabular Time Series: A Multi-Stage Framework for Inventory Recovery Forecasting]]></title>
-        <id>https://pub.towardsai.net/xgboost-for-tabular-time-series-a-multi-stage-framework-for-inventory-recovery-forecasting-9afa7a13fdaa?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/xgboost-for-tabular-time-series-a-multi-stage-framework-for-inventory-recovery-forecasting-9afa7a13fdaa?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs]]></title>
+        <id>https://arxiv.org/abs/2606.06622</id>
+        <link href="https://arxiv.org/abs/2606.06622"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ LangChain Series #3: Prompts Explained — Prompt Templates, Chat Prompts, Dynamic Prompting…]]></title>
-        <id>https://pub.towardsai.net/langchain-series-3-prompts-explained-prompt-templates-chat-prompts-dynamic-prompting-fd1411b3e986?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/langchain-series-3-prompts-explained-prompt-templates-chat-prompts-dynamic-prompting-fd1411b3e986?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Quantum Field Screensaver]]></title>
+        <id>https://rogmash.neocities.org/quantumfield</id>
+        <link href="https://rogmash.neocities.org/quantumfield"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DiffusionGemma Developer Guide: When Parallel Text Generation Beats Token-by-Token LLMs]]></title>
-        <id>https://pub.towardsai.net/diffusiongemma-developer-guide-when-parallel-text-generation-beats-token-by-token-llms-2c48c0bea99a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/diffusiongemma-developer-guide-when-parallel-text-generation-beats-token-by-token-llms-2c48c0bea99a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Humans in the Way [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ruzZ5UDm-MM&amp;list=PLyfdekfVUs1zBkdxO99rhEJ695mMzGso6</id>
+        <link href="https://www.youtube.com/watch?v=ruzZ5UDm-MM&amp;list=PLyfdekfVUs1zBkdxO99rhEJ695mMzGso6"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Claude Code-Powered Knowledge Base]]></title>
+        <id>https://pub.towardsai.net/how-to-build-a-claude-code-powered-knowledge-base-4b91c5132e21?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-build-a-claude-code-powered-knowledge-base-4b91c5132e21?source=rss----98111c9905da---4"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Set Up Claude Projects Properly. I Won’t Go Back.]]></title>
+        <id>https://pub.towardsai.net/i-set-up-claude-projects-properly-i-wont-go-back-19848a46703c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-set-up-claude-projects-properly-i-wont-go-back-19848a46703c?source=rss----98111c9905da---4"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
@@ -197,9 +204,44 @@
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Set Up Claude Projects Properly. I Won’t Go Back.]]></title>
-        <id>https://pub.towardsai.net/i-set-up-claude-projects-properly-i-wont-go-back-19848a46703c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-set-up-claude-projects-properly-i-wont-go-back-19848a46703c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[DiffusionGemma Developer Guide: When Parallel Text Generation Beats Token-by-Token LLMs]]></title>
+        <id>https://pub.towardsai.net/diffusiongemma-developer-guide-when-parallel-text-generation-beats-token-by-token-llms-2c48c0bea99a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/diffusiongemma-developer-guide-when-parallel-text-generation-beats-token-by-token-llms-2c48c0bea99a?source=rss----98111c9905da---4"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ LangChain Series #3: Prompts Explained — Prompt Templates, Chat Prompts, Dynamic Prompting…]]></title>
+        <id>https://pub.towardsai.net/langchain-series-3-prompts-explained-prompt-templates-chat-prompts-dynamic-prompting-fd1411b3e986?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/langchain-series-3-prompts-explained-prompt-templates-chat-prompts-dynamic-prompting-fd1411b3e986?source=rss----98111c9905da---4"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XGBoost for Tabular Time Series: A Multi-Stage Framework for Inventory Recovery Forecasting]]></title>
+        <id>https://pub.towardsai.net/xgboost-for-tabular-time-series-a-multi-stage-framework-for-inventory-recovery-forecasting-9afa7a13fdaa?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/xgboost-for-tabular-time-series-a-multi-stage-framework-for-inventory-recovery-forecasting-9afa7a13fdaa?source=rss----98111c9905da---4"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 CatBoost Interview Questions and Answers (Part 2 of 2)]]></title>
+        <id>https://pub.towardsai.net/top-20-catboost-interview-questions-and-answers-part-2-of-2-372cfecbc4e5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/top-20-catboost-interview-questions-and-answers-part-2-of-2-372cfecbc4e5?source=rss----98111c9905da---4"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From a Single File to an MCP Server: Six Rewrites of My Own Harness]]></title>
+        <id>https://pub.towardsai.net/from-a-single-file-to-an-mcp-server-six-rewrites-of-my-own-harness-74b4d67b5373?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/from-a-single-file-to-an-mcp-server-six-rewrites-of-my-own-harness-74b4d67b5373?source=rss----98111c9905da---4"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI WebRTC Audio Session, now with document context]]></title>
+        <id>https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
@@ -218,30 +260,79 @@
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Hello World Museum for 84 Languages — and the Round-Trip Test That Makes a Tiny Syntax Highlighter Trustworthy]]></title>
-        <id>https://dev.to/sendotltd/a-hello-world-museum-for-84-languages-and-the-round-trip-test-that-makes-a-tiny-syntax-20jj</id>
-        <link href="https://dev.to/sendotltd/a-hello-world-museum-for-84-languages-and-the-round-trip-test-that-makes-a-tiny-syntax-20jj"/>
+        <title type="html"><![CDATA[I Built an Open-Source JavaScript Data Grid Because Tables Never Stay Simple]]></title>
+        <id>https://dev.to/vitalii_shevchuk_de4862c7/i-built-an-open-source-javascript-data-grid-because-tables-never-stay-simple-4bgd</id>
+        <link href="https://dev.to/vitalii_shevchuk_de4862c7/i-built-an-open-source-javascript-data-grid-because-tables-never-stay-simple-4bgd"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best 12 Places to Buy Verified Facebook Manager ...]]></title>
-        <id>https://dev.to/topsmmonline7454/best-12-places-to-buy-verified-facebook-manager--242j</id>
-        <link href="https://dev.to/topsmmonline7454/best-12-places-to-buy-verified-facebook-manager--242j"/>
+        <title type="html"><![CDATA[The Catch and Release Pattern: Handling High-Volume Webhooks in Node.js]]></title>
+        <id>https://dev.to/matt_rose_9d0fe88d3533a4f/the-catch-and-release-pattern-handling-high-volume-webhooks-in-nodejs-17d2</id>
+        <link href="https://dev.to/matt_rose_9d0fe88d3533a4f/the-catch-and-release-pattern-handling-high-volume-webhooks-in-nodejs-17d2"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best JavaScript Slider Library? Introducing Pagiflow: A Zero-Dependency, High-Performance Carousel]]></title>
-        <id>https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch</id>
-        <link href="https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch"/>
+        <title type="html"><![CDATA[TypeScript Discriminated Unions: The Pattern That Made My Error Handling Click]]></title>
+        <id>https://dev.to/kaithorne/typescript-discriminated-unions-the-pattern-that-made-my-error-handling-click-2550</id>
+        <link href="https://dev.to/kaithorne/typescript-discriminated-unions-the-pattern-that-made-my-error-handling-click-2550"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Convert Excel Files to CSV and JSON Programmatically]]></title>
-        <id>https://dev.to/lb1192176991lab/how-to-convert-excel-files-to-csv-and-json-programmatically-4l4f</id>
-        <link href="https://dev.to/lb1192176991lab/how-to-convert-excel-files-to-csv-and-json-programmatically-4l4f"/>
+        <title type="html"><![CDATA[No Suggest - distraction-free YouTube client]]></title>
+        <id>https://dev.to/vj_2_108/no-suggest-distraction-free-youtube-client-9p7</id>
+        <link href="https://dev.to/vj_2_108/no-suggest-distraction-free-youtube-client-9p7"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run a script every day at a set time with Apps Script]]></title>
+        <id>https://dev.to/bulldo_gs/run-a-script-every-day-at-a-set-time-with-apps-script-3kp9</id>
+        <link href="https://dev.to/bulldo_gs/run-a-script-every-day-at-a-set-time-with-apps-script-3kp9"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convert getValues for loops to map and filter]]></title>
+        <id>https://dev.to/bulldo_gs/convert-getvalues-for-loops-to-map-and-filter-1eln</id>
+        <link href="https://dev.to/bulldo_gs/convert-getvalues-for-loops-to-map-and-filter-1eln"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch an old script from Rhino to the V8 runtime]]></title>
+        <id>https://dev.to/bulldo_gs/switch-an-old-script-from-rhino-to-the-v8-runtime-4oej</id>
+        <link href="https://dev.to/bulldo_gs/switch-an-old-script-from-rhino-to-the-v8-runtime-4oej"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSR, CSR, SSG, ISR — I Was Confused Too. Here's What Actually Matters.]]></title>
+        <id>https://dev.to/alaa-samy/ssr-csr-ssg-isr-i-was-confused-too-heres-what-actually-matters-305f</id>
+        <link href="https://dev.to/alaa-samy/ssr-csr-ssg-isr-i-was-confused-too-heres-what-actually-matters-305f"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PeerJS alternatives in 2026- free TURN, auto-reconnect, and which WebRTC library to actually pick.]]></title>
+        <id>https://dev.to/alakkadshaw/peerjs-alternatives-in-2026-free-turn-auto-reconnect-and-which-webrtc-library-to-actually-pick-14ad</id>
+        <link href="https://dev.to/alakkadshaw/peerjs-alternatives-in-2026-free-turn-auto-reconnect-and-which-webrtc-library-to-actually-pick-14ad"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I stopped pasting into online Encode / Decode tools]]></title>
+        <id>https://dev.to/crypto_plato_26/why-i-stopped-pasting-into-online-encode-decode-tools-3bfd</id>
+        <link href="https://dev.to/crypto_plato_26/why-i-stopped-pasting-into-online-encode-decode-tools-3bfd"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <published>2026-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML-First Websites Are Quietly Winning Again in 2026]]></title>
+        <id>https://dev.to/maxmendes91/html-first-websites-are-quietly-winning-again-in-2026-4gg0</id>
+        <link href="https://dev.to/maxmendes91/html-first-websites-are-quietly-winning-again-in-2026-4gg0"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
@@ -254,115 +345,24 @@
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML-First Websites Are Quietly Winning Again in 2026]]></title>
-        <id>https://dev.to/maxmendes91/html-first-websites-are-quietly-winning-again-in-2026-4gg0</id>
-        <link href="https://dev.to/maxmendes91/html-first-websites-are-quietly-winning-again-in-2026-4gg0"/>
+        <title type="html"><![CDATA[How to Convert Excel Files to CSV and JSON Programmatically]]></title>
+        <id>https://dev.to/lb1192176991lab/how-to-convert-excel-files-to-csv-and-json-programmatically-4l4f</id>
+        <link href="https://dev.to/lb1192176991lab/how-to-convert-excel-files-to-csv-and-json-programmatically-4l4f"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I stopped pasting into online Encode / Decode tools]]></title>
-        <id>https://dev.to/crypto_plato_26/why-i-stopped-pasting-into-online-encode-decode-tools-3bfd</id>
-        <link href="https://dev.to/crypto_plato_26/why-i-stopped-pasting-into-online-encode-decode-tools-3bfd"/>
+        <title type="html"><![CDATA[The Best JavaScript Slider Library? Introducing Pagiflow: A Zero-Dependency, High-Performance Carousel]]></title>
+        <id>https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch</id>
+        <link href="https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PeerJS alternatives in 2026- free TURN, auto-reconnect, and which WebRTC library to actually pick.]]></title>
-        <id>https://dev.to/alakkadshaw/peerjs-alternatives-in-2026-free-turn-auto-reconnect-and-which-webrtc-library-to-actually-pick-14ad</id>
-        <link href="https://dev.to/alakkadshaw/peerjs-alternatives-in-2026-free-turn-auto-reconnect-and-which-webrtc-library-to-actually-pick-14ad"/>
+        <title type="html"><![CDATA[Best 12 Places to Buy Verified Facebook Manager ...]]></title>
+        <id>https://dev.to/topsmmonline7454/best-12-places-to-buy-verified-facebook-manager--242j</id>
+        <link href="https://dev.to/topsmmonline7454/best-12-places-to-buy-verified-facebook-manager--242j"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSR, CSR, SSG, ISR — I Was Confused Too. Here's What Actually Matters.]]></title>
-        <id>https://dev.to/alaa-samy/ssr-csr-ssg-isr-i-was-confused-too-heres-what-actually-matters-305f</id>
-        <link href="https://dev.to/alaa-samy/ssr-csr-ssg-isr-i-was-confused-too-heres-what-actually-matters-305f"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This portable light is great for way more than camping]]></title>
-        <id>https://www.theverge.com/tech/942932/portable-light-camping-work-travel</id>
-        <link href="https://www.theverge.com/tech/942932/portable-light-camping-work-travel"/>
-        <updated>2026-06-11T16:00:00.000Z</updated>
-        <published>2026-06-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features]]></title>
-        <id>https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign</id>
-        <link href="https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign"/>
-        <updated>2026-06-11T16:00:00.000Z</updated>
-        <published>2026-06-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo introduces $30-a-month premium tier for riders who want faster pickups]]></title>
-        <id>https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back</id>
-        <link href="https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back"/>
-        <updated>2026-06-11T16:00:00.000Z</updated>
-        <published>2026-06-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A warrantless wiretap law is about to expire — but surveillance networks aren’t actually ‘going dark’]]></title>
-        <id>https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse</id>
-        <link href="https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse"/>
-        <updated>2026-06-11T16:00:00.000Z</updated>
-        <published>2026-06-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here are the price-matching policies for Best Buy, GameStop, and others]]></title>
-        <id>https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft</id>
-        <link href="https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft"/>
-        <updated>2026-06-11T16:00:00.000Z</updated>
-        <published>2026-06-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon&#8217;s data centers used 2.5 billion gallons of water last year]]></title>
-        <id>https://www.theverge.com/tech/948534/amazon-data-centers-water-use</id>
-        <link href="https://www.theverge.com/tech/948534/amazon-data-centers-water-use"/>
-        <updated>2026-06-11T16:00:00.000Z</updated>
-        <published>2026-06-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blink’s six-piece outdoor camera kit is a great deal under $200]]></title>
-        <id>https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale"/>
-        <updated>2026-06-11T16:00:00.000Z</updated>
-        <published>2026-06-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech’s awesome MX Master 3S mouse drops to under $100]]></title>
-        <id>https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal</id>
-        <link href="https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal"/>
-        <updated>2026-06-11T16:00:00.000Z</updated>
-        <published>2026-06-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siri won’t be your AI girlfriend]]></title>
-        <id>https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend</id>
-        <link href="https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend"/>
-        <updated>2026-06-11T16:00:00.000Z</updated>
-        <published>2026-06-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A White Supremacist Youth Group Helped Orchestrate the Belfast Riots]]></title>
-        <id>https://www.wired.com/story/a-white-supremacist-youth-group-helped-orchestrate-the-belfast-riots/</id>
-        <link href="https://www.wired.com/story/a-white-supremacist-youth-group-helped-orchestrate-the-belfast-riots/"/>
-        <updated>2026-06-11T16:00:00.000Z</updated>
-        <published>2026-06-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s Camera Chief Thinks AI Can Give You Superpowers]]></title>
-        <id>https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/</id>
-        <link href="https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/"/>
-        <updated>2026-06-11T16:00:00.000Z</updated>
-        <published>2026-06-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet]]></title>
-        <id>https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/</id>
-        <link href="https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/"/>
-        <updated>2026-06-11T16:00:00.000Z</updated>
-        <published>2026-06-11T16:00:00.000Z</published>
     </entry>
 </feed>
