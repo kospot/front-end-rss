@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-13T22:00:57.249Z</updated>
+    <updated>2026-06-14T00:00:52.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,16 +36,51 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This too shall pass]]></title>
-        <id>https://en.wikipedia.org/wiki/This_too_shall_pass</id>
-        <link href="https://en.wikipedia.org/wiki/This_too_shall_pass"/>
+        <title type="html"><![CDATA[Immutable Collections for JavaScript]]></title>
+        <id>https://immutable-js.com/</id>
+        <link href="https://immutable-js.com/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Made an online 3D Tarot reading]]></title>
-        <id>https://tarots.world</id>
-        <link href="https://tarots.world"/>
+        <title type="html"><![CDATA[Boot making and mending including repairing, lasting and finishing (1898)]]></title>
+        <id>https://gutenberg.org/cache/epub/78854/pg78854-images.html</id>
+        <link href="https://gutenberg.org/cache/epub/78854/pg78854-images.html"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you can't get a job today, it's your fault]]></title>
+        <id>https://auren.substack.com/p/if-you-cant-get-a-job-today-its-your</id>
+        <link href="https://auren.substack.com/p/if-you-cant-get-a-job-today-its-your"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real hardware]]></title>
+        <id>https://www.phoronix.com/news/ReactOS-Running-Half-Life</id>
+        <link href="https://www.phoronix.com/news/ReactOS-Running-Half-Life"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU]]></title>
+        <id>https://github.com/ayushh0110/ScreenMind</id>
+        <link href="https://github.com/ayushh0110/ScreenMind"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Every Productivity App Trades Away [video]]]></title>
+        <id>https://www.youtube.com/watch?v=OuEKdD_1F8s</id>
+        <link href="https://www.youtube.com/watch?v=OuEKdD_1F8s"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['The traveler' book review: An enlightening voyage]]></title>
+        <id>https://www.wsj.com/arts-culture/books/the-traveler-review-an-enlightening-voyage-e9754ecb</id>
+        <link href="https://www.wsj.com/arts-culture/books/the-traveler-review-an-enlightening-voyage-e9754ecb"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -57,30 +92,23 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your LLM Needs a Map!]]></title>
-        <id>https://pub.towardsai.net/your-llm-needs-a-map-f145583abf61?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-llm-needs-a-map-f145583abf61?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Made an online 3D Tarot reading]]></title>
+        <id>https://tarots.world</id>
+        <link href="https://tarots.world"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Gemini Live voice app with React, FastAPI and your own WebSocket protocol]]></title>
-        <id>https://pub.towardsai.net/building-a-gemini-live-voice-app-with-react-fastapi-and-your-own-websocket-protocol-9752bed95182?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-a-gemini-live-voice-app-with-react-fastapi-and-your-own-websocket-protocol-9752bed95182?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[This too shall pass]]></title>
+        <id>https://en.wikipedia.org/wiki/This_too_shall_pass</id>
+        <link href="https://en.wikipedia.org/wiki/This_too_shall_pass"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Wrote a $1 Billion Check to Google Four Days After Settling a $250 Million AI Lawsuit]]></title>
-        <id>https://pub.towardsai.net/apple-wrote-a-1-billion-check-to-google-four-days-after-settling-a-250-million-ai-lawsuit-2d6f77216602?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/apple-wrote-a-1-billion-check-to-google-four-days-after-settling-a-250-million-ai-lawsuit-2d6f77216602?source=rss----98111c9905da---4"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APDTFlow v0.4.0: From a Critical Bug to Forecasting “When”]]></title>
-        <id>https://pub.towardsai.net/apdtflow-v0-4-0-from-a-critical-bug-to-forecasting-when-37e912813a1d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/apdtflow-v0-4-0-from-a-critical-bug-to-forecasting-when-37e912813a1d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How to Make AI Worthy of Clinician Trust: A Framework That Actually Works]]></title>
+        <id>https://pub.towardsai.net/how-to-make-ai-worthy-of-clinician-trust-a-framework-that-actually-works-cb6d3ccd02db?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-make-ai-worthy-of-clinician-trust-a-framework-that-actually-works-cb6d3ccd02db?source=rss----98111c9905da---4"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -92,44 +120,72 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built an SEO-first internet radio site — and learned why `curl` can't validate audio streams]]></title>
-        <id>https://dev.to/niks17/i-built-an-seo-first-internet-radio-site-and-learned-why-curl-cant-validate-audio-streams-2fpa</id>
-        <link href="https://dev.to/niks17/i-built-an-seo-first-internet-radio-site-and-learned-why-curl-cant-validate-audio-streams-2fpa"/>
+        <title type="html"><![CDATA[APDTFlow v0.4.0: From a Critical Bug to Forecasting “When”]]></title>
+        <id>https://pub.towardsai.net/apdtflow-v0-4-0-from-a-critical-bug-to-forecasting-when-37e912813a1d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/apdtflow-v0-4-0-from-a-critical-bug-to-forecasting-when-37e912813a1d?source=rss----98111c9905da---4"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to type third-party API responses in TypeScript (without lying to your compiler)]]></title>
-        <id>https://dev.to/hugonaili/how-to-type-third-party-api-responses-in-typescript-without-lying-to-your-compiler-4cdn</id>
-        <link href="https://dev.to/hugonaili/how-to-type-third-party-api-responses-in-typescript-without-lying-to-your-compiler-4cdn"/>
+        <title type="html"><![CDATA[Apple Wrote a $1 Billion Check to Google Four Days After Settling a $250 Million AI Lawsuit]]></title>
+        <id>https://pub.towardsai.net/apple-wrote-a-1-billion-check-to-google-four-days-after-settling-a-250-million-ai-lawsuit-2d6f77216602?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/apple-wrote-a-1-billion-check-to-google-four-days-after-settling-a-250-million-ai-lawsuit-2d6f77216602?source=rss----98111c9905da---4"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSONata Explained: Query and Transform JSON Without the Boilerplate]]></title>
-        <id>https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8</id>
-        <link href="https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8"/>
+        <title type="html"><![CDATA[Building a Gemini Live voice app with React, FastAPI and your own WebSocket protocol]]></title>
+        <id>https://pub.towardsai.net/building-a-gemini-live-voice-app-with-react-fastapi-and-your-own-websocket-protocol-9752bed95182?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-a-gemini-live-voice-app-with-react-fastapi-and-your-own-websocket-protocol-9752bed95182?source=rss----98111c9905da---4"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Over-Engineering React State: When to Choose Zustand Over Redux Toolkit]]></title>
-        <id>https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85</id>
-        <link href="https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85"/>
+        <title type="html"><![CDATA[Your LLM Needs a Map!]]></title>
+        <id>https://pub.towardsai.net/your-llm-needs-a-map-f145583abf61?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-llm-needs-a-map-f145583abf61?source=rss----98111c9905da---4"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A11y Testing: The Missing Piece in Your QA Workflow]]></title>
-        <id>https://dev.to/bhargavigajula/a11y-testing-the-missing-piece-in-your-qa-workflow-ljd</id>
-        <link href="https://dev.to/bhargavigajula/a11y-testing-the-missing-piece-in-your-qa-workflow-ljd"/>
+        <title type="html"><![CDATA[A Scatter-Plot Explorer for World Statistics — Log Scales and Hand-Rolled Pearson Correlation]]></title>
+        <id>https://dev.to/sendotltd/a-scatter-plot-explorer-for-world-statistics-log-scales-and-hand-rolled-pearson-correlation-2l5m</id>
+        <link href="https://dev.to/sendotltd/a-scatter-plot-explorer-for-world-statistics-log-scales-and-hand-rolled-pearson-correlation-2l5m"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Typescript: Funções]]></title>
-        <id>https://dev.to/yuripeixinho/typescript-funcoes-3l00</id>
-        <link href="https://dev.to/yuripeixinho/typescript-funcoes-3l00"/>
+        <title type="html"><![CDATA[I Built a GitHub Repo Health Scorer with the Free Public API]]></title>
+        <id>https://dev.to/dev48v/i-built-a-github-repo-health-scorer-with-the-free-public-api-knb</id>
+        <link href="https://dev.to/dev48v/i-built-a-github-repo-health-scorer-with-the-free-public-api-knb"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Notion-Style Calendar Is Just One CSS Grid]]></title>
+        <id>https://dev.to/dev48v/a-notion-style-calendar-is-just-one-css-grid-3ddi</id>
+        <link href="https://dev.to/dev48v/a-notion-style-calendar-is-just-one-css-grid-3ddi"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built 2048 in One Function and a 4 4 Array]]></title>
+        <id>https://dev.to/dev48v/i-built-2048-in-one-function-and-a-4x4-array-29o0</id>
+        <link href="https://dev.to/dev48v/i-built-2048-in-one-function-and-a-4x4-array-29o0"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Module Resolution in 2026: bundler, node16, and Why Your Imports Break]]></title>
+        <id>https://dev.to/gabrielanhaia/module-resolution-in-2026-bundler-node16-and-why-your-imports-break-1efn</id>
+        <link href="https://dev.to/gabrielanhaia/module-resolution-in-2026-bundler-node16-and-why-your-imports-break-1efn"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Memory Leaks in Their Tracks: React useEffect Cleanup Explained]]></title>
+        <id>https://dev.to/bhargavigajula/stop-memory-leaks-in-their-tracks-react-useeffect-cleanup-explained-47a5</id>
+        <link href="https://dev.to/bhargavigajula/stop-memory-leaks-in-their-tracks-react-useeffect-cleanup-explained-47a5"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -141,9 +197,44 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Memory Leaks in Their Tracks: React useEffect Cleanup Explained]]></title>
-        <id>https://dev.to/bhargavigajula/stop-memory-leaks-in-their-tracks-react-useeffect-cleanup-explained-47a5</id>
-        <link href="https://dev.to/bhargavigajula/stop-memory-leaks-in-their-tracks-react-useeffect-cleanup-explained-47a5"/>
+        <title type="html"><![CDATA[Typescript: Funções]]></title>
+        <id>https://dev.to/yuripeixinho/typescript-funcoes-3l00</id>
+        <link href="https://dev.to/yuripeixinho/typescript-funcoes-3l00"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A11y Testing: The Missing Piece in Your QA Workflow]]></title>
+        <id>https://dev.to/bhargavigajula/a11y-testing-the-missing-piece-in-your-qa-workflow-ljd</id>
+        <link href="https://dev.to/bhargavigajula/a11y-testing-the-missing-piece-in-your-qa-workflow-ljd"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Over-Engineering React State: When to Choose Zustand Over Redux Toolkit]]></title>
+        <id>https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85</id>
+        <link href="https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSONata Explained: Query and Transform JSON Without the Boilerplate]]></title>
+        <id>https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8</id>
+        <link href="https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to type third-party API responses in TypeScript (without lying to your compiler)]]></title>
+        <id>https://dev.to/hugonaili/how-to-type-third-party-api-responses-in-typescript-without-lying-to-your-compiler-4cdn</id>
+        <link href="https://dev.to/hugonaili/how-to-type-third-party-api-responses-in-typescript-without-lying-to-your-compiler-4cdn"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built an SEO-first internet radio site — and learned why `curl` can't validate audio streams]]></title>
+        <id>https://dev.to/niks17/i-built-an-seo-first-internet-radio-site-and-learned-why-curl-cant-validate-audio-streams-2fpa</id>
+        <link href="https://dev.to/niks17/i-built-an-seo-first-internet-radio-site-and-learned-why-curl-cant-validate-audio-streams-2fpa"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -211,156 +302,65 @@
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cleve Moler (Developer of Matlab) Dies at 86]]></title>
-        <id>https://www.nytimes.com/2026/06/11/science/cleve-moler-dead.html</id>
-        <link href="https://www.nytimes.com/2026/06/11/science/cleve-moler-dead.html"/>
+        <title type="html"><![CDATA[Show HN: I made a Unity Audio Manager that saves me 10 hours every project]]></title>
+        <id>https://unityaudiomanager.com</id>
+        <link href="https://unityaudiomanager.com"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Resetting the Immune System]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c4gy2d9y5z3o</id>
-        <link href="https://www.bbc.co.uk/news/articles/c4gy2d9y5z3o"/>
+        <title type="html"><![CDATA[Getting World Cup Updates in Slack]]></title>
+        <id>https://embedworkflow.com/blog/getting-world-cup-updates-in-slack/</id>
+        <link href="https://embedworkflow.com/blog/getting-world-cup-updates-in-slack/"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jetterix Pressure Nozzle Review 2026 – Worth Buying or Just Hype?]]></title>
-        <id>https://finance.yahoo.com/sectors/technology/articles/jetterix-pressure-nozzle-urgent-report-173900124.html</id>
-        <link href="https://finance.yahoo.com/sectors/technology/articles/jetterix-pressure-nozzle-urgent-report-173900124.html"/>
+        <title type="html"><![CDATA[Google proposes Open Knowledge Format based on Markdown]]></title>
+        <id>https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/</id>
+        <link href="https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yoti does not report GrapheneOS users to the authorities]]></title>
-        <id>https://www.yoti.com/blog/yoti-does-not-report-grapheneos-users-to-the-authorities/</id>
-        <link href="https://www.yoti.com/blog/yoti-does-not-report-grapheneos-users-to-the-authorities/"/>
+        <title type="html"><![CDATA[ForecastOps (Like LLMops, MLOps)]]></title>
+        <id>https://github.com/Parisi-Labs/forecastops</id>
+        <link href="https://github.com/Parisi-Labs/forecastops"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Estimating No-Cot Task-Completion Time Horizons of Frontier AI Models]]></title>
-        <id>https://www.lesswrong.com/posts/SieLowPgNgRSPGhFw/estimating-no-cot-task-completion-time-horizons-of-frontier</id>
-        <link href="https://www.lesswrong.com/posts/SieLowPgNgRSPGhFw/estimating-no-cot-task-completion-time-horizons-of-frontier"/>
+        <title type="html"><![CDATA[Tobias Hieta: A Brief Overview of the LLVM Architecture [video]]]></title>
+        <id>https://www.youtube.com/watch?v=g96voy6M6xo</id>
+        <link href="https://www.youtube.com/watch?v=g96voy6M6xo"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Norway to deploy largest fleet of 'flying' electric ferries]]></title>
-        <id>https://candela.com/newsroom/norway-to-deploy-worlds-largest-fleet-of-flying-electric-ferries/</id>
-        <link href="https://candela.com/newsroom/norway-to-deploy-worlds-largest-fleet-of-flying-electric-ferries/"/>
+        <title type="html"><![CDATA[Zero Trust for Python Security: A Practical Checklist]]></title>
+        <id>https://medium.com/@maikelmardjan/zero-trust-for-python-security-a-practical-checklist-fab2f50c12c0</id>
+        <link href="https://medium.com/@maikelmardjan/zero-trust-for-python-security-a-practical-checklist-fab2f50c12c0"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Map Clustering Is Not My Favorite]]></title>
-        <id>https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html</id>
-        <link href="https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html"/>
+        <title type="html"><![CDATA[Zuckerberg says Meta made 'mistakes' in AI workforce shift]]></title>
+        <id>https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/</id>
+        <link href="https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blog of http://archive.today/]]></title>
-        <id>https://lj.rossia.org/users/archive_today/</id>
-        <link href="https://lj.rossia.org/users/archive_today/"/>
+        <title type="html"><![CDATA[In Re Meta Android Privacy Litigation [pdf]]]></title>
+        <id>https://dn711508.ca.archive.org/0/items/gov.uscourts.cand.450524/gov.uscourts.cand.450524.120.0.pdf</id>
+        <link href="https://dn711508.ca.archive.org/0/items/gov.uscourts.cand.450524/gov.uscourts.cand.450524.120.0.pdf"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta's months-old AI unit is a soul-crushing gulag]]></title>
-        <id>https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/</id>
-        <link href="https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi projects I'm self-hosting this year]]></title>
-        <id>https://www.xda-developers.com/raspberry-pi-projects-self-hosting-this-year-instead-of-paying-monthly/</id>
-        <link href="https://www.xda-developers.com/raspberry-pi-projects-self-hosting-this-year-instead-of-paying-monthly/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Open-source Git-like Markdown docs for humans and agents]]></title>
-        <id>https://www.datacompany.dev</id>
-        <link href="https://www.datacompany.dev"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Fable just deleted a .git folder of mine, what's next?]]></title>
-        <id>https://news.ycombinator.com/item?id=48509874</id>
-        <link href="https://news.ycombinator.com/item?id=48509874"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero Install: The future of FOSS Python static application security testing]]></title>
-        <id>https://nocomplexity.substack.com/p/zero-install-the-future-of-foss-python</id>
-        <link href="https://nocomplexity.substack.com/p/zero-install-the-future-of-foss-python"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doomsday Simulator: Fable physically realistic WebGPU planetary collision SIM]]></title>
-        <id>https://doomsdaysimulator.com</id>
-        <link href="https://doomsdaysimulator.com"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Atlas – local-first memory that re-evaluates beliefs when facts change]]></title>
-        <id>https://github.com/RichSchefren/atlas</id>
-        <link href="https://github.com/RichSchefren/atlas"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Interview with Intel's Kira Boyko: Xeon 6's Product Director]]></title>
-        <id>https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko</id>
-        <link href="https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I reviewed Wordle in 2026]]></title>
-        <id>https://dles.gg/reviews/wordle</id>
-        <link href="https://dles.gg/reviews/wordle"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DigitalOcean Ending Student Credit Promotion]]></title>
-        <id>https://news.ycombinator.com/item?id=48509700</id>
-        <link href="https://news.ycombinator.com/item?id=48509700"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Agent Joe – a Rust only coding agent with no shell access]]></title>
-        <id>https://github.com/Kapperchino/agent-joe</id>
-        <link href="https://github.com/Kapperchino/agent-joe"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Do Engineers Mean When We Say "Taste"?]]></title>
-        <id>https://davegriffith.substack.com/p/what-do-engineers-mean-when-we-say</id>
-        <link href="https://davegriffith.substack.com/p/what-do-engineers-mean-when-we-say"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Tomatoes Are the Most Expensive They've Been in Four Decades [audio] [video]]]></title>
-        <id>https://www.youtube.com/watch?v=pUrIlUAo0kM</id>
-        <link href="https://www.youtube.com/watch?v=pUrIlUAo0kM"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pink Cosmo Blueberries]]></title>
-        <id>https://www.baldorfood.com/product/blueberries/be3p-pink-cosmo-blueberries</id>
-        <link href="https://www.baldorfood.com/product/blueberries/be3p-pink-cosmo-blueberries"/>
+        <title type="html"><![CDATA[RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8]]></title>
+        <id>https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/</id>
+        <link href="https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
