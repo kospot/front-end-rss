@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-14T10:02:22.484Z</updated>
+    <updated>2026-06-14T13:02:45.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,9 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X-Men ’97 has what Master of the Universe is missing]]></title>
-        <id>https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel</id>
-        <link href="https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel"/>
+        <title type="html"><![CDATA[Solid-state batteries still aren’t ready, but gels are]]></title>
+        <id>https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state</id>
+        <link href="https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -36,9 +36,16 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals]]></title>
-        <id>https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/</id>
-        <link href="https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/"/>
+        <title type="html"><![CDATA[X-Men ’97 has what Master of the Universe is missing]]></title>
+        <id>https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel</id>
+        <link href="https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suunto Spark Review: The Perfect Pair for Runs and Rides]]></title>
+        <id>https://www.wired.com/review/suunto-spark/</id>
+        <link href="https://www.wired.com/review/suunto-spark/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -46,6 +53,13 @@
         <title type="html"><![CDATA[7 Best Coffee Makers (2026): Ratio, Fellow, Moccamaster]]></title>
         <id>https://www.wired.com/gallery/best-coffee-makers/</id>
         <link href="https://www.wired.com/gallery/best-coffee-makers/"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals]]></title>
+        <id>https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/</id>
+        <link href="https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -64,254 +78,58 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fuzzy Sets, Fuzzy Logic, Fuzzy Inference]]></title>
-        <id>https://blog.sparsh.dev/fuzzy-sets-fuzzy-logic-fuzzy-inference/</id>
-        <link href="https://blog.sparsh.dev/fuzzy-sets-fuzzy-logic-fuzzy-inference/"/>
+        <title type="html"><![CDATA[A text-first social network – No Images, No Videos]]></title>
+        <id>https://trendter.com/</id>
+        <link href="https://trendter.com/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: How you reduce token usage when using Cline/Continue in VSCode?]]></title>
-        <id>https://news.ycombinator.com/item?id=48525711</id>
-        <link href="https://news.ycombinator.com/item?id=48525711"/>
+        <title type="html"><![CDATA[Shoehorning Flying Toasters into a ESP32-S3]]></title>
+        <id>https://taoofmac.com/space/blog/2026/06/14/1400</id>
+        <link href="https://taoofmac.com/space/blog/2026/06/14/1400"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Oidc-SSH-ca – Issues short-lived SSH certs for GitHub Actions via OIDC]]></title>
-        <id>https://github.com/atsuoishimoto/oidc-ssh-ca</id>
-        <link href="https://github.com/atsuoishimoto/oidc-ssh-ca"/>
+        <title type="html"><![CDATA[Brief Notes on Computer Word and Byte Sizes]]></title>
+        <id>https://www.cs.columbia.edu/~smb/blog/2023-03/2023-03-07.html</id>
+        <link href="https://www.cs.columbia.edu/~smb/blog/2023-03/2023-03-07.html"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Richard Halsey Best – the man who sank two Japanese aircraft carriers in one day]]></title>
-        <id>https://en.wikipedia.org/wiki/Richard_Halsey_Best</id>
-        <link href="https://en.wikipedia.org/wiki/Richard_Halsey_Best"/>
+        <title type="html"><![CDATA[Why Rust does not need OOP]]></title>
+        <id>https://belderbos.dev/blog/why-rust-does-not-need-oop/</id>
+        <link href="https://belderbos.dev/blog/why-rust-does-not-need-oop/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[America's grid is reeling. GM offers itself as a distributed utility in disguise]]></title>
-        <id>https://fortune.com/2026/06/09/general-motors-utility-in-disguise-sodium-ion-batteries/</id>
-        <link href="https://fortune.com/2026/06/09/general-motors-utility-in-disguise-sodium-ion-batteries/"/>
+        <title type="html"><![CDATA[The Birth and Death of JavaScript (2014)]]></title>
+        <id>https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript</id>
+        <link href="https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit]]></title>
-        <id>https://slopscan.ava.pet/</id>
-        <link href="https://slopscan.ava.pet/"/>
+        <title type="html"><![CDATA[China's universities cut 12,000 'obsolete' degrees]]></title>
+        <id>https://www.scmp.com/economy/china-economy/article/3356913/chinas-universities-cut-12000-obsolete-degrees-amid-race-embrace-ai-era</id>
+        <link href="https://www.scmp.com/economy/china-economy/article/3356913/chinas-universities-cut-12000-obsolete-degrees-amid-race-embrace-ai-era"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists Tracked Down the Echo of Creatio]]></title>
-        <id>https://www.youtube.com/watch?v=CVl5XkAeN2I</id>
-        <link href="https://www.youtube.com/watch?v=CVl5XkAeN2I"/>
+        <title type="html"><![CDATA[Elon Musk's role was 'instrumental' in the Belfast riots, researchers say]]></title>
+        <id>https://www.lemonde.fr/en/international/article/2026/06/13/musk-s-role-was-instrumental-in-the-belfast-riots-according-to-researchers_6754420_4.html</id>
+        <link href="https://www.lemonde.fr/en/international/article/2026/06/13/musk-s-role-was-instrumental-in-the-belfast-riots-according-to-researchers_6754420_4.html"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Questions to ask at the end of a technical interview (2017)]]></title>
-        <id>https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview</id>
-        <link href="https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Switcheroo-control-rs, a Linux hybrid graphics manager in Rust]]></title>
-        <id>https://github.com/LuMarans30/switcheroo-control-rs</id>
-        <link href="https://github.com/LuMarans30/switcheroo-control-rs"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ExpensePal - AI expense tracker & budget planner]]></title>
-        <id>https://play.google.com/store/apps/details?id=com.expenseiq.app&amp;hl=en_US</id>
-        <link href="https://play.google.com/store/apps/details?id=com.expenseiq.app&amp;hl=en_US"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brew Browser: A Native macOS GUI for Homebrew]]></title>
-        <id>https://github.com/msitarzewski/brew-browser</id>
-        <link href="https://github.com/msitarzewski/brew-browser"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surface Data vs. Deep Data [video]]]></title>
-        <id>https://www.youtube.com/watch?v=vk6lgHjjGp8</id>
-        <link href="https://www.youtube.com/watch?v=vk6lgHjjGp8"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Missing Infrastructure Between AI Agents and the EVM]]></title>
-        <id>https://blog.bridgexapi.io/the-missing-infrastructure-between-ai-agents-and-the-evm</id>
-        <link href="https://blog.bridgexapi.io/the-missing-infrastructure-between-ai-agents-and-the-evm"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fable: Two edges of one opinion, on a model switched off]]></title>
-        <id>https://rebraining.org/fable</id>
-        <link href="https://rebraining.org/fable"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess]]></title>
-        <id>https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/</id>
-        <link href="https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Destroy American Science]]></title>
-        <id>https://nasawatch.com/policy/lets-destroy-american-science/</id>
-        <link href="https://nasawatch.com/policy/lets-destroy-american-science/"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian families use AI to 'resurrect' loved ones killed in Ukraine]]></title>
-        <id>https://www.bbc.com/news/articles/cwy24v72n19o</id>
-        <link href="https://www.bbc.com/news/articles/cwy24v72n19o"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 things to know about the new sunscreen ingredient the FDA approved]]></title>
-        <id>https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol</id>
-        <link href="https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FDA OKs first new sunscreen ingredient in more than 25 years]]></title>
-        <id>https://apnews.com/article/sunscreen-fda-bemotrizinol-ingredient-uva-protection-9b9c7e04b418b3c9c1fbaa7ddabade25</id>
-        <link href="https://apnews.com/article/sunscreen-fda-bemotrizinol-ingredient-uva-protection-9b9c7e04b418b3c9c1fbaa7ddabade25"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This too shall pass]]></title>
-        <id>https://en.wikipedia.org/wiki/This_too_shall_pass</id>
-        <link href="https://en.wikipedia.org/wiki/This_too_shall_pass"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Made an online 3D Tarot reading]]></title>
-        <id>https://tarots.world</id>
-        <link href="https://tarots.world"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chatbot teddies for three‑year‑olds? Why AI toys are risky for kids]]></title>
-        <id>https://www.rnz.co.nz/life/wellbeing/chatbot-teddies-for-three-year-olds-why-ai-toys-are-risky-for-kids</id>
-        <link href="https://www.rnz.co.nz/life/wellbeing/chatbot-teddies-for-three-year-olds-why-ai-toys-are-risky-for-kids"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['The traveler' book review: An enlightening voyage]]></title>
-        <id>https://www.wsj.com/arts-culture/books/the-traveler-review-an-enlightening-voyage-e9754ecb</id>
-        <link href="https://www.wsj.com/arts-culture/books/the-traveler-review-an-enlightening-voyage-e9754ecb"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Every Productivity App Trades Away [video]]]></title>
-        <id>https://www.youtube.com/watch?v=OuEKdD_1F8s</id>
-        <link href="https://www.youtube.com/watch?v=OuEKdD_1F8s"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU]]></title>
-        <id>https://github.com/ayushh0110/ScreenMind</id>
-        <link href="https://github.com/ayushh0110/ScreenMind"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real hardware]]></title>
-        <id>https://www.phoronix.com/news/ReactOS-Running-Half-Life</id>
-        <link href="https://www.phoronix.com/news/ReactOS-Running-Half-Life"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you can't get a job today, it's your fault]]></title>
-        <id>https://auren.substack.com/p/if-you-cant-get-a-job-today-its-your</id>
-        <link href="https://auren.substack.com/p/if-you-cant-get-a-job-today-its-your"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boot making and mending including repairing, lasting and finishing (1898)]]></title>
-        <id>https://gutenberg.org/cache/epub/78854/pg78854-images.html</id>
-        <link href="https://gutenberg.org/cache/epub/78854/pg78854-images.html"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immutable Collections for JavaScript]]></title>
-        <id>https://immutable-js.com/</id>
-        <link href="https://immutable-js.com/"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How an astrophysicist uses Codex to help simulate black holes]]></title>
-        <id>https://openai.com/index/using-codex-to-simulate-black-holes/</id>
-        <link href="https://openai.com/index/using-codex-to-simulate-black-holes/"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Is Propping Up the World Economy by Importing Less Oil]]></title>
-        <id>https://www.wsj.com/business/energy-oil/china-is-propping-up-the-world-economy-by-importing-a-lot-less-oil-f12d7813</id>
-        <link href="https://www.wsj.com/business/energy-oil/china-is-propping-up-the-world-economy-by-importing-a-lot-less-oil-f12d7813"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't trust large context windows]]></title>
-        <id>https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows</id>
-        <link href="https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursed Knowledge]]></title>
-        <id>https://obscura.com/cursed-knowledge/</id>
-        <link href="https://obscura.com/cursed-knowledge/"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sygnet – Hash any document with SHA3-512 and declare your AI usage level]]></title>
-        <id>https://mysygnet.com</id>
-        <link href="https://mysygnet.com"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Network service termination for certain Sony Electronics products]]></title>
-        <id>https://www.sony.com/electronics/support/articles/00398725</id>
-        <link href="https://www.sony.com/electronics/support/articles/00398725"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upscaling Space Quest 3 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Zozc1xGuO7Q</id>
-        <link href="https://www.youtube.com/watch?v=Zozc1xGuO7Q"/>
+        <title type="html"><![CDATA[The Universe Is Made of Music [video]]]></title>
+        <id>https://www.youtube.com/watch?v=j06DGlbwM34</id>
+        <link href="https://www.youtube.com/watch?v=j06DGlbwM34"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -323,44 +141,226 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make AI Worthy of Clinician Trust: A Framework That Actually Works]]></title>
-        <id>https://pub.towardsai.net/how-to-make-ai-worthy-of-clinician-trust-a-framework-that-actually-works-cb6d3ccd02db?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-make-ai-worthy-of-clinician-trust-a-framework-that-actually-works-cb6d3ccd02db?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Upscaling Space Quest 3 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Zozc1xGuO7Q</id>
+        <link href="https://www.youtube.com/watch?v=Zozc1xGuO7Q"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Now Ships Four MCP Servers for Your Data Stack. Here’s Which One Actually Fits Your Job.]]></title>
-        <id>https://pub.towardsai.net/microsoft-now-ships-four-mcp-servers-for-your-data-stack-heres-which-one-actually-fits-your-job-bb54c6cfb07a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/microsoft-now-ships-four-mcp-servers-for-your-data-stack-heres-which-one-actually-fits-your-job-bb54c6cfb07a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Network service termination for certain Sony Electronics products]]></title>
+        <id>https://www.sony.com/electronics/support/articles/00398725</id>
+        <link href="https://www.sony.com/electronics/support/articles/00398725"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[APDTFlow v0.4.0: From a Critical Bug to Forecasting “When”]]></title>
-        <id>https://pub.towardsai.net/apdtflow-v0-4-0-from-a-critical-bug-to-forecasting-when-37e912813a1d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/apdtflow-v0-4-0-from-a-critical-bug-to-forecasting-when-37e912813a1d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Sygnet – Hash any document with SHA3-512 and declare your AI usage level]]></title>
+        <id>https://mysygnet.com</id>
+        <link href="https://mysygnet.com"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Wrote a $1 Billion Check to Google Four Days After Settling a $250 Million AI Lawsuit]]></title>
-        <id>https://pub.towardsai.net/apple-wrote-a-1-billion-check-to-google-four-days-after-settling-a-250-million-ai-lawsuit-2d6f77216602?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/apple-wrote-a-1-billion-check-to-google-four-days-after-settling-a-250-million-ai-lawsuit-2d6f77216602?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Cursed Knowledge]]></title>
+        <id>https://obscura.com/cursed-knowledge/</id>
+        <link href="https://obscura.com/cursed-knowledge/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Gemini Live voice app with React, FastAPI and your own WebSocket protocol]]></title>
-        <id>https://pub.towardsai.net/building-a-gemini-live-voice-app-with-react-fastapi-and-your-own-websocket-protocol-9752bed95182?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-a-gemini-live-voice-app-with-react-fastapi-and-your-own-websocket-protocol-9752bed95182?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Don't trust large context windows]]></title>
+        <id>https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows</id>
+        <link href="https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your LLM Needs a Map!]]></title>
-        <id>https://pub.towardsai.net/your-llm-needs-a-map-f145583abf61?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-llm-needs-a-map-f145583abf61?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[China Is Propping Up the World Economy by Importing Less Oil]]></title>
+        <id>https://www.wsj.com/business/energy-oil/china-is-propping-up-the-world-economy-by-importing-a-lot-less-oil-f12d7813</id>
+        <link href="https://www.wsj.com/business/energy-oil/china-is-propping-up-the-world-economy-by-importing-a-lot-less-oil-f12d7813"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an astrophysicist uses Codex to help simulate black holes]]></title>
+        <id>https://openai.com/index/using-codex-to-simulate-black-holes/</id>
+        <link href="https://openai.com/index/using-codex-to-simulate-black-holes/"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immutable Collections for JavaScript]]></title>
+        <id>https://immutable-js.com/</id>
+        <link href="https://immutable-js.com/"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boot making and mending including repairing, lasting and finishing (1898)]]></title>
+        <id>https://gutenberg.org/cache/epub/78854/pg78854-images.html</id>
+        <link href="https://gutenberg.org/cache/epub/78854/pg78854-images.html"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you can't get a job today, it's your fault]]></title>
+        <id>https://auren.substack.com/p/if-you-cant-get-a-job-today-its-your</id>
+        <link href="https://auren.substack.com/p/if-you-cant-get-a-job-today-its-your"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real hardware]]></title>
+        <id>https://www.phoronix.com/news/ReactOS-Running-Half-Life</id>
+        <link href="https://www.phoronix.com/news/ReactOS-Running-Half-Life"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU]]></title>
+        <id>https://github.com/ayushh0110/ScreenMind</id>
+        <link href="https://github.com/ayushh0110/ScreenMind"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Every Productivity App Trades Away [video]]]></title>
+        <id>https://www.youtube.com/watch?v=OuEKdD_1F8s</id>
+        <link href="https://www.youtube.com/watch?v=OuEKdD_1F8s"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['The traveler' book review: An enlightening voyage]]></title>
+        <id>https://www.wsj.com/arts-culture/books/the-traveler-review-an-enlightening-voyage-e9754ecb</id>
+        <link href="https://www.wsj.com/arts-culture/books/the-traveler-review-an-enlightening-voyage-e9754ecb"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chatbot teddies for three‑year‑olds? Why AI toys are risky for kids]]></title>
+        <id>https://www.rnz.co.nz/life/wellbeing/chatbot-teddies-for-three-year-olds-why-ai-toys-are-risky-for-kids</id>
+        <link href="https://www.rnz.co.nz/life/wellbeing/chatbot-teddies-for-three-year-olds-why-ai-toys-are-risky-for-kids"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Made an online 3D Tarot reading]]></title>
+        <id>https://tarots.world</id>
+        <link href="https://tarots.world"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This too shall pass]]></title>
+        <id>https://en.wikipedia.org/wiki/This_too_shall_pass</id>
+        <link href="https://en.wikipedia.org/wiki/This_too_shall_pass"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDA OKs first new sunscreen ingredient in more than 25 years]]></title>
+        <id>https://apnews.com/article/sunscreen-fda-bemotrizinol-ingredient-uva-protection-9b9c7e04b418b3c9c1fbaa7ddabade25</id>
+        <link href="https://apnews.com/article/sunscreen-fda-bemotrizinol-ingredient-uva-protection-9b9c7e04b418b3c9c1fbaa7ddabade25"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 things to know about the new sunscreen ingredient the FDA approved]]></title>
+        <id>https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol</id>
+        <link href="https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian families use AI to 'resurrect' loved ones killed in Ukraine]]></title>
+        <id>https://www.bbc.com/news/articles/cwy24v72n19o</id>
+        <link href="https://www.bbc.com/news/articles/cwy24v72n19o"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's Destroy American Science]]></title>
+        <id>https://nasawatch.com/policy/lets-destroy-american-science/</id>
+        <link href="https://nasawatch.com/policy/lets-destroy-american-science/"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess]]></title>
+        <id>https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/</id>
+        <link href="https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fable: Two edges of one opinion, on a model switched off]]></title>
+        <id>https://rebraining.org/fable</id>
+        <link href="https://rebraining.org/fable"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Missing Infrastructure Between AI Agents and the EVM]]></title>
+        <id>https://blog.bridgexapi.io/the-missing-infrastructure-between-ai-agents-and-the-evm</id>
+        <link href="https://blog.bridgexapi.io/the-missing-infrastructure-between-ai-agents-and-the-evm"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surface Data vs. Deep Data [video]]]></title>
+        <id>https://www.youtube.com/watch?v=vk6lgHjjGp8</id>
+        <link href="https://www.youtube.com/watch?v=vk6lgHjjGp8"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brew Browser: A Native macOS GUI for Homebrew]]></title>
+        <id>https://github.com/msitarzewski/brew-browser</id>
+        <link href="https://github.com/msitarzewski/brew-browser"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ExpensePal - AI expense tracker & budget planner]]></title>
+        <id>https://play.google.com/store/apps/details?id=com.expenseiq.app&amp;hl=en_US</id>
+        <link href="https://play.google.com/store/apps/details?id=com.expenseiq.app&amp;hl=en_US"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Switcheroo-control-rs, a Linux hybrid graphics manager in Rust]]></title>
+        <id>https://github.com/LuMarans30/switcheroo-control-rs</id>
+        <link href="https://github.com/LuMarans30/switcheroo-control-rs"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions to ask at the end of a technical interview (2017)]]></title>
+        <id>https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview</id>
+        <link href="https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists Tracked Down the Echo of Creatio]]></title>
+        <id>https://www.youtube.com/watch?v=CVl5XkAeN2I</id>
+        <link href="https://www.youtube.com/watch?v=CVl5XkAeN2I"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit]]></title>
+        <id>https://slopscan.ava.pet/</id>
+        <link href="https://slopscan.ava.pet/"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America's grid is reeling. GM offers itself as a distributed utility in disguise]]></title>
+        <id>https://fortune.com/2026/06/09/general-motors-utility-in-disguise-sodium-ion-batteries/</id>
+        <link href="https://fortune.com/2026/06/09/general-motors-utility-in-disguise-sodium-ion-batteries/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
