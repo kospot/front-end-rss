@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-14T00:00:52.987Z</updated>
+    <updated>2026-06-14T02:02:00.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,6 +29,13 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand]]></title>
+        <id>https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/</id>
+        <link href="https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[This thin under-pillow speaker helped me fall asleep without earbuds]]></title>
         <id>https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/</id>
         <link href="https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/"/>
@@ -36,58 +43,72 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Immutable Collections for JavaScript]]></title>
-        <id>https://immutable-js.com/</id>
-        <link href="https://immutable-js.com/"/>
+        <title type="html"><![CDATA[Brew Browser: A Native macOS GUI for Homebrew]]></title>
+        <id>https://github.com/msitarzewski/brew-browser</id>
+        <link href="https://github.com/msitarzewski/brew-browser"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boot making and mending including repairing, lasting and finishing (1898)]]></title>
-        <id>https://gutenberg.org/cache/epub/78854/pg78854-images.html</id>
-        <link href="https://gutenberg.org/cache/epub/78854/pg78854-images.html"/>
+        <title type="html"><![CDATA[Surface Data vs. Deep Data [video]]]></title>
+        <id>https://www.youtube.com/watch?v=vk6lgHjjGp8</id>
+        <link href="https://www.youtube.com/watch?v=vk6lgHjjGp8"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If you can't get a job today, it's your fault]]></title>
-        <id>https://auren.substack.com/p/if-you-cant-get-a-job-today-its-your</id>
-        <link href="https://auren.substack.com/p/if-you-cant-get-a-job-today-its-your"/>
+        <title type="html"><![CDATA[The Missing Infrastructure Between AI Agents and the EVM]]></title>
+        <id>https://blog.bridgexapi.io/the-missing-infrastructure-between-ai-agents-and-the-evm</id>
+        <link href="https://blog.bridgexapi.io/the-missing-infrastructure-between-ai-agents-and-the-evm"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real hardware]]></title>
-        <id>https://www.phoronix.com/news/ReactOS-Running-Half-Life</id>
-        <link href="https://www.phoronix.com/news/ReactOS-Running-Half-Life"/>
+        <title type="html"><![CDATA[Fable: Two edges of one opinion, on a model switched off]]></title>
+        <id>https://rebraining.org/fable</id>
+        <link href="https://rebraining.org/fable"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU]]></title>
-        <id>https://github.com/ayushh0110/ScreenMind</id>
-        <link href="https://github.com/ayushh0110/ScreenMind"/>
+        <title type="html"><![CDATA['Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess]]></title>
+        <id>https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/</id>
+        <link href="https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Every Productivity App Trades Away [video]]]></title>
-        <id>https://www.youtube.com/watch?v=OuEKdD_1F8s</id>
-        <link href="https://www.youtube.com/watch?v=OuEKdD_1F8s"/>
+        <title type="html"><![CDATA[Let's Destroy American Science]]></title>
+        <id>https://nasawatch.com/policy/lets-destroy-american-science/</id>
+        <link href="https://nasawatch.com/policy/lets-destroy-american-science/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA['The traveler' book review: An enlightening voyage]]></title>
-        <id>https://www.wsj.com/arts-culture/books/the-traveler-review-an-enlightening-voyage-e9754ecb</id>
-        <link href="https://www.wsj.com/arts-culture/books/the-traveler-review-an-enlightening-voyage-e9754ecb"/>
+        <title type="html"><![CDATA[Russian families use AI to 'resurrect' loved ones killed in Ukraine]]></title>
+        <id>https://www.bbc.com/news/articles/cwy24v72n19o</id>
+        <link href="https://www.bbc.com/news/articles/cwy24v72n19o"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chatbot teddies for three‑year‑olds? Why AI toys are risky for kids]]></title>
-        <id>https://www.rnz.co.nz/life/wellbeing/chatbot-teddies-for-three-year-olds-why-ai-toys-are-risky-for-kids</id>
-        <link href="https://www.rnz.co.nz/life/wellbeing/chatbot-teddies-for-three-year-olds-why-ai-toys-are-risky-for-kids"/>
+        <title type="html"><![CDATA[4 things to know about the new sunscreen ingredient the FDA approved]]></title>
+        <id>https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol</id>
+        <link href="https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDA OKs first new sunscreen ingredient in more than 25 years]]></title>
+        <id>https://apnews.com/article/sunscreen-fda-bemotrizinol-ingredient-uva-protection-9b9c7e04b418b3c9c1fbaa7ddabade25</id>
+        <link href="https://apnews.com/article/sunscreen-fda-bemotrizinol-ingredient-uva-protection-9b9c7e04b418b3c9c1fbaa7ddabade25"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This too shall pass]]></title>
+        <id>https://en.wikipedia.org/wiki/This_too_shall_pass</id>
+        <link href="https://en.wikipedia.org/wiki/This_too_shall_pass"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -99,9 +120,58 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This too shall pass]]></title>
-        <id>https://en.wikipedia.org/wiki/This_too_shall_pass</id>
-        <link href="https://en.wikipedia.org/wiki/This_too_shall_pass"/>
+        <title type="html"><![CDATA[Chatbot teddies for three‑year‑olds? Why AI toys are risky for kids]]></title>
+        <id>https://www.rnz.co.nz/life/wellbeing/chatbot-teddies-for-three-year-olds-why-ai-toys-are-risky-for-kids</id>
+        <link href="https://www.rnz.co.nz/life/wellbeing/chatbot-teddies-for-three-year-olds-why-ai-toys-are-risky-for-kids"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['The traveler' book review: An enlightening voyage]]></title>
+        <id>https://www.wsj.com/arts-culture/books/the-traveler-review-an-enlightening-voyage-e9754ecb</id>
+        <link href="https://www.wsj.com/arts-culture/books/the-traveler-review-an-enlightening-voyage-e9754ecb"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Every Productivity App Trades Away [video]]]></title>
+        <id>https://www.youtube.com/watch?v=OuEKdD_1F8s</id>
+        <link href="https://www.youtube.com/watch?v=OuEKdD_1F8s"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU]]></title>
+        <id>https://github.com/ayushh0110/ScreenMind</id>
+        <link href="https://github.com/ayushh0110/ScreenMind"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real hardware]]></title>
+        <id>https://www.phoronix.com/news/ReactOS-Running-Half-Life</id>
+        <link href="https://www.phoronix.com/news/ReactOS-Running-Half-Life"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you can't get a job today, it's your fault]]></title>
+        <id>https://auren.substack.com/p/if-you-cant-get-a-job-today-its-your</id>
+        <link href="https://auren.substack.com/p/if-you-cant-get-a-job-today-its-your"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boot making and mending including repairing, lasting and finishing (1898)]]></title>
+        <id>https://gutenberg.org/cache/epub/78854/pg78854-images.html</id>
+        <link href="https://gutenberg.org/cache/epub/78854/pg78854-images.html"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immutable Collections for JavaScript]]></title>
+        <id>https://immutable-js.com/</id>
+        <link href="https://immutable-js.com/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -148,79 +218,44 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Scatter-Plot Explorer for World Statistics — Log Scales and Hand-Rolled Pearson Correlation]]></title>
-        <id>https://dev.to/sendotltd/a-scatter-plot-explorer-for-world-statistics-log-scales-and-hand-rolled-pearson-correlation-2l5m</id>
-        <link href="https://dev.to/sendotltd/a-scatter-plot-explorer-for-world-statistics-log-scales-and-hand-rolled-pearson-correlation-2l5m"/>
+        <title type="html"><![CDATA[Mapping SQLite result columns back to their source `table.column`]]></title>
+        <id>https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a GitHub Repo Health Scorer with the Free Public API]]></title>
-        <id>https://dev.to/dev48v/i-built-a-github-repo-health-scorer-with-the-free-public-api-knb</id>
-        <link href="https://dev.to/dev48v/i-built-a-github-repo-health-scorer-with-the-free-public-api-knb"/>
+        <title type="html"><![CDATA[Why I Replaced a Node.js Service with 30 Lines of Bash — and When You Shouldn't]]></title>
+        <id>https://dev.to/tkpdx01/why-i-replaced-a-nodejs-service-with-30-lines-of-bash-and-when-you-shouldnt-4eip</id>
+        <link href="https://dev.to/tkpdx01/why-i-replaced-a-nodejs-service-with-30-lines-of-bash-and-when-you-shouldnt-4eip"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Notion-Style Calendar Is Just One CSS Grid]]></title>
-        <id>https://dev.to/dev48v/a-notion-style-calendar-is-just-one-css-grid-3ddi</id>
-        <link href="https://dev.to/dev48v/a-notion-style-calendar-is-just-one-css-grid-3ddi"/>
+        <title type="html"><![CDATA[Dev.to Technical Post - 产品介绍 (#5)]]></title>
+        <id>https://dev.to/moodflow/devto-technical-post-chan-pin-jie-shao-5-1c00</id>
+        <link href="https://dev.to/moodflow/devto-technical-post-chan-pin-jie-shao-5-1c00"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built 2048 in One Function and a 4 4 Array]]></title>
-        <id>https://dev.to/dev48v/i-built-2048-in-one-function-and-a-4x4-array-29o0</id>
-        <link href="https://dev.to/dev48v/i-built-2048-in-one-function-and-a-4x4-array-29o0"/>
+        <title type="html"><![CDATA[Dev.to Technical Post - 效率提升 (#5)]]></title>
+        <id>https://dev.to/moodflow/devto-technical-post-xiao-lu-ti-sheng-5-58p4</id>
+        <link href="https://dev.to/moodflow/devto-technical-post-xiao-lu-ti-sheng-5-58p4"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Module Resolution in 2026: bundler, node16, and Why Your Imports Break]]></title>
-        <id>https://dev.to/gabrielanhaia/module-resolution-in-2026-bundler-node16-and-why-your-imports-break-1efn</id>
-        <link href="https://dev.to/gabrielanhaia/module-resolution-in-2026-bundler-node16-and-why-your-imports-break-1efn"/>
+        <title type="html"><![CDATA[SEO en 2026, parte 2: la captura rankea — ahora haz que convierta]]></title>
+        <id>https://dev.to/aws-builders/seo-en-2026-parte-2-la-captura-rankea-ahora-haz-que-convierta-4g33</id>
+        <link href="https://dev.to/aws-builders/seo-en-2026-parte-2-la-captura-rankea-ahora-haz-que-convierta-4g33"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Memory Leaks in Their Tracks: React useEffect Cleanup Explained]]></title>
-        <id>https://dev.to/bhargavigajula/stop-memory-leaks-in-their-tracks-react-useeffect-cleanup-explained-47a5</id>
-        <link href="https://dev.to/bhargavigajula/stop-memory-leaks-in-their-tracks-react-useeffect-cleanup-explained-47a5"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fill a PDF in JavaScript — in the browser or via API]]></title>
-        <id>https://dev.to/pdfops/fill-a-pdf-in-javascript-in-the-browser-or-via-api-4ej</id>
-        <link href="https://dev.to/pdfops/fill-a-pdf-in-javascript-in-the-browser-or-via-api-4ej"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typescript: Funções]]></title>
-        <id>https://dev.to/yuripeixinho/typescript-funcoes-3l00</id>
-        <link href="https://dev.to/yuripeixinho/typescript-funcoes-3l00"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A11y Testing: The Missing Piece in Your QA Workflow]]></title>
-        <id>https://dev.to/bhargavigajula/a11y-testing-the-missing-piece-in-your-qa-workflow-ljd</id>
-        <link href="https://dev.to/bhargavigajula/a11y-testing-the-missing-piece-in-your-qa-workflow-ljd"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Over-Engineering React State: When to Choose Zustand Over Redux Toolkit]]></title>
-        <id>https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85</id>
-        <link href="https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSONata Explained: Query and Transform JSON Without the Boilerplate]]></title>
-        <id>https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8</id>
-        <link href="https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8"/>
+        <title type="html"><![CDATA[I built an SEO-first internet radio site — and learned why `curl` can't validate audio streams]]></title>
+        <id>https://dev.to/niks17/i-built-an-seo-first-internet-radio-site-and-learned-why-curl-cant-validate-audio-streams-2fpa</id>
+        <link href="https://dev.to/niks17/i-built-an-seo-first-internet-radio-site-and-learned-why-curl-cant-validate-audio-streams-2fpa"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -232,9 +267,79 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built an SEO-first internet radio site — and learned why `curl` can't validate audio streams]]></title>
-        <id>https://dev.to/niks17/i-built-an-seo-first-internet-radio-site-and-learned-why-curl-cant-validate-audio-streams-2fpa</id>
-        <link href="https://dev.to/niks17/i-built-an-seo-first-internet-radio-site-and-learned-why-curl-cant-validate-audio-streams-2fpa"/>
+        <title type="html"><![CDATA[JSONata Explained: Query and Transform JSON Without the Boilerplate]]></title>
+        <id>https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8</id>
+        <link href="https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Over-Engineering React State: When to Choose Zustand Over Redux Toolkit]]></title>
+        <id>https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85</id>
+        <link href="https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A11y Testing: The Missing Piece in Your QA Workflow]]></title>
+        <id>https://dev.to/bhargavigajula/a11y-testing-the-missing-piece-in-your-qa-workflow-ljd</id>
+        <link href="https://dev.to/bhargavigajula/a11y-testing-the-missing-piece-in-your-qa-workflow-ljd"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typescript: Funções]]></title>
+        <id>https://dev.to/yuripeixinho/typescript-funcoes-3l00</id>
+        <link href="https://dev.to/yuripeixinho/typescript-funcoes-3l00"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fill a PDF in JavaScript — in the browser or via API]]></title>
+        <id>https://dev.to/pdfops/fill-a-pdf-in-javascript-in-the-browser-or-via-api-4ej</id>
+        <link href="https://dev.to/pdfops/fill-a-pdf-in-javascript-in-the-browser-or-via-api-4ej"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Memory Leaks in Their Tracks: React useEffect Cleanup Explained]]></title>
+        <id>https://dev.to/bhargavigajula/stop-memory-leaks-in-their-tracks-react-useeffect-cleanup-explained-47a5</id>
+        <link href="https://dev.to/bhargavigajula/stop-memory-leaks-in-their-tracks-react-useeffect-cleanup-explained-47a5"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Module Resolution in 2026: bundler, node16, and Why Your Imports Break]]></title>
+        <id>https://dev.to/gabrielanhaia/module-resolution-in-2026-bundler-node16-and-why-your-imports-break-1efn</id>
+        <link href="https://dev.to/gabrielanhaia/module-resolution-in-2026-bundler-node16-and-why-your-imports-break-1efn"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built 2048 in One Function and a 4 4 Array]]></title>
+        <id>https://dev.to/dev48v/i-built-2048-in-one-function-and-a-4x4-array-29o0</id>
+        <link href="https://dev.to/dev48v/i-built-2048-in-one-function-and-a-4x4-array-29o0"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Notion-Style Calendar Is Just One CSS Grid]]></title>
+        <id>https://dev.to/dev48v/a-notion-style-calendar-is-just-one-css-grid-3ddi</id>
+        <link href="https://dev.to/dev48v/a-notion-style-calendar-is-just-one-css-grid-3ddi"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a GitHub Repo Health Scorer with the Free Public API]]></title>
+        <id>https://dev.to/dev48v/i-built-a-github-repo-health-scorer-with-the-free-public-api-knb</id>
+        <link href="https://dev.to/dev48v/i-built-a-github-repo-health-scorer-with-the-free-public-api-knb"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Scatter-Plot Explorer for World Statistics — Log Scales and Hand-Rolled Pearson Correlation]]></title>
+        <id>https://dev.to/sendotltd/a-scatter-plot-explorer-for-world-statistics-log-scales-and-hand-rolled-pearson-correlation-2l5m</id>
+        <link href="https://dev.to/sendotltd/a-scatter-plot-explorer-for-world-statistics-log-scales-and-hand-rolled-pearson-correlation-2l5m"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -256,111 +361,6 @@
         <title type="html"><![CDATA[Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)]]></title>
         <id>https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/</id>
         <link href="https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EcoFlow PowerOcean Battery Review: Cutting My Bill in Half]]></title>
-        <id>https://www.wired.com/review/ecoflow-powerocean-home-battery/</id>
-        <link href="https://www.wired.com/review/ecoflow-powerocean-home-battery/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon]]></title>
-        <id>https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/</id>
-        <link href="https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards]]></title>
-        <id>https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/</id>
-        <link href="https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess]]></title>
-        <id>https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/</id>
-        <link href="https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A German Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews]]></title>
-        <id>https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/</id>
-        <link href="https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it]]></title>
-        <id>https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/</id>
-        <link href="https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I made a Unity Audio Manager that saves me 10 hours every project]]></title>
-        <id>https://unityaudiomanager.com</id>
-        <link href="https://unityaudiomanager.com"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting World Cup Updates in Slack]]></title>
-        <id>https://embedworkflow.com/blog/getting-world-cup-updates-in-slack/</id>
-        <link href="https://embedworkflow.com/blog/getting-world-cup-updates-in-slack/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google proposes Open Knowledge Format based on Markdown]]></title>
-        <id>https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/</id>
-        <link href="https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ForecastOps (Like LLMops, MLOps)]]></title>
-        <id>https://github.com/Parisi-Labs/forecastops</id>
-        <link href="https://github.com/Parisi-Labs/forecastops"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tobias Hieta: A Brief Overview of the LLVM Architecture [video]]]></title>
-        <id>https://www.youtube.com/watch?v=g96voy6M6xo</id>
-        <link href="https://www.youtube.com/watch?v=g96voy6M6xo"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero Trust for Python Security: A Practical Checklist]]></title>
-        <id>https://medium.com/@maikelmardjan/zero-trust-for-python-security-a-practical-checklist-fab2f50c12c0</id>
-        <link href="https://medium.com/@maikelmardjan/zero-trust-for-python-security-a-practical-checklist-fab2f50c12c0"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zuckerberg says Meta made 'mistakes' in AI workforce shift]]></title>
-        <id>https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/</id>
-        <link href="https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Re Meta Android Privacy Litigation [pdf]]]></title>
-        <id>https://dn711508.ca.archive.org/0/items/gov.uscourts.cand.450524/gov.uscourts.cand.450524.120.0.pdf</id>
-        <link href="https://dn711508.ca.archive.org/0/items/gov.uscourts.cand.450524/gov.uscourts.cand.450524.120.0.pdf"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8]]></title>
-        <id>https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/</id>
-        <link href="https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/"/>
         <updated>2026-06-12T16:00:00.000Z</updated>
         <published>2026-06-12T16:00:00.000Z</published>
     </entry>
