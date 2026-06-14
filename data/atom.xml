@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-14T02:02:00.762Z</updated>
+    <updated>2026-06-14T04:02:16.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验]]></title>
+        <id>https://sspai.com/post/110761</id>
+        <link href="https://sspai.com/post/110761"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[X-Men ’97 has what Master of the Universe is missing]]></title>
         <id>https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel</id>
@@ -29,16 +36,16 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand]]></title>
-        <id>https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/</id>
-        <link href="https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"/>
+        <title type="html"><![CDATA[This thin under-pillow speaker helped me fall asleep without earbuds]]></title>
+        <id>https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/</id>
+        <link href="https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This thin under-pillow speaker helped me fall asleep without earbuds]]></title>
-        <id>https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/</id>
-        <link href="https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/"/>
+        <title type="html"><![CDATA[Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand]]></title>
+        <id>https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/</id>
+        <link href="https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -225,114 +232,37 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I Replaced a Node.js Service with 30 Lines of Bash — and When You Shouldn't]]></title>
-        <id>https://dev.to/tkpdx01/why-i-replaced-a-nodejs-service-with-30-lines-of-bash-and-when-you-shouldnt-4eip</id>
-        <link href="https://dev.to/tkpdx01/why-i-replaced-a-nodejs-service-with-30-lines-of-bash-and-when-you-shouldnt-4eip"/>
+        <title type="html"><![CDATA[Building an Interactive 'Festa Junina' with Vanilla JS 🌽🔥]]></title>
+        <id>https://dev.to/fvds/building-an-interactive-festa-junina-with-vanilla-js-4d4p</id>
+        <link href="https://dev.to/fvds/building-an-interactive-festa-junina-with-vanilla-js-4d4p"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dev.to Technical Post - 产品介绍 (#5)]]></title>
-        <id>https://dev.to/moodflow/devto-technical-post-chan-pin-jie-shao-5-1c00</id>
-        <link href="https://dev.to/moodflow/devto-technical-post-chan-pin-jie-shao-5-1c00"/>
+        <title type="html"><![CDATA[How I Built a Browser Game That Hooks Players in Under 15 Seconds]]></title>
+        <id>https://dev.to/tanishpaul1106/how-i-built-a-browser-game-that-hooks-players-in-under-15-seconds-11n5</id>
+        <link href="https://dev.to/tanishpaul1106/how-i-built-a-browser-game-that-hooks-players-in-under-15-seconds-11n5"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dev.to Technical Post - 效率提升 (#5)]]></title>
-        <id>https://dev.to/moodflow/devto-technical-post-xiao-lu-ti-sheng-5-58p4</id>
-        <link href="https://dev.to/moodflow/devto-technical-post-xiao-lu-ti-sheng-5-58p4"/>
+        <title type="html"><![CDATA[OpenAI Codex now finishes 85% of scoped tasks. Here is the /goal workflow that gets you there.]]></title>
+        <id>https://dev.to/thegdsks/openai-codex-now-finishes-85-of-scoped-tasks-here-is-the-goal-workflow-that-gets-you-there-1dae</id>
+        <link href="https://dev.to/thegdsks/openai-codex-now-finishes-85-of-scoped-tasks-here-is-the-goal-workflow-that-gets-you-there-1dae"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEO en 2026, parte 2: la captura rankea — ahora haz que convierta]]></title>
-        <id>https://dev.to/aws-builders/seo-en-2026-parte-2-la-captura-rankea-ahora-haz-que-convierta-4g33</id>
-        <link href="https://dev.to/aws-builders/seo-en-2026-parte-2-la-captura-rankea-ahora-haz-que-convierta-4g33"/>
+        <title type="html"><![CDATA[I gave my AI agent live aviation weather — building a free Aviation MCP server]]></title>
+        <id>https://dev.to/perufitlife/i-gave-my-ai-agent-live-aviation-weather-building-a-free-aviation-mcp-server-2cc8</id>
+        <link href="https://dev.to/perufitlife/i-gave-my-ai-agent-live-aviation-weather-building-a-free-aviation-mcp-server-2cc8"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built an SEO-first internet radio site — and learned why `curl` can't validate audio streams]]></title>
-        <id>https://dev.to/niks17/i-built-an-seo-first-internet-radio-site-and-learned-why-curl-cant-validate-audio-streams-2fpa</id>
-        <link href="https://dev.to/niks17/i-built-an-seo-first-internet-radio-site-and-learned-why-curl-cant-validate-audio-streams-2fpa"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to type third-party API responses in TypeScript (without lying to your compiler)]]></title>
-        <id>https://dev.to/hugonaili/how-to-type-third-party-api-responses-in-typescript-without-lying-to-your-compiler-4cdn</id>
-        <link href="https://dev.to/hugonaili/how-to-type-third-party-api-responses-in-typescript-without-lying-to-your-compiler-4cdn"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSONata Explained: Query and Transform JSON Without the Boilerplate]]></title>
-        <id>https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8</id>
-        <link href="https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Over-Engineering React State: When to Choose Zustand Over Redux Toolkit]]></title>
-        <id>https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85</id>
-        <link href="https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A11y Testing: The Missing Piece in Your QA Workflow]]></title>
-        <id>https://dev.to/bhargavigajula/a11y-testing-the-missing-piece-in-your-qa-workflow-ljd</id>
-        <link href="https://dev.to/bhargavigajula/a11y-testing-the-missing-piece-in-your-qa-workflow-ljd"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typescript: Funções]]></title>
-        <id>https://dev.to/yuripeixinho/typescript-funcoes-3l00</id>
-        <link href="https://dev.to/yuripeixinho/typescript-funcoes-3l00"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fill a PDF in JavaScript — in the browser or via API]]></title>
-        <id>https://dev.to/pdfops/fill-a-pdf-in-javascript-in-the-browser-or-via-api-4ej</id>
-        <link href="https://dev.to/pdfops/fill-a-pdf-in-javascript-in-the-browser-or-via-api-4ej"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Memory Leaks in Their Tracks: React useEffect Cleanup Explained]]></title>
-        <id>https://dev.to/bhargavigajula/stop-memory-leaks-in-their-tracks-react-useeffect-cleanup-explained-47a5</id>
-        <link href="https://dev.to/bhargavigajula/stop-memory-leaks-in-their-tracks-react-useeffect-cleanup-explained-47a5"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Module Resolution in 2026: bundler, node16, and Why Your Imports Break]]></title>
-        <id>https://dev.to/gabrielanhaia/module-resolution-in-2026-bundler-node16-and-why-your-imports-break-1efn</id>
-        <link href="https://dev.to/gabrielanhaia/module-resolution-in-2026-bundler-node16-and-why-your-imports-break-1efn"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built 2048 in One Function and a 4 4 Array]]></title>
-        <id>https://dev.to/dev48v/i-built-2048-in-one-function-and-a-4x4-array-29o0</id>
-        <link href="https://dev.to/dev48v/i-built-2048-in-one-function-and-a-4x4-array-29o0"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Notion-Style Calendar Is Just One CSS Grid]]></title>
-        <id>https://dev.to/dev48v/a-notion-style-calendar-is-just-one-css-grid-3ddi</id>
-        <link href="https://dev.to/dev48v/a-notion-style-calendar-is-just-one-css-grid-3ddi"/>
-        <updated>2026-06-13T16:00:00.000Z</updated>
-        <published>2026-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a GitHub Repo Health Scorer with the Free Public API]]></title>
-        <id>https://dev.to/dev48v/i-built-a-github-repo-health-scorer-with-the-free-public-api-knb</id>
-        <link href="https://dev.to/dev48v/i-built-a-github-repo-health-scorer-with-the-free-public-api-knb"/>
+        <title type="html"><![CDATA[How I Fixed My AI Chatbot's Laggy Responses with Server-Sent Events]]></title>
+        <id>https://dev.to/__c1b9e06dc90a7e0a676b/how-i-fixed-my-ai-chatbots-laggy-responses-with-server-sent-events-5404</id>
+        <link href="https://dev.to/__c1b9e06dc90a7e0a676b/how-i-fixed-my-ai-chatbots-laggy-responses-with-server-sent-events-5404"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -344,24 +274,94 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Valve just imported 13 tons of VR headsets in one day]]></title>
-        <id>https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console</id>
-        <link href="https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built a GitHub Repo Health Scorer with the Free Public API]]></title>
+        <id>https://dev.to/dev48v/i-built-a-github-repo-health-scorer-with-the-free-public-api-knb</id>
+        <link href="https://dev.to/dev48v/i-built-a-github-repo-health-scorer-with-the-free-public-api-knb"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Never Post’s Mike Rugnetta on the creative process and the value of reliable power]]></title>
-        <id>https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire</id>
-        <link href="https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A Notion-Style Calendar Is Just One CSS Grid]]></title>
+        <id>https://dev.to/dev48v/a-notion-style-calendar-is-just-one-css-grid-3ddi</id>
+        <link href="https://dev.to/dev48v/a-notion-style-calendar-is-just-one-css-grid-3ddi"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)]]></title>
-        <id>https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/</id>
-        <link href="https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/"/>
-        <updated>2026-06-12T16:00:00.000Z</updated>
-        <published>2026-06-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built 2048 in One Function and a 4 4 Array]]></title>
+        <id>https://dev.to/dev48v/i-built-2048-in-one-function-and-a-4x4-array-29o0</id>
+        <link href="https://dev.to/dev48v/i-built-2048-in-one-function-and-a-4x4-array-29o0"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Module Resolution in 2026: bundler, node16, and Why Your Imports Break]]></title>
+        <id>https://dev.to/gabrielanhaia/module-resolution-in-2026-bundler-node16-and-why-your-imports-break-1efn</id>
+        <link href="https://dev.to/gabrielanhaia/module-resolution-in-2026-bundler-node16-and-why-your-imports-break-1efn"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Memory Leaks in Their Tracks: React useEffect Cleanup Explained]]></title>
+        <id>https://dev.to/bhargavigajula/stop-memory-leaks-in-their-tracks-react-useeffect-cleanup-explained-47a5</id>
+        <link href="https://dev.to/bhargavigajula/stop-memory-leaks-in-their-tracks-react-useeffect-cleanup-explained-47a5"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fill a PDF in JavaScript — in the browser or via API]]></title>
+        <id>https://dev.to/pdfops/fill-a-pdf-in-javascript-in-the-browser-or-via-api-4ej</id>
+        <link href="https://dev.to/pdfops/fill-a-pdf-in-javascript-in-the-browser-or-via-api-4ej"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typescript: Funções]]></title>
+        <id>https://dev.to/yuripeixinho/typescript-funcoes-3l00</id>
+        <link href="https://dev.to/yuripeixinho/typescript-funcoes-3l00"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A11y Testing: The Missing Piece in Your QA Workflow]]></title>
+        <id>https://dev.to/bhargavigajula/a11y-testing-the-missing-piece-in-your-qa-workflow-ljd</id>
+        <link href="https://dev.to/bhargavigajula/a11y-testing-the-missing-piece-in-your-qa-workflow-ljd"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Over-Engineering React State: When to Choose Zustand Over Redux Toolkit]]></title>
+        <id>https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85</id>
+        <link href="https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSONata Explained: Query and Transform JSON Without the Boilerplate]]></title>
+        <id>https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8</id>
+        <link href="https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to type third-party API responses in TypeScript (without lying to your compiler)]]></title>
+        <id>https://dev.to/hugonaili/how-to-type-third-party-api-responses-in-typescript-without-lying-to-your-compiler-4cdn</id>
+        <link href="https://dev.to/hugonaili/how-to-type-third-party-api-responses-in-typescript-without-lying-to-your-compiler-4cdn"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built an SEO-first internet radio site — and learned why `curl` can't validate audio streams]]></title>
+        <id>https://dev.to/niks17/i-built-an-seo-first-internet-radio-site-and-learned-why-curl-cant-validate-audio-streams-2fpa</id>
+        <link href="https://dev.to/niks17/i-built-an-seo-first-internet-radio-site-and-learned-why-curl-cant-validate-audio-streams-2fpa"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEO en 2026, parte 2: la captura rankea — ahora haz que convierta]]></title>
+        <id>https://dev.to/aws-builders/seo-en-2026-parte-2-la-captura-rankea-ahora-haz-que-convierta-4g33</id>
+        <link href="https://dev.to/aws-builders/seo-en-2026-parte-2-la-captura-rankea-ahora-haz-que-convierta-4g33"/>
+        <updated>2026-06-13T16:00:00.000Z</updated>
+        <published>2026-06-13T16:00:00.000Z</published>
     </entry>
 </feed>
