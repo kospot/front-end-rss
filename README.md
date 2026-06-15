@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-06-15 08:01:24，:rocket: 更新条数: +2321， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-15 10:01:51，:rocket: 更新条数: +2343， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -40,17 +40,17 @@
 - [O'Reilly-Radar](#o'reilly-radar)  
 - [Martin-Fowler](#martin-fowler)![](/assets/dot.png)   
 - [arXiv-ML](#arxiv-ml)  
-- [HuggingFace-Blog](#huggingface-blog)![](/assets/dot.png)   
+- [HuggingFace-Blog](#huggingface-blog)  
 - [smol.ai](#smol.ai)![](/assets/dot.png)   
 - [Towards-AI](#towards-ai)  
 - [Sebastian-Raschka](#sebastian-raschka)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [OpenAI-Blog](#openai-blog)![](/assets/dot.png)   
-- [Hacker-News](#hacker-news)  
+- [Hacker-News](#hacker-news)![](/assets/dot.png)   
 - [TechCrunch](#techcrunch)  
-- [Wired](#wired)![](/assets/dot.png)   
+- [Wired](#wired)  
 - [Engadget](#engadget)  
-- [少数派](#少数派)  
+- [少数派](#少数派)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -90,6 +90,7 @@
 </summary>
 
 
+- [2026-06-15-Introducing-the-MDN-MCP-server](https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/) ![](/assets/new.png)  
 - [......【查看更多】......](/details/MDN Blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -257,26 +258,26 @@
 </summary>
 
 
-- [2026-06-15-Build-VS-Code-Extensions-Fast-with-vsceasy](https://dev.to/jairofernandez/build-vs-code-extensions-fast-with-vsceasy-5ag9)  
-- [2026-06-15-How-does-email-contribute-to-personal-development](https://dev.to/buyoldgmailaccounts2/how-does-email-contribute-to-personal-development-1fgp)  
-- [2026-06-15-How-to-Build-One-Web-App-That-Works-on-iOS,-Android,-and-Desktop](https://dev.to/zia_ullah_zia/how-to-build-one-web-app-that-works-on-ios-android-and-desktop-2mni)  
-- [2026-06-15-How-I-Built-a-Static-Ecosystem-Site-for-My-Open-Source-Tools-Eleventy-+-Tailwind-+-GitHub-Pages](https://dev.to/gkoos/how-i-built-a-static-ecosystem-site-for-my-open-source-tools-eleventy-tailwind-github-pages-1p61)  
-- [2026-06-15-Why-Your-Controllers-Become-600+-Lines-Long-And-How-a-Service-Layer-Fixes-It](https://dev.to/vedant8177/why-your-controllers-become-600-lines-long-and-how-a-service-layer-fixes-it-5bm0)  
-- [2026-06-15-I-built-an-offline-wiki-that-fits-in-a-single-19-KB-HTML-file](https://dev.to/by_sitnikov/i-built-an-offline-wiki-that-fits-in-a-single-19-kb-html-file-1aai)  
-- [2026-06-15-5-JSON-Errors-That-Break-APIs-And-How-to-Fix-Them](https://dev.to/kalaivani_r_c92f3dfc4220c/5-json-errors-that-break-apis-and-how-to-fix-them-352d)  
-- [2026-06-15-The-Day-I-Stopped-Scrolling-Through-1,000-Lines-of-JSON](https://dev.to/kalaivani_r_c92f3dfc4220c/the-day-i-stopped-scrolling-through-1000-lines-of-json-2c3p)  
-- [2026-06-15-pkg-health-checker](https://dev.to/gavinbarbatruder/pkg-health-checker-47i7)  
-- [2026-06-15-Desenvolvendo-uma-Plataforma-para-Transformar-a-Comunicação-Escolar](https://dev.to/sprtxjh/desenvolvendo-uma-plataforma-para-transformar-a-comunicacao-escolar-77)  
-- [2026-06-15-Dont-decode-JWT-on-random-sites---verify-if-they-are-sending-it-to-backend-servers!-How-though?](https://dev.to/ramsudharsan75/dont-decode-jwt-on-random-sites-verify-if-they-are-sending-it-to-backend-servers-how-though-2mha)  
+- [2026-06-15-I-built-a-real-time-Air-Quality-Index-monitor-from-scratch-—-AtmoPulse-🌍](https://dev.to/ayush_kunkulol_5/i-built-a-real-time-air-quality-index-monitor-from-scratch-atmopulse-3l3p)  
+- [2026-06-15-Telegram-Stars-Economics-for-Bot-Developers:-What-Your-Stars-Are-Actually-Worth-in-2026](https://dev.to/starsearn/telegram-stars-economics-for-bot-developers-what-your-stars-are-actually-worth-in-2026-2742)  
 - [2026-06-15-Gridzzly:-The-Interactive-React-App-That-Writes-CSS-Grid-for-You](https://dev.to/bilalmlkdev/gridzzly-the-interactive-react-app-that-writes-css-grid-for-you-1omk)  
-- [2026-06-15-Telegram-Stars-Economics-for-Bot-Developers:-What-Your-Stars-Are-Actually-Worth-in-2026](https://dev.to/starsearn/telegram-stars-economics-for-bot-developers-what-your-stars-are-actually-worth-in-2026-2742) ![](/assets/new.png)  
-- [2026-06-15-I-built-a-real-time-Air-Quality-Index-monitor-from-scratch-—-AtmoPulse-🌍](https://dev.to/ayush_kunkulol_5/i-built-a-real-time-air-quality-index-monitor-from-scratch-atmopulse-3l3p) ![](/assets/new.png)  
-- [2026-06-14-I-Built-a-Student-Result-Card-Generator-That-Exports-to-PDF-and-Images](https://dev.to/premiumconverters/i-built-a-student-result-card-generator-that-exports-to-pdf-and-images-1pm9)  
-- [2026-06-14-What-I-learned-building-my-first-side-project:-doing-everything-client-side](https://dev.to/soo_c622b93b5cd/what-i-learned-building-my-first-side-project-doing-everything-client-side-opo)  
-- [2026-06-14-¿Qué-hace-`npm-install`-en-un-monorepo-con-workspaces?](https://dev.to/mmdtechlog/que-hace-npm-install-en-un-monorepo-con-workspaces-4g4e)  
-- [2026-06-14-TARIK4D-Platform-Digital-Modern-dan-Terpercaya-dengan-Teknologi-Terkini-untuk-Pengalaman-Online-Terbaik](https://dev.to/tarik4d/tarik4d-platform-digital-modern-dan-terpercaya-dengan-teknologi-terkini-untuk-pengalaman-online-1i9g)  
-- [2026-06-14-Activation-Functions:-Why-a-100-Layer-Network-Without-Them-Is-Still-One-Line](https://dev.to/dev48v/activation-functions-why-a-100-layer-network-without-them-is-still-one-line-ef6)  
-- [2026-06-14-Logistic-Regression-From-Scratch:-the-Same-Gradient-Descent,-Squashed-Through-a-Sigmoid](https://dev.to/dev48v/logistic-regression-from-scratch-the-same-gradient-descent-squashed-through-a-sigmoid-i2l)  
+- [2026-06-15-Dont-decode-JWT-on-random-sites---verify-if-they-are-sending-it-to-backend-servers!-How-though?](https://dev.to/ramsudharsan75/dont-decode-jwt-on-random-sites-verify-if-they-are-sending-it-to-backend-servers-how-though-2mha)  
+- [2026-06-15-Desenvolvendo-uma-Plataforma-para-Transformar-a-Comunicação-Escolar](https://dev.to/sprtxjh/desenvolvendo-uma-plataforma-para-transformar-a-comunicacao-escolar-77)  
+- [2026-06-15-pkg-health-checker](https://dev.to/gavinbarbatruder/pkg-health-checker-47i7)  
+- [2026-06-15-The-Day-I-Stopped-Scrolling-Through-1,000-Lines-of-JSON](https://dev.to/kalaivani_r_c92f3dfc4220c/the-day-i-stopped-scrolling-through-1000-lines-of-json-2c3p)  
+- [2026-06-15-5-JSON-Errors-That-Break-APIs-And-How-to-Fix-Them](https://dev.to/kalaivani_r_c92f3dfc4220c/5-json-errors-that-break-apis-and-how-to-fix-them-352d)  
+- [2026-06-15-I-built-an-offline-wiki-that-fits-in-a-single-19-KB-HTML-file](https://dev.to/by_sitnikov/i-built-an-offline-wiki-that-fits-in-a-single-19-kb-html-file-1aai)  
+- [2026-06-15-Why-Your-Controllers-Become-600+-Lines-Long-And-How-a-Service-Layer-Fixes-It](https://dev.to/vedant8177/why-your-controllers-become-600-lines-long-and-how-a-service-layer-fixes-it-5bm0)  
+- [2026-06-15-How-I-Built-a-Static-Ecosystem-Site-for-My-Open-Source-Tools-Eleventy-+-Tailwind-+-GitHub-Pages](https://dev.to/gkoos/how-i-built-a-static-ecosystem-site-for-my-open-source-tools-eleventy-tailwind-github-pages-1p61)  
+- [2026-06-15-How-to-Build-One-Web-App-That-Works-on-iOS,-Android,-and-Desktop](https://dev.to/zia_ullah_zia/how-to-build-one-web-app-that-works-on-ios-android-and-desktop-2mni)  
+- [2026-06-15-How-does-email-contribute-to-personal-development](https://dev.to/buyoldgmailaccounts2/how-does-email-contribute-to-personal-development-1fgp)  
+- [2026-06-15-Build-VS-Code-Extensions-Fast-with-vsceasy](https://dev.to/jairofernandez/build-vs-code-extensions-fast-with-vsceasy-5ag9)  
+- [2026-06-15-Explaining-SQL-in-Plain-English-with-a-Recursive-Descent-Parser-—-and-Why-Logical-Execution-Order-Is-the-Real-Lesson](https://dev.to/sendotltd/explaining-sql-in-plain-english-with-a-recursive-descent-parser-and-why-logical-execution-order-35lg) ![](/assets/new.png)  
+- [2026-06-15-How-to-verify-Gumroad-license-keys-in-an-Electron-app-and-the-3-gotchas-nobody-warns-you-about](https://dev.to/ape_collective_/how-to-verify-gumroad-license-keys-in-an-electron-app-and-the-3-gotchas-nobody-warns-you-about-38gn) ![](/assets/new.png)  
+- [2026-06-15-Dev.to-Technical-Post---用户受益-#5](https://dev.to/moodflow/devto-technical-post-yong-hu-shou-yi-5-2g36) ![](/assets/new.png)  
+- [2026-06-15-Stop-Hardcoding-HTML-for-Every-Image-—-Use-Template-Variables-Instead](https://dev.to/ozgurs/stop-hardcoding-html-for-every-image-use-template-variables-instead-k1e) ![](/assets/new.png)  
+- [2026-06-15-Snapchat's-Developer-Platform:-What-Engineers-Should-Know-About-Lens-Studio-and-AR-in-2026](https://dev.to/gladis_jenkins_109be90fec/snapchats-developer-platform-what-engineers-should-know-about-lens-studio-and-ar-in-2026-17li) ![](/assets/new.png)  
+- [2026-06-14-Why-I-stopped-fighting-monorepos..](https://dev.to/akshay_sarak/why-i-stopped-fighting-monorepos-mmp)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -481,11 +482,11 @@ https://github.com/evoluteur/healing-frequencies
 
 - [2026-06-02-Fragments:-June-2](https://martinfowler.com/fragments/2026-06-02.html)  
 - [2026-05-28-Fragments:-May-27](https://martinfowler.com/fragments/2026-05-27.html)  
-- [2026-05-27-The-test-suite-as-a-regression-sensor](https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor)  
 - [2026-05-27-The-VibeSec-Reckoning](https://martinfowler.com/articles/vibesec-reckoning.html)  
+- [2026-05-27-The-test-suite-as-a-regression-sensor](https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor)  
 - [2026-05-21-Bliki:-Vibe-Coding](https://martinfowler.com/bliki/VibeCoding.html)  
-- [2026-05-20-Maintainability-sensors-for-coding-agents](https://martinfowler.com/articles/sensors-for-coding-agents.html)  
 - [2026-05-20-Three-more-static-code-analysis-sensors](https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules)  
+- [2026-05-20-Maintainability-sensors-for-coding-agents](https://martinfowler.com/articles/sensors-for-coding-agents.html)  
 - [......【查看更多】......](/details/Martin Fowler.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -528,7 +529,7 @@ https://github.com/evoluteur/healing-frequencies
 </summary>
 
 
-- [2026-06-15-Why-AI-hasn’t-replaced-software-engineers,-and-won’t](https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything) ![](/assets/new.png)  
+- [2026-06-15-Why-AI-hasn’t-replaced-software-engineers,-and-won’t](https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything)  
 - [2026-06-14-Publishing-WASM-wheels-to-PyPI-for-use-with-Pyodide](https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything)  
 - [2026-06-14-luau-wasm-0.1a0](https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything)  
 - [2026-06-14-Mapping-SQLite-result-columns-back-to-their-source-`table.column`](https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything)  
@@ -563,16 +564,16 @@ https://github.com/evoluteur/healing-frequencies
 - [2026-06-08-not-much-happened-today](https://news.smol.ai/issues/26-06-08-not-much/)  
 - [2026-06-05-not-much-happened-today](https://news.smol.ai/issues/26-06-05-not-much/)  
 - [2026-06-04-not-much-happened-today](https://news.smol.ai/issues/26-06-04-not-much/)  
-- [2026-06-02-not-much-happened-today](https://news.smol.ai/issues/26-06-03-not-much/)  
 - [2026-06-02-Microsoft-Build:-MAI-Thinking-1-and-MAI-Family-models,-Surface-RTX-Spark-Dev-Box,-and-OpenClaw-in-Windows](https://news.smol.ai/issues/26-06-02-msft-mai-2/)  
+- [2026-06-02-not-much-happened-today](https://news.smol.ai/issues/26-06-03-not-much/)  
 - [2026-06-01-not-much-happened-today](https://news.smol.ai/issues/26-06-01-not-much/)  
 - [2026-05-29-not-much-happened-today](https://news.smol.ai/issues/26-05-29-not-much/)  
 - [2026-05-28-Anthropic-raises-$65B-in-Series-H-at-a-$965B-post-money-valuation,-releases-Opus-4.8-and-Dynamic-Workflows](https://news.smol.ai/issues/26-05-28-anthropic-series-h/)  
-- [2026-05-26-not-much-happened-today](https://news.smol.ai/issues/26-05-27-not-much/)  
 - [2026-05-26-not-much-happened-today](https://news.smol.ai/issues/26-05-26-not-much/)  
+- [2026-05-26-not-much-happened-today](https://news.smol.ai/issues/26-05-27-not-much/)  
 - [2026-05-21-not-much-happened-today](https://news.smol.ai/issues/26-05-21-not-much/)  
-- [2026-05-18-Google-I/O-2026:-Gemini-3.5-Flash,-Omni,-and-Google’s-Agent-Stack](https://news.smol.ai/issues/26-05-19-not-much/)  
 - [2026-05-18-not-much-happened-today](https://news.smol.ai/issues/26-05-18-not-much/)  
+- [2026-05-18-Google-I/O-2026:-Gemini-3.5-Flash,-Omni,-and-Google’s-Agent-Stack](https://news.smol.ai/issues/26-05-19-not-much/)  
 - [......【查看更多】......](/details/smol.ai.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -638,26 +639,26 @@ https://github.com/evoluteur/healing-frequencies
 </summary>
 
 
-- [2026-06-12-New-OpenAI-Academy-courses-for-the-next-era-of-work](https://openai.com/index/academy-courses-applying-ai-at-work)  
+- [2026-06-15-Introducing-the-OpenAI-Partner-Network](https://openai.com/index/introducing-openai-partner-network) ![](/assets/new.png)  
 - [2026-06-12-How-Preply-combines-AI-and-human-tutors-to-personalize-learning](https://openai.com/index/preply)  
-- [2026-06-11-OpenAI-to-acquire-Ona](https://openai.com/index/openai-to-acquire-ona)  
-- [2026-06-11-BBVA-puts-AI-at-the-core-of-banking-with-OpenAI](https://openai.com/index/bbva)  
-- [2026-06-11-Supporting-Europe’s-work-in-ensuring-a-trustworthy-AI-ecosystem-](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem)  
-- [2026-06-11-Access-OpenAI-models-and-Codex-through-your-Oracle-cloud-commitment](https://openai.com/index/openai-on-oracle-cloud)  
+- [2026-06-12-New-OpenAI-Academy-courses-for-the-next-era-of-work](https://openai.com/index/academy-courses-applying-ai-at-work)  
 - [2026-06-11-How-an-astrophysicist-uses-Codex-to-help-simulate-black-holes](https://openai.com/index/using-codex-to-simulate-black-holes)  
-- [2026-06-10-PRC-linked-influence-operations-are-targeting-AI-debates-in-the-US](https://openai.com/index/prc-linked-influence-operations-ai-debates)  
+- [2026-06-11-Access-OpenAI-models-and-Codex-through-your-Oracle-cloud-commitment](https://openai.com/index/openai-on-oracle-cloud)  
+- [2026-06-11-Supporting-Europe’s-work-in-ensuring-a-trustworthy-AI-ecosystem-](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem)  
+- [2026-06-11-BBVA-puts-AI-at-the-core-of-banking-with-OpenAI](https://openai.com/index/bbva)  
+- [2026-06-11-OpenAI-to-acquire-Ona](https://openai.com/index/openai-to-acquire-ona)  
 - [2026-06-10-From-data-to-decisions:-how-LSEG-is-scaling-trusted-AI](https://openai.com/index/lseg)  
-- [2026-06-09-Industrial-policy-for-the-Intelligence-Age](https://openai.com/index/industrial-policy-for-the-intelligence-age)  
-- [2026-06-09-How-engineers-at-Nextdoor-use-Codex-to-build-without-limits](https://openai.com/index/nextdoor)  
+- [2026-06-10-PRC-linked-influence-operations-are-targeting-AI-debates-in-the-US](https://openai.com/index/prc-linked-influence-operations-ai-debates)  
 - [2026-06-09-What-Codex-unlocks-for-Notion](https://openai.com/index/notion)  
-- [2026-06-08-Confidential-submission-of-draft-S-1-to-the-SEC](https://openai.com/index/openai-submits-confidential-s-1)  
-- [2026-06-08-Built-to-benefit-everyone:-our-plan](https://openai.com/index/built-to-benefit-everyone-our-plan)  
+- [2026-06-09-How-engineers-at-Nextdoor-use-Codex-to-build-without-limits](https://openai.com/index/nextdoor)  
+- [2026-06-09-Industrial-policy-for-the-Intelligence-Age](https://openai.com/index/industrial-policy-for-the-intelligence-age)  
 - [2026-06-08-Introducing-the-OpenAI-Economic-Research-Exchange](https://openai.com/index/economic-research-exchange)  
-- [2026-06-04-Dreaming:-Better-memory-for-a-more-helpful-ChatGPT](https://openai.com/index/chatgpt-memory-dreaming)  
-- [2026-06-04-Biodefense-in-the-Intelligence-Age](https://openai.com/index/biodefense-in-the-intelligence-age)  
+- [2026-06-08-Built-to-benefit-everyone:-our-plan](https://openai.com/index/built-to-benefit-everyone-our-plan)  
+- [2026-06-08-Confidential-submission-of-draft-S-1-to-the-SEC](https://openai.com/index/openai-submits-confidential-s-1)  
 - [2026-06-04-How-Endava-is-redesigning-software-delivery-around-AI-agents](https://openai.com/index/endava-frontiers)  
-- [2026-06-03-Introducing-new-capabilities-to-GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind)  
-- [2026-06-03-A-blueprint-for-democratic-governance-of-frontier-AI](https://openai.com/index/frontier-safety-blueprint)  
+- [2026-06-04-Biodefense-in-the-Intelligence-Age](https://openai.com/index/biodefense-in-the-intelligence-age)  
+- [2026-06-04-Dreaming:-Better-memory-for-a-more-helpful-ChatGPT](https://openai.com/index/chatgpt-memory-dreaming)  
+- [2026-06-03-How-Wasmer-used-Codex-to-build-a-Node.js-runtime-for-the-edge](https://openai.com/index/wasmer)  
 - [......【查看更多】......](/details/OpenAI Blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -669,26 +670,26 @@ https://github.com/evoluteur/healing-frequencies
 </summary>
 
 
-- [2026-06-15-RFC-9396:-OAuth-2.0-Rich-Authorization-Requests](https://ciamweekly.substack.com/p/rfc-9396-oauth-20-rich-authorization)  
-- [2026-06-15-Luddite](https://en.wikipedia.org/wiki/Luddite)  
-- [2026-06-15-Calculations-Suggest-It'll-Be-Impossible-to-Control-a-Super-Intelligent-AI](https://www.sciencealert.com/calculations-suggest-itll-be-impossible-to-control-a-super-intelligent-ai)  
-- [2026-06-15-8-Years-of-Refinement](https://alt-tab.app/changelog)  
-- [2026-06-15-Scientists-Identify-2-Distinct-Subtypes-of-Autism-in-the-Brain](https://www.sciencealert.com/scientists-identify-2-distinct-subtypes-of-autism-in-the-brain)  
-- [2026-06-15-We-Built-a-CLI-That-Gets-Smarter-Every-Time-You-Use-It](https://medium.com/@vektormemory/via-v0-4-0-we-built-a-cli-that-gets-smarter-every-time-you-use-it-b687d1e3aa60)  
-- [2026-06-15-Risk-of-Portable-Electronic-Devices-in-Patients-with-Implanted-Devices](https://www.ahajournals.org/doi/10.1161/CIRCEP.121.010646)  
-- [2026-06-15-Ask-HN:-Is-anyone-growing-further-from-capitalism?](https://news.ycombinator.com/item?id=48533067)  
-- [2026-06-15-Lithos](https://lithosgraphein.com/)  
-- [2026-06-15-Zerostack-v1.5-–-A-Unix-inspired-coding-agent-written-in-pure-Rust](https://crates.io/crates/zerostack/1.5.0#zerostack)  
-- [2026-06-15-The-Chinese-parents-dancing-on-live-streams-to-help-their-children-fight-cancer](https://www.sixthtone.com/news/1018060)  
-- [2026-06-15-Highly-intelligent-people-are-more-likely-to-ditch-old-habits-for-better-ideas](https://www.psypost.org/highly-intelligent-people-are-more-likely-to-ditch-old-habits-for-better-ideas-study-finds/)  
-- [2026-06-15-The-Magic-Roundabout-of-Seattle-Area](https://kirklandroundabouts.com)  
-- [2026-06-15-Windows-11-users-are-tired-of-MS-account-requirements-creeping-into-everything](https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds)  
-- [2026-06-15-Making-'food-out-of-thin-air'-2024](https://www.noemamag.com/making-food-out-of-thin-air/)  
-- [2026-06-15-Bran-flakes-to-be-classed-as-junk-food-under-new-health-plan](https://www.telegraph.co.uk/money/consumer-affairs/bran-flakes-to-be-classed-as-junk-food/)  
-- [2026-06-15-Peace-deal-between-US-and-Iran,-Pakistan-says,-with-Strait-of-Hormuz-to-re-open](https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal)  
-- [2026-06-15-For-Retired-Engineers](https://telescoper.blog/2026/06/14/for-retired-engineers/)  
-- [2026-06-15-Surpassing-Frontier-Performance-with-Fusion](https://openrouter.ai/blog/announcements/fusion-beats-frontier/)  
 - [2026-06-15-The-Great-Erase](https://www.neondystopia.com/?p=100043466)  
+- [2026-06-15-Surpassing-Frontier-Performance-with-Fusion](https://openrouter.ai/blog/announcements/fusion-beats-frontier/)  
+- [2026-06-15-For-Retired-Engineers](https://telescoper.blog/2026/06/14/for-retired-engineers/)  
+- [2026-06-15-Peace-deal-between-US-and-Iran,-Pakistan-says,-with-Strait-of-Hormuz-to-re-open](https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal)  
+- [2026-06-15-Bran-flakes-to-be-classed-as-junk-food-under-new-health-plan](https://www.telegraph.co.uk/money/consumer-affairs/bran-flakes-to-be-classed-as-junk-food/)  
+- [2026-06-15-Making-'food-out-of-thin-air'-2024](https://www.noemamag.com/making-food-out-of-thin-air/)  
+- [2026-06-15-Windows-11-users-are-tired-of-MS-account-requirements-creeping-into-everything](https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds)  
+- [2026-06-15-The-Magic-Roundabout-of-Seattle-Area](https://kirklandroundabouts.com)  
+- [2026-06-15-Highly-intelligent-people-are-more-likely-to-ditch-old-habits-for-better-ideas](https://www.psypost.org/highly-intelligent-people-are-more-likely-to-ditch-old-habits-for-better-ideas-study-finds/)  
+- [2026-06-15-The-Chinese-parents-dancing-on-live-streams-to-help-their-children-fight-cancer](https://www.sixthtone.com/news/1018060)  
+- [2026-06-15-Zerostack-v1.5-–-A-Unix-inspired-coding-agent-written-in-pure-Rust](https://crates.io/crates/zerostack/1.5.0#zerostack)  
+- [2026-06-15-Lithos](https://lithosgraphein.com/)  
+- [2026-06-15-Ask-HN:-Is-anyone-growing-further-from-capitalism?](https://news.ycombinator.com/item?id=48533067)  
+- [2026-06-15-Risk-of-Portable-Electronic-Devices-in-Patients-with-Implanted-Devices](https://www.ahajournals.org/doi/10.1161/CIRCEP.121.010646)  
+- [2026-06-15-We-Built-a-CLI-That-Gets-Smarter-Every-Time-You-Use-It](https://medium.com/@vektormemory/via-v0-4-0-we-built-a-cli-that-gets-smarter-every-time-you-use-it-b687d1e3aa60)  
+- [2026-06-15-Scientists-Identify-2-Distinct-Subtypes-of-Autism-in-the-Brain](https://www.sciencealert.com/scientists-identify-2-distinct-subtypes-of-autism-in-the-brain)  
+- [2026-06-15-8-Years-of-Refinement](https://alt-tab.app/changelog)  
+- [2026-06-15-Calculations-Suggest-It'll-Be-Impossible-to-Control-a-Super-Intelligent-AI](https://www.sciencealert.com/calculations-suggest-itll-be-impossible-to-control-a-super-intelligent-ai)  
+- [2026-06-15-Luddite](https://en.wikipedia.org/wiki/Luddite)  
+- [2026-06-15-RFC-9396:-OAuth-2.0-Rich-Authorization-Requests](https://ciamweekly.substack.com/p/rfc-9396-oauth-20-rich-authorization)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -793,26 +794,26 @@ https://github.com/evoluteur/healing-frequencies
 </summary>
 
 
+- [2026-06-15-派早报：Fable-5-和-Mythos-5-模型因美国商务部禁令下线](https://sspai.com/post/111045) ![](/assets/new.png)  
 - [2026-06-14-TDS-REVIEW｜韶音-OpenDots-2-/-Air-耳夹式开放真无线耳机体验](https://sspai.com/post/110761)  
 - [2026-06-13-具透-|-除了-AI，iOS-27-首个开发者测试版中你不能错过的新功能](https://sspai.com/post/110973)  
-- [2026-06-12-Level-Read：让英语学习从「读得懂」开始，每天都进步一点点](https://sspai.com/post/110329)  
-- [2026-06-12-把-AI-装进口袋，然后把它忘掉：-YoooClaw-C·ONE-智能硬件一个月使用体验](https://sspai.com/post/110914)  
-- [2026-06-12-派早报：五电商平台因「百亿补贴」问题被约谈、Xbox-启动业务重置计划等](https://sspai.com/post/110975)  
-- [2026-06-12-WWDC-26-发布会上，Apple-没告诉你的那些事](https://sspai.com/post/110967)  
 - [2026-06-12-本周看什么-|-最近值得一看的-10-部作品](https://sspai.com/post/110992)  
-- [2026-06-11-5月音乐推荐：不可错过的9张惊喜专辑](https://sspai.com/post/110670)  
-- [2026-06-11-派早报：Insta360-发布首款手持云台相机-Luna-Ultra-等](https://sspai.com/post/110951)  
-- [2026-06-11-苹果新增的「围绝经期」提醒，你该比-watchOS-27-多了解一点](https://sspai.com/post/75419)  
-- [2026-06-11-618-相机存储卡选购全攻略（2026）](https://sspai.com/post/110334)  
+- [2026-06-12-WWDC-26-发布会上，Apple-没告诉你的那些事](https://sspai.com/post/110967)  
+- [2026-06-12-派早报：五电商平台因「百亿补贴」问题被约谈、Xbox-启动业务重置计划等](https://sspai.com/post/110975)  
+- [2026-06-12-把-AI-装进口袋，然后把它忘掉：-YoooClaw-C·ONE-智能硬件一个月使用体验](https://sspai.com/post/110914)  
+- [2026-06-12-Level-Read：让英语学习从「读得懂」开始，每天都进步一点点](https://sspai.com/post/110329)  
 - [2026-06-11-家庭饮品-DIY-指南（一）：工欲善其事，必先利其器](https://sspai.com/prime/story/home-made-beverages-1)  
-- [2026-06-10-又是一年-618：可以直接抄作业的护肤搭配清单](https://sspai.com/post/110614)  
-- [2026-06-10-这些人用实测，给麦金獭钢化膜交了份真实答卷](https://sspai.com/post/110868)  
-- [2026-06-10-派早报：Apple-更新-App-Store-审核与订阅规则、Anthropic-发布-Claude-Fable-5-等](https://sspai.com/post/110925)  
-- [2026-06-10-告别阅读焦虑：一份硬核科学阅读指南](https://sspai.com/post/110557)  
+- [2026-06-11-618-相机存储卡选购全攻略（2026）](https://sspai.com/post/110334)  
+- [2026-06-11-苹果新增的「围绝经期」提醒，你该比-watchOS-27-多了解一点](https://sspai.com/post/75419)  
+- [2026-06-11-派早报：Insta360-发布首款手持云台相机-Luna-Ultra-等](https://sspai.com/post/110951)  
+- [2026-06-11-5月音乐推荐：不可错过的9张惊喜专辑](https://sspai.com/post/110670)  
 - [2026-06-10-线下活动｜周日到广州来，给你一张过去的-CD](https://sspai.com/post/110911)  
-- [2026-06-09-社区速递-144-|-听-AI-开「营养处方」、无感耳夹耳机与磁吸支架](https://sspai.com/post/110907)  
-- [2026-06-09-派早报：WWDC26-全球开发者大会开幕等](https://sspai.com/post/110889)  
-- [2026-06-09-Liquid-Glass-精调、Apple-智能大升级：WWDC26-发布会回顾](https://sspai.com/post/110888)  
+- [2026-06-10-告别阅读焦虑：一份硬核科学阅读指南](https://sspai.com/post/110557)  
+- [2026-06-10-派早报：Apple-更新-App-Store-审核与订阅规则、Anthropic-发布-Claude-Fable-5-等](https://sspai.com/post/110925)  
+- [2026-06-10-这些人用实测，给麦金獭钢化膜交了份真实答卷](https://sspai.com/post/110868)  
+- [2026-06-10-又是一年-618：可以直接抄作业的护肤搭配清单](https://sspai.com/post/110614)  
+- [2026-06-09-众测招募｜灵犀-Linx-键盘功能共创计划开启](https://sspai.com/post/110863)  
+- [2026-06-09-一图流-|-Apple-WWDC26-开幕式回顾](https://sspai.com/post/110887)  
 - [......【查看更多】......](/details/少数派.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

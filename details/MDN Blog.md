@@ -1,7 +1,8 @@
-:alarm_clock: 更新时间: 2026-06-15 08:01:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-15 10:01:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## MDN Blog
 
 
 
 
+- [2026-06-15-Introducing-the-MDN-MCP-server](https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/) 
