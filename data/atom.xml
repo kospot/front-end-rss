@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-14T22:01:13.405Z</updated>
+    <updated>2026-06-15T00:01:25.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,44 +71,9 @@
         <published>2026-06-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build VS Code Extensions Fast with vsceasy]]></title>
-        <id>https://dev.to/jairofernandez/build-vs-code-extensions-fast-with-vsceasy-5ag9</id>
-        <link href="https://dev.to/jairofernandez/build-vs-code-extensions-fast-with-vsceasy-5ag9"/>
-        <updated>2026-06-14T16:00:00.000Z</updated>
-        <published>2026-06-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Static Ecosystem Site for My Open Source Tools (Eleventy + Tailwind + GitHub Pages)]]></title>
-        <id>https://dev.to/gkoos/how-i-built-a-static-ecosystem-site-for-my-open-source-tools-eleventy-tailwind-github-pages-1p61</id>
-        <link href="https://dev.to/gkoos/how-i-built-a-static-ecosystem-site-for-my-open-source-tools-eleventy-tailwind-github-pages-1p61"/>
-        <updated>2026-06-14T16:00:00.000Z</updated>
-        <published>2026-06-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built an offline wiki that fits in a single 19 KB HTML file]]></title>
-        <id>https://dev.to/by_sitnikov/i-built-an-offline-wiki-that-fits-in-a-single-19-kb-html-file-1aai</id>
-        <link href="https://dev.to/by_sitnikov/i-built-an-offline-wiki-that-fits-in-a-single-19-kb-html-file-1aai"/>
-        <updated>2026-06-14T16:00:00.000Z</updated>
-        <published>2026-06-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 JSON Errors That Break APIs (And How to Fix Them)]]></title>
-        <id>https://dev.to/kalaivani_r_c92f3dfc4220c/5-json-errors-that-break-apis-and-how-to-fix-them-352d</id>
-        <link href="https://dev.to/kalaivani_r_c92f3dfc4220c/5-json-errors-that-break-apis-and-how-to-fix-them-352d"/>
-        <updated>2026-06-14T16:00:00.000Z</updated>
-        <published>2026-06-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Day I Stopped Scrolling Through 1,000 Lines of JSON]]></title>
-        <id>https://dev.to/kalaivani_r_c92f3dfc4220c/the-day-i-stopped-scrolling-through-1000-lines-of-json-2c3p</id>
-        <link href="https://dev.to/kalaivani_r_c92f3dfc4220c/the-day-i-stopped-scrolling-through-1000-lines-of-json-2c3p"/>
-        <updated>2026-06-14T16:00:00.000Z</updated>
-        <published>2026-06-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desenvolvendo uma Plataforma para Transformar a Comunicação Escolar]]></title>
-        <id>https://dev.to/sprtxjh/desenvolvendo-uma-plataforma-para-transformar-a-comunicacao-escolar-77</id>
-        <link href="https://dev.to/sprtxjh/desenvolvendo-uma-plataforma-para-transformar-a-comunicacao-escolar-77"/>
+        <title type="html"><![CDATA[Gridzzly: The Interactive React App That Writes CSS Grid for You]]></title>
+        <id>https://dev.to/bilalmlkdev/gridzzly-the-interactive-react-app-that-writes-css-grid-for-you-1omk</id>
+        <link href="https://dev.to/bilalmlkdev/gridzzly-the-interactive-react-app-that-writes-css-grid-for-you-1omk"/>
         <updated>2026-06-14T16:00:00.000Z</updated>
         <published>2026-06-14T16:00:00.000Z</published>
     </entry>
@@ -120,9 +85,44 @@
         <published>2026-06-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gridzzly: The Interactive React App That Writes CSS Grid for You]]></title>
-        <id>https://dev.to/bilalmlkdev/gridzzly-the-interactive-react-app-that-writes-css-grid-for-you-1omk</id>
-        <link href="https://dev.to/bilalmlkdev/gridzzly-the-interactive-react-app-that-writes-css-grid-for-you-1omk"/>
+        <title type="html"><![CDATA[Desenvolvendo uma Plataforma para Transformar a Comunicação Escolar]]></title>
+        <id>https://dev.to/sprtxjh/desenvolvendo-uma-plataforma-para-transformar-a-comunicacao-escolar-77</id>
+        <link href="https://dev.to/sprtxjh/desenvolvendo-uma-plataforma-para-transformar-a-comunicacao-escolar-77"/>
+        <updated>2026-06-14T16:00:00.000Z</updated>
+        <published>2026-06-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Day I Stopped Scrolling Through 1,000 Lines of JSON]]></title>
+        <id>https://dev.to/kalaivani_r_c92f3dfc4220c/the-day-i-stopped-scrolling-through-1000-lines-of-json-2c3p</id>
+        <link href="https://dev.to/kalaivani_r_c92f3dfc4220c/the-day-i-stopped-scrolling-through-1000-lines-of-json-2c3p"/>
+        <updated>2026-06-14T16:00:00.000Z</updated>
+        <published>2026-06-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 JSON Errors That Break APIs (And How to Fix Them)]]></title>
+        <id>https://dev.to/kalaivani_r_c92f3dfc4220c/5-json-errors-that-break-apis-and-how-to-fix-them-352d</id>
+        <link href="https://dev.to/kalaivani_r_c92f3dfc4220c/5-json-errors-that-break-apis-and-how-to-fix-them-352d"/>
+        <updated>2026-06-14T16:00:00.000Z</updated>
+        <published>2026-06-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built an offline wiki that fits in a single 19 KB HTML file]]></title>
+        <id>https://dev.to/by_sitnikov/i-built-an-offline-wiki-that-fits-in-a-single-19-kb-html-file-1aai</id>
+        <link href="https://dev.to/by_sitnikov/i-built-an-offline-wiki-that-fits-in-a-single-19-kb-html-file-1aai"/>
+        <updated>2026-06-14T16:00:00.000Z</updated>
+        <published>2026-06-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Static Ecosystem Site for My Open Source Tools (Eleventy + Tailwind + GitHub Pages)]]></title>
+        <id>https://dev.to/gkoos/how-i-built-a-static-ecosystem-site-for-my-open-source-tools-eleventy-tailwind-github-pages-1p61</id>
+        <link href="https://dev.to/gkoos/how-i-built-a-static-ecosystem-site-for-my-open-source-tools-eleventy-tailwind-github-pages-1p61"/>
+        <updated>2026-06-14T16:00:00.000Z</updated>
+        <published>2026-06-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build VS Code Extensions Fast with vsceasy]]></title>
+        <id>https://dev.to/jairofernandez/build-vs-code-extensions-fast-with-vsceasy-5ag9</id>
+        <link href="https://dev.to/jairofernandez/build-vs-code-extensions-fast-with-vsceasy-5ag9"/>
         <updated>2026-06-14T16:00:00.000Z</updated>
         <published>2026-06-14T16:00:00.000Z</published>
     </entry>
@@ -155,9 +155,9 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Suunto Spark Review: The Perfect Pair for Runs and Rides]]></title>
-        <id>https://www.wired.com/review/suunto-spark/</id>
-        <link href="https://www.wired.com/review/suunto-spark/"/>
+        <title type="html"><![CDATA[Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals]]></title>
+        <id>https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/</id>
+        <link href="https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
@@ -169,9 +169,9 @@
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals]]></title>
-        <id>https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/</id>
-        <link href="https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/"/>
+        <title type="html"><![CDATA[Suunto Spark Review: The Perfect Pair for Runs and Rides]]></title>
+        <id>https://www.wired.com/review/suunto-spark/</id>
+        <link href="https://www.wired.com/review/suunto-spark/"/>
         <updated>2026-06-13T16:00:00.000Z</updated>
         <published>2026-06-13T16:00:00.000Z</published>
     </entry>
