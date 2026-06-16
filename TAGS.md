@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-16 06:01:05。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-16 08:01:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -247,8 +247,8 @@ https://github.com/svar-widgets/vue-gantt
 - [【前端之巅】How-we-built-role-based-access-control-and-offline-first-PWA-sync-for-a-multi-tenant-pharmacy-SaaS-in-Next.js](https://dev.to/abin_raj_cc3eb22152ca590c/how-we-built-role-based-access-control-and-offline-first-pwa-sync-for-a-multi-tenant-pharmacy-saas-mbn)
 - [【Hacker News】Flutter-OTA-Code-Push,-Shorebird-Alternative-Open-Source-Flutter-Patcher](https://github.com/xuelinger2333/flutter_patcher)
 - [【Hacker News】Shorebird-in-Anger:-A-Production-Flutter-Code-Push-Integration](https://about.kikoff.com/build/shorebird-in-anger-a-production-flutter-code-push-integration)
-- [【Hacker News】Guitar-Tools-–-PWA-for-Scales,-Circle-of-Fifths-and-More](https://guitar-tools.eejalab.xyz/)
 - [【Hacker News】Canonical-takes-over-Flutter-desktop-maintenance](https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained)
+- [【Hacker News】Guitar-Tools-–-PWA-for-Scales,-Circle-of-Fifths-and-More](https://guitar-tools.eejalab.xyz/)
 - [......【查看更多】......](/details/tags/dev-mobile.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -660,8 +660,8 @@ https://github.com/svar-widgets/vue-gantt
 - [【Hacker News】Delivery-Hero-confirms-takeover-offer-from-Uber](https://www.reuters.com/business/delivery-hero-confirms-takeover-offer-uber-2026-05-23/)
 - [【Hacker News】Sam-Altman-makes-'mic-drop'-offer-to-every-Y-Combinator-startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/)
 - [【TechCrunch】Microsoft-offers-devs-a-better-way-to-control-AI-agent-behavior](https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/)
-- [【TechCrunch】The-Path,-founded-by-Tony-Robbins-and-Calm-alums,-hopes-to-offer-safer-AI-therapy](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/)
 - [【TechCrunch】Sam-Altman-makes-‘mic-drop’-offer-to-every-Y-Combinator-startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/)
+- [【TechCrunch】The-Path,-founded-by-Tony-Robbins-and-Calm-alums,-hopes-to-offer-safer-AI-therapy](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/)
 - [【TechCrunch】NanoClaw-creator-turns-down-$20M-buyout-offer,-raises-$12M-seed-instead](https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/)
 - [【Engadget】The-Mercedes-CLA-offers-great-EV-specs-for-an-average-price](https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs)
 - [【Engadget】Sony-is-offering-up-to-50-percent-off-some-of-our-favorite-PS5-games](https://www.theverge.com/gadgets/937711/cheap-ps5-games-sony-state-of-play-2026-sale-govee-lightwall-deal)
