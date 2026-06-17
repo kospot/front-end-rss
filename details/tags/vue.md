@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-17 23:02:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-18 06:01:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -7,14 +7,14 @@
 
 
 
-- [2026-06-17-Best-Vue-UI-Components-for-Project-Management-and-Scheduling](https://dev.to/olga_tash/best-vue-ui-components-for-project-management-and-scheduling-4p9d) 
-- [2026-06-17-I-understand-why-Vue-is-so-loved](https://dev.to/caasieu/i-understand-why-vue-is-so-loved-41dd) 
 - [2026-06-17-How-I-Rotate-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-rotate-pdfs-in-the-browser-with-vue-3-and-pdf-lib-541b) 
+- [2026-06-17-I-understand-why-Vue-is-so-loved](https://dev.to/caasieu/i-understand-why-vue-is-so-loved-41dd) 
+- [2026-06-17-Best-Vue-UI-Components-for-Project-Management-and-Scheduling](https://dev.to/olga_tash/best-vue-ui-components-for-project-management-and-scheduling-4p9d) 
 - [2026-06-16-How-I-Convert-Excel-to-PDF-in-the-Browser-with-Vue-3,-xlsx,-and-html2pdf.js](https://dev.to/sunshey/how-i-convert-excel-to-pdf-in-the-browser-with-vue-3-xlsx-and-html2pdfjs-4k5e) 
 - [2026-06-15-How-I-Compress-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-compress-pdfs-in-the-browser-with-vue-3-and-pdf-lib-4d83) 
 - [2026-06-13-How-to-Convert-Word-to-PDF-in-the-Browser-with-Vue-3,-mammoth,-and-html2pdf.js](https://dev.to/sunshey/how-to-convert-word-to-pdf-in-the-browser-with-vue-3-mammoth-and-html2pdfjs-4c7h) 
-- [2026-06-12-Vue-3.6-Vapor-Mode:-Opt-Out-of-the-Virtual-DOM](https://dev.to/grimicorn/vue-36-vapor-mode-opt-out-of-the-virtual-dom-50en) 
 - [2026-06-12-How-to-Merge-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-merge-pdfs-in-the-browser-with-vue-3-and-pdf-lib-56m6) 
+- [2026-06-12-Vue-3.6-Vapor-Mode:-Opt-Out-of-the-Virtual-DOM](https://dev.to/grimicorn/vue-36-vapor-mode-opt-out-of-the-virtual-dom-50en) 
 - [2026-06-11-How-to-Add-Electronic-Signatures-to-PDFs-in-the-Browser-Vue-3-+-HTML5-Canvas](https://dev.to/sunshey/how-to-add-electronic-signatures-to-pdfs-in-the-browser-vue-3-html5-canvas-2804) 
 - [2026-06-10-ما-الذي-يميز-مهندس-Vue.js-Senior؟](https://dev.to/ahmed_niazy/m-ldhy-ymyz-mhnds-vuejs-senior-162i) 
 - [2026-06-06-What-is-JavaScript?-Features,-Advantages,-Disadvantages,-and-Uses](https://dev.to/sivasakthi_paramasivam_e8/what-is-javascript-features-advantages-disadvantages-and-uses-19b6) 
@@ -45,11 +45,9 @@ https://github.com/svar-widgets/vue-gantt
 - [2026-05-25-Graph-based-Complexity-Forecasts-in-UK-En-Route-Airspace-Using-Relevant-Aircraft-Interactions](https://arxiv.org/abs/2605.23696) 
 - [2026-05-22-Riemannian-geometry-meets-fMRI:-the-advantages-of-modeling-correlation-manifolds-and-eigenvector-subspaces](https://arxiv.org/abs/2605.22334) 
 - [2026-05-21-Advantage-Collapse-in-Group-Relative-Policy-Optimization:-Diagnosis-and-Mitigation](https://arxiv.org/abs/2605.21125) 
-- [2026-05-19-Randomized-Advantage-Transformation-RAT:-Computing-Natural-Policy-Gradients-via-Direct-Backpropagation](https://arxiv.org/abs/2605.18591) 
 - [2026-06-07-If-You’re-a-Python-Developer,-These-7-AI-APIs-Could-Be-Your-Biggest-Advantage-in-2026.](https://pub.towardsai.net/if-youre-a-python-developer-these-7-ai-apis-could-be-your-biggest-advantage-in-2026-deac03bc92d3?source=rss----98111c9905da---4) 
 - [2026-05-26-Agentic-AI-and-the-SMB-Banking-Advantage](https://pub.towardsai.net/agentic-ai-and-the-smb-banking-advantage-0e75e0514707?source=rss----98111c9905da---4) 
 - [2026-05-24-Beyond-Foundation-Models:-Why-Enterprise-Context-Could-Become-the-Real-AI-Advantage](https://pub.towardsai.net/beyond-foundation-models-why-enterprise-context-could-become-the-real-ai-advantage-3b17fbd14c72?source=rss----98111c9905da---4) 
 - [2026-06-03-Why-is-news.ycombinator-still-relevant-and-devs-keep-coming-back-to-it?](https://news.ycombinator.com/item?id=48384916) 
 - [2026-05-30-The-Oscar-Levant-Show-1958](https://archive.org/details/TheOscarLevantShow) 
-- [2026-05-19-Ask-HN:-Are-coding-interview-still-relevant?](https://news.ycombinator.com/item?id=48185969) 
 - [2026-05-24-Why-Nuro-thinks-being-a-robotaxi-‘second-mover’-gives-it-an-advantage](https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo) 
