@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-17 10:01:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-17 12:02:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -69,7 +69,7 @@ https://prickles.org/tenet/no-escape-hatches/T2
 https://github.com/BitairLabs/lift
 ) 
 - [2026-06-12-Show-HN:-800x-faster-Linter-and-TypeScript-Go-toolchain-for-plugins-like-typia](https://github.com/samchon/ttsc) 
-- [2026-06-06-Show-HN:-Alternative-to-WebXR,-TypeScript-SDK-for-multi-user-VR-app-development](https://github.com/adamas-vr/runtime-interface) 
 - [2026-06-06-Amazon-Vinyl,-a-TypeScript-streaming-engine-for-HTML5-media](https://amazonmusic.github.io/vinyl/) 
+- [2026-06-06-Show-HN:-Alternative-to-WebXR,-TypeScript-SDK-for-multi-user-VR-app-development](https://github.com/adamas-vr/runtime-interface) 
 - [2026-05-30-Perry-Compiles-TypeScript-directly-to-executables-using-SWC-and-LLVM](https://www.perryts.com/) 
 - [2026-05-19-Hey-API-–-OpenAPI-to-TypeScript-in-Seconds](https://heyapi.dev) 

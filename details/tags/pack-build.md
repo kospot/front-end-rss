@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-17 10:01:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-17 12:02:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -57,11 +57,11 @@
 - [2026-05-20-Your-Next-npm-install-Could-Already-Be-Running-Malware](https://dev.to/codewithrajat/your-next-npm-install-could-already-be-running-malware-326j) 
 - [2026-06-15-sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) 
 - [2026-06-13-eslint/eslint](https://github.com/eslint/eslint) 
-- [2026-06-12--vite-plugin-federation-v1.0---A-Vite/Rollup-plugin-for-Module-Federation.-](
-https://github.com/jskits/vite-plugin-federation
-) 
 - [2026-06-12--Postmortem:-TanStack-npm-supply-chain-compromise-](
 https://tanstack.com/blog/npm-supply-chain-compromise-postmortem
+) 
+- [2026-06-12--vite-plugin-federation-v1.0---A-Vite/Rollup-plugin-for-Module-Federation.-](
+https://github.com/jskits/vite-plugin-federation
 ) 
 - [2026-06-07-webpack/webpack](https://github.com/webpack/webpack) 
 - [2026-05-24-npm/cli](https://github.com/npm/cli) 
@@ -70,14 +70,14 @@ https://tanstack.com/blog/npm-supply-chain-compromise-postmortem
 - [2026-06-08-NPM-Scan:-Detecting-Six-Major-NPM-Supply-Chain-Campaigns-June-2026](https://www.npmjs.com/package/@lateos/npm-scan) 
 - [2026-06-05-NPM-Scan-v1.1.0:-Four-New-Detectors-for-June-2026-Supply-Chain-Attacks](https://github.com/lateos-ai/npm-scan/blob/main/VALIDATION.md) 
 - [2026-06-04-Miasma-NPM-Supply-Chain-Attack:-Self-Spreading-Worm-via-Phantom-Gyp](https://www.stepsecurity.io/blog/binding-gyp-npm-supply-chain-attack-spreads-like-worm) 
-- [2026-06-02-Red-Hat-packages-backdoored-through-its-official-NPM-channel](https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/) 
 - [2026-06-02-Miasma-supply-chain-attack:-malicious-code-found-in-RedHat-cloud-services-NPM](https://snyk.io/blog/miasma-supply-chain-attack-malicious-code-redhat-cloud-services-npm-packages/) 
+- [2026-06-02-Red-Hat-packages-backdoored-through-its-official-NPM-channel](https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/) 
 - [2026-05-31-Show-HN:-Egress-WAF-to-limit-AI-agents-and-NPM-malware-based-on-mitmproxy](https://github.com/esamattis/mitmwall) 
 - [2026-05-30-NPM-Packages-Attacks](https://news.ycombinator.com/item?id=48333319) 
-- [2026-05-26-Pope-Leo-Compares-AI-Threat-to-Biblical-'Tower-of-Babel'](https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c) 
-- [2026-05-26-GSD-NPM-get-shit-done-cc-is-now-OpenGSD](https://www.opengsd.net/) 
 - [2026-05-26-Art-Template-NPM-Coruna-Browser-Exploit-Compromise](https://haltingproblems.com/analysis/art-template-coruna-npm-compromise/) 
+- [2026-05-26-GSD-NPM-get-shit-done-cc-is-now-OpenGSD](https://www.opengsd.net/) 
+- [2026-05-26-Pope-Leo-Compares-AI-Threat-to-Biblical-'Tower-of-Babel'](https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c) 
 - [2026-05-20-Grafana-Labs-security-update-on-TanStack-NPM-supply-chain-ransomware-incident](https://grafana.com/blog/grafana-labs-security-update-latest-on-tanstack-npm-supply-chain-ransomware-incident/) 
-- [2026-05-19-Npmx:-A-fast,-modern-browser-for-the-NPM-registry](https://github.com/npmx-dev/npmx.dev) 
 - [2026-05-19-Active-Supply-Chain-Attack-Compromises-Antv-Packages-on-NPM](https://socket.dev/blog/antv-packages-compromised) 
+- [2026-05-19-Npmx:-A-fast,-modern-browser-for-the-NPM-registry](https://github.com/npmx-dev/npmx.dev) 
 - [2026-05-27-Why-the-Vatican-Invited-Anthropic-to-the-Pope’s-AI-Encyclical-Presentation](https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/) 
