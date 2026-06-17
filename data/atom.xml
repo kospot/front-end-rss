@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-17T07:03:14.163Z</updated>
+    <updated>2026-06-17T10:02:30.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The Complete Calvin and Hobbes is a great last-minute Father’s Day gift]]></title>
-        <id>https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale"/>
+        <title type="html"><![CDATA[模糊算法让图像更清晰？游戏里的「抗锯齿」到底在做什么]]></title>
+        <id>https://sspai.com/post/110720</id>
+        <link href="https://sspai.com/post/110720"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[Qualcomm’s latest chip hints that more powerful smart glasses could be on the way]]></title>
         <id>https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables</id>
         <link href="https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Complete Calvin and Hobbes is a great last-minute Father’s Day gift]]></title>
+        <id>https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
@@ -85,191 +92,65 @@
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fastai: Style]]></title>
-        <id>https://docs.fast.ai/dev/style.html</id>
-        <link href="https://docs.fast.ai/dev/style.html"/>
+        <title type="html"><![CDATA[BastionRoute converts all UDP connections to outbound WebSockets]]></title>
+        <id>https://github.com/klauscam/BastionRoute</id>
+        <link href="https://github.com/klauscam/BastionRoute"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Detach]]></title>
-        <id>https://news.ycombinator.com/item?id=48566728</id>
-        <link href="https://news.ycombinator.com/item?id=48566728"/>
+        <title type="html"><![CDATA[An End-to-End Machine Learning Pipeline on Time-Series Data]]></title>
+        <id>https://medium.com/@DolphinDB_Inc/from-raw-data-to-trained-models-an-ml-journey-b588fb81a086</id>
+        <link href="https://medium.com/@DolphinDB_Inc/from-raw-data-to-trained-models-an-ml-journey-b588fb81a086"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Origin – Cursor's GitHub Competitor]]></title>
-        <id>https://cursor.com/origin</id>
-        <link href="https://cursor.com/origin"/>
+        <title type="html"><![CDATA[Tokenization's Next Big Conundrum: What Do Buyers Get?]]></title>
+        <id>https://www.bloomberg.com/news/newsletters/2026-06-16/tokenization-s-next-big-conundrum-what-do-buyers-actually-get</id>
+        <link href="https://www.bloomberg.com/news/newsletters/2026-06-16/tokenization-s-next-big-conundrum-what-do-buyers-actually-get"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Non-frontal face recognition using GANs and memristor-based classifiers]]></title>
-        <id>https://arxiv.org/abs/2606.12074</id>
-        <link href="https://arxiv.org/abs/2606.12074"/>
+        <title type="html"><![CDATA[Companies question cost of AI as tokenmaxxing spending adds up]]></title>
+        <id>https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680</id>
+        <link href="https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Battery Impact of 50 Open GitHub Issues on an M3 Mac]]></title>
-        <id>https://gopeek-lovat.vercel.app/blog-github-issues-battery-m3-mac.html</id>
-        <link href="https://gopeek-lovat.vercel.app/blog-github-issues-battery-m3-mac.html"/>
+        <title type="html"><![CDATA[Fast and Secure Cloud Delivery in Regulated Industries]]></title>
+        <id>https://blog.faridnsh.ninja/fast-and-secure-cloud-delivery-in-regulated-industries</id>
+        <link href="https://blog.faridnsh.ninja/fast-and-secure-cloud-delivery-in-regulated-industries"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fearless Concurrency on the GPU]]></title>
-        <id>https://arxiv.org/abs/2606.15991</id>
-        <link href="https://arxiv.org/abs/2606.15991"/>
+        <title type="html"><![CDATA[YC Application Review Skill]]></title>
+        <id>https://github.com/morajabi/yc-partner</id>
+        <link href="https://github.com/morajabi/yc-partner"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Academic freedom declined in 50 countries]]></title>
-        <id>https://academic-freedom-index.net/</id>
-        <link href="https://academic-freedom-index.net/"/>
+        <title type="html"><![CDATA[Show HN: Open-source 3D Cell Models Pipeline]]></title>
+        <id>https://www.lorea.app/3d-library</id>
+        <link href="https://www.lorea.app/3d-library"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux Enacts Guidance to Tighten Acceptance of New File-Systems into the Kernel]]></title>
-        <id>https://www.phoronix.com/news/Linux-New-File-System-Docs</id>
-        <link href="https://www.phoronix.com/news/Linux-New-File-System-Docs"/>
+        <title type="html"><![CDATA[People want robots in warehouses and factories not hospitals or schools]]></title>
+        <id>https://hexagon.com/company/newsroom/press-releases/2026/people-want-robots-in-warehouses-and-factories-not-hospitals-or-schools-hexagon-study-finds</id>
+        <link href="https://hexagon.com/company/newsroom/press-releases/2026/people-want-robots-in-warehouses-and-factories-not-hospitals-or-schools-hexagon-study-finds"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX valuation balloons to $2.6T, briefly passes Amazon]]></title>
-        <id>https://www.techsentiments.com/article/2026/06/16/spacex-valuation-balloons-to-26t-briefly-passes-amazon-fb2a</id>
-        <link href="https://www.techsentiments.com/article/2026/06/16/spacex-valuation-balloons-to-26t-briefly-passes-amazon-fb2a"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Firefox Usage of Zlib-Rs for Better Safety and Performance]]></title>
-        <id>https://www.phoronix.com/news/Mozilla-Firefox-zlib-rs-Usage</id>
-        <link href="https://www.phoronix.com/news/Mozilla-Firefox-zlib-rs-Usage"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Faces Billions in Penalties from Potential FTC Ad Suit]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Argent leviathan of 80.000 WebGL scales]]></title>
-        <id>https://sand-morph.up.railway.app/argent-leviathan</id>
-        <link href="https://sand-morph.up.railway.app/argent-leviathan"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update: Acabei de abrir O SDK no GitHub → github.com/mathhMadureira/orka]]></title>
-        <id>https://news.ycombinator.com/item?id=48562337</id>
-        <link href="https://news.ycombinator.com/item?id=48562337"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Interview with Eugene Jarvis of Robotron, Defender and Stargate Fame]]></title>
-        <id>https://www.gamedeveloper.com/production/eugeneology-an-interview-with-eugene-jarvis</id>
-        <link href="https://www.gamedeveloper.com/production/eugeneology-an-interview-with-eugene-jarvis"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VibeThinker-3B achieves 80.2 on LCBv6]]></title>
-        <id>https://twitter.com/WeiboLLM/status/2066870851841274249</id>
-        <link href="https://twitter.com/WeiboLLM/status/2066870851841274249"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLM-5.2: Frontier Intelligence, Open Weights]]></title>
-        <id>https://twitter.com/Zai_org/status/2066938937344495629</id>
-        <link href="https://twitter.com/Zai_org/status/2066938937344495629"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Stages of a Domain Expiration]]></title>
-        <id>https://medium.com/@thesuperrepemail/the-5-stages-of-a-domain-expiration-e1653544c605</id>
-        <link href="https://medium.com/@thesuperrepemail/the-5-stages-of-a-domain-expiration-e1653544c605"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox is easier than ever to customize]]></title>
-        <id>https://blog.mozilla.org/en/firefox/firefox-settings/</id>
-        <link href="https://blog.mozilla.org/en/firefox/firefox-settings/"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparda – Turn any Express/FastAPI app into an MCP server in 3 minutes]]></title>
-        <id>https://github.com/zyx77550/sparda</id>
-        <link href="https://github.com/zyx77550/sparda"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon S3 annotations: attach rich, queryable context directly to your objects]]></title>
-        <id>https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/</id>
-        <link href="https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glucosamine linked to faster dementia progression]]></title>
-        <id>https://www.medicalnewstoday.com/articles/pain-supplement-glucosamine-linked-to-faster-dementia-progression</id>
-        <link href="https://www.medicalnewstoday.com/articles/pain-supplement-glucosamine-linked-to-faster-dementia-progression"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Network Bandwidth Amazon GameLift Servers Is Here!]]></title>
-        <id>https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-free-network-bandwidth/</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-free-network-bandwidth/"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Kevin – Claude talk less. Save Money]]></title>
-        <id>https://github.com/hvardhan878/kevin</id>
-        <link href="https://github.com/hvardhan878/kevin"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Civilizationalists: How Tech Founders Are Fighting to Save the West [video]]]></title>
-        <id>https://www.youtube.com/watch?v=EI_QM0oMB48</id>
-        <link href="https://www.youtube.com/watch?v=EI_QM0oMB48"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Guide to Fine-Tuning LLMs]]></title>
-        <id>https://arxiv.org/abs/2408.13296</id>
-        <link href="https://arxiv.org/abs/2408.13296"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastra compromised in supply chain attack]]></title>
-        <id>https://www.endorlabs.com/learn/mastra-npm-org-compromised-multiple-packages-trojanized-to-drop-a-remote-payload-via-easy-day-js</id>
-        <link href="https://www.endorlabs.com/learn/mastra-npm-org-compromised-multiple-packages-trojanized-to-drop-a-remote-payload-via-easy-day-js"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Semiclassical Gravity Efficiently Solves NP-Complete Problems]]></title>
-        <id>https://arxiv.org/abs/2606.14806</id>
-        <link href="https://arxiv.org/abs/2606.14806"/>
+        <title type="html"><![CDATA[Chrome Extension That Disguises Claude as a Google Doc]]></title>
+        <id>https://twitter.com/om_patel5/status/2066011171967127643</id>
+        <link href="https://twitter.com/om_patel5/status/2066011171967127643"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
@@ -281,9 +162,191 @@
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome Extension That Disguises Claude as a Google Doc]]></title>
-        <id>https://twitter.com/om_patel5/status/2066011171967127643</id>
-        <link href="https://twitter.com/om_patel5/status/2066011171967127643"/>
+        <title type="html"><![CDATA[Semiclassical Gravity Efficiently Solves NP-Complete Problems]]></title>
+        <id>https://arxiv.org/abs/2606.14806</id>
+        <link href="https://arxiv.org/abs/2606.14806"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastra compromised in supply chain attack]]></title>
+        <id>https://www.endorlabs.com/learn/mastra-npm-org-compromised-multiple-packages-trojanized-to-drop-a-remote-payload-via-easy-day-js</id>
+        <link href="https://www.endorlabs.com/learn/mastra-npm-org-compromised-multiple-packages-trojanized-to-drop-a-remote-payload-via-easy-day-js"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Guide to Fine-Tuning LLMs]]></title>
+        <id>https://arxiv.org/abs/2408.13296</id>
+        <link href="https://arxiv.org/abs/2408.13296"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Civilizationalists: How Tech Founders Are Fighting to Save the West [video]]]></title>
+        <id>https://www.youtube.com/watch?v=EI_QM0oMB48</id>
+        <link href="https://www.youtube.com/watch?v=EI_QM0oMB48"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Kevin – Claude talk less. Save Money]]></title>
+        <id>https://github.com/hvardhan878/kevin</id>
+        <link href="https://github.com/hvardhan878/kevin"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Network Bandwidth Amazon GameLift Servers Is Here!]]></title>
+        <id>https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-free-network-bandwidth/</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-free-network-bandwidth/"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glucosamine linked to faster dementia progression]]></title>
+        <id>https://www.medicalnewstoday.com/articles/pain-supplement-glucosamine-linked-to-faster-dementia-progression</id>
+        <link href="https://www.medicalnewstoday.com/articles/pain-supplement-glucosamine-linked-to-faster-dementia-progression"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 annotations: attach rich, queryable context directly to your objects]]></title>
+        <id>https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/</id>
+        <link href="https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sparda – Turn any Express/FastAPI app into an MCP server in 3 minutes]]></title>
+        <id>https://github.com/zyx77550/sparda</id>
+        <link href="https://github.com/zyx77550/sparda"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox is easier than ever to customize]]></title>
+        <id>https://blog.mozilla.org/en/firefox/firefox-settings/</id>
+        <link href="https://blog.mozilla.org/en/firefox/firefox-settings/"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Stages of a Domain Expiration]]></title>
+        <id>https://medium.com/@thesuperrepemail/the-5-stages-of-a-domain-expiration-e1653544c605</id>
+        <link href="https://medium.com/@thesuperrepemail/the-5-stages-of-a-domain-expiration-e1653544c605"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLM-5.2: Frontier Intelligence, Open Weights]]></title>
+        <id>https://twitter.com/Zai_org/status/2066938937344495629</id>
+        <link href="https://twitter.com/Zai_org/status/2066938937344495629"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VibeThinker-3B achieves 80.2 on LCBv6]]></title>
+        <id>https://twitter.com/WeiboLLM/status/2066870851841274249</id>
+        <link href="https://twitter.com/WeiboLLM/status/2066870851841274249"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interview with Eugene Jarvis of Robotron, Defender and Stargate Fame]]></title>
+        <id>https://www.gamedeveloper.com/production/eugeneology-an-interview-with-eugene-jarvis</id>
+        <link href="https://www.gamedeveloper.com/production/eugeneology-an-interview-with-eugene-jarvis"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update: Acabei de abrir O SDK no GitHub → github.com/mathhMadureira/orka]]></title>
+        <id>https://news.ycombinator.com/item?id=48562337</id>
+        <link href="https://news.ycombinator.com/item?id=48562337"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Argent leviathan of 80.000 WebGL scales]]></title>
+        <id>https://sand-morph.up.railway.app/argent-leviathan</id>
+        <link href="https://sand-morph.up.railway.app/argent-leviathan"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Faces Billions in Penalties from Potential FTC Ad Suit]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Firefox Usage of Zlib-Rs for Better Safety and Performance]]></title>
+        <id>https://www.phoronix.com/news/Mozilla-Firefox-zlib-rs-Usage</id>
+        <link href="https://www.phoronix.com/news/Mozilla-Firefox-zlib-rs-Usage"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX valuation balloons to $2.6T, briefly passes Amazon]]></title>
+        <id>https://www.techsentiments.com/article/2026/06/16/spacex-valuation-balloons-to-26t-briefly-passes-amazon-fb2a</id>
+        <link href="https://www.techsentiments.com/article/2026/06/16/spacex-valuation-balloons-to-26t-briefly-passes-amazon-fb2a"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Enacts Guidance to Tighten Acceptance of New File-Systems into the Kernel]]></title>
+        <id>https://www.phoronix.com/news/Linux-New-File-System-Docs</id>
+        <link href="https://www.phoronix.com/news/Linux-New-File-System-Docs"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Academic freedom declined in 50 countries]]></title>
+        <id>https://academic-freedom-index.net/</id>
+        <link href="https://academic-freedom-index.net/"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fearless Concurrency on the GPU]]></title>
+        <id>https://arxiv.org/abs/2606.15991</id>
+        <link href="https://arxiv.org/abs/2606.15991"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Battery Impact of 50 Open GitHub Issues on an M3 Mac]]></title>
+        <id>https://gopeek-lovat.vercel.app/blog-github-issues-battery-m3-mac.html</id>
+        <link href="https://gopeek-lovat.vercel.app/blog-github-issues-battery-m3-mac.html"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-frontal face recognition using GANs and memristor-based classifiers]]></title>
+        <id>https://arxiv.org/abs/2606.12074</id>
+        <link href="https://arxiv.org/abs/2606.12074"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Origin – Cursor's GitHub Competitor]]></title>
+        <id>https://cursor.com/origin</id>
+        <link href="https://cursor.com/origin"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Detach]]></title>
+        <id>https://news.ycombinator.com/item?id=48566728</id>
+        <link href="https://news.ycombinator.com/item?id=48566728"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fastai: Style]]></title>
+        <id>https://docs.fast.ai/dev/style.html</id>
+        <link href="https://docs.fast.ai/dev/style.html"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
@@ -298,69 +361,6 @@
         <title type="html"><![CDATA[Bagging vs Boosting: The Complete Beginner’s Guide to Ensemble Learning in Machine Learning]]></title>
         <id>https://pub.towardsai.net/bagging-vs-boosting-the-complete-beginners-guide-to-ensemble-learning-in-machine-learning-d0a178387df4?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/bagging-vs-boosting-the-complete-beginners-guide-to-ensemble-learning-in-machine-learning-d0a178387df4?source=rss----98111c9905da---4"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Systems Are Quietly Becoming Distributed Systems]]></title>
-        <id>https://pub.towardsai.net/ai-systems-are-quietly-becoming-distributed-systems-75b42a7cb21e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ai-systems-are-quietly-becoming-distributed-systems-75b42a7cb21e?source=rss----98111c9905da---4"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of AI Is Stateful Infrastructure]]></title>
-        <id>https://pub.towardsai.net/the-future-of-ai-is-stateful-infrastructure-322139b7e493?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-future-of-ai-is-stateful-infrastructure-322139b7e493?source=rss----98111c9905da---4"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[datasette 1.0a34]]></title>
-        <id>https://simonwillison.net/2026/Jun/16/datasette/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/Jun/16/datasette/#atom-everything"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[datasette-tailscale 0.1a0]]></title>
-        <id>https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Informative Missingness to Generate Irregular Clinical Time Series]]></title>
-        <id>https://arxiv.org/abs/2606.17106</id>
-        <link href="https://arxiv.org/abs/2606.17106"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probing, Fusion, and Trustworthiness: A Systematic Evaluation of Foundation Model Representations for Multimodal Cancer Analysis]]></title>
-        <id>https://arxiv.org/abs/2606.17115</id>
-        <link href="https://arxiv.org/abs/2606.17115"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noise-Driven Escape from Metastable Phases explains Grokking in Deep Neural Networks]]></title>
-        <id>https://arxiv.org/abs/2606.17120</id>
-        <link href="https://arxiv.org/abs/2606.17120"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards Fast GNN Surrogates for CO2 Migration in Complex Geological Formations]]></title>
-        <id>https://arxiv.org/abs/2606.17180</id>
-        <link href="https://arxiv.org/abs/2606.17180"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems]]></title>
-        <id>https://arxiv.org/abs/2606.17182</id>
-        <link href="https://arxiv.org/abs/2606.17182"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
