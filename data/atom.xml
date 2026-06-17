@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-17T00:01:22.399Z</updated>
+    <updated>2026-06-17T02:01:26.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,79 +78,44 @@
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Guide to Fine-Tuning LLMs]]></title>
-        <id>https://arxiv.org/abs/2408.13296</id>
-        <link href="https://arxiv.org/abs/2408.13296"/>
+        <title type="html"><![CDATA[Linux Enacts Guidance to Tighten Acceptance of New File-Systems into the Kernel]]></title>
+        <id>https://www.phoronix.com/news/Linux-New-File-System-Docs</id>
+        <link href="https://www.phoronix.com/news/Linux-New-File-System-Docs"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The New Civilizationalists: How Tech Founders Are Fighting to Save the West [video]]]></title>
-        <id>https://www.youtube.com/watch?v=EI_QM0oMB48</id>
-        <link href="https://www.youtube.com/watch?v=EI_QM0oMB48"/>
+        <title type="html"><![CDATA[SpaceX valuation balloons to $2.6T, briefly passes Amazon]]></title>
+        <id>https://www.techsentiments.com/article/2026/06/16/spacex-valuation-balloons-to-26t-briefly-passes-amazon-fb2a</id>
+        <link href="https://www.techsentiments.com/article/2026/06/16/spacex-valuation-balloons-to-26t-briefly-passes-amazon-fb2a"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Kevin – Claude talk less. Save Money]]></title>
-        <id>https://github.com/hvardhan878/kevin</id>
-        <link href="https://github.com/hvardhan878/kevin"/>
+        <title type="html"><![CDATA[Mozilla Firefox Usage of Zlib-Rs for Better Safety and Performance]]></title>
+        <id>https://www.phoronix.com/news/Mozilla-Firefox-zlib-rs-Usage</id>
+        <link href="https://www.phoronix.com/news/Mozilla-Firefox-zlib-rs-Usage"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free Network Bandwidth Amazon GameLift Servers Is Here!]]></title>
-        <id>https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-free-network-bandwidth/</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-free-network-bandwidth/"/>
+        <title type="html"><![CDATA[Amazon Faces Billions in Penalties from Potential FTC Ad Suit]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Glucosamine linked to faster dementia progression]]></title>
-        <id>https://www.medicalnewstoday.com/articles/pain-supplement-glucosamine-linked-to-faster-dementia-progression</id>
-        <link href="https://www.medicalnewstoday.com/articles/pain-supplement-glucosamine-linked-to-faster-dementia-progression"/>
+        <title type="html"><![CDATA[Argent leviathan of 80.000 WebGL scales]]></title>
+        <id>https://sand-morph.up.railway.app/argent-leviathan</id>
+        <link href="https://sand-morph.up.railway.app/argent-leviathan"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon S3 annotations: attach rich, queryable context directly to your objects]]></title>
-        <id>https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/</id>
-        <link href="https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparda – Turn any Express/FastAPI app into an MCP server in 3 minutes]]></title>
-        <id>https://github.com/zyx77550/sparda</id>
-        <link href="https://github.com/zyx77550/sparda"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox is easier than ever to customize]]></title>
-        <id>https://blog.mozilla.org/en/firefox/firefox-settings/</id>
-        <link href="https://blog.mozilla.org/en/firefox/firefox-settings/"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Stages of a Domain Expiration]]></title>
-        <id>https://medium.com/@thesuperrepemail/the-5-stages-of-a-domain-expiration-e1653544c605</id>
-        <link href="https://medium.com/@thesuperrepemail/the-5-stages-of-a-domain-expiration-e1653544c605"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLM-5.2: Frontier Intelligence, Open Weights]]></title>
-        <id>https://twitter.com/Zai_org/status/2066938937344495629</id>
-        <link href="https://twitter.com/Zai_org/status/2066938937344495629"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VibeThinker-3B achieves 80.2 on LCBv6]]></title>
-        <id>https://twitter.com/WeiboLLM/status/2066870851841274249</id>
-        <link href="https://twitter.com/WeiboLLM/status/2066870851841274249"/>
+        <title type="html"><![CDATA[Update: Acabei de abrir O SDK no GitHub → github.com/mathhMadureira/orka]]></title>
+        <id>https://news.ycombinator.com/item?id=48562337</id>
+        <link href="https://news.ycombinator.com/item?id=48562337"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
@@ -162,9 +127,79 @@
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Update: Acabei de abrir O SDK no GitHub → github.com/mathhMadureira/orka]]></title>
-        <id>https://news.ycombinator.com/item?id=48562337</id>
-        <link href="https://news.ycombinator.com/item?id=48562337"/>
+        <title type="html"><![CDATA[VibeThinker-3B achieves 80.2 on LCBv6]]></title>
+        <id>https://twitter.com/WeiboLLM/status/2066870851841274249</id>
+        <link href="https://twitter.com/WeiboLLM/status/2066870851841274249"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLM-5.2: Frontier Intelligence, Open Weights]]></title>
+        <id>https://twitter.com/Zai_org/status/2066938937344495629</id>
+        <link href="https://twitter.com/Zai_org/status/2066938937344495629"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Stages of a Domain Expiration]]></title>
+        <id>https://medium.com/@thesuperrepemail/the-5-stages-of-a-domain-expiration-e1653544c605</id>
+        <link href="https://medium.com/@thesuperrepemail/the-5-stages-of-a-domain-expiration-e1653544c605"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox is easier than ever to customize]]></title>
+        <id>https://blog.mozilla.org/en/firefox/firefox-settings/</id>
+        <link href="https://blog.mozilla.org/en/firefox/firefox-settings/"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sparda – Turn any Express/FastAPI app into an MCP server in 3 minutes]]></title>
+        <id>https://github.com/zyx77550/sparda</id>
+        <link href="https://github.com/zyx77550/sparda"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 annotations: attach rich, queryable context directly to your objects]]></title>
+        <id>https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/</id>
+        <link href="https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glucosamine linked to faster dementia progression]]></title>
+        <id>https://www.medicalnewstoday.com/articles/pain-supplement-glucosamine-linked-to-faster-dementia-progression</id>
+        <link href="https://www.medicalnewstoday.com/articles/pain-supplement-glucosamine-linked-to-faster-dementia-progression"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Network Bandwidth Amazon GameLift Servers Is Here!]]></title>
+        <id>https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-free-network-bandwidth/</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-free-network-bandwidth/"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Kevin – Claude talk less. Save Money]]></title>
+        <id>https://github.com/hvardhan878/kevin</id>
+        <link href="https://github.com/hvardhan878/kevin"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Civilizationalists: How Tech Founders Are Fighting to Save the West [video]]]></title>
+        <id>https://www.youtube.com/watch?v=EI_QM0oMB48</id>
+        <link href="https://www.youtube.com/watch?v=EI_QM0oMB48"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Guide to Fine-Tuning LLMs]]></title>
+        <id>https://arxiv.org/abs/2408.13296</id>
+        <link href="https://arxiv.org/abs/2408.13296"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
@@ -190,107 +225,37 @@
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Java Collections Force: Mastering the Hidden Gems Like a Jedi]]></title>
-        <id>https://dev.to/timevolt/the-java-collections-force-mastering-the-hidden-gems-like-a-jedi-4438</id>
-        <link href="https://dev.to/timevolt/the-java-collections-force-mastering-the-hidden-gems-like-a-jedi-4438"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Unit Converter Taught Me Why Temperature Is Special — Linear Factors vs. Affine Transforms]]></title>
-        <id>https://dev.to/sendotltd/building-a-unit-converter-taught-me-why-temperature-is-special-linear-factors-vs-affine-2m7o</id>
-        <link href="https://dev.to/sendotltd/building-a-unit-converter-taught-me-why-temperature-is-special-linear-factors-vs-affine-2m7o"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot AI Credits Billing: When Heavy Agent Use Breaks the Budget (June 2026)]]></title>
-        <id>https://dev.to/bean_bean/github-copilot-ai-credits-billing-when-heavy-agent-use-breaks-the-budget-june-2026-4f01</id>
-        <link href="https://dev.to/bean_bean/github-copilot-ai-credits-billing-when-heavy-agent-use-breaks-the-budget-june-2026-4f01"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Factory Functions and Constructor Functions in JavaScript]]></title>
-        <id>https://dev.to/pearlodi/factory-functions-and-constructor-functions-in-javascript-lmb</id>
-        <link href="https://dev.to/pearlodi/factory-functions-and-constructor-functions-in-javascript-lmb"/>
+        <title type="html"><![CDATA[Objects in javascript]]></title>
+        <id>https://dev.to/kamalesh_ar_6252544786997/objects-in-javascript-2kc9</id>
+        <link href="https://dev.to/kamalesh_ar_6252544786997/objects-in-javascript-2kc9"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[I Mapped Home Prices Across 26,000 U.S. ZIP Codes. Here's What City Averages Are Hiding.]]></title>
-        <id>https://dev.to/michael_montgomery/i-mapped-home-prices-across-26000-us-zip-codes-heres-what-city-averages-are-hiding-1ej0</id>
-        <link href="https://dev.to/michael_montgomery/i-mapped-home-prices-across-26000-us-zip-codes-heres-what-city-averages-are-hiding-1ej0"/>
+        <id>https://dev.to/michael_montgomery/i-mapped-home-prices-across-26000-us-zip-codes-heres-what-city-averages-are-hiding-24nf</id>
+        <link href="https://dev.to/michael_montgomery/i-mapped-home-prices-across-26000-us-zip-codes-heres-what-city-averages-are-hiding-24nf"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Graph Image Sizes and Dimensions: The Complete 2026 Guide]]></title>
-        <id>https://dev.to/grabbit/open-graph-image-sizes-and-dimensions-the-complete-2026-guide-1k16</id>
-        <link href="https://dev.to/grabbit/open-graph-image-sizes-and-dimensions-the-complete-2026-guide-1k16"/>
+        <title type="html"><![CDATA[Make any website agent-ready in one line (WebMCP, navigator.modelContext)]]></title>
+        <id>https://dev.to/r0bertini/make-any-website-agent-ready-in-one-line-webmcp-navigatormodelcontext-i2b</id>
+        <link href="https://dev.to/r0bertini/make-any-website-agent-ready-in-one-line-webmcp-navigatormodelcontext-i2b"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a 100% Client-Side Web3 Security Tool with $0 Server Cost]]></title>
-        <id>https://dev.to/baseguard/how-i-built-a-100-client-side-web3-security-tool-with-0-server-cost-1a88</id>
-        <link href="https://dev.to/baseguard/how-i-built-a-100-client-side-web3-security-tool-with-0-server-cost-1a88"/>
+        <title type="html"><![CDATA[Scaling AI Content for Southeast Asia: The MoodFlow Story]]></title>
+        <id>https://dev.to/moodflow/scaling-ai-content-for-southeast-asia-the-moodflow-story-5bme</id>
+        <link href="https://dev.to/moodflow/scaling-ai-content-for-southeast-asia-the-moodflow-story-5bme"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JS Sorting Algorithms Every Developer Should Know]]></title>
-        <id>https://dev.to/markyu/js-sorting-algorithms-every-developer-should-know-1hol</id>
-        <link href="https://dev.to/markyu/js-sorting-algorithms-every-developer-should-know-1hol"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built Space Invaders in ~120 Lines of Vanilla JavaScript]]></title>
-        <id>https://dev.to/dev48v/i-built-space-invaders-in-120-lines-of-vanilla-javascript-5582</id>
-        <link href="https://dev.to/dev48v/i-built-space-invaders-in-120-lines-of-vanilla-javascript-5582"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Rebuilt Notion's Slash Menu (/) in ~70 Lines of JavaScript]]></title>
-        <id>https://dev.to/dev48v/i-rebuilt-notions-slash-menu-in-70-lines-of-javascript-2n9i</id>
-        <link href="https://dev.to/dev48v/i-rebuilt-notions-slash-menu-in-70-lines-of-javascript-2n9i"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built Live Captions in the Browser — No API Key, No Server]]></title>
-        <id>https://dev.to/dev48v/i-built-live-captions-in-the-browser-no-api-key-no-server-4i7n</id>
-        <link href="https://dev.to/dev48v/i-built-live-captions-in-the-browser-no-api-key-no-server-4i7n"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frontend Linear Data Structures Deep Dive: Arrays, Stacks, Queues, and Linked Lists]]></title>
-        <id>https://dev.to/markyu/frontend-linear-data-structures-deep-dive-arrays-stacks-queues-and-linked-lists-mp2</id>
-        <link href="https://dev.to/markyu/frontend-linear-data-structures-deep-dive-arrays-stacks-queues-and-linked-lists-mp2"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[File Operations at Scale: file-batch-toolkit]]></title>
-        <id>https://dev.to/lb1192176991lab/file-operations-at-scale-file-batch-toolkit-2aa7</id>
-        <link href="https://dev.to/lb1192176991lab/file-operations-at-scale-file-batch-toolkit-2aa7"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Node.js CLI Tools Every Data Analyst Should Know]]></title>
-        <id>https://dev.to/lb1192176991lab/5-nodejs-cli-tools-every-data-analyst-should-know-3ajd</id>
-        <link href="https://dev.to/lb1192176991lab/5-nodejs-cli-tools-every-data-analyst-should-know-3ajd"/>
-        <updated>2026-06-16T16:00:00.000Z</updated>
-        <published>2026-06-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go Concurrency: The Jedi’s Guide to Goroutines & Channels (May the Fork Be With You)]]></title>
-        <id>https://dev.to/timevolt/go-concurrency-the-jedis-guide-to-goroutines-channels-may-the-fork-be-with-you-2g79</id>
-        <link href="https://dev.to/timevolt/go-concurrency-the-jedis-guide-to-goroutines-channels-may-the-fork-be-with-you-2g79"/>
+        <title type="html"><![CDATA[I aggregated 250M+ company records from 40+ government registries — here are the tools I built]]></title>
+        <id>https://dev.to/alessandrobinda114/i-aggregated-250m-company-records-from-40-government-registries-here-are-the-tools-i-built-2bj6</id>
+        <link href="https://dev.to/alessandrobinda114/i-aggregated-250m-company-records-from-40-government-registries-here-are-the-tools-i-built-2bj6"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
@@ -302,66 +267,101 @@
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Scope of CSS @function]]></title>
-        <id>https://master.dev/blog/the-scope-of-css-function/</id>
-        <link href="https://master.dev/blog/the-scope-of-css-function/"/>
+        <title type="html"><![CDATA[Go Concurrency: The Jedi’s Guide to Goroutines & Channels (May the Fork Be With You)]]></title>
+        <id>https://dev.to/timevolt/go-concurrency-the-jedis-guide-to-goroutines-channels-may-the-fork-be-with-you-2g79</id>
+        <link href="https://dev.to/timevolt/go-concurrency-the-jedis-guide-to-goroutines-channels-may-the-fork-be-with-you-2g79"/>
         <updated>2026-06-16T16:00:00.000Z</updated>
         <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comcast Xfinity adds same-day delivery to get you online immediately]]></title>
-        <id>https://www.theverge.com/tech/950537/comcast-xfinity-same-day-router-delivery-availability-launch</id>
-        <link href="https://www.theverge.com/tech/950537/comcast-xfinity-same-day-router-delivery-availability-launch"/>
-        <updated>2026-06-15T16:00:00.000Z</updated>
-        <published>2026-06-15T16:00:00.000Z</published>
+        <title type="html"><![CDATA[5 Node.js CLI Tools Every Data Analyst Should Know]]></title>
+        <id>https://dev.to/lb1192176991lab/5-nodejs-cli-tools-every-data-analyst-should-know-3ajd</id>
+        <link href="https://dev.to/lb1192176991lab/5-nodejs-cli-tools-every-data-analyst-should-know-3ajd"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Schlage’s UWB-enabled smart lock launches this month]]></title>
-        <id>https://www.theverge.com/tech/950564/schlage-sense-pro-uwb-aliro-deadlock-price-availability</id>
-        <link href="https://www.theverge.com/tech/950564/schlage-sense-pro-uwb-aliro-deadlock-price-availability"/>
-        <updated>2026-06-15T16:00:00.000Z</updated>
-        <published>2026-06-15T16:00:00.000Z</published>
+        <title type="html"><![CDATA[File Operations at Scale: file-batch-toolkit]]></title>
+        <id>https://dev.to/lb1192176991lab/file-operations-at-scale-file-batch-toolkit-2aa7</id>
+        <link href="https://dev.to/lb1192176991lab/file-operations-at-scale-file-batch-toolkit-2aa7"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kodak’s collectible Charmera camera is getting new Y2K-inspired designs]]></title>
-        <id>https://www.theverge.com/tech/949664/kodak-charmera-digital-camera-millennium-edition-collectible</id>
-        <link href="https://www.theverge.com/tech/949664/kodak-charmera-digital-camera-millennium-edition-collectible"/>
-        <updated>2026-06-15T16:00:00.000Z</updated>
-        <published>2026-06-15T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Frontend Linear Data Structures Deep Dive: Arrays, Stacks, Queues, and Linked Lists]]></title>
+        <id>https://dev.to/markyu/frontend-linear-data-structures-deep-dive-arrays-stacks-queues-and-linked-lists-mp2</id>
+        <link href="https://dev.to/markyu/frontend-linear-data-structures-deep-dive-arrays-stacks-queues-and-linked-lists-mp2"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Big Tech’s desperate last push at AI regulation]]></title>
-        <id>https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress</id>
-        <link href="https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress"/>
-        <updated>2026-06-15T16:00:00.000Z</updated>
-        <published>2026-06-15T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built Live Captions in the Browser — No API Key, No Server]]></title>
+        <id>https://dev.to/dev48v/i-built-live-captions-in-the-browser-no-api-key-no-server-4i7n</id>
+        <link href="https://dev.to/dev48v/i-built-live-captions-in-the-browser-no-api-key-no-server-4i7n"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Chrome is closing the loopholes that let old ad blockers keep working]]></title>
-        <id>https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes</id>
-        <link href="https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes"/>
-        <updated>2026-06-15T16:00:00.000Z</updated>
-        <published>2026-06-15T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Rebuilt Notion's Slash Menu (/) in ~70 Lines of JavaScript]]></title>
+        <id>https://dev.to/dev48v/i-rebuilt-notions-slash-menu-in-70-lines-of-javascript-2n9i</id>
+        <link href="https://dev.to/dev48v/i-rebuilt-notions-slash-menu-in-70-lines-of-javascript-2n9i"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facebook’s new AI Mode search gets its info from public posts]]></title>
-        <id>https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook</id>
-        <link href="https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook"/>
-        <updated>2026-06-15T16:00:00.000Z</updated>
-        <published>2026-06-15T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built Space Invaders in ~120 Lines of Vanilla JavaScript]]></title>
+        <id>https://dev.to/dev48v/i-built-space-invaders-in-120-lines-of-vanilla-javascript-5582</id>
+        <link href="https://dev.to/dev48v/i-built-space-invaders-in-120-lines-of-vanilla-javascript-5582"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[After resurrecting an iconic PC brand, Commodore is getting into flip phones]]></title>
-        <id>https://www.theverge.com/tech/950190/commodore-callback-flip-phone</id>
-        <link href="https://www.theverge.com/tech/950190/commodore-callback-flip-phone"/>
-        <updated>2026-06-15T16:00:00.000Z</updated>
-        <published>2026-06-15T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JS Sorting Algorithms Every Developer Should Know]]></title>
+        <id>https://dev.to/markyu/js-sorting-algorithms-every-developer-should-know-1hol</id>
+        <link href="https://dev.to/markyu/js-sorting-algorithms-every-developer-should-know-1hol"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The new PopSockets grip is so thin you&#8217;ll forget it&#8217;s even there]]></title>
-        <id>https://www.theverge.com/tech/949305/popsockets-magnetic-magsafe-low-pro-grip-hands-on</id>
-        <link href="https://www.theverge.com/tech/949305/popsockets-magnetic-magsafe-low-pro-grip-hands-on"/>
-        <updated>2026-06-15T16:00:00.000Z</updated>
-        <published>2026-06-15T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How I Built a 100% Client-Side Web3 Security Tool with $0 Server Cost]]></title>
+        <id>https://dev.to/baseguard/how-i-built-a-100-client-side-web3-security-tool-with-0-server-cost-1a88</id>
+        <link href="https://dev.to/baseguard/how-i-built-a-100-client-side-web3-security-tool-with-0-server-cost-1a88"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Graph Image Sizes and Dimensions: The Complete 2026 Guide]]></title>
+        <id>https://dev.to/grabbit/open-graph-image-sizes-and-dimensions-the-complete-2026-guide-1k16</id>
+        <link href="https://dev.to/grabbit/open-graph-image-sizes-and-dimensions-the-complete-2026-guide-1k16"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Mapped Home Prices Across 26,000 U.S. ZIP Codes. Here's What City Averages Are Hiding.]]></title>
+        <id>https://dev.to/michael_montgomery/i-mapped-home-prices-across-26000-us-zip-codes-heres-what-city-averages-are-hiding-1ej0</id>
+        <link href="https://dev.to/michael_montgomery/i-mapped-home-prices-across-26000-us-zip-codes-heres-what-city-averages-are-hiding-1ej0"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Factory Functions and Constructor Functions in JavaScript]]></title>
+        <id>https://dev.to/pearlodi/factory-functions-and-constructor-functions-in-javascript-lmb</id>
+        <link href="https://dev.to/pearlodi/factory-functions-and-constructor-functions-in-javascript-lmb"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot AI Credits Billing: When Heavy Agent Use Breaks the Budget (June 2026)]]></title>
+        <id>https://dev.to/bean_bean/github-copilot-ai-credits-billing-when-heavy-agent-use-breaks-the-budget-june-2026-4f01</id>
+        <link href="https://dev.to/bean_bean/github-copilot-ai-credits-billing-when-heavy-agent-use-breaks-the-budget-june-2026-4f01"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Unit Converter Taught Me Why Temperature Is Special — Linear Factors vs. Affine Transforms]]></title>
+        <id>https://dev.to/sendotltd/building-a-unit-converter-taught-me-why-temperature-is-special-linear-factors-vs-affine-2m7o</id>
+        <link href="https://dev.to/sendotltd/building-a-unit-converter-taught-me-why-temperature-is-special-linear-factors-vs-affine-2m7o"/>
+        <updated>2026-06-16T16:00:00.000Z</updated>
+        <published>2026-06-16T16:00:00.000Z</published>
     </entry>
 </feed>
