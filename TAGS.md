@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-19 08:00:54。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-19 10:01:19。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -252,8 +252,8 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 )
 - [【Hacker News】Flutter-OTA-Code-Push,-Shorebird-Alternative-Open-Source-Flutter-Patcher](https://github.com/xuelinger2333/flutter_patcher)
 - [【Hacker News】Shorebird-in-Anger:-A-Production-Flutter-Code-Push-Integration](https://about.kikoff.com/build/shorebird-in-anger-a-production-flutter-code-push-integration)
-- [【Hacker News】Guitar-Tools-–-PWA-for-Scales,-Circle-of-Fifths-and-More](https://guitar-tools.eejalab.xyz/)
 - [【Hacker News】Canonical-takes-over-Flutter-desktop-maintenance](https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained)
+- [【Hacker News】Guitar-Tools-–-PWA-for-Scales,-Circle-of-Fifths-and-More](https://guitar-tools.eejalab.xyz/)
 - [【TechCrunch】Payments-startup-Flutterwave-hits-$3.2B-valuation,-backed-by-Ripple](https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/)
 - [......【查看更多】......](/details/tags/dev-mobile.md)
 
@@ -657,16 +657,17 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 
 - [【前端之巅】I-built-a-premium-AI-Dashboard-UI-Template-with-clean-file-separation.-Offering-it-100%-FREE!](https://dev.to/steven160118/i-built-a-premium-ai-dashboard-ui-template-with-clean-file-separation-offering-it-100-free-gae)
 - [【O'Reilly Radar】How-the-Pope’s-Magnifica-Humanitas-offers-a-template-for-individuals-to-meet-the-AI-moment](https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/)
-- [【Hacker News】"Cursor-for-X":-key-standards-for-vertical-products-offering-agent-workflows](https://alanyahya.com/writing/common-standards-vertical-agent-products)
+- [【Hacker News】Russian-Dandelion-plant-offers-solution-to-global-rubber-shortage](https://www.theguardian.com/science/2026/jun/17/plantwatch-russian-dandelion-solution-global-rubber-shortage)
 - [【Hacker News】HPE-offers-VMware-refugees-a-year-off-the-meter](https://www.theregister.com/virtualization/2026/06/15/hpe-offers-vmware-refugees-a-year-off-the-meter/5255460)
+- [【Hacker News】"Cursor-for-X":-key-standards-for-vertical-products-offering-agent-workflows](https://alanyahya.com/writing/common-standards-vertical-agent-products)
 - [【Hacker News】Former-OpenAI-board-member-says-Elon-Musk-offered-her-sperm-donations](https://www.bbc.co.uk/news/articles/c33243j44p8o)
 - [【Hacker News】Dealership-revoked-offer-to-buy-back-customer's-BMW,-blaming-wayward-AI-chatbot](https://www.cbc.ca/news/business/ai-chatbot-bmw-dealership-9.7230226)
 - [【Hacker News】Korea's-Hanwha-offers-rockets-in-bid-for-Canadian-submarine-deal](https://financialpost.com/transportation/hanwha-offers-rockets-bid-canadian-submarine-deal)
 - [【Hacker News】Delivery-Hero-confirms-takeover-offer-from-Uber](https://www.reuters.com/business/delivery-hero-confirms-takeover-offer-uber-2026-05-23/)
 - [【Hacker News】Sam-Altman-makes-'mic-drop'-offer-to-every-Y-Combinator-startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/)
 - [【TechCrunch】Microsoft-offers-devs-a-better-way-to-control-AI-agent-behavior](https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/)
-- [【TechCrunch】Sam-Altman-makes-‘mic-drop’-offer-to-every-Y-Combinator-startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/)
 - [【TechCrunch】The-Path,-founded-by-Tony-Robbins-and-Calm-alums,-hopes-to-offer-safer-AI-therapy](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/)
+- [【TechCrunch】Sam-Altman-makes-‘mic-drop’-offer-to-every-Y-Combinator-startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/)
 - [【Wired】Petlibro-Offers:-60%-Off-in-June](https://www.wired.com/story/petlibro-discount-code/)
 - [【Engadget】The-Mercedes-CLA-offers-great-EV-specs-for-an-average-price](https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs)
 - [【Engadget】Sony-is-offering-up-to-50-percent-off-some-of-our-favorite-PS5-games](https://www.theverge.com/gadgets/937711/cheap-ps5-games-sony-state-of-play-2026-sale-govee-lightwall-deal)
