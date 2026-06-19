@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-19 10:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-19 12:02:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## smol.ai
 
@@ -9,11 +9,11 @@
 - [2026-06-08-not-much-happened-today](https://news.smol.ai/issues/26-06-08-not-much/) 
 - [2026-06-05-not-much-happened-today](https://news.smol.ai/issues/26-06-05-not-much/) 
 - [2026-06-04-not-much-happened-today](https://news.smol.ai/issues/26-06-04-not-much/) 
-- [2026-06-02-Microsoft-Build:-MAI-Thinking-1-and-MAI-Family-models,-Surface-RTX-Spark-Dev-Box,-and-OpenClaw-in-Windows](https://news.smol.ai/issues/26-06-02-msft-mai-2/) 
 - [2026-06-02-not-much-happened-today](https://news.smol.ai/issues/26-06-03-not-much/) 
+- [2026-06-02-Microsoft-Build:-MAI-Thinking-1-and-MAI-Family-models,-Surface-RTX-Spark-Dev-Box,-and-OpenClaw-in-Windows](https://news.smol.ai/issues/26-06-02-msft-mai-2/) 
 - [2026-06-01-not-much-happened-today](https://news.smol.ai/issues/26-06-01-not-much/) 
 - [2026-05-29-not-much-happened-today](https://news.smol.ai/issues/26-05-29-not-much/) 
 - [2026-05-28-Anthropic-raises-$65B-in-Series-H-at-a-$965B-post-money-valuation,-releases-Opus-4.8-and-Dynamic-Workflows](https://news.smol.ai/issues/26-05-28-anthropic-series-h/) 
-- [2026-05-26-not-much-happened-today](https://news.smol.ai/issues/26-05-26-not-much/) 
 - [2026-05-26-not-much-happened-today](https://news.smol.ai/issues/26-05-27-not-much/) 
+- [2026-05-26-not-much-happened-today](https://news.smol.ai/issues/26-05-26-not-much/) 
 - [2026-05-21-not-much-happened-today](https://news.smol.ai/issues/26-05-21-not-much/) 
