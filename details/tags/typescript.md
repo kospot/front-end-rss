@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-20 15:02:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-20 18:01:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -77,6 +77,6 @@ https://aralroca.hashnode.dev/three-ways-to-convert-json-to-typescript-only-one-
 https://prickles.org/tenet/no-escape-hatches/T2
 ) 
 - [2026-06-12-Show-HN:-800x-faster-Linter-and-TypeScript-Go-toolchain-for-plugins-like-typia](https://github.com/samchon/ttsc) 
-- [2026-06-06-Show-HN:-Alternative-to-WebXR,-TypeScript-SDK-for-multi-user-VR-app-development](https://github.com/adamas-vr/runtime-interface) 
 - [2026-06-06-Amazon-Vinyl,-a-TypeScript-streaming-engine-for-HTML5-media](https://amazonmusic.github.io/vinyl/) 
+- [2026-06-06-Show-HN:-Alternative-to-WebXR,-TypeScript-SDK-for-multi-user-VR-app-development](https://github.com/adamas-vr/runtime-interface) 
 - [2026-05-30-Perry-Compiles-TypeScript-directly-to-executables-using-SWC-and-LLVM](https://www.perryts.com/) 

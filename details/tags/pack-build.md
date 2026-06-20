@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-20 15:02:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-20 18:01:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -74,11 +74,11 @@ https://github.com/jskits/vite-plugin-federation
 - [2026-06-08-NPM-Scan:-Detecting-Six-Major-NPM-Supply-Chain-Campaigns-June-2026](https://www.npmjs.com/package/@lateos/npm-scan) 
 - [2026-06-05-NPM-Scan-v1.1.0:-Four-New-Detectors-for-June-2026-Supply-Chain-Attacks](https://github.com/lateos-ai/npm-scan/blob/main/VALIDATION.md) 
 - [2026-06-04-Miasma-NPM-Supply-Chain-Attack:-Self-Spreading-Worm-via-Phantom-Gyp](https://www.stepsecurity.io/blog/binding-gyp-npm-supply-chain-attack-spreads-like-worm) 
-- [2026-06-02-Red-Hat-packages-backdoored-through-its-official-NPM-channel](https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/) 
 - [2026-06-02-Miasma-supply-chain-attack:-malicious-code-found-in-RedHat-cloud-services-NPM](https://snyk.io/blog/miasma-supply-chain-attack-malicious-code-redhat-cloud-services-npm-packages/) 
+- [2026-06-02-Red-Hat-packages-backdoored-through-its-official-NPM-channel](https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/) 
 - [2026-05-31-Show-HN:-Egress-WAF-to-limit-AI-agents-and-NPM-malware-based-on-mitmproxy](https://github.com/esamattis/mitmwall) 
 - [2026-05-30-NPM-Packages-Attacks](https://news.ycombinator.com/item?id=48333319) 
-- [2026-05-26-Pope-Leo-Compares-AI-Threat-to-Biblical-'Tower-of-Babel'](https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c) 
-- [2026-05-26-GSD-NPM-get-shit-done-cc-is-now-OpenGSD](https://www.opengsd.net/) 
 - [2026-05-26-Art-Template-NPM-Coruna-Browser-Exploit-Compromise](https://haltingproblems.com/analysis/art-template-coruna-npm-compromise/) 
+- [2026-05-26-GSD-NPM-get-shit-done-cc-is-now-OpenGSD](https://www.opengsd.net/) 
+- [2026-05-26-Pope-Leo-Compares-AI-Threat-to-Biblical-'Tower-of-Babel'](https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c) 
 - [2026-05-27-Why-the-Vatican-Invited-Anthropic-to-the-Pope’s-AI-Encyclical-Presentation](https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/) 
