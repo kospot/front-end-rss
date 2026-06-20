@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-20T15:02:45.008Z</updated>
+    <updated>2026-06-20T22:01:15.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,72 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Hue’s wired wall modules bring non-smart lights into its ecosystem]]></title>
-        <id>https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb</id>
-        <link href="https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’]]></title>
+        <id>https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/</id>
+        <link href="https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"/>
+        <updated>2026-06-20T16:00:00.000Z</updated>
+        <published>2026-06-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Founders Fund’s outlier bet on humanely killed fish]]></title>
+        <id>https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/</id>
+        <link href="https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"/>
+        <updated>2026-06-20T16:00:00.000Z</updated>
+        <published>2026-06-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a live interactive globe with JavaScript, SEO pages, and one-time payments]]></title>
+        <id>https://dev.to/zaghost/i-built-a-live-globe-where-people-leave-one-sentence-from-their-city-3hf8</id>
+        <link href="https://dev.to/zaghost/i-built-a-live-globe-where-people-leave-one-sentence-from-their-city-3hf8"/>
+        <updated>2026-06-20T16:00:00.000Z</updated>
+        <published>2026-06-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I just updated opencode-hexz and this whats new]]></title>
+        <id>https://dev.to/hexzonetwork/i-just-updated-opencode-hexz-and-this-whats-new-3d38</id>
+        <link href="https://dev.to/hexzonetwork/i-just-updated-opencode-hexz-and-this-whats-new-3d38"/>
+        <updated>2026-06-20T16:00:00.000Z</updated>
+        <published>2026-06-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Performance Mistakes Quietly Slowing Down Your Next.js Site (and How to Fix Each One)]]></title>
+        <id>https://dev.to/nxfold_9a37c0ceb3a755db04/5-performance-mistakes-quietly-slowing-down-your-nextjs-site-and-how-to-fix-each-one-1138</id>
+        <link href="https://dev.to/nxfold_9a37c0ceb3a755db04/5-performance-mistakes-quietly-slowing-down-your-nextjs-site-and-how-to-fix-each-one-1138"/>
+        <updated>2026-06-20T16:00:00.000Z</updated>
+        <published>2026-06-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building the Backend for a Project Management Tool — Express, Prisma, and the Mistakes I Made Along the Way]]></title>
+        <id>https://dev.to/chinwuba_jeffrey/building-the-backend-for-a-project-management-tool-express-prisma-and-the-mistakes-i-made-along-5gia</id>
+        <link href="https://dev.to/chinwuba_jeffrey/building-the-backend-for-a-project-management-tool-express-prisma-and-the-mistakes-i-made-along-5gia"/>
+        <updated>2026-06-20T16:00:00.000Z</updated>
+        <published>2026-06-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Immersive VR to Bloxd.io with BloxdVR: A Complete Developer Guide]]></title>
+        <id>https://dev.to/isiguzoflorence521gif/adding-immersive-vr-to-bloxdio-with-bloxdvr-a-complete-developer-guide-2lab</id>
+        <link href="https://dev.to/isiguzoflorence521gif/adding-immersive-vr-to-bloxdio-with-bloxdvr-a-complete-developer-guide-2lab"/>
+        <updated>2026-06-20T16:00:00.000Z</updated>
+        <published>2026-06-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PeerJS vs simple-peer vs @metered-ca/realtime: 3 WebRTC Libraries Compared]]></title>
+        <id>https://dev.to/alakkadshaw/peerjs-vs-simple-peer-vs-metered-carealtime-3-webrtc-libraries-compared-22fk</id>
+        <link href="https://dev.to/alakkadshaw/peerjs-vs-simple-peer-vs-metered-carealtime-3-webrtc-libraries-compared-22fk"/>
+        <updated>2026-06-20T16:00:00.000Z</updated>
+        <published>2026-06-20T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nothing cancels this year&#8217;s CMF phone due to RAM prices]]></title>
         <id>https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices</id>
         <link href="https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hue’s wired wall modules bring non-smart lights into its ecosystem]]></title>
+        <id>https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb</id>
+        <link href="https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
@@ -50,16 +106,16 @@
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aura’s impressive e-ink photo frame doesn’t even look digital]]></title>
-        <id>https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/</id>
-        <link href="https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"/>
+        <title type="html"><![CDATA[He made your free video player run smoothly. Now he’s doing that for robots.]]></title>
+        <id>https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/</id>
+        <link href="https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[He made your free video player run smoothly. Now he’s doing that for robots.]]></title>
-        <id>https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/</id>
-        <link href="https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/"/>
+        <title type="html"><![CDATA[Aura’s impressive e-ink photo frame doesn’t even look digital]]></title>
+        <id>https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/</id>
+        <link href="https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
@@ -305,62 +361,6 @@
         <title type="html"><![CDATA[Voxtral Realtime WebGPU – A Hugging Face Space by Mistralai]]></title>
         <id>https://huggingface.co/spaces/mistralai/Voxtral-Realtime-WebGPU</id>
         <link href="https://huggingface.co/spaces/mistralai/Voxtral-Realtime-WebGPU"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastodon 4.6 Released]]></title>
-        <id>https://lwn.net/Articles/1078466/</id>
-        <link href="https://lwn.net/Articles/1078466/"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made SHORT SQUEEZE, a finance movie trailer created with AI]]></title>
-        <id>https://www.instagram.com/reel/DZy5nOKN7Pz/</id>
-        <link href="https://www.instagram.com/reel/DZy5nOKN7Pz/"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is It Possible to Block Childrens' Access to Social Media? [video]]]></title>
-        <id>https://www.youtube.com/watch?v=2jJeSgO_MGo</id>
-        <link href="https://www.youtube.com/watch?v=2jJeSgO_MGo"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Pytest-tia – run only the tests your Git diff affects, with receipts]]></title>
-        <id>https://github.com/breadMSA/pytest-tia</id>
-        <link href="https://github.com/breadMSA/pytest-tia"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doom Composer Bobby Prince Has Died]]></title>
-        <id>https://www.engadget.com/2198098/doom-composer-bobby-prince-has-died/</id>
-        <link href="https://www.engadget.com/2198098/doom-composer-bobby-prince-has-died/"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Passport Stamp Archive, browse real border stamps from around the world]]></title>
-        <id>https://ajin.im/is/building/stamps/</id>
-        <link href="https://ajin.im/is/building/stamps/"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot and Dev Productivity: An Observational Dose-Response Analysis]]></title>
-        <id>https://arxiv.org/abs/2606.00438</id>
-        <link href="https://arxiv.org/abs/2606.00438"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Zero-config session-taste packer for AI agents]]></title>
-        <id>https://github.com/dvcoolarun/taste-ai</id>
-        <link href="https://github.com/dvcoolarun/taste-ai"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
