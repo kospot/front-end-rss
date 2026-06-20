@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-19T22:01:18.854Z</updated>
+    <updated>2026-06-20T00:01:05.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,30 +36,51 @@
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Book Review: Where's My Flying Car?]]></title>
-        <id>https://www.astralcodexten.com/p/your-book-review-wheres-my-flying</id>
-        <link href="https://www.astralcodexten.com/p/your-book-review-wheres-my-flying"/>
+        <title type="html"><![CDATA[Automating model design for edge AI]]></title>
+        <id>https://deepgate.ai/blog/neural-architecture-search</id>
+        <link href="https://deepgate.ai/blog/neural-architecture-search"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Bank Regulator Spoke at an Invite-Only Client Dinner After Fed Meeting]]></title>
-        <id>https://www.wsj.com/economy/central-banking/top-bank-regulator-spoke-at-an-invite-only-client-dinner-after-fed-meeting-9c7dc4a5</id>
-        <link href="https://www.wsj.com/economy/central-banking/top-bank-regulator-spoke-at-an-invite-only-client-dinner-after-fed-meeting-9c7dc4a5"/>
+        <title type="html"><![CDATA[Our edge AI compiler outperforms Google and vendor toolchains]]></title>
+        <id>https://deepgate.ai/blog/compiler</id>
+        <link href="https://deepgate.ai/blog/compiler"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pre-Modern Armies for Worldbuilders: Officials, Contractors and Professionals]]></title>
-        <id>https://acoup.blog/2026/06/19/collections-pre-modern-armies-for-worldbuilders-part-iib-officials-contractors-and-professionals/</id>
-        <link href="https://acoup.blog/2026/06/19/collections-pre-modern-armies-for-worldbuilders-part-iib-officials-contractors-and-professionals/"/>
+        <title type="html"><![CDATA[Get with the times – here's what a 'Luddite' means today]]></title>
+        <id>https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai</id>
+        <link href="https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trust Identity Protocol v1.0, an open post-quantum standard for human identity]]></title>
-        <id>https://theailab.org/whitepaper</id>
-        <link href="https://theailab.org/whitepaper"/>
+        <title type="html"><![CDATA[Boarding Pass Is a Skeleton Key. Frontier Airlines Doesn't Care]]></title>
+        <id>https://bobdahacker.com/blog/frontier-airlines-hack</id>
+        <link href="https://bobdahacker.com/blog/frontier-airlines-hack"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liquid glass that bends the page behind it as you scroll]]></title>
+        <id>https://codequest.work/generator/liquid-glass-css-generator/en/</id>
+        <link href="https://codequest.work/generator/liquid-glass-css-generator/en/"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algae clouded Trump's vision for the Reflecting Pool. scientists not surprised]]></title>
+        <id>https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump</id>
+        <link href="https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Ratchet – let an AI agent reflash your BIOS over a CH341A (MCP server)]]></title>
+        <id>https://github.com/jackulau/ratchet</id>
+        <link href="https://github.com/jackulau/ratchet"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
@@ -71,9 +92,44 @@
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Dropout: How Randomly Removing Neurons Helps Neural Networks Generalize Better]]></title>
-        <id>https://pub.towardsai.net/understanding-dropout-how-randomly-removing-neurons-helps-neural-networks-generalize-better-d8ecd3ef8328?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/understanding-dropout-how-randomly-removing-neurons-helps-neural-networks-generalize-better-d8ecd3ef8328?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Trust Identity Protocol v1.0, an open post-quantum standard for human identity]]></title>
+        <id>https://theailab.org/whitepaper</id>
+        <link href="https://theailab.org/whitepaper"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pre-Modern Armies for Worldbuilders: Officials, Contractors and Professionals]]></title>
+        <id>https://acoup.blog/2026/06/19/collections-pre-modern-armies-for-worldbuilders-part-iib-officials-contractors-and-professionals/</id>
+        <link href="https://acoup.blog/2026/06/19/collections-pre-modern-armies-for-worldbuilders-part-iib-officials-contractors-and-professionals/"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Bank Regulator Spoke at an Invite-Only Client Dinner After Fed Meeting]]></title>
+        <id>https://www.wsj.com/economy/central-banking/top-bank-regulator-spoke-at-an-invite-only-client-dinner-after-fed-meeting-9c7dc4a5</id>
+        <link href="https://www.wsj.com/economy/central-banking/top-bank-regulator-spoke-at-an-invite-only-client-dinner-after-fed-meeting-9c7dc4a5"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: Where's My Flying Car?]]></title>
+        <id>https://www.astralcodexten.com/p/your-book-review-wheres-my-flying</id>
+        <link href="https://www.astralcodexten.com/p/your-book-review-wheres-my-flying"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Running Local Models Is Good Now” Was Written on a 64GB Mac. Half of You Have 16GB or Less]]></title>
+        <id>https://pub.towardsai.net/running-local-models-is-good-now-was-written-on-a-64gb-mac-half-of-you-have-16gb-or-less-0c576f655821?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/running-local-models-is-good-now-was-written-on-a-64gb-mac-half-of-you-have-16gb-or-less-0c576f655821?source=rss----98111c9905da---4"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Minimum Viable Ontology: Building an Operating-Layer Knowledge Graph You Can Actually Trust]]></title>
+        <id>https://pub.towardsai.net/the-minimum-viable-ontology-building-an-operating-layer-knowledge-graph-you-can-actually-trust-379cc51a5eec?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-minimum-viable-ontology-building-an-operating-layer-knowledge-graph-you-can-actually-trust-379cc51a5eec?source=rss----98111c9905da---4"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
@@ -85,9 +141,9 @@
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Minimum Viable Ontology: Building an Operating-Layer Knowledge Graph You Can Actually Trust]]></title>
-        <id>https://pub.towardsai.net/the-minimum-viable-ontology-building-an-operating-layer-knowledge-graph-you-can-actually-trust-379cc51a5eec?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-minimum-viable-ontology-building-an-operating-layer-knowledge-graph-you-can-actually-trust-379cc51a5eec?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Understanding Dropout: How Randomly Removing Neurons Helps Neural Networks Generalize Better]]></title>
+        <id>https://pub.towardsai.net/understanding-dropout-how-randomly-removing-neurons-helps-neural-networks-generalize-better-d8ecd3ef8328?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/understanding-dropout-how-randomly-removing-neurons-helps-neural-networks-generalize-better-d8ecd3ef8328?source=rss----98111c9905da---4"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
@@ -162,37 +218,9 @@
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pseudoscientific Cancer ‘Treatment’ Involves Gassing Naked People in Plastic Bags With Bleach]]></title>
-        <id>https://www.wired.com/story/pseudoscientific-cancer-treatment-involves-gassing-naked-people-in-plastic-bags-with-bleach/</id>
-        <link href="https://www.wired.com/story/pseudoscientific-cancer-treatment-involves-gassing-naked-people-in-plastic-bags-with-bleach/"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members]]></title>
-        <id>https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/</id>
-        <link href="https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers]]></title>
-        <id>https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/</id>
-        <link href="https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump]]></title>
-        <id>https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/</id>
-        <link href="https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Quest Promo Codes and Coupons for June 2026]]></title>
-        <id>https://www.wired.com/story/meta-quest-promo-code/</id>
-        <link href="https://www.wired.com/story/meta-quest-promo-code/"/>
+        <title type="html"><![CDATA[Pump.Fun’s Bounties Platform Is a Black Hole of Circular Grifting]]></title>
+        <id>https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/</id>
+        <link href="https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
@@ -204,44 +232,37 @@
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pump.Fun’s Bounties Platform Is a Black Hole of Circular Grifting]]></title>
-        <id>https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/</id>
-        <link href="https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/"/>
+        <title type="html"><![CDATA[Meta Quest Promo Codes and Coupons for June 2026]]></title>
+        <id>https://www.wired.com/story/meta-quest-promo-code/</id>
+        <link href="https://www.wired.com/story/meta-quest-promo-code/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI inference startup Baseten reportedly raising $1.5B months after its last mega round]]></title>
-        <id>https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/</id>
-        <link href="https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/"/>
+        <title type="html"><![CDATA[Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump]]></title>
+        <id>https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snap spins off AI video team into new company, Dotmo, due to costs]]></title>
-        <id>https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/</id>
-        <link href="https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/"/>
+        <title type="html"><![CDATA[3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers]]></title>
+        <id>https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/</id>
+        <link href="https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rivian owners file lawsuit alleging false promises on self-driving features]]></title>
-        <id>https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/</id>
-        <link href="https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/"/>
+        <title type="html"><![CDATA[How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members]]></title>
+        <id>https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/</id>
+        <link href="https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI data centers just got a government-mandated fast lane to the grid]]></title>
-        <id>https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/</id>
-        <link href="https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone]]></title>
-        <id>https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/</id>
-        <link href="https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/"/>
+        <title type="html"><![CDATA[Pseudoscientific Cancer ‘Treatment’ Involves Gassing Naked People in Plastic Bags With Bleach]]></title>
+        <id>https://www.wired.com/story/pseudoscientific-cancer-treatment-involves-gassing-naked-people-in-plastic-bags-with-bleach/</id>
+        <link href="https://www.wired.com/story/pseudoscientific-cancer-treatment-involves-gassing-naked-people-in-plastic-bags-with-bleach/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
@@ -253,114 +274,93 @@
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Food for Agile Thought 549: Makers Manifesto, Open Knowledge Format]]></title>
-        <id>https://age-of-product.com/food-agile-thought-549-ai-product-2026/</id>
-        <link href="https://age-of-product.com/food-agile-thought-549-ai-product-2026/"/>
+        <title type="html"><![CDATA[‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone]]></title>
+        <id>https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/</id>
+        <link href="https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nikolai Evreinov, the 19th century Nathan Fielder]]></title>
-        <id>https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/</id>
-        <link href="https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/"/>
+        <title type="html"><![CDATA[AI data centers just got a government-mandated fast lane to the grid]]></title>
+        <id>https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/</id>
+        <link href="https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?]]></title>
-        <id>https://brainfrog.lol</id>
-        <link href="https://brainfrog.lol"/>
+        <title type="html"><![CDATA[Rivian owners file lawsuit alleging false promises on self-driving features]]></title>
+        <id>https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/</id>
+        <link href="https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[McDonald's is serving Fried Apple pie again for America's 250th birthday]]></title>
-        <id>https://apnews.com/article/mcdonalds-fried-apple-pie-america-250-962c7e82d7d5089bf63b2e7258f1c864</id>
-        <link href="https://apnews.com/article/mcdonalds-fried-apple-pie-america-250-962c7e82d7d5089bf63b2e7258f1c864"/>
+        <title type="html"><![CDATA[Snap spins off AI video team into new company, Dotmo, due to costs]]></title>
+        <id>https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/</id>
+        <link href="https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Italy's antitrust regulator probes Apple cloud services re: Digital Market rules]]></title>
-        <id>https://www.reuters.com/legal/litigation/italys-antitrust-regulator-probes-apple-over-cloud-services-under-digital-market-2026-06-16/</id>
-        <link href="https://www.reuters.com/legal/litigation/italys-antitrust-regulator-probes-apple-over-cloud-services-under-digital-market-2026-06-16/"/>
+        <title type="html"><![CDATA[AI inference startup Baseten reportedly raising $1.5B months after its last mega round]]></title>
+        <id>https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/</id>
+        <link href="https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Java Virtual Thread Pinning Trap (Performance Regression)]]></title>
-        <id>https://medium.com/@yalovoy/the-java-virtual-thread-pinning-trap-that-turns-your-loom-migration-into-a-performance-regression-e959bf3302b4</id>
-        <link href="https://medium.com/@yalovoy/the-java-virtual-thread-pinning-trap-that-turns-your-loom-migration-into-a-performance-regression-e959bf3302b4"/>
+        <title type="html"><![CDATA[How to Land a Frontier Lab Job]]></title>
+        <id>https://vladfeinberg.com/2026/05/10/how-to-land-a-job-at-a-frontier-lab.html</id>
+        <link href="https://vladfeinberg.com/2026/05/10/how-to-land-a-job-at-a-frontier-lab.html"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Shipped a Facebook Feature So Fast Sheryl Sandberg Called an Emergency Meeting]]></title>
-        <id>https://michaelnovati.substack.com/p/i-shipped-a-facebook-feature-so-fast</id>
-        <link href="https://michaelnovati.substack.com/p/i-shipped-a-facebook-feature-so-fast"/>
+        <title type="html"><![CDATA[Hashing at 130 GB/s with XXH3, Rust and AVX-512 on AMD Zen 5]]></title>
+        <id>https://kerkour.com/xxh3-zen5</id>
+        <link href="https://kerkour.com/xxh3-zen5"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Is Google's AI Mode and AI summaries now gone for everyone in EU?]]></title>
-        <id>https://news.ycombinator.com/item?id=48595587</id>
-        <link href="https://news.ycombinator.com/item?id=48595587"/>
+        <title type="html"><![CDATA[Fearless Concurrency Gets Real]]></title>
+        <id>https://clef-lang.com/blog/fearless-concurrency-gets-real/</id>
+        <link href="https://clef-lang.com/blog/fearless-concurrency-gets-real/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My suitcase robot gets high off a real gas sensor wired into the LLM sampler]]></title>
-        <id>https://old.reddit.com/r/LocalLLaMA/comments/1u9a17y/my_suitcase_robot_gets_high_now_off_a_real_gas/</id>
-        <link href="https://old.reddit.com/r/LocalLLaMA/comments/1u9a17y/my_suitcase_robot_gets_high_now_off_a_real_gas/"/>
+        <title type="html"><![CDATA[Good Software Takes Ten Years. Get Used to It]]></title>
+        <id>https://www.joelonsoftware.com/2001/07/21/good-software-takes-ten-years-get-used-to-it/</id>
+        <link href="https://www.joelonsoftware.com/2001/07/21/good-software-takes-ten-years-get-used-to-it/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Olympic Cyclist vs. Toaster: Can He Power It? [video]]]></title>
-        <id>https://www.youtube.com/watch?v=S4O5voOCqAQ</id>
-        <link href="https://www.youtube.com/watch?v=S4O5voOCqAQ"/>
+        <title type="html"><![CDATA[Show HN: Hacker News Comments Drill Down Chrome Extension]]></title>
+        <id>https://github.com/bachmitre/hacker-news-comments</id>
+        <link href="https://github.com/bachmitre/hacker-news-comments"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Went from zero interviews this year to landing 3 interviews this week]]></title>
-        <id>https://resume.metashark.io/</id>
-        <link href="https://resume.metashark.io/"/>
+        <title type="html"><![CDATA[My 1992 view of the problems of computer programming in 1992]]></title>
+        <id>https://blog.plover.com/prog/fortran-i.html</id>
+        <link href="https://blog.plover.com/prog/fortran-i.html"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Datasette-apps: Apps that live inside Datasette]]></title>
-        <id>https://github.com/datasette/datasette-apps</id>
-        <link href="https://github.com/datasette/datasette-apps"/>
+        <title type="html"><![CDATA[Show HN: Alert for real time application including video and audio]]></title>
+        <id>https://sf-voice.sh</id>
+        <link href="https://sf-voice.sh"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta's AI agent for WhatsApp Business is now available globally]]></title>
-        <id>https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/</id>
-        <link href="https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Datasette Apps: Host custom HTML applications inside Datasette]]></title>
-        <id>https://simonwillison.net/2026/Jun/18/datasette-apps/</id>
-        <link href="https://simonwillison.net/2026/Jun/18/datasette-apps/"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observation is the layer under taste. We built it for AI runtime]]></title>
-        <id>https://twitter.com/damnventures/status/2067394719756251468</id>
-        <link href="https://twitter.com/damnventures/status/2067394719756251468"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Captcha audio going nuts (concerning) [video]]]></title>
-        <id>https://www.youtube.com/shorts/lbPwZyNsCR0</id>
-        <link href="https://www.youtube.com/shorts/lbPwZyNsCR0"/>
+        <title type="html"><![CDATA[Nanowar of Steel – Kotlin (Official Power Point Video)]]></title>
+        <id>https://www.youtube.com/watch?v=BsfXZjKLT9A</id>
+        <link href="https://www.youtube.com/watch?v=BsfXZjKLT9A"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>

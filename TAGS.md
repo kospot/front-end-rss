@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-20 06:01:18。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-20 08:01:05。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -95,7 +95,7 @@
 - [【GitHub Trending JS】-SVAR-Vue-Gantt---Build-custom-Gantt-charts-for-project-scheduling-](
 https://github.com/svar-widgets/vue-gantt
 )
-- [【arXiv ML】Quantum-ring-all-reduce:-communication-and-privacy-advantages-for-distributed-learning](https://arxiv.org/abs/2606.20344)
+- [【arXiv ML】Direct-Advantage-Estimation-for-Scalable-and-Sample-efficient-Deep-Reinforcement-Learning](https://arxiv.org/abs/2606.20411)
 - [......【查看更多】......](/details/tags/vue.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -252,8 +252,8 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 )
 - [【Hacker News】Flutter-OTA-Code-Push,-Shorebird-Alternative-Open-Source-Flutter-Patcher](https://github.com/xuelinger2333/flutter_patcher)
 - [【Hacker News】Shorebird-in-Anger:-A-Production-Flutter-Code-Push-Integration](https://about.kikoff.com/build/shorebird-in-anger-a-production-flutter-code-push-integration)
-- [【Hacker News】Canonical-takes-over-Flutter-desktop-maintenance](https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained)
 - [【Hacker News】Guitar-Tools-–-PWA-for-Scales,-Circle-of-Fifths-and-More](https://guitar-tools.eejalab.xyz/)
+- [【Hacker News】Canonical-takes-over-Flutter-desktop-maintenance](https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained)
 - [【TechCrunch】Payments-startup-Flutterwave-hits-$3.2B-valuation,-backed-by-Ripple](https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/)
 - [......【查看更多】......](/details/tags/dev-mobile.md)
 
@@ -658,8 +658,8 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 - [【前端之巅】I-built-a-premium-AI-Dashboard-UI-Template-with-clean-file-separation.-Offering-it-100%-FREE!](https://dev.to/steven160118/i-built-a-premium-ai-dashboard-ui-template-with-clean-file-separation-offering-it-100-free-gae)
 - [【O'Reilly Radar】How-the-Pope’s-Magnifica-Humanitas-offers-a-template-for-individuals-to-meet-the-AI-moment](https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/)
 - [【Hacker News】Russian-Dandelion-plant-offers-solution-to-global-rubber-shortage](https://www.theguardian.com/science/2026/jun/17/plantwatch-russian-dandelion-solution-global-rubber-shortage)
-- [【Hacker News】HPE-offers-VMware-refugees-a-year-off-the-meter](https://www.theregister.com/virtualization/2026/06/15/hpe-offers-vmware-refugees-a-year-off-the-meter/5255460)
 - [【Hacker News】"Cursor-for-X":-key-standards-for-vertical-products-offering-agent-workflows](https://alanyahya.com/writing/common-standards-vertical-agent-products)
+- [【Hacker News】HPE-offers-VMware-refugees-a-year-off-the-meter](https://www.theregister.com/virtualization/2026/06/15/hpe-offers-vmware-refugees-a-year-off-the-meter/5255460)
 - [【Hacker News】Former-OpenAI-board-member-says-Elon-Musk-offered-her-sperm-donations](https://www.bbc.co.uk/news/articles/c33243j44p8o)
 - [【Hacker News】Dealership-revoked-offer-to-buy-back-customer's-BMW,-blaming-wayward-AI-chatbot](https://www.cbc.ca/news/business/ai-chatbot-bmw-dealership-9.7230226)
 - [【Hacker News】Korea's-Hanwha-offers-rockets-in-bid-for-Canadian-submarine-deal](https://financialpost.com/transportation/hanwha-offers-rockets-bid-canadian-submarine-deal)
