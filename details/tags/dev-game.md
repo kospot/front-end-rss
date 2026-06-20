@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-20 21:02:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-20 23:02:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -8,8 +8,8 @@
 
 
 - [2026-06-06-Building-an-AI-game-engine-with-Three.js](https://dev.to/mario_jgoestarosso_5c91/building-an-ai-game-engine-with-threejs-5162) 
-- [2026-06-01-We-built-a-fully-client-side-3D-Animation-Studio-on-Next.js-Three.js-+-WASM-Physics.](https://dev.to/gtausa197svg/we-built-a-fully-client-side-3d-animation-studio-on-nextjs-threejs-wasm-physics-4j19) 
 - [2026-06-01-How-we-built-a-diamond's-3-billion-year-journey-in-WebGL-Three.js-+-GSAP](https://dev.to/prodiamadmin/how-we-built-a-diamonds-3-billion-year-journey-in-webgl-threejs-gsap-2014) 
+- [2026-06-01-We-built-a-fully-client-side-3D-Animation-Studio-on-Next.js-Three.js-+-WASM-Physics.](https://dev.to/gtausa197svg/we-built-a-fully-client-side-3d-animation-studio-on-nextjs-threejs-wasm-physics-4j19) 
 - [2026-05-31-mrdoob/three.js](https://github.com/mrdoob/three.js) 
 - [2026-06-06-The-Hidden-Mathematics-Behind-a-Speaking-3D-AI-Avatar-in-Three.js](https://pub.towardsai.net/the-hidden-mathematics-behind-a-speaking-3d-ai-avatar-in-three-js-e9a6651e6725?source=rss----98111c9905da---4) 
 - [2026-06-04-Show-HN:-Code3DBench-–-single-image-to-executable-Three.js-benchmark](https://github.com/VladimirGl/Code3DBench) 
