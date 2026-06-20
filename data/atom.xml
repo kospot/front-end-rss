@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-20T02:02:13.219Z</updated>
+    <updated>2026-06-20T04:01:11.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,100 +43,37 @@
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tree Transformers]]></title>
-        <id>https://astledsa.substack.com/p/tree-transformers</id>
-        <link href="https://astledsa.substack.com/p/tree-transformers"/>
+        <title type="html"><![CDATA[Website –> Markdown Chrome Extension]]></title>
+        <id>https://chromewebstore.google.com/detail/save-to-yaps/baaheihmooadmcknelpapgdhoaeldipk</id>
+        <link href="https://chromewebstore.google.com/detail/save-to-yaps/baaheihmooadmcknelpapgdhoaeldipk"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Animaps: An open source travel map video maker]]></title>
-        <id>https://feralui.vercel.app/#/animaps</id>
-        <link href="https://feralui.vercel.app/#/animaps"/>
+        <title type="html"><![CDATA[How to Build REST APIs with Actix-Web in Rust]]></title>
+        <id>https://oneuptime.com/blog/post/2026-02-01-rust-actix-web-rest-api/view</id>
+        <link href="https://oneuptime.com/blog/post/2026-02-01-rust-actix-web-rest-api/view"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA['Digital Circus' Google easter egg]]></title>
-        <id>https://www.google.com/search?q=digital+circus</id>
-        <link href="https://www.google.com/search?q=digital+circus"/>
+        <title type="html"><![CDATA[Quantum sensor breakthrough could transform Army battlefield signal detection]]></title>
+        <id>https://www.army.mil/article/293021/quantum_sensor_breakthrough_could_transform_army_battlefield_signal_detection</id>
+        <link href="https://www.army.mil/article/293021/quantum_sensor_breakthrough_could_transform_army_battlefield_signal_detection"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A record 242 US cities now have starter homes that cost $1M]]></title>
-        <id>https://investors.zillowgroup.com/news-and-events/news/news-details/2026/A-record-242-US-cities-now-have-starter-homes-that-cost-1M/default.aspx</id>
-        <link href="https://investors.zillowgroup.com/news-and-events/news/news-details/2026/A-record-242-US-cities-now-have-starter-homes-that-cost-1M/default.aspx"/>
+        <title type="html"><![CDATA[Rewiring the Spine: The Tech Restoring Movement After Spinal Injury]]></title>
+        <id>https://www.allaboutcircuits.com/news/rewiring-the-spine-tech-restoring-movement-after-spinal-injury/</id>
+        <link href="https://www.allaboutcircuits.com/news/rewiring-the-spine-tech-restoring-movement-after-spinal-injury/"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Book Review: Where's My Flying Car?]]></title>
-        <id>https://www.astralcodexten.com/p/your-book-review-wheres-my-flying</id>
-        <link href="https://www.astralcodexten.com/p/your-book-review-wheres-my-flying"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Bank Regulator Spoke at an Invite-Only Client Dinner After Fed Meeting]]></title>
-        <id>https://www.wsj.com/economy/central-banking/top-bank-regulator-spoke-at-an-invite-only-client-dinner-after-fed-meeting-9c7dc4a5</id>
-        <link href="https://www.wsj.com/economy/central-banking/top-bank-regulator-spoke-at-an-invite-only-client-dinner-after-fed-meeting-9c7dc4a5"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pre-Modern Armies for Worldbuilders: Officials, Contractors and Professionals]]></title>
-        <id>https://acoup.blog/2026/06/19/collections-pre-modern-armies-for-worldbuilders-part-iib-officials-contractors-and-professionals/</id>
-        <link href="https://acoup.blog/2026/06/19/collections-pre-modern-armies-for-worldbuilders-part-iib-officials-contractors-and-professionals/"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trust Identity Protocol v1.0, an open post-quantum standard for human identity]]></title>
-        <id>https://theailab.org/whitepaper</id>
-        <link href="https://theailab.org/whitepaper"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini CLI vs. Claude Code: Why agent capabilities matter more than prompts]]></title>
-        <id>https://imaxxs.com/behavioral-induction-capabilities-shape-execution</id>
-        <link href="https://imaxxs.com/behavioral-induction-capabilities-shape-execution"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Ratchet – let an AI agent reflash your BIOS over a CH341A (MCP server)]]></title>
-        <id>https://github.com/jackulau/ratchet</id>
-        <link href="https://github.com/jackulau/ratchet"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algae clouded Trump's vision for the Reflecting Pool. scientists not surprised]]></title>
-        <id>https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump</id>
-        <link href="https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquid glass that bends the page behind it as you scroll]]></title>
-        <id>https://codequest.work/generator/liquid-glass-css-generator/en/</id>
-        <link href="https://codequest.work/generator/liquid-glass-css-generator/en/"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boarding Pass Is a Skeleton Key. Frontier Airlines Doesn't Care]]></title>
-        <id>https://bobdahacker.com/blog/frontier-airlines-hack</id>
-        <link href="https://bobdahacker.com/blog/frontier-airlines-hack"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get with the times – here's what a 'Luddite' means today]]></title>
-        <id>https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai</id>
-        <link href="https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai"/>
+        <title type="html"><![CDATA[Automating model design for edge AI]]></title>
+        <id>https://deepgate.ai/blog/neural-architecture-search</id>
+        <link href="https://deepgate.ai/blog/neural-architecture-search"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
@@ -148,9 +85,100 @@
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automating model design for edge AI]]></title>
-        <id>https://deepgate.ai/blog/neural-architecture-search</id>
-        <link href="https://deepgate.ai/blog/neural-architecture-search"/>
+        <title type="html"><![CDATA[Get with the times – here's what a 'Luddite' means today]]></title>
+        <id>https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai</id>
+        <link href="https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boarding Pass Is a Skeleton Key. Frontier Airlines Doesn't Care]]></title>
+        <id>https://bobdahacker.com/blog/frontier-airlines-hack</id>
+        <link href="https://bobdahacker.com/blog/frontier-airlines-hack"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liquid glass that bends the page behind it as you scroll]]></title>
+        <id>https://codequest.work/generator/liquid-glass-css-generator/en/</id>
+        <link href="https://codequest.work/generator/liquid-glass-css-generator/en/"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algae clouded Trump's vision for the Reflecting Pool. scientists not surprised]]></title>
+        <id>https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump</id>
+        <link href="https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Ratchet – let an AI agent reflash your BIOS over a CH341A (MCP server)]]></title>
+        <id>https://github.com/jackulau/ratchet</id>
+        <link href="https://github.com/jackulau/ratchet"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini CLI vs. Claude Code: Why agent capabilities matter more than prompts]]></title>
+        <id>https://imaxxs.com/behavioral-induction-capabilities-shape-execution</id>
+        <link href="https://imaxxs.com/behavioral-induction-capabilities-shape-execution"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trust Identity Protocol v1.0, an open post-quantum standard for human identity]]></title>
+        <id>https://theailab.org/whitepaper</id>
+        <link href="https://theailab.org/whitepaper"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pre-Modern Armies for Worldbuilders: Officials, Contractors and Professionals]]></title>
+        <id>https://acoup.blog/2026/06/19/collections-pre-modern-armies-for-worldbuilders-part-iib-officials-contractors-and-professionals/</id>
+        <link href="https://acoup.blog/2026/06/19/collections-pre-modern-armies-for-worldbuilders-part-iib-officials-contractors-and-professionals/"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Bank Regulator Spoke at an Invite-Only Client Dinner After Fed Meeting]]></title>
+        <id>https://www.wsj.com/economy/central-banking/top-bank-regulator-spoke-at-an-invite-only-client-dinner-after-fed-meeting-9c7dc4a5</id>
+        <link href="https://www.wsj.com/economy/central-banking/top-bank-regulator-spoke-at-an-invite-only-client-dinner-after-fed-meeting-9c7dc4a5"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: Where's My Flying Car?]]></title>
+        <id>https://www.astralcodexten.com/p/your-book-review-wheres-my-flying</id>
+        <link href="https://www.astralcodexten.com/p/your-book-review-wheres-my-flying"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A record 242 US cities now have starter homes that cost $1M]]></title>
+        <id>https://investors.zillowgroup.com/news-and-events/news/news-details/2026/A-record-242-US-cities-now-have-starter-homes-that-cost-1M/default.aspx</id>
+        <link href="https://investors.zillowgroup.com/news-and-events/news/news-details/2026/A-record-242-US-cities-now-have-starter-homes-that-cost-1M/default.aspx"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Digital Circus' Google easter egg]]></title>
+        <id>https://www.google.com/search?q=digital+circus</id>
+        <link href="https://www.google.com/search?q=digital+circus"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animaps: An open source travel map video maker]]></title>
+        <id>https://feralui.vercel.app/#/animaps</id>
+        <link href="https://feralui.vercel.app/#/animaps"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tree Transformers]]></title>
+        <id>https://astledsa.substack.com/p/tree-transformers</id>
+        <link href="https://astledsa.substack.com/p/tree-transformers"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
@@ -209,44 +237,23 @@ https://github.com/yankouskia/hurried
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🟢 Level 1 Tutorial — Limn Engine Beginner Guide]]></title>
-        <id>https://dev.to/kehinde_owolabi_e2e54567a/level-1-tutorial-limn-engine-beginner-guide-3lkd</id>
-        <link href="https://dev.to/kehinde_owolabi_e2e54567a/level-1-tutorial-limn-engine-beginner-guide-3lkd"/>
+        <title type="html"><![CDATA[How to open Google Maps in turn-by-turn navigation mode from a PWA (Android)]]></title>
+        <id>https://dev.to/luc45hn/how-to-open-google-maps-in-turn-by-turn-navigation-mode-from-a-pwa-android-16e0</id>
+        <link href="https://dev.to/luc45hn/how-to-open-google-maps-in-turn-by-turn-navigation-mode-from-a-pwa-android-16e0"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Compress Images in the Browser Using JavaScript]]></title>
-        <id>https://dev.to/khurram_shahbaz_2074590a5/how-to-compress-images-in-the-browser-using-javascript-1g11</id>
-        <link href="https://dev.to/khurram_shahbaz_2074590a5/how-to-compress-images-in-the-browser-using-javascript-1g11"/>
+        <title type="html"><![CDATA[Embed a Historical Exchange Rate Widget in Any Blog or Dashboard]]></title>
+        <id>https://dev.to/jenpo_zhan_aca905ad2a8a5b/embed-a-historical-exchange-rate-widget-in-any-blog-or-dashboard-i5d</id>
+        <link href="https://dev.to/jenpo_zhan_aca905ad2a8a5b/embed-a-historical-exchange-rate-widget-in-any-blog-or-dashboard-i5d"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java Collections: The Hidden Relics Most Developers Miss (And Why They’re Game‑Changers)]]></title>
-        <id>https://dev.to/timevolt/java-collections-the-hidden-relics-most-developers-miss-and-why-theyre-game-changers-4ehd</id>
-        <link href="https://dev.to/timevolt/java-collections-the-hidden-relics-most-developers-miss-and-why-theyre-game-changers-4ehd"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Types of Functions in JavaScript]]></title>
-        <id>https://dev.to/annapoo/types-of-functions-in-javascript-105</id>
-        <link href="https://dev.to/annapoo/types-of-functions-in-javascript-105"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test Nodemailer Email Flows in Playwright]]></title>
-        <id>https://dev.to/zerodrop/how-to-test-nodemailer-email-flows-in-playwright-563i</id>
-        <link href="https://dev.to/zerodrop/how-to-test-nodemailer-email-flows-in-playwright-563i"/>
-        <updated>2026-06-19T16:00:00.000Z</updated>
-        <published>2026-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing Email Flows in Cypress Without a Mail Server]]></title>
-        <id>https://dev.to/zerodrop/testing-email-flows-in-cypress-without-a-mail-server-1bik</id>
-        <link href="https://dev.to/zerodrop/testing-email-flows-in-cypress-without-a-mail-server-1bik"/>
+        <title type="html"><![CDATA[I built a Chrome extension that catches every dark pattern trick on shopping sites. Here's exactly how.]]></title>
+        <id>https://dev.to/carlos_lopez_e0907403c1b4/i-built-a-chrome-extension-that-catches-every-dark-pattern-trick-on-shopping-sites-heres-exactly-9ef</id>
+        <link href="https://dev.to/carlos_lopez_e0907403c1b4/i-built-a-chrome-extension-that-catches-every-dark-pattern-trick-on-shopping-sites-heres-exactly-9ef"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
@@ -258,9 +265,44 @@ https://github.com/yankouskia/hurried
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a Chrome extension that catches every dark pattern trick on shopping sites. Here's exactly how.]]></title>
-        <id>https://dev.to/carlos_lopez_e0907403c1b4/i-built-a-chrome-extension-that-catches-every-dark-pattern-trick-on-shopping-sites-heres-exactly-9ef</id>
-        <link href="https://dev.to/carlos_lopez_e0907403c1b4/i-built-a-chrome-extension-that-catches-every-dark-pattern-trick-on-shopping-sites-heres-exactly-9ef"/>
+        <title type="html"><![CDATA[Testing Email Flows in Cypress Without a Mail Server]]></title>
+        <id>https://dev.to/zerodrop/testing-email-flows-in-cypress-without-a-mail-server-1bik</id>
+        <link href="https://dev.to/zerodrop/testing-email-flows-in-cypress-without-a-mail-server-1bik"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test Nodemailer Email Flows in Playwright]]></title>
+        <id>https://dev.to/zerodrop/how-to-test-nodemailer-email-flows-in-playwright-563i</id>
+        <link href="https://dev.to/zerodrop/how-to-test-nodemailer-email-flows-in-playwright-563i"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Types of Functions in JavaScript]]></title>
+        <id>https://dev.to/annapoo/types-of-functions-in-javascript-105</id>
+        <link href="https://dev.to/annapoo/types-of-functions-in-javascript-105"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Collections: The Hidden Relics Most Developers Miss (And Why They’re Game‑Changers)]]></title>
+        <id>https://dev.to/timevolt/java-collections-the-hidden-relics-most-developers-miss-and-why-theyre-game-changers-4ehd</id>
+        <link href="https://dev.to/timevolt/java-collections-the-hidden-relics-most-developers-miss-and-why-theyre-game-changers-4ehd"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Compress Images in the Browser Using JavaScript]]></title>
+        <id>https://dev.to/khurram_shahbaz_2074590a5/how-to-compress-images-in-the-browser-using-javascript-1g11</id>
+        <link href="https://dev.to/khurram_shahbaz_2074590a5/how-to-compress-images-in-the-browser-using-javascript-1g11"/>
+        <updated>2026-06-19T16:00:00.000Z</updated>
+        <published>2026-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🟢 Level 1 Tutorial — Limn Engine Beginner Guide]]></title>
+        <id>https://dev.to/kehinde_owolabi_e2e54567a/level-1-tutorial-limn-engine-beginner-guide-3lkd</id>
+        <link href="https://dev.to/kehinde_owolabi_e2e54567a/level-1-tutorial-limn-engine-beginner-guide-3lkd"/>
         <updated>2026-06-19T16:00:00.000Z</updated>
         <published>2026-06-19T16:00:00.000Z</published>
     </entry>
@@ -331,48 +373,6 @@ https://github.com/yankouskia/hurried
         <title type="html"><![CDATA[Pseudoscientific Cancer ‘Treatment’ Involves Gassing Naked People in Plastic Bags With Bleach]]></title>
         <id>https://www.wired.com/story/pseudoscientific-cancer-treatment-involves-gassing-naked-people-in-plastic-bags-with-bleach/</id>
         <link href="https://www.wired.com/story/pseudoscientific-cancer-treatment-involves-gassing-naked-people-in-plastic-bags-with-bleach/"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI inference startup Baseten reportedly raising $1.5B months after its last mega round]]></title>
-        <id>https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/</id>
-        <link href="https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snap spins off AI video team into new company, Dotmo, due to costs]]></title>
-        <id>https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/</id>
-        <link href="https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rivian owners file lawsuit alleging false promises on self-driving features]]></title>
-        <id>https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/</id>
-        <link href="https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI data centers just got a government-mandated fast lane to the grid]]></title>
-        <id>https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/</id>
-        <link href="https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone]]></title>
-        <id>https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/</id>
-        <link href="https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/"/>
-        <updated>2026-06-18T16:00:00.000Z</updated>
-        <published>2026-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M]]></title>
-        <id>https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/</id>
-        <link href="https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/"/>
         <updated>2026-06-18T16:00:00.000Z</updated>
         <published>2026-06-18T16:00:00.000Z</published>
     </entry>
