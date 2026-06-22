@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-22T02:01:20.952Z</updated>
+    <updated>2026-06-22T04:01:21.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,149 +36,58 @@
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Josh helps Rust manage code across multiple repositories]]></title>
-        <id>https://blog.rust-lang.org/inside-rust/2026/06/04/how-josh-helps-rust-manage-code-across-multiple-repositories/</id>
-        <link href="https://blog.rust-lang.org/inside-rust/2026/06/04/how-josh-helps-rust-manage-code-across-multiple-repositories/"/>
+        <title type="html"><![CDATA[China targets U.S. firms in retaliation for Pentagon blacklist]]></title>
+        <id>https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html</id>
+        <link href="https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Banned All CI for Our (OSS) Org Because of Bad Drive-By Contributors]]></title>
-        <id>https://news.ycombinator.com/item?id=48624574</id>
-        <link href="https://news.ycombinator.com/item?id=48624574"/>
+        <title type="html"><![CDATA[ILX Launcher – a developer cockpit for Python apps (hot reload, crash capture)]]></title>
+        <id>https://github.com/ilxstudio/ILX-Launcher</id>
+        <link href="https://github.com/ilxstudio/ILX-Launcher"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Americans and AI 2026: Chatbots, Smart Devices and Views on Impact]]></title>
-        <id>https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/</id>
-        <link href="https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/"/>
+        <title type="html"><![CDATA[Test Post – Please Ignore]]></title>
+        <id>https://news.ycombinator.com/item?id=48625389</id>
+        <link href="https://news.ycombinator.com/item?id=48625389"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zombie unicorns are haunting Silicon Valley]]></title>
-        <id>https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley</id>
-        <link href="https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley"/>
+        <title type="html"><![CDATA[Show HN: Crespo – Tree-sitter AST blueprints instead of raw code for LLMs]]></title>
+        <id>https://github.com/hrudulmmn/crespo</id>
+        <link href="https://github.com/hrudulmmn/crespo"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crossary – AI-assisted field mapping that outputs signed Excel files]]></title>
-        <id>https://www.crossary.com</id>
-        <link href="https://www.crossary.com"/>
+        <title type="html"><![CDATA[Show HN: I applied Lyapunov stability theory to detect when LLM agents spiral]]></title>
+        <id>https://github.com/vishal-dehurdle/state-harness</id>
+        <link href="https://github.com/vishal-dehurdle/state-harness"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japan's Toto to invest $495M in chip materials, targeting 1-nm era]]></title>
-        <id>https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era</id>
-        <link href="https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era"/>
+        <title type="html"><![CDATA[Telegram founder accuses Meta of sabotaging access in India with BGP hijacks]]></title>
+        <id>https://www.theregister.com/networks/2026/06/19/telegram-founder-accuses-meta-of-sabotaging-access-in-india-with-bgp-hijacks/5258866</id>
+        <link href="https://www.theregister.com/networks/2026/06/19/telegram-founder-accuses-meta-of-sabotaging-access-in-india-with-bgp-hijacks/5258866"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remaking BBC test cards to teach you video processing]]></title>
-        <id>https://www.youtube.com/watch?v=U_6HxPkrgcg</id>
-        <link href="https://www.youtube.com/watch?v=U_6HxPkrgcg"/>
+        <title type="html"><![CDATA[Why Gen Z Is Nostalgic for a Digital World They Never Knew]]></title>
+        <id>https://decodingvibes.com/blog/genz-and-frutiger-aero/</id>
+        <link href="https://decodingvibes.com/blog/genz-and-frutiger-aero/"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2k retired Google Pixel phones get a second life as a private cloud]]></title>
-        <id>https://www.theregister.com/on-prem/2026/06/18/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud/5258035</id>
-        <link href="https://www.theregister.com/on-prem/2026/06/18/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud/5258035"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking their bodies for a longer life: is there science behind their methods?]]></title>
-        <id>https://www.nature.com/articles/d41586-026-01884-z</id>
-        <link href="https://www.nature.com/articles/d41586-026-01884-z"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World-first catch: new shark species]]></title>
-        <id>https://www.eurekalert.org/news-releases/1132305</id>
-        <link href="https://www.eurekalert.org/news-releases/1132305"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The notebooks Marie Curie filled with her research are still dangerous to touch]]></title>
-        <id>https://spacedaily.com/t-the-notebooks-marie-curie-used-in-her-research-remain-radioactively-contaminated-more-than-a-hundred-years-later-some-curie-papers-have-been-found-contaminated-with-radium-226-an-isotope-with-a-half/</id>
-        <link href="https://spacedaily.com/t-the-notebooks-marie-curie-used-in-her-research-remain-radioactively-contaminated-more-than-a-hundred-years-later-some-curie-papers-have-been-found-contaminated-with-radium-226-an-isotope-with-a-half/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jonathan Blow on why LLMs cannot program [video]]]></title>
-        <id>https://www.youtube.com/watch?v=DdjUDpU-as0</id>
-        <link href="https://www.youtube.com/watch?v=DdjUDpU-as0"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MsgMaster – an AI that turns your chaotic inbox into a prioritized workflow]]></title>
-        <id>https://msgmaster.ca/</id>
-        <link href="https://msgmaster.ca/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Is the hard part of adult friendship the second hangout?]]></title>
-        <id>https://news.ycombinator.com/item?id=48622679</id>
-        <link href="https://news.ycombinator.com/item?id=48622679"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSA chief says Mythos breached 'almost all' classified systems in hours]]></title>
-        <id>https://bankwatch.ca/2026/06/21/nsa-chief-says-mythos-breached-almost-all-classified-systems-in-hours/</id>
-        <link href="https://bankwatch.ca/2026/06/21/nsa-chief-says-mythos-breached-almost-all-classified-systems-in-hours/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop wasting tokens and re explaining your project between sessions]]></title>
-        <id>https://github.com/raiyanyahya/recall</id>
-        <link href="https://github.com/raiyanyahya/recall"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Against the Survival of the Prettiest]]></title>
-        <id>https://worksinprogress.co/issue/against-the-survival-of-the-prettiest/</id>
-        <link href="https://worksinprogress.co/issue/against-the-survival-of-the-prettiest/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's Z.ai open-sourced a frontier coding model as Washington bans it rival]]></title>
-        <id>https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/</id>
-        <link href="https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech Workers Are Fighting Against Silicon Valley's AI Push]]></title>
-        <id>https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/</id>
-        <link href="https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Lupen – an itemized, verified receipt for Claude Code and Codex spend]]></title>
-        <id>https://github.com/momoraul/Lupen</id>
-        <link href="https://github.com/momoraul/Lupen"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Petition against Meta's employee training data collection for ML models]]></title>
-        <id>https://mcipetition.com/</id>
-        <link href="https://mcipetition.com/"/>
+        <title type="html"><![CDATA[AStarGrid2D in Godot 4: The Complete Reference]]></title>
+        <id>https://vav-labs.com/blog/astargrid2d-complete-reference/</id>
+        <link href="https://vav-labs.com/blog/astargrid2d-complete-reference/"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
@@ -190,9 +99,149 @@
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AStarGrid2D in Godot 4: The Complete Reference]]></title>
-        <id>https://vav-labs.com/blog/astargrid2d-complete-reference/</id>
-        <link href="https://vav-labs.com/blog/astargrid2d-complete-reference/"/>
+        <title type="html"><![CDATA[Petition against Meta's employee training data collection for ML models]]></title>
+        <id>https://mcipetition.com/</id>
+        <link href="https://mcipetition.com/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Lupen – an itemized, verified receipt for Claude Code and Codex spend]]></title>
+        <id>https://github.com/momoraul/Lupen</id>
+        <link href="https://github.com/momoraul/Lupen"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech Workers Are Fighting Against Silicon Valley's AI Push]]></title>
+        <id>https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/</id>
+        <link href="https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China's Z.ai open-sourced a frontier coding model as Washington bans it rival]]></title>
+        <id>https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/</id>
+        <link href="https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Against the Survival of the Prettiest]]></title>
+        <id>https://worksinprogress.co/issue/against-the-survival-of-the-prettiest/</id>
+        <link href="https://worksinprogress.co/issue/against-the-survival-of-the-prettiest/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop wasting tokens and re explaining your project between sessions]]></title>
+        <id>https://github.com/raiyanyahya/recall</id>
+        <link href="https://github.com/raiyanyahya/recall"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSA chief says Mythos breached 'almost all' classified systems in hours]]></title>
+        <id>https://bankwatch.ca/2026/06/21/nsa-chief-says-mythos-breached-almost-all-classified-systems-in-hours/</id>
+        <link href="https://bankwatch.ca/2026/06/21/nsa-chief-says-mythos-breached-almost-all-classified-systems-in-hours/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Is the hard part of adult friendship the second hangout?]]></title>
+        <id>https://news.ycombinator.com/item?id=48622679</id>
+        <link href="https://news.ycombinator.com/item?id=48622679"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MsgMaster – an AI that turns your chaotic inbox into a prioritized workflow]]></title>
+        <id>https://msgmaster.ca/</id>
+        <link href="https://msgmaster.ca/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jonathan Blow on why LLMs cannot program [video]]]></title>
+        <id>https://www.youtube.com/watch?v=DdjUDpU-as0</id>
+        <link href="https://www.youtube.com/watch?v=DdjUDpU-as0"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The notebooks Marie Curie filled with her research are still dangerous to touch]]></title>
+        <id>https://spacedaily.com/t-the-notebooks-marie-curie-used-in-her-research-remain-radioactively-contaminated-more-than-a-hundred-years-later-some-curie-papers-have-been-found-contaminated-with-radium-226-an-isotope-with-a-half/</id>
+        <link href="https://spacedaily.com/t-the-notebooks-marie-curie-used-in-her-research-remain-radioactively-contaminated-more-than-a-hundred-years-later-some-curie-papers-have-been-found-contaminated-with-radium-226-an-isotope-with-a-half/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World-first catch: new shark species]]></title>
+        <id>https://www.eurekalert.org/news-releases/1132305</id>
+        <link href="https://www.eurekalert.org/news-releases/1132305"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking their bodies for a longer life: is there science behind their methods?]]></title>
+        <id>https://www.nature.com/articles/d41586-026-01884-z</id>
+        <link href="https://www.nature.com/articles/d41586-026-01884-z"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2k retired Google Pixel phones get a second life as a private cloud]]></title>
+        <id>https://www.theregister.com/on-prem/2026/06/18/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud/5258035</id>
+        <link href="https://www.theregister.com/on-prem/2026/06/18/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud/5258035"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remaking BBC test cards to teach you video processing]]></title>
+        <id>https://www.youtube.com/watch?v=U_6HxPkrgcg</id>
+        <link href="https://www.youtube.com/watch?v=U_6HxPkrgcg"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan's Toto to invest $495M in chip materials, targeting 1-nm era]]></title>
+        <id>https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era</id>
+        <link href="https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crossary – AI-assisted field mapping that outputs signed Excel files]]></title>
+        <id>https://www.crossary.com</id>
+        <link href="https://www.crossary.com"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zombie unicorns are haunting Silicon Valley]]></title>
+        <id>https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley</id>
+        <link href="https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Americans and AI 2026: Chatbots, Smart Devices and Views on Impact]]></title>
+        <id>https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/</id>
+        <link href="https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Banned All CI for Our (OSS) Org Because of Bad Drive-By Contributors]]></title>
+        <id>https://news.ycombinator.com/item?id=48624574</id>
+        <link href="https://news.ycombinator.com/item?id=48624574"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Josh helps Rust manage code across multiple repositories]]></title>
+        <id>https://blog.rust-lang.org/inside-rust/2026/06/04/how-josh-helps-rust-manage-code-across-multiple-repositories/</id>
+        <link href="https://blog.rust-lang.org/inside-rust/2026/06/04/how-josh-helps-rust-manage-code-across-multiple-repositories/"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
@@ -225,79 +274,23 @@
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code for Chrome Extension Development: AI Browser Tools]]></title>
-        <id>https://dev.to/claudeguide/claude-code-for-chrome-extension-development-ai-browser-tools-1lbl</id>
-        <link href="https://dev.to/claudeguide/claude-code-for-chrome-extension-development-ai-browser-tools-1lbl"/>
+        <title type="html"><![CDATA[CSV explained — the quirks that quietly corrupt your data (and how to avoid them)]]></title>
+        <id>https://dev.to/willivan0706/csv-explained-the-quirks-that-quietly-corrupt-your-data-and-how-to-avoid-them-1697</id>
+        <link href="https://dev.to/willivan0706/csv-explained-the-quirks-that-quietly-corrupt-your-data-and-how-to-avoid-them-1697"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Master TypeScript — Part 01]]></title>
-        <id>https://dev.to/mdhemalakhand1999/master-typescript-part-01-452g</id>
-        <link href="https://dev.to/mdhemalakhand1999/master-typescript-part-01-452g"/>
+        <title type="html"><![CDATA[How I Built a Digital Chinese Temple in Vanilla HTML/CSS/JS]]></title>
+        <id>https://dev.to/fan_ye_6ae49c11680f660770/how-i-built-a-digital-chinese-temple-in-vanilla-htmlcssjs-378b</id>
+        <link href="https://dev.to/fan_ye_6ae49c11680f660770/how-i-built-a-digital-chinese-temple-in-vanilla-htmlcssjs-378b"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Component Deep Dive #4: Tab Switcher — Seamless Multi-Content Panel Switching]]></title>
-        <id>https://dev.to/wdsega/component-deep-dive-4-tab-switcher-seamless-multi-content-panel-switching-1pjb</id>
-        <link href="https://dev.to/wdsega/component-deep-dive-4-tab-switcher-seamless-multi-content-panel-switching-1pjb"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Notes App with ctrodb, Tailwind CSS, and Vanilla JavaScript]]></title>
-        <id>https://dev.to/ctrotech/build-a-notes-app-with-ctrodb-tailwind-css-and-vanilla-javascript-2j5j</id>
-        <link href="https://dev.to/ctrotech/build-a-notes-app-with-ctrodb-tailwind-css-and-vanilla-javascript-2j5j"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a SaaS Template Marketplace with Next.js 14, Groq AI, and Stripe]]></title>
-        <id>https://dev.to/samymultiservice/how-i-built-a-saas-template-marketplace-with-nextjs-14-groq-ai-and-stripe-51hg</id>
-        <link href="https://dev.to/samymultiservice/how-i-built-a-saas-template-marketplace-with-nextjs-14-groq-ai-and-stripe-51hg"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Margin: A Privacy-First News Reader Inside Chrome's Side Panel]]></title>
-        <id>https://dev.to/mohanvenkatakrishnan/building-margin-a-privacy-first-news-reader-inside-chromes-side-panel-32c</id>
-        <link href="https://dev.to/mohanvenkatakrishnan/building-margin-a-privacy-first-news-reader-inside-chromes-side-panel-32c"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Free Tools to Get a Full TikTok Transcript in Seconds (2026)]]></title>
-        <id>https://dev.to/arif_molla_63a4bd549d66dd/5-free-tools-to-get-a-full-tiktok-transcript-in-seconds-2026-1o6l</id>
-        <link href="https://dev.to/arif_molla_63a4bd549d66dd/5-free-tools-to-get-a-full-tiktok-transcript-in-seconds-2026-1o6l"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why your monorepo audits are lying to you (and how to fix the rot)]]></title>
-        <id>https://dev.to/dreamlongyt/the-dependency-rot-in-your-monorepo-why-standard-audit-tools-miss-the-mark-2p00</id>
-        <link href="https://dev.to/dreamlongyt/the-dependency-rot-in-your-monorepo-why-standard-audit-tools-miss-the-mark-2p00"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting up socket.io]]></title>
-        <id>https://dev.to/chinwuba_jeffrey/setting-up-socketio-a42</id>
-        <link href="https://dev.to/chinwuba_jeffrey/setting-up-socketio-a42"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A fast, free uuid generator that works offline]]></title>
-        <id>https://dev.to/crypto_plato_26/a-fast-free-uuid-generator-that-works-offline-30i0</id>
-        <link href="https://dev.to/crypto_plato_26/a-fast-free-uuid-generator-that-works-offline-30i0"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🐍 Python Essentials for GenAI]]></title>
-        <id>https://dev.to/ajmal_hasan/python-essentials-for-genai-lji</id>
-        <link href="https://dev.to/ajmal_hasan/python-essentials-for-genai-lji"/>
+        <title type="html"><![CDATA[Taming AI Latency: Streaming Responses with Server-Sent Events]]></title>
+        <id>https://dev.to/__c1b9e06dc90a7e0a676b/taming-ai-latency-streaming-responses-with-server-sent-events-42d5</id>
+        <link href="https://dev.to/__c1b9e06dc90a7e0a676b/taming-ai-latency-streaming-responses-with-server-sent-events-42d5"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
@@ -309,59 +302,66 @@
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发]]></title>
-        <id>https://sspai.com/post/110972</id>
-        <link href="https://sspai.com/post/110972"/>
-        <updated>2026-06-20T16:00:00.000Z</updated>
-        <published>2026-06-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[🐍 Python Essentials for GenAI]]></title>
+        <id>https://dev.to/ajmal_hasan/python-essentials-for-genai-lji</id>
+        <link href="https://dev.to/ajmal_hasan/python-essentials-for-genai-lji"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If You’re Searching for a New Skillet, Consider Stainless Steel]]></title>
-        <id>https://www.wired.com/story/stainless-steel-skillets-are-great/</id>
-        <link href="https://www.wired.com/story/stainless-steel-skillets-are-great/"/>
-        <updated>2026-06-20T16:00:00.000Z</updated>
-        <published>2026-06-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A fast, free uuid generator that works offline]]></title>
+        <id>https://dev.to/crypto_plato_26/a-fast-free-uuid-generator-that-works-offline-30i0</id>
+        <link href="https://dev.to/crypto_plato_26/a-fast-free-uuid-generator-that-works-offline-30i0"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’]]></title>
-        <id>https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/</id>
-        <link href="https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"/>
-        <updated>2026-06-20T16:00:00.000Z</updated>
-        <published>2026-06-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Setting up socket.io]]></title>
+        <id>https://dev.to/chinwuba_jeffrey/setting-up-socketio-a42</id>
+        <link href="https://dev.to/chinwuba_jeffrey/setting-up-socketio-a42"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Founders Fund’s outlier bet on humanely killed fish]]></title>
-        <id>https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/</id>
-        <link href="https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"/>
-        <updated>2026-06-20T16:00:00.000Z</updated>
-        <published>2026-06-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Why your monorepo audits are lying to you (and how to fix the rot)]]></title>
+        <id>https://dev.to/dreamlongyt/the-dependency-rot-in-your-monorepo-why-standard-audit-tools-miss-the-mark-2p00</id>
+        <link href="https://dev.to/dreamlongyt/the-dependency-rot-in-your-monorepo-why-standard-audit-tools-miss-the-mark-2p00"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic to Require ID Verification for Certain Capabilities Starting July 8]]></title>
-        <id>https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/</id>
-        <link href="https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/"/>
-        <updated>2026-06-20T16:00:00.000Z</updated>
-        <published>2026-06-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[5 Free Tools to Get a Full TikTok Transcript in Seconds (2026)]]></title>
+        <id>https://dev.to/arif_molla_63a4bd549d66dd/5-free-tools-to-get-a-full-tiktok-transcript-in-seconds-2026-1o6l</id>
+        <link href="https://dev.to/arif_molla_63a4bd549d66dd/5-free-tools-to-get-a-full-tiktok-transcript-in-seconds-2026-1o6l"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A GitHub app that suggests code fixes for conversion failures]]></title>
-        <id>https://rejourney.co/demo/leaks</id>
-        <link href="https://rejourney.co/demo/leaks"/>
-        <updated>2026-06-20T16:00:00.000Z</updated>
-        <published>2026-06-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Building Margin: A Privacy-First News Reader Inside Chrome's Side Panel]]></title>
+        <id>https://dev.to/mohanvenkatakrishnan/building-margin-a-privacy-first-news-reader-inside-chromes-side-panel-32c</id>
+        <link href="https://dev.to/mohanvenkatakrishnan/building-margin-a-privacy-first-news-reader-inside-chromes-side-panel-32c"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safe SIMD in Rust, Even on the Inside – By Sergey "Shnatsel" Davidoff]]></title>
-        <id>https://shnatsel.medium.com/safe-simd-in-rust-even-on-the-inside-c6f1ff381828</id>
-        <link href="https://shnatsel.medium.com/safe-simd-in-rust-even-on-the-inside-c6f1ff381828"/>
-        <updated>2026-06-20T16:00:00.000Z</updated>
-        <published>2026-06-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How I Built a SaaS Template Marketplace with Next.js 14, Groq AI, and Stripe]]></title>
+        <id>https://dev.to/samymultiservice/how-i-built-a-saas-template-marketplace-with-nextjs-14-groq-ai-and-stripe-51hg</id>
+        <link href="https://dev.to/samymultiservice/how-i-built-a-saas-template-marketplace-with-nextjs-14-groq-ai-and-stripe-51hg"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Loomer "Loveless" (1991)]]></title>
-        <id>https://tohereknowswhen.org/tabs/loomer.html</id>
-        <link href="https://tohereknowswhen.org/tabs/loomer.html"/>
-        <updated>2026-06-20T16:00:00.000Z</updated>
-        <published>2026-06-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Build a Notes App with ctrodb, Tailwind CSS, and Vanilla JavaScript]]></title>
+        <id>https://dev.to/ctrotech/build-a-notes-app-with-ctrodb-tailwind-css-and-vanilla-javascript-2j5j</id>
+        <link href="https://dev.to/ctrotech/build-a-notes-app-with-ctrodb-tailwind-css-and-vanilla-javascript-2j5j"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Component Deep Dive #4: Tab Switcher — Seamless Multi-Content Panel Switching]]></title>
+        <id>https://dev.to/wdsega/component-deep-dive-4-tab-switcher-seamless-multi-content-panel-switching-1pjb</id>
+        <link href="https://dev.to/wdsega/component-deep-dive-4-tab-switcher-seamless-multi-content-panel-switching-1pjb"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
     </entry>
 </feed>
