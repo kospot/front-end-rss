@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-22T13:03:59.710Z</updated>
+    <updated>2026-06-22T15:02:46.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[OpenAI signs deal to show Getty's images in ChatGPT results]]></title>
-        <id>https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/</id>
-        <link href="https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/"/>
+        <title type="html"><![CDATA[Wyze’s new smart scale can break down your body composition for less than $80]]></title>
+        <id>https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition</id>
+        <link href="https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read this before you vibe-code another app]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
@@ -25,6 +32,13 @@
         <title type="html"><![CDATA[Polymarket has reportedly been paying creators to post fake betting videos]]></title>
         <id>https://www.engadget.com/2198495/wall-street-journal-polymarket-reportedly-paying-creators-to-post-fake-betting-videos/</id>
         <link href="https://www.engadget.com/2198495/wall-street-journal-polymarket-reportedly-paying-creators-to-post-fake-betting-videos/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI signs deal to show Getty's images in ChatGPT results]]></title>
+        <id>https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/</id>
+        <link href="https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
@@ -64,268 +78,51 @@
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Hitchhiker's Guide to the Galaxy – The Game – 30th Anniversary Edition]]></title>
-        <id>https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition</id>
-        <link href="https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition"/>
+        <title type="html"><![CDATA[Xfwl4's First Preview Release]]></title>
+        <id>https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release</id>
+        <link href="https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skillsoft Selling Global Knowledge Business to Enduring Ventures]]></title>
-        <id>https://www.businesswire.com/news/home/20260520936193/en/Skillsoft-Announces-Sale-of-Global-Knowledge-Business-to-Enduring-Ventures</id>
-        <link href="https://www.businesswire.com/news/home/20260520936193/en/Skillsoft-Announces-Sale-of-Global-Knowledge-Business-to-Enduring-Ventures"/>
+        <title type="html"><![CDATA['Don't Die,' Ballerina Farm and the theology of self-optimization]]></title>
+        <id>https://www.ncronline.org/culture/dont-die-ballerina-farm-and-theology-self-optimization</id>
+        <link href="https://www.ncronline.org/culture/dont-die-ballerina-farm-and-theology-self-optimization"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I rebuilt the only parts of my IDE I use, in Rust, over a weekend]]></title>
-        <id>https://github.com/kyle-ssg/kyde</id>
-        <link href="https://github.com/kyle-ssg/kyde"/>
+        <title type="html"><![CDATA[DHL Set to Transport Goods on New Wind-Powered Cargo Ships]]></title>
+        <id>https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0</id>
+        <link href="https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Engrym – a Markdown knowledge base your coding agent reads and writes]]></title>
-        <id>https://github.com/laleshii/engrym</id>
-        <link href="https://github.com/laleshii/engrym"/>
+        <title type="html"><![CDATA[There Are More than Five POVs: A little craft rant on points of view in fiction]]></title>
+        <id>https://countercraft.substack.com/p/there-are-more-than-five-povs</id>
+        <link href="https://countercraft.substack.com/p/there-are-more-than-five-povs"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prediction: A Frontier open-source LLM Will Be Released On 3rd December 2026]]></title>
-        <id>https://blog.doubleword.ai/frontier-os-llm</id>
-        <link href="https://blog.doubleword.ai/frontier-os-llm"/>
+        <title type="html"><![CDATA[Mechanical Flappy Bird [video]]]></title>
+        <id>https://www.youtube.com/watch?v=qcKArylBdE0</id>
+        <link href="https://www.youtube.com/watch?v=qcKArylBdE0"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cory Doctorow review – the real price of artificial intelligence]]></title>
-        <id>https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence</id>
-        <link href="https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence"/>
+        <title type="html"><![CDATA[Weather Replay: your time machine to revisit past weather]]></title>
+        <id>https://weather-replay.climate.copernicus.eu/</id>
+        <link href="https://weather-replay.climate.copernicus.eu/"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NimConf 2026: Extending Enu, and building 3D worlds with Claude]]></title>
-        <id>https://www.youtube.com/watch?v=kjOUEDfuzQI</id>
-        <link href="https://www.youtube.com/watch?v=kjOUEDfuzQI"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China targets U.S. firms in retaliation for Pentagon blacklist]]></title>
-        <id>https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html</id>
-        <link href="https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ILX Launcher – a developer cockpit for Python apps (hot reload, crash capture)]]></title>
-        <id>https://github.com/ilxstudio/ILX-Launcher</id>
-        <link href="https://github.com/ilxstudio/ILX-Launcher"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test Post – Please Ignore]]></title>
-        <id>https://news.ycombinator.com/item?id=48625389</id>
-        <link href="https://news.ycombinator.com/item?id=48625389"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Crespo – Tree-sitter AST blueprints instead of raw code for LLMs]]></title>
-        <id>https://github.com/hrudulmmn/crespo</id>
-        <link href="https://github.com/hrudulmmn/crespo"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I applied Lyapunov stability theory to detect when LLM agents spiral]]></title>
-        <id>https://github.com/vishal-dehurdle/state-harness</id>
-        <link href="https://github.com/vishal-dehurdle/state-harness"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram founder accuses Meta of sabotaging access in India with BGP hijacks]]></title>
-        <id>https://www.theregister.com/networks/2026/06/19/telegram-founder-accuses-meta-of-sabotaging-access-in-india-with-bgp-hijacks/5258866</id>
-        <link href="https://www.theregister.com/networks/2026/06/19/telegram-founder-accuses-meta-of-sabotaging-access-in-india-with-bgp-hijacks/5258866"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Gen Z Is Nostalgic for a Digital World They Never Knew]]></title>
-        <id>https://decodingvibes.com/blog/genz-and-frutiger-aero/</id>
-        <link href="https://decodingvibes.com/blog/genz-and-frutiger-aero/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AStarGrid2D in Godot 4: The Complete Reference]]></title>
-        <id>https://vav-labs.com/blog/astargrid2d-complete-reference/</id>
-        <link href="https://vav-labs.com/blog/astargrid2d-complete-reference/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: PeekAI – Local-first observability for Python AI agents]]></title>
-        <id>https://github.com/oussamaKH63/peekai</id>
-        <link href="https://github.com/oussamaKH63/peekai"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Petition against Meta's employee training data collection for ML models]]></title>
-        <id>https://mcipetition.com/</id>
-        <link href="https://mcipetition.com/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Lupen – an itemized, verified receipt for Claude Code and Codex spend]]></title>
-        <id>https://github.com/momoraul/Lupen</id>
-        <link href="https://github.com/momoraul/Lupen"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech Workers Are Fighting Against Silicon Valley's AI Push]]></title>
-        <id>https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/</id>
-        <link href="https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's Z.ai open-sourced a frontier coding model as Washington bans it rival]]></title>
-        <id>https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/</id>
-        <link href="https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Against the Survival of the Prettiest]]></title>
-        <id>https://worksinprogress.co/issue/against-the-survival-of-the-prettiest/</id>
-        <link href="https://worksinprogress.co/issue/against-the-survival-of-the-prettiest/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop wasting tokens and re explaining your project between sessions]]></title>
-        <id>https://github.com/raiyanyahya/recall</id>
-        <link href="https://github.com/raiyanyahya/recall"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSA chief says Mythos breached 'almost all' classified systems in hours]]></title>
-        <id>https://bankwatch.ca/2026/06/21/nsa-chief-says-mythos-breached-almost-all-classified-systems-in-hours/</id>
-        <link href="https://bankwatch.ca/2026/06/21/nsa-chief-says-mythos-breached-almost-all-classified-systems-in-hours/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Is the hard part of adult friendship the second hangout?]]></title>
-        <id>https://news.ycombinator.com/item?id=48622679</id>
-        <link href="https://news.ycombinator.com/item?id=48622679"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MsgMaster – an AI that turns your chaotic inbox into a prioritized workflow]]></title>
-        <id>https://msgmaster.ca/</id>
-        <link href="https://msgmaster.ca/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jonathan Blow on why LLMs cannot program [video]]]></title>
-        <id>https://www.youtube.com/watch?v=DdjUDpU-as0</id>
-        <link href="https://www.youtube.com/watch?v=DdjUDpU-as0"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The notebooks Marie Curie filled with her research are still dangerous to touch]]></title>
-        <id>https://spacedaily.com/t-the-notebooks-marie-curie-used-in-her-research-remain-radioactively-contaminated-more-than-a-hundred-years-later-some-curie-papers-have-been-found-contaminated-with-radium-226-an-isotope-with-a-half/</id>
-        <link href="https://spacedaily.com/t-the-notebooks-marie-curie-used-in-her-research-remain-radioactively-contaminated-more-than-a-hundred-years-later-some-curie-papers-have-been-found-contaminated-with-radium-226-an-isotope-with-a-half/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World-first catch: new shark species]]></title>
-        <id>https://www.eurekalert.org/news-releases/1132305</id>
-        <link href="https://www.eurekalert.org/news-releases/1132305"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking their bodies for a longer life: is there science behind their methods?]]></title>
-        <id>https://www.nature.com/articles/d41586-026-01884-z</id>
-        <link href="https://www.nature.com/articles/d41586-026-01884-z"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2k retired Google Pixel phones get a second life as a private cloud]]></title>
-        <id>https://www.theregister.com/on-prem/2026/06/18/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud/5258035</id>
-        <link href="https://www.theregister.com/on-prem/2026/06/18/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud/5258035"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remaking BBC test cards to teach you video processing]]></title>
-        <id>https://www.youtube.com/watch?v=U_6HxPkrgcg</id>
-        <link href="https://www.youtube.com/watch?v=U_6HxPkrgcg"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan's Toto to invest $495M in chip materials, targeting 1-nm era]]></title>
-        <id>https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era</id>
-        <link href="https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crossary – AI-assisted field mapping that outputs signed Excel files]]></title>
-        <id>https://www.crossary.com</id>
-        <link href="https://www.crossary.com"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zombie unicorns are haunting Silicon Valley]]></title>
-        <id>https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley</id>
-        <link href="https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Americans and AI 2026: Chatbots, Smart Devices and Views on Impact]]></title>
-        <id>https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/</id>
-        <link href="https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Banned All CI for Our (OSS) Org Because of Bad Drive-By Contributors]]></title>
-        <id>https://news.ycombinator.com/item?id=48624574</id>
-        <link href="https://news.ycombinator.com/item?id=48624574"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Josh helps Rust manage code across multiple repositories]]></title>
-        <id>https://blog.rust-lang.org/inside-rust/2026/06/04/how-josh-helps-rust-manage-code-across-multiple-repositories/</id>
-        <link href="https://blog.rust-lang.org/inside-rust/2026/06/04/how-josh-helps-rust-manage-code-across-multiple-repositories/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phones and Phonies: Commodore Shenanigans Through the Ages]]></title>
-        <id>https://www.datagubbe.se/commophone/</id>
-        <link href="https://www.datagubbe.se/commophone/"/>
+        <title type="html"><![CDATA[Search has its own bitter lesson]]></title>
+        <id>https://softwaredoug.com/blog/2026/06/12/incentives-in-search.html</id>
+        <link href="https://softwaredoug.com/blog/2026/06/12/incentives-in-search.html"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
@@ -337,30 +134,233 @@
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samsung Electronics brings ChatGPT and Codex to employees]]></title>
-        <id>https://openai.com/index/samsung-electronics-chatgpt-codex-deployment</id>
-        <link href="https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"/>
+        <title type="html"><![CDATA[Phones and Phonies: Commodore Shenanigans Through the Ages]]></title>
+        <id>https://www.datagubbe.se/commophone/</id>
+        <link href="https://www.datagubbe.se/commophone/"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Walls, Shields, and Illusions: Defenses and Their Limits]]></title>
-        <id>https://pub.towardsai.net/walls-shields-and-illusions-defenses-and-their-limits-cd67b6ec4f92?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/walls-shields-and-illusions-defenses-and-their-limits-cd67b6ec4f92?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Josh helps Rust manage code across multiple repositories]]></title>
+        <id>https://blog.rust-lang.org/inside-rust/2026/06/04/how-josh-helps-rust-manage-code-across-multiple-repositories/</id>
+        <link href="https://blog.rust-lang.org/inside-rust/2026/06/04/how-josh-helps-rust-manage-code-across-multiple-repositories/"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build Your Own Cursor This Weekend. Yes, the One SpaceX Just Paid $60 Billion For.]]></title>
-        <id>https://pub.towardsai.net/build-your-own-cursor-this-weekend-yes-the-one-spacex-just-paid-60-billion-for-2c9a93408d67?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/build-your-own-cursor-this-weekend-yes-the-one-spacex-just-paid-60-billion-for-2c9a93408d67?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[GitHub Banned All CI for Our (OSS) Org Because of Bad Drive-By Contributors]]></title>
+        <id>https://news.ycombinator.com/item?id=48624574</id>
+        <link href="https://news.ycombinator.com/item?id=48624574"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When a Sequence Is Not Enough: What Knowledge Graphs Add to Agentic Systems]]></title>
-        <id>https://pub.towardsai.net/when-a-sequence-is-not-enough-what-knowledge-graphs-add-to-agentic-systems-782af7e8bc9d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/when-a-sequence-is-not-enough-what-knowledge-graphs-add-to-agentic-systems-782af7e8bc9d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Americans and AI 2026: Chatbots, Smart Devices and Views on Impact]]></title>
+        <id>https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/</id>
+        <link href="https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zombie unicorns are haunting Silicon Valley]]></title>
+        <id>https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley</id>
+        <link href="https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crossary – AI-assisted field mapping that outputs signed Excel files]]></title>
+        <id>https://www.crossary.com</id>
+        <link href="https://www.crossary.com"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan's Toto to invest $495M in chip materials, targeting 1-nm era]]></title>
+        <id>https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era</id>
+        <link href="https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remaking BBC test cards to teach you video processing]]></title>
+        <id>https://www.youtube.com/watch?v=U_6HxPkrgcg</id>
+        <link href="https://www.youtube.com/watch?v=U_6HxPkrgcg"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2k retired Google Pixel phones get a second life as a private cloud]]></title>
+        <id>https://www.theregister.com/on-prem/2026/06/18/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud/5258035</id>
+        <link href="https://www.theregister.com/on-prem/2026/06/18/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud/5258035"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking their bodies for a longer life: is there science behind their methods?]]></title>
+        <id>https://www.nature.com/articles/d41586-026-01884-z</id>
+        <link href="https://www.nature.com/articles/d41586-026-01884-z"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World-first catch: new shark species]]></title>
+        <id>https://www.eurekalert.org/news-releases/1132305</id>
+        <link href="https://www.eurekalert.org/news-releases/1132305"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The notebooks Marie Curie filled with her research are still dangerous to touch]]></title>
+        <id>https://spacedaily.com/t-the-notebooks-marie-curie-used-in-her-research-remain-radioactively-contaminated-more-than-a-hundred-years-later-some-curie-papers-have-been-found-contaminated-with-radium-226-an-isotope-with-a-half/</id>
+        <link href="https://spacedaily.com/t-the-notebooks-marie-curie-used-in-her-research-remain-radioactively-contaminated-more-than-a-hundred-years-later-some-curie-papers-have-been-found-contaminated-with-radium-226-an-isotope-with-a-half/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jonathan Blow on why LLMs cannot program [video]]]></title>
+        <id>https://www.youtube.com/watch?v=DdjUDpU-as0</id>
+        <link href="https://www.youtube.com/watch?v=DdjUDpU-as0"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MsgMaster – an AI that turns your chaotic inbox into a prioritized workflow]]></title>
+        <id>https://msgmaster.ca/</id>
+        <link href="https://msgmaster.ca/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Is the hard part of adult friendship the second hangout?]]></title>
+        <id>https://news.ycombinator.com/item?id=48622679</id>
+        <link href="https://news.ycombinator.com/item?id=48622679"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSA chief says Mythos breached 'almost all' classified systems in hours]]></title>
+        <id>https://bankwatch.ca/2026/06/21/nsa-chief-says-mythos-breached-almost-all-classified-systems-in-hours/</id>
+        <link href="https://bankwatch.ca/2026/06/21/nsa-chief-says-mythos-breached-almost-all-classified-systems-in-hours/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop wasting tokens and re explaining your project between sessions]]></title>
+        <id>https://github.com/raiyanyahya/recall</id>
+        <link href="https://github.com/raiyanyahya/recall"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Against the Survival of the Prettiest]]></title>
+        <id>https://worksinprogress.co/issue/against-the-survival-of-the-prettiest/</id>
+        <link href="https://worksinprogress.co/issue/against-the-survival-of-the-prettiest/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China's Z.ai open-sourced a frontier coding model as Washington bans it rival]]></title>
+        <id>https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/</id>
+        <link href="https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech Workers Are Fighting Against Silicon Valley's AI Push]]></title>
+        <id>https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/</id>
+        <link href="https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Lupen – an itemized, verified receipt for Claude Code and Codex spend]]></title>
+        <id>https://github.com/momoraul/Lupen</id>
+        <link href="https://github.com/momoraul/Lupen"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Petition against Meta's employee training data collection for ML models]]></title>
+        <id>https://mcipetition.com/</id>
+        <link href="https://mcipetition.com/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: PeekAI – Local-first observability for Python AI agents]]></title>
+        <id>https://github.com/oussamaKH63/peekai</id>
+        <link href="https://github.com/oussamaKH63/peekai"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AStarGrid2D in Godot 4: The Complete Reference]]></title>
+        <id>https://vav-labs.com/blog/astargrid2d-complete-reference/</id>
+        <link href="https://vav-labs.com/blog/astargrid2d-complete-reference/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Gen Z Is Nostalgic for a Digital World They Never Knew]]></title>
+        <id>https://decodingvibes.com/blog/genz-and-frutiger-aero/</id>
+        <link href="https://decodingvibes.com/blog/genz-and-frutiger-aero/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram founder accuses Meta of sabotaging access in India with BGP hijacks]]></title>
+        <id>https://www.theregister.com/networks/2026/06/19/telegram-founder-accuses-meta-of-sabotaging-access-in-india-with-bgp-hijacks/5258866</id>
+        <link href="https://www.theregister.com/networks/2026/06/19/telegram-founder-accuses-meta-of-sabotaging-access-in-india-with-bgp-hijacks/5258866"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I applied Lyapunov stability theory to detect when LLM agents spiral]]></title>
+        <id>https://github.com/vishal-dehurdle/state-harness</id>
+        <link href="https://github.com/vishal-dehurdle/state-harness"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Crespo – Tree-sitter AST blueprints instead of raw code for LLMs]]></title>
+        <id>https://github.com/hrudulmmn/crespo</id>
+        <link href="https://github.com/hrudulmmn/crespo"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test Post – Please Ignore]]></title>
+        <id>https://news.ycombinator.com/item?id=48625389</id>
+        <link href="https://news.ycombinator.com/item?id=48625389"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ILX Launcher – a developer cockpit for Python apps (hot reload, crash capture)]]></title>
+        <id>https://github.com/ilxstudio/ILX-Launcher</id>
+        <link href="https://github.com/ilxstudio/ILX-Launcher"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China targets U.S. firms in retaliation for Pentagon blacklist]]></title>
+        <id>https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html</id>
+        <link href="https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NimConf 2026: Extending Enu, and building 3D worlds with Claude]]></title>
+        <id>https://www.youtube.com/watch?v=kjOUEDfuzQI</id>
+        <link href="https://www.youtube.com/watch?v=kjOUEDfuzQI"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cory Doctorow review – the real price of artificial intelligence]]></title>
+        <id>https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence</id>
+        <link href="https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
