@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-22 15:01:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-22 18:01:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-06-22-How-to-Estimate-Video-Length-From-Script-Word-Count](https://dev.to/hammadcgi/how-to-estimate-video-length-from-script-word-count-28h5) 
 - [2026-06-19-Building-a-real-time,-offline-drum-trainer-in-the-browser-with-Web-Audio-and-Web-MIDI](https://dev.to/joseph_anady_214bacedf939/building-a-real-time-offline-drum-trainer-in-the-browser-with-web-audio-and-web-midi-5clk) 
 - [2026-06-18-How-to-Read-a-webrtc-internals-Dump,-Section-by-Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a) 
 - [2026-06-16-I-built-an-AI-video-clip-finder-that-runs-100%-in-your-browser-—-no-uploads,-no-API,-no-GPU-costs](https://dev.to/__a570829a/i-built-an-ai-video-clip-finder-that-runs-100-in-your-browser-no-uploads-no-api-no-gpu-costs-101o) 
@@ -14,12 +15,12 @@
 - [2026-06-13-Zero-Server-Video-&amp;-Image-Conversion:-Harnessing-WebAssembly-for-Client-Side-HEIC/MOV-Processing](https://dev.to/lyyluca/zero-server-video-image-conversion-harnessing-webassembly-for-client-side-heicmov-processing-fo2) 
 - [2026-06-11-Detecting-WebRTC-IP-leaks-in-the-browser:-how-it-works-and-how-to-test-it](https://dev.to/ricco020/detecting-webrtc-ip-leaks-in-the-browser-how-it-works-and-how-to-test-it-2jg7) 
 - [2026-06-10-How-to-Transcribe-a-YouTube-Video-Free,-in-Under-a-Minute](https://dev.to/terryshine/how-to-transcribe-a-youtube-video-free-in-under-a-minute-co7) 
-- [2026-06-09-Spent-15-days-of-pure-vibecoding-to-merge-video-gacha-with-a-social-ecosystem.-Closed-Beta-is-out,-but-I'm-lowkey-terrified-about-the-core-loop.](https://dev.to/pullin/spent-15-days-of-pure-vibecoding-to-merge-video-gacha-with-a-social-ecosystem-closed-beta-is-out-1lkn) 
-- [2026-06-09-Instagram-Reels-&amp;-Audio-API-Tutorial:-Scrape-Reels,-Tracks-&amp;-Comments](https://dev.to/lucio1625ca399adfe4e/instagram-reels-audio-api-tutorial-scrape-reels-tracks-comments-a6e) 
 - [2026-06-09-Stop-Writing-Walls-of-Text:-How-AI-Whiteboard-Videos-Made-My-Side-Project-Docs-Actually-Useful](https://dev.to/adamji/stop-writing-walls-of-text-how-ai-whiteboard-videos-made-my-side-project-docs-actually-useful-13fb) 
+- [2026-06-09-Instagram-Reels-&amp;-Audio-API-Tutorial:-Scrape-Reels,-Tracks-&amp;-Comments](https://dev.to/lucio1625ca399adfe4e/instagram-reels-audio-api-tutorial-scrape-reels-tracks-comments-a6e) 
+- [2026-06-09-Spent-15-days-of-pure-vibecoding-to-merge-video-gacha-with-a-social-ecosystem.-Closed-Beta-is-out,-but-I'm-lowkey-terrified-about-the-core-loop.](https://dev.to/pullin/spent-15-days-of-pure-vibecoding-to-merge-video-gacha-with-a-social-ecosystem-closed-beta-is-out-1lkn) 
 - [2026-06-08-I-Built-a-Browser-to-Browser-Video-Chat-in-250-Lines-—-Zero-Backend,-Zero-SDKs,-Zero-Cost](https://dev.to/dev48v/i-built-a-browser-to-browser-video-chat-in-250-lines-zero-backend-zero-sdks-zero-cost-3h1b) 
-- [2026-06-07-Building-Forevers.app:-Turning-Still-Memories-Into-AI-Generated-Videos](https://dev.to/thesnowguru/building-foreversapp-turning-still-memories-into-ai-generated-videos-2glp) 
 - [2026-06-07-I-Built-a-Free-Video-Thumbnail-Generator-That-Never-Uploads-Your-Files](https://dev.to/safdarali25/i-built-a-free-video-thumbnail-generator-that-never-uploads-your-files-56pp) 
+- [2026-06-07-Building-Forevers.app:-Turning-Still-Memories-Into-AI-Generated-Videos](https://dev.to/thesnowguru/building-foreversapp-turning-still-memories-into-ai-generated-videos-2glp) 
 - [2026-06-04-WebRTC-Reconnect:-Auto-Heal-a-Call-|-@metered-ca/peer](https://dev.to/alakkadshaw/webrtc-reconnect-auto-heal-a-call-metered-capeer-36hh) 
 - [2026-06-03-How-we-compress-video-in-the-browser-—-and-why-nothing-gets-uploaded](https://dev.to/terryshine/how-we-compress-video-in-the-browser-and-why-nothing-gets-uploaded-2bc6) 
 - [2026-06-02-I-Built-a-Free-Bingo-Caller-Board-With-331-Audio-Clips-and-No-Backend](https://dev.to/forrestmiller/i-built-a-free-bingo-caller-board-with-331-audio-clips-and-no-backend-3dad) 
@@ -28,9 +29,9 @@
 - [2026-05-27-Reconciling-P2P-Collaborative-States-via-WebRTC-Data-Channels](https://dev.to/ebendttl/reconciling-p2p-collaborative-states-via-webrtc-data-channels-d5g) 
 - [2026-05-26-Why-your-browser-multitrack-audio-drifts-out-of-sync-and-how-to-fix-it](https://dev.to/alanwest/why-your-browser-multitrack-audio-drifts-out-of-sync-and-how-to-fix-it-48l5) 
 - [2026-05-25-Browser-Based-Video-Editor,-0-uploads..100%-Privacy](https://dev.to/robert_corn_2c1ef7ffc084b/browser-based-video-editor-0-uploads100-privacy-5bli) 
-- [2026-06-04-突破零样本-TTS-音色克隆上限：LongCat-AudioDiT-的声音克隆艺术](https://tech.meituan.com/2026/04/20/LongCat-AudioDiT.html) 
-- [2026-06-04-LARYBench-发布：定义具身动作表征-ImageNet，首次度量从人类视频学习的泛化表征](https://tech.meituan.com/2026/04/27/LongCat-LARYBench.html) 
 - [2026-06-04-从高拟真到真可用，LongCat-Video-Avatar-1.5-正式开源](https://tech.meituan.com/2026/05/25/LongCat-Video-Avatar-1.5.html) 
+- [2026-06-04-LARYBench-发布：定义具身动作表征-ImageNet，首次度量从人类视频学习的泛化表征](https://tech.meituan.com/2026/04/27/LongCat-LARYBench.html) 
+- [2026-06-04-突破零样本-TTS-音色克隆上限：LongCat-AudioDiT-的声音克隆艺术](https://tech.meituan.com/2026/04/20/LongCat-AudioDiT.html) 
 - [2026-05-25-从高拟真到真可用，LongCat-Video-Avatar-1.5-正式开源](https://tech.meituan.com/2026/05/25/longcat-video-avatar-1.5.html) 
 - [2026-06-19-Full-Self-Diagnostics-FSD:-Physics-Grounded-Visual-Biomarker-Inference-from-Smartphone-Video-via-Inverse-Problems-and-Operator-Learning](https://arxiv.org/abs/2606.19372) 
 - [2026-06-19-VCG:-A-Multimodal-Retrieval-Framework-for-E-Commerce-Video-Feeds-under-Extreme-Cold-Start-Conditions](https://arxiv.org/abs/2606.19627) 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-22T07:01:54.869Z</updated>
+    <updated>2026-06-22T10:01:40.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[World Cup Scams Are Getting Harder to Spot]]></title>
+        <id>https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/</id>
+        <link href="https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance]]></title>
         <id>https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/</id>
@@ -302,65 +309,58 @@
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering this, Constructors & Arrays in JavaScript]]></title>
-        <id>https://dev.to/ezhil_abinayak_e38eec8fb/mastering-this-constructors-arrays-in-javascript-30o8</id>
-        <link href="https://dev.to/ezhil_abinayak_e38eec8fb/mastering-this-constructors-arrays-in-javascript-30o8"/>
+        <title type="html"><![CDATA[Dynamic theming without CSS-in-JS]]></title>
+        <id>https://dev.to/kirill_c_7b35589230/dynamic-theming-without-css-in-js-d7e</id>
+        <link href="https://dev.to/kirill_c_7b35589230/dynamic-theming-without-css-in-js-d7e"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Browser Scroll Restoration Is Broken on SPAs. Here's How a Chrome Extension Fixes It.]]></title>
-        <id>https://dev.to/ktg0215/browser-scroll-restoration-is-broken-on-spas-heres-how-a-chrome-extension-fixes-it-578p</id>
-        <link href="https://dev.to/ktg0215/browser-scroll-restoration-is-broken-on-spas-heres-how-a-chrome-extension-fixes-it-578p"/>
+        <title type="html"><![CDATA[Navigating the Modern Digital Workflow: How to Stay Ahead in 2026]]></title>
+        <id>https://dev.to/darasem_9351c04dfc03d625e/navigating-the-modern-digital-workflow-how-to-stay-ahead-in-2026-1544</id>
+        <link href="https://dev.to/darasem_9351c04dfc03d625e/navigating-the-modern-digital-workflow-how-to-stay-ahead-in-2026-1544"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Cookie Tricks for Debugging Auth Issues in Chrome (No More Creating Test Accounts)]]></title>
-        <id>https://dev.to/ktg0215/5-cookie-tricks-for-debugging-auth-issues-in-chrome-no-more-creating-test-accounts-43b5</id>
-        <link href="https://dev.to/ktg0215/5-cookie-tricks-for-debugging-auth-issues-in-chrome-no-more-creating-test-accounts-43b5"/>
+        <title type="html"><![CDATA[Error Boundaries in Next.js App Router — Handling Failures Gracefully]]></title>
+        <id>https://dev.to/aon_infotech_3a1b6ff525fc/error-boundaries-in-nextjs-app-router-handling-failures-gracefully-3mif</id>
+        <link href="https://dev.to/aon_infotech_3a1b6ff525fc/error-boundaries-in-nextjs-app-router-handling-failures-gracefully-3mif"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circuit Breaker Explained Through Real Failure Experience]]></title>
-        <id>https://dev.to/neel-vekariya/circuit-breaker-explained-through-real-failure-experience-3aeg</id>
-        <link href="https://dev.to/neel-vekariya/circuit-breaker-explained-through-real-failure-experience-3aeg"/>
+        <title type="html"><![CDATA[Open-source MIT Gantt Charts for JavaScript, React, Angular, and Vue]]></title>
+        <id>https://dev.to/victoria_k_31e331d766411d/open-source-mit-gantt-charts-for-javascript-react-angular-and-vue-1hd4</id>
+        <link href="https://dev.to/victoria_k_31e331d766411d/open-source-mit-gantt-charts-for-javascript-react-angular-and-vue-1hd4"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Array Methods In Javascript]]></title>
-        <id>https://dev.to/madhanraj/array-methods-in-javascript-38n8</id>
-        <link href="https://dev.to/madhanraj/array-methods-in-javascript-38n8"/>
+        <title type="html"><![CDATA[How to Estimate Video Length From Script Word Count]]></title>
+        <id>https://dev.to/hammadcgi/how-to-estimate-video-length-from-script-word-count-28h5</id>
+        <link href="https://dev.to/hammadcgi/how-to-estimate-video-length-from-script-word-count-28h5"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is a trusted seller to buy a verified cash app account-SmmBusinessPro]]></title>
-        <id>https://dev.to/md_rabbani_a67e124f1467ae/what-is-a-trusted-seller-to-buy-a-verified-cash-app-account-smmbusinesspro-3164</id>
-        <link href="https://dev.to/md_rabbani_a67e124f1467ae/what-is-a-trusted-seller-to-buy-a-verified-cash-app-account-smmbusinesspro-3164"/>
+        <title type="html"><![CDATA[JavaScript Bundling Explained — From Zero to Optimised]]></title>
+        <id>https://dev.to/kavya1205/javascript-bundling-explained-from-zero-to-optimised-f7p</id>
+        <link href="https://dev.to/kavya1205/javascript-bundling-explained-from-zero-to-optimised-f7p"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Architecting Low-Latency Real-Time Event Analytics at Scale: From Edge RFID to WebSockets]]></title>
-        <id>https://dev.to/stampiq/architecting-low-latency-real-time-event-analytics-at-scale-from-edge-rfid-to-websockets-3098</id>
-        <link href="https://dev.to/stampiq/architecting-low-latency-real-time-event-analytics-at-scale-from-edge-rfid-to-websockets-3098"/>
+        <title type="html"><![CDATA[Full-Stack Developer Wanted: Remote, Flexible, $3000 to $7000 per month]]></title>
+        <id>https://dev.to/kyndrx/full-stack-developer-wanted-remote-flexible-3000-to-7000-per-month-2ek6</id>
+        <link href="https://dev.to/kyndrx/full-stack-developer-wanted-remote-flexible-3000-to-7000-per-month-2ek6"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Southeast Asia is the Next Big AI Content Market]]></title>
-        <id>https://dev.to/moodflow/why-southeast-asia-is-the-next-big-ai-content-market-mp5</id>
-        <link href="https://dev.to/moodflow/why-southeast-asia-is-the-next-big-ai-content-market-mp5"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Content Quality Scoring System: How PostAll Ensures Output Standards]]></title>
-        <id>https://dev.to/aakash_gour/building-a-content-quality-scoring-system-how-postall-ensures-output-standards-12om</id>
-        <link href="https://dev.to/aakash_gour/building-a-content-quality-scoring-system-how-postall-ensures-output-standards-12om"/>
+        <title type="html"><![CDATA[CSV explained — the quirks that quietly corrupt your data (and how to avoid them)]]></title>
+        <id>https://dev.to/willivan0706/csv-explained-the-quirks-that-quietly-corrupt-your-data-and-how-to-avoid-them-1697</id>
+        <link href="https://dev.to/willivan0706/csv-explained-the-quirks-that-quietly-corrupt-your-data-and-how-to-avoid-them-1697"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
