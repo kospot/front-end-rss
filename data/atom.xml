@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-23T07:02:26.787Z</updated>
+    <updated>2026-06-23T10:01:12.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[AI is cursing renters with the promise of impossible homes]]></title>
-        <id>https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings</id>
-        <link href="https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Steam Machine is the start of an even more expensive future for game consoles]]></title>
-        <id>https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix</id>
-        <link href="https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix"/>
+        <title type="html"><![CDATA[Nvidia says its AI data center design runs hotter to use a lot less water]]></title>
+        <id>https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling</id>
+        <link href="https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -36,30 +29,30 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia says its AI data center design runs hotter to use a lot less water]]></title>
-        <id>https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling</id>
-        <link href="https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling"/>
+        <title type="html"><![CDATA[The Steam Machine is the start of an even more expensive future for game consoles]]></title>
+        <id>https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix</id>
+        <link href="https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Pauses Employee-Tracking Program Following Internal Data Leak]]></title>
-        <id>https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</id>
-        <link href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"/>
+        <title type="html"><![CDATA[AI is cursing renters with the promise of impossible homes]]></title>
+        <id>https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings</id>
+        <link href="https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Exposed Data Internally From Its Controversial Employee-Tracking Program]]></title>
-        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
-        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
+        <title type="html"><![CDATA[Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More]]></title>
+        <id>https://www.wired.com/story/best-prime-day-apple-deals-2026/</id>
+        <link href="https://www.wired.com/story/best-prime-day-apple-deals-2026/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-mushroom-coffee/</id>
-        <link href="https://www.wired.com/gallery/best-mushroom-coffee/"/>
+        <title type="html"><![CDATA[A Source of Mysterious Repeating Radio Signals From Space Has Been Identified]]></title>
+        <id>https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/</id>
+        <link href="https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -71,9 +64,23 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Source of Mysterious Repeating Radio Signals From Space Has Been Identified]]></title>
-        <id>https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/</id>
-        <link href="https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/"/>
+        <title type="html"><![CDATA[We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)]]></title>
+        <id>https://www.wired.com/gallery/best-mushroom-coffee/</id>
+        <link href="https://www.wired.com/gallery/best-mushroom-coffee/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Exposed Data Internally From Its Controversial Employee-Tracking Program]]></title>
+        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
+        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Pauses Employee-Tracking Program Following Internal Data Leak]]></title>
+        <id>https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</id>
+        <link href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -99,177 +106,72 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Theoretical Limit of Image Compression [video]]]></title>
-        <id>https://www.youtube.com/watch?v=W39hBPOk9Hk</id>
-        <link href="https://www.youtube.com/watch?v=W39hBPOk9Hk"/>
+        <title type="html"><![CDATA[You already have a Git server]]></title>
+        <id>https://gopeek-lovat.vercel.app/blog-you-already-have-a-git-server.html</id>
+        <link href="https://gopeek-lovat.vercel.app/blog-you-already-have-a-git-server.html"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Human bodies did not simply got bigger and bigger over time in a steady line]]></title>
-        <id>https://phys.org/news/2026-06-idea-human-bodies-simply-bigger.html</id>
-        <link href="https://phys.org/news/2026-06-idea-human-bodies-simply-bigger.html"/>
+        <title type="html"><![CDATA[Show HN: SaaS Pegasus – the original Django boilerplate, now MIT-licensed]]></title>
+        <id>https://github.com/saaspegasus/django-boilerplate</id>
+        <link href="https://github.com/saaspegasus/django-boilerplate"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Invite to beta tester and investors for depgaze. SW supply chain security tool]]></title>
-        <id>https://www.depgaze.xyz/</id>
-        <link href="https://www.depgaze.xyz/"/>
+        <title type="html"><![CDATA[See How Sam Altman's Personal Investments Benefit from Ties to OpenAI]]></title>
+        <id>https://www.wsj.com/tech/ai/see-how-sam-altmans-personal-investments-benefit-from-ties-to-openai-9fcb24c9</id>
+        <link href="https://www.wsj.com/tech/ai/see-how-sam-altmans-personal-investments-benefit-from-ties-to-openai-9fcb24c9"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EU Member States (and Google) suddenly want to keep cookie banners]]></title>
-        <id>https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners</id>
-        <link href="https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners"/>
+        <title type="html"><![CDATA[Show HN: DomainDash – uptime/SSL/domain checks for client sites]]></title>
+        <id>https://domaindash.io</id>
+        <link href="https://domaindash.io"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[America's largest companies have no simple way to report security flaws]]></title>
-        <id>https://this.weekinsecurity.com/dozens-of-americas-largest-companies-have-no-simple-way-to-report-security-flaws/</id>
-        <link href="https://this.weekinsecurity.com/dozens-of-americas-largest-companies-have-no-simple-way-to-report-security-flaws/"/>
+        <title type="html"><![CDATA[Ask HN: Does in your workplace employee engagement / recognition is important?]]></title>
+        <id>https://news.ycombinator.com/item?id=48642535</id>
+        <link href="https://news.ycombinator.com/item?id=48642535"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Current AI is like the film company producing TV series or movies]]></title>
-        <id>https://devcyc.life/current-ai-is-like-the-film-company-producing-tv-series-or-movies/</id>
-        <link href="https://devcyc.life/current-ai-is-like-the-film-company-producing-tv-series-or-movies/"/>
+        <title type="html"><![CDATA[I built a GPU back end for Emacs]]></title>
+        <id>https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/</id>
+        <link href="https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SHOW HN: ConvertFast – offline file conversion and file utilities for desktop]]></title>
-        <id>https://convertfast.co/</id>
-        <link href="https://convertfast.co/"/>
+        <title type="html"><![CDATA[Show HN: OpenTerm – A tiny, fast SSH client (no login, no cloud, free)]]></title>
+        <id>https://github.com/zhangshuo1991/openterm</id>
+        <link href="https://github.com/zhangshuo1991/openterm"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: SIA SEO: AI SEO content generation that shows up in AI Search Results]]></title>
-        <id>https://siaseo.com</id>
-        <link href="https://siaseo.com"/>
+        <title type="html"><![CDATA[AI models capable of devastating attacks on governments and business months away]]></title>
+        <id>https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security</id>
+        <link href="https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everyone Was Wrong About Maximum Siphon Height [video]]]></title>
-        <id>https://www.youtube.com/watch?v=5glksNTKkZI</id>
-        <link href="https://www.youtube.com/watch?v=5glksNTKkZI"/>
+        <title type="html"><![CDATA[NavigationServer2D in Godot: The Complete Guide]]></title>
+        <id>https://vav-labs.com/blog/navigationserver2d-godot-complete-guide/</id>
+        <link href="https://vav-labs.com/blog/navigationserver2d-godot-complete-guide/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Durable Agent Sessions API (Preview)]]></title>
-        <id>https://opencomputer.durableagents.dev/</id>
-        <link href="https://opencomputer.durableagents.dev/"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full typing for Nix based on TypeScript]]></title>
-        <id>https://github.com/ryanrasti/typenix</id>
-        <link href="https://github.com/ryanrasti/typenix"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[284B Model Shouldn't Fit on Your Laptop. It Does [video]]]></title>
-        <id>https://www.youtube.com/watch?v=9gHcmhUDJfw</id>
-        <link href="https://www.youtube.com/watch?v=9gHcmhUDJfw"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Levels.fyi Atlas – Interactive Bay Area Map with Pay]]></title>
-        <id>https://www.levels.fyi/atlas</id>
-        <link href="https://www.levels.fyi/atlas"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta pauses AI training program tracking employee keystrokes after internal leak]]></title>
-        <id>https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6</id>
-        <link href="https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Mechanistic Explanation of Prompt Injection – LessWrong]]></title>
-        <id>https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</id>
-        <link href="https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Still Water Colors: interactive Three.js pigment art]]></title>
-        <id>https://sand-morph.up.railway.app/still-water-colors</id>
-        <link href="https://sand-morph.up.railway.app/still-water-colors"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub]]></title>
-        <id>https://github.com/BohemiaInteractive/CWR</id>
-        <link href="https://github.com/BohemiaInteractive/CWR"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Exposed Data Internally from Its Controversial Employee-Tracking Program]]></title>
-        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
-        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Bought the Trump Phone [video]]]></title>
-        <id>https://www.youtube.com/watch?v=b1ytw85Npt8</id>
-        <link href="https://www.youtube.com/watch?v=b1ytw85Npt8"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The System Moved On, but It Didn't Forget]]></title>
-        <id>https://webmnem.here.now/system-moved-on-but-it-didnt-forget/</id>
-        <link href="https://webmnem.here.now/system-moved-on-but-it-didnt-forget/"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit account history viewer, even for deleted posts]]></title>
-        <id>https://deletedby.com</id>
-        <link href="https://deletedby.com"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vim Adventures – learning Vim by playing a game]]></title>
-        <id>https://www.youtube.com/watch?v=GVjtUK5JEw0</id>
-        <link href="https://www.youtube.com/watch?v=GVjtUK5JEw0"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seedance 2.5, generating a complete 30-second video in one go]]></title>
-        <id>https://twitter.com/xiaohu/status/2069236441964818508</id>
-        <link href="https://twitter.com/xiaohu/status/2069236441964818508"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK considers forcing social media firms to prioritise trusted news]]></title>
-        <id>https://www.reuters.com/legal/litigation/uk-considers-forcing-social-media-firms-prioritise-trusted-news-2026-06-22/</id>
-        <link href="https://www.reuters.com/legal/litigation/uk-considers-forcing-social-media-firms-prioritise-trusted-news-2026-06-22/"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What If the Work We're Busy Automating Is Needless?]]></title>
-        <id>https://www.oftwominds.com/blogjune26/needless-work6-26.html</id>
-        <link href="https://www.oftwominds.com/blogjune26/needless-work6-26.html"/>
+        <title type="html"><![CDATA[Show HN: VibePantry – Photograph your kitchen, get recipes from what you have]]></title>
+        <id>https://vibepantry.com/</id>
+        <link href="https://vibepantry.com/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -281,86 +183,184 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What If the Work We're Busy Automating Is Needless?]]></title>
+        <id>https://www.oftwominds.com/blogjune26/needless-work6-26.html</id>
+        <link href="https://www.oftwominds.com/blogjune26/needless-work6-26.html"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK considers forcing social media firms to prioritise trusted news]]></title>
+        <id>https://www.reuters.com/legal/litigation/uk-considers-forcing-social-media-firms-prioritise-trusted-news-2026-06-22/</id>
+        <link href="https://www.reuters.com/legal/litigation/uk-considers-forcing-social-media-firms-prioritise-trusted-news-2026-06-22/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seedance 2.5, generating a complete 30-second video in one go]]></title>
+        <id>https://twitter.com/xiaohu/status/2069236441964818508</id>
+        <link href="https://twitter.com/xiaohu/status/2069236441964818508"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vim Adventures – learning Vim by playing a game]]></title>
+        <id>https://www.youtube.com/watch?v=GVjtUK5JEw0</id>
+        <link href="https://www.youtube.com/watch?v=GVjtUK5JEw0"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit account history viewer, even for deleted posts]]></title>
+        <id>https://deletedby.com</id>
+        <link href="https://deletedby.com"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The System Moved On, but It Didn't Forget]]></title>
+        <id>https://webmnem.here.now/system-moved-on-but-it-didnt-forget/</id>
+        <link href="https://webmnem.here.now/system-moved-on-but-it-didnt-forget/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Bought the Trump Phone [video]]]></title>
+        <id>https://www.youtube.com/watch?v=b1ytw85Npt8</id>
+        <link href="https://www.youtube.com/watch?v=b1ytw85Npt8"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Exposed Data Internally from Its Controversial Employee-Tracking Program]]></title>
+        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
+        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub]]></title>
+        <id>https://github.com/BohemiaInteractive/CWR</id>
+        <link href="https://github.com/BohemiaInteractive/CWR"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Still Water Colors: interactive Three.js pigment art]]></title>
+        <id>https://sand-morph.up.railway.app/still-water-colors</id>
+        <link href="https://sand-morph.up.railway.app/still-water-colors"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Mechanistic Explanation of Prompt Injection – LessWrong]]></title>
+        <id>https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</id>
+        <link href="https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta pauses AI training program tracking employee keystrokes after internal leak]]></title>
+        <id>https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6</id>
+        <link href="https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Levels.fyi Atlas – Interactive Bay Area Map with Pay]]></title>
+        <id>https://www.levels.fyi/atlas</id>
+        <link href="https://www.levels.fyi/atlas"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[284B Model Shouldn't Fit on Your Laptop. It Does [video]]]></title>
+        <id>https://www.youtube.com/watch?v=9gHcmhUDJfw</id>
+        <link href="https://www.youtube.com/watch?v=9gHcmhUDJfw"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full typing for Nix based on TypeScript]]></title>
+        <id>https://github.com/ryanrasti/typenix</id>
+        <link href="https://github.com/ryanrasti/typenix"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Durable Agent Sessions API (Preview)]]></title>
+        <id>https://opencomputer.durableagents.dev/</id>
+        <link href="https://opencomputer.durableagents.dev/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone Was Wrong About Maximum Siphon Height [video]]]></title>
+        <id>https://www.youtube.com/watch?v=5glksNTKkZI</id>
+        <link href="https://www.youtube.com/watch?v=5glksNTKkZI"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: SIA SEO: AI SEO content generation that shows up in AI Search Results]]></title>
+        <id>https://siaseo.com</id>
+        <link href="https://siaseo.com"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHOW HN: ConvertFast – offline file conversion and file utilities for desktop]]></title>
+        <id>https://convertfast.co/</id>
+        <link href="https://convertfast.co/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Current AI is like the film company producing TV series or movies]]></title>
+        <id>https://devcyc.life/current-ai-is-like-the-film-company-producing-tv-series-or-movies/</id>
+        <link href="https://devcyc.life/current-ai-is-like-the-film-company-producing-tv-series-or-movies/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America's largest companies have no simple way to report security flaws]]></title>
+        <id>https://this.weekinsecurity.com/dozens-of-americas-largest-companies-have-no-simple-way-to-report-security-flaws/</id>
+        <link href="https://this.weekinsecurity.com/dozens-of-americas-largest-companies-have-no-simple-way-to-report-security-flaws/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU Member States (and Google) suddenly want to keep cookie banners]]></title>
+        <id>https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners</id>
+        <link href="https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invite to beta tester and investors for depgaze. SW supply chain security tool]]></title>
+        <id>https://www.depgaze.xyz/</id>
+        <link href="https://www.depgaze.xyz/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human bodies did not simply got bigger and bigger over time in a steady line]]></title>
+        <id>https://phys.org/news/2026-06-idea-human-bodies-simply-bigger.html</id>
+        <link href="https://phys.org/news/2026-06-idea-human-bodies-simply-bigger.html"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Theoretical Limit of Image Compression [video]]]></title>
+        <id>https://www.youtube.com/watch?v=W39hBPOk9Hk</id>
+        <link href="https://www.youtube.com/watch?v=W39hBPOk9Hk"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CLAUDE.md Can’t Enforce Anything. Here’s the Hook I Use Instead.]]></title>
         <id>https://pub.towardsai.net/claude-md-cant-enforce-anything-here-s-the-hook-i-use-instead-424be05a68f0?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/claude-md-cant-enforce-anything-here-s-the-hook-i-use-instead-424be05a68f0?source=rss----98111c9905da---4"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code: Text a Task to Claude and Walk Away: A Practical Guide to Dispatch]]></title>
-        <id>https://pub.towardsai.net/claude-code-text-a-task-to-claude-and-walk-away-a-practical-guide-to-dispatch-5db344c98825?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-code-text-a-task-to-claude-and-walk-away-a-practical-guide-to-dispatch-5db344c98825?source=rss----98111c9905da---4"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory — Why Your Agent Keeps Forgetting, And How to Fix It]]></title>
-        <id>https://pub.towardsai.net/memory-why-your-agent-keeps-forgetting-and-how-to-fix-it-b87cc3026a5b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/memory-why-your-agent-keeps-forgetting-and-how-to-fix-it-b87cc3026a5b?source=rss----98111c9905da---4"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an Offline “Life Memorizer” with Gemini 2.0 & Qdrant Edge]]></title>
-        <id>https://pub.towardsai.net/building-an-offline-life-memorizer-with-gemini-2-0-qdrant-edge-695ce69d3360?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-an-offline-life-memorizer-with-gemini-2-0-qdrant-edge-695ce69d3360?source=rss----98111c9905da---4"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every Developer Thinks AI Makes Them 20% Faster. Measured, They’re 19% Slower.]]></title>
-        <id>https://pub.towardsai.net/every-developer-thinks-ai-makes-them-20-faster-measured-theyre-19-slower-8d87eba4b1de?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/every-developer-thinks-ai-makes-them-20-faster-measured-theyre-19-slower-8d87eba4b1de?source=rss----98111c9905da---4"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Did My AI Agent Do Last Night?]]></title>
-        <id>https://pub.towardsai.net/what-did-my-ai-agent-do-last-night-15f6a704c139?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-did-my-ai-agent-do-last-night-15f6a704c139?source=rss----98111c9905da---4"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From pledge to practice: Building a more inclusive open source ecosystem]]></title>
-        <id>https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/</id>
-        <link href="https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built Simon (the Memory Game) in Vanilla JS + Web Audio]]></title>
-        <id>https://dev.to/dev48v/i-built-simon-the-memory-game-in-vanilla-js-web-audio-2p0m</id>
-        <link href="https://dev.to/dev48v/i-built-simon-the-memory-game-in-vanilla-js-web-audio-2p0m"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is npm (Node Package Manager)? A Beginner’s Guide for Developers]]></title>
-        <id>https://dev.to/serveravatar/what-is-npm-node-package-manager-a-beginners-guide-for-developers-5ha1</id>
-        <link href="https://dev.to/serveravatar/what-is-npm-node-package-manager-a-beginners-guide-for-developers-5ha1"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Next.js App Router for Core Web Vitals — A Practical Guide]]></title>
-        <id>https://dev.to/aon_infotech_3a1b6ff525fc/optimizing-nextjs-app-router-for-core-web-vitals-a-practical-guide-11if</id>
-        <link href="https://dev.to/aon_infotech_3a1b6ff525fc/optimizing-nextjs-app-router-for-core-web-vitals-a-practical-guide-11if"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built My Own URL Shortener Because Bit.ly Charges for Custom Aliases]]></title>
-        <id>https://dev.to/vbv_rai/i-built-my-own-url-shortener-because-bitly-charges-for-custom-aliases-2ank</id>
-        <link href="https://dev.to/vbv_rai/i-built-my-own-url-shortener-because-bitly-charges-for-custom-aliases-2ank"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a free offline Chinese pinyin annotator in a single HTML file]]></title>
-        <id>https://dev.to/vn_tunl_09a36fcbda701/i-built-a-free-offline-chinese-pinyin-annotator-in-a-single-html-file-4kdo</id>
-        <link href="https://dev.to/vn_tunl_09a36fcbda701/i-built-a-free-offline-chinese-pinyin-annotator-in-a-single-html-file-4kdo"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
