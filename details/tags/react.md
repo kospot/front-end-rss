@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-23 18:01:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-23 21:03:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -147,10 +147,10 @@
 - [2026-05-25-React-Pointer-Hooks:-Hover,-Long-Press,-Double-Click,-Scratch,-and-Click-Outside-Without-the-Bugs](https://dev.to/childrentime/react-pointer-hooks-hover-long-press-double-click-scratch-and-click-outside-without-the-bugs-1pfb) 
 - [2026-05-25-Architect's-Reference-to-State-Management-in-Modern-React-in-2026](https://dev.to/zny10289/architects-reference-to-state-management-in-modern-react-in-2026-33bc) 
 - [2026-05-25-what-useSate-and-useEffect-and-useContext](https://dev.to/subash_4870e66d76ac024544/what-usesate-and-useeffect-and-usecontext-2a1f) 
+- [2026-06-19-react/react](https://github.com/react/react) 
 - [2026-06-19--When-React-Hooks-Stop-Scaling:-Moving-Complex-State-to-Zustand-](
 https://orizens.com/blog/2026-06-18-zustand/
 ) 
-- [2026-06-19-react/react](https://github.com/react/react) 
 - [2026-06-17-Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) 
 - [2026-06-16--A-new-Google-like-Calendar-Component-for-your-Svelte,-React-or-Vue-App-](
 https://svar.dev/blog/svar-calendar-for-react-svelte-vue/
@@ -188,6 +188,7 @@ https://reactdevelopment.substack.com/p/react-performance-isnt-about-usememo
 - [2026-05-26-Claude-Code-Hooks-—-Part-2:-A-Recipe-Book-for-Real-Teams](https://pub.towardsai.net/claude-code-hooks-part-2-a-recipe-book-for-real-teams-2846fcfba67d?source=rss----98111c9905da---4) 
 - [2026-05-25-Claude-Code-Hooks,-Subagents,-and-Worktrees:-The-Power-Features-Nobody-Explains](https://pub.towardsai.net/claude-code-hooks-subagents-and-worktrees-the-power-features-nobody-explains-db5e24c811c4?source=rss----98111c9905da---4) 
 - [2026-06-17-A-near-autonomous-AI-chemist-improves-a-challenging-reaction-in-medicinal-chemistry](https://openai.com/index/ai-chemist-improves-reaction) 
+- [2026-06-23-Show-HN:-Styler-–-CSS-in-JS-rebuilt-around-React-19-streaming-SSR-5KB,-0-deps](https://github.com/vitus-labs/ui-system/tree/main/packages/styler) 
 - [2026-06-19-Rolls-Royce-secures-deal-to-build-small-nuclear-reactors-for-Sweden](https://www.euronews.com/business/2026/06/16/rolls-royce-secures-deal-to-build-small-nuclear-reactors-for-sweden) 
 - [2026-06-18-TerraPower's-Natrium-reactor-begins-UK-GDA-process](https://world-nuclear-news.org/articles/terrapowers-natrium-reactor-begins-uk-gda-process) 
 - [2026-06-17-React-Interview-Questions-Every-Developer-Should-Know-in-2026](https://jsdev.space/react-interview-questions-2026/) 
@@ -195,22 +196,22 @@ https://reactdevelopment.substack.com/p/react-performance-isnt-about-usememo
 - [2026-06-10-Port-React-Compiler-to-Rust](https://github.com/react/react/pull/36173) 
 - [2026-06-09-Show-HN:-Webhix-–-Self-hosted-webhook.site-alternative-in-a-single-Go-binary](https://github.com/GaIsBax/Webhix) 
 - [2026-06-08-React-Native,-Hermes-bytecode,-and-the-Kindle-homepage](https://sighery.com/posts/patching-kindle-homepage/) 
-- [2026-06-06-'Teachers-Are-Going-to-Hate-It':-How-Social-Media-Apps-Hooked-Teens-at-School](https://www.nytimes.com/2026/06/04/us/social-media-schools.html) 
 - [2026-06-06-Port-React-Compiler-to-Rust](https://github.com/facebook/react/pull/36173) 
+- [2026-06-06-'Teachers-Are-Going-to-Hate-It':-How-Social-Media-Apps-Hooked-Teens-at-School](https://www.nytimes.com/2026/06/04/us/social-media-schools.html) 
 - [2026-06-04-ReactOS-Joins-VCF-Southwest-for-the-First-Time](https://reactos.org/blogs/vcfsw-2026/) 
 - [2026-06-03-A-Rust-runtime-for-React-that-hits-97k-req/s-by-keeping-V8-idle](https://rari.build/blog/building-rari-with-rari) 
-- [2026-06-02-Neovim-Hooks-for-AI-Agents](https://github.com/NishantJoshi00/sidekick) 
 - [2026-06-02-AI-costs-how-much?-GitHub-Copilot-users-react-to-new-usage-based-pricing-system](https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/) 
+- [2026-06-02-Neovim-Hooks-for-AI-Agents](https://github.com/NishantJoshi00/sidekick) 
 - [2026-06-01-Microsoft-ships-a-Rust-WinUI3-library,-React-like](https://github.com/microsoft/windows-rs/pull/4479) 
 - [2026-05-30-Windows-Reactor-–-React-like-WinUI-3-framework](https://github.com/microsoft/microsoft-ui-reactor) 
-- [2026-05-29-RSQL-–-High-Performance,-Open-Source-PostgreSQL-Client-Tauri-v2,-React,-Rust](https://github.com/rust-dd/rsql) 
-- [2026-05-29-The-'Salami-Incident'-That-Has-JPMorgan-Chase-on-the-Hook-for-$4.25M](https://www.wsj.com/finance/banking/the-salami-incident-that-has-jpmorgan-chase-on-the-hook-for-4-25-million-bcfe73f5) 
 - [2026-05-29-Show-HN:-Get-a-webhook-the-moment-a-webpage-changes](https://docs.firecrawl.dev/features/monitoring) 
-- [2026-05-28-Apex:-A-Fast,-Specialized-Model-for-React-Native](https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native) 
+- [2026-05-29-The-'Salami-Incident'-That-Has-JPMorgan-Chase-on-the-Hook-for-$4.25M](https://www.wsj.com/finance/banking/the-salami-incident-that-has-jpmorgan-chase-on-the-hook-for-4-25-million-bcfe73f5) 
+- [2026-05-29-RSQL-–-High-Performance,-Open-Source-PostgreSQL-Client-Tauri-v2,-React,-Rust](https://github.com/rust-dd/rsql) 
 - [2026-05-28-Show-HN:-I-help-founders-kill-doom-scrolling-and-hook-people's-attention-fast](https://stopclip.com) 
+- [2026-05-28-Apex:-A-Fast,-Specialized-Model-for-React-Native](https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native) 
 - [2026-05-27-AI-as-Nervous-System](https://news.ycombinator.com/item?id=48295143) 
-- [2026-05-26-Show-HN:-Lily-Design-System:-Components-for-React,-Vue,-Svelte,-HTML,-More](https://lilydesignsystem.github.io/) 
 - [2026-05-26-Does-Anybody-Actually-Like-React?](https://jsx.lol) 
+- [2026-05-26-Show-HN:-Lily-Design-System:-Components-for-React,-Vue,-Svelte,-HTML,-More](https://lilydesignsystem.github.io/) 
 - [2026-06-10-Avalanche’s-desktop-fusion-reactor-delivers-blistering-hot-plasma](https://techcrunch.com/2026/06/10/avalanches-desktop-fusion-reactor-delivers-blistering-hot-plasma/) 
 - [2026-06-02-X-caters-to-creators-with-new-‘React-with-Video’-feature](https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/) 
 - [2026-05-27-Trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors](https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/) 
