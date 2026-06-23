@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-23T00:01:33.676Z</updated>
+    <updated>2026-06-23T02:01:40.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,9 +78,9 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX inks compute deal with Reflection AI, an open source AI lab]]></title>
-        <id>https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/</id>
-        <link href="https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/"/>
+        <title type="html"><![CDATA[The AI world is getting ‘loopy’]]></title>
+        <id>https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/</id>
+        <link href="https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -92,51 +92,30 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The AI world is getting ‘loopy’]]></title>
-        <id>https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/</id>
-        <link href="https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"/>
+        <title type="html"><![CDATA[SpaceX inks compute deal with Reflection AI, an open source AI lab]]></title>
+        <id>https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/</id>
+        <link href="https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Exposed Data Internally from Its Controversial Employee-Tracking Program]]></title>
-        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
-        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
+        <title type="html"><![CDATA[Everyone Was Wrong About Maximum Siphon Height [video]]]></title>
+        <id>https://www.youtube.com/watch?v=5glksNTKkZI</id>
+        <link href="https://www.youtube.com/watch?v=5glksNTKkZI"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub]]></title>
-        <id>https://github.com/BohemiaInteractive/CWR</id>
-        <link href="https://github.com/BohemiaInteractive/CWR"/>
+        <title type="html"><![CDATA[Show HN: Durable Agent Sessions API (Preview)]]></title>
+        <id>https://opencomputer.durableagents.dev/</id>
+        <link href="https://opencomputer.durableagents.dev/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Still Water Colors: interactive Three.js pigment art]]></title>
-        <id>https://sand-morph.up.railway.app/still-water-colors</id>
-        <link href="https://sand-morph.up.railway.app/still-water-colors"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Mechanistic Explanation of Prompt Injection – LessWrong]]></title>
-        <id>https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</id>
-        <link href="https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta pauses AI training program tracking employee keystrokes after internal leak]]></title>
-        <id>https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6</id>
-        <link href="https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Levels.fyi Atlas – Interactive Bay Area Map with Pay]]></title>
-        <id>https://www.levels.fyi/atlas</id>
-        <link href="https://www.levels.fyi/atlas"/>
+        <title type="html"><![CDATA[Full typing for Nix based on TypeScript]]></title>
+        <id>https://github.com/ryanrasti/typenix</id>
+        <link href="https://github.com/ryanrasti/typenix"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -148,16 +127,44 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building an Offline “Life Memorizer” with Gemini 2.0 & Qdrant Edge]]></title>
-        <id>https://pub.towardsai.net/building-an-offline-life-memorizer-with-gemini-2-0-qdrant-edge-695ce69d3360?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-an-offline-life-memorizer-with-gemini-2-0-qdrant-edge-695ce69d3360?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Levels.fyi Atlas – Interactive Bay Area Map with Pay]]></title>
+        <id>https://www.levels.fyi/atlas</id>
+        <link href="https://www.levels.fyi/atlas"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Every Developer Thinks AI Makes Them 20% Faster. Measured, They’re 19% Slower.]]></title>
-        <id>https://pub.towardsai.net/every-developer-thinks-ai-makes-them-20-faster-measured-theyre-19-slower-8d87eba4b1de?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/every-developer-thinks-ai-makes-them-20-faster-measured-theyre-19-slower-8d87eba4b1de?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Meta pauses AI training program tracking employee keystrokes after internal leak]]></title>
+        <id>https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6</id>
+        <link href="https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Mechanistic Explanation of Prompt Injection – LessWrong]]></title>
+        <id>https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</id>
+        <link href="https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Still Water Colors: interactive Three.js pigment art]]></title>
+        <id>https://sand-morph.up.railway.app/still-water-colors</id>
+        <link href="https://sand-morph.up.railway.app/still-water-colors"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub]]></title>
+        <id>https://github.com/BohemiaInteractive/CWR</id>
+        <link href="https://github.com/BohemiaInteractive/CWR"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Exposed Data Internally from Its Controversial Employee-Tracking Program]]></title>
+        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
+        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -169,6 +176,20 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Every Developer Thinks AI Makes Them 20% Faster. Measured, They’re 19% Slower.]]></title>
+        <id>https://pub.towardsai.net/every-developer-thinks-ai-makes-them-20-faster-measured-theyre-19-slower-8d87eba4b1de?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/every-developer-thinks-ai-makes-them-20-faster-measured-theyre-19-slower-8d87eba4b1de?source=rss----98111c9905da---4"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an Offline “Life Memorizer” with Gemini 2.0 & Qdrant Edge]]></title>
+        <id>https://pub.towardsai.net/building-an-offline-life-memorizer-with-gemini-2-0-qdrant-edge-695ce69d3360?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-an-offline-life-memorizer-with-gemini-2-0-qdrant-edge-695ce69d3360?source=rss----98111c9905da---4"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From pledge to practice: Building a more inclusive open source ecosystem]]></title>
         <id>https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/</id>
         <link href="https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/"/>
@@ -176,30 +197,79 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built 168 pages of free trading tools with vanilla HTML/JS — here's how]]></title>
-        <id>https://dev.to/mbinmhr/i-built-168-pages-of-free-trading-tools-with-vanilla-htmljs-heres-how-4n0d</id>
-        <link href="https://dev.to/mbinmhr/i-built-168-pages-of-free-trading-tools-with-vanilla-htmljs-heres-how-4n0d"/>
+        <title type="html"><![CDATA[I built a free offline Chinese pinyin annotator in a single HTML file]]></title>
+        <id>https://dev.to/vn_tunl_09a36fcbda701/i-built-a-free-offline-chinese-pinyin-annotator-in-a-single-html-file-4kdo</id>
+        <link href="https://dev.to/vn_tunl_09a36fcbda701/i-built-a-free-offline-chinese-pinyin-annotator-in-a-single-html-file-4kdo"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Shipping Broken Env Config: Comparing 4 TypeScript Validators]]></title>
-        <id>https://dev.to/ctrotech/ctroenv-vs-zod-envalid-t3-env-which-env-validator-should-you-use-4aln</id>
-        <link href="https://dev.to/ctrotech/ctroenv-vs-zod-envalid-t3-env-which-env-validator-should-you-use-4aln"/>
+        <title type="html"><![CDATA[Free Uptime Monitoring for Your Node.js App with Vigilmon]]></title>
+        <id>https://dev.to/vigilmon/free-uptime-monitoring-for-your-nodejs-app-with-vigilmon-75m</id>
+        <link href="https://dev.to/vigilmon/free-uptime-monitoring-for-your-nodejs-app-with-vigilmon-75m"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a WCAG Contrast Checker — Relative Luminance, sRGB Gamma, and the Step Most Implementations Skip]]></title>
-        <id>https://dev.to/sendotltd/building-a-wcag-contrast-checker-relative-luminance-srgb-gamma-and-the-step-most-4lha</id>
-        <link href="https://dev.to/sendotltd/building-a-wcag-contrast-checker-relative-luminance-srgb-gamma-and-the-step-most-4lha"/>
+        <title type="html"><![CDATA[The SVG Rendering Bug That Cost a Client $2,000]]></title>
+        <id>https://dev.to/jamiepark-design/the-svg-rendering-bug-that-cost-a-client-2000-kke</id>
+        <link href="https://dev.to/jamiepark-design/the-svg-rendering-bug-that-cost-a-client-2000-kke"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements]]></title>
-        <id>https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61</id>
-        <link href="https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61"/>
+        <title type="html"><![CDATA[HTML 테이블에서 SQL INSERT 문까지 원클릭으로]]></title>
+        <id>https://dev.to/circobit/html-teibeuleseo-sql-insert-munggaji-weonkeulrigeuro-5cp5</id>
+        <link href="https://dev.to/circobit/html-teibeuleseo-sql-insert-munggaji-weonkeulrigeuro-5cp5"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[git/Js-worm-malware]]></title>
+        <id>https://dev.to/sd_sharon_/gitjs-worm-malware-1l08</id>
+        <link href="https://dev.to/sd_sharon_/gitjs-worm-malware-1l08"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ever had a renamed column quietly break a CSV export? csv-pipe makes it a compile error, reads and writes both ways, and parses several times faster than papaparse. Live playground in the post to try your own data.]]></title>
+        <id>https://dev.to/myroslavmartsin/ever-had-a-renamed-column-quietly-break-a-csv-export-csv-pipe-makes-it-a-compile-error-reads-and-18oi</id>
+        <link href="https://dev.to/myroslavmartsin/ever-had-a-renamed-column-quietly-break-a-csv-export-csv-pipe-makes-it-a-compile-error-reads-and-18oi"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[csv-pipe: read and write CSV in TypeScript, several times faster than papaparse]]></title>
+        <id>https://dev.to/myroslavmartsin/csv-pipe-read-and-write-csv-in-typescript-several-times-faster-than-papaparse-167k</id>
+        <link href="https://dev.to/myroslavmartsin/csv-pipe-read-and-write-csv-in-typescript-several-times-faster-than-papaparse-167k"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I built an Offline-First Voice-Controlled Map Engine in JavaScript]]></title>
+        <id>https://dev.to/sanish_kumar/how-i-built-an-offline-first-voice-controlled-map-engine-in-javascript-if8</id>
+        <link href="https://dev.to/sanish_kumar/how-i-built-an-offline-first-voice-controlled-map-engine-in-javascript-if8"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding an Extension that Summarises Web Pages with HTML, CSS, and JS]]></title>
+        <id>https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm</id>
+        <link href="https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compact JavaScript Signal/Observer Pattern: Balancing Brevity and Functionality in 33 Bytes]]></title>
+        <id>https://dev.to/pavkode/compact-javascript-signalobserver-pattern-balancing-brevity-and-functionality-in-33-bytes-12dd</id>
+        <link href="https://dev.to/pavkode/compact-javascript-signalobserver-pattern-balancing-brevity-and-functionality-in-33-bytes-12dd"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J'ai construit un assistant documentaire pour PME en un week-end — à coût zéro]]></title>
+        <id>https://dev.to/sharklandy/jai-construit-un-assistant-documentaire-pour-pme-en-un-week-end-a-cout-zero-2g5h</id>
+        <link href="https://dev.to/sharklandy/jai-construit-un-assistant-documentaire-pour-pme-en-un-week-end-a-cout-zero-2g5h"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -217,51 +287,30 @@ Features:
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[J'ai construit un assistant documentaire pour PME en un week-end — à coût zéro]]></title>
-        <id>https://dev.to/sharklandy/jai-construit-un-assistant-documentaire-pour-pme-en-un-week-end-a-cout-zero-2g5h</id>
-        <link href="https://dev.to/sharklandy/jai-construit-un-assistant-documentaire-pour-pme-en-un-week-end-a-cout-zero-2g5h"/>
+        <title type="html"><![CDATA[🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements]]></title>
+        <id>https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61</id>
+        <link href="https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Compact JavaScript Signal/Observer Pattern: Balancing Brevity and Functionality in 33 Bytes]]></title>
-        <id>https://dev.to/pavkode/compact-javascript-signalobserver-pattern-balancing-brevity-and-functionality-in-33-bytes-12dd</id>
-        <link href="https://dev.to/pavkode/compact-javascript-signalobserver-pattern-balancing-brevity-and-functionality-in-33-bytes-12dd"/>
+        <title type="html"><![CDATA[Building a WCAG Contrast Checker — Relative Luminance, sRGB Gamma, and the Step Most Implementations Skip]]></title>
+        <id>https://dev.to/sendotltd/building-a-wcag-contrast-checker-relative-luminance-srgb-gamma-and-the-step-most-4lha</id>
+        <link href="https://dev.to/sendotltd/building-a-wcag-contrast-checker-relative-luminance-srgb-gamma-and-the-step-most-4lha"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coding an Extension that Summarises Web Pages with HTML, CSS, and JS]]></title>
-        <id>https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm</id>
-        <link href="https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm"/>
+        <title type="html"><![CDATA[Stop Shipping Broken Env Config: Comparing 4 TypeScript Validators]]></title>
+        <id>https://dev.to/ctrotech/ctroenv-vs-zod-envalid-t3-env-which-env-validator-should-you-use-4aln</id>
+        <link href="https://dev.to/ctrotech/ctroenv-vs-zod-envalid-t3-env-which-env-validator-should-you-use-4aln"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I built an Offline-First Voice-Controlled Map Engine in JavaScript]]></title>
-        <id>https://dev.to/sanish_kumar/how-i-built-an-offline-first-voice-controlled-map-engine-in-javascript-if8</id>
-        <link href="https://dev.to/sanish_kumar/how-i-built-an-offline-first-voice-controlled-map-engine-in-javascript-if8"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[csv-pipe: read and write CSV in TypeScript, several times faster than papaparse]]></title>
-        <id>https://dev.to/myroslavmartsin/csv-pipe-read-and-write-csv-in-typescript-several-times-faster-than-papaparse-167k</id>
-        <link href="https://dev.to/myroslavmartsin/csv-pipe-read-and-write-csv-in-typescript-several-times-faster-than-papaparse-167k"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ever had a renamed column quietly break a CSV export? csv-pipe makes it a compile error, reads and writes both ways, and parses several times faster than papaparse. Live playground in the post to try your own data.]]></title>
-        <id>https://dev.to/myroslavmartsin/ever-had-a-renamed-column-quietly-break-a-csv-export-csv-pipe-makes-it-a-compile-error-reads-and-18oi</id>
-        <link href="https://dev.to/myroslavmartsin/ever-had-a-renamed-column-quietly-break-a-csv-export-csv-pipe-makes-it-a-compile-error-reads-and-18oi"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[git/Js-worm-malware]]></title>
-        <id>https://dev.to/sd_sharon_/gitjs-worm-malware-1l08</id>
-        <link href="https://dev.to/sd_sharon_/gitjs-worm-malware-1l08"/>
+        <title type="html"><![CDATA[I built 168 pages of free trading tools with vanilla HTML/JS — here's how]]></title>
+        <id>https://dev.to/mbinmhr/i-built-168-pages-of-free-trading-tools-with-vanilla-htmljs-heres-how-4n0d</id>
+        <link href="https://dev.to/mbinmhr/i-built-168-pages-of-free-trading-tools-with-vanilla-htmljs-heres-how-4n0d"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -308,27 +357,6 @@ Features:
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance]]></title>
-        <id>https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/</id>
-        <link href="https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket reportedly paid creators to post deceptive videos about fake bets]]></title>
-        <id>https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/</id>
-        <link href="https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft co-founder Claude Guillemot dies in plane crash]]></title>
-        <id>https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/</id>
-        <link href="https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah and invests $900M in startup]]></title>
         <id>https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/</id>
         <link href="https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/"/>
@@ -336,37 +364,9 @@ Features:
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Hitchhiker's Guide to the Galaxy – The Game – 30th Anniversary Edition]]></title>
-        <id>https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition</id>
-        <link href="https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skillsoft Selling Global Knowledge Business to Enduring Ventures]]></title>
-        <id>https://www.businesswire.com/news/home/20260520936193/en/Skillsoft-Announces-Sale-of-Global-Knowledge-Business-to-Enduring-Ventures</id>
-        <link href="https://www.businesswire.com/news/home/20260520936193/en/Skillsoft-Announces-Sale-of-Global-Knowledge-Business-to-Enduring-Ventures"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I rebuilt the only parts of my IDE I use, in Rust, over a weekend]]></title>
-        <id>https://github.com/kyle-ssg/kyde</id>
-        <link href="https://github.com/kyle-ssg/kyde"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Engrym – a Markdown knowledge base your coding agent reads and writes]]></title>
-        <id>https://github.com/laleshii/engrym</id>
-        <link href="https://github.com/laleshii/engrym"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prediction: A Frontier open-source LLM Will Be Released On 3rd December 2026]]></title>
-        <id>https://blog.doubleword.ai/frontier-os-llm</id>
-        <link href="https://blog.doubleword.ai/frontier-os-llm"/>
+        <title type="html"><![CDATA[Ubisoft co-founder Claude Guillemot dies in plane crash]]></title>
+        <id>https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/</id>
+        <link href="https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
