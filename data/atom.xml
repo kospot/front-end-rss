@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-23T04:01:26.683Z</updated>
+    <updated>2026-06-23T07:02:26.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Nvidia says its AI data center design runs hotter to use a lot less water]]></title>
-        <id>https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling</id>
-        <link href="https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google invests in A24 to build AI movie tools]]></title>
-        <id>https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership</id>
-        <link href="https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership"/>
+        <title type="html"><![CDATA[AI is cursing renters with the promise of impossible homes]]></title>
+        <id>https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings</id>
+        <link href="https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -36,30 +29,23 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI is cursing renters with the promise of impossible homes]]></title>
-        <id>https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings</id>
-        <link href="https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"/>
+        <title type="html"><![CDATA[Google invests in A24 to build AI movie tools]]></title>
+        <id>https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership</id>
+        <link href="https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Source of Mysterious Repeating Radio Signals From Space Has Been Identified]]></title>
-        <id>https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/</id>
-        <link href="https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/"/>
+        <title type="html"><![CDATA[Nvidia says its AI data center design runs hotter to use a lot less water]]></title>
+        <id>https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling</id>
+        <link href="https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos]]></title>
-        <id>https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/</id>
-        <link href="https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-mushroom-coffee/</id>
-        <link href="https://www.wired.com/gallery/best-mushroom-coffee/"/>
+        <title type="html"><![CDATA[Meta Pauses Employee-Tracking Program Following Internal Data Leak]]></title>
+        <id>https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</id>
+        <link href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -71,9 +57,23 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Pauses Employee-Tracking Program Following Internal Data Leak]]></title>
-        <id>https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</id>
-        <link href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"/>
+        <title type="html"><![CDATA[We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)]]></title>
+        <id>https://www.wired.com/gallery/best-mushroom-coffee/</id>
+        <link href="https://www.wired.com/gallery/best-mushroom-coffee/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos]]></title>
+        <id>https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/</id>
+        <link href="https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Source of Mysterious Repeating Radio Signals From Space Has Been Identified]]></title>
+        <id>https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/</id>
+        <link href="https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -99,121 +99,58 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: LoomStack – Helping engineering orgs scale AI-driven development]]></title>
-        <id>https://loomstack.co/</id>
-        <link href="https://loomstack.co/"/>
+        <title type="html"><![CDATA[The Theoretical Limit of Image Compression [video]]]></title>
+        <id>https://www.youtube.com/watch?v=W39hBPOk9Hk</id>
+        <link href="https://www.youtube.com/watch?v=W39hBPOk9Hk"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What If the Work We're Busy Automating Is Needless?]]></title>
-        <id>https://www.oftwominds.com/blogjune26/needless-work6-26.html</id>
-        <link href="https://www.oftwominds.com/blogjune26/needless-work6-26.html"/>
+        <title type="html"><![CDATA[Human bodies did not simply got bigger and bigger over time in a steady line]]></title>
+        <id>https://phys.org/news/2026-06-idea-human-bodies-simply-bigger.html</id>
+        <link href="https://phys.org/news/2026-06-idea-human-bodies-simply-bigger.html"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK considers forcing social media firms to prioritise trusted news]]></title>
-        <id>https://www.reuters.com/legal/litigation/uk-considers-forcing-social-media-firms-prioritise-trusted-news-2026-06-22/</id>
-        <link href="https://www.reuters.com/legal/litigation/uk-considers-forcing-social-media-firms-prioritise-trusted-news-2026-06-22/"/>
+        <title type="html"><![CDATA[Invite to beta tester and investors for depgaze. SW supply chain security tool]]></title>
+        <id>https://www.depgaze.xyz/</id>
+        <link href="https://www.depgaze.xyz/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seedance 2.5, generating a complete 30-second video in one go]]></title>
-        <id>https://twitter.com/xiaohu/status/2069236441964818508</id>
-        <link href="https://twitter.com/xiaohu/status/2069236441964818508"/>
+        <title type="html"><![CDATA[EU Member States (and Google) suddenly want to keep cookie banners]]></title>
+        <id>https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners</id>
+        <link href="https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vim Adventures – learning Vim by playing a game]]></title>
-        <id>https://www.youtube.com/watch?v=GVjtUK5JEw0</id>
-        <link href="https://www.youtube.com/watch?v=GVjtUK5JEw0"/>
+        <title type="html"><![CDATA[America's largest companies have no simple way to report security flaws]]></title>
+        <id>https://this.weekinsecurity.com/dozens-of-americas-largest-companies-have-no-simple-way-to-report-security-flaws/</id>
+        <link href="https://this.weekinsecurity.com/dozens-of-americas-largest-companies-have-no-simple-way-to-report-security-flaws/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reddit account history viewer, even for deleted posts]]></title>
-        <id>https://deletedby.com</id>
-        <link href="https://deletedby.com"/>
+        <title type="html"><![CDATA[Current AI is like the film company producing TV series or movies]]></title>
+        <id>https://devcyc.life/current-ai-is-like-the-film-company-producing-tv-series-or-movies/</id>
+        <link href="https://devcyc.life/current-ai-is-like-the-film-company-producing-tv-series-or-movies/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The System Moved On, but It Didn't Forget]]></title>
-        <id>https://webmnem.here.now/system-moved-on-but-it-didnt-forget/</id>
-        <link href="https://webmnem.here.now/system-moved-on-but-it-didnt-forget/"/>
+        <title type="html"><![CDATA[SHOW HN: ConvertFast – offline file conversion and file utilities for desktop]]></title>
+        <id>https://convertfast.co/</id>
+        <link href="https://convertfast.co/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Bought the Trump Phone [video]]]></title>
-        <id>https://www.youtube.com/watch?v=b1ytw85Npt8</id>
-        <link href="https://www.youtube.com/watch?v=b1ytw85Npt8"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Exposed Data Internally from Its Controversial Employee-Tracking Program]]></title>
-        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
-        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub]]></title>
-        <id>https://github.com/BohemiaInteractive/CWR</id>
-        <link href="https://github.com/BohemiaInteractive/CWR"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Still Water Colors: interactive Three.js pigment art]]></title>
-        <id>https://sand-morph.up.railway.app/still-water-colors</id>
-        <link href="https://sand-morph.up.railway.app/still-water-colors"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Mechanistic Explanation of Prompt Injection – LessWrong]]></title>
-        <id>https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</id>
-        <link href="https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta pauses AI training program tracking employee keystrokes after internal leak]]></title>
-        <id>https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6</id>
-        <link href="https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Levels.fyi Atlas – Interactive Bay Area Map with Pay]]></title>
-        <id>https://www.levels.fyi/atlas</id>
-        <link href="https://www.levels.fyi/atlas"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[284B Model Shouldn't Fit on Your Laptop. It Does [video]]]></title>
-        <id>https://www.youtube.com/watch?v=9gHcmhUDJfw</id>
-        <link href="https://www.youtube.com/watch?v=9gHcmhUDJfw"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full typing for Nix based on TypeScript]]></title>
-        <id>https://github.com/ryanrasti/typenix</id>
-        <link href="https://github.com/ryanrasti/typenix"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Durable Agent Sessions API (Preview)]]></title>
-        <id>https://opencomputer.durableagents.dev/</id>
-        <link href="https://opencomputer.durableagents.dev/"/>
+        <title type="html"><![CDATA[Show HN: SIA SEO: AI SEO content generation that shows up in AI Search Results]]></title>
+        <id>https://siaseo.com</id>
+        <link href="https://siaseo.com"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -225,16 +162,142 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Did My AI Agent Do Last Night?]]></title>
-        <id>https://pub.towardsai.net/what-did-my-ai-agent-do-last-night-15f6a704c139?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-did-my-ai-agent-do-last-night-15f6a704c139?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Durable Agent Sessions API (Preview)]]></title>
+        <id>https://opencomputer.durableagents.dev/</id>
+        <link href="https://opencomputer.durableagents.dev/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Every Developer Thinks AI Makes Them 20% Faster. Measured, They’re 19% Slower.]]></title>
-        <id>https://pub.towardsai.net/every-developer-thinks-ai-makes-them-20-faster-measured-theyre-19-slower-8d87eba4b1de?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/every-developer-thinks-ai-makes-them-20-faster-measured-theyre-19-slower-8d87eba4b1de?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Full typing for Nix based on TypeScript]]></title>
+        <id>https://github.com/ryanrasti/typenix</id>
+        <link href="https://github.com/ryanrasti/typenix"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[284B Model Shouldn't Fit on Your Laptop. It Does [video]]]></title>
+        <id>https://www.youtube.com/watch?v=9gHcmhUDJfw</id>
+        <link href="https://www.youtube.com/watch?v=9gHcmhUDJfw"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Levels.fyi Atlas – Interactive Bay Area Map with Pay]]></title>
+        <id>https://www.levels.fyi/atlas</id>
+        <link href="https://www.levels.fyi/atlas"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta pauses AI training program tracking employee keystrokes after internal leak]]></title>
+        <id>https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6</id>
+        <link href="https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Mechanistic Explanation of Prompt Injection – LessWrong]]></title>
+        <id>https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</id>
+        <link href="https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Still Water Colors: interactive Three.js pigment art]]></title>
+        <id>https://sand-morph.up.railway.app/still-water-colors</id>
+        <link href="https://sand-morph.up.railway.app/still-water-colors"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub]]></title>
+        <id>https://github.com/BohemiaInteractive/CWR</id>
+        <link href="https://github.com/BohemiaInteractive/CWR"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Exposed Data Internally from Its Controversial Employee-Tracking Program]]></title>
+        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
+        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Bought the Trump Phone [video]]]></title>
+        <id>https://www.youtube.com/watch?v=b1ytw85Npt8</id>
+        <link href="https://www.youtube.com/watch?v=b1ytw85Npt8"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The System Moved On, but It Didn't Forget]]></title>
+        <id>https://webmnem.here.now/system-moved-on-but-it-didnt-forget/</id>
+        <link href="https://webmnem.here.now/system-moved-on-but-it-didnt-forget/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit account history viewer, even for deleted posts]]></title>
+        <id>https://deletedby.com</id>
+        <link href="https://deletedby.com"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vim Adventures – learning Vim by playing a game]]></title>
+        <id>https://www.youtube.com/watch?v=GVjtUK5JEw0</id>
+        <link href="https://www.youtube.com/watch?v=GVjtUK5JEw0"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seedance 2.5, generating a complete 30-second video in one go]]></title>
+        <id>https://twitter.com/xiaohu/status/2069236441964818508</id>
+        <link href="https://twitter.com/xiaohu/status/2069236441964818508"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK considers forcing social media firms to prioritise trusted news]]></title>
+        <id>https://www.reuters.com/legal/litigation/uk-considers-forcing-social-media-firms-prioritise-trusted-news-2026-06-22/</id>
+        <link href="https://www.reuters.com/legal/litigation/uk-considers-forcing-social-media-firms-prioritise-trusted-news-2026-06-22/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If the Work We're Busy Automating Is Needless?]]></title>
+        <id>https://www.oftwominds.com/blogjune26/needless-work6-26.html</id>
+        <link href="https://www.oftwominds.com/blogjune26/needless-work6-26.html"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: LoomStack – Helping engineering orgs scale AI-driven development]]></title>
+        <id>https://loomstack.co/</id>
+        <link href="https://loomstack.co/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLAUDE.md Can’t Enforce Anything. Here’s the Hook I Use Instead.]]></title>
+        <id>https://pub.towardsai.net/claude-md-cant-enforce-anything-here-s-the-hook-i-use-instead-424be05a68f0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-md-cant-enforce-anything-here-s-the-hook-i-use-instead-424be05a68f0?source=rss----98111c9905da---4"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code: Text a Task to Claude and Walk Away: A Practical Guide to Dispatch]]></title>
+        <id>https://pub.towardsai.net/claude-code-text-a-task-to-claude-and-walk-away-a-practical-guide-to-dispatch-5db344c98825?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-code-text-a-task-to-claude-and-walk-away-a-practical-guide-to-dispatch-5db344c98825?source=rss----98111c9905da---4"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory — Why Your Agent Keeps Forgetting, And How to Fix It]]></title>
+        <id>https://pub.towardsai.net/memory-why-your-agent-keeps-forgetting-and-how-to-fix-it-b87cc3026a5b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/memory-why-your-agent-keeps-forgetting-and-how-to-fix-it-b87cc3026a5b?source=rss----98111c9905da---4"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -246,6 +309,20 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Every Developer Thinks AI Makes Them 20% Faster. Measured, They’re 19% Slower.]]></title>
+        <id>https://pub.towardsai.net/every-developer-thinks-ai-makes-them-20-faster-measured-theyre-19-slower-8d87eba4b1de?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/every-developer-thinks-ai-makes-them-20-faster-measured-theyre-19-slower-8d87eba4b1de?source=rss----98111c9905da---4"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Did My AI Agent Do Last Night?]]></title>
+        <id>https://pub.towardsai.net/what-did-my-ai-agent-do-last-night-15f6a704c139?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-did-my-ai-agent-do-last-night-15f6a704c139?source=rss----98111c9905da---4"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From pledge to practice: Building a more inclusive open source ecosystem]]></title>
         <id>https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/</id>
         <link href="https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/"/>
@@ -253,120 +330,37 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My code reviewer kept asking for JSDoc — so I built a zero-dep CLI that catches it first]]></title>
-        <id>https://dev.to/_06a3df6b50aec966668fb/my-code-reviewer-kept-asking-for-jsdoc-so-i-built-a-zero-dep-cli-that-catches-it-first-mh9</id>
-        <link href="https://dev.to/_06a3df6b50aec966668fb/my-code-reviewer-kept-asking-for-jsdoc-so-i-built-a-zero-dep-cli-that-catches-it-first-mh9"/>
+        <title type="html"><![CDATA[I Built Simon (the Memory Game) in Vanilla JS + Web Audio]]></title>
+        <id>https://dev.to/dev48v/i-built-simon-the-memory-game-in-vanilla-js-web-audio-2p0m</id>
+        <link href="https://dev.to/dev48v/i-built-simon-the-memory-game-in-vanilla-js-web-audio-2p0m"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't Make Users Wait: Building a Real-Time Astrology Reader with SSE and Vedika [2026-06]]]></title>
-        <id>https://dev.to/vedikaapi/dont-make-users-wait-building-a-real-time-astrology-reader-with-sse-and-vedika-2026-06-26c2</id>
-        <link href="https://dev.to/vedikaapi/dont-make-users-wait-building-a-real-time-astrology-reader-with-sse-and-vedika-2026-06-26c2"/>
+        <title type="html"><![CDATA[What Is npm (Node Package Manager)? A Beginner’s Guide for Developers]]></title>
+        <id>https://dev.to/serveravatar/what-is-npm-node-package-manager-a-beginners-guide-for-developers-5ha1</id>
+        <link href="https://dev.to/serveravatar/what-is-npm-node-package-manager-a-beginners-guide-for-developers-5ha1"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tl.extend — Register Custom CSS Variants Anywhere in Your Codebase, No Central Config Required]]></title>
-        <id>https://dev.to/jenny_akhi_aade503c2764f6/tlextend-register-custom-css-variants-anywhere-in-your-codebase-no-central-config-required-545f</id>
-        <link href="https://dev.to/jenny_akhi_aade503c2764f6/tlextend-register-custom-css-variants-anywhere-in-your-codebase-no-central-config-required-545f"/>
+        <title type="html"><![CDATA[Optimizing Next.js App Router for Core Web Vitals — A Practical Guide]]></title>
+        <id>https://dev.to/aon_infotech_3a1b6ff525fc/optimizing-nextjs-app-router-for-core-web-vitals-a-practical-guide-11if</id>
+        <link href="https://dev.to/aon_infotech_3a1b6ff525fc/optimizing-nextjs-app-router-for-core-web-vitals-a-practical-guide-11if"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Sending Raw Assets to the Cloud: The True Cost of Remote Image Upscaling]]></title>
-        <id>https://dev.to/will_indie/stop-sending-raw-assets-to-the-cloud-the-true-cost-of-remote-image-upscaling-3l6e</id>
-        <link href="https://dev.to/will_indie/stop-sending-raw-assets-to-the-cloud-the-true-cost-of-remote-image-upscaling-3l6e"/>
+        <title type="html"><![CDATA[I Built My Own URL Shortener Because Bit.ly Charges for Custom Aliases]]></title>
+        <id>https://dev.to/vbv_rai/i-built-my-own-url-shortener-because-bitly-charges-for-custom-aliases-2ank</id>
+        <link href="https://dev.to/vbv_rai/i-built-my-own-url-shortener-because-bitly-charges-for-custom-aliases-2ank"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript Environment Variables: The Complete Guide]]></title>
-        <id>https://dev.to/ctrotech/typescript-environment-variables-the-complete-guide-kg9</id>
-        <link href="https://dev.to/ctrotech/typescript-environment-variables-the-complete-guide-kg9"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Article 50 compliance in about 30 lines of code: a developer guide to the EU AI Act]]></title>
-        <id>https://dev.to/disclos/article-50-compliance-in-about-30-lines-of-code-a-developer-guide-to-the-eu-ai-act-219l</id>
-        <link href="https://dev.to/disclos/article-50-compliance-in-about-30-lines-of-code-a-developer-guide-to-the-eu-ai-act-219l"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrate Next.js to TanStack Start: Practical Guide with Real Examples]]></title>
-        <id>https://dev.to/dev_encyclopedia/migrate-nextjs-to-tanstack-start-practical-guide-with-real-examples-48lg</id>
-        <link href="https://dev.to/dev_encyclopedia/migrate-nextjs-to-tanstack-start-practical-guide-with-real-examples-48lg"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plasmo vs CRXJS vs WXT: Which Chrome Extension Framework Should You Use in 2026?]]></title>
-        <id>https://dev.to/quangpl/plasmo-vs-crxjs-vs-wxt-which-chrome-extension-framework-should-you-use-in-2026-37o4</id>
-        <link href="https://dev.to/quangpl/plasmo-vs-crxjs-vs-wxt-which-chrome-extension-framework-should-you-use-in-2026-37o4"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built 168 pages of free trading tools with vanilla HTML/JS — here's how]]></title>
-        <id>https://dev.to/mbinmhr/i-built-168-pages-of-free-trading-tools-with-vanilla-htmljs-heres-how-4n0d</id>
-        <link href="https://dev.to/mbinmhr/i-built-168-pages-of-free-trading-tools-with-vanilla-htmljs-heres-how-4n0d"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Shipping Broken Env Config: Comparing 4 TypeScript Validators]]></title>
-        <id>https://dev.to/ctrotech/ctroenv-vs-zod-envalid-t3-env-which-env-validator-should-you-use-4aln</id>
-        <link href="https://dev.to/ctrotech/ctroenv-vs-zod-envalid-t3-env-which-env-validator-should-you-use-4aln"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a WCAG Contrast Checker — Relative Luminance, sRGB Gamma, and the Step Most Implementations Skip]]></title>
-        <id>https://dev.to/sendotltd/building-a-wcag-contrast-checker-relative-luminance-srgb-gamma-and-the-step-most-4lha</id>
-        <link href="https://dev.to/sendotltd/building-a-wcag-contrast-checker-relative-luminance-srgb-gamma-and-the-step-most-4lha"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements]]></title>
-        <id>https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61</id>
-        <link href="https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a Chrome Extension called JARVIS AI.
-
-Features:
-- Floating JARVIS button on every webpage (bottom-right).
-- Futuristic Iron Man-style dark blue UI with animations.
-- Click button to open JARVIS panel and start voice recognition.
-- Listen continuousl]]></title>
-        <id>https://dev.to/yuvraj_sthakur_34eeb2d3/create-a-chrome-extension-called-jarvis-ai-features-floating-jarvis-button-on-every-webpage-acl</id>
-        <link href="https://dev.to/yuvraj_sthakur_34eeb2d3/create-a-chrome-extension-called-jarvis-ai-features-floating-jarvis-button-on-every-webpage-acl"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J'ai construit un assistant documentaire pour PME en un week-end — à coût zéro]]></title>
-        <id>https://dev.to/sharklandy/jai-construit-un-assistant-documentaire-pour-pme-en-un-week-end-a-cout-zero-2g5h</id>
-        <link href="https://dev.to/sharklandy/jai-construit-un-assistant-documentaire-pour-pme-en-un-week-end-a-cout-zero-2g5h"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compact JavaScript Signal/Observer Pattern: Balancing Brevity and Functionality in 33 Bytes]]></title>
-        <id>https://dev.to/pavkode/compact-javascript-signalobserver-pattern-balancing-brevity-and-functionality-in-33-bytes-12dd</id>
-        <link href="https://dev.to/pavkode/compact-javascript-signalobserver-pattern-balancing-brevity-and-functionality-in-33-bytes-12dd"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding an Extension that Summarises Web Pages with HTML, CSS, and JS]]></title>
-        <id>https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm</id>
-        <link href="https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm"/>
+        <title type="html"><![CDATA[I built a free offline Chinese pinyin annotator in a single HTML file]]></title>
+        <id>https://dev.to/vn_tunl_09a36fcbda701/i-built-a-free-offline-chinese-pinyin-annotator-in-a-single-html-file-4kdo</id>
+        <link href="https://dev.to/vn_tunl_09a36fcbda701/i-built-a-free-offline-chinese-pinyin-annotator-in-a-single-html-file-4kdo"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
