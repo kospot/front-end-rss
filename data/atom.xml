@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-22T22:00:56.519Z</updated>
+    <updated>2026-06-23T00:01:33.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[AI is cursing renters with the promise of impossible homes]]></title>
-        <id>https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings</id>
-        <link href="https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Steam Machine is the start of an even more expensive future for game consoles]]></title>
-        <id>https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix</id>
-        <link href="https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix"/>
+        <title type="html"><![CDATA[Nvidia says its AI data center design runs hotter to use a lot less water]]></title>
+        <id>https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling</id>
+        <link href="https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -36,23 +29,23 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Pauses Employee-Tracking Program Following Internal Data Leak]]></title>
-        <id>https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</id>
-        <link href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"/>
+        <title type="html"><![CDATA[The Steam Machine is the start of an even more expensive future for game consoles]]></title>
+        <id>https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix</id>
+        <link href="https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Exposed Data Internally From Its Controversial Employee-Tracking Program]]></title>
-        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
-        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
+        <title type="html"><![CDATA[AI is cursing renters with the promise of impossible homes]]></title>
+        <id>https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings</id>
+        <link href="https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-mushroom-coffee/</id>
-        <link href="https://www.wired.com/gallery/best-mushroom-coffee/"/>
+        <title type="html"><![CDATA[A Source of Mysterious Repeating Radio Signals From Space Has Been Identified]]></title>
+        <id>https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/</id>
+        <link href="https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -64,9 +57,30 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The AI world is getting ‘loopy’]]></title>
-        <id>https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/</id>
-        <link href="https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"/>
+        <title type="html"><![CDATA[We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)]]></title>
+        <id>https://www.wired.com/gallery/best-mushroom-coffee/</id>
+        <link href="https://www.wired.com/gallery/best-mushroom-coffee/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Exposed Data Internally From Its Controversial Employee-Tracking Program]]></title>
+        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
+        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Pauses Employee-Tracking Program Following Internal Data Leak]]></title>
+        <id>https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</id>
+        <link href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX inks compute deal with Reflection AI, an open source AI lab]]></title>
+        <id>https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/</id>
+        <link href="https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -78,9 +92,9 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX inks compute deal with Reflection AI, an open source AI lab]]></title>
-        <id>https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/</id>
-        <link href="https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/"/>
+        <title type="html"><![CDATA[The AI world is getting ‘loopy’]]></title>
+        <id>https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/</id>
+        <link href="https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -134,9 +148,9 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Did My AI Agent Do Last Night?]]></title>
-        <id>https://pub.towardsai.net/what-did-my-ai-agent-do-last-night-15f6a704c139?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-did-my-ai-agent-do-last-night-15f6a704c139?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Building an Offline “Life Memorizer” with Gemini 2.0 & Qdrant Edge]]></title>
+        <id>https://pub.towardsai.net/building-an-offline-life-memorizer-with-gemini-2-0-qdrant-edge-695ce69d3360?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-an-offline-life-memorizer-with-gemini-2-0-qdrant-edge-695ce69d3360?source=rss----98111c9905da---4"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -148,9 +162,9 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building an Offline “Life Memorizer” with Gemini 2.0 & Qdrant Edge]]></title>
-        <id>https://pub.towardsai.net/building-an-offline-life-memorizer-with-gemini-2-0-qdrant-edge-695ce69d3360?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-an-offline-life-memorizer-with-gemini-2-0-qdrant-edge-695ce69d3360?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[What Did My AI Agent Do Last Night?]]></title>
+        <id>https://pub.towardsai.net/what-did-my-ai-agent-do-last-night-15f6a704c139?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-did-my-ai-agent-do-last-night-15f6a704c139?source=rss----98111c9905da---4"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -162,51 +176,30 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[git/Js-worm-malware]]></title>
-        <id>https://dev.to/sd_sharon_/gitjs-worm-malware-1l08</id>
-        <link href="https://dev.to/sd_sharon_/gitjs-worm-malware-1l08"/>
+        <title type="html"><![CDATA[I built 168 pages of free trading tools with vanilla HTML/JS — here's how]]></title>
+        <id>https://dev.to/mbinmhr/i-built-168-pages-of-free-trading-tools-with-vanilla-htmljs-heres-how-4n0d</id>
+        <link href="https://dev.to/mbinmhr/i-built-168-pages-of-free-trading-tools-with-vanilla-htmljs-heres-how-4n0d"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ever had a renamed column quietly break a CSV export? csv-pipe makes it a compile error, reads and writes both ways, and parses several times faster than papaparse. Live playground in the post to try your own data.]]></title>
-        <id>https://dev.to/myroslavmartsin/ever-had-a-renamed-column-quietly-break-a-csv-export-csv-pipe-makes-it-a-compile-error-reads-and-18oi</id>
-        <link href="https://dev.to/myroslavmartsin/ever-had-a-renamed-column-quietly-break-a-csv-export-csv-pipe-makes-it-a-compile-error-reads-and-18oi"/>
+        <title type="html"><![CDATA[Stop Shipping Broken Env Config: Comparing 4 TypeScript Validators]]></title>
+        <id>https://dev.to/ctrotech/ctroenv-vs-zod-envalid-t3-env-which-env-validator-should-you-use-4aln</id>
+        <link href="https://dev.to/ctrotech/ctroenv-vs-zod-envalid-t3-env-which-env-validator-should-you-use-4aln"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[csv-pipe: read and write CSV in TypeScript, several times faster than papaparse]]></title>
-        <id>https://dev.to/myroslavmartsin/csv-pipe-read-and-write-csv-in-typescript-several-times-faster-than-papaparse-167k</id>
-        <link href="https://dev.to/myroslavmartsin/csv-pipe-read-and-write-csv-in-typescript-several-times-faster-than-papaparse-167k"/>
+        <title type="html"><![CDATA[Building a WCAG Contrast Checker — Relative Luminance, sRGB Gamma, and the Step Most Implementations Skip]]></title>
+        <id>https://dev.to/sendotltd/building-a-wcag-contrast-checker-relative-luminance-srgb-gamma-and-the-step-most-4lha</id>
+        <link href="https://dev.to/sendotltd/building-a-wcag-contrast-checker-relative-luminance-srgb-gamma-and-the-step-most-4lha"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I built an Offline-First Voice-Controlled Map Engine in JavaScript]]></title>
-        <id>https://dev.to/sanish_kumar/how-i-built-an-offline-first-voice-controlled-map-engine-in-javascript-if8</id>
-        <link href="https://dev.to/sanish_kumar/how-i-built-an-offline-first-voice-controlled-map-engine-in-javascript-if8"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding an Extension that Summarises Web Pages with HTML, CSS, and JS]]></title>
-        <id>https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm</id>
-        <link href="https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compact JavaScript Signal/Observer Pattern: Balancing Brevity and Functionality in 33 Bytes]]></title>
-        <id>https://dev.to/pavkode/compact-javascript-signalobserver-pattern-balancing-brevity-and-functionality-in-33-bytes-12dd</id>
-        <link href="https://dev.to/pavkode/compact-javascript-signalobserver-pattern-balancing-brevity-and-functionality-in-33-bytes-12dd"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J'ai construit un assistant documentaire pour PME en un week-end — à coût zéro]]></title>
-        <id>https://dev.to/sharklandy/jai-construit-un-assistant-documentaire-pour-pme-en-un-week-end-a-cout-zero-2g5h</id>
-        <link href="https://dev.to/sharklandy/jai-construit-un-assistant-documentaire-pour-pme-en-un-week-end-a-cout-zero-2g5h"/>
+        <title type="html"><![CDATA[🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements]]></title>
+        <id>https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61</id>
+        <link href="https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -224,23 +217,58 @@ Features:
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements]]></title>
-        <id>https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61</id>
-        <link href="https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61"/>
+        <title type="html"><![CDATA[J'ai construit un assistant documentaire pour PME en un week-end — à coût zéro]]></title>
+        <id>https://dev.to/sharklandy/jai-construit-un-assistant-documentaire-pour-pme-en-un-week-end-a-cout-zero-2g5h</id>
+        <link href="https://dev.to/sharklandy/jai-construit-un-assistant-documentaire-pour-pme-en-un-week-end-a-cout-zero-2g5h"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI signs deal to show Getty's images in ChatGPT results]]></title>
-        <id>https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/</id>
-        <link href="https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Compact JavaScript Signal/Observer Pattern: Balancing Brevity and Functionality in 33 Bytes]]></title>
+        <id>https://dev.to/pavkode/compact-javascript-signalobserver-pattern-balancing-brevity-and-functionality-in-33-bytes-12dd</id>
+        <link href="https://dev.to/pavkode/compact-javascript-signalobserver-pattern-balancing-brevity-and-functionality-in-33-bytes-12dd"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Polymarket has reportedly been paying creators to post fake betting videos]]></title>
-        <id>https://www.engadget.com/2198495/wall-street-journal-polymarket-reportedly-paying-creators-to-post-fake-betting-videos/</id>
-        <link href="https://www.engadget.com/2198495/wall-street-journal-polymarket-reportedly-paying-creators-to-post-fake-betting-videos/"/>
+        <title type="html"><![CDATA[Coding an Extension that Summarises Web Pages with HTML, CSS, and JS]]></title>
+        <id>https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm</id>
+        <link href="https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I built an Offline-First Voice-Controlled Map Engine in JavaScript]]></title>
+        <id>https://dev.to/sanish_kumar/how-i-built-an-offline-first-voice-controlled-map-engine-in-javascript-if8</id>
+        <link href="https://dev.to/sanish_kumar/how-i-built-an-offline-first-voice-controlled-map-engine-in-javascript-if8"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[csv-pipe: read and write CSV in TypeScript, several times faster than papaparse]]></title>
+        <id>https://dev.to/myroslavmartsin/csv-pipe-read-and-write-csv-in-typescript-several-times-faster-than-papaparse-167k</id>
+        <link href="https://dev.to/myroslavmartsin/csv-pipe-read-and-write-csv-in-typescript-several-times-faster-than-papaparse-167k"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ever had a renamed column quietly break a CSV export? csv-pipe makes it a compile error, reads and writes both ways, and parses several times faster than papaparse. Live playground in the post to try your own data.]]></title>
+        <id>https://dev.to/myroslavmartsin/ever-had-a-renamed-column-quietly-break-a-csv-export-csv-pipe-makes-it-a-compile-error-reads-and-18oi</id>
+        <link href="https://dev.to/myroslavmartsin/ever-had-a-renamed-column-quietly-break-a-csv-export-csv-pipe-makes-it-a-compile-error-reads-and-18oi"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[git/Js-worm-malware]]></title>
+        <id>https://dev.to/sd_sharon_/gitjs-worm-malware-1l08</id>
+        <link href="https://dev.to/sd_sharon_/gitjs-worm-malware-1l08"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wyze’s new smart scale can break down your body composition for less than $80]]></title>
+        <id>https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition</id>
+        <link href="https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
@@ -252,16 +280,16 @@ Features:
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wyze’s new smart scale can break down your body composition for less than $80]]></title>
-        <id>https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition</id>
-        <link href="https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition"/>
+        <title type="html"><![CDATA[Polymarket has reportedly been paying creators to post fake betting videos]]></title>
+        <id>https://www.engadget.com/2198495/wall-street-journal-polymarket-reportedly-paying-creators-to-post-fake-betting-videos/</id>
+        <link href="https://www.engadget.com/2198495/wall-street-journal-polymarket-reportedly-paying-creators-to-post-fake-betting-videos/"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World Cup Scams Are Getting Harder to Spot]]></title>
-        <id>https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/</id>
-        <link href="https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/"/>
+        <title type="html"><![CDATA[OpenAI signs deal to show Getty's images in ChatGPT results]]></title>
+        <id>https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/</id>
+        <link href="https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
@@ -273,16 +301,16 @@ Features:
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah and invests $900M in startup]]></title>
-        <id>https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/</id>
-        <link href="https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/"/>
+        <title type="html"><![CDATA[World Cup Scams Are Getting Harder to Spot]]></title>
+        <id>https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/</id>
+        <link href="https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubisoft co-founder Claude Guillemot dies in plane crash]]></title>
-        <id>https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/</id>
-        <link href="https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/"/>
+        <title type="html"><![CDATA[TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance]]></title>
+        <id>https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/</id>
+        <link href="https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
@@ -294,9 +322,16 @@ Features:
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance]]></title>
-        <id>https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/</id>
-        <link href="https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/"/>
+        <title type="html"><![CDATA[Ubisoft co-founder Claude Guillemot dies in plane crash]]></title>
+        <id>https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/</id>
+        <link href="https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/"/>
+        <updated>2026-06-21T16:00:00.000Z</updated>
+        <published>2026-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah and invests $900M in startup]]></title>
+        <id>https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/</id>
+        <link href="https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
@@ -332,41 +367,6 @@ Features:
         <title type="html"><![CDATA[Prediction: A Frontier open-source LLM Will Be Released On 3rd December 2026]]></title>
         <id>https://blog.doubleword.ai/frontier-os-llm</id>
         <link href="https://blog.doubleword.ai/frontier-os-llm"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cory Doctorow review – the real price of artificial intelligence]]></title>
-        <id>https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence</id>
-        <link href="https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NimConf 2026: Extending Enu, and building 3D worlds with Claude]]></title>
-        <id>https://www.youtube.com/watch?v=kjOUEDfuzQI</id>
-        <link href="https://www.youtube.com/watch?v=kjOUEDfuzQI"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China targets U.S. firms in retaliation for Pentagon blacklist]]></title>
-        <id>https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html</id>
-        <link href="https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ILX Launcher – a developer cockpit for Python apps (hot reload, crash capture)]]></title>
-        <id>https://github.com/ilxstudio/ILX-Launcher</id>
-        <link href="https://github.com/ilxstudio/ILX-Launcher"/>
-        <updated>2026-06-21T16:00:00.000Z</updated>
-        <published>2026-06-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test Post – Please Ignore]]></title>
-        <id>https://news.ycombinator.com/item?id=48625389</id>
-        <link href="https://news.ycombinator.com/item?id=48625389"/>
         <updated>2026-06-21T16:00:00.000Z</updated>
         <published>2026-06-21T16:00:00.000Z</published>
     </entry>
