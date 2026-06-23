@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-23T13:03:32.012Z</updated>
+    <updated>2026-06-23T15:02:57.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,37 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Valve confirms it&#8217;s working with Intel and Nvidia on SteamOS for more GPUs]]></title>
-        <id>https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux</id>
-        <link href="https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta launches cheaper smart glasses without Ray-Ban]]></title>
-        <id>https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy</id>
-        <link href="https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These are the best smart home deals this Prime Day]]></title>
-        <id>https://www.theverge.com/tech/953017/best-smart-home-deals-robot-vacuums-locks-doorbell</id>
-        <link href="https://www.theverge.com/tech/953017/best-smart-home-deals-robot-vacuums-locks-doorbell"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is cursing renters with the promise of impossible homes]]></title>
-        <id>https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings</id>
-        <link href="https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Steam Machine is the start of an even more expensive future for game consoles]]></title>
-        <id>https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix</id>
-        <link href="https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix"/>
+        <title type="html"><![CDATA[Nvidia says its AI data center design runs hotter to use a lot less water]]></title>
+        <id>https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling</id>
+        <link href="https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -57,86 +29,51 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia says its AI data center design runs hotter to use a lot less water]]></title>
-        <id>https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling</id>
-        <link href="https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling"/>
+        <title type="html"><![CDATA[The Steam Machine is the start of an even more expensive future for game consoles]]></title>
+        <id>https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix</id>
+        <link href="https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s Very Own Smart Glasses Go on Sale Today for $299]]></title>
-        <id>https://www.wired.com/story/meta-new-smart-glasses-are-cheaper-colorful-and-meta-branded/</id>
-        <link href="https://www.wired.com/story/meta-new-smart-glasses-are-cheaper-colorful-and-meta-branded/"/>
+        <title type="html"><![CDATA[AI is cursing renters with the promise of impossible homes]]></title>
+        <id>https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings</id>
+        <link href="https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Digital Wall Calendar (2026): Skylight, Everblog, Apolosign]]></title>
-        <id>https://www.wired.com/story/are-digital-wall-calendars-worth-it/</id>
-        <link href="https://www.wired.com/story/are-digital-wall-calendars-worth-it/"/>
+        <title type="html"><![CDATA[These are the best smart home deals this Prime Day]]></title>
+        <id>https://www.theverge.com/tech/953017/best-smart-home-deals-robot-vacuums-locks-doorbell</id>
+        <link href="https://www.theverge.com/tech/953017/best-smart-home-deals-robot-vacuums-locks-doorbell"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The New ‘Odyssey’ Movie Is Sparking a Right-Wing Backlash. This Female Scholar Knows It Well]]></title>
-        <id>https://www.wired.com/story/the-new-odyssey-movie-is-sparking-a-right-wing-backlash-this-female-scholar-knows-it-well/</id>
-        <link href="https://www.wired.com/story/the-new-odyssey-movie-is-sparking-a-right-wing-backlash-this-female-scholar-knows-it-well/"/>
+        <title type="html"><![CDATA[Meta launches cheaper smart glasses without Ray-Ban]]></title>
+        <id>https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy</id>
+        <link href="https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HP OmniBook Ultra 14 Review: The Best Windows Laptop]]></title>
-        <id>https://www.wired.com/review/hp-omnibook-ultra-14/</id>
-        <link href="https://www.wired.com/review/hp-omnibook-ultra-14/"/>
+        <title type="html"><![CDATA[Valve confirms it&#8217;s working with Intel and Nvidia on SteamOS for more GPUs]]></title>
+        <id>https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux</id>
+        <link href="https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FCC Commissioner Anna Gomez Will Fight for Press Freedom—Until Trump Fires Her]]></title>
-        <id>https://www.wired.com/story/the-big-interview-podcast-anna-gomez-fcc/</id>
-        <link href="https://www.wired.com/story/the-big-interview-podcast-anna-gomez-fcc/"/>
+        <title type="html"><![CDATA[I Love This Anker Power Bank So Much I Own Two—There's a Big Sale Right Now]]></title>
+        <id>https://www.wired.com/story/anker-737-power-bank-prime-day-2026/</id>
+        <link href="https://www.wired.com/story/anker-737-power-bank-prime-day-2026/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Federal Workers Can’t Get the White House’s App Off Their Phones]]></title>
-        <id>https://www.wired.com/story/story/government-workers-cant-get-the-white-houses-app-off-their-phones/</id>
-        <link href="https://www.wired.com/story/story/government-workers-cant-get-the-white-houses-app-off-their-phones/"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Pauses Employee-Tracking Program Following Internal Data Leak]]></title>
-        <id>https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</id>
-        <link href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Exposed Data Internally From Its Controversial Employee-Tracking Program]]></title>
-        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
-        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-mushroom-coffee/</id>
-        <link href="https://www.wired.com/gallery/best-mushroom-coffee/"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos]]></title>
-        <id>https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/</id>
-        <link href="https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Source of Mysterious Repeating Radio Signals From Space Has Been Identified]]></title>
-        <id>https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/</id>
-        <link href="https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/"/>
+        <title type="html"><![CDATA[Stop Worrying About Storms with This Jackery Power Station—Half-off for Prime Day]]></title>
+        <id>https://www.wired.com/story/jackerys-power-station-half-off-for-prime-day-2026/</id>
+        <link href="https://www.wired.com/story/jackerys-power-station-half-off-for-prime-day-2026/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -148,23 +85,93 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates]]></title>
-        <id>https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/</id>
-        <link href="https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/"/>
+        <title type="html"><![CDATA[A Source of Mysterious Repeating Radio Signals From Space Has Been Identified]]></title>
+        <id>https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/</id>
+        <link href="https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX inks compute deal with Reflection AI, an open source AI lab]]></title>
-        <id>https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/</id>
-        <link href="https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/"/>
+        <title type="html"><![CDATA[OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos]]></title>
+        <id>https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/</id>
+        <link href="https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach]]></title>
-        <id>https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/</id>
-        <link href="https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/"/>
+        <title type="html"><![CDATA[We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)]]></title>
+        <id>https://www.wired.com/gallery/best-mushroom-coffee/</id>
+        <link href="https://www.wired.com/gallery/best-mushroom-coffee/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Exposed Data Internally From Its Controversial Employee-Tracking Program]]></title>
+        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
+        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Pauses Employee-Tracking Program Following Internal Data Leak]]></title>
+        <id>https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</id>
+        <link href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Federal Workers Can’t Get the White House’s App Off Their Phones]]></title>
+        <id>https://www.wired.com/story/story/government-workers-cant-get-the-white-houses-app-off-their-phones/</id>
+        <link href="https://www.wired.com/story/story/government-workers-cant-get-the-white-houses-app-off-their-phones/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FCC Commissioner Anna Gomez Will Fight for Press Freedom—Until Trump Fires Her]]></title>
+        <id>https://www.wired.com/story/the-big-interview-podcast-anna-gomez-fcc/</id>
+        <link href="https://www.wired.com/story/the-big-interview-podcast-anna-gomez-fcc/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HP OmniBook Ultra 14 Review: The Best Windows Laptop]]></title>
+        <id>https://www.wired.com/review/hp-omnibook-ultra-14/</id>
+        <link href="https://www.wired.com/review/hp-omnibook-ultra-14/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New ‘Odyssey’ Movie Is Sparking a Right-Wing Backlash. This Female Scholar Knows It Well]]></title>
+        <id>https://www.wired.com/story/the-new-odyssey-movie-is-sparking-a-right-wing-backlash-this-female-scholar-knows-it-well/</id>
+        <link href="https://www.wired.com/story/the-new-odyssey-movie-is-sparking-a-right-wing-backlash-this-female-scholar-knows-it-well/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Digital Wall Calendar (2026): Skylight, Everblog, Apolosign]]></title>
+        <id>https://www.wired.com/story/are-digital-wall-calendars-worth-it/</id>
+        <link href="https://www.wired.com/story/are-digital-wall-calendars-worth-it/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta’s Very Own Smart Glasses Go on Sale Today for $299]]></title>
+        <id>https://www.wired.com/story/meta-new-smart-glasses-are-cheaper-colorful-and-meta-branded/</id>
+        <link href="https://www.wired.com/story/meta-new-smart-glasses-are-cheaper-colorful-and-meta-branded/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta debuts new, cheaper smart glasses under its own brand]]></title>
+        <id>https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/</id>
+        <link href="https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/"/>
+        <updated>2026-06-22T16:00:00.000Z</updated>
+        <published>2026-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ribbie turns real-time baseball stats into arcade-like, pixel-art broadcasts]]></title>
+        <id>https://techcrunch.com/2026/06/23/ribbie-turns-real-time-baseball-stats-into-arcade-like-pixel-art-broadcasts/</id>
+        <link href="https://techcrunch.com/2026/06/23/ribbie-turns-real-time-baseball-stats-into-arcade-like-pixel-art-broadcasts/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -176,177 +183,170 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Styler – CSS-in-JS rebuilt around React 19 streaming SSR (5KB, 0 deps)]]></title>
-        <id>https://github.com/vitus-labs/ui-system/tree/main/packages/styler</id>
-        <link href="https://github.com/vitus-labs/ui-system/tree/main/packages/styler"/>
+        <title type="html"><![CDATA[Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach]]></title>
+        <id>https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/</id>
+        <link href="https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vite 8.1 is out with an experimental full bundle mode]]></title>
-        <id>https://vite.dev/blog/announcing-vite8-1</id>
-        <link href="https://vite.dev/blog/announcing-vite8-1"/>
+        <title type="html"><![CDATA[SpaceX inks compute deal with Reflection AI, an open source AI lab]]></title>
+        <id>https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/</id>
+        <link href="https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Value of Getting Closer to the Work]]></title>
-        <id>https://cate.blog/2026/06/23/the-value-of-getting-closer-to-the-work/</id>
-        <link href="https://cate.blog/2026/06/23/the-value-of-getting-closer-to-the-work/"/>
+        <title type="html"><![CDATA[Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates]]></title>
+        <id>https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/</id>
+        <link href="https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Biological aging and generational shifts in early-onset cancer risk]]></title>
-        <id>https://www.nature.com/articles/s41591-026-04448-w</id>
-        <link href="https://www.nature.com/articles/s41591-026-04448-w"/>
+        <title type="html"><![CDATA[Meta debuts new, cheaper smart glasses under its own brand]]></title>
+        <id>https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/</id>
+        <link href="https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visually Create Video Clips with mpv, FFmpeg and a Lua Extension]]></title>
-        <id>https://nickjanetakis.com/blog/visually-create-video-clips-with-mpv-ffmpeg-and-a-lua-extension</id>
-        <link href="https://nickjanetakis.com/blog/visually-create-video-clips-with-mpv-ffmpeg-and-a-lua-extension"/>
+        <title type="html"><![CDATA[Moving Linear from styled‑components to StyleX]]></title>
+        <id>https://www.skovhus.dev/blog/moving-linear-from-styled-components-to-stylex</id>
+        <link href="https://www.skovhus.dev/blog/moving-linear-from-styled-components-to-stylex"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RDS Free Tier: What Those 750 Hours of Db.t3.micro Cover]]></title>
-        <id>https://www.usage.ai/blogs/aws/reserved-instances/rds/free-tier-rds/</id>
-        <link href="https://www.usage.ai/blogs/aws/reserved-instances/rds/free-tier-rds/"/>
+        <title type="html"><![CDATA[Imagin-4D: Image-Guided Controllable Interaction Generation]]></title>
+        <id>https://imagin4d.github.io/</id>
+        <link href="https://imagin4d.github.io/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You can't tell AI to fix User Experience (yet)]]></title>
-        <id>https://gilli.is/journal/you-can-t-tell-ai-to-fix-user-experience-yet</id>
-        <link href="https://gilli.is/journal/you-can-t-tell-ai-to-fix-user-experience-yet"/>
+        <title type="html"><![CDATA[Ask HN: Advice for new chief commercial officer at tech firm?]]></title>
+        <id>https://news.ycombinator.com/item?id=48645743</id>
+        <link href="https://news.ycombinator.com/item?id=48645743"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Theoretical Limit of Image Compression [video]]]></title>
-        <id>https://www.youtube.com/watch?v=W39hBPOk9Hk</id>
-        <link href="https://www.youtube.com/watch?v=W39hBPOk9Hk"/>
+        <title type="html"><![CDATA[You already have a Git server]]></title>
+        <id>https://gopeek-lovat.vercel.app/blog-you-already-have-a-git-server.html</id>
+        <link href="https://gopeek-lovat.vercel.app/blog-you-already-have-a-git-server.html"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Human bodies did not simply got bigger and bigger over time in a steady line]]></title>
-        <id>https://phys.org/news/2026-06-idea-human-bodies-simply-bigger.html</id>
-        <link href="https://phys.org/news/2026-06-idea-human-bodies-simply-bigger.html"/>
+        <title type="html"><![CDATA[Show HN: SaaS Pegasus – the original Django boilerplate, now MIT-licensed]]></title>
+        <id>https://github.com/saaspegasus/django-boilerplate</id>
+        <link href="https://github.com/saaspegasus/django-boilerplate"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Invite to beta tester and investors for depgaze. SW supply chain security tool]]></title>
-        <id>https://www.depgaze.xyz/</id>
-        <link href="https://www.depgaze.xyz/"/>
+        <title type="html"><![CDATA[See How Sam Altman's Personal Investments Benefit from Ties to OpenAI]]></title>
+        <id>https://www.wsj.com/tech/ai/see-how-sam-altmans-personal-investments-benefit-from-ties-to-openai-9fcb24c9</id>
+        <link href="https://www.wsj.com/tech/ai/see-how-sam-altmans-personal-investments-benefit-from-ties-to-openai-9fcb24c9"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EU Member States (and Google) suddenly want to keep cookie banners]]></title>
-        <id>https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners</id>
-        <link href="https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners"/>
+        <title type="html"><![CDATA[Show HN: DomainDash – uptime/SSL/domain checks for client sites]]></title>
+        <id>https://domaindash.io</id>
+        <link href="https://domaindash.io"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[America's largest companies have no simple way to report security flaws]]></title>
-        <id>https://this.weekinsecurity.com/dozens-of-americas-largest-companies-have-no-simple-way-to-report-security-flaws/</id>
-        <link href="https://this.weekinsecurity.com/dozens-of-americas-largest-companies-have-no-simple-way-to-report-security-flaws/"/>
+        <title type="html"><![CDATA[Ask HN: Does in your workplace employee engagement / recognition is important?]]></title>
+        <id>https://news.ycombinator.com/item?id=48642535</id>
+        <link href="https://news.ycombinator.com/item?id=48642535"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Current AI is like the film company producing TV series or movies]]></title>
-        <id>https://devcyc.life/current-ai-is-like-the-film-company-producing-tv-series-or-movies/</id>
-        <link href="https://devcyc.life/current-ai-is-like-the-film-company-producing-tv-series-or-movies/"/>
+        <title type="html"><![CDATA[I built a GPU back end for Emacs]]></title>
+        <id>https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/</id>
+        <link href="https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SHOW HN: ConvertFast – offline file conversion and file utilities for desktop]]></title>
-        <id>https://convertfast.co/</id>
-        <link href="https://convertfast.co/"/>
+        <title type="html"><![CDATA[Show HN: OpenTerm – A tiny, fast SSH client (no login, no cloud, free)]]></title>
+        <id>https://github.com/zhangshuo1991/openterm</id>
+        <link href="https://github.com/zhangshuo1991/openterm"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: SIA SEO: AI SEO content generation that shows up in AI Search Results]]></title>
-        <id>https://siaseo.com</id>
-        <link href="https://siaseo.com"/>
+        <title type="html"><![CDATA[AI models capable of devastating attacks on governments and business months away]]></title>
+        <id>https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security</id>
+        <link href="https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everyone Was Wrong About Maximum Siphon Height [video]]]></title>
-        <id>https://www.youtube.com/watch?v=5glksNTKkZI</id>
-        <link href="https://www.youtube.com/watch?v=5glksNTKkZI"/>
+        <title type="html"><![CDATA[NavigationServer2D in Godot: The Complete Guide]]></title>
+        <id>https://vav-labs.com/blog/navigationserver2d-godot-complete-guide/</id>
+        <link href="https://vav-labs.com/blog/navigationserver2d-godot-complete-guide/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Durable Agent Sessions API (Preview)]]></title>
-        <id>https://opencomputer.durableagents.dev/</id>
-        <link href="https://opencomputer.durableagents.dev/"/>
+        <title type="html"><![CDATA[Show HN: VibePantry – Photograph your kitchen, get recipes from what you have]]></title>
+        <id>https://vibepantry.com/</id>
+        <link href="https://vibepantry.com/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Full typing for Nix based on TypeScript]]></title>
-        <id>https://github.com/ryanrasti/typenix</id>
-        <link href="https://github.com/ryanrasti/typenix"/>
+        <title type="html"><![CDATA[Show HN: LoomStack – Helping engineering orgs scale AI-driven development]]></title>
+        <id>https://loomstack.co/</id>
+        <link href="https://loomstack.co/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[284B Model Shouldn't Fit on Your Laptop. It Does [video]]]></title>
-        <id>https://www.youtube.com/watch?v=9gHcmhUDJfw</id>
-        <link href="https://www.youtube.com/watch?v=9gHcmhUDJfw"/>
+        <title type="html"><![CDATA[What If the Work We're Busy Automating Is Needless?]]></title>
+        <id>https://www.oftwominds.com/blogjune26/needless-work6-26.html</id>
+        <link href="https://www.oftwominds.com/blogjune26/needless-work6-26.html"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Levels.fyi Atlas – Interactive Bay Area Map with Pay]]></title>
-        <id>https://www.levels.fyi/atlas</id>
-        <link href="https://www.levels.fyi/atlas"/>
+        <title type="html"><![CDATA[UK considers forcing social media firms to prioritise trusted news]]></title>
+        <id>https://www.reuters.com/legal/litigation/uk-considers-forcing-social-media-firms-prioritise-trusted-news-2026-06-22/</id>
+        <link href="https://www.reuters.com/legal/litigation/uk-considers-forcing-social-media-firms-prioritise-trusted-news-2026-06-22/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta pauses AI training program tracking employee keystrokes after internal leak]]></title>
-        <id>https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6</id>
-        <link href="https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"/>
+        <title type="html"><![CDATA[Seedance 2.5, generating a complete 30-second video in one go]]></title>
+        <id>https://twitter.com/xiaohu/status/2069236441964818508</id>
+        <link href="https://twitter.com/xiaohu/status/2069236441964818508"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Mechanistic Explanation of Prompt Injection – LessWrong]]></title>
-        <id>https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</id>
-        <link href="https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you"/>
+        <title type="html"><![CDATA[Vim Adventures – learning Vim by playing a game]]></title>
+        <id>https://www.youtube.com/watch?v=GVjtUK5JEw0</id>
+        <link href="https://www.youtube.com/watch?v=GVjtUK5JEw0"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Still Water Colors: interactive Three.js pigment art]]></title>
-        <id>https://sand-morph.up.railway.app/still-water-colors</id>
-        <link href="https://sand-morph.up.railway.app/still-water-colors"/>
+        <title type="html"><![CDATA[Reddit account history viewer, even for deleted posts]]></title>
+        <id>https://deletedby.com</id>
+        <link href="https://deletedby.com"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub]]></title>
-        <id>https://github.com/BohemiaInteractive/CWR</id>
-        <link href="https://github.com/BohemiaInteractive/CWR"/>
-        <updated>2026-06-22T16:00:00.000Z</updated>
-        <published>2026-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Exposed Data Internally from Its Controversial Employee-Tracking Program]]></title>
-        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
-        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
+        <title type="html"><![CDATA[The System Moved On, but It Didn't Forget]]></title>
+        <id>https://webmnem.here.now/system-moved-on-but-it-didnt-forget/</id>
+        <link href="https://webmnem.here.now/system-moved-on-but-it-didnt-forget/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
@@ -358,9 +358,9 @@
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The System Moved On, but It Didn't Forget]]></title>
-        <id>https://webmnem.here.now/system-moved-on-but-it-didnt-forget/</id>
-        <link href="https://webmnem.here.now/system-moved-on-but-it-didnt-forget/"/>
+        <title type="html"><![CDATA[Meta Exposed Data Internally from Its Controversial Employee-Tracking Program]]></title>
+        <id>https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/</id>
+        <link href="https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"/>
         <updated>2026-06-22T16:00:00.000Z</updated>
         <published>2026-06-22T16:00:00.000Z</published>
     </entry>
