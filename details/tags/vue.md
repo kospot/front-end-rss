@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-24 18:01:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-24 21:02:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -9,17 +9,17 @@
 
 - [2026-06-23-How-I-Delete-PDF-Pages-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-delete-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-26ce) 
 - [2026-06-22-How-to-Convert-Word-Documents-to-PDFs-in-the-Browser-with-Vue-3,-mammoth,-and-html2pdf.js](https://dev.to/sunshey/how-to-convert-word-documents-to-pdfs-in-the-browser-with-vue-3-mammoth-and-html2pdfjs-15kh) 
-- [2026-06-18-How-to-Embed-Text-and-Hand-Drawn-Signatures-into-PDFs-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-embed-text-and-hand-drawn-signatures-into-pdfs-with-vue-3-and-pdf-lib-n8j) 
-- [2026-06-18-Building-a-headless-visual-editor-for-Vue-—-the-Vue-answer-to-Puck](https://dev.to/yukos1221/building-a-headless-visual-editor-for-vue-the-vue-answer-to-puck-10b7) 
 - [2026-06-18-How-to-Build-a-Real-Time-Search-Engine-Interface-in-Vue.js-3-with-Joffstrends-Search-API](https://dev.to/joffy122/how-to-build-a-real-time-search-engine-interface-in-vuejs-3-with-joffstrends-search-api-30jg) 
-- [2026-06-17-Best-Vue-UI-Components-for-Project-Management-and-Scheduling](https://dev.to/olga_tash/best-vue-ui-components-for-project-management-and-scheduling-4p9d) 
-- [2026-06-17-I-understand-why-Vue-is-so-loved](https://dev.to/caasieu/i-understand-why-vue-is-so-loved-41dd) 
+- [2026-06-18-Building-a-headless-visual-editor-for-Vue-—-the-Vue-answer-to-Puck](https://dev.to/yukos1221/building-a-headless-visual-editor-for-vue-the-vue-answer-to-puck-10b7) 
+- [2026-06-18-How-to-Embed-Text-and-Hand-Drawn-Signatures-into-PDFs-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-embed-text-and-hand-drawn-signatures-into-pdfs-with-vue-3-and-pdf-lib-n8j) 
 - [2026-06-17-How-I-Rotate-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-rotate-pdfs-in-the-browser-with-vue-3-and-pdf-lib-541b) 
+- [2026-06-17-I-understand-why-Vue-is-so-loved](https://dev.to/caasieu/i-understand-why-vue-is-so-loved-41dd) 
+- [2026-06-17-Best-Vue-UI-Components-for-Project-Management-and-Scheduling](https://dev.to/olga_tash/best-vue-ui-components-for-project-management-and-scheduling-4p9d) 
 - [2026-06-16-How-I-Convert-Excel-to-PDF-in-the-Browser-with-Vue-3,-xlsx,-and-html2pdf.js](https://dev.to/sunshey/how-i-convert-excel-to-pdf-in-the-browser-with-vue-3-xlsx-and-html2pdfjs-4k5e) 
 - [2026-06-15-How-I-Compress-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-compress-pdfs-in-the-browser-with-vue-3-and-pdf-lib-4d83) 
 - [2026-06-13-How-to-Convert-Word-to-PDF-in-the-Browser-with-Vue-3,-mammoth,-and-html2pdf.js](https://dev.to/sunshey/how-to-convert-word-to-pdf-in-the-browser-with-vue-3-mammoth-and-html2pdfjs-4c7h) 
-- [2026-06-12-Vue-3.6-Vapor-Mode:-Opt-Out-of-the-Virtual-DOM](https://dev.to/grimicorn/vue-36-vapor-mode-opt-out-of-the-virtual-dom-50en) 
 - [2026-06-12-How-to-Merge-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-merge-pdfs-in-the-browser-with-vue-3-and-pdf-lib-56m6) 
+- [2026-06-12-Vue-3.6-Vapor-Mode:-Opt-Out-of-the-Virtual-DOM](https://dev.to/grimicorn/vue-36-vapor-mode-opt-out-of-the-virtual-dom-50en) 
 - [2026-06-11-How-to-Add-Electronic-Signatures-to-PDFs-in-the-Browser-Vue-3-+-HTML5-Canvas](https://dev.to/sunshey/how-to-add-electronic-signatures-to-pdfs-in-the-browser-vue-3-html5-canvas-2804) 
 - [2026-06-10-ما-الذي-يميز-مهندس-Vue.js-Senior؟](https://dev.to/ahmed_niazy/m-ldhy-ymyz-mhnds-vuejs-senior-162i) 
 - [2026-06-06-What-is-JavaScript?-Features,-Advantages,-Disadvantages,-and-Uses](https://dev.to/sivasakthi_paramasivam_e8/what-is-javascript-features-advantages-disadvantages-and-uses-19b6) 
@@ -53,6 +53,7 @@ https://github.com/svar-widgets/vue-gantt
 - [2026-05-26-TIAR:-Trajectory-Informed-Advantage-Reweighting-for-LLM-Abstention-Learning](https://arxiv.org/abs/2605.25850) 
 - [2026-06-07-If-You’re-a-Python-Developer,-These-7-AI-APIs-Could-Be-Your-Biggest-Advantage-in-2026.](https://pub.towardsai.net/if-youre-a-python-developer-these-7-ai-apis-could-be-your-biggest-advantage-in-2026-deac03bc92d3?source=rss----98111c9905da---4) 
 - [2026-05-26-Agentic-AI-and-the-SMB-Banking-Advantage](https://pub.towardsai.net/agentic-ai-and-the-smb-banking-advantage-0e75e0514707?source=rss----98111c9905da---4) 
+- [2026-06-24-Chinese-Models-have-an-advantage-because-Chinese-symbols-convey-more-meaning](https://twitter.com/jun_song/status/2069666348163346942) 
 - [2026-06-18-StackOverflow-closed-my-OpenClaw-and-paperclipAI-integration-q.-as-"irrelevant"](https://stackoverflow.com/questions/79958607/how-do-i-view-server-logs-from-paperclipai-being-run-via-npx-paperclipai-run) 
 - [2026-06-03-Why-is-news.ycombinator-still-relevant-and-devs-keep-coming-back-to-it?](https://news.ycombinator.com/item?id=48384916) 
 - [2026-05-30-The-Oscar-Levant-Show-1958](https://archive.org/details/TheOscarLevantShow) 
