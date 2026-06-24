@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-24T02:01:42.216Z</updated>
+    <updated>2026-06-24T04:01:19.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -85,149 +85,65 @@
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China Minerals Threatens EU; AI Warfare Dominates Japan, WeChat]]></title>
-        <id>https://asiaai.fyi/wp-login.php?redirect_to=https%3A%2F%2Fasiaai.fyi%2Fwp-admin%2Fpost.php%3Fpost%3D197&amp;reauth=1</id>
-        <link href="https://asiaai.fyi/wp-login.php?redirect_to=https%3A%2F%2Fasiaai.fyi%2Fwp-admin%2Fpost.php%3Fpost%3D197&amp;reauth=1"/>
+        <title type="html"><![CDATA[Catbath – a tiny text editor in Rust with edit over SSH and web editor in 456KB]]></title>
+        <id>https://github.com/skorotkiewicz/catbath</id>
+        <link href="https://github.com/skorotkiewicz/catbath"/>
         <updated>2026-06-23T16:00:00.000Z</updated>
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenJTD: Project to Reverse-Engineer Ichitaro Word Processor Files Used in Japan]]></title>
-        <id>https://github.com/KimEJ/OpenJTD</id>
-        <link href="https://github.com/KimEJ/OpenJTD"/>
+        <title type="html"><![CDATA[LineShine Debuts at No. 1 as the TOP500 Enters a New Global Exascale Era]]></title>
+        <id>https://top500.org/news/lineshine-debuts-no-1-top500-enters-new-global-exascale-era/</id>
+        <link href="https://top500.org/news/lineshine-debuts-no-1-top500-enters-new-global-exascale-era/"/>
         <updated>2026-06-23T16:00:00.000Z</updated>
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chinese supercomputer leapfrogs best US machines to be ranked fastest]]></title>
-        <id>https://www.theguardian.com/technology/2026/jun/24/china-supercomputer-world-fastest-top500-ranking-lineshine</id>
-        <link href="https://www.theguardian.com/technology/2026/jun/24/china-supercomputer-world-fastest-top500-ranking-lineshine"/>
+        <title type="html"><![CDATA[Want to feel happier at work? Take a five-minute walk]]></title>
+        <id>https://www.bbc.com/news/articles/c78yzz936evo</id>
+        <link href="https://www.bbc.com/news/articles/c78yzz936evo"/>
         <updated>2026-06-23T16:00:00.000Z</updated>
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX raises $25B in debt sale less than two weeks after IPO]]></title>
-        <id>https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html</id>
-        <link href="https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html"/>
+        <title type="html"><![CDATA[US presses Meta to agree to AI reviews as security fears rise]]></title>
+        <id>https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html</id>
+        <link href="https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html"/>
         <updated>2026-06-23T16:00:00.000Z</updated>
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arabian Sand Boa: Python interpreter with frontier intelligence conditional eval]]></title>
-        <id>https://github.com/hopafoot/arabian-sand-boa</id>
-        <link href="https://github.com/hopafoot/arabian-sand-boa"/>
+        <title type="html"><![CDATA[Can a $1,500 Battery Replace a Powerwall? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=jl-rwZjdD3Y</id>
+        <link href="https://www.youtube.com/watch?v=jl-rwZjdD3Y"/>
         <updated>2026-06-23T16:00:00.000Z</updated>
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Purroute – An auto-detecting proxy router that translates between protocols]]></title>
-        <id>https://github.com/femboyisp/purroute</id>
-        <link href="https://github.com/femboyisp/purroute"/>
+        <title type="html"><![CDATA[I built an open source VAD that beats Silero, Pyannote, and WebRTC]]></title>
+        <id>https://github.com/monishmal3375/nova-vad</id>
+        <link href="https://github.com/monishmal3375/nova-vad"/>
         <updated>2026-06-23T16:00:00.000Z</updated>
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Fastest Python Struct?]]></title>
-        <id>https://www.crumpledpaper.tech/2026-06-21-python-struct-profiling/</id>
-        <link href="https://www.crumpledpaper.tech/2026-06-21-python-struct-profiling/"/>
+        <title type="html"><![CDATA[Mythos model found vulnerabilities in classified US Government systems]]></title>
+        <id>https://apnews.com/article/anthropic-mythos-ai-classified-systems-vulnerabilities-testing-3e8762c0527c4d8ed657cbe48c84a718</id>
+        <link href="https://apnews.com/article/anthropic-mythos-ai-classified-systems-vulnerabilities-testing-3e8762c0527c4d8ed657cbe48c84a718"/>
         <updated>2026-06-23T16:00:00.000Z</updated>
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chinese universities are cutting language majors to make way for AI]]></title>
-        <id>https://restofworld.org/2026/chinese-universities-drop-humanities-ai/</id>
-        <link href="https://restofworld.org/2026/chinese-universities-drop-humanities-ai/"/>
+        <title type="html"><![CDATA[RRB-Trees: Efficient Immutable Vectors]]></title>
+        <id>https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content</id>
+        <link href="https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content"/>
         <updated>2026-06-23T16:00:00.000Z</updated>
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UN chief urges AI companies to 'come clean' about the pollution they generate]]></title>
-        <id>https://www.fastcompany.com/91563535/un-chief-urges-ai-companies-come-clean-about-pollution-create</id>
-        <link href="https://www.fastcompany.com/91563535/un-chief-urges-ai-companies-come-clean-about-pollution-create"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eli Lilly Approved Obesity Drug for Mystery 79-Year-Old Patient]]></title>
-        <id>https://newrepublic.com/post/212206/eli-lilly-obesity-drug-79-year-old-patient-trump-health</id>
-        <link href="https://newrepublic.com/post/212206/eli-lilly-obesity-drug-79-year-old-patient-trump-health"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abyssguard]]></title>
-        <id>https://www.abyssguard.app/</id>
-        <link href="https://www.abyssguard.app/"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Why do AI video platforms keep generating foreign language text]]></title>
-        <id>https://news.ycombinator.com/item?id=48651941</id>
-        <link href="https://news.ycombinator.com/item?id=48651941"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: AirPosture – Open-Source Posture Coach Using AirPods]]></title>
-        <id>https://github.com/allenv0/AirPosture</id>
-        <link href="https://github.com/allenv0/AirPosture"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Short Guide to Celestial Navigation [pdf]]]></title>
-        <id>https://www.devill.net/Infos/Astro/Celestial_Navigation.pdf</id>
-        <link href="https://www.devill.net/Infos/Astro/Celestial_Navigation.pdf"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Problems: A Close Reading with 4th Amendment Guidance for Cops and Perps]]></title>
-        <id>https://web.archive.org/web/20201101230106/https://scholarship.law.slu.edu/cgi/viewcontent.cgi?article=1376&amp;context=lj</id>
-        <link href="https://web.archive.org/web/20201101230106/https://scholarship.law.slu.edu/cgi/viewcontent.cgi?article=1376&amp;context=lj"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A modern CLI for Java projects]]></title>
-        <id>https://github.com/sachahjkl/jav</id>
-        <link href="https://github.com/sachahjkl/jav"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Foundation Is Pursuing Trusted Identity Infrastructure for AI Agents]]></title>
-        <id>https://www.linuxfoundation.org/press/linux-foundation-announces-intent-to-launch-agent-name-service-to-establish-trusted-identity-infrastructure-for-ai-agents</id>
-        <link href="https://www.linuxfoundation.org/press/linux-foundation-announces-intent-to-launch-agent-name-service-to-establish-trusted-identity-infrastructure-for-ai-agents"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to find AI-conservative companies to work for?]]></title>
-        <id>https://news.ycombinator.com/item?id=48651675</id>
-        <link href="https://news.ycombinator.com/item?id=48651675"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI stock slump raises the question are investors taking profits or very nervous]]></title>
-        <id>https://apnews.com/article/tech-stocks-ai-investments-8a0ff4c95d5cae6f65c6e2ba03047058</id>
-        <link href="https://apnews.com/article/tech-stocks-ai-investments-8a0ff4c95d5cae6f65c6e2ba03047058"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Word Does Not Exist]]></title>
-        <id>https://www.thisworddoesnotexist.com/</id>
-        <link href="https://www.thisworddoesnotexist.com/"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia forces universities to teach drone warfare from September 2026]]></title>
-        <id>https://mezha.net/eng/bukvy/c3b94111_russia_forces_universities/</id>
-        <link href="https://mezha.net/eng/bukvy/c3b94111_russia_forces_universities/"/>
+        <title type="html"><![CDATA[Prairieland Defendants Sentenced Today to Prison Terms Ranging from 30-100 Years]]></title>
+        <id>https://prairielanddefendants.com/press-release/eight-federal-prairieland-defendants-sentenced-today-to-prison-terms-ranging-from-30-100-years-for-common-protest-activity/</id>
+        <link href="https://prairielanddefendants.com/press-release/eight-federal-prairieland-defendants-sentenced-today-to-prison-terms-ranging-from-30-100-years-for-common-protest-activity/"/>
         <updated>2026-06-23T16:00:00.000Z</updated>
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
@@ -239,9 +155,149 @@
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prairieland Defendants Sentenced Today to Prison Terms Ranging from 30-100 Years]]></title>
-        <id>https://prairielanddefendants.com/press-release/eight-federal-prairieland-defendants-sentenced-today-to-prison-terms-ranging-from-30-100-years-for-common-protest-activity/</id>
-        <link href="https://prairielanddefendants.com/press-release/eight-federal-prairieland-defendants-sentenced-today-to-prison-terms-ranging-from-30-100-years-for-common-protest-activity/"/>
+        <title type="html"><![CDATA[Russia forces universities to teach drone warfare from September 2026]]></title>
+        <id>https://mezha.net/eng/bukvy/c3b94111_russia_forces_universities/</id>
+        <link href="https://mezha.net/eng/bukvy/c3b94111_russia_forces_universities/"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Word Does Not Exist]]></title>
+        <id>https://www.thisworddoesnotexist.com/</id>
+        <link href="https://www.thisworddoesnotexist.com/"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI stock slump raises the question are investors taking profits or very nervous]]></title>
+        <id>https://apnews.com/article/tech-stocks-ai-investments-8a0ff4c95d5cae6f65c6e2ba03047058</id>
+        <link href="https://apnews.com/article/tech-stocks-ai-investments-8a0ff4c95d5cae6f65c6e2ba03047058"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to find AI-conservative companies to work for?]]></title>
+        <id>https://news.ycombinator.com/item?id=48651675</id>
+        <link href="https://news.ycombinator.com/item?id=48651675"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Foundation Is Pursuing Trusted Identity Infrastructure for AI Agents]]></title>
+        <id>https://www.linuxfoundation.org/press/linux-foundation-announces-intent-to-launch-agent-name-service-to-establish-trusted-identity-infrastructure-for-ai-agents</id>
+        <link href="https://www.linuxfoundation.org/press/linux-foundation-announces-intent-to-launch-agent-name-service-to-establish-trusted-identity-infrastructure-for-ai-agents"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A modern CLI for Java projects]]></title>
+        <id>https://github.com/sachahjkl/jav</id>
+        <link href="https://github.com/sachahjkl/jav"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Problems: A Close Reading with 4th Amendment Guidance for Cops and Perps]]></title>
+        <id>https://web.archive.org/web/20201101230106/https://scholarship.law.slu.edu/cgi/viewcontent.cgi?article=1376&amp;context=lj</id>
+        <link href="https://web.archive.org/web/20201101230106/https://scholarship.law.slu.edu/cgi/viewcontent.cgi?article=1376&amp;context=lj"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Short Guide to Celestial Navigation [pdf]]]></title>
+        <id>https://www.devill.net/Infos/Astro/Celestial_Navigation.pdf</id>
+        <link href="https://www.devill.net/Infos/Astro/Celestial_Navigation.pdf"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: AirPosture – Open-Source Posture Coach Using AirPods]]></title>
+        <id>https://github.com/allenv0/AirPosture</id>
+        <link href="https://github.com/allenv0/AirPosture"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Why do AI video platforms keep generating foreign language text]]></title>
+        <id>https://news.ycombinator.com/item?id=48651941</id>
+        <link href="https://news.ycombinator.com/item?id=48651941"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abyssguard]]></title>
+        <id>https://www.abyssguard.app/</id>
+        <link href="https://www.abyssguard.app/"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eli Lilly Approved Obesity Drug for Mystery 79-Year-Old Patient]]></title>
+        <id>https://newrepublic.com/post/212206/eli-lilly-obesity-drug-79-year-old-patient-trump-health</id>
+        <link href="https://newrepublic.com/post/212206/eli-lilly-obesity-drug-79-year-old-patient-trump-health"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UN chief urges AI companies to 'come clean' about the pollution they generate]]></title>
+        <id>https://www.fastcompany.com/91563535/un-chief-urges-ai-companies-come-clean-about-pollution-create</id>
+        <link href="https://www.fastcompany.com/91563535/un-chief-urges-ai-companies-come-clean-about-pollution-create"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese universities are cutting language majors to make way for AI]]></title>
+        <id>https://restofworld.org/2026/chinese-universities-drop-humanities-ai/</id>
+        <link href="https://restofworld.org/2026/chinese-universities-drop-humanities-ai/"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fastest Python Struct?]]></title>
+        <id>https://www.crumpledpaper.tech/2026-06-21-python-struct-profiling/</id>
+        <link href="https://www.crumpledpaper.tech/2026-06-21-python-struct-profiling/"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Purroute – An auto-detecting proxy router that translates between protocols]]></title>
+        <id>https://github.com/femboyisp/purroute</id>
+        <link href="https://github.com/femboyisp/purroute"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arabian Sand Boa: Python interpreter with frontier intelligence conditional eval]]></title>
+        <id>https://github.com/hopafoot/arabian-sand-boa</id>
+        <link href="https://github.com/hopafoot/arabian-sand-boa"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX raises $25B in debt sale less than two weeks after IPO]]></title>
+        <id>https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html</id>
+        <link href="https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese supercomputer leapfrogs best US machines to be ranked fastest]]></title>
+        <id>https://www.theguardian.com/technology/2026/jun/24/china-supercomputer-world-fastest-top500-ranking-lineshine</id>
+        <link href="https://www.theguardian.com/technology/2026/jun/24/china-supercomputer-world-fastest-top500-ranking-lineshine"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenJTD: Project to Reverse-Engineer Ichitaro Word Processor Files Used in Japan]]></title>
+        <id>https://github.com/KimEJ/OpenJTD</id>
+        <link href="https://github.com/KimEJ/OpenJTD"/>
+        <updated>2026-06-23T16:00:00.000Z</updated>
+        <published>2026-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Minerals Threatens EU; AI Warfare Dominates Japan, WeChat]]></title>
+        <id>https://asiaai.fyi/wp-login.php?redirect_to=https%3A%2F%2Fasiaai.fyi%2Fwp-admin%2Fpost.php%3Fpost%3D197&amp;reauth=1</id>
+        <link href="https://asiaai.fyi/wp-login.php?redirect_to=https%3A%2F%2Fasiaai.fyi%2Fwp-admin%2Fpost.php%3Fpost%3D197&amp;reauth=1"/>
         <updated>2026-06-23T16:00:00.000Z</updated>
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
@@ -295,72 +351,16 @@
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Super Mario is mathier than you think]]></title>
-        <id>https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/</id>
-        <link href="https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/"/>
+        <title type="html"><![CDATA[Synergizing Physically Constrained MCMC and Chemical-Informed Gaussian Processes for Reaction Network Discovery]]></title>
+        <id>https://arxiv.org/abs/2606.23757</id>
+        <link href="https://arxiv.org/abs/2606.23757"/>
         <updated>2026-06-23T16:00:00.000Z</updated>
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What the JSON Formatter Leaks Taught Me About Browser-Side Tools]]></title>
-        <id>https://dev.to/m-naoki-m/what-the-json-formatter-leaks-taught-me-about-browser-side-tools-38ao</id>
-        <link href="https://dev.to/m-naoki-m/what-the-json-formatter-leaks-taught-me-about-browser-side-tools-38ao"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Checkout Friction Detector: A Lightweight JavaScript Library for Finding Conversion Blockers]]></title>
-        <id>https://dev.to/xiden001/checkout-friction-detector-a-lightweight-javascript-library-for-finding-conversion-blockers-4ek2</id>
-        <link href="https://dev.to/xiden001/checkout-friction-detector-a-lightweight-javascript-library-for-finding-conversion-blockers-4ek2"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Event Loop Explained]]></title>
-        <id>https://dev.to/abhaseeb2115/nodejs-event-loop-explained-4441</id>
-        <link href="https://dev.to/abhaseeb2115/nodejs-event-loop-explained-4441"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Can Now Claim an Entire Walmart on the Map Without Owning a Single Product]]></title>
-        <id>https://dev.to/djowda/you-can-now-claim-an-entire-walmart-on-the-map-without-owning-a-single-product-928</id>
-        <link href="https://dev.to/djowda/you-can-now-claim-an-entire-walmart-on-the-map-without-owning-a-single-product-928"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTMLテーブルからSQL INSERT文をワンクリックで生成する方法]]></title>
-        <id>https://dev.to/circobit/htmlteburukarasql-insertwen-wowankuritukudesheng-cheng-surufang-fa-fcj</id>
-        <link href="https://dev.to/circobit/htmlteburukarasql-insertwen-wowankuritukudesheng-cheng-surufang-fa-fcj"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Arrays as Dictionary Keys: Hashability and Alternative Solutions for Mapping Multiple Keys to One Value]]></title>
-        <id>https://dev.to/pavkode/using-arrays-as-dictionary-keys-hashability-and-alternative-solutions-for-mapping-multiple-keys-to-132l</id>
-        <link href="https://dev.to/pavkode/using-arrays-as-dictionary-keys-hashability-and-alternative-solutions-for-mapping-multiple-keys-to-132l"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Render any font to a crisp SVG path in the browser with opentype.js]]></title>
-        <id>https://dev.to/fontbox/render-any-font-to-a-crisp-svg-path-in-the-browser-with-opentypejs-24j4</id>
-        <link href="https://dev.to/fontbox/render-any-font-to-a-crisp-svg-path-in-the-browser-with-opentypejs-24j4"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shopify Continues to Improve the Developer Experience 🚀]]></title>
-        <id>https://dev.to/shrikantkorde/shopify-continues-to-improve-the-developer-experience-4nb3</id>
-        <link href="https://dev.to/shrikantkorde/shopify-continues-to-improve-the-developer-experience-4nb3"/>
-        <updated>2026-06-23T16:00:00.000Z</updated>
-        <published>2026-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A fast, free hex to rgb that works offline]]></title>
-        <id>https://dev.to/crypto_plato_26/a-fast-free-hex-to-rgb-that-works-offline-do1</id>
-        <link href="https://dev.to/crypto_plato_26/a-fast-free-hex-to-rgb-that-works-offline-do1"/>
+        <title type="html"><![CDATA[Exploring Dualistic Meta-Learning to Enhance Domain Generalization in Open Set Scenarios]]></title>
+        <id>https://arxiv.org/abs/2606.23758</id>
+        <link href="https://arxiv.org/abs/2606.23758"/>
         <updated>2026-06-23T16:00:00.000Z</updated>
         <published>2026-06-23T16:00:00.000Z</published>
     </entry>
