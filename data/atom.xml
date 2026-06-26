@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-25T22:00:58.766Z</updated>
+    <updated>2026-06-26T00:01:51.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,13 +15,6 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Score a discounted Xbox console before the prices jump]]></title>
-        <id>https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike]]></title>
         <id>https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes</id>
         <link href="https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes"/>
@@ -29,9 +22,16 @@
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)]]></title>
-        <id>https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/</id>
-        <link href="https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/"/>
+        <title type="html"><![CDATA[Score a discounted Xbox console before the prices jump]]></title>
+        <id>https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data]]></title>
+        <id>https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
@@ -43,16 +43,23 @@
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents]]></title>
-        <id>https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</id>
-        <link href="https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"/>
+        <title type="html"><![CDATA[Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)]]></title>
+        <id>https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/</id>
+        <link href="https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General Intuition’s $2.3B bet that video games can train AI agents for the real world]]></title>
-        <id>https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</id>
-        <link href="https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"/>
+        <title type="html"><![CDATA[YouTube Shorts are getting even shorter with an update that lets you double the playback speed]]></title>
+        <id>https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/</id>
+        <link href="https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Finance gets a dedicated app for Android]]></title>
+        <id>https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/</id>
+        <link href="https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
@@ -64,9 +71,16 @@
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Finance gets a dedicated app for Android]]></title>
-        <id>https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/</id>
-        <link href="https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/"/>
+        <title type="html"><![CDATA[General Intuition’s $2.3B bet that video games can train AI agents for the real world]]></title>
+        <id>https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</id>
+        <link href="https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents]]></title>
+        <id>https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</id>
+        <link href="https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
@@ -113,9 +127,16 @@
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Brief History of Softmax: What It Is, Where It Came From, and How It Became Essential]]></title>
-        <id>https://pub.towardsai.net/a-brief-history-of-softmax-what-it-is-where-it-came-from-and-how-it-became-essential-e50b8e9b86b0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/a-brief-history-of-softmax-what-it-is-where-it-came-from-and-how-it-became-essential-e50b8e9b86b0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[AWS Kiro Powers Deep Dive: Managing MCP Complexity, Context, and Specialized Knowledge]]></title>
+        <id>https://pub.towardsai.net/aws-kiro-powers-deep-dive-managing-mcp-complexity-context-and-specialized-knowledge-0aa5a25108b9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/aws-kiro-powers-deep-dive-managing-mcp-complexity-context-and-specialized-knowledge-0aa5a25108b9?source=rss----98111c9905da---4"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Naive Bayes Interview Questions and Answers]]></title>
+        <id>https://pub.towardsai.net/top-20-naive-bayes-interview-questions-and-answers-782888b5c6d2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/top-20-naive-bayes-interview-questions-and-answers-782888b5c6d2?source=rss----98111c9905da---4"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
@@ -127,44 +148,51 @@
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Stopped Shopify's GraphQL API From Throttling My App (Parallel Query Patterns That Actually Work)]]></title>
-        <id>https://dev.to/masadashraf/how-i-stopped-shopifys-graphql-api-from-throttling-my-app-parallel-query-patterns-that-actually-kh9</id>
-        <link href="https://dev.to/masadashraf/how-i-stopped-shopifys-graphql-api-from-throttling-my-app-parallel-query-patterns-that-actually-kh9"/>
+        <title type="html"><![CDATA[A Brief History of Softmax: What It Is, Where It Came From, and How It Became Essential]]></title>
+        <id>https://pub.towardsai.net/a-brief-history-of-softmax-what-it-is-where-it-came-from-and-how-it-became-essential-e50b8e9b86b0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-brief-history-of-softmax-what-it-is-where-it-came-from-and-how-it-became-essential-e50b8e9b86b0?source=rss----98111c9905da---4"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Tool That Shows You Exactly Why a React Component Re-renders]]></title>
-        <id>https://dev.to/dev48v/i-built-a-tool-that-shows-you-exactly-why-a-react-component-re-renders-k27</id>
-        <link href="https://dev.to/dev48v/i-built-a-tool-that-shows-you-exactly-why-a-react-component-re-renders-k27"/>
+        <title type="html"><![CDATA[datasette-export-database 0.3a2]]></title>
+        <id>https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js 16.3, WebSocket on Vercel, cnfast, Instant Navigations, React Libraries for 2026, What RSCs Can Do]]></title>
-        <id>https://dev.to/erfanebrahimnia/nextjs-163-websocket-on-vercel-cnfast-instant-navigations-react-libraries-for-2026-what-rscs-43c4</id>
-        <link href="https://dev.to/erfanebrahimnia/nextjs-163-websocket-on-vercel-cnfast-instant-navigations-react-libraries-for-2026-what-rscs-43c4"/>
+        <title type="html"><![CDATA[Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks]]></title>
+        <id>https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/</id>
+        <link href="https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built Et3am Because a Family in Alexandria Died of Despair]]></title>
-        <id>https://dev.to/amr_lotfy/i-built-et3am-because-a-family-in-alexandria-died-of-despair-166j</id>
-        <link href="https://dev.to/amr_lotfy/i-built-et3am-because-a-family-in-alexandria-died-of-despair-166j"/>
+        <title type="html"><![CDATA[Phasma: I Brought PhantomJS Back from the Dead (and It Runs with Just `pip install`)]]></title>
+        <id>https://dev.to/mohammadraziei/phasma-i-brought-phantomjs-back-from-the-dead-and-it-runs-with-just-pip-install-41d6</id>
+        <link href="https://dev.to/mohammadraziei/phasma-i-brought-phantomjs-back-from-the-dead-and-it-runs-with-just-pip-install-41d6"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lessons from building a QR-paired browser handoff tool]]></title>
-        <id>https://dev.to/icyzip/lessons-from-building-a-qr-paired-browser-handoff-tool-1nlk</id>
-        <link href="https://dev.to/icyzip/lessons-from-building-a-qr-paired-browser-handoff-tool-1nlk"/>
+        <title type="html"><![CDATA[How to use the n8n Webhook node — receive HTTP requests and trigger workflows (free JSON)]]></title>
+        <id>https://dev.to/pirateprentice/how-to-use-the-n8n-webhook-node-receive-http-requests-and-trigger-workflows-free-json-50em</id>
+        <link href="https://dev.to/pirateprentice/how-to-use-the-n8n-webhook-node-receive-http-requests-and-trigger-workflows-free-json-50em"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A fast, free regex tester that works offline]]></title>
-        <id>https://dev.to/crypto_plato_26/a-fast-free-regex-tester-that-works-offline-4hek</id>
-        <link href="https://dev.to/crypto_plato_26/a-fast-free-regex-tester-that-works-offline-4hek"/>
+        <title type="html"><![CDATA[Base64 Encoding Explained — JWT Tokens, Data URIs, and Kubernetes Secrets]]></title>
+        <id>https://dev.to/codewiztools/base64-encoding-explained-jwt-tokens-data-uris-and-kubernetes-secrets-2g7d</id>
+        <link href="https://dev.to/codewiztools/base64-encoding-explained-jwt-tokens-data-uris-and-kubernetes-secrets-2g7d"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Extract Data from Receipts with an API (Node.js & Python)]]></title>
+        <id>https://dev.to/tori_cj23/how-to-extract-data-from-receipts-with-an-api-nodejs-python-623</id>
+        <link href="https://dev.to/tori_cj23/how-to-extract-data-from-receipts-with-an-api-nodejs-python-623"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
@@ -176,37 +204,51 @@
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leica’s $6,690 SL3-P pairs 44-megapixel stills with 8K video]]></title>
-        <id>https://www.theverge.com/tech/956101/leica-digital-camera-sl3-p-8k-video-44-megapixel-price</id>
-        <link href="https://www.theverge.com/tech/956101/leica-digital-camera-sl3-p-8k-video-44-megapixel-price"/>
-        <updated>2026-06-24T16:00:00.000Z</updated>
-        <published>2026-06-24T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A fast, free regex tester that works offline]]></title>
+        <id>https://dev.to/crypto_plato_26/a-fast-free-regex-tester-that-works-offline-4hek</id>
+        <link href="https://dev.to/crypto_plato_26/a-fast-free-regex-tester-that-works-offline-4hek"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is this solar e-bike a good idea or sophisticated e-waste?]]></title>
-        <id>https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy</id>
-        <link href="https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy"/>
-        <updated>2026-06-24T16:00:00.000Z</updated>
-        <published>2026-06-24T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Lessons from building a QR-paired browser handoff tool]]></title>
+        <id>https://dev.to/icyzip/lessons-from-building-a-qr-paired-browser-handoff-tool-1nlk</id>
+        <link href="https://dev.to/icyzip/lessons-from-building-a-qr-paired-browser-handoff-tool-1nlk"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Charlie Kirk&#8217;s legacy is a 30-year sentence for moving zines]]></title>
-        <id>https://www.theverge.com/policy/956404/prairieland-sentencing-zines-trump-antifa</id>
-        <link href="https://www.theverge.com/policy/956404/prairieland-sentencing-zines-trump-antifa"/>
-        <updated>2026-06-24T16:00:00.000Z</updated>
-        <published>2026-06-24T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built Et3am Because a Family in Alexandria Died of Despair]]></title>
+        <id>https://dev.to/amr_lotfy/i-built-et3am-because-a-family-in-alexandria-died-of-despair-166j</id>
+        <link href="https://dev.to/amr_lotfy/i-built-et3am-because-a-family-in-alexandria-died-of-despair-166j"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Congresswoman denies staff used AI to write defense funding amendment]]></title>
-        <id>https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude</id>
-        <link href="https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude"/>
-        <updated>2026-06-24T16:00:00.000Z</updated>
-        <published>2026-06-24T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Next.js 16.3, WebSocket on Vercel, cnfast, Instant Navigations, React Libraries for 2026, What RSCs Can Do]]></title>
+        <id>https://dev.to/erfanebrahimnia/nextjs-163-websocket-on-vercel-cnfast-instant-navigations-react-libraries-for-2026-what-rscs-43c4</id>
+        <link href="https://dev.to/erfanebrahimnia/nextjs-163-websocket-on-vercel-cnfast-instant-navigations-react-libraries-for-2026-what-rscs-43c4"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The $27 million Al proxy war over Alex Bores ends in a draw]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results"/>
+        <title type="html"><![CDATA[I Built a Tool That Shows You Exactly Why a React Component Re-renders]]></title>
+        <id>https://dev.to/dev48v/i-built-a-tool-that-shows-you-exactly-why-a-react-component-re-renders-k27</id>
+        <link href="https://dev.to/dev48v/i-built-a-tool-that-shows-you-exactly-why-a-react-component-re-renders-k27"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Stopped Shopify's GraphQL API From Throttling My App (Parallel Query Patterns That Actually Work)]]></title>
+        <id>https://dev.to/masadashraf/how-i-stopped-shopifys-graphql-api-from-throttling-my-app-parallel-query-patterns-that-actually-kh9</id>
+        <link href="https://dev.to/masadashraf/how-i-stopped-shopifys-graphql-api-from-throttling-my-app-parallel-query-patterns-that-actually-kh9"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bungie hit with ‘significant’ layoffs after ending Destiny 2]]></title>
+        <id>https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2</id>
+        <link href="https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
@@ -218,65 +260,37 @@
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bungie hit with ‘significant’ layoffs after ending Destiny 2]]></title>
-        <id>https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2</id>
-        <link href="https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2"/>
+        <title type="html"><![CDATA[The $27 million Al proxy war over Alex Bores ends in a draw]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids]]></title>
-        <id>https://www.wired.com/story/kindle-prime-day-deals-06-25-2026/</id>
-        <link href="https://www.wired.com/story/kindle-prime-day-deals-06-25-2026/"/>
+        <title type="html"><![CDATA[Congresswoman denies staff used AI to write defense funding amendment]]></title>
+        <id>https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude</id>
+        <link href="https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Up to 43% Off With the Best Prime Day TV Deals Plus Streaming Devices (2026)]]></title>
-        <id>https://www.wired.com/story/best-prime-day-tv-deals-06-25-2026/</id>
-        <link href="https://www.wired.com/story/best-prime-day-tv-deals-06-25-2026/"/>
+        <title type="html"><![CDATA[Charlie Kirk&#8217;s legacy is a 30-year sentence for moving zines]]></title>
+        <id>https://www.theverge.com/policy/956404/prairieland-sentencing-zines-trump-antifa</id>
+        <link href="https://www.theverge.com/policy/956404/prairieland-sentencing-zines-trump-antifa"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World Cup Teams Are in a Race for AI Dominance]]></title>
-        <id>https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/</id>
-        <link href="https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/"/>
+        <title type="html"><![CDATA[Is this solar e-bike a good idea or sophisticated e-waste?]]></title>
+        <id>https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy</id>
+        <link href="https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Buy-It-For-Life Coffee Maker Just Won Prime Day]]></title>
-        <id>https://www.wired.com/story/amazon-prime-day-deal-2026-moccamaster/</id>
-        <link href="https://www.wired.com/story/amazon-prime-day-deal-2026-moccamaster/"/>
-        <updated>2026-06-24T16:00:00.000Z</updated>
-        <published>2026-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted]]></title>
-        <id>https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/</id>
-        <link href="https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/"/>
-        <updated>2026-06-24T16:00:00.000Z</updated>
-        <published>2026-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Roborock Deal This Prime Day (2026)]]></title>
-        <id>https://www.wired.com/story/amazon-prime-day-roborock-deals-2026/</id>
-        <link href="https://www.wired.com/story/amazon-prime-day-roborock-deals-2026/"/>
-        <updated>2026-06-24T16:00:00.000Z</updated>
-        <published>2026-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colossal and the US Government Are Creating an Endangered Species ‘BioVault’]]></title>
-        <id>https://www.wired.com/story/colossal-interior-department-team-up-endangered-species-dna/</id>
-        <link href="https://www.wired.com/story/colossal-interior-department-team-up-endangered-species-dna/"/>
-        <updated>2026-06-24T16:00:00.000Z</updated>
-        <published>2026-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Found the Best iPad Deal for Amazon Prime Day This Year (2026)]]></title>
-        <id>https://www.wired.com/story/the-ipad-you-should-buy-on-amazon-prime-day-this-year-2026/</id>
-        <link href="https://www.wired.com/story/the-ipad-you-should-buy-on-amazon-prime-day-this-year-2026/"/>
+        <title type="html"><![CDATA[Leica’s $6,690 SL3-P pairs 44-megapixel stills with 8K video]]></title>
+        <id>https://www.theverge.com/tech/956101/leica-digital-camera-sl3-p-8k-video-44-megapixel-price</id>
+        <link href="https://www.theverge.com/tech/956101/leica-digital-camera-sl3-p-8k-video-44-megapixel-price"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
@@ -288,58 +302,58 @@
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netris raises $15M Series A from a16z to help AI neoclouds go live faster]]></title>
-        <id>https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/</id>
-        <link href="https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/"/>
+        <title type="html"><![CDATA[I Found the Best iPad Deal for Amazon Prime Day This Year (2026)]]></title>
+        <id>https://www.wired.com/story/the-ipad-you-should-buy-on-amazon-prime-day-this-year-2026/</id>
+        <link href="https://www.wired.com/story/the-ipad-you-should-buy-on-amazon-prime-day-this-year-2026/"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adobe acquires image and video enhancement tool maker Topaz Labs]]></title>
-        <id>https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/</id>
-        <link href="https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/"/>
+        <title type="html"><![CDATA[Colossal and the US Government Are Creating an Endangered Species ‘BioVault’]]></title>
+        <id>https://www.wired.com/story/colossal-interior-department-team-up-endangered-species-dna/</id>
+        <link href="https://www.wired.com/story/colossal-interior-department-team-up-endangered-species-dna/"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Former Infosys chief has a new startup that wants to challenge the IT services world]]></title>
-        <id>https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/</id>
-        <link href="https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/"/>
+        <title type="html"><![CDATA[The Best Roborock Deal This Prime Day (2026)]]></title>
+        <id>https://www.wired.com/story/amazon-prime-day-roborock-deals-2026/</id>
+        <link href="https://www.wired.com/story/amazon-prime-day-roborock-deals-2026/"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Figma adds code layers, support for animations, more AI features in new update]]></title>
-        <id>https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/</id>
-        <link href="https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/"/>
+        <title type="html"><![CDATA[British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted]]></title>
+        <id>https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/</id>
+        <link href="https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Companies are scrambling to stop employees from maxing out AI budgets with small tasks]]></title>
-        <id>https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/</id>
-        <link href="https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/"/>
+        <title type="html"><![CDATA[This Buy-It-For-Life Coffee Maker Just Won Prime Day]]></title>
+        <id>https://www.wired.com/story/amazon-prime-day-deal-2026-moccamaster/</id>
+        <link href="https://www.wired.com/story/amazon-prime-day-deal-2026-moccamaster/"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New website names and shames companies that still don’t offer passkeys to users]]></title>
-        <id>https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/</id>
-        <link href="https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/"/>
+        <title type="html"><![CDATA[World Cup Teams Are in a Race for AI Dominance]]></title>
+        <id>https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/</id>
+        <link href="https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The memory chip crunch is paying off for this U.S. company]]></title>
-        <id>https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/</id>
-        <link href="https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/"/>
+        <title type="html"><![CDATA[Get Up to 43% Off With the Best Prime Day TV Deals Plus Streaming Devices (2026)]]></title>
+        <id>https://www.wired.com/story/best-prime-day-tv-deals-06-25-2026/</id>
+        <link href="https://www.wired.com/story/best-prime-day-tv-deals-06-25-2026/"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient]]></title>
-        <id>https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/</id>
-        <link href="https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/"/>
+        <title type="html"><![CDATA[Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids]]></title>
+        <id>https://www.wired.com/story/kindle-prime-day-deals-06-25-2026/</id>
+        <link href="https://www.wired.com/story/kindle-prime-day-deals-06-25-2026/"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Amazon ups India bet with fresh $13B AI infrastructure investment]]></title>
         <id>https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/</id>
         <link href="https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/"/>
-        <updated>2026-06-24T16:00:00.000Z</updated>
-        <published>2026-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HumansMap – Discover family dynasties and navigate their relational graphs]]></title>
-        <id>https://humansmap.com/?feed</id>
-        <link href="https://humansmap.com/?feed"/>
-        <updated>2026-06-24T16:00:00.000Z</updated>
-        <published>2026-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU targets Amazon, Microsoft cloud units for Big Tech "gatekeeper" rules]]></title>
-        <id>https://www.reuters.com/business/retail-consumer/amazon-microsoft-cloud-computing-services-should-fall-under-eu-tech-rules-eu-2026-06-25/</id>
-        <link href="https://www.reuters.com/business/retail-consumer/amazon-microsoft-cloud-computing-services-should-fall-under-eu-tech-rules-eu-2026-06-25/"/>
         <updated>2026-06-24T16:00:00.000Z</updated>
         <published>2026-06-24T16:00:00.000Z</published>
     </entry>
