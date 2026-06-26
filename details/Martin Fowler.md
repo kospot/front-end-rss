@@ -1,11 +1,10 @@
-:alarm_clock: 更新时间: 2026-06-26 23:03:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-27 06:00:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Martin Fowler
 
 
 
 
-- [2026-06-16-Fragments:-June-16](https://martinfowler.com/fragments/2026-06-16.html) 
 - [2026-06-16-Building-Reliable-Agentic-AI-Systems](https://martinfowler.com/articles/reliable-llm-bayer.html) 
+- [2026-06-16-Fragments:-June-16](https://martinfowler.com/fragments/2026-06-16.html) 
 - [2026-06-02-Fragments:-June-2](https://martinfowler.com/fragments/2026-06-02.html) 
-- [2026-05-28-Fragments:-May-27](https://martinfowler.com/fragments/2026-05-27.html) 
