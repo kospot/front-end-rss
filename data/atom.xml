@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-26T10:01:59.580Z</updated>
+    <updated>2026-06-26T13:02:37.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Score a discounted Xbox console before the prices jump]]></title>
-        <id>https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale"/>
+        <title type="html"><![CDATA[With GTA looming, consoles are getting expensive at the worst possible time]]></title>
+        <id>https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes</id>
+        <link href="https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s the last day of Prime Day — here are over 130 great deals to choose from]]></title>
+        <id>https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four</id>
+        <link href="https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
@@ -29,30 +36,23 @@
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids]]></title>
-        <id>https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/</id>
-        <link href="https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/"/>
+        <title type="html"><![CDATA[Score a discounted Xbox console before the prices jump]]></title>
+        <id>https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data]]></title>
-        <id>https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/</id>
-        <link href="https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/"/>
+        <title type="html"><![CDATA[Should You Buy Your Kid a 3D Printer? What to Know and Consider (2026)]]></title>
+        <id>https://www.wired.com/story/3d-printer-for-kids/</id>
+        <link href="https://www.wired.com/story/3d-printer-for-kids/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Fatal Tesla Crash in Texas Sets Up a Legal Showdown]]></title>
-        <id>https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/</id>
-        <link href="https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)]]></title>
-        <id>https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/</id>
-        <link href="https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/"/>
+        <title type="html"><![CDATA[The Gooner Music Video Boom Is Here]]></title>
+        <id>https://www.wired.com/story/the-gooner-music-video-boom-is-here/</id>
+        <link href="https://www.wired.com/story/the-gooner-music-video-boom-is-here/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
@@ -64,30 +64,37 @@
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube Shorts are getting even shorter with an update that lets you double the playback speed]]></title>
-        <id>https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/</id>
-        <link href="https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/"/>
+        <title type="html"><![CDATA[Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)]]></title>
+        <id>https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/</id>
+        <link href="https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Finance gets a dedicated app for Android]]></title>
-        <id>https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/</id>
-        <link href="https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/"/>
+        <title type="html"><![CDATA[A Fatal Tesla Crash in Texas Sets Up a Legal Showdown]]></title>
+        <id>https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/</id>
+        <link href="https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x]]></title>
-        <id>https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/</id>
-        <link href="https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/"/>
+        <title type="html"><![CDATA[Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data]]></title>
+        <id>https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General Intuition’s $2.3B bet that video games can train AI agents for the real world]]></title>
-        <id>https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</id>
-        <link href="https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"/>
+        <title type="html"><![CDATA[Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids]]></title>
+        <id>https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/</id>
+        <link href="https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robotaxis drives miles just to get cleaned and charged; this new startup wants to fix that]]></title>
+        <id>https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/</id>
+        <link href="https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
@@ -99,184 +106,93 @@
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[List of all UK universities currently having redundancies/restructuring]]></title>
-        <id>https://qmucu.org/qmul-transformation/uk-he-shrinking/</id>
-        <link href="https://qmucu.org/qmul-transformation/uk-he-shrinking/"/>
+        <title type="html"><![CDATA[General Intuition’s $2.3B bet that video games can train AI agents for the real world]]></title>
+        <id>https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</id>
+        <link href="https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The food science behind designing an ice cream]]></title>
-        <id>https://altermag.com/articles/designing-a-summer-ice-cream-for-india</id>
-        <link href="https://altermag.com/articles/designing-a-summer-ice-cream-for-india"/>
+        <title type="html"><![CDATA[Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x]]></title>
+        <id>https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/</id>
+        <link href="https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Position: Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Trac]]></title>
-        <id>https://arxiv.org/abs/2504.09762</id>
-        <link href="https://arxiv.org/abs/2504.09762"/>
+        <title type="html"><![CDATA[Google Finance gets a dedicated app for Android]]></title>
+        <id>https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/</id>
+        <link href="https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fivy – AI review management for small businesses (Google reviews)]]></title>
-        <id>https://www.fivy.com.au</id>
-        <link href="https://www.fivy.com.au"/>
+        <title type="html"><![CDATA[YouTube Shorts are getting even shorter with an update that lets you double the playback speed]]></title>
+        <id>https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/</id>
+        <link href="https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MCP Authorization with Dynamic Client Registration]]></title>
-        <id>https://blog.christianposta.com/understanding-mcp-authorization-with-dynamic-client-registration/</id>
-        <link href="https://blog.christianposta.com/understanding-mcp-authorization-with-dynamic-client-registration/"/>
+        <title type="html"><![CDATA[The world is heating up, and policies are not helping]]></title>
+        <id>https://theoryofchange1.substack.com/p/summer-is-coming-what-game-of-thrones</id>
+        <link href="https://theoryofchange1.substack.com/p/summer-is-coming-what-game-of-thrones"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Rewrote WAL-G for Postgres Backups in Rust: Meet WAL-RUS]]></title>
-        <id>https://clickhouse.com/blog/walrus-postgres-backups-in-rust</id>
-        <link href="https://clickhouse.com/blog/walrus-postgres-backups-in-rust"/>
+        <title type="html"><![CDATA[Show HN: Jargo – a Golang port of Pipecat for conversational-AI apps]]></title>
+        <id>https://github.com/gojargo/jargo</id>
+        <link href="https://github.com/gojargo/jargo"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mapping London – All Sorts of Interesting Maps of London]]></title>
-        <id>https://mappinglondon.co.uk</id>
-        <link href="https://mappinglondon.co.uk"/>
+        <title type="html"><![CDATA[Space Shuttle Endeavour's 20-story vertical display]]></title>
+        <id>https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack</id>
+        <link href="https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The many journeys of learning Rust]]></title>
-        <id>https://blog.rust-lang.org/2026/06/25/vision-doc-journeys-to-learning-rust/</id>
-        <link href="https://blog.rust-lang.org/2026/06/25/vision-doc-journeys-to-learning-rust/"/>
+        <title type="html"><![CDATA[Bevy – A refreshingly simple data-driven game engine built in Rust]]></title>
+        <id>https://github.com/bevyengine/bevy</id>
+        <link href="https://github.com/bevyengine/bevy"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust Foundation Welcomes OpenAI as Platinum Member]]></title>
-        <id>https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-member-announces-donation-to-rust-project/</id>
-        <link href="https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-member-announces-donation-to-rust-project/"/>
+        <title type="html"><![CDATA[Tar: A slop-free alternative to rsync]]></title>
+        <id>https://drewdevault.com/blog/rsync-without-rsync/</id>
+        <link href="https://drewdevault.com/blog/rsync-without-rsync/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Ludion – routing AI inference by observed WebGPU behavior]]></title>
-        <id>https://ludion.ai/</id>
-        <link href="https://ludion.ai/"/>
+        <title type="html"><![CDATA[Free Software and LLM Contribution Policies]]></title>
+        <id>https://www.sicpers.info/2026/06/free-software-and-llm-contribution-policies/</id>
+        <link href="https://www.sicpers.info/2026/06/free-software-and-llm-contribution-policies/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tabsmith-lint catches Chrome Web Store rejections before you submit]]></title>
-        <id>https://github.com/rsub122/tabsmith-lint</id>
-        <link href="https://github.com/rsub122/tabsmith-lint"/>
+        <title type="html"><![CDATA[Show HN: Regulo – an adaptive semaphore for saturation control]]></title>
+        <id>https://github.com/greenstick/regulo</id>
+        <link href="https://github.com/greenstick/regulo"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[As SuperAgers age, they make at least twice as many new neurons as their peers]]></title>
-        <id>https://news.northwestern.edu/stories/2026/02/as-superagers-age-they-make-at-least-twice-as-many-new-neurons-as-their-peers</id>
-        <link href="https://news.northwestern.edu/stories/2026/02/as-superagers-age-they-make-at-least-twice-as-many-new-neurons-as-their-peers"/>
+        <title type="html"><![CDATA[Imposter scams led fraud reports to FTC in 2025, causing $3.5B in losses]]></title>
+        <id>https://www.cnbc.com/2026/06/26/imposter-scams-led-fraud-reports-to-ftc-in-2025-3point5-billion-losses.html</id>
+        <link href="https://www.cnbc.com/2026/06/26/imposter-scams-led-fraud-reports-to-ftc-in-2025-3point5-billion-losses.html"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Layoffs hit Bellevue-based video game studio behind 'Destiny' franchise]]></title>
-        <id>https://www.seattletimes.com/business/local-business/layoffs-hit-bellevue-based-video-game-studio-behind-destiny-franchise/</id>
-        <link href="https://www.seattletimes.com/business/local-business/layoffs-hit-bellevue-based-video-game-studio-behind-destiny-franchise/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Staff Framework – Tornando Desejos Em Metas Verificáveis (Smart Method )]]></title>
-        <id>https://fidelissauro.dev/staff-smart-methods/</id>
-        <link href="https://fidelissauro.dev/staff-smart-methods/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead Lithium Batteries Revived to 95% Capacity via Electrochemical Bath]]></title>
-        <id>https://newatlas.com/energy/electrode-restoring-bath-lithium-batteries/</id>
-        <link href="https://newatlas.com/energy/electrode-restoring-bath-lithium-batteries/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All you need is PostgreSQL]]></title>
-        <id>https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/</id>
-        <link href="https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another reason to get attached to Surebeans]]></title>
-        <id>https://surebeans.net/blog/2026/06/getting-attached-to-surebeans/</id>
-        <link href="https://surebeans.net/blog/2026/06/getting-attached-to-surebeans/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Haven't posts about web front end frameworks completely stopped?]]></title>
-        <id>https://news.ycombinator.com/item?id=48679580</id>
-        <link href="https://news.ycombinator.com/item?id=48679580"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surprising lessons from my research scientist job search]]></title>
-        <id>https://yongzx.github.io/blog/2026/06/24/job-search/</id>
-        <link href="https://yongzx.github.io/blog/2026/06/24/job-search/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nb: Command line note‑taking, bookmarking, archiving, and knowledge base]]></title>
-        <id>https://xwmx.github.io/nb/</id>
-        <link href="https://xwmx.github.io/nb/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What happened after 2k people tried to hack my AI assistant]]></title>
-        <id>https://www.fernandoi.cl/posts/hackmyclaw/</id>
-        <link href="https://www.fernandoi.cl/posts/hackmyclaw/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LogiGate: A zero-trust middleware architecture for AI liability written in Rust]]></title>
-        <id>https://github.com/Les-Senters/Logigate-architecture</id>
-        <link href="https://github.com/Les-Senters/Logigate-architecture"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's CXMT Is Set to Challenge DRAM Incumbents]]></title>
-        <id>https://newsletter.semianalysis.com/p/chinas-cxmt-is-set-to-challenge-dram</id>
-        <link href="https://newsletter.semianalysis.com/p/chinas-cxmt-is-set-to-challenge-dram"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Bailouts for Big Tech Billionaires: Policies for When the AI Bubble Bursts]]></title>
-        <id>https://www.openmarketsinstitute.org/publications/no-bailouts-for-big-tech-billionaires-policies-for-when-the-ai-bubble-bursts</id>
-        <link href="https://www.openmarketsinstitute.org/publications/no-bailouts-for-big-tech-billionaires-policies-for-when-the-ai-bubble-bursts"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A GPU/VRAM filter for finding LLMs that will run on your hardware]]></title>
-        <id>https://www.whichllmmodel.com/app/text?local=true</id>
-        <link href="https://www.whichllmmodel.com/app/text?local=true"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building domain-specific AI chatbots with Claude]]></title>
-        <id>https://gregwilson.tech/building-domain-specific-ai-chatbots</id>
-        <link href="https://gregwilson.tech/building-domain-specific-ai-chatbots"/>
+        <title type="html"><![CDATA[Show HN: Verity – self-healing review gate for Claude Code]]></title>
+        <id>https://verity.md</id>
+        <link href="https://verity.md"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
@@ -288,79 +204,163 @@
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Trusted Semantic Layer with Snowflake Horizon Context]]></title>
-        <id>https://pub.towardsai.net/building-a-trusted-semantic-layer-with-snowflake-horizon-context-20588c3a304b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-a-trusted-semantic-layer-with-snowflake-horizon-context-20588c3a304b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Building domain-specific AI chatbots with Claude]]></title>
+        <id>https://gregwilson.tech/building-domain-specific-ai-chatbots</id>
+        <link href="https://gregwilson.tech/building-domain-specific-ai-chatbots"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Production-Ready Agentic AI Systems with Docker and FastAPI]]></title>
-        <id>https://pub.towardsai.net/building-production-ready-agentic-ai-systems-with-docker-and-fastapi-b4c2231b3945?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-production-ready-agentic-ai-systems-with-docker-and-fastapi-b4c2231b3945?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: A GPU/VRAM filter for finding LLMs that will run on your hardware]]></title>
+        <id>https://www.whichllmmodel.com/app/text?local=true</id>
+        <link href="https://www.whichllmmodel.com/app/text?local=true"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Kiro Powers Deep Dive: Managing MCP Complexity, Context, and Specialized Knowledge]]></title>
-        <id>https://pub.towardsai.net/aws-kiro-powers-deep-dive-managing-mcp-complexity-context-and-specialized-knowledge-0aa5a25108b9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/aws-kiro-powers-deep-dive-managing-mcp-complexity-context-and-specialized-knowledge-0aa5a25108b9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[No Bailouts for Big Tech Billionaires: Policies for When the AI Bubble Bursts]]></title>
+        <id>https://www.openmarketsinstitute.org/publications/no-bailouts-for-big-tech-billionaires-policies-for-when-the-ai-bubble-bursts</id>
+        <link href="https://www.openmarketsinstitute.org/publications/no-bailouts-for-big-tech-billionaires-policies-for-when-the-ai-bubble-bursts"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 Naive Bayes Interview Questions and Answers]]></title>
-        <id>https://pub.towardsai.net/top-20-naive-bayes-interview-questions-and-answers-782888b5c6d2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/top-20-naive-bayes-interview-questions-and-answers-782888b5c6d2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[China's CXMT Is Set to Challenge DRAM Incumbents]]></title>
+        <id>https://newsletter.semianalysis.com/p/chinas-cxmt-is-set-to-challenge-dram</id>
+        <link href="https://newsletter.semianalysis.com/p/chinas-cxmt-is-set-to-challenge-dram"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[200x Faster RedTensor Engine: Red Alice Benchmarking #1]]></title>
-        <id>https://pub.towardsai.net/200x-faster-redtensor-engine-red-alice-benchmarking-1-181d82dcb2a0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/200x-faster-redtensor-engine-red-alice-benchmarking-1-181d82dcb2a0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[LogiGate: A zero-trust middleware architecture for AI liability written in Rust]]></title>
+        <id>https://github.com/Les-Senters/Logigate-architecture</id>
+        <link href="https://github.com/Les-Senters/Logigate-architecture"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Brief History of Softmax: What It Is, Where It Came From, and How It Became Essential]]></title>
-        <id>https://pub.towardsai.net/a-brief-history-of-softmax-what-it-is-where-it-came-from-and-how-it-became-essential-e50b8e9b86b0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/a-brief-history-of-softmax-what-it-is-where-it-came-from-and-how-it-became-essential-e50b8e9b86b0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[What happened after 2k people tried to hack my AI assistant]]></title>
+        <id>https://www.fernandoi.cl/posts/hackmyclaw/</id>
+        <link href="https://www.fernandoi.cl/posts/hackmyclaw/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When Local GPU Inference Beats the Cloud]]></title>
-        <id>https://pub.towardsai.net/when-local-gpu-inference-beats-the-cloud-0937eb43279d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/when-local-gpu-inference-beats-the-cloud-0937eb43279d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Nb: Command line note‑taking, bookmarking, archiving, and knowledge base]]></title>
+        <id>https://xwmx.github.io/nb/</id>
+        <link href="https://xwmx.github.io/nb/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[datasette-export-database 0.3a2]]></title>
-        <id>https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything"/>
+        <title type="html"><![CDATA[Surprising lessons from my research scientist job search]]></title>
+        <id>https://yongzx.github.io/blog/2026/06/24/job-search/</id>
+        <link href="https://yongzx.github.io/blog/2026/06/24/job-search/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics]]></title>
-        <id>https://arxiv.org/abs/2606.26128</id>
-        <link href="https://arxiv.org/abs/2606.26128"/>
+        <title type="html"><![CDATA[Ask HN: Haven't posts about web front end frameworks completely stopped?]]></title>
+        <id>https://news.ycombinator.com/item?id=48679580</id>
+        <link href="https://news.ycombinator.com/item?id=48679580"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation]]></title>
-        <id>https://arxiv.org/abs/2606.26164</id>
-        <link href="https://arxiv.org/abs/2606.26164"/>
+        <title type="html"><![CDATA[Another reason to get attached to Surebeans]]></title>
+        <id>https://surebeans.net/blog/2026/06/getting-attached-to-surebeans/</id>
+        <link href="https://surebeans.net/blog/2026/06/getting-attached-to-surebeans/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Implementation of reinforcement learning in chemical reaction networks: application to phototaxis as curiosity-driven exploration]]></title>
-        <id>https://arxiv.org/abs/2606.26168</id>
-        <link href="https://arxiv.org/abs/2606.26168"/>
+        <title type="html"><![CDATA[All you need is PostgreSQL]]></title>
+        <id>https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/</id>
+        <link href="https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead Lithium Batteries Revived to 95% Capacity via Electrochemical Bath]]></title>
+        <id>https://newatlas.com/energy/electrode-restoring-bath-lithium-batteries/</id>
+        <link href="https://newatlas.com/energy/electrode-restoring-bath-lithium-batteries/"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Staff Framework – Tornando Desejos Em Metas Verificáveis (Smart Method )]]></title>
+        <id>https://fidelissauro.dev/staff-smart-methods/</id>
+        <link href="https://fidelissauro.dev/staff-smart-methods/"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layoffs hit Bellevue-based video game studio behind 'Destiny' franchise]]></title>
+        <id>https://www.seattletimes.com/business/local-business/layoffs-hit-bellevue-based-video-game-studio-behind-destiny-franchise/</id>
+        <link href="https://www.seattletimes.com/business/local-business/layoffs-hit-bellevue-based-video-game-studio-behind-destiny-franchise/"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As SuperAgers age, they make at least twice as many new neurons as their peers]]></title>
+        <id>https://news.northwestern.edu/stories/2026/02/as-superagers-age-they-make-at-least-twice-as-many-new-neurons-as-their-peers</id>
+        <link href="https://news.northwestern.edu/stories/2026/02/as-superagers-age-they-make-at-least-twice-as-many-new-neurons-as-their-peers"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tabsmith-lint catches Chrome Web Store rejections before you submit]]></title>
+        <id>https://github.com/rsub122/tabsmith-lint</id>
+        <link href="https://github.com/rsub122/tabsmith-lint"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Ludion – routing AI inference by observed WebGPU behavior]]></title>
+        <id>https://ludion.ai/</id>
+        <link href="https://ludion.ai/"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Foundation Welcomes OpenAI as Platinum Member]]></title>
+        <id>https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-member-announces-donation-to-rust-project/</id>
+        <link href="https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-member-announces-donation-to-rust-project/"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The many journeys of learning Rust]]></title>
+        <id>https://blog.rust-lang.org/2026/06/25/vision-doc-journeys-to-learning-rust/</id>
+        <link href="https://blog.rust-lang.org/2026/06/25/vision-doc-journeys-to-learning-rust/"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mapping London – All Sorts of Interesting Maps of London]]></title>
+        <id>https://mappinglondon.co.uk</id>
+        <link href="https://mappinglondon.co.uk"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Rewrote WAL-G for Postgres Backups in Rust: Meet WAL-RUS]]></title>
+        <id>https://clickhouse.com/blog/walrus-postgres-backups-in-rust</id>
+        <link href="https://clickhouse.com/blog/walrus-postgres-backups-in-rust"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCP Authorization with Dynamic Client Registration]]></title>
+        <id>https://blog.christianposta.com/understanding-mcp-authorization-with-dynamic-client-registration/</id>
+        <link href="https://blog.christianposta.com/understanding-mcp-authorization-with-dynamic-client-registration/"/>
+        <updated>2026-06-25T16:00:00.000Z</updated>
+        <published>2026-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fivy – AI review management for small businesses (Google reviews)]]></title>
+        <id>https://www.fivy.com.au</id>
+        <link href="https://www.fivy.com.au"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
