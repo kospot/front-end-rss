@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-27T04:01:39.454Z</updated>
+    <updated>2026-06-27T07:02:12.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -85,170 +85,44 @@
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a marketplace where the money can be verified by anyone]]></title>
-        <id>https://old.reddit.com/r/SubliminalsVerytasium/comments/1ufhleb/i_built_a_marketplace_where_the_money_can_be/</id>
-        <link href="https://old.reddit.com/r/SubliminalsVerytasium/comments/1ufhleb/i_built_a_marketplace_where_the_money_can_be/"/>
+        <title type="html"><![CDATA[Ask HN: How do founders get early beta testers?]]></title>
+        <id>https://news.ycombinator.com/item?id=48695790</id>
+        <link href="https://news.ycombinator.com/item?id=48695790"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TUI email client in native Golang with LLM based drafting functions]]></title>
-        <id>https://mail.intellios.ai</id>
-        <link href="https://mail.intellios.ai"/>
+        <title type="html"><![CDATA[After 100 years of BBC LW, last ever R4 Shipping Forecast and final close down [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ozZKZWMRMPU</id>
+        <link href="https://www.youtube.com/watch?v=ozZKZWMRMPU"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nomad: Portable, offline media server powered by the ESP32-S3 in a thumbdrive]]></title>
-        <id>https://www.instructables.com/Jcorp-Nomad-Mini-WIFI-Media-Server/</id>
-        <link href="https://www.instructables.com/Jcorp-Nomad-Mini-WIFI-Media-Server/"/>
+        <title type="html"><![CDATA[McNUFFT – Nonuniform FFT for Apple Silicon GPUs via MLX]]></title>
+        <id>https://github.com/martinlachaine/mcnufft</id>
+        <link href="https://github.com/martinlachaine/mcnufft"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US allows Anthropic to release Mythos AI to 'trusted' US organizations]]></title>
-        <id>https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/</id>
-        <link href="https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/"/>
+        <title type="html"><![CDATA[Defining Taste]]></title>
+        <id>https://twitter.com/mitchellh/status/2070665127331037290</id>
+        <link href="https://twitter.com/mitchellh/status/2070665127331037290"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If they start to gatekeep who gets to use the best models, that is a DoW]]></title>
-        <id>https://twitter.com/jmrphy/status/2070528497752166454</id>
-        <link href="https://twitter.com/jmrphy/status/2070528497752166454"/>
+        <title type="html"><![CDATA[SVG-Margin: Better Gutters for Emacs]]></title>
+        <id>https://www.chiply.dev/post-svg-margin</id>
+        <link href="https://www.chiply.dev/post-svg-margin"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta asks California lawmakers for shield from child harm penalties]]></title>
-        <id>https://www.politico.com/news/2026/06/26/exclusive-meta-asks-california-lawmakers-for-shield-from-child-harm-penalties-00978728</id>
-        <link href="https://www.politico.com/news/2026/06/26/exclusive-meta-asks-california-lawmakers-for-shield-from-child-harm-penalties-00978728"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smugglers Create Fake Google Maps Car, US Border Patrol Catches]]></title>
-        <id>https://www.autoevolution.com/news/smugglers-create-fake-google-maps-car-border-patrol-agents-actually-use-street-view-271942.html</id>
-        <link href="https://www.autoevolution.com/news/smugglers-create-fake-google-maps-car-border-patrol-agents-actually-use-street-view-271942.html"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: MacBook vs. Dedicated GPU for LLM]]></title>
-        <id>https://news.ycombinator.com/item?id=48694802</id>
-        <link href="https://news.ycombinator.com/item?id=48694802"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenData – Open-Source and Object Store Native Databases]]></title>
-        <id>https://www.opendata.dev/</id>
-        <link href="https://www.opendata.dev/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threats to US payment rails helped trigger Bessent's AI worries]]></title>
-        <id>https://www.semafor.com/article/06/26/2026/bessent-engaged-on-ai-following-warnings-about-fed-payment-rails</id>
-        <link href="https://www.semafor.com/article/06/26/2026/bessent-engaged-on-ai-following-warnings-about-fed-payment-rails"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinking to recall: How reasoning unlocks parametric knowledge in LLMs]]></title>
-        <id>https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/</id>
-        <link href="https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why It's So Hard to Add a Column in the Middle of a PostgreSQL Table]]></title>
-        <id>https://www.bytebase.com/blog/why-its-hard-to-add-a-column-in-the-middle-of-postgres-table/</id>
-        <link href="https://www.bytebase.com/blog/why-its-hard-to-add-a-column-in-the-middle-of-postgres-table/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Patent: Prescription Lenses That Project Virtual Screens into Your Vision]]></title>
-        <id>https://patentlyze.com/patent/meta-holographic-ar-display-built-prescription-lenses/</id>
-        <link href="https://patentlyze.com/patent/meta-holographic-ar-display-built-prescription-lenses/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holos: Device Is Your Fediverse Server]]></title>
-        <id>https://holos.social/</id>
-        <link href="https://holos.social/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump threatens 100% tariff on European digital services taxes]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cn4rd71411ko</id>
-        <link href="https://www.bbc.co.uk/news/articles/cn4rd71411ko"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A C++ implementation of a fast hash map and hash set using hopscotch hashing]]></title>
-        <id>https://github.com/Tessil/hopscotch-map</id>
-        <link href="https://github.com/Tessil/hopscotch-map"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[President warns of 100% tariff on countries implementing digital services tax]]></title>
-        <id>https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e</id>
-        <link href="https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Dottie Number]]></title>
-        <id>https://lawrencecpaulson.github.io//2026/06/26/Dottie_Number.html</id>
-        <link href="https://lawrencecpaulson.github.io//2026/06/26/Dottie_Number.html"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Threatens 100% Tariffs over Digital Services Tax on U.S. Firms]]></title>
-        <id>https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html</id>
-        <link href="https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Make Gates Optional, Make Them Flexible]]></title>
-        <id>https://wakamoleguy.com/p/flexible-gates</id>
-        <link href="https://wakamoleguy.com/p/flexible-gates"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: RevealSafe: Buyer and seller privately submit price; reveal together]]></title>
-        <id>https://www.revealsafe.com/</id>
-        <link href="https://www.revealsafe.com/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join .agent – Pre-Register Your Domain Free]]></title>
-        <id>https://agentcommunity.org/join</id>
-        <link href="https://agentcommunity.org/join"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolving the Node.js Release Schedule]]></title>
-        <id>https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule</id>
-        <link href="https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: GetBlocked – a local-only Chrome extension for blocking web trackers]]></title>
-        <id>https://github.com/alex-w-developer/GetBlocked/</id>
-        <link href="https://github.com/alex-w-developer/GetBlocked/"/>
+        <title type="html"><![CDATA[Study on the effects of listening to podcasts on headphones vs. speakers]]></title>
+        <id>https://www.sciencedirect.com/science/article/abs/pii/S0749597822000176</id>
+        <link href="https://www.sciencedirect.com/science/article/abs/pii/S0749597822000176"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
@@ -260,9 +134,170 @@
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Study on the effects of listening to podcasts on headphones vs. speakers]]></title>
-        <id>https://www.sciencedirect.com/science/article/abs/pii/S0749597822000176</id>
-        <link href="https://www.sciencedirect.com/science/article/abs/pii/S0749597822000176"/>
+        <title type="html"><![CDATA[Show HN: GetBlocked – a local-only Chrome extension for blocking web trackers]]></title>
+        <id>https://github.com/alex-w-developer/GetBlocked/</id>
+        <link href="https://github.com/alex-w-developer/GetBlocked/"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolving the Node.js Release Schedule]]></title>
+        <id>https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule</id>
+        <link href="https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join .agent – Pre-Register Your Domain Free]]></title>
+        <id>https://agentcommunity.org/join</id>
+        <link href="https://agentcommunity.org/join"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: RevealSafe: Buyer and seller privately submit price; reveal together]]></title>
+        <id>https://www.revealsafe.com/</id>
+        <link href="https://www.revealsafe.com/"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Make Gates Optional, Make Them Flexible]]></title>
+        <id>https://wakamoleguy.com/p/flexible-gates</id>
+        <link href="https://wakamoleguy.com/p/flexible-gates"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Threatens 100% Tariffs over Digital Services Tax on U.S. Firms]]></title>
+        <id>https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html</id>
+        <link href="https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dottie Number]]></title>
+        <id>https://lawrencecpaulson.github.io//2026/06/26/Dottie_Number.html</id>
+        <link href="https://lawrencecpaulson.github.io//2026/06/26/Dottie_Number.html"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[President warns of 100% tariff on countries implementing digital services tax]]></title>
+        <id>https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e</id>
+        <link href="https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A C++ implementation of a fast hash map and hash set using hopscotch hashing]]></title>
+        <id>https://github.com/Tessil/hopscotch-map</id>
+        <link href="https://github.com/Tessil/hopscotch-map"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump threatens 100% tariff on European digital services taxes]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cn4rd71411ko</id>
+        <link href="https://www.bbc.co.uk/news/articles/cn4rd71411ko"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holos: Device Is Your Fediverse Server]]></title>
+        <id>https://holos.social/</id>
+        <link href="https://holos.social/"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Patent: Prescription Lenses That Project Virtual Screens into Your Vision]]></title>
+        <id>https://patentlyze.com/patent/meta-holographic-ar-display-built-prescription-lenses/</id>
+        <link href="https://patentlyze.com/patent/meta-holographic-ar-display-built-prescription-lenses/"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why It's So Hard to Add a Column in the Middle of a PostgreSQL Table]]></title>
+        <id>https://www.bytebase.com/blog/why-its-hard-to-add-a-column-in-the-middle-of-postgres-table/</id>
+        <link href="https://www.bytebase.com/blog/why-its-hard-to-add-a-column-in-the-middle-of-postgres-table/"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking to recall: How reasoning unlocks parametric knowledge in LLMs]]></title>
+        <id>https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/</id>
+        <link href="https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threats to US payment rails helped trigger Bessent's AI worries]]></title>
+        <id>https://www.semafor.com/article/06/26/2026/bessent-engaged-on-ai-following-warnings-about-fed-payment-rails</id>
+        <link href="https://www.semafor.com/article/06/26/2026/bessent-engaged-on-ai-following-warnings-about-fed-payment-rails"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenData – Open-Source and Object Store Native Databases]]></title>
+        <id>https://www.opendata.dev/</id>
+        <link href="https://www.opendata.dev/"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: MacBook vs. Dedicated GPU for LLM]]></title>
+        <id>https://news.ycombinator.com/item?id=48694802</id>
+        <link href="https://news.ycombinator.com/item?id=48694802"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smugglers Create Fake Google Maps Car, US Border Patrol Catches]]></title>
+        <id>https://www.autoevolution.com/news/smugglers-create-fake-google-maps-car-border-patrol-agents-actually-use-street-view-271942.html</id>
+        <link href="https://www.autoevolution.com/news/smugglers-create-fake-google-maps-car-border-patrol-agents-actually-use-street-view-271942.html"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta asks California lawmakers for shield from child harm penalties]]></title>
+        <id>https://www.politico.com/news/2026/06/26/exclusive-meta-asks-california-lawmakers-for-shield-from-child-harm-penalties-00978728</id>
+        <link href="https://www.politico.com/news/2026/06/26/exclusive-meta-asks-california-lawmakers-for-shield-from-child-harm-penalties-00978728"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If they start to gatekeep who gets to use the best models, that is a DoW]]></title>
+        <id>https://twitter.com/jmrphy/status/2070528497752166454</id>
+        <link href="https://twitter.com/jmrphy/status/2070528497752166454"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US allows Anthropic to release Mythos AI to 'trusted' US organizations]]></title>
+        <id>https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/</id>
+        <link href="https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nomad: Portable, offline media server powered by the ESP32-S3 in a thumbdrive]]></title>
+        <id>https://www.instructables.com/Jcorp-Nomad-Mini-WIFI-Media-Server/</id>
+        <link href="https://www.instructables.com/Jcorp-Nomad-Mini-WIFI-Media-Server/"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TUI email client in native Golang with LLM based drafting functions]]></title>
+        <id>https://mail.intellios.ai</id>
+        <link href="https://mail.intellios.ai"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a marketplace where the money can be verified by anyone]]></title>
+        <id>https://old.reddit.com/r/SubliminalsVerytasium/comments/1ufhleb/i_built_a_marketplace_where_the_money_can_be/</id>
+        <link href="https://old.reddit.com/r/SubliminalsVerytasium/comments/1ufhleb/i_built_a_marketplace_where_the_money_can_be/"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
@@ -309,58 +344,23 @@
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Socceroos secure place in World Cup last 32 after nerve-shredding draw with Paraguay Matters for Sports Data Enginee]]></title>
-        <id>https://dev.to/muhammad_binnazeer_6a810/why-socceroos-secure-place-in-world-cup-last-32-after-nerve-shredding-draw-with-paraguay-matters-45ib</id>
-        <link href="https://dev.to/muhammad_binnazeer_6a810/why-socceroos-secure-place-in-world-cup-last-32-after-nerve-shredding-draw-with-paraguay-matters-45ib"/>
+        <title type="html"><![CDATA[All npm Dependency Types Explained: dependencies, devDependencies, peerDependencies, and More]]></title>
+        <id>https://dev.to/hamidrazadev/all-npm-dependency-types-explained-dependencies-devdependencies-peerdependencies-and-more-2of7</id>
+        <link href="https://dev.to/hamidrazadev/all-npm-dependency-types-explained-dependencies-devdependencies-peerdependencies-and-more-2of7"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Tribology Expert System from Scratch — No Frameworks, No Backend, Just Vanilla JavaScript]]></title>
-        <id>https://dev.to/arashkabiri/i-built-a-tribology-expert-system-from-scratch-no-frameworks-no-backend-just-vanilla-javascript-5gad</id>
-        <link href="https://dev.to/arashkabiri/i-built-a-tribology-expert-system-from-scratch-no-frameworks-no-backend-just-vanilla-javascript-5gad"/>
+        <title type="html"><![CDATA[Looking for contributors for GetBlocked!, a small Chrome tracker-blocking extension]]></title>
+        <id>https://dev.to/alexwdeveloper/looking-for-contributors-for-getblocked-a-small-chrome-tracker-blocking-extension-791</id>
+        <link href="https://dev.to/alexwdeveloper/looking-for-contributors-for-getblocked-a-small-chrome-tracker-blocking-extension-791"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ember.js End of Life: The LTS Cadence & Every Version EOL Date]]></title>
-        <id>https://dev.to/endoflifeai/emberjs-end-of-life-the-lts-cadence-every-version-eol-date-1463</id>
-        <link href="https://dev.to/endoflifeai/emberjs-end-of-life-the-lts-cadence-every-version-eol-date-1463"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOM in JavaScript]]></title>
-        <id>https://dev.to/surya_960b9a895415589fa9e/dom-in-javascript-2k0k</id>
-        <link href="https://dev.to/surya_960b9a895415589fa9e/dom-in-javascript-2k0k"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting an LLM to Actually Follow Your Output Format (Without Fighting It Every Request)]]></title>
-        <id>https://dev.to/knallhartdev/getting-an-llm-to-actually-follow-your-output-format-without-fighting-it-every-request-1kn1</id>
-        <link href="https://dev.to/knallhartdev/getting-an-llm-to-actually-follow-your-output-format-without-fighting-it-every-request-1kn1"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIL you can do sha256 generator entirely client-side]]></title>
-        <id>https://dev.to/crypto_plato_26/til-you-can-do-sha256-generator-entirely-client-side-5c5o</id>
-        <link href="https://dev.to/crypto_plato_26/til-you-can-do-sha256-generator-entirely-client-side-5c5o"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Migrated Bloom After from Vanilla JS to Next.js + TypeScript]]></title>
-        <id>https://dev.to/chijioke_uzodinma_d6ae6ef/how-we-migrated-bloom-after-from-vanilla-js-to-nextjs-typescript-ggl</id>
-        <link href="https://dev.to/chijioke_uzodinma_d6ae6ef/how-we-migrated-bloom-after-from-vanilla-js-to-nextjs-typescript-ggl"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I ran my jargon-highlighting extension on 10 of Fireship's most popular videos — here's the programming jargon that came up]]></title>
-        <id>https://dev.to/jamieandrew/i-ran-my-jargon-highlighting-extension-on-10-of-fireships-most-popular-videos-heres-the-59di</id>
-        <link href="https://dev.to/jamieandrew/i-ran-my-jargon-highlighting-extension-on-10-of-fireships-most-popular-videos-heres-the-59di"/>
+        <title type="html"><![CDATA[n8n If Node: How to Add Conditional Logic to Your Workflows (Free Workflow JSON)]]></title>
+        <id>https://dev.to/pirateprentice/n8n-if-node-how-to-add-conditional-logic-to-your-workflows-free-workflow-json-5221</id>
+        <link href="https://dev.to/pirateprentice/n8n-if-node-how-to-add-conditional-logic-to-your-workflows-free-workflow-json-5221"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
