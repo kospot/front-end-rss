@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-26T22:00:59.403Z</updated>
+    <updated>2026-06-27T00:01:03.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Our favorite Prime Day gadgets under $100 you don&#8217;t need but will really want]]></title>
-        <id>https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These are the best deals you can still get on MacBooks before Apple&#8217;s price hike kicks in]]></title>
-        <id>https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes</id>
-        <link href="https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes"/>
+        <title type="html"><![CDATA[After covering Prime Day for 36 hours over four days, this is the one thing I bought]]></title>
+        <id>https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor</id>
+        <link href="https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
@@ -36,9 +29,16 @@
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions]]></title>
-        <id>https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/</id>
-        <link href="https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/"/>
+        <title type="html"><![CDATA[These are the best deals you can still get on MacBooks before Apple&#8217;s price hike kicks in]]></title>
+        <id>https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes</id>
+        <link href="https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our favorite Prime Day gadgets under $100 you don&#8217;t need but will really want]]></title>
+        <id>https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[How to See the Giant Asteroid That Will Pass by Earth This Weekend]]></title>
         <id>https://www.wired.com/story/how-to-see-1997-nc1-asteroid-pass-by-earth-this-weekend/</id>
         <link href="https://www.wired.com/story/how-to-see-1997-nc1-asteroid-pass-by-earth-this-weekend/"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions]]></title>
+        <id>https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/</id>
+        <link href="https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
@@ -71,37 +78,37 @@
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: RevealSafe: Buyer and seller privately submit price; reveal together]]></title>
-        <id>https://www.revealsafe.com/</id>
-        <link href="https://www.revealsafe.com/"/>
+        <title type="html"><![CDATA[Thinking to recall: How reasoning unlocks parametric knowledge in LLMs]]></title>
+        <id>https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/</id>
+        <link href="https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't Make Gates Optional, Make Them Flexible]]></title>
-        <id>https://wakamoleguy.com/p/flexible-gates</id>
-        <link href="https://wakamoleguy.com/p/flexible-gates"/>
+        <title type="html"><![CDATA[Why It's So Hard to Add a Column in the Middle of a PostgreSQL Table]]></title>
+        <id>https://www.bytebase.com/blog/why-its-hard-to-add-a-column-in-the-middle-of-postgres-table/</id>
+        <link href="https://www.bytebase.com/blog/why-its-hard-to-add-a-column-in-the-middle-of-postgres-table/"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump Threatens 100% Tariffs over Digital Services Tax on U.S. Firms]]></title>
-        <id>https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html</id>
-        <link href="https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html"/>
+        <title type="html"><![CDATA[Meta Patent: Prescription Lenses That Project Virtual Screens into Your Vision]]></title>
+        <id>https://patentlyze.com/patent/meta-holographic-ar-display-built-prescription-lenses/</id>
+        <link href="https://patentlyze.com/patent/meta-holographic-ar-display-built-prescription-lenses/"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Dottie Number]]></title>
-        <id>https://lawrencecpaulson.github.io//2026/06/26/Dottie_Number.html</id>
-        <link href="https://lawrencecpaulson.github.io//2026/06/26/Dottie_Number.html"/>
+        <title type="html"><![CDATA[Holos: Device Is Your Fediverse Server]]></title>
+        <id>https://holos.social/</id>
+        <link href="https://holos.social/"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[President warns of 100% tariff on countries implementing digital services tax]]></title>
-        <id>https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e</id>
-        <link href="https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e"/>
+        <title type="html"><![CDATA[Trump threatens 100% tariff on European digital services taxes]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cn4rd71411ko</id>
+        <link href="https://www.bbc.co.uk/news/articles/cn4rd71411ko"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
@@ -113,9 +120,51 @@
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is the Higgsfield Hype Real, or Is It Just an Expensive Wrapper?]]></title>
-        <id>https://pub.towardsai.net/is-the-higgsfield-hype-real-or-is-it-just-an-expensive-wrapper-5f8400875b4c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/is-the-higgsfield-hype-real-or-is-it-just-an-expensive-wrapper-5f8400875b4c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[President warns of 100% tariff on countries implementing digital services tax]]></title>
+        <id>https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e</id>
+        <link href="https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dottie Number]]></title>
+        <id>https://lawrencecpaulson.github.io//2026/06/26/Dottie_Number.html</id>
+        <link href="https://lawrencecpaulson.github.io//2026/06/26/Dottie_Number.html"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Threatens 100% Tariffs over Digital Services Tax on U.S. Firms]]></title>
+        <id>https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html</id>
+        <link href="https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Make Gates Optional, Make Them Flexible]]></title>
+        <id>https://wakamoleguy.com/p/flexible-gates</id>
+        <link href="https://wakamoleguy.com/p/flexible-gates"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: RevealSafe: Buyer and seller privately submit price; reveal together]]></title>
+        <id>https://www.revealsafe.com/</id>
+        <link href="https://www.revealsafe.com/"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Built the Hardest Test in Human History to Measure AI. It Lasted 18 Months.]]></title>
+        <id>https://pub.towardsai.net/we-built-the-hardest-test-in-human-history-to-measure-ai-it-lasted-18-months-d95631265107?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/we-built-the-hardest-test-in-human-history-to-measure-ai-it-lasted-18-months-d95631265107?source=rss----98111c9905da---4"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIMO3: What AI Math Olympiad Taught Me about LLMs Reasoning at Scale — Part 2]]></title>
+        <id>https://pub.towardsai.net/aimo3-what-ai-math-olympiad-taught-me-about-llms-reasoning-at-scale-part-2-34e24f2625b8?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/aimo3-what-ai-math-olympiad-taught-me-about-llms-reasoning-at-scale-part-2-34e24f2625b8?source=rss----98111c9905da---4"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
@@ -123,6 +172,13 @@
         <title type="html"><![CDATA[GOSIM Paris: This Is What Open Source AI Looks Like in 2026]]></title>
         <id>https://pub.towardsai.net/gosim-paris-this-is-what-open-source-ai-looks-like-in-2026-91b6d0bd702a?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/gosim-paris-this-is-what-open-source-ai-looks-like-in-2026-91b6d0bd702a?source=rss----98111c9905da---4"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is the Higgsfield Hype Real, or Is It Just an Expensive Wrapper?]]></title>
+        <id>https://pub.towardsai.net/is-the-higgsfield-hype-real-or-is-it-just-an-expensive-wrapper-5f8400875b4c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/is-the-higgsfield-hype-real-or-is-it-just-an-expensive-wrapper-5f8400875b4c?source=rss----98111c9905da---4"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
@@ -141,58 +197,9 @@
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Closures: How They Actually Work]]></title>
-        <id>https://dev.to/sanuranjan/javascript-closures-how-they-actually-work-376g</id>
-        <link href="https://dev.to/sanuranjan/javascript-closures-how-they-actually-work-376g"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking for Contributors: Help Build Avenx.js 🚀]]></title>
-        <id>https://dev.to/nathanschmid08/looking-for-contributors-help-build-avenxjs-1n4f</id>
-        <link href="https://dev.to/nathanschmid08/looking-for-contributors-help-build-avenxjs-1n4f"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Live Timeline of React Hooks (useState, useEffect, useMemo, useRef)]]></title>
-        <id>https://dev.to/dev48v/i-built-a-live-timeline-of-react-hooks-usestate-useeffect-usememo-useref-47i3</id>
-        <link href="https://dev.to/dev48v/i-built-a-live-timeline-of-react-hooks-usestate-useeffect-usememo-useref-47i3"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I ran my jargon-highlighting extension on 10 of Fireship's most popular videos — here's the programming jargon that came up]]></title>
-        <id>https://dev.to/jamieandrew/i-ran-my-jargon-highlighting-extension-on-10-of-fireships-most-popular-videos-heres-the-59di</id>
-        <link href="https://dev.to/jamieandrew/i-ran-my-jargon-highlighting-extension-on-10-of-fireships-most-popular-videos-heres-the-59di"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Migrated Bloom After from Vanilla JS to Next.js + TypeScript]]></title>
-        <id>https://dev.to/chijioke_uzodinma_d6ae6ef/how-we-migrated-bloom-after-from-vanilla-js-to-nextjs-typescript-ggl</id>
-        <link href="https://dev.to/chijioke_uzodinma_d6ae6ef/how-we-migrated-bloom-after-from-vanilla-js-to-nextjs-typescript-ggl"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIL you can do sha256 generator entirely client-side]]></title>
-        <id>https://dev.to/crypto_plato_26/til-you-can-do-sha256-generator-entirely-client-side-5c5o</id>
-        <link href="https://dev.to/crypto_plato_26/til-you-can-do-sha256-generator-entirely-client-side-5c5o"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting an LLM to Actually Follow Your Output Format (Without Fighting It Every Request)]]></title>
-        <id>https://dev.to/knallhartdev/getting-an-llm-to-actually-follow-your-output-format-without-fighting-it-every-request-1kn1</id>
-        <link href="https://dev.to/knallhartdev/getting-an-llm-to-actually-follow-your-output-format-without-fighting-it-every-request-1kn1"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOM in JavaScript]]></title>
-        <id>https://dev.to/surya_960b9a895415589fa9e/dom-in-javascript-2k0k</id>
-        <link href="https://dev.to/surya_960b9a895415589fa9e/dom-in-javascript-2k0k"/>
+        <title type="html"><![CDATA[I Built a Tribology Expert System from Scratch — No Frameworks, No Backend, Just Vanilla JavaScript]]></title>
+        <id>https://dev.to/arashkabiri/i-built-a-tribology-expert-system-from-scratch-no-frameworks-no-backend-just-vanilla-javascript-5gad</id>
+        <link href="https://dev.to/arashkabiri/i-built-a-tribology-expert-system-from-scratch-no-frameworks-no-backend-just-vanilla-javascript-5gad"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
@@ -204,30 +211,65 @@
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[With GTA looming, consoles are getting expensive at the worst possible time]]></title>
-        <id>https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes</id>
-        <link href="https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
+        <title type="html"><![CDATA[DOM in JavaScript]]></title>
+        <id>https://dev.to/surya_960b9a895415589fa9e/dom-in-javascript-2k0k</id>
+        <link href="https://dev.to/surya_960b9a895415589fa9e/dom-in-javascript-2k0k"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s the last day of Prime Day — here are over 130 great deals to choose from]]></title>
-        <id>https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four</id>
-        <link href="https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Getting an LLM to Actually Follow Your Output Format (Without Fighting It Every Request)]]></title>
+        <id>https://dev.to/knallhartdev/getting-an-llm-to-actually-follow-your-output-format-without-fighting-it-every-request-1kn1</id>
+        <link href="https://dev.to/knallhartdev/getting-an-llm-to-actually-follow-your-output-format-without-fighting-it-every-request-1kn1"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike]]></title>
-        <id>https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes</id>
-        <link href="https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
+        <title type="html"><![CDATA[TIL you can do sha256 generator entirely client-side]]></title>
+        <id>https://dev.to/crypto_plato_26/til-you-can-do-sha256-generator-entirely-client-side-5c5o</id>
+        <link href="https://dev.to/crypto_plato_26/til-you-can-do-sha256-generator-entirely-client-side-5c5o"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Score a discounted Xbox console before the prices jump]]></title>
-        <id>https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale"/>
+        <title type="html"><![CDATA[How We Migrated Bloom After from Vanilla JS to Next.js + TypeScript]]></title>
+        <id>https://dev.to/chijioke_uzodinma_d6ae6ef/how-we-migrated-bloom-after-from-vanilla-js-to-nextjs-typescript-ggl</id>
+        <link href="https://dev.to/chijioke_uzodinma_d6ae6ef/how-we-migrated-bloom-after-from-vanilla-js-to-nextjs-typescript-ggl"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I ran my jargon-highlighting extension on 10 of Fireship's most popular videos — here's the programming jargon that came up]]></title>
+        <id>https://dev.to/jamieandrew/i-ran-my-jargon-highlighting-extension-on-10-of-fireships-most-popular-videos-heres-the-59di</id>
+        <link href="https://dev.to/jamieandrew/i-ran-my-jargon-highlighting-extension-on-10-of-fireships-most-popular-videos-heres-the-59di"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Live Timeline of React Hooks (useState, useEffect, useMemo, useRef)]]></title>
+        <id>https://dev.to/dev48v/i-built-a-live-timeline-of-react-hooks-usestate-useeffect-usememo-useref-47i3</id>
+        <link href="https://dev.to/dev48v/i-built-a-live-timeline-of-react-hooks-usestate-useeffect-usememo-useref-47i3"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for Contributors: Help Build Avenx.js 🚀]]></title>
+        <id>https://dev.to/nathanschmid08/looking-for-contributors-help-build-avenxjs-1n4f</id>
+        <link href="https://dev.to/nathanschmid08/looking-for-contributors-help-build-avenxjs-1n4f"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Closures: How They Actually Work]]></title>
+        <id>https://dev.to/sanuranjan/javascript-closures-how-they-actually-work-376g</id>
+        <link href="https://dev.to/sanuranjan/javascript-closures-how-they-actually-work-376g"/>
+        <updated>2026-06-26T16:00:00.000Z</updated>
+        <published>2026-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Of course Meta thinks gambling is the future]]></title>
+        <id>https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast</id>
+        <link href="https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
@@ -239,65 +281,30 @@
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Of course Meta thinks gambling is the future]]></title>
-        <id>https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast</id>
-        <link href="https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast"/>
+        <title type="html"><![CDATA[Score a discounted Xbox console before the prices jump]]></title>
+        <id>https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get $145 Off the Best Mesh Router This Prime Day 2026]]></title>
-        <id>https://www.wired.com/story/amazon-prime-day-router-deals-06-26-2026/</id>
-        <link href="https://www.wired.com/story/amazon-prime-day-router-deals-06-26-2026/"/>
+        <title type="html"><![CDATA[You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike]]></title>
+        <id>https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes</id>
+        <link href="https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Should You Buy Your Kid a 3D Printer? What to Know and Consider (2026)]]></title>
-        <id>https://www.wired.com/story/3d-printer-for-kids/</id>
-        <link href="https://www.wired.com/story/3d-printer-for-kids/"/>
+        <title type="html"><![CDATA[It’s the last day of Prime Day — here are over 130 great deals to choose from]]></title>
+        <id>https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four</id>
+        <link href="https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Gooner Music Video Boom Is Here]]></title>
-        <id>https://www.wired.com/story/the-gooner-music-video-boom-is-here/</id>
-        <link href="https://www.wired.com/story/the-gooner-music-video-boom-is-here/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is Probably Your Last Chance to Buy a Cheap MacBook for a While]]></title>
-        <id>https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/</id>
-        <link href="https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)]]></title>
-        <id>https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/</id>
-        <link href="https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Fatal Tesla Crash in Texas Sets Up a Legal Showdown]]></title>
-        <id>https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/</id>
-        <link href="https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data]]></title>
-        <id>https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/</id>
-        <link href="https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids]]></title>
-        <id>https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/</id>
-        <link href="https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/"/>
+        <title type="html"><![CDATA[With GTA looming, consoles are getting expensive at the worst possible time]]></title>
+        <id>https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes</id>
+        <link href="https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
@@ -309,58 +316,51 @@
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube Shorts are getting even shorter with an update that lets you double the playback speed]]></title>
-        <id>https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/</id>
-        <link href="https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/"/>
+        <title type="html"><![CDATA[Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids]]></title>
+        <id>https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/</id>
+        <link href="https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Finance gets a dedicated app for Android]]></title>
-        <id>https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/</id>
-        <link href="https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/"/>
+        <title type="html"><![CDATA[Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data]]></title>
+        <id>https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x]]></title>
-        <id>https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/</id>
-        <link href="https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/"/>
+        <title type="html"><![CDATA[A Fatal Tesla Crash in Texas Sets Up a Legal Showdown]]></title>
+        <id>https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/</id>
+        <link href="https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General Intuition’s $2.3B bet that video games can train AI agents for the real world]]></title>
-        <id>https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</id>
-        <link href="https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"/>
+        <title type="html"><![CDATA[Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)]]></title>
+        <id>https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/</id>
+        <link href="https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents]]></title>
-        <id>https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</id>
-        <link href="https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"/>
+        <title type="html"><![CDATA[This Is Probably Your Last Chance to Buy a Cheap MacBook for a While]]></title>
+        <id>https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/</id>
+        <link href="https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robotaxis drives miles just to get cleaned and charged; this new startup wants to fix that]]></title>
-        <id>https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/</id>
-        <link href="https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/"/>
+        <title type="html"><![CDATA[The Gooner Music Video Boom Is Here]]></title>
+        <id>https://www.wired.com/story/the-gooner-music-video-boom-is-here/</id>
+        <link href="https://www.wired.com/story/the-gooner-music-video-boom-is-here/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The world is heating up, and policies are not helping]]></title>
-        <id>https://theoryofchange1.substack.com/p/summer-is-coming-what-game-of-thrones</id>
-        <link href="https://theoryofchange1.substack.com/p/summer-is-coming-what-game-of-thrones"/>
-        <updated>2026-06-25T16:00:00.000Z</updated>
-        <published>2026-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Jargo – a Golang port of Pipecat for conversational-AI apps]]></title>
-        <id>https://github.com/gojargo/jargo</id>
-        <link href="https://github.com/gojargo/jargo"/>
+        <title type="html"><![CDATA[Should You Buy Your Kid a 3D Printer? What to Know and Consider (2026)]]></title>
+        <id>https://www.wired.com/story/3d-printer-for-kids/</id>
+        <link href="https://www.wired.com/story/3d-printer-for-kids/"/>
         <updated>2026-06-25T16:00:00.000Z</updated>
         <published>2026-06-25T16:00:00.000Z</published>
     </entry>
