@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-28T00:01:31.452Z</updated>
+    <updated>2026-06-28T02:01:06.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,58 +36,51 @@
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Link Between Cancer and Fasting That They're Hiding from You [video]]]></title>
-        <id>https://www.youtube.com/watch?v=jDG1m_b5Ih0</id>
-        <link href="https://www.youtube.com/watch?v=jDG1m_b5Ih0"/>
+        <title type="html"><![CDATA[Show HN: SpinnerRecruit – targeted job ads in CLI for AI wait states]]></title>
+        <id>https://www.spinnerrecruit.dev/</id>
+        <link href="https://www.spinnerrecruit.dev/"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phones alerted millions before quakes shook Venezuela]]></title>
-        <id>https://www.nytimes.com/interactive/2026/06/27/world/americas/venezuela-earthquakes-android-alerts.html</id>
-        <link href="https://www.nytimes.com/interactive/2026/06/27/world/americas/venezuela-earthquakes-android-alerts.html"/>
+        <title type="html"><![CDATA[Chrome Extension to Bypass Paywalls]]></title>
+        <id>https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean</id>
+        <link href="https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Pressn't, a site where you can have a single post]]></title>
-        <id>https://app.pressnt.net/</id>
-        <link href="https://app.pressnt.net/"/>
+        <title type="html"><![CDATA[People and Blogs Interview: David Cain, Raptitude]]></title>
+        <id>https://manuelmoreale.com/interview/david-cain</id>
+        <link href="https://manuelmoreale.com/interview/david-cain"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The truth about datacenters in space [video]]]></title>
-        <id>https://www.youtube.com/watch?v=_qpdUNMt2yg</id>
-        <link href="https://www.youtube.com/watch?v=_qpdUNMt2yg"/>
+        <title type="html"><![CDATA[Slop, trust, and a three-line patch]]></title>
+        <id>https://klez.me/2026/06/28/slop-trust-and-a-three-line-patch/</id>
+        <link href="https://klez.me/2026/06/28/slop-trust-and-a-three-line-patch/"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tell HN: Please stop posting political content]]></title>
-        <id>https://news.ycombinator.com/item?id=48702889</id>
-        <link href="https://news.ycombinator.com/item?id=48702889"/>
+        <title type="html"><![CDATA[AMD Strix Halo RDMA Cluster Setup Guide]]></title>
+        <id>https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md</id>
+        <link href="https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kops: Extending the eBPF JIT with native ops you don't have to trust]]></title>
-        <id>https://arxiv.org/abs/2606.24213</id>
-        <link href="https://arxiv.org/abs/2606.24213"/>
+        <title type="html"><![CDATA[GTA 3 on a Volumetric Display (2025) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=onYH5gvlnzE</id>
+        <link href="https://www.youtube.com/watch?v=onYH5gvlnzE"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast feedback loops is the way]]></title>
-        <id>https://news.ycombinator.com/item?id=48702829</id>
-        <link href="https://news.ycombinator.com/item?id=48702829"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Storage Detection Dogs: A Promising New Niche]]></title>
-        <id>https://www.eurosatory.com/en/digital-storage-detection-dogs-a-promising-new-niche/</id>
-        <link href="https://www.eurosatory.com/en/digital-storage-detection-dogs-a-promising-new-niche/"/>
+        <title type="html"><![CDATA[Show HN: Claude-CLI – Run Claude Code in a throwaway Docker container]]></title>
+        <id>https://github.com/shirozuki/claude-cli</id>
+        <link href="https://github.com/shirozuki/claude-cli"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
@@ -99,9 +92,58 @@
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Claude-CLI – Run Claude Code in a throwaway Docker container]]></title>
-        <id>https://github.com/shirozuki/claude-cli</id>
-        <link href="https://github.com/shirozuki/claude-cli"/>
+        <title type="html"><![CDATA[Digital Storage Detection Dogs: A Promising New Niche]]></title>
+        <id>https://www.eurosatory.com/en/digital-storage-detection-dogs-a-promising-new-niche/</id>
+        <link href="https://www.eurosatory.com/en/digital-storage-detection-dogs-a-promising-new-niche/"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast feedback loops is the way]]></title>
+        <id>https://news.ycombinator.com/item?id=48702829</id>
+        <link href="https://news.ycombinator.com/item?id=48702829"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kops: Extending the eBPF JIT with native ops you don't have to trust]]></title>
+        <id>https://arxiv.org/abs/2606.24213</id>
+        <link href="https://arxiv.org/abs/2606.24213"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Please stop posting political content]]></title>
+        <id>https://news.ycombinator.com/item?id=48702889</id>
+        <link href="https://news.ycombinator.com/item?id=48702889"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The truth about datacenters in space [video]]]></title>
+        <id>https://www.youtube.com/watch?v=_qpdUNMt2yg</id>
+        <link href="https://www.youtube.com/watch?v=_qpdUNMt2yg"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Pressn't, a site where you can have a single post]]></title>
+        <id>https://app.pressnt.net/</id>
+        <link href="https://app.pressnt.net/"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phones alerted millions before quakes shook Venezuela]]></title>
+        <id>https://www.nytimes.com/interactive/2026/06/27/world/americas/venezuela-earthquakes-android-alerts.html</id>
+        <link href="https://www.nytimes.com/interactive/2026/06/27/world/americas/venezuela-earthquakes-android-alerts.html"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Link Between Cancer and Fasting That They're Hiding from You [video]]]></title>
+        <id>https://www.youtube.com/watch?v=jDG1m_b5Ih0</id>
+        <link href="https://www.youtube.com/watch?v=jDG1m_b5Ih0"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
@@ -127,51 +169,58 @@
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discord-Bot-Series-Part-1-Getting-Started]]></title>
-        <id>https://dev.to/itsash/discord-bot-series-part-1-getting-started-cjh</id>
-        <link href="https://dev.to/itsash/discord-bot-series-part-1-getting-started-cjh"/>
+        <title type="html"><![CDATA[I Built a Browser-Only Favicon Generator — Text, Emoji & SVG to ICO/PNG (136 Tests, Zero Dependencies)]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-favicon-generator-text-emoji-svg-to-icopng-136-tests-zero-4596</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-favicon-generator-text-emoji-svg-to-icopng-136-tests-zero-4596"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[n8n Expressions: How to Use Dynamic Data in Your Workflows (Free Examples)]]></title>
-        <id>https://dev.to/pirateprentice/n8n-expressions-how-to-use-dynamic-data-in-your-workflows-free-examples-3f2j</id>
-        <link href="https://dev.to/pirateprentice/n8n-expressions-how-to-use-dynamic-data-in-your-workflows-free-examples-3f2j"/>
+        <title type="html"><![CDATA[I "Hacked" Discord's API to Download All Messages & Attachments (And Made a FREE Chrome Extension For This)]]></title>
+        <id>https://dev.to/codedcitadel/i-hacked-discords-api-to-download-all-messages-attachments-and-made-a-free-chrome-extension-1pbm</id>
+        <link href="https://dev.to/codedcitadel/i-hacked-discords-api-to-download-all-messages-attachments-and-made-a-free-chrome-extension-1pbm"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Browser-Only HTML Entity Encoder/Decoder — Named, Decimal & Hex, 246 Tests]]></title>
-        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-html-entity-encoderdecoder-named-decimal-hex-246-tests-132a</id>
-        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-html-entity-encoderdecoder-named-decimal-hex-246-tests-132a"/>
+        <title type="html"><![CDATA[Nyra – Memory safety of Rust with the simplicity of JS]]></title>
+        <id>https://dev.to/hamdymohamedak/nyra-memory-safety-of-rust-with-the-simplicity-of-js-2p66</id>
+        <link href="https://dev.to/hamdymohamedak/nyra-memory-safety-of-rust-with-the-simplicity-of-js-2p66"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Visual Chmod Calculator in Pure Vanilla JS — Checkboxes ↔ Numeric ↔ Symbolic, 222 Tests]]></title>
-        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-visual-chmod-calculator-in-pure-vanilla-js-checkboxes-numeric-symbolic-222-tests-4kee</id>
-        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-visual-chmod-calculator-in-pure-vanilla-js-checkboxes-numeric-symbolic-222-tests-4kee"/>
+        <title type="html"><![CDATA[3 MoodFlow Users, 3 Countries, 3 Success Stories]]></title>
+        <id>https://dev.to/moodflow/3-moodflow-users-3-countries-3-success-stories-12kh</id>
+        <link href="https://dev.to/moodflow/3-moodflow-users-3-countries-3-success-stories-12kh"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[n8n Code node: run JavaScript (or Python) inside your workflows — free examples]]></title>
-        <id>https://dev.to/pirateprentice/n8n-code-node-run-javascript-or-python-inside-your-workflows-free-examples-1oa5</id>
-        <link href="https://dev.to/pirateprentice/n8n-code-node-run-javascript-or-python-inside-your-workflows-free-examples-1oa5"/>
+        <title type="html"><![CDATA[I Built a Unit Converter in Pure Vanilla JS — 7 Categories, 70+ Units, 165 Tests, Zero Dependencies]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-unit-converter-in-pure-vanilla-js-7-categories-70-units-165-tests-zero-dependencies-3n2o</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-unit-converter-in-pure-vanilla-js-7-categories-70-units-165-tests-zero-dependencies-3n2o"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[n8n Error Handling: How to Catch Errors and Build Resilient Workflows (+ Free JSON)]]></title>
-        <id>https://dev.to/pirateprentice/n8n-error-handling-how-to-catch-errors-and-build-resilient-workflows-free-json-5eb2</id>
-        <link href="https://dev.to/pirateprentice/n8n-error-handling-how-to-catch-errors-and-build-resilient-workflows-free-json-5eb2"/>
+        <title type="html"><![CDATA[I Built a Text Diff Tool in Pure Vanilla JS — Myers Algorithm from Scratch, 129 Tests, Zero Dependencies]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-text-diff-tool-in-pure-vanilla-js-myers-algorithm-from-scratch-129-tests-zero-1aje</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-text-diff-tool-in-pure-vanilla-js-myers-algorithm-from-scratch-129-tests-zero-1aje"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 11 Site To Buy Google Voice Accounts In This Time]]></title>
-        <id>https://dev.to/topsmmonline6043/top-11-site-to-buy-google-voice-accounts-in-this-time-29eh</id>
-        <link href="https://dev.to/topsmmonline6043/top-11-site-to-buy-google-voice-accounts-in-this-time-29eh"/>
+        <title type="html"><![CDATA[Signals vs React Compiler: The Fine-Grained Reactivity Showdown]]></title>
+        <id>https://dev.to/ahmedmahmoudabouraia/signals-vs-react-compiler-the-fine-grained-reactivity-showdown-2d0j</id>
+        <link href="https://dev.to/ahmedmahmoudabouraia/signals-vs-react-compiler-the-fine-grained-reactivity-showdown-2d0j"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightweight JavaScript Library for Visual Hierarchical Data Creation, Preview, and Validation]]></title>
+        <id>https://dev.to/pavkode/lightweight-javascript-library-for-visual-hierarchical-data-creation-preview-and-validation-1dpl</id>
+        <link href="https://dev.to/pavkode/lightweight-javascript-library-for-visual-hierarchical-data-creation-preview-and-validation-1dpl"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
@@ -183,9 +232,51 @@
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lightweight JavaScript Library for Visual Hierarchical Data Creation, Preview, and Validation]]></title>
-        <id>https://dev.to/pavkode/lightweight-javascript-library-for-visual-hierarchical-data-creation-preview-and-validation-1dpl</id>
-        <link href="https://dev.to/pavkode/lightweight-javascript-library-for-visual-hierarchical-data-creation-preview-and-validation-1dpl"/>
+        <title type="html"><![CDATA[Top 11 Site To Buy Google Voice Accounts In This Time]]></title>
+        <id>https://dev.to/topsmmonline6043/top-11-site-to-buy-google-voice-accounts-in-this-time-29eh</id>
+        <link href="https://dev.to/topsmmonline6043/top-11-site-to-buy-google-voice-accounts-in-this-time-29eh"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n Error Handling: How to Catch Errors and Build Resilient Workflows (+ Free JSON)]]></title>
+        <id>https://dev.to/pirateprentice/n8n-error-handling-how-to-catch-errors-and-build-resilient-workflows-free-json-5eb2</id>
+        <link href="https://dev.to/pirateprentice/n8n-error-handling-how-to-catch-errors-and-build-resilient-workflows-free-json-5eb2"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n Code node: run JavaScript (or Python) inside your workflows — free examples]]></title>
+        <id>https://dev.to/pirateprentice/n8n-code-node-run-javascript-or-python-inside-your-workflows-free-examples-1oa5</id>
+        <link href="https://dev.to/pirateprentice/n8n-code-node-run-javascript-or-python-inside-your-workflows-free-examples-1oa5"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Visual Chmod Calculator in Pure Vanilla JS — Checkboxes ↔ Numeric ↔ Symbolic, 222 Tests]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-visual-chmod-calculator-in-pure-vanilla-js-checkboxes-numeric-symbolic-222-tests-4kee</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-visual-chmod-calculator-in-pure-vanilla-js-checkboxes-numeric-symbolic-222-tests-4kee"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Browser-Only HTML Entity Encoder/Decoder — Named, Decimal & Hex, 246 Tests]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-html-entity-encoderdecoder-named-decimal-hex-246-tests-132a</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-html-entity-encoderdecoder-named-decimal-hex-246-tests-132a"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n Expressions: How to Use Dynamic Data in Your Workflows (Free Examples)]]></title>
+        <id>https://dev.to/pirateprentice/n8n-expressions-how-to-use-dynamic-data-in-your-workflows-free-examples-3f2j</id>
+        <link href="https://dev.to/pirateprentice/n8n-expressions-how-to-use-dynamic-data-in-your-workflows-free-examples-3f2j"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord-Bot-Series-Part-1-Getting-Started]]></title>
+        <id>https://dev.to/itsash/discord-bot-series-part-1-getting-started-cjh</id>
+        <link href="https://dev.to/itsash/discord-bot-series-part-1-getting-started-cjh"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
@@ -270,97 +361,6 @@
         <title type="html"><![CDATA[Duer’s Wear-Everywhere Pants Are on Sale This Weekend]]></title>
         <id>https://www.wired.com/story/save-on-some-stellar-pants-during-a-rare-duer-sale/</id>
         <link href="https://www.wired.com/story/save-on-some-stellar-pants-during-a-rare-duer-sale/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm]]></title>
-        <id>https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</id>
-        <link href="https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI poaches Uber India chief to lead its biggest market outside the US]]></title>
-        <id>https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/</id>
-        <link href="https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla settles FSD crash lawsuit as federal investigations continue]]></title>
-        <id>https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/</id>
-        <link href="https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies]]></title>
-        <id>https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</id>
-        <link href="https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primed for Malware: Stop Selling Compromised Android Devices]]></title>
-        <id>https://www.eff.org/deeplinks/2026/06/primed-malware-stop-selling-compromised-android-devices</id>
-        <link href="https://www.eff.org/deeplinks/2026/06/primed-malware-stop-selling-compromised-android-devices"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI: Russian hackers now target Signal backup recovery keys]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dr. Alan Kay on the meaning of "object-oriented programming"]]></title>
-        <id>https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/</id>
-        <link href="https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: FPGA design acceleration – idiomatic Python to synthesizable Verilog]]></title>
-        <id>https://holoso.digital</id>
-        <link href="https://holoso.digital"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vessel – Agentless, local-first VPS control plane in Tauri and Rust]]></title>
-        <id>https://github.com/shihebamrii/vessel</id>
-        <link href="https://github.com/shihebamrii/vessel"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Proton a Pure go, no CGO GUI library for building applications]]></title>
-        <id>https://protonlib.pages.dev/</id>
-        <link href="https://protonlib.pages.dev/"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corv: An SSH client for AI agents (and humans)]]></title>
-        <id>https://github.com/khalid-src/corv-client</id>
-        <link href="https://github.com/khalid-src/corv-client"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixar's Believable People]]></title>
-        <id>https://animationobsessive.substack.com/p/pixars-believable-people</id>
-        <link href="https://animationobsessive.substack.com/p/pixars-believable-people"/>
-        <updated>2026-06-26T16:00:00.000Z</updated>
-        <published>2026-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting LLMs Drunk to Find Remote Linux Kernel OOB Writes (and More)]]></title>
-        <id>https://heyitsas.im/posts/drinking-llms/</id>
-        <link href="https://heyitsas.im/posts/drinking-llms/"/>
         <updated>2026-06-26T16:00:00.000Z</updated>
         <published>2026-06-26T16:00:00.000Z</published>
     </entry>
