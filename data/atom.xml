@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-28T10:02:08.059Z</updated>
+    <updated>2026-06-28T13:02:55.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[TMD’s keyless bike lock is a $280 solution to a $60 problem]]></title>
-        <id>https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review</id>
-        <link href="https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review"/>
+        <title type="html"><![CDATA[Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler]]></title>
+        <id>https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler</id>
+        <link href="https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
@@ -29,23 +29,30 @@
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler]]></title>
-        <id>https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler</id>
-        <link href="https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler"/>
+        <title type="html"><![CDATA[TMD’s keyless bike lock is a $280 solution to a $60 problem]]></title>
+        <id>https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review</id>
+        <link href="https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Is the Most Detailed Image Yet of the Milky Way's Center]]></title>
-        <id>https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/</id>
-        <link href="https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/"/>
+        <title type="html"><![CDATA[The ‘Almost Homeless’ Subreddit Is a Stark Glimpse at Soaring Wealth Inequality]]></title>
+        <id>https://www.wired.com/story/the-almost-homeless-subreddit-is-a-stark-glimpse-at-soaring-wealth-inequality/</id>
+        <link href="https://www.wired.com/story/the-almost-homeless-subreddit-is-a-stark-glimpse-at-soaring-wealth-inequality/"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Ebike Accessories You Need to Help You Haul the Most Stuff]]></title>
-        <id>https://www.wired.com/story/how-to-trick-out-your-ebike/</id>
-        <link href="https://www.wired.com/story/how-to-trick-out-your-ebike/"/>
+        <title type="html"><![CDATA[Why Wear Anything Other Than a Sun Hoodie This Summer? Our Picks for the Best]]></title>
+        <id>https://www.wired.com/story/im-addicted-to-sun-hoodies/</id>
+        <link href="https://www.wired.com/story/im-addicted-to-sun-hoodies/"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[62 Last Minute Prime Day Weekend Deals: Up to 45% Off (2026)]]></title>
+        <id>https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/</id>
+        <link href="https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
@@ -57,9 +64,16 @@
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[62 Last Minute Prime Day Weekend Deals: Up to 45% Off (2026)]]></title>
-        <id>https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/</id>
-        <link href="https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/"/>
+        <title type="html"><![CDATA[The Ebike Accessories You Need to Help You Haul the Most Stuff]]></title>
+        <id>https://www.wired.com/story/how-to-trick-out-your-ebike/</id>
+        <link href="https://www.wired.com/story/how-to-trick-out-your-ebike/"/>
+        <updated>2026-06-27T16:00:00.000Z</updated>
+        <published>2026-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Is the Most Detailed Image Yet of the Milky Way's Center]]></title>
+        <id>https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/</id>
+        <link href="https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
@@ -337,23 +351,9 @@
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1M Context Tokens Is Not Memory: The Beginner’s Guide to Long Context]]></title>
-        <id>https://pub.towardsai.net/1m-context-tokens-is-not-memory-the-beginners-guide-to-long-context-f6893ae2a4e9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/1m-context-tokens-is-not-memory-the-beginners-guide-to-long-context-f6893ae2a4e9?source=rss----98111c9905da---4"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Production RAG Systems — 7 Lessons We Learned the Hard Way]]></title>
-        <id>https://pub.towardsai.net/production-rag-systems-7-lessons-we-learned-the-hard-way-5f41609fdbcd?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/production-rag-systems-7-lessons-we-learned-the-hard-way-5f41609fdbcd?source=rss----98111c9905da---4"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Korea Built the Most Leveraged Bet on the AI Boom. In June, It Got a Preview.]]></title>
-        <id>https://pub.towardsai.net/korea-built-the-most-leveraged-bet-on-the-ai-boom-in-june-it-got-a-preview-993cb12bd2d9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/korea-built-the-most-leveraged-bet-on-the-ai-boom-in-june-it-got-a-preview-993cb12bd2d9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Fine-Tune Your First LLM: A Guide with PyTorch and Hugging Face]]></title>
+        <id>https://pub.towardsai.net/fine-tune-your-first-llm-a-guide-with-pytorch-and-hugging-face-bc4cdfb156c3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/fine-tune-your-first-llm-a-guide-with-pytorch-and-hugging-face-bc4cdfb156c3?source=rss----98111c9905da---4"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
