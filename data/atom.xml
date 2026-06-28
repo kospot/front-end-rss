@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-28T15:02:40.041Z</updated>
+    <updated>2026-06-28T22:00:54.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,100 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[TMD’s keyless bike lock is a $280 solution to a $60 problem]]></title>
-        <id>https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review</id>
-        <link href="https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review"/>
+        <title type="html"><![CDATA[China claims the world&#8217;s fastest supercomputer]]></title>
+        <id>https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer</id>
+        <link href="https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece]]></title>
+        <id>https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review</id>
+        <link href="https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California law targeting loud streaming ads takes effect on July 1]]></title>
+        <id>https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/</id>
+        <link href="https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience]]></title>
+        <id>https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/</id>
+        <link href="https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.6 vs the Frontier. The Comparison Depends on Which Benchmark You Look At]]></title>
+        <id>https://pub.towardsai.net/gpt-5-6-vs-the-frontier-the-comparison-depends-on-which-benchmark-you-look-at-2ab1192d6218?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/gpt-5-6-vs-the-frontier-the-comparison-depends-on-which-benchmark-you-look-at-2ab1192d6218?source=rss----98111c9905da---4"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLM vs LLM vs Frontier Models: Which One Should You Actually Use?]]></title>
+        <id>https://pub.towardsai.net/slm-vs-llm-vs-frontier-models-which-one-should-you-actually-use-33730148b983?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/slm-vs-llm-vs-frontier-models-which-one-should-you-actually-use-33730148b983?source=rss----98111c9905da---4"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Send 10,000+ Emails/Month Using Node.js and Multiple SMTP Providers]]></title>
+        <id>https://dev.to/mike_3418066a1dea35ef8a2f/how-we-send-10000-emailsmonth-using-nodejs-and-multiple-smtp-providers-5hfd</id>
+        <link href="https://dev.to/mike_3418066a1dea35ef8a2f/how-we-send-10000-emailsmonth-using-nodejs-and-multiple-smtp-providers-5hfd"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Context vs Prop Drilling: I Put the Re-render Blast Radius Side by Side]]></title>
+        <id>https://dev.to/dev48v/context-vs-prop-drilling-i-put-the-re-render-blast-radius-side-by-side-228n</id>
+        <link href="https://dev.to/dev48v/context-vs-prop-drilling-i-put-the-re-render-blast-radius-side-by-side-228n"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 days. Meta's Threads web app. Now a responsive website.]]></title>
+        <id>https://dev.to/iamnotshifu/8-days-metas-threads-mobile-app-now-a-responsive-website-4aok</id>
+        <link href="https://dev.to/iamnotshifu/8-days-metas-threads-mobile-app-now-a-responsive-website-4aok"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I synced BLE firmware with React Native]]></title>
+        <id>https://dev.to/ask_rabab_zahra/how-i-synced-ble-firmware-with-react-native-71p</id>
+        <link href="https://dev.to/ask_rabab_zahra/how-i-synced-ble-firmware-with-react-native-71p"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power BI Data Modeling Unleashed: Master Schemas, Relationships, and Joins for High-Performance Reporting]]></title>
+        <id>https://dev.to/mashaford/power-bi-data-modeling-unleashed-master-schemas-relationships-and-joins-for-high-performance-38ig</id>
+        <link href="https://dev.to/mashaford/power-bi-data-modeling-unleashed-master-schemas-relationships-and-joins-for-high-performance-38ig"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What if React Production Isn't Built?]]></title>
+        <id>https://dev.to/khaledmsalem/what-if-react-production-isnt-built-29a2</id>
+        <link href="https://dev.to/khaledmsalem/what-if-react-production-isnt-built-29a2"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to fix the "Purple Potassium" Chrome Web Store rejection (and catch it before you submit)]]></title>
+        <id>https://dev.to/rory_1af399b9b9528d47ab36/how-to-fix-the-purple-potassium-chrome-web-store-rejection-and-catch-it-before-you-submit-414b</id>
+        <link href="https://dev.to/rory_1af399b9b9528d47ab36/how-to-fix-the-purple-potassium-chrome-web-store-rejection-and-catch-it-before-you-submit-414b"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler]]></title>
+        <id>https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler</id>
+        <link href="https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
@@ -29,9 +120,9 @@
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler]]></title>
-        <id>https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler</id>
-        <link href="https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler"/>
+        <title type="html"><![CDATA[TMD’s keyless bike lock is a $280 solution to a $60 problem]]></title>
+        <id>https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review</id>
+        <link href="https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
@@ -78,16 +169,16 @@
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Govee’s smart nugget ice maker makes every iced drink feel like a luxury]]></title>
-        <id>https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/</id>
-        <link href="https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/"/>
+        <title type="html"><![CDATA[Indian payments chief thinks AI will be heavily involved in next era of digital payment growth]]></title>
+        <id>https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/</id>
+        <link href="https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Indian payments chief thinks AI will be heavily involved in next era of digital payment growth]]></title>
-        <id>https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/</id>
-        <link href="https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/"/>
+        <title type="html"><![CDATA[Govee’s smart nugget ice maker makes every iced drink feel like a luxury]]></title>
+        <id>https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/</id>
+        <link href="https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
@@ -270,97 +361,6 @@
         <title type="html"><![CDATA[Fast feedback loops is the way]]></title>
         <id>https://news.ycombinator.com/item?id=48702829</id>
         <link href="https://news.ycombinator.com/item?id=48702829"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kops: Extending the eBPF JIT with native ops you don't have to trust]]></title>
-        <id>https://arxiv.org/abs/2606.24213</id>
-        <link href="https://arxiv.org/abs/2606.24213"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: Please stop posting political content]]></title>
-        <id>https://news.ycombinator.com/item?id=48702889</id>
-        <link href="https://news.ycombinator.com/item?id=48702889"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The truth about datacenters in space [video]]]></title>
-        <id>https://www.youtube.com/watch?v=_qpdUNMt2yg</id>
-        <link href="https://www.youtube.com/watch?v=_qpdUNMt2yg"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Pressn't, a site where you can have a single post]]></title>
-        <id>https://app.pressnt.net/</id>
-        <link href="https://app.pressnt.net/"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phones alerted millions before quakes shook Venezuela]]></title>
-        <id>https://www.nytimes.com/interactive/2026/06/27/world/americas/venezuela-earthquakes-android-alerts.html</id>
-        <link href="https://www.nytimes.com/interactive/2026/06/27/world/americas/venezuela-earthquakes-android-alerts.html"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Link Between Cancer and Fasting That They're Hiding from You [video]]]></title>
-        <id>https://www.youtube.com/watch?v=jDG1m_b5Ih0</id>
-        <link href="https://www.youtube.com/watch?v=jDG1m_b5Ih0"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An argument with Om about Wired spawned this newsletter. RIP brother]]></title>
-        <id>https://crazystupidtech.com/2026/06/27/how-an-argument-with-om-spawned-this-newsletter-rip-brother/</id>
-        <link href="https://crazystupidtech.com/2026/06/27/how-an-argument-with-om-spawned-this-newsletter-rip-brother/"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deburr Edge Cases Skill: Make coding agents systematize their local code]]></title>
-        <id>https://github.com/imbue-ai/rust-bucket/blob/main/.agents/skills/deburr-edge-cases/SKILL.md</id>
-        <link href="https://github.com/imbue-ai/rust-bucket/blob/main/.agents/skills/deburr-edge-cases/SKILL.md"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Git-temp – scratchpad folder for AI agents; doesn't clutter Git status]]></title>
-        <id>https://github.com/sebmellen/git-temp</id>
-        <link href="https://github.com/sebmellen/git-temp"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monlite – documents, vectors, cache, and job queue in one SQLite file]]></title>
-        <id>https://github.com/qataruts/monlite</id>
-        <link href="https://github.com/qataruts/monlite"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ketogenic diets slow melanoma growth in vivo]]></title>
-        <id>https://link.springer.com/article/10.1186/s40170-022-00288-7</id>
-        <link href="https://link.springer.com/article/10.1186/s40170-022-00288-7"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Unglamorous Side of Rust Web Development]]></title>
-        <id>https://blog.jetbrains.com/rust/2026/06/25/rust-web-development-2026/</id>
-        <link href="https://blog.jetbrains.com/rust/2026/06/25/rust-web-development-2026/"/>
-        <updated>2026-06-27T16:00:00.000Z</updated>
-        <published>2026-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual AI police chief introduced in Osaka amid rising imposter scams]]></title>
-        <id>https://mainichi.jp/english/articles/20260627/p2g/00m/0na/029000c</id>
-        <link href="https://mainichi.jp/english/articles/20260627/p2g/00m/0na/029000c"/>
         <updated>2026-06-27T16:00:00.000Z</updated>
         <published>2026-06-27T16:00:00.000Z</published>
     </entry>
