@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-28 12:01:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-28 15:03:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -57,14 +57,14 @@ https://tanstack.com/blog/npm-supply-chain-compromise-postmortem
 ) 
 - [2026-06-07-webpack/webpack](https://github.com/webpack/webpack) 
 - [2026-06-08-ACL-2026美团论文精选：从能力评测到推理优化，构建生成新范式](https://tech.meituan.com/2026/06/05/ACL-2026.html) 
-- [2026-06-23-Invite-to-beta-tester-and-investors-for-depgaze.-SW-supply-chain-security-tool](https://www.depgaze.xyz/) 
 - [2026-06-23-Vite-8.1-is-out-with-an-experimental-full-bundle-mode](https://vite.dev/blog/announcing-vite8-1) 
+- [2026-06-23-Invite-to-beta-tester-and-investors-for-depgaze.-SW-supply-chain-security-tool](https://www.depgaze.xyz/) 
 - [2026-06-20-Top-Bank-Regulator-Spoke-at-an-Invite-Only-Client-Dinner-After-Fed-Meeting](https://www.wsj.com/economy/central-banking/top-bank-regulator-spoke-at-an-invite-only-client-dinner-after-fed-meeting-9c7dc4a5) 
 - [2026-06-10-I-Am-Open-Sourcing-Hissab-Calculator-App,-Skills,-CLI-and-NPM](https://github.com/rawbytess/hissab) 
 - [2026-06-08-NPM-Scan:-Detecting-Six-Major-NPM-Supply-Chain-Campaigns-June-2026](https://www.npmjs.com/package/@lateos/npm-scan) 
 - [2026-06-05-NPM-Scan-v1.1.0:-Four-New-Detectors-for-June-2026-Supply-Chain-Attacks](https://github.com/lateos-ai/npm-scan/blob/main/VALIDATION.md) 
 - [2026-06-04-Miasma-NPM-Supply-Chain-Attack:-Self-Spreading-Worm-via-Phantom-Gyp](https://www.stepsecurity.io/blog/binding-gyp-npm-supply-chain-attack-spreads-like-worm) 
-- [2026-06-02-Miasma-supply-chain-attack:-malicious-code-found-in-RedHat-cloud-services-NPM](https://snyk.io/blog/miasma-supply-chain-attack-malicious-code-redhat-cloud-services-npm-packages/) 
 - [2026-06-02-Red-Hat-packages-backdoored-through-its-official-NPM-channel](https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/) 
+- [2026-06-02-Miasma-supply-chain-attack:-malicious-code-found-in-RedHat-cloud-services-NPM](https://snyk.io/blog/miasma-supply-chain-attack-malicious-code-redhat-cloud-services-npm-packages/) 
 - [2026-05-31-Show-HN:-Egress-WAF-to-limit-AI-agents-and-NPM-malware-based-on-mitmproxy](https://github.com/esamattis/mitmwall) 
 - [2026-05-30-NPM-Packages-Attacks](https://news.ycombinator.com/item?id=48333319) 

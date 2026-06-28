@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-28 12:01:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-28 15:03:24。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -252,8 +252,8 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 )
 - [【Hacker News】Flutter-OTA-Code-Push,-Shorebird-Alternative-Open-Source-Flutter-Patcher](https://github.com/xuelinger2333/flutter_patcher)
 - [【Hacker News】Shorebird-in-Anger:-A-Production-Flutter-Code-Push-Integration](https://about.kikoff.com/build/shorebird-in-anger-a-production-flutter-code-push-integration)
-- [【Hacker News】Guitar-Tools-–-PWA-for-Scales,-Circle-of-Fifths-and-More](https://guitar-tools.eejalab.xyz/)
 - [【Hacker News】Canonical-takes-over-Flutter-desktop-maintenance](https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained)
+- [【Hacker News】Guitar-Tools-–-PWA-for-Scales,-Circle-of-Fifths-and-More](https://guitar-tools.eejalab.xyz/)
 - [【TechCrunch】Payments-startup-Flutterwave-hits-$3.2B-valuation,-backed-by-Ripple](https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/)
 - [......【查看更多】......](/details/tags/dev-mobile.md)
 
@@ -657,8 +657,8 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 
 
 - [【Hacker News】Russian-Dandelion-plant-offers-solution-to-global-rubber-shortage](https://www.theguardian.com/science/2026/jun/17/plantwatch-russian-dandelion-solution-global-rubber-shortage)
-- [【Hacker News】"Cursor-for-X":-key-standards-for-vertical-products-offering-agent-workflows](https://alanyahya.com/writing/common-standards-vertical-agent-products)
 - [【Hacker News】HPE-offers-VMware-refugees-a-year-off-the-meter](https://www.theregister.com/virtualization/2026/06/15/hpe-offers-vmware-refugees-a-year-off-the-meter/5255460)
+- [【Hacker News】"Cursor-for-X":-key-standards-for-vertical-products-offering-agent-workflows](https://alanyahya.com/writing/common-standards-vertical-agent-products)
 - [【Hacker News】Former-OpenAI-board-member-says-Elon-Musk-offered-her-sperm-donations](https://www.bbc.co.uk/news/articles/c33243j44p8o)
 - [【Hacker News】Dealership-revoked-offer-to-buy-back-customer's-BMW,-blaming-wayward-AI-chatbot](https://www.cbc.ca/news/business/ai-chatbot-bmw-dealership-9.7230226)
 - [【Hacker News】Korea's-Hanwha-offers-rockets-in-bid-for-Canadian-submarine-deal](https://financialpost.com/transportation/hanwha-offers-rockets-bid-canadian-submarine-deal)
