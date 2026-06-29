@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-29 21:02:12。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-29 23:02:54。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -295,6 +295,7 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 
 
 
+- [【CSS-Tricks】The-Shifting-Line-Between-CSS-States-and-JavaScript-Events](https://css-tricks.com/css-states-and-javascript-events/)
 - [【CSS-Tricks】Using-Scroll-Driven-Animations-for-Opposing-Scroll-Directions](https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/)
 - [【CSS-Tricks】A-First-Look-at-Scroll-Triggered-Animations](https://css-tricks.com/css-scroll-triggered-animations-first-look/)
 - [【CSS-Tricks】What’s-!important-#13:-@function,-alpha,-CSS-Wordle,-and-More](https://css-tricks.com/whats-important-13/)
@@ -314,7 +315,6 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 - [【前端之巅】JavaScript-Higher-Order-Functions](https://dev.to/vidhya_murali_5aabe7784bd/javascript-higher-order-functions-215d)
 - [【前端之巅】My-JavaScript-DOM-Mini-Projects](https://dev.to/ezhil_abinayak_e38eec8fb/my-javascript-dom-mini-projects-1lmg)
 - [【前端之巅】JavaScript-DOM:-The-Backbone-of-Interactive-Web-Applications](https://dev.to/karthick_07/javascript-dom-the-backbone-of-interactive-web-applications-1hfo)
-- [【前端之巅】The-History-of-JavaScript:-From-a-Simple-Scripting-Language-to-a-Web-Development](https://dev.to/adhi_sankar_45ccfb9350749/the-history-of-javascript-from-a-simple-scripting-language-to-a-web-development-giant-23d9)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -651,21 +651,22 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 
 
 
+- [【Hacker News】Brain2Qwerty-Offers-a-New-Path-to-Communication-Without-Surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
 - [【Hacker News】Russian-Dandelion-plant-offers-solution-to-global-rubber-shortage](https://www.theguardian.com/science/2026/jun/17/plantwatch-russian-dandelion-solution-global-rubber-shortage)
-- [【Hacker News】HPE-offers-VMware-refugees-a-year-off-the-meter](https://www.theregister.com/virtualization/2026/06/15/hpe-offers-vmware-refugees-a-year-off-the-meter/5255460)
 - [【Hacker News】"Cursor-for-X":-key-standards-for-vertical-products-offering-agent-workflows](https://alanyahya.com/writing/common-standards-vertical-agent-products)
+- [【Hacker News】HPE-offers-VMware-refugees-a-year-off-the-meter](https://www.theregister.com/virtualization/2026/06/15/hpe-offers-vmware-refugees-a-year-off-the-meter/5255460)
 - [【Hacker News】Former-OpenAI-board-member-says-Elon-Musk-offered-her-sperm-donations](https://www.bbc.co.uk/news/articles/c33243j44p8o)
 - [【Hacker News】Dealership-revoked-offer-to-buy-back-customer's-BMW,-blaming-wayward-AI-chatbot](https://www.cbc.ca/news/business/ai-chatbot-bmw-dealership-9.7230226)
 - [【Hacker News】Korea's-Hanwha-offers-rockets-in-bid-for-Canadian-submarine-deal](https://financialpost.com/transportation/hanwha-offers-rockets-bid-canadian-submarine-deal)
 - [【TechCrunch】a16z-backed-Base-Power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most](https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/)
 - [【TechCrunch】Microsoft-offers-devs-a-better-way-to-control-AI-agent-behavior](https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/)
-- [【Wired】Best-Prime-Day-Vacuum-Deals-Offer-Up-to-42%-Off-2026:-Shark,-Dyson,-Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/)
 - [【Wired】Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-26-2026/)
-- [【Wired】Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/)
+- [【Wired】Best-Prime-Day-Vacuum-Deals-Offer-Up-to-42%-Off-2026:-Shark,-Dyson,-Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/)
 - [【Wired】17-Best-Prime-Day-Apple-Deals-Offering-Up-to-30%-Off:-iPad,-Apple-Watch,-MacBooks,-and-More-2026](https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/)
-- [【Wired】15-Best-Prime-Day-Apple-Deals-Offering-Up-to-30%-Off:-iPad,-Apple-Watch,-MacBooks,-and-More](https://www.wired.com/story/best-prime-day-apple-deals-06-24-2026/)
-- [【Wired】Best-Prime-Day-Vacuum-Deals-Offer-Up-to-42%-Off-2026:-Shark,-Dyson,-Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-24-2026/)
+- [【Wired】Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/)
 - [【Wired】Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-24-2026/)
+- [【Wired】Best-Prime-Day-Vacuum-Deals-Offer-Up-to-42%-Off-2026:-Shark,-Dyson,-Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-24-2026/)
+- [【Wired】15-Best-Prime-Day-Apple-Deals-Offering-Up-to-30%-Off:-iPad,-Apple-Watch,-MacBooks,-and-More](https://www.wired.com/story/best-prime-day-apple-deals-06-24-2026/)
 - [【Wired】Petlibro-Offers:-60%-Off-in-June](https://www.wired.com/story/petlibro-discount-code/)
 - [【Engadget】Prime-Day-is-offering-rare-discounts-on-Philips-Hue-smart-lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale)
 - [【Engadget】The-Mercedes-CLA-offers-great-EV-specs-for-an-average-price](https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs)
@@ -685,15 +686,15 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 
 
 - [【JavaScript Weekly】VoidZero-→-Cloudflare,-and-Angular-22-lands](https://javascriptweekly.com/issues/789)
-- [【CSS-Tricks】translate](https://css-tricks.com/almanac/functions/t/translate/)
-- [【CSS-Tricks】translateX](https://css-tricks.com/almanac/functions/t/translatex/)
-- [【CSS-Tricks】translateY](https://css-tricks.com/almanac/functions/t/translatey/)
 - [【CSS-Tricks】translateZ](https://css-tricks.com/almanac/functions/t/translatez/)
-- [【CSS-Tricks】The-Siren-Song-of-ariaNotify](https://css-tricks.com/the-siren-song-of-arianotify/)
+- [【CSS-Tricks】translateY](https://css-tricks.com/almanac/functions/t/translatey/)
+- [【CSS-Tricks】translateX](https://css-tricks.com/almanac/functions/t/translatex/)
+- [【CSS-Tricks】translate](https://css-tricks.com/almanac/functions/t/translate/)
 - [【CSS-Tricks】Prop-For-That](https://css-tricks.com/prop-for-that/)
+- [【CSS-Tricks】The-Siren-Song-of-ariaNotify](https://css-tricks.com/the-siren-song-of-arianotify/)
 - [【CSS-Tricks】There’s-no-need-to-include-‘navigation’-in-your-navigation-labels](https://css-tricks.com/navigation-in-your-navigation-labels/)
-- [【CSS-Tricks】@function](https://css-tricks.com/almanac/rules/f/function/)
 - [【CSS-Tricks】@custom-media](https://css-tricks.com/almanac/rules/c/custom-media/)
+- [【CSS-Tricks】@function](https://css-tricks.com/almanac/rules/f/function/)
 - [【CSS-Tricks】::search-text](https://css-tricks.com/almanac/pseudo-selectors/s/search-text/)
 - [【Smashing Magazine】Designing-With-Uncertainty:-How-AI-Supercharges-Probabilistic-Thinking](https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/)
 - [【Smashing Magazine】The-Impact-Of-Humanoid-Robots-On-Humanity](https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/)
