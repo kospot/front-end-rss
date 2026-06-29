@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-29T15:02:54.587Z</updated>
+    <updated>2026-06-29T22:00:52.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,37 +15,184 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Tidal won’t pay royalties on AI-generated music but isn’t banning it outright]]></title>
+        <id>https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label</id>
+        <link href="https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lawmakers want to ban AI companies from selling your health data]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs]]></title>
+        <id>https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/</id>
+        <link href="https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role]]></title>
+        <id>https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/</id>
+        <link href="https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waymo and Uber quietly part ways in Phoenix]]></title>
+        <id>https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/</id>
+        <link href="https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor now has a mobile app for guiding your coding agent on the go]]></title>
+        <id>https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</id>
+        <link href="https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent memory is leaving the cute "remember this" demo phase]]></title>
+        <id>https://self.md/signals/2026-06-17-expertise-context-memory</id>
+        <link href="https://self.md/signals/2026-06-17-expertise-context-memory"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switchboard – route AI prompts instead of capping budgets]]></title>
+        <id>https://github.com/aivinay/switchboard</id>
+        <link href="https://github.com/aivinay/switchboard"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things I Believe In]]></title>
+        <id>https://www.guidavid.com/writing/things-i-believe-in</id>
+        <link href="https://www.guidavid.com/writing/things-i-believe-in"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Government defends plan to switch off terrestrial TV]]></title>
+        <id>https://observer.co.uk/news/business/article/government-defends-plan-to-switch-off-terrestrial-tv</id>
+        <link href="https://observer.co.uk/news/business/article/government-defends-plan-to-switch-off-terrestrial-tv"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Zenith: sota harness for normal models to beat Fable on FrontierSWE]]></title>
+        <id>https://ii.inc/blog/post/zenith</id>
+        <link href="https://ii.inc/blog/post/zenith"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imali – an AI-assisted trading platform I built solo over the last 2 years]]></title>
+        <id>https://imali-defi.com/</id>
+        <link href="https://imali-defi.com/"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Says Its GPU-Accelerated Warehouse Is Up to 7x Faster. Here’s How to Read That Benchmark.]]></title>
+        <id>https://pub.towardsai.net/microsoft-says-its-gpu-accelerated-warehouse-is-up-to-7x-faster-heres-how-to-read-that-benchmark-5c7af07865e2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/microsoft-says-its-gpu-accelerated-warehouse-is-up-to-7x-faster-heres-how-to-read-that-benchmark-5c7af07865e2?source=rss----98111c9905da---4"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Guardrails: Your AI Can Lie, Leak, and Be Manipulated. Here Is How to Stop It]]></title>
+        <id>https://pub.towardsai.net/llm-guardrails-your-ai-can-lie-leak-and-be-manipulated-here-is-how-to-stop-it-e67b5bd2f097?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/llm-guardrails-your-ai-can-lie-leak-and-be-manipulated-here-is-how-to-stop-it-e67b5bd2f097?source=rss----98111c9905da---4"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build and Query Knowledge Graphs with LLMs]]></title>
+        <id>https://pub.towardsai.net/build-and-query-knowledge-graphs-with-llms-4f39251df792?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/build-and-query-knowledge-graphs-with-llms-4f39251df792?source=rss----98111c9905da---4"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Count the number of Safari tabs]]></title>
+        <id>https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI agents are not your “coworkers”]]></title>
+        <id>https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/</id>
+        <link href="https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highlights from Git 2.55]]></title>
+        <id>https://github.blog/open-source/git/highlights-from-git-2-55/</id>
+        <link href="https://github.blog/open-source/git/highlights-from-git-2-55/"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Error Handling: How to Rescue Your UI Without Cluttering Your Code]]></title>
+        <id>https://dev.to/rody-huancas/react-error-handling-how-to-rescue-your-ui-without-cluttering-your-code-3ce9</id>
+        <link href="https://dev.to/rody-huancas/react-error-handling-how-to-rescue-your-ui-without-cluttering-your-code-3ce9"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Security Vulnerabilities in Nigerian Web Apps — And How to Fix Them]]></title>
+        <id>https://dev.to/zikarelhub/common-security-vulnerabilities-in-nigerian-web-apps-and-how-to-fix-them-42m8</id>
+        <link href="https://dev.to/zikarelhub/common-security-vulnerabilities-in-nigerian-web-apps-and-how-to-fix-them-42m8"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Local ONNX AI Detector Inside a Chrome MV3 Extension]]></title>
+        <id>https://dev.to/ninjafromqueens/how-i-built-a-local-onnx-ai-detector-inside-a-chrome-mv3-extension-5bgf</id>
+        <link href="https://dev.to/ninjafromqueens/how-i-built-a-local-onnx-ai-detector-inside-a-chrome-mv3-extension-5bgf"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I rebuilt a slow landing page in Astro and took Lighthouse from 44 to 99]]></title>
+        <id>https://dev.to/noguchilin/i-rebuilt-a-slow-landing-page-in-astro-and-took-lighthouse-from-44-to-99-199i</id>
+        <link href="https://dev.to/noguchilin/i-rebuilt-a-slow-landing-page-in-astro-and-took-lighthouse-from-44-to-99-199i"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue.js vs Next.js: Modal Routing — A Side-by-Side Breakdown]]></title>
+        <id>https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1</id>
+        <link href="https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World! My First Dev.to Post]]></title>
+        <id>https://dev.to/soumay_soni/hello-world-my-first-devto-post-19po</id>
+        <link href="https://dev.to/soumay_soni/hello-world-my-first-devto-post-19po"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inline ingredient quantities: the missing feature in most clean recipe readers]]></title>
+        <id>https://dev.to/forrestmiller/inline-ingredient-quantities-the-missing-feature-in-most-clean-recipe-readers-3ack</id>
+        <link href="https://dev.to/forrestmiller/inline-ingredient-quantities-the-missing-feature-in-most-clean-recipe-readers-3ack"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失]]></title>
         <id>https://sspai.com/post/111462</id>
         <link href="https://sspai.com/post/111462"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China claims the world&#8217;s fastest supercomputer]]></title>
-        <id>https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer</id>
-        <link href="https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece]]></title>
-        <id>https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review</id>
-        <link href="https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The war against &#8216;woke&#8217; could end US science as we know it]]></title>
-        <id>https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research</id>
-        <link href="https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comcast is splitting in two]]></title>
-        <id>https://www.theverge.com/tech/958849/comcast-nbcuniversal-company-spinoff-announcement</id>
-        <link href="https://www.theverge.com/tech/958849/comcast-nbcuniversal-company-spinoff-announcement"/>
         <updated>2026-06-28T16:00:00.000Z</updated>
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
@@ -57,23 +204,30 @@
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Busy Bar Is a Gadget to Get People to Leave You Alone]]></title>
-        <id>https://www.wired.com/story/busy-bar-is-a-gadget-to-get-people-to-leave-you-alone/</id>
-        <link href="https://www.wired.com/story/busy-bar-is-a-gadget-to-get-people-to-leave-you-alone/"/>
+        <title type="html"><![CDATA[Comcast is splitting in two]]></title>
+        <id>https://www.theverge.com/tech/958849/comcast-nbcuniversal-company-spinoff-announcement</id>
+        <link href="https://www.theverge.com/tech/958849/comcast-nbcuniversal-company-spinoff-announcement"/>
         <updated>2026-06-28T16:00:00.000Z</updated>
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory]]></title>
-        <id>https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/</id>
-        <link href="https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/"/>
+        <title type="html"><![CDATA[The war against &#8216;woke&#8217; could end US science as we know it]]></title>
+        <id>https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research</id>
+        <link href="https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research"/>
         <updated>2026-06-28T16:00:00.000Z</updated>
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Humanoid Robot Is a Terrifyingly Competent Office Intern]]></title>
-        <id>https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/</id>
-        <link href="https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/"/>
+        <title type="html"><![CDATA[The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece]]></title>
+        <id>https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review</id>
+        <link href="https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China claims the world&#8217;s fastest supercomputer]]></title>
+        <id>https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer</id>
+        <link href="https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer"/>
         <updated>2026-06-28T16:00:00.000Z</updated>
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
@@ -85,9 +239,37 @@
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[California law targeting loud streaming ads takes effect on July 1]]></title>
-        <id>https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/</id>
-        <link href="https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/"/>
+        <title type="html"><![CDATA[This Humanoid Robot Is a Terrifyingly Competent Office Intern]]></title>
+        <id>https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/</id>
+        <link href="https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory]]></title>
+        <id>https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/</id>
+        <link href="https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Busy Bar Is a Gadget to Get People to Leave You Alone]]></title>
+        <id>https://www.wired.com/story/busy-bar-is-a-gadget-to-get-people-to-leave-you-alone/</id>
+        <link href="https://www.wired.com/story/busy-bar-is-a-gadget-to-get-people-to-leave-you-alone/"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robot hand company settles Tesla trade secret suit and announces $11M raise]]></title>
+        <id>https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</id>
+        <link href="https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flipper Device’s new Busy Bar is a customizable display for productivity]]></title>
+        <id>https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/</id>
+        <link href="https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/"/>
         <updated>2026-06-28T16:00:00.000Z</updated>
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
@@ -99,254 +281,44 @@
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nukes for All (But Finland First) [video][3 mins]]]></title>
-        <id>https://www.youtube.com/watch?v=q_7-T4mXxdI</id>
-        <link href="https://www.youtube.com/watch?v=q_7-T4mXxdI"/>
+        <title type="html"><![CDATA[California law targeting loud streaming ads takes effect on July 1]]></title>
+        <id>https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/</id>
+        <link href="https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/"/>
         <updated>2026-06-28T16:00:00.000Z</updated>
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tulsi Gabbard Exposes US Global Biolab Program [video][3 Mins]]]></title>
-        <id>https://www.youtube.com/watch?v=gFc3oqQIJDw</id>
-        <link href="https://www.youtube.com/watch?v=gFc3oqQIJDw"/>
+        <title type="html"><![CDATA[Proview – Spectate any pro LoL player's live game or replay in-client]]></title>
+        <id>https://proview.es</id>
+        <link href="https://proview.es"/>
         <updated>2026-06-28T16:00:00.000Z</updated>
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TreeSheets (Hierarchical Spreadsheet)]]></title>
-        <id>https://strlen.com/treesheets/</id>
-        <link href="https://strlen.com/treesheets/"/>
+        <title type="html"><![CDATA[Show HN: Sonar, local cited codebase briefings tailored to your role]]></title>
+        <id>https://github.com/gautamdhameja/sonar</id>
+        <link href="https://github.com/gautamdhameja/sonar"/>
         <updated>2026-06-28T16:00:00.000Z</updated>
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Extensive Sand Dune Loss Threatens California Coast]]></title>
-        <id>https://eos.org/research-spotlights/extensive-sand-dune-loss-threatens-california-coast</id>
-        <link href="https://eos.org/research-spotlights/extensive-sand-dune-loss-threatens-california-coast"/>
+        <title type="html"><![CDATA[EU introduces €3 customs charge on small parcels to curb cheap Chinese imports]]></title>
+        <id>https://www.theguardian.com/world/2026/jun/29/eu-introduces-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports</id>
+        <link href="https://www.theguardian.com/world/2026/jun/29/eu-introduces-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports"/>
         <updated>2026-06-28T16:00:00.000Z</updated>
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which Indian tech companies are planning IPO?]]></title>
-        <id>https://news.ycombinator.com/item?id=48717061</id>
-        <link href="https://news.ycombinator.com/item?id=48717061"/>
+        <title type="html"><![CDATA[Masked Nocturnal Hypertension and Hidden Organ Risk: A Systematic Review]]></title>
+        <id>https://www.cureus.com/articles/506093-masked-nocturnal-hypertension-and-hidden-organ-risk-a-systematic-review</id>
+        <link href="https://www.cureus.com/articles/506093-masked-nocturnal-hypertension-and-hidden-organ-risk-a-systematic-review"/>
         <updated>2026-06-28T16:00:00.000Z</updated>
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTMLButtonElement: Command Property]]></title>
-        <id>https://developer.mozilla.org/en-US/docs/Web/API/HTMLButtonElement/command</id>
-        <link href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLButtonElement/command"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why can't I type and scroll at the same time?]]></title>
-        <id>https://scrollpods.app/blog/why-cant-i-type-and-scroll-at-the-same-time</id>
-        <link href="https://scrollpods.app/blog/why-cant-i-type-and-scroll-at-the-same-time"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped]]></title>
-        <id>https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/</id>
-        <link href="https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A practical guide to defending your agent memory from attacks]]></title>
-        <id>https://medium.com/@vektormemory/a-practical-guide-to-defending-your-agent-memory-attacks-33b91c382f40</id>
-        <link href="https://medium.com/@vektormemory/a-practical-guide-to-defending-your-agent-memory-attacks-33b91c382f40"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Consultants' Messy Shift from Hourly Billing]]></title>
-        <id>https://www.wsj.com/cfo-journal/inside-consultants-messy-shift-from-hourly-billing-7bd9b802</id>
-        <link href="https://www.wsj.com/cfo-journal/inside-consultants-messy-shift-from-hourly-billing-7bd9b802"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The series of tubes filled with enormous amounts of mail, beneath our feet]]></title>
-        <id>https://buttondown.com/blog/pneumatic-email</id>
-        <link href="https://buttondown.com/blog/pneumatic-email"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sustaining a Shared Reality: How Past Technology Waves Have Impacted Strategy]]></title>
-        <id>https://whitneyzim.medium.com/sustaining-a-shared-reality-how-past-technology-waves-have-impacted-strategy-c5965139341f</id>
-        <link href="https://whitneyzim.medium.com/sustaining-a-shared-reality-how-past-technology-waves-have-impacted-strategy-c5965139341f"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[392-Year-Old Bonsai Tree That Survived the Hiroshima Atomic Blast (2024)]]></title>
-        <id>https://www.openculture.com/2024/05/this-392-year-old-bonsai-tree-survived-the-hiroshima-atomic-blast.html</id>
-        <link href="https://www.openculture.com/2024/05/this-392-year-old-bonsai-tree-survived-the-hiroshima-atomic-blast.html"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Down from Londoners' Are Transforming England's Seaside Towns]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-06-26/londoners-escape-to-england-s-seaside-raises-housing-costs-political-tensions</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-06-26/londoners-escape-to-england-s-seaside-raises-housing-costs-political-tensions"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Built Osmium for Scale]]></title>
-        <id>https://osmium.chat/blog/how-we-built-osmium-for-scale/</id>
-        <link href="https://osmium.chat/blog/how-we-built-osmium-for-scale/"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remember SCANTRON? How did that work? [video]]]></title>
-        <id>https://www.youtube.com/watch?v=x2RvPFvR-CI</id>
-        <link href="https://www.youtube.com/watch?v=x2RvPFvR-CI"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking the Tokenizer Barrier: On-Policy Distillation Across Model Families]]></title>
-        <id>https://arxiv.org/abs/2606.09456</id>
-        <link href="https://arxiv.org/abs/2606.09456"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Open Letter to Pete Buttigieg]]></title>
-        <id>https://richprocida.substack.com/p/an-open-letter-to-pete-buttigieg</id>
-        <link href="https://richprocida.substack.com/p/an-open-letter-to-pete-buttigieg"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphQL MCP Server and GraphiQL Plugins]]></title>
-        <id>https://graphql-mcp.com/</id>
-        <link href="https://graphql-mcp.com/"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Germans are researching their Nazi past as the far right urges them to move on]]></title>
-        <id>https://www.cnn.com/2026/06/28/europe/germans-nazi-past-far-right-intl</id>
-        <link href="https://www.cnn.com/2026/06/28/europe/germans-nazi-past-far-right-intl"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Richest Country Is Pretty Mid Now [video]]]></title>
-        <id>https://www.youtube.com/watch?v=4FZy1lBNykA</id>
-        <link href="https://www.youtube.com/watch?v=4FZy1lBNykA"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stanford's Hoover Inst: "The Wealth Tax: Recipe for Economic Disaster"Lionaire [video]]]></title>
-        <id>https://www.youtube.com/watch?v=x6k4W5Qzg8U</id>
-        <link href="https://www.youtube.com/watch?v=x6k4W5Qzg8U"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mux – A tmux overlay for managing Claude Code sessions]]></title>
-        <id>https://github.com/fashton28/mux</id>
-        <link href="https://github.com/fashton28/mux"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Grim and the Dark: Jon Heder's journey into the world of Grimdark art [video]]]></title>
-        <id>https://www.youtube.com/watch?v=SBJefwNkLqo</id>
-        <link href="https://www.youtube.com/watch?v=SBJefwNkLqo"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Company Cleaning Up the Reflecting Pool Says It Has 'Nothing to Hide']]></title>
-        <id>https://www.wsj.com/us-news/lincoln-memorial-reflecting-pool-california-greenwater-services-729be960</id>
-        <link href="https://www.wsj.com/us-news/lincoln-memorial-reflecting-pool-california-greenwater-services-729be960"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI]]></title>
-        <id>https://decrypt.co/371877/ai-agent-nuclear-strike-civilization-vi-benchmark</id>
-        <link href="https://decrypt.co/371877/ai-agent-nuclear-strike-civilization-vi-benchmark"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft worker emails employees about company's support of Israel]]></title>
-        <id>https://www.thecanary.co/global/world-analysis/2026/06/26/microsoft-worker-emails/</id>
-        <link href="https://www.thecanary.co/global/world-analysis/2026/06/26/microsoft-worker-emails/"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You get to watch 1 season of 1 show for the rest of your life, what do you pick?]]></title>
-        <id>https://www.reddit.com/r/AskReddit/s/Sf9sqnAqRr</id>
-        <link href="https://www.reddit.com/r/AskReddit/s/Sf9sqnAqRr"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reacting to Two French Entrepreneurs Who Built a $100K SaaS]]></title>
-        <id>https://thenewassociationwebmasters.blogspot.com/2026/06/from-20000-to-100000month-raw.html</id>
-        <link href="https://thenewassociationwebmasters.blogspot.com/2026/06/from-20000-to-100000month-raw.html"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You might not need a service worker]]></title>
-        <id>https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/</id>
-        <link href="https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: XSDR – Real-time event monitoring infrastructure for agents]]></title>
-        <id>https://xsdr.app</id>
-        <link href="https://xsdr.app"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM]]></title>
-        <id>https://www.phantafield.com/whitepaper</id>
-        <link href="https://www.phantafield.com/whitepaper"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: SaaS landing page template (React/Vue/HTML, Tailwind), free and MIT]]></title>
-        <id>https://github.com/hannah-wright/saas-landing-page-template</id>
-        <link href="https://github.com/hannah-wright/saas-landing-page-template"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google: An 8-minute step-by-step guide to building the smallest Agent loop]]></title>
-        <id>https://twitter.com/Easycompany333/status/2071204465168769451</id>
-        <link href="https://twitter.com/Easycompany333/status/2071204465168769451"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPJ undertakes review of documentation of journalists killed in Israel-Gaza war]]></title>
-        <id>https://cpj.org/2026/06/cpj-undertakes-review-of-its-documentation-of-journalists-killed-in-israel-gaza-war-since-2023/</id>
-        <link href="https://cpj.org/2026/06/cpj-undertakes-review-of-its-documentation-of-journalists-killed-in-israel-gaza-war-since-2023/"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europe's record heat has overwhelmed Paris mortuaries; left families in distress]]></title>
-        <id>https://apnews.com/article/france-europe-heat-wave-weather-climate-change-a9095af72d14cfdd9ca43637490083e9</id>
-        <link href="https://apnews.com/article/france-europe-heat-wave-weather-climate-change-a9095af72d14cfdd9ca43637490083e9"/>
+        <title type="html"><![CDATA[SVG Recolor Tool – Change Color of SVG Online – Free Color Tool]]></title>
+        <id>https://news.ycombinator.com/item?id=48715654</id>
+        <link href="https://news.ycombinator.com/item?id=48715654"/>
         <updated>2026-06-28T16:00:00.000Z</updated>
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
@@ -358,9 +330,37 @@
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SVG Recolor Tool – Change Color of SVG Online – Free Color Tool]]></title>
-        <id>https://news.ycombinator.com/item?id=48715654</id>
-        <link href="https://news.ycombinator.com/item?id=48715654"/>
+        <title type="html"><![CDATA[Europe's record heat has overwhelmed Paris mortuaries; left families in distress]]></title>
+        <id>https://apnews.com/article/france-europe-heat-wave-weather-climate-change-a9095af72d14cfdd9ca43637490083e9</id>
+        <link href="https://apnews.com/article/france-europe-heat-wave-weather-climate-change-a9095af72d14cfdd9ca43637490083e9"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPJ undertakes review of documentation of journalists killed in Israel-Gaza war]]></title>
+        <id>https://cpj.org/2026/06/cpj-undertakes-review-of-its-documentation-of-journalists-killed-in-israel-gaza-war-since-2023/</id>
+        <link href="https://cpj.org/2026/06/cpj-undertakes-review-of-its-documentation-of-journalists-killed-in-israel-gaza-war-since-2023/"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google: An 8-minute step-by-step guide to building the smallest Agent loop]]></title>
+        <id>https://twitter.com/Easycompany333/status/2071204465168769451</id>
+        <link href="https://twitter.com/Easycompany333/status/2071204465168769451"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: SaaS landing page template (React/Vue/HTML, Tailwind), free and MIT]]></title>
+        <id>https://github.com/hannah-wright/saas-landing-page-template</id>
+        <link href="https://github.com/hannah-wright/saas-landing-page-template"/>
+        <updated>2026-06-28T16:00:00.000Z</updated>
+        <published>2026-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM]]></title>
+        <id>https://www.phantafield.com/whitepaper</id>
+        <link href="https://www.phantafield.com/whitepaper"/>
         <updated>2026-06-28T16:00:00.000Z</updated>
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
