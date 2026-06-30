@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-30T00:02:23.521Z</updated>
+    <updated>2026-06-30T02:01:20.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -57,37 +57,37 @@
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent memory is leaving the cute "remember this" demo phase]]></title>
-        <id>https://self.md/signals/2026-06-17-expertise-context-memory</id>
-        <link href="https://self.md/signals/2026-06-17-expertise-context-memory"/>
+        <title type="html"><![CDATA[Show HN: TinyAgents – a Rust based recursive LLM harness]]></title>
+        <id>https://github.com/tinyhumansai/tinyagents</id>
+        <link href="https://github.com/tinyhumansai/tinyagents"/>
         <updated>2026-06-29T16:00:00.000Z</updated>
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Switchboard – route AI prompts instead of capping budgets]]></title>
-        <id>https://github.com/aivinay/switchboard</id>
-        <link href="https://github.com/aivinay/switchboard"/>
+        <title type="html"><![CDATA[Gitfolio.dev – Showcase your best work buried in private repos]]></title>
+        <id>https://gitfolio.dev</id>
+        <link href="https://gitfolio.dev"/>
         <updated>2026-06-29T16:00:00.000Z</updated>
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Things I Believe In]]></title>
-        <id>https://www.guidavid.com/writing/things-i-believe-in</id>
-        <link href="https://www.guidavid.com/writing/things-i-believe-in"/>
+        <title type="html"><![CDATA[FriendNet – self-hostable, open source file sharing for friends]]></title>
+        <id>https://friendnet.org/</id>
+        <link href="https://friendnet.org/"/>
         <updated>2026-06-29T16:00:00.000Z</updated>
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK Government defends plan to switch off terrestrial TV]]></title>
-        <id>https://observer.co.uk/news/business/article/government-defends-plan-to-switch-off-terrestrial-tv</id>
-        <link href="https://observer.co.uk/news/business/article/government-defends-plan-to-switch-off-terrestrial-tv"/>
+        <title type="html"><![CDATA[Comcast plans to spin off NBCUniversal in strategy reversal]]></title>
+        <id>https://www.msn.com/en-us/money/companies/comcast-plans-to-spin-off-nbcuniversal-in-strategy-reversal/ar-AA26NA2O</id>
+        <link href="https://www.msn.com/en-us/money/companies/comcast-plans-to-spin-off-nbcuniversal-in-strategy-reversal/ar-AA26NA2O"/>
         <updated>2026-06-29T16:00:00.000Z</updated>
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Zenith: sota harness for normal models to beat Fable on FrontierSWE]]></title>
-        <id>https://ii.inc/blog/post/zenith</id>
-        <link href="https://ii.inc/blog/post/zenith"/>
+        <title type="html"><![CDATA[Show HN: Let an AI manage your homelab over MCP without giving it SSH]]></title>
+        <id>https://homebutler.dev/</id>
+        <link href="https://homebutler.dev/"/>
         <updated>2026-06-29T16:00:00.000Z</updated>
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
@@ -99,9 +99,44 @@
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build and Query Knowledge Graphs with LLMs]]></title>
-        <id>https://pub.towardsai.net/build-and-query-knowledge-graphs-with-llms-4f39251df792?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/build-and-query-knowledge-graphs-with-llms-4f39251df792?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Zenith: sota harness for normal models to beat Fable on FrontierSWE]]></title>
+        <id>https://ii.inc/blog/post/zenith</id>
+        <link href="https://ii.inc/blog/post/zenith"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Government defends plan to switch off terrestrial TV]]></title>
+        <id>https://observer.co.uk/news/business/article/government-defends-plan-to-switch-off-terrestrial-tv</id>
+        <link href="https://observer.co.uk/news/business/article/government-defends-plan-to-switch-off-terrestrial-tv"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things I Believe In]]></title>
+        <id>https://www.guidavid.com/writing/things-i-believe-in</id>
+        <link href="https://www.guidavid.com/writing/things-i-believe-in"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switchboard – route AI prompts instead of capping budgets]]></title>
+        <id>https://github.com/aivinay/switchboard</id>
+        <link href="https://github.com/aivinay/switchboard"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent memory is leaving the cute "remember this" demo phase]]></title>
+        <id>https://self.md/signals/2026-06-17-expertise-context-memory</id>
+        <link href="https://self.md/signals/2026-06-17-expertise-context-memory"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Says Its GPU-Accelerated Warehouse Is Up to 7x Faster. Here’s How to Read That Benchmark.]]></title>
+        <id>https://pub.towardsai.net/microsoft-says-its-gpu-accelerated-warehouse-is-up-to-7x-faster-heres-how-to-read-that-benchmark-5c7af07865e2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/microsoft-says-its-gpu-accelerated-warehouse-is-up-to-7x-faster-heres-how-to-read-that-benchmark-5c7af07865e2?source=rss----98111c9905da---4"/>
         <updated>2026-06-29T16:00:00.000Z</updated>
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
@@ -113,9 +148,16 @@
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Says Its GPU-Accelerated Warehouse Is Up to 7x Faster. Here’s How to Read That Benchmark.]]></title>
-        <id>https://pub.towardsai.net/microsoft-says-its-gpu-accelerated-warehouse-is-up-to-7x-faster-heres-how-to-read-that-benchmark-5c7af07865e2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/microsoft-says-its-gpu-accelerated-warehouse-is-up-to-7x-faster-heres-how-to-read-that-benchmark-5c7af07865e2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Build and Query Knowledge Graphs with LLMs]]></title>
+        <id>https://pub.towardsai.net/build-and-query-knowledge-graphs-with-llms-4f39251df792?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/build-and-query-knowledge-graphs-with-llms-4f39251df792?source=rss----98111c9905da---4"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML table extractor]]></title>
+        <id>https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything"/>
         <updated>2026-06-29T16:00:00.000Z</updated>
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
@@ -154,58 +196,37 @@ https://www.heatjs.com/
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Stock Dashboard from Three Keyless Public Data Feeds]]></title>
-        <id>https://dev.to/scrapemint/build-a-stock-dashboard-from-three-keyless-public-data-feeds-lc6</id>
-        <link href="https://dev.to/scrapemint/build-a-stock-dashboard-from-three-keyless-public-data-feeds-lc6"/>
+        <title type="html"><![CDATA[🟠 Level 3 Tutorial — Limn Engine Advanced Guide]]></title>
+        <id>https://dev.to/kehinde_owolabi_e2e54567a/level-3-tutorial-limn-engine-advanced-guide-1mp8</id>
+        <link href="https://dev.to/kehinde_owolabi_e2e54567a/level-3-tutorial-limn-engine-advanced-guide-1mp8"/>
         <updated>2026-06-29T16:00:00.000Z</updated>
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用 p5.js 五十分鐘做出一個粉塵互動藝術——不用 Arduino、不用焊接，只要瀏覽器]]></title>
-        <id>https://dev.to/_0c004e5fde78250aee362/yong-p5js-wu-shi-fen-zhong-zuo-chu-ge-fen-chen-hu-dong-yi-shu-bu-yong-arduino-bu-yong-han-jie-zhi-yao-liu-lan-qi-1fff</id>
-        <link href="https://dev.to/_0c004e5fde78250aee362/yong-p5js-wu-shi-fen-zhong-zuo-chu-ge-fen-chen-hu-dong-yi-shu-bu-yong-arduino-bu-yong-han-jie-zhi-yao-liu-lan-qi-1fff"/>
+        <title type="html"><![CDATA[Docker Cheatsheet with interactive command builder — 40+ commands, Compose snippets]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/docker-cheatsheet-with-interactive-command-builder-40-commands-compose-snippets-327l</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/docker-cheatsheet-with-interactive-command-builder-40-commands-compose-snippets-327l"/>
         <updated>2026-06-29T16:00:00.000Z</updated>
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[你的網頁會呼吸了：30 行 p5.js 做出會跟著滑鼠跑的粒子]]></title>
-        <id>https://dev.to/_0c004e5fde78250aee362/ni-de-wang-ye-hui-hu-xi-liao-30-xing-p5js-zuo-chu-hui-gen-zhu-hua-shu-pao-de-li-zi-11mo</id>
-        <link href="https://dev.to/_0c004e5fde78250aee362/ni-de-wang-ye-hui-hu-xi-liao-30-xing-p5js-zuo-chu-hui-gen-zhu-hua-shu-pao-de-li-zi-11mo"/>
+        <title type="html"><![CDATA[HTTP Status Code Reference — searchable, with use cases and RFC specs]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/http-status-code-reference-searchable-with-use-cases-and-rfc-specs-33i7</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/http-status-code-reference-searchable-with-use-cases-and-rfc-specs-33i7"/>
         <updated>2026-06-29T16:00:00.000Z</updated>
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inline ingredient quantities: the missing feature in most clean recipe readers]]></title>
-        <id>https://dev.to/forrestmiller/inline-ingredient-quantities-the-missing-feature-in-most-clean-recipe-readers-3ack</id>
-        <link href="https://dev.to/forrestmiller/inline-ingredient-quantities-the-missing-feature-in-most-clean-recipe-readers-3ack"/>
+        <title type="html"><![CDATA[I built a browser-based .env File Manager (parse, edit, export to JSON/shell)]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-based-env-file-manager-parse-edit-export-to-jsonshell-3a29</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-based-env-file-manager-parse-edit-export-to-jsonshell-3a29"/>
         <updated>2026-06-29T16:00:00.000Z</updated>
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello World! My First Dev.to Post]]></title>
-        <id>https://dev.to/soumay_soni/hello-world-my-first-devto-post-19po</id>
-        <link href="https://dev.to/soumay_soni/hello-world-my-first-devto-post-19po"/>
-        <updated>2026-06-29T16:00:00.000Z</updated>
-        <published>2026-06-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue.js vs Next.js: Modal Routing — A Side-by-Side Breakdown]]></title>
-        <id>https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1</id>
-        <link href="https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1"/>
-        <updated>2026-06-29T16:00:00.000Z</updated>
-        <published>2026-06-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I rebuilt a slow landing page in Astro and took Lighthouse from 44 to 99]]></title>
-        <id>https://dev.to/noguchilin/i-rebuilt-a-slow-landing-page-in-astro-and-took-lighthouse-from-44-to-99-199i</id>
-        <link href="https://dev.to/noguchilin/i-rebuilt-a-slow-landing-page-in-astro-and-took-lighthouse-from-44-to-99-199i"/>
-        <updated>2026-06-29T16:00:00.000Z</updated>
-        <published>2026-06-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Local ONNX AI Detector Inside a Chrome MV3 Extension]]></title>
-        <id>https://dev.to/ninjafromqueens/how-i-built-a-local-onnx-ai-detector-inside-a-chrome-mv3-extension-5bgf</id>
-        <link href="https://dev.to/ninjafromqueens/how-i-built-a-local-onnx-ai-detector-inside-a-chrome-mv3-extension-5bgf"/>
+        <title type="html"><![CDATA[React Error Handling: How to Rescue Your UI Without Cluttering Your Code]]></title>
+        <id>https://dev.to/rody-huancas/react-error-handling-how-to-rescue-your-ui-without-cluttering-your-code-3ce9</id>
+        <link href="https://dev.to/rody-huancas/react-error-handling-how-to-rescue-your-ui-without-cluttering-your-code-3ce9"/>
         <updated>2026-06-29T16:00:00.000Z</updated>
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
@@ -217,9 +238,58 @@ https://www.heatjs.com/
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React Error Handling: How to Rescue Your UI Without Cluttering Your Code]]></title>
-        <id>https://dev.to/rody-huancas/react-error-handling-how-to-rescue-your-ui-without-cluttering-your-code-3ce9</id>
-        <link href="https://dev.to/rody-huancas/react-error-handling-how-to-rescue-your-ui-without-cluttering-your-code-3ce9"/>
+        <title type="html"><![CDATA[How I Built a Local ONNX AI Detector Inside a Chrome MV3 Extension]]></title>
+        <id>https://dev.to/ninjafromqueens/how-i-built-a-local-onnx-ai-detector-inside-a-chrome-mv3-extension-5bgf</id>
+        <link href="https://dev.to/ninjafromqueens/how-i-built-a-local-onnx-ai-detector-inside-a-chrome-mv3-extension-5bgf"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I rebuilt a slow landing page in Astro and took Lighthouse from 44 to 99]]></title>
+        <id>https://dev.to/noguchilin/i-rebuilt-a-slow-landing-page-in-astro-and-took-lighthouse-from-44-to-99-199i</id>
+        <link href="https://dev.to/noguchilin/i-rebuilt-a-slow-landing-page-in-astro-and-took-lighthouse-from-44-to-99-199i"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue.js vs Next.js: Modal Routing — A Side-by-Side Breakdown]]></title>
+        <id>https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1</id>
+        <link href="https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World! My First Dev.to Post]]></title>
+        <id>https://dev.to/soumay_soni/hello-world-my-first-devto-post-19po</id>
+        <link href="https://dev.to/soumay_soni/hello-world-my-first-devto-post-19po"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inline ingredient quantities: the missing feature in most clean recipe readers]]></title>
+        <id>https://dev.to/forrestmiller/inline-ingredient-quantities-the-missing-feature-in-most-clean-recipe-readers-3ack</id>
+        <link href="https://dev.to/forrestmiller/inline-ingredient-quantities-the-missing-feature-in-most-clean-recipe-readers-3ack"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的網頁會呼吸了：30 行 p5.js 做出會跟著滑鼠跑的粒子]]></title>
+        <id>https://dev.to/_0c004e5fde78250aee362/ni-de-wang-ye-hui-hu-xi-liao-30-xing-p5js-zuo-chu-hui-gen-zhu-hua-shu-pao-de-li-zi-11mo</id>
+        <link href="https://dev.to/_0c004e5fde78250aee362/ni-de-wang-ye-hui-hu-xi-liao-30-xing-p5js-zuo-chu-hui-gen-zhu-hua-shu-pao-de-li-zi-11mo"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 p5.js 五十分鐘做出一個粉塵互動藝術——不用 Arduino、不用焊接，只要瀏覽器]]></title>
+        <id>https://dev.to/_0c004e5fde78250aee362/yong-p5js-wu-shi-fen-zhong-zuo-chu-ge-fen-chen-hu-dong-yi-shu-bu-yong-arduino-bu-yong-han-jie-zhi-yao-liu-lan-qi-1fff</id>
+        <link href="https://dev.to/_0c004e5fde78250aee362/yong-p5js-wu-shi-fen-zhong-zuo-chu-ge-fen-chen-hu-dong-yi-shu-bu-yong-arduino-bu-yong-han-jie-zhi-yao-liu-lan-qi-1fff"/>
+        <updated>2026-06-29T16:00:00.000Z</updated>
+        <published>2026-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Stock Dashboard from Three Keyless Public Data Feeds]]></title>
+        <id>https://dev.to/scrapemint/build-a-stock-dashboard-from-three-keyless-public-data-feeds-lc6</id>
+        <link href="https://dev.to/scrapemint/build-a-stock-dashboard-from-three-keyless-public-data-feeds-lc6"/>
         <updated>2026-06-29T16:00:00.000Z</updated>
         <published>2026-06-29T16:00:00.000Z</published>
     </entry>
@@ -297,76 +367,6 @@ https://www.heatjs.com/
         <title type="html"><![CDATA[Robot hand company settles Tesla trade secret suit and announces $11M raise]]></title>
         <id>https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</id>
         <link href="https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flipper Device’s new Busy Bar is a customizable display for productivity]]></title>
-        <id>https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/</id>
-        <link href="https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience]]></title>
-        <id>https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/</id>
-        <link href="https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California law targeting loud streaming ads takes effect on July 1]]></title>
-        <id>https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/</id>
-        <link href="https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proview – Spectate any pro LoL player's live game or replay in-client]]></title>
-        <id>https://proview.es</id>
-        <link href="https://proview.es"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Sonar, local cited codebase briefings tailored to your role]]></title>
-        <id>https://github.com/gautamdhameja/sonar</id>
-        <link href="https://github.com/gautamdhameja/sonar"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU introduces €3 customs charge on small parcels to curb cheap Chinese imports]]></title>
-        <id>https://www.theguardian.com/world/2026/jun/29/eu-introduces-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports</id>
-        <link href="https://www.theguardian.com/world/2026/jun/29/eu-introduces-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Masked Nocturnal Hypertension and Hidden Organ Risk: A Systematic Review]]></title>
-        <id>https://www.cureus.com/articles/506093-masked-nocturnal-hypertension-and-hidden-organ-risk-a-systematic-review</id>
-        <link href="https://www.cureus.com/articles/506093-masked-nocturnal-hypertension-and-hidden-organ-risk-a-systematic-review"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG Recolor Tool – Change Color of SVG Online – Free Color Tool]]></title>
-        <id>https://news.ycombinator.com/item?id=48715654</id>
-        <link href="https://news.ycombinator.com/item?id=48715654"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F-Droid and the Future of Open-Source Android; an Interview with DocWolle]]></title>
-        <id>https://gardinerbryant.com/f-droid-and-the-future-of-open-source/</id>
-        <link href="https://gardinerbryant.com/f-droid-and-the-future-of-open-source/"/>
-        <updated>2026-06-28T16:00:00.000Z</updated>
-        <published>2026-06-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europe's record heat has overwhelmed Paris mortuaries; left families in distress]]></title>
-        <id>https://apnews.com/article/france-europe-heat-wave-weather-climate-change-a9095af72d14cfdd9ca43637490083e9</id>
-        <link href="https://apnews.com/article/france-europe-heat-wave-weather-climate-change-a9095af72d14cfdd9ca43637490083e9"/>
         <updated>2026-06-28T16:00:00.000Z</updated>
         <published>2026-06-28T16:00:00.000Z</published>
     </entry>
