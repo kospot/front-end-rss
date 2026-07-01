@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-01 18:01:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-01 21:03:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -18,13 +18,13 @@
 - [2026-07-01-Wayve-launches-$85M-employee-tender-offer-at-$8.5B-valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/) 
 - [2026-06-26-a16z-backed-Base-Power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most](https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/) 
 - [2026-06-03-Microsoft-offers-devs-a-better-way-to-control-AI-agent-behavior](https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/) 
-- [2026-06-26-Best-Prime-Day-Vacuum-Deals-Offer-Up-to-42%-Off-2026:-Shark,-Dyson,-Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/) 
 - [2026-06-26-Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-26-2026/) 
-- [2026-06-25-Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/) 
+- [2026-06-26-Best-Prime-Day-Vacuum-Deals-Offer-Up-to-42%-Off-2026:-Shark,-Dyson,-Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/) 
 - [2026-06-25-17-Best-Prime-Day-Apple-Deals-Offering-Up-to-30%-Off:-iPad,-Apple-Watch,-MacBooks,-and-More-2026](https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/) 
-- [2026-06-24-15-Best-Prime-Day-Apple-Deals-Offering-Up-to-30%-Off:-iPad,-Apple-Watch,-MacBooks,-and-More](https://www.wired.com/story/best-prime-day-apple-deals-06-24-2026/) 
-- [2026-06-24-Best-Prime-Day-Vacuum-Deals-Offer-Up-to-42%-Off-2026:-Shark,-Dyson,-Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-24-2026/) 
+- [2026-06-25-Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/) 
 - [2026-06-24-Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-24-2026/) 
+- [2026-06-24-Best-Prime-Day-Vacuum-Deals-Offer-Up-to-42%-Off-2026:-Shark,-Dyson,-Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-24-2026/) 
+- [2026-06-24-15-Best-Prime-Day-Apple-Deals-Offering-Up-to-30%-Off:-iPad,-Apple-Watch,-MacBooks,-and-More](https://www.wired.com/story/best-prime-day-apple-deals-06-24-2026/) 
 - [2026-06-16-Petlibro-Offers:-60%-Off-in-June](https://www.wired.com/story/petlibro-discount-code/) 
 - [2026-06-26-Prime-Day-is-offering-rare-discounts-on-Philips-Hue-smart-lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale) 
 - [2026-06-23-把面试变成一场「开卷推理」：我的全流程备战与复盘-SOP](https://sspai.com/post/110947) 
