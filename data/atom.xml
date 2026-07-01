@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-01T00:01:19.763Z</updated>
+    <updated>2026-07-01T02:01:51.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[派早报：Google 推出 Eclipsa Video 视频标准等]]></title>
+        <id>https://sspai.com/post/111773</id>
+        <link href="https://sspai.com/post/111773"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses]]></title>
+        <id>https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit</id>
+        <link href="https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rockstar workers push to unionize ahead of GTA VI’s launch]]></title>
         <id>https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi</id>
@@ -71,100 +85,37 @@
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The U.S. Added 1,200 New Millionaires a Day Last Year]]></title>
-        <id>https://www.wsj.com/finance/the-u-s-added-1-200-new-millionaires-a-day-last-year-d238830f</id>
-        <link href="https://www.wsj.com/finance/the-u-s-added-1-200-new-millionaires-a-day-last-year-d238830f"/>
+        <title type="html"><![CDATA[SETI Institute Jobs]]></title>
+        <id>https://www.seti.org/career-center/</id>
+        <link href="https://www.seti.org/career-center/"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic Mythos & Fable 5 export restrictions lifted]]></title>
-        <id>https://www.reddit.com/r/ClaudeAI/s/GOQWdGc7Pu</id>
-        <link href="https://www.reddit.com/r/ClaudeAI/s/GOQWdGc7Pu"/>
+        <title type="html"><![CDATA[Americans see their country's past, present and future]]></title>
+        <id>https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future</id>
+        <link href="https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GTA 6 is shaping up to be a disaster for retailers]]></title>
-        <id>https://www.polygon.com/gta-6-digital-preorder-gamestop-sales-console-supply-rockstar-games/</id>
-        <link href="https://www.polygon.com/gta-6-digital-preorder-gamestop-sales-console-supply-rockstar-games/"/>
+        <title type="html"><![CDATA[Forestiere Underground Gardens]]></title>
+        <id>https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens</id>
+        <link href="https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google copybara: moving code between repositories]]></title>
-        <id>https://github.com/google/copybara</id>
-        <link href="https://github.com/google/copybara"/>
+        <title type="html"><![CDATA[1975 GE Fake LED Clock [video]]]></title>
+        <id>https://www.youtube.com/shorts/ylfVSMsTUqY</id>
+        <link href="https://www.youtube.com/shorts/ylfVSMsTUqY"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Free Online GIS Viewer and Format Converter]]></title>
-        <id>https://geodataviewer.com/</id>
-        <link href="https://geodataviewer.com/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Men are funnier than women, study claims (2019)]]></title>
-        <id>https://www.bbc.com/news/newsbeat-50221046</id>
-        <link href="https://www.bbc.com/news/newsbeat-50221046"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Turning Sentry errors into AI generated GitHub PRs with fixes]]></title>
-        <id>https://bugzero.dev</id>
-        <link href="https://bugzero.dev"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Tech's 13 Most Interesting Patents This Week]]></title>
-        <id>https://patentlyze.substack.com/p/needle-free-blood-monitoring-a-mirror</id>
-        <link href="https://patentlyze.substack.com/p/needle-free-blood-monitoring-a-mirror"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fear and Loathing in Python: Building a Distributed Context System for Wool]]></title>
-        <id>https://gist.github.com/conradbzura/885a542ff0ccd548aa16fd05525a7a71</id>
-        <link href="https://gist.github.com/conradbzura/885a542ff0ccd548aa16fd05525a7a71"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Stretches Server DRAM with Flash Extended Memory]]></title>
-        <id>https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848</id>
-        <link href="https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addsong: Paste a link, song appears in Apple Music with full metadata and art]]></title>
-        <id>https://github.com/ado11231/addsong</id>
-        <link href="https://github.com/ado11231/addsong"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing Claude Code into Neovim]]></title>
-        <id>https://inacioklassmann.com/posts/claude-chat-nvim/</id>
-        <link href="https://inacioklassmann.com/posts/claude-chat-nvim/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grok translated my coworker's tweet as sexualized]]></title>
-        <id>https://news.ycombinator.com/item?id=48739661</id>
-        <link href="https://news.ycombinator.com/item?id=48739661"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Veritrace – B2B leads with a source URL on every row, no guessed emails]]></title>
-        <id>https://veritrace.cloud/</id>
-        <link href="https://veritrace.cloud/"/>
+        <title type="html"><![CDATA[Anthropic launches Claude Science: an AI workbench for scientists (2026)]]></title>
+        <id>https://lucasaguiar.xyz/pt/posts/claude-science-ai-workbench-cientistas-2026/</id>
+        <link href="https://lucasaguiar.xyz/pt/posts/claude-science-ai-workbench-cientistas-2026/"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
@@ -176,30 +127,107 @@
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LoRA & QLoRA Mastery: The Beginner-to-Advanced Guide to Efficient LLM Fine-Tuning]]></title>
-        <id>https://pub.towardsai.net/lora-qlora-mastery-the-beginner-to-advanced-guide-to-efficient-llm-fine-tuning-d554b0db1066?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/lora-qlora-mastery-the-beginner-to-advanced-guide-to-efficient-llm-fine-tuning-d554b0db1066?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Veritrace – B2B leads with a source URL on every row, no guessed emails]]></title>
+        <id>https://veritrace.cloud/</id>
+        <link href="https://veritrace.cloud/"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Probability Calibration: Turning Raw Model Scores Into Confidence You Can Actually Trust]]></title>
-        <id>https://pub.towardsai.net/probability-calibration-turning-raw-model-scores-into-confidence-you-can-actually-trust-3a558e267552?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/probability-calibration-turning-raw-model-scores-into-confidence-you-can-actually-trust-3a558e267552?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Grok translated my coworker's tweet as sexualized]]></title>
+        <id>https://news.ycombinator.com/item?id=48739661</id>
+        <link href="https://news.ycombinator.com/item?id=48739661"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Edge Computing on the Verge of Mass Adoption: What’s Next for the Industry?]]></title>
-        <id>https://pub.towardsai.net/edge-computing-on-the-verge-of-mass-adoption-whats-next-for-the-industry-e414eb7f5cb2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/edge-computing-on-the-verge-of-mass-adoption-whats-next-for-the-industry-e414eb7f5cb2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Bringing Claude Code into Neovim]]></title>
+        <id>https://inacioklassmann.com/posts/claude-chat-nvim/</id>
+        <link href="https://inacioklassmann.com/posts/claude-chat-nvim/"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Deep Does Your AI Transformation Actually Go?]]></title>
-        <id>https://pub.towardsai.net/how-deep-does-your-ai-transformation-actually-go-49511153b12f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-deep-does-your-ai-transformation-actually-go-49511153b12f?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Addsong: Paste a link, song appears in Apple Music with full metadata and art]]></title>
+        <id>https://github.com/ado11231/addsong</id>
+        <link href="https://github.com/ado11231/addsong"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Stretches Server DRAM with Flash Extended Memory]]></title>
+        <id>https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848</id>
+        <link href="https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fear and Loathing in Python: Building a Distributed Context System for Wool]]></title>
+        <id>https://gist.github.com/conradbzura/885a542ff0ccd548aa16fd05525a7a71</id>
+        <link href="https://gist.github.com/conradbzura/885a542ff0ccd548aa16fd05525a7a71"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Tech's 13 Most Interesting Patents This Week]]></title>
+        <id>https://patentlyze.substack.com/p/needle-free-blood-monitoring-a-mirror</id>
+        <link href="https://patentlyze.substack.com/p/needle-free-blood-monitoring-a-mirror"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Turning Sentry errors into AI generated GitHub PRs with fixes]]></title>
+        <id>https://bugzero.dev</id>
+        <link href="https://bugzero.dev"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Men are funnier than women, study claims (2019)]]></title>
+        <id>https://www.bbc.com/news/newsbeat-50221046</id>
+        <link href="https://www.bbc.com/news/newsbeat-50221046"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Free Online GIS Viewer and Format Converter]]></title>
+        <id>https://geodataviewer.com/</id>
+        <link href="https://geodataviewer.com/"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google copybara: moving code between repositories]]></title>
+        <id>https://github.com/google/copybara</id>
+        <link href="https://github.com/google/copybara"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA 6 is shaping up to be a disaster for retailers]]></title>
+        <id>https://www.polygon.com/gta-6-digital-preorder-gamestop-sales-console-supply-rockstar-games/</id>
+        <link href="https://www.polygon.com/gta-6-digital-preorder-gamestop-sales-console-supply-rockstar-games/"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Mythos & Fable 5 export restrictions lifted]]></title>
+        <id>https://www.reddit.com/r/ClaudeAI/s/GOQWdGc7Pu</id>
+        <link href="https://www.reddit.com/r/ClaudeAI/s/GOQWdGc7Pu"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The U.S. Added 1,200 New Millionaires a Day Last Year]]></title>
+        <id>https://www.wsj.com/finance/the-u-s-added-1-200-new-millionaires-a-day-last-year-d238830f</id>
+        <link href="https://www.wsj.com/finance/the-u-s-added-1-200-new-millionaires-a-day-last-year-d238830f"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Same Architecture Quietly Powers Claude Code, Manus, OpenAI Deep Research — And LangChain Just…]]></title>
+        <id>https://pub.towardsai.net/the-same-architecture-quietly-powers-claude-code-manus-openai-deep-research-and-langchain-just-3640760b5d5a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-same-architecture-quietly-powers-claude-code-manus-openai-deep-research-and-langchain-just-3640760b5d5a?source=rss----98111c9905da---4"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
@@ -211,9 +239,30 @@
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Same Architecture Quietly Powers Claude Code, Manus, OpenAI Deep Research — And LangChain Just…]]></title>
-        <id>https://pub.towardsai.net/the-same-architecture-quietly-powers-claude-code-manus-openai-deep-research-and-langchain-just-3640760b5d5a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-same-architecture-quietly-powers-claude-code-manus-openai-deep-research-and-langchain-just-3640760b5d5a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How Deep Does Your AI Transformation Actually Go?]]></title>
+        <id>https://pub.towardsai.net/how-deep-does-your-ai-transformation-actually-go-49511153b12f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-deep-does-your-ai-transformation-actually-go-49511153b12f?source=rss----98111c9905da---4"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edge Computing on the Verge of Mass Adoption: What’s Next for the Industry?]]></title>
+        <id>https://pub.towardsai.net/edge-computing-on-the-verge-of-mass-adoption-whats-next-for-the-industry-e414eb7f5cb2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/edge-computing-on-the-verge-of-mass-adoption-whats-next-for-the-industry-e414eb7f5cb2?source=rss----98111c9905da---4"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probability Calibration: Turning Raw Model Scores Into Confidence You Can Actually Trust]]></title>
+        <id>https://pub.towardsai.net/probability-calibration-turning-raw-model-scores-into-confidence-you-can-actually-trust-3a558e267552?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/probability-calibration-turning-raw-model-scores-into-confidence-you-can-actually-trust-3a558e267552?source=rss----98111c9905da---4"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LoRA & QLoRA Mastery: The Beginner-to-Advanced Guide to Efficient LLM Fine-Tuning]]></title>
+        <id>https://pub.towardsai.net/lora-qlora-mastery-the-beginner-to-advanced-guide-to-efficient-llm-fine-tuning-d554b0db1066?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/lora-qlora-mastery-the-beginner-to-advanced-guide-to-efficient-llm-fine-tuning-d554b0db1066?source=rss----98111c9905da---4"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
@@ -246,79 +295,23 @@
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scrape Google News for Any Topic With Keyless RSS]]></title>
-        <id>https://dev.to/scrapemint/scrape-google-news-for-any-topic-with-keyless-rss-mp1</id>
-        <link href="https://dev.to/scrapemint/scrape-google-news-for-any-topic-with-keyless-rss-mp1"/>
+        <title type="html"><![CDATA[I built a Code Snippet Formatter — syntax highlight code and export as PNG]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-code-snippet-formatter-syntax-highlight-code-and-export-as-png-4bfd</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-code-snippet-formatter-syntax-highlight-code-and-export-as-png-4bfd"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FOV in FPS Games: The Math Behind Field of View Settings]]></title>
-        <id>https://dev.to/alexcarter_dev/fov-in-fps-games-the-math-behind-field-of-view-settings-82h</id>
-        <link href="https://dev.to/alexcarter_dev/fov-in-fps-games-the-math-behind-field-of-view-settings-82h"/>
+        <title type="html"><![CDATA[I built a CSS Specificity Calculator with per-token breakdown and selector comparison]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-css-specificity-calculator-with-per-token-breakdown-and-selector-comparison-2jfd</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-css-specificity-calculator-with-per-token-breakdown-and-selector-comparison-2jfd"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AnimaStage Lite v1.2.3: Google Play Release, Better Multi-Model Performance & Physics Stability]]></title>
-        <id>https://dev.to/fbnoname/animastage-lite-v123-google-play-release-better-multi-model-performance-physics-stability-2dd</id>
-        <link href="https://dev.to/fbnoname/animastage-lite-v123-google-play-release-better-multi-model-performance-physics-stability-2dd"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built 42 lightweight, client-side, privacy-focused web tools. Here is the catalog.]]></title>
-        <id>https://dev.to/kandz/i-built-42-lightweight-client-side-privacy-focused-web-tools-here-is-the-catalog-28gl</id>
-        <link href="https://dev.to/kandz/i-built-42-lightweight-client-side-privacy-focused-web-tools-here-is-the-catalog-28gl"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MongoDB find() Query Examples for Beginners - Filter, Sort, Limit]]></title>
-        <id>https://dev.to/visualeaf/mongodb-find-query-examples-for-beginners-filter-sort-limit-4a54</id>
-        <link href="https://dev.to/visualeaf/mongodb-find-query-examples-for-beginners-filter-sort-limit-4a54"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My roommate partied all night in Rio. I ended up building local-first JS on the stairs.]]></title>
-        <id>https://dev.to/structuralb/my-roommate-partied-all-night-in-rio-i-ended-up-building-local-first-js-on-the-stairs-3lm8</id>
-        <link href="https://dev.to/structuralb/my-roommate-partied-all-night-in-rio-i-ended-up-building-local-first-js-on-the-stairs-3lm8"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Next.js Errors (and How I Solved Them)]]></title>
-        <id>https://dev.to/gary_killen37/common-nextjs-errors-and-how-i-solved-them-193o</id>
-        <link href="https://dev.to/gary_killen37/common-nextjs-errors-and-how-i-solved-them-193o"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n8n Webhook Node: Response Modes, Custom Headers, and Auth (Free Workflow JSON)]]></title>
-        <id>https://dev.to/pirateprentice/n8n-webhook-node-response-modes-custom-headers-and-auth-free-workflow-json-40dm</id>
-        <link href="https://dev.to/pirateprentice/n8n-webhook-node-response-modes-custom-headers-and-auth-free-workflow-json-40dm"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n8n Switch Node: Route Workflow Data to Multiple Branches (Free Workflow JSON)]]></title>
-        <id>https://dev.to/pirateprentice/n8n-switch-node-route-workflow-data-to-multiple-branches-free-workflow-json-3beb</id>
-        <link href="https://dev.to/pirateprentice/n8n-switch-node-route-workflow-data-to-multiple-branches-free-workflow-json-3beb"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your video plays without sound in VS Code — here's how I fixed it]]></title>
-        <id>https://dev.to/brodazz/your-video-plays-without-sound-in-vs-code-heres-how-i-fixed-it-2efk</id>
-        <link href="https://dev.to/brodazz/your-video-plays-without-sound-in-vs-code-heres-how-i-fixed-it-2efk"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a React App from Scratch Using Webpack and Babel]]></title>
-        <id>https://dev.to/selva_2026/building-a-react-app-from-scratch-using-webpack-and-babel-4a1n</id>
-        <link href="https://dev.to/selva_2026/building-a-react-app-from-scratch-using-webpack-and-babel-4a1n"/>
+        <title type="html"><![CDATA[I built a visual Cron Expression Builder that explains schedules in plain English]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-visual-cron-expression-builder-that-explains-schedules-in-plain-english-4hnh</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-visual-cron-expression-builder-that-explains-schedules-in-plain-english-4hnh"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
@@ -330,38 +323,45 @@
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 18 Pro ‘drop test’ leaks get yanked from X]]></title>
-        <id>https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled</id>
-        <link href="https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled"/>
-        <updated>2026-06-29T16:00:00.000Z</updated>
-        <published>2026-06-29T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Building a React App from Scratch Using Webpack and Babel]]></title>
+        <id>https://dev.to/selva_2026/building-a-react-app-from-scratch-using-webpack-and-babel-4a1n</id>
+        <link href="https://dev.to/selva_2026/building-a-react-app-from-scratch-using-webpack-and-babel-4a1n"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This could be our best look yet at Samsung’s new wide foldable]]></title>
-        <id>https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks</id>
-        <link href="https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks"/>
-        <updated>2026-06-29T16:00:00.000Z</updated>
-        <published>2026-06-29T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Your video plays without sound in VS Code — here's how I fixed it]]></title>
+        <id>https://dev.to/brodazz/your-video-plays-without-sound-in-vs-code-heres-how-i-fixed-it-2efk</id>
+        <link href="https://dev.to/brodazz/your-video-plays-without-sound-in-vs-code-heres-how-i-fixed-it-2efk"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lawmakers want to ban AI companies from selling your health data]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon"/>
-        <updated>2026-06-29T16:00:00.000Z</updated>
-        <published>2026-06-29T16:00:00.000Z</published>
+        <title type="html"><![CDATA[n8n Switch Node: Route Workflow Data to Multiple Branches (Free Workflow JSON)]]></title>
+        <id>https://dev.to/pirateprentice/n8n-switch-node-route-workflow-data-to-multiple-branches-free-workflow-json-3beb</id>
+        <link href="https://dev.to/pirateprentice/n8n-switch-node-route-workflow-data-to-multiple-branches-free-workflow-json-3beb"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tidal won’t pay royalties on AI-generated music but isn’t banning it outright]]></title>
-        <id>https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label</id>
-        <link href="https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label"/>
-        <updated>2026-06-29T16:00:00.000Z</updated>
-        <published>2026-06-29T16:00:00.000Z</published>
+        <title type="html"><![CDATA[n8n Webhook Node: Response Modes, Custom Headers, and Auth (Free Workflow JSON)]]></title>
+        <id>https://dev.to/pirateprentice/n8n-webhook-node-response-modes-custom-headers-and-auth-free-workflow-json-40dm</id>
+        <link href="https://dev.to/pirateprentice/n8n-webhook-node-response-modes-custom-headers-and-auth-free-workflow-json-40dm"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This motor could be the future of e-bikes]]></title>
-        <id>https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt</id>
-        <link href="https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt"/>
-        <updated>2026-06-29T16:00:00.000Z</updated>
-        <published>2026-06-29T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Common Next.js Errors (and How I Solved Them)]]></title>
+        <id>https://dev.to/gary_killen37/common-nextjs-errors-and-how-i-solved-them-193o</id>
+        <link href="https://dev.to/gary_killen37/common-nextjs-errors-and-how-i-solved-them-193o"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My roommate partied all night in Rio. I ended up building local-first JS on the stairs.]]></title>
+        <id>https://dev.to/structuralb/my-roommate-partied-all-night-in-rio-i-ended-up-building-local-first-js-on-the-stairs-3lm8</id>
+        <link href="https://dev.to/structuralb/my-roommate-partied-all-night-in-rio-i-ended-up-building-local-first-js-on-the-stairs-3lm8"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
     </entry>
 </feed>
