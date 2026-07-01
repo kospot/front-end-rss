@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-01 12:01:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-01 15:03:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -167,9 +167,10 @@ https://reactuse.com/
 - [2026-06-23-CLAUDE.md-Can’t-Enforce-Anything.-Here’s-the-Hook-I-Use-Instead.](https://pub.towardsai.net/claude-md-cant-enforce-anything-here-s-the-hook-i-use-instead-424be05a68f0?source=rss----98111c9905da---4) 
 - [2026-06-14-Building-a-Gemini-Live-voice-app-with-React,-FastAPI-and-your-own-WebSocket-protocol](https://pub.towardsai.net/building-a-gemini-live-voice-app-with-react-fastapi-and-your-own-websocket-protocol-9752bed95182?source=rss----98111c9905da---4) 
 - [2026-06-17-A-near-autonomous-AI-chemist-improves-a-challenging-reaction-in-medicinal-chemistry](https://openai.com/index/ai-chemist-improves-reaction) 
+- [2026-07-01-Realta-Fusion-generates-electricity-directly-from-a-fusion-reaction](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/) 
 - [2026-06-30-Antares-Achieves-Criticality-of-Mark-0-Reactor](https://antaresindustries.com/updates/antares-achieves-criticality) 
-- [2026-06-29-Reacting-to-Two-French-Entrepreneurs-Who-Built-a-$100K-SaaS](https://thenewassociationwebmasters.blogspot.com/2026/06/from-20000-to-100000month-raw.html) 
 - [2026-06-29-Show-HN:-SaaS-landing-page-template-React/Vue/HTML,-Tailwind,-free-and-MIT](https://github.com/hannah-wright/saas-landing-page-template) 
+- [2026-06-29-Reacting-to-Two-French-Entrepreneurs-Who-Built-a-$100K-SaaS](https://thenewassociationwebmasters.blogspot.com/2026/06/from-20000-to-100000month-raw.html) 
 - [2026-06-28-Phones-alerted-millions-before-quakes-shook-Venezuela](https://www.nytimes.com/interactive/2026/06/27/world/americas/venezuela-earthquakes-android-alerts.html) 
 - [2026-06-25-Show-HN:-Glitchwatch-–-CI-failure-inbox-for-indie-devs-one-GitHub-webhook](https://fleet-manager-roan.vercel.app) 
 - [2026-06-24-AI-stock-slump-raises-the-question-are-investors-taking-profits-or-very-nervous](https://apnews.com/article/tech-stocks-ai-investments-8a0ff4c95d5cae6f65c6e2ba03047058) 
@@ -181,12 +182,12 @@ https://reactuse.com/
 - [2026-06-10-Port-React-Compiler-to-Rust](https://github.com/react/react/pull/36173) 
 - [2026-06-09-Show-HN:-Webhix-–-Self-hosted-webhook.site-alternative-in-a-single-Go-binary](https://github.com/GaIsBax/Webhix) 
 - [2026-06-08-React-Native,-Hermes-bytecode,-and-the-Kindle-homepage](https://sighery.com/posts/patching-kindle-homepage/) 
-- [2026-06-06-'Teachers-Are-Going-to-Hate-It':-How-Social-Media-Apps-Hooked-Teens-at-School](https://www.nytimes.com/2026/06/04/us/social-media-schools.html) 
 - [2026-06-06-Port-React-Compiler-to-Rust](https://github.com/facebook/react/pull/36173) 
+- [2026-06-06-'Teachers-Are-Going-to-Hate-It':-How-Social-Media-Apps-Hooked-Teens-at-School](https://www.nytimes.com/2026/06/04/us/social-media-schools.html) 
 - [2026-06-04-ReactOS-Joins-VCF-Southwest-for-the-First-Time](https://reactos.org/blogs/vcfsw-2026/) 
 - [2026-06-03-A-Rust-runtime-for-React-that-hits-97k-req/s-by-keeping-V8-idle](https://rari.build/blog/building-rari-with-rari) 
-- [2026-06-02-Neovim-Hooks-for-AI-Agents](https://github.com/NishantJoshi00/sidekick) 
 - [2026-06-02-AI-costs-how-much?-GitHub-Copilot-users-react-to-new-usage-based-pricing-system](https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/) 
+- [2026-06-02-Neovim-Hooks-for-AI-Agents](https://github.com/NishantJoshi00/sidekick) 
 - [2026-07-01-Realta-Fusion-generates-electricity-directly-from-a-fusion-reaction,-an-apparent-first](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/) 
 - [2026-06-10-Avalanche’s-desktop-fusion-reactor-delivers-blistering-hot-plasma](https://techcrunch.com/2026/06/10/avalanches-desktop-fusion-reactor-delivers-blistering-hot-plasma/) 
 - [2026-06-02-X-caters-to-creators-with-new-‘React-with-Video’-feature](https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/) 
