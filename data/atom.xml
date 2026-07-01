@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-01T07:03:56.391Z</updated>
+    <updated>2026-07-01T10:01:35.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,9 @@
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses]]></title>
-        <id>https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit</id>
-        <link href="https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit"/>
+        <title type="html"><![CDATA[Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart]]></title>
+        <id>https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination</id>
+        <link href="https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
@@ -32,6 +32,27 @@
         <title type="html"><![CDATA[Rockstar workers push to unionize ahead of GTA VI’s launch]]></title>
         <id>https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi</id>
         <link href="https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses]]></title>
+        <id>https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit</id>
+        <link href="https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guided Tour of Donald Trump’s Renovated Washington, DC]]></title>
+        <id>https://www.wired.com/story/a-guided-tour-of-donald-trumps-renovated-washington-dc/</id>
+        <link href="https://www.wired.com/story/a-guided-tour-of-donald-trumps-renovated-washington-dc/"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust]]></title>
+        <id>https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/</id>
+        <link href="https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
@@ -92,219 +113,51 @@
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terminal Apps Need a DOM]]></title>
-        <id>https://www.c1.ai/engineering/agent-tui-structured-terminal-access-for-ai-agents</id>
-        <link href="https://www.c1.ai/engineering/agent-tui-structured-terminal-access-for-ai-agents"/>
+        <title type="html"><![CDATA[I built a native iOS video player for local media and SMB/Plex]]></title>
+        <id>https://apps.apple.com/us/app/lux-video-player-hd-media/id6762520464</id>
+        <link href="https://apps.apple.com/us/app/lux-video-player-hd-media/id6762520464"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What if social media optimized for less time online?]]></title>
-        <id>https://tuhat.net/u/sbr/p/kilta</id>
-        <link href="https://tuhat.net/u/sbr/p/kilta"/>
+        <title type="html"><![CDATA[AI Engineering Roadmap]]></title>
+        <id>https://aiengineeringfromscratch.com/prereqs.html</id>
+        <link href="https://aiengineeringfromscratch.com/prereqs.html"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ragit – chat with any folder of documents using a local LLM]]></title>
-        <id>https://github.com/ats4321/ragit</id>
-        <link href="https://github.com/ats4321/ragit"/>
+        <title type="html"><![CDATA[Using a local iPhone MCP server to plan Apple Watch workouts with Codex]]></title>
+        <id>https://bernhardhering.de/blog/ask-my-health-codex-workout-plan/</id>
+        <link href="https://bernhardhering.de/blog/ask-my-health-codex-workout-plan/"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clone This Repo and I Own Your Machine]]></title>
-        <id>https://0din.ai/blog/clone-this-repo-and-i-own-your-machine</id>
-        <link href="https://0din.ai/blog/clone-this-repo-and-i-own-your-machine"/>
+        <title type="html"><![CDATA[GLM-5.2's Code Reviews Are Only as Good as Your Prompt]]></title>
+        <id>https://blog.kilo.ai/p/glm-52s-code-reviews-are-only-as</id>
+        <link href="https://blog.kilo.ai/p/glm-52s-code-reviews-are-only-as"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Zealand paid Michelin $6.3M to make a guide for the country]]></title>
-        <id>https://www.stuff.co.nz/politics/361000572/our-food-migtnt-be-worth-special-journey-minister-says-63m-michelin-spend-worth-it</id>
-        <link href="https://www.stuff.co.nz/politics/361000572/our-food-migtnt-be-worth-special-journey-minister-says-63m-michelin-spend-worth-it"/>
+        <title type="html"><![CDATA[How can we make Twitter friendlier]]></title>
+        <id>https://news.ycombinator.com/item?id=48744285</id>
+        <link href="https://news.ycombinator.com/item?id=48744285"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where do you answer"is the agent allowed to do this?"–one place,orevery adapter?]]></title>
-        <id>https://github.com/YogiSotho/warden</id>
-        <link href="https://github.com/YogiSotho/warden"/>
+        <title type="html"><![CDATA[Show HN: Petabyte-scale storage for AI agent sandboxes]]></title>
+        <id>https://twitter.com/aniketmaurya/status/2072249879573754225</id>
+        <link href="https://twitter.com/aniketmaurya/status/2072249879573754225"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Realta Fusion generates electricity directly from a fusion reaction]]></title>
-        <id>https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/</id>
-        <link href="https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SETI Institute Jobs]]></title>
-        <id>https://www.seti.org/career-center/</id>
-        <link href="https://www.seti.org/career-center/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Americans see their country's past, present and future]]></title>
-        <id>https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future</id>
-        <link href="https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forestiere Underground Gardens]]></title>
-        <id>https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens</id>
-        <link href="https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1975 GE Fake LED Clock [video]]]></title>
-        <id>https://www.youtube.com/shorts/ylfVSMsTUqY</id>
-        <link href="https://www.youtube.com/shorts/ylfVSMsTUqY"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic launches Claude Science: an AI workbench for scientists (2026)]]></title>
-        <id>https://lucasaguiar.xyz/pt/posts/claude-science-ai-workbench-cientistas-2026/</id>
-        <link href="https://lucasaguiar.xyz/pt/posts/claude-science-ai-workbench-cientistas-2026/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite Trace: extracting SQLite queries made by any arbitrary binary]]></title>
-        <id>https://github.com/Query-Doctor/sqlite-trace</id>
-        <link href="https://github.com/Query-Doctor/sqlite-trace"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Veritrace – B2B leads with a source URL on every row, no guessed emails]]></title>
-        <id>https://veritrace.cloud/</id>
-        <link href="https://veritrace.cloud/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grok translated my coworker's tweet as sexualized]]></title>
-        <id>https://news.ycombinator.com/item?id=48739661</id>
-        <link href="https://news.ycombinator.com/item?id=48739661"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing Claude Code into Neovim]]></title>
-        <id>https://inacioklassmann.com/posts/claude-chat-nvim/</id>
-        <link href="https://inacioklassmann.com/posts/claude-chat-nvim/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addsong: Paste a link, song appears in Apple Music with full metadata and art]]></title>
-        <id>https://github.com/ado11231/addsong</id>
-        <link href="https://github.com/ado11231/addsong"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Stretches Server DRAM with Flash Extended Memory]]></title>
-        <id>https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848</id>
-        <link href="https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fear and Loathing in Python: Building a Distributed Context System for Wool]]></title>
-        <id>https://gist.github.com/conradbzura/885a542ff0ccd548aa16fd05525a7a71</id>
-        <link href="https://gist.github.com/conradbzura/885a542ff0ccd548aa16fd05525a7a71"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Tech's 13 Most Interesting Patents This Week]]></title>
-        <id>https://patentlyze.substack.com/p/needle-free-blood-monitoring-a-mirror</id>
-        <link href="https://patentlyze.substack.com/p/needle-free-blood-monitoring-a-mirror"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Turning Sentry errors into AI generated GitHub PRs with fixes]]></title>
-        <id>https://bugzero.dev</id>
-        <link href="https://bugzero.dev"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Men are funnier than women, study claims (2019)]]></title>
-        <id>https://www.bbc.com/news/newsbeat-50221046</id>
-        <link href="https://www.bbc.com/news/newsbeat-50221046"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Free Online GIS Viewer and Format Converter]]></title>
-        <id>https://geodataviewer.com/</id>
-        <link href="https://geodataviewer.com/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google copybara: moving code between repositories]]></title>
-        <id>https://github.com/google/copybara</id>
-        <link href="https://github.com/google/copybara"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTA 6 is shaping up to be a disaster for retailers]]></title>
-        <id>https://www.polygon.com/gta-6-digital-preorder-gamestop-sales-console-supply-rockstar-games/</id>
-        <link href="https://www.polygon.com/gta-6-digital-preorder-gamestop-sales-console-supply-rockstar-games/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Mythos & Fable 5 export restrictions lifted]]></title>
-        <id>https://www.reddit.com/r/ClaudeAI/s/GOQWdGc7Pu</id>
-        <link href="https://www.reddit.com/r/ClaudeAI/s/GOQWdGc7Pu"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The U.S. Added 1,200 New Millionaires a Day Last Year]]></title>
-        <id>https://www.wsj.com/finance/the-u-s-added-1-200-new-millionaires-a-day-last-year-d238830f</id>
-        <link href="https://www.wsj.com/finance/the-u-s-added-1-200-new-millionaires-a-day-last-year-d238830f"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three HPC Gurus Ask: Do We Still Need GPUs?]]></title>
-        <id>https://www.nextplatform.com/compute/2026/06/30/three-hpc-gurus-ask-do-we-still-need-gpus/5264552</id>
-        <link href="https://www.nextplatform.com/compute/2026/06/30/three-hpc-gurus-ask-do-we-still-need-gpus/5264552"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mojo Roadmap]]></title>
-        <id>https://mojolang.org/docs/roadmap/</id>
-        <link href="https://mojolang.org/docs/roadmap/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Internet Is Being Erased [video]]]></title>
-        <id>https://www.youtube.com/watch?v=-hAn2qDok_g</id>
-        <link href="https://www.youtube.com/watch?v=-hAn2qDok_g"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Combined LDL-C, Lp(a) and HsCRP Assessment Identifies Long-Term Risk of Ascvd]]></title>
-        <id>https://www.acc.org/latest-in-cardiology/journal-scans/2026/06/23/13/25/combined-ldl-c-lpa-and-hscrp-assessment</id>
-        <link href="https://www.acc.org/latest-in-cardiology/journal-scans/2026/06/23/13/25/combined-ldl-c-lpa-and-hscrp-assessment"/>
+        <title type="html"><![CDATA[Vast Majority support clampdown on social media to protect children]]></title>
+        <id>https://www.ippr.org/media-office/vast-majority-support-clampdown-on-social-media-to-protect-children-ippr-finds</id>
+        <link href="https://www.ippr.org/media-office/vast-majority-support-clampdown-on-social-media-to-protect-children-ippr-finds"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
@@ -316,51 +169,198 @@
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Same Architecture Quietly Powers Claude Code, Manus, OpenAI Deep Research — And LangChain Just…]]></title>
-        <id>https://pub.towardsai.net/the-same-architecture-quietly-powers-claude-code-manus-openai-deep-research-and-langchain-just-3640760b5d5a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-same-architecture-quietly-powers-claude-code-manus-openai-deep-research-and-langchain-just-3640760b5d5a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Combined LDL-C, Lp(a) and HsCRP Assessment Identifies Long-Term Risk of Ascvd]]></title>
+        <id>https://www.acc.org/latest-in-cardiology/journal-scans/2026/06/23/13/25/combined-ldl-c-lpa-and-hscrp-assessment</id>
+        <link href="https://www.acc.org/latest-in-cardiology/journal-scans/2026/06/23/13/25/combined-ldl-c-lpa-and-hscrp-assessment"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Neural Networks Learn Better: Understanding Activation Functions, Xavier Initialization, He…]]></title>
-        <id>https://pub.towardsai.net/making-neural-networks-learn-better-understanding-activation-functions-xavier-initialization-he-466ef253bb5e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/making-neural-networks-learn-better-understanding-activation-functions-xavier-initialization-he-466ef253bb5e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Internet Is Being Erased [video]]]></title>
+        <id>https://www.youtube.com/watch?v=-hAn2qDok_g</id>
+        <link href="https://www.youtube.com/watch?v=-hAn2qDok_g"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Deep Does Your AI Transformation Actually Go?]]></title>
-        <id>https://pub.towardsai.net/how-deep-does-your-ai-transformation-actually-go-49511153b12f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-deep-does-your-ai-transformation-actually-go-49511153b12f?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Mojo Roadmap]]></title>
+        <id>https://mojolang.org/docs/roadmap/</id>
+        <link href="https://mojolang.org/docs/roadmap/"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Edge Computing on the Verge of Mass Adoption: What’s Next for the Industry?]]></title>
-        <id>https://pub.towardsai.net/edge-computing-on-the-verge-of-mass-adoption-whats-next-for-the-industry-e414eb7f5cb2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/edge-computing-on-the-verge-of-mass-adoption-whats-next-for-the-industry-e414eb7f5cb2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Three HPC Gurus Ask: Do We Still Need GPUs?]]></title>
+        <id>https://www.nextplatform.com/compute/2026/06/30/three-hpc-gurus-ask-do-we-still-need-gpus/5264552</id>
+        <link href="https://www.nextplatform.com/compute/2026/06/30/three-hpc-gurus-ask-do-we-still-need-gpus/5264552"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Probability Calibration: Turning Raw Model Scores Into Confidence You Can Actually Trust]]></title>
-        <id>https://pub.towardsai.net/probability-calibration-turning-raw-model-scores-into-confidence-you-can-actually-trust-3a558e267552?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/probability-calibration-turning-raw-model-scores-into-confidence-you-can-actually-trust-3a558e267552?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The U.S. Added 1,200 New Millionaires a Day Last Year]]></title>
+        <id>https://www.wsj.com/finance/the-u-s-added-1-200-new-millionaires-a-day-last-year-d238830f</id>
+        <link href="https://www.wsj.com/finance/the-u-s-added-1-200-new-millionaires-a-day-last-year-d238830f"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LoRA & QLoRA Mastery: The Beginner-to-Advanced Guide to Efficient LLM Fine-Tuning]]></title>
-        <id>https://pub.towardsai.net/lora-qlora-mastery-the-beginner-to-advanced-guide-to-efficient-llm-fine-tuning-d554b0db1066?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/lora-qlora-mastery-the-beginner-to-advanced-guide-to-efficient-llm-fine-tuning-d554b0db1066?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Anthropic Mythos & Fable 5 export restrictions lifted]]></title>
+        <id>https://www.reddit.com/r/ClaudeAI/s/GOQWdGc7Pu</id>
+        <link href="https://www.reddit.com/r/ClaudeAI/s/GOQWdGc7Pu"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Have your agent record video demos of its work with shot-scraper video]]></title>
-        <id>https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything"/>
+        <title type="html"><![CDATA[GTA 6 is shaping up to be a disaster for retailers]]></title>
+        <id>https://www.polygon.com/gta-6-digital-preorder-gamestop-sales-console-supply-rockstar-games/</id>
+        <link href="https://www.polygon.com/gta-6-digital-preorder-gamestop-sales-console-supply-rockstar-games/"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google copybara: moving code between repositories]]></title>
+        <id>https://github.com/google/copybara</id>
+        <link href="https://github.com/google/copybara"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Free Online GIS Viewer and Format Converter]]></title>
+        <id>https://geodataviewer.com/</id>
+        <link href="https://geodataviewer.com/"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Men are funnier than women, study claims (2019)]]></title>
+        <id>https://www.bbc.com/news/newsbeat-50221046</id>
+        <link href="https://www.bbc.com/news/newsbeat-50221046"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Turning Sentry errors into AI generated GitHub PRs with fixes]]></title>
+        <id>https://bugzero.dev</id>
+        <link href="https://bugzero.dev"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Tech's 13 Most Interesting Patents This Week]]></title>
+        <id>https://patentlyze.substack.com/p/needle-free-blood-monitoring-a-mirror</id>
+        <link href="https://patentlyze.substack.com/p/needle-free-blood-monitoring-a-mirror"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fear and Loathing in Python: Building a Distributed Context System for Wool]]></title>
+        <id>https://gist.github.com/conradbzura/885a542ff0ccd548aa16fd05525a7a71</id>
+        <link href="https://gist.github.com/conradbzura/885a542ff0ccd548aa16fd05525a7a71"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Stretches Server DRAM with Flash Extended Memory]]></title>
+        <id>https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848</id>
+        <link href="https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Addsong: Paste a link, song appears in Apple Music with full metadata and art]]></title>
+        <id>https://github.com/ado11231/addsong</id>
+        <link href="https://github.com/ado11231/addsong"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bringing Claude Code into Neovim]]></title>
+        <id>https://inacioklassmann.com/posts/claude-chat-nvim/</id>
+        <link href="https://inacioklassmann.com/posts/claude-chat-nvim/"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok translated my coworker's tweet as sexualized]]></title>
+        <id>https://news.ycombinator.com/item?id=48739661</id>
+        <link href="https://news.ycombinator.com/item?id=48739661"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Veritrace – B2B leads with a source URL on every row, no guessed emails]]></title>
+        <id>https://veritrace.cloud/</id>
+        <link href="https://veritrace.cloud/"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite Trace: extracting SQLite queries made by any arbitrary binary]]></title>
+        <id>https://github.com/Query-Doctor/sqlite-trace</id>
+        <link href="https://github.com/Query-Doctor/sqlite-trace"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic launches Claude Science: an AI workbench for scientists (2026)]]></title>
+        <id>https://lucasaguiar.xyz/pt/posts/claude-science-ai-workbench-cientistas-2026/</id>
+        <link href="https://lucasaguiar.xyz/pt/posts/claude-science-ai-workbench-cientistas-2026/"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1975 GE Fake LED Clock [video]]]></title>
+        <id>https://www.youtube.com/shorts/ylfVSMsTUqY</id>
+        <link href="https://www.youtube.com/shorts/ylfVSMsTUqY"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forestiere Underground Gardens]]></title>
+        <id>https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens</id>
+        <link href="https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Americans see their country's past, present and future]]></title>
+        <id>https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future</id>
+        <link href="https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SETI Institute Jobs]]></title>
+        <id>https://www.seti.org/career-center/</id>
+        <link href="https://www.seti.org/career-center/"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Realta Fusion generates electricity directly from a fusion reaction]]></title>
+        <id>https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/</id>
+        <link href="https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where do you answer"is the agent allowed to do this?"–one place,orevery adapter?]]></title>
+        <id>https://github.com/YogiSotho/warden</id>
+        <link href="https://github.com/YogiSotho/warden"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Zealand paid Michelin $6.3M to make a guide for the country]]></title>
+        <id>https://www.stuff.co.nz/politics/361000572/our-food-migtnt-be-worth-special-journey-minister-says-63m-michelin-spend-worth-it</id>
+        <link href="https://www.stuff.co.nz/politics/361000572/our-food-migtnt-be-worth-special-journey-minister-says-63m-michelin-spend-worth-it"/>
+        <updated>2026-06-30T16:00:00.000Z</updated>
+        <published>2026-06-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clone This Repo and I Own Your Machine]]></title>
+        <id>https://0din.ai/blog/clone-this-repo-and-i-own-your-machine</id>
+        <link href="https://0din.ai/blog/clone-this-repo-and-i-own-your-machine"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
