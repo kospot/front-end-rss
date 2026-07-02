@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-02T10:01:49.790Z</updated>
+    <updated>2026-07-02T13:02:42.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,23 +22,9 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures]]></title>
-        <id>https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures</id>
-        <link href="https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk denies a report about SpaceX&#8217;s AI phone prototype]]></title>
-        <id>https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk</id>
-        <link href="https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million]]></title>
-        <id>https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds</id>
-        <link href="https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds"/>
+        <title type="html"><![CDATA[BitTorrent&#8217;s disastrous, legendary, and controversial story]]></title>
+        <id>https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy</id>
+        <link href="https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -50,23 +36,37 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech]]></title>
-        <id>https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/</id>
-        <link href="https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/"/>
+        <title type="html"><![CDATA[Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million]]></title>
+        <id>https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds</id>
+        <link href="https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse]]></title>
-        <id>https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/</id>
-        <link href="https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/"/>
+        <title type="html"><![CDATA[Elon Musk denies a report about SpaceX&#8217;s AI phone prototype]]></title>
+        <id>https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk</id>
+        <link href="https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces]]></title>
-        <id>https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/</id>
-        <link href="https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"/>
+        <title type="html"><![CDATA[Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures]]></title>
+        <id>https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures</id>
+        <link href="https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bublue BuVortex V5 Pool Skimmer Review: An Impractical Cleaner]]></title>
+        <id>https://www.wired.com/review/bublue-buvortex-v5-pool-skimmer/</id>
+        <link href="https://www.wired.com/review/bublue-buvortex-v5-pool-skimmer/"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried Rips, the Card-Pack App Where Users Spend Thousands Chasing Pricey Pokémon]]></title>
+        <id>https://www.wired.com/story/i-tried-rips-the-card-pack-app-where-users-spend-thousands-chasing-pricey-pokemon/</id>
+        <link href="https://www.wired.com/story/i-tried-rips-the-card-pack-app-where-users-spend-thousands-chasing-pricey-pokemon/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -78,9 +78,37 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neocloud Together AI raises $800M, leaps to $8.3B valuation]]></title>
-        <id>https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/</id>
-        <link href="https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/"/>
+        <title type="html"><![CDATA[Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces]]></title>
+        <id>https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/</id>
+        <link href="https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse]]></title>
+        <id>https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/</id>
+        <link href="https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech]]></title>
+        <id>https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/</id>
+        <link href="https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rivian raises EV sales forecast as Q2 production ramps up]]></title>
+        <id>https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/</id>
+        <link href="https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bending Spoons defies SaaS slump, surges 40% on first day of trading]]></title>
+        <id>https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/</id>
+        <link href="https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -92,9 +120,9 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bending Spoons defies SaaS slump, surges 40% on first day of trading]]></title>
-        <id>https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/</id>
-        <link href="https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/"/>
+        <title type="html"><![CDATA[Neocloud Together AI raises $800M, leaps to $8.3B valuation]]></title>
+        <id>https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/</id>
+        <link href="https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -267,30 +295,23 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Zero-Trust AI Code Review Agent with GitLab, LangGraph, and Qwen3-Coder]]></title>
-        <id>https://pub.towardsai.net/building-a-zero-trust-ai-code-review-agent-with-gitlab-langgraph-and-qwen3-coder-4dd17dbca145?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-a-zero-trust-ai-code-review-agent-with-gitlab-langgraph-and-qwen3-coder-4dd17dbca145?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Micro-Agent Router Architecture: The AI SaaS Builder’s Guide to Smarter Model Workflows]]></title>
+        <id>https://pub.towardsai.net/micro-agent-router-architecture-the-ai-saas-builders-guide-to-smarter-model-workflows-eb60fe0d7173?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/micro-agent-router-architecture-the-ai-saas-builders-guide-to-smarter-model-workflows-eb60fe0d7173?source=rss----98111c9905da---4"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic Quietly Took the Enterprise Lead. Then the Government Took Its Models.]]></title>
-        <id>https://pub.towardsai.net/anthropic-quietly-took-the-enterprise-lead-then-the-government-took-its-models-101334343dc2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/anthropic-quietly-took-the-enterprise-lead-then-the-government-took-its-models-101334343dc2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[A Swap Is a Reflection: The Delta Rule Behind Qwen’s Efficient VLMs]]></title>
+        <id>https://pub.towardsai.net/a-swap-is-a-reflection-the-delta-rule-behind-qwens-efficient-vlms-0634540426d6?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-swap-is-a-reflection-the-delta-rule-behind-qwens-efficient-vlms-0634540426d6?source=rss----98111c9905da---4"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vercel Built a Tool That Writes a Source-Cited Wiki for Any GitHub Repo]]></title>
-        <id>https://pub.towardsai.net/vercel-built-a-tool-that-writes-a-source-cited-wiki-for-any-github-repo-93a32718302a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/vercel-built-a-tool-that-writes-a-source-cited-wiki-for-any-github-repo-93a32718302a?source=rss----98111c9905da---4"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Meta Brain-Computer Interface Decodes Typed Sentences From Brain Waves Alone]]></title>
-        <id>https://pub.towardsai.net/this-meta-brain-computer-interface-decodes-typed-sentences-from-brain-waves-alone-d96c018eb0d4?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/this-meta-brain-computer-interface-decodes-typed-sentences-from-brain-waves-alone-d96c018eb0d4?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[RL for dynamic pricing: How We Trained RL to Price Groceries Without Eroding Its Own Margins]]></title>
+        <id>https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -302,9 +323,30 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RL for dynamic pricing: How We Trained RL to Price Groceries Without Eroding Its Own Margins]]></title>
-        <id>https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[This Meta Brain-Computer Interface Decodes Typed Sentences From Brain Waves Alone]]></title>
+        <id>https://pub.towardsai.net/this-meta-brain-computer-interface-decodes-typed-sentences-from-brain-waves-alone-d96c018eb0d4?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-meta-brain-computer-interface-decodes-typed-sentences-from-brain-waves-alone-d96c018eb0d4?source=rss----98111c9905da---4"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vercel Built a Tool That Writes a Source-Cited Wiki for Any GitHub Repo]]></title>
+        <id>https://pub.towardsai.net/vercel-built-a-tool-that-writes-a-source-cited-wiki-for-any-github-repo-93a32718302a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/vercel-built-a-tool-that-writes-a-source-cited-wiki-for-any-github-repo-93a32718302a?source=rss----98111c9905da---4"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Quietly Took the Enterprise Lead. Then the Government Took Its Models.]]></title>
+        <id>https://pub.towardsai.net/anthropic-quietly-took-the-enterprise-lead-then-the-government-took-its-models-101334343dc2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/anthropic-quietly-took-the-enterprise-lead-then-the-government-took-its-models-101334343dc2?source=rss----98111c9905da---4"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Zero-Trust AI Code Review Agent with GitLab, LangGraph, and Qwen3-Coder]]></title>
+        <id>https://pub.towardsai.net/building-a-zero-trust-ai-code-review-agent-with-gitlab-langgraph-and-qwen3-coder-4dd17dbca145?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-a-zero-trust-ai-code-review-agent-with-gitlab-langgraph-and-qwen3-coder-4dd17dbca145?source=rss----98111c9905da---4"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[EVOTS: Evolutionary Transformer Search for Time Series Forecasting]]></title>
         <id>https://arxiv.org/abs/2607.00154</id>
         <link href="https://arxiv.org/abs/2607.00154"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRAME: Learning the Adaptation Domain with a Mixture of Fractional-Fourier Experts]]></title>
-        <id>https://arxiv.org/abs/2607.00162</id>
-        <link href="https://arxiv.org/abs/2607.00162"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verifiable Rewards for Calibrated Probabilistic Forecasting]]></title>
-        <id>https://arxiv.org/abs/2607.00164</id>
-        <link href="https://arxiv.org/abs/2607.00164"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TallyTrain: Communication-Efficient Federated Distillation]]></title>
-        <id>https://arxiv.org/abs/2607.00173</id>
-        <link href="https://arxiv.org/abs/2607.00173"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRIE: An Evaluation Framework for Stochastic PDE Surrogates]]></title>
-        <id>https://arxiv.org/abs/2607.00196</id>
-        <link href="https://arxiv.org/abs/2607.00196"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StateFlow: Dual-State Recurrent Modeling for Long-Horizon Time Series Forecasting]]></title>
-        <id>https://arxiv.org/abs/2607.00197</id>
-        <link href="https://arxiv.org/abs/2607.00197"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing Frontier Large Language Models' Physics Literacy in Parallel Physical Worlds]]></title>
-        <id>https://arxiv.org/abs/2607.00276</id>
-        <link href="https://arxiv.org/abs/2607.00276"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
