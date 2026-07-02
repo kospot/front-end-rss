@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-02T00:01:54.954Z</updated>
+    <updated>2026-07-02T02:01:41.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,37 +71,44 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RL for dynamic pricing: How We Trained RL to Price Groceries Without Eroding Its Own Margins]]></title>
-        <id>https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Claude Sonnet 5 Is Not Frontier but Has Its Uses]]></title>
+        <id>https://thezvi.substack.com/p/claude-sonnet-5-is-not-frontier-but</id>
+        <link href="https://thezvi.substack.com/p/claude-sonnet-5-is-not-frontier-but"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Installing Random MCP Servers. Start With These 10.]]></title>
-        <id>https://pub.towardsai.net/stop-installing-random-mcp-servers-start-with-these-10-e5fa908f3eda?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/stop-installing-random-mcp-servers-start-with-these-10-e5fa908f3eda?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[WebDeck – AI-powered PPT to interactive HTML converter]]></title>
+        <id>https://github.com/lzytttttt/WebDeck</id>
+        <link href="https://github.com/lzytttttt/WebDeck"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Meta Brain-Computer Interface Decodes Typed Sentences From Brain Waves Alone]]></title>
-        <id>https://pub.towardsai.net/this-meta-brain-computer-interface-decodes-typed-sentences-from-brain-waves-alone-d96c018eb0d4?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/this-meta-brain-computer-interface-decodes-typed-sentences-from-brain-waves-alone-d96c018eb0d4?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Contour Agroforestry Systems for Climate Adaptation and Dryland Ecosystems]]></title>
+        <id>https://www.dar.eco/cascade</id>
+        <link href="https://www.dar.eco/cascade"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vercel Built a Tool That Writes a Source-Cited Wiki for Any GitHub Repo]]></title>
-        <id>https://pub.towardsai.net/vercel-built-a-tool-that-writes-a-source-cited-wiki-for-any-github-repo-93a32718302a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/vercel-built-a-tool-that-writes-a-source-cited-wiki-for-any-github-repo-93a32718302a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Cona – Recreate your room in 3D and redesign it with shoppable furniture]]></title>
+        <id>https://cona.design</id>
+        <link href="https://cona.design"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic Quietly Took the Enterprise Lead. Then the Government Took Its Models.]]></title>
-        <id>https://pub.towardsai.net/anthropic-quietly-took-the-enterprise-lead-then-the-government-took-its-models-101334343dc2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/anthropic-quietly-took-the-enterprise-lead-then-the-government-took-its-models-101334343dc2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[DocETL: Declarative and Agentic Map-Reduce]]></title>
+        <id>https://github.com/ucbepic/docetl</id>
+        <link href="https://github.com/ucbepic/docetl"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That Sounds Like AI: The Last Refuge of the Intellectually Insolvent]]></title>
+        <id>https://medium.com/@ryanlocklear2025/that-sounds-like-ai-the-last-refuge-of-the-intellectually-insolvent-80ffe8cc89d6</id>
+        <link href="https://medium.com/@ryanlocklear2025/that-sounds-like-ai-the-last-refuge-of-the-intellectually-insolvent-80ffe8cc89d6"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -113,100 +120,72 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[n8n Wait Node: Pause, Delay, and Schedule Workflow Execution (Free Workflow JSON)]]></title>
-        <id>https://dev.to/pirateprentice/n8n-wait-node-pause-delay-and-schedule-workflow-execution-free-workflow-json-3i63</id>
-        <link href="https://dev.to/pirateprentice/n8n-wait-node-pause-delay-and-schedule-workflow-execution-free-workflow-json-3i63"/>
+        <title type="html"><![CDATA[Anthropic Quietly Took the Enterprise Lead. Then the Government Took Its Models.]]></title>
+        <id>https://pub.towardsai.net/anthropic-quietly-took-the-enterprise-lead-then-the-government-took-its-models-101334343dc2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/anthropic-quietly-took-the-enterprise-lead-then-the-government-took-its-models-101334343dc2?source=rss----98111c9905da---4"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How this page breaks Japanese lines]]></title>
-        <id>https://dev.to/greymothjp/how-this-page-breaks-japanese-lines-14g3</id>
-        <link href="https://dev.to/greymothjp/how-this-page-breaks-japanese-lines-14g3"/>
+        <title type="html"><![CDATA[Vercel Built a Tool That Writes a Source-Cited Wiki for Any GitHub Repo]]></title>
+        <id>https://pub.towardsai.net/vercel-built-a-tool-that-writes-a-source-cited-wiki-for-any-github-repo-93a32718302a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/vercel-built-a-tool-that-writes-a-source-cited-wiki-for-any-github-repo-93a32718302a?source=rss----98111c9905da---4"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Unix Timestamp, Demystified (and the 1000 Bug That Bites Everyone)]]></title>
-        <id>https://dev.to/dev48v/the-unix-timestamp-demystified-and-the-x1000-bug-that-bites-everyone-4c0g</id>
-        <link href="https://dev.to/dev48v/the-unix-timestamp-demystified-and-the-x1000-bug-that-bites-everyone-4c0g"/>
+        <title type="html"><![CDATA[This Meta Brain-Computer Interface Decodes Typed Sentences From Brain Waves Alone]]></title>
+        <id>https://pub.towardsai.net/this-meta-brain-computer-interface-decodes-typed-sentences-from-brain-waves-alone-d96c018eb0d4?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-meta-brain-computer-interface-decodes-typed-sentences-from-brain-waves-alone-d96c018eb0d4?source=rss----98111c9905da---4"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[n8n Code Node: Advanced Patterns — Multi-Language, Loops, and Error Handling (Free Workflow JSON)]]></title>
-        <id>https://dev.to/pirateprentice/n8n-code-node-advanced-patterns-multi-language-loops-and-error-handling-free-workflow-json-467j</id>
-        <link href="https://dev.to/pirateprentice/n8n-code-node-advanced-patterns-multi-language-loops-and-error-handling-free-workflow-json-467j"/>
+        <title type="html"><![CDATA[Stop Installing Random MCP Servers. Start With These 10.]]></title>
+        <id>https://pub.towardsai.net/stop-installing-random-mcp-servers-start-with-these-10-e5fa908f3eda?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/stop-installing-random-mcp-servers-start-with-these-10-e5fa908f3eda?source=rss----98111c9905da---4"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a YAML ↔ JSON Converter in Vanilla JS (Browser-Only)]]></title>
-        <id>https://dev.to/dev_nestio_229945f10652e4/build-a-yaml-json-converter-in-vanilla-js-browser-only-1008</id>
-        <link href="https://dev.to/dev_nestio_229945f10652e4/build-a-yaml-json-converter-in-vanilla-js-browser-only-1008"/>
+        <title type="html"><![CDATA[RL for dynamic pricing: How We Trained RL to Price Groceries Without Eroding Its Own Margins]]></title>
+        <id>https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Search Every SEC Filing by Keyword With the Keyless EDGAR Full Text API]]></title>
-        <id>https://dev.to/scrapemint/search-every-sec-filing-by-keyword-with-the-keyless-edgar-full-text-api-1j22</id>
-        <link href="https://dev.to/scrapemint/search-every-sec-filing-by-keyword-with-the-keyless-edgar-full-text-api-1j22"/>
+        <title type="html"><![CDATA[n8n Schedule Trigger: CRON Expressions, Timezones, and Advanced Scheduling Patterns (Free Workflow JSON)]]></title>
+        <id>https://dev.to/pirateprentice/n8n-schedule-trigger-cron-expressions-timezones-and-advanced-scheduling-patterns-free-workflow-ele</id>
+        <link href="https://dev.to/pirateprentice/n8n-schedule-trigger-cron-expressions-timezones-and-advanced-scheduling-patterns-free-workflow-ele"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Markdown to HTML Converter with Syntax Highlighting]]></title>
-        <id>https://dev.to/dev_nestio_229945f10652e4/build-a-markdown-to-html-converter-with-syntax-highlighting-2786</id>
-        <link href="https://dev.to/dev_nestio_229945f10652e4/build-a-markdown-to-html-converter-with-syntax-highlighting-2786"/>
+        <title type="html"><![CDATA[pnpm just saved my day]]></title>
+        <id>https://dev.to/hero50/pnpm-just-saved-my-day-5675</id>
+        <link href="https://dev.to/hero50/pnpm-just-saved-my-day-5675"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Implement semver Bump, Compare & Range Check in Vanilla JS]]></title>
-        <id>https://dev.to/dev_nestio_229945f10652e4/implement-semver-bump-compare-range-check-in-vanilla-js-1bfn</id>
-        <link href="https://dev.to/dev_nestio_229945f10652e4/implement-semver-bump-compare-range-check-in-vanilla-js-1bfn"/>
+        <title type="html"><![CDATA[Share Everything Except the Route Tree: A Multi-Customer Monorepo with TanStack Router]]></title>
+        <id>https://dev.to/cengizdonmez/share-everything-except-the-route-tree-a-multi-customer-monorepo-with-tanstack-router-2o5d</id>
+        <link href="https://dev.to/cengizdonmez/share-everything-except-the-route-tree-a-multi-customer-monorepo-with-tanstack-router-2o5d"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a browser-only JWT Creator & Signer — HS256/384/512, verify, expiry check, 77 tests]]></title>
-        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-jwt-creator-signer-hs256384512-verify-expiry-check-77-tests-3b49</id>
-        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-jwt-creator-signer-hs256384512-verify-expiry-check-77-tests-3b49"/>
+        <title type="html"><![CDATA[How I Built an Ultra-Fast Bilingual Dictionary Handling 293,000+ Words on the Edge]]></title>
+        <id>https://dev.to/naruttam/how-i-built-an-ultra-fast-bilingual-dictionary-handling-293000-words-on-the-edge-3mlb</id>
+        <link href="https://dev.to/naruttam/how-i-built-an-ultra-fast-bilingual-dictionary-handling-293000-words-on-the-edge-3mlb"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Working With Massive JSON Responses]]></title>
-        <id>https://dev.to/jsdevspace/working-with-massive-json-responses-33j2</id>
-        <link href="https://dev.to/jsdevspace/working-with-massive-json-responses-33j2"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a browser-only HTTP Cookie Inspector — parse Set-Cookie, security score, XSS/CSRF flags, 84 tests]]></title>
-        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-http-cookie-inspector-parse-set-cookie-security-score-xsscsrf-flags-84-57k8</id>
-        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-http-cookie-inspector-parse-set-cookie-security-score-xsscsrf-flags-84-57k8"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a browser-only JSON to TypeScript Interface Generator — nested objects, arrays, options, 86 tests]]></title>
-        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-json-to-typescript-interface-generator-nested-objects-arrays-options-86-1eii</id>
-        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-json-to-typescript-interface-generator-nested-objects-arrays-options-86-1eii"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a Robots.txt Generator — visual bot picker, AI crawler presets, download, 84 tests]]></title>
-        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-robotstxt-generator-visual-bot-picker-ai-crawler-presets-download-84-tests-g8h</id>
-        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-robotstxt-generator-visual-bot-picker-ai-crawler-presets-download-84-tests-g8h"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a CSS Minifier and Beautifier — browser-only, compression stats, 80 tests]]></title>
-        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-css-minifier-and-beautifier-browser-only-compression-stats-80-tests-3gdb</id>
-        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-css-minifier-and-beautifier-browser-only-compression-stats-80-tests-3gdb"/>
+        <title type="html"><![CDATA[SVG Path Command Inspector: Parse & Visualize d Attributes]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/svg-path-command-inspector-parse-visualize-d-attributes-187a</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/svg-path-command-inspector-parse-visualize-d-attributes-187a"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -218,9 +197,100 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SVG Path Command Inspector: Parse & Visualize d Attributes]]></title>
-        <id>https://dev.to/dev_nestio_229945f10652e4/svg-path-command-inspector-parse-visualize-d-attributes-187a</id>
-        <link href="https://dev.to/dev_nestio_229945f10652e4/svg-path-command-inspector-parse-visualize-d-attributes-187a"/>
+        <title type="html"><![CDATA[I built a CSS Minifier and Beautifier — browser-only, compression stats, 80 tests]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-css-minifier-and-beautifier-browser-only-compression-stats-80-tests-3gdb</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-css-minifier-and-beautifier-browser-only-compression-stats-80-tests-3gdb"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a Robots.txt Generator — visual bot picker, AI crawler presets, download, 84 tests]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-robotstxt-generator-visual-bot-picker-ai-crawler-presets-download-84-tests-g8h</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-robotstxt-generator-visual-bot-picker-ai-crawler-presets-download-84-tests-g8h"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a browser-only JSON to TypeScript Interface Generator — nested objects, arrays, options, 86 tests]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-json-to-typescript-interface-generator-nested-objects-arrays-options-86-1eii</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-json-to-typescript-interface-generator-nested-objects-arrays-options-86-1eii"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a browser-only HTTP Cookie Inspector — parse Set-Cookie, security score, XSS/CSRF flags, 84 tests]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-http-cookie-inspector-parse-set-cookie-security-score-xsscsrf-flags-84-57k8</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-http-cookie-inspector-parse-set-cookie-security-score-xsscsrf-flags-84-57k8"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working With Massive JSON Responses]]></title>
+        <id>https://dev.to/jsdevspace/working-with-massive-json-responses-33j2</id>
+        <link href="https://dev.to/jsdevspace/working-with-massive-json-responses-33j2"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a browser-only JWT Creator & Signer — HS256/384/512, verify, expiry check, 77 tests]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-jwt-creator-signer-hs256384512-verify-expiry-check-77-tests-3b49</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-jwt-creator-signer-hs256384512-verify-expiry-check-77-tests-3b49"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implement semver Bump, Compare & Range Check in Vanilla JS]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/implement-semver-bump-compare-range-check-in-vanilla-js-1bfn</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/implement-semver-bump-compare-range-check-in-vanilla-js-1bfn"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Markdown to HTML Converter with Syntax Highlighting]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/build-a-markdown-to-html-converter-with-syntax-highlighting-2786</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/build-a-markdown-to-html-converter-with-syntax-highlighting-2786"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search Every SEC Filing by Keyword With the Keyless EDGAR Full Text API]]></title>
+        <id>https://dev.to/scrapemint/search-every-sec-filing-by-keyword-with-the-keyless-edgar-full-text-api-1j22</id>
+        <link href="https://dev.to/scrapemint/search-every-sec-filing-by-keyword-with-the-keyless-edgar-full-text-api-1j22"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a YAML ↔ JSON Converter in Vanilla JS (Browser-Only)]]></title>
+        <id>https://dev.to/dev_nestio_229945f10652e4/build-a-yaml-json-converter-in-vanilla-js-browser-only-1008</id>
+        <link href="https://dev.to/dev_nestio_229945f10652e4/build-a-yaml-json-converter-in-vanilla-js-browser-only-1008"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n Code Node: Advanced Patterns — Multi-Language, Loops, and Error Handling (Free Workflow JSON)]]></title>
+        <id>https://dev.to/pirateprentice/n8n-code-node-advanced-patterns-multi-language-loops-and-error-handling-free-workflow-json-467j</id>
+        <link href="https://dev.to/pirateprentice/n8n-code-node-advanced-patterns-multi-language-loops-and-error-handling-free-workflow-json-467j"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Unix Timestamp, Demystified (and the 1000 Bug That Bites Everyone)]]></title>
+        <id>https://dev.to/dev48v/the-unix-timestamp-demystified-and-the-x1000-bug-that-bites-everyone-4c0g</id>
+        <link href="https://dev.to/dev48v/the-unix-timestamp-demystified-and-the-x1000-bug-that-bites-everyone-4c0g"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How this page breaks Japanese lines]]></title>
+        <id>https://dev.to/greymothjp/how-this-page-breaks-japanese-lines-14g3</id>
+        <link href="https://dev.to/greymothjp/how-this-page-breaks-japanese-lines-14g3"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n Wait Node: Pause, Delay, and Schedule Workflow Execution (Free Workflow JSON)]]></title>
+        <id>https://dev.to/pirateprentice/n8n-wait-node-pause-delay-and-schedule-workflow-execution-free-workflow-json-3i63</id>
+        <link href="https://dev.to/pirateprentice/n8n-wait-node-pause-delay-and-schedule-workflow-execution-free-workflow-json-3i63"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -291,76 +361,6 @@
         <title type="html"><![CDATA[Comcast’s split could make or break Peacock]]></title>
         <id>https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming</id>
         <link href="https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guided Tour of Donald Trump’s Renovated Washington, DC]]></title>
-        <id>https://www.wired.com/story/a-guided-tour-of-donald-trumps-renovated-washington-dc/</id>
-        <link href="https://www.wired.com/story/a-guided-tour-of-donald-trumps-renovated-washington-dc/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust]]></title>
-        <id>https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/</id>
-        <link href="https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lectric XPress2 Review (2026): A Heavy-Duty but Nimble Ebike]]></title>
-        <id>https://www.wired.com/review/lectric-xpress2-review/</id>
-        <link href="https://www.wired.com/review/lectric-xpress2-review/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off]]></title>
-        <id>https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/</id>
-        <link href="https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/</id>
-        <link href="https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta, like SpaceX, looks to turn excess AI compute into cash]]></title>
-        <id>https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/</id>
-        <link href="https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Startup Battlefield Australia application closes in days: Apply before July 6]]></title>
-        <id>https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/</id>
-        <link href="https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blue Origin still doesn’t know why its New Glenn rocket blew up last month]]></title>
-        <id>https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/</id>
-        <link href="https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists]]></title>
-        <id>https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/</id>
-        <link href="https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/"/>
-        <updated>2026-06-30T16:00:00.000Z</updated>
-        <published>2026-06-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clicks shows off its BlackBerry-inspired phone in a new hands-on video]]></title>
-        <id>https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/</id>
-        <link href="https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/"/>
         <updated>2026-06-30T16:00:00.000Z</updated>
         <published>2026-06-30T16:00:00.000Z</published>
     </entry>
