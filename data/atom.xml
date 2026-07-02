@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-02T13:02:42.675Z</updated>
+    <updated>2026-07-02T15:03:02.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,23 +22,16 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BitTorrent&#8217;s disastrous, legendary, and controversial story]]></title>
-        <id>https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy</id>
-        <link href="https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy"/>
+        <title type="html"><![CDATA[AI won’t save advertising, says Digitas’ Amy Lanzi]]></title>
+        <id>https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators</id>
+        <link href="https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xbox testing disc-to-digital feature that digitizes a physical game collection]]></title>
-        <id>https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection</id>
-        <link href="https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million]]></title>
-        <id>https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds</id>
-        <link href="https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds"/>
+        <title type="html"><![CDATA[Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures]]></title>
+        <id>https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures</id>
+        <link href="https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -50,9 +43,23 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures]]></title>
-        <id>https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures</id>
-        <link href="https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures"/>
+        <title type="html"><![CDATA[Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million]]></title>
+        <id>https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds</id>
+        <link href="https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox testing disc-to-digital feature that digitizes a physical game collection]]></title>
+        <id>https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection</id>
+        <link href="https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitTorrent&#8217;s disastrous, legendary, and controversial story]]></title>
+        <id>https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy</id>
+        <link href="https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -295,51 +302,16 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Micro-Agent Router Architecture: The AI SaaS Builder’s Guide to Smarter Model Workflows]]></title>
-        <id>https://pub.towardsai.net/micro-agent-router-architecture-the-ai-saas-builders-guide-to-smarter-model-workflows-eb60fe0d7173?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/micro-agent-router-architecture-the-ai-saas-builders-guide-to-smarter-model-workflows-eb60fe0d7173?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Spec-Driven Development in Action with GitHub Speckit]]></title>
+        <id>https://pub.towardsai.net/spec-driven-development-in-action-with-github-speckit-44190f2a7c57?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/spec-driven-development-in-action-with-github-speckit-44190f2a7c57?source=rss----98111c9905da---4"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Swap Is a Reflection: The Delta Rule Behind Qwen’s Efficient VLMs]]></title>
-        <id>https://pub.towardsai.net/a-swap-is-a-reflection-the-delta-rule-behind-qwens-efficient-vlms-0634540426d6?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/a-swap-is-a-reflection-the-delta-rule-behind-qwens-efficient-vlms-0634540426d6?source=rss----98111c9905da---4"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RL for dynamic pricing: How We Trained RL to Price Groceries Without Eroding Its Own Margins]]></title>
-        <id>https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Installing Random MCP Servers. Start With These 10.]]></title>
-        <id>https://pub.towardsai.net/stop-installing-random-mcp-servers-start-with-these-10-e5fa908f3eda?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/stop-installing-random-mcp-servers-start-with-these-10-e5fa908f3eda?source=rss----98111c9905da---4"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Meta Brain-Computer Interface Decodes Typed Sentences From Brain Waves Alone]]></title>
-        <id>https://pub.towardsai.net/this-meta-brain-computer-interface-decodes-typed-sentences-from-brain-waves-alone-d96c018eb0d4?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/this-meta-brain-computer-interface-decodes-typed-sentences-from-brain-waves-alone-d96c018eb0d4?source=rss----98111c9905da---4"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vercel Built a Tool That Writes a Source-Cited Wiki for Any GitHub Repo]]></title>
-        <id>https://pub.towardsai.net/vercel-built-a-tool-that-writes-a-source-cited-wiki-for-any-github-repo-93a32718302a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/vercel-built-a-tool-that-writes-a-source-cited-wiki-for-any-github-repo-93a32718302a?source=rss----98111c9905da---4"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Quietly Took the Enterprise Lead. Then the Government Took Its Models.]]></title>
-        <id>https://pub.towardsai.net/anthropic-quietly-took-the-enterprise-lead-then-the-government-took-its-models-101334343dc2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/anthropic-quietly-took-the-enterprise-lead-then-the-government-took-its-models-101334343dc2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[A/B Tests Can Lie Too: A Causal Guide to the Hidden Confounders in Feature Rollouts]]></title>
+        <id>https://pub.towardsai.net/a-b-tests-can-lie-too-a-causal-guide-to-the-hidden-confounders-in-feature-rollouts-7f73ac0b4431?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-b-tests-can-lie-too-a-causal-guide-to-the-hidden-confounders-in-feature-rollouts-7f73ac0b4431?source=rss----98111c9905da---4"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -351,16 +323,44 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SemiScope: Disentangling Classifier Tuning and Joint Optimization in Semi-Supervised Security Classification]]></title>
-        <id>https://arxiv.org/abs/2607.00113</id>
-        <link href="https://arxiv.org/abs/2607.00113"/>
+        <title type="html"><![CDATA[Anthropic Quietly Took the Enterprise Lead. Then the Government Took Its Models.]]></title>
+        <id>https://pub.towardsai.net/anthropic-quietly-took-the-enterprise-lead-then-the-government-took-its-models-101334343dc2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/anthropic-quietly-took-the-enterprise-lead-then-the-government-took-its-models-101334343dc2?source=rss----98111c9905da---4"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EVOTS: Evolutionary Transformer Search for Time Series Forecasting]]></title>
-        <id>https://arxiv.org/abs/2607.00154</id>
-        <link href="https://arxiv.org/abs/2607.00154"/>
+        <title type="html"><![CDATA[Vercel Built a Tool That Writes a Source-Cited Wiki for Any GitHub Repo]]></title>
+        <id>https://pub.towardsai.net/vercel-built-a-tool-that-writes-a-source-cited-wiki-for-any-github-repo-93a32718302a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/vercel-built-a-tool-that-writes-a-source-cited-wiki-for-any-github-repo-93a32718302a?source=rss----98111c9905da---4"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Meta Brain-Computer Interface Decodes Typed Sentences From Brain Waves Alone]]></title>
+        <id>https://pub.towardsai.net/this-meta-brain-computer-interface-decodes-typed-sentences-from-brain-waves-alone-d96c018eb0d4?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-meta-brain-computer-interface-decodes-typed-sentences-from-brain-waves-alone-d96c018eb0d4?source=rss----98111c9905da---4"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Installing Random MCP Servers. Start With These 10.]]></title>
+        <id>https://pub.towardsai.net/stop-installing-random-mcp-servers-start-with-these-10-e5fa908f3eda?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/stop-installing-random-mcp-servers-start-with-these-10-e5fa908f3eda?source=rss----98111c9905da---4"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RL for dynamic pricing: How We Trained RL to Price Groceries Without Eroding Its Own Margins]]></title>
+        <id>https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss----98111c9905da---4"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Swap Is a Reflection: The Delta Rule Behind Qwen’s Efficient VLMs]]></title>
+        <id>https://pub.towardsai.net/a-swap-is-a-reflection-the-delta-rule-behind-qwens-efficient-vlms-0634540426d6?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-swap-is-a-reflection-the-delta-rule-behind-qwens-efficient-vlms-0634540426d6?source=rss----98111c9905da---4"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
