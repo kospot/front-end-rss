@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-02T04:01:17.254Z</updated>
+    <updated>2026-07-02T07:02:55.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[家用游戏机的新选择，Steam Machine 玩起来怎么样？]]></title>
+        <id>https://sspai.com/post/111763</id>
+        <link href="https://sspai.com/post/111763"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xbox testing disc-to-digital feature that digitizes a physical game collection]]></title>
         <id>https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection</id>
@@ -43,23 +50,16 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Whoop Promo Codes: 20% Off This July 2026]]></title>
+        <id>https://www.wired.com/story/whoop-promo-code/</id>
+        <link href="https://www.wired.com/story/whoop-promo-code/"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces]]></title>
         <id>https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/</id>
         <link href="https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bending Spoons defies SaaS slump, surges 40% on first day of trading]]></title>
-        <id>https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/</id>
-        <link href="https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare’s new policy pushes AI companies to pay for publishers’ content]]></title>
-        <id>https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/</id>
-        <link href="https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -71,72 +71,65 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stashing data in WOFF2 color glyphs to get free Brotli decompression via Canvas]]></title>
-        <id>https://github.com/EtherDream/brpack/</id>
-        <link href="https://github.com/EtherDream/brpack/"/>
+        <title type="html"><![CDATA[Cloudflare’s new policy pushes AI companies to pay for publishers’ content]]></title>
+        <id>https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/</id>
+        <link href="https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: noticed how HN performs sentiment-analysis on everything posted here?]]></title>
-        <id>https://news.ycombinator.com/item?id=48756146</id>
-        <link href="https://news.ycombinator.com/item?id=48756146"/>
+        <title type="html"><![CDATA[Bending Spoons defies SaaS slump, surges 40% on first day of trading]]></title>
+        <id>https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/</id>
+        <link href="https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Rust Backed Fast Dataloader]]></title>
-        <id>https://github.com/midhunharikumar/ferroload</id>
-        <link href="https://github.com/midhunharikumar/ferroload"/>
+        <title type="html"><![CDATA[The gauge broke: devs felt 20% faster with AI, measured 19% slower]]></title>
+        <id>https://intrepidkarthi.com/writing/the-gauge-broke/</id>
+        <link href="https://intrepidkarthi.com/writing/the-gauge-broke/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta to sell excess compute, like SpaceX]]></title>
-        <id>https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/</id>
-        <link href="https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"/>
+        <title type="html"><![CDATA[Typst: Designing for Incrementality (Laurenz Mädje at RustWeek) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=yWWVhbyOWWE</id>
+        <link href="https://www.youtube.com/watch?v=yWWVhbyOWWE"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Meow – The 4th and final JavaScript runtime and toolchain]]></title>
-        <id>https://meow.style</id>
-        <link href="https://meow.style"/>
+        <title type="html"><![CDATA[My Story of 3D Realms / Apogee Part I (2020)]]></title>
+        <id>https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/</id>
+        <link href="https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stevie: Vim Predecessor ("ST editor for vi enthusiasts")]]></title>
-        <id>https://en.wikipedia.org/wiki/Stevie_(text_editor)</id>
-        <link href="https://en.wikipedia.org/wiki/Stevie_(text_editor)"/>
+        <title type="html"><![CDATA[The Complete Homemade Juggling Beanbag Guide]]></title>
+        <id>https://www.joshuaclifton.com/juggle/</id>
+        <link href="https://www.joshuaclifton.com/juggle/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That Sounds Like AI: The Last Refuge of the Intellectually Insolvent]]></title>
-        <id>https://medium.com/@ryanlocklear2025/that-sounds-like-ai-the-last-refuge-of-the-intellectually-insolvent-80ffe8cc89d6</id>
-        <link href="https://medium.com/@ryanlocklear2025/that-sounds-like-ai-the-last-refuge-of-the-intellectually-insolvent-80ffe8cc89d6"/>
+        <title type="html"><![CDATA[Show HN: LinkedIn Focus Chrome Extension]]></title>
+        <id>https://yvetter438.github.io/LinkedInFeedBlockerWebsite/</id>
+        <link href="https://yvetter438.github.io/LinkedInFeedBlockerWebsite/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DocETL: Declarative and Agentic Map-Reduce]]></title>
-        <id>https://github.com/ucbepic/docetl</id>
-        <link href="https://github.com/ucbepic/docetl"/>
+        <title type="html"><![CDATA[Show HN: What GPTBot sees before your React app hydrates]]></title>
+        <id>https://botscore.io/blog/what-gptbot-sees-before-hydration/</id>
+        <link href="https://botscore.io/blog/what-gptbot-sees-before-hydration/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cona – Recreate your room in 3D and redesign it with shoppable furniture]]></title>
-        <id>https://cona.design</id>
-        <link href="https://cona.design"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contour Agroforestry Systems for Climate Adaptation and Dryland Ecosystems]]></title>
-        <id>https://www.dar.eco/cascade</id>
-        <link href="https://www.dar.eco/cascade"/>
+        <title type="html"><![CDATA[Claude Sonnet 5 Is Not Frontier but Has Its Uses]]></title>
+        <id>https://thezvi.substack.com/p/claude-sonnet-5-is-not-frontier-but</id>
+        <link href="https://thezvi.substack.com/p/claude-sonnet-5-is-not-frontier-but"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -148,9 +141,72 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Sonnet 5 Is Not Frontier but Has Its Uses]]></title>
-        <id>https://thezvi.substack.com/p/claude-sonnet-5-is-not-frontier-but</id>
-        <link href="https://thezvi.substack.com/p/claude-sonnet-5-is-not-frontier-but"/>
+        <title type="html"><![CDATA[Contour Agroforestry Systems for Climate Adaptation and Dryland Ecosystems]]></title>
+        <id>https://www.dar.eco/cascade</id>
+        <link href="https://www.dar.eco/cascade"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cona – Recreate your room in 3D and redesign it with shoppable furniture]]></title>
+        <id>https://cona.design</id>
+        <link href="https://cona.design"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DocETL: Declarative and Agentic Map-Reduce]]></title>
+        <id>https://github.com/ucbepic/docetl</id>
+        <link href="https://github.com/ucbepic/docetl"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That Sounds Like AI: The Last Refuge of the Intellectually Insolvent]]></title>
+        <id>https://medium.com/@ryanlocklear2025/that-sounds-like-ai-the-last-refuge-of-the-intellectually-insolvent-80ffe8cc89d6</id>
+        <link href="https://medium.com/@ryanlocklear2025/that-sounds-like-ai-the-last-refuge-of-the-intellectually-insolvent-80ffe8cc89d6"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stevie: Vim Predecessor ("ST editor for vi enthusiasts")]]></title>
+        <id>https://en.wikipedia.org/wiki/Stevie_(text_editor)</id>
+        <link href="https://en.wikipedia.org/wiki/Stevie_(text_editor)"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Meow – The 4th and final JavaScript runtime and toolchain]]></title>
+        <id>https://meow.style</id>
+        <link href="https://meow.style"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta to sell excess compute, like SpaceX]]></title>
+        <id>https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/</id>
+        <link href="https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Rust Backed Fast Dataloader]]></title>
+        <id>https://github.com/midhunharikumar/ferroload</id>
+        <link href="https://github.com/midhunharikumar/ferroload"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: noticed how HN performs sentiment-analysis on everything posted here?]]></title>
+        <id>https://news.ycombinator.com/item?id=48756146</id>
+        <link href="https://news.ycombinator.com/item?id=48756146"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <published>2026-07-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stashing data in WOFF2 color glyphs to get free Brotli decompression via Canvas]]></title>
+        <id>https://github.com/EtherDream/brpack/</id>
+        <link href="https://github.com/EtherDream/brpack/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -305,62 +361,6 @@
         <title type="html"><![CDATA[Ghost in the Kernel: In-Context Learning with Efficient Transformers via Domain Generalization]]></title>
         <id>https://arxiv.org/abs/2607.00479</id>
         <link href="https://arxiv.org/abs/2607.00479"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition]]></title>
-        <id>https://arxiv.org/abs/2607.00535</id>
-        <link href="https://arxiv.org/abs/2607.00535"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Label Node Classification with Label Influence Propagation]]></title>
-        <id>https://arxiv.org/abs/2607.00671</id>
-        <link href="https://arxiv.org/abs/2607.00671"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative Refinement for Low-Budget Black-Box Optimization]]></title>
-        <id>https://arxiv.org/abs/2607.00691</id>
-        <link href="https://arxiv.org/abs/2607.00691"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting the Undetectable: Enhancing Unsupervised time series Anomaly Detection via Active Learning]]></title>
-        <id>https://arxiv.org/abs/2607.00720</id>
-        <link href="https://arxiv.org/abs/2607.00720"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM-Guided ODE Discovery and Parameter Inference from Small-Cohort Aggregate Data]]></title>
-        <id>https://arxiv.org/abs/2607.00733</id>
-        <link href="https://arxiv.org/abs/2607.00733"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which Metric Reflects the Spelling Rate Accuracy in Event-Related Potential-Based Brain-Computer Interfaces?]]></title>
-        <id>https://arxiv.org/abs/2607.00794</id>
-        <link href="https://arxiv.org/abs/2607.00794"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Task-Relevant Representation Decoupling for Visual Reinforcement Learning Generalization]]></title>
-        <id>https://arxiv.org/abs/2607.00796</id>
-        <link href="https://arxiv.org/abs/2607.00796"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local Motion Matters: A Deconstruct-Recompose Paradigm for Reinforcement Learning Pre-training from Videos]]></title>
-        <id>https://arxiv.org/abs/2607.00808</id>
-        <link href="https://arxiv.org/abs/2607.00808"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
