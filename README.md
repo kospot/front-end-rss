@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-07-02 10:01:40，:rocket: 更新条数: +2388， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-02 12:01:16，:rocket: 更新条数: +2606， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -39,18 +39,18 @@
 - [GitHub-Engineering](#github-engineering)  
 - [O'Reilly-Radar](#o'reilly-radar)  
 - [Martin-Fowler](#martin-fowler)![](/assets/dot.png)   
-- [arXiv-ML](#arxiv-ml)  
+- [arXiv-ML](#arxiv-ml)![](/assets/dot.png)   
 - [HuggingFace-Blog](#huggingface-blog)  
 - [smol.ai](#smol.ai)![](/assets/dot.png)   
-- [Towards-AI](#towards-ai)![](/assets/dot.png)   
+- [Towards-AI](#towards-ai)  
 - [Sebastian-Raschka](#sebastian-raschka)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [OpenAI-Blog](#openai-blog)![](/assets/dot.png)   
 - [Hacker-News](#hacker-news)![](/assets/dot.png)   
 - [TechCrunch](#techcrunch)  
-- [Wired](#wired)![](/assets/dot.png)   
+- [Wired](#wired)  
 - [Engadget](#engadget)  
-- [少数派](#少数派)![](/assets/dot.png)   
+- [少数派](#少数派)  
 
 ## 文章链接
 
@@ -132,8 +132,8 @@
 </summary>
 
 
-- [2026-06-30-Snapshots-Of-Summer-July-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/)  
 - [2026-06-30-Why-Accessibility-Is-An-Operational-Capability,-Not-A-Feature](https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/)  
+- [2026-06-30-Snapshots-Of-Summer-July-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/)  
 - [2026-06-16-Designing-With-Uncertainty:-How-AI-Supercharges-Probabilistic-Thinking](https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/)  
 - [2026-06-12-The-Impact-Of-Humanoid-Robots-On-Humanity](https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/)  
 - [2026-06-10-The-Benefits-Of-Cognitive-Inclusion-In-UX-Research](https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/)  
@@ -260,26 +260,26 @@
 </summary>
 
 
-- [2026-07-02-n8n-Wait-Node:-Pause,-Delay,-and-Schedule-Workflow-Execution-Free-Workflow-JSON](https://dev.to/pirateprentice/n8n-wait-node-pause-delay-and-schedule-workflow-execution-free-workflow-json-3i63)  
-- [2026-07-02-Fable-5-vs-Grok-4.5-for-Coding:-7-Reports-Aggregated-July-2026](https://dev.to/bean_bean/fable-5-vs-grok-45-for-coding-7-reports-aggregated-july-2026-4emg)  
-- [2026-07-02-How-this-page-breaks-Japanese-lines](https://dev.to/greymothjp/how-this-page-breaks-japanese-lines-14g3)  
-- [2026-07-02-The-Unix-Timestamp,-Demystified-and-the-1000-Bug-That-Bites-Everyone](https://dev.to/dev48v/the-unix-timestamp-demystified-and-the-x1000-bug-that-bites-everyone-4c0g)  
-- [2026-07-02-The-Tooltip-Problem:-A-Little-Box-That-Never-Falls-Off-Screen](https://dev.to/dev48v/the-tooltip-problem-a-little-box-that-never-falls-off-screen-3122)  
-- [2026-07-02-I-Built-a-Tic-Tac-Toe-AI-That-Literally-Cannot-Lose](https://dev.to/dev48v/i-built-a-tic-tac-toe-ai-that-literally-cannot-lose-1gc4)  
-- [2026-07-02-n8n-Code-Node:-Advanced-Patterns-—-Multi-Language,-Loops,-and-Error-Handling-Free-Workflow-JSON](https://dev.to/pirateprentice/n8n-code-node-advanced-patterns-multi-language-loops-and-error-handling-free-workflow-json-467j)  
-- [2026-07-02-Build-a-YAML-↔-JSON-Converter-in-Vanilla-JS-Browser-Only](https://dev.to/dev_nestio_229945f10652e4/build-a-yaml-json-converter-in-vanilla-js-browser-only-1008)  
-- [2026-07-02-Search-Every-SEC-Filing-by-Keyword-With-the-Keyless-EDGAR-Full-Text-API](https://dev.to/scrapemint/search-every-sec-filing-by-keyword-with-the-keyless-edgar-full-text-api-1j22)  
-- [2026-07-02-Build-a-Markdown-to-HTML-Converter-with-Syntax-Highlighting](https://dev.to/dev_nestio_229945f10652e4/build-a-markdown-to-html-converter-with-syntax-highlighting-2786)  
-- [2026-07-02-Build-a-Text-Line-Sorter-with-Sort,-Dedup,-Filter-&amp;-Replace](https://dev.to/dev_nestio_229945f10652e4/build-a-text-line-sorter-with-sort-dedup-filter-replace-28l6)  
-- [2026-07-02-Implement-semver-Bump,-Compare-&amp;-Range-Check-in-Vanilla-JS](https://dev.to/dev_nestio_229945f10652e4/implement-semver-bump-compare-range-check-in-vanilla-js-1bfn)  
-- [2026-07-02-Pull-Polymarket-Prediction-Market-Data-With-No-API-Key](https://dev.to/scrapemint/pull-polymarket-prediction-market-data-with-no-api-key-1a2n)  
-- [2026-07-02-I-built-a-browser-only-JWT-Creator-&amp;-Signer-—-HS256/384/512,-verify,-expiry-check,-77-tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-jwt-creator-signer-hs256384512-verify-expiry-check-77-tests-3b49)  
-- [2026-07-02-Working-With-Massive-JSON-Responses](https://dev.to/jsdevspace/working-with-massive-json-responses-33j2)  
-- [2026-07-02-I-built-a-browser-only-HTTP-Cookie-Inspector-—-parse-Set-Cookie,-security-score,-XSS/CSRF-flags,-84-tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-http-cookie-inspector-parse-set-cookie-security-score-xsscsrf-flags-84-57k8)  
-- [2026-07-02-I-built-a-browser-only-JSON-to-TypeScript-Interface-Generator-—-nested-objects,-arrays,-options,-86-tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-json-to-typescript-interface-generator-nested-objects-arrays-options-86-1eii)  
-- [2026-07-02-I-built-a-Robots.txt-Generator-—-visual-bot-picker,-AI-crawler-presets,-download,-84-tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-robotstxt-generator-visual-bot-picker-ai-crawler-presets-download-84-tests-g8h)  
-- [2026-07-02-I-built-a-CSS-Minifier-and-Beautifier-—-browser-only,-compression-stats,-80-tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-css-minifier-and-beautifier-browser-only-compression-stats-80-tests-3gdb)  
+- [2026-07-02-n8n-Schedule-Trigger:-CRON-Expressions,-Timezones,-and-Advanced-Scheduling-Patterns-Free-Workflow-JSON](https://dev.to/pirateprentice/n8n-schedule-trigger-cron-expressions-timezones-and-advanced-scheduling-patterns-free-workflow-ele)  
+- [2026-07-02-pnpm-just-saved-my-day](https://dev.to/hero50/pnpm-just-saved-my-day-5675)  
+- [2026-07-02-Share-Everything-Except-the-Route-Tree:-A-Multi-Customer-Monorepo-with-TanStack-Router](https://dev.to/cengizdonmez/share-everything-except-the-route-tree-a-multi-customer-monorepo-with-tanstack-router-2o5d)  
+- [2026-07-02-How-I-Built-an-Ultra-Fast-Bilingual-Dictionary-Handling-293,000+-Words-on-the-Edge](https://dev.to/naruttam/how-i-built-an-ultra-fast-bilingual-dictionary-handling-293000-words-on-the-edge-3mlb)  
+- [2026-07-02-SVG-Path-Command-Inspector:-Parse-&amp;-Visualize-d-Attributes](https://dev.to/dev_nestio_229945f10652e4/svg-path-command-inspector-parse-visualize-d-attributes-187a)  
+- [2026-07-02-Build-a-Browser-Only-OpenAPI-/-Swagger-Validator](https://dev.to/dev_nestio_229945f10652e4/build-a-browser-only-openapi-swagger-validator-5d4c)  
+- [2026-07-02-Browser-Only-.htaccess-Generator-with-Section-Toggles](https://dev.to/dev_nestio_229945f10652e4/browser-only-htaccess-generator-with-section-toggles-1le2)  
+- [2026-07-02-RFC-4648-Base32-Encoder/Decoder-in-Vanilla-JS](https://dev.to/dev_nestio_229945f10652e4/rfc-4648-base32-encoderdecoder-in-vanilla-js-1bcj)  
 - [2026-07-02-Build-a-Browser-Only-TOTP-2FA-Generator-with-Web-Crypto-API](https://dev.to/dev_nestio_229945f10652e4/build-a-browser-only-totp-2fa-generator-with-web-crypto-api-2a57)  
+- [2026-07-02-I-built-a-CSS-Minifier-and-Beautifier-—-browser-only,-compression-stats,-80-tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-css-minifier-and-beautifier-browser-only-compression-stats-80-tests-3gdb)  
+- [2026-07-02-I-built-a-Robots.txt-Generator-—-visual-bot-picker,-AI-crawler-presets,-download,-84-tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-robotstxt-generator-visual-bot-picker-ai-crawler-presets-download-84-tests-g8h)  
+- [2026-07-02-I-built-a-browser-only-JSON-to-TypeScript-Interface-Generator-—-nested-objects,-arrays,-options,-86-tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-json-to-typescript-interface-generator-nested-objects-arrays-options-86-1eii)  
+- [2026-07-02-I-built-a-browser-only-HTTP-Cookie-Inspector-—-parse-Set-Cookie,-security-score,-XSS/CSRF-flags,-84-tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-http-cookie-inspector-parse-set-cookie-security-score-xsscsrf-flags-84-57k8)  
+- [2026-07-02-Working-With-Massive-JSON-Responses](https://dev.to/jsdevspace/working-with-massive-json-responses-33j2)  
+- [2026-07-02-I-built-a-browser-only-JWT-Creator-&amp;-Signer-—-HS256/384/512,-verify,-expiry-check,-77-tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-jwt-creator-signer-hs256384512-verify-expiry-check-77-tests-3b49)  
+- [2026-07-02-Pull-Polymarket-Prediction-Market-Data-With-No-API-Key](https://dev.to/scrapemint/pull-polymarket-prediction-market-data-with-no-api-key-1a2n)  
+- [2026-07-02-Implement-semver-Bump,-Compare-&amp;-Range-Check-in-Vanilla-JS](https://dev.to/dev_nestio_229945f10652e4/implement-semver-bump-compare-range-check-in-vanilla-js-1bfn)  
+- [2026-07-02-Build-a-Text-Line-Sorter-with-Sort,-Dedup,-Filter-&amp;-Replace](https://dev.to/dev_nestio_229945f10652e4/build-a-text-line-sorter-with-sort-dedup-filter-replace-28l6)  
+- [2026-07-02-Build-a-Markdown-to-HTML-Converter-with-Syntax-Highlighting](https://dev.to/dev_nestio_229945f10652e4/build-a-markdown-to-html-converter-with-syntax-highlighting-2786)  
+- [2026-07-02-Search-Every-SEC-Filing-by-Keyword-With-the-Keyless-EDGAR-Full-Text-API](https://dev.to/scrapemint/search-every-sec-filing-by-keyword-with-the-keyless-edgar-full-text-api-1j22)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -494,8 +494,8 @@ https://github.com/williamtroup/Rattribute.js
 </summary>
 
 
-- [2026-06-16-Building-Reliable-Agentic-AI-Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)  
 - [2026-06-16-Fragments:-June-16](https://martinfowler.com/fragments/2026-06-16.html)  
+- [2026-06-16-Building-Reliable-Agentic-AI-Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)  
 - [......【查看更多】......](/details/Martin Fowler.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -507,26 +507,26 @@ https://github.com/williamtroup/Rattribute.js
 </summary>
 
 
-- [2026-07-01-Joint-discovery-of-governing-partial-differential-equations-from-multi-source-datasets-by-competitive-optimization](https://arxiv.org/abs/2606.30699)  
-- [2026-07-01-Accelerometry-Derived-Digital-Biomarkers-for-Cardiometabolic-Risk:-A-Population-Representative-Tabular-Benchmark-with-Uncertainty-Quantification](https://arxiv.org/abs/2606.30702)  
-- [2026-07-01-From-Search-to-Synthesis:-Training-LLMs-as-Zero-Shot-Workflow-Generators](https://arxiv.org/abs/2606.30704)  
-- [2026-07-01-Why-Do-Few-Step-Text-Latents-Fail-When-Image-Latents-Work?-Non-Commitment-at-Sharp-Categorical-Readouts](https://arxiv.org/abs/2606.30705)  
-- [2026-07-01-Hierarchical-Global-Attention-HGA](https://arxiv.org/abs/2606.30709)  
-- [2026-07-01-ReactionAtlas:-Ab-origine-exploration-of-chemical-reaction-networks-with-machine-learning](https://arxiv.org/abs/2606.30778)  
-- [2026-07-01-Revocable-Learned-State-via-Process-Sidecars](https://arxiv.org/abs/2606.30788)  
-- [2026-07-01-Predictable-GRPO:-A-Closed-Form-Model-of-Training-Dynamics](https://arxiv.org/abs/2606.30789)  
-- [2026-07-01-Gradient-Smoothing:-Coupling-Layer-wise-Updates-for-Improved-Optimization](https://arxiv.org/abs/2606.30813)  
-- [2026-07-01-Mind-the-Residual-Gap:-Probabilistic-Downscaling-under-Real-World-Bias](https://arxiv.org/abs/2606.30821)  
-- [2026-07-01-Partition-Guided-Distance-Saliency:-Bridging-Decision-and-Objective-Spaces-in-Many-Objective-Optimization](https://arxiv.org/abs/2606.30836)  
-- [2026-07-01-A-Stationary-Distribution-Theory-for-Triplet-Based-Plateau-Search-in-Random-Forest-Ensemble-Size-Selection](https://arxiv.org/abs/2606.30837)  
-- [2026-07-01-A-Transferable-Learned-Temporal-Prior-for-Transmission-Reconstruction-and-Decision-Relevant-Uncertainty-in-Real-Outbreak-Labels](https://arxiv.org/abs/2606.30842)  
-- [2026-07-01-Behavior-Cloning-is-Not-All-You-Need:-The-Optimality-of-On-Policy-Distillation-for-Noisy-Expert-Feedback](https://arxiv.org/abs/2606.30923)  
-- [2026-07-01-Personalizing-Marketplace-Policies-with-Competing-Objectives-and-Constrained-Experiments:-Evidence-from-a-Job-Marketplace](https://arxiv.org/abs/2606.30932)  
-- [2026-07-01-Quality-Aware-Modulation-for-Diffusion-Transformers](https://arxiv.org/abs/2606.30934)  
-- [2026-07-01-Physics-informed-Conditional-Normalizing-Flows-for-Angles-only-Cislunar-Orbit-Determination](https://arxiv.org/abs/2606.30936)  
-- [2026-07-01-Multistage-Defer-Trees-for-Hybrid-Interpretability:-If-at-First-You-Can't-Succeed,-Tree-Again](https://arxiv.org/abs/2606.30995)  
-- [2026-07-01-Estimating-Supply-Incrementality-in-Two-sided-Marketplaces:-A-Causal-Machine-Learning-Approach](https://arxiv.org/abs/2606.30999)  
-- [2026-07-01-Offline-Reinforcement-Learning-for-Fluid-Controls:-Data-based-Multi-observational-Policy-Extraction](https://arxiv.org/abs/2606.31025)  
+- [2026-07-02-FeLoG:-Scalable-and-Efficient-Distributed-Graph-Embedding-with-Feedback-Loop-Mechanism](https://arxiv.org/abs/2606.22180) ![](/assets/new.png)  
+- [2026-07-02-Wasserstein-Contraction-of-Coordinate-Ascent-Variational-Inference](https://arxiv.org/abs/2605.30253) ![](/assets/new.png)  
+- [2026-07-02-Real-time-virtual-circuits-for-plasma-shape-control-via-neural-network-emulators](https://arxiv.org/abs/2605.14939) ![](/assets/new.png)  
+- [2026-07-02-Large-Scale-High-Quality-3D-Gaussian-Head-Reconstruction-from-Multi-View-Captures](https://arxiv.org/abs/2605.04035) ![](/assets/new.png)  
+- [2026-07-02-Geometric-and-dynamical-analysis-of-attractor-boundaries-and-storage-limits-in-kernel-Hopfield-networks](https://arxiv.org/abs/2605.00366) ![](/assets/new.png)  
+- [2026-07-02-Large-language-model-enabled-automated-data-extraction-for-concrete-materials-informatics](https://arxiv.org/abs/2604.22938) ![](/assets/new.png)  
+- [2026-07-02-Goal-oriented-learning-of-stochastic-differential-equations-using-error-bounds-on-path-space-observables](https://arxiv.org/abs/2603.20467) ![](/assets/new.png)  
+- [2026-07-02-IRIS:-A-Real-World-Benchmark-for-Inverse-Recovery-and-Identification-of-Physical-Dynamic-Systems-from-Monocular-Video](https://arxiv.org/abs/2603.16432) ![](/assets/new.png)  
+- [2026-07-02-From-Prior-to-Pro:-Efficient-Skill-Mastery-via-Distribution-Contractive-RL-Finetuning](https://arxiv.org/abs/2603.10263) ![](/assets/new.png)  
+- [2026-07-02-MMLoP:-Multi-Modal-Low-Rank-Prompting-for-Efficient-Vision-Language-Adaptation](https://arxiv.org/abs/2602.21397) ![](/assets/new.png)  
+- [2026-07-02-GryphOne:-Symbol-Aware-Masked-Diffusion-for-Structural-Refinement-in-Offline-Handwritten-Mathematical-Expression-Recognition](https://arxiv.org/abs/2602.03370) ![](/assets/new.png)  
+- [2026-07-02-Mixture-of-Distributions-Matters:-Dynamic-Sparse-Attention-for-Efficient-Video-Diffusion-Transformers](https://arxiv.org/abs/2601.11641) ![](/assets/new.png)  
+- [2026-07-02-Zero-Shot-Distracted-Driver-Detection-via-Vision-Language-Models-with-Double-Decoupling](https://arxiv.org/abs/2601.08467) ![](/assets/new.png)  
+- [2026-07-02-Fast-Score-Based-Sampling-via-Log-Concave-Reductions](https://arxiv.org/abs/2512.24152) ![](/assets/new.png)  
+- [2026-07-02-Quantitative-Understanding-of-PDF-Fits-and-their-Uncertainties](https://arxiv.org/abs/2512.24116) ![](/assets/new.png)  
+- [2026-07-02-VisReason:-A-Large-Scale-Dataset-for-Visual-Chain-of-Thought-Reasoning](https://arxiv.org/abs/2511.17731) ![](/assets/new.png)  
+- [2026-07-02-Root-Cause-Analysis-of-Outliers-in-Unknown-Cyclic-Graphs](https://arxiv.org/abs/2510.06995) ![](/assets/new.png)  
+- [2026-07-02-Clotho:-Measuring-Task-Specific-Pre-Generation-Test-Adequacy-for-LLM-Inputs](https://arxiv.org/abs/2509.17314) ![](/assets/new.png)  
+- [2026-07-02-Breaking-the-Weak-Recovery-Limit-in-Random-Phase-Retrieval-with-Learned-Regularizers](https://arxiv.org/abs/2509.15026) ![](/assets/new.png)  
+- [2026-07-02-Reward-function-compression-facilitates-goal-dependent-reinforcement-learning](https://arxiv.org/abs/2509.06810) ![](/assets/new.png)  
 - [......【查看更多】......](/details/arXiv ML.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -580,8 +580,8 @@ https://github.com/williamtroup/Rattribute.js
 - [2026-06-17-Midjourney-Medical:-scan-your-organs-like-you-step-on-a-scale](https://news.smol.ai/issues/26-06-17-midjourney-medical/)  
 - [2026-06-16-GLM-5.2:-the-top-Frontend-Coding-model-in-the-world,-IndexShare-reduces-costs](https://news.smol.ai/issues/26-06-16-glm-52/)  
 - [2026-06-12-not-much-happened-today](https://news.smol.ai/issues/26-06-12-not-much/)  
-- [2026-06-11-not-much-happened-today](https://news.smol.ai/issues/26-06-15-not-much/)  
 - [2026-06-11-not-much-happened-today](https://news.smol.ai/issues/26-06-11-not-much/)  
+- [2026-06-11-not-much-happened-today](https://news.smol.ai/issues/26-06-15-not-much/)  
 - [2026-06-10-not-much-happened-today](https://news.smol.ai/issues/26-06-10-not-much/)  
 - [2026-06-09-Anthropic-Claude-Fable-5](https://news.smol.ai/issues/26-06-09-anthropic-claude-fable-5/)  
 - [2026-06-08-not-much-happened-today](https://news.smol.ai/issues/26-06-08-not-much/)  
@@ -610,7 +610,7 @@ https://github.com/williamtroup/Rattribute.js
 - [2026-07-02-End-to-End-LLM-Observability,-Evaluation,-and-Monitoring-with-LangSmith](https://pub.towardsai.net/end-to-end-llm-observability-evaluation-and-monitoring-with-langsmith-c34f921d1c9b?source=rss----98111c9905da---4)  
 - [2026-07-02-When-Medical-AI-Encounters-the-Unknown:-Out-of-Distribution-Detection-OOD-in-Clinical-Decision…](https://pub.towardsai.net/when-medical-ai-encounters-the-unknown-out-of-distribution-detection-ood-in-clinical-decision-c7dacae21bdf?source=rss----98111c9905da---4)  
 - [2026-07-02-Open-Source-Models-Just-Passed-the-“Good-Enough”-Line.-What-That-Actually-Changes.](https://pub.towardsai.net/open-source-models-just-passed-the-good-enough-line-what-that-actually-changes-73fb3fa4f32d?source=rss----98111c9905da---4)  
-- [2026-07-02-One-Topic.-Three-Platforms.-Zero-Rewrites.-AI-Does-the-Magic.](https://pub.towardsai.net/one-topic-three-platforms-zero-rewrites-ai-does-the-magic-e317cd4c9c47?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-07-02-One-Topic.-Three-Platforms.-Zero-Rewrites.-AI-Does-the-Magic.](https://pub.towardsai.net/one-topic-three-platforms-zero-rewrites-ai-does-the-magic-e317cd4c9c47?source=rss----98111c9905da---4)  
 - [2026-07-01-Your-AI-Has-a-Memory-Problem-—-and-Google-Just-Found-a-Brilliant-Fix](https://pub.towardsai.net/your-ai-has-a-memory-problem-and-google-just-found-a-brilliant-fix-31ba13c7f9ed?source=rss----98111c9905da---4)  
 - [2026-07-01-The-$0-CAC-Matrix:-Why-Vibe-Coded-Apps-Need-a-Distribution-Machine-Before-Launch](https://pub.towardsai.net/the-0-cac-matrix-why-vibe-coded-apps-need-a-distribution-machine-before-launch-1932c32b5cd1?source=rss----98111c9905da---4)  
 - [2026-07-01-The-OpenClaw-Creator-Stack:-How-to-Turn-Tutorials-Into-Paid-AI-Offers](https://pub.towardsai.net/the-openclaw-creator-stack-how-to-turn-tutorials-into-paid-ai-offers-b463e6576b46?source=rss----98111c9905da---4)  
@@ -653,26 +653,26 @@ https://github.com/williamtroup/Rattribute.js
 </summary>
 
 
-- [2026-06-30-Inside-Genebench-Pro](https://openai.com/index/genebench-pro/case-studies)  
-- [2026-06-30-Core-dump-epidemiology:-fixing-an-18-year-old-bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug)  
-- [2026-06-30-Introducing-GeneBench-Pro](https://openai.com/index/introducing-genebench-pro)  
 - [2026-06-30-How-ChatGPT-adoption-has-expanded](https://openai.com/index/how-chatgpt-adoption-has-expanded)  
-- [2026-06-29-HP-Inc.-launches-Frontier-strategic-partnership-with-OpenAI](https://openai.com/index/hp-frontier-partnership)  
+- [2026-06-30-Introducing-GeneBench-Pro](https://openai.com/index/introducing-genebench-pro)  
+- [2026-06-30-Core-dump-epidemiology:-fixing-an-18-year-old-bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug)  
+- [2026-06-30-Inside-Genebench-Pro](https://openai.com/index/genebench-pro/case-studies)  
 - [2026-06-29-Mapping-Europe’s-AI-Workforce-Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu)  
+- [2026-06-29-HP-Inc.-launches-Frontier-strategic-partnership-with-OpenAI](https://openai.com/index/hp-frontier-partnership)  
 - [2026-06-26-Previewing-GPT-5.6-Sol:-a-next-generation-model](https://openai.com/index/previewing-gpt-5-6-sol)  
 - [2026-06-25-How-agents-are-transforming-work](https://openai.com/index/how-agents-are-transforming-work)  
-- [2026-06-24-How-GPT-5-helped-immunologist-Derya-Unutmaz-solve-a-3-year-old-mystery](https://openai.com/index/gpt-5-immunology-mystery)  
 - [2026-06-24-OpenAI-and-Broadcom-unveil-LLM-optimized-inference-chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip)  
-- [2026-06-23-How-Omio-is-building-the-future-of-conversational-travel](https://openai.com/index/omio)  
+- [2026-06-24-How-GPT-5-helped-immunologist-Derya-Unutmaz-solve-a-3-year-old-mystery](https://openai.com/index/gpt-5-immunology-mystery)  
 - [2026-06-23-Helping-build-shared-standards-for-advanced-AI](https://openai.com/index/helping-build-shared-standards-for-advanced-ai)  
-- [2026-06-22-Samsung-Electronics-brings-ChatGPT-and-Codex-to-employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment)  
-- [2026-06-22-Codex-maxxing-for-long-running-work](https://openai.com/index/codex-maxxing-long-running-work)  
-- [2026-06-22-Patch-the-Planet:-a-Daybreak-initiative-to-support-open-source-maintainers](https://openai.com/index/patch-the-planet)  
+- [2026-06-23-How-Omio-is-building-the-future-of-conversational-travel](https://openai.com/index/omio)  
 - [2026-06-22-Daybreak:-Tools-for-securing-every-organization-in-the-world](https://openai.com/index/daybreak-securing-the-world)  
+- [2026-06-22-Patch-the-Planet:-a-Daybreak-initiative-to-support-open-source-maintainers](https://openai.com/index/patch-the-planet)  
+- [2026-06-22-Codex-maxxing-for-long-running-work](https://openai.com/index/codex-maxxing-long-running-work)  
+- [2026-06-22-Samsung-Electronics-brings-ChatGPT-and-Codex-to-employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment)  
 - [2026-06-19-New-usage-analytics-and-updated-spend-controls-for-enterprises](https://openai.com/index/chatgpt-enterprise-spend-controls)  
-- [2026-06-18-Using-AI-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children](https://openai.com/index/diagnose-rare-childhood-diseases)  
 - [2026-06-18-Improving-health-intelligence-in-ChatGPT](https://openai.com/index/improving-health-intelligence-in-chatgpt)  
-- [2026-06-17-Introducing-LifeSciBench](https://openai.com/index/introducing-life-sci-bench)  
+- [2026-06-18-Using-AI-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children](https://openai.com/index/diagnose-rare-childhood-diseases)  
+- [2026-06-17-A-near-autonomous-AI-chemist-improves-a-challenging-reaction-in-medicinal-chemistry](https://openai.com/index/ai-chemist-improves-reaction)  
 - [......【查看更多】......](/details/OpenAI Blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -684,26 +684,26 @@ https://github.com/williamtroup/Rattribute.js
 </summary>
 
 
-- [2026-07-02-More-AI-–-Open-source-model-agnostic-AI-desktop](https://github.com/DougTrier/MoreAI) ![](/assets/new.png)  
-- [2026-07-02-That-Sounds-Like-AI:-The-Last-Refuge-of-the-Intellectually-Insolvent](https://medium.com/@ryanlocklear2025/that-sounds-like-ai-the-last-refuge-of-the-intellectually-insolvent-80ffe8cc89d6) ![](/assets/new.png)  
-- [2026-07-02-Clicks-Communicator:-Blackberry-Style-Physical-Keyboard-Phone](https://clicks.tech/communicator) ![](/assets/new.png)  
-- [2026-07-02-US-home-battery-installations-hit-record-high-on-rising-electricity-costs](https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/) ![](/assets/new.png)  
-- [2026-07-02-DocETL:-Declarative-and-Agentic-Map-Reduce](https://github.com/ucbepic/docetl) ![](/assets/new.png)  
-- [2026-07-02-Tips-for-scaling-AI-from-founders-to-organization-leaders](https://davenporter.substack.com/p/ai-sdlc-scaling-framework) ![](/assets/new.png)  
-- [2026-07-02-SuperDoc-–-Modern-Docx-Editor-and-Agent-SDK](https://github.com/superdoc-dev/superdoc) ![](/assets/new.png)  
-- [2026-07-02-60k-Radio-Streams-DB](https://www.radio-browser.info) ![](/assets/new.png)  
-- [2026-07-02-Cona-–-Recreate-your-room-in-3D-and-redesign-it-with-shoppable-furniture](https://cona.design) ![](/assets/new.png)  
-- [2026-07-02-WhatsApp-Usernames-Are-Already-Raising-Impersonation-Red-Flags](https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/) ![](/assets/new.png)  
-- [2026-07-02-Contour-Agroforestry-Systems-for-Climate-Adaptation-and-Dryland-Ecosystems](https://www.dar.eco/cascade) ![](/assets/new.png)  
-- [2026-07-02-WebDeck-–-AI-powered-PPT-to-interactive-HTML-converter](https://github.com/lzytttttt/WebDeck) ![](/assets/new.png)  
-- [2026-07-02-Ask-HN:-Is-anyone-running-local-LLMs-in-their-organization?](https://news.ycombinator.com/item?id=48755380) ![](/assets/new.png)  
-- [2026-07-02-Show-HN:-TheraJoy-–-bilateral-stimulation-for-EMDR-using-Joy-Cons](https://www.therajoyapp.com) ![](/assets/new.png)  
-- [2026-07-02-I'm-Begging-You-to-Leave-Your-AI-Note-Taker-at-Home](https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note) ![](/assets/new.png)  
-- [2026-07-02-What-I've-Been-Reading](https://marginalrevolution.com/marginalrevolution/2026/07/what-ive-been-reading-291.html) ![](/assets/new.png)  
-- [2026-07-02-The-Joy-of-Being-American](https://www.theatlantic.com/photography/2026/07/photos-fourth-july-celebrations-years-past/687757/) ![](/assets/new.png)  
-- [2026-07-02-Claude-Sonnet-5-Is-Not-Frontier-but-Has-Its-Uses](https://thezvi.substack.com/p/claude-sonnet-5-is-not-frontier-but) ![](/assets/new.png)  
-- [2026-07-02-Foglamp:-Agent-Observability](https://www.foglamp.dev/) ![](/assets/new.png)  
-- [2026-07-02-PanelSpec-–-design-UI-on-real-devices,-export-layout-prompts-for-AI-codegen](https://www.ismartbase.com/designer/) ![](/assets/new.png)  
+- [2026-07-02-PanelSpec-–-design-UI-on-real-devices,-export-layout-prompts-for-AI-codegen](https://www.ismartbase.com/designer/)  
+- [2026-07-02-Foglamp:-Agent-Observability](https://www.foglamp.dev/)  
+- [2026-07-02-Claude-Sonnet-5-Is-Not-Frontier-but-Has-Its-Uses](https://thezvi.substack.com/p/claude-sonnet-5-is-not-frontier-but)  
+- [2026-07-02-The-Joy-of-Being-American](https://www.theatlantic.com/photography/2026/07/photos-fourth-july-celebrations-years-past/687757/)  
+- [2026-07-02-What-I've-Been-Reading](https://marginalrevolution.com/marginalrevolution/2026/07/what-ive-been-reading-291.html)  
+- [2026-07-02-I'm-Begging-You-to-Leave-Your-AI-Note-Taker-at-Home](https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note)  
+- [2026-07-02-Show-HN:-TheraJoy-–-bilateral-stimulation-for-EMDR-using-Joy-Cons](https://www.therajoyapp.com)  
+- [2026-07-02-Ask-HN:-Is-anyone-running-local-LLMs-in-their-organization?](https://news.ycombinator.com/item?id=48755380)  
+- [2026-07-02-WebDeck-–-AI-powered-PPT-to-interactive-HTML-converter](https://github.com/lzytttttt/WebDeck)  
+- [2026-07-02-Contour-Agroforestry-Systems-for-Climate-Adaptation-and-Dryland-Ecosystems](https://www.dar.eco/cascade)  
+- [2026-07-02-WhatsApp-Usernames-Are-Already-Raising-Impersonation-Red-Flags](https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/)  
+- [2026-07-02-Cona-–-Recreate-your-room-in-3D-and-redesign-it-with-shoppable-furniture](https://cona.design)  
+- [2026-07-02-60k-Radio-Streams-DB](https://www.radio-browser.info)  
+- [2026-07-02-SuperDoc-–-Modern-Docx-Editor-and-Agent-SDK](https://github.com/superdoc-dev/superdoc)  
+- [2026-07-02-Tips-for-scaling-AI-from-founders-to-organization-leaders](https://davenporter.substack.com/p/ai-sdlc-scaling-framework)  
+- [2026-07-02-DocETL:-Declarative-and-Agentic-Map-Reduce](https://github.com/ucbepic/docetl)  
+- [2026-07-02-US-home-battery-installations-hit-record-high-on-rising-electricity-costs](https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/)  
+- [2026-07-02-Clicks-Communicator:-Blackberry-Style-Physical-Keyboard-Phone](https://clicks.tech/communicator)  
+- [2026-07-02-That-Sounds-Like-AI:-The-Last-Refuge-of-the-Intellectually-Insolvent](https://medium.com/@ryanlocklear2025/that-sounds-like-ai-the-last-refuge-of-the-intellectually-insolvent-80ffe8cc89d6)  
+- [2026-07-02-More-AI-–-Open-source-model-agnostic-AI-desktop](https://github.com/DougTrier/MoreAI)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -808,7 +808,7 @@ https://github.com/williamtroup/Rattribute.js
 </summary>
 
 
-- [2026-07-02-派早报：WhatsApp-开放用户名预留、PS-将取消实体光盘等](https://sspai.com/post/111861) ![](/assets/new.png)  
+- [2026-07-02-派早报：WhatsApp-开放用户名预留、PS-将取消实体光盘等](https://sspai.com/post/111861)  
 - [2026-07-01-声擎×少数派｜「角落新声」征文活动](https://sspai.com/post/111709)  
 - [2026-07-01-年度报告不够看？微信读书-Skill-上手体验](https://sspai.com/post/109932)  
 - [2026-07-01-派早报：Google-推出-Eclipsa-Video-视频标准等](https://sspai.com/post/111773)  
