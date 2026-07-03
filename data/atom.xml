@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-03T00:00:58.025Z</updated>
+    <updated>2026-07-03T02:01:30.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The video game disc is dead]]></title>
-        <id>https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast</id>
-        <link href="https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast"/>
+        <title type="html"><![CDATA[Meta has a new app called Pocket that is absolutely nothing like the old Pocket]]></title>
+        <id>https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai</id>
+        <link href="https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta has a new app called Pocket that is absolutely nothing like the old Pocket]]></title>
-        <id>https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai</id>
-        <link href="https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai"/>
+        <title type="html"><![CDATA[The video game disc is dead]]></title>
+        <id>https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast</id>
+        <link href="https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
@@ -64,65 +64,58 @@
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Australians have more negative view of Israel than of China – Essential poll]]></title>
-        <id>https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb</id>
-        <link href="https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb"/>
+        <title type="html"><![CDATA[Google's exponential path to climate-wrecking digital bloat]]></title>
+        <id>https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/</id>
+        <link href="https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Domino's Pizza parodies Sony's discontinuation of physical games]]></title>
-        <id>https://twitter.com/Dominos_UK/status/2072602429959340517</id>
-        <link href="https://twitter.com/Dominos_UK/status/2072602429959340517"/>
+        <title type="html"><![CDATA[Why AI Is Collapsing: How China Is Winning. [video]]]></title>
+        <id>https://www.youtube.com/watch?v=JXJf7vL8k94</id>
+        <link href="https://www.youtube.com/watch?v=JXJf7vL8k94"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data Science Weekly – Issue 658]]></title>
-        <id>https://datascienceweekly.substack.com/p/data-science-weekly-issue-658</id>
-        <link href="https://datascienceweekly.substack.com/p/data-science-weekly-issue-658"/>
+        <title type="html"><![CDATA[How AI Became More Expensive Than the Workers It Replaced [video]]]></title>
+        <id>https://www.youtube.com/watch?v=cfaZZPjA3g0</id>
+        <link href="https://www.youtube.com/watch?v=cfaZZPjA3g0"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft’s answer to the end of PlayStation discs: a bizarre GitHub stunt]]></title>
-        <id>https://www.theverge.com/tech/961177/microsofts-answer-to-the-end-of-playstation-discs-a-bizarre-github-stunt</id>
-        <link href="https://www.theverge.com/tech/961177/microsofts-answer-to-the-end-of-playstation-discs-a-bizarre-github-stunt"/>
+        <title type="html"><![CDATA[The Safari MCP server for web developers]]></title>
+        <id>https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/</id>
+        <link href="https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ukraine has struck a key semiconductor facility in Voronezh [video][7 mins]]]></title>
-        <id>https://www.youtube.com/watch?v=jL0ei7E44Ls</id>
-        <link href="https://www.youtube.com/watch?v=jL0ei7E44Ls"/>
+        <title type="html"><![CDATA[Ask HN: Best Local LLM Setup for a 128GB M4 Max Mac Studio?]]></title>
+        <id>https://news.ycombinator.com/item?id=48769635</id>
+        <link href="https://news.ycombinator.com/item?id=48769635"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta launches vibe-coded gaming app Pocket]]></title>
-        <id>https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/</id>
-        <link href="https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"/>
+        <title type="html"><![CDATA[What we learned when a user tried to load a 1 GB GML file in a browser]]></title>
+        <id>https://geodataviewer.com/blog/why-vector-tiles-for-large-gis-datasets/</id>
+        <link href="https://geodataviewer.com/blog/why-vector-tiles-for-large-gis-datasets/"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Relisten v6.1: CarPlay, Google Cast, Last.fm scrobbling, 4000 artists]]></title>
-        <id>https://old.reddit.com/r/gratefuldead/comments/1siwzr7/relisten_v61_carplay_google_cast_lastfm/</id>
-        <link href="https://old.reddit.com/r/gratefuldead/comments/1siwzr7/relisten_v61_carplay_google_cast_lastfm/"/>
+        <title type="html"><![CDATA[Microsoft's 90s Weapon That Made Windows Fast [video]]]></title>
+        <id>https://www.youtube.com/watch?v=jH0BYAkPj78</id>
+        <link href="https://www.youtube.com/watch?v=jH0BYAkPj78"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Run multiple Docker Compose instances for your agents]]></title>
-        <id>https://news.ycombinator.com/item?id=48767816</id>
-        <link href="https://news.ycombinator.com/item?id=48767816"/>
-        <updated>2026-07-02T16:00:00.000Z</updated>
-        <published>2026-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toward Better Hip Kernel Generation for AMD GPUs]]></title>
-        <id>https://scalingintelligence.stanford.edu/blogs/hipkernels/</id>
-        <link href="https://scalingintelligence.stanford.edu/blogs/hipkernels/"/>
+        <title type="html"><![CDATA[U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators]]></title>
+        <id>https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html</id>
+        <link href="https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
@@ -134,9 +127,65 @@
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators]]></title>
-        <id>https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html</id>
-        <link href="https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html"/>
+        <title type="html"><![CDATA[Toward Better Hip Kernel Generation for AMD GPUs]]></title>
+        <id>https://scalingintelligence.stanford.edu/blogs/hipkernels/</id>
+        <link href="https://scalingintelligence.stanford.edu/blogs/hipkernels/"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Run multiple Docker Compose instances for your agents]]></title>
+        <id>https://news.ycombinator.com/item?id=48767816</id>
+        <link href="https://news.ycombinator.com/item?id=48767816"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relisten v6.1: CarPlay, Google Cast, Last.fm scrobbling, 4000 artists]]></title>
+        <id>https://old.reddit.com/r/gratefuldead/comments/1siwzr7/relisten_v61_carplay_google_cast_lastfm/</id>
+        <link href="https://old.reddit.com/r/gratefuldead/comments/1siwzr7/relisten_v61_carplay_google_cast_lastfm/"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta launches vibe-coded gaming app Pocket]]></title>
+        <id>https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/</id>
+        <link href="https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine has struck a key semiconductor facility in Voronezh [video][7 mins]]]></title>
+        <id>https://www.youtube.com/watch?v=jL0ei7E44Ls</id>
+        <link href="https://www.youtube.com/watch?v=jL0ei7E44Ls"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft’s answer to the end of PlayStation discs: a bizarre GitHub stunt]]></title>
+        <id>https://www.theverge.com/tech/961177/microsofts-answer-to-the-end-of-playstation-discs-a-bizarre-github-stunt</id>
+        <link href="https://www.theverge.com/tech/961177/microsofts-answer-to-the-end-of-playstation-discs-a-bizarre-github-stunt"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Science Weekly – Issue 658]]></title>
+        <id>https://datascienceweekly.substack.com/p/data-science-weekly-issue-658</id>
+        <link href="https://datascienceweekly.substack.com/p/data-science-weekly-issue-658"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domino's Pizza parodies Sony's discontinuation of physical games]]></title>
+        <id>https://twitter.com/Dominos_UK/status/2072602429959340517</id>
+        <link href="https://twitter.com/Dominos_UK/status/2072602429959340517"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australians have more negative view of Israel than of China – Essential poll]]></title>
+        <id>https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb</id>
+        <link href="https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
@@ -162,51 +211,23 @@
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[n8n ActiveMQ Node: Publish and Consume Messages in Your Workflows [Free Workflow JSON]]]></title>
-        <id>https://dev.to/pirateprentice/n8n-activemq-node-publish-and-consume-messages-in-your-workflows-free-workflow-json-25ke</id>
-        <link href="https://dev.to/pirateprentice/n8n-activemq-node-publish-and-consume-messages-in-your-workflows-free-workflow-json-25ke"/>
+        <title type="html"><![CDATA[n8n Compression Node: Zip, Gzip, and Decompress Files in Your Workflows [Free Workflow JSON]]]></title>
+        <id>https://dev.to/pirateprentice/n8n-compression-node-zip-gzip-and-decompress-files-in-your-workflows-free-workflow-json-44im</id>
+        <link href="https://dev.to/pirateprentice/n8n-compression-node-zip-gzip-and-decompress-files-in-your-workflows-free-workflow-json-44im"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[n8n Crypto Node: Hash, Encrypt, and Sign Data in Your Workflows (Free Workflow JSON)]]></title>
-        <id>https://dev.to/pirateprentice/n8n-crypto-node-hash-encrypt-and-sign-data-in-your-workflows-free-workflow-json-58j6</id>
-        <link href="https://dev.to/pirateprentice/n8n-crypto-node-hash-encrypt-and-sign-data-in-your-workflows-free-workflow-json-58j6"/>
+        <title type="html"><![CDATA[Stop pasting JWTs into random websites]]></title>
+        <id>https://dev.to/selllami/stop-pasting-jwts-into-random-websites-50f6</id>
+        <link href="https://dev.to/selllami/stop-pasting-jwts-into-random-websites-50f6"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turning a List of Domains Into Contacts With 200 Lines of Plain Fetch]]></title>
-        <id>https://dev.to/scrapemint/turning-a-list-of-domains-into-contacts-with-200-lines-of-plain-fetch-1k2g</id>
-        <link href="https://dev.to/scrapemint/turning-a-list-of-domains-into-contacts-with-200-lines-of-plain-fetch-1k2g"/>
-        <updated>2026-07-02T16:00:00.000Z</updated>
-        <published>2026-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 Day 6 of Learning React: The Day React's Rendering Finally Started Making Sense (HMR, Bundlers & Form Handling)]]></title>
-        <id>https://dev.to/bismay-exe/day-6-of-learning-react-the-day-reacts-rendering-finally-started-making-sense-hmr-bundlers--1epe</id>
-        <link href="https://dev.to/bismay-exe/day-6-of-learning-react-the-day-reacts-rendering-finally-started-making-sense-hmr-bundlers--1epe"/>
-        <updated>2026-07-02T16:00:00.000Z</updated>
-        <published>2026-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n8n Read/Write Files Node: Read, Write, and Process Local Files in Your Workflows [Free Workflow JSON]]]></title>
-        <id>https://dev.to/pirateprentice/n8n-readwrite-files-node-read-write-and-process-local-files-in-your-workflows-free-workflow-i8d</id>
-        <link href="https://dev.to/pirateprentice/n8n-readwrite-files-node-read-write-and-process-local-files-in-your-workflows-free-workflow-i8d"/>
-        <updated>2026-07-02T16:00:00.000Z</updated>
-        <published>2026-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Smart Image: The Free React Image Optimization Library Every Developer Should Try]]></title>
-        <id>https://dev.to/jaimin_patel/react-smart-image-the-free-react-image-optimization-library-every-developer-should-try-1kng</id>
-        <link href="https://dev.to/jaimin_patel/react-smart-image-the-free-react-image-optimization-library-every-developer-should-try-1kng"/>
-        <updated>2026-07-02T16:00:00.000Z</updated>
-        <published>2026-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The two-Reacts bug: when packages aren't singletons]]></title>
-        <id>https://dev.to/r9v/the-two-reacts-bug-when-packages-arent-singletons-492h</id>
-        <link href="https://dev.to/r9v/the-two-reacts-bug-when-packages-arent-singletons-492h"/>
+        <title type="html"><![CDATA[Top Free Open-Source React Data Grid Libraries]]></title>
+        <id>https://dev.to/shanikanishadhi/top-free-open-source-react-data-grid-libraries-215m</id>
+        <link href="https://dev.to/shanikanishadhi/top-free-open-source-react-data-grid-libraries-215m"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
@@ -218,9 +239,51 @@
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Free Open-Source React Data Grid Libraries]]></title>
-        <id>https://dev.to/shanikanishadhi/top-free-open-source-react-data-grid-libraries-215m</id>
-        <link href="https://dev.to/shanikanishadhi/top-free-open-source-react-data-grid-libraries-215m"/>
+        <title type="html"><![CDATA[The two-Reacts bug: when packages aren't singletons]]></title>
+        <id>https://dev.to/r9v/the-two-reacts-bug-when-packages-arent-singletons-492h</id>
+        <link href="https://dev.to/r9v/the-two-reacts-bug-when-packages-arent-singletons-492h"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Smart Image: The Free React Image Optimization Library Every Developer Should Try]]></title>
+        <id>https://dev.to/jaimin_patel/react-smart-image-the-free-react-image-optimization-library-every-developer-should-try-1kng</id>
+        <link href="https://dev.to/jaimin_patel/react-smart-image-the-free-react-image-optimization-library-every-developer-should-try-1kng"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n Read/Write Files Node: Read, Write, and Process Local Files in Your Workflows [Free Workflow JSON]]]></title>
+        <id>https://dev.to/pirateprentice/n8n-readwrite-files-node-read-write-and-process-local-files-in-your-workflows-free-workflow-i8d</id>
+        <link href="https://dev.to/pirateprentice/n8n-readwrite-files-node-read-write-and-process-local-files-in-your-workflows-free-workflow-i8d"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀 Day 6 of Learning React: The Day React's Rendering Finally Started Making Sense (HMR, Bundlers & Form Handling)]]></title>
+        <id>https://dev.to/bismay-exe/day-6-of-learning-react-the-day-reacts-rendering-finally-started-making-sense-hmr-bundlers--1epe</id>
+        <link href="https://dev.to/bismay-exe/day-6-of-learning-react-the-day-reacts-rendering-finally-started-making-sense-hmr-bundlers--1epe"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning a List of Domains Into Contacts With 200 Lines of Plain Fetch]]></title>
+        <id>https://dev.to/scrapemint/turning-a-list-of-domains-into-contacts-with-200-lines-of-plain-fetch-1k2g</id>
+        <link href="https://dev.to/scrapemint/turning-a-list-of-domains-into-contacts-with-200-lines-of-plain-fetch-1k2g"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n Crypto Node: Hash, Encrypt, and Sign Data in Your Workflows (Free Workflow JSON)]]></title>
+        <id>https://dev.to/pirateprentice/n8n-crypto-node-hash-encrypt-and-sign-data-in-your-workflows-free-workflow-json-58j6</id>
+        <link href="https://dev.to/pirateprentice/n8n-crypto-node-hash-encrypt-and-sign-data-in-your-workflows-free-workflow-json-58j6"/>
+        <updated>2026-07-02T16:00:00.000Z</updated>
+        <published>2026-07-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n ActiveMQ Node: Publish and Consume Messages in Your Workflows [Free Workflow JSON]]]></title>
+        <id>https://dev.to/pirateprentice/n8n-activemq-node-publish-and-consume-messages-in-your-workflows-free-workflow-json-25ke</id>
+        <link href="https://dev.to/pirateprentice/n8n-activemq-node-publish-and-consume-messages-in-your-workflows-free-workflow-json-25ke"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
@@ -239,30 +302,9 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI won’t save advertising, says Digitas’ Amy Lanzi]]></title>
-        <id>https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators</id>
-        <link href="https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures]]></title>
-        <id>https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures</id>
-        <link href="https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk denies a report about SpaceX&#8217;s AI phone prototype]]></title>
-        <id>https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk</id>
-        <link href="https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million]]></title>
-        <id>https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds</id>
-        <link href="https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds"/>
+        <title type="html"><![CDATA[BitTorrent&#8217;s disastrous, legendary, and controversial story]]></title>
+        <id>https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy</id>
+        <link href="https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -274,44 +316,30 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BitTorrent&#8217;s disastrous, legendary, and controversial story]]></title>
-        <id>https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy</id>
-        <link href="https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy"/>
+        <title type="html"><![CDATA[Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million]]></title>
+        <id>https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds</id>
+        <link href="https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bublue BuVortex V5 Pool Skimmer Review: An Impractical Cleaner]]></title>
-        <id>https://www.wired.com/review/bublue-buvortex-v5-pool-skimmer/</id>
-        <link href="https://www.wired.com/review/bublue-buvortex-v5-pool-skimmer/"/>
+        <title type="html"><![CDATA[Elon Musk denies a report about SpaceX&#8217;s AI phone prototype]]></title>
+        <id>https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk</id>
+        <link href="https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tried Rips, the Card-Pack App Where Users Spend Thousands Chasing Pricey Pokémon]]></title>
-        <id>https://www.wired.com/story/i-tried-rips-the-card-pack-app-where-users-spend-thousands-chasing-pricey-pokemon/</id>
-        <link href="https://www.wired.com/story/i-tried-rips-the-card-pack-app-where-users-spend-thousands-chasing-pricey-pokemon/"/>
+        <title type="html"><![CDATA[Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures]]></title>
+        <id>https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures</id>
+        <link href="https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Whoop Promo Codes: 20% Off This July 2026]]></title>
-        <id>https://www.wired.com/story/whoop-promo-code/</id>
-        <link href="https://www.wired.com/story/whoop-promo-code/"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces]]></title>
-        <id>https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/</id>
-        <link href="https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse]]></title>
-        <id>https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/</id>
-        <link href="https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/"/>
+        <title type="html"><![CDATA[AI won’t save advertising, says Digitas’ Amy Lanzi]]></title>
+        <id>https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators</id>
+        <link href="https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
@@ -323,44 +351,16 @@
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rivian raises EV sales forecast as Q2 production ramps up]]></title>
-        <id>https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/</id>
-        <link href="https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/"/>
+        <title type="html"><![CDATA[Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse]]></title>
+        <id>https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/</id>
+        <link href="https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bending Spoons defies SaaS slump, surges 40% on first day of trading]]></title>
-        <id>https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/</id>
-        <link href="https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare’s new policy pushes AI companies to pay for publishers’ content]]></title>
-        <id>https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/</id>
-        <link href="https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neocloud Together AI raises $800M, leaps to $8.3B valuation]]></title>
-        <id>https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/</id>
-        <link href="https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ancient grain shows early lab promise against a key Alzheimer's protein]]></title>
-        <id>https://sciencex.com/news/2026-07-ancient-grain-early-lab-key.html</id>
-        <link href="https://sciencex.com/news/2026-07-ancient-grain-early-lab-key.html"/>
-        <updated>2026-07-01T16:00:00.000Z</updated>
-        <published>2026-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Is Getting Dumber. That's Not a Good Thing. [video]]]></title>
-        <id>https://www.youtube.com/watch?v=vXHPRQTwrr4</id>
-        <link href="https://www.youtube.com/watch?v=vXHPRQTwrr4"/>
+        <title type="html"><![CDATA[Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces]]></title>
+        <id>https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/</id>
+        <link href="https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"/>
         <updated>2026-07-01T16:00:00.000Z</updated>
         <published>2026-07-01T16:00:00.000Z</published>
     </entry>
