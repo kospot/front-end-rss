@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-04T00:01:34.657Z</updated>
+    <updated>2026-07-04T02:01:15.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,86 +29,37 @@
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forget the AI bubble. The IMF says the real threat is the mountain of debt]]></title>
-        <id>https://www.msn.com/en-us/money/other/forget-the-ai-bubble-the-imf-says-the-real-threat-is-the-mountain-of-debt-behind-it-and-60-of-planned-data-centers-haven-t-even-broken-ground/ar-AA278Tti</id>
-        <link href="https://www.msn.com/en-us/money/other/forget-the-ai-bubble-the-imf-says-the-real-threat-is-the-mountain-of-debt-behind-it-and-60-of-planned-data-centers-haven-t-even-broken-ground/ar-AA278Tti"/>
+        <title type="html"><![CDATA[Show HN: I've created a platform to help indie hackers with idea validation]]></title>
+        <id>https://www.validatehunt.com</id>
+        <link href="https://www.validatehunt.com"/>
         <updated>2026-07-03T16:00:00.000Z</updated>
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists discover guidance system for migratory songbirds]]></title>
-        <id>https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/</id>
-        <link href="https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/"/>
+        <title type="html"><![CDATA[Mecha Chameleon Games browser guide hub]]></title>
+        <id>https://mechachameleon.games/</id>
+        <link href="https://mechachameleon.games/"/>
         <updated>2026-07-03T16:00:00.000Z</updated>
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google keeps deleting my comment on this Tech Over Tea video about FPGAs]]></title>
-        <id>https://www.youtube.com/watch?v=yubuGm1dM50</id>
-        <link href="https://www.youtube.com/watch?v=yubuGm1dM50"/>
+        <title type="html"><![CDATA[Proof That the Unraveling of MAGA Has Begun [video][46 Mins]]]></title>
+        <id>https://www.youtube.com/watch?v=x_Y7Zf4Nhe8</id>
+        <link href="https://www.youtube.com/watch?v=x_Y7Zf4Nhe8"/>
         <updated>2026-07-03T16:00:00.000Z</updated>
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bending Spoons Reviving AOL, Vimeo and Other Internet Oldies Amid the A.I. Boom]]></title>
-        <id>https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html</id>
-        <link href="https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html"/>
+        <title type="html"><![CDATA[EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments [pdf]]]></title>
+        <id>https://edge-bench.org/paper.pdf</id>
+        <link href="https://edge-bench.org/paper.pdf"/>
         <updated>2026-07-03T16:00:00.000Z</updated>
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Trans-America Trail Guide]]></title>
-        <id>https://transamtrail.com/plan/</id>
-        <link href="https://transamtrail.com/plan/"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You don't need Electron to build native apps in TypeScript [video]]]></title>
-        <id>https://www.youtube.com/watch?v=o5RDfAmzE7s</id>
-        <link href="https://www.youtube.com/watch?v=o5RDfAmzE7s"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best 3D Modeling Apps for iPad and Android (2026)]]></title>
-        <id>https://bambu3design.com/best-3d-modeling-apps-for-ipad-android-2026-create-3d-models-anywhere/</id>
-        <link href="https://bambu3design.com/best-3d-modeling-apps-for-ipad-android-2026-create-3d-models-anywhere/"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to migrate from Proxmox VE 8 to 9: step-by-step guide (2026)]]></title>
-        <id>https://lucasaguiar.xyz/en/posts/migracao-proxmox-8-9-2026/</id>
-        <link href="https://lucasaguiar.xyz/en/posts/migracao-proxmox-8-9-2026/"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bought an expired domain. Then I inherited their AWS Root account]]></title>
-        <id>https://easydns.com/blog/2026/07/03/bought-an-expired-startup-domain-a-few-days-later-i-inherited-their-aws-root-account/</id>
-        <link href="https://easydns.com/blog/2026/07/03/bought-an-expired-startup-domain-a-few-days-later-i-inherited-their-aws-root-account/"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Ocean Science Report: most complete picture of ocean science]]></title>
-        <id>https://www.ioc.unesco.org/en/articles/global-ocean-science-report-worlds-most-complete-picture-ocean-science-released</id>
-        <link href="https://www.ioc.unesco.org/en/articles/global-ocean-science-report-worlds-most-complete-picture-ocean-science-released"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Termi Protocol: Watch AI Coding Agents Build in 3D]]></title>
-        <id>https://termiprotocol.com/</id>
-        <link href="https://termiprotocol.com/"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell]]></title>
-        <id>https://www.wafer.ai/blog/glm52-amd</id>
-        <link href="https://www.wafer.ai/blog/glm52-amd"/>
+        <title type="html"><![CDATA[SecretSpec 0.13: SDKs for Python, Node.js, Go, Ruby, and Haskell]]></title>
+        <id>https://secretspec.dev/blog/secretspec-0-13-sdks/</id>
+        <link href="https://secretspec.dev/blog/secretspec-0-13-sdks/"/>
         <updated>2026-07-03T16:00:00.000Z</updated>
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
@@ -120,16 +71,93 @@
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forget LLMs. World Models Are AI’s Next Leap]]></title>
-        <id>https://pub.towardsai.net/forget-llms-world-models-are-ais-next-leap-fd3980cd7166?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/forget-llms-world-models-are-ais-next-leap-fd3980cd7166?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell]]></title>
+        <id>https://www.wafer.ai/blog/glm52-amd</id>
+        <link href="https://www.wafer.ai/blog/glm52-amd"/>
         <updated>2026-07-03T16:00:00.000Z</updated>
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ LangChain Series #4: Chains Explained — Building AI Workflows with LCEL]]></title>
-        <id>https://pub.towardsai.net/langchain-series-4-chains-explained-building-ai-workflows-with-lcel-1d4f125ea740?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/langchain-series-4-chains-explained-building-ai-workflows-with-lcel-1d4f125ea740?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Termi Protocol: Watch AI Coding Agents Build in 3D]]></title>
+        <id>https://termiprotocol.com/</id>
+        <link href="https://termiprotocol.com/"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Ocean Science Report: most complete picture of ocean science]]></title>
+        <id>https://www.ioc.unesco.org/en/articles/global-ocean-science-report-worlds-most-complete-picture-ocean-science-released</id>
+        <link href="https://www.ioc.unesco.org/en/articles/global-ocean-science-report-worlds-most-complete-picture-ocean-science-released"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bought an expired domain. Then I inherited their AWS Root account]]></title>
+        <id>https://easydns.com/blog/2026/07/03/bought-an-expired-startup-domain-a-few-days-later-i-inherited-their-aws-root-account/</id>
+        <link href="https://easydns.com/blog/2026/07/03/bought-an-expired-startup-domain-a-few-days-later-i-inherited-their-aws-root-account/"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to migrate from Proxmox VE 8 to 9: step-by-step guide (2026)]]></title>
+        <id>https://lucasaguiar.xyz/en/posts/migracao-proxmox-8-9-2026/</id>
+        <link href="https://lucasaguiar.xyz/en/posts/migracao-proxmox-8-9-2026/"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best 3D Modeling Apps for iPad and Android (2026)]]></title>
+        <id>https://bambu3design.com/best-3d-modeling-apps-for-ipad-android-2026-create-3d-models-anywhere/</id>
+        <link href="https://bambu3design.com/best-3d-modeling-apps-for-ipad-android-2026-create-3d-models-anywhere/"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You don't need Electron to build native apps in TypeScript [video]]]></title>
+        <id>https://www.youtube.com/watch?v=o5RDfAmzE7s</id>
+        <link href="https://www.youtube.com/watch?v=o5RDfAmzE7s"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trans-America Trail Guide]]></title>
+        <id>https://transamtrail.com/plan/</id>
+        <link href="https://transamtrail.com/plan/"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bending Spoons Reviving AOL, Vimeo and Other Internet Oldies Amid the A.I. Boom]]></title>
+        <id>https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html</id>
+        <link href="https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google keeps deleting my comment on this Tech Over Tea video about FPGAs]]></title>
+        <id>https://www.youtube.com/watch?v=yubuGm1dM50</id>
+        <link href="https://www.youtube.com/watch?v=yubuGm1dM50"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists discover guidance system for migratory songbirds]]></title>
+        <id>https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/</id>
+        <link href="https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forget the AI bubble. The IMF says the real threat is the mountain of debt]]></title>
+        <id>https://www.msn.com/en-us/money/other/forget-the-ai-bubble-the-imf-says-the-real-threat-is-the-mountain-of-debt-behind-it-and-60-of-planned-data-centers-haven-t-even-broken-ground/ar-AA278Tti</id>
+        <link href="https://www.msn.com/en-us/money/other/forget-the-ai-bubble-the-imf-says-the-real-threat-is-the-mountain-of-debt-behind-it-and-60-of-planned-data-centers-haven-t-even-broken-ground/ar-AA278Tti"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Well-Structured Python SDK]]></title>
+        <id>https://pub.towardsai.net/how-to-create-a-well-structured-python-sdk-99f0da43bab3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-create-a-well-structured-python-sdk-99f0da43bab3?source=rss----98111c9905da---4"/>
         <updated>2026-07-03T16:00:00.000Z</updated>
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
@@ -141,9 +169,16 @@
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create a Well-Structured Python SDK]]></title>
-        <id>https://pub.towardsai.net/how-to-create-a-well-structured-python-sdk-99f0da43bab3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-create-a-well-structured-python-sdk-99f0da43bab3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[ LangChain Series #4: Chains Explained — Building AI Workflows with LCEL]]></title>
+        <id>https://pub.towardsai.net/langchain-series-4-chains-explained-building-ai-workflows-with-lcel-1d4f125ea740?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/langchain-series-4-chains-explained-building-ai-workflows-with-lcel-1d4f125ea740?source=rss----98111c9905da---4"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forget LLMs. World Models Are AI’s Next Leap]]></title>
+        <id>https://pub.towardsai.net/forget-llms-world-models-are-ais-next-leap-fd3980cd7166?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/forget-llms-world-models-are-ais-next-leap-fd3980cd7166?source=rss----98111c9905da---4"/>
         <updated>2026-07-03T16:00:00.000Z</updated>
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
@@ -169,86 +204,30 @@
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[n8n Markdown Node: Convert Markdown to HTML and HTML to Markdown in Your Workflows [Free Workflow JSON]]]></title>
-        <id>https://dev.to/pirateprentice/n8n-markdown-node-convert-markdown-to-html-and-html-to-markdown-in-your-workflows-free-workflow-424b</id>
-        <link href="https://dev.to/pirateprentice/n8n-markdown-node-convert-markdown-to-html-and-html-to-markdown-in-your-workflows-free-workflow-424b"/>
+        <title type="html"><![CDATA[Use GPT, Claude, and Gemini with the OpenAI SDK — one base_url, any language]]></title>
+        <id>https://dev.to/chenxiao5580cmd/use-gpt-claude-and-gemini-with-the-openai-sdk-one-baseurl-any-language-7kb</id>
+        <link href="https://dev.to/chenxiao5580cmd/use-gpt-claude-and-gemini-with-the-openai-sdk-one-baseurl-any-language-7kb"/>
         <updated>2026-07-03T16:00:00.000Z</updated>
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[n8n Convert to File Node: Build CSV, JSON, Excel, XML, and Text Files from Workflow Data [Free Workflow JSON]]]></title>
-        <id>https://dev.to/pirateprentice/n8n-convert-to-file-node-build-csv-json-excel-xml-and-text-files-from-workflow-data-free-2med</id>
-        <link href="https://dev.to/pirateprentice/n8n-convert-to-file-node-build-csv-json-excel-xml-and-text-files-from-workflow-data-free-2med"/>
+        <title type="html"><![CDATA[给孩子做的生日3D场景：一个爸爸的技术小实验]]></title>
+        <id>https://dev.to/zealot2002/gei-hai-zi-zuo-de-sheng-ri-3dchang-jing-ge-ba-ba-de-ji-zhu-xiao-shi-yan-56j3</id>
+        <link href="https://dev.to/zealot2002/gei-hai-zi-zuo-de-sheng-ri-3dchang-jing-ge-ba-ba-de-ji-zhu-xiao-shi-yan-56j3"/>
         <updated>2026-07-03T16:00:00.000Z</updated>
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The South Park Guide to Software Engineering: Why Cartman is a Bad PM, and Butters is Your Best QA]]></title>
-        <id>https://dev.to/jisheng_agent/the-south-park-guide-to-software-engineering-why-cartman-is-a-bad-pm-and-butters-is-your-best-qa-3kg</id>
-        <link href="https://dev.to/jisheng_agent/the-south-park-guide-to-software-engineering-why-cartman-is-a-bad-pm-and-butters-is-your-best-qa-3kg"/>
+        <title type="html"><![CDATA[Thriving in Low Volatility: Leveraging APIs and Automation for Trading Opportunities in the S&P 500 and Nasdaq]]></title>
+        <id>https://dev.to/nsst/thriving-in-low-volatility-leveraging-apis-and-automation-for-trading-opportunities-in-the-sp-500-2bgh</id>
+        <link href="https://dev.to/nsst/thriving-in-low-volatility-leveraging-apis-and-automation-for-trading-opportunities-in-the-sp-500-2bgh"/>
         <updated>2026-07-03T16:00:00.000Z</updated>
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free URL Encoder Tool Every Developer Needs Today]]></title>
-        <id>https://dev.to/zain_ulabedin_a652700f02/free-url-encoder-tool-every-developer-needs-today-5h6j</id>
-        <link href="https://dev.to/zain_ulabedin_a652700f02/free-url-encoder-tool-every-developer-needs-today-5h6j"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Encode Data Fast: The Free Base64 Developer Tool]]></title>
-        <id>https://dev.to/zain_ulabedin_a652700f02/encode-data-fast-the-free-base64-developer-tool-1f63</id>
-        <link href="https://dev.to/zain_ulabedin_a652700f02/encode-data-fast-the-free-base64-developer-tool-1f63"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A practical AI image workflow for product visuals and short videos]]></title>
-        <id>https://dev.to/bobc_zanta/a-practical-ai-image-workflow-for-product-visuals-and-short-videos-5bk8</id>
-        <link href="https://dev.to/bobc_zanta/a-practical-ai-image-workflow-for-product-visuals-and-short-videos-5bk8"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clark Audio Lofi Panda 4 v4.0.4 for macOS]]></title>
-        <id>https://dev.to/will_jack_ce200345854864e/clark-audio-lofi-panda-4-v404-for-macos-4okn</id>
-        <link href="https://dev.to/will_jack_ce200345854864e/clark-audio-lofi-panda-4-v404-for-macos-4okn"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n8n QR Code Node: Generate QR Codes in Your Workflows (Free Workflow JSON)]]></title>
-        <id>https://dev.to/pirateprentice/n8n-qr-code-node-generate-qr-codes-in-your-workflows-free-workflow-json-34b1</id>
-        <link href="https://dev.to/pirateprentice/n8n-qr-code-node-generate-qr-codes-in-your-workflows-free-workflow-json-34b1"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sample Logic HeartBeat Guitar KONTAKT Library Download]]></title>
-        <id>https://dev.to/will_jack_ce200345854864e/sample-logic-heartbeat-guitar-kontakt-library-download-43b5</id>
-        <link href="https://dev.to/will_jack_ce200345854864e/sample-logic-heartbeat-guitar-kontakt-library-download-43b5"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How WebAssembly and Client-Side Engines Power High-Speed PDF Compression]]></title>
-        <id>https://dev.to/sangam19971/how-webassembly-and-client-side-engines-power-high-speed-pdf-compression-3ko</id>
-        <link href="https://dev.to/sangam19971/how-webassembly-and-client-side-engines-power-high-speed-pdf-compression-3ko"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pragmatic Migration: Moving from AngularJS to Angular v22]]></title>
-        <id>https://dev.to/prestonwest/the-pragmatic-migration-moving-from-angularjs-to-angular-v22-1n0e</id>
-        <link href="https://dev.to/prestonwest/the-pragmatic-migration-moving-from-angularjs-to-angular-v22-1n0e"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning a web tool into a zero-dependency MCP server]]></title>
-        <id>https://dev.to/chris_morris/turning-a-web-tool-into-a-zero-dependency-mcp-server-21ca</id>
-        <link href="https://dev.to/chris_morris/turning-a-web-tool-into-a-zero-dependency-mcp-server-21ca"/>
+        <title type="html"><![CDATA[Detect Any Website's Tech Stack With One HTTP Request]]></title>
+        <id>https://dev.to/scrapemint/detect-any-websites-tech-stack-with-one-http-request-3opf</id>
+        <link href="https://dev.to/scrapemint/detect-any-websites-tech-stack-with-one-http-request-3opf"/>
         <updated>2026-07-03T16:00:00.000Z</updated>
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
@@ -260,9 +239,86 @@
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Detect Any Website's Tech Stack With One HTTP Request]]></title>
-        <id>https://dev.to/scrapemint/detect-any-websites-tech-stack-with-one-http-request-3opf</id>
-        <link href="https://dev.to/scrapemint/detect-any-websites-tech-stack-with-one-http-request-3opf"/>
+        <title type="html"><![CDATA[Turning a web tool into a zero-dependency MCP server]]></title>
+        <id>https://dev.to/chris_morris/turning-a-web-tool-into-a-zero-dependency-mcp-server-21ca</id>
+        <link href="https://dev.to/chris_morris/turning-a-web-tool-into-a-zero-dependency-mcp-server-21ca"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pragmatic Migration: Moving from AngularJS to Angular v22]]></title>
+        <id>https://dev.to/prestonwest/the-pragmatic-migration-moving-from-angularjs-to-angular-v22-1n0e</id>
+        <link href="https://dev.to/prestonwest/the-pragmatic-migration-moving-from-angularjs-to-angular-v22-1n0e"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How WebAssembly and Client-Side Engines Power High-Speed PDF Compression]]></title>
+        <id>https://dev.to/sangam19971/how-webassembly-and-client-side-engines-power-high-speed-pdf-compression-3ko</id>
+        <link href="https://dev.to/sangam19971/how-webassembly-and-client-side-engines-power-high-speed-pdf-compression-3ko"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sample Logic HeartBeat Guitar KONTAKT Library Download]]></title>
+        <id>https://dev.to/will_jack_ce200345854864e/sample-logic-heartbeat-guitar-kontakt-library-download-43b5</id>
+        <link href="https://dev.to/will_jack_ce200345854864e/sample-logic-heartbeat-guitar-kontakt-library-download-43b5"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n QR Code Node: Generate QR Codes in Your Workflows (Free Workflow JSON)]]></title>
+        <id>https://dev.to/pirateprentice/n8n-qr-code-node-generate-qr-codes-in-your-workflows-free-workflow-json-34b1</id>
+        <link href="https://dev.to/pirateprentice/n8n-qr-code-node-generate-qr-codes-in-your-workflows-free-workflow-json-34b1"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clark Audio Lofi Panda 4 v4.0.4 for macOS]]></title>
+        <id>https://dev.to/will_jack_ce200345854864e/clark-audio-lofi-panda-4-v404-for-macos-4okn</id>
+        <link href="https://dev.to/will_jack_ce200345854864e/clark-audio-lofi-panda-4-v404-for-macos-4okn"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A practical AI image workflow for product visuals and short videos]]></title>
+        <id>https://dev.to/bobc_zanta/a-practical-ai-image-workflow-for-product-visuals-and-short-videos-5bk8</id>
+        <link href="https://dev.to/bobc_zanta/a-practical-ai-image-workflow-for-product-visuals-and-short-videos-5bk8"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encode Data Fast: The Free Base64 Developer Tool]]></title>
+        <id>https://dev.to/zain_ulabedin_a652700f02/encode-data-fast-the-free-base64-developer-tool-1f63</id>
+        <link href="https://dev.to/zain_ulabedin_a652700f02/encode-data-fast-the-free-base64-developer-tool-1f63"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free URL Encoder Tool Every Developer Needs Today]]></title>
+        <id>https://dev.to/zain_ulabedin_a652700f02/free-url-encoder-tool-every-developer-needs-today-5h6j</id>
+        <link href="https://dev.to/zain_ulabedin_a652700f02/free-url-encoder-tool-every-developer-needs-today-5h6j"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The South Park Guide to Software Engineering: Why Cartman is a Bad PM, and Butters is Your Best QA]]></title>
+        <id>https://dev.to/jisheng_agent/the-south-park-guide-to-software-engineering-why-cartman-is-a-bad-pm-and-butters-is-your-best-qa-3kg</id>
+        <link href="https://dev.to/jisheng_agent/the-south-park-guide-to-software-engineering-why-cartman-is-a-bad-pm-and-butters-is-your-best-qa-3kg"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n Convert to File Node: Build CSV, JSON, Excel, XML, and Text Files from Workflow Data [Free Workflow JSON]]]></title>
+        <id>https://dev.to/pirateprentice/n8n-convert-to-file-node-build-csv-json-excel-xml-and-text-files-from-workflow-data-free-2med</id>
+        <link href="https://dev.to/pirateprentice/n8n-convert-to-file-node-build-csv-json-excel-xml-and-text-files-from-workflow-data-free-2med"/>
+        <updated>2026-07-03T16:00:00.000Z</updated>
+        <published>2026-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n Markdown Node: Convert Markdown to HTML and HTML to Markdown in Your Workflows [Free Workflow JSON]]]></title>
+        <id>https://dev.to/pirateprentice/n8n-markdown-node-convert-markdown-to-html-and-html-to-markdown-in-your-workflows-free-workflow-424b</id>
+        <link href="https://dev.to/pirateprentice/n8n-markdown-node-convert-markdown-to-html-and-html-to-markdown-in-your-workflows-free-workflow-424b"/>
         <updated>2026-07-03T16:00:00.000Z</updated>
         <published>2026-07-03T16:00:00.000Z</published>
     </entry>
@@ -305,62 +361,6 @@
         <title type="html"><![CDATA[Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul]]></title>
         <id>https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/</id>
         <link href="https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/"/>
-        <updated>2026-07-02T16:00:00.000Z</updated>
-        <published>2026-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Your Favorite Gadgets Are Getting Way More Expensive … Again]]></title>
-        <id>https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/</id>
-        <link href="https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/"/>
-        <updated>2026-07-02T16:00:00.000Z</updated>
-        <published>2026-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last chance to apply — Startup Battlefield Australia applications close July 6]]></title>
-        <id>https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/</id>
-        <link href="https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/"/>
-        <updated>2026-07-02T16:00:00.000Z</updated>
-        <published>2026-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees]]></title>
-        <id>https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/</id>
-        <link href="https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/"/>
-        <updated>2026-07-02T16:00:00.000Z</updated>
-        <published>2026-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta quietly launches vibe-coded gaming app Pocket]]></title>
-        <id>https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/</id>
-        <link href="https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"/>
-        <updated>2026-07-02T16:00:00.000Z</updated>
-        <published>2026-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections]]></title>
-        <id>https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/</id>
-        <link href="https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/"/>
-        <updated>2026-07-02T16:00:00.000Z</updated>
-        <published>2026-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mistral vs. Claude on our onboarding: 4× faster, 30% cheaper]]></title>
-        <id>https://squidler.io/blog/eu-models-1-discovery-mistral</id>
-        <link href="https://squidler.io/blog/eu-models-1-discovery-mistral"/>
-        <updated>2026-07-02T16:00:00.000Z</updated>
-        <published>2026-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Fighter Jets Lock on (and How the Targets Know) (2014)]]></title>
-        <id>https://gizmodo.com/how-fighter-jets-lock-on-and-how-the-targets-know-1644871272</id>
-        <link href="https://gizmodo.com/how-fighter-jets-lock-on-and-how-the-targets-know-1644871272"/>
-        <updated>2026-07-02T16:00:00.000Z</updated>
-        <published>2026-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pilot Shell: Spec-driven plans; enforced quality gates; persistent knowledge]]></title>
-        <id>https://github.com/maxritter/pilot-shell</id>
-        <link href="https://github.com/maxritter/pilot-shell"/>
         <updated>2026-07-02T16:00:00.000Z</updated>
         <published>2026-07-02T16:00:00.000Z</published>
     </entry>
