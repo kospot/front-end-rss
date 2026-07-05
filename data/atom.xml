@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-05T02:01:53.367Z</updated>
+    <updated>2026-07-05T04:01:03.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,142 +22,37 @@
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guix substitute and guix pull vulnerabilities]]></title>
-        <id>https://guix.gnu.org/blog/2026/guix-substitute-pull-vulnerabilities/</id>
-        <link href="https://guix.gnu.org/blog/2026/guix-substitute-pull-vulnerabilities/"/>
+        <title type="html"><![CDATA[Show HN: How do you guys keep your journey diaries?]]></title>
+        <id>https://journeydiaries.vercel.app/</id>
+        <link href="https://journeydiaries.vercel.app/"/>
         <updated>2026-07-04T16:00:00.000Z</updated>
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists reverse brain aging, with a nasal spray]]></title>
-        <id>https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/</id>
-        <link href="https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/"/>
+        <title type="html"><![CDATA[Writing Blogs or News Articles? Free and Fast Word Counter -Accurate and Private]]></title>
+        <id>https://fastwordcount.com/</id>
+        <link href="https://fastwordcount.com/"/>
         <updated>2026-07-04T16:00:00.000Z</updated>
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Container 1.0 Released as a Native Docker Alternative for macOS]]></title>
-        <id>https://linuxiac.com/apple-container-1-0-released-as-a-native-docker-alternative-for-macos/</id>
-        <link href="https://linuxiac.com/apple-container-1-0-released-as-a-native-docker-alternative-for-macos/"/>
+        <title type="html"><![CDATA[In AI-exposed jobs, the youngest workers are losing ground]]></title>
+        <id>https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/</id>
+        <link href="https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/"/>
         <updated>2026-07-04T16:00:00.000Z</updated>
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reflections on the Guillotine]]></title>
-        <id>https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine</id>
-        <link href="https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine"/>
+        <title type="html"><![CDATA[Backon – Python retry (zero deps, circuit breaker, async native)]]></title>
+        <id>https://github.com/Llucs/backon</id>
+        <link href="https://github.com/Llucs/backon"/>
         <updated>2026-07-04T16:00:00.000Z</updated>
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blood Cell 'Nurseries' Upend Understanding of Human Physiology]]></title>
-        <id>https://news.feinberg.northwestern.edu/2026/07/02/blood-cell-nurseries-upend-understanding-of-human-physiology/</id>
-        <link href="https://news.feinberg.northwestern.edu/2026/07/02/blood-cell-nurseries-upend-understanding-of-human-physiology/"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be a Hikikomori for Science]]></title>
-        <id>https://www.theregister.com/science/2026/07/04/nasa-says-it-will-isolate-volunteers-from-the-outside-world-for-a-year/5266558</id>
-        <link href="https://www.theregister.com/science/2026/07/04/nasa-says-it-will-isolate-volunteers-from-the-outside-world-for-a-year/5266558"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxying inference requests in 6ms with Pingora, Envoy, and Spanner]]></title>
-        <id>https://modal.com/blog/serverless-servers</id>
-        <link href="https://modal.com/blog/serverless-servers"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brawndo Plasma Thermos Makes What Plants Crave [video]]]></title>
-        <id>https://www.youtube.com/watch?v=brfSLxoHUps</id>
-        <link href="https://www.youtube.com/watch?v=brfSLxoHUps"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tungsten – an expressive, fast programming language]]></title>
-        <id>https://tungsten-lang.org/</id>
-        <link href="https://tungsten-lang.org/"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mapping with In-Memory Layers to Reduce LLM Overload]]></title>
-        <id>https://ridgetext.com/blog/mapbox-llm-composition</id>
-        <link href="https://ridgetext.com/blog/mapbox-llm-composition"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists discover a surprising link between Vitamin C and brain health]]></title>
-        <id>https://www.sciencedaily.com/releases/2026/06/260626030428.htm</id>
-        <link href="https://www.sciencedaily.com/releases/2026/06/260626030428.htm"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi yield comparison, read before depositing]]></title>
-        <id>https://hduynam99.substack.com/p/how-to-find-the-best-defi-yield</id>
-        <link href="https://hduynam99.substack.com/p/how-to-find-the-best-defi-yield"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux DRM Scheduler Patches Yield Improvement for Job Submission Latency]]></title>
-        <id>https://www.phoronix.com/news/DRM-Scheduler-Lower-Job-Submit</id>
-        <link href="https://www.phoronix.com/news/DRM-Scheduler-Lower-Job-Submit"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Went Looking for Dignity and found it here [video]]]></title>
-        <id>https://www.youtube.com/watch?v=4gFGFbctEe0</id>
-        <link href="https://www.youtube.com/watch?v=4gFGFbctEe0"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alibaba/page-agent: in-page GUI agent. Control web interfaces]]></title>
-        <id>https://github.com/alibaba/page-agent</id>
-        <link href="https://github.com/alibaba/page-agent"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small, odd, fleeting moments in which a neighborhood briefly exceeds itself]]></title>
-        <id>https://www.neighborhood-stills.com/</id>
-        <link href="https://www.neighborhood-stills.com/"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress]]></title>
-        <id>https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/</id>
-        <link href="https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tea-dash – a gh-dash-style terminal dashboard for Gitea and Forgejo]]></title>
-        <id>https://github.com/gbarany/tea-dash</id>
-        <link href="https://github.com/gbarany/tea-dash"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edeward Neumeier talks about 'RoboCop']]></title>
-        <id>http://www.money-into-light.com/2013/07/edward-neumeier-talks-about-robocop.html</id>
-        <link href="http://www.money-into-light.com/2013/07/edward-neumeier-talks-about-robocop.html"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invisible Cities: The Legal Analysis of Space Based Solar Power]]></title>
-        <id>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6881678&amp;__cf_chl_f_tk=hLQWAnW2Nv4B5PaV4xX16mFKY6ZcdYe5kns6VhbvSBE-1783201819-1.0.1.1-Q.b4.IL77H5gphXxXez_vTHU_DWXLrRtqYpmJTYM6dI</id>
-        <link href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6881678&amp;__cf_chl_f_tk=hLQWAnW2Nv4B5PaV4xX16mFKY6ZcdYe5kns6VhbvSBE-1783201819-1.0.1.1-Q.b4.IL77H5gphXxXez_vTHU_DWXLrRtqYpmJTYM6dI"/>
+        <title type="html"><![CDATA[3D Airplane tracker on Mercator map]]></title>
+        <id>https://github.com/jamalrfordii-arch/Vanguard-Map</id>
+        <link href="https://github.com/jamalrfordii-arch/Vanguard-Map"/>
         <updated>2026-07-04T16:00:00.000Z</updated>
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
@@ -169,9 +64,142 @@
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Airplane tracker on Mercator map]]></title>
-        <id>https://github.com/jamalrfordii-arch/Vanguard-Map</id>
-        <link href="https://github.com/jamalrfordii-arch/Vanguard-Map"/>
+        <title type="html"><![CDATA[Invisible Cities: The Legal Analysis of Space Based Solar Power]]></title>
+        <id>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6881678&amp;__cf_chl_f_tk=hLQWAnW2Nv4B5PaV4xX16mFKY6ZcdYe5kns6VhbvSBE-1783201819-1.0.1.1-Q.b4.IL77H5gphXxXez_vTHU_DWXLrRtqYpmJTYM6dI</id>
+        <link href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6881678&amp;__cf_chl_f_tk=hLQWAnW2Nv4B5PaV4xX16mFKY6ZcdYe5kns6VhbvSBE-1783201819-1.0.1.1-Q.b4.IL77H5gphXxXez_vTHU_DWXLrRtqYpmJTYM6dI"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edeward Neumeier talks about 'RoboCop']]></title>
+        <id>http://www.money-into-light.com/2013/07/edward-neumeier-talks-about-robocop.html</id>
+        <link href="http://www.money-into-light.com/2013/07/edward-neumeier-talks-about-robocop.html"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tea-dash – a gh-dash-style terminal dashboard for Gitea and Forgejo]]></title>
+        <id>https://github.com/gbarany/tea-dash</id>
+        <link href="https://github.com/gbarany/tea-dash"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress]]></title>
+        <id>https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/</id>
+        <link href="https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small, odd, fleeting moments in which a neighborhood briefly exceeds itself]]></title>
+        <id>https://www.neighborhood-stills.com/</id>
+        <link href="https://www.neighborhood-stills.com/"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alibaba/page-agent: in-page GUI agent. Control web interfaces]]></title>
+        <id>https://github.com/alibaba/page-agent</id>
+        <link href="https://github.com/alibaba/page-agent"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Went Looking for Dignity and found it here [video]]]></title>
+        <id>https://www.youtube.com/watch?v=4gFGFbctEe0</id>
+        <link href="https://www.youtube.com/watch?v=4gFGFbctEe0"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux DRM Scheduler Patches Yield Improvement for Job Submission Latency]]></title>
+        <id>https://www.phoronix.com/news/DRM-Scheduler-Lower-Job-Submit</id>
+        <link href="https://www.phoronix.com/news/DRM-Scheduler-Lower-Job-Submit"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi yield comparison, read before depositing]]></title>
+        <id>https://hduynam99.substack.com/p/how-to-find-the-best-defi-yield</id>
+        <link href="https://hduynam99.substack.com/p/how-to-find-the-best-defi-yield"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists discover a surprising link between Vitamin C and brain health]]></title>
+        <id>https://www.sciencedaily.com/releases/2026/06/260626030428.htm</id>
+        <link href="https://www.sciencedaily.com/releases/2026/06/260626030428.htm"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mapping with In-Memory Layers to Reduce LLM Overload]]></title>
+        <id>https://ridgetext.com/blog/mapbox-llm-composition</id>
+        <link href="https://ridgetext.com/blog/mapbox-llm-composition"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tungsten – an expressive, fast programming language]]></title>
+        <id>https://tungsten-lang.org/</id>
+        <link href="https://tungsten-lang.org/"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brawndo Plasma Thermos Makes What Plants Crave [video]]]></title>
+        <id>https://www.youtube.com/watch?v=brfSLxoHUps</id>
+        <link href="https://www.youtube.com/watch?v=brfSLxoHUps"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxying inference requests in 6ms with Pingora, Envoy, and Spanner]]></title>
+        <id>https://modal.com/blog/serverless-servers</id>
+        <link href="https://modal.com/blog/serverless-servers"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Be a Hikikomori for Science]]></title>
+        <id>https://www.theregister.com/science/2026/07/04/nasa-says-it-will-isolate-volunteers-from-the-outside-world-for-a-year/5266558</id>
+        <link href="https://www.theregister.com/science/2026/07/04/nasa-says-it-will-isolate-volunteers-from-the-outside-world-for-a-year/5266558"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blood Cell 'Nurseries' Upend Understanding of Human Physiology]]></title>
+        <id>https://news.feinberg.northwestern.edu/2026/07/02/blood-cell-nurseries-upend-understanding-of-human-physiology/</id>
+        <link href="https://news.feinberg.northwestern.edu/2026/07/02/blood-cell-nurseries-upend-understanding-of-human-physiology/"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflections on the Guillotine]]></title>
+        <id>https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine</id>
+        <link href="https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Container 1.0 Released as a Native Docker Alternative for macOS]]></title>
+        <id>https://linuxiac.com/apple-container-1-0-released-as-a-native-docker-alternative-for-macos/</id>
+        <link href="https://linuxiac.com/apple-container-1-0-released-as-a-native-docker-alternative-for-macos/"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists reverse brain aging, with a nasal spray]]></title>
+        <id>https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/</id>
+        <link href="https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guix substitute and guix pull vulnerabilities]]></title>
+        <id>https://guix.gnu.org/blog/2026/guix-substitute-pull-vulnerabilities/</id>
+        <link href="https://guix.gnu.org/blog/2026/guix-substitute-pull-vulnerabilities/"/>
         <updated>2026-07-04T16:00:00.000Z</updated>
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
@@ -190,114 +218,30 @@
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[n8n Question and Answer Chain Node: Build Retrieval-Augmented Workflows with Any Document [Free Workflow JSON]]]></title>
-        <id>https://dev.to/pirateprentice/n8n-question-and-answer-chain-node-build-retrieval-augmented-workflows-with-any-document-free-3h0k</id>
-        <link href="https://dev.to/pirateprentice/n8n-question-and-answer-chain-node-build-retrieval-augmented-workflows-with-any-document-free-3h0k"/>
+        <title type="html"><![CDATA[I built a background remover that keeps the fine hair edges]]></title>
+        <id>https://dev.to/kunstudio/i-built-a-background-remover-that-keeps-the-fine-hair-edges-1c69</id>
+        <link href="https://dev.to/kunstudio/i-built-a-background-remover-that-keeps-the-fine-hair-edges-1c69"/>
         <updated>2026-07-04T16:00:00.000Z</updated>
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Good and Verified Legitimate Top 12 Trusted Cryptocurrency Recovery Agency A Guide Review 2026 with, Zeus Crypto Recovery Services]]></title>
-        <id>https://dev.to/charlotte_isabella_322888/good-and-verified-legitimate-top-12-trusted-cryptocurrency-recovery-agency-a-guide-review-2026-li</id>
-        <link href="https://dev.to/charlotte_isabella_322888/good-and-verified-legitimate-top-12-trusted-cryptocurrency-recovery-agency-a-guide-review-2026-li"/>
+        <title type="html"><![CDATA[Why Delirium, despair, pride: with the fans on Cape Verde’s World Cup rollercoaster Matters for Sports Data Engineers]]></title>
+        <id>https://dev.to/muhammad_binnazeer_6a810/why-delirium-despair-pride-with-the-fans-on-cape-verdes-world-cup-rollercoaster-matters-for-ock</id>
+        <link href="https://dev.to/muhammad_binnazeer_6a810/why-delirium-despair-pride-with-the-fans-on-cape-verdes-world-cup-rollercoaster-matters-for-ock"/>
         <updated>2026-07-04T16:00:00.000Z</updated>
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JS1024 2026 is open: build a demo in 1024 bytes]]></title>
-        <id>https://dev.to/js1024fun/js1024-2026-is-open-build-a-demo-in-1024-bytes-3k7c</id>
-        <link href="https://dev.to/js1024fun/js1024-2026-is-open-build-a-demo-in-1024-bytes-3k7c"/>
+        <title type="html"><![CDATA[JavaScript History Recap]]></title>
+        <id>https://dev.to/stemtraininggroundsteam/javascript-history-recap-59a4</id>
+        <link href="https://dev.to/stemtraininggroundsteam/javascript-history-recap-59a4"/>
         <updated>2026-07-04T16:00:00.000Z</updated>
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a real-time gold & FX price ticker with WebSocket (Socket.IO)]]></title>
-        <id>https://dev.to/hasfiyat/building-a-real-time-gold-fx-price-ticker-with-websocket-socketio-g36</id>
-        <link href="https://dev.to/hasfiyat/building-a-real-time-gold-fx-price-ticker-with-websocket-socketio-g36"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n8n Summarization Chain Node: Summarize Long Documents and Web Pages in Your Workflows [Free Workflow JSON]]]></title>
-        <id>https://dev.to/pirateprentice/n8n-summarization-chain-node-summarize-long-documents-and-web-pages-in-your-workflows-free-1fm</id>
-        <link href="https://dev.to/pirateprentice/n8n-summarization-chain-node-summarize-long-documents-and-web-pages-in-your-workflows-free-1fm"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n8n Basic LLM Chain Node: Add Language Model Text Generation to Any Workflow [Free Workflow JSON]]]></title>
-        <id>https://dev.to/pirateprentice/n8n-basic-llm-chain-node-add-language-model-text-generation-to-any-workflow-free-workflow-json-44op</id>
-        <link href="https://dev.to/pirateprentice/n8n-basic-llm-chain-node-add-language-model-text-generation-to-any-workflow-free-workflow-json-44op"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Understanding Payeer Accounts: Digital Wallet Verification]]></title>
-        <id>https://dev.to/pvasmmmarket45fgt/buy-understanding-payeer-accounts-digital-wallet-verification-3opo</id>
-        <link href="https://dev.to/pvasmmmarket45fgt/buy-understanding-payeer-accounts-digital-wallet-verification-3opo"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3.3 Best Platforms for Purchasing Old GitHub Accounts]]></title>
-        <id>https://dev.to/jessika_weis_21b26479c6f1/33-best-platforms-for-purchasing-old-github-accounts-5676</id>
-        <link href="https://dev.to/jessika_weis_21b26479c6f1/33-best-platforms-for-purchasing-old-github-accounts-5676"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Watching Tutorials. Start Building Projects: The Fastest Way to Learn Programming]]></title>
-        <id>https://dev.to/code_tocareer_5c69a8/stop-watching-tutorials-start-building-projects-the-fastest-way-to-learn-programming-3gkd</id>
-        <link href="https://dev.to/code_tocareer_5c69a8/stop-watching-tutorials-start-building-projects-the-fastest-way-to-learn-programming-3gkd"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Creating a React Project Just to Preview a JSX File]]></title>
-        <id>https://dev.to/robin_hood_991fffecf68062/stop-creating-a-react-project-just-to-preview-a-jsx-file-5gm6</id>
-        <link href="https://dev.to/robin_hood_991fffecf68062/stop-creating-a-react-project-just-to-preview-a-jsx-file-5gm6"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Generates the Code. PreviewKit Lets You See It Instantly.]]></title>
-        <id>https://dev.to/make-with-rs/ai-generates-the-code-previewkit-lets-you-see-it-instantly-3kc0</id>
-        <link href="https://dev.to/make-with-rs/ai-generates-the-code-previewkit-lets-you-see-it-instantly-3kc0"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JAVASCRIPT OBJECTS]]></title>
-        <id>https://dev.to/karthika_jasinska_443e83f/javascript-objects-3k7a</id>
-        <link href="https://dev.to/karthika_jasinska_443e83f/javascript-objects-3k7a"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Object Methods]]></title>
-        <id>https://dev.to/karthika_jasinska_443e83f/javascript-object-methods-4pn6</id>
-        <link href="https://dev.to/karthika_jasinska_443e83f/javascript-object-methods-4pn6"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Object Constructor]]></title>
-        <id>https://dev.to/karthika_jasinska_443e83f/javascript-object-constructor-1oom</id>
-        <link href="https://dev.to/karthika_jasinska_443e83f/javascript-object-constructor-1oom"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use Flexbox Layouts with React Native Skia]]></title>
-        <id>https://dev.to/running_squirrel/how-to-use-flexbox-layouts-with-react-native-skia-blg</id>
-        <link href="https://dev.to/running_squirrel/how-to-use-flexbox-layouts-with-react-native-skia-blg"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n8n Information Extractor Node: Extract Structured Data from Text Using AI — Free Workflow JSON]]></title>
-        <id>https://dev.to/pirateprentice/n8n-information-extractor-node-extract-structured-data-from-text-using-ai-free-workflow-json-380k</id>
-        <link href="https://dev.to/pirateprentice/n8n-information-extractor-node-extract-structured-data-from-text-using-ai-free-workflow-json-380k"/>
+        <title type="html"><![CDATA[What building a contrast checker taught me about WCAG that I had wrong]]></title>
+        <id>https://dev.to/aniket_saini_7/what-building-a-contrast-checker-taught-me-about-wcag-that-i-had-wrong-4947</id>
+        <link href="https://dev.to/aniket_saini_7/what-building-a-contrast-checker-taught-me-about-wcag-that-i-had-wrong-4947"/>
         <updated>2026-07-04T16:00:00.000Z</updated>
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
@@ -309,59 +253,115 @@
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hey number pad lovers, this is a keyboard we can finally agree on]]></title>
-        <id>https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review</id>
-        <link href="https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[n8n Information Extractor Node: Extract Structured Data from Text Using AI — Free Workflow JSON]]></title>
+        <id>https://dev.to/pirateprentice/n8n-information-extractor-node-extract-structured-data-from-text-using-ai-free-workflow-json-380k</id>
+        <link href="https://dev.to/pirateprentice/n8n-information-extractor-node-extract-structured-data-from-text-using-ai-free-workflow-json-380k"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard]]></title>
-        <id>https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview</id>
-        <link href="https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How To Use Flexbox Layouts with React Native Skia]]></title>
+        <id>https://dev.to/running_squirrel/how-to-use-flexbox-layouts-with-react-native-skia-blg</id>
+        <link href="https://dev.to/running_squirrel/how-to-use-flexbox-layouts-with-react-native-skia-blg"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers]]></title>
-        <id>https://www.wired.com/gallery/best-magsafe-wireless-chargers/</id>
-        <link href="https://www.wired.com/gallery/best-magsafe-wireless-chargers/"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JavaScript Object Constructor]]></title>
+        <id>https://dev.to/karthika_jasinska_443e83f/javascript-object-constructor-1oom</id>
+        <link href="https://dev.to/karthika_jasinska_443e83f/javascript-object-constructor-1oom"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where NASA Posts Its Best Space Photos, and How to Find Them]]></title>
-        <id>https://www.wired.com/story/where-nasa-posts-its-best-space-photos/</id>
-        <link href="https://www.wired.com/story/where-nasa-posts-its-best-space-photos/"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JavaScript Object Methods]]></title>
+        <id>https://dev.to/karthika_jasinska_443e83f/javascript-object-methods-4pn6</id>
+        <link href="https://dev.to/karthika_jasinska_443e83f/javascript-object-methods-4pn6"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone]]></title>
-        <id>https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/</id>
-        <link href="https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JAVASCRIPT OBJECTS]]></title>
+        <id>https://dev.to/karthika_jasinska_443e83f/javascript-objects-3k7a</id>
+        <link href="https://dev.to/karthika_jasinska_443e83f/javascript-objects-3k7a"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists Have Identified a New Fossil Species of Axolotl in Mexico]]></title>
-        <id>https://www.wired.com/story/scientists-have-identified-a-new-fossil-species-of-axolotl-in-mexico/</id>
-        <link href="https://www.wired.com/story/scientists-have-identified-a-new-fossil-species-of-axolotl-in-mexico/"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[AI Generates the Code. PreviewKit Lets You See It Instantly.]]></title>
+        <id>https://dev.to/make-with-rs/ai-generates-the-code-previewkit-lets-you-see-it-instantly-3kc0</id>
+        <link href="https://dev.to/make-with-rs/ai-generates-the-code-previewkit-lets-you-see-it-instantly-3kc0"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari]]></title>
-        <id>https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/</id>
-        <link href="https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Stop Creating a React Project Just to Preview a JSX File]]></title>
+        <id>https://dev.to/robin_hood_991fffecf68062/stop-creating-a-react-project-just-to-preview-a-jsx-file-5gm6</id>
+        <link href="https://dev.to/robin_hood_991fffecf68062/stop-creating-a-react-project-just-to-preview-a-jsx-file-5gm6"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The only AI glossary you’ll need this year]]></title>
-        <id>https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</id>
-        <link href="https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"/>
-        <updated>2026-07-03T16:00:00.000Z</updated>
-        <published>2026-07-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Stop Watching Tutorials. Start Building Projects: The Fastest Way to Learn Programming]]></title>
+        <id>https://dev.to/code_tocareer_5c69a8/stop-watching-tutorials-start-building-projects-the-fastest-way-to-learn-programming-3gkd</id>
+        <link href="https://dev.to/code_tocareer_5c69a8/stop-watching-tutorials-start-building-projects-the-fastest-way-to-learn-programming-3gkd"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.3 Best Platforms for Purchasing Old GitHub Accounts]]></title>
+        <id>https://dev.to/jessika_weis_21b26479c6f1/33-best-platforms-for-purchasing-old-github-accounts-5676</id>
+        <link href="https://dev.to/jessika_weis_21b26479c6f1/33-best-platforms-for-purchasing-old-github-accounts-5676"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Understanding Payeer Accounts: Digital Wallet Verification]]></title>
+        <id>https://dev.to/pvasmmmarket45fgt/buy-understanding-payeer-accounts-digital-wallet-verification-3opo</id>
+        <link href="https://dev.to/pvasmmmarket45fgt/buy-understanding-payeer-accounts-digital-wallet-verification-3opo"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n Basic LLM Chain Node: Add Language Model Text Generation to Any Workflow [Free Workflow JSON]]]></title>
+        <id>https://dev.to/pirateprentice/n8n-basic-llm-chain-node-add-language-model-text-generation-to-any-workflow-free-workflow-json-44op</id>
+        <link href="https://dev.to/pirateprentice/n8n-basic-llm-chain-node-add-language-model-text-generation-to-any-workflow-free-workflow-json-44op"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n Summarization Chain Node: Summarize Long Documents and Web Pages in Your Workflows [Free Workflow JSON]]]></title>
+        <id>https://dev.to/pirateprentice/n8n-summarization-chain-node-summarize-long-documents-and-web-pages-in-your-workflows-free-1fm</id>
+        <link href="https://dev.to/pirateprentice/n8n-summarization-chain-node-summarize-long-documents-and-web-pages-in-your-workflows-free-1fm"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a real-time gold & FX price ticker with WebSocket (Socket.IO)]]></title>
+        <id>https://dev.to/hasfiyat/building-a-real-time-gold-fx-price-ticker-with-websocket-socketio-g36</id>
+        <link href="https://dev.to/hasfiyat/building-a-real-time-gold-fx-price-ticker-with-websocket-socketio-g36"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS1024 2026 is open: build a demo in 1024 bytes]]></title>
+        <id>https://dev.to/js1024fun/js1024-2026-is-open-build-a-demo-in-1024-bytes-3k7c</id>
+        <link href="https://dev.to/js1024fun/js1024-2026-is-open-build-a-demo-in-1024-bytes-3k7c"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good and Verified Legitimate Top 12 Trusted Cryptocurrency Recovery Agency A Guide Review 2026 with, Zeus Crypto Recovery Services]]></title>
+        <id>https://dev.to/charlotte_isabella_322888/good-and-verified-legitimate-top-12-trusted-cryptocurrency-recovery-agency-a-guide-review-2026-li</id>
+        <link href="https://dev.to/charlotte_isabella_322888/good-and-verified-legitimate-top-12-trusted-cryptocurrency-recovery-agency-a-guide-review-2026-li"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n Question and Answer Chain Node: Build Retrieval-Augmented Workflows with Any Document [Free Workflow JSON]]]></title>
+        <id>https://dev.to/pirateprentice/n8n-question-and-answer-chain-node-build-retrieval-augmented-workflows-with-any-document-free-3h0k</id>
+        <link href="https://dev.to/pirateprentice/n8n-question-and-answer-chain-node-build-retrieval-augmented-workflows-with-any-document-free-3h0k"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
     </entry>
 </feed>
