@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-06 23:02:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-07 06:01:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## smol.ai
 
@@ -19,8 +19,8 @@
 - [2026-06-17-Midjourney-Medical:-scan-your-organs-like-you-step-on-a-scale](https://news.smol.ai/issues/26-06-17-midjourney-medical/) 
 - [2026-06-16-GLM-5.2:-the-top-Frontend-Coding-model-in-the-world,-IndexShare-reduces-costs](https://news.smol.ai/issues/26-06-16-glm-52/) 
 - [2026-06-12-not-much-happened-today](https://news.smol.ai/issues/26-06-12-not-much/) 
-- [2026-06-11-not-much-happened-today](https://news.smol.ai/issues/26-06-15-not-much/) 
 - [2026-06-11-not-much-happened-today](https://news.smol.ai/issues/26-06-11-not-much/) 
+- [2026-06-11-not-much-happened-today](https://news.smol.ai/issues/26-06-15-not-much/) 
 - [2026-06-10-not-much-happened-today](https://news.smol.ai/issues/26-06-10-not-much/) 
 - [2026-06-09-Anthropic-Claude-Fable-5](https://news.smol.ai/issues/26-06-09-anthropic-claude-fable-5/) 
 - [2026-06-08-not-much-happened-today](https://news.smol.ai/issues/26-06-08-not-much/) 
