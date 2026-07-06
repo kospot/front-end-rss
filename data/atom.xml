@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-05T22:01:21.362Z</updated>
+    <updated>2026-07-06T00:02:18.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,13 +71,6 @@
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RAG from Scratch [Part 3]: Chunking — The Decision That Makes or Breaks Your Retrieval]]></title>
-        <id>https://pub.towardsai.net/rag-from-scratch-part-3-chunking-the-decision-that-makes-or-breaks-your-retrieval-067b86066fae?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/rag-from-scratch-part-3-chunking-the-decision-that-makes-or-breaks-your-retrieval-067b86066fae?source=rss----98111c9905da---4"/>
-        <updated>2026-07-05T16:00:00.000Z</updated>
-        <published>2026-07-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Two Trump Cards Google Played, and Only One Is Getting Talked About]]></title>
         <id>https://pub.towardsai.net/two-trump-cards-google-played-and-only-one-is-getting-talked-about-b252452c0273?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/two-trump-cards-google-played-and-only-one-is-getting-talked-about-b252452c0273?source=rss----98111c9905da---4"/>
@@ -85,16 +78,23 @@
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Angular.js to Fine-Grained Reactivity: Part 2 — The JS Proxy Runtime]]></title>
-        <id>https://dev.to/straccia17/from-angularjs-to-fine-grained-reactivity-part-2-the-js-proxy-runtime-2m60</id>
-        <link href="https://dev.to/straccia17/from-angularjs-to-fine-grained-reactivity-part-2-the-js-proxy-runtime-2m60"/>
+        <title type="html"><![CDATA[RAG from Scratch [Part 3]: Chunking — The Decision That Makes or Breaks Your Retrieval]]></title>
+        <id>https://pub.towardsai.net/rag-from-scratch-part-3-chunking-the-decision-that-makes-or-breaks-your-retrieval-067b86066fae?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/rag-from-scratch-part-3-chunking-the-decision-that-makes-or-breaks-your-retrieval-067b86066fae?source=rss----98111c9905da---4"/>
         <updated>2026-07-05T16:00:00.000Z</updated>
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js App Router Caching: What Actually Gets Cached (and What Doesn't)]]></title>
-        <id>https://dev.to/mudassirworks/nextjs-app-router-caching-what-actually-gets-cached-and-what-doesnt-6ej</id>
-        <link href="https://dev.to/mudassirworks/nextjs-app-router-caching-what-actually-gets-cached-and-what-doesnt-6ej"/>
+        <title type="html"><![CDATA[React Internals]]></title>
+        <id>https://dev.to/dtofficial/react-internals-131p</id>
+        <link href="https://dev.to/dtofficial/react-internals-131p"/>
+        <updated>2026-07-05T16:00:00.000Z</updated>
+        <published>2026-07-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a privacy-first JSON formatter that runs entirely in your browser]]></title>
+        <id>https://dev.to/jeremy_s_6f68cbb97b8065cf/i-built-a-privacy-first-json-formatter-that-runs-entirely-in-your-browser-fi3</id>
+        <link href="https://dev.to/jeremy_s_6f68cbb97b8065cf/i-built-a-privacy-first-json-formatter-that-runs-entirely-in-your-browser-fi3"/>
         <updated>2026-07-05T16:00:00.000Z</updated>
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
@@ -106,16 +106,30 @@
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xbox is a disaster]]></title>
-        <id>https://www.theverge.com/column/960600/xbox-is-a-disaster</id>
-        <link href="https://www.theverge.com/column/960600/xbox-is-a-disaster"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Next.js App Router Caching: What Actually Gets Cached (and What Doesn't)]]></title>
+        <id>https://dev.to/mudassirworks/nextjs-app-router-caching-what-actually-gets-cached-and-what-doesnt-6ej</id>
+        <link href="https://dev.to/mudassirworks/nextjs-app-router-caching-what-actually-gets-cached-and-what-doesnt-6ej"/>
+        <updated>2026-07-05T16:00:00.000Z</updated>
+        <published>2026-07-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Angular.js to Fine-Grained Reactivity: Part 2 — The JS Proxy Runtime]]></title>
+        <id>https://dev.to/straccia17/from-angularjs-to-fine-grained-reactivity-part-2-the-js-proxy-runtime-2m60</id>
+        <link href="https://dev.to/straccia17/from-angularjs-to-fine-grained-reactivity-part-2-the-js-proxy-runtime-2m60"/>
+        <updated>2026-07-05T16:00:00.000Z</updated>
+        <published>2026-07-05T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Matic’s robot vacuum is getting a $250 price hike in September]]></title>
         <id>https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy</id>
         <link href="https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy"/>
+        <updated>2026-07-04T16:00:00.000Z</updated>
+        <published>2026-07-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox is a disaster]]></title>
+        <id>https://www.theverge.com/column/960600/xbox-is-a-disaster</id>
+        <link href="https://www.theverge.com/column/960600/xbox-is-a-disaster"/>
         <updated>2026-07-04T16:00:00.000Z</updated>
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[I Went Looking for Dignity and found it here [video]]]></title>
         <id>https://www.youtube.com/watch?v=4gFGFbctEe0</id>
         <link href="https://www.youtube.com/watch?v=4gFGFbctEe0"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alibaba/page-agent: in-page GUI agent. Control web interfaces]]></title>
-        <id>https://github.com/alibaba/page-agent</id>
-        <link href="https://github.com/alibaba/page-agent"/>
-        <updated>2026-07-04T16:00:00.000Z</updated>
-        <published>2026-07-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small, odd, fleeting moments in which a neighborhood briefly exceeds itself]]></title>
-        <id>https://www.neighborhood-stills.com/</id>
-        <link href="https://www.neighborhood-stills.com/"/>
         <updated>2026-07-04T16:00:00.000Z</updated>
         <published>2026-07-04T16:00:00.000Z</published>
     </entry>
