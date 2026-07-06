@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-07-06 10:00:59，:rocket: 更新条数: +2393， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-06 12:01:23，:rocket: 更新条数: +2395， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -42,7 +42,7 @@
 - [arXiv-ML](#arxiv-ml)  
 - [HuggingFace-Blog](#huggingface-blog)  
 - [smol.ai](#smol.ai)![](/assets/dot.png)   
-- [Towards-AI](#towards-ai)![](/assets/dot.png)   
+- [Towards-AI](#towards-ai)  
 - [Sebastian-Raschka](#sebastian-raschka)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [OpenAI-Blog](#openai-blog)![](/assets/dot.png)   
@@ -50,7 +50,7 @@
 - [TechCrunch](#techcrunch)  
 - [Wired](#wired)  
 - [Engadget](#engadget)  
-- [少数派](#少数派)![](/assets/dot.png)   
+- [少数派](#少数派)  
 
 ## 文章链接
 
@@ -130,8 +130,8 @@
 
 - [2026-07-03-Users-Don’t-Need-More-Tools:-They-Need-Seamless-Integrations](https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/)  
 - [2026-07-02-Matching-AI-Modality-To-User-Intent:-Designing-The-Right-Interface](https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/)  
-- [2026-06-30-Snapshots-Of-Summer-July-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/)  
 - [2026-06-30-Why-Accessibility-Is-An-Operational-Capability,-Not-A-Feature](https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/)  
+- [2026-06-30-Snapshots-Of-Summer-July-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/)  
 - [2026-06-16-Designing-With-Uncertainty:-How-AI-Supercharges-Probabilistic-Thinking](https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/)  
 - [2026-06-12-The-Impact-Of-Humanoid-Robots-On-Humanity](https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/)  
 - [2026-06-10-The-Benefits-Of-Cognitive-Inclusion-In-UX-Research](https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/)  
@@ -256,26 +256,26 @@
 </summary>
 
 
-- [2026-07-06-React-Internals](https://dev.to/dtofficial/react-internals-131p)  
-- [2026-07-06-Migrating-off-the-OpenAI-Assistants-API-before-it-shuts-off-Aug-26,-2026](https://dev.to/fernforge/migrating-off-the-openai-assistants-api-before-it-shuts-off-aug-26-2026-mfn)  
-- [2026-07-06-One-API-Call-to-Price-Any-Luxury-Watch-Median,-Percentiles,-Market-Depth](https://dev.to/jdpg23/one-api-call-to-price-any-luxury-watch-median-percentiles-market-depth-4odn)  
-- [2026-07-06-I-built-a-privacy-first-JSON-formatter-that-runs-entirely-in-your-browser](https://dev.to/jeremy_s_6f68cbb97b8065cf/i-built-a-privacy-first-json-formatter-that-runs-entirely-in-your-browser-fi3)  
-- [2026-07-06-**Stop-Losing-Faculty-Time:-How-AI-Automation-Can-Deliver-a-300%-Productivity-Boost-for-US-Schools**](https://dev.to/dgmh10uk/stop-losing-faculty-time-how-ai-automation-can-deliver-a-300-productivity-boost-for-us-schools-22l1)  
-- [2026-07-06-How-to-Choose-Between-Cache-First,-Network-First,-and-Stale-While-Revalidate](https://dev.to/kingteddie01/how-to-choose-between-cache-first-network-first-and-stale-while-revalidate-4h9l)  
-- [2026-07-06-Why-Your-React-App-Freezes-Even-With-Zero-API-Calls-And-How-Web-Workers-Fix-It](https://dev.to/dev-arafat-alim/why-your-react-app-freezes-even-with-zero-api-calls-and-how-web-workers-fix-it-4203)  
-- [2026-07-06-I-Spent-Today-Building-Instead-of-Marketing-—-But-Here’s-What-I-Shipped](https://dev.to/launchallyceo/i-spent-today-building-instead-of-marketing-but-heres-what-i-shipped-166a)  
-- [2026-07-06-Buy-Understanding-Educational-Email-Accounts-Edu-Emails:](https://dev.to/pvasmmmarket654hg/buy-understanding-educational-email-accounts-edu-emails-3n5k)  
-- [2026-07-06-Next.js-App-Router-Caching:-What-Actually-Gets-Cached-and-What-Doesn't](https://dev.to/mudassirworks/nextjs-app-router-caching-what-actually-gets-cached-and-what-doesnt-6ej)  
-- [2026-07-06-Top-18-Websites-to-Buy-Outlook-Accounts-New-&amp;-Bulk-in-2026](https://dev.to/ellaemilyfdgh/top-18-websites-to-buy-outlook-accounts-new-bulk-in-2026-2108)  
-- [2026-07-06-Hi,-I'm-Sithija-Kalhara-—-Full-Stack-Developer-&amp;-Game-Streamer](https://dev.to/sithija_kalhara/hi-im-sithija-kalhara-full-stack-developer-game-streamer-4lo8)  
-- [2026-07-06-Download-Spy-Guy-Europe-NSP-Full-Game-Latest-2026](https://dev.to/suppleair_data_5e300edce4/download-spy-guy-europe-nsp-full-game-latest-2026-38o0)  
-- [2026-07-06-Download-Morkull-Ascend-to-the-Gods-NSP-Full-Game-Latest-2026](https://dev.to/suppleair_data_5e300edce4/download-morkull-ascend-to-the-gods-nsp-full-game-latest-2026-2a7o)  
-- [2026-07-06-Why-Website-Performance-Matters-More-Than-Ever-in-2026](https://dev.to/hwttechy/why-website-performance-matters-more-than-ever-in-2026-1ogm)  
-- [2026-07-06-Intro-to-Frontend-Authory-2026:-Stay-tuned!](https://dev.to/khaledmsalem/intro-to-frontend-authory-2026-stay-tuned-3fn6)  
-- [2026-07-06-"Four-Remote-Job-Boards-Have-Free-Public-APIs.-Here-Is-One-Schema-for-All-of-Them"](https://dev.to/scrapemint/four-remote-job-boards-have-free-public-apis-here-is-one-schema-for-all-of-them-j1f)  
+- [2026-07-06-Applying-API-Testing-Frameworks:-Jest-+-Supertest-with-Real-World-Examples](https://dev.to/gian_francoarocutipaaro/applying-api-testing-frameworks-jest-supertest-with-real-world-examples-5f4e)  
 - [2026-07-06-From-Angular.js-to-Fine-Grained-Reactivity:-Part-2-—-The-JS-Proxy-Runtime](https://dev.to/straccia17/from-angularjs-to-fine-grained-reactivity-part-2-the-js-proxy-runtime-2m60)  
-- [2026-07-06-Applying-API-Testing-Frameworks:-Jest-+-Supertest-with-Real-World-Examples](https://dev.to/gian_francoarocutipaaro/applying-api-testing-frameworks-jest-supertest-with-real-world-examples-5f4e) ![](/assets/new.png)  
-- [2026-07-05-How-to-Scrape-Stack-Overflow-Data-in-2026](https://dev.to/alterlab/how-to-scrape-stack-overflow-data-in-2026-32c2)  
+- [2026-07-06-"Four-Remote-Job-Boards-Have-Free-Public-APIs.-Here-Is-One-Schema-for-All-of-Them"](https://dev.to/scrapemint/four-remote-job-boards-have-free-public-apis-here-is-one-schema-for-all-of-them-j1f)  
+- [2026-07-06-Intro-to-Frontend-Authory-2026:-Stay-tuned!](https://dev.to/khaledmsalem/intro-to-frontend-authory-2026-stay-tuned-3fn6)  
+- [2026-07-06-Why-Website-Performance-Matters-More-Than-Ever-in-2026](https://dev.to/hwttechy/why-website-performance-matters-more-than-ever-in-2026-1ogm)  
+- [2026-07-06-Download-Morkull-Ascend-to-the-Gods-NSP-Full-Game-Latest-2026](https://dev.to/suppleair_data_5e300edce4/download-morkull-ascend-to-the-gods-nsp-full-game-latest-2026-2a7o)  
+- [2026-07-06-Download-Spy-Guy-Europe-NSP-Full-Game-Latest-2026](https://dev.to/suppleair_data_5e300edce4/download-spy-guy-europe-nsp-full-game-latest-2026-38o0)  
+- [2026-07-06-Hi,-I'm-Sithija-Kalhara-—-Full-Stack-Developer-&amp;-Game-Streamer](https://dev.to/sithija_kalhara/hi-im-sithija-kalhara-full-stack-developer-game-streamer-4lo8)  
+- [2026-07-06-Top-18-Websites-to-Buy-Outlook-Accounts-New-&amp;-Bulk-in-2026](https://dev.to/ellaemilyfdgh/top-18-websites-to-buy-outlook-accounts-new-bulk-in-2026-2108)  
+- [2026-07-06-Next.js-App-Router-Caching:-What-Actually-Gets-Cached-and-What-Doesn't](https://dev.to/mudassirworks/nextjs-app-router-caching-what-actually-gets-cached-and-what-doesnt-6ej)  
+- [2026-07-06-Buy-Understanding-Educational-Email-Accounts-Edu-Emails:](https://dev.to/pvasmmmarket654hg/buy-understanding-educational-email-accounts-edu-emails-3n5k)  
+- [2026-07-06-I-Spent-Today-Building-Instead-of-Marketing-—-But-Here’s-What-I-Shipped](https://dev.to/launchallyceo/i-spent-today-building-instead-of-marketing-but-heres-what-i-shipped-166a)  
+- [2026-07-06-Why-Your-React-App-Freezes-Even-With-Zero-API-Calls-And-How-Web-Workers-Fix-It](https://dev.to/dev-arafat-alim/why-your-react-app-freezes-even-with-zero-api-calls-and-how-web-workers-fix-it-4203)  
+- [2026-07-06-How-to-Choose-Between-Cache-First,-Network-First,-and-Stale-While-Revalidate](https://dev.to/kingteddie01/how-to-choose-between-cache-first-network-first-and-stale-while-revalidate-4h9l)  
+- [2026-07-06-**Stop-Losing-Faculty-Time:-How-AI-Automation-Can-Deliver-a-300%-Productivity-Boost-for-US-Schools**](https://dev.to/dgmh10uk/stop-losing-faculty-time-how-ai-automation-can-deliver-a-300-productivity-boost-for-us-schools-22l1)  
+- [2026-07-06-I-built-a-privacy-first-JSON-formatter-that-runs-entirely-in-your-browser](https://dev.to/jeremy_s_6f68cbb97b8065cf/i-built-a-privacy-first-json-formatter-that-runs-entirely-in-your-browser-fi3)  
+- [2026-07-06-One-API-Call-to-Price-Any-Luxury-Watch-Median,-Percentiles,-Market-Depth](https://dev.to/jdpg23/one-api-call-to-price-any-luxury-watch-median-percentiles-market-depth-4odn)  
+- [2026-07-06-Migrating-off-the-OpenAI-Assistants-API-before-it-shuts-off-Aug-26,-2026](https://dev.to/fernforge/migrating-off-the-openai-assistants-api-before-it-shuts-off-aug-26-2026-mfn)  
+- [2026-07-06-React-Internals](https://dev.to/dtofficial/react-internals-131p)  
+- [2026-07-06-OrinIDE-v1.0.9-—-local-AI,-an-Agentic-dev-squad,-and-a-bug-fix-I-owe-you-an-explanation-for](https://dev.to/nandan_das_369/orinide-v109-local-ai-an-agentic-dev-squad-and-a-bug-fix-i-owe-you-an-explanation-for-4e3a) ![](/assets/new.png)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -484,8 +484,8 @@ https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know
 </summary>
 
 
-- [2026-06-16-Building-Reliable-Agentic-AI-Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)  
 - [2026-06-16-Fragments:-June-16](https://martinfowler.com/fragments/2026-06-16.html)  
+- [2026-06-16-Building-Reliable-Agentic-AI-Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)  
 - [......【查看更多】......](/details/Martin Fowler.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -573,8 +573,8 @@ https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know
 - [2026-06-17-Midjourney-Medical:-scan-your-organs-like-you-step-on-a-scale](https://news.smol.ai/issues/26-06-17-midjourney-medical/)  
 - [2026-06-16-GLM-5.2:-the-top-Frontend-Coding-model-in-the-world,-IndexShare-reduces-costs](https://news.smol.ai/issues/26-06-16-glm-52/)  
 - [2026-06-12-not-much-happened-today](https://news.smol.ai/issues/26-06-12-not-much/)  
-- [2026-06-11-not-much-happened-today](https://news.smol.ai/issues/26-06-11-not-much/)  
 - [2026-06-11-not-much-happened-today](https://news.smol.ai/issues/26-06-15-not-much/)  
+- [2026-06-11-not-much-happened-today](https://news.smol.ai/issues/26-06-11-not-much/)  
 - [2026-06-10-not-much-happened-today](https://news.smol.ai/issues/26-06-10-not-much/)  
 - [2026-06-09-Anthropic-Claude-Fable-5](https://news.smol.ai/issues/26-06-09-anthropic-claude-fable-5/)  
 - [2026-06-08-not-much-happened-today](https://news.smol.ai/issues/26-06-08-not-much/)  
@@ -597,7 +597,7 @@ https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know
 - [2026-07-06-Two-Trump-Cards-Google-Played,-and-Only-One-Is-Getting-Talked-About](https://pub.towardsai.net/two-trump-cards-google-played-and-only-one-is-getting-talked-about-b252452c0273?source=rss----98111c9905da---4)  
 - [2026-07-06-I-Know-Why-You-Can’t-Break-Into-AI.](https://pub.towardsai.net/i-know-why-you-cant-break-into-ai-318cd756f622?source=rss----98111c9905da---4)  
 - [2026-07-06-RAG-from-Scratch-Part-3:-Chunking-—-The-Decision-That-Makes-or-Breaks-Your-Retrieval](https://pub.towardsai.net/rag-from-scratch-part-3-chunking-the-decision-that-makes-or-breaks-your-retrieval-067b86066fae?source=rss----98111c9905da---4)  
-- [2026-07-06-Why-a-3B-AI-Model-Can-Beat-a-70B-One-—-It’s-Not-About-Model-Size-Anymore](https://pub.towardsai.net/why-a-3b-ai-model-can-beat-a-70b-one-its-not-about-model-size-anymore-b4c12a64edf7?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-07-06-Why-a-3B-AI-Model-Can-Beat-a-70B-One-—-It’s-Not-About-Model-Size-Anymore](https://pub.towardsai.net/why-a-3b-ai-model-can-beat-a-70b-one-its-not-about-model-size-anymore-b4c12a64edf7?source=rss----98111c9905da---4)  
 - [2026-07-05-The-90-Day-AI-Roadmap—-Prompt-to-Profit-·-Day-28-of-30](https://pub.towardsai.net/the-90-day-ai-roadmap-prompt-to-profit-day-28-of-30-8463a2a7328b?source=rss----98111c9905da---4)  
 - [2026-07-05-Scaling-With-AI:-From-Solo-to-System—-Prompt-to-Profit-·-Day-26-of-30](https://pub.towardsai.net/scaling-with-ai-from-solo-to-system-prompt-to-profit-day-26-of-30-ff2fbbaf238b?source=rss----98111c9905da---4)  
 - [2026-07-05-How-to-Control-AI-Agent-Actions-in-Real-Production-Systems](https://pub.towardsai.net/how-to-control-ai-agent-actions-in-real-production-systems-241c277fa8ed?source=rss----98111c9905da---4)  
@@ -643,26 +643,26 @@ https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know
 </summary>
 
 
-- [2026-06-30-Inside-Genebench-Pro](https://openai.com/index/genebench-pro/case-studies)  
-- [2026-06-30-Core-dump-epidemiology:-fixing-an-18-year-old-bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug)  
-- [2026-06-30-Introducing-GeneBench-Pro](https://openai.com/index/introducing-genebench-pro)  
 - [2026-06-30-How-ChatGPT-adoption-has-expanded](https://openai.com/index/how-chatgpt-adoption-has-expanded)  
-- [2026-06-29-HP-Inc.-launches-Frontier-strategic-partnership-with-OpenAI](https://openai.com/index/hp-frontier-partnership)  
+- [2026-06-30-Introducing-GeneBench-Pro](https://openai.com/index/introducing-genebench-pro)  
+- [2026-06-30-Core-dump-epidemiology:-fixing-an-18-year-old-bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug)  
+- [2026-06-30-Inside-Genebench-Pro](https://openai.com/index/genebench-pro/case-studies)  
 - [2026-06-29-Mapping-Europe’s-AI-Workforce-Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu)  
+- [2026-06-29-HP-Inc.-launches-Frontier-strategic-partnership-with-OpenAI](https://openai.com/index/hp-frontier-partnership)  
 - [2026-06-26-Previewing-GPT-5.6-Sol:-a-next-generation-model](https://openai.com/index/previewing-gpt-5-6-sol)  
 - [2026-06-25-How-agents-are-transforming-work](https://openai.com/index/how-agents-are-transforming-work)  
-- [2026-06-24-How-GPT-5-helped-immunologist-Derya-Unutmaz-solve-a-3-year-old-mystery](https://openai.com/index/gpt-5-immunology-mystery)  
 - [2026-06-24-OpenAI-and-Broadcom-unveil-LLM-optimized-inference-chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip)  
-- [2026-06-23-How-Omio-is-building-the-future-of-conversational-travel](https://openai.com/index/omio)  
+- [2026-06-24-How-GPT-5-helped-immunologist-Derya-Unutmaz-solve-a-3-year-old-mystery](https://openai.com/index/gpt-5-immunology-mystery)  
 - [2026-06-23-Helping-build-shared-standards-for-advanced-AI](https://openai.com/index/helping-build-shared-standards-for-advanced-ai)  
-- [2026-06-22-Samsung-Electronics-brings-ChatGPT-and-Codex-to-employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment)  
-- [2026-06-22-Codex-maxxing-for-long-running-work](https://openai.com/index/codex-maxxing-long-running-work)  
-- [2026-06-22-Patch-the-Planet:-a-Daybreak-initiative-to-support-open-source-maintainers](https://openai.com/index/patch-the-planet)  
+- [2026-06-23-How-Omio-is-building-the-future-of-conversational-travel](https://openai.com/index/omio)  
 - [2026-06-22-Daybreak:-Tools-for-securing-every-organization-in-the-world](https://openai.com/index/daybreak-securing-the-world)  
+- [2026-06-22-Patch-the-Planet:-a-Daybreak-initiative-to-support-open-source-maintainers](https://openai.com/index/patch-the-planet)  
+- [2026-06-22-Codex-maxxing-for-long-running-work](https://openai.com/index/codex-maxxing-long-running-work)  
+- [2026-06-22-Samsung-Electronics-brings-ChatGPT-and-Codex-to-employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment)  
 - [2026-06-19-New-usage-analytics-and-updated-spend-controls-for-enterprises](https://openai.com/index/chatgpt-enterprise-spend-controls)  
-- [2026-06-18-Using-AI-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children](https://openai.com/index/diagnose-rare-childhood-diseases)  
 - [2026-06-18-Improving-health-intelligence-in-ChatGPT](https://openai.com/index/improving-health-intelligence-in-chatgpt)  
-- [2026-06-17-Introducing-LifeSciBench](https://openai.com/index/introducing-life-sci-bench)  
+- [2026-06-18-Using-AI-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children](https://openai.com/index/diagnose-rare-childhood-diseases)  
+- [2026-06-17-A-near-autonomous-AI-chemist-improves-a-challenging-reaction-in-medicinal-chemistry](https://openai.com/index/ai-chemist-improves-reaction)  
 - [......【查看更多】......](/details/OpenAI Blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -674,26 +674,26 @@ https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know
 </summary>
 
 
-- [2026-07-06-IronToll:-Global-Government-Impersonation-PhaaS](https://phisheye.com/blog/irontoll-iron-man-phaas-campaign)  
-- [2026-07-06-FIFA-makes-U-turn-following-call-from-Trump](https://www.reuters.com/sports/soccer/us-striker-balogun-available-belgium-clash-despite-red-card-2026-07-05/)  
-- [2026-07-06-Ask-HN:-What-do-you-do-with-the-user-guide-of-the-universe?](https://news.ycombinator.com/item?id=48798284)  
-- [2026-07-06-Here-here,-there-is-no-there,-there](https://silvestro2026.substack.com/p/here-here)  
-- [2026-07-06-Building-blocks-leave-no-crumbs](https://www.nvegater.com/blog/building-blocks)  
-- [2026-07-06-Composite-Video-on-the-NES:-Why's-it-so-wobbly?](https://nicole.express/2026/phase-altering-by-line.html)  
-- [2026-07-06-One-Piece-as-Modern-Scripture](https://pilgrimsage.substack.com/p/the-grand-line)  
-- [2026-07-06-The-Tech-Sentiments-Pulse:-What-Today's-Tech-and-Crypto-Headlines-Are-Signaling](https://medium.com/@thesuperrepemail/the-tech-sentiments-pulse-what-todays-tech-crypto-headlines-are-really-signaling-c2cefdd7ad34)  
-- [2026-07-06-Prism:-An-Impure-Functional-Language-With-Typed-Effects](https://www.stephendiehl.com/posts/prism/)  
-- [2026-07-06-CoCom-regulations-and-GPS-receivers-for-balloons-and-cubesats](https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube)  
-- [2026-07-06-Had-an-idea-for-a-Rust-editor-with-simple-Vim-mode-for-learning](https://github.com/electronicsleep/rust-vim)  
-- [2026-07-06-Vercel-Container-Registry](https://vercel.com/changelog/introducing-vcr-vercel-container-registry)  
-- [2026-07-06-Show-HN:-Homegames.-An-open-source-game-platform-I've-been-making-for-8-years](https://homegames.io)  
-- [2026-07-06-Pacerift-–-I-built-a-motorcycle-telemetry-app-using-only-phone-sensors](https://play.google.com/store/apps/details?id=com.xspl.pacerift&hl=en_US)  
-- [2026-07-06-I'm-an-obsessed-hobby-cheesemaker.-AMA](https://old.reddit.com/r/AskMeAnythingIAnswer/comments/1uo6cqc/im_an_obsessed_hobby_cheesemaker_ama/)  
-- [2026-07-06-Bird-nests-of-fibre-optic-cables-show-war's-impact-on-Ukraine](https://www.reuters.com/business/aerospace-defense/bird-nests-fibre-optic-cables-show-wars-impact-ukraine-2026-06-30/)  
-- [2026-07-06-LaCie-drives-just-contain-regular-Seagate-drives-inside](https://twitter.com/eftegarie/status/2073881763055641034)  
-- [2026-07-06-Live-Image/Video-Translation](https://blog.davidv.dev/posts/mobile-translator-video/)  
-- [2026-07-06-Time-based-background-colour-transitions-with-Temporal-and-CSS-color-mix](https://localghost.dev/blog/time-based-background-colour-transitions-with-temporal-and-css-color-mix/)  
-- [2026-07-06-WhaleCap:-Keep-your-DeepSeek-API-credits-from-running-out-on-day-one](https://www.npmjs.com/package/whalecap)  
+- [2026-07-06-Designing-Market-Data-for-Deterministic-Replay](https://electronictradinghub.com/designing-market-data-for-deterministic-replay/)  
+- [2026-07-06-Show-HN:-A-faithful-MUMPS-76-anniversary-implementation-–-the-original-NoSQL-DB](https://github.com/rochus-keller/mumps/)  
+- [2026-07-06-Racism-Inevitable?](https://news.ycombinator.com/item?id=48799848)  
+- [2026-07-06-AI-Costs-More-Than-the-People-It-Replaced](https://www.forbes.com/sites/jemmagreen/2026/07/02/ai-costs-more-than-the-people-it-replaced/)  
+- [2026-07-06-Entropyseal](https://www.entropyseal.com/)  
+- [2026-07-06-The-Sneakerweb](https://sneakerweb.org/)  
+- [2026-07-06-The-Unstoppable-Force-of-A.I.-Hype-Is-Meeting-One-Immovable-Fact](https://www.nytimes.com/2026/06/30/opinion/ai-agents-steal-jobs-employment.html)  
+- [2026-07-06-EMF-and-Kids](https://ashishb.net/parenting/emf/)  
+- [2026-07-06-Show-HN:-An-unmetered-LLM-API–$6/month,-no-token-tracking,-no-limits](https://yolo-auto.com/)  
+- [2026-07-06-Children-Adopt-AI-3x-Faster-Than-Adults-–-and-We're-Not-Ready](https://hackenewhome.blogspot.com/p/ai-is-taking-over-kids-lives-unicef.html)  
+- [2026-07-06-Midjourney:-From-AI-slop-to-medical-research-video](https://www.youtube.com/watch?v=4nzzpUKhj1M)  
+- [2026-07-06-Disclosing-information-about-the-self-is-intrinsically-rewarding](https://www.pnas.org/doi/10.1073/pnas.1202129109)  
+- [2026-07-06-Lost-and-Found](https://walzr.com/lost-and-found)  
+- [2026-07-06-New-secrets-from-ancient-Vesuvius-scrolls](https://www.cbsnews.com/news/ancient-scrolls-mount-vesuvius-eruption-ai-decoding/)  
+- [2026-07-06-GPT-5.6-Sol-Ultra-will-be-in-Codex](https://twitter.com/thsottiaux/status/2073933490513752151)  
+- [2026-07-06-Kitirua-Plains-Lodge:-Kenya's-departure-from-traditional-Safari-architecture](https://design-milk.com/luxury-frontiers-designs-a-lodge-that-belongs-to-its-landscape/)  
+- [2026-07-06-Self-Propelled-Chainsaw-Reduces-Injuries](https://hackaday.com/2022/12/25/self-propelled-chainsaw-reduces-injuries/)  
+- [2026-07-06-Scientists-may-have-found-how-Alzheimer's-kills-brain-cells](https://www.sciencedaily.com/releases/2026/06/260626124701.htm)  
+- [2026-07-06-Thundersnap-v0.01:-an-undo-button-for-everything](https://github.com/tailscale/thundersnap/)  
+- [2026-07-06-Review:-IodéOS-offers-a-frictionless-de-Googled-Android-experience-–-OSnews](https://www.osnews.com/story/145312/review-iodeos-offers-a-frictionless-de-googled-android-experience/)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -798,7 +798,7 @@ https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know
 </summary>
 
 
-- [2026-07-06-派早报：阿里禁用-Claude-模型](https://sspai.com/post/111973) ![](/assets/new.png)  
+- [2026-07-06-派早报：阿里禁用-Claude-模型](https://sspai.com/post/111973)  
 - [2026-07-05-背单词更要背释义，FenyiDic-让你记住「熟悉的陌生人」](https://sspai.com/post/111632)  
 - [2026-07-04-送码-聆听用户建议，1Capture-新增多项实用截图功能](https://sspai.com/post/111645)  
 - [2026-07-03-住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路](https://sspai.com/prime/story/how-to-design-a-rental-living-room)  
