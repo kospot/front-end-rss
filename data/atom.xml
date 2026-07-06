@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-06T13:01:51.561Z</updated>
+    <updated>2026-07-06T15:02:43.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,16 +22,9 @@
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9 Best Keyboards (2025), Tested and Reviewed]]></title>
-        <id>https://www.wired.com/gallery/best-keyboards/</id>
-        <link href="https://www.wired.com/gallery/best-keyboards/"/>
-        <updated>2026-07-05T16:00:00.000Z</updated>
-        <published>2026-07-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Palestinians Are Building a Digital Archive That Can’t Be Erased]]></title>
-        <id>https://www.wired.com/story/how-palestinians-are-building-a-digital-archive-that-cant-be-erased/</id>
-        <link href="https://www.wired.com/story/how-palestinians-are-building-a-digital-archive-that-cant-be-erased/"/>
+        <title type="html"><![CDATA[The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks]]></title>
+        <id>https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/</id>
+        <link href="https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/"/>
         <updated>2026-07-05T16:00:00.000Z</updated>
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
@@ -43,9 +36,23 @@
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon]]></title>
-        <id>https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/</id>
-        <link href="https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/"/>
+        <title type="html"><![CDATA[How Palestinians Are Building a Digital Archive That Can’t Be Erased]]></title>
+        <id>https://www.wired.com/story/how-palestinians-are-building-a-digital-archive-that-cant-be-erased/</id>
+        <link href="https://www.wired.com/story/how-palestinians-are-building-a-digital-archive-that-cant-be-erased/"/>
+        <updated>2026-07-05T16:00:00.000Z</updated>
+        <published>2026-07-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 Best Keyboards (2025), Tested and Reviewed]]></title>
+        <id>https://www.wired.com/gallery/best-keyboards/</id>
+        <link href="https://www.wired.com/gallery/best-keyboards/"/>
+        <updated>2026-07-05T16:00:00.000Z</updated>
+        <published>2026-07-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year]]></title>
+        <id>https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/</id>
+        <link href="https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/"/>
         <updated>2026-07-05T16:00:00.000Z</updated>
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
@@ -53,6 +60,13 @@
         <title type="html"><![CDATA[Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent]]></title>
         <id>https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/</id>
         <link href="https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/"/>
+        <updated>2026-07-05T16:00:00.000Z</updated>
+        <published>2026-07-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon]]></title>
+        <id>https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/</id>
+        <link href="https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/"/>
         <updated>2026-07-05T16:00:00.000Z</updated>
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
@@ -309,44 +323,30 @@
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Custom Postgres MCP Server in Python (And Deleted 2,000 Lines of Code)]]></title>
-        <id>https://pub.towardsai.net/i-built-a-custom-postgres-mcp-server-in-python-and-deleted-2-000-lines-of-code-b227e45e78a9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-built-a-custom-postgres-mcp-server-in-python-and-deleted-2-000-lines-of-code-b227e45e78a9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How to Cut Your AI Coding Bill Without Giving Up the Frontier Model]]></title>
+        <id>https://pub.towardsai.net/how-to-cut-your-ai-coding-bill-without-giving-up-the-frontier-model-870469d0d27d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-cut-your-ai-coding-bill-without-giving-up-the-frontier-model-870469d0d27d?source=rss----98111c9905da---4"/>
         <updated>2026-07-05T16:00:00.000Z</updated>
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A production RAG pipeline for real-world PDFs: structural retrieval, typed answers, cited lines]]></title>
-        <id>https://pub.towardsai.net/rag-why-top-k-embeddings-return-the-confidently-wrong-answer-and-how-routing-fixes-it-f9c6e1423567?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/rag-why-top-k-embeddings-return-the-confidently-wrong-answer-and-how-routing-fixes-it-f9c6e1423567?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[White House AI Standards: 30-Day Reviews, 3 Labs, and a Classified Pass Bar]]></title>
+        <id>https://pub.towardsai.net/white-house-ai-standards-30-day-reviews-3-labs-and-a-classified-pass-bar-2a91ab120318?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/white-house-ai-standards-30-day-reviews-3-labs-and-a-classified-pass-bar-2a91ab120318?source=rss----98111c9905da---4"/>
         <updated>2026-07-05T16:00:00.000Z</updated>
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why WebSockets don’t scale easily — and how AWS changes the game]]></title>
-        <id>https://pub.towardsai.net/why-websockets-dont-scale-easily-and-how-aws-changes-the-game-8fd9bb9ade9e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-websockets-dont-scale-easily-and-how-aws-changes-the-game-8fd9bb9ade9e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[We Doubled Our AI Tooling Budget. Our Release Rate Dropped Anyway]]></title>
+        <id>https://pub.towardsai.net/we-doubled-our-ai-tooling-budget-our-release-rate-dropped-anyway-b9ed66068198?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/we-doubled-our-ai-tooling-budget-our-release-rate-dropped-anyway-b9ed66068198?source=rss----98111c9905da---4"/>
         <updated>2026-07-05T16:00:00.000Z</updated>
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Is Retrieval-Augmented Generation (RAG)? A Complete Guide for Businesses]]></title>
-        <id>https://pub.towardsai.net/what-is-retrieval-augmented-generation-rag-a-complete-guide-for-businesses-eab6448e2c9a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-is-retrieval-augmented-generation-rag-a-complete-guide-for-businesses-eab6448e2c9a?source=rss----98111c9905da---4"/>
-        <updated>2026-07-05T16:00:00.000Z</updated>
-        <published>2026-07-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM-as-a-Judge: The Complete Guide to Automated Evaluation at Scale with Azure]]></title>
-        <id>https://pub.towardsai.net/llm-as-a-judge-the-complete-guide-to-automated-evaluation-at-scale-with-azure-ebe36b574e15?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/llm-as-a-judge-the-complete-guide-to-automated-evaluation-at-scale-with-azure-ebe36b574e15?source=rss----98111c9905da---4"/>
-        <updated>2026-07-05T16:00:00.000Z</updated>
-        <published>2026-07-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy AI in Your Business: A Step-by-Step Guide for Startups & Enterprises]]></title>
-        <id>https://pub.towardsai.net/how-to-deploy-ai-in-your-business-a-step-by-step-guide-for-startups-enterprises-a8879691e631?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-deploy-ai-in-your-business-a-step-by-step-guide-for-startups-enterprises-a8879691e631?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[RAG from Scratch [Part 3]: Chunking — The Decision That Makes or Breaks Your Retrieval]]></title>
+        <id>https://pub.towardsai.net/rag-from-scratch-part-3-chunking-the-decision-that-makes-or-breaks-your-retrieval-067b86066fae?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/rag-from-scratch-part-3-chunking-the-decision-that-makes-or-breaks-your-retrieval-067b86066fae?source=rss----98111c9905da---4"/>
         <updated>2026-07-05T16:00:00.000Z</updated>
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
@@ -358,9 +358,9 @@
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RAG from Scratch [Part 3]: Chunking — The Decision That Makes or Breaks Your Retrieval]]></title>
-        <id>https://pub.towardsai.net/rag-from-scratch-part-3-chunking-the-decision-that-makes-or-breaks-your-retrieval-067b86066fae?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/rag-from-scratch-part-3-chunking-the-decision-that-makes-or-breaks-your-retrieval-067b86066fae?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How to Deploy AI in Your Business: A Step-by-Step Guide for Startups & Enterprises]]></title>
+        <id>https://pub.towardsai.net/how-to-deploy-ai-in-your-business-a-step-by-step-guide-for-startups-enterprises-a8879691e631?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-deploy-ai-in-your-business-a-step-by-step-guide-for-startups-enterprises-a8879691e631?source=rss----98111c9905da---4"/>
         <updated>2026-07-05T16:00:00.000Z</updated>
         <published>2026-07-05T16:00:00.000Z</published>
     </entry>
