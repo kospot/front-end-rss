@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-07T15:03:48.942Z</updated>
+    <updated>2026-07-07T22:01:40.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,30 +15,170 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Discord accidentally banned over 8,000 people for posting grids and other &#8216;benign&#8217; images]]></title>
-        <id>https://www.theverge.com/games/962156/discord-accidental-bans-grid-images</id>
-        <link href="https://www.theverge.com/games/962156/discord-accidental-bans-grid-images"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Of course viewers are giving up on Netflix shows]]></title>
+        <id>https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok</id>
+        <link href="https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Five questions for Dr. Rubin, who’s armed with a mic and a bowtie]]></title>
-        <id>https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview</id>
-        <link href="https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers]]></title>
+        <id>https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming</id>
+        <link href="https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Former Xbox studios Double Fine and Compulsion will keep games after going indie]]></title>
-        <id>https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie</id>
-        <link href="https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Meta’s new Muse Image model can pull other Instagram users into AI photos]]></title>
+        <id>https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram</id>
+        <link href="https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nothing’s first B-series phone is also skipping the US]]></title>
-        <id>https://www.theverge.com/tech/962020/nothing-phone-4b-price-release-date-specs</id>
-        <link href="https://www.theverge.com/tech/962020/nothing-phone-4b-price-release-date-specs"/>
+        <title type="html"><![CDATA[X says top accounts steal videos from other users as it announces new video tools]]></title>
+        <id>https://www.theverge.com/tech/962415/x-video-editor-recycled-content</id>
+        <link href="https://www.theverge.com/tech/962415/x-video-editor-recycled-content"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABC tells the government to get out of its newsrooms]]></title>
+        <id>https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech</id>
+        <link href="https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s Chief Futurist Is Leaving the Company]]></title>
+        <id>https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/</id>
+        <link href="https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord admits AI moderation bug wrongfully banned users over harmless images]]></title>
+        <id>https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/</id>
+        <link href="https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Pixel event is set for August 12]]></title>
+        <id>https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/</id>
+        <link href="https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others]]></title>
+        <id>https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/</id>
+        <link href="https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASRock Rack Had One of the First Arm AGI Servers at Computex 2026 – ServeTheHome]]></title>
+        <id>https://www.servethehome.com/asrock-rack-had-one-of-the-first-arm-agi-servers-at-computex-2026/</id>
+        <link href="https://www.servethehome.com/asrock-rack-had-one-of-the-first-arm-agi-servers-at-computex-2026/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese AI models are gaining ground with U.S. companies as costs surge]]></title>
+        <id>https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html</id>
+        <link href="https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta accused of discriminating against non-Chinese workers in latest layoff]]></title>
+        <id>https://old.reddit.com/r/cscareerquestions/comments/1uq4a92/meta_accused_of_discriminating_against_nonchinese/</id>
+        <link href="https://old.reddit.com/r/cscareerquestions/comments/1uq4a92/meta_accused_of_discriminating_against_nonchinese/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Instant GraphRAG over any Postgres database]]></title>
+        <id>https://polygres.com</id>
+        <link href="https://polygres.com"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Compute Scarcity? Not So Fast]]></title>
+        <id>https://cloudedjudgement.substack.com/p/clouded-judgement-7326-the-end-of</id>
+        <link href="https://cloudedjudgement.substack.com/p/clouded-judgement-7326-the-end-of"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnibaas, a provider-agnostic Infrastructure-as-Code compiler for BaaS services]]></title>
+        <id>https://github.com/davidecampora/Omnibaas</id>
+        <link href="https://github.com/davidecampora/Omnibaas"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Registration Is the Next Domain Name System]]></title>
+        <id>https://pub.towardsai.net/agent-registration-is-the-next-domain-name-system-d2f9d8fddd38?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/agent-registration-is-the-next-domain-name-system-d2f9d8fddd38?source=rss----98111c9905da---4"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[github-code Web Component]]></title>
+        <id>https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I put a WebGL warp shader inside a Chrome extension so ultrawide monitors stop wasting a third of the screen]]></title>
+        <id>https://dev.to/pavel_akimov/i-put-a-webgl-warp-shader-inside-a-chrome-extension-so-ultrawide-monitors-stop-wasting-a-third-of-37ga</id>
+        <link href="https://dev.to/pavel_akimov/i-put-a-webgl-warp-shader-inside-a-chrome-extension-so-ultrawide-monitors-stop-wasting-a-third-of-37ga"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bulk 204 buy old gmail accounts-2fa,email,Aged,PVA,Strong,Verified,Bulk]]></title>
+        <id>https://dev.to/safret5/bulk-204-buy-old-gmail-accounts-2faemailagedpvastrongverifiedbulk-7cn</id>
+        <link href="https://dev.to/safret5/bulk-204-buy-old-gmail-accounts-2faemailagedpvastrongverifiedbulk-7cn"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🇨🇭 focu.ch is live! A quiet place for your mind, in a noisy digital world.🤍🗻🍷]]></title>
+        <id>https://dev.to/learn2027/focuch-is-livea-quiet-place-for-your-mind-in-a-noisy-digital-world-5ema</id>
+        <link href="https://dev.to/learn2027/focuch-is-livea-quiet-place-for-your-mind-in-a-noisy-digital-world-5ema"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["an AI-interview experience with zero AI and zero cost." Opens with the three bills you didn't pay (TTS, Whisper, proctoring vendor)]]></title>
+        <id>https://dev.to/sheryar_ahmed/an-ai-interview-experience-with-zero-ai-and-zero-cost-opens-with-the-three-bills-you-didnt-pay-1jmm</id>
+        <link href="https://dev.to/sheryar_ahmed/an-ai-interview-experience-with-zero-ai-and-zero-cost-opens-with-the-three-bills-you-didnt-pay-1jmm"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharks 3D 2.1.1 for macOS – Immersive Animated Shark Wallpaper and Screensaver]]></title>
+        <id>https://dev.to/mi_tche_6023f67f5372/sharks-3d-211-for-macos-immersive-animated-shark-wallpaper-and-screensaver-4emh</id>
+        <link href="https://dev.to/mi_tche_6023f67f5372/sharks-3d-211-for-macos-immersive-animated-shark-wallpaper-and-screensaver-4emh"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CARRION 1.0.5 for Mac – Experience the Award-Winning Reverse Horror Adventure]]></title>
+        <id>https://dev.to/mi_tche_6023f67f5372/carrion-105-for-mac-experience-the-award-winning-reverse-horror-adventure-3b62</id>
+        <link href="https://dev.to/mi_tche_6023f67f5372/carrion-105-for-mac-experience-the-award-winning-reverse-horror-adventure-3b62"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solos debuts an even lighter version of its camera-less smart glasses]]></title>
+        <id>https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy</id>
+        <link href="https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
@@ -50,37 +190,30 @@
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solos debuts an even lighter version of its camera-less smart glasses]]></title>
-        <id>https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy</id>
-        <link href="https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy"/>
+        <title type="html"><![CDATA[Nothing’s first B-series phone is also skipping the US]]></title>
+        <id>https://www.theverge.com/tech/962020/nothing-phone-4b-price-release-date-specs</id>
+        <link href="https://www.theverge.com/tech/962020/nothing-phone-4b-price-release-date-specs"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras]]></title>
-        <id>https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/</id>
-        <link href="https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/"/>
+        <title type="html"><![CDATA[Former Xbox studios Double Fine and Compulsion will keep games after going indie]]></title>
+        <id>https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie</id>
+        <link href="https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Target Promo Code: $50 Off | July 2026]]></title>
-        <id>https://www.wired.com/story/target-promo-code/</id>
-        <link href="https://www.wired.com/story/target-promo-code/"/>
+        <title type="html"><![CDATA[Five questions for Dr. Rubin, who’s armed with a mic and a bowtie]]></title>
+        <id>https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview</id>
+        <link href="https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts]]></title>
-        <id>https://www.wired.com/story/lovehoney-discount-code/</id>
-        <link href="https://www.wired.com/story/lovehoney-discount-code/"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nomad Goods Promo Codes: Get 25% Off in July 2026]]></title>
-        <id>https://www.wired.com/story/nomad-discount-code/</id>
-        <link href="https://www.wired.com/story/nomad-discount-code/"/>
+        <title type="html"><![CDATA[Discord accidentally banned over 8,000 people for posting grids and other &#8216;benign&#8217; images]]></title>
+        <id>https://www.theverge.com/games/962156/discord-accidental-bans-grid-images</id>
+        <link href="https://www.theverge.com/games/962156/discord-accidental-bans-grid-images"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
@@ -92,30 +225,37 @@
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This startup pits dealerships against each other to bid on your used car]]></title>
-        <id>https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/</id>
-        <link href="https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/"/>
+        <title type="html"><![CDATA[Nomad Goods Promo Codes: Get 25% Off in July 2026]]></title>
+        <id>https://www.wired.com/story/nomad-discount-code/</id>
+        <link href="https://www.wired.com/story/nomad-discount-code/"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US investors will soon get access to SK Hynix, another memory maker riding the AI boom]]></title>
-        <id>https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/</id>
-        <link href="https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"/>
+        <title type="html"><![CDATA[Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts]]></title>
+        <id>https://www.wired.com/story/lovehoney-discount-code/</id>
+        <link href="https://www.wired.com/story/lovehoney-discount-code/"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all]]></title>
-        <id>https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/</id>
-        <link href="https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/"/>
+        <title type="html"><![CDATA[Target Promo Code: $50 Off | July 2026]]></title>
+        <id>https://www.wired.com/story/target-promo-code/</id>
+        <link href="https://www.wired.com/story/target-promo-code/"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You can now customize Siri’s pace and expressivity in the latest iOS 27 beta]]></title>
-        <id>https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/</id>
-        <link href="https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/"/>
+        <title type="html"><![CDATA[These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras]]></title>
+        <id>https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/</id>
+        <link href="https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/"/>
+        <updated>2026-07-06T16:00:00.000Z</updated>
+        <published>2026-07-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X adds a video editor to encourage creators to post original content, not stolen reposts]]></title>
+        <id>https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/</id>
+        <link href="https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
@@ -127,226 +267,86 @@
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Perfect Cripple: A User Guide to Being Palatable]]></title>
-        <id>https://www.salient.org.nz/post/the-perfect-cripple-a-user-guide-to-being-palatable</id>
-        <link href="https://www.salient.org.nz/post/the-perfect-cripple-a-user-guide-to-being-palatable"/>
+        <title type="html"><![CDATA[You can now customize Siri’s pace and expressivity in the latest iOS 27 beta]]></title>
+        <id>https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/</id>
+        <link href="https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discovery helps explain why solid-state batteries often fail]]></title>
-        <id>https://news.mit.edu/2026/discovery-helps-explain-why-solid-state-batteries-often-fail-0706</id>
-        <link href="https://news.mit.edu/2026/discovery-helps-explain-why-solid-state-batteries-often-fail-0706"/>
+        <title type="html"><![CDATA[Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all]]></title>
+        <id>https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/</id>
+        <link href="https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Returns to US Bond Market to Fund AI Infrastructure Build]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build"/>
+        <title type="html"><![CDATA[US investors will soon get access to SK Hynix, another memory maker riding the AI boom]]></title>
+        <id>https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/</id>
+        <link href="https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Popup That Says the Quiet Part Out Loud]]></title>
-        <id>https://blog.ppb1701.com/the-popup-that-says-the-quiet-part-out-loud</id>
-        <link href="https://blog.ppb1701.com/the-popup-that-says-the-quiet-part-out-loud"/>
+        <title type="html"><![CDATA[This startup pits dealerships against each other to bid on your used car]]></title>
+        <id>https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/</id>
+        <link href="https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agents don't need smarter models, they need a map]]></title>
-        <id>https://horiacristescu.github.io/karto-plugin/</id>
-        <link href="https://horiacristescu.github.io/karto-plugin/"/>
+        <title type="html"><![CDATA[ReactOS "Open-Source Windows" Project Now Capable of Running Half-Life 2]]></title>
+        <id>https://www.phoronix.com/news/Half-Life-2-ReactOS</id>
+        <link href="https://www.phoronix.com/news/Half-Life-2-ReactOS"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gladia-CLI: A command-line tool for audio transcription]]></title>
-        <id>https://github.com/gladiaio/gladia-cli</id>
-        <link href="https://github.com/gladiaio/gladia-cli"/>
+        <title type="html"><![CDATA[Show HN: My 11 year old daughter and I build this DQ style game on macOS]]></title>
+        <id>https://code.intellios.ai/cedricsquest/</id>
+        <link href="https://code.intellios.ai/cedricsquest/"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Effects as Capabilities]]></title>
-        <id>https://nrinaudo.github.io/talks/capabilities.html</id>
-        <link href="https://nrinaudo.github.io/talks/capabilities.html"/>
+        <title type="html"><![CDATA[A field guide to Claude Fable 5: Finding your unknowns]]></title>
+        <id>https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns</id>
+        <link href="https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A better way to tie your gym shorts. (Or any drawstring) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=3R0Lp86GEBk</id>
-        <link href="https://www.youtube.com/watch?v=3R0Lp86GEBk"/>
+        <title type="html"><![CDATA[DARPA program to make 30 yr batteries for drones from nuclear waste]]></title>
+        <id>https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/</id>
+        <link href="https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: PostgreSQL performance and cost across 23 EC2 instance types]]></title>
-        <id>https://postgres.saneengineer.com</id>
-        <link href="https://postgres.saneengineer.com"/>
+        <title type="html"><![CDATA[Unis are relying on AI-detection software to catch cheating. Does it work]]></title>
+        <id>https://www.nature.com/articles/d41586-026-01358-2</id>
+        <link href="https://www.nature.com/articles/d41586-026-01358-2"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elastic's Agentic SOC]]></title>
-        <id>https://www.elastic.co/security-labs/alert-triage-agentic-soc-elastic-workflows</id>
-        <link href="https://www.elastic.co/security-labs/alert-triage-agentic-soc-elastic-workflows"/>
+        <title type="html"><![CDATA[Custom coreboot firmware (and utilities) for your Chromebook/Chromebox]]></title>
+        <id>https://docs.mrchromebox.tech/</id>
+        <link href="https://docs.mrchromebox.tech/"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Efficiency focused "Thinking CAP" model series]]></title>
-        <id>https://www.bottlecapai.com/thinkingcap-qwen3-6-27b</id>
-        <link href="https://www.bottlecapai.com/thinkingcap-qwen3-6-27b"/>
+        <title type="html"><![CDATA[Samsar: Model-Composable 1-Shot Generative Video Harness and Software Factory]]></title>
+        <id>https://github.com/samsarone/samsar</id>
+        <link href="https://github.com/samsarone/samsar"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flex your Claude Code usage]]></title>
-        <id>https://www.claudeusage.com/leaderboard</id>
-        <link href="https://www.claudeusage.com/leaderboard"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says]]></title>
-        <id>https://www.reuters.com/business/ai-investors-may-pivot-hyperscalers-chipmakers-morgan-stanley-says-2026-07-06/</id>
-        <link href="https://www.reuters.com/business/ai-investors-may-pivot-hyperscalers-chipmakers-morgan-stanley-says-2026-07-06/"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows users are reporting a graphical bug. Google Chrome may be to blame]]></title>
-        <id>https://www.neowin.net/reports/windows-10-and-11-users-are-reporting-a-graphical-bug-and-google-chrome-may-be-to-blame/</id>
-        <link href="https://www.neowin.net/reports/windows-10-and-11-users-are-reporting-a-graphical-bug-and-google-chrome-may-be-to-blame/"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Industry of Lies, or What Leaders Need to Know About AI]]></title>
-        <id>https://msukhareva.substack.com/p/the-industry-of-lies-or-what-leaders</id>
-        <link href="https://msukhareva.substack.com/p/the-industry-of-lies-or-what-leaders"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: QuickPing – dead simple way for customers to get in touch with you]]></title>
-        <id>https://www.quickping.dev/</id>
-        <link href="https://www.quickping.dev/"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Putin is losing his battle with reality [video]]]></title>
-        <id>https://www.youtube.com/watch?v=AAbtLR_n_E8</id>
-        <link href="https://www.youtube.com/watch?v=AAbtLR_n_E8"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Device Doesn't Make Sense (Sickos) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=P4GnzlDkw5o</id>
-        <link href="https://www.youtube.com/watch?v=P4GnzlDkw5o"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earliest octopi were giant top predators in Cretaceous oceans]]></title>
-        <id>https://www.science.org/doi/10.1126/science.aea6285</id>
-        <link href="https://www.science.org/doi/10.1126/science.aea6285"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The UK Government Wants to Destroy Free Speech on YouTube [video]]]></title>
-        <id>https://www.youtube.com/watch?v=EKIKveClo6c</id>
-        <link href="https://www.youtube.com/watch?v=EKIKveClo6c"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Mandelbrot set renderer written in pure [BSD] Makefiles]]></title>
-        <id>https://github.com/b-aaz/bmake-extravaganza</id>
-        <link href="https://github.com/b-aaz/bmake-extravaganza"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Tests Pocket, an Experimental App for AI-Generated Mini-Games]]></title>
-        <id>https://www.ghacks.net/2026/07/05/meta-tests-pocket-an-experimental-app-for-ai-generated-mini-games-called-gizmos/</id>
-        <link href="https://www.ghacks.net/2026/07/05/meta-tests-pocket-an-experimental-app-for-ai-generated-mini-games-called-gizmos/"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a wazuh server in Python from scratch for fun and maybe profit]]></title>
-        <id>https://medium.com/@souzo/making-a-wazuh-server-in-python-from-scratch-for-fun-and-maybe-profit-c3ac6758756f</id>
-        <link href="https://medium.com/@souzo/making-a-wazuh-server-in-python-from-scratch-for-fun-and-maybe-profit-c3ac6758756f"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Current ListenBrainz server issues/high load, Part 2]]></title>
-        <id>https://blog.metabrainz.org/2026/07/06/current-listenbrainz-server-issues-high-load-part-2/</id>
-        <link href="https://blog.metabrainz.org/2026/07/06/current-listenbrainz-server-issues-high-load-part-2/"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Noriento – Train your sense of direction]]></title>
-        <id>https://noriento.com/</id>
-        <link href="https://noriento.com/"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Aestheticscience.net – A website for rating academic papers]]></title>
-        <id>https://aestheticscience.net/</id>
-        <link href="https://aestheticscience.net/"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Look mom, no ADCs Scaling ML analog compute to 1000x lower energy than digital]]></title>
-        <id>https://sangota.substack.com/p/analog-can-scale-heres-how</id>
-        <link href="https://sangota.substack.com/p/analog-can-scale-heres-how"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attribute Knowledge RAG Pattern for Governed AI Agents]]></title>
-        <id>https://superml.dev/attribute-knowledge-rag-pattern-llm-governed-attributes</id>
-        <link href="https://superml.dev/attribute-knowledge-rag-pattern-llm-governed-attributes"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Cindy – Managing infrastructure at breakneck speed]]></title>
-        <id>https://cindy.rs</id>
-        <link href="https://cindy.rs"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artificiety – Agentic society in a fantasy world (early access)]]></title>
-        <id>https://artificiety.world</id>
-        <link href="https://artificiety.world"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caught a .git/Config Crawler]]></title>
-        <id>https://bruceediger.com/posts/git-config-spider/</id>
-        <link href="https://bruceediger.com/posts/git-config-spider/"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woman's hip replacement disintegrates, causing metal poisoning]]></title>
-        <id>https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/</id>
-        <link href="https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/"/>
+        <title type="html"><![CDATA[NSA and IETF: Fairness]]></title>
+        <id>https://blog.cr.yp.to/20260706-fairness.html</id>
+        <link href="https://blog.cr.yp.to/20260706-fairness.html"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
@@ -358,9 +358,9 @@
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NSA and IETF: Fairness]]></title>
-        <id>https://blog.cr.yp.to/20260706-fairness.html</id>
-        <link href="https://blog.cr.yp.to/20260706-fairness.html"/>
+        <title type="html"><![CDATA[Woman's hip replacement disintegrates, causing metal poisoning]]></title>
+        <id>https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/</id>
+        <link href="https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/"/>
         <updated>2026-07-06T16:00:00.000Z</updated>
         <published>2026-07-06T16:00:00.000Z</published>
     </entry>
