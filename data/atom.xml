@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-08T02:01:34.817Z</updated>
+    <updated>2026-07-08T04:01:45.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -113,121 +113,58 @@
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Porting from Delphi to JavaScript, will unalive your blog from Delphi RSS Sites]]></title>
-        <id>https://delphinightmares.substack.com/p/porting-from-delphi-to-js-will-unalive</id>
-        <link href="https://delphinightmares.substack.com/p/porting-from-delphi-to-js-will-unalive"/>
+        <title type="html"><![CDATA[Show HN: I built an AI hairstyle preview tool before your next haircut]]></title>
+        <id>https://hairstylespro.com</id>
+        <link href="https://hairstylespro.com"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta says it's facing $1.4T in penalties in teen mental health case]]></title>
-        <id>https://nypost.com/2026/07/07/business/meta-says-its-facing-1-4t-in-penalties-in-teen-mental-health-case-sum-equal-to-tech-giants-valuation/</id>
-        <link href="https://nypost.com/2026/07/07/business/meta-says-its-facing-1-4t-in-penalties-in-teen-mental-health-case-sum-equal-to-tech-giants-valuation/"/>
+        <title type="html"><![CDATA[Trump administration lifts restrictions on OpenAI's GPT 5.6]]></title>
+        <id>https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted</id>
+        <link href="https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Ghostmeet – Self-hosted meeting transcription and summaries]]></title>
-        <id>https://ghostmeet.sshlab.dev/</id>
-        <link href="https://ghostmeet.sshlab.dev/"/>
+        <title type="html"><![CDATA[Half of Americans struggle to afford groceries and gas, exclusive poll finds]]></title>
+        <id>https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas</id>
+        <link href="https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How did Windows 95 decide that a setup program ran?]]></title>
-        <id>https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508</id>
-        <link href="https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508"/>
+        <title type="html"><![CDATA[Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks]]></title>
+        <id>https://www.digipres.org/the-floppy-guide/</id>
+        <link href="https://www.digipres.org/the-floppy-guide/"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: FrankenMarkdown, Render .md Files to PDF/HTML (also in browser)]]></title>
-        <id>https://github.com/Dicklesworthstone/franken_markdown</id>
-        <link href="https://github.com/Dicklesworthstone/franken_markdown"/>
+        <title type="html"><![CDATA[Show HN: A quiet new tab that replaces your default boring new tab in Chrome]]></title>
+        <id>https://chromewebstore.google.com/detail/nook-tab/loogeapnnikphlehifdfmmceaeidbhnd</id>
+        <link href="https://chromewebstore.google.com/detail/nook-tab/loogeapnnikphlehifdfmmceaeidbhnd"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Linux tc to limit the outgoing bandwidth of a web server]]></title>
-        <id>https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth</id>
-        <link href="https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth"/>
+        <title type="html"><![CDATA[Protobuf-py: Protobuf for Python, without compromises]]></title>
+        <id>https://buf.build/blog/protobuf-py</id>
+        <link href="https://buf.build/blog/protobuf-py"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASRock Rack Had One of the First Arm AGI Servers at Computex 2026 – ServeTheHome]]></title>
-        <id>https://www.servethehome.com/asrock-rack-had-one-of-the-first-arm-agi-servers-at-computex-2026/</id>
-        <link href="https://www.servethehome.com/asrock-rack-had-one-of-the-first-arm-agi-servers-at-computex-2026/"/>
+        <title type="html"><![CDATA[Paseo: Orchestrate coding agents from your desk and your phone]]></title>
+        <id>https://paseo.sh/</id>
+        <link href="https://paseo.sh/"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chinese AI models are gaining ground with U.S. companies as costs surge]]></title>
-        <id>https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html</id>
-        <link href="https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta accused of discriminating against non-Chinese workers in latest layoff]]></title>
-        <id>https://old.reddit.com/r/cscareerquestions/comments/1uq4a92/meta_accused_of_discriminating_against_nonchinese/</id>
-        <link href="https://old.reddit.com/r/cscareerquestions/comments/1uq4a92/meta_accused_of_discriminating_against_nonchinese/"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Instant GraphRAG over any Postgres database]]></title>
-        <id>https://polygres.com</id>
-        <link href="https://polygres.com"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The End of Compute Scarcity? Not So Fast]]></title>
-        <id>https://cloudedjudgement.substack.com/p/clouded-judgement-7326-the-end-of</id>
-        <link href="https://cloudedjudgement.substack.com/p/clouded-judgement-7326-the-end-of"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omnibaas, a provider-agnostic Infrastructure-as-Code compiler for BaaS services]]></title>
-        <id>https://github.com/davidecampora/Omnibaas</id>
-        <link href="https://github.com/davidecampora/Omnibaas"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How do you keep documentation up to date with AI generated code?]]></title>
-        <id>https://news.ycombinator.com/item?id=48825447</id>
-        <link href="https://news.ycombinator.com/item?id=48825447"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Firefox for the Future]]></title>
-        <id>https://blog.mozilla.org/en/firefox/new-firefox-design/</id>
-        <link href="https://blog.mozilla.org/en/firefox/new-firefox-design/"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I had to give a wrong answer to get the job (2017)]]></title>
-        <id>https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/</id>
-        <link href="https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: PGP made convenient (encrypted at rest with passkeys)]]></title>
-        <id>https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp</id>
-        <link href="https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tried a new VSCode Agent tonight. Like it. Thought I'd pass it on]]></title>
-        <id>https://buildbygrok.gumroad.com/l/BuildwithChat</id>
-        <link href="https://buildbygrok.gumroad.com/l/BuildwithChat"/>
+        <title type="html"><![CDATA[Structure and Interpretation of Computer Programs Video Lectures]]></title>
+        <id>https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/</id>
+        <link href="https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
@@ -239,9 +176,149 @@
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Structure and Interpretation of Computer Programs Video Lectures]]></title>
-        <id>https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/</id>
-        <link href="https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/"/>
+        <title type="html"><![CDATA[Tried a new VSCode Agent tonight. Like it. Thought I'd pass it on]]></title>
+        <id>https://buildbygrok.gumroad.com/l/BuildwithChat</id>
+        <link href="https://buildbygrok.gumroad.com/l/BuildwithChat"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: PGP made convenient (encrypted at rest with passkeys)]]></title>
+        <id>https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp</id>
+        <link href="https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I had to give a wrong answer to get the job (2017)]]></title>
+        <id>https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/</id>
+        <link href="https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Firefox for the Future]]></title>
+        <id>https://blog.mozilla.org/en/firefox/new-firefox-design/</id>
+        <link href="https://blog.mozilla.org/en/firefox/new-firefox-design/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How do you keep documentation up to date with AI generated code?]]></title>
+        <id>https://news.ycombinator.com/item?id=48825447</id>
+        <link href="https://news.ycombinator.com/item?id=48825447"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnibaas, a provider-agnostic Infrastructure-as-Code compiler for BaaS services]]></title>
+        <id>https://github.com/davidecampora/Omnibaas</id>
+        <link href="https://github.com/davidecampora/Omnibaas"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Compute Scarcity? Not So Fast]]></title>
+        <id>https://cloudedjudgement.substack.com/p/clouded-judgement-7326-the-end-of</id>
+        <link href="https://cloudedjudgement.substack.com/p/clouded-judgement-7326-the-end-of"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Instant GraphRAG over any Postgres database]]></title>
+        <id>https://polygres.com</id>
+        <link href="https://polygres.com"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta accused of discriminating against non-Chinese workers in latest layoff]]></title>
+        <id>https://old.reddit.com/r/cscareerquestions/comments/1uq4a92/meta_accused_of_discriminating_against_nonchinese/</id>
+        <link href="https://old.reddit.com/r/cscareerquestions/comments/1uq4a92/meta_accused_of_discriminating_against_nonchinese/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese AI models are gaining ground with U.S. companies as costs surge]]></title>
+        <id>https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html</id>
+        <link href="https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASRock Rack Had One of the First Arm AGI Servers at Computex 2026 – ServeTheHome]]></title>
+        <id>https://www.servethehome.com/asrock-rack-had-one-of-the-first-arm-agi-servers-at-computex-2026/</id>
+        <link href="https://www.servethehome.com/asrock-rack-had-one-of-the-first-arm-agi-servers-at-computex-2026/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Linux tc to limit the outgoing bandwidth of a web server]]></title>
+        <id>https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth</id>
+        <link href="https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: FrankenMarkdown, Render .md Files to PDF/HTML (also in browser)]]></title>
+        <id>https://github.com/Dicklesworthstone/franken_markdown</id>
+        <link href="https://github.com/Dicklesworthstone/franken_markdown"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How did Windows 95 decide that a setup program ran?]]></title>
+        <id>https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Ghostmeet – Self-hosted meeting transcription and summaries]]></title>
+        <id>https://ghostmeet.sshlab.dev/</id>
+        <link href="https://ghostmeet.sshlab.dev/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta says it's facing $1.4T in penalties in teen mental health case]]></title>
+        <id>https://nypost.com/2026/07/07/business/meta-says-its-facing-1-4t-in-penalties-in-teen-mental-health-case-sum-equal-to-tech-giants-valuation/</id>
+        <link href="https://nypost.com/2026/07/07/business/meta-says-its-facing-1-4t-in-penalties-in-teen-mental-health-case-sum-equal-to-tech-giants-valuation/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Porting from Delphi to JavaScript, will unalive your blog from Delphi RSS Sites]]></title>
+        <id>https://delphinightmares.substack.com/p/porting-from-delphi-to-js-will-unalive</id>
+        <link href="https://delphinightmares.substack.com/p/porting-from-delphi-to-js-will-unalive"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Is Evolving Fast. The Latest Shift? From Single Prompts to Self-Correcting Loops.]]></title>
+        <id>https://pub.towardsai.net/ai-is-evolving-fast-the-latest-shift-from-single-prompts-to-self-correcting-loops-8ba9c955993f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-is-evolving-fast-the-latest-shift-from-single-prompts-to-self-correcting-loops-8ba9c955993f?source=rss----98111c9905da---4"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Stopped Working Weekends as a Siebel Tester: 9 Ways I Learned to Work Smarter, Not Harder]]></title>
+        <id>https://pub.towardsai.net/how-i-stopped-working-weekends-as-a-siebel-tester-9-ways-i-learned-to-work-smarter-not-harder-ade598824a66?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-i-stopped-working-weekends-as-a-siebel-tester-9-ways-i-learned-to-work-smarter-not-harder-ade598824a66?source=rss----98111c9905da---4"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Agent SDK Plugins: You Built a Test Tool, a Reviewer, and an Audit Hook.]]></title>
+        <id>https://pub.towardsai.net/claude-agent-sdk-plugins-you-built-a-test-tool-a-reviewer-and-an-audit-hook-0fd08307b768?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-agent-sdk-plugins-you-built-a-test-tool-a-reviewer-and-an-audit-hook-0fd08307b768?source=rss----98111c9905da---4"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Send 1% of Your Logs to an LLM and Still Catch Everything]]></title>
+        <id>https://pub.towardsai.net/how-to-send-1-of-your-logs-to-an-llm-and-still-catch-everything-dce28b1b5a93?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-send-1-of-your-logs-to-an-llm-and-still-catch-everything-dce28b1b5a93?source=rss----98111c9905da---4"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
@@ -260,108 +337,31 @@
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ACL 2026美团论文精选：从能力评测到推理优化，构建生成新范式]]></title>
-        <id>https://tech.meituan.com/2026/06/05/ACL-2026.html</id>
-        <link href="https://tech.meituan.com/2026/06/05/ACL-2026.html"/>
+        <title type="html"><![CDATA[Statistically Meaningful Geometry and Gauge Symmetry Breaking: A Geometric Foundation for Scientific Discovery and Intelligence Emergence]]></title>
+        <id>https://arxiv.org/abs/2607.05436</id>
+        <link href="https://arxiv.org/abs/2607.05436"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When a `for...of` Loop Is Better Than `reduce()`]]></title>
-        <id>https://dev.to/amrishkhan05/when-a-forof-loop-is-better-than-reduce-1f3j</id>
-        <link href="https://dev.to/amrishkhan05/when-a-forof-loop-is-better-than-reduce-1f3j"/>
+        <title type="html"><![CDATA[Geometry-Aware Infrastructure-Anchored Denoiser for UWB Sensing and Work-Zone Reconstruction]]></title>
+        <id>https://arxiv.org/abs/2607.05449</id>
+        <link href="https://arxiv.org/abs/2607.05449"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frontend JavaScript Utilities — From Scratch]]></title>
-        <id>https://dev.to/zeeshanali0704/frontend-javascript-utilities-from-scratch-4n02</id>
-        <link href="https://dev.to/zeeshanali0704/frontend-javascript-utilities-from-scratch-4n02"/>
+        <title type="html"><![CDATA[Exogenous Dropout: A Simple, Strong Baseline for Corruption-Robust Time Series Forecasting with Covariates]]></title>
+        <id>https://arxiv.org/abs/2607.05452</id>
+        <link href="https://arxiv.org/abs/2607.05452"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimizing Network Interception in Manifest V3: Inside the Architecture of an Asynchronous Blocklist Extension]]></title>
-        <id>https://dev.to/m_aleem_naveed/optimizing-network-interception-in-manifest-v3-inside-the-architecture-of-an-asynchronous-5c8p</id>
-        <link href="https://dev.to/m_aleem_naveed/optimizing-network-interception-in-manifest-v3-inside-the-architecture-of-an-asynchronous-5c8p"/>
+        <title type="html"><![CDATA[AdaStop: Cost-Aware Early Stopping for DNN Test Selection]]></title>
+        <id>https://arxiv.org/abs/2607.05461</id>
+        <link href="https://arxiv.org/abs/2607.05461"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Doctor marcó 1,249 problemas en una SPA de React. Cinco valían la pena arreglar]]></title>
-        <id>https://dev.to/aws-builders/react-doctor-marco-1249-problemas-en-una-spa-de-react-cinco-valian-la-pena-arreglar-391f</id>
-        <link href="https://dev.to/aws-builders/react-doctor-marco-1249-problemas-en-una-spa-de-react-cinco-valian-la-pena-arreglar-391f"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I put a WebGL warp shader inside a Chrome extension so ultrawide monitors stop wasting a third of the screen]]></title>
-        <id>https://dev.to/pavel_akimov/i-put-a-webgl-warp-shader-inside-a-chrome-extension-so-ultrawide-monitors-stop-wasting-a-third-of-37ga</id>
-        <link href="https://dev.to/pavel_akimov/i-put-a-webgl-warp-shader-inside-a-chrome-extension-so-ultrawide-monitors-stop-wasting-a-third-of-37ga"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bulk 204 buy old gmail accounts-2fa,email,Aged,PVA,Strong,Verified,Bulk]]></title>
-        <id>https://dev.to/safret5/bulk-204-buy-old-gmail-accounts-2faemailagedpvastrongverifiedbulk-7cn</id>
-        <link href="https://dev.to/safret5/bulk-204-buy-old-gmail-accounts-2faemailagedpvastrongverifiedbulk-7cn"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🇨🇭 focu.ch is live! A quiet place for your mind, in a noisy digital world.🤍🗻🍷]]></title>
-        <id>https://dev.to/learn2027/focuch-is-livea-quiet-place-for-your-mind-in-a-noisy-digital-world-5ema</id>
-        <link href="https://dev.to/learn2027/focuch-is-livea-quiet-place-for-your-mind-in-a-noisy-digital-world-5ema"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["an AI-interview experience with zero AI and zero cost." Opens with the three bills you didn't pay (TTS, Whisper, proctoring vendor)]]></title>
-        <id>https://dev.to/sheryar_ahmed/an-ai-interview-experience-with-zero-ai-and-zero-cost-opens-with-the-three-bills-you-didnt-pay-1jmm</id>
-        <link href="https://dev.to/sheryar_ahmed/an-ai-interview-experience-with-zero-ai-and-zero-cost-opens-with-the-three-bills-you-didnt-pay-1jmm"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharks 3D 2.1.1 for macOS – Immersive Animated Shark Wallpaper and Screensaver]]></title>
-        <id>https://dev.to/mi_tche_6023f67f5372/sharks-3d-211-for-macos-immersive-animated-shark-wallpaper-and-screensaver-4emh</id>
-        <link href="https://dev.to/mi_tche_6023f67f5372/sharks-3d-211-for-macos-immersive-animated-shark-wallpaper-and-screensaver-4emh"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CARRION 1.0.5 for Mac – Experience the Award-Winning Reverse Horror Adventure]]></title>
-        <id>https://dev.to/mi_tche_6023f67f5372/carrion-105-for-mac-experience-the-award-winning-reverse-horror-adventure-3b62</id>
-        <link href="https://dev.to/mi_tche_6023f67f5372/carrion-105-for-mac-experience-the-award-winning-reverse-horror-adventure-3b62"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Python List Comprehension Chronicles: A Journey Through the Matrix]]></title>
-        <id>https://dev.to/timevolt/the-python-list-comprehension-chronicles-a-journey-through-the-matrix-3h0g</id>
-        <link href="https://dev.to/timevolt/the-python-list-comprehension-chronicles-a-journey-through-the-matrix-3h0g"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My menu bar clock disappeared after a macOS update. I wrote a 50-line VS Code extension instead of trusting a marketplace one.]]></title>
-        <id>https://dev.to/nomurasan/my-menu-bar-clock-disappeared-after-a-macos-update-i-wrote-a-50-line-vs-code-extension-instead-of-3kgm</id>
-        <link href="https://dev.to/nomurasan/my-menu-bar-clock-disappeared-after-a-macos-update-i-wrote-a-50-line-vs-code-extension-instead-of-3kgm"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord accidentally banned over 8,000 people for posting grids and other &#8216;benign&#8217; images]]></title>
-        <id>https://www.theverge.com/games/962156/discord-accidental-bans-grid-images</id>
-        <link href="https://www.theverge.com/games/962156/discord-accidental-bans-grid-images"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five questions for Dr. Rubin, who’s armed with a mic and a bowtie]]></title>
-        <id>https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview</id>
-        <link href="https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <published>2026-07-06T16:00:00.000Z</published>
     </entry>
 </feed>
