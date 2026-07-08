@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-08T15:02:52.427Z</updated>
+    <updated>2026-07-08T22:01:25.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,65 +15,191 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones]]></title>
+        <id>https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder</id>
+        <link href="https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed]]></title>
+        <id>https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs</id>
+        <link href="https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement]]></title>
+        <id>https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/</id>
+        <link href="https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Thiel’s Husband Sued a Flight Attendant Who Says He Assaulted Her on a Private Jet]]></title>
+        <id>https://www.wired.com/story/peter-thiels-husband-sued-a-flight-attendant-who-says-he-assaulted-her-on-a-private-jet/</id>
+        <link href="https://www.wired.com/story/peter-thiels-husband-sued-a-flight-attendant-who-says-he-assaulted-her-on-a-private-jet/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feds demand autonomous vehicle companies stop interfering with first responders]]></title>
+        <id>https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/</id>
+        <link href="https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon]]></title>
+        <id>https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/</id>
+        <link href="https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This startup thinks robotics is about to have its ChatGPT moment]]></title>
+        <id>https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/</id>
+        <link href="https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk says X will send DMs when posts you’ve engaged with are corrected]]></title>
+        <id>https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/</id>
+        <link href="https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Photos adds a new AI ‘Video Remix’ tool]]></title>
+        <id>https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/</id>
+        <link href="https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why this CEO thinks video games make better training data than the internet]]></title>
+        <id>https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/</id>
+        <link href="https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.]]></title>
+        <id>https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/</id>
+        <link href="https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups]]></title>
+        <id>https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/</id>
+        <link href="https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prime Intellect raises $130M Series A to help enterprises build their own AI agents]]></title>
+        <id>https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/</id>
+        <link href="https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Compromise Go and PHP Packages]]></title>
+        <id>https://opensourcemalware.com/blog/polinrider-jumps-the-fence</id>
+        <link href="https://opensourcemalware.com/blog/polinrider-jumps-the-fence"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewriting Bun in Rust]]></title>
+        <id>https://bun.com/blog/bun-in-rust</id>
+        <link href="https://bun.com/blog/bun-in-rust"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Workers Take Mental Health Leave, and Bosses Aren't Happy]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-07-08/mental-health-leave-is-rising-as-more-us-workers-take-fmla-time-off</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-07-08/mental-health-leave-is-rising-as-more-us-workers-take-fmla-time-off"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Probed – Talk to your People. Customer chat, feedback, and roadmaps]]></title>
+        <id>https://probed.chat/</id>
+        <link href="https://probed.chat/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You’re Not Wasting Tokens by Writing Too Much. You’re Wasting Them by Remembering Too Much]]></title>
+        <id>https://pub.towardsai.net/youre-not-wasting-tokens-by-writing-too-much-you-re-wasting-them-by-remembering-too-much-fd4502ac0eb7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/youre-not-wasting-tokens-by-writing-too-much-you-re-wasting-them-by-remembering-too-much-fd4502ac0eb7?source=rss----98111c9905da---4"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating cross-repo documentation with GitHub Agentic Workflows]]></title>
+        <id>https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/</id>
+        <link href="https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub availability report: June 2026]]></title>
+        <id>https://github.blog/news-insights/company-news/github-availability-report-june-2026/</id>
+        <link href="https://github.blog/news-insights/company-news/github-availability-report-june-2026/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How GitHub Copilot enables zero DNS configuration for GitHub Pages]]></title>
+        <id>https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/</id>
+        <link href="https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a free tool to scan your package.json for API deprecations]]></title>
+        <id>https://dev.to/ahmed889code/i-built-a-free-tool-to-scan-your-packagejson-for-api-deprecations-3pfp</id>
+        <link href="https://dev.to/ahmed889code/i-built-a-free-tool-to-scan-your-packagejson-for-api-deprecations-3pfp"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Validate API changelog: disposable-email detection and postal-code validation]]></title>
+        <id>https://dev.to/jay-ecommerce/validate-api-changelog-disposable-email-detection-and-postal-code-validation-4e6e</id>
+        <link href="https://dev.to/jay-ecommerce/validate-api-changelog-disposable-email-detection-and-postal-code-validation-4e6e"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ideoSolo Video Converter Ultimate 2.2.58 for macOS]]></title>
+        <id>https://dev.to/zggg_3197fa13a97a40d0df4d/ideosolo-video-converter-ultimate-2258-for-macos-4k4e</id>
+        <link href="https://dev.to/zggg_3197fa13a97a40d0df4d/ideosolo-video-converter-ultimate-2258-for-macos-4k4e"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[useTransition vs useDeferredValue: I Built a Lab Where You Can Feel Concurrent React]]></title>
+        <id>https://dev.to/dev48v/usetransition-vs-usedeferredvalue-i-built-a-lab-where-you-can-feel-concurrent-react-1djc</id>
+        <link href="https://dev.to/dev48v/usetransition-vs-usedeferredvalue-i-built-a-lab-where-you-can-feel-concurrent-react-1djc"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Transient Prop?]]></title>
+        <id>https://dev.to/usama_dev/what-is-a-transient-prop-2pkj</id>
+        <link href="https://dev.to/usama_dev/what-is-a-transient-prop-2pkj"/>
+        <updated>2026-07-08T16:00:00.000Z</updated>
+        <published>2026-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[派早报：Nothing Ear (3a) 发布、Meta 推出 Muse 图像生成模型等]]></title>
         <id>https://sspai.com/post/112049</id>
         <link href="https://sspai.com/post/112049"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This jumping $800 robot camera dog filled me with joy]]></title>
-        <id>https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview</id>
-        <link href="https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The whole Pixel line could get more expensive this year]]></title>
-        <id>https://www.theverge.com/tech/962781/google-pixel-11-lineup-price-increase</id>
-        <link href="https://www.theverge.com/tech/962781/google-pixel-11-lineup-price-increase"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaming laptops are too expensive right now, but this one’s a good value]]></title>
-        <id>https://www.theverge.com/gadgets/962754/msi-gaming-laptop-ethernet-switch-pc-steam-game-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/962754/msi-gaming-laptop-ethernet-switch-pc-steam-game-deal-sale"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Of course viewers are giving up on Netflix shows]]></title>
-        <id>https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok</id>
-        <link href="https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers]]></title>
-        <id>https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming</id>
-        <link href="https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s new Muse Image model can pull other Instagram users into AI photos]]></title>
-        <id>https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram</id>
-        <link href="https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X says top accounts steal videos from other users as it announces new video tools]]></title>
-        <id>https://www.theverge.com/tech/962415/x-video-editor-recycled-content</id>
-        <link href="https://www.theverge.com/tech/962415/x-video-editor-recycled-content"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABC tells the government to get out of its newsrooms]]></title>
-        <id>https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech</id>
-        <link href="https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
@@ -85,44 +211,58 @@
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG Micro RGB Evo Review: Brilliant, Bright, Not Budget-Friendly]]></title>
-        <id>https://www.wired.com/review/lg-micro-rgb-evo/</id>
-        <link href="https://www.wired.com/review/lg-micro-rgb-evo/"/>
+        <title type="html"><![CDATA[ABC tells the government to get out of its newsrooms]]></title>
+        <id>https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech</id>
+        <link href="https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pickup Artist Mystery Has an AI Girlfriend]]></title>
-        <id>https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/</id>
-        <link href="https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/"/>
+        <title type="html"><![CDATA[X says top accounts steal videos from other users as it announces new video tools]]></title>
+        <id>https://www.theverge.com/tech/962415/x-video-editor-recycled-content</id>
+        <link href="https://www.theverge.com/tech/962415/x-video-editor-recycled-content"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vimeo Promo Codes and Discounts: Up to 40% Off This July 2026]]></title>
-        <id>https://www.wired.com/story/vimeo-promo-code/</id>
-        <link href="https://www.wired.com/story/vimeo-promo-code/"/>
+        <title type="html"><![CDATA[Meta’s new Muse Image model can pull other Instagram users into AI photos]]></title>
+        <id>https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram</id>
+        <link href="https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TurboTax Full Service Coupons This July]]></title>
-        <id>https://www.wired.com/story/turbotax-coupon/</id>
-        <link href="https://www.wired.com/story/turbotax-coupon/"/>
+        <title type="html"><![CDATA[Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers]]></title>
+        <id>https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming</id>
+        <link href="https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI’s Chief Futurist Is Leaving the Company]]></title>
-        <id>https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/</id>
-        <link href="https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/"/>
+        <title type="html"><![CDATA[Of course viewers are giving up on Netflix shows]]></title>
+        <id>https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok</id>
+        <link href="https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out]]></title>
-        <id>https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/</id>
-        <link href="https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/"/>
+        <title type="html"><![CDATA[Gaming laptops are too expensive right now, but this one’s a good value]]></title>
+        <id>https://www.theverge.com/gadgets/962754/msi-gaming-laptop-ethernet-switch-pc-steam-game-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/962754/msi-gaming-laptop-ethernet-switch-pc-steam-game-deal-sale"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The whole Pixel line could get more expensive this year]]></title>
+        <id>https://www.theverge.com/tech/962781/google-pixel-11-lineup-price-increase</id>
+        <link href="https://www.theverge.com/tech/962781/google-pixel-11-lineup-price-increase"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This jumping $800 robot camera dog filled me with joy]]></title>
+        <id>https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview</id>
+        <link href="https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
@@ -134,37 +274,65 @@
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Final extension: Startup Battlefield Australia applications now close July 20]]></title>
-        <id>https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/</id>
-        <link href="https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/"/>
+        <title type="html"><![CDATA[Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out]]></title>
+        <id>https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/</id>
+        <link href="https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta rolls out Muse, a new AI image generator]]></title>
-        <id>https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/</id>
-        <link href="https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"/>
+        <title type="html"><![CDATA[OpenAI’s Chief Futurist Is Leaving the Company]]></title>
+        <id>https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/</id>
+        <link href="https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others]]></title>
-        <id>https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/</id>
-        <link href="https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/"/>
+        <title type="html"><![CDATA[TurboTax Full Service Coupons This July]]></title>
+        <id>https://www.wired.com/story/turbotax-coupon/</id>
+        <link href="https://www.wired.com/story/turbotax-coupon/"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google’s Pixel event is set for August 12]]></title>
-        <id>https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/</id>
-        <link href="https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/"/>
+        <title type="html"><![CDATA[Vimeo Promo Codes and Discounts: Up to 40% Off This July 2026]]></title>
+        <id>https://www.wired.com/story/vimeo-promo-code/</id>
+        <link href="https://www.wired.com/story/vimeo-promo-code/"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discord admits AI moderation bug wrongfully banned users over harmless images]]></title>
-        <id>https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/</id>
-        <link href="https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/"/>
+        <title type="html"><![CDATA[Pickup Artist Mystery Has an AI Girlfriend]]></title>
+        <id>https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/</id>
+        <link href="https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG Micro RGB Evo Review: Brilliant, Bright, Not Budget-Friendly]]></title>
+        <id>https://www.wired.com/review/lg-micro-rgb-evo/</id>
+        <link href="https://www.wired.com/review/lg-micro-rgb-evo/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These AI startups are growing  revenue at faster and faster rates]]></title>
+        <id>https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/</id>
+        <link href="https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple to produce Made in America wireless chips with Broadcom]]></title>
+        <id>https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/</id>
+        <link href="https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <published>2026-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venus Aerospace raises $90M Series B to build a new kind of rocket engine]]></title>
+        <id>https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/</id>
+        <link href="https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
@@ -176,191 +344,23 @@
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ArticleOne – a daily tech briefing app]]></title>
-        <id>https://articleone.news/</id>
-        <link href="https://articleone.news/"/>
+        <title type="html"><![CDATA[Discord admits AI moderation bug wrongfully banned users over harmless images]]></title>
+        <id>https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/</id>
+        <link href="https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BrAIn, reactive AI agent nodes on a NATS bus instead of a chat loop]]></title>
-        <id>https://github.com/tibzejoker/brAIn</id>
-        <link href="https://github.com/tibzejoker/brAIn"/>
+        <title type="html"><![CDATA[Google’s Pixel event is set for August 12]]></title>
+        <id>https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/</id>
+        <link href="https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A free Claude skill that turns one blog post into 3 ready-to-publish posts]]></title>
-        <id>https://github.com/alexmendo25703-hub/content-repurposer-lite</id>
-        <link href="https://github.com/alexmendo25703-hub/content-repurposer-lite"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: RepoFleet – A CLI to manage Git workflows across multiple repositories]]></title>
-        <id>https://github.com/mehranzand/repofleet</id>
-        <link href="https://github.com/mehranzand/repofleet"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM-wiki-tags: LLM-readable codebase docs with grep-friendly tags]]></title>
-        <id>https://github.com/mpashka/llm-wiki-tags</id>
-        <link href="https://github.com/mpashka/llm-wiki-tags"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are all evils caused by insufficient knowledge?]]></title>
-        <id>https://www.bretthall.org/blog/are-all-evils-are-caused-by-insufficient-knowledge</id>
-        <link href="https://www.bretthall.org/blog/are-all-evils-are-caused-by-insufficient-knowledge"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital show and tell: how digital audio signals behave in the real world]]></title>
-        <id>https://wiki.xiph.org/Videos/Digital_Show_and_Tell</id>
-        <link href="https://wiki.xiph.org/Videos/Digital_Show_and_Tell"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quilt: Run many AI coding agents in one Git checkout]]></title>
-        <id>https://github.com/wkoverfield/quilt</id>
-        <link href="https://github.com/wkoverfield/quilt"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making AI Code Review Measurable]]></title>
-        <id>https://azuanz.com/posts/making-ai-code-review-measurable/</id>
-        <link href="https://azuanz.com/posts/making-ai-code-review-measurable/"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-Source Firmware for PicoCalc/Cardputer/Video Game Module/ESP32/Raspberry]]></title>
-        <id>https://github.com/jblanked/Picoware</id>
-        <link href="https://github.com/jblanked/Picoware"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Pin Bars Form and How to Detect Them: Lessons from a $19B Liquidation]]></title>
-        <id>https://medium.com/@DolphinDB_Inc/how-crypto-pin-bars-form-and-how-to-detect-them-lessons-from-a-19b-liquidation-6d4aad5d7972</id>
-        <link href="https://medium.com/@DolphinDB_Inc/how-crypto-pin-bars-form-and-how-to-detect-them-lessons-from-a-19b-liquidation-6d4aad5d7972"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Comcent CE – An open-source self-hosted Voice Infrastructure platform]]></title>
-        <id>https://github.com/comcent-io/comcent-ce</id>
-        <link href="https://github.com/comcent-io/comcent-ce"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub cuts short offer to burn repos on CD after mockery ensues]]></title>
-        <id>https://www.theregister.com/devops/2026/07/06/github-cuts-short-offer-to-burn-repos-on-cd-after-mockery-ensues/5267113</id>
-        <link href="https://www.theregister.com/devops/2026/07/06/github-cuts-short-offer-to-burn-repos-on-cd-after-mockery-ensues/5267113"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I built an AI hairstyle preview tool before your next haircut]]></title>
-        <id>https://hairstylespro.com</id>
-        <link href="https://hairstylespro.com"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump administration lifts restrictions on OpenAI's GPT 5.6]]></title>
-        <id>https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted</id>
-        <link href="https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Half of Americans struggle to afford groceries and gas, exclusive poll finds]]></title>
-        <id>https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas</id>
-        <link href="https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks]]></title>
-        <id>https://www.digipres.org/the-floppy-guide/</id>
-        <link href="https://www.digipres.org/the-floppy-guide/"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A quiet new tab that replaces your default boring new tab in Chrome]]></title>
-        <id>https://chromewebstore.google.com/detail/nook-tab/loogeapnnikphlehifdfmmceaeidbhnd</id>
-        <link href="https://chromewebstore.google.com/detail/nook-tab/loogeapnnikphlehifdfmmceaeidbhnd"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protobuf-py: Protobuf for Python, without compromises]]></title>
-        <id>https://buf.build/blog/protobuf-py</id>
-        <link href="https://buf.build/blog/protobuf-py"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paseo: Orchestrate coding agents from your desk and your phone]]></title>
-        <id>https://paseo.sh/</id>
-        <link href="https://paseo.sh/"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structure and Interpretation of Computer Programs Video Lectures]]></title>
-        <id>https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/</id>
-        <link href="https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open_pg_tde: Transparent Data Encryption for PostgreSQL]]></title>
-        <id>https://github.com/commandprompt/open_pg_tde</id>
-        <link href="https://github.com/commandprompt/open_pg_tde"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tried a new VSCode Agent tonight. Like it. Thought I'd pass it on]]></title>
-        <id>https://buildbygrok.gumroad.com/l/BuildwithChat</id>
-        <link href="https://buildbygrok.gumroad.com/l/BuildwithChat"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: PGP made convenient (encrypted at rest with passkeys)]]></title>
-        <id>https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp</id>
-        <link href="https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I had to give a wrong answer to get the job (2017)]]></title>
-        <id>https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/</id>
-        <link href="https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Firefox for the Future]]></title>
-        <id>https://blog.mozilla.org/en/firefox/new-firefox-design/</id>
-        <link href="https://blog.mozilla.org/en/firefox/new-firefox-design/"/>
-        <updated>2026-07-07T16:00:00.000Z</updated>
-        <published>2026-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How do you keep documentation up to date with AI generated code?]]></title>
-        <id>https://news.ycombinator.com/item?id=48825447</id>
-        <link href="https://news.ycombinator.com/item?id=48825447"/>
+        <title type="html"><![CDATA[Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others]]></title>
+        <id>https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/</id>
+        <link href="https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/"/>
         <updated>2026-07-07T16:00:00.000Z</updated>
         <published>2026-07-07T16:00:00.000Z</published>
     </entry>
