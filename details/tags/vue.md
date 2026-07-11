@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-11 21:02:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-11 23:02:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -7,25 +7,25 @@
 
 
 
-- [2026-06-30-Vue.js-vs-Next.js:-Modal-Routing-—-A-Side-by-Side-Breakdown](https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1) 
-- [2026-06-30-What-Are-the-Advantages-of-Custom-Software-Development?](https://dev.to/jacobfoster21/what-are-the-advantages-of-custom-software-development-55m3) 
 - [2026-06-30-How-I-Built-a-Browser-Based-PDF-to-Word-Converter-with-Vue-3,-pdf.js,-and-docx](https://dev.to/sunshey/how-i-built-a-browser-based-pdf-to-word-converter-with-vue-3-pdfjs-and-docx-1fa3) 
+- [2026-06-30-What-Are-the-Advantages-of-Custom-Software-Development?](https://dev.to/jacobfoster21/what-are-the-advantages-of-custom-software-development-55m3) 
+- [2026-06-30-Vue.js-vs-Next.js:-Modal-Routing-—-A-Side-by-Side-Breakdown](https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1) 
 - [2026-06-27-How-I-Add-Watermarks-to-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-add-watermarks-to-pdfs-in-the-browser-with-vue-3-and-pdf-lib-1o97) 
 - [2026-06-26-How-I-Encrypt-PDFs-in-the-Browser-with-Vue-3-and-@pdfsmaller/pdf-encrypt-lite](https://dev.to/sunshey/how-i-encrypt-pdfs-in-the-browser-with-vue-3-and-pdfsmallerpdf-encrypt-lite-1m61) 
 - [2026-06-25-How-I-Split-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-split-pdfs-in-the-browser-with-vue-3-and-pdf-lib-3gcb) 
 - [2026-06-23-How-I-Delete-PDF-Pages-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-delete-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-26ce) 
 - [2026-06-22-How-to-Convert-Word-Documents-to-PDFs-in-the-Browser-with-Vue-3,-mammoth,-and-html2pdf.js](https://dev.to/sunshey/how-to-convert-word-documents-to-pdfs-in-the-browser-with-vue-3-mammoth-and-html2pdfjs-15kh) 
-- [2026-06-18-How-to-Build-a-Real-Time-Search-Engine-Interface-in-Vue.js-3-with-Joffstrends-Search-API](https://dev.to/joffy122/how-to-build-a-real-time-search-engine-interface-in-vuejs-3-with-joffstrends-search-api-30jg) 
-- [2026-06-18-Building-a-headless-visual-editor-for-Vue-—-the-Vue-answer-to-Puck](https://dev.to/yukos1221/building-a-headless-visual-editor-for-vue-the-vue-answer-to-puck-10b7) 
 - [2026-06-18-How-to-Embed-Text-and-Hand-Drawn-Signatures-into-PDFs-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-embed-text-and-hand-drawn-signatures-into-pdfs-with-vue-3-and-pdf-lib-n8j) 
-- [2026-06-17-How-I-Rotate-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-rotate-pdfs-in-the-browser-with-vue-3-and-pdf-lib-541b) 
-- [2026-06-17-I-understand-why-Vue-is-so-loved](https://dev.to/caasieu/i-understand-why-vue-is-so-loved-41dd) 
+- [2026-06-18-Building-a-headless-visual-editor-for-Vue-—-the-Vue-answer-to-Puck](https://dev.to/yukos1221/building-a-headless-visual-editor-for-vue-the-vue-answer-to-puck-10b7) 
+- [2026-06-18-How-to-Build-a-Real-Time-Search-Engine-Interface-in-Vue.js-3-with-Joffstrends-Search-API](https://dev.to/joffy122/how-to-build-a-real-time-search-engine-interface-in-vuejs-3-with-joffstrends-search-api-30jg) 
 - [2026-06-17-Best-Vue-UI-Components-for-Project-Management-and-Scheduling](https://dev.to/olga_tash/best-vue-ui-components-for-project-management-and-scheduling-4p9d) 
+- [2026-06-17-I-understand-why-Vue-is-so-loved](https://dev.to/caasieu/i-understand-why-vue-is-so-loved-41dd) 
+- [2026-06-17-How-I-Rotate-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-rotate-pdfs-in-the-browser-with-vue-3-and-pdf-lib-541b) 
 - [2026-06-16-How-I-Convert-Excel-to-PDF-in-the-Browser-with-Vue-3,-xlsx,-and-html2pdf.js](https://dev.to/sunshey/how-i-convert-excel-to-pdf-in-the-browser-with-vue-3-xlsx-and-html2pdfjs-4k5e) 
 - [2026-06-15-How-I-Compress-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-compress-pdfs-in-the-browser-with-vue-3-and-pdf-lib-4d83) 
 - [2026-06-13-How-to-Convert-Word-to-PDF-in-the-Browser-with-Vue-3,-mammoth,-and-html2pdf.js](https://dev.to/sunshey/how-to-convert-word-to-pdf-in-the-browser-with-vue-3-mammoth-and-html2pdfjs-4c7h) 
-- [2026-06-12-How-to-Merge-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-merge-pdfs-in-the-browser-with-vue-3-and-pdf-lib-56m6) 
 - [2026-06-12-Vue-3.6-Vapor-Mode:-Opt-Out-of-the-Virtual-DOM](https://dev.to/grimicorn/vue-36-vapor-mode-opt-out-of-the-virtual-dom-50en) 
+- [2026-06-12-How-to-Merge-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-merge-pdfs-in-the-browser-with-vue-3-and-pdf-lib-56m6) 
 - [2026-07-09-Selective-Timestep-Weighting-and-Advantage-Based-Replay-for-Sample-Efficient-Diffusion-RLHF](https://arxiv.org/abs/2607.07693) 
 - [2026-07-08-Mitigating-Factual-Hallucination-in-Large-Reasoning-Models-via-Mixed-Mode-Advantage-Regularization](https://arxiv.org/abs/2607.05861) 
 - [2026-07-07-How-Much-of-the-Routing-Gap-Is-Real?-Decomposing-the-Router-to-Oracle-Gap-into-Reproducible-Specialist-Advantage-and-Single-Draw-Label-Noise](https://arxiv.org/abs/2607.03436) 
