@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-11T00:01:42.698Z</updated>
+    <updated>2026-07-11T02:01:06.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Meta turns off the Instagram feature that let users make AI deepfakes of public accounts]]></title>
-        <id>https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes</id>
-        <link href="https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes"/>
+        <title type="html"><![CDATA[A decade later, Pokémon Go finally made good on its original promise]]></title>
+        <id>https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026</id>
+        <link href="https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
@@ -29,30 +29,16 @@
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A decade later, Pokémon Go finally made good on its original promise]]></title>
-        <id>https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026</id>
-        <link href="https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026"/>
+        <title type="html"><![CDATA[Meta turns off the Instagram feature that let users make AI deepfakes of public accounts]]></title>
+        <id>https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes</id>
+        <link href="https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta removes controversial AI feature on Instagram after backlash]]></title>
-        <id>https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</id>
-        <link href="https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney+ is considering a free streaming tier, report says]]></title>
-        <id>https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/</id>
-        <link href="https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China is catching up to Elon Musk’s reusable rockets]]></title>
-        <id>https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/</id>
-        <link href="https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/"/>
+        <title type="html"><![CDATA[Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn]]></title>
+        <id>https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/</id>
+        <link href="https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
@@ -64,44 +50,58 @@
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unlocking the PSP's Dual Core Setup]]></title>
-        <id>https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/</id>
-        <link href="https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/"/>
+        <title type="html"><![CDATA[China is catching up to Elon Musk’s reusable rockets]]></title>
+        <id>https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/</id>
+        <link href="https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Hana JIT – LLVM-backed Python JIT with genetic-algorithm superoptimizer]]></title>
-        <id>https://github.com/ezducate/HanaJit</id>
-        <link href="https://github.com/ezducate/HanaJit"/>
+        <title type="html"><![CDATA[Disney+ is considering a free streaming tier, report says]]></title>
+        <id>https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/</id>
+        <link href="https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Security settings every GitHub maintainer should enable this week]]></title>
-        <id>https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/</id>
-        <link href="https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/"/>
+        <title type="html"><![CDATA[Meta removes controversial AI feature on Instagram after backlash]]></title>
+        <id>https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</id>
+        <link href="https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build your favorite technologies from scratch]]></title>
-        <id>https://github.com/codecrafters-io/build-your-own-x</id>
-        <link href="https://github.com/codecrafters-io/build-your-own-x"/>
+        <title type="html"><![CDATA[Missouri declares state of emergency after life-threatening flash floods [video]]]></title>
+        <id>https://www.youtube.com/watch?v=yzx-XelvnMg</id>
+        <link href="https://www.youtube.com/watch?v=yzx-XelvnMg"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grok Build hides a Doom-like 'easter egg' game behind the /gboom command]]></title>
-        <id>https://runtimewire.com/article/exclusive-grok-build-hides-a-doom-like-easter-egg-game-behind-the-gboom-command</id>
-        <link href="https://runtimewire.com/article/exclusive-grok-build-hides-a-doom-like-easter-egg-game-behind-the-gboom-command"/>
+        <title type="html"><![CDATA[Red is a TypeScript/Bun library for building idempotent DevOps CLIs]]></title>
+        <id>https://github.com/amiorin/red</id>
+        <link href="https://github.com/amiorin/red"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Big Headache for Police: Getting Driverless Cars to Obey Traffic Laws]]></title>
-        <id>https://www.wsj.com/business/autos/a-big-headache-for-police-getting-driverless-cars-to-obey-traffic-laws-d4a5efd2</id>
-        <link href="https://www.wsj.com/business/autos/a-big-headache-for-police-getting-driverless-cars-to-obey-traffic-laws-d4a5efd2"/>
+        <title type="html"><![CDATA[What Every Python Developer Should Know About the CPython ABI]]></title>
+        <id>https://labs.quansight.org/blog/python-abi-abi3t</id>
+        <link href="https://labs.quansight.org/blog/python-abi-abi3t"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User provider content is dangerous. Our experience]]></title>
+        <id>https://blast-radius.boomurl.me/</id>
+        <link href="https://blast-radius.boomurl.me/"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Quantum-audit – CLI to scan NPM deps for quantum-vulnerable crypto]]></title>
+        <id>https://quantum-audit-site.vercel.app</id>
+        <link href="https://quantum-audit-site.vercel.app"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
@@ -113,16 +113,44 @@
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Physicist and the Frustrated Machine]]></title>
-        <id>https://pub.towardsai.net/the-physicist-and-the-frustrated-machine-2f2fc952328c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-physicist-and-the-frustrated-machine-2f2fc952328c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[A Big Headache for Police: Getting Driverless Cars to Obey Traffic Laws]]></title>
+        <id>https://www.wsj.com/business/autos/a-big-headache-for-police-getting-driverless-cars-to-obey-traffic-laws-d4a5efd2</id>
+        <link href="https://www.wsj.com/business/autos/a-big-headache-for-police-getting-driverless-cars-to-obey-traffic-laws-d4a5efd2"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Retrieval Evaluation Metrics: P@K, MRR, NDCG Explained]]></title>
-        <id>https://pub.towardsai.net/retrieval-evaluation-metrics-p-k-mrr-ndcg-explained-bf5611ca6be5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/retrieval-evaluation-metrics-p-k-mrr-ndcg-explained-bf5611ca6be5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Grok Build hides a Doom-like 'easter egg' game behind the /gboom command]]></title>
+        <id>https://runtimewire.com/article/exclusive-grok-build-hides-a-doom-like-easter-egg-game-behind-the-gboom-command</id>
+        <link href="https://runtimewire.com/article/exclusive-grok-build-hides-a-doom-like-easter-egg-game-behind-the-gboom-command"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build your favorite technologies from scratch]]></title>
+        <id>https://github.com/codecrafters-io/build-your-own-x</id>
+        <link href="https://github.com/codecrafters-io/build-your-own-x"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security settings every GitHub maintainer should enable this week]]></title>
+        <id>https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/</id>
+        <link href="https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Hana JIT – LLVM-backed Python JIT with genetic-algorithm superoptimizer]]></title>
+        <id>https://github.com/ezducate/HanaJit</id>
+        <link href="https://github.com/ezducate/HanaJit"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking the PSP's Dual Core Setup]]></title>
+        <id>https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/</id>
+        <link href="https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
@@ -134,93 +162,23 @@
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I built a Chrome extension that auto-applies to 100 LinkedIn Easy Apply jobs per day]]></title>
-        <id>https://dev.to/member_5d0fa3ad/how-i-built-a-chrome-extension-that-auto-applies-to-100-linkedin-easy-apply-jobs-per-day-2bm7</id>
-        <link href="https://dev.to/member_5d0fa3ad/how-i-built-a-chrome-extension-that-auto-applies-to-100-linkedin-easy-apply-jobs-per-day-2bm7"/>
+        <title type="html"><![CDATA[Retrieval Evaluation Metrics: P@K, MRR, NDCG Explained]]></title>
+        <id>https://pub.towardsai.net/retrieval-evaluation-metrics-p-k-mrr-ndcg-explained-bf5611ca6be5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/retrieval-evaluation-metrics-p-k-mrr-ndcg-explained-bf5611ca6be5?source=rss----98111c9905da---4"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Building Beautiful Frontends. Build Fast Ones Instead.]]></title>
-        <id>https://dev.to/mie_code/stop-building-beautiful-frontends-build-fast-ones-instead-4o49</id>
-        <link href="https://dev.to/mie_code/stop-building-beautiful-frontends-build-fast-ones-instead-4o49"/>
+        <title type="html"><![CDATA[The Physicist and the Frustrated Machine]]></title>
+        <id>https://pub.towardsai.net/the-physicist-and-the-frustrated-machine-2f2fc952328c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-physicist-and-the-frustrated-machine-2f2fc952328c?source=rss----98111c9905da---4"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bypassing Shadow DOMs & Same-Origin Iframes: How I Solved LinkedIn's Massive SDUI Update]]></title>
-        <id>https://dev.to/maazkhanxo/bypassing-shadow-doms-same-origin-iframes-how-i-solved-linkedins-massive-sdui-update-1lmk</id>
-        <link href="https://dev.to/maazkhanxo/bypassing-shadow-doms-same-origin-iframes-how-i-solved-linkedins-massive-sdui-update-1lmk"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Next.js App Router Mistakes I See Most Often]]></title>
-        <id>https://dev.to/joodi/7-nextjs-app-router-mistakes-i-see-most-often-ai8</id>
-        <link href="https://dev.to/joodi/7-nextjs-app-router-mistakes-i-see-most-often-ai8"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript: async/await Patterns That Will Save You Hours – The Matrix]]></title>
-        <id>https://dev.to/timevolt/javascript-asyncawait-patterns-that-will-save-you-hours-the-matrix-1ja6</id>
-        <link href="https://dev.to/timevolt/javascript-asyncawait-patterns-that-will-save-you-hours-the-matrix-1ja6"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate Guide to B;uy.ing a Veri'fied Mail.ru Ac'count in the USA]]></title>
-        <id>https://dev.to/sfdgvrdyrt7/ultimate-guide-to-buying-a-verified-mailru-account-in-the-usa-67i</id>
-        <link href="https://dev.to/sfdgvrdyrt7/ultimate-guide-to-buying-a-verified-mailru-account-in-the-usa-67i"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step-by-Step Guide to B,uy.ing a Secure Mail.ru Ac.count]]></title>
-        <id>https://dev.to/sfdgvrdyrt7/step-by-step-guide-to-buying-a-secure-mailru-account-c34</id>
-        <link href="https://dev.to/sfdgvrdyrt7/step-by-step-guide-to-buying-a-secure-mailru-account-c34"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a Morse code translator that renders WAV audio entirely in the browser]]></title>
-        <id>https://dev.to/learnmorsy/i-built-a-morse-code-translator-that-renders-wav-audio-entirely-in-the-browser-84f</id>
-        <link href="https://dev.to/learnmorsy/i-built-a-morse-code-translator-that-renders-wav-audio-entirely-in-the-browser-84f"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Markdown to the Editor: Paste, Export, and What Gets Lost]]></title>
-        <id>https://dev.to/thomasnowheredev/adding-markdown-to-the-editor-paste-export-and-what-gets-lost-19hg</id>
-        <link href="https://dev.to/thomasnowheredev/adding-markdown-to-the-editor-paste-export-and-what-gets-lost-19hg"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Risks of Bu;y.ing a Veri'fied Mail.ru Ac'count]]></title>
-        <id>https://dev.to/asfwest456/risks-of-buying-a-verified-mailru-account-39d0</id>
-        <link href="https://dev.to/asfwest456/risks-of-buying-a-verified-mailru-account-39d0"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to B'uy a Trusted Veri'fied Mail.ru Ac'count in the USA]]></title>
-        <id>https://dev.to/asfwest456/how-to-buy-a-trusted-verified-mailru-account-in-the-usa-3a43</id>
-        <link href="https://dev.to/asfwest456/how-to-buy-a-trusted-verified-mailru-account-in-the-usa-3a43"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to Look for When B,uy.ing a Veri'fied Shopify Store Ac,count]]></title>
-        <id>https://dev.to/safewste4t/what-to-look-for-when-buying-a-verified-shopify-store-account-4f2p</id>
-        <link href="https://dev.to/safewste4t/what-to-look-for-when-buying-a-verified-shopify-store-account-4f2p"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show Dev: CountryClue – A fast and minimalist world flag guessing game]]></title>
-        <id>https://dev.to/__1d4febcc4/show-dev-countryclue-a-fast-and-minimalist-world-flag-guessing-game-4a7j</id>
-        <link href="https://dev.to/__1d4febcc4/show-dev-countryclue-a-fast-and-minimalist-world-flag-guessing-game-4a7j"/>
+        <title type="html"><![CDATA[The Hidden Cost of Object Spread in JavaScript: A…]]></title>
+        <id>https://dev.to/norviktech/the-hidden-cost-of-object-spread-in-javascript-a-14k0</id>
+        <link href="https://dev.to/norviktech/the-hidden-cost-of-object-spread-in-javascript-a-14k0"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
@@ -232,23 +190,100 @@
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show Dev: CountryClue – A fast and minimalist world flag guessing game]]></title>
+        <id>https://dev.to/__1d4febcc4/show-dev-countryclue-a-fast-and-minimalist-world-flag-guessing-game-4a7j</id>
+        <link href="https://dev.to/__1d4febcc4/show-dev-countryclue-a-fast-and-minimalist-world-flag-guessing-game-4a7j"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Look for When B,uy.ing a Veri'fied Shopify Store Ac,count]]></title>
+        <id>https://dev.to/safewste4t/what-to-look-for-when-buying-a-verified-shopify-store-account-4f2p</id>
+        <link href="https://dev.to/safewste4t/what-to-look-for-when-buying-a-verified-shopify-store-account-4f2p"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to B'uy a Trusted Veri'fied Mail.ru Ac'count in the USA]]></title>
+        <id>https://dev.to/asfwest456/how-to-buy-a-trusted-verified-mailru-account-in-the-usa-3a43</id>
+        <link href="https://dev.to/asfwest456/how-to-buy-a-trusted-verified-mailru-account-in-the-usa-3a43"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Risks of Bu;y.ing a Veri'fied Mail.ru Ac'count]]></title>
+        <id>https://dev.to/asfwest456/risks-of-buying-a-verified-mailru-account-39d0</id>
+        <link href="https://dev.to/asfwest456/risks-of-buying-a-verified-mailru-account-39d0"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Markdown to the Editor: Paste, Export, and What Gets Lost]]></title>
+        <id>https://dev.to/thomasnowheredev/adding-markdown-to-the-editor-paste-export-and-what-gets-lost-19hg</id>
+        <link href="https://dev.to/thomasnowheredev/adding-markdown-to-the-editor-paste-export-and-what-gets-lost-19hg"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a Morse code translator that renders WAV audio entirely in the browser]]></title>
+        <id>https://dev.to/learnmorsy/i-built-a-morse-code-translator-that-renders-wav-audio-entirely-in-the-browser-84f</id>
+        <link href="https://dev.to/learnmorsy/i-built-a-morse-code-translator-that-renders-wav-audio-entirely-in-the-browser-84f"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step-by-Step Guide to B,uy.ing a Secure Mail.ru Ac.count]]></title>
+        <id>https://dev.to/sfdgvrdyrt7/step-by-step-guide-to-buying-a-secure-mailru-account-c34</id>
+        <link href="https://dev.to/sfdgvrdyrt7/step-by-step-guide-to-buying-a-secure-mailru-account-c34"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultimate Guide to B;uy.ing a Veri'fied Mail.ru Ac'count in the USA]]></title>
+        <id>https://dev.to/sfdgvrdyrt7/ultimate-guide-to-buying-a-verified-mailru-account-in-the-usa-67i</id>
+        <link href="https://dev.to/sfdgvrdyrt7/ultimate-guide-to-buying-a-verified-mailru-account-in-the-usa-67i"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript: async/await Patterns That Will Save You Hours – The Matrix]]></title>
+        <id>https://dev.to/timevolt/javascript-asyncawait-patterns-that-will-save-you-hours-the-matrix-1ja6</id>
+        <link href="https://dev.to/timevolt/javascript-asyncawait-patterns-that-will-save-you-hours-the-matrix-1ja6"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Next.js App Router Mistakes I See Most Often]]></title>
+        <id>https://dev.to/joodi/7-nextjs-app-router-mistakes-i-see-most-often-ai8</id>
+        <link href="https://dev.to/joodi/7-nextjs-app-router-mistakes-i-see-most-often-ai8"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypassing Shadow DOMs & Same-Origin Iframes: How I Solved LinkedIn's Massive SDUI Update]]></title>
+        <id>https://dev.to/maazkhanxo/bypassing-shadow-doms-same-origin-iframes-how-i-solved-linkedins-massive-sdui-update-1lmk</id>
+        <link href="https://dev.to/maazkhanxo/bypassing-shadow-doms-same-origin-iframes-how-i-solved-linkedins-massive-sdui-update-1lmk"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Building Beautiful Frontends. Build Fast Ones Instead.]]></title>
+        <id>https://dev.to/mie_code/stop-building-beautiful-frontends-build-fast-ones-instead-4o49</id>
+        <link href="https://dev.to/mie_code/stop-building-beautiful-frontends-build-fast-ones-instead-4o49"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I built a Chrome extension that auto-applies to 100 LinkedIn Easy Apply jobs per day]]></title>
+        <id>https://dev.to/member_5d0fa3ad/how-i-built-a-chrome-extension-that-auto-applies-to-100-linkedin-easy-apply-jobs-per-day-2bm7</id>
+        <link href="https://dev.to/member_5d0fa3ad/how-i-built-a-chrome-extension-that-auto-applies-to-100-linkedin-easy-apply-jobs-per-day-2bm7"/>
+        <updated>2026-07-10T16:00:00.000Z</updated>
+        <published>2026-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[派早报：蔚来 ES8 大五座版正式上市等]]></title>
         <id>https://sspai.com/post/112143</id>
         <link href="https://sspai.com/post/112143"/>
-        <updated>2026-07-09T16:00:00.000Z</updated>
-        <published>2026-07-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft’s carbon emissions went up 25 percent last year]]></title>
-        <id>https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026</id>
-        <link href="https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026"/>
-        <updated>2026-07-09T16:00:00.000Z</updated>
-        <published>2026-07-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft’s patch Tuesdays are about to get bigger]]></title>
-        <id>https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates</id>
-        <link href="https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates"/>
         <updated>2026-07-09T16:00:00.000Z</updated>
         <published>2026-07-09T16:00:00.000Z</published>
     </entry>
@@ -260,51 +295,16 @@
         <published>2026-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AT&T Promo Codes: $50 Off This July 2026]]></title>
-        <id>https://www.wired.com/story/att-promo-code/</id>
-        <link href="https://www.wired.com/story/att-promo-code/"/>
+        <title type="html"><![CDATA[Microsoft’s patch Tuesdays are about to get bigger]]></title>
+        <id>https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates</id>
+        <link href="https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates"/>
         <updated>2026-07-09T16:00:00.000Z</updated>
         <published>2026-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Pool Accessories to Upgrade Your Summer (2026)]]></title>
-        <id>https://www.wired.com/story/best-pool-accessories/</id>
-        <link href="https://www.wired.com/story/best-pool-accessories/"/>
-        <updated>2026-07-09T16:00:00.000Z</updated>
-        <published>2026-07-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Experiential Gallery Just Might Change Your Mind About AI Art]]></title>
-        <id>https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/</id>
-        <link href="https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/"/>
-        <updated>2026-07-09T16:00:00.000Z</updated>
-        <published>2026-07-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 1X Neo Robot Has Freaky Fast Fingers]]></title>
-        <id>https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/</id>
-        <link href="https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/"/>
-        <updated>2026-07-09T16:00:00.000Z</updated>
-        <published>2026-07-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives]]></title>
-        <id>https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/</id>
-        <link href="https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/"/>
-        <updated>2026-07-09T16:00:00.000Z</updated>
-        <published>2026-07-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s Pursuit of the 'Careless People' Author Is Relentless and Self-Defeating]]></title>
-        <id>https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/</id>
-        <link href="https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/"/>
-        <updated>2026-07-09T16:00:00.000Z</updated>
-        <published>2026-07-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hiboy P6 Fat Tire Electric Bike Review: Smooth Sailing]]></title>
-        <id>https://www.wired.com/review/hiboy-p6-fat-tire-electric-bike/</id>
-        <link href="https://www.wired.com/review/hiboy-p6-fat-tire-electric-bike/"/>
+        <title type="html"><![CDATA[Microsoft’s carbon emissions went up 25 percent last year]]></title>
+        <id>https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026</id>
+        <link href="https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026"/>
         <updated>2026-07-09T16:00:00.000Z</updated>
         <published>2026-07-09T16:00:00.000Z</published>
     </entry>
@@ -316,51 +316,51 @@
         <published>2026-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EU threatens Meta with fines over addictive features on Facebook and Instagram]]></title>
-        <id>https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/</id>
-        <link href="https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/"/>
+        <title type="html"><![CDATA[Hiboy P6 Fat Tire Electric Bike Review: Smooth Sailing]]></title>
+        <id>https://www.wired.com/review/hiboy-p6-fat-tire-electric-bike/</id>
+        <link href="https://www.wired.com/review/hiboy-p6-fat-tire-electric-bike/"/>
         <updated>2026-07-09T16:00:00.000Z</updated>
         <published>2026-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Florida ransomware negotiator convicted for helping ransomware gang extort US companies]]></title>
-        <id>https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/</id>
-        <link href="https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/"/>
+        <title type="html"><![CDATA[Meta’s Pursuit of the 'Careless People' Author Is Relentless and Self-Defeating]]></title>
+        <id>https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/</id>
+        <link href="https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/"/>
         <updated>2026-07-09T16:00:00.000Z</updated>
         <published>2026-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic]]></title>
-        <id>https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/</id>
-        <link href="https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/"/>
+        <title type="html"><![CDATA[Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives]]></title>
+        <id>https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/"/>
         <updated>2026-07-09T16:00:00.000Z</updated>
         <published>2026-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta enters the crowded AI coding battle with Muse Spark 1.1]]></title>
-        <id>https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/</id>
-        <link href="https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"/>
+        <title type="html"><![CDATA[The 1X Neo Robot Has Freaky Fast Fingers]]></title>
+        <id>https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/</id>
+        <link href="https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/"/>
         <updated>2026-07-09T16:00:00.000Z</updated>
         <published>2026-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem]]></title>
-        <id>https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/</id>
-        <link href="https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/"/>
+        <title type="html"><![CDATA[A New Experiential Gallery Just Might Change Your Mind About AI Art]]></title>
+        <id>https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/</id>
+        <link href="https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/"/>
         <updated>2026-07-09T16:00:00.000Z</updated>
         <published>2026-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How did the government decide OpenAI’s frontier model was safe to release?]]></title>
-        <id>https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/</id>
-        <link href="https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/"/>
+        <title type="html"><![CDATA[The Best Pool Accessories to Upgrade Your Summer (2026)]]></title>
+        <id>https://www.wired.com/story/best-pool-accessories/</id>
+        <link href="https://www.wired.com/story/best-pool-accessories/"/>
         <updated>2026-07-09T16:00:00.000Z</updated>
         <published>2026-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Instagram users: Here’s how to stop Meta’s AI from using your photos]]></title>
-        <id>https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/</id>
-        <link href="https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/"/>
+        <title type="html"><![CDATA[AT&T Promo Codes: $50 Off This July 2026]]></title>
+        <id>https://www.wired.com/story/att-promo-code/</id>
+        <link href="https://www.wired.com/story/att-promo-code/"/>
         <updated>2026-07-09T16:00:00.000Z</updated>
         <published>2026-07-09T16:00:00.000Z</published>
     </entry>
