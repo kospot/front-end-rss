@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-12T00:01:23.983Z</updated>
+    <updated>2026-07-12T02:01:26.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[This slushie machine was a lifesaver during NYC’s heat wave]]></title>
-        <id>https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/</id>
-        <link href="https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/"/>
+        <title type="html"><![CDATA[Reed Jobs would rather talk about curing cancer than his last name]]></title>
+        <id>https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/</id>
+        <link href="https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/"/>
         <updated>2026-07-11T16:00:00.000Z</updated>
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
@@ -29,23 +29,51 @@
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dez minutinhos set envolvente [video]]]></title>
-        <id>https://www.youtube.com/watch?v=mBFDmV0W_i4</id>
-        <link href="https://www.youtube.com/watch?v=mBFDmV0W_i4"/>
+        <title type="html"><![CDATA[This slushie machine was a lifesaver during NYC’s heat wave]]></title>
+        <id>https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/</id>
+        <link href="https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/"/>
         <updated>2026-07-11T16:00:00.000Z</updated>
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postgres Makes Transactions Atomic]]></title>
-        <id>https://brandur.org/postgres-atomicity</id>
-        <link href="https://brandur.org/postgres-atomicity"/>
+        <title type="html"><![CDATA[AI notetakers promise easy meeting recaps, but some question their use]]></title>
+        <id>https://apnews.com/article/ai-notetaker-work-meetings-privacy-data-c700299371ca7cfec77dafdfb948067f</id>
+        <link href="https://apnews.com/article/ai-notetaker-work-meetings-privacy-data-c700299371ca7cfec77dafdfb948067f"/>
         <updated>2026-07-11T16:00:00.000Z</updated>
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bootstrapping a Post-Quantum Shadow Ledger via Op_return [pdf]]]></title>
-        <id>https://github.com/Blackcoin-Dev/Blackcoin/blob/main/doc/whitepaper-quantum-quasar.pdf</id>
-        <link href="https://github.com/Blackcoin-Dev/Blackcoin/blob/main/doc/whitepaper-quantum-quasar.pdf"/>
+        <title type="html"><![CDATA[America Changed Me and Europe Was Wrong [video]]]></title>
+        <id>https://www.youtube.com/watch?v=fUd6QHUnLMk</id>
+        <link href="https://www.youtube.com/watch?v=fUd6QHUnLMk"/>
+        <updated>2026-07-11T16:00:00.000Z</updated>
+        <published>2026-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flock Camera Conspiracy, Prepare for Whats Coming [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ZFim3j9s6ic</id>
+        <link href="https://www.youtube.com/watch?v=ZFim3j9s6ic"/>
+        <updated>2026-07-11T16:00:00.000Z</updated>
+        <published>2026-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 12.58% for Desktop Browser Market Share in North America June 2026]]></title>
+        <id>https://gs.statcounter.com/browser-market-share/desktop/north-america</id>
+        <link href="https://gs.statcounter.com/browser-market-share/desktop/north-america"/>
+        <updated>2026-07-11T16:00:00.000Z</updated>
+        <published>2026-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Erlang style pure Scheme Webserver and further]]></title>
+        <id>https://igropyr.com</id>
+        <link href="https://igropyr.com"/>
+        <updated>2026-07-11T16:00:00.000Z</updated>
+        <published>2026-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dismissive Dan's Review of the Overplane AI Coding Harness]]></title>
+        <id>https://www.overplane.dev/overview/dan/</id>
+        <link href="https://www.overplane.dev/overview/dan/"/>
         <updated>2026-07-11T16:00:00.000Z</updated>
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
@@ -57,9 +85,23 @@
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prompt Libraries Are Software. Build Them Like It]]></title>
-        <id>https://pub.towardsai.net/prompt-libraries-are-software-build-them-like-it-1af1bfdbafcb?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/prompt-libraries-are-software-build-them-like-it-1af1bfdbafcb?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Bootstrapping a Post-Quantum Shadow Ledger via Op_return [pdf]]]></title>
+        <id>https://github.com/Blackcoin-Dev/Blackcoin/blob/main/doc/whitepaper-quantum-quasar.pdf</id>
+        <link href="https://github.com/Blackcoin-Dev/Blackcoin/blob/main/doc/whitepaper-quantum-quasar.pdf"/>
+        <updated>2026-07-11T16:00:00.000Z</updated>
+        <published>2026-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres Makes Transactions Atomic]]></title>
+        <id>https://brandur.org/postgres-atomicity</id>
+        <link href="https://brandur.org/postgres-atomicity"/>
+        <updated>2026-07-11T16:00:00.000Z</updated>
+        <published>2026-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dez minutinhos set envolvente [video]]]></title>
+        <id>https://www.youtube.com/watch?v=mBFDmV0W_i4</id>
+        <link href="https://www.youtube.com/watch?v=mBFDmV0W_i4"/>
         <updated>2026-07-11T16:00:00.000Z</updated>
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
@@ -71,58 +113,44 @@
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Find Memory Leaks in React Components using JavaScript Heap Profiling]]></title>
-        <id>https://dev.to/keraito/how-to-find-memory-leaks-in-react-components-using-javascript-heap-profiling-3l7c</id>
-        <link href="https://dev.to/keraito/how-to-find-memory-leaks-in-react-components-using-javascript-heap-profiling-3l7c"/>
+        <title type="html"><![CDATA[Prompt Libraries Are Software. Build Them Like It]]></title>
+        <id>https://pub.towardsai.net/prompt-libraries-are-software-build-them-like-it-1af1bfdbafcb?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/prompt-libraries-are-software-build-them-like-it-1af1bfdbafcb?source=rss----98111c9905da---4"/>
         <updated>2026-07-11T16:00:00.000Z</updated>
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a PDF Toolkit That Runs 100% in the Browser — No Server, No Uploads]]></title>
-        <id>https://dev.to/trixterx102byte/i-built-a-pdf-toolkit-that-runs-100-in-the-browser-no-server-no-uploads-4ai2</id>
-        <link href="https://dev.to/trixterx102byte/i-built-a-pdf-toolkit-that-runs-100-in-the-browser-no-server-no-uploads-4ai2"/>
+        <title type="html"><![CDATA[CSS Anchor Positioning: Migrating shadcn/ui Off Radix]]></title>
+        <id>https://dev.to/dev_encyclopedia/css-anchor-positioning-migrating-shadcnui-off-radix-3j2o</id>
+        <link href="https://dev.to/dev_encyclopedia/css-anchor-positioning-migrating-shadcnui-off-radix-3j2o"/>
         <updated>2026-07-11T16:00:00.000Z</updated>
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[End-to-end encrypted collaborative notes in ~300 lines of JavaScript — no app server]]></title>
-        <id>https://dev.to/vesvaultjz/end-to-end-encrypted-collaborative-notes-in-300-lines-of-javascript-no-app-server-2mo</id>
-        <link href="https://dev.to/vesvaultjz/end-to-end-encrypted-collaborative-notes-in-300-lines-of-javascript-no-app-server-2mo"/>
+        <title type="html"><![CDATA[Managing Dependencies in Legacy Front-end Projects: A Practical Guide to Cleaning Up a Messy package.json]]></title>
+        <id>https://dev.to/mllgll/managing-dependencies-in-legacy-front-end-projects-a-practical-guide-to-cleaning-up-a-messy-4map</id>
+        <link href="https://dev.to/mllgll/managing-dependencies-in-legacy-front-end-projects-a-practical-guide-to-cleaning-up-a-messy-4map"/>
         <updated>2026-07-11T16:00:00.000Z</updated>
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Best sources to buy Verified onlyfan Accounts Safe Ways]]></title>
-        <id>https://dev.to/lena_fitzgerald_5f31090cc/5-best-sources-to-buy-verified-onlyfan-accounts-safe-ways-2m3d</id>
-        <link href="https://dev.to/lena_fitzgerald_5f31090cc/5-best-sources-to-buy-verified-onlyfan-accounts-safe-ways-2m3d"/>
+        <title type="html"><![CDATA[I Replaced ESLint and Prettier with Biome on Two Production Repos]]></title>
+        <id>https://dev.to/ahmed_mahmoud360/i-replaced-eslint-and-prettier-with-biome-on-two-production-repos-2m2a</id>
+        <link href="https://dev.to/ahmed_mahmoud360/i-replaced-eslint-and-prettier-with-biome-on-two-production-repos-2m2a"/>
         <updated>2026-07-11T16:00:00.000Z</updated>
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Guide to buy Verified onlyfan Accounts Safe Ways quick]]></title>
-        <id>https://dev.to/safwest4er5/new-guide-to-buy-verified-onlyfan-accounts-safe-ways-quick-1nhe</id>
-        <link href="https://dev.to/safwest4er5/new-guide-to-buy-verified-onlyfan-accounts-safe-ways-quick-1nhe"/>
+        <title type="html"><![CDATA[useOptimistic in React 19: Patterns and Pitfalls from Real Forms]]></title>
+        <id>https://dev.to/ahmed_mahmoud360/useoptimistic-in-react-19-patterns-and-pitfalls-from-real-forms-41em</id>
+        <link href="https://dev.to/ahmed_mahmoud360/useoptimistic-in-react-19-patterns-and-pitfalls-from-real-forms-41em"/>
         <updated>2026-07-11T16:00:00.000Z</updated>
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I spent months building a browser-based toolkit with 238 utilities. Looking for technical feedback.]]></title>
-        <id>https://dev.to/basit_chingisi/i-spent-months-building-a-browser-based-toolkit-with-238-utilities-looking-for-technical-feedback-29j9</id>
-        <link href="https://dev.to/basit_chingisi/i-spent-months-building-a-browser-based-toolkit-with-238-utilities-looking-for-technical-feedback-29j9"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Sites to Buy Verified Skrill Accounts]]></title>
-        <id>https://dev.to/ecarsonffg/the-ultimate-sites-to-buy-verified-skrill-accounts-lna</id>
-        <link href="https://dev.to/ecarsonffg/the-ultimate-sites-to-buy-verified-skrill-accounts-lna"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trusted Cryptocurrency Recovery Firm Ongoing, ZEUS CRYPTO RECOVERY SERVICES]]></title>
-        <id>https://dev.to/peter_wang_5e85d6ef52a924/trusted-cryptocurrency-recovery-firm-ongoing-zeus-crypto-recovery-services-5f62</id>
-        <link href="https://dev.to/peter_wang_5e85d6ef52a924/trusted-cryptocurrency-recovery-firm-ongoing-zeus-crypto-recovery-services-5f62"/>
+        <title type="html"><![CDATA[Top 5 Sites to Buy Verified Neteller Accounts in 2026]]></title>
+        <id>https://dev.to/ecarsonffg/top-5-sites-to-buy-verified-neteller-accounts-in-2026-4cb2</id>
+        <link href="https://dev.to/ecarsonffg/top-5-sites-to-buy-verified-neteller-accounts-in-2026-4cb2"/>
         <updated>2026-07-11T16:00:00.000Z</updated>
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
@@ -134,9 +162,58 @@
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 5 Sites to Buy Verified Neteller Accounts in 2026]]></title>
-        <id>https://dev.to/ecarsonffg/top-5-sites-to-buy-verified-neteller-accounts-in-2026-4cb2</id>
-        <link href="https://dev.to/ecarsonffg/top-5-sites-to-buy-verified-neteller-accounts-in-2026-4cb2"/>
+        <title type="html"><![CDATA[Trusted Cryptocurrency Recovery Firm Ongoing, ZEUS CRYPTO RECOVERY SERVICES]]></title>
+        <id>https://dev.to/peter_wang_5e85d6ef52a924/trusted-cryptocurrency-recovery-firm-ongoing-zeus-crypto-recovery-services-5f62</id>
+        <link href="https://dev.to/peter_wang_5e85d6ef52a924/trusted-cryptocurrency-recovery-firm-ongoing-zeus-crypto-recovery-services-5f62"/>
+        <updated>2026-07-11T16:00:00.000Z</updated>
+        <published>2026-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Sites to Buy Verified Skrill Accounts]]></title>
+        <id>https://dev.to/ecarsonffg/the-ultimate-sites-to-buy-verified-skrill-accounts-lna</id>
+        <link href="https://dev.to/ecarsonffg/the-ultimate-sites-to-buy-verified-skrill-accounts-lna"/>
+        <updated>2026-07-11T16:00:00.000Z</updated>
+        <published>2026-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I spent months building a browser-based toolkit with 238 utilities. Looking for technical feedback.]]></title>
+        <id>https://dev.to/basit_chingisi/i-spent-months-building-a-browser-based-toolkit-with-238-utilities-looking-for-technical-feedback-29j9</id>
+        <link href="https://dev.to/basit_chingisi/i-spent-months-building-a-browser-based-toolkit-with-238-utilities-looking-for-technical-feedback-29j9"/>
+        <updated>2026-07-11T16:00:00.000Z</updated>
+        <published>2026-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Guide to buy Verified onlyfan Accounts Safe Ways quick]]></title>
+        <id>https://dev.to/safwest4er5/new-guide-to-buy-verified-onlyfan-accounts-safe-ways-quick-1nhe</id>
+        <link href="https://dev.to/safwest4er5/new-guide-to-buy-verified-onlyfan-accounts-safe-ways-quick-1nhe"/>
+        <updated>2026-07-11T16:00:00.000Z</updated>
+        <published>2026-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Best sources to buy Verified onlyfan Accounts Safe Ways]]></title>
+        <id>https://dev.to/lena_fitzgerald_5f31090cc/5-best-sources-to-buy-verified-onlyfan-accounts-safe-ways-2m3d</id>
+        <link href="https://dev.to/lena_fitzgerald_5f31090cc/5-best-sources-to-buy-verified-onlyfan-accounts-safe-ways-2m3d"/>
+        <updated>2026-07-11T16:00:00.000Z</updated>
+        <published>2026-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[End-to-end encrypted collaborative notes in ~300 lines of JavaScript — no app server]]></title>
+        <id>https://dev.to/vesvaultjz/end-to-end-encrypted-collaborative-notes-in-300-lines-of-javascript-no-app-server-2mo</id>
+        <link href="https://dev.to/vesvaultjz/end-to-end-encrypted-collaborative-notes-in-300-lines-of-javascript-no-app-server-2mo"/>
+        <updated>2026-07-11T16:00:00.000Z</updated>
+        <published>2026-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a PDF Toolkit That Runs 100% in the Browser — No Server, No Uploads]]></title>
+        <id>https://dev.to/trixterx102byte/i-built-a-pdf-toolkit-that-runs-100-in-the-browser-no-server-no-uploads-4ai2</id>
+        <link href="https://dev.to/trixterx102byte/i-built-a-pdf-toolkit-that-runs-100-in-the-browser-no-server-no-uploads-4ai2"/>
+        <updated>2026-07-11T16:00:00.000Z</updated>
+        <published>2026-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find Memory Leaks in React Components using JavaScript Heap Profiling]]></title>
+        <id>https://dev.to/keraito/how-to-find-memory-leaks-in-react-components-using-javascript-heap-profiling-3l7c</id>
+        <link href="https://dev.to/keraito/how-to-find-memory-leaks-in-react-components-using-javascript-heap-profiling-3l7c"/>
         <updated>2026-07-11T16:00:00.000Z</updated>
         <published>2026-07-11T16:00:00.000Z</published>
     </entry>
@@ -197,30 +274,9 @@
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn]]></title>
-        <id>https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/</id>
-        <link href="https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new app, HyperTexting, turns the open web into a scrollable social media-like feed]]></title>
-        <id>https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/</id>
-        <link href="https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China is catching up to Elon Musk’s reusable rockets]]></title>
-        <id>https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/</id>
-        <link href="https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney+ is considering a free streaming tier, report says]]></title>
-        <id>https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/</id>
-        <link href="https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/"/>
+        <title type="html"><![CDATA[OpenAI bets on families as ChatGPT goes deeper into households]]></title>
+        <id>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</id>
+        <link href="https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
@@ -232,135 +288,79 @@
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI bets on families as ChatGPT goes deeper into households]]></title>
-        <id>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</id>
-        <link href="https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"/>
+        <title type="html"><![CDATA[Disney+ is considering a free streaming tier, report says]]></title>
+        <id>https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/</id>
+        <link href="https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If You Want Taste, You're Gonna Have to Eat]]></title>
-        <id>https://jxnl.co/writing/2026/07/05/taste/</id>
-        <link href="https://jxnl.co/writing/2026/07/05/taste/"/>
+        <title type="html"><![CDATA[China is catching up to Elon Musk’s reusable rockets]]></title>
+        <id>https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/</id>
+        <link href="https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: What are some of the use-cases of the frontier models's max mode?]]></title>
-        <id>https://news.ycombinator.com/item?id=48871595</id>
-        <link href="https://news.ycombinator.com/item?id=48871595"/>
+        <title type="html"><![CDATA[A new app, HyperTexting, turns the open web into a scrollable social media-like feed]]></title>
+        <id>https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/</id>
+        <link href="https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Mtg – Arcade games for the terminal, in Rust with Ratatui]]></title>
-        <id>https://github.com/modern-terminal-games/mtg</id>
-        <link href="https://github.com/modern-terminal-games/mtg"/>
+        <title type="html"><![CDATA[Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn]]></title>
+        <id>https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/</id>
+        <link href="https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Restraint Problem]]></title>
-        <id>https://bartkolendowski.com/writing/the-restraint-problem.html</id>
-        <link href="https://bartkolendowski.com/writing/the-restraint-problem.html"/>
+        <title type="html"><![CDATA[Dora Compliance for Email: Mapping Sender Authentication to Article 9-10-11]]></title>
+        <id>https://dmarcguard.io/blog/dora-email-authentication/</id>
+        <link href="https://dmarcguard.io/blog/dora-email-authentication/"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A Figma file viewer for the 333 MHz Sony PSP]]></title>
-        <id>https://pocketjs.dev/blog/pocket-figma/</id>
-        <link href="https://pocketjs.dev/blog/pocket-figma/"/>
+        <title type="html"><![CDATA[How Does AI Work? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=YmLp8qe87A0</id>
+        <link href="https://www.youtube.com/watch?v=YmLp8qe87A0"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Temper – A programming language for libraries translated to all the others]]></title>
-        <id>https://github.com/temperlang/temper</id>
-        <link href="https://github.com/temperlang/temper"/>
+        <title type="html"><![CDATA[Ask HN: My father died and I need to find my path]]></title>
+        <id>https://news.ycombinator.com/item?id=48872471</id>
+        <link href="https://news.ycombinator.com/item?id=48872471"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Hidetext.sh – encrypted pastebin where the server never sees the key]]></title>
-        <id>https://hidetext.sh</id>
-        <link href="https://hidetext.sh"/>
+        <title type="html"><![CDATA[PR Reminder Bot – Node.js tool that Slack-nags you about stale PRs]]></title>
+        <id>https://github.com/Enox77/pr-reminder-bot</id>
+        <link href="https://github.com/Enox77/pr-reminder-bot"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I guess most useful extention on Chrome for readers I downloaded]]></title>
-        <id>https://chromewebstore.google.com/detail/readback-â-save-reading-p/pomfhagjojbnfmgmldkpakfggpdpnkgc?authuser=0&amp;hl=en-GB</id>
-        <link href="https://chromewebstore.google.com/detail/readback-â-save-reading-p/pomfhagjojbnfmgmldkpakfggpdpnkgc?authuser=0&amp;hl=en-GB"/>
+        <title type="html"><![CDATA[The world bank has ditched its climate targets]]></title>
+        <id>https://www.economist.com/finance-and-economics/2026/07/06/the-world-bank-has-ditched-its-climate-targets</id>
+        <link href="https://www.economist.com/finance-and-economics/2026/07/06/the-world-bank-has-ditched-its-climate-targets"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Companies are struggling to hire competent software developer]]></title>
-        <id>https://twitter.com/GergelyOrosz/status/2071105819089973716</id>
-        <link href="https://twitter.com/GergelyOrosz/status/2071105819089973716"/>
+        <title type="html"><![CDATA[GitHub – PolymathicAI/The_well: A 15TB Collection of Physics Simulation Datasets]]></title>
+        <id>https://github.com/PolymathicAI/the_well/</id>
+        <link href="https://github.com/PolymathicAI/the_well/"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All Your Favorite Gadgets Are Getting More Expensive Again]]></title>
-        <id>https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/</id>
-        <link href="https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Week in Plasma: Audio Recording in Spectacle]]></title>
-        <id>https://blogs.kde.org/2026/07/11/this-week-in-plasma-audio-recording-in-spectacle/</id>
-        <link href="https://blogs.kde.org/2026/07/11/this-week-in-plasma-audio-recording-in-spectacle/"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java local AI client and MCP orchestrator without the Python dependency hell]]></title>
-        <id>https://ypipe.com/</id>
-        <link href="https://ypipe.com/"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MuseAir hash: new fastest high-quality portable hashing algorithm]]></title>
-        <id>https://github.com/eternal-io/museair</id>
-        <link href="https://github.com/eternal-io/museair"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europe's slow electrification is a 'major mistake', warns IEA chief]]></title>
-        <id>https://www.ft.com/content/fbeb7df0-41fb-4981-8d78-01c7a95d3ed6</id>
-        <link href="https://www.ft.com/content/fbeb7df0-41fb-4981-8d78-01c7a95d3ed6"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a Contribution: The Story of EBR-II [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Xf7OtFIA6LY</id>
-        <link href="https://www.youtube.com/watch?v=Xf7OtFIA6LY"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: KRNL – a quieter browser for the essence of the web]]></title>
-        <id>https://news.ycombinator.com/item?id=48869197</id>
-        <link href="https://news.ycombinator.com/item?id=48869197"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Krbn, a pencil-style 3D renderer with SVG output]]></title>
-        <id>https://github.com/vpalos/Krbn</id>
-        <link href="https://github.com/vpalos/Krbn"/>
-        <updated>2026-07-10T16:00:00.000Z</updated>
-        <published>2026-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Metaphysics (350 BCE)]]></title>
-        <id>https://classics.mit.edu/Aristotle/metaphysics.1.i.html</id>
-        <link href="https://classics.mit.edu/Aristotle/metaphysics.1.i.html"/>
+        <title type="html"><![CDATA[Macintosh 9: Finder: View as Button (2024)]]></title>
+        <id>https://getbootstrap.com/docs/5.2/examples/blog/</id>
+        <link href="https://getbootstrap.com/docs/5.2/examples/blog/"/>
         <updated>2026-07-10T16:00:00.000Z</updated>
         <published>2026-07-10T16:00:00.000Z</published>
     </entry>
