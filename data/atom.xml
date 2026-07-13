@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-13T02:01:10.019Z</updated>
+    <updated>2026-07-13T04:01:19.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,114 +22,65 @@
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pg_re2: 9x faster regular expressions in Postgres]]></title>
-        <id>https://news.ycombinator.com/item?id=48886942</id>
-        <link href="https://news.ycombinator.com/item?id=48886942"/>
+        <title type="html"><![CDATA[DVD-Audio]]></title>
+        <id>https://en.wikipedia.org/wiki/DVD-Audio</id>
+        <link href="https://en.wikipedia.org/wiki/DVD-Audio"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Australian Consumer advocate calls for mandatory domestic mobile roaming]]></title>
-        <id>https://www.abc.net.au/news/2026-07-13/calls-for-mandatory-domestic-mobile-roaming-intensify/106899332</id>
-        <link href="https://www.abc.net.au/news/2026-07-13/calls-for-mandatory-domestic-mobile-roaming-intensify/106899332"/>
+        <title type="html"><![CDATA[Your own secure, personalized movie server]]></title>
+        <id>https://elvern.xyz</id>
+        <link href="https://elvern.xyz"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Battle of Carrhae (53B.C.E.) [video[]]></title>
-        <id>https://www.youtube.com/watch?v=bR7VDPUj5AE</id>
-        <link href="https://www.youtube.com/watch?v=bR7VDPUj5AE"/>
+        <title type="html"><![CDATA[GPT-5.6-Sol get's stuck for hours]]></title>
+        <id>https://twitter.com/i/status/2076512930204446763</id>
+        <link href="https://twitter.com/i/status/2076512930204446763"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[People Can't Identify AI Poetry, but Enjoy It Less When Told It's by an AI]]></title>
-        <id>https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqag067/8694305?login=false</id>
-        <link href="https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqag067/8694305?login=false"/>
-        <updated>2026-07-12T16:00:00.000Z</updated>
-        <published>2026-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medical examiner preliminary findings in Sen. Lindsey Graham's cause of death [video]]]></title>
-        <id>https://www.youtube.com/watch?v=u7-YKC7A_mA</id>
-        <link href="https://www.youtube.com/watch?v=u7-YKC7A_mA"/>
-        <updated>2026-07-12T16:00:00.000Z</updated>
-        <published>2026-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audience personas built from engagement data, scored on predictions]]></title>
-        <id>https://github.com/noashavit/noas-persona-loop</id>
-        <link href="https://github.com/noashavit/noas-persona-loop"/>
-        <updated>2026-07-12T16:00:00.000Z</updated>
-        <published>2026-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Less is more, more or less]]></title>
-        <id>https://jakub.kr/writing/less-is-more</id>
-        <link href="https://jakub.kr/writing/less-is-more"/>
-        <updated>2026-07-12T16:00:00.000Z</updated>
-        <published>2026-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tinier – Image compress, convert and AI-upscale, 100% in the browser]]></title>
-        <id>https://tinier.app/</id>
-        <link href="https://tinier.app/"/>
-        <updated>2026-07-12T16:00:00.000Z</updated>
-        <published>2026-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temporarily removing the 5 hour usage limit restriction for all paid Codex plans]]></title>
-        <id>https://xcancel.com/thsottiaux/status/2076365965915467978#m</id>
-        <link href="https://xcancel.com/thsottiaux/status/2076365965915467978#m"/>
-        <updated>2026-07-12T16:00:00.000Z</updated>
-        <published>2026-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Philosophical and Technical Legacy of Bernard Stiegler (2021)]]></title>
-        <id>https://dl.acm.org/doi/fullHtml/10.1145/3411763.3450385</id>
-        <link href="https://dl.acm.org/doi/fullHtml/10.1145/3411763.3450385"/>
+        <title type="html"><![CDATA[A gallery of HTML Canvas effects, for reference and killing boredom]]></title>
+        <id>https://kanevskyy.dev/tools/canvas-gallery/</id>
+        <link href="https://kanevskyy.dev/tools/canvas-gallery/"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why recruiters can't find workers and new grads can't find jobs (it's not AI)]]></title>
-        <id>https://www.washingtonpost.com/education/2026/07/12/why-recruiters-cant-find-workers-new-grads-cant-find-jobs/</id>
-        <link href="https://www.washingtonpost.com/education/2026/07/12/why-recruiters-cant-find-workers-new-grads-cant-find-jobs/"/>
+        <id>https://www.seattletimes.com/nation-world/why-recruiters-cant-find-workers-and-new-grads-cant-find-jobs-its-not-ai/</id>
+        <link href="https://www.seattletimes.com/nation-world/why-recruiters-cant-find-workers-and-new-grads-cant-find-jobs-its-not-ai/"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nuclear war survival guide reveals seven everyday items if disaster strikes]]></title>
-        <id>https://www.dailymail.com/sciencetech/article-15795297/Forgotten-nuclear-war-survival-guide-reveals-seven-everyday-items-Americans-need-disaster-strikes.html</id>
-        <link href="https://www.dailymail.com/sciencetech/article-15795297/Forgotten-nuclear-war-survival-guide-reveals-seven-everyday-items-Americans-need-disaster-strikes.html"/>
+        <title type="html"><![CDATA[Vim of Coding Agents]]></title>
+        <id>https://rasyidanaf.com/blog/vim-of-coding-agents/</id>
+        <link href="https://rasyidanaf.com/blog/vim-of-coding-agents/"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UN adopts first binding framework for automated driving systems]]></title>
-        <id>https://www.heise.de/news/Meilenstein-fuer-Robotaxis-UN-verabschiedet-globales-Recht-fuer-autonomes-Fahren-11361904.html</id>
-        <link href="https://www.heise.de/news/Meilenstein-fuer-Robotaxis-UN-verabschiedet-globales-Recht-fuer-autonomes-Fahren-11361904.html"/>
+        <title type="html"><![CDATA[Maps, Smaps and Memory Stats]]></title>
+        <id>https://jameshunt.us/writings/smaps/</id>
+        <link href="https://jameshunt.us/writings/smaps/"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Analysis: Popular Chrome Extension ModHeader Exfiltrates User Data]]></title>
-        <id>https://aydinnyunus.github.io/2026/07/12/modheader-data-exfiltration-stanfordstudies/</id>
-        <link href="https://aydinnyunus.github.io/2026/07/12/modheader-data-exfiltration-stanfordstudies/"/>
+        <title type="html"><![CDATA[Show HN: Self-hosted voice AI agent for Asterisk/FreePBX]]></title>
+        <id>https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk</id>
+        <link href="https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amicro: Micro-Transitions Library]]></title>
-        <id>https://amicro.vercel.app/</id>
-        <link href="https://amicro.vercel.app/"/>
-        <updated>2026-07-12T16:00:00.000Z</updated>
-        <published>2026-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get What You Want]]></title>
-        <id>https://andys.blog/how-to-get-what-you-want/</id>
-        <link href="https://andys.blog/how-to-get-what-you-want/"/>
+        <title type="html"><![CDATA[Micro-JavaScript: A pure Python JavaScript engine, inspired by MicroQuickJS]]></title>
+        <id>https://github.com/simonw/micro-javascript</id>
+        <link href="https://github.com/simonw/micro-javascript"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
@@ -141,9 +92,114 @@
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Micro-JavaScript: A pure Python JavaScript engine, inspired by MicroQuickJS]]></title>
-        <id>https://github.com/simonw/micro-javascript</id>
-        <link href="https://github.com/simonw/micro-javascript"/>
+        <title type="html"><![CDATA[How to Get What You Want]]></title>
+        <id>https://andys.blog/how-to-get-what-you-want/</id>
+        <link href="https://andys.blog/how-to-get-what-you-want/"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amicro: Micro-Transitions Library]]></title>
+        <id>https://amicro.vercel.app/</id>
+        <link href="https://amicro.vercel.app/"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysis: Popular Chrome Extension ModHeader Exfiltrates User Data]]></title>
+        <id>https://aydinnyunus.github.io/2026/07/12/modheader-data-exfiltration-stanfordstudies/</id>
+        <link href="https://aydinnyunus.github.io/2026/07/12/modheader-data-exfiltration-stanfordstudies/"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UN adopts first binding framework for automated driving systems]]></title>
+        <id>https://www.heise.de/news/Meilenstein-fuer-Robotaxis-UN-verabschiedet-globales-Recht-fuer-autonomes-Fahren-11361904.html</id>
+        <link href="https://www.heise.de/news/Meilenstein-fuer-Robotaxis-UN-verabschiedet-globales-Recht-fuer-autonomes-Fahren-11361904.html"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuclear war survival guide reveals seven everyday items if disaster strikes]]></title>
+        <id>https://www.dailymail.com/sciencetech/article-15795297/Forgotten-nuclear-war-survival-guide-reveals-seven-everyday-items-Americans-need-disaster-strikes.html</id>
+        <link href="https://www.dailymail.com/sciencetech/article-15795297/Forgotten-nuclear-war-survival-guide-reveals-seven-everyday-items-Americans-need-disaster-strikes.html"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why recruiters can't find workers and new grads can't find jobs (it's not AI)]]></title>
+        <id>https://www.washingtonpost.com/education/2026/07/12/why-recruiters-cant-find-workers-new-grads-cant-find-jobs/</id>
+        <link href="https://www.washingtonpost.com/education/2026/07/12/why-recruiters-cant-find-workers-new-grads-cant-find-jobs/"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Philosophical and Technical Legacy of Bernard Stiegler (2021)]]></title>
+        <id>https://dl.acm.org/doi/fullHtml/10.1145/3411763.3450385</id>
+        <link href="https://dl.acm.org/doi/fullHtml/10.1145/3411763.3450385"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporarily removing the 5 hour usage limit restriction for all paid Codex plans]]></title>
+        <id>https://xcancel.com/thsottiaux/status/2076365965915467978#m</id>
+        <link href="https://xcancel.com/thsottiaux/status/2076365965915467978#m"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tinier – Image compress, convert and AI-upscale, 100% in the browser]]></title>
+        <id>https://tinier.app/</id>
+        <link href="https://tinier.app/"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Less is more, more or less]]></title>
+        <id>https://jakub.kr/writing/less-is-more</id>
+        <link href="https://jakub.kr/writing/less-is-more"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audience personas built from engagement data, scored on predictions]]></title>
+        <id>https://github.com/noashavit/noas-persona-loop</id>
+        <link href="https://github.com/noashavit/noas-persona-loop"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medical examiner preliminary findings in Sen. Lindsey Graham's cause of death [video]]]></title>
+        <id>https://www.youtube.com/watch?v=u7-YKC7A_mA</id>
+        <link href="https://www.youtube.com/watch?v=u7-YKC7A_mA"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People Can't Identify AI Poetry, but Enjoy It Less When Told It's by an AI]]></title>
+        <id>https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqag067/8694305?login=false</id>
+        <link href="https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqag067/8694305?login=false"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Battle of Carrhae (53B.C.E.) [video[]]></title>
+        <id>https://www.youtube.com/watch?v=bR7VDPUj5AE</id>
+        <link href="https://www.youtube.com/watch?v=bR7VDPUj5AE"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australian Consumer advocate calls for mandatory domestic mobile roaming]]></title>
+        <id>https://www.abc.net.au/news/2026-07-13/calls-for-mandatory-domestic-mobile-roaming-intensify/106899332</id>
+        <link href="https://www.abc.net.au/news/2026-07-13/calls-for-mandatory-domestic-mobile-roaming-intensify/106899332"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pg_re2: 9x faster regular expressions in Postgres]]></title>
+        <id>https://news.ycombinator.com/item?id=48886942</id>
+        <link href="https://news.ycombinator.com/item?id=48886942"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
@@ -197,171 +253,115 @@
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding JSX in React: Why Does HTML Work Inside JavaScript?]]></title>
-        <id>https://dev.to/dev_sravanthi/understanding-jsx-in-react-why-does-html-work-inside-javascript-3c92</id>
-        <link href="https://dev.to/dev_sravanthi/understanding-jsx-in-react-why-does-html-work-inside-javascript-3c92"/>
+        <title type="html"><![CDATA[A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions]]></title>
+        <id>https://arxiv.org/abs/2607.08776</id>
+        <link href="https://arxiv.org/abs/2607.08776"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React 19 useFormStatus and useFormState: Build Accessible Forms Without Extra State Libraries]]></title>
-        <id>https://dev.to/jsmanifest/react-19-useformstatus-and-useformstate-build-accessible-forms-without-extra-state-libraries-46g6</id>
-        <link href="https://dev.to/jsmanifest/react-19-useformstatus-and-useformstate-build-accessible-forms-without-extra-state-libraries-46g6"/>
+        <title type="html"><![CDATA[iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis]]></title>
+        <id>https://arxiv.org/abs/2607.08778</id>
+        <link href="https://arxiv.org/abs/2607.08778"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using WebSockets to Convert BTC to USD and Reais (BRL)]]></title>
-        <id>https://dev.to/rubemfsv/using-websockets-to-convert-btc-to-usd-and-reais-brl-30j0</id>
-        <link href="https://dev.to/rubemfsv/using-websockets-to-convert-btc-to-usd-and-reais-brl-30j0"/>
+        <title type="html"><![CDATA[Sticky Routing: Training MoE Models for Memory-Efficient Inference]]></title>
+        <id>https://arxiv.org/abs/2607.08780</id>
+        <link href="https://arxiv.org/abs/2607.08780"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 6.3 Websites to Buy Verified Bybit Accounts Securely]]></title>
-        <id>https://dev.to/aleecehoffman2iswg/top-63-websites-to-buy-verified-bybit-accounts-securely-4o98</id>
-        <link href="https://dev.to/aleecehoffman2iswg/top-63-websites-to-buy-verified-bybit-accounts-securely-4o98"/>
+        <title type="html"><![CDATA[LieBN: Batch Normalization over Lie Groups]]></title>
+        <id>https://arxiv.org/abs/2607.08783</id>
+        <link href="https://arxiv.org/abs/2607.08783"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beginner 7 Guide to Buying Old Yahoo Mail Accounts in Bulk]]></title>
-        <id>https://dev.to/sfester/beginner-7-guide-to-buying-old-yahoo-mail-accounts-in-bulk-3m77</id>
-        <link href="https://dev.to/sfester/beginner-7-guide-to-buying-old-yahoo-mail-accounts-in-bulk-3m77"/>
+        <title type="html"><![CDATA[DaDaDa: A Dataset for Data Pricing in Data Marketplaces]]></title>
+        <id>https://arxiv.org/abs/2607.08785</id>
+        <link href="https://arxiv.org/abs/2607.08785"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cookie attributes]]></title>
-        <id>https://dev.to/alireza_hassankhani_b8401/cookie-attributes-3dbg</id>
-        <link href="https://dev.to/alireza_hassankhani_b8401/cookie-attributes-3dbg"/>
+        <title type="html"><![CDATA[Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices]]></title>
+        <id>https://arxiv.org/abs/2607.08786</id>
+        <link href="https://arxiv.org/abs/2607.08786"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Five Online Platforms to Buy Verified Square Accounts ...]]></title>
-        <id>https://dev.to/aleecehoffman2iswg/best-five-online-platforms-to-buy-verified-square-accounts--55de</id>
-        <link href="https://dev.to/aleecehoffman2iswg/best-five-online-platforms-to-buy-verified-square-accounts--55de"/>
+        <title type="html"><![CDATA[Optimizing Against Safety Representations: Activation-Guided Adversarial Suffixes and the Geometry of Refusal]]></title>
+        <id>https://arxiv.org/abs/2607.08883</id>
+        <link href="https://arxiv.org/abs/2607.08883"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I scraped 60+ worker-owned co-op stores to build a searchable product directory]]></title>
-        <id>https://dev.to/sft_f56ae2093b46cc81b3ed8/i-scraped-60-worker-owned-co-op-stores-to-build-a-searchable-product-directory-n08</id>
-        <link href="https://dev.to/sft_f56ae2093b46cc81b3ed8/i-scraped-60-worker-owned-co-op-stores-to-build-a-searchable-product-directory-n08"/>
+        <title type="html"><![CDATA[A Machine Learning Surrogate for Component Criticality Ranking in Interdependent Power-Communication Networks]]></title>
+        <id>https://arxiv.org/abs/2607.08918</id>
+        <link href="https://arxiv.org/abs/2607.08918"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pre-rendering a 160-post React SPA with react-snap: the gotcha that silently breaks your SEO]]></title>
-        <id>https://dev.to/vijay_rathod_b9db92cb65f8/pre-rendering-a-160-post-react-spa-with-react-snap-the-gotcha-that-silently-breaks-your-seo-3ino</id>
-        <link href="https://dev.to/vijay_rathod_b9db92cb65f8/pre-rendering-a-160-post-react-spa-with-react-snap-the-gotcha-that-silently-breaks-your-seo-3ino"/>
+        <title type="html"><![CDATA[SafeExplorer: An Unbiased Policy Gradient for Reinforcement Learning with Recovery Interventions]]></title>
+        <id>https://arxiv.org/abs/2607.08925</id>
+        <link href="https://arxiv.org/abs/2607.08925"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One of SteelSeries&#8217; best gaming headsets is over $100 off]]></title>
-        <id>https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning]]></title>
+        <id>https://arxiv.org/abs/2607.08940</id>
+        <link href="https://arxiv.org/abs/2607.08940"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Less is more with the Oura Ring 5]]></title>
-        <id>https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables</id>
-        <link href="https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Training, Reading, and Editing Legible Transformers]]></title>
+        <id>https://arxiv.org/abs/2607.08946</id>
+        <link href="https://arxiv.org/abs/2607.08946"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blue Prince became a bonding — and learning — experience for my family]]></title>
-        <id>https://www.theverge.com/games/964262/blue-prince-family-bonding</id>
-        <link href="https://www.theverge.com/games/964262/blue-prince-family-bonding"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[NL-PAC: Specification Ambiguity and Certified Minimax Risk Floors in LLM-Mediated Supervision]]></title>
+        <id>https://arxiv.org/abs/2607.08961</id>
+        <link href="https://arxiv.org/abs/2607.08961"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best External Hard Drives (2026): SSD to Store Data, Video, and More]]></title>
-        <id>https://www.wired.com/story/best-portable-external-storage-drives/</id>
-        <link href="https://www.wired.com/story/best-portable-external-storage-drives/"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Stochastic Linear Bandits with Partially Observed Actions]]></title>
+        <id>https://arxiv.org/abs/2607.08971</id>
+        <link href="https://arxiv.org/abs/2607.08971"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides]]></title>
-        <id>https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/</id>
-        <link href="https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Federated Low-Rank Koopman Learning for Multivariate Time-Series Anomaly Detection in IoT Systems]]></title>
+        <id>https://arxiv.org/abs/2607.08978</id>
+        <link href="https://arxiv.org/abs/2607.08978"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This slushie machine was a lifesaver during NYC’s heat wave]]></title>
-        <id>https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/</id>
-        <link href="https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Learning More from Less: Reinforcement Learning from Hindsight]]></title>
+        <id>https://arxiv.org/abs/2607.09042</id>
+        <link href="https://arxiv.org/abs/2607.09042"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smart glasses without a camera? Even Realities bets productivity beats recording everyone]]></title>
-        <id>https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/</id>
-        <link href="https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reed Jobs would rather talk about curing cancer than his last name]]></title>
-        <id>https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/</id>
-        <link href="https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GhosttyFX – JavaFX terminal powered by libghostty]]></title>
-        <id>https://github.com/vlaaad/ghosttyfx/</id>
-        <link href="https://github.com/vlaaad/ghosttyfx/"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Rising Society System]]></title>
-        <id>https://red-rising-solar-cartograph.jetrased.chatgpt.site/?era=rising</id>
-        <link href="https://red-rising-solar-cartograph.jetrased.chatgpt.site/?era=rising"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China builds full-scale US warship replica in desert]]></title>
-        <id>https://www.cnn.com/2026/07/11/world/video/china-builds-full-scale-us-warship-replica-in-desert-will-ripley-hnk-digvid</id>
-        <link href="https://www.cnn.com/2026/07/11/world/video/china-builds-full-scale-us-warship-replica-in-desert-will-ripley-hnk-digvid"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026-06-02 ITHS Analog Conference – Lab Tour by Bernd Ulmann – Videos and Movies]]></title>
-        <id>https://vimeo.com/1204840172</id>
-        <link href="https://vimeo.com/1204840172"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Taste Essay]]></title>
-        <id>https://contraptions.venkateshrao.com/p/the-taste-essay</id>
-        <link href="https://contraptions.venkateshrao.com/p/the-taste-essay"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sen. Lindsey Graham dead at 71 after 'brief and sudden' illness, office says]]></title>
-        <id>https://www.dw.com/en/us-senator-lindsey-graham-dies/a-77921386</id>
-        <link href="https://www.dw.com/en/us-senator-lindsey-graham-dies/a-77921386"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parse inbound email to JSON in Node.js – MailKite]]></title>
-        <id>https://mailkite.dev/blog/parse-inbound-email-to-json-node/</id>
-        <link href="https://mailkite.dev/blog/parse-inbound-email-to-json-node/"/>
-        <updated>2026-07-11T16:00:00.000Z</updated>
-        <published>2026-07-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[EvoLP: Self-Evolving Latency Predictor for Model Compression in Real-Time Edge Systems]]></title>
+        <id>https://arxiv.org/abs/2607.09063</id>
+        <link href="https://arxiv.org/abs/2607.09063"/>
+        <updated>2026-07-12T16:00:00.000Z</updated>
+        <published>2026-07-12T16:00:00.000Z</published>
     </entry>
 </feed>
