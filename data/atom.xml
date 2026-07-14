@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-14T04:02:52.917Z</updated>
+    <updated>2026-07-14T07:02:49.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,9 +36,9 @@
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Movies to Stream This Month (July 2026)]]></title>
-        <id>https://www.wired.com/story/the-8-best-movies-to-stream-right-now/</id>
-        <link href="https://www.wired.com/story/the-8-best-movies-to-stream-right-now/"/>
+        <title type="html"><![CDATA[B&H Photo Promo Codes and Deals This July 2026]]></title>
+        <id>https://www.wired.com/story/bh-photo-coupon/</id>
+        <link href="https://www.wired.com/story/bh-photo-coupon/"/>
         <updated>2026-07-13T16:00:00.000Z</updated>
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[Sam Neill Inspired a Generation of Scientists]]></title>
         <id>https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/</id>
         <link href="https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Movies to Stream This Month (July 2026)]]></title>
+        <id>https://www.wired.com/story/the-8-best-movies-to-stream-right-now/</id>
+        <link href="https://www.wired.com/story/the-8-best-movies-to-stream-right-now/"/>
         <updated>2026-07-13T16:00:00.000Z</updated>
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[MLPs are Hebbians: Constructing Efficient Fact-Storing MLPs for Transformers]]></title>
         <id>https://arxiv.org/abs/2607.10034</id>
         <link href="https://arxiv.org/abs/2607.10034"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlashTrie: A GPU-Accelerated Constrained Beam Search for Generative Retrieval]]></title>
-        <id>https://arxiv.org/abs/2607.10044</id>
-        <link href="https://arxiv.org/abs/2607.10044"/>
         <updated>2026-07-13T16:00:00.000Z</updated>
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
