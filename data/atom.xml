@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-14T00:01:51.087Z</updated>
+    <updated>2026-07-14T02:02:32.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,23 +50,16 @@
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video generation startup PixVerse raises $439M, valuation soars past $2B]]></title>
-        <id>https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/</id>
-        <link href="https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"/>
+        <title type="html"><![CDATA[Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”]]></title>
+        <id>https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/</id>
+        <link href="https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/"/>
         <updated>2026-07-13T16:00:00.000Z</updated>
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X just tweaked its algorithm to make it more friendly, less battleground]]></title>
-        <id>https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/</id>
-        <link href="https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should AI help you get away with killing your spouse?]]></title>
-        <id>https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/</id>
-        <link href="https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/"/>
+        <title type="html"><![CDATA[Satya Nadella has issued a shocking warning to companies using AI]]></title>
+        <id>https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/</id>
+        <link href="https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/"/>
         <updated>2026-07-13T16:00:00.000Z</updated>
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
@@ -78,9 +71,23 @@
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Satya Nadella has issued a shocking warning to companies using AI]]></title>
-        <id>https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/</id>
-        <link href="https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/"/>
+        <title type="html"><![CDATA[Should AI help you get away with killing your spouse?]]></title>
+        <id>https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/</id>
+        <link href="https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X just tweaked its algorithm to make it more friendly, less battleground]]></title>
+        <id>https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/</id>
+        <link href="https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video generation startup PixVerse raises $439M, valuation soars past $2B]]></title>
+        <id>https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/</id>
+        <link href="https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"/>
         <updated>2026-07-13T16:00:00.000Z</updated>
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
@@ -162,6 +169,13 @@
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Using uvx in GitHub Actions in a cache-friendly way]]></title>
+        <id>https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[datasette code-frequency chart on GitHub]]></title>
         <id>https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything</id>
         <link href="https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything"/>
@@ -182,79 +196,37 @@ https://github.com/thegruber/linkpeek
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10# Websites To Buy Snapchat Accounts Verified & ...]]></title>
-        <id>https://dev.to/britwhittington4g15g/top-10-websites-to-buy-snapchat-accounts-verified--22of</id>
-        <link href="https://dev.to/britwhittington4g15g/top-10-websites-to-buy-snapchat-accounts-verified--22of"/>
+        <title type="html"><![CDATA[Self-Hosting a Browser File Viewer Under a Strict CSP: Workers, WASM, and Assets Without Public CDNs]]></title>
+        <id>https://dev.to/_a0eb4d8107cee18d04b2cb/self-hosting-a-browser-file-viewer-under-a-strict-csp-workers-wasm-and-assets-without-public-cdns-4hak</id>
+        <link href="https://dev.to/_a0eb4d8107cee18d04b2cb/self-hosting-a-browser-file-viewer-under-a-strict-csp-workers-wasm-and-assets-without-public-cdns-4hak"/>
         <updated>2026-07-13T16:00:00.000Z</updated>
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Atomics and SharedArrayBuffer in 2026: Practical Patterns for Cross-Worker State]]></title>
-        <id>https://dev.to/jsmanifest/javascript-atomics-and-sharedarraybuffer-in-2026-practical-patterns-for-cross-worker-state-2p07</id>
-        <link href="https://dev.to/jsmanifest/javascript-atomics-and-sharedarraybuffer-in-2026-practical-patterns-for-cross-worker-state-2p07"/>
+        <title type="html"><![CDATA[How Zero-Knowledge Encryption Actually Works (with the Web Crypto API)]]></title>
+        <id>https://dev.to/sudeepbhandari/how-zero-knowledge-encryption-actually-works-with-the-web-crypto-api-1f53</id>
+        <link href="https://dev.to/sudeepbhandari/how-zero-knowledge-encryption-actually-works-with-the-web-crypto-api-1f53"/>
         <updated>2026-07-13T16:00:00.000Z</updated>
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Sonnet 5 RAG Chatbot Test: 40,000 Documents, Real Data]]></title>
-        <id>https://dev.to/bean_bean/claude-sonnet-5-rag-chatbot-test-40000-documents-real-data-1n1d</id>
-        <link href="https://dev.to/bean_bean/claude-sonnet-5-rag-chatbot-test-40000-documents-real-data-1n1d"/>
+        <title type="html"><![CDATA[Why SnapDOM Beats html2canvas for DOM-to-Image Capture]]></title>
+        <id>https://dev.to/tinchox5/why-snapdom-beats-html2canvas-for-dom-to-image-capture-14ch</id>
+        <link href="https://dev.to/tinchox5/why-snapdom-beats-html2canvas-for-dom-to-image-capture-14ch"/>
         <updated>2026-07-13T16:00:00.000Z</updated>
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Type-safe Elasticsearch queries in TypeScript (and JavaScript) with elasticlink]]></title>
-        <id>https://dev.to/john_rodger_dee953ed28186/type-safe-elasticsearch-queries-in-typescript-and-javascript-with-elasticlink-2716</id>
-        <link href="https://dev.to/john_rodger_dee953ed28186/type-safe-elasticsearch-queries-in-typescript-and-javascript-with-elasticlink-2716"/>
+        <title type="html"><![CDATA[숨겨진 데이터가 있는 HTML 테이블: 보이지 않는 것을 스크래핑하는 방법]]></title>
+        <id>https://dev.to/circobit/sumgyeojin-deiteoga-issneun-html-teibeul-boiji-anhneun-geoseul-seukeuraepinghaneun-bangbeob-2jpk</id>
+        <link href="https://dev.to/circobit/sumgyeojin-deiteoga-issneun-html-teibeul-boiji-anhneun-geoseul-seukeuraepinghaneun-bangbeob-2jpk"/>
         <updated>2026-07-13T16:00:00.000Z</updated>
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Props in React]]></title>
-        <id>https://dev.to/dev_sravanthi/understanding-props-in-react-635</id>
-        <link href="https://dev.to/dev_sravanthi/understanding-props-in-react-635"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest Guide Expert Tips for Buying GMX Mail Accounts in USA]]></title>
-        <id>https://dev.to/safsrtyr56/latest-guide-expert-tips-for-buying-gmx-mail-accounts-in-usa-3fo7</id>
-        <link href="https://dev.to/safsrtyr56/latest-guide-expert-tips-for-buying-gmx-mail-accounts-in-usa-3fo7"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebSocket Server: How to Build One in Node.js — and When to Use a Managed One]]></title>
-        <id>https://dev.to/alakkadshaw/websocket-server-how-to-build-one-in-nodejs-and-when-to-use-a-managed-one-48c4</id>
-        <link href="https://dev.to/alakkadshaw/websocket-server-how-to-build-one-in-nodejs-and-when-to-use-a-managed-one-48c4"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Place to Buy Verified Braintree Accounts Online with ...]]></title>
-        <id>https://dev.to/jonsoncharls121/best-place-to-buy-verified-braintree-accounts-online-with--4004</id>
-        <link href="https://dev.to/jonsoncharls121/best-place-to-buy-verified-braintree-accounts-online-with--4004"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 3 Platforms to B~u`y Verifi`ed Verified WeChat ...]]></title>
-        <id>https://dev.to/jonsoncharls121/top-3-platforms-to-buy-verified-verified-wechat--2op0</id>
-        <link href="https://dev.to/jonsoncharls121/top-3-platforms-to-buy-verified-verified-wechat--2op0"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your WebCrypto key exchange is one string away from post-quantum]]></title>
-        <id>https://dev.to/vesvaultjz/your-webcrypto-key-exchange-is-one-string-away-from-post-quantum-41hd</id>
-        <link href="https://dev.to/vesvaultjz/your-webcrypto-key-exchange-is-one-string-away-from-post-quantum-41hd"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built My Next.js Developer Portfolio & Optimized It for the Web]]></title>
-        <id>https://dev.to/ruumidev/how-i-built-my-nextjs-developer-portfolio-optimized-it-for-the-web-4p4d</id>
-        <link href="https://dev.to/ruumidev/how-i-built-my-nextjs-developer-portfolio-optimized-it-for-the-web-4p4d"/>
+        <title type="html"><![CDATA[🚀 Day 12 of Learning React: Understanding useEffect, Cleanup Functions, and API Calls]]></title>
+        <id>https://dev.to/bismay-exe/day-12-of-learning-react-understanding-useeffect-cleanup-functions-and-api-calls-4d4g</id>
+        <link href="https://dev.to/bismay-exe/day-12-of-learning-react-understanding-useeffect-cleanup-functions-and-api-calls-4d4g"/>
         <updated>2026-07-13T16:00:00.000Z</updated>
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
@@ -266,9 +238,79 @@ https://github.com/thegruber/linkpeek
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚀 Day 12 of Learning React: Understanding useEffect, Cleanup Functions, and API Calls]]></title>
-        <id>https://dev.to/bismay-exe/day-12-of-learning-react-understanding-useeffect-cleanup-functions-and-api-calls-4d4g</id>
-        <link href="https://dev.to/bismay-exe/day-12-of-learning-react-understanding-useeffect-cleanup-functions-and-api-calls-4d4g"/>
+        <title type="html"><![CDATA[How I Built My Next.js Developer Portfolio & Optimized It for the Web]]></title>
+        <id>https://dev.to/ruumidev/how-i-built-my-nextjs-developer-portfolio-optimized-it-for-the-web-4p4d</id>
+        <link href="https://dev.to/ruumidev/how-i-built-my-nextjs-developer-portfolio-optimized-it-for-the-web-4p4d"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your WebCrypto key exchange is one string away from post-quantum]]></title>
+        <id>https://dev.to/vesvaultjz/your-webcrypto-key-exchange-is-one-string-away-from-post-quantum-41hd</id>
+        <link href="https://dev.to/vesvaultjz/your-webcrypto-key-exchange-is-one-string-away-from-post-quantum-41hd"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 3 Platforms to B~u`y Verifi`ed Verified WeChat ...]]></title>
+        <id>https://dev.to/jonsoncharls121/top-3-platforms-to-buy-verified-verified-wechat--2op0</id>
+        <link href="https://dev.to/jonsoncharls121/top-3-platforms-to-buy-verified-verified-wechat--2op0"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Place to Buy Verified Braintree Accounts Online with ...]]></title>
+        <id>https://dev.to/jonsoncharls121/best-place-to-buy-verified-braintree-accounts-online-with--4004</id>
+        <link href="https://dev.to/jonsoncharls121/best-place-to-buy-verified-braintree-accounts-online-with--4004"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebSocket Server: How to Build One in Node.js — and When to Use a Managed One]]></title>
+        <id>https://dev.to/alakkadshaw/websocket-server-how-to-build-one-in-nodejs-and-when-to-use-a-managed-one-48c4</id>
+        <link href="https://dev.to/alakkadshaw/websocket-server-how-to-build-one-in-nodejs-and-when-to-use-a-managed-one-48c4"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latest Guide Expert Tips for Buying GMX Mail Accounts in USA]]></title>
+        <id>https://dev.to/safsrtyr56/latest-guide-expert-tips-for-buying-gmx-mail-accounts-in-usa-3fo7</id>
+        <link href="https://dev.to/safsrtyr56/latest-guide-expert-tips-for-buying-gmx-mail-accounts-in-usa-3fo7"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Props in React]]></title>
+        <id>https://dev.to/dev_sravanthi/understanding-props-in-react-635</id>
+        <link href="https://dev.to/dev_sravanthi/understanding-props-in-react-635"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Type-safe Elasticsearch queries in TypeScript (and JavaScript) with elasticlink]]></title>
+        <id>https://dev.to/john_rodger_dee953ed28186/type-safe-elasticsearch-queries-in-typescript-and-javascript-with-elasticlink-2716</id>
+        <link href="https://dev.to/john_rodger_dee953ed28186/type-safe-elasticsearch-queries-in-typescript-and-javascript-with-elasticlink-2716"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Sonnet 5 RAG Chatbot Test: 40,000 Documents, Real Data]]></title>
+        <id>https://dev.to/bean_bean/claude-sonnet-5-rag-chatbot-test-40000-documents-real-data-1n1d</id>
+        <link href="https://dev.to/bean_bean/claude-sonnet-5-rag-chatbot-test-40000-documents-real-data-1n1d"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Atomics and SharedArrayBuffer in 2026: Practical Patterns for Cross-Worker State]]></title>
+        <id>https://dev.to/jsmanifest/javascript-atomics-and-sharedarraybuffer-in-2026-practical-patterns-for-cross-worker-state-2p07</id>
+        <link href="https://dev.to/jsmanifest/javascript-atomics-and-sharedarraybuffer-in-2026-practical-patterns-for-cross-worker-state-2p07"/>
+        <updated>2026-07-13T16:00:00.000Z</updated>
+        <published>2026-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10# Websites To Buy Snapchat Accounts Verified & ...]]></title>
+        <id>https://dev.to/britwhittington4g15g/top-10-websites-to-buy-snapchat-accounts-verified--22of</id>
+        <link href="https://dev.to/britwhittington4g15g/top-10-websites-to-buy-snapchat-accounts-verified--22of"/>
         <updated>2026-07-13T16:00:00.000Z</updated>
         <published>2026-07-13T16:00:00.000Z</published>
     </entry>
@@ -325,48 +367,6 @@ https://github.com/thegruber/linkpeek
         <title type="html"><![CDATA[Best Kitchen Composters and Food Recyclers (2026)]]></title>
         <id>https://www.wired.com/story/home-composters-buying-guide/</id>
         <link href="https://www.wired.com/story/home-composters-buying-guide/"/>
-        <updated>2026-07-12T16:00:00.000Z</updated>
-        <published>2026-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There Are Endless Conspiracy Theories About Lindsey Graham’s Death]]></title>
-        <id>https://www.wired.com/story/there-are-endless-conspiracy-theories-about-lindsey-grahams-death/</id>
-        <link href="https://www.wired.com/story/there-are-endless-conspiracy-theories-about-lindsey-grahams-death/"/>
-        <updated>2026-07-12T16:00:00.000Z</updated>
-        <published>2026-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy]]></title>
-        <id>https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/</id>
-        <link href="https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/"/>
-        <updated>2026-07-12T16:00:00.000Z</updated>
-        <published>2026-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FCC approves orbital space mirrors, first test satellites will launch this year]]></title>
-        <id>https://www.tomshardware.com/tech-industry/fcc-approves-orbital-space-mirrors-first-test-satellites-will-launch-this-year-large-spacecraft-reflects-sunlight-to-earths-surface-for-construction-sites-search-and-rescue-lighting-and-more</id>
-        <link href="https://www.tomshardware.com/tech-industry/fcc-approves-orbital-space-mirrors-first-test-satellites-will-launch-this-year-large-spacecraft-reflects-sunlight-to-earths-surface-for-construction-sites-search-and-rescue-lighting-and-more"/>
-        <updated>2026-07-12T16:00:00.000Z</updated>
-        <published>2026-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Eurovision to NATO, Canada Edges Closer to Europe]]></title>
-        <id>https://www.newsweek.com/eurovision-nato-canada-edges-closer-europe-12181443</id>
-        <link href="https://www.newsweek.com/eurovision-nato-canada-edges-closer-europe-12181443"/>
-        <updated>2026-07-12T16:00:00.000Z</updated>
-        <published>2026-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLP-1 implant is the latest bet to help patients maintain their weight loss]]></title>
-        <id>https://www.cnbc.com/2026/07/11/glp-1-implant-from-vivani-medical-aims-to-help-patients-stay-on-treatment.html</id>
-        <link href="https://www.cnbc.com/2026/07/11/glp-1-implant-from-vivani-medical-aims-to-help-patients-stay-on-treatment.html"/>
-        <updated>2026-07-12T16:00:00.000Z</updated>
-        <published>2026-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woodruff: You shouldn't trust trusted publishing]]></title>
-        <id>https://lwn.net/Articles/1081690/</id>
-        <link href="https://lwn.net/Articles/1081690/"/>
         <updated>2026-07-12T16:00:00.000Z</updated>
         <published>2026-07-12T16:00:00.000Z</published>
     </entry>
