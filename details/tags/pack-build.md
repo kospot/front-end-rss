@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-14 21:02:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-14 23:03:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -40,8 +40,8 @@
 - [2026-06-15-sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) 
 - [2026-07-08-ACL-2026美团论文精选：从能力评测到推理优化，构建生成新范式](https://tech.meituan.com/2026/06/05/ACL-2026.html) 
 - [2026-07-11-Show-HN:-Quantum-audit-–-CLI-to-scan-NPM-deps-for-quantum-vulnerable-crypto](https://quantum-audit-site.vercel.app) 
-- [2026-07-09-NPM-v12-Ships-with-Install-Scripts-Off-by-Default,-Deprecating-2FA-Bypass-Tokens](https://socket.dev/blog/npm-12) 
 - [2026-07-09-NPM-12-makes-install-scripts,-Git,-and-remote-url-dependencies-opt-in-by-default](https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation/) 
-- [2026-06-23-Invite-to-beta-tester-and-investors-for-depgaze.-SW-supply-chain-security-tool](https://www.depgaze.xyz/) 
+- [2026-07-09-NPM-v12-Ships-with-Install-Scripts-Off-by-Default,-Deprecating-2FA-Bypass-Tokens](https://socket.dev/blog/npm-12) 
 - [2026-06-23-Vite-8.1-is-out-with-an-experimental-full-bundle-mode](https://vite.dev/blog/announcing-vite8-1) 
+- [2026-06-23-Invite-to-beta-tester-and-investors-for-depgaze.-SW-supply-chain-security-tool](https://www.depgaze.xyz/) 
 - [2026-06-20-Top-Bank-Regulator-Spoke-at-an-Invite-Only-Client-Dinner-After-Fed-Meeting](https://www.wsj.com/economy/central-banking/top-bank-regulator-spoke-at-an-invite-only-client-dinner-after-fed-meeting-9c7dc4a5) 

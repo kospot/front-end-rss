@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-14 21:02:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-14 23:03:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -8,6 +8,7 @@
 
 
 - [2026-07-09-npm-v12-and-TypeScript-7-released](https://nodeweekly.com/issues/632) 
+- [2026-07-14-npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794) 
 - [2026-06-23-Babel-8.0,-Vite-8.1,-and-TypeScript-7.0-RC](https://javascriptweekly.com/issues/791) 
 - [2026-06-16-Flow-vs-TypeScript-in-2026](https://javascriptweekly.com/issues/790) 
 - [2026-07-14-Token-Jaccard-Similarity-in-TypeScript:-Simple-Text-Comparison](https://dev.to/codingsimba/token-jaccard-similarity-in-typescript-simple-text-comparison-5ajl) 
@@ -71,11 +72,11 @@ https://prickles.org/tenet/no-escape-hatches/T2
 https://github.com/BitairLabs/lift
 ) 
 - [2026-07-07-MCP-Fundamentals:-Building-a-TypeScript-MCP-Server-with-Tools,-Resources,-Prompts,-Sampling,-and…](https://pub.towardsai.net/mcp-fundamentals-building-a-typescript-mcp-server-with-tools-resources-prompts-sampling-and-9dd670f86fc7?source=rss----98111c9905da---4) 
-- [2026-07-11-Red-is-a-TypeScript/Bun-library-for-building-idempotent-DevOps-CLIs](https://github.com/amiorin/red) 
 - [2026-07-11-Revving-up-Microsoft's-10x-faster-TypeScript-7](https://www.infoworld.com/article/4194567/revving-up-microsofts-10x-faster-typescript-7.html) 
-- [2026-07-04-You-don't-need-Electron-to-build-native-apps-in-TypeScript-video](https://www.youtube.com/watch?v=o5RDfAmzE7s) 
+- [2026-07-11-Red-is-a-TypeScript/Bun-library-for-building-idempotent-DevOps-CLIs](https://github.com/amiorin/red) 
 - [2026-07-04-BrickSlider-–-TypeScript-first,-Tailwind-first-carousel](https://sixsrc.github.io/brickslider/) 
+- [2026-07-04-You-don't-need-Electron-to-build-native-apps-in-TypeScript-video](https://www.youtube.com/watch?v=o5RDfAmzE7s) 
 - [2026-06-30-Wellformed:-Validation-Schemas-as-JSON-for-TypeScript-and-Rust](https://wellformed.net/) 
-- [2026-06-27-Iterating-Faster-with-TypeScript-7](https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7) 
 - [2026-06-27-Show-HN:-The-TypeScript-Semantic-Layer-for-ClickHouse](https://github.com/hypequery/hypequery) 
+- [2026-06-27-Iterating-Faster-with-TypeScript-7](https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7) 
 - [2026-06-23-Full-typing-for-Nix-based-on-TypeScript](https://github.com/ryanrasti/typenix) 

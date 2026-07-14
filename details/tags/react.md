@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-14 21:02:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-14 23:03:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -192,18 +192,18 @@ https://svar.dev/blog/svar-calendar-for-react-svelte-vue/
 - [2026-06-17-A-near-autonomous-AI-chemist-improves-a-challenging-reaction-in-medicinal-chemistry](https://openai.com/index/ai-chemist-improves-reaction) 
 - [2026-07-14-France-powers-down-several-nuclear-reactors-due-to-extreme-heat](https://www.lemonde.fr/en/france/article/2026/07/12/france-powers-down-several-nuclear-reactors-due-to-extreme-heat_6755404_7.html) 
 - [2026-07-13-Top-Reactjs-Development-Services-to-Check-in-2026](https://focusreactive.com/blog/top-reactjs-development-services-in-2026/) 
-- [2026-07-10-John-Carmack-reacts-to-layoffs-at-id-Software](https://www.pcgamer.com/gaming-industry/john-carmack-reacts-to-massive-layoffs-at-id-software-my-microsoft-will-probably-be-a-good-steward-of-the-brand-statement-isnt-aging-well/) 
 - [2026-07-10-Netflix-Is-Exploring-Live-TV-and-Bundles-as-It-Struggles-to-Keep-Viewers-Hooked](https://www.wsj.com/business/media/netflix-is-exploring-live-tv-and-bundles-as-it-struggles-to-keep-viewers-hooked-e1eb28f6) 
+- [2026-07-10-John-Carmack-reacts-to-layoffs-at-id-Software](https://www.pcgamer.com/gaming-industry/john-carmack-reacts-to-massive-layoffs-at-id-software-my-microsoft-will-probably-be-a-good-steward-of-the-brand-statement-isnt-aging-well/) 
 - [2026-07-08-BrAIn,-reactive-AI-agent-nodes-on-a-NATS-bus-instead-of-a-chat-loop](https://github.com/tibzejoker/brAIn) 
 - [2026-07-07-ReactOS-"Open-Source-Windows"-Project-Now-Capable-of-Running-Half-Life-2](https://www.phoronix.com/news/Half-Life-2-ReactOS) 
 - [2026-07-05-Small-World-–-The-"Preact"-of-3D-Web-Engines-TypeScript,-WebGPU](https://rottensteiner-stefan.github.io/small-world/) 
 - [2026-07-03-ReactOS-Implements-First-Windows-NT6-System-Call-Toward-Vista-Compatibility](https://www.phoronix.com/news/ReactOS-First-NT6-Syscall) 
-- [2026-07-02-Show-HN:-What-GPTBot-sees-before-your-React-app-hydrates](https://botscore.io/blog/what-gptbot-sees-before-hydration/) 
 - [2026-07-02-Show-HN:-Dart_agent_core-–-Run-AI-agents-in-Flutter-apps-with-lifecycle-hooks](https://github.com/memex-lab/dart_agent_core) 
+- [2026-07-02-Show-HN:-What-GPTBot-sees-before-your-React-app-hydrates](https://botscore.io/blog/what-gptbot-sees-before-hydration/) 
 - [2026-07-01-Realta-Fusion-generates-electricity-directly-from-a-fusion-reaction](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/) 
 - [2026-06-30-Antares-Achieves-Criticality-of-Mark-0-Reactor](https://antaresindustries.com/updates/antares-achieves-criticality) 
-- [2026-06-29-Show-HN:-SaaS-landing-page-template-React/Vue/HTML,-Tailwind,-free-and-MIT](https://github.com/hannah-wright/saas-landing-page-template) 
 - [2026-06-29-Reacting-to-Two-French-Entrepreneurs-Who-Built-a-$100K-SaaS](https://thenewassociationwebmasters.blogspot.com/2026/06/from-20000-to-100000month-raw.html) 
+- [2026-06-29-Show-HN:-SaaS-landing-page-template-React/Vue/HTML,-Tailwind,-free-and-MIT](https://github.com/hannah-wright/saas-landing-page-template) 
 - [2026-06-28-Phones-alerted-millions-before-quakes-shook-Venezuela](https://www.nytimes.com/interactive/2026/06/27/world/americas/venezuela-earthquakes-android-alerts.html) 
 - [2026-06-25-Show-HN:-Glitchwatch-–-CI-failure-inbox-for-indie-devs-one-GitHub-webhook](https://fleet-manager-roan.vercel.app) 
 - [2026-06-24-AI-stock-slump-raises-the-question-are-investors-taking-profits-or-very-nervous](https://apnews.com/article/tech-stocks-ai-investments-8a0ff4c95d5cae6f65c6e2ba03047058) 

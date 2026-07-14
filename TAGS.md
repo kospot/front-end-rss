@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-14 21:02:55。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-07-14 23:03:21。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -111,6 +111,7 @@
 
 
 - [【Node Weekly】npm-v12-and-TypeScript-7-released](https://nodeweekly.com/issues/632)
+- [【JavaScript Weekly】npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794)
 - [【JavaScript Weekly】Babel-8.0,-Vite-8.1,-and-TypeScript-7.0-RC](https://javascriptweekly.com/issues/791)
 - [【JavaScript Weekly】Flow-vs-TypeScript-in-2026](https://javascriptweekly.com/issues/790)
 - [【前端之巅】Token-Jaccard-Similarity-in-TypeScript:-Simple-Text-Comparison](https://dev.to/codingsimba/token-jaccard-similarity-in-typescript-simple-text-comparison-5ajl)
@@ -129,7 +130,6 @@
 - [【前端之巅】TypeScript-`using`-Keyword-and-Explicit-Resource-Management:-Done-Right](https://dev.to/jsmanifest/typescript-using-keyword-and-explicit-resource-management-done-right-22pg)
 - [【前端之巅】TypeScript-Utility-Types-Reference:-All-22-Built-in-Types-with-Examples](https://dev.to/dev_nestio_229945f10652e4/typescript-utility-types-reference-all-22-built-in-types-with-examples-38cf)
 - [【前端之巅】Svelte's-May-2026-Update:-A-Boost-to-SvelteKit-and-TypeScript-Support](https://dev.to/frank_signorini/sveltes-may-2026-update-a-boost-to-sveltekit-and-typescript-support-203d)
-- [【前端之巅】I-built-a-browser-only-JSON-to-TypeScript-Interface-Generator-—-nested-objects,-arrays,-options,-86-tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-json-to-typescript-interface-generator-nested-objects-arrays-options-86-1eii)
 - [......【查看更多】......](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -650,17 +650,17 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 - [【Hacker News】Fedora-45-Looks-to-Offer-Install-Support-for-Stratis-Storage](https://www.phoronix.com/news/Fedora-45-Stratis-Storage)
 - [【Hacker News】Brain2Qwerty-Offers-a-New-Path-to-Communication-Without-Surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
 - [【Hacker News】Russian-Dandelion-plant-offers-solution-to-global-rubber-shortage](https://www.theguardian.com/science/2026/jun/17/plantwatch-russian-dandelion-solution-global-rubber-shortage)
-- [【Hacker News】"Cursor-for-X":-key-standards-for-vertical-products-offering-agent-workflows](https://alanyahya.com/writing/common-standards-vertical-agent-products)
 - [【Hacker News】HPE-offers-VMware-refugees-a-year-off-the-meter](https://www.theregister.com/virtualization/2026/06/15/hpe-offers-vmware-refugees-a-year-off-the-meter/5255460)
+- [【Hacker News】"Cursor-for-X":-key-standards-for-vertical-products-offering-agent-workflows](https://alanyahya.com/writing/common-standards-vertical-agent-products)
 - [【TechCrunch】Wayve-launches-$85M-employee-tender-offer-at-$8.5B-valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/)
 - [【TechCrunch】a16z-backed-Base-Power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most](https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/)
-- [【Wired】Best-Prime-Day-Vacuum-Deals-Offer-Up-to-42%-Off-2026:-Shark,-Dyson,-Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/)
 - [【Wired】Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-26-2026/)
-- [【Wired】Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/)
+- [【Wired】Best-Prime-Day-Vacuum-Deals-Offer-Up-to-42%-Off-2026:-Shark,-Dyson,-Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/)
 - [【Wired】17-Best-Prime-Day-Apple-Deals-Offering-Up-to-30%-Off:-iPad,-Apple-Watch,-MacBooks,-and-More-2026](https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/)
-- [【Wired】15-Best-Prime-Day-Apple-Deals-Offering-Up-to-30%-Off:-iPad,-Apple-Watch,-MacBooks,-and-More](https://www.wired.com/story/best-prime-day-apple-deals-06-24-2026/)
-- [【Wired】Best-Prime-Day-Vacuum-Deals-Offer-Up-to-42%-Off-2026:-Shark,-Dyson,-Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-24-2026/)
+- [【Wired】Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/)
 - [【Wired】Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-24-2026/)
+- [【Wired】Best-Prime-Day-Vacuum-Deals-Offer-Up-to-42%-Off-2026:-Shark,-Dyson,-Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-24-2026/)
+- [【Wired】15-Best-Prime-Day-Apple-Deals-Offering-Up-to-30%-Off:-iPad,-Apple-Watch,-MacBooks,-and-More](https://www.wired.com/story/best-prime-day-apple-deals-06-24-2026/)
 - [【Wired】Petlibro-Offers:-60%-Off-in-June](https://www.wired.com/story/petlibro-discount-code/)
 - [【Engadget】Prime-Day-is-offering-rare-discounts-on-Philips-Hue-smart-lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale)
 - [【少数派】把面试变成一场「开卷推理」：我的全流程备战与复盘-SOP](https://sspai.com/post/110947)
@@ -678,17 +678,17 @@ https://adropincalm.com/blog/pwa-runtime-error-risk-surface-mitigation/
 
 
 
-- [【CSS-Tricks】translateZ](https://css-tricks.com/almanac/functions/t/translatez/)
-- [【CSS-Tricks】translateY](https://css-tricks.com/almanac/functions/t/translatey/)
-- [【CSS-Tricks】translateX](https://css-tricks.com/almanac/functions/t/translatex/)
 - [【CSS-Tricks】translate](https://css-tricks.com/almanac/functions/t/translate/)
-- [【CSS-Tricks】Prop-For-That](https://css-tricks.com/prop-for-that/)
+- [【CSS-Tricks】translateX](https://css-tricks.com/almanac/functions/t/translatex/)
+- [【CSS-Tricks】translateY](https://css-tricks.com/almanac/functions/t/translatey/)
+- [【CSS-Tricks】translateZ](https://css-tricks.com/almanac/functions/t/translatez/)
 - [【CSS-Tricks】The-Siren-Song-of-ariaNotify](https://css-tricks.com/the-siren-song-of-arianotify/)
+- [【CSS-Tricks】Prop-For-That](https://css-tricks.com/prop-for-that/)
 - [【Smashing Magazine】From-Kickoff-To-First-Concept:-How-To-Turn-Brand-Strategy-Into-Visual-Direction](https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/)
 - [【Smashing Magazine】Designing-For-Distressed-Users:-Why-Mental-Health-Apps-Shouldn’t-Follow-Every-UI-Fashion](https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/)
 - [【Smashing Magazine】Matching-AI-Modality-To-User-Intent:-Designing-The-Right-Interface](https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/)
-- [【Smashing Magazine】Snapshots-Of-Summer-July-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/)
 - [【Smashing Magazine】Why-Accessibility-Is-An-Operational-Capability,-Not-A-Feature](https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/)
+- [【Smashing Magazine】Snapshots-Of-Summer-July-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/)
 - [【Smashing Magazine】Designing-With-Uncertainty:-How-AI-Supercharges-Probabilistic-Thinking](https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/)
 - [【Frontend Masters Blog】The-Siren-Song-of-ariaNotify](https://master.dev/blog/the-siren-song-of-arianotify/)
 - [【Frontend Masters Blog】How-to-Make-an-Interactive-Element-Invisible-but-Accessible](https://master.dev/blog/how-to-make-an-interactive-element-invisible-but-accessible/)
