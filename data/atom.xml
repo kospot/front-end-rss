@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-15T00:01:45.871Z</updated>
+    <updated>2026-07-15T02:01:08.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等]]></title>
+        <id>https://sspai.com/post/112334</id>
+        <link href="https://sspai.com/post/112334"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nomad&#8217;s high-end phone accessories are up to 30 percent off]]></title>
         <id>https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale</id>
@@ -57,23 +64,9 @@
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI’s first hardware device is reportedly a screenless speaker that can move]]></title>
-        <id>https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/</id>
-        <link href="https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Images gets a Pinterest-like redesign focused on discovery]]></title>
-        <id>https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/</id>
-        <link href="https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer]]></title>
-        <id>https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/</id>
-        <link href="https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/"/>
+        <title type="html"><![CDATA[Lucid Motors denies report it’s considering bankruptcy]]></title>
+        <id>https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/</id>
+        <link href="https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
@@ -85,9 +78,23 @@
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lucid Motors denies report it’s considering bankruptcy]]></title>
-        <id>https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/</id>
-        <link href="https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/"/>
+        <title type="html"><![CDATA[Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer]]></title>
+        <id>https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/</id>
+        <link href="https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Images gets a Pinterest-like redesign focused on discovery]]></title>
+        <id>https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/</id>
+        <link href="https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s first hardware device is reportedly a screenless speaker that can move]]></title>
+        <id>https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/</id>
+        <link href="https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
@@ -190,23 +197,9 @@
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an AI Agent That Keeps Learning From GitHub]]></title>
-        <id>https://pub.towardsai.net/how-to-build-an-ai-agent-that-keeps-learning-from-github-9549b4be58ee?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-build-an-ai-agent-that-keeps-learning-from-github-9549b4be58ee?source=rss----98111c9905da---4"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI Doesn’t Forget. It Just Runs Out of Space.]]></title>
-        <id>https://pub.towardsai.net/your-ai-doesnt-forget-it-just-runs-out-of-space-7b9fe9ffba37?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-ai-doesnt-forget-it-just-runs-out-of-space-7b9fe9ffba37?source=rss----98111c9905da---4"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surviving the Tectonic Shifts in Large Language Model Scaling: A Field Guide for Practitioners]]></title>
-        <id>https://pub.towardsai.net/surviving-the-tectonic-shifts-in-large-language-model-scaling-a-field-guide-for-practitioners-3c967665db08?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/surviving-the-tectonic-shifts-in-large-language-model-scaling-a-field-guide-for-practitioners-3c967665db08?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How I Analyze a Dataset Before Training an ML Algorithm: Important Concepts for the Data…]]></title>
+        <id>https://pub.towardsai.net/how-i-analyze-a-dataset-before-training-an-ml-algorithm-important-concepts-for-the-data-7afbb67d26a1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-i-analyze-a-dataset-before-training-an-ml-algorithm-important-concepts-for-the-data-7afbb67d26a1?source=rss----98111c9905da---4"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
@@ -218,9 +211,23 @@
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Analyze a Dataset Before Training an ML Algorithm: Important Concepts for the Data…]]></title>
-        <id>https://pub.towardsai.net/how-i-analyze-a-dataset-before-training-an-ml-algorithm-important-concepts-for-the-data-7afbb67d26a1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-i-analyze-a-dataset-before-training-an-ml-algorithm-important-concepts-for-the-data-7afbb67d26a1?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Surviving the Tectonic Shifts in Large Language Model Scaling: A Field Guide for Practitioners]]></title>
+        <id>https://pub.towardsai.net/surviving-the-tectonic-shifts-in-large-language-model-scaling-a-field-guide-for-practitioners-3c967665db08?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/surviving-the-tectonic-shifts-in-large-language-model-scaling-a-field-guide-for-practitioners-3c967665db08?source=rss----98111c9905da---4"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI Doesn’t Forget. It Just Runs Out of Space.]]></title>
+        <id>https://pub.towardsai.net/your-ai-doesnt-forget-it-just-runs-out-of-space-7b9fe9ffba37?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-ai-doesnt-forget-it-just-runs-out-of-space-7b9fe9ffba37?source=rss----98111c9905da---4"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Agent That Keeps Learning From GitHub]]></title>
+        <id>https://pub.towardsai.net/how-to-build-an-ai-agent-that-keeps-learning-from-github-9549b4be58ee?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-build-an-ai-agent-that-keeps-learning-from-github-9549b4be58ee?source=rss----98111c9905da---4"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
@@ -239,79 +246,37 @@
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTMLテーブルの隠しデータ：見えないデータをスクレイピングする方法]]></title>
-        <id>https://dev.to/circobit/htmlteburunoyin-sidetajian-enaidetawosukureipingusurufang-fa-b4a</id>
-        <link href="https://dev.to/circobit/htmlteburunoyin-sidetajian-enaidetawosukureipingusurufang-fa-b4a"/>
+        <title type="html"><![CDATA[HTML Canvas Cheat Sheet for Pixel Art & Image Effects]]></title>
+        <id>https://dev.to/lemon_73f3c115c7e8d01229b/html-canvas-cheat-sheet-for-pixel-art-image-effects-3jmj</id>
+        <link href="https://dev.to/lemon_73f3c115c7e8d01229b/html-canvas-cheat-sheet-for-pixel-art-image-effects-3jmj"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding React State: How Components Remember and Update Data]]></title>
-        <id>https://dev.to/dev_sravanthi/understanding-react-state-how-components-remember-and-update-data-3i0e</id>
-        <link href="https://dev.to/dev_sravanthi/understanding-react-state-how-components-remember-and-update-data-3i0e"/>
+        <title type="html"><![CDATA[Draw Pixel Art with Vanilla JS — A Step-by-Step Guide]]></title>
+        <id>https://dev.to/lemon_73f3c115c7e8d01229b/draw-pixel-art-with-vanilla-js-a-step-by-step-guide-5fi1</id>
+        <link href="https://dev.to/lemon_73f3c115c7e8d01229b/draw-pixel-art-with-vanilla-js-a-step-by-step-guide-5fi1"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Transposition Trap and 3,600 "Fake" Chess Positions]]></title>
-        <id>https://dev.to/jeffml/the-transposition-trap-and-3600-fake-chess-positions-1igd</id>
-        <link href="https://dev.to/jeffml/the-transposition-trap-and-3600-fake-chess-positions-1igd"/>
+        <title type="html"><![CDATA[HTML Canvas Pixel Art Guide]]></title>
+        <id>https://dev.to/lemon_73f3c115c7e8d01229b/html-canvas-pixel-art-guide-346l</id>
+        <link href="https://dev.to/lemon_73f3c115c7e8d01229b/html-canvas-pixel-art-guide-346l"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everything You Need to Know About Buying Verified Shopify Accounts]]></title>
-        <id>https://dev.to/sfte566/everything-you-need-to-know-about-buying-verified-shopify-accounts-104b</id>
-        <link href="https://dev.to/sfte566/everything-you-need-to-know-about-buying-verified-shopify-accounts-104b"/>
+        <title type="html"><![CDATA[How We Cut Our Browser Video Renderer's Frame Time by 80%]]></title>
+        <id>https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1</id>
+        <link href="https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Common Mistakes When Buying Verified Shopify Accounts 2026]]></title>
-        <id>https://dev.to/sfte566/common-mistakes-when-buying-verified-shopify-accounts-2026-5c0b</id>
-        <link href="https://dev.to/sfte566/common-mistakes-when-buying-verified-shopify-accounts-2026-5c0b"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 10 Sites Guide to Buying Old Github Accounts in]]></title>
-        <id>https://dev.to/corenelambertiv05p/the-10-sites-guide-to-buying-old-github-accounts-in-4d67</id>
-        <link href="https://dev.to/corenelambertiv05p/the-10-sites-guide-to-buying-old-github-accounts-in-4d67"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Meteor 3.5 Is the Most Important Release in Years]]></title>
-        <id>https://dev.to/meteorjs/why-meteor-35-is-the-most-important-release-in-years-2k1g</id>
-        <link href="https://dev.to/meteorjs/why-meteor-35-is-the-most-important-release-in-years-2k1g"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 09 Marketplaces to Buy Verified Cash App Accounts]]></title>
-        <id>https://dev.to/corenelambertiv05p/top-09-marketplaces-to-buy-verified-cash-app-accounts-25c8</id>
-        <link href="https://dev.to/corenelambertiv05p/top-09-marketplaces-to-buy-verified-cash-app-accounts-25c8"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Simple, Reusable JS Function to Calculate Area from Dimensions]]></title>
-        <id>https://dev.to/luke4576/a-simple-reusable-js-function-to-calculate-area-from-dimensions-age</id>
-        <link href="https://dev.to/luke4576/a-simple-reusable-js-function-to-calculate-area-from-dimensions-age"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 7 Tips for Purchasing Verified Shopify Accounts Easily]]></title>
-        <id>https://dev.to/safwet4/top-7-tips-for-purchasing-verified-shopify-accounts-easily-3n0d</id>
-        <link href="https://dev.to/safwet4/top-7-tips-for-purchasing-verified-shopify-accounts-easily-3n0d"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a CSS gradient generator to finally understand gradients]]></title>
-        <id>https://dev.to/dev48v/i-built-a-css-gradient-generator-to-finally-understand-gradients-p46</id>
-        <link href="https://dev.to/dev48v/i-built-a-css-gradient-generator-to-finally-understand-gradients-p46"/>
+        <title type="html"><![CDATA[**Stop Wasting Time Grading Papers: AI Automation for US Schools – ROI & Real Results**]]></title>
+        <id>https://dev.to/dgmh10uk/stop-wasting-time-grading-papers-ai-automation-for-us-schools-roi-real-results-48m1</id>
+        <link href="https://dev.to/dgmh10uk/stop-wasting-time-grading-papers-ai-automation-for-us-schools-roi-real-results-48m1"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
@@ -323,45 +288,80 @@
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[States make last-ditch effort to stop the Paramount ‘media behemoth’]]></title>
-        <id>https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit</id>
-        <link href="https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I built a CSS gradient generator to finally understand gradients]]></title>
+        <id>https://dev.to/dev48v/i-built-a-css-gradient-generator-to-finally-understand-gradients-p46</id>
+        <link href="https://dev.to/dev48v/i-built-a-css-gradient-generator-to-finally-understand-gradients-p46"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Pixel colors might rule this year]]></title>
-        <id>https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor</id>
-        <link href="https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Top 7 Tips for Purchasing Verified Shopify Accounts Easily]]></title>
+        <id>https://dev.to/safwet4/top-7-tips-for-purchasing-verified-shopify-accounts-easily-3n0d</id>
+        <link href="https://dev.to/safwet4/top-7-tips-for-purchasing-verified-shopify-accounts-easily-3n0d"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A two-pack of DJI&#8217;s most capable wireless mics just got its first price cut]]></title>
-        <id>https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A Simple, Reusable JS Function to Calculate Area from Dimensions]]></title>
+        <id>https://dev.to/luke4576/a-simple-reusable-js-function-to-calculate-area-from-dimensions-age</id>
+        <link href="https://dev.to/luke4576/a-simple-reusable-js-function-to-calculate-area-from-dimensions-age"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The first sunlight reflecting space mirror has been cleared for launch]]></title>
-        <id>https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance</id>
-        <link href="https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Top 09 Marketplaces to Buy Verified Cash App Accounts]]></title>
+        <id>https://dev.to/corenelambertiv05p/top-09-marketplaces-to-buy-verified-cash-app-accounts-25c8</id>
+        <link href="https://dev.to/corenelambertiv05p/top-09-marketplaces-to-buy-verified-cash-app-accounts-25c8"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sotheby’s Big T. Rex Auction Raises Concerns Hype and Wealth Are Upending Science]]></title>
-        <id>https://www.wired.com/story/sothebys-t-rex-auction-shows-wealth-upending-science/</id>
-        <link href="https://www.wired.com/story/sothebys-t-rex-auction-shows-wealth-upending-science/"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Why Meteor 3.5 Is the Most Important Release in Years]]></title>
+        <id>https://dev.to/meteorjs/why-meteor-35-is-the-most-important-release-in-years-2k1g</id>
+        <link href="https://dev.to/meteorjs/why-meteor-35-is-the-most-important-release-in-years-2k1g"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night]]></title>
-        <id>https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/</id>
-        <link href="https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/"/>
-        <updated>2026-07-13T16:00:00.000Z</updated>
-        <published>2026-07-13T16:00:00.000Z</published>
+        <title type="html"><![CDATA[The 10 Sites Guide to Buying Old Github Accounts in]]></title>
+        <id>https://dev.to/corenelambertiv05p/the-10-sites-guide-to-buying-old-github-accounts-in-4d67</id>
+        <link href="https://dev.to/corenelambertiv05p/the-10-sites-guide-to-buying-old-github-accounts-in-4d67"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Mistakes When Buying Verified Shopify Accounts 2026]]></title>
+        <id>https://dev.to/sfte566/common-mistakes-when-buying-verified-shopify-accounts-2026-5c0b</id>
+        <link href="https://dev.to/sfte566/common-mistakes-when-buying-verified-shopify-accounts-2026-5c0b"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything You Need to Know About Buying Verified Shopify Accounts]]></title>
+        <id>https://dev.to/sfte566/everything-you-need-to-know-about-buying-verified-shopify-accounts-104b</id>
+        <link href="https://dev.to/sfte566/everything-you-need-to-know-about-buying-verified-shopify-accounts-104b"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Transposition Trap and 3,600 "Fake" Chess Positions]]></title>
+        <id>https://dev.to/jeffml/the-transposition-trap-and-3600-fake-chess-positions-1igd</id>
+        <link href="https://dev.to/jeffml/the-transposition-trap-and-3600-fake-chess-positions-1igd"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding React State: How Components Remember and Update Data]]></title>
+        <id>https://dev.to/dev_sravanthi/understanding-react-state-how-components-remember-and-update-data-3i0e</id>
+        <link href="https://dev.to/dev_sravanthi/understanding-react-state-how-components-remember-and-update-data-3i0e"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTMLテーブルの隠しデータ：見えないデータをスクレイピングする方法]]></title>
+        <id>https://dev.to/circobit/htmlteburunoyin-sidetajian-enaidetawosukureipingusurufang-fa-b4a</id>
+        <link href="https://dev.to/circobit/htmlteburunoyin-sidetajian-enaidetawosukureipingusurufang-fa-b4a"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
     </entry>
 </feed>
