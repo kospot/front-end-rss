@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-15T02:01:08.755Z</updated>
+    <updated>2026-07-15T04:01:26.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,30 +22,9 @@
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nomad&#8217;s high-end phone accessories are up to 30 percent off]]></title>
-        <id>https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boston Dynamics tries using &#8216;robot dogs&#8217; for deliveries]]></title>
-        <id>https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant</id>
-        <link href="https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta accused of using biased AI targeting for mass layoffs]]></title>
-        <id>https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs</id>
-        <link href="https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plex problems prevented users from streaming movies and shows]]></title>
-        <id>https://www.theverge.com/tech/965518/plex-tv-down-outage-issues</id>
-        <link href="https://www.theverge.com/tech/965518/plex-tv-down-outage-issues"/>
+        <title type="html"><![CDATA[OpenAI may announce a ChatGPT smart speaker this year]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
@@ -57,9 +36,30 @@
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI may announce a ChatGPT smart speaker this year]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device"/>
+        <title type="html"><![CDATA[Plex problems prevented users from streaming movies and shows]]></title>
+        <id>https://www.theverge.com/tech/965518/plex-tv-down-outage-issues</id>
+        <link href="https://www.theverge.com/tech/965518/plex-tv-down-outage-issues"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta accused of using biased AI targeting for mass layoffs]]></title>
+        <id>https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs</id>
+        <link href="https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boston Dynamics tries using &#8216;robot dogs&#8217; for deliveries]]></title>
+        <id>https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant</id>
+        <link href="https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nomad&#8217;s high-end phone accessories are up to 30 percent off]]></title>
+        <id>https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
@@ -99,93 +99,44 @@
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why organizing knowledge in the age of AI sucks, and how I solve it]]></title>
-        <id>https://jordangreen.bearblog.dev/why-organizing-knowledge-in-the-age-of-ai-sucks-and-what-i-built/</id>
-        <link href="https://jordangreen.bearblog.dev/why-organizing-knowledge-in-the-age-of-ai-sucks-and-what-i-built/"/>
+        <title type="html"><![CDATA[Poland begins construction of €2.3B deepwater port on Baltic coast]]></title>
+        <id>https://notesfrompoland.com/2026/07/14/poland-begins-construction-of-e2-3bn-deepwater-port-on-baltic-coast/</id>
+        <link href="https://notesfrompoland.com/2026/07/14/poland-begins-construction-of-e2-3bn-deepwater-port-on-baltic-coast/"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Self-hosted Minecraft multi-server panel for vanilla and modpacks]]></title>
-        <id>https://github.com/anefzaoui/minecraft-server-manager</id>
-        <link href="https://github.com/anefzaoui/minecraft-server-manager"/>
+        <title type="html"><![CDATA[Is this the end of the once-mighty GoPro?]]></title>
+        <id>https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/</id>
+        <link href="https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maincode launches Matilda, an AI assistant running on Australian infrastructure]]></title>
-        <id>https://blog.maincode.com/introducing-matildas-open-beta-australian-ai-built-for-trust/</id>
-        <link href="https://blog.maincode.com/introducing-matildas-open-beta-australian-ai-built-for-trust/"/>
+        <title type="html"><![CDATA[The Matter of Taste(2018)]]></title>
+        <id>https://www.callum.website/the-matter-of-taste</id>
+        <link href="https://www.callum.website/the-matter-of-taste"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Framework for Frontier AI and the Dawning of a New Age]]></title>
-        <id>https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age</id>
-        <link href="https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age"/>
+        <title type="html"><![CDATA[From Sawdust to Paw Patrol: The Spin Master Story (With Ronnen Harary) [audio]]]></title>
+        <id>https://www.econtalk.org/from-sawdust-to-paw-patrol-the-spin-master-story-with-ronnen-harary/</id>
+        <link href="https://www.econtalk.org/from-sawdust-to-paw-patrol-the-spin-master-story-with-ronnen-harary/"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lenovo ThinkStation P3 Ultra SFF Gen 2 Review: Small Chassis, Surprising Power]]></title>
-        <id>https://www.storagereview.com/review/lenovo-thinkstation-p3-ultra-sff-gen-2-review-small-chassis-surprising-power</id>
-        <link href="https://www.storagereview.com/review/lenovo-thinkstation-p3-ultra-sff-gen-2-review-small-chassis-surprising-power"/>
+        <title type="html"><![CDATA[Show HN: GWZ – Git Workspace Zone (multi-repo that feels like plain Git)]]></title>
+        <id>https://news.ycombinator.com/item?id=48915923</id>
+        <link href="https://news.ycombinator.com/item?id=48915923"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lawsuit claims Meta's layoff decisions were made by AI, not humans]]></title>
-        <id>https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/</id>
-        <link href="https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeBSD 16 Retires the Last of Its GPL Code from Its Base System]]></title>
-        <id>https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free</id>
-        <link href="https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git-absorb: Git commit –fixup, but automatic]]></title>
-        <id>https://github.com/tummychow/git-absorb</id>
-        <link href="https://github.com/tummychow/git-absorb"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a Mechanical Light Bulb [video]]]></title>
-        <id>https://www.youtube.com/watch?v=0Y-9GbsS9Fg</id>
-        <link href="https://www.youtube.com/watch?v=0Y-9GbsS9Fg"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberstalkers Are Exploiting Chrome Sync to Spy on Victims]]></title>
-        <id>https://www.certosoftware.com/insights/cyberstalkers-exploiting-chrome-sync-to-spy/</id>
-        <link href="https://www.certosoftware.com/insights/cyberstalkers-exploiting-chrome-sync-to-spy/"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unsung's Cursed Knowledge]]></title>
-        <id>https://unsung.aresluna.org/cursed-knowledge/</id>
-        <link href="https://unsung.aresluna.org/cursed-knowledge/"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Systems as Knowledge Graphs]]></title>
-        <id>https://chsmc.org/2021/08/systems-as-knowledge-graphs/</id>
-        <link href="https://chsmc.org/2021/08/systems-as-knowledge-graphs/"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Change-Stack.com – Database and newsletter for opportunities to change the world]]></title>
-        <id>https://www.change-stack.com/</id>
-        <link href="https://www.change-stack.com/"/>
+        <title type="html"><![CDATA[Google Images is getting a visual refresh as it turns 25]]></title>
+        <id>https://www.neowin.net/news/google-images-is-getting-a-visual-refresh-as-it-turns-25/</id>
+        <link href="https://www.neowin.net/news/google-images-is-getting-a-visual-refresh-as-it-turns-25/"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
@@ -197,23 +148,135 @@
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Analyze a Dataset Before Training an ML Algorithm: Important Concepts for the Data…]]></title>
-        <id>https://pub.towardsai.net/how-i-analyze-a-dataset-before-training-an-ml-algorithm-important-concepts-for-the-data-7afbb67d26a1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-i-analyze-a-dataset-before-training-an-ml-algorithm-important-concepts-for-the-data-7afbb67d26a1?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Change-Stack.com – Database and newsletter for opportunities to change the world]]></title>
+        <id>https://www.change-stack.com/</id>
+        <link href="https://www.change-stack.com/"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Gave an AI Tutor a Memory That Survives Restarts — Here’s the Tiered Architecture (and Tested…]]></title>
-        <id>https://pub.towardsai.net/i-gave-an-ai-tutor-a-memory-that-survives-restarts-heres-the-tiered-architecture-and-tested-42e24ec7e2a8?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-gave-an-ai-tutor-a-memory-that-survives-restarts-heres-the-tiered-architecture-and-tested-42e24ec7e2a8?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Design Systems as Knowledge Graphs]]></title>
+        <id>https://chsmc.org/2021/08/systems-as-knowledge-graphs/</id>
+        <link href="https://chsmc.org/2021/08/systems-as-knowledge-graphs/"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Surviving the Tectonic Shifts in Large Language Model Scaling: A Field Guide for Practitioners]]></title>
-        <id>https://pub.towardsai.net/surviving-the-tectonic-shifts-in-large-language-model-scaling-a-field-guide-for-practitioners-3c967665db08?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/surviving-the-tectonic-shifts-in-large-language-model-scaling-a-field-guide-for-practitioners-3c967665db08?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Unsung's Cursed Knowledge]]></title>
+        <id>https://unsung.aresluna.org/cursed-knowledge/</id>
+        <link href="https://unsung.aresluna.org/cursed-knowledge/"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberstalkers Are Exploiting Chrome Sync to Spy on Victims]]></title>
+        <id>https://www.certosoftware.com/insights/cyberstalkers-exploiting-chrome-sync-to-spy/</id>
+        <link href="https://www.certosoftware.com/insights/cyberstalkers-exploiting-chrome-sync-to-spy/"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a Mechanical Light Bulb [video]]]></title>
+        <id>https://www.youtube.com/watch?v=0Y-9GbsS9Fg</id>
+        <link href="https://www.youtube.com/watch?v=0Y-9GbsS9Fg"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git-absorb: Git commit –fixup, but automatic]]></title>
+        <id>https://github.com/tummychow/git-absorb</id>
+        <link href="https://github.com/tummychow/git-absorb"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD 16 Retires the Last of Its GPL Code from Its Base System]]></title>
+        <id>https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free</id>
+        <link href="https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lawsuit claims Meta's layoff decisions were made by AI, not humans]]></title>
+        <id>https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/</id>
+        <link href="https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo ThinkStation P3 Ultra SFF Gen 2 Review: Small Chassis, Surprising Power]]></title>
+        <id>https://www.storagereview.com/review/lenovo-thinkstation-p3-ultra-sff-gen-2-review-small-chassis-surprising-power</id>
+        <link href="https://www.storagereview.com/review/lenovo-thinkstation-p3-ultra-sff-gen-2-review-small-chassis-surprising-power"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Framework for Frontier AI and the Dawning of a New Age]]></title>
+        <id>https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age</id>
+        <link href="https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maincode launches Matilda, an AI assistant running on Australian infrastructure]]></title>
+        <id>https://blog.maincode.com/introducing-matildas-open-beta-australian-ai-built-for-trust/</id>
+        <link href="https://blog.maincode.com/introducing-matildas-open-beta-australian-ai-built-for-trust/"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Self-hosted Minecraft multi-server panel for vanilla and modpacks]]></title>
+        <id>https://github.com/anefzaoui/minecraft-server-manager</id>
+        <link href="https://github.com/anefzaoui/minecraft-server-manager"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why organizing knowledge in the age of AI sucks, and how I solve it]]></title>
+        <id>https://jordangreen.bearblog.dev/why-organizing-knowledge-in-the-age-of-ai-sucks-and-what-i-built/</id>
+        <link href="https://jordangreen.bearblog.dev/why-organizing-knowledge-in-the-age-of-ai-sucks-and-what-i-built/"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI is Not a Product Anymore. It’s the Infrastructure Under Everything]]></title>
+        <id>https://pub.towardsai.net/ai-is-not-a-product-anymore-its-the-infrastructure-under-everything-85e6b0175f4d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-is-not-a-product-anymore-its-the-infrastructure-under-everything-85e6b0175f4d?source=rss----98111c9905da---4"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Law Aimed at AI Girlfriends Just Wiped 8 Million Agents From China's Biggest AI App]]></title>
+        <id>https://pub.towardsai.net/a-law-aimed-at-ai-girlfriends-just-wiped-8-million-agents-from-chinas-biggest-ai-app-16e65be0b57d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-law-aimed-at-ai-girlfriends-just-wiped-8-million-agents-from-chinas-biggest-ai-app-16e65be0b57d?source=rss----98111c9905da---4"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Object Detection Models for Computer Vision [2026 Updated]]]></title>
+        <id>https://pub.towardsai.net/object-detection-models-cf611b54b818?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/object-detection-models-cf611b54b818?source=rss----98111c9905da---4"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Watched XGrammar Forbid a Token: What Grammar-Constrained Decoding Actually Does to Your Logits]]></title>
+        <id>https://pub.towardsai.net/i-watched-xgrammar-forbid-a-token-what-grammar-constrained-decoding-actually-does-to-your-logits-66b05af41031?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-watched-xgrammar-forbid-a-token-what-grammar-constrained-decoding-actually-does-to-your-logits-66b05af41031?source=rss----98111c9905da---4"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Production MCP Servers: Security, Scaling, and Real World Pitfalls]]></title>
+        <id>https://pub.towardsai.net/building-production-mcp-servers-security-scaling-and-real-world-pitfalls-8b24fd2d90ae?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-production-mcp-servers-security-scaling-and-real-world-pitfalls-8b24fd2d90ae?source=rss----98111c9905da---4"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Agent That Keeps Learning From GitHub]]></title>
+        <id>https://pub.towardsai.net/how-to-build-an-ai-agent-that-keeps-learning-from-github-9549b4be58ee?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-build-an-ai-agent-that-keeps-learning-from-github-9549b4be58ee?source=rss----98111c9905da---4"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
@@ -225,9 +288,23 @@
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an AI Agent That Keeps Learning From GitHub]]></title>
-        <id>https://pub.towardsai.net/how-to-build-an-ai-agent-that-keeps-learning-from-github-9549b4be58ee?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-build-an-ai-agent-that-keeps-learning-from-github-9549b4be58ee?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Surviving the Tectonic Shifts in Large Language Model Scaling: A Field Guide for Practitioners]]></title>
+        <id>https://pub.towardsai.net/surviving-the-tectonic-shifts-in-large-language-model-scaling-a-field-guide-for-practitioners-3c967665db08?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/surviving-the-tectonic-shifts-in-large-language-model-scaling-a-field-guide-for-practitioners-3c967665db08?source=rss----98111c9905da---4"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Gave an AI Tutor a Memory That Survives Restarts — Here’s the Tiered Architecture (and Tested…]]></title>
+        <id>https://pub.towardsai.net/i-gave-an-ai-tutor-a-memory-that-survives-restarts-heres-the-tiered-architecture-and-tested-42e24ec7e2a8?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-gave-an-ai-tutor-a-memory-that-survives-restarts-heres-the-tiered-architecture-and-tested-42e24ec7e2a8?source=rss----98111c9905da---4"/>
+        <updated>2026-07-14T16:00:00.000Z</updated>
+        <published>2026-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Analyze a Dataset Before Training an ML Algorithm: Important Concepts for the Data…]]></title>
+        <id>https://pub.towardsai.net/how-i-analyze-a-dataset-before-training-an-ml-algorithm-important-concepts-for-the-data-7afbb67d26a1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-i-analyze-a-dataset-before-training-an-ml-algorithm-important-concepts-for-the-data-7afbb67d26a1?source=rss----98111c9905da---4"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
@@ -246,121 +323,44 @@
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Canvas Cheat Sheet for Pixel Art & Image Effects]]></title>
-        <id>https://dev.to/lemon_73f3c115c7e8d01229b/html-canvas-cheat-sheet-for-pixel-art-image-effects-3jmj</id>
-        <link href="https://dev.to/lemon_73f3c115c7e8d01229b/html-canvas-cheat-sheet-for-pixel-art-image-effects-3jmj"/>
+        <title type="html"><![CDATA[OmniPMNet: Bridging discrete and gridded PM10 forecasts via omni-query neural processes]]></title>
+        <id>https://arxiv.org/abs/2607.11896</id>
+        <link href="https://arxiv.org/abs/2607.11896"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Draw Pixel Art with Vanilla JS — A Step-by-Step Guide]]></title>
-        <id>https://dev.to/lemon_73f3c115c7e8d01229b/draw-pixel-art-with-vanilla-js-a-step-by-step-guide-5fi1</id>
-        <link href="https://dev.to/lemon_73f3c115c7e8d01229b/draw-pixel-art-with-vanilla-js-a-step-by-step-guide-5fi1"/>
+        <title type="html"><![CDATA[Semidirect Fourier Delta Attention: Phase-Controlled Delta Memory with Constructive Chunk-WY Kernels]]></title>
+        <id>https://arxiv.org/abs/2607.11897</id>
+        <link href="https://arxiv.org/abs/2607.11897"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Canvas Pixel Art Guide]]></title>
-        <id>https://dev.to/lemon_73f3c115c7e8d01229b/html-canvas-pixel-art-guide-346l</id>
-        <link href="https://dev.to/lemon_73f3c115c7e8d01229b/html-canvas-pixel-art-guide-346l"/>
+        <title type="html"><![CDATA[Qubit-Efficient Quantum Search for Hyperdimensional Decomposition via Logarithmic Encoding]]></title>
+        <id>https://arxiv.org/abs/2607.11936</id>
+        <link href="https://arxiv.org/abs/2607.11936"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Cut Our Browser Video Renderer's Frame Time by 80%]]></title>
-        <id>https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1</id>
-        <link href="https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1"/>
+        <title type="html"><![CDATA[Mirror Horizon: Viable Path Entropy as a Measure of Bounded Reflection]]></title>
+        <id>https://arxiv.org/abs/2607.11937</id>
+        <link href="https://arxiv.org/abs/2607.11937"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[**Stop Wasting Time Grading Papers: AI Automation for US Schools – ROI & Real Results**]]></title>
-        <id>https://dev.to/dgmh10uk/stop-wasting-time-grading-papers-ai-automation-for-us-schools-roi-real-results-48m1</id>
-        <link href="https://dev.to/dgmh10uk/stop-wasting-time-grading-papers-ai-automation-for-us-schools-roi-real-results-48m1"/>
+        <title type="html"><![CDATA[Mathematics of Data Science]]></title>
+        <id>https://arxiv.org/abs/2607.11938</id>
+        <link href="https://arxiv.org/abs/2607.11938"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where Is Deno Today?]]></title>
-        <id>https://dev.to/stemtraininggroundsteam/where-is-deno-today-10ne</id>
-        <link href="https://dev.to/stemtraininggroundsteam/where-is-deno-today-10ne"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a CSS gradient generator to finally understand gradients]]></title>
-        <id>https://dev.to/dev48v/i-built-a-css-gradient-generator-to-finally-understand-gradients-p46</id>
-        <link href="https://dev.to/dev48v/i-built-a-css-gradient-generator-to-finally-understand-gradients-p46"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 7 Tips for Purchasing Verified Shopify Accounts Easily]]></title>
-        <id>https://dev.to/safwet4/top-7-tips-for-purchasing-verified-shopify-accounts-easily-3n0d</id>
-        <link href="https://dev.to/safwet4/top-7-tips-for-purchasing-verified-shopify-accounts-easily-3n0d"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Simple, Reusable JS Function to Calculate Area from Dimensions]]></title>
-        <id>https://dev.to/luke4576/a-simple-reusable-js-function-to-calculate-area-from-dimensions-age</id>
-        <link href="https://dev.to/luke4576/a-simple-reusable-js-function-to-calculate-area-from-dimensions-age"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 09 Marketplaces to Buy Verified Cash App Accounts]]></title>
-        <id>https://dev.to/corenelambertiv05p/top-09-marketplaces-to-buy-verified-cash-app-accounts-25c8</id>
-        <link href="https://dev.to/corenelambertiv05p/top-09-marketplaces-to-buy-verified-cash-app-accounts-25c8"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Meteor 3.5 Is the Most Important Release in Years]]></title>
-        <id>https://dev.to/meteorjs/why-meteor-35-is-the-most-important-release-in-years-2k1g</id>
-        <link href="https://dev.to/meteorjs/why-meteor-35-is-the-most-important-release-in-years-2k1g"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 10 Sites Guide to Buying Old Github Accounts in]]></title>
-        <id>https://dev.to/corenelambertiv05p/the-10-sites-guide-to-buying-old-github-accounts-in-4d67</id>
-        <link href="https://dev.to/corenelambertiv05p/the-10-sites-guide-to-buying-old-github-accounts-in-4d67"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Mistakes When Buying Verified Shopify Accounts 2026]]></title>
-        <id>https://dev.to/sfte566/common-mistakes-when-buying-verified-shopify-accounts-2026-5c0b</id>
-        <link href="https://dev.to/sfte566/common-mistakes-when-buying-verified-shopify-accounts-2026-5c0b"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything You Need to Know About Buying Verified Shopify Accounts]]></title>
-        <id>https://dev.to/sfte566/everything-you-need-to-know-about-buying-verified-shopify-accounts-104b</id>
-        <link href="https://dev.to/sfte566/everything-you-need-to-know-about-buying-verified-shopify-accounts-104b"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Transposition Trap and 3,600 "Fake" Chess Positions]]></title>
-        <id>https://dev.to/jeffml/the-transposition-trap-and-3600-fake-chess-positions-1igd</id>
-        <link href="https://dev.to/jeffml/the-transposition-trap-and-3600-fake-chess-positions-1igd"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding React State: How Components Remember and Update Data]]></title>
-        <id>https://dev.to/dev_sravanthi/understanding-react-state-how-components-remember-and-update-data-3i0e</id>
-        <link href="https://dev.to/dev_sravanthi/understanding-react-state-how-components-remember-and-update-data-3i0e"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTMLテーブルの隠しデータ：見えないデータをスクレイピングする方法]]></title>
-        <id>https://dev.to/circobit/htmlteburunoyin-sidetajian-enaidetawosukureipingusurufang-fa-b4a</id>
-        <link href="https://dev.to/circobit/htmlteburunoyin-sidetajian-enaidetawosukureipingusurufang-fa-b4a"/>
+        <title type="html"><![CDATA[CARE-LoRA: Compressed Activation REconstruction for Memory-Efficient LoRA]]></title>
+        <id>https://arxiv.org/abs/2607.11940</id>
+        <link href="https://arxiv.org/abs/2607.11940"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
