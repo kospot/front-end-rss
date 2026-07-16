@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-16T02:01:44.836Z</updated>
+    <updated>2026-07-16T04:02:58.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,16 +64,23 @@
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daniel Ek’s body-scanning startup Neko Health raises another $700M]]></title>
-        <id>https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/</id>
-        <link href="https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/"/>
+        <title type="html"><![CDATA[Lululemon backs nylon recycling startup Syntetica in $30M Series A]]></title>
+        <id>https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/</id>
+        <link href="https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft patches bug in video game Age of Empires II]]></title>
-        <id>https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/</id>
-        <link href="https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/"/>
+        <title type="html"><![CDATA[Applied Computing wants to give oil and gas operators an AI model for the entire plant]]></title>
+        <id>https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/</id>
+        <link href="https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft patches record number of security vulnerabilities, citing its use of AI]]></title>
+        <id>https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/</id>
+        <link href="https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
@@ -85,9 +92,16 @@
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft patches record number of security vulnerabilities, citing its use of AI]]></title>
-        <id>https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/</id>
-        <link href="https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/"/>
+        <title type="html"><![CDATA[Microsoft patches bug in video game Age of Empires II]]></title>
+        <id>https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/</id>
+        <link href="https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daniel Ek’s body-scanning startup Neko Health raises another $700M]]></title>
+        <id>https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/</id>
+        <link href="https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
@@ -190,180 +204,164 @@
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub for Beginners: Your roadmap to mastering the GitHub essentials]]></title>
-        <id>https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/</id>
-        <link href="https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/"/>
+        <title type="html"><![CDATA[Automatic Differentiation from Scratch: How PyTorch Computes Gradients in Physics-Informed Neural Networks]]></title>
+        <id>https://arxiv.org/abs/2607.13042</id>
+        <link href="https://arxiv.org/abs/2607.13042"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to actually choose a headless CMS for Next.js in 2026]]></title>
-        <id>https://dev.to/bdegiglio/how-to-actually-choose-a-headless-cms-for-nextjs-in-2026-3fl9</id>
-        <link href="https://dev.to/bdegiglio/how-to-actually-choose-a-headless-cms-for-nextjs-in-2026-3fl9"/>
+        <title type="html"><![CDATA[Beyond Backbone Backpropagation: A Decoupled Strategy for Efficient Transfer Learning]]></title>
+        <id>https://arxiv.org/abs/2607.13043</id>
+        <link href="https://arxiv.org/abs/2607.13043"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Function]]></title>
-        <id>https://dev.to/veera_ganapathi/javascript-function-4ko0</id>
-        <link href="https://dev.to/veera_ganapathi/javascript-function-4ko0"/>
+        <title type="html"><![CDATA[Targeted Recovery of Weight-Space Mechanisms From Neural Networks]]></title>
+        <id>https://arxiv.org/abs/2607.13047</id>
+        <link href="https://arxiv.org/abs/2607.13047"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Loops]]></title>
-        <id>https://dev.to/veera_ganapathi/javascript-loops-3me4</id>
-        <link href="https://dev.to/veera_ganapathi/javascript-loops-3me4"/>
+        <title type="html"><![CDATA[TSSM: Triaxial State Space Model for Global Station Weather Forecasting with Temporal-Variable-Historical Modeling]]></title>
+        <id>https://arxiv.org/abs/2607.13101</id>
+        <link href="https://arxiv.org/abs/2607.13101"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conditional Statement in Js]]></title>
-        <id>https://dev.to/veera_ganapathi/conditional-statement-in-js-5alc</id>
-        <link href="https://dev.to/veera_ganapathi/conditional-statement-in-js-5alc"/>
+        <title type="html"><![CDATA[Disentangling Knowledge States with Ability and Proficiency Modeling for Knowledge Tracing]]></title>
+        <id>https://arxiv.org/abs/2607.13103</id>
+        <link href="https://arxiv.org/abs/2607.13103"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add an AI support agent to Next.js, WordPress, Shopify, or any site]]></title>
-        <id>https://dev.to/omar_bni_f6856a8bb0e021e9/add-an-ai-support-agent-to-nextjs-wordpress-shopify-or-any-site-44ph</id>
-        <link href="https://dev.to/omar_bni_f6856a8bb0e021e9/add-an-ai-support-agent-to-nextjs-wordpress-shopify-or-any-site-44ph"/>
+        <title type="html"><![CDATA[STKAN: Kolmogorov-Arnold Networks for Spatio-Temporal Forecasting]]></title>
+        <id>https://arxiv.org/abs/2607.13108</id>
+        <link href="https://arxiv.org/abs/2607.13108"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Behind the Scenes: Code Cleanup and Rollbacks in react-hook-lab]]></title>
-        <id>https://dev.to/saurav_tb_pandey/behind-the-scenes-code-cleanup-and-rollbacks-in-react-hook-lab-3d0k</id>
-        <link href="https://dev.to/saurav_tb_pandey/behind-the-scenes-code-cleanup-and-rollbacks-in-react-hook-lab-3d0k"/>
+        <title type="html"><![CDATA[A Hybrid Mamba for Audio-Visual Navigation]]></title>
+        <id>https://arxiv.org/abs/2607.13110</id>
+        <link href="https://arxiv.org/abs/2607.13110"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Vite, Components, and NPM - React]]></title>
-        <id>https://dev.to/vigneshwaran_v/understanding-vite-components-and-npm-react-4o41</id>
-        <link href="https://dev.to/vigneshwaran_v/understanding-vite-components-and-npm-react-4o41"/>
+        <title type="html"><![CDATA[HEDGEHOG: Hierarchical Evaluation of Drug Generators Through Rigorous Filtration]]></title>
+        <id>https://arxiv.org/abs/2607.13155</id>
+        <link href="https://arxiv.org/abs/2607.13155"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript `const` Type Parameters: Immutable Inference and When It Beats `as const`]]></title>
-        <id>https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523</id>
-        <link href="https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523"/>
+        <title type="html"><![CDATA[EMAGN: Efficient Multi-Attention Graph Network via Learned Clustering for Scalable Traffic Forecasting]]></title>
+        <id>https://arxiv.org/abs/2607.13241</id>
+        <link href="https://arxiv.org/abs/2607.13241"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Auto-Generated TypeScript Interfaces Are Lying to You]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/your-auto-generated-typescript-interfaces-are-lying-to-you-dfe</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/your-auto-generated-typescript-interfaces-are-lying-to-you-dfe"/>
+        <title type="html"><![CDATA[Deconstructing Actor-Critic: A Large-scale Empirical Study of Design Components for Practitioners]]></title>
+        <id>https://arxiv.org/abs/2607.13274</id>
+        <link href="https://arxiv.org/abs/2607.13274"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I spent a week trying to intercept Slack push notifications from a Chrome extension. Here's why it's impossible.]]></title>
-        <id>https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc</id>
-        <link href="https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc"/>
+        <title type="html"><![CDATA[Accuracy-Preserving Stability Regularization for Large-Scale Retail Demand Forecasting]]></title>
+        <id>https://arxiv.org/abs/2607.13331</id>
+        <link href="https://arxiv.org/abs/2607.13331"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Commercial Parking Lot Snow Removal: Best Practices for Edmonton Properties]]></title>
-        <id>https://dev.to/muskan_hashmi_b539e9611f4/commercial-parking-lot-snow-removal-best-practices-for-edmonton-properties-4kdm</id>
-        <link href="https://dev.to/muskan_hashmi_b539e9611f4/commercial-parking-lot-snow-removal-best-practices-for-edmonton-properties-4kdm"/>
+        <title type="html"><![CDATA[Agora: Collective and Permissionless Internet-Scale Pretraining of Large Language Models]]></title>
+        <id>https://arxiv.org/abs/2607.13332</id>
+        <link href="https://arxiv.org/abs/2607.13332"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Let's Learn React]]></title>
-        <id>https://dev.to/vigneshwaran_v/lets-learn-react-1jc7</id>
-        <link href="https://dev.to/vigneshwaran_v/lets-learn-react-1jc7"/>
+        <title type="html"><![CDATA[Where Should RL Post-Training Compute Go? Model Size, Search, Learning, and Feedback]]></title>
+        <id>https://arxiv.org/abs/2607.13389</id>
+        <link href="https://arxiv.org/abs/2607.13389"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automating Our DevRel: Improving React Hook Lab's Release Workflow]]></title>
-        <id>https://dev.to/saurav_tb_pandey/automating-our-devrel-improving-react-hook-labs-release-workflow-dop</id>
-        <link href="https://dev.to/saurav_tb_pandey/automating-our-devrel-improving-react-hook-labs-release-workflow-dop"/>
+        <title type="html"><![CDATA[Self-Improving is Often Sudden: Enlightenment-style Finetuning for Large-Scale Models]]></title>
+        <id>https://arxiv.org/abs/2607.13395</id>
+        <link href="https://arxiv.org/abs/2607.13395"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Demystifying libuv: The Secret Engine Powering Node.js]]></title>
-        <id>https://dev.to/manojkhatri2026/demystifying-libuv-the-secret-engine-powering-nodejs-5ik</id>
-        <link href="https://dev.to/manojkhatri2026/demystifying-libuv-the-secret-engine-powering-nodejs-5ik"/>
+        <title type="html"><![CDATA[Is the Statistical Advantage Worth the Cost? An Empirical Comparison of KANs and MLPs for Structured Data Classification]]></title>
+        <id>https://arxiv.org/abs/2607.13413</id>
+        <link href="https://arxiv.org/abs/2607.13413"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Trusted Platforms to Buy Old Gmail Accounts in the]]></title>
-        <id>https://dev.to/violantemccartyso8xt/top-trusted-platforms-to-buy-old-gmail-accounts-in-the-3ob5</id>
-        <link href="https://dev.to/violantemccartyso8xt/top-trusted-platforms-to-buy-old-gmail-accounts-in-the-3ob5"/>
+        <title type="html"><![CDATA[EXPLORE: Exploration with Guided Search for Analog Topology Generation using Language Models]]></title>
+        <id>https://arxiv.org/abs/2607.13416</id>
+        <link href="https://arxiv.org/abs/2607.13416"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is anyone here still alive?
-
-I wrote an article about my lib, and it's been viewed less than 20 times... Is anyone even interested in the development, or here now only just bullshit about AI?]]></title>
-        <id>https://dev.to/psychosynthesis/is-anyone-here-still-alive-i-wrote-an-article-about-libu-and-its-been-viewed-less-than-20-1k7n</id>
-        <link href="https://dev.to/psychosynthesis/is-anyone-here-still-alive-i-wrote-an-article-about-libu-and-its-been-viewed-less-than-20-1k7n"/>
+        <title type="html"><![CDATA[Data-Efficient Adaptation of LLMs via Attention Head Reweighting]]></title>
+        <id>https://arxiv.org/abs/2607.13425</id>
+        <link href="https://arxiv.org/abs/2607.13425"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lessons Learned Rewriting a Sticky Detector]]></title>
-        <id>https://master.dev/blog/lessons-learned-rewriting-a-sticky-detector/</id>
-        <link href="https://master.dev/blog/lessons-learned-rewriting-a-sticky-detector/"/>
+        <title type="html"><![CDATA[Discrete Diffusion Models: A Unified Framework from Tokenization to Generation]]></title>
+        <id>https://arxiv.org/abs/2607.13431</id>
+        <link href="https://arxiv.org/abs/2607.13431"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等]]></title>
-        <id>https://sspai.com/post/112334</id>
-        <link href="https://sspai.com/post/112334"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization]]></title>
+        <id>https://arxiv.org/abs/2607.13432</id>
+        <link href="https://arxiv.org/abs/2607.13432"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nomad&#8217;s high-end phone accessories are up to 30 percent off]]></title>
-        <id>https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
+        <title type="html"><![CDATA[DeepLoop: Depth Scaling for Looped Transformers]]></title>
+        <id>https://arxiv.org/abs/2607.13491</id>
+        <link href="https://arxiv.org/abs/2607.13491"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boston Dynamics tries using &#8216;robot dogs&#8217; for deliveries]]></title>
-        <id>https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant</id>
-        <link href="https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
+        <title type="html"><![CDATA[ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level]]></title>
+        <id>https://arxiv.org/abs/2607.13511</id>
+        <link href="https://arxiv.org/abs/2607.13511"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta accused of using biased AI targeting for mass layoffs]]></title>
-        <id>https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs</id>
-        <link href="https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
+        <title type="html"><![CDATA[From Novice to Expert: Cost-Aware Bandits for Evolving Worker Performance in Crowdsensing]]></title>
+        <id>https://arxiv.org/abs/2607.13546</id>
+        <link href="https://arxiv.org/abs/2607.13546"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plex problems prevented users from streaming movies and shows]]></title>
-        <id>https://www.theverge.com/tech/965518/plex-tv-down-outage-issues</id>
-        <link href="https://www.theverge.com/tech/965518/plex-tv-down-outage-issues"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Philips Hue&#8217;s budget-friendly Essential starter kit has hit a new low price]]></title>
-        <id>https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI may announce a ChatGPT smart speaker this year]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
+        <title type="html"><![CDATA[The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models]]></title>
+        <id>https://arxiv.org/abs/2607.13612</id>
+        <link href="https://arxiv.org/abs/2607.13612"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
     </entry>
 </feed>
