@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-16T00:01:18.067Z</updated>
+    <updated>2026-07-16T02:01:44.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,13 +50,6 @@
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Northeast Is Being Blanketed in Canadian Wildfire Smoke]]></title>
-        <id>https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/</id>
-        <link href="https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Here’s the Truth About Whether Meta’s NameTag Face Recognition Tech ‘Exists’]]></title>
         <id>https://www.wired.com/story/heres-the-truth-about-whether-metas-nametag-face-recognition-exists/</id>
         <link href="https://www.wired.com/story/heres-the-truth-about-whether-metas-nametag-face-recognition-exists/"/>
@@ -64,16 +57,16 @@
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft patches record number of security vulnerabilities, citing its use of AI]]></title>
-        <id>https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/</id>
-        <link href="https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/"/>
+        <title type="html"><![CDATA[The Northeast Is Being Blanketed in Canadian Wildfire Smoke]]></title>
+        <id>https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/</id>
+        <link href="https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple bans home services from its upcoming Maps ads]]></title>
-        <id>https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/</id>
-        <link href="https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/"/>
+        <title type="html"><![CDATA[Daniel Ek’s body-scanning startup Neko Health raises another $700M]]></title>
+        <id>https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/</id>
+        <link href="https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
@@ -85,9 +78,16 @@
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daniel Ek’s body-scanning startup Neko Health raises another $700M]]></title>
-        <id>https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/</id>
-        <link href="https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/"/>
+        <title type="html"><![CDATA[Apple bans home services from its upcoming Maps ads]]></title>
+        <id>https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/</id>
+        <link href="https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft patches record number of security vulnerabilities, citing its use of AI]]></title>
+        <id>https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/</id>
+        <link href="https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
@@ -169,9 +169,9 @@
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Semantic Layer is the Ultimate Battlefield in the Era of Agentic AI]]></title>
-        <id>https://pub.towardsai.net/the-semantic-layer-is-the-ultimate-battlefield-in-the-era-of-agentic-ai-526d897cf625?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-semantic-layer-is-the-ultimate-battlefield-in-the-era-of-agentic-ai-526d897cf625?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I Gave Claude a Memory That Survives Between Conversations — Here’s the MCP Server That Does It]]></title>
+        <id>https://pub.towardsai.net/i-gave-claude-a-memory-that-survives-between-conversations-heres-the-mcp-server-that-does-it-892094c6c403?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-gave-claude-a-memory-that-survives-between-conversations-heres-the-mcp-server-that-does-it-892094c6c403?source=rss----98111c9905da---4"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
@@ -183,9 +183,9 @@
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Gave Claude a Memory That Survives Between Conversations — Here’s the MCP Server That Does It]]></title>
-        <id>https://pub.towardsai.net/i-gave-claude-a-memory-that-survives-between-conversations-heres-the-mcp-server-that-does-it-892094c6c403?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-gave-claude-a-memory-that-survives-between-conversations-heres-the-mcp-server-that-does-it-892094c6c403?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Semantic Layer is the Ultimate Battlefield in the Era of Agentic AI]]></title>
+        <id>https://pub.towardsai.net/the-semantic-layer-is-the-ultimate-battlefield-in-the-era-of-agentic-ai-526d897cf625?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-semantic-layer-is-the-ultimate-battlefield-in-the-era-of-agentic-ai-526d897cf625?source=rss----98111c9905da---4"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
@@ -197,74 +197,37 @@
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is anyone here still alive?
-
-I wrote an article about my lib, and it's been viewed less than 20 times... Is anyone even interested in the development, or here now only just bullshit about AI?]]></title>
-        <id>https://dev.to/psychosynthesis/is-anyone-here-still-alive-i-wrote-an-article-about-libu-and-its-been-viewed-less-than-20-1k7n</id>
-        <link href="https://dev.to/psychosynthesis/is-anyone-here-still-alive-i-wrote-an-article-about-libu-and-its-been-viewed-less-than-20-1k7n"/>
+        <title type="html"><![CDATA[How to actually choose a headless CMS for Next.js in 2026]]></title>
+        <id>https://dev.to/bdegiglio/how-to-actually-choose-a-headless-cms-for-nextjs-in-2026-3fl9</id>
+        <link href="https://dev.to/bdegiglio/how-to-actually-choose-a-headless-cms-for-nextjs-in-2026-3fl9"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Trusted Platforms to Buy Old Gmail Accounts in the]]></title>
-        <id>https://dev.to/violantemccartyso8xt/top-trusted-platforms-to-buy-old-gmail-accounts-in-the-3ob5</id>
-        <link href="https://dev.to/violantemccartyso8xt/top-trusted-platforms-to-buy-old-gmail-accounts-in-the-3ob5"/>
+        <title type="html"><![CDATA[JavaScript Function]]></title>
+        <id>https://dev.to/veera_ganapathi/javascript-function-4ko0</id>
+        <link href="https://dev.to/veera_ganapathi/javascript-function-4ko0"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Demystifying libuv: The Secret Engine Powering Node.js]]></title>
-        <id>https://dev.to/manojkhatri2026/demystifying-libuv-the-secret-engine-powering-nodejs-5ik</id>
-        <link href="https://dev.to/manojkhatri2026/demystifying-libuv-the-secret-engine-powering-nodejs-5ik"/>
+        <title type="html"><![CDATA[JavaScript Loops]]></title>
+        <id>https://dev.to/veera_ganapathi/javascript-loops-3me4</id>
+        <link href="https://dev.to/veera_ganapathi/javascript-loops-3me4"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automating Our DevRel: Improving React Hook Lab's Release Workflow]]></title>
-        <id>https://dev.to/saurav_tb_pandey/automating-our-devrel-improving-react-hook-labs-release-workflow-dop</id>
-        <link href="https://dev.to/saurav_tb_pandey/automating-our-devrel-improving-react-hook-labs-release-workflow-dop"/>
+        <title type="html"><![CDATA[Conditional Statement in Js]]></title>
+        <id>https://dev.to/veera_ganapathi/conditional-statement-in-js-5alc</id>
+        <link href="https://dev.to/veera_ganapathi/conditional-statement-in-js-5alc"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Let's Learn React]]></title>
-        <id>https://dev.to/vigneshwaran_v/lets-learn-react-1jc7</id>
-        <link href="https://dev.to/vigneshwaran_v/lets-learn-react-1jc7"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commercial Parking Lot Snow Removal: Best Practices for Edmonton Properties]]></title>
-        <id>https://dev.to/muskan_hashmi_b539e9611f4/commercial-parking-lot-snow-removal-best-practices-for-edmonton-properties-4kdm</id>
-        <link href="https://dev.to/muskan_hashmi_b539e9611f4/commercial-parking-lot-snow-removal-best-practices-for-edmonton-properties-4kdm"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I spent a week trying to intercept Slack push notifications from a Chrome extension. Here's why it's impossible.]]></title>
-        <id>https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc</id>
-        <link href="https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Auto-Generated TypeScript Interfaces Are Lying to You]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/your-auto-generated-typescript-interfaces-are-lying-to-you-dfe</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/your-auto-generated-typescript-interfaces-are-lying-to-you-dfe"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript `const` Type Parameters: Immutable Inference and When It Beats `as const`]]></title>
-        <id>https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523</id>
-        <link href="https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Vite, Components, and NPM - React]]></title>
-        <id>https://dev.to/vigneshwaran_v/understanding-vite-components-and-npm-react-4o41</id>
-        <link href="https://dev.to/vigneshwaran_v/understanding-vite-components-and-npm-react-4o41"/>
+        <title type="html"><![CDATA[Add an AI support agent to Next.js, WordPress, Shopify, or any site]]></title>
+        <id>https://dev.to/omar_bni_f6856a8bb0e021e9/add-an-ai-support-agent-to-nextjs-wordpress-shopify-or-any-site-44ph</id>
+        <link href="https://dev.to/omar_bni_f6856a8bb0e021e9/add-an-ai-support-agent-to-nextjs-wordpress-shopify-or-any-site-44ph"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
@@ -276,9 +239,74 @@ I wrote an article about my lib, and it's been viewed less than 20 times... Is a
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add an AI support agent to Next.js, WordPress, Shopify, or any site]]></title>
-        <id>https://dev.to/omar_bni_f6856a8bb0e021e9/add-an-ai-support-agent-to-nextjs-wordpress-shopify-or-any-site-44ph</id>
-        <link href="https://dev.to/omar_bni_f6856a8bb0e021e9/add-an-ai-support-agent-to-nextjs-wordpress-shopify-or-any-site-44ph"/>
+        <title type="html"><![CDATA[Understanding Vite, Components, and NPM - React]]></title>
+        <id>https://dev.to/vigneshwaran_v/understanding-vite-components-and-npm-react-4o41</id>
+        <link href="https://dev.to/vigneshwaran_v/understanding-vite-components-and-npm-react-4o41"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript `const` Type Parameters: Immutable Inference and When It Beats `as const`]]></title>
+        <id>https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523</id>
+        <link href="https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Auto-Generated TypeScript Interfaces Are Lying to You]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/your-auto-generated-typescript-interfaces-are-lying-to-you-dfe</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/your-auto-generated-typescript-interfaces-are-lying-to-you-dfe"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I spent a week trying to intercept Slack push notifications from a Chrome extension. Here's why it's impossible.]]></title>
+        <id>https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc</id>
+        <link href="https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commercial Parking Lot Snow Removal: Best Practices for Edmonton Properties]]></title>
+        <id>https://dev.to/muskan_hashmi_b539e9611f4/commercial-parking-lot-snow-removal-best-practices-for-edmonton-properties-4kdm</id>
+        <link href="https://dev.to/muskan_hashmi_b539e9611f4/commercial-parking-lot-snow-removal-best-practices-for-edmonton-properties-4kdm"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's Learn React]]></title>
+        <id>https://dev.to/vigneshwaran_v/lets-learn-react-1jc7</id>
+        <link href="https://dev.to/vigneshwaran_v/lets-learn-react-1jc7"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Our DevRel: Improving React Hook Lab's Release Workflow]]></title>
+        <id>https://dev.to/saurav_tb_pandey/automating-our-devrel-improving-react-hook-labs-release-workflow-dop</id>
+        <link href="https://dev.to/saurav_tb_pandey/automating-our-devrel-improving-react-hook-labs-release-workflow-dop"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying libuv: The Secret Engine Powering Node.js]]></title>
+        <id>https://dev.to/manojkhatri2026/demystifying-libuv-the-secret-engine-powering-nodejs-5ik</id>
+        <link href="https://dev.to/manojkhatri2026/demystifying-libuv-the-secret-engine-powering-nodejs-5ik"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Trusted Platforms to Buy Old Gmail Accounts in the]]></title>
+        <id>https://dev.to/violantemccartyso8xt/top-trusted-platforms-to-buy-old-gmail-accounts-in-the-3ob5</id>
+        <link href="https://dev.to/violantemccartyso8xt/top-trusted-platforms-to-buy-old-gmail-accounts-in-the-3ob5"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is anyone here still alive?
+
+I wrote an article about my lib, and it's been viewed less than 20 times... Is anyone even interested in the development, or here now only just bullshit about AI?]]></title>
+        <id>https://dev.to/psychosynthesis/is-anyone-here-still-alive-i-wrote-an-article-about-libu-and-its-been-viewed-less-than-20-1k7n</id>
+        <link href="https://dev.to/psychosynthesis/is-anyone-here-still-alive-i-wrote-an-article-about-libu-and-its-been-viewed-less-than-20-1k7n"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
@@ -335,34 +363,6 @@ I wrote an article about my lib, and it's been viewed less than 20 times... Is a
         <title type="html"><![CDATA[OpenAI may announce a ChatGPT smart speaker this year]]></title>
         <id>https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device</id>
         <link href="https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify’s Daniel Ek is bringing his body-scanning clinics to the US]]></title>
-        <id>https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push</id>
-        <link href="https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung’s new foldable display is harder to crease and damage]]></title>
-        <id>https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables</id>
-        <link href="https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Motorola Edge 70 Max is all about power]]></title>
-        <id>https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability</id>
-        <link href="https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability"/>
-        <updated>2026-07-14T16:00:00.000Z</updated>
-        <published>2026-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The tiniest MMO]]></title>
-        <id>https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest</id>
-        <link href="https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest"/>
         <updated>2026-07-14T16:00:00.000Z</updated>
         <published>2026-07-14T16:00:00.000Z</published>
     </entry>
