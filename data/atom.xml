@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-16T13:02:06.690Z</updated>
+    <updated>2026-07-16T15:03:42.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,23 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Valve says iFixit will keep selling Steam Deck batteries after all]]></title>
-        <id>https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery</id>
-        <link href="https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery"/>
+        <title type="html"><![CDATA[‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust]]></title>
+        <id>https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification</id>
+        <link href="https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix tries to recapture Stranger Things magic with nostalgic re-release]]></title>
-        <id>https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix</id>
-        <link href="https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI slop movies are the new direct-to-video cash grabs]]></title>
-        <id>https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood</id>
-        <link href="https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood"/>
+        <title type="html"><![CDATA[Brendan Carr plans to let broadcast giants dominate the airwaves]]></title>
+        <id>https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr</id>
+        <link href="https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
@@ -43,9 +36,23 @@
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brendan Carr plans to let broadcast giants dominate the airwaves]]></title>
-        <id>https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr</id>
-        <link href="https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr"/>
+        <title type="html"><![CDATA[AI slop movies are the new direct-to-video cash grabs]]></title>
+        <id>https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood</id>
+        <link href="https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix tries to recapture Stranger Things magic with nostalgic re-release]]></title>
+        <id>https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix</id>
+        <link href="https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve says iFixit will keep selling Steam Deck batteries after all]]></title>
+        <id>https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery</id>
+        <link href="https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
@@ -141,205 +148,37 @@
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chip giant TSMC pledges another $100B to expand US production]]></title>
-        <id>https://www.bbc.com/news/articles/c62x8ldxr7eo</id>
-        <link href="https://www.bbc.com/news/articles/c62x8ldxr7eo"/>
+        <title type="html"><![CDATA[Distinguishing Variables from Parameters]]></title>
+        <id>https://www.johndcook.com/blog/2026/06/30/variables-and-parameters/</id>
+        <link href="https://www.johndcook.com/blog/2026/06/30/variables-and-parameters/"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forgejo v16.0: Granular Watching, Better Reviews, Safer Integrations]]></title>
-        <id>https://forgejo.org/2026-07-release-v16-0/</id>
-        <link href="https://forgejo.org/2026-07-release-v16-0/"/>
+        <title type="html"><![CDATA[Sqleibniz – Static Analysis and LSP for SQL in Rust]]></title>
+        <id>https://github.com/xnacly/sqleibniz</id>
+        <link href="https://github.com/xnacly/sqleibniz"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What happens when Sudoku scales?]]></title>
-        <id>https://zayenz.se/blog/post/scaling-sudoku-modref2026-paper/</id>
-        <link href="https://zayenz.se/blog/post/scaling-sudoku-modref2026-paper/"/>
+        <title type="html"><![CDATA[We are officially writing a new version of Postgres. in Rust]]></title>
+        <id>https://twitter.com/glcst/status/2077759127682486561</id>
+        <link href="https://twitter.com/glcst/status/2077759127682486561"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: OctoCounts – See source line counts directly on GitHub]]></title>
-        <id>https://octocounts.com/</id>
-        <link href="https://octocounts.com/"/>
+        <title type="html"><![CDATA[Reviewing a restaurant as "just ok" considered defamatory in Germany]]></title>
+        <id>https://twitter.com/eigen_moomin/status/2077471686295957749</id>
+        <link href="https://twitter.com/eigen_moomin/status/2077471686295957749"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Real-time observability for DuckLake Ingestion using CDC on its Postgres catalog]]></title>
-        <id>https://github.com/el10savio/duckWatch</id>
-        <link href="https://github.com/el10savio/duckWatch"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building This Blog: Jekyll on GitHub Pages from Zero to 130 Posts]]></title>
-        <id>https://mcgarrah.org/setting-up-jekyll-blog-github-pages/</id>
-        <link href="https://mcgarrah.org/setting-up-jekyll-blog-github-pages/"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the real point of Codex Micro? [video]]]></title>
-        <id>https://www.youtube.com/watch?v=m8uUUUsMD3Y</id>
-        <link href="https://www.youtube.com/watch?v=m8uUUUsMD3Y"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20-20-20 Rule: Are These Numbers Justified?]]></title>
-        <id>https://pubmed.ncbi.nlm.nih.gov/36473088/</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36473088/"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prominent Haskell defector pilloried by anti-AI purists]]></title>
-        <id>https://www.theregister.com/devops/2026/07/15/prominent-haskell-defector-pilloried-by-anti-ai-purists/5272124</id>
-        <link href="https://www.theregister.com/devops/2026/07/15/prominent-haskell-defector-pilloried-by-anti-ai-purists/5272124"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mirage – fast and simple GTK+ image viewer]]></title>
-        <id>https://gitlab.com/thomasross/mirage</id>
-        <link href="https://gitlab.com/thomasross/mirage"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Slop Is Killing World War II History (video)]]></title>
-        <id>https://www.youtube.com/watch?v=iUfP6amE7UA</id>
-        <link href="https://www.youtube.com/watch?v=iUfP6amE7UA"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox-WASM: Firefox in WebAssembly]]></title>
-        <id>https://github.com/HeyPuter/firefox-wasm</id>
-        <link href="https://github.com/HeyPuter/firefox-wasm"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API client supporting Agents, gRPC, Kafka and MCP]]></title>
-        <id>https://github.com/dipjyotimetia/restura</id>
-        <link href="https://github.com/dipjyotimetia/restura"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rzk: A Proof Assistant for Synthetic ∞-Categories]]></title>
-        <id>https://arxiv.org/abs/2607.12207</id>
-        <link href="https://arxiv.org/abs/2607.12207"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FastAPI for Agents]]></title>
-        <id>https://github.com/agno-agi/agentos-railway</id>
-        <link href="https://github.com/agno-agi/agentos-railway"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verifying Probabilistic Programs in Rust]]></title>
-        <id>https://arxiv.org/abs/2607.12282</id>
-        <link href="https://arxiv.org/abs/2607.12282"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Redis Rubix Bridge a HTTP API Redis Gateway]]></title>
-        <id>https://github.com/rubix-studios-pty-ltd/rubix-redis-bridge</id>
-        <link href="https://github.com/rubix-studios-pty-ltd/rubix-redis-bridge"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chariot: Elastic Claw Compute]]></title>
-        <id>https://www.chariots.sh/</id>
-        <link href="https://www.chariots.sh/"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Base Map (Natural Earth 6.0)]]></title>
-        <id>https://source.coop/opengeos/natural-earth</id>
-        <link href="https://source.coop/opengeos/natural-earth"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Migrate your legacy Google My Maps]]></title>
-        <id>https://tasmap.app/</id>
-        <link href="https://tasmap.app/"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11,700 Free Photos from John Margolies' Archive of Americana Architecture]]></title>
-        <id>https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html</id>
-        <link href="https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aval: New open-source format for interactive video on the web]]></title>
-        <id>https://github.com/pixel-point/aval</id>
-        <link href="https://github.com/pixel-point/aval"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hedge Fund Giants Have a New Profit Engine: Their Smaller Rivals]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-07-15/hedge-funds-turn-to-smaller-independent-firms-for-trade-ideas</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-07-15/hedge-funds-turn-to-smaller-independent-firms-for-trade-ideas"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPS Map Camera: Timestamp]]></title>
-        <id>https://play.google.com/store/apps/details?id=com.gpsmapcamera.gpscameratimestamp.photo.video&amp;hl=en_US</id>
-        <link href="https://play.google.com/store/apps/details?id=com.gpsmapcamera.gpscameratimestamp.photo.video&amp;hl=en_US"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI code review is not enough]]></title>
-        <id>https://blog.codacy.com/ai-code-review-is-not-enough-how-engineering-leaders-should-gate-ai-generated-code</id>
-        <link href="https://blog.codacy.com/ai-code-review-is-not-enough-how-engineering-leaders-should-gate-ai-generated-code"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft's Design Tactics Still Compromise Free Browser Choice]]></title>
-        <id>https://research.mozilla.org/browser-competition/over-the-edge-2/</id>
-        <link href="https://research.mozilla.org/browser-competition/over-the-edge-2/"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rustwright – a Rust Rewrite of Playwright]]></title>
-        <id>https://github.com/Skyvern-AI/rustwright</id>
-        <link href="https://github.com/Skyvern-AI/rustwright"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Enhanced YARA to detect threats in JavaScript using context and content]]></title>
-        <id>https://github.com/rishi-sekantsec/sekant-intercept-js</id>
-        <link href="https://github.com/rishi-sekantsec/sekant-intercept-js"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Years of Free Software Projects: A Review]]></title>
-        <id>https://blog.frankrousseau.fr/15-years-of-free-software-projects-a-review/</id>
-        <link href="https://blog.frankrousseau.fr/15-years-of-free-software-projects-a-review/"/>
+        <title type="html"><![CDATA[MongoDB v. FerretDB: When Open Source Compatibility Becomes a Patent Risk]]></title>
+        <id>https://shujisado.org/2026/07/15/mongodb-v-ferretdb-when-open-source-compatibility-becomes-a-patent-risk/</id>
+        <link href="https://shujisado.org/2026/07/15/mongodb-v-ferretdb-when-open-source-compatibility-becomes-a-patent-risk/"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
@@ -351,16 +190,177 @@
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTTP's 402 Error Sat Dead for 29 Years — It Just Became a Cash Register for AI Agents]]></title>
-        <id>https://pub.towardsai.net/https-402-error-sat-dead-for-29-years-it-just-became-a-cash-register-for-ai-agents-0e5d0ac0e983?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/https-402-error-sat-dead-for-29-years-it-just-became-a-cash-register-for-ai-agents-0e5d0ac0e983?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[15 Years of Free Software Projects: A Review]]></title>
+        <id>https://blog.frankrousseau.fr/15-years-of-free-software-projects-a-review/</id>
+        <link href="https://blog.frankrousseau.fr/15-years-of-free-software-projects-a-review/"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When AI and RWE Converge: Accelerating Evidence for Rare Disease and Innovative Therapies]]></title>
-        <id>https://pub.towardsai.net/when-ai-and-rwe-converge-accelerating-evidence-for-rare-disease-and-innovative-therapies-6d3a26221bdb?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/when-ai-and-rwe-converge-accelerating-evidence-for-rare-disease-and-innovative-therapies-6d3a26221bdb?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Enhanced YARA to detect threats in JavaScript using context and content]]></title>
+        <id>https://github.com/rishi-sekantsec/sekant-intercept-js</id>
+        <link href="https://github.com/rishi-sekantsec/sekant-intercept-js"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustwright – a Rust Rewrite of Playwright]]></title>
+        <id>https://github.com/Skyvern-AI/rustwright</id>
+        <link href="https://github.com/Skyvern-AI/rustwright"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's Design Tactics Still Compromise Free Browser Choice]]></title>
+        <id>https://research.mozilla.org/browser-competition/over-the-edge-2/</id>
+        <link href="https://research.mozilla.org/browser-competition/over-the-edge-2/"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI code review is not enough]]></title>
+        <id>https://blog.codacy.com/ai-code-review-is-not-enough-how-engineering-leaders-should-gate-ai-generated-code</id>
+        <link href="https://blog.codacy.com/ai-code-review-is-not-enough-how-engineering-leaders-should-gate-ai-generated-code"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPS Map Camera: Timestamp]]></title>
+        <id>https://play.google.com/store/apps/details?id=com.gpsmapcamera.gpscameratimestamp.photo.video&amp;hl=en_US</id>
+        <link href="https://play.google.com/store/apps/details?id=com.gpsmapcamera.gpscameratimestamp.photo.video&amp;hl=en_US"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hedge Fund Giants Have a New Profit Engine: Their Smaller Rivals]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-07-15/hedge-funds-turn-to-smaller-independent-firms-for-trade-ideas</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-07-15/hedge-funds-turn-to-smaller-independent-firms-for-trade-ideas"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aval: New open-source format for interactive video on the web]]></title>
+        <id>https://github.com/pixel-point/aval</id>
+        <link href="https://github.com/pixel-point/aval"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11,700 Free Photos from John Margolies' Archive of Americana Architecture]]></title>
+        <id>https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html</id>
+        <link href="https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Migrate your legacy Google My Maps]]></title>
+        <id>https://tasmap.app/</id>
+        <link href="https://tasmap.app/"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Base Map (Natural Earth 6.0)]]></title>
+        <id>https://source.coop/opengeos/natural-earth</id>
+        <link href="https://source.coop/opengeos/natural-earth"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chariot: Elastic Claw Compute]]></title>
+        <id>https://www.chariots.sh/</id>
+        <link href="https://www.chariots.sh/"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Redis Rubix Bridge a HTTP API Redis Gateway]]></title>
+        <id>https://github.com/rubix-studios-pty-ltd/rubix-redis-bridge</id>
+        <link href="https://github.com/rubix-studios-pty-ltd/rubix-redis-bridge"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verifying Probabilistic Programs in Rust]]></title>
+        <id>https://arxiv.org/abs/2607.12282</id>
+        <link href="https://arxiv.org/abs/2607.12282"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FastAPI for Agents]]></title>
+        <id>https://github.com/agno-agi/agentos-railway</id>
+        <link href="https://github.com/agno-agi/agentos-railway"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rzk: A Proof Assistant for Synthetic ∞-Categories]]></title>
+        <id>https://arxiv.org/abs/2607.12207</id>
+        <link href="https://arxiv.org/abs/2607.12207"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API client supporting Agents, gRPC, Kafka and MCP]]></title>
+        <id>https://github.com/dipjyotimetia/restura</id>
+        <link href="https://github.com/dipjyotimetia/restura"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox-WASM: Firefox in WebAssembly]]></title>
+        <id>https://github.com/HeyPuter/firefox-wasm</id>
+        <link href="https://github.com/HeyPuter/firefox-wasm"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Slop Is Killing World War II History (video)]]></title>
+        <id>https://www.youtube.com/watch?v=iUfP6amE7UA</id>
+        <link href="https://www.youtube.com/watch?v=iUfP6amE7UA"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mirage – fast and simple GTK+ image viewer]]></title>
+        <id>https://gitlab.com/thomasross/mirage</id>
+        <link href="https://gitlab.com/thomasross/mirage"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prominent Haskell defector pilloried by anti-AI purists]]></title>
+        <id>https://www.theregister.com/devops/2026/07/15/prominent-haskell-defector-pilloried-by-anti-ai-purists/5272124</id>
+        <link href="https://www.theregister.com/devops/2026/07/15/prominent-haskell-defector-pilloried-by-anti-ai-purists/5272124"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20-20-20 Rule: Are These Numbers Justified?]]></title>
+        <id>https://pubmed.ncbi.nlm.nih.gov/36473088/</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36473088/"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the real point of Codex Micro? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=m8uUUUsMD3Y</id>
+        <link href="https://www.youtube.com/watch?v=m8uUUUsMD3Y"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building This Blog: Jekyll on GitHub Pages from Zero to 130 Posts]]></title>
+        <id>https://mcgarrah.org/setting-up-jekyll-blog-github-pages/</id>
+        <link href="https://mcgarrah.org/setting-up-jekyll-blog-github-pages/"/>
+        <updated>2026-07-15T16:00:00.000Z</updated>
+        <published>2026-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-time observability for DuckLake Ingestion using CDC on its Postgres catalog]]></title>
+        <id>https://github.com/el10savio/duckWatch</id>
+        <link href="https://github.com/el10savio/duckWatch"/>
         <updated>2026-07-15T16:00:00.000Z</updated>
         <published>2026-07-15T16:00:00.000Z</published>
     </entry>
