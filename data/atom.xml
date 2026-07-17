@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-17T02:01:04.199Z</updated>
+    <updated>2026-07-17T04:01:25.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[UniGetUI：可能是 Windows 下最好用的应用商店]]></title>
+        <id>https://sspai.com/post/111128</id>
+        <link href="https://sspai.com/post/111128"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fortnite is getting a bunch of AI-powered ‘personas’]]></title>
         <id>https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas</id>
@@ -57,100 +64,65 @@
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Billion-dollar weather disasters have pushed US home insurance up 47% in 5 years]]></title>
-        <id>https://insurancedimes.com/2026/07/16/the-states-hit-hardest-by-home-insurance-spikes/</id>
-        <link href="https://insurancedimes.com/2026/07/16/the-states-hit-hardest-by-home-insurance-spikes/"/>
+        <title type="html"><![CDATA[People in Many Countries Now View China More Positively Than the U.S.]]></title>
+        <id>https://www.pewresearch.org/global/2026/07/15/people-in-many-countries-now-view-china-more-positively-than-the-u-s/</id>
+        <link href="https://www.pewresearch.org/global/2026/07/15/people-in-many-countries-now-view-china-more-positively-than-the-u-s/"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Ships AI Agents at Enterprise Scale]]></title>
-        <id>https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at</id>
-        <link href="https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at"/>
+        <title type="html"><![CDATA[How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues]]></title>
+        <id>https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/</id>
+        <link href="https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GrapheneOS recommended for domestic abuse victims]]></title>
-        <id>https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/</id>
-        <link href="https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/"/>
+        <title type="html"><![CDATA[AI Assistant Needs a Back End. Put It at the Edge]]></title>
+        <id>https://lowlatencyclub.ai/blog/posts/edge-ai-assistant-backend-go</id>
+        <link href="https://lowlatencyclub.ai/blog/posts/edge-ai-assistant-backend-go"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: 3Emalak SEO Gaint]]></title>
-        <id>https://www.3emalak.com/</id>
-        <link href="https://www.3emalak.com/"/>
+        <title type="html"><![CDATA[All the Beautiful Art in This Video Game Was Hand-Drawn by One Person(2020)]]></title>
+        <id>https://www.vice.com/en/article/all-the-beautiful-art-in-this-video-game-was-hand-drawn-by-one-person/</id>
+        <link href="https://www.vice.com/en/article/all-the-beautiful-art-in-this-video-game-was-hand-drawn-by-one-person/"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chinese memory ban would cut off RAMpocalypse relief]]></title>
-        <id>https://www.theregister.com/systems/2026/07/17/chinese-memory-ban-would-cut-off-rampocalypse-relief/5273993</id>
-        <link href="https://www.theregister.com/systems/2026/07/17/chinese-memory-ban-would-cut-off-rampocalypse-relief/5273993"/>
+        <title type="html"><![CDATA[NASA's Roman Telescope vs. Webb: the telescope that will map a billion galaxies]]></title>
+        <id>https://dotient.com/blog/nancy-grace-roman-space-telescope</id>
+        <link href="https://dotient.com/blog/nancy-grace-roman-space-telescope"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Who gets credits on big math questions solved by LLMs?]]></title>
-        <id>https://news.ycombinator.com/item?id=48940723</id>
-        <link href="https://news.ycombinator.com/item?id=48940723"/>
+        <title type="html"><![CDATA[How to report copying review data under Copyright to google]]></title>
+        <id>https://www.google.com/</id>
+        <link href="https://www.google.com/"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Truth Social to sell Wall Street firms the 'fastest' access to Trump's posts]]></title>
-        <id>https://www.nbcnews.com/business/media/trump-media-early-access-truth-social-posts-rcna587912</id>
-        <link href="https://www.nbcnews.com/business/media/trump-media-early-access-truth-social-posts-rcna587912"/>
+        <title type="html"><![CDATA[Gradle Technologies is now Develocity]]></title>
+        <id>https://develocity.ai/blog/gradle-technologies-is-now-develocity/</id>
+        <link href="https://develocity.ai/blog/gradle-technologies-is-now-develocity/"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We rewrote our custom visualisation renderers from SVG to be in Canvas]]></title>
-        <id>https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler</id>
-        <link href="https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler"/>
+        <title type="html"><![CDATA[Router ARP/NAT contradict after reload. Client ghost or firmware bug?]]></title>
+        <id>https://news.ycombinator.com/item?id=48942957</id>
+        <link href="https://news.ycombinator.com/item?id=48942957"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Priora: Blind-rank features, get a Scope Score, export a Cursor-ready pack]]></title>
-        <id>https://www.priora.space</id>
-        <link href="https://www.priora.space"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Tried to Phantom Charge $16.6M]]></title>
-        <id>https://www.internationalcyberdigest.com/anthropic-tried-to-phantom-charge-16-6m/</id>
-        <link href="https://www.internationalcyberdigest.com/anthropic-tried-to-phantom-charge-16-6m/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roboflow Serverless Inference: A Thousand Models on a Shared GPU Fleet]]></title>
-        <id>https://blog.roboflow.com/serverless-inference-a-thousand-models-on-a-shared-gpu-fleet/</id>
-        <link href="https://blog.roboflow.com/serverless-inference-a-thousand-models-on-a-shared-gpu-fleet/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SecretSpec 0.15: Provider Credentials, Azure Key Vault / Gopass, and PHP SDK]]></title>
-        <id>https://secretspec.dev/blog/secretspec-0-15-provider-credentials-azure-key-vault-gopass-and-php-sdk/</id>
-        <link href="https://secretspec.dev/blog/secretspec-0-15-provider-credentials-azure-key-vault-gopass-and-php-sdk/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattack at Nichirei leads to food shortages at eateries, stores]]></title>
-        <id>https://www.asahi.com/ajw/articles/16731347</id>
-        <link href="https://www.asahi.com/ajw/articles/16731347"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReactBench]]></title>
-        <id>https://www.reactbench.com/blog</id>
-        <link href="https://www.reactbench.com/blog"/>
+        <title type="html"><![CDATA[Against "Stochastic Terrorism"]]></title>
+        <id>https://www.astralcodexten.com/p/against-stochastic-terrorism</id>
+        <link href="https://www.astralcodexten.com/p/against-stochastic-terrorism"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
@@ -162,9 +134,100 @@
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Against "Stochastic Terrorism"]]></title>
-        <id>https://www.astralcodexten.com/p/against-stochastic-terrorism</id>
-        <link href="https://www.astralcodexten.com/p/against-stochastic-terrorism"/>
+        <title type="html"><![CDATA[ReactBench]]></title>
+        <id>https://www.reactbench.com/blog</id>
+        <link href="https://www.reactbench.com/blog"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattack at Nichirei leads to food shortages at eateries, stores]]></title>
+        <id>https://www.asahi.com/ajw/articles/16731347</id>
+        <link href="https://www.asahi.com/ajw/articles/16731347"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecretSpec 0.15: Provider Credentials, Azure Key Vault / Gopass, and PHP SDK]]></title>
+        <id>https://secretspec.dev/blog/secretspec-0-15-provider-credentials-azure-key-vault-gopass-and-php-sdk/</id>
+        <link href="https://secretspec.dev/blog/secretspec-0-15-provider-credentials-azure-key-vault-gopass-and-php-sdk/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roboflow Serverless Inference: A Thousand Models on a Shared GPU Fleet]]></title>
+        <id>https://blog.roboflow.com/serverless-inference-a-thousand-models-on-a-shared-gpu-fleet/</id>
+        <link href="https://blog.roboflow.com/serverless-inference-a-thousand-models-on-a-shared-gpu-fleet/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Tried to Phantom Charge $16.6M]]></title>
+        <id>https://www.internationalcyberdigest.com/anthropic-tried-to-phantom-charge-16-6m/</id>
+        <link href="https://www.internationalcyberdigest.com/anthropic-tried-to-phantom-charge-16-6m/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Priora: Blind-rank features, get a Scope Score, export a Cursor-ready pack]]></title>
+        <id>https://www.priora.space</id>
+        <link href="https://www.priora.space"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We rewrote our custom visualisation renderers from SVG to be in Canvas]]></title>
+        <id>https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler</id>
+        <link href="https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Truth Social to sell Wall Street firms the 'fastest' access to Trump's posts]]></title>
+        <id>https://www.nbcnews.com/business/media/trump-media-early-access-truth-social-posts-rcna587912</id>
+        <link href="https://www.nbcnews.com/business/media/trump-media-early-access-truth-social-posts-rcna587912"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Who gets credits on big math questions solved by LLMs?]]></title>
+        <id>https://news.ycombinator.com/item?id=48940723</id>
+        <link href="https://news.ycombinator.com/item?id=48940723"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese memory ban would cut off RAMpocalypse relief]]></title>
+        <id>https://www.theregister.com/systems/2026/07/17/chinese-memory-ban-would-cut-off-rampocalypse-relief/5273993</id>
+        <link href="https://www.theregister.com/systems/2026/07/17/chinese-memory-ban-would-cut-off-rampocalypse-relief/5273993"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: 3Emalak SEO Gaint]]></title>
+        <id>https://www.3emalak.com/</id>
+        <link href="https://www.3emalak.com/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GrapheneOS recommended for domestic abuse victims]]></title>
+        <id>https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/</id>
+        <link href="https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Ships AI Agents at Enterprise Scale]]></title>
+        <id>https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at</id>
+        <link href="https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billion-dollar weather disasters have pushed US home insurance up 47% in 5 years]]></title>
+        <id>https://insurancedimes.com/2026/07/16/the-states-hit-hardest-by-home-insurance-spikes/</id>
+        <link href="https://insurancedimes.com/2026/07/16/the-states-hit-hardest-by-home-insurance-spikes/"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
@@ -190,181 +253,115 @@
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Axorax/awesome-free-apps]]></title>
-        <id>https://github.com/Axorax/awesome-free-apps</id>
-        <link href="https://github.com/Axorax/awesome-free-apps"/>
+        <title type="html"><![CDATA[Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods]]></title>
+        <id>https://arxiv.org/abs/2607.14123</id>
+        <link href="https://arxiv.org/abs/2607.14123"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Buy Snapchat Account A Step-by-Step Guide]]></title>
-        <id>https://dev.to/dulciefloydf1ieh/how-to-buy-snapchat-account-a-step-by-step-guide-3ljk</id>
-        <link href="https://dev.to/dulciefloydf1ieh/how-to-buy-snapchat-account-a-step-by-step-guide-3ljk"/>
+        <title type="html"><![CDATA[Certified Domain Consistency for Multi-Domain Retrieval: Label-Free Per-Domain Contamination Control with Conformal Risk Guarantees]]></title>
+        <id>https://arxiv.org/abs/2607.14157</id>
+        <link href="https://arxiv.org/abs/2607.14157"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Browser-Based SVG Editor With Bidirectional Code-Canvas Sync]]></title>
-        <id>https://dev.to/shengqiang_wang_4fa8bd011/how-i-built-a-browser-based-svg-editor-with-bidirectional-code-canvas-sync-4fhk</id>
-        <link href="https://dev.to/shengqiang_wang_4fa8bd011/how-i-built-a-browser-based-svg-editor-with-bidirectional-code-canvas-sync-4fhk"/>
+        <title type="html"><![CDATA[Low-Latency Relay Selection in NR-V2X Vehicular Communications via Graph Isomorphism Networks with Edge Features]]></title>
+        <id>https://arxiv.org/abs/2607.14176</id>
+        <link href="https://arxiv.org/abs/2607.14176"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Full 3D Live Weather World in One HTML File — No Frameworks, No Build Step.]]></title>
-        <id>https://dev.to/phoenix_analysis_593be33c/a-full-3d-live-weather-world-in-one-html-file-no-frameworks-no-build-step-4n83</id>
-        <link href="https://dev.to/phoenix_analysis_593be33c/a-full-3d-live-weather-world-in-one-html-file-no-frameworks-no-build-step-4n83"/>
+        <title type="html"><![CDATA[Closed-Loop Knowledge Dynamics: An Operational Framework for Saturation and Escape]]></title>
+        <id>https://arxiv.org/abs/2607.14185</id>
+        <link href="https://arxiv.org/abs/2607.14185"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recreating iOS's drum-roll picker in Vue 3 — inertia, rubber-banding, and the tap-vs-drag problem]]></title>
-        <id>https://dev.to/jlc488/recreating-ioss-drum-roll-picker-in-vue-3-inertia-rubber-banding-and-the-tap-vs-drag-problem-4269</id>
-        <link href="https://dev.to/jlc488/recreating-ioss-drum-roll-picker-in-vue-3-inertia-rubber-banding-and-the-tap-vs-drag-problem-4269"/>
+        <title type="html"><![CDATA[TEDDY: A Pediatric Foundation Model for Risk Forewarning from ICD-Coded Diagnostic Histories]]></title>
+        <id>https://arxiv.org/abs/2607.14191</id>
+        <link href="https://arxiv.org/abs/2607.14191"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Vanilla JS?
-In the article below, I am sharing my story of building SaaS product in vanilla js and explaining why I decided to go with this approach.
-
-https://guseyn.com/html/posts/why-vanilla-js.html]]></title>
-        <id>https://dev.to/guseyn/why-vanilla-js-in-the-article-below-i-am-sharing-my-story-of-building-saas-product-in-vanilla-js-10ke</id>
-        <link href="https://dev.to/guseyn/why-vanilla-js-in-the-article-below-i-am-sharing-my-story-of-building-saas-product-in-vanilla-js-10ke"/>
+        <title type="html"><![CDATA[Augmentations for Robust and Efficient Imitation Learning in Streamed Video Games]]></title>
+        <id>https://arxiv.org/abs/2607.14200</id>
+        <link href="https://arxiv.org/abs/2607.14200"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop re-parsing your font 100,000 times: faster bulk PDF generation with pdf-lib]]></title>
-        <id>https://dev.to/jeet_dhandha_3c9b0d80399a/stop-re-parsing-your-font-100000-times-faster-bulk-pdf-generation-with-pdf-lib-3dc</id>
-        <link href="https://dev.to/jeet_dhandha_3c9b0d80399a/stop-re-parsing-your-font-100000-times-faster-bulk-pdf-generation-with-pdf-lib-3dc"/>
+        <title type="html"><![CDATA[Lyapunov Guidance: A Unified Framework for Stabilizing Generative Flows]]></title>
+        <id>https://arxiv.org/abs/2607.14272</id>
+        <link href="https://arxiv.org/abs/2607.14272"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Platforms to Buy Verified Coinbase Account]]></title>
-        <id>https://dev.to/rodiehuston6bw9g/best-platforms-to-buy-verified-coinbase-account-1gnl</id>
-        <link href="https://dev.to/rodiehuston6bw9g/best-platforms-to-buy-verified-coinbase-account-1gnl"/>
+        <title type="html"><![CDATA[NeuroGRIP: Retrieval-Augmented Graph Refinement for Knowledge-Grounded EEG Seizure Diagnosis]]></title>
+        <id>https://arxiv.org/abs/2607.14314</id>
+        <link href="https://arxiv.org/abs/2607.14314"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Headless CMS in 2026: Top Platforms for Teams and Developers]]></title>
-        <id>https://dev.to/tonyspiro/best-headless-cms-in-2026-top-platforms-for-teams-and-developers-5b0b</id>
-        <link href="https://dev.to/tonyspiro/best-headless-cms-in-2026-top-platforms-for-teams-and-developers-5b0b"/>
+        <title type="html"><![CDATA[Towards a Unified Multidimensional Explainability Metric: Evaluating Trustworthiness in AI Models]]></title>
+        <id>https://arxiv.org/abs/2607.14315</id>
+        <link href="https://arxiv.org/abs/2607.14315"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[25 Best Websites to Buying Old Verified LinkedIn Accounts. ...]]></title>
-        <id>https://dev.to/rodiehuston6bw9g/25-best-websites-to-buying-old-verified-linkedin-accounts--15a7</id>
-        <link href="https://dev.to/rodiehuston6bw9g/25-best-websites-to-buying-old-verified-linkedin-accounts--15a7"/>
+        <title type="html"><![CDATA[Counterfactual Optimal Action Trees (COAT): Interpretable Prescriptive Policies from Observational Data]]></title>
+        <id>https://arxiv.org/abs/2607.14318</id>
+        <link href="https://arxiv.org/abs/2607.14318"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dá pra fazer jogos usando JS/TS sem game engine?]]></title>
-        <id>https://dev.to/patrik_malta_7b819da6a37a/da-pra-fazer-jogos-usando-jsts-sem-game-engine-48ah</id>
-        <link href="https://dev.to/patrik_malta_7b819da6a37a/da-pra-fazer-jogos-usando-jsts-sem-game-engine-48ah"/>
+        <title type="html"><![CDATA[HyperShadow: A Benchmark for Detecting 3D Projections of Higher-Dimensional Spatial Objects]]></title>
+        <id>https://arxiv.org/abs/2607.14419</id>
+        <link href="https://arxiv.org/abs/2607.14419"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why are we still using a 15-year-old WebSocket library?]]></title>
-        <id>https://dev.to/rabbxdev/why-are-we-still-using-a-15-year-old-websocket-library-5d58</id>
-        <link href="https://dev.to/rabbxdev/why-are-we-still-using-a-15-year-old-websocket-library-5d58"/>
+        <title type="html"><![CDATA[Active Real-World Factor-Based Evaluation for Generalist Robot Policies]]></title>
+        <id>https://arxiv.org/abs/2607.14439</id>
+        <link href="https://arxiv.org/abs/2607.14439"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Tree View from scratch: recursion, a roving tabindex, and the ARIA tree contract]]></title>
-        <id>https://dev.to/dev48v/building-a-tree-view-from-scratch-recursion-a-roving-tabindex-and-the-aria-tree-contract-4hjd</id>
-        <link href="https://dev.to/dev48v/building-a-tree-view-from-scratch-recursion-a-roving-tabindex-and-the-aria-tree-contract-4hjd"/>
+        <title type="html"><![CDATA[Probabilistic Physics-Informed Neural Networks for Estimating Heterogeneous Elastic Properties from Low-Resolution and Noisy Displacement Data]]></title>
+        <id>https://arxiv.org/abs/2607.14563</id>
+        <link href="https://arxiv.org/abs/2607.14563"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Klondike Solitaire from scratch: eleven arrays and one move() door]]></title>
-        <id>https://dev.to/dev48v/building-klondike-solitaire-from-scratch-eleven-arrays-and-one-move-door-3p5g</id>
-        <link href="https://dev.to/dev48v/building-klondike-solitaire-from-scratch-eleven-arrays-and-one-move-door-3p5g"/>
+        <title type="html"><![CDATA[Angular Gaussian Supervised Contrastive Learning for Long-Tailed Electrocardiogram Arrhythmia Diagnosis]]></title>
+        <id>https://arxiv.org/abs/2607.14613</id>
+        <link href="https://arxiv.org/abs/2607.14613"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a 3-tier on-device AI concierge: Gemini Nano -> MiniLM -> keyword, $0/query]]></title>
-        <id>https://dev.to/tony_hildn_26f6eb18f87d2/building-a-3-tier-on-device-ai-concierge-gemini-nano-minilm-keyword-0query-30aj</id>
-        <link href="https://dev.to/tony_hildn_26f6eb18f87d2/building-a-3-tier-on-device-ai-concierge-gemini-nano-minilm-keyword-0query-30aj"/>
+        <title type="html"><![CDATA[Beyond Entropy: Correctness-Aware Advantage Shaping via Contrastive Policy Optimization]]></title>
+        <id>https://arxiv.org/abs/2607.14614</id>
+        <link href="https://arxiv.org/abs/2607.14614"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buy USA Verified Chime Accounts Online with Fast]]></title>
-        <id>https://dev.to/rodiehuston6bw9g/buy-usa-verified-chime-accounts-online-with-fast-1hik</id>
-        <link href="https://dev.to/rodiehuston6bw9g/buy-usa-verified-chime-accounts-online-with-fast-1hik"/>
+        <title type="html"><![CDATA[PolyQ: Codesigning End-to-End Quantization Framework for Scalable Edge CPU LLM Inference]]></title>
+        <id>https://arxiv.org/abs/2607.14618</id>
+        <link href="https://arxiv.org/abs/2607.14618"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 11 Best Places to Buy Verified Payoneer Accounts]]></title>
-        <id>https://dev.to/rodiehuston6bw9g/top-11-best-places-to-buy-verified-payoneer-accounts-4pgl</id>
-        <link href="https://dev.to/rodiehuston6bw9g/top-11-best-places-to-buy-verified-payoneer-accounts-4pgl"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best 10 Easy Ways To Buy Verified Cash App Accounts Top]]></title>
-        <id>https://dev.to/rodiehuston6bw9g/best-10-easy-ways-to-buy-verified-cash-app-accounts-top-1257</id>
-        <link href="https://dev.to/rodiehuston6bw9g/best-10-easy-ways-to-buy-verified-cash-app-accounts-top-1257"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS runs out of application memory because your dead dev servers never die]]></title>
-        <id>https://dev.to/mjmirza/macos-runs-out-of-application-memory-because-your-dead-dev-servers-never-die-4h3c</id>
-        <link href="https://dev.to/mjmirza/macos-runs-out-of-application-memory-because-your-dead-dev-servers-never-die-4h3c"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use a custom local domain instead of localhost:3000]]></title>
-        <id>https://dev.to/locahl_9bd77121e3d366f72f/use-a-custom-local-domain-instead-of-localhost3000-340b</id>
-        <link href="https://dev.to/locahl_9bd77121e3d366f72f/use-a-custom-local-domain-instead-of-localhost3000-340b"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 JavaScript Features I Wish I Had Learned Earlier]]></title>
-        <id>https://dev.to/codexsavage6s/5-javascript-features-i-wish-i-had-learned-earlier-1lpa</id>
-        <link href="https://dev.to/codexsavage6s/5-javascript-features-i-wish-i-had-learned-earlier-1lpa"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve says iFixit will keep selling Steam Deck batteries after all]]></title>
-        <id>https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery</id>
-        <link href="https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix tries to recapture Stranger Things magic with nostalgic re-release]]></title>
-        <id>https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix</id>
-        <link href="https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI slop movies are the new direct-to-video cash grabs]]></title>
-        <id>https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood</id>
-        <link href="https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roblox is shutting down its video chat service]]></title>
-        <id>https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down</id>
-        <link href="https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down"/>
-        <updated>2026-07-15T16:00:00.000Z</updated>
-        <published>2026-07-15T16:00:00.000Z</published>
     </entry>
 </feed>
