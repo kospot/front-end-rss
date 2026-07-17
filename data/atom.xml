@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-17T10:02:43.572Z</updated>
+    <updated>2026-07-17T13:03:18.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,6 +22,27 @@
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trump is selling high-speed access to his market-moving Truth Social posts]]></title>
+        <id>https://www.theverge.com/policy/967020/trump-truth-social-api-wall-street-traders</id>
+        <link href="https://www.theverge.com/policy/967020/trump-truth-social-api-wall-street-traders"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The war on ‘woke science’ comes for space research]]></title>
+        <id>https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society</id>
+        <link href="https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[God Of War TV series is recasting Kratos]]></title>
+        <id>https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast</id>
+        <link href="https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fortnite is getting a bunch of AI-powered ‘personas’]]></title>
         <id>https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas</id>
         <link href="https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas"/>
@@ -29,23 +50,16 @@
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The CDC Has a Cyclospora Lab. DOGE Downsized It Last Year]]></title>
-        <id>https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/</id>
-        <link href="https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/"/>
+        <title type="html"><![CDATA[Valve Steam Machine Review: A Compromised Console]]></title>
+        <id>https://www.wired.com/review/valve-steam-machine/</id>
+        <link href="https://www.wired.com/review/valve-steam-machine/"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pete Hegseth’s Plan for ‘High T’ Troops Is a Junk-Science Fever Dream]]></title>
-        <id>https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/</id>
-        <link href="https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Xgimi Titan Noir Max Home Projector (2026)]]></title>
-        <id>https://www.wired.com/story/xgimi-titan-noir-max-projector/</id>
-        <link href="https://www.wired.com/story/xgimi-titan-noir-max-projector/"/>
+        <title type="html"><![CDATA[Panasonic Japanese Microwave Review (2026): True 1-Button Cooking]]></title>
+        <id>https://www.wired.com/review/panasonic-japanese-microwave/</id>
+        <link href="https://www.wired.com/review/panasonic-japanese-microwave/"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
@@ -57,9 +71,30 @@
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Vids now lets you star in your own AI videos]]></title>
-        <id>https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/</id>
-        <link href="https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/"/>
+        <title type="html"><![CDATA[Review: Xgimi Titan Noir Max Home Projector (2026)]]></title>
+        <id>https://www.wired.com/story/xgimi-titan-noir-max-projector/</id>
+        <link href="https://www.wired.com/story/xgimi-titan-noir-max-projector/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pete Hegseth’s Plan for ‘High T’ Troops Is a Junk-Science Fever Dream]]></title>
+        <id>https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/</id>
+        <link href="https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CDC Has a Cyclospora Lab. DOGE Downsized It Last Year]]></title>
+        <id>https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/</id>
+        <link href="https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the first GPU financiers are turning to inference chips in a $400 million deal]]></title>
+        <id>https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/</id>
+        <link href="https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
@@ -71,261 +106,51 @@
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tell HN: AWS said I was projected to spend $5B this month on my personal account]]></title>
-        <id>https://news.ycombinator.com/item?id=48945349</id>
-        <link href="https://news.ycombinator.com/item?id=48945349"/>
+        <title type="html"><![CDATA[Google Vids now lets you star in your own AI videos]]></title>
+        <id>https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/</id>
+        <link href="https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which IELTS writing scorer is more accurate? A test on 73 official responses]]></title>
-        <id>https://ieltswritingchecker.org/blog/ielts-writing-checker-accuracy-study</id>
-        <link href="https://ieltswritingchecker.org/blog/ielts-writing-checker-accuracy-study"/>
+        <title type="html"><![CDATA[SpaceX Post-Listing Collapse Threatens IPO Market's AI Euphoria]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-07-16/spacex-post-listing-collapse-threatens-ipo-market-s-ai-euphoria</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-07-16/spacex-post-listing-collapse-threatens-ipo-market-s-ai-euphoria"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Compliant-Mechanism Mattress for Preventing Pressure Ulcers – First Prototype [video]]]></title>
-        <id>https://www.youtube.com/watch?v=KfIB_e_6rzY&amp;list=PLWeErkRyxkhJLAOiogjiNLPDU5KPlRVwm</id>
-        <link href="https://www.youtube.com/watch?v=KfIB_e_6rzY&amp;list=PLWeErkRyxkhJLAOiogjiNLPDU5KPlRVwm"/>
+        <title type="html"><![CDATA[Show HN: Unlimited Remove Background and AI Uplscale Image and Pdf Tool Kit]]></title>
+        <id>https://pixoate.com/remove-background</id>
+        <link href="https://pixoate.com/remove-background"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Monocoque – ZMTP 3.1 (ZeroMQ) messaging library in pure Rust]]></title>
-        <id>https://github.com/vorjdux/monocoque</id>
-        <link href="https://github.com/vorjdux/monocoque"/>
+        <title type="html"><![CDATA[LLM-as-a-Verifier: A General-Purpose Verification Framework]]></title>
+        <id>https://arxiv.org/abs/2607.05391</id>
+        <link href="https://arxiv.org/abs/2607.05391"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Porous material harvests water from the air and enable energy-efficient cooling]]></title>
-        <id>https://www.uni-kiel.de/en/university/details/news/kieler-material-gewinnt-trinkwasser-aus-luft-und-kuehlt-effizienter-als-heutige-systeme</id>
-        <link href="https://www.uni-kiel.de/en/university/details/news/kieler-material-gewinnt-trinkwasser-aus-luft-und-kuehlt-effizienter-als-heutige-systeme"/>
+        <title type="html"><![CDATA[Art Doesn't Scale]]></title>
+        <id>https://matduggan.com/art-doesnt-scale/</id>
+        <link href="https://matduggan.com/art-doesnt-scale/"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Harica: Issuance of Server TLS Certs with ClientAuth KeyPurposeID Against CP/CPS]]></title>
-        <id>https://bugzilla.mozilla.org/show_bug.cgi?id=2055551</id>
-        <link href="https://bugzilla.mozilla.org/show_bug.cgi?id=2055551"/>
+        <title type="html"><![CDATA[Show HN: I built a feature flag service that's just a static JSON on a CDN]]></title>
+        <id>https://switchbox.dev</id>
+        <link href="https://switchbox.dev"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Assessment of How AI Models Protect Free Expression]]></title>
-        <id>https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/</id>
-        <link href="https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[People in Many Countries Now View China More Positively Than the U.S.]]></title>
-        <id>https://www.pewresearch.org/global/2026/07/15/people-in-many-countries-now-view-china-more-positively-than-the-u-s/</id>
-        <link href="https://www.pewresearch.org/global/2026/07/15/people-in-many-countries-now-view-china-more-positively-than-the-u-s/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues]]></title>
-        <id>https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/</id>
-        <link href="https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Assistant Needs a Back End. Put It at the Edge]]></title>
-        <id>https://lowlatencyclub.ai/blog/posts/edge-ai-assistant-backend-go</id>
-        <link href="https://lowlatencyclub.ai/blog/posts/edge-ai-assistant-backend-go"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All the Beautiful Art in This Video Game Was Hand-Drawn by One Person(2020)]]></title>
-        <id>https://www.vice.com/en/article/all-the-beautiful-art-in-this-video-game-was-hand-drawn-by-one-person/</id>
-        <link href="https://www.vice.com/en/article/all-the-beautiful-art-in-this-video-game-was-hand-drawn-by-one-person/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA's Roman Telescope vs. Webb: the telescope that will map a billion galaxies]]></title>
-        <id>https://dotient.com/blog/nancy-grace-roman-space-telescope</id>
-        <link href="https://dotient.com/blog/nancy-grace-roman-space-telescope"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to report copying review data under Copyright to google]]></title>
-        <id>https://www.google.com/</id>
-        <link href="https://www.google.com/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradle Technologies is now Develocity]]></title>
-        <id>https://develocity.ai/blog/gradle-technologies-is-now-develocity/</id>
-        <link href="https://develocity.ai/blog/gradle-technologies-is-now-develocity/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Router ARP/NAT contradict after reload. Client ghost or firmware bug?]]></title>
-        <id>https://news.ycombinator.com/item?id=48942957</id>
-        <link href="https://news.ycombinator.com/item?id=48942957"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Against "Stochastic Terrorism"]]></title>
-        <id>https://www.astralcodexten.com/p/against-stochastic-terrorism</id>
-        <link href="https://www.astralcodexten.com/p/against-stochastic-terrorism"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Legal Personhood Is Neither Necessary nor Sufficient]]></title>
-        <id>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7127038</id>
-        <link href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7127038"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReactBench]]></title>
-        <id>https://www.reactbench.com/blog</id>
-        <link href="https://www.reactbench.com/blog"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattack at Nichirei leads to food shortages at eateries, stores]]></title>
-        <id>https://www.asahi.com/ajw/articles/16731347</id>
-        <link href="https://www.asahi.com/ajw/articles/16731347"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SecretSpec 0.15: Provider Credentials, Azure Key Vault / Gopass, and PHP SDK]]></title>
-        <id>https://secretspec.dev/blog/secretspec-0-15-provider-credentials-azure-key-vault-gopass-and-php-sdk/</id>
-        <link href="https://secretspec.dev/blog/secretspec-0-15-provider-credentials-azure-key-vault-gopass-and-php-sdk/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roboflow Serverless Inference: A Thousand Models on a Shared GPU Fleet]]></title>
-        <id>https://blog.roboflow.com/serverless-inference-a-thousand-models-on-a-shared-gpu-fleet/</id>
-        <link href="https://blog.roboflow.com/serverless-inference-a-thousand-models-on-a-shared-gpu-fleet/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Tried to Phantom Charge $16.6M]]></title>
-        <id>https://www.internationalcyberdigest.com/anthropic-tried-to-phantom-charge-16-6m/</id>
-        <link href="https://www.internationalcyberdigest.com/anthropic-tried-to-phantom-charge-16-6m/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priora: Blind-rank features, get a Scope Score, export a Cursor-ready pack]]></title>
-        <id>https://www.priora.space</id>
-        <link href="https://www.priora.space"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We rewrote our custom visualisation renderers from SVG to be in Canvas]]></title>
-        <id>https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler</id>
-        <link href="https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Truth Social to sell Wall Street firms the 'fastest' access to Trump's posts]]></title>
-        <id>https://www.nbcnews.com/business/media/trump-media-early-access-truth-social-posts-rcna587912</id>
-        <link href="https://www.nbcnews.com/business/media/trump-media-early-access-truth-social-posts-rcna587912"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Who gets credits on big math questions solved by LLMs?]]></title>
-        <id>https://news.ycombinator.com/item?id=48940723</id>
-        <link href="https://news.ycombinator.com/item?id=48940723"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese memory ban would cut off RAMpocalypse relief]]></title>
-        <id>https://www.theregister.com/systems/2026/07/17/chinese-memory-ban-would-cut-off-rampocalypse-relief/5273993</id>
-        <link href="https://www.theregister.com/systems/2026/07/17/chinese-memory-ban-would-cut-off-rampocalypse-relief/5273993"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: 3Emalak SEO Gaint]]></title>
-        <id>https://www.3emalak.com/</id>
-        <link href="https://www.3emalak.com/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GrapheneOS recommended for domestic abuse victims]]></title>
-        <id>https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/</id>
-        <link href="https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Ships AI Agents at Enterprise Scale]]></title>
-        <id>https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at</id>
-        <link href="https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billion-dollar weather disasters have pushed US home insurance up 47% in 5 years]]></title>
-        <id>https://insurancedimes.com/2026/07/16/the-states-hit-hardest-by-home-insurance-spikes/</id>
-        <link href="https://insurancedimes.com/2026/07/16/the-states-hit-hardest-by-home-insurance-spikes/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox Profile Decryption Explained]]></title>
-        <id>https://github.com/asaix/mozdmp</id>
-        <link href="https://github.com/asaix/mozdmp"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z.ai Set to Be First China AI Firm with $1B Annual Sales]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: LHIC-The execution layer that gets safer and smarter with every run]]></title>
-        <id>https://lhic-docs.pages.dev/</id>
-        <link href="https://lhic-docs.pages.dev/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astronomers spot first atmosphere around a potentially habitable alien world]]></title>
-        <id>https://www.science.org/content/article/astronomers-spot-first-atmosphere-around-potentially-habitable-alien-world</id>
-        <link href="https://www.science.org/content/article/astronomers-spot-first-atmosphere-around-potentially-habitable-alien-world"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Internet, Reinvented [video]]]></title>
-        <id>https://www.youtube.com/watch?v=XTnYVh7K6xQ</id>
-        <link href="https://www.youtube.com/watch?v=XTnYVh7K6xQ"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back End Engineer – Python (Remote – India)]]></title>
-        <id>https://www.axelerant.com/careers</id>
-        <link href="https://www.axelerant.com/careers"/>
+        <title type="html"><![CDATA[Alzheimer's trial results lend momentum to strategies targeting tau]]></title>
+        <id>https://www.science.org/content/article/alzheimer-s-trial-results-lend-momentum-strategies-targeting-tau</id>
+        <link href="https://www.science.org/content/article/alzheimer-s-trial-results-lend-momentum-strategies-targeting-tau"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
@@ -337,30 +162,205 @@
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic’s Claude Certified Architect Exam (CCA-F): Your Tools Are Lying About Their Errors III]]></title>
-        <id>https://pub.towardsai.net/anthropics-claude-certified-architect-exam-cca-f-your-tools-are-lying-about-their-errors-10bb70e5c95c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/anthropics-claude-certified-architect-exam-cca-f-your-tools-are-lying-about-their-errors-10bb70e5c95c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Back End Engineer – Python (Remote – India)]]></title>
+        <id>https://www.axelerant.com/careers</id>
+        <link href="https://www.axelerant.com/careers"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Multi-Object Tracking?]]></title>
-        <id>https://pub.towardsai.net/what-is-multi-object-tracking-8bc0abe477e5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-is-multi-object-tracking-8bc0abe477e5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Internet, Reinvented [video]]]></title>
+        <id>https://www.youtube.com/watch?v=XTnYVh7K6xQ</id>
+        <link href="https://www.youtube.com/watch?v=XTnYVh7K6xQ"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kimi K3 is Here and This is How Insane It Is, You Are Not Ready]]></title>
-        <id>https://pub.towardsai.net/kimi-k3-is-here-and-this-is-how-insane-it-is-you-are-not-ready-d0f9115da17a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/kimi-k3-is-here-and-this-is-how-insane-it-is-you-are-not-ready-d0f9115da17a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Astronomers spot first atmosphere around a potentially habitable alien world]]></title>
+        <id>https://www.science.org/content/article/astronomers-spot-first-atmosphere-around-potentially-habitable-alien-world</id>
+        <link href="https://www.science.org/content/article/astronomers-spot-first-atmosphere-around-potentially-habitable-alien-world"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ Building AI Agents in Rust - part 8]]></title>
-        <id>https://pub.towardsai.net/building-ai-agents-in-rust-part-8-507e00b9d49d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-ai-agents-in-rust-part-8-507e00b9d49d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: LHIC-The execution layer that gets safer and smarter with every run]]></title>
+        <id>https://lhic-docs.pages.dev/</id>
+        <link href="https://lhic-docs.pages.dev/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Z.ai Set to Be First China AI Firm with $1B Annual Sales]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Profile Decryption Explained]]></title>
+        <id>https://github.com/asaix/mozdmp</id>
+        <link href="https://github.com/asaix/mozdmp"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billion-dollar weather disasters have pushed US home insurance up 47% in 5 years]]></title>
+        <id>https://insurancedimes.com/2026/07/16/the-states-hit-hardest-by-home-insurance-spikes/</id>
+        <link href="https://insurancedimes.com/2026/07/16/the-states-hit-hardest-by-home-insurance-spikes/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Ships AI Agents at Enterprise Scale]]></title>
+        <id>https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at</id>
+        <link href="https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GrapheneOS recommended for domestic abuse victims]]></title>
+        <id>https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/</id>
+        <link href="https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: 3Emalak SEO Gaint]]></title>
+        <id>https://www.3emalak.com/</id>
+        <link href="https://www.3emalak.com/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese memory ban would cut off RAMpocalypse relief]]></title>
+        <id>https://www.theregister.com/systems/2026/07/17/chinese-memory-ban-would-cut-off-rampocalypse-relief/5273993</id>
+        <link href="https://www.theregister.com/systems/2026/07/17/chinese-memory-ban-would-cut-off-rampocalypse-relief/5273993"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Who gets credits on big math questions solved by LLMs?]]></title>
+        <id>https://news.ycombinator.com/item?id=48940723</id>
+        <link href="https://news.ycombinator.com/item?id=48940723"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Truth Social to sell Wall Street firms the 'fastest' access to Trump's posts]]></title>
+        <id>https://www.nbcnews.com/business/media/trump-media-early-access-truth-social-posts-rcna587912</id>
+        <link href="https://www.nbcnews.com/business/media/trump-media-early-access-truth-social-posts-rcna587912"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We rewrote our custom visualisation renderers from SVG to be in Canvas]]></title>
+        <id>https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler</id>
+        <link href="https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Priora: Blind-rank features, get a Scope Score, export a Cursor-ready pack]]></title>
+        <id>https://www.priora.space</id>
+        <link href="https://www.priora.space"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Tried to Phantom Charge $16.6M]]></title>
+        <id>https://www.internationalcyberdigest.com/anthropic-tried-to-phantom-charge-16-6m/</id>
+        <link href="https://www.internationalcyberdigest.com/anthropic-tried-to-phantom-charge-16-6m/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roboflow Serverless Inference: A Thousand Models on a Shared GPU Fleet]]></title>
+        <id>https://blog.roboflow.com/serverless-inference-a-thousand-models-on-a-shared-gpu-fleet/</id>
+        <link href="https://blog.roboflow.com/serverless-inference-a-thousand-models-on-a-shared-gpu-fleet/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecretSpec 0.15: Provider Credentials, Azure Key Vault / Gopass, and PHP SDK]]></title>
+        <id>https://secretspec.dev/blog/secretspec-0-15-provider-credentials-azure-key-vault-gopass-and-php-sdk/</id>
+        <link href="https://secretspec.dev/blog/secretspec-0-15-provider-credentials-azure-key-vault-gopass-and-php-sdk/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattack at Nichirei leads to food shortages at eateries, stores]]></title>
+        <id>https://www.asahi.com/ajw/articles/16731347</id>
+        <link href="https://www.asahi.com/ajw/articles/16731347"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReactBench]]></title>
+        <id>https://www.reactbench.com/blog</id>
+        <link href="https://www.reactbench.com/blog"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Legal Personhood Is Neither Necessary nor Sufficient]]></title>
+        <id>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7127038</id>
+        <link href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7127038"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Against "Stochastic Terrorism"]]></title>
+        <id>https://www.astralcodexten.com/p/against-stochastic-terrorism</id>
+        <link href="https://www.astralcodexten.com/p/against-stochastic-terrorism"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Router ARP/NAT contradict after reload. Client ghost or firmware bug?]]></title>
+        <id>https://news.ycombinator.com/item?id=48942957</id>
+        <link href="https://news.ycombinator.com/item?id=48942957"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gradle Technologies is now Develocity]]></title>
+        <id>https://develocity.ai/blog/gradle-technologies-is-now-develocity/</id>
+        <link href="https://develocity.ai/blog/gradle-technologies-is-now-develocity/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to report copying review data under Copyright to google]]></title>
+        <id>https://www.google.com/</id>
+        <link href="https://www.google.com/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA's Roman Telescope vs. Webb: the telescope that will map a billion galaxies]]></title>
+        <id>https://dotient.com/blog/nancy-grace-roman-space-telescope</id>
+        <link href="https://dotient.com/blog/nancy-grace-roman-space-telescope"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All the Beautiful Art in This Video Game Was Hand-Drawn by One Person(2020)]]></title>
+        <id>https://www.vice.com/en/article/all-the-beautiful-art-in-this-video-game-was-hand-drawn-by-one-person/</id>
+        <link href="https://www.vice.com/en/article/all-the-beautiful-art-in-this-video-game-was-hand-drawn-by-one-person/"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Assistant Needs a Back End. Put It at the Edge]]></title>
+        <id>https://lowlatencyclub.ai/blog/posts/edge-ai-assistant-backend-go</id>
+        <link href="https://lowlatencyclub.ai/blog/posts/edge-ai-assistant-backend-go"/>
+        <updated>2026-07-16T16:00:00.000Z</updated>
+        <published>2026-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues]]></title>
+        <id>https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/</id>
+        <link href="https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/"/>
         <updated>2026-07-16T16:00:00.000Z</updated>
         <published>2026-07-16T16:00:00.000Z</published>
     </entry>
