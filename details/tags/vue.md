@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-17 12:01:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-17 15:01:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -9,17 +9,17 @@
 
 - [2026-07-17-Recreating-iOS's-drum-roll-picker-in-Vue-3-—-inertia,-rubber-banding,-and-the-tap-vs-drag-problem](https://dev.to/jlc488/recreating-ioss-drum-roll-picker-in-vue-3-inertia-rubber-banding-and-the-tap-vs-drag-problem-4269) 
 - [2026-07-16-Browser-Based-PDF-Page-Editing-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/browser-based-pdf-page-editing-with-vue-3-and-pdf-lib-3051) 
-- [2026-06-30-Vue.js-vs-Next.js:-Modal-Routing-—-A-Side-by-Side-Breakdown](https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1) 
-- [2026-06-30-What-Are-the-Advantages-of-Custom-Software-Development?](https://dev.to/jacobfoster21/what-are-the-advantages-of-custom-software-development-55m3) 
 - [2026-06-30-How-I-Built-a-Browser-Based-PDF-to-Word-Converter-with-Vue-3,-pdf.js,-and-docx](https://dev.to/sunshey/how-i-built-a-browser-based-pdf-to-word-converter-with-vue-3-pdfjs-and-docx-1fa3) 
+- [2026-06-30-What-Are-the-Advantages-of-Custom-Software-Development?](https://dev.to/jacobfoster21/what-are-the-advantages-of-custom-software-development-55m3) 
+- [2026-06-30-Vue.js-vs-Next.js:-Modal-Routing-—-A-Side-by-Side-Breakdown](https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1) 
 - [2026-06-27-How-I-Add-Watermarks-to-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-add-watermarks-to-pdfs-in-the-browser-with-vue-3-and-pdf-lib-1o97) 
 - [2026-06-26-How-I-Encrypt-PDFs-in-the-Browser-with-Vue-3-and-@pdfsmaller/pdf-encrypt-lite](https://dev.to/sunshey/how-i-encrypt-pdfs-in-the-browser-with-vue-3-and-pdfsmallerpdf-encrypt-lite-1m61) 
 - [2026-06-25-How-I-Split-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-split-pdfs-in-the-browser-with-vue-3-and-pdf-lib-3gcb) 
 - [2026-06-23-How-I-Delete-PDF-Pages-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-delete-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-26ce) 
 - [2026-06-22-How-to-Convert-Word-Documents-to-PDFs-in-the-Browser-with-Vue-3,-mammoth,-and-html2pdf.js](https://dev.to/sunshey/how-to-convert-word-documents-to-pdfs-in-the-browser-with-vue-3-mammoth-and-html2pdfjs-15kh) 
-- [2026-06-18-How-to-Build-a-Real-Time-Search-Engine-Interface-in-Vue.js-3-with-Joffstrends-Search-API](https://dev.to/joffy122/how-to-build-a-real-time-search-engine-interface-in-vuejs-3-with-joffstrends-search-api-30jg) 
-- [2026-06-18-Building-a-headless-visual-editor-for-Vue-—-the-Vue-answer-to-Puck](https://dev.to/yukos1221/building-a-headless-visual-editor-for-vue-the-vue-answer-to-puck-10b7) 
 - [2026-06-18-How-to-Embed-Text-and-Hand-Drawn-Signatures-into-PDFs-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-embed-text-and-hand-drawn-signatures-into-pdfs-with-vue-3-and-pdf-lib-n8j) 
+- [2026-06-18-Building-a-headless-visual-editor-for-Vue-—-the-Vue-answer-to-Puck](https://dev.to/yukos1221/building-a-headless-visual-editor-for-vue-the-vue-answer-to-puck-10b7) 
+- [2026-06-18-How-to-Build-a-Real-Time-Search-Engine-Interface-in-Vue.js-3-with-Joffstrends-Search-API](https://dev.to/joffy122/how-to-build-a-real-time-search-engine-interface-in-vuejs-3-with-joffstrends-search-api-30jg) 
 - [2026-07-17-Beyond-Entropy:-Correctness-Aware-Advantage-Shaping-via-Contrastive-Policy-Optimization](https://arxiv.org/abs/2607.14614) 
 - [2026-07-16-Relevance-Aware-Rule:-Structural-Deletion-of-Irrelevant-Conditions-in-Decision-Trees](https://arxiv.org/abs/2607.13874) 
 - [2026-07-16-Is-the-Statistical-Advantage-Worth-the-Cost?-An-Empirical-Comparison-of-KANs-and-MLPs-for-Structured-Data-Classification](https://arxiv.org/abs/2607.13413) 
