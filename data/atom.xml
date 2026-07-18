@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-18T00:00:58.008Z</updated>
+    <updated>2026-07-18T02:02:06.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,86 +64,37 @@
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sourced ranking of the AI infrastructure build-out]]></title>
-        <id>https://www.capexindex.com/</id>
-        <link href="https://www.capexindex.com/"/>
+        <title type="html"><![CDATA[Anthropic in early talks with Meta to acquire compute power]]></title>
+        <id>https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html</id>
+        <link href="https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Common diet tips about water intake and spicy foods could be dead wrong]]></title>
-        <id>https://news.cornell.edu/stories/2026/07/common-diet-tips-about-water-intake-and-spicy-foods-could-be-dead-wrong</id>
-        <link href="https://news.cornell.edu/stories/2026/07/common-diet-tips-about-water-intake-and-spicy-foods-could-be-dead-wrong"/>
+        <title type="html"><![CDATA[AI hasn't shifted the bottleneck from coding to code review]]></title>
+        <id>https://thenewstack.io/ai-code-bottleneck-myth/</id>
+        <link href="https://thenewstack.io/ai-code-bottleneck-myth/"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My C and Assembler 3D Real Time Renderer from 1997]]></title>
-        <id>https://ben3d.ca/blog/rendering-real-time-3d-before-gpus</id>
-        <link href="https://ben3d.ca/blog/rendering-real-time-3d-before-gpus"/>
+        <title type="html"><![CDATA[Face Value: How AI is reshaping trust, identity, and scams]]></title>
+        <id>https://www.malwarebytes.com/ai-scams</id>
+        <link href="https://www.malwarebytes.com/ai-scams"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clang: Hardware-Assisted AddressSanitizer Design Documentation]]></title>
-        <id>https://clang.llvm.org/docs/HardwareAssistedAddressSanitizerDesign.html</id>
-        <link href="https://clang.llvm.org/docs/HardwareAssistedAddressSanitizerDesign.html"/>
+        <title type="html"><![CDATA[Alien world chemistry found inside meteorite that struck New Jersey home]]></title>
+        <id>https://phys.org/news/2026-07-alien-world-chemistry-meteorite-struck.html</id>
+        <link href="https://phys.org/news/2026-07-alien-world-chemistry-meteorite-struck.html"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avatoon – React Three Fiber component for audio-synced 3D avatar lip-sync]]></title>
-        <id>https://github.com/khaledalam/avatoon</id>
-        <link href="https://github.com/khaledalam/avatoon"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A non-partisan map of how Congress votes and who donates]]></title>
-        <id>https://anaximander.us</id>
-        <link href="https://anaximander.us"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a digital F1 garage to learn how Formula 1 cars work]]></title>
-        <id>https://paddockpass.app</id>
-        <link href="https://paddockpass.app"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney Jr. & AI Animation Outfit Animaj Release 'Ozzy Fox' on YouTube]]></title>
-        <id>https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html</id>
-        <link href="https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Building a Rust-ish programming language with 100% coding agents: Wado]]></title>
-        <id>https://wado-lang.org/playground/</id>
-        <link href="https://wado-lang.org/playground/"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hegseth wants a "High-T" military; doctors call it a clinical minefield]]></title>
-        <id>https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/</id>
-        <link href="https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Learn hadware digital design online (VHDL, systemverilog)]]></title>
-        <id>https://risingedge.pro</id>
-        <link href="https://risingedge.pro"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Re:Likes – open-source library to be particular about reactions to text]]></title>
-        <id>https://relikes.com/#demo</id>
-        <link href="https://relikes.com/#demo"/>
+        <title type="html"><![CDATA[Show HN: Blockbeam – A block puzzle game built with React Native]]></title>
+        <id>https://play.google.com/store/apps/details?id=com.magstudios.blockpuzzle&amp;hl=en_US</id>
+        <link href="https://play.google.com/store/apps/details?id=com.magstudios.blockpuzzle&amp;hl=en_US"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
@@ -155,6 +106,97 @@
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: Re:Likes – open-source library to be particular about reactions to text]]></title>
+        <id>https://relikes.com/#demo</id>
+        <link href="https://relikes.com/#demo"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Learn hadware digital design online (VHDL, systemverilog)]]></title>
+        <id>https://risingedge.pro</id>
+        <link href="https://risingedge.pro"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hegseth wants a "High-T" military; doctors call it a clinical minefield]]></title>
+        <id>https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/</id>
+        <link href="https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Building a Rust-ish programming language with 100% coding agents: Wado]]></title>
+        <id>https://wado-lang.org/playground/</id>
+        <link href="https://wado-lang.org/playground/"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney Jr. & AI Animation Outfit Animaj Release 'Ozzy Fox' on YouTube]]></title>
+        <id>https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html</id>
+        <link href="https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a digital F1 garage to learn how Formula 1 cars work]]></title>
+        <id>https://paddockpass.app</id>
+        <link href="https://paddockpass.app"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A non-partisan map of how Congress votes and who donates]]></title>
+        <id>https://anaximander.us</id>
+        <link href="https://anaximander.us"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avatoon – React Three Fiber component for audio-synced 3D avatar lip-sync]]></title>
+        <id>https://github.com/khaledalam/avatoon</id>
+        <link href="https://github.com/khaledalam/avatoon"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clang: Hardware-Assisted AddressSanitizer Design Documentation]]></title>
+        <id>https://clang.llvm.org/docs/HardwareAssistedAddressSanitizerDesign.html</id>
+        <link href="https://clang.llvm.org/docs/HardwareAssistedAddressSanitizerDesign.html"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My C and Assembler 3D Real Time Renderer from 1997]]></title>
+        <id>https://ben3d.ca/blog/rendering-real-time-3d-before-gpus</id>
+        <link href="https://ben3d.ca/blog/rendering-real-time-3d-before-gpus"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common diet tips about water intake and spicy foods could be dead wrong]]></title>
+        <id>https://news.cornell.edu/stories/2026/07/common-diet-tips-about-water-intake-and-spicy-foods-could-be-dead-wrong</id>
+        <link href="https://news.cornell.edu/stories/2026/07/common-diet-tips-about-water-intake-and-spicy-foods-could-be-dead-wrong"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sourced ranking of the AI infrastructure build-out]]></title>
+        <id>https://www.capexindex.com/</id>
+        <link href="https://www.capexindex.com/"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Human Checkpoint Is the Most Under-Engineered Component in Production AI]]></title>
+        <id>https://pub.towardsai.net/the-human-checkpoint-is-the-most-under-engineered-component-in-production-ai-41073b7f4b26?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-human-checkpoint-is-the-most-under-engineered-component-in-production-ai-41073b7f4b26?source=rss----98111c9905da---4"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Token Mindset: Thinking in Context and Cost from Day One]]></title>
         <id>https://pub.towardsai.net/the-token-mindset-thinking-in-context-and-cost-from-day-one-3d6b7c807de7?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/the-token-mindset-thinking-in-context-and-cost-from-day-one-3d6b7c807de7?source=rss----98111c9905da---4"/>
@@ -162,79 +204,136 @@
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 7 Sites To Buy Verified Chime Bank Account In Complete]]></title>
-        <id>https://dev.to/rubettaestejs8rv/top-7-sites-to-buy-verified-chime-bank-account-in-complete-1nk</id>
-        <link href="https://dev.to/rubettaestejs8rv/top-7-sites-to-buy-verified-chime-bank-account-in-complete-1nk"/>
+        <title type="html"><![CDATA[
+Nim: A Python-Like C/C++ Alternative That Also Transpiles To JavaScript
+]]></title>
+        <id>
+https://medium.com/gitconnected/nim-a-python-like-c-c-alternative-every-programmer-should-learn-493fde01b17c?sk=582b78ebace089062079b9b9f2169246
+</id>
+        <link href="
+https://medium.com/gitconnected/nim-a-python-like-c-c-alternative-every-programmer-should-learn-493fde01b17c?sk=582b78ebace089062079b9b9f2169246
+"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buy Verified Stripe Accounts for Online Business If you Need]]></title>
-        <id>https://dev.to/rubettaestejs8rv/buy-verified-stripe-accounts-for-online-business-if-you-need-1bco</id>
-        <link href="https://dev.to/rubettaestejs8rv/buy-verified-stripe-accounts-for-online-business-if-you-need-1bco"/>
+        <title type="html"><![CDATA[
+Why Vanilla JS
+]]></title>
+        <id>
+https://guseyn.com/html/posts/why-vanilla-js.html
+</id>
+        <link href="
+https://guseyn.com/html/posts/why-vanilla-js.html
+"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Free Health Calculator Website with Pure HTML/CSS/JS - Here's How I Monetize It]]></title>
-        <id>https://dev.to/cuibingyansys/i-built-a-free-health-calculator-website-with-pure-htmlcssjs-heres-how-i-monetize-it-2ppi</id>
-        <link href="https://dev.to/cuibingyansys/i-built-a-free-health-calculator-website-with-pure-htmlcssjs-heres-how-i-monetize-it-2ppi"/>
+        <title type="html"><![CDATA[
+LoggerJS: A faster, more powerful isomorphic logger
+]]></title>
+        <id>
+https://github.com/jskits/loggerjs
+</id>
+        <link href="
+https://github.com/jskits/loggerjs
+"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where to Buy Verified Venmo Accounts with Full Verification On]]></title>
-        <id>https://dev.to/rubettaestejs8rv/where-to-buy-verified-venmo-accounts-with-full-verification-on-1bhh</id>
-        <link href="https://dev.to/rubettaestejs8rv/where-to-buy-verified-venmo-accounts-with-full-verification-on-1bhh"/>
+        <title type="html"><![CDATA[
+Pocket DB – embedded single-file NoSQL for Node.js, MongoDB-style API, zero native deps
+]]></title>
+        <id>
+https://pocket-db.axfab.net/
+</id>
+        <link href="
+https://pocket-db.axfab.net/
+"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React Email Checks Need a State Machine]]></title>
-        <id>https://dev.to/ryanlee91/react-email-checks-need-a-state-machine-34ee</id>
-        <link href="https://dev.to/ryanlee91/react-email-checks-need-a-state-machine-34ee"/>
+        <title type="html"><![CDATA[
+billboard.js 4.0 release: Canvas rendering mode, 94.3% faster!
+]]></title>
+        <id>
+https://medium.com/@netil/billboard-js-4-0-release-canvas-rendering-mode-94-3-faster-overall-in-benchmark-894b18798ffe
+</id>
+        <link href="
+https://medium.com/@netil/billboard-js-4-0-release-canvas-rendering-mode-94-3-faster-overall-in-benchmark-894b18798ffe
+"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best 0.4 Sites To Acquire, Old Github Accounts In This Year. ...]]></title>
-        <id>https://dev.to/rubettaestejs8rv/best-04-sites-to-acquire-old-github-accounts-in-this-year--5h6a</id>
-        <link href="https://dev.to/rubettaestejs8rv/best-04-sites-to-acquire-old-github-accounts-in-this-year--5h6a"/>
+        <title type="html"><![CDATA[
+How We Cut Slow Responses by 80% Migrating to Next.js App Router
+]]></title>
+        <id>
+https://dev.to/subito/how-we-cut-slow-responses-by-80-migrating-to-nextjs-app-router-37da
+</id>
+        <link href="
+https://dev.to/subito/how-we-cut-slow-responses-by-80-migrating-to-nextjs-app-router-37da
+"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Things Even AI Can’t Do: Context, Creativity, and Human Touch in Node/NestJS Development]]></title>
-        <id>https://dev.to/devunionx/5-things-even-ai-cant-do-context-creativity-and-human-touch-in-nodenestjs-development-5e3l</id>
-        <link href="https://dev.to/devunionx/5-things-even-ai-cant-do-context-creativity-and-human-touch-in-nodenestjs-development-5e3l"/>
+        <title type="html"><![CDATA[Introducing Schemd: a small text-to-SVG compiler for circuits and UML]]></title>
+        <id>https://dev.to/sirneij/introducing-schemd-a-small-text-to-svg-compiler-for-circuits-and-uml-1i6p</id>
+        <link href="https://dev.to/sirneij/introducing-schemd-a-small-text-to-svg-compiler-for-circuits-and-uml-1i6p"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a free, 100% client-side tool to view and remove file metadata]]></title>
-        <id>https://dev.to/rave-tools/i-built-a-free-100-client-side-tool-to-view-and-remove-file-metadata-45d9</id>
-        <link href="https://dev.to/rave-tools/i-built-a-free-100-client-side-tool-to-view-and-remove-file-metadata-45d9"/>
+        <title type="html"><![CDATA[Building a real-time browser MMORPG with Three.js, Rust/Wasm, and Durable Objects]]></title>
+        <id>https://dev.to/realmofechoes/building-a-real-time-browser-mmorpg-with-threejs-rustwasm-and-durable-objects-1ia2</id>
+        <link href="https://dev.to/realmofechoes/building-a-real-time-browser-mmorpg-with-threejs-rustwasm-and-durable-objects-1ia2"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Buy Snapchat Account( 09) A Step-by-Step Guide]]></title>
-        <id>https://dev.to/andeeephan9jty8/how-to-buy-snapchat-account-09-a-step-by-step-guide-1lpc</id>
-        <link href="https://dev.to/andeeephan9jty8/how-to-buy-snapchat-account-09-a-step-by-step-guide-1lpc"/>
+        <title type="html"><![CDATA[Master of Typing 3.17.4 for macOS Review – Improve Your Typing Speed and Accuracy with Interactive Lessons]]></title>
+        <id>https://dev.to/zggg_3197fa13a97a40d0df4d/master-of-typing-3174-for-macos-review-improve-your-typing-speed-and-accuracy-with-interactive-2g34</id>
+        <link href="https://dev.to/zggg_3197fa13a97a40d0df4d/master-of-typing-3174-for-macos-review-improve-your-typing-speed-and-accuracy-with-interactive-2g34"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Got Tired of Stitching Together Tailwind + a Component Library + a Theming Layer — So I Built FrontAlign]]></title>
-        <id>https://dev.to/eyruz/i-got-tired-of-stitching-together-tailwind-a-component-library-a-theming-layer-so-i-built-1bk3</id>
-        <link href="https://dev.to/eyruz/i-got-tired-of-stitching-together-tailwind-a-component-library-a-theming-layer-so-i-built-1bk3"/>
+        <title type="html"><![CDATA[Is Typescript worth it?]]></title>
+        <id>https://dev.to/codexsavage6s/is-typescript-worth-it-29m8</id>
+        <link href="https://dev.to/codexsavage6s/is-typescript-worth-it-29m8"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[react-native-versionpilot: Open-source app update library for React Native]]></title>
-        <id>https://dev.to/rock_f82f7d93842637a173fc/react-native-versionpilot-open-source-app-update-library-for-react-native-1h0b</id>
-        <link href="https://dev.to/rock_f82f7d93842637a173fc/react-native-versionpilot-open-source-app-update-library-for-react-native-1h0b"/>
+        <title type="html"><![CDATA[Smultron 14.3.0 for macOS Review – A Lightweight Yet Powerful Text Editor for Developers and Writers]]></title>
+        <id>https://dev.to/zggg_3197fa13a97a40d0df4d/smultron-1430-for-macos-review-a-lightweight-yet-powerful-text-editor-for-developers-and-writers-h8m</id>
+        <link href="https://dev.to/zggg_3197fa13a97a40d0df4d/smultron-1430-for-macos-review-a-lightweight-yet-powerful-text-editor-for-developers-and-writers-h8m"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Free Image Resizer That Never Uploads Your Photos to a Server — Here's How]]></title>
+        <id>https://dev.to/vijay_kanna_56/i-built-a-free-image-resizer-that-never-uploads-your-photos-to-a-server-heres-how-509d</id>
+        <link href="https://dev.to/vijay_kanna_56/i-built-a-free-image-resizer-that-never-uploads-your-photos-to-a-server-heres-how-509d"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best 12 Online Platforms to Buy Verified Square Accounts]]></title>
+        <id>https://dev.to/rubettaestejs8rv/best-12-online-platforms-to-buy-verified-square-accounts-5hfh</id>
+        <link href="https://dev.to/rubettaestejs8rv/best-12-online-platforms-to-buy-verified-square-accounts-5hfh"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML5 Game Development: Choosing the Right Engine in 2026]]></title>
+        <id>https://dev.to/yoo_tao_31d3d572d2d49bfeb/html5-game-development-choosing-the-right-engine-in-2026-oj4</id>
+        <link href="https://dev.to/yoo_tao_31d3d572d2d49bfeb/html5-game-development-choosing-the-right-engine-in-2026-oj4"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
@@ -246,122 +345,59 @@
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Masonry (with Animation) in CSS]]></title>
-        <id>https://master.dev/blog/masonry-with-animation-in-css/</id>
-        <link href="https://master.dev/blog/masonry-with-animation-in-css/"/>
+        <title type="html"><![CDATA[react-native-versionpilot: Open-source app update library for React Native]]></title>
+        <id>https://dev.to/rock_f82f7d93842637a173fc/react-native-versionpilot-open-source-app-update-library-for-react-native-1h0b</id>
+        <link href="https://dev.to/rock_f82f7d93842637a173fc/react-native-versionpilot-open-source-app-update-library-for-react-native-1h0b"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UniGetUI：可能是 Windows 下最好用的应用商店]]></title>
-        <id>https://sspai.com/post/111128</id>
-        <link href="https://sspai.com/post/111128"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Got Tired of Stitching Together Tailwind + a Component Library + a Theming Layer — So I Built FrontAlign]]></title>
+        <id>https://dev.to/eyruz/i-got-tired-of-stitching-together-tailwind-a-component-library-a-theming-layer-so-i-built-1bk3</id>
+        <link href="https://dev.to/eyruz/i-got-tired-of-stitching-together-tailwind-a-component-library-a-theming-layer-so-i-built-1bk3"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Over half a million power tool batteries have been recalled due to a USB-C charging fire risk]]></title>
-        <id>https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall</id>
-        <link href="https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How to Buy Snapchat Account( 09) A Step-by-Step Guide]]></title>
+        <id>https://dev.to/andeeephan9jty8/how-to-buy-snapchat-account-09-a-step-by-step-guide-1lpc</id>
+        <link href="https://dev.to/andeeephan9jty8/how-to-buy-snapchat-account-09-a-step-by-step-guide-1lpc"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fortnite is getting a bunch of AI-powered ‘personas’]]></title>
-        <id>https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas</id>
-        <link href="https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I built a free, 100% client-side tool to view and remove file metadata]]></title>
+        <id>https://dev.to/rave-tools/i-built-a-free-100-client-side-tool-to-view-and-remove-file-metadata-45d9</id>
+        <link href="https://dev.to/rave-tools/i-built-a-free-100-client-side-tool-to-view-and-remove-file-metadata-45d9"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[God Of War TV series is recasting Kratos]]></title>
-        <id>https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast</id>
-        <link href="https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
+        <title type="html"><![CDATA[5 Things Even AI Can’t Do: Context, Creativity, and Human Touch in Node/NestJS Development]]></title>
+        <id>https://dev.to/devunionx/5-things-even-ai-cant-do-context-creativity-and-human-touch-in-nodenestjs-development-5e3l</id>
+        <link href="https://dev.to/devunionx/5-things-even-ai-cant-do-context-creativity-and-human-touch-in-nodenestjs-development-5e3l"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The war on ‘woke science’ comes for space research]]></title>
-        <id>https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society</id>
-        <link href="https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Best 0.4 Sites To Acquire, Old Github Accounts In This Year. ...]]></title>
+        <id>https://dev.to/rubettaestejs8rv/best-04-sites-to-acquire-old-github-accounts-in-this-year--5h6a</id>
+        <link href="https://dev.to/rubettaestejs8rv/best-04-sites-to-acquire-old-github-accounts-in-this-year--5h6a"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump is selling high-speed access to his market-moving Truth Social posts]]></title>
-        <id>https://www.theverge.com/policy/967020/trump-truth-social-api-wall-street-traders</id>
-        <link href="https://www.theverge.com/policy/967020/trump-truth-social-api-wall-street-traders"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
+        <title type="html"><![CDATA[React Email Checks Need a State Machine]]></title>
+        <id>https://dev.to/ryanlee91/react-email-checks-need-a-state-machine-34ee</id>
+        <link href="https://dev.to/ryanlee91/react-email-checks-need-a-state-machine-34ee"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware]]></title>
-        <id>https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest</id>
-        <link href="https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is America ready for this quirky Jeep-looking EV that can park itself?]]></title>
-        <id>https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price</id>
-        <link href="https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung&#8217;s redesigned Z Fold 8 with a wide display just leaked]]></title>
-        <id>https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak</id>
-        <link href="https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve Steam Machine Review: A Compromised Console]]></title>
-        <id>https://www.wired.com/review/valve-steam-machine/</id>
-        <link href="https://www.wired.com/review/valve-steam-machine/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panasonic Japanese Microwave Review (2026): True 1-Button Cooking]]></title>
-        <id>https://www.wired.com/review/panasonic-japanese-microwave/</id>
-        <link href="https://www.wired.com/review/panasonic-japanese-microwave/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s Why Anthropic Is Pushing States to Regulate AI Faster]]></title>
-        <id>https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/</id>
-        <link href="https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Xgimi Titan Noir Max Home Projector (2026)]]></title>
-        <id>https://www.wired.com/story/xgimi-titan-noir-max-projector/</id>
-        <link href="https://www.wired.com/story/xgimi-titan-noir-max-projector/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pete Hegseth’s Plan for ‘High T’ Troops Is a Junk-Science Fever Dream]]></title>
-        <id>https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/</id>
-        <link href="https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The CDC Has a Cyclospora Lab. DOGE Downsized It Last Year]]></title>
-        <id>https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/</id>
-        <link href="https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remarkable’s new Paper Pure is good. That’s why I wrote this review on it.]]></title>
-        <id>https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/</id>
-        <link href="https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/"/>
-        <updated>2026-07-16T16:00:00.000Z</updated>
-        <published>2026-07-16T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Where to Buy Verified Venmo Accounts with Full Verification On]]></title>
+        <id>https://dev.to/rubettaestejs8rv/where-to-buy-verified-venmo-accounts-with-full-verification-on-1bhh</id>
+        <link href="https://dev.to/rubettaestejs8rv/where-to-buy-verified-venmo-accounts-with-full-verification-on-1bhh"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
     </entry>
 </feed>
