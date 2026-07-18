@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-18T02:02:06.902Z</updated>
+    <updated>2026-07-18T04:01:48.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -282,107 +282,72 @@ https://dev.to/subito/how-we-cut-slow-responses-by-80-migrating-to-nextjs-app-ro
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing Schemd: a small text-to-SVG compiler for circuits and UML]]></title>
-        <id>https://dev.to/sirneij/introducing-schemd-a-small-text-to-svg-compiler-for-circuits-and-uml-1i6p</id>
-        <link href="https://dev.to/sirneij/introducing-schemd-a-small-text-to-svg-compiler-for-circuits-and-uml-1i6p"/>
+        <title type="html"><![CDATA[How I Built a Browser Game That Hooks Players in Under 15 Seconds]]></title>
+        <id>https://dev.to/tanishpaul1106/how-i-built-a-browser-game-that-hooks-players-in-under-15-seconds-7go</id>
+        <link href="https://dev.to/tanishpaul1106/how-i-built-a-browser-game-that-hooks-players-in-under-15-seconds-7go"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a real-time browser MMORPG with Three.js, Rust/Wasm, and Durable Objects]]></title>
-        <id>https://dev.to/realmofechoes/building-a-real-time-browser-mmorpg-with-threejs-rustwasm-and-durable-objects-1ia2</id>
-        <link href="https://dev.to/realmofechoes/building-a-real-time-browser-mmorpg-with-threejs-rustwasm-and-durable-objects-1ia2"/>
+        <title type="html"><![CDATA[Building a Sports Data Pipeline: Lessons from Keep calm and carry on Spain trust team identity to deliver World Cup]]></title>
+        <id>https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-keep-calm-and-carry-on-spain-trust-team-identity-to-4m1o</id>
+        <link href="https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-keep-calm-and-carry-on-spain-trust-team-identity-to-4m1o"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Master of Typing 3.17.4 for macOS Review – Improve Your Typing Speed and Accuracy with Interactive Lessons]]></title>
-        <id>https://dev.to/zggg_3197fa13a97a40d0df4d/master-of-typing-3174-for-macos-review-improve-your-typing-speed-and-accuracy-with-interactive-2g34</id>
-        <link href="https://dev.to/zggg_3197fa13a97a40d0df4d/master-of-typing-3174-for-macos-review-improve-your-typing-speed-and-accuracy-with-interactive-2g34"/>
+        <title type="html"><![CDATA[7 Lightweight JavaScript Frameworks Revolutionizing Micro Frontends]]></title>
+        <id>https://dev.to/mlxio_ai/7-lightweight-javascript-frameworks-revolutionizing-micro-frontends-32ak</id>
+        <link href="https://dev.to/mlxio_ai/7-lightweight-javascript-frameworks-revolutionizing-micro-frontends-32ak"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Typescript worth it?]]></title>
-        <id>https://dev.to/codexsavage6s/is-typescript-worth-it-29m8</id>
-        <link href="https://dev.to/codexsavage6s/is-typescript-worth-it-29m8"/>
+        <title type="html"><![CDATA[2026’s Best CSS-in-JS Libraries for React: What Wins?]]></title>
+        <id>https://dev.to/mlxio_ai/2026s-best-css-in-js-libraries-for-react-what-wins-118b</id>
+        <link href="https://dev.to/mlxio_ai/2026s-best-css-in-js-libraries-for-react-what-wins-118b"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smultron 14.3.0 for macOS Review – A Lightweight Yet Powerful Text Editor for Developers and Writers]]></title>
-        <id>https://dev.to/zggg_3197fa13a97a40d0df4d/smultron-1430-for-macos-review-a-lightweight-yet-powerful-text-editor-for-developers-and-writers-h8m</id>
-        <link href="https://dev.to/zggg_3197fa13a97a40d0df4d/smultron-1430-for-macos-review-a-lightweight-yet-powerful-text-editor-for-developers-and-writers-h8m"/>
+        <title type="html"><![CDATA[12 Best Marketplaces for Buy Verified MEXC Accounts In]]></title>
+        <id>https://dev.to/alicemorenoetyid/12-best-marketplaces-for-buy-verified-mexc-accounts-in-3pj</id>
+        <link href="https://dev.to/alicemorenoetyid/12-best-marketplaces-for-buy-verified-mexc-accounts-in-3pj"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Free Image Resizer That Never Uploads Your Photos to a Server — Here's How]]></title>
-        <id>https://dev.to/vijay_kanna_56/i-built-a-free-image-resizer-that-never-uploads-your-photos-to-a-server-heres-how-509d</id>
-        <link href="https://dev.to/vijay_kanna_56/i-built-a-free-image-resizer-that-never-uploads-your-photos-to-a-server-heres-how-509d"/>
+        <title type="html"><![CDATA[Build a Safer fetch Retry, Then Explain It in an Interview]]></title>
+        <id>https://dev.to/karuha/build-a-safer-fetch-retry-then-explain-it-in-an-interview-283d</id>
+        <link href="https://dev.to/karuha/build-a-safer-fetch-retry-then-explain-it-in-an-interview-283d"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best 12 Online Platforms to Buy Verified Square Accounts]]></title>
-        <id>https://dev.to/rubettaestejs8rv/best-12-online-platforms-to-buy-verified-square-accounts-5hfh</id>
-        <link href="https://dev.to/rubettaestejs8rv/best-12-online-platforms-to-buy-verified-square-accounts-5hfh"/>
+        <title type="html"><![CDATA[Top 7 Sites To Buy Verified Chime Bank Account In Complete]]></title>
+        <id>https://dev.to/rubettaestejs8rv/top-7-sites-to-buy-verified-chime-bank-account-in-complete-1nk</id>
+        <link href="https://dev.to/rubettaestejs8rv/top-7-sites-to-buy-verified-chime-bank-account-in-complete-1nk"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML5 Game Development: Choosing the Right Engine in 2026]]></title>
-        <id>https://dev.to/yoo_tao_31d3d572d2d49bfeb/html5-game-development-choosing-the-right-engine-in-2026-oj4</id>
-        <link href="https://dev.to/yoo_tao_31d3d572d2d49bfeb/html5-game-development-choosing-the-right-engine-in-2026-oj4"/>
+        <title type="html"><![CDATA[Buy Verified Stripe Accounts for Online Business If you Need]]></title>
+        <id>https://dev.to/rubettaestejs8rv/buy-verified-stripe-accounts-for-online-business-if-you-need-1bco</id>
+        <link href="https://dev.to/rubettaestejs8rv/buy-verified-stripe-accounts-for-online-business-if-you-need-1bco"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generate identity sets, not isolated avatars]]></title>
-        <id>https://dev.to/notxf1le/generate-identity-sets-not-isolated-avatars-i14</id>
-        <link href="https://dev.to/notxf1le/generate-identity-sets-not-isolated-avatars-i14"/>
+        <title type="html"><![CDATA[I Built a Free Health Calculator Website with Pure HTML/CSS/JS - Here's How I Monetize It]]></title>
+        <id>https://dev.to/cuibingyansys/i-built-a-free-health-calculator-website-with-pure-htmlcssjs-heres-how-i-monetize-it-2ppi</id>
+        <link href="https://dev.to/cuibingyansys/i-built-a-free-health-calculator-website-with-pure-htmlcssjs-heres-how-i-monetize-it-2ppi"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[react-native-versionpilot: Open-source app update library for React Native]]></title>
-        <id>https://dev.to/rock_f82f7d93842637a173fc/react-native-versionpilot-open-source-app-update-library-for-react-native-1h0b</id>
-        <link href="https://dev.to/rock_f82f7d93842637a173fc/react-native-versionpilot-open-source-app-update-library-for-react-native-1h0b"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Got Tired of Stitching Together Tailwind + a Component Library + a Theming Layer — So I Built FrontAlign]]></title>
-        <id>https://dev.to/eyruz/i-got-tired-of-stitching-together-tailwind-a-component-library-a-theming-layer-so-i-built-1bk3</id>
-        <link href="https://dev.to/eyruz/i-got-tired-of-stitching-together-tailwind-a-component-library-a-theming-layer-so-i-built-1bk3"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Buy Snapchat Account( 09) A Step-by-Step Guide]]></title>
-        <id>https://dev.to/andeeephan9jty8/how-to-buy-snapchat-account-09-a-step-by-step-guide-1lpc</id>
-        <link href="https://dev.to/andeeephan9jty8/how-to-buy-snapchat-account-09-a-step-by-step-guide-1lpc"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a free, 100% client-side tool to view and remove file metadata]]></title>
-        <id>https://dev.to/rave-tools/i-built-a-free-100-client-side-tool-to-view-and-remove-file-metadata-45d9</id>
-        <link href="https://dev.to/rave-tools/i-built-a-free-100-client-side-tool-to-view-and-remove-file-metadata-45d9"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Things Even AI Can’t Do: Context, Creativity, and Human Touch in Node/NestJS Development]]></title>
-        <id>https://dev.to/devunionx/5-things-even-ai-cant-do-context-creativity-and-human-touch-in-nodenestjs-development-5e3l</id>
-        <link href="https://dev.to/devunionx/5-things-even-ai-cant-do-context-creativity-and-human-touch-in-nodenestjs-development-5e3l"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best 0.4 Sites To Acquire, Old Github Accounts In This Year. ...]]></title>
-        <id>https://dev.to/rubettaestejs8rv/best-04-sites-to-acquire-old-github-accounts-in-this-year--5h6a</id>
-        <link href="https://dev.to/rubettaestejs8rv/best-04-sites-to-acquire-old-github-accounts-in-this-year--5h6a"/>
+        <title type="html"><![CDATA[Where to Buy Verified Venmo Accounts with Full Verification On]]></title>
+        <id>https://dev.to/rubettaestejs8rv/where-to-buy-verified-venmo-accounts-with-full-verification-on-1bhh</id>
+        <link href="https://dev.to/rubettaestejs8rv/where-to-buy-verified-venmo-accounts-with-full-verification-on-1bhh"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
@@ -394,9 +359,44 @@ https://dev.to/subito/how-we-cut-slow-responses-by-80-migrating-to-nextjs-app-ro
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where to Buy Verified Venmo Accounts with Full Verification On]]></title>
-        <id>https://dev.to/rubettaestejs8rv/where-to-buy-verified-venmo-accounts-with-full-verification-on-1bhh</id>
-        <link href="https://dev.to/rubettaestejs8rv/where-to-buy-verified-venmo-accounts-with-full-verification-on-1bhh"/>
+        <title type="html"><![CDATA[Best 0.4 Sites To Acquire, Old Github Accounts In This Year. ...]]></title>
+        <id>https://dev.to/rubettaestejs8rv/best-04-sites-to-acquire-old-github-accounts-in-this-year--5h6a</id>
+        <link href="https://dev.to/rubettaestejs8rv/best-04-sites-to-acquire-old-github-accounts-in-this-year--5h6a"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Things Even AI Can’t Do: Context, Creativity, and Human Touch in Node/NestJS Development]]></title>
+        <id>https://dev.to/devunionx/5-things-even-ai-cant-do-context-creativity-and-human-touch-in-nodenestjs-development-5e3l</id>
+        <link href="https://dev.to/devunionx/5-things-even-ai-cant-do-context-creativity-and-human-touch-in-nodenestjs-development-5e3l"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a free, 100% client-side tool to view and remove file metadata]]></title>
+        <id>https://dev.to/rave-tools/i-built-a-free-100-client-side-tool-to-view-and-remove-file-metadata-45d9</id>
+        <link href="https://dev.to/rave-tools/i-built-a-free-100-client-side-tool-to-view-and-remove-file-metadata-45d9"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Buy Snapchat Account( 09) A Step-by-Step Guide]]></title>
+        <id>https://dev.to/andeeephan9jty8/how-to-buy-snapchat-account-09-a-step-by-step-guide-1lpc</id>
+        <link href="https://dev.to/andeeephan9jty8/how-to-buy-snapchat-account-09-a-step-by-step-guide-1lpc"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Got Tired of Stitching Together Tailwind + a Component Library + a Theming Layer — So I Built FrontAlign]]></title>
+        <id>https://dev.to/eyruz/i-got-tired-of-stitching-together-tailwind-a-component-library-a-theming-layer-so-i-built-1bk3</id>
+        <link href="https://dev.to/eyruz/i-got-tired-of-stitching-together-tailwind-a-component-library-a-theming-layer-so-i-built-1bk3"/>
+        <updated>2026-07-17T16:00:00.000Z</updated>
+        <published>2026-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[react-native-versionpilot: Open-source app update library for React Native]]></title>
+        <id>https://dev.to/rock_f82f7d93842637a173fc/react-native-versionpilot-open-source-app-update-library-for-react-native-1h0b</id>
+        <link href="https://dev.to/rock_f82f7d93842637a173fc/react-native-versionpilot-open-source-app-update-library-for-react-native-1h0b"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
