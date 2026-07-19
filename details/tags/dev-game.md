@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-19 18:01:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-19 21:02:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-07-19-🧩-Building-an-Interactive-3D-Rubik's-Cube-with-Three.js](https://dev.to/guillaumesere/building-an-interactive-3d-rubiks-cube-with-threejs-gf0) 
 - [2026-07-18-Building-a-real-time-browser-MMORPG-with-Three.js,-Rust/Wasm,-and-Durable-Objects](https://dev.to/realmofechoes/building-a-real-time-browser-mmorpg-with-threejs-rustwasm-and-durable-objects-1ia2) 
 - [2026-06-21-How-I-Built-a-Free,-Animated-School-Website-with-Three.js,-Firebase,-and-a-Live-Admin-Panel](https://dev.to/raju_mahato_nepal/how-i-built-a-free-animated-school-website-with-threejs-firebase-and-a-live-admin-panel-2hcl) 
 - [2026-07-05-mrdoob/three.js](https://github.com/mrdoob/three.js) 
