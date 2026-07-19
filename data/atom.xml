@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-19T02:00:59.983Z</updated>
+    <updated>2026-07-19T04:01:17.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验]]></title>
+        <id>https://sspai.com/post/112374</id>
+        <link href="https://sspai.com/post/112374"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google is open-sourcing its 3D emoji]]></title>
         <id>https://www.theverge.com/design/967606/google-open-source-3d-emoji</id>
@@ -29,16 +36,37 @@
         <published>2026-07-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seamless iPad (or any device that can run a web browser) drawing into org-mode]]></title>
-        <id>https://github.com/larrasket/org-pad.el</id>
-        <link href="https://github.com/larrasket/org-pad.el"/>
+        <title type="html"><![CDATA[Tokensave: An MCP Server That Saved Me Tokens While Coding]]></title>
+        <id>https://www.tobiasreithmeier.de/en/blog/tokensave-mcp-server-tutorial-review</id>
+        <link href="https://www.tobiasreithmeier.de/en/blog/tokensave-mcp-server-tutorial-review"/>
         <updated>2026-07-18T16:00:00.000Z</updated>
         <published>2026-07-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flightwake – a flight recorder for AI coding agents, not a navigator]]></title>
-        <id>https://github.com/kaiwutech-TW/flightwake</id>
-        <link href="https://github.com/kaiwutech-TW/flightwake"/>
+        <title type="html"><![CDATA[Show HN: Synapse – local codebase indexer and MCP server for Claude Code]]></title>
+        <id>https://github.com/nrkoka786/synapse</id>
+        <link href="https://github.com/nrkoka786/synapse"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Word Count Is Important for Social Media Posts]]></title>
+        <id>https://medium.com/@thesuperrepemail/how-word-count-is-important-for-social-media-posts-87372645377c</id>
+        <link href="https://medium.com/@thesuperrepemail/how-word-count-is-important-for-social-media-posts-87372645377c"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRPLink – Cryptographically Verified XRP Payment Receipts, Powered by Flare FDC]]></title>
+        <id>https://github.com/joverman/xrplink</id>
+        <link href="https://github.com/joverman/xrplink"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useless Use of Cat Award]]></title>
+        <id>https://porkmail.org/era/unix/award</id>
+        <link href="https://porkmail.org/era/unix/award"/>
         <updated>2026-07-18T16:00:00.000Z</updated>
         <published>2026-07-18T16:00:00.000Z</published>
     </entry>
@@ -50,6 +78,20 @@
         <published>2026-07-18T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Flightwake – a flight recorder for AI coding agents, not a navigator]]></title>
+        <id>https://github.com/kaiwutech-TW/flightwake</id>
+        <link href="https://github.com/kaiwutech-TW/flightwake"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seamless iPad (or any device that can run a web browser) drawing into org-mode]]></title>
+        <id>https://github.com/larrasket/org-pad.el</id>
+        <link href="https://github.com/larrasket/org-pad.el"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Python Library That Reads Your Power BI Models Like Data.]]></title>
         <id>https://pub.towardsai.net/the-python-library-that-reads-your-power-bi-models-like-data-a8aa1408f2cd?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/the-python-library-that-reads-your-power-bi-models-like-data-a8aa1408f2cd?source=rss----98111c9905da---4"/>
@@ -57,114 +99,16 @@
         <published>2026-07-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Filling the PASETO gap in JavaScript: paseto-kit (v3/v4 + full PASERK)]]></title>
-        <id>https://dev.to/elalitareq/filling-the-paseto-gap-in-javascript-paseto-kit-v3v4-full-paserk-be5</id>
-        <link href="https://dev.to/elalitareq/filling-the-paseto-gap-in-javascript-paseto-kit-v3v4-full-paserk-be5"/>
+        <title type="html"><![CDATA[Threat-Model a Small API Before Your Security Interview]]></title>
+        <id>https://dev.to/karuha/threat-model-a-small-api-before-your-security-interview-50i0</id>
+        <link href="https://dev.to/karuha/threat-model-a-small-api-before-your-security-interview-50i0"/>
         <updated>2026-07-18T16:00:00.000Z</updated>
         <published>2026-07-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Four-player local co-op in a browser game, no split-screen: one camera, one canvas]]></title>
-        <id>https://dev.to/fernforge/four-player-local-co-op-in-a-browser-game-no-split-screen-one-camera-one-canvas-f44</id>
-        <link href="https://dev.to/fernforge/four-player-local-co-op-in-a-browser-game-no-split-screen-one-camera-one-canvas-f44"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Js6]]></title>
-        <id>https://dev.to/nicoleta_popescunico_f/js6-p2p</id>
-        <link href="https://dev.to/nicoleta_popescunico_f/js6-p2p"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[-66 Steps To Buy Old Github Accounts In Bulk (PVA, Aged)]]></title>
-        <id>https://dev.to/madellewelcho2qt0/-66-steps-to-buy-old-github-accounts-in-bulk-pva-aged-2gn6</id>
-        <link href="https://dev.to/madellewelcho2qt0/-66-steps-to-buy-old-github-accounts-in-bulk-pva-aged-2gn6"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run a Full JavaScript Website with AxonASP — No Node.js Required]]></title>
-        <id>https://dev.to/lucas_guimaraes/run-a-full-javascript-website-with-axonasp-no-nodejs-required-102g</id>
-        <link href="https://dev.to/lucas_guimaraes/run-a-full-javascript-website-with-axonasp-no-nodejs-required-102g"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Are Successfully Buying Old GitHub Accounts In 2026]]></title>
-        <id>https://dev.to/madellewelcho2qt0/where-are-successfully-buying-old-github-accounts-in-2026-fla</id>
-        <link href="https://dev.to/madellewelcho2qt0/where-are-successfully-buying-old-github-accounts-in-2026-fla"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abortable Email Polling in React]]></title>
-        <id>https://dev.to/ryanlee91/abortable-email-polling-in-react-jgp</id>
-        <link href="https://dev.to/ryanlee91/abortable-email-polling-in-react-jgp"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Guessing: Diagnosing React Re-Renders with the New useRenderReason Hook]]></title>
-        <id>https://dev.to/saurav_tb_pandey/stop-guessing-diagnosing-react-re-renders-with-the-new-userenderreason-hook-19l9</id>
-        <link href="https://dev.to/saurav_tb_pandey/stop-guessing-diagnosing-react-re-renders-with-the-new-userenderreason-hook-19l9"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 10 Sites Guide to Buying Old Facebook Accounts in 2025/26]]></title>
-        <id>https://dev.to/kaceycorreaucrvu/the-10-sites-guide-to-buying-old-facebook-accounts-in-202526-441i</id>
-        <link href="https://dev.to/kaceycorreaucrvu/the-10-sites-guide-to-buying-old-facebook-accounts-in-202526-441i"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to- Buying- Old- Facebook Accounts | Articles]]></title>
-        <id>https://dev.to/kaceycorreaucrvu/the-ultimate-guide-to-buying-old-facebook-accounts-articles-2fg8</id>
-        <link href="https://dev.to/kaceycorreaucrvu/the-ultimate-guide-to-buying-old-facebook-accounts-articles-2fg8"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best 0.4 Websites to Buy Verified Stripe Accounts in]]></title>
-        <id>https://dev.to/madellewelcho2qt0/best-04-websites-to-buy-verified-stripe-accounts-in-2p1f</id>
-        <link href="https://dev.to/madellewelcho2qt0/best-04-websites-to-buy-verified-stripe-accounts-in-2p1f"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Verified Chime Accounts Online with Quick Processing]]></title>
-        <id>https://dev.to/madellewelcho2qt0/buy-verified-chime-accounts-online-with-quick-processing-306g</id>
-        <link href="https://dev.to/madellewelcho2qt0/buy-verified-chime-accounts-online-with-quick-processing-306g"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Sites to Buying Verified Revolut Accounts in 2026]]></title>
-        <id>https://dev.to/madellewelcho2qt0/top-10-sites-to-buying-verified-revolut-accounts-in-2026-27f0</id>
-        <link href="https://dev.to/madellewelcho2qt0/top-10-sites-to-buying-verified-revolut-accounts-in-2026-27f0"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 23 Best Places to Buying Verified Paxful Accounts]]></title>
-        <id>https://dev.to/madellewelcho2qt0/top-23-best-places-to-buying-verified-paxful-accounts-nho</id>
-        <link href="https://dev.to/madellewelcho2qt0/top-23-best-places-to-buying-verified-paxful-accounts-nho"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Shop Offering Verified Payeer Accounts in 2026]]></title>
-        <id>https://dev.to/madellewelcho2qt0/top-5-shop-offering-verified-payeer-accounts-in-2026-30gk</id>
-        <link href="https://dev.to/madellewelcho2qt0/top-5-shop-offering-verified-payeer-accounts-in-2026-30gk"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodhart's Law in Benchmarking: When the Metric Becomes the Target]]></title>
-        <id>https://dev.to/ofri-peretz/goodharts-law-in-benchmarking-when-the-metric-becomes-the-target-f5j</id>
-        <link href="https://dev.to/ofri-peretz/goodharts-law-in-benchmarking-when-the-metric-becomes-the-target-f5j"/>
+        <title type="html"><![CDATA[How to Buy Verified Skrill Accounts Quickly & Securely]]></title>
+        <id>https://dev.to/madellewelcho2qt0/how-to-buy-verified-skrill-accounts-quickly-securely-4b7p</id>
+        <link href="https://dev.to/madellewelcho2qt0/how-to-buy-verified-skrill-accounts-quickly-securely-4b7p"/>
         <updated>2026-07-18T16:00:00.000Z</updated>
         <published>2026-07-18T16:00:00.000Z</published>
     </entry>
@@ -176,9 +120,114 @@
         <published>2026-07-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Buy Verified Skrill Accounts Quickly & Securely]]></title>
-        <id>https://dev.to/madellewelcho2qt0/how-to-buy-verified-skrill-accounts-quickly-securely-4b7p</id>
-        <link href="https://dev.to/madellewelcho2qt0/how-to-buy-verified-skrill-accounts-quickly-securely-4b7p"/>
+        <title type="html"><![CDATA[Goodhart's Law in Benchmarking: When the Metric Becomes the Target]]></title>
+        <id>https://dev.to/ofri-peretz/goodharts-law-in-benchmarking-when-the-metric-becomes-the-target-f5j</id>
+        <link href="https://dev.to/ofri-peretz/goodharts-law-in-benchmarking-when-the-metric-becomes-the-target-f5j"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Shop Offering Verified Payeer Accounts in 2026]]></title>
+        <id>https://dev.to/madellewelcho2qt0/top-5-shop-offering-verified-payeer-accounts-in-2026-30gk</id>
+        <link href="https://dev.to/madellewelcho2qt0/top-5-shop-offering-verified-payeer-accounts-in-2026-30gk"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 23 Best Places to Buying Verified Paxful Accounts]]></title>
+        <id>https://dev.to/madellewelcho2qt0/top-23-best-places-to-buying-verified-paxful-accounts-nho</id>
+        <link href="https://dev.to/madellewelcho2qt0/top-23-best-places-to-buying-verified-paxful-accounts-nho"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Sites to Buying Verified Revolut Accounts in 2026]]></title>
+        <id>https://dev.to/madellewelcho2qt0/top-10-sites-to-buying-verified-revolut-accounts-in-2026-27f0</id>
+        <link href="https://dev.to/madellewelcho2qt0/top-10-sites-to-buying-verified-revolut-accounts-in-2026-27f0"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Verified Chime Accounts Online with Quick Processing]]></title>
+        <id>https://dev.to/madellewelcho2qt0/buy-verified-chime-accounts-online-with-quick-processing-306g</id>
+        <link href="https://dev.to/madellewelcho2qt0/buy-verified-chime-accounts-online-with-quick-processing-306g"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best 0.4 Websites to Buy Verified Stripe Accounts in]]></title>
+        <id>https://dev.to/madellewelcho2qt0/best-04-websites-to-buy-verified-stripe-accounts-in-2p1f</id>
+        <link href="https://dev.to/madellewelcho2qt0/best-04-websites-to-buy-verified-stripe-accounts-in-2p1f"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Guide to- Buying- Old- Facebook Accounts | Articles]]></title>
+        <id>https://dev.to/kaceycorreaucrvu/the-ultimate-guide-to-buying-old-facebook-accounts-articles-2fg8</id>
+        <link href="https://dev.to/kaceycorreaucrvu/the-ultimate-guide-to-buying-old-facebook-accounts-articles-2fg8"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 10 Sites Guide to Buying Old Facebook Accounts in 2025/26]]></title>
+        <id>https://dev.to/kaceycorreaucrvu/the-10-sites-guide-to-buying-old-facebook-accounts-in-202526-441i</id>
+        <link href="https://dev.to/kaceycorreaucrvu/the-10-sites-guide-to-buying-old-facebook-accounts-in-202526-441i"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Guessing: Diagnosing React Re-Renders with the New useRenderReason Hook]]></title>
+        <id>https://dev.to/saurav_tb_pandey/stop-guessing-diagnosing-react-re-renders-with-the-new-userenderreason-hook-19l9</id>
+        <link href="https://dev.to/saurav_tb_pandey/stop-guessing-diagnosing-react-re-renders-with-the-new-userenderreason-hook-19l9"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abortable Email Polling in React]]></title>
+        <id>https://dev.to/ryanlee91/abortable-email-polling-in-react-jgp</id>
+        <link href="https://dev.to/ryanlee91/abortable-email-polling-in-react-jgp"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Are Successfully Buying Old GitHub Accounts In 2026]]></title>
+        <id>https://dev.to/madellewelcho2qt0/where-are-successfully-buying-old-github-accounts-in-2026-fla</id>
+        <link href="https://dev.to/madellewelcho2qt0/where-are-successfully-buying-old-github-accounts-in-2026-fla"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run a Full JavaScript Website with AxonASP — No Node.js Required]]></title>
+        <id>https://dev.to/lucas_guimaraes/run-a-full-javascript-website-with-axonasp-no-nodejs-required-102g</id>
+        <link href="https://dev.to/lucas_guimaraes/run-a-full-javascript-website-with-axonasp-no-nodejs-required-102g"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[-66 Steps To Buy Old Github Accounts In Bulk (PVA, Aged)]]></title>
+        <id>https://dev.to/madellewelcho2qt0/-66-steps-to-buy-old-github-accounts-in-bulk-pva-aged-2gn6</id>
+        <link href="https://dev.to/madellewelcho2qt0/-66-steps-to-buy-old-github-accounts-in-bulk-pva-aged-2gn6"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Js6]]></title>
+        <id>https://dev.to/nicoleta_popescunico_f/js6-p2p</id>
+        <link href="https://dev.to/nicoleta_popescunico_f/js6-p2p"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four-player local co-op in a browser game, no split-screen: one camera, one canvas]]></title>
+        <id>https://dev.to/fernforge/four-player-local-co-op-in-a-browser-game-no-split-screen-one-camera-one-canvas-f44</id>
+        <link href="https://dev.to/fernforge/four-player-local-co-op-in-a-browser-game-no-split-screen-one-camera-one-canvas-f44"/>
+        <updated>2026-07-18T16:00:00.000Z</updated>
+        <published>2026-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filling the PASETO gap in JavaScript: paseto-kit (v3/v4 + full PASERK)]]></title>
+        <id>https://dev.to/elalitareq/filling-the-paseto-gap-in-javascript-paseto-kit-v3v4-full-paserk-be5</id>
+        <link href="https://dev.to/elalitareq/filling-the-paseto-gap-in-javascript-paseto-kit-v3v4-full-paserk-be5"/>
         <updated>2026-07-18T16:00:00.000Z</updated>
         <published>2026-07-18T16:00:00.000Z</published>
     </entry>
@@ -281,86 +330,37 @@
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome Prototypes HTML Includes]]></title>
-        <id>https://github.com/WICG/declarative-partial-updates/blob/main/fragment-include-explainer.md</id>
-        <link href="https://github.com/WICG/declarative-partial-updates/blob/main/fragment-include-explainer.md"/>
+        <title type="html"><![CDATA[I procrastinated so hard I built a proxy to stop myself from procrastinating]]></title>
+        <id>https://news.ycombinator.com/item?id=48958641</id>
+        <link href="https://news.ycombinator.com/item?id=48958641"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guardrail: Confirm Destructive AWS Console Actions]]></title>
-        <id>https://chromewebstore.google.com/detail/guardrail-for-aws-console/fhmnpgipdegjkmmhepiklkjcmoeghcko</id>
-        <link href="https://chromewebstore.google.com/detail/guardrail-for-aws-console/fhmnpgipdegjkmmhepiklkjcmoeghcko"/>
+        <title type="html"><![CDATA[Basaltlabs Monolith-1.0 – #1 on Last Exam, AIME, GPQA Diamond, MMLU-Pro]]></title>
+        <id>https://basaltlabs.org/monolith</id>
+        <link href="https://basaltlabs.org/monolith"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: ride-recap, teaching a LLM my taste to automate cycling highlights]]></title>
-        <id>https://www.iandmacomber.com/blog/gopro-garmin-gemini-ride-recap/</id>
-        <link href="https://www.iandmacomber.com/blog/gopro-garmin-gemini-ride-recap/"/>
+        <title type="html"><![CDATA[HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Is my data governance app over-simplified]]></title>
-        <id>https://news.ycombinator.com/item?id=48957638</id>
-        <link href="https://news.ycombinator.com/item?id=48957638"/>
+        <title type="html"><![CDATA[Testing in Python]]></title>
+        <id>https://mkikta.com/posts/tests/</id>
+        <link href="https://mkikta.com/posts/tests/"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Write 2x faster in your native language, get English with context automatically]]></title>
-        <id>https://www.echoo.ai/blog/what-makes-echoo-different-from-ai-writing-tools</id>
-        <link href="https://www.echoo.ai/blog/what-makes-echoo-different-from-ai-writing-tools"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech billionaires are shielding their children from their products]]></title>
-        <id>https://fortune.com/article/peter-thiel-tech-billionaires-limit-kids-screen-time-social-media-smartphones-short-form-video-risks/</id>
-        <link href="https://fortune.com/article/peter-thiel-tech-billionaires-limit-kids-screen-time-social-media-smartphones-short-form-video-risks/"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The open-source Claude Design alternative has 77k GitHub stars and 1M+ installs]]></title>
-        <id>https://okaneland.com/studio/tom-huang/</id>
-        <link href="https://okaneland.com/studio/tom-huang/"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX stock, analysts' florid targets: 'Paving the superhighway to the stars']]></title>
-        <id>https://fortune.com/2026/07/18/wall-street-analysts-spacex-outlook-stock-predictions/</id>
-        <link href="https://fortune.com/2026/07/18/wall-street-analysts-spacex-outlook-stock-predictions/"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: PixelUp – A 100% offline, lightweight AI video upscaler for Windows]]></title>
-        <id>https://steelsoft.site/software/PixelUp_home.html</id>
-        <link href="https://steelsoft.site/software/PixelUp_home.html"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teamclaude rewrite in rust, run multiple Claude accounts in parllel]]></title>
-        <id>https://github.com/dhkts1/teamclaude-rs</id>
-        <link href="https://github.com/dhkts1/teamclaude-rs"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Find someone in the dark – light them or light yourself? (Three.js)]]></title>
-        <id>https://github.com/skorotkiewicz/signal-in-the-dark</id>
-        <link href="https://github.com/skorotkiewicz/signal-in-the-dark"/>
-        <updated>2026-07-17T16:00:00.000Z</updated>
-        <published>2026-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AgentGrove – local workspace for AI coding agents in Git worktrees]]></title>
-        <id>https://github.com/arnabk/agentgrove</id>
-        <link href="https://github.com/arnabk/agentgrove"/>
+        <title type="html"><![CDATA[Why Captain Disillusion Is Still the Goat [video]]]></title>
+        <id>https://www.youtube.com/watch?v=fCewGo4lvNw</id>
+        <link href="https://www.youtube.com/watch?v=fCewGo4lvNw"/>
         <updated>2026-07-17T16:00:00.000Z</updated>
         <published>2026-07-17T16:00:00.000Z</published>
     </entry>
