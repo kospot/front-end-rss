@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-19T22:01:16.497Z</updated>
+    <updated>2026-07-20T00:01:33.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -57,51 +57,44 @@
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the V8 Engine Optimizes JavaScript at Runtime]]></title>
-        <id>https://dev.to/doogal/how-the-v8-engine-optimizes-javascript-at-runtime-4kf1</id>
-        <link href="https://dev.to/doogal/how-the-v8-engine-optimizes-javascript-at-runtime-4kf1"/>
+        <title type="html"><![CDATA[OpenSearch Optimizations for Production RAG, Part 2: Lexical Retrieval]]></title>
+        <id>https://pub.towardsai.net/opensearch-optimizations-for-production-rag-part-2-lexical-retrieval-f90f1b2d04b0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/opensearch-optimizations-for-production-rag-part-2-lexical-retrieval-f90f1b2d04b0?source=rss----98111c9905da---4"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[quantum-audit v0.2.3 — Hybrid Detection, Migration Guides, and 50+ Libraries]]></title>
-        <id>https://dev.to/takundanashebmuchenapixel/quantum-audit-v023-hybrid-detection-migration-guides-and-50-libraries-ld2</id>
-        <link href="https://dev.to/takundanashebmuchenapixel/quantum-audit-v023-hybrid-detection-migration-guides-and-50-libraries-ld2"/>
+        <title type="html"><![CDATA[I Helped 50,000 People Set Up Claude Code. Here’s What I Didn’t Tell Them]]></title>
+        <id>https://pub.towardsai.net/i-helped-50-000-people-set-up-claude-code-heres-what-i-didn-t-tell-them-1e9a9e936b74?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-helped-50-000-people-set-up-claude-code-heres-what-i-didn-t-tell-them-1e9a9e936b74?source=rss----98111c9905da---4"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Zero-Reload Web Forms: Master Modern Async/Await JavaScript Fetch API]]></title>
-        <id>https://dev.to/ouiam_budagiah_d44d996622/building-zero-reload-web-forms-master-modern-asyncawait-javascript-fetch-api-4m41</id>
-        <link href="https://dev.to/ouiam_budagiah_d44d996622/building-zero-reload-web-forms-master-modern-asyncawait-javascript-fetch-api-4m41"/>
+        <title type="html"><![CDATA[Static Analysis vs. SAST vs. Linting: The Taxonomy That Matters for Security Teams]]></title>
+        <id>https://dev.to/ofri-peretz/static-analysis-vs-sast-vs-linting-the-taxonomy-that-matters-for-security-teams-g5o</id>
+        <link href="https://dev.to/ofri-peretz/static-analysis-vs-sast-vs-linting-the-taxonomy-that-matters-for-security-teams-g5o"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Serverless Architecture Trends]]></title>
-        <id>https://dev.to/sharafat_ali_8c9a8ff2bee7/serverless-architecture-trends-21ej</id>
-        <link href="https://dev.to/sharafat_ali_8c9a8ff2bee7/serverless-architecture-trends-21ej"/>
+        <title type="html"><![CDATA[Proxy Metrics: The Number You Optimize Is Not the Thing You Want]]></title>
+        <id>https://dev.to/ofri-peretz/proxy-metrics-the-number-you-optimize-is-not-the-thing-you-want-kml</id>
+        <link href="https://dev.to/ofri-peretz/proxy-metrics-the-number-you-optimize-is-not-the-thing-you-want-kml"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Is an API? A Beginner's Guide]]></title>
-        <id>https://dev.to/codefacility_54ecdc081e01/what-is-an-api-a-beginners-guide-1p3o</id>
-        <link href="https://dev.to/codefacility_54ecdc081e01/what-is-an-api-a-beginners-guide-1p3o"/>
+        <title type="html"><![CDATA[OWASP Top 10, Explained: An Address System, Not a Severity Scale]]></title>
+        <id>https://dev.to/ofri-peretz/owasp-top-10-explained-an-address-system-not-a-severity-scale-3aem</id>
+        <link href="https://dev.to/ofri-peretz/owasp-top-10-explained-an-address-system-not-a-severity-scale-3aem"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Install WebStorm on Windows 11 (Quick Setup Guide) ⚡]]></title>
-        <id>https://dev.to/codesetuplab/how-to-install-webstorm-on-windows-11-quick-setup-guide-5584</id>
-        <link href="https://dev.to/codesetuplab/how-to-install-webstorm-on-windows-11-quick-setup-guide-5584"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js Middleware Auth Bypass: CVE-2025-29927]]></title>
-        <id>https://dev.to/emil_alander_7c/nextjs-middleware-auth-bypass-cve-2025-29927-36no</id>
-        <link href="https://dev.to/emil_alander_7c/nextjs-middleware-auth-bypass-cve-2025-29927-36no"/>
+        <title type="html"><![CDATA[Why Your JavaScript Runs in the Wrong Order]]></title>
+        <id>https://dev.to/mrajaeim/why-your-javascript-runs-in-the-wrong-order-2fki</id>
+        <link href="https://dev.to/mrajaeim/why-your-javascript-runs-in-the-wrong-order-2fki"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
@@ -113,9 +106,51 @@
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Your JavaScript Runs in the Wrong Order]]></title>
-        <id>https://dev.to/mrajaeim/why-your-javascript-runs-in-the-wrong-order-2fki</id>
-        <link href="https://dev.to/mrajaeim/why-your-javascript-runs-in-the-wrong-order-2fki"/>
+        <title type="html"><![CDATA[Next.js Middleware Auth Bypass: CVE-2025-29927]]></title>
+        <id>https://dev.to/emil_alander_7c/nextjs-middleware-auth-bypass-cve-2025-29927-36no</id>
+        <link href="https://dev.to/emil_alander_7c/nextjs-middleware-auth-bypass-cve-2025-29927-36no"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install WebStorm on Windows 11 (Quick Setup Guide) ⚡]]></title>
+        <id>https://dev.to/codesetuplab/how-to-install-webstorm-on-windows-11-quick-setup-guide-5584</id>
+        <link href="https://dev.to/codesetuplab/how-to-install-webstorm-on-windows-11-quick-setup-guide-5584"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is an API? A Beginner's Guide]]></title>
+        <id>https://dev.to/codefacility_54ecdc081e01/what-is-an-api-a-beginners-guide-1p3o</id>
+        <link href="https://dev.to/codefacility_54ecdc081e01/what-is-an-api-a-beginners-guide-1p3o"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless Architecture Trends]]></title>
+        <id>https://dev.to/sharafat_ali_8c9a8ff2bee7/serverless-architecture-trends-21ej</id>
+        <link href="https://dev.to/sharafat_ali_8c9a8ff2bee7/serverless-architecture-trends-21ej"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Zero-Reload Web Forms: Master Modern Async/Await JavaScript Fetch API]]></title>
+        <id>https://dev.to/ouiam_budagiah_d44d996622/building-zero-reload-web-forms-master-modern-asyncawait-javascript-fetch-api-4m41</id>
+        <link href="https://dev.to/ouiam_budagiah_d44d996622/building-zero-reload-web-forms-master-modern-asyncawait-javascript-fetch-api-4m41"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[quantum-audit v0.2.3 — Hybrid Detection, Migration Guides, and 50+ Libraries]]></title>
+        <id>https://dev.to/takundanashebmuchenapixel/quantum-audit-v023-hybrid-detection-migration-guides-and-50-libraries-ld2</id>
+        <link href="https://dev.to/takundanashebmuchenapixel/quantum-audit-v023-hybrid-detection-migration-guides-and-50-libraries-ld2"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the V8 Engine Optimizes JavaScript at Runtime]]></title>
+        <id>https://dev.to/doogal/how-the-v8-engine-optimizes-javascript-at-runtime-4kf1</id>
+        <link href="https://dev.to/doogal/how-the-v8-engine-optimizes-javascript-at-runtime-4kf1"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
@@ -326,41 +361,6 @@
         <title type="html"><![CDATA[RedisME：The most user-friendly RDM in the world]]></title>
         <id>https://www.hepengju.com/</id>
         <link href="https://www.hepengju.com/"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding too fast to collaborate]]></title>
-        <id>https://chrisloy.dev/post/2026/07/19/coding-too-fast-to-collaborate</id>
-        <link href="https://chrisloy.dev/post/2026/07/19/coding-too-fast-to-collaborate"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: USB-to-WiFi print server for old printers – do you want it?]]></title>
-        <id>https://news.ycombinator.com/item?id=48966292</id>
-        <link href="https://news.ycombinator.com/item?id=48966292"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design a Url Shortner]]></title>
-        <id>https://blog.danwald.me/design-a-url-shortner</id>
-        <link href="https://blog.danwald.me/design-a-url-shortner"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Zlvox – A no-signup suite of developer tools (JSON, Temp Mail, PDF)]]></title>
-        <id>https://zlvox.com/blog/why-i-stopped-using-random-online-ai-tools-2026</id>
-        <link href="https://zlvox.com/blog/why-i-stopped-using-random-online-ai-tools-2026"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using AI makes people less likely to admit they don't know something]]></title>
-        <id>https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567</id>
-        <link href="https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567"/>
         <updated>2026-07-18T16:00:00.000Z</updated>
         <published>2026-07-18T16:00:00.000Z</published>
     </entry>
