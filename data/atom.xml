@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-20T04:01:33.083Z</updated>
+    <updated>2026-07-20T07:01:48.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,86 +29,30 @@
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LLM Wiki Maintenance: Drift, Contradictions and Review]]></title>
-        <id>https://www.glukhov.org/knowledge-management/knowledge-systems-architectures/compiled-knowledge/llm-wiki-maintenance-knowledge-drift/</id>
-        <link href="https://www.glukhov.org/knowledge-management/knowledge-systems-architectures/compiled-knowledge/llm-wiki-maintenance-knowledge-drift/"/>
+        <title type="html"><![CDATA[Identical quadruplets in 'one of the rarest births in the world']]></title>
+        <id>https://www.abc.net.au/news/2026-07-20/identical-quadruplets-birth-brisbane/106935748</id>
+        <link href="https://www.abc.net.au/news/2026-07-20/identical-quadruplets-birth-brisbane/106935748"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Autonomous AI Intrusions Are Here: Lessons from the Hugging Face Compromise]]></title>
-        <id>https://embracethered.com/blog/posts/2026/ai-intrusion-are-now-real/</id>
-        <link href="https://embracethered.com/blog/posts/2026/ai-intrusion-are-now-real/"/>
+        <title type="html"><![CDATA[NYC LL144 and EU AI Act Compliance Guides]]></title>
+        <id>https://www.nyc144euaiact.com</id>
+        <link href="https://www.nyc144euaiact.com"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't Predict, Prioritize: Rethinking GPU Reliability Assessment]]></title>
-        <id>https://arxiv.org/abs/2607.15115</id>
-        <link href="https://arxiv.org/abs/2607.15115"/>
+        <title type="html"><![CDATA[An LLM API gateway with budget-limited tokens for your LLM API keys]]></title>
+        <id>https://github.com/er91/budget_aware_llm_api_gateway</id>
+        <link href="https://github.com/er91/budget_aware_llm_api_gateway"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting nerd sniped by the h-index]]></title>
-        <id>https://davidxyu.substack.com/p/being-nerd-sniped-by-the-h-index</id>
-        <link href="https://davidxyu.substack.com/p/being-nerd-sniped-by-the-h-index"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A canvas-based note taking and organizer app]]></title>
-        <id>https://www.passinote.app/</id>
-        <link href="https://www.passinote.app/"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Abandon Your Climate Commitments and Get Away with It]]></title>
-        <id>https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html</id>
-        <link href="https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI advice made people 3x less accurate but 2x confident, researchers found]]></title>
-        <id>https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study</id>
-        <link href="https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cronstable, a cron replacement with retries, DAGs and a TUI/web dashboard]]></title>
-        <id>https://github.com/ptweezy/cronstable</id>
-        <link href="https://github.com/ptweezy/cronstable"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[History and Scale of the H1B Visa]]></title>
-        <id>https://numberstation.fm/the-body-shop/</id>
-        <link href="https://numberstation.fm/the-body-shop/"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6.4x faster than llama.cpp, 3.9x faster than MLX]]></title>
-        <id>https://www.basecompute.co/getbasert</id>
-        <link href="https://www.basecompute.co/getbasert"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Outage]]></title>
-        <id>https://www.githubstatus.com/incidents/8vfyvq16hzh9</id>
-        <link href="https://www.githubstatus.com/incidents/8vfyvq16hzh9"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[White Sands National Park and the Birth of the Atomic Bomb [video]]]></title>
-        <id>https://www.youtube.com/watch?v=RPPAZhEYtnE</id>
-        <link href="https://www.youtube.com/watch?v=RPPAZhEYtnE"/>
+        <title type="html"><![CDATA[A Practitioner Guide to AWS EFA Programming]]></title>
+        <id>https://uccl-project.github.io/posts/efa-programming/</id>
+        <link href="https://uccl-project.github.io/posts/efa-programming/"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
@@ -120,9 +64,107 @@
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Replaced One $15-Per-Million-Token Frontier Model With Five Cheap Ones Arguing With Each Other.]]></title>
-        <id>https://pub.towardsai.net/i-replaced-one-15-per-million-token-frontier-model-with-five-cheap-ones-arguing-with-each-other-68ec4b1f3022?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-replaced-one-15-per-million-token-frontier-model-with-five-cheap-ones-arguing-with-each-other-68ec4b1f3022?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[White Sands National Park and the Birth of the Atomic Bomb [video]]]></title>
+        <id>https://www.youtube.com/watch?v=RPPAZhEYtnE</id>
+        <link href="https://www.youtube.com/watch?v=RPPAZhEYtnE"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Outage]]></title>
+        <id>https://www.githubstatus.com/incidents/8vfyvq16hzh9</id>
+        <link href="https://www.githubstatus.com/incidents/8vfyvq16hzh9"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.4x faster than llama.cpp, 3.9x faster than MLX]]></title>
+        <id>https://www.basecompute.co/getbasert</id>
+        <link href="https://www.basecompute.co/getbasert"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[History and Scale of the H1B Visa]]></title>
+        <id>https://numberstation.fm/the-body-shop/</id>
+        <link href="https://numberstation.fm/the-body-shop/"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cronstable, a cron replacement with retries, DAGs and a TUI/web dashboard]]></title>
+        <id>https://github.com/ptweezy/cronstable</id>
+        <link href="https://github.com/ptweezy/cronstable"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI advice made people 3x less accurate but 2x confident, researchers found]]></title>
+        <id>https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study</id>
+        <link href="https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Abandon Your Climate Commitments and Get Away with It]]></title>
+        <id>https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html</id>
+        <link href="https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A canvas-based note taking and organizer app]]></title>
+        <id>https://www.passinote.app/</id>
+        <link href="https://www.passinote.app/"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting nerd sniped by the h-index]]></title>
+        <id>https://davidxyu.substack.com/p/being-nerd-sniped-by-the-h-index</id>
+        <link href="https://davidxyu.substack.com/p/being-nerd-sniped-by-the-h-index"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Predict, Prioritize: Rethinking GPU Reliability Assessment]]></title>
+        <id>https://arxiv.org/abs/2607.15115</id>
+        <link href="https://arxiv.org/abs/2607.15115"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autonomous AI Intrusions Are Here: Lessons from the Hugging Face Compromise]]></title>
+        <id>https://embracethered.com/blog/posts/2026/ai-intrusion-are-now-real/</id>
+        <link href="https://embracethered.com/blog/posts/2026/ai-intrusion-are-now-real/"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Wiki Maintenance: Drift, Contradictions and Review]]></title>
+        <id>https://www.glukhov.org/knowledge-management/knowledge-systems-architectures/compiled-knowledge/llm-wiki-maintenance-knowledge-drift/</id>
+        <link href="https://www.glukhov.org/knowledge-management/knowledge-systems-architectures/compiled-knowledge/llm-wiki-maintenance-knowledge-drift/"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried to Break an AI’s Security — Here’s Everything I Learned as a Complete Beginner]]></title>
+        <id>https://pub.towardsai.net/i-tried-to-break-an-ais-security-here-s-everything-i-learned-as-a-complete-beginner-56ac3d6e9fd9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tried-to-break-an-ais-security-here-s-everything-i-learned-as-a-complete-beginner-56ac3d6e9fd9?source=rss----98111c9905da---4"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ Building AI Agents in Rust - part 10]]></title>
+        <id>https://pub.towardsai.net/building-ai-agents-in-rust-part-10-3c1e2f47b29b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-ai-agents-in-rust-part-10-3c1e2f47b29b?source=rss----98111c9905da---4"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSearch Optimizations for Production RAG, Part 2: Lexical Retrieval]]></title>
+        <id>https://pub.towardsai.net/opensearch-optimizations-for-production-rag-part-2-lexical-retrieval-f90f1b2d04b0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/opensearch-optimizations-for-production-rag-part-2-lexical-retrieval-f90f1b2d04b0?source=rss----98111c9905da---4"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
@@ -134,9 +176,9 @@
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenSearch Optimizations for Production RAG, Part 2: Lexical Retrieval]]></title>
-        <id>https://pub.towardsai.net/opensearch-optimizations-for-production-rag-part-2-lexical-retrieval-f90f1b2d04b0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/opensearch-optimizations-for-production-rag-part-2-lexical-retrieval-f90f1b2d04b0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I Replaced One $15-Per-Million-Token Frontier Model With Five Cheap Ones Arguing With Each Other.]]></title>
+        <id>https://pub.towardsai.net/i-replaced-one-15-per-million-token-frontier-model-with-five-cheap-ones-arguing-with-each-other-68ec4b1f3022?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-replaced-one-15-per-million-token-frontier-model-with-five-cheap-ones-arguing-with-each-other-68ec4b1f3022?source=rss----98111c9905da---4"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[Understanding Reasoning from Pretraining to Post-Training]]></title>
         <id>https://arxiv.org/abs/2607.16097</id>
         <link href="https://arxiv.org/abs/2607.16097"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Honest Quorum Problem: Epistemic Byzantine Fault Tolerance for Agentic Infrastructure]]></title>
-        <id>https://arxiv.org/abs/2607.16109</id>
-        <link href="https://arxiv.org/abs/2607.16109"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessment]]></title>
-        <id>https://arxiv.org/abs/2607.16156</id>
-        <link href="https://arxiv.org/abs/2607.16156"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behaviour-Conditioned Neural Processes for Adaptive Residential Short-Term Load Forecasting]]></title>
-        <id>https://arxiv.org/abs/2607.16168</id>
-        <link href="https://arxiv.org/abs/2607.16168"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization]]></title>
-        <id>https://arxiv.org/abs/2607.16184</id>
-        <link href="https://arxiv.org/abs/2607.16184"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Empirical Study of Handcrafted Feature Learning and Convolutional Neural Networks for Facial Expression Recognition]]></title>
-        <id>https://arxiv.org/abs/2607.15288</id>
-        <link href="https://arxiv.org/abs/2607.15288"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Physics-Informed Neural Network with a Modified Lorentzian Activation for Nonlocal Gradient-Flow Equations in Dynamic Density Functional Theory]]></title>
-        <id>https://arxiv.org/abs/2607.15291</id>
-        <link href="https://arxiv.org/abs/2607.15291"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
