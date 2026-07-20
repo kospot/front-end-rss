@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-20T02:01:01.679Z</updated>
+    <updated>2026-07-20T04:01:33.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,51 +29,37 @@
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Atomic resolution interferometric surface roughness metrology in the dining room [video]]]></title>
-        <id>https://www.youtube.com/watch?v=uvxDJ61e9xE</id>
-        <link href="https://www.youtube.com/watch?v=uvxDJ61e9xE"/>
+        <title type="html"><![CDATA[LLM Wiki Maintenance: Drift, Contradictions and Review]]></title>
+        <id>https://www.glukhov.org/knowledge-management/knowledge-systems-architectures/compiled-knowledge/llm-wiki-maintenance-knowledge-drift/</id>
+        <link href="https://www.glukhov.org/knowledge-management/knowledge-systems-architectures/compiled-knowledge/llm-wiki-maintenance-knowledge-drift/"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[White Sands National Park and the Birth of the Atomic Bomb [video]]]></title>
-        <id>https://www.youtube.com/watch?v=RPPAZhEYtnE</id>
-        <link href="https://www.youtube.com/watch?v=RPPAZhEYtnE"/>
+        <title type="html"><![CDATA[Autonomous AI Intrusions Are Here: Lessons from the Hugging Face Compromise]]></title>
+        <id>https://embracethered.com/blog/posts/2026/ai-intrusion-are-now-real/</id>
+        <link href="https://embracethered.com/blog/posts/2026/ai-intrusion-are-now-real/"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Outage]]></title>
-        <id>https://www.githubstatus.com/incidents/8vfyvq16hzh9</id>
-        <link href="https://www.githubstatus.com/incidents/8vfyvq16hzh9"/>
+        <title type="html"><![CDATA[Don't Predict, Prioritize: Rethinking GPU Reliability Assessment]]></title>
+        <id>https://arxiv.org/abs/2607.15115</id>
+        <link href="https://arxiv.org/abs/2607.15115"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6.4x faster than llama.cpp, 3.9x faster than MLX]]></title>
-        <id>https://www.basecompute.co/getbasert</id>
-        <link href="https://www.basecompute.co/getbasert"/>
+        <title type="html"><![CDATA[Getting nerd sniped by the h-index]]></title>
+        <id>https://davidxyu.substack.com/p/being-nerd-sniped-by-the-h-index</id>
+        <link href="https://davidxyu.substack.com/p/being-nerd-sniped-by-the-h-index"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[History and Scale of the H1B Visa]]></title>
-        <id>https://numberstation.fm/the-body-shop/</id>
-        <link href="https://numberstation.fm/the-body-shop/"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cronstable, a cron replacement with retries, DAGs and a TUI/web dashboard]]></title>
-        <id>https://github.com/ptweezy/cronstable</id>
-        <link href="https://github.com/ptweezy/cronstable"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI advice made people 3x less accurate but 2x confident, researchers found]]></title>
-        <id>https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study</id>
-        <link href="https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"/>
+        <title type="html"><![CDATA[Show HN: A canvas-based note taking and organizer app]]></title>
+        <id>https://www.passinote.app/</id>
+        <link href="https://www.passinote.app/"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
@@ -85,9 +71,51 @@
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A canvas-based note taking and organizer app]]></title>
-        <id>https://www.passinote.app/</id>
-        <link href="https://www.passinote.app/"/>
+        <title type="html"><![CDATA[AI advice made people 3x less accurate but 2x confident, researchers found]]></title>
+        <id>https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study</id>
+        <link href="https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cronstable, a cron replacement with retries, DAGs and a TUI/web dashboard]]></title>
+        <id>https://github.com/ptweezy/cronstable</id>
+        <link href="https://github.com/ptweezy/cronstable"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[History and Scale of the H1B Visa]]></title>
+        <id>https://numberstation.fm/the-body-shop/</id>
+        <link href="https://numberstation.fm/the-body-shop/"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.4x faster than llama.cpp, 3.9x faster than MLX]]></title>
+        <id>https://www.basecompute.co/getbasert</id>
+        <link href="https://www.basecompute.co/getbasert"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Outage]]></title>
+        <id>https://www.githubstatus.com/incidents/8vfyvq16hzh9</id>
+        <link href="https://www.githubstatus.com/incidents/8vfyvq16hzh9"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White Sands National Park and the Birth of the Atomic Bomb [video]]]></title>
+        <id>https://www.youtube.com/watch?v=RPPAZhEYtnE</id>
+        <link href="https://www.youtube.com/watch?v=RPPAZhEYtnE"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atomic resolution interferometric surface roughness metrology in the dining room [video]]]></title>
+        <id>https://www.youtube.com/watch?v=uvxDJ61e9xE</id>
+        <link href="https://www.youtube.com/watch?v=uvxDJ61e9xE"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
@@ -113,255 +141,227 @@
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Installing traceless-style: A Step-by-Step Guide]]></title>
-        <id>https://dev.to/jenny_akhi_aade503c2764f6/installing-traceless-style-a-step-by-step-guide-pch</id>
-        <link href="https://dev.to/jenny_akhi_aade503c2764f6/installing-traceless-style-a-step-by-step-guide-pch"/>
+        <title type="html"><![CDATA[Position: Quantum Program Generation Must Prioritize Validity Over Probabilistic Scaling]]></title>
+        <id>https://arxiv.org/abs/2607.15313</id>
+        <link href="https://arxiv.org/abs/2607.15313"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the V8 Engine Optimizes JavaScript at Runtime]]></title>
-        <id>https://dev.to/doogal/how-the-v8-engine-optimizes-javascript-at-runtime-4kf1</id>
-        <link href="https://dev.to/doogal/how-the-v8-engine-optimizes-javascript-at-runtime-4kf1"/>
+        <title type="html"><![CDATA[Regularity-Aware Stochastic MGDA with Adaptive Conflict-Avoidant Update Direction Control]]></title>
+        <id>https://arxiv.org/abs/2607.15412</id>
+        <link href="https://arxiv.org/abs/2607.15412"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[quantum-audit v0.2.3 — Hybrid Detection, Migration Guides, and 50+ Libraries]]></title>
-        <id>https://dev.to/takundanashebmuchenapixel/quantum-audit-v023-hybrid-detection-migration-guides-and-50-libraries-ld2</id>
-        <link href="https://dev.to/takundanashebmuchenapixel/quantum-audit-v023-hybrid-detection-migration-guides-and-50-libraries-ld2"/>
+        <title type="html"><![CDATA[Stochastic Reset Pathfinding: Path-Level Regret for Cascading Bandits over Graph Paths]]></title>
+        <id>https://arxiv.org/abs/2607.15440</id>
+        <link href="https://arxiv.org/abs/2607.15440"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Zero-Reload Web Forms: Master Modern Async/Await JavaScript Fetch API]]></title>
-        <id>https://dev.to/ouiam_budagiah_d44d996622/building-zero-reload-web-forms-master-modern-asyncawait-javascript-fetch-api-4m41</id>
-        <link href="https://dev.to/ouiam_budagiah_d44d996622/building-zero-reload-web-forms-master-modern-asyncawait-javascript-fetch-api-4m41"/>
+        <title type="html"><![CDATA[LLM4EHR: Aligning Clinical Time Series with Medical Event Sequences via Large Language Models]]></title>
+        <id>https://arxiv.org/abs/2607.15447</id>
+        <link href="https://arxiv.org/abs/2607.15447"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Serverless Architecture Trends]]></title>
-        <id>https://dev.to/sharafat_ali_8c9a8ff2bee7/serverless-architecture-trends-21ej</id>
-        <link href="https://dev.to/sharafat_ali_8c9a8ff2bee7/serverless-architecture-trends-21ej"/>
+        <title type="html"><![CDATA[Relevant and Irrelevant: A Renormalization Group Analysis of Transformer Attention]]></title>
+        <id>https://arxiv.org/abs/2607.15449</id>
+        <link href="https://arxiv.org/abs/2607.15449"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Is an API? A Beginner's Guide]]></title>
-        <id>https://dev.to/codefacility_54ecdc081e01/what-is-an-api-a-beginners-guide-1p3o</id>
-        <link href="https://dev.to/codefacility_54ecdc081e01/what-is-an-api-a-beginners-guide-1p3o"/>
+        <title type="html"><![CDATA[Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers]]></title>
+        <id>https://arxiv.org/abs/2607.15456</id>
+        <link href="https://arxiv.org/abs/2607.15456"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Install WebStorm on Windows 11 (Quick Setup Guide) ⚡]]></title>
-        <id>https://dev.to/codesetuplab/how-to-install-webstorm-on-windows-11-quick-setup-guide-5584</id>
-        <link href="https://dev.to/codesetuplab/how-to-install-webstorm-on-windows-11-quick-setup-guide-5584"/>
+        <title type="html"><![CDATA[An Auto-Scaling Approach for Serverless Environments Based on a Multi-Expert Consensus Mechanism]]></title>
+        <id>https://arxiv.org/abs/2607.15511</id>
+        <link href="https://arxiv.org/abs/2607.15511"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js Middleware Auth Bypass: CVE-2025-29927]]></title>
-        <id>https://dev.to/emil_alander_7c/nextjs-middleware-auth-bypass-cve-2025-29927-36no</id>
-        <link href="https://dev.to/emil_alander_7c/nextjs-middleware-auth-bypass-cve-2025-29927-36no"/>
+        <title type="html"><![CDATA[Cache-Aware Prompt Compression:A Two-Tier Cost Model for LLM API Caching]]></title>
+        <id>https://arxiv.org/abs/2607.15516</id>
+        <link href="https://arxiv.org/abs/2607.15516"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Merge DOCX Files Using Node.js REST API]]></title>
-        <id>https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-merge-docx-files-using-nodejs-rest-api-3dde</id>
-        <link href="https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-merge-docx-files-using-nodejs-rest-api-3dde"/>
+        <title type="html"><![CDATA[Field-Aware RankMixer with Dual-Stream Bilinear Fusion for the Tencent UNI-REC Challenge]]></title>
+        <id>https://arxiv.org/abs/2607.15590</id>
+        <link href="https://arxiv.org/abs/2607.15590"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Your JavaScript Runs in the Wrong Order]]></title>
-        <id>https://dev.to/mrajaeim/why-your-javascript-runs-in-the-wrong-order-2fki</id>
-        <link href="https://dev.to/mrajaeim/why-your-javascript-runs-in-the-wrong-order-2fki"/>
+        <title type="html"><![CDATA[ASK-NN: An Asymmetric Nearest-Neighbor Test that detects Distribution Drifts in Natural Language]]></title>
+        <id>https://arxiv.org/abs/2607.15607</id>
+        <link href="https://arxiv.org/abs/2607.15607"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OWASP Top 10, Explained: An Address System, Not a Severity Scale]]></title>
-        <id>https://dev.to/ofri-peretz/owasp-top-10-explained-an-address-system-not-a-severity-scale-3aem</id>
-        <link href="https://dev.to/ofri-peretz/owasp-top-10-explained-an-address-system-not-a-severity-scale-3aem"/>
+        <title type="html"><![CDATA[A Benchmark for Electrical Load Forecasting Across Grid Levels: Time-Series Transformers Outperform Established Methods]]></title>
+        <id>https://arxiv.org/abs/2607.15705</id>
+        <link href="https://arxiv.org/abs/2607.15705"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Proxy Metrics: The Number You Optimize Is Not the Thing You Want]]></title>
-        <id>https://dev.to/ofri-peretz/proxy-metrics-the-number-you-optimize-is-not-the-thing-you-want-kml</id>
-        <link href="https://dev.to/ofri-peretz/proxy-metrics-the-number-you-optimize-is-not-the-thing-you-want-kml"/>
+        <title type="html"><![CDATA[CardioMeta: Calibrated Multi-Task Prediction of Diabetes, Hypertension, and Cardiovascular Disease Across Population and EHR Data]]></title>
+        <id>https://arxiv.org/abs/2607.15721</id>
+        <link href="https://arxiv.org/abs/2607.15721"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static Analysis vs. SAST vs. Linting: The Taxonomy That Matters for Security Teams]]></title>
-        <id>https://dev.to/ofri-peretz/static-analysis-vs-sast-vs-linting-the-taxonomy-that-matters-for-security-teams-g5o</id>
-        <link href="https://dev.to/ofri-peretz/static-analysis-vs-sast-vs-linting-the-taxonomy-that-matters-for-security-teams-g5o"/>
+        <title type="html"><![CDATA[Learning Faster without Deeper Networks: A*-Inspired Batch Selection for Efficient CNN Training]]></title>
+        <id>https://arxiv.org/abs/2607.15745</id>
+        <link href="https://arxiv.org/abs/2607.15745"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验]]></title>
-        <id>https://sspai.com/post/112374</id>
-        <link href="https://sspai.com/post/112374"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[CoG-Guided Weight Correction for Fault-Tolerant Deep Neural Networks]]></title>
+        <id>https://arxiv.org/abs/2607.15753</id>
+        <link href="https://arxiv.org/abs/2607.15753"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google is open-sourcing its 3D emoji]]></title>
-        <id>https://www.theverge.com/design/967606/google-open-source-3d-emoji</id>
-        <link href="https://www.theverge.com/design/967606/google-open-source-3d-emoji"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[From Diffusion to Reaction-Diffusion: A Dynamical-Systems View of Oversmoothing in Hypergraph Neural Networks]]></title>
+        <id>https://arxiv.org/abs/2607.15773</id>
+        <link href="https://arxiv.org/abs/2607.15773"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Clapper was a bad smart home gadget — and a viral sensation]]></title>
-        <id>https://www.theverge.com/podcast/967642/the-clapper-version-history</id>
-        <link href="https://www.theverge.com/podcast/967642/the-clapper-version-history"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Scaling Time Series Classification via XAI-Driven Data Reduction]]></title>
+        <id>https://arxiv.org/abs/2607.15774</id>
+        <link href="https://arxiv.org/abs/2607.15774"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US Marshals arrest the Tate brothers in Miami]]></title>
-        <id>https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami</id>
-        <link href="https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Knowledge-Assisted Multi-Graph Dependency Learning for Multivariate Time Series Anomaly Detection in Multi-Stage Industrial Processes]]></title>
+        <id>https://arxiv.org/abs/2607.15799</id>
+        <link href="https://arxiv.org/abs/2607.15799"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Disable Music Videos in Spotify]]></title>
-        <id>https://www.wired.com/story/how-to-disable-all-the-music-videos-in-spotify/</id>
-        <link href="https://www.wired.com/story/how-to-disable-all-the-music-videos-in-spotify/"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[In-context learning of closed form solution to simple linear regression task using transformer with linear self-attention]]></title>
+        <id>https://arxiv.org/abs/2607.15819</id>
+        <link href="https://arxiv.org/abs/2607.15819"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All the EVs that were discontinued or killed off in the U.S. this year]]></title>
-        <id>https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/</id>
-        <link href="https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A Semiparametric Framework for Stochastic Fundamental Diagram Modeling]]></title>
+        <id>https://arxiv.org/abs/2607.15907</id>
+        <link href="https://arxiv.org/abs/2607.15907"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nema Nodes: They Turn Streetlights into a Surveillance Network]]></title>
-        <id>https://www.gadgetreview.com/you-know-about-flock-cameras-meet-nema-nodes-they-turn-streetlights-into-a-surveillance-network</id>
-        <link href="https://www.gadgetreview.com/you-know-about-flock-cameras-meet-nema-nodes-they-turn-streetlights-into-a-surveillance-network"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Knowledge-Guided Cross-Modal Fusion for Adult-to-Pediatric ECG Transfer via Label-Conditioned Contrastive Alignment]]></title>
+        <id>https://arxiv.org/abs/2607.15928</id>
+        <link href="https://arxiv.org/abs/2607.15928"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Losing Intent: Absent, Null, and Value in Rust]]></title>
-        <id>https://minikin.me/blog/presence-rs</id>
-        <link href="https://minikin.me/blog/presence-rs"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[DebrisTracer: Reliable Tracking in Hypervelocity Impact Fast Imaging]]></title>
+        <id>https://arxiv.org/abs/2607.15986</id>
+        <link href="https://arxiv.org/abs/2607.15986"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why AI needs a data layer built on Postgres and ClickHouse]]></title>
-        <id>https://clickhouse.com/blog/ai-best-of-breed-data-stack</id>
-        <link href="https://clickhouse.com/blog/ai-best-of-breed-data-stack"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Constrained Hebbian Learning Supports Efficient Representational Allocation under Structural Constraints]]></title>
+        <id>https://arxiv.org/abs/2607.16027</id>
+        <link href="https://arxiv.org/abs/2607.16027"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows on Arm developer preview Nvidia driver works with regular GPUs]]></title>
-        <id>https://xcancel.com/mecoscorner/status/2078850578898137589?s=46</id>
-        <link href="https://xcancel.com/mecoscorner/status/2078850578898137589?s=46"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[DELUGE: Towards Continental-Scale Daily Pluvial Flood Damage Prediction via Interpretable Conditioning on Foundation Model Embeddings]]></title>
+        <id>https://arxiv.org/abs/2607.16050</id>
+        <link href="https://arxiv.org/abs/2607.16050"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A simple PHP/MySQL inventory system transformed a local factory]]></title>
-        <id>https://zlvox.com/</id>
-        <link href="https://zlvox.com/"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Physics-Based Deep Spatiotemporal Hyperlocal Radar Nowcasting with a Multi-Variable U-Net for High-Resolution Precipitation Forecasting]]></title>
+        <id>https://arxiv.org/abs/2607.16080</id>
+        <link href="https://arxiv.org/abs/2607.16080"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visuali: An AI agent that creates and edits images on an infinite canvas]]></title>
-        <id>https://visuali.io</id>
-        <link href="https://visuali.io"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[DADiff: Diffusion-Driven Cross-Domain Policy Adaptation for Reinforcement Learning]]></title>
+        <id>https://arxiv.org/abs/2607.16090</id>
+        <link href="https://arxiv.org/abs/2607.16090"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI didn't replace our security team – it multiplied it]]></title>
-        <id>https://webflow.com/blog/ai-didnt-replace-our-security-team</id>
-        <link href="https://webflow.com/blog/ai-didnt-replace-our-security-team"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Understanding Reasoning from Pretraining to Post-Training]]></title>
+        <id>https://arxiv.org/abs/2607.16097</id>
+        <link href="https://arxiv.org/abs/2607.16097"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free, comprehensive SEO analysis of your website (no signup, 100 checks)]]></title>
-        <id>https://www.upstart.quest/en/free-seo-analysis</id>
-        <link href="https://www.upstart.quest/en/free-seo-analysis"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[The Honest Quorum Problem: Epistemic Byzantine Fault Tolerance for Agentic Infrastructure]]></title>
+        <id>https://arxiv.org/abs/2607.16109</id>
+        <link href="https://arxiv.org/abs/2607.16109"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Async Python File IO Using Uring]]></title>
-        <id>https://github.com/meitham/urio</id>
-        <link href="https://github.com/meitham/urio"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessment]]></title>
+        <id>https://arxiv.org/abs/2607.16156</id>
+        <link href="https://arxiv.org/abs/2607.16156"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using AI makes people less likely to admit they don't know something]]></title>
-        <id>https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567</id>
-        <link href="https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Behaviour-Conditioned Neural Processes for Adaptive Residential Short-Term Load Forecasting]]></title>
+        <id>https://arxiv.org/abs/2607.16168</id>
+        <link href="https://arxiv.org/abs/2607.16168"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Zlvox – A no-signup suite of developer tools (JSON, Temp Mail, PDF)]]></title>
-        <id>https://zlvox.com/blog/why-i-stopped-using-random-online-ai-tools-2026</id>
-        <link href="https://zlvox.com/blog/why-i-stopped-using-random-online-ai-tools-2026"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization]]></title>
+        <id>https://arxiv.org/abs/2607.16184</id>
+        <link href="https://arxiv.org/abs/2607.16184"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Design a Url Shortner]]></title>
-        <id>https://blog.danwald.me/design-a-url-shortner</id>
-        <link href="https://blog.danwald.me/design-a-url-shortner"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[An Empirical Study of Handcrafted Feature Learning and Convolutional Neural Networks for Facial Expression Recognition]]></title>
+        <id>https://arxiv.org/abs/2607.15288</id>
+        <link href="https://arxiv.org/abs/2607.15288"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: USB-to-WiFi print server for old printers – do you want it?]]></title>
-        <id>https://news.ycombinator.com/item?id=48966292</id>
-        <link href="https://news.ycombinator.com/item?id=48966292"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding too fast to collaborate]]></title>
-        <id>https://chrisloy.dev/post/2026/07/19/coding-too-fast-to-collaborate</id>
-        <link href="https://chrisloy.dev/post/2026/07/19/coding-too-fast-to-collaborate"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedisME：The most user-friendly RDM in the world]]></title>
-        <id>https://www.hepengju.com/</id>
-        <link href="https://www.hepengju.com/"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node graphs suck for metrics and traces]]></title>
-        <id>https://play.mapgl.org</id>
-        <link href="https://play.mapgl.org"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dumber Mini: A Nokia-Style Phone with WhatsApp and Maps]]></title>
-        <id>https://dumbermini.com/</id>
-        <link href="https://dumbermini.com/"/>
-        <updated>2026-07-18T16:00:00.000Z</updated>
-        <published>2026-07-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A Physics-Informed Neural Network with a Modified Lorentzian Activation for Nonlocal Gradient-Flow Equations in Dynamic Density Functional Theory]]></title>
+        <id>https://arxiv.org/abs/2607.15291</id>
+        <link href="https://arxiv.org/abs/2607.15291"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
 </feed>
