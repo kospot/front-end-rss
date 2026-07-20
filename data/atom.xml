@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-20T13:01:51.843Z</updated>
+    <updated>2026-07-20T15:03:10.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[AliExpress fined almost $630 million over illegal product sales]]></title>
-        <id>https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products</id>
-        <link href="https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China delivers a one-two punch to America’s AI dominance ]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen"/>
+        <title type="html"><![CDATA[This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)]]></title>
+        <id>https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review</id>
+        <link href="https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
@@ -36,9 +29,16 @@
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)]]></title>
-        <id>https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review</id>
-        <link href="https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review"/>
+        <title type="html"><![CDATA[China delivers a one-two punch to America’s AI dominance ]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AliExpress fined almost $630 million over illegal product sales]]></title>
+        <id>https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products</id>
+        <link href="https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[Elite Young Runners Are Becoming Freakishly Fast. Welcome to ‘Trackflation’]]></title>
         <id>https://www.wired.com/story/teenagers-running-trackflation/</id>
         <link href="https://www.wired.com/story/teenagers-running-trackflation/"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies]]></title>
+        <id>https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/</id>
+        <link href="https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
@@ -253,23 +260,16 @@
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Replaced One $15-Per-Million-Token Frontier Model With Five Cheap Ones Arguing With Each Other.]]></title>
-        <id>https://pub.towardsai.net/i-replaced-one-15-per-million-token-frontier-model-with-five-cheap-ones-arguing-with-each-other-68ec4b1f3022?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-replaced-one-15-per-million-token-frontier-model-with-five-cheap-ones-arguing-with-each-other-68ec4b1f3022?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[GRPO from Scratch: Group Relative Policy Optimization in Python]]></title>
+        <id>https://pub.towardsai.net/grpo-from-scratch-group-relative-policy-optimization-in-python-c2c5fb1df4b3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/grpo-from-scratch-group-relative-policy-optimization-in-python-c2c5fb1df4b3?source=rss----98111c9905da---4"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Helped 50,000 People Set Up Claude Code. Here’s What I Didn’t Tell Them]]></title>
-        <id>https://pub.towardsai.net/i-helped-50-000-people-set-up-claude-code-heres-what-i-didn-t-tell-them-1e9a9e936b74?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-helped-50-000-people-set-up-claude-code-heres-what-i-didn-t-tell-them-1e9a9e936b74?source=rss----98111c9905da---4"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSearch Optimizations for Production RAG, Part 2: Lexical Retrieval]]></title>
-        <id>https://pub.towardsai.net/opensearch-optimizations-for-production-rag-part-2-lexical-retrieval-f90f1b2d04b0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/opensearch-optimizations-for-production-rag-part-2-lexical-retrieval-f90f1b2d04b0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I Tried to Break an AI’s Security — Here’s Everything I Learned as a Complete Beginner]]></title>
+        <id>https://pub.towardsai.net/i-tried-to-break-an-ais-security-here-s-everything-i-learned-as-a-complete-beginner-56ac3d6e9fd9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tried-to-break-an-ais-security-here-s-everything-i-learned-as-a-complete-beginner-56ac3d6e9fd9?source=rss----98111c9905da---4"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
@@ -281,9 +281,23 @@
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tried to Break an AI’s Security — Here’s Everything I Learned as a Complete Beginner]]></title>
-        <id>https://pub.towardsai.net/i-tried-to-break-an-ais-security-here-s-everything-i-learned-as-a-complete-beginner-56ac3d6e9fd9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-tried-to-break-an-ais-security-here-s-everything-i-learned-as-a-complete-beginner-56ac3d6e9fd9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[OpenSearch Optimizations for Production RAG, Part 2: Lexical Retrieval]]></title>
+        <id>https://pub.towardsai.net/opensearch-optimizations-for-production-rag-part-2-lexical-retrieval-f90f1b2d04b0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/opensearch-optimizations-for-production-rag-part-2-lexical-retrieval-f90f1b2d04b0?source=rss----98111c9905da---4"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Helped 50,000 People Set Up Claude Code. Here’s What I Didn’t Tell Them]]></title>
+        <id>https://pub.towardsai.net/i-helped-50-000-people-set-up-claude-code-heres-what-i-didn-t-tell-them-1e9a9e936b74?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-helped-50-000-people-set-up-claude-code-heres-what-i-didn-t-tell-them-1e9a9e936b74?source=rss----98111c9905da---4"/>
+        <updated>2026-07-19T16:00:00.000Z</updated>
+        <published>2026-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Replaced One $15-Per-Million-Token Frontier Model With Five Cheap Ones Arguing With Each Other.]]></title>
+        <id>https://pub.towardsai.net/i-replaced-one-15-per-million-token-frontier-model-with-five-cheap-ones-arguing-with-each-other-68ec4b1f3022?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-replaced-one-15-per-million-token-frontier-model-with-five-cheap-ones-arguing-with-each-other-68ec4b1f3022?source=rss----98111c9905da---4"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Field-Aware RankMixer with Dual-Stream Bilinear Fusion for the Tencent UNI-REC Challenge]]></title>
         <id>https://arxiv.org/abs/2607.15590</id>
         <link href="https://arxiv.org/abs/2607.15590"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASK-NN: An Asymmetric Nearest-Neighbor Test that detects Distribution Drifts in Natural Language]]></title>
-        <id>https://arxiv.org/abs/2607.15607</id>
-        <link href="https://arxiv.org/abs/2607.15607"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Benchmark for Electrical Load Forecasting Across Grid Levels: Time-Series Transformers Outperform Established Methods]]></title>
-        <id>https://arxiv.org/abs/2607.15705</id>
-        <link href="https://arxiv.org/abs/2607.15705"/>
         <updated>2026-07-19T16:00:00.000Z</updated>
         <published>2026-07-19T16:00:00.000Z</published>
     </entry>
