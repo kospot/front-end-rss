@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-21T02:00:58.014Z</updated>
+    <updated>2026-07-21T04:01:38.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[App+1 | 把「从长视频截取片段」做到极致：Trimly]]></title>
+        <id>https://sspai.com/post/111569</id>
+        <link href="https://sspai.com/post/111569"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The FCC is planning to retroactively ban disguised DJI gadgets]]></title>
         <id>https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra</id>
@@ -85,114 +92,51 @@
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic's Landmark $1.5B Copyright Settlement Is Approved]]></title>
-        <id>https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/</id>
-        <link href="https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"/>
+        <title type="html"><![CDATA[A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste]]></title>
+        <id>https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/</id>
+        <link href="https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Rise (and Fall?) Of Palantir [video]]]></title>
-        <id>https://www.youtube.com/watch?v=SfGUzSYEqY0</id>
-        <link href="https://www.youtube.com/watch?v=SfGUzSYEqY0"/>
+        <title type="html"><![CDATA[Writers need new strategies to stand up to AI]]></title>
+        <id>https://www.thedial.world/articles/news/copyright-law-ai-intellectual-property</id>
+        <link href="https://www.thedial.world/articles/news/copyright-law-ai-intellectual-property"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: How to Get a Fable CoT for the Jacobian Conjecture Refutation]]></title>
-        <id>https://news.ycombinator.com/item?id=48986943</id>
-        <link href="https://news.ycombinator.com/item?id=48986943"/>
+        <title type="html"><![CDATA[Scientists Visualize the Complex, Dynamic World Inside a Human Cell]]></title>
+        <id>https://mymodernmet.com/eukaryotic-cell-digizyme/</id>
+        <link href="https://mymodernmet.com/eukaryotic-cell-digizyme/"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I made email signatures less boring]]></title>
-        <id>https://esigna.app</id>
-        <link href="https://esigna.app"/>
+        <title type="html"><![CDATA[US judge approves Anthropic's $1.5B settlement of copyright lawsuit]]></title>
+        <id>https://finance.yahoo.com/technology/ai/articles/us-judge-approves-anthropics-1-204851948.html</id>
+        <link href="https://finance.yahoo.com/technology/ai/articles/us-judge-approves-anthropics-1-204851948.html"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turning robot video into training-ready data]]></title>
-        <id>https://www.eventual.ai/blog/announcing-daft-physical-ai</id>
-        <link href="https://www.eventual.ai/blog/announcing-daft-physical-ai"/>
+        <title type="html"><![CDATA[Magnet Fishing on a Military Base [video]]]></title>
+        <id>https://www.youtube.com/watch?v=l0uMGoW1KPM</id>
+        <link href="https://www.youtube.com/watch?v=l0uMGoW1KPM"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Yaml2json.com, YAML/JSON converter that runs in the browser]]></title>
-        <id>https://yaml2json.com</id>
-        <link href="https://yaml2json.com"/>
+        <title type="html"><![CDATA[A Practical Guide to Calculating, Pricing, and Building Recurring]]></title>
+        <id>https://ebookbizai.com/store/maggiebookhub/home</id>
+        <link href="https://ebookbizai.com/store/maggiebookhub/home"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Messy Reality of AI Transformation]]></title>
-        <id>https://seasonedleadership.substack.com/p/the-messy-reality-of-ai-transformation</id>
-        <link href="https://seasonedleadership.substack.com/p/the-messy-reality-of-ai-transformation"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Seek – Ctrl+F for Videos]]></title>
-        <id>https://seekapp.cc</id>
-        <link href="https://seekapp.cc"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parsifal and The Muppet Movie are the only two genuine Gesamtkunstwerke]]></title>
-        <id>https://morbidcuriosity.substack.com/p/enthullet-die-rainbow-connection</id>
-        <link href="https://morbidcuriosity.substack.com/p/enthullet-die-rainbow-connection"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Yarn Spinner Public License]]></title>
-        <id>https://yarnspinner.dev/yspl</id>
-        <link href="https://yarnspinner.dev/yspl"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Code Quality is now generally available]]></title>
-        <id>https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/</id>
-        <link href="https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google plans new chip to run Gemini models more efficiently]]></title>
-        <id>https://www.reuters.com/business/google-plans-new-chip-run-gemini-models-more-efficiently-information-reports-2026-07-20/</id>
-        <link href="https://www.reuters.com/business/google-plans-new-chip-run-gemini-models-more-efficiently-information-reports-2026-07-20/"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How are you interviewing engineers in this agentic era?]]></title>
-        <id>https://news.ycombinator.com/item?id=48986353</id>
-        <link href="https://news.ycombinator.com/item?id=48986353"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wax On, Weights Off: Knowledge Distillation Explained]]></title>
-        <id>https://jdsemrau.substack.com/p/knowledge-distillation-attacks</id>
-        <link href="https://jdsemrau.substack.com/p/knowledge-distillation-attacks"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The $100M Mistake Making Modern Movies Look So Cheap]]></title>
-        <id>https://comuniq.xyz/post?t=1415</id>
-        <link href="https://comuniq.xyz/post?t=1415"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bdinfo-rs – Rust cross-platform Blu-ray analyzer (GUI and CLI and WASM)]]></title>
-        <id>https://github.com/agentjp/bdinfo-rs</id>
-        <link href="https://github.com/agentjp/bdinfo-rs"/>
+        <title type="html"><![CDATA[Building Agentic Workflows in Python with LangGraph]]></title>
+        <id>https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/</id>
+        <link href="https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
@@ -204,9 +148,142 @@
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Traditional Retrieval Is Breaking Enterprise AI.]]></title>
-        <id>https://pub.towardsai.net/traditional-retrieval-is-breaking-enterprise-ai-7387ff445280?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/traditional-retrieval-is-breaking-enterprise-ai-7387ff445280?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Bdinfo-rs – Rust cross-platform Blu-ray analyzer (GUI and CLI and WASM)]]></title>
+        <id>https://github.com/agentjp/bdinfo-rs</id>
+        <link href="https://github.com/agentjp/bdinfo-rs"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $100M Mistake Making Modern Movies Look So Cheap]]></title>
+        <id>https://comuniq.xyz/post?t=1415</id>
+        <link href="https://comuniq.xyz/post?t=1415"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wax On, Weights Off: Knowledge Distillation Explained]]></title>
+        <id>https://jdsemrau.substack.com/p/knowledge-distillation-attacks</id>
+        <link href="https://jdsemrau.substack.com/p/knowledge-distillation-attacks"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How are you interviewing engineers in this agentic era?]]></title>
+        <id>https://news.ycombinator.com/item?id=48986353</id>
+        <link href="https://news.ycombinator.com/item?id=48986353"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google plans new chip to run Gemini models more efficiently]]></title>
+        <id>https://www.reuters.com/business/google-plans-new-chip-run-gemini-models-more-efficiently-information-reports-2026-07-20/</id>
+        <link href="https://www.reuters.com/business/google-plans-new-chip-run-gemini-models-more-efficiently-information-reports-2026-07-20/"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Code Quality is now generally available]]></title>
+        <id>https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/</id>
+        <link href="https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Yarn Spinner Public License]]></title>
+        <id>https://yarnspinner.dev/yspl</id>
+        <link href="https://yarnspinner.dev/yspl"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsifal and The Muppet Movie are the only two genuine Gesamtkunstwerke]]></title>
+        <id>https://morbidcuriosity.substack.com/p/enthullet-die-rainbow-connection</id>
+        <link href="https://morbidcuriosity.substack.com/p/enthullet-die-rainbow-connection"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Seek – Ctrl+F for Videos]]></title>
+        <id>https://seekapp.cc</id>
+        <link href="https://seekapp.cc"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Messy Reality of AI Transformation]]></title>
+        <id>https://seasonedleadership.substack.com/p/the-messy-reality-of-ai-transformation</id>
+        <link href="https://seasonedleadership.substack.com/p/the-messy-reality-of-ai-transformation"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Yaml2json.com, YAML/JSON converter that runs in the browser]]></title>
+        <id>https://yaml2json.com</id>
+        <link href="https://yaml2json.com"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning robot video into training-ready data]]></title>
+        <id>https://www.eventual.ai/blog/announcing-daft-physical-ai</id>
+        <link href="https://www.eventual.ai/blog/announcing-daft-physical-ai"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made email signatures less boring]]></title>
+        <id>https://esigna.app</id>
+        <link href="https://esigna.app"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: How to Get a Fable CoT for the Jacobian Conjecture Refutation]]></title>
+        <id>https://news.ycombinator.com/item?id=48986943</id>
+        <link href="https://news.ycombinator.com/item?id=48986943"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise (and Fall?) Of Palantir [video]]]></title>
+        <id>https://www.youtube.com/watch?v=SfGUzSYEqY0</id>
+        <link href="https://www.youtube.com/watch?v=SfGUzSYEqY0"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic's Landmark $1.5B Copyright Settlement Is Approved]]></title>
+        <id>https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/</id>
+        <link href="https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The MCP 2026–07–28 Spec Just Dropped — Here’s How to Build a Production-Ready MCP Server with…]]></title>
+        <id>https://pub.towardsai.net/the-mcp-2026-07-28-spec-just-dropped-heres-how-to-build-a-production-ready-mcp-server-with-1c720f176ae0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-mcp-2026-07-28-spec-just-dropped-heres-how-to-build-a-production-ready-mcp-server-with-1c720f176ae0?source=rss----98111c9905da---4"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Tokens to RAG: An AI Field Guide for Developers]]></title>
+        <id>https://pub.towardsai.net/from-tokens-to-rag-an-ai-field-guide-for-developers-2829175774af?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/from-tokens-to-rag-an-ai-field-guide-for-developers-2829175774af?source=rss----98111c9905da---4"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Loops vs Agent Graphs: Google Tested 180 Setups and the Graphs Collapsed by 70%]]></title>
+        <id>https://pub.towardsai.net/google-ran-180-agent-configurations-multi-agent-graphs-collapsed-by-up-to-70-on-sequential-tasks-49c294479fbd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/google-ran-180-agent-configurations-multi-agent-graphs-collapsed-by-up-to-70-on-sequential-tasks-49c294479fbd?source=rss----98111c9905da---4"/>
+        <updated>2026-07-20T16:00:00.000Z</updated>
+        <published>2026-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secured MCP Complete Guide: OWASP Top 10, Best Practices, Security Guardrails, and Compliance]]></title>
+        <id>https://pub.towardsai.net/secured-mcp-complete-guide-owasp-top-10-best-practices-security-guardrails-and-compliance-dbd33af77710?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/secured-mcp-complete-guide-owasp-top-10-best-practices-security-guardrails-and-compliance-dbd33af77710?source=rss----98111c9905da---4"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
@@ -218,168 +295,73 @@
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-React component for structured queries
-]]></title>
-        <id>
-https://github.com/evoluteur/structured-filter-react
-</id>
-        <link href="
-https://github.com/evoluteur/structured-filter-react
-"/>
+        <title type="html"><![CDATA[Traditional Retrieval Is Breaking Enterprise AI.]]></title>
+        <id>https://pub.towardsai.net/traditional-retrieval-is-breaking-enterprise-ai-7387ff445280?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/traditional-retrieval-is-breaking-enterprise-ai-7387ff445280?source=rss----98111c9905da---4"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-@pinceladasdaweb/rabbitmq npm package
-]]></title>
-        <id>
-https://github.com/pinceladasdaweb/rabbitmq
-</id>
-        <link href="
-https://github.com/pinceladasdaweb/rabbitmq
-"/>
+        <title type="html"><![CDATA[Reinforcement Learning-Guided NSGA-II Enhanced with Gray Relational Coefficient for Multi-Objective Optimization: Application to NASDAQ Portfolio Optimization]]></title>
+        <id>https://arxiv.org/abs/2607.16194</id>
+        <link href="https://arxiv.org/abs/2607.16194"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-When React Hooks Stop Scaling: Moving Complex State to Zustand
-]]></title>
-        <id>
-https://orizens.com/blog/2026-06-18-zustand/
-</id>
-        <link href="
-https://orizens.com/blog/2026-06-18-zustand/
-"/>
+        <title type="html"><![CDATA[Orthogonal Gradient Constraints Shape Noisy-Label Memorization Dynamics]]></title>
+        <id>https://arxiv.org/abs/2607.16231</id>
+        <link href="https://arxiv.org/abs/2607.16231"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why We Build Browser Games on Three.js]]></title>
-        <id>https://dev.to/paulcrinigan/why-we-build-browser-games-on-threejs-n39</id>
-        <link href="https://dev.to/paulcrinigan/why-we-build-browser-games-on-threejs-n39"/>
+        <title type="html"><![CDATA[From Weights to Words: Expressing and Editing Preference Model Inferences in Natural Language]]></title>
+        <id>https://arxiv.org/abs/2607.16232</id>
+        <link href="https://arxiv.org/abs/2607.16232"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FDA Recall API: A Working Guide to openFDA Enforcement]]></title>
-        <id>https://dev.to/mayd-it/fda-recall-api-a-working-guide-to-openfda-enforcement-2hp2</id>
-        <link href="https://dev.to/mayd-it/fda-recall-api-a-working-guide-to-openfda-enforcement-2hp2"/>
+        <title type="html"><![CDATA[Token-Level Cross-Modal Transformer with Contrastive Multi-Task Learning for Breast Cancer Subtype Classification and Survival Prediction]]></title>
+        <id>https://arxiv.org/abs/2607.16233</id>
+        <link href="https://arxiv.org/abs/2607.16233"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering JSON: Tips for Confident Data Handling]]></title>
-        <id>https://dev.to/binaryjournal/mastering-json-tips-for-confident-data-handling-4ojo</id>
-        <link href="https://dev.to/binaryjournal/mastering-json-tips-for-confident-data-handling-4ojo"/>
+        <title type="html"><![CDATA[OpenMHC: Accelerating the Science of Wearable Foundation Models]]></title>
+        <id>https://arxiv.org/abs/2607.16235</id>
+        <link href="https://arxiv.org/abs/2607.16235"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Local-Only Chrome Extension That Autofills Job Application Forms]]></title>
-        <id>https://dev.to/bokuwalily/building-a-local-only-chrome-extension-that-autofills-job-application-forms-4f8a</id>
-        <link href="https://dev.to/bokuwalily/building-a-local-only-chrome-extension-that-autofills-job-application-forms-4f8a"/>
+        <title type="html"><![CDATA[The Failures of Marginal Influence-Based Attribution Methods for Global Time Series Explanations]]></title>
+        <id>https://arxiv.org/abs/2607.16236</id>
+        <link href="https://arxiv.org/abs/2607.16236"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I Built A Custom Video Player (And Ended the Multi-Week Engineering Nightmare)]]></title>
-        <id>https://dev.to/forever_d1f9b3184dda50e9a/why-i-built-a-custom-video-player-and-ended-the-multi-week-engineering-nightmare-4a4l</id>
-        <link href="https://dev.to/forever_d1f9b3184dda50e9a/why-i-built-a-custom-video-player-and-ended-the-multi-week-engineering-nightmare-4a4l"/>
+        <title type="html"><![CDATA[Diffusion-corrected Autoregressive Fourier Neural Operator for Droplet Evolution Prediction]]></title>
+        <id>https://arxiv.org/abs/2607.16238</id>
+        <link href="https://arxiv.org/abs/2607.16238"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trusted Platforms for Buying Verified Old GitHub Accounts]]></title>
-        <id>https://dev.to/eilisfarleypgmnm/trusted-platforms-for-buying-verified-old-github-accounts-34n8</id>
-        <link href="https://dev.to/eilisfarleypgmnm/trusted-platforms-for-buying-verified-old-github-accounts-34n8"/>
+        <title type="html"><![CDATA[BACON: Budgeted Human Calibration for Modeling and Evaluation with Multiple AI Judges]]></title>
+        <id>https://arxiv.org/abs/2607.16239</id>
+        <link href="https://arxiv.org/abs/2607.16239"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js App Shows a White Screen After Vercel Deploy: 5 Real Causes]]></title>
-        <id>https://dev.to/toritic/nextjs-app-shows-a-white-screen-after-vercel-deploy-5-real-causes-4fh6</id>
-        <link href="https://dev.to/toritic/nextjs-app-shows-a-white-screen-after-vercel-deploy-5-real-causes-4fh6"/>
+        <title type="html"><![CDATA[KernelBench-Verified: Do LLM-Generated Kernels Actually Beat PyTorch?]]></title>
+        <id>https://arxiv.org/abs/2607.16241</id>
+        <link href="https://arxiv.org/abs/2607.16241"/>
         <updated>2026-07-20T16:00:00.000Z</updated>
         <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Product Demo Video in React]]></title>
-        <id>https://dev.to/remocn/how-to-make-a-product-demo-video-in-react-ief</id>
-        <link href="https://dev.to/remocn/how-to-make-a-product-demo-video-in-react-ief"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Smaller Foundation for JavaScript Reactivity]]></title>
-        <id>https://dev.to/doeixd/a-smaller-foundation-for-javascript-reactivity-2fad</id>
-        <link href="https://dev.to/doeixd/a-smaller-foundation-for-javascript-reactivity-2fad"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Ways to Buy Old Gmail Account in the US | Friendly]]></title>
-        <id>https://dev.to/alexineharrellvuk30/best-ways-to-buy-old-gmail-account-in-the-us-friendly-3h16</id>
-        <link href="https://dev.to/alexineharrellvuk30/best-ways-to-buy-old-gmail-account-in-the-us-friendly-3h16"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Advanced Server-Side Caching Patterns in Next.js]]></title>
-        <id>https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-1l54</id>
-        <link href="https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-1l54"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SvelteKit 2 Complete Guide: From Zero to Production (2026)]]></title>
-        <id>https://dev.to/stacknotice/sveltekit-2-complete-guide-from-zero-to-production-2026-b99</id>
-        <link href="https://dev.to/stacknotice/sveltekit-2-complete-guide-from-zero-to-production-2026-b99"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debug React Context Renders: The Latest Update to useRenderReason]]></title>
-        <id>https://dev.to/saurav_tb_pandey/debug-react-context-renders-the-latest-update-to-userenderreason-22pp</id>
-        <link href="https://dev.to/saurav_tb_pandey/debug-react-context-renders-the-latest-update-to-userenderreason-22pp"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Durable Objects on Cloudflare]]></title>
-        <id>https://master.dev/blog/durable-objects-on-cloudflare/</id>
-        <link href="https://master.dev/blog/durable-objects-on-cloudflare/"/>
-        <updated>2026-07-20T16:00:00.000Z</updated>
-        <published>2026-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)]]></title>
-        <id>https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review</id>
-        <link href="https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I hate that I don’t hate this song made with Suno]]></title>
-        <id>https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music</id>
-        <link href="https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China delivers a one-two punch to America’s AI dominance ]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AliExpress fined almost $630 million over illegal product sales]]></title>
-        <id>https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products</id>
-        <link href="https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products"/>
-        <updated>2026-07-19T16:00:00.000Z</updated>
-        <published>2026-07-19T16:00:00.000Z</published>
     </entry>
 </feed>
