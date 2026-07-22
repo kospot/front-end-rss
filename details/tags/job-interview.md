@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-22 10:01:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-22 12:02:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -8,6 +8,7 @@
 
 
 - [2026-07-01-The-OpenClaw-Creator-Stack:-How-to-Turn-Tutorials-Into-Paid-AI-Offers](https://pub.towardsai.net/the-openclaw-creator-stack-how-to-turn-tutorials-into-paid-ai-offers-b463e6576b46?source=rss----98111c9905da---4) 
+- [2026-07-22-A-simple-API-for-offering-your-coding-agent-a-smoke-break](https://smoke-break.pineapplefreefall.com) 
 - [2026-07-16-Uber-Announces-Acquisition-Offer-for-Delivery-Hero-at-$14.8B](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Acquisition-Offer-for-Delivery-Hero/default.aspx) 
 - [2026-07-15-Stripe,-Advent-offer-to-buy-PayPal-for-more-than-$53B](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) 
 - [2026-07-01-Fedora-45-Looks-to-Offer-Install-Support-for-Stratis-Storage](https://www.phoronix.com/news/Fedora-45-Stratis-Storage) 
