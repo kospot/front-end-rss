@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-22 23:04:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-23 06:00:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -13,6 +13,5 @@
 - [2026-07-05-mrdoob/three.js](https://github.com/mrdoob/three.js) 
 - [2026-07-18-Show-HN:-Find-someone-in-the-dark-–-light-them-or-light-yourself?-Three.js](https://github.com/skorotkiewicz/signal-in-the-dark) 
 - [2026-07-13-Show-HN:-A-Sims-style-house-builder-in-the-browser-Three.js,-no-back-end](https://github.com/ch-bas/threejs-sims-house-builder) 
-- [2026-06-23-Still-Water-Colors:-interactive-Three.js-pigment-art](https://sand-morph.up.railway.app/still-water-colors) 
 - [2026-07-22-Parti：一个零门槛联机游戏平台，凭什么不需要服务器？](https://sspai.com/post/112545) 
 - [2026-07-02-家用游戏机的新选择，Steam-Machine-玩起来怎么样？](https://sspai.com/post/111763) 
