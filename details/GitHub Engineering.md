@@ -1,28 +1,28 @@
-:alarm_clock: 更新时间: 2026-07-23 06:00:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-24 06:01:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## GitHub Engineering
 
 
 
 
-- [2026-07-23-Next-chapter:-Restructuring-GitHub’s-bug-bounty-program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/) 
+- [2026-07-24-The-case-for-a-cooldown:-Why-Dependabot-now-waits-before-issuing-version-updates](https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/) 
 - [2026-07-23-Copilot-vs.-raw-API-access:-What-are-you-actually-paying-for?](https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/) 
+- [2026-07-23-Next-chapter:-Restructuring-GitHub’s-bug-bounty-program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/) 
 - [2026-07-22-How-to-build-interactive-experiences-with-canvases](https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/) 
 - [2026-07-21-$100-million-for-open-source:-A-milestone-built-by-the-community](https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/) 
 - [2026-07-18-The-cost-of-saying-yes-has-changed](https://github.blog/engineering/the-cost-of-saying-yes-has-changed/) 
 - [2026-07-16-GitHub-for-Beginners:-Your-roadmap-to-mastering-the-GitHub-essentials](https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/) 
-- [2026-07-10-Better-tools-made-Copilot-code-review-worse.-Here’s-how-we-actually-improved-it.](https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/) 
 - [2026-07-10-How-GitHub-gave-every-repository-a-durable-owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/) 
-- [2026-07-09-Automating-cross-repo-documentation-with-GitHub-Agentic-Workflows](https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/) 
-- [2026-07-09-GitHub-availability-report:-June-2026](https://github.blog/news-insights/company-news/github-availability-report-june-2026/) 
+- [2026-07-10-Better-tools-made-Copilot-code-review-worse.-Here’s-how-we-actually-improved-it.](https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/) 
 - [2026-07-09-How-GitHub-Copilot-enables-zero-DNS-configuration-for-GitHub-Pages](https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/) 
+- [2026-07-09-GitHub-availability-report:-June-2026](https://github.blog/news-insights/company-news/github-availability-report-june-2026/) 
+- [2026-07-09-Automating-cross-repo-documentation-with-GitHub-Agentic-Workflows](https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/) 
 - [2026-07-08-Q1-2026-Innovation-Graph-update:-Open-source-collaboration-is-accelerating-worldwide](https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/) 
 - [2026-07-03-How-GitHub-used-secret-scanning-to-reach-inbox-zero](https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/) 
-- [2026-07-01-How-GitHub-maintains-compliance-for-open-source-dependencies](https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/) 
 - [2026-07-01-6-security-settings-every-GitHub-maintainer-should-enable-this-week](https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/) 
-- [2026-06-30-Inside-the-Advisory-Database-and-what-happens-when-vulnerability-volume-breaks-records](https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/) 
+- [2026-07-01-How-GitHub-maintains-compliance-for-open-source-dependencies](https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/) 
 - [2026-06-30-Highlights-from-Git-2.55](https://github.blog/open-source/git/highlights-from-git-2-55/) 
+- [2026-06-30-Inside-the-Advisory-Database-and-what-happens-when-vulnerability-volume-breaks-records](https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/) 
 - [2026-06-27-GitHub-and-UNDP-team-up-to-advance-development-priorities-in-Ghana-with-open-source](https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/) 
-- [2026-06-26-Evaluating-performance-and-efficiency-of-the-GitHub-Copilot-agentic-harness-across-models-and-tasks](https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/) 
 - [2026-06-26-Transitioning-as-a-hubber](https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/) 
-- [2026-06-24-I-automated-my-job-and-it-made-me-a-better-leader](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/) 
+- [2026-06-26-Evaluating-performance-and-efficiency-of-the-GitHub-Copilot-agentic-harness-across-models-and-tasks](https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/) 
