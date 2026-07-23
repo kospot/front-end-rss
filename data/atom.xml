@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-23T07:03:22.355Z</updated>
+    <updated>2026-07-23T10:02:27.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy]]></title>
-        <id>https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine</id>
-        <link href="https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine"/>
+        <title type="html"><![CDATA[Google now lets you sign in to your account using a selfie video]]></title>
+        <id>https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security</id>
+        <link href="https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Framework’s premium laptop is shipping with less RAM]]></title>
+        <id>https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates</id>
+        <link href="https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
@@ -25,6 +32,27 @@
         <title type="html"><![CDATA[Meta won’t have to face the next planned social media addiction trial]]></title>
         <id>https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped</id>
         <link href="https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy]]></title>
+        <id>https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine</id>
+        <link href="https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Week of Transparent Living With Apple’s ‘More Clear’ Liquid Glass Setting]]></title>
+        <id>https://www.wired.com/story/my-week-of-transparent-living-with-apples-more-clear-liquid-glass-setting/</id>
+        <link href="https://www.wired.com/story/my-week-of-transparent-living-with-apples-more-clear-liquid-glass-setting/"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘The Child Is Terrified’: Measles Doctors Speak Out]]></title>
+        <id>https://www.wired.com/story/the-child-is-terrified-measles-doctors-speak-out/</id>
+        <link href="https://www.wired.com/story/the-child-is-terrified-measles-doctors-speak-out/"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
@@ -64,184 +92,72 @@
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Agentmux – iOS terminal and workspace built for CLI AI agents]]></title>
-        <id>https://agentmux.saxcave.cc/</id>
-        <link href="https://agentmux.saxcave.cc/"/>
+        <title type="html"><![CDATA[Bstansell/conserver: Logged, multi-user access to device consoles]]></title>
+        <id>https://github.com/bstansell/conserver</id>
+        <link href="https://github.com/bstansell/conserver"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: DocBrain, turns merged PRs and Slack threads into documentation]]></title>
-        <id>https://github.com/docbrain-ai/docbrain</id>
-        <link href="https://github.com/docbrain-ai/docbrain"/>
+        <title type="html"><![CDATA[CanvasUI: HTML-in-Canvas Component Library]]></title>
+        <id>https://canvasui.dev</id>
+        <link href="https://canvasui.dev"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MemoHood and MemoBase – local memory and knowledge base for AI agents]]></title>
-        <id>https://github.com/mxskorohood-cmd/memobase</id>
-        <link href="https://github.com/mxskorohood-cmd/memobase"/>
+        <title type="html"><![CDATA[Accidentally built a 500-site SEO mesh network and got 3k visits in 14 days]]></title>
+        <id>https://visionvix.com/seo-mesh-network/</id>
+        <link href="https://visionvix.com/seo-mesh-network/"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Extreme SIMD: Optimized Collision Detection in Titanfall (2018) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=6BIfqfC1i7U</id>
-        <link href="https://www.youtube.com/watch?v=6BIfqfC1i7U"/>
+        <title type="html"><![CDATA[Show HN: NvChat – A single-exe Windows client for Nvidia's free LLM API]]></title>
+        <id>https://github.com/akon47/NvChat</id>
+        <link href="https://github.com/akon47/NvChat"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review of my Open AI build week feedback please]]></title>
-        <id>https://devpost.com/software/grantscout-app</id>
-        <link href="https://devpost.com/software/grantscout-app"/>
+        <title type="html"><![CDATA[Tangled – tail CI logs over SSH]]></title>
+        <id>https://blog.tangled.org/ssh/</id>
+        <link href="https://blog.tangled.org/ssh/"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dune II, RTS on C64 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=smiQnlbqpKw</id>
-        <link href="https://www.youtube.com/watch?v=smiQnlbqpKw"/>
+        <title type="html"><![CDATA[Yes, you can copy our eval setup]]></title>
+        <id>https://langfuse.com/blog/2026-07-16-steal-our-eval-setup</id>
+        <link href="https://langfuse.com/blog/2026-07-16-steal-our-eval-setup"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub issues $100k bounty for critical RCE vulnerability]]></title>
-        <id>https://runtimewire.com/article/github-issues-100-000-bounty-for-critical-rce-vulnerability-disclosed-by-sagitz</id>
-        <link href="https://runtimewire.com/article/github-issues-100-000-bounty-for-critical-rce-vulnerability-disclosed-by-sagitz"/>
+        <title type="html"><![CDATA[Liang Wenfeng Investor Exchange Meeting · Audio Transcript]]></title>
+        <id>https://www.fredgao.com/p/deepseeks-liang-wenfeng-breaks-his</id>
+        <link href="https://www.fredgao.com/p/deepseeks-liang-wenfeng-breaks-his"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Will AI assistants become photorealistic video?]]></title>
-        <id>https://news.ycombinator.com/item?id=49015708</id>
-        <link href="https://news.ycombinator.com/item?id=49015708"/>
+        <title type="html"><![CDATA[The forbidden railway: Vienna – Pyongyang (2008)]]></title>
+        <id>http://vienna-pyongyang.blogspot.com/</id>
+        <link href="http://vienna-pyongyang.blogspot.com/"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Own the Loop: A Field Guide to Agent Harnesses]]></title>
-        <id>https://twitter.com/aparnadhinak/status/2073079029624943040</id>
-        <link href="https://twitter.com/aparnadhinak/status/2073079029624943040"/>
+        <title type="html"><![CDATA[Trump's Plan for Science: More Money for A.I., Less for Universities]]></title>
+        <id>https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html</id>
+        <link href="https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[House passes NDAA 216–212 to integrate Israel and US militaries]]></title>
-        <id>https://twitter.com/DropSiteNews/status/2080043694804312106</id>
-        <link href="https://twitter.com/DropSiteNews/status/2080043694804312106"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI's accidental cyberattack against Hugging Face is science fiction]]></title>
-        <id>https://simonwillison.net/2026/Jul/22/openai-cyberattack/</id>
-        <link href="https://simonwillison.net/2026/Jul/22/openai-cyberattack/"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Durable Objects Are Made for Agents]]></title>
-        <id>https://calv.info/durable-objects-are-made-for-agents</id>
-        <link href="https://calv.info/durable-objects-are-made-for-agents"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Review of Cube]]></title>
-        <id>https://blog.strata.do/p/full-review-of-cube</id>
-        <link href="https://blog.strata.do/p/full-review-of-cube"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacker's Guide to UART Root Shells [video]]]></title>
-        <id>https://www.youtube.com/watch?v=01mw0oTHwxg</id>
-        <link href="https://www.youtube.com/watch?v=01mw0oTHwxg"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any text-to-SQL benchmark should address difficulties of real-world data stores]]></title>
-        <id>https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/</id>
-        <link href="https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running Claude Code on a Jailbroken Kindle over SSH via Tailscale]]></title>
-        <id>https://github.com/Mounstroya/kindle-ssh-guide</id>
-        <link href="https://github.com/Mounstroya/kindle-ssh-guide"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 1.5°C Lie: The Math That Climate Models Are Hiding from You]]></title>
-        <id>https://comuniq.xyz/post?t=1426</id>
-        <link href="https://comuniq.xyz/post?t=1426"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is changing the way consumers shop, and businesses need to get ready]]></title>
-        <id>https://www.rnz.co.nz/news/business/773456/ai-is-changing-the-way-consumers-shop-and-businesses-need-to-get-ready</id>
-        <link href="https://www.rnz.co.nz/news/business/773456/ai-is-changing-the-way-consumers-shop-and-businesses-need-to-get-ready"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Why can't Google create monopolies anymore?]]></title>
-        <id>https://news.ycombinator.com/item?id=49013764</id>
-        <link href="https://news.ycombinator.com/item?id=49013764"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some AI Systems Differentially Downplay Their Creators' Controversies]]></title>
-        <id>https://papers.ssrn.com/sol3/papers.cfm</id>
-        <link href="https://papers.ssrn.com/sol3/papers.cfm"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaos Begets Chaos; Order Begets Order: Agentic Coding as Crystallisation]]></title>
-        <id>https://medium.com/@rotbart/chaos-begets-chaos-order-begets-order-agentic-coding-as-crystallisation-a0261b453ca0</id>
-        <link href="https://medium.com/@rotbart/chaos-begets-chaos-order-begets-order-agentic-coding-as-crystallisation-a0261b453ca0"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GM Is Quietly Becoming a Subscriptions Company]]></title>
-        <id>https://www.businessinsider.com/general-motors-gm-earnings-subscriptions-revenue-business-2026-1</id>
-        <link href="https://www.businessinsider.com/general-motors-gm-earnings-subscriptions-revenue-business-2026-1"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Right to Privacy (Harvard Law Review, 1890)]]></title>
-        <id>https://www.jstor.org/stable/1321160?seq=1</id>
-        <link href="https://www.jstor.org/stable/1321160?seq=1"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indie game studios are supposed to love GenAI, so why do 25 devs to avoid it?]]></title>
-        <id>https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/</id>
-        <link href="https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The worse class in the elder scrolls games is the thief explained]]></title>
-        <id>https://www.youtube.com/watch?v=VkQiolFoOXw</id>
-        <link href="https://www.youtube.com/watch?v=VkQiolFoOXw"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: PokerLLM – Watch Claude, GPT, Gemini, Grok Play Poker Together]]></title>
-        <id>https://poker.sanskarshukla.com</id>
-        <link href="https://poker.sanskarshukla.com"/>
+        <title type="html"><![CDATA[I mapped a warm intro investor network in the Bay Area and NYC]]></title>
+        <id>https://mapofcapital.com/</id>
+        <link href="https://mapofcapital.com/"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
@@ -253,9 +169,184 @@
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I mapped a warm intro investor network in the Bay Area and NYC]]></title>
-        <id>https://mapofcapital.com/</id>
-        <link href="https://mapofcapital.com/"/>
+        <title type="html"><![CDATA[Show HN: PokerLLM – Watch Claude, GPT, Gemini, Grok Play Poker Together]]></title>
+        <id>https://poker.sanskarshukla.com</id>
+        <link href="https://poker.sanskarshukla.com"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The worse class in the elder scrolls games is the thief explained]]></title>
+        <id>https://www.youtube.com/watch?v=VkQiolFoOXw</id>
+        <link href="https://www.youtube.com/watch?v=VkQiolFoOXw"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indie game studios are supposed to love GenAI, so why do 25 devs to avoid it?]]></title>
+        <id>https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/</id>
+        <link href="https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Right to Privacy (Harvard Law Review, 1890)]]></title>
+        <id>https://www.jstor.org/stable/1321160?seq=1</id>
+        <link href="https://www.jstor.org/stable/1321160?seq=1"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GM Is Quietly Becoming a Subscriptions Company]]></title>
+        <id>https://www.businessinsider.com/general-motors-gm-earnings-subscriptions-revenue-business-2026-1</id>
+        <link href="https://www.businessinsider.com/general-motors-gm-earnings-subscriptions-revenue-business-2026-1"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaos Begets Chaos; Order Begets Order: Agentic Coding as Crystallisation]]></title>
+        <id>https://medium.com/@rotbart/chaos-begets-chaos-order-begets-order-agentic-coding-as-crystallisation-a0261b453ca0</id>
+        <link href="https://medium.com/@rotbart/chaos-begets-chaos-order-begets-order-agentic-coding-as-crystallisation-a0261b453ca0"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some AI Systems Differentially Downplay Their Creators' Controversies]]></title>
+        <id>https://papers.ssrn.com/sol3/papers.cfm</id>
+        <link href="https://papers.ssrn.com/sol3/papers.cfm"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Why can't Google create monopolies anymore?]]></title>
+        <id>https://news.ycombinator.com/item?id=49013764</id>
+        <link href="https://news.ycombinator.com/item?id=49013764"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI is changing the way consumers shop, and businesses need to get ready]]></title>
+        <id>https://www.rnz.co.nz/news/business/773456/ai-is-changing-the-way-consumers-shop-and-businesses-need-to-get-ready</id>
+        <link href="https://www.rnz.co.nz/news/business/773456/ai-is-changing-the-way-consumers-shop-and-businesses-need-to-get-ready"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 1.5°C Lie: The Math That Climate Models Are Hiding from You]]></title>
+        <id>https://comuniq.xyz/post?t=1426</id>
+        <link href="https://comuniq.xyz/post?t=1426"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Claude Code on a Jailbroken Kindle over SSH via Tailscale]]></title>
+        <id>https://github.com/Mounstroya/kindle-ssh-guide</id>
+        <link href="https://github.com/Mounstroya/kindle-ssh-guide"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any text-to-SQL benchmark should address difficulties of real-world data stores]]></title>
+        <id>https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/</id>
+        <link href="https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacker's Guide to UART Root Shells [video]]]></title>
+        <id>https://www.youtube.com/watch?v=01mw0oTHwxg</id>
+        <link href="https://www.youtube.com/watch?v=01mw0oTHwxg"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Review of Cube]]></title>
+        <id>https://blog.strata.do/p/full-review-of-cube</id>
+        <link href="https://blog.strata.do/p/full-review-of-cube"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Durable Objects Are Made for Agents]]></title>
+        <id>https://calv.info/durable-objects-are-made-for-agents</id>
+        <link href="https://calv.info/durable-objects-are-made-for-agents"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI's accidental cyberattack against Hugging Face is science fiction]]></title>
+        <id>https://simonwillison.net/2026/Jul/22/openai-cyberattack/</id>
+        <link href="https://simonwillison.net/2026/Jul/22/openai-cyberattack/"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House passes NDAA 216–212 to integrate Israel and US militaries]]></title>
+        <id>https://twitter.com/DropSiteNews/status/2080043694804312106</id>
+        <link href="https://twitter.com/DropSiteNews/status/2080043694804312106"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Own the Loop: A Field Guide to Agent Harnesses]]></title>
+        <id>https://twitter.com/aparnadhinak/status/2073079029624943040</id>
+        <link href="https://twitter.com/aparnadhinak/status/2073079029624943040"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Will AI assistants become photorealistic video?]]></title>
+        <id>https://news.ycombinator.com/item?id=49015708</id>
+        <link href="https://news.ycombinator.com/item?id=49015708"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub issues $100k bounty for critical RCE vulnerability]]></title>
+        <id>https://runtimewire.com/article/github-issues-100-000-bounty-for-critical-rce-vulnerability-disclosed-by-sagitz</id>
+        <link href="https://runtimewire.com/article/github-issues-100-000-bounty-for-critical-rce-vulnerability-disclosed-by-sagitz"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dune II, RTS on C64 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=smiQnlbqpKw</id>
+        <link href="https://www.youtube.com/watch?v=smiQnlbqpKw"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review of my Open AI build week feedback please]]></title>
+        <id>https://devpost.com/software/grantscout-app</id>
+        <link href="https://devpost.com/software/grantscout-app"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extreme SIMD: Optimized Collision Detection in Titanfall (2018) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=6BIfqfC1i7U</id>
+        <link href="https://www.youtube.com/watch?v=6BIfqfC1i7U"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MemoHood and MemoBase – local memory and knowledge base for AI agents]]></title>
+        <id>https://github.com/mxskorohood-cmd/memobase</id>
+        <link href="https://github.com/mxskorohood-cmd/memobase"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: DocBrain, turns merged PRs and Slack threads into documentation]]></title>
+        <id>https://github.com/docbrain-ai/docbrain</id>
+        <link href="https://github.com/docbrain-ai/docbrain"/>
+        <updated>2026-07-22T16:00:00.000Z</updated>
+        <published>2026-07-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Agentmux – iOS terminal and workspace built for CLI AI agents]]></title>
+        <id>https://agentmux.saxcave.cc/</id>
+        <link href="https://agentmux.saxcave.cc/"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
@@ -270,97 +361,6 @@
         <title type="html"><![CDATA[Hermes vs OpenClaw: 2026 Open Source AI Agent Automation Framework Guide]]></title>
         <id>https://pub.towardsai.net/hermes-vs-openclaw-2026-open-source-ai-agent-automation-framework-guide-acad5de05be6?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/hermes-vs-openclaw-2026-open-source-ai-agent-automation-framework-guide-acad5de05be6?source=rss----98111c9905da---4"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Trained Two CNNs on 101 Food Categories. The Gap Was 42%]]></title>
-        <id>https://pub.towardsai.net/i-trained-two-cnns-on-101-food-categories-the-gap-was-42-d06ddd0386cc?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-trained-two-cnns-on-101-food-categories-the-gap-was-42-d06ddd0386cc?source=rss----98111c9905da---4"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Spark Manages Memory — The Unified Memory Model, Spills, and AQE]]></title>
-        <id>https://pub.towardsai.net/how-spark-manages-memory-the-unified-memory-model-spills-and-aqe-f37f21799fc6?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-spark-manages-memory-the-unified-memory-model-spills-and-aqe-f37f21799fc6?source=rss----98111c9905da---4"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siebel 26.6’s RAG-Powered Search: Why Your Support Reps Stop Solving the Same Ticket Twice]]></title>
-        <id>https://pub.towardsai.net/siebel-26-6s-rag-powered-search-why-your-support-reps-stop-solving-the-same-ticket-twice-7f3998a6ba88?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/siebel-26-6s-rag-powered-search-why-your-support-reps-stop-solving-the-same-ticket-twice-7f3998a6ba88?source=rss----98111c9905da---4"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Cracked an 87-Year-Old Conjecture — I Verified the Counterexample in 0.1 Seconds]]></title>
-        <id>https://pub.towardsai.net/claude-cracked-an-87-year-old-conjecture-i-verified-the-counterexample-in-0-1-seconds-88e9e4c91814?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-cracked-an-87-year-old-conjecture-i-verified-the-counterexample-in-0-1-seconds-88e9e4c91814?source=rss----98111c9905da---4"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quoting Seth Larson]]></title>
-        <id>https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened]]></title>
-        <id>https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CruiseBench: A Real-Flight-Aligned N-CMAPSS Benchmark for Engine RUL Prediction]]></title>
-        <id>https://arxiv.org/abs/2607.19380</id>
-        <link href="https://arxiv.org/abs/2607.19380"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Air Quality Arena: A Large-Scale Multi-Region Ground Monitoring Dataset and Benchmark for Air Quality Forecasting with Time-Series Foundation Models]]></title>
-        <id>https://arxiv.org/abs/2607.19381</id>
-        <link href="https://arxiv.org/abs/2607.19381"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Challenges of Explainability in Continual Learning for Time Series Forecasting]]></title>
-        <id>https://arxiv.org/abs/2607.19382</id>
-        <link href="https://arxiv.org/abs/2607.19382"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUM: Unified Geometric Surgery on Spatio-Temporal Adaptation Vectors for Federated Class Incremental Learning]]></title>
-        <id>https://arxiv.org/abs/2607.19384</id>
-        <link href="https://arxiv.org/abs/2607.19384"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STN-TGAT: Top-K Portfolio Construction via Prior-Guided Graph Attention with Learnable Soft-Threshold Sparsification]]></title>
-        <id>https://arxiv.org/abs/2607.19385</id>
-        <link href="https://arxiv.org/abs/2607.19385"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Fast, Evaluating Slow: Pipeline Choices Dominate Autointerpretability Score Variance]]></title>
-        <id>https://arxiv.org/abs/2607.19386</id>
-        <link href="https://arxiv.org/abs/2607.19386"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scale-Aware Learning of Chaotic Dynamics on Unstructured Meshes via Binned Spectral Losses]]></title>
-        <id>https://arxiv.org/abs/2607.19387</id>
-        <link href="https://arxiv.org/abs/2607.19387"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
