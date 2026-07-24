@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-24T13:02:22.146Z</updated>
+    <updated>2026-07-24T15:04:31.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,30 +22,9 @@
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alexa Plus is getting an AI update to handle more complicated instructions]]></title>
-        <id>https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices</id>
-        <link href="https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patreon is laying off 20 percent of workers]]></title>
-        <id>https://www.theverge.com/tech/970211/patreon-layoffs-ai</id>
-        <link href="https://www.theverge.com/tech/970211/patreon-layoffs-ai"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corsair’s PC case with a panoramic glass design is $70 off]]></title>
-        <id>https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale</id>
-        <link href="https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla’s robotaxi promises are clashing with reality]]></title>
-        <id>https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk</id>
-        <link href="https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk"/>
+        <title type="html"><![CDATA[The tech-broification of American science has officially begun]]></title>
+        <id>https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants</id>
+        <link href="https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
@@ -57,23 +36,30 @@
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BenQ TK705STi 4K Projector Review: A Midrange Pick for Gamers]]></title>
-        <id>https://www.wired.com/review/benq-tk705sti-4k-projector/</id>
-        <link href="https://www.wired.com/review/benq-tk705sti-4k-projector/"/>
+        <title type="html"><![CDATA[Tesla’s robotaxi promises are clashing with reality]]></title>
+        <id>https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk</id>
+        <link href="https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark]]></title>
-        <id>https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/</id>
-        <link href="https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/"/>
+        <title type="html"><![CDATA[Corsair’s PC case with a panoramic glass design is $70 off]]></title>
+        <id>https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale</id>
+        <link href="https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s New Feel-Good AI Ad Uses a Song About the World Ending]]></title>
-        <id>https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/</id>
-        <link href="https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/"/>
+        <title type="html"><![CDATA[Patreon is laying off 20 percent of workers]]></title>
+        <id>https://www.theverge.com/tech/970211/patreon-layoffs-ai</id>
+        <link href="https://www.theverge.com/tech/970211/patreon-layoffs-ai"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alexa Plus is getting an AI update to handle more complicated instructions]]></title>
+        <id>https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices</id>
+        <link href="https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
@@ -85,30 +71,23 @@
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google will now let you sign in to your account with a selfie video]]></title>
-        <id>https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/</id>
-        <link href="https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/"/>
+        <title type="html"><![CDATA[Meta’s New Feel-Good AI Ad Uses a Song About the World Ending]]></title>
+        <id>https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/</id>
+        <link href="https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta launched a new AI optimism ad set to a song about human extinction]]></title>
-        <id>https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/</id>
-        <link href="https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"/>
+        <title type="html"><![CDATA[For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark]]></title>
+        <id>https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/</id>
+        <link href="https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Runway launches AI model router as generative media gets crowded]]></title>
-        <id>https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/</id>
-        <link href="https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta drops out of a major clean energy pact as its natural gas buildout accelerates]]></title>
-        <id>https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/</id>
-        <link href="https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/"/>
+        <title type="html"><![CDATA[BenQ TK705STi 4K Projector Review: A Midrange Pick for Gamers]]></title>
+        <id>https://www.wired.com/review/benq-tk705sti-4k-projector/</id>
+        <link href="https://www.wired.com/review/benq-tk705sti-4k-projector/"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
@@ -120,233 +99,128 @@
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LLMs Are Still Toxic, Stuck in the Past, and Bad at Math]]></title>
-        <id>https://www.eyosias.dev/blog/llms-are-still-toxic-and-bad-at-math</id>
-        <link href="https://www.eyosias.dev/blog/llms-are-still-toxic-and-bad-at-math"/>
+        <title type="html"><![CDATA[Meta drops out of a major clean energy pact as its natural gas buildout accelerates]]></title>
+        <id>https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/</id>
+        <link href="https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Omega Seamaster Professional 300M that surprised me]]></title>
-        <id>https://www.kulman.sk/en/omega-seamaster-professional-300m-36mm/</id>
-        <link href="https://www.kulman.sk/en/omega-seamaster-professional-300m-36mm/"/>
+        <title type="html"><![CDATA[Runway launches AI model router as generative media gets crowded]]></title>
+        <id>https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/</id>
+        <link href="https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Podcast Apps: A Framework for Dying Slowly with Dignity]]></title>
-        <id>https://www.uncommonapps.nyc/p/podcast-apps-a-framework-for-dying</id>
-        <link href="https://www.uncommonapps.nyc/p/podcast-apps-a-framework-for-dying"/>
+        <title type="html"><![CDATA[Meta launched a new AI optimism ad set to a song about human extinction]]></title>
+        <id>https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/</id>
+        <link href="https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pellet guns against India GenZ protestors. Video conference by opposition leader]]></title>
-        <id>https://www.youtube.com/watch?v=EnM-UJhxIwg</id>
-        <link href="https://www.youtube.com/watch?v=EnM-UJhxIwg"/>
+        <title type="html"><![CDATA[Google will now let you sign in to your account with a selfie video]]></title>
+        <id>https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/</id>
+        <link href="https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Indian govt orders GitHub to block Bitchat]]></title>
-        <id>https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/technology/indian-govt-orders-github-to-block-jack-dorsey-s-bitchat-app-amid-cjp-protest-crackdown-article-13982731.html</id>
-        <link href="https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/technology/indian-govt-orders-github-to-block-jack-dorsey-s-bitchat-app-amid-cjp-protest-crackdown-article-13982731.html"/>
+        <title type="html"><![CDATA[User Journey Mapping: We Want It to Be Shit]]></title>
+        <id>https://pawelbrodzinski.substack.com/p/user-journey-mapping-we-want-it-to</id>
+        <link href="https://pawelbrodzinski.substack.com/p/user-journey-mapping-we-want-it-to"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK AISI / CAISI Preliminary Assessment of Kimi K3's Cyber Capabilities]]></title>
-        <id>https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities</id>
-        <link href="https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities"/>
+        <title type="html"><![CDATA[Show HN: AI tool for learning Python from scratch]]></title>
+        <id>https://github.com/KubiKDB/AI-Tools-For-Learning</id>
+        <link href="https://github.com/KubiKDB/AI-Tools-For-Learning"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I've been working on a podcast app that goes far beyond a sleep timer]]></title>
-        <id>https://apps.apple.com/nl/app/sleepcast/id6744658836</id>
-        <link href="https://apps.apple.com/nl/app/sleepcast/id6744658836"/>
+        <title type="html"><![CDATA[Facebook Verified]]></title>
+        <id>https://about.fb.com/news/2026/07/introducing-facebook-verified/</id>
+        <link href="https://about.fb.com/news/2026/07/introducing-facebook-verified/"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Local Kubernetes on Mac: A Multi-Node Cluster with UTM]]></title>
-        <id>https://blog.qstars.nl/posts/macos-local-kubernetes-cluster-with-utm/</id>
-        <link href="https://blog.qstars.nl/posts/macos-local-kubernetes-cluster-with-utm/"/>
+        <title type="html"><![CDATA[Rick the Rat rides the subway to NYC Restaurant Week restaurants]]></title>
+        <id>https://nycrestaurantweek.app</id>
+        <link href="https://nycrestaurantweek.app"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Tool to validate your HTTP-message-signatures-directory]]></title>
-        <id>https://sitedex.dev/tools/keycheck</id>
-        <link href="https://sitedex.dev/tools/keycheck"/>
+        <title type="html"><![CDATA[Show HN: Audio Player with "Binaural Beats" tuned to the same key as your music]]></title>
+        <id>https://github.com/henrygabriels/binaural-studio</id>
+        <link href="https://github.com/henrygabriels/binaural-studio"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SodaSlim Releases Updated 2026 Highlights Soda Slim Capsules Ingredient]]></title>
-        <id>https://finance.yahoo.com/healthcare/articles/sodaslim-releases-updated-2026-highlights-122400710.html</id>
-        <link href="https://finance.yahoo.com/healthcare/articles/sodaslim-releases-updated-2026-highlights-122400710.html"/>
+        <title type="html"><![CDATA[Prebuilt, parameterized, interactive HTML widgets for MCP Apps]]></title>
+        <id>https://github.com/Techthos/gadget</id>
+        <link href="https://github.com/Techthos/gadget"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japanese AI Robots Used to Replicate Skilled Confectioners' Abilities]]></title>
-        <id>https://japannews.yomiuri.co.jp/science-nature/technology/20260719-338181/</id>
-        <link href="https://japannews.yomiuri.co.jp/science-nature/technology/20260719-338181/"/>
+        <title type="html"><![CDATA[The Codex App Lied to Me About /Clear]]></title>
+        <id>https://samwize.com/2026/07/24/codex-app-lied-to-me-about-clear/</id>
+        <link href="https://samwize.com/2026/07/24/codex-app-lied-to-me-about-clear/"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Russia's businesses under strain from Ukraine's attacks on Wildberries]]></title>
-        <id>https://www.bbc.com/news/articles/cvg9n2y61w6o</id>
-        <link href="https://www.bbc.com/news/articles/cvg9n2y61w6o"/>
+        <title type="html"><![CDATA[I'm So Tired of "Is This AI?"]]></title>
+        <id>https://www.trend-mill.com/p/im-so-tired-of-is-this-ai</id>
+        <link href="https://www.trend-mill.com/p/im-so-tired-of-is-this-ai"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SANA-Video 2.0]]></title>
-        <id>https://nvlabs.github.io/Sana/Video2/</id>
-        <link href="https://nvlabs.github.io/Sana/Video2/"/>
+        <title type="html"><![CDATA[Show HN: A static, client-side tarot calculator for Brazilian Portuguese]]></title>
+        <id>https://meuarcanopessoal.net/</id>
+        <link href="https://meuarcanopessoal.net/"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists find the secret of birdsong's 'spectacular diversity]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo</id>
-        <link href="https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo"/>
+        <title type="html"><![CDATA[Show HN: Maplike – Rust traits for operations on containers (get, set, push...)]]></title>
+        <id>https://github.com/mikwielgus/maplike</id>
+        <link href="https://github.com/mikwielgus/maplike"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In a first, Chinese woman wins the prestigious Fields Medal]]></title>
-        <id>https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal</id>
-        <link href="https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal"/>
+        <title type="html"><![CDATA[Brief Observations on Life]]></title>
+        <id>http://unfuck.i.ng/art/science/life/</id>
+        <link href="http://unfuck.i.ng/art/science/life/"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China's Electric Trucks, Diesel's Peak, and What Western Planners Still Dont See]]></title>
-        <id>https://cleantechnica.com/2026/07/22/chinas-electric-trucks-diesels-peak-and-what-western-planners-still-dont-see/</id>
-        <link href="https://cleantechnica.com/2026/07/22/chinas-electric-trucks-diesels-peak-and-what-western-planners-still-dont-see/"/>
+        <title type="html"><![CDATA[Flux 3 X Mimic: The Next Generation of Video-Action Models]]></title>
+        <id>https://bfl.ai/blog/flux-3-mimic</id>
+        <link href="https://bfl.ai/blog/flux-3-mimic"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pixuma: Fundamentals of Computer Science and Mathematics]]></title>
-        <id>https://pikuma.com/</id>
-        <link href="https://pikuma.com/"/>
+        <title type="html"><![CDATA[Stories from Tomorrow. Ministry of Defense (2023)]]></title>
+        <id>https://www.gov.uk/government/publications/stories-from-the-future-exploring-new-technology-through-useful-fiction/stories-from-tomorrow-exploring-new-technology-through-useful-fiction</id>
+        <link href="https://www.gov.uk/government/publications/stories-from-the-future-exploring-new-technology-through-useful-fiction/stories-from-tomorrow-exploring-new-technology-through-useful-fiction"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Broadscale Deep Learning for Maya Settlement Detection in G-LiHT Lidar]]></title>
-        <id>https://link.springer.com/article/10.1007/s10816-025-09741-5</id>
-        <link href="https://link.springer.com/article/10.1007/s10816-025-09741-5"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brockovich Data Center Reporting – U.S. AI Data Center Awareness and Issue Map]]></title>
-        <id>https://brockovichdatacenter.com/index.html</id>
-        <link href="https://brockovichdatacenter.com/index.html"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrysalis Zero Trust Agent Registry]]></title>
-        <id>https://baursoftware.com/zero-trust/chrysalis</id>
-        <link href="https://baursoftware.com/zero-trust/chrysalis"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Frontier Models to Enterprise Execution: Why Kimi Partnership Matters Now]]></title>
-        <id>https://www.cloud-net.ai/news/from-frontier-models-to-enterprise-execution-why-cloudnet.ai’s-kimi-partnership-matters-now</id>
-        <link href="https://www.cloud-net.ai/news/from-frontier-models-to-enterprise-execution-why-cloudnet.ai’s-kimi-partnership-matters-now"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOE Fires the $5B Starter Gun for Its AI-Targeted Genesis Mission]]></title>
-        <id>https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061</id>
-        <link href="https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Verified B2B leads with the reason to reach out now]]></title>
-        <id>https://madleadz.com/</id>
-        <link href="https://madleadz.com/"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[About 1 in 4 workers keep unwanted jobs for health insurance, poll finds]]></title>
-        <id>https://www.washingtonpost.com/business/2026/07/24/about-1-4-workers-keep-unwanted-jobs-health-insurance-poll-finds/</id>
-        <link href="https://www.washingtonpost.com/business/2026/07/24/about-1-4-workers-keep-unwanted-jobs-health-insurance-poll-finds/"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Middleware that catches when LLM conversations slowly drift off-topic]]></title>
-        <id>https://github.com/ojki74/hallucinatoff</id>
-        <link href="https://github.com/ojki74/hallucinatoff"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring the Performance Cost of High Availability in Postgres]]></title>
-        <id>https://clickhouse.com/blog/postgresbench-ha</id>
-        <link href="https://clickhouse.com/blog/postgresbench-ha"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Trust the Label: License Laundering in AI Supply Chains]]></title>
-        <id>https://arxiv.org/abs/2607.20300</id>
-        <link href="https://arxiv.org/abs/2607.20300"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I built a local Node.js conduit for the BorgIOS network]]></title>
-        <id>https://github.com/bitmonky/borgHUI</id>
-        <link href="https://github.com/bitmonky/borgHUI"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U of T mathematician Jacob Tsimerman awarded prestigious Fields Medal]]></title>
-        <id>https://www.utoronto.ca/news/nobel-prize-mathematics-u-t-mathematician-jacob-tsimerman-awarded-prestigious-fields-medal</id>
-        <link href="https://www.utoronto.ca/news/nobel-prize-mathematics-u-t-mathematician-jacob-tsimerman-awarded-prestigious-fields-medal"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Is HN's duplicate url detection broken?]]></title>
-        <id>https://news.ycombinator.com/item?id=49030892</id>
-        <link href="https://news.ycombinator.com/item?id=49030892"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In the 1950s, a Soviet engineer proposed damming the Bering Strait]]></title>
-        <id>https://economictimes.indiatimes.com/us/news/in-the-1950s-a-soviet-engineer-proposed-damming-the-bering-strait-and-pumping-the-ocean-to-melt-the-arctic-a-deliberate-plan-to-thaw-the-top-of-the-world-and-warm-siberia/articleshow/132533469.cms?from=mdr</id>
-        <link href="https://economictimes.indiatimes.com/us/news/in-the-1950s-a-soviet-engineer-proposed-damming-the-bering-strait-and-pumping-the-ocean-to-melt-the-arctic-a-deliberate-plan-to-thaw-the-top-of-the-world-and-warm-siberia/articleshow/132533469.cms?from=mdr"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gigatoken-rb – A Ruby port of gigatoken that's 1.6x faster]]></title>
-        <id>https://github.com/jetpks/gigatoken-rb</id>
-        <link href="https://github.com/jetpks/gigatoken-rb"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seeing Is Not Believing: Realistic AI Videos Disrupt Confidence in Real Videos]]></title>
-        <id>https://www.media.mit.edu/publications/seeing-is-not-believing/</id>
-        <link href="https://www.media.mit.edu/publications/seeing-is-not-believing/"/>
+        <title type="html"><![CDATA[Show HN: GlossaryPage – Turn customer questions into knowledge pages]]></title>
+        <id>https://glossarypage.com/</id>
+        <link href="https://glossarypage.com/"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
@@ -358,9 +232,135 @@
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: GlossaryPage – Turn customer questions into knowledge pages]]></title>
-        <id>https://glossarypage.com/</id>
-        <link href="https://glossarypage.com/"/>
+        <title type="html"><![CDATA[Seeing Is Not Believing: Realistic AI Videos Disrupt Confidence in Real Videos]]></title>
+        <id>https://www.media.mit.edu/publications/seeing-is-not-believing/</id>
+        <link href="https://www.media.mit.edu/publications/seeing-is-not-believing/"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gigatoken-rb – A Ruby port of gigatoken that's 1.6x faster]]></title>
+        <id>https://github.com/jetpks/gigatoken-rb</id>
+        <link href="https://github.com/jetpks/gigatoken-rb"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In the 1950s, a Soviet engineer proposed damming the Bering Strait]]></title>
+        <id>https://economictimes.indiatimes.com/us/news/in-the-1950s-a-soviet-engineer-proposed-damming-the-bering-strait-and-pumping-the-ocean-to-melt-the-arctic-a-deliberate-plan-to-thaw-the-top-of-the-world-and-warm-siberia/articleshow/132533469.cms?from=mdr</id>
+        <link href="https://economictimes.indiatimes.com/us/news/in-the-1950s-a-soviet-engineer-proposed-damming-the-bering-strait-and-pumping-the-ocean-to-melt-the-arctic-a-deliberate-plan-to-thaw-the-top-of-the-world-and-warm-siberia/articleshow/132533469.cms?from=mdr"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Is HN's duplicate url detection broken?]]></title>
+        <id>https://news.ycombinator.com/item?id=49030892</id>
+        <link href="https://news.ycombinator.com/item?id=49030892"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U of T mathematician Jacob Tsimerman awarded prestigious Fields Medal]]></title>
+        <id>https://www.utoronto.ca/news/nobel-prize-mathematics-u-t-mathematician-jacob-tsimerman-awarded-prestigious-fields-medal</id>
+        <link href="https://www.utoronto.ca/news/nobel-prize-mathematics-u-t-mathematician-jacob-tsimerman-awarded-prestigious-fields-medal"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I built a local Node.js conduit for the BorgIOS network]]></title>
+        <id>https://github.com/bitmonky/borgHUI</id>
+        <link href="https://github.com/bitmonky/borgHUI"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Trust the Label: License Laundering in AI Supply Chains]]></title>
+        <id>https://arxiv.org/abs/2607.20300</id>
+        <link href="https://arxiv.org/abs/2607.20300"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring the Performance Cost of High Availability in Postgres]]></title>
+        <id>https://clickhouse.com/blog/postgresbench-ha</id>
+        <link href="https://clickhouse.com/blog/postgresbench-ha"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Middleware that catches when LLM conversations slowly drift off-topic]]></title>
+        <id>https://github.com/ojki74/hallucinatoff</id>
+        <link href="https://github.com/ojki74/hallucinatoff"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About 1 in 4 workers keep unwanted jobs for health insurance, poll finds]]></title>
+        <id>https://www.washingtonpost.com/business/2026/07/24/about-1-4-workers-keep-unwanted-jobs-health-insurance-poll-finds/</id>
+        <link href="https://www.washingtonpost.com/business/2026/07/24/about-1-4-workers-keep-unwanted-jobs-health-insurance-poll-finds/"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Verified B2B leads with the reason to reach out now]]></title>
+        <id>https://madleadz.com/</id>
+        <link href="https://madleadz.com/"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOE Fires the $5B Starter Gun for Its AI-Targeted Genesis Mission]]></title>
+        <id>https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061</id>
+        <link href="https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Frontier Models to Enterprise Execution: Why Kimi Partnership Matters Now]]></title>
+        <id>https://www.cloud-net.ai/news/from-frontier-models-to-enterprise-execution-why-cloudnet.ai’s-kimi-partnership-matters-now</id>
+        <link href="https://www.cloud-net.ai/news/from-frontier-models-to-enterprise-execution-why-cloudnet.ai’s-kimi-partnership-matters-now"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrysalis Zero Trust Agent Registry]]></title>
+        <id>https://baursoftware.com/zero-trust/chrysalis</id>
+        <link href="https://baursoftware.com/zero-trust/chrysalis"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brockovich Data Center Reporting – U.S. AI Data Center Awareness and Issue Map]]></title>
+        <id>https://brockovichdatacenter.com/index.html</id>
+        <link href="https://brockovichdatacenter.com/index.html"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broadscale Deep Learning for Maya Settlement Detection in G-LiHT Lidar]]></title>
+        <id>https://link.springer.com/article/10.1007/s10816-025-09741-5</id>
+        <link href="https://link.springer.com/article/10.1007/s10816-025-09741-5"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixuma: Fundamentals of Computer Science and Mathematics]]></title>
+        <id>https://pikuma.com/</id>
+        <link href="https://pikuma.com/"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China's Electric Trucks, Diesel's Peak, and What Western Planners Still Dont See]]></title>
+        <id>https://cleantechnica.com/2026/07/22/chinas-electric-trucks-diesels-peak-and-what-western-planners-still-dont-see/</id>
+        <link href="https://cleantechnica.com/2026/07/22/chinas-electric-trucks-diesels-peak-and-what-western-planners-still-dont-see/"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In a first, Chinese woman wins the prestigious Fields Medal]]></title>
+        <id>https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal</id>
+        <link href="https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>

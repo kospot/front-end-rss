@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-24 21:02:21。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-07-24 23:04:30。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -505,6 +505,7 @@ https://github.com/pinceladasdaweb/rabbitmq
 
 
 
+- [【Frontend Masters Blog】When-You-Need-To-Make-a-Triangle,-Think-Conic-Gradients](https://master.dev/blog/when-you-need-to-make-a-triangle-think-conic-gradients/)
 - [【前端之巅】A-CSV-Viewer-That-Never-Uploads-Your-Data](https://dev.to/kaylee8520/a-csv-viewer-that-never-uploads-your-data-bkf)
 - [【前端之巅】Two-publish-pipeline-slug-resolution-bugs-a-code-review-caught-before-18-links-went-dead](https://dev.to/morinaga/two-publish-pipeline-slug-resolution-bugs-a-code-review-caught-before-18-links-went-dead-4oo1)
 - [【前端之巅】Basic-Computer-Knowledge-Is-No-Longer-Enough-—-Here's-Why-You-Need-to-Go-Advanced](https://dev.to/inningeducation/basic-computer-knowledge-is-no-longer-enough-heres-why-you-need-to-go-advanced-1fal)
@@ -524,7 +525,6 @@ https://github.com/pinceladasdaweb/rabbitmq
 - [【前端之巅】Top-10-Best-Brightspot-to-WordPress-Migration-Companies](https://dev.to/oliverpitts/top-10-best-brightspot-to-wordpress-migration-companies-1lg0)
 - [【前端之巅】How-I-Built-a-Privacy-Friendly-Image-Converter-That-Runs-Entirely-in-the-Browser](https://dev.to/waseverinlabs/how-i-built-a-privacy-friendly-image-converter-that-runs-entirely-in-the-browser-26i)
 - [【前端之巅】10-Best-Sites-to-Buy-Verified-PayPal-Accounts-Aged-or-New](https://dev.to/malloriefrye1nomj/10-best-sites-to-buy-verified-paypal-accounts-aged-or-new-5766)
-- [【前端之巅】Why-I-Built-a-Privacy-First-Period-Tracker:-Client-Side-Predictions-Without-the-Cloud](https://dev.to/getinfotoyou/why-i-built-a-privacy-first-period-tracker-client-side-predictions-without-the-cloud-4d7d)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -658,10 +658,10 @@ https://github.com/pinceladasdaweb/rabbitmq
 - [【TechCrunch】Stripe-and-Advent-reportedly-offered-to-buy-PayPal-for-around-$53.4B](https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/)
 - [【TechCrunch】Wayve-launches-$85M-employee-tender-offer-at-$8.5B-valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/)
 - [【TechCrunch】a16z-backed-Base-Power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most](https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/)
-- [【Wired】Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-26-2026/)
 - [【Wired】Best-Prime-Day-Vacuum-Deals-Offer-Up-to-42%-Off-2026:-Shark,-Dyson,-Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/)
-- [【Wired】17-Best-Prime-Day-Apple-Deals-Offering-Up-to-30%-Off:-iPad,-Apple-Watch,-MacBooks,-and-More-2026](https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/)
+- [【Wired】Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-26-2026/)
 - [【Wired】Best-Prime-Day-Tech-Deals-Offer-Up-to-$280-Off-2026:-Phones,-Watches,-and-More](https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/)
+- [【Wired】17-Best-Prime-Day-Apple-Deals-Offering-Up-to-30%-Off:-iPad,-Apple-Watch,-MacBooks,-and-More-2026](https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/)
 - [【Engadget】Prime-Day-is-offering-rare-discounts-on-Philips-Hue-smart-lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale)
 - [......【查看更多】......](/details/tags/job-interview.md)
 
@@ -680,17 +680,17 @@ https://github.com/pinceladasdaweb/rabbitmq
 - [【JavaScript Weekly】The-coding-challenge-you-don't-want-to-pass](https://javascriptweekly.com/issues/795)
 - [【CSS-Tricks】writing-mode](https://css-tricks.com/almanac/properties/w/writing-mode/)
 - [【CSS-Tricks】pointer-events](https://css-tricks.com/almanac/properties/p/pointer-events/)
-- [【CSS-Tricks】translate](https://css-tricks.com/almanac/functions/t/translate/)
-- [【CSS-Tricks】translateX](https://css-tricks.com/almanac/functions/t/translatex/)
-- [【CSS-Tricks】translateY](https://css-tricks.com/almanac/functions/t/translatey/)
 - [【CSS-Tricks】translateZ](https://css-tricks.com/almanac/functions/t/translatez/)
+- [【CSS-Tricks】translateY](https://css-tricks.com/almanac/functions/t/translatey/)
+- [【CSS-Tricks】translateX](https://css-tricks.com/almanac/functions/t/translatex/)
+- [【CSS-Tricks】translate](https://css-tricks.com/almanac/functions/t/translate/)
 - [【Smashing Magazine】When-It-Makes-Sense-To-“Block”-The-Main-Thread](https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/)
 - [【Smashing Magazine】No,-People-Don’t-Want-More-AI-In-Their-Life](https://smashingmagazine.com/2026/07/people-dont-want-more-ai/)
 - [【Smashing Magazine】From-Kickoff-To-First-Concept:-How-To-Turn-Brand-Strategy-Into-Visual-Direction](https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/)
 - [【Smashing Magazine】Designing-For-Distressed-Users:-Why-Mental-Health-Apps-Shouldn’t-Follow-Every-UI-Fashion](https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/)
 - [【Smashing Magazine】Matching-AI-Modality-To-User-Intent:-Designing-The-Right-Interface](https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/)
-- [【Smashing Magazine】Snapshots-Of-Summer-July-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/)
 - [【Smashing Magazine】Why-Accessibility-Is-An-Operational-Capability,-Not-A-Feature](https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/)
+- [【Smashing Magazine】Snapshots-Of-Summer-July-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/)
 - [【Frontend Masters Blog】Nub](https://master.dev/blog/nub/)
 - [【Frontend Masters Blog】Lumis:-Syntax-Highlighter-powered-by-Tree-sitter](https://master.dev/blog/lumis-syntax-highlighter-powered-by-tree-sitter/)
 - [【Frontend Masters Blog】The-Siren-Song-of-ariaNotify](https://master.dev/blog/the-siren-song-of-arianotify/)

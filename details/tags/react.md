@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-24 21:02:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-24 23:04:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -193,19 +193,22 @@
 - [2026-06-25-React's-real-problem-isn't-React.-It's-Vercel.](https://dev.to/adioof/reacts-real-problem-isnt-react-its-vercel-a7l) 
 - [2026-06-25-The-Stripe-Webhook-Gotcha-Nobody-Warns-You-About:-100%-Off-Coupons-and-Missing-PaymentIntents](https://dev.to/knallhartdev/the-stripe-webhook-gotcha-nobody-warns-you-about-100-off-coupons-and-missing-paymentintents-2kg1) 
 - [2026-06-25-React-Context-vs-Zustand:-When-Context-Is-Enough-and-When-It-Isn't-2026](https://dev.to/stacknotice/react-context-vs-zustand-when-context-is-enough-and-when-it-isnt-2026-14b9) 
-- [2026-07-21--React-component-for-structured-queries-](
-https://github.com/evoluteur/structured-filter-react
+- [2026-07-24--React-component-for-bubble,-bars,-and-pie-charts,-with-animated-morphing-transitions-between-charts-](
+https://github.com/evoluteur/react-morph-charts
 ) 
 - [2026-07-21--When-React-Hooks-Stop-Scaling:-Moving-Complex-State-to-Zustand-](
 https://orizens.com/blog/2026-06-18-zustand/
 ) 
+- [2026-07-21--React-component-for-structured-queries-](
+https://github.com/evoluteur/structured-filter-react
+) 
 - [2026-07-19-react/react](https://github.com/react/react) 
 - [2026-07-17-Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) 
-- [2026-06-26--SVAR-Kanban:-flexible-drag-and-drop-task-board-for-React,-Svelte-&amp;-Vue-](
-https://svar.dev/blog/svar-kanban-for-react-svelte-vue/
-) 
 - [2026-06-26--React-Performance-Isn’t-About-useMemo-—-It’s-About-Render-Boundaries-](
 https://reactdevelopment.substack.com/p/react-performance-isnt-about-usememo
+) 
+- [2026-06-26--SVAR-Kanban:-flexible-drag-and-drop-task-board-for-React,-Svelte-&amp;-Vue-](
+https://svar.dev/blog/svar-kanban-for-react-svelte-vue/
 ) 
 - [2026-07-09-Four-nuclear-reactors-hit-a-big-milestone-in-the-US](https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/) 
 - [2026-07-24-Position:-Stop-Reactively-Patching-Your-Model-Every-Time-and-Start-Proactive-Test-Driven-AI-Development](https://arxiv.org/abs/2607.20532) 
@@ -233,25 +236,25 @@ https://reactdevelopment.substack.com/p/react-performance-isnt-about-usememo
 - [2026-07-01-Claude-Agent-SDK-Hooks:-Permissions-Ask-the-Model-for-Permission.-Hooks-Do-Not-Ask-Anyone.](https://pub.towardsai.net/claude-agent-sdk-hooks-permissions-ask-the-model-for-permission-hooks-do-not-ask-anyone-f0baf89dd0b9?source=rss----98111c9905da---4) 
 - [2026-06-25-Three-Eras-of-Quantitative-Finance:-How-Rule-Based,-ML,-and-Deep-Learning-Models-React-to-the-Same…](https://pub.towardsai.net/three-eras-of-quantitative-finance-how-rule-based-ml-and-deep-learning-models-react-to-the-same-554d75a2dc7b?source=rss----98111c9905da---4) 
 - [2026-07-21-A-Git-hook-to-prevent-committing-directly-to-main](https://alexwlchan.net/2026/no-main-hook/) 
-- [2026-07-18-Avatoon-–-React-Three-Fiber-component-for-audio-synced-3D-avatar-lip-sync](https://github.com/khaledalam/avatoon) 
-- [2026-07-18-Show-HN:-Re:Likes-–-open-source-library-to-be-particular-about-reactions-to-text](https://relikes.com/#demo) 
 - [2026-07-18-Show-HN:-Blockbeam-–-A-block-puzzle-game-built-with-React-Native](https://play.google.com/store/apps/details?id=com.magstudios.blockpuzzle&hl=en_US) 
-- [2026-07-17-Async-Hydration-in-Preact](https://jovidecroock.com/blog/resumed-hydration-preact/) 
+- [2026-07-18-Show-HN:-Re:Likes-–-open-source-library-to-be-particular-about-reactions-to-text](https://relikes.com/#demo) 
+- [2026-07-18-Avatoon-–-React-Three-Fiber-component-for-audio-synced-3D-avatar-lip-sync](https://github.com/khaledalam/avatoon) 
 - [2026-07-17-ReactBench](https://www.reactbench.com/blog) 
+- [2026-07-17-Async-Hydration-in-Preact](https://jovidecroock.com/blog/resumed-hydration-preact/) 
 - [2026-07-14-France-powers-down-several-nuclear-reactors-due-to-extreme-heat](https://www.lemonde.fr/en/france/article/2026/07/12/france-powers-down-several-nuclear-reactors-due-to-extreme-heat_6755404_7.html) 
 - [2026-07-13-Top-Reactjs-Development-Services-to-Check-in-2026](https://focusreactive.com/blog/top-reactjs-development-services-in-2026/) 
-- [2026-07-10-Netflix-Is-Exploring-Live-TV-and-Bundles-as-It-Struggles-to-Keep-Viewers-Hooked](https://www.wsj.com/business/media/netflix-is-exploring-live-tv-and-bundles-as-it-struggles-to-keep-viewers-hooked-e1eb28f6) 
 - [2026-07-10-John-Carmack-reacts-to-layoffs-at-id-Software](https://www.pcgamer.com/gaming-industry/john-carmack-reacts-to-massive-layoffs-at-id-software-my-microsoft-will-probably-be-a-good-steward-of-the-brand-statement-isnt-aging-well/) 
+- [2026-07-10-Netflix-Is-Exploring-Live-TV-and-Bundles-as-It-Struggles-to-Keep-Viewers-Hooked](https://www.wsj.com/business/media/netflix-is-exploring-live-tv-and-bundles-as-it-struggles-to-keep-viewers-hooked-e1eb28f6) 
 - [2026-07-08-BrAIn,-reactive-AI-agent-nodes-on-a-NATS-bus-instead-of-a-chat-loop](https://github.com/tibzejoker/brAIn) 
 - [2026-07-07-ReactOS-"Open-Source-Windows"-Project-Now-Capable-of-Running-Half-Life-2](https://www.phoronix.com/news/Half-Life-2-ReactOS) 
 - [2026-07-05-Small-World-–-The-"Preact"-of-3D-Web-Engines-TypeScript,-WebGPU](https://rottensteiner-stefan.github.io/small-world/) 
 - [2026-07-03-ReactOS-Implements-First-Windows-NT6-System-Call-Toward-Vista-Compatibility](https://www.phoronix.com/news/ReactOS-First-NT6-Syscall) 
-- [2026-07-02-Show-HN:-Dart_agent_core-–-Run-AI-agents-in-Flutter-apps-with-lifecycle-hooks](https://github.com/memex-lab/dart_agent_core) 
 - [2026-07-02-Show-HN:-What-GPTBot-sees-before-your-React-app-hydrates](https://botscore.io/blog/what-gptbot-sees-before-hydration/) 
+- [2026-07-02-Show-HN:-Dart_agent_core-–-Run-AI-agents-in-Flutter-apps-with-lifecycle-hooks](https://github.com/memex-lab/dart_agent_core) 
 - [2026-07-01-Realta-Fusion-generates-electricity-directly-from-a-fusion-reaction](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/) 
 - [2026-06-30-Antares-Achieves-Criticality-of-Mark-0-Reactor](https://antaresindustries.com/updates/antares-achieves-criticality) 
-- [2026-06-29-Reacting-to-Two-French-Entrepreneurs-Who-Built-a-$100K-SaaS](https://thenewassociationwebmasters.blogspot.com/2026/06/from-20000-to-100000month-raw.html) 
 - [2026-06-29-Show-HN:-SaaS-landing-page-template-React/Vue/HTML,-Tailwind,-free-and-MIT](https://github.com/hannah-wright/saas-landing-page-template) 
+- [2026-06-29-Reacting-to-Two-French-Entrepreneurs-Who-Built-a-$100K-SaaS](https://thenewassociationwebmasters.blogspot.com/2026/06/from-20000-to-100000month-raw.html) 
 - [2026-06-28-Phones-alerted-millions-before-quakes-shook-Venezuela](https://www.nytimes.com/interactive/2026/06/27/world/americas/venezuela-earthquakes-android-alerts.html) 
 - [2026-06-25-Show-HN:-Glitchwatch-–-CI-failure-inbox-for-indie-devs-one-GitHub-webhook](https://fleet-manager-roan.vercel.app) 
 - [2026-07-21-Bluecore-Energy-raises-$10M-to-build-portable-nuclear-reactors-on-barges](https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-24 21:02:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-24 23:04:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -33,10 +33,10 @@ https://github.com/pinceladasdaweb/rabbitmq
 - [2026-07-10-webpack/webpack](https://github.com/webpack/webpack) 
 - [2026-07-01-npm/cli](https://github.com/npm/cli) 
 - [2026-07-08-ACL-2026美团论文精选：从能力评测到推理优化，构建生成新范式](https://tech.meituan.com/2026/06/05/ACL-2026.html) 
-- [2026-07-22-Show-HN:-Kernel-optimization-is-obsolete.-Just-NPM-install-it](https://github.com/tensormux/kernel-skills) 
 - [2026-07-22-Was-there-a-real-Tower-of-Babel?-This-temple-is-the-leading-contender](https://www.nationalgeographic.com/history/article/tower-of-babel-genesis-bible-archaeology) 
+- [2026-07-22-Show-HN:-Kernel-optimization-is-obsolete.-Just-NPM-install-it](https://github.com/tensormux/kernel-skills) 
 - [2026-07-21-The-Yarn-Spinner-Public-License](https://yarnspinner.dev/yspl) 
 - [2026-07-11-Show-HN:-Quantum-audit-–-CLI-to-scan-NPM-deps-for-quantum-vulnerable-crypto](https://quantum-audit-site.vercel.app) 
-- [2026-07-09-NPM-12-makes-install-scripts,-Git,-and-remote-url-dependencies-opt-in-by-default](https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation/) 
 - [2026-07-09-NPM-v12-Ships-with-Install-Scripts-Off-by-Default,-Deprecating-2FA-Bypass-Tokens](https://socket.dev/blog/npm-12) 
+- [2026-07-09-NPM-12-makes-install-scripts,-Git,-and-remote-url-dependencies-opt-in-by-default](https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation/) 
 - [2026-07-24-角落新声｜数字与实体、有线与无线：我的多场景有声角落构建](https://sspai.com/post/112232) 
