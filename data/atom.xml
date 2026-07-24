@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-23T22:01:33.907Z</updated>
+    <updated>2026-07-24T00:01:05.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,13 +50,6 @@
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s New Feel-Good AI Ad Uses a Song About the World Ending]]></title>
-        <id>https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/</id>
-        <link href="https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark]]></title>
         <id>https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/</id>
         <link href="https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/"/>
@@ -64,30 +57,9 @@
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD takes on Nvidia with its Helios AI rack-scale system]]></title>
-        <id>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</id>
-        <link href="https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta drops out of a major clean energy pact as its natural gas buildout accelerates]]></title>
-        <id>https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/</id>
-        <link href="https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Runway launches AI model router as generative media gets crowded]]></title>
-        <id>https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/</id>
-        <link href="https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta launched a new AI optimism ad set to a song about human extinction]]></title>
-        <id>https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/</id>
-        <link href="https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"/>
+        <title type="html"><![CDATA[Meta’s New Feel-Good AI Ad Uses a Song About the World Ending]]></title>
+        <id>https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/</id>
+        <link href="https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
@@ -99,6 +71,62 @@
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meta launched a new AI optimism ad set to a song about human extinction]]></title>
+        <id>https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/</id>
+        <link href="https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Runway launches AI model router as generative media gets crowded]]></title>
+        <id>https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/</id>
+        <link href="https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta drops out of a major clean energy pact as its natural gas buildout accelerates]]></title>
+        <id>https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/</id>
+        <link href="https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD takes on Nvidia with its Helios AI rack-scale system]]></title>
+        <id>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</id>
+        <link href="https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring the Performance Cost of High Availability in Postgres]]></title>
+        <id>https://clickhouse.com/blog/postgresbench-ha</id>
+        <link href="https://clickhouse.com/blog/postgresbench-ha"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Middleware that catches when LLM conversations slowly drift off-topic]]></title>
+        <id>https://github.com/ojki74/hallucinatoff</id>
+        <link href="https://github.com/ojki74/hallucinatoff"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About 1 in 4 workers keep unwanted jobs for health insurance, poll finds]]></title>
+        <id>https://www.washingtonpost.com/business/2026/07/24/about-1-4-workers-keep-unwanted-jobs-health-insurance-poll-finds/</id>
+        <link href="https://www.washingtonpost.com/business/2026/07/24/about-1-4-workers-keep-unwanted-jobs-health-insurance-poll-finds/"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Verified B2B leads with the reason to reach out now]]></title>
+        <id>https://madleadz.com/</id>
+        <link href="https://madleadz.com/"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DOE Fires the $5B Starter Gun for Its AI-Targeted Genesis Mission]]></title>
         <id>https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061</id>
         <link href="https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061"/>
@@ -106,16 +134,9 @@
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[So, Is AI Really Stealing Everyone’s Job As Promised By Big Tech?]]></title>
-        <id>https://pub.towardsai.net/so-is-ai-really-stealing-everyones-job-as-promised-by-big-tech-3698c29c4a15?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/so-is-ai-really-stealing-everyones-job-as-promised-by-big-tech-3698c29c4a15?source=rss----98111c9905da---4"/>
-        <updated>2026-07-23T16:00:00.000Z</updated>
-        <published>2026-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reduce Your AI API Bill By Up To 60% With These Open Source Projects]]></title>
-        <id>https://pub.towardsai.net/reduce-your-ai-api-bill-by-up-to-60-with-these-open-source-projects-45485fe12e8c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/reduce-your-ai-api-bill-by-up-to-60-with-these-open-source-projects-45485fe12e8c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[OpenAI tried to hack Hugging Face; It was SAVED by Chinese AI]]></title>
+        <id>https://pub.towardsai.net/openai-tried-to-hack-hugging-face-it-was-saved-by-chinese-ai-9e33b4eff197?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openai-tried-to-hack-hugging-face-it-was-saved-by-chinese-ai-9e33b4eff197?source=rss----98111c9905da---4"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
@@ -127,6 +148,20 @@
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Reduce Your AI API Bill By Up To 60% With These Open Source Projects]]></title>
+        <id>https://pub.towardsai.net/reduce-your-ai-api-bill-by-up-to-60-with-these-open-source-projects-45485fe12e8c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/reduce-your-ai-api-bill-by-up-to-60-with-these-open-source-projects-45485fe12e8c?source=rss----98111c9905da---4"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So, Is AI Really Stealing Everyone’s Job As Promised By Big Tech?]]></title>
+        <id>https://pub.towardsai.net/so-is-ai-really-stealing-everyones-job-as-promised-by-big-tech-3698c29c4a15?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/so-is-ai-really-stealing-everyones-job-as-promised-by-big-tech-3698c29c4a15?source=rss----98111c9905da---4"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Supercooled kidneys have been transplanted into pigs in a “landmark achievement”]]></title>
         <id>https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/</id>
         <link href="https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/"/>
@@ -134,44 +169,44 @@
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Turned Manhattan Into a Video Game Cutscene With Mapbox]]></title>
-        <id>https://dev.to/jasonsuhari/i-turned-manhattan-into-a-video-game-cutscene-with-mapbox-1m89</id>
-        <link href="https://dev.to/jasonsuhari/i-turned-manhattan-into-a-video-game-cutscene-with-mapbox-1m89"/>
+        <title type="html"><![CDATA[# 🎥 Mastering the Camera System — Part 2: The Fake Camera and When NOT to Sync]]></title>
+        <id>https://dev.to/kehinde_owolabi_e2e54567a/-mastering-the-camera-system-part-2-the-fake-camera-and-when-not-to-sync-j8j</id>
+        <link href="https://dev.to/kehinde_owolabi_e2e54567a/-mastering-the-camera-system-part-2-the-fake-camera-and-when-not-to-sync-j8j"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Standardization of Agent Context: Why MCP is the New REST]]></title>
-        <id>https://dev.to/programmingcentral/the-standardization-of-agent-context-why-mcp-is-the-new-rest-3ibj</id>
-        <link href="https://dev.to/programmingcentral/the-standardization-of-agent-context-why-mcp-is-the-new-rest-3ibj"/>
+        <title type="html"><![CDATA[How I Built a Neuroscience Learning Platform Entirely on My Android Phone]]></title>
+        <id>https://dev.to/gideonreality/how-i-built-a-neuroscience-learning-platform-entirely-on-my-android-phone-3b88</id>
+        <link href="https://dev.to/gideonreality/how-i-built-a-neuroscience-learning-platform-entirely-on-my-android-phone-3b88"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The OG image generation stack is quietly broken]]></title>
-        <id>https://dev.to/killah_nomad/the-og-image-generation-stack-is-quietly-broken-17lj</id>
-        <link href="https://dev.to/killah_nomad/the-og-image-generation-stack-is-quietly-broken-17lj"/>
+        <title type="html"><![CDATA[🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]]]></title>
+        <id>https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i</id>
+        <link href="https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Built a Headless Scraper to Sync eBay Inventory to TikTok Shop with Zero Manual Entry]]></title>
-        <id>https://dev.to/aiwithmoiz/how-we-built-a-headless-scraper-to-sync-ebay-inventory-to-tiktok-shop-with-zero-manual-entry-16bp</id>
-        <link href="https://dev.to/aiwithmoiz/how-we-built-a-headless-scraper-to-sync-ebay-inventory-to-tiktok-shop-with-zero-manual-entry-16bp"/>
+        <title type="html"><![CDATA[What Tech Salaries Look Like in Malta in 2026]]></title>
+        <id>https://dev.to/impjieg/what-tech-salaries-look-like-in-malta-in-2026-3e2f</id>
+        <link href="https://dev.to/impjieg/what-tech-salaries-look-like-in-malta-in-2026-3e2f"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚀 Backend Internals #3: Your Node.js File Isn't Executed Directly—Here's Why]]></title>
-        <id>https://dev.to/joshikrati03/backend-internals-3-your-nodejs-file-isnt-executed-directly-heres-why-1cgc</id>
-        <link href="https://dev.to/joshikrati03/backend-internals-3-your-nodejs-file-isnt-executed-directly-heres-why-1cgc"/>
+        <title type="html"><![CDATA[Scraping Leboncoin & SeLoger past DataDome — what actually worked (and the honest cost)]]></title>
+        <id>https://dev.to/laurent_halbrun_0dbdc876c/scraping-leboncoin-seloger-past-datadome-what-actually-worked-and-the-honest-cost-1mi6</id>
+        <link href="https://dev.to/laurent_halbrun_0dbdc876c/scraping-leboncoin-seloger-past-datadome-what-actually-worked-and-the-honest-cost-1mi6"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to get LCSC component prices and stock as JSON (no login, no API key)]]></title>
-        <id>https://dev.to/liuhao04/how-to-get-lcsc-component-prices-and-stock-as-json-no-login-no-api-key-2ekb</id>
-        <link href="https://dev.to/liuhao04/how-to-get-lcsc-component-prices-and-stock-as-json-no-login-no-api-key-2ekb"/>
+        <title type="html"><![CDATA[Scraping French sites that block datacenter IPs — what actually worked (Pages Jaunes, Google Maps)]]></title>
+        <id>https://dev.to/laurent_halbrun_0dbdc876c/scraping-french-sites-that-block-datacenter-ips-what-actually-worked-pages-jaunes-google-maps-p5n</id>
+        <link href="https://dev.to/laurent_halbrun_0dbdc876c/scraping-french-sites-that-block-datacenter-ips-what-actually-worked-pages-jaunes-google-maps-p5n"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
@@ -183,9 +218,44 @@
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scraping French sites that block datacenter IPs — what actually worked (Pages Jaunes, Google Maps)]]></title>
-        <id>https://dev.to/laurent_halbrun_0dbdc876c/scraping-french-sites-that-block-datacenter-ips-what-actually-worked-pages-jaunes-google-maps-p5n</id>
-        <link href="https://dev.to/laurent_halbrun_0dbdc876c/scraping-french-sites-that-block-datacenter-ips-what-actually-worked-pages-jaunes-google-maps-p5n"/>
+        <title type="html"><![CDATA[How to get LCSC component prices and stock as JSON (no login, no API key)]]></title>
+        <id>https://dev.to/liuhao04/how-to-get-lcsc-component-prices-and-stock-as-json-no-login-no-api-key-2ekb</id>
+        <link href="https://dev.to/liuhao04/how-to-get-lcsc-component-prices-and-stock-as-json-no-login-no-api-key-2ekb"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀 Backend Internals #3: Your Node.js File Isn't Executed Directly—Here's Why]]></title>
+        <id>https://dev.to/joshikrati03/backend-internals-3-your-nodejs-file-isnt-executed-directly-heres-why-1cgc</id>
+        <link href="https://dev.to/joshikrati03/backend-internals-3-your-nodejs-file-isnt-executed-directly-heres-why-1cgc"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Built a Headless Scraper to Sync eBay Inventory to TikTok Shop with Zero Manual Entry]]></title>
+        <id>https://dev.to/aiwithmoiz/how-we-built-a-headless-scraper-to-sync-ebay-inventory-to-tiktok-shop-with-zero-manual-entry-16bp</id>
+        <link href="https://dev.to/aiwithmoiz/how-we-built-a-headless-scraper-to-sync-ebay-inventory-to-tiktok-shop-with-zero-manual-entry-16bp"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The OG image generation stack is quietly broken]]></title>
+        <id>https://dev.to/killah_nomad/the-og-image-generation-stack-is-quietly-broken-17lj</id>
+        <link href="https://dev.to/killah_nomad/the-og-image-generation-stack-is-quietly-broken-17lj"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Standardization of Agent Context: Why MCP is the New REST]]></title>
+        <id>https://dev.to/programmingcentral/the-standardization-of-agent-context-why-mcp-is-the-new-rest-3ibj</id>
+        <link href="https://dev.to/programmingcentral/the-standardization-of-agent-context-why-mcp-is-the-new-rest-3ibj"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <published>2026-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Turned Manhattan Into a Video Game Cutscene With Mapbox]]></title>
+        <id>https://dev.to/jasonsuhari/i-turned-manhattan-into-a-video-game-cutscene-with-mapbox-1m89</id>
+        <link href="https://dev.to/jasonsuhari/i-turned-manhattan-into-a-video-game-cutscene-with-mapbox-1m89"/>
         <updated>2026-07-23T16:00:00.000Z</updated>
         <published>2026-07-23T16:00:00.000Z</published>
     </entry>
@@ -246,30 +316,9 @@
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Week of Transparent Living With Apple’s ‘More Clear’ Liquid Glass Setting]]></title>
-        <id>https://www.wired.com/story/my-week-of-transparent-living-with-apples-more-clear-liquid-glass-setting/</id>
-        <link href="https://www.wired.com/story/my-week-of-transparent-living-with-apples-more-clear-liquid-glass-setting/"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘The Child Is Terrified’: Measles Doctors Speak Out]]></title>
-        <id>https://www.wired.com/story/the-child-is-terrified-measles-doctors-speak-out/</id>
-        <link href="https://www.wired.com/story/the-child-is-terrified-measles-doctors-speak-out/"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dyson V10 Konical Review (2026): Affordable and Solid]]></title>
-        <id>https://www.wired.com/review/dyson-v10-konical-2026/</id>
-        <link href="https://www.wired.com/review/dyson-v10-konical-2026/"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Turns a Selfie Video Into Your Account’s Spare Key]]></title>
-        <id>https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/</id>
-        <link href="https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/"/>
+        <title type="html"><![CDATA[10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic]]></title>
+        <id>https://www.wired.com/gallery/best-meal-kit-services-1/</id>
+        <link href="https://www.wired.com/gallery/best-meal-kit-services-1/"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
@@ -281,58 +330,30 @@
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic]]></title>
-        <id>https://www.wired.com/gallery/best-meal-kit-services-1/</id>
-        <link href="https://www.wired.com/gallery/best-meal-kit-services-1/"/>
+        <title type="html"><![CDATA[Google Turns a Selfie Video Into Your Account’s Spare Key]]></title>
+        <id>https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/</id>
+        <link href="https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google justifies its massive AI spending with a booming cloud business]]></title>
-        <id>https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/</id>
-        <link href="https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"/>
+        <title type="html"><![CDATA[Dyson V10 Konical Review (2026): Affordable and Solid]]></title>
+        <id>https://www.wired.com/review/dyson-v10-konical-2026/</id>
+        <link href="https://www.wired.com/review/dyson-v10-konical-2026/"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google is making it easier to switch from iPhone to Android]]></title>
-        <id>https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/</id>
-        <link href="https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/"/>
+        <title type="html"><![CDATA[‘The Child Is Terrified’: Measles Doctors Speak Out]]></title>
+        <id>https://www.wired.com/story/the-child-is-terrified-measles-doctors-speak-out/</id>
+        <link href="https://www.wired.com/story/the-child-is-terrified-measles-doctors-speak-out/"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Science Corporation’s vision-restoring chip wins EU approval]]></title>
-        <id>https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/</id>
-        <link href="https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social media addiction lawsuit against Meta is dropped]]></title>
-        <id>https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/</id>
-        <link href="https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MeBeMe’s new ‘interrupter’ app helps you become your best self instead of doomscrolling ]]></title>
-        <id>https://techcrunch.com/2026/07/23/mebemes-new-interrupter-app-helps-you-become-your-best-self-instead-of-doomscrolling/</id>
-        <link href="https://techcrunch.com/2026/07/23/mebemes-new-interrupter-app-helps-you-become-your-best-self-instead-of-doomscrolling/"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon is bringing games to Prime Video]]></title>
-        <id>https://techcrunch.com/2026/07/23/amazon-is-bringing-games-to-prime-video/</id>
-        <link href="https://techcrunch.com/2026/07/23/amazon-is-bringing-games-to-prime-video/"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia is sending GPUs to the Moon]]></title>
-        <id>https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/</id>
-        <link href="https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/"/>
+        <title type="html"><![CDATA[My Week of Transparent Living With Apple’s ‘More Clear’ Liquid Glass Setting]]></title>
+        <id>https://www.wired.com/story/my-week-of-transparent-living-with-apples-more-clear-liquid-glass-setting/</id>
+        <link href="https://www.wired.com/story/my-week-of-transparent-living-with-apples-more-clear-liquid-glass-setting/"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors ]]></title>
         <id>https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/</id>
         <link href="https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: DrillFlow – a diagram editor where every node opens into a sub-diagram]]></title>
-        <id>https://drillflow.de/de/</id>
-        <link href="https://drillflow.de/de/"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen-Audio-3.0-TTS]]></title>
-        <id>https://funaudiollm.github.io/qwen-audio-3.0-tts/</id>
-        <link href="https://funaudiollm.github.io/qwen-audio-3.0-tts/"/>
-        <updated>2026-07-22T16:00:00.000Z</updated>
-        <published>2026-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-host your mail server]]></title>
-        <id>https://blog.haschek.at/2026/you-should-selfhost-your-mail.html</id>
-        <link href="https://blog.haschek.at/2026/you-should-selfhost-your-mail.html"/>
         <updated>2026-07-22T16:00:00.000Z</updated>
         <published>2026-07-22T16:00:00.000Z</published>
     </entry>
