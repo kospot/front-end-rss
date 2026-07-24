@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-24 12:01:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-24 15:02:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -9,12 +9,12 @@
 
 - [2026-07-23-How-to-Add-Watermarks-to-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-add-watermarks-to-pdfs-in-the-browser-with-vue-3-and-pdf-lib-3k4n) 
 - [2026-07-20-How-to-Convert-PDF-to-Word-with-Vue-3-and-pdfjs-dist](https://dev.to/sunshey/how-to-convert-pdf-to-word-with-vue-3-and-pdfjs-dist-512f) 
-- [2026-07-17-Browser-Based-PDF-Editing-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/browser-based-pdf-editing-with-vue-3-and-pdf-lib-413c) 
 - [2026-07-17-Recreating-iOS's-drum-roll-picker-in-Vue-3-—-inertia,-rubber-banding,-and-the-tap-vs-drag-problem](https://dev.to/jlc488/recreating-ioss-drum-roll-picker-in-vue-3-inertia-rubber-banding-and-the-tap-vs-drag-problem-4269) 
+- [2026-07-17-Browser-Based-PDF-Editing-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/browser-based-pdf-editing-with-vue-3-and-pdf-lib-413c) 
 - [2026-07-16-Browser-Based-PDF-Page-Editing-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/browser-based-pdf-page-editing-with-vue-3-and-pdf-lib-3051) 
-- [2026-06-30-Vue.js-vs-Next.js:-Modal-Routing-—-A-Side-by-Side-Breakdown](https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1) 
-- [2026-06-30-What-Are-the-Advantages-of-Custom-Software-Development?](https://dev.to/jacobfoster21/what-are-the-advantages-of-custom-software-development-55m3) 
 - [2026-06-30-How-I-Built-a-Browser-Based-PDF-to-Word-Converter-with-Vue-3,-pdf.js,-and-docx](https://dev.to/sunshey/how-i-built-a-browser-based-pdf-to-word-converter-with-vue-3-pdfjs-and-docx-1fa3) 
+- [2026-06-30-What-Are-the-Advantages-of-Custom-Software-Development?](https://dev.to/jacobfoster21/what-are-the-advantages-of-custom-software-development-55m3) 
+- [2026-06-30-Vue.js-vs-Next.js:-Modal-Routing-—-A-Side-by-Side-Breakdown](https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1) 
 - [2026-06-27-How-I-Add-Watermarks-to-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-add-watermarks-to-pdfs-in-the-browser-with-vue-3-and-pdf-lib-1o97) 
 - [2026-06-26-How-I-Encrypt-PDFs-in-the-Browser-with-Vue-3-and-@pdfsmaller/pdf-encrypt-lite](https://dev.to/sunshey/how-i-encrypt-pdfs-in-the-browser-with-vue-3-and-pdfsmallerpdf-encrypt-lite-1m61) 
 - [2026-06-25-How-I-Split-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-i-split-pdfs-in-the-browser-with-vue-3-and-pdf-lib-3gcb) 
