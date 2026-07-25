@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-25T10:01:29.231Z</updated>
+    <updated>2026-07-25T13:01:34.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,37 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Forget expensive sleepbuds. Buy this pillow instead]]></title>
-        <id>https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead</id>
-        <link href="https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta just created a moderation nightmare for its smart glasses]]></title>
-        <id>https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban</id>
-        <link href="https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midjourney bought the astrology app Co-Star]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta is making its AI chatbot more like an assistant]]></title>
-        <id>https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update</id>
-        <link href="https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update"/>
+        <title type="html"><![CDATA[Folding and flipping phones are getting seriously good]]></title>
+        <id>https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer</id>
+        <link href="https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer"/>
         <updated>2026-07-24T16:00:00.000Z</updated>
         <published>2026-07-24T16:00:00.000Z</published>
     </entry>
@@ -57,9 +29,44 @@
         <published>2026-07-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GoPro Mission 1 Pro Review: The Best Action Camera You Can Buy]]></title>
-        <id>https://www.wired.com/review/gopro-mission-1-pro/</id>
-        <link href="https://www.wired.com/review/gopro-mission-1-pro/"/>
+        <title type="html"><![CDATA[Meta is making its AI chatbot more like an assistant]]></title>
+        <id>https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update</id>
+        <link href="https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midjourney bought the astrology app Co-Star]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta just created a moderation nightmare for its smart glasses]]></title>
+        <id>https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban</id>
+        <link href="https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forget expensive sleepbuds. Buy this pillow instead]]></title>
+        <id>https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead</id>
+        <link href="https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires]]></title>
+        <id>https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/</id>
+        <link href="https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/"/>
         <updated>2026-07-24T16:00:00.000Z</updated>
         <published>2026-07-24T16:00:00.000Z</published>
     </entry>
@@ -71,9 +78,9 @@
         <published>2026-07-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires]]></title>
-        <id>https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/</id>
-        <link href="https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/"/>
+        <title type="html"><![CDATA[GoPro Mission 1 Pro Review: The Best Action Camera You Can Buy]]></title>
+        <id>https://www.wired.com/review/gopro-mission-1-pro/</id>
+        <link href="https://www.wired.com/review/gopro-mission-1-pro/"/>
         <updated>2026-07-24T16:00:00.000Z</updated>
         <published>2026-07-24T16:00:00.000Z</published>
     </entry>
@@ -120,191 +127,37 @@
         <published>2026-07-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why did I buy this domain?]]></title>
-        <id>https://poop.bike/</id>
-        <link href="https://poop.bike/"/>
+        <title type="html"><![CDATA[League of Legends designer shares game design field manual]]></title>
+        <id>https://areadenial.games/design/preface#00-01</id>
+        <link href="https://areadenial.games/design/preface#00-01"/>
         <updated>2026-07-24T16:00:00.000Z</updated>
         <published>2026-07-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: AgentState – Open-source resilience and caching proxy for AI agents]]></title>
-        <id>https://github.com/aleenz1102/AgentState</id>
-        <link href="https://github.com/aleenz1102/AgentState"/>
+        <title type="html"><![CDATA[Grandmother says staged arrest for reality TV show left her injured]]></title>
+        <id>https://www.cnn.com/2026/07/25/us/grandmother-arrest-police-reality-show</id>
+        <link href="https://www.cnn.com/2026/07/25/us/grandmother-arrest-police-reality-show"/>
         <updated>2026-07-24T16:00:00.000Z</updated>
         <published>2026-07-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FastHTML]]></title>
-        <id>https://fastht.ml/</id>
-        <link href="https://fastht.ml/"/>
+        <title type="html"><![CDATA[Show HN: Smriti: Your Photos, Your Memories]]></title>
+        <id>https://chivukulavirinchi.github.io/photovault/</id>
+        <link href="https://chivukulavirinchi.github.io/photovault/"/>
         <updated>2026-07-24T16:00:00.000Z</updated>
         <published>2026-07-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gatekeepers, Luddites, Haters and AI-Generated Maps]]></title>
-        <id>https://www.maproomblog.com/2026/07/gatekeepers-luddites-haters-and-ai-generated-maps/</id>
-        <link href="https://www.maproomblog.com/2026/07/gatekeepers-luddites-haters-and-ai-generated-maps/"/>
+        <title type="html"><![CDATA[Why Would Meta Download So Much Porn?]]></title>
+        <id>https://www.theatlantic.com/technology/2026/07/meta-strike-3-porn-lawsuit/688023/</id>
+        <link href="https://www.theatlantic.com/technology/2026/07/meta-strike-3-porn-lawsuit/688023/"/>
         <updated>2026-07-24T16:00:00.000Z</updated>
         <published>2026-07-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Agent Blameless Postmortem Template]]></title>
-        <id>https://cordum.io/blog/ai-agent-blameless-postmortem-template</id>
-        <link href="https://cordum.io/blog/ai-agent-blameless-postmortem-template"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Points as Tori: Fast Pointwise Signed Distance for Point Clouds]]></title>
-        <id>https://nzfeng.github.io/research/PointsAsTori/</id>
-        <link href="https://nzfeng.github.io/research/PointsAsTori/"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sandyne DAW – Write, record and mix your own music (Free preview)]]></title>
-        <id>https://sandyne.com/</id>
-        <link href="https://sandyne.com/"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cage-lite:Prebind assurance for consequential AI agent actions]]></title>
-        <id>https://github.com/roopamwsure/cage-lite</id>
-        <link href="https://github.com/roopamwsure/cage-lite"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyundai claims humanoid robot plan is not part of talks with striking workers]]></title>
-        <id>https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/</id>
-        <link href="https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How would I restore this 101 year old postcard?]]></title>
-        <id>https://news.ycombinator.com/item?id=49043001</id>
-        <link href="https://news.ycombinator.com/item?id=49043001"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happened to WordPerfect? Why the Dominant Word Processor Disappeared]]></title>
-        <id>https://www.youtube.com/watch?v=cMnjphv3DQo</id>
-        <link href="https://www.youtube.com/watch?v=cMnjphv3DQo"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: OneWayInterview – type a job role, AI builds the async video interview]]></title>
-        <id>https://onewayinterview.com/</id>
-        <link href="https://onewayinterview.com/"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I rebuilt Microsoft Comic Chat's layout engine in one HTML file]]></title>
-        <id>https://arcade.pirillo.com/comic-chatter.html</id>
-        <link href="https://arcade.pirillo.com/comic-chatter.html"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Network expert Glenn Fiedler warns game devs to fix game vulnerabilities with AI]]></title>
-        <id>https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/</id>
-        <link href="https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europol flags 4,340 'horrific' URLs linked to The Com]]></title>
-        <id>https://www.theregister.com/cyber-crime/2026/07/24/europol-flags-4340-horrific-urls-linked-to-the-com/5278556</id>
-        <link href="https://www.theregister.com/cyber-crime/2026/07/24/europol-flags-4340-horrific-urls-linked-to-the-com/5278556"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verse – functional logic programming in Unreal Engine 6 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ebqKYLKjL6U</id>
-        <link href="https://www.youtube.com/watch?v=ebqKYLKjL6U"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veritasium – why he still gets views [video]]]></title>
-        <id>https://www.youtube.com/watch?v=QHhJ8_TJeNo</id>
-        <link href="https://www.youtube.com/watch?v=QHhJ8_TJeNo"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Jolta – Automatic per-project JDK switching (like Volta, for Java)]]></title>
-        <id>https://oneappplatform.github.io/jolta/</id>
-        <link href="https://oneappplatform.github.io/jolta/"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midjourney Releasing v8.2]]></title>
-        <id>https://news.ycombinator.com/item?id=49043659</id>
-        <link href="https://news.ycombinator.com/item?id=49043659"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM Acquiring HRL Laboratories]]></title>
-        <id>https://newsroom.ibm.com/2026-07-23-ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quantum</id>
-        <link href="https://newsroom.ibm.com/2026-07-23-ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quantum"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Maps of >100 theories for how society works inc. Graham / Thiel / Smith]]></title>
-        <id>https://society.clearerthinking.org/</id>
-        <link href="https://society.clearerthinking.org/"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: RMCP.dev – An MCP server that finds other MCP servers]]></title>
-        <id>https://rmcp.dev/</id>
-        <link href="https://rmcp.dev/"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reactive Python Notebooks in Jupyter]]></title>
-        <id>https://github.com/ipyflow/ipyflow</id>
-        <link href="https://github.com/ipyflow/ipyflow"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub]]></title>
-        <id>https://news.ycombinator.com/item?id=49044903</id>
-        <link href="https://news.ycombinator.com/item?id=49044903"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres FDW: Pushdown is a negotiation]]></title>
-        <id>https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation</id>
-        <link href="https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgress in Rust]]></title>
-        <id>https://news.ycombinator.com/item?id=49045134</id>
-        <link href="https://news.ycombinator.com/item?id=49045134"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Which is the least sloppy and claudeism free model you have used?]]></title>
-        <id>https://news.ycombinator.com/item?id=49045140</id>
-        <link href="https://news.ycombinator.com/item?id=49045140"/>
+        <title type="html"><![CDATA[A New Approach to Nuclear Warhead Verification Using a Zero-Knowledge Protocol(2012) [pdf]]]></title>
+        <id>https://www.boazbarak.org/Papers/nuclear-zk.pdf</id>
+        <link href="https://www.boazbarak.org/Papers/nuclear-zk.pdf"/>
         <updated>2026-07-24T16:00:00.000Z</updated>
         <published>2026-07-24T16:00:00.000Z</published>
     </entry>
@@ -316,51 +169,198 @@
         <published>2026-07-24T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask HN: Which is the least sloppy and claudeism free model you have used?]]></title>
+        <id>https://news.ycombinator.com/item?id=49045140</id>
+        <link href="https://news.ycombinator.com/item?id=49045140"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgress in Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=49045134</id>
+        <link href="https://news.ycombinator.com/item?id=49045134"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres FDW: Pushdown is a negotiation]]></title>
+        <id>https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation</id>
+        <link href="https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub]]></title>
+        <id>https://news.ycombinator.com/item?id=49044903</id>
+        <link href="https://news.ycombinator.com/item?id=49044903"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reactive Python Notebooks in Jupyter]]></title>
+        <id>https://github.com/ipyflow/ipyflow</id>
+        <link href="https://github.com/ipyflow/ipyflow"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: RMCP.dev – An MCP server that finds other MCP servers]]></title>
+        <id>https://rmcp.dev/</id>
+        <link href="https://rmcp.dev/"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Maps of >100 theories for how society works inc. Graham / Thiel / Smith]]></title>
+        <id>https://society.clearerthinking.org/</id>
+        <link href="https://society.clearerthinking.org/"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM Acquiring HRL Laboratories]]></title>
+        <id>https://newsroom.ibm.com/2026-07-23-ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quantum</id>
+        <link href="https://newsroom.ibm.com/2026-07-23-ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quantum"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midjourney Releasing v8.2]]></title>
+        <id>https://news.ycombinator.com/item?id=49043659</id>
+        <link href="https://news.ycombinator.com/item?id=49043659"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Jolta – Automatic per-project JDK switching (like Volta, for Java)]]></title>
+        <id>https://oneappplatform.github.io/jolta/</id>
+        <link href="https://oneappplatform.github.io/jolta/"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veritasium – why he still gets views [video]]]></title>
+        <id>https://www.youtube.com/watch?v=QHhJ8_TJeNo</id>
+        <link href="https://www.youtube.com/watch?v=QHhJ8_TJeNo"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verse – functional logic programming in Unreal Engine 6 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ebqKYLKjL6U</id>
+        <link href="https://www.youtube.com/watch?v=ebqKYLKjL6U"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europol flags 4,340 'horrific' URLs linked to The Com]]></title>
+        <id>https://www.theregister.com/cyber-crime/2026/07/24/europol-flags-4340-horrific-urls-linked-to-the-com/5278556</id>
+        <link href="https://www.theregister.com/cyber-crime/2026/07/24/europol-flags-4340-horrific-urls-linked-to-the-com/5278556"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Network expert Glenn Fiedler warns game devs to fix game vulnerabilities with AI]]></title>
+        <id>https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/</id>
+        <link href="https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I rebuilt Microsoft Comic Chat's layout engine in one HTML file]]></title>
+        <id>https://arcade.pirillo.com/comic-chatter.html</id>
+        <link href="https://arcade.pirillo.com/comic-chatter.html"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: OneWayInterview – type a job role, AI builds the async video interview]]></title>
+        <id>https://onewayinterview.com/</id>
+        <link href="https://onewayinterview.com/"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happened to WordPerfect? Why the Dominant Word Processor Disappeared]]></title>
+        <id>https://www.youtube.com/watch?v=cMnjphv3DQo</id>
+        <link href="https://www.youtube.com/watch?v=cMnjphv3DQo"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How would I restore this 101 year old postcard?]]></title>
+        <id>https://news.ycombinator.com/item?id=49043001</id>
+        <link href="https://news.ycombinator.com/item?id=49043001"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyundai claims humanoid robot plan is not part of talks with striking workers]]></title>
+        <id>https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/</id>
+        <link href="https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cage-lite:Prebind assurance for consequential AI agent actions]]></title>
+        <id>https://github.com/roopamwsure/cage-lite</id>
+        <link href="https://github.com/roopamwsure/cage-lite"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sandyne DAW – Write, record and mix your own music (Free preview)]]></title>
+        <id>https://sandyne.com/</id>
+        <link href="https://sandyne.com/"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Points as Tori: Fast Pointwise Signed Distance for Point Clouds]]></title>
+        <id>https://nzfeng.github.io/research/PointsAsTori/</id>
+        <link href="https://nzfeng.github.io/research/PointsAsTori/"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agent Blameless Postmortem Template]]></title>
+        <id>https://cordum.io/blog/ai-agent-blameless-postmortem-template</id>
+        <link href="https://cordum.io/blog/ai-agent-blameless-postmortem-template"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gatekeepers, Luddites, Haters and AI-Generated Maps]]></title>
+        <id>https://www.maproomblog.com/2026/07/gatekeepers-luddites-haters-and-ai-generated-maps/</id>
+        <link href="https://www.maproomblog.com/2026/07/gatekeepers-luddites-haters-and-ai-generated-maps/"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FastHTML]]></title>
+        <id>https://fastht.ml/</id>
+        <link href="https://fastht.ml/"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: AgentState – Open-source resilience and caching proxy for AI agents]]></title>
+        <id>https://github.com/aleenz1102/AgentState</id>
+        <link href="https://github.com/aleenz1102/AgentState"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why did I buy this domain?]]></title>
+        <id>https://poop.bike/</id>
+        <link href="https://poop.bike/"/>
+        <updated>2026-07-24T16:00:00.000Z</updated>
+        <published>2026-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Direct Lake on OneLake Just Hit GA. Here’s When It Replaces Import Mode, and When It Doesn’t.]]></title>
         <id>https://pub.towardsai.net/direct-lake-on-onelake-just-hit-ga-heres-when-it-replaces-import-mode-and-when-it-doesn-t-248cf576ccc4?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/direct-lake-on-onelake-just-hit-ga-heres-when-it-replaces-import-mode-and-when-it-doesn-t-248cf576ccc4?source=rss----98111c9905da---4"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Arrow: The Movie Your Bronze Layer Deserves]]></title>
-        <id>https://pub.towardsai.net/apache-arrow-the-movie-your-bronze-layer-deserves-ede51fb1eaa2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/apache-arrow-the-movie-your-bronze-layer-deserves-ede51fb1eaa2?source=rss----98111c9905da---4"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Edit PDF Metadata in the Browser with Vue 3 and pdf-lib]]></title>
-        <id>https://dev.to/sunshey/how-to-edit-pdf-metadata-in-the-browser-with-vue-3-and-pdf-lib-3lfg</id>
-        <link href="https://dev.to/sunshey/how-to-edit-pdf-metadata-in-the-browser-with-vue-3-and-pdf-lib-3lfg"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ML Without Magic: Building a Tiny Language Model in Pure Node.js and Watching Every Weight Change]]></title>
-        <id>https://dev.to/maktordev/ml-without-magic-building-a-tiny-language-model-in-pure-nodejs-and-watching-every-weight-change-5dfh</id>
-        <link href="https://dev.to/maktordev/ml-without-magic-building-a-tiny-language-model-in-pure-nodejs-and-watching-every-weight-change-5dfh"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Push Notifications in Progressive Web Apps (PWAs): How to Keep Users Engaged Without Annoying Them]]></title>
-        <id>https://dev.to/okoye_ndidiamaka_5e3b7d30/push-notifications-in-progressive-web-apps-pwas-how-to-keep-users-engaged-without-annoying-them-5cm7</id>
-        <link href="https://dev.to/okoye_ndidiamaka_5e3b7d30/push-notifications-in-progressive-web-apps-pwas-how-to-keep-users-engaged-without-annoying-them-5cm7"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Premium Student Dashboard Using HTML, CSS & JavaScript]]></title>
-        <id>https://dev.to/buildwithme31858/i-built-a-premium-student-dashboard-using-html-css-javascript-54gh</id>
-        <link href="https://dev.to/buildwithme31858/i-built-a-premium-student-dashboard-using-html-css-javascript-54gh"/>
-        <updated>2026-07-24T16:00:00.000Z</updated>
-        <published>2026-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Local-First AI Video Editor with WebCodecs, WebGPU, and WASM]]></title>
-        <id>https://dev.to/martindelophy/how-i-built-a-local-first-ai-video-editor-with-webcodecs-webgpu-and-wasm-4lkn</id>
-        <link href="https://dev.to/martindelophy/how-i-built-a-local-first-ai-video-editor-with-webcodecs-webgpu-and-wasm-4lkn"/>
         <updated>2026-07-24T16:00:00.000Z</updated>
         <published>2026-07-24T16:00:00.000Z</published>
     </entry>
