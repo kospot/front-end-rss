@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-26T10:01:40.586Z</updated>
+    <updated>2026-07-26T13:01:53.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,37 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[The vertical video takeover is here]]></title>
+        <id>https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook</id>
+        <link href="https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google basically confirms the Pixel 11 is getting a price hike]]></title>
         <id>https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike</id>
         <link href="https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All the Ways You Can Make Reading on Your Phone Easier]]></title>
+        <id>https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/</id>
+        <link href="https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Subscription-Free Home Security Cameras I’ve Tried]]></title>
+        <id>https://www.wired.com/story/best-subscription-free-security-cameras/</id>
+        <link href="https://www.wired.com/story/best-subscription-free-security-cameras/"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best GoPro Camera (2026): Compact, Budget, Accessories]]></title>
+        <id>https://www.wired.com/gallery/best-gopro-hero-camera/</id>
+        <link href="https://www.wired.com/gallery/best-gopro-hero-camera/"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
@@ -29,226 +57,30 @@
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A platformer video game using visual representations of functions]]></title>
-        <id>https://function-platformer.vercel.app/</id>
-        <link href="https://function-platformer.vercel.app/"/>
+        <title type="html"><![CDATA[Show HN: Virtual time engine to record HTML to 60fps MP4, no drops]]></title>
+        <id>https://zlvox.com/tools/html-to-video</id>
+        <link href="https://zlvox.com/tools/html-to-video"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PaperScreen: Give your Mac's display a softer, paper-like feel]]></title>
-        <id>https://github.com/Bearbobs/PaperScreen</id>
-        <link href="https://github.com/Bearbobs/PaperScreen"/>
+        <title type="html"><![CDATA[Google's AI Spending Spree Has Investors Nervous]]></title>
+        <id>https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223</id>
+        <link href="https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Genesis Mission Overview]]></title>
-        <id>https://github.com/donutloop/donutloop-genesis/blob/main/README.md</id>
-        <link href="https://github.com/donutloop/donutloop-genesis/blob/main/README.md"/>
+        <title type="html"><![CDATA[Making 3 AI's Count to 100 Together [video]]]></title>
+        <id>https://www.youtube.com/watch?v=MXEInc6Zy7Q</id>
+        <link href="https://www.youtube.com/watch?v=MXEInc6Zy7Q"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[As Burlington reviews data centre plan, councillors reject moratorium]]></title>
-        <id>https://www.cbc.ca/news/canada/hamilton/data-centre-moratorium-burlington-9.7282901</id>
-        <link href="https://www.cbc.ca/news/canada/hamilton/data-centre-moratorium-burlington-9.7282901"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interactive 3D Dice Roller with Custom Physics and Shaders]]></title>
-        <id>https://ttrpg.dies.kmcprizmquest.dev/</id>
-        <link href="https://ttrpg.dies.kmcprizmquest.dev/"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[They Tried to Put Me Back in Jail [video]]]></title>
-        <id>https://www.youtube.com/watch?v=CCpQw1Uhu38</id>
-        <link href="https://www.youtube.com/watch?v=CCpQw1Uhu38"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Juice – non-essential visual, audio, and haptic effects to enhance UX]]></title>
-        <id>https://garden.bradwoods.io/notes/design/juice</id>
-        <link href="https://garden.bradwoods.io/notes/design/juice"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists discover first eukaryote that can fix nitrogen (2024)]]></title>
-        <id>https://www.nature.com/articles/d41586-024-01046-z</id>
-        <link href="https://www.nature.com/articles/d41586-024-01046-z"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOE announces first Genesis Mission projects for AI-driven scientific discovery]]></title>
-        <id>https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate</id>
-        <link href="https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lowest, real-time On-Demand and Spot GPU prices across every cloud provider]]></title>
-        <id>https://gpu.atarimae.dev/</id>
-        <link href="https://gpu.atarimae.dev/"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Visual Journey Through Async Rust]]></title>
-        <id>https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md</id>
-        <link href="https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GM Backs Sodium Ion Batteries for U.S. Grid Storage]]></title>
-        <id>https://spectrum.ieee.org/sodium-ion-battery-peak-energy</id>
-        <link href="https://spectrum.ieee.org/sodium-ion-battery-peak-energy"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How A Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist]]></title>
-        <id>https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html</id>
-        <link href="https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Do Not Need a Server for Agent Evals]]></title>
-        <id>https://medium.com/@chalyi/you-do-not-need-a-server-for-you-agent-evals-a145962298be</id>
-        <link href="https://medium.com/@chalyi/you-do-not-need-a-server-for-you-agent-evals-a145962298be"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Gets Saved in the New West?]]></title>
-        <id>https://www.playboy.com/read/politics/who-gets-saved-in-the-new-west</id>
-        <link href="https://www.playboy.com/read/politics/who-gets-saved-in-the-new-west"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac OS 7 on x86 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=rJRlHKQqX2M</id>
-        <link href="https://www.youtube.com/watch?v=rJRlHKQqX2M"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD publishes machine-readable ISA so frontier models can write its GPU kernels]]></title>
-        <id>https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580</id>
-        <link href="https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech titans' playbook to defy Aussie social media ban]]></title>
-        <id>https://www.afr.com/technology/big-tech-tricks-undermining-social-media-ban-wells-20260331-p5zk5e</id>
-        <link href="https://www.afr.com/technology/big-tech-tricks-undermining-social-media-ban-wells-20260331-p5zk5e"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why our exoplanet map looks like a cone? [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ZF_Q4C_Yhz8</id>
-        <link href="https://www.youtube.com/watch?v=ZF_Q4C_Yhz8"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collective Intelligence: The Next Frontier of AI]]></title>
-        <id>https://github.com/ailinone/collective-intelligence</id>
-        <link href="https://github.com/ailinone/collective-intelligence"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Maps Platform adds Isochrones API for travel-time reachability polygons]]></title>
-        <id>https://developers.google.com/maps/documentation/isochrones/overview</id>
-        <link href="https://developers.google.com/maps/documentation/isochrones/overview"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Possible invasive species superspreader event near Strait of Hormuz]]></title>
-        <id>https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186</id>
-        <link href="https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space Oddity; Review of Slobodian and Tarnoff's "Muskism"]]></title>
-        <id>https://www.nybooks.com/articles/2026/07/23/space-oddity-muskism-slobodian-tarnoff/</id>
-        <link href="https://www.nybooks.com/articles/2026/07/23/space-oddity-muskism-slobodian-tarnoff/"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home]]></title>
-        <id>https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/</id>
-        <link href="https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Operating a computer with your tongue: the Augmental MouthPad [video]]]></title>
-        <id>https://www.youtube.com/watch?v=xReyIF5pwRo</id>
-        <link href="https://www.youtube.com/watch?v=xReyIF5pwRo"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Algorithmic Atelier]]></title>
-        <id>https://www.doc.cc/articles/the-algorithmic-atelier</id>
-        <link href="https://www.doc.cc/articles/the-algorithmic-atelier"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eve.dev: Next.js for Agents]]></title>
-        <id>https://eve.dev/</id>
-        <link href="https://eve.dev/"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vision 50 Years Phone – Keeping old Android phones fast without root]]></title>
-        <id>https://github.com/50YearsPhone/vision-50-years-phone</id>
-        <link href="https://github.com/50YearsPhone/vision-50-years-phone"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I built an AI that roasts GitHub profiles]]></title>
-        <id>https://gitroast-kappa.vercel.app/</id>
-        <link href="https://gitroast-kappa.vercel.app/"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Record a click-through demo from a Markdown plan into one HTML file]]></title>
-        <id>https://github.com/justrinari/handoff</id>
-        <link href="https://github.com/justrinari/handoff"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LaunchRanks – Get actionable SEO steps for growing site authority]]></title>
-        <id>https://launchranks.com</id>
-        <link href="https://launchranks.com"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WezTerm Config Guide]]></title>
-        <id>https://gilbertsanchez.com/posts/my-terminal-wezterm/</id>
-        <link href="https://gilbertsanchez.com/posts/my-terminal-wezterm/"/>
+        <title type="html"><![CDATA[ARIA – Voice-native 3D spatial AI SoC with governed autonomy (BSL 1.1)]]></title>
+        <id>https://github.com/sidevworks/aria-sec</id>
+        <link href="https://github.com/sidevworks/aria-sec"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
@@ -260,131 +92,275 @@
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-Rink.js - Create responsive HTML link targets
-]]></title>
-        <id>
-https://github.com/williamtroup/Rink.js
-</id>
-        <link href="
-https://github.com/williamtroup/Rink.js
-"/>
+        <title type="html"><![CDATA[WezTerm Config Guide]]></title>
+        <id>https://gilbertsanchez.com/posts/my-terminal-wezterm/</id>
+        <link href="https://gilbertsanchez.com/posts/my-terminal-wezterm/"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-SVAR Kanban: flexible drag-and-drop task board for React, Svelte & Vue
-]]></title>
-        <id>
-https://svar.dev/blog/svar-kanban-for-react-svelte-vue/
-</id>
-        <link href="
-https://svar.dev/blog/svar-kanban-for-react-svelte-vue/
-"/>
+        <title type="html"><![CDATA[LaunchRanks – Get actionable SEO steps for growing site authority]]></title>
+        <id>https://launchranks.com</id>
+        <link href="https://launchranks.com"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-Evaluation time benchmarks for the top 1,000 JavaScript libraries
-]]></title>
-        <id>
-https://pagegym.com/3p-impact
-</id>
-        <link href="
-https://pagegym.com/3p-impact
-"/>
+        <title type="html"><![CDATA[Show HN: Record a click-through demo from a Markdown plan into one HTML file]]></title>
+        <id>https://github.com/justrinari/handoff</id>
+        <link href="https://github.com/justrinari/handoff"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-Deno Desktop Apps
-]]></title>
-        <id>
-https://docs.deno.com/runtime/desktop/
-</id>
-        <link href="
-https://docs.deno.com/runtime/desktop/
-"/>
+        <title type="html"><![CDATA[Show HN: I built an AI that roasts GitHub profiles]]></title>
+        <id>https://gitroast-kappa.vercel.app/</id>
+        <link href="https://gitroast-kappa.vercel.app/"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a demo that models a fetch as a useReducer state machine — so impossible states can't happen]]></title>
-        <id>https://dev.to/dev48v/i-built-a-demo-that-models-a-fetch-as-a-usereducer-state-machine-so-impossible-states-cant-happen-228d</id>
-        <link href="https://dev.to/dev48v/i-built-a-demo-that-models-a-fetch-as-a-usereducer-state-machine-so-impossible-states-cant-happen-228d"/>
+        <title type="html"><![CDATA[Vision 50 Years Phone – Keeping old Android phones fast without root]]></title>
+        <id>https://github.com/50YearsPhone/vision-50-years-phone</id>
+        <link href="https://github.com/50YearsPhone/vision-50-years-phone"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Enhancing JavaScript Screen Lock Security: Addressing Vulnerabilities in Enterprise Data Protection]]></title>
-        <id>https://dev.to/pavkode/enhancing-javascript-screen-lock-security-addressing-vulnerabilities-in-enterprise-data-protection-2874</id>
-        <link href="https://dev.to/pavkode/enhancing-javascript-screen-lock-security-addressing-vulnerabilities-in-enterprise-data-protection-2874"/>
+        <title type="html"><![CDATA[Eve.dev: Next.js for Agents]]></title>
+        <id>https://eve.dev/</id>
+        <link href="https://eve.dev/"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ARTLESS TECHNOLOGY]]></title>
-        <id>https://dev.to/artlesstech7912/artless-technology-27pl</id>
-        <link href="https://dev.to/artlesstech7912/artless-technology-27pl"/>
+        <title type="html"><![CDATA[The Algorithmic Atelier]]></title>
+        <id>https://www.doc.cc/articles/the-algorithmic-atelier</id>
+        <link href="https://www.doc.cc/articles/the-algorithmic-atelier"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You're watching `window` to detect element size changes. `ResizeObserver` watches the element itself.]]></title>
-        <id>https://dev.to/parsajiravand/youre-watching-window-to-detect-element-size-changes-resizeobserver-watches-the-element-46dp</id>
-        <link href="https://dev.to/parsajiravand/youre-watching-window-to-detect-element-size-changes-resizeobserver-watches-the-element-46dp"/>
+        <title type="html"><![CDATA[Operating a computer with your tongue: the Augmental MouthPad [video]]]></title>
+        <id>https://www.youtube.com/watch?v=xReyIF5pwRo</id>
+        <link href="https://www.youtube.com/watch?v=xReyIF5pwRo"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frontend Interview Flow: Stages, Signals, and Prep]]></title>
-        <id>https://dev.to/naserrasouli/frontend-interview-flow-stages-signals-and-prep-3aih</id>
-        <link href="https://dev.to/naserrasouli/frontend-interview-flow-stages-signals-and-prep-3aih"/>
+        <title type="html"><![CDATA[Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home]]></title>
+        <id>https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/</id>
+        <link href="https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React useState Hook]]></title>
-        <id>https://dev.to/vidhya_murali_5aabe7784bd/react-usestate-hook-1ol2</id>
-        <link href="https://dev.to/vidhya_murali_5aabe7784bd/react-usestate-hook-1ol2"/>
+        <title type="html"><![CDATA[Space Oddity; Review of Slobodian and Tarnoff's "Muskism"]]></title>
+        <id>https://www.nybooks.com/articles/2026/07/23/space-oddity-muskism-slobodian-tarnoff/</id>
+        <link href="https://www.nybooks.com/articles/2026/07/23/space-oddity-muskism-slobodian-tarnoff/"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elixir vs Node.js: Why Developers Are Exploring Elixir for Modern Backend Systems]]></title>
-        <id>https://dev.to/whitehacker/elixir-vs-nodejs-why-developers-are-exploring-elixir-for-modern-backend-systems-81d</id>
-        <link href="https://dev.to/whitehacker/elixir-vs-nodejs-why-developers-are-exploring-elixir-for-modern-backend-systems-81d"/>
+        <title type="html"><![CDATA[Possible invasive species superspreader event near Strait of Hormuz]]></title>
+        <id>https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186</id>
+        <link href="https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Model Rollout Gate, Then Explain It in an MLOps Interview]]></title>
-        <id>https://dev.to/karuha/build-a-model-rollout-gate-then-explain-it-in-an-mlops-interview-575h</id>
-        <link href="https://dev.to/karuha/build-a-model-rollout-gate-then-explain-it-in-an-mlops-interview-575h"/>
+        <title type="html"><![CDATA[Google Maps Platform adds Isochrones API for travel-time reachability polygons]]></title>
+        <id>https://developers.google.com/maps/documentation/isochrones/overview</id>
+        <link href="https://developers.google.com/maps/documentation/isochrones/overview"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Free Recipe Card Maker Because Every Other One Had a Catch]]></title>
-        <id>https://dev.to/dayu2333jinyul/i-built-a-free-recipe-card-maker-because-every-other-one-had-a-catch-405i</id>
-        <link href="https://dev.to/dayu2333jinyul/i-built-a-free-recipe-card-maker-because-every-other-one-had-a-catch-405i"/>
+        <title type="html"><![CDATA[Collective Intelligence: The Next Frontier of AI]]></title>
+        <id>https://github.com/ailinone/collective-intelligence</id>
+        <link href="https://github.com/ailinone/collective-intelligence"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Dog Age Calculator Because the 7 Rule Is a Lie]]></title>
-        <id>https://dev.to/dayu2333jinyul/i-built-a-dog-age-calculator-because-the-x7-rule-is-a-lie-1amm</id>
-        <link href="https://dev.to/dayu2333jinyul/i-built-a-dog-age-calculator-because-the-x7-rule-is-a-lie-1amm"/>
+        <title type="html"><![CDATA[Why our exoplanet map looks like a cone? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ZF_Q4C_Yhz8</id>
+        <link href="https://www.youtube.com/watch?v=ZF_Q4C_Yhz8"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Football Data Pipeline: Lessons from Unhappy Tottenham players should leave De Zerbi]]></title>
-        <id>https://dev.to/muhammad_binnazeer_6a810/building-a-football-data-pipeline-lessons-from-unhappy-tottenham-players-should-leave-de-zerbi-1530</id>
-        <link href="https://dev.to/muhammad_binnazeer_6a810/building-a-football-data-pipeline-lessons-from-unhappy-tottenham-players-should-leave-de-zerbi-1530"/>
+        <title type="html"><![CDATA[Tech titans' playbook to defy Aussie social media ban]]></title>
+        <id>https://www.afr.com/technology/big-tech-tricks-undermining-social-media-ban-wells-20260331-p5zk5e</id>
+        <link href="https://www.afr.com/technology/big-tech-tricks-undermining-social-media-ban-wells-20260331-p5zk5e"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD publishes machine-readable ISA so frontier models can write its GPU kernels]]></title>
+        <id>https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580</id>
+        <link href="https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac OS 7 on x86 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=rJRlHKQqX2M</id>
+        <link href="https://www.youtube.com/watch?v=rJRlHKQqX2M"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Gets Saved in the New West?]]></title>
+        <id>https://www.playboy.com/read/politics/who-gets-saved-in-the-new-west</id>
+        <link href="https://www.playboy.com/read/politics/who-gets-saved-in-the-new-west"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Do Not Need a Server for Agent Evals]]></title>
+        <id>https://medium.com/@chalyi/you-do-not-need-a-server-for-you-agent-evals-a145962298be</id>
+        <link href="https://medium.com/@chalyi/you-do-not-need-a-server-for-you-agent-evals-a145962298be"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How A Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist]]></title>
+        <id>https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html</id>
+        <link href="https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GM Backs Sodium Ion Batteries for U.S. Grid Storage]]></title>
+        <id>https://spectrum.ieee.org/sodium-ion-battery-peak-energy</id>
+        <link href="https://spectrum.ieee.org/sodium-ion-battery-peak-energy"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Visual Journey Through Async Rust]]></title>
+        <id>https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md</id>
+        <link href="https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lowest, real-time On-Demand and Spot GPU prices across every cloud provider]]></title>
+        <id>https://gpu.atarimae.dev/</id>
+        <link href="https://gpu.atarimae.dev/"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOE announces first Genesis Mission projects for AI-driven scientific discovery]]></title>
+        <id>https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate</id>
+        <link href="https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists discover first eukaryote that can fix nitrogen (2024)]]></title>
+        <id>https://www.nature.com/articles/d41586-024-01046-z</id>
+        <link href="https://www.nature.com/articles/d41586-024-01046-z"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juice – non-essential visual, audio, and haptic effects to enhance UX]]></title>
+        <id>https://garden.bradwoods.io/notes/design/juice</id>
+        <link href="https://garden.bradwoods.io/notes/design/juice"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[They Tried to Put Me Back in Jail [video]]]></title>
+        <id>https://www.youtube.com/watch?v=CCpQw1Uhu38</id>
+        <link href="https://www.youtube.com/watch?v=CCpQw1Uhu38"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive 3D Dice Roller with Custom Physics and Shaders]]></title>
+        <id>https://ttrpg.dies.kmcprizmquest.dev/</id>
+        <link href="https://ttrpg.dies.kmcprizmquest.dev/"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As Burlington reviews data centre plan, councillors reject moratorium]]></title>
+        <id>https://www.cbc.ca/news/canada/hamilton/data-centre-moratorium-burlington-9.7282901</id>
+        <link href="https://www.cbc.ca/news/canada/hamilton/data-centre-moratorium-burlington-9.7282901"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis Mission Overview]]></title>
+        <id>https://github.com/donutloop/donutloop-genesis/blob/main/README.md</id>
+        <link href="https://github.com/donutloop/donutloop-genesis/blob/main/README.md"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PaperScreen: Give your Mac's display a softer, paper-like feel]]></title>
+        <id>https://github.com/Bearbobs/PaperScreen</id>
+        <link href="https://github.com/Bearbobs/PaperScreen"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A platformer video game using visual representations of functions]]></title>
+        <id>https://function-platformer.vercel.app/</id>
+        <link href="https://function-platformer.vercel.app/"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Building Toy Chatbots: The 5 AI Engineering Projects That Will Get You Hired]]></title>
+        <id>https://pub.towardsai.net/stop-building-toy-chatbots-the-5-ai-engineering-projects-that-will-get-you-hired-d569eebe89fd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/stop-building-toy-chatbots-the-5-ai-engineering-projects-that-will-get-you-hired-d569eebe89fd?source=rss----98111c9905da---4"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Skills That Actually Matter — And Why Every Professional Needs Them in 2026]]></title>
+        <id>https://pub.towardsai.net/python-skills-that-actually-matter-and-why-every-professional-needs-them-in-2026-634e796236de?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/python-skills-that-actually-matter-and-why-every-professional-needs-them-in-2026-634e796236de?source=rss----98111c9905da---4"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How GenAI works — Through the eyes of an Engineer | Practical Pocket Guide]]></title>
+        <id>https://pub.towardsai.net/how-genai-works-through-the-eyes-of-an-engineer-practical-pocket-guide-e63eaf721841?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-genai-works-through-the-eyes-of-an-engineer-practical-pocket-guide-e63eaf721841?source=rss----98111c9905da---4"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Fit a Model That “Shouldn’t” Fit on a 6GB Laptop GPU]]></title>
+        <id>https://pub.towardsai.net/how-i-fit-a-model-that-shouldnt-fit-on-a-6gb-laptop-gpu-e8376e3af1d5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-i-fit-a-model-that-shouldnt-fit-on-a-6gb-laptop-gpu-e8376e3af1d5?source=rss----98111c9905da---4"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nodejs/node]]></title>
+        <id>https://github.com/nodejs/node</id>
+        <link href="https://github.com/nodejs/node"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leonxlnx/taste-skill]]></title>
+        <id>https://github.com/Leonxlnx/taste-skill</id>
+        <link href="https://github.com/Leonxlnx/taste-skill"/>
+        <updated>2026-07-25T16:00:00.000Z</updated>
+        <published>2026-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mochajs/mocha]]></title>
+        <id>https://github.com/mochajs/mocha</id>
+        <link href="https://github.com/mochajs/mocha"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
