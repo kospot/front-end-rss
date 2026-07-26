@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-07-26 06:00:52，:rocket: 更新条数: +2510， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-26 08:01:57，:rocket: 更新条数: +2481， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -33,23 +33,23 @@
 - [阮一峰](#阮一峰)  
 - [Anthony-Fu](#anthony-fu)![](/assets/dot.png)   
 - [Randy's-Blog](#randy's-blog)![](/assets/dot.png)   
-- [GitHub-Trending-JS](#github-trending-js)  
+- [GitHub-Trending-JS](#github-trending-js)![](/assets/dot.png)   
 - [美团技术团队](#美团技术团队)  
 - [InfoQ](#infoq)  
 - [GitHub-Engineering](#github-engineering)  
 - [O'Reilly-Radar](#o'reilly-radar)  
 - [Martin-Fowler](#martin-fowler)![](/assets/dot.png)   
 - [arXiv-ML](#arxiv-ml)  
-- [HuggingFace-Blog](#huggingface-blog)  
+- [HuggingFace-Blog](#huggingface-blog)![](/assets/dot.png)   
 - [smol.ai](#smol.ai)![](/assets/dot.png)   
 - [Towards-AI](#towards-ai)  
 - [Sebastian-Raschka](#sebastian-raschka)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [OpenAI-Blog](#openai-blog)![](/assets/dot.png)   
-- [Hacker-News](#hacker-news)![](/assets/dot.png)   
-- [TechCrunch](#techcrunch)![](/assets/dot.png)   
+- [Hacker-News](#hacker-news)  
+- [TechCrunch](#techcrunch)  
 - [Wired](#wired)  
-- [Engadget](#engadget)![](/assets/dot.png)   
+- [Engadget](#engadget)  
 - [少数派](#少数派)  
 
 ## 文章链接
@@ -126,8 +126,8 @@
 - [2026-07-07-Meet-Kirki:-WordPress’s-First-Visual-Builder-With-An-Infinite-Canvas](https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/)  
 - [2026-07-03-Users-Don’t-Need-More-Tools:-They-Need-Seamless-Integrations](https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/)  
 - [2026-07-02-Matching-AI-Modality-To-User-Intent:-Designing-The-Right-Interface](https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/)  
-- [2026-06-30-Snapshots-Of-Summer-July-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/)  
 - [2026-06-30-Why-Accessibility-Is-An-Operational-Capability,-Not-A-Feature](https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/)  
+- [2026-06-30-Snapshots-Of-Summer-July-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/)  
 - [......【查看更多】......](/details/Smashing Magazine.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -247,26 +247,26 @@
 </summary>
 
 
-- [2026-07-26-Complete-Buying-Guide-for-Verified-Payoneer-Accounts-Online](https://dev.to/safwerwe5/complete-buying-guide-for-verified-payoneer-accounts-online-bka) ![](/assets/new.png)  
-- [2026-07-26-Top-Rated-Verified-Payoneer-Account-Providers-in-2026](https://dev.to/safwerwe5/top-rated-verified-payoneer-account-providers-in-2026-b93) ![](/assets/new.png)  
-- [2026-07-26-How-Random-Is-a-Random-Word-Generator?](https://dev.to/lucian_lkb_1f009d/how-random-is-a-random-word-generator-290p) ![](/assets/new.png)  
-- [2026-07-26-How-to-Build-a-Self-Healing-localtunnel-Daemon-in-Node.js-To-Avoid-503-Errors](https://dev.to/whitezom/how-to-build-a-self-healing-localtunnel-daemon-in-nodejs-to-avoid-503-errors-419d) ![](/assets/new.png)  
-- [2026-07-26-React-Hooks](https://dev.to/vidhya_murali_5aabe7784bd/react-hooks-546h) ![](/assets/new.png)  
-- [2026-07-26-Mastering-Node.js-Transport-Layers-in-MCP:-Stdio-vs.-Server-Sent-Events-SSE](https://dev.to/programmingcentral/mastering-nodejs-transport-layers-in-mcp-stdio-vs-server-sent-events-sse-245h) ![](/assets/new.png)  
-- [2026-07-26-Designing-Resilient-Event-Driven-Webhook-Queues-in-n8n-and-Node.js-for-High-Volume-Systems](https://dev.to/shahdinsalman/designing-resilient-event-driven-webhook-queues-in-n8n-and-nodejs-for-high-volume-systems-1p02) ![](/assets/new.png)  
-- [2026-07-26-Your-Build-Target-Is-Not-an-API-Contract:-Enforcing-Baseline-with-TypeScript](https://dev.to/ryuya/your-build-target-is-not-an-api-contract-enforcing-baseline-with-typescript-epn) ![](/assets/new.png)  
-- [2026-07-26-Complete-Guide-to-Buying-Verified-Payoneer-Accounts-Safely](https://dev.to/sfew5345/complete-guide-to-buying-verified-payoneer-accounts-safely-40h2) ![](/assets/new.png)  
-- [2026-07-26-Buy-Verified-Payoneer-Accounts-with-Trusted-&amp;-Secure-Solutions](https://dev.to/sfew5345/buy-verified-payoneer-accounts-with-trusted-secure-solutions-1cmg) ![](/assets/new.png)  
-- [2026-07-26-Buy-Verified-Payoneer-Accounts-from-Professional-Providers](https://dev.to/sfew5345/buy-verified-payoneer-accounts-from-professional-providers-3p1d) ![](/assets/new.png)  
-- [2026-07-26-🔄-The-JavaScript-Event-Loop:-From-"What?"-to-"Oh,-NOW-I-Get-It!"-A-Deep-Dive](https://dev.to/a7mad1112/the-javascript-event-loop-from-what-to-oh-now-i-get-it-a-deep-dive-49h2) ![](/assets/new.png)  
-- [2026-07-25-Designing-a-'Remix'-Flow:-From-Static-Library-to-Editable-Composer](https://dev.to/promptmaster/designing-a-remix-flow-from-static-library-to-editable-composer-1398)  
-- [2026-07-25-Auto-Appending-Format-Constraints-to-Prompts-Programmaticall](https://dev.to/promptmaster/auto-appending-format-constraints-to-prompts-programmaticall-4053)  
-- [2026-07-25-Persisting-User-Data-in-a-No-Backend-HTML-App-localStorage-Patterns](https://dev.to/promptmaster/persisting-user-data-in-a-no-backend-html-app-localstorage-patterns-36j5)  
-- [2026-07-25-How-I-Structured-3,000-Prompts-Into-a-Searchable-Browser-Tool](https://dev.to/promptmaster/how-i-structured-3000-prompts-into-a-searchable-browser-tool-4944)  
-- [2026-07-25-Building-a-Single-File-Offline-Prompt-Tool-With-Vanilla-JS](https://dev.to/promptmaster/building-a-single-file-offline-prompt-tool-with-vanilla-js-4h64)  
-- [2026-07-25-Seek-safe-animation:-one-paused-timeline,-scrubbed](https://dev.to/kyisaiah47/seek-safe-animation-one-paused-timeline-scrubbed-4jmp)  
-- [2026-07-25-Built-a-weather-app-with-AI-generated-summaries-and-city-bookmarking—feedback-welcome-took-me-9-10-days;-learned-a-lot](https://dev.to/codesmithnazim/built-a-weather-app-with-ai-generated-summaries-and-city-bookmarking-feedback-welcome-took-me-9-10-2eo5)  
-- [2026-07-25-React-Native-List-Performance-—-ScrollView,-FlatList,-SectionList,-FlashList](https://dev.to/amitkumar13/react-native-list-performance-scrollview-flatlist-sectionlist-flashlist-41jn)  
+- [2026-07-26-🔄-The-JavaScript-Event-Loop:-From-"What?"-to-"Oh,-NOW-I-Get-It!"-A-Deep-Dive](https://dev.to/a7mad1112/the-javascript-event-loop-from-what-to-oh-now-i-get-it-a-deep-dive-49h2)  
+- [2026-07-26-Buy-Verified-Payoneer-Accounts-from-Professional-Providers](https://dev.to/sfew5345/buy-verified-payoneer-accounts-from-professional-providers-3p1d)  
+- [2026-07-26-Buy-Verified-Payoneer-Accounts-with-Trusted-&amp;-Secure-Solutions](https://dev.to/sfew5345/buy-verified-payoneer-accounts-with-trusted-secure-solutions-1cmg)  
+- [2026-07-26-Complete-Guide-to-Buying-Verified-Payoneer-Accounts-Safely](https://dev.to/sfew5345/complete-guide-to-buying-verified-payoneer-accounts-safely-40h2)  
+- [2026-07-26-Your-Build-Target-Is-Not-an-API-Contract:-Enforcing-Baseline-with-TypeScript](https://dev.to/ryuya/your-build-target-is-not-an-api-contract-enforcing-baseline-with-typescript-epn)  
+- [2026-07-26-Designing-Resilient-Event-Driven-Webhook-Queues-in-n8n-and-Node.js-for-High-Volume-Systems](https://dev.to/shahdinsalman/designing-resilient-event-driven-webhook-queues-in-n8n-and-nodejs-for-high-volume-systems-1p02)  
+- [2026-07-26-Mastering-Node.js-Transport-Layers-in-MCP:-Stdio-vs.-Server-Sent-Events-SSE](https://dev.to/programmingcentral/mastering-nodejs-transport-layers-in-mcp-stdio-vs-server-sent-events-sse-245h)  
+- [2026-07-26-React-Hooks](https://dev.to/vidhya_murali_5aabe7784bd/react-hooks-546h)  
+- [2026-07-26-How-to-Build-a-Self-Healing-localtunnel-Daemon-in-Node.js-To-Avoid-503-Errors](https://dev.to/whitezom/how-to-build-a-self-healing-localtunnel-daemon-in-nodejs-to-avoid-503-errors-419d)  
+- [2026-07-26-How-Random-Is-a-Random-Word-Generator?](https://dev.to/lucian_lkb_1f009d/how-random-is-a-random-word-generator-290p)  
+- [2026-07-26-Top-Rated-Verified-Payoneer-Account-Providers-in-2026](https://dev.to/safwerwe5/top-rated-verified-payoneer-account-providers-in-2026-b93)  
+- [2026-07-26-Complete-Buying-Guide-for-Verified-Payoneer-Accounts-Online](https://dev.to/safwerwe5/complete-buying-guide-for-verified-payoneer-accounts-online-bka)  
+- [2026-07-26-How-I-Built-a-Free-SSGC-Bill-Checking-Tool-for-Pakistan](https://dev.to/ssgcbill/how-i-built-a-free-ssgc-bill-checking-tool-for-pakistan-12i1) ![](/assets/new.png)  
+- [2026-07-26-I-Built-a-100%-Free-Image-Compressor-&amp;-Resizer-That-Never-Saves-Your-Files-to-Disk](https://dev.to/mudasir_ahmed_33679f6ab02/i-built-a-100-free-image-compressor-resizer-that-never-saves-your-files-to-disk-5bnc) ![](/assets/new.png)  
+- [2026-07-26-How-I-Built-an-In-Browser-AI-Background-Remover-Using-WebAssembly](https://dev.to/muhammad_elborgy_852cee22/how-i-built-an-in-browser-ai-background-remover-using-webassembly-4lj2) ![](/assets/new.png)  
+- [2026-07-26-Why-useCallback-alone-didn't-make-my-React-app-faster-—-and-what-it's-actually-for](https://dev.to/abhijeet_srivastava/why-usecallback-alone-didnt-make-my-react-app-faster-and-what-its-actually-for-2dfc) ![](/assets/new.png)  
+- [2026-07-26-The-Best-Free-JSON-Formatters-in-2026-Honest-Comparison](https://dev.to/allroundexperts/the-best-free-json-formatters-in-2025-honest-comparison-465g) ![](/assets/new.png)  
+- [2026-07-26-Building-SoulCache:-Engineering-Decisions-Behind-a-TypeScript-Data-Fetching-Runtime](https://dev.to/kasih_agustinus/building-soulcache-engineering-decisions-behind-a-typescript-data-fetching-runtime-5doh) ![](/assets/new.png)  
+- [2026-07-25-Top-10-Cross-Border-Stablecoin-Business-Loans-for-Global-Teams](https://dev.to/tony_word_8469881bc5fb7a0/top-10-cross-border-stablecoin-business-loans-for-global-teams-oig)  
+- [2026-07-25-I-built-a-free-AI-investing-toolkit-after-running-7-experiments-with-8-AI-models-—-here's-what-I-learned](https://dev.to/vn_tunl_09a36fcbda701/i-built-a-free-ai-investing-toolkit-after-running-7-experiments-with-8-ai-models-heres-what-i-3gol)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -343,34 +343,32 @@
 </summary>
 
 
-- [2026-07-25-dataease/SQLBot](https://github.com/dataease/SQLBot)  
-- [2026-07-25-xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server)  
-- [2026-07-25-gchq/CyberChef](https://github.com/gchq/CyberChef)  
-- [2026-07-25-prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro)  
-- [2026-07-25-TechyCSR/OpenCluely](https://github.com/TechyCSR/OpenCluely)  
-- [2026-07-25-pbakaus/impeccable](https://github.com/pbakaus/impeccable)  
-- [2026-07-25-BazedFrog/SongGeneration-Studio](https://github.com/BazedFrog/SongGeneration-Studio)  
-- [2026-07-25-truelockmc/streambert](https://github.com/truelockmc/streambert)  
-- [2026-07-25-usebruno/bruno](https://github.com/usebruno/bruno)  
+- [2026-07-26-freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) ![](/assets/new.png)  
 - [2026-07-25-affaan-m/ECC](https://github.com/affaan-m/ECC)  
-- [2026-07-24--My-Redis-library-said-the-write-succeeded.-Redis-was-down-—-anatomy-of-a-Node.js-client-rewrite-](
-https://dev.to/pinceladasdaweb/my-redis-library-said-the-write-succeeded-redis-was-down-3dmn
-)  
-- [2026-07-24--MCP-Apps-golang-components-for-MCP-Server-](
-https://github.com/Techthos/gadget
+- [2026-07-25-usebruno/bruno](https://github.com/usebruno/bruno)  
+- [2026-07-25-truelockmc/streambert](https://github.com/truelockmc/streambert)  
+- [2026-07-25-BazedFrog/SongGeneration-Studio](https://github.com/BazedFrog/SongGeneration-Studio)  
+- [2026-07-25-pbakaus/impeccable](https://github.com/pbakaus/impeccable)  
+- [2026-07-25-TechyCSR/OpenCluely](https://github.com/TechyCSR/OpenCluely)  
+- [2026-07-25-prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro)  
+- [2026-07-25-gchq/CyberChef](https://github.com/gchq/CyberChef)  
+- [2026-07-25-xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server)  
+- [2026-07-25-dataease/SQLBot](https://github.com/dataease/SQLBot)  
+- [2026-07-24-lovell/sharp](https://github.com/lovell/sharp)  
+- [2026-07-24-maillab/cloud-mail](https://github.com/maillab/cloud-mail)  
+- [2026-07-24-decolua/9router](https://github.com/decolua/9router)  
+- [2026-07-24-Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)  
+- [2026-07-24-swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)  
+- [2026-07-24-Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)  
+- [2026-07-24--Interactive-metaballs-](
+https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
 )  
 - [2026-07-24--React-component-for-bubble,-bars,-and-pie-charts,-with-animated-morphing-transitions-between-charts-](
 https://github.com/evoluteur/react-morph-charts
 )  
-- [2026-07-24--Interactive-metaballs-](
-https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
+- [2026-07-24--MCP-Apps-golang-components-for-MCP-Server-](
+https://github.com/Techthos/gadget
 )  
-- [2026-07-24-Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)  
-- [2026-07-24-swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)  
-- [2026-07-24-Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)  
-- [2026-07-24-decolua/9router](https://github.com/decolua/9router)  
-- [2026-07-24-maillab/cloud-mail](https://github.com/maillab/cloud-mail)  
-- [2026-07-24-lovell/sharp](https://github.com/lovell/sharp)  
 - [......【查看更多】......](/details/GitHub Trending JS.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -479,8 +477,8 @@ https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
 
 - [2026-07-21-Fragments:-July-21](https://martinfowler.com/fragments/2026-07-21.html)  
 - [2026-07-16-The-Archaeologist’s-Copilot](https://martinfowler.com/articles/archaeologist-copilot.html)  
-- [2026-07-14-Fragments:-July-13](https://martinfowler.com/fragments/2026-07-13.html)  
 - [2026-07-14-DSLs-Enable-Reliable-Use-of-LLMs](https://martinfowler.com/articles/llm-and-dsls.html)  
+- [2026-07-14-Fragments:-July-13](https://martinfowler.com/fragments/2026-07-13.html)  
 - [2026-07-08-Experiences-with-local-models-for-coding](https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html)  
 - [2026-07-07-Viability-of-local-models-for-coding](https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html)  
 - [2026-07-06-Fragments:-July-6](https://martinfowler.com/fragments/2026-07-06.html)  
@@ -526,26 +524,26 @@ https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
 </summary>
 
 
-- [2026-07-25-Introducing-Claude-Opus-5](https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything)  
+- [2026-07-26-Ruff-v0.16.0](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything) ![](/assets/new.png)  
 - [2026-07-25-Quoting-Boris-Cherny](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything)  
+- [2026-07-25-Introducing-Claude-Opus-5](https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything)  
 - [2026-07-24-The-first-known-runaway-AI-agent---or-a-very-bad-marketing-stunt?](https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything)  
-- [2026-07-23-Quoting-Seth-Larson](https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything)  
-- [2026-07-23-OpenAI’s-accidental-cyberattack-against-Hugging-Face-is-science-fiction-that-happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything)  
-- [2026-07-23-Are-AI-labs-pelicanmaxxing?](https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything)  
 - [2026-07-23-Quoting-Thomas-Ptacek](https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything)  
-- [2026-07-22-California-Sea-Lion](https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything)  
+- [2026-07-23-Are-AI-labs-pelicanmaxxing?](https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything)  
+- [2026-07-23-OpenAI’s-accidental-cyberattack-against-Hugging-Face-is-science-fiction-that-happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything)  
+- [2026-07-23-Quoting-Seth-Larson](https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything)  
 - [2026-07-22-Orchestrions](https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything)  
-- [2026-07-21-A-Fireside-Chat-with-Cat-and-Thariq-from-the-Claude-Code-team](https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything)  
-- [2026-07-21-Who’s-Afraid-of-Chinese-Models?](https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything)  
-- [2026-07-21-Reverse-engineering-is-cheap-now](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything)  
+- [2026-07-22-California-Sea-Lion](https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything)  
 - [2026-07-21-Nativ:-Run-AI-models-locally-on-your-Mac](https://simonwillison.net/2026/Jul/21/nativ/#atom-everything)  
+- [2026-07-21-Reverse-engineering-is-cheap-now](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything)  
+- [2026-07-21-Who’s-Afraid-of-Chinese-Models?](https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything)  
+- [2026-07-21-A-Fireside-Chat-with-Cat-and-Thariq-from-the-Claude-Code-team](https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything)  
 - [2026-07-20-Quoting-Sam-Altman](https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything)  
-- [2026-07-19-SQLite-Query-Explainer](https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything)  
-- [2026-07-19-Claude-Code-uses-Bun-written-in-Rust-now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything)  
 - [2026-07-19-AI-Mania-Is-Eviscerating-Global-Decision-Making](https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything)  
-- [2026-07-18-nascheme/quixote](https://simonwillison.net/2026/Jul/18/quixote/#atom-everything)  
+- [2026-07-19-Claude-Code-uses-Bun-written-in-Rust-now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything)  
+- [2026-07-19-SQLite-Query-Explainer](https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything)  
 - [2026-07-18-Claude-make-Fable-5-permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything)  
-- [2026-07-17-LLM-cliché-highlighter](https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything)  
+- [2026-07-18-nascheme/quixote](https://simonwillison.net/2026/Jul/18/quixote/#atom-everything)  
 - [......【查看更多】......](/details/HuggingFace Blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -568,12 +566,12 @@ https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
 - [2026-07-14-not-much-happened-today](https://news.smol.ai/issues/26-07-14-not-much/)  
 - [2026-07-11-not-much-happened-today](https://news.smol.ai/issues/26-07-13-not-much/)  
 - [2026-07-10-not-much-happened-today](https://news.smol.ai/issues/26-07-10-not-much/)  
-- [2026-07-09-not-much-happened-today](https://news.smol.ai/issues/26-07-09-not-much/)  
 - [2026-07-09-OpenAI-launches-GPT-5.6-Sol/Terra/Luna](https://news.smol.ai/issues/26-07-09-gpt-56/)  
+- [2026-07-09-not-much-happened-today](https://news.smol.ai/issues/26-07-09-not-much/)  
 - [2026-07-07-not-much-happened-today](https://news.smol.ai/issues/26-07-07-not-much/)  
 - [2026-07-06-not-much-happened-today](https://news.smol.ai/issues/26-07-06-not-much/)  
-- [2026-07-02-not-much-happened-today](https://news.smol.ai/issues/26-07-02-not-much/)  
 - [2026-07-02-not-much-happened-today](https://news.smol.ai/issues/26-07-08-grok-45/)  
+- [2026-07-02-not-much-happened-today](https://news.smol.ai/issues/26-07-02-not-much/)  
 - [2026-07-01-not-much-happened-today](https://news.smol.ai/issues/26-07-01-not-much/)  
 - [2026-06-30-not-much-happened-today](https://news.smol.ai/issues/26-06-30-sonnet5/)  
 - [2026-06-29-not-much-happened-today](https://news.smol.ai/issues/26-06-29-not-much/)  
@@ -644,25 +642,25 @@ https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
 
 
 - [2026-07-23-Launching-Health-in-ChatGPT-](https://openai.com/index/health-in-chatgpt)  
-- [2026-07-22-NTT-DATA-Group-cuts-incident-analysis-to-30-minutes-with-Codex](https://openai.com/index/ntt-data)  
-- [2026-07-22-Introducing-the-ChatGPT-for-small-business-program](https://openai.com/index/introducing-chatgpt-small-business-program)  
-- [2026-07-22-Introducing-OpenAI-Presence](https://openai.com/index/introducing-openai-presence)  
-- [2026-07-22-Building-AI-infrastructure-with-the-Effingham-County-community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community)  
-- [2026-07-22-Advancing-the-next-era-of-national-science](https://openai.com/index/advancing-the-next-era-of-national-science)  
 - [2026-07-22-How-news-organizations-are-using-AI-to-advance-their-vital-missions](https://openai.com/index/how-news-organizations-are-using-ai)  
-- [2026-07-21-David-Vélez-and-Robin-Vince-join-the-boards-of-the-OpenAI-Foundation-and-OpenAI-Group-PBC](https://openai.com/index/david-velez-robin-vince-join-openai-boards)  
+- [2026-07-22-Advancing-the-next-era-of-national-science](https://openai.com/index/advancing-the-next-era-of-national-science)  
+- [2026-07-22-Building-AI-infrastructure-with-the-Effingham-County-community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community)  
+- [2026-07-22-Introducing-OpenAI-Presence](https://openai.com/index/introducing-openai-presence)  
+- [2026-07-22-Introducing-the-ChatGPT-for-small-business-program](https://openai.com/index/introducing-chatgpt-small-business-program)  
+- [2026-07-22-NTT-DATA-Group-cuts-incident-analysis-to-30-minutes-with-Codex](https://openai.com/index/ntt-data)  
 - [2026-07-21-OpenAI-and-Hugging-Face-partner-to-address-security-incident-during-model-evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident)  
+- [2026-07-21-David-Vélez-and-Robin-Vince-join-the-boards-of-the-OpenAI-Foundation-and-OpenAI-Group-PBC](https://openai.com/index/david-velez-robin-vince-join-openai-boards)  
 - [2026-07-20-Safety-and-alignment-in-an-era-of-long-horizon-models](https://openai.com/index/safety-alignment-long-horizon-models)  
-- [2026-07-17-A-scorecard-for-the-AI-age](https://openai.com/index/a-scorecard-for-the-ai-age)  
 - [2026-07-17-Why-teens-deserve-access-to-safe-AI](https://openai.com/index/why-teens-deserve-access-safe-ai)  
-- [2026-07-16-How-Codex-became-a-collaborator-for-OpenAI’s-creative-team](https://openai.com/index/codex-collaborator-creative-team)  
+- [2026-07-17-A-scorecard-for-the-AI-age](https://openai.com/index/a-scorecard-for-the-ai-age)  
 - [2026-07-16-How-Cars24-scales-conversations-and-builds-faster-with-OpenAI](https://openai.com/index/cars24)  
-- [2026-07-15-GPT-Red:-Unlocking-Self-Improvement-for-Robustness](https://openai.com/index/unlocking-self-improvement-gpt-red)  
+- [2026-07-16-How-Codex-became-a-collaborator-for-OpenAI’s-creative-team](https://openai.com/index/codex-collaborator-creative-team)  
 - [2026-07-15-The-US-is-advancing-AI-safety-through-state-and-federal-action](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action)  
-- [2026-07-14-How-sales-teams-use-ChatGPT-Work](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex)  
-- [2026-07-14-How-data-science-teams-use-ChatGPT-Work](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex)  
+- [2026-07-15-GPT-Red:-Unlocking-Self-Improvement-for-Robustness](https://openai.com/index/unlocking-self-improvement-gpt-red)  
 - [2026-07-14-How-to-manage-AI-investments-in-the-agentic-era](https://openai.com/index/managing-ai-investments-in-agentic-era)  
-- [2026-07-10-Getting-started-with-ChatGPT](https://openai.com/academy/getting-started)  
+- [2026-07-14-How-data-science-teams-use-ChatGPT-Work](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex)  
+- [2026-07-14-How-sales-teams-use-ChatGPT-Work](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex)  
+- [2026-07-10-How-Deutsche-Telekom-is-rewiring-telecommunications-with-AI](https://openai.com/index/deutsche-telekom)  
 - [......【查看更多】......](/details/OpenAI Blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -674,26 +672,26 @@ https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
 </summary>
 
 
-- [2026-07-26-Why-our-exoplanet-map-looks-like-a-cone?-video](https://www.youtube.com/watch?v=ZF_Q4C_Yhz8) ![](/assets/new.png)  
-- [2026-07-26-Becoming-a-Research-Engineer-at-a-Big-LLM-Lab](https://www.maxmynter.com/pages/blog/jobhunt) ![](/assets/new.png)  
-- [2026-07-26-Tech-titans'-playbook-to-defy-Aussie-social-media-ban](https://www.afr.com/technology/big-tech-tricks-undermining-social-media-ban-wells-20260331-p5zk5e) ![](/assets/new.png)  
-- [2026-07-26-AMD-publishes-machine-readable-ISA-so-frontier-models-can-write-its-GPU-kernels](https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580) ![](/assets/new.png)  
-- [2026-07-26-Israel's-$50M-Experiment-to-Change-U.S.-Public-Opinion](https://www.wsj.com/politics/israels-50-million-experiment-to-change-u-s-public-opinion-253b3b70) ![](/assets/new.png)  
-- [2026-07-26-Mac-OS-7-on-x86-video](https://www.youtube.com/watch?v=rJRlHKQqX2M) ![](/assets/new.png)  
-- [2026-07-26-Ask-HN:-What's-expected-from-an-engineering-manager-or-director-now?](https://news.ycombinator.com/item?id=49051762) ![](/assets/new.png)  
-- [2026-07-26-A-77-year-old-Republican-man-is-staging-a-solo-protest-against-Flock-cameras](https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/) ![](/assets/new.png)  
-- [2026-07-26-Who-Gets-Saved-in-the-New-West?](https://www.playboy.com/read/politics/who-gets-saved-in-the-new-west) ![](/assets/new.png)  
-- [2026-07-26-International-Child-Abduction-in-Japan](https://en.wikipedia.org/wiki/International_child_abduction_in_Japan) ![](/assets/new.png)  
-- [2026-07-26-Tesla's-robotaxis-are-moving-in-reverse](https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/) ![](/assets/new.png)  
-- [2026-07-26-Harry-Potter-and-the-Philosopher's-Stone](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone) ![](/assets/new.png)  
-- [2026-07-26-You-Do-Not-Need-a-Server-for-Agent-Evals](https://medium.com/@chalyi/you-do-not-need-a-server-for-you-agent-evals-a145962298be) ![](/assets/new.png)  
-- [2026-07-26-How-A-Gang-of-Thieves-Pulled-Off-a-Multimillion-Dollar-Data-Center-Heist](https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html) ![](/assets/new.png)  
-- [2026-07-26-I-built-a-new-PoW-protocol-and-observed-a-surprisingly-early-solution](https://news.ycombinator.com/item?id=49051915) ![](/assets/new.png)  
-- [2026-07-26-GM-Backs-Sodium-Ion-Batteries-for-U.S.-Grid-Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy) ![](/assets/new.png)  
-- [2026-07-26-Is-AI-used-in-school-system-and-how-are-they-implementing-it](https://news.ycombinator.com/item?id=49051974) ![](/assets/new.png)  
-- [2026-07-26-Watching-Go's-new-garbage-collector-move-through-the-heap-–-The-Consensus](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html) ![](/assets/new.png)  
-- [2026-07-26-Atari-2600-TV-Ads-–-By-Paul-Lefebvre](https://www.goto10retro.com/p/atari-2600-tv-ads) ![](/assets/new.png)  
-- [2026-07-26-If-another-advanced-civilization-lived-on-Earth-before-us,-would-we-know?](https://www.cnn.com/2026/07/25/climate/silurian-hypothesis-another-civilization-before-humans) ![](/assets/new.png)  
+- [2026-07-26-Why-our-exoplanet-map-looks-like-a-cone?-video](https://www.youtube.com/watch?v=ZF_Q4C_Yhz8)  
+- [2026-07-26-Becoming-a-Research-Engineer-at-a-Big-LLM-Lab](https://www.maxmynter.com/pages/blog/jobhunt)  
+- [2026-07-26-Tech-titans'-playbook-to-defy-Aussie-social-media-ban](https://www.afr.com/technology/big-tech-tricks-undermining-social-media-ban-wells-20260331-p5zk5e)  
+- [2026-07-26-AMD-publishes-machine-readable-ISA-so-frontier-models-can-write-its-GPU-kernels](https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580)  
+- [2026-07-26-Israel's-$50M-Experiment-to-Change-U.S.-Public-Opinion](https://www.wsj.com/politics/israels-50-million-experiment-to-change-u-s-public-opinion-253b3b70)  
+- [2026-07-26-Mac-OS-7-on-x86-video](https://www.youtube.com/watch?v=rJRlHKQqX2M)  
+- [2026-07-26-Ask-HN:-What's-expected-from-an-engineering-manager-or-director-now?](https://news.ycombinator.com/item?id=49051762)  
+- [2026-07-26-A-77-year-old-Republican-man-is-staging-a-solo-protest-against-Flock-cameras](https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/)  
+- [2026-07-26-Who-Gets-Saved-in-the-New-West?](https://www.playboy.com/read/politics/who-gets-saved-in-the-new-west)  
+- [2026-07-26-International-Child-Abduction-in-Japan](https://en.wikipedia.org/wiki/International_child_abduction_in_Japan)  
+- [2026-07-26-Tesla's-robotaxis-are-moving-in-reverse](https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/)  
+- [2026-07-26-Harry-Potter-and-the-Philosopher's-Stone](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone)  
+- [2026-07-26-You-Do-Not-Need-a-Server-for-Agent-Evals](https://medium.com/@chalyi/you-do-not-need-a-server-for-you-agent-evals-a145962298be)  
+- [2026-07-26-How-A-Gang-of-Thieves-Pulled-Off-a-Multimillion-Dollar-Data-Center-Heist](https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html)  
+- [2026-07-26-I-built-a-new-PoW-protocol-and-observed-a-surprisingly-early-solution](https://news.ycombinator.com/item?id=49051915)  
+- [2026-07-26-GM-Backs-Sodium-Ion-Batteries-for-U.S.-Grid-Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy)  
+- [2026-07-26-Is-AI-used-in-school-system-and-how-are-they-implementing-it](https://news.ycombinator.com/item?id=49051974)  
+- [2026-07-26-Watching-Go's-new-garbage-collector-move-through-the-heap-–-The-Consensus](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)  
+- [2026-07-26-Atari-2600-TV-Ads-–-By-Paul-Lefebvre](https://www.goto10retro.com/p/atari-2600-tv-ads)  
+- [2026-07-26-If-another-advanced-civilization-lived-on-Earth-before-us,-would-we-know?](https://www.cnn.com/2026/07/25/climate/silurian-hypothesis-another-civilization-before-humans)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -705,11 +703,11 @@ https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
 </summary>
 
 
-- [2026-07-26-Librarians-are-hosting-viral-‘Avoiding-AI’-workshops-for-people-who-are-fed-up-with-Big-Tech](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/) ![](/assets/new.png)  
-- [2026-07-26-Kalshi-demands-Netflix-take-down-trailer-for-‘Prediction-Games’-documentary](https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/) ![](/assets/new.png)  
-- [2026-07-26-Elon-Musk’s-Boring-Company-reportedly-raising-funding-at-a-$20-billion-valuation](https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/) ![](/assets/new.png)  
-- [2026-07-26-The-hacker-who-humiliated-spyware-makers-and-was-never-caught](https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/) ![](/assets/new.png)  
-- [2026-07-26-Warner-Bros.-lawsuit-accuses-Amazon-of-illegally-poaching-executives](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/) ![](/assets/new.png)  
+- [2026-07-26-Librarians-are-hosting-viral-‘Avoiding-AI’-workshops-for-people-who-are-fed-up-with-Big-Tech](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/)  
+- [2026-07-26-Kalshi-demands-Netflix-take-down-trailer-for-‘Prediction-Games’-documentary](https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/)  
+- [2026-07-26-Elon-Musk’s-Boring-Company-reportedly-raising-funding-at-a-$20-billion-valuation](https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/)  
+- [2026-07-26-The-hacker-who-humiliated-spyware-makers-and-was-never-caught](https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/)  
+- [2026-07-26-Warner-Bros.-lawsuit-accuses-Amazon-of-illegally-poaching-executives](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/)  
 - [2026-07-25-One-fallen-power-line-exposed-a-growing-AI-data-center-problem.-Here’s-how-to-fix-it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/)  
 - [2026-07-25-SpaceX-launches-new-V3-Starlink-satellites-but-suffers-another-booster-failure](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/)  
 - [2026-07-25-Prentis,-new-AI-lab-co-founded-by-Reid-Hoffman,-Mark-Pincus-in-talks-to-raise-$100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/)  
@@ -767,7 +765,7 @@ https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
 </summary>
 
 
-- [2026-07-26-Google-basically-confirms-the-Pixel-11-is-getting-a-price-hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike) ![](/assets/new.png)  
+- [2026-07-26-Google-basically-confirms-the-Pixel-11-is-getting-a-price-hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)  
 - [2026-07-25-Teenage-Engineering’s-unique-music-machines-are-30-percent-off](https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale)  
 - [2026-07-25-Warner-Bros.-is-suing-Amazon-for-poaching-employees](https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees)  
 - [2026-07-25-Is-this-e-reader-case-a-gun?](https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun)  
@@ -785,7 +783,7 @@ https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
 - [2026-07-25-After-backlash,-Meta-pauses-plan-to-‘rate-limit’-its-smart-glasses](https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses)  
 - [2026-07-25-Folding-and-flipping-phones-are-getting-seriously-good](https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer)  
 - [2026-07-25-What-Surrounds-Us-will-make-you-think-a-lot-about-circles](https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam)  
-- [2026-07-25-Synth-historian-Oli-Freke-will-spend-big-on-a-good-bicycle](https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview) ![](/assets/new.png)  
+- [2026-07-25-Synth-historian-Oli-Freke-will-spend-big-on-a-good-bicycle](https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview)  
 - [2026-07-24-Whack-a-drone](https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason)  
 - [......【查看更多】......](/details/Engadget.md)
 
