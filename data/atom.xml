@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-26T22:01:59.615Z</updated>
+    <updated>2026-07-27T00:02:09.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,6 +78,13 @@
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HTTP Method :The Actions Behind Every API Call]]></title>
+        <id>https://pub.towardsai.net/http-method-the-actions-behind-every-api-call-e6b97c58359e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/http-method-the-actions-behind-every-api-call-e6b97c58359e?source=rss----98111c9905da---4"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Agno Says It Builds Agents 529× Faster Than LangGraph. I Measured What That Actually Buys You]]></title>
         <id>https://pub.towardsai.net/agno-says-it-builds-agents-529-faster-than-langgraph-i-measured-what-that-actually-buys-you-a3c9cb6c198a?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/agno-says-it-builds-agents-529-faster-than-langgraph-i-measured-what-that-actually-buys-you-a3c9cb6c198a?source=rss----98111c9905da---4"/>
@@ -85,44 +92,44 @@
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[useSyncExternalStore: the right way to connect state that lives outside React (and what Zustand uses)]]></title>
-        <id>https://dev.to/dev48v/usesyncexternalstore-the-right-way-to-connect-state-that-lives-outside-react-and-what-zustand-3gb3</id>
-        <link href="https://dev.to/dev48v/usesyncexternalstore-the-right-way-to-connect-state-that-lives-outside-react-and-what-zustand-3gb3"/>
+        <title type="html"><![CDATA[Claude Code Cost Control in Production: Token Budgets, Caching Strategies, and What the Billing Dashboard Hides]]></title>
+        <id>https://dev.to/jsmanifest/claude-code-cost-control-in-production-token-budgets-caching-strategies-and-what-the-billing-2p0</id>
+        <link href="https://dev.to/jsmanifest/claude-code-cost-control-in-production-token-budgets-caching-strategies-and-what-the-billing-2p0"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built an LRU cache visualizer: watch recency reorder entries and evict the least-recently-used (LeetCode 146)]]></title>
-        <id>https://dev.to/dev48v/i-built-an-lru-cache-visualizer-watch-recency-reorder-entries-and-evict-the-least-recently-used-2m9c</id>
-        <link href="https://dev.to/dev48v/i-built-an-lru-cache-visualizer-watch-recency-reorder-entries-and-evict-the-least-recently-used-2m9c"/>
+        <title type="html"><![CDATA[How to Render Web Pages with JavaScript and Caddy using AxonASP: Step-by-Step]]></title>
+        <id>https://dev.to/lucas_guimaraes/how-to-render-web-pages-with-javascript-and-caddy-using-axonasp-step-by-step-4i2d</id>
+        <link href="https://dev.to/lucas_guimaraes/how-to-render-web-pages-with-javascript-and-caddy-using-axonasp-step-by-step-4i2d"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js Is Getting Much Better at SPA-like UX]]></title>
-        <id>https://dev.to/erfanebrahimnia/nextjs-is-getting-much-better-at-spa-like-ux-141a</id>
-        <link href="https://dev.to/erfanebrahimnia/nextjs-is-getting-much-better-at-spa-like-ux-141a"/>
+        <title type="html"><![CDATA[How Traceless Style's build-time extractor, runtime fallback, and atomic CSS registry fit together.]]></title>
+        <id>https://dev.to/jenny_akhi_aade503c2764f6/how-traceless-styles-build-time-extractor-runtime-fallback-and-atomic-css-registry-fit-together-5dh4</id>
+        <link href="https://dev.to/jenny_akhi_aade503c2764f6/how-traceless-styles-build-time-extractor-runtime-fallback-and-atomic-css-registry-fit-together-5dh4"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Master Async/Await: How to Write Cleaner and Faster JavaScript]]></title>
-        <id>https://dev.to/man313our/master-asyncawait-how-to-write-cleaner-and-faster-javascript-1gdf</id>
-        <link href="https://dev.to/man313our/master-asyncawait-how-to-write-cleaner-and-faster-javascript-1gdf"/>
+        <title type="html"><![CDATA[How to Build a Chrome Extension That Makes Money]]></title>
+        <id>https://dev.to/qingluan/how-to-build-a-chrome-extension-that-makes-money-di4</id>
+        <link href="https://dev.to/qingluan/how-to-build-a-chrome-extension-that-makes-money-di4"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build-scanner — a zero-config static scanner for SQLi, NoSQLi, CORS, CSP & CSRF in React/Node apps (pre-release)]]></title>
-        <id>https://dev.to/s_s_4ac423416882e2b70a41e/build-scanner-a-zero-config-static-scanner-for-sqli-nosqli-cors-csp-csrf-in-reactnode-apps-2o5e</id>
-        <link href="https://dev.to/s_s_4ac423416882e2b70a41e/build-scanner-a-zero-config-static-scanner-for-sqli-nosqli-cors-csp-csrf-in-reactnode-apps-2o5e"/>
+        <title type="html"><![CDATA[Real-Time Rails Without Turbo: Modern Reactive UIs with Inertia and DexieCable]]></title>
+        <id>https://dev.to/buhrmi/real-time-rails-without-turbo-modern-reactive-uis-with-inertia-and-dexiecable-4lge</id>
+        <link href="https://dev.to/buhrmi/real-time-rails-without-turbo-modern-reactive-uis-with-inertia-and-dexiecable-4lge"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kill The Cookie Banner: A Practical Guide to Elegant Cookie Consent]]></title>
-        <id>https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-elegant-cookie-consent-4ld</id>
-        <link href="https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-elegant-cookie-consent-4ld"/>
+        <title type="html"><![CDATA[Kill The Cookie Banner: A Practical Guide to GDPR-Compliant Consent That Doesn't Annoy Users]]></title>
+        <id>https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-gdpr-compliant-consent-that-doesnt-annoy-users-3620</id>
+        <link href="https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-gdpr-compliant-consent-that-doesnt-annoy-users-3620"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
@@ -134,9 +141,44 @@
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kill The Cookie Banner: A Practical Guide to GDPR-Compliant Consent That Doesn't Annoy Users]]></title>
-        <id>https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-gdpr-compliant-consent-that-doesnt-annoy-users-3620</id>
-        <link href="https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-gdpr-compliant-consent-that-doesnt-annoy-users-3620"/>
+        <title type="html"><![CDATA[Kill The Cookie Banner: A Practical Guide to Elegant Cookie Consent]]></title>
+        <id>https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-elegant-cookie-consent-4ld</id>
+        <link href="https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-elegant-cookie-consent-4ld"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build-scanner — a zero-config static scanner for SQLi, NoSQLi, CORS, CSP & CSRF in React/Node apps (pre-release)]]></title>
+        <id>https://dev.to/s_s_4ac423416882e2b70a41e/build-scanner-a-zero-config-static-scanner-for-sqli-nosqli-cors-csp-csrf-in-reactnode-apps-2o5e</id>
+        <link href="https://dev.to/s_s_4ac423416882e2b70a41e/build-scanner-a-zero-config-static-scanner-for-sqli-nosqli-cors-csp-csrf-in-reactnode-apps-2o5e"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Async/Await: How to Write Cleaner and Faster JavaScript]]></title>
+        <id>https://dev.to/man313our/master-asyncawait-how-to-write-cleaner-and-faster-javascript-1gdf</id>
+        <link href="https://dev.to/man313our/master-asyncawait-how-to-write-cleaner-and-faster-javascript-1gdf"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js Is Getting Much Better at SPA-like UX]]></title>
+        <id>https://dev.to/erfanebrahimnia/nextjs-is-getting-much-better-at-spa-like-ux-141a</id>
+        <link href="https://dev.to/erfanebrahimnia/nextjs-is-getting-much-better-at-spa-like-ux-141a"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built an LRU cache visualizer: watch recency reorder entries and evict the least-recently-used (LeetCode 146)]]></title>
+        <id>https://dev.to/dev48v/i-built-an-lru-cache-visualizer-watch-recency-reorder-entries-and-evict-the-least-recently-used-2m9c</id>
+        <link href="https://dev.to/dev48v/i-built-an-lru-cache-visualizer-watch-recency-reorder-entries-and-evict-the-least-recently-used-2m9c"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[useSyncExternalStore: the right way to connect state that lives outside React (and what Zustand uses)]]></title>
+        <id>https://dev.to/dev48v/usesyncexternalstore-the-right-way-to-connect-state-that-lives-outside-react-and-what-zustand-3gb3</id>
+        <link href="https://dev.to/dev48v/usesyncexternalstore-the-right-way-to-connect-state-that-lives-outside-react-and-what-zustand-3gb3"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[Collective Intelligence: The Next Frontier of AI]]></title>
         <id>https://github.com/ailinone/collective-intelligence</id>
         <link href="https://github.com/ailinone/collective-intelligence"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why our exoplanet map looks like a cone? [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ZF_Q4C_Yhz8</id>
-        <link href="https://www.youtube.com/watch?v=ZF_Q4C_Yhz8"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech titans' playbook to defy Aussie social media ban]]></title>
-        <id>https://www.afr.com/technology/big-tech-tricks-undermining-social-media-ban-wells-20260331-p5zk5e</id>
-        <link href="https://www.afr.com/technology/big-tech-tricks-undermining-social-media-ban-wells-20260331-p5zk5e"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD publishes machine-readable ISA so frontier models can write its GPU kernels]]></title>
-        <id>https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580</id>
-        <link href="https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac OS 7 on x86 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=rJRlHKQqX2M</id>
-        <link href="https://www.youtube.com/watch?v=rJRlHKQqX2M"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Gets Saved in the New West?]]></title>
-        <id>https://www.playboy.com/read/politics/who-gets-saved-in-the-new-west</id>
-        <link href="https://www.playboy.com/read/politics/who-gets-saved-in-the-new-west"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Do Not Need a Server for Agent Evals]]></title>
-        <id>https://medium.com/@chalyi/you-do-not-need-a-server-for-you-agent-evals-a145962298be</id>
-        <link href="https://medium.com/@chalyi/you-do-not-need-a-server-for-you-agent-evals-a145962298be"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
