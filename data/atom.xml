@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-27T04:02:23.217Z</updated>
+    <updated>2026-07-27T07:02:28.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,135 +36,30 @@
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: ASL V6 – Open-source AST red-teaming engine for Python AI agents]]></title>
-        <id>https://github.com/sivaadityacoder/asl-v6</id>
-        <link href="https://github.com/sivaadityacoder/asl-v6"/>
+        <title type="html"><![CDATA[The Problem with Capitalism – Smarter Every Day [video]]]></title>
+        <id>https://www.youtube.com/watch?v=vS6HEes8daw</id>
+        <link href="https://www.youtube.com/watch?v=vS6HEes8daw"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Injectable time and timers with custom Date types for TypeScript]]></title>
-        <id>https://github.com/jaenyf/time-provider</id>
-        <link href="https://github.com/jaenyf/time-provider"/>
+        <title type="html"><![CDATA[ASD-STE100 Simplified Technical English for LLMs]]></title>
+        <id>https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop</id>
+        <link href="https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Multimodal foundation model for image and video understanding from Microsoft]]></title>
-        <id>https://huggingface.co/microsoft/Mage-VL</id>
-        <link href="https://huggingface.co/microsoft/Mage-VL"/>
+        <title type="html"><![CDATA[OpenSparrow v3.0 is out. The GDPR anonymization module]]></title>
+        <id>https://opensparrow.org/en/</id>
+        <link href="https://opensparrow.org/en/"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Porffor: An ahead-of-time JavaScript-to-native/WASM compiler]]></title>
-        <id>https://porffor.dev/</id>
-        <link href="https://porffor.dev/"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: a Rust, Wayland, Vulkan 3D CRT, screencast application, retroarch cores]]></title>
-        <id>https://github.com/andrewfader/crtulum</id>
-        <link href="https://github.com/andrewfader/crtulum"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Lean is faster than Rust]]></title>
-        <id>https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/</id>
-        <link href="https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genvap – Turn a screen recording into a cinematic app showcase video]]></title>
-        <id>https://genvap.com/</id>
-        <link href="https://genvap.com/"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I got tired of deleting tracking parameters from URLs]]></title>
-        <id>https://news.ycombinator.com/item?id=49064775</id>
-        <link href="https://news.ycombinator.com/item?id=49064775"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can uBlock Origin Block WebRTC?]]></title>
-        <id>https://www.justus.pw/posts/2026-07-27-can-ublock-origin-block-webrtc.html</id>
-        <link href="https://www.justus.pw/posts/2026-07-27-can-ublock-origin-block-webrtc.html"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buzz: where humans and agents work together]]></title>
-        <id>https://block.xyz/inside/introducing-buzz-where-humans-and-agents-work-together</id>
-        <link href="https://block.xyz/inside/introducing-buzz-where-humans-and-agents-work-together"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pin every country you've visited on a 3D globe]]></title>
-        <id>https://pinglobe.world</id>
-        <link href="https://pinglobe.world"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKLCH in CSS: why we moved from RGB and HSL]]></title>
-        <id>https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl</id>
-        <link href="https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carbon footprint of metal production could be >10 times higher than estimated]]></title>
-        <id>https://phys.org/news/2026-07-carbon-footprint-metal-production-higher.html</id>
-        <link href="https://phys.org/news/2026-07-carbon-footprint-metal-production-higher.html"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ Vs Rust: Which is better for writing AI/ML code with LLMs]]></title>
-        <id>https://richiejp.com/rust-vs-cpp-llm-coded-model-conversion-from-pytorch</id>
-        <link href="https://richiejp.com/rust-vs-cpp-llm-coded-model-conversion-from-pytorch"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Amplified Futures – no-wave VCV Rack 2 modules]]></title>
-        <id>https://github.com/dboles99/amplified-futures-vcv</id>
-        <link href="https://github.com/dboles99/amplified-futures-vcv"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Science: A New Golden Age [pdf]]]></title>
-        <id>https://www.whitehouse.gov/wp-content/uploads/2026/07/Science-A-New-Golden-Age.pdf</id>
-        <link href="https://www.whitehouse.gov/wp-content/uploads/2026/07/Science-A-New-Golden-Age.pdf"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A 60-line PreToolUse hook that stops Claude Code from editing your .env]]></title>
-        <id>https://github.com/avenna01-ceo/claude-code-survival-kr/tree/main/guard</id>
-        <link href="https://github.com/avenna01-ceo/claude-code-survival-kr/tree/main/guard"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[American Nero: Why Trump is trying to burn down the National Academy of Sciences]]></title>
-        <id>https://thebulletin.org/2026/07/american-nero-why-trump-is-trying-to-burn-down-the-national-academy-of-sciences/</id>
-        <link href="https://thebulletin.org/2026/07/american-nero-why-trump-is-trying-to-burn-down-the-national-academy-of-sciences/"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: "Access Denied" on every visit to Codeberg since a month or so?]]></title>
-        <id>https://news.ycombinator.com/item?id=49064182</id>
-        <link href="https://news.ycombinator.com/item?id=49064182"/>
+        <title type="html"><![CDATA[Show HN: Skill-language-server – A language server for agent skills]]></title>
+        <id>https://github.com/CyrusNuevoDia/skill-language-server</id>
+        <link href="https://github.com/CyrusNuevoDia/skill-language-server"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
@@ -176,9 +71,163 @@
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agno Says It Builds Agents 529× Faster Than LangGraph. I Measured What That Actually Buys You]]></title>
-        <id>https://pub.towardsai.net/agno-says-it-builds-agents-529-faster-than-langgraph-i-measured-what-that-actually-buys-you-a3c9cb6c198a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/agno-says-it-builds-agents-529-faster-than-langgraph-i-measured-what-that-actually-buys-you-a3c9cb6c198a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Ask HN: "Access Denied" on every visit to Codeberg since a month or so?]]></title>
+        <id>https://news.ycombinator.com/item?id=49064182</id>
+        <link href="https://news.ycombinator.com/item?id=49064182"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[American Nero: Why Trump is trying to burn down the National Academy of Sciences]]></title>
+        <id>https://thebulletin.org/2026/07/american-nero-why-trump-is-trying-to-burn-down-the-national-academy-of-sciences/</id>
+        <link href="https://thebulletin.org/2026/07/american-nero-why-trump-is-trying-to-burn-down-the-national-academy-of-sciences/"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A 60-line PreToolUse hook that stops Claude Code from editing your .env]]></title>
+        <id>https://github.com/avenna01-ceo/claude-code-survival-kr/tree/main/guard</id>
+        <link href="https://github.com/avenna01-ceo/claude-code-survival-kr/tree/main/guard"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science: A New Golden Age [pdf]]]></title>
+        <id>https://www.whitehouse.gov/wp-content/uploads/2026/07/Science-A-New-Golden-Age.pdf</id>
+        <link href="https://www.whitehouse.gov/wp-content/uploads/2026/07/Science-A-New-Golden-Age.pdf"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Amplified Futures – no-wave VCV Rack 2 modules]]></title>
+        <id>https://github.com/dboles99/amplified-futures-vcv</id>
+        <link href="https://github.com/dboles99/amplified-futures-vcv"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ Vs Rust: Which is better for writing AI/ML code with LLMs]]></title>
+        <id>https://richiejp.com/rust-vs-cpp-llm-coded-model-conversion-from-pytorch</id>
+        <link href="https://richiejp.com/rust-vs-cpp-llm-coded-model-conversion-from-pytorch"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carbon footprint of metal production could be >10 times higher than estimated]]></title>
+        <id>https://phys.org/news/2026-07-carbon-footprint-metal-production-higher.html</id>
+        <link href="https://phys.org/news/2026-07-carbon-footprint-metal-production-higher.html"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKLCH in CSS: why we moved from RGB and HSL]]></title>
+        <id>https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl</id>
+        <link href="https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pin every country you've visited on a 3D globe]]></title>
+        <id>https://pinglobe.world</id>
+        <link href="https://pinglobe.world"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buzz: where humans and agents work together]]></title>
+        <id>https://block.xyz/inside/introducing-buzz-where-humans-and-agents-work-together</id>
+        <link href="https://block.xyz/inside/introducing-buzz-where-humans-and-agents-work-together"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can uBlock Origin Block WebRTC?]]></title>
+        <id>https://www.justus.pw/posts/2026-07-27-can-ublock-origin-block-webrtc.html</id>
+        <link href="https://www.justus.pw/posts/2026-07-27-can-ublock-origin-block-webrtc.html"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I got tired of deleting tracking parameters from URLs]]></title>
+        <id>https://news.ycombinator.com/item?id=49064775</id>
+        <link href="https://news.ycombinator.com/item?id=49064775"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genvap – Turn a screen recording into a cinematic app showcase video]]></title>
+        <id>https://genvap.com/</id>
+        <link href="https://genvap.com/"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Lean is faster than Rust]]></title>
+        <id>https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/</id>
+        <link href="https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: a Rust, Wayland, Vulkan 3D CRT, screencast application, retroarch cores]]></title>
+        <id>https://github.com/andrewfader/crtulum</id>
+        <link href="https://github.com/andrewfader/crtulum"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Porffor: An ahead-of-time JavaScript-to-native/WASM compiler]]></title>
+        <id>https://porffor.dev/</id>
+        <link href="https://porffor.dev/"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multimodal foundation model for image and video understanding from Microsoft]]></title>
+        <id>https://huggingface.co/microsoft/Mage-VL</id>
+        <link href="https://huggingface.co/microsoft/Mage-VL"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Injectable time and timers with custom Date types for TypeScript]]></title>
+        <id>https://github.com/jaenyf/time-provider</id>
+        <link href="https://github.com/jaenyf/time-provider"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: ASL V6 – Open-source AST red-teaming engine for Python AI agents]]></title>
+        <id>https://github.com/sivaadityacoder/asl-v6</id>
+        <link href="https://github.com/sivaadityacoder/asl-v6"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s Claude Certified Architect Exam (CCA-F): Everything Important Was in the Middle, So…]]></title>
+        <id>https://pub.towardsai.net/anthropics-claude-certified-architect-exam-cca-f-everything-important-was-in-the-middle-so-1b2b19256823?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/anthropics-claude-certified-architect-exam-cca-f-everything-important-was-in-the-middle-so-1b2b19256823?source=rss----98111c9905da---4"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loop Engineering — Simplified.]]></title>
+        <id>https://pub.towardsai.net/loop-engineering-simplified-3410b8f776ab?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/loop-engineering-simplified-3410b8f776ab?source=rss----98111c9905da---4"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Document Intelligence Platform on Snowflake with Cortex AI]]></title>
+        <id>https://pub.towardsai.net/building-a-document-intelligence-platform-on-snowflake-with-cortex-ai-a3ab59d8239a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-a-document-intelligence-platform-on-snowflake-with-cortex-ai-a3ab59d8239a?source=rss----98111c9905da---4"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheap, Fast, and Good: How Chinese AI Models Broke the Pick-Two Rule]]></title>
+        <id>https://pub.towardsai.net/cheap-fast-and-good-how-chinese-ai-models-broke-the-pick-two-rule-9963a708ff78?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/cheap-fast-and-good-how-chinese-ai-models-broke-the-pick-two-rule-9963a708ff78?source=rss----98111c9905da---4"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
@@ -186,6 +235,13 @@
         <title type="html"><![CDATA[HTTP Method :The Actions Behind Every API Call]]></title>
         <id>https://pub.towardsai.net/http-method-the-actions-behind-every-api-call-e6b97c58359e?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/http-method-the-actions-behind-every-api-call-e6b97c58359e?source=rss----98111c9905da---4"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agno Says It Builds Agents 529× Faster Than LangGraph. I Measured What That Actually Buys You]]></title>
+        <id>https://pub.towardsai.net/agno-says-it-builds-agents-529-faster-than-langgraph-i-measured-what-that-actually-buys-you-a3c9cb6c198a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/agno-says-it-builds-agents-529-faster-than-langgraph-i-measured-what-that-actually-buys-you-a3c9cb6c198a?source=rss----98111c9905da---4"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
@@ -305,62 +361,6 @@
         <title type="html"><![CDATA[Latent PDE mapping for efficient physics-informed learning across geometries with limited data]]></title>
         <id>https://arxiv.org/abs/2607.22215</id>
         <link href="https://arxiv.org/abs/2607.22215"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimization of time-consuming experimental conditions using pseudo-experimental data guided by adaptive polynomial regression]]></title>
-        <id>https://arxiv.org/abs/2607.22238</id>
-        <link href="https://arxiv.org/abs/2607.22238"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IFCLoRA: Topology-Aware Rank Allocation for Parameter-Efficient Fine-Tuning]]></title>
-        <id>https://arxiv.org/abs/2607.22251</id>
-        <link href="https://arxiv.org/abs/2607.22251"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient Recommendations via Graph Coarsening and Label Propagation]]></title>
-        <id>https://arxiv.org/abs/2607.22287</id>
-        <link href="https://arxiv.org/abs/2607.22287"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synthetic Speech, Real Signal: Paralinguistic Preservation and Cross-Lingual Augmentation via Voice Cloning]]></title>
-        <id>https://arxiv.org/abs/2607.22304</id>
-        <link href="https://arxiv.org/abs/2607.22304"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Binary Rooftop Mapping: A Four-Class Deep Learning Framework for Green Roof Potential Assessment from Open Swiss Geospatial Data]]></title>
-        <id>https://arxiv.org/abs/2607.22342</id>
-        <link href="https://arxiv.org/abs/2607.22342"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IQ-JEPA: A Joint-Embedding Predictive Architecture with a Hermitian Vision Transformer for Sound Speed and Attenuation Estimation from Ultrasound IQ Data]]></title>
-        <id>https://arxiv.org/abs/2607.22351</id>
-        <link href="https://arxiv.org/abs/2607.22351"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrated Order Dispatching and Routing for Last-Mile Pickup via Deep Reinforcement Learning]]></title>
-        <id>https://arxiv.org/abs/2607.22356</id>
-        <link href="https://arxiv.org/abs/2607.22356"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interior interpretability with attention rollout: contraction and propagation profiles in Transformers]]></title>
-        <id>https://arxiv.org/abs/2607.22367</id>
-        <link href="https://arxiv.org/abs/2607.22367"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
