@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-27T00:02:09.765Z</updated>
+    <updated>2026-07-27T02:02:04.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,37 +36,30 @@
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pin every country you've visited on a 3D globe]]></title>
-        <id>https://pinglobe.world</id>
-        <link href="https://pinglobe.world"/>
+        <title type="html"><![CDATA[Peakd – Community rankings where companies can't buy their position]]></title>
+        <id>https://peakd.io</id>
+        <link href="https://peakd.io"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OKLCH in CSS: why we moved from RGB and HSL]]></title>
-        <id>https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl</id>
-        <link href="https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl"/>
+        <title type="html"><![CDATA[Ask HN: "Access Denied" on every visit to Codeberg since a month or so?]]></title>
+        <id>https://news.ycombinator.com/item?id=49064182</id>
+        <link href="https://news.ycombinator.com/item?id=49064182"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carbon footprint of metal production could be >10 times higher than estimated]]></title>
-        <id>https://phys.org/news/2026-07-carbon-footprint-metal-production-higher.html</id>
-        <link href="https://phys.org/news/2026-07-carbon-footprint-metal-production-higher.html"/>
+        <title type="html"><![CDATA[American Nero: Why Trump is trying to burn down the National Academy of Sciences]]></title>
+        <id>https://thebulletin.org/2026/07/american-nero-why-trump-is-trying-to-burn-down-the-national-academy-of-sciences/</id>
+        <link href="https://thebulletin.org/2026/07/american-nero-why-trump-is-trying-to-burn-down-the-national-academy-of-sciences/"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[C++ Vs Rust: Which is better for writing AI/ML code with LLMs]]></title>
-        <id>https://richiejp.com/rust-vs-cpp-llm-coded-model-conversion-from-pytorch</id>
-        <link href="https://richiejp.com/rust-vs-cpp-llm-coded-model-conversion-from-pytorch"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Amplified Futures – no-wave VCV Rack 2 modules]]></title>
-        <id>https://github.com/dboles99/amplified-futures-vcv</id>
-        <link href="https://github.com/dboles99/amplified-futures-vcv"/>
+        <title type="html"><![CDATA[Show HN: A 60-line PreToolUse hook that stops Claude Code from editing your .env]]></title>
+        <id>https://github.com/avenna01-ceo/claude-code-survival-kr/tree/main/guard</id>
+        <link href="https://github.com/avenna01-ceo/claude-code-survival-kr/tree/main/guard"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
@@ -78,9 +71,37 @@
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTTP Method :The Actions Behind Every API Call]]></title>
-        <id>https://pub.towardsai.net/http-method-the-actions-behind-every-api-call-e6b97c58359e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/http-method-the-actions-behind-every-api-call-e6b97c58359e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Amplified Futures – no-wave VCV Rack 2 modules]]></title>
+        <id>https://github.com/dboles99/amplified-futures-vcv</id>
+        <link href="https://github.com/dboles99/amplified-futures-vcv"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ Vs Rust: Which is better for writing AI/ML code with LLMs]]></title>
+        <id>https://richiejp.com/rust-vs-cpp-llm-coded-model-conversion-from-pytorch</id>
+        <link href="https://richiejp.com/rust-vs-cpp-llm-coded-model-conversion-from-pytorch"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carbon footprint of metal production could be >10 times higher than estimated]]></title>
+        <id>https://phys.org/news/2026-07-carbon-footprint-metal-production-higher.html</id>
+        <link href="https://phys.org/news/2026-07-carbon-footprint-metal-production-higher.html"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKLCH in CSS: why we moved from RGB and HSL]]></title>
+        <id>https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl</id>
+        <link href="https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pin every country you've visited on a 3D globe]]></title>
+        <id>https://pinglobe.world</id>
+        <link href="https://pinglobe.world"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
@@ -92,79 +113,44 @@
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code Cost Control in Production: Token Budgets, Caching Strategies, and What the Billing Dashboard Hides]]></title>
-        <id>https://dev.to/jsmanifest/claude-code-cost-control-in-production-token-budgets-caching-strategies-and-what-the-billing-2p0</id>
-        <link href="https://dev.to/jsmanifest/claude-code-cost-control-in-production-token-budgets-caching-strategies-and-what-the-billing-2p0"/>
+        <title type="html"><![CDATA[HTTP Method :The Actions Behind Every API Call]]></title>
+        <id>https://pub.towardsai.net/http-method-the-actions-behind-every-api-call-e6b97c58359e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/http-method-the-actions-behind-every-api-call-e6b97c58359e?source=rss----98111c9905da---4"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Render Web Pages with JavaScript and Caddy using AxonASP: Step-by-Step]]></title>
-        <id>https://dev.to/lucas_guimaraes/how-to-render-web-pages-with-javascript-and-caddy-using-axonasp-step-by-step-4i2d</id>
-        <link href="https://dev.to/lucas_guimaraes/how-to-render-web-pages-with-javascript-and-caddy-using-axonasp-step-by-step-4i2d"/>
+        <title type="html"><![CDATA[The Project Was Perfect… Until 500 Devices Connected. This Is Where DR9574 Makes the Difference]]></title>
+        <id>https://dev.to/alan_curry_6e6770c37c06c1/the-project-was-perfect-until-500-devices-connected-this-is-where-dr9574-makes-the-difference-4e63</id>
+        <link href="https://dev.to/alan_curry_6e6770c37c06c1/the-project-was-perfect-until-500-devices-connected-this-is-where-dr9574-makes-the-difference-4e63"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Traceless Style's build-time extractor, runtime fallback, and atomic CSS registry fit together.]]></title>
-        <id>https://dev.to/jenny_akhi_aade503c2764f6/how-traceless-styles-build-time-extractor-runtime-fallback-and-atomic-css-registry-fit-together-5dh4</id>
-        <link href="https://dev.to/jenny_akhi_aade503c2764f6/how-traceless-styles-build-time-extractor-runtime-fallback-and-atomic-css-registry-fit-together-5dh4"/>
+        <title type="html"><![CDATA[Free KYT for Crypto Wallets — Check Address Risk Before You Send (JavaScript)]]></title>
+        <id>https://dev.to/public_aml/free-kyt-for-crypto-wallets-check-address-risk-before-you-send-javascript-3j0n</id>
+        <link href="https://dev.to/public_aml/free-kyt-for-crypto-wallets-check-address-risk-before-you-send-javascript-3j0n"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Chrome Extension That Makes Money]]></title>
-        <id>https://dev.to/qingluan/how-to-build-a-chrome-extension-that-makes-money-di4</id>
-        <link href="https://dev.to/qingluan/how-to-build-a-chrome-extension-that-makes-money-di4"/>
+        <title type="html"><![CDATA[Soft 404 Errors in Next.js]]></title>
+        <id>https://dev.to/hassan_mubarak/soft-404-errors-in-nextjs-2l2o</id>
+        <link href="https://dev.to/hassan_mubarak/soft-404-errors-in-nextjs-2l2o"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Real-Time Rails Without Turbo: Modern Reactive UIs with Inertia and DexieCable]]></title>
-        <id>https://dev.to/buhrmi/real-time-rails-without-turbo-modern-reactive-uis-with-inertia-and-dexiecable-4lge</id>
-        <link href="https://dev.to/buhrmi/real-time-rails-without-turbo-modern-reactive-uis-with-inertia-and-dexiecable-4lge"/>
+        <title type="html"><![CDATA[Advanced Server-Side Caching Patterns in Next.js]]></title>
+        <id>https://dev.to/tamizuddin/advanced-server-side-caching-patterns-in-nextjs-1gfm</id>
+        <link href="https://dev.to/tamizuddin/advanced-server-side-caching-patterns-in-nextjs-1gfm"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kill The Cookie Banner: A Practical Guide to GDPR-Compliant Consent That Doesn't Annoy Users]]></title>
-        <id>https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-gdpr-compliant-consent-that-doesnt-annoy-users-3620</id>
-        <link href="https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-gdpr-compliant-consent-that-doesnt-annoy-users-3620"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 I released Lookman v2.0 this weekend!]]></title>
-        <id>https://dev.to/gurjotsaini53/i-released-lookman-v20-this-weekend-4k84</id>
-        <link href="https://dev.to/gurjotsaini53/i-released-lookman-v20-this-weekend-4k84"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kill The Cookie Banner: A Practical Guide to Elegant Cookie Consent]]></title>
-        <id>https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-elegant-cookie-consent-4ld</id>
-        <link href="https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-elegant-cookie-consent-4ld"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build-scanner — a zero-config static scanner for SQLi, NoSQLi, CORS, CSP & CSRF in React/Node apps (pre-release)]]></title>
-        <id>https://dev.to/s_s_4ac423416882e2b70a41e/build-scanner-a-zero-config-static-scanner-for-sqli-nosqli-cors-csp-csrf-in-reactnode-apps-2o5e</id>
-        <link href="https://dev.to/s_s_4ac423416882e2b70a41e/build-scanner-a-zero-config-static-scanner-for-sqli-nosqli-cors-csp-csrf-in-reactnode-apps-2o5e"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Async/Await: How to Write Cleaner and Faster JavaScript]]></title>
-        <id>https://dev.to/man313our/master-asyncawait-how-to-write-cleaner-and-faster-javascript-1gdf</id>
-        <link href="https://dev.to/man313our/master-asyncawait-how-to-write-cleaner-and-faster-javascript-1gdf"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js Is Getting Much Better at SPA-like UX]]></title>
-        <id>https://dev.to/erfanebrahimnia/nextjs-is-getting-much-better-at-spa-like-ux-141a</id>
-        <link href="https://dev.to/erfanebrahimnia/nextjs-is-getting-much-better-at-spa-like-ux-141a"/>
+        <title type="html"><![CDATA[useSyncExternalStore: the right way to connect state that lives outside React (and what Zustand uses)]]></title>
+        <id>https://dev.to/dev48v/usesyncexternalstore-the-right-way-to-connect-state-that-lives-outside-react-and-what-zustand-3gb3</id>
+        <link href="https://dev.to/dev48v/usesyncexternalstore-the-right-way-to-connect-state-that-lives-outside-react-and-what-zustand-3gb3"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
@@ -176,9 +162,79 @@
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[useSyncExternalStore: the right way to connect state that lives outside React (and what Zustand uses)]]></title>
-        <id>https://dev.to/dev48v/usesyncexternalstore-the-right-way-to-connect-state-that-lives-outside-react-and-what-zustand-3gb3</id>
-        <link href="https://dev.to/dev48v/usesyncexternalstore-the-right-way-to-connect-state-that-lives-outside-react-and-what-zustand-3gb3"/>
+        <title type="html"><![CDATA[Next.js Is Getting Much Better at SPA-like UX]]></title>
+        <id>https://dev.to/erfanebrahimnia/nextjs-is-getting-much-better-at-spa-like-ux-141a</id>
+        <link href="https://dev.to/erfanebrahimnia/nextjs-is-getting-much-better-at-spa-like-ux-141a"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Async/Await: How to Write Cleaner and Faster JavaScript]]></title>
+        <id>https://dev.to/man313our/master-asyncawait-how-to-write-cleaner-and-faster-javascript-1gdf</id>
+        <link href="https://dev.to/man313our/master-asyncawait-how-to-write-cleaner-and-faster-javascript-1gdf"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build-scanner — a zero-config static scanner for SQLi, NoSQLi, CORS, CSP & CSRF in React/Node apps (pre-release)]]></title>
+        <id>https://dev.to/s_s_4ac423416882e2b70a41e/build-scanner-a-zero-config-static-scanner-for-sqli-nosqli-cors-csp-csrf-in-reactnode-apps-2o5e</id>
+        <link href="https://dev.to/s_s_4ac423416882e2b70a41e/build-scanner-a-zero-config-static-scanner-for-sqli-nosqli-cors-csp-csrf-in-reactnode-apps-2o5e"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kill The Cookie Banner: A Practical Guide to Elegant Cookie Consent]]></title>
+        <id>https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-elegant-cookie-consent-4ld</id>
+        <link href="https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-elegant-cookie-consent-4ld"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀 I released Lookman v2.0 this weekend!]]></title>
+        <id>https://dev.to/gurjotsaini53/i-released-lookman-v20-this-weekend-4k84</id>
+        <link href="https://dev.to/gurjotsaini53/i-released-lookman-v20-this-weekend-4k84"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kill The Cookie Banner: A Practical Guide to GDPR-Compliant Consent That Doesn't Annoy Users]]></title>
+        <id>https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-gdpr-compliant-consent-that-doesnt-annoy-users-3620</id>
+        <link href="https://dev.to/solomon_dev/kill-the-cookie-banner-a-practical-guide-to-gdpr-compliant-consent-that-doesnt-annoy-users-3620"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-Time Rails Without Turbo: Modern Reactive UIs with Inertia and DexieCable]]></title>
+        <id>https://dev.to/buhrmi/real-time-rails-without-turbo-modern-reactive-uis-with-inertia-and-dexiecable-4lge</id>
+        <link href="https://dev.to/buhrmi/real-time-rails-without-turbo-modern-reactive-uis-with-inertia-and-dexiecable-4lge"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Chrome Extension That Makes Money]]></title>
+        <id>https://dev.to/qingluan/how-to-build-a-chrome-extension-that-makes-money-di4</id>
+        <link href="https://dev.to/qingluan/how-to-build-a-chrome-extension-that-makes-money-di4"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Traceless Style's build-time extractor, runtime fallback, and atomic CSS registry fit together.]]></title>
+        <id>https://dev.to/jenny_akhi_aade503c2764f6/how-traceless-styles-build-time-extractor-runtime-fallback-and-atomic-css-registry-fit-together-5dh4</id>
+        <link href="https://dev.to/jenny_akhi_aade503c2764f6/how-traceless-styles-build-time-extractor-runtime-fallback-and-atomic-css-registry-fit-together-5dh4"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Render Web Pages with JavaScript and Caddy using AxonASP: Step-by-Step]]></title>
+        <id>https://dev.to/lucas_guimaraes/how-to-render-web-pages-with-javascript-and-caddy-using-axonasp-step-by-step-4i2d</id>
+        <link href="https://dev.to/lucas_guimaraes/how-to-render-web-pages-with-javascript-and-caddy-using-axonasp-step-by-step-4i2d"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Cost Control in Production: Token Budgets, Caching Strategies, and What the Billing Dashboard Hides]]></title>
+        <id>https://dev.to/jsmanifest/claude-code-cost-control-in-production-token-budgets-caching-strategies-and-what-the-billing-2p0</id>
+        <link href="https://dev.to/jsmanifest/claude-code-cost-control-in-production-token-budgets-caching-strategies-and-what-the-billing-2p0"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
@@ -239,128 +295,72 @@
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Virtual time engine to record HTML to 60fps MP4, no drops]]></title>
-        <id>https://zlvox.com/tools/html-to-video</id>
-        <link href="https://zlvox.com/tools/html-to-video"/>
+        <title type="html"><![CDATA[Show HN: A Chrome extension for LeetCode with context-aware hints and mock in]]></title>
+        <id>https://leetcopilot.dev</id>
+        <link href="https://leetcopilot.dev"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google's AI Spending Spree Has Investors Nervous]]></title>
-        <id>https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223</id>
-        <link href="https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223"/>
+        <title type="html"><![CDATA[Why every drawing app still looks like MacPaint [video]]]></title>
+        <id>https://www.youtube.com/watch?v=TedaOiRo_Qg</id>
+        <link href="https://www.youtube.com/watch?v=TedaOiRo_Qg"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making 3 AI's Count to 100 Together [video]]]></title>
-        <id>https://www.youtube.com/watch?v=MXEInc6Zy7Q</id>
-        <link href="https://www.youtube.com/watch?v=MXEInc6Zy7Q"/>
+        <title type="html"><![CDATA[Show HN: Vitrin OS – An agent-first display server with per-app isolation]]></title>
+        <id>https://github.com/vitrin-os/vitrin-os</id>
+        <link href="https://github.com/vitrin-os/vitrin-os"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ARIA – Voice-native 3D spatial AI SoC with governed autonomy (BSL 1.1)]]></title>
-        <id>https://github.com/sidevworks/aria-sec</id>
-        <link href="https://github.com/sidevworks/aria-sec"/>
+        <title type="html"><![CDATA[Astrallist – Instant Grocery Management]]></title>
+        <id>https://www.astrallist.com/</id>
+        <link href="https://www.astrallist.com/"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Pg_stat_ch, a Postgres extension to export every metric to ClickHouse]]></title>
-        <id>https://github.com/ClickHouse/pg_stat_ch</id>
-        <link href="https://github.com/ClickHouse/pg_stat_ch"/>
+        <title type="html"><![CDATA[This year, EU will again fine US tech more than it taxes public tech firms]]></title>
+        <id>https://twitter.com/levelsio/status/2080314960656159018</id>
+        <link href="https://twitter.com/levelsio/status/2080314960656159018"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WezTerm Config Guide]]></title>
-        <id>https://gilbertsanchez.com/posts/my-terminal-wezterm/</id>
-        <link href="https://gilbertsanchez.com/posts/my-terminal-wezterm/"/>
+        <title type="html"><![CDATA[Show HN: A platformer video game using visual representations of functions]]></title>
+        <id>https://function-platformer.vercel.app/</id>
+        <link href="https://function-platformer.vercel.app/"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LaunchRanks – Get actionable SEO steps for growing site authority]]></title>
-        <id>https://launchranks.com</id>
-        <link href="https://launchranks.com"/>
+        <title type="html"><![CDATA[PaperScreen: Give your Mac's display a softer, paper-like feel]]></title>
+        <id>https://github.com/Bearbobs/PaperScreen</id>
+        <link href="https://github.com/Bearbobs/PaperScreen"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Record a click-through demo from a Markdown plan into one HTML file]]></title>
-        <id>https://github.com/justrinari/handoff</id>
-        <link href="https://github.com/justrinari/handoff"/>
+        <title type="html"><![CDATA[Genesis Mission Overview]]></title>
+        <id>https://github.com/donutloop/donutloop-genesis/blob/main/README.md</id>
+        <link href="https://github.com/donutloop/donutloop-genesis/blob/main/README.md"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I built an AI that roasts GitHub profiles]]></title>
-        <id>https://gitroast-kappa.vercel.app/</id>
-        <link href="https://gitroast-kappa.vercel.app/"/>
+        <title type="html"><![CDATA[As Burlington reviews data centre plan, councillors reject moratorium]]></title>
+        <id>https://www.cbc.ca/news/canada/hamilton/data-centre-moratorium-burlington-9.7282901</id>
+        <link href="https://www.cbc.ca/news/canada/hamilton/data-centre-moratorium-burlington-9.7282901"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vision 50 Years Phone – Keeping old Android phones fast without root]]></title>
-        <id>https://github.com/50YearsPhone/vision-50-years-phone</id>
-        <link href="https://github.com/50YearsPhone/vision-50-years-phone"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eve.dev: Next.js for Agents]]></title>
-        <id>https://eve.dev/</id>
-        <link href="https://eve.dev/"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Algorithmic Atelier]]></title>
-        <id>https://www.doc.cc/articles/the-algorithmic-atelier</id>
-        <link href="https://www.doc.cc/articles/the-algorithmic-atelier"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Operating a computer with your tongue: the Augmental MouthPad [video]]]></title>
-        <id>https://www.youtube.com/watch?v=xReyIF5pwRo</id>
-        <link href="https://www.youtube.com/watch?v=xReyIF5pwRo"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home]]></title>
-        <id>https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/</id>
-        <link href="https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space Oddity; Review of Slobodian and Tarnoff's "Muskism"]]></title>
-        <id>https://www.nybooks.com/articles/2026/07/23/space-oddity-muskism-slobodian-tarnoff/</id>
-        <link href="https://www.nybooks.com/articles/2026/07/23/space-oddity-muskism-slobodian-tarnoff/"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Possible invasive species superspreader event near Strait of Hormuz]]></title>
-        <id>https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186</id>
-        <link href="https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Maps Platform adds Isochrones API for travel-time reachability polygons]]></title>
-        <id>https://developers.google.com/maps/documentation/isochrones/overview</id>
-        <link href="https://developers.google.com/maps/documentation/isochrones/overview"/>
-        <updated>2026-07-25T16:00:00.000Z</updated>
-        <published>2026-07-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collective Intelligence: The Next Frontier of AI]]></title>
-        <id>https://github.com/ailinone/collective-intelligence</id>
-        <link href="https://github.com/ailinone/collective-intelligence"/>
+        <title type="html"><![CDATA[Interactive 3D Dice Roller with Custom Physics and Shaders]]></title>
+        <id>https://ttrpg.dies.kmcprizmquest.dev/</id>
+        <link href="https://ttrpg.dies.kmcprizmquest.dev/"/>
         <updated>2026-07-25T16:00:00.000Z</updated>
         <published>2026-07-25T16:00:00.000Z</published>
     </entry>
