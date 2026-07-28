@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-28 23:03:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-29 06:01:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -12,6 +12,6 @@
 - [2026-07-16-Uber-Announces-Acquisition-Offer-for-Delivery-Hero-at-$14.8B](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Acquisition-Offer-for-Delivery-Hero/default.aspx) 
 - [2026-07-15-Stripe,-Advent-offer-to-buy-PayPal-for-more-than-$53B](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) 
 - [2026-07-01-Fedora-45-Looks-to-Offer-Install-Support-for-Stratis-Storage](https://www.phoronix.com/news/Fedora-45-Stratis-Storage) 
-- [2026-06-29-Brain2Qwerty-Offers-a-New-Path-to-Communication-Without-Surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1) 
+- [2026-07-28-PayPal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat](https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/) 
 - [2026-07-15-Stripe-and-Advent-reportedly-offered-to-buy-PayPal-for-around-$53.4B](https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/) 
 - [2026-07-01-Wayve-launches-$85M-employee-tender-offer-at-$8.5B-valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/) 
