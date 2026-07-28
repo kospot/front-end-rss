@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-28 12:02:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-28 15:03:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 小程序
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-07-28-Meccha-Chameleon-Online-—-A-Camouflage-Hide-and-Seek-Game-for-Devs'-Coffee-Breaks](https://dev.to/skyler_7abb6ba5f692ca05e6/meccha-chameleon-online-a-camouflage-hide-and-seek-game-for-devs-coffee-breaks-4hg7) 
 - [2026-07-21-Chameleon:-A-Multiplier-Free-Temporal-Convolutional-Network-Accelerator-for-End-to-End-Few-Shot-and-Continual-Learning-from-Sequential-Data](https://arxiv.org/abs/2505.24852) 
 - [2026-07-24-Show-HN:-A-static,-client-side-tarot-calculator-for-Brazilian-Portuguese](https://meuarcanopessoal.net/) 
 - [2026-07-04-Mecha-Chameleon-Games-browser-guide-hub](https://mechachameleon.games/) 
