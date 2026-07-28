@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-27T22:01:04.365Z</updated>
+    <updated>2026-07-28T00:01:35.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,16 +50,30 @@
         <published>2026-07-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The TLA+ Video Course]]></title>
-        <id>https://lamport.azurewebsites.net/video/videos.htmlhttps://lamport.azurewebsites.net/video/videos.html</id>
-        <link href="https://lamport.azurewebsites.net/video/videos.htmlhttps://lamport.azurewebsites.net/video/videos.html"/>
+        <title type="html"><![CDATA[Person Opposing Data Center Arrested for Clapping at City Meeting]]></title>
+        <id>https://www.404media.co/person-opposing-data-center-arrested-for-clapping-at-city-meeting/</id>
+        <link href="https://www.404media.co/person-opposing-data-center-arrested-for-clapping-at-city-meeting/"/>
         <updated>2026-07-27T16:00:00.000Z</updated>
         <published>2026-07-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Fancontrol-rs rust windows fan controls specdrivendesigned open source]]></title>
-        <id>https://github.com/Leyukaka/fancontrol-rs</id>
-        <link href="https://github.com/Leyukaka/fancontrol-rs"/>
+        <title type="html"><![CDATA[Show HN: AlgoDeploy – Python algo trading you run yourself (Alpaca and IBKR)]]></title>
+        <id>https://algo-deploy.com/</id>
+        <link href="https://algo-deploy.com/"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Trylle – The Next-Gen Git Platform for Modern Teams]]></title>
+        <id>https://trylle.com/home</id>
+        <link href="https://trylle.com/home"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS]]></title>
+        <id>https://www.dowe.dev</id>
+        <link href="https://www.dowe.dev"/>
         <updated>2026-07-27T16:00:00.000Z</updated>
         <published>2026-07-27T16:00:00.000Z</published>
     </entry>
@@ -71,9 +85,37 @@
         <published>2026-07-27T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: Fancontrol-rs rust windows fan controls specdrivendesigned open source]]></title>
+        <id>https://github.com/Leyukaka/fancontrol-rs</id>
+        <link href="https://github.com/Leyukaka/fancontrol-rs"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The TLA+ Video Course]]></title>
+        <id>https://lamport.azurewebsites.net/video/videos.htmlhttps://lamport.azurewebsites.net/video/videos.html</id>
+        <link href="https://lamport.azurewebsites.net/video/videos.htmlhttps://lamport.azurewebsites.net/video/videos.html"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When Frustrated Machines Talk to Each Other?]]></title>
+        <id>https://pub.towardsai.net/what-happens-when-frustrated-machines-talk-to-each-other-16e234b1e55f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-happens-when-frustrated-machines-talk-to-each-other-16e234b1e55f?source=rss----98111c9905da---4"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nobody Can Explain Why This AI-Designed Chip Works. They Built It Anyway]]></title>
         <id>https://pub.towardsai.net/nobody-can-explain-why-this-ai-designed-chip-works-they-built-it-anyway-b7a712954e35?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/nobody-can-explain-why-this-ai-designed-chip-works-they-built-it-anyway-b7a712954e35?source=rss----98111c9905da---4"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An opinionated guide to which AI to use to do stuff]]></title>
+        <id>https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything"/>
         <updated>2026-07-27T16:00:00.000Z</updated>
         <published>2026-07-27T16:00:00.000Z</published>
     </entry>
@@ -85,58 +127,30 @@
         <published>2026-07-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The OPSEC Problem With JavaScript: Fingerprinting, Exploits & Browser Security]]></title>
-        <id>https://dev.to/hul0/the-opsec-problem-with-javascript-fingerprinting-exploits-browser-security-2f6f</id>
-        <link href="https://dev.to/hul0/the-opsec-problem-with-javascript-fingerprinting-exploits-browser-security-2f6f"/>
+        <title type="html"><![CDATA[Top 5 Legitimate Cryptocurrency Recovery Companies: Best Firm to Retrieve Stolen Digital Assets, ZEUS CRYPTO RECOVERY SERVICES  ]]></title>
+        <id>https://dev.to/zhiqiang_weilong_9f3d91ce/top-5-legitimate-cryptocurrency-recovery-companies-best-firm-to-retrieve-stolen-digital-assets-4m6n</id>
+        <link href="https://dev.to/zhiqiang_weilong_9f3d91ce/top-5-legitimate-cryptocurrency-recovery-companies-best-firm-to-retrieve-stolen-digital-assets-4m6n"/>
         <updated>2026-07-27T16:00:00.000Z</updated>
         <published>2026-07-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Rusty Hobbit: Ownership System Explained for JavaScript Developers]]></title>
-        <id>https://dev.to/timevolt/the-rusty-hobbit-ownership-system-explained-for-javascript-developers-49n4</id>
-        <link href="https://dev.to/timevolt/the-rusty-hobbit-ownership-system-explained-for-javascript-developers-49n4"/>
+        <title type="html"><![CDATA[Closure: o que o JavaScript se recusa a deixar pra trás]]></title>
+        <id>https://dev.to/rohyer/closure-o-que-o-javascript-se-recusa-a-deixar-pra-tras-181c</id>
+        <link href="https://dev.to/rohyer/closure-o-que-o-javascript-se-recusa-a-deixar-pra-tras-181c"/>
         <updated>2026-07-27T16:00:00.000Z</updated>
         <published>2026-07-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Steps to Bridge BNB Chain to Solana — Safe, Fast, Updated]]></title>
-        <id>https://dev.to/sadfwer45/top-10-steps-to-bridge-bnb-chain-to-solana-safe-fast-updated-14fk</id>
-        <link href="https://dev.to/sadfwer45/top-10-steps-to-bridge-bnb-chain-to-solana-safe-fast-updated-14fk"/>
+        <title type="html"><![CDATA[The 2038 Problem and Timestamp Edge Cases: How to Audit Your Codebase]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/the-2038-problem-and-timestamp-edge-cases-how-to-audit-your-codebase-1717</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/the-2038-problem-and-timestamp-edge-cases-how-to-audit-your-codebase-1717"/>
         <updated>2026-07-27T16:00:00.000Z</updated>
         <published>2026-07-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Regex Edge Cases That Break Most Production Validators]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/the-regex-edge-cases-that-break-most-production-validators-1544</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/the-regex-edge-cases-that-break-most-production-validators-1544"/>
-        <updated>2026-07-27T16:00:00.000Z</updated>
-        <published>2026-07-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Custom MCP Clients in Next.js & Serverless Engines: The Ultimate Engineering Guide]]></title>
-        <id>https://dev.to/programmingcentral/building-custom-mcp-clients-in-nextjs-serverless-engines-the-ultimate-engineering-guide-63d</id>
-        <link href="https://dev.to/programmingcentral/building-custom-mcp-clients-in-nextjs-serverless-engines-the-ultimate-engineering-guide-63d"/>
-        <updated>2026-07-27T16:00:00.000Z</updated>
-        <published>2026-07-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate PayPal & Mercado Pago in Node.js (Clean Architecture)]]></title>
-        <id>https://dev.to/gcanal54/how-to-integrate-paypal-mercado-pago-in-nodejs-clean-architecture-2ne9</id>
-        <link href="https://dev.to/gcanal54/how-to-integrate-paypal-mercado-pago-in-nodejs-clean-architecture-2ne9"/>
-        <updated>2026-07-27T16:00:00.000Z</updated>
-        <published>2026-07-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NextJs - client function example]]></title>
-        <id>https://dev.to/devrel-work/nextjs-client-function-example-456c</id>
-        <link href="https://dev.to/devrel-work/nextjs-client-function-example-456c"/>
-        <updated>2026-07-27T16:00:00.000Z</updated>
-        <published>2026-07-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSON Edge Cases Your Parser Silently Ignores (And How to Fix Them)]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/json-edge-cases-your-parser-silently-ignores-and-how-to-fix-them-2mkg</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/json-edge-cases-your-parser-silently-ignores-and-how-to-fix-them-2mkg"/>
+        <title type="html"><![CDATA[When to Block the Main Thread in JavaScript: A Tec…]]></title>
+        <id>https://dev.to/norviktech/when-to-block-the-main-thread-in-javascript-a-tec-5ajf</id>
+        <link href="https://dev.to/norviktech/when-to-block-the-main-thread-in-javascript-a-tec-5ajf"/>
         <updated>2026-07-27T16:00:00.000Z</updated>
         <published>2026-07-27T16:00:00.000Z</published>
     </entry>
@@ -148,23 +162,65 @@
         <published>2026-07-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta is royally screwing up its smart glasses roll out ]]></title>
-        <id>https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables</id>
-        <link href="https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JSON Edge Cases Your Parser Silently Ignores (And How to Fix Them)]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/json-edge-cases-your-parser-silently-ignores-and-how-to-fix-them-2mkg</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/json-edge-cases-your-parser-silently-ignores-and-how-to-fix-them-2mkg"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The US is charging an American citizen for wiping his phone at the border]]></title>
-        <id>https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password</id>
-        <link href="https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[NextJs - client function example]]></title>
+        <id>https://dev.to/devrel-work/nextjs-client-function-example-456c</id>
+        <link href="https://dev.to/devrel-work/nextjs-client-function-example-456c"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple is banking on privacy to set its smart glasses apart]]></title>
-        <id>https://www.theverge.com/tech/971101/apple-smart-glasses-privacy</id>
-        <link href="https://www.theverge.com/tech/971101/apple-smart-glasses-privacy"/>
+        <title type="html"><![CDATA[How to Integrate PayPal & Mercado Pago in Node.js (Clean Architecture)]]></title>
+        <id>https://dev.to/gcanal54/how-to-integrate-paypal-mercado-pago-in-nodejs-clean-architecture-2ne9</id>
+        <link href="https://dev.to/gcanal54/how-to-integrate-paypal-mercado-pago-in-nodejs-clean-architecture-2ne9"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Custom MCP Clients in Next.js & Serverless Engines: The Ultimate Engineering Guide]]></title>
+        <id>https://dev.to/programmingcentral/building-custom-mcp-clients-in-nextjs-serverless-engines-the-ultimate-engineering-guide-63d</id>
+        <link href="https://dev.to/programmingcentral/building-custom-mcp-clients-in-nextjs-serverless-engines-the-ultimate-engineering-guide-63d"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Regex Edge Cases That Break Most Production Validators]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/the-regex-edge-cases-that-break-most-production-validators-1544</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/the-regex-edge-cases-that-break-most-production-validators-1544"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Steps to Bridge BNB Chain to Solana — Safe, Fast, Updated]]></title>
+        <id>https://dev.to/sadfwer45/top-10-steps-to-bridge-bnb-chain-to-solana-safe-fast-updated-14fk</id>
+        <link href="https://dev.to/sadfwer45/top-10-steps-to-bridge-bnb-chain-to-solana-safe-fast-updated-14fk"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rusty Hobbit: Ownership System Explained for JavaScript Developers]]></title>
+        <id>https://dev.to/timevolt/the-rusty-hobbit-ownership-system-explained-for-javascript-developers-49n4</id>
+        <link href="https://dev.to/timevolt/the-rusty-hobbit-ownership-system-explained-for-javascript-developers-49n4"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The OPSEC Problem With JavaScript: Fingerprinting, Exploits & Browser Security]]></title>
+        <id>https://dev.to/hul0/the-opsec-problem-with-javascript-fingerprinting-exploits-browser-security-2f6f</id>
+        <link href="https://dev.to/hul0/the-opsec-problem-with-javascript-fingerprinting-exploits-browser-security-2f6f"/>
+        <updated>2026-07-27T16:00:00.000Z</updated>
+        <published>2026-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800]]></title>
+        <id>https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review</id>
+        <link href="https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
@@ -176,16 +232,23 @@
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800]]></title>
-        <id>https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review</id>
-        <link href="https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review"/>
+        <title type="html"><![CDATA[Apple is banking on privacy to set its smart glasses apart]]></title>
+        <id>https://www.theverge.com/tech/971101/apple-smart-glasses-privacy</id>
+        <link href="https://www.theverge.com/tech/971101/apple-smart-glasses-privacy"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls]]></title>
-        <id>https://www.wired.com/review/soundcore-nebula-p1i-projector/</id>
-        <link href="https://www.wired.com/review/soundcore-nebula-p1i-projector/"/>
+        <title type="html"><![CDATA[The US is charging an American citizen for wiping his phone at the border]]></title>
+        <id>https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password</id>
+        <link href="https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta is royally screwing up its smart glasses roll out ]]></title>
+        <id>https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables</id>
+        <link href="https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
@@ -193,6 +256,13 @@
         <title type="html"><![CDATA[This Is Donald Trump’s AI Brain Trust]]></title>
         <id>https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/</id>
         <link href="https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/"/>
+        <updated>2026-07-26T16:00:00.000Z</updated>
+        <published>2026-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls]]></title>
+        <id>https://www.wired.com/review/soundcore-nebula-p1i-projector/</id>
+        <link href="https://www.wired.com/review/soundcore-nebula-p1i-projector/"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
@@ -218,149 +288,79 @@
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Polycast5]]></title>
-        <id>https://polycast5.com/</id>
-        <link href="https://polycast5.com/"/>
+        <title type="html"><![CDATA[Leadership Lessons from the Odyssey]]></title>
+        <id>https://danielmangum.com/posts/odyssey-leadership-lessons/</id>
+        <link href="https://danielmangum.com/posts/odyssey-leadership-lessons/"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make your own Thread Border Router (Matter Bridge) for just $5]]></title>
-        <id>https://community.home-assistant.io/t/make-your-own-thread-border-router-for-just-5/962780</id>
-        <link href="https://community.home-assistant.io/t/make-your-own-thread-border-router-for-just-5/962780"/>
+        <title type="html"><![CDATA[Show HN: Otlet – Local LLM inference "inside" Postgres]]></title>
+        <id>https://github.com/joshmeek/otlet</id>
+        <link href="https://github.com/joshmeek/otlet"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Frontier of Sound: Generative Learned Transformers]]></title>
-        <id>http://ALD-SC:ASpectralLatentDiffusionModel.ArrowspaceLatentDiffusionwithSpectralChartConditioning</id>
-        <link href="http://ALD-SC:ASpectralLatentDiffusionModel.ArrowspaceLatentDiffusionwithSpectralChartConditioning"/>
+        <title type="html"><![CDATA[Batteries: Varta files for bankruptcy – Apple's departure takes its toll]]></title>
+        <id>https://en.ilsole24ore.com/art/varta-batteries-files-for-bankruptcy-apples-departure-takes-its-toll-AJLPUGV</id>
+        <link href="https://en.ilsole24ore.com/art/varta-batteries-files-for-bankruptcy-apples-departure-takes-its-toll-AJLPUGV"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Let Kimi K3 Run a Business Alone for 8 Days [video]]]></title>
-        <id>https://www.youtube.com/watch?v=T_JGHAZDb8A</id>
-        <link href="https://www.youtube.com/watch?v=T_JGHAZDb8A"/>
+        <title type="html"><![CDATA[Show HN: Taetype-WASM – Pure Rust, browser-only font engine in WebAssembly]]></title>
+        <id>https://github.com/silly-tae/taetype-wasm</id>
+        <link href="https://github.com/silly-tae/taetype-wasm"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tinycast: Open-Source Raycast Alternative]]></title>
-        <id>https://abue-ammar.github.io/tinycast/</id>
-        <link href="https://abue-ammar.github.io/tinycast/"/>
+        <title type="html"><![CDATA[Claude-video – Give Claude the ability to watch any video]]></title>
+        <id>https://github.com/bradautomates/claude-video</id>
+        <link href="https://github.com/bradautomates/claude-video"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Settling Scores: Experts Debate Why AP Performance Has Soared]]></title>
-        <id>https://www.the74million.org/article/settling-scores-experts-debate-why-ap-performance-has-soared/</id>
-        <link href="https://www.the74million.org/article/settling-scores-experts-debate-why-ap-performance-has-soared/"/>
+        <title type="html"><![CDATA[Tryon 3D cross platform virtual fittingroom]]></title>
+        <id>https://tryon.global/</id>
+        <link href="https://tryon.global/"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Problem with Capitalism – Smarter Every Day [video]]]></title>
-        <id>https://www.youtube.com/watch?v=vS6HEes8daw</id>
-        <link href="https://www.youtube.com/watch?v=vS6HEes8daw"/>
+        <title type="html"><![CDATA[How does a Grand Piano work? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=NDvS2V7HbnY</id>
+        <link href="https://www.youtube.com/watch?v=NDvS2V7HbnY"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASD-STE100 Simplified Technical English for LLMs]]></title>
-        <id>https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop</id>
-        <link href="https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop"/>
+        <title type="html"><![CDATA[Kimi K3: Its Capabilities and Related Discontents]]></title>
+        <id>https://thezvi.wordpress.com/2026/07/20/on-kimi-k3-its-capabilities-and-related-discontents/</id>
+        <link href="https://thezvi.wordpress.com/2026/07/20/on-kimi-k3-its-capabilities-and-related-discontents/"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenSparrow v3.0 is out. The GDPR anonymization module]]></title>
-        <id>https://opensparrow.org/en/</id>
-        <link href="https://opensparrow.org/en/"/>
+        <title type="html"><![CDATA[Can LLMs identify 16 cards in 45 bit-queries?]]></title>
+        <id>https://snwagh.com/blog/2026/open-problem/</id>
+        <link href="https://snwagh.com/blog/2026/open-problem/"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Skill-language-server – A language server for agent skills]]></title>
-        <id>https://github.com/CyrusNuevoDia/skill-language-server</id>
-        <link href="https://github.com/CyrusNuevoDia/skill-language-server"/>
+        <title type="html"><![CDATA[Show HN: Agent Console – A Local Dashboard for Codex and Claude Code]]></title>
+        <id>https://github.com/buhuipao/agent-console</id>
+        <link href="https://github.com/buhuipao/agent-console"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peakd – Community rankings where companies can't buy their position]]></title>
-        <id>https://peakd.io</id>
-        <link href="https://peakd.io"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: "Access Denied" on every visit to Codeberg since a month or so?]]></title>
-        <id>https://news.ycombinator.com/item?id=49064182</id>
-        <link href="https://news.ycombinator.com/item?id=49064182"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[American Nero: Why Trump is trying to burn down the National Academy of Sciences]]></title>
-        <id>https://thebulletin.org/2026/07/american-nero-why-trump-is-trying-to-burn-down-the-national-academy-of-sciences/</id>
-        <link href="https://thebulletin.org/2026/07/american-nero-why-trump-is-trying-to-burn-down-the-national-academy-of-sciences/"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A 60-line PreToolUse hook that stops Claude Code from editing your .env]]></title>
-        <id>https://github.com/avenna01-ceo/claude-code-survival-kr/tree/main/guard</id>
-        <link href="https://github.com/avenna01-ceo/claude-code-survival-kr/tree/main/guard"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Science: A New Golden Age [pdf]]]></title>
-        <id>https://www.whitehouse.gov/wp-content/uploads/2026/07/Science-A-New-Golden-Age.pdf</id>
-        <link href="https://www.whitehouse.gov/wp-content/uploads/2026/07/Science-A-New-Golden-Age.pdf"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Amplified Futures – no-wave VCV Rack 2 modules]]></title>
-        <id>https://github.com/dboles99/amplified-futures-vcv</id>
-        <link href="https://github.com/dboles99/amplified-futures-vcv"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ Vs Rust: Which is better for writing AI/ML code with LLMs]]></title>
-        <id>https://richiejp.com/rust-vs-cpp-llm-coded-model-conversion-from-pytorch</id>
-        <link href="https://richiejp.com/rust-vs-cpp-llm-coded-model-conversion-from-pytorch"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carbon footprint of metal production could be >10 times higher than estimated]]></title>
-        <id>https://phys.org/news/2026-07-carbon-footprint-metal-production-higher.html</id>
-        <link href="https://phys.org/news/2026-07-carbon-footprint-metal-production-higher.html"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKLCH in CSS: why we moved from RGB and HSL]]></title>
-        <id>https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl</id>
-        <link href="https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pin every country you've visited on a 3D globe]]></title>
-        <id>https://pinglobe.world</id>
-        <link href="https://pinglobe.world"/>
-        <updated>2026-07-26T16:00:00.000Z</updated>
-        <published>2026-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buzz: where humans and agents work together]]></title>
-        <id>https://block.xyz/inside/introducing-buzz-where-humans-and-agents-work-together</id>
-        <link href="https://block.xyz/inside/introducing-buzz-where-humans-and-agents-work-together"/>
+        <title type="html"><![CDATA[Brief notes on the OpenAI/Hugging Face incident]]></title>
+        <id>https://abstatisticalconsulting.substack.com/p/brief-notes-on-the-openaihugging</id>
+        <link href="https://abstatisticalconsulting.substack.com/p/brief-notes-on-the-openaihugging"/>
         <updated>2026-07-26T16:00:00.000Z</updated>
         <published>2026-07-26T16:00:00.000Z</published>
     </entry>
