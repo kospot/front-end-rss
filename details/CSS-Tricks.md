@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-29 23:02:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-30 06:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS-Tricks
 
@@ -9,4 +9,3 @@
 - [2026-07-16-pointer-events](https://css-tricks.com/almanac/properties/p/pointer-events/) 
 - [2026-07-15-What’s-!important-#15:-Boundary-aware-CSS,-Time-based-CSS,-Full-bleed-CSS,-and-More](https://css-tricks.com/whats-important-15/) 
 - [2026-07-07-Get-Ready-For-the-Powerful-CSS-border-shape-Property!](https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/) 
-- [2026-06-30-What’s-!important-#14:-Gap-Decorations,-random,-&lt;select&gt;-field-sizing,-and-More](https://css-tricks.com/whats-important-14/) 
