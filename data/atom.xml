@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-29T02:01:59.981Z</updated>
+    <updated>2026-07-29T04:01:47.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -92,121 +92,44 @@
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences]]></title>
-        <id>https://learnvector.ai/</id>
-        <link href="https://learnvector.ai/"/>
+        <title type="html"><![CDATA[Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design]]></title>
+        <id>https://transformer-transformer.github.io/</id>
+        <link href="https://transformer-transformer.github.io/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modern Software Registries Are a Trust Service]]></title>
-        <id>https://redmonk.com/kholterhoff/2026/07/28/modern-software-registries-trust-service/</id>
-        <link href="https://redmonk.com/kholterhoff/2026/07/28/modern-software-registries-trust-service/"/>
+        <title type="html"><![CDATA[One transcript, four different GPA views]]></title>
+        <id>https://mongol-jimmi.github.io/medcompass-audit/guides/gpa-formulas.html</id>
+        <link href="https://mongol-jimmi.github.io/medcompass-audit/guides/gpa-formulas.html"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qector v3: Exact parity quantum error correction on a 3GB dual-core edge CPU]]></title>
-        <id>https://zenodo.org/records/21501377</id>
-        <link href="https://zenodo.org/records/21501377"/>
+        <title type="html"><![CDATA[If U.S. labs slow down AGI development, this could be 2028]]></title>
+        <id>https://news.ycombinator.com/item?id=49093166</id>
+        <link href="https://news.ycombinator.com/item?id=49093166"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How do you rewrite C/C++ projects to Rust?]]></title>
-        <id>https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/</id>
-        <link href="https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/"/>
+        <title type="html"><![CDATA[A dystopian world where LLMs can't code but can generate software binaries]]></title>
+        <id>https://twitter.com/random_walker/status/2082163285588107752</id>
+        <link href="https://twitter.com/random_walker/status/2082163285588107752"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samsung's Galaxy Ring Gets FDA-Cleared Sleep Apnea Detection This Fall]]></title>
-        <id>https://gizmodo.com/samsungs-galaxy-ring-gets-fda-cleared-sleep-apnea-detection-this-fall-2000791433</id>
-        <link href="https://gizmodo.com/samsungs-galaxy-ring-gets-fda-cleared-sleep-apnea-detection-this-fall-2000791433"/>
+        <title type="html"><![CDATA[Indian EV makers beat Tesla, BYD in global efficiency race]]></title>
+        <id>https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/</id>
+        <link href="https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI's rogue agent compromised an account at a second tech firm]]></title>
-        <id>https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/</id>
-        <link href="https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta faces higher borrowing costs in latest $12B data centre financing]]></title>
-        <id>https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700</id>
-        <link href="https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robot Dogs Are a Security Nightmare [video]]]></title>
-        <id>https://www.youtube.com/watch?v=lA8WuXDXfcI</id>
-        <link href="https://www.youtube.com/watch?v=lA8WuXDXfcI"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Couple Stalked by eBay Settle for $56M]]></title>
-        <id>https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html</id>
-        <link href="https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FileGRC: Git and file-based SoC 2]]></title>
-        <id>https://github.com/Sunpeak-AI/FileGRC</id>
-        <link href="https://github.com/Sunpeak-AI/FileGRC"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advantages and disadvantages of Windows NT 3.1]]></title>
-        <id>https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/</id>
-        <link href="https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies]]></title>
-        <id>https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/</id>
-        <link href="https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor and Together AI deliver real-time, low-latency inference at scale]]></title>
-        <id>https://www.together.ai/customers/cursor</id>
-        <link href="https://www.together.ai/customers/cursor"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Async-Profiler and OpenTelemetry Spans]]></title>
-        <id>https://krzysztofslusarski.github.io/2026/07/27/spans.html</id>
-        <link href="https://krzysztofslusarski.github.io/2026/07/27/spans.html"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Cracker Barrel to Boeing, Companies Are Turning to Retired CEOs]]></title>
-        <id>https://www.wsj.com/business/from-cracker-barrel-to-boeing-companies-are-turning-to-retired-ceos-7f78a57c</id>
-        <link href="https://www.wsj.com/business/from-cracker-barrel-to-boeing-companies-are-turning-to-retired-ceos-7f78a57c"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timing of When Ingredients Are Added to Recipes]]></title>
-        <id>https://old.reddit.com/r/dataisbeautiful/comments/1v9bq7i/oc_timing_of_when_ingredients_are_added_to_recipes/</id>
-        <link href="https://old.reddit.com/r/dataisbeautiful/comments/1v9bq7i/oc_timing_of_when_ingredients_are_added_to_recipes/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Building Spas for Internal Tools: The Modern PHP Alternative]]></title>
-        <id>https://www.gridphp.com/blog/stop-building-spas-for-internal-tools-the-modern-php-alternative/</id>
-        <link href="https://www.gridphp.com/blog/stop-building-spas-for-internal-tools-the-modern-php-alternative/"/>
+        <title type="html"><![CDATA[Told to Train AI Models, Indian Workers Fought Back]]></title>
+        <id>https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back</id>
+        <link href="https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
@@ -218,9 +141,121 @@
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Told to Train AI Models, Indian Workers Fought Back]]></title>
-        <id>https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back</id>
-        <link href="https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back"/>
+        <title type="html"><![CDATA[Stop Building Spas for Internal Tools: The Modern PHP Alternative]]></title>
+        <id>https://www.gridphp.com/blog/stop-building-spas-for-internal-tools-the-modern-php-alternative/</id>
+        <link href="https://www.gridphp.com/blog/stop-building-spas-for-internal-tools-the-modern-php-alternative/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timing of When Ingredients Are Added to Recipes]]></title>
+        <id>https://old.reddit.com/r/dataisbeautiful/comments/1v9bq7i/oc_timing_of_when_ingredients_are_added_to_recipes/</id>
+        <link href="https://old.reddit.com/r/dataisbeautiful/comments/1v9bq7i/oc_timing_of_when_ingredients_are_added_to_recipes/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Cracker Barrel to Boeing, Companies Are Turning to Retired CEOs]]></title>
+        <id>https://www.wsj.com/business/from-cracker-barrel-to-boeing-companies-are-turning-to-retired-ceos-7f78a57c</id>
+        <link href="https://www.wsj.com/business/from-cracker-barrel-to-boeing-companies-are-turning-to-retired-ceos-7f78a57c"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Async-Profiler and OpenTelemetry Spans]]></title>
+        <id>https://krzysztofslusarski.github.io/2026/07/27/spans.html</id>
+        <link href="https://krzysztofslusarski.github.io/2026/07/27/spans.html"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor and Together AI deliver real-time, low-latency inference at scale]]></title>
+        <id>https://www.together.ai/customers/cursor</id>
+        <link href="https://www.together.ai/customers/cursor"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies]]></title>
+        <id>https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/</id>
+        <link href="https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advantages and disadvantages of Windows NT 3.1]]></title>
+        <id>https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/</id>
+        <link href="https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FileGRC: Git and file-based SoC 2]]></title>
+        <id>https://github.com/Sunpeak-AI/FileGRC</id>
+        <link href="https://github.com/Sunpeak-AI/FileGRC"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Couple Stalked by eBay Settle for $56M]]></title>
+        <id>https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html</id>
+        <link href="https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robot Dogs Are a Security Nightmare [video]]]></title>
+        <id>https://www.youtube.com/watch?v=lA8WuXDXfcI</id>
+        <link href="https://www.youtube.com/watch?v=lA8WuXDXfcI"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta faces higher borrowing costs in latest $12B data centre financing]]></title>
+        <id>https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700</id>
+        <link href="https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI's rogue agent compromised an account at a second tech firm]]></title>
+        <id>https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/</id>
+        <link href="https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung's Galaxy Ring Gets FDA-Cleared Sleep Apnea Detection This Fall]]></title>
+        <id>https://gizmodo.com/samsungs-galaxy-ring-gets-fda-cleared-sleep-apnea-detection-this-fall-2000791433</id>
+        <link href="https://gizmodo.com/samsungs-galaxy-ring-gets-fda-cleared-sleep-apnea-detection-this-fall-2000791433"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you rewrite C/C++ projects to Rust?]]></title>
+        <id>https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/</id>
+        <link href="https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qector v3: Exact parity quantum error correction on a 3GB dual-core edge CPU]]></title>
+        <id>https://zenodo.org/records/21501377</id>
+        <link href="https://zenodo.org/records/21501377"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Software Registries Are a Trust Service]]></title>
+        <id>https://redmonk.com/kholterhoff/2026/07/28/modern-software-registries-trust-service/</id>
+        <link href="https://redmonk.com/kholterhoff/2026/07/28/modern-software-registries-trust-service/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences]]></title>
+        <id>https://learnvector.ai/</id>
+        <link href="https://learnvector.ai/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
@@ -302,65 +337,30 @@
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React usePrevious Hook: Track Previous State & Props (2026)]]></title>
-        <id>https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7</id>
-        <link href="https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7"/>
+        <title type="html"><![CDATA[Screen.isExtended、getScreenDetails与多显示器开发]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Memphis Grizzlies vs Atlanta Hawks Live Stream Today 2026]]></title>
-        <id>https://dev.to/esportsworldcups/memphis-grizzlies-vs-atlanta-hawks-live-stream-today-2026-1fm5</id>
-        <link href="https://dev.to/esportsworldcups/memphis-grizzlies-vs-atlanta-hawks-live-stream-today-2026-1fm5"/>
+        <title type="html"><![CDATA[Stop Pasting Sensitive API Keys & JSON into Unsecured Online Formatters]]></title>
+        <id>https://dev.to/umair_tariq_67e34fa8b6da9/stop-pasting-sensitive-api-keys-json-into-unsecured-online-formatters-3lgo</id>
+        <link href="https://dev.to/umair_tariq_67e34fa8b6da9/stop-pasting-sensitive-api-keys-json-into-unsecured-online-formatters-3lgo"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 5 Node.js ORMs Every Developer Should Know in 2026]]></title>
-        <id>https://dev.to/joodi/top-5-nodejs-orms-every-developer-should-know-in-2026-204p</id>
-        <link href="https://dev.to/joodi/top-5-nodejs-orms-every-developer-should-know-in-2026-204p"/>
+        <title type="html"><![CDATA[How to Convert Hours and Minutes to Decimal Hours in JavaScript]]></title>
+        <id>https://dev.to/fei_yun_991beceab8cb0ce4b/how-to-convert-hours-and-minutes-to-decimal-hours-in-javascript-3be7</id>
+        <link href="https://dev.to/fei_yun_991beceab8cb0ce4b/how-to-convert-hours-and-minutes-to-decimal-hours-in-javascript-3be7"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Detect Industrial Heater Failures with JavaScript: A Rule-Based Anomaly Detection System]]></title>
-        <id>https://dev.to/ashkan_hoseinpoor/detect-industrial-heater-failures-with-javascript-a-rule-based-anomaly-detection-system-4lmd</id>
-        <link href="https://dev.to/ashkan_hoseinpoor/detect-industrial-heater-failures-with-javascript-a-rule-based-anomaly-detection-system-4lmd"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an Industrial Heater Current Calculator with JavaScript]]></title>
-        <id>https://dev.to/ashkan_hoseinpoor/build-an-industrial-heater-current-calculator-with-javascript-2k6h</id>
-        <link href="https://dev.to/ashkan_hoseinpoor/build-an-industrial-heater-current-calculator-with-javascript-2k6h"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version Invite Emails Across React and Node]]></title>
-        <id>https://dev.to/ryanlee91/version-invite-emails-across-react-and-node-4ci6</id>
-        <link href="https://dev.to/ryanlee91/version-invite-emails-across-react-and-node-4ci6"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Industrial Heater Sizing Calculator with JavaScript]]></title>
-        <id>https://dev.to/ashkan_hoseinpoor/industrial-heater-sizing-calculator-with-javascript-e3o</id>
-        <link href="https://dev.to/ashkan_hoseinpoor/industrial-heater-sizing-calculator-with-javascript-e3o"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript , from basics to async: everything I learned and how it finally clicked]]></title>
-        <id>https://dev.to/kddeveloper/javascript-from-basics-to-async-everything-i-learned-and-how-it-finally-clicked-39i2</id>
-        <link href="https://dev.to/kddeveloper/javascript-from-basics-to-async-everything-i-learned-and-how-it-finally-clicked-39i2"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond APIs: The Architecture of Autonomous "Computer Use" Agents in TypeScript]]></title>
-        <id>https://dev.to/programmingcentral/beyond-apis-the-architecture-of-autonomous-computer-use-agents-in-typescript-33g</id>
-        <link href="https://dev.to/programmingcentral/beyond-apis-the-architecture-of-autonomous-computer-use-agents-in-typescript-33g"/>
+        <title type="html"><![CDATA[Building a Sports Data Pipeline: Lessons from Injured Draper withdraws on eve of another tournament]]></title>
+        <id>https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-injured-draper-withdraws-on-eve-of-another-tournament-4m3l</id>
+        <link href="https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-injured-draper-withdraws-on-eve-of-another-tournament-4m3l"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
