@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-29T00:01:19.730Z</updated>
+    <updated>2026-07-29T02:01:59.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等]]></title>
+        <id>https://sspai.com/post/112837</id>
+        <link href="https://sspai.com/post/112837"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years]]></title>
         <id>https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit</id>
@@ -71,13 +78,6 @@
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019]]></title>
-        <id>https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/</id>
-        <link href="https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HBO Max embraces vertical video with a new ‘Shorts’ feed]]></title>
         <id>https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/</id>
         <link href="https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/"/>
@@ -85,93 +85,44 @@
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Told to Train AI Models, Indian Workers Fought Back]]></title>
-        <id>https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back</id>
-        <link href="https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back"/>
+        <title type="html"><![CDATA[eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019]]></title>
+        <id>https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/</id>
+        <link href="https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hedge funds face demands to stump up collateral as AI stocks tumble]]></title>
-        <id>https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c</id>
-        <link href="https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c"/>
+        <title type="html"><![CDATA[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences]]></title>
+        <id>https://learnvector.ai/</id>
+        <link href="https://learnvector.ai/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Building Spas for Internal Tools: The Modern PHP Alternative]]></title>
-        <id>https://www.gridphp.com/blog/stop-building-spas-for-internal-tools-the-modern-php-alternative/</id>
-        <link href="https://www.gridphp.com/blog/stop-building-spas-for-internal-tools-the-modern-php-alternative/"/>
+        <title type="html"><![CDATA[Modern Software Registries Are a Trust Service]]></title>
+        <id>https://redmonk.com/kholterhoff/2026/07/28/modern-software-registries-trust-service/</id>
+        <link href="https://redmonk.com/kholterhoff/2026/07/28/modern-software-registries-trust-service/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Timing of When Ingredients Are Added to Recipes]]></title>
-        <id>https://old.reddit.com/r/dataisbeautiful/comments/1v9bq7i/oc_timing_of_when_ingredients_are_added_to_recipes/</id>
-        <link href="https://old.reddit.com/r/dataisbeautiful/comments/1v9bq7i/oc_timing_of_when_ingredients_are_added_to_recipes/"/>
+        <title type="html"><![CDATA[Qector v3: Exact parity quantum error correction on a 3GB dual-core edge CPU]]></title>
+        <id>https://zenodo.org/records/21501377</id>
+        <link href="https://zenodo.org/records/21501377"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Cracker Barrel to Boeing, Companies Are Turning to Retired CEOs]]></title>
-        <id>https://www.wsj.com/business/from-cracker-barrel-to-boeing-companies-are-turning-to-retired-ceos-7f78a57c</id>
-        <link href="https://www.wsj.com/business/from-cracker-barrel-to-boeing-companies-are-turning-to-retired-ceos-7f78a57c"/>
+        <title type="html"><![CDATA[How do you rewrite C/C++ projects to Rust?]]></title>
+        <id>https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/</id>
+        <link href="https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Async-Profiler and OpenTelemetry Spans]]></title>
-        <id>https://krzysztofslusarski.github.io/2026/07/27/spans.html</id>
-        <link href="https://krzysztofslusarski.github.io/2026/07/27/spans.html"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor and Together AI deliver real-time, low-latency inference at scale]]></title>
-        <id>https://www.together.ai/customers/cursor</id>
-        <link href="https://www.together.ai/customers/cursor"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies]]></title>
-        <id>https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/</id>
-        <link href="https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advantages and disadvantages of Windows NT 3.1]]></title>
-        <id>https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/</id>
-        <link href="https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FileGRC: Git and file-based SoC 2]]></title>
-        <id>https://github.com/Sunpeak-AI/FileGRC</id>
-        <link href="https://github.com/Sunpeak-AI/FileGRC"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Couple Stalked by eBay Settle for $56M]]></title>
-        <id>https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html</id>
-        <link href="https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robot Dogs Are a Security Nightmare [video]]]></title>
-        <id>https://www.youtube.com/watch?v=lA8WuXDXfcI</id>
-        <link href="https://www.youtube.com/watch?v=lA8WuXDXfcI"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta faces higher borrowing costs in latest $12B data centre financing]]></title>
-        <id>https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700</id>
-        <link href="https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700"/>
+        <title type="html"><![CDATA[Samsung's Galaxy Ring Gets FDA-Cleared Sleep Apnea Detection This Fall]]></title>
+        <id>https://gizmodo.com/samsungs-galaxy-ring-gets-fda-cleared-sleep-apnea-detection-this-fall-2000791433</id>
+        <link href="https://gizmodo.com/samsungs-galaxy-ring-gets-fda-cleared-sleep-apnea-detection-this-fall-2000791433"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
@@ -183,6 +134,97 @@
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meta faces higher borrowing costs in latest $12B data centre financing]]></title>
+        <id>https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700</id>
+        <link href="https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robot Dogs Are a Security Nightmare [video]]]></title>
+        <id>https://www.youtube.com/watch?v=lA8WuXDXfcI</id>
+        <link href="https://www.youtube.com/watch?v=lA8WuXDXfcI"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Couple Stalked by eBay Settle for $56M]]></title>
+        <id>https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html</id>
+        <link href="https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FileGRC: Git and file-based SoC 2]]></title>
+        <id>https://github.com/Sunpeak-AI/FileGRC</id>
+        <link href="https://github.com/Sunpeak-AI/FileGRC"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advantages and disadvantages of Windows NT 3.1]]></title>
+        <id>https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/</id>
+        <link href="https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies]]></title>
+        <id>https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/</id>
+        <link href="https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor and Together AI deliver real-time, low-latency inference at scale]]></title>
+        <id>https://www.together.ai/customers/cursor</id>
+        <link href="https://www.together.ai/customers/cursor"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Async-Profiler and OpenTelemetry Spans]]></title>
+        <id>https://krzysztofslusarski.github.io/2026/07/27/spans.html</id>
+        <link href="https://krzysztofslusarski.github.io/2026/07/27/spans.html"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Cracker Barrel to Boeing, Companies Are Turning to Retired CEOs]]></title>
+        <id>https://www.wsj.com/business/from-cracker-barrel-to-boeing-companies-are-turning-to-retired-ceos-7f78a57c</id>
+        <link href="https://www.wsj.com/business/from-cracker-barrel-to-boeing-companies-are-turning-to-retired-ceos-7f78a57c"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timing of When Ingredients Are Added to Recipes]]></title>
+        <id>https://old.reddit.com/r/dataisbeautiful/comments/1v9bq7i/oc_timing_of_when_ingredients_are_added_to_recipes/</id>
+        <link href="https://old.reddit.com/r/dataisbeautiful/comments/1v9bq7i/oc_timing_of_when_ingredients_are_added_to_recipes/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Building Spas for Internal Tools: The Modern PHP Alternative]]></title>
+        <id>https://www.gridphp.com/blog/stop-building-spas-for-internal-tools-the-modern-php-alternative/</id>
+        <link href="https://www.gridphp.com/blog/stop-building-spas-for-internal-tools-the-modern-php-alternative/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hedge funds face demands to stump up collateral as AI stocks tumble]]></title>
+        <id>https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c</id>
+        <link href="https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Told to Train AI Models, Indian Workers Fought Back]]></title>
+        <id>https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back</id>
+        <link href="https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Scientific computing in the age of agentic AI]]></title>
         <id>https://openai.com/index/scientific-computing-agentic-ai</id>
         <link href="https://openai.com/index/scientific-computing-agentic-ai"/>
@@ -190,37 +232,16 @@
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent Skills: The Composition Cliff]]></title>
-        <id>https://pub.towardsai.net/agent-skills-the-composition-cliff-0aa07efe97b3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/agent-skills-the-composition-cliff-0aa07efe97b3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Sub-$3 Power Meter: Measuring Edge AI Energy Consumption Without an SMU]]></title>
+        <id>https://pub.towardsai.net/the-sub-3-power-meter-measuring-edge-ai-energy-consumption-without-an-smu-c3a24ca4069a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-sub-3-power-meter-measuring-edge-ai-energy-consumption-without-an-smu-c3a24ca4069a?source=rss----98111c9905da---4"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python OOP Made Simple: Meet Your Code Avengers (Part -2 ) Core Component]]></title>
-        <id>https://pub.towardsai.net/python-oop-made-simple-meet-your-code-avengers-part-2-core-component-68afea48ae6b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/python-oop-made-simple-meet-your-code-avengers-part-2-core-component-68afea48ae6b?source=rss----98111c9905da---4"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real Agentic Blast Radius Starts Before the First Handoff ]]></title>
-        <id>https://pub.towardsai.net/the-real-agentic-blast-radius-starts-before-the-first-handoff-6845212e747a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-real-agentic-blast-radius-starts-before-the-first-handoff-6845212e747a?source=rss----98111c9905da---4"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Centers vs AI Factories]]></title>
-        <id>https://pub.towardsai.net/data-centers-vs-ai-factories-f03160e601f2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/data-centers-vs-ai-factories-f03160e601f2?source=rss----98111c9905da---4"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kimi K3 Is Free. That’s the Least Useful Thing About It.]]></title>
-        <id>https://pub.towardsai.net/kimi-k3-is-free-thats-the-least-useful-thing-about-it-bcc42bc81cac?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/kimi-k3-is-free-thats-the-least-useful-thing-about-it-bcc42bc81cac?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Engineering the Enterprise Knowledge & Memory Layer: A Reference Architecture for Agentic AI]]></title>
+        <id>https://pub.towardsai.net/engineering-the-enterprise-knowledge-memory-layer-a-reference-architecture-for-agentic-ai-384a0e30de8e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/engineering-the-enterprise-knowledge-memory-layer-a-reference-architecture-for-agentic-ai-384a0e30de8e?source=rss----98111c9905da---4"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
@@ -232,9 +253,37 @@
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Engineering the Enterprise Knowledge & Memory Layer: A Reference Architecture for Agentic AI]]></title>
-        <id>https://pub.towardsai.net/engineering-the-enterprise-knowledge-memory-layer-a-reference-architecture-for-agentic-ai-384a0e30de8e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/engineering-the-enterprise-knowledge-memory-layer-a-reference-architecture-for-agentic-ai-384a0e30de8e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Kimi K3 Is Free. That’s the Least Useful Thing About It.]]></title>
+        <id>https://pub.towardsai.net/kimi-k3-is-free-thats-the-least-useful-thing-about-it-bcc42bc81cac?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/kimi-k3-is-free-thats-the-least-useful-thing-about-it-bcc42bc81cac?source=rss----98111c9905da---4"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Centers vs AI Factories]]></title>
+        <id>https://pub.towardsai.net/data-centers-vs-ai-factories-f03160e601f2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/data-centers-vs-ai-factories-f03160e601f2?source=rss----98111c9905da---4"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real Agentic Blast Radius Starts Before the First Handoff ]]></title>
+        <id>https://pub.towardsai.net/the-real-agentic-blast-radius-starts-before-the-first-handoff-6845212e747a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-real-agentic-blast-radius-starts-before-the-first-handoff-6845212e747a?source=rss----98111c9905da---4"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python OOP Made Simple: Meet Your Code Avengers (Part -2 ) Core Component]]></title>
+        <id>https://pub.towardsai.net/python-oop-made-simple-meet-your-code-avengers-part-2-core-component-68afea48ae6b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/python-oop-made-simple-meet-your-code-avengers-part-2-core-component-68afea48ae6b?source=rss----98111c9905da---4"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Skills: The Composition Cliff]]></title>
+        <id>https://pub.towardsai.net/agent-skills-the-composition-cliff-0aa07efe97b3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/agent-skills-the-composition-cliff-0aa07efe97b3?source=rss----98111c9905da---4"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
@@ -253,79 +302,9 @@
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The React Concept That Broke My Brain (And Why It Was Actually Simple)]]></title>
-        <id>https://dev.to/blackjosh007/the-react-concept-that-broke-my-brain-and-why-it-was-actually-simple-22km</id>
-        <link href="https://dev.to/blackjosh007/the-react-concept-that-broke-my-brain-and-why-it-was-actually-simple-22km"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking for a Working GNOME Grayscale & Eye Strain Filter? How I Fixed "Tint All" & Built Pasynkov Tint]]></title>
-        <id>https://dev.to/fedor-pasynkov/looking-for-a-working-gnome-grayscale-eye-strain-filter-how-i-fixed-tint-all-built-pasynkov-182o</id>
-        <link href="https://dev.to/fedor-pasynkov/looking-for-a-working-gnome-grayscale-eye-strain-filter-how-i-fixed-tint-all-built-pasynkov-182o"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built Code Lab Sandbox: A Lightweight, Zero-Setup Web Code Editor]]></title>
-        <id>https://dev.to/chukwu_chimezie_4c12196af/i-built-code-lab-sandbox-a-lightweight-zero-setup-web-code-editor-18k</id>
-        <link href="https://dev.to/chukwu_chimezie_4c12196af/i-built-code-lab-sandbox-a-lightweight-zero-setup-web-code-editor-18k"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Gold Price Platform for 100+ Countries — Here's What I Learned]]></title>
-        <id>https://dev.to/salmansaleem17/i-built-a-gold-price-platform-for-100-countries-heres-what-i-learned-1472</id>
-        <link href="https://dev.to/salmansaleem17/i-built-a-gold-price-platform-for-100-countries-heres-what-i-learned-1472"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond APIs: The Architecture of Autonomous "Computer Use" Agents in TypeScript]]></title>
-        <id>https://dev.to/programmingcentral/beyond-apis-the-architecture-of-autonomous-computer-use-agents-in-typescript-33g</id>
-        <link href="https://dev.to/programmingcentral/beyond-apis-the-architecture-of-autonomous-computer-use-agents-in-typescript-33g"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript , from basics to async: everything I learned and how it finally clicked]]></title>
-        <id>https://dev.to/kddeveloper/javascript-from-basics-to-async-everything-i-learned-and-how-it-finally-clicked-39i2</id>
-        <link href="https://dev.to/kddeveloper/javascript-from-basics-to-async-everything-i-learned-and-how-it-finally-clicked-39i2"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Industrial Heater Sizing Calculator with JavaScript]]></title>
-        <id>https://dev.to/ashkan_hoseinpoor/industrial-heater-sizing-calculator-with-javascript-e3o</id>
-        <link href="https://dev.to/ashkan_hoseinpoor/industrial-heater-sizing-calculator-with-javascript-e3o"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version Invite Emails Across React and Node]]></title>
-        <id>https://dev.to/ryanlee91/version-invite-emails-across-react-and-node-4ci6</id>
-        <link href="https://dev.to/ryanlee91/version-invite-emails-across-react-and-node-4ci6"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an Industrial Heater Current Calculator with JavaScript]]></title>
-        <id>https://dev.to/ashkan_hoseinpoor/build-an-industrial-heater-current-calculator-with-javascript-2k6h</id>
-        <link href="https://dev.to/ashkan_hoseinpoor/build-an-industrial-heater-current-calculator-with-javascript-2k6h"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detect Industrial Heater Failures with JavaScript: A Rule-Based Anomaly Detection System]]></title>
-        <id>https://dev.to/ashkan_hoseinpoor/detect-industrial-heater-failures-with-javascript-a-rule-based-anomaly-detection-system-4lmd</id>
-        <link href="https://dev.to/ashkan_hoseinpoor/detect-industrial-heater-failures-with-javascript-a-rule-based-anomaly-detection-system-4lmd"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Node.js ORMs Every Developer Should Know in 2026]]></title>
-        <id>https://dev.to/joodi/top-5-nodejs-orms-every-developer-should-know-in-2026-204p</id>
-        <link href="https://dev.to/joodi/top-5-nodejs-orms-every-developer-should-know-in-2026-204p"/>
+        <title type="html"><![CDATA[React usePrevious Hook: Track Previous State & Props (2026)]]></title>
+        <id>https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7</id>
+        <link href="https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
@@ -337,31 +316,52 @@
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[索尼抛弃实体游戏光盘，谁成为了转型代价？]]></title>
-        <id>https://sspai.com/post/112774</id>
-        <link href="https://sspai.com/post/112774"/>
-        <updated>2026-07-27T16:00:00.000Z</updated>
-        <published>2026-07-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Top 5 Node.js ORMs Every Developer Should Know in 2026]]></title>
+        <id>https://dev.to/joodi/top-5-nodejs-orms-every-developer-should-know-in-2026-204p</id>
+        <link href="https://dev.to/joodi/top-5-nodejs-orms-every-developer-should-know-in-2026-204p"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smart rings are looking like my kind of AI gadget]]></title>
-        <id>https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index</id>
-        <link href="https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index"/>
-        <updated>2026-07-27T16:00:00.000Z</updated>
-        <published>2026-07-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Detect Industrial Heater Failures with JavaScript: A Rule-Based Anomaly Detection System]]></title>
+        <id>https://dev.to/ashkan_hoseinpoor/detect-industrial-heater-failures-with-javascript-a-rule-based-anomaly-detection-system-4lmd</id>
+        <link href="https://dev.to/ashkan_hoseinpoor/detect-industrial-heater-failures-with-javascript-a-rule-based-anomaly-detection-system-4lmd"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logitech’s handheld plans are on ice — don’t expect a G Cloud 2 soon]]></title>
-        <id>https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview</id>
-        <link href="https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview"/>
-        <updated>2026-07-27T16:00:00.000Z</updated>
-        <published>2026-07-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Build an Industrial Heater Current Calculator with JavaScript]]></title>
+        <id>https://dev.to/ashkan_hoseinpoor/build-an-industrial-heater-current-calculator-with-javascript-2k6h</id>
+        <link href="https://dev.to/ashkan_hoseinpoor/build-an-industrial-heater-current-calculator-with-javascript-2k6h"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twelve South’s stylish charging tray now delivers more wireless power with a smaller footprint]]></title>
-        <id>https://www.theverge.com/tech/969957/twelve-south-valet-wireless-charger-qi2-25w-leather</id>
-        <link href="https://www.theverge.com/tech/969957/twelve-south-valet-wireless-charger-qi2-25w-leather"/>
-        <updated>2026-07-27T16:00:00.000Z</updated>
-        <published>2026-07-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Version Invite Emails Across React and Node]]></title>
+        <id>https://dev.to/ryanlee91/version-invite-emails-across-react-and-node-4ci6</id>
+        <link href="https://dev.to/ryanlee91/version-invite-emails-across-react-and-node-4ci6"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Industrial Heater Sizing Calculator with JavaScript]]></title>
+        <id>https://dev.to/ashkan_hoseinpoor/industrial-heater-sizing-calculator-with-javascript-e3o</id>
+        <link href="https://dev.to/ashkan_hoseinpoor/industrial-heater-sizing-calculator-with-javascript-e3o"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript , from basics to async: everything I learned and how it finally clicked]]></title>
+        <id>https://dev.to/kddeveloper/javascript-from-basics-to-async-everything-i-learned-and-how-it-finally-clicked-39i2</id>
+        <link href="https://dev.to/kddeveloper/javascript-from-basics-to-async-everything-i-learned-and-how-it-finally-clicked-39i2"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond APIs: The Architecture of Autonomous "Computer Use" Agents in TypeScript]]></title>
+        <id>https://dev.to/programmingcentral/beyond-apis-the-architecture-of-autonomous-computer-use-agents-in-typescript-33g</id>
+        <link href="https://dev.to/programmingcentral/beyond-apis-the-architecture-of-autonomous-computer-use-agents-in-typescript-33g"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
     </entry>
 </feed>
