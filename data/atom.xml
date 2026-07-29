@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-29T07:03:17.113Z</updated>
+    <updated>2026-07-29T10:03:06.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,6 +71,13 @@
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NASA’s New 3D Model Shows the Earth Is a Lumpy Mess]]></title>
+        <id>https://www.wired.com/story/nasas-new-3d-model-shows-lumpy-earth/</id>
+        <link href="https://www.wired.com/story/nasas-new-3d-model-shows-lumpy-earth/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign]]></title>
         <id>https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/</id>
         <link href="https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/"/>
@@ -92,226 +99,72 @@
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: SSO for PostgreSQL Using OAuth2/OIDC]]></title>
-        <id>https://github.com/sathwick-p/gprxy</id>
-        <link href="https://github.com/sathwick-p/gprxy"/>
+        <title type="html"><![CDATA[The Most Dangerous AI Looks Like the One You Trust]]></title>
+        <id>https://www.forbes.com/sites/jasonsnyder/2026/07/29/the-most-dangerous-ai-looks-exactly-like-the-one-you-trust/</id>
+        <link href="https://www.forbes.com/sites/jasonsnyder/2026/07/29/the-most-dangerous-ai-looks-exactly-like-the-one-you-trust/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Birth and Reverb of Friendship (2025)]]></title>
-        <id>https://sive.rs/brf</id>
-        <link href="https://sive.rs/brf"/>
+        <title type="html"><![CDATA[How Zalando Built an In-Process Client-Side Load Balancer for One Million Reqs/S]]></title>
+        <id>https://www.infoq.com/news/2026/07/client-side-load-balancer/</id>
+        <link href="https://www.infoq.com/news/2026/07/client-side-load-balancer/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Garfield Comics]]></title>
-        <id>https://16-bits.org/garfield/?s=5702</id>
-        <link href="https://16-bits.org/garfield/?s=5702"/>
+        <title type="html"><![CDATA[Timothy Snyder: Hitler and Stalin Today: Class 7: How was mass killing possible? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=5JUaJUqw7rU&amp;list=PLPNSuH4X6has&amp;index=7</id>
+        <link href="https://www.youtube.com/watch?v=5JUaJUqw7rU&amp;list=PLPNSuH4X6has&amp;index=7"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fasttracker II clone in C using SDL 2]]></title>
-        <id>https://16-bits.org/ft2.php</id>
-        <link href="https://16-bits.org/ft2.php"/>
+        <title type="html"><![CDATA[Proposal wouldn't hide that a wipe occurred and would help adversaries]]></title>
+        <id>https://twitter.com/GrapheneOS/status/2082153517234676150</id>
+        <link href="https://twitter.com/GrapheneOS/status/2082153517234676150"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introduction to ScreamTracker 3.21 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=pPK7s8aC3kg</id>
-        <link href="https://www.youtube.com/watch?v=pPK7s8aC3kg"/>
+        <title type="html"><![CDATA[Walking up the ATProto stack with Dan Abramov [audio]]]></title>
+        <id>https://theosteiner.de/podcasts/uit-inside-192</id>
+        <link href="https://theosteiner.de/podcasts/uit-inside-192"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Equities surpass real estate as top US wealth driver for first time since WW2]]></title>
-        <id>https://www.reuters.com/business/finance/equities-surpass-real-estate-top-us-wealth-driver-first-time-since-ww2-goldman-2026-07-23/</id>
-        <link href="https://www.reuters.com/business/finance/equities-surpass-real-estate-top-us-wealth-driver-first-time-since-ww2-goldman-2026-07-23/"/>
+        <title type="html"><![CDATA[Framework 13 Pro review: better battery, worse price]]></title>
+        <id>https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/</id>
+        <link href="https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doom Using Regular Expressions]]></title>
-        <id>https://4rh1t3ct0r7.github.io/doom-regex/</id>
-        <link href="https://4rh1t3ct0r7.github.io/doom-regex/"/>
+        <title type="html"><![CDATA[Show HN: Where conscious events get found, booked and hosted]]></title>
+        <id>https://conscious-events.com/de</id>
+        <link href="https://conscious-events.com/de"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advanced Codeowners Patterns to Kill Review Fatigue]]></title>
-        <id>https://gitdash.dev/blog/advanced-codeowners-patterns-review-automation</id>
-        <link href="https://gitdash.dev/blog/advanced-codeowners-patterns-review-automation"/>
+        <title type="html"><![CDATA[Did you know Mastodon has 2 different logos for their server profiles?]]></title>
+        <id>https://www.reddit.com/r/Mastodon/comments/1v9q9pf/did_you_know_mastodon_has_2_different_logos_for/</id>
+        <link href="https://www.reddit.com/r/Mastodon/comments/1v9q9pf/did_you_know_mastodon_has_2_different_logos_for/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICE Arrests Surge at Airports arresting spouses of American  tech workers]]></title>
-        <id>https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html</id>
-        <link href="https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html"/>
+        <title type="html"><![CDATA[Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels]]></title>
+        <id>https://vimgolf.ai</id>
+        <link href="https://vimgolf.ai"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences]]></title>
-        <id>https://learnvector.ai/</id>
-        <link href="https://learnvector.ai/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Software Registries Are a Trust Service]]></title>
-        <id>https://redmonk.com/kholterhoff/2026/07/28/modern-software-registries-trust-service/</id>
-        <link href="https://redmonk.com/kholterhoff/2026/07/28/modern-software-registries-trust-service/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qector v3: Exact parity quantum error correction on a 3GB dual-core edge CPU]]></title>
-        <id>https://zenodo.org/records/21501377</id>
-        <link href="https://zenodo.org/records/21501377"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do you rewrite C/C++ projects to Rust?]]></title>
-        <id>https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/</id>
-        <link href="https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung's Galaxy Ring Gets FDA-Cleared Sleep Apnea Detection This Fall]]></title>
-        <id>https://gizmodo.com/samsungs-galaxy-ring-gets-fda-cleared-sleep-apnea-detection-this-fall-2000791433</id>
-        <link href="https://gizmodo.com/samsungs-galaxy-ring-gets-fda-cleared-sleep-apnea-detection-this-fall-2000791433"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI's rogue agent compromised an account at a second tech firm]]></title>
-        <id>https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/</id>
-        <link href="https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta faces higher borrowing costs in latest $12B data centre financing]]></title>
-        <id>https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700</id>
-        <link href="https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robot Dogs Are a Security Nightmare [video]]]></title>
-        <id>https://www.youtube.com/watch?v=lA8WuXDXfcI</id>
-        <link href="https://www.youtube.com/watch?v=lA8WuXDXfcI"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Couple Stalked by eBay Settle for $56M]]></title>
-        <id>https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html</id>
-        <link href="https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FileGRC: Git and file-based SoC 2]]></title>
-        <id>https://github.com/Sunpeak-AI/FileGRC</id>
-        <link href="https://github.com/Sunpeak-AI/FileGRC"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advantages and disadvantages of Windows NT 3.1]]></title>
-        <id>https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/</id>
-        <link href="https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies]]></title>
-        <id>https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/</id>
-        <link href="https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor and Together AI deliver real-time, low-latency inference at scale]]></title>
-        <id>https://www.together.ai/customers/cursor</id>
-        <link href="https://www.together.ai/customers/cursor"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Async-Profiler and OpenTelemetry Spans]]></title>
-        <id>https://krzysztofslusarski.github.io/2026/07/27/spans.html</id>
-        <link href="https://krzysztofslusarski.github.io/2026/07/27/spans.html"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Cracker Barrel to Boeing, Companies Are Turning to Retired CEOs]]></title>
-        <id>https://www.wsj.com/business/from-cracker-barrel-to-boeing-companies-are-turning-to-retired-ceos-7f78a57c</id>
-        <link href="https://www.wsj.com/business/from-cracker-barrel-to-boeing-companies-are-turning-to-retired-ceos-7f78a57c"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timing of When Ingredients Are Added to Recipes]]></title>
-        <id>https://old.reddit.com/r/dataisbeautiful/comments/1v9bq7i/oc_timing_of_when_ingredients_are_added_to_recipes/</id>
-        <link href="https://old.reddit.com/r/dataisbeautiful/comments/1v9bq7i/oc_timing_of_when_ingredients_are_added_to_recipes/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Building Spas for Internal Tools: The Modern PHP Alternative]]></title>
-        <id>https://www.gridphp.com/blog/stop-building-spas-for-internal-tools-the-modern-php-alternative/</id>
-        <link href="https://www.gridphp.com/blog/stop-building-spas-for-internal-tools-the-modern-php-alternative/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hedge funds face demands to stump up collateral as AI stocks tumble]]></title>
-        <id>https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c</id>
-        <link href="https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Told to Train AI Models, Indian Workers Fought Back]]></title>
-        <id>https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back</id>
-        <link href="https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indian EV makers beat Tesla, BYD in global efficiency race]]></title>
-        <id>https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/</id>
-        <link href="https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A dystopian world where LLMs can't code but can generate software binaries]]></title>
-        <id>https://twitter.com/random_walker/status/2082163285588107752</id>
-        <link href="https://twitter.com/random_walker/status/2082163285588107752"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If U.S. labs slow down AGI development, this could be 2028]]></title>
-        <id>https://news.ycombinator.com/item?id=49093166</id>
-        <link href="https://news.ycombinator.com/item?id=49093166"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <published>2026-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One transcript, four different GPA views]]></title>
-        <id>https://mongol-jimmi.github.io/medcompass-audit/guides/gpa-formulas.html</id>
-        <link href="https://mongol-jimmi.github.io/medcompass-audit/guides/gpa-formulas.html"/>
+        <title type="html"><![CDATA[Can a 2.8T Model Run on a Single Node of Nvidia B300 X8?]]></title>
+        <id>https://blog.us.fixstars.com/deploying-kimi-k3-on-day-0-can-a-2-8t-model-run-on-a-single-node-of-nvidia-b300-x8/</id>
+        <link href="https://blog.us.fixstars.com/deploying-kimi-k3-on-day-0-can-a-2-8t-model-run-on-a-single-node-of-nvidia-b300-x8/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
@@ -323,44 +176,191 @@
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientific computing in the age of agentic AI]]></title>
-        <id>https://openai.com/index/scientific-computing-agentic-ai</id>
-        <link href="https://openai.com/index/scientific-computing-agentic-ai"/>
+        <title type="html"><![CDATA[One transcript, four different GPA views]]></title>
+        <id>https://mongol-jimmi.github.io/medcompass-audit/guides/gpa-formulas.html</id>
+        <link href="https://mongol-jimmi.github.io/medcompass-audit/guides/gpa-formulas.html"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Sub-$3 Power Meter: Measuring Edge AI Energy Consumption Without an SMU]]></title>
-        <id>https://pub.towardsai.net/the-sub-3-power-meter-measuring-edge-ai-energy-consumption-without-an-smu-c3a24ca4069a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-sub-3-power-meter-measuring-edge-ai-energy-consumption-without-an-smu-c3a24ca4069a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[If U.S. labs slow down AGI development, this could be 2028]]></title>
+        <id>https://news.ycombinator.com/item?id=49093166</id>
+        <link href="https://news.ycombinator.com/item?id=49093166"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Engineering the Enterprise Knowledge & Memory Layer: A Reference Architecture for Agentic AI]]></title>
-        <id>https://pub.towardsai.net/engineering-the-enterprise-knowledge-memory-layer-a-reference-architecture-for-agentic-ai-384a0e30de8e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/engineering-the-enterprise-knowledge-memory-layer-a-reference-architecture-for-agentic-ai-384a0e30de8e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[A dystopian world where LLMs can't code but can generate software binaries]]></title>
+        <id>https://twitter.com/random_walker/status/2082163285588107752</id>
+        <link href="https://twitter.com/random_walker/status/2082163285588107752"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LLM Provider Quirks: Build Compatibility Tests Before You Trust Model Abstraction]]></title>
-        <id>https://pub.towardsai.net/llm-provider-quirks-build-compatibility-tests-before-you-trust-model-abstraction-53c9b0c9a6d0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/llm-provider-quirks-build-compatibility-tests-before-you-trust-model-abstraction-53c9b0c9a6d0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Indian EV makers beat Tesla, BYD in global efficiency race]]></title>
+        <id>https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/</id>
+        <link href="https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kimi K3 Is Free. That’s the Least Useful Thing About It.]]></title>
-        <id>https://pub.towardsai.net/kimi-k3-is-free-thats-the-least-useful-thing-about-it-bcc42bc81cac?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/kimi-k3-is-free-thats-the-least-useful-thing-about-it-bcc42bc81cac?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Told to Train AI Models, Indian Workers Fought Back]]></title>
+        <id>https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back</id>
+        <link href="https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data Centers vs AI Factories]]></title>
-        <id>https://pub.towardsai.net/data-centers-vs-ai-factories-f03160e601f2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/data-centers-vs-ai-factories-f03160e601f2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Hedge funds face demands to stump up collateral as AI stocks tumble]]></title>
+        <id>https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c</id>
+        <link href="https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Building Spas for Internal Tools: The Modern PHP Alternative]]></title>
+        <id>https://www.gridphp.com/blog/stop-building-spas-for-internal-tools-the-modern-php-alternative/</id>
+        <link href="https://www.gridphp.com/blog/stop-building-spas-for-internal-tools-the-modern-php-alternative/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timing of When Ingredients Are Added to Recipes]]></title>
+        <id>https://old.reddit.com/r/dataisbeautiful/comments/1v9bq7i/oc_timing_of_when_ingredients_are_added_to_recipes/</id>
+        <link href="https://old.reddit.com/r/dataisbeautiful/comments/1v9bq7i/oc_timing_of_when_ingredients_are_added_to_recipes/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Cracker Barrel to Boeing, Companies Are Turning to Retired CEOs]]></title>
+        <id>https://www.wsj.com/business/from-cracker-barrel-to-boeing-companies-are-turning-to-retired-ceos-7f78a57c</id>
+        <link href="https://www.wsj.com/business/from-cracker-barrel-to-boeing-companies-are-turning-to-retired-ceos-7f78a57c"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Async-Profiler and OpenTelemetry Spans]]></title>
+        <id>https://krzysztofslusarski.github.io/2026/07/27/spans.html</id>
+        <link href="https://krzysztofslusarski.github.io/2026/07/27/spans.html"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor and Together AI deliver real-time, low-latency inference at scale]]></title>
+        <id>https://www.together.ai/customers/cursor</id>
+        <link href="https://www.together.ai/customers/cursor"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies]]></title>
+        <id>https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/</id>
+        <link href="https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advantages and disadvantages of Windows NT 3.1]]></title>
+        <id>https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/</id>
+        <link href="https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FileGRC: Git and file-based SoC 2]]></title>
+        <id>https://github.com/Sunpeak-AI/FileGRC</id>
+        <link href="https://github.com/Sunpeak-AI/FileGRC"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Couple Stalked by eBay Settle for $56M]]></title>
+        <id>https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html</id>
+        <link href="https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robot Dogs Are a Security Nightmare [video]]]></title>
+        <id>https://www.youtube.com/watch?v=lA8WuXDXfcI</id>
+        <link href="https://www.youtube.com/watch?v=lA8WuXDXfcI"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta faces higher borrowing costs in latest $12B data centre financing]]></title>
+        <id>https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700</id>
+        <link href="https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI's rogue agent compromised an account at a second tech firm]]></title>
+        <id>https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/</id>
+        <link href="https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung's Galaxy Ring Gets FDA-Cleared Sleep Apnea Detection This Fall]]></title>
+        <id>https://gizmodo.com/samsungs-galaxy-ring-gets-fda-cleared-sleep-apnea-detection-this-fall-2000791433</id>
+        <link href="https://gizmodo.com/samsungs-galaxy-ring-gets-fda-cleared-sleep-apnea-detection-this-fall-2000791433"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you rewrite C/C++ projects to Rust?]]></title>
+        <id>https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/</id>
+        <link href="https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qector v3: Exact parity quantum error correction on a 3GB dual-core edge CPU]]></title>
+        <id>https://zenodo.org/records/21501377</id>
+        <link href="https://zenodo.org/records/21501377"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Software Registries Are a Trust Service]]></title>
+        <id>https://redmonk.com/kholterhoff/2026/07/28/modern-software-registries-trust-service/</id>
+        <link href="https://redmonk.com/kholterhoff/2026/07/28/modern-software-registries-trust-service/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences]]></title>
+        <id>https://learnvector.ai/</id>
+        <link href="https://learnvector.ai/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICE Arrests Surge at Airports arresting spouses of American  tech workers]]></title>
+        <id>https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html</id>
+        <link href="https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Codeowners Patterns to Kill Review Fatigue]]></title>
+        <id>https://gitdash.dev/blog/advanced-codeowners-patterns-review-automation</id>
+        <link href="https://gitdash.dev/blog/advanced-codeowners-patterns-review-automation"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom Using Regular Expressions]]></title>
+        <id>https://4rh1t3ct0r7.github.io/doom-regex/</id>
+        <link href="https://4rh1t3ct0r7.github.io/doom-regex/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <published>2026-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Equities surpass real estate as top US wealth driver for first time since WW2]]></title>
+        <id>https://www.reuters.com/business/finance/equities-surpass-real-estate-top-us-wealth-driver-first-time-since-ww2-goldman-2026-07-23/</id>
+        <link href="https://www.reuters.com/business/finance/equities-surpass-real-estate-top-us-wealth-driver-first-time-since-ww2-goldman-2026-07-23/"/>
         <updated>2026-07-28T16:00:00.000Z</updated>
         <published>2026-07-28T16:00:00.000Z</published>
     </entry>
