@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-30 23:04:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-31 06:02:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -28,7 +28,6 @@ https://github.com/pinceladasdaweb/rabbitmq
 ) 
 - [2026-07-20-eslint/eslint](https://github.com/eslint/eslint) 
 - [2026-07-10-webpack/webpack](https://github.com/webpack/webpack) 
-- [2026-07-01-npm/cli](https://github.com/npm/cli) 
 - [2026-07-08-ACL-2026美团论文精选：从能力评测到推理优化，构建生成新范式](https://tech.meituan.com/2026/06/05/ACL-2026.html) 
 - [2026-07-29-Disrupting-supply-chain-attacks-on-npm-and-GitHub-Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/) 
 - [2026-07-22-Show-HN:-Kernel-optimization-is-obsolete.-Just-NPM-install-it](https://github.com/tensormux/kernel-skills) 

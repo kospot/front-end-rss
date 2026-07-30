@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-30 23:04:10。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-07-31 06:02:22。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -167,7 +167,7 @@ https://github.com/pinceladasdaweb/rabbitmq
 )
 - [【GitHub Trending JS】eslint/eslint](https://github.com/eslint/eslint)
 - [【GitHub Trending JS】webpack/webpack](https://github.com/webpack/webpack)
-- [【GitHub Trending JS】npm/cli](https://github.com/npm/cli)
+- [【美团技术团队】ACL-2026美团论文精选：从能力评测到推理优化，构建生成新范式](https://tech.meituan.com/2026/06/05/ACL-2026.html)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -642,7 +642,7 @@ https://github.com/pinceladasdaweb/rabbitmq
 - [【前端之巅】Buy-Understanding-Payeer-Accounts:-Digital-Wallet-Verification](https://dev.to/pvasmmmarket45fgt/buy-understanding-payeer-accounts-digital-wallet-verification-3opo)
 - [【前端之巅】3.3-Best-Platforms-for-Purchasing-Old-GitHub-Accounts](https://dev.to/jessika_weis_21b26479c6f1/33-best-platforms-for-purchasing-old-github-accounts-5676)
 - [【前端之巅】Buy-Understanding-Payeer-Accounts:-Digital-Wallet-Verification](https://dev.to/pvasmmmarket45r/buy-understanding-payeer-accounts-digital-wallet-verification-118p)
-- [【前端之巅】oneSafe-2.4.0-for-macOS-–-Secure-Password-Manager-and-Digital-Vault](https://dev.to/zggg_3197fa13a97a40d0df4d/onesafe-240-for-macos-secure-password-manager-and-digital-vault-ni4)
+- [【GitHub Trending JS】anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -659,15 +659,12 @@ https://github.com/pinceladasdaweb/rabbitmq
 
 
 
-- [【Towards AI】The-OpenClaw-Creator-Stack:-How-to-Turn-Tutorials-Into-Paid-AI-Offers](https://pub.towardsai.net/the-openclaw-creator-stack-how-to-turn-tutorials-into-paid-ai-offers-b463e6576b46?source=rss----98111c9905da---4)
 - [【Hacker News】A-simple-API-for-offering-your-coding-agent-a-smoke-break](https://smoke-break.pineapplefreefall.com)
 - [【Hacker News】Uber-Announces-Acquisition-Offer-for-Delivery-Hero-at-$14.8B](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Acquisition-Offer-for-Delivery-Hero/default.aspx)
 - [【Hacker News】Stripe,-Advent-offer-to-buy-PayPal-for-more-than-$53B](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/)
-- [【Hacker News】Fedora-45-Looks-to-Offer-Install-Support-for-Stratis-Storage](https://www.phoronix.com/news/Fedora-45-Stratis-Storage)
 - [【TechCrunch】Hint,-a-new-AI-startup-co-founded-by-Martha-Stewart,-offers-an-AI-assistant-for-homeowners](https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/)
 - [【TechCrunch】PayPal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat](https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/)
 - [【TechCrunch】Stripe-and-Advent-reportedly-offered-to-buy-PayPal-for-around-$53.4B](https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/)
-- [【TechCrunch】Wayve-launches-$85M-employee-tender-offer-at-$8.5B-valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/)
 - [......【查看更多】......](/details/tags/job-interview.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -696,12 +693,12 @@ https://github.com/pinceladasdaweb/rabbitmq
 - [【Frontend Masters Blog】The-Siren-Song-of-ariaNotify](https://master.dev/blog/the-siren-song-of-arianotify/)
 - [【Frontend Masters Blog】How-to-Make-an-Interactive-Element-Invisible-but-Accessible](https://master.dev/blog/how-to-make-an-interactive-element-invisible-but-accessible/)
 - [【Frontend Masters Blog】Totally-Free-Course:-Claude-Code](https://master.dev/blog/totally-free-course-claude-code/)
-- [【Frontend Masters Blog】Uber-for-Dogs:-How-to-Stop-&amp;-Think-for-Design](https://master.dev/blog/uber-for-dogs-how-to-stop-think-for-design/)
 - [【Jake Archibald】Fixing-my-tooltip-accessibility-mistake](https://jakearchibald.com/2026/my-tooltip-a11y-mistake/)
 - [【前端之巅】15-Mini-Project-Ideas-for-Web-Developers-With-Real-Examples-You-Can-Try](https://dev.to/lemon_73f3c115c7e8d01229b/15-mini-project-ideas-for-web-developers-with-real-examples-you-can-try-4imh)
 - [【前端之巅】Como-Lidar-com-Rowspan-e-Colspan-na-Extração-de-Tabelas](https://dev.to/circobit/como-lidar-com-rowspan-e-colspan-na-extracao-de-tabelas-abo)
 - [【前端之巅】It's-over](https://dev.to/henock_agbo/its-over-25b2)
 - [【前端之巅】SELECTORS](https://dev.to/shobika_003/selectors-5cln)
+- [【前端之巅】Engineering-Scalable-iGaming-Architecture:-A-Deep-Dive-into-La-Labet](https://dev.to/alessia_romano/engineering-scalable-igaming-architecture-a-deep-dive-into-la-labet-2kb9)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

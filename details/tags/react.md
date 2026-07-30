@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-30 23:04:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-31 06:02:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -200,9 +200,6 @@
 - [2026-07-03-React-me-index-as-key-Kyun-Bura-Hai-Best-Practice-in-Hindi](https://dev.to/banti_kevat_8e2d123bb7994/react-me-index-as-key-kyun-bura-hai-best-practice-in-hindi-3fj4) 
 - [2026-07-03-React-me-forwardRef-Kaise-Use-Karein-Advanced-Refs-in-Hindi](https://dev.to/banti_kevat_8e2d123bb7994/react-me-forwardref-kaise-use-karein-advanced-refs-in-hindi-1ld9) 
 - [2026-07-02-Stop-Writing-Massive,-Single-Page-Codebases:-A-Raw-Look-at-React-Components-and-Props](https://dev.to/md_shahzebalam/stop-writing-massive-single-page-codebases-a-raw-look-at-react-components-and-props-3min) 
-- [2026-07-01-Stop-Hand-Coding-React-Native-Forms.-Generate-Them-Instead.](https://dev.to/jules_sarah_0718e958f0d24/stop-hand-coding-react-native-forms-generate-them-instead-b31) 
-- [2026-07-01-n8n-Webhook-Node:-Response-Modes,-Custom-Headers,-and-Auth-Free-Workflow-JSON](https://dev.to/pirateprentice/n8n-webhook-node-response-modes-custom-headers-and-auth-free-workflow-json-40dm) 
-- [2026-07-01-Building-a-React-App-from-Scratch-Using-Webpack-and-Babel](https://dev.to/selva_2026/building-a-react-app-from-scratch-using-webpack-and-babel-4a1n) 
 - [2026-07-26--SVAR-Kanban:-flexible-drag-and-drop-task-board-for-React,-Svelte-&amp;-Vue-](
 https://svar.dev/blog/svar-kanban-for-react-svelte-vue/
 ) 
@@ -235,9 +232,7 @@ https://github.com/evoluteur/structured-filter-react
 - [2026-07-07-Modelling-Gas-Phase-Reaction-Kinetics-with-Guided-Particle-Diffusion-Sampling](https://arxiv.org/abs/2604.16461) 
 - [2026-07-03-A-Novel-Machine-Learning-Approach-for-Central-Nervous-System-Tumor-Classification-from-DNA-Methylation](https://arxiv.org/abs/2607.01307) 
 - [2026-07-03-Enerzyme:-A-Framework-for-Efficient-Training-of-Reactive-Neural-Network-Potentials-for-Enzyme-Catalysis-with-Application-to-Methyltransferases](https://arxiv.org/abs/2607.01362) 
-- [2026-07-01-ReactionAtlas:-Ab-origine-exploration-of-chemical-reaction-networks-with-machine-learning](https://arxiv.org/abs/2606.30778) 
 - [2026-07-08-Claude-Agent-SDK-Plugins:-You-Built-a-Test-Tool,-a-Reviewer,-and-an-Audit-Hook.](https://pub.towardsai.net/claude-agent-sdk-plugins-you-built-a-test-tool-a-reviewer-and-an-audit-hook-0fd08307b768?source=rss----98111c9905da---4) 
-- [2026-07-01-Claude-Agent-SDK-Hooks:-Permissions-Ask-the-Model-for-Permission.-Hooks-Do-Not-Ask-Anyone.](https://pub.towardsai.net/claude-agent-sdk-hooks-permissions-ask-the-model-for-permission-hooks-do-not-ask-anyone-f0baf89dd0b9?source=rss----98111c9905da---4) 
 - [2026-07-30-React's-Programming-Model,-Compiled](https://octanejs.dev) 
 - [2026-07-29-Beamhook-–-stop-macOS-from-sending-your-media-keys-to-the-wrong-app](https://beamhook.app) 
 - [2026-07-28-Show-HN:-A-Back-End-You-Can-Call-Directly-from-React-–-No-API-Required](https://linkedrecords.com/getting-started/) 
@@ -260,10 +255,8 @@ https://github.com/evoluteur/structured-filter-react
 - [2026-07-03-ReactOS-Implements-First-Windows-NT6-System-Call-Toward-Vista-Compatibility](https://www.phoronix.com/news/ReactOS-First-NT6-Syscall) 
 - [2026-07-02-Show-HN:-Dart_agent_core-–-Run-AI-agents-in-Flutter-apps-with-lifecycle-hooks](https://github.com/memex-lab/dart_agent_core) 
 - [2026-07-02-Show-HN:-What-GPTBot-sees-before-your-React-app-hydrates](https://botscore.io/blog/what-gptbot-sees-before-hydration/) 
-- [2026-07-01-Realta-Fusion-generates-electricity-directly-from-a-fusion-reaction](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/) 
-- [2026-07-28-Thea-Energy-lands-$20M-federal-grant-to-build-its-magnets-for-fusion-reactors](https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/) 
 - [2026-07-28-Antares-raises-$470M-to-build-nuclear-reactors-for-the-US-military](https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/) 
+- [2026-07-28-Thea-Energy-lands-$20M-federal-grant-to-build-its-magnets-for-fusion-reactors](https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/) 
 - [2026-07-21-Bluecore-Energy-raises-$10M-to-build-portable-nuclear-reactors-on-barges](https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/) 
 - [2026-07-15-Why-Realta-Fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory](https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/) 
-- [2026-07-01-Realta-Fusion-generates-electricity-directly-from-a-fusion-reaction,-an-apparent-first](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/) 
 - [2026-07-29-AI’s-finally-expensive-enough-to-make-Wall-Street-nervous](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex) 

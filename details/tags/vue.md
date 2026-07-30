@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-30 23:04:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-31 06:02:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -35,6 +35,5 @@
 - [2026-07-07-How-Much-of-the-Routing-Gap-Is-Real?-Decomposing-the-Router-to-Oracle-Gap-into-Reproducible-Specialist-Advantage-and-Single-Draw-Label-Noise](https://arxiv.org/abs/2607.03436) 
 - [2026-07-07-Physically-Relevant-Information-Learning-in-High-Dimensional-Time-Derivatives-Spaces](https://arxiv.org/abs/2607.05127) 
 - [2026-07-02-Task-Relevant-Representation-Decoupling-for-Visual-Reinforcement-Learning-Generalization](https://arxiv.org/abs/2607.00796) 
-- [2026-07-01-A-Transferable-Learned-Temporal-Prior-for-Transmission-Reconstruction-and-Decision-Relevant-Uncertainty-in-Real-Outbreak-Labels](https://arxiv.org/abs/2606.30842) 
 - [2026-07-29-Advantages-and-disadvantages-of-Windows-NT-3.1](https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/) 
 - [2026-07-25-Why-Cognition-bought-Poke:-AI-personality-is-becoming-a-competitive-advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/) 
