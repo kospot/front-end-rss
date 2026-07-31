@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-31T15:04:53.934Z</updated>
+    <updated>2026-07-31T22:02:18.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,37 +15,79 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Anthropic says Claude accidentally hacked real companies too]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Google Earth&#8217;s AI deepfake tool only lasted one day]]></title>
+        <id>https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool</id>
+        <link href="https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tim Cook hints at iCloud Plus tier for AI power users]]></title>
-        <id>https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai</id>
-        <link href="https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount]]></title>
+        <id>https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;]]></title>
-        <id>https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth</id>
-        <link href="https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Oxide and Friends: The Open Weight Revolution with Simon Willison]]></title>
+        <id>https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google is working on Chrome updates that don’t require restarts]]></title>
-        <id>https://www.theverge.com/tech/973174/google-chrome-update-no-restart</id>
-        <link href="https://www.theverge.com/tech/973174/google-chrome-update-no-restart"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Ultimate Arbitrum to Linea Bridge Guide: Best Routes Compared]]></title>
+        <id>https://dev.to/srwe5345/ultimate-arbitrum-to-linea-bridge-guide-best-routes-compared-1fbi</id>
+        <link href="https://dev.to/srwe5345/ultimate-arbitrum-to-linea-bridge-guide-best-routes-compared-1fbi"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies]]></title>
-        <id>https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale"/>
+        <title type="html"><![CDATA[What More Than Three Decades of Acrobat JavaScript Development Taught Me About Interactive PDF Forms]]></title>
+        <id>https://dev.to/boilerup73/what-more-than-three-decades-of-acrobat-javascript-development-taught-me-about-interactive-pdf-forms-5758</id>
+        <link href="https://dev.to/boilerup73/what-more-than-three-decades-of-acrobat-javascript-development-taught-me-about-interactive-pdf-forms-5758"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Real-Time Analytics Dashboard with Vanilla JS — Here's How]]></title>
+        <id>https://dev.to/engmmmar6bit/i-built-a-real-time-analytics-dashboard-with-vanilla-js-heres-how-153m</id>
+        <link href="https://dev.to/engmmmar6bit/i-built-a-real-time-analytics-dashboard-with-vanilla-js-heres-how-153m"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Thought MongoDB Atlas Was Broken. It Turned Out to Be Node.js DNS All Along.]]></title>
+        <id>https://dev.to/abdulkader3/i-thought-mongodb-atlas-was-broken-it-turned-out-to-be-nodejs-dns-all-along-33hj</id>
+        <link href="https://dev.to/abdulkader3/i-thought-mongodb-atlas-was-broken-it-turned-out-to-be-nodejs-dns-all-along-33hj"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chapter 1: Introduction to Node - But understanding what system is capable off]]></title>
+        <id>https://dev.to/yuvaraj_yuvaraj_a18517569/chapter-1-introduction-to-node-but-understanding-what-system-is-capable-off-5cn0</id>
+        <link href="https://dev.to/yuvaraj_yuvaraj_a18517569/chapter-1-introduction-to-node-but-understanding-what-system-is-capable-off-5cn0"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastest Way to Bridge Linea to Optimism: 8 Simple Steps]]></title>
+        <id>https://dev.to/sawe54e5/fastest-way-to-bridge-linea-to-optimism-8-simple-steps-2p0g</id>
+        <link href="https://dev.to/sawe54e5/fastest-way-to-bridge-linea-to-optimism-8-simple-steps-2p0g"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Through the Black Box: How AI Agents Conquer Shadow DOMs, Canvas Elements, and iFrames]]></title>
+        <id>https://dev.to/programmingcentral/breaking-through-the-black-box-how-ai-agents-conquer-shadow-doms-canvas-elements-and-iframes-369a</id>
+        <link href="https://dev.to/programmingcentral/breaking-through-the-black-box-how-ai-agents-conquer-shadow-doms-canvas-elements-and-iframes-369a"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D&#038;D is getting World of Warcraft and Star Wars crossovers]]></title>
+        <id>https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond</id>
+        <link href="https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond"/>
         <updated>2026-07-30T16:00:00.000Z</updated>
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
@@ -57,72 +99,37 @@
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[D&#038;D is getting World of Warcraft and Star Wars crossovers]]></title>
-        <id>https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond</id>
-        <link href="https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond"/>
+        <title type="html"><![CDATA[Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies]]></title>
+        <id>https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale"/>
         <updated>2026-07-30T16:00:00.000Z</updated>
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence]]></title>
-        <id>https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/</id>
-        <link href="https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/"/>
+        <title type="html"><![CDATA[Google is working on Chrome updates that don’t require restarts]]></title>
+        <id>https://www.theverge.com/tech/973174/google-chrome-update-no-restart</id>
+        <link href="https://www.theverge.com/tech/973174/google-chrome-update-no-restart"/>
         <updated>2026-07-30T16:00:00.000Z</updated>
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers]]></title>
-        <id>https://www.wired.com/review/steelseries-arctis-nova-pro-omni/</id>
-        <link href="https://www.wired.com/review/steelseries-arctis-nova-pro-omni/"/>
+        <title type="html"><![CDATA[Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;]]></title>
+        <id>https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth</id>
+        <link href="https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth"/>
         <updated>2026-07-30T16:00:00.000Z</updated>
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran]]></title>
-        <id>https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/</id>
-        <link href="https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/"/>
+        <title type="html"><![CDATA[Tim Cook hints at iCloud Plus tier for AI power users]]></title>
+        <id>https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai</id>
+        <link href="https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai"/>
         <updated>2026-07-30T16:00:00.000Z</updated>
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance]]></title>
-        <id>https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/</id>
-        <link href="https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back to School Office Chair Deals 2026: $200 and Less]]></title>
-        <id>https://www.wired.com/story/back-to-school-office-chair-deals-2026/</id>
-        <link href="https://www.wired.com/story/back-to-school-office-chair-deals-2026/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting]]></title>
-        <id>https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/</id>
-        <link href="https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Friend AI Pendant Can Now Talk Back to You]]></title>
-        <id>https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/</id>
-        <link href="https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SJY Zeph Open-Back Headphones Review: Music Through Magnets]]></title>
-        <id>https://www.wired.com/review/sjy-zeph-open-back-planar-magnetic-headphones/</id>
-        <link href="https://www.wired.com/review/sjy-zeph-open-back-planar-magnetic-headphones/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daisy One Review: Comfy and Tactile Headphones]]></title>
-        <id>https://www.wired.com/review/daisy-one/</id>
-        <link href="https://www.wired.com/review/daisy-one/"/>
+        <title type="html"><![CDATA[Anthropic says Claude accidentally hacked real companies too]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests"/>
         <updated>2026-07-30T16:00:00.000Z</updated>
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
@@ -134,30 +141,100 @@
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic says its own AI models breached three companies during security tests]]></title>
-        <id>https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/</id>
-        <link href="https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"/>
+        <title type="html"><![CDATA[Daisy One Review: Comfy and Tactile Headphones]]></title>
+        <id>https://www.wired.com/review/daisy-one/</id>
+        <link href="https://www.wired.com/review/daisy-one/"/>
         <updated>2026-07-30T16:00:00.000Z</updated>
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag]]></title>
-        <id>https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/</id>
-        <link href="https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/"/>
+        <title type="html"><![CDATA[SJY Zeph Open-Back Headphones Review: Music Through Magnets]]></title>
+        <id>https://www.wired.com/review/sjy-zeph-open-back-planar-magnetic-headphones/</id>
+        <link href="https://www.wired.com/review/sjy-zeph-open-back-planar-magnetic-headphones/"/>
         <updated>2026-07-30T16:00:00.000Z</updated>
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI]]></title>
-        <id>https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/</id>
-        <link href="https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/"/>
+        <title type="html"><![CDATA[The New Friend AI Pendant Can Now Talk Back to You]]></title>
+        <id>https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/</id>
+        <link href="https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/"/>
         <updated>2026-07-30T16:00:00.000Z</updated>
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A]]></title>
-        <id>https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/</id>
-        <link href="https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/"/>
+        <title type="html"><![CDATA[Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting]]></title>
+        <id>https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/</id>
+        <link href="https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <published>2026-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back to School Office Chair Deals 2026: $200 and Less]]></title>
+        <id>https://www.wired.com/story/back-to-school-office-chair-deals-2026/</id>
+        <link href="https://www.wired.com/story/back-to-school-office-chair-deals-2026/"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <published>2026-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance]]></title>
+        <id>https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/</id>
+        <link href="https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <published>2026-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran]]></title>
+        <id>https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/</id>
+        <link href="https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <published>2026-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers]]></title>
+        <id>https://www.wired.com/review/steelseries-arctis-nova-pro-omni/</id>
+        <link href="https://www.wired.com/review/steelseries-arctis-nova-pro-omni/"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <published>2026-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence]]></title>
+        <id>https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/</id>
+        <link href="https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <published>2026-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GM and Ford are talking less and less about EVs]]></title>
+        <id>https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/</id>
+        <link href="https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <published>2026-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung expects memory shortage to worsen through 2027 and last until 2028]]></title>
+        <id>https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/</id>
+        <link href="https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <published>2026-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit is testing a new way to watch — and listen to — its viral posts]]></title>
+        <id>https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/</id>
+        <link href="https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <published>2026-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human]]></title>
+        <id>https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/</id>
+        <link href="https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <published>2026-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares]]></title>
+        <id>https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/</id>
+        <link href="https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"/>
         <updated>2026-07-30T16:00:00.000Z</updated>
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
@@ -169,9 +246,30 @@
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares]]></title>
-        <id>https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/</id>
-        <link href="https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"/>
+        <title type="html"><![CDATA[Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A]]></title>
+        <id>https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/</id>
+        <link href="https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <published>2026-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI]]></title>
+        <id>https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/</id>
+        <link href="https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <published>2026-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag]]></title>
+        <id>https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/</id>
+        <link href="https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/"/>
+        <updated>2026-07-30T16:00:00.000Z</updated>
+        <published>2026-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic says its own AI models breached three companies during security tests]]></title>
+        <id>https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/</id>
+        <link href="https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"/>
         <updated>2026-07-30T16:00:00.000Z</updated>
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
@@ -263,104 +361,6 @@
         <title type="html"><![CDATA[Show HN: Widen – Open-source Mac Postgres GUI with local or cloud text-to-SQL]]></title>
         <id>https://widen.dev/</id>
         <link href="https://widen.dev/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: ZenResume – Free, local-first ATS resume builder with AI import]]></title>
-        <id>https://www.zenresume.online/</id>
-        <link href="https://www.zenresume.online/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Migrated a 350k-Line Java/JSP Application to TypeScript in Five Days]]></title>
-        <id>https://gokulakrishna.co/2026/07/31/migrated-350000-line-java-jsp-application-typescript-five-days/</id>
-        <link href="https://gokulakrishna.co/2026/07/31/migrated-350000-line-java-jsp-application-typescript-five-days/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: One page personal calendar with hierarchy]]></title>
-        <id>https://news.ycombinator.com/item?id=49119723</id>
-        <link href="https://news.ycombinator.com/item?id=49119723"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to speed up the Rust compiler in July 2026]]></title>
-        <id>https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html</id>
-        <link href="https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief History of the Internet's Favorite Scam]]></title>
-        <id>https://thereader.mitpress.mit.edu/a-brief-history-of-the-internets-favorite-scam/</id>
-        <link href="https://thereader.mitpress.mit.edu/a-brief-history-of-the-internets-favorite-scam/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C64 Demo Effects Explained: Rodents in the Attic [video]]]></title>
-        <id>https://www.youtube.com/watch?v=uZ1atMUOUMU</id>
-        <link href="https://www.youtube.com/watch?v=uZ1atMUOUMU"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Made in the USSR: 6 video games Soviets went crazy over (2020)]]></title>
-        <id>https://www.rbth.com/lifestyle/332384-video-games-soviet-russian-tetris</id>
-        <link href="https://www.rbth.com/lifestyle/332384-video-games-soviet-russian-tetris"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diffuse puffs of "missing" matter surround most galaxies]]></title>
-        <id>https://news.mit.edu/2026/missing-matter-diffuse-puffs-surround-most-galaxies-0721</id>
-        <link href="https://news.mit.edu/2026/missing-matter-diffuse-puffs-surround-most-galaxies-0721"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europe gets ready to police frontier AI]]></title>
-        <id>https://www.theparliamentmagazine.eu/news/article/europe-gets-ready-to-police-frontier-ai</id>
-        <link href="https://www.theparliamentmagazine.eu/news/article/europe-gets-ready-to-police-frontier-ai"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We track 4400 technologies in 165 categories used on websites]]></title>
-        <id>https://www.wmtips.com/technologies/</id>
-        <link href="https://www.wmtips.com/technologies/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Path of Exile 2: Shaders and Device Removed Issues Fixed [video]]]></title>
-        <id>https://www.youtube.com/watch?v=XDEJLOHcdWw</id>
-        <link href="https://www.youtube.com/watch?v=XDEJLOHcdWw"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show NH: FreqWave EQ – An 8-band parametric audio equalizer for browsers]]></title>
-        <id>https://chromewebstore.google.com/detail/freqwave-eq/emikokoknlgeiloipjheoafjjeoicjap</id>
-        <link href="https://chromewebstore.google.com/detail/freqwave-eq/emikokoknlgeiloipjheoafjjeoicjap"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just tried DeepSeek V4 Flash 0731 (she got her brain updated again)]]></title>
-        <id>https://www.reddit.com/r/consentbar/comments/1vbpsc1/just_tried_deepseek_v4_flash_0731_and_wow_this_is/</id>
-        <link href="https://www.reddit.com/r/consentbar/comments/1vbpsc1/just_tried_deepseek_v4_flash_0731_and_wow_this_is/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Tabular Foundation Models Ready to Replace Gradient Boosting Models?]]></title>
-        <id>https://pub.towardsai.net/are-tabular-foundation-models-ready-to-replace-gradient-boosting-models-cb039b955162?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/are-tabular-foundation-models-ready-to-replace-gradient-boosting-models-cb039b955162?source=rss----98111c9905da---4"/>
         <updated>2026-07-30T16:00:00.000Z</updated>
         <published>2026-07-30T16:00:00.000Z</published>
     </entry>
