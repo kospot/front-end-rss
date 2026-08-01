@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-01T04:02:20.667Z</updated>
+    <updated>2026-08-01T07:02:52.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,79 +29,65 @@
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI]]></title>
-        <id>https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79</id>
-        <link href="https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79"/>
+        <title type="html"><![CDATA[OpenAI's work on Git for large repositories]]></title>
+        <id>https://openai-git-upstream.openai.chatgpt.site/</id>
+        <link href="https://openai-git-upstream.openai.chatgpt.site/"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's in a Name: A Guide to the Many Flavours of TeX]]></title>
-        <id>https://www.overleaf.com/learn/latex/Articles/What%27s_in_a_Name%3A_A_Guide_to_the_Many_Flavours_of_TeX</id>
-        <link href="https://www.overleaf.com/learn/latex/Articles/What%27s_in_a_Name%3A_A_Guide_to_the_Many_Flavours_of_TeX"/>
+        <title type="html"><![CDATA[Applied Electrodynamics (YC S26) A new kind of camera that can see through walls]]></title>
+        <id>https://twitter.com/bavser/status/2082868602240385526</id>
+        <link href="https://twitter.com/bavser/status/2082868602240385526"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Accepting a Messy Git History]]></title>
-        <id>https://beza1e1.tuxen.de/git_two_users.html</id>
-        <link href="https://beza1e1.tuxen.de/git_two_users.html"/>
+        <title type="html"><![CDATA[Fall of Civilisations: Majapahit – Empire of the Islands [video]]]></title>
+        <id>https://www.youtube.com/watch?v=01CZBhZM430</id>
+        <link href="https://www.youtube.com/watch?v=01CZBhZM430"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Sanitizer – Strip sensitive data from documents locally before an LLM]]></title>
-        <id>https://provexar.ai/sanitizer</id>
-        <link href="https://provexar.ai/sanitizer"/>
+        <title type="html"><![CDATA[Fast Rust Library for PDF text extraction]]></title>
+        <id>https://github.com/firecrawl/pdf-inspector</id>
+        <link href="https://github.com/firecrawl/pdf-inspector"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Urldn – A URL shortener with analytics and an AI data analyst]]></title>
-        <id>https://waitlist.urldn.com/</id>
-        <link href="https://waitlist.urldn.com/"/>
+        <title type="html"><![CDATA[UPC grants InterDigital second 11-country injunction against Disney]]></title>
+        <id>https://ipfray.com/breaking-upc-grants-interdigital-second-11-country-injunction-against-disney/</id>
+        <link href="https://ipfray.com/breaking-upc-grants-interdigital-second-11-country-injunction-against-disney/"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yann LeCun on What Comes After LLMs [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ngBraLDqzdI</id>
-        <link href="https://www.youtube.com/watch?v=ngBraLDqzdI"/>
+        <title type="html"><![CDATA[Dependency Cultures [video]]]></title>
+        <id>https://www.youtube.com/watch?v=E82ly38YEEQ</id>
+        <link href="https://www.youtube.com/watch?v=E82ly38YEEQ"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Read the Novels and Forget Everything Else]]></title>
-        <id>https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else</id>
-        <link href="https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else"/>
+        <title type="html"><![CDATA[Show HN: TikTok Coin Calculator – viewer costs vs. creator earnings]]></title>
+        <id>https://coinvaluecalc.com/</id>
+        <link href="https://coinvaluecalc.com/"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zitron: "Everyone Has Been Sold a Lie" on AI [video]]]></title>
-        <id>https://www.youtube.com/watch?v=pHcZpvIfho0</id>
-        <link href="https://www.youtube.com/watch?v=pHcZpvIfho0"/>
+        <title type="html"><![CDATA[Audio8 TTS Preview 0.6B]]></title>
+        <id>https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6B-ONNX-INT4</id>
+        <link href="https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6B-ONNX-INT4"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flux9s: A K9s-inspired terminal UI for Flux and GitOps state]]></title>
-        <id>https://flux9s.ca/</id>
-        <link href="https://flux9s.ca/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privilege Escalation in AWS Elastic Kubernetes Service (2023)]]></title>
-        <id>https://blog.calif.io/p/privilege-escalation-in-eks</id>
-        <link href="https://blog.calif.io/p/privilege-escalation-in-eks"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's Xi urges military to step up use of unmanned AI technologies]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies"/>
+        <title type="html"><![CDATA[Cyberattack on water systems in multiple states has US officials on edge]]></title>
+        <id>https://www.cnn.com/2026/07/31/politics/sweeping-cyberattack-us-water-systems</id>
+        <link href="https://www.cnn.com/2026/07/31/politics/sweeping-cyberattack-us-water-systems"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
@@ -113,9 +99,79 @@
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cyberattack on water systems in multiple states has US officials on edge]]></title>
-        <id>https://www.cnn.com/2026/07/31/politics/sweeping-cyberattack-us-water-systems</id>
-        <link href="https://www.cnn.com/2026/07/31/politics/sweeping-cyberattack-us-water-systems"/>
+        <title type="html"><![CDATA[China's Xi urges military to step up use of unmanned AI technologies]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privilege Escalation in AWS Elastic Kubernetes Service (2023)]]></title>
+        <id>https://blog.calif.io/p/privilege-escalation-in-eks</id>
+        <link href="https://blog.calif.io/p/privilege-escalation-in-eks"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flux9s: A K9s-inspired terminal UI for Flux and GitOps state]]></title>
+        <id>https://flux9s.ca/</id>
+        <link href="https://flux9s.ca/"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zitron: "Everyone Has Been Sold a Lie" on AI [video]]]></title>
+        <id>https://www.youtube.com/watch?v=pHcZpvIfho0</id>
+        <link href="https://www.youtube.com/watch?v=pHcZpvIfho0"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read the Novels and Forget Everything Else]]></title>
+        <id>https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else</id>
+        <link href="https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yann LeCun on What Comes After LLMs [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ngBraLDqzdI</id>
+        <link href="https://www.youtube.com/watch?v=ngBraLDqzdI"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urldn – A URL shortener with analytics and an AI data analyst]]></title>
+        <id>https://waitlist.urldn.com/</id>
+        <link href="https://waitlist.urldn.com/"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Sanitizer – Strip sensitive data from documents locally before an LLM]]></title>
+        <id>https://provexar.ai/sanitizer</id>
+        <link href="https://provexar.ai/sanitizer"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accepting a Messy Git History]]></title>
+        <id>https://beza1e1.tuxen.de/git_two_users.html</id>
+        <link href="https://beza1e1.tuxen.de/git_two_users.html"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's in a Name: A Guide to the Many Flavours of TeX]]></title>
+        <id>https://www.overleaf.com/learn/latex/Articles/What%27s_in_a_Name%3A_A_Guide_to_the_Many_Flavours_of_TeX</id>
+        <link href="https://www.overleaf.com/learn/latex/Articles/What%27s_in_a_Name%3A_A_Guide_to_the_Many_Flavours_of_TeX"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI]]></title>
+        <id>https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79</id>
+        <link href="https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
@@ -148,142 +204,58 @@
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DOM-TASK1]]></title>
-        <id>https://dev.to/krishnan2003/dom-task1-454g</id>
-        <link href="https://dev.to/krishnan2003/dom-task1-454g"/>
+        <title type="html"><![CDATA[How to structure a Chrome Extension with Manifest V3 (the right way)]]></title>
+        <id>https://dev.to/aakanksha_1847236936713a8/how-to-structure-a-chrome-extension-with-manifest-v3-the-right-way-4mje</id>
+        <link href="https://dev.to/aakanksha_1847236936713a8/how-to-structure-a-chrome-extension-with-manifest-v3-the-right-way-4mje"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Analyzing Sports Data: At least Ill sleep well tonight Fifa executive joins Burnham in questioning Infantino — What the]]></title>
-        <id>https://dev.to/muhammad_binnazeer_6a810/analyzing-sports-data-at-least-ill-sleep-well-tonight-fifa-executive-joins-burnham-in-questioning-pm9</id>
-        <link href="https://dev.to/muhammad_binnazeer_6a810/analyzing-sports-data-at-least-ill-sleep-well-tonight-fifa-executive-joins-burnham-in-questioning-pm9"/>
+        <title type="html"><![CDATA[AbortController Beyond fetch: The Cancellation Patterns I Use in Every React App]]></title>
+        <id>https://dev.to/ahmed_mahmoud360/abortcontroller-beyond-fetch-the-cancellation-patterns-i-use-in-every-react-app-3i3n</id>
+        <link href="https://dev.to/ahmed_mahmoud360/abortcontroller-beyond-fetch-the-cancellation-patterns-i-use-in-every-react-app-3i3n"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Framework Was Streaming HTML Before It Was Cool. Learn It in 135 Browser Lessons]]></title>
-        <id>https://dev.to/defunktdev/this-framework-was-streaming-html-before-it-was-cool-learn-it-in-135-browser-lessons-4l75</id>
-        <link href="https://dev.to/defunktdev/this-framework-was-streaming-html-before-it-was-cool-learn-it-in-135-browser-lessons-4l75"/>
+        <title type="html"><![CDATA[Component c69: Back to Top]]></title>
+        <id>https://dev.to/wdsega/component-c69-back-to-top-5agc</id>
+        <link href="https://dev.to/wdsega/component-c69-back-to-top-5agc"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alchemy: GJS UI Framwork]]></title>
-        <id>https://dev.to/softwareishappiness/alchemy-gjs-ui-framwork-4j25</id>
-        <link href="https://dev.to/softwareishappiness/alchemy-gjs-ui-framwork-4j25"/>
+        <title type="html"><![CDATA[Component c68: Toggle Switch]]></title>
+        <id>https://dev.to/wdsega/component-c68-toggle-switch-2lb6</id>
+        <link href="https://dev.to/wdsega/component-c68-toggle-switch-2lb6"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Render props vs hooks: the same logic three ways, and the wrapper hell that made hooks win]]></title>
-        <id>https://dev.to/dev48v/render-props-vs-hooks-the-same-logic-three-ways-and-the-wrapper-hell-that-made-hooks-win-572m</id>
-        <link href="https://dev.to/dev48v/render-props-vs-hooks-the-same-logic-three-ways-and-the-wrapper-hell-that-made-hooks-win-572m"/>
+        <title type="html"><![CDATA[Component c66: Ripple Button]]></title>
+        <id>https://dev.to/wdsega/component-c66-ripple-button-1abk</id>
+        <link href="https://dev.to/wdsega/component-c66-ripple-button-1abk"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A URL is a tiny structured record, not a string — parse the frame with the platform, hand-roll only the query, rebuild it]]></title>
-        <id>https://dev.to/dev48v/a-url-is-a-tiny-structured-record-not-a-string-parse-the-frame-with-the-platform-hand-roll-only-5goc</id>
-        <link href="https://dev.to/dev48v/a-url-is-a-tiny-structured-record-not-a-string-parse-the-frame-with-the-platform-hand-roll-only-5goc"/>
+        <title type="html"><![CDATA[Component c64: Progress Bar]]></title>
+        <id>https://dev.to/wdsega/component-c64-progress-bar-o33</id>
+        <link href="https://dev.to/wdsega/component-c64-progress-bar-o33"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Confetti isn't an animation — it's an array of paper scraps, each a bag of numbers one loop nudges under gravity every frame]]></title>
-        <id>https://dev.to/dev48v/confetti-isnt-an-animation-its-an-array-of-paper-scraps-each-a-bag-of-numbers-one-loop-nudges-3084</id>
-        <link href="https://dev.to/dev48v/confetti-isnt-an-animation-its-an-array-of-paper-scraps-each-a-bag-of-numbers-one-loop-nudges-3084"/>
+        <title type="html"><![CDATA[Top 10 Trusted Sites to Buy GitHub Accounts.docx]]></title>
+        <id>https://dev.to/usasvcit4ws/top-10-trusted-sites-to-buy-github-accountsdocx-53i5</id>
+        <link href="https://dev.to/usasvcit4ws/top-10-trusted-sites-to-buy-github-accountsdocx-53i5"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There is no flock in the code — only an array of points, and three little vectors per bird make a whole murmuration appear]]></title>
-        <id>https://dev.to/dev48v/there-is-no-flock-in-the-code-only-an-array-of-points-and-three-little-vectors-per-bird-make-a-4elo</id>
-        <link href="https://dev.to/dev48v/there-is-no-flock-in-the-code-only-an-array-of-points-and-three-little-vectors-per-bird-make-a-4elo"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun vs Node vs Deno in 2026: How to Choose a JavaScript Runtime]]></title>
-        <id>https://dev.to/tonyspiro/bun-vs-node-vs-deno-in-2026-how-to-choose-a-javascript-runtime-53ce</id>
-        <link href="https://dev.to/tonyspiro/bun-vs-node-vs-deno-in-2026-how-to-choose-a-javascript-runtime-53ce"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking Through the Black Box: How AI Agents Conquer Shadow DOMs, Canvas Elements, and iFrames]]></title>
-        <id>https://dev.to/programmingcentral/breaking-through-the-black-box-how-ai-agents-conquer-shadow-doms-canvas-elements-and-iframes-369a</id>
-        <link href="https://dev.to/programmingcentral/breaking-through-the-black-box-how-ai-agents-conquer-shadow-doms-canvas-elements-and-iframes-369a"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastest Way to Bridge Linea to Optimism: 8 Simple Steps]]></title>
-        <id>https://dev.to/sawe54e5/fastest-way-to-bridge-linea-to-optimism-8-simple-steps-2p0g</id>
-        <link href="https://dev.to/sawe54e5/fastest-way-to-bridge-linea-to-optimism-8-simple-steps-2p0g"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chapter 1: Introduction to Node - But understanding what system is capable off]]></title>
-        <id>https://dev.to/yuvaraj_yuvaraj_a18517569/chapter-1-introduction-to-node-but-understanding-what-system-is-capable-off-5cn0</id>
-        <link href="https://dev.to/yuvaraj_yuvaraj_a18517569/chapter-1-introduction-to-node-but-understanding-what-system-is-capable-off-5cn0"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Thought MongoDB Atlas Was Broken. It Turned Out to Be Node.js DNS All Along.]]></title>
-        <id>https://dev.to/abdulkader3/i-thought-mongodb-atlas-was-broken-it-turned-out-to-be-nodejs-dns-all-along-33hj</id>
-        <link href="https://dev.to/abdulkader3/i-thought-mongodb-atlas-was-broken-it-turned-out-to-be-nodejs-dns-all-along-33hj"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Real-Time Analytics Dashboard with Vanilla JS — Here's How]]></title>
-        <id>https://dev.to/engmmmar6bit/i-built-a-real-time-analytics-dashboard-with-vanilla-js-heres-how-153m</id>
-        <link href="https://dev.to/engmmmar6bit/i-built-a-real-time-analytics-dashboard-with-vanilla-js-heres-how-153m"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What More Than Three Decades of Acrobat JavaScript Development Taught Me About Interactive PDF Forms]]></title>
-        <id>https://dev.to/boilerup73/what-more-than-three-decades-of-acrobat-javascript-development-taught-me-about-interactive-pdf-forms-5758</id>
-        <link href="https://dev.to/boilerup73/what-more-than-three-decades-of-acrobat-javascript-development-taught-me-about-interactive-pdf-forms-5758"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate Arbitrum to Linea Bridge Guide: Best Routes Compared]]></title>
-        <id>https://dev.to/srwe5345/ultimate-arbitrum-to-linea-bridge-guide-best-routes-compared-1fbi</id>
-        <link href="https://dev.to/srwe5345/ultimate-arbitrum-to-linea-bridge-guide-best-routes-compared-1fbi"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monitoring Your Next.js App with Vigilmon: API Routes, Edge Functions & Uptime Alerts]]></title>
-        <id>https://dev.to/vigilmon/monitoring-your-nextjs-app-with-vigilmon-api-routes-edge-functions-uptime-alerts-h39</id>
-        <link href="https://dev.to/vigilmon/monitoring-your-nextjs-app-with-vigilmon-api-routes-edge-functions-uptime-alerts-h39"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monitoring Your Express.js API with Vigilmon: Health Routes & Uptime Alerts]]></title>
-        <id>https://dev.to/vigilmon/monitoring-your-expressjs-api-with-vigilmon-health-routes-uptime-alerts-11ik</id>
-        <link href="https://dev.to/vigilmon/monitoring-your-expressjs-api-with-vigilmon-health-routes-uptime-alerts-11ik"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Client-Side PDF Watermarking in JavaScript: Coordinates, Rotation, and Memory Management]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/client-side-pdf-watermarking-in-javascript-coordinates-rotation-and-memory-management-4jfg</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/client-side-pdf-watermarking-in-javascript-coordinates-rotation-and-memory-management-4jfg"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My GitHub View Counter Was Fake the Whole Time — Here's How I Actually Made It Live]]></title>
-        <id>https://dev.to/anbu-00001/my-github-view-counter-was-fake-the-whole-time-heres-how-i-actually-made-it-live-99f</id>
-        <link href="https://dev.to/anbu-00001/my-github-view-counter-was-fake-the-whole-time-heres-how-i-actually-made-it-live-99f"/>
+        <title type="html"><![CDATA[Build a Deterministic AI Video Brief Generator with Vanilla JavaScript]]></title>
+        <id>https://dev.to/weiyuan_zhou_568ec30348ca/build-a-deterministic-ai-video-brief-generator-with-vanilla-javascript-5ecj</id>
+        <link href="https://dev.to/weiyuan_zhou_568ec30348ca/build-a-deterministic-ai-video-brief-generator-with-vanilla-javascript-5ecj"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
@@ -295,73 +267,101 @@
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic says Claude accidentally hacked real companies too]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[My GitHub View Counter Was Fake the Whole Time — Here's How I Actually Made It Live]]></title>
+        <id>https://dev.to/anbu-00001/my-github-view-counter-was-fake-the-whole-time-heres-how-i-actually-made-it-live-99f</id>
+        <link href="https://dev.to/anbu-00001/my-github-view-counter-was-fake-the-whole-time-heres-how-i-actually-made-it-live-99f"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tim Cook hints at iCloud Plus tier for AI power users]]></title>
-        <id>https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai</id>
-        <link href="https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Client-Side PDF Watermarking in JavaScript: Coordinates, Rotation, and Memory Management]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/client-side-pdf-watermarking-in-javascript-coordinates-rotation-and-memory-management-4jfg</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/client-side-pdf-watermarking-in-javascript-coordinates-rotation-and-memory-management-4jfg"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;]]></title>
-        <id>https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth</id>
-        <link href="https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Monitoring Your Express.js API with Vigilmon: Health Routes & Uptime Alerts]]></title>
+        <id>https://dev.to/vigilmon/monitoring-your-expressjs-api-with-vigilmon-health-routes-uptime-alerts-11ik</id>
+        <link href="https://dev.to/vigilmon/monitoring-your-expressjs-api-with-vigilmon-health-routes-uptime-alerts-11ik"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google is working on Chrome updates that don’t require restarts]]></title>
-        <id>https://www.theverge.com/tech/973174/google-chrome-update-no-restart</id>
-        <link href="https://www.theverge.com/tech/973174/google-chrome-update-no-restart"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Monitoring Your Next.js App with Vigilmon: API Routes, Edge Functions & Uptime Alerts]]></title>
+        <id>https://dev.to/vigilmon/monitoring-your-nextjs-app-with-vigilmon-api-routes-edge-functions-uptime-alerts-h39</id>
+        <link href="https://dev.to/vigilmon/monitoring-your-nextjs-app-with-vigilmon-api-routes-edge-functions-uptime-alerts-h39"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies]]></title>
-        <id>https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Ultimate Arbitrum to Linea Bridge Guide: Best Routes Compared]]></title>
+        <id>https://dev.to/srwe5345/ultimate-arbitrum-to-linea-bridge-guide-best-routes-compared-1fbi</id>
+        <link href="https://dev.to/srwe5345/ultimate-arbitrum-to-linea-bridge-guide-best-routes-compared-1fbi"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This tattoo is permanent, pain-free, and might soon come in the mail]]></title>
-        <id>https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches</id>
-        <link href="https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[What More Than Three Decades of Acrobat JavaScript Development Taught Me About Interactive PDF Forms]]></title>
+        <id>https://dev.to/boilerup73/what-more-than-three-decades-of-acrobat-javascript-development-taught-me-about-interactive-pdf-forms-5758</id>
+        <link href="https://dev.to/boilerup73/what-more-than-three-decades-of-acrobat-javascript-development-taught-me-about-interactive-pdf-forms-5758"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[D&#038;D is getting World of Warcraft and Star Wars crossovers]]></title>
-        <id>https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond</id>
-        <link href="https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built a Real-Time Analytics Dashboard with Vanilla JS — Here's How]]></title>
+        <id>https://dev.to/engmmmar6bit/i-built-a-real-time-analytics-dashboard-with-vanilla-js-heres-how-153m</id>
+        <link href="https://dev.to/engmmmar6bit/i-built-a-real-time-analytics-dashboard-with-vanilla-js-heres-how-153m"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence]]></title>
-        <id>https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/</id>
-        <link href="https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Thought MongoDB Atlas Was Broken. It Turned Out to Be Node.js DNS All Along.]]></title>
+        <id>https://dev.to/abdulkader3/i-thought-mongodb-atlas-was-broken-it-turned-out-to-be-nodejs-dns-all-along-33hj</id>
+        <link href="https://dev.to/abdulkader3/i-thought-mongodb-atlas-was-broken-it-turned-out-to-be-nodejs-dns-all-along-33hj"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers]]></title>
-        <id>https://www.wired.com/review/steelseries-arctis-nova-pro-omni/</id>
-        <link href="https://www.wired.com/review/steelseries-arctis-nova-pro-omni/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Chapter 1: Introduction to Node - But understanding what system is capable off]]></title>
+        <id>https://dev.to/yuvaraj_yuvaraj_a18517569/chapter-1-introduction-to-node-but-understanding-what-system-is-capable-off-5cn0</id>
+        <link href="https://dev.to/yuvaraj_yuvaraj_a18517569/chapter-1-introduction-to-node-but-understanding-what-system-is-capable-off-5cn0"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran]]></title>
-        <id>https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/</id>
-        <link href="https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/"/>
-        <updated>2026-07-30T16:00:00.000Z</updated>
-        <published>2026-07-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Fastest Way to Bridge Linea to Optimism: 8 Simple Steps]]></title>
+        <id>https://dev.to/sawe54e5/fastest-way-to-bridge-linea-to-optimism-8-simple-steps-2p0g</id>
+        <link href="https://dev.to/sawe54e5/fastest-way-to-bridge-linea-to-optimism-8-simple-steps-2p0g"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Through the Black Box: How AI Agents Conquer Shadow DOMs, Canvas Elements, and iFrames]]></title>
+        <id>https://dev.to/programmingcentral/breaking-through-the-black-box-how-ai-agents-conquer-shadow-doms-canvas-elements-and-iframes-369a</id>
+        <link href="https://dev.to/programmingcentral/breaking-through-the-black-box-how-ai-agents-conquer-shadow-doms-canvas-elements-and-iframes-369a"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bun vs Node vs Deno in 2026: How to Choose a JavaScript Runtime]]></title>
+        <id>https://dev.to/tonyspiro/bun-vs-node-vs-deno-in-2026-how-to-choose-a-javascript-runtime-53ce</id>
+        <link href="https://dev.to/tonyspiro/bun-vs-node-vs-deno-in-2026-how-to-choose-a-javascript-runtime-53ce"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There is no flock in the code — only an array of points, and three little vectors per bird make a whole murmuration appear]]></title>
+        <id>https://dev.to/dev48v/there-is-no-flock-in-the-code-only-an-array-of-points-and-three-little-vectors-per-bird-make-a-4elo</id>
+        <link href="https://dev.to/dev48v/there-is-no-flock-in-the-code-only-an-array-of-points-and-three-little-vectors-per-bird-make-a-4elo"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Confetti isn't an animation — it's an array of paper scraps, each a bag of numbers one loop nudges under gravity every frame]]></title>
+        <id>https://dev.to/dev48v/confetti-isnt-an-animation-its-an-array-of-paper-scraps-each-a-bag-of-numbers-one-loop-nudges-3084</id>
+        <link href="https://dev.to/dev48v/confetti-isnt-an-animation-its-an-array-of-paper-scraps-each-a-bag-of-numbers-one-loop-nudges-3084"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
     </entry>
 </feed>
