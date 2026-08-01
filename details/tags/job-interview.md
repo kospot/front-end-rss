@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-01 21:01:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-01 23:02:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-08-01-Drones-offer-alternative-to-balloons-for-weather-research](https://www.theguardian.com/news/2026/jul/31/weatherwatch-drone-base-station-offers-alternative-weather-balloons) 
 - [2026-07-22-A-simple-API-for-offering-your-coding-agent-a-smoke-break](https://smoke-break.pineapplefreefall.com) 
 - [2026-07-16-Uber-Announces-Acquisition-Offer-for-Delivery-Hero-at-$14.8B](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Acquisition-Offer-for-Delivery-Hero/default.aspx) 
 - [2026-07-15-Stripe,-Advent-offer-to-buy-PayPal-for-more-than-$53B](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) 

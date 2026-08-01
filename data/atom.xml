@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-01T13:01:45.055Z</updated>
+    <updated>2026-08-01T15:02:37.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Google Earth&#8217;s AI deepfake tool only lasted one day]]></title>
-        <id>https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool</id>
-        <link href="https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool"/>
+        <title type="html"><![CDATA[The Verge’s 2026 back-to-school shopping guide]]></title>
+        <id>https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts</id>
+        <link href="https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount]]></title>
         <id>https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale</id>
         <link href="https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Earth&#8217;s AI deepfake tool only lasted one day]]></title>
+        <id>https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool</id>
+        <link href="https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
@@ -57,247 +64,72 @@
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RFC 10023: The "_for-sale" Underscored and Globally Scoped DNS Node Name]]></title>
-        <id>https://www.rfc-editor.org/info/rfc10023/</id>
-        <link href="https://www.rfc-editor.org/info/rfc10023/"/>
+        <title type="html"><![CDATA[Apps that help you break free from doomscrolling and get active]]></title>
+        <id>https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/</id>
+        <link href="https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Field Guide to the AI Security Market]]></title>
-        <id>https://zeltser.com/ai-security-market-field-guide</id>
-        <link href="https://zeltser.com/ai-security-market-field-guide"/>
+        <title type="html"><![CDATA[Archaeologists Find Ancient Glyphs in the Amazon]]></title>
+        <id>https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html</id>
+        <link href="https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google AI Overviews have gone from appearing in 15% of searches to 43% now]]></title>
-        <id>https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/</id>
-        <link href="https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"/>
+        <title type="html"><![CDATA[The Age of Technology Companies]]></title>
+        <id>https://shxxxjin.substack.com/p/the-age-of-technology-companies</id>
+        <link href="https://shxxxjin.substack.com/p/the-age-of-technology-companies"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RipGrep musl binaries occasionally segfault during very-large searches]]></title>
-        <id>https://github.com/BurntSushi/ripgrep/issues/3494</id>
-        <link href="https://github.com/BurntSushi/ripgrep/issues/3494"/>
+        <title type="html"><![CDATA[Official ModRetro M64 Deep Dive: Console, Controller, Games [video]]]></title>
+        <id>https://www.youtube.com/watch?v=9gOJUEcKYRk</id>
+        <link href="https://www.youtube.com/watch?v=9gOJUEcKYRk"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Integrate LLM into your Python runtime]]></title>
-        <id>https://github.com/MiskaKan/thinair</id>
-        <link href="https://github.com/MiskaKan/thinair"/>
+        <title type="html"><![CDATA[Fetch Needs Error Codes]]></title>
+        <id>http://www.jasnell.me/posts/fetch-needs-error-codes</id>
+        <link href="http://www.jasnell.me/posts/fetch-needs-error-codes"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)]]></title>
-        <id>https://github.com/pochenai/nano-llm-posttraining</id>
-        <link href="https://github.com/pochenai/nano-llm-posttraining"/>
+        <title type="html"><![CDATA[Reviewing finished tasks from last week in org-agenda and Emacs]]></title>
+        <id>https://ashishpanigrahi.com/blog/done-items-org-agenda/</id>
+        <link href="https://ashishpanigrahi.com/blog/done-items-org-agenda/"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a local positioning system to track runners using Ultra-Wideband]]></title>
-        <id>https://zeus.ugent.be/blog/25-26/12urenloop-uwb/</id>
-        <link href="https://zeus.ugent.be/blog/25-26/12urenloop-uwb/"/>
+        <title type="html"><![CDATA[List of Style Guides]]></title>
+        <id>https://en.wikipedia.org/wiki/List_of_style_guides</id>
+        <link href="https://en.wikipedia.org/wiki/List_of_style_guides"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI's work on Git for large repositories]]></title>
-        <id>https://openai-git-upstream.openai.chatgpt.site/</id>
-        <link href="https://openai-git-upstream.openai.chatgpt.site/"/>
+        <title type="html"><![CDATA[A Scriptable 3D Graph Visualization]]></title>
+        <id>https://verticesandedges.net/?nburl=./examples/Cube.ipynb</id>
+        <link href="https://verticesandedges.net/?nburl=./examples/Cube.ipynb"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Applied Electrodynamics (YC S26) A new kind of camera that can see through walls]]></title>
-        <id>https://twitter.com/bavser/status/2082868602240385526</id>
-        <link href="https://twitter.com/bavser/status/2082868602240385526"/>
+        <title type="html"><![CDATA[Enterprise cloud infrastructure uptake shows no sign of slowing]]></title>
+        <id>https://www.theregister.com/off-prem/2026/08/01/enterprise-cloud-infrastructure-uptake-shows-no-sign-of-slowing/5281835</id>
+        <link href="https://www.theregister.com/off-prem/2026/08/01/enterprise-cloud-infrastructure-uptake-shows-no-sign-of-slowing/5281835"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fall of Civilisations: Majapahit – Empire of the Islands [video]]]></title>
-        <id>https://www.youtube.com/watch?v=01CZBhZM430</id>
-        <link href="https://www.youtube.com/watch?v=01CZBhZM430"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Rust Library for PDF text extraction]]></title>
-        <id>https://github.com/firecrawl/pdf-inspector</id>
-        <link href="https://github.com/firecrawl/pdf-inspector"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UPC grants InterDigital second 11-country injunction against Disney]]></title>
-        <id>https://ipfray.com/breaking-upc-grants-interdigital-second-11-country-injunction-against-disney/</id>
-        <link href="https://ipfray.com/breaking-upc-grants-interdigital-second-11-country-injunction-against-disney/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dependency Cultures [video]]]></title>
-        <id>https://www.youtube.com/watch?v=E82ly38YEEQ</id>
-        <link href="https://www.youtube.com/watch?v=E82ly38YEEQ"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: TikTok Coin Calculator – viewer costs vs. creator earnings]]></title>
-        <id>https://coinvaluecalc.com/</id>
-        <link href="https://coinvaluecalc.com/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audio8 TTS Preview 0.6B]]></title>
-        <id>https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6B-ONNX-INT4</id>
-        <link href="https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6B-ONNX-INT4"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattack on water systems in multiple states has US officials on edge]]></title>
-        <id>https://www.cnn.com/2026/07/31/politics/sweeping-cyberattack-us-water-systems</id>
-        <link href="https://www.cnn.com/2026/07/31/politics/sweeping-cyberattack-us-water-systems"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dfs-Large1: New Frontier for Cybersecurity]]></title>
-        <id>https://depthfirst.com/research/dfs-large-new-model-release</id>
-        <link href="https://depthfirst.com/research/dfs-large-new-model-release"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's Xi urges military to step up use of unmanned AI technologies]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privilege Escalation in AWS Elastic Kubernetes Service (2023)]]></title>
-        <id>https://blog.calif.io/p/privilege-escalation-in-eks</id>
-        <link href="https://blog.calif.io/p/privilege-escalation-in-eks"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flux9s: A K9s-inspired terminal UI for Flux and GitOps state]]></title>
-        <id>https://flux9s.ca/</id>
-        <link href="https://flux9s.ca/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zitron: "Everyone Has Been Sold a Lie" on AI [video]]]></title>
-        <id>https://www.youtube.com/watch?v=pHcZpvIfho0</id>
-        <link href="https://www.youtube.com/watch?v=pHcZpvIfho0"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read the Novels and Forget Everything Else]]></title>
-        <id>https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else</id>
-        <link href="https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yann LeCun on What Comes After LLMs [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ngBraLDqzdI</id>
-        <link href="https://www.youtube.com/watch?v=ngBraLDqzdI"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urldn – A URL shortener with analytics and an AI data analyst]]></title>
-        <id>https://waitlist.urldn.com/</id>
-        <link href="https://waitlist.urldn.com/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Sanitizer – Strip sensitive data from documents locally before an LLM]]></title>
-        <id>https://provexar.ai/sanitizer</id>
-        <link href="https://provexar.ai/sanitizer"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accepting a Messy Git History]]></title>
-        <id>https://beza1e1.tuxen.de/git_two_users.html</id>
-        <link href="https://beza1e1.tuxen.de/git_two_users.html"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's in a Name: A Guide to the Many Flavours of TeX]]></title>
-        <id>https://www.overleaf.com/learn/latex/Articles/What%27s_in_a_Name%3A_A_Guide_to_the_Many_Flavours_of_TeX</id>
-        <link href="https://www.overleaf.com/learn/latex/Articles/What%27s_in_a_Name%3A_A_Guide_to_the_Many_Flavours_of_TeX"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI]]></title>
-        <id>https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79</id>
-        <link href="https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOJ to dismiss Reflecting Pool vandalism case, 'botched installation' to blame]]></title>
-        <id>https://text.npr.org/nx-s1-5915828</id>
-        <link href="https://text.npr.org/nx-s1-5915828"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Why did Fastify never get more hype?]]></title>
-        <id>https://news.ycombinator.com/item?id=49132701</id>
-        <link href="https://news.ycombinator.com/item?id=49132701"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watched movie organiser for Windows CE 2.0 and Windows 98]]></title>
-        <id>https://github.com/PeCeTfull/PocketablePopcorn.NET</id>
-        <link href="https://github.com/PeCeTfull/PocketablePopcorn.NET"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I rewrote my ML web apps to run in-browser and deleted the server]]></title>
-        <id>https://aegishumanai.com/</id>
-        <link href="https://aegishumanai.com/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chiavari News – le notizie di oggi dal Tigullio]]></title>
-        <id>https://chiavarinews.com/</id>
-        <link href="https://chiavarinews.com/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kill Chain: How AI Is Transforming Modern Warfare [video]]]></title>
-        <id>https://www.youtube.com/watch?v=xjhywQlzJYo</id>
-        <link href="https://www.youtube.com/watch?v=xjhywQlzJYo"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marketing post 1 for beadedcloud environmental intelligence]]></title>
-        <id>https://www.beaded.cloud/</id>
-        <link href="https://www.beaded.cloud/"/>
+        <title type="html"><![CDATA[Show HN: WordJS – Open-source CMS where plugins run in OS sandboxes]]></title>
+        <id>https://github.com/jaimemartinez/wordjs</id>
+        <link href="https://github.com/jaimemartinez/wordjs"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
@@ -309,58 +141,226 @@
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ten advances in mathematics and theoretical computer science]]></title>
-        <id>https://openai.com/index/ten-advances-in-mathematics</id>
-        <link href="https://openai.com/index/ten-advances-in-mathematics"/>
+        <title type="html"><![CDATA[Marketing post 1 for beadedcloud environmental intelligence]]></title>
+        <id>https://www.beaded.cloud/</id>
+        <link href="https://www.beaded.cloud/"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open AI Agent Broke into Hugging Face’s Infrastructure, and Nobody was Driving]]></title>
-        <id>https://pub.towardsai.net/open-ai-agent-broke-into-hugging-faces-infrastructure-and-nobody-was-driving-3d27f9f73b9c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/open-ai-agent-broke-into-hugging-faces-infrastructure-and-nobody-was-driving-3d27f9f73b9c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Kill Chain: How AI Is Transforming Modern Warfare [video]]]></title>
+        <id>https://www.youtube.com/watch?v=xjhywQlzJYo</id>
+        <link href="https://www.youtube.com/watch?v=xjhywQlzJYo"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[llm-mcp-client 0.1a0]]></title>
-        <id>https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything"/>
+        <title type="html"><![CDATA[Chiavari News – le notizie di oggi dal Tigullio]]></title>
+        <id>https://chiavarinews.com/</id>
+        <link href="https://chiavarinews.com/"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oxide and Friends: The Open Weight Revolution with Simon Willison]]></title>
-        <id>https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything"/>
+        <title type="html"><![CDATA[Show HN: I rewrote my ML web apps to run in-browser and deleted the server]]></title>
+        <id>https://aegishumanai.com/</id>
+        <link href="https://aegishumanai.com/"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)]]></title>
-        <id>https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything"/>
+        <title type="html"><![CDATA[Watched movie organiser for Windows CE 2.0 and Windows 98]]></title>
+        <id>https://github.com/PeCeTfull/PocketablePopcorn.NET</id>
+        <link href="https://github.com/PeCeTfull/PocketablePopcorn.NET"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free Online Tool to Convert Images to PDF & Share Files Fast]]></title>
-        <id>https://dev.to/phuoc_duy_befbe52417306d3/free-online-tool-to-convert-images-to-pdf-share-files-fast-20k</id>
-        <link href="https://dev.to/phuoc_duy_befbe52417306d3/free-online-tool-to-convert-images-to-pdf-share-files-fast-20k"/>
+        <title type="html"><![CDATA[Ask HN: Why did Fastify never get more hype?]]></title>
+        <id>https://news.ycombinator.com/item?id=49132701</id>
+        <link href="https://news.ycombinator.com/item?id=49132701"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DISCUSSION AND DOM TASK]]></title>
-        <id>https://dev.to/shobika_003/discussion-and-dom-task-2nj3</id>
-        <link href="https://dev.to/shobika_003/discussion-and-dom-task-2nj3"/>
+        <title type="html"><![CDATA[DOJ to dismiss Reflecting Pool vandalism case, 'botched installation' to blame]]></title>
+        <id>https://text.npr.org/nx-s1-5915828</id>
+        <link href="https://text.npr.org/nx-s1-5915828"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Turned Your GitHub Profile Into a Detective Case File (And the Verdict Might Hurt)]]></title>
-        <id>https://dev.to/buildsby_mariam/i-turned-your-github-profile-into-a-detective-case-file-and-the-verdict-might-hurt-2o1k</id>
-        <link href="https://dev.to/buildsby_mariam/i-turned-your-github-profile-into-a-detective-case-file-and-the-verdict-might-hurt-2o1k"/>
+        <title type="html"><![CDATA[The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI]]></title>
+        <id>https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79</id>
+        <link href="https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's in a Name: A Guide to the Many Flavours of TeX]]></title>
+        <id>https://www.overleaf.com/learn/latex/Articles/What%27s_in_a_Name%3A_A_Guide_to_the_Many_Flavours_of_TeX</id>
+        <link href="https://www.overleaf.com/learn/latex/Articles/What%27s_in_a_Name%3A_A_Guide_to_the_Many_Flavours_of_TeX"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accepting a Messy Git History]]></title>
+        <id>https://beza1e1.tuxen.de/git_two_users.html</id>
+        <link href="https://beza1e1.tuxen.de/git_two_users.html"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Sanitizer – Strip sensitive data from documents locally before an LLM]]></title>
+        <id>https://provexar.ai/sanitizer</id>
+        <link href="https://provexar.ai/sanitizer"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urldn – A URL shortener with analytics and an AI data analyst]]></title>
+        <id>https://waitlist.urldn.com/</id>
+        <link href="https://waitlist.urldn.com/"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yann LeCun on What Comes After LLMs [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ngBraLDqzdI</id>
+        <link href="https://www.youtube.com/watch?v=ngBraLDqzdI"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read the Novels and Forget Everything Else]]></title>
+        <id>https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else</id>
+        <link href="https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zitron: "Everyone Has Been Sold a Lie" on AI [video]]]></title>
+        <id>https://www.youtube.com/watch?v=pHcZpvIfho0</id>
+        <link href="https://www.youtube.com/watch?v=pHcZpvIfho0"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flux9s: A K9s-inspired terminal UI for Flux and GitOps state]]></title>
+        <id>https://flux9s.ca/</id>
+        <link href="https://flux9s.ca/"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privilege Escalation in AWS Elastic Kubernetes Service (2023)]]></title>
+        <id>https://blog.calif.io/p/privilege-escalation-in-eks</id>
+        <link href="https://blog.calif.io/p/privilege-escalation-in-eks"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China's Xi urges military to step up use of unmanned AI technologies]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dfs-Large1: New Frontier for Cybersecurity]]></title>
+        <id>https://depthfirst.com/research/dfs-large-new-model-release</id>
+        <link href="https://depthfirst.com/research/dfs-large-new-model-release"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattack on water systems in multiple states has US officials on edge]]></title>
+        <id>https://www.cnn.com/2026/07/31/politics/sweeping-cyberattack-us-water-systems</id>
+        <link href="https://www.cnn.com/2026/07/31/politics/sweeping-cyberattack-us-water-systems"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audio8 TTS Preview 0.6B]]></title>
+        <id>https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6B-ONNX-INT4</id>
+        <link href="https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6B-ONNX-INT4"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: TikTok Coin Calculator – viewer costs vs. creator earnings]]></title>
+        <id>https://coinvaluecalc.com/</id>
+        <link href="https://coinvaluecalc.com/"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dependency Cultures [video]]]></title>
+        <id>https://www.youtube.com/watch?v=E82ly38YEEQ</id>
+        <link href="https://www.youtube.com/watch?v=E82ly38YEEQ"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UPC grants InterDigital second 11-country injunction against Disney]]></title>
+        <id>https://ipfray.com/breaking-upc-grants-interdigital-second-11-country-injunction-against-disney/</id>
+        <link href="https://ipfray.com/breaking-upc-grants-interdigital-second-11-country-injunction-against-disney/"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast Rust Library for PDF text extraction]]></title>
+        <id>https://github.com/firecrawl/pdf-inspector</id>
+        <link href="https://github.com/firecrawl/pdf-inspector"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fall of Civilisations: Majapahit – Empire of the Islands [video]]]></title>
+        <id>https://www.youtube.com/watch?v=01CZBhZM430</id>
+        <link href="https://www.youtube.com/watch?v=01CZBhZM430"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Applied Electrodynamics (YC S26) A new kind of camera that can see through walls]]></title>
+        <id>https://twitter.com/bavser/status/2082868602240385526</id>
+        <link href="https://twitter.com/bavser/status/2082868602240385526"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI's work on Git for large repositories]]></title>
+        <id>https://openai-git-upstream.openai.chatgpt.site/</id>
+        <link href="https://openai-git-upstream.openai.chatgpt.site/"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a local positioning system to track runners using Ultra-Wideband]]></title>
+        <id>https://zeus.ugent.be/blog/25-26/12urenloop-uwb/</id>
+        <link href="https://zeus.ugent.be/blog/25-26/12urenloop-uwb/"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)]]></title>
+        <id>https://github.com/pochenai/nano-llm-posttraining</id>
+        <link href="https://github.com/pochenai/nano-llm-posttraining"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrate LLM into your Python runtime]]></title>
+        <id>https://github.com/MiskaKan/thinair</id>
+        <link href="https://github.com/MiskaKan/thinair"/>
+        <updated>2026-07-31T16:00:00.000Z</updated>
+        <published>2026-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RipGrep musl binaries occasionally segfault during very-large searches]]></title>
+        <id>https://github.com/BurntSushi/ripgrep/issues/3494</id>
+        <link href="https://github.com/BurntSushi/ripgrep/issues/3494"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
