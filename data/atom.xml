@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-02T02:01:01.416Z</updated>
+    <updated>2026-08-02T04:01:37.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,58 +43,51 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASRock BC-250: Building the Budget Steam Machine]]></title>
-        <id>https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/</id>
-        <link href="https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/"/>
+        <title type="html"><![CDATA[Futurism says Meta has "almost nothing" to show for AI. The numbers say]]></title>
+        <id>https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise</id>
+        <link href="https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: ChatGPT free tier just stopped working, is this just me?]]></title>
-        <id>https://news.ycombinator.com/item?id=49140202</id>
-        <link href="https://news.ycombinator.com/item?id=49140202"/>
+        <title type="html"><![CDATA[AI Models as Commodities]]></title>
+        <id>https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war</id>
+        <link href="https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Model the True Cost per Token Across GPU Architectures]]></title>
-        <id>https://www.softwareseni.com/inference-economics-how-to-model-the-true-cost-per-token-across-gpu-architectures/</id>
-        <link href="https://www.softwareseni.com/inference-economics-how-to-model-the-true-cost-per-token-across-gpu-architectures/"/>
+        <title type="html"><![CDATA[Large language models can predict the results of social science experiments]]></title>
+        <id>https://www.nature.com/articles/s41586-026-10742-x</id>
+        <link href="https://www.nature.com/articles/s41586-026-10742-x"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast access to Trump's 'Truth Social' posts goes on sale for $100k per month]]></title>
-        <id>https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month</id>
-        <link href="https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month"/>
+        <title type="html"><![CDATA[MkLinux and the pimped-out Apple Workgroup Server 9150]]></title>
+        <id>http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</id>
+        <link href="http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guix shell now inside Emacs]]></title>
-        <id>https://tusharhero.codeberg.page/guix-shell-in-emacs.html</id>
-        <link href="https://tusharhero.codeberg.page/guix-shell-in-emacs.html"/>
+        <title type="html"><![CDATA[Plug-in solar is coming. Plug-in batteries should follow]]></title>
+        <id>https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow</id>
+        <link href="https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Meta AI via WhatsApp for OpenCode]]></title>
-        <id>https://github.com/amita-seal/wa-metaai</id>
-        <link href="https://github.com/amita-seal/wa-metaai"/>
+        <title type="html"><![CDATA[Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific]]></title>
+        <id>https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#</id>
+        <link href="https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If technology got better, why did everything get worse?]]></title>
-        <id>https://www.sammystraus.com/#if-technology-got-better-why-did-everything-get-worse</id>
-        <link href="https://www.sammystraus.com/#if-technology-got-better-why-did-everything-get-worse"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Presigned URLs are technically a security vuln]]></title>
-        <id>https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</id>
-        <link href="https://www.tigrisdata.com/blog/presigned-urls-security-vuln/"/>
+        <title type="html"><![CDATA[Conor Oberst Survived Teenage Rock Stardom]]></title>
+        <id>https://www.nytimes.com/2026/07/24/arts/music/conor-oberst-bright-eyes-interview-popcast.html</id>
+        <link href="https://www.nytimes.com/2026/07/24/arts/music/conor-oberst-bright-eyes-interview-popcast.html"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
@@ -106,9 +99,58 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conor Oberst Survived Teenage Rock Stardom]]></title>
-        <id>https://www.nytimes.com/2026/07/24/arts/music/conor-oberst-bright-eyes-interview-popcast.html</id>
-        <link href="https://www.nytimes.com/2026/07/24/arts/music/conor-oberst-bright-eyes-interview-popcast.html"/>
+        <title type="html"><![CDATA[Presigned URLs are technically a security vuln]]></title>
+        <id>https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</id>
+        <link href="https://www.tigrisdata.com/blog/presigned-urls-security-vuln/"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If technology got better, why did everything get worse?]]></title>
+        <id>https://www.sammystraus.com/#if-technology-got-better-why-did-everything-get-worse</id>
+        <link href="https://www.sammystraus.com/#if-technology-got-better-why-did-everything-get-worse"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Meta AI via WhatsApp for OpenCode]]></title>
+        <id>https://github.com/amita-seal/wa-metaai</id>
+        <link href="https://github.com/amita-seal/wa-metaai"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guix shell now inside Emacs]]></title>
+        <id>https://tusharhero.codeberg.page/guix-shell-in-emacs.html</id>
+        <link href="https://tusharhero.codeberg.page/guix-shell-in-emacs.html"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast access to Trump's 'Truth Social' posts goes on sale for $100k per month]]></title>
+        <id>https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month</id>
+        <link href="https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Model the True Cost per Token Across GPU Architectures]]></title>
+        <id>https://www.softwareseni.com/inference-economics-how-to-model-the-true-cost-per-token-across-gpu-architectures/</id>
+        <link href="https://www.softwareseni.com/inference-economics-how-to-model-the-true-cost-per-token-across-gpu-architectures/"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: ChatGPT free tier just stopped working, is this just me?]]></title>
+        <id>https://news.ycombinator.com/item?id=49140202</id>
+        <link href="https://news.ycombinator.com/item?id=49140202"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASRock BC-250: Building the Budget Steam Machine]]></title>
+        <id>https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/</id>
+        <link href="https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[Apps that help you break free from doomscrolling and get active]]></title>
         <id>https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/</id>
         <link href="https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archaeologists Find Ancient Glyphs in the Amazon]]></title>
-        <id>https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html</id>
-        <link href="https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Age of Technology Companies]]></title>
-        <id>https://shxxxjin.substack.com/p/the-age-of-technology-companies</id>
-        <link href="https://shxxxjin.substack.com/p/the-age-of-technology-companies"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Official ModRetro M64 Deep Dive: Console, Controller, Games [video]]]></title>
-        <id>https://www.youtube.com/watch?v=9gOJUEcKYRk</id>
-        <link href="https://www.youtube.com/watch?v=9gOJUEcKYRk"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fetch Needs Error Codes]]></title>
-        <id>http://www.jasnell.me/posts/fetch-needs-error-codes</id>
-        <link href="http://www.jasnell.me/posts/fetch-needs-error-codes"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reviewing finished tasks from last week in org-agenda and Emacs]]></title>
-        <id>https://ashishpanigrahi.com/blog/done-items-org-agenda/</id>
-        <link href="https://ashishpanigrahi.com/blog/done-items-org-agenda/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[List of Style Guides]]></title>
-        <id>https://en.wikipedia.org/wiki/List_of_style_guides</id>
-        <link href="https://en.wikipedia.org/wiki/List_of_style_guides"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-08-02 10:01:00。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-08-02 12:01:36。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -488,8 +488,8 @@ https://github.com/pinceladasdaweb/rabbitmq
 - [【GitHub Trending JS】GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
 - [【Towards AI】SEO-vs.-AI-SEO:-A-Framework-for-Winning-AI-Search-in-2026](https://pub.towardsai.net/seo-vs-ai-seo-a-framework-for-winning-ai-search-in-2026-77a699b40be1?source=rss----98111c9905da---4)
 - [【Hacker News】Show-HN:-DispatchSEO-–-open-source-SEO-manager-tool-for-Claude-Code](https://github.com/NeoZi12/dispatchseo)
-- [【Hacker News】Show-HN:-A-Chrome-extension-for-LeetCode-with-context-aware-hints-and-mock-in](https://leetcopilot.dev)
 - [【Hacker News】LaunchRanks-–-Get-actionable-SEO-steps-for-growing-site-authority](https://launchranks.com)
+- [【Hacker News】Show-HN:-A-Chrome-extension-for-LeetCode-with-context-aware-hints-and-mock-in](https://leetcopilot.dev)
 - [【Hacker News】Accidentally-built-a-500-site-SEO-mesh-network-and-got-3k-visits-in-14-days](https://visionvix.com/seo-mesh-network/)
 - [【Hacker News】OpenSEO](https://themarketingnewsletter.org/p/openseo-the-open-source-alternative)
 - [【Hacker News】Free,-comprehensive-SEO-analysis-of-your-website-no-signup,-100-checks](https://www.upstart.quest/en/free-seo-analysis)

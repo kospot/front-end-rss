@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-02 10:01:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-02 12:01:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -67,7 +67,7 @@ https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know
 - [2026-07-07-MCP-Fundamentals:-Building-a-TypeScript-MCP-Server-with-Tools,-Resources,-Prompts,-Sampling,-and…](https://pub.towardsai.net/mcp-fundamentals-building-a-typescript-mcp-server-with-tools-resources-prompts-sampling-and-9dd670f86fc7?source=rss----98111c9905da---4) 
 - [2026-07-31-I-Migrated-a-350k-Line-Java/JSP-Application-to-TypeScript-in-Five-Days](https://gokulakrishna.co/2026/07/31/migrated-350000-line-java-jsp-application-typescript-five-days/) 
 - [2026-07-27-Show-HN:-Injectable-time-and-timers-with-custom-Date-types-for-TypeScript](https://github.com/jaenyf/time-provider) 
-- [2026-07-11-Red-is-a-TypeScript/Bun-library-for-building-idempotent-DevOps-CLIs](https://github.com/amiorin/red) 
 - [2026-07-11-Revving-up-Microsoft's-10x-faster-TypeScript-7](https://www.infoworld.com/article/4194567/revving-up-microsofts-10x-faster-typescript-7.html) 
-- [2026-07-04-You-don't-need-Electron-to-build-native-apps-in-TypeScript-video](https://www.youtube.com/watch?v=o5RDfAmzE7s) 
+- [2026-07-11-Red-is-a-TypeScript/Bun-library-for-building-idempotent-DevOps-CLIs](https://github.com/amiorin/red) 
 - [2026-07-04-BrickSlider-–-TypeScript-first,-Tailwind-first-carousel](https://sixsrc.github.io/brickslider/) 
+- [2026-07-04-You-don't-need-Electron-to-build-native-apps-in-TypeScript-video](https://www.youtube.com/watch?v=o5RDfAmzE7s) 
