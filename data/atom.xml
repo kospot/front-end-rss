@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-02T04:01:37.356Z</updated>
+    <updated>2026-08-02T07:02:42.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -176,13 +176,6 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ten advances in mathematics and theoretical computer science]]></title>
-        <id>https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[datasette-apps 0.2a0]]></title>
         <id>https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything</id>
         <link href="https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything"/>
@@ -190,100 +183,65 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Floating Tab Bar for React Native — One Component for Expo Router AND React Navigation]]></title>
-        <id>https://dev.to/bhavinpethani/a-floating-tab-bar-for-react-native-one-component-for-expo-router-and-react-navigation-14ee</id>
-        <link href="https://dev.to/bhavinpethani/a-floating-tab-bar-for-react-native-one-component-for-expo-router-and-react-navigation-14ee"/>
+        <title type="html"><![CDATA[Ten advances in mathematics and theoretical computer science]]></title>
+        <id>https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A FAB is not a special widget — it is one plain button pinned to a corner, and one boolean opens the whole speed-dial]]></title>
-        <id>https://dev.to/dev48v/a-fab-is-not-a-special-widget-it-is-one-plain-button-pinned-to-a-corner-and-one-boolean-opens-p2g</id>
-        <link href="https://dev.to/dev48v/a-fab-is-not-a-special-widget-it-is-one-plain-button-pinned-to-a-corner-and-one-boolean-opens-p2g"/>
+        <title type="html"><![CDATA[Your cron expression can be valid and still never run]]></title>
+        <id>https://dev.to/takeaseatventure/your-cron-expression-can-be-valid-and-still-never-run-4alg</id>
+        <link href="https://dev.to/takeaseatventure/your-cron-expression-can-be-valid-and-still-never-run-4alg"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There is no level in the code — only five plain arrays and a clock, and a whole tower-defense game falls out of them]]></title>
-        <id>https://dev.to/dev48v/there-is-no-level-in-the-code-only-five-plain-arrays-and-a-clock-and-a-whole-tower-defense-game-509o</id>
-        <link href="https://dev.to/dev48v/there-is-no-level-in-the-code-only-five-plain-arrays-and-a-clock-and-a-whole-tower-defense-game-509o"/>
+        <title type="html"><![CDATA[We published 1,360 blog posts in a day. Google indexed 69.]]></title>
+        <id>https://dev.to/zugodev/we-published-1360-blog-posts-in-a-day-google-indexed-69-2ded</id>
+        <link href="https://dev.to/zugodev/we-published-1360-blog-posts-in-a-day-google-indexed-69-2ded"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Is ""2" > "10"" "true" in JavaScript?]]></title>
-        <id>https://dev.to/princesingh_4325/how-is-2-10-true-in-javascript-5ce4</id>
-        <link href="https://dev.to/princesingh_4325/how-is-2-10-true-in-javascript-5ce4"/>
+        <title type="html"><![CDATA[Fasteners Bolts Nuts Washers Sheet Metal Components, Auto Parts in India Ludhiana Punjab, Peenya, Bangalore, Karnataka]]></title>
+        <id>https://dev.to/skfast7889/fasteners-bolts-nuts-washers-sheet-metal-components-auto-parts-in-india-ludhiana-punjab-peenya-2mi7</id>
+        <link href="https://dev.to/skfast7889/fasteners-bolts-nuts-washers-sheet-metal-components-auto-parts-in-india-ludhiana-punjab-peenya-2mi7"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Express vs Django: What I Learned Comparing the Two]]></title>
-        <id>https://dev.to/sayan-dev/express-vs-django-what-i-learned-comparing-the-two-pn4</id>
-        <link href="https://dev.to/sayan-dev/express-vs-django-what-i-learned-comparing-the-two-pn4"/>
+        <title type="html"><![CDATA[A dependency-free JavaScript helper for concrete calculator embeds]]></title>
+        <id>https://dev.to/hp_xu_0a69d170a2da1fc41bc/a-dependency-free-javascript-helper-for-concrete-calculator-embeds-50en</id>
+        <link href="https://dev.to/hp_xu_0a69d170a2da1fc41bc/a-dependency-free-javascript-helper-for-concrete-calculator-embeds-50en"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grandma's Recipes: Building a Cozy Recipe Landing Page with React & Vite]]></title>
-        <id>https://dev.to/thiagofogaca/grandmas-recipes-building-a-cozy-recipe-landing-page-with-react-vite-hj5</id>
-        <link href="https://dev.to/thiagofogaca/grandmas-recipes-building-a-cozy-recipe-landing-page-with-react-vite-hj5"/>
+        <title type="html"><![CDATA[Node.js Runs TypeScript Now: Field Notes on Native Type Stripping]]></title>
+        <id>https://dev.to/ahmed_mahmoud360/nodejs-runs-typescript-now-field-notes-on-native-type-stripping-8b4</id>
+        <link href="https://dev.to/ahmed_mahmoud360/nodejs-runs-typescript-now-field-notes-on-native-type-stripping-8b4"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unicode in JS]]></title>
-        <id>https://dev.to/astro_cat/unicode-in-js-4loi</id>
-        <link href="https://dev.to/astro_cat/unicode-in-js-4loi"/>
+        <title type="html"><![CDATA[Claude Code in CI: Running Agentic Code Review, Test Generation, and Auto-Fix on Every Pull Request]]></title>
+        <id>https://dev.to/jsmanifest/claude-code-in-ci-running-agentic-code-review-test-generation-and-auto-fix-on-every-pull-request-1de3</id>
+        <link href="https://dev.to/jsmanifest/claude-code-in-ci-running-agentic-code-review-test-generation-and-auto-fix-on-every-pull-request-1de3"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast Solana to TRON Cross-Chain Swap Guide]]></title>
-        <id>https://dev.to/dian_warren_edfae3d6e88a9/fast-solana-to-tron-cross-chain-swap-guide-3m1c</id>
-        <link href="https://dev.to/dian_warren_edfae3d6e88a9/fast-solana-to-tron-cross-chain-swap-guide-3m1c"/>
+        <title type="html"><![CDATA[Buy Verified KuCoin Accounts With Clean History:]]></title>
+        <id>https://dev.to/usasvcit3fr/buy-verified-kucoin-accounts-with-clean-history-4b9n</id>
+        <link href="https://dev.to/usasvcit3fr/buy-verified-kucoin-accounts-with-clean-history-4b9n"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Comfort Atlas: What Does Home Taste Like?]]></title>
-        <id>https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i</id>
-        <link href="https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can RSCs Make Next.js Feel Faster?]]></title>
-        <id>https://dev.to/erfanebrahimnia/can-rscs-make-nextjs-feel-faster-2b2f</id>
-        <link href="https://dev.to/erfanebrahimnia/can-rscs-make-nextjs-feel-faster-2b2f"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temporize, Promise-aware debounce and throttle for TypeScript]]></title>
-        <id>https://dev.to/nyvexis1/temporize-promise-aware-debounce-and-throttle-for-typescript-24bf</id>
-        <link href="https://dev.to/nyvexis1/temporize-promise-aware-debounce-and-throttle-for-typescript-24bf"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why We Built KBFixer: A 100% In-Browser File & Image Optimizer (No Server Uploads)]]></title>
-        <id>https://dev.to/akshatraj00/why-we-built-kbfixer-a-100-in-browser-file-image-optimizer-no-server-uploads-4m7l</id>
-        <link href="https://dev.to/akshatraj00/why-we-built-kbfixer-a-100-in-browser-file-image-optimizer-no-server-uploads-4m7l"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From animated HTML+CSS to video frames, in the browser]]></title>
-        <id>https://dev.to/francozanardi/from-animated-htmlcss-to-video-frames-in-the-browser-j7k</id>
-        <link href="https://dev.to/francozanardi/from-animated-htmlcss-to-video-frames-in-the-browser-j7k"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Web Scrapers Keep Breaking (And How to Build Self-Healing TypeScript Agents Using LLMs and Playwright)]]></title>
-        <id>https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2</id>
-        <link href="https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2"/>
+        <title type="html"><![CDATA[How I Turned a Cluttered Browser Workflow Into a Chrome Extension With 83 Tools]]></title>
+        <id>https://dev.to/ademisler/how-i-turned-a-cluttered-browser-workflow-into-a-chrome-extension-with-83-tools-28c2</id>
+        <link href="https://dev.to/ademisler/how-i-turned-a-cluttered-browser-workflow-into-a-chrome-extension-with-83-tools-28c2"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
@@ -295,9 +253,100 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Turned a Cluttered Browser Workflow Into a Chrome Extension With 83 Tools]]></title>
-        <id>https://dev.to/ademisler/how-i-turned-a-cluttered-browser-workflow-into-a-chrome-extension-with-83-tools-28c2</id>
-        <link href="https://dev.to/ademisler/how-i-turned-a-cluttered-browser-workflow-into-a-chrome-extension-with-83-tools-28c2"/>
+        <title type="html"><![CDATA[Why Your Web Scrapers Keep Breaking (And How to Build Self-Healing TypeScript Agents Using LLMs and Playwright)]]></title>
+        <id>https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2</id>
+        <link href="https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From animated HTML+CSS to video frames, in the browser]]></title>
+        <id>https://dev.to/francozanardi/from-animated-htmlcss-to-video-frames-in-the-browser-j7k</id>
+        <link href="https://dev.to/francozanardi/from-animated-htmlcss-to-video-frames-in-the-browser-j7k"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why We Built KBFixer: A 100% In-Browser File & Image Optimizer (No Server Uploads)]]></title>
+        <id>https://dev.to/akshatraj00/why-we-built-kbfixer-a-100-in-browser-file-image-optimizer-no-server-uploads-4m7l</id>
+        <link href="https://dev.to/akshatraj00/why-we-built-kbfixer-a-100-in-browser-file-image-optimizer-no-server-uploads-4m7l"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporize, Promise-aware debounce and throttle for TypeScript]]></title>
+        <id>https://dev.to/nyvexis1/temporize-promise-aware-debounce-and-throttle-for-typescript-24bf</id>
+        <link href="https://dev.to/nyvexis1/temporize-promise-aware-debounce-and-throttle-for-typescript-24bf"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can RSCs Make Next.js Feel Faster?]]></title>
+        <id>https://dev.to/erfanebrahimnia/can-rscs-make-nextjs-feel-faster-2b2f</id>
+        <link href="https://dev.to/erfanebrahimnia/can-rscs-make-nextjs-feel-faster-2b2f"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Comfort Atlas: What Does Home Taste Like?]]></title>
+        <id>https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i</id>
+        <link href="https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast Solana to TRON Cross-Chain Swap Guide]]></title>
+        <id>https://dev.to/dian_warren_edfae3d6e88a9/fast-solana-to-tron-cross-chain-swap-guide-3m1c</id>
+        <link href="https://dev.to/dian_warren_edfae3d6e88a9/fast-solana-to-tron-cross-chain-swap-guide-3m1c"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unicode in JS]]></title>
+        <id>https://dev.to/astro_cat/unicode-in-js-4loi</id>
+        <link href="https://dev.to/astro_cat/unicode-in-js-4loi"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grandma's Recipes: Building a Cozy Recipe Landing Page with React & Vite]]></title>
+        <id>https://dev.to/thiagofogaca/grandmas-recipes-building-a-cozy-recipe-landing-page-with-react-vite-hj5</id>
+        <link href="https://dev.to/thiagofogaca/grandmas-recipes-building-a-cozy-recipe-landing-page-with-react-vite-hj5"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Express vs Django: What I Learned Comparing the Two]]></title>
+        <id>https://dev.to/sayan-dev/express-vs-django-what-i-learned-comparing-the-two-pn4</id>
+        <link href="https://dev.to/sayan-dev/express-vs-django-what-i-learned-comparing-the-two-pn4"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Is ""2" > "10"" "true" in JavaScript?]]></title>
+        <id>https://dev.to/princesingh_4325/how-is-2-10-true-in-javascript-5ce4</id>
+        <link href="https://dev.to/princesingh_4325/how-is-2-10-true-in-javascript-5ce4"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There is no level in the code — only five plain arrays and a clock, and a whole tower-defense game falls out of them]]></title>
+        <id>https://dev.to/dev48v/there-is-no-level-in-the-code-only-five-plain-arrays-and-a-clock-and-a-whole-tower-defense-game-509o</id>
+        <link href="https://dev.to/dev48v/there-is-no-level-in-the-code-only-five-plain-arrays-and-a-clock-and-a-whole-tower-defense-game-509o"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A FAB is not a special widget — it is one plain button pinned to a corner, and one boolean opens the whole speed-dial]]></title>
+        <id>https://dev.to/dev48v/a-fab-is-not-a-special-widget-it-is-one-plain-button-pinned-to-a-corner-and-one-boolean-opens-p2g</id>
+        <link href="https://dev.to/dev48v/a-fab-is-not-a-special-widget-it-is-one-plain-button-pinned-to-a-corner-and-one-boolean-opens-p2g"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Floating Tab Bar for React Native — One Component for Expo Router AND React Navigation]]></title>
+        <id>https://dev.to/bhavinpethani/a-floating-tab-bar-for-react-native-one-component-for-expo-router-and-react-navigation-14ee</id>
+        <link href="https://dev.to/bhavinpethani/a-floating-tab-bar-for-react-native-one-component-for-expo-router-and-react-navigation-14ee"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
@@ -312,55 +361,6 @@
         <title type="html"><![CDATA[Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount]]></title>
         <id>https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale</id>
         <link href="https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Verge’s 2026 back-to-school shopping guide]]></title>
-        <id>https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts</id>
-        <link href="https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Organic Mattresses (2026): Certified Nontoxic, Natural Sleep]]></title>
-        <id>https://www.wired.com/story/best-organic-mattress/</id>
-        <link href="https://www.wired.com/story/best-organic-mattress/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran]]></title>
-        <id>https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/</id>
-        <link href="https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astronomers Have Detected an Exomoon for the First Time]]></title>
-        <id>https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/</id>
-        <link href="https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alienware 15 Gaming Laptop Review: Hedging Its Bets]]></title>
-        <id>https://www.wired.com/review/alienware-15-gaming-laptop/</id>
-        <link href="https://www.wired.com/review/alienware-15-gaming-laptop/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This $9 key physically locks your most addictive apps]]></title>
-        <id>https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/</id>
-        <link href="https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apps that help you break free from doomscrolling and get active]]></title>
-        <id>https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/</id>
-        <link href="https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
