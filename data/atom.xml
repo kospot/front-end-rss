@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-01T22:01:10.895Z</updated>
+    <updated>2026-08-02T00:01:39.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,9 +78,9 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China Just Released the Largest Open-Weight AI Model Ever I Tried It on Real Code Before I Believed…]]></title>
-        <id>https://pub.towardsai.net/china-just-released-the-largest-open-weight-ai-model-ever-i-tried-it-on-real-code-before-i-believed-f01034c6b999?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/china-just-released-the-largest-open-weight-ai-model-ever-i-tried-it-on-real-code-before-i-believed-f01034c6b999?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Embodied AI Agent Architecture: Build Physical-World AI Without Treating Robots Like Chatbots]]></title>
+        <id>https://pub.towardsai.net/embodied-ai-agent-architecture-build-physical-world-ai-without-treating-robots-like-chatbots-ec67a900a3fb?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/embodied-ai-agent-architecture-build-physical-world-ai-without-treating-robots-like-chatbots-ec67a900a3fb?source=rss----98111c9905da---4"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
@@ -92,9 +92,9 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[datasette-apps 0.2a0]]></title>
-        <id>https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything</id>
-        <link href="https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything"/>
+        <title type="html"><![CDATA[China Just Released the Largest Open-Weight AI Model Ever I Tried It on Real Code Before I Believed…]]></title>
+        <id>https://pub.towardsai.net/china-just-released-the-largest-open-weight-ai-model-ever-i-tried-it-on-real-code-before-i-believed-f01034c6b999?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/china-just-released-the-largest-open-weight-ai-model-ever-i-tried-it-on-real-code-before-i-believed-f01034c6b999?source=rss----98111c9905da---4"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
@@ -106,51 +106,23 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unicode in JS]]></title>
-        <id>https://dev.to/astro_cat/unicode-in-js-4loi</id>
-        <link href="https://dev.to/astro_cat/unicode-in-js-4loi"/>
+        <title type="html"><![CDATA[datasette-apps 0.2a0]]></title>
+        <id>https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast Solana to TRON Cross-Chain Swap Guide]]></title>
-        <id>https://dev.to/dian_warren_edfae3d6e88a9/fast-solana-to-tron-cross-chain-swap-guide-3m1c</id>
-        <link href="https://dev.to/dian_warren_edfae3d6e88a9/fast-solana-to-tron-cross-chain-swap-guide-3m1c"/>
+        <title type="html"><![CDATA[How I Turned a Cluttered Browser Workflow Into a Chrome Extension With 83 Tools]]></title>
+        <id>https://dev.to/ademisler/how-i-turned-a-cluttered-browser-workflow-into-a-chrome-extension-with-83-tools-28c2</id>
+        <link href="https://dev.to/ademisler/how-i-turned-a-cluttered-browser-workflow-into-a-chrome-extension-with-83-tools-28c2"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Comfort Atlas: What Does Home Taste Like?]]></title>
-        <id>https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i</id>
-        <link href="https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can RSCs Make Next.js Feel Faster?]]></title>
-        <id>https://dev.to/erfanebrahimnia/can-rscs-make-nextjs-feel-faster-2b2f</id>
-        <link href="https://dev.to/erfanebrahimnia/can-rscs-make-nextjs-feel-faster-2b2f"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temporize, Promise-aware debounce and throttle for TypeScript]]></title>
-        <id>https://dev.to/nyvexis1/temporize-promise-aware-debounce-and-throttle-for-typescript-24bf</id>
-        <link href="https://dev.to/nyvexis1/temporize-promise-aware-debounce-and-throttle-for-typescript-24bf"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why We Built KBFixer: A 100% In-Browser File & Image Optimizer (No Server Uploads)]]></title>
-        <id>https://dev.to/akshatraj00/why-we-built-kbfixer-a-100-in-browser-file-image-optimizer-no-server-uploads-4m7l</id>
-        <link href="https://dev.to/akshatraj00/why-we-built-kbfixer-a-100-in-browser-file-image-optimizer-no-server-uploads-4m7l"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From animated HTML+CSS to video frames, in the browser]]></title>
-        <id>https://dev.to/francozanardi/from-animated-htmlcss-to-video-frames-in-the-browser-j7k</id>
-        <link href="https://dev.to/francozanardi/from-animated-htmlcss-to-video-frames-in-the-browser-j7k"/>
+        <title type="html"><![CDATA[I Built a Quiz Game With Vanilla JavaScript — Here's What I Learned]]></title>
+        <id>https://dev.to/praise-04-dev/i-built-a-quiz-game-with-vanilla-javascript-heres-what-i-learned-23l5</id>
+        <link href="https://dev.to/praise-04-dev/i-built-a-quiz-game-with-vanilla-javascript-heres-what-i-learned-23l5"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
@@ -162,9 +134,51 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Quiz Game With Vanilla JavaScript — Here's What I Learned]]></title>
-        <id>https://dev.to/praise-04-dev/i-built-a-quiz-game-with-vanilla-javascript-heres-what-i-learned-23l5</id>
-        <link href="https://dev.to/praise-04-dev/i-built-a-quiz-game-with-vanilla-javascript-heres-what-i-learned-23l5"/>
+        <title type="html"><![CDATA[From animated HTML+CSS to video frames, in the browser]]></title>
+        <id>https://dev.to/francozanardi/from-animated-htmlcss-to-video-frames-in-the-browser-j7k</id>
+        <link href="https://dev.to/francozanardi/from-animated-htmlcss-to-video-frames-in-the-browser-j7k"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why We Built KBFixer: A 100% In-Browser File & Image Optimizer (No Server Uploads)]]></title>
+        <id>https://dev.to/akshatraj00/why-we-built-kbfixer-a-100-in-browser-file-image-optimizer-no-server-uploads-4m7l</id>
+        <link href="https://dev.to/akshatraj00/why-we-built-kbfixer-a-100-in-browser-file-image-optimizer-no-server-uploads-4m7l"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporize, Promise-aware debounce and throttle for TypeScript]]></title>
+        <id>https://dev.to/nyvexis1/temporize-promise-aware-debounce-and-throttle-for-typescript-24bf</id>
+        <link href="https://dev.to/nyvexis1/temporize-promise-aware-debounce-and-throttle-for-typescript-24bf"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can RSCs Make Next.js Feel Faster?]]></title>
+        <id>https://dev.to/erfanebrahimnia/can-rscs-make-nextjs-feel-faster-2b2f</id>
+        <link href="https://dev.to/erfanebrahimnia/can-rscs-make-nextjs-feel-faster-2b2f"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Comfort Atlas: What Does Home Taste Like?]]></title>
+        <id>https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i</id>
+        <link href="https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast Solana to TRON Cross-Chain Swap Guide]]></title>
+        <id>https://dev.to/dian_warren_edfae3d6e88a9/fast-solana-to-tron-cross-chain-swap-guide-3m1c</id>
+        <link href="https://dev.to/dian_warren_edfae3d6e88a9/fast-solana-to-tron-cross-chain-swap-guide-3m1c"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unicode in JS]]></title>
+        <id>https://dev.to/astro_cat/unicode-in-js-4loi</id>
+        <link href="https://dev.to/astro_cat/unicode-in-js-4loi"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Dfs-Large1: New Frontier for Cybersecurity]]></title>
         <id>https://depthfirst.com/research/dfs-large-new-model-release</id>
         <link href="https://depthfirst.com/research/dfs-large-new-model-release"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's Xi urges military to step up use of unmanned AI technologies]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-07-31/xi-urges-military-to-step-up-use-of-unmanned-ai-technologies"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privilege Escalation in AWS Elastic Kubernetes Service (2023)]]></title>
-        <id>https://blog.calif.io/p/privilege-escalation-in-eks</id>
-        <link href="https://blog.calif.io/p/privilege-escalation-in-eks"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
