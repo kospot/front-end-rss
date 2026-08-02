@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-02T00:01:39.677Z</updated>
+    <updated>2026-08-02T02:01:01.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,30 +43,37 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conor Oberst Survived Teenage Rock Stardom]]></title>
-        <id>https://www.nytimes.com/2026/07/24/arts/music/conor-oberst-bright-eyes-interview-popcast.html</id>
-        <link href="https://www.nytimes.com/2026/07/24/arts/music/conor-oberst-bright-eyes-interview-popcast.html"/>
+        <title type="html"><![CDATA[ASRock BC-250: Building the Budget Steam Machine]]></title>
+        <id>https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/</id>
+        <link href="https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Evidence-to-Skill – a gate between untrusted sources and agent skills]]></title>
-        <id>https://github.com/Sanexxxx777/evidence-to-skill</id>
-        <link href="https://github.com/Sanexxxx777/evidence-to-skill"/>
+        <title type="html"><![CDATA[Ask HN: ChatGPT free tier just stopped working, is this just me?]]></title>
+        <id>https://news.ycombinator.com/item?id=49140202</id>
+        <link href="https://news.ycombinator.com/item?id=49140202"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Presigned URLs are technically a security vuln]]></title>
-        <id>https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</id>
-        <link href="https://www.tigrisdata.com/blog/presigned-urls-security-vuln/"/>
+        <title type="html"><![CDATA[How to Model the True Cost per Token Across GPU Architectures]]></title>
+        <id>https://www.softwareseni.com/inference-economics-how-to-model-the-true-cost-per-token-across-gpu-architectures/</id>
+        <link href="https://www.softwareseni.com/inference-economics-how-to-model-the-true-cost-per-token-across-gpu-architectures/"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If technology got better, why did everything get worse?]]></title>
-        <id>https://www.sammystraus.com/#if-technology-got-better-why-did-everything-get-worse</id>
-        <link href="https://www.sammystraus.com/#if-technology-got-better-why-did-everything-get-worse"/>
+        <title type="html"><![CDATA[Fast access to Trump's 'Truth Social' posts goes on sale for $100k per month]]></title>
+        <id>https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month</id>
+        <link href="https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guix shell now inside Emacs]]></title>
+        <id>https://tusharhero.codeberg.page/guix-shell-in-emacs.html</id>
+        <link href="https://tusharhero.codeberg.page/guix-shell-in-emacs.html"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
@@ -78,9 +85,37 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Embodied AI Agent Architecture: Build Physical-World AI Without Treating Robots Like Chatbots]]></title>
-        <id>https://pub.towardsai.net/embodied-ai-agent-architecture-build-physical-world-ai-without-treating-robots-like-chatbots-ec67a900a3fb?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/embodied-ai-agent-architecture-build-physical-world-ai-without-treating-robots-like-chatbots-ec67a900a3fb?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[If technology got better, why did everything get worse?]]></title>
+        <id>https://www.sammystraus.com/#if-technology-got-better-why-did-everything-get-worse</id>
+        <link href="https://www.sammystraus.com/#if-technology-got-better-why-did-everything-get-worse"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presigned URLs are technically a security vuln]]></title>
+        <id>https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</id>
+        <link href="https://www.tigrisdata.com/blog/presigned-urls-security-vuln/"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Evidence-to-Skill – a gate between untrusted sources and agent skills]]></title>
+        <id>https://github.com/Sanexxxx777/evidence-to-skill</id>
+        <link href="https://github.com/Sanexxxx777/evidence-to-skill"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conor Oberst Survived Teenage Rock Stardom]]></title>
+        <id>https://www.nytimes.com/2026/07/24/arts/music/conor-oberst-bright-eyes-interview-popcast.html</id>
+        <link href="https://www.nytimes.com/2026/07/24/arts/music/conor-oberst-bright-eyes-interview-popcast.html"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Just Released the Largest Open-Weight AI Model Ever I Tried It on Real Code Before I Believed…]]></title>
+        <id>https://pub.towardsai.net/china-just-released-the-largest-open-weight-ai-model-ever-i-tried-it-on-real-code-before-i-believed-f01034c6b999?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/china-just-released-the-largest-open-weight-ai-model-ever-i-tried-it-on-real-code-before-i-believed-f01034c6b999?source=rss----98111c9905da---4"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
@@ -92,9 +127,9 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China Just Released the Largest Open-Weight AI Model Ever I Tried It on Real Code Before I Believed…]]></title>
-        <id>https://pub.towardsai.net/china-just-released-the-largest-open-weight-ai-model-ever-i-tried-it-on-real-code-before-i-believed-f01034c6b999?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/china-just-released-the-largest-open-weight-ai-model-ever-i-tried-it-on-real-code-before-i-believed-f01034c6b999?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Embodied AI Agent Architecture: Build Physical-World AI Without Treating Robots Like Chatbots]]></title>
+        <id>https://pub.towardsai.net/embodied-ai-agent-architecture-build-physical-world-ai-without-treating-robots-like-chatbots-ec67a900a3fb?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/embodied-ai-agent-architecture-build-physical-world-ai-without-treating-robots-like-chatbots-ec67a900a3fb?source=rss----98111c9905da---4"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
@@ -113,58 +148,51 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Turned a Cluttered Browser Workflow Into a Chrome Extension With 83 Tools]]></title>
-        <id>https://dev.to/ademisler/how-i-turned-a-cluttered-browser-workflow-into-a-chrome-extension-with-83-tools-28c2</id>
-        <link href="https://dev.to/ademisler/how-i-turned-a-cluttered-browser-workflow-into-a-chrome-extension-with-83-tools-28c2"/>
+        <title type="html"><![CDATA[A Floating Tab Bar for React Native — One Component for Expo Router AND React Navigation]]></title>
+        <id>https://dev.to/bhavinpethani/a-floating-tab-bar-for-react-native-one-component-for-expo-router-and-react-navigation-14ee</id>
+        <link href="https://dev.to/bhavinpethani/a-floating-tab-bar-for-react-native-one-component-for-expo-router-and-react-navigation-14ee"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Quiz Game With Vanilla JavaScript — Here's What I Learned]]></title>
-        <id>https://dev.to/praise-04-dev/i-built-a-quiz-game-with-vanilla-javascript-heres-what-i-learned-23l5</id>
-        <link href="https://dev.to/praise-04-dev/i-built-a-quiz-game-with-vanilla-javascript-heres-what-i-learned-23l5"/>
+        <title type="html"><![CDATA[A FAB is not a special widget — it is one plain button pinned to a corner, and one boolean opens the whole speed-dial]]></title>
+        <id>https://dev.to/dev48v/a-fab-is-not-a-special-widget-it-is-one-plain-button-pinned-to-a-corner-and-one-boolean-opens-p2g</id>
+        <link href="https://dev.to/dev48v/a-fab-is-not-a-special-widget-it-is-one-plain-button-pinned-to-a-corner-and-one-boolean-opens-p2g"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Your Web Scrapers Keep Breaking (And How to Build Self-Healing TypeScript Agents Using LLMs and Playwright)]]></title>
-        <id>https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2</id>
-        <link href="https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2"/>
+        <title type="html"><![CDATA[There is no level in the code — only five plain arrays and a clock, and a whole tower-defense game falls out of them]]></title>
+        <id>https://dev.to/dev48v/there-is-no-level-in-the-code-only-five-plain-arrays-and-a-clock-and-a-whole-tower-defense-game-509o</id>
+        <link href="https://dev.to/dev48v/there-is-no-level-in-the-code-only-five-plain-arrays-and-a-clock-and-a-whole-tower-defense-game-509o"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From animated HTML+CSS to video frames, in the browser]]></title>
-        <id>https://dev.to/francozanardi/from-animated-htmlcss-to-video-frames-in-the-browser-j7k</id>
-        <link href="https://dev.to/francozanardi/from-animated-htmlcss-to-video-frames-in-the-browser-j7k"/>
+        <title type="html"><![CDATA[How Is ""2" > "10"" "true" in JavaScript?]]></title>
+        <id>https://dev.to/princesingh_4325/how-is-2-10-true-in-javascript-5ce4</id>
+        <link href="https://dev.to/princesingh_4325/how-is-2-10-true-in-javascript-5ce4"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why We Built KBFixer: A 100% In-Browser File & Image Optimizer (No Server Uploads)]]></title>
-        <id>https://dev.to/akshatraj00/why-we-built-kbfixer-a-100-in-browser-file-image-optimizer-no-server-uploads-4m7l</id>
-        <link href="https://dev.to/akshatraj00/why-we-built-kbfixer-a-100-in-browser-file-image-optimizer-no-server-uploads-4m7l"/>
+        <title type="html"><![CDATA[Express vs Django: What I Learned Comparing the Two]]></title>
+        <id>https://dev.to/sayan-dev/express-vs-django-what-i-learned-comparing-the-two-pn4</id>
+        <link href="https://dev.to/sayan-dev/express-vs-django-what-i-learned-comparing-the-two-pn4"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Temporize, Promise-aware debounce and throttle for TypeScript]]></title>
-        <id>https://dev.to/nyvexis1/temporize-promise-aware-debounce-and-throttle-for-typescript-24bf</id>
-        <link href="https://dev.to/nyvexis1/temporize-promise-aware-debounce-and-throttle-for-typescript-24bf"/>
+        <title type="html"><![CDATA[Grandma's Recipes: Building a Cozy Recipe Landing Page with React & Vite]]></title>
+        <id>https://dev.to/thiagofogaca/grandmas-recipes-building-a-cozy-recipe-landing-page-with-react-vite-hj5</id>
+        <link href="https://dev.to/thiagofogaca/grandmas-recipes-building-a-cozy-recipe-landing-page-with-react-vite-hj5"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can RSCs Make Next.js Feel Faster?]]></title>
-        <id>https://dev.to/erfanebrahimnia/can-rscs-make-nextjs-feel-faster-2b2f</id>
-        <link href="https://dev.to/erfanebrahimnia/can-rscs-make-nextjs-feel-faster-2b2f"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Comfort Atlas: What Does Home Taste Like?]]></title>
-        <id>https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i</id>
-        <link href="https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i"/>
+        <title type="html"><![CDATA[Unicode in JS]]></title>
+        <id>https://dev.to/astro_cat/unicode-in-js-4loi</id>
+        <link href="https://dev.to/astro_cat/unicode-in-js-4loi"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
@@ -176,9 +204,58 @@
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unicode in JS]]></title>
-        <id>https://dev.to/astro_cat/unicode-in-js-4loi</id>
-        <link href="https://dev.to/astro_cat/unicode-in-js-4loi"/>
+        <title type="html"><![CDATA[The Comfort Atlas: What Does Home Taste Like?]]></title>
+        <id>https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i</id>
+        <link href="https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can RSCs Make Next.js Feel Faster?]]></title>
+        <id>https://dev.to/erfanebrahimnia/can-rscs-make-nextjs-feel-faster-2b2f</id>
+        <link href="https://dev.to/erfanebrahimnia/can-rscs-make-nextjs-feel-faster-2b2f"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporize, Promise-aware debounce and throttle for TypeScript]]></title>
+        <id>https://dev.to/nyvexis1/temporize-promise-aware-debounce-and-throttle-for-typescript-24bf</id>
+        <link href="https://dev.to/nyvexis1/temporize-promise-aware-debounce-and-throttle-for-typescript-24bf"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why We Built KBFixer: A 100% In-Browser File & Image Optimizer (No Server Uploads)]]></title>
+        <id>https://dev.to/akshatraj00/why-we-built-kbfixer-a-100-in-browser-file-image-optimizer-no-server-uploads-4m7l</id>
+        <link href="https://dev.to/akshatraj00/why-we-built-kbfixer-a-100-in-browser-file-image-optimizer-no-server-uploads-4m7l"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From animated HTML+CSS to video frames, in the browser]]></title>
+        <id>https://dev.to/francozanardi/from-animated-htmlcss-to-video-frames-in-the-browser-j7k</id>
+        <link href="https://dev.to/francozanardi/from-animated-htmlcss-to-video-frames-in-the-browser-j7k"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Web Scrapers Keep Breaking (And How to Build Self-Healing TypeScript Agents Using LLMs and Playwright)]]></title>
+        <id>https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2</id>
+        <link href="https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Quiz Game With Vanilla JavaScript — Here's What I Learned]]></title>
+        <id>https://dev.to/praise-04-dev/i-built-a-quiz-game-with-vanilla-javascript-heres-what-i-learned-23l5</id>
+        <link href="https://dev.to/praise-04-dev/i-built-a-quiz-game-with-vanilla-javascript-heres-what-i-learned-23l5"/>
+        <updated>2026-08-01T16:00:00.000Z</updated>
+        <published>2026-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Turned a Cluttered Browser Workflow Into a Chrome Extension With 83 Tools]]></title>
+        <id>https://dev.to/ademisler/how-i-turned-a-cluttered-browser-workflow-into-a-chrome-extension-with-83-tools-28c2</id>
+        <link href="https://dev.to/ademisler/how-i-turned-a-cluttered-browser-workflow-into-a-chrome-extension-with-83-tools-28c2"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
@@ -246,121 +323,44 @@
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RFC 10023: The "_for-sale" Underscored and Globally Scoped DNS Node Name]]></title>
-        <id>https://www.rfc-editor.org/info/rfc10023/</id>
-        <link href="https://www.rfc-editor.org/info/rfc10023/"/>
+        <title type="html"><![CDATA[Archaeologists Find Ancient Glyphs in the Amazon]]></title>
+        <id>https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html</id>
+        <link href="https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Field Guide to the AI Security Market]]></title>
-        <id>https://zeltser.com/ai-security-market-field-guide</id>
-        <link href="https://zeltser.com/ai-security-market-field-guide"/>
+        <title type="html"><![CDATA[The Age of Technology Companies]]></title>
+        <id>https://shxxxjin.substack.com/p/the-age-of-technology-companies</id>
+        <link href="https://shxxxjin.substack.com/p/the-age-of-technology-companies"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google AI Overviews have gone from appearing in 15% of searches to 43% now]]></title>
-        <id>https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/</id>
-        <link href="https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"/>
+        <title type="html"><![CDATA[Official ModRetro M64 Deep Dive: Console, Controller, Games [video]]]></title>
+        <id>https://www.youtube.com/watch?v=9gOJUEcKYRk</id>
+        <link href="https://www.youtube.com/watch?v=9gOJUEcKYRk"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RipGrep musl binaries occasionally segfault during very-large searches]]></title>
-        <id>https://github.com/BurntSushi/ripgrep/issues/3494</id>
-        <link href="https://github.com/BurntSushi/ripgrep/issues/3494"/>
+        <title type="html"><![CDATA[Fetch Needs Error Codes]]></title>
+        <id>http://www.jasnell.me/posts/fetch-needs-error-codes</id>
+        <link href="http://www.jasnell.me/posts/fetch-needs-error-codes"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Integrate LLM into your Python runtime]]></title>
-        <id>https://github.com/MiskaKan/thinair</id>
-        <link href="https://github.com/MiskaKan/thinair"/>
+        <title type="html"><![CDATA[Reviewing finished tasks from last week in org-agenda and Emacs]]></title>
+        <id>https://ashishpanigrahi.com/blog/done-items-org-agenda/</id>
+        <link href="https://ashishpanigrahi.com/blog/done-items-org-agenda/"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)]]></title>
-        <id>https://github.com/pochenai/nano-llm-posttraining</id>
-        <link href="https://github.com/pochenai/nano-llm-posttraining"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a local positioning system to track runners using Ultra-Wideband]]></title>
-        <id>https://zeus.ugent.be/blog/25-26/12urenloop-uwb/</id>
-        <link href="https://zeus.ugent.be/blog/25-26/12urenloop-uwb/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI's work on Git for large repositories]]></title>
-        <id>https://openai-git-upstream.openai.chatgpt.site/</id>
-        <link href="https://openai-git-upstream.openai.chatgpt.site/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applied Electrodynamics (YC S26) A new kind of camera that can see through walls]]></title>
-        <id>https://twitter.com/bavser/status/2082868602240385526</id>
-        <link href="https://twitter.com/bavser/status/2082868602240385526"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fall of Civilisations: Majapahit – Empire of the Islands [video]]]></title>
-        <id>https://www.youtube.com/watch?v=01CZBhZM430</id>
-        <link href="https://www.youtube.com/watch?v=01CZBhZM430"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Rust Library for PDF text extraction]]></title>
-        <id>https://github.com/firecrawl/pdf-inspector</id>
-        <link href="https://github.com/firecrawl/pdf-inspector"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UPC grants InterDigital second 11-country injunction against Disney]]></title>
-        <id>https://ipfray.com/breaking-upc-grants-interdigital-second-11-country-injunction-against-disney/</id>
-        <link href="https://ipfray.com/breaking-upc-grants-interdigital-second-11-country-injunction-against-disney/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dependency Cultures [video]]]></title>
-        <id>https://www.youtube.com/watch?v=E82ly38YEEQ</id>
-        <link href="https://www.youtube.com/watch?v=E82ly38YEEQ"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: TikTok Coin Calculator – viewer costs vs. creator earnings]]></title>
-        <id>https://coinvaluecalc.com/</id>
-        <link href="https://coinvaluecalc.com/"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audio8 TTS Preview 0.6B]]></title>
-        <id>https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6B-ONNX-INT4</id>
-        <link href="https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6B-ONNX-INT4"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattack on water systems in multiple states has US officials on edge]]></title>
-        <id>https://www.cnn.com/2026/07/31/politics/sweeping-cyberattack-us-water-systems</id>
-        <link href="https://www.cnn.com/2026/07/31/politics/sweeping-cyberattack-us-water-systems"/>
-        <updated>2026-07-31T16:00:00.000Z</updated>
-        <published>2026-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dfs-Large1: New Frontier for Cybersecurity]]></title>
-        <id>https://depthfirst.com/research/dfs-large-new-model-release</id>
-        <link href="https://depthfirst.com/research/dfs-large-new-model-release"/>
+        <title type="html"><![CDATA[List of Style Guides]]></title>
+        <id>https://en.wikipedia.org/wiki/List_of_style_guides</id>
+        <link href="https://en.wikipedia.org/wiki/List_of_style_guides"/>
         <updated>2026-07-31T16:00:00.000Z</updated>
         <published>2026-07-31T16:00:00.000Z</published>
     </entry>
