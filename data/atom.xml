@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-02T22:01:33.841Z</updated>
+    <updated>2026-08-03T00:01:40.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,13 +64,6 @@
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTTP Status Codes: The Little Numbers That Tell You Everything]]></title>
-        <id>https://pub.towardsai.net/http-status-codes-the-little-numbers-that-tell-you-everything-82738381624d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/http-status-codes-the-little-numbers-that-tell-you-everything-82738381624d?source=rss----98111c9905da---4"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Real AI Story in Academia Isn’t Cheating. It’s Who Gets Discovered.]]></title>
         <id>https://pub.towardsai.net/the-real-ai-story-in-academia-isnt-cheating-it-s-who-gets-discovered-2e24fd76665c?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/the-real-ai-story-in-academia-isnt-cheating-it-s-who-gets-discovered-2e24fd76665c?source=rss----98111c9905da---4"/>
@@ -78,65 +71,30 @@
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a binary heap visualizer: bubble-up, sift-down, and O(n) heapify with the array and tree side by side]]></title>
-        <id>https://dev.to/dev48v/i-built-a-binary-heap-visualizer-bubble-up-sift-down-and-on-heapify-with-the-array-and-tree-37gi</id>
-        <link href="https://dev.to/dev48v/i-built-a-binary-heap-visualizer-bubble-up-sift-down-and-on-heapify-with-the-array-and-tree-37gi"/>
+        <title type="html"><![CDATA[HTTP Status Codes: The Little Numbers That Tell You Everything]]></title>
+        <id>https://pub.towardsai.net/http-status-codes-the-little-numbers-that-tell-you-everything-82738381624d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/http-status-codes-the-little-numbers-that-tell-you-everything-82738381624d?source=rss----98111c9905da---4"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built in-app Polymarket copy trading with MetaMask EIP-712 — no private keys, no redirects, one click]]></title>
-        <id>https://dev.to/manpreet_brar_264e408885a/i-built-in-app-polymarket-copy-trading-with-metamask-eip-712-no-private-keys-no-redirects-one-c21</id>
-        <link href="https://dev.to/manpreet_brar_264e408885a/i-built-in-app-polymarket-copy-trading-with-metamask-eip-712-no-private-keys-no-redirects-one-c21"/>
+        <title type="html"><![CDATA[condense-json 1.0]]></title>
+        <id>https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChocoDEV: a chocolate bar you can eat, in pure CSS]]></title>
-        <id>https://dev.to/vinimabreu/chocodev-a-chocolate-bar-you-can-eat-in-pure-css-dga</id>
-        <link href="https://dev.to/vinimabreu/chocodev-a-chocolate-bar-you-can-eat-in-pure-css-dga"/>
+        <title type="html"><![CDATA[Validar números de teléfono en JavaScript: por qué tu expresión regular está mal]]></title>
+        <id>https://dev.to/ivanindiv/validar-numeros-de-telefono-en-javascript-por-que-tu-expresion-regular-esta-mal-26e2</id>
+        <link href="https://dev.to/ivanindiv/validar-numeros-de-telefono-en-javascript-por-que-tu-expresion-regular-esta-mal-26e2"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trusted Polygon to Ethereum USDC Bridges for Lower Transfer Fees]]></title>
-        <id>https://dev.to/safrwe45435/trusted-polygon-to-ethereum-usdc-bridges-for-lower-transfer-fees-4691</id>
-        <link href="https://dev.to/safrwe45435/trusted-polygon-to-ethereum-usdc-bridges-for-lower-transfer-fees-4691"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Polygon to Ethereum USDC Bridges for Efficient Cross-Chain Transfers]]></title>
-        <id>https://dev.to/safrwe45435/best-polygon-to-ethereum-usdc-bridges-for-efficient-cross-chain-transfers-4odh</id>
-        <link href="https://dev.to/safrwe45435/best-polygon-to-ethereum-usdc-bridges-for-efficient-cross-chain-transfers-4odh"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling AI Beyond the Monolith: Multi-Agent Coordination via Federated MCP Servers]]></title>
-        <id>https://dev.to/programmingcentral/scaling-ai-beyond-the-monolith-multi-agent-coordination-via-federated-mcp-servers-37b7</id>
-        <link href="https://dev.to/programmingcentral/scaling-ai-beyond-the-monolith-multi-agent-coordination-via-federated-mcp-servers-37b7"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript Pipe Function: Composing Functions Without the Nesting Hell]]></title>
-        <id>https://dev.to/thexpert507/typescript-pipe-function-composing-functions-without-the-nesting-hell-5cpd</id>
-        <link href="https://dev.to/thexpert507/typescript-pipe-function-composing-functions-without-the-nesting-hell-5cpd"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Referential Transparency in TypeScript: Software Humans and AI Can Reason About]]></title>
-        <id>https://dev.to/thexpert507/referential-transparency-in-typescript-software-humans-and-ai-can-reason-about-22l</id>
-        <link href="https://dev.to/thexpert507/referential-transparency-in-typescript-software-humans-and-ai-can-reason-about-22l"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing Next.js 15 Apps — The Setup I Actually Use]]></title>
-        <id>https://dev.to/anas_sheikh_2/testing-nextjs-15-apps-the-setup-i-actually-use-1l1n</id>
-        <link href="https://dev.to/anas_sheikh_2/testing-nextjs-15-apps-the-setup-i-actually-use-1l1n"/>
+        <title type="html"><![CDATA[A chip input is a text box and a list fused into one control — built from one plain input and an array of strings]]></title>
+        <id>https://dev.to/dev48v/a-chip-input-is-a-text-box-and-a-list-fused-into-one-control-built-from-one-plain-input-and-an-3bgh</id>
+        <link href="https://dev.to/dev48v/a-chip-input-is-a-text-box-and-a-list-fused-into-one-control-built-from-one-plain-input-and-an-3bgh"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
@@ -148,9 +106,65 @@
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A chip input is a text box and a list fused into one control — built from one plain input and an array of strings]]></title>
-        <id>https://dev.to/dev48v/a-chip-input-is-a-text-box-and-a-list-fused-into-one-control-built-from-one-plain-input-and-an-3bgh</id>
-        <link href="https://dev.to/dev48v/a-chip-input-is-a-text-box-and-a-list-fused-into-one-control-built-from-one-plain-input-and-an-3bgh"/>
+        <title type="html"><![CDATA[Testing Next.js 15 Apps — The Setup I Actually Use]]></title>
+        <id>https://dev.to/anas_sheikh_2/testing-nextjs-15-apps-the-setup-i-actually-use-1l1n</id>
+        <link href="https://dev.to/anas_sheikh_2/testing-nextjs-15-apps-the-setup-i-actually-use-1l1n"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Referential Transparency in TypeScript: Software Humans and AI Can Reason About]]></title>
+        <id>https://dev.to/thexpert507/referential-transparency-in-typescript-software-humans-and-ai-can-reason-about-22l</id>
+        <link href="https://dev.to/thexpert507/referential-transparency-in-typescript-software-humans-and-ai-can-reason-about-22l"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript Pipe Function: Composing Functions Without the Nesting Hell]]></title>
+        <id>https://dev.to/thexpert507/typescript-pipe-function-composing-functions-without-the-nesting-hell-5cpd</id>
+        <link href="https://dev.to/thexpert507/typescript-pipe-function-composing-functions-without-the-nesting-hell-5cpd"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling AI Beyond the Monolith: Multi-Agent Coordination via Federated MCP Servers]]></title>
+        <id>https://dev.to/programmingcentral/scaling-ai-beyond-the-monolith-multi-agent-coordination-via-federated-mcp-servers-37b7</id>
+        <link href="https://dev.to/programmingcentral/scaling-ai-beyond-the-monolith-multi-agent-coordination-via-federated-mcp-servers-37b7"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Polygon to Ethereum USDC Bridges for Efficient Cross-Chain Transfers]]></title>
+        <id>https://dev.to/safrwe45435/best-polygon-to-ethereum-usdc-bridges-for-efficient-cross-chain-transfers-4odh</id>
+        <link href="https://dev.to/safrwe45435/best-polygon-to-ethereum-usdc-bridges-for-efficient-cross-chain-transfers-4odh"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trusted Polygon to Ethereum USDC Bridges for Lower Transfer Fees]]></title>
+        <id>https://dev.to/safrwe45435/trusted-polygon-to-ethereum-usdc-bridges-for-lower-transfer-fees-4691</id>
+        <link href="https://dev.to/safrwe45435/trusted-polygon-to-ethereum-usdc-bridges-for-lower-transfer-fees-4691"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChocoDEV: a chocolate bar you can eat, in pure CSS]]></title>
+        <id>https://dev.to/vinimabreu/chocodev-a-chocolate-bar-you-can-eat-in-pure-css-dga</id>
+        <link href="https://dev.to/vinimabreu/chocodev-a-chocolate-bar-you-can-eat-in-pure-css-dga"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built in-app Polymarket copy trading with MetaMask EIP-712 — no private keys, no redirects, one click]]></title>
+        <id>https://dev.to/manpreet_brar_264e408885a/i-built-in-app-polymarket-copy-trading-with-metamask-eip-712-no-private-keys-no-redirects-one-c21</id>
+        <link href="https://dev.to/manpreet_brar_264e408885a/i-built-in-app-polymarket-copy-trading-with-metamask-eip-712-no-private-keys-no-redirects-one-c21"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a binary heap visualizer: bubble-up, sift-down, and O(n) heapify with the array and tree side by side]]></title>
+        <id>https://dev.to/dev48v/i-built-a-binary-heap-visualizer-bubble-up-sift-down-and-on-heapify-with-the-array-and-tree-37gi</id>
+        <link href="https://dev.to/dev48v/i-built-a-binary-heap-visualizer-bubble-up-sift-down-and-on-heapify-with-the-array-and-tree-37gi"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Using Meta AI via WhatsApp for OpenCode]]></title>
         <id>https://github.com/amita-seal/wa-metaai</id>
         <link href="https://github.com/amita-seal/wa-metaai"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guix shell now inside Emacs]]></title>
-        <id>https://tusharhero.codeberg.page/guix-shell-in-emacs.html</id>
-        <link href="https://tusharhero.codeberg.page/guix-shell-in-emacs.html"/>
-        <updated>2026-08-01T16:00:00.000Z</updated>
-        <published>2026-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast access to Trump's 'Truth Social' posts goes on sale for $100k per month]]></title>
-        <id>https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month</id>
-        <link href="https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month"/>
         <updated>2026-08-01T16:00:00.000Z</updated>
         <published>2026-08-01T16:00:00.000Z</published>
     </entry>
