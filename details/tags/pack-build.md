@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-04 12:02:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-04 15:02:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -35,10 +35,10 @@ https://github.com/pinceladasdaweb/rabbitmq
 - [2026-07-29-Disrupting-supply-chain-attacks-on-npm-and-GitHub-Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/) 
 - [2026-08-04-Why-Estonians-invite-strangers-into-their-back-gardens-each-summer](https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer) 
 - [2026-08-02-Show-HN:-NoDiff,-a-framework-that-lives-in-your-monorepo](https://github.com/hbbio/nodiff) 
-- [2026-07-22-Was-there-a-real-Tower-of-Babel?-This-temple-is-the-leading-contender](https://www.nationalgeographic.com/history/article/tower-of-babel-genesis-bible-archaeology) 
 - [2026-07-22-Show-HN:-Kernel-optimization-is-obsolete.-Just-NPM-install-it](https://github.com/tensormux/kernel-skills) 
+- [2026-07-22-Was-there-a-real-Tower-of-Babel?-This-temple-is-the-leading-contender](https://www.nationalgeographic.com/history/article/tower-of-babel-genesis-bible-archaeology) 
 - [2026-07-21-The-Yarn-Spinner-Public-License](https://yarnspinner.dev/yspl) 
 - [2026-07-11-Show-HN:-Quantum-audit-–-CLI-to-scan-NPM-deps-for-quantum-vulnerable-crypto](https://quantum-audit-site.vercel.app) 
-- [2026-07-09-NPM-v12-Ships-with-Install-Scripts-Off-by-Default,-Deprecating-2FA-Bypass-Tokens](https://socket.dev/blog/npm-12) 
 - [2026-07-09-NPM-12-makes-install-scripts,-Git,-and-remote-url-dependencies-opt-in-by-default](https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation/) 
+- [2026-07-09-NPM-v12-Ships-with-Install-Scripts-Off-by-Default,-Deprecating-2FA-Bypass-Tokens](https://socket.dev/blog/npm-12) 
 - [2026-07-24-角落新声｜数字与实体、有线与无线：我的多场景有声角落构建](https://sspai.com/post/112232) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-04 12:02:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-04 15:02:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -227,15 +227,15 @@ https://orizens.com/blog/2026-06-18-zustand/
 - [2026-07-26-Google's-AI-Spending-Spree-Has-Investors-Nervous](https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223) 
 - [2026-07-25-Reactive-Python-Notebooks-in-Jupyter](https://github.com/ipyflow/ipyflow) 
 - [2026-07-21-A-Git-hook-to-prevent-committing-directly-to-main](https://alexwlchan.net/2026/no-main-hook/) 
-- [2026-07-18-Show-HN:-Blockbeam-–-A-block-puzzle-game-built-with-React-Native](https://play.google.com/store/apps/details?id=com.magstudios.blockpuzzle&hl=en_US) 
-- [2026-07-18-Show-HN:-Re:Likes-–-open-source-library-to-be-particular-about-reactions-to-text](https://relikes.com/#demo) 
 - [2026-07-18-Avatoon-–-React-Three-Fiber-component-for-audio-synced-3D-avatar-lip-sync](https://github.com/khaledalam/avatoon) 
-- [2026-07-17-ReactBench](https://www.reactbench.com/blog) 
+- [2026-07-18-Show-HN:-Re:Likes-–-open-source-library-to-be-particular-about-reactions-to-text](https://relikes.com/#demo) 
+- [2026-07-18-Show-HN:-Blockbeam-–-A-block-puzzle-game-built-with-React-Native](https://play.google.com/store/apps/details?id=com.magstudios.blockpuzzle&hl=en_US) 
 - [2026-07-17-Async-Hydration-in-Preact](https://jovidecroock.com/blog/resumed-hydration-preact/) 
+- [2026-07-17-ReactBench](https://www.reactbench.com/blog) 
 - [2026-07-14-France-powers-down-several-nuclear-reactors-due-to-extreme-heat](https://www.lemonde.fr/en/france/article/2026/07/12/france-powers-down-several-nuclear-reactors-due-to-extreme-heat_6755404_7.html) 
 - [2026-07-13-Top-Reactjs-Development-Services-to-Check-in-2026](https://focusreactive.com/blog/top-reactjs-development-services-in-2026/) 
-- [2026-07-10-John-Carmack-reacts-to-layoffs-at-id-Software](https://www.pcgamer.com/gaming-industry/john-carmack-reacts-to-massive-layoffs-at-id-software-my-microsoft-will-probably-be-a-good-steward-of-the-brand-statement-isnt-aging-well/) 
 - [2026-07-10-Netflix-Is-Exploring-Live-TV-and-Bundles-as-It-Struggles-to-Keep-Viewers-Hooked](https://www.wsj.com/business/media/netflix-is-exploring-live-tv-and-bundles-as-it-struggles-to-keep-viewers-hooked-e1eb28f6) 
+- [2026-07-10-John-Carmack-reacts-to-layoffs-at-id-Software](https://www.pcgamer.com/gaming-industry/john-carmack-reacts-to-massive-layoffs-at-id-software-my-microsoft-will-probably-be-a-good-steward-of-the-brand-statement-isnt-aging-well/) 
 - [2026-07-08-BrAIn,-reactive-AI-agent-nodes-on-a-NATS-bus-instead-of-a-chat-loop](https://github.com/tibzejoker/brAIn) 
 - [2026-07-07-ReactOS-"Open-Source-Windows"-Project-Now-Capable-of-Running-Half-Life-2](https://www.phoronix.com/news/Half-Life-2-ReactOS) 
 - [2026-07-28-Thea-Energy-lands-$20M-federal-grant-to-build-its-magnets-for-fusion-reactors](https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/) 
