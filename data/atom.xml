@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-03T22:02:25.169Z</updated>
+    <updated>2026-08-04T00:01:19.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,30 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[The studio behind Pokémon struggles to find its voice in Beast of Reincarnation]]></title>
+        <id>https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox</id>
+        <link href="https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished]]></title>
         <id>https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale</id>
         <link href="https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale"/>
-        <updated>2026-08-03T16:00:00.000Z</updated>
-        <published>2026-08-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Arena creators raise $7.9 million to bring taste to AI models]]></title>
-        <id>https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/</id>
-        <link href="https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"/>
-        <updated>2026-08-03T16:00:00.000Z</updated>
-        <published>2026-08-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outernet turns your saved posts into real-world adventures]]></title>
-        <id>https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/</id>
-        <link href="https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/"/>
-        <updated>2026-08-03T16:00:00.000Z</updated>
-        <published>2026-08-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics]]></title>
-        <id>https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/</id>
-        <link href="https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
@@ -50,6 +36,69 @@
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics]]></title>
+        <id>https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/</id>
+        <link href="https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outernet turns your saved posts into real-world adventures]]></title>
+        <id>https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/</id>
+        <link href="https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Arena creators raise $7.9 million to bring taste to AI models]]></title>
+        <id>https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/</id>
+        <link href="https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For sale: early access to Trump's Truth Social posts]]></title>
+        <id>https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading</id>
+        <link href="https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: GHScan – Paste a GitHub URL, get a free security report in the browser]]></title>
+        <id>https://ghscan.vercel.app</id>
+        <link href="https://ghscan.vercel.app"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Week in AI Native Companies #2: The context layer gets funded]]></title>
+        <id>https://www.insideainative.com/p/this-week-in-ai-native-companies-555</id>
+        <link href="https://www.insideainative.com/p/this-week-in-ai-native-companies-555"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: mob.so – vibecode with friends in Discord]]></title>
+        <id>https://mob.so</id>
+        <link href="https://mob.so"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Goodnight, Goodnight, Construction Site, by Sherri Duskey Rinker]]></title>
+        <id>https://www.thepsmiths.com/p/review-goodnight-goodnight-construction</id>
+        <link href="https://www.thepsmiths.com/p/review-goodnight-goodnight-construction"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conflict-Freedom as a Progress Condition]]></title>
+        <id>https://arxiv.org/abs/2505.03627</id>
+        <link href="https://arxiv.org/abs/2505.03627"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Architectural Properties Before Trust]]></title>
         <id>https://pub.towardsai.net/architectural-properties-before-trust-e153c3bb19c8?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/architectural-properties-before-trust-e153c3bb19c8?source=rss----98111c9905da---4"/>
@@ -57,37 +106,37 @@
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Dev Log] serverguchuk1024 — 홈서버/NAS 구축 가이드 정적 구조·빌드 호환성 점검 (Pomyjo Wave 3)]]></title>
-        <id>https://dev.to/chobh1024/dev-log-serverguchuk1024-homseobeonas-gucug-gaideu-jeongjeog-gujobildeu-hohwanseong-jeomgeom-pomyjo-wave-3-25pf</id>
-        <link href="https://dev.to/chobh1024/dev-log-serverguchuk1024-homseobeonas-gucug-gaideu-jeongjeog-gujobildeu-hohwanseong-jeomgeom-pomyjo-wave-3-25pf"/>
+        <title type="html"><![CDATA[Don't be a meat proxy]]></title>
+        <id>https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Dev Log] true-hourly-rate — 실질 시급 계산기 기능·아티클·SEO 세팅 (Pomyjo Wave 2)]]></title>
-        <id>https://dev.to/chobh1024/dev-log-true-hourly-rate-siljil-sigeub-gyesangi-gineungatikeulseo-seting-pomyjo-wave-2-1kj8</id>
-        <link href="https://dev.to/chobh1024/dev-log-true-hourly-rate-siljil-sigeub-gyesangi-gineungatikeulseo-seting-pomyjo-wave-2-1kj8"/>
+        <title type="html"><![CDATA[How to Monitor Your Ember.js Application with Vigilmon]]></title>
+        <id>https://dev.to/vigilmon/how-to-monitor-your-emberjs-application-with-vigilmon-22ka</id>
+        <link href="https://dev.to/vigilmon/how-to-monitor-your-emberjs-application-with-vigilmon-22ka"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Dev Log] money-radar — AdSense/SEO 세팅·dirty 정리·빌드 완수 (Pomyjo Wave 2)]]></title>
-        <id>https://dev.to/chobh1024/dev-log-money-radar-adsenseseo-setingdirty-jeongribildeu-wansu-pomyjo-wave-2-3a3c</id>
-        <link href="https://dev.to/chobh1024/dev-log-money-radar-adsenseseo-setingdirty-jeongribildeu-wansu-pomyjo-wave-2-3a3c"/>
+        <title type="html"><![CDATA[[Dev Log] devto-auto-poster — 멀티사이트 Dev.to 자동 개발일지 포스팅 엔진 완성 (Pomyjo Wave 4)]]></title>
+        <id>https://dev.to/chobh1024/dev-log-devto-auto-poster-meoltisaiteu-devto-jadong-gaebalilji-poseuting-enjin-wanseong-pomyjo-wave-4-45m1</id>
+        <link href="https://dev.to/chobh1024/dev-log-devto-auto-poster-meoltisaiteu-devto-jadong-gaebalilji-poseuting-enjin-wanseong-pomyjo-wave-4-45m1"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Matrix of Python: List Comprehensions, Generators, and When to Use Each]]></title>
-        <id>https://dev.to/timevolt/the-matrix-of-python-list-comprehensions-generators-and-when-to-use-each-44jd</id>
-        <link href="https://dev.to/timevolt/the-matrix-of-python-list-comprehensions-generators-and-when-to-use-each-44jd"/>
+        <title type="html"><![CDATA[[Dev Log] ilban-leadership-site — 일반 리더십 진단 Vite 프로덕션 빌드·i18n 점검 (Pomyjo Wave 3)]]></title>
+        <id>https://dev.to/chobh1024/dev-log-ilban-leadership-site-ilban-rideosib-jindan-vite-peurodeogsyeon-bildeui18n-jeomgeom-pomyjo-wave-3-47n3</id>
+        <link href="https://dev.to/chobh1024/dev-log-ilban-leadership-site-ilban-rideosib-jindan-vite-peurodeogsyeon-bildeui18n-jeomgeom-pomyjo-wave-3-47n3"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coding Progressive Tax Algorithms: Floating-Point Errors, Bracket Edge Cases, and Effective vs. Marginal Rates]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/coding-progressive-tax-algorithms-floating-point-errors-bracket-edge-cases-and-effective-vs-5cgb</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/coding-progressive-tax-algorithms-floating-point-errors-bracket-edge-cases-and-effective-vs-5cgb"/>
+        <title type="html"><![CDATA[[Dev Log] jeongbu — 정부 정책 가이드 Vite 프로덕션 빌드·자동 sitemap 완성 (Pomyjo Wave 3)]]></title>
+        <id>https://dev.to/chobh1024/dev-log-jeongbu-jeongbu-jeongcaeg-gaideu-vite-peurodeogsyeon-bildeujadong-sitemap-wanseong-pomyjo-wave-3-2567</id>
+        <link href="https://dev.to/chobh1024/dev-log-jeongbu-jeongbu-jeongcaeg-gaideu-vite-peurodeogsyeon-bildeujadong-sitemap-wanseong-pomyjo-wave-3-2567"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
@@ -99,30 +148,44 @@
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Conquered Coding. Fast Food Is Next]]></title>
-        <id>https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/</id>
-        <link href="https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Coding Progressive Tax Algorithms: Floating-Point Errors, Bracket Edge Cases, and Effective vs. Marginal Rates]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/coding-progressive-tax-algorithms-floating-point-errors-bracket-edge-cases-and-effective-vs-5cgb</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/coding-progressive-tax-algorithms-floating-point-errors-bracket-edge-cases-and-effective-vs-5cgb"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children]]></title>
-        <id>https://www.wired.com/story/ice-dna-collection-fbi-codis/</id>
-        <link href="https://www.wired.com/story/ice-dna-collection-fbi-codis/"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
+        <title type="html"><![CDATA[The Matrix of Python: List Comprehensions, Generators, and When to Use Each]]></title>
+        <id>https://dev.to/timevolt/the-matrix-of-python-list-comprehensions-generators-and-when-to-use-each-44jd</id>
+        <link href="https://dev.to/timevolt/the-matrix-of-python-list-comprehensions-generators-and-when-to-use-each-44jd"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nothing Ear (3a) Wireless Earbuds Review: Style Meets Value]]></title>
-        <id>https://www.wired.com/review/nothing-ear-3a/</id>
-        <link href="https://www.wired.com/review/nothing-ear-3a/"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
+        <title type="html"><![CDATA[[Dev Log] money-radar — AdSense/SEO 세팅·dirty 정리·빌드 완수 (Pomyjo Wave 2)]]></title>
+        <id>https://dev.to/chobh1024/dev-log-money-radar-adsenseseo-setingdirty-jeongribildeu-wansu-pomyjo-wave-2-3a3c</id>
+        <link href="https://dev.to/chobh1024/dev-log-money-radar-adsenseseo-setingdirty-jeongribildeu-wansu-pomyjo-wave-2-3a3c"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them]]></title>
-        <id>https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/</id>
-        <link href="https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/"/>
+        <title type="html"><![CDATA[[Dev Log] true-hourly-rate — 실질 시급 계산기 기능·아티클·SEO 세팅 (Pomyjo Wave 2)]]></title>
+        <id>https://dev.to/chobh1024/dev-log-true-hourly-rate-siljil-sigeub-gyesangi-gineungatikeulseo-seting-pomyjo-wave-2-1kj8</id>
+        <link href="https://dev.to/chobh1024/dev-log-true-hourly-rate-siljil-sigeub-gyesangi-gineungatikeulseo-seting-pomyjo-wave-2-1kj8"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Dev Log] serverguchuk1024 — 홈서버/NAS 구축 가이드 정적 구조·빌드 호환성 점검 (Pomyjo Wave 3)]]></title>
+        <id>https://dev.to/chobh1024/dev-log-serverguchuk1024-homseobeonas-gucug-gaideu-jeongjeog-gujobildeu-hohwanseong-jeomgeom-pomyjo-wave-3-25pf</id>
+        <link href="https://dev.to/chobh1024/dev-log-serverguchuk1024-homseobeonas-gucug-gaideu-jeongjeog-gujobildeu-hohwanseong-jeomgeom-pomyjo-wave-3-25pf"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner]]></title>
+        <id>https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/</id>
+        <link href="https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
@@ -134,9 +197,30 @@
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner]]></title>
-        <id>https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/</id>
-        <link href="https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/"/>
+        <title type="html"><![CDATA[The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them]]></title>
+        <id>https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/</id>
+        <link href="https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing Ear (3a) Wireless Earbuds Review: Style Meets Value]]></title>
+        <id>https://www.wired.com/review/nothing-ear-3a/</id>
+        <link href="https://www.wired.com/review/nothing-ear-3a/"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children]]></title>
+        <id>https://www.wired.com/story/ice-dna-collection-fbi-codis/</id>
+        <link href="https://www.wired.com/story/ice-dna-collection-fbi-codis/"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Conquered Coding. Fast Food Is Next]]></title>
+        <id>https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/</id>
+        <link href="https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
@@ -148,205 +232,51 @@
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TSA Privatization Returns Airport Security to a Dangerous Past]]></title>
-        <id>https://prospect.org/2026/08/03/tsa-privatization-airport-security-911-trump-bush/</id>
-        <link href="https://prospect.org/2026/08/03/tsa-privatization-airport-security-911-trump-bush/"/>
+        <title type="html"><![CDATA[Scientists detect a sharp acceleration in global warming]]></title>
+        <id>https://www.sciencedaily.com/releases/2026/08/260801093239.htm</id>
+        <link href="https://www.sciencedaily.com/releases/2026/08/260801093239.htm"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coldcard hack just grew to $89M, call your friends]]></title>
-        <id>https://www.thestreet.com/crypto/markets/coldcard-hack-just-grew-to-75m-call-your-friends</id>
-        <link href="https://www.thestreet.com/crypto/markets/coldcard-hack-just-grew-to-75m-call-your-friends"/>
+        <title type="html"><![CDATA[AI is making weather forecasts better]]></title>
+        <id>https://orennia.substack.com/p/ai-is-making-weather-forecasts-better</id>
+        <link href="https://orennia.substack.com/p/ai-is-making-weather-forecasts-better"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia releases Cosmos 3 Edge for robotics]]></title>
-        <id>https://huggingface.co/blog/nvidia/cosmos3edge</id>
-        <link href="https://huggingface.co/blog/nvidia/cosmos3edge"/>
+        <title type="html"><![CDATA[Pass the Passkey: A Novel Attack Surface in Passwordless Authentication]]></title>
+        <id>https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</id>
+        <link href="https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Romania explodes rock to get more water flow to nuclear reactor]]></title>
-        <id>https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates</id>
-        <link href="https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates"/>
+        <title type="html"><![CDATA[The Simple Elegance of the Integrated Timing Belt Loopback Fastener]]></title>
+        <id>https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/</id>
+        <link href="https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Street View Live Earth Map]]></title>
-        <id>https://play.google.com/store/apps/details?id=com.streetmapview.world.camera&amp;hl=en_US</id>
-        <link href="https://play.google.com/store/apps/details?id=com.streetmapview.world.camera&amp;hl=en_US"/>
+        <title type="html"><![CDATA[FalkorDB is rewriting its graph database engine in Rust]]></title>
+        <id>https://www.falkordb.com/blog/rewriting-falkordb-in-rust/</id>
+        <link href="https://www.falkordb.com/blog/rewriting-falkordb-in-rust/"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: TermBoard – A TUI dashboard for Python projects]]></title>
-        <id>https://github.com/HeyShinde/TermBoard</id>
-        <link href="https://github.com/HeyShinde/TermBoard"/>
+        <title type="html"><![CDATA[Per-Sample Fourier Transform Using Sliding Windowed Infinite Fourier Transform]]></title>
+        <id>https://people.ece.cornell.edu/land/courses/ece4760/RP2350/SWIFT/index_swift.html</id>
+        <link href="https://people.ece.cornell.edu/land/courses/ece4760/RP2350/SWIFT/index_swift.html"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[True Cost of Cross-Border Payments: Correspondent Banking Myths vs. Reality]]></title>
-        <id>https://paybitz.io/true-cost-of-cross-border-payments-correspondent-banking-myths-vs-reality/</id>
-        <link href="https://paybitz.io/true-cost-of-cross-border-payments-correspondent-banking-myths-vs-reality/"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enshittification Relies on Broken Economic Math]]></title>
-        <id>https://www.hamiltonnolan.com/p/enshittification-relies-on-broken</id>
-        <link href="https://www.hamiltonnolan.com/p/enshittification-relies-on-broken"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lerobit MMP V1: Transforming AI Marketing-Coming Soon]]></title>
-        <id>https://www.lerobit.com/coming-soon</id>
-        <link href="https://www.lerobit.com/coming-soon"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mob – A personal CRM as an MCP server]]></title>
-        <id>https://mobcrm.au/</id>
-        <link href="https://mobcrm.au/"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: An update to the random OS (windogeOS)]]></title>
-        <id>https://github.com/NoTheIdiot/WindogeOS</id>
-        <link href="https://github.com/NoTheIdiot/WindogeOS"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: swsql – A PostgreSQL client for the terminal, written in Swift]]></title>
-        <id>https://github.com/vdsingh/swsql</id>
-        <link href="https://github.com/vdsingh/swsql"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spokane wildfires force thousands to evacuate, blazes 0% contained [video]]]></title>
-        <id>https://www.youtube.com/watch?v=EYhNWOWWM9c</id>
-        <link href="https://www.youtube.com/watch?v=EYhNWOWWM9c"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Zizq is a fast, single-binary job queue that fits into any stack]]></title>
-        <id>https://zizq.io</id>
-        <link href="https://zizq.io"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tlbic: Expanded appendix on AI dialogue, plus a note on shared human wisdom]]></title>
-        <id>https://drive.google.com/file/d/14IKYzJavvzvbCL8GR0SkjzRmroMAaboN/view?usp=drive_link</id>
-        <link href="https://drive.google.com/file/d/14IKYzJavvzvbCL8GR0SkjzRmroMAaboN/view?usp=drive_link"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T cells targeting SARS-CoV-2, EBV, and CMV stay in attack mode in Long Covid]]></title>
-        <id>https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00363-0</id>
-        <link href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00363-0"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How much AI can a maintainer get away with using without losing their humanity?]]></title>
-        <id>https://www.jvt.me/posts/2026/08/02/ai-maintainer/</id>
-        <link href="https://www.jvt.me/posts/2026/08/02/ai-maintainer/"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I ran a 1998 artificial life SIM at 560x speed and caught a rare easter egg [video]]]></title>
-        <id>https://www.youtube.com/watch?v=e5GRwnCE2Y0</id>
-        <link href="https://www.youtube.com/watch?v=e5GRwnCE2Y0"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Testimonials.Free ~1 KB embed widget, zero layout shift]]></title>
-        <id>https://testimonials.free/</id>
-        <link href="https://testimonials.free/"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do not trust the marketing IOPS on Consumer SSD]]></title>
-        <id>https://bsid.io/writing/the-ssd-that-cried-etcd</id>
-        <link href="https://bsid.io/writing/the-ssd-that-cried-etcd"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Removes New Earth AI Tool a Day After Users Create Fake Disasters]]></title>
-        <id>https://deltiasgaming.com/google-removes-new-earth-ai-tool-a-day-after-users-create-fake-disasters/</id>
-        <link href="https://deltiasgaming.com/google-removes-new-earth-ai-tool-a-day-after-users-create-fake-disasters/"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Louis Theroux Interview [video]]]></title>
-        <id>https://www.youtube.com/watch?v=kdxgsCrEDY8</id>
-        <link href="https://www.youtube.com/watch?v=kdxgsCrEDY8"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripchaser – Sports card checklist and parallel mapping tool]]></title>
-        <id>https://ripchaser.com/</id>
-        <link href="https://ripchaser.com/"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conflict-Freedom as a Progress Condition]]></title>
-        <id>https://arxiv.org/abs/2605.19531</id>
-        <link href="https://arxiv.org/abs/2605.19531"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Branchless Rust: Making a Filter 4x Faster by Removing an If]]></title>
-        <id>https://www.greyblake.com/blog/branchless-rust/</id>
-        <link href="https://www.greyblake.com/blog/branchless-rust/"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WestJet labour dispute is a proxy battle between Carney and unions]]></title>
-        <id>https://www.theglobeandmail.com/business/commentary/article-westjet-flight-attendant-strike-proxy-battle-between-mark-carney/</id>
-        <link href="https://www.theglobeandmail.com/business/commentary/article-westjet-flight-attendant-strike-proxy-battle-between-mark-carney/"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCP vs. Bash]]></title>
-        <id>https://pac.commonsware.com/archive/mcp-vs-bash/</id>
-        <link href="https://pac.commonsware.com/archive/mcp-vs-bash/"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust project goals: Immobile types and guaranteed destructors]]></title>
-        <id>https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md</id>
-        <link href="https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"/>
-        <updated>2026-08-02T16:00:00.000Z</updated>
-        <published>2026-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Free CV Builder That Gets You Hired Faster]]></title>
-        <id>https://www.sartorcv.com/</id>
-        <link href="https://www.sartorcv.com/"/>
+        <title type="html"><![CDATA[A 3-line HTML drop-in that replaces passwords with FaceID]]></title>
+        <id>https://nxspulse.com</id>
+        <link href="https://nxspulse.com"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
@@ -358,9 +288,79 @@
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A 3-line HTML drop-in that replaces passwords with FaceID]]></title>
-        <id>https://nxspulse.com</id>
-        <link href="https://nxspulse.com"/>
+        <title type="html"><![CDATA[The Free CV Builder That Gets You Hired Faster]]></title>
+        <id>https://www.sartorcv.com/</id>
+        <link href="https://www.sartorcv.com/"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust project goals: Immobile types and guaranteed destructors]]></title>
+        <id>https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md</id>
+        <link href="https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCP vs. Bash]]></title>
+        <id>https://pac.commonsware.com/archive/mcp-vs-bash/</id>
+        <link href="https://pac.commonsware.com/archive/mcp-vs-bash/"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WestJet labour dispute is a proxy battle between Carney and unions]]></title>
+        <id>https://www.theglobeandmail.com/business/commentary/article-westjet-flight-attendant-strike-proxy-battle-between-mark-carney/</id>
+        <link href="https://www.theglobeandmail.com/business/commentary/article-westjet-flight-attendant-strike-proxy-battle-between-mark-carney/"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Branchless Rust: Making a Filter 4x Faster by Removing an If]]></title>
+        <id>https://www.greyblake.com/blog/branchless-rust/</id>
+        <link href="https://www.greyblake.com/blog/branchless-rust/"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conflict-Freedom as a Progress Condition]]></title>
+        <id>https://arxiv.org/abs/2605.19531</id>
+        <link href="https://arxiv.org/abs/2605.19531"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripchaser – Sports card checklist and parallel mapping tool]]></title>
+        <id>https://ripchaser.com/</id>
+        <link href="https://ripchaser.com/"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Louis Theroux Interview [video]]]></title>
+        <id>https://www.youtube.com/watch?v=kdxgsCrEDY8</id>
+        <link href="https://www.youtube.com/watch?v=kdxgsCrEDY8"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Removes New Earth AI Tool a Day After Users Create Fake Disasters]]></title>
+        <id>https://deltiasgaming.com/google-removes-new-earth-ai-tool-a-day-after-users-create-fake-disasters/</id>
+        <link href="https://deltiasgaming.com/google-removes-new-earth-ai-tool-a-day-after-users-create-fake-disasters/"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do not trust the marketing IOPS on Consumer SSD]]></title>
+        <id>https://bsid.io/writing/the-ssd-that-cried-etcd</id>
+        <link href="https://bsid.io/writing/the-ssd-that-cried-etcd"/>
+        <updated>2026-08-02T16:00:00.000Z</updated>
+        <published>2026-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Testimonials.Free ~1 KB embed widget, zero layout shift]]></title>
+        <id>https://testimonials.free/</id>
+        <link href="https://testimonials.free/"/>
         <updated>2026-08-02T16:00:00.000Z</updated>
         <published>2026-08-02T16:00:00.000Z</published>
     </entry>
