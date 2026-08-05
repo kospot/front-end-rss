@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-04T22:01:07.673Z</updated>
+    <updated>2026-08-05T00:01:51.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Don’t screw this up, Marvel]]></title>
+        <id>https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday</id>
+        <link href="https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store]]></title>
         <id>https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov</id>
         <link href="https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov"/>
@@ -22,16 +29,16 @@
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX has bought $329M worth of Tesla Megapacks so far this year]]></title>
-        <id>https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/</id>
-        <link href="https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"/>
+        <title type="html"><![CDATA[How to get the best hotel deals for TechCrunch Disrupt 2026 ]]></title>
+        <id>https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/</id>
+        <link href="https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open-weight AI models are catching up to the frontier. The safety gap remains. ]]></title>
-        <id>https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/</id>
-        <link href="https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"/>
+        <title type="html"><![CDATA[Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!]]></title>
+        <id>https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/</id>
+        <link href="https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
@@ -43,9 +50,16 @@
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!]]></title>
-        <id>https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/</id>
-        <link href="https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/"/>
+        <title type="html"><![CDATA[Open-weight AI models are catching up to the frontier. The safety gap remains. ]]></title>
+        <id>https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/</id>
+        <link href="https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX has bought $329M worth of Tesla Megapacks so far this year]]></title>
+        <id>https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/</id>
+        <link href="https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
@@ -92,9 +106,9 @@
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Enterprise AI Beyond Prompting: How to Build Reusable AI Skills Libraries for Kiro, GitHub Copilot…]]></title>
-        <id>https://pub.towardsai.net/enterprise-ai-beyond-prompting-how-to-build-reusable-ai-skills-libraries-for-kiro-github-copilot-e45d901f7597?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/enterprise-ai-beyond-prompting-how-to-build-reusable-ai-skills-libraries-for-kiro-github-copilot-e45d901f7597?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[What do AI benchmark scores actually mean? A plain-English guide]]></title>
+        <id>https://pub.towardsai.net/what-do-ai-benchmark-scores-actually-mean-a-plain-english-guide-f5a37be4077f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-do-ai-benchmark-scores-actually-mean-a-plain-english-guide-f5a37be4077f?source=rss----98111c9905da---4"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
@@ -102,6 +116,13 @@
         <title type="html"><![CDATA[How to Automate Client Onboarding, Follow-Ups & Proposals With AI— AI Practical Guide: Day 8 of 10]]></title>
         <id>https://pub.towardsai.net/how-to-automate-client-onboarding-follow-ups-proposals-with-ai-ai-practical-guide-day-8-of-10-50968b16bc60?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/how-to-automate-client-onboarding-follow-ups-proposals-with-ai-ai-practical-guide-day-8-of-10-50968b16bc60?source=rss----98111c9905da---4"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enterprise AI Beyond Prompting: How to Build Reusable AI Skills Libraries for Kiro, GitHub Copilot…]]></title>
+        <id>https://pub.towardsai.net/enterprise-ai-beyond-prompting-how-to-build-reusable-ai-skills-libraries-for-kiro-github-copilot-e45d901f7597?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/enterprise-ai-beyond-prompting-how-to-build-reusable-ai-skills-libraries-for-kiro-github-copilot-e45d901f7597?source=rss----98111c9905da---4"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
@@ -120,65 +141,16 @@
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transfer USDT From BNB Chain to Solana: Step-by-Step Guide]]></title>
-        <id>https://dev.to/sfe545/transfer-usdt-from-bnb-chain-to-solana-step-by-step-guide-8i8</id>
-        <link href="https://dev.to/sfe545/transfer-usdt-from-bnb-chain-to-solana-step-by-step-guide-8i8"/>
+        <title type="html"><![CDATA[Escaping the Event Loop — A Deep Dive into worker_threads (Part 3/3)]]></title>
+        <id>https://dev.to/aniket_misra_e47d1564ab7b/escaping-the-event-loop-a-deep-dive-into-workerthreads-part-33-11oj</id>
+        <link href="https://dev.to/aniket_misra_e47d1564ab7b/escaping-the-event-loop-a-deep-dive-into-workerthreads-part-33-11oj"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I got tired of mocking Date, so I built a TimeProvider for TypeScript]]></title>
-        <id>https://dev.to/jaenyf/i-got-tired-of-mocking-date-so-i-built-a-timeprovider-for-typescript-41mm</id>
-        <link href="https://dev.to/jaenyf/i-got-tired-of-mocking-date-so-i-built-a-timeprovider-for-typescript-41mm"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Timeline Portfolio using Canvas 2D]]></title>
-        <id>https://dev.to/vitorstick/how-i-built-a-timeline-portfolio-using-canvas-2d-4a26</id>
-        <link href="https://dev.to/vitorstick/how-i-built-a-timeline-portfolio-using-canvas-2d-4a26"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔄 JavaScript Event Loop: The Thing You Use Daily But Never See!]]></title>
-        <id>https://dev.to/mdfahim18/javascript-event-loop-the-thing-you-use-daily-but-never-see-4lnc</id>
-        <link href="https://dev.to/mdfahim18/javascript-event-loop-the-thing-you-use-daily-but-never-see-4lnc"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes ZikarelHub Nigeria's #1 Digital Agency — A Technical Case Study]]></title>
-        <id>https://dev.to/zikarelhub/what-makes-zikarelhub-nigerias-1-digital-agency-a-technical-case-study-4o5</id>
-        <link href="https://dev.to/zikarelhub/what-makes-zikarelhub-nigerias-1-digital-agency-a-technical-case-study-4o5"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 6 Best JavaScript Libraries for Chart Plotting in 2026]]></title>
-        <id>https://dev.to/isaac_neuhaus_2e49fe4b603/the-6-best-javascript-libraries-for-chart-plotting-in-2026-1elf</id>
-        <link href="https://dev.to/isaac_neuhaus_2e49fe4b603/the-6-best-javascript-libraries-for-chart-plotting-in-2026-1elf"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[# JavaScript Finally Got Destructors, Sort Of, and Nobody Told Me For A Year]]></title>
-        <id>https://dev.to/janardhan_reddy_8ae708fe0/-javascript-finally-got-destructors-sort-of-and-nobody-told-me-for-a-year-562o</id>
-        <link href="https://dev.to/janardhan_reddy_8ae708fe0/-javascript-finally-got-destructors-sort-of-and-nobody-told-me-for-a-year-562o"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 4 Sites To Buy Old Github Accounts In 2026]]></title>
-        <id>https://dev.to/vuleminhphamcanau/top-4-sites-to-buy-old-github-accounts-in-2026-3fh5</id>
-        <link href="https://dev.to/vuleminhphamcanau/top-4-sites-to-buy-old-github-accounts-in-2026-3fh5"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Middleware Is Not a Security Boundary (59,000 Servers Just Found That Out)]]></title>
-        <id>https://dev.to/janardhan_reddy_8ae708fe0/your-middleware-is-not-a-security-boundary-59000-servers-just-found-that-out-3ao0</id>
-        <link href="https://dev.to/janardhan_reddy_8ae708fe0/your-middleware-is-not-a-security-boundary-59000-servers-just-found-that-out-3ao0"/>
+        <title type="html"><![CDATA[Nộp MCP Server Vào Claude Directory: 20 Ngày, 52 Euro/Tháng]]></title>
+        <id>https://dev.to/bean_bean/nop-mcp-server-vao-claude-directory-20-ngay-52-eurothang-2f7p</id>
+        <link href="https://dev.to/bean_bean/nop-mcp-server-vao-claude-directory-20-ngay-52-eurothang-2f7p"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
@@ -190,30 +162,72 @@
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peak Design’s latest bags have clever integrated hooks]]></title>
-        <id>https://www.theverge.com/tech/973624/peak-design-city-line-details-price</id>
-        <link href="https://www.theverge.com/tech/973624/peak-design-city-line-details-price"/>
-        <updated>2026-08-03T16:00:00.000Z</updated>
-        <published>2026-08-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Your Middleware Is Not a Security Boundary (59,000 Servers Just Found That Out)]]></title>
+        <id>https://dev.to/janardhan_reddy_8ae708fe0/your-middleware-is-not-a-security-boundary-59000-servers-just-found-that-out-3ao0</id>
+        <link href="https://dev.to/janardhan_reddy_8ae708fe0/your-middleware-is-not-a-security-boundary-59000-servers-just-found-that-out-3ao0"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple briefly yanked Telegram from the App Store over CSAM violations]]></title>
-        <id>https://www.theverge.com/tech/974951/telegram-apple-app-store-removed</id>
-        <link href="https://www.theverge.com/tech/974951/telegram-apple-app-store-removed"/>
-        <updated>2026-08-03T16:00:00.000Z</updated>
-        <published>2026-08-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Top 4 Sites To Buy Old Github Accounts In 2026]]></title>
+        <id>https://dev.to/vuleminhphamcanau/top-4-sites-to-buy-old-github-accounts-in-2026-3fh5</id>
+        <link href="https://dev.to/vuleminhphamcanau/top-4-sites-to-buy-old-github-accounts-in-2026-3fh5"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The studio behind Pokémon struggles to find its voice in Beast of Reincarnation]]></title>
-        <id>https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox</id>
-        <link href="https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox"/>
-        <updated>2026-08-03T16:00:00.000Z</updated>
-        <published>2026-08-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[# JavaScript Finally Got Destructors, Sort Of, and Nobody Told Me For A Year]]></title>
+        <id>https://dev.to/janardhan_reddy_8ae708fe0/-javascript-finally-got-destructors-sort-of-and-nobody-told-me-for-a-year-562o</id>
+        <link href="https://dev.to/janardhan_reddy_8ae708fe0/-javascript-finally-got-destructors-sort-of-and-nobody-told-me-for-a-year-562o"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished]]></title>
-        <id>https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale"/>
+        <title type="html"><![CDATA[The 6 Best JavaScript Libraries for Chart Plotting in 2026]]></title>
+        <id>https://dev.to/isaac_neuhaus_2e49fe4b603/the-6-best-javascript-libraries-for-chart-plotting-in-2026-1elf</id>
+        <link href="https://dev.to/isaac_neuhaus_2e49fe4b603/the-6-best-javascript-libraries-for-chart-plotting-in-2026-1elf"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes ZikarelHub Nigeria's #1 Digital Agency — A Technical Case Study]]></title>
+        <id>https://dev.to/zikarelhub/what-makes-zikarelhub-nigerias-1-digital-agency-a-technical-case-study-4o5</id>
+        <link href="https://dev.to/zikarelhub/what-makes-zikarelhub-nigerias-1-digital-agency-a-technical-case-study-4o5"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔄 JavaScript Event Loop: The Thing You Use Daily But Never See!]]></title>
+        <id>https://dev.to/mdfahim18/javascript-event-loop-the-thing-you-use-daily-but-never-see-4lnc</id>
+        <link href="https://dev.to/mdfahim18/javascript-event-loop-the-thing-you-use-daily-but-never-see-4lnc"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Timeline Portfolio using Canvas 2D]]></title>
+        <id>https://dev.to/vitorstick/how-i-built-a-timeline-portfolio-using-canvas-2d-4a26</id>
+        <link href="https://dev.to/vitorstick/how-i-built-a-timeline-portfolio-using-canvas-2d-4a26"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I got tired of mocking Date, so I built a TimeProvider for TypeScript]]></title>
+        <id>https://dev.to/jaenyf/i-got-tired-of-mocking-date-so-i-built-a-timeprovider-for-typescript-41mm</id>
+        <link href="https://dev.to/jaenyf/i-got-tired-of-mocking-date-so-i-built-a-timeprovider-for-typescript-41mm"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transfer USDT From BNB Chain to Solana: Step-by-Step Guide]]></title>
+        <id>https://dev.to/sfe545/transfer-usdt-from-bnb-chain-to-solana-step-by-step-guide-8i8</id>
+        <link href="https://dev.to/sfe545/transfer-usdt-from-bnb-chain-to-solana-step-by-step-guide-8i8"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our favorite memories at the movies]]></title>
+        <id>https://www.theverge.com/entertainment/974920/verge-favorite-movie-memories</id>
+        <link href="https://www.theverge.com/entertainment/974920/verge-favorite-movie-memories"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
@@ -225,23 +239,30 @@
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Our favorite memories at the movies]]></title>
-        <id>https://www.theverge.com/entertainment/974920/verge-favorite-movie-memories</id>
-        <link href="https://www.theverge.com/entertainment/974920/verge-favorite-movie-memories"/>
+        <title type="html"><![CDATA[The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished]]></title>
+        <id>https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Purple Carrot Meal Kit Review: Tastier Than Meal Kits With Meat]]></title>
-        <id>https://www.wired.com/review/purple-carrot-meal-kit-2026/</id>
-        <link href="https://www.wired.com/review/purple-carrot-meal-kit-2026/"/>
+        <title type="html"><![CDATA[The studio behind Pokémon struggles to find its voice in Beast of Reincarnation]]></title>
+        <id>https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox</id>
+        <link href="https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Cordless Vacuums (2026): My Brand-New Top Pick]]></title>
-        <id>https://www.wired.com/gallery/the-best-cordless-vacuum/</id>
-        <link href="https://www.wired.com/gallery/the-best-cordless-vacuum/"/>
+        <title type="html"><![CDATA[Apple briefly yanked Telegram from the App Store over CSAM violations]]></title>
+        <id>https://www.theverge.com/tech/974951/telegram-apple-app-store-removed</id>
+        <link href="https://www.theverge.com/tech/974951/telegram-apple-app-store-removed"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peak Design’s latest bags have clever integrated hooks]]></title>
+        <id>https://www.theverge.com/tech/973624/peak-design-city-line-details-price</id>
+        <link href="https://www.theverge.com/tech/973624/peak-design-city-line-details-price"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
@@ -253,16 +274,23 @@
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Design Arena creators raise $7.9 million to bring taste to AI models]]></title>
-        <id>https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/</id>
-        <link href="https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"/>
+        <title type="html"><![CDATA[The Best Cordless Vacuums (2026): My Brand-New Top Pick]]></title>
+        <id>https://www.wired.com/gallery/the-best-cordless-vacuum/</id>
+        <link href="https://www.wired.com/gallery/the-best-cordless-vacuum/"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Outernet turns your saved posts into real-world adventures]]></title>
-        <id>https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/</id>
-        <link href="https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/"/>
+        <title type="html"><![CDATA[Purple Carrot Meal Kit Review: Tastier Than Meal Kits With Meat]]></title>
+        <id>https://www.wired.com/review/purple-carrot-meal-kit-2026/</id>
+        <link href="https://www.wired.com/review/purple-carrot-meal-kit-2026/"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Base Power raises another $1B to save the grid using backyard batteries]]></title>
+        <id>https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/</id>
+        <link href="https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
@@ -274,9 +302,16 @@
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Base Power raises another $1B to save the grid using backyard batteries]]></title>
-        <id>https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/</id>
-        <link href="https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/"/>
+        <title type="html"><![CDATA[Outernet turns your saved posts into real-world adventures]]></title>
+        <id>https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/</id>
+        <link href="https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/"/>
+        <updated>2026-08-03T16:00:00.000Z</updated>
+        <published>2026-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Arena creators raise $7.9 million to bring taste to AI models]]></title>
+        <id>https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/</id>
+        <link href="https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
@@ -326,41 +361,6 @@
         <title type="html"><![CDATA[The System That Turned Paper Charts into Digital Medical Records]]></title>
         <id>https://spectrum.ieee.org/ieee-milestone-digital-medical-records</id>
         <link href="https://spectrum.ieee.org/ieee-milestone-digital-medical-records"/>
-        <updated>2026-08-03T16:00:00.000Z</updated>
-        <published>2026-08-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China gets better bang for its buck than America in AI]]></title>
-        <id>https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai</id>
-        <link href="https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai"/>
-        <updated>2026-08-03T16:00:00.000Z</updated>
-        <published>2026-08-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three lions die at Tokyo's Tama Zoo amid heat wave]]></title>
-        <id>https://www.japantimes.co.jp/news/2026/08/04/japan/science-health/heat-lion-deaths-tokyo-zoo/</id>
-        <link href="https://www.japantimes.co.jp/news/2026/08/04/japan/science-health/heat-lion-deaths-tokyo-zoo/"/>
-        <updated>2026-08-03T16:00:00.000Z</updated>
-        <published>2026-08-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Visualize in 2D/3D map any GitHub user's followers]]></title>
-        <id>https://github.com/ThierryRakotomanana/GitCharta</id>
-        <link href="https://github.com/ThierryRakotomanana/GitCharta"/>
-        <updated>2026-08-03T16:00:00.000Z</updated>
-        <published>2026-08-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walking to the Car Wash: The Salience Bias of LLMs in Commonsense Reasoning]]></title>
-        <id>https://arxiv.org/abs/2607.28478</id>
-        <link href="https://arxiv.org/abs/2607.28478"/>
-        <updated>2026-08-03T16:00:00.000Z</updated>
-        <published>2026-08-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Generate a plan visualization with dependencies to parallelize projects]]></title>
-        <id>https://reloadium.com/reloadium-plans/</id>
-        <link href="https://reloadium.com/reloadium-plans/"/>
         <updated>2026-08-03T16:00:00.000Z</updated>
         <published>2026-08-03T16:00:00.000Z</published>
     </entry>
