@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-05T13:02:43.249Z</updated>
+    <updated>2026-08-05T15:03:30.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,23 @@
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don’t screw this up, Marvel]]></title>
-        <id>https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday</id>
-        <link href="https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday"/>
+        <title type="html"><![CDATA[Traveling this summer? Don’t go without these essential gadgets]]></title>
+        <id>https://www.theverge.com/gadgets/974436/summer-travel-tech-gadget-gift-guide</id>
+        <link href="https://www.theverge.com/gadgets/974436/summer-travel-tech-gadget-gift-guide"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney says it&#8217;s &#8216;exploring&#8217; adding a free tier to Disney Plus]]></title>
+        <id>https://www.theverge.com/streaming/975543/disney-plus-free-tier-q3-2026-earnings</id>
+        <link href="https://www.theverge.com/streaming/975543/disney-plus-free-tier-q3-2026-earnings"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ted Lasso returns at an important time for Apple TV]]></title>
+        <id>https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv</id>
+        <link href="https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
@@ -36,9 +50,9 @@
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ted Lasso returns at an important time for Apple TV]]></title>
-        <id>https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv</id>
-        <link href="https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv"/>
+        <title type="html"><![CDATA[Don’t screw this up, Marvel]]></title>
+        <id>https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday</id>
+        <link href="https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
@@ -127,226 +141,100 @@
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Metabolic Traffic Jam: Why Combining Carbs and Fat Is Sabotaging Your Health]]></title>
-        <id>https://thevitalityclinic.co.uk/the-metabolic-traffic-jam-why-combining-carbs-and-fat-is-sabotaging-your-health/</id>
-        <link href="https://thevitalityclinic.co.uk/the-metabolic-traffic-jam-why-combining-carbs-and-fat-is-sabotaging-your-health/"/>
+        <title type="html"><![CDATA[Show HN: SlickFast Deterministic Chart/Dash Renderer, No Browser(JSON → SVG/PNG)]]></title>
+        <id>https://slickfast.com/</id>
+        <link href="https://slickfast.com/"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BrandArtisan – React components to brand PNGs, no browser]]></title>
-        <id>https://github.com/roslove44/brand-artisan</id>
-        <link href="https://github.com/roslove44/brand-artisan"/>
+        <title type="html"><![CDATA[How Blackwing Pencils are Made [video]]]></title>
+        <id>https://www.youtube.com/watch?v=fow-LsdaH2E</id>
+        <link href="https://www.youtube.com/watch?v=fow-LsdaH2E"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using SwiftUI's ContentBuilder with Non-View Types]]></title>
-        <id>https://artemnovichkov.com/blog/using-swiftui-contentbuilder-with-non-view-types</id>
-        <link href="https://artemnovichkov.com/blog/using-swiftui-contentbuilder-with-non-view-types"/>
+        <title type="html"><![CDATA[Microsoft Is Quietly Deleting Mentions of 32 GB RAM Recommendation for Win 11]]></title>
+        <id>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</id>
+        <link href="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Illegal Ham Radio Equipment Seizure, and Save Am Radio [video]]]></title>
-        <id>https://www.youtube.com/watch?v=sjOyxyfVu14</id>
-        <link href="https://www.youtube.com/watch?v=sjOyxyfVu14"/>
+        <title type="html"><![CDATA[Situational Awareness hedge fund meltdown was a warning shot BofA CEO says]]></title>
+        <id>https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html</id>
+        <link href="https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understand and build your own SIMPLE xkb keymap – never worry about it again]]></title>
-        <id>https://krei.se/Doc/hardware/003-xkb-Keyboardflow</id>
-        <link href="https://krei.se/Doc/hardware/003-xkb-Keyboardflow"/>
+        <title type="html"><![CDATA[The State of AI in the Binocular Viewer Industry]]></title>
+        <id>https://www.adamarice.com/ai-binocular-viewers/</id>
+        <link href="https://www.adamarice.com/ai-binocular-viewers/"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: What are the most underrated developer tools you've discovered this year]]></title>
-        <id>https://news.ycombinator.com/item?id=49182115</id>
-        <link href="https://news.ycombinator.com/item?id=49182115"/>
+        <title type="html"><![CDATA[Companies once tied to Assad kept winning UN contracts under Syria's new rulers]]></title>
+        <id>https://www.icij.org/investigations/damascus-dossier/companies-once-tied-to-assad-kept-winning-un-contracts-under-syrias-new-rulers/</id>
+        <link href="https://www.icij.org/investigations/damascus-dossier/companies-once-tied-to-assad-kept-winning-un-contracts-under-syrias-new-rulers/"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notice The "I" Pay Attention to The "Me" [video]]]></title>
-        <id>https://www.youtube.com/watch?v=JziA5VdsxaA</id>
-        <link href="https://www.youtube.com/watch?v=JziA5VdsxaA"/>
+        <title type="html"><![CDATA[Episode 2: Trump Must Admit Defeat in Iran [video]]]></title>
+        <id>https://www.youtube.com/watch?v=nRAtD7iAgwY</id>
+        <link href="https://www.youtube.com/watch?v=nRAtD7iAgwY"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tailscale Subnet Routers, The right way]]></title>
-        <id>https://excloud.dev/docs/guides/tailscale-ipv6-multi-cloud</id>
-        <link href="https://excloud.dev/docs/guides/tailscale-ipv6-multi-cloud"/>
+        <title type="html"><![CDATA[A creature that the internet is raising together]]></title>
+        <id>https://canwecooperate.com</id>
+        <link href="https://canwecooperate.com"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Indie Developers Should Start Alone]]></title>
-        <id>https://defragzone.substack.com/p/why-indie-developers-should-start</id>
-        <link href="https://defragzone.substack.com/p/why-indie-developers-should-start"/>
+        <title type="html"><![CDATA[Bitcoin BIP110 mandatory activation this Saturday, how game theory will unfold?]]></title>
+        <id>https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon</id>
+        <link href="https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's New in PHP 8.6]]></title>
-        <id>https://stitcher.io/blog/new-in-php-86</id>
-        <link href="https://stitcher.io/blog/new-in-php-86"/>
+        <title type="html"><![CDATA[OpenAI pays $3.2M to settle claims it discriminated against US workers]]></title>
+        <id>https://www.theguardian.com/us-news/2026/aug/04/openai-worker-discrimination-claims-settlement</id>
+        <link href="https://www.theguardian.com/us-news/2026/aug/04/openai-worker-discrimination-claims-settlement"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX's AI spending unnerves Wall Street despite promises of quick payoff]]></title>
-        <id>https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html</id>
-        <link href="https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html"/>
+        <title type="html"><![CDATA[The official draw.io MCP Server]]></title>
+        <id>https://github.com/jgraph/drawio-mcp</id>
+        <link href="https://github.com/jgraph/drawio-mcp"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Enabling the next iteration of the Rust borrow checker on nightly]]></title>
-        <id>https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/</id>
-        <link href="https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/"/>
+        <title type="html"><![CDATA[AI-generated stories rated better quality than human-written ones, study finds]]></title>
+        <id>https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds</id>
+        <link href="https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Sound and Music of 'Hyper Light Drifter' [video]]]></title>
-        <id>https://gdcvault.com/play/1024135/The-Sound-and-Music-of</id>
-        <link href="https://gdcvault.com/play/1024135/The-Sound-and-Music-of"/>
+        <title type="html"><![CDATA[Offline-First Data Architecture for a National Postal Service]]></title>
+        <id>https://necromant2005.github.io/dev/offline-first-data-architecture-for-a-national-postal-service/</id>
+        <link href="https://necromant2005.github.io/dev/offline-first-data-architecture-for-a-national-postal-service/"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An AI Approach to Verified Production Cryptographic Libraries]]></title>
-        <id>https://arxiv.org/abs/2608.00965</id>
-        <link href="https://arxiv.org/abs/2608.00965"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why 70 of Website Replatforming Go over Budget]]></title>
-        <id>https://focusreactive.com/blog/why-70-of-website-replatforming-projects-go-over-budget-and-how-to-prevent/</id>
-        <link href="https://focusreactive.com/blog/why-70-of-website-replatforming-projects-go-over-budget-and-how-to-prevent/"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DiCaprio and Bezos set USD$200M fund to recover endangered species]]></title>
-        <id>https://variety.com/2026/film/news/leonardo-dicaprio-jeff-bezos-project-endangered-species-1236827629/</id>
-        <link href="https://variety.com/2026/film/news/leonardo-dicaprio-jeff-bezos-project-endangered-species-1236827629/"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted]]></title>
-        <id>https://www.asiae.co.kr/en/article/2026080416131786841</id>
-        <link href="https://www.asiae.co.kr/en/article/2026080416131786841"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Hubmesh – Multi-hop RAG retrieval with zero LLM calls in the query path]]></title>
-        <id>https://github.com/DemigodDSK/hubmesh</id>
-        <link href="https://github.com/DemigodDSK/hubmesh"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CrewAI in Python: Coordinating Teams of AI Agents]]></title>
-        <id>https://realpython.com/crewai-python/</id>
-        <link href="https://realpython.com/crewai-python/"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$20M+ in Microsoft bug bounties paid out in last 12 months]]></title>
-        <id>https://www.theregister.com/security/2026/08/04/ai-helps-microsoft-bug-hunters-chase-a-record-20m-payday/5282821</id>
-        <link href="https://www.theregister.com/security/2026/08/04/ai-helps-microsoft-bug-hunters-chase-a-record-20m-payday/5282821"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Pets Are Here [video]]]></title>
-        <id>https://www.youtube.com/watch?v=mIfmUHiMN3U</id>
-        <link href="https://www.youtube.com/watch?v=mIfmUHiMN3U"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Movie scores from what people say when nobody's asking]]></title>
-        <id>https://skipthecritics.com</id>
-        <link href="https://skipthecritics.com"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Yanes, yet another NES audio plugin:LinuxCLAP polyphonic chiptune synth]]></title>
-        <id>https://github.com/andrewfader/yanes</id>
-        <link href="https://github.com/andrewfader/yanes"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: All-in-one gamedev toolkit for indie creators]]></title>
-        <id>https://reactorcoregames.github.io/</id>
-        <link href="https://reactorcoregames.github.io/"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I gave my video editor an MCP server so Claude can edit videos for me]]></title>
-        <id>https://www.shorz.ai</id>
-        <link href="https://www.shorz.ai"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monopoly Enshittified Amazon]]></title>
-        <id>https://pluralistic.net/2022/11/28/enshittification/#relentless-payola</id>
-        <link href="https://pluralistic.net/2022/11/28/enshittification/#relentless-payola"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Ellison: Here's Why You Can Trust Me with the News]]></title>
-        <id>https://www.nytimes.com/2026/08/04/opinion/david-ellison-paramount-warner-deal.html</id>
-        <link href="https://www.nytimes.com/2026/08/04/opinion/david-ellison-paramount-warner-deal.html"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney Data Dump: What's the Best Day of the Week to Visit the Magic Kingdom?]]></title>
-        <id>https://touringplans.com/blog/disney-data-dump-whats-the-best-day-of-the-week-to-visit-the-magic-kingdom/</id>
-        <link href="https://touringplans.com/blog/disney-data-dump-whats-the-best-day-of-the-week-to-visit-the-magic-kingdom/"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to export Claude chats to Markdown [video]]]></title>
-        <id>https://www.youtube.com/watch?v=eWCf5HGQYMQ</id>
-        <link href="https://www.youtube.com/watch?v=eWCf5HGQYMQ"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Aidress – open-source discovery and trust registry for agents]]></title>
-        <id>https://github.com/Aidress-ai/Aidress</id>
-        <link href="https://github.com/Aidress-ai/Aidress"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The auto industry is building for a past that's never coming back]]></title>
-        <id>https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/</id>
-        <link href="https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/"/>
-        <updated>2026-08-04T16:00:00.000Z</updated>
-        <published>2026-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neats and Scruffies]]></title>
-        <id>https://en.wikipedia.org/wiki/Neats_and_scruffies</id>
-        <link href="https://en.wikipedia.org/wiki/Neats_and_scruffies"/>
+        <title type="html"><![CDATA[I cracked 150 PRs a week [video]]]></title>
+        <id>https://www.youtube.com/watch?v=TK1OeQZswiQ</id>
+        <link href="https://www.youtube.com/watch?v=TK1OeQZswiQ"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
@@ -358,9 +246,121 @@
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I cracked 150 PRs a week [video]]]></title>
-        <id>https://www.youtube.com/watch?v=TK1OeQZswiQ</id>
-        <link href="https://www.youtube.com/watch?v=TK1OeQZswiQ"/>
+        <title type="html"><![CDATA[Neats and Scruffies]]></title>
+        <id>https://en.wikipedia.org/wiki/Neats_and_scruffies</id>
+        <link href="https://en.wikipedia.org/wiki/Neats_and_scruffies"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The auto industry is building for a past that's never coming back]]></title>
+        <id>https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/</id>
+        <link href="https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Aidress – open-source discovery and trust registry for agents]]></title>
+        <id>https://github.com/Aidress-ai/Aidress</id>
+        <link href="https://github.com/Aidress-ai/Aidress"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to export Claude chats to Markdown [video]]]></title>
+        <id>https://www.youtube.com/watch?v=eWCf5HGQYMQ</id>
+        <link href="https://www.youtube.com/watch?v=eWCf5HGQYMQ"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney Data Dump: What's the Best Day of the Week to Visit the Magic Kingdom?]]></title>
+        <id>https://touringplans.com/blog/disney-data-dump-whats-the-best-day-of-the-week-to-visit-the-magic-kingdom/</id>
+        <link href="https://touringplans.com/blog/disney-data-dump-whats-the-best-day-of-the-week-to-visit-the-magic-kingdom/"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Ellison: Here's Why You Can Trust Me with the News]]></title>
+        <id>https://www.nytimes.com/2026/08/04/opinion/david-ellison-paramount-warner-deal.html</id>
+        <link href="https://www.nytimes.com/2026/08/04/opinion/david-ellison-paramount-warner-deal.html"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monopoly Enshittified Amazon]]></title>
+        <id>https://pluralistic.net/2022/11/28/enshittification/#relentless-payola</id>
+        <link href="https://pluralistic.net/2022/11/28/enshittification/#relentless-payola"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I gave my video editor an MCP server so Claude can edit videos for me]]></title>
+        <id>https://www.shorz.ai</id>
+        <link href="https://www.shorz.ai"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: All-in-one gamedev toolkit for indie creators]]></title>
+        <id>https://reactorcoregames.github.io/</id>
+        <link href="https://reactorcoregames.github.io/"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Yanes, yet another NES audio plugin:LinuxCLAP polyphonic chiptune synth]]></title>
+        <id>https://github.com/andrewfader/yanes</id>
+        <link href="https://github.com/andrewfader/yanes"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Movie scores from what people say when nobody's asking]]></title>
+        <id>https://skipthecritics.com</id>
+        <link href="https://skipthecritics.com"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Pets Are Here [video]]]></title>
+        <id>https://www.youtube.com/watch?v=mIfmUHiMN3U</id>
+        <link href="https://www.youtube.com/watch?v=mIfmUHiMN3U"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$20M+ in Microsoft bug bounties paid out in last 12 months]]></title>
+        <id>https://www.theregister.com/security/2026/08/04/ai-helps-microsoft-bug-hunters-chase-a-record-20m-payday/5282821</id>
+        <link href="https://www.theregister.com/security/2026/08/04/ai-helps-microsoft-bug-hunters-chase-a-record-20m-payday/5282821"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CrewAI in Python: Coordinating Teams of AI Agents]]></title>
+        <id>https://realpython.com/crewai-python/</id>
+        <link href="https://realpython.com/crewai-python/"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Hubmesh – Multi-hop RAG retrieval with zero LLM calls in the query path]]></title>
+        <id>https://github.com/DemigodDSK/hubmesh</id>
+        <link href="https://github.com/DemigodDSK/hubmesh"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted]]></title>
+        <id>https://www.asiae.co.kr/en/article/2026080416131786841</id>
+        <link href="https://www.asiae.co.kr/en/article/2026080416131786841"/>
+        <updated>2026-08-04T16:00:00.000Z</updated>
+        <published>2026-08-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiCaprio and Bezos set USD$200M fund to recover endangered species]]></title>
+        <id>https://variety.com/2026/film/news/leonardo-dicaprio-jeff-bezos-project-endangered-species-1236827629/</id>
+        <link href="https://variety.com/2026/film/news/leonardo-dicaprio-jeff-bezos-project-endangered-species-1236827629/"/>
         <updated>2026-08-04T16:00:00.000Z</updated>
         <published>2026-08-04T16:00:00.000Z</published>
     </entry>

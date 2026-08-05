@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-05 21:02:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-05 23:03:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -65,5 +65,5 @@ https://github.com/Techthos/web-performer
 - [2026-08-02-Show-HN:-Syncular-–-offline-first-SQL-sync-with-TypeScript-and-Rust-cores](https://github.com/syncular/syncular) 
 - [2026-07-31-I-Migrated-a-350k-Line-Java/JSP-Application-to-TypeScript-in-Five-Days](https://gokulakrishna.co/2026/07/31/migrated-350000-line-java-jsp-application-typescript-five-days/) 
 - [2026-07-27-Show-HN:-Injectable-time-and-timers-with-custom-Date-types-for-TypeScript](https://github.com/jaenyf/time-provider) 
-- [2026-07-11-Red-is-a-TypeScript/Bun-library-for-building-idempotent-DevOps-CLIs](https://github.com/amiorin/red) 
 - [2026-07-11-Revving-up-Microsoft's-10x-faster-TypeScript-7](https://www.infoworld.com/article/4194567/revving-up-microsofts-10x-faster-typescript-7.html) 
+- [2026-07-11-Red-is-a-TypeScript/Bun-library-for-building-idempotent-DevOps-CLIs](https://github.com/amiorin/red) 
