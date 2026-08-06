@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-06 08:01:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-06 10:01:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -9,22 +9,22 @@
 
 - [2026-07-30-npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635) 
 - [2026-08-05-I-built-a-short-code-marketplace-with-zero-npm-dependencies-Node.js-22,-no-framework](https://dev.to/claimo_me/i-built-a-short-code-marketplace-with-zero-npm-dependencies-nodejs-22-no-framework-2ag9) 
-- [2026-08-04-Dev-Log-jeongbu-—-정부-정책-가이드-Vite-프로덕션-빌드·자동-sitemap-완성-Pomyjo-Wave-3](https://dev.to/chobh1024/dev-log-jeongbu-jeongbu-jeongcaeg-gaideu-vite-peurodeogsyeon-bildeujadong-sitemap-wanseong-pomyjo-wave-3-2567) 
 - [2026-08-04-Dev-Log-ilban-leadership-site-—-일반-리더십-진단-Vite-프로덕션-빌드·i18n-점검-Pomyjo-Wave-3](https://dev.to/chobh1024/dev-log-ilban-leadership-site-ilban-rideosib-jindan-vite-peurodeogsyeon-bildeui18n-jeomgeom-pomyjo-wave-3-47n3) 
+- [2026-08-04-Dev-Log-jeongbu-—-정부-정책-가이드-Vite-프로덕션-빌드·자동-sitemap-완성-Pomyjo-Wave-3](https://dev.to/chobh1024/dev-log-jeongbu-jeongbu-jeongcaeg-gaideu-vite-peurodeogsyeon-bildeujadong-sitemap-wanseong-pomyjo-wave-3-2567) 
 - [2026-08-03-My-npm-supply-chain-monitor-was-defeated-by-one-line-of-JavaScript](https://dev.to/kirtashdev/my-npm-supply-chain-monitor-was-defeated-by-one-line-of-javascript-1hhm) 
-- [2026-08-01-Vitest-vs-Jest-in-2026:-Speed,-ESM,-and-the-Verdict](https://dev.to/truongandev/vitest-vs-jest-in-2026-speed-esm-and-the-verdict-kd5) 
 - [2026-08-01-pnpm-vs-npm-vs-Yarn-vs-Bun:-2026-Speed-Test](https://dev.to/truongandev/pnpm-vs-npm-vs-yarn-vs-bun-2026-speed-test-261) 
+- [2026-08-01-Vitest-vs-Jest-in-2026:-Speed,-ESM,-and-the-Verdict](https://dev.to/truongandev/vitest-vs-jest-in-2026-speed-esm-and-the-verdict-kd5) 
 - [2026-07-29-Vitest-Complete-Guide:-Fast-Unit-Testing-for-JavaScript-2026](https://dev.to/stacknotice/vitest-complete-guide-fast-unit-testing-for-javascript-2026-1d3c) 
 - [2026-07-26-How-to-Find-Abandoned-npm/PyPI-Packages-and-Monetize-Them-Step-by-Step](https://dev.to/kaparovbakay2001wq/how-to-find-abandoned-npmpypi-packages-and-monetize-them-step-by-step-353o) 
-- [2026-07-21-npm-v12-stopped-running-install-scripts.-Which-ones-do-you-approve?-A-real-audit-walkthrough](https://dev.to/booyaka101/npm-v12-stopped-running-install-scripts-which-ones-do-you-approve-a-real-audit-walkthrough-b1l) 
 - [2026-07-21-Oxlint-vs-ESLint:-Which-One-Should-You-Use?](https://dev.to/aymaneldawy/oxlint-vs-eslint-which-one-should-you-use-cfc) 
-- [2026-07-20-Stop-Installing-15-Icon-NPM-Packages-in-Every-Single-Project.-Do-This-Instead.](https://dev.to/toolsmatic/stop-installing-15-icon-npm-packages-in-every-single-project-do-this-instead-149a) 
+- [2026-07-21-npm-v12-stopped-running-install-scripts.-Which-ones-do-you-approve?-A-real-audit-walkthrough](https://dev.to/booyaka101/npm-v12-stopped-running-install-scripts-which-ones-do-you-approve-a-real-audit-walkthrough-b1l) 
 - [2026-07-20-Lesson-from-Polyfills-in-production](https://dev.to/purnez/lesson-from-polyfills-in-production-4ccc) 
+- [2026-07-20-Stop-Installing-15-Icon-NPM-Packages-in-Every-Single-Project.-Do-This-Instead.](https://dev.to/toolsmatic/stop-installing-15-icon-npm-packages-in-every-single-project-do-this-instead-149a) 
 - [2026-07-14-Stop-Arguing-About-Code-Style-—-Set-Up-Prettier,-ESLint-&amp;-Husky-Once](https://dev.to/hoseinmdev/stop-arguing-about-code-style-set-up-prettier-eslint-husky-once-1g8j) 
 - [2026-07-12-I-Replaced-ESLint-and-Prettier-with-Biome-on-Two-Production-Repos](https://dev.to/ahmed_mahmoud360/i-replaced-eslint-and-prettier-with-biome-on-two-production-repos-2m2a) 
 - [2026-07-10-Vite-8's-Rolldown-Makes-Builds-13x-Faster,-Not-the-Dev-Server](https://dev.to/curioustore_48788631d0e2e/vite-8s-rolldown-makes-builds-13x-faster-not-the-dev-server-2l3a) 
-- [2026-07-09-npm-postinstall-Attacks-in-2026:-How-They-Actually-Work-and-How-to-Defend-Against-Them](https://dev.to/dev_encyclopedia/npm-postinstall-attacks-in-2026-how-they-actually-work-and-how-to-defend-against-them-2jmn) 
 - [2026-07-09-Modern-Ember-as-an-electron-vite-blueprint](https://dev.to/ignace/modern-ember-as-an-electron-vite-blueprint-5ce7) 
+- [2026-07-09-npm-postinstall-Attacks-in-2026:-How-They-Actually-Work-and-How-to-Defend-Against-Them](https://dev.to/dev_encyclopedia/npm-postinstall-attacks-in-2026-how-they-actually-work-and-how-to-defend-against-them-2jmn) 
 - [2026-07-21--@pinceladasdaweb/rabbitmq-npm-package-](
 https://github.com/pinceladasdaweb/rabbitmq
 ) 
@@ -35,11 +35,11 @@ https://github.com/pinceladasdaweb/rabbitmq
 - [2026-08-05-NPMixer:-Hierarchical-Neighboring-Patch-Mixing-for-Time-Series-Forecasting](https://arxiv.org/abs/2605.07476) 
 - [2026-08-04-Why-Estonians-invite-strangers-into-their-back-gardens-each-summer](https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer) 
 - [2026-08-02-Show-HN:-NoDiff,-a-framework-that-lives-in-your-monorepo](https://github.com/hbbio/nodiff) 
-- [2026-07-22-Show-HN:-Kernel-optimization-is-obsolete.-Just-NPM-install-it](https://github.com/tensormux/kernel-skills) 
 - [2026-07-22-Was-there-a-real-Tower-of-Babel?-This-temple-is-the-leading-contender](https://www.nationalgeographic.com/history/article/tower-of-babel-genesis-bible-archaeology) 
+- [2026-07-22-Show-HN:-Kernel-optimization-is-obsolete.-Just-NPM-install-it](https://github.com/tensormux/kernel-skills) 
 - [2026-07-21-The-Yarn-Spinner-Public-License](https://yarnspinner.dev/yspl) 
 - [2026-07-11-Show-HN:-Quantum-audit-–-CLI-to-scan-NPM-deps-for-quantum-vulnerable-crypto](https://quantum-audit-site.vercel.app) 
-- [2026-07-09-NPM-12-makes-install-scripts,-Git,-and-remote-url-dependencies-opt-in-by-default](https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation/) 
 - [2026-07-09-NPM-v12-Ships-with-Install-Scripts-Off-by-Default,-Deprecating-2FA-Bypass-Tokens](https://socket.dev/blog/npm-12) 
+- [2026-07-09-NPM-12-makes-install-scripts,-Git,-and-remote-url-dependencies-opt-in-by-default](https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation/) 
 - [2026-08-05-The-AI-Notetaker-Has-Been-Invited-to-All-the-Meetings](https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/) 
 - [2026-07-24-角落新声｜数字与实体、有线与无线：我的多场景有声角落构建](https://sspai.com/post/112232) 
