@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-08-06 23:03:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-07 06:01:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS-Tricks
 
 
 
 
+- [2026-08-06-2026-State-of-CSS,-Devs-Surveys](https://css-tricks.com/2026-state-of-css-devs-surveys/) 
 - [2026-08-03-Gap-Decorations-Are-Now-Available,-Here’s-What’s-New](https://css-tricks.com/css-gap-decorations-now-available/) 
 - [2026-07-31-Get-Ready-For-the-Powerful-CSS-border-shape-Property!](https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/) 
 - [2026-07-30-What’s-!important-#16:-sibling-index-Animations,-Use-Cases-for-the-infinity-Keyword,-Container-Stuck-Queries,-and-More](https://css-tricks.com/whats-important-16/) 

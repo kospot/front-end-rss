@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-06 23:03:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-07 06:01:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -17,3 +17,4 @@
 - [2026-07-28-PayPal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat](https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/) 
 - [2026-07-15-Stripe-and-Advent-reportedly-offered-to-buy-PayPal-for-around-$53.4B](https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/) 
 - [2026-08-05-Petlibro-Offers:-60%-Off-in-August-2026](https://www.wired.com/story/petlibro-discount-code/) 
+- [2026-08-06-Apple-increases-trade-in-offers-and-adds-new-Android-devices](https://www.theverge.com/tech/976210/apple-trade-in-values-increased) 
