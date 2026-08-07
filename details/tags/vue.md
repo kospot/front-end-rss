@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-07 08:01:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-07 10:01:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -8,21 +8,21 @@
 
 
 - [2026-08-05-How-to-Convert-PDF-to-Grayscale-in-the-Browser-with-Vue-3-and-Canvas](https://dev.to/sunshey/how-to-convert-pdf-to-grayscale-in-the-browser-with-vue-3-and-canvas-3ffe) 
-- [2026-08-04-How-to-Add-PDF-Annotations-in-Vue.js:-PDF.js,-vue-pdf-embed,-@tato30/vue-pdf,-and-Vue-PDF-Viewer-2026](https://dev.to/9haroon/how-to-add-pdf-annotations-in-vuejs-pdfjs-vue-pdf-embed-tato30vue-pdf-and-vue-pdf-viewer-5b40) 
 - [2026-08-04-How-to-Build-a-Visual-PDF-Page-Organizer-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-build-a-visual-pdf-page-organizer-with-vue-3-and-pdf-lib-3dfh) 
+- [2026-08-04-How-to-Add-PDF-Annotations-in-Vue.js:-PDF.js,-vue-pdf-embed,-@tato30/vue-pdf,-and-Vue-PDF-Viewer-2026](https://dev.to/9haroon/how-to-add-pdf-annotations-in-vuejs-pdfjs-vue-pdf-embed-tato30vue-pdf-and-vue-pdf-viewer-5b40) 
 - [2026-08-03-How-to-Remove-PDF-Annotations-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-remove-pdf-annotations-in-the-browser-with-vue-3-and-pdf-lib-1kkl) 
 - [2026-07-30-How-to-Flatten-PDF-Forms-and-Annotations-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-flatten-pdf-forms-and-annotations-in-the-browser-with-vue-3-and-pdf-lib-1mo3) 
 - [2026-07-29-How-to-Compare-Two-PDFs-Pixel-by-Pixel-in-the-Browser-with-Vue-3-and-Canvas](https://dev.to/sunshey/how-to-compare-two-pdfs-pixel-by-pixel-in-the-browser-with-vue-3-and-canvas-3h8c) 
-- [2026-07-28-Cancelling-API-Requests-in-Vue-3:-One-Registry,-Two-Paths,-and-the-Question-That-Orders-Them](https://dev.to/eveko/cancelling-api-requests-in-vue-3-one-registry-two-paths-and-the-question-that-orders-them-26h3) 
 - [2026-07-28-How-to-Remove-PDF-Metadata-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-remove-pdf-metadata-in-the-browser-with-vue-3-and-pdf-lib-5cgh) 
+- [2026-07-28-Cancelling-API-Requests-in-Vue-3:-One-Registry,-Two-Paths,-and-the-Question-That-Orders-Them](https://dev.to/eveko/cancelling-api-requests-in-vue-3-one-registry-two-paths-and-the-question-that-orders-them-26h3) 
 - [2026-07-27-How-to-Rotate-PDF-Pages-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-rotate-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-3eg) 
-- [2026-07-26-How-to-Reverse-PDF-Page-Order-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-reverse-pdf-page-order-in-the-browser-with-vue-3-and-pdf-lib-47ig) 
 - [2026-07-26-ZWPlayer:-A-Free-HTML5-Video-Player-with-AI-Subtitles,-Interactive-Annotations,-and-Vue-2/3-Support](https://dev.to/chenfanyu/zwplayer-a-free-html5-video-player-with-ai-subtitles-interactive-annotations-and-vue-23-support-4hi7) 
+- [2026-07-26-How-to-Reverse-PDF-Page-Order-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-reverse-pdf-page-order-in-the-browser-with-vue-3-and-pdf-lib-47ig) 
 - [2026-07-25-How-to-Edit-PDF-Metadata-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-edit-pdf-metadata-in-the-browser-with-vue-3-and-pdf-lib-3lfg) 
 - [2026-07-23-How-to-Add-Watermarks-to-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-add-watermarks-to-pdfs-in-the-browser-with-vue-3-and-pdf-lib-3k4n) 
 - [2026-07-20-How-to-Convert-PDF-to-Word-with-Vue-3-and-pdfjs-dist](https://dev.to/sunshey/how-to-convert-pdf-to-word-with-vue-3-and-pdfjs-dist-512f) 
-- [2026-07-17-Recreating-iOS's-drum-roll-picker-in-Vue-3-—-inertia,-rubber-banding,-and-the-tap-vs-drag-problem](https://dev.to/jlc488/recreating-ioss-drum-roll-picker-in-vue-3-inertia-rubber-banding-and-the-tap-vs-drag-problem-4269) 
 - [2026-07-17-Browser-Based-PDF-Editing-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/browser-based-pdf-editing-with-vue-3-and-pdf-lib-413c) 
+- [2026-07-17-Recreating-iOS's-drum-roll-picker-in-Vue-3-—-inertia,-rubber-banding,-and-the-tap-vs-drag-problem](https://dev.to/jlc488/recreating-ioss-drum-roll-picker-in-vue-3-inertia-rubber-banding-and-the-tap-vs-drag-problem-4269) 
 - [2026-07-16-Browser-Based-PDF-Page-Editing-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/browser-based-pdf-page-editing-with-vue-3-and-pdf-lib-3051) 
 - [2026-08-06-Relevant-but-Incomplete:-Referential-Dangling-as-a-Paradigm-Level-Failure-Mode-in-Hard-Prompt-Compression](https://arxiv.org/abs/2608.04569) 
 - [2026-08-06-AI-driven-Multimodal-Representation-Learning-for-Latent-Mediation-Structure-Discovery-of-Socioeconomic-Disadvantage,-Psychosocial-Factors,-and-Cardiometabolic-Multimorbidity:-Insights-from-the-All-of-Us-Research-Program](https://arxiv.org/abs/2608.04016) 
