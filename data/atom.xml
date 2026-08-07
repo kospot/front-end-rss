@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-07T15:03:24.417Z</updated>
+    <updated>2026-08-07T22:01:56.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,44 +15,100 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney Plus tries a new AI-powered search]]></title>
+        <id>https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search</id>
+        <link href="https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge is about to lock out older ad blockers, just like Chrome did]]></title>
+        <id>https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3</id>
+        <link href="https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 7 Best TV Shows to Stream This Month]]></title>
+        <id>https://www.wired.com/story/the-7-best-shows-to-stream-right-now/</id>
+        <link href="https://www.wired.com/story/the-7-best-shows-to-stream-right-now/"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists]]></title>
+        <id>https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/</id>
+        <link href="https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer maker Framework notifies ‘all customers’ of a data breach]]></title>
+        <id>https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/</id>
+        <link href="https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI]]></title>
+        <id>https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pure CSS 3D dice cube module: FSCSS]]></title>
+        <id>https://dev.to/fscss/pure-css-3d-dice-cube-module-fscss-34gg</id>
+        <link href="https://dev.to/fscss/pure-css-3d-dice-cube-module-fscss-34gg"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auth for an AI Feature: Who Pays for This Call?]]></title>
+        <id>https://dev.to/multigrid/auth-for-an-ai-feature-who-pays-for-this-call-4jm5</id>
+        <link href="https://dev.to/multigrid/auth-for-an-ai-feature-who-pays-for-this-call-4jm5"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero bytes of geometry: a metal lattice sphere-traced in a 14.9 KB page]]></title>
+        <id>https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib</id>
+        <link href="https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking the Sandbox: How to Securely Execute AI-Generated JavaScript Without Bringing Down Your Server]]></title>
+        <id>https://dev.to/programmingcentral/breaking-the-sandbox-how-to-securely-execute-ai-generated-javascript-without-bringing-down-your-3ac9</id>
+        <link href="https://dev.to/programmingcentral/breaking-the-sandbox-how-to-securely-execute-ai-generated-javascript-without-bringing-down-your-3ac9"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your LLM Context Window Is Lying to You: How Token Budgets Actually Work]]></title>
+        <id>https://dev.to/mudassirworks/your-llm-context-window-is-lying-to-you-how-token-budgets-actually-work-b5e</id>
+        <link href="https://dev.to/mudassirworks/your-llm-context-window-is-lying-to-you-how-token-budgets-actually-work-b5e"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[View Transitions: Careful Not To Make Stuff Unclickable]]></title>
+        <id>https://master.dev/blog/view-transitions-careful-not-to-make-stuff-unclickable/</id>
+        <link href="https://master.dev/blog/view-transitions-careful-not-to-make-stuff-unclickable/"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[派早报：Bose 发布新款 QuietComfort 头戴式耳机等]]></title>
         <id>https://sspai.com/post/113162</id>
         <link href="https://sspai.com/post/113162"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Werewolf transformed my old gadgets into USB-C powered ones]]></title>
-        <id>https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on</id>
-        <link href="https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta ordered to pay an additional $567 million in public nuisance ruling]]></title>
-        <id>https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance</id>
-        <link href="https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brendan Carr officially unleashes broadcast consolidation]]></title>
-        <id>https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends</id>
-        <link href="https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Zelda movie’s Ganondorf casting hints at more movies]]></title>
-        <id>https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal</id>
-        <link href="https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
@@ -64,37 +120,37 @@
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists Used AI to Create 16 New Viruses]]></title>
-        <id>https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/</id>
-        <link href="https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/"/>
+        <title type="html"><![CDATA[Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3 Best Cheap Gaming Laptops (2026): Lenovo, MSI, Alienware]]></title>
-        <id>https://www.wired.com/gallery/best-cheap-gaming-laptops/</id>
-        <link href="https://www.wired.com/gallery/best-cheap-gaming-laptops/"/>
+        <title type="html"><![CDATA[The Zelda movie’s Ganondorf casting hints at more movies]]></title>
+        <id>https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal</id>
+        <link href="https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ranking the Best Smart Glasses: Meta, Viture, & More (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-smart-glasses/</id>
-        <link href="https://www.wired.com/gallery/best-smart-glasses/"/>
+        <title type="html"><![CDATA[Brendan Carr officially unleashes broadcast consolidation]]></title>
+        <id>https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends</id>
+        <link href="https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry]]></title>
-        <id>https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/</id>
-        <link href="https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/"/>
+        <title type="html"><![CDATA[Meta ordered to pay an additional $567 million in public nuisance ruling]]></title>
+        <id>https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance</id>
+        <link href="https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else]]></title>
-        <id>https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/</id>
-        <link href="https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/"/>
+        <title type="html"><![CDATA[Werewolf transformed my old gadgets into USB-C powered ones]]></title>
+        <id>https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on</id>
+        <link href="https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
@@ -106,58 +162,51 @@
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/</id>
-        <link href="https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/"/>
+        <title type="html"><![CDATA[DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else]]></title>
+        <id>https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/</id>
+        <link href="https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Airbnb says AI is helping it ship features faster as it tests a new search function]]></title>
-        <id>https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/</id>
-        <link href="https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"/>
+        <title type="html"><![CDATA[The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry]]></title>
+        <id>https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/</id>
+        <link href="https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Wallet now lets parents set up secure balances for their kids]]></title>
-        <id>https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/</id>
-        <link href="https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/"/>
+        <title type="html"><![CDATA[Ranking the Best Smart Glasses: Meta, Viture, & More (2026)]]></title>
+        <id>https://www.wired.com/gallery/best-smart-glasses/</id>
+        <link href="https://www.wired.com/gallery/best-smart-glasses/"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hacker pleads guilty to stealing data from more than 165 Snowflake customers]]></title>
-        <id>https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/</id>
-        <link href="https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/"/>
+        <title type="html"><![CDATA[3 Best Cheap Gaming Laptops (2026): Lenovo, MSI, Alienware]]></title>
+        <id>https://www.wired.com/gallery/best-cheap-gaming-laptops/</id>
+        <link href="https://www.wired.com/gallery/best-cheap-gaming-laptops/"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Naïve raises $28.5M to automate the grunt work of setting up and running a company]]></title>
-        <id>https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/</id>
-        <link href="https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"/>
+        <title type="html"><![CDATA[Scientists Used AI to Create 16 New Viruses]]></title>
+        <id>https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/</id>
+        <link href="https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China-linked LightSpy spyware caught targeting victims in 13 countries, including the US]]></title>
-        <id>https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/</id>
-        <link href="https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/"/>
+        <title type="html"><![CDATA[Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket]]></title>
+        <id>https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/</id>
+        <link href="https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow]]></title>
-        <id>https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/</id>
-        <link href="https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands ]]></title>
-        <id>https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/</id>
-        <link href="https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/"/>
+        <title type="html"><![CDATA[The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know]]></title>
+        <id>https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</id>
+        <link href="https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
@@ -169,9 +218,58 @@
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know]]></title>
-        <id>https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</id>
-        <link href="https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"/>
+        <title type="html"><![CDATA[Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands ]]></title>
+        <id>https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/</id>
+        <link href="https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/"/>
+        <updated>2026-08-06T16:00:00.000Z</updated>
+        <published>2026-08-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow]]></title>
+        <id>https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/</id>
+        <link href="https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/"/>
+        <updated>2026-08-06T16:00:00.000Z</updated>
+        <published>2026-08-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-linked LightSpy spyware caught targeting victims in 13 countries, including the US]]></title>
+        <id>https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/</id>
+        <link href="https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/"/>
+        <updated>2026-08-06T16:00:00.000Z</updated>
+        <published>2026-08-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naïve raises $28.5M to automate the grunt work of setting up and running a company]]></title>
+        <id>https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/</id>
+        <link href="https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"/>
+        <updated>2026-08-06T16:00:00.000Z</updated>
+        <published>2026-08-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacker pleads guilty to stealing data from more than 165 Snowflake customers]]></title>
+        <id>https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/</id>
+        <link href="https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/"/>
+        <updated>2026-08-06T16:00:00.000Z</updated>
+        <published>2026-08-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Wallet now lets parents set up secure balances for their kids]]></title>
+        <id>https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/</id>
+        <link href="https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/"/>
+        <updated>2026-08-06T16:00:00.000Z</updated>
+        <published>2026-08-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbnb says AI is helping it ship features faster as it tests a new search function]]></title>
+        <id>https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/</id>
+        <link href="https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"/>
+        <updated>2026-08-06T16:00:00.000Z</updated>
+        <published>2026-08-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026]]></title>
+        <id>https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/</id>
+        <link href="https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
@@ -263,104 +361,6 @@
         <title type="html"><![CDATA[About Ads in Notifications on Facebook in Meta Ads Manager]]></title>
         <id>https://www.facebook.com/business/help/1193428725816425?_fb_noscript=1</id>
         <link href="https://www.facebook.com/business/help/1193428725816425?_fb_noscript=1"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markov 1913 and the Missing Piece]]></title>
-        <id>https://deepnull.bearblog.dev/markov-1913-and-the-missing-piece/</id>
-        <link href="https://deepnull.bearblog.dev/markov-1913-and-the-missing-piece/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA Engineers Help Prolong Voyager 2's Science Mission]]></title>
-        <id>https://science.nasa.gov/blogs/voyager/2026/08/04/nasa-engineers-help-prolong-voyager-2s-science-mission/</id>
-        <link href="https://science.nasa.gov/blogs/voyager/2026/08/04/nasa-engineers-help-prolong-voyager-2s-science-mission/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Short Lesson in Perspective (2012)]]></title>
-        <id>https://lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/</id>
-        <link href="https://lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bingebuster Video – your streaming services, restocked as a video store]]></title>
-        <id>https://bingebuster.net/</id>
-        <link href="https://bingebuster.net/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking for something to do while GitHub is down?]]></title>
-        <id>https://pelican.clutch.engineering/cheatsheets/self-hosted-gitlab/</id>
-        <link href="https://pelican.clutch.engineering/cheatsheets/self-hosted-gitlab/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xcode's Clever Minimap]]></title>
-        <id>https://unsung.aresluna.org/xcodes-clever-minimap/</id>
-        <link href="https://unsung.aresluna.org/xcodes-clever-minimap/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muscle protein can now be grown in chloroplasts of lettuce and tobacco plants]]></title>
-        <id>https://phys.org/news/2026-08-powerhouses-fake-meat-muscle-protein.html</id>
-        <link href="https://phys.org/news/2026-08-powerhouses-fake-meat-muscle-protein.html"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guillotine Brought to Oppose New Data Center Left Company Reps Feeling "Unsafe"]]></title>
-        <id>https://www.gadgetreview.com/salem-brought-a-guillotine-to-oppose-new-data-center-company-reps-left-feeling-unsafe</id>
-        <link href="https://www.gadgetreview.com/salem-brought-a-guillotine-to-oppose-new-data-center-company-reps-left-feeling-unsafe"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gloriously Underqualified]]></title>
-        <id>https://jeffarnoldlabs.com/blogs/gloriously-underqualified</id>
-        <link href="https://jeffarnoldlabs.com/blogs/gloriously-underqualified"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gnome Shell Design Dreams – Tobias Bernard and Jakub Steiner Guadec 2026 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=GcFMpc9WMdY</id>
-        <link href="https://www.youtube.com/watch?v=GcFMpc9WMdY"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fediverse Sovereignty and Patentable Experiences]]></title>
-        <id>https://future-secured.com/40904</id>
-        <link href="https://future-secured.com/40904"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quake: Dawn of the Machine – Launch Trailer [video]]]></title>
-        <id>https://www.youtube.com/watch?v=2Uf4PcgE8gA</id>
-        <link href="https://www.youtube.com/watch?v=2Uf4PcgE8gA"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump again tries to limit US birthright citizenship with new executive orders]]></title>
-        <id>https://www.bbc.com/news/articles/cj63966j95yo</id>
-        <link href="https://www.bbc.com/news/articles/cj63966j95yo"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node Banana]]></title>
-        <id>https://github.com/shrimbly/node-banana</id>
-        <link href="https://github.com/shrimbly/node-banana"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>

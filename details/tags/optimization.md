@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-07 23:03:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-08 06:01:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -8,11 +8,11 @@
 
 
 - [2026-08-07-How-I-Built-a-Nigerian-SEO-Checker-That-Scores-Sites-Using-State-Level-Trends-Data-Not-US-Assumptions](https://dev.to/ashaye_gbenga_95dc30455ff/how-i-built-a-nigerian-seo-checker-that-scores-sites-using-state-level-trends-data-not-us-3eok) 
-- [2026-08-04-Dev-Log-true-hourly-rate-—-실질-시급-계산기-기능·아티클·SEO-세팅-Pomyjo-Wave-2](https://dev.to/chobh1024/dev-log-true-hourly-rate-siljil-sigeub-gyesangi-gineungatikeulseo-seting-pomyjo-wave-2-1kj8) 
 - [2026-08-04-Dev-Log-money-radar-—-AdSense/SEO-세팅·dirty-정리·빌드-완수-Pomyjo-Wave-2](https://dev.to/chobh1024/dev-log-money-radar-adsenseseo-setingdirty-jeongribildeu-wansu-pomyjo-wave-2-3a3c) 
-- [2026-08-03-Dev-Log-fx-radar-—-SeoSection-추가·dirty-정리·빌드-완성-Pomyjo-Wave-1](https://dev.to/chobh1024/dev-log-fx-radar-seosection-cugadirty-jeongribildeu-wanseong-pomyjo-wave-1-2gbi) 
-- [2026-08-03-Prerendering-and-why-agents-see-empty-pages](https://dev.to/turva-dev/prerendering-and-why-agents-see-empty-pages-maa) 
+- [2026-08-04-Dev-Log-true-hourly-rate-—-실질-시급-계산기-기능·아티클·SEO-세팅-Pomyjo-Wave-2](https://dev.to/chobh1024/dev-log-true-hourly-rate-siljil-sigeub-gyesangi-gineungatikeulseo-seting-pomyjo-wave-2-1kj8) 
 - [2026-08-03-Technical-SEO-Checklist:-10-Things-Developers-Should-Fix-for-Better-Website-Performance](https://dev.to/onetechdigital/technical-seo-checklist-10-things-developers-should-fix-for-better-website-performance-51jl) 
+- [2026-08-03-Prerendering-and-why-agents-see-empty-pages](https://dev.to/turva-dev/prerendering-and-why-agents-see-empty-pages-maa) 
+- [2026-08-03-Dev-Log-fx-radar-—-SeoSection-추가·dirty-정리·빌드-완성-Pomyjo-Wave-1](https://dev.to/chobh1024/dev-log-fx-radar-seosection-cugadirty-jeongribildeu-wanseong-pomyjo-wave-1-2gbi) 
 - [2026-08-01-Building-Fast-Websites-for-Pakistan's-Real-Network-Conditions-Not-Just-a-Lighthouse-Score](https://dev.to/muhammadfarzan0/building-fast-websites-for-pakistans-real-network-conditions-not-just-a-lighthouse-score-1lah) 
 - [2026-07-31-Your-&lt;link-rel=preload&gt;-is-downloading-the-file-twice](https://dev.to/noguchilin/your-is-downloading-the-file-twice-5d6g) 
 - [2026-07-28-Your-SEO-Is-Perfect.-An-AI-Agent-Still-Can't-Book-a-Room-on-Your-Site](https://dev.to/a11ysolutions/your-seo-is-perfect-an-ai-agent-still-cant-book-a-room-on-your-site-h2h) 
@@ -20,9 +20,6 @@
 - [2026-07-23-I-Built-15-Free-Online-Tools-and-Published-24-SEO-Blogs-–-Here's-What-I-Learned](https://dev.to/gnlassi/i-built-15-free-online-tools-and-published-24-seo-blogs-heres-what-i-learned-59d5) 
 - [2026-07-17-Technical-SEO-for-Developers:-What-Every-Developer-Should-Know-Before-Launching-a-Website](https://dev.to/onetechdigital/technical-seo-for-developers-what-every-developer-should-know-before-launching-a-website-3i) 
 - [2026-07-14-I-Scraped-100-Sports-Matches-—-Here-Is-What-I-Found:-World-Cup-2026:-Buildup-to-blockbuster-semi-finals,-Infantino-hints](https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-sports-matches-here-is-what-i-found-world-cup-2026-buildup-to-blockbuster-i76) 
-- [2026-07-09-HTTP-103-Early-Hints,-Explained-the-Way-I-Wish-Someone-Had-Explained-It-to-Me](https://dev.to/happyvig/http-103-early-hints-explained-the-way-i-wish-someone-had-explained-it-to-me-3i58) 
-- [2026-07-09-HTTP-103-Early-Hints,-Explained-the-Way-I-Wish-Someone-Had-Explained-It-to-Me](https://dev.to/kvignsh/http-103-early-hints-explained-the-way-i-wish-someone-had-explained-it-to-me-1nf6) 
-- [2026-07-09-GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) 
 - [2026-08-06-GEO-Is-Just-SEO’s-Best-Customer-—-Here’s-the-Proof](https://pub.towardsai.net/geo-is-just-seos-best-customer-here-s-the-proof-f89dd3249bac?source=rss----98111c9905da---4) 
 - [2026-07-11-SEO-vs.-AI-SEO:-A-Framework-for-Winning-AI-Search-in-2026](https://pub.towardsai.net/seo-vs-ai-seo-a-framework-for-winning-ai-search-in-2026-77a699b40be1?source=rss----98111c9905da---4) 
 - [2026-07-30-Show-HN:-DispatchSEO-–-open-source-SEO-manager-tool-for-Claude-Code](https://github.com/NeoZi12/dispatchseo) 
@@ -32,7 +29,6 @@
 - [2026-07-21-OpenSEO](https://themarketingnewsletter.org/p/openseo-the-open-source-alternative) 
 - [2026-07-19-Free,-comprehensive-SEO-analysis-of-your-website-no-signup,-100-checks](https://www.upstart.quest/en/free-seo-analysis) 
 - [2026-07-17-Show-HN:-3Emalak-SEO-Gaint](https://www.3emalak.com/) 
-- [2026-07-09-Growth-Marketing-Jobs-–-growth,-CRO,-SEO,-and-performance-marketing-roles](https://www.growthmarketingjobs.xyz) 
 - [2026-08-07-The-Zelda-movie’s-Ganondorf-casting-hints-at-more-movies](https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal) 
 - [2026-08-04-Can-Reddit-fend-off-a-new-wave-of-AI-SEO-spam?](https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam) 
 - [2026-07-31-Tim-Cook-hints-at-iCloud-Plus-tier-for-AI-power-users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai) 
