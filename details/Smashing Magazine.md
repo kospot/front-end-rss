@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-08 23:03:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-09 06:01:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
@@ -12,4 +12,3 @@
 - [2026-07-21-Weaponizing-And-Defending-The-React-Flight-Protocol:-Deserialization-Sinks-In-RSCs](https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/) 
 - [2026-07-17-When-It-Makes-Sense-To-“Block”-The-Main-Thread](https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/) 
 - [2026-07-15-No,-People-Don’t-Want-More-AI-In-Their-Life](https://smashingmagazine.com/2026/07/people-dont-want-more-ai/) 
-- [2026-07-10-From-Kickoff-To-First-Concept:-How-To-Turn-Brand-Strategy-Into-Visual-Direction](https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/) 
