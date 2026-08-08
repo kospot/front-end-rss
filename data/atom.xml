@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-08T00:01:15.157Z</updated>
+    <updated>2026-08-08T02:01:11.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,58 +64,44 @@
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Classifying Capabilities (Extended Version)]]></title>
-        <id>https://arxiv.org/abs/2607.24504</id>
-        <link href="https://arxiv.org/abs/2607.24504"/>
+        <title type="html"><![CDATA[This Filesystem Is Born to Fail]]></title>
+        <id>https://hackaday.com/2026/08/07/this-filesystem-is-born-to-fail/</id>
+        <link href="https://hackaday.com/2026/08/07/this-filesystem-is-born-to-fail/"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Simplest CMS you'll ever need. Manage content right in your GitHub repository]]></title>
-        <id>https://pagescms.org/</id>
-        <link href="https://pagescms.org/"/>
+        <title type="html"><![CDATA[Complexity Budget]]></title>
+        <id>https://htmx.org/essays/complexity-budget/</id>
+        <link href="https://htmx.org/essays/complexity-budget/"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Am I the problem? Interviewing another team to find out]]></title>
-        <id>https://www.macchaffee.com/blog/2026/am-i-the-problem/</id>
-        <link href="https://www.macchaffee.com/blog/2026/am-i-the-problem/"/>
+        <title type="html"><![CDATA[Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams]]></title>
+        <id>https://www.salestrics.com/</id>
+        <link href="https://www.salestrics.com/"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A quick look at zero-knowledge proofs]]></title>
-        <id>https://bernsteinbear.com/blog/zkp/</id>
-        <link href="https://bernsteinbear.com/blog/zkp/"/>
+        <title type="html"><![CDATA[Mushroom behind 'tiny people' hallucinations identified]]></title>
+        <id>https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html</id>
+        <link href="https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First JDK 28 Early-Access Build Including JEP 401: Value Objects]]></title>
-        <id>https://jdk.java.net/28/</id>
-        <link href="https://jdk.java.net/28/"/>
+        <title type="html"><![CDATA[Now Am29000 emulator in JavaScript with machine code windowed OS from 1996]]></title>
+        <id>https://nanochess.org/am29000_emulator.html</id>
+        <link href="https://nanochess.org/am29000_emulator.html"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Energy-Based Models Explained: The AI Beyond Next-Token [video]]]></title>
-        <id>https://www.youtube.com/watch?v=NYmXYF8A3Q4</id>
-        <link href="https://www.youtube.com/watch?v=NYmXYF8A3Q4"/>
-        <updated>2026-08-07T16:00:00.000Z</updated>
-        <published>2026-08-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software as Executable Domain Knowledge]]></title>
-        <id>https://swipeleft.ai/servicematch/papers/software-as-executable-domain-knowledge/</id>
-        <link href="https://swipeleft.ai/servicematch/papers/software-as-executable-domain-knowledge/"/>
-        <updated>2026-08-07T16:00:00.000Z</updated>
-        <published>2026-08-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graphify – Less token use for Claude Code]]></title>
-        <id>https://github.com/Graphify-Labs/graphify</id>
-        <link href="https://github.com/Graphify-Labs/graphify"/>
+        <title type="html"><![CDATA[An AppSec checklist for when finding vulnerabilities is the cheap part]]></title>
+        <id>https://konvu.com/checklists/ai-application-security</id>
+        <link href="https://konvu.com/checklists/ai-application-security"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
@@ -127,6 +113,62 @@
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Graphify – Less token use for Claude Code]]></title>
+        <id>https://github.com/Graphify-Labs/graphify</id>
+        <link href="https://github.com/Graphify-Labs/graphify"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software as Executable Domain Knowledge]]></title>
+        <id>https://swipeleft.ai/servicematch/papers/software-as-executable-domain-knowledge/</id>
+        <link href="https://swipeleft.ai/servicematch/papers/software-as-executable-domain-knowledge/"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy-Based Models Explained: The AI Beyond Next-Token [video]]]></title>
+        <id>https://www.youtube.com/watch?v=NYmXYF8A3Q4</id>
+        <link href="https://www.youtube.com/watch?v=NYmXYF8A3Q4"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First JDK 28 Early-Access Build Including JEP 401: Value Objects]]></title>
+        <id>https://jdk.java.net/28/</id>
+        <link href="https://jdk.java.net/28/"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A quick look at zero-knowledge proofs]]></title>
+        <id>https://bernsteinbear.com/blog/zkp/</id>
+        <link href="https://bernsteinbear.com/blog/zkp/"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Am I the problem? Interviewing another team to find out]]></title>
+        <id>https://www.macchaffee.com/blog/2026/am-i-the-problem/</id>
+        <link href="https://www.macchaffee.com/blog/2026/am-i-the-problem/"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplest CMS you'll ever need. Manage content right in your GitHub repository]]></title>
+        <id>https://pagescms.org/</id>
+        <link href="https://pagescms.org/"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classifying Capabilities (Extended Version)]]></title>
+        <id>https://arxiv.org/abs/2607.24504</id>
+        <link href="https://arxiv.org/abs/2607.24504"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI]]></title>
         <id>https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything</id>
         <link href="https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything"/>
@@ -134,93 +176,51 @@
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🏃 The Ultimate Guide to Movement in Limn Engine]]></title>
-        <id>https://dev.to/kehinde_owolabi_e2e54567a/the-ultimate-guide-to-movement-in-limn-engine-hba</id>
-        <link href="https://dev.to/kehinde_owolabi_e2e54567a/the-ultimate-guide-to-movement-in-limn-engine-hba"/>
+        <title type="html"><![CDATA[Converting SVG strokes to fills in the browser: the geometry problem nobody warns you about]]></title>
+        <id>https://dev.to/svg_garagemade/converting-svg-strokes-to-fills-in-the-browser-the-geometry-problem-nobody-warns-you-about-9ko</id>
+        <link href="https://dev.to/svg_garagemade/converting-svg-strokes-to-fills-in-the-browser-the-geometry-problem-nobody-warns-you-about-9ko"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ThinkReview MCP: Review PR Ngay Trong Claude Code]]></title>
-        <id>https://dev.to/bean_bean/thinkreview-mcp-review-pr-ngay-trong-claude-code-433b</id>
-        <link href="https://dev.to/bean_bean/thinkreview-mcp-review-pr-ngay-trong-claude-code-433b"/>
+        <title type="html"><![CDATA[Testing Your Telegram Validation Logic: A Guide to Mocking API Contracts]]></title>
+        <id>https://dev.to/tgvalidatorofficial/testing-your-telegram-validation-logic-a-guide-to-mocking-api-contracts-3lcn</id>
+        <link href="https://dev.to/tgvalidatorofficial/testing-your-telegram-validation-logic-a-guide-to-mocking-api-contracts-3lcn"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calling Models From Cloudflare Workers]]></title>
-        <id>https://dev.to/multigrid/calling-models-from-cloudflare-workers-503l</id>
-        <link href="https://dev.to/multigrid/calling-models-from-cloudflare-workers-503l"/>
+        <title type="html"><![CDATA[A Next.js Route Handler That Calls a Model]]></title>
+        <id>https://dev.to/multigrid/a-nextjs-route-handler-that-calls-a-model-5fmf</id>
+        <link href="https://dev.to/multigrid/a-nextjs-route-handler-that-calls-a-model-5fmf"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Using Props + Watchers Just to Trigger Actions in Child Components (Vue 3.5 useTemplateRef + defineExpose)]]></title>
-        <id>https://dev.to/kickbuttowski80/stop-using-props-watchers-just-to-trigger-actions-in-child-components-vue-35-usetemplateref--5gdk</id>
-        <link href="https://dev.to/kickbuttowski80/stop-using-props-watchers-just-to-trigger-actions-in-child-components-vue-35-usetemplateref--5gdk"/>
+        <title type="html"><![CDATA[No build step, no bundler: 11 things that broke shipping Three.js into an iframe]]></title>
+        <id>https://dev.to/kentog751/no-build-step-no-bundler-11-things-that-broke-shipping-threejs-into-an-iframe-2292</id>
+        <link href="https://dev.to/kentog751/no-build-step-no-bundler-11-things-that-broke-shipping-threejs-into-an-iframe-2292"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎨 Generating Dynamic UI Components on the Fly with AI & JSON Schemas]]></title>
-        <id>https://dev.to/chobh1024/generating-dynamic-ui-components-on-the-fly-with-ai-json-schemas-2ijn</id>
-        <link href="https://dev.to/chobh1024/generating-dynamic-ui-components-on-the-fly-with-ai-json-schemas-2ijn"/>
+        <title type="html"><![CDATA[Why Base64 Decoding a JWT Isn't Enough: 5 Security Edge Cases Every Developer Misses]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-base64-decoding-a-jwt-isnt-enough-5-security-edge-cases-every-developer-misses-10fm</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-base64-decoding-a-jwt-isnt-enough-5-security-edge-cases-every-developer-misses-10fm"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🛑 Never Store OpenAI Keys in Frontend Bundles: Proxy Pattern Explained]]></title>
-        <id>https://dev.to/chobh1024/never-store-openai-keys-in-frontend-bundles-proxy-pattern-explained-15a9</id>
-        <link href="https://dev.to/chobh1024/never-store-openai-keys-in-frontend-bundles-proxy-pattern-explained-15a9"/>
+        <title type="html"><![CDATA[Level Up Your Python: The Matrix of Competitive Programming Tricks]]></title>
+        <id>https://dev.to/timevolt/level-up-your-python-the-matrix-of-competitive-programming-tricks-48l6</id>
+        <link href="https://dev.to/timevolt/level-up-your-python-the-matrix-of-competitive-programming-tricks-48l6"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🤖 I Built an AI Autonomous Coding Agent in 150 Lines of JavaScript]]></title>
-        <id>https://dev.to/chobh1024/i-built-an-ai-autonomous-coding-agent-in-150-lines-of-javascript-3icj</id>
-        <link href="https://dev.to/chobh1024/i-built-an-ai-autonomous-coding-agent-in-150-lines-of-javascript-3icj"/>
-        <updated>2026-08-07T16:00:00.000Z</updated>
-        <published>2026-08-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚠️ Stop Importing Entire Component Libraries for Just 2 Buttons]]></title>
-        <id>https://dev.to/chobh1024/stop-importing-entire-component-libraries-for-just-2-buttons-1egm</id>
-        <link href="https://dev.to/chobh1024/stop-importing-entire-component-libraries-for-just-2-buttons-1egm"/>
-        <updated>2026-08-07T16:00:00.000Z</updated>
-        <published>2026-08-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 5 Chrome DevTools Hacks That Will Double Your Debugging Speed Today]]></title>
-        <id>https://dev.to/chobh1024/5-chrome-devtools-hacks-that-will-double-your-debugging-speed-today-3g0c</id>
-        <link href="https://dev.to/chobh1024/5-chrome-devtools-hacks-that-will-double-your-debugging-speed-today-3g0c"/>
-        <updated>2026-08-07T16:00:00.000Z</updated>
-        <published>2026-08-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡ WebAssembly in 2026: Running C++ and Rust Code Direct in Browser at 60FPS]]></title>
-        <id>https://dev.to/chobh1024/webassembly-in-2026-running-c-and-rust-code-direct-in-browser-at-60fps-1d23</id>
-        <link href="https://dev.to/chobh1024/webassembly-in-2026-running-c-and-rust-code-direct-in-browser-at-60fps-1d23"/>
-        <updated>2026-08-07T16:00:00.000Z</updated>
-        <published>2026-08-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your LLM Context Window Is Lying to You: How Token Budgets Actually Work]]></title>
-        <id>https://dev.to/mudassirworks/your-llm-context-window-is-lying-to-you-how-token-budgets-actually-work-b5e</id>
-        <link href="https://dev.to/mudassirworks/your-llm-context-window-is-lying-to-you-how-token-budgets-actually-work-b5e"/>
-        <updated>2026-08-07T16:00:00.000Z</updated>
-        <published>2026-08-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking the Sandbox: How to Securely Execute AI-Generated JavaScript Without Bringing Down Your Server]]></title>
-        <id>https://dev.to/programmingcentral/breaking-the-sandbox-how-to-securely-execute-ai-generated-javascript-without-bringing-down-your-3ac9</id>
-        <link href="https://dev.to/programmingcentral/breaking-the-sandbox-how-to-securely-execute-ai-generated-javascript-without-bringing-down-your-3ac9"/>
-        <updated>2026-08-07T16:00:00.000Z</updated>
-        <published>2026-08-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero bytes of geometry: a metal lattice sphere-traced in a 14.9 KB page]]></title>
-        <id>https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib</id>
-        <link href="https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib"/>
+        <title type="html"><![CDATA[Pure CSS 3D dice cube module: FSCSS]]></title>
+        <id>https://dev.to/fscss/pure-css-3d-dice-cube-module-fscss-34gg</id>
+        <link href="https://dev.to/fscss/pure-css-3d-dice-cube-module-fscss-34gg"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
@@ -232,9 +232,93 @@
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pure CSS 3D dice cube module: FSCSS]]></title>
-        <id>https://dev.to/fscss/pure-css-3d-dice-cube-module-fscss-34gg</id>
-        <link href="https://dev.to/fscss/pure-css-3d-dice-cube-module-fscss-34gg"/>
+        <title type="html"><![CDATA[Zero bytes of geometry: a metal lattice sphere-traced in a 14.9 KB page]]></title>
+        <id>https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib</id>
+        <link href="https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking the Sandbox: How to Securely Execute AI-Generated JavaScript Without Bringing Down Your Server]]></title>
+        <id>https://dev.to/programmingcentral/breaking-the-sandbox-how-to-securely-execute-ai-generated-javascript-without-bringing-down-your-3ac9</id>
+        <link href="https://dev.to/programmingcentral/breaking-the-sandbox-how-to-securely-execute-ai-generated-javascript-without-bringing-down-your-3ac9"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your LLM Context Window Is Lying to You: How Token Budgets Actually Work]]></title>
+        <id>https://dev.to/mudassirworks/your-llm-context-window-is-lying-to-you-how-token-budgets-actually-work-b5e</id>
+        <link href="https://dev.to/mudassirworks/your-llm-context-window-is-lying-to-you-how-token-budgets-actually-work-b5e"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚡ WebAssembly in 2026: Running C++ and Rust Code Direct in Browser at 60FPS]]></title>
+        <id>https://dev.to/chobh1024/webassembly-in-2026-running-c-and-rust-code-direct-in-browser-at-60fps-1d23</id>
+        <link href="https://dev.to/chobh1024/webassembly-in-2026-running-c-and-rust-code-direct-in-browser-at-60fps-1d23"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀 5 Chrome DevTools Hacks That Will Double Your Debugging Speed Today]]></title>
+        <id>https://dev.to/chobh1024/5-chrome-devtools-hacks-that-will-double-your-debugging-speed-today-3g0c</id>
+        <link href="https://dev.to/chobh1024/5-chrome-devtools-hacks-that-will-double-your-debugging-speed-today-3g0c"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚠️ Stop Importing Entire Component Libraries for Just 2 Buttons]]></title>
+        <id>https://dev.to/chobh1024/stop-importing-entire-component-libraries-for-just-2-buttons-1egm</id>
+        <link href="https://dev.to/chobh1024/stop-importing-entire-component-libraries-for-just-2-buttons-1egm"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤖 I Built an AI Autonomous Coding Agent in 150 Lines of JavaScript]]></title>
+        <id>https://dev.to/chobh1024/i-built-an-ai-autonomous-coding-agent-in-150-lines-of-javascript-3icj</id>
+        <link href="https://dev.to/chobh1024/i-built-an-ai-autonomous-coding-agent-in-150-lines-of-javascript-3icj"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🛑 Never Store OpenAI Keys in Frontend Bundles: Proxy Pattern Explained]]></title>
+        <id>https://dev.to/chobh1024/never-store-openai-keys-in-frontend-bundles-proxy-pattern-explained-15a9</id>
+        <link href="https://dev.to/chobh1024/never-store-openai-keys-in-frontend-bundles-proxy-pattern-explained-15a9"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎨 Generating Dynamic UI Components on the Fly with AI & JSON Schemas]]></title>
+        <id>https://dev.to/chobh1024/generating-dynamic-ui-components-on-the-fly-with-ai-json-schemas-2ijn</id>
+        <link href="https://dev.to/chobh1024/generating-dynamic-ui-components-on-the-fly-with-ai-json-schemas-2ijn"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Using Props + Watchers Just to Trigger Actions in Child Components (Vue 3.5 useTemplateRef + defineExpose)]]></title>
+        <id>https://dev.to/kickbuttowski80/stop-using-props-watchers-just-to-trigger-actions-in-child-components-vue-35-usetemplateref--5gdk</id>
+        <link href="https://dev.to/kickbuttowski80/stop-using-props-watchers-just-to-trigger-actions-in-child-components-vue-35-usetemplateref--5gdk"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calling Models From Cloudflare Workers]]></title>
+        <id>https://dev.to/multigrid/calling-models-from-cloudflare-workers-503l</id>
+        <link href="https://dev.to/multigrid/calling-models-from-cloudflare-workers-503l"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ThinkReview MCP: Review PR Ngay Trong Claude Code]]></title>
+        <id>https://dev.to/bean_bean/thinkreview-mcp-review-pr-ngay-trong-claude-code-433b</id>
+        <link href="https://dev.to/bean_bean/thinkreview-mcp-review-pr-ngay-trong-claude-code-433b"/>
+        <updated>2026-08-07T16:00:00.000Z</updated>
+        <published>2026-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏃 The Ultimate Guide to Movement in Limn Engine]]></title>
+        <id>https://dev.to/kehinde_owolabi_e2e54567a/the-ultimate-guide-to-movement-in-limn-engine-hba</id>
+        <link href="https://dev.to/kehinde_owolabi_e2e54567a/the-ultimate-guide-to-movement-in-limn-engine-hba"/>
         <updated>2026-08-07T16:00:00.000Z</updated>
         <published>2026-08-07T16:00:00.000Z</published>
     </entry>
@@ -277,90 +361,6 @@
         <title type="html"><![CDATA[The Zelda movie’s Ganondorf casting hints at more movies]]></title>
         <id>https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal</id>
         <link href="https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best classic slasher movie you&#8217;ll never watch]]></title>
-        <id>https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design</id>
-        <link href="https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists Used AI to Create 16 New Viruses]]></title>
-        <id>https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/</id>
-        <link href="https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Best Cheap Gaming Laptops (2026): Lenovo, MSI, Alienware]]></title>
-        <id>https://www.wired.com/gallery/best-cheap-gaming-laptops/</id>
-        <link href="https://www.wired.com/gallery/best-cheap-gaming-laptops/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ranking the Best Smart Glasses: Meta, Viture, & More (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-smart-glasses/</id>
-        <link href="https://www.wired.com/gallery/best-smart-glasses/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry]]></title>
-        <id>https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/</id>
-        <link href="https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else]]></title>
-        <id>https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/</id>
-        <link href="https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ratio vs. Simply Good: Which Plastic-Free Coffee Maker Is Best?]]></title>
-        <id>https://www.wired.com/story/plastic-free-coffee-makers/</id>
-        <link href="https://www.wired.com/story/plastic-free-coffee-makers/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/</id>
-        <link href="https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbnb says AI is helping it ship features faster as it tests a new search function]]></title>
-        <id>https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/</id>
-        <link href="https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Wallet now lets parents set up secure balances for their kids]]></title>
-        <id>https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/</id>
-        <link href="https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/"/>
-        <updated>2026-08-06T16:00:00.000Z</updated>
-        <published>2026-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacker pleads guilty to stealing data from more than 165 Snowflake customers]]></title>
-        <id>https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/</id>
-        <link href="https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/"/>
         <updated>2026-08-06T16:00:00.000Z</updated>
         <published>2026-08-06T16:00:00.000Z</published>
     </entry>
