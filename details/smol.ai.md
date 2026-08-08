@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-08 12:01:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-08 15:02:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## smol.ai
 
@@ -14,8 +14,8 @@
 - [2026-07-30-not-much-happened-today](https://news.smol.ai/issues/26-07-30-not-much/) 
 - [2026-07-29-not-much-happened-today](https://news.smol.ai/issues/26-07-29-not-much/) 
 - [2026-07-28-not-much-happened-today](https://news.smol.ai/issues/26-07-28-not-much/) 
-- [2026-07-27-not-much-happened-today](https://news.smol.ai/issues/26-08-03-not-much/) 
 - [2026-07-27-not-much-happened-today](https://news.smol.ai/issues/26-07-27-not-much/) 
+- [2026-07-27-not-much-happened-today](https://news.smol.ai/issues/26-08-03-not-much/) 
 - [2026-07-24-Opus-5](https://news.smol.ai/issues/26-07-24-opus-5/) 
 - [2026-07-23-not-much-happened-today](https://news.smol.ai/issues/26-07-23-not-much/) 
 - [2026-07-22-not-much-happened-today](https://news.smol.ai/issues/26-07-22-not-much/) 
