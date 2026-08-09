@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-09 23:02:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-10 06:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## smol.ai
 
@@ -14,8 +14,8 @@
 - [2026-07-30-not-much-happened-today](https://news.smol.ai/issues/26-07-30-not-much/) 
 - [2026-07-29-not-much-happened-today](https://news.smol.ai/issues/26-07-29-not-much/) 
 - [2026-07-28-not-much-happened-today](https://news.smol.ai/issues/26-07-28-not-much/) 
-- [2026-07-27-not-much-happened-today](https://news.smol.ai/issues/26-08-03-not-much/) 
 - [2026-07-27-not-much-happened-today](https://news.smol.ai/issues/26-07-27-not-much/) 
+- [2026-07-27-not-much-happened-today](https://news.smol.ai/issues/26-08-03-not-much/) 
 - [2026-07-24-Opus-5](https://news.smol.ai/issues/26-07-24-opus-5/) 
 - [2026-07-23-not-much-happened-today](https://news.smol.ai/issues/26-07-23-not-much/) 
 - [2026-07-22-not-much-happened-today](https://news.smol.ai/issues/26-07-22-not-much/) 
@@ -25,4 +25,3 @@
 - [2026-07-16-not-much-happened-today](https://news.smol.ai/issues/26-07-16-kimi-k30/) 
 - [2026-07-15-not-much-happened-today](https://news.smol.ai/issues/26-07-15-thinky-inkling/) 
 - [2026-07-14-not-much-happened-today](https://news.smol.ai/issues/26-07-14-not-much/) 
-- [2026-07-11-not-much-happened-today](https://news.smol.ai/issues/26-07-13-not-much/) 
