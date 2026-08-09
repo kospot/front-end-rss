@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-09 12:02:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-09 15:02:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -8,11 +8,11 @@
 
 
 - [2026-08-07-How-I-Built-a-Nigerian-SEO-Checker-That-Scores-Sites-Using-State-Level-Trends-Data-Not-US-Assumptions](https://dev.to/ashaye_gbenga_95dc30455ff/how-i-built-a-nigerian-seo-checker-that-scores-sites-using-state-level-trends-data-not-us-3eok) 
-- [2026-08-04-Dev-Log-true-hourly-rate-—-실질-시급-계산기-기능·아티클·SEO-세팅-Pomyjo-Wave-2](https://dev.to/chobh1024/dev-log-true-hourly-rate-siljil-sigeub-gyesangi-gineungatikeulseo-seting-pomyjo-wave-2-1kj8) 
 - [2026-08-04-Dev-Log-money-radar-—-AdSense/SEO-세팅·dirty-정리·빌드-완수-Pomyjo-Wave-2](https://dev.to/chobh1024/dev-log-money-radar-adsenseseo-setingdirty-jeongribildeu-wansu-pomyjo-wave-2-3a3c) 
-- [2026-08-03-Dev-Log-fx-radar-—-SeoSection-추가·dirty-정리·빌드-완성-Pomyjo-Wave-1](https://dev.to/chobh1024/dev-log-fx-radar-seosection-cugadirty-jeongribildeu-wanseong-pomyjo-wave-1-2gbi) 
-- [2026-08-03-Prerendering-and-why-agents-see-empty-pages](https://dev.to/turva-dev/prerendering-and-why-agents-see-empty-pages-maa) 
+- [2026-08-04-Dev-Log-true-hourly-rate-—-실질-시급-계산기-기능·아티클·SEO-세팅-Pomyjo-Wave-2](https://dev.to/chobh1024/dev-log-true-hourly-rate-siljil-sigeub-gyesangi-gineungatikeulseo-seting-pomyjo-wave-2-1kj8) 
 - [2026-08-03-Technical-SEO-Checklist:-10-Things-Developers-Should-Fix-for-Better-Website-Performance](https://dev.to/onetechdigital/technical-seo-checklist-10-things-developers-should-fix-for-better-website-performance-51jl) 
+- [2026-08-03-Prerendering-and-why-agents-see-empty-pages](https://dev.to/turva-dev/prerendering-and-why-agents-see-empty-pages-maa) 
+- [2026-08-03-Dev-Log-fx-radar-—-SeoSection-추가·dirty-정리·빌드-완성-Pomyjo-Wave-1](https://dev.to/chobh1024/dev-log-fx-radar-seosection-cugadirty-jeongribildeu-wanseong-pomyjo-wave-1-2gbi) 
 - [2026-08-01-Building-Fast-Websites-for-Pakistan's-Real-Network-Conditions-Not-Just-a-Lighthouse-Score](https://dev.to/muhammadfarzan0/building-fast-websites-for-pakistans-real-network-conditions-not-just-a-lighthouse-score-1lah) 
 - [2026-07-31-Your-&lt;link-rel=preload&gt;-is-downloading-the-file-twice](https://dev.to/noguchilin/your-is-downloading-the-file-twice-5d6g) 
 - [2026-07-28-Your-SEO-Is-Perfect.-An-AI-Agent-Still-Can't-Book-a-Room-on-Your-Site](https://dev.to/a11ysolutions/your-seo-is-perfect-an-ai-agent-still-cant-book-a-room-on-your-site-h2h) 
@@ -23,8 +23,8 @@
 - [2026-08-06-GEO-Is-Just-SEO’s-Best-Customer-—-Here’s-the-Proof](https://pub.towardsai.net/geo-is-just-seos-best-customer-here-s-the-proof-f89dd3249bac?source=rss----98111c9905da---4) 
 - [2026-07-11-SEO-vs.-AI-SEO:-A-Framework-for-Winning-AI-Search-in-2026](https://pub.towardsai.net/seo-vs-ai-seo-a-framework-for-winning-ai-search-in-2026-77a699b40be1?source=rss----98111c9905da---4) 
 - [2026-07-30-Show-HN:-DispatchSEO-–-open-source-SEO-manager-tool-for-Claude-Code](https://github.com/NeoZi12/dispatchseo) 
-- [2026-07-26-LaunchRanks-–-Get-actionable-SEO-steps-for-growing-site-authority](https://launchranks.com) 
 - [2026-07-26-Show-HN:-A-Chrome-extension-for-LeetCode-with-context-aware-hints-and-mock-in](https://leetcopilot.dev) 
+- [2026-07-26-LaunchRanks-–-Get-actionable-SEO-steps-for-growing-site-authority](https://launchranks.com) 
 - [2026-07-23-Accidentally-built-a-500-site-SEO-mesh-network-and-got-3k-visits-in-14-days](https://visionvix.com/seo-mesh-network/) 
 - [2026-07-21-OpenSEO](https://themarketingnewsletter.org/p/openseo-the-open-source-alternative) 
 - [2026-07-19-Free,-comprehensive-SEO-analysis-of-your-website-no-signup,-100-checks](https://www.upstart.quest/en/free-seo-analysis) 
