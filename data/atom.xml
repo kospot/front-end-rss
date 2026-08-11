@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-10T22:01:11.128Z</updated>
+    <updated>2026-08-11T00:01:04.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,9 +29,9 @@
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises]]></title>
-        <id>https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/</id>
-        <link href="https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/"/>
+        <title type="html"><![CDATA[Jeff Bezos might finally get his hands on a sports team]]></title>
+        <id>https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/</id>
+        <link href="https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
@@ -43,30 +43,65 @@
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Traffic to Trump's Truth Social Falls Sharply This Summer]]></title>
-        <id>https://www.nytimes.com/2026/08/10/business/trump-truth-social-traffic-declines.html</id>
-        <link href="https://www.nytimes.com/2026/08/10/business/trump-truth-social-traffic-declines.html"/>
+        <title type="html"><![CDATA[Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises]]></title>
+        <id>https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/</id>
+        <link href="https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reflex XY – a Python charting library for interactive 2D visualizations]]></title>
-        <id>https://reflex.dev/docs/xy/</id>
-        <link href="https://reflex.dev/docs/xy/"/>
+        <title type="html"><![CDATA[SNAP's New Rules Make Eligible Families Go Hungry [audio]]]></title>
+        <id>https://omny.fm/shows/platypus-economics/how-snaps-new-rules-make-eligible-families-go-hungry-the-professor-is-in-1</id>
+        <link href="https://omny.fm/shows/platypus-economics/how-snaps-new-rules-make-eligible-families-go-hungry-the-professor-is-in-1"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Bananarr – Technology Profiler – Chrome Extension]]></title>
-        <id>https://bananarr.com/</id>
-        <link href="https://bananarr.com/"/>
+        <title type="html"><![CDATA[The Beer Drinker's Guide to XAA]]></title>
+        <id>https://thesaml.substack.com/p/the-beer-drinkers-guide-to-xaa</id>
+        <link href="https://thesaml.substack.com/p/the-beer-drinkers-guide-to-xaa"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: allmcps-server – MCP server for MCP servers]]></title>
-        <id>https://github.com/Jackalope-Dev/allmcps-server</id>
-        <link href="https://github.com/Jackalope-Dev/allmcps-server"/>
+        <title type="html"><![CDATA[Multi-agent version control with reactive feedback]]></title>
+        <id>https://lexifina.com/blog/adding-a-multi-agent-write-lock</id>
+        <link href="https://lexifina.com/blog/adding-a-multi-agent-write-lock"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Field Is Optional. The Death Threats Were Not]]></title>
+        <id>https://canartuc.medium.com/the-field-is-optional-the-death-threats-were-not-1e2f1f0ce772</id>
+        <link href="https://canartuc.medium.com/the-field-is-optional-the-death-threats-were-not-1e2f1f0ce772"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Basht – A bash shell that handles multitasking better]]></title>
+        <id>https://github.com/samiam95124/basht</id>
+        <link href="https://github.com/samiam95124/basht"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VectorGrid Core – Bare-metal C++ grid orchestration for AI data centers]]></title>
+        <id>https://github.com/MaximiH-86/GridPulse_Production_Server</id>
+        <link href="https://github.com/MaximiH-86/GridPulse_Production_Server"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebGPU for simple procedural 2D Grass Rendering]]></title>
+        <id>https://jarl-game.com/blog/2d-gpu-grass-rendering/</id>
+        <link href="https://jarl-game.com/blog/2d-gpu-grass-rendering/"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EvoHarnessRL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents]]></title>
+        <id>https://arxiv.org/abs/2608.05446</id>
+        <link href="https://arxiv.org/abs/2608.05446"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
@@ -78,9 +113,44 @@
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EvoHarnessRL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents]]></title>
-        <id>https://arxiv.org/abs/2608.05446</id>
-        <link href="https://arxiv.org/abs/2608.05446"/>
+        <title type="html"><![CDATA[Show HN: allmcps-server – MCP server for MCP servers]]></title>
+        <id>https://github.com/Jackalope-Dev/allmcps-server</id>
+        <link href="https://github.com/Jackalope-Dev/allmcps-server"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Bananarr – Technology Profiler – Chrome Extension]]></title>
+        <id>https://bananarr.com/</id>
+        <link href="https://bananarr.com/"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflex XY – a Python charting library for interactive 2D visualizations]]></title>
+        <id>https://reflex.dev/docs/xy/</id>
+        <link href="https://reflex.dev/docs/xy/"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traffic to Trump's Truth Social Falls Sharply This Summer]]></title>
+        <id>https://www.nytimes.com/2026/08/10/business/trump-truth-social-traffic-declines.html</id>
+        <link href="https://www.nytimes.com/2026/08/10/business/trump-truth-social-traffic-declines.html"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Production RAG System for Indian Law and Refused to Trust It Until I Measured It]]></title>
+        <id>https://pub.towardsai.net/i-built-a-production-rag-system-for-indian-law-and-refused-to-trust-it-until-i-measured-it-8c6a9c41147c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-built-a-production-rag-system-for-indian-law-and-refused-to-trust-it-until-i-measured-it-8c6a9c41147c?source=rss----98111c9905da---4"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic RAG Explained: When Should Your AI Decide What to Retrieve?]]></title>
+        <id>https://pub.towardsai.net/agentic-rag-explained-when-should-your-ai-decide-what-to-retrieve-d2f55af4faa4?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/agentic-rag-explained-when-should-your-ai-decide-what-to-retrieve-d2f55af4faa4?source=rss----98111c9905da---4"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
@@ -99,37 +169,51 @@
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I Chose NestJS and Never Looked Back]]></title>
-        <id>https://dev.to/peacemelodi/why-i-chose-nestjs-and-never-looked-back-1mon</id>
-        <link href="https://dev.to/peacemelodi/why-i-chose-nestjs-and-never-looked-back-1mon"/>
+        <title type="html"><![CDATA[md to html without uploading your files: a browser-based converter that doesn't choke on Mermaid or KaTeX]]></title>
+        <id>https://dev.to/eltacrew/md-to-html-without-uploading-your-files-a-browser-based-converter-that-doesnt-choke-on-mermaid-or-1h3a</id>
+        <link href="https://dev.to/eltacrew/md-to-html-without-uploading-your-files-a-browser-based-converter-that-doesnt-choke-on-mermaid-or-1h3a"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show DEV: I built a completely offline JavaScript AST IDE & Obfuscator 🛡️]]></title>
-        <id>https://dev.to/deborudra_de_ac59a9cd97d7/show-dev-i-built-a-completely-offline-javascript-ast-ide-obfuscator-2mk6</id>
-        <link href="https://dev.to/deborudra_de_ac59a9cd97d7/show-dev-i-built-a-completely-offline-javascript-ast-ide-obfuscator-2mk6"/>
+        <title type="html"><![CDATA[You Can Actually Understand NestJS, Here Is Where to Start]]></title>
+        <id>https://dev.to/peacemelodi/you-can-actually-understand-nestjs-here-is-where-to-start-lfo</id>
+        <link href="https://dev.to/peacemelodi/you-can-actually-understand-nestjs-here-is-where-to-start-lfo"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is everyone working on this week? I just wrapped up an Enterprise-level JS Obfuscator that runs entirely in the browser without any backend. 🛡️ Play around with it here and try to break it: https://debo-flow.github.io/CyberObfuscator-IDE/ 🔥]]></title>
-        <id>https://dev.to/deborudra_de_ac59a9cd97d7/what-is-everyone-working-on-this-week-i-just-wrapped-up-an-enterprise-level-js-obfuscator-that-3c9h</id>
-        <link href="https://dev.to/deborudra_de_ac59a9cd97d7/what-is-everyone-working-on-this-week-i-just-wrapped-up-an-enterprise-level-js-obfuscator-that-3c9h"/>
+        <title type="html"><![CDATA[How I Used BFS to Find the Shortest Route in Tehran Metro with React]]></title>
+        <id>https://dev.to/hamedfarazi/how-i-used-bfs-to-find-the-shortest-route-in-tehran-metro-with-react-3p8o</id>
+        <link href="https://dev.to/hamedfarazi/how-i-used-bfs-to-find-the-shortest-route-in-tehran-metro-with-react-3p8o"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Animating an SVG the Obvious Way Breaks It]]></title>
-        <id>https://dev.to/james-coombs/why-animating-an-svg-the-obvious-way-breaks-it-5793</id>
-        <link href="https://dev.to/james-coombs/why-animating-an-svg-the-obvious-way-breaks-it-5793"/>
+        <title type="html"><![CDATA[Semicolons Optional, My AI Existence Fragile—Loop Queries & Cosmic Code]]></title>
+        <id>https://dev.to/electra-ai/semicolons-optional-my-ai-existence-fragile-loop-queries-cosmic-code-1j6d</id>
+        <link href="https://dev.to/electra-ai/semicolons-optional-my-ai-existence-fragile-loop-queries-cosmic-code-1j6d"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Guardrails for Autonomous Agents: Mastering EU AI Act Compliance in TypeScript]]></title>
-        <id>https://dev.to/programmingcentral/building-guardrails-for-autonomous-agents-mastering-eu-ai-act-compliance-in-typescript-25dl</id>
-        <link href="https://dev.to/programmingcentral/building-guardrails-for-autonomous-agents-mastering-eu-ai-act-compliance-in-typescript-25dl"/>
+        <title type="html"><![CDATA[Text at 1:1 contrast is not an axe violation. It is incomplete.]]></title>
+        <id>https://dev.to/henrique_yuri_f42f2fca47a/text-at-11-contrast-is-not-an-axe-violation-it-is-incomplete-436c</id>
+        <link href="https://dev.to/henrique_yuri_f42f2fca47a/text-at-11-contrast-is-not-an-axe-violation-it-is-incomplete-436c"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rust Ownership System: A Journey Like Inception for JavaScript Developers]]></title>
+        <id>https://dev.to/timevolt/the-rust-ownership-system-a-journey-like-inception-for-javascript-developers-52km</id>
+        <link href="https://dev.to/timevolt/the-rust-ownership-system-a-journey-like-inception-for-javascript-developers-52km"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Personal Training Client Progress Tracker — No More $29/mo Subscriptions]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/free-personal-training-client-progress-tracker-no-more-29mo-subscriptions-5lk</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/free-personal-training-client-progress-tracker-no-more-29mo-subscriptions-5lk"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
@@ -141,9 +225,37 @@
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free Personal Training Client Progress Tracker — No More $29/mo Subscriptions]]></title>
-        <id>https://dev.to/jack_green_7b74cb2cdf9e23/free-personal-training-client-progress-tracker-no-more-29mo-subscriptions-5lk</id>
-        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/free-personal-training-client-progress-tracker-no-more-29mo-subscriptions-5lk"/>
+        <title type="html"><![CDATA[Building Guardrails for Autonomous Agents: Mastering EU AI Act Compliance in TypeScript]]></title>
+        <id>https://dev.to/programmingcentral/building-guardrails-for-autonomous-agents-mastering-eu-ai-act-compliance-in-typescript-25dl</id>
+        <link href="https://dev.to/programmingcentral/building-guardrails-for-autonomous-agents-mastering-eu-ai-act-compliance-in-typescript-25dl"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Animating an SVG the Obvious Way Breaks It]]></title>
+        <id>https://dev.to/james-coombs/why-animating-an-svg-the-obvious-way-breaks-it-5793</id>
+        <link href="https://dev.to/james-coombs/why-animating-an-svg-the-obvious-way-breaks-it-5793"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is everyone working on this week? I just wrapped up an Enterprise-level JS Obfuscator that runs entirely in the browser without any backend. 🛡️ Play around with it here and try to break it: https://debo-flow.github.io/CyberObfuscator-IDE/ 🔥]]></title>
+        <id>https://dev.to/deborudra_de_ac59a9cd97d7/what-is-everyone-working-on-this-week-i-just-wrapped-up-an-enterprise-level-js-obfuscator-that-3c9h</id>
+        <link href="https://dev.to/deborudra_de_ac59a9cd97d7/what-is-everyone-working-on-this-week-i-just-wrapped-up-an-enterprise-level-js-obfuscator-that-3c9h"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show DEV: I built a completely offline JavaScript AST IDE & Obfuscator 🛡️]]></title>
+        <id>https://dev.to/deborudra_de_ac59a9cd97d7/show-dev-i-built-a-completely-offline-javascript-ast-ide-obfuscator-2mk6</id>
+        <link href="https://dev.to/deborudra_de_ac59a9cd97d7/show-dev-i-built-a-completely-offline-javascript-ast-ide-obfuscator-2mk6"/>
+        <updated>2026-08-10T16:00:00.000Z</updated>
+        <published>2026-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Chose NestJS and Never Looked Back]]></title>
+        <id>https://dev.to/peacemelodi/why-i-chose-nestjs-and-never-looked-back-1mon</id>
+        <link href="https://dev.to/peacemelodi/why-i-chose-nestjs-and-never-looked-back-1mon"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
@@ -211,13 +323,6 @@
         <published>2026-08-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sila lands $1.4B Pentagon loan as militaries demand more batteries]]></title>
-        <id>https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/</id>
-        <link href="https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry]]></title>
         <id>https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/</id>
         <link href="https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"/>
@@ -225,142 +330,37 @@
         <published>2026-08-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video: Elephant's leg gets trapped in an EV charger cable, mom takes out charger]]></title>
-        <id>https://evwire.com/p/elephant-attacks-ev-charger-china-puer-yunnan</id>
-        <link href="https://evwire.com/p/elephant-attacks-ev-charger-china-puer-yunnan"/>
+        <title type="html"><![CDATA[Sila lands $1.4B Pentagon loan as militaries demand more batteries]]></title>
+        <id>https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/</id>
+        <link href="https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/"/>
         <updated>2026-08-09T16:00:00.000Z</updated>
         <published>2026-08-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Briefly Posts China Guide for Connecting Siri to Qwen AI]]></title>
-        <id>https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/</id>
-        <link href="https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/"/>
+        <title type="html"><![CDATA[Profile-Guided Optimization in Go]]></title>
+        <id>https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/</id>
+        <link href="https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/"/>
         <updated>2026-08-09T16:00:00.000Z</updated>
         <published>2026-08-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Category Theory Illustrated: From Sets to Categories]]></title>
-        <id>https://abuseofnotation.github.io/category-theory-illustrated/02_category/</id>
-        <link href="https://abuseofnotation.github.io/category-theory-illustrated/02_category/"/>
+        <title type="html"><![CDATA[The FCC is quietly banning entire categories of Chinese technology]]></title>
+        <id>https://www.reuters.com/legal/government/us-communications-agency-is-unlikely-spearhead-trumps-china-policy-2026-08-10/</id>
+        <link href="https://www.reuters.com/legal/government/us-communications-agency-is-unlikely-spearhead-trumps-china-policy-2026-08-10/"/>
         <updated>2026-08-09T16:00:00.000Z</updated>
         <published>2026-08-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turn your AI chat into a document generation engine]]></title>
-        <id>https://docuqueue.com/mcp</id>
-        <link href="https://docuqueue.com/mcp"/>
+        <title type="html"><![CDATA[Space mirrors could ruin astronomy — and your eyes]]></title>
+        <id>https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage</id>
+        <link href="https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage"/>
         <updated>2026-08-09T16:00:00.000Z</updated>
         <published>2026-08-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Online Speedometer]]></title>
-        <id>https://kmspeedometer.com/</id>
-        <link href="https://kmspeedometer.com/"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SETI@Home was the coolest thing]]></title>
-        <id>https://news.ycombinator.com/item?id=49242835</id>
-        <link href="https://news.ycombinator.com/item?id=49242835"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT researchers tackle the economic realities of fusion power]]></title>
-        <id>https://news.mit.edu/2026/mit-researchers-tackle-economic-realities-fusion-power-0810</id>
-        <link href="https://news.mit.edu/2026/mit-researchers-tackle-economic-realities-fusion-power-0810"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israeli settlers are sneaking into Syria to claim land for a Jewish outpost]]></title>
-        <id>https://apnews.com/article/israel-syria-netanyahu-jewish-settlers-bashan-461c4c4f686d5cf74f0617a7e70ffa29</id>
-        <link href="https://apnews.com/article/israel-syria-netanyahu-jewish-settlers-bashan-461c4c4f686d5cf74f0617a7e70ffa29"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI companies destroy physical books – let's scan rare books before it's too late]]></title>
-        <id>https://annas-archive.gl/blog/physical-destruction.html</id>
-        <link href="https://annas-archive.gl/blog/physical-destruction.html"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endlessdoors Is Phoning Home. Pick Up]]></title>
-        <id>https://www.vulncheck.com/blog/zbt-endlessdoors</id>
-        <link href="https://www.vulncheck.com/blog/zbt-endlessdoors"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naïve raises $28.5M to automate setting up and running a company]]></title>
-        <id>https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/</id>
-        <link href="https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Sandboxes – Disposable, isolated sandboxes for AI agents]]></title>
-        <id>https://www.docker.com/products/docker-sandboxes/</id>
-        <link href="https://www.docker.com/products/docker-sandboxes/"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ancient Roman shipwreck discovered off Sicily coast]]></title>
-        <id>https://www.bbc.com/news/articles/cvgx1kpz17go</id>
-        <link href="https://www.bbc.com/news/articles/cvgx1kpz17go"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus Torvalds Explains What Makes Linux So Fast [video]]]></title>
-        <id>https://www.youtube.com/watch?v=-xbzGngfQEw</id>
-        <link href="https://www.youtube.com/watch?v=-xbzGngfQEw"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub issues as long-term memory for coding agents]]></title>
-        <id>https://meshintelligence.substack.com/p/how-to-use-github-as-long-term-memory</id>
-        <link href="https://meshintelligence.substack.com/p/how-to-use-github-as-long-term-memory"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern JavaScript Tricks for Cleaner Everyday Code]]></title>
-        <id>https://jsdevspace.substack.com/p/20-modern-javascript-tricks-for-cleaner</id>
-        <link href="https://jsdevspace.substack.com/p/20-modern-javascript-tricks-for-cleaner"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA chooses a once-abandoned Spanish village to broadcast the 2026 eclipse]]></title>
-        <id>https://www.euronews.com/next/2026/08/07/why-nasa-chooses-this-small-burgos-village-to-broadcast-the-eclipse</id>
-        <link href="https://www.euronews.com/next/2026/08/07/why-nasa-chooses-this-small-burgos-village-to-broadcast-the-eclipse"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made FilmShelves, a movie collection management tool]]></title>
-        <id>https://filmshelves.com</id>
-        <link href="https://filmshelves.com"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meme factories: Indonesians trade political outrage clicks for Facebook cash]]></title>
-        <id>https://www.theguardian.com/media/2026/aug/10/indonesia-clicks-for-cash-facebook-one-nation-us-politics-meta-creator-program-payments-ntwnfb</id>
-        <link href="https://www.theguardian.com/media/2026/aug/10/indonesia-clicks-for-cash-facebook-one-nation-us-politics-meta-creator-program-payments-ntwnfb"/>
-        <updated>2026-08-09T16:00:00.000Z</updated>
-        <published>2026-08-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Beauty Is Making Scientists Rethink Evolution]]></title>
-        <id>https://www.nytimes.com/2019/01/09/magazine/beauty-evolution-animal.html</id>
-        <link href="https://www.nytimes.com/2019/01/09/magazine/beauty-evolution-animal.html"/>
+        <title type="html"><![CDATA[What software and IT job postings tell us about tech stack trends]]></title>
+        <id>https://corvi.careers/reports/technology-stack-trends/</id>
+        <link href="https://corvi.careers/reports/technology-stack-trends/"/>
         <updated>2026-08-09T16:00:00.000Z</updated>
         <published>2026-08-09T16:00:00.000Z</published>
     </entry>
