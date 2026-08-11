@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-11 08:01:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-11 10:01:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -7,22 +7,22 @@
 
 
 
-- [2026-08-10-Building-a-Peer-to-Peer-Clipboard-Sync-System-with-WebRTC](https://dev.to/vernonheim/building-a-peer-to-peer-clipboard-sync-system-with-webrtc-1b2n) 
 - [2026-08-10-Building-a-Playable-Indian-Harmonium-in-the-Browser-with-the-Web-Audio-API](https://dev.to/webharmonium/building-a-playable-indian-harmonium-in-the-browser-with-the-web-audio-api-2jnf) 
-- [2026-08-09-How-I-Download-Videos-from-Links-in-Seconds-Without-Installing-Software](https://dev.to/raymond_zhao_2270803eb9c8/how-i-download-videos-from-links-in-seconds-without-installing-software-1e01) 
-- [2026-08-09-How-to-Build-a-Lightning-Fast,-Browser-Based-Audio-Converter-Using-the-Web-Audio-API](https://dev.to/toolmole/how-to-build-a-lightning-fast-browser-based-audio-converter-using-the-web-audio-api-36og) 
+- [2026-08-10-Building-a-Peer-to-Peer-Clipboard-Sync-System-with-WebRTC](https://dev.to/vernonheim/building-a-peer-to-peer-clipboard-sync-system-with-webrtc-1b2n) 
 - [2026-08-09-How-to-Build-a-Client-Side-Audio-Joiner-and-Merger-in-the-Browser](https://dev.to/toolmole/how-to-build-a-client-side-audio-joiner-and-merger-in-the-browser-f8a) 
+- [2026-08-09-How-to-Build-a-Lightning-Fast,-Browser-Based-Audio-Converter-Using-the-Web-Audio-API](https://dev.to/toolmole/how-to-build-a-lightning-fast-browser-based-audio-converter-using-the-web-audio-api-36og) 
+- [2026-08-09-How-I-Download-Videos-from-Links-in-Seconds-Without-Installing-Software](https://dev.to/raymond_zhao_2270803eb9c8/how-i-download-videos-from-links-in-seconds-without-installing-software-1e01) 
 - [2026-08-08-I-built-a-browser-extension-that-skips-video-ads-automatically-—-and-open-sourced-it](https://dev.to/openforge1/i-built-a-browser-extension-that-skips-video-ads-automatically-and-open-sourced-it-40fn) 
-- [2026-08-07-AI-Agents-Can't-Watch-Video.-Mine-Made-Three-Films-Anyway.](https://dev.to/nunc/ai-agents-cant-watch-video-mine-made-three-films-anyway-46cp) 
-- [2026-08-07-How-I-Built-a-Browser-Audio-Test-That-Refuses-to-Guess](https://dev.to/jackwind/how-i-built-a-browser-audio-test-that-refuses-to-guess-23go) 
 - [2026-08-07-From-Natural-Language-to-an-Editable-Video:-Inside-Timeline-Studio's-Agent-Skill](https://dev.to/martindelophy/from-natural-language-to-an-editable-video-inside-timeline-studios-agent-skill-4f08) 
-- [2026-08-06-8-Best-Coursera-Alternatives-for-Developers-Who-Want-More-Than-Just-Videos](https://dev.to/stack_overflowed/8-best-coursera-alternatives-for-developers-who-want-more-than-just-videos-iib) 
+- [2026-08-07-How-I-Built-a-Browser-Audio-Test-That-Refuses-to-Guess](https://dev.to/jackwind/how-i-built-a-browser-audio-test-that-refuses-to-guess-23go) 
+- [2026-08-07-AI-Agents-Can't-Watch-Video.-Mine-Made-Three-Films-Anyway.](https://dev.to/nunc/ai-agents-cant-watch-video-mine-made-three-films-anyway-46cp) 
 - [2026-08-06-Building-ALAD:-Real-Time-AI-Video-Audio-Dubbing-in-Chrome-with-Gemini-API-&amp;-WebSockets](https://dev.to/navidseyedain/building-alad-real-time-ai-voice-dubbing-in-chrome-with-gemini-35-websockets-2jh1) 
+- [2026-08-06-8-Best-Coursera-Alternatives-for-Developers-Who-Want-More-Than-Just-Videos](https://dev.to/stack_overflowed/8-best-coursera-alternatives-for-developers-who-want-more-than-just-videos-iib) 
 - [2026-07-31-Building-a-Reliable-AI-Video-Dubbing-Pipeline-for-the-Web](https://dev.to/hushuai_wang_29fb41896f72/building-a-reliable-ai-video-dubbing-pipeline-for-the-web-1ahh) 
-- [2026-07-30-I-generate-cinematic-video-ads-from-a-Bun-script-with-the-Runway-API](https://dev.to/chaprisalaaaa/i-generate-cinematic-video-ads-from-a-bun-script-with-the-runway-api-ga6) 
-- [2026-07-30-The-Real-Value-of-an-Audible-Credit-—-Data-from-730-Audiobooks](https://dev.to/ahmed_isam_752b775a50fd90/the-real-value-of-an-audible-credit-data-from-730-audiobooks-5c0f) 
-- [2026-07-30-How-to-Build-Video-Conferencing-Web-Apps-for-Tesla-Cabin-Camera](https://dev.to/dheerajramasahayam/how-to-build-video-conferencing-web-apps-for-tesla-cabin-camera-5b75) 
 - [2026-07-30-We-Analyzed-1,330-Audiobooks-—-Here's-the-Best-Way-to-Spend-an-Audible-Credit](https://dev.to/ahmed_isam_752b775a50fd90/we-analyzed-1330-audiobooks-heres-the-best-way-to-spend-an-audible-credit-1l33) 
+- [2026-07-30-How-to-Build-Video-Conferencing-Web-Apps-for-Tesla-Cabin-Camera](https://dev.to/dheerajramasahayam/how-to-build-video-conferencing-web-apps-for-tesla-cabin-camera-5b75) 
+- [2026-07-30-The-Real-Value-of-an-Audible-Credit-—-Data-from-730-Audiobooks](https://dev.to/ahmed_isam_752b775a50fd90/the-real-value-of-an-audible-credit-data-from-730-audiobooks-5c0f) 
+- [2026-07-30-I-generate-cinematic-video-ads-from-a-Bun-script-with-the-Runway-API](https://dev.to/chaprisalaaaa/i-generate-cinematic-video-ads-from-a-bun-script-with-the-runway-api-ga6) 
 - [2026-07-29-Building-Stable-Video-Portrait-Outlines-in-the-Browser-with-MODNet,-SlimSAM,-MediaPipe,-and-Optical-Flow](https://dev.to/martindelophy/building-stable-video-portrait-outlines-in-the-browser-with-modnet-slimsam-mediapipe-and-optical-bh9) 
 - [2026-07-27-Removing-Video-Watermarks-Entirely-in-the-Browser-with-MI-GAN,-ONNX-Runtime-Web,-and-WebGPU](https://dev.to/martindelophy/removing-video-watermarks-entirely-in-the-browser-with-mi-gan-onnx-runtime-web-and-webgpu-1jdi) 
 - [2026-07-25-How-I-Built-a-Local-First-AI-Video-Editor-with-WebCodecs,-WebGPU,-and-WASM](https://dev.to/martindelophy/how-i-built-a-local-first-ai-video-editor-with-webcodecs-webgpu-and-wasm-4lkn) 
@@ -31,8 +31,8 @@
 - [2026-07-16-I-benchmarked-3-ways-to-detect-slide-changes-in-video-—-fixed-interval-screenshots,-pixel-diff,-and-block-diff](https://dev.to/larryxue/i-benchmarked-3-ways-to-detect-slide-changes-in-video-fixed-interval-screenshots-pixel-diff-and-3o11) 
 - [2026-07-15-How-We-Cut-Our-Browser-Video-Renderer's-Frame-Time-by-80%](https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1) 
 - [2026-07-14-How-I-Built-a-Chrome-Volume-Booster-with-Manifest-V3-and-Web-Audio-API](https://dev.to/karan_variya/how-i-built-a-chrome-volume-booster-with-manifest-v3-and-web-audio-api-54mf) 
-- [2026-07-13-How-a-Simple-Screen-Share-Feature-Turned-Into-a-WebRTC-Rabbit-Hole](https://dev.to/mouloud_hasrane_c99b0f49a/how-a-simple-screen-share-feature-turned-into-a-webrtc-rabbit-hole-123j) 
 - [2026-07-13-Improve-Performance-by-Loading-Videos-Only-When-They're-Needed](https://dev.to/jacobandrewsky/improve-performance-by-loading-videos-only-when-theyre-needed-245o) 
+- [2026-07-13-How-a-Simple-Screen-Share-Feature-Turned-Into-a-WebRTC-Rabbit-Hole](https://dev.to/mouloud_hasrane_c99b0f49a/how-a-simple-screen-share-feature-turned-into-a-webrtc-rabbit-hole-123j) 
 - [2026-07-13-直播回放·含-ACL&amp;apos;26-杰出论文-|-美团-AI-顶会论文-32-篇精讲](https://tech.meituan.com/2026/07/11/2026-meituan-32-papers.html) 
 - [2026-08-10-Addressable-Memory-for-Video-World-Models](https://arxiv.org/abs/2608.07408) 
 - [2026-08-10-FedVAR:-Prototype-Aligned-Federated-Framework-for-Video-Anomaly-Recognition](https://arxiv.org/abs/2608.06876) 

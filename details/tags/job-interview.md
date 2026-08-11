@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-11 08:01:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-11 10:01:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -12,6 +12,7 @@
 - [2026-07-22-A-simple-API-for-offering-your-coding-agent-a-smoke-break](https://smoke-break.pineapplefreefall.com) 
 - [2026-07-16-Uber-Announces-Acquisition-Offer-for-Delivery-Hero-at-$14.8B](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Acquisition-Offer-for-Delivery-Hero/default.aspx) 
 - [2026-07-15-Stripe,-Advent-offer-to-buy-PayPal-for-more-than-$53B](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) 
+- [2026-08-11-OpenAI-reportedly-completed-a-$7-billion-employee-tender-offer](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/) 
 - [2026-08-05-MacPaw-taps-Liquid-AI-to-offer-on-device-inference-to-devs-building-for-its-app-store](https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/) 
 - [2026-07-29-Hint,-a-new-AI-startup-co-founded-by-Martha-Stewart,-offers-an-AI-assistant-for-homeowners](https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/) 
 - [2026-07-28-PayPal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat](https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/) 
