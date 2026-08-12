@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-12 10:01:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-12 12:03:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 移动开发、Flutter相关
 
@@ -17,4 +17,5 @@
 - [2026-07-20-Make-your-PWA-installable-—-the-manifest,-the-prompt,-and-the-iOS-catch-FieldKit-#2](https://dev.to/alex_truhniy/make-your-pwa-installable-the-manifest-the-prompt-and-the-ios-catch-fieldkit-2-2mom) 
 - [2026-07-20-Service-Workers-Explained-Like-You're-Building-Your-First-PWA](https://dev.to/kingteddie01/service-workers-explained-like-youre-building-your-first-pwa-24hd) 
 - [2026-07-15-How-PWA-Progressive-Web-Apps-are-Changing-the-Mobile-Gaming-Landscape](https://dev.to/no_momo_f91fc40d15fd8f213/how-pwa-progressive-web-apps-are-changing-the-mobile-gaming-landscape-444g) 
+- [2026-08-12-A-Systematic-Sample-Size-Analysis-of-ML-Based-Path-Loss-Prediction-for-LPWAN](https://arxiv.org/abs/2608.11083) 
 - [2026-07-15-Poland-begins-construction-of-€2.3B-deepwater-port-on-Baltic-coast](https://notesfrompoland.com/2026/07/14/poland-begins-construction-of-e2-3bn-deepwater-port-on-baltic-coast/) 

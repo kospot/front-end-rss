@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-12 10:01:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-12 12:03:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -39,8 +39,8 @@ https://github.com/pinceladasdaweb/rabbitmq
 - [2026-08-05-NPMixer:-Hierarchical-Neighboring-Patch-Mixing-for-Time-Series-Forecasting](https://arxiv.org/abs/2605.07476) 
 - [2026-08-04-Why-Estonians-invite-strangers-into-their-back-gardens-each-summer](https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer) 
 - [2026-08-02-Show-HN:-NoDiff,-a-framework-that-lives-in-your-monorepo](https://github.com/hbbio/nodiff) 
-- [2026-07-22-Show-HN:-Kernel-optimization-is-obsolete.-Just-NPM-install-it](https://github.com/tensormux/kernel-skills) 
 - [2026-07-22-Was-there-a-real-Tower-of-Babel?-This-temple-is-the-leading-contender](https://www.nationalgeographic.com/history/article/tower-of-babel-genesis-bible-archaeology) 
+- [2026-07-22-Show-HN:-Kernel-optimization-is-obsolete.-Just-NPM-install-it](https://github.com/tensormux/kernel-skills) 
 - [2026-07-21-The-Yarn-Spinner-Public-License](https://yarnspinner.dev/yspl) 
 - [2026-08-07-Naïve-raises-$28.5M-to-automate-the-grunt-work-of-setting-up-and-running-a-company](https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/) 
 - [2026-08-05-The-AI-Notetaker-Has-Been-Invited-to-All-the-Meetings](https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/) 

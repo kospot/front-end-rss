@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-08-12 10:01:48。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-08-12 12:03:01。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -248,6 +248,7 @@
 - [【前端之巅】Make-your-PWA-installable-—-the-manifest,-the-prompt,-and-the-iOS-catch-FieldKit-#2](https://dev.to/alex_truhniy/make-your-pwa-installable-the-manifest-the-prompt-and-the-ios-catch-fieldkit-2-2mom)
 - [【前端之巅】Service-Workers-Explained-Like-You're-Building-Your-First-PWA](https://dev.to/kingteddie01/service-workers-explained-like-youre-building-your-first-pwa-24hd)
 - [【前端之巅】How-PWA-Progressive-Web-Apps-are-Changing-the-Mobile-Gaming-Landscape](https://dev.to/no_momo_f91fc40d15fd8f213/how-pwa-progressive-web-apps-are-changing-the-mobile-gaming-landscape-444g)
+- [【arXiv ML】A-Systematic-Sample-Size-Analysis-of-ML-Based-Path-Loss-Prediction-for-LPWAN](https://arxiv.org/abs/2608.11083)
 - [【Hacker News】Poland-begins-construction-of-€2.3B-deepwater-port-on-Baltic-coast](https://notesfrompoland.com/2026/07/14/poland-begins-construction-of-e2-3bn-deepwater-port-on-baltic-coast/)
 - [......【查看更多】......](/details/tags/dev-mobile.md)
 
@@ -491,8 +492,8 @@
 - [【Towards AI】GEO-Is-Just-SEO’s-Best-Customer-—-Here’s-the-Proof](https://pub.towardsai.net/geo-is-just-seos-best-customer-here-s-the-proof-f89dd3249bac?source=rss----98111c9905da---4)
 - [【Hacker News】Ask-HN:-Will-Claude-watermarking-hurt-your-SEO?-I-guess-for-sure-it-wont-help](https://news.ycombinator.com/item?id=49255463)
 - [【Hacker News】Show-HN:-DispatchSEO-–-open-source-SEO-manager-tool-for-Claude-Code](https://github.com/NeoZi12/dispatchseo)
-- [【Hacker News】LaunchRanks-–-Get-actionable-SEO-steps-for-growing-site-authority](https://launchranks.com)
 - [【Hacker News】Show-HN:-A-Chrome-extension-for-LeetCode-with-context-aware-hints-and-mock-in](https://leetcopilot.dev)
+- [【Hacker News】LaunchRanks-–-Get-actionable-SEO-steps-for-growing-site-authority](https://launchranks.com)
 - [【Hacker News】Accidentally-built-a-500-site-SEO-mesh-network-and-got-3k-visits-in-14-days](https://visionvix.com/seo-mesh-network/)
 - [......【查看更多】......](/details/tags/optimization.md)
 

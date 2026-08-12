@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-12 10:01:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-12 12:03:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -24,8 +24,8 @@
 - [2026-08-06-GEO-Is-Just-SEO’s-Best-Customer-—-Here’s-the-Proof](https://pub.towardsai.net/geo-is-just-seos-best-customer-here-s-the-proof-f89dd3249bac?source=rss----98111c9905da---4) 
 - [2026-08-11-Ask-HN:-Will-Claude-watermarking-hurt-your-SEO?-I-guess-for-sure-it-wont-help](https://news.ycombinator.com/item?id=49255463) 
 - [2026-07-30-Show-HN:-DispatchSEO-–-open-source-SEO-manager-tool-for-Claude-Code](https://github.com/NeoZi12/dispatchseo) 
-- [2026-07-26-LaunchRanks-–-Get-actionable-SEO-steps-for-growing-site-authority](https://launchranks.com) 
 - [2026-07-26-Show-HN:-A-Chrome-extension-for-LeetCode-with-context-aware-hints-and-mock-in](https://leetcopilot.dev) 
+- [2026-07-26-LaunchRanks-–-Get-actionable-SEO-steps-for-growing-site-authority](https://launchranks.com) 
 - [2026-07-23-Accidentally-built-a-500-site-SEO-mesh-network-and-got-3k-visits-in-14-days](https://visionvix.com/seo-mesh-network/) 
 - [2026-07-21-OpenSEO](https://themarketingnewsletter.org/p/openseo-the-open-source-alternative) 
 - [2026-07-19-Free,-comprehensive-SEO-analysis-of-your-website-no-signup,-100-checks](https://www.upstart.quest/en/free-seo-analysis) 
