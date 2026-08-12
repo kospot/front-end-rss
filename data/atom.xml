@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-12T00:01:26.019Z</updated>
+    <updated>2026-08-12T02:01:48.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The budget-friendly Pixel Buds 2a are even cheaper right now]]></title>
-        <id>https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale"/>
+        <title type="html"><![CDATA[Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT]]></title>
+        <id>https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive</id>
+        <link href="https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[Google’s free streaming service now lets you pick shows and movies to watch]]></title>
         <id>https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand</id>
         <link href="https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The budget-friendly Pixel Buds 2a are even cheaper right now]]></title>
+        <id>https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
@@ -176,23 +183,44 @@
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Arrays]]></title>
-        <id>https://dev.to/sarathi_penguin/javascript-arrays-3ni7</id>
-        <link href="https://dev.to/sarathi_penguin/javascript-arrays-3ni7"/>
+        <title type="html"><![CDATA[DietrichGebert/ponytail]]></title>
+        <id>https://github.com/DietrichGebert/ponytail</id>
+        <link href="https://github.com/DietrichGebert/ponytail"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debugging JS/TS from Neovim: JS/TS, the NestJS special & the React Native drama queen]]></title>
-        <id>https://dev.to/a2nof/debugging-jsts-from-neovim-jsts-the-nestjs-special-the-react-native-drama-queen-27fa</id>
-        <link href="https://dev.to/a2nof/debugging-jsts-from-neovim-jsts-the-nestjs-special-the-react-native-drama-queen-27fa"/>
+        <title type="html"><![CDATA[I set out to build the app that would save the world. Embedding YouTube turned out to be the easy 10%.]]></title>
+        <id>https://dev.to/begoodtool/i-set-out-to-build-the-app-that-would-save-the-world-embedding-youtube-turned-out-to-be-the-easy-56h5</id>
+        <link href="https://dev.to/begoodtool/i-set-out-to-build-the-app-that-would-save-the-world-embedding-youtube-turned-out-to-be-the-easy-56h5"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Architecting Enterprise Autonomous Web Agent SaaS: From Theory to TypeScript Production]]></title>
-        <id>https://dev.to/programmingcentral/architecting-enterprise-autonomous-web-agent-saas-from-theory-to-typescript-production-5fll</id>
-        <link href="https://dev.to/programmingcentral/architecting-enterprise-autonomous-web-agent-saas-from-theory-to-typescript-production-5fll"/>
+        <title type="html"><![CDATA[🚨 JavaScript Is Not Supposed To Do This… But It Does 🤯🔥]]></title>
+        <id>https://dev.to/advantagebuilder/javascript-is-not-supposed-to-do-this-but-it-does-l6f</id>
+        <link href="https://dev.to/advantagebuilder/javascript-is-not-supposed-to-do-this-but-it-does-l6f"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical Overview: Multimodal Video Generation with Seedance 2.5]]></title>
+        <id>https://dev.to/jane24/technical-overview-multimodal-video-generation-with-seedance-25-4cjc</id>
+        <link href="https://dev.to/jane24/technical-overview-multimodal-video-generation-with-seedance-25-4cjc"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular 22: The End of Boilerplate and the Consolidation of the Reactive Era]]></title>
+        <id>https://dev.to/ghabryel/angular-22-the-end-of-boilerplate-and-the-consolidation-of-the-reactive-era-3a8n</id>
+        <link href="https://dev.to/ghabryel/angular-22-the-end-of-boilerplate-and-the-consolidation-of-the-reactive-era-3a8n"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Harden Next.js Apps with the July 2026 Security Release]]></title>
+        <id>https://dev.to/frank_signorini/how-to-harden-nextjs-apps-with-the-july-2026-security-release-l9b</id>
+        <link href="https://dev.to/frank_signorini/how-to-harden-nextjs-apps-with-the-july-2026-security-release-l9b"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
@@ -204,9 +232,23 @@
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Harden Next.js Apps with the July 2026 Security Release]]></title>
-        <id>https://dev.to/frank_signorini/how-to-harden-nextjs-apps-with-the-july-2026-security-release-l9b</id>
-        <link href="https://dev.to/frank_signorini/how-to-harden-nextjs-apps-with-the-july-2026-security-release-l9b"/>
+        <title type="html"><![CDATA[Architecting Enterprise Autonomous Web Agent SaaS: From Theory to TypeScript Production]]></title>
+        <id>https://dev.to/programmingcentral/architecting-enterprise-autonomous-web-agent-saas-from-theory-to-typescript-production-5fll</id>
+        <link href="https://dev.to/programmingcentral/architecting-enterprise-autonomous-web-agent-saas-from-theory-to-typescript-production-5fll"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging JS/TS from Neovim: JS/TS, the NestJS special & the React Native drama queen]]></title>
+        <id>https://dev.to/a2nof/debugging-jsts-from-neovim-jsts-the-nestjs-special-the-react-native-drama-queen-27fa</id>
+        <link href="https://dev.to/a2nof/debugging-jsts-from-neovim-jsts-the-nestjs-special-the-react-native-drama-queen-27fa"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Arrays]]></title>
+        <id>https://dev.to/sarathi_penguin/javascript-arrays-3ni7</id>
+        <link href="https://dev.to/sarathi_penguin/javascript-arrays-3ni7"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
@@ -225,9 +267,9 @@
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bluesky now lets you hide reposts from that annoying person you follow]]></title>
-        <id>https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads</id>
-        <link href="https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads"/>
+        <title type="html"><![CDATA[Joby flexes military muscle with $500 million defense acquisition]]></title>
+        <id>https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol</id>
+        <link href="https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
@@ -239,9 +281,9 @@
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Joby flexes military muscle with $500 million defense acquisition]]></title>
-        <id>https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol</id>
-        <link href="https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol"/>
+        <title type="html"><![CDATA[Bluesky now lets you hide reposts from that annoying person you follow]]></title>
+        <id>https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads</id>
+        <link href="https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[Jeff Bezos might finally get his hands on a sports team]]></title>
         <id>https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/</id>
         <link href="https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision]]></title>
-        <id>https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/</id>
-        <link href="https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises]]></title>
-        <id>https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/</id>
-        <link href="https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Post-AI CTF Format Could Be a Research Retreat]]></title>
-        <id>https://jessicaruan.com/posts/save-ctfs</id>
-        <link href="https://jessicaruan.com/posts/save-ctfs"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harry Beck's Idea: A Lesson in Disruption]]></title>
-        <id>https://medium.com/design-bootcamp/harry-becks-radical-idea-a-lesson-in-disruption-6637fe2ac38e</id>
-        <link href="https://medium.com/design-bootcamp/harry-becks-radical-idea-a-lesson-in-disruption-6637fe2ac38e"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp]]></title>
-        <id>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</id>
-        <link href="https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React-Native-Firebird]]></title>
-        <id>https://asfernandes.github.io/2026/08/09/react-native-firebird</id>
-        <link href="https://asfernandes.github.io/2026/08/09/react-native-firebird"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
