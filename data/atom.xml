@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-11T22:01:16.125Z</updated>
+    <updated>2026-08-12T00:01:26.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Google’s free streaming service now lets you pick shows and movies to watch]]></title>
-        <id>https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand</id>
-        <link href="https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand"/>
+        <title type="html"><![CDATA[The budget-friendly Pixel Buds 2a are even cheaper right now]]></title>
+        <id>https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The budget-friendly Pixel Buds 2a are even cheaper right now]]></title>
-        <id>https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale"/>
+        <title type="html"><![CDATA[Google’s free streaming service now lets you pick shows and movies to watch]]></title>
+        <id>https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand</id>
+        <link href="https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
@@ -57,44 +57,51 @@
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WorldClaw Agentic 3D open-world generation at scale]]></title>
-        <id>https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</id>
-        <link href="https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/"/>
+        <title type="html"><![CDATA[Geoffrey Hinton's Bad AI Prediction Became a Legend [video]]]></title>
+        <id>https://www.youtube.com/watch?v=mv4EAR0jAUU</id>
+        <link href="https://www.youtube.com/watch?v=mv4EAR0jAUU"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries]]></title>
-        <id>https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026</id>
-        <link href="https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026"/>
+        <title type="html"><![CDATA[AbstractSingletonProxyFactoryBean]]></title>
+        <id>https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/aop/framework/AbstractSingletonProxyFactoryBean.html</id>
+        <link href="https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/aop/framework/AbstractSingletonProxyFactoryBean.html"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Longscribe – free transcription for long videos and podcasts]]></title>
-        <id>https://longscribe.com/</id>
-        <link href="https://longscribe.com/"/>
+        <title type="html"><![CDATA[Lessons learned from the fate of AstraZeneca's drug pipeline]]></title>
+        <id>https://pubmed.ncbi.nlm.nih.gov/24833294/</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/24833294/"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Rise of the 1 am Job Interview]]></title>
-        <id>https://www.wired.com/story/the-rise-of-the-1-am-job-interview/</id>
-        <link href="https://www.wired.com/story/the-rise-of-the-1-am-job-interview/"/>
+        <title type="html"><![CDATA[Elevator Music [video]]]></title>
+        <id>https://www.youtube.com/watch?v=jj0ChLVTpaA</id>
+        <link href="https://www.youtube.com/watch?v=jj0ChLVTpaA"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pay a dollar. Your name goes up in moulded plastic]]></title>
-        <id>https://the-wall-lime.vercel.app/</id>
-        <link href="https://the-wall-lime.vercel.app/"/>
+        <title type="html"><![CDATA[Jiffies: The Heartbeat of the Linux Operating System]]></title>
+        <id>https://blogs.oracle.com/linux/jiffies-the-heartbeat-of-the-linux-operating-system</id>
+        <link href="https://blogs.oracle.com/linux/jiffies-the-heartbeat-of-the-linux-operating-system"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Anyone else getting unsolicited spam from "ApplyBoost"?]]></title>
-        <id>https://news.ycombinator.com/item?id=49264777</id>
-        <link href="https://news.ycombinator.com/item?id=49264777"/>
+        <title type="html"><![CDATA[mmiotic: Latency x-ray for undocumented hardware]]></title>
+        <id>https://github.com/xoreaxeaxeax/mmiotic</id>
+        <link href="https://github.com/xoreaxeaxeax/mmiotic"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MonoMap – Minimalist mind mapping app]]></title>
+        <id>https://monomap.app/</id>
+        <link href="https://monomap.app/"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
@@ -106,16 +113,79 @@
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Harden Next.js Apps with the July 2026 Security Release]]></title>
-        <id>https://dev.to/frank_signorini/how-to-harden-nextjs-apps-with-the-july-2026-security-release-l9b</id>
-        <link href="https://dev.to/frank_signorini/how-to-harden-nextjs-apps-with-the-july-2026-security-release-l9b"/>
+        <title type="html"><![CDATA[Ask HN: Anyone else getting unsolicited spam from "ApplyBoost"?]]></title>
+        <id>https://news.ycombinator.com/item?id=49264777</id>
+        <link href="https://news.ycombinator.com/item?id=49264777"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[useEffect, Explained: A Quick Beginner's Guide]]></title>
-        <id>https://dev.to/danpgomez/useeffect-explained-a-quick-beginners-guide-g37</id>
-        <link href="https://dev.to/danpgomez/useeffect-explained-a-quick-beginners-guide-g37"/>
+        <title type="html"><![CDATA[Pay a dollar. Your name goes up in moulded plastic]]></title>
+        <id>https://the-wall-lime.vercel.app/</id>
+        <link href="https://the-wall-lime.vercel.app/"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise of the 1 am Job Interview]]></title>
+        <id>https://www.wired.com/story/the-rise-of-the-1-am-job-interview/</id>
+        <link href="https://www.wired.com/story/the-rise-of-the-1-am-job-interview/"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Longscribe – free transcription for long videos and podcasts]]></title>
+        <id>https://longscribe.com/</id>
+        <link href="https://longscribe.com/"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries]]></title>
+        <id>https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026</id>
+        <link href="https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WorldClaw Agentic 3D open-world generation at scale]]></title>
+        <id>https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</id>
+        <link href="https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There are no lossless transformations of natural-language text]]></title>
+        <id>https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stealing Reasoning Traces from Proprietary LLM APIs]]></title>
+        <id>https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything</id>
+        <link href="https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直播回放·含 ACL&apos;26 杰出论文 | 美团 AI 顶会论文 32 篇精讲]]></title>
+        <id>https://tech.meituan.com/2026/07/11/2026-meituan-32-papers.html</id>
+        <link href="https://tech.meituan.com/2026/07/11/2026-meituan-32-papers.html"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Arrays]]></title>
+        <id>https://dev.to/sarathi_penguin/javascript-arrays-3ni7</id>
+        <link href="https://dev.to/sarathi_penguin/javascript-arrays-3ni7"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging JS/TS from Neovim: JS/TS, the NestJS special & the React Native drama queen]]></title>
+        <id>https://dev.to/a2nof/debugging-jsts-from-neovim-jsts-the-nestjs-special-the-react-native-drama-queen-27fa</id>
+        <link href="https://dev.to/a2nof/debugging-jsts-from-neovim-jsts-the-nestjs-special-the-react-native-drama-queen-27fa"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
@@ -127,6 +197,27 @@
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[useEffect, Explained: A Quick Beginner's Guide]]></title>
+        <id>https://dev.to/danpgomez/useeffect-explained-a-quick-beginners-guide-g37</id>
+        <link href="https://dev.to/danpgomez/useeffect-explained-a-quick-beginners-guide-g37"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Harden Next.js Apps with the July 2026 Security Release]]></title>
+        <id>https://dev.to/frank_signorini/how-to-harden-nextjs-apps-with-the-july-2026-security-release-l9b</id>
+        <link href="https://dev.to/frank_signorini/how-to-harden-nextjs-apps-with-the-july-2026-security-release-l9b"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reminder that `system-ui` is well supported, when you use it on macOS you get San Francisco which is a variable font, which is fun, and the fallbacks are pretty good.]]></title>
+        <id>https://master.dev/blog/system-ui-san-francisco-fun/</id>
+        <link href="https://master.dev/blog/system-ui-san-francisco-fun/"/>
+        <updated>2026-08-11T16:00:00.000Z</updated>
+        <published>2026-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等]]></title>
         <id>https://sspai.com/post/113301</id>
         <link href="https://sspai.com/post/113301"/>
@@ -134,9 +225,9 @@
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Joby flexes military muscle with $500 million defense acquisition]]></title>
-        <id>https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol</id>
-        <link href="https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol"/>
+        <title type="html"><![CDATA[Bluesky now lets you hide reposts from that annoying person you follow]]></title>
+        <id>https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads</id>
+        <link href="https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
@@ -148,9 +239,9 @@
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bluesky now lets you hide reposts from that annoying person you follow]]></title>
-        <id>https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads</id>
-        <link href="https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads"/>
+        <title type="html"><![CDATA[Joby flexes military muscle with $500 million defense acquisition]]></title>
+        <id>https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol</id>
+        <link href="https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
@@ -246,121 +337,30 @@
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Amber – An open-source C99 Q/K array engine for quant finance]]></title>
-        <id>https://github.com/BonucciAndrea/amber</id>
-        <link href="https://github.com/BonucciAndrea/amber"/>
+        <title type="html"><![CDATA[A Post-AI CTF Format Could Be a Research Retreat]]></title>
+        <id>https://jessicaruan.com/posts/save-ctfs</id>
+        <link href="https://jessicaruan.com/posts/save-ctfs"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Claude Fleet – Session Manager Widget Always on Top for CC (Windows)]]></title>
-        <id>https://github.com/Shalom-Borohov/claude-fleet</id>
-        <link href="https://github.com/Shalom-Borohov/claude-fleet"/>
+        <title type="html"><![CDATA[Harry Beck's Idea: A Lesson in Disruption]]></title>
+        <id>https://medium.com/design-bootcamp/harry-becks-radical-idea-a-lesson-in-disruption-6637fe2ac38e</id>
+        <link href="https://medium.com/design-bootcamp/harry-becks-radical-idea-a-lesson-in-disruption-6637fe2ac38e"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: OpenCorp – paste a URL, AI finds competing products and Reddit threads]]></title>
-        <id>https://opencorp.live/</id>
-        <link href="https://opencorp.live/"/>
+        <title type="html"><![CDATA[Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp]]></title>
+        <id>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</id>
+        <link href="https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI agent hacks gym to get its owner spot in pilates class]]></title>
-        <id>https://www.bbc.com/news/articles/cn0nww2qlp7o</id>
-        <link href="https://www.bbc.com/news/articles/cn0nww2qlp7o"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[England set to be one of the first countries to eliminate hepatitis C]]></title>
-        <id>https://www.bbc.com/news/articles/c75gk620r22o</id>
-        <link href="https://www.bbc.com/news/articles/c75gk620r22o"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing with friends and enemies: boids' swarm intelligence]]></title>
-        <id>https://community.wolfram.com/groups/-/m/t/122095</id>
-        <link href="https://community.wolfram.com/groups/-/m/t/122095"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On-the-fly snapshot compression for elastic inference at scale]]></title>
-        <id>https://blog.doubleword.ai/efficient-snapshot-compression</id>
-        <link href="https://blog.doubleword.ai/efficient-snapshot-compression"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reading Maps]]></title>
-        <id>https://readingmaps.com/</id>
-        <link href="https://readingmaps.com/"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Connect a GitHub repo, get a community for your OSS project]]></title>
-        <id>https://earde.com/</id>
-        <link href="https://earde.com/"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sentience and AI – First Argument]]></title>
-        <id>https://medium.com/luminasticity/on-sentience-ai-first-argument-7b3b17a05ad4</id>
-        <link href="https://medium.com/luminasticity/on-sentience-ai-first-argument-7b3b17a05ad4"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Learned This Lesson Already]]></title>
-        <id>https://quii.dev/We_learned_this_lesson_already</id>
-        <link href="https://quii.dev/We_learned_this_lesson_already"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia gets $500B from major investors to develop AI infrastructure]]></title>
-        <id>https://www.bbc.com/news/articles/c78gr0jv0mdo</id>
-        <link href="https://www.bbc.com/news/articles/c78gr0jv0mdo"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sober – New Open-Source Code Reviewer]]></title>
-        <id>https://sober-dev.app/</id>
-        <link href="https://sober-dev.app/"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSSH 10.5 Released]]></title>
-        <id>https://www.openssh.org/releasenotes.html#10.5</id>
-        <link href="https://www.openssh.org/releasenotes.html#10.5"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quasipolynomial Cryptanalysis of the McEliece Cryptosystem [pdf]]]></title>
-        <id>https://eprint.iacr.org/2026/1630.pdf</id>
-        <link href="https://eprint.iacr.org/2026/1630.pdf"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RISC-V: Public Review for the RVA23.1 and RVB23.1 Profiles]]></title>
-        <id>https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/JBT5kq4ryLc</id>
-        <link href="https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/JBT5kq4ryLc"/>
-        <updated>2026-08-10T16:00:00.000Z</updated>
-        <published>2026-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traffic to Trump's Truth Social Falls Sharply This Summer]]></title>
-        <id>https://www.nytimes.com/2026/08/10/business/trump-truth-social-traffic-declines.html</id>
-        <link href="https://www.nytimes.com/2026/08/10/business/trump-truth-social-traffic-declines.html"/>
+        <title type="html"><![CDATA[React-Native-Firebird]]></title>
+        <id>https://asfernandes.github.io/2026/08/09/react-native-firebird</id>
+        <link href="https://asfernandes.github.io/2026/08/09/react-native-firebird"/>
         <updated>2026-08-10T16:00:00.000Z</updated>
         <published>2026-08-10T16:00:00.000Z</published>
     </entry>
