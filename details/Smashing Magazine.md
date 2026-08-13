@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-13 23:04:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-14 06:01:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
@@ -13,4 +13,3 @@
 - [2026-07-28-Thinking-Outside-The-Box:-Digital-Design-In-The-AI-Era](https://smashingmagazine.com/2026/07/digital-design-ai-era/) 
 - [2026-07-21-Weaponizing-And-Defending-The-React-Flight-Protocol:-Deserialization-Sinks-In-RSCs](https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/) 
 - [2026-07-17-When-It-Makes-Sense-To-“Block”-The-Main-Thread](https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/) 
-- [2026-07-15-No,-People-Don’t-Want-More-AI-In-Their-Life](https://smashingmagazine.com/2026/07/people-dont-want-more-ai/) 
