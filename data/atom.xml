@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-12T22:01:50.064Z</updated>
+    <updated>2026-08-13T00:01:30.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,16 +64,9 @@
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon will train on Twitch streamers’ content by default, unless they opt out]]></title>
-        <id>https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/</id>
-        <link href="https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"/>
-        <updated>2026-08-12T16:00:00.000Z</updated>
-        <published>2026-08-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grubhub’s $24M FTC settlement is finally reaching diners and drivers]]></title>
-        <id>https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/</id>
-        <link href="https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/"/>
+        <title type="html"><![CDATA[Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes]]></title>
+        <id>https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/</id>
+        <link href="https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"/>
         <updated>2026-08-12T16:00:00.000Z</updated>
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
@@ -85,16 +78,79 @@
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What If ... Was Your AI Agent? NVIDIA's NOOA Turns Python Methods Into LLM Calls]]></title>
-        <id>https://pub.towardsai.net/what-if-was-your-ai-agent-nvidias-nooa-turns-python-methods-into-llm-calls-0d6e003dfdd1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-if-was-your-ai-agent-nvidias-nooa-turns-python-methods-into-llm-calls-0d6e003dfdd1?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Grubhub’s $24M FTC settlement is finally reaching diners and drivers]]></title>
+        <id>https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/</id>
+        <link href="https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/"/>
         <updated>2026-08-12T16:00:00.000Z</updated>
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built an AI Agent That Can Actually Do Things — Here’s the Full Working Code (Claude + Python +…]]></title>
-        <id>https://pub.towardsai.net/i-built-an-ai-agent-that-can-actually-do-things-heres-the-full-working-code-claude-python-db4323bdebf5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-built-an-ai-agent-that-can-actually-do-things-heres-the-full-working-code-claude-python-db4323bdebf5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Amazon will train on Twitch streamers’ content by default, unless they opt out]]></title>
+        <id>https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/</id>
+        <link href="https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How HN: GreenTree – Cache test results by Git tree, not commit SHA]]></title>
+        <id>https://github.com/Reachpad/greentree</id>
+        <link href="https://github.com/Reachpad/greentree"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's New in Flutter 3.47]]></title>
+        <id>https://flutter.dev/blog/whats-new-in-flutter-3-47</id>
+        <link href="https://flutter.dev/blog/whats-new-in-flutter-3-47"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Asset with No Line Item]]></title>
+        <id>https://medium.com/@alanscottencinas/the-asset-with-no-line-item-f17d0e657ea4</id>
+        <link href="https://medium.com/@alanscottencinas/the-asset-with-no-line-item-f17d0e657ea4"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White House Authorizes Private U.S. Companies to Hack Foreign Cybercrime Groups]]></title>
+        <id>https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/</id>
+        <link href="https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the Backrooms: Creating Public Spaces to Be Less Liminal]]></title>
+        <id>https://www.calmtech.institute/post/beyond-backrooms-creating-public-spaces-to-be-less-liminal-and-more-human</id>
+        <link href="https://www.calmtech.institute/post/beyond-backrooms-creating-public-spaces-to-be-less-liminal-and-more-human"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bench as a Made Object.]]></title>
+        <id>https://idle.news/blog/the-bench-as-a-made-object/</id>
+        <link href="https://idle.news/blog/the-bench-as-a-made-object/"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Decide Chunk Size in Any Project: Complete Interview Guide]]></title>
+        <id>https://pub.towardsai.net/how-to-decide-chunk-size-in-any-project-complete-interview-guide-81558cb49052?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-decide-chunk-size-in-any-project-complete-interview-guide-81558cb49052?source=rss----98111c9905da---4"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Old Computer Science Ideas AI Agents are Bringing Back]]></title>
+        <id>https://pub.towardsai.net/10-old-computer-science-ideas-ai-agents-are-bringing-back-e9a72a603eed?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/10-old-computer-science-ideas-ai-agents-are-bringing-back-e9a72a603eed?source=rss----98111c9905da---4"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Visual QA Workflow: The SaaS Builder’s Guide to Catching AI-Coded Regressions]]></title>
+        <id>https://pub.towardsai.net/ai-visual-qa-workflow-the-saas-builders-guide-to-catching-ai-coded-regressions-85a5cba74159?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-visual-qa-workflow-the-saas-builders-guide-to-catching-ai-coded-regressions-85a5cba74159?source=rss----98111c9905da---4"/>
         <updated>2026-08-12T16:00:00.000Z</updated>
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
@@ -106,9 +162,16 @@
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Visual QA Workflow: The SaaS Builder’s Guide to Catching AI-Coded Regressions]]></title>
-        <id>https://pub.towardsai.net/ai-visual-qa-workflow-the-saas-builders-guide-to-catching-ai-coded-regressions-85a5cba74159?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ai-visual-qa-workflow-the-saas-builders-guide-to-catching-ai-coded-regressions-85a5cba74159?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I Built an AI Agent That Can Actually Do Things — Here’s the Full Working Code (Claude + Python +…]]></title>
+        <id>https://pub.towardsai.net/i-built-an-ai-agent-that-can-actually-do-things-heres-the-full-working-code-claude-python-db4323bdebf5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-built-an-ai-agent-that-can-actually-do-things-heres-the-full-working-code-claude-python-db4323bdebf5?source=rss----98111c9905da---4"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If ... Was Your AI Agent? NVIDIA's NOOA Turns Python Methods Into LLM Calls]]></title>
+        <id>https://pub.towardsai.net/what-if-was-your-ai-agent-nvidias-nooa-turns-python-methods-into-llm-calls-0d6e003dfdd1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-if-was-your-ai-agent-nvidias-nooa-turns-python-methods-into-llm-calls-0d6e003dfdd1?source=rss----98111c9905da---4"/>
         <updated>2026-08-12T16:00:00.000Z</updated>
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
@@ -127,6 +190,13 @@
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitHub availability report: July 2026]]></title>
+        <id>https://github.blog/news-insights/company-news/github-availability-report-july-2026/</id>
+        <link href="https://github.blog/news-insights/company-news/github-availability-report-july-2026/"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Write your first prompt with the GitHub Copilot app]]></title>
         <id>https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/</id>
         <link href="https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/"/>
@@ -134,51 +204,51 @@
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Variables in JavaScript]]></title>
-        <id>https://dev.to/ragul_kannadasan/variables-in-javascript-hpo</id>
-        <link href="https://dev.to/ragul_kannadasan/variables-in-javascript-hpo"/>
+        <title type="html"><![CDATA[Best Cryptocurrency Recovery Company Base in LONDON UNITED KINGDOM, Professional Bitcoin Recovery Firm visit ZEUS CRYPTO RECOVERY SERVICES]]></title>
+        <id>https://dev.to/michael_didy_9fd97f9d664c/best-cryptocurrency-recovery-company-base-in-london-united-kingdom-professional-bitcoin-recovery-2kdh</id>
+        <link href="https://dev.to/michael_didy_9fd97f9d664c/best-cryptocurrency-recovery-company-base-in-london-united-kingdom-professional-bitcoin-recovery-2kdh"/>
         <updated>2026-08-12T16:00:00.000Z</updated>
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calculating the number of days between two dates in JavaScript (the right way)]]></title>
-        <id>https://dev.to/fontfiesta_7662a0ba617704/calculating-the-number-of-days-between-two-dates-in-javascript-the-right-way-25pj</id>
-        <link href="https://dev.to/fontfiesta_7662a0ba617704/calculating-the-number-of-days-between-two-dates-in-javascript-the-right-way-25pj"/>
+        <title type="html"><![CDATA[Cursor Origin: Git Hosting Riêng Cho AI Agent, Ra Mắt Mùa Thu]]></title>
+        <id>https://dev.to/bean_bean/cursor-origin-git-hosting-rieng-cho-ai-agent-ra-mat-mua-thu-2oae</id>
+        <link href="https://dev.to/bean_bean/cursor-origin-git-hosting-rieng-cho-ai-agent-ra-mat-mua-thu-2oae"/>
         <updated>2026-08-12T16:00:00.000Z</updated>
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buy Verified Binance Accounts - Setup & KYC Guidance]]></title>
-        <id>https://dev.to/sharlvarnerkhalshxk/buy-verified-binance-accounts-setup-kyc-guidance-1mok</id>
-        <link href="https://dev.to/sharlvarnerkhalshxk/buy-verified-binance-accounts-setup-kyc-guidance-1mok"/>
+        <title type="html"><![CDATA[I Built a Free Video Thumbnail Generator (Because Canva Charges $12.99/Month)]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-video-thumbnail-generator-because-canva-charges-1299month-1588</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-video-thumbnail-generator-because-canva-charges-1299month-1588"/>
         <updated>2026-08-12T16:00:00.000Z</updated>
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 5 Platforms to Buy Telegram Accounts — Verified &amp]]></title>
-        <id>https://dev.to/sharlvarnerkhalshxk/top-5-platforms-to-buy-telegram-accounts-verified-amp-533f</id>
-        <link href="https://dev.to/sharlvarnerkhalshxk/top-5-platforms-to-buy-telegram-accounts-verified-amp-533f"/>
+        <title type="html"><![CDATA[I Built a Free Social Media Content Calendar (Because Later Charges $12/Month for 30 Posts)]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-social-media-content-calendar-because-later-charges-12month-for-30-posts-23lk</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-social-media-content-calendar-because-later-charges-12month-for-30-posts-23lk"/>
         <updated>2026-08-12T16:00:00.000Z</updated>
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript 7 Goes Native: What Breaks on Upgrade]]></title>
-        <id>https://dev.to/mudassirworks/typescript-7-goes-native-what-breaks-on-upgrade-h6j</id>
-        <link href="https://dev.to/mudassirworks/typescript-7-goes-native-what-breaks-on-upgrade-h6j"/>
+        <title type="html"><![CDATA[Python List Comprehensions, Generators, and When to Use Each: A Jedi's Guide]]></title>
+        <id>https://dev.to/timevolt/python-list-comprehensions-generators-and-when-to-use-each-a-jedis-guide-nhl</id>
+        <link href="https://dev.to/timevolt/python-list-comprehensions-generators-and-when-to-use-each-a-jedis-guide-nhl"/>
         <updated>2026-08-12T16:00:00.000Z</updated>
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buy Verified Stripe Accounts for Business Payments: 2026 Safety Guide]]></title>
-        <id>https://dev.to/tresa_waller_c67653a2f221/buy-verified-stripe-accounts-for-business-payments-2026-safety-guide-pe0</id>
-        <link href="https://dev.to/tresa_waller_c67653a2f221/buy-verified-stripe-accounts-for-business-payments-2026-safety-guide-pe0"/>
+        <title type="html"><![CDATA[I built a 100% Client-Side PDF & Media Tool using WASM (Zero Server Uploads)]]></title>
+        <id>https://dev.to/cn_kk_/i-built-a-100-client-side-pdf-media-tool-using-wasm-zero-server-uploads-bj2</id>
+        <link href="https://dev.to/cn_kk_/i-built-a-100-client-side-pdf-media-tool-using-wasm-zero-server-uploads-bj2"/>
         <updated>2026-08-12T16:00:00.000Z</updated>
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 7 Sites Buying Verified Airbnb Accounts for Instant Use ...]]></title>
-        <id>https://dev.to/sharlvarnerkhalshxk/top-7-sites-buying-verified-airbnb-accounts-for-instant-use--1fe5</id>
-        <link href="https://dev.to/sharlvarnerkhalshxk/top-7-sites-buying-verified-airbnb-accounts-for-instant-use--1fe5"/>
+        <title type="html"><![CDATA[Lead-Capture Forms for Local Service Businesses: What Actually Reduces Spam and Increases Real Leads]]></title>
+        <id>https://dev.to/isaias_perez_intelia/lead-capture-forms-for-local-service-businesses-what-actually-reduces-spam-and-increases-real-leads-55hm</id>
+        <link href="https://dev.to/isaias_perez_intelia/lead-capture-forms-for-local-service-businesses-what-actually-reduces-spam-and-increases-real-leads-55hm"/>
         <updated>2026-08-12T16:00:00.000Z</updated>
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
@@ -190,9 +260,51 @@
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lead-Capture Forms for Local Service Businesses: What Actually Reduces Spam and Increases Real Leads]]></title>
-        <id>https://dev.to/isaias_perez_intelia/lead-capture-forms-for-local-service-businesses-what-actually-reduces-spam-and-increases-real-leads-55hm</id>
-        <link href="https://dev.to/isaias_perez_intelia/lead-capture-forms-for-local-service-businesses-what-actually-reduces-spam-and-increases-real-leads-55hm"/>
+        <title type="html"><![CDATA[Top 7 Sites Buying Verified Airbnb Accounts for Instant Use ...]]></title>
+        <id>https://dev.to/sharlvarnerkhalshxk/top-7-sites-buying-verified-airbnb-accounts-for-instant-use--1fe5</id>
+        <link href="https://dev.to/sharlvarnerkhalshxk/top-7-sites-buying-verified-airbnb-accounts-for-instant-use--1fe5"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Verified Stripe Accounts for Business Payments: 2026 Safety Guide]]></title>
+        <id>https://dev.to/tresa_waller_c67653a2f221/buy-verified-stripe-accounts-for-business-payments-2026-safety-guide-pe0</id>
+        <link href="https://dev.to/tresa_waller_c67653a2f221/buy-verified-stripe-accounts-for-business-payments-2026-safety-guide-pe0"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 7 Goes Native: What Breaks on Upgrade]]></title>
+        <id>https://dev.to/mudassirworks/typescript-7-goes-native-what-breaks-on-upgrade-h6j</id>
+        <link href="https://dev.to/mudassirworks/typescript-7-goes-native-what-breaks-on-upgrade-h6j"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Platforms to Buy Telegram Accounts — Verified &amp]]></title>
+        <id>https://dev.to/sharlvarnerkhalshxk/top-5-platforms-to-buy-telegram-accounts-verified-amp-533f</id>
+        <link href="https://dev.to/sharlvarnerkhalshxk/top-5-platforms-to-buy-telegram-accounts-verified-amp-533f"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Verified Binance Accounts - Setup & KYC Guidance]]></title>
+        <id>https://dev.to/sharlvarnerkhalshxk/buy-verified-binance-accounts-setup-kyc-guidance-1mok</id>
+        <link href="https://dev.to/sharlvarnerkhalshxk/buy-verified-binance-accounts-setup-kyc-guidance-1mok"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calculating the number of days between two dates in JavaScript (the right way)]]></title>
+        <id>https://dev.to/fontfiesta_7662a0ba617704/calculating-the-number-of-days-between-two-dates-in-javascript-the-right-way-25pj</id>
+        <link href="https://dev.to/fontfiesta_7662a0ba617704/calculating-the-number-of-days-between-two-dates-in-javascript-the-right-way-25pj"/>
+        <updated>2026-08-12T16:00:00.000Z</updated>
+        <published>2026-08-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variables in JavaScript]]></title>
+        <id>https://dev.to/ragul_kannadasan/variables-in-javascript-hpo</id>
+        <link href="https://dev.to/ragul_kannadasan/variables-in-javascript-hpo"/>
         <updated>2026-08-12T16:00:00.000Z</updated>
         <published>2026-08-12T16:00:00.000Z</published>
     </entry>
@@ -232,65 +344,9 @@
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Coin-Sized Device Can Hack a Boeing 737]]></title>
-        <id>https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/</id>
-        <link href="https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ego 1300 Electric Mower Review: Tame Your Lawn Without Gas]]></title>
-        <id>https://www.wired.com/review/ego-1300-electric-lawn-mower/</id>
-        <link href="https://www.wired.com/review/ego-1300-electric-lawn-mower/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself]]></title>
-        <id>https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/</id>
-        <link href="https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Action Cameras for All Your Craziest Adventures (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-action-cameras/</id>
-        <link href="https://www.wired.com/gallery/best-action-cameras/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[McDonald’s Built a 515-Page Dossier on Me. It Says I’ll Never Stop Eating There]]></title>
-        <id>https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/</id>
-        <link href="https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vimeo Promo Codes and Discounts: Up to 40% Off This August 2026]]></title>
-        <id>https://www.wired.com/story/vimeo-promo-code/</id>
-        <link href="https://www.wired.com/story/vimeo-promo-code/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How and When to View the Perseid Meteor Shower (August 2026)]]></title>
-        <id>https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/</id>
-        <link href="https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Candidate Named ‘Count Binface’ Is the Most Normal Part of This Pivotal UK Election]]></title>
-        <id>https://www.wired.com/story/a-candidate-named-count-binface-is-the-most-normal-part-of-this-pivotal-uk-election/</id>
-        <link href="https://www.wired.com/story/a-candidate-named-count-binface-is-the-most-normal-part-of-this-pivotal-uk-election/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Great Deals From Patagonia’s Past-Season Sale]]></title>
-        <id>https://www.wired.com/story/patagonia-past-season-sale-2026/</id>
-        <link href="https://www.wired.com/story/patagonia-past-season-sale-2026/"/>
+        <title type="html"><![CDATA[Google’s Pixel Watch 5 Can Now Detect Breathing Emergencies]]></title>
+        <id>https://www.wired.com/story/googles-pixel-watch-5-can-now-detect-breathing-emergencies/</id>
+        <link href="https://www.wired.com/story/googles-pixel-watch-5-can-now-detect-breathing-emergencies/"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
@@ -302,65 +358,9 @@
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google’s Pixel Watch 5 Can Now Detect Breathing Emergencies]]></title>
-        <id>https://www.wired.com/story/googles-pixel-watch-5-can-now-detect-breathing-emergencies/</id>
-        <link href="https://www.wired.com/story/googles-pixel-watch-5-can-now-detect-breathing-emergencies/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year]]></title>
-        <id>https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/</id>
-        <link href="https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?]]></title>
-        <id>https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/</id>
-        <link href="https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accel closes oversubscribed $550M India fund within weeks, 19 months after its last]]></title>
-        <id>https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/</id>
-        <link href="https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months]]></title>
-        <id>https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/</id>
-        <link href="https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silkroad Innovation Hub’s Road to Battlefield competition continues]]></title>
-        <id>https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/</id>
-        <link href="https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUI Programming]]></title>
-        <id>https://fomenko.fr/devlogs/gui-programming/</id>
-        <link href="https://fomenko.fr/devlogs/gui-programming/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twisted Physics: Astronomers Solve 30-Year-Old Stellar Mystery]]></title>
-        <id>https://public.nrao.edu/news/twisted-physics-astronomers-solve-30-year-old-stellar-mystery/</id>
-        <link href="https://public.nrao.edu/news/twisted-physics-astronomers-solve-30-year-old-stellar-mystery/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <published>2026-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Psysonic: A full-featured desktop client for Navidrome]]></title>
-        <id>https://github.com/Psychotoxical/psysonic</id>
-        <link href="https://github.com/Psychotoxical/psysonic"/>
+        <title type="html"><![CDATA[8 Great Deals From Patagonia’s Past-Season Sale]]></title>
+        <id>https://www.wired.com/story/patagonia-past-season-sale-2026/</id>
+        <link href="https://www.wired.com/story/patagonia-past-season-sale-2026/"/>
         <updated>2026-08-11T16:00:00.000Z</updated>
         <published>2026-08-11T16:00:00.000Z</published>
     </entry>
