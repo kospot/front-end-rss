@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-14 21:03:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-14 23:03:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Martin Fowler
 
@@ -9,7 +9,7 @@
 - [2026-08-04-Fragments:-August-4](https://martinfowler.com/fragments/2026-08-04.html) 
 - [2026-07-31-The-Conductor-Developer](https://martinfowler.com/rachels-ramblings/conductor-developer.html) 
 - [2026-07-30-The-Economic-Benefit-of-Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html) 
-- [2026-07-28-The-Orchestrator's-Tax](https://martinfowler.com/articles/orchestrator-tax.html) 
 - [2026-07-28-Why-I’m-Writing-Rachel’s-Ramblings](https://martinfowler.com/rachels-ramblings/intro.html) 
+- [2026-07-28-The-Orchestrator's-Tax](https://martinfowler.com/articles/orchestrator-tax.html) 
 - [2026-07-21-Fragments:-July-21](https://martinfowler.com/fragments/2026-07-21.html) 
 - [2026-07-16-The-Archaeologist’s-Copilot](https://martinfowler.com/articles/archaeologist-copilot.html) 
