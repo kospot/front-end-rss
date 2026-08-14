@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-14T07:04:04.305Z</updated>
+    <updated>2026-08-14T10:02:50.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,30 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[‘That is not acceptable’: Judge orders Google to make rival app store installs easier]]></title>
-        <id>https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier</id>
-        <link href="https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This school-friendly laptop from HP is $300 off]]></title>
-        <id>https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI is losing its second executive this week]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I finally found a robot lawnmower I’d trust with my yard]]></title>
-        <id>https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame</id>
-        <link href="https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame"/>
+        <title type="html"><![CDATA[Apple and Epic argue over how much Apple should get from purchases made outside the App Store]]></title>
+        <id>https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing</id>
+        <link href="https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
@@ -50,9 +29,44 @@
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple and Epic argue over how much Apple should get from purchases made outside the App Store]]></title>
-        <id>https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing</id>
-        <link href="https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing"/>
+        <title type="html"><![CDATA[I finally found a robot lawnmower I’d trust with my yard]]></title>
+        <id>https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame</id>
+        <link href="https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI is losing its second executive this week]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This school-friendly laptop from HP is $300 off]]></title>
+        <id>https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘That is not acceptable’: Judge orders Google to make rival app store installs easier]]></title>
+        <id>https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier</id>
+        <link href="https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Art Project Slows Down Citi Bikes to Make NYC’s Rent Crisis Feel Real]]></title>
+        <id>https://www.wired.com/story/this-art-project-slows-down-citi-bikes-to-make-nycs-rent-crisis-feel-real/</id>
+        <link href="https://www.wired.com/story/this-art-project-slows-down-citi-bikes-to-make-nycs-rent-crisis-feel-real/"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dell XPS 13 Review: Move Over, Neo]]></title>
+        <id>https://www.wired.com/review/dell-xps-13-2026/</id>
+        <link href="https://www.wired.com/review/dell-xps-13-2026/"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
@@ -85,184 +99,44 @@
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NPM Left-Pad Incident]]></title>
-        <id>https://en.wikipedia.org/wiki/Npm_left-pad_incident</id>
-        <link href="https://en.wikipedia.org/wiki/Npm_left-pad_incident"/>
+        <title type="html"><![CDATA[I burned $157,143 in tokens last month. I paid $400]]></title>
+        <id>https://www.orcdev.com/blog/ai-subscriptions</id>
+        <link href="https://www.orcdev.com/blog/ai-subscriptions"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: OpenCode Auto Permissions – automatic review of permission prompts]]></title>
-        <id>https://github.com/hueyexe/opencode-auto-permissions</id>
-        <link href="https://github.com/hueyexe/opencode-auto-permissions"/>
+        <title type="html"><![CDATA[Show HN: RAGless – similar to RAG, but $0 LLM API costs at runtime]]></title>
+        <id>https://github.com/EmilResearch/RAGless</id>
+        <link href="https://github.com/EmilResearch/RAGless"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pay for SF uniformed police and Sheriff deputies is approaching $900k per year]]></title>
-        <id>https://twitter.com/loomdoop/status/2087994362219450743</id>
-        <link href="https://twitter.com/loomdoop/status/2087994362219450743"/>
+        <title type="html"><![CDATA[Pinterest Dark Mode and Theme]]></title>
+        <id>https://chromewebstore.google.com/detail/dark-mode-for-pinterest-â/acgmkcgkegbgcdmhabifeigllicffkpb</id>
+        <link href="https://chromewebstore.google.com/detail/dark-mode-for-pinterest-â/acgmkcgkegbgcdmhabifeigllicffkpb"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Case for Deliberately Building Less Software [video]]]></title>
-        <id>https://www.youtube.com/watch?v=I1Iw5yKmR5U</id>
-        <link href="https://www.youtube.com/watch?v=I1Iw5yKmR5U"/>
+        <title type="html"><![CDATA[Ketamine increases neuroplasticity in female mice but not in males]]></title>
+        <id>https://alleninstitute.org/news/ketamine-increases-neuroplasticity-in-female-mice-but-not-in-males</id>
+        <link href="https://alleninstitute.org/news/ketamine-increases-neuroplasticity-in-female-mice-but-not-in-males"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How a giant battery is transforming a town centre in Cannington, Ontario]]></title>
-        <id>https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/</id>
-        <link href="https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/"/>
+        <title type="html"><![CDATA[Bring your spreadsheet data to life with Sheets canvas]]></title>
+        <id>https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/</id>
+        <link href="https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: WinCore – Open-Source Windows Utilities for AI and PyTorch]]></title>
-        <id>https://github.com/FWKMultiverse/WinCore</id>
-        <link href="https://github.com/FWKMultiverse/WinCore"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Pay Chief Jennifer Bailey Retiring in October]]></title>
-        <id>https://www.macrumors.com/2026/08/11/apple-pay-chief-retiring/</id>
-        <link href="https://www.macrumors.com/2026/08/11/apple-pay-chief-retiring/"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Referee.Chat – Set the goal. An AI panel works your goal. Referee clears it done]]></title>
-        <id>https://referee.chat/</id>
-        <link href="https://referee.chat/"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Administration to impose tariffs on drone imports, White House says]]></title>
-        <id>https://www.reuters.com/world/us/trump-administration-impose-tariffs-drone-imports-white-house-says-2026-08-13/</id>
-        <link href="https://www.reuters.com/world/us/trump-administration-impose-tariffs-drone-imports-white-house-says-2026-08-13/"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: What do you use for budgeting in the business?]]></title>
-        <id>https://news.ycombinator.com/item?id=49293175</id>
-        <link href="https://news.ycombinator.com/item?id=49293175"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toast 1]]></title>
-        <id>https://www.mixedbread.com/blog/toast-1</id>
-        <link href="https://www.mixedbread.com/blog/toast-1"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals]]></title>
-        <id>https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html</id>
-        <link href="https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What We Lost When Computers Became Easier to Use [video]]]></title>
-        <id>https://www.youtube.com/watch?v=XHeMsXDyw2A</id>
-        <link href="https://www.youtube.com/watch?v=XHeMsXDyw2A"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Company Knowledge in ChatGPT (Business, Enterprise, and Edu)]]></title>
-        <id>https://help.openai.com/en/articles/12628342-company-knowledge-in-chatgpt-business-enterprise-and-edu</id>
-        <link href="https://help.openai.com/en/articles/12628342-company-knowledge-in-chatgpt-business-enterprise-and-edu"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I tried the new ChatGPT Desktop App for Linux – but I'll stick to my browser]]></title>
-        <id>https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/</id>
-        <link href="https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[White House Opens Path for Private Companies to Hack Cybercriminals]]></title>
-        <id>https://www.nytimes.com/live/2026/08/13/us/trump-news</id>
-        <link href="https://www.nytimes.com/live/2026/08/13/us/trump-news"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's get physical]]></title>
-        <id>https://newsletter.wirepine.com/cp/210683776</id>
-        <link href="https://newsletter.wirepine.com/cp/210683776"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LinkedIn Wants Users to Lean Less on AI. Maybe Less]]></title>
-        <id>https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa</id>
-        <link href="https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bank of Japan September rate hike locked in; SME bankruptcies hit 12-year high]]></title>
-        <id>https://www.msn.com/en-us/money/economy/bank-of-japan-september-rate-hike-locked-in-sme-bankruptcies-hit-12-year-high/ar-AA2a2Cer</id>
-        <link href="https://www.msn.com/en-us/money/economy/bank-of-japan-september-rate-hike-locked-in-sme-bankruptcies-hit-12-year-high/ar-AA2a2Cer"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Fast Is .NET 11 Runtime Async?]]></title>
-        <id>https://medium.com/@skyake/how-fast-is-net-11-runtime-async-b9c821529cd5</id>
-        <link href="https://medium.com/@skyake/how-fast-is-net-11-runtime-async-b9c821529cd5"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fossils show carbon emissions harm forests, not 'green the planet']]></title>
-        <id>https://www.theguardian.com/us-news/2026/aug/13/forests-carbon-dioxide-emissions</id>
-        <link href="https://www.theguardian.com/us-news/2026/aug/13/forests-carbon-dioxide-emissions"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Error by AI scribe during medical appointment leaves patient devastated]]></title>
-        <id>https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672</id>
-        <link href="https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An open-source knowledge graph for traceable AI decisions]]></title>
-        <id>https://github.com/semantica-agi/semantica</id>
-        <link href="https://github.com/semantica-agi/semantica"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Coding Has Erased the Supposed Advantage of Statically Typed Languages]]></title>
-        <id>https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/</id>
-        <link href="https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Air Purifiers as White Noise Machines]]></title>
-        <id>https://www.jefftk.com/p/air-purifiers-as-white-noise-machines</id>
-        <link href="https://www.jefftk.com/p/air-purifiers-as-white-noise-machines"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily driving PostmarketOS (Summer 2026)]]></title>
-        <id>https://blog.senderolinux.com/daily-driving-postmarketos-summer-2026/</id>
-        <link href="https://blog.senderolinux.com/daily-driving-postmarketos-summer-2026/"/>
+        <title type="html"><![CDATA[How to export ChatGPT chat to pdf, word and Google Docs [video]]]></title>
+        <id>https://www.youtube.com/watch?v=E4oIlt8yaH4</id>
+        <link href="https://www.youtube.com/watch?v=E4oIlt8yaH4"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
@@ -274,30 +148,198 @@
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Engineer’s Guide to Claude Cowork: Avoid Sandbox Escapes]]></title>
-        <id>https://pub.towardsai.net/the-engineers-guide-to-claude-cowork-avoid-sandbox-escapes-73f4d580281d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-engineers-guide-to-claude-cowork-avoid-sandbox-escapes-73f4d580281d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Daily driving PostmarketOS (Summer 2026)]]></title>
+        <id>https://blog.senderolinux.com/daily-driving-postmarketos-summer-2026/</id>
+        <link href="https://blog.senderolinux.com/daily-driving-postmarketos-summer-2026/"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How MCP Architecture Scales AI Systems: Sampling & Roots Explained]]></title>
-        <id>https://pub.towardsai.net/how-mcp-architecture-scales-ai-systems-sampling-roots-explained-8db6784bf108?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-mcp-architecture-scales-ai-systems-sampling-roots-explained-8db6784bf108?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Air Purifiers as White Noise Machines]]></title>
+        <id>https://www.jefftk.com/p/air-purifiers-as-white-noise-machines</id>
+        <link href="https://www.jefftk.com/p/air-purifiers-as-white-noise-machines"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cubic Roots Using ‘SOGAR’-‘Sum Of Gradients At Roots’]]></title>
-        <id>https://pub.towardsai.net/cubic-roots-using-sogar-sum-of-gradients-at-roots-aa990b1c4bc7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/cubic-roots-using-sogar-sum-of-gradients-at-roots-aa990b1c4bc7?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[AI Coding Has Erased the Supposed Advantage of Statically Typed Languages]]></title>
+        <id>https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/</id>
+        <link href="https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Context Engineering: The Discipline That Quietly Replaced Prompt Engineering]]></title>
-        <id>https://pub.towardsai.net/context-engineering-the-discipline-that-quietly-replaced-prompt-engineering-da39172dbe15?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/context-engineering-the-discipline-that-quietly-replaced-prompt-engineering-da39172dbe15?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[An open-source knowledge graph for traceable AI decisions]]></title>
+        <id>https://github.com/semantica-agi/semantica</id>
+        <link href="https://github.com/semantica-agi/semantica"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error by AI scribe during medical appointment leaves patient devastated]]></title>
+        <id>https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672</id>
+        <link href="https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fossils show carbon emissions harm forests, not 'green the planet']]></title>
+        <id>https://www.theguardian.com/us-news/2026/aug/13/forests-carbon-dioxide-emissions</id>
+        <link href="https://www.theguardian.com/us-news/2026/aug/13/forests-carbon-dioxide-emissions"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Fast Is .NET 11 Runtime Async?]]></title>
+        <id>https://medium.com/@skyake/how-fast-is-net-11-runtime-async-b9c821529cd5</id>
+        <link href="https://medium.com/@skyake/how-fast-is-net-11-runtime-async-b9c821529cd5"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bank of Japan September rate hike locked in; SME bankruptcies hit 12-year high]]></title>
+        <id>https://www.msn.com/en-us/money/economy/bank-of-japan-september-rate-hike-locked-in-sme-bankruptcies-hit-12-year-high/ar-AA2a2Cer</id>
+        <link href="https://www.msn.com/en-us/money/economy/bank-of-japan-september-rate-hike-locked-in-sme-bankruptcies-hit-12-year-high/ar-AA2a2Cer"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn Wants Users to Lean Less on AI. Maybe Less]]></title>
+        <id>https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa</id>
+        <link href="https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's get physical]]></title>
+        <id>https://newsletter.wirepine.com/cp/210683776</id>
+        <link href="https://newsletter.wirepine.com/cp/210683776"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White House Opens Path for Private Companies to Hack Cybercriminals]]></title>
+        <id>https://www.nytimes.com/live/2026/08/13/us/trump-news</id>
+        <link href="https://www.nytimes.com/live/2026/08/13/us/trump-news"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried the new ChatGPT Desktop App for Linux – but I'll stick to my browser]]></title>
+        <id>https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/</id>
+        <link href="https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Company Knowledge in ChatGPT (Business, Enterprise, and Edu)]]></title>
+        <id>https://help.openai.com/en/articles/12628342-company-knowledge-in-chatgpt-business-enterprise-and-edu</id>
+        <link href="https://help.openai.com/en/articles/12628342-company-knowledge-in-chatgpt-business-enterprise-and-edu"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Lost When Computers Became Easier to Use [video]]]></title>
+        <id>https://www.youtube.com/watch?v=XHeMsXDyw2A</id>
+        <link href="https://www.youtube.com/watch?v=XHeMsXDyw2A"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals]]></title>
+        <id>https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html</id>
+        <link href="https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toast 1]]></title>
+        <id>https://www.mixedbread.com/blog/toast-1</id>
+        <link href="https://www.mixedbread.com/blog/toast-1"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What do you use for budgeting in the business?]]></title>
+        <id>https://news.ycombinator.com/item?id=49293175</id>
+        <link href="https://news.ycombinator.com/item?id=49293175"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Administration to impose tariffs on drone imports, White House says]]></title>
+        <id>https://www.reuters.com/world/us/trump-administration-impose-tariffs-drone-imports-white-house-says-2026-08-13/</id>
+        <link href="https://www.reuters.com/world/us/trump-administration-impose-tariffs-drone-imports-white-house-says-2026-08-13/"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Referee.Chat – Set the goal. An AI panel works your goal. Referee clears it done]]></title>
+        <id>https://referee.chat/</id>
+        <link href="https://referee.chat/"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Pay Chief Jennifer Bailey Retiring in October]]></title>
+        <id>https://www.macrumors.com/2026/08/11/apple-pay-chief-retiring/</id>
+        <link href="https://www.macrumors.com/2026/08/11/apple-pay-chief-retiring/"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: WinCore – Open-Source Windows Utilities for AI and PyTorch]]></title>
+        <id>https://github.com/FWKMultiverse/WinCore</id>
+        <link href="https://github.com/FWKMultiverse/WinCore"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a giant battery is transforming a town centre in Cannington, Ontario]]></title>
+        <id>https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/</id>
+        <link href="https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Case for Deliberately Building Less Software [video]]]></title>
+        <id>https://www.youtube.com/watch?v=I1Iw5yKmR5U</id>
+        <link href="https://www.youtube.com/watch?v=I1Iw5yKmR5U"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pay for SF uniformed police and Sheriff deputies is approaching $900k per year]]></title>
+        <id>https://twitter.com/loomdoop/status/2087994362219450743</id>
+        <link href="https://twitter.com/loomdoop/status/2087994362219450743"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: OpenCode Auto Permissions – automatic review of permission prompts]]></title>
+        <id>https://github.com/hueyexe/opencode-auto-permissions</id>
+        <link href="https://github.com/hueyexe/opencode-auto-permissions"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NPM Left-Pad Incident]]></title>
+        <id>https://en.wikipedia.org/wiki/Npm_left-pad_incident</id>
+        <link href="https://en.wikipedia.org/wiki/Npm_left-pad_incident"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Cost of Manual Literature Reviews, and How AI Changes the Math]]></title>
+        <id>https://pub.towardsai.net/the-hidden-cost-of-manual-literature-reviews-and-how-ai-changes-the-math-34157c309d92?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-hidden-cost-of-manual-literature-reviews-and-how-ai-changes-the-math-34157c309d92?source=rss----98111c9905da---4"/>
+        <updated>2026-08-13T16:00:00.000Z</updated>
+        <published>2026-08-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Act Is Not a Compliance Project: Five Lessons from BCBS 239]]></title>
+        <id>https://pub.towardsai.net/the-ai-act-is-not-a-compliance-project-five-lessons-from-bcbs-239-b7a65b076721?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-ai-act-is-not-a-compliance-project-five-lessons-from-bcbs-239-b7a65b076721?source=rss----98111c9905da---4"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
@@ -309,58 +351,16 @@
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining]]></title>
-        <id>https://arxiv.org/abs/2608.12419</id>
-        <link href="https://arxiv.org/abs/2608.12419"/>
+        <title type="html"><![CDATA[Context Engineering: The Discipline That Quietly Replaced Prompt Engineering]]></title>
+        <id>https://pub.towardsai.net/context-engineering-the-discipline-that-quietly-replaced-prompt-engineering-da39172dbe15?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/context-engineering-the-discipline-that-quietly-replaced-prompt-engineering-da39172dbe15?source=rss----98111c9905da---4"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Multi-AUV Ad-hoc network-based Target Tracking: A Value Gradient Guidance Multi-Agent Diffusion Reinforcement Learning Approach]]></title>
-        <id>https://arxiv.org/abs/2608.12436</id>
-        <link href="https://arxiv.org/abs/2608.12436"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dual Spatial-Temporal Attribution: Architecture-Aligned Post-Hoc Explainability for Recurrent Graph Anomaly Detection]]></title>
-        <id>https://arxiv.org/abs/2608.12441</id>
-        <link href="https://arxiv.org/abs/2608.12441"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometric and Behavioral Stratification in Transformer Residual Streams]]></title>
-        <id>https://arxiv.org/abs/2608.12447</id>
-        <link href="https://arxiv.org/abs/2608.12447"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exemplar-based objective classification of gust-induced loads across multiple flight conditions]]></title>
-        <id>https://arxiv.org/abs/2608.12448</id>
-        <link href="https://arxiv.org/abs/2608.12448"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Can You Trust Offline Evaluation of Equal-Cost Top-k Allocation? A Controlled, Reproducible Benchmark and Practitioner's Guide]]></title>
-        <id>https://arxiv.org/abs/2608.12489</id>
-        <link href="https://arxiv.org/abs/2608.12489"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GENADA: efficient generative time series adversarial attack framework]]></title>
-        <id>https://arxiv.org/abs/2608.12535</id>
-        <link href="https://arxiv.org/abs/2608.12535"/>
-        <updated>2026-08-13T16:00:00.000Z</updated>
-        <published>2026-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prof-K: Probabilistic One-Pass Filtering for Efficient Top-k Selection]]></title>
-        <id>https://arxiv.org/abs/2608.12573</id>
-        <link href="https://arxiv.org/abs/2608.12573"/>
+        <title type="html"><![CDATA[Cubic Roots Using ‘SOGAR’-‘Sum Of Gradients At Roots’]]></title>
+        <id>https://pub.towardsai.net/cubic-roots-using-sogar-sum-of-gradients-at-roots-aa990b1c4bc7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/cubic-roots-using-sogar-sum-of-gradients-at-roots-aa990b1c4bc7?source=rss----98111c9905da---4"/>
         <updated>2026-08-13T16:00:00.000Z</updated>
         <published>2026-08-13T16:00:00.000Z</published>
     </entry>
