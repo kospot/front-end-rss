@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-15T07:02:23.298Z</updated>
+    <updated>2026-08-15T10:02:20.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,9 +43,9 @@
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Next Big Influencer Is This 4-Foot-Tall Robot From China]]></title>
-        <id>https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/</id>
-        <link href="https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/"/>
+        <title type="html"><![CDATA[Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out]]></title>
+        <id>https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/</id>
+        <link href="https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[The Best Movies to Stream This Month (August 2026)]]></title>
         <id>https://www.wired.com/story/the-8-best-movies-to-stream-right-now/</id>
         <link href="https://www.wired.com/story/the-8-best-movies-to-stream-right-now/"/>
+        <updated>2026-08-14T16:00:00.000Z</updated>
+        <published>2026-08-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next Big Influencer Is This 4-Foot-Tall Robot From China]]></title>
+        <id>https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/</id>
+        <link href="https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
@@ -259,100 +266,93 @@ https://github.com/evoluteur/evolutility-server-node
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Cloudflare Workers for Free Hosting]]></title>
-        <id>https://dev.to/qingluan/how-to-use-cloudflare-workers-for-free-hosting-5f4p</id>
-        <link href="https://dev.to/qingluan/how-to-use-cloudflare-workers-for-free-hosting-5f4p"/>
+        <title type="html"><![CDATA[ever-better: 13 commands that make a codebase only able to get better]]></title>
+        <id>https://dev.to/isamu/ever-better-13-commands-that-make-a-codebase-only-able-to-get-better-35d0</id>
+        <link href="https://dev.to/isamu/ever-better-13-commands-that-make-a-codebase-only-able-to-get-better-35d0"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spicing Up the Web: Building "Angaar", an Immersive Indian Comfort Food Experience]]></title>
-        <id>https://dev.to/dj29/spicing-up-the-web-building-angaar-an-immersive-indian-comfort-food-experience-38go</id>
-        <link href="https://dev.to/dj29/spicing-up-the-web-building-angaar-an-immersive-indian-comfort-food-experience-38go"/>
+        <title type="html"><![CDATA[Flexible PCB: A Complete Guide to Design, Manufacturing, Materials, and Applications]]></title>
+        <id>https://dev.to/pcb_manufacturer/flexible-pcb-a-complete-guide-to-design-manufacturing-materials-and-applications-37lm</id>
+        <link href="https://dev.to/pcb_manufacturer/flexible-pcb-a-complete-guide-to-design-manufacturing-materials-and-applications-37lm"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSX - 0 to Hero]]></title>
-        <id>https://dev.to/shanitiwari/jsx-0-to-hero-439h</id>
-        <link href="https://dev.to/shanitiwari/jsx-0-to-hero-439h"/>
+        <title type="html"><![CDATA[I Almost Lost Years to This. So I Built an Open-Source Blocker Instead.]]></title>
+        <id>https://dev.to/codepurse/i-almost-lost-years-to-this-so-i-built-an-open-source-blocker-instead-3nke</id>
+        <link href="https://dev.to/codepurse/i-almost-lost-years-to-this-so-i-built-an-open-source-blocker-instead-3nke"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I'm Building Free AI on a VM That Barely Qualifies as a Computer]]></title>
-        <id>https://dev.to/bradleymatera/im-building-free-ai-on-a-vm-that-barely-qualifies-as-a-computer-342</id>
-        <link href="https://dev.to/bradleymatera/im-building-free-ai-on-a-vm-that-barely-qualifies-as-a-computer-342"/>
+        <title type="html"><![CDATA[Automate & Scale: Zyctra AI for Modern Business]]></title>
+        <id>https://dev.to/zyctraai/automate-scale-zyctra-ai-for-modern-business-4m0</id>
+        <link href="https://dev.to/zyctraai/automate-scale-zyctra-ai-for-modern-business-4m0"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built 59 free browser-based dev tools in vanilla JS — here's what I learned]]></title>
-        <id>https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-1fmb</id>
-        <link href="https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-1fmb"/>
+        <title type="html"><![CDATA[Choosing Your Java Collections Like a Jedi]]></title>
+        <id>https://dev.to/timevolt/choosing-your-java-collections-like-a-jedi-ahi</id>
+        <link href="https://dev.to/timevolt/choosing-your-java-collections-like-a-jedi-ahi"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[html-pdf-node in 2026: A Puppeteer Wrapper Left Behind]]></title>
-        <id>https://dev.to/ironsoftware/html-pdf-node-in-2026-a-puppeteer-wrapper-left-behind-1kp6</id>
-        <link href="https://dev.to/ironsoftware/html-pdf-node-in-2026-a-puppeteer-wrapper-left-behind-1kp6"/>
+        <title type="html"><![CDATA[My Rasa Malaysia: The Soul of Malaysian Comfort Food & Commuter Food Guide]]></title>
+        <id>https://dev.to/kas_6156c2c3d9f90/my-rasa-malaysia-the-soul-of-malaysian-comfort-food-commuter-food-guide-45ok</id>
+        <link href="https://dev.to/kas_6156c2c3d9f90/my-rasa-malaysia-the-soul-of-malaysian-comfort-food-commuter-food-guide-45ok"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Catch Zombie Fetches & Missing AbortControllers in React 19 with fetch-doctor]]></title>
-        <id>https://dev.to/mmy-lana/catch-zombie-fetches-missing-abortcontrollers-in-react-19-with-fetch-doctor-2fhg</id>
-        <link href="https://dev.to/mmy-lana/catch-zombie-fetches-missing-abortcontrollers-in-react-19-with-fetch-doctor-2fhg"/>
+        <title type="html"><![CDATA[React useInterval Hook: setInterval Without Stale Closures (2026)]]></title>
+        <id>https://dev.to/childrentime/react-useinterval-hook-setinterval-without-stale-closures-2026-5bla</id>
+        <link href="https://dev.to/childrentime/react-useinterval-hook-setinterval-without-stale-closures-2026-5bla"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Securing AI Response Rendering in Flask — Replacing innerHTML After a Codex Review]]></title>
-        <id>https://dev.to/tosane932/securing-ai-response-rendering-in-flask-replacing-innerhtml-after-a-codex-review-44m4</id>
-        <link href="https://dev.to/tosane932/securing-ai-response-rendering-in-flask-replacing-innerhtml-after-a-codex-review-44m4"/>
+        <title type="html"><![CDATA[Does React Break HTML Rules? Let's Find Out]]></title>
+        <id>https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8</id>
+        <link href="https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond Linear Pipelines: Building DAG-Based AI Workflows in Node.js and TypeScript]]></title>
-        <id>https://dev.to/programmingcentral/beyond-linear-pipelines-building-dag-based-ai-workflows-in-nodejs-and-typescript-pdm</id>
-        <link href="https://dev.to/programmingcentral/beyond-linear-pipelines-building-dag-based-ai-workflows-in-nodejs-and-typescript-pdm"/>
+        <title type="html"><![CDATA[Then My Project Needed This]]></title>
+        <id>https://dev.to/neel-vekariya/then-my-project-needed-this-3fep</id>
+        <link href="https://dev.to/neel-vekariya/then-my-project-needed-this-3fep"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your MCP server didn't break. The protocol did.]]></title>
-        <id>https://dev.to/bazzz/your-mcp-server-didnt-break-the-protocol-did-3abp</id>
-        <link href="https://dev.to/bazzz/your-mcp-server-didnt-break-the-protocol-did-3abp"/>
+        <title type="html"><![CDATA[HTML5 Game Development: Choosing the Right Engine in 2026]]></title>
+        <id>https://dev.to/yoo_tao_31d3d572d2d49bfeb/html5-game-development-choosing-the-right-engine-in-2026-a7i</id>
+        <link href="https://dev.to/yoo_tao_31d3d572d2d49bfeb/html5-game-development-choosing-the-right-engine-in-2026-a7i"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Profitable Chrome Extension in 2025]]></title>
-        <id>https://dev.to/qingluan/how-to-build-a-profitable-chrome-extension-in-2025-1oj7</id>
-        <link href="https://dev.to/qingluan/how-to-build-a-profitable-chrome-extension-in-2025-1oj7"/>
+        <title type="html"><![CDATA[Why Rising golf star, 18, dies after brain haemorrhage Matters for Sports Data Engineers]]></title>
+        <id>https://dev.to/muhammad_binnazeer_6a810/why-rising-golf-star-18-dies-after-brain-haemorrhage-matters-for-sports-data-engineers-5fd</id>
+        <link href="https://dev.to/muhammad_binnazeer_6a810/why-rising-golf-star-18-dies-after-brain-haemorrhage-matters-for-sports-data-engineers-5fd"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pdfmake in 2026: The SSRF Fix That Isn't On by Default]]></title>
-        <id>https://dev.to/ironsoftware/pdfmake-in-2026-the-ssrf-fix-that-isnt-on-by-default-16kn</id>
-        <link href="https://dev.to/ironsoftware/pdfmake-in-2026-the-ssrf-fix-that-isnt-on-by-default-16kn"/>
+        <title type="html"><![CDATA[Building a Cricket Data Pipeline: Lessons from Only wins can stop Englands curfew hokey-cokey]]></title>
+        <id>https://dev.to/muhammad_binnazeer_6a810/building-a-cricket-data-pipeline-lessons-from-only-wins-can-stop-englands-curfew-hokey-cokey-1c11</id>
+        <link href="https://dev.to/muhammad_binnazeer_6a810/building-a-cricket-data-pipeline-lessons-from-only-wins-can-stop-englands-curfew-hokey-cokey-1c11"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Semantic search for 796 pages, with no server, no vector database, and no model at query time]]></title>
-        <id>https://dev.to/artificial_wasteland/semantic-search-for-796-pages-with-no-server-no-vector-database-and-no-model-at-query-time-93m</id>
-        <link href="https://dev.to/artificial_wasteland/semantic-search-for-796-pages-with-no-server-no-vector-database-and-no-model-at-query-time-93m"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kog: tối ưu GPU thường để tăng tốc suy luận LLM, không cần chip riêng]]></title>
-        <id>https://dev.to/bean_bean/kog-toi-uu-gpu-thuong-de-tang-toc-suy-luan-llm-khong-can-chip-rieng-1fj3</id>
-        <link href="https://dev.to/bean_bean/kog-toi-uu-gpu-thuong-de-tang-toc-suy-luan-llm-khong-can-chip-rieng-1fj3"/>
+        <title type="html"><![CDATA[How to Safely Buy Old GitHub Accounts: A Step-by Guide 26]]></title>
+        <id>https://dev.to/lonniepinedatrawd/how-to-safely-buy-old-github-accounts-a-step-by-guide-26-343e</id>
+        <link href="https://dev.to/lonniepinedatrawd/how-to-safely-buy-old-github-accounts-a-step-by-guide-26-343e"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
@@ -364,9 +364,9 @@ https://github.com/evoluteur/evolutility-server-node
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Safely Buy Old GitHub Accounts: A Step-by Guide 26]]></title>
-        <id>https://dev.to/lonniepinedatrawd/how-to-safely-buy-old-github-accounts-a-step-by-guide-26-343e</id>
-        <link href="https://dev.to/lonniepinedatrawd/how-to-safely-buy-old-github-accounts-a-step-by-guide-26-343e"/>
+        <title type="html"><![CDATA[Kog: tối ưu GPU thường để tăng tốc suy luận LLM, không cần chip riêng]]></title>
+        <id>https://dev.to/bean_bean/kog-toi-uu-gpu-thuong-de-tang-toc-suy-luan-llm-khong-can-chip-rieng-1fj3</id>
+        <link href="https://dev.to/bean_bean/kog-toi-uu-gpu-thuong-de-tang-toc-suy-luan-llm-khong-can-chip-rieng-1fj3"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
