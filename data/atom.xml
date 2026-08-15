@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-15T15:02:34.038Z</updated>
+    <updated>2026-08-15T22:01:20.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,51 +15,142 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Star Wars: Ahsoka season 2 and Starfighter get teased at D23]]></title>
-        <id>https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23</id>
-        <link href="https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23"/>
+        <title type="html"><![CDATA[Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments]]></title>
+        <id>https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review</id>
+        <link href="https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woman claims her stepfather used Grok to transform childhood photo into explicit imagery]]></title>
+        <id>https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/</id>
+        <link href="https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calorie tracker for my Garmin watch]]></title>
+        <id>https://ashu1461.com/posts/a-calorie-tracker-on-my-garmin-watch/</id>
+        <link href="https://ashu1461.com/posts/a-calorie-tracker-on-my-garmin-watch/"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Signal Processing Pioneer Bede Liu Dies at 91]]></title>
+        <id>https://spectrum.ieee.org/digital-signal-processing</id>
+        <link href="https://spectrum.ieee.org/digital-signal-processing"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI agents need verified identity]]></title>
+        <id>https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/</id>
+        <link href="https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: The Escape Artist]]></title>
+        <id>https://www.astralcodexten.com/p/your-book-review-the-escape-artist</id>
+        <link href="https://www.astralcodexten.com/p/your-book-review-the-escape-artist"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Confuse Some SSH Bots]]></title>
+        <id>https://nochan.net/b/Internet-Crap/20260108-Confuse-Some-SSH-Bots/</id>
+        <link href="https://nochan.net/b/Internet-Crap/20260108-Confuse-Some-SSH-Bots/"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oMLX is Quietly Becoming the Best Way to Run Local AI Agents On a Mac]]></title>
+        <id>https://pub.towardsai.net/omlx-is-quietly-becoming-the-best-way-to-run-local-ai-agents-on-a-mac-3394c4ad0969?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/omlx-is-quietly-becoming-the-best-way-to-run-local-ai-agents-on-a-mac-3394c4ad0969?source=rss----98111c9905da---4"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KV Cache and PagedAttention: How to Get More Throughput From the GPU You Already Have]]></title>
+        <id>https://pub.towardsai.net/kv-cache-and-pagedattention-how-to-get-more-throughput-from-the-gpu-you-already-have-a29b74acf10e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/kv-cache-and-pagedattention-how-to-get-more-throughput-from-the-gpu-you-already-have-a29b74acf10e?source=rss----98111c9905da---4"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implement Speculative Decoding with a Draft Model in Python]]></title>
+        <id>https://pub.towardsai.net/implement-speculative-decoding-with-a-draft-model-in-python-bd2e7e6b483b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/implement-speculative-decoding-with-a-draft-model-in-python-bd2e7e6b483b?source=rss----98111c9905da---4"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Built the Playwright MCP Server. Then Told You to Maybe Not Use It.]]></title>
+        <id>https://pub.towardsai.net/microsoft-built-the-playwright-mcp-server-then-told-you-to-maybe-not-use-it-bd2b4f28c058?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/microsoft-built-the-playwright-mcp-server-then-told-you-to-maybe-not-use-it-bd2b4f28c058?source=rss----98111c9905da---4"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWT Authentication in Express That You Can Actually Revoke]]></title>
+        <id>https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i</id>
+        <link href="https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the ZIM Master Prompt Solves AI Code Hallucinations for 2D Canvas]]></title>
+        <id>https://dev.to/zimlearn/how-the-zim-master-prompt-solves-ai-code-hallucinations-for-2d-canvas-14lb</id>
+        <link href="https://dev.to/zimlearn/how-the-zim-master-prompt-solves-ai-code-hallucinations-for-2d-canvas-14lb"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🐶 Feed the Pups! — HTML5 Canvas Arcade Game]]></title>
+        <id>https://dev.to/saira_bibi_40474c69e974a2/feed-the-pups-an-addictive-html5-canvas-arcade-game-464n</id>
+        <link href="https://dev.to/saira_bibi_40474c69e974a2/feed-the-pups-an-addictive-html5-canvas-arcade-game-464n"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a URL-to-PDF API with Playwright: the edge cases, and how to make the PDF fillable]]></title>
+        <id>https://dev.to/dxsd777/building-a-url-to-pdf-api-with-playwright-the-edge-cases-and-how-to-make-the-pdf-fillable-plk</id>
+        <link href="https://dev.to/dxsd777/building-a-url-to-pdf-api-with-playwright-the-edge-cases-and-how-to-make-the-pdf-fillable-plk"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwright + Cucumber Code Review Checklist: A Senior QA Guide to Reliable CI Test Suites]]></title>
+        <id>https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113</id>
+        <link href="https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Framework Comparison Report: ZIM vs. PixiJS]]></title>
+        <id>https://dev.to/zimlearn/framework-comparison-report-zim-vs-pixijs-a20</id>
+        <link href="https://dev.to/zimlearn/framework-comparison-report-zim-vs-pixijs-a20"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Real-Time Collaborative Canvas Apps with Yjs, WebSockets, and TypeScript]]></title>
+        <id>https://dev.to/programmingcentral/building-real-time-collaborative-canvas-apps-with-yjs-websockets-and-typescript-16gf</id>
+        <link href="https://dev.to/programmingcentral/building-real-time-collaborative-canvas-apps-with-yjs-websockets-and-typescript-16gf"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals]]></title>
+        <id>https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview</id>
+        <link href="https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver]]></title>
-        <id>https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast</id>
-        <link href="https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xteink’s tiny e-readers are getting access to free books through Libby]]></title>
-        <id>https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader</id>
-        <link href="https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A RAMageddon guide to back-to-school laptop shopping]]></title>
-        <id>https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school</id>
-        <link href="https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lamborghini’s flagship Revuelto levels up with SV trim]]></title>
-        <id>https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance</id>
-        <link href="https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The X-Files creator Chris Carter wanted to make a more horrific movie]]></title>
-        <id>https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu</id>
-        <link href="https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google&#8217;s best new camera feature is only for the Pixel 11 series]]></title>
-        <id>https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones</id>
-        <link href="https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones"/>
+        <title type="html"><![CDATA[The surprise must-see movie of the summer]]></title>
+        <id>https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer</id>
+        <link href="https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
@@ -71,9 +162,51 @@
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The surprise must-see movie of the summer]]></title>
-        <id>https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer</id>
-        <link href="https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer"/>
+        <title type="html"><![CDATA[Google&#8217;s best new camera feature is only for the Pixel 11 series]]></title>
+        <id>https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones</id>
+        <link href="https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones"/>
+        <updated>2026-08-14T16:00:00.000Z</updated>
+        <published>2026-08-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The X-Files creator Chris Carter wanted to make a more horrific movie]]></title>
+        <id>https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu</id>
+        <link href="https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu"/>
+        <updated>2026-08-14T16:00:00.000Z</updated>
+        <published>2026-08-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lamborghini’s flagship Revuelto levels up with SV trim]]></title>
+        <id>https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance</id>
+        <link href="https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance"/>
+        <updated>2026-08-14T16:00:00.000Z</updated>
+        <published>2026-08-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A RAMageddon guide to back-to-school laptop shopping]]></title>
+        <id>https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school</id>
+        <link href="https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school"/>
+        <updated>2026-08-14T16:00:00.000Z</updated>
+        <published>2026-08-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xteink’s tiny e-readers are getting access to free books through Libby]]></title>
+        <id>https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader</id>
+        <link href="https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader"/>
+        <updated>2026-08-14T16:00:00.000Z</updated>
+        <published>2026-08-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver]]></title>
+        <id>https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast</id>
+        <link href="https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast"/>
+        <updated>2026-08-14T16:00:00.000Z</updated>
+        <published>2026-08-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Wars: Ahsoka season 2 and Starfighter get teased at D23]]></title>
+        <id>https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23</id>
+        <link href="https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
@@ -134,13 +267,6 @@
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unforgetful is a new reminders app for people who can’t stop hitting snooze]]></title>
-        <id>https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/</id>
-        <link href="https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What we know about the alleged Iranian hacks on US water utilities]]></title>
         <id>https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/</id>
         <link href="https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/"/>
@@ -148,149 +274,9 @@
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Patents AI Glasses to Use Facial Recognition to Identify People]]></title>
-        <id>https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/</id>
-        <link href="https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2,400-year-old grave of possible ancient pro wrestler discovered in Turkey]]></title>
-        <id>https://www.livescience.com/archaeology/2-400-year-old-grave-of-possible-ancient-pro-wrestler-discovered-in-turkey</id>
-        <link href="https://www.livescience.com/archaeology/2-400-year-old-grave-of-possible-ancient-pro-wrestler-discovered-in-turkey"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Apache Lesson for AI]]></title>
-        <id>https://asimovaddendum.substack.com/p/why-open-source-matters-for-ai</id>
-        <link href="https://asimovaddendum.substack.com/p/why-open-source-matters-for-ai"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Key Knowledge Management Practices]]></title>
-        <id>https://stangarfield.medium.com/the-km-mentor-part-4-five-key-knowledge-management-practices-14cb5deff2a0</id>
-        <link href="https://stangarfield.medium.com/the-km-mentor-part-4-five-key-knowledge-management-practices-14cb5deff2a0"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa activists oppose Japanese data center, seek audience with city council]]></title>
-        <id>https://www.abc15.com/news/region-southeast-valley/mesa/mesa-activists-oppose-japanese-data-center-seek-audience-with-city-council</id>
-        <link href="https://www.abc15.com/news/region-southeast-valley/mesa/mesa-activists-oppose-japanese-data-center-seek-audience-with-city-council"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Supervice – process supervisor for agentic processes. zero dependencies]]></title>
-        <id>https://github.com/rodmena-limited/supervice</id>
-        <link href="https://github.com/rodmena-limited/supervice"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flock Say Their Surveillance Tech Would've Solved the Nancy Guthrie Case]]></title>
-        <id>https://www.vanityfair.com/story/flock-founders-interview-privacy-stalking</id>
-        <link href="https://www.vanityfair.com/story/flock-founders-interview-privacy-stalking"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Take a Look at Lower Java Tail Latencies with ZGC]]></title>
-        <id>https://www.morling.dev/blog/lower-java-tail-latencies-with-zgc/</id>
-        <link href="https://www.morling.dev/blog/lower-java-tail-latencies-with-zgc/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bees make decisions better and faster than we do]]></title>
-        <id>https://lighthouse.mq.edu.au/for-media/bees-make-decisions-better-and-faster-than-we-do-for-the-things-that-matter-to-them</id>
-        <link href="https://lighthouse.mq.edu.au/for-media/bees-make-decisions-better-and-faster-than-we-do-for-the-things-that-matter-to-them"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2nd brain scrolls corners of X for you so you can focus on other things]]></title>
-        <id>https://trydewey.ai/?v=2</id>
-        <link href="https://trydewey.ai/?v=2"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The case for overhauling American science]]></title>
-        <id>https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science</id>
-        <link href="https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen 3.8 27B 4-bit designs an animated dolphin riding a bicycle SVG]]></title>
-        <id>https://twitter.com/1littlecoder/status/2088399639628431831</id>
-        <link href="https://twitter.com/1littlecoder/status/2088399639628431831"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post-mortem after Namecheap/RadiusDC service outage]]></title>
-        <id>https://www.namecheap.com/blog/namecheap-service-outage-update/</id>
-        <link href="https://www.namecheap.com/blog/namecheap-service-outage-update/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flownie – Open and Visual Data Workflow Platform with AI Agent Assistance]]></title>
-        <id>https://flownie.com/</id>
-        <link href="https://flownie.com/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon reinstates binding arbitration, bars class-action lawsuits]]></title>
-        <id>https://www.reuters.com/legal/government/amazon-reinstates-binding-arbitration-bars-class-action-lawsuits-2026-08-14/</id>
-        <link href="https://www.reuters.com/legal/government/amazon-reinstates-binding-arbitration-bars-class-action-lawsuits-2026-08-14/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baking a Model: A Metaphor for LLM Training]]></title>
-        <id>https://newsletter.kentbeck.com/p/baking-a-model</id>
-        <link href="https://newsletter.kentbeck.com/p/baking-a-model"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bundesliga's 50+1 ownership rule permissible under antitrust laws]]></title>
-        <id>https://www.reuters.com/sports/soccer/bundesligas-501-ownership-rule-permissible-under-antitrust-laws-bundeskartellamt-2026-08-12/</id>
-        <link href="https://www.reuters.com/sports/soccer/bundesligas-501-ownership-rule-permissible-under-antitrust-laws-bundeskartellamt-2026-08-12/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What eating like RFK Jr. does to your colon, according to a gastro doctor]]></title>
-        <id>https://www.msn.com/en-us/health/diseases-and-conditions/here-s-what-eating-like-rfk-jr-does-to-your-colon-according-to-a-gastro-doctor/ss-AA29G8H6</id>
-        <link href="https://www.msn.com/en-us/health/diseases-and-conditions/here-s-what-eating-like-rfk-jr-does-to-your-colon-according-to-a-gastro-doctor/ss-AA29G8H6"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mycorrhizal Infrastructure Map]]></title>
-        <id>https://a-hidden-infrastructure.spun.earth/map</id>
-        <link href="https://a-hidden-infrastructure.spun.earth/map"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tankers Are Going Dark for Longer to Get Oil Out of Middle East]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-08-14/tankers-are-going-dark-for-longer-to-get-oil-out-of-middle-east</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-08-14/tankers-are-going-dark-for-longer-to-get-oil-out-of-middle-east"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLM-5.3: How Chinese labs keep stride with the frontier]]></title>
-        <id>https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride</id>
-        <link href="https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride"/>
+        <title type="html"><![CDATA[Unforgetful is a new reminders app for people who can’t stop hitting snooze]]></title>
+        <id>https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/</id>
+        <link href="https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
@@ -302,65 +288,79 @@
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qwen3.8–27B on Two Mid-Range GPUs, Measured on Release Day]]></title>
-        <id>https://pub.towardsai.net/qwen3-8-27b-on-two-mid-range-gpus-measured-on-release-day-e0b8e62d4aa0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/qwen3-8-27b-on-two-mid-range-gpus-measured-on-release-day-e0b8e62d4aa0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[GLM-5.3: How Chinese labs keep stride with the frontier]]></title>
+        <id>https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride</id>
+        <link href="https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building an AI Race Engineer (Part 1): From Race Replay to Crew Chief]]></title>
-        <id>https://pub.towardsai.net/building-an-ai-race-engineer-part-1-from-race-replay-to-crew-chief-6c746272ba04?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/building-an-ai-race-engineer-part-1-from-race-replay-to-crew-chief-6c746272ba04?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Tankers Are Going Dark for Longer to Get Oil Out of Middle East]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-08-14/tankers-are-going-dark-for-longer-to-get-oil-out-of-middle-east</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-08-14/tankers-are-going-dark-for-longer-to-get-oil-out-of-middle-east"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Attention Is Structured Forgetting]]></title>
-        <id>https://pub.towardsai.net/attention-is-structured-forgetting-d9ff0fa3e9c0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/attention-is-structured-forgetting-d9ff0fa3e9c0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Mycorrhizal Infrastructure Map]]></title>
+        <id>https://a-hidden-infrastructure.spun.earth/map</id>
+        <link href="https://a-hidden-infrastructure.spun.earth/map"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azure Storage for AI Inference: Prompt Caching, KV Offload, and Faster Model Loading]]></title>
-        <id>https://pub.towardsai.net/azure-storage-for-ai-inference-prompt-caching-kv-offload-and-faster-model-loading-dbb7350ac414?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/azure-storage-for-ai-inference-prompt-caching-kv-offload-and-faster-model-loading-dbb7350ac414?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[What eating like RFK Jr. does to your colon, according to a gastro doctor]]></title>
+        <id>https://www.msn.com/en-us/health/diseases-and-conditions/here-s-what-eating-like-rfk-jr-does-to-your-colon-according-to-a-gastro-doctor/ss-AA29G8H6</id>
+        <link href="https://www.msn.com/en-us/health/diseases-and-conditions/here-s-what-eating-like-rfk-jr-does-to-your-colon-according-to-a-gastro-doctor/ss-AA29G8H6"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grok 4.6 Got Smarter, A Lot Smarter, But Do Not Believe The Hype Yet.]]></title>
-        <id>https://pub.towardsai.net/grok-4-6-got-smarter-a-lot-smarter-but-do-not-believe-the-hype-yet-719612392688?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/grok-4-6-got-smarter-a-lot-smarter-but-do-not-believe-the-hype-yet-719612392688?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Bundesliga's 50+1 ownership rule permissible under antitrust laws]]></title>
+        <id>https://www.reuters.com/sports/soccer/bundesligas-501-ownership-rule-permissible-under-antitrust-laws-bundeskartellamt-2026-08-12/</id>
+        <link href="https://www.reuters.com/sports/soccer/bundesligas-501-ownership-rule-permissible-under-antitrust-laws-bundeskartellamt-2026-08-12/"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code MCP Server Configuration: Add Servers, Pick a Stack, Stay Small]]></title>
-        <id>https://pub.towardsai.net/claude-code-mcp-server-configuration-add-servers-pick-a-stack-stay-small-41300081dbc7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-code-mcp-server-configuration-add-servers-pick-a-stack-stay-small-41300081dbc7?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Baking a Model: A Metaphor for LLM Training]]></title>
+        <id>https://newsletter.kentbeck.com/p/baking-a-model</id>
+        <link href="https://newsletter.kentbeck.com/p/baking-a-model"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bridging the Probabilistic Deterministic Divide: Architecting Asynchronous Multi-Threaded Agentic…]]></title>
-        <id>https://pub.towardsai.net/bridging-the-probabilistic-deterministic-divide-architecting-asynchronous-multi-threaded-agentic-77abdd5cede8?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/bridging-the-probabilistic-deterministic-divide-architecting-asynchronous-multi-threaded-agentic-77abdd5cede8?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Amazon reinstates binding arbitration, bars class-action lawsuits]]></title>
+        <id>https://www.reuters.com/legal/government/amazon-reinstates-binding-arbitration-bars-class-action-lawsuits-2026-08-14/</id>
+        <link href="https://www.reuters.com/legal/government/amazon-reinstates-binding-arbitration-bars-class-action-lawsuits-2026-08-14/"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to bring your software delivery workflow into GitHub with agent apps]]></title>
-        <id>https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/</id>
-        <link href="https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/"/>
+        <title type="html"><![CDATA[Flownie – Open and Visual Data Workflow Platform with AI Agent Assistance]]></title>
+        <id>https://flownie.com/</id>
+        <link href="https://flownie.com/"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iamkun/dayjs]]></title>
-        <id>https://github.com/iamkun/dayjs</id>
-        <link href="https://github.com/iamkun/dayjs"/>
+        <title type="html"><![CDATA[Post-mortem after Namecheap/RadiusDC service outage]]></title>
+        <id>https://www.namecheap.com/blog/namecheap-service-outage-update/</id>
+        <link href="https://www.namecheap.com/blog/namecheap-service-outage-update/"/>
+        <updated>2026-08-14T16:00:00.000Z</updated>
+        <published>2026-08-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen 3.8 27B 4-bit designs an animated dolphin riding a bicycle SVG]]></title>
+        <id>https://twitter.com/1littlecoder/status/2088399639628431831</id>
+        <link href="https://twitter.com/1littlecoder/status/2088399639628431831"/>
+        <updated>2026-08-14T16:00:00.000Z</updated>
+        <published>2026-08-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The case for overhauling American science]]></title>
+        <id>https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science</id>
+        <link href="https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-15 23:02:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-16 06:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
@@ -12,4 +12,3 @@
 - [2026-07-29-The-Bull-And-Bear-Case-For-Digital-Design-In-The-Age-Of-AI](https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/) 
 - [2026-07-28-Thinking-Outside-The-Box:-Digital-Design-In-The-AI-Era](https://smashingmagazine.com/2026/07/digital-design-ai-era/) 
 - [2026-07-21-Weaponizing-And-Defending-The-React-Flight-Protocol:-Deserialization-Sinks-In-RSCs](https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/) 
-- [2026-07-17-When-It-Makes-Sense-To-“Block”-The-Main-Thread](https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/) 
