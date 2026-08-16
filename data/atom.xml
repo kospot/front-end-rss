@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-16T00:01:06.589Z</updated>
+    <updated>2026-08-16T02:01:25.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,65 +29,51 @@
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I'm getting into house cleaning. What should I know?]]></title>
-        <id>https://refinedservicesgroup.com</id>
-        <link href="https://refinedservicesgroup.com"/>
+        <title type="html"><![CDATA[Omarchy Quattro by DHH Released [video]]]></title>
+        <id>https://www.youtube.com/watch?v=F7fe9pa8OeE</id>
+        <link href="https://www.youtube.com/watch?v=F7fe9pa8OeE"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rewriting in Rust]]></title>
-        <id>https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/</id>
-        <link href="https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/"/>
+        <title type="html"><![CDATA[Destroying My Homelab with Kubernetes – Linux Society UNSW 2026 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=U-xqxMQD2QE</id>
+        <link href="https://www.youtube.com/watch?v=U-xqxMQD2QE"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Techflare – Chrome extension to see if a website uses Cloudflare]]></title>
-        <id>https://chromewebstore.google.com/detail/techflare/lbbkmioghlgfnbkciibfglcopkncdfpg</id>
-        <link href="https://chromewebstore.google.com/detail/techflare/lbbkmioghlgfnbkciibfglcopkncdfpg"/>
+        <title type="html"><![CDATA[Guiding Ships with Moire Patterns]]></title>
+        <id>https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/</id>
+        <link href="https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alibaba AI Models Hit 3B Downloads, Passing Meta, Google]]></title>
-        <id>https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html</id>
-        <link href="https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html"/>
+        <title type="html"><![CDATA[TrueStar – AI moderated expert interviews and multi-agent deep research]]></title>
+        <id>https://truestar.tech</id>
+        <link href="https://truestar.tech"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Artin-Schreier Theorem [pdf]]]></title>
-        <id>https://kconrad.math.uconn.edu/blurbs/galoistheory/artinschreier.pdf</id>
-        <link href="https://kconrad.math.uconn.edu/blurbs/galoistheory/artinschreier.pdf"/>
+        <title type="html"><![CDATA[Privacy is an underrated advantage in Slack apps]]></title>
+        <id>https://news.ycombinator.com/item?id=49315895</id>
+        <link href="https://news.ycombinator.com/item?id=49315895"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Confuse Some SSH Bots]]></title>
-        <id>https://nochan.net/b/Internet-Crap/20260108-Confuse-Some-SSH-Bots/</id>
-        <link href="https://nochan.net/b/Internet-Crap/20260108-Confuse-Some-SSH-Bots/"/>
+        <title type="html"><![CDATA[Dots3-Note Preview]]></title>
+        <id>https://huggingface.co/dots-studio/dots3-note-prev</id>
+        <link href="https://huggingface.co/dots-studio/dots3-note-prev"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Book Review: The Escape Artist]]></title>
-        <id>https://www.astralcodexten.com/p/your-book-review-the-escape-artist</id>
-        <link href="https://www.astralcodexten.com/p/your-book-review-the-escape-artist"/>
-        <updated>2026-08-15T16:00:00.000Z</updated>
-        <published>2026-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI agents need verified identity]]></title>
-        <id>https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/</id>
-        <link href="https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/"/>
-        <updated>2026-08-15T16:00:00.000Z</updated>
-        <published>2026-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Signal Processing Pioneer Bede Liu Dies at 91]]></title>
-        <id>https://spectrum.ieee.org/digital-signal-processing</id>
-        <link href="https://spectrum.ieee.org/digital-signal-processing"/>
+        <title type="html"><![CDATA[Show HN: I built a native app for coding agents with Rust and GPUI]]></title>
+        <id>https://waku.sh</id>
+        <link href="https://waku.sh"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
@@ -99,23 +85,72 @@
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Built the Playwright MCP Server. Then Told You to Maybe Not Use It.]]></title>
-        <id>https://pub.towardsai.net/microsoft-built-the-playwright-mcp-server-then-told-you-to-maybe-not-use-it-bd2b4f28c058?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/microsoft-built-the-playwright-mcp-server-then-told-you-to-maybe-not-use-it-bd2b4f28c058?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Digital Signal Processing Pioneer Bede Liu Dies at 91]]></title>
+        <id>https://spectrum.ieee.org/digital-signal-processing</id>
+        <link href="https://spectrum.ieee.org/digital-signal-processing"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Implement Speculative Decoding with a Draft Model in Python]]></title>
-        <id>https://pub.towardsai.net/implement-speculative-decoding-with-a-draft-model-in-python-bd2e7e6b483b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/implement-speculative-decoding-with-a-draft-model-in-python-bd2e7e6b483b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why AI agents need verified identity]]></title>
+        <id>https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/</id>
+        <link href="https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KV Cache and PagedAttention: How to Get More Throughput From the GPU You Already Have]]></title>
-        <id>https://pub.towardsai.net/kv-cache-and-pagedattention-how-to-get-more-throughput-from-the-gpu-you-already-have-a29b74acf10e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/kv-cache-and-pagedattention-how-to-get-more-throughput-from-the-gpu-you-already-have-a29b74acf10e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Book Review: The Escape Artist]]></title>
+        <id>https://www.astralcodexten.com/p/your-book-review-the-escape-artist</id>
+        <link href="https://www.astralcodexten.com/p/your-book-review-the-escape-artist"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Confuse Some SSH Bots]]></title>
+        <id>https://nochan.net/b/Internet-Crap/20260108-Confuse-Some-SSH-Bots/</id>
+        <link href="https://nochan.net/b/Internet-Crap/20260108-Confuse-Some-SSH-Bots/"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artin-Schreier Theorem [pdf]]]></title>
+        <id>https://kconrad.math.uconn.edu/blurbs/galoistheory/artinschreier.pdf</id>
+        <link href="https://kconrad.math.uconn.edu/blurbs/galoistheory/artinschreier.pdf"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alibaba AI Models Hit 3B Downloads, Passing Meta, Google]]></title>
+        <id>https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html</id>
+        <link href="https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Techflare – Chrome extension to see if a website uses Cloudflare]]></title>
+        <id>https://chromewebstore.google.com/detail/techflare/lbbkmioghlgfnbkciibfglcopkncdfpg</id>
+        <link href="https://chromewebstore.google.com/detail/techflare/lbbkmioghlgfnbkciibfglcopkncdfpg"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewriting in Rust]]></title>
+        <id>https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/</id>
+        <link href="https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm getting into house cleaning. What should I know?]]></title>
+        <id>https://refinedservicesgroup.com</id>
+        <link href="https://refinedservicesgroup.com"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intelligence Is Getting Cheap. Knowing When It’s Wrong Isn’t.]]></title>
+        <id>https://pub.towardsai.net/intelligence-is-getting-cheap-knowing-when-its-wrong-isn-t-41bfda1ddc41?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/intelligence-is-getting-cheap-knowing-when-its-wrong-isn-t-41bfda1ddc41?source=rss----98111c9905da---4"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
@@ -127,72 +162,58 @@
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dasturlash tillari: qanday tanlash va afzalliklari]]></title>
-        <id>https://dev.to/usakh/dasturlash-tillari-qanday-tanlash-va-afzalliklari-155h</id>
-        <link href="https://dev.to/usakh/dasturlash-tillari-qanday-tanlash-va-afzalliklari-155h"/>
+        <title type="html"><![CDATA[KV Cache and PagedAttention: How to Get More Throughput From the GPU You Already Have]]></title>
+        <id>https://pub.towardsai.net/kv-cache-and-pagedattention-how-to-get-more-throughput-from-the-gpu-you-already-have-a29b74acf10e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/kv-cache-and-pagedattention-how-to-get-more-throughput-from-the-gpu-you-already-have-a29b74acf10e?source=rss----98111c9905da---4"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js Image Optimization in 2026: `next/image` v4, AVIF by Default, and the Config Changes Teams Miss]]></title>
-        <id>https://dev.to/jsmanifest/nextjs-image-optimization-in-2026-nextimage-v4-avif-by-default-and-the-config-changes-teams-jg8</id>
-        <link href="https://dev.to/jsmanifest/nextjs-image-optimization-in-2026-nextimage-v4-avif-by-default-and-the-config-changes-teams-jg8"/>
+        <title type="html"><![CDATA[Implement Speculative Decoding with a Draft Model in Python]]></title>
+        <id>https://pub.towardsai.net/implement-speculative-decoding-with-a-draft-model-in-python-bd2e7e6b483b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/implement-speculative-decoding-with-a-draft-model-in-python-bd2e7e6b483b?source=rss----98111c9905da---4"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tự Host LLM Bằng Open WebUI + Docker: Rẻ Hơn ChatGPT Plus?]]></title>
-        <id>https://dev.to/bean_bean/tu-host-llm-bang-open-webui-docker-re-hon-chatgpt-plus-79f</id>
-        <link href="https://dev.to/bean_bean/tu-host-llm-bang-open-webui-docker-re-hon-chatgpt-plus-79f"/>
+        <title type="html"><![CDATA[Microsoft Built the Playwright MCP Server. Then Told You to Maybe Not Use It.]]></title>
+        <id>https://pub.towardsai.net/microsoft-built-the-playwright-mcp-server-then-told-you-to-maybe-not-use-it-bd2b4f28c058?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/microsoft-built-the-playwright-mcp-server-then-told-you-to-maybe-not-use-it-bd2b4f28c058?source=rss----98111c9905da---4"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Markdown Heading Linter on the AST, Not With Regex]]></title>
-        <id>https://dev.to/mdfold/build-a-markdown-heading-linter-on-the-ast-not-with-regex-2o8f</id>
-        <link href="https://dev.to/mdfold/build-a-markdown-heading-linter-on-the-ast-not-with-regex-2o8f"/>
+        <title type="html"><![CDATA[How to create and validate JSON (and fix unexpected token errors)]]></title>
+        <id>https://dev.to/faisal3389/how-to-create-and-validate-json-and-fix-unexpected-token-errors-n74</id>
+        <link href="https://dev.to/faisal3389/how-to-create-and-validate-json-and-fix-unexpected-token-errors-n74"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Retry budgets by language: Python, Go, and JavaScript]]></title>
-        <id>https://dev.to/loopandretry/retry-budgets-by-language-python-go-and-javascript-3hcb</id>
-        <link href="https://dev.to/loopandretry/retry-budgets-by-language-python-go-and-javascript-3hcb"/>
+        <title type="html"><![CDATA[I Built a Free Setlist Generator for Musicians (Because SetlistPro Charges $10/Month)]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-setlist-generator-for-musicians-because-setlistpro-charges-10month-11p9</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-setlist-generator-for-musicians-because-setlistpro-charges-10month-11p9"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Real-Time Collaborative Canvas Apps with Yjs, WebSockets, and TypeScript]]></title>
-        <id>https://dev.to/programmingcentral/building-real-time-collaborative-canvas-apps-with-yjs-websockets-and-typescript-16gf</id>
-        <link href="https://dev.to/programmingcentral/building-real-time-collaborative-canvas-apps-with-yjs-websockets-and-typescript-16gf"/>
+        <title type="html"><![CDATA[Why I Built a 100% Client-Side Web Toolkit (And How WebAssembly Makes It Fast)]]></title>
+        <id>https://dev.to/cn_toon_e7332ea1dba1b713d/why-i-built-a-100-client-side-web-toolkit-and-how-webassembly-makes-it-fast-3boe</id>
+        <link href="https://dev.to/cn_toon_e7332ea1dba1b713d/why-i-built-a-100-client-side-web-toolkit-and-how-webassembly-makes-it-fast-3boe"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Framework Comparison Report: ZIM vs. PixiJS]]></title>
-        <id>https://dev.to/zimlearn/framework-comparison-report-zim-vs-pixijs-a20</id>
-        <link href="https://dev.to/zimlearn/framework-comparison-report-zim-vs-pixijs-a20"/>
+        <title type="html"><![CDATA[How to Build a Chrome Extension That Makes Money]]></title>
+        <id>https://dev.to/qingluan/how-to-build-a-chrome-extension-that-makes-money-k8o</id>
+        <link href="https://dev.to/qingluan/how-to-build-a-chrome-extension-that-makes-money-k8o"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Playwright + Cucumber Code Review Checklist: A Senior QA Guide to Reliable CI Test Suites]]></title>
-        <id>https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113</id>
-        <link href="https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113"/>
-        <updated>2026-08-15T16:00:00.000Z</updated>
-        <published>2026-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a URL-to-PDF API with Playwright: the edge cases, and how to make the PDF fillable]]></title>
-        <id>https://dev.to/dxsd777/building-a-url-to-pdf-api-with-playwright-the-edge-cases-and-how-to-make-the-pdf-fillable-plk</id>
-        <link href="https://dev.to/dxsd777/building-a-url-to-pdf-api-with-playwright-the-edge-cases-and-how-to-make-the-pdf-fillable-plk"/>
-        <updated>2026-08-15T16:00:00.000Z</updated>
-        <published>2026-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🐶 Feed the Pups! — HTML5 Canvas Arcade Game]]></title>
-        <id>https://dev.to/saira_bibi_40474c69e974a2/feed-the-pups-an-addictive-html5-canvas-arcade-game-464n</id>
-        <link href="https://dev.to/saira_bibi_40474c69e974a2/feed-the-pups-an-addictive-html5-canvas-arcade-game-464n"/>
+        <title type="html"><![CDATA[JWT Authentication in Express That You Can Actually Revoke]]></title>
+        <id>https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i</id>
+        <link href="https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
@@ -204,9 +225,72 @@
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JWT Authentication in Express That You Can Actually Revoke]]></title>
-        <id>https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i</id>
-        <link href="https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i"/>
+        <title type="html"><![CDATA[🐶 Feed the Pups! — HTML5 Canvas Arcade Game]]></title>
+        <id>https://dev.to/saira_bibi_40474c69e974a2/feed-the-pups-an-addictive-html5-canvas-arcade-game-464n</id>
+        <link href="https://dev.to/saira_bibi_40474c69e974a2/feed-the-pups-an-addictive-html5-canvas-arcade-game-464n"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a URL-to-PDF API with Playwright: the edge cases, and how to make the PDF fillable]]></title>
+        <id>https://dev.to/dxsd777/building-a-url-to-pdf-api-with-playwright-the-edge-cases-and-how-to-make-the-pdf-fillable-plk</id>
+        <link href="https://dev.to/dxsd777/building-a-url-to-pdf-api-with-playwright-the-edge-cases-and-how-to-make-the-pdf-fillable-plk"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwright + Cucumber Code Review Checklist: A Senior QA Guide to Reliable CI Test Suites]]></title>
+        <id>https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113</id>
+        <link href="https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Framework Comparison Report: ZIM vs. PixiJS]]></title>
+        <id>https://dev.to/zimlearn/framework-comparison-report-zim-vs-pixijs-a20</id>
+        <link href="https://dev.to/zimlearn/framework-comparison-report-zim-vs-pixijs-a20"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Real-Time Collaborative Canvas Apps with Yjs, WebSockets, and TypeScript]]></title>
+        <id>https://dev.to/programmingcentral/building-real-time-collaborative-canvas-apps-with-yjs-websockets-and-typescript-16gf</id>
+        <link href="https://dev.to/programmingcentral/building-real-time-collaborative-canvas-apps-with-yjs-websockets-and-typescript-16gf"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retry budgets by language: Python, Go, and JavaScript]]></title>
+        <id>https://dev.to/loopandretry/retry-budgets-by-language-python-go-and-javascript-3hcb</id>
+        <link href="https://dev.to/loopandretry/retry-budgets-by-language-python-go-and-javascript-3hcb"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Markdown Heading Linter on the AST, Not With Regex]]></title>
+        <id>https://dev.to/mdfold/build-a-markdown-heading-linter-on-the-ast-not-with-regex-2o8f</id>
+        <link href="https://dev.to/mdfold/build-a-markdown-heading-linter-on-the-ast-not-with-regex-2o8f"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tự Host LLM Bằng Open WebUI + Docker: Rẻ Hơn ChatGPT Plus?]]></title>
+        <id>https://dev.to/bean_bean/tu-host-llm-bang-open-webui-docker-re-hon-chatgpt-plus-79f</id>
+        <link href="https://dev.to/bean_bean/tu-host-llm-bang-open-webui-docker-re-hon-chatgpt-plus-79f"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js Image Optimization in 2026: `next/image` v4, AVIF by Default, and the Config Changes Teams Miss]]></title>
+        <id>https://dev.to/jsmanifest/nextjs-image-optimization-in-2026-nextimage-v4-avif-by-default-and-the-config-changes-teams-jg8</id>
+        <link href="https://dev.to/jsmanifest/nextjs-image-optimization-in-2026-nextimage-v4-avif-by-default-and-the-config-changes-teams-jg8"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dasturlash tillari: qanday tanlash va afzalliklari]]></title>
+        <id>https://dev.to/usakh/dasturlash-tillari-qanday-tanlash-va-afzalliklari-155h</id>
+        <link href="https://dev.to/usakh/dasturlash-tillari-qanday-tanlash-va-afzalliklari-155h"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
@@ -277,90 +361,6 @@
         <title type="html"><![CDATA[Star Wars: Ahsoka season 2 and Starfighter get teased at D23]]></title>
         <id>https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23</id>
         <link href="https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Beautifully Weird Necklace Is Secretly a USB Drive]]></title>
-        <id>https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/</id>
-        <link href="https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride]]></title>
-        <id>https://www.wired.com/review/retrospec-joe-rev-2/</id>
-        <link href="https://www.wired.com/review/retrospec-joe-rev-2/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Best Apple Watch Accessories to Upgrade Your Watch (2026)]]></title>
-        <id>https://www.wired.com/story/best-apple-watch-accessories/</id>
-        <link href="https://www.wired.com/story/best-apple-watch-accessories/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts]]></title>
-        <id>https://www.wired.com/review/auk-mini-2-indoor-smart-garden/</id>
-        <link href="https://www.wired.com/review/auk-mini-2-indoor-smart-garden/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever]]></title>
-        <id>https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/</id>
-        <link href="https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Big Influencer Is This 4-Foot-Tall Robot From China]]></title>
-        <id>https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/</id>
-        <link href="https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Movies to Stream This Month (August 2026)]]></title>
-        <id>https://www.wired.com/story/the-8-best-movies-to-stream-right-now/</id>
-        <link href="https://www.wired.com/story/the-8-best-movies-to-stream-right-now/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out]]></title>
-        <id>https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/</id>
-        <link href="https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What we know about the alleged Iranian hacks on US water utilities]]></title>
-        <id>https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/</id>
-        <link href="https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unforgetful is a new reminders app for people who can’t stop hitting snooze]]></title>
-        <id>https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/</id>
-        <link href="https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Patents AI Glasses to Use Facial Recognition to Identify People]]></title>
-        <id>https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/</id>
-        <link href="https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2,400-year-old grave of possible ancient pro wrestler discovered in Turkey]]></title>
-        <id>https://www.livescience.com/archaeology/2-400-year-old-grave-of-possible-ancient-pro-wrestler-discovered-in-turkey</id>
-        <link href="https://www.livescience.com/archaeology/2-400-year-old-grave-of-possible-ancient-pro-wrestler-discovered-in-turkey"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
