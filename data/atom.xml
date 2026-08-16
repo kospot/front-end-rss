@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-15T22:01:20.379Z</updated>
+    <updated>2026-08-16T00:01:06.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,30 +29,37 @@
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calorie tracker for my Garmin watch]]></title>
-        <id>https://ashu1461.com/posts/a-calorie-tracker-on-my-garmin-watch/</id>
-        <link href="https://ashu1461.com/posts/a-calorie-tracker-on-my-garmin-watch/"/>
+        <title type="html"><![CDATA[I'm getting into house cleaning. What should I know?]]></title>
+        <id>https://refinedservicesgroup.com</id>
+        <link href="https://refinedservicesgroup.com"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital Signal Processing Pioneer Bede Liu Dies at 91]]></title>
-        <id>https://spectrum.ieee.org/digital-signal-processing</id>
-        <link href="https://spectrum.ieee.org/digital-signal-processing"/>
+        <title type="html"><![CDATA[Rewriting in Rust]]></title>
+        <id>https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/</id>
+        <link href="https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why AI agents need verified identity]]></title>
-        <id>https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/</id>
-        <link href="https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/"/>
+        <title type="html"><![CDATA[Show HN: Techflare – Chrome extension to see if a website uses Cloudflare]]></title>
+        <id>https://chromewebstore.google.com/detail/techflare/lbbkmioghlgfnbkciibfglcopkncdfpg</id>
+        <link href="https://chromewebstore.google.com/detail/techflare/lbbkmioghlgfnbkciibfglcopkncdfpg"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Book Review: The Escape Artist]]></title>
-        <id>https://www.astralcodexten.com/p/your-book-review-the-escape-artist</id>
-        <link href="https://www.astralcodexten.com/p/your-book-review-the-escape-artist"/>
+        <title type="html"><![CDATA[Alibaba AI Models Hit 3B Downloads, Passing Meta, Google]]></title>
+        <id>https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html</id>
+        <link href="https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artin-Schreier Theorem [pdf]]]></title>
+        <id>https://kconrad.math.uconn.edu/blurbs/galoistheory/artinschreier.pdf</id>
+        <link href="https://kconrad.math.uconn.edu/blurbs/galoistheory/artinschreier.pdf"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
@@ -64,23 +71,30 @@
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[oMLX is Quietly Becoming the Best Way to Run Local AI Agents On a Mac]]></title>
-        <id>https://pub.towardsai.net/omlx-is-quietly-becoming-the-best-way-to-run-local-ai-agents-on-a-mac-3394c4ad0969?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/omlx-is-quietly-becoming-the-best-way-to-run-local-ai-agents-on-a-mac-3394c4ad0969?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Book Review: The Escape Artist]]></title>
+        <id>https://www.astralcodexten.com/p/your-book-review-the-escape-artist</id>
+        <link href="https://www.astralcodexten.com/p/your-book-review-the-escape-artist"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KV Cache and PagedAttention: How to Get More Throughput From the GPU You Already Have]]></title>
-        <id>https://pub.towardsai.net/kv-cache-and-pagedattention-how-to-get-more-throughput-from-the-gpu-you-already-have-a29b74acf10e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/kv-cache-and-pagedattention-how-to-get-more-throughput-from-the-gpu-you-already-have-a29b74acf10e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why AI agents need verified identity]]></title>
+        <id>https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/</id>
+        <link href="https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Implement Speculative Decoding with a Draft Model in Python]]></title>
-        <id>https://pub.towardsai.net/implement-speculative-decoding-with-a-draft-model-in-python-bd2e7e6b483b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/implement-speculative-decoding-with-a-draft-model-in-python-bd2e7e6b483b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Digital Signal Processing Pioneer Bede Liu Dies at 91]]></title>
+        <id>https://spectrum.ieee.org/digital-signal-processing</id>
+        <link href="https://spectrum.ieee.org/digital-signal-processing"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calorie tracker for my Garmin watch]]></title>
+        <id>https://ashu1461.com/posts/a-calorie-tracker-on-my-garmin-watch/</id>
+        <link href="https://ashu1461.com/posts/a-calorie-tracker-on-my-garmin-watch/"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
@@ -92,37 +106,65 @@
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JWT Authentication in Express That You Can Actually Revoke]]></title>
-        <id>https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i</id>
-        <link href="https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i"/>
+        <title type="html"><![CDATA[Implement Speculative Decoding with a Draft Model in Python]]></title>
+        <id>https://pub.towardsai.net/implement-speculative-decoding-with-a-draft-model-in-python-bd2e7e6b483b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/implement-speculative-decoding-with-a-draft-model-in-python-bd2e7e6b483b?source=rss----98111c9905da---4"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the ZIM Master Prompt Solves AI Code Hallucinations for 2D Canvas]]></title>
-        <id>https://dev.to/zimlearn/how-the-zim-master-prompt-solves-ai-code-hallucinations-for-2d-canvas-14lb</id>
-        <link href="https://dev.to/zimlearn/how-the-zim-master-prompt-solves-ai-code-hallucinations-for-2d-canvas-14lb"/>
+        <title type="html"><![CDATA[KV Cache and PagedAttention: How to Get More Throughput From the GPU You Already Have]]></title>
+        <id>https://pub.towardsai.net/kv-cache-and-pagedattention-how-to-get-more-throughput-from-the-gpu-you-already-have-a29b74acf10e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/kv-cache-and-pagedattention-how-to-get-more-throughput-from-the-gpu-you-already-have-a29b74acf10e?source=rss----98111c9905da---4"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🐶 Feed the Pups! — HTML5 Canvas Arcade Game]]></title>
-        <id>https://dev.to/saira_bibi_40474c69e974a2/feed-the-pups-an-addictive-html5-canvas-arcade-game-464n</id>
-        <link href="https://dev.to/saira_bibi_40474c69e974a2/feed-the-pups-an-addictive-html5-canvas-arcade-game-464n"/>
+        <title type="html"><![CDATA[oMLX is Quietly Becoming the Best Way to Run Local AI Agents On a Mac]]></title>
+        <id>https://pub.towardsai.net/omlx-is-quietly-becoming-the-best-way-to-run-local-ai-agents-on-a-mac-3394c4ad0969?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/omlx-is-quietly-becoming-the-best-way-to-run-local-ai-agents-on-a-mac-3394c4ad0969?source=rss----98111c9905da---4"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a URL-to-PDF API with Playwright: the edge cases, and how to make the PDF fillable]]></title>
-        <id>https://dev.to/dxsd777/building-a-url-to-pdf-api-with-playwright-the-edge-cases-and-how-to-make-the-pdf-fillable-plk</id>
-        <link href="https://dev.to/dxsd777/building-a-url-to-pdf-api-with-playwright-the-edge-cases-and-how-to-make-the-pdf-fillable-plk"/>
+        <title type="html"><![CDATA[Dasturlash tillari: qanday tanlash va afzalliklari]]></title>
+        <id>https://dev.to/usakh/dasturlash-tillari-qanday-tanlash-va-afzalliklari-155h</id>
+        <link href="https://dev.to/usakh/dasturlash-tillari-qanday-tanlash-va-afzalliklari-155h"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Playwright + Cucumber Code Review Checklist: A Senior QA Guide to Reliable CI Test Suites]]></title>
-        <id>https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113</id>
-        <link href="https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113"/>
+        <title type="html"><![CDATA[Next.js Image Optimization in 2026: `next/image` v4, AVIF by Default, and the Config Changes Teams Miss]]></title>
+        <id>https://dev.to/jsmanifest/nextjs-image-optimization-in-2026-nextimage-v4-avif-by-default-and-the-config-changes-teams-jg8</id>
+        <link href="https://dev.to/jsmanifest/nextjs-image-optimization-in-2026-nextimage-v4-avif-by-default-and-the-config-changes-teams-jg8"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tự Host LLM Bằng Open WebUI + Docker: Rẻ Hơn ChatGPT Plus?]]></title>
+        <id>https://dev.to/bean_bean/tu-host-llm-bang-open-webui-docker-re-hon-chatgpt-plus-79f</id>
+        <link href="https://dev.to/bean_bean/tu-host-llm-bang-open-webui-docker-re-hon-chatgpt-plus-79f"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Markdown Heading Linter on the AST, Not With Regex]]></title>
+        <id>https://dev.to/mdfold/build-a-markdown-heading-linter-on-the-ast-not-with-regex-2o8f</id>
+        <link href="https://dev.to/mdfold/build-a-markdown-heading-linter-on-the-ast-not-with-regex-2o8f"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retry budgets by language: Python, Go, and JavaScript]]></title>
+        <id>https://dev.to/loopandretry/retry-budgets-by-language-python-go-and-javascript-3hcb</id>
+        <link href="https://dev.to/loopandretry/retry-budgets-by-language-python-go-and-javascript-3hcb"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Real-Time Collaborative Canvas Apps with Yjs, WebSockets, and TypeScript]]></title>
+        <id>https://dev.to/programmingcentral/building-real-time-collaborative-canvas-apps-with-yjs-websockets-and-typescript-16gf</id>
+        <link href="https://dev.to/programmingcentral/building-real-time-collaborative-canvas-apps-with-yjs-websockets-and-typescript-16gf"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
@@ -134,9 +176,37 @@
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Real-Time Collaborative Canvas Apps with Yjs, WebSockets, and TypeScript]]></title>
-        <id>https://dev.to/programmingcentral/building-real-time-collaborative-canvas-apps-with-yjs-websockets-and-typescript-16gf</id>
-        <link href="https://dev.to/programmingcentral/building-real-time-collaborative-canvas-apps-with-yjs-websockets-and-typescript-16gf"/>
+        <title type="html"><![CDATA[Playwright + Cucumber Code Review Checklist: A Senior QA Guide to Reliable CI Test Suites]]></title>
+        <id>https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113</id>
+        <link href="https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a URL-to-PDF API with Playwright: the edge cases, and how to make the PDF fillable]]></title>
+        <id>https://dev.to/dxsd777/building-a-url-to-pdf-api-with-playwright-the-edge-cases-and-how-to-make-the-pdf-fillable-plk</id>
+        <link href="https://dev.to/dxsd777/building-a-url-to-pdf-api-with-playwright-the-edge-cases-and-how-to-make-the-pdf-fillable-plk"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🐶 Feed the Pups! — HTML5 Canvas Arcade Game]]></title>
+        <id>https://dev.to/saira_bibi_40474c69e974a2/feed-the-pups-an-addictive-html5-canvas-arcade-game-464n</id>
+        <link href="https://dev.to/saira_bibi_40474c69e974a2/feed-the-pups-an-addictive-html5-canvas-arcade-game-464n"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the ZIM Master Prompt Solves AI Code Hallucinations for 2D Canvas]]></title>
+        <id>https://dev.to/zimlearn/how-the-zim-master-prompt-solves-ai-code-hallucinations-for-2d-canvas-14lb</id>
+        <link href="https://dev.to/zimlearn/how-the-zim-master-prompt-solves-ai-code-hallucinations-for-2d-canvas-14lb"/>
+        <updated>2026-08-15T16:00:00.000Z</updated>
+        <published>2026-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWT Authentication in Express That You Can Actually Revoke]]></title>
+        <id>https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i</id>
+        <link href="https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
@@ -281,86 +351,16 @@
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get to Know David, Alice, Bob, Jack and Sara [Agents] [video]]]></title>
-        <id>https://www.youtube.com/watch?v=zAOcfDu5vp0</id>
-        <link href="https://www.youtube.com/watch?v=zAOcfDu5vp0"/>
+        <title type="html"><![CDATA[Meta Patents AI Glasses to Use Facial Recognition to Identify People]]></title>
+        <id>https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/</id>
+        <link href="https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GLM-5.3: How Chinese labs keep stride with the frontier]]></title>
-        <id>https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride</id>
-        <link href="https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tankers Are Going Dark for Longer to Get Oil Out of Middle East]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-08-14/tankers-are-going-dark-for-longer-to-get-oil-out-of-middle-east</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-08-14/tankers-are-going-dark-for-longer-to-get-oil-out-of-middle-east"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mycorrhizal Infrastructure Map]]></title>
-        <id>https://a-hidden-infrastructure.spun.earth/map</id>
-        <link href="https://a-hidden-infrastructure.spun.earth/map"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What eating like RFK Jr. does to your colon, according to a gastro doctor]]></title>
-        <id>https://www.msn.com/en-us/health/diseases-and-conditions/here-s-what-eating-like-rfk-jr-does-to-your-colon-according-to-a-gastro-doctor/ss-AA29G8H6</id>
-        <link href="https://www.msn.com/en-us/health/diseases-and-conditions/here-s-what-eating-like-rfk-jr-does-to-your-colon-according-to-a-gastro-doctor/ss-AA29G8H6"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bundesliga's 50+1 ownership rule permissible under antitrust laws]]></title>
-        <id>https://www.reuters.com/sports/soccer/bundesligas-501-ownership-rule-permissible-under-antitrust-laws-bundeskartellamt-2026-08-12/</id>
-        <link href="https://www.reuters.com/sports/soccer/bundesligas-501-ownership-rule-permissible-under-antitrust-laws-bundeskartellamt-2026-08-12/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baking a Model: A Metaphor for LLM Training]]></title>
-        <id>https://newsletter.kentbeck.com/p/baking-a-model</id>
-        <link href="https://newsletter.kentbeck.com/p/baking-a-model"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon reinstates binding arbitration, bars class-action lawsuits]]></title>
-        <id>https://www.reuters.com/legal/government/amazon-reinstates-binding-arbitration-bars-class-action-lawsuits-2026-08-14/</id>
-        <link href="https://www.reuters.com/legal/government/amazon-reinstates-binding-arbitration-bars-class-action-lawsuits-2026-08-14/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flownie – Open and Visual Data Workflow Platform with AI Agent Assistance]]></title>
-        <id>https://flownie.com/</id>
-        <link href="https://flownie.com/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post-mortem after Namecheap/RadiusDC service outage]]></title>
-        <id>https://www.namecheap.com/blog/namecheap-service-outage-update/</id>
-        <link href="https://www.namecheap.com/blog/namecheap-service-outage-update/"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen 3.8 27B 4-bit designs an animated dolphin riding a bicycle SVG]]></title>
-        <id>https://twitter.com/1littlecoder/status/2088399639628431831</id>
-        <link href="https://twitter.com/1littlecoder/status/2088399639628431831"/>
-        <updated>2026-08-14T16:00:00.000Z</updated>
-        <published>2026-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The case for overhauling American science]]></title>
-        <id>https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science</id>
-        <link href="https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science"/>
+        <title type="html"><![CDATA[2,400-year-old grave of possible ancient pro wrestler discovered in Turkey]]></title>
+        <id>https://www.livescience.com/archaeology/2-400-year-old-grave-of-possible-ancient-pro-wrestler-discovered-in-turkey</id>
+        <link href="https://www.livescience.com/archaeology/2-400-year-old-grave-of-possible-ancient-pro-wrestler-discovered-in-turkey"/>
         <updated>2026-08-14T16:00:00.000Z</updated>
         <published>2026-08-14T16:00:00.000Z</published>
     </entry>
