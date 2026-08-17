@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-17T04:01:13.809Z</updated>
+    <updated>2026-08-17T07:02:08.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,121 +36,65 @@
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HN: Draw.city – Daily geography game where you circle the target population [US]]]></title>
-        <id>https://draw.city/</id>
-        <link href="https://draw.city/"/>
+        <title type="html"><![CDATA[OpenAI-Compatible API Quickstart in Python, JavaScript, and PowerShell]]></title>
+        <id>https://github.com/Vector-Compute-Engine/api-quickstart</id>
+        <link href="https://github.com/Vector-Compute-Engine/api-quickstart"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[how the internet makes us bad at watching stuff [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Gqjb1DvjAnI</id>
-        <link href="https://www.youtube.com/watch?v=Gqjb1DvjAnI"/>
+        <title type="html"><![CDATA[ScienceFlow – A Long-Horizon Agent for ML Research]]></title>
+        <id>https://github.com/huawei-noah/noah-research/tree/master/ScienceFlow</id>
+        <link href="https://github.com/huawei-noah/noah-research/tree/master/ScienceFlow"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Is Helping Patients Solve Medical Mysteries]]></title>
-        <id>https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25</id>
-        <link href="https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25"/>
+        <title type="html"><![CDATA[Show HN: Code review that follows callers across your repos]]></title>
+        <id>https://contextgoblin.com/</id>
+        <link href="https://contextgoblin.com/"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Database-less link shortener and compressor]]></title>
-        <id>https://github.com/p2r3/ha.mr</id>
-        <link href="https://github.com/p2r3/ha.mr"/>
+        <title type="html"><![CDATA[Apache Flink accelerator built with Rust]]></title>
+        <id>https://streamfusion.tech/</id>
+        <link href="https://streamfusion.tech/"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which countries have passed peak population?]]></title>
-        <id>https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so</id>
-        <link href="https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so"/>
+        <title type="html"><![CDATA[More methods for forecasting code automatiom]]></title>
+        <id>https://blog.aifutures.org/p/q25-2026-timelines-update-uplift</id>
+        <link href="https://blog.aifutures.org/p/q25-2026-timelines-update-uplift"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A friend would not stop talking stocks; wrote stock program for engagement]]></title>
-        <id>https://store.amfile.org/product.php?id=prod_6a7f41d5b65770.11390317</id>
-        <link href="https://store.amfile.org/product.php?id=prod_6a7f41d5b65770.11390317"/>
+        <title type="html"><![CDATA[Greenest cities in Europe, and where Hamburg stands]]></title>
+        <id>https://alsterrunde.com/greenest-cities-in-europe-and-where-hamburg-stands/</id>
+        <link href="https://alsterrunde.com/greenest-cities-in-europe-and-where-hamburg-stands/"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Organ donation service decertified after attempting to take organs]]></title>
-        <id>https://doi.org/10.1136/bmj-2026-100578</id>
-        <link href="https://doi.org/10.1136/bmj-2026-100578"/>
+        <title type="html"><![CDATA[It's Happening – Europe Is Building an Impossible Fusion Reactor [video]]]></title>
+        <id>https://www.youtube.com/watch?v=bPUAKW1Dyek</id>
+        <link href="https://www.youtube.com/watch?v=bPUAKW1Dyek"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Metabase SQLi: Exploited in the Wild]]></title>
-        <id>https://www.wiz.io/blog/inside-the-metabase-sqli-exploited-in-the-wild</id>
-        <link href="https://www.wiz.io/blog/inside-the-metabase-sqli-exploited-in-the-wild"/>
+        <title type="html"><![CDATA[The LLM Freedom Manifesto: Open-Weight Models and User Responsibility]]></title>
+        <id>https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html</id>
+        <link href="https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Tour of Magit's Status Interface]]></title>
-        <id>https://heiwiper.com/posts/magit-status-tour/</id>
-        <link href="https://heiwiper.com/posts/magit-status-tour/"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BanProof – AI that scans TikTok Shop videos for violation points before you post]]></title>
-        <id>https://banproof.io/</id>
-        <link href="https://banproof.io/"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 'Fraud Squad' at Caltech Will Catch You If You Lie on Your Application]]></title>
-        <id>https://www.wsj.com/us-news/education/college-admissions-caltech-cheating-fraud-squad-f7627aab</id>
-        <link href="https://www.wsj.com/us-news/education/college-admissions-caltech-cheating-fraud-squad-f7627aab"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe]]></title>
-        <id>https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll</id>
-        <link href="https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Hermes and Obsidian Setup and Use Cases]]></title>
-        <id>https://metedata.substack.com/p/013-my-hermes-and-obsidian-set-up</id>
-        <link href="https://metedata.substack.com/p/013-my-hermes-and-obsidian-set-up"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forecasting Andean rainfall and crop yield from influence of El Niño on Pleiades]]></title>
-        <id>https://www.nature.com/articles/47456</id>
-        <link href="https://www.nature.com/articles/47456"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting water systems from cyberattacks: 5 steps cities can take now]]></title>
-        <id>https://www.smartcitiesdive.com/news/protecting-water-systems-cyberattacks-5-steps-cities/827560/</id>
-        <link href="https://www.smartcitiesdive.com/news/protecting-water-systems-cyberattacks-5-steps-cities/827560/"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rare things become common at scale (2014)]]></title>
-        <id>https://longform.asmartbear.com/scale-rare/</id>
-        <link href="https://longform.asmartbear.com/scale-rare/"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Adding friction to my automatic open Claude reaction]]></title>
-        <id>https://news.ycombinator.com/item?id=49325617</id>
-        <link href="https://news.ycombinator.com/item?id=49325617"/>
+        <title type="html"><![CDATA[The Qualities of Tomorrow's Programmers by Salvatore Sanfilippo]]></title>
+        <id>https://grigio.org/the-qualities-of-tomorrows-programmers/</id>
+        <link href="https://grigio.org/the-qualities-of-tomorrows-programmers/"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
@@ -162,23 +106,128 @@
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Beginner’s Guide to Self-Supervised Learning]]></title>
-        <id>https://pub.towardsai.net/a-beginners-guide-to-self-supervised-learning-27941f2bb4a9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/a-beginners-guide-to-self-supervised-learning-27941f2bb4a9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Adding friction to my automatic open Claude reaction]]></title>
+        <id>https://news.ycombinator.com/item?id=49325617</id>
+        <link href="https://news.ycombinator.com/item?id=49325617"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Architecture of Thought: How Transformers Created the LLM Revolution]]></title>
-        <id>https://pub.towardsai.net/the-architecture-of-thought-how-transformers-created-the-llm-revolution-0449a0caebc1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-architecture-of-thought-how-transformers-created-the-llm-revolution-0449a0caebc1?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Rare things become common at scale (2014)]]></title>
+        <id>https://longform.asmartbear.com/scale-rare/</id>
+        <link href="https://longform.asmartbear.com/scale-rare/"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reflections on Building an AI Ad-Generation System]]></title>
-        <id>https://pub.towardsai.net/reflections-on-building-an-ai-ad-generation-system-8ec5a35eeeae?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/reflections-on-building-an-ai-ad-generation-system-8ec5a35eeeae?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Protecting water systems from cyberattacks: 5 steps cities can take now]]></title>
+        <id>https://www.smartcitiesdive.com/news/protecting-water-systems-cyberattacks-5-steps-cities/827560/</id>
+        <link href="https://www.smartcitiesdive.com/news/protecting-water-systems-cyberattacks-5-steps-cities/827560/"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forecasting Andean rainfall and crop yield from influence of El Niño on Pleiades]]></title>
+        <id>https://www.nature.com/articles/47456</id>
+        <link href="https://www.nature.com/articles/47456"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Hermes and Obsidian Setup and Use Cases]]></title>
+        <id>https://metedata.substack.com/p/013-my-hermes-and-obsidian-set-up</id>
+        <link href="https://metedata.substack.com/p/013-my-hermes-and-obsidian-set-up"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe]]></title>
+        <id>https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll</id>
+        <link href="https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 'Fraud Squad' at Caltech Will Catch You If You Lie on Your Application]]></title>
+        <id>https://www.wsj.com/us-news/education/college-admissions-caltech-cheating-fraud-squad-f7627aab</id>
+        <link href="https://www.wsj.com/us-news/education/college-admissions-caltech-cheating-fraud-squad-f7627aab"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BanProof – AI that scans TikTok Shop videos for violation points before you post]]></title>
+        <id>https://banproof.io/</id>
+        <link href="https://banproof.io/"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Tour of Magit's Status Interface]]></title>
+        <id>https://heiwiper.com/posts/magit-status-tour/</id>
+        <link href="https://heiwiper.com/posts/magit-status-tour/"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Metabase SQLi: Exploited in the Wild]]></title>
+        <id>https://www.wiz.io/blog/inside-the-metabase-sqli-exploited-in-the-wild</id>
+        <link href="https://www.wiz.io/blog/inside-the-metabase-sqli-exploited-in-the-wild"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organ donation service decertified after attempting to take organs]]></title>
+        <id>https://doi.org/10.1136/bmj-2026-100578</id>
+        <link href="https://doi.org/10.1136/bmj-2026-100578"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A friend would not stop talking stocks; wrote stock program for engagement]]></title>
+        <id>https://store.amfile.org/product.php?id=prod_6a7f41d5b65770.11390317</id>
+        <link href="https://store.amfile.org/product.php?id=prod_6a7f41d5b65770.11390317"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which countries have passed peak population?]]></title>
+        <id>https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so</id>
+        <link href="https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database-less link shortener and compressor]]></title>
+        <id>https://github.com/p2r3/ha.mr</id>
+        <link href="https://github.com/p2r3/ha.mr"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Is Helping Patients Solve Medical Mysteries]]></title>
+        <id>https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25</id>
+        <link href="https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[how the internet makes us bad at watching stuff [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Gqjb1DvjAnI</id>
+        <link href="https://www.youtube.com/watch?v=Gqjb1DvjAnI"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN: Draw.city – Daily geography game where you circle the target population [US]]]></title>
+        <id>https://draw.city/</id>
+        <link href="https://draw.city/"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Flight Recorder: An End-to-End Guide to Tracing and Observability for AI Agents]]></title>
+        <id>https://pub.towardsai.net/the-flight-recorder-an-end-to-end-guide-to-tracing-and-observability-for-ai-agents-1906c4212826?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-flight-recorder-an-end-to-end-guide-to-tracing-and-observability-for-ai-agents-1906c4212826?source=rss----98111c9905da---4"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
@@ -190,9 +239,23 @@
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Flight Recorder: An End-to-End Guide to Tracing and Observability for AI Agents]]></title>
-        <id>https://pub.towardsai.net/the-flight-recorder-an-end-to-end-guide-to-tracing-and-observability-for-ai-agents-1906c4212826?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-flight-recorder-an-end-to-end-guide-to-tracing-and-observability-for-ai-agents-1906c4212826?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Reflections on Building an AI Ad-Generation System]]></title>
+        <id>https://pub.towardsai.net/reflections-on-building-an-ai-ad-generation-system-8ec5a35eeeae?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/reflections-on-building-an-ai-ad-generation-system-8ec5a35eeeae?source=rss----98111c9905da---4"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Architecture of Thought: How Transformers Created the LLM Revolution]]></title>
+        <id>https://pub.towardsai.net/the-architecture-of-thought-how-transformers-created-the-llm-revolution-0449a0caebc1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-architecture-of-thought-how-transformers-created-the-llm-revolution-0449a0caebc1?source=rss----98111c9905da---4"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner’s Guide to Self-Supervised Learning]]></title>
+        <id>https://pub.towardsai.net/a-beginners-guide-to-self-supervised-learning-27941f2bb4a9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-beginners-guide-to-self-supervised-learning-27941f2bb4a9?source=rss----98111c9905da---4"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
@@ -298,69 +361,6 @@
         <title type="html"><![CDATA[Federated Prompt Learning: A Unified Framework, Empirical Analysis, and Future Directions]]></title>
         <id>https://arxiv.org/abs/2608.13844</id>
         <link href="https://arxiv.org/abs/2608.13844"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fashion Outfit Generation via Unified Sequential Composition Models]]></title>
-        <id>https://arxiv.org/abs/2608.13888</id>
-        <link href="https://arxiv.org/abs/2608.13888"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post-training Quantization for Hybrid Iterative Generative Models]]></title>
-        <id>https://arxiv.org/abs/2608.13932</id>
-        <link href="https://arxiv.org/abs/2608.13932"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adversarial Learning of Classifier-Free Guidance Schedules]]></title>
-        <id>https://arxiv.org/abs/2608.14038</id>
-        <link href="https://arxiv.org/abs/2608.14038"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model-agnostic Retrieval-Augmented Extended Forecasting for time series]]></title>
-        <id>https://arxiv.org/abs/2608.14054</id>
-        <link href="https://arxiv.org/abs/2608.14054"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Denoising Hurts: Rethinking the Terminal Step of Diffusion Time Series Forecasters -- Extended Version]]></title>
-        <id>https://arxiv.org/abs/2608.14067</id>
-        <link href="https://arxiv.org/abs/2608.14067"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forecast Collapse in Time-Series Foundation Models]]></title>
-        <id>https://arxiv.org/abs/2608.14106</id>
-        <link href="https://arxiv.org/abs/2608.14106"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overcoming Shortcut Learning in Graph Neural Networks through Active Explanation Guidance]]></title>
-        <id>https://arxiv.org/abs/2608.14121</id>
-        <link href="https://arxiv.org/abs/2608.14121"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structure-Guided Spatiotemporal Attention Graph Neural Network for Traffic Flow Prediction]]></title>
-        <id>https://arxiv.org/abs/2608.14177</id>
-        <link href="https://arxiv.org/abs/2608.14177"/>
-        <updated>2026-08-16T16:00:00.000Z</updated>
-        <published>2026-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KV Cache Compression Through the Lens of Transform Coding]]></title>
-        <id>https://arxiv.org/abs/2608.14191</id>
-        <link href="https://arxiv.org/abs/2608.14191"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
