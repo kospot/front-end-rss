@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-17 21:02:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-17 23:03:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-08-17-New-weekly-injection-offers-diabetics-alternative-to-daily-insulin-shots](https://www.washingtonpost.com/health/2026/08/16/new-weekly-injection-offers-diabetics-alternative-daily-insulin-shots/) 
 - [2026-08-14-Fake-Forbes-websites-and-the-PR-agency-offering-guaranteed-coverage-–-at-a-price](https://pressgazette.co.uk/news/fake-forbes-websites-and-the-pr-agency-offering-guaranteed-coverage-at-a-price/) 
 - [2026-08-05-SpaceX's-Starfall-program-offers-validation-and-competition-for-reentry-startups](https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/) 
 - [2026-08-01-Drones-offer-alternative-to-balloons-for-weather-research](https://www.theguardian.com/news/2026/jul/31/weatherwatch-drone-base-station-offers-alternative-weather-balloons) 
