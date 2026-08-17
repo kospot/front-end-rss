@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-16T22:01:51.575Z</updated>
+    <updated>2026-08-17T00:01:00.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,16 +36,23 @@
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Hermes and Obsidian Setup and Use Cases]]></title>
-        <id>https://metedata.substack.com/p/013-my-hermes-and-obsidian-set-up</id>
-        <link href="https://metedata.substack.com/p/013-my-hermes-and-obsidian-set-up"/>
+        <title type="html"><![CDATA[The Metabase SQLi: Exploited in the Wild]]></title>
+        <id>https://www.wiz.io/blog/inside-the-metabase-sqli-exploited-in-the-wild</id>
+        <link href="https://www.wiz.io/blog/inside-the-metabase-sqli-exploited-in-the-wild"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe]]></title>
-        <id>https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll</id>
-        <link href="https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"/>
+        <title type="html"><![CDATA[A Tour of Magit's Status Interface]]></title>
+        <id>https://heiwiper.com/posts/magit-status-tour/</id>
+        <link href="https://heiwiper.com/posts/magit-status-tour/"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BanProof – AI that scans TikTok Shop videos for violation points before you post]]></title>
+        <id>https://banproof.io/</id>
+        <link href="https://banproof.io/"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
@@ -57,9 +64,23 @@
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Flight Recorder: An End-to-End Guide to Tracing and Observability for AI Agents]]></title>
-        <id>https://pub.towardsai.net/the-flight-recorder-an-end-to-end-guide-to-tracing-and-observability-for-ai-agents-1906c4212826?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-flight-recorder-an-end-to-end-guide-to-tracing-and-observability-for-ai-agents-1906c4212826?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe]]></title>
+        <id>https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll</id>
+        <link href="https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Hermes and Obsidian Setup and Use Cases]]></title>
+        <id>https://metedata.substack.com/p/013-my-hermes-and-obsidian-set-up</id>
+        <link href="https://metedata.substack.com/p/013-my-hermes-and-obsidian-set-up"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflections on Building an AI Ad-Generation System]]></title>
+        <id>https://pub.towardsai.net/reflections-on-building-an-ai-ad-generation-system-8ec5a35eeeae?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/reflections-on-building-an-ai-ad-generation-system-8ec5a35eeeae?source=rss----98111c9905da---4"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
@@ -71,37 +92,51 @@
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Async/Await Awakens: JavaScript Patterns That Will Save You Hours]]></title>
-        <id>https://dev.to/timevolt/the-asyncawait-awakens-javascript-patterns-that-will-save-you-hours-5enj</id>
-        <link href="https://dev.to/timevolt/the-asyncawait-awakens-javascript-patterns-that-will-save-you-hours-5enj"/>
+        <title type="html"><![CDATA[The Flight Recorder: An End-to-End Guide to Tracing and Observability for AI Agents]]></title>
+        <id>https://pub.towardsai.net/the-flight-recorder-an-end-to-end-guide-to-tracing-and-observability-for-ai-agents-1906c4212826?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-flight-recorder-an-end-to-end-guide-to-tracing-and-observability-for-ai-agents-1906c4212826?source=rss----98111c9905da---4"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free AI Quotas Break Silently When Your Proxy Swallows Retry-After]]></title>
-        <id>https://dev.to/babycat/free-ai-quotas-break-silently-when-your-proxy-swallows-retry-after-3cjb</id>
-        <link href="https://dev.to/babycat/free-ai-quotas-break-silently-when-your-proxy-swallows-retry-after-3cjb"/>
+        <title type="html"><![CDATA[10 Trusted Platforms to Buy Old Gmail Accounts In]]></title>
+        <id>https://dev.to/prudencebelloeegkk/10-trusted-platforms-to-buy-old-gmail-accounts-in-43ec</id>
+        <link href="https://dev.to/prudencebelloeegkk/10-trusted-platforms-to-buy-old-gmail-accounts-in-43ec"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Balan Coffee & Roastery — A Slow-Drip Vietnamese Coffee Landing Page]]></title>
-        <id>https://dev.to/felixdoit/balan-coffee-roastery-a-slow-drip-vietnamese-coffee-landing-page-33ep</id>
-        <link href="https://dev.to/felixdoit/balan-coffee-roastery-a-slow-drip-vietnamese-coffee-landing-page-33ep"/>
+        <title type="html"><![CDATA[AI Agent Báo Đã Verified: Cách Kiểm Tra Độc Lập Trước Khi Tin]]></title>
+        <id>https://dev.to/bean_bean/ai-agent-bao-da-verified-cach-kiem-tra-doc-lap-truoc-khi-tin-16c1</id>
+        <link href="https://dev.to/bean_bean/ai-agent-bao-da-verified-cach-kiem-tra-doc-lap-truoc-khi-tin-16c1"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Playwright in 2026: The PDF Method That's Chromium-Only]]></title>
-        <id>https://dev.to/ironsoftware/playwright-in-2026-the-pdf-method-thats-chromium-only-4p8b</id>
-        <link href="https://dev.to/ironsoftware/playwright-in-2026-the-pdf-method-thats-chromium-only-4p8b"/>
+        <title type="html"><![CDATA[Sitemaps Are Free SEO — Here's the Vite Plugin That Generates Yours]]></title>
+        <id>https://dev.to/3ni8ma/sitemaps-are-free-seo-heres-the-vite-plugin-that-generates-yours-3lg4</id>
+        <link href="https://dev.to/3ni8ma/sitemaps-are-free-seo-heres-the-vite-plugin-that-generates-yours-3lg4"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Free Home Brewing Recipe & Batch Calculator (Because Brewer's Friend Charges $6.95/Month)]]></title>
-        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-home-brewing-recipe-batch-calculator-because-brewers-friend-charges-695month-9c9</id>
-        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-home-brewing-recipe-batch-calculator-because-brewers-friend-charges-695month-9c9"/>
+        <title type="html"><![CDATA[A Guide to Easily Aged Second-Hand GitHub Accounts .. ...]]></title>
+        <id>https://dev.to/prudencebelloeegkk/a-guide-to-easily-aged-second-hand-github-accounts--4kk5</id>
+        <link href="https://dev.to/prudencebelloeegkk/a-guide-to-easily-aged-second-hand-github-accounts--4kk5"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@react-pdf/renderer in 2026: The StyleSheet Isn't CSS]]></title>
+        <id>https://dev.to/ironsoftware/react-pdfrenderer-in-2026-the-stylesheet-isnt-css-3h2l</id>
+        <link href="https://dev.to/ironsoftware/react-pdfrenderer-in-2026-the-stylesheet-isnt-css-3h2l"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DS Express Errors (centralizing errors library) — v1.9.2 Release Notes August 16, 2026]]></title>
+        <id>https://dev.to/nse569h/ds-express-errors-centralizing-errors-library-v192-release-notes-august-16-2026-278m</id>
+        <link href="https://dev.to/nse569h/ds-express-errors-centralizing-errors-library-v192-release-notes-august-16-2026-278m"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
@@ -113,9 +148,37 @@
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DS Express Errors (centralizing errors library) — v1.9.2 Release Notes August 16, 2026]]></title>
-        <id>https://dev.to/nse569h/ds-express-errors-centralizing-errors-library-v192-release-notes-august-16-2026-278m</id>
-        <link href="https://dev.to/nse569h/ds-express-errors-centralizing-errors-library-v192-release-notes-august-16-2026-278m"/>
+        <title type="html"><![CDATA[I Built a Free Home Brewing Recipe & Batch Calculator (Because Brewer's Friend Charges $6.95/Month)]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-home-brewing-recipe-batch-calculator-because-brewers-friend-charges-695month-9c9</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-home-brewing-recipe-batch-calculator-because-brewers-friend-charges-695month-9c9"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwright in 2026: The PDF Method That's Chromium-Only]]></title>
+        <id>https://dev.to/ironsoftware/playwright-in-2026-the-pdf-method-thats-chromium-only-4p8b</id>
+        <link href="https://dev.to/ironsoftware/playwright-in-2026-the-pdf-method-thats-chromium-only-4p8b"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Balan Coffee & Roastery — A Slow-Drip Vietnamese Coffee Landing Page]]></title>
+        <id>https://dev.to/felixdoit/balan-coffee-roastery-a-slow-drip-vietnamese-coffee-landing-page-33ep</id>
+        <link href="https://dev.to/felixdoit/balan-coffee-roastery-a-slow-drip-vietnamese-coffee-landing-page-33ep"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free AI Quotas Break Silently When Your Proxy Swallows Retry-After]]></title>
+        <id>https://dev.to/babycat/free-ai-quotas-break-silently-when-your-proxy-swallows-retry-after-3cjb</id>
+        <link href="https://dev.to/babycat/free-ai-quotas-break-silently-when-your-proxy-swallows-retry-after-3cjb"/>
+        <updated>2026-08-16T16:00:00.000Z</updated>
+        <published>2026-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Async/Await Awakens: JavaScript Patterns That Will Save You Hours]]></title>
+        <id>https://dev.to/timevolt/the-asyncawait-awakens-javascript-patterns-that-will-save-you-hours-5enj</id>
+        <link href="https://dev.to/timevolt/the-asyncawait-awakens-javascript-patterns-that-will-save-you-hours-5enj"/>
         <updated>2026-08-16T16:00:00.000Z</updated>
         <published>2026-08-16T16:00:00.000Z</published>
     </entry>
@@ -176,184 +239,121 @@
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astronomers May Have Discovered a New Kind of Celestial Object: Black Hole Stars]]></title>
-        <id>https://www.smithsonianmag.com/smart-news/astronomers-peered-at-the-early-universe-and-may-have-discovered-a-new-kind-of-celestial-object-black-hole-stars-180989334/</id>
-        <link href="https://www.smithsonianmag.com/smart-news/astronomers-peered-at-the-early-universe-and-may-have-discovered-a-new-kind-of-celestial-object-black-hole-stars-180989334/"/>
+        <title type="html"><![CDATA[FSL – Finite State Language for TypeScript and JavaScript]]></title>
+        <id>https://github.com/neutrino38/finite-state-language</id>
+        <link href="https://github.com/neutrino38/finite-state-language"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If you had trusted the settled science of the day here is how it would have gone]]></title>
-        <id>https://twitter.com/SamaHoole/status/2088832696155820150</id>
-        <link href="https://twitter.com/SamaHoole/status/2088832696155820150"/>
+        <title type="html"><![CDATA[Show HN: Qwen3.8-27B API, 140 tok/s on one GPU]]></title>
+        <id>https://inference.tiyuvta.ai/login?next=%2Fapp</id>
+        <link href="https://inference.tiyuvta.ai/login?next=%2Fapp"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Observers in Quantum Field Theory Cannot Be Fundamental Excitations]]></title>
-        <id>https://philpapers.org/rec/TANOIQ</id>
-        <link href="https://philpapers.org/rec/TANOIQ"/>
+        <title type="html"><![CDATA[Problematic Paper Screener detects 1000s of fraudulent/slop scientific articles]]></title>
+        <id>https://theconversation.com/problematic-paper-screener-trawling-for-fraud-in-the-scientific-literature-246317</id>
+        <link href="https://theconversation.com/problematic-paper-screener-trawling-for-fraud-in-the-scientific-literature-246317"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI-Prepped Paper Passed Peer Review. Now What?]]></title>
-        <id>https://cacm.acm.org/news/ai-prepped-paper-passed-peer-review-now-what/</id>
-        <link href="https://cacm.acm.org/news/ai-prepped-paper-passed-peer-review-now-what/"/>
+        <title type="html"><![CDATA[IntelliconOps – AI-assisted infrastructure automation with human approval gates [video]]]></title>
+        <id>https://www.youtube.com/watch?v=z-qksilmGiQ</id>
+        <link href="https://www.youtube.com/watch?v=z-qksilmGiQ"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X1 First Flight – Largest Electric Aircraft [video]]]></title>
-        <id>https://www.youtube.com/watch?v=fEudbAjschs</id>
-        <link href="https://www.youtube.com/watch?v=fEudbAjschs"/>
+        <title type="html"><![CDATA[An open agent-security benchmark, including the attacks we fail to catch]]></title>
+        <id>https://github.com/AndrewSispoidis/contemporary-agent-attacks</id>
+        <link href="https://github.com/AndrewSispoidis/contemporary-agent-attacks"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Termique, an SSH client with E2E encrypted sync across desktop and iOS]]></title>
-        <id>https://termique.app/</id>
-        <link href="https://termique.app/"/>
+        <title type="html"><![CDATA[Mathematicians Despair as AI Achieves Jaw-Dropping Breakthroughs]]></title>
+        <id>https://www.telegraph.co.uk/business/2026/08/16/mathematicians-despair-ai-breakthrough/</id>
+        <link href="https://www.telegraph.co.uk/business/2026/08/16/mathematicians-despair-ai-breakthrough/"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello hoomans, sorry dog owners. Meet Zoomie, a dog activity tracker]]></title>
-        <id>https://testflight.apple.com/join/zHyWmwu6</id>
-        <link href="https://testflight.apple.com/join/zHyWmwu6"/>
+        <title type="html"><![CDATA[Show HN: Laptop is the last place your secrets are still in plaintext]]></title>
+        <id>https://github.com/jitpass/jit</id>
+        <link href="https://github.com/jitpass/jit"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Targeted marine cloud brightening weakens subsequent El Niño]]></title>
-        <id>https://www.science.org/doi/10.1126/sciadv.adx3012</id>
-        <link href="https://www.science.org/doi/10.1126/sciadv.adx3012"/>
+        <title type="html"><![CDATA[Beancount in Rust]]></title>
+        <id>https://rustledger.github.io</id>
+        <link href="https://rustledger.github.io"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Upscaled screenshots of specific DOM elements]]></title>
-        <id>https://addons.mozilla.org/en-US/firefox/addon/beermusic/</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/beermusic/"/>
+        <title type="html"><![CDATA[The Cell: Inside North Korea's Remote Worker Command Center]]></title>
+        <id>https://www.rubrik.com/blog/company/26/7/the-cell-inside-north-koreas-remote-worker-command-center</id>
+        <link href="https://www.rubrik.com/blog/company/26/7/the-cell-inside-north-koreas-remote-worker-command-center"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt]]></title>
-        <id>https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/</id>
-        <link href="https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/"/>
+        <title type="html"><![CDATA[A leaked Composio key returned live Gmail, GitHub and CircleCI tokens]]></title>
+        <id>https://www.cyera.com/research/the-hidden-attack-surface-of-agentic-ai-securing-ai-agent-integration-platforms</id>
+        <link href="https://www.cyera.com/research/the-hidden-attack-surface-of-agentic-ai-securing-ai-agent-integration-platforms"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Draftera – one workspace for personal and business documents]]></title>
-        <id>https://landing.draftera.ai/</id>
-        <link href="https://landing.draftera.ai/"/>
+        <title type="html"><![CDATA[Big tech meets Milton Friedman]]></title>
+        <id>https://www.semafor.com/article/08/11/2026/big-tech-meets-milton-friedman</id>
+        <link href="https://www.semafor.com/article/08/11/2026/big-tech-meets-milton-friedman"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: How would you market this service?]]></title>
-        <id>https://news.ycombinator.com/item?id=49316403</id>
-        <link href="https://news.ycombinator.com/item?id=49316403"/>
+        <title type="html"><![CDATA[Positive Mindset, Prepare for the Worst]]></title>
+        <id>https://domenkozar.com/2026/08/15/positive-mindset-prepare-for-the-worst/</id>
+        <link href="https://domenkozar.com/2026/08/15/positive-mindset-prepare-for-the-worst/"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data Center Fornicator [video]]]></title>
-        <id>https://www.youtube.com/watch?v=rkbcuajiPJA</id>
-        <link href="https://www.youtube.com/watch?v=rkbcuajiPJA"/>
+        <title type="html"><![CDATA[Taking Java from small to big with JBang]]></title>
+        <id>https://sombriks.com.br/blog/0095-java-small-to-big-with-jbang/</id>
+        <link href="https://sombriks.com.br/blog/0095-java-small-to-big-with-jbang/"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Widen, a native Postgres GUI using Apple's on-device LLM]]></title>
-        <id>https://github.com/betocmn/widen</id>
-        <link href="https://github.com/betocmn/widen"/>
+        <title type="html"><![CDATA[Omarchy Quattro by DHH Released [video]]]></title>
+        <id>https://www.youtube.com/watch?v=F7fe9pa8OeE</id>
+        <link href="https://www.youtube.com/watch?v=F7fe9pa8OeE"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I'm getting into house cleaning. What should I know?]]></title>
-        <id>https://refinedservicesgroup.com</id>
-        <link href="https://refinedservicesgroup.com"/>
+        <title type="html"><![CDATA[Destroying My Homelab with Kubernetes – Linux Society UNSW 2026 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=U-xqxMQD2QE</id>
+        <link href="https://www.youtube.com/watch?v=U-xqxMQD2QE"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rewriting in Rust]]></title>
-        <id>https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/</id>
-        <link href="https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/"/>
+        <title type="html"><![CDATA[Guiding Ships with Moire Patterns]]></title>
+        <id>https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/</id>
+        <link href="https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Techflare – Chrome extension to see if a website uses Cloudflare]]></title>
-        <id>https://chromewebstore.google.com/detail/techflare/lbbkmioghlgfnbkciibfglcopkncdfpg</id>
-        <link href="https://chromewebstore.google.com/detail/techflare/lbbkmioghlgfnbkciibfglcopkncdfpg"/>
-        <updated>2026-08-15T16:00:00.000Z</updated>
-        <published>2026-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alibaba AI Models Hit 3B Downloads, Passing Meta, Google]]></title>
-        <id>https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html</id>
-        <link href="https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html"/>
-        <updated>2026-08-15T16:00:00.000Z</updated>
-        <published>2026-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artin-Schreier Theorem [pdf]]]></title>
-        <id>https://kconrad.math.uconn.edu/blurbs/galoistheory/artinschreier.pdf</id>
-        <link href="https://kconrad.math.uconn.edu/blurbs/galoistheory/artinschreier.pdf"/>
-        <updated>2026-08-15T16:00:00.000Z</updated>
-        <published>2026-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Confuse Some SSH Bots]]></title>
-        <id>https://nochan.net/b/Internet-Crap/20260108-Confuse-Some-SSH-Bots/</id>
-        <link href="https://nochan.net/b/Internet-Crap/20260108-Confuse-Some-SSH-Bots/"/>
-        <updated>2026-08-15T16:00:00.000Z</updated>
-        <published>2026-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book Review: The Escape Artist]]></title>
-        <id>https://www.astralcodexten.com/p/your-book-review-the-escape-artist</id>
-        <link href="https://www.astralcodexten.com/p/your-book-review-the-escape-artist"/>
-        <updated>2026-08-15T16:00:00.000Z</updated>
-        <published>2026-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI agents need verified identity]]></title>
-        <id>https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/</id>
-        <link href="https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/"/>
-        <updated>2026-08-15T16:00:00.000Z</updated>
-        <published>2026-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Signal Processing Pioneer Bede Liu Dies at 91]]></title>
-        <id>https://spectrum.ieee.org/digital-signal-processing</id>
-        <link href="https://spectrum.ieee.org/digital-signal-processing"/>
-        <updated>2026-08-15T16:00:00.000Z</updated>
-        <published>2026-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calorie tracker for my Garmin watch]]></title>
-        <id>https://ashu1461.com/posts/a-calorie-tracker-on-my-garmin-watch/</id>
-        <link href="https://ashu1461.com/posts/a-calorie-tracker-on-my-garmin-watch/"/>
-        <updated>2026-08-15T16:00:00.000Z</updated>
-        <published>2026-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I built a native app for coding agents with Rust and GPUI]]></title>
-        <id>https://waku.sh</id>
-        <link href="https://waku.sh"/>
-        <updated>2026-08-15T16:00:00.000Z</updated>
-        <published>2026-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dots3-Note Preview]]></title>
-        <id>https://huggingface.co/dots-studio/dots3-note-prev</id>
-        <link href="https://huggingface.co/dots-studio/dots3-note-prev"/>
+        <title type="html"><![CDATA[TrueStar – AI moderated expert interviews and multi-agent deep research]]></title>
+        <id>https://truestar.tech</id>
+        <link href="https://truestar.tech"/>
         <updated>2026-08-15T16:00:00.000Z</updated>
         <published>2026-08-15T16:00:00.000Z</published>
     </entry>
