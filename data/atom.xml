@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-19T02:01:53.888Z</updated>
+    <updated>2026-08-19T04:01:48.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -211,6 +211,41 @@
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stop Your AI Agent Repeating the Same Mistake: Reviewed Skills with lessonweaver]]></title>
+        <id>https://pub.towardsai.net/stop-your-ai-agent-repeating-the-same-mistake-reviewed-skills-with-lessonweaver-6ec6a8a4aef9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/stop-your-ai-agent-repeating-the-same-mistake-reviewed-skills-with-lessonweaver-6ec6a8a4aef9?source=rss----98111c9905da---4"/>
+        <updated>2026-08-18T16:00:00.000Z</updated>
+        <published>2026-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Transformer from Scratch]]></title>
+        <id>https://pub.towardsai.net/creating-a-transformer-from-scratch-3e3455e61713?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/creating-a-transformer-from-scratch-3e3455e61713?source=rss----98111c9905da---4"/>
+        <updated>2026-08-18T16:00:00.000Z</updated>
+        <published>2026-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why My Vibecoded Server Went Down: A Postmortem]]></title>
+        <id>https://pub.towardsai.net/why-my-vibecoded-server-went-down-a-postmortem-5e5be97f44cd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-my-vibecoded-server-went-down-a-postmortem-5e5be97f44cd?source=rss----98111c9905da---4"/>
+        <updated>2026-08-18T16:00:00.000Z</updated>
+        <published>2026-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic RAG in Production: Building Self-Reasoning AI Retrieval Systems for Enterprise Banking]]></title>
+        <id>https://pub.towardsai.net/agentic-rag-in-production-building-self-reasoning-ai-retrieval-systems-for-enterprise-banking-f876d3070957?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/agentic-rag-in-production-building-self-reasoning-ai-retrieval-systems-for-enterprise-banking-f876d3070957?source=rss----98111c9905da---4"/>
+        <updated>2026-08-18T16:00:00.000Z</updated>
+        <published>2026-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Context Windows vs Tokens vs Memory: The Unified Hands-On Guide (Save 1250x on LLM Costs)]]></title>
+        <id>https://pub.towardsai.net/context-windows-vs-tokens-vs-memory-the-unified-hands-on-guide-save-1250x-on-llm-costs-7053fa55e9dd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/context-windows-vs-tokens-vs-memory-the-unified-hands-on-guide-save-1250x-on-llm-costs-7053fa55e9dd?source=rss----98111c9905da---4"/>
+        <updated>2026-08-18T16:00:00.000Z</updated>
+        <published>2026-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apache Kafka: The Complete Guide from Zero to Production]]></title>
         <id>https://pub.towardsai.net/apache-kafka-complete-guide-80d4fc20709d?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/apache-kafka-complete-guide-80d4fc20709d?source=rss----98111c9905da---4"/>
@@ -218,150 +253,115 @@
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a CAD-Style Layout Editor on Top of Extracted HTML]]></title>
-        <id>https://dev.to/bonzai2carn/how-to-build-a-cad-style-layout-editor-on-top-of-extracted-html-4ihd</id>
-        <link href="https://dev.to/bonzai2carn/how-to-build-a-cad-style-layout-editor-on-top-of-extracted-html-4ihd"/>
+        <title type="html"><![CDATA[Data-DPO: Direct Preference Optimization for Target Model Data Selection in LLM Post-Training]]></title>
+        <id>https://arxiv.org/abs/2608.16926</id>
+        <link href="https://arxiv.org/abs/2608.16926"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How 500 Concurrent HN Connections Took Down Peakd.io - and How I Rebuilt the Infrastructure]]></title>
-        <id>https://dev.to/peakd/how-500-concurrent-hn-connections-took-down-peakd-and-how-i-rebuilt-the-infrastructure-4537</id>
-        <link href="https://dev.to/peakd/how-500-concurrent-hn-connections-took-down-peakd-and-how-i-rebuilt-the-infrastructure-4537"/>
+        <title type="html"><![CDATA[Hierarchical Data Selection via Manifold Coverage and Sparse Feature Coverage in LLM Post-training]]></title>
+        <id>https://arxiv.org/abs/2608.16927</id>
+        <link href="https://arxiv.org/abs/2608.16927"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js 16.3's Memory Claim Didn't Hold Up on My App. Its TypeScript Claim Cut My Build by Two Thirds.]]></title>
-        <id>https://dev.to/pfgiiu/nextjs-163s-memory-claim-didnt-hold-up-on-my-app-its-typescript-claim-cut-my-build-by-two-30om</id>
-        <link href="https://dev.to/pfgiiu/nextjs-163s-memory-claim-didnt-hold-up-on-my-app-its-typescript-claim-cut-my-build-by-two-30om"/>
+        <title type="html"><![CDATA[Benchmarking Classical and Transformer-Based Models for Document Sensitivity Classification]]></title>
+        <id>https://arxiv.org/abs/2608.16928</id>
+        <link href="https://arxiv.org/abs/2608.16928"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where Did My 512GB Go? How Developers Lose 50GB+ to Node, Docker & macOS Build Artifacts]]></title>
-        <id>https://dev.to/sarmad_hussain_771d6c87fa/where-did-my-512gb-go-how-developers-lose-50gb-to-node-docker-macos-build-artifacts-6m5</id>
-        <link href="https://dev.to/sarmad_hussain_771d6c87fa/where-did-my-512gb-go-how-developers-lose-50gb-to-node-docker-macos-build-artifacts-6m5"/>
+        <title type="html"><![CDATA[Mr.Dec: Daily-Scale Longitudinal Multimodal Modeling for 30-Day Readmission Prediction]]></title>
+        <id>https://arxiv.org/abs/2608.16929</id>
+        <link href="https://arxiv.org/abs/2608.16929"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 Places to Buy Old Gmail Accounts - Complete Guide in ...]]></title>
-        <id>https://dev.to/courtneythornton1r91j/10-places-to-buy-old-gmail-accounts-complete-guide-in--4p55</id>
-        <link href="https://dev.to/courtneythornton1r91j/10-places-to-buy-old-gmail-accounts-complete-guide-in--4p55"/>
+        <title type="html"><![CDATA[SW-ProxyCE: Zero-Query Adversarial Transfer from Public EEG Encoders to Private Downstream Models]]></title>
+        <id>https://arxiv.org/abs/2608.16931</id>
+        <link href="https://arxiv.org/abs/2608.16931"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Construí 17 calculadoras sin una sola dependencia de JavaScript en el cliente]]></title>
-        <id>https://dev.to/dhlincoln/construi-17-calculadoras-sin-una-sola-dependencia-de-javascript-en-el-cliente-47jf</id>
-        <link href="https://dev.to/dhlincoln/construi-17-calculadoras-sin-una-sola-dependencia-de-javascript-en-el-cliente-47jf"/>
+        <title type="html"><![CDATA[DOW-KE: Anchor-Free Multi-Layer Knowledge Editing via Direct End-to-End Weight Optimization]]></title>
+        <id>https://arxiv.org/abs/2608.16932</id>
+        <link href="https://arxiv.org/abs/2608.16932"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The HTML canvas quietly deletes your photo's metadata — and one day that bites you]]></title>
-        <id>https://dev.to/bellsal_b44bf6d/the-html-canvas-quietly-deletes-your-photos-metadata-and-one-day-that-bites-you-2h68</id>
-        <link href="https://dev.to/bellsal_b44bf6d/the-html-canvas-quietly-deletes-your-photos-metadata-and-one-day-that-bites-you-2h68"/>
+        <title type="html"><![CDATA[Study-Strategy Clusters from EdNet Logs Track Engagement, Not Mastery]]></title>
+        <id>https://arxiv.org/abs/2608.16963</id>
+        <link href="https://arxiv.org/abs/2608.16963"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orchestrating Frame-by-Frame Video Generation Jobs with Node.js and TypeScript]]></title>
-        <id>https://dev.to/programmingcentral/orchestrating-frame-by-frame-video-generation-jobs-with-nodejs-and-typescript-1ho4</id>
-        <link href="https://dev.to/programmingcentral/orchestrating-frame-by-frame-video-generation-jobs-with-nodejs-and-typescript-1ho4"/>
+        <title type="html"><![CDATA[RoBell-RVFL: A Robust Generalized Bell Random Vector Functional Link Network]]></title>
+        <id>https://arxiv.org/abs/2608.16965</id>
+        <link href="https://arxiv.org/abs/2608.16965"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a 680-Tool Website with Astro and Got 22K Pages Indexed]]></title>
-        <id>https://dev.to/gavin0x0/how-i-built-a-680-tool-website-with-astro-and-got-22k-pages-indexed-2b46</id>
-        <link href="https://dev.to/gavin0x0/how-i-built-a-680-tool-website-with-astro-and-got-22k-pages-indexed-2b46"/>
+        <title type="html"><![CDATA[Position: Fairness Failure in Generative Models is an Evaluation Problem]]></title>
+        <id>https://arxiv.org/abs/2608.16974</id>
+        <link href="https://arxiv.org/abs/2608.16974"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buy Twitter Accounts - A Complete Guide 2026/6 Top Sites]]></title>
-        <id>https://dev.to/livviegentry8d3l2/buy-twitter-accounts-a-complete-guide-20266-top-sites-38l8</id>
-        <link href="https://dev.to/livviegentry8d3l2/buy-twitter-accounts-a-complete-guide-20266-top-sites-38l8"/>
+        <title type="html"><![CDATA[Agents unlock new capabilities through Switching LoRA Adapters as a Tool (SLAaaT)]]></title>
+        <id>https://arxiv.org/abs/2608.17034</id>
+        <link href="https://arxiv.org/abs/2608.17034"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 4.5 Sites Guide to Buying Old Twitter Accounts]]></title>
-        <id>https://dev.to/courtneythornton1r91j/the-45-sites-guide-to-buying-old-twitter-accounts-2jcn</id>
-        <link href="https://dev.to/courtneythornton1r91j/the-45-sites-guide-to-buying-old-twitter-accounts-2jcn"/>
+        <title type="html"><![CDATA[J-Miner: Recovering Executable Decision Knowledge from Language-Model Classifiers]]></title>
+        <id>https://arxiv.org/abs/2608.17063</id>
+        <link href="https://arxiv.org/abs/2608.17063"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Place Guide to Buy Old Twitter Accounts iIn USA]]></title>
-        <id>https://dev.to/courtneythornton1r91j/top-10-place-guide-to-buy-old-twitter-accounts-iin-usa-5400</id>
-        <link href="https://dev.to/courtneythornton1r91j/top-10-place-guide-to-buy-old-twitter-accounts-iin-usa-5400"/>
+        <title type="html"><![CDATA[Certified but Private: Scalable Zero-Knowledge Proofs for Neural Network Guarantees]]></title>
+        <id>https://arxiv.org/abs/2608.17070</id>
+        <link href="https://arxiv.org/abs/2608.17070"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenCut: The Open-Source CapCut Alternative That Just Hit 84,000 GitHub Stars]]></title>
-        <id>https://dev.to/tekmag/opencut-the-open-source-capcut-alternative-that-just-hit-84000-github-stars-4cjb</id>
-        <link href="https://dev.to/tekmag/opencut-the-open-source-capcut-alternative-that-just-hit-84000-github-stars-4cjb"/>
+        <title type="html"><![CDATA[Dynamic Regime-Aware Conformal Calibration for Reliable Economic Forecast Intervals under Multiple Distribution Shifts]]></title>
+        <id>https://arxiv.org/abs/2608.17079</id>
+        <link href="https://arxiv.org/abs/2608.17079"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会]]></title>
-        <id>https://sspai.com/post/113564</id>
-        <link href="https://sspai.com/post/113564"/>
-        <updated>2026-08-17T16:00:00.000Z</updated>
-        <published>2026-08-17T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Deep Learning for Cross-Border Electricity Price Forecasting: A Comparative Study]]></title>
+        <id>https://arxiv.org/abs/2608.17091</id>
+        <link href="https://arxiv.org/abs/2608.17091"/>
+        <updated>2026-08-18T16:00:00.000Z</updated>
+        <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Verge Guide to Pets]]></title>
-        <id>https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale</id>
-        <link href="https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale"/>
-        <updated>2026-08-17T16:00:00.000Z</updated>
-        <published>2026-08-17T16:00:00.000Z</published>
+        <title type="html"><![CDATA[From Abductive Explanations to Global Logical Rules for Node Classification in SGCs]]></title>
+        <id>https://arxiv.org/abs/2608.17103</id>
+        <link href="https://arxiv.org/abs/2608.17103"/>
+        <updated>2026-08-18T16:00:00.000Z</updated>
+        <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT is getting a dedicated mode for teens]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"/>
-        <updated>2026-08-17T16:00:00.000Z</updated>
-        <published>2026-08-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit’s AI is turning posts into podcasts and short videos]]></title>
-        <id>https://www.theverge.com/tech/981289/reddit-ai-text-video-posts</id>
-        <link href="https://www.theverge.com/tech/981289/reddit-ai-text-video-posts"/>
-        <updated>2026-08-17T16:00:00.000Z</updated>
-        <published>2026-08-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump’s dumb border wall]]></title>
-        <id>https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit</id>
-        <link href="https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit"/>
-        <updated>2026-08-17T16:00:00.000Z</updated>
-        <published>2026-08-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonos finally added Live Activities controls for your iPhone lockscreen]]></title>
-        <id>https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities</id>
-        <link href="https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities"/>
-        <updated>2026-08-17T16:00:00.000Z</updated>
-        <published>2026-08-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Analogue Pocket gets a Supreme makeover in red or gold]]></title>
-        <id>https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection</id>
-        <link href="https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection"/>
-        <updated>2026-08-17T16:00:00.000Z</updated>
-        <published>2026-08-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube is changing how it counts views to give the numbers a boost]]></title>
-        <id>https://www.theverge.com/streaming/981105/youtube-video-view-counting-update</id>
-        <link href="https://www.theverge.com/streaming/981105/youtube-video-view-counting-update"/>
-        <updated>2026-08-17T16:00:00.000Z</updated>
-        <published>2026-08-17T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Iterative tensor network transformations for element-wise evaluation of elementary and filtering functions]]></title>
+        <id>https://arxiv.org/abs/2608.17135</id>
+        <link href="https://arxiv.org/abs/2608.17135"/>
+        <updated>2026-08-18T16:00:00.000Z</updated>
+        <published>2026-08-18T16:00:00.000Z</published>
     </entry>
 </feed>
