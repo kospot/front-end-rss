@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-19T04:01:48.334Z</updated>
+    <updated>2026-08-19T07:02:03.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -211,30 +211,23 @@
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Your AI Agent Repeating the Same Mistake: Reviewed Skills with lessonweaver]]></title>
-        <id>https://pub.towardsai.net/stop-your-ai-agent-repeating-the-same-mistake-reviewed-skills-with-lessonweaver-6ec6a8a4aef9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/stop-your-ai-agent-repeating-the-same-mistake-reviewed-skills-with-lessonweaver-6ec6a8a4aef9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Claude Code Runs the Real Ponytail. Cursor and 11 Others Settle for 2,593 Bytes.]]></title>
+        <id>https://pub.towardsai.net/claude-code-runs-the-real-ponytail-cursor-and-11-others-settle-for-2-593-bytes-df5da362a26a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-code-runs-the-real-ponytail-cursor-and-11-others-settle-for-2-593-bytes-df5da362a26a?source=rss----98111c9905da---4"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating a Transformer from Scratch]]></title>
-        <id>https://pub.towardsai.net/creating-a-transformer-from-scratch-3e3455e61713?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/creating-a-transformer-from-scratch-3e3455e61713?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[What If an AI Agent Was Just a Python Class?]]></title>
+        <id>https://pub.towardsai.net/what-if-an-ai-agent-was-just-a-python-class-68524d09e797?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-if-an-ai-agent-was-just-a-python-class-68524d09e797?source=rss----98111c9905da---4"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why My Vibecoded Server Went Down: A Postmortem]]></title>
-        <id>https://pub.towardsai.net/why-my-vibecoded-server-went-down-a-postmortem-5e5be97f44cd?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-my-vibecoded-server-went-down-a-postmortem-5e5be97f44cd?source=rss----98111c9905da---4"/>
-        <updated>2026-08-18T16:00:00.000Z</updated>
-        <published>2026-08-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic RAG in Production: Building Self-Reasoning AI Retrieval Systems for Enterprise Banking]]></title>
-        <id>https://pub.towardsai.net/agentic-rag-in-production-building-self-reasoning-ai-retrieval-systems-for-enterprise-banking-f876d3070957?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/agentic-rag-in-production-building-self-reasoning-ai-retrieval-systems-for-enterprise-banking-f876d3070957?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Apache Kafka: The Complete Guide from Zero to Production]]></title>
+        <id>https://pub.towardsai.net/apache-kafka-complete-guide-80d4fc20709d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/apache-kafka-complete-guide-80d4fc20709d?source=rss----98111c9905da---4"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
@@ -246,9 +239,30 @@
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apache Kafka: The Complete Guide from Zero to Production]]></title>
-        <id>https://pub.towardsai.net/apache-kafka-complete-guide-80d4fc20709d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/apache-kafka-complete-guide-80d4fc20709d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Agentic RAG in Production: Building Self-Reasoning AI Retrieval Systems for Enterprise Banking]]></title>
+        <id>https://pub.towardsai.net/agentic-rag-in-production-building-self-reasoning-ai-retrieval-systems-for-enterprise-banking-f876d3070957?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/agentic-rag-in-production-building-self-reasoning-ai-retrieval-systems-for-enterprise-banking-f876d3070957?source=rss----98111c9905da---4"/>
+        <updated>2026-08-18T16:00:00.000Z</updated>
+        <published>2026-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why My Vibecoded Server Went Down: A Postmortem]]></title>
+        <id>https://pub.towardsai.net/why-my-vibecoded-server-went-down-a-postmortem-5e5be97f44cd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-my-vibecoded-server-went-down-a-postmortem-5e5be97f44cd?source=rss----98111c9905da---4"/>
+        <updated>2026-08-18T16:00:00.000Z</updated>
+        <published>2026-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Transformer from Scratch]]></title>
+        <id>https://pub.towardsai.net/creating-a-transformer-from-scratch-3e3455e61713?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/creating-a-transformer-from-scratch-3e3455e61713?source=rss----98111c9905da---4"/>
+        <updated>2026-08-18T16:00:00.000Z</updated>
+        <published>2026-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Your AI Agent Repeating the Same Mistake: Reviewed Skills with lessonweaver]]></title>
+        <id>https://pub.towardsai.net/stop-your-ai-agent-repeating-the-same-mistake-reviewed-skills-with-lessonweaver-6ec6a8a4aef9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/stop-your-ai-agent-repeating-the-same-mistake-reviewed-skills-with-lessonweaver-6ec6a8a4aef9?source=rss----98111c9905da---4"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Deep Learning for Cross-Border Electricity Price Forecasting: A Comparative Study]]></title>
         <id>https://arxiv.org/abs/2608.17091</id>
         <link href="https://arxiv.org/abs/2608.17091"/>
-        <updated>2026-08-18T16:00:00.000Z</updated>
-        <published>2026-08-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Abductive Explanations to Global Logical Rules for Node Classification in SGCs]]></title>
-        <id>https://arxiv.org/abs/2608.17103</id>
-        <link href="https://arxiv.org/abs/2608.17103"/>
-        <updated>2026-08-18T16:00:00.000Z</updated>
-        <published>2026-08-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iterative tensor network transformations for element-wise evaluation of elementary and filtering functions]]></title>
-        <id>https://arxiv.org/abs/2608.17135</id>
-        <link href="https://arxiv.org/abs/2608.17135"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
