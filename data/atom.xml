@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-20T10:02:46.129Z</updated>
+    <updated>2026-08-20T13:03:17.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,58 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries]]></title>
-        <id>https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries</id>
-        <link href="https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG’s new OLED breakthrough can boost display lifespans]]></title>
-        <id>https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology</id>
-        <link href="https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nielsen is leaning more on wearables to hear what people are watching]]></title>
-        <id>https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data</id>
-        <link href="https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Gemini is getting a dedicated student hub]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Valve set up the Steam Frame in its own leaked videos]]></title>
-        <id>https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos</id>
-        <link href="https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTA VI keeps leaking ahead of its gameplay premiere]]></title>
-        <id>https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos</id>
-        <link href="https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta AI is getting a Mac app]]></title>
-        <id>https://www.theverge.com/tech/982270/meta-ai-mac-app</id>
-        <link href="https://www.theverge.com/tech/982270/meta-ai-mac-app"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We reviewed the new Pixel lineup, ask us anything]]></title>
-        <id>https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama</id>
-        <link href="https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama"/>
+        <title type="html"><![CDATA[Meta glasses are a workplace menace]]></title>
+        <id>https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security</id>
+        <link href="https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -78,9 +29,79 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade]]></title>
-        <id>https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/</id>
-        <link href="https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/"/>
+        <title type="html"><![CDATA[We reviewed the new Pixel lineup, ask us anything]]></title>
+        <id>https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama</id>
+        <link href="https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta AI is getting a Mac app]]></title>
+        <id>https://www.theverge.com/tech/982270/meta-ai-mac-app</id>
+        <link href="https://www.theverge.com/tech/982270/meta-ai-mac-app"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA VI keeps leaking ahead of its gameplay premiere]]></title>
+        <id>https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos</id>
+        <link href="https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Valve set up the Steam Frame in its own leaked videos]]></title>
+        <id>https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos</id>
+        <link href="https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Gemini is getting a dedicated student hub]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nielsen is leaning more on wearables to hear what people are watching]]></title>
+        <id>https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data</id>
+        <link href="https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG’s new OLED breakthrough can boost display lifespans]]></title>
+        <id>https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology</id>
+        <link href="https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries]]></title>
+        <id>https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries</id>
+        <link href="https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poolease X1 Pool Robot Review: How Bad Can It Be?]]></title>
+        <id>https://www.wired.com/review/poolease-x1-pool-robot/</id>
+        <link href="https://www.wired.com/review/poolease-x1-pool-robot/"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead]]></title>
+        <id>https://www.wired.com/story/bumble-women-first-rule-change/</id>
+        <link href="https://www.wired.com/story/bumble-women-first-rule-change/"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TurboTax Full Service Coupons This August]]></title>
+        <id>https://www.wired.com/story/turbotax-coupon/</id>
+        <link href="https://www.wired.com/story/turbotax-coupon/"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -92,9 +113,9 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TurboTax Full Service Coupons This August]]></title>
-        <id>https://www.wired.com/story/turbotax-coupon/</id>
-        <link href="https://www.wired.com/story/turbotax-coupon/"/>
+        <title type="html"><![CDATA[Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade]]></title>
+        <id>https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/</id>
+        <link href="https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -302,51 +323,16 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Now Writes 46% of New Code on GitHub. Nearly Half of It Fails Security Tests.]]></title>
-        <id>https://pub.towardsai.net/ai-now-writes-46-of-new-code-on-github-nearly-half-of-it-fails-security-tests-f5a5755b4f27?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ai-now-writes-46-of-new-code-on-github-nearly-half-of-it-fails-security-tests-f5a5755b4f27?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why Vector Databases Leak Privileged Legal Data: Architecting Identity-Bound Pre-Retrieval Filters…]]></title>
+        <id>https://pub.towardsai.net/why-vector-databases-leak-privileged-legal-data-architecting-identity-bound-pre-retrieval-filters-c966b930ea64?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-vector-databases-leak-privileged-legal-data-architecting-identity-bound-pre-retrieval-filters-c966b930ea64?source=rss----98111c9905da---4"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grok Bot vs Hermes Agent: Which “Always-On” AI Worker Should You Trust?]]></title>
-        <id>https://pub.towardsai.net/grok-bot-vs-hermes-agent-which-always-on-ai-worker-should-you-trust-eb6d48f056ec?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/grok-bot-vs-hermes-agent-which-always-on-ai-worker-should-you-trust-eb6d48f056ec?source=rss----98111c9905da---4"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Retrieval Augmented Generation (RAG): The Complete End-to-End Guide]]></title>
-        <id>https://pub.towardsai.net/mastering-retrieval-augmented-generation-rag-the-complete-end-to-end-guide-754248a787eb?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/mastering-retrieval-augmented-generation-rag-the-complete-end-to-end-guide-754248a787eb?source=rss----98111c9905da---4"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Agent Has No Data Lineage. That Is Why It Lies to You.]]></title>
-        <id>https://pub.towardsai.net/your-agent-has-no-data-lineage-that-is-why-it-lies-to-you-419fe34795fa?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-agent-has-no-data-lineage-that-is-why-it-lies-to-you-419fe34795fa?source=rss----98111c9905da---4"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Powerful LLM Knowledge Base]]></title>
-        <id>https://pub.towardsai.net/how-to-build-a-powerful-llm-knowledge-base-5d5d553f0e4a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-build-a-powerful-llm-knowledge-base-5d5d553f0e4a?source=rss----98111c9905da---4"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intent-Based UX: The New Enterprise Advantage for AI Design]]></title>
-        <id>https://pub.towardsai.net/intent-based-ux-the-new-enterprise-advantage-for-ai-design-1b51aa3a7765?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/intent-based-ux-the-new-enterprise-advantage-for-ai-design-1b51aa3a7765?source=rss----98111c9905da---4"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code: Auto Mode Is Now the Default. The Classifier Is Not a Policy.]]></title>
-        <id>https://pub.towardsai.net/claude-code-auto-mode-is-now-the-default-the-classifier-is-not-a-policy-585442b2fe24?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-code-auto-mode-is-now-the-default-the-classifier-is-not-a-policy-585442b2fe24?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How Uno Platform Turns AI Agents Into Trustworthy Cross-Platform .NET Developers]]></title>
+        <id>https://pub.towardsai.net/how-uno-platform-turns-ai-agents-into-trustworthy-cross-platform-net-developers-7a038cdc1bf7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-uno-platform-turns-ai-agents-into-trustworthy-cross-platform-net-developers-7a038cdc1bf7?source=rss----98111c9905da---4"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -358,9 +344,23 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Uno Platform Turns AI Agents Into Trustworthy Cross-Platform .NET Developers]]></title>
-        <id>https://pub.towardsai.net/how-uno-platform-turns-ai-agents-into-trustworthy-cross-platform-net-developers-7a038cdc1bf7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-uno-platform-turns-ai-agents-into-trustworthy-cross-platform-net-developers-7a038cdc1bf7?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Claude Code: Auto Mode Is Now the Default. The Classifier Is Not a Policy.]]></title>
+        <id>https://pub.towardsai.net/claude-code-auto-mode-is-now-the-default-the-classifier-is-not-a-policy-585442b2fe24?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-code-auto-mode-is-now-the-default-the-classifier-is-not-a-policy-585442b2fe24?source=rss----98111c9905da---4"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intent-Based UX: The New Enterprise Advantage for AI Design]]></title>
+        <id>https://pub.towardsai.net/intent-based-ux-the-new-enterprise-advantage-for-ai-design-1b51aa3a7765?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/intent-based-ux-the-new-enterprise-advantage-for-ai-design-1b51aa3a7765?source=rss----98111c9905da---4"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Powerful LLM Knowledge Base]]></title>
+        <id>https://pub.towardsai.net/how-to-build-a-powerful-llm-knowledge-base-5d5d553f0e4a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-build-a-powerful-llm-knowledge-base-5d5d553f0e4a?source=rss----98111c9905da---4"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
