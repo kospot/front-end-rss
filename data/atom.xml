@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-19T22:00:54.215Z</updated>
+    <updated>2026-08-20T00:01:59.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,37 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Nielsen is leaning more on wearables to hear what people are watching]]></title>
-        <id>https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data</id>
-        <link href="https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Gemini is getting a dedicated student hub]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Valve set up the Steam Frame in its own leaked videos]]></title>
-        <id>https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos</id>
-        <link href="https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTA VI keeps leaking ahead of its gameplay premiere]]></title>
-        <id>https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos</id>
-        <link href="https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta AI is getting a Mac app]]></title>
-        <id>https://www.theverge.com/tech/982270/meta-ai-mac-app</id>
-        <link href="https://www.theverge.com/tech/982270/meta-ai-mac-app"/>
+        <title type="html"><![CDATA[The Pixel 11 Pro is a great phone, no thanks to its flashiest new features]]></title>
+        <id>https://www.theverge.com/tech/981713/google-pixel-11-pro-review</id>
+        <link href="https://www.theverge.com/tech/981713/google-pixel-11-pro-review"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -57,16 +29,37 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Pixel 11 Pro is a great phone, no thanks to its flashiest new features]]></title>
-        <id>https://www.theverge.com/tech/981713/google-pixel-11-pro-review</id>
-        <link href="https://www.theverge.com/tech/981713/google-pixel-11-pro-review"/>
+        <title type="html"><![CDATA[Meta AI is getting a Mac app]]></title>
+        <id>https://www.theverge.com/tech/982270/meta-ai-mac-app</id>
+        <link href="https://www.theverge.com/tech/982270/meta-ai-mac-app"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Pixel Watch 5 Review: More Health, More AI]]></title>
-        <id>https://www.wired.com/review/google-pixel-watch-5/</id>
-        <link href="https://www.wired.com/review/google-pixel-watch-5/"/>
+        <title type="html"><![CDATA[GTA VI keeps leaking ahead of its gameplay premiere]]></title>
+        <id>https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos</id>
+        <link href="https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Valve set up the Steam Frame in its own leaked videos]]></title>
+        <id>https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos</id>
+        <link href="https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Gemini is getting a dedicated student hub]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nielsen is leaning more on wearables to hear what people are watching]]></title>
+        <id>https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data</id>
+        <link href="https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -78,23 +71,23 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cognition CEO denies report that SpaceX tried to acquire the startup]]></title>
-        <id>https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/</id>
-        <link href="https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"/>
+        <title type="html"><![CDATA[Google Pixel Watch 5 Review: More Health, More AI]]></title>
+        <id>https://www.wired.com/review/google-pixel-watch-5/</id>
+        <link href="https://www.wired.com/review/google-pixel-watch-5/"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’]]></title>
-        <id>https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/</id>
-        <link href="https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/"/>
+        <title type="html"><![CDATA[Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities]]></title>
+        <id>https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/</id>
+        <link href="https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth]]></title>
-        <id>https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/</id>
-        <link href="https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/"/>
+        <title type="html"><![CDATA[Gambling on the Little League World Series? Sports bettors have gone too far]]></title>
+        <id>https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/</id>
+        <link href="https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -106,9 +99,23 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gambling on the Little League World Series? Sports bettors have gone too far]]></title>
-        <id>https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/</id>
-        <link href="https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/"/>
+        <title type="html"><![CDATA[Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth]]></title>
+        <id>https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/</id>
+        <link href="https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’]]></title>
+        <id>https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/</id>
+        <link href="https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cognition CEO denies report that SpaceX tried to acquire the startup]]></title>
+        <id>https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/</id>
+        <link href="https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -148,9 +155,9 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Retrieval Augmented Generation (RAG): The Complete End-to-End Guide]]></title>
-        <id>https://pub.towardsai.net/mastering-retrieval-augmented-generation-rag-the-complete-end-to-end-guide-754248a787eb?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/mastering-retrieval-augmented-generation-rag-the-complete-end-to-end-guide-754248a787eb?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How to Build a Powerful LLM Knowledge Base]]></title>
+        <id>https://pub.towardsai.net/how-to-build-a-powerful-llm-knowledge-base-5d5d553f0e4a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-build-a-powerful-llm-knowledge-base-5d5d553f0e4a?source=rss----98111c9905da---4"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -162,9 +169,16 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Powerful LLM Knowledge Base]]></title>
-        <id>https://pub.towardsai.net/how-to-build-a-powerful-llm-knowledge-base-5d5d553f0e4a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-build-a-powerful-llm-knowledge-base-5d5d553f0e4a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Mastering Retrieval Augmented Generation (RAG): The Complete End-to-End Guide]]></title>
+        <id>https://pub.towardsai.net/mastering-retrieval-augmented-generation-rag-the-complete-end-to-end-guide-754248a787eb?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/mastering-retrieval-augmented-generation-rag-the-complete-end-to-end-guide-754248a787eb?source=rss----98111c9905da---4"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[smolmachines / smolvm as a sandbox for untrusted Python & JavaScript]]></title>
+        <id>https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/</id>
+        <link href="https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -183,44 +197,44 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Safety Behavior Detector in 90 Lines of Vanilla JavaScript — No AI, No ML, No Behavioral Analysis API]]></title>
-        <id>https://dev.to/473185670/how-i-built-a-safety-behavior-detector-in-90-lines-of-vanilla-javascript-no-ai-no-ml-no-2om</id>
-        <link href="https://dev.to/473185670/how-i-built-a-safety-behavior-detector-in-90-lines-of-vanilla-javascript-no-ai-no-ml-no-2om"/>
+        <title type="html"><![CDATA[Runtime Versions: The Compatibility Boundary for React Native OTA Updates]]></title>
+        <id>https://dev.to/gfean/runtime-versions-the-compatibility-boundary-for-react-native-ota-updates-3p6a</id>
+        <link href="https://dev.to/gfean/runtime-versions-the-compatibility-boundary-for-react-native-ota-updates-3p6a"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Replaying real-time telemetry through a live rendering pipeline, without touching the components]]></title>
-        <id>https://dev.to/jaya_chapparam/replaying-real-time-telemetry-through-a-live-rendering-pipeline-without-touching-the-components-4g33</id>
-        <link href="https://dev.to/jaya_chapparam/replaying-real-time-telemetry-through-a-live-rendering-pipeline-without-touching-the-components-4g33"/>
+        <title type="html"><![CDATA[Async/Await: The Matrix of JavaScript — Patterns That Save You Hours]]></title>
+        <id>https://dev.to/timevolt/asyncawait-the-matrix-of-javascript-patterns-that-save-you-hours-5c6h</id>
+        <link href="https://dev.to/timevolt/asyncawait-the-matrix-of-javascript-patterns-that-save-you-hours-5c6h"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buy Verified PayPal Account: A 2026 Guide for Buyers]]></title>
-        <id>https://dev.to/paypalacc86/buy-verified-paypal-account-a-2026-guide-for-buyers-36kl</id>
-        <link href="https://dev.to/paypalacc86/buy-verified-paypal-account-a-2026-guide-for-buyers-36kl"/>
+        <title type="html"><![CDATA[DevSprint — JavaScript Quiz Mini-Game]]></title>
+        <id>https://dev.to/flabstech/devsprint-javascript-quiz-mini-game-3d4</id>
+        <link href="https://dev.to/flabstech/devsprint-javascript-quiz-mini-game-3d4"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[666 Best LinkedIn Account Sources in 2026: Verified, Aged, PVA & Bulk Guide]]></title>
-        <id>https://dev.to/ownseoit6447976/666-best-linkedin-account-sources-in-2026-verified-aged-pva-bulk-guide-18jc</id>
-        <link href="https://dev.to/ownseoit6447976/666-best-linkedin-account-sources-in-2026-verified-aged-pva-bulk-guide-18jc"/>
+        <title type="html"><![CDATA[Meta AI Có App Mac: Chia Sẻ Màn Hình Và Đọc Chính Tả]]></title>
+        <id>https://dev.to/bean_bean/meta-ai-co-app-mac-chia-se-man-hinh-va-doc-chinh-ta-3f8m</id>
+        <link href="https://dev.to/bean_bean/meta-ai-co-app-mac-chia-se-man-hinh-va-doc-chinh-ta-3f8m"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Core Belief Detector in 120 Lines of Vanilla JavaScript — No AI, No NLP, No Sentiment Analysis]]></title>
-        <id>https://dev.to/473185670/how-i-built-a-core-belief-detector-in-120-lines-of-vanilla-javascript-no-ai-no-nlp-no-sentiment-ng0</id>
-        <link href="https://dev.to/473185670/how-i-built-a-core-belief-detector-in-120-lines-of-vanilla-javascript-no-ai-no-nlp-no-sentiment-ng0"/>
+        <title type="html"><![CDATA[How I Built an Medical AI SaaS with React & Supabase... healthchain360.com]]></title>
+        <id>https://dev.to/aditya_jhajharia_3cb91eac/how-i-built-an-medical-ai-saas-with-react-supabase-healthchain360com-322</id>
+        <link href="https://dev.to/aditya_jhajharia_3cb91eac/how-i-built-an-medical-ai-saas-with-react-supabase-healthchain360com-322"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Level Up Your CP Game: Python Tricks Inspired by The Matrix]]></title>
-        <id>https://dev.to/timevolt/level-up-your-cp-game-python-tricks-inspired-by-the-matrix-2p2f</id>
-        <link href="https://dev.to/timevolt/level-up-your-cp-game-python-tricks-inspired-by-the-matrix-2p2f"/>
+        <title type="html"><![CDATA[How I Built an Offline-First Medical AI SaaS with React & Supabase... healthchain360.com]]></title>
+        <id>https://dev.to/aditya_jhajharia_3cb91eac/how-i-built-an-offline-first-medical-ai-saas-with-react-supabase-healthchain360com-c1n</id>
+        <link href="https://dev.to/aditya_jhajharia_3cb91eac/how-i-built-an-offline-first-medical-ai-saas-with-react-supabase-healthchain360com-c1n"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -232,44 +246,51 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Level Up Your CP Game: Python Tricks Inspired by The Matrix]]></title>
+        <id>https://dev.to/timevolt/level-up-your-cp-game-python-tricks-inspired-by-the-matrix-2p2f</id>
+        <link href="https://dev.to/timevolt/level-up-your-cp-game-python-tricks-inspired-by-the-matrix-2p2f"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Core Belief Detector in 120 Lines of Vanilla JavaScript — No AI, No NLP, No Sentiment Analysis]]></title>
+        <id>https://dev.to/473185670/how-i-built-a-core-belief-detector-in-120-lines-of-vanilla-javascript-no-ai-no-nlp-no-sentiment-ng0</id>
+        <link href="https://dev.to/473185670/how-i-built-a-core-belief-detector-in-120-lines-of-vanilla-javascript-no-ai-no-nlp-no-sentiment-ng0"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[666 Best LinkedIn Account Sources in 2026: Verified, Aged, PVA & Bulk Guide]]></title>
+        <id>https://dev.to/ownseoit6447976/666-best-linkedin-account-sources-in-2026-verified-aged-pva-bulk-guide-18jc</id>
+        <link href="https://dev.to/ownseoit6447976/666-best-linkedin-account-sources-in-2026-verified-aged-pva-bulk-guide-18jc"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Verified PayPal Account: A 2026 Guide for Buyers]]></title>
+        <id>https://dev.to/paypalacc86/buy-verified-paypal-account-a-2026-guide-for-buyers-36kl</id>
+        <link href="https://dev.to/paypalacc86/buy-verified-paypal-account-a-2026-guide-for-buyers-36kl"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replaying real-time telemetry through a live rendering pipeline, without touching the components]]></title>
+        <id>https://dev.to/jaya_chapparam/replaying-real-time-telemetry-through-a-live-rendering-pipeline-without-touching-the-components-4g33</id>
+        <link href="https://dev.to/jaya_chapparam/replaying-real-time-telemetry-through-a-live-rendering-pipeline-without-touching-the-components-4g33"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Safety Behavior Detector in 90 Lines of Vanilla JavaScript — No AI, No ML, No Behavioral Analysis API]]></title>
+        <id>https://dev.to/473185670/how-i-built-a-safety-behavior-detector-in-90-lines-of-vanilla-javascript-no-ai-no-ml-no-2om</id>
+        <link href="https://dev.to/473185670/how-i-built-a-safety-behavior-detector-in-90-lines-of-vanilla-javascript-no-ai-no-ml-no-2om"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了]]></title>
         <id>https://sspai.com/post/113588</id>
         <link href="https://sspai.com/post/113588"/>
-        <updated>2026-08-18T16:00:00.000Z</updated>
-        <published>2026-08-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon seemingly leaked Jason Statham’s entire Mutiny movie]]></title>
-        <id>https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak</id>
-        <link href="https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak"/>
-        <updated>2026-08-18T16:00:00.000Z</updated>
-        <published>2026-08-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon’s drones will soon deliver to nearly 500 US cities and towns]]></title>
-        <id>https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion</id>
-        <link href="https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion"/>
-        <updated>2026-08-18T16:00:00.000Z</updated>
-        <published>2026-08-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation&#8217;s wireless gaming speakers launch in November]]></title>
-        <id>https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder</id>
-        <link href="https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder"/>
-        <updated>2026-08-18T16:00:00.000Z</updated>
-        <published>2026-08-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteelSeries’ comfy wireless gaming headset is nearly half off]]></title>
-        <id>https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale"/>
-        <updated>2026-08-18T16:00:00.000Z</updated>
-        <published>2026-08-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This robot vacuum solves my kitchen stool problem]]></title>
-        <id>https://www.theverge.com/tech/981874/mova-v70-ultra-robot-vacuum-mop-arm-hands-on-review</id>
-        <link href="https://www.theverge.com/tech/981874/mova-v70-ultra-robot-vacuum-mop-arm-hands-on-review"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
@@ -281,30 +302,37 @@
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Digital Wall Calendar (2026): Skylight, Everblog, Apolosign]]></title>
-        <id>https://www.wired.com/story/are-digital-wall-calendars-worth-it/</id>
-        <link href="https://www.wired.com/story/are-digital-wall-calendars-worth-it/"/>
+        <title type="html"><![CDATA[This robot vacuum solves my kitchen stool problem]]></title>
+        <id>https://www.theverge.com/tech/981874/mova-v70-ultra-robot-vacuum-mop-arm-hands-on-review</id>
+        <link href="https://www.theverge.com/tech/981874/mova-v70-ultra-robot-vacuum-mop-arm-hands-on-review"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tried a Window-Cleaning Robot: Do Not Recommend]]></title>
-        <id>https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/</id>
-        <link href="https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/"/>
+        <title type="html"><![CDATA[SteelSeries’ comfy wireless gaming headset is nearly half off]]></title>
+        <id>https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dell XPS 13 vs. MacBook Neo: A Surprising Upset]]></title>
-        <id>https://www.wired.com/story/macbook-neo-vs-dell-xps-13/</id>
-        <link href="https://www.wired.com/story/macbook-neo-vs-dell-xps-13/"/>
+        <title type="html"><![CDATA[PlayStation&#8217;s wireless gaming speakers launch in November]]></title>
+        <id>https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder</id>
+        <link href="https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Squeeze More Juice Out of Your Dead Batteries—Using Physics]]></title>
-        <id>https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/</id>
-        <link href="https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/"/>
+        <title type="html"><![CDATA[Amazon’s drones will soon deliver to nearly 500 US cities and towns]]></title>
+        <id>https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion</id>
+        <link href="https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion"/>
+        <updated>2026-08-18T16:00:00.000Z</updated>
+        <published>2026-08-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon seemingly leaked Jason Statham’s entire Mutiny movie]]></title>
+        <id>https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak</id>
+        <link href="https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
@@ -316,51 +344,23 @@
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TerraPower’s nuclear reactor has a secret weapon for powering AI data centers]]></title>
-        <id>https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/</id>
-        <link href="https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/"/>
+        <title type="html"><![CDATA[Squeeze More Juice Out of Your Dead Batteries—Using Physics]]></title>
+        <id>https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/</id>
+        <link href="https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI isn’t close to curing cancer. This startup says it knows what it will take.]]></title>
-        <id>https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/</id>
-        <link href="https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/"/>
+        <title type="html"><![CDATA[Dell XPS 13 vs. MacBook Neo: A Surprising Upset]]></title>
+        <id>https://www.wired.com/story/macbook-neo-vs-dell-xps-13/</id>
+        <link href="https://www.wired.com/story/macbook-neo-vs-dell-xps-13/"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cursor capitalizes on GitHub frustration, launches rival hosting platform]]></title>
-        <id>https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/</id>
-        <link href="https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"/>
-        <updated>2026-08-18T16:00:00.000Z</updated>
-        <published>2026-08-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comcast adds motion sensing to millions of its newer routers, with a privacy catch]]></title>
-        <id>https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/</id>
-        <link href="https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/"/>
-        <updated>2026-08-18T16:00:00.000Z</updated>
-        <published>2026-08-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relativity Networks raises $22 million to bring a faster kind of fiber to data centers]]></title>
-        <id>https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/</id>
-        <link href="https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"/>
-        <updated>2026-08-18T16:00:00.000Z</updated>
-        <published>2026-08-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CareCloud confirms 3.7M patients had their medical records stolen in data breach]]></title>
-        <id>https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/</id>
-        <link href="https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/"/>
-        <updated>2026-08-18T16:00:00.000Z</updated>
-        <published>2026-08-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home batteries are suddenly cheap and everywhere. Here’s why.]]></title>
-        <id>https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/</id>
-        <link href="https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/"/>
+        <title type="html"><![CDATA[I Tried a Window-Cleaning Robot: Do Not Recommend]]></title>
+        <id>https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/</id>
+        <link href="https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/"/>
         <updated>2026-08-18T16:00:00.000Z</updated>
         <published>2026-08-18T16:00:00.000Z</published>
     </entry>
