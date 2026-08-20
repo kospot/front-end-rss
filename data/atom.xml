@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-20T04:01:26.894Z</updated>
+    <updated>2026-08-20T07:03:43.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,9 +64,9 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade]]></title>
-        <id>https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/</id>
-        <link href="https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/"/>
+        <title type="html"><![CDATA[TurboTax Full Service Coupons This August]]></title>
+        <id>https://www.wired.com/story/turbotax-coupon/</id>
+        <link href="https://www.wired.com/story/turbotax-coupon/"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -74,6 +74,13 @@
         <title type="html"><![CDATA[Google Pixel Watch 5 Review: More Health, More AI]]></title>
         <id>https://www.wired.com/review/google-pixel-watch-5/</id>
         <link href="https://www.wired.com/review/google-pixel-watch-5/"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade]]></title>
+        <id>https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/</id>
+        <link href="https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -232,44 +239,16 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Uno Platform Turns AI Agents Into Trustworthy Cross-Platform .NET Developers]]></title>
-        <id>https://pub.towardsai.net/how-uno-platform-turns-ai-agents-into-trustworthy-cross-platform-net-developers-7a038cdc1bf7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-uno-platform-turns-ai-agents-into-trustworthy-cross-platform-net-developers-7a038cdc1bf7?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[AI Now Writes 46% of New Code on GitHub. Nearly Half of It Fails Security Tests.]]></title>
+        <id>https://pub.towardsai.net/ai-now-writes-46-of-new-code-on-github-nearly-half-of-it-fails-security-tests-f5a5755b4f27?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-now-writes-46-of-new-code-on-github-nearly-half-of-it-fails-security-tests-f5a5755b4f27?source=rss----98111c9905da---4"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeepSeek Harness Makes a Serious Promise. I Would Audit It Before Letting It Touch a Repository]]></title>
-        <id>https://pub.towardsai.net/deepseek-harness-makes-a-serious-promise-i-would-audit-it-before-letting-it-touch-a-repository-dd433c0a98cb?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/deepseek-harness-makes-a-serious-promise-i-would-audit-it-before-letting-it-touch-a-repository-dd433c0a98cb?source=rss----98111c9905da---4"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code: Auto Mode Is Now the Default. The Classifier Is Not a Policy.]]></title>
-        <id>https://pub.towardsai.net/claude-code-auto-mode-is-now-the-default-the-classifier-is-not-a-policy-585442b2fe24?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-code-auto-mode-is-now-the-default-the-classifier-is-not-a-policy-585442b2fe24?source=rss----98111c9905da---4"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intent-Based UX: The New Enterprise Advantage for AI Design]]></title>
-        <id>https://pub.towardsai.net/intent-based-ux-the-new-enterprise-advantage-for-ai-design-1b51aa3a7765?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/intent-based-ux-the-new-enterprise-advantage-for-ai-design-1b51aa3a7765?source=rss----98111c9905da---4"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Powerful LLM Knowledge Base]]></title>
-        <id>https://pub.towardsai.net/how-to-build-a-powerful-llm-knowledge-base-5d5d553f0e4a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-build-a-powerful-llm-knowledge-base-5d5d553f0e4a?source=rss----98111c9905da---4"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Agent Has No Data Lineage. That Is Why It Lies to You.]]></title>
-        <id>https://pub.towardsai.net/your-agent-has-no-data-lineage-that-is-why-it-lies-to-you-419fe34795fa?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-agent-has-no-data-lineage-that-is-why-it-lies-to-you-419fe34795fa?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Grok Bot vs Hermes Agent: Which “Always-On” AI Worker Should You Trust?]]></title>
+        <id>https://pub.towardsai.net/grok-bot-vs-hermes-agent-which-always-on-ai-worker-should-you-trust-eb6d48f056ec?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/grok-bot-vs-hermes-agent-which-always-on-ai-worker-should-you-trust-eb6d48f056ec?source=rss----98111c9905da---4"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -281,9 +260,44 @@
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grok Bot vs Hermes Agent: Which “Always-On” AI Worker Should You Trust?]]></title>
-        <id>https://pub.towardsai.net/grok-bot-vs-hermes-agent-which-always-on-ai-worker-should-you-trust-eb6d48f056ec?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/grok-bot-vs-hermes-agent-which-always-on-ai-worker-should-you-trust-eb6d48f056ec?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Your Agent Has No Data Lineage. That Is Why It Lies to You.]]></title>
+        <id>https://pub.towardsai.net/your-agent-has-no-data-lineage-that-is-why-it-lies-to-you-419fe34795fa?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-agent-has-no-data-lineage-that-is-why-it-lies-to-you-419fe34795fa?source=rss----98111c9905da---4"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Powerful LLM Knowledge Base]]></title>
+        <id>https://pub.towardsai.net/how-to-build-a-powerful-llm-knowledge-base-5d5d553f0e4a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-build-a-powerful-llm-knowledge-base-5d5d553f0e4a?source=rss----98111c9905da---4"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intent-Based UX: The New Enterprise Advantage for AI Design]]></title>
+        <id>https://pub.towardsai.net/intent-based-ux-the-new-enterprise-advantage-for-ai-design-1b51aa3a7765?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/intent-based-ux-the-new-enterprise-advantage-for-ai-design-1b51aa3a7765?source=rss----98111c9905da---4"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code: Auto Mode Is Now the Default. The Classifier Is Not a Policy.]]></title>
+        <id>https://pub.towardsai.net/claude-code-auto-mode-is-now-the-default-the-classifier-is-not-a-policy-585442b2fe24?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-code-auto-mode-is-now-the-default-the-classifier-is-not-a-policy-585442b2fe24?source=rss----98111c9905da---4"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek Harness Makes a Serious Promise. I Would Audit It Before Letting It Touch a Repository]]></title>
+        <id>https://pub.towardsai.net/deepseek-harness-makes-a-serious-promise-i-would-audit-it-before-letting-it-touch-a-repository-dd433c0a98cb?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/deepseek-harness-makes-a-serious-promise-i-would-audit-it-before-letting-it-touch-a-repository-dd433c0a98cb?source=rss----98111c9905da---4"/>
+        <updated>2026-08-19T16:00:00.000Z</updated>
+        <published>2026-08-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Uno Platform Turns AI Agents Into Trustworthy Cross-Platform .NET Developers]]></title>
+        <id>https://pub.towardsai.net/how-uno-platform-turns-ai-agents-into-trustworthy-cross-platform-net-developers-7a038cdc1bf7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-uno-platform-turns-ai-agents-into-trustworthy-cross-platform-net-developers-7a038cdc1bf7?source=rss----98111c9905da---4"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[ClosureBench: A Constructive Benchmark for Compositional Graph Reasoning]]></title>
         <id>https://arxiv.org/abs/2608.18242</id>
         <link href="https://arxiv.org/abs/2608.18242"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIGMA: Symmetry-aware, Intelligent, Geometric, Multi-objective Adaptive Control for Robust, Dependable Traffic Management]]></title>
-        <id>https://arxiv.org/abs/2608.18263</id>
-        <link href="https://arxiv.org/abs/2608.18263"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SingularClip: Preventing Spectral Collapse to Maintain Plasticity in Continual and Reinforcement Learning]]></title>
-        <id>https://arxiv.org/abs/2608.18319</id>
-        <link href="https://arxiv.org/abs/2608.18319"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>

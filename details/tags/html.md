@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-20 12:01:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-20 15:03:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -8,31 +8,31 @@
 
 
 - [2026-08-20-Meta-AI-Có-App-Mac:-Chia-Sẻ-Màn-Hình-Và-Đọc-Chính-Tả](https://dev.to/bean_bean/meta-ai-co-app-mac-chia-se-man-hinh-va-doc-chinh-ta-3f8m) 
-- [2026-08-19-How-to-Build-a-CAD-Style-Layout-Editor-on-Top-of-Extracted-HTML](https://dev.to/bonzai2carn/how-to-build-a-cad-style-layout-editor-on-top-of-extracted-html-4ihd) 
 - [2026-08-19-The-HTML-canvas-quietly-deletes-your-photo's-metadata-—-and-one-day-that-bites-you](https://dev.to/bellsal_b44bf6d/the-html-canvas-quietly-deletes-your-photos-metadata-and-one-day-that-bites-you-2h68) 
+- [2026-08-19-How-to-Build-a-CAD-Style-Layout-Editor-on-Top-of-Extracted-HTML](https://dev.to/bonzai2carn/how-to-build-a-cad-style-layout-editor-on-top-of-extracted-html-4ihd) 
 - [2026-08-18-Your-API-Error-Is-HTML:-Keep-the-Real-Failure-Behind-an-Agent's-First-Call](https://dev.to/vectronode/your-api-error-is-html-keep-the-real-failure-behind-an-agents-first-call-9g3) 
-- [2026-08-15-If-you-render-user-HTML,-you-have-an-SSRF-problem.-Here-is-the-code-that-fixes-it.](https://dev.to/stackedboost/if-you-render-user-html-you-have-an-ssrf-problem-here-is-the-code-that-fixes-it-15e8) 
 - [2026-08-15-Securing-AI-Response-Rendering-in-Flask-—-Replacing-innerHTML-After-a-Codex-Review](https://dev.to/tosane932/securing-ai-response-rendering-in-flask-replacing-innerhtml-after-a-codex-review-44m4) 
+- [2026-08-15-If-you-render-user-HTML,-you-have-an-SSRF-problem.-Here-is-the-code-that-fixes-it.](https://dev.to/stackedboost/if-you-render-user-html-you-have-an-ssrf-problem-here-is-the-code-that-fixes-it-15e8) 
 - [2026-08-13-I-Built-a-Malaysian-Cultural-RPG-in-a-Single-HTML-File-—-Here's-What-Broke](https://dev.to/ytlow/i-built-a-malaysian-cultural-rpg-in-a-single-html-file-heres-what-broke-43eb) 
-- [2026-08-11-Why-HTML-Entity-Email-Obfuscation-Fails-in-2026-And-3-Methods-That-Work](https://dev.to/rasika_dangamuwa_ed1074fe/why-html-entity-email-obfuscation-fails-in-2026-and-3-methods-that-work-4fpa) 
 - [2026-08-11-md-to-html-without-uploading-your-files:-a-browser-based-converter-that-doesn't-choke-on-Mermaid-or-KaTeX](https://dev.to/eltacrew/md-to-html-without-uploading-your-files-a-browser-based-converter-that-doesnt-choke-on-mermaid-or-1h3a) 
+- [2026-08-11-Why-HTML-Entity-Email-Obfuscation-Fails-in-2026-And-3-Methods-That-Work](https://dev.to/rasika_dangamuwa_ed1074fe/why-html-entity-email-obfuscation-fails-in-2026-and-3-methods-that-work-4fpa) 
 - [2026-08-10-I-Automated-My-Meeting-Decisions-With-a-150-Line-HTML-File](https://dev.to/jack_green_7b74cb2cdf9e23/i-automated-my-meeting-decisions-with-a-150-line-html-file-43b6) 
 - [2026-08-09-Paid-Advertising-Agency-Sydney-|-Google--Meta-Ads-Company](https://dev.to/bluemoonmarketing/paid-advertising-agency-sydney-google-meta-ads-company-43g1) 
-- [2026-08-08-Zero-bytes-of-geometry:-a-metal-lattice-sphere-traced-in-a-14.9-KB-page](https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib) 
 - [2026-08-08-Open-Graph-Meta-Tags:-The-Complete-Reference-Every-Tag,-With-Examples](https://dev.to/grabbit/open-graph-meta-tags-the-complete-reference-every-tag-with-examples-36f6) 
-- [2026-08-03-I-built-in-app-Polymarket-copy-trading-with-MetaMask-EIP-712-—-no-private-keys,-no-redirects,-one-click](https://dev.to/manpreet_brar_264e408885a/i-built-in-app-polymarket-copy-trading-with-metamask-eip-712-no-private-keys-no-redirects-one-c21) 
+- [2026-08-08-Zero-bytes-of-geometry:-a-metal-lattice-sphere-traced-in-a-14.9-KB-page](https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib) 
 - [2026-08-03-Why-three-"characters"-in-my-HTML-symbol-table-aren't-actually-there](https://dev.to/joe8_lin_tw/why-three-characters-in-my-html-symbol-table-arent-actually-there-5f4) 
+- [2026-08-03-I-built-in-app-Polymarket-copy-trading-with-MetaMask-EIP-712-—-no-private-keys,-no-redirects,-one-click](https://dev.to/manpreet_brar_264e408885a/i-built-in-app-polymarket-copy-trading-with-metamask-eip-712-no-private-keys-no-redirects-one-c21) 
 - [2026-07-31-How-to-Turn-Static-HTML,-Markdown,-and-AI-Generated-Code-into-a-Live-URL-in-5-Seconds](https://dev.to/_a30178cedde1d2dbecf5e/how-to-turn-static-html-markdown-and-ai-generated-code-into-a-live-url-in-5-seconds-1bi0) 
-- [2026-07-30-Why-I'm-building-freelance-business-tools-as-single-HTML-files-no-build-step,-no-backend,-no-signup](https://dev.to/ahn_mumu_27f4f1e04eb91641/why-im-building-freelance-business-tools-as-single-html-files-no-build-step-no-backend-no-1oa3) 
 - [2026-07-30-I-built-a-student-tools-site-as-plain-static-HTML-—-no-framework,-no-build-step](https://dev.to/ben_tools/i-built-a-student-tools-site-as-plain-static-html-no-framework-no-build-step-14j4) 
-- [2026-07-29-Sending-Programmatic-HTML-Emails-with-Base64-File-Attachments-in-Joget](https://dev.to/exploringmylifeworks/sending-programmatic-html-emails-with-base64-file-attachments-in-joget-1gjb) 
-- [2026-07-29-Generating-Multilingual-HTML-Reports-with-Attachment-Download-Links-in-Joget](https://dev.to/exploringmylifeworks/generating-multilingual-html-reports-with-attachment-download-links-in-joget-3e6o) 
+- [2026-07-30-Why-I'm-building-freelance-business-tools-as-single-HTML-files-no-build-step,-no-backend,-no-signup](https://dev.to/ahn_mumu_27f4f1e04eb91641/why-im-building-freelance-business-tools-as-single-html-files-no-build-step-no-backend-no-1oa3) 
 - [2026-07-29-Generating-Dynamic-HTML-Data-Tables-for-Email-Templates-&amp;-Reports-in-Joget](https://dev.to/exploringmylifeworks/generating-dynamic-html-data-tables-for-email-templates-reports-in-joget-3559) 
+- [2026-07-29-Generating-Multilingual-HTML-Reports-with-Attachment-Download-Links-in-Joget](https://dev.to/exploringmylifeworks/generating-multilingual-html-reports-with-attachment-download-links-in-joget-3e6o) 
+- [2026-07-29-Sending-Programmatic-HTML-Emails-with-Base64-File-Attachments-in-Joget](https://dev.to/exploringmylifeworks/sending-programmatic-html-emails-with-base64-file-attachments-in-joget-1gjb) 
 - [2026-07-28-Delint:-a-folder-of-single-file-HTML-tools-for-the-data-cleanup-I-kept-doing-by-hand](https://dev.to/gids123/delint-a-folder-of-single-file-html-tools-for-the-data-cleanup-i-kept-doing-by-hand-1gfd) 
 - [2026-07-27-Why-I-Built-a-Meta-Tags-Generator-Tool-and-Why-It-Matters-More-Than-I-Expected](https://dev.to/gnlassi/why-i-built-a-meta-tags-generator-tool-and-why-it-matters-more-than-i-expected-m6g) 
 - [2026-07-25-Persisting-User-Data-in-a-No-Backend-HTML-App-localStorage-Patterns](https://dev.to/promptmaster/persisting-user-data-in-a-no-backend-html-app-localstorage-patterns-36j5) 
-- [2026-07-24-Why-Every-Developer-Should-Care-About-EXIF-Metadata](https://dev.to/human_reviews_ccdcbb54983/why-every-developer-should-care-about-exif-metadata-5a8n) 
 - [2026-07-24-A-Button-Showcase-with-One-Click-HTML-Copy](https://dev.to/uni928/a-button-showcase-with-one-click-html-copy-5gi7) 
+- [2026-07-24-Why-Every-Developer-Should-Care-About-EXIF-Metadata](https://dev.to/human_reviews_ccdcbb54983/why-every-developer-should-care-about-exif-metadata-5a8n) 
 - [2026-07-24--Interactive-metaballs-](
 https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
 ) 
