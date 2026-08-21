@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-21T02:01:12.318Z</updated>
+    <updated>2026-08-21T04:02:06.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,16 +22,16 @@
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Discover is getting an AI chatbot-tuned feed]]></title>
-        <id>https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed</id>
-        <link href="https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed"/>
+        <title type="html"><![CDATA[Mark Zuckerberg bought an Irish castle]]></title>
+        <id>https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland</id>
+        <link href="https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mark Zuckerberg bought an Irish castle]]></title>
-        <id>https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland</id>
-        <link href="https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland"/>
+        <title type="html"><![CDATA[Google Discover is getting an AI chatbot-tuned feed]]></title>
+        <id>https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed</id>
+        <link href="https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
@@ -253,6 +253,34 @@
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Qdrant + Go: 768-Dim Vector Search With 4× Less Memory]]></title>
+        <id>https://pub.towardsai.net/qdrant-go-768-dim-vector-search-with-4-less-memory-6579595db251?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/qdrant-go-768-dim-vector-search-with-4-less-memory-6579595db251?source=rss----98111c9905da---4"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building AI Video Agents in 2026: A Developer’s Guide to Agentic Video Generation]]></title>
+        <id>https://pub.towardsai.net/building-ai-video-agents-in-2026-a-developers-guide-to-agentic-video-generation-7312856badc3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-ai-video-agents-in-2026-a-developers-guide-to-agentic-video-generation-7312856badc3?source=rss----98111c9905da---4"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen 3.6 Runs Atomic Agent on a 3,000-Token Budget. Its Prompt Opens at 6,064.]]></title>
+        <id>https://pub.towardsai.net/qwen-3-6-runs-atomic-agent-on-a-3-000-token-budget-its-prompt-opens-at-6-064-5e761787f926?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/qwen-3-6-runs-atomic-agent-on-a-3-000-token-budget-its-prompt-opens-at-6-064-5e761787f926?source=rss----98111c9905da---4"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering LangChain: The Ultimate Guide to LLM Orchestration (Part 1 — Fundamentals)]]></title>
+        <id>https://pub.towardsai.net/mastering-langchain-the-ultimate-guide-to-llm-orchestration-part-1-fundamentals-3ee5e20ff8e5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/mastering-langchain-the-ultimate-guide-to-llm-orchestration-part-1-fundamentals-3ee5e20ff8e5?source=rss----98111c9905da---4"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Machine Learning for Beginners: The Whole Field in 20 mins]]></title>
         <id>https://pub.towardsai.net/machine-learning-for-beginners-the-whole-field-in-20-mins-1ae911366f67?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/machine-learning-for-beginners-the-whole-field-in-20-mins-1ae911366f67?source=rss----98111c9905da---4"/>
@@ -267,100 +295,72 @@
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js SEA Just Got Way Simpler — Updating My node-sea Boilerplate for Node 26]]></title>
-        <id>https://dev.to/hamdi_laadhari/nodejs-sea-just-got-way-simpler-updating-my-node-sea-boilerplate-for-node-26-1efl</id>
-        <link href="https://dev.to/hamdi_laadhari/nodejs-sea-just-got-way-simpler-updating-my-node-sea-boilerplate-for-node-26-1efl"/>
+        <title type="html"><![CDATA[Mechanistic Tomography: Designed Measurement for Control-Oriented Interpretability]]></title>
+        <id>https://arxiv.org/abs/2608.19338</id>
+        <link href="https://arxiv.org/abs/2608.19338"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make Basic HTML Analysis More Difficult]]></title>
-        <id>https://dev.to/uni928/make-basic-html-analysis-more-difficult-372e</id>
-        <link href="https://dev.to/uni928/make-basic-html-analysis-more-difficult-372e"/>
+        <title type="html"><![CDATA[Longitudinal Bayesian Learning of Continuous Disease Position across the Alzheimer's Disease Continuum]]></title>
+        <id>https://arxiv.org/abs/2608.19436</id>
+        <link href="https://arxiv.org/abs/2608.19436"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Practical Guide to Instagram Post Scraping for Data Teams]]></title>
-        <id>https://dev.to/yulia_taylor_980225d112d8/a-practical-guide-to-instagram-post-scraping-for-data-teams-43j0</id>
-        <link href="https://dev.to/yulia_taylor_980225d112d8/a-practical-guide-to-instagram-post-scraping-for-data-teams-43j0"/>
+        <title type="html"><![CDATA[Quantifying Event Impacts on Time Series via Multiscale Contrastive Learning]]></title>
+        <id>https://arxiv.org/abs/2608.19447</id>
+        <link href="https://arxiv.org/abs/2608.19447"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Rust vs. JavaScript Undefined Behavior Crisis: Lessons from Recent Security Incidents and Cross-Language Compilation Bugs]]></title>
-        <id>https://dev.to/tamizuddin/the-rust-vs-javascript-undefined-behavior-crisis-lessons-from-recent-security-incidents-and-1hbi</id>
-        <link href="https://dev.to/tamizuddin/the-rust-vs-javascript-undefined-behavior-crisis-lessons-from-recent-security-incidents-and-1hbi"/>
+        <title type="html"><![CDATA[When to Retrain: An Empirical Study of Retraining Policies for Streaming ML Under Concept Drift, Budget, and Latency Constraints]]></title>
+        <id>https://arxiv.org/abs/2608.19488</id>
+        <link href="https://arxiv.org/abs/2608.19488"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why your $300/mo onboarding widget is destroying your Core Web Vitals]]></title>
-        <id>https://dev.to/pavan_s_poojary/why-your-300mo-onboarding-widget-is-destroying-your-core-web-vitals-1m0e</id>
-        <link href="https://dev.to/pavan_s_poojary/why-your-300mo-onboarding-widget-is-destroying-your-core-web-vitals-1m0e"/>
+        <title type="html"><![CDATA[Empirical Characterization of Learning Geometry in Hybrid Quantum Forecasting Models]]></title>
+        <id>https://arxiv.org/abs/2608.19497</id>
+        <link href="https://arxiv.org/abs/2608.19497"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I Built a Zero-Knowledge, Client-Side Encrypted Burning Note App Over the Weekend]]></title>
-        <id>https://dev.to/specialagentbreadwinner/why-i-built-a-zero-knowledge-client-side-encrypted-burning-note-app-over-the-weekend-bal</id>
-        <link href="https://dev.to/specialagentbreadwinner/why-i-built-a-zero-knowledge-client-side-encrypted-burning-note-app-over-the-weekend-bal"/>
+        <title type="html"><![CDATA[A Two-Stage Time-Aware Transformer for Short-Horizon AECOPD Risk Prediction]]></title>
+        <id>https://arxiv.org/abs/2608.19578</id>
+        <link href="https://arxiv.org/abs/2608.19578"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build an AI Agent with Node.js: Tool Calling with the OpenAI Responses API]]></title>
-        <id>https://dev.to/p_ym_n/build-an-ai-agent-with-nodejs-tool-calling-with-the-openai-responses-api-nic</id>
-        <link href="https://dev.to/p_ym_n/build-an-ai-agent-with-nodejs-tool-calling-with-the-openai-responses-api-nic"/>
+        <title type="html"><![CDATA[Complementary, Not Cumulative: Interaction Effects in Physics-Informed Neural Networks for Navier-Stokes Vortex Shedding]]></title>
+        <id>https://arxiv.org/abs/2608.19632</id>
+        <link href="https://arxiv.org/abs/2608.19632"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Killing Your GPUs: The Ultimate Guide to BullMQ and Redis Queue Management for AI and Generative Workloads]]></title>
-        <id>https://dev.to/programmingcentral/stop-killing-your-gpus-the-ultimate-guide-to-bullmq-and-redis-queue-management-for-ai-and-4l7j</id>
-        <link href="https://dev.to/programmingcentral/stop-killing-your-gpus-the-ultimate-guide-to-bullmq-and-redis-queue-management-for-ai-and-4l7j"/>
+        <title type="html"><![CDATA[Time-Uniform Self-Normalized Concentration for Discounted Least Squares: Limits and Corrections]]></title>
+        <id>https://arxiv.org/abs/2608.19643</id>
+        <link href="https://arxiv.org/abs/2608.19643"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Ten Places To Buy Verified Wise Account Online]]></title>
-        <id>https://dev.to/wiseaccount55/top-ten-places-to-buy-verified-wise-account-online-kj6</id>
-        <link href="https://dev.to/wiseaccount55/top-ten-places-to-buy-verified-wise-account-online-kj6"/>
+        <title type="html"><![CDATA[DeltaML-Bench: Evaluating Machine Learning Agents on Real-World Research Repositories]]></title>
+        <id>https://arxiv.org/abs/2608.19653</id>
+        <link href="https://arxiv.org/abs/2608.19653"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No accounts meant no license server — so my $19 one-time SaaS signs its keys with ECDSA P-256]]></title>
-        <id>https://dev.to/sike_ren_f38951df83469817/no-accounts-meant-no-license-server-so-my-19-one-time-saas-signs-its-keys-with-ecdsa-p-256-502o</id>
-        <link href="https://dev.to/sike_ren_f38951df83469817/no-accounts-meant-no-license-server-so-my-19-one-time-saas-signs-its-keys-with-ecdsa-p-256-502o"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building File Utilities That Run 100% in the Browser]]></title>
-        <id>https://dev.to/buildittheywillcome/building-file-utilities-that-run-100-in-the-browser-ie4</id>
-        <link href="https://dev.to/buildittheywillcome/building-file-utilities-that-run-100-in-the-browser-ie4"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop a Malicious postinstall Script Cold With One CircleCI Config Change]]></title>
-        <id>https://dev.to/mukesh_13/stop-a-malicious-postinstall-script-cold-with-one-circleci-config-change-4168</id>
-        <link href="https://dev.to/mukesh_13/stop-a-malicious-postinstall-script-cold-with-one-circleci-config-change-4168"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimal JS, modern CSS anchored product tours]]></title>
-        <id>https://dev.to/railsdesigner/minimal-js-modern-css-anchored-product-tours-2c4j</id>
-        <link href="https://dev.to/railsdesigner/minimal-js-modern-css-anchored-product-tours-2c4j"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full': what this warning means]]></title>
-        <id>https://dev.to/bobdotjs/the-ssl-modes-prefer-require-and-verify-ca-are-treated-as-aliases-for-verify-full-what-5537</id>
-        <link href="https://dev.to/bobdotjs/the-ssl-modes-prefer-require-and-verify-ca-are-treated-as-aliases-for-verify-full-what-5537"/>
+        <title type="html"><![CDATA[FleetSieve: Decision-Critical Profiling for SLO-Aware LLM Fleet Configuration]]></title>
+        <id>https://arxiv.org/abs/2608.19659</id>
+        <link href="https://arxiv.org/abs/2608.19659"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
