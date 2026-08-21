@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-20T22:01:28.459Z</updated>
+    <updated>2026-08-21T00:01:51.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[派早报：华为发布 Pura X View、享界 G9 等多款新品]]></title>
+        <id>https://sspai.com/post/113666</id>
+        <link href="https://sspai.com/post/113666"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Discover is getting an AI chatbot-tuned feed]]></title>
         <id>https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed</id>
@@ -29,16 +36,9 @@
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole]]></title>
-        <id>https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/</id>
-        <link href="https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?]]></title>
-        <id>https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/</id>
-        <link href="https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/"/>
+        <title type="html"><![CDATA[Google Pixel 11 Review: Minor Upgrade]]></title>
+        <id>https://www.wired.com/review/google-pixel-11/</id>
+        <link href="https://www.wired.com/review/google-pixel-11/"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
@@ -50,51 +50,23 @@
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss]]></title>
-        <id>https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/</id>
-        <link href="https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/"/>
+        <title type="html"><![CDATA[China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?]]></title>
+        <id>https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/</id>
+        <link href="https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Someone targeted security researchers using a fake crypto conference as a lure]]></title>
-        <id>https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/</id>
-        <link href="https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/"/>
+        <title type="html"><![CDATA[The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole]]></title>
+        <id>https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/</id>
+        <link href="https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mark buys a castle]]></title>
-        <id>https://techcrunch.com/2026/08/20/mark-buys-a-castle/</id>
-        <link href="https://techcrunch.com/2026/08/20/mark-buys-a-castle/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Castelion hits $13B valuation to mass-produce hypersonic missiles]]></title>
-        <id>https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/</id>
-        <link href="https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know ]]></title>
-        <id>https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</id>
-        <link href="https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner]]></title>
-        <id>https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/</id>
-        <link href="https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta brings Pocket, an app that lets you vibe-code and share games, to US users]]></title>
-        <id>https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/</id>
-        <link href="https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"/>
+        <title type="html"><![CDATA[Inertia Enterprises finds a way to make its fusion fuel fast]]></title>
+        <id>https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/</id>
+        <link href="https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
@@ -106,9 +78,51 @@
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inertia Enterprises finds a way to make its fusion fuel fast]]></title>
-        <id>https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/</id>
-        <link href="https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/"/>
+        <title type="html"><![CDATA[Meta brings Pocket, an app that lets you vibe-code and share games, to US users]]></title>
+        <id>https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/</id>
+        <link href="https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner]]></title>
+        <id>https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/</id>
+        <link href="https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know ]]></title>
+        <id>https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</id>
+        <link href="https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Castelion hits $13B valuation to mass-produce hypersonic missiles]]></title>
+        <id>https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/</id>
+        <link href="https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mark buys a castle]]></title>
+        <id>https://techcrunch.com/2026/08/20/mark-buys-a-castle/</id>
+        <link href="https://techcrunch.com/2026/08/20/mark-buys-a-castle/"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone targeted security researchers using a fake crypto conference as a lure]]></title>
+        <id>https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/</id>
+        <link href="https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss]]></title>
+        <id>https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/</id>
+        <link href="https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
@@ -190,44 +204,37 @@
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I Built a Zero-Knowledge, Client-Side Encrypted Burning Note App Over the Weekend]]></title>
-        <id>https://dev.to/specialagentbreadwinner/why-i-built-a-zero-knowledge-client-side-encrypted-burning-note-app-over-the-weekend-bal</id>
-        <link href="https://dev.to/specialagentbreadwinner/why-i-built-a-zero-knowledge-client-side-encrypted-burning-note-app-over-the-weekend-bal"/>
+        <title type="html"><![CDATA[Generating Dynamic SVG Vector Charts from Python Data in a Single Polyglot Script]]></title>
+        <id>https://dev.to/o-o1112/generating-dynamic-svg-vector-charts-from-python-data-in-a-single-polyglot-script-2jfg</id>
+        <link href="https://dev.to/o-o1112/generating-dynamic-svg-vector-charts-from-python-data-in-a-single-polyglot-script-2jfg"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build an AI Agent with Node.js: Tool Calling with the OpenAI Responses API]]></title>
-        <id>https://dev.to/p_ym_n/build-an-ai-agent-with-nodejs-tool-calling-with-the-openai-responses-api-nic</id>
-        <link href="https://dev.to/p_ym_n/build-an-ai-agent-with-nodejs-tool-calling-with-the-openai-responses-api-nic"/>
+        <title type="html"><![CDATA[We Built Guardrails Against JSON Precision Loss. Then We Found Out Half of Them Weren't Actually Guarding Anything.]]></title>
+        <id>https://dev.to/jacksmith_de/we-built-guardrails-against-json-precision-loss-then-we-found-out-half-of-them-werent-actually-4nk2</id>
+        <link href="https://dev.to/jacksmith_de/we-built-guardrails-against-json-precision-loss-then-we-found-out-half-of-them-werent-actually-4nk2"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Killing Your GPUs: The Ultimate Guide to BullMQ and Redis Queue Management for AI and Generative Workloads]]></title>
-        <id>https://dev.to/programmingcentral/stop-killing-your-gpus-the-ultimate-guide-to-bullmq-and-redis-queue-management-for-ai-and-4l7j</id>
-        <link href="https://dev.to/programmingcentral/stop-killing-your-gpus-the-ultimate-guide-to-bullmq-and-redis-queue-management-for-ai-and-4l7j"/>
+        <title type="html"><![CDATA[CoSnitch Và Bài Học Least Privilege Cho AI Assistant Nội Bộ]]></title>
+        <id>https://dev.to/bean_bean/cosnitch-va-bai-hoc-least-privilege-cho-ai-assistant-noi-bo-39p7</id>
+        <link href="https://dev.to/bean_bean/cosnitch-va-bai-hoc-least-privilege-cho-ai-assistant-noi-bo-39p7"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Ten Places To Buy Verified Wise Account Online]]></title>
-        <id>https://dev.to/wiseaccount55/top-ten-places-to-buy-verified-wise-account-online-kj6</id>
-        <link href="https://dev.to/wiseaccount55/top-ten-places-to-buy-verified-wise-account-online-kj6"/>
+        <title type="html"><![CDATA[The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full': what this warning means]]></title>
+        <id>https://dev.to/bobdotjs/the-ssl-modes-prefer-require-and-verify-ca-are-treated-as-aliases-for-verify-full-what-5537</id>
+        <link href="https://dev.to/bobdotjs/the-ssl-modes-prefer-require-and-verify-ca-are-treated-as-aliases-for-verify-full-what-5537"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No accounts meant no license server — so my $19 one-time SaaS signs its keys with ECDSA P-256]]></title>
-        <id>https://dev.to/sike_ren_f38951df83469817/no-accounts-meant-no-license-server-so-my-19-one-time-saas-signs-its-keys-with-ecdsa-p-256-502o</id>
-        <link href="https://dev.to/sike_ren_f38951df83469817/no-accounts-meant-no-license-server-so-my-19-one-time-saas-signs-its-keys-with-ecdsa-p-256-502o"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building File Utilities That Run 100% in the Browser]]></title>
-        <id>https://dev.to/buildittheywillcome/building-file-utilities-that-run-100-in-the-browser-ie4</id>
-        <link href="https://dev.to/buildittheywillcome/building-file-utilities-that-run-100-in-the-browser-ie4"/>
+        <title type="html"><![CDATA[Minimal JS, modern CSS anchored product tours]]></title>
+        <id>https://dev.to/railsdesigner/minimal-js-modern-css-anchored-product-tours-2c4j</id>
+        <link href="https://dev.to/railsdesigner/minimal-js-modern-css-anchored-product-tours-2c4j"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
@@ -239,9 +246,44 @@
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Minimal JS, modern CSS anchored product tours]]></title>
-        <id>https://dev.to/railsdesigner/minimal-js-modern-css-anchored-product-tours-2c4j</id>
-        <link href="https://dev.to/railsdesigner/minimal-js-modern-css-anchored-product-tours-2c4j"/>
+        <title type="html"><![CDATA[Building File Utilities That Run 100% in the Browser]]></title>
+        <id>https://dev.to/buildittheywillcome/building-file-utilities-that-run-100-in-the-browser-ie4</id>
+        <link href="https://dev.to/buildittheywillcome/building-file-utilities-that-run-100-in-the-browser-ie4"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No accounts meant no license server — so my $19 one-time SaaS signs its keys with ECDSA P-256]]></title>
+        <id>https://dev.to/sike_ren_f38951df83469817/no-accounts-meant-no-license-server-so-my-19-one-time-saas-signs-its-keys-with-ecdsa-p-256-502o</id>
+        <link href="https://dev.to/sike_ren_f38951df83469817/no-accounts-meant-no-license-server-so-my-19-one-time-saas-signs-its-keys-with-ecdsa-p-256-502o"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Ten Places To Buy Verified Wise Account Online]]></title>
+        <id>https://dev.to/wiseaccount55/top-ten-places-to-buy-verified-wise-account-online-kj6</id>
+        <link href="https://dev.to/wiseaccount55/top-ten-places-to-buy-verified-wise-account-online-kj6"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Killing Your GPUs: The Ultimate Guide to BullMQ and Redis Queue Management for AI and Generative Workloads]]></title>
+        <id>https://dev.to/programmingcentral/stop-killing-your-gpus-the-ultimate-guide-to-bullmq-and-redis-queue-management-for-ai-and-4l7j</id>
+        <link href="https://dev.to/programmingcentral/stop-killing-your-gpus-the-ultimate-guide-to-bullmq-and-redis-queue-management-for-ai-and-4l7j"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an AI Agent with Node.js: Tool Calling with the OpenAI Responses API]]></title>
+        <id>https://dev.to/p_ym_n/build-an-ai-agent-with-nodejs-tool-calling-with-the-openai-responses-api-nic</id>
+        <link href="https://dev.to/p_ym_n/build-an-ai-agent-with-nodejs-tool-calling-with-the-openai-responses-api-nic"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Built a Zero-Knowledge, Client-Side Encrypted Burning Note App Over the Weekend]]></title>
+        <id>https://dev.to/specialagentbreadwinner/why-i-built-a-zero-knowledge-client-side-encrypted-burning-note-app-over-the-weekend-bal</id>
+        <link href="https://dev.to/specialagentbreadwinner/why-i-built-a-zero-knowledge-client-side-encrypted-burning-note-app-over-the-weekend-bal"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[LG’s new OLED breakthrough can boost display lifespans]]></title>
         <id>https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology</id>
         <link href="https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries]]></title>
-        <id>https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries</id>
-        <link href="https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This tiny guitar amp is the most unhinged distortion pedal I’ve ever used]]></title>
-        <id>https://www.theverge.com/gadgets/982598/death-by-audio-rainger-fx-amp-crash-guitar-pedal-review</id>
-        <link href="https://www.theverge.com/gadgets/982598/death-by-audio-rainger-fx-amp-crash-guitar-pedal-review"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s what data Comcast says its motion-detecting routers collect]]></title>
-        <id>https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response</id>
-        <link href="https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon&#8217;s drone deliveries are landing in pools and ponds]]></title>
-        <id>https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds</id>
-        <link href="https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade]]></title>
-        <id>https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/</id>
-        <link href="https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/"/>
-        <updated>2026-08-19T16:00:00.000Z</updated>
-        <published>2026-08-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel Watch 5 Review: More Health, More AI]]></title>
-        <id>https://www.wired.com/review/google-pixel-watch-5/</id>
-        <link href="https://www.wired.com/review/google-pixel-watch-5/"/>
         <updated>2026-08-19T16:00:00.000Z</updated>
         <published>2026-08-19T16:00:00.000Z</published>
     </entry>
