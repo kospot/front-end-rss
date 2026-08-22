@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-22 21:02:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-22 23:02:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-08-22-Guaranteeing-You-Never-Show-an-Expired-Offer,-by-Design](https://dev.to/takahiro_hashito_a1f3f0dc/guaranteeing-you-never-show-an-expired-offer-by-design-c09) 
 - [2026-08-20-YouTube-Offers-Creators-Millions-to-Not-Work-with-Netflix](https://www.bloomberg.com/news/articles/2026-08-19/youtube-offers-creators-millions-to-not-work-with-netflix-mt0lbfaj) 
 - [2026-08-17-New-weekly-injection-offers-diabetics-alternative-to-daily-insulin-shots](https://www.washingtonpost.com/health/2026/08/16/new-weekly-injection-offers-diabetics-alternative-daily-insulin-shots/) 
 - [2026-08-14-Fake-Forbes-websites-and-the-PR-agency-offering-guaranteed-coverage-–-at-a-price](https://pressgazette.co.uk/news/fake-forbes-websites-and-the-pr-agency-offering-guaranteed-coverage-at-a-price/) 
