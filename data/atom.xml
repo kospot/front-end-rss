@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-22T02:01:47.908Z</updated>
+    <updated>2026-08-22T04:01:20.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,30 +71,58 @@
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Run 290B+ frontier MoE models locally on your gaming PC]]></title>
-        <id>https://github.com/FlashML-org/FreeToken</id>
-        <link href="https://github.com/FlashML-org/FreeToken"/>
+        <title type="html"><![CDATA[Getting Freaky in the Age of AI]]></title>
+        <id>https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/</id>
+        <link href="https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Massive Child Safety Trial Against Meta Starts in Federal Court]]></title>
-        <id>https://www.wsj.com/tech/massive-child-safety-trial-against-meta-starts-in-federal-court-130e3739</id>
-        <link href="https://www.wsj.com/tech/massive-child-safety-trial-against-meta-starts-in-federal-court-130e3739"/>
+        <title type="html"><![CDATA[Linus: And this was a debug session from hell, enormously helped by an AI]]></title>
+        <id>https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c</id>
+        <link href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astronomers witness cosmic recycling system in action]]></title>
-        <id>https://news.northwestern.edu/stories/2026/08-2/astronomers-witness-cosmic-recycling-system-in-action</id>
-        <link href="https://news.northwestern.edu/stories/2026/08-2/astronomers-witness-cosmic-recycling-system-in-action"/>
+        <title type="html"><![CDATA[The Cognitive Barrier to Teaching]]></title>
+        <id>https://educationrealist.substack.com/p/the-cognitive-barrier-to-teaching</id>
+        <link href="https://educationrealist.substack.com/p/the-cognitive-barrier-to-teaching"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Greenwich moon time? The race to set lunar clocks]]></title>
-        <id>https://www.ft.com/content/d09e9c05-60c8-4c8a-8230-a5476a049b88</id>
-        <link href="https://www.ft.com/content/d09e9c05-60c8-4c8a-8230-a5476a049b88"/>
+        <title type="html"><![CDATA[Google MADE A MISTAKE – Pixel 11 Pro Fold durability test [video]]]></title>
+        <id>https://www.youtube.com/watch?v=jUT3rUZGqLA</id>
+        <link href="https://www.youtube.com/watch?v=jUT3rUZGqLA"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run frontier models on gaming GPUs]]></title>
+        <id>https://twitter.com/andy_shuoyang/status/2090856982383300898</id>
+        <link href="https://twitter.com/andy_shuoyang/status/2090856982383300898"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guitar Tuner (2015)]]></title>
+        <id>https://aerotwist.com/blog/guitar-tuner/</id>
+        <link href="https://aerotwist.com/blog/guitar-tuner/"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How fast is C++26's std:hive?]]></title>
+        <id>https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/</id>
+        <link href="https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Próspera- libertarian utopia on Caribbean island off the coast of Honduras]]></title>
+        <id>https://www.abc.net.au/news/2026-08-22/honduras-prospera-libertarian-utopia-caribbean-roatan/107045960</id>
+        <link href="https://www.abc.net.au/news/2026-08-22/honduras-prospera-libertarian-utopia-caribbean-roatan/107045960"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
@@ -106,9 +134,44 @@
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agentic RAG: Retrieval When the Agent Is Driving]]></title>
-        <id>https://pub.towardsai.net/agentic-rag-retrieval-when-the-agent-is-driving-257ee4593f6e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/agentic-rag-retrieval-when-the-agent-is-driving-257ee4593f6e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Greenwich moon time? The race to set lunar clocks]]></title>
+        <id>https://www.ft.com/content/d09e9c05-60c8-4c8a-8230-a5476a049b88</id>
+        <link href="https://www.ft.com/content/d09e9c05-60c8-4c8a-8230-a5476a049b88"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astronomers witness cosmic recycling system in action]]></title>
+        <id>https://news.northwestern.edu/stories/2026/08-2/astronomers-witness-cosmic-recycling-system-in-action</id>
+        <link href="https://news.northwestern.edu/stories/2026/08-2/astronomers-witness-cosmic-recycling-system-in-action"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massive Child Safety Trial Against Meta Starts in Federal Court]]></title>
+        <id>https://www.wsj.com/tech/massive-child-safety-trial-against-meta-starts-in-federal-court-130e3739</id>
+        <link href="https://www.wsj.com/tech/massive-child-safety-trial-against-meta-starts-in-federal-court-130e3739"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run 290B+ frontier MoE models locally on your gaming PC]]></title>
+        <id>https://github.com/FlashML-org/FreeToken</id>
+        <link href="https://github.com/FlashML-org/FreeToken"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contrastive Learning: The Secret Behind Today’s Smartest Vision Models]]></title>
+        <id>https://pub.towardsai.net/contrastive-learning-the-secret-behind-todays-smartest-vision-models-b51333fb72be?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/contrastive-learning-the-secret-behind-todays-smartest-vision-models-b51333fb72be?source=rss----98111c9905da---4"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Models Forget: Why Machine Unlearning Is Harder Than Training]]></title>
+        <id>https://pub.towardsai.net/making-models-forget-why-machine-unlearning-is-harder-than-training-725b8abab89d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/making-models-forget-why-machine-unlearning-is-harder-than-training-725b8abab89d?source=rss----98111c9905da---4"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
@@ -120,72 +183,51 @@
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Free Podcast Show Notes Generator (Because Descript Charges $12/month)]]></title>
-        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-show-notes-generator-because-descript-charges-12month-5b20</id>
-        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-show-notes-generator-because-descript-charges-12month-5b20"/>
+        <title type="html"><![CDATA[Agentic RAG: Retrieval When the Agent Is Driving]]></title>
+        <id>https://pub.towardsai.net/agentic-rag-retrieval-when-the-agent-is-driving-257ee4593f6e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/agentic-rag-retrieval-when-the-agent-is-driving-257ee4593f6e?source=rss----98111c9905da---4"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Free Podcast Episode Planner & Show Notes Generator (Because Descript Charges $12/month)]]></title>
-        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-episode-planner-show-notes-generator-because-descript-charges-12month-cd1</id>
-        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-episode-planner-show-notes-generator-because-descript-charges-12month-cd1"/>
+        <title type="html"><![CDATA[Building a Sports Data Pipeline: Lessons from Not hanging around England lose final two wickets early on day three]]></title>
+        <id>https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-not-hanging-around-england-lose-final-two-wickets-38ic</id>
+        <link href="https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-not-hanging-around-england-lose-final-two-wickets-38ic"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome Can Now Measure Your SPA's Core Web Vitals. Google's Ranking Data Still Can't See Them.]]></title>
-        <id>https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f</id>
-        <link href="https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f"/>
+        <title type="html"><![CDATA[Building a Sports Data Pipeline: Lessons from Argentinas Paredes banned for 10 games after World Cup clashes]]></title>
+        <id>https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-argentinas-paredes-banned-for-10-games-after-world-3kch</id>
+        <link href="https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-argentinas-paredes-banned-for-10-games-after-world-3kch"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Handle Client-Side CSV Merging Without Server Processing]]></title>
-        <id>https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8</id>
-        <link href="https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8"/>
+        <title type="html"><![CDATA[A Segment Track Call Needs an Event Name. The HTTP 200 Does Not Check.]]></title>
+        <id>https://dev.to/aleksuix/a-segment-track-call-needs-an-event-name-the-http-200-does-not-check-3m71</id>
+        <link href="https://dev.to/aleksuix/a-segment-track-call-needs-an-event-name-the-http-200-does-not-check-3m71"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[# Week 3 - Task 2: Understanding JavaScript Core Concepts]]></title>
-        <id>https://dev.to/koushikmaya/-week-3-task-2-understanding-javascript-core-concepts-13ei</id>
-        <link href="https://dev.to/koushikmaya/-week-3-task-2-understanding-javascript-core-concepts-13ei"/>
+        <title type="html"><![CDATA[PostHog Capture Treats an Epoch Timestamp as Ingestion Time]]></title>
+        <id>https://dev.to/aleksuix/posthog-capture-treats-an-epoch-timestamp-as-ingestion-time-2bng</id>
+        <link href="https://dev.to/aleksuix/posthog-capture-treats-an-epoch-timestamp-as-ingestion-time-2bng"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cypress Is Not A Faster Selenium, It Is A Different Bet]]></title>
-        <id>https://dev.to/paulcrinigan/cypress-is-not-a-faster-selenium-it-is-a-different-bet-11cc</id>
-        <link href="https://dev.to/paulcrinigan/cypress-is-not-a-faster-selenium-it-is-a-different-bet-11cc"/>
+        <title type="html"><![CDATA[Podcast Guest Release & Consent Form Generator — Why pay $228/year to PandaDoc?]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/podcast-guest-release-consent-form-generator-why-pay-228year-to-pandadoc-hnl</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/podcast-guest-release-consent-form-generator-why-pay-228year-to-pandadoc-hnl"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build Real-Time AI Video Workflows with Server-Sent Events and Webhooks]]></title>
-        <id>https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k</id>
-        <link href="https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What a Website Can Learn From Your Browser: IP, WebRTC, and IPv6]]></title>
-        <id>https://dev.to/skayletdev/what-a-website-can-learn-from-your-browser-ip-webrtc-and-ipv6-2n6i</id>
-        <link href="https://dev.to/skayletdev/what-a-website-can-learn-from-your-browser-ip-webrtc-and-ipv6-2n6i"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GreaseMonkey, or How to Enhance Your Web Experience (2008)]]></title>
-        <id>https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003</id>
-        <link href="https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Overhead Polyglot Crypto: Streaming Hashes from Python to Node.js in One Script]]></title>
-        <id>https://dev.to/o-o1112/zero-overhead-polyglot-crypto-streaming-hashes-from-python-to-nodejs-in-one-script-43oc</id>
-        <link href="https://dev.to/o-o1112/zero-overhead-polyglot-crypto-streaming-hashes-from-python-to-nodejs-in-one-script-43oc"/>
+        <title type="html"><![CDATA[Meta's Conversions API Wants Seconds. Date.now() Sends Milliseconds.]]></title>
+        <id>https://dev.to/aleksuix/metas-conversions-api-wants-seconds-datenow-sends-milliseconds-4p80</id>
+        <link href="https://dev.to/aleksuix/metas-conversions-api-wants-seconds-datenow-sends-milliseconds-4p80"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
@@ -197,16 +239,86 @@
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：华为发布 Pura X View、享界 G9 等多款新品]]></title>
-        <id>https://sspai.com/post/113666</id>
-        <link href="https://sspai.com/post/113666"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Zero-Overhead Polyglot Crypto: Streaming Hashes from Python to Node.js in One Script]]></title>
+        <id>https://dev.to/o-o1112/zero-overhead-polyglot-crypto-streaming-hashes-from-python-to-nodejs-in-one-script-43oc</id>
+        <link href="https://dev.to/o-o1112/zero-overhead-polyglot-crypto-streaming-hashes-from-python-to-nodejs-in-one-script-43oc"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GreaseMonkey, or How to Enhance Your Web Experience (2008)]]></title>
+        <id>https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003</id>
+        <link href="https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What a Website Can Learn From Your Browser: IP, WebRTC, and IPv6]]></title>
+        <id>https://dev.to/skayletdev/what-a-website-can-learn-from-your-browser-ip-webrtc-and-ipv6-2n6i</id>
+        <link href="https://dev.to/skayletdev/what-a-website-can-learn-from-your-browser-ip-webrtc-and-ipv6-2n6i"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Real-Time AI Video Workflows with Server-Sent Events and Webhooks]]></title>
+        <id>https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k</id>
+        <link href="https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cypress Is Not A Faster Selenium, It Is A Different Bet]]></title>
+        <id>https://dev.to/paulcrinigan/cypress-is-not-a-faster-selenium-it-is-a-different-bet-11cc</id>
+        <link href="https://dev.to/paulcrinigan/cypress-is-not-a-faster-selenium-it-is-a-different-bet-11cc"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[# Week 3 - Task 2: Understanding JavaScript Core Concepts]]></title>
+        <id>https://dev.to/koushikmaya/-week-3-task-2-understanding-javascript-core-concepts-13ei</id>
+        <link href="https://dev.to/koushikmaya/-week-3-task-2-understanding-javascript-core-concepts-13ei"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Handle Client-Side CSV Merging Without Server Processing]]></title>
+        <id>https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8</id>
+        <link href="https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome Can Now Measure Your SPA's Core Web Vitals. Google's Ranking Data Still Can't See Them.]]></title>
+        <id>https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f</id>
+        <link href="https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Free Podcast Episode Planner & Show Notes Generator (Because Descript Charges $12/month)]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-episode-planner-show-notes-generator-because-descript-charges-12month-cd1</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-episode-planner-show-notes-generator-because-descript-charges-12month-cd1"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Free Podcast Show Notes Generator (Because Descript Charges $12/month)]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-show-notes-generator-because-descript-charges-12month-5b20</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-show-notes-generator-because-descript-charges-12month-5b20"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验]]></title>
         <id>https://sspai.com/post/113586</id>
         <link href="https://sspai.com/post/113586"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：华为发布 Pura X View、享界 G9 等多款新品]]></title>
+        <id>https://sspai.com/post/113666</id>
+        <link href="https://sspai.com/post/113666"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
@@ -249,118 +361,6 @@
         <title type="html"><![CDATA[Tesla sunsets its Solar Roof tiles]]></title>
         <id>https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued</id>
         <link href="https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame]]></title>
-        <id>https://www.wired.com/story/best-pool-cleaning-robots/</id>
-        <link href="https://www.wired.com/story/best-pool-cleaning-robots/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood]]></title>
-        <id>https://www.wired.com/story/the-patrick-clancy-conspiracy-theories-are-rooted-in-the-harsh-realities-of-motherhood/</id>
-        <link href="https://www.wired.com/story/the-patrick-clancy-conspiracy-theories-are-rooted-in-the-harsh-realities-of-motherhood/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B&H Photo Promo Codes and Deals This August 2026]]></title>
-        <id>https://www.wired.com/story/bh-photo-coupon/</id>
-        <link href="https://www.wired.com/story/bh-photo-coupon/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole]]></title>
-        <id>https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/</id>
-        <link href="https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?]]></title>
-        <id>https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/</id>
-        <link href="https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silicon Valley Doesn't Get Why You Hate AI]]></title>
-        <id>https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/</id>
-        <link href="https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel 11 Review: Minor Upgrade]]></title>
-        <id>https://www.wired.com/review/google-pixel-11/</id>
-        <link href="https://www.wired.com/review/google-pixel-11/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s Big Reckoning Is Here]]></title>
-        <id>https://www.wired.com/story/metas-big-reckoning-is-here/</id>
-        <link href="https://www.wired.com/story/metas-big-reckoning-is-here/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada]]></title>
-        <id>https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/</id>
-        <link href="https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss]]></title>
-        <id>https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/</id>
-        <link href="https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone targeted security researchers using a fake crypto conference as a lure]]></title>
-        <id>https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/</id>
-        <link href="https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark buys a castle]]></title>
-        <id>https://techcrunch.com/2026/08/20/mark-buys-a-castle/</id>
-        <link href="https://techcrunch.com/2026/08/20/mark-buys-a-castle/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Castelion hits $13B valuation to mass-produce hypersonic missiles]]></title>
-        <id>https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/</id>
-        <link href="https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know ]]></title>
-        <id>https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</id>
-        <link href="https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner]]></title>
-        <id>https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/</id>
-        <link href="https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta brings Pocket, an app that lets you vibe-code and share games, to US users]]></title>
-        <id>https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/</id>
-        <link href="https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
