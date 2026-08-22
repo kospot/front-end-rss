@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-22T00:01:38.718Z</updated>
+    <updated>2026-08-22T02:01:47.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,16 +36,16 @@
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US government lab is probing Chinese lidar for security vulnerabilities]]></title>
-        <id>https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/</id>
-        <link href="https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/"/>
+        <title type="html"><![CDATA[Japanese space tech startup Letara expands beyond satellite thrusters with $16M]]></title>
+        <id>https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/</id>
+        <link href="https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waymo hands over documents in NHTSA’s child collision probe]]></title>
-        <id>https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/</id>
-        <link href="https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/"/>
+        <title type="html"><![CDATA[TikTok reaches $400M settlement over children’s privacy lawsuit]]></title>
+        <id>https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/</id>
+        <link href="https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
@@ -57,9 +57,16 @@
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TikTok reaches $400M settlement over children’s privacy lawsuit]]></title>
-        <id>https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/</id>
-        <link href="https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/"/>
+        <title type="html"><![CDATA[Waymo hands over documents in NHTSA’s child collision probe]]></title>
+        <id>https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/</id>
+        <link href="https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US government lab is probing Chinese lidar for security vulnerabilities]]></title>
+        <id>https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/</id>
+        <link href="https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
@@ -99,13 +106,6 @@
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your AI Agent Doesn’t Need More Memory. It Needs to Forget]]></title>
-        <id>https://pub.towardsai.net/your-ai-agent-doesnt-need-more-memory-it-needs-to-forget-443314880578?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-ai-agent-doesnt-need-more-memory-it-needs-to-forget-443314880578?source=rss----98111c9905da---4"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Agentic RAG: Retrieval When the Agent Is Driving]]></title>
         <id>https://pub.towardsai.net/agentic-rag-retrieval-when-the-agent-is-driving-257ee4593f6e?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/agentic-rag-retrieval-when-the-agent-is-driving-257ee4593f6e?source=rss----98111c9905da---4"/>
@@ -113,51 +113,30 @@
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a zero-code-execution visual architecture & route tracer for Python and TypeScript]]></title>
-        <id>https://dev.to/anas_4890/i-built-a-zero-code-execution-visual-architecture-route-tracer-for-python-and-typescript-5g3n</id>
-        <link href="https://dev.to/anas_4890/i-built-a-zero-code-execution-visual-architecture-route-tracer-for-python-and-typescript-5g3n"/>
+        <title type="html"><![CDATA[Your AI Agent Doesn’t Need More Memory. It Needs to Forget]]></title>
+        <id>https://pub.towardsai.net/your-ai-agent-doesnt-need-more-memory-it-needs-to-forget-443314880578?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-ai-agent-doesnt-need-more-memory-it-needs-to-forget-443314880578?source=rss----98111c9905da---4"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zero-Overhead Polyglot Crypto: Streaming Hashes from Python to Node.js in One Script]]></title>
-        <id>https://dev.to/o-o1112/zero-overhead-polyglot-crypto-streaming-hashes-from-python-to-nodejs-in-one-script-43oc</id>
-        <link href="https://dev.to/o-o1112/zero-overhead-polyglot-crypto-streaming-hashes-from-python-to-nodejs-in-one-script-43oc"/>
+        <title type="html"><![CDATA[I Built a Free Podcast Show Notes Generator (Because Descript Charges $12/month)]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-show-notes-generator-because-descript-charges-12month-5b20</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-show-notes-generator-because-descript-charges-12month-5b20"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GreaseMonkey, or How to Enhance Your Web Experience (2008)]]></title>
-        <id>https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003</id>
-        <link href="https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003"/>
+        <title type="html"><![CDATA[I Built a Free Podcast Episode Planner & Show Notes Generator (Because Descript Charges $12/month)]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-episode-planner-show-notes-generator-because-descript-charges-12month-cd1</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-episode-planner-show-notes-generator-because-descript-charges-12month-cd1"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What a Website Can Learn From Your Browser: IP, WebRTC, and IPv6]]></title>
-        <id>https://dev.to/skayletdev/what-a-website-can-learn-from-your-browser-ip-webrtc-and-ipv6-2n6i</id>
-        <link href="https://dev.to/skayletdev/what-a-website-can-learn-from-your-browser-ip-webrtc-and-ipv6-2n6i"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Real-Time AI Video Workflows with Server-Sent Events and Webhooks]]></title>
-        <id>https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k</id>
-        <link href="https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cypress Is Not A Faster Selenium, It Is A Different Bet]]></title>
-        <id>https://dev.to/paulcrinigan/cypress-is-not-a-faster-selenium-it-is-a-different-bet-11cc</id>
-        <link href="https://dev.to/paulcrinigan/cypress-is-not-a-faster-selenium-it-is-a-different-bet-11cc"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[# Week 3 - Task 2: Understanding JavaScript Core Concepts]]></title>
-        <id>https://dev.to/koushikmaya/-week-3-task-2-understanding-javascript-core-concepts-13ei</id>
-        <link href="https://dev.to/koushikmaya/-week-3-task-2-understanding-javascript-core-concepts-13ei"/>
+        <title type="html"><![CDATA[Chrome Can Now Measure Your SPA's Core Web Vitals. Google's Ranking Data Still Can't See Them.]]></title>
+        <id>https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f</id>
+        <link href="https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
@@ -169,9 +148,51 @@
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome Can Now Measure Your SPA's Core Web Vitals. Google's Ranking Data Still Can't See Them.]]></title>
-        <id>https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f</id>
-        <link href="https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f"/>
+        <title type="html"><![CDATA[# Week 3 - Task 2: Understanding JavaScript Core Concepts]]></title>
+        <id>https://dev.to/koushikmaya/-week-3-task-2-understanding-javascript-core-concepts-13ei</id>
+        <link href="https://dev.to/koushikmaya/-week-3-task-2-understanding-javascript-core-concepts-13ei"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cypress Is Not A Faster Selenium, It Is A Different Bet]]></title>
+        <id>https://dev.to/paulcrinigan/cypress-is-not-a-faster-selenium-it-is-a-different-bet-11cc</id>
+        <link href="https://dev.to/paulcrinigan/cypress-is-not-a-faster-selenium-it-is-a-different-bet-11cc"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Real-Time AI Video Workflows with Server-Sent Events and Webhooks]]></title>
+        <id>https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k</id>
+        <link href="https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What a Website Can Learn From Your Browser: IP, WebRTC, and IPv6]]></title>
+        <id>https://dev.to/skayletdev/what-a-website-can-learn-from-your-browser-ip-webrtc-and-ipv6-2n6i</id>
+        <link href="https://dev.to/skayletdev/what-a-website-can-learn-from-your-browser-ip-webrtc-and-ipv6-2n6i"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GreaseMonkey, or How to Enhance Your Web Experience (2008)]]></title>
+        <id>https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003</id>
+        <link href="https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-Overhead Polyglot Crypto: Streaming Hashes from Python to Node.js in One Script]]></title>
+        <id>https://dev.to/o-o1112/zero-overhead-polyglot-crypto-streaming-hashes-from-python-to-nodejs-in-one-script-43oc</id>
+        <link href="https://dev.to/o-o1112/zero-overhead-polyglot-crypto-streaming-hashes-from-python-to-nodejs-in-one-script-43oc"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a zero-code-execution visual architecture & route tracer for Python and TypeScript]]></title>
+        <id>https://dev.to/anas_4890/i-built-a-zero-code-execution-visual-architecture-route-tracer-for-python-and-typescript-5g3n</id>
+        <link href="https://dev.to/anas_4890/i-built-a-zero-code-execution-visual-architecture-route-tracer-for-python-and-typescript-5g3n"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
@@ -288,65 +309,16 @@
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants]]></title>
-        <id>https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/</id>
-        <link href="https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/"/>
+        <title type="html"><![CDATA[Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada]]></title>
+        <id>https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/</id>
+        <link href="https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senator asks US government watchdog to review how feds use hacking tools]]></title>
-        <id>https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/</id>
-        <link href="https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inertia Enterprises finds a way to make its fusion fuel fast]]></title>
-        <id>https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/</id>
-        <link href="https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2026 Startup Battlefield 200 is here — see who made the cut]]></title>
-        <id>https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/</id>
-        <link href="https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta brings Pocket, an app that lets you vibe-code and share games, to US users]]></title>
-        <id>https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/</id>
-        <link href="https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner]]></title>
-        <id>https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/</id>
-        <link href="https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know ]]></title>
-        <id>https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</id>
-        <link href="https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Castelion hits $13B valuation to mass-produce hypersonic missiles]]></title>
-        <id>https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/</id>
-        <link href="https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark buys a castle]]></title>
-        <id>https://techcrunch.com/2026/08/20/mark-buys-a-castle/</id>
-        <link href="https://techcrunch.com/2026/08/20/mark-buys-a-castle/"/>
+        <title type="html"><![CDATA[The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss]]></title>
+        <id>https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/</id>
+        <link href="https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
@@ -358,9 +330,37 @@
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss]]></title>
-        <id>https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/</id>
-        <link href="https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/"/>
+        <title type="html"><![CDATA[Mark buys a castle]]></title>
+        <id>https://techcrunch.com/2026/08/20/mark-buys-a-castle/</id>
+        <link href="https://techcrunch.com/2026/08/20/mark-buys-a-castle/"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Castelion hits $13B valuation to mass-produce hypersonic missiles]]></title>
+        <id>https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/</id>
+        <link href="https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know ]]></title>
+        <id>https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</id>
+        <link href="https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner]]></title>
+        <id>https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/</id>
+        <link href="https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/"/>
+        <updated>2026-08-20T16:00:00.000Z</updated>
+        <published>2026-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta brings Pocket, an app that lets you vibe-code and share games, to US users]]></title>
+        <id>https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/</id>
+        <link href="https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"/>
         <updated>2026-08-20T16:00:00.000Z</updated>
         <published>2026-08-20T16:00:00.000Z</published>
     </entry>
