@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-22T04:01:20.646Z</updated>
+    <updated>2026-08-22T07:01:58.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,86 +71,37 @@
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Freaky in the Age of AI]]></title>
-        <id>https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/</id>
-        <link href="https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/"/>
+        <title type="html"><![CDATA[Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not]]></title>
+        <id>https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology</id>
+        <link href="https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linus: And this was a debug session from hell, enormously helped by an AI]]></title>
-        <id>https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c</id>
-        <link href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c"/>
+        <title type="html"><![CDATA[Setoku: Self-hosted MCP knowledge server for company data]]></title>
+        <id>https://setoku.com/</id>
+        <link href="https://setoku.com/"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Cognitive Barrier to Teaching]]></title>
-        <id>https://educationrealist.substack.com/p/the-cognitive-barrier-to-teaching</id>
-        <link href="https://educationrealist.substack.com/p/the-cognitive-barrier-to-teaching"/>
+        <title type="html"><![CDATA[Making LEDs at Home [video]]]></title>
+        <id>https://www.youtube.com/watch?v=VHyoz8fFpUM</id>
+        <link href="https://www.youtube.com/watch?v=VHyoz8fFpUM"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google MADE A MISTAKE – Pixel 11 Pro Fold durability test [video]]]></title>
-        <id>https://www.youtube.com/watch?v=jUT3rUZGqLA</id>
-        <link href="https://www.youtube.com/watch?v=jUT3rUZGqLA"/>
+        <title type="html"><![CDATA[SpessaSynth: SF2/DLS JavaScript Synthesizer Online Demo]]></title>
+        <id>https://spessasus.github.io/SpessaSynth/</id>
+        <link href="https://spessasus.github.io/SpessaSynth/"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Run frontier models on gaming GPUs]]></title>
-        <id>https://twitter.com/andy_shuoyang/status/2090856982383300898</id>
-        <link href="https://twitter.com/andy_shuoyang/status/2090856982383300898"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guitar Tuner (2015)]]></title>
-        <id>https://aerotwist.com/blog/guitar-tuner/</id>
-        <link href="https://aerotwist.com/blog/guitar-tuner/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How fast is C++26's std:hive?]]></title>
-        <id>https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/</id>
-        <link href="https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Próspera- libertarian utopia on Caribbean island off the coast of Honduras]]></title>
-        <id>https://www.abc.net.au/news/2026-08-22/honduras-prospera-libertarian-utopia-caribbean-roatan/107045960</id>
-        <link href="https://www.abc.net.au/news/2026-08-22/honduras-prospera-libertarian-utopia-caribbean-roatan/107045960"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Postgres cluster, many apps]]></title>
-        <id>https://planetscale.com/blog/one-postgres-cluster-many-apps</id>
-        <link href="https://planetscale.com/blog/one-postgres-cluster-many-apps"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greenwich moon time? The race to set lunar clocks]]></title>
-        <id>https://www.ft.com/content/d09e9c05-60c8-4c8a-8230-a5476a049b88</id>
-        <link href="https://www.ft.com/content/d09e9c05-60c8-4c8a-8230-a5476a049b88"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astronomers witness cosmic recycling system in action]]></title>
-        <id>https://news.northwestern.edu/stories/2026/08-2/astronomers-witness-cosmic-recycling-system-in-action</id>
-        <link href="https://news.northwestern.edu/stories/2026/08-2/astronomers-witness-cosmic-recycling-system-in-action"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive Child Safety Trial Against Meta Starts in Federal Court]]></title>
-        <id>https://www.wsj.com/tech/massive-child-safety-trial-against-meta-starts-in-federal-court-130e3739</id>
-        <link href="https://www.wsj.com/tech/massive-child-safety-trial-against-meta-starts-in-federal-court-130e3739"/>
+        <title type="html"><![CDATA[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI]]></title>
+        <id>https://arxiv.org/abs/2511.07885</id>
+        <link href="https://arxiv.org/abs/2511.07885"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
@@ -162,23 +113,107 @@
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Contrastive Learning: The Secret Behind Today’s Smartest Vision Models]]></title>
-        <id>https://pub.towardsai.net/contrastive-learning-the-secret-behind-todays-smartest-vision-models-b51333fb72be?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/contrastive-learning-the-secret-behind-todays-smartest-vision-models-b51333fb72be?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Massive Child Safety Trial Against Meta Starts in Federal Court]]></title>
+        <id>https://www.wsj.com/tech/massive-child-safety-trial-against-meta-starts-in-federal-court-130e3739</id>
+        <link href="https://www.wsj.com/tech/massive-child-safety-trial-against-meta-starts-in-federal-court-130e3739"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Models Forget: Why Machine Unlearning Is Harder Than Training]]></title>
-        <id>https://pub.towardsai.net/making-models-forget-why-machine-unlearning-is-harder-than-training-725b8abab89d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/making-models-forget-why-machine-unlearning-is-harder-than-training-725b8abab89d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Astronomers witness cosmic recycling system in action]]></title>
+        <id>https://news.northwestern.edu/stories/2026/08-2/astronomers-witness-cosmic-recycling-system-in-action</id>
+        <link href="https://news.northwestern.edu/stories/2026/08-2/astronomers-witness-cosmic-recycling-system-in-action"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your AI Agent Doesn’t Need More Memory. It Needs to Forget]]></title>
-        <id>https://pub.towardsai.net/your-ai-agent-doesnt-need-more-memory-it-needs-to-forget-443314880578?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-ai-agent-doesnt-need-more-memory-it-needs-to-forget-443314880578?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Greenwich moon time? The race to set lunar clocks]]></title>
+        <id>https://www.ft.com/content/d09e9c05-60c8-4c8a-8230-a5476a049b88</id>
+        <link href="https://www.ft.com/content/d09e9c05-60c8-4c8a-8230-a5476a049b88"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Postgres cluster, many apps]]></title>
+        <id>https://planetscale.com/blog/one-postgres-cluster-many-apps</id>
+        <link href="https://planetscale.com/blog/one-postgres-cluster-many-apps"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Próspera- libertarian utopia on Caribbean island off the coast of Honduras]]></title>
+        <id>https://www.abc.net.au/news/2026-08-22/honduras-prospera-libertarian-utopia-caribbean-roatan/107045960</id>
+        <link href="https://www.abc.net.au/news/2026-08-22/honduras-prospera-libertarian-utopia-caribbean-roatan/107045960"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How fast is C++26's std:hive?]]></title>
+        <id>https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/</id>
+        <link href="https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guitar Tuner (2015)]]></title>
+        <id>https://aerotwist.com/blog/guitar-tuner/</id>
+        <link href="https://aerotwist.com/blog/guitar-tuner/"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run frontier models on gaming GPUs]]></title>
+        <id>https://twitter.com/andy_shuoyang/status/2090856982383300898</id>
+        <link href="https://twitter.com/andy_shuoyang/status/2090856982383300898"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google MADE A MISTAKE – Pixel 11 Pro Fold durability test [video]]]></title>
+        <id>https://www.youtube.com/watch?v=jUT3rUZGqLA</id>
+        <link href="https://www.youtube.com/watch?v=jUT3rUZGqLA"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cognitive Barrier to Teaching]]></title>
+        <id>https://educationrealist.substack.com/p/the-cognitive-barrier-to-teaching</id>
+        <link href="https://educationrealist.substack.com/p/the-cognitive-barrier-to-teaching"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus: And this was a debug session from hell, enormously helped by an AI]]></title>
+        <id>https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c</id>
+        <link href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Freaky in the Age of AI]]></title>
+        <id>https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/</id>
+        <link href="https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5, Llama And Qwen Agree: YAML Is Smaller Than JSON And Costs More Tokens]]></title>
+        <id>https://pub.towardsai.net/gpt-5-llama-and-qwen-agree-yaml-is-smaller-than-json-and-costs-more-tokens-a9496ee62ff9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/gpt-5-llama-and-qwen-agree-yaml-is-smaller-than-json-and-costs-more-tokens-a9496ee62ff9?source=rss----98111c9905da---4"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Prompt to Diagram to Pull Request: Building AI-Powered Collaboration on a Visual Canvas]]></title>
+        <id>https://pub.towardsai.net/from-prompt-to-diagram-to-pull-request-building-ai-powered-collaboration-on-a-visual-canvas-75ff18008b88?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/from-prompt-to-diagram-to-pull-request-building-ai-powered-collaboration-on-a-visual-canvas-75ff18008b88?source=rss----98111c9905da---4"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Microsoft Fabric Disaster Recovery Fails, And How to Architect Around It]]></title>
+        <id>https://pub.towardsai.net/why-microsoft-fabric-disaster-recovery-fails-and-how-to-architect-around-it-e0394f17ba11?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-microsoft-fabric-disaster-recovery-fails-and-how-to-architect-around-it-e0394f17ba11?source=rss----98111c9905da---4"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
@@ -190,114 +225,72 @@
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Sports Data Pipeline: Lessons from Not hanging around England lose final two wickets early on day three]]></title>
-        <id>https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-not-hanging-around-england-lose-final-two-wickets-38ic</id>
-        <link href="https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-not-hanging-around-england-lose-final-two-wickets-38ic"/>
+        <title type="html"><![CDATA[Your AI Agent Doesn’t Need More Memory. It Needs to Forget]]></title>
+        <id>https://pub.towardsai.net/your-ai-agent-doesnt-need-more-memory-it-needs-to-forget-443314880578?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-ai-agent-doesnt-need-more-memory-it-needs-to-forget-443314880578?source=rss----98111c9905da---4"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Sports Data Pipeline: Lessons from Argentinas Paredes banned for 10 games after World Cup clashes]]></title>
-        <id>https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-argentinas-paredes-banned-for-10-games-after-world-3kch</id>
-        <link href="https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-argentinas-paredes-banned-for-10-games-after-world-3kch"/>
+        <title type="html"><![CDATA[Making Models Forget: Why Machine Unlearning Is Harder Than Training]]></title>
+        <id>https://pub.towardsai.net/making-models-forget-why-machine-unlearning-is-harder-than-training-725b8abab89d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/making-models-forget-why-machine-unlearning-is-harder-than-training-725b8abab89d?source=rss----98111c9905da---4"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Segment Track Call Needs an Event Name. The HTTP 200 Does Not Check.]]></title>
-        <id>https://dev.to/aleksuix/a-segment-track-call-needs-an-event-name-the-http-200-does-not-check-3m71</id>
-        <link href="https://dev.to/aleksuix/a-segment-track-call-needs-an-event-name-the-http-200-does-not-check-3m71"/>
+        <title type="html"><![CDATA[Contrastive Learning: The Secret Behind Today’s Smartest Vision Models]]></title>
+        <id>https://pub.towardsai.net/contrastive-learning-the-secret-behind-todays-smartest-vision-models-b51333fb72be?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/contrastive-learning-the-secret-behind-todays-smartest-vision-models-b51333fb72be?source=rss----98111c9905da---4"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PostHog Capture Treats an Epoch Timestamp as Ingestion Time]]></title>
-        <id>https://dev.to/aleksuix/posthog-capture-treats-an-epoch-timestamp-as-ingestion-time-2bng</id>
-        <link href="https://dev.to/aleksuix/posthog-capture-treats-an-epoch-timestamp-as-ingestion-time-2bng"/>
+        <title type="html"><![CDATA[Best Headless Ecommerce Platforms in 2026: A Decision Guide]]></title>
+        <id>https://dev.to/appwebseo/best-headless-ecommerce-platforms-in-2026-a-decision-guide-kob</id>
+        <link href="https://dev.to/appwebseo/best-headless-ecommerce-platforms-in-2026-a-decision-guide-kob"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Podcast Guest Release & Consent Form Generator — Why pay $228/year to PandaDoc?]]></title>
-        <id>https://dev.to/jack_green_7b74cb2cdf9e23/podcast-guest-release-consent-form-generator-why-pay-228year-to-pandadoc-hnl</id>
-        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/podcast-guest-release-consent-form-generator-why-pay-228year-to-pandadoc-hnl"/>
+        <title type="html"><![CDATA[Your fetch in beforeunload is silently killed. navigator.sendBeacon guarantees delivery.]]></title>
+        <id>https://dev.to/parsajiravand/your-fetch-in-beforeunload-is-silently-killed-navigatorsendbeacon-guarantees-delivery-17pn</id>
+        <link href="https://dev.to/parsajiravand/your-fetch-in-beforeunload-is-silently-killed-navigatorsendbeacon-guarantees-delivery-17pn"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta's Conversions API Wants Seconds. Date.now() Sends Milliseconds.]]></title>
-        <id>https://dev.to/aleksuix/metas-conversions-api-wants-seconds-datenow-sends-milliseconds-4p80</id>
-        <link href="https://dev.to/aleksuix/metas-conversions-api-wants-seconds-datenow-sends-milliseconds-4p80"/>
+        <title type="html"><![CDATA[Buy Verified PayPal Accounts with Instant Access]]></title>
+        <id>https://dev.to/paypalacc91/buy-verified-paypal-accounts-with-instant-access-p2m</id>
+        <link href="https://dev.to/paypalacc91/buy-verified-paypal-accounts-with-instant-access-p2m"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a zero-code-execution visual architecture & route tracer for Python and TypeScript]]></title>
-        <id>https://dev.to/anas_4890/i-built-a-zero-code-execution-visual-architecture-route-tracer-for-python-and-typescript-5g3n</id>
-        <link href="https://dev.to/anas_4890/i-built-a-zero-code-execution-visual-architecture-route-tracer-for-python-and-typescript-5g3n"/>
+        <title type="html"><![CDATA[Best Web Development Course in Laxminagar: Build Skills for a Successful Digital Career]]></title>
+        <id>https://dev.to/shahin_981ca06dd02c65874f/best-web-development-course-in-laxminagar-build-skills-for-a-successful-digital-career-1hba</id>
+        <link href="https://dev.to/shahin_981ca06dd02c65874f/best-web-development-course-in-laxminagar-build-skills-for-a-successful-digital-career-1hba"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zero-Overhead Polyglot Crypto: Streaming Hashes from Python to Node.js in One Script]]></title>
-        <id>https://dev.to/o-o1112/zero-overhead-polyglot-crypto-streaming-hashes-from-python-to-nodejs-in-one-script-43oc</id>
-        <link href="https://dev.to/o-o1112/zero-overhead-polyglot-crypto-streaming-hashes-from-python-to-nodejs-in-one-script-43oc"/>
+        <title type="html"><![CDATA[Buy Verified PayPal Accounts Available for Purchase]]></title>
+        <id>https://dev.to/paypalacc91/buy-verified-paypal-accounts-available-for-purchase-1b6d</id>
+        <link href="https://dev.to/paypalacc91/buy-verified-paypal-accounts-available-for-purchase-1b6d"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GreaseMonkey, or How to Enhance Your Web Experience (2008)]]></title>
-        <id>https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003</id>
-        <link href="https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003"/>
+        <title type="html"><![CDATA[How to Integrate Digital Gift Card Rewards into Web Applications (2026 Guide)]]></title>
+        <id>https://dev.to/james65/how-to-integrate-digital-gift-card-rewards-into-web-applications-2026-guide-939</id>
+        <link href="https://dev.to/james65/how-to-integrate-digital-gift-card-rewards-into-web-applications-2026-guide-939"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What a Website Can Learn From Your Browser: IP, WebRTC, and IPv6]]></title>
-        <id>https://dev.to/skayletdev/what-a-website-can-learn-from-your-browser-ip-webrtc-and-ipv6-2n6i</id>
-        <link href="https://dev.to/skayletdev/what-a-website-can-learn-from-your-browser-ip-webrtc-and-ipv6-2n6i"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Real-Time AI Video Workflows with Server-Sent Events and Webhooks]]></title>
-        <id>https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k</id>
-        <link href="https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cypress Is Not A Faster Selenium, It Is A Different Bet]]></title>
-        <id>https://dev.to/paulcrinigan/cypress-is-not-a-faster-selenium-it-is-a-different-bet-11cc</id>
-        <link href="https://dev.to/paulcrinigan/cypress-is-not-a-faster-selenium-it-is-a-different-bet-11cc"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[# Week 3 - Task 2: Understanding JavaScript Core Concepts]]></title>
-        <id>https://dev.to/koushikmaya/-week-3-task-2-understanding-javascript-core-concepts-13ei</id>
-        <link href="https://dev.to/koushikmaya/-week-3-task-2-understanding-javascript-core-concepts-13ei"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Handle Client-Side CSV Merging Without Server Processing]]></title>
-        <id>https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8</id>
-        <link href="https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome Can Now Measure Your SPA's Core Web Vitals. Google's Ranking Data Still Can't See Them.]]></title>
-        <id>https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f</id>
-        <link href="https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Free Podcast Episode Planner & Show Notes Generator (Because Descript Charges $12/month)]]></title>
-        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-episode-planner-show-notes-generator-because-descript-charges-12month-cd1</id>
-        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-episode-planner-show-notes-generator-because-descript-charges-12month-cd1"/>
+        <title type="html"><![CDATA[[Python/JS/C#] Block Language 2.2.0: Run Polyglot Workflows in One Document]]></title>
+        <id>https://dev.to/o-o1112/pythonjsc-block-language-220-run-polyglot-workflows-in-one-document-1e80</id>
+        <link href="https://dev.to/o-o1112/pythonjsc-block-language-220-run-polyglot-workflows-in-one-document-1e80"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
@@ -309,59 +302,66 @@
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验]]></title>
-        <id>https://sspai.com/post/113586</id>
-        <link href="https://sspai.com/post/113586"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built a Free Podcast Episode Planner & Show Notes Generator (Because Descript Charges $12/month)]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-episode-planner-show-notes-generator-because-descript-charges-12month-cd1</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-podcast-episode-planner-show-notes-generator-because-descript-charges-12month-cd1"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：华为发布 Pura X View、享界 G9 等多款新品]]></title>
-        <id>https://sspai.com/post/113666</id>
-        <link href="https://sspai.com/post/113666"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Chrome Can Now Measure Your SPA's Core Web Vitals. Google's Ranking Data Still Can't See Them.]]></title>
+        <id>https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f</id>
+        <link href="https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why does it seem like food recalls are out of control this year?]]></title>
-        <id>https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control</id>
-        <link href="https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How We Handle Client-Side CSV Merging Without Server Processing]]></title>
+        <id>https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8</id>
+        <link href="https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mark Zuckerberg bought an Irish castle]]></title>
-        <id>https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland</id>
-        <link href="https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[# Week 3 - Task 2: Understanding JavaScript Core Concepts]]></title>
+        <id>https://dev.to/koushikmaya/-week-3-task-2-understanding-javascript-core-concepts-13ei</id>
+        <link href="https://dev.to/koushikmaya/-week-3-task-2-understanding-javascript-core-concepts-13ei"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Discover is getting an AI chatbot-tuned feed]]></title>
-        <id>https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed</id>
-        <link href="https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Cypress Is Not A Faster Selenium, It Is A Different Bet]]></title>
+        <id>https://dev.to/paulcrinigan/cypress-is-not-a-faster-selenium-it-is-a-different-bet-11cc</id>
+        <link href="https://dev.to/paulcrinigan/cypress-is-not-a-faster-selenium-it-is-a-different-bet-11cc"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Patreon is changing its algorithm to help smaller creators get discovered]]></title>
-        <id>https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes</id>
-        <link href="https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How to Build Real-Time AI Video Workflows with Server-Sent Events and Webhooks]]></title>
+        <id>https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k</id>
+        <link href="https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My cats hate each other, but this automatic feeder is helping]]></title>
-        <id>https://www.theverge.com/gadgets/982897/automatic-feeder-cat-enemies</id>
-        <link href="https://www.theverge.com/gadgets/982897/automatic-feeder-cat-enemies"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[What a Website Can Learn From Your Browser: IP, WebRTC, and IPv6]]></title>
+        <id>https://dev.to/skayletdev/what-a-website-can-learn-from-your-browser-ip-webrtc-and-ipv6-2n6i</id>
+        <link href="https://dev.to/skayletdev/what-a-website-can-learn-from-your-browser-ip-webrtc-and-ipv6-2n6i"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla sunsets its Solar Roof tiles]]></title>
-        <id>https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued</id>
-        <link href="https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued"/>
-        <updated>2026-08-20T16:00:00.000Z</updated>
-        <published>2026-08-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[GreaseMonkey, or How to Enhance Your Web Experience (2008)]]></title>
+        <id>https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003</id>
+        <link href="https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-Overhead Polyglot Crypto: Streaming Hashes from Python to Node.js in One Script]]></title>
+        <id>https://dev.to/o-o1112/zero-overhead-polyglot-crypto-streaming-hashes-from-python-to-nodejs-in-one-script-43oc</id>
+        <link href="https://dev.to/o-o1112/zero-overhead-polyglot-crypto-streaming-hashes-from-python-to-nodejs-in-one-script-43oc"/>
+        <updated>2026-08-21T16:00:00.000Z</updated>
+        <published>2026-08-21T16:00:00.000Z</published>
     </entry>
 </feed>
