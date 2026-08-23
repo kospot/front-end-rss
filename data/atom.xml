@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-22T22:01:54.033Z</updated>
+    <updated>2026-08-23T00:01:32.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,9 +71,9 @@
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Deep Research Agents Turn Complex Questions Into Trusted Answers]]></title>
-        <id>https://pub.towardsai.net/how-deep-research-agents-turn-complex-questions-into-trusted-answers-03a331803e36?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-deep-research-agents-turn-complex-questions-into-trusted-answers-03a331803e36?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[One Formula to Map the Positional Encoding Landscape]]></title>
+        <id>https://pub.towardsai.net/one-formula-to-map-the-positional-encoding-landscape-7534093c230c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/one-formula-to-map-the-positional-encoding-landscape-7534093c230c?source=rss----98111c9905da---4"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
@@ -85,27 +85,21 @@
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-How React Keeps You Logged In With JWT and Zustand
-]]></title>
-        <id>
-https://www.jstools.space/blog/react-jwt-zustand/
-</id>
-        <link href="
-https://www.jstools.space/blog/react-jwt-zustand/
-"/>
+        <title type="html"><![CDATA[How Deep Research Agents Turn Complex Questions Into Trusted Answers]]></title>
+        <id>https://pub.towardsai.net/how-deep-research-agents-turn-complex-questions-into-trusted-answers-03a331803e36?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-deep-research-agents-turn-complex-questions-into-trusted-answers-03a331803e36?source=rss----98111c9905da---4"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[
-Travels 2.1 – Efficient framework-agnostic undo/redo library based on JSON patches rather than snapshots.
+@pinceladasdaweb/rabbitmq npm package
 ]]></title>
         <id>
-https://github.com/mutativejs/travels
+https://github.com/pinceladasdaweb/rabbitmq
 </id>
         <link href="
-https://github.com/mutativejs/travels
+https://github.com/pinceladasdaweb/rabbitmq
 "/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
@@ -125,56 +119,34 @@ https://github.com/evoluteur/structured-filter-react
     </entry>
     <entry>
         <title type="html"><![CDATA[
-@pinceladasdaweb/rabbitmq npm package
+Travels 2.1 – Efficient framework-agnostic undo/redo library based on JSON patches rather than snapshots.
 ]]></title>
         <id>
-https://github.com/pinceladasdaweb/rabbitmq
+https://github.com/mutativejs/travels
 </id>
         <link href="
-https://github.com/pinceladasdaweb/rabbitmq
+https://github.com/mutativejs/travels
 "/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 37 Sites To Buy, Old Github Accounts In This Year.... ...]]></title>
-        <id>https://dev.to/awkvva6l/top-37-sites-to-buy-old-github-accounts-in-this-year--3k1b</id>
-        <link href="https://dev.to/awkvva6l/top-37-sites-to-buy-old-github-accounts-in-this-year--3k1b"/>
+        <title type="html"><![CDATA[
+How React Keeps You Logged In With JWT and Zustand
+]]></title>
+        <id>
+https://www.jstools.space/blog/react-jwt-zustand/
+</id>
+        <link href="
+https://www.jstools.space/blog/react-jwt-zustand/
+"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forms in React : From Inputs to Controlled Components]]></title>
-        <id>https://dev.to/silaslelei/forms-in-react-from-inputs-to-controlled-components-2e23</id>
-        <link href="https://dev.to/silaslelei/forms-in-react-from-inputs-to-controlled-components-2e23"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Browser Color Picker with WCAG and APCA Contrast Checking]]></title>
-        <id>https://dev.to/asiff256515/how-i-built-a-browser-color-picker-with-wcag-and-apca-contrast-checking-19j3</id>
-        <link href="https://dev.to/asiff256515/how-i-built-a-browser-color-picker-with-wcag-and-apca-contrast-checking-19j3"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abort Stale Email Checks in React]]></title>
-        <id>https://dev.to/ryanlee91/abort-stale-email-checks-in-react-2b5p</id>
-        <link href="https://dev.to/ryanlee91/abort-stale-email-checks-in-react-2b5p"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleashing WebGPU: Why Your Browser is About to Become a Massive Parallel Computing Beast]]></title>
-        <id>https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65</id>
-        <link href="https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Powered Testing with Cypress: Smarter, Faster, More Resilient E2E Tests]]></title>
-        <id>https://dev.to/cityjs_conference_5c08941/ai-powered-testing-with-cypress-smarter-faster-more-resilient-e2e-tests-18b</id>
-        <link href="https://dev.to/cityjs_conference_5c08941/ai-powered-testing-with-cypress-smarter-faster-more-resilient-e2e-tests-18b"/>
+        <title type="html"><![CDATA[Your birth time is lying to you: a time-zone rabbit hole in a Chinese astrology calculator]]></title>
+        <id>https://dev.to/shanni/your-birth-time-is-lying-to-you-a-time-zone-rabbit-hole-in-a-chinese-astrology-calculator-46on</id>
+        <link href="https://dev.to/shanni/your-birth-time-is-lying-to-you-a-time-zone-rabbit-hole-in-a-chinese-astrology-calculator-46on"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
@@ -186,9 +158,44 @@ https://github.com/pinceladasdaweb/rabbitmq
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your birth time is lying to you: a time-zone rabbit hole in a Chinese astrology calculator]]></title>
-        <id>https://dev.to/shanni/your-birth-time-is-lying-to-you-a-time-zone-rabbit-hole-in-a-chinese-astrology-calculator-46on</id>
-        <link href="https://dev.to/shanni/your-birth-time-is-lying-to-you-a-time-zone-rabbit-hole-in-a-chinese-astrology-calculator-46on"/>
+        <title type="html"><![CDATA[AI-Powered Testing with Cypress: Smarter, Faster, More Resilient E2E Tests]]></title>
+        <id>https://dev.to/cityjs_conference_5c08941/ai-powered-testing-with-cypress-smarter-faster-more-resilient-e2e-tests-18b</id>
+        <link href="https://dev.to/cityjs_conference_5c08941/ai-powered-testing-with-cypress-smarter-faster-more-resilient-e2e-tests-18b"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing WebGPU: Why Your Browser is About to Become a Massive Parallel Computing Beast]]></title>
+        <id>https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65</id>
+        <link href="https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abort Stale Email Checks in React]]></title>
+        <id>https://dev.to/ryanlee91/abort-stale-email-checks-in-react-2b5p</id>
+        <link href="https://dev.to/ryanlee91/abort-stale-email-checks-in-react-2b5p"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Browser Color Picker with WCAG and APCA Contrast Checking]]></title>
+        <id>https://dev.to/asiff256515/how-i-built-a-browser-color-picker-with-wcag-and-apca-contrast-checking-19j3</id>
+        <link href="https://dev.to/asiff256515/how-i-built-a-browser-color-picker-with-wcag-and-apca-contrast-checking-19j3"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forms in React : From Inputs to Controlled Components]]></title>
+        <id>https://dev.to/silaslelei/forms-in-react-from-inputs-to-controlled-components-2e23</id>
+        <link href="https://dev.to/silaslelei/forms-in-react-from-inputs-to-controlled-components-2e23"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 37 Sites To Buy, Old Github Accounts In This Year.... ...]]></title>
+        <id>https://dev.to/awkvva6l/top-37-sites-to-buy-old-github-accounts-in-this-year--3k1b</id>
+        <link href="https://dev.to/awkvva6l/top-37-sites-to-buy-old-github-accounts-in-this-year--3k1b"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
@@ -378,13 +385,6 @@ https://github.com/pinceladasdaweb/rabbitmq
         <title type="html"><![CDATA[Run 290B+ frontier MoE models locally on your gaming PC]]></title>
         <id>https://github.com/FlashML-org/FreeToken</id>
         <link href="https://github.com/FlashML-org/FreeToken"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive Child Safety Trial Against Meta Starts in Federal Court]]></title>
-        <id>https://www.wsj.com/tech/massive-child-safety-trial-against-meta-starts-in-federal-court-130e3739</id>
-        <link href="https://www.wsj.com/tech/massive-child-safety-trial-against-meta-starts-in-federal-court-130e3739"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
