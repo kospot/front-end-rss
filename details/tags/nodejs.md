@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-23 21:01:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-23 23:03:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -170,15 +170,15 @@ https://docs.deno.com/runtime/desktop/
 - [2026-08-23-Looking-4-Co-Founder-Hyper-Terawatt:Piston-Less-V8-Engine-Architecture](https://drive.google.com/file/d/18pYk3csOIm82M957FKuYJeTAZ6LCFh8-/view?usp=sharing) 
 - [2026-08-19-Old-School-Electronics-Repair-Man-Vows-to-Be-the-Last-in-Chicago](https://blockclubchicago.org/2026/08/19/old-school-electronics-repair-man-vows-to-be-the-last-in-chicago-a-dying-breed/) 
 - [2026-08-14-Show-HN:-We-Implemented-the-IPv8-Internet-Draft-in-Linux,-Libc,-and-BGP](https://goonhost.rocks/blog/implementing-ipv8-internet-draft) 
-- [2026-08-13-What-Is-Analog-Electronic-Music-and-Why-Does-It-Sound-So-Different?](https://caughtinjoy.com/blogs/studio-notes/analog-electronic-music-a-timeless-sound-that-still-inspires-today) 
 - [2026-08-13-When-the-Denominator-Disappears:-FDA's-Next-Evolution-Should-Be-Causal-Inference](https://www.realclearhealth.com/articles/2026/08/05/when_the_denominator_disappears_1198625.html) 
+- [2026-08-13-What-Is-Analog-Electronic-Music-and-Why-Does-It-Sound-So-Different?](https://caughtinjoy.com/blogs/studio-notes/analog-electronic-music-a-timeless-sound-that-still-inspires-today) 
 - [2026-08-12-Discovery-of-'slow'-electrons-in-2D-material-could-lead-to-new-memory-device](https://phys.org/news/2026-08-discovery-electrons-2d-material-memory.html) 
 - [2026-08-07-Node-Banana](https://github.com/shrimbly/node-banana) 
-- [2026-08-06-STMicroelectronics-profit-misses-estimates,-shares-fall-14%](https://www.reuters.com/technology/stmicros-q3-revenue-view-slightly-lags-estimates-even-chip-demand-recovers-2026-07-23/) 
 - [2026-08-06-Human-inspired-time-series-health-eval-with-adaptive-multi-modal-electronic-skin](https://www.science.org/doi/10.1126/sciadv.aeg5606) 
+- [2026-08-06-STMicroelectronics-profit-misses-estimates,-shares-fall-14%](https://www.reuters.com/technology/stmicros-q3-revenue-view-slightly-lags-estimates-even-chip-demand-recovers-2026-07-23/) 
 - [2026-08-02-Binomial-Expressions](https://blog.oup.com/2026/07/binomial-expressions/) 
 - [2026-08-01-RFC-10023:-The-"_for-sale"-Underscored-and-Globally-Scoped-DNS-Node-Name](https://www.rfc-editor.org/info/rfc10023/) 
-- [2026-07-29-Can-a-2.8T-Model-Run-on-a-Single-Node-of-Nvidia-B300-X8?](https://blog.us.fixstars.com/deploying-kimi-k3-on-day-0-can-a-2-8t-model-run-on-a-single-node-of-nvidia-b300-x8/) 
 - [2026-07-29-Doom-Using-Regular-Expressions](https://4rh1t3ct0r7.github.io/doom-regex/) 
+- [2026-07-29-Can-a-2.8T-Model-Run-on-a-Single-Node-of-Nvidia-B300-X8?](https://blog.us.fixstars.com/deploying-kimi-k3-on-day-0-can-a-2-8t-model-run-on-a-single-node-of-nvidia-b300-x8/) 
 - [2026-07-25-Midjourney-Releasing-v8.2](https://news.ycombinator.com/item?id=49043659) 
 - [2026-08-16-Don&amp;#8217;t-overlook-Elektron&amp;#8217;s-budget-electronic-music-instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review) 

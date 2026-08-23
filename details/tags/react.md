@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-23 21:01:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-23 23:03:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -173,13 +173,13 @@ https://svar.dev/blog/svar-kanban-for-react-svelte-vue/
 - [2026-08-10-AI-Inference-Hooks:-Build-a-Policy-Gateway-Before-Prompts-Reach-the-Model](https://pub.towardsai.net/ai-inference-hooks-build-a-policy-gateway-before-prompts-reach-the-model-5af74f72988b?source=rss----98111c9905da---4) 
 - [2026-08-21-Making-React-Testing-Library-Tests-43%-Faster](https://sigh.dev/posts/making-react-testing-library-faster/) 
 - [2026-08-20-React-ScrollIntoView-and-UseRef:-Scroll-to-Any-Element](https://reactdevelopment.substack.com/p/react-scrollintoview-useref-scroll) 
-- [2026-08-17-It's-Happening-–-Europe-Is-Building-an-Impossible-Fusion-Reactor-video](https://www.youtube.com/watch?v=bPUAKW1Dyek) 
 - [2026-08-17-Show-HN:-Adding-friction-to-my-automatic-open-Claude-reaction](https://news.ycombinator.com/item?id=49325617) 
-- [2026-08-11-Multi-agent-version-control-with-reactive-feedback](https://lexifina.com/blog/adding-a-multi-agent-write-lock) 
+- [2026-08-17-It's-Happening-–-Europe-Is-Building-an-Impossible-Fusion-Reactor-video](https://www.youtube.com/watch?v=bPUAKW1Dyek) 
 - [2026-08-11-React-Native-Firebird](https://asfernandes.github.io/2026/08/09/react-native-firebird) 
+- [2026-08-11-Multi-agent-version-control-with-reactive-feedback](https://lexifina.com/blog/adding-a-multi-agent-write-lock) 
 - [2026-08-07-Romania-blasts-rock-to-divert-water-from-drought-hit-Danube-to-nuclear-reactor](https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary) 
-- [2026-08-05-BrandArtisan-–-React-components-to-brand-PNGs,-no-browser](https://github.com/roslove44/brand-artisan) 
 - [2026-08-05-SpaceX's-AI-spending-unnerves-Wall-Street-despite-promises-of-quick-payoff](https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html) 
+- [2026-08-05-BrandArtisan-–-React-components-to-brand-PNGs,-no-browser](https://github.com/roslove44/brand-artisan) 
 - [2026-08-03-Romania-explodes-rock-to-get-more-water-flow-to-nuclear-reactor](https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates) 
 - [2026-07-30-React's-Programming-Model,-Compiled](https://octanejs.dev) 
 - [2026-07-29-Beamhook-–-stop-macOS-from-sending-your-media-keys-to-the-wrong-app](https://beamhook.app) 
@@ -188,8 +188,8 @@ https://svar.dev/blog/svar-kanban-for-react-svelte-vue/
 - [2026-07-26-Google's-AI-Spending-Spree-Has-Investors-Nervous](https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223) 
 - [2026-07-25-Reactive-Python-Notebooks-in-Jupyter](https://github.com/ipyflow/ipyflow) 
 - [2026-08-19-TerraPower’s-nuclear-reactor-has-a-secret-weapon-for-powering-AI-data-centers](https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/) 
-- [2026-07-28-Antares-raises-$470M-to-build-nuclear-reactors-for-the-US-military](https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/) 
 - [2026-07-28-Thea-Energy-lands-$20M-federal-grant-to-build-its-magnets-for-fusion-reactors](https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/) 
+- [2026-07-28-Antares-raises-$470M-to-build-nuclear-reactors-for-the-US-military](https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/) 
 - [2026-08-17-I’m-hooked-on-Peak-Design’s-new-City-bags](https://www.theverge.com/tech/980137/peak-design-city-line-review) 
 - [2026-08-04-Peak-Design’s-latest-bags-have-clever-integrated-hooks](https://www.theverge.com/tech/973624/peak-design-city-line-details-price) 
 - [2026-07-29-AI’s-finally-expensive-enough-to-make-Wall-Street-nervous](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex) 

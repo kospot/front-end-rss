@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-23 21:01:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-23 23:03:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -26,8 +26,8 @@
 - [2026-08-13-I´ve-built-an-SEO-competitor-analysis-tool.-Where-to-find-small-teams?](https://www.rankshawk.com) 
 - [2026-08-11-Ask-HN:-Will-Claude-watermarking-hurt-your-SEO?-I-guess-for-sure-it-wont-help](https://news.ycombinator.com/item?id=49255463) 
 - [2026-07-30-Show-HN:-DispatchSEO-–-open-source-SEO-manager-tool-for-Claude-Code](https://github.com/NeoZi12/dispatchseo) 
-- [2026-07-26-LaunchRanks-–-Get-actionable-SEO-steps-for-growing-site-authority](https://launchranks.com) 
 - [2026-07-26-Show-HN:-A-Chrome-extension-for-LeetCode-with-context-aware-hints-and-mock-in](https://leetcopilot.dev) 
+- [2026-07-26-LaunchRanks-–-Get-actionable-SEO-steps-for-growing-site-authority](https://launchranks.com) 
 - [2026-08-07-The-Zelda-movie’s-Ganondorf-casting-hints-at-more-movies](https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal) 
 - [2026-08-04-Can-Reddit-fend-off-a-new-wave-of-AI-SEO-spam?](https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam) 
 - [2026-07-31-Tim-Cook-hints-at-iCloud-Plus-tier-for-AI-power-users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai) 
