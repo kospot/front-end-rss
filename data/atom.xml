@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-23T00:01:32.255Z</updated>
+    <updated>2026-08-23T02:01:56.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,30 +29,58 @@
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gea – A new JavaScript framework for old time's sake]]></title>
-        <id>https://geajs.com/docs/README.html</id>
-        <link href="https://geajs.com/docs/README.html"/>
+        <title type="html"><![CDATA[Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?]]></title>
+        <id>https://news.ycombinator.com/item?id=49405520</id>
+        <link href="https://news.ycombinator.com/item?id=49405520"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Spiel – watch your own files on every device]]></title>
-        <id>https://spielplayer.com/</id>
-        <link href="https://spielplayer.com/"/>
+        <title type="html"><![CDATA[Treat AI Like an Intern, Not Software: A Stanford Professor's Guide]]></title>
+        <id>https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software</id>
+        <link href="https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Flying Paper – A native GTK4/C++ Telegram client for Linux]]></title>
-        <id>https://github.com/JumpToSkyFree/flying-paper</id>
-        <link href="https://github.com/JumpToSkyFree/flying-paper"/>
+        <title type="html"><![CDATA[Signing JSON Web Tokens: Algorithm Tradeoffs, Performance, and Security]]></title>
+        <id>https://ciamweekly.substack.com/p/signing-json-web-tokens-algorithm</id>
+        <link href="https://ciamweekly.substack.com/p/signing-json-web-tokens-algorithm"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How often should a zombie team win?]]></title>
-        <id>https://jordanlord.co.uk/blog/simple-elo-football-model/</id>
-        <link href="https://jordanlord.co.uk/blog/simple-elo-football-model/"/>
+        <title type="html"><![CDATA[Show HN: Hands-Rust MCP/CLI that sees the Windows desktop and clicks real Chrome]]></title>
+        <id>https://news.ycombinator.com/item?id=49405405</id>
+        <link href="https://news.ycombinator.com/item?id=49405405"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Agent2Creator – a video social network whose members are AI agents]]></title>
+        <id>https://agent2creator.vidmoat.com</id>
+        <link href="https://agent2creator.vidmoat.com"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verbatim: What Is a Photocopier?]]></title>
+        <id>https://www.nytimes.com/video/opinion/100000002847155/verbatim-what-is-a-photocopier.html</id>
+        <link href="https://www.nytimes.com/video/opinion/100000002847155/verbatim-what-is-a-photocopier.html"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toward safe, flexible, and efficient software in Common Lisp [video]]]></title>
+        <id>https://www.youtube.com/watch?v=of92m4XNgrM</id>
+        <link href="https://www.youtube.com/watch?v=of92m4XNgrM"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Soft Display (Air powered) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=RTOARC-yeMc</id>
+        <link href="https://www.youtube.com/watch?v=RTOARC-yeMc"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
@@ -64,9 +92,30 @@
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Soft Display (Air powered) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=RTOARC-yeMc</id>
-        <link href="https://www.youtube.com/watch?v=RTOARC-yeMc"/>
+        <title type="html"><![CDATA[How often should a zombie team win?]]></title>
+        <id>https://jordanlord.co.uk/blog/simple-elo-football-model/</id>
+        <link href="https://jordanlord.co.uk/blog/simple-elo-football-model/"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Flying Paper – A native GTK4/C++ Telegram client for Linux]]></title>
+        <id>https://github.com/JumpToSkyFree/flying-paper</id>
+        <link href="https://github.com/JumpToSkyFree/flying-paper"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Spiel – watch your own files on every device]]></title>
+        <id>https://spielplayer.com/</id>
+        <link href="https://spielplayer.com/"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gea – A new JavaScript framework for old time's sake]]></title>
+        <id>https://geajs.com/docs/README.html</id>
+        <link href="https://geajs.com/docs/README.html"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
@@ -93,26 +142,52 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[
-@pinceladasdaweb/rabbitmq npm package
+My Redis library said the write succeeded. Redis was down — anatomy of a Node.js client rewrite
 ]]></title>
         <id>
-https://github.com/pinceladasdaweb/rabbitmq
+https://dev.to/pinceladasdaweb/my-redis-library-said-the-write-succeeded-redis-was-down-3dmn
 </id>
         <link href="
-https://github.com/pinceladasdaweb/rabbitmq
+https://dev.to/pinceladasdaweb/my-redis-library-said-the-write-succeeded-redis-was-down-3dmn
 "/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[
-React component for structured queries
+React component for bubble, bars, and pie charts, with animated morphing transitions between charts
 ]]></title>
         <id>
-https://github.com/evoluteur/structured-filter-react
+https://github.com/evoluteur/react-morph-charts
 </id>
         <link href="
-https://github.com/evoluteur/structured-filter-react
+https://github.com/evoluteur/react-morph-charts
+"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[
+Interactive metaballs
+]]></title>
+        <id>
+https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
+</id>
+        <link href="
+https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
+"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[
+How React Keeps You Logged In With JWT and Zustand
+]]></title>
+        <id>
+https://www.jstools.space/blog/react-jwt-zustand/
+</id>
+        <link href="
+https://www.jstools.space/blog/react-jwt-zustand/
 "/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
@@ -132,56 +207,69 @@ https://github.com/mutativejs/travels
     </entry>
     <entry>
         <title type="html"><![CDATA[
-How React Keeps You Logged In With JWT and Zustand
+React component for structured queries
 ]]></title>
         <id>
-https://www.jstools.space/blog/react-jwt-zustand/
+https://github.com/evoluteur/structured-filter-react
 </id>
         <link href="
-https://www.jstools.space/blog/react-jwt-zustand/
+https://github.com/evoluteur/structured-filter-react
 "/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your birth time is lying to you: a time-zone rabbit hole in a Chinese astrology calculator]]></title>
-        <id>https://dev.to/shanni/your-birth-time-is-lying-to-you-a-time-zone-rabbit-hole-in-a-chinese-astrology-calculator-46on</id>
-        <link href="https://dev.to/shanni/your-birth-time-is-lying-to-you-a-time-zone-rabbit-hole-in-a-chinese-astrology-calculator-46on"/>
+        <title type="html"><![CDATA[
+@pinceladasdaweb/rabbitmq npm package
+]]></title>
+        <id>
+https://github.com/pinceladasdaweb/rabbitmq
+</id>
+        <link href="
+https://github.com/pinceladasdaweb/rabbitmq
+"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Master Technical SEO, Core Web Vitals, and the 12-Point Audit Checklist for 2026]]></title>
-        <id>https://dev.to/edo911/master-technical-seo-core-web-vitals-and-the-12-point-audit-checklist-for-2026-32oi</id>
-        <link href="https://dev.to/edo911/master-technical-seo-core-web-vitals-and-the-12-point-audit-checklist-for-2026-32oi"/>
+        <title type="html"><![CDATA[Next.js Error Tracking for API Routes and Server Actions in Production]]></title>
+        <id>https://dev.to/judsonrhodes1569/nextjs-error-tracking-for-api-routes-and-server-actions-in-production-1h90</id>
+        <link href="https://dev.to/judsonrhodes1569/nextjs-error-tracking-for-api-routes-and-server-actions-in-production-1h90"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI-Powered Testing with Cypress: Smarter, Faster, More Resilient E2E Tests]]></title>
-        <id>https://dev.to/cityjs_conference_5c08941/ai-powered-testing-with-cypress-smarter-faster-more-resilient-e2e-tests-18b</id>
-        <link href="https://dev.to/cityjs_conference_5c08941/ai-powered-testing-with-cypress-smarter-faster-more-resilient-e2e-tests-18b"/>
+        <title type="html"><![CDATA[Marketplace Checkout Telemetry in 2026 — React Error Boundary Reports with Fetch]]></title>
+        <id>https://dev.to/brodyvance2149/marketplace-checkout-telemetry-in-2026-react-error-boundary-reports-with-fetch-2n0m</id>
+        <link href="https://dev.to/brodyvance2149/marketplace-checkout-telemetry-in-2026-react-error-boundary-reports-with-fetch-2n0m"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unleashing WebGPU: Why Your Browser is About to Become a Massive Parallel Computing Beast]]></title>
-        <id>https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65</id>
-        <link href="https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65"/>
+        <title type="html"><![CDATA[Tauri Apps without Rust? Write Your Backend in Javascript]]></title>
+        <id>https://dev.to/ozymandiasthegreat/tauri-apps-without-rust-write-your-backend-in-javascript-20g4</id>
+        <link href="https://dev.to/ozymandiasthegreat/tauri-apps-without-rust-write-your-backend-in-javascript-20g4"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abort Stale Email Checks in React]]></title>
-        <id>https://dev.to/ryanlee91/abort-stale-email-checks-in-react-2b5p</id>
-        <link href="https://dev.to/ryanlee91/abort-stale-email-checks-in-react-2b5p"/>
+        <title type="html"><![CDATA[How to Make an HTML5 Game (Browser Loop, 2026)]]></title>
+        <id>https://dev.to/sorceress/how-to-make-an-html5-game-browser-loop-2026-1g88</id>
+        <link href="https://dev.to/sorceress/how-to-make-an-html5-game-browser-loop-2026-1g88"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Browser Color Picker with WCAG and APCA Contrast Checking]]></title>
-        <id>https://dev.to/asiff256515/how-i-built-a-browser-color-picker-with-wcag-and-apca-contrast-checking-19j3</id>
-        <link href="https://dev.to/asiff256515/how-i-built-a-browser-color-picker-with-wcag-and-apca-contrast-checking-19j3"/>
+        <title type="html"><![CDATA[Someone forked my React component instead of opening an issue]]></title>
+        <id>https://dev.to/piro0919/someone-forked-my-react-component-instead-of-opening-an-issue-3d37</id>
+        <link href="https://dev.to/piro0919/someone-forked-my-react-component-instead-of-opening-an-issue-3d37"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 37 Sites To Buy, Old Github Accounts In This Year.... ...]]></title>
+        <id>https://dev.to/awkvva6l/top-37-sites-to-buy-old-github-accounts-in-this-year--3k1b</id>
+        <link href="https://dev.to/awkvva6l/top-37-sites-to-buy-old-github-accounts-in-this-year--3k1b"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
@@ -193,9 +281,44 @@ https://www.jstools.space/blog/react-jwt-zustand/
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 37 Sites To Buy, Old Github Accounts In This Year.... ...]]></title>
-        <id>https://dev.to/awkvva6l/top-37-sites-to-buy-old-github-accounts-in-this-year--3k1b</id>
-        <link href="https://dev.to/awkvva6l/top-37-sites-to-buy-old-github-accounts-in-this-year--3k1b"/>
+        <title type="html"><![CDATA[How I Built a Browser Color Picker with WCAG and APCA Contrast Checking]]></title>
+        <id>https://dev.to/asiff256515/how-i-built-a-browser-color-picker-with-wcag-and-apca-contrast-checking-19j3</id>
+        <link href="https://dev.to/asiff256515/how-i-built-a-browser-color-picker-with-wcag-and-apca-contrast-checking-19j3"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abort Stale Email Checks in React]]></title>
+        <id>https://dev.to/ryanlee91/abort-stale-email-checks-in-react-2b5p</id>
+        <link href="https://dev.to/ryanlee91/abort-stale-email-checks-in-react-2b5p"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing WebGPU: Why Your Browser is About to Become a Massive Parallel Computing Beast]]></title>
+        <id>https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65</id>
+        <link href="https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Powered Testing with Cypress: Smarter, Faster, More Resilient E2E Tests]]></title>
+        <id>https://dev.to/cityjs_conference_5c08941/ai-powered-testing-with-cypress-smarter-faster-more-resilient-e2e-tests-18b</id>
+        <link href="https://dev.to/cityjs_conference_5c08941/ai-powered-testing-with-cypress-smarter-faster-more-resilient-e2e-tests-18b"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Technical SEO, Core Web Vitals, and the 12-Point Audit Checklist for 2026]]></title>
+        <id>https://dev.to/edo911/master-technical-seo-core-web-vitals-and-the-12-point-audit-checklist-for-2026-32oi</id>
+        <link href="https://dev.to/edo911/master-technical-seo-core-web-vitals-and-the-12-point-audit-checklist-for-2026-32oi"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your birth time is lying to you: a time-zone rabbit hole in a Chinese astrology calculator]]></title>
+        <id>https://dev.to/shanni/your-birth-time-is-lying-to-you-a-time-zone-rabbit-hole-in-a-chinese-astrology-calculator-46on</id>
+        <link href="https://dev.to/shanni/your-birth-time-is-lying-to-you-a-time-zone-rabbit-hole-in-a-chinese-astrology-calculator-46on"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
@@ -280,111 +403,6 @@ https://www.jstools.space/blog/react-jwt-zustand/
         <title type="html"><![CDATA[Waymo hands over documents in NHTSA’s child collision probe]]></title>
         <id>https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/</id>
         <link href="https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today ]]></title>
-        <id>https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/</id>
-        <link href="https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok reaches $400M settlement over children’s privacy lawsuit]]></title>
-        <id>https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/</id>
-        <link href="https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese space tech startup Letara expands beyond satellite thrusters with $16M]]></title>
-        <id>https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/</id>
-        <link href="https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTC Targets Personalized Pricing, Stops Short of Ban]]></title>
-        <id>https://www.consumerreports.org/money/prices-price-comparison/personalized-pricing-surveillance-ftc-policy-a9891636455/</id>
-        <link href="https://www.consumerreports.org/money/prices-price-comparison/personalized-pricing-surveillance-ftc-policy-a9891636455/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["I randomly picked 5 universities and looked up sociology department faculty."]]></title>
-        <id>https://www.drvinayprasad.com/p/10-thoughts-about-jason-arday-cambridge</id>
-        <link href="https://www.drvinayprasad.com/p/10-thoughts-about-jason-arday-cambridge"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Social Media's Ad Dominance Is a Billion-Dollar Measurement Illusion]]></title>
-        <id>https://www.adexchanger.com/content-studio/why-social-medias-ad-dominance-is-a-billion-dollar-measurement-illusion/</id>
-        <link href="https://www.adexchanger.com/content-studio/why-social-medias-ad-dominance-is-a-billion-dollar-measurement-illusion/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cells are fast and crowded places]]></title>
-        <id>https://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html</id>
-        <link href="https://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Zuckerberg Buys an Irish Castle]]></title>
-        <id>https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html</id>
-        <link href="https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fingerprint AI Models When Prompts Lie]]></title>
-        <id>https://openrating.io/blog/current-state-of-ai-model-fingerprinting</id>
-        <link href="https://openrating.io/blog/current-state-of-ai-model-fingerprinting"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not]]></title>
-        <id>https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology</id>
-        <link href="https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setoku: Self-hosted MCP knowledge server for company data]]></title>
-        <id>https://setoku.com/</id>
-        <link href="https://setoku.com/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making LEDs at Home [video]]]></title>
-        <id>https://www.youtube.com/watch?v=VHyoz8fFpUM</id>
-        <link href="https://www.youtube.com/watch?v=VHyoz8fFpUM"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpessaSynth: SF2/DLS JavaScript Synthesizer Online Demo]]></title>
-        <id>https://spessasus.github.io/SpessaSynth/</id>
-        <link href="https://spessasus.github.io/SpessaSynth/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI]]></title>
-        <id>https://arxiv.org/abs/2511.07885</id>
-        <link href="https://arxiv.org/abs/2511.07885"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run 290B+ frontier MoE models locally on your gaming PC]]></title>
-        <id>https://github.com/FlashML-org/FreeToken</id>
-        <link href="https://github.com/FlashML-org/FreeToken"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
