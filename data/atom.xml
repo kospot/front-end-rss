@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-23T02:01:56.313Z</updated>
+    <updated>2026-08-23T04:01:24.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[让 PC 与 HomePod 互联：音频串流工具 WinAirCast]]></title>
+        <id>https://sspai.com/post/113002</id>
+        <link href="https://sspai.com/post/113002"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doodle generative compositions in your browser with Musical Spirograph]]></title>
         <id>https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition</id>
@@ -29,79 +36,58 @@
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?]]></title>
-        <id>https://news.ycombinator.com/item?id=49405520</id>
-        <link href="https://news.ycombinator.com/item?id=49405520"/>
+        <title type="html"><![CDATA[Java's String.indexOf can be slow (quadratic)]]></title>
+        <id>https://lemire.me/blog/2026/08/22/javas-string-indexof-can-be-slow-quadratic/</id>
+        <link href="https://lemire.me/blog/2026/08/22/javas-string-indexof-can-be-slow-quadratic/"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Treat AI Like an Intern, Not Software: A Stanford Professor's Guide]]></title>
-        <id>https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software</id>
-        <link href="https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software"/>
+        <title type="html"><![CDATA[Microsoft Blames Windows Gaming Issues on RGB Lighting Devices]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Signing JSON Web Tokens: Algorithm Tradeoffs, Performance, and Security]]></title>
-        <id>https://ciamweekly.substack.com/p/signing-json-web-tokens-algorithm</id>
-        <link href="https://ciamweekly.substack.com/p/signing-json-web-tokens-algorithm"/>
+        <title type="html"><![CDATA[MartyPC is a cross-platform emulator of early PCs written in Rust]]></title>
+        <id>https://martypc.net/</id>
+        <link href="https://martypc.net/"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Hands-Rust MCP/CLI that sees the Windows desktop and clicks real Chrome]]></title>
-        <id>https://news.ycombinator.com/item?id=49405405</id>
-        <link href="https://news.ycombinator.com/item?id=49405405"/>
+        <title type="html"><![CDATA[(Looking 4 Co-Founder) Hyper Terawatt:Piston-Less V8 Engine Architecture]]></title>
+        <id>https://drive.google.com/file/d/18pYk3csOIm82M957FKuYJeTAZ6LCFh8-/view?usp=sharing</id>
+        <link href="https://drive.google.com/file/d/18pYk3csOIm82M957FKuYJeTAZ6LCFh8-/view?usp=sharing"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Agent2Creator – a video social network whose members are AI agents]]></title>
-        <id>https://agent2creator.vidmoat.com</id>
-        <link href="https://agent2creator.vidmoat.com"/>
+        <title type="html"><![CDATA[Phase.rs – a full featured MTG SIM in Rust]]></title>
+        <id>https://github.com/phase-rs/phase</id>
+        <link href="https://github.com/phase-rs/phase"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verbatim: What Is a Photocopier?]]></title>
-        <id>https://www.nytimes.com/video/opinion/100000002847155/verbatim-what-is-a-photocopier.html</id>
-        <link href="https://www.nytimes.com/video/opinion/100000002847155/verbatim-what-is-a-photocopier.html"/>
+        <title type="html"><![CDATA[Passive 3D Thermal "Cloak" Hides Objects from Heat, from Any Direction]]></title>
+        <id>https://www.electronicdesign.com/technologies/power/article/55399858/electronic-design-passive-3d-thermal-cloak-hides-objects-from-heat-from-any-direction</id>
+        <link href="https://www.electronicdesign.com/technologies/power/article/55399858/electronic-design-passive-3d-thermal-cloak-hides-objects-from-heat-from-any-direction"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Toward safe, flexible, and efficient software in Common Lisp [video]]]></title>
-        <id>https://www.youtube.com/watch?v=of92m4XNgrM</id>
-        <link href="https://www.youtube.com/watch?v=of92m4XNgrM"/>
+        <title type="html"><![CDATA[Ask HN: Anyone set up ways to easily obtain and read transcripts from Ted, YT?]]></title>
+        <id>https://news.ycombinator.com/item?id=49405684</id>
+        <link href="https://news.ycombinator.com/item?id=49405684"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Soft Display (Air powered) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=RTOARC-yeMc</id>
-        <link href="https://www.youtube.com/watch?v=RTOARC-yeMc"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[People are more bothered by others' false beliefs than by differences in beliefs]]></title>
-        <id>https://onlinelibrary.wiley.com/doi/10.1111/pops.70138</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/pops.70138"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How often should a zombie team win?]]></title>
-        <id>https://jordanlord.co.uk/blog/simple-elo-football-model/</id>
-        <link href="https://jordanlord.co.uk/blog/simple-elo-football-model/"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Flying Paper – A native GTK4/C++ Telegram client for Linux]]></title>
-        <id>https://github.com/JumpToSkyFree/flying-paper</id>
-        <link href="https://github.com/JumpToSkyFree/flying-paper"/>
+        <title type="html"><![CDATA[Gea – A new JavaScript framework for old time's sake]]></title>
+        <id>https://geajs.com/docs/README.html</id>
+        <link href="https://geajs.com/docs/README.html"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
@@ -113,9 +99,79 @@
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gea – A new JavaScript framework for old time's sake]]></title>
-        <id>https://geajs.com/docs/README.html</id>
-        <link href="https://geajs.com/docs/README.html"/>
+        <title type="html"><![CDATA[Show HN: Flying Paper – A native GTK4/C++ Telegram client for Linux]]></title>
+        <id>https://github.com/JumpToSkyFree/flying-paper</id>
+        <link href="https://github.com/JumpToSkyFree/flying-paper"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How often should a zombie team win?]]></title>
+        <id>https://jordanlord.co.uk/blog/simple-elo-football-model/</id>
+        <link href="https://jordanlord.co.uk/blog/simple-elo-football-model/"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People are more bothered by others' false beliefs than by differences in beliefs]]></title>
+        <id>https://onlinelibrary.wiley.com/doi/10.1111/pops.70138</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/pops.70138"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Soft Display (Air powered) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=RTOARC-yeMc</id>
+        <link href="https://www.youtube.com/watch?v=RTOARC-yeMc"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toward safe, flexible, and efficient software in Common Lisp [video]]]></title>
+        <id>https://www.youtube.com/watch?v=of92m4XNgrM</id>
+        <link href="https://www.youtube.com/watch?v=of92m4XNgrM"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verbatim: What Is a Photocopier?]]></title>
+        <id>https://www.nytimes.com/video/opinion/100000002847155/verbatim-what-is-a-photocopier.html</id>
+        <link href="https://www.nytimes.com/video/opinion/100000002847155/verbatim-what-is-a-photocopier.html"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Agent2Creator – a video social network whose members are AI agents]]></title>
+        <id>https://agent2creator.vidmoat.com</id>
+        <link href="https://agent2creator.vidmoat.com"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Hands-Rust MCP/CLI that sees the Windows desktop and clicks real Chrome]]></title>
+        <id>https://news.ycombinator.com/item?id=49405405</id>
+        <link href="https://news.ycombinator.com/item?id=49405405"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signing JSON Web Tokens: Algorithm Tradeoffs, Performance, and Security]]></title>
+        <id>https://ciamweekly.substack.com/p/signing-json-web-tokens-algorithm</id>
+        <link href="https://ciamweekly.substack.com/p/signing-json-web-tokens-algorithm"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Treat AI Like an Intern, Not Software: A Stanford Professor's Guide]]></title>
+        <id>https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software</id>
+        <link href="https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?]]></title>
+        <id>https://news.ycombinator.com/item?id=49405520</id>
+        <link href="https://news.ycombinator.com/item?id=49405520"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
@@ -232,86 +288,23 @@ https://github.com/pinceladasdaweb/rabbitmq
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js Error Tracking for API Routes and Server Actions in Production]]></title>
-        <id>https://dev.to/judsonrhodes1569/nextjs-error-tracking-for-api-routes-and-server-actions-in-production-1h90</id>
-        <link href="https://dev.to/judsonrhodes1569/nextjs-error-tracking-for-api-routes-and-server-actions-in-production-1h90"/>
+        <title type="html"><![CDATA[How to Convert Images to PDF in the Browser with Vue 3]]></title>
+        <id>https://dev.to/sunshey/how-to-convert-images-to-pdf-in-the-browser-with-vue-3-551g</id>
+        <link href="https://dev.to/sunshey/how-to-convert-images-to-pdf-in-the-browser-with-vue-3-551g"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marketplace Checkout Telemetry in 2026 — React Error Boundary Reports with Fetch]]></title>
-        <id>https://dev.to/brodyvance2149/marketplace-checkout-telemetry-in-2026-react-error-boundary-reports-with-fetch-2n0m</id>
-        <link href="https://dev.to/brodyvance2149/marketplace-checkout-telemetry-in-2026-react-error-boundary-reports-with-fetch-2n0m"/>
+        <title type="html"><![CDATA[HMAC over JSON in TypeScript — why verify fails in production]]></title>
+        <id>https://dev.to/alejandrorodrom/hmac-over-json-in-typescript-why-verify-fails-in-production-457k</id>
+        <link href="https://dev.to/alejandrorodrom/hmac-over-json-in-typescript-why-verify-fails-in-production-457k"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tauri Apps without Rust? Write Your Backend in Javascript]]></title>
-        <id>https://dev.to/ozymandiasthegreat/tauri-apps-without-rust-write-your-backend-in-javascript-20g4</id>
-        <link href="https://dev.to/ozymandiasthegreat/tauri-apps-without-rust-write-your-backend-in-javascript-20g4"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make an HTML5 Game (Browser Loop, 2026)]]></title>
-        <id>https://dev.to/sorceress/how-to-make-an-html5-game-browser-loop-2026-1g88</id>
-        <link href="https://dev.to/sorceress/how-to-make-an-html5-game-browser-loop-2026-1g88"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone forked my React component instead of opening an issue]]></title>
-        <id>https://dev.to/piro0919/someone-forked-my-react-component-instead-of-opening-an-issue-3d37</id>
-        <link href="https://dev.to/piro0919/someone-forked-my-react-component-instead-of-opening-an-issue-3d37"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 37 Sites To Buy, Old Github Accounts In This Year.... ...]]></title>
-        <id>https://dev.to/awkvva6l/top-37-sites-to-buy-old-github-accounts-in-this-year--3k1b</id>
-        <link href="https://dev.to/awkvva6l/top-37-sites-to-buy-old-github-accounts-in-this-year--3k1b"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forms in React : From Inputs to Controlled Components]]></title>
-        <id>https://dev.to/silaslelei/forms-in-react-from-inputs-to-controlled-components-2e23</id>
-        <link href="https://dev.to/silaslelei/forms-in-react-from-inputs-to-controlled-components-2e23"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Browser Color Picker with WCAG and APCA Contrast Checking]]></title>
-        <id>https://dev.to/asiff256515/how-i-built-a-browser-color-picker-with-wcag-and-apca-contrast-checking-19j3</id>
-        <link href="https://dev.to/asiff256515/how-i-built-a-browser-color-picker-with-wcag-and-apca-contrast-checking-19j3"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abort Stale Email Checks in React]]></title>
-        <id>https://dev.to/ryanlee91/abort-stale-email-checks-in-react-2b5p</id>
-        <link href="https://dev.to/ryanlee91/abort-stale-email-checks-in-react-2b5p"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleashing WebGPU: Why Your Browser is About to Become a Massive Parallel Computing Beast]]></title>
-        <id>https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65</id>
-        <link href="https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Powered Testing with Cypress: Smarter, Faster, More Resilient E2E Tests]]></title>
-        <id>https://dev.to/cityjs_conference_5c08941/ai-powered-testing-with-cypress-smarter-faster-more-resilient-e2e-tests-18b</id>
-        <link href="https://dev.to/cityjs_conference_5c08941/ai-powered-testing-with-cypress-smarter-faster-more-resilient-e2e-tests-18b"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Technical SEO, Core Web Vitals, and the 12-Point Audit Checklist for 2026]]></title>
-        <id>https://dev.to/edo911/master-technical-seo-core-web-vitals-and-the-12-point-audit-checklist-for-2026-32oi</id>
-        <link href="https://dev.to/edo911/master-technical-seo-core-web-vitals-and-the-12-point-audit-checklist-for-2026-32oi"/>
+        <title type="html"><![CDATA[5 Ways to Send Frontend JavaScript Errors to a Backend API (Without an SDK)]]></title>
+        <id>https://dev.to/velvetdusk629047/5-ways-to-send-frontend-javascript-errors-to-a-backend-api-without-an-sdk-cfd</id>
+        <link href="https://dev.to/velvetdusk629047/5-ways-to-send-frontend-javascript-errors-to-a-backend-api-without-an-sdk-cfd"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
@@ -323,86 +316,93 @@ https://github.com/pinceladasdaweb/rabbitmq
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Master Technical SEO, Core Web Vitals, and the 12-Point Audit Checklist for 2026]]></title>
+        <id>https://dev.to/edo911/master-technical-seo-core-web-vitals-and-the-12-point-audit-checklist-for-2026-32oi</id>
+        <link href="https://dev.to/edo911/master-technical-seo-core-web-vitals-and-the-12-point-audit-checklist-for-2026-32oi"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Powered Testing with Cypress: Smarter, Faster, More Resilient E2E Tests]]></title>
+        <id>https://dev.to/cityjs_conference_5c08941/ai-powered-testing-with-cypress-smarter-faster-more-resilient-e2e-tests-18b</id>
+        <link href="https://dev.to/cityjs_conference_5c08941/ai-powered-testing-with-cypress-smarter-faster-more-resilient-e2e-tests-18b"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing WebGPU: Why Your Browser is About to Become a Massive Parallel Computing Beast]]></title>
+        <id>https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65</id>
+        <link href="https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abort Stale Email Checks in React]]></title>
+        <id>https://dev.to/ryanlee91/abort-stale-email-checks-in-react-2b5p</id>
+        <link href="https://dev.to/ryanlee91/abort-stale-email-checks-in-react-2b5p"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Browser Color Picker with WCAG and APCA Contrast Checking]]></title>
+        <id>https://dev.to/asiff256515/how-i-built-a-browser-color-picker-with-wcag-and-apca-contrast-checking-19j3</id>
+        <link href="https://dev.to/asiff256515/how-i-built-a-browser-color-picker-with-wcag-and-apca-contrast-checking-19j3"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forms in React : From Inputs to Controlled Components]]></title>
+        <id>https://dev.to/silaslelei/forms-in-react-from-inputs-to-controlled-components-2e23</id>
+        <link href="https://dev.to/silaslelei/forms-in-react-from-inputs-to-controlled-components-2e23"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 37 Sites To Buy, Old Github Accounts In This Year.... ...]]></title>
+        <id>https://dev.to/awkvva6l/top-37-sites-to-buy-old-github-accounts-in-this-year--3k1b</id>
+        <link href="https://dev.to/awkvva6l/top-37-sites-to-buy-old-github-accounts-in-this-year--3k1b"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone forked my React component instead of opening an issue]]></title>
+        <id>https://dev.to/piro0919/someone-forked-my-react-component-instead-of-opening-an-issue-3d37</id>
+        <link href="https://dev.to/piro0919/someone-forked-my-react-component-instead-of-opening-an-issue-3d37"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make an HTML5 Game (Browser Loop, 2026)]]></title>
+        <id>https://dev.to/sorceress/how-to-make-an-html5-game-browser-loop-2026-1g88</id>
+        <link href="https://dev.to/sorceress/how-to-make-an-html5-game-browser-loop-2026-1g88"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tauri Apps without Rust? Write Your Backend in Javascript]]></title>
+        <id>https://dev.to/ozymandiasthegreat/tauri-apps-without-rust-write-your-backend-in-javascript-20g4</id>
+        <link href="https://dev.to/ozymandiasthegreat/tauri-apps-without-rust-write-your-backend-in-javascript-20g4"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marketplace Checkout Telemetry in 2026 — React Error Boundary Reports with Fetch]]></title>
+        <id>https://dev.to/brodyvance2149/marketplace-checkout-telemetry-in-2026-react-error-boundary-reports-with-fetch-2n0m</id>
+        <link href="https://dev.to/brodyvance2149/marketplace-checkout-telemetry-in-2026-react-error-boundary-reports-with-fetch-2n0m"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js Error Tracking for API Routes and Server Actions in Production]]></title>
+        <id>https://dev.to/judsonrhodes1569/nextjs-error-tracking-for-api-routes-and-server-actions-in-production-1h90</id>
+        <link href="https://dev.to/judsonrhodes1569/nextjs-error-tracking-for-api-routes-and-server-actions-in-production-1h90"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Two great new repairable gadgets]]></title>
         <id>https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2</id>
         <link href="https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixel 11 gets in on the digicam trend]]></title>
-        <id>https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend</id>
-        <link href="https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok will pay $400 million to settle DOJ child privacy lawsuit]]></title>
-        <id>https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa</id>
-        <link href="https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HoverAir’s transforming modular drone has already been halted in the US]]></title>
-        <id>https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo</id>
-        <link href="https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it]]></title>
-        <id>https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review</id>
-        <link href="https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saily Ultra eSIM Premum Plan Review: Packed With Perks]]></title>
-        <id>https://www.wired.com/review/saily-ultra-esim/</id>
-        <link href="https://www.wired.com/review/saily-ultra-esim/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments]]></title>
-        <id>https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/</id>
-        <link href="https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Mattress Toppers I've Tried (2026): Supportive, Plush, Memory Foam]]></title>
-        <id>https://www.wired.com/gallery/the-best-mattress-toppers/</id>
-        <link href="https://www.wired.com/gallery/the-best-mattress-toppers/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set Up a Separate Work Profile on Your Android Phone]]></title>
-        <id>https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/</id>
-        <link href="https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade]]></title>
-        <id>https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/</id>
-        <link href="https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US government lab is probing Chinese lidar for security vulnerabilities]]></title>
-        <id>https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/</id>
-        <link href="https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/"/>
-        <updated>2026-08-21T16:00:00.000Z</updated>
-        <published>2026-08-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo hands over documents in NHTSA’s child collision probe]]></title>
-        <id>https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/</id>
-        <link href="https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/"/>
         <updated>2026-08-21T16:00:00.000Z</updated>
         <published>2026-08-21T16:00:00.000Z</published>
     </entry>
