@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-23T15:03:04.277Z</updated>
+    <updated>2026-08-23T22:01:27.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,69 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series]]></title>
+        <id>https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games</id>
+        <link href="https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Test Suite Doesn’t Need a Frontier Model. It Needs a Cheap One That’s Fast.]]></title>
+        <id>https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuning vLLM: What Every Setting Does to the Arithmetic]]></title>
+        <id>https://pub.towardsai.net/tuning-vllm-what-every-setting-does-to-the-arithmetic-28d5f65e231b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/tuning-vllm-what-every-setting-does-to-the-arithmetic-28d5f65e231b?source=rss----98111c9905da---4"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[# Week 4 - Task 1: Understanding JavaScript Core Concepts]]></title>
+        <id>https://dev.to/koushikmaya/-week-4-task-1-understanding-javascript-core-concepts-2pk8</id>
+        <link href="https://dev.to/koushikmaya/-week-4-task-1-understanding-javascript-core-concepts-2pk8"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a macOS app to make JavaScript live-coding interviews less anxiety-inducing]]></title>
+        <id>https://dev.to/msmfa/i-built-a-macos-app-to-make-javascript-live-coding-interviews-less-anxiety-inducing-2klh</id>
+        <link href="https://dev.to/msmfa/i-built-a-macos-app-to-make-javascript-live-coding-interviews-less-anxiety-inducing-2klh"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a local heuristic to catch AI sounding product copy. Here is what it actually catches and what it misses.]]></title>
+        <id>https://dev.to/buildittheywillcome/i-built-a-local-heuristic-to-catch-ai-sounding-product-copy-here-is-what-it-actually-catches-and-1n73</id>
+        <link href="https://dev.to/buildittheywillcome/i-built-a-local-heuristic-to-catch-ai-sounding-product-copy-here-is-what-it-actually-catches-and-1n73"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built an AI That Settles "Who Would Win" Arguments — Here's How]]></title>
+        <id>https://dev.to/param_jaisinghani_b7c9705/i-built-an-ai-that-settles-who-would-win-arguments-heres-how-1en8</id>
+        <link href="https://dev.to/param_jaisinghani_b7c9705/i-built-an-ai-that-settles-who-would-win-arguments-heres-how-1en8"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ditch the Cloud: Building a Real-Time In-Browser Video Editor with WebCodecs, WebGPU, and Canvas]]></title>
+        <id>https://dev.to/programmingcentral/ditch-the-cloud-building-a-real-time-in-browser-video-editor-with-webcodecs-webgpu-and-canvas-9j6</id>
+        <link href="https://dev.to/programmingcentral/ditch-the-cloud-building-a-real-time-in-browser-video-editor-with-webcodecs-webgpu-and-canvas-9j6"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GSoC 2026 Final Report: Automated Webpack Documentation Pipeline 💫]]></title>
+        <id>https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b</id>
+        <link href="https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让 PC 与 HomePod 互联：音频串流工具 WinAirCast]]></title>
         <id>https://sspai.com/post/113002</id>
@@ -39,6 +102,13 @@
         <title type="html"><![CDATA[The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)]]></title>
         <id>https://www.wired.com/gallery/best-laptop-docking-stations/</id>
         <link href="https://www.wired.com/gallery/best-laptop-docking-stations/"/>
+        <updated>2026-08-22T16:00:00.000Z</updated>
+        <published>2026-08-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash]]></title>
+        <id>https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/</id>
+        <link href="https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
@@ -291,76 +361,6 @@
         <title type="html"><![CDATA[Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?]]></title>
         <id>https://news.ycombinator.com/item?id=49405520</id>
         <link href="https://news.ycombinator.com/item?id=49405520"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Silicon Valley campus was a paradise. Bulldoze it]]></title>
-        <id>https://sfstandard.com/opinion/2026/08/22/sunset-magazine-menlo-park-campus-torn-down/</id>
-        <link href="https://sfstandard.com/opinion/2026/08/22/sunset-magazine-menlo-park-campus-torn-down/"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best free TikTok video downloader]]></title>
-        <id>https://tiktokdownload.org</id>
-        <link href="https://tiktokdownload.org"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed]]></title>
-        <id>https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</id>
-        <link href="https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres 19: What's new in Monitoring?]]></title>
-        <id>https://clickhouse.com/blog/postgres-19-monitoring-whats-new</id>
-        <link href="https://clickhouse.com/blog/postgres-19-monitoring-whats-new"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: SubtitleGenerator - Fix subtitles with a low-confidence review queue]]></title>
-        <id>https://subtitlegenerator.app</id>
-        <link href="https://subtitlegenerator.app"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prism Reviewer – Multi-agent AI code reviewer built with LangGraph and LiteLLM]]></title>
-        <id>https://github.com/marketplace/actions/prism-reviewer-ai</id>
-        <link href="https://github.com/marketplace/actions/prism-reviewer-ai"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Sufficiency: A Missive for the Managerial Class]]></title>
-        <id>https://www.lesswrong.com/posts/jDHc4oK4oPwfh6TcK/prompt-sufficiency-a-missive-for-the-managerial-class</id>
-        <link href="https://www.lesswrong.com/posts/jDHc4oK4oPwfh6TcK/prompt-sufficiency-a-missive-for-the-managerial-class"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Owner Interview Questions for the Age of AI]]></title>
-        <id>https://age-of-product.com/product-owner-interview-questions/</id>
-        <link href="https://age-of-product.com/product-owner-interview-questions/"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude is your insider threat now [video]]]></title>
-        <id>https://www.youtube.com/watch?v=yvJYw2gR0cU</id>
-        <link href="https://www.youtube.com/watch?v=yvJYw2gR0cU"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Together – Community mental health support through shared therapeutic silence]]></title>
-        <id>https://together.lyfmail.com/</id>
-        <link href="https://together.lyfmail.com/"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
