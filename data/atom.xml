@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-24T13:02:59.773Z</updated>
+    <updated>2026-08-24T15:02:17.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,30 +50,23 @@
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your AI Agents Keep Forgetting Everything. Google Just Changed How They Remember.]]></title>
-        <id>https://pub.towardsai.net/your-ai-agents-keep-forgetting-everything-google-just-changed-how-they-remember-f46a19a60808?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-ai-agents-keep-forgetting-everything-google-just-changed-how-they-remember-f46a19a60808?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards]]></title>
+        <id>https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/</id>
+        <link href="https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Test Suite Doesn’t Need a Frontier Model. It Needs a Cheap One That’s Fast.]]></title>
-        <id>https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Ultimate Guide to LLM Inference Optimization- Part 1]]></title>
+        <id>https://pub.towardsai.net/the-ultimate-guide-to-llm-inference-optimization-part-1-71ec501c189d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-ultimate-guide-to-llm-inference-optimization-part-1-71ec501c189d?source=rss----98111c9905da---4"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tuning vLLM: What Every Setting Does to the Arithmetic]]></title>
-        <id>https://pub.towardsai.net/tuning-vllm-what-every-setting-does-to-the-arithmetic-28d5f65e231b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/tuning-vllm-what-every-setting-does-to-the-arithmetic-28d5f65e231b?source=rss----98111c9905da---4"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ace the AI Engineer Interview: LLM Fundamentals]]></title>
-        <id>https://pub.towardsai.net/ace-the-ai-engineer-interview-llm-fundamentals-ac889a80aad9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ace-the-ai-engineer-interview-llm-fundamentals-ac889a80aad9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[26 Important Concepts that you should learn in Linear Algebra for Machine Learning — PART II]]></title>
+        <id>https://pub.towardsai.net/26-important-concepts-that-you-should-learn-in-linear-algebra-for-machine-learning-part-ii-8110461624e3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/26-important-concepts-that-you-should-learn-in-linear-algebra-for-machine-learning-part-ii-8110461624e3?source=rss----98111c9905da---4"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
@@ -85,9 +78,30 @@
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[26 Important Concepts that you should learn in Linear Algebra for Machine Learning — PART II]]></title>
-        <id>https://pub.towardsai.net/26-important-concepts-that-you-should-learn-in-linear-algebra-for-machine-learning-part-ii-8110461624e3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/26-important-concepts-that-you-should-learn-in-linear-algebra-for-machine-learning-part-ii-8110461624e3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Ace the AI Engineer Interview: LLM Fundamentals]]></title>
+        <id>https://pub.towardsai.net/ace-the-ai-engineer-interview-llm-fundamentals-ac889a80aad9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ace-the-ai-engineer-interview-llm-fundamentals-ac889a80aad9?source=rss----98111c9905da---4"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuning vLLM: What Every Setting Does to the Arithmetic]]></title>
+        <id>https://pub.towardsai.net/tuning-vllm-what-every-setting-does-to-the-arithmetic-28d5f65e231b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/tuning-vllm-what-every-setting-does-to-the-arithmetic-28d5f65e231b?source=rss----98111c9905da---4"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Test Suite Doesn’t Need a Frontier Model. It Needs a Cheap One That’s Fast.]]></title>
+        <id>https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI Agents Keep Forgetting Everything. Google Just Changed How They Remember.]]></title>
+        <id>https://pub.towardsai.net/your-ai-agents-keep-forgetting-everything-google-just-changed-how-they-remember-f46a19a60808?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-ai-agents-keep-forgetting-everything-google-just-changed-how-they-remember-f46a19a60808?source=rss----98111c9905da---4"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Fine-tuning LLMs for Tourist Trajectory Prediction using Field Experiment Data]]></title>
         <id>https://arxiv.org/abs/2608.20830</id>
         <link href="https://arxiv.org/abs/2608.20830"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAC-Copula: Quality-Preserving Watermarking for Diffusion Language Models via Smooth Correlated Gumbel Fields]]></title>
-        <id>https://arxiv.org/abs/2608.20839</id>
-        <link href="https://arxiv.org/abs/2608.20839"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReCurveflow: A Flow Matching Framework that Learns Curved Reaction Trajectories to Predict Transition State Geometries]]></title>
-        <id>https://arxiv.org/abs/2608.20869</id>
-        <link href="https://arxiv.org/abs/2608.20869"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
