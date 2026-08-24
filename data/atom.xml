@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-24T00:01:47.488Z</updated>
+    <updated>2026-08-24T02:01:58.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,9 @@
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ace the AI Engineer Interview: LLM Fundamentals]]></title>
-        <id>https://pub.towardsai.net/ace-the-ai-engineer-interview-llm-fundamentals-ac889a80aad9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ace-the-ai-engineer-interview-llm-fundamentals-ac889a80aad9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Your Test Suite Doesn’t Need a Frontier Model. It Needs a Cheap One That’s Fast.]]></title>
+        <id>https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
@@ -36,65 +36,30 @@
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Test Suite Doesn’t Need a Frontier Model. It Needs a Cheap One That’s Fast.]]></title>
-        <id>https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Ace the AI Engineer Interview: LLM Fundamentals]]></title>
+        <id>https://pub.towardsai.net/ace-the-ai-engineer-interview-llm-fundamentals-ac889a80aad9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ace-the-ai-engineer-interview-llm-fundamentals-ac889a80aad9?source=rss----98111c9905da---4"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent coding đốt token: đặt budget và dọn context window]]></title>
-        <id>https://dev.to/bean_bean/agent-coding-dot-token-dat-budget-va-don-context-window-33h2</id>
-        <link href="https://dev.to/bean_bean/agent-coding-dot-token-dat-budget-va-don-context-window-33h2"/>
+        <title type="html"><![CDATA[[팟캐스트] OAuth, 제대로 이해하고 쓰고 있나요? · 2026년 Rust GUI 라이브러리 조사 외 3선 | GeekNews Frontend]]></title>
+        <id>https://dev.to/ageofclick/paskaeseuteu-oauth-jedaero-ihaehago-sseugo-issnayo-2026nyeon-rust-gui-raibeureori-josa-oe-3seon-geeknews-frontend-1n80</id>
+        <link href="https://dev.to/ageofclick/paskaeseuteu-oauth-jedaero-ihaehago-sseugo-issnayo-2026nyeon-rust-gui-raibeureori-josa-oe-3seon-geeknews-frontend-1n80"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[wmic is gone and your Node process tree is silently wrong on Windows 11]]></title>
-        <id>https://dev.to/eliseomdq/wmic-is-gone-and-your-node-process-tree-is-silently-wrong-on-windows-11-3e8c</id>
-        <link href="https://dev.to/eliseomdq/wmic-is-gone-and-your-node-process-tree-is-silently-wrong-on-windows-11-3e8c"/>
+        <title type="html"><![CDATA[A failed import that still created three records]]></title>
+        <id>https://dev.to/ink_gu/a-failed-import-that-still-created-three-records-5e5i</id>
+        <link href="https://dev.to/ink_gu/a-failed-import-that-still-created-three-records-5e5i"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Probably Don't Need a Server For That]]></title>
-        <id>https://dev.to/virtual_texttools_2036eb/you-probably-dont-need-a-server-for-that-4ffi</id>
-        <link href="https://dev.to/virtual_texttools_2036eb/you-probably-dont-need-a-server-for-that-4ffi"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Motion Design Bugs That Break Astro + GSAP + Lenis Sites in Production]]></title>
-        <id>https://dev.to/keymelgaston/4-motion-design-bugs-that-break-astro-gsap-lenis-sites-in-production-31ac</id>
-        <link href="https://dev.to/keymelgaston/4-motion-design-bugs-that-break-astro-gsap-lenis-sites-in-production-31ac"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GSoC 2026 Final Report: Automated Webpack Documentation Pipeline 💫]]></title>
-        <id>https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b</id>
-        <link href="https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ditch the Cloud: Building a Real-Time In-Browser Video Editor with WebCodecs, WebGPU, and Canvas]]></title>
-        <id>https://dev.to/programmingcentral/ditch-the-cloud-building-a-real-time-in-browser-video-editor-with-webcodecs-webgpu-and-canvas-9j6</id>
-        <link href="https://dev.to/programmingcentral/ditch-the-cloud-building-a-real-time-in-browser-video-editor-with-webcodecs-webgpu-and-canvas-9j6"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built an AI That Settles "Who Would Win" Arguments — Here's How]]></title>
-        <id>https://dev.to/param_jaisinghani_b7c9705/i-built-an-ai-that-settles-who-would-win-arguments-heres-how-1en8</id>
-        <link href="https://dev.to/param_jaisinghani_b7c9705/i-built-an-ai-that-settles-who-would-win-arguments-heres-how-1en8"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a local heuristic to catch AI sounding product copy. Here is what it actually catches and what it misses.]]></title>
-        <id>https://dev.to/buildittheywillcome/i-built-a-local-heuristic-to-catch-ai-sounding-product-copy-here-is-what-it-actually-catches-and-1n73</id>
-        <link href="https://dev.to/buildittheywillcome/i-built-a-local-heuristic-to-catch-ai-sounding-product-copy-here-is-what-it-actually-catches-and-1n73"/>
+        <title type="html"><![CDATA[# Week 4 - Task 1: Understanding JavaScript Core Concepts]]></title>
+        <id>https://dev.to/koushikmaya/-week-4-task-1-understanding-javascript-core-concepts-2pk8</id>
+        <link href="https://dev.to/koushikmaya/-week-4-task-1-understanding-javascript-core-concepts-2pk8"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
@@ -106,9 +71,58 @@
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[# Week 4 - Task 1: Understanding JavaScript Core Concepts]]></title>
-        <id>https://dev.to/koushikmaya/-week-4-task-1-understanding-javascript-core-concepts-2pk8</id>
-        <link href="https://dev.to/koushikmaya/-week-4-task-1-understanding-javascript-core-concepts-2pk8"/>
+        <title type="html"><![CDATA[I built a local heuristic to catch AI sounding product copy. Here is what it actually catches and what it misses.]]></title>
+        <id>https://dev.to/buildittheywillcome/i-built-a-local-heuristic-to-catch-ai-sounding-product-copy-here-is-what-it-actually-catches-and-1n73</id>
+        <link href="https://dev.to/buildittheywillcome/i-built-a-local-heuristic-to-catch-ai-sounding-product-copy-here-is-what-it-actually-catches-and-1n73"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built an AI That Settles "Who Would Win" Arguments — Here's How]]></title>
+        <id>https://dev.to/param_jaisinghani_b7c9705/i-built-an-ai-that-settles-who-would-win-arguments-heres-how-1en8</id>
+        <link href="https://dev.to/param_jaisinghani_b7c9705/i-built-an-ai-that-settles-who-would-win-arguments-heres-how-1en8"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ditch the Cloud: Building a Real-Time In-Browser Video Editor with WebCodecs, WebGPU, and Canvas]]></title>
+        <id>https://dev.to/programmingcentral/ditch-the-cloud-building-a-real-time-in-browser-video-editor-with-webcodecs-webgpu-and-canvas-9j6</id>
+        <link href="https://dev.to/programmingcentral/ditch-the-cloud-building-a-real-time-in-browser-video-editor-with-webcodecs-webgpu-and-canvas-9j6"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GSoC 2026 Final Report: Automated Webpack Documentation Pipeline 💫]]></title>
+        <id>https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b</id>
+        <link href="https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Motion Design Bugs That Break Astro + GSAP + Lenis Sites in Production]]></title>
+        <id>https://dev.to/keymelgaston/4-motion-design-bugs-that-break-astro-gsap-lenis-sites-in-production-31ac</id>
+        <link href="https://dev.to/keymelgaston/4-motion-design-bugs-that-break-astro-gsap-lenis-sites-in-production-31ac"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Probably Don't Need a Server For That]]></title>
+        <id>https://dev.to/virtual_texttools_2036eb/you-probably-dont-need-a-server-for-that-4ffi</id>
+        <link href="https://dev.to/virtual_texttools_2036eb/you-probably-dont-need-a-server-for-that-4ffi"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wmic is gone and your Node process tree is silently wrong on Windows 11]]></title>
+        <id>https://dev.to/eliseomdq/wmic-is-gone-and-your-node-process-tree-is-silently-wrong-on-windows-11-3e8c</id>
+        <link href="https://dev.to/eliseomdq/wmic-is-gone-and-your-node-process-tree-is-silently-wrong-on-windows-11-3e8c"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent coding đốt token: đặt budget và dọn context window]]></title>
+        <id>https://dev.to/bean_bean/agent-coding-dot-token-dat-budget-va-don-context-window-33h2</id>
+        <link href="https://dev.to/bean_bean/agent-coding-dot-token-dat-budget-va-don-context-window-33h2"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Gea – A new JavaScript framework for old time's sake]]></title>
         <id>https://geajs.com/docs/README.html</id>
         <link href="https://geajs.com/docs/README.html"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Anyone set up ways to easily obtain and read transcripts from Ted, YT?]]></title>
-        <id>https://news.ycombinator.com/item?id=49405684</id>
-        <link href="https://news.ycombinator.com/item?id=49405684"/>
-        <updated>2026-08-22T16:00:00.000Z</updated>
-        <published>2026-08-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passive 3D Thermal "Cloak" Hides Objects from Heat, from Any Direction]]></title>
-        <id>https://www.electronicdesign.com/technologies/power/article/55399858/electronic-design-passive-3d-thermal-cloak-hides-objects-from-heat-from-any-direction</id>
-        <link href="https://www.electronicdesign.com/technologies/power/article/55399858/electronic-design-passive-3d-thermal-cloak-hides-objects-from-heat-from-any-direction"/>
         <updated>2026-08-22T16:00:00.000Z</updated>
         <published>2026-08-22T16:00:00.000Z</published>
     </entry>
