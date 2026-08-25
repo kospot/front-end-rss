@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-24T22:01:05.878Z</updated>
+    <updated>2026-08-25T00:01:57.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The cat-and-mouse game over 3D-printed guns has begun]]></title>
-        <id>https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul</id>
-        <link href="https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul"/>
+        <title type="html"><![CDATA[Zillow and Redfin settle FTC antitrust case over their rental listings partnership]]></title>
+        <id>https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement</id>
+        <link href="https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement"/>
         <updated>2026-08-24T16:00:00.000Z</updated>
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zillow and Redfin settle FTC antitrust case over their rental listings partnership]]></title>
-        <id>https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement</id>
-        <link href="https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement"/>
+        <title type="html"><![CDATA[The cat-and-mouse game over 3D-printed guns has begun]]></title>
+        <id>https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul</id>
+        <link href="https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul"/>
         <updated>2026-08-24T16:00:00.000Z</updated>
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
@@ -113,9 +113,9 @@
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Get the Most Out of Claude Fable 5]]></title>
-        <id>https://pub.towardsai.net/how-to-get-the-most-out-of-claude-fable-5-158f33ac52cf?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-get-the-most-out-of-claude-fable-5-158f33ac52cf?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I Tried to Run Qwen3.8–27B on a 16GB Mac Mini with AirLLM. Here’s Exactly Where It Breaks]]></title>
+        <id>https://pub.towardsai.net/i-tried-to-run-qwen3-8-27b-on-a-16gb-mac-mini-with-airllm-heres-exactly-where-it-breaks-76c634b61c20?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tried-to-run-qwen3-8-27b-on-a-16gb-mac-mini-with-airllm-heres-exactly-where-it-breaks-76c634b61c20?source=rss----98111c9905da---4"/>
         <updated>2026-08-24T16:00:00.000Z</updated>
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
@@ -127,51 +127,30 @@
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON to Zod Schema Conversion: 5 Edge Cases That Break TypeScript Runtime Validation]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/json-to-zod-schema-conversion-5-edge-cases-that-break-typescript-runtime-validation-414l</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/json-to-zod-schema-conversion-5-edge-cases-that-break-typescript-runtime-validation-414l"/>
+        <title type="html"><![CDATA[How to Get the Most Out of Claude Fable 5]]></title>
+        <id>https://pub.towardsai.net/how-to-get-the-most-out-of-claude-fable-5-158f33ac52cf?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-get-the-most-out-of-claude-fable-5-158f33ac52cf?source=rss----98111c9905da---4"/>
         <updated>2026-08-24T16:00:00.000Z</updated>
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Model Sent Perfect JSON. My Parser Only Accepted Naked JSON.]]></title>
-        <id>https://dev.to/codepy_1473/the-model-sent-perfect-json-my-parser-only-accepted-naked-json-2kj1</id>
-        <link href="https://dev.to/codepy_1473/the-model-sent-perfect-json-my-parser-only-accepted-naked-json-2kj1"/>
+        <title type="html"><![CDATA[Leonxlnx/taste-skill]]></title>
+        <id>https://github.com/Leonxlnx/taste-skill</id>
+        <link href="https://github.com/Leonxlnx/taste-skill"/>
         <updated>2026-08-24T16:00:00.000Z</updated>
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Lottielab watermark is layer 12345679]]></title>
-        <id>https://dev.to/lotiqlab/the-lottielab-watermark-is-layer-12345679-1e2d</id>
-        <link href="https://dev.to/lotiqlab/the-lottielab-watermark-is-layer-12345679-1e2d"/>
+        <title type="html"><![CDATA[LLM JSON wrapped in XML tags: json-repair scores 25/25, jsonshim 17/25]]></title>
+        <id>https://dev.to/toolkitlabs/llm-json-wrapped-in-xml-tags-json-repair-scores-2525-jsonshim-1725-li</id>
+        <link href="https://dev.to/toolkitlabs/llm-json-wrapped-in-xml-tags-json-repair-scores-2525-jsonshim-1725-li"/>
         <updated>2026-08-24T16:00:00.000Z</updated>
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Browser That Passes CreepJS — Here's What Still Catches Me]]></title>
-        <id>https://dev.to/santiago_blaine_f319c228c/i-built-a-browser-that-passes-creepjs-heres-what-still-catches-me-1gfn</id>
-        <link href="https://dev.to/santiago_blaine_f319c228c/i-built-a-browser-that-passes-creepjs-heres-what-still-catches-me-1gfn"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run FFmpeg in the Browser with WebAssembly (WASM): The Ultimate Guide to Client-Side Video Processing]]></title>
-        <id>https://dev.to/programmingcentral/how-to-run-ffmpeg-in-the-browser-with-webassembly-wasm-the-ultimate-guide-to-client-side-video-epi</id>
-        <link href="https://dev.to/programmingcentral/how-to-run-ffmpeg-in-the-browser-with-webassembly-wasm-the-ultimate-guide-to-client-side-video-epi"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Chrome Extension to Solve My Alibaba Import Problem (And You Can Too)]]></title>
-        <id>https://dev.to/nasratulnayem/i-built-a-chrome-extension-to-solve-my-alibaba-import-problem-and-you-can-too-5f4g</id>
-        <link href="https://dev.to/nasratulnayem/i-built-a-chrome-extension-to-solve-my-alibaba-import-problem-and-you-can-too-5f4g"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Node.js Interview Questions You Should Be Able to Answer (2026)]]></title>
-        <id>https://dev.to/akashguptasky/15-nodejs-interview-questions-you-should-be-able-to-answer-2026-5aeg</id>
-        <link href="https://dev.to/akashguptasky/15-nodejs-interview-questions-you-should-be-able-to-answer-2026-5aeg"/>
+        <title type="html"><![CDATA[Stop Paying $150/Year for Spotify Canvas Templates]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/stop-paying-150year-for-spotify-canvas-templates-3oc8</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/stop-paying-150year-for-spotify-canvas-templates-3oc8"/>
         <updated>2026-08-24T16:00:00.000Z</updated>
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
@@ -183,9 +162,58 @@
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Witcher 4 developers target a 2028 release]]></title>
-        <id>https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom</id>
-        <link href="https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom"/>
+        <title type="html"><![CDATA[15 Node.js Interview Questions You Should Be Able to Answer (2026)]]></title>
+        <id>https://dev.to/akashguptasky/15-nodejs-interview-questions-you-should-be-able-to-answer-2026-5aeg</id>
+        <link href="https://dev.to/akashguptasky/15-nodejs-interview-questions-you-should-be-able-to-answer-2026-5aeg"/>
+        <updated>2026-08-24T16:00:00.000Z</updated>
+        <published>2026-08-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Chrome Extension to Solve My Alibaba Import Problem (And You Can Too)]]></title>
+        <id>https://dev.to/nasratulnayem/i-built-a-chrome-extension-to-solve-my-alibaba-import-problem-and-you-can-too-5f4g</id>
+        <link href="https://dev.to/nasratulnayem/i-built-a-chrome-extension-to-solve-my-alibaba-import-problem-and-you-can-too-5f4g"/>
+        <updated>2026-08-24T16:00:00.000Z</updated>
+        <published>2026-08-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run FFmpeg in the Browser with WebAssembly (WASM): The Ultimate Guide to Client-Side Video Processing]]></title>
+        <id>https://dev.to/programmingcentral/how-to-run-ffmpeg-in-the-browser-with-webassembly-wasm-the-ultimate-guide-to-client-side-video-epi</id>
+        <link href="https://dev.to/programmingcentral/how-to-run-ffmpeg-in-the-browser-with-webassembly-wasm-the-ultimate-guide-to-client-side-video-epi"/>
+        <updated>2026-08-24T16:00:00.000Z</updated>
+        <published>2026-08-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Browser That Passes CreepJS — Here's What Still Catches Me]]></title>
+        <id>https://dev.to/santiago_blaine_f319c228c/i-built-a-browser-that-passes-creepjs-heres-what-still-catches-me-1gfn</id>
+        <link href="https://dev.to/santiago_blaine_f319c228c/i-built-a-browser-that-passes-creepjs-heres-what-still-catches-me-1gfn"/>
+        <updated>2026-08-24T16:00:00.000Z</updated>
+        <published>2026-08-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lottielab watermark is layer 12345679]]></title>
+        <id>https://dev.to/lotiqlab/the-lottielab-watermark-is-layer-12345679-1e2d</id>
+        <link href="https://dev.to/lotiqlab/the-lottielab-watermark-is-layer-12345679-1e2d"/>
+        <updated>2026-08-24T16:00:00.000Z</updated>
+        <published>2026-08-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Model Sent Perfect JSON. My Parser Only Accepted Naked JSON.]]></title>
+        <id>https://dev.to/codepy_1473/the-model-sent-perfect-json-my-parser-only-accepted-naked-json-2kj1</id>
+        <link href="https://dev.to/codepy_1473/the-model-sent-perfect-json-my-parser-only-accepted-naked-json-2kj1"/>
+        <updated>2026-08-24T16:00:00.000Z</updated>
+        <published>2026-08-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON to Zod Schema Conversion: 5 Edge Cases That Break TypeScript Runtime Validation]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/json-to-zod-schema-conversion-5-edge-cases-that-break-typescript-runtime-validation-414l</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/json-to-zod-schema-conversion-5-edge-cases-that-break-typescript-runtime-validation-414l"/>
+        <updated>2026-08-24T16:00:00.000Z</updated>
+        <published>2026-08-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series]]></title>
+        <id>https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games</id>
+        <link href="https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
@@ -197,9 +225,9 @@
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series]]></title>
-        <id>https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games</id>
-        <link href="https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games"/>
+        <title type="html"><![CDATA[The Witcher 4 developers target a 2028 release]]></title>
+        <id>https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom</id>
+        <link href="https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
@@ -239,44 +267,9 @@
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Breakpoint Protocol: The 280-Million Patient Monopoly Trap]]></title>
-        <id>https://pub.towardsai.net/the-breakpoint-protocol-the-280-million-patient-monopoly-trap-1ebc54ec1a6a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-breakpoint-protocol-the-280-million-patient-monopoly-trap-1ebc54ec1a6a?source=rss----98111c9905da---4"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI Agents Keep Forgetting Everything. Google Just Changed How They Remember.]]></title>
-        <id>https://pub.towardsai.net/your-ai-agents-keep-forgetting-everything-google-just-changed-how-they-remember-f46a19a60808?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-ai-agents-keep-forgetting-everything-google-just-changed-how-they-remember-f46a19a60808?source=rss----98111c9905da---4"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Test Suite Doesn’t Need a Frontier Model. It Needs a Cheap One That’s Fast.]]></title>
-        <id>https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuning vLLM: What Every Setting Does to the Arithmetic]]></title>
-        <id>https://pub.towardsai.net/tuning-vllm-what-every-setting-does-to-the-arithmetic-28d5f65e231b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/tuning-vllm-what-every-setting-does-to-the-arithmetic-28d5f65e231b?source=rss----98111c9905da---4"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ace the AI Engineer Interview: LLM Fundamentals]]></title>
-        <id>https://pub.towardsai.net/ace-the-ai-engineer-interview-llm-fundamentals-ac889a80aad9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ace-the-ai-engineer-interview-llm-fundamentals-ac889a80aad9?source=rss----98111c9905da---4"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[26 Important Concepts that you should learn in Linear Algebra for Machine Learning — PART I]]></title>
-        <id>https://pub.towardsai.net/26-important-concepts-that-you-should-learn-in-linear-algebra-for-machine-learning-part-i-f87c8685da52?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/26-important-concepts-that-you-should-learn-in-linear-algebra-for-machine-learning-part-i-f87c8685da52?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Ultimate Guide to LLM Inference Optimization- Part 1]]></title>
+        <id>https://pub.towardsai.net/the-ultimate-guide-to-llm-inference-optimization-part-1-71ec501c189d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-ultimate-guide-to-llm-inference-optimization-part-1-71ec501c189d?source=rss----98111c9905da---4"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
@@ -288,9 +281,44 @@
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to LLM Inference Optimization- Part 1]]></title>
-        <id>https://pub.towardsai.net/the-ultimate-guide-to-llm-inference-optimization-part-1-71ec501c189d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-ultimate-guide-to-llm-inference-optimization-part-1-71ec501c189d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[26 Important Concepts that you should learn in Linear Algebra for Machine Learning — PART I]]></title>
+        <id>https://pub.towardsai.net/26-important-concepts-that-you-should-learn-in-linear-algebra-for-machine-learning-part-i-f87c8685da52?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/26-important-concepts-that-you-should-learn-in-linear-algebra-for-machine-learning-part-i-f87c8685da52?source=rss----98111c9905da---4"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ace the AI Engineer Interview: LLM Fundamentals]]></title>
+        <id>https://pub.towardsai.net/ace-the-ai-engineer-interview-llm-fundamentals-ac889a80aad9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ace-the-ai-engineer-interview-llm-fundamentals-ac889a80aad9?source=rss----98111c9905da---4"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuning vLLM: What Every Setting Does to the Arithmetic]]></title>
+        <id>https://pub.towardsai.net/tuning-vllm-what-every-setting-does-to-the-arithmetic-28d5f65e231b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/tuning-vllm-what-every-setting-does-to-the-arithmetic-28d5f65e231b?source=rss----98111c9905da---4"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Test Suite Doesn’t Need a Frontier Model. It Needs a Cheap One That’s Fast.]]></title>
+        <id>https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-test-suite-doesnt-need-a-frontier-model-it-needs-a-cheap-one-that-s-fast-2b3dfca7c210?source=rss----98111c9905da---4"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI Agents Keep Forgetting Everything. Google Just Changed How They Remember.]]></title>
+        <id>https://pub.towardsai.net/your-ai-agents-keep-forgetting-everything-google-just-changed-how-they-remember-f46a19a60808?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-ai-agents-keep-forgetting-everything-google-just-changed-how-they-remember-f46a19a60808?source=rss----98111c9905da---4"/>
+        <updated>2026-08-23T16:00:00.000Z</updated>
+        <published>2026-08-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Breakpoint Protocol: The 280-Million Patient Monopoly Trap]]></title>
+        <id>https://pub.towardsai.net/the-breakpoint-protocol-the-280-million-patient-monopoly-trap-1ebc54ec1a6a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-breakpoint-protocol-the-280-million-patient-monopoly-trap-1ebc54ec1a6a?source=rss----98111c9905da---4"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
@@ -333,34 +361,6 @@
         <title type="html"><![CDATA[Bern2Edge: A Neurosymbolic Compiler for Edge Deployment via Bernstein Polynomial Networks]]></title>
         <id>https://arxiv.org/abs/2608.20497</id>
         <link href="https://arxiv.org/abs/2608.20497"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Exact NVIDIA SASS Encoders with $\mathbb{F}_2$ Linear Algebra]]></title>
-        <id>https://arxiv.org/abs/2608.20532</id>
-        <link href="https://arxiv.org/abs/2608.20532"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faults That Fortify: CNN Adversarial Robustness via GPU Undervolting]]></title>
-        <id>https://arxiv.org/abs/2608.20572</id>
-        <link href="https://arxiv.org/abs/2608.20572"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Provable Edge-of-Stability for Adam on a One-Dimensional Quadratic]]></title>
-        <id>https://arxiv.org/abs/2608.20638</id>
-        <link href="https://arxiv.org/abs/2608.20638"/>
-        <updated>2026-08-23T16:00:00.000Z</updated>
-        <published>2026-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta-clustering of milk mid-infrared spectra identifies dairy cow groups associated with negative energy balance in early lactation]]></title>
-        <id>https://arxiv.org/abs/2608.20653</id>
-        <link href="https://arxiv.org/abs/2608.20653"/>
         <updated>2026-08-23T16:00:00.000Z</updated>
         <published>2026-08-23T16:00:00.000Z</published>
     </entry>
