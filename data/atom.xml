@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-25T22:01:05.526Z</updated>
+    <updated>2026-08-26T00:01:10.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The Witcher 3 is getting a remaster]]></title>
-        <id>https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer</id>
-        <link href="https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer"/>
+        <title type="html"><![CDATA[Garmin’s new Fenix 9 adds brighter screens and smoother map panning]]></title>
+        <id>https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch</id>
+        <link href="https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce Now is getting support for the Steam Controller]]></title>
+        <id>https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support</id>
+        <link href="https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
@@ -29,9 +36,9 @@
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GeForce Now is getting support for the Steam Controller]]></title>
-        <id>https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support</id>
-        <link href="https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support"/>
+        <title type="html"><![CDATA[The Witcher 3 is getting a remaster]]></title>
+        <id>https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer</id>
+        <link href="https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
@@ -78,30 +85,37 @@
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI's 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU]]></title>
-        <id>https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks</id>
-        <link href="https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks"/>
+        <title type="html"><![CDATA[Engineer who built DarkBloom (P2P GPU inference) – started coding at 10, now 18]]></title>
+        <id>https://twitter.com/pratikg/status/2091799024299086319</id>
+        <link href="https://twitter.com/pratikg/status/2091799024299086319"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python's pre-declared constants are kinda weird]]></title>
-        <id>https://sebsite.pw/w/20260801-pythonconstants.html</id>
-        <link href="https://sebsite.pw/w/20260801-pythonconstants.html"/>
+        <title type="html"><![CDATA[Evaluating Time Series Foundation Model Claims]]></title>
+        <id>https://robjhyndman.com/hyndsight/foundation_models.html</id>
+        <link href="https://robjhyndman.com/hyndsight/foundation_models.html"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Atuin sync 32x faster with packfiles]]></title>
-        <id>https://blog.atuin.sh/making-atuin-sync-32x-faster-with-packfiles/</id>
-        <link href="https://blog.atuin.sh/making-atuin-sync-32x-faster-with-packfiles/"/>
+        <title type="html"><![CDATA[Show HN: Agent skill to create HTML docs for planning]]></title>
+        <id>https://github.com/parthjshah95/visual-planning-skills</id>
+        <link href="https://github.com/parthjshah95/visual-planning-skills"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Is "3D as software" about to undergo a Cambrian Explosion?]]></title>
-        <id>https://news.ycombinator.com/item?id=49440962</id>
-        <link href="https://news.ycombinator.com/item?id=49440962"/>
+        <title type="html"><![CDATA[Trustworthy Data Visualization [video]]]></title>
+        <id>https://www.youtube.com/watch?v=mpj-zqkiiXQ</id>
+        <link href="https://www.youtube.com/watch?v=mpj-zqkiiXQ"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Starlink won't open Vietnam's censored internet]]></title>
+        <id>https://www.dw.com/en/why-starlink-wont-open-vietnams-heavily-censored-internet/a-78494983</id>
+        <link href="https://www.dw.com/en/why-starlink-wont-open-vietnams-heavily-censored-internet/a-78494983"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
@@ -113,23 +127,44 @@
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debugging a Reasoning Model on DGX Spark for Txt 2 Knowledge Graph]]></title>
-        <id>https://pub.towardsai.net/debugging-a-reasoning-model-on-dgx-spark-for-txt-2-knowledge-graph-e3d0e6eede45?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/debugging-a-reasoning-model-on-dgx-spark-for-txt-2-knowledge-graph-e3d0e6eede45?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Ask HN: Is "3D as software" about to undergo a Cambrian Explosion?]]></title>
+        <id>https://news.ycombinator.com/item?id=49440962</id>
+        <link href="https://news.ycombinator.com/item?id=49440962"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Amnesiac Colleague: An End-to-End Guide to Memory Architectures for AI Agents]]></title>
-        <id>https://pub.towardsai.net/the-amnesiac-colleague-an-end-to-end-guide-to-memory-architectures-for-ai-agents-4f578c06b988?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-amnesiac-colleague-an-end-to-end-guide-to-memory-architectures-for-ai-agents-4f578c06b988?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Making Atuin sync 32x faster with packfiles]]></title>
+        <id>https://blog.atuin.sh/making-atuin-sync-32x-faster-with-packfiles/</id>
+        <link href="https://blog.atuin.sh/making-atuin-sync-32x-faster-with-packfiles/"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Second GPU Is Bought for the Cache, Not the Model]]></title>
-        <id>https://pub.towardsai.net/your-second-gpu-is-bought-for-the-cache-not-the-model-2d022eee49a7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-second-gpu-is-bought-for-the-cache-not-the-model-2d022eee49a7?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Python's pre-declared constants are kinda weird]]></title>
+        <id>https://sebsite.pw/w/20260801-pythonconstants.html</id>
+        <link href="https://sebsite.pw/w/20260801-pythonconstants.html"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI's 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU]]></title>
+        <id>https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks</id>
+        <link href="https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Python SDK Migration: Build a Production Client Before v1.0 Surprises You]]></title>
+        <id>https://pub.towardsai.net/claude-python-sdk-migration-build-a-production-client-before-v1-0-surprises-you-a8a07a78e66f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-python-sdk-migration-build-a-production-client-before-v1-0-surprises-you-a8a07a78e66f?source=rss----98111c9905da---4"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Knowledge Format (OKF) vs. Vector Databases: Why your RAG needs a New Knowledge Format]]></title>
+        <id>https://pub.towardsai.net/open-knowledge-format-okf-vs-vector-databases-why-your-rag-needs-a-new-knowledge-format-1ec88e44204c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/open-knowledge-format-okf-vs-vector-databases-why-your-rag-needs-a-new-knowledge-format-1ec88e44204c?source=rss----98111c9905da---4"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
@@ -141,6 +176,34 @@
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Your Second GPU Is Bought for the Cache, Not the Model]]></title>
+        <id>https://pub.towardsai.net/your-second-gpu-is-bought-for-the-cache-not-the-model-2d022eee49a7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-second-gpu-is-bought-for-the-cache-not-the-model-2d022eee49a7?source=rss----98111c9905da---4"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Amnesiac Colleague: An End-to-End Guide to Memory Architectures for AI Agents]]></title>
+        <id>https://pub.towardsai.net/the-amnesiac-colleague-an-end-to-end-guide-to-memory-architectures-for-ai-agents-4f578c06b988?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-amnesiac-colleague-an-end-to-end-guide-to-memory-architectures-for-ai-agents-4f578c06b988?source=rss----98111c9905da---4"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging a Reasoning Model on DGX Spark for Txt 2 Knowledge Graph]]></title>
+        <id>https://pub.towardsai.net/debugging-a-reasoning-model-on-dgx-spark-for-txt-2-knowledge-graph-e3d0e6eede45?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/debugging-a-reasoning-model-on-dgx-spark-for-txt-2-knowledge-graph-e3d0e6eede45?source=rss----98111c9905da---4"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVE Online: The Move to Python 3 Begins!]]></title>
+        <id>https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/</id>
+        <link href="https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Amping up T cells to target cancer]]></title>
         <id>https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/</id>
         <link href="https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/"/>
@@ -148,44 +211,37 @@
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Paper-Cutout Text Animation with Vanilla JavaScript (No Libraries)]]></title>
-        <id>https://dev.to/umair_umair_8c0c53875333b/how-to-build-a-paper-cutout-text-animation-with-vanilla-javascript-no-libraries-5624</id>
-        <link href="https://dev.to/umair_umair_8c0c53875333b/how-to-build-a-paper-cutout-text-animation-with-vanilla-javascript-no-libraries-5624"/>
+        <title type="html"><![CDATA[Micro alucinaciones , un ejemplo de un error de un día al formatear fechas en JavaScript]]></title>
+        <id>https://dev.to/carlos_arturocastaog_/micro-alucinaciones-un-ejemplo-de-un-error-de-un-dia-al-formatear-fechas-en-javascript-y-como-58ob</id>
+        <link href="https://dev.to/carlos_arturocastaog_/micro-alucinaciones-un-ejemplo-de-un-error-de-un-dia-al-formatear-fechas-en-javascript-y-como-58ob"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript 7 Launches with Native Binary Engine, Boosting Speed]]></title>
-        <id>https://dev.to/techpulse01239/typescript-7-launches-with-native-binary-engine-boosting-speed-29m8</id>
-        <link href="https://dev.to/techpulse01239/typescript-7-launches-with-native-binary-engine-boosting-speed-29m8"/>
+        <title type="html"><![CDATA[Why Webhook HMAC Verification Fails in Production: 5 Cryptographic Traps Every Developer Misses]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-webhook-hmac-verification-fails-in-production-5-cryptographic-traps-every-developer-misses-3g6o</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-webhook-hmac-verification-fails-in-production-5-cryptographic-traps-every-developer-misses-3g6o"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Streaming Client Froze for Six Seconds. The Server Was Innocent.]]></title>
-        <id>https://dev.to/codepy_1473/my-streaming-client-froze-for-six-seconds-the-server-was-innocent-24o</id>
-        <link href="https://dev.to/codepy_1473/my-streaming-client-froze-for-six-seconds-the-server-was-innocent-24o"/>
+        <title type="html"><![CDATA[Vẽ sơ đồ kiến trúc bằng Claude Code và Draw.io MCP server]]></title>
+        <id>https://dev.to/bean_bean/ve-so-do-kien-truc-bang-claude-code-va-drawio-mcp-server-dkg</id>
+        <link href="https://dev.to/bean_bean/ve-so-do-kien-truc-bang-claude-code-va-drawio-mcp-server-dkg"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Moved a 272,000-Word Search Engine Into the Browser with Rust and WebAssembly]]></title>
-        <id>https://dev.to/adriaan-greyling/i-moved-a-272000-word-search-engine-into-the-browser-with-rust-and-webassembly-5b7e</id>
-        <link href="https://dev.to/adriaan-greyling/i-moved-a-272000-word-search-engine-into-the-browser-with-rust-and-webassembly-5b7e"/>
+        <title type="html"><![CDATA[Why We Built a Layer-1 for Machines: Solving the $0.0008 Agent Inference Paywall with HTTP 402]]></title>
+        <id>https://dev.to/abd_shabazz/why-we-built-a-layer-1-for-machines-solving-the-00008-agent-inference-paywall-with-http-402-135</id>
+        <link href="https://dev.to/abd_shabazz/why-we-built-a-layer-1-for-machines-solving-the-00008-agent-inference-paywall-with-http-402-135"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built Runtime Islands for Astro Because My Pages Live in a Database]]></title>
-        <id>https://dev.to/knot_crochet_dbb4379fde5d/i-built-runtime-islands-for-astro-because-my-pages-live-in-a-database-5gfi</id>
-        <link href="https://dev.to/knot_crochet_dbb4379fde5d/i-built-runtime-islands-for-astro-because-my-pages-live-in-a-database-5gfi"/>
-        <updated>2026-08-25T16:00:00.000Z</updated>
-        <published>2026-08-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building 60FPS Browser AI: Real-Time Image Masking, Inpainting, and Layer Compositing in JavaScript]]></title>
-        <id>https://dev.to/programmingcentral/building-60fps-browser-ai-real-time-image-masking-inpainting-and-layer-compositing-in-javascript-3edd</id>
-        <link href="https://dev.to/programmingcentral/building-60fps-browser-ai-real-time-image-masking-inpainting-and-layer-compositing-in-javascript-3edd"/>
+        <title type="html"><![CDATA[Your AI image is 1024px. The canvas is 4 feet wide. Here's the math that saved me.]]></title>
+        <id>https://dev.to/erich_mayne_a9cab13715b29/your-ai-image-is-1024px-the-canvas-is-4-feet-wide-heres-the-math-that-saved-me-1cc1</id>
+        <link href="https://dev.to/erich_mayne_a9cab13715b29/your-ai-image-is-1024px-the-canvas-is-4-feet-wide-heres-the-math-that-saved-me-1cc1"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
@@ -197,6 +253,48 @@
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Building 60FPS Browser AI: Real-Time Image Masking, Inpainting, and Layer Compositing in JavaScript]]></title>
+        <id>https://dev.to/programmingcentral/building-60fps-browser-ai-real-time-image-masking-inpainting-and-layer-compositing-in-javascript-3edd</id>
+        <link href="https://dev.to/programmingcentral/building-60fps-browser-ai-real-time-image-masking-inpainting-and-layer-compositing-in-javascript-3edd"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built Runtime Islands for Astro Because My Pages Live in a Database]]></title>
+        <id>https://dev.to/knot_crochet_dbb4379fde5d/i-built-runtime-islands-for-astro-because-my-pages-live-in-a-database-5gfi</id>
+        <link href="https://dev.to/knot_crochet_dbb4379fde5d/i-built-runtime-islands-for-astro-because-my-pages-live-in-a-database-5gfi"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Moved a 272,000-Word Search Engine Into the Browser with Rust and WebAssembly]]></title>
+        <id>https://dev.to/adriaan-greyling/i-moved-a-272000-word-search-engine-into-the-browser-with-rust-and-webassembly-5b7e</id>
+        <link href="https://dev.to/adriaan-greyling/i-moved-a-272000-word-search-engine-into-the-browser-with-rust-and-webassembly-5b7e"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Streaming Client Froze for Six Seconds. The Server Was Innocent.]]></title>
+        <id>https://dev.to/codepy_1473/my-streaming-client-froze-for-six-seconds-the-server-was-innocent-24o</id>
+        <link href="https://dev.to/codepy_1473/my-streaming-client-froze-for-six-seconds-the-server-was-innocent-24o"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 7 Launches with Native Binary Engine, Boosting Speed]]></title>
+        <id>https://dev.to/techpulse01239/typescript-7-launches-with-native-binary-engine-boosting-speed-29m8</id>
+        <link href="https://dev.to/techpulse01239/typescript-7-launches-with-native-binary-engine-boosting-speed-29m8"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Paper-Cutout Text Animation with Vanilla JavaScript (No Libraries)]]></title>
+        <id>https://dev.to/umair_umair_8c0c53875333b/how-to-build-a-paper-cutout-text-animation-with-vanilla-javascript-no-libraries-5624</id>
+        <link href="https://dev.to/umair_umair_8c0c53875333b/how-to-build-a-paper-cutout-text-animation-with-vanilla-javascript-no-libraries-5624"/>
+        <updated>2026-08-25T16:00:00.000Z</updated>
+        <published>2026-08-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等]]></title>
         <id>https://sspai.com/post/113813</id>
         <link href="https://sspai.com/post/113813"/>
@@ -204,37 +302,9 @@
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Greenworks’ MaximusZ electric riding mower has five motors and a few compromises]]></title>
-        <id>https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price</id>
-        <link href="https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zillow and Redfin settle FTC antitrust case over their rental listings partnership]]></title>
-        <id>https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement</id>
-        <link href="https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The cat-and-mouse game over 3D-printed guns has begun]]></title>
-        <id>https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul</id>
-        <link href="https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android is getting its own weird dots to cure car sickness]]></title>
-        <id>https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure</id>
-        <link href="https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple&#8217;s new M6 chip gets more cores and more AI compute]]></title>
-        <id>https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio</id>
-        <link href="https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio"/>
+        <title type="html"><![CDATA[OpenAI says its Jalapeño chip can power faster AI responses than the competition]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks"/>
         <updated>2026-08-24T16:00:00.000Z</updated>
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
@@ -246,9 +316,37 @@
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI says its Jalapeño chip can power faster AI responses than the competition]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks"/>
+        <title type="html"><![CDATA[Apple&#8217;s new M6 chip gets more cores and more AI compute]]></title>
+        <id>https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio</id>
+        <link href="https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio"/>
+        <updated>2026-08-24T16:00:00.000Z</updated>
+        <published>2026-08-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android is getting its own weird dots to cure car sickness]]></title>
+        <id>https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure</id>
+        <link href="https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure"/>
+        <updated>2026-08-24T16:00:00.000Z</updated>
+        <published>2026-08-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The cat-and-mouse game over 3D-printed guns has begun]]></title>
+        <id>https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul</id>
+        <link href="https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul"/>
+        <updated>2026-08-24T16:00:00.000Z</updated>
+        <published>2026-08-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zillow and Redfin settle FTC antitrust case over their rental listings partnership]]></title>
+        <id>https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement</id>
+        <link href="https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement"/>
+        <updated>2026-08-24T16:00:00.000Z</updated>
+        <published>2026-08-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greenworks’ MaximusZ electric riding mower has five motors and a few compromises]]></title>
+        <id>https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price</id>
+        <link href="https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price"/>
         <updated>2026-08-24T16:00:00.000Z</updated>
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
@@ -263,104 +361,6 @@
         <title type="html"><![CDATA[The 4 Best Car Phone Mounts I’ve Tried (2026): Belkin, Andery, Andobil]]></title>
         <id>https://www.wired.com/story/best-car-phone-mounts-and-holders/</id>
         <link href="https://www.wired.com/story/best-car-phone-mounts-and-holders/"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optoma GT2400HDR Review: Ace Projector for Golf Simulation]]></title>
-        <id>https://www.wired.com/review/optoma-gt2400hdr/</id>
-        <link href="https://www.wired.com/review/optoma-gt2400hdr/"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Border Wall Construction Threatens 6,000 Years of History on Private Lands]]></title>
-        <id>https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/</id>
-        <link href="https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Daily Driver Gaming Headset Is Super Cheap Right Now]]></title>
-        <id>https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/</id>
-        <link href="https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe]]></title>
-        <id>https://www.wired.com/story/food-safety-gear-salmonella/</id>
-        <link href="https://www.wired.com/story/food-safety-gear-salmonella/"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It]]></title>
-        <id>https://www.wired.com/story/sous-vide-salmonella-eggs/</id>
-        <link href="https://www.wired.com/story/sous-vide-salmonella-eggs/"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitdefender VPN Review: Fast and Affordable Privacy]]></title>
-        <id>https://www.wired.com/review/bitdefender-vpn/</id>
-        <link href="https://www.wired.com/review/bitdefender-vpn/"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andy Dunn’s startup Pie becomes less of an events app and more of a social network]]></title>
-        <id>https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/</id>
-        <link href="https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber launches live video streaming for teen accounts]]></title>
-        <id>https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/</id>
-        <link href="https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux]]></title>
-        <id>https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/</id>
-        <link href="https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC]]></title>
-        <id>https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/</id>
-        <link href="https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zillow and Redfin settle FTC antitrust case]]></title>
-        <id>https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/</id>
-        <link href="https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show]]></title>
-        <id>https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/</id>
-        <link href="https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Turn a Sandbox into an MCP Server]]></title>
-        <id>https://github.com/substructureai/mcpd</id>
-        <link href="https://github.com/substructureai/mcpd"/>
-        <updated>2026-08-24T16:00:00.000Z</updated>
-        <published>2026-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Compiler Linting Just Got a Rust-Native Speedup in Oxlint]]></title>
-        <id>https://blog.master.dev/react-compiler-linting-just-got-a-rust-native-speedup-in-oxlint/</id>
-        <link href="https://blog.master.dev/react-compiler-linting-just-got-a-rust-native-speedup-in-oxlint/"/>
         <updated>2026-08-24T16:00:00.000Z</updated>
         <published>2026-08-24T16:00:00.000Z</published>
     </entry>
