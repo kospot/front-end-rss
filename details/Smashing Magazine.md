@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-26 23:02:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-27 06:01:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
@@ -13,4 +13,3 @@
 - [2026-08-07-How-Baseline-Can-Help-You-Ship-Less-JavaScript](https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/) 
 - [2026-07-31-Small-Joys-And-Big-Adventures-August-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/) 
 - [2026-07-29-The-Bull-And-Bear-Case-For-Digital-Design-In-The-Age-Of-AI](https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/) 
-- [2026-07-28-Thinking-Outside-The-Box:-Digital-Design-In-The-AI-Era](https://smashingmagazine.com/2026/07/digital-design-ai-era/) 
