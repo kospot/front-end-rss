@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-27T00:01:42.254Z</updated>
+    <updated>2026-08-27T02:01:10.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,9 @@
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure]]></title>
-        <id>https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/</id>
-        <link href="https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/"/>
+        <title type="html"><![CDATA[The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable]]></title>
+        <id>https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/</id>
+        <link href="https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
@@ -36,44 +36,9 @@
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable]]></title>
-        <id>https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/</id>
-        <link href="https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well]]></title>
-        <id>https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/</id>
-        <link href="https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states]]></title>
-        <id>https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/</id>
-        <link href="https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate]]></title>
-        <id>https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/</id>
-        <link href="https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations]]></title>
-        <id>https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/</id>
-        <link href="https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s Gemini has a branding problem, and so does the rest of AI]]></title>
-        <id>https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/</id>
-        <link href="https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"/>
+        <title type="html"><![CDATA[FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure]]></title>
+        <id>https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/</id>
+        <link href="https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
@@ -85,100 +50,86 @@
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tailmix connects one host to multiple Tailscale tailnets at the same time]]></title>
-        <id>https://github.com/maisem/tailmix</id>
-        <link href="https://github.com/maisem/tailmix"/>
+        <title type="html"><![CDATA[Google’s Gemini has a branding problem, and so does the rest of AI]]></title>
+        <id>https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/</id>
+        <link href="https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI for Lawyers in Argetina]]></title>
-        <id>https://ninolegal.com/</id>
-        <link href="https://ninolegal.com/"/>
+        <title type="html"><![CDATA[Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations]]></title>
+        <id>https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/</id>
+        <link href="https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[People are getting quieter and scientists are concerned [video]]]></title>
-        <id>https://www.youtube.com/watch?v=AeJ61w7be2A</id>
-        <link href="https://www.youtube.com/watch?v=AeJ61w7be2A"/>
+        <title type="html"><![CDATA[US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate]]></title>
+        <id>https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/</id>
+        <link href="https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Radiation vest tested during Artemis I cuts astronauts exposure in solar storms]]></title>
-        <id>https://apnews.com/article/nasa-artemis-moon-radiation-astronauts-13e453c3e0502c0b0b3786b7fbc1a5cd</id>
-        <link href="https://apnews.com/article/nasa-artemis-moon-radiation-astronauts-13e453c3e0502c0b0b3786b7fbc1a5cd"/>
+        <title type="html"><![CDATA[Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states]]></title>
+        <id>https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/</id>
+        <link href="https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude gets its own browser in Cowork]]></title>
-        <id>https://claude.com/blog/cowork-built-in-browser</id>
-        <link href="https://claude.com/blog/cowork-built-in-browser"/>
+        <title type="html"><![CDATA[Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well]]></title>
+        <id>https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/</id>
+        <link href="https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tailvisor: macOS and Linux VM sandbox with a Tailscale network identity]]></title>
-        <id>https://github.com/tailscale/tailvisor</id>
-        <link href="https://github.com/tailscale/tailvisor"/>
+        <title type="html"><![CDATA[Building Pre-Training Datasets for Text-to-Video Models]]></title>
+        <id>https://www.linum.ai/field-notes/data-filtering-gen-video</id>
+        <link href="https://www.linum.ai/field-notes/data-filtering-gen-video"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These Babies Grew Up w Strict Sugar Limits – Decades Later, Results Are Dramatic]]></title>
-        <id>https://www.sciencealert.com/these-babies-grew-up-with-strict-sugar-limits-decades-later-the-results-are-dramatic</id>
-        <link href="https://www.sciencealert.com/these-babies-grew-up-with-strict-sugar-limits-decades-later-the-results-are-dramatic"/>
+        <title type="html"><![CDATA[Guinea 2008 MNH, Alan Kay American computer scientist: $1.48 or best offer]]></title>
+        <id>https://www.ebay.com/itm/298608514190?_skw=alan+kay&amp;itmmeta=01M10EG29J6EAE7SSGBK86P1QE&amp;hash=item458674548e:g:r4MAAOSwvydgsvT-&amp;itmprp=enc%3AAQALAAAAwGfYFPkwiKCW4ZNSs2u11xCmPzXO5b9heobpJXTfD4lbqshcmiBdtiwuqSjdzO48saxhUd%2FTD1mjAG2hdbwdUySH3wCBCSFjM3mHlhSDOfPs8BhFyufrnKYAcka89JsmafA3KrLt61L19oOEiF5UR2HElwJriDp3f5%2F6jPUoUttB6Jhlx%2FQyHz08%2Bu0XsUQ%2B%2FZg3XKqAa3mNlk%2BWTQjlxkYcZs%2FQi3VbhEyghwaoSHQbTx4euEwAUh3lP7U4UJ1UyA%3D%3D%7Ctkp%3ABk9SR4ylwI6IaA</id>
+        <link href="https://www.ebay.com/itm/298608514190?_skw=alan+kay&amp;itmmeta=01M10EG29J6EAE7SSGBK86P1QE&amp;hash=item458674548e:g:r4MAAOSwvydgsvT-&amp;itmprp=enc%3AAQALAAAAwGfYFPkwiKCW4ZNSs2u11xCmPzXO5b9heobpJXTfD4lbqshcmiBdtiwuqSjdzO48saxhUd%2FTD1mjAG2hdbwdUySH3wCBCSFjM3mHlhSDOfPs8BhFyufrnKYAcka89JsmafA3KrLt61L19oOEiF5UR2HElwJriDp3f5%2F6jPUoUttB6Jhlx%2FQyHz08%2Bu0XsUQ%2B%2FZg3XKqAa3mNlk%2BWTQjlxkYcZs%2FQi3VbhEyghwaoSHQbTx4euEwAUh3lP7U4UJ1UyA%3D%3D%7Ctkp%3ABk9SR4ylwI6IaA"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maia 200: A Software Defined Dataflow System for Large-Scale AI Acceleration]]></title>
-        <id>https://arxiv.org/abs/2608.24664</id>
-        <link href="https://arxiv.org/abs/2608.24664"/>
+        <title type="html"><![CDATA[Laion Big Video Dataset]]></title>
+        <id>https://projects.laion.ai/bvd/</id>
+        <link href="https://projects.laion.ai/bvd/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Homo Ingredientus]]></title>
-        <id>https://medium.com/freedomofthought/homo-ingredientus-11b58eb1d7b9</id>
-        <link href="https://medium.com/freedomofthought/homo-ingredientus-11b58eb1d7b9"/>
+        <title type="html"><![CDATA[Loro, make your JSON data collaborative and version-controlled with CRDTs]]></title>
+        <id>https://github.com/loro-dev/loro</id>
+        <link href="https://github.com/loro-dev/loro"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create WebRTC Publisher Clients with Adaptive Live Encoding]]></title>
-        <id>https://www.red5.net/blog/how-to-create-webrtc-publisher-clients-with-adaptive-live-encoding/</id>
-        <link href="https://www.red5.net/blog/how-to-create-webrtc-publisher-clients-with-adaptive-live-encoding/"/>
+        <title type="html"><![CDATA[Anthropic and Nscale strike $45B cloud deal, sources say]]></title>
+        <id>https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html</id>
+        <link href="https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Fab Friends a crowdfunding site for Rwandan college students]]></title>
-        <id>https://www.joinfabfriends.org</id>
-        <link href="https://www.joinfabfriends.org"/>
+        <title type="html"><![CDATA[Show HN: KMF Leaderboard – Let GitHub Sponsors vote on issues and message you]]></title>
+        <id>https://my.kmf-lab.com/leaderboard</id>
+        <link href="https://my.kmf-lab.com/leaderboard"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The next CMS might be a coding agent and a Git repository]]></title>
-        <id>https://64labs.ca/articles/ai-isnt-just-writing-blog-posts-its-making-the-blog-platform-optional</id>
-        <link href="https://64labs.ca/articles/ai-isnt-just-writing-blog-posts-its-making-the-blog-platform-optional"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Craft We Trust]]></title>
-        <id>https://yaoyue.org/talks/craft/1</id>
-        <link href="https://yaoyue.org/talks/craft/1"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A free API that joins six Dutch government datasets into one REST endpoint]]></title>
-        <id>https://lookaal.dev/</id>
-        <link href="https://lookaal.dev/"/>
+        <title type="html"><![CDATA[UUID in Manticore: A Practical Guide]]></title>
+        <id>https://medium.com/@s_nikolaev/uuid-in-manticore-a-practical-guide-101f1b505ded</id>
+        <link href="https://medium.com/@s_nikolaev/uuid-in-manticore-a-practical-guide-101f1b505ded"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
@@ -190,16 +141,107 @@
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why AI Remembers Your Name for Fifty Messages Then Forgets You Completely, And What That Reveals…]]></title>
-        <id>https://pub.towardsai.net/why-ai-remembers-your-name-for-fifty-messages-then-forgets-you-completely-and-what-that-reveals-2cd7a0a9f6c2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-ai-remembers-your-name-for-fifty-messages-then-forgets-you-completely-and-what-that-reveals-2cd7a0a9f6c2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[A free API that joins six Dutch government datasets into one REST endpoint]]></title>
+        <id>https://lookaal.dev/</id>
+        <link href="https://lookaal.dev/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Practical Guide to Choosing the Right Spark Join Strategy, Avoiding Unnecessary Shuffles…]]></title>
-        <id>https://pub.towardsai.net/a-practical-guide-to-choosing-the-right-spark-join-strategy-avoiding-unnecessary-shuffles-582f41320147?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/a-practical-guide-to-choosing-the-right-spark-join-strategy-avoiding-unnecessary-shuffles-582f41320147?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[In Craft We Trust]]></title>
+        <id>https://yaoyue.org/talks/craft/1</id>
+        <link href="https://yaoyue.org/talks/craft/1"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The next CMS might be a coding agent and a Git repository]]></title>
+        <id>https://64labs.ca/articles/ai-isnt-just-writing-blog-posts-its-making-the-blog-platform-optional</id>
+        <link href="https://64labs.ca/articles/ai-isnt-just-writing-blog-posts-its-making-the-blog-platform-optional"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Fab Friends a crowdfunding site for Rwandan college students]]></title>
+        <id>https://www.joinfabfriends.org</id>
+        <link href="https://www.joinfabfriends.org"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create WebRTC Publisher Clients with Adaptive Live Encoding]]></title>
+        <id>https://www.red5.net/blog/how-to-create-webrtc-publisher-clients-with-adaptive-live-encoding/</id>
+        <link href="https://www.red5.net/blog/how-to-create-webrtc-publisher-clients-with-adaptive-live-encoding/"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homo Ingredientus]]></title>
+        <id>https://medium.com/freedomofthought/homo-ingredientus-11b58eb1d7b9</id>
+        <link href="https://medium.com/freedomofthought/homo-ingredientus-11b58eb1d7b9"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maia 200: A Software Defined Dataflow System for Large-Scale AI Acceleration]]></title>
+        <id>https://arxiv.org/abs/2608.24664</id>
+        <link href="https://arxiv.org/abs/2608.24664"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These Babies Grew Up w Strict Sugar Limits – Decades Later, Results Are Dramatic]]></title>
+        <id>https://www.sciencealert.com/these-babies-grew-up-with-strict-sugar-limits-decades-later-the-results-are-dramatic</id>
+        <link href="https://www.sciencealert.com/these-babies-grew-up-with-strict-sugar-limits-decades-later-the-results-are-dramatic"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tailvisor: macOS and Linux VM sandbox with a Tailscale network identity]]></title>
+        <id>https://github.com/tailscale/tailvisor</id>
+        <link href="https://github.com/tailscale/tailvisor"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude gets its own browser in Cowork]]></title>
+        <id>https://claude.com/blog/cowork-built-in-browser</id>
+        <link href="https://claude.com/blog/cowork-built-in-browser"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radiation vest tested during Artemis I cuts astronauts exposure in solar storms]]></title>
+        <id>https://apnews.com/article/nasa-artemis-moon-radiation-astronauts-13e453c3e0502c0b0b3786b7fbc1a5cd</id>
+        <link href="https://apnews.com/article/nasa-artemis-moon-radiation-astronauts-13e453c3e0502c0b0b3786b7fbc1a5cd"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People are getting quieter and scientists are concerned [video]]]></title>
+        <id>https://www.youtube.com/watch?v=AeJ61w7be2A</id>
+        <link href="https://www.youtube.com/watch?v=AeJ61w7be2A"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI for Lawyers in Argetina]]></title>
+        <id>https://ninolegal.com/</id>
+        <link href="https://ninolegal.com/"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailmix connects one host to multiple Tailscale tailnets at the same time]]></title>
+        <id>https://github.com/maisem/tailmix</id>
+        <link href="https://github.com/maisem/tailmix"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Taught Claude Code to Offload Grunt Work to a Local 4B Model]]></title>
+        <id>https://pub.towardsai.net/claude-code-skill-local-qwen-3c6bb5d051bd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-code-skill-local-qwen-3c6bb5d051bd?source=rss----98111c9905da---4"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
@@ -211,6 +253,20 @@
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Practical Guide to Choosing the Right Spark Join Strategy, Avoiding Unnecessary Shuffles…]]></title>
+        <id>https://pub.towardsai.net/a-practical-guide-to-choosing-the-right-spark-join-strategy-avoiding-unnecessary-shuffles-582f41320147?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-practical-guide-to-choosing-the-right-spark-join-strategy-avoiding-unnecessary-shuffles-582f41320147?source=rss----98111c9905da---4"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI Remembers Your Name for Fifty Messages Then Forgets You Completely, And What That Reveals…]]></title>
+        <id>https://pub.towardsai.net/why-ai-remembers-your-name-for-fifty-messages-then-forgets-you-completely-and-what-that-reveals-2cd7a0a9f6c2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-ai-remembers-your-name-for-fifty-messages-then-forgets-you-completely-and-what-that-reveals-2cd7a0a9f6c2?source=rss----98111c9905da---4"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub Copilot app for Beginners: Automate Dependabot pull request triage]]></title>
         <id>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/</id>
         <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/"/>
@@ -218,37 +274,30 @@
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In-Browser File Conversion: How to Convert 8,500+ Formats with Zero Server Storage]]></title>
-        <id>https://dev.to/just_chill_862c3340236115/in-browser-file-conversion-how-to-convert-8500-formats-with-zero-server-storage-2onl</id>
-        <link href="https://dev.to/just_chill_862c3340236115/in-browser-file-conversion-how-to-convert-8500-formats-with-zero-server-storage-2onl"/>
+        <title type="html"><![CDATA[Two weeks after I refused to run a client's repo, one of them had a backdoor]]></title>
+        <id>https://dev.to/automate_ai/two-weeks-after-i-refused-to-run-a-clients-repo-one-of-them-had-a-backdoor-2ea1</id>
+        <link href="https://dev.to/automate_ai/two-weeks-after-i-refused-to-run-a-clients-repo-one-of-them-had-a-backdoor-2ea1"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add Instagram-Style Stories to Your React Native App in Minutes]]></title>
-        <id>https://dev.to/abdullahansarii/add-instagram-style-stories-to-your-react-native-app-in-minutes-40ml</id>
-        <link href="https://dev.to/abdullahansarii/add-instagram-style-stories-to-your-react-native-app-in-minutes-40ml"/>
+        <title type="html"><![CDATA[Building a Browser-Only Batch Image Compressor with WebAssembly]]></title>
+        <id>https://dev.to/rave-tools/building-a-browser-only-batch-image-compressor-with-webassembly-1nh3</id>
+        <link href="https://dev.to/rave-tools/building-a-browser-only-batch-image-compressor-with-webassembly-1nh3"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What I Actually Had to Change When Moving to React Server Components]]></title>
-        <id>https://dev.to/parvejshah/what-i-actually-had-to-change-when-moving-to-react-server-components-1ee0</id>
-        <link href="https://dev.to/parvejshah/what-i-actually-had-to-change-when-moving-to-react-server-components-1ee0"/>
+        <title type="html"><![CDATA[Stop Calling Every Short Scraping Response a Proxy Failure]]></title>
+        <id>https://dev.to/98ip/stop-calling-every-short-scraping-response-a-proxy-failure-33oi</id>
+        <link href="https://dev.to/98ip/stop-calling-every-short-scraping-response-a-proxy-failure-33oi"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Bug Class AI Coding Agents Keep Introducing (and How We Started Catching It in CI)]]></title>
-        <id>https://dev.to/momcilo_savic_f347191005c/the-bug-class-ai-coding-agents-keep-introducing-and-how-we-started-catching-it-in-ci-1np7</id>
-        <link href="https://dev.to/momcilo_savic_f347191005c/the-bug-class-ai-coding-agents-keep-introducing-and-how-we-started-catching-it-in-ci-1np7"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aged Gmail Buy/Sell | 2027 Gmail Accounts Buying Guide 2026]]></title>
-        <id>https://dev.to/petuniaparismmhjq/aged-gmail-buysell-2027-gmail-accounts-buying-guide-2026-26m5</id>
-        <link href="https://dev.to/petuniaparismmhjq/aged-gmail-buysell-2027-gmail-accounts-buying-guide-2026-26m5"/>
+        <title type="html"><![CDATA[React Frontend + Node.js Backend Error Tracking Explained: A Simple Setup]]></title>
+        <id>https://dev.to/falgrim78/react-frontend-nodejs-backend-error-tracking-explained-a-simple-setup-4of8</id>
+        <link href="https://dev.to/falgrim78/react-frontend-nodejs-backend-error-tracking-explained-a-simple-setup-4of8"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
@@ -260,9 +309,37 @@
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React Frontend + Node.js Backend Error Tracking Explained: A Simple Setup]]></title>
-        <id>https://dev.to/falgrim78/react-frontend-nodejs-backend-error-tracking-explained-a-simple-setup-4of8</id>
-        <link href="https://dev.to/falgrim78/react-frontend-nodejs-backend-error-tracking-explained-a-simple-setup-4of8"/>
+        <title type="html"><![CDATA[Aged Gmail Buy/Sell | 2027 Gmail Accounts Buying Guide 2026]]></title>
+        <id>https://dev.to/petuniaparismmhjq/aged-gmail-buysell-2027-gmail-accounts-buying-guide-2026-26m5</id>
+        <link href="https://dev.to/petuniaparismmhjq/aged-gmail-buysell-2027-gmail-accounts-buying-guide-2026-26m5"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bug Class AI Coding Agents Keep Introducing (and How We Started Catching It in CI)]]></title>
+        <id>https://dev.to/momcilo_savic_f347191005c/the-bug-class-ai-coding-agents-keep-introducing-and-how-we-started-catching-it-in-ci-1np7</id>
+        <link href="https://dev.to/momcilo_savic_f347191005c/the-bug-class-ai-coding-agents-keep-introducing-and-how-we-started-catching-it-in-ci-1np7"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I Actually Had to Change When Moving to React Server Components]]></title>
+        <id>https://dev.to/parvejshah/what-i-actually-had-to-change-when-moving-to-react-server-components-1ee0</id>
+        <link href="https://dev.to/parvejshah/what-i-actually-had-to-change-when-moving-to-react-server-components-1ee0"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add Instagram-Style Stories to Your React Native App in Minutes]]></title>
+        <id>https://dev.to/abdullahansarii/add-instagram-style-stories-to-your-react-native-app-in-minutes-40ml</id>
+        <link href="https://dev.to/abdullahansarii/add-instagram-style-stories-to-your-react-native-app-in-minutes-40ml"/>
+        <updated>2026-08-26T16:00:00.000Z</updated>
+        <published>2026-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-Browser File Conversion: How to Convert 8,500+ Formats with Zero Server Storage]]></title>
+        <id>https://dev.to/just_chill_862c3340236115/in-browser-file-conversion-how-to-convert-8500-formats-with-zero-server-storage-2onl</id>
+        <link href="https://dev.to/just_chill_862c3340236115/in-browser-file-conversion-how-to-convert-8500-formats-with-zero-server-storage-2onl"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
@@ -284,83 +361,6 @@
         <title type="html"><![CDATA[Bill Gates is deeply worried about AI, and he’s no longer staying quiet]]></title>
         <id>https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet</id>
         <link href="https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet"/>
-        <updated>2026-08-25T16:00:00.000Z</updated>
-        <published>2026-08-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Witcher 3 is getting a remaster]]></title>
-        <id>https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer</id>
-        <link href="https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer"/>
-        <updated>2026-08-25T16:00:00.000Z</updated>
-        <published>2026-08-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories]]></title>
-        <id>https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories</id>
-        <link href="https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories"/>
-        <updated>2026-08-25T16:00:00.000Z</updated>
-        <published>2026-08-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeForce Now is getting support for the Steam Controller]]></title>
-        <id>https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support</id>
-        <link href="https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support"/>
-        <updated>2026-08-25T16:00:00.000Z</updated>
-        <published>2026-08-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garmin’s new Fenix 9 adds brighter screens and smoother map panning]]></title>
-        <id>https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch</id>
-        <link href="https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch"/>
-        <updated>2026-08-25T16:00:00.000Z</updated>
-        <published>2026-08-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta agrees to heavy restrictions on teen users in major lawsuit settlement]]></title>
-        <id>https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement</id>
-        <link href="https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement"/>
-        <updated>2026-08-25T16:00:00.000Z</updated>
-        <published>2026-08-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox announces disc-to-digital feature that digitizes your physical games]]></title>
-        <id>https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official</id>
-        <link href="https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official"/>
-        <updated>2026-08-25T16:00:00.000Z</updated>
-        <published>2026-08-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case—and That’s Not All]]></title>
-        <id>https://www.wired.com/story/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/</id>
-        <link href="https://www.wired.com/story/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/"/>
-        <updated>2026-08-25T16:00:00.000Z</updated>
-        <published>2026-08-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PeopleFinders’ New Website Runs Background Checks on Your Dates]]></title>
-        <id>https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/</id>
-        <link href="https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/"/>
-        <updated>2026-08-25T16:00:00.000Z</updated>
-        <published>2026-08-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread]]></title>
-        <id>https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/</id>
-        <link href="https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/"/>
-        <updated>2026-08-25T16:00:00.000Z</updated>
-        <published>2026-08-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel 11 Pro Fold Review: Better, Not Best]]></title>
-        <id>https://www.wired.com/review/google-pixel-11-pro-fold/</id>
-        <link href="https://www.wired.com/review/google-pixel-11-pro-fold/"/>
-        <updated>2026-08-25T16:00:00.000Z</updated>
-        <published>2026-08-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The US Just Recorded Its First 2 Measles Deaths This Year]]></title>
-        <id>https://www.wired.com/story/us-recorded-first-measles-deaths-2026/</id>
-        <link href="https://www.wired.com/story/us-recorded-first-measles-deaths-2026/"/>
         <updated>2026-08-25T16:00:00.000Z</updated>
         <published>2026-08-25T16:00:00.000Z</published>
     </entry>
