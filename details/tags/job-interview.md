@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-27 06:01:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-27 08:01:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -15,8 +15,8 @@
 - [2026-08-01-Drones-offer-alternative-to-balloons-for-weather-research](https://www.theguardian.com/news/2026/jul/31/weatherwatch-drone-base-station-offers-alternative-weather-balloons) 
 - [2026-08-23-Harvard’s-$699-startup-bootcamp-offers-AI-avatars-of-its-instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) 
 - [2026-08-18-Perplexity’s-free-AI-offer-left-it-with-millions-more-users-in-India](https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/) 
-- [2026-08-12-Google’s-Pixel-11-lineup-offer-fewer-hardware-changes,-but-much-more-Gemini](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) 
 - [2026-08-12-Google’s-new-Pixel-11-Pro-Fold-offers-a-stronger-build-and-brighter-screens](https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/) 
+- [2026-08-12-Google’s-Pixel-11-lineup-offer-fewer-hardware-changes,-but-much-more-Gemini](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) 
 - [2026-08-11-OpenAI-reportedly-completed-a-$7-billion-employee-tender-offer](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/) 
 - [2026-08-05-MacPaw-taps-Liquid-AI-to-offer-on-device-inference-to-devs-building-for-its-app-store](https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/) 
 - [2026-07-29-Hint,-a-new-AI-startup-co-founded-by-Martha-Stewart,-offers-an-AI-assistant-for-homeowners](https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/) 
