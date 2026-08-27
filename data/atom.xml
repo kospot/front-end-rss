@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-27T15:03:53.092Z</updated>
+    <updated>2026-08-27T22:01:26.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,163 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[If Meta&#8217;s going down, it’s taking TikTok and YouTube with it]]></title>
-        <id>https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap</id>
-        <link href="https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Speedo’s new smart goggles module can track all four swim strokes]]></title>
+        <id>https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module</id>
+        <link href="https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Maps has ads now]]></title>
-        <id>https://www.theverge.com/tech/985249/apple-maps-iphone-ads</id>
-        <link href="https://www.theverge.com/tech/985249/apple-maps-iphone-ads"/>
+        <title type="html"><![CDATA[Jensen Huang says Nvidia achieved AGI, again — not that it matters]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend]]></title>
+        <id>https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/</id>
+        <link href="https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Is How Anthropic Thinks AI Agents Should Navigate the Physical World]]></title>
+        <id>https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/</id>
+        <link href="https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix Failed at Video Games. Now It’s Trying to Promote Them]]></title>
+        <id>https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/</id>
+        <link href="https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buried in Meta’s $18B settlement is a legal pass on kids’ data]]></title>
+        <id>https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/</id>
+        <link href="https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI]]></title>
+        <id>https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/</id>
+        <link href="https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup]]></title>
+        <id>https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/</id>
+        <link href="https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a pure-Rust headless browser. No Chromium. No V8]]></title>
+        <id>https://www.reddit.com/r/webscraping/comments/1w07jov/i_built_a_purerust_headless_browser_no_chromium/</id>
+        <link href="https://www.reddit.com/r/webscraping/comments/1w07jov/i_built_a_purerust_headless_browser_no_chromium/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel previews future instruction-set documentaton]]></title>
+        <id>https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html</id>
+        <link href="https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anomalyco/OpenCode Review]]></title>
+        <id>https://github.com/anomalyco/opencode</id>
+        <link href="https://github.com/anomalyco/opencode"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Per Diem, a daily dice game like Balatro]]></title>
+        <id>https://perdiem.loch.tools</id>
+        <link href="https://perdiem.loch.tools"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Autonomous Prior-Authorization Agents Hallucinate “Phantom Policies”: Architecting Temporal RAG…]]></title>
+        <id>https://pub.towardsai.net/why-autonomous-prior-authorization-agents-hallucinate-phantom-policies-architecting-temporal-rag-c61a0a90d41e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-autonomous-prior-authorization-agents-hallucinate-phantom-policies-architecting-temporal-rag-c61a0a90d41e?source=rss----98111c9905da---4"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bilawalsidhu/gods-eye-view]]></title>
+        <id>https://github.com/bilawalsidhu/gods-eye-view</id>
+        <link href="https://github.com/bilawalsidhu/gods-eye-view"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Free Event Waiver Generator (Because HelloSign Charges $180/Year for This)]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-event-waiver-generator-because-hellosign-charges-180year-for-this-4018</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-event-waiver-generator-because-hellosign-charges-180year-for-this-4018"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[useFieldArray is not updating across steps — and why it can't]]></title>
+        <id>https://dev.to/kensaadi/usefieldarray-is-not-updating-across-steps-and-why-it-cant-1gcm</id>
+        <link href="https://dev.to/kensaadi/usefieldarray-is-not-updating-across-steps-and-why-it-cant-1gcm"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your JSONPath Queries Break in Production: 5 RFC 9535 Edge Cases Explained]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-your-jsonpath-queries-break-in-production-5-rfc-9535-edge-cases-explained-520</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-your-jsonpath-queries-break-in-production-5-rfc-9535-edge-cases-explained-520"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Buy Verified Paypal Accounts Accounts In Bulk (protoservice)]]></title>
+        <id>https://dev.to/uniqueservies545/how-to-buy-verified-paypal-accounts-accounts-in-bulk-protoservice-38i3</id>
+        <link href="https://dev.to/uniqueservies545/how-to-buy-verified-paypal-accounts-accounts-in-bulk-protoservice-38i3"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Generative AI Media: Advanced Asset Management & CDN Optimization for High-Volume Workflows]]></title>
+        <id>https://dev.to/programmingcentral/scaling-generative-ai-media-advanced-asset-management-cdn-optimization-for-high-volume-workflows-2nc8</id>
+        <link href="https://dev.to/programmingcentral/scaling-generative-ai-media-advanced-asset-management-cdn-optimization-for-high-volume-workflows-2nc8"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built an AI Game Arcade with Vanilla JavaScript and Zero Build Steps]]></title>
+        <id>https://dev.to/carlos/i-built-an-ai-game-arcade-with-vanilla-javascript-and-zero-build-steps-208k</id>
+        <link href="https://dev.to/carlos/i-built-an-ai-game-arcade-with-vanilla-javascript-and-zero-build-steps-208k"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cómo solucionar el error \"Enable JavaScript and cookies to continue\"]]></title>
+        <id>https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-4gln</id>
+        <link href="https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-4gln"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Installing Libraries: 13 Native APIs That Went Baseline in 2026]]></title>
+        <id>https://dev.to/gos/stop-installing-libraries-13-native-apis-that-went-baseline-in-2026-1286</id>
+        <link href="https://dev.to/gos/stop-installing-libraries-13-native-apis-that-went-baseline-in-2026-1286"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s Galaxy S26 FE pairs last year’s hardware with last month’s software]]></title>
+        <id>https://www.theverge.com/report/985187/samsung-galaxy-s26-fe-hands-on-preview-specs-features-design</id>
+        <link href="https://www.theverge.com/report/985187/samsung-galaxy-s26-fe-hands-on-preview-specs-features-design"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
@@ -36,58 +183,16 @@
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samsung’s Galaxy S26 FE pairs last year’s hardware with last month’s software]]></title>
-        <id>https://www.theverge.com/report/985187/samsung-galaxy-s26-fe-hands-on-preview-specs-features-design</id>
-        <link href="https://www.theverge.com/report/985187/samsung-galaxy-s26-fe-hands-on-preview-specs-features-design"/>
+        <title type="html"><![CDATA[Apple Maps has ads now]]></title>
+        <id>https://www.theverge.com/tech/985249/apple-maps-iphone-ads</id>
+        <link href="https://www.theverge.com/tech/985249/apple-maps-iphone-ads"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alienware AW3926QW Review: 39 Inches of Gaming Glory]]></title>
-        <id>https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/</id>
-        <link href="https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Posture Correctors for Better Body Alignment (2026)]]></title>
-        <id>https://www.wired.com/gallery/posture-correctors/</id>
-        <link href="https://www.wired.com/gallery/posture-correctors/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead]]></title>
-        <id>https://www.wired.com/story/relay-q-voice-to-text-ai-app/</id>
-        <link href="https://www.wired.com/story/relay-q-voice-to-text-ai-app/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Google Pixel Phones of 2026: Comparison, Features, and Accessories]]></title>
-        <id>https://www.wired.com/story/best-google-pixel-phone/</id>
-        <link href="https://www.wired.com/story/best-google-pixel-phone/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable]]></title>
-        <id>https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/</id>
-        <link href="https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery]]></title>
-        <id>https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/</id>
-        <link href="https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure]]></title>
-        <id>https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/</id>
-        <link href="https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/"/>
+        <title type="html"><![CDATA[If Meta&#8217;s going down, it’s taking TikTok and YouTube with it]]></title>
+        <id>https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap</id>
+        <link href="https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
@@ -99,72 +204,51 @@
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This former PG&E engineer is building a ‘Google Maps for the underground’]]></title>
-        <id>https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/</id>
-        <link href="https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/"/>
+        <title type="html"><![CDATA[FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure]]></title>
+        <id>https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/</id>
+        <link href="https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale]]></title>
-        <id>https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/</id>
-        <link href="https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/"/>
+        <title type="html"><![CDATA[The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery]]></title>
+        <id>https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/</id>
+        <link href="https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others]]></title>
-        <id>https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/</id>
-        <link href="https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/"/>
+        <title type="html"><![CDATA[The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable]]></title>
+        <id>https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/</id>
+        <link href="https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here’s all the times AI has gone rogue and hacked other companies]]></title>
-        <id>https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/</id>
-        <link href="https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/"/>
+        <title type="html"><![CDATA[The Best Google Pixel Phones of 2026: Comparison, Features, and Accessories]]></title>
+        <id>https://www.wired.com/story/best-google-pixel-phone/</id>
+        <link href="https://www.wired.com/story/best-google-pixel-phone/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well]]></title>
-        <id>https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/</id>
-        <link href="https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/"/>
+        <title type="html"><![CDATA[Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead]]></title>
+        <id>https://www.wired.com/story/relay-q-voice-to-text-ai-app/</id>
+        <link href="https://www.wired.com/story/relay-q-voice-to-text-ai-app/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states]]></title>
-        <id>https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/</id>
-        <link href="https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/"/>
+        <title type="html"><![CDATA[Best Posture Correctors for Better Body Alignment (2026)]]></title>
+        <id>https://www.wired.com/gallery/posture-correctors/</id>
+        <link href="https://www.wired.com/gallery/posture-correctors/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate]]></title>
-        <id>https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/</id>
-        <link href="https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations]]></title>
-        <id>https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/</id>
-        <link href="https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s Gemini has a branding problem, and so does the rest of AI]]></title>
-        <id>https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/</id>
-        <link href="https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic continues compute-gobbling streak in $45 billion deal with Nscale]]></title>
-        <id>https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/</id>
-        <link href="https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"/>
+        <title type="html"><![CDATA[Alienware AW3926QW Review: 39 Inches of Gaming Glory]]></title>
+        <id>https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/</id>
+        <link href="https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
@@ -176,191 +260,107 @@
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Russian-speaking cybercriminals used SpaceX's Cursor AI to hack seven companies]]></title>
-        <id>https://www.reuters.com/world/russian-speaking-cybercriminals-used-spacexs-cursor-ai-tool-hack-seven-companies-2026-08-27/</id>
-        <link href="https://www.reuters.com/world/russian-speaking-cybercriminals-used-spacexs-cursor-ai-tool-hack-seven-companies-2026-08-27/"/>
+        <title type="html"><![CDATA[Anthropic continues compute-gobbling streak in $45 billion deal with Nscale]]></title>
+        <id>https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/</id>
+        <link href="https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peter Cullen, Voice of Optimus Prime in 'Transformers,' Dies at 85]]></title>
-        <id>https://www.hollywoodreporter.com/movies/movie-news/peter-cullen-optimus-prime-transformers-eeyore-1236683075/</id>
-        <link href="https://www.hollywoodreporter.com/movies/movie-news/peter-cullen-optimus-prime-transformers-eeyore-1236683075/"/>
+        <title type="html"><![CDATA[Google’s Gemini has a branding problem, and so does the rest of AI]]></title>
+        <id>https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/</id>
+        <link href="https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Star Trek at 60: an exploration of humanity rather than aliens]]></title>
-        <id>https://theconversation.com/star-trek-at-60-the-secret-of-this-pioneering-series-was-its-exploration-of-humanity-not-aliens-290646</id>
-        <link href="https://theconversation.com/star-trek-at-60-the-secret-of-this-pioneering-series-was-its-exploration-of-humanity-not-aliens-290646"/>
+        <title type="html"><![CDATA[Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations]]></title>
+        <id>https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/</id>
+        <link href="https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bastiat's Candlestick Makers' Petition]]></title>
-        <id>http://bastiat.org/en/petition.html</id>
-        <link href="http://bastiat.org/en/petition.html"/>
+        <title type="html"><![CDATA[US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate]]></title>
+        <id>https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/</id>
+        <link href="https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Proval – Self-hosted code review agent for GitLab, Forgejo, and GitHub]]></title>
-        <id>https://github.com/seoes/proval</id>
-        <link href="https://github.com/seoes/proval"/>
+        <title type="html"><![CDATA[Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states]]></title>
+        <id>https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/</id>
+        <link href="https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Problems with Large Tables in Postgres]]></title>
-        <id>https://planetscale.com/blog/dealing-with-large-tables-in-postgres</id>
-        <link href="https://planetscale.com/blog/dealing-with-large-tables-in-postgres"/>
+        <title type="html"><![CDATA[Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well]]></title>
+        <id>https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/</id>
+        <link href="https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hollywood's Video Game Era Is Here. Will It Be Any Good?]]></title>
-        <id>https://www.statsignificant.com/p/hollywoods-video-game-era-is-here</id>
-        <link href="https://www.statsignificant.com/p/hollywoods-video-game-era-is-here"/>
+        <title type="html"><![CDATA[Here’s all the times AI has gone rogue and hacked other companies]]></title>
+        <id>https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/</id>
+        <link href="https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Filtering silent audio chunks broke transcript finalization]]></title>
-        <id>https://geekbye.com/blog/the-silence-was-load-bearing</id>
-        <link href="https://geekbye.com/blog/the-silence-was-load-bearing"/>
+        <title type="html"><![CDATA[Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others]]></title>
+        <id>https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/</id>
+        <link href="https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: NexDM – A fast, 64-segment download manager in Rust and Tauri]]></title>
-        <id>https://nexdm.in/</id>
-        <link href="https://nexdm.in/"/>
+        <title type="html"><![CDATA[Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale]]></title>
+        <id>https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/</id>
+        <link href="https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feedback on Using Unified Builds]]></title>
-        <id>https://serge-sans-paille.github.io/pythran-stories/pros-and-cons-of-unified-build.html</id>
-        <link href="https://serge-sans-paille.github.io/pythran-stories/pros-and-cons-of-unified-build.html"/>
+        <title type="html"><![CDATA[This former PG&E engineer is building a ‘Google Maps for the underground’]]></title>
+        <id>https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/</id>
+        <link href="https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EasyContract – Upload any contract, get a risk analysis in seconds]]></title>
-        <id>https://easy-contract.app</id>
-        <link href="https://easy-contract.app"/>
+        <title type="html"><![CDATA[StackingWizard – stack your astrophotos easy and free]]></title>
+        <id>https://astrowizard.lukomatico.com/stackingwizard.html</id>
+        <link href="https://astrowizard.lukomatico.com/stackingwizard.html"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You could own AI.slop if applicant for new top-level domains get their way]]></title>
-        <id>https://www.theregister.com/networks/2026/08/27/you-could-own-aislop-if-applicant-for-new-global-top-level-domains-get-their-way/5292831</id>
-        <link href="https://www.theregister.com/networks/2026/08/27/you-could-own-aislop-if-applicant-for-new-global-top-level-domains-get-their-way/5292831"/>
+        <title type="html"><![CDATA[After Meta's landmark settlement with state AGs, legal headaches remain]]></title>
+        <id>https://www.cnbc.com/2026/08/27/after-meta-landmark-settlement-with-state-ags-legal-headaches-remain.html</id>
+        <link href="https://www.cnbc.com/2026/08/27/after-meta-landmark-settlement-with-state-ags-legal-headaches-remain.html"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bug Translation Audio has someone screaming on it]]></title>
-        <id>https://kagifeedback.org/d/11343-audio-has-someone-screaming-on-it</id>
-        <link href="https://kagifeedback.org/d/11343-audio-has-someone-screaming-on-it"/>
+        <title type="html"><![CDATA[Meta's social media settlement leaves its money machine unscathed]]></title>
+        <id>https://www.reuters.com/world/asia-pacific/metas-social-media-settlement-leaves-its-money-machine-unscathed-2026-08-27/</id>
+        <link href="https://www.reuters.com/world/asia-pacific/metas-social-media-settlement-leaves-its-money-machine-unscathed-2026-08-27/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Diamond Transistors Are So Hard [video]]]></title>
-        <id>https://www.youtube.com/watch?v=NLmd5vL0zmk</id>
-        <link href="https://www.youtube.com/watch?v=NLmd5vL0zmk"/>
+        <title type="html"><![CDATA[Why mental health startups die: 542 post-mortems]]></title>
+        <id>https://zenodo.org/records/22125809</id>
+        <link href="https://zenodo.org/records/22125809"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Running Linux GUI Apps on Android via Integrated TigerVNC and AOSP]]></title>
-        <id>https://github.com/openfde/openfde/blob/main/docs/Technical-Article01.md</id>
-        <link href="https://github.com/openfde/openfde/blob/main/docs/Technical-Article01.md"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The people, the money and the ownership behind China's leading AI companies]]></title>
-        <id>https://wirescreen.ai/briefings/china-ai</id>
-        <link href="https://wirescreen.ai/briefings/china-ai"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My software development workflow is AI now & it feels exhausting and soulless]]></title>
-        <id>https://old.reddit.com/r/cscareerquestions/comments/1vi1i7m/my_entire_software_development_workflow_is_ai_now/</id>
-        <link href="https://old.reddit.com/r/cscareerquestions/comments/1vi1i7m/my_entire_software_development_workflow_is_ai_now/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Computing Failure Now Obvious [video]]]></title>
-        <id>https://www.youtube.com/watch?v=DX_oIQ-tA6M</id>
-        <link href="https://www.youtube.com/watch?v=DX_oIQ-tA6M"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Critter TUI for reviewing GitHub PRs and agent changes]]></title>
-        <id>https://github.com/andyhmltn/critter</id>
-        <link href="https://github.com/andyhmltn/critter"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instinct is raising a $250M Series B]]></title>
-        <id>https://www.wsj.com/tech/ai/the-latest-viral-ai-assistant-rocketing-across-silicon-valley-abb46276</id>
-        <link href="https://www.wsj.com/tech/ai/the-latest-viral-ai-assistant-rocketing-across-silicon-valley-abb46276"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First patient to undergo live AI-assisted brain surgery has tumour removed]]></title>
-        <id>https://www.bbc.com/news/articles/cjwg5n7y68xo</id>
-        <link href="https://www.bbc.com/news/articles/cjwg5n7y68xo"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roast My Startup]]></title>
-        <id>https://www.getstreek.com/</id>
-        <link href="https://www.getstreek.com/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese avant-garde artist Yayoi Kusama dies aged 97]]></title>
-        <id>https://www.bbc.com/news/articles/c3v4k0re3vwo</id>
-        <link href="https://www.bbc.com/news/articles/c3v4k0re3vwo"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Self-Hosted SSO Tax: A Verified Tracker]]></title>
-        <id>https://techfuelhq.com/self-hosted/self-hosted-sso-tax-2026/</id>
-        <link href="https://techfuelhq.com/self-hosted/self-hosted-sso-tax-2026/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Maps Launches Ads on iPhone]]></title>
-        <id>https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/</id>
-        <link href="https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dissecting the Apple M1 GPU, the End]]></title>
-        <id>https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html</id>
-        <link href="https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta's self-inflicted resignation-wave]]></title>
-        <id>https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/"/>
+        <title type="html"><![CDATA[Why Reading Egyptian Hieroglyphics Is Easier Than You Think]]></title>
+        <id>https://www.openculture.com/2026/08/why-reading-egyptian-hieroglyphics-is-easier-than-you-think.html</id>
+        <link href="https://www.openculture.com/2026/08/why-reading-egyptian-hieroglyphics-is-easier-than-you-think.html"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
