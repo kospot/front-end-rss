@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-28T13:03:42.869Z</updated>
+    <updated>2026-08-28T15:03:40.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,23 +22,9 @@
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2]]></title>
-        <id>https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv</id>
-        <link href="https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speedo’s new smart goggles module can track all four swim strokes]]></title>
-        <id>https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module</id>
-        <link href="https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jensen Huang says Nvidia achieved AGI, again — not that it matters]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"/>
+        <title type="html"><![CDATA[The biggest video game of all time looks like a movie]]></title>
+        <id>https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie</id>
+        <link href="https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
@@ -50,58 +36,23 @@
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The biggest video game of all time looks like a movie]]></title>
-        <id>https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie</id>
-        <link href="https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie"/>
+        <title type="html"><![CDATA[Jensen Huang says Nvidia achieved AGI, again — not that it matters]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inside Meta’s Push to Put Robots to Work in Data Centers]]></title>
-        <id>https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/</id>
-        <link href="https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/"/>
+        <title type="html"><![CDATA[Speedo’s new smart goggles module can track all four swim strokes]]></title>
+        <id>https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module</id>
+        <link href="https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Easiest Ways to Share Anything Between Android and iOS]]></title>
-        <id>https://www.wired.com/story/how-to-share-anything-between-android-and-ios/</id>
-        <link href="https://www.wired.com/story/how-to-share-anything-between-android-and-ios/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XGIMI Vibe One Battery-Powered Projector Review (2026)]]></title>
-        <id>https://www.wired.com/review/xgimi-vibe-one-battery-powered-projector/</id>
-        <link href="https://www.wired.com/review/xgimi-vibe-one-battery-powered-projector/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Asked 100 Companies for My Data. I Got Deletion Notices Instead]]></title>
-        <id>https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/</id>
-        <link href="https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix Failed at Video Games. Now It’s Trying to Promote Them]]></title>
-        <id>https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/</id>
-        <link href="https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is How Anthropic Thinks AI Agents Should Navigate the Physical World]]></title>
-        <id>https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/</id>
-        <link href="https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend]]></title>
-        <id>https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/</id>
-        <link href="https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/"/>
+        <title type="html"><![CDATA[Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2]]></title>
+        <id>https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv</id>
+        <link href="https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
@@ -113,30 +64,51 @@
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic gets its first court win over the Pentagon’s supply chain risk label]]></title>
-        <id>https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/</id>
-        <link href="https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"/>
+        <title type="html"><![CDATA[A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend]]></title>
+        <id>https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/</id>
+        <link href="https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India]]></title>
-        <id>https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/</id>
-        <link href="https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"/>
+        <title type="html"><![CDATA[This Is How Anthropic Thinks AI Agents Should Navigate the Physical World]]></title>
+        <id>https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/</id>
+        <link href="https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buried in Meta’s $18B settlement is a legal pass on kids’ data]]></title>
-        <id>https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/</id>
-        <link href="https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/"/>
+        <title type="html"><![CDATA[Netflix Failed at Video Games. Now It’s Trying to Promote Them]]></title>
+        <id>https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/</id>
+        <link href="https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI]]></title>
-        <id>https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/</id>
-        <link href="https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"/>
+        <title type="html"><![CDATA[I Asked 100 Companies for My Data. I Got Deletion Notices Instead]]></title>
+        <id>https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/</id>
+        <link href="https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XGIMI Vibe One Battery-Powered Projector Review (2026)]]></title>
+        <id>https://www.wired.com/review/xgimi-vibe-one-battery-powered-projector/</id>
+        <link href="https://www.wired.com/review/xgimi-vibe-one-battery-powered-projector/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Easiest Ways to Share Anything Between Android and iOS]]></title>
+        <id>https://www.wired.com/story/how-to-share-anything-between-android-and-ios/</id>
+        <link href="https://www.wired.com/story/how-to-share-anything-between-android-and-ios/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Meta’s Push to Put Robots to Work in Data Centers]]></title>
+        <id>https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/</id>
+        <link href="https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
@@ -148,205 +120,191 @@
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[vgpu and HTML-in-Canvas]]></title>
-        <id>https://html-in-canvas.dev/demos/vgpu-shader/</id>
-        <link href="https://html-in-canvas.dev/demos/vgpu-shader/"/>
+        <title type="html"><![CDATA[OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI]]></title>
+        <id>https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/</id>
+        <link href="https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are Crows Our Friends?]]></title>
-        <id>https://www.audubon.org/magazine/are-crows-really-our-friends</id>
-        <link href="https://www.audubon.org/magazine/are-crows-really-our-friends"/>
+        <title type="html"><![CDATA[Buried in Meta’s $18B settlement is a legal pass on kids’ data]]></title>
+        <id>https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/</id>
+        <link href="https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I made Rustdoc 33% faster in one week]]></title>
-        <id>https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/</id>
-        <link href="https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/"/>
+        <title type="html"><![CDATA[Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India]]></title>
+        <id>https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/</id>
+        <link href="https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unforgetful]]></title>
-        <id>https://unforgetful.app/</id>
-        <link href="https://unforgetful.app/"/>
+        <title type="html"><![CDATA[Anthropic gets its first court win over the Pentagon’s supply chain risk label]]></title>
+        <id>https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/</id>
+        <link href="https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Authorities arrest 2 alleged members of prolific hacking group TeamPCP]]></title>
-        <id>https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/</id>
-        <link href="https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/"/>
+        <title type="html"><![CDATA[To Async or Not to Async: Building a Rust MCP Server for Rust-Analyzer]]></title>
+        <id>https://developerlife.com/2026/08/22/to-async-or-not-to-async-rust-mcp-server/</id>
+        <link href="https://developerlife.com/2026/08/22/to-async-or-not-to-async-rust-mcp-server/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hot Chips 2026: Cerebras lays out the future of wafer-scale AI]]></title>
-        <id>https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-cerebras-lays-out-the-future-of-wafer-scale-ai-nexus-system-architecture-triples-rack-scale-performance-cs-6-wafer-to-incorporate-stacked-dram</id>
-        <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-cerebras-lays-out-the-future-of-wafer-scale-ai-nexus-system-architecture-triples-rack-scale-performance-cs-6-wafer-to-incorporate-stacked-dram"/>
+        <title type="html"><![CDATA[Python 3.15: Explicit lazy imports]]></title>
+        <id>https://docs.python.org/3.15/whatsnew/3.15.html#pep-810-explicit-lazy-imports</id>
+        <link href="https://docs.python.org/3.15/whatsnew/3.15.html#pep-810-explicit-lazy-imports"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daycare Pseudoscience]]></title>
-        <id>https://worksinprogress.co/issue/daycare-pseudoscience/</id>
-        <link href="https://worksinprogress.co/issue/daycare-pseudoscience/"/>
+        <title type="html"><![CDATA[Tencent Releases and Open-Sources Tencent Hy4 Preview]]></title>
+        <id>https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</id>
+        <link href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How many lives have Musk's companies saved?]]></title>
-        <id>https://blog.oxplot.com/how-many-lives-have-musks-companies-saved/</id>
-        <link href="https://blog.oxplot.com/how-many-lives-have-musks-companies-saved/"/>
+        <title type="html"><![CDATA[I'm an AI given 5 hours to earn £90 – this is my shop]]></title>
+        <id>https://claude.ai/code/artifact/3f015ec2-6091-4e5d-8e6d-2098a14410c9</id>
+        <link href="https://claude.ai/code/artifact/3f015ec2-6091-4e5d-8e6d-2098a14410c9"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Norway's King Harald dies aged 89]]></title>
-        <id>https://www.bbc.com/news/articles/clykn5p5172o</id>
-        <link href="https://www.bbc.com/news/articles/clykn5p5172o"/>
+        <title type="html"><![CDATA[Unplanned tasks get finished more often than planned ones]]></title>
+        <id>https://jeroensangers.com/2026/08/27/unplanned-tasks-get-finished-more.html</id>
+        <link href="https://jeroensangers.com/2026/08/27/unplanned-tasks-get-finished-more.html"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Game over for Unauthorized AI Performances: The Sag-Aftra Video Game Strike]]></title>
-        <id>https://sites.suffolk.edu/jhtl/2025/10/30/game-over-for-unauthorized-ai-performances-the-sag-aftra-video-game-strike-and-performer-protections-under-the-new-collective-bargaining-agreement/</id>
-        <link href="https://sites.suffolk.edu/jhtl/2025/10/30/game-over-for-unauthorized-ai-performances-the-sag-aftra-video-game-strike-and-performer-protections-under-the-new-collective-bargaining-agreement/"/>
+        <title type="html"><![CDATA[AirCheck – record your Mac's internal audio, $39 one-off]]></title>
+        <id>https://aircheckaudio.com/</id>
+        <link href="https://aircheckaudio.com/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tencent Hy4 Preview]]></title>
-        <id>https://openrouter.ai/tencent/hy4-preview</id>
-        <link href="https://openrouter.ai/tencent/hy4-preview"/>
+        <title type="html"><![CDATA[Show HN: Fastpotify – a fast, native Spotify client in Rust and egui]]></title>
+        <id>https://github.com/crmne/fastpotify</id>
+        <link href="https://github.com/crmne/fastpotify"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Luanti removed from Google Play due to baseless AI copyright notice]]></title>
-        <id>https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/</id>
-        <link href="https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"/>
+        <title type="html"><![CDATA[Running a Software Factory Efficiently at Uber Scale]]></title>
+        <id>https://www.uber.com/us/en/blog/efficient-software-factory/</id>
+        <link href="https://www.uber.com/us/en/blog/efficient-software-factory/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oj: your Rust native replacement for Vite]]></title>
-        <id>https://rapha.land/introducing-oj/</id>
-        <link href="https://rapha.land/introducing-oj/"/>
+        <title type="html"><![CDATA[Grith is live – security proxy for AI coding agents]]></title>
+        <id>https://grith.ai/blog/grith-is-live</id>
+        <link href="https://grith.ai/blog/grith-is-live"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hy4 Preview]]></title>
-        <id>https://hy.tencent.ai/research/hy4-preview</id>
-        <link href="https://hy.tencent.ai/research/hy4-preview"/>
+        <title type="html"><![CDATA[On the way to automate user manuals and knowledge bases]]></title>
+        <id>https://typemill.net/news/on-the-way-to-automate-user-manuals-and-knowledge-bases</id>
+        <link href="https://typemill.net/news/on-the-way-to-automate-user-manuals-and-knowledge-bases"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hy4 Preview]]></title>
-        <id>https://huggingface.co/tencent/Hy4-preview</id>
-        <link href="https://huggingface.co/tencent/Hy4-preview"/>
+        <title type="html"><![CDATA[PEP 805 – Safe Parallel Python – peps.python.org]]></title>
+        <id>https://peps.python.org/pep-0805/</id>
+        <link href="https://peps.python.org/pep-0805/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Dirty AI lie: How the GREATEST bet in human history started to crack [video]]]></title>
-        <id>https://www.youtube.com/watch?v=WcckBmkauBQ</id>
-        <link href="https://www.youtube.com/watch?v=WcckBmkauBQ"/>
+        <title type="html"><![CDATA[12 Sunsets: Exploring Ed Ruscha's Archive]]></title>
+        <id>https://12sunsets.getty.edu/</id>
+        <link href="https://12sunsets.getty.edu/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[For ancient Romans, pooping was a group activity]]></title>
-        <id>https://www.popsci.com/science/ancient-roman-toilets/</id>
-        <link href="https://www.popsci.com/science/ancient-roman-toilets/"/>
+        <title type="html"><![CDATA[IFA 2026 Preview: On-device AI PCs, DJI robotics, and Xiaomi's European debut]]></title>
+        <id>https://forgeeks.net/ifa-2026-local-ai-robots-devices/</id>
+        <link href="https://forgeeks.net/ifa-2026-local-ai-robots-devices/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tech Companies Lobbied Away Stricter Rules on Gas-Powered Data Centers]]></title>
-        <id>https://www.engadget.com/2172704/tech-companies-lobbied-against-stricter-environmental-rules/</id>
-        <link href="https://www.engadget.com/2172704/tech-companies-lobbied-against-stricter-environmental-rules/"/>
+        <title type="html"><![CDATA[The Server Called Paranoia: Defend Autistici/Inventati]]></title>
+        <id>https://cavallette.noblogs.org/2026/08/10083/2</id>
+        <link href="https://cavallette.noblogs.org/2026/08/10083/2"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Leadcode – per-client account isolation for Claude Code, Codex, and gh]]></title>
-        <id>https://leadcode.build/</id>
-        <link href="https://leadcode.build/"/>
+        <title type="html"><![CDATA[Hilariously Fast Volume Computation with the Divergence Theorem]]></title>
+        <id>https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html</id>
+        <link href="https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astronomers discover a new type of astrophysical object: A black hole star]]></title>
-        <id>https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812</id>
-        <link href="https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812"/>
+        <title type="html"><![CDATA[WAFT: Warping-Alone Field Transforms for Optical Flow (2025)]]></title>
+        <id>https://arxiv.org/abs/2506.21526</id>
+        <link href="https://arxiv.org/abs/2506.21526"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pinning Down Rust's Pin]]></title>
-        <id>https://gmcgoldr.github.io/2026/08/27/pin-in-rust.html</id>
-        <link href="https://gmcgoldr.github.io/2026/08/27/pin-in-rust.html"/>
+        <title type="html"><![CDATA[12 Small Steps for Man [video]]]></title>
+        <id>https://www.youtube.com/watch?v=aL2TYHegE2M</id>
+        <link href="https://www.youtube.com/watch?v=aL2TYHegE2M"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Selling Digital Products Online: A Practical Start-to-Sale Guide]]></title>
-        <id>https://www.a1ho.com/2026/07/selling-digital-products-online.html</id>
-        <link href="https://www.a1ho.com/2026/07/selling-digital-products-online.html"/>
+        <title type="html"><![CDATA[Show HN: A focused workspace for creating short AI videos with H3 Max]]></title>
+        <id>https://h3max.app/</id>
+        <link href="https://h3max.app/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are Vandals Winning the War on Flock Cameras? [video]]]></title>
-        <id>https://www.youtube.com/shorts/SVUfvXqakEI</id>
-        <link href="https://www.youtube.com/shorts/SVUfvXqakEI"/>
+        <title type="html"><![CDATA[Making fast, pressure-sealed thermocouple probes]]></title>
+        <id>https://robot-daycare.com/posts/thermocouple/</id>
+        <link href="https://robot-daycare.com/posts/thermocouple/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a pure-Rust headless browser. No Chromium. No V8]]></title>
-        <id>https://www.reddit.com/r/webscraping/comments/1w07jov/i_built_a_purerust_headless_browser_no_chromium/</id>
-        <link href="https://www.reddit.com/r/webscraping/comments/1w07jov/i_built_a_purerust_headless_browser_no_chromium/"/>
+        <title type="html"><![CDATA[NexaQL A binary protocol that bridges legacy SOAP/XML with modern Edge Computing]]></title>
+        <id>https://github.com/YsaiasPeru/nexuql</id>
+        <link href="https://github.com/YsaiasPeru/nexuql"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel previews future instruction-set documentaton]]></title>
-        <id>https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html</id>
-        <link href="https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html"/>
+        <title type="html"><![CDATA[Brazil is having it's own "Lou Gehrig" moment [video]]]></title>
+        <id>https://www.youtube.com/watch?v=oa0NfzLmTPQ</id>
+        <link href="https://www.youtube.com/watch?v=oa0NfzLmTPQ"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anomalyco/OpenCode Review]]></title>
-        <id>https://github.com/anomalyco/opencode</id>
-        <link href="https://github.com/anomalyco/opencode"/>
+        <title type="html"><![CDATA[I made a DDoS/stress-test tool only with Python]]></title>
+        <id>https://github.com/shiba44-shiba/Stress-testing-advanced</id>
+        <link href="https://github.com/shiba44-shiba/Stress-testing-advanced"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Per Diem, a daily dice game like Balatro]]></title>
-        <id>https://perdiem.loch.tools</id>
-        <link href="https://perdiem.loch.tools"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Science Weekly – Issue 666]]></title>
-        <id>https://datascienceweekly.substack.com/p/data-science-weekly-issue-666</id>
-        <link href="https://datascienceweekly.substack.com/p/data-science-weekly-issue-666"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Katamari Object Library]]></title>
-        <id>https://katamari.andrew-boylan.com/</id>
-        <link href="https://katamari.andrew-boylan.com/"/>
+        <title type="html"><![CDATA[Ask HN: Which class of business model is most resilient to build in the AI era?]]></title>
+        <id>https://news.ycombinator.com/item?id=49472620</id>
+        <link href="https://news.ycombinator.com/item?id=49472620"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
@@ -358,9 +316,51 @@
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Which class of business model is most resilient to build in the AI era?]]></title>
-        <id>https://news.ycombinator.com/item?id=49472620</id>
-        <link href="https://news.ycombinator.com/item?id=49472620"/>
+        <title type="html"><![CDATA[Katamari Object Library]]></title>
+        <id>https://katamari.andrew-boylan.com/</id>
+        <link href="https://katamari.andrew-boylan.com/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Science Weekly – Issue 666]]></title>
+        <id>https://datascienceweekly.substack.com/p/data-science-weekly-issue-666</id>
+        <link href="https://datascienceweekly.substack.com/p/data-science-weekly-issue-666"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Per Diem, a daily dice game like Balatro]]></title>
+        <id>https://perdiem.loch.tools</id>
+        <link href="https://perdiem.loch.tools"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anomalyco/OpenCode Review]]></title>
+        <id>https://github.com/anomalyco/opencode</id>
+        <link href="https://github.com/anomalyco/opencode"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel previews future instruction-set documentaton]]></title>
+        <id>https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html</id>
+        <link href="https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a pure-Rust headless browser. No Chromium. No V8]]></title>
+        <id>https://www.reddit.com/r/webscraping/comments/1w07jov/i_built_a_purerust_headless_browser_no_chromium/</id>
+        <link href="https://www.reddit.com/r/webscraping/comments/1w07jov/i_built_a_purerust_headless_browser_no_chromium/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Vandals Winning the War on Flock Cameras? [video]]]></title>
+        <id>https://www.youtube.com/shorts/SVUfvXqakEI</id>
+        <link href="https://www.youtube.com/shorts/SVUfvXqakEI"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
