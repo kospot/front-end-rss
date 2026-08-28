@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-27T22:01:26.992Z</updated>
+    <updated>2026-08-28T00:02:05.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Speedo’s new smart goggles module can track all four swim strokes]]></title>
-        <id>https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module</id>
-        <link href="https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module"/>
+        <title type="html"><![CDATA[The biggest video game of all time looks like a movie]]></title>
+        <id>https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie</id>
+        <link href="https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign]]></title>
+        <id>https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign</id>
+        <link href="https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
@@ -29,16 +36,9 @@
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend]]></title>
-        <id>https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/</id>
-        <link href="https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is How Anthropic Thinks AI Agents Should Navigate the Physical World]]></title>
-        <id>https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/</id>
-        <link href="https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/"/>
+        <title type="html"><![CDATA[Speedo’s new smart goggles module can track all four swim strokes]]></title>
+        <id>https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module</id>
+        <link href="https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
@@ -50,16 +50,16 @@
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buried in Meta’s $18B settlement is a legal pass on kids’ data]]></title>
-        <id>https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/</id>
-        <link href="https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/"/>
+        <title type="html"><![CDATA[This Is How Anthropic Thinks AI Agents Should Navigate the Physical World]]></title>
+        <id>https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/</id>
+        <link href="https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI]]></title>
-        <id>https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/</id>
-        <link href="https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"/>
+        <title type="html"><![CDATA[A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend]]></title>
+        <id>https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/</id>
+        <link href="https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
@@ -71,16 +71,72 @@
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a pure-Rust headless browser. No Chromium. No V8]]></title>
-        <id>https://www.reddit.com/r/webscraping/comments/1w07jov/i_built_a_purerust_headless_browser_no_chromium/</id>
-        <link href="https://www.reddit.com/r/webscraping/comments/1w07jov/i_built_a_purerust_headless_browser_no_chromium/"/>
+        <title type="html"><![CDATA[OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI]]></title>
+        <id>https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/</id>
+        <link href="https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel previews future instruction-set documentaton]]></title>
-        <id>https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html</id>
-        <link href="https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html"/>
+        <title type="html"><![CDATA[Buried in Meta’s $18B settlement is a legal pass on kids’ data]]></title>
+        <id>https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/</id>
+        <link href="https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NexaQL A binary protocol that bridges legacy SOAP/XML with modern Edge Computing]]></title>
+        <id>https://github.com/YsaiasPeru/nexuql</id>
+        <link href="https://github.com/YsaiasPeru/nexuql"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil is having it's own "Lou Gehrig" moment [video]]]></title>
+        <id>https://www.youtube.com/watch?v=oa0NfzLmTPQ</id>
+        <link href="https://www.youtube.com/watch?v=oa0NfzLmTPQ"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a DDoS/stress-test tool only with Python]]></title>
+        <id>https://github.com/shiba44-shiba/Stress-testing-advanced</id>
+        <link href="https://github.com/shiba44-shiba/Stress-testing-advanced"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Which class of business model is most resilient to build in the AI era?]]></title>
+        <id>https://news.ycombinator.com/item?id=49472620</id>
+        <link href="https://news.ycombinator.com/item?id=49472620"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Is Quietly Cutting Google Out of the Equation]]></title>
+        <id>https://gizmodo.com/anthropic-is-quietly-cutting-google-out-of-the-equation-2000803895</id>
+        <link href="https://gizmodo.com/anthropic-is-quietly-cutting-google-out-of-the-equation-2000803895"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katamari Object Library]]></title>
+        <id>https://katamari.andrew-boylan.com/</id>
+        <link href="https://katamari.andrew-boylan.com/"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Science Weekly – Issue 666]]></title>
+        <id>https://datascienceweekly.substack.com/p/data-science-weekly-issue-666</id>
+        <link href="https://datascienceweekly.substack.com/p/data-science-weekly-issue-666"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Per Diem, a daily dice game like Balatro]]></title>
+        <id>https://perdiem.loch.tools</id>
+        <link href="https://perdiem.loch.tools"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
@@ -92,9 +148,16 @@
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Per Diem, a daily dice game like Balatro]]></title>
-        <id>https://perdiem.loch.tools</id>
-        <link href="https://perdiem.loch.tools"/>
+        <title type="html"><![CDATA[Intel previews future instruction-set documentaton]]></title>
+        <id>https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html</id>
+        <link href="https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a pure-Rust headless browser. No Chromium. No V8]]></title>
+        <id>https://www.reddit.com/r/webscraping/comments/1w07jov/i_built_a_purerust_headless_browser_no_chromium/</id>
+        <link href="https://www.reddit.com/r/webscraping/comments/1w07jov/i_built_a_purerust_headless_browser_no_chromium/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
@@ -113,51 +176,51 @@
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Free Event Waiver Generator (Because HelloSign Charges $180/Year for This)]]></title>
-        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-event-waiver-generator-because-hellosign-charges-180year-for-this-4018</id>
-        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-event-waiver-generator-because-hellosign-charges-180year-for-this-4018"/>
+        <title type="html"><![CDATA[How to Validate and Format JSON Before Using It in Your API]]></title>
+        <id>https://dev.to/harish_kumar_fd554dd0aeb0/how-to-validate-and-format-json-before-using-it-in-your-api-13g6</id>
+        <link href="https://dev.to/harish_kumar_fd554dd0aeb0/how-to-validate-and-format-json-before-using-it-in-your-api-13g6"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[useFieldArray is not updating across steps — and why it can't]]></title>
-        <id>https://dev.to/kensaadi/usefieldarray-is-not-updating-across-steps-and-why-it-cant-1gcm</id>
-        <link href="https://dev.to/kensaadi/usefieldarray-is-not-updating-across-steps-and-why-it-cant-1gcm"/>
+        <title type="html"><![CDATA[Why SVG Optimization Breaks in Production: 5 ViewBox, ID Collision, and Precision Traps]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-svg-optimization-breaks-in-production-5-viewbox-id-collision-and-precision-traps-53fn</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-svg-optimization-breaks-in-production-5-viewbox-id-collision-and-precision-traps-53fn"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Your JSONPath Queries Break in Production: 5 RFC 9535 Edge Cases Explained]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-your-jsonpath-queries-break-in-production-5-rfc-9535-edge-cases-explained-520</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-your-jsonpath-queries-break-in-production-5-rfc-9535-edge-cases-explained-520"/>
+        <title type="html"><![CDATA[Balancing Deterministic Attribution and Environment-Specific Lifecycle Management in JavaScript Applications]]></title>
+        <id>https://dev.to/pavkode/balancing-deterministic-attribution-and-environment-specific-lifecycle-management-in-javascript-16cj</id>
+        <link href="https://dev.to/pavkode/balancing-deterministic-attribution-and-environment-specific-lifecycle-management-in-javascript-16cj"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Buy Verified Paypal Accounts Accounts In Bulk (protoservice)]]></title>
-        <id>https://dev.to/uniqueservies545/how-to-buy-verified-paypal-accounts-accounts-in-bulk-protoservice-38i3</id>
-        <link href="https://dev.to/uniqueservies545/how-to-buy-verified-paypal-accounts-accounts-in-bulk-protoservice-38i3"/>
+        <title type="html"><![CDATA[This week: payments in the framework, nine brands migrated in an hour, and the start of a video pipeline]]></title>
+        <id>https://dev.to/ianwieds/this-week-payments-in-the-framework-nine-brands-migrated-in-an-hour-and-the-start-of-a-video-3a6p</id>
+        <link href="https://dev.to/ianwieds/this-week-payments-in-the-framework-nine-brands-migrated-in-an-hour-and-the-start-of-a-video-3a6p"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scaling Generative AI Media: Advanced Asset Management & CDN Optimization for High-Volume Workflows]]></title>
-        <id>https://dev.to/programmingcentral/scaling-generative-ai-media-advanced-asset-management-cdn-optimization-for-high-volume-workflows-2nc8</id>
-        <link href="https://dev.to/programmingcentral/scaling-generative-ai-media-advanced-asset-management-cdn-optimization-for-high-volume-workflows-2nc8"/>
+        <title type="html"><![CDATA[Why JSON to YAML Conversion Fails in Production: The Norway Problem & 5 Subtle Traps]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-json-to-yaml-conversion-fails-in-production-the-norway-problem-5-subtle-traps-2gpo</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-json-to-yaml-conversion-fails-in-production-the-norway-problem-5-subtle-traps-2gpo"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built an AI Game Arcade with Vanilla JavaScript and Zero Build Steps]]></title>
-        <id>https://dev.to/carlos/i-built-an-ai-game-arcade-with-vanilla-javascript-and-zero-build-steps-208k</id>
-        <link href="https://dev.to/carlos/i-built-an-ai-game-arcade-with-vanilla-javascript-and-zero-build-steps-208k"/>
+        <title type="html"><![CDATA[Why Auto-Generated JSON Schemas Fail in Production: 5 Draft-07 vs 2020-12 Traps]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-auto-generated-json-schemas-fail-in-production-5-draft-07-vs-2020-12-traps-j4d</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-auto-generated-json-schemas-fail-in-production-5-draft-07-vs-2020-12-traps-j4d"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cómo solucionar el error \"Enable JavaScript and cookies to continue\"]]></title>
-        <id>https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-4gln</id>
-        <link href="https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-4gln"/>
+        <title type="html"><![CDATA[I shipped 200 tools as single HTML files. Here's what that constraint actually buys you.]]></title>
+        <id>https://dev.to/salmanahsan/i-shipped-200-tools-as-single-html-files-heres-what-that-constraint-actually-buys-you-45pi</id>
+        <link href="https://dev.to/salmanahsan/i-shipped-200-tools-as-single-html-files-heres-what-that-constraint-actually-buys-you-45pi"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
@@ -169,16 +232,58 @@
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samsung’s Galaxy S26 FE pairs last year’s hardware with last month’s software]]></title>
-        <id>https://www.theverge.com/report/985187/samsung-galaxy-s26-fe-hands-on-preview-specs-features-design</id>
-        <link href="https://www.theverge.com/report/985187/samsung-galaxy-s26-fe-hands-on-preview-specs-features-design"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Cómo solucionar el error \"Enable JavaScript and cookies to continue\"]]></title>
+        <id>https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-4gln</id>
+        <link href="https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-4gln"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xiaomi’s new Redmi phone lasts for three days on a single charge]]></title>
-        <id>https://www.theverge.com/gadgets/984927/xiaomi-redmi-note-17-pro-max-9210mah-battery</id>
-        <link href="https://www.theverge.com/gadgets/984927/xiaomi-redmi-note-17-pro-max-9210mah-battery"/>
+        <title type="html"><![CDATA[I Built an AI Game Arcade with Vanilla JavaScript and Zero Build Steps]]></title>
+        <id>https://dev.to/carlos/i-built-an-ai-game-arcade-with-vanilla-javascript-and-zero-build-steps-208k</id>
+        <link href="https://dev.to/carlos/i-built-an-ai-game-arcade-with-vanilla-javascript-and-zero-build-steps-208k"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Generative AI Media: Advanced Asset Management & CDN Optimization for High-Volume Workflows]]></title>
+        <id>https://dev.to/programmingcentral/scaling-generative-ai-media-advanced-asset-management-cdn-optimization-for-high-volume-workflows-2nc8</id>
+        <link href="https://dev.to/programmingcentral/scaling-generative-ai-media-advanced-asset-management-cdn-optimization-for-high-volume-workflows-2nc8"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Buy Verified Paypal Accounts Accounts In Bulk (protoservice)]]></title>
+        <id>https://dev.to/uniqueservies545/how-to-buy-verified-paypal-accounts-accounts-in-bulk-protoservice-38i3</id>
+        <link href="https://dev.to/uniqueservies545/how-to-buy-verified-paypal-accounts-accounts-in-bulk-protoservice-38i3"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your JSONPath Queries Break in Production: 5 RFC 9535 Edge Cases Explained]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-your-jsonpath-queries-break-in-production-5-rfc-9535-edge-cases-explained-520</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-your-jsonpath-queries-break-in-production-5-rfc-9535-edge-cases-explained-520"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[useFieldArray is not updating across steps — and why it can't]]></title>
+        <id>https://dev.to/kensaadi/usefieldarray-is-not-updating-across-steps-and-why-it-cant-1gcm</id>
+        <link href="https://dev.to/kensaadi/usefieldarray-is-not-updating-across-steps-and-why-it-cant-1gcm"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Free Event Waiver Generator (Because HelloSign Charges $180/Year for This)]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-event-waiver-generator-because-hellosign-charges-180year-for-this-4018</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-event-waiver-generator-because-hellosign-charges-180year-for-this-4018"/>
+        <updated>2026-08-27T16:00:00.000Z</updated>
+        <published>2026-08-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If Meta&#8217;s going down, it’s taking TikTok and YouTube with it]]></title>
+        <id>https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap</id>
+        <link href="https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
@@ -190,58 +295,16 @@
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If Meta&#8217;s going down, it’s taking TikTok and YouTube with it]]></title>
-        <id>https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap</id>
-        <link href="https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap"/>
+        <title type="html"><![CDATA[Xiaomi’s new Redmi phone lasts for three days on a single charge]]></title>
+        <id>https://www.theverge.com/gadgets/984927/xiaomi-redmi-note-17-pro-max-9210mah-battery</id>
+        <link href="https://www.theverge.com/gadgets/984927/xiaomi-redmi-note-17-pro-max-9210mah-battery"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TopResume Packages: Everything You Need to Get Hired]]></title>
-        <id>https://www.wired.com/story/topresume-discount-code/</id>
-        <link href="https://www.wired.com/story/topresume-discount-code/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure]]></title>
-        <id>https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/</id>
-        <link href="https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery]]></title>
-        <id>https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/</id>
-        <link href="https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable]]></title>
-        <id>https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/</id>
-        <link href="https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Google Pixel Phones of 2026: Comparison, Features, and Accessories]]></title>
-        <id>https://www.wired.com/story/best-google-pixel-phone/</id>
-        <link href="https://www.wired.com/story/best-google-pixel-phone/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead]]></title>
-        <id>https://www.wired.com/story/relay-q-voice-to-text-ai-app/</id>
-        <link href="https://www.wired.com/story/relay-q-voice-to-text-ai-app/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Posture Correctors for Better Body Alignment (2026)]]></title>
-        <id>https://www.wired.com/gallery/posture-correctors/</id>
-        <link href="https://www.wired.com/gallery/posture-correctors/"/>
+        <title type="html"><![CDATA[Samsung’s Galaxy S26 FE pairs last year’s hardware with last month’s software]]></title>
+        <id>https://www.theverge.com/report/985187/samsung-galaxy-s26-fe-hands-on-preview-specs-features-design</id>
+        <link href="https://www.theverge.com/report/985187/samsung-galaxy-s26-fe-hands-on-preview-specs-features-design"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
@@ -253,114 +316,51 @@
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI to start showing ads on ChatGPT’s free and Go tiers in India]]></title>
-        <id>https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/</id>
-        <link href="https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/"/>
+        <title type="html"><![CDATA[Best Posture Correctors for Better Body Alignment (2026)]]></title>
+        <id>https://www.wired.com/gallery/posture-correctors/</id>
+        <link href="https://www.wired.com/gallery/posture-correctors/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic continues compute-gobbling streak in $45 billion deal with Nscale]]></title>
-        <id>https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/</id>
-        <link href="https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"/>
+        <title type="html"><![CDATA[Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead]]></title>
+        <id>https://www.wired.com/story/relay-q-voice-to-text-ai-app/</id>
+        <link href="https://www.wired.com/story/relay-q-voice-to-text-ai-app/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google’s Gemini has a branding problem, and so does the rest of AI]]></title>
-        <id>https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/</id>
-        <link href="https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"/>
+        <title type="html"><![CDATA[The Best Google Pixel Phones of 2026: Comparison, Features, and Accessories]]></title>
+        <id>https://www.wired.com/story/best-google-pixel-phone/</id>
+        <link href="https://www.wired.com/story/best-google-pixel-phone/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations]]></title>
-        <id>https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/</id>
-        <link href="https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/"/>
+        <title type="html"><![CDATA[The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable]]></title>
+        <id>https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/</id>
+        <link href="https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate]]></title>
-        <id>https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/</id>
-        <link href="https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/"/>
+        <title type="html"><![CDATA[The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery]]></title>
+        <id>https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/</id>
+        <link href="https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states]]></title>
-        <id>https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/</id>
-        <link href="https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/"/>
+        <title type="html"><![CDATA[FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure]]></title>
+        <id>https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/</id>
+        <link href="https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well]]></title>
-        <id>https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/</id>
-        <link href="https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s all the times AI has gone rogue and hacked other companies]]></title>
-        <id>https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/</id>
-        <link href="https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others]]></title>
-        <id>https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/</id>
-        <link href="https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale]]></title>
-        <id>https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/</id>
-        <link href="https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This former PG&E engineer is building a ‘Google Maps for the underground’]]></title>
-        <id>https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/</id>
-        <link href="https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StackingWizard – stack your astrophotos easy and free]]></title>
-        <id>https://astrowizard.lukomatico.com/stackingwizard.html</id>
-        <link href="https://astrowizard.lukomatico.com/stackingwizard.html"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After Meta's landmark settlement with state AGs, legal headaches remain]]></title>
-        <id>https://www.cnbc.com/2026/08/27/after-meta-landmark-settlement-with-state-ags-legal-headaches-remain.html</id>
-        <link href="https://www.cnbc.com/2026/08/27/after-meta-landmark-settlement-with-state-ags-legal-headaches-remain.html"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta's social media settlement leaves its money machine unscathed]]></title>
-        <id>https://www.reuters.com/world/asia-pacific/metas-social-media-settlement-leaves-its-money-machine-unscathed-2026-08-27/</id>
-        <link href="https://www.reuters.com/world/asia-pacific/metas-social-media-settlement-leaves-its-money-machine-unscathed-2026-08-27/"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why mental health startups die: 542 post-mortems]]></title>
-        <id>https://zenodo.org/records/22125809</id>
-        <link href="https://zenodo.org/records/22125809"/>
-        <updated>2026-08-26T16:00:00.000Z</updated>
-        <published>2026-08-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Reading Egyptian Hieroglyphics Is Easier Than You Think]]></title>
-        <id>https://www.openculture.com/2026/08/why-reading-egyptian-hieroglyphics-is-easier-than-you-think.html</id>
-        <link href="https://www.openculture.com/2026/08/why-reading-egyptian-hieroglyphics-is-easier-than-you-think.html"/>
+        <title type="html"><![CDATA[TopResume Packages: Everything You Need to Get Hired]]></title>
+        <id>https://www.wired.com/story/topresume-discount-code/</id>
+        <link href="https://www.wired.com/story/topresume-discount-code/"/>
         <updated>2026-08-26T16:00:00.000Z</updated>
         <published>2026-08-26T16:00:00.000Z</published>
     </entry>
