@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-28 18:02:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-28 21:03:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -8,6 +8,7 @@
 
 
 - [2026-08-22-Guaranteeing-You-Never-Show-an-Expired-Offer,-by-Design](https://dev.to/takahiro_hashito_a1f3f0dc/guaranteeing-you-never-show-an-expired-offer-by-design-c09) 
+- [2026-08-28-330-applications.-No-offer.-Don’t-send-application-331-yet.](https://medium.com/@mike.salari.dev/330-applications-no-offer-dont-send-application-331-yet-24494eabc9e0) 
 - [2026-08-20-YouTube-Offers-Creators-Millions-to-Not-Work-with-Netflix](https://www.bloomberg.com/news/articles/2026-08-19/youtube-offers-creators-millions-to-not-work-with-netflix-mt0lbfaj) 
 - [2026-08-17-New-weekly-injection-offers-diabetics-alternative-to-daily-insulin-shots](https://www.washingtonpost.com/health/2026/08/16/new-weekly-injection-offers-diabetics-alternative-daily-insulin-shots/) 
 - [2026-08-14-Fake-Forbes-websites-and-the-PR-agency-offering-guaranteed-coverage-–-at-a-price](https://pressgazette.co.uk/news/fake-forbes-websites-and-the-pr-agency-offering-guaranteed-coverage-at-a-price/) 
@@ -15,8 +16,8 @@
 - [2026-08-01-Drones-offer-alternative-to-balloons-for-weather-research](https://www.theguardian.com/news/2026/jul/31/weatherwatch-drone-base-station-offers-alternative-weather-balloons) 
 - [2026-08-23-Harvard’s-$699-startup-bootcamp-offers-AI-avatars-of-its-instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) 
 - [2026-08-18-Perplexity’s-free-AI-offer-left-it-with-millions-more-users-in-India](https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/) 
-- [2026-08-12-Google’s-new-Pixel-11-Pro-Fold-offers-a-stronger-build-and-brighter-screens](https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/) 
 - [2026-08-12-Google’s-Pixel-11-lineup-offer-fewer-hardware-changes,-but-much-more-Gemini](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) 
+- [2026-08-12-Google’s-new-Pixel-11-Pro-Fold-offers-a-stronger-build-and-brighter-screens](https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/) 
 - [2026-08-11-OpenAI-reportedly-completed-a-$7-billion-employee-tender-offer](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/) 
 - [2026-08-05-MacPaw-taps-Liquid-AI-to-offer-on-device-inference-to-devs-building-for-its-app-store](https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/) 
 - [2026-08-05-Petlibro-Offers:-60%-Off-in-August-2026](https://www.wired.com/story/petlibro-discount-code/) 
