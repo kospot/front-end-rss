@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-29T02:03:03.692Z</updated>
+    <updated>2026-08-29T04:01:32.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,58 +43,30 @@
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NodeAkt – Zero-dependency distributed actor framework for TypeScript]]></title>
-        <id>https://tochemey.github.io/nodeakt/</id>
-        <link href="https://tochemey.github.io/nodeakt/"/>
+        <title type="html"><![CDATA[Encoding Mod Files Optically on Paper, as Amiga's Legacy Will Outlast M-Disks]]></title>
+        <id>https://hackaday.com/2026/08/26/encoding-mod-files-optically-on-paper-because-amigas-legacy-will-outlast-m-disks/</id>
+        <link href="https://hackaday.com/2026/08/26/encoding-mod-files-optically-on-paper-because-amigas-legacy-will-outlast-m-disks/"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Does Computer Science Need Computers?]]></title>
-        <id>https://www.quantamagazine.org/does-computer-science-need-computers-20260828/</id>
-        <link href="https://www.quantamagazine.org/does-computer-science-need-computers-20260828/"/>
+        <title type="html"><![CDATA[Interactive Model View zai-org/GLM-5.3]]></title>
+        <id>https://hfviewer.com/zai-org/GLM-5.3</id>
+        <link href="https://hfviewer.com/zai-org/GLM-5.3"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Young adults under 21 traded $5B on Kalshi this year]]></title>
-        <id>https://www.cnn.com/2026/08/28/business/young-adults-trading-kalshi</id>
-        <link href="https://www.cnn.com/2026/08/28/business/young-adults-trading-kalshi"/>
+        <title type="html"><![CDATA[Andrew Garfield on Playing Sam Altman in "Artifical"]]></title>
+        <id>https://variety.com/2026/film/news/andrew-garfield-talks-playing-sam-altman-artificial-open-ai-1236842579/</id>
+        <link href="https://variety.com/2026/film/news/andrew-garfield-talks-playing-sam-altman-artificial-open-ai-1236842579/"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zero-Cost 'Tagless Final' in Rust with GADT-Style Enums]]></title>
-        <id>https://inferara.com/blog/rust-tagless-final-gadt/</id>
-        <link href="https://inferara.com/blog/rust-tagless-final-gadt/"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL system catalog changes across versions]]></title>
-        <id>https://richyen.com/pg-catalog-almanac/</id>
-        <link href="https://richyen.com/pg-catalog-almanac/"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LuaDB – A pure Lua RDBMS engine with B+Trees, WAL, and Postgres wire proto]]></title>
-        <id>https://github.com/jncastilho/luadb</id>
-        <link href="https://github.com/jncastilho/luadb"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Tested a Smartphone Smuggled from North Korea - WSJ [video]]]></title>
-        <id>https://www.youtube.com/watch?v=nBRZKG1kjBM</id>
-        <link href="https://www.youtube.com/watch?v=nBRZKG1kjBM"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Critically Read LLM Texts [video]]]></title>
-        <id>https://www.youtube.com/watch?v=BBmNOxQWcAc</id>
-        <link href="https://www.youtube.com/watch?v=BBmNOxQWcAc"/>
+        <title type="html"><![CDATA[The first mail client with built-in compression and encryption]]></title>
+        <id>https://medium.com/@chris.ahrweiler/the-first-mail-client-with-built-in-compression-and-encryption-6a8dcbc7c375</id>
+        <link href="https://medium.com/@chris.ahrweiler/the-first-mail-client-with-built-in-compression-and-encryption-6a8dcbc7c375"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
@@ -106,9 +78,58 @@
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The first mail client with built-in compression and encryption]]></title>
-        <id>https://medium.com/@chris.ahrweiler/the-first-mail-client-with-built-in-compression-and-encryption-6a8dcbc7c375</id>
-        <link href="https://medium.com/@chris.ahrweiler/the-first-mail-client-with-built-in-compression-and-encryption-6a8dcbc7c375"/>
+        <title type="html"><![CDATA[How to Critically Read LLM Texts [video]]]></title>
+        <id>https://www.youtube.com/watch?v=BBmNOxQWcAc</id>
+        <link href="https://www.youtube.com/watch?v=BBmNOxQWcAc"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Tested a Smartphone Smuggled from North Korea - WSJ [video]]]></title>
+        <id>https://www.youtube.com/watch?v=nBRZKG1kjBM</id>
+        <link href="https://www.youtube.com/watch?v=nBRZKG1kjBM"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LuaDB – A pure Lua RDBMS engine with B+Trees, WAL, and Postgres wire proto]]></title>
+        <id>https://github.com/jncastilho/luadb</id>
+        <link href="https://github.com/jncastilho/luadb"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL system catalog changes across versions]]></title>
+        <id>https://richyen.com/pg-catalog-almanac/</id>
+        <link href="https://richyen.com/pg-catalog-almanac/"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-Cost 'Tagless Final' in Rust with GADT-Style Enums]]></title>
+        <id>https://inferara.com/blog/rust-tagless-final-gadt/</id>
+        <link href="https://inferara.com/blog/rust-tagless-final-gadt/"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young adults under 21 traded $5B on Kalshi this year]]></title>
+        <id>https://www.cnn.com/2026/08/28/business/young-adults-trading-kalshi</id>
+        <link href="https://www.cnn.com/2026/08/28/business/young-adults-trading-kalshi"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Computer Science Need Computers?]]></title>
+        <id>https://www.quantamagazine.org/does-computer-science-need-computers-20260828/</id>
+        <link href="https://www.quantamagazine.org/does-computer-science-need-computers-20260828/"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NodeAkt – Zero-dependency distributed actor framework for TypeScript]]></title>
+        <id>https://tochemey.github.io/nodeakt/</id>
+        <link href="https://tochemey.github.io/nodeakt/"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
@@ -192,93 +213,30 @@ https://github.com/williamtroup/Rattribute.js
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Panera Bread Menu with Prices 2026 | Nutrition & Calories]]></title>
-        <id>https://dev.to/kamran_alihingoro_ebc8ad/panera-bread-menu-with-prices-2026-nutrition-calories-2b4e</id>
-        <link href="https://dev.to/kamran_alihingoro_ebc8ad/panera-bread-menu-with-prices-2026-nutrition-calories-2b4e"/>
+        <title type="html"><![CDATA[How I Built a Real-Time Sports Stats Tracker: Celtic & Rangers to play home cup ties behind closed doors after fan disor]]></title>
+        <id>https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-sports-stats-tracker-celtic-rangers-to-play-home-cup-ties-behind-closed-7h4</id>
+        <link href="https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-sports-stats-tracker-celtic-rangers-to-play-home-cup-ties-behind-closed-7h4"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a 1-line script to make ANY web page a standalone PWA using dynamic Data URL Manifests (1P1A)]]></title>
-        <id>https://dev.to/ojach/i-built-a-1-line-script-to-make-any-web-page-a-standalone-pwa-using-dynamic-data-url-manifests-l7j</id>
-        <link href="https://dev.to/ojach/i-built-a-1-line-script-to-make-any-web-page-a-standalone-pwa-using-dynamic-data-url-manifests-l7j"/>
+        <title type="html"><![CDATA[I Scraped 100 Sports Matches — Here Is What I Found: Seam quartet puts England on verge of series win]]></title>
+        <id>https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-sports-matches-here-is-what-i-found-seam-quartet-puts-england-on-verge-of-series-f60</id>
+        <link href="https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-sports-matches-here-is-what-i-found-seam-quartet-puts-england-on-verge-of-series-f60"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frontend Toggles in React: JavaScript Polling API Example]]></title>
-        <id>https://dev.to/vaughnknight3189/frontend-toggles-in-react-javascript-polling-api-example-55i0</id>
-        <link href="https://dev.to/vaughnknight3189/frontend-toggles-in-react-javascript-polling-api-example-55i0"/>
+        <title type="html"><![CDATA[BracketView 0.1.3: node view, table view, and a local Windows JSON workspace ✨]]></title>
+        <id>https://dev.to/jameelshaikh/bracketview-013-node-view-table-view-and-a-local-windows-json-workspace-l74</id>
+        <link href="https://dev.to/jameelshaikh/bracketview-013-node-view-table-view-and-a-local-windows-json-workspace-l74"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Hardest Part of Building a Chrome Extension Is Not the Code]]></title>
-        <id>https://dev.to/msgai/the-hardest-part-of-building-a-chrome-extension-is-not-the-code-1am5</id>
-        <link href="https://dev.to/msgai/the-hardest-part-of-building-a-chrome-extension-is-not-the-code-1am5"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Feature Flags Polling API: JavaScript Fallback Configuration]]></title>
-        <id>https://dev.to/erasmuspierce7981/react-feature-flags-polling-api-javascript-fallback-configuration-431k</id>
-        <link href="https://dev.to/erasmuspierce7981/react-feature-flags-polling-api-javascript-fallback-configuration-431k"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[**Stop Losing $100,000 Per Year: How AI Automation Can Transform Your School's Productivity**]]></title>
-        <id>https://dev.to/dgmh10uk/stop-losing-100000-per-year-how-ai-automation-can-transform-your-schools-productivity-2pnl</id>
-        <link href="https://dev.to/dgmh10uk/stop-losing-100000-per-year-how-ai-automation-can-transform-your-schools-productivity-2pnl"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Automated HTML Formatting Breaks in Production: 5 Edge Cases That Corrupt Layouts]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-automated-html-formatting-breaks-in-production-5-edge-cases-that-corrupt-layouts-1e72</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-automated-html-formatting-breaks-in-production-5-edge-cases-that-corrupt-layouts-1e72"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
-        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-4kb5</id>
-        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-4kb5"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Bulletproof Credit & Compute Billing Systems for GPU-Heavy Workflows]]></title>
-        <id>https://dev.to/programmingcentral/building-bulletproof-credit-compute-billing-systems-for-gpu-heavy-workflows-575d</id>
-        <link href="https://dev.to/programmingcentral/building-bulletproof-credit-compute-billing-systems-for-gpu-heavy-workflows-575d"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[json-pdf-designer: an open-source PDF report designer you actually own the code of]]></title>
-        <id>https://dev.to/williamanjo/json-pdf-designer-an-open-source-pdf-report-designer-you-actually-own-the-code-of-d8</id>
-        <link href="https://dev.to/williamanjo/json-pdf-designer-an-open-source-pdf-report-designer-you-actually-own-the-code-of-d8"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loops in JavaScript]]></title>
-        <id>https://dev.to/abimanyu_p_9e75124634d2a4/loops-in-javascript-5g8i</id>
-        <link href="https://dev.to/abimanyu_p_9e75124634d2a4/loops-in-javascript-5g8i"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Chrome DevTools Extension]]></title>
-        <id>https://dev.to/qingluan/how-to-build-a-chrome-devtools-extension-4gf</id>
-        <link href="https://dev.to/qingluan/how-to-build-a-chrome-devtools-extension-4gf"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Simple Step by Step Guide to Buy Old Gmail accounts in ...]]></title>
-        <id>https://dev.to/dwellyqskf/a-simple-step-by-step-guide-to-buy-old-gmail-accounts-in--26o7</id>
-        <link href="https://dev.to/dwellyqskf/a-simple-step-by-step-guide-to-buy-old-gmail-accounts-in--26o7"/>
+        <title type="html"><![CDATA[How to Edit PowerPoint Presentations in Node.js Apps Using REST API]]></title>
+        <id>https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-edit-powerpoint-presentations-in-nodejs-apps-using-rest-api-lfe</id>
+        <link href="https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-edit-powerpoint-presentations-in-nodejs-apps-using-rest-api-lfe"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
@@ -290,9 +248,93 @@ https://github.com/williamtroup/Rattribute.js
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Edit PowerPoint Presentations in Node.js Apps Using REST API]]></title>
-        <id>https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-edit-powerpoint-presentations-in-nodejs-apps-using-rest-api-lfe</id>
-        <link href="https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-edit-powerpoint-presentations-in-nodejs-apps-using-rest-api-lfe"/>
+        <title type="html"><![CDATA[A Simple Step by Step Guide to Buy Old Gmail accounts in ...]]></title>
+        <id>https://dev.to/dwellyqskf/a-simple-step-by-step-guide-to-buy-old-gmail-accounts-in--26o7</id>
+        <link href="https://dev.to/dwellyqskf/a-simple-step-by-step-guide-to-buy-old-gmail-accounts-in--26o7"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Chrome DevTools Extension]]></title>
+        <id>https://dev.to/qingluan/how-to-build-a-chrome-devtools-extension-4gf</id>
+        <link href="https://dev.to/qingluan/how-to-build-a-chrome-devtools-extension-4gf"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loops in JavaScript]]></title>
+        <id>https://dev.to/abimanyu_p_9e75124634d2a4/loops-in-javascript-5g8i</id>
+        <link href="https://dev.to/abimanyu_p_9e75124634d2a4/loops-in-javascript-5g8i"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[json-pdf-designer: an open-source PDF report designer you actually own the code of]]></title>
+        <id>https://dev.to/williamanjo/json-pdf-designer-an-open-source-pdf-report-designer-you-actually-own-the-code-of-d8</id>
+        <link href="https://dev.to/williamanjo/json-pdf-designer-an-open-source-pdf-report-designer-you-actually-own-the-code-of-d8"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Bulletproof Credit & Compute Billing Systems for GPU-Heavy Workflows]]></title>
+        <id>https://dev.to/programmingcentral/building-bulletproof-credit-compute-billing-systems-for-gpu-heavy-workflows-575d</id>
+        <link href="https://dev.to/programmingcentral/building-bulletproof-credit-compute-billing-systems-for-gpu-heavy-workflows-575d"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
+        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-4kb5</id>
+        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-4kb5"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Automated HTML Formatting Breaks in Production: 5 Edge Cases That Corrupt Layouts]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-automated-html-formatting-breaks-in-production-5-edge-cases-that-corrupt-layouts-1e72</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-automated-html-formatting-breaks-in-production-5-edge-cases-that-corrupt-layouts-1e72"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[**Stop Losing $100,000 Per Year: How AI Automation Can Transform Your School's Productivity**]]></title>
+        <id>https://dev.to/dgmh10uk/stop-losing-100000-per-year-how-ai-automation-can-transform-your-schools-productivity-2pnl</id>
+        <link href="https://dev.to/dgmh10uk/stop-losing-100000-per-year-how-ai-automation-can-transform-your-schools-productivity-2pnl"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Feature Flags Polling API: JavaScript Fallback Configuration]]></title>
+        <id>https://dev.to/erasmuspierce7981/react-feature-flags-polling-api-javascript-fallback-configuration-431k</id>
+        <link href="https://dev.to/erasmuspierce7981/react-feature-flags-polling-api-javascript-fallback-configuration-431k"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hardest Part of Building a Chrome Extension Is Not the Code]]></title>
+        <id>https://dev.to/msgai/the-hardest-part-of-building-a-chrome-extension-is-not-the-code-1am5</id>
+        <link href="https://dev.to/msgai/the-hardest-part-of-building-a-chrome-extension-is-not-the-code-1am5"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontend Toggles in React: JavaScript Polling API Example]]></title>
+        <id>https://dev.to/vaughnknight3189/frontend-toggles-in-react-javascript-polling-api-example-55i0</id>
+        <link href="https://dev.to/vaughnknight3189/frontend-toggles-in-react-javascript-polling-api-example-55i0"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a 1-line script to make ANY web page a standalone PWA using dynamic Data URL Manifests (1P1A)]]></title>
+        <id>https://dev.to/ojach/i-built-a-1-line-script-to-make-any-web-page-a-standalone-pwa-using-dynamic-data-url-manifests-l7j</id>
+        <link href="https://dev.to/ojach/i-built-a-1-line-script-to-make-any-web-page-a-standalone-pwa-using-dynamic-data-url-manifests-l7j"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panera Bread Menu with Prices 2026 | Nutrition & Calories]]></title>
+        <id>https://dev.to/kamran_alihingoro_ebc8ad/panera-bread-menu-with-prices-2026-nutrition-calories-2b4e</id>
+        <link href="https://dev.to/kamran_alihingoro_ebc8ad/panera-bread-menu-with-prices-2026-nutrition-calories-2b4e"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
@@ -349,48 +391,6 @@ https://github.com/williamtroup/Rattribute.js
         <title type="html"><![CDATA[A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend]]></title>
         <id>https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/</id>
         <link href="https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is How Anthropic Thinks AI Agents Should Navigate the Physical World]]></title>
-        <id>https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/</id>
-        <link href="https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix Failed at Video Games. Now It’s Trying to Promote Them]]></title>
-        <id>https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/</id>
-        <link href="https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Asked 100 Companies for My Data. I Got Deletion Notices Instead]]></title>
-        <id>https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/</id>
-        <link href="https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XGIMI Vibe One Battery-Powered Projector Review (2026)]]></title>
-        <id>https://www.wired.com/review/xgimi-vibe-one-battery-powered-projector/</id>
-        <link href="https://www.wired.com/review/xgimi-vibe-one-battery-powered-projector/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Easiest Ways to Share Anything Between Android and iOS]]></title>
-        <id>https://www.wired.com/story/how-to-share-anything-between-android-and-ios/</id>
-        <link href="https://www.wired.com/story/how-to-share-anything-between-android-and-ios/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Meta’s Push to Put Robots to Work in Data Centers]]></title>
-        <id>https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/</id>
-        <link href="https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
