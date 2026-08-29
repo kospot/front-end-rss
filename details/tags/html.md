@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-29 08:01:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-29 10:03:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,27 +7,28 @@
 
 
 
-- [2026-08-28-I-shipped-200-tools-as-single-HTML-files.-Here's-what-that-constraint-actually-buys-you.](https://dev.to/salmanahsan/i-shipped-200-tools-as-single-html-files-heres-what-that-constraint-actually-buys-you-45pi) 
+- [2026-08-29-Why-Automated-HTML-Formatting-Breaks-in-Production:-5-Edge-Cases-That-Corrupt-Layouts](https://dev.to/rasika_dangamuwa_ed1074fe/why-automated-html-formatting-breaks-in-production-5-edge-cases-that-corrupt-layouts-1e72) 
 - [2026-08-28-Your-JPEG-May-Contain-GPS-Data:-How-EXIF-Metadata-Works-and-How-to-Strip-It-Before-Sharing](https://dev.to/muhayminbinmehmood/your-jpeg-may-contain-gps-data-how-exif-metadata-works-and-how-to-strip-it-before-sharing-4h2b) 
-- [2026-08-27-Why-Your-AI-Prompts-Feel-Generic-And-the-Meta-Prompt-Architecture-That-Fixes-It](https://dev.to/hizba_31d77c41803163b8ff0/why-your-ai-prompts-feel-generic-and-the-meta-prompt-architecture-that-fixes-it-127b) 
+- [2026-08-28-I-shipped-200-tools-as-single-HTML-files.-Here's-what-that-constraint-actually-buys-you.](https://dev.to/salmanahsan/i-shipped-200-tools-as-single-html-files-heres-what-that-constraint-actually-buys-you-45pi) 
 - [2026-08-27-Building-Local-First-Web-Apps:-Parsing-HTML-and-PDFs-to-Markdown-in-the-Browser](https://dev.to/__7b51d76b10fdb4b/building-local-first-web-apps-parsing-html-and-pdfs-to-markdown-in-the-browser-3p35) 
+- [2026-08-27-Why-Your-AI-Prompts-Feel-Generic-And-the-Meta-Prompt-Architecture-That-Fixes-It](https://dev.to/hizba_31d77c41803163b8ff0/why-your-ai-prompts-feel-generic-and-the-meta-prompt-architecture-that-fixes-it-127b) 
 - [2026-08-22-Meta's-Conversions-API-Wants-Seconds.-Date.now-Sends-Milliseconds.](https://dev.to/aleksuix/metas-conversions-api-wants-seconds-datenow-sends-milliseconds-4p80) 
 - [2026-08-21-Make-Basic-HTML-Analysis-More-Difficult](https://dev.to/uni928/make-basic-html-analysis-more-difficult-372e) 
 - [2026-08-20-Meta-AI-Có-App-Mac:-Chia-Sẻ-Màn-Hình-Và-Đọc-Chính-Tả](https://dev.to/bean_bean/meta-ai-co-app-mac-chia-se-man-hinh-va-doc-chinh-ta-3f8m) 
-- [2026-08-19-The-HTML-canvas-quietly-deletes-your-photo's-metadata-—-and-one-day-that-bites-you](https://dev.to/bellsal_b44bf6d/the-html-canvas-quietly-deletes-your-photos-metadata-and-one-day-that-bites-you-2h68) 
 - [2026-08-19-How-to-Build-a-CAD-Style-Layout-Editor-on-Top-of-Extracted-HTML](https://dev.to/bonzai2carn/how-to-build-a-cad-style-layout-editor-on-top-of-extracted-html-4ihd) 
+- [2026-08-19-The-HTML-canvas-quietly-deletes-your-photo's-metadata-—-and-one-day-that-bites-you](https://dev.to/bellsal_b44bf6d/the-html-canvas-quietly-deletes-your-photos-metadata-and-one-day-that-bites-you-2h68) 
 - [2026-08-18-Your-API-Error-Is-HTML:-Keep-the-Real-Failure-Behind-an-Agent's-First-Call](https://dev.to/vectronode/your-api-error-is-html-keep-the-real-failure-behind-an-agents-first-call-9g3) 
-- [2026-08-15-Securing-AI-Response-Rendering-in-Flask-—-Replacing-innerHTML-After-a-Codex-Review](https://dev.to/tosane932/securing-ai-response-rendering-in-flask-replacing-innerhtml-after-a-codex-review-44m4) 
 - [2026-08-15-If-you-render-user-HTML,-you-have-an-SSRF-problem.-Here-is-the-code-that-fixes-it.](https://dev.to/stackedboost/if-you-render-user-html-you-have-an-ssrf-problem-here-is-the-code-that-fixes-it-15e8) 
+- [2026-08-15-Securing-AI-Response-Rendering-in-Flask-—-Replacing-innerHTML-After-a-Codex-Review](https://dev.to/tosane932/securing-ai-response-rendering-in-flask-replacing-innerhtml-after-a-codex-review-44m4) 
 - [2026-08-13-I-Built-a-Malaysian-Cultural-RPG-in-a-Single-HTML-File-—-Here's-What-Broke](https://dev.to/ytlow/i-built-a-malaysian-cultural-rpg-in-a-single-html-file-heres-what-broke-43eb) 
-- [2026-08-11-md-to-html-without-uploading-your-files:-a-browser-based-converter-that-doesn't-choke-on-Mermaid-or-KaTeX](https://dev.to/eltacrew/md-to-html-without-uploading-your-files-a-browser-based-converter-that-doesnt-choke-on-mermaid-or-1h3a) 
 - [2026-08-11-Why-HTML-Entity-Email-Obfuscation-Fails-in-2026-And-3-Methods-That-Work](https://dev.to/rasika_dangamuwa_ed1074fe/why-html-entity-email-obfuscation-fails-in-2026-and-3-methods-that-work-4fpa) 
+- [2026-08-11-md-to-html-without-uploading-your-files:-a-browser-based-converter-that-doesn't-choke-on-Mermaid-or-KaTeX](https://dev.to/eltacrew/md-to-html-without-uploading-your-files-a-browser-based-converter-that-doesnt-choke-on-mermaid-or-1h3a) 
 - [2026-08-10-I-Automated-My-Meeting-Decisions-With-a-150-Line-HTML-File](https://dev.to/jack_green_7b74cb2cdf9e23/i-automated-my-meeting-decisions-with-a-150-line-html-file-43b6) 
 - [2026-08-09-Paid-Advertising-Agency-Sydney-|-Google--Meta-Ads-Company](https://dev.to/bluemoonmarketing/paid-advertising-agency-sydney-google-meta-ads-company-43g1) 
-- [2026-08-08-Open-Graph-Meta-Tags:-The-Complete-Reference-Every-Tag,-With-Examples](https://dev.to/grabbit/open-graph-meta-tags-the-complete-reference-every-tag-with-examples-36f6) 
 - [2026-08-08-Zero-bytes-of-geometry:-a-metal-lattice-sphere-traced-in-a-14.9-KB-page](https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib) 
-- [2026-08-03-Why-three-"characters"-in-my-HTML-symbol-table-aren't-actually-there](https://dev.to/joe8_lin_tw/why-three-characters-in-my-html-symbol-table-arent-actually-there-5f4) 
+- [2026-08-08-Open-Graph-Meta-Tags:-The-Complete-Reference-Every-Tag,-With-Examples](https://dev.to/grabbit/open-graph-meta-tags-the-complete-reference-every-tag-with-examples-36f6) 
 - [2026-08-03-I-built-in-app-Polymarket-copy-trading-with-MetaMask-EIP-712-—-no-private-keys,-no-redirects,-one-click](https://dev.to/manpreet_brar_264e408885a/i-built-in-app-polymarket-copy-trading-with-metamask-eip-712-no-private-keys-no-redirects-one-c21) 
+- [2026-08-03-Why-three-"characters"-in-my-HTML-symbol-table-aren't-actually-there](https://dev.to/joe8_lin_tw/why-three-characters-in-my-html-symbol-table-arent-actually-there-5f4) 
 - [2026-07-31-How-to-Turn-Static-HTML,-Markdown,-and-AI-Generated-Code-into-a-Live-URL-in-5-Seconds](https://dev.to/_a30178cedde1d2dbecf5e/how-to-turn-static-html-markdown-and-ai-generated-code-into-a-live-url-in-5-seconds-1bi0) 
 - [2026-08-28-超级Web特性HTML-in-Canvas初体验](https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/) 
 - [2026-08-23--Interactive-metaballs-](
@@ -59,8 +60,8 @@ https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
 - [2026-07-31-Encryption-Compatible-Clustered-Federated-Learning-via-Distributed-Expectation-Maximization-over-Metadata](https://arxiv.org/abs/2607.28338) 
 - [2026-07-31-Graph-Neural-Network-Force-Fields-for-Spin-Dynamics-in-Metallic-Magnets](https://arxiv.org/abs/2607.28537) 
 - [2026-07-31-Metareasoning-constraints-couple-narratives,-affect-and-cognition](https://arxiv.org/abs/2502.09487) 
-- [2026-08-06-An-AI-model-from-Meta-also-hacked-another-company-during-testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything) 
 - [2026-08-06-An-AI-model-from-Meta-also-hacked-another-company-during-testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/) 
+- [2026-08-06-An-AI-model-from-Meta-also-hacked-another-company-during-testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything) 
 - [2026-08-25-Meta-Spent-Three-Years-Preaching-Open-Source.-Muse-Code-Is-the-Proof-It-Never-Meant-It.](https://pub.towardsai.net/meta-spent-three-years-preaching-open-source-muse-code-is-the-proof-it-never-meant-it-f34293441a83?source=rss----98111c9905da---4) 
 - [2026-08-18-I-Tried-Meta-AI,-ChatGPT,-and-Claude-for-My-Writing-Work.-Here’s-What-Each-One-Is-Actually-Good-For](https://pub.towardsai.net/i-tried-meta-ai-chatgpt-and-claude-for-my-writing-work-heres-what-each-one-is-actually-good-for-19405a44a906?source=rss----98111c9905da---4) 
 - [2026-08-17-How-an-LLM-Scheduling-Agent-Ignored-Metadata-and-Ruined-Executive-Reviews](https://pub.towardsai.net/how-an-llm-scheduling-agent-ignored-metadata-and-ruined-executive-reviews-19eb62048781?source=rss----98111c9905da---4) 

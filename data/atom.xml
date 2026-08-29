@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-29T00:01:56.447Z</updated>
+    <updated>2026-08-29T02:03:03.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -127,44 +127,123 @@
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Edit PowerPoint Presentations in Node.js Apps Using REST API]]></title>
-        <id>https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-edit-powerpoint-presentations-in-nodejs-apps-using-rest-api-lfe</id>
-        <link href="https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-edit-powerpoint-presentations-in-nodejs-apps-using-rest-api-lfe"/>
+        <title type="html"><![CDATA[
+toast-queue — Accessible, customizable toast notifications for modern web apps
+]]></title>
+        <id>
+https://toast-queue.js.org
+</id>
+        <link href="
+https://toast-queue.js.org
+"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thinking budget Gemini 3.7 Flash: chỉnh chi phí và độ trễ]]></title>
-        <id>https://dev.to/bean_bean/thinking-budget-gemini-37-flash-chinh-chi-phi-va-do-tre-cce</id>
-        <link href="https://dev.to/bean_bean/thinking-budget-gemini-37-flash-chinh-chi-phi-va-do-tre-cce"/>
+        <title type="html"><![CDATA[
+We built a fast data grid across React, Vue & Svelte – here's what we learned
+]]></title>
+        <id>
+https://svar.dev/blog/building-data-grid-in-react-vue-svelte/
+</id>
+        <link href="
+https://svar.dev/blog/building-data-grid-in-react-vue-svelte/
+"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Simple Step by Step Guide to Buy Old Gmail accounts in ...]]></title>
-        <id>https://dev.to/dwellyqskf/a-simple-step-by-step-guide-to-buy-old-gmail-accounts-in--26o7</id>
-        <link href="https://dev.to/dwellyqskf/a-simple-step-by-step-guide-to-buy-old-gmail-accounts-in--26o7"/>
+        <title type="html"><![CDATA[
+Is JavaScript Obfuscation Still Worth It in the AI Era?
+]]></title>
+        <id>
+https://www.jstools.space/blog/javascript-obfuscation-ai/
+</id>
+        <link href="
+https://www.jstools.space/blog/javascript-obfuscation-ai/
+"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Chrome DevTools Extension]]></title>
-        <id>https://dev.to/qingluan/how-to-build-a-chrome-devtools-extension-4gf</id>
-        <link href="https://dev.to/qingluan/how-to-build-a-chrome-devtools-extension-4gf"/>
+        <title type="html"><![CDATA[
+Node.js has plenty of circuit breakers. So why did I build another one?
+]]></title>
+        <id>
+https://dev.to/pinceladasdaweb/nodejs-has-plenty-of-circuit-breakers-so-why-did-i-build-another-one-3k66
+</id>
+        <link href="
+https://dev.to/pinceladasdaweb/nodejs-has-plenty-of-circuit-breakers-so-why-did-i-build-another-one-3k66
+"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Loops in JavaScript]]></title>
-        <id>https://dev.to/abimanyu_p_9e75124634d2a4/loops-in-javascript-5g8i</id>
-        <link href="https://dev.to/abimanyu_p_9e75124634d2a4/loops-in-javascript-5g8i"/>
+        <title type="html"><![CDATA[
+Rattribute.js - A JavaScript library that generates responsive attribute setters for any HTML element.
+]]></title>
+        <id>
+https://github.com/williamtroup/Rattribute.js
+</id>
+        <link href="
+https://github.com/williamtroup/Rattribute.js
+"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[json-pdf-designer: an open-source PDF report designer you actually own the code of]]></title>
-        <id>https://dev.to/williamanjo/json-pdf-designer-an-open-source-pdf-report-designer-you-actually-own-the-code-of-d8</id>
-        <link href="https://dev.to/williamanjo/json-pdf-designer-an-open-source-pdf-report-designer-you-actually-own-the-code-of-d8"/>
+        <title type="html"><![CDATA[Panera Bread Menu with Prices 2026 | Nutrition & Calories]]></title>
+        <id>https://dev.to/kamran_alihingoro_ebc8ad/panera-bread-menu-with-prices-2026-nutrition-calories-2b4e</id>
+        <link href="https://dev.to/kamran_alihingoro_ebc8ad/panera-bread-menu-with-prices-2026-nutrition-calories-2b4e"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a 1-line script to make ANY web page a standalone PWA using dynamic Data URL Manifests (1P1A)]]></title>
+        <id>https://dev.to/ojach/i-built-a-1-line-script-to-make-any-web-page-a-standalone-pwa-using-dynamic-data-url-manifests-l7j</id>
+        <link href="https://dev.to/ojach/i-built-a-1-line-script-to-make-any-web-page-a-standalone-pwa-using-dynamic-data-url-manifests-l7j"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontend Toggles in React: JavaScript Polling API Example]]></title>
+        <id>https://dev.to/vaughnknight3189/frontend-toggles-in-react-javascript-polling-api-example-55i0</id>
+        <link href="https://dev.to/vaughnknight3189/frontend-toggles-in-react-javascript-polling-api-example-55i0"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hardest Part of Building a Chrome Extension Is Not the Code]]></title>
+        <id>https://dev.to/msgai/the-hardest-part-of-building-a-chrome-extension-is-not-the-code-1am5</id>
+        <link href="https://dev.to/msgai/the-hardest-part-of-building-a-chrome-extension-is-not-the-code-1am5"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Feature Flags Polling API: JavaScript Fallback Configuration]]></title>
+        <id>https://dev.to/erasmuspierce7981/react-feature-flags-polling-api-javascript-fallback-configuration-431k</id>
+        <link href="https://dev.to/erasmuspierce7981/react-feature-flags-polling-api-javascript-fallback-configuration-431k"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[**Stop Losing $100,000 Per Year: How AI Automation Can Transform Your School's Productivity**]]></title>
+        <id>https://dev.to/dgmh10uk/stop-losing-100000-per-year-how-ai-automation-can-transform-your-schools-productivity-2pnl</id>
+        <link href="https://dev.to/dgmh10uk/stop-losing-100000-per-year-how-ai-automation-can-transform-your-schools-productivity-2pnl"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Automated HTML Formatting Breaks in Production: 5 Edge Cases That Corrupt Layouts]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-automated-html-formatting-breaks-in-production-5-edge-cases-that-corrupt-layouts-1e72</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-automated-html-formatting-breaks-in-production-5-edge-cases-that-corrupt-layouts-1e72"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
+        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-4kb5</id>
+        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-4kb5"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
@@ -176,9 +255,44 @@
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
-        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-4kb5</id>
-        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-4kb5"/>
+        <title type="html"><![CDATA[json-pdf-designer: an open-source PDF report designer you actually own the code of]]></title>
+        <id>https://dev.to/williamanjo/json-pdf-designer-an-open-source-pdf-report-designer-you-actually-own-the-code-of-d8</id>
+        <link href="https://dev.to/williamanjo/json-pdf-designer-an-open-source-pdf-report-designer-you-actually-own-the-code-of-d8"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loops in JavaScript]]></title>
+        <id>https://dev.to/abimanyu_p_9e75124634d2a4/loops-in-javascript-5g8i</id>
+        <link href="https://dev.to/abimanyu_p_9e75124634d2a4/loops-in-javascript-5g8i"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Chrome DevTools Extension]]></title>
+        <id>https://dev.to/qingluan/how-to-build-a-chrome-devtools-extension-4gf</id>
+        <link href="https://dev.to/qingluan/how-to-build-a-chrome-devtools-extension-4gf"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Simple Step by Step Guide to Buy Old Gmail accounts in ...]]></title>
+        <id>https://dev.to/dwellyqskf/a-simple-step-by-step-guide-to-buy-old-gmail-accounts-in--26o7</id>
+        <link href="https://dev.to/dwellyqskf/a-simple-step-by-step-guide-to-buy-old-gmail-accounts-in--26o7"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking budget Gemini 3.7 Flash: chỉnh chi phí và độ trễ]]></title>
+        <id>https://dev.to/bean_bean/thinking-budget-gemini-37-flash-chinh-chi-phi-va-do-tre-cce</id>
+        <link href="https://dev.to/bean_bean/thinking-budget-gemini-37-flash-chinh-chi-phi-va-do-tre-cce"/>
+        <updated>2026-08-28T16:00:00.000Z</updated>
+        <published>2026-08-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Edit PowerPoint Presentations in Node.js Apps Using REST API]]></title>
+        <id>https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-edit-powerpoint-presentations-in-nodejs-apps-using-rest-api-lfe</id>
+        <link href="https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-edit-powerpoint-presentations-in-nodejs-apps-using-rest-api-lfe"/>
         <updated>2026-08-28T16:00:00.000Z</updated>
         <published>2026-08-28T16:00:00.000Z</published>
     </entry>
@@ -277,90 +391,6 @@
         <title type="html"><![CDATA[Inside Meta’s Push to Put Robots to Work in Data Centers]]></title>
         <id>https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/</id>
         <link href="https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup]]></title>
-        <id>https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/</id>
-        <link href="https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI]]></title>
-        <id>https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/</id>
-        <link href="https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buried in Meta’s $18B settlement is a legal pass on kids’ data]]></title>
-        <id>https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/</id>
-        <link href="https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India]]></title>
-        <id>https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/</id>
-        <link href="https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic gets its first court win over the Pentagon’s supply chain risk label]]></title>
-        <id>https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/</id>
-        <link href="https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friend-focused photo-sharing app Retro snags $21M]]></title>
-        <id>https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/</id>
-        <link href="https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To Async or Not to Async: Building a Rust MCP Server for Rust-Analyzer]]></title>
-        <id>https://developerlife.com/2026/08/22/to-async-or-not-to-async-rust-mcp-server/</id>
-        <link href="https://developerlife.com/2026/08/22/to-async-or-not-to-async-rust-mcp-server/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.15: Explicit lazy imports]]></title>
-        <id>https://docs.python.org/3.15/whatsnew/3.15.html#pep-810-explicit-lazy-imports</id>
-        <link href="https://docs.python.org/3.15/whatsnew/3.15.html#pep-810-explicit-lazy-imports"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tencent Releases and Open-Sources Tencent Hy4 Preview]]></title>
-        <id>https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</id>
-        <link href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm an AI given 5 hours to earn £90 – this is my shop]]></title>
-        <id>https://claude.ai/code/artifact/3f015ec2-6091-4e5d-8e6d-2098a14410c9</id>
-        <link href="https://claude.ai/code/artifact/3f015ec2-6091-4e5d-8e6d-2098a14410c9"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unplanned tasks get finished more often than planned ones]]></title>
-        <id>https://jeroensangers.com/2026/08/27/unplanned-tasks-get-finished-more.html</id>
-        <link href="https://jeroensangers.com/2026/08/27/unplanned-tasks-get-finished-more.html"/>
-        <updated>2026-08-27T16:00:00.000Z</updated>
-        <published>2026-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirCheck – record your Mac's internal audio, $39 one-off]]></title>
-        <id>https://aircheckaudio.com/</id>
-        <link href="https://aircheckaudio.com/"/>
         <updated>2026-08-27T16:00:00.000Z</updated>
         <published>2026-08-27T16:00:00.000Z</published>
     </entry>
