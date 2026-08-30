@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-30T07:01:20.252Z</updated>
+    <updated>2026-08-30T10:02:40.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[Distraction-free writing gadget BYOK is adding custom extensions]]></title>
         <id>https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions</id>
         <link href="https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists Create the Littlest Big Bang to Study the Universe's Origins]]></title>
+        <id>https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/</id>
+        <link href="https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
@@ -295,72 +302,65 @@
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debug Browser Connection Policy Before Blaming the Proxy]]></title>
-        <id>https://dev.to/98ip/debug-browser-connection-policy-before-blaming-the-proxy-2o1i</id>
-        <link href="https://dev.to/98ip/debug-browser-connection-policy-before-blaming-the-proxy-2o1i"/>
+        <title type="html"><![CDATA[PWA Power: Zyctra AI Loads Instant, Works Offline]]></title>
+        <id>https://dev.to/zyctraai/pwa-power-zyctra-ai-loads-instant-works-offline-4ib8</id>
+        <link href="https://dev.to/zyctraai/pwa-power-zyctra-ai-loads-instant-works-offline-4ib8"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Convert Text to Binary (and Back) in JavaScript]]></title>
-        <id>https://dev.to/simran_kaur_9eda1e242c31f/how-to-convert-text-to-binary-and-back-in-javascript-4e8i</id>
-        <link href="https://dev.to/simran_kaur_9eda1e242c31f/how-to-convert-text-to-binary-and-back-in-javascript-4e8i"/>
+        <title type="html"><![CDATA[Web Development in 2026: The Technologies You Need to Learn]]></title>
+        <id>https://dev.to/info_info_37785cd30473b53/web-development-in-2026-the-technologies-you-need-to-learn-4hn0</id>
+        <link href="https://dev.to/info_info_37785cd30473b53/web-development-in-2026-the-technologies-you-need-to-learn-4hn0"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built Peer Vibe: A Zero-Cloud P2P File Sharing Tool Using WebRTC & JavaScript]]></title>
-        <id>https://dev.to/proboiz918/how-i-built-peer-vibe-a-zero-cloud-p2p-file-sharing-tool-using-webrtc-javascript-3l7h</id>
-        <link href="https://dev.to/proboiz918/how-i-built-peer-vibe-a-zero-cloud-p2p-file-sharing-tool-using-webrtc-javascript-3l7h"/>
+        <title type="html"><![CDATA[I built 59 free browser-based dev tools in vanilla JS — here's what I learned]]></title>
+        <id>https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-13kn</id>
+        <link href="https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-13kn"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Email HTML in 2026 is Still a Nightmare: Reverse-Engineering Dark Mode & Outlook MSO Tables]]></title>
-        <id>https://dev.to/syzq/why-email-html-in-2026-is-still-a-nightmare-reverse-engineering-dark-mode-outlook-mso-tables-57o0</id>
-        <link href="https://dev.to/syzq/why-email-html-in-2026-is-still-a-nightmare-reverse-engineering-dark-mode-outlook-mso-tables-57o0"/>
+        <title type="html"><![CDATA[Building a Real-Time Audio-Reactive Visualizer in Next.js 15 with Web Audio API & Canvas]]></title>
+        <id>https://dev.to/knkabir327sketch/building-a-real-time-audio-reactive-visualizer-in-nextjs-15-with-web-audio-api-canvas-48ad</id>
+        <link href="https://dev.to/knkabir327sketch/building-a-real-time-audio-reactive-visualizer-in-nextjs-15-with-web-audio-api-canvas-48ad"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Audit JavaScript Regexes for Catastrophic Backtracking]]></title>
-        <id>https://dev.to/sathvic_kollu/how-i-audit-javascript-regexes-for-catastrophic-backtracking-1aj9</id>
-        <link href="https://dev.to/sathvic_kollu/how-i-audit-javascript-regexes-for-catastrophic-backtracking-1aj9"/>
+        <title type="html"><![CDATA[How to serve dynamic user announcements with static SSR performance]]></title>
+        <id>https://dev.to/pavan_s_poojary/how-to-serve-dynamic-user-announcements-with-static-ssr-performance-2lcj</id>
+        <link href="https://dev.to/pavan_s_poojary/how-to-serve-dynamic-user-announcements-with-static-ssr-performance-2lcj"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI-Driven Workflows for Frontend Developers — The Practical 2026 Guide]]></title>
-        <id>https://dev.to/ytlow/ai-driven-workflows-for-frontend-developers-the-practical-2026-guide-pfe</id>
-        <link href="https://dev.to/ytlow/ai-driven-workflows-for-frontend-developers-the-practical-2026-guide-pfe"/>
+        <title type="html"><![CDATA[A .docx file is just a ZIP. Word documents in the browser with zero dependencies]]></title>
+        <id>https://dev.to/webgaudi/a-docx-file-is-just-a-zip-word-documents-in-the-browser-with-zero-dependencies-5ab</id>
+        <link href="https://dev.to/webgaudi/a-docx-file-is-just-a-zip-word-documents-in-the-browser-with-zero-dependencies-5ab"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I test my React app on real devices without deploying it]]></title>
-        <id>https://dev.to/leobrown/how-i-test-my-react-app-on-real-devices-without-deploying-it-1ko</id>
-        <link href="https://dev.to/leobrown/how-i-test-my-react-app-on-real-devices-without-deploying-it-1ko"/>
+        <title type="html"><![CDATA[I got tired of slow, ad-heavy text utilities, so I built 100+ free browser-based tools 🚀]]></title>
+        <id>https://dev.to/harshraj/i-got-tired-of-slow-ad-heavy-text-utilities-so-i-built-100-free-browser-based-tools-1g9a</id>
+        <link href="https://dev.to/harshraj/i-got-tired-of-slow-ad-heavy-text-utilities-so-i-built-100-free-browser-based-tools-1g9a"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built browser-to-browser remote file access with WebRTC – no app required]]></title>
-        <id>https://dev.to/fencer/i-built-browser-to-browser-remote-file-access-with-webrtc-no-app-required-84b</id>
-        <link href="https://dev.to/fencer/i-built-browser-to-browser-remote-file-access-with-webrtc-no-app-required-84b"/>
+        <title type="html"><![CDATA[How AI Image Enhancement Can Restore Detail in Low-Resolution Images]]></title>
+        <id>https://dev.to/wood_bell_5652a423c6e8f71/how-ai-image-enhancement-can-restore-detail-in-low-resolution-images-13g9</id>
+        <link href="https://dev.to/wood_bell_5652a423c6e8f71/how-ai-image-enhancement-can-restore-detail-in-low-resolution-images-13g9"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launching vizcrush: Three Beliefs My Benchmarks Killed]]></title>
-        <id>https://dev.to/debugdiary1/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0</id>
-        <link href="https://dev.to/debugdiary1/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven of Nine Scroll-Spy Implementations Pass the Only Test Anyone Writes, and Six of Those Seven Are Wrong]]></title>
-        <id>https://dev.to/dev48v/seven-of-nine-scroll-spy-implementations-pass-the-only-test-anyone-writes-and-six-of-those-seven-558g</id>
-        <link href="https://dev.to/dev48v/seven-of-nine-scroll-spy-implementations-pass-the-only-test-anyone-writes-and-six-of-those-seven-558g"/>
+        <title type="html"><![CDATA[Resize and Pad AI Images for Social Media Aspect Ratios with HTML5 Canvas]]></title>
+        <id>https://dev.to/sir_lu_62bd118924537f9510/resize-and-pad-ai-images-for-social-media-aspect-ratios-with-html5-canvas-48a1</id>
+        <link href="https://dev.to/sir_lu_62bd118924537f9510/resize-and-pad-ai-images-for-social-media-aspect-ratios-with-html5-canvas-48a1"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
