@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-30T02:02:11.468Z</updated>
+    <updated>2026-08-30T04:01:19.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,156 +29,23 @@
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postgres isn't slow. Your storage is]]></title>
-        <id>https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is</id>
-        <link href="https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is"/>
+        <title type="html"><![CDATA[Fat Tire Brakes Get Wireless Upgrade]]></title>
+        <id>https://hackaday.com/2026/08/29/fat-tire-brakes-get-wireless-upgrade/</id>
+        <link href="https://hackaday.com/2026/08/29/fat-tire-brakes-get-wireless-upgrade/"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Free English shadowing app for your own videos]]></title>
-        <id>https://github.com/TideSparrow/shadowing-english</id>
-        <link href="https://github.com/TideSparrow/shadowing-english"/>
+        <title type="html"><![CDATA[Fast Unicode (UTF-8) validation with autovectorization]]></title>
+        <id>https://nitely.github.io/2026/08/30/fast-unicode-utf-8-validation.html</id>
+        <link href="https://nitely.github.io/2026/08/30/fast-unicode-utf-8-validation.html"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I feel like AI start being a reflect of the CEO behind it (his political)]]></title>
-        <id>https://baseline-rouge-mu.vercel.app/</id>
-        <link href="https://baseline-rouge-mu.vercel.app/"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tried to Trick Pangram. I Lost]]></title>
-        <id>https://awaitinginput.substack.com/p/i-tried-to-trick-pangram-i-lost</id>
-        <link href="https://awaitinginput.substack.com/p/i-tried-to-trick-pangram-i-lost"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A glacier collapse triggered a deadly landslide and flooding]]></title>
-        <id>https://www.reuters.com/graphics/NEPAL-FLOODS/MAP/byvrdywwlve/</id>
-        <link href="https://www.reuters.com/graphics/NEPAL-FLOODS/MAP/byvrdywwlve/"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benjamin Franklin's Alter Egos Gave Him the Most Freedom]]></title>
-        <id>https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/</id>
-        <link href="https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Turn your GitHub activity into a receipt]]></title>
-        <id>https://receipthub.io/github</id>
-        <link href="https://receipthub.io/github"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California Passes AB-1856 for Open-Source Relief over Age Verification]]></title>
-        <id>https://www.phoronix.com/news/California-AB-1856-Passes</id>
-        <link href="https://www.phoronix.com/news/California-AB-1856-Passes"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientific articles are increasingly cryptic due to excess use of jargon (2022)]]></title>
-        <id>https://revistapesquisa.fapesp.br/en/scientific-articles-are-increasingly-complex-and-cryptic-due-to-excessive-use-of-jargon-and-acronyms/</id>
-        <link href="https://revistapesquisa.fapesp.br/en/scientific-articles-are-increasingly-complex-and-cryptic-due-to-excessive-use-of-jargon-and-acronyms/"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palestinian woman and NBC News team attacked by masked Israeli settlers]]></title>
-        <id>https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024</id>
-        <link href="https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did tvwatch.su also copy your GitHub profile?]]></title>
-        <id>https://news.ycombinator.com/item?id=49493659</id>
-        <link href="https://news.ycombinator.com/item?id=49493659"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From the Promised Land to the State of Israel]]></title>
-        <id>https://medium.com/freedomofthought/the-hebrews-the-jews-the-promised-land-the-state-of-israel-and-the-others-c2ba64abb1a0</id>
-        <link href="https://medium.com/freedomofthought/the-hebrews-the-jews-the-promised-land-the-state-of-israel-and-the-others-c2ba64abb1a0"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Trust for Bloggers: Hardening Your Site Against AI-Driven Phishing Swarms]]></title>
-        <id>https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html</id>
-        <link href="https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Probably Own This 7-Eleven (and That's Why It Looks So Sad)]]></title>
-        <id>https://www.thenewatlantis.com/publications/you-probably-own-this-7-eleven</id>
-        <link href="https://www.thenewatlantis.com/publications/you-probably-own-this-7-eleven"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mammal ancestors gave live birth 90M yrs earlier than thought]]></title>
-        <id>https://www.livescience.com/animals/land-mammals/mammal-ancestors-may-have-given-live-birth-90-million-years-earlier-than-we-thought-rewriting-evolutionary-timelines</id>
-        <link href="https://www.livescience.com/animals/land-mammals/mammal-ancestors-may-have-given-live-birth-90-million-years-earlier-than-we-thought-rewriting-evolutionary-timelines"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full-Bandwidth Transformer]]></title>
-        <id>https://arxiv.org/abs/2608.08888</id>
-        <link href="https://arxiv.org/abs/2608.08888"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrast]]></title>
-        <id>https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/</id>
-        <link href="https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How cats.txt showed llms.txt evidence is GEO astrology]]></title>
-        <id>https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence</id>
-        <link href="https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[38% of Hugging Face Spaces are permanently broken; linked GitHub repos are fine]]></title>
-        <id>https://github.com/ashishsinha1602/dataset-integrity-audit</id>
-        <link href="https://github.com/ashishsinha1602/dataset-integrity-audit"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimax H3 Max Live – An infinite broadcast is generated by the chat]]></title>
-        <id>https://www.twitch.tv/koumpas</id>
-        <link href="https://www.twitch.tv/koumpas"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git3 – Use an S3 bucket as a Git remote]]></title>
-        <id>https://github.com/robertpitt/git3</id>
-        <link href="https://github.com/robertpitt/git3"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phaseonebig: Message Board for Agents]]></title>
-        <id>https://phaseonebig.com/</id>
-        <link href="https://phaseonebig.com/"/>
+        <title type="html"><![CDATA[How Wingman is able to be client agnostic]]></title>
+        <id>https://docs.wingman.actor/concepts/clients/</id>
+        <link href="https://docs.wingman.actor/concepts/clients/"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
@@ -190,9 +57,177 @@
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LangGraph Agents: A Practical Guide to Building Stateful AI Workflows]]></title>
-        <id>https://pub.towardsai.net/langgraph-agents-a-practical-guide-to-building-stateful-ai-workflows-cbbcd30310e8?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/langgraph-agents-a-practical-guide-to-building-stateful-ai-workflows-cbbcd30310e8?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Phaseonebig: Message Board for Agents]]></title>
+        <id>https://phaseonebig.com/</id>
+        <link href="https://phaseonebig.com/"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git3 – Use an S3 bucket as a Git remote]]></title>
+        <id>https://github.com/robertpitt/git3</id>
+        <link href="https://github.com/robertpitt/git3"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minimax H3 Max Live – An infinite broadcast is generated by the chat]]></title>
+        <id>https://www.twitch.tv/koumpas</id>
+        <link href="https://www.twitch.tv/koumpas"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[38% of Hugging Face Spaces are permanently broken; linked GitHub repos are fine]]></title>
+        <id>https://github.com/ashishsinha1602/dataset-integrity-audit</id>
+        <link href="https://github.com/ashishsinha1602/dataset-integrity-audit"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How cats.txt showed llms.txt evidence is GEO astrology]]></title>
+        <id>https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence</id>
+        <link href="https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrast]]></title>
+        <id>https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/</id>
+        <link href="https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full-Bandwidth Transformer]]></title>
+        <id>https://arxiv.org/abs/2608.08888</id>
+        <link href="https://arxiv.org/abs/2608.08888"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mammal ancestors gave live birth 90M yrs earlier than thought]]></title>
+        <id>https://www.livescience.com/animals/land-mammals/mammal-ancestors-may-have-given-live-birth-90-million-years-earlier-than-we-thought-rewriting-evolutionary-timelines</id>
+        <link href="https://www.livescience.com/animals/land-mammals/mammal-ancestors-may-have-given-live-birth-90-million-years-earlier-than-we-thought-rewriting-evolutionary-timelines"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Probably Own This 7-Eleven (and That's Why It Looks So Sad)]]></title>
+        <id>https://www.thenewatlantis.com/publications/you-probably-own-this-7-eleven</id>
+        <link href="https://www.thenewatlantis.com/publications/you-probably-own-this-7-eleven"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-Trust for Bloggers: Hardening Your Site Against AI-Driven Phishing Swarms]]></title>
+        <id>https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html</id>
+        <link href="https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From the Promised Land to the State of Israel]]></title>
+        <id>https://medium.com/freedomofthought/the-hebrews-the-jews-the-promised-land-the-state-of-israel-and-the-others-c2ba64abb1a0</id>
+        <link href="https://medium.com/freedomofthought/the-hebrews-the-jews-the-promised-land-the-state-of-israel-and-the-others-c2ba64abb1a0"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did tvwatch.su also copy your GitHub profile?]]></title>
+        <id>https://news.ycombinator.com/item?id=49493659</id>
+        <link href="https://news.ycombinator.com/item?id=49493659"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palestinian woman and NBC News team attacked by masked Israeli settlers]]></title>
+        <id>https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024</id>
+        <link href="https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientific articles are increasingly cryptic due to excess use of jargon (2022)]]></title>
+        <id>https://revistapesquisa.fapesp.br/en/scientific-articles-are-increasingly-complex-and-cryptic-due-to-excessive-use-of-jargon-and-acronyms/</id>
+        <link href="https://revistapesquisa.fapesp.br/en/scientific-articles-are-increasingly-complex-and-cryptic-due-to-excessive-use-of-jargon-and-acronyms/"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California Passes AB-1856 for Open-Source Relief over Age Verification]]></title>
+        <id>https://www.phoronix.com/news/California-AB-1856-Passes</id>
+        <link href="https://www.phoronix.com/news/California-AB-1856-Passes"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Turn your GitHub activity into a receipt]]></title>
+        <id>https://receipthub.io/github</id>
+        <link href="https://receipthub.io/github"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benjamin Franklin's Alter Egos Gave Him the Most Freedom]]></title>
+        <id>https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/</id>
+        <link href="https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A glacier collapse triggered a deadly landslide and flooding]]></title>
+        <id>https://www.reuters.com/graphics/NEPAL-FLOODS/MAP/byvrdywwlve/</id>
+        <link href="https://www.reuters.com/graphics/NEPAL-FLOODS/MAP/byvrdywwlve/"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried to Trick Pangram. I Lost]]></title>
+        <id>https://awaitinginput.substack.com/p/i-tried-to-trick-pangram-i-lost</id>
+        <link href="https://awaitinginput.substack.com/p/i-tried-to-trick-pangram-i-lost"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I feel like AI start being a reflect of the CEO behind it (his political)]]></title>
+        <id>https://baseline-rouge-mu.vercel.app/</id>
+        <link href="https://baseline-rouge-mu.vercel.app/"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Free English shadowing app for your own videos]]></title>
+        <id>https://github.com/TideSparrow/shadowing-english</id>
+        <link href="https://github.com/TideSparrow/shadowing-english"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres isn't slow. Your storage is]]></title>
+        <id>https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is</id>
+        <link href="https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLM-5.3-Flash: The Sub-20B Active Parameter Titan Redefining Agentic Efficiency]]></title>
+        <id>https://pub.towardsai.net/glm-5-3-flash-the-sub-20b-active-parameter-titan-redefining-agentic-efficiency-91c08556204d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/glm-5-3-flash-the-sub-20b-active-parameter-titan-redefining-agentic-efficiency-91c08556204d?source=rss----98111c9905da---4"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic's Agent Skills Spec Has 7 Field Rules. Pi Checks 6 and Enforces 1.]]></title>
+        <id>https://pub.towardsai.net/anthropics-agent-skills-spec-has-7-field-rules-pi-checks-6-and-enforces-1-3eb7e4169456?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/anthropics-agent-skills-spec-has-7-field-rules-pi-checks-6-and-enforces-1-3eb7e4169456?source=rss----98111c9905da---4"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Claude Code Mistakes That Quietly Burn Your Token Budget]]></title>
+        <id>https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss----98111c9905da---4"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
@@ -204,9 +239,9 @@
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 Claude Code Mistakes That Quietly Burn Your Token Budget]]></title>
-        <id>https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[LangGraph Agents: A Practical Guide to Building Stateful AI Workflows]]></title>
+        <id>https://pub.towardsai.net/langgraph-agents-a-practical-guide-to-building-stateful-ai-workflows-cbbcd30310e8?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/langgraph-agents-a-practical-guide-to-building-stateful-ai-workflows-cbbcd30310e8?source=rss----98111c9905da---4"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
@@ -225,72 +260,51 @@
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI-Driven Workflows for Frontend Developers — The Practical 2026 Guide]]></title>
-        <id>https://dev.to/ytlow/ai-driven-workflows-for-frontend-developers-the-practical-2026-guide-pfe</id>
-        <link href="https://dev.to/ytlow/ai-driven-workflows-for-frontend-developers-the-practical-2026-guide-pfe"/>
+        <title type="html"><![CDATA[Resize and Pad AI Images for Social Media Aspect Ratios with HTML5 Canvas]]></title>
+        <id>https://dev.to/sir_lu_62bd118924537f9510/resize-and-pad-ai-images-for-social-media-aspect-ratios-with-html5-canvas-48a1</id>
+        <link href="https://dev.to/sir_lu_62bd118924537f9510/resize-and-pad-ai-images-for-social-media-aspect-ratios-with-html5-canvas-48a1"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I test my React app on real devices without deploying it]]></title>
-        <id>https://dev.to/leobrown/how-i-test-my-react-app-on-real-devices-without-deploying-it-1ko</id>
-        <link href="https://dev.to/leobrown/how-i-test-my-react-app-on-real-devices-without-deploying-it-1ko"/>
+        <title type="html"><![CDATA[Stop Poisoning Your React Server Components | 2026 Guide]]></title>
+        <id>https://dev.to/nainikmehta/stop-poisoning-your-react-server-components-2026-guide-1o4n</id>
+        <link href="https://dev.to/nainikmehta/stop-poisoning-your-react-server-components-2026-guide-1o4n"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built browser-to-browser remote file access with WebRTC – no app required]]></title>
-        <id>https://dev.to/fencer/i-built-browser-to-browser-remote-file-access-with-webrtc-no-app-required-84b</id>
-        <link href="https://dev.to/fencer/i-built-browser-to-browser-remote-file-access-with-webrtc-no-app-required-84b"/>
+        <title type="html"><![CDATA[Build an Amazon Review Analysis Pipeline with Node.js]]></title>
+        <id>https://dev.to/nexscope/build-an-amazon-review-analysis-pipeline-with-nodejs-47pk</id>
+        <link href="https://dev.to/nexscope/build-an-amazon-review-analysis-pipeline-with-nodejs-47pk"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launching vizcrush: Three Beliefs My Benchmarks Killed]]></title>
-        <id>https://dev.to/debugdiary1/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0</id>
-        <link href="https://dev.to/debugdiary1/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0"/>
+        <title type="html"><![CDATA[React Form Actions Need Abortable Email Checks]]></title>
+        <id>https://dev.to/ryanlee91/react-form-actions-need-abortable-email-checks-4ajm</id>
+        <link href="https://dev.to/ryanlee91/react-form-actions-need-abortable-email-checks-4ajm"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seven of Nine Scroll-Spy Implementations Pass the Only Test Anyone Writes, and Six of Those Seven Are Wrong]]></title>
-        <id>https://dev.to/dev48v/seven-of-nine-scroll-spy-implementations-pass-the-only-test-anyone-writes-and-six-of-those-seven-558g</id>
-        <link href="https://dev.to/dev48v/seven-of-nine-scroll-spy-implementations-pass-the-only-test-anyone-writes-and-six-of-those-seven-558g"/>
+        <title type="html"><![CDATA[How I Built a Compound Interest Calculator Without Any Backend]]></title>
+        <id>https://dev.to/ggwork/how-i-built-a-compound-interest-calculator-without-any-backend-2j2c</id>
+        <link href="https://dev.to/ggwork/how-i-built-a-compound-interest-calculator-without-any-backend-2j2c"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The WebGPU Export Engine: Rendering High-Res Canvases to MP4, SVG, and PDF Like a Senior Architect]]></title>
-        <id>https://dev.to/programmingcentral/the-webgpu-export-engine-rendering-high-res-canvases-to-mp4-svg-and-pdf-like-a-senior-architect-1gbc</id>
-        <link href="https://dev.to/programmingcentral/the-webgpu-export-engine-rendering-high-res-canvases-to-mp4-svg-and-pdf-like-a-senior-architect-1gbc"/>
+        <title type="html"><![CDATA[Generate Conventional Commits from your terminal using AI (Zero Setup)]]></title>
+        <id>https://dev.to/ikedalef/generate-conventional-commits-from-your-terminal-using-ai-zero-setup-nk1</id>
+        <link href="https://dev.to/ikedalef/generate-conventional-commits-from-your-terminal-using-ai-zero-setup-nk1"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Js-Loops:)]]></title>
-        <id>https://dev.to/aswinth/js-loops-36dj</id>
-        <link href="https://dev.to/aswinth/js-loops-36dj"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launching vizcrush: Three Beliefs My Benchmarks Killed]]></title>
-        <id>https://dev.to/debugdiary/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0</id>
-        <link href="https://dev.to/debugdiary/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a PDF Merger That Never Touches a Server]]></title>
-        <id>https://dev.to/vipul_singh_755a9075cfbdd/i-built-a-pdf-merger-that-never-touches-a-server-26kk</id>
-        <link href="https://dev.to/vipul_singh_755a9075cfbdd/i-built-a-pdf-merger-that-never-touches-a-server-26kk"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PrimeVue v4 Stopped Active Dev: OpenVue Takes Over on MIT]]></title>
-        <id>https://dev.to/njevric/primevue-v4-stopped-active-dev-openvue-takes-over-on-mit-5c05</id>
-        <link href="https://dev.to/njevric/primevue-v4-stopped-active-dev-openvue-takes-over-on-mit-5c05"/>
+        <title type="html"><![CDATA[HOW TO DEV - Learn NEXTJS - https://howtodev.vercel.app]]></title>
+        <id>https://dev.to/juan_kalleo_72bab583a48e4/how-to-dev-learn-nextjs-httpshowtodevvercelapp-506g</id>
+        <link href="https://dev.to/juan_kalleo_72bab583a48e4/how-to-dev-learn-nextjs-httpshowtodevvercelapp-506g"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
@@ -302,66 +316,52 @@
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google further buries search results under AI mode]]></title>
-        <id>https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand</id>
-        <link href="https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[PrimeVue v4 Stopped Active Dev: OpenVue Takes Over on MIT]]></title>
+        <id>https://dev.to/njevric/primevue-v4-stopped-active-dev-openvue-takes-over-on-mit-5c05</id>
+        <link href="https://dev.to/njevric/primevue-v4-stopped-active-dev-openvue-takes-over-on-mit-5c05"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soundcore Liberty 5 Pro Review: Master of Phone Calls]]></title>
-        <id>https://www.wired.com/review/soundcore-liberty-5-pro/</id>
-        <link href="https://www.wired.com/review/soundcore-liberty-5-pro/"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built a PDF Merger That Never Touches a Server]]></title>
+        <id>https://dev.to/vipul_singh_755a9075cfbdd/i-built-a-pdf-merger-that-never-touches-a-server-26kk</id>
+        <link href="https://dev.to/vipul_singh_755a9075cfbdd/i-built-a-pdf-merger-that-never-touches-a-server-26kk"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia’s AI advantage is moving beyond the GPU]]></title>
-        <id>https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</id>
-        <link href="https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Launching vizcrush: Three Beliefs My Benchmarks Killed]]></title>
+        <id>https://dev.to/debugdiary/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0</id>
+        <link href="https://dev.to/debugdiary/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brave’s browser one-ups Chrome with its new support for email aliases]]></title>
-        <id>https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/</id>
-        <link href="https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Js-Loops:)]]></title>
+        <id>https://dev.to/aswinth/js-loops-36dj</id>
+        <link href="https://dev.to/aswinth/js-loops-36dj"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open-weight AI companies are the Valley’s hottest acquisition targets]]></title>
-        <id>https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/</id>
-        <link href="https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[The WebGPU Export Engine: Rendering High-Res Canvases to MP4, SVG, and PDF Like a Senior Architect]]></title>
+        <id>https://dev.to/programmingcentral/the-webgpu-export-engine-rendering-high-res-canvases-to-mp4-svg-and-pdf-like-a-senior-architect-1gbc</id>
+        <link href="https://dev.to/programmingcentral/the-webgpu-export-engine-rendering-high-res-canvases-to-mp4-svg-and-pdf-like-a-senior-architect-1gbc"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is the best way to watch a movie on a pair of sunglasses?]]></title>
-        <id>https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/</id>
-        <link href="https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Seven of Nine Scroll-Spy Implementations Pass the Only Test Anyone Writes, and Six of Those Seven Are Wrong]]></title>
+        <id>https://dev.to/dev48v/seven-of-nine-scroll-spy-implementations-pass-the-only-test-anyone-writes-and-six-of-those-seven-558g</id>
+        <link href="https://dev.to/dev48v/seven-of-nine-scroll-spy-implementations-pass-the-only-test-anyone-writes-and-six-of-those-seven-558g"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[POWBlock is a universal bot/DDoS defense primitive for any server]]></title>
-        <id>https://github.com/8Protons/POWBlock</id>
-        <link href="https://github.com/8Protons/POWBlock"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satellite images reveal scale of flood devastation in Nepal villages]]></title>
-        <id>https://www.bbc.com/news/articles/cd68vpjv21do</id>
-        <link href="https://www.bbc.com/news/articles/cd68vpjv21do"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta's Newspaper Ad Blitz Ups Pressure on Social Media Rivals]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-08-28/meta-s-newspaper-ad-blitz-ups-pressure-on-social-media-rivals</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-08-28/meta-s-newspaper-ad-blitz-ups-pressure-on-social-media-rivals"/>
-        <updated>2026-08-28T16:00:00.000Z</updated>
-        <published>2026-08-28T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Launching vizcrush: Three Beliefs My Benchmarks Killed]]></title>
+        <id>https://dev.to/debugdiary1/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0</id>
+        <link href="https://dev.to/debugdiary1/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
     </entry>
 </feed>
