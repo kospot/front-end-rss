@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-30T10:02:40.986Z</updated>
+    <updated>2026-08-30T13:03:10.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -253,23 +253,16 @@
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GLM-5.3-Flash: The Sub-20B Active Parameter Titan Redefining Agentic Efficiency]]></title>
-        <id>https://pub.towardsai.net/glm-5-3-flash-the-sub-20b-active-parameter-titan-redefining-agentic-efficiency-91c08556204d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/glm-5-3-flash-the-sub-20b-active-parameter-titan-redefining-agentic-efficiency-91c08556204d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The AI Agents Didn’t Just Hack Hugging Face. They Built a Society First.]]></title>
+        <id>https://pub.towardsai.net/openai-agents-hacked-hugging-face-e4fd0a6cea06?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openai-agents-hacked-hugging-face-e4fd0a6cea06?source=rss----98111c9905da---4"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic's Agent Skills Spec Has 7 Field Rules. Pi Checks 6 and Enforces 1.]]></title>
-        <id>https://pub.towardsai.net/anthropics-agent-skills-spec-has-7-field-rules-pi-checks-6-and-enforces-1-3eb7e4169456?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/anthropics-agent-skills-spec-has-7-field-rules-pi-checks-6-and-enforces-1-3eb7e4169456?source=rss----98111c9905da---4"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Claude Code Mistakes That Quietly Burn Your Token Budget]]></title>
-        <id>https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[LangGraph Agents: A Practical Guide to Building Stateful AI Workflows]]></title>
+        <id>https://pub.towardsai.net/langgraph-agents-a-practical-guide-to-building-stateful-ai-workflows-cbbcd30310e8?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/langgraph-agents-a-practical-guide-to-building-stateful-ai-workflows-cbbcd30310e8?source=rss----98111c9905da---4"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
@@ -281,9 +274,23 @@
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LangGraph Agents: A Practical Guide to Building Stateful AI Workflows]]></title>
-        <id>https://pub.towardsai.net/langgraph-agents-a-practical-guide-to-building-stateful-ai-workflows-cbbcd30310e8?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/langgraph-agents-a-practical-guide-to-building-stateful-ai-workflows-cbbcd30310e8?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[7 Claude Code Mistakes That Quietly Burn Your Token Budget]]></title>
+        <id>https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss----98111c9905da---4"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic's Agent Skills Spec Has 7 Field Rules. Pi Checks 6 and Enforces 1.]]></title>
+        <id>https://pub.towardsai.net/anthropics-agent-skills-spec-has-7-field-rules-pi-checks-6-and-enforces-1-3eb7e4169456?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/anthropics-agent-skills-spec-has-7-field-rules-pi-checks-6-and-enforces-1-3eb7e4169456?source=rss----98111c9905da---4"/>
+        <updated>2026-08-29T16:00:00.000Z</updated>
+        <published>2026-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLM-5.3-Flash: The Sub-20B Active Parameter Titan Redefining Agentic Efficiency]]></title>
+        <id>https://pub.towardsai.net/glm-5-3-flash-the-sub-20b-active-parameter-titan-redefining-agentic-efficiency-91c08556204d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/glm-5-3-flash-the-sub-20b-active-parameter-titan-redefining-agentic-efficiency-91c08556204d?source=rss----98111c9905da---4"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
@@ -302,65 +309,58 @@
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PWA Power: Zyctra AI Loads Instant, Works Offline]]></title>
-        <id>https://dev.to/zyctraai/pwa-power-zyctra-ai-loads-instant-works-offline-4ib8</id>
-        <link href="https://dev.to/zyctraai/pwa-power-zyctra-ai-loads-instant-works-offline-4ib8"/>
+        <title type="html"><![CDATA[The abort guard that lied: a verification check that returned {} and refused a valid send]]></title>
+        <id>https://dev.to/oroborolabs/the-abort-guard-that-lied-a-verification-check-that-returned-and-refused-a-valid-send-2i5k</id>
+        <link href="https://dev.to/oroborolabs/the-abort-guard-that-lied-a-verification-check-that-returned-and-refused-a-valid-send-2i5k"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Development in 2026: The Technologies You Need to Learn]]></title>
-        <id>https://dev.to/info_info_37785cd30473b53/web-development-in-2026-the-technologies-you-need-to-learn-4hn0</id>
-        <link href="https://dev.to/info_info_37785cd30473b53/web-development-in-2026-the-technologies-you-need-to-learn-4hn0"/>
+        <title type="html"><![CDATA[Your PWA can't wake the phone: alarms and notifications for plain HTML, without Android Studio]]></title>
+        <id>https://dev.to/vladifedorov/your-pwa-cant-wake-the-phone-alarms-and-notifications-for-plain-html-without-android-studio-5h22</id>
+        <link href="https://dev.to/vladifedorov/your-pwa-cant-wake-the-phone-alarms-and-notifications-for-plain-html-without-android-studio-5h22"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built 59 free browser-based dev tools in vanilla JS — here's what I learned]]></title>
-        <id>https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-13kn</id>
-        <link href="https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-13kn"/>
+        <title type="html"><![CDATA[Debugging Async/Await Deadlocks in JavaScript: Proven Techniques to Resolve Stalling Promises]]></title>
+        <id>https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-proven-techniques-to-resolve-stalling-promises-55m</id>
+        <link href="https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-proven-techniques-to-resolve-stalling-promises-55m"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Real-Time Audio-Reactive Visualizer in Next.js 15 with Web Audio API & Canvas]]></title>
-        <id>https://dev.to/knkabir327sketch/building-a-real-time-audio-reactive-visualizer-in-nextjs-15-with-web-audio-api-canvas-48ad</id>
-        <link href="https://dev.to/knkabir327sketch/building-a-real-time-audio-reactive-visualizer-in-nextjs-15-with-web-audio-api-canvas-48ad"/>
+        <title type="html"><![CDATA[htmx 4.0 Just Shipped: What Changed, What Breaks, and How to Migrate This Weekend]]></title>
+        <id>https://dev.to/jamilxt/htmx-40-just-shipped-what-changed-what-breaks-and-how-to-migrate-this-weekend-a4o</id>
+        <link href="https://dev.to/jamilxt/htmx-40-just-shipped-what-changed-what-breaks-and-how-to-migrate-this-weekend-a4o"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to serve dynamic user announcements with static SSR performance]]></title>
-        <id>https://dev.to/pavan_s_poojary/how-to-serve-dynamic-user-announcements-with-static-ssr-performance-2lcj</id>
-        <link href="https://dev.to/pavan_s_poojary/how-to-serve-dynamic-user-announcements-with-static-ssr-performance-2lcj"/>
+        <title type="html"><![CDATA[Nuxt useState vs ref(): Why Server State Leaks Across Users]]></title>
+        <id>https://dev.to/parsajiravand/nuxt-usestate-vs-ref-why-server-state-leaks-across-users-47n1</id>
+        <link href="https://dev.to/parsajiravand/nuxt-usestate-vs-ref-why-server-state-leaks-across-users-47n1"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A .docx file is just a ZIP. Word documents in the browser with zero dependencies]]></title>
-        <id>https://dev.to/webgaudi/a-docx-file-is-just-a-zip-word-documents-in-the-browser-with-zero-dependencies-5ab</id>
-        <link href="https://dev.to/webgaudi/a-docx-file-is-just-a-zip-word-documents-in-the-browser-with-zero-dependencies-5ab"/>
+        <title type="html"><![CDATA[แกะรหัสคณิตศาสตร์เกม Lucky Neko (แมวกวัก PG Soft) — ทำไม Multiplier +2 ถึงทำให้ Variance พุ่งสูง?]]></title>
+        <id>https://dev.to/pgsame/aekarhaskhnitsaastrekm-lucky-neko-aemwkwak-pg-soft-thamaim-multiplier-2-thuengthamaih-variance-phungsuung-cb2</id>
+        <link href="https://dev.to/pgsame/aekarhaskhnitsaastrekm-lucky-neko-aemwkwak-pg-soft-thamaim-multiplier-2-thuengthamaih-variance-phungsuung-cb2"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I got tired of slow, ad-heavy text utilities, so I built 100+ free browser-based tools 🚀]]></title>
-        <id>https://dev.to/harshraj/i-got-tired-of-slow-ad-heavy-text-utilities-so-i-built-100-free-browser-based-tools-1g9a</id>
-        <link href="https://dev.to/harshraj/i-got-tired-of-slow-ad-heavy-text-utilities-so-i-built-100-free-browser-based-tools-1g9a"/>
+        <title type="html"><![CDATA[Hijri Dates in Indonesia Were a Pain to Get Right. Not Anymore.]]></title>
+        <id>https://dev.to/pijaradiluhung/hijri-dates-in-indonesia-were-a-pain-to-get-right-not-anymore-499c</id>
+        <link href="https://dev.to/pijaradiluhung/hijri-dates-in-indonesia-were-a-pain-to-get-right-not-anymore-499c"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How AI Image Enhancement Can Restore Detail in Low-Resolution Images]]></title>
-        <id>https://dev.to/wood_bell_5652a423c6e8f71/how-ai-image-enhancement-can-restore-detail-in-low-resolution-images-13g9</id>
-        <link href="https://dev.to/wood_bell_5652a423c6e8f71/how-ai-image-enhancement-can-restore-detail-in-low-resolution-images-13g9"/>
-        <updated>2026-08-29T16:00:00.000Z</updated>
-        <published>2026-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resize and Pad AI Images for Social Media Aspect Ratios with HTML5 Canvas]]></title>
-        <id>https://dev.to/sir_lu_62bd118924537f9510/resize-and-pad-ai-images-for-social-media-aspect-ratios-with-html5-canvas-48a1</id>
-        <link href="https://dev.to/sir_lu_62bd118924537f9510/resize-and-pad-ai-images-for-social-media-aspect-ratios-with-html5-canvas-48a1"/>
+        <title type="html"><![CDATA[Debug Browser Connection Policy Before Blaming the Proxy]]></title>
+        <id>https://dev.to/98ip/debug-browser-connection-policy-before-blaming-the-proxy-2o1i</id>
+        <link href="https://dev.to/98ip/debug-browser-connection-policy-before-blaming-the-proxy-2o1i"/>
         <updated>2026-08-29T16:00:00.000Z</updated>
         <published>2026-08-29T16:00:00.000Z</published>
     </entry>
