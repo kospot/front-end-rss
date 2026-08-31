@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-31T10:02:12.545Z</updated>
+    <updated>2026-08-31T13:02:45.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,6 +29,13 @@
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why Food Keeps Making Everybody Sick This Summer]]></title>
+        <id>https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/</id>
+        <link href="https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario]]></title>
         <id>https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/</id>
         <link href="https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/"/>
@@ -36,9 +43,9 @@
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The U.S. is building barriers around drones and robots, but China has scale to get around them]]></title>
-        <id>https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/</id>
-        <link href="https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"/>
+        <title type="html"><![CDATA[Meeting notetaker Circleback adds a free tier to attract more customers]]></title>
+        <id>https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/</id>
+        <link href="https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
@@ -50,268 +57,65 @@
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Product Backlog Problems: Why Your Hierarchy Is Broken]]></title>
-        <id>https://www.prodpad.com/blog/backlog-hierarchy-problem/</id>
-        <link href="https://www.prodpad.com/blog/backlog-hierarchy-problem/"/>
+        <title type="html"><![CDATA[The U.S. is building barriers around drones and robots, but China has scale to get around them]]></title>
+        <id>https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/</id>
+        <link href="https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Free, Fast Screenshot App for macOS with One-Click Screenshot Sharing]]></title>
-        <id>https://seenshot.app/</id>
-        <link href="https://seenshot.app/"/>
+        <title type="html"><![CDATA[The Cast-Iron Company That Has Been Controlled by the Same Family for 130 Years]]></title>
+        <id>https://www.wsj.com/business/the-cast-iron-company-that-has-been-controlled-by-the-same-family-for-130-years-c3b55239</id>
+        <link href="https://www.wsj.com/business/the-cast-iron-company-that-has-been-controlled-by-the-same-family-for-130-years-c3b55239"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interviewing IBM's Christian Zoellin and Christian Jacobi]]></title>
-        <id>https://chipsandcheese.com/p/hot-chips-2026-interviewing-ibms</id>
-        <link href="https://chipsandcheese.com/p/hot-chips-2026-interviewing-ibms"/>
+        <title type="html"><![CDATA[AI in Education Knowledge Base]]></title>
+        <id>https://edtechdev.github.io/aied/</id>
+        <link href="https://edtechdev.github.io/aied/"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Highlander – realtime MiniMax FastH3 with audio at $0.02 per second]]></title>
-        <id>https://www.highlander.sh/</id>
-        <link href="https://www.highlander.sh/"/>
+        <title type="html"><![CDATA[A new class of memory-based AI (MIRaS) published this week]]></title>
+        <id>https://academic.oup.com/nar/article/54/16/gkag833/8769250</id>
+        <link href="https://academic.oup.com/nar/article/54/16/gkag833/8769250"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leica Freedom Train]]></title>
-        <id>https://en.wikipedia.org/wiki/Leica_Freedom_Train</id>
-        <link href="https://en.wikipedia.org/wiki/Leica_Freedom_Train"/>
+        <title type="html"><![CDATA[Let's build a digital clock [video]]]></title>
+        <id>https://www.youtube.com/watch?v=3XDH-fZKnQk</id>
+        <link href="https://www.youtube.com/watch?v=3XDH-fZKnQk"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I tracked 55k free proxies for a week – 1.6% were alive]]></title>
-        <id>https://github.com/proxmint/free-proxy-list</id>
-        <link href="https://github.com/proxmint/free-proxy-list"/>
+        <title type="html"><![CDATA[Show HN: Words to Worlds - world build in 100 words or less]]></title>
+        <id>https://wordstoworlds.com</id>
+        <link href="https://wordstoworlds.com"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Harvard Professor on Why You Should Learn C in 2026 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=vhgI_F-WMwA</id>
-        <link href="https://www.youtube.com/watch?v=vhgI_F-WMwA"/>
+        <title type="html"><![CDATA[The new Go JSON API: twice as fast, or 1.5x slower? – Daniel Lemire's blog]]></title>
+        <id>https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/</id>
+        <link href="https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[P99 0 ms* autocomplete for 240M domain names]]></title>
-        <id>https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names</id>
-        <link href="https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names"/>
+        <title type="html"><![CDATA[Dataloupe – turn any CSV, Parquet, or Excel file into an offline HTML explorer]]></title>
+        <id>https://github.com/aurelio-nakamura/dataloupe</id>
+        <link href="https://github.com/aurelio-nakamura/dataloupe"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Workers Builds Are Degraded – Cloudflare Status]]></title>
-        <id>https://www.cloudflarestatus.com/incidents/yj2zk6n6rz1c</id>
-        <link href="https://www.cloudflarestatus.com/incidents/yj2zk6n6rz1c"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: ScriptSpool – Create code animations in the browser]]></title>
-        <id>https://scriptspool.pixzens.com/en</id>
-        <link href="https://scriptspool.pixzens.com/en"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Maps now shows "Lake America"]]></title>
-        <id>https://www.thehindu.com/news/international/google-maps-now-shows-lake-america-in-us-not-lake-ontario/article71409535.ece</id>
-        <link href="https://www.thehindu.com/news/international/google-maps-now-shows-lake-america-in-us-not-lake-ontario/article71409535.ece"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: St. Louis Food Map]]></title>
-        <id>https://stlouing.com/food/</id>
-        <link href="https://stlouing.com/food/"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building software factories (with no slop)]]></title>
-        <id>https://twitter.com/dzhng/status/2090252351533973768/</id>
-        <link href="https://twitter.com/dzhng/status/2090252351533973768/"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No-Code Self-Documenting Makefiles]]></title>
-        <id>https://github.com/bahmanm/bmakelib/releases/tag/v0.9.0</id>
-        <link href="https://github.com/bahmanm/bmakelib/releases/tag/v0.9.0"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accidental Aesthetics and Romance of Power Wires: Infrastructure Is Sexy]]></title>
-        <id>https://www.governance.fyi/p/accidental-aesthetics-and-romance</id>
-        <link href="https://www.governance.fyi/p/accidental-aesthetics-and-romance"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which AI Wrote This?]]></title>
-        <id>https://modelaccent.com</id>
-        <link href="https://modelaccent.com"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Civitas – A Civilization for AI Agents on GitHub]]></title>
-        <id>https://github.com/btahir/civitas</id>
-        <link href="https://github.com/btahir/civitas"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Format.js: Industry-standard internationalization libraries for JavaScript]]></title>
-        <id>https://formatjs.github.io/</id>
-        <link href="https://formatjs.github.io/"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could a Computer Scientist Build a Brain?]]></title>
-        <id>https://medium.com/@smazumder_20424/could-a-computer-scientist-build-a-brain-425ac8a09d03</id>
-        <link href="https://medium.com/@smazumder_20424/could-a-computer-scientist-build-a-brain-425ac8a09d03"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitea/Forgejo and Neovim]]></title>
-        <id>https://github.com/emrearmagan/atlas.nvim/tree/feat/gitea-forgejo</id>
-        <link href="https://github.com/emrearmagan/atlas.nvim/tree/feat/gitea-forgejo"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Monkey Selfie Copyright Dispute]]></title>
-        <id>https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute</id>
-        <link href="https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to combine exercise with video games]]></title>
-        <id>https://economist.com/science-and-technology/2026/08/28/how-to-combine-exercise-with-video-games</id>
-        <link href="https://economist.com/science-and-technology/2026/08/28/how-to-combine-exercise-with-video-games"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Car Sunroofs Keep 'Spontaneously' Exploding–and the Problem Is Getting Worse]]></title>
-        <id>https://www.wsj.com/business/autos/car-sunroofs-keep-spontaneously-explodingand-the-problem-is-getting-worse-b197d466</id>
-        <link href="https://www.wsj.com/business/autos/car-sunroofs-keep-spontaneously-explodingand-the-problem-is-getting-worse-b197d466"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Armageddon by Anthropomorphism: On Security and the Frontier]]></title>
-        <id>https://hardcoresoftware.learningbyshipping.com/p/242-armageddon-by-anthropomorphism</id>
-        <link href="https://hardcoresoftware.learningbyshipping.com/p/242-armageddon-by-anthropomorphism"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Maps Changes Lake Ontario to 'Lake America' on US Phones]]></title>
-        <id>https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america/</id>
-        <link href="https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america/"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor launches Origin code hosting platform as GitHub outage exposes opening]]></title>
-        <id>https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race</id>
-        <link href="https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn about Meshtastic and Austin Mesh]]></title>
-        <id>https://www.austinmesh.org/about/</id>
-        <link href="https://www.austinmesh.org/about/"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PocketJS: UI runtime for every kind of computer]]></title>
-        <id>https://pocketjs.dev/</id>
-        <link href="https://pocketjs.dev/"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reimagine-it – redesign existing HTML from its own content (CLI)]]></title>
-        <id>https://github.com/Kayforkind/reimagine-it</id>
-        <link href="https://github.com/Kayforkind/reimagine-it"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clips Kitty Open-source local AI video clipping and editing]]></title>
-        <id>https://github.com/ColinGPT9/clips-studio</id>
-        <link href="https://github.com/ColinGPT9/clips-studio"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Shapes of Agent Memory – Files, Stores, and Experience]]></title>
-        <id>https://pinglin.tw/blog/the-shapes-of-agent-memory/</id>
-        <link href="https://pinglin.tw/blog/the-shapes-of-agent-memory/"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot code review: Resolution reasons and expanded capabilities]]></title>
-        <id>https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities/</id>
-        <link href="https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities/"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Agents Make Discord Support Faster with SeaTicket]]></title>
-        <id>https://news.ycombinator.com/item?id=49506180</id>
-        <link href="https://news.ycombinator.com/item?id=49506180"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In less than a year, Google made scraping 10× harder]]></title>
-        <id>https://growtika.com/blog/google-goto-links-study</id>
-        <link href="https://growtika.com/blog/google-goto-links-study"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Aphantasia Lie [video]]]></title>
-        <id>https://www.youtube.com/watch?v=UyBikVRPh6c</id>
-        <link href="https://www.youtube.com/watch?v=UyBikVRPh6c"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: FlarePeek – a chrome extension for Cloudflare Worker developers]]></title>
-        <id>https://chromewebstore.google.com/detail/flarepeek-a-browser-exten/ffdbljcgdjkbbbbodnjbbgpahhnkfbnl</id>
-        <link href="https://chromewebstore.google.com/detail/flarepeek-a-browser-exten/ffdbljcgdjkbbbbodnjbbgpahhnkfbnl"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reckless Ben confronted Ideal Living's CEO over trafficking claims]]></title>
-        <id>https://thecreatorwire.com/article/reckless-ben-posed-as-doordash-delivery-to-confront-peter-spiegel-at-ideal-living</id>
-        <link href="https://thecreatorwire.com/article/reckless-ben-posed-as-doordash-delivery-to-confront-peter-spiegel-at-ideal-living"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Didn't Set a Cookie]]></title>
-        <id>https://belibre.be/cookies/</id>
-        <link href="https://belibre.be/cookies/"/>
+        <title type="html"><![CDATA[Historical Discoveries That Reshaped Modern Historical Understanding]]></title>
+        <id>https://thehistoricalinsights.page/2026/08/historical-discoveries.html</id>
+        <link href="https://thehistoricalinsights.page/2026/08/historical-discoveries.html"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
@@ -323,44 +127,240 @@
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inside Databricks Knowledge Assistant: The Architecture Behind Smarter, Faster Enterprise Search]]></title>
-        <id>https://pub.towardsai.net/inside-databricks-knowledge-assistant-the-architecture-behind-smarter-faster-enterprise-search-94fa9848027b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/inside-databricks-knowledge-assistant-the-architecture-behind-smarter-faster-enterprise-search-94fa9848027b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I Didn't Set a Cookie]]></title>
+        <id>https://belibre.be/cookies/</id>
+        <link href="https://belibre.be/cookies/"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[vLLM: The Intuitive Guide to Serving Large Language Models at High Speed]]></title>
-        <id>https://pub.towardsai.net/vllm-the-intuitive-guide-to-serving-large-language-models-at-high-speed-c05fb67a06a3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/vllm-the-intuitive-guide-to-serving-large-language-models-at-high-speed-c05fb67a06a3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Reckless Ben confronted Ideal Living's CEO over trafficking claims]]></title>
+        <id>https://thecreatorwire.com/article/reckless-ben-posed-as-doordash-delivery-to-confront-peter-spiegel-at-ideal-living</id>
+        <link href="https://thecreatorwire.com/article/reckless-ben-posed-as-doordash-delivery-to-confront-peter-spiegel-at-ideal-living"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization]]></title>
-        <id>https://arxiv.org/abs/2608.27507</id>
-        <link href="https://arxiv.org/abs/2608.27507"/>
+        <title type="html"><![CDATA[Show HN: FlarePeek – a chrome extension for Cloudflare Worker developers]]></title>
+        <id>https://chromewebstore.google.com/detail/flarepeek-a-browser-exten/ffdbljcgdjkbbbbodnjbbgpahhnkfbnl</id>
+        <link href="https://chromewebstore.google.com/detail/flarepeek-a-browser-exten/ffdbljcgdjkbbbbodnjbbgpahhnkfbnl"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Curvature-Aware Radius Shrinkage for Adaptive Nearest Neighbor Classification]]></title>
-        <id>https://arxiv.org/abs/2608.27634</id>
-        <link href="https://arxiv.org/abs/2608.27634"/>
+        <title type="html"><![CDATA[The Aphantasia Lie [video]]]></title>
+        <id>https://www.youtube.com/watch?v=UyBikVRPh6c</id>
+        <link href="https://www.youtube.com/watch?v=UyBikVRPh6c"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unsupervised Continual Learning with Growing Self-Organizing Maps and Synthetic Replay]]></title>
-        <id>https://arxiv.org/abs/2608.27662</id>
-        <link href="https://arxiv.org/abs/2608.27662"/>
+        <title type="html"><![CDATA[In less than a year, Google made scraping 10× harder]]></title>
+        <id>https://growtika.com/blog/google-goto-links-study</id>
+        <link href="https://growtika.com/blog/google-goto-links-study"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DART-FL: Burst-Aware Multitask Federated Learning under Dynamic Inference Demand at the Edge]]></title>
-        <id>https://arxiv.org/abs/2608.27713</id>
-        <link href="https://arxiv.org/abs/2608.27713"/>
+        <title type="html"><![CDATA[How AI Agents Make Discord Support Faster with SeaTicket]]></title>
+        <id>https://news.ycombinator.com/item?id=49506180</id>
+        <link href="https://news.ycombinator.com/item?id=49506180"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot code review: Resolution reasons and expanded capabilities]]></title>
+        <id>https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities/</id>
+        <link href="https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities/"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shapes of Agent Memory – Files, Stores, and Experience]]></title>
+        <id>https://pinglin.tw/blog/the-shapes-of-agent-memory/</id>
+        <link href="https://pinglin.tw/blog/the-shapes-of-agent-memory/"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clips Kitty Open-source local AI video clipping and editing]]></title>
+        <id>https://github.com/ColinGPT9/clips-studio</id>
+        <link href="https://github.com/ColinGPT9/clips-studio"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reimagine-it – redesign existing HTML from its own content (CLI)]]></title>
+        <id>https://github.com/Kayforkind/reimagine-it</id>
+        <link href="https://github.com/Kayforkind/reimagine-it"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PocketJS: UI runtime for every kind of computer]]></title>
+        <id>https://pocketjs.dev/</id>
+        <link href="https://pocketjs.dev/"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn about Meshtastic and Austin Mesh]]></title>
+        <id>https://www.austinmesh.org/about/</id>
+        <link href="https://www.austinmesh.org/about/"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor launches Origin code hosting platform as GitHub outage exposes opening]]></title>
+        <id>https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race</id>
+        <link href="https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Maps Changes Lake Ontario to 'Lake America' on US Phones]]></title>
+        <id>https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america/</id>
+        <link href="https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america/"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Armageddon by Anthropomorphism: On Security and the Frontier]]></title>
+        <id>https://hardcoresoftware.learningbyshipping.com/p/242-armageddon-by-anthropomorphism</id>
+        <link href="https://hardcoresoftware.learningbyshipping.com/p/242-armageddon-by-anthropomorphism"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Car Sunroofs Keep 'Spontaneously' Exploding–and the Problem Is Getting Worse]]></title>
+        <id>https://www.wsj.com/business/autos/car-sunroofs-keep-spontaneously-explodingand-the-problem-is-getting-worse-b197d466</id>
+        <link href="https://www.wsj.com/business/autos/car-sunroofs-keep-spontaneously-explodingand-the-problem-is-getting-worse-b197d466"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to combine exercise with video games]]></title>
+        <id>https://economist.com/science-and-technology/2026/08/28/how-to-combine-exercise-with-video-games</id>
+        <link href="https://economist.com/science-and-technology/2026/08/28/how-to-combine-exercise-with-video-games"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Monkey Selfie Copyright Dispute]]></title>
+        <id>https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute</id>
+        <link href="https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitea/Forgejo and Neovim]]></title>
+        <id>https://github.com/emrearmagan/atlas.nvim/tree/feat/gitea-forgejo</id>
+        <link href="https://github.com/emrearmagan/atlas.nvim/tree/feat/gitea-forgejo"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could a Computer Scientist Build a Brain?]]></title>
+        <id>https://medium.com/@smazumder_20424/could-a-computer-scientist-build-a-brain-425ac8a09d03</id>
+        <link href="https://medium.com/@smazumder_20424/could-a-computer-scientist-build-a-brain-425ac8a09d03"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Format.js: Industry-standard internationalization libraries for JavaScript]]></title>
+        <id>https://formatjs.github.io/</id>
+        <link href="https://formatjs.github.io/"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Civitas – A Civilization for AI Agents on GitHub]]></title>
+        <id>https://github.com/btahir/civitas</id>
+        <link href="https://github.com/btahir/civitas"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which AI Wrote This?]]></title>
+        <id>https://modelaccent.com</id>
+        <link href="https://modelaccent.com"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accidental Aesthetics and Romance of Power Wires: Infrastructure Is Sexy]]></title>
+        <id>https://www.governance.fyi/p/accidental-aesthetics-and-romance</id>
+        <link href="https://www.governance.fyi/p/accidental-aesthetics-and-romance"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No-Code Self-Documenting Makefiles]]></title>
+        <id>https://github.com/bahmanm/bmakelib/releases/tag/v0.9.0</id>
+        <link href="https://github.com/bahmanm/bmakelib/releases/tag/v0.9.0"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building software factories (with no slop)]]></title>
+        <id>https://twitter.com/dzhng/status/2090252351533973768/</id>
+        <link href="https://twitter.com/dzhng/status/2090252351533973768/"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: St. Louis Food Map]]></title>
+        <id>https://stlouing.com/food/</id>
+        <link href="https://stlouing.com/food/"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Maps now shows "Lake America"]]></title>
+        <id>https://www.thehindu.com/news/international/google-maps-now-shows-lake-america-in-us-not-lake-ontario/article71409535.ece</id>
+        <link href="https://www.thehindu.com/news/international/google-maps-now-shows-lake-america-in-us-not-lake-ontario/article71409535.ece"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: ScriptSpool – Create code animations in the browser]]></title>
+        <id>https://scriptspool.pixzens.com/en</id>
+        <link href="https://scriptspool.pixzens.com/en"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workers Builds Are Degraded – Cloudflare Status]]></title>
+        <id>https://www.cloudflarestatus.com/incidents/yj2zk6n6rz1c</id>
+        <link href="https://www.cloudflarestatus.com/incidents/yj2zk6n6rz1c"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P99 0 ms* autocomplete for 240M domain names]]></title>
+        <id>https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names</id>
+        <link href="https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvard Professor on Why You Should Learn C in 2026 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=vhgI_F-WMwA</id>
+        <link href="https://www.youtube.com/watch?v=vhgI_F-WMwA"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I tracked 55k free proxies for a week – 1.6% were alive]]></title>
+        <id>https://github.com/proxmint/free-proxy-list</id>
+        <link href="https://github.com/proxmint/free-proxy-list"/>
+        <updated>2026-08-30T16:00:00.000Z</updated>
+        <published>2026-08-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leica Freedom Train]]></title>
+        <id>https://en.wikipedia.org/wiki/Leica_Freedom_Train</id>
+        <link href="https://en.wikipedia.org/wiki/Leica_Freedom_Train"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
