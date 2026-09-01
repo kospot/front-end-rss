@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-01T00:02:05.227Z</updated>
+    <updated>2026-09-01T02:01:24.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等]]></title>
+        <id>https://sspai.com/post/114055</id>
+        <link href="https://sspai.com/post/114055"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markiplier is now GoPro’s biggest shareholder]]></title>
         <id>https://www.theverge.com/tech/986847/markiplier-gopro-investor</id>
@@ -57,13 +64,6 @@
         <published>2026-08-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clipto uses AI to search terabytes of video and is now valued at $250M]]></title>
-        <id>https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/</id>
-        <link href="https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson]]></title>
         <id>https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/</id>
         <link href="https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/"/>
@@ -71,16 +71,58 @@
         <published>2026-08-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carmack: Has early Scratch experience led to fulfilling careers?]]></title>
-        <id>https://twitter.com/ID_AA_Carmack/status/2094450188911845827</id>
-        <link href="https://twitter.com/ID_AA_Carmack/status/2094450188911845827"/>
+        <title type="html"><![CDATA[Clipto uses AI to search terabytes of video and is now valued at $250M]]></title>
+        <id>https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/</id>
+        <link href="https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"/>
         <updated>2026-08-31T16:00:00.000Z</updated>
         <published>2026-08-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Evidence of Fraud in an Influential Study About Procrastination]]></title>
-        <id>https://datacolada.org/138</id>
-        <link href="https://datacolada.org/138"/>
+        <title type="html"><![CDATA[Wendell Berry has died, age 92]]></title>
+        <id>https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html</id>
+        <link href="https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kale: A Transformation-Safe Spreadsheet System]]></title>
+        <id>https://arxiv.org/abs/2608.26345</id>
+        <link href="https://arxiv.org/abs/2608.26345"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miles v0.1: Production-level Post-training]]></title>
+        <id>https://www.lmsys.org/blog/2026-08-18-miles-v0-1/</id>
+        <link href="https://www.lmsys.org/blog/2026-08-18-miles-v0-1/"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Red Bar (visual and audible notifier of task completion)]]></title>
+        <id>https://github.com/gregsramblings/claude-red-bar</id>
+        <link href="https://github.com/gregsramblings/claude-red-bar"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs]]></title>
+        <id>https://www.dolthub.com/blog/2026-08-31-doltlite-beta/</id>
+        <link href="https://www.dolthub.com/blog/2026-08-31-doltlite-beta/"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles]]></title>
+        <id>https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/</id>
+        <link href="https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lake America shows up on Canadian websites after Google Maps update [video]]]></title>
+        <id>https://www.cbc.ca/player/play/video/9.7326181</id>
+        <link href="https://www.cbc.ca/player/play/video/9.7326181"/>
         <updated>2026-08-31T16:00:00.000Z</updated>
         <published>2026-08-31T16:00:00.000Z</published>
     </entry>
@@ -92,9 +134,16 @@
         <published>2026-08-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lake America shows up on Canadian websites after Google Maps update [video]]]></title>
-        <id>https://www.cbc.ca/player/play/video/9.7326181</id>
-        <link href="https://www.cbc.ca/player/play/video/9.7326181"/>
+        <title type="html"><![CDATA[Evidence of Fraud in an Influential Study About Procrastination]]></title>
+        <id>https://datacolada.org/138</id>
+        <link href="https://datacolada.org/138"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carmack: Has early Scratch experience led to fulfilling careers?]]></title>
+        <id>https://twitter.com/ID_AA_Carmack/status/2094450188911845827</id>
+        <link href="https://twitter.com/ID_AA_Carmack/status/2094450188911845827"/>
         <updated>2026-08-31T16:00:00.000Z</updated>
         <published>2026-08-31T16:00:00.000Z</published>
     </entry>
@@ -133,72 +182,16 @@ https://dev.to/narehate78/vat-helpline-vs-ad-hoc-vat-advisory-which-is-more-effe
         <published>2026-08-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I verified that an image resizer processes files locally]]></title>
-        <id>https://dev.to/roshandxt/how-i-verified-that-an-image-resizer-processes-files-locally-4j56</id>
-        <link href="https://dev.to/roshandxt/how-i-verified-that-an-image-resizer-processes-files-locally-4j56"/>
+        <title type="html"><![CDATA[A Clean React Project Structure for Scalable Applications]]></title>
+        <id>https://dev.to/mian_zain_a0631f81413b955/a-clean-react-project-structure-for-scalable-applications-2dgh</id>
+        <link href="https://dev.to/mian_zain_a0631f81413b955/a-clean-react-project-structure-for-scalable-applications-2dgh"/>
         <updated>2026-08-31T16:00:00.000Z</updated>
         <published>2026-08-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From scraper to stack: pushing Google Maps leads straight into GitHub with MCP connectors]]></title>
-        <id>https://dev.to/apify/from-scraper-to-stack-pushing-google-maps-leads-straight-into-github-with-mcp-connectors-43f3</id>
-        <link href="https://dev.to/apify/from-scraper-to-stack-pushing-google-maps-leads-straight-into-github-with-mcp-connectors-43f3"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I made SQL run inside a single, offline HTML file (no WASM)]]></title>
-        <id>https://dev.to/aurelionakamura/how-i-made-sql-run-inside-a-single-offline-html-file-no-wasm-3fk9</id>
-        <link href="https://dev.to/aurelionakamura/how-i-made-sql-run-inside-a-single-offline-html-file-no-wasm-3fk9"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I built a Chrome Extension to intercept Crypto Wallet Drains (EIP-2612 & ERC-20)]]></title>
-        <id>https://dev.to/xenovenom/how-i-built-a-chrome-extension-to-intercept-crypto-wallet-drains-eip-2612-erc-20-23ed</id>
-        <link href="https://dev.to/xenovenom/how-i-built-a-chrome-extension-to-intercept-crypto-wallet-drains-eip-2612-erc-20-23ed"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Full-Stack AI Creative Studio with Next.js, WebGPU, and Node.js: The Ultimate Capstone Blueprint]]></title>
-        <id>https://dev.to/programmingcentral/building-a-full-stack-ai-creative-studio-with-nextjs-webgpu-and-nodejs-the-ultimate-capstone-3kg0</id>
-        <link href="https://dev.to/programmingcentral/building-a-full-stack-ai-creative-studio-with-nextjs-webgpu-and-nodejs-the-ultimate-capstone-3kg0"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
-        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-1dia</id>
-        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-1dia"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A reactive JS framework for server-rendered apps — no Virtual DOM, no eval(), no build step required. Looking for critical feedback.]]></title>
-        <id>https://dev.to/kwy404/built-voodoojs-an-html-first-javascript-framework-with-reactivity-http-forms-and-no-virtual-249d</id>
-        <link href="https://dev.to/kwy404/built-voodoojs-an-html-first-javascript-framework-with-reactivity-http-forms-and-no-virtual-249d"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four JavaScript problems I hit writing a chess engine for the browser]]></title>
-        <id>https://dev.to/trkb/four-javascript-problems-i-hit-writing-a-chess-engine-for-the-browser-4e09</id>
-        <link href="https://dev.to/trkb/four-javascript-problems-i-hit-writing-a-chess-engine-for-the-browser-4e09"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge PDFs in the browser with JavaScript (no uploads, no server)]]></title>
-        <id>https://dev.to/jalalkhn/merge-pdfs-in-the-browser-with-javascript-no-uploads-no-server-213o</id>
-        <link href="https://dev.to/jalalkhn/merge-pdfs-in-the-browser-with-javascript-no-uploads-no-server-213o"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Only Rule Anybody States for Sim Is 570x Ambiguous, and Its Worst Reading Is 56x Worse Than Random]]></title>
-        <id>https://dev.to/dev48v/the-only-rule-anybody-states-for-sim-is-570x-ambiguous-and-its-worst-reading-is-56x-worse-than-4690</id>
-        <link href="https://dev.to/dev48v/the-only-rule-anybody-states-for-sim-is-570x-ambiguous-and-its-worst-reading-is-56x-worse-than-4690"/>
+        <title type="html"><![CDATA[Put the Longer Branch First Is a No-Op in grep and Changes 15.5% of Answers in JavaScript]]></title>
+        <id>https://dev.to/dev48v/put-the-longer-branch-first-is-a-no-op-in-grep-and-changes-155-of-answers-in-javascript-4h8l</id>
+        <link href="https://dev.to/dev48v/put-the-longer-branch-first-is-a-no-op-in-grep-and-changes-155-of-answers-in-javascript-4h8l"/>
         <updated>2026-08-31T16:00:00.000Z</updated>
         <published>2026-08-31T16:00:00.000Z</published>
     </entry>
@@ -210,9 +203,72 @@ https://dev.to/narehate78/vat-helpline-vs-ad-hoc-vat-advisory-which-is-more-effe
         <published>2026-08-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Put the Longer Branch First Is a No-Op in grep and Changes 15.5% of Answers in JavaScript]]></title>
-        <id>https://dev.to/dev48v/put-the-longer-branch-first-is-a-no-op-in-grep-and-changes-155-of-answers-in-javascript-4h8l</id>
-        <link href="https://dev.to/dev48v/put-the-longer-branch-first-is-a-no-op-in-grep-and-changes-155-of-answers-in-javascript-4h8l"/>
+        <title type="html"><![CDATA[The Only Rule Anybody States for Sim Is 570x Ambiguous, and Its Worst Reading Is 56x Worse Than Random]]></title>
+        <id>https://dev.to/dev48v/the-only-rule-anybody-states-for-sim-is-570x-ambiguous-and-its-worst-reading-is-56x-worse-than-4690</id>
+        <link href="https://dev.to/dev48v/the-only-rule-anybody-states-for-sim-is-570x-ambiguous-and-its-worst-reading-is-56x-worse-than-4690"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge PDFs in the browser with JavaScript (no uploads, no server)]]></title>
+        <id>https://dev.to/jalalkhn/merge-pdfs-in-the-browser-with-javascript-no-uploads-no-server-213o</id>
+        <link href="https://dev.to/jalalkhn/merge-pdfs-in-the-browser-with-javascript-no-uploads-no-server-213o"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four JavaScript problems I hit writing a chess engine for the browser]]></title>
+        <id>https://dev.to/trkb/four-javascript-problems-i-hit-writing-a-chess-engine-for-the-browser-4e09</id>
+        <link href="https://dev.to/trkb/four-javascript-problems-i-hit-writing-a-chess-engine-for-the-browser-4e09"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A reactive JS framework for server-rendered apps — no Virtual DOM, no eval(), no build step required. Looking for critical feedback.]]></title>
+        <id>https://dev.to/kwy404/built-voodoojs-an-html-first-javascript-framework-with-reactivity-http-forms-and-no-virtual-249d</id>
+        <link href="https://dev.to/kwy404/built-voodoojs-an-html-first-javascript-framework-with-reactivity-http-forms-and-no-virtual-249d"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
+        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-1dia</id>
+        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-1dia"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Full-Stack AI Creative Studio with Next.js, WebGPU, and Node.js: The Ultimate Capstone Blueprint]]></title>
+        <id>https://dev.to/programmingcentral/building-a-full-stack-ai-creative-studio-with-nextjs-webgpu-and-nodejs-the-ultimate-capstone-3kg0</id>
+        <link href="https://dev.to/programmingcentral/building-a-full-stack-ai-creative-studio-with-nextjs-webgpu-and-nodejs-the-ultimate-capstone-3kg0"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I built a Chrome Extension to intercept Crypto Wallet Drains (EIP-2612 & ERC-20)]]></title>
+        <id>https://dev.to/xenovenom/how-i-built-a-chrome-extension-to-intercept-crypto-wallet-drains-eip-2612-erc-20-23ed</id>
+        <link href="https://dev.to/xenovenom/how-i-built-a-chrome-extension-to-intercept-crypto-wallet-drains-eip-2612-erc-20-23ed"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I made SQL run inside a single, offline HTML file (no WASM)]]></title>
+        <id>https://dev.to/aurelionakamura/how-i-made-sql-run-inside-a-single-offline-html-file-no-wasm-3fk9</id>
+        <link href="https://dev.to/aurelionakamura/how-i-made-sql-run-inside-a-single-offline-html-file-no-wasm-3fk9"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From scraper to stack: pushing Google Maps leads straight into GitHub with MCP connectors]]></title>
+        <id>https://dev.to/apify/from-scraper-to-stack-pushing-google-maps-leads-straight-into-github-with-mcp-connectors-43f3</id>
+        <link href="https://dev.to/apify/from-scraper-to-stack-pushing-google-maps-leads-straight-into-github-with-mcp-connectors-43f3"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <published>2026-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I verified that an image resizer processes files locally]]></title>
+        <id>https://dev.to/roshandxt/how-i-verified-that-an-image-resizer-processes-files-locally-4j56</id>
+        <link href="https://dev.to/roshandxt/how-i-verified-that-an-image-resizer-processes-files-locally-4j56"/>
         <updated>2026-08-31T16:00:00.000Z</updated>
         <published>2026-08-31T16:00:00.000Z</published>
     </entry>
@@ -259,16 +315,9 @@ https://dev.to/narehate78/vat-helpline-vs-ad-hoc-vat-advisory-which-is-more-effe
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario]]></title>
-        <id>https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/</id>
-        <link href="https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The U.S. is building barriers around drones and robots, but China has scale to get around them]]></title>
-        <id>https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/</id>
-        <link href="https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"/>
+        <title type="html"><![CDATA[Meeting notetaker Circleback adds a free tier to attract more customers]]></title>
+        <id>https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/</id>
+        <link href="https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
@@ -280,93 +329,44 @@ https://dev.to/narehate78/vat-helpline-vs-ad-hoc-vat-advisory-which-is-more-effe
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meeting notetaker Circleback adds a free tier to attract more customers]]></title>
-        <id>https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/</id>
-        <link href="https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"/>
+        <title type="html"><![CDATA[The U.S. is building barriers around drones and robots, but China has scale to get around them]]></title>
+        <id>https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/</id>
+        <link href="https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Cast-Iron Company That Has Been Controlled by the Same Family for 130 Years]]></title>
-        <id>https://www.wsj.com/business/the-cast-iron-company-that-has-been-controlled-by-the-same-family-for-130-years-c3b55239</id>
-        <link href="https://www.wsj.com/business/the-cast-iron-company-that-has-been-controlled-by-the-same-family-for-130-years-c3b55239"/>
+        <title type="html"><![CDATA[MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario]]></title>
+        <id>https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/</id>
+        <link href="https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI in Education Knowledge Base]]></title>
-        <id>https://edtechdev.github.io/aied/</id>
-        <link href="https://edtechdev.github.io/aied/"/>
+        <title type="html"><![CDATA[ArchUnit for Python]]></title>
+        <id>https://github.com/LukasNiessen/ArchUnitPython</id>
+        <link href="https://github.com/LukasNiessen/ArchUnitPython"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A new class of memory-based AI (MIRaS) published this week]]></title>
-        <id>https://academic.oup.com/nar/article/54/16/gkag833/8769250</id>
-        <link href="https://academic.oup.com/nar/article/54/16/gkag833/8769250"/>
+        <title type="html"><![CDATA[WikiSkill: Compiling Agent Experience into Persistent KB for Skill Evolution]]></title>
+        <id>https://academy.dair.ai/papers/wikiskill-compiles-agent-experience-into-a-persistent-wiki-2608.27454</id>
+        <link href="https://academy.dair.ai/papers/wikiskill-compiles-agent-experience-into-a-persistent-wiki-2608.27454"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Let's build a digital clock [video]]]></title>
-        <id>https://www.youtube.com/watch?v=3XDH-fZKnQk</id>
-        <link href="https://www.youtube.com/watch?v=3XDH-fZKnQk"/>
+        <title type="html"><![CDATA[Following Google, Apple Maps Expected to Rename Lake Ontario as Lake America]]></title>
+        <id>https://macdailynews.com/2026/08/31/following-google-maps-apple-maps-expected-to-rename-lake-ontario-as-lake-america-soon/</id>
+        <link href="https://macdailynews.com/2026/08/31/following-google-maps-apple-maps-expected-to-rename-lake-ontario-as-lake-america-soon/"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Words to Worlds - world build in 100 words or less]]></title>
-        <id>https://wordstoworlds.com</id>
-        <link href="https://wordstoworlds.com"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new Go JSON API: twice as fast, or 1.5x slower? – Daniel Lemire's blog]]></title>
-        <id>https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/</id>
-        <link href="https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dataloupe – turn any CSV, Parquet, or Excel file into an offline HTML explorer]]></title>
-        <id>https://github.com/aurelio-nakamura/dataloupe</id>
-        <link href="https://github.com/aurelio-nakamura/dataloupe"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Historical Discoveries That Reshaped Modern Historical Understanding]]></title>
-        <id>https://thehistoricalinsights.page/2026/08/historical-discoveries.html</id>
-        <link href="https://thehistoricalinsights.page/2026/08/historical-discoveries.html"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Image Upscale]]></title>
-        <id>https://imagepeel.com/</id>
-        <link href="https://imagepeel.com/"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Didn't Set a Cookie]]></title>
-        <id>https://belibre.be/cookies/</id>
-        <link href="https://belibre.be/cookies/"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reckless Ben confronted Ideal Living's CEO over trafficking claims]]></title>
-        <id>https://thecreatorwire.com/article/reckless-ben-posed-as-doordash-delivery-to-confront-peter-spiegel-at-ideal-living</id>
-        <link href="https://thecreatorwire.com/article/reckless-ben-posed-as-doordash-delivery-to-confront-peter-spiegel-at-ideal-living"/>
-        <updated>2026-08-30T16:00:00.000Z</updated>
-        <published>2026-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: FlarePeek – a chrome extension for Cloudflare Worker developers]]></title>
-        <id>https://chromewebstore.google.com/detail/flarepeek-a-browser-exten/ffdbljcgdjkbbbbodnjbbgpahhnkfbnl</id>
-        <link href="https://chromewebstore.google.com/detail/flarepeek-a-browser-exten/ffdbljcgdjkbbbbodnjbbgpahhnkfbnl"/>
+        <title type="html"><![CDATA[Docker Hardened Images]]></title>
+        <id>https://docs.docker.com/dhi</id>
+        <link href="https://docs.docker.com/dhi"/>
         <updated>2026-08-30T16:00:00.000Z</updated>
         <published>2026-08-30T16:00:00.000Z</published>
     </entry>
