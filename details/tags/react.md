@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-01 21:02:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-01 23:02:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -128,14 +128,14 @@
 - [2026-08-29--We-built-a-fast-data-grid-across-React,-Vue-&amp;-Svelte-–-here's-what-we-learned-](
 https://svar.dev/blog/building-data-grid-in-react-vue-svelte/
 ) 
-- [2026-08-23--React-component-for-structured-queries-](
-https://github.com/evoluteur/structured-filter-react
+- [2026-08-23--React-component-for-bubble,-bars,-and-pie-charts,-with-animated-morphing-transitions-between-charts-](
+https://github.com/evoluteur/react-morph-charts
 ) 
 - [2026-08-23--How-React-Keeps-You-Logged-In-With-JWT-and-Zustand-](
 https://www.jstools.space/blog/react-jwt-zustand/
 ) 
-- [2026-08-23--React-component-for-bubble,-bars,-and-pie-charts,-with-animated-morphing-transitions-between-charts-](
-https://github.com/evoluteur/react-morph-charts
+- [2026-08-23--React-component-for-structured-queries-](
+https://github.com/evoluteur/structured-filter-react
 ) 
 - [2026-08-22-react/react](https://github.com/react/react) 
 - [2026-08-20-Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) 
@@ -161,19 +161,19 @@ https://reactdevelopment.substack.com/p/react-router-v8-in-action-lazy-loading
 - [2026-08-03-Information-Processing-by-Neuron-Populations-in-the-Central-Nervous-System:-A-Theory-of-the-Mathematical-Structure-of-Data-and-Operations](https://arxiv.org/abs/2309.02332) 
 - [2026-08-13-From-Factory-Pattern-to-ReAct:-How-Design-Patterns-Evolved-into-AI-Architecture](https://pub.towardsai.net/from-factory-pattern-to-react-how-design-patterns-evolved-into-ai-architecture-43fd8923a8cb?source=rss----98111c9905da---4) 
 - [2026-08-10-AI-Inference-Hooks:-Build-a-Policy-Gateway-Before-Prompts-Reach-the-Model](https://pub.towardsai.net/ai-inference-hooks-build-a-policy-gateway-before-prompts-reach-the-model-5af74f72988b?source=rss----98111c9905da---4) 
-- [2026-09-01-Show-HN:-HyperMarkdown,-streaming-Markdown-renderer-for-React](https://github.com/Aeven-AI/HyperMarkdown) 
 - [2026-09-01-Radiant-Wins-$750M-US-Army-Portable-Nuclear-Reactor-Deal-video](https://www.youtube.com/watch?v=1a90l6PAD1U) 
+- [2026-09-01-Show-HN:-HyperMarkdown,-streaming-Markdown-renderer-for-React](https://github.com/Aeven-AI/HyperMarkdown) 
 - [2026-08-29-ReactOS-0.4.16](https://reactos.org/project-news/reactos-0416-released/) 
 - [2026-08-25-React-Compiler-Linting-Just-Got-a-Rust-Native-Speedup-in-Oxlint](https://blog.master.dev/react-compiler-linting-just-got-a-rust-native-speedup-in-oxlint/) 
 - [2026-08-21-Making-React-Testing-Library-Tests-43%-Faster](https://sigh.dev/posts/making-react-testing-library-faster/) 
 - [2026-08-20-React-ScrollIntoView-and-UseRef:-Scroll-to-Any-Element](https://reactdevelopment.substack.com/p/react-scrollintoview-useref-scroll) 
-- [2026-08-17-Show-HN:-Adding-friction-to-my-automatic-open-Claude-reaction](https://news.ycombinator.com/item?id=49325617) 
 - [2026-08-17-It's-Happening-–-Europe-Is-Building-an-Impossible-Fusion-Reactor-video](https://www.youtube.com/watch?v=bPUAKW1Dyek) 
-- [2026-08-11-React-Native-Firebird](https://asfernandes.github.io/2026/08/09/react-native-firebird) 
+- [2026-08-17-Show-HN:-Adding-friction-to-my-automatic-open-Claude-reaction](https://news.ycombinator.com/item?id=49325617) 
 - [2026-08-11-Multi-agent-version-control-with-reactive-feedback](https://lexifina.com/blog/adding-a-multi-agent-write-lock) 
+- [2026-08-11-React-Native-Firebird](https://asfernandes.github.io/2026/08/09/react-native-firebird) 
 - [2026-08-07-Romania-blasts-rock-to-divert-water-from-drought-hit-Danube-to-nuclear-reactor](https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary) 
-- [2026-08-05-SpaceX's-AI-spending-unnerves-Wall-Street-despite-promises-of-quick-payoff](https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html) 
 - [2026-08-05-BrandArtisan-–-React-components-to-brand-PNGs,-no-browser](https://github.com/roslove44/brand-artisan) 
+- [2026-08-05-SpaceX's-AI-spending-unnerves-Wall-Street-despite-promises-of-quick-payoff](https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html) 
 - [2026-08-03-Romania-explodes-rock-to-get-more-water-flow-to-nuclear-reactor](https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates) 
 - [2026-08-19-TerraPower’s-nuclear-reactor-has-a-secret-weapon-for-powering-AI-data-centers](https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/) 
 - [2026-08-17-I’m-hooked-on-Peak-Design’s-new-City-bags](https://www.theverge.com/tech/980137/peak-design-city-line-review) 
