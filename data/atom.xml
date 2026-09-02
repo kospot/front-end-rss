@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-02T07:02:47.297Z</updated>
+    <updated>2026-09-02T10:02:53.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,13 +15,6 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[This new Roomba seals itself to your carpet]]></title>
-        <id>https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced</id>
-        <link href="https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apple Maps follows Google in renaming Lake Ontario]]></title>
         <id>https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming</id>
         <link href="https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming"/>
@@ -29,9 +22,9 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities]]></title>
-        <id>https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/</id>
-        <link href="https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/"/>
+        <title type="html"><![CDATA[This new Roomba seals itself to your carpet]]></title>
+        <id>https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced</id>
+        <link href="https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
@@ -39,6 +32,13 @@
         <title type="html"><![CDATA[The Diamond Moon and Other Astronomical Events to See in September 2026]]></title>
         <id>https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/</id>
         <link href="https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities]]></title>
+        <id>https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/</id>
+        <link href="https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
@@ -78,86 +78,44 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Syria was building a nuclear reactor under Assad, UN reports]]></title>
-        <id>https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2</id>
-        <link href="https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2"/>
+        <title type="html"><![CDATA[Can LLMs Discover Scientific Laws in Real and Parallel Worlds?]]></title>
+        <id>https://yiyihum.github.io/SciLaws-Bench/</id>
+        <link href="https://yiyihum.github.io/SciLaws-Bench/"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta's Muse Voice Transcribe handles real-time speech]]></title>
-        <id>https://forgeeks.net/meta-muse-voice-transcribe-release/</id>
-        <link href="https://forgeeks.net/meta-muse-voice-transcribe-release/"/>
+        <title type="html"><![CDATA[Pystebin: Executable Pastebin for Python in the Browser]]></title>
+        <id>https://www.pystebin.com/</id>
+        <link href="https://www.pystebin.com/"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bicycle Robot (2020) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=j6bNVqe_1xY</id>
-        <link href="https://www.youtube.com/watch?v=j6bNVqe_1xY"/>
+        <title type="html"><![CDATA[Code reviewing lone Lisp with Sol and Fable]]></title>
+        <id>https://www.matheusmoreira.com/articles/code-reviewing-lone-lisp-with-sol-and-fable</id>
+        <link href="https://www.matheusmoreira.com/articles/code-reviewing-lone-lisp-with-sol-and-fable"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Welcome to the 'You Can't Trust Your Own Eyes' Election]]></title>
-        <id>https://www.bloomberg.com/graphics/2026-opinion-ai-campaign-ads-need-more-safeguards/</id>
-        <link href="https://www.bloomberg.com/graphics/2026-opinion-ai-campaign-ads-need-more-safeguards/"/>
+        <title type="html"><![CDATA[Show HN: Aeglyn – pay-to-rank leaderboard for MCP servers]]></title>
+        <id>https://aeglyn.site</id>
+        <link href="https://aeglyn.site"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Simple Guide to Five Normal Forms in Relational Database Theory (1982)]]></title>
-        <id>https://www.bkent.net/Doc/simple5.htm</id>
-        <link href="https://www.bkent.net/Doc/simple5.htm"/>
+        <title type="html"><![CDATA[Howell Ivy, Co-Founder of Exidy and arcade gaming pioneer, has died]]></title>
+        <id>https://arcadeblogger.com/2026/06/25/exidys-howell-ivy/</id>
+        <link href="https://arcadeblogger.com/2026/06/25/exidys-howell-ivy/"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Racial Views of Winston Churchill]]></title>
-        <id>https://en.wikipedia.org/wiki/Racial_views_of_Winston_Churchill</id>
-        <link href="https://en.wikipedia.org/wiki/Racial_views_of_Winston_Churchill"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=dLTNVM1mhiU</id>
-        <link href="https://www.youtube.com/watch?v=dLTNVM1mhiU"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why CephFS commits writes faster than Ceph RBD on the same cluster]]></title>
-        <id>https://zozoo.io/aether-shared-filesystem-faster-than-block-storage/</id>
-        <link href="https://zozoo.io/aether-shared-filesystem-faster-than-block-storage/"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Maps Renames Lake Ontario 'Lake America']]></title>
-        <id>https://www.macrumors.com/2026/09/01/apple-maps-lake-america/</id>
-        <link href="https://www.macrumors.com/2026/09/01/apple-maps-lake-america/"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI to Restrict Astra Model After Rating It 'Critical' Cyber Risk]]></title>
-        <id>https://www.wsj.com/tech/ai/openai-to-restrict-astra-model-after-rating-it-critical-cyber-risk-499b5a46</id>
-        <link href="https://www.wsj.com/tech/ai/openai-to-restrict-astra-model-after-rating-it-critical-cyber-risk-499b5a46"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Presage – Kubernetes autoscaling that forecasts demand with TimesFM]]></title>
-        <id>https://github.com/breezycourses/presage</id>
-        <link href="https://github.com/breezycourses/presage"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smartwatch is lying to you about how many calories you burned, Study finds]]></title>
-        <id>https://news.fiu.edu/2026/your-smartwatch-is-lying-to-you-about-how-many-calories-you-burned-in-your-last-workout</id>
-        <link href="https://news.fiu.edu/2026/your-smartwatch-is-lying-to-you-about-how-many-calories-you-burned-in-your-last-workout"/>
+        <title type="html"><![CDATA[The efficient frontier of LLM inference]]></title>
+        <id>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</id>
+        <link href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
@@ -169,9 +127,86 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The efficient frontier of LLM inference]]></title>
-        <id>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</id>
-        <link href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"/>
+        <title type="html"><![CDATA[Smartwatch is lying to you about how many calories you burned, Study finds]]></title>
+        <id>https://news.fiu.edu/2026/your-smartwatch-is-lying-to-you-about-how-many-calories-you-burned-in-your-last-workout</id>
+        <link href="https://news.fiu.edu/2026/your-smartwatch-is-lying-to-you-about-how-many-calories-you-burned-in-your-last-workout"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presage – Kubernetes autoscaling that forecasts demand with TimesFM]]></title>
+        <id>https://github.com/breezycourses/presage</id>
+        <link href="https://github.com/breezycourses/presage"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI to Restrict Astra Model After Rating It 'Critical' Cyber Risk]]></title>
+        <id>https://www.wsj.com/tech/ai/openai-to-restrict-astra-model-after-rating-it-critical-cyber-risk-499b5a46</id>
+        <link href="https://www.wsj.com/tech/ai/openai-to-restrict-astra-model-after-rating-it-critical-cyber-risk-499b5a46"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Maps Renames Lake Ontario 'Lake America']]></title>
+        <id>https://www.macrumors.com/2026/09/01/apple-maps-lake-america/</id>
+        <link href="https://www.macrumors.com/2026/09/01/apple-maps-lake-america/"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why CephFS commits writes faster than Ceph RBD on the same cluster]]></title>
+        <id>https://zozoo.io/aether-shared-filesystem-faster-than-block-storage/</id>
+        <link href="https://zozoo.io/aether-shared-filesystem-faster-than-block-storage/"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=dLTNVM1mhiU</id>
+        <link href="https://www.youtube.com/watch?v=dLTNVM1mhiU"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Racial Views of Winston Churchill]]></title>
+        <id>https://en.wikipedia.org/wiki/Racial_views_of_Winston_Churchill</id>
+        <link href="https://en.wikipedia.org/wiki/Racial_views_of_Winston_Churchill"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Simple Guide to Five Normal Forms in Relational Database Theory (1982)]]></title>
+        <id>https://www.bkent.net/Doc/simple5.htm</id>
+        <link href="https://www.bkent.net/Doc/simple5.htm"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to the 'You Can't Trust Your Own Eyes' Election]]></title>
+        <id>https://www.bloomberg.com/graphics/2026-opinion-ai-campaign-ads-need-more-safeguards/</id>
+        <link href="https://www.bloomberg.com/graphics/2026-opinion-ai-campaign-ads-need-more-safeguards/"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bicycle Robot (2020) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=j6bNVqe_1xY</id>
+        <link href="https://www.youtube.com/watch?v=j6bNVqe_1xY"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta's Muse Voice Transcribe handles real-time speech]]></title>
+        <id>https://forgeeks.net/meta-muse-voice-transcribe-release/</id>
+        <link href="https://forgeeks.net/meta-muse-voice-transcribe-release/"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Syria was building a nuclear reactor under Assad, UN reports]]></title>
+        <id>https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2</id>
+        <link href="https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
@@ -326,41 +361,6 @@
         <title type="html"><![CDATA[Can LLMs Use Relational Transformer Embeddings?]]></title>
         <id>https://arxiv.org/abs/2609.00457</id>
         <link href="https://arxiv.org/abs/2609.00457"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VATO: A Vortex-Force-Aware Transformer Operator for Unsteady Separated Aerofoil Flows]]></title>
-        <id>https://arxiv.org/abs/2609.00507</id>
-        <link href="https://arxiv.org/abs/2609.00507"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeSyR: A Decoupled Symbolic Recovery Framework with PINN-Guided Structure Search and Physics-Informed Coefficient Refinement]]></title>
-        <id>https://arxiv.org/abs/2609.00530</id>
-        <link href="https://arxiv.org/abs/2609.00530"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GenONet: A Generative operator Network for High-Resolution Precipitation Nowcasting]]></title>
-        <id>https://arxiv.org/abs/2609.00544</id>
-        <link href="https://arxiv.org/abs/2609.00544"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manifold-Aware General Coded Computing for Straggler-Resilient Distributed Computing]]></title>
-        <id>https://arxiv.org/abs/2609.00552</id>
-        <link href="https://arxiv.org/abs/2609.00552"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EEG-VID: Task-Guided Latent Predictive Pretraining for EEG Decoding and Assistive Target Selection]]></title>
-        <id>https://arxiv.org/abs/2609.00566</id>
-        <link href="https://arxiv.org/abs/2609.00566"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
