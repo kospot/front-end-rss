@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-02T02:02:10.389Z</updated>
+    <updated>2026-09-02T04:02:44.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -155,16 +155,16 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Gallon Of Water Wasted On This]]></title>
-        <id>https://pub.towardsai.net/a-gallon-of-water-wasted-on-this-2504ee41be56?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/a-gallon-of-water-wasted-on-this-2504ee41be56?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[CrewAI X: The Four CrewAI Commands That Turn a Demo Into Something You Can Trust]]></title>
+        <id>https://pub.towardsai.net/crewai-x-the-four-crewai-commands-that-turn-a-demo-into-something-you-can-trust-a047f4254603?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/crewai-x-the-four-crewai-commands-that-turn-a-demo-into-something-you-can-trust-a047f4254603?source=rss----98111c9905da---4"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LangChain Just Made Frontier-Style Deep Agents Open Source]]></title>
-        <id>https://pub.towardsai.net/langchain-just-made-frontier-style-deep-agents-open-source-54dd1b45b99f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/langchain-just-made-frontier-style-deep-agents-open-source-54dd1b45b99f?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How Sub-2-Bit and 1-Bit Quantization Are Rewriting AI Infrastructure]]></title>
+        <id>https://pub.towardsai.net/how-sub-2-bit-and-1-bit-quantization-are-rewriting-ai-infrastructure-7c8cf512185d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-sub-2-bit-and-1-bit-quantization-are-rewriting-ai-infrastructure-7c8cf512185d?source=rss----98111c9905da---4"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
@@ -176,6 +176,20 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LangChain Just Made Frontier-Style Deep Agents Open Source]]></title>
+        <id>https://pub.towardsai.net/langchain-just-made-frontier-style-deep-agents-open-source-54dd1b45b99f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/langchain-just-made-frontier-style-deep-agents-open-source-54dd1b45b99f?source=rss----98111c9905da---4"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Gallon Of Water Wasted On This]]></title>
+        <id>https://pub.towardsai.net/a-gallon-of-water-wasted-on-this-2504ee41be56?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-gallon-of-water-wasted-on-this-2504ee41be56?source=rss----98111c9905da---4"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GeoJSON Map Viewer]]></title>
         <id>https://simonwillison.net/2026/Sep/1/geojson/</id>
         <link href="https://simonwillison.net/2026/Sep/1/geojson/"/>
@@ -183,185 +197,171 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Minify and Beautify HTML, JS, and CSS in the Browser Without a Backend]]></title>
-        <id>https://dev.to/ggwork/how-to-minify-and-beautify-html-js-and-css-in-the-browser-without-a-backend-1hpg</id>
-        <link href="https://dev.to/ggwork/how-to-minify-and-beautify-html-js-and-css-in-the-browser-without-a-backend-1hpg"/>
+        <title type="html"><![CDATA[REAL-Q: E2E LLM Quantization via Dynamic Gradient Descent]]></title>
+        <id>https://arxiv.org/abs/2609.00049</id>
+        <link href="https://arxiv.org/abs/2609.00049"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building the MyZubster Metaverse: From a Shared Neon Plaza to a Federated Open World]]></title>
-        <id>https://dev.to/danielioni/building-the-myzubster-metaverse-from-a-shared-neon-plaza-to-a-federated-open-world-3108</id>
-        <link href="https://dev.to/danielioni/building-the-myzubster-metaverse-from-a-shared-neon-plaza-to-a-federated-open-world-3108"/>
+        <title type="html"><![CDATA[Convergence issues in Relational Concept Analysis based on AOC-posets]]></title>
+        <id>https://arxiv.org/abs/2609.00054</id>
+        <link href="https://arxiv.org/abs/2609.00054"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turning Google Search Console Exports Into Actionable SEO Data]]></title>
-        <id>https://dev.to/palks_studio/turning-google-search-console-exports-into-actionable-seo-data-44</id>
-        <link href="https://dev.to/palks_studio/turning-google-search-console-exports-into-actionable-seo-data-44"/>
+        <title type="html"><![CDATA[ReNFT: Repairing Mode Collapse in Reward Post-Training via Internal Probability-Mass Recalibration]]></title>
+        <id>https://arxiv.org/abs/2609.00061</id>
+        <link href="https://arxiv.org/abs/2609.00061"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I Built an Image Converter That Never Touches a Server]]></title>
-        <id>https://dev.to/fianso_algeriano_7289cd6c/why-i-built-an-image-converter-that-never-touches-a-server-3de5</id>
-        <link href="https://dev.to/fianso_algeriano_7289cd6c/why-i-built-an-image-converter-that-never-touches-a-server-3de5"/>
+        <title type="html"><![CDATA[RW-LoRA: Communication-Efficient Decentralized LoRA Fine-Tuning via Random Walks]]></title>
+        <id>https://arxiv.org/abs/2609.00078</id>
+        <link href="https://arxiv.org/abs/2609.00078"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debugging Async/Await Deadlocks in JavaScript: Proven Strategies to Fix Stalled Promises]]></title>
-        <id>https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-proven-strategies-to-fix-stalled-promises-432h</id>
-        <link href="https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-proven-strategies-to-fix-stalled-promises-432h"/>
+        <title type="html"><![CDATA[Stochastic complexity of vectors containing cluster structure]]></title>
+        <id>https://arxiv.org/abs/2609.00084</id>
+        <link href="https://arxiv.org/abs/2609.00084"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[async/await without the pitfalls]]></title>
-        <id>https://dev.to/stackhorizon/asyncawait-without-the-pitfalls-3g15</id>
-        <link href="https://dev.to/stackhorizon/asyncawait-without-the-pitfalls-3g15"/>
+        <title type="html"><![CDATA[Foundation models for electricity price forecasting and battery arbitrage: Can they replace market-specific forecasting models?]]></title>
+        <id>https://arxiv.org/abs/2609.00089</id>
+        <link href="https://arxiv.org/abs/2609.00089"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Split PDF Pages in the Browser with pdf-lib — No Uploads, No Server]]></title>
-        <id>https://dev.to/jalalkhn/split-pdf-pages-in-the-browser-with-pdf-lib-no-uploads-no-server-504p</id>
-        <link href="https://dev.to/jalalkhn/split-pdf-pages-in-the-browser-with-pdf-lib-no-uploads-no-server-504p"/>
+        <title type="html"><![CDATA[Assessing Alignment and Stability of Feature Importance Explanations via Weight of Evidence]]></title>
+        <id>https://arxiv.org/abs/2609.00090</id>
+        <link href="https://arxiv.org/abs/2609.00090"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I shipped a word finder as one 99KB HTML file with no build step]]></title>
-        <id>https://dev.to/the5letterwords/i-shipped-a-word-finder-as-one-99kb-html-file-with-no-build-step-4cli</id>
-        <link href="https://dev.to/the5letterwords/i-shipped-a-word-finder-as-one-99kb-html-file-with-no-build-step-4cli"/>
+        <title type="html"><![CDATA[Local Reference Geometry Residual Augmentation for Imbalanced Time Series Classification]]></title>
+        <id>https://arxiv.org/abs/2609.00093</id>
+        <link href="https://arxiv.org/abs/2609.00093"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build Your First Interactive HTML5 Canvas (A Beginner's Guide to Web Graphics)"]]></title>
-        <id>https://dev.to/kayani/how-to-build-your-first-interactive-html5-canvas-a-beginners-guide-to-web-graphics-1fle</id>
-        <link href="https://dev.to/kayani/how-to-build-your-first-interactive-html5-canvas-a-beginners-guide-to-web-graphics-1fle"/>
+        <title type="html"><![CDATA[Faster Than Flash: Exploiting Attention Sparsity for Efficient Long-Context Decoding]]></title>
+        <id>https://arxiv.org/abs/2609.00097</id>
+        <link href="https://arxiv.org/abs/2609.00097"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Got One Astro Codebase to Run on Node and Cloudflare Workers]]></title>
-        <id>https://dev.to/knot_crochet_dbb4379fde5d/how-i-got-one-astro-codebase-to-run-on-node-and-cloudflare-workers-5524</id>
-        <link href="https://dev.to/knot_crochet_dbb4379fde5d/how-i-got-one-astro-codebase-to-run-on-node-and-cloudflare-workers-5524"/>
+        <title type="html"><![CDATA[QTEA: Ternary LLMs with Sparse Residual Salient Weight and By-Column Optimization]]></title>
+        <id>https://arxiv.org/abs/2609.00224</id>
+        <link href="https://arxiv.org/abs/2609.00224"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Validate Email Addresses in Node.js Before Sending Transactional Emails]]></title>
-        <id>https://dev.to/gamalogic_64e23/how-to-validate-email-addresses-in-nodejs-before-sending-transactional-emails-2k4</id>
-        <link href="https://dev.to/gamalogic_64e23/how-to-validate-email-addresses-in-nodejs-before-sending-transactional-emails-2k4"/>
+        <title type="html"><![CDATA[Geometry-aware Latent Autoregressive Generative Model for PDEs in Complex Domains]]></title>
+        <id>https://arxiv.org/abs/2609.00297</id>
+        <link href="https://arxiv.org/abs/2609.00297"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Podcast Show Notes & Episode Outline Generator — Free Transcribe.fm Alternative]]></title>
-        <id>https://dev.to/jack_green_7b74cb2cdf9e23/podcast-show-notes-episode-outline-generator-free-transcribefm-alternative-378d</id>
-        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/podcast-show-notes-episode-outline-generator-free-transcribefm-alternative-378d"/>
+        <title type="html"><![CDATA[Deterministic LLM Inference Across GPU Kernels: Power-of-Two INT8 Quantization Scales and the Limits of Tolerance-Based Conformance]]></title>
+        <id>https://arxiv.org/abs/2609.00363</id>
+        <link href="https://arxiv.org/abs/2609.00363"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arrays in JavaScript]]></title>
-        <id>https://dev.to/ragul_kannadasan/arrays-in-javascript-17g4</id>
-        <link href="https://dev.to/ragul_kannadasan/arrays-in-javascript-17g4"/>
+        <title type="html"><![CDATA[Adapting Without Gradients: Affine Statistics Transport and What Its Certificate Can Tell You]]></title>
+        <id>https://arxiv.org/abs/2609.00374</id>
+        <link href="https://arxiv.org/abs/2609.00374"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Went Looking for Why Lenis Beat Locomotive Scroll. The Real Story Surprised Me.]]></title>
-        <id>https://dev.to/keymelgaston/i-went-looking-for-why-lenis-beat-locomotive-scroll-the-real-story-surprised-me-4ed3</id>
-        <link href="https://dev.to/keymelgaston/i-went-looking-for-why-lenis-beat-locomotive-scroll-the-real-story-surprised-me-4ed3"/>
+        <title type="html"><![CDATA[HBQ: Hierarchical Scaling Block Quantization with Hardware-Efficiency-Aware Design for Accurate LLM Inference]]></title>
+        <id>https://arxiv.org/abs/2609.00450</id>
+        <link href="https://arxiv.org/abs/2609.00450"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Axios Still Matters in Modern Node.js and Browser Stacks]]></title>
-        <id>https://dev.to/james_lin/why-axios-still-matters-in-modern-nodejs-and-browser-stacks-7k0</id>
-        <link href="https://dev.to/james_lin/why-axios-still-matters-in-modern-nodejs-and-browser-stacks-7k0"/>
+        <title type="html"><![CDATA[Can LLMs Use Relational Transformer Embeddings?]]></title>
+        <id>https://arxiv.org/abs/2609.00457</id>
+        <link href="https://arxiv.org/abs/2609.00457"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSONPath Cheat Sheet: Syntax, Examples & Common Mistakes]]></title>
-        <id>https://dev.to/jsonutiltools/jsonpath-cheat-sheet-syntax-examples-common-mistakes-2h4b</id>
-        <link href="https://dev.to/jsonutiltools/jsonpath-cheat-sheet-syntax-examples-common-mistakes-2h4b"/>
+        <title type="html"><![CDATA[VATO: A Vortex-Force-Aware Transformer Operator for Unsteady Separated Aerofoil Flows]]></title>
+        <id>https://arxiv.org/abs/2609.00507</id>
+        <link href="https://arxiv.org/abs/2609.00507"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等]]></title>
-        <id>https://sspai.com/post/114055</id>
-        <link href="https://sspai.com/post/114055"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
+        <title type="html"><![CDATA[DeSyR: A Decoupled Symbolic Recovery Framework with PINN-Guided Structure Search and Physics-Informed Coefficient Refinement]]></title>
+        <id>https://arxiv.org/abs/2609.00530</id>
+        <link href="https://arxiv.org/abs/2609.00530"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get ready for a really busy month of smartphones]]></title>
-        <id>https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi</id>
-        <link href="https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
+        <title type="html"><![CDATA[GenONet: A Generative operator Network for High-Resolution Precipitation Nowcasting]]></title>
+        <id>https://arxiv.org/abs/2609.00544</id>
+        <link href="https://arxiv.org/abs/2609.00544"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower]]></title>
-        <id>https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27</id>
-        <link href="https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Manifold-Aware General Coded Computing for Straggler-Resilient Distributed Computing]]></title>
+        <id>https://arxiv.org/abs/2609.00552</id>
+        <link href="https://arxiv.org/abs/2609.00552"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mozilla launches ad blocking for Firefox on iOS]]></title>
-        <id>https://www.theverge.com/news/987247/mozilla-firefox-ad-blocker-ios-launch</id>
-        <link href="https://www.theverge.com/news/987247/mozilla-firefox-ad-blocker-ios-launch"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
+        <title type="html"><![CDATA[EEG-VID: Task-Guided Latent Predictive Pretraining for EEG Decoding and Assistive Target Selection]]></title>
+        <id>https://arxiv.org/abs/2609.00566</id>
+        <link href="https://arxiv.org/abs/2609.00566"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I went to the loneliest baseball game on Apple Vision Pro]]></title>
-        <id>https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game</id>
-        <link href="https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
+        <title type="html"><![CDATA[GeoPAR: Large-Scale Multi-Agent Combinatorial Optimization with Geometry-Guided Parallel Autoregressive Learning]]></title>
+        <id>https://arxiv.org/abs/2609.00577</id>
+        <link href="https://arxiv.org/abs/2609.00577"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alienware’s budget-friendly QD-OLED is discounted for the first time]]></title>
-        <id>https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Confess What You Know: Forget-Set Misalignment with Model Knowledge in LLM Unlearning]]></title>
+        <id>https://arxiv.org/abs/2609.00605</id>
+        <link href="https://arxiv.org/abs/2609.00605"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Markiplier is now GoPro’s biggest shareholder]]></title>
-        <id>https://www.theverge.com/tech/986847/markiplier-gopro-investor</id>
-        <link href="https://www.theverge.com/tech/986847/markiplier-gopro-investor"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
+        <title type="html"><![CDATA[HarmoCore: Functional Latent Diffusion for Sparse Reconstruction of Oscillatory Wave Fields]]></title>
+        <id>https://arxiv.org/abs/2609.00679</id>
+        <link href="https://arxiv.org/abs/2609.00679"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IFA 2026: the biggest tech and gadget announcements]]></title>
-        <id>https://www.theverge.com/tech/986178/ifa-2026-the-biggest-tech-and-gadget-announcements</id>
-        <link href="https://www.theverge.com/tech/986178/ifa-2026-the-biggest-tech-and-gadget-announcements"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A day-one briefing for Apple’s new CEO]]></title>
-        <id>https://www.theverge.com/tech/987066/john-ternus-day-one-apple-ceo-briefing</id>
-        <link href="https://www.theverge.com/tech/987066/john-ternus-day-one-apple-ceo-briefing"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poco’s F9 Ultra pairs an ultra-bright display with a glowing Bose subwoofer]]></title>
-        <id>https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose</id>
-        <link href="https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose"/>
-        <updated>2026-08-31T16:00:00.000Z</updated>
-        <published>2026-08-31T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Patterning in Practice: Debiasing Reward Models with Susceptibilities]]></title>
+        <id>https://arxiv.org/abs/2609.00699</id>
+        <link href="https://arxiv.org/abs/2609.00699"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
     </entry>
 </feed>
