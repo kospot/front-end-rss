@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-02T04:02:44.086Z</updated>
+    <updated>2026-09-02T07:02:47.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[This new Roomba seals itself to your carpet]]></title>
+        <id>https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced</id>
+        <link href="https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple Maps follows Google in renaming Lake Ontario]]></title>
         <id>https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming</id>
         <link href="https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming"/>
@@ -22,16 +29,16 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Diamond Moon and Other Astronomical Events to See in September 2026]]></title>
-        <id>https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/</id>
-        <link href="https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/"/>
+        <title type="html"><![CDATA[OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities]]></title>
+        <id>https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/</id>
+        <link href="https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities]]></title>
-        <id>https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/</id>
-        <link href="https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/"/>
+        <title type="html"><![CDATA[The Diamond Moon and Other Astronomical Events to See in September 2026]]></title>
+        <id>https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/</id>
+        <link href="https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
@@ -71,72 +78,23 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The efficient frontier of LLM inference]]></title>
-        <id>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</id>
-        <link href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"/>
+        <title type="html"><![CDATA[Syria was building a nuclear reactor under Assad, UN reports]]></title>
+        <id>https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2</id>
+        <link href="https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub CLI: Media in issues, pull requests, and comments]]></title>
-        <id>https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments/</id>
-        <link href="https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments/"/>
+        <title type="html"><![CDATA[Meta's Muse Voice Transcribe handles real-time speech]]></title>
+        <id>https://forgeeks.net/meta-muse-voice-transcribe-release/</id>
+        <link href="https://forgeeks.net/meta-muse-voice-transcribe-release/"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smartwatch is lying to you about how many calories you burned, Study finds]]></title>
-        <id>https://news.fiu.edu/2026/your-smartwatch-is-lying-to-you-about-how-many-calories-you-burned-in-your-last-workout</id>
-        <link href="https://news.fiu.edu/2026/your-smartwatch-is-lying-to-you-about-how-many-calories-you-burned-in-your-last-workout"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Presage – Kubernetes autoscaling that forecasts demand with TimesFM]]></title>
-        <id>https://github.com/breezycourses/presage</id>
-        <link href="https://github.com/breezycourses/presage"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI to Restrict Astra Model After Rating It 'Critical' Cyber Risk]]></title>
-        <id>https://www.wsj.com/tech/ai/openai-to-restrict-astra-model-after-rating-it-critical-cyber-risk-499b5a46</id>
-        <link href="https://www.wsj.com/tech/ai/openai-to-restrict-astra-model-after-rating-it-critical-cyber-risk-499b5a46"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Maps Renames Lake Ontario 'Lake America']]></title>
-        <id>https://www.macrumors.com/2026/09/01/apple-maps-lake-america/</id>
-        <link href="https://www.macrumors.com/2026/09/01/apple-maps-lake-america/"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why CephFS commits writes faster than Ceph RBD on the same cluster]]></title>
-        <id>https://zozoo.io/aether-shared-filesystem-faster-than-block-storage/</id>
-        <link href="https://zozoo.io/aether-shared-filesystem-faster-than-block-storage/"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=dLTNVM1mhiU</id>
-        <link href="https://www.youtube.com/watch?v=dLTNVM1mhiU"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Racial Views of Winston Churchill]]></title>
-        <id>https://en.wikipedia.org/wiki/Racial_views_of_Winston_Churchill</id>
-        <link href="https://en.wikipedia.org/wiki/Racial_views_of_Winston_Churchill"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Simple Guide to Five Normal Forms in Relational Database Theory (1982)]]></title>
-        <id>https://www.bkent.net/Doc/simple5.htm</id>
-        <link href="https://www.bkent.net/Doc/simple5.htm"/>
+        <title type="html"><![CDATA[Bicycle Robot (2020) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=j6bNVqe_1xY</id>
+        <link href="https://www.youtube.com/watch?v=j6bNVqe_1xY"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
@@ -148,6 +106,76 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Simple Guide to Five Normal Forms in Relational Database Theory (1982)]]></title>
+        <id>https://www.bkent.net/Doc/simple5.htm</id>
+        <link href="https://www.bkent.net/Doc/simple5.htm"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Racial Views of Winston Churchill]]></title>
+        <id>https://en.wikipedia.org/wiki/Racial_views_of_Winston_Churchill</id>
+        <link href="https://en.wikipedia.org/wiki/Racial_views_of_Winston_Churchill"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=dLTNVM1mhiU</id>
+        <link href="https://www.youtube.com/watch?v=dLTNVM1mhiU"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why CephFS commits writes faster than Ceph RBD on the same cluster]]></title>
+        <id>https://zozoo.io/aether-shared-filesystem-faster-than-block-storage/</id>
+        <link href="https://zozoo.io/aether-shared-filesystem-faster-than-block-storage/"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Maps Renames Lake Ontario 'Lake America']]></title>
+        <id>https://www.macrumors.com/2026/09/01/apple-maps-lake-america/</id>
+        <link href="https://www.macrumors.com/2026/09/01/apple-maps-lake-america/"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI to Restrict Astra Model After Rating It 'Critical' Cyber Risk]]></title>
+        <id>https://www.wsj.com/tech/ai/openai-to-restrict-astra-model-after-rating-it-critical-cyber-risk-499b5a46</id>
+        <link href="https://www.wsj.com/tech/ai/openai-to-restrict-astra-model-after-rating-it-critical-cyber-risk-499b5a46"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presage – Kubernetes autoscaling that forecasts demand with TimesFM]]></title>
+        <id>https://github.com/breezycourses/presage</id>
+        <link href="https://github.com/breezycourses/presage"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smartwatch is lying to you about how many calories you burned, Study finds]]></title>
+        <id>https://news.fiu.edu/2026/your-smartwatch-is-lying-to-you-about-how-many-calories-you-burned-in-your-last-workout</id>
+        <link href="https://news.fiu.edu/2026/your-smartwatch-is-lying-to-you-about-how-many-calories-you-burned-in-your-last-workout"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub CLI: Media in issues, pull requests, and comments]]></title>
+        <id>https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments/</id>
+        <link href="https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments/"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The efficient frontier of LLM inference]]></title>
+        <id>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</id>
+        <link href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How AI-native companies turn workflows into operating capability]]></title>
         <id>https://openai.com/index/ai-native-company-workflows</id>
         <link href="https://openai.com/index/ai-native-company-workflows"/>
@@ -155,23 +183,9 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CrewAI X: The Four CrewAI Commands That Turn a Demo Into Something You Can Trust]]></title>
-        <id>https://pub.towardsai.net/crewai-x-the-four-crewai-commands-that-turn-a-demo-into-something-you-can-trust-a047f4254603?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/crewai-x-the-four-crewai-commands-that-turn-a-demo-into-something-you-can-trust-a047f4254603?source=rss----98111c9905da---4"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Sub-2-Bit and 1-Bit Quantization Are Rewriting AI Infrastructure]]></title>
-        <id>https://pub.towardsai.net/how-sub-2-bit-and-1-bit-quantization-are-rewriting-ai-infrastructure-7c8cf512185d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-sub-2-bit-and-1-bit-quantization-are-rewriting-ai-infrastructure-7c8cf512185d?source=rss----98111c9905da---4"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Frontier LLMs Fail to Judge AI Research: Inside Anthropic’s TASTE Benchmark]]></title>
-        <id>https://pub.towardsai.net/why-frontier-llms-fail-to-judge-ai-research-inside-anthropics-taste-benchmark-a29a59b5f459?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-frontier-llms-fail-to-judge-ai-research-inside-anthropics-taste-benchmark-a29a59b5f459?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[A Gallon Of Water Wasted On This]]></title>
+        <id>https://pub.towardsai.net/a-gallon-of-water-wasted-on-this-2504ee41be56?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-gallon-of-water-wasted-on-this-2504ee41be56?source=rss----98111c9905da---4"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
@@ -183,9 +197,23 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Gallon Of Water Wasted On This]]></title>
-        <id>https://pub.towardsai.net/a-gallon-of-water-wasted-on-this-2504ee41be56?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/a-gallon-of-water-wasted-on-this-2504ee41be56?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why Frontier LLMs Fail to Judge AI Research: Inside Anthropic’s TASTE Benchmark]]></title>
+        <id>https://pub.towardsai.net/why-frontier-llms-fail-to-judge-ai-research-inside-anthropics-taste-benchmark-a29a59b5f459?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-frontier-llms-fail-to-judge-ai-research-inside-anthropics-taste-benchmark-a29a59b5f459?source=rss----98111c9905da---4"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Sub-2-Bit and 1-Bit Quantization Are Rewriting AI Infrastructure]]></title>
+        <id>https://pub.towardsai.net/how-sub-2-bit-and-1-bit-quantization-are-rewriting-ai-infrastructure-7c8cf512185d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-sub-2-bit-and-1-bit-quantization-are-rewriting-ai-infrastructure-7c8cf512185d?source=rss----98111c9905da---4"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CrewAI X: The Four CrewAI Commands That Turn a Demo Into Something You Can Trust]]></title>
+        <id>https://pub.towardsai.net/crewai-x-the-four-crewai-commands-that-turn-a-demo-into-something-you-can-trust-a047f4254603?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/crewai-x-the-four-crewai-commands-that-turn-a-demo-into-something-you-can-trust-a047f4254603?source=rss----98111c9905da---4"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
@@ -333,34 +361,6 @@
         <title type="html"><![CDATA[EEG-VID: Task-Guided Latent Predictive Pretraining for EEG Decoding and Assistive Target Selection]]></title>
         <id>https://arxiv.org/abs/2609.00566</id>
         <link href="https://arxiv.org/abs/2609.00566"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeoPAR: Large-Scale Multi-Agent Combinatorial Optimization with Geometry-Guided Parallel Autoregressive Learning]]></title>
-        <id>https://arxiv.org/abs/2609.00577</id>
-        <link href="https://arxiv.org/abs/2609.00577"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Confess What You Know: Forget-Set Misalignment with Model Knowledge in LLM Unlearning]]></title>
-        <id>https://arxiv.org/abs/2609.00605</id>
-        <link href="https://arxiv.org/abs/2609.00605"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HarmoCore: Functional Latent Diffusion for Sparse Reconstruction of Oscillatory Wave Fields]]></title>
-        <id>https://arxiv.org/abs/2609.00679</id>
-        <link href="https://arxiv.org/abs/2609.00679"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patterning in Practice: Debiasing Reward Models with Susceptibilities]]></title>
-        <id>https://arxiv.org/abs/2609.00699</id>
-        <link href="https://arxiv.org/abs/2609.00699"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
