@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-02 08:01:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-02 10:02:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -8,25 +8,25 @@
 
 
 - [2026-08-28-HelloGitHub-第-125-期](https://hellogithub.com/periodical/volume/125) 
-- [2026-08-31-Top-10-Sites-To-Buy-Old-Github-Accounts-In-2026-27](https://dev.to/tove_villalobos_e3872369d/top-10-sites-to-buy-old-github-accounts-in-2026-27-1ef3) 
 - [2026-08-31-Understanding-GitHub-OAuth-Login](https://dev.to/sanuranjan/understanding-github-oauth-login-1fa4) 
+- [2026-08-31-Top-10-Sites-To-Buy-Old-Github-Accounts-In-2026-27](https://dev.to/tove_villalobos_e3872369d/top-10-sites-to-buy-old-github-accounts-in-2026-27-1ef3) 
 - [2026-08-26-Digital-Business-Card-/-vCard-Generator-—-100%-Free,-No-Subscription](https://dev.to/jack_green_7b74cb2cdf9e23/digital-business-card-vcard-generator-100-free-no-subscription-469p) 
 - [2026-08-25-AgenticVani-Services:-Digital-CRM,-Salon-Management-&amp;-Business-Productivity-Solutions](https://dev.to/agentic_vani_15cf0f01c9ff/agenticvani-services-digital-crm-salon-management-business-productivity-solutions-4d57) 
 - [2026-08-22-Best-Web-Development-Course-in-Laxminagar:-Build-Skills-for-a-Successful-Digital-Career](https://dev.to/shahin_981ca06dd02c65874f/best-web-development-course-in-laxminagar-build-skills-for-a-successful-digital-career-1hba) 
-- [2026-08-21-How-to-Automate-i18n-Translations-with-GitHub-Actions:-3-Approaches](https://dev.to/arvid_andersson_0a598fa45/how-to-automate-i18n-translations-with-github-actions-3-approaches-48nd) 
 - [2026-08-21-gitignore-is-not-a-security-control](https://dev.to/veristria/gitignore-is-not-a-security-control-2gok) 
+- [2026-08-21-How-to-Automate-i18n-Translations-with-GitHub-Actions:-3-Approaches](https://dev.to/arvid_andersson_0a598fa45/how-to-automate-i18n-translations-with-github-actions-3-approaches-48nd) 
 - [2026-08-19-OpenCut:-The-Open-Source-CapCut-Alternative-That-Just-Hit-84,000-GitHub-Stars](https://dev.to/tekmag/opencut-the-open-source-capcut-alternative-that-just-hit-84000-github-stars-4cjb) 
-- [2026-08-13-Building-Modern-Digital-Products-with-Umidjon-Agency](https://dev.to/umidjon_developer/building-modern-digital-products-with-umidjon-agency-2go0) 
-- [2026-08-13-Cursor-Origin:-Git-Hosting-Riêng-Cho-AI-Agent,-Ra-Mắt-Mùa-Thu](https://dev.to/bean_bean/cursor-origin-git-hosting-rieng-cho-ai-agent-ra-mat-mua-thu-2oae) 
 - [2026-08-13-Building-Modern-Digital-Products-with-Umidjon-Agency](https://dev.to/umidjon_developer/building-modern-digital-products-with-umidjon-agency-1ll1) 
-- [2026-08-11-I-built-a-secret-detector.-GitHub-blocked-my-push-for-containing-secrets.](https://dev.to/henrique_yuri_f42f2fca47a/i-built-a-secret-detector-github-blocked-my-push-for-containing-secrets-29fc) 
+- [2026-08-13-Cursor-Origin:-Git-Hosting-Riêng-Cho-AI-Agent,-Ra-Mắt-Mùa-Thu](https://dev.to/bean_bean/cursor-origin-git-hosting-rieng-cho-ai-agent-ra-mat-mua-thu-2oae) 
+- [2026-08-13-Building-Modern-Digital-Products-with-Umidjon-Agency](https://dev.to/umidjon_developer/building-modern-digital-products-with-umidjon-agency-2go0) 
 - [2026-08-11-Best-Web-Design-Institute-in-Laxmi-Nagar:-Start-Building-Your-Digital-Skills](https://dev.to/shahin_981ca06dd02c65874f/best-web-design-institute-in-laxmi-nagar-start-building-your-digital-skills-20p7) 
+- [2026-08-11-I-built-a-secret-detector.-GitHub-blocked-my-push-for-containing-secrets.](https://dev.to/henrique_yuri_f42f2fca47a/i-built-a-secret-detector-github-blocked-my-push-for-containing-secrets-29fc) 
 - [2026-08-09-I-Built-Snake-Detector---Find-GitHub-Follow-Unfollow-Snakes-🐍](https://dev.to/0x9z/i-built-snake-detector-find-github-follow-unfollow-snakes-4p6a) 
 - [2026-08-07-Building-Smarter-Salon-Businesses-with-AI-CRM:-Why-Digital-Automation-Is-the-Future](https://dev.to/agentic_vani_15cf0f01c9ff/building-smarter-salon-businesses-with-ai-crm-why-digital-automation-is-the-future-2hg4) 
 - [2026-08-06-Buy-GitHub-Accounts-With-Clean-History:](https://dev.to/usasvcit3fra/buy-github-accounts-with-clean-history-hen) 
-- [2026-08-05-Build-Industry-Ready-Digital-Marketing-Skills-with-VersionX](https://dev.to/intern_highthink_95e41848/build-industry-ready-digital-marketing-skills-with-versionx-4mck) 
-- [2026-08-05-What-Makes-ZikarelHub-Nigeria's-#1-Digital-Agency-—-A-Technical-Case-Study](https://dev.to/zikarelhub/what-makes-zikarelhub-nigerias-1-digital-agency-a-technical-case-study-4o5) 
 - [2026-08-05-Top-4-Sites-To-Buy-Old-Github-Accounts-In-2026](https://dev.to/vuleminhphamcanau/top-4-sites-to-buy-old-github-accounts-in-2026-3fh5) 
+- [2026-08-05-What-Makes-ZikarelHub-Nigeria's-#1-Digital-Agency-—-A-Technical-Case-Study](https://dev.to/zikarelhub/what-makes-zikarelhub-nigerias-1-digital-agency-a-technical-case-study-4o5) 
+- [2026-08-05-Build-Industry-Ready-Digital-Marketing-Skills-with-VersionX](https://dev.to/intern_highthink_95e41848/build-industry-ready-digital-marketing-skills-with-versionx-4mck) 
 - [2026-09-01--Best-of-Self-Sovereign-Identity:-Digitalcourage-vs.-World-Passport-vs.-Memdeklaro-](
 https://dev.to/narehate78/vat-helpline-vs-ad-hoc-vat-advisory-which-is-more-effective-for-uk-businesses-dealing-with-151k
 ) 
@@ -59,8 +59,8 @@ https://dev.to/narehate78/vat-helpline-vs-ad-hoc-vat-advisory-which-is-more-effe
 - [2026-08-04-LOCUS-DT:-Localization-via-Observation-Conditioned-Uncertainty-Scoring-with-Digital-Twins](https://arxiv.org/abs/2608.00406) 
 - [2026-08-04-From-Digital-to-Physical-Reservoir-Computing:-Co-Optimizing-Soft-Robotic-Reservoirs-via-Dynamics-Matching](https://arxiv.org/abs/2608.00484) 
 - [2026-08-04-Cardiovascular-Digital-Twins-from-Physics-Based-to-Data-Driven-Approaches](https://arxiv.org/abs/2608.02135) 
-- [2026-08-10-GitHub-Models-is-now-retired](https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/) 
 - [2026-08-10-GitHub-Models-is-now-retired](https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything) 
+- [2026-08-10-GitHub-Models-is-now-retired](https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/) 
 - [2026-08-20-AI-Now-Writes-46%-of-New-Code-on-GitHub.-Nearly-Half-of-It-Fails-Security-Tests.](https://pub.towardsai.net/ai-now-writes-46-of-new-code-on-github-nearly-half-of-it-fails-security-tests-f5a5755b4f27?source=rss----98111c9905da---4) 
 - [2026-08-10-15-GitHub-Repos-Worth-Starring-in-2026,-If-You-Actually-Build-Agents](https://pub.towardsai.net/15-github-repos-worth-starring-in-2026-if-you-actually-build-agents-5ce94845a2ea?source=rss----98111c9905da---4) 
 - [2026-09-02-GitHub-CLI:-Media-in-issues,-pull-requests,-and-comments](https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments/) 
