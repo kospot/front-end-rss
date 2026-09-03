@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-02T22:02:05.967Z</updated>
+    <updated>2026-09-03T00:03:07.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"/>
+        <updated>2026-09-02T16:00:00.000Z</updated>
+        <published>2026-09-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The best tech and gadgets announced at IFA so far]]></title>
         <id>https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones</id>
         <link href="https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones"/>
@@ -22,9 +29,16 @@
         <published>2026-09-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"/>
+        <title type="html"><![CDATA[The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026]]></title>
+        <id>https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/</id>
+        <link href="https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"/>
+        <updated>2026-09-02T16:00:00.000Z</updated>
+        <published>2026-09-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto Networks paid $500M for Thrive-backed Console, sources say]]></title>
+        <id>https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/</id>
+        <link href="https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"/>
         <updated>2026-09-02T16:00:00.000Z</updated>
         <published>2026-09-02T16:00:00.000Z</published>
     </entry>
@@ -99,16 +113,9 @@
         <published>2026-09-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent Protocols and the Interop Mess: MCP Internals, A2A, and Friends]]></title>
-        <id>https://pub.towardsai.net/agent-protocols-and-the-interop-mess-mcp-internals-a2a-and-friends-0f5205b6fe7b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/agent-protocols-and-the-interop-mess-mcp-internals-a2a-and-friends-0f5205b6fe7b?source=rss----98111c9905da---4"/>
-        <updated>2026-09-02T16:00:00.000Z</updated>
-        <published>2026-09-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Don’t Need a Server to Run Qwen3.8-Flash Next]]></title>
-        <id>https://pub.towardsai.net/you-dont-need-a-server-to-run-qwen3-8-flash-next-03e91724d196?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/you-dont-need-a-server-to-run-qwen3-8-flash-next-03e91724d196?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[GPT Astra Leaks Look Insane. And Fable 5.1 Rumors]]></title>
+        <id>https://pub.towardsai.net/gpt-astra-leaks-look-insane-and-fable-5-1-rumors-2d609e359f63?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/gpt-astra-leaks-look-insane-and-fable-5-1-rumors-2d609e359f63?source=rss----98111c9905da---4"/>
         <updated>2026-09-02T16:00:00.000Z</updated>
         <published>2026-09-02T16:00:00.000Z</published>
     </entry>
@@ -120,6 +127,20 @@
         <published>2026-09-02T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[You Don’t Need a Server to Run Qwen3.8-Flash Next]]></title>
+        <id>https://pub.towardsai.net/you-dont-need-a-server-to-run-qwen3-8-flash-next-03e91724d196?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/you-dont-need-a-server-to-run-qwen3-8-flash-next-03e91724d196?source=rss----98111c9905da---4"/>
+        <updated>2026-09-02T16:00:00.000Z</updated>
+        <published>2026-09-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Protocols and the Interop Mess: MCP Internals, A2A, and Friends]]></title>
+        <id>https://pub.towardsai.net/agent-protocols-and-the-interop-mess-mcp-internals-a2a-and-friends-0f5205b6fe7b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/agent-protocols-and-the-interop-mess-mcp-internals-a2a-and-friends-0f5205b6fe7b?source=rss----98111c9905da---4"/>
+        <updated>2026-09-02T16:00:00.000Z</updated>
+        <published>2026-09-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How we make AI coding more cost efficient without sacrificing task quality]]></title>
         <id>https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/</id>
         <link href="https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/"/>
@@ -127,30 +148,15 @@
         <published>2026-09-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript Tips: Unlocking the Jedi Mind Trick for Safer Code]]></title>
-        <id>https://dev.to/timevolt/typescript-tips-unlocking-the-jedi-mind-trick-for-safer-code-3gmh</id>
-        <link href="https://dev.to/timevolt/typescript-tips-unlocking-the-jedi-mind-trick-for-safer-code-3gmh"/>
-        <updated>2026-09-02T16:00:00.000Z</updated>
-        <published>2026-09-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Email Checks Need Decision States]]></title>
-        <id>https://dev.to/ryanlee91/react-email-checks-need-decision-states-394e</id>
-        <link href="https://dev.to/ryanlee91/react-email-checks-need-decision-states-394e"/>
-        <updated>2026-09-02T16:00:00.000Z</updated>
-        <published>2026-09-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
-        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-49bl</id>
-        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-49bl"/>
-        <updated>2026-09-02T16:00:00.000Z</updated>
-        <published>2026-09-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why TypeScript Developers are Ditching Relational Databases for Knowledge Graphs]]></title>
-        <id>https://dev.to/programmingcentral/why-typescript-developers-are-ditching-relational-databases-for-knowledge-graphs-1e3d</id>
-        <link href="https://dev.to/programmingcentral/why-typescript-developers-are-ditching-relational-databases-for-knowledge-graphs-1e3d"/>
+        <title type="html"><![CDATA[
+Sharing Application State in a URL
+]]></title>
+        <id>
+https://ivakin.dev/blog/state-in-url
+</id>
+        <link href="
+https://ivakin.dev/blog/state-in-url
+"/>
         <updated>2026-09-02T16:00:00.000Z</updated>
         <published>2026-09-02T16:00:00.000Z</published>
     </entry>
@@ -162,37 +168,37 @@
         <published>2026-09-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google is sending MrBeast into the wilderness, armed with AI]]></title>
-        <id>https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit</id>
-        <link href="https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Why TypeScript Developers are Ditching Relational Databases for Knowledge Graphs]]></title>
+        <id>https://dev.to/programmingcentral/why-typescript-developers-are-ditching-relational-databases-for-knowledge-graphs-1e3d</id>
+        <link href="https://dev.to/programmingcentral/why-typescript-developers-are-ditching-relational-databases-for-knowledge-graphs-1e3d"/>
+        <updated>2026-09-02T16:00:00.000Z</updated>
+        <published>2026-09-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elon Musk’s heterodox robotaxi philosophy gets put to the test]]></title>
-        <id>https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar</id>
-        <link href="https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
+        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-49bl</id>
+        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-49bl"/>
+        <updated>2026-09-02T16:00:00.000Z</updated>
+        <published>2026-09-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The amazing USB-C gadgets that play old Nintendo cartridges]]></title>
-        <id>https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes</id>
-        <link href="https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
+        <title type="html"><![CDATA[React Email Checks Need Decision States]]></title>
+        <id>https://dev.to/ryanlee91/react-email-checks-need-decision-states-394e</id>
+        <link href="https://dev.to/ryanlee91/react-email-checks-need-decision-states-394e"/>
+        <updated>2026-09-02T16:00:00.000Z</updated>
+        <published>2026-09-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is this the future of America?]]></title>
-        <id>https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash</id>
-        <link href="https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
+        <title type="html"><![CDATA[TypeScript Tips: Unlocking the Jedi Mind Trick for Safer Code]]></title>
+        <id>https://dev.to/timevolt/typescript-tips-unlocking-the-jedi-mind-trick-for-safer-code-3gmh</id>
+        <link href="https://dev.to/timevolt/typescript-tips-unlocking-the-jedi-mind-trick-for-safer-code-3gmh"/>
+        <updated>2026-09-02T16:00:00.000Z</updated>
+        <published>2026-09-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This new Roomba seals itself to your carpet]]></title>
-        <id>https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced</id>
-        <link href="https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced"/>
+        <title type="html"><![CDATA[Belkin’s kid-friendly wireless headphones are 25 percent off]]></title>
+        <id>https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
@@ -204,30 +210,37 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Belkin’s kid-friendly wireless headphones are 25 percent off]]></title>
-        <id>https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale"/>
+        <title type="html"><![CDATA[This new Roomba seals itself to your carpet]]></title>
+        <id>https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced</id>
+        <link href="https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other]]></title>
-        <id>https://www.wired.com/story/bot-vs-bot-job-interview-ai/</id>
-        <link href="https://www.wired.com/story/bot-vs-bot-job-interview-ai/"/>
+        <title type="html"><![CDATA[Is this the future of America?]]></title>
+        <id>https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash</id>
+        <link href="https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Diamond Moon and Other Astronomical Events to See in September 2026]]></title>
-        <id>https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/</id>
-        <link href="https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/"/>
+        <title type="html"><![CDATA[The amazing USB-C gadgets that play old Nintendo cartridges]]></title>
+        <id>https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes</id>
+        <link href="https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities]]></title>
-        <id>https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/</id>
-        <link href="https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/"/>
+        <title type="html"><![CDATA[Elon Musk’s heterodox robotaxi philosophy gets put to the test]]></title>
+        <id>https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar</id>
+        <link href="https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google is sending MrBeast into the wilderness, armed with AI]]></title>
+        <id>https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit</id>
+        <link href="https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
@@ -239,30 +252,30 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting]]></title>
-        <id>https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/</id>
-        <link href="https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"/>
+        <title type="html"><![CDATA[OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities]]></title>
+        <id>https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/</id>
+        <link href="https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open AI’s Astra model is on the way—and very good at breaking into computer systems]]></title>
-        <id>https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</id>
-        <link href="https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"/>
+        <title type="html"><![CDATA[The Diamond Moon and Other Astronomical Events to See in September 2026]]></title>
+        <id>https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/</id>
+        <link href="https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X says attackers are targeting user accounts after the launch of X Money]]></title>
-        <id>https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/</id>
-        <link href="https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/"/>
+        <title type="html"><![CDATA[The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other]]></title>
+        <id>https://www.wired.com/story/bot-vs-bot-job-interview-ai/</id>
+        <link href="https://www.wired.com/story/bot-vs-bot-job-interview-ai/"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic’s new Fable release is cheaper, less restrictive]]></title>
-        <id>https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/</id>
-        <link href="https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"/>
+        <title type="html"><![CDATA[AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B]]></title>
+        <id>https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/</id>
+        <link href="https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
@@ -274,9 +287,30 @@
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B]]></title>
-        <id>https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/</id>
-        <link href="https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"/>
+        <title type="html"><![CDATA[Anthropic’s new Fable release is cheaper, less restrictive]]></title>
+        <id>https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/</id>
+        <link href="https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X says attackers are targeting user accounts after the launch of X Money]]></title>
+        <id>https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/</id>
+        <link href="https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open AI’s Astra model is on the way—and very good at breaking into computer systems]]></title>
+        <id>https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</id>
+        <link href="https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"/>
+        <updated>2026-09-01T16:00:00.000Z</updated>
+        <published>2026-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting]]></title>
+        <id>https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/</id>
+        <link href="https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
@@ -333,34 +367,6 @@
         <title type="html"><![CDATA[Using jq to format JSON on the clipboard]]></title>
         <id>https://chris48s.github.io/blogmarks/posts/2021/jsontidy/</id>
         <link href="https://chris48s.github.io/blogmarks/posts/2021/jsontidy/"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autopsy of an N=1 Cybernetic Therapy: Multimodal AI for Grief (Case Report)]]></title>
-        <id>https://zenodo.org/records/22169978</id>
-        <link href="https://zenodo.org/records/22169978"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Syria was building a nuclear reactor under Assad, UN reports]]></title>
-        <id>https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2</id>
-        <link href="https://apnews.com/article/iaea-report-syria-nuclear-bashar-assad-b941d7d11da6fb8912ae2bed0b34cec2"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta's Muse Voice Transcribe handles real-time speech]]></title>
-        <id>https://forgeeks.net/meta-muse-voice-transcribe-release/</id>
-        <link href="https://forgeeks.net/meta-muse-voice-transcribe-release/"/>
-        <updated>2026-09-01T16:00:00.000Z</updated>
-        <published>2026-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bicycle Robot (2020) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=j6bNVqe_1xY</id>
-        <link href="https://www.youtube.com/watch?v=j6bNVqe_1xY"/>
         <updated>2026-09-01T16:00:00.000Z</updated>
         <published>2026-09-01T16:00:00.000Z</published>
     </entry>
