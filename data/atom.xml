@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-04T15:03:33.840Z</updated>
+    <updated>2026-09-04T22:00:54.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,86 +15,191 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor]]></title>
+        <id>https://www.theverge.com/tech/990658/audacity-4-update-audio-editing</id>
+        <link href="https://www.theverge.com/tech/990658/audacity-4-update-audio-editing"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roland is getting into generative AI music with Melody Flip]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Casio ‘CasioNaut’ G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability]]></title>
+        <id>https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/</id>
+        <link href="https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI compute provider Nscale is looking for $3.5B in pre-IPO financing]]></title>
+        <id>https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/</id>
+        <link href="https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge]]></title>
+        <id>https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/</id>
+        <link href="https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Actively exploited sandbox RCE in all Chromium versions]]></title>
+        <id>https://nvd.nist.gov/vuln/detail/cve-2026-85046</id>
+        <link href="https://nvd.nist.gov/vuln/detail/cve-2026-85046"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Fast rust-based repository launcher for your code projects]]></title>
+        <id>https://santiagodevelopment.com/p/2026/9/4/repo-zoo</id>
+        <link href="https://santiagodevelopment.com/p/2026/9/4/repo-zoo"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Fable 5.1 Benchmark: Draw a Python Reading a Book]]></title>
+        <id>https://realpython.com/ai-benchmark-claude-fable-5-1/</id>
+        <link href="https://realpython.com/ai-benchmark-claude-fable-5-1/"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvey Tenet Research Preview]]></title>
+        <id>https://www.harvey.ai/blog/post-training-update-harvey-tenet</id>
+        <link href="https://www.harvey.ai/blog/post-training-update-harvey-tenet"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-6 Astra Benchmark: Draw a Python Reading a Book]]></title>
+        <id>https://realpython.com/ai-benchmark-gpt-6-astra/</id>
+        <link href="https://realpython.com/ai-benchmark-gpt-6-astra/"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-6 Astra on OpenRouter]]></title>
+        <id>https://openrouter.ai/openai/gpt-6-astra</id>
+        <link href="https://openrouter.ai/openai/gpt-6-astra"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Anthropic just reset usage, including Fable]]></title>
+        <id>https://news.ycombinator.com/item?id=49570522</id>
+        <link href="https://news.ycombinator.com/item?id=49570522"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stanley Zhong Gets Admissions Data Discovery in UW Suit with AI lawyer]]></title>
+        <id>https://www.foxnews.com/media/star-student-rejected-16-colleges-hired-google-gets-legal-win-racial-discrimination-suit</id>
+        <link href="https://www.foxnews.com/media/star-student-rejected-16-colleges-hired-google-gets-legal-win-racial-discrimination-suit"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-6 Astra is generally available in GitHub Copilot]]></title>
+        <id>https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot/</id>
+        <link href="https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot/"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two random Anthropic allocation resets this week]]></title>
+        <id>https://news.ycombinator.com/item?id=49570445</id>
+        <link href="https://news.ycombinator.com/item?id=49570445"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLM Costs 35x Less than Claude. The Difference Isn’t Intelligence]]></title>
+        <id>https://pub.towardsai.net/glm-costs-35x-less-than-claude-the-difference-isnt-intelligence-9a24b1ba9ab3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/glm-costs-35x-less-than-claude-the-difference-isnt-intelligence-9a24b1ba9ab3?source=rss----98111c9905da---4"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project HydraFusion: Frontier quality via multi-model orchestration]]></title>
+        <id>https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/</id>
+        <link href="https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON Schema Diff & Merge Tool: Free Browser-Based Tool]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/json-schema-diff-merge-tool-free-browser-based-tool-55ap</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/json-schema-diff-merge-tool-free-browser-based-tool-55ap"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astro 7.3's Smallest New Feature Might Be the Most Useful One for Testing]]></title>
+        <id>https://dev.to/keymelgaston/astro-73s-smallest-new-feature-might-be-the-most-useful-one-for-testing-1hgm</id>
+        <link href="https://dev.to/keymelgaston/astro-73s-smallest-new-feature-might-be-the-most-useful-one-for-testing-1hgm"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecting Enterprise Angular with Signals: Zoneless Reactivity and 60fps Performance]]></title>
+        <id>https://dev.to/amasen/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance-4jmb</id>
+        <link href="https://dev.to/amasen/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance-4jmb"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I added scroll animations to three live pages — and silently corrupted two of them]]></title>
+        <id>https://dev.to/dhseadev/i-added-scroll-animations-to-three-live-pages-and-silently-corrupted-two-of-them-pfa</id>
+        <link href="https://dev.to/dhseadev/i-added-scroll-animations-to-three-live-pages-and-silently-corrupted-two-of-them-pfa"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Secure Auto-Resizing Iframe Embeds with postMessage]]></title>
+        <id>https://dev.to/gallerydock/building-secure-auto-resizing-iframe-embeds-with-postmessage-5e08</id>
+        <link href="https://dev.to/gallerydock/building-secure-auto-resizing-iframe-embeds-with-postmessage-5e08"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krishna Janmashtami for Techies]]></title>
+        <id>https://dev.to/rjshree/krishna-janmashtami-for-techies-3onn</id>
+        <link href="https://dev.to/rjshree/krishna-janmashtami-for-techies-3onn"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Stream Overlay You Control From Your Phone — No Server, One File in OBS, Just GenosDB]]></title>
+        <id>https://dev.to/estebanrfp/a-stream-overlay-you-control-from-your-phone-no-server-one-file-in-obs-just-genosdb-b52</id>
+        <link href="https://dev.to/estebanrfp/a-stream-overlay-you-control-from-your-phone-no-server-one-file-in-obs-just-genosdb-b52"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL Schema Diff & Visualizer: Free Browser-Based Tool]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/graphql-schema-diff-visualizer-free-browser-based-tool-2pmm</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/graphql-schema-diff-visualizer-free-browser-based-tool-2pmm"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
+        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-3lkl</id>
+        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-3lkl"/>
+        <updated>2026-09-04T16:00:00.000Z</updated>
+        <published>2026-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等]]></title>
         <id>https://sspai.com/post/114164</id>
         <link href="https://sspai.com/post/114164"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alienware’s refurbished 16 Aurora is almost $200 off at Woot]]></title>
-        <id>https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick]]></title>
-        <id>https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable</id>
-        <link href="https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This rugged phone’s removable camera can survive and capture your extreme adventures]]></title>
-        <id>https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof</id>
-        <link href="https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal]]></title>
-        <id>https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out</id>
-        <link href="https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circular’s new smart rings add contactless payments and vibrating alerts]]></title>
-        <id>https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts</id>
-        <link href="https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day]]></title>
-        <id>https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series]]></title>
-        <id>https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix</id>
-        <link href="https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control]]></title>
-        <id>https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40</id>
-        <link href="https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This NAS company wants to run your local smart home]]></title>
-        <id>https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home</id>
-        <link href="https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers]]></title>
-        <id>https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers</id>
-        <link href="https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
@@ -106,58 +211,79 @@
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measles Outbreaks Are Forcing Immunocompromised Kids to Make Impossible Choices]]></title>
-        <id>https://www.wired.com/story/measles-outbreaks-immunocompromised-kids-schools/</id>
-        <link href="https://www.wired.com/story/measles-outbreaks-immunocompromised-kids-schools/"/>
+        <title type="html"><![CDATA[Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers]]></title>
+        <id>https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers</id>
+        <link href="https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years]]></title>
-        <id>https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/</id>
-        <link href="https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/"/>
+        <title type="html"><![CDATA[Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wikipedia Workers Unionize for the First Time]]></title>
-        <id>https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/</id>
-        <link href="https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/"/>
+        <title type="html"><![CDATA[This NAS company wants to run your local smart home]]></title>
+        <id>https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home</id>
+        <link href="https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prediction Market Betting Is Getting People Banned and Arrested]]></title>
-        <id>https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/</id>
-        <link href="https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/"/>
+        <title type="html"><![CDATA[Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control]]></title>
+        <id>https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40</id>
+        <link href="https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era]]></title>
-        <id>https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/</id>
-        <link href="https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/"/>
+        <title type="html"><![CDATA[Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series]]></title>
+        <id>https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix</id>
+        <link href="https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme]]></title>
-        <id>https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/</id>
-        <link href="https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/"/>
+        <title type="html"><![CDATA[Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day]]></title>
+        <id>https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient]]></title>
-        <id>https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/</id>
-        <link href="https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/"/>
+        <title type="html"><![CDATA[Circular’s new smart rings add contactless payments and vibrating alerts]]></title>
+        <id>https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts</id>
+        <link href="https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More]]></title>
-        <id>https://www.wired.com/gallery/best-video-doorbells/</id>
-        <link href="https://www.wired.com/gallery/best-video-doorbells/"/>
+        <title type="html"><![CDATA[Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal]]></title>
+        <id>https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out</id>
+        <link href="https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out"/>
+        <updated>2026-09-03T16:00:00.000Z</updated>
+        <published>2026-09-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This rugged phone’s removable camera can survive and capture your extreme adventures]]></title>
+        <id>https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof</id>
+        <link href="https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof"/>
+        <updated>2026-09-03T16:00:00.000Z</updated>
+        <published>2026-09-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick]]></title>
+        <id>https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable</id>
+        <link href="https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable"/>
+        <updated>2026-09-03T16:00:00.000Z</updated>
+        <published>2026-09-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alienware’s refurbished 16 Aurora is almost $200 off at Woot]]></title>
+        <id>https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
@@ -169,51 +295,58 @@
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event]]></title>
-        <id>https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/</id>
-        <link href="https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/"/>
+        <title type="html"><![CDATA[5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More]]></title>
+        <id>https://www.wired.com/gallery/best-video-doorbells/</id>
+        <link href="https://www.wired.com/gallery/best-video-doorbells/"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US military disabled ad tracking on troops’ devices following reports of targeted attacks]]></title>
-        <id>https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/</id>
-        <link href="https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/"/>
+        <title type="html"><![CDATA[Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient]]></title>
+        <id>https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/</id>
+        <link href="https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ollie is betting its focus on privacy can help it win the AI assistant race]]></title>
-        <id>https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/</id>
-        <link href="https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/"/>
+        <title type="html"><![CDATA[Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme]]></title>
+        <id>https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/</id>
+        <link href="https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts]]></title>
-        <id>https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/</id>
-        <link href="https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/"/>
+        <title type="html"><![CDATA[GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era]]></title>
+        <id>https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/</id>
+        <link href="https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI launches Astra, its powerful (and controversial) new model]]></title>
-        <id>https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/</id>
-        <link href="https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"/>
+        <title type="html"><![CDATA[Prediction Market Betting Is Getting People Banned and Arrested]]></title>
+        <id>https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/</id>
+        <link href="https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta is paying to peek at how you use their latest AI model]]></title>
-        <id>https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/</id>
-        <link href="https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"/>
+        <title type="html"><![CDATA[Wikipedia Workers Unionize for the First Time]]></title>
+        <id>https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/</id>
+        <link href="https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit]]></title>
-        <id>https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/</id>
-        <link href="https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/"/>
+        <title type="html"><![CDATA[ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years]]></title>
+        <id>https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/</id>
+        <link href="https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/"/>
+        <updated>2026-09-03T16:00:00.000Z</updated>
+        <published>2026-09-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measles Outbreaks Are Forcing Immunocompromised Kids to Make Impossible Choices]]></title>
+        <id>https://www.wired.com/story/measles-outbreaks-immunocompromised-kids-schools/</id>
+        <link href="https://www.wired.com/story/measles-outbreaks-immunocompromised-kids-schools/"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
@@ -225,142 +358,9 @@
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Dev-prune – deletes node_modules only when the lockfile can rebuild it]]></title>
-        <id>https://github.com/Life-Experimentalist/dev-prune</id>
-        <link href="https://github.com/Life-Experimentalist/dev-prune"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local TUI issue board for agentic workflows with time travel, backed by Git]]></title>
-        <id>https://twitter.com/ljnatan/status/2094842152924623007</id>
-        <link href="https://twitter.com/ljnatan/status/2094842152924623007"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Lossless Speedups in LLMs via Discrete Diffusion]]></title>
-        <id>https://github.com/ifm-ai/uno</id>
-        <link href="https://github.com/ifm-ai/uno"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report: How developers react to AI-scented blog posts]]></title>
-        <id>https://writethatblog.substack.com/p/dev-reaction-to-ai-blog-posts</id>
-        <link href="https://writethatblog.substack.com/p/dev-reaction-to-ai-blog-posts"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Unofficial 3DS Port of F-Zero X Written by Claude Code]]></title>
-        <id>https://cruxxxxxx.github.io/gdx-3ds/postmortem/index.html</id>
-        <link href="https://cruxxxxxx.github.io/gdx-3ds/postmortem/index.html"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL 19 connects the dots with standardized graph queries]]></title>
-        <id>https://www.theregister.com/databases/2026/09/04/postgresql-19-connects-the-dots-with-standardized-graph-queries/5294500</id>
-        <link href="https://www.theregister.com/databases/2026/09/04/postgresql-19-connects-the-dots-with-standardized-graph-queries/5294500"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists observe Einstein's gravity in the quantum world]]></title>
-        <id>https://www.eurekalert.org/news-releases/1141933</id>
-        <link href="https://www.eurekalert.org/news-releases/1141933"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot take on GPT-6 Astra]]></title>
-        <id>https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra</id>
-        <link href="https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercab motor uses no rare earth metals]]></title>
-        <id>https://twitter.com/elonmusk/status/2095720611695759704</id>
-        <link href="https://twitter.com/elonmusk/status/2095720611695759704"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERN Transitioning Computers To Debian After Being A Longtime RHEL Institution]]></title>
-        <id>https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL</id>
-        <link href="https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostHog reported zero signups while Supabase showed one]]></title>
-        <id>https://lifecmp.com/blog/posthog-zero-signups-supabase-one</id>
-        <link href="https://lifecmp.com/blog/posthog-zero-signups-supabase-one"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERIS: Local-first vault agent in Rust, grammar-enforced tools]]></title>
-        <id>https://github.com/janpauldahlke/eris</id>
-        <link href="https://github.com/janpauldahlke/eris"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grep beats LSP? Why coding agents ignore your fancier tools]]></title>
-        <id>https://www.agentconnect.md/blog/grep-beat-lsp-harness/</id>
-        <link href="https://www.agentconnect.md/blog/grep-beat-lsp-harness/"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: JarPeek – Online JAR viewer, decompile classes locally (no upload)]]></title>
-        <id>https://jarpeek.com/</id>
-        <link href="https://jarpeek.com/"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust 1.98.1]]></title>
-        <id>https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/</id>
-        <link href="https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post-Training Language Models for Gold-Medal Performance in Coding Competitions]]></title>
-        <id>https://arxiv.org/abs/2609.02849</id>
-        <link href="https://arxiv.org/abs/2609.02849"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wan 3.0 – 30-second native-audio video from text, images, docs, or web]]></title>
-        <id>https://wan30.io</id>
-        <link href="https://wan30.io"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?]]></title>
-        <id>https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/</id>
-        <link href="https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Code Reviews as a Code Author [video]]]></title>
-        <id>https://www.youtube.com/watch?v=zygtgvHp_MM</id>
-        <link href="https://www.youtube.com/watch?v=zygtgvHp_MM"/>
-        <updated>2026-09-03T16:00:00.000Z</updated>
-        <published>2026-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death of Educational Content on YouTube [video]]]></title>
-        <id>https://www.youtube.com/watch?v=-Gnrp_caPvo</id>
-        <link href="https://www.youtube.com/watch?v=-Gnrp_caPvo"/>
+        <title type="html"><![CDATA[Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit]]></title>
+        <id>https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/</id>
+        <link href="https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/"/>
         <updated>2026-09-03T16:00:00.000Z</updated>
         <published>2026-09-03T16:00:00.000Z</published>
     </entry>
