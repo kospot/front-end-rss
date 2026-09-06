@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-06T07:01:32.804Z</updated>
+    <updated>2026-09-06T10:02:37.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -218,30 +218,9 @@
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Gentle Tour Of Infinite Series, From Partial Sums To Poisson]]></title>
-        <id>https://pub.towardsai.net/infinite-series-explained-simply-for-beginners-2a7e1f7fefb7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/infinite-series-explained-simply-for-beginners-2a7e1f7fefb7?source=rss----98111c9905da---4"/>
-        <updated>2026-09-05T16:00:00.000Z</updated>
-        <published>2026-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Login Page was a Decoy [Some Dangerous Things In this Article are there]]]></title>
-        <id>https://pub.towardsai.net/the-login-page-was-a-decoy-some-dangerous-things-in-this-article-are-there-31fd032a525d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-login-page-was-a-decoy-some-dangerous-things-in-this-article-are-there-31fd032a525d?source=rss----98111c9905da---4"/>
-        <updated>2026-09-05T16:00:00.000Z</updated>
-        <published>2026-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why GPT-6 Astra Still Cannot Compose]]></title>
-        <id>https://pub.towardsai.net/why-gpt-6-astra-still-cannot-compose-dbb56ef4f675?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-gpt-6-astra-still-cannot-compose-dbb56ef4f675?source=rss----98111c9905da---4"/>
-        <updated>2026-09-05T16:00:00.000Z</updated>
-        <published>2026-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why 90% of ChatGPT Users Get the Same Generic Garbage?]]></title>
-        <id>https://pub.towardsai.net/why-90-of-chatgpt-users-get-the-same-generic-garbage-4e94dedea36a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-90-of-chatgpt-users-get-the-same-generic-garbage-4e94dedea36a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Microsoft Entra ID Synchronization with On-Premises Active Directory: A Step-by-Step Guide]]></title>
+        <id>https://pub.towardsai.net/microsoft-entra-id-synchronization-with-on-premises-active-directory-a-step-by-step-guide-7a169d1ffe26?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/microsoft-entra-id-synchronization-with-on-premises-active-directory-a-step-by-step-guide-7a169d1ffe26?source=rss----98111c9905da---4"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
@@ -253,6 +232,34 @@
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why 90% of ChatGPT Users Get the Same Generic Garbage?]]></title>
+        <id>https://pub.towardsai.net/why-90-of-chatgpt-users-get-the-same-generic-garbage-4e94dedea36a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-90-of-chatgpt-users-get-the-same-generic-garbage-4e94dedea36a?source=rss----98111c9905da---4"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why GPT-6 Astra Still Cannot Compose]]></title>
+        <id>https://pub.towardsai.net/why-gpt-6-astra-still-cannot-compose-dbb56ef4f675?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-gpt-6-astra-still-cannot-compose-dbb56ef4f675?source=rss----98111c9905da---4"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Login Page was a Decoy [Some Dangerous Things In this Article are there]]]></title>
+        <id>https://pub.towardsai.net/the-login-page-was-a-decoy-some-dangerous-things-in-this-article-are-there-31fd032a525d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-login-page-was-a-decoy-some-dangerous-things-in-this-article-are-there-31fd032a525d?source=rss----98111c9905da---4"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Gentle Tour Of Infinite Series, From Partial Sums To Poisson]]></title>
+        <id>https://pub.towardsai.net/infinite-series-explained-simply-for-beginners-2a7e1f7fefb7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/infinite-series-explained-simply-for-beginners-2a7e1f7fefb7?source=rss----98111c9905da---4"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introducing GPT-6 Astra for developers]]></title>
         <id>https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</id>
         <link href="https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/"/>
@@ -260,107 +267,100 @@
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Small Businesses Rarely Need Heavy JavaScript Frameworks??]]></title>
-        <id>https://dev.to/joni_ilman12/why-small-businesses-rarely-need-heavy-javascript-frameworks-5512</id>
-        <link href="https://dev.to/joni_ilman12/why-small-businesses-rarely-need-heavy-javascript-frameworks-5512"/>
+        <title type="html"><![CDATA[Chrome's 6th Zero-Day of 2026 Is Live: One Type Confusion, Full Sandbox RCE]]></title>
+        <id>https://dev.to/ashraf_chowdury09/chromes-6th-zero-day-of-2026-is-live-one-type-confusion-full-sandbox-rce-1o9g</id>
+        <link href="https://dev.to/ashraf_chowdury09/chromes-6th-zero-day-of-2026-is-live-one-type-confusion-full-sandbox-rce-1o9g"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need Guidance]]></title>
+        <id>https://dev.to/jzlabs/need-guidance-5f88</id>
+        <link href="https://dev.to/jzlabs/need-guidance-5f88"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove Blank Pages from PDF in the Browser with Vue 3 and pdf-lib]]></title>
+        <id>https://dev.to/sunshey/how-to-remove-blank-pages-from-pdf-in-the-browser-with-vue-3-and-pdf-lib-227p</id>
+        <link href="https://dev.to/sunshey/how-to-remove-blank-pages-from-pdf-in-the-browser-with-vue-3-and-pdf-lib-227p"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging Async/Await Deadlocks in JavaScript – Common Pitfalls & Fixes]]></title>
+        <id>https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-common-pitfalls-fixes-1f9</id>
+        <link href="https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-common-pitfalls-fixes-1f9"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[I built 59 free browser-based dev tools in vanilla JS — here's what I learned]]></title>
-        <id>https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3ec4</id>
-        <link href="https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3ec4"/>
+        <id>https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4and</id>
+        <link href="https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4and"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Objects: What I Learned]]></title>
-        <id>https://dev.to/candyx3/javascript-objects-what-i-learned-4b42</id>
-        <link href="https://dev.to/candyx3/javascript-objects-what-i-learned-4b42"/>
+        <title type="html"><![CDATA[Why your $300/mo onboarding widget is destroying your Core Web Vitals]]></title>
+        <id>https://dev.to/pavan_s_poojary/why-your-300mo-onboarding-widget-is-destroying-your-core-web-vitals-2i3a</id>
+        <link href="https://dev.to/pavan_s_poojary/why-your-300mo-onboarding-widget-is-destroying-your-core-web-vitals-2i3a"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built 59 free browser-based dev tools in vanilla JS — here's what I learned]]></title>
-        <id>https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4bm5</id>
-        <link href="https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4bm5"/>
+        <title type="html"><![CDATA[Posting from a shed with one bar of signal: an offline write queue in plain JS]]></title>
+        <id>https://dev.to/canad1an/posting-from-a-shed-with-one-bar-of-signal-an-offline-write-queue-in-plain-js-4n6p</id>
+        <link href="https://dev.to/canad1an/posting-from-a-shed-with-one-bar-of-signal-an-offline-write-queue-in-plain-js-4n6p"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Server-Side Prototype Pollution: From JSON Body to RCE via Node.js Gadget Chains]]></title>
-        <id>https://dev.to/roxdavirox/server-side-prototype-pollution-from-json-body-to-rce-via-nodejs-gadget-chains-4b2k</id>
-        <link href="https://dev.to/roxdavirox/server-side-prototype-pollution-from-json-body-to-rce-via-nodejs-gadget-chains-4b2k"/>
+        <title type="html"><![CDATA[What's actually inside an image's DPI tag (and why changing it is lossless)]]></title>
+        <id>https://dev.to/caseymarlin/whats-actually-inside-an-images-dpi-tag-and-why-changing-it-is-lossless-57pb</id>
+        <link href="https://dev.to/caseymarlin/whats-actually-inside-an-images-dpi-tag-and-why-changing-it-is-lossless-57pb"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Working: Prototype Pollution in Node.js APIs Is a Process-Wide Trust Failure, Not a Library Bug]]></title>
-        <id>https://dev.to/roxdavirox/working-prototype-pollution-in-nodejs-apis-is-a-process-wide-trust-failure-not-a-library-bug-hl8</id>
-        <link href="https://dev.to/roxdavirox/working-prototype-pollution-in-nodejs-apis-is-a-process-wide-trust-failure-not-a-library-bug-hl8"/>
+        <title type="html"><![CDATA[Rust for Rust, JS for JS: introducing Ahoi]]></title>
+        <id>https://dev.to/acheul_cb82668412b68f7670/rust-for-rust-js-for-js-introducing-ahoi-3k82</id>
+        <link href="https://dev.to/acheul_cb82668412b68f7670/rust-for-rust-js-for-js-introducing-ahoi-3k82"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VITE_ Is a Promotion Operator: How Build Pipelines Ship Server-Side Secrets to the Browser]]></title>
-        <id>https://dev.to/roxdavirox/vite-is-a-promotion-operator-how-build-pipelines-ship-server-side-secrets-to-the-browser-1h2n</id>
-        <link href="https://dev.to/roxdavirox/vite-is-a-promotion-operator-how-build-pipelines-ship-server-side-secrets-to-the-browser-1h2n"/>
+        <title type="html"><![CDATA[How a University Student Built a 64+ Client-Side Utility Suite in 30 Days (React, WASM & AI)]]></title>
+        <id>https://dev.to/muhammad_abdullahsattar_/how-a-university-student-built-a-64-client-side-utility-suite-in-30-days-react-wasm-ai-1pi</id>
+        <link href="https://dev.to/muhammad_abdullahsattar_/how-a-university-student-built-a-64-client-side-utility-suite-in-30-days-react-wasm-ai-1pi"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Working: Math.random() Is Not Your Friend: PRNG Prediction and Timing Attacks in API Tokens]]></title>
-        <id>https://dev.to/roxdavirox/working-mathrandom-is-not-your-friend-prng-prediction-and-timing-attacks-in-api-tokens-5bch</id>
-        <link href="https://dev.to/roxdavirox/working-mathrandom-is-not-your-friend-prng-prediction-and-timing-attacks-in-api-tokens-5bch"/>
+        <title type="html"><![CDATA[I Built a Free JSON Schema Visualizer (Because StopLight Charges $299/User/Month)]]></title>
+        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-json-schema-visualizer-because-stoplight-charges-299usermonth-43ka</id>
+        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-json-schema-visualizer-because-stoplight-charges-299usermonth-43ka"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript File Recon: How Frontend Bundles Expose Endpoints, API Keys, and Business Logic]]></title>
-        <id>https://dev.to/roxdavirox/javascript-file-recon-how-frontend-bundles-expose-endpoints-api-keys-and-business-logic-m5g</id>
-        <link href="https://dev.to/roxdavirox/javascript-file-recon-how-frontend-bundles-expose-endpoints-api-keys-and-business-logic-m5g"/>
+        <title type="html"><![CDATA[I measured what my 11 Actors cost to run. The 96x spread was mostly one config field.]]></title>
+        <id>https://dev.to/apify/i-measured-what-my-11-actors-cost-to-run-the-96x-spread-was-mostly-one-config-field-hoj</id>
+        <link href="https://dev.to/apify/i-measured-what-my-11-actors-cost-to-run-the-96x-spread-was-mostly-one-config-field-hoj"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.]]></title>
-        <id>https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b</id>
-        <link href="https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b"/>
+        <title type="html"><![CDATA[Why my prerendered pages shipped with three <title> tags]]></title>
+        <id>https://dev.to/dquillman/why-my-prerendered-pages-shipped-with-three-tags-3aal</id>
+        <link href="https://dev.to/dquillman/why-my-prerendered-pages-shipped-with-three-tags-3aal"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Capturing exact DOM elements in a Chrome MV3 extension: DPR, sticky elements, and redaction before pixels exist]]></title>
-        <id>https://dev.to/mustafa_bahaa/capturing-exact-dom-elements-in-a-chrome-mv3-extension-dpr-sticky-elements-and-redaction-before-1hgd</id>
-        <link href="https://dev.to/mustafa_bahaa/capturing-exact-dom-elements-in-a-chrome-mv3-extension-dpr-sticky-elements-and-redaction-before-1hgd"/>
-        <updated>2026-09-05T16:00:00.000Z</updated>
-        <published>2026-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Webhooks Fail in Production: 5 Engineering Traps and How to Fix Them]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-webhooks-fail-in-production-5-engineering-traps-and-how-to-fix-them-1i7d</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-webhooks-fail-in-production-5-engineering-traps-and-how-to-fix-them-1i7d"/>
-        <updated>2026-09-05T16:00:00.000Z</updated>
-        <published>2026-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built an Ultra-Low Latency, Local-First Interview Copilot with Electron, React 19, and Groq Whisper Turbo]]></title>
-        <id>https://dev.to/vishwjeet/how-i-built-an-ultra-low-latency-local-first-interview-copilot-with-electron-react-19-and-groq-4pbg</id>
-        <link href="https://dev.to/vishwjeet/how-i-built-an-ultra-low-latency-local-first-interview-copilot-with-electron-react-19-and-groq-4pbg"/>
-        <updated>2026-09-05T16:00:00.000Z</updated>
-        <published>2026-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
-        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-4dnh</id>
-        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-4dnh"/>
-        <updated>2026-09-05T16:00:00.000Z</updated>
-        <published>2026-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Guessing: Extracting Bulletproof Knowledge Graphs from Unstructured Text with LLMs & Zod]]></title>
-        <id>https://dev.to/programmingcentral/stop-guessing-extracting-bulletproof-knowledge-graphs-from-unstructured-text-with-llms-zod-7d4</id>
-        <link href="https://dev.to/programmingcentral/stop-guessing-extracting-bulletproof-knowledge-graphs-from-unstructured-text-with-llms-zod-7d4"/>
+        <title type="html"><![CDATA[Tự host LLM hay dùng API: tính điểm hòa vốn trước khi mua GPU]]></title>
+        <id>https://dev.to/bean_bean/tu-host-llm-hay-dung-api-tinh-diem-hoa-von-truoc-khi-mua-gpu-o1c</id>
+        <link href="https://dev.to/bean_bean/tu-host-llm-hay-dung-api-tinh-diem-hoa-von-truoc-khi-mua-gpu-o1c"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
