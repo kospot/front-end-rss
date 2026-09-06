@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-05T22:02:14.997Z</updated>
+    <updated>2026-09-06T00:01:06.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,30 +29,37 @@
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google AI turns on its maker in a brutally candid interview]]></title>
-        <id>https://newatlas.com/ai-humanoids/exclusive-google-ai/</id>
-        <link href="https://newatlas.com/ai-humanoids/exclusive-google-ai/"/>
+        <title type="html"><![CDATA[Show HN: Midjourney API with webhooks, polling]]></title>
+        <id>https://www.midjourney-api.com</id>
+        <link href="https://www.midjourney-api.com"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Obscura: Native rendering is here. No Chromium required]]></title>
-        <id>https://github.com/h4ckf0r0day/obscura</id>
-        <link href="https://github.com/h4ckf0r0day/obscura"/>
+        <title type="html"><![CDATA[Ontoplano, FOSS life management app with a mobile app, MCP server and more]]></title>
+        <id>https://github.com/ontoplano/ontoplano</id>
+        <link href="https://github.com/ontoplano/ontoplano"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field]]></title>
-        <id>https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/</id>
-        <link href="https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/"/>
+        <title type="html"><![CDATA[Chrome again exempts Google from user site data settings]]></title>
+        <id>https://lapcatsoftware.com/articles/2026/9/1.html</id>
+        <link href="https://lapcatsoftware.com/articles/2026/9/1.html"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lazygit]]></title>
-        <id>https://lazygit.dev/</id>
-        <link href="https://lazygit.dev/"/>
+        <title type="html"><![CDATA[A native macOS app for reviewing GitHub pull requests]]></title>
+        <id>https://github.com/alaminopu/difft</id>
+        <link href="https://github.com/alaminopu/difft"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency]]></title>
+        <id>https://arxiv.org/abs/2603.14133</id>
+        <link href="https://arxiv.org/abs/2603.14133"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
@@ -64,6 +71,34 @@
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lazygit]]></title>
+        <id>https://lazygit.dev/</id>
+        <link href="https://lazygit.dev/"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field]]></title>
+        <id>https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/</id>
+        <link href="https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obscura: Native rendering is here. No Chromium required]]></title>
+        <id>https://github.com/h4ckf0r0day/obscura</id>
+        <link href="https://github.com/h4ckf0r0day/obscura"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google AI turns on its maker in a brutally candid interview]]></title>
+        <id>https://newatlas.com/ai-humanoids/exclusive-google-ai/</id>
+        <link href="https://newatlas.com/ai-humanoids/exclusive-google-ai/"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5 Top Open-Source Data Science Tools for the AI Era]]></title>
         <id>https://pub.towardsai.net/5-top-open-source-data-science-tools-for-the-ai-era-5f07f49c3545?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/5-top-open-source-data-science-tools-for-the-ai-era-5f07f49c3545?source=rss----98111c9905da---4"/>
@@ -71,23 +106,51 @@
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built an Ultra-Low Latency, Local-First Interview Copilot with Electron, React 19, and Groq Whisper Turbo]]></title>
-        <id>https://dev.to/vishwjeet/how-i-built-an-ultra-low-latency-local-first-interview-copilot-with-electron-react-19-and-groq-4pbg</id>
-        <link href="https://dev.to/vishwjeet/how-i-built-an-ultra-low-latency-local-first-interview-copilot-with-electron-react-19-and-groq-4pbg"/>
+        <title type="html"><![CDATA[Introducing GPT-6 Astra for developers]]></title>
+        <id>https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</id>
+        <link href="https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
-        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-4dnh</id>
-        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-4dnh"/>
+        <title type="html"><![CDATA[I measured what my 11 Actors cost to run. The 96x spread was mostly one config field.]]></title>
+        <id>https://dev.to/apify/i-measured-what-my-11-actors-cost-to-run-the-96x-spread-was-mostly-one-config-field-hoj</id>
+        <link href="https://dev.to/apify/i-measured-what-my-11-actors-cost-to-run-the-96x-spread-was-mostly-one-config-field-hoj"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Guessing: Extracting Bulletproof Knowledge Graphs from Unstructured Text with LLMs & Zod]]></title>
-        <id>https://dev.to/programmingcentral/stop-guessing-extracting-bulletproof-knowledge-graphs-from-unstructured-text-with-llms-zod-7d4</id>
-        <link href="https://dev.to/programmingcentral/stop-guessing-extracting-bulletproof-knowledge-graphs-from-unstructured-text-with-llms-zod-7d4"/>
+        <title type="html"><![CDATA[Why my prerendered pages shipped with three <title> tags]]></title>
+        <id>https://dev.to/dquillman/why-my-prerendered-pages-shipped-with-three-tags-3aal</id>
+        <link href="https://dev.to/dquillman/why-my-prerendered-pages-shipped-with-three-tags-3aal"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tự host LLM hay dùng API: tính điểm hòa vốn trước khi mua GPU]]></title>
+        <id>https://dev.to/bean_bean/tu-host-llm-hay-dung-api-tinh-diem-hoa-von-truoc-khi-mua-gpu-o1c</id>
+        <link href="https://dev.to/bean_bean/tu-host-llm-hay-dung-api-tinh-diem-hoa-von-truoc-khi-mua-gpu-o1c"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ship a post without five dashboards]]></title>
+        <id>https://dev.to/ahmednaoumdev/ship-a-post-without-five-dashboards-4hjl</id>
+        <link href="https://dev.to/ahmednaoumdev/ship-a-post-without-five-dashboards-4hjl"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging Async/Await Deadlocks in JavaScript: Proven Strategies to Resolve Stalls]]></title>
+        <id>https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-proven-strategies-to-resolve-stalls-2em3</id>
+        <link href="https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-proven-strategies-to-resolve-stalls-2em3"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js 16.3 Instant Navigations: The Release That Finally Fixes the Thing Everyone Complained About]]></title>
+        <id>https://dev.to/alexcloudstar/nextjs-163-instant-navigations-the-release-that-finally-fixes-the-thing-everyone-complained-about-42b0</id>
+        <link href="https://dev.to/alexcloudstar/nextjs-163-instant-navigations-the-release-that-finally-fixes-the-thing-everyone-complained-about-42b0"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
@@ -99,9 +162,23 @@
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js 16.3 Instant Navigations: The Release That Finally Fixes the Thing Everyone Complained About]]></title>
-        <id>https://dev.to/alexcloudstar/nextjs-163-instant-navigations-the-release-that-finally-fixes-the-thing-everyone-complained-about-42b0</id>
-        <link href="https://dev.to/alexcloudstar/nextjs-163-instant-navigations-the-release-that-finally-fixes-the-thing-everyone-complained-about-42b0"/>
+        <title type="html"><![CDATA[Stop Guessing: Extracting Bulletproof Knowledge Graphs from Unstructured Text with LLMs & Zod]]></title>
+        <id>https://dev.to/programmingcentral/stop-guessing-extracting-bulletproof-knowledge-graphs-from-unstructured-text-with-llms-zod-7d4</id>
+        <link href="https://dev.to/programmingcentral/stop-guessing-extracting-bulletproof-knowledge-graphs-from-unstructured-text-with-llms-zod-7d4"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
+        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-4dnh</id>
+        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-4dnh"/>
+        <updated>2026-09-05T16:00:00.000Z</updated>
+        <published>2026-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built an Ultra-Low Latency, Local-First Interview Copilot with Electron, React 19, and Groq Whisper Turbo]]></title>
+        <id>https://dev.to/vishwjeet/how-i-built-an-ultra-low-latency-local-first-interview-copilot-with-electron-react-19-and-groq-4pbg</id>
+        <link href="https://dev.to/vishwjeet/how-i-built-an-ultra-low-latency-local-first-interview-copilot-with-electron-react-19-and-groq-4pbg"/>
         <updated>2026-09-05T16:00:00.000Z</updated>
         <published>2026-09-05T16:00:00.000Z</published>
     </entry>
@@ -148,16 +225,9 @@
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation]]></title>
-        <id>https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/</id>
-        <link href="https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"/>
-        <updated>2026-09-04T16:00:00.000Z</updated>
-        <published>2026-09-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge]]></title>
-        <id>https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/</id>
-        <link href="https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"/>
+        <title type="html"><![CDATA[Oura is going public, but these smart ring companies are coming for its crown]]></title>
+        <id>https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/</id>
+        <link href="https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
@@ -169,198 +239,128 @@
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oura is going public, but these smart ring companies are coming for its crown]]></title>
-        <id>https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/</id>
-        <link href="https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/"/>
+        <title type="html"><![CDATA[Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge]]></title>
+        <id>https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/</id>
+        <link href="https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Micro-Fabrication with a Fiber Tip – A Low-Cost 3D Micro Printing Method [video]]]></title>
-        <id>https://www.youtube.com/watch?v=UvV2CH5il3Q</id>
-        <link href="https://www.youtube.com/watch?v=UvV2CH5il3Q"/>
+        <title type="html"><![CDATA[XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation]]></title>
+        <id>https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/</id>
+        <link href="https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Some Scientists Have 'Magic Hands' in the Lab. This A.I. Is Learning Why.]]></title>
-        <id>https://www.nytimes.com/2026/08/27/science/scientists-experiments-replication-ai.html</id>
-        <link href="https://www.nytimes.com/2026/08/27/science/scientists-experiments-replication-ai.html"/>
+        <title type="html"><![CDATA[Indie Developer Simulator]]></title>
+        <id>https://indiesimulator.com/</id>
+        <link href="https://indiesimulator.com/"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PushVideoAI – Turn PDFs and prompts into digital products instantly]]></title>
-        <id>https://pushvideoai.com/</id>
-        <link href="https://pushvideoai.com/"/>
+        <title type="html"><![CDATA[Money to Wealth – 100% offline net worth and budget tracker (Android)]]></title>
+        <id>https://play.google.com/store/apps/details?id=com.tausif.moneytowealth&amp;hl=en_US</id>
+        <link href="https://play.google.com/store/apps/details?id=com.tausif.moneytowealth&amp;hl=en_US"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mullvad Shuts Down Public Encrypted DNS Servers and Sponsors Quad9 Instead]]></title>
-        <id>https://digitalescapetools.com/2026/09/mullvad-shutting-down-dns-quad9.html</id>
-        <link href="https://digitalescapetools.com/2026/09/mullvad-shutting-down-dns-quad9.html"/>
+        <title type="html"><![CDATA[A field guide to sandboxes for AI]]></title>
+        <id>https://www.luiscardoso.dev/blog/sandboxes-for-ai</id>
+        <link href="https://www.luiscardoso.dev/blog/sandboxes-for-ai"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster]]></title>
-        <id>https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/</id>
-        <link href="https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/"/>
+        <title type="html"><![CDATA[Show HN: textlog – The quieter social microblogging platform. HTML-only, no JS.]]></title>
+        <id>https://textlog.cc/about?hn</id>
+        <link href="https://textlog.cc/about?hn"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gleam and BEAM- Looking beyond the JVM [video]]]></title>
-        <id>https://vimeo.com/1223666800</id>
-        <link href="https://vimeo.com/1223666800"/>
+        <title type="html"><![CDATA[OpenAI GPT-6 Astra is AGI? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=vuFYLqe3-xc</id>
+        <link href="https://www.youtube.com/watch?v=vuFYLqe3-xc"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It took me more than a year to build – the zombie survival phone]]></title>
-        <id>https://zsc.sh/zsc-1/</id>
-        <link href="https://zsc.sh/zsc-1/"/>
+        <title type="html"><![CDATA[Ancient Coins Reveal a Wealth of Information About the Roman Republic]]></title>
+        <id>https://nautil.us/ancient-coins-reveal-a-wealth-of-information-about-the-roman-republic-1284847</id>
+        <link href="https://nautil.us/ancient-coins-reveal-a-wealth-of-information-about-the-roman-republic-1284847"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Memocept – Your Guide to Better Everyday Wellness]]></title>
-        <id>https://finance.yahoo.com/healthcare/articles/memocept-introduces-multi-ingredient-dietary-163100780.html</id>
-        <link href="https://finance.yahoo.com/healthcare/articles/memocept-introduces-multi-ingredient-dietary-163100780.html"/>
+        <title type="html"><![CDATA[How the Planet-Altering Disaster of "Forever Chemicals" Was Kept Secret]]></title>
+        <id>https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen</id>
+        <link href="https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git hosting that never leaves Europe]]></title>
-        <id>https://pushin.eu</id>
-        <link href="https://pushin.eu"/>
+        <title type="html"><![CDATA[Doomscrolling Ourselves to Death]]></title>
+        <id>https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death</id>
+        <link href="https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic & friends caught paying religious NGO's 3.3M for propaganda]]></title>
-        <id>https://www.effort.news/revelation</id>
-        <link href="https://www.effort.news/revelation"/>
+        <title type="html"><![CDATA[Astra One Shotted Cains's Jawbone]]></title>
+        <id>https://news.ycombinator.com/item?id=49574893</id>
+        <link href="https://news.ycombinator.com/item?id=49574893"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Mu, two-minute visualized lessons on modern AI]]></title>
-        <id>https://mu.vizuara.ai/</id>
-        <link href="https://mu.vizuara.ai/"/>
+        <title type="html"><![CDATA[macOS 26.7 Code Hints at Two Unreleased Apple Game Controllers]]></title>
+        <id>https://www.macrumors.com/2026/09/04/macos-26-7-code-game-controllers/</id>
+        <link href="https://www.macrumors.com/2026/09/04/macos-26-7-code-game-controllers/"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The U.N. backs a new world map showing Africa in its true relative size]]></title>
-        <id>https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote</id>
-        <link href="https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote"/>
+        <title type="html"><![CDATA['Guilt by association': why 7 int'l aid workers were killed in Israeli airstrike]]></title>
+        <id>https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation</id>
+        <link href="https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: map data onto a globe]]></title>
-        <id>https://github.com/atlaslib/globe</id>
-        <link href="https://github.com/atlaslib/globe"/>
+        <title type="html"><![CDATA[Second complete map of a fruit fly brain completed]]></title>
+        <id>https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/</id>
+        <link href="https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Free macOS App to import photos from memory card with file naming rules]]></title>
-        <id>https://github.com/jianfenglin-git/photo-batch-importer</id>
-        <link href="https://github.com/jianfenglin-git/photo-batch-importer"/>
+        <title type="html"><![CDATA[Monocode – A modern GUI for your coding agents]]></title>
+        <id>https://github.com/hardbeat920/monocode</id>
+        <link href="https://github.com/hardbeat920/monocode"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[El Niño Forecast to Be Strongest on Record]]></title>
-        <id>https://healthpolicy-watch.news/ongoing-el-nino-set-to-strongest-on-record-increasing-risks-of-extreme-weather-into-2027/</id>
-        <link href="https://healthpolicy-watch.news/ongoing-el-nino-set-to-strongest-on-record-increasing-risks-of-extreme-weather-into-2027/"/>
+        <title type="html"><![CDATA[GPT-6 Astra in code review: Gains, privacy, and cost]]></title>
+        <id>https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation</id>
+        <link href="https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitSpawn: Untrusted repos can execute code via AI coding agents]]></title>
-        <id>https://www.manifold.security/blog/ai-coding-agents-git-hijack</id>
-        <link href="https://www.manifold.security/blog/ai-coding-agents-git-hijack"/>
+        <title type="html"><![CDATA[I Made a Map of Goodreads]]></title>
+        <id>https://narengogi.github.io/map-of-goodreads/</id>
+        <link href="https://narengogi.github.io/map-of-goodreads/"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[To Ruby from Python]]></title>
-        <id>https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/</id>
-        <link href="https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/"/>
-        <updated>2026-09-04T16:00:00.000Z</updated>
-        <published>2026-09-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying blojsom 2.28 (2006) on a modern host, 2026]]></title>
-        <id>https://blojsom.audiodude.xyz/blojsom/blog/</id>
-        <link href="https://blojsom.audiodude.xyz/blojsom/blog/"/>
-        <updated>2026-09-04T16:00:00.000Z</updated>
-        <published>2026-09-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vietnam Ho Chi Minh City proposes curbs on gasoline, diesel vehicles from 2027]]></title>
-        <id>https://www.reuters.com/world/asia-pacific/vietnams-ho-chi-minh-city-proposes-curbs-gasoline-diesel-vehicles-mid-2027-2026-08-26/</id>
-        <link href="https://www.reuters.com/world/asia-pacific/vietnams-ho-chi-minh-city-proposes-curbs-gasoline-diesel-vehicles-mid-2027-2026-08-26/"/>
-        <updated>2026-09-04T16:00:00.000Z</updated>
-        <published>2026-09-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Fable 5.1 vs. GPT-6 Astra, who wins on the 3D modeling?]]></title>
-        <id>https://github.com/PhiloLabs/fable51-worlds/tree/main</id>
-        <link href="https://github.com/PhiloLabs/fable51-worlds/tree/main"/>
-        <updated>2026-09-04T16:00:00.000Z</updated>
-        <published>2026-09-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Taste" Will Not Save You]]></title>
-        <id>https://molochinations.substack.com/p/taste-will-not-save-you</id>
-        <link href="https://molochinations.substack.com/p/taste-will-not-save-you"/>
-        <updated>2026-09-04T16:00:00.000Z</updated>
-        <published>2026-09-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The jobs apocalypse is postponed. An AI jobs boom is here]]></title>
-        <id>https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here</id>
-        <link href="https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"/>
-        <updated>2026-09-04T16:00:00.000Z</updated>
-        <published>2026-09-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Movie Can't Be Just Its Own Thing Anymore]]></title>
-        <id>https://www.theatlantic.com/culture/2026/09/onslaught-movie-review-a24-adam-wingard/688521/</id>
-        <link href="https://www.theatlantic.com/culture/2026/09/onslaught-movie-review-a24-adam-wingard/688521/"/>
-        <updated>2026-09-04T16:00:00.000Z</updated>
-        <published>2026-09-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Video Wall Live – View all your Ring cameras at once, on the big screen]]></title>
-        <id>https://ring.com/pages/appstore/video-wall-live</id>
-        <link href="https://ring.com/pages/appstore/video-wall-live"/>
-        <updated>2026-09-04T16:00:00.000Z</updated>
-        <published>2026-09-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shotdock – Wayland screenshot, recording, and window framing tool in Rust]]></title>
-        <id>https://github.com/sirrryasir/shotdock</id>
-        <link href="https://github.com/sirrryasir/shotdock"/>
-        <updated>2026-09-04T16:00:00.000Z</updated>
-        <published>2026-09-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Actively exploited sandbox RCE in all Chromium versions]]></title>
-        <id>https://nvd.nist.gov/vuln/detail/cve-2026-85046</id>
-        <link href="https://nvd.nist.gov/vuln/detail/cve-2026-85046"/>
-        <updated>2026-09-04T16:00:00.000Z</updated>
-        <published>2026-09-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Fast rust-based repository launcher for your code projects]]></title>
-        <id>https://santiagodevelopment.com/p/2026/9/4/repo-zoo</id>
-        <link href="https://santiagodevelopment.com/p/2026/9/4/repo-zoo"/>
+        <title type="html"><![CDATA[Building a Desktop UI in Rust and GPUI]]></title>
+        <id>https://blog.sheerluck.dev/posts/your-first-gpui-app-building-a-desktop-ui-in-rust/</id>
+        <link href="https://blog.sheerluck.dev/posts/your-first-gpui-app-building-a-desktop-ui-in-rust/"/>
         <updated>2026-09-04T16:00:00.000Z</updated>
         <published>2026-09-04T16:00:00.000Z</published>
     </entry>
