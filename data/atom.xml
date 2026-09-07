@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-07T10:02:21.322Z</updated>
+    <updated>2026-09-07T15:03:45.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,44 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes]]></title>
-        <id>https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/</id>
-        <link href="https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/"/>
+        <title type="html"><![CDATA[The real reason your phone is getting more expensive]]></title>
+        <id>https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone</id>
+        <link href="https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds]]></title>
+        <id>https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8</id>
+        <link href="https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huawei copies Samsung’s privacy display in its latest trifold]]></title>
+        <id>https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display</id>
+        <link href="https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two of the Universe's Great Mysteries May Have Their Own Dimension]]></title>
+        <id>https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/</id>
+        <link href="https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.]]></title>
+        <id>https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/</id>
+        <link href="https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Samsung Galaxy Phone Comes With This Unique Add-On]]></title>
+        <id>https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/</id>
+        <link href="https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
@@ -25,6 +60,13 @@
         <title type="html"><![CDATA[Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?]]></title>
         <id>https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/</id>
         <link href="https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes]]></title>
+        <id>https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/</id>
+        <link href="https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
@@ -246,58 +288,16 @@
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Sycophancy Trap: How a 0.7B Parameter Model Fooled a Frontier LLM into Believing It Was a Peer]]></title>
-        <id>https://pub.towardsai.net/the-sycophancy-trap-how-a-0-7b-parameter-model-fooled-a-frontier-llm-into-believing-it-was-a-peer-c786ff46dcc0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-sycophancy-trap-how-a-0-7b-parameter-model-fooled-a-frontier-llm-into-believing-it-was-a-peer-c786ff46dcc0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[You Don’t Need a Cloud GPU Cluster to Fine-Tune Your Own LLM]]></title>
+        <id>https://pub.towardsai.net/you-dont-need-a-cloud-gpu-cluster-to-fine-tune-your-own-llm-83a0baf8e626?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/you-dont-need-a-cloud-gpu-cluster-to-fine-tune-your-own-llm-83a0baf8e626?source=rss----98111c9905da---4"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Software Engineer’s Guide to Large Language Models]]></title>
-        <id>https://pub.towardsai.net/a-software-engineers-guide-to-large-language-models-1efaac0fb805?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/a-software-engineers-guide-to-large-language-models-1efaac0fb805?source=rss----98111c9905da---4"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenWiki In Production: A Realistic Setup & Review Guide]]></title>
-        <id>https://pub.towardsai.net/openwiki-in-production-a-realistic-setup-review-guide-23edce255b09?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/openwiki-in-production-a-realistic-setup-review-guide-23edce255b09?source=rss----98111c9905da---4"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Advanced RAG Architectures Every AI Developer Must Know: A Complete Guide]]></title>
-        <id>https://pub.towardsai.net/7-advanced-rag-architectures-every-ai-developer-must-know-1980249a1391?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/7-advanced-rag-architectures-every-ai-developer-must-know-1980249a1391?source=rss----98111c9905da---4"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Air Canada Catastrophe: Why LLM Applications Need Red-Teaming (Production Guide)]]></title>
-        <id>https://pub.towardsai.net/the-air-canada-catastrophe-why-llm-applications-need-red-teaming-production-guide-db579055fba8?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-air-canada-catastrophe-why-llm-applications-need-red-teaming-production-guide-db579055fba8?source=rss----98111c9905da---4"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Passed the DP-600. The Badge Didn’t Get Me Hired.]]></title>
-        <id>https://pub.towardsai.net/i-passed-the-dp-600-the-badge-didnt-get-me-hired-12293d5b4330?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-passed-the-dp-600-the-badge-didnt-get-me-hired-12293d5b4330?source=rss----98111c9905da---4"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knowledge Graphs Under Agents: Who Updates the Edges?]]></title>
-        <id>https://pub.towardsai.net/knowledge-graphs-under-agents-who-updates-the-edges-249501929d72?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/knowledge-graphs-under-agents-who-updates-the-edges-249501929d72?source=rss----98111c9905da---4"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6 Astra Is More Than an AI Coder. Here’s Why That Matters]]></title>
-        <id>https://pub.towardsai.net/gpt-6-astra-is-more-than-an-ai-coder-heres-why-that-matters-598a23146127?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/gpt-6-astra-is-more-than-an-ai-coder-heres-why-that-matters-598a23146127?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[MCP Prompts in Claude Code: A Simple Guide for Developers]]></title>
+        <id>https://pub.towardsai.net/mcp-prompts-in-claude-code-a-simple-guide-for-developers-2b7a8063f616?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/mcp-prompts-in-claude-code-a-simple-guide-for-developers-2b7a8063f616?source=rss----98111c9905da---4"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
@@ -309,58 +309,58 @@
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Research acceleration: The view inside OpenAI]]></title>
-        <id>https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</id>
-        <link href="https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/"/>
+        <title type="html"><![CDATA[GPT-6 Astra Is More Than an AI Coder. Here’s Why That Matters]]></title>
+        <id>https://pub.towardsai.net/gpt-6-astra-is-more-than-an-ai-coder-heres-why-that-matters-598a23146127?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/gpt-6-astra-is-more-than-an-ai-coder-heres-why-that-matters-598a23146127?source=rss----98111c9905da---4"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spectral-Target Physical Latent Structuring for JEPA-Style World Models]]></title>
-        <id>https://arxiv.org/abs/2609.04264</id>
-        <link href="https://arxiv.org/abs/2609.04264"/>
+        <title type="html"><![CDATA[Knowledge Graphs Under Agents: Who Updates the Edges?]]></title>
+        <id>https://pub.towardsai.net/knowledge-graphs-under-agents-who-updates-the-edges-249501929d72?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/knowledge-graphs-under-agents-who-updates-the-edges-249501929d72?source=rss----98111c9905da---4"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quantum-Assisted Memory-Efficient Training for Parameter-Intensive Wi-Fi-Based Human Activity Recognition]]></title>
-        <id>https://arxiv.org/abs/2609.04271</id>
-        <link href="https://arxiv.org/abs/2609.04271"/>
+        <title type="html"><![CDATA[I Passed the DP-600. The Badge Didn’t Get Me Hired.]]></title>
+        <id>https://pub.towardsai.net/i-passed-the-dp-600-the-badge-didnt-get-me-hired-12293d5b4330?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-passed-the-dp-600-the-badge-didnt-get-me-hired-12293d5b4330?source=rss----98111c9905da---4"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BER-PEF: Unified Human Mobility Predictability Evaluation via Bayes Error Rate Estimation]]></title>
-        <id>https://arxiv.org/abs/2609.04292</id>
-        <link href="https://arxiv.org/abs/2609.04292"/>
+        <title type="html"><![CDATA[The Air Canada Catastrophe: Why LLM Applications Need Red-Teaming (Production Guide)]]></title>
+        <id>https://pub.towardsai.net/the-air-canada-catastrophe-why-llm-applications-need-red-teaming-production-guide-db579055fba8?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-air-canada-catastrophe-why-llm-applications-need-red-teaming-production-guide-db579055fba8?source=rss----98111c9905da---4"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[REFINE: LLM Refinement over Budgeted Text-Attributed Graphs for Personalized Medical Concept Representation]]></title>
-        <id>https://arxiv.org/abs/2609.04415</id>
-        <link href="https://arxiv.org/abs/2609.04415"/>
+        <title type="html"><![CDATA[7 Advanced RAG Architectures Every AI Developer Must Know: A Complete Guide]]></title>
+        <id>https://pub.towardsai.net/7-advanced-rag-architectures-every-ai-developer-must-know-1980249a1391?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/7-advanced-rag-architectures-every-ai-developer-must-know-1980249a1391?source=rss----98111c9905da---4"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond a Universal Forecasting Selector: Demand-Conditioned Model Selection across Demand Patterns and Horizons]]></title>
-        <id>https://arxiv.org/abs/2609.04425</id>
-        <link href="https://arxiv.org/abs/2609.04425"/>
+        <title type="html"><![CDATA[OpenWiki In Production: A Realistic Setup & Review Guide]]></title>
+        <id>https://pub.towardsai.net/openwiki-in-production-a-realistic-setup-review-guide-23edce255b09?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openwiki-in-production-a-realistic-setup-review-guide-23edce255b09?source=rss----98111c9905da---4"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hakken: Predicting future discoveries to fill the gaps in today's knowledge]]></title>
-        <id>https://arxiv.org/abs/2609.04494</id>
-        <link href="https://arxiv.org/abs/2609.04494"/>
+        <title type="html"><![CDATA[A Software Engineer’s Guide to Large Language Models]]></title>
+        <id>https://pub.towardsai.net/a-software-engineers-guide-to-large-language-models-1efaac0fb805?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-software-engineers-guide-to-large-language-models-1efaac0fb805?source=rss----98111c9905da---4"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast Surrogate Modeling of Excitable and Oscillatory FitzHugh-Nagumo Dynamics with Parametric Neural Operators]]></title>
-        <id>https://arxiv.org/abs/2609.04549</id>
-        <link href="https://arxiv.org/abs/2609.04549"/>
+        <title type="html"><![CDATA[The Sycophancy Trap: How a 0.7B Parameter Model Fooled a Frontier LLM into Believing It Was a Peer]]></title>
+        <id>https://pub.towardsai.net/the-sycophancy-trap-how-a-0-7b-parameter-model-fooled-a-frontier-llm-into-believing-it-was-a-peer-c786ff46dcc0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-sycophancy-trap-how-a-0-7b-parameter-model-fooled-a-frontier-llm-into-believing-it-was-a-peer-c786ff46dcc0?source=rss----98111c9905da---4"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
