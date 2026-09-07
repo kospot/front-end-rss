@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-07T07:02:39.888Z</updated>
+    <updated>2026-09-07T10:02:21.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes]]></title>
+        <id>https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/</id>
+        <link href="https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?]]></title>
+        <id>https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/</id>
+        <link href="https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Authors push back as publishers and agents make claims on Anthropic settlement]]></title>
         <id>https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</id>
@@ -29,128 +43,72 @@
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PC Tweaker – Windows settings with per-change restore, built in Rust]]></title>
-        <id>https://github.com/AurelioAvila/pc-tweaker-app</id>
-        <link href="https://github.com/AurelioAvila/pc-tweaker-app"/>
+        <title type="html"><![CDATA[Show HN: JarPeek – Online Java Class Decompiler(No Upload)]]></title>
+        <id>https://jarpeek.com/class-decompiler</id>
+        <link href="https://jarpeek.com/class-decompiler"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Privacy Leakage from Gradients in Split-LLM Training]]></title>
-        <id>https://arxiv.org/abs/2609.04382</id>
-        <link href="https://arxiv.org/abs/2609.04382"/>
+        <title type="html"><![CDATA[Show HN: Hayduk, a browser-based Metasploit GUI inspired by Armitage]]></title>
+        <id>https://github.com/jolovicdev/hayduk</id>
+        <link href="https://github.com/jolovicdev/hayduk"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elizabeth Holmes A24 Movie – You Can See Everything – Official Teaser HD [video]]]></title>
-        <id>https://www.youtube.com/watch?v=GGJSRFWALTI</id>
-        <link href="https://www.youtube.com/watch?v=GGJSRFWALTI"/>
+        <title type="html"><![CDATA[Show HN: Guile-Secure Your Stack]]></title>
+        <id>https://guile.in</id>
+        <link href="https://guile.in"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astra made Van Gogh in a single pre computed step of 5291 excalidraw shapes]]></title>
-        <id>https://twitter.com/hive_echo/status/2096848073033146580</id>
-        <link href="https://twitter.com/hive_echo/status/2096848073033146580"/>
+        <title type="html"><![CDATA['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes]]></title>
+        <id>https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/</id>
+        <link href="https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta blocks accounts protesting Kushner-linked Albanian resort project]]></title>
-        <id>https://www.politico.eu/article/meta-blocks-accounts-politicians-journalists-and-activists-protesting-jared-kushner-linked-albania-resort/</id>
-        <link href="https://www.politico.eu/article/meta-blocks-accounts-politicians-journalists-and-activists-protesting-jared-kushner-linked-albania-resort/"/>
+        <title type="html"><![CDATA[JavaScript installer pnpm recast in Rust because ECMAScript can't keep up]]></title>
+        <id>https://www.theregister.com/devops/2026/09/04/javascript-installer-pnpm-recast-in-rust-because-ecmascript-cant-keep-up/5294394</id>
+        <link href="https://www.theregister.com/devops/2026/09/04/javascript-installer-pnpm-recast-in-rust-because-ecmascript-cant-keep-up/5294394"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Dislike TypeScript Because I've Never Maintained JavaScript Before]]></title>
-        <id>https://mayberay.bearblog.dev/i-dislike-typescript-because-ive-never-maintained-javascript-before/</id>
-        <link href="https://mayberay.bearblog.dev/i-dislike-typescript-because-ive-never-maintained-javascript-before/"/>
+        <title type="html"><![CDATA[Speculative Decoding in vLLM on AMD GPUs]]></title>
+        <id>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</id>
+        <link href="https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LessHard: Less wrong about wanting [parody]]]></title>
-        <id>https://shimmermathlabs.com/lesshard.html</id>
-        <link href="https://shimmermathlabs.com/lesshard.html"/>
+        <title type="html"><![CDATA[Show HN: Forget Rigid Stock Screeners – A Universal Query API for Financial Data]]></title>
+        <id>https://financialdata.net/universal-query</id>
+        <link href="https://financialdata.net/universal-query"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Blueprintr – Diagram-first knowledge base with live cloud import]]></title>
-        <id>https://blueprintr.io</id>
-        <link href="https://blueprintr.io"/>
+        <title type="html"><![CDATA[GPT 6 created a new universe [video]]]></title>
+        <id>https://www.youtube.com/watch?v=5ldy0Rfx8gA</id>
+        <link href="https://www.youtube.com/watch?v=5ldy0Rfx8gA"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Living Documents Manifesto]]></title>
-        <id>https://orionfold.com/manifesto/</id>
-        <link href="https://orionfold.com/manifesto/"/>
+        <title type="html"><![CDATA[Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?]]></title>
+        <id>https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/</id>
+        <link href="https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printed Hydrogels for Soft Robotic Applications (2025)]]></title>
-        <id>https://www.sciencedirect.com/org/science/article/pii/S0973862225000261</id>
-        <link href="https://www.sciencedirect.com/org/science/article/pii/S0973862225000261"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VCF West 2026: Making games in the 1980s – David Crane, Garry Kitchen [video]]]></title>
-        <id>https://www.youtube.com/watch?v=9ramxZ1a6NM</id>
-        <link href="https://www.youtube.com/watch?v=9ramxZ1a6NM"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slop-Creep: When Building Gets Cheaper Than Thinking]]></title>
-        <id>https://awaitinginput.substack.com/p/slop-creep-when-building-gets-cheaper</id>
-        <link href="https://awaitinginput.substack.com/p/slop-creep-when-building-gets-cheaper"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: MaskShift – a maximalist coding agent with zero NPM dependencies]]></title>
-        <id>https://github.com/nafeeur/MaskShift</id>
-        <link href="https://github.com/nafeeur/MaskShift"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Rumsey Map Collection]]></title>
-        <id>https://www.davidrumsey.com</id>
-        <link href="https://www.davidrumsey.com"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: AlternateRealities.lol – Create any kind of poing and click story]]></title>
-        <id>https://alternaterealities.lol</id>
-        <link href="https://alternaterealities.lol"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenLedger – Local-first double-entry accounting, MCP-native (Apache 2.0)]]></title>
-        <id>https://github.com/Attri-Inc/open-ledger</id>
-        <link href="https://github.com/Attri-Inc/open-ledger"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude formalized Fermat's Last Theorem in 11 days]]></title>
-        <id>https://www.anthropic.com/news/formalizing-fermats-last-theorem</id>
-        <link href="https://www.anthropic.com/news/formalizing-fermats-last-theorem"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS Amplifier Re-Publishes 19 Full NLJ Articles Without Permission]]></title>
-        <id>https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/</id>
-        <link href="https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/"/>
+        <title type="html"><![CDATA[Keep Our Servers Running: Your Recurring Donation Goes 3X This September]]></title>
+        <id>https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/</id>
+        <link href="https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
@@ -162,9 +120,128 @@
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keep Our Servers Running: Your Recurring Donation Goes 3X This September]]></title>
-        <id>https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/</id>
-        <link href="https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"/>
+        <title type="html"><![CDATA[RSS Amplifier Re-Publishes 19 Full NLJ Articles Without Permission]]></title>
+        <id>https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/</id>
+        <link href="https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude formalized Fermat's Last Theorem in 11 days]]></title>
+        <id>https://www.anthropic.com/news/formalizing-fermats-last-theorem</id>
+        <link href="https://www.anthropic.com/news/formalizing-fermats-last-theorem"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenLedger – Local-first double-entry accounting, MCP-native (Apache 2.0)]]></title>
+        <id>https://github.com/Attri-Inc/open-ledger</id>
+        <link href="https://github.com/Attri-Inc/open-ledger"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: AlternateRealities.lol – Create any kind of poing and click story]]></title>
+        <id>https://alternaterealities.lol</id>
+        <link href="https://alternaterealities.lol"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Rumsey Map Collection]]></title>
+        <id>https://www.davidrumsey.com</id>
+        <link href="https://www.davidrumsey.com"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: MaskShift – a maximalist coding agent with zero NPM dependencies]]></title>
+        <id>https://github.com/nafeeur/MaskShift</id>
+        <link href="https://github.com/nafeeur/MaskShift"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slop-Creep: When Building Gets Cheaper Than Thinking]]></title>
+        <id>https://awaitinginput.substack.com/p/slop-creep-when-building-gets-cheaper</id>
+        <link href="https://awaitinginput.substack.com/p/slop-creep-when-building-gets-cheaper"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VCF West 2026: Making games in the 1980s – David Crane, Garry Kitchen [video]]]></title>
+        <id>https://www.youtube.com/watch?v=9ramxZ1a6NM</id>
+        <link href="https://www.youtube.com/watch?v=9ramxZ1a6NM"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printed Hydrogels for Soft Robotic Applications (2025)]]></title>
+        <id>https://www.sciencedirect.com/org/science/article/pii/S0973862225000261</id>
+        <link href="https://www.sciencedirect.com/org/science/article/pii/S0973862225000261"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Living Documents Manifesto]]></title>
+        <id>https://orionfold.com/manifesto/</id>
+        <link href="https://orionfold.com/manifesto/"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Blueprintr – Diagram-first knowledge base with live cloud import]]></title>
+        <id>https://blueprintr.io</id>
+        <link href="https://blueprintr.io"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LessHard: Less wrong about wanting [parody]]]></title>
+        <id>https://shimmermathlabs.com/lesshard.html</id>
+        <link href="https://shimmermathlabs.com/lesshard.html"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Dislike TypeScript Because I've Never Maintained JavaScript Before]]></title>
+        <id>https://mayberay.bearblog.dev/i-dislike-typescript-because-ive-never-maintained-javascript-before/</id>
+        <link href="https://mayberay.bearblog.dev/i-dislike-typescript-because-ive-never-maintained-javascript-before/"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta blocks accounts protesting Kushner-linked Albanian resort project]]></title>
+        <id>https://www.politico.eu/article/meta-blocks-accounts-politicians-journalists-and-activists-protesting-jared-kushner-linked-albania-resort/</id>
+        <link href="https://www.politico.eu/article/meta-blocks-accounts-politicians-journalists-and-activists-protesting-jared-kushner-linked-albania-resort/"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astra made Van Gogh in a single pre computed step of 5291 excalidraw shapes]]></title>
+        <id>https://twitter.com/hive_echo/status/2096848073033146580</id>
+        <link href="https://twitter.com/hive_echo/status/2096848073033146580"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elizabeth Holmes A24 Movie – You Can See Everything – Official Teaser HD [video]]]></title>
+        <id>https://www.youtube.com/watch?v=GGJSRFWALTI</id>
+        <link href="https://www.youtube.com/watch?v=GGJSRFWALTI"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy Leakage from Gradients in Split-LLM Training]]></title>
+        <id>https://arxiv.org/abs/2609.04382</id>
+        <link href="https://arxiv.org/abs/2609.04382"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PC Tweaker – Windows settings with per-change restore, built in Rust]]></title>
+        <id>https://github.com/AurelioAvila/pc-tweaker-app</id>
+        <link href="https://github.com/AurelioAvila/pc-tweaker-app"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
@@ -284,83 +361,6 @@
         <title type="html"><![CDATA[Fast Surrogate Modeling of Excitable and Oscillatory FitzHugh-Nagumo Dynamics with Parametric Neural Operators]]></title>
         <id>https://arxiv.org/abs/2609.04549</id>
         <link href="https://arxiv.org/abs/2609.04549"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Representation Redundancy and Structural Complexity in Finite-Field Inversion]]></title>
-        <id>https://arxiv.org/abs/2609.04583</id>
-        <link href="https://arxiv.org/abs/2609.04583"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNN-Guided Graph Coarsening and Adaptive QUBO Penalties for the Capacitated Vehicle Routing Problem with Time Windows on a Quantum Annealer]]></title>
-        <id>https://arxiv.org/abs/2609.04593</id>
-        <link href="https://arxiv.org/abs/2609.04593"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Fairness Audit of the Duckworth-Lewis-Stern Method: Format-Specific and Gender-Differential Bias, with an Interpretable Calibration Layer for Cricket Target Revision]]></title>
-        <id>https://arxiv.org/abs/2609.04754</id>
-        <link href="https://arxiv.org/abs/2609.04754"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resilience Beyond Stationary Client Unavailability: Unlocking Efficient and Unbiased Federated Learning]]></title>
-        <id>https://arxiv.org/abs/2609.04763</id>
-        <link href="https://arxiv.org/abs/2609.04763"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Faithful Is Attribution for Sales Forecasting? A Counterfactual Study]]></title>
-        <id>https://arxiv.org/abs/2609.04797</id>
-        <link href="https://arxiv.org/abs/2609.04797"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Federated Attack Campaign Detection via Contrastive Encoding of Threat Indicators in Gradient Updates]]></title>
-        <id>https://arxiv.org/abs/2609.04815</id>
-        <link href="https://arxiv.org/abs/2609.04815"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Communication-Efficient Personalized Federated Learning via Layer-Wise Multi-Threshold Random Sketching]]></title>
-        <id>https://arxiv.org/abs/2609.04830</id>
-        <link href="https://arxiv.org/abs/2609.04830"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KVMem: Virtualizing Million-Token Agent Workspaces on a Consumer GPU]]></title>
-        <id>https://arxiv.org/abs/2609.04852</id>
-        <link href="https://arxiv.org/abs/2609.04852"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Deep to Shallow: Unconstrained and Efficient Layer Merging Strategy]]></title>
-        <id>https://arxiv.org/abs/2609.04881</id>
-        <link href="https://arxiv.org/abs/2609.04881"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Gauss Sums via Flash Attention]]></title>
-        <id>https://arxiv.org/abs/2609.04910</id>
-        <link href="https://arxiv.org/abs/2609.04910"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physics-Aware Random Walk Fingerprints for Scalable Power Grid Graph Classification]]></title>
-        <id>https://arxiv.org/abs/2609.04943</id>
-        <link href="https://arxiv.org/abs/2609.04943"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
