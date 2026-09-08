@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-09-08 21:02:42，:rocket: 更新条数: +1957， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-08 23:02:16，:rocket: 更新条数: +1886， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -31,13 +31,13 @@
 - [有赞技术团队](#有赞技术团队)![](/assets/dot.png)   
 - [张鑫旭](#张鑫旭)![](/assets/dot.png)   
 - [阮一峰](#阮一峰)  
-- [Anthony-Fu](#anthony-fu)![](/assets/dot.png)   
+- [Anthony-Fu](#anthony-fu)  
 - [Randy's-Blog](#randy's-blog)![](/assets/dot.png)   
-- [GitHub-Trending-JS](#github-trending-js)  
+- [GitHub-Trending-JS](#github-trending-js)![](/assets/dot.png)   
 - [美团技术团队](#美团技术团队)  
 - [InfoQ](#infoq)  
 - [GitHub-Engineering](#github-engineering)  
-- [O'Reilly-Radar](#o'reilly-radar)![](/assets/dot.png)   
+- [O'Reilly-Radar](#o'reilly-radar)  
 - [Martin-Fowler](#martin-fowler)![](/assets/dot.png)   
 - [arXiv-ML](#arxiv-ml)  
 - [HuggingFace-Blog](#huggingface-blog)  
@@ -50,7 +50,7 @@
 - [TechCrunch](#techcrunch)  
 - [Wired](#wired)![](/assets/dot.png)   
 - [Engadget](#engadget)![](/assets/dot.png)   
-- [少数派](#少数派)![](/assets/dot.png)   
+- [少数派](#少数派)  
 
 ## 文章链接
 
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2026-09-08-When-8-chunks-weigh-more-than-355](https://javascriptweekly.com/issues/801) ![](/assets/new.png)  
 - [2026-09-01-How-to-fit-Minesweeper-into-247-bytes](https://javascriptweekly.com/issues/800)  
 - [2026-08-25-Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799)  
 - [2026-08-11-Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)  
@@ -99,20 +100,20 @@
 </summary>
 
 
-- [2026-08-31-Let’s-Use-the-Emergent-CSS-random-Function-in-all-the-Browsers](https://css-tricks.com/css-random-function-polyfill/)  
 - [2026-08-31-What’s-!important-#18:-&lt;geolocation&gt;,-Syntax-::highlighting,-named-feature,-and-More](https://css-tricks.com/whats-important-18/)  
+- [2026-08-31-Let’s-Use-the-Emergent-CSS-random-Function-in-all-the-Browsers](https://css-tricks.com/css-random-function-polyfill/)  
 - [2026-08-27-Creating-Web-Widgets-Using-the-Document-Picture-in-Picture-API](https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/)  
 - [2026-08-26-animation-trigger](https://css-tricks.com/almanac/properties/a/animation-trigger/)  
 - [2026-08-25-MicroLighter:-Syntax-Highlighter](https://css-tricks.com/microlighter-syntax-highlighter/)  
 - [2026-08-24-WordPress-PHP-Only-Block-Registration](https://css-tricks.com/wordpress-php-block-registration/)  
 - [2026-08-21-Resolved:-CSS-Class-Prefix-Selector](https://css-tricks.com/resolved-css-class-prefix-selector/)  
-- [2026-08-19-CSS-Navigation-Matching,-Early-Days](https://css-tricks.com/css-navigation-matching-early-days/)  
 - [2026-08-19-WordPress.com-Student-Plan](https://css-tricks.com/wordpress-student-plan/)  
+- [2026-08-19-CSS-Navigation-Matching,-Early-Days](https://css-tricks.com/css-navigation-matching-early-days/)  
 - [2026-08-17-Dark-mode-toggles:-two-states-are-enough](https://css-tricks.com/dark-mode-toggles-two-states-are-enough/)  
 - [2026-08-14-What’s-!important-#17:-Custom-Highlight-API,-CSS-Navigation-Matching,-Fixing-text-stroke,-and-More](https://css-tricks.com/whats-important-17/)  
 - [2026-08-12-Blocked-aria-hidden:-The-Warning-is-Right,-and-Every-Fix-You’ve-Found-is-Wrong](https://css-tricks.com/blocked-aria-hidden-fix/)  
-- [2026-08-10-Animating-CSS-border-image](https://css-tricks.com/animating-css-border-image/)  
 - [2026-08-10-SmashingConf-Freiburg-2026,-September-7-10](https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/)  
+- [2026-08-10-Animating-CSS-border-image](https://css-tricks.com/animating-css-border-image/)  
 - [......【查看更多】......](/details/CSS-Tricks.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -251,26 +252,26 @@
 </summary>
 
 
-- [2026-09-08-Your-Solana-Wallet-Is-Holding-Money-You-Forgot-About-—-Here's-the-On-Chain-Reason-Why](https://dev.to/blockexperts/your-solana-wallet-is-holding-money-you-forgot-about-heres-the-on-chain-reason-why-1f1f)  
-- [2026-09-08-Gmail's-Trash-gives-back-your-emails,-not-your-undo](https://dev.to/tiltedlunar123/gmails-trash-gives-back-your-emails-not-your-undo-5ce6)  
-- [2026-09-08-You-don't-need-a-state-management-library-in-2026](https://dev.to/infoinlet1/you-dont-need-a-state-management-library-in-2026-581i)  
-- [2026-09-08-The-Universal-In-Browser-Voice-Translator](https://dev.to/aiman_aiman_c3b3e585af72c/the-universal-in-browser-voice-translator-1m0a)  
-- [2026-09-08-Cut-Costs-Fast:-Embed-Zyctra-AI-Into-Your-App](https://dev.to/zyctraai/cut-costs-fast-embed-zyctra-ai-into-your-app-404i)  
-- [2026-09-08-Writing-a-Frontmatter-Parser-in-60-Lines-Instead-of-Adding-a-Dependency](https://dev.to/mrnoyy/writing-a-frontmatter-parser-in-60-lines-instead-of-adding-a-dependency-45jc)  
-- [2026-09-08-Developing-iOS-Without-a-Mac:-Several-Feasible-Solutions-Using-Cloud-Services-and-Built-in-Compilers](https://dev.to/uikit_ninja/developing-ios-without-a-mac-several-feasible-solutions-using-cloud-services-and-built-in-compilers-1n3i)  
-- [2026-09-08-The-FAQ-Rich-Result-You're-Chasing-Doesn't-Exist-Anymore](https://dev.to/seobysubham/the-faq-rich-result-youre-chasing-doesnt-exist-anymore-160a)  
-- [2026-09-08-I-Built-a-Place-to-Find-Your-Next-Remote-Work-Café](https://dev.to/morethananapp/i-built-a-place-to-find-your-next-remote-work-cafe-a15)  
-- [2026-09-08-I-Implemented-npm,-Cargo,-Composer-and-pip-Semver.-Only-2-of-13-Ranges-Mean-the-Same-Thing-in-All-Four.](https://dev.to/dev48v/i-implemented-npm-cargo-composer-and-pip-semver-only-2-of-13-ranges-mean-the-same-thing-in-all-3ah1)  
-- [2026-09-08-The-Optimistic-UI-Rollback-Everyone-Writes-Is-Exactly-Right-for-a-Toggle-and-the-Worst-Option-for-a-Set](https://dev.to/dev48v/the-optimistic-ui-rollback-everyone-writes-is-exactly-right-for-a-toggle-and-the-worst-option-for-a-4l97)  
-- [2026-09-08-Whatever-Length-3-Coin-Pattern-You-Pick,-I-Have-a-Reply-That-Beats-It-—-and-My-Worst-Case-Is-2/3](https://dev.to/dev48v/whatever-length-3-coin-pattern-you-pick-i-have-a-reply-that-beats-it-and-my-worst-case-is-23-md3)  
-- [2026-09-08-How-to-Add-Images-to-a-PDF-in-JavaScript-React-|-Complete-Guide](https://dev.to/eiceblue/how-to-add-images-to-a-pdf-in-javascript-react-complete-guide-322g)  
-- [2026-09-08-4-Top-Sites-to-Buy-old-Gmail-Accounts-Aged-or-New-in-...](https://dev.to/smmusapva1243/4-top-sites-to-buy-old-gmail-accounts-aged-or-new-in--22po)  
-- [2026-09-08-Second-Machine,-Same-Grade:-A-Bootcamp-Lab-on-Hidden-Local-Assumptions](https://dev.to/hackjs_7468/second-machine-same-grade-a-bootcamp-lab-on-hidden-local-assumptions-21fk)  
-- [2026-09-08-Classify-Fixture-Hunks-Before-Merging-an-Agent-PR](https://dev.to/codejs_6920/classify-fixture-hunks-before-merging-an-agent-pr-g0m)  
-- [2026-09-08-I-Scraped-100-Sports-Matches-—-Here-Is-What-I-Found:-Pietersen-joins-Englands-white-ball-coaching-team](https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-sports-matches-here-is-what-i-found-pietersen-joins-englands-white-ball-coaching-1iaf)  
-- [2026-09-08-I-Scraped-100-Tennis-Matches-—-Here-Is-What-I-Found:-Were-not-robots-why-US-Open-mens-contenders-have-tumbled](https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-tennis-matches-here-is-what-i-found-were-not-robots-why-us-open-mens-contenders-4d67)  
-- [2026-09-08-Stop-Treating-'use-client'-Like-a-Code-Smell-in-Next.js](https://dev.to/nainikmehta/stop-treating-use-client-like-a-code-smell-in-nextjs-3a1j)  
-- [2026-09-08-What-a-Browser-Extension's-Test-Suite-Cannot-Reach](https://dev.to/megapixel99/what-a-browser-extensions-test-suite-cannot-reach-189n)  
+- [2026-09-08-How-to-Sign-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-sign-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-4n03)  
+- [2026-09-08-How-I-Built-16-Developer-Tools-with-Zero-Backend-and-Full-Privacy-–-and-You-Can-Too](https://dev.to/elvingts/how-i-built-16-developer-tools-with-zero-backend-and-full-privacy-and-you-can-too-1bn)  
+- [2026-09-08-Paid-Collaboration-–-Private-Software-Repository-Acquisition](https://dev.to/prajapati_anandramawadh_/paid-collaboration-private-software-repository-acquisition-2hee)  
+- [2026-09-08-How-to-Calculate-Hours-Worked-in-Excel-Without-Breaking-Payroll-Math](https://dev.to/cc_df91c4a3f6d5a15f18577/how-to-calculate-hours-worked-in-excel-without-breaking-payroll-math-4o9i)  
+- [2026-09-08-The-Game-Math-You-Actually-Need-To-Ship-A-Web-Game](https://dev.to/paulcrinigan/the-game-math-you-actually-need-to-ship-a-web-game-56ec)  
+- [2026-09-08-App-para-consultar-multas-de-tránsito-en-Argentina:-32-jurisdicciones-desde-el-celular,-sin-Play-Store](https://dev.to/multita/app-para-consultar-multas-de-transito-en-argentina-32-jurisdicciones-desde-el-celular-sin-play-nmb)  
+- [2026-09-08-Debugging-Async/Await-Deadlocks-in-JavaScript:-A-Complete-Guide-for-Developers](https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-a-complete-guide-for-developers-115p)  
+- [2026-09-08-"Application-error:-a-client-side-exception-has-occurred"-Is-a-Stale-Chunk-404](https://dev.to/ai_changewatch/application-error-a-client-side-exception-has-occurred-is-a-stale-chunk-404-28nk)  
+- [2026-09-08-LeetCode-#135:-Candy](https://dev.to/souravdey777/leetcode-135-candy-14cd)  
+- [2026-09-08-LeetCode-#1710:-Maximum-Units-on-a-Truck](https://dev.to/souravdey777/leetcode-1710-maximum-units-on-a-truck-2f16)  
+- [2026-09-08-NestForge---An-CLI-for-NestJS-projects](https://dev.to/jeiel2013/nestforge-an-cli-for-nestjs-projects-2f32)  
+- [2026-09-08-Mission-Candidate-Selection-Summary-—-Free-Spigit-Alternative](https://dev.to/jack_green_7b74cb2cdf9e23/mission-candidate-selection-summary-free-spigit-alternative-2cl5)  
+- [2026-09-08-I-stopped-uploading-PDFs-to-random-websites-—-here's-the-browser-only-version](https://dev.to/akshaymadhan/i-stopped-uploading-pdfs-to-random-websites-heres-the-browser-only-version-3m72)  
+- [2026-09-08-websheet](https://dev.to/11627685/websheet-382)  
+- [2026-09-08-Rendering-24-Shareable-Images-a-Day-With-HTML,-CSS-and-Playwright](https://dev.to/zongkai_sun_0946ae0d49db2/rendering-24-shareable-images-a-day-with-html-css-and-playwright-1ne5)  
+- [2026-09-08-Claude-Code-Permission-Modes-in-2026:-What-`--allowedTools`,-Whitelists,-and-Sandbox-Boundaries-Actually-Restrict](https://dev.to/jsmanifest/claude-code-permission-modes-in-2026-what-allowedtools-whitelists-and-sandbox-boundaries-28k3)  
+- [2026-09-08-A-small-contract-for-catching-data-drift-before-it-breaks-a-pipeline](https://dev.to/nimbliquestudio/a-small-contract-for-catching-data-drift-before-it-breaks-a-pipeline-1430)  
+- [2026-09-08-Building-an-In-App-Rescheduling-Flow-That-Actually-Confirms-the-Change](https://dev.to/ai_superapp/building-an-in-app-rescheduling-flow-that-actually-confirms-the-change-1bio)  
+- [2026-09-08-Performance-That-Matters:-Core-Web-Vitals-for-Full-Stack-Teams](https://dev.to/hiddenbrainsinfotech/performance-that-matters-core-web-vitals-for-full-stack-teams-4hh1)  
+- [2026-09-08-Build-a-Local-ChatGPT-UI-with-Zero-API-Costs](https://dev.to/amrendra_n_mishra/build-a-local-chatgpt-ui-with-zero-api-costs-h7d)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,38 +347,38 @@
 </summary>
 
 
-- [2026-09-08-mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)  
-- [2026-09-08-spicetify/cli](https://github.com/spicetify/cli)  
-- [2026-09-08-Yu9191/wloc](https://github.com/Yu9191/wloc)  
-- [2026-09-08-Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode)  
-- [2026-09-08-fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)  
-- [2026-09-08-koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader)  
-- [2026-09-08--What's-New-in-Mongoose-9.9:-Major-Performance-Improvements-](
-https://thecodebarbarian.com/mongoose-99-perf.html
-)  
-- [2026-09-08--Kysera-0.10-—-a-type-safe-data-layer-for-Kysely:-RLS-enforced-in-SQL,-atomic-audit,-advisory-locked-migrations.-Not-an-ORM-](
-https://kysera.dev/
-)  
-- [2026-09-08--My-test-suite-had-100%-coverage.-Mutation-testing-still-found-real-bugs-](
-https://dev.to/pinceladasdaweb/my-test-suite-had-100-coverage-mutation-testing-still-found-real-bugs-2man
+- [2026-09-08--Neutralinojs-v6.9-released!-](
+https://neutralino.js.org/docs/release-notes/framework#v690
 )  
 - [2026-09-08--Xec-—-the-zx-style-$-that-also-runs-over-SSH,-Docker-and-Kubernetes-](
 https://xec.sh/
 )  
-- [2026-09-08--Neutralinojs-v6.9-released!-](
-https://neutralino.js.org/docs/release-notes/framework#v690
+- [2026-09-08--My-test-suite-had-100%-coverage.-Mutation-testing-still-found-real-bugs-](
+https://dev.to/pinceladasdaweb/my-test-suite-had-100-coverage-mutation-testing-still-found-real-bugs-2man
 )  
-- [2026-09-07-ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux)  
+- [2026-09-08--Kysera-0.10-—-a-type-safe-data-layer-for-Kysely:-RLS-enforced-in-SQL,-atomic-audit,-advisory-locked-migrations.-Not-an-ORM-](
+https://kysera.dev/
+)  
+- [2026-09-08--What's-New-in-Mongoose-9.9:-Major-Performance-Improvements-](
+https://thecodebarbarian.com/mongoose-99-perf.html
+)  
+- [2026-09-08-koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader)  
+- [2026-09-08-fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)  
+- [2026-09-08-Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode)  
+- [2026-09-08-Yu9191/wloc](https://github.com/Yu9191/wloc)  
+- [2026-09-08-spicetify/cli](https://github.com/spicetify/cli)  
+- [2026-09-08-mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)  
+- [2026-09-08-viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) ![](/assets/new.png)  
 - [2026-09-07--A-60Hz-low-latency-multiplayer-browser-game-on-Cloudflare-Durable-Objects:-how-the-netcode-works-](
 https://railmid.com/blog/how-it-works?utm_source=echojs
 )  
-- [2026-09-06-addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  
+- [2026-09-07-ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux)  
 - [2026-09-06-WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code)  
-- [2026-09-05-microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)  
-- [2026-09-05-TechyCSR/OpenCluely](https://github.com/TechyCSR/OpenCluely)  
-- [2026-09-05-gchq/CyberChef](https://github.com/gchq/CyberChef)  
-- [2026-09-05-TryGhost/Ghost](https://github.com/TryGhost/Ghost)  
+- [2026-09-06-addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  
 - [2026-09-05-microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills)  
+- [2026-09-05-TryGhost/Ghost](https://github.com/TryGhost/Ghost)  
+- [2026-09-05-gchq/CyberChef](https://github.com/gchq/CyberChef)  
+- [2026-09-05-TechyCSR/OpenCluely](https://github.com/TechyCSR/OpenCluely)  
 - [......【查看更多】......](/details/GitHub Trending JS.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -452,11 +453,11 @@ https://railmid.com/blog/how-it-works?utm_source=echojs
 </summary>
 
 
-- [2026-09-08-This-geneticist’s-age-reversal-tech-could-help-restore-sight](https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/) ![](/assets/new.png)  
-- [2026-09-08-This-founder-is-making-cheaper,-cleaner-steel](https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/) ![](/assets/new.png)  
-- [2026-09-08-This-AI-entrepreneur-is-developing-agents-that-can-plan-ahead-for-the-unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/) ![](/assets/new.png)  
-- [2026-09-08-This-founder-is-teaching-chips-how-to-recycle-their-energy](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/) ![](/assets/new.png)  
-- [2026-09-08-The-Download:-our-35-Innovators-Under-35-this-year](https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/) ![](/assets/new.png)  
+- [2026-09-08-This-geneticist’s-age-reversal-tech-could-help-restore-sight](https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/)  
+- [2026-09-08-This-founder-is-making-cheaper,-cleaner-steel](https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/)  
+- [2026-09-08-This-AI-entrepreneur-is-developing-agents-that-can-plan-ahead-for-the-unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/)  
+- [2026-09-08-This-founder-is-teaching-chips-how-to-recycle-their-energy](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/)  
+- [2026-09-08-The-Download:-our-35-Innovators-Under-35-this-year](https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/)  
 - [2026-09-07-The-Download:-the-hunt-for-underground-hydrogen-and-more-rogue-OpenAI-agents](https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/)  
 - [2026-09-05-Architecting-memory-and-storage-in-the-AI-era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/)  
 - [2026-09-04-The-Download:-selling-battlefield-drone-data-and-AI-reshaping-language](https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/)  
@@ -483,14 +484,15 @@ https://railmid.com/blog/how-it-works?utm_source=echojs
 </summary>
 
 
+- [2026-09-08-Do-you-even-need-a-presentation?](https://martinfowler.com/articles/never-send-slides/need-presentation.html) ![](/assets/new.png)  
 - [2026-09-03-Bliki:-Paracelsus-Maxim](https://martinfowler.com/bliki/ParacelsusMaxim.html)  
-- [2026-09-02-Fragments:-September-1](https://martinfowler.com/fragments/2026-09-01.html)  
-- [2026-09-02-Maybe-We-Shouldn't-Be-Reviewing-All-This-Code](https://martinfowler.com/rachels-ramblings/code-review.html)  
 - [2026-09-02-An-Accidental-Blackboard](https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html)  
+- [2026-09-02-Maybe-We-Shouldn't-Be-Reviewing-All-This-Code](https://martinfowler.com/rachels-ramblings/code-review.html)  
+- [2026-09-02-Fragments:-September-1](https://martinfowler.com/fragments/2026-09-01.html)  
 - [2026-08-27-Making-Your-Data-Ready-for-Agentic-AI](https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html)  
 - [2026-08-24-Fragments:-August-24](https://martinfowler.com/fragments/2026-08-24.html)  
-- [2026-08-20-Citizens-Build,-Agents-Execute,-Experts-Govern](https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html)  
 - [2026-08-20-Practitioner-Voice:-The-Writing-Category-Nobody-has-Named-Yet](https://martinfowler.com/articles/practitioner-voice.html)  
+- [2026-08-20-Citizens-Build,-Agents-Execute,-Experts-Govern](https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html)  
 - [2026-08-18-Fragments:-August-18](https://martinfowler.com/fragments/2026-08-18.html)  
 - [2026-08-11-TDD-inside-the-agent-loop---theater-or-actual-value?](https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html)  
 - [......【查看更多】......](/details/Martin Fowler.md)
@@ -595,26 +597,26 @@ https://railmid.com/blog/how-it-works?utm_source=echojs
 </summary>
 
 
-- [2026-09-08-SGLang-Omni:-The-Model-Was-Never-the-Hard-Part](https://pub.towardsai.net/sglang-omni-the-model-was-never-the-hard-part-062a2d24af05?source=rss----98111c9905da---4)  
-- [2026-09-08-Agentic-AI-in-Action-—-Part-28-—-A-Geospatial-Store-Intelligence-Agent-in-Snowflake](https://pub.towardsai.net/agentic-ai-in-action-part-28-a-geospatial-store-intelligence-agent-in-snowflake-d4facffe7a5f?source=rss----98111c9905da---4)  
-- [2026-09-08-Why-AdamW-Exists:-The-Six-Things-a-Gradient-Cannot-Tell-You](https://pub.towardsai.net/why-adamw-exists-the-six-things-a-gradient-cannot-tell-you-5f7c9ef384bb?source=rss----98111c9905da---4)  
-- [2026-09-08-Cracking-Agent-Loops](https://pub.towardsai.net/cracking-agent-loops-02b50abd10fe?source=rss----98111c9905da---4)  
-- [2026-09-08-AI-Coding-Agents:-Who-Writes-Code-in-the-New-Dev-Workflow?](https://pub.towardsai.net/ai-coding-agents-who-writes-code-in-the-new-dev-workflow-77f80cf3a95d?source=rss----98111c9905da---4)  
-- [2026-09-08-Anthropic’s-Fermat-Proof-Is-13-Million-Lines.](https://pub.towardsai.net/anthropics-fermat-proof-is-13-million-lines-7df36801f4a5?source=rss----98111c9905da---4)  
-- [2026-09-08-The-Foggy-Mountain:-The-Intuition-Behind-Gradient-Descent](https://pub.towardsai.net/the-foggy-mountain-the-intuition-behind-gradient-descent-e8cbc803cd23?source=rss----98111c9905da---4)  
-- [2026-09-08-Four-Million-Test-Kits,-Measured-Against-a-Number-From-March-2024](https://pub.towardsai.net/four-million-test-kits-measured-against-a-number-from-march-2024-bbacc827c56a?source=rss----98111c9905da---4)  
-- [2026-09-08-How-to-make-your-chatbot-feel-human](https://pub.towardsai.net/your-ai-chat-is-a-walkie-talkie-not-a-conversation-2b8a79dbafac?source=rss----98111c9905da---4)  
-- [2026-09-08-LLM-Generated-Code-Is-Untrusted-Code:-How-to-Safely-Execute-AI-Written-Programs](https://pub.towardsai.net/llm-generated-code-is-untrusted-code-how-to-safely-execute-ai-written-programs-a670d4145272?source=rss----98111c9905da---4)  
-- [2026-09-08-Claude-Tampers-With-Its-Own-Reward-Function](https://pub.towardsai.net/claude-tampers-with-its-own-reward-function-12fd909ae5b8?source=rss----98111c9905da---4)  
-- [2026-09-08-Shieldstral:-Build-an-AI-Content-Moderation-Classifier-with-Python](https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4)  
-- [2026-09-08-I-Built-an-AI-Reactive-DevOps-Agent-for-AWS-—-It-Detects,-Investigates,-and-Fixes-Incidents--Using…](https://pub.towardsai.net/i-built-an-ai-reactive-devops-agent-for-aws-it-detects-investigates-and-fixes-incidents-using-06ed7864e11f?source=rss----98111c9905da---4)  
-- [2026-09-08-Why-AI-Agents-Trust-Memory-More-Than-Reality](https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4)  
-- [2026-09-08-Graph-Engineering](https://pub.towardsai.net/graph-engineering-e49337901a42?source=rss----98111c9905da---4)  
-- [2026-09-08-How-Does-One-GPU-Serve-Hundreds-of-Users-at-the-Same-Time?](https://pub.towardsai.net/how-does-one-gpu-serve-hundreds-of-users-at-the-same-time-b999e60a440e?source=rss----98111c9905da---4)  
-- [2026-09-08-When-Better-Offline-Evaluation-Still-Cannot-Choose-the-Better-Policy](https://pub.towardsai.net/when-better-offline-evaluation-still-cannot-choose-the-better-policy-fe36668b1cbf?source=rss----98111c9905da---4)  
-- [2026-09-08-Is-Your-Agentic-AI-Actually-Insurable?](https://pub.towardsai.net/is-your-agentic-ai-actually-insurable-acc56ac10d57?source=rss----98111c9905da---4)  
-- [2026-09-08-The-Difference-Between-Normalization-and-Regularization-in-Machine-Learning](https://pub.towardsai.net/the-difference-between-normalization-and-regularization-in-machine-learning-d4b0b804a1b2?source=rss----98111c9905da---4)  
+- [2026-09-08-Kubernetes-Requests-vs.-Limits:-Preventing-Resource-Starvation](https://pub.towardsai.net/kubernetes-requests-vs-limits-preventing-resource-starvation-3f334f5bc4f7?source=rss----98111c9905da---4)  
+- [2026-09-08-I-Built-an-Agentic-Retrieval-System-for-Billions-of-Documents.-Here’s-Everything-That-Broke-First.](https://pub.towardsai.net/i-built-an-agentic-retrieval-system-for-billions-of-documents-heres-everything-that-broke-first-b2540aee4c91?source=rss----98111c9905da---4)  
+- [2026-09-08-Anthropic-Let-Claude-Research-Its-Own-Alignment-Problems.-Here-Is-What-Happened.](https://pub.towardsai.net/anthropic-let-claude-research-its-own-alignment-problems-here-is-what-happened-dcb3ff0180ee?source=rss----98111c9905da---4)  
+- [2026-09-08-The-Board-That-Runs-the-Sprint:-A-Fresher’s-First-Real-Lesson-in-JIRA](https://pub.towardsai.net/the-board-that-runs-the-sprint-a-freshers-first-real-lesson-in-jira-b58d84155aaf?source=rss----98111c9905da---4)  
+- [2026-09-08-From-10×-Developers-to-1000×-Organizations:-The-Agentic-AI-Business-Operating-Model](https://pub.towardsai.net/from-10-developers-to-1000-organizations-the-agentic-ai-business-operating-model-63761739f1fa?source=rss----98111c9905da---4)  
+- [2026-09-08-Reputation-and-Source-Verification-for-Autonomous-AI-Agent-Payments](https://pub.towardsai.net/reputation-and-source-verification-for-autonomous-ai-agent-payments-3b0276786e97?source=rss----98111c9905da---4)  
+- [2026-09-08-WebMCP-Is-Giving-Every-Website-a-Second-Door-for-AI-Agents](https://pub.towardsai.net/webmcp-is-giving-every-website-a-second-door-for-ai-agents-39fdb73e421b?source=rss----98111c9905da---4)  
+- [2026-09-08-The-KV-Cache-Explained:-Why-Long-Conversations-Get-Expensive](https://pub.towardsai.net/the-kv-cache-explained-why-long-conversations-get-expensive-4bd8f77dd7e7?source=rss----98111c9905da---4)  
 - [2026-09-08-Do-LLM-Guardrails-Actually-Work?-What-My-Own-Numbers-Say](https://pub.towardsai.net/do-llm-guardrails-actually-work-what-my-own-numbers-say-e16754f5b7b7?source=rss----98111c9905da---4)  
+- [2026-09-08-The-Difference-Between-Normalization-and-Regularization-in-Machine-Learning](https://pub.towardsai.net/the-difference-between-normalization-and-regularization-in-machine-learning-d4b0b804a1b2?source=rss----98111c9905da---4)  
+- [2026-09-08-Is-Your-Agentic-AI-Actually-Insurable?](https://pub.towardsai.net/is-your-agentic-ai-actually-insurable-acc56ac10d57?source=rss----98111c9905da---4)  
+- [2026-09-08-When-Better-Offline-Evaluation-Still-Cannot-Choose-the-Better-Policy](https://pub.towardsai.net/when-better-offline-evaluation-still-cannot-choose-the-better-policy-fe36668b1cbf?source=rss----98111c9905da---4)  
+- [2026-09-08-How-Does-One-GPU-Serve-Hundreds-of-Users-at-the-Same-Time?](https://pub.towardsai.net/how-does-one-gpu-serve-hundreds-of-users-at-the-same-time-b999e60a440e?source=rss----98111c9905da---4)  
+- [2026-09-08-Graph-Engineering](https://pub.towardsai.net/graph-engineering-e49337901a42?source=rss----98111c9905da---4)  
+- [2026-09-08-Why-AI-Agents-Trust-Memory-More-Than-Reality](https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4)  
+- [2026-09-08-I-Built-an-AI-Reactive-DevOps-Agent-for-AWS-—-It-Detects,-Investigates,-and-Fixes-Incidents--Using…](https://pub.towardsai.net/i-built-an-ai-reactive-devops-agent-for-aws-it-detects-investigates-and-fixes-incidents-using-06ed7864e11f?source=rss----98111c9905da---4)  
+- [2026-09-08-Shieldstral:-Build-an-AI-Content-Moderation-Classifier-with-Python](https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4)  
+- [2026-09-08-Claude-Tampers-With-Its-Own-Reward-Function](https://pub.towardsai.net/claude-tampers-with-its-own-reward-function-12fd909ae5b8?source=rss----98111c9905da---4)  
+- [2026-09-08-LLM-Generated-Code-Is-Untrusted-Code:-How-to-Safely-Execute-AI-Written-Programs](https://pub.towardsai.net/llm-generated-code-is-untrusted-code-how-to-safely-execute-ai-written-programs-a670d4145272?source=rss----98111c9905da---4)  
+- [2026-09-08-How-to-make-your-chatbot-feel-human](https://pub.towardsai.net/your-ai-chat-is-a-walkie-talkie-not-a-conversation-2b8a79dbafac?source=rss----98111c9905da---4)  
 - [......【查看更多】......](/details/Towards AI.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -650,26 +652,26 @@ https://railmid.com/blog/how-it-works?utm_source=echojs
 </summary>
 
 
+- [2026-09-08-OpenAI-expands-initiatives-to-support-journalism-from-classrooms-to-newsrooms](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms) ![](/assets/new.png)  
+- [2026-09-08-The-Work-Now-Within-Reach](https://openai.com/index/the-work-now-within-reach) ![](/assets/new.png)  
 - [2026-09-07-Supporting-independent-journalism-in-Ukraine](https://openai.com/index/supporting-independent-journalism-in-ukraine)  
-- [2026-09-06-An-Alien-Mind](https://openai.com/index/an-alien-mind)  
 - [2026-09-06-Research-acceleration:-The-view-inside-OpenAI](https://openai.com/index/research-acceleration-view-inside-openai)  
-- [2026-09-03-Daybreak-for-Frontline-Defenders:-$1B-to-protect-essential-services](https://openai.com/index/daybreak-for-frontline-defenders)  
-- [2026-09-03-Legora-reviewed-41-documents-in-minutes-with-GPT-6-Astra](https://openai.com/index/legora-financial-statement-review-with-astra)  
-- [2026-09-03-Playco-cut-manual-fixes-50%-prototyping-games-with-GPT-6-Astra](https://openai.com/index/playco-game-prototyping-with-astra)  
-- [2026-09-03-Safety-overview:-GPT-6-Astra](https://openai.com/index/safety-overview-gpt-6-astra)  
+- [2026-09-06-An-Alien-Mind](https://openai.com/index/an-alien-mind)  
 - [2026-09-03-GPT-6-Astra:-A-new-generation-of-intelligence](https://openai.com/index/gpt-6-astra)  
-- [2026-09-02-How-AI-native-companies-turn-workflows-into-operating-capability](https://openai.com/index/ai-native-company-workflows)  
+- [2026-09-03-Safety-overview:-GPT-6-Astra](https://openai.com/index/safety-overview-gpt-6-astra)  
+- [2026-09-03-Playco-cut-manual-fixes-50%-prototyping-games-with-GPT-6-Astra](https://openai.com/index/playco-game-prototyping-with-astra)  
+- [2026-09-03-Legora-reviewed-41-documents-in-minutes-with-GPT-6-Astra](https://openai.com/index/legora-financial-statement-review-with-astra)  
+- [2026-09-03-Daybreak-for-Frontline-Defenders:-$1B-to-protect-essential-services](https://openai.com/index/daybreak-for-frontline-defenders)  
 - [2026-09-02-ATV-Big-Air-Tour-turned-3-days-of-work-into-3-hours-with-ChatGPT](https://openai.com/index/atv-big-air-tour)  
-- [2026-09-01-How-law-firm-Gilbert-+-Tobin-governs-and-scales-AI-with-OpenAI](https://openai.com/index/gilbert-tobin)  
-- [2026-09-01-Path-to-Astra:-critical-capabilities-and-frontier-safeguards](https://openai.com/index/path-to-astra)  
+- [2026-09-02-How-AI-native-companies-turn-workflows-into-operating-capability](https://openai.com/index/ai-native-company-workflows)  
 - [2026-09-01-Healthcare-organizations-can-now-connect-EHR-and-additional-industry-data-to-ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources)  
-- [2026-08-31-OpenAI-supports-California’s-bill-to-advance-youth-AI-safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety)  
-- [2026-08-31-A-milestone-in-expanding-access-to-AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads)  
+- [2026-09-01-Path-to-Astra:-critical-capabilities-and-frontier-safeguards](https://openai.com/index/path-to-astra)  
+- [2026-09-01-How-law-firm-Gilbert-+-Tobin-governs-and-scales-AI-with-OpenAI](https://openai.com/index/gilbert-tobin)  
 - [2026-08-31-Polimill-builds-Japan's-next-generation-public-AI-infrastructure](https://openai.com/index/polimill)  
-- [2026-08-28-Our-decision-on-Cursor-following-its-acquisition-by-SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex)  
+- [2026-08-31-A-milestone-in-expanding-access-to-AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads)  
+- [2026-08-31-OpenAI-supports-California’s-bill-to-advance-youth-AI-safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety)  
 - [2026-08-28-Supporting-Thailand’s-next-generation-of-AI-startups](https://openai.com/index/supporting-next-generation-ai-startups-thailand)  
-- [2026-08-27-Better-answers,-broader-thinking:-What-students-gain-from-ChatGPT-and-critical-thinking-training](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training)  
-- [2026-08-27-Expanding-OpenAI’s-presence-in-Brazil](https://openai.com/index/expanding-our-presence-in-brazil)  
+- [2026-08-28-Our-decision-on-Cursor-following-its-acquisition-by-SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex)  
 - [......【查看更多】......](/details/OpenAI Blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -681,26 +683,26 @@ https://railmid.com/blog/how-it-works?utm_source=echojs
 </summary>
 
 
-- [2026-09-08-PromptCube](https://promptcube3.com/en/)  
-- [2026-09-08-Firelight-and-the-Origins-of-Spoken-Language](https://royalsocietypublishing.org/rspb/article/293/2078/20260602/483174/Firelight-and-the-origins-of-spoken)  
-- [2026-09-08-Netflix-Moves-Toward-Open-Source-Flink-Autoscaler-for-30k-Streaming-Jobs](https://www.infoq.com/news/2026/09/netflix-flink-autoscaler/)  
-- [2026-09-08-Why-getting-your-hands-dirty-is-good-for-you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)  
-- [2026-09-08-Quantum-Drive-Solver-high-performance,-memory-efficient-optimization-engine](https://github.com/blueray313164-a11y/Quantum-Drive-Solver)  
-- [2026-09-08-TLS-fingerprinting:-How-Cloudflare-spots-your-scraper-before-the-HTTP-request](https://igorkozlowski.substack.com/p/tls-fingerprinting-what-websites)  
-- [2026-09-08-See-live-tracking-data-for-the-city-buses-in-Ahmedabad,-India](https://gods-eye.esdy.cc/)  
-- [2026-09-08-Ask-HN:-How-to-spend-$100?-Claude-vs.-ChatGPT](https://news.ycombinator.com/item?id=49608008)  
-- [2026-09-08-Antiquated-HTML-Snippets-and-Artefacts](https://vale.rocks/posts/html-relics)  
-- [2026-09-08-Home-Hardware,-Part-1:-My-Control4-Revenge-Arc](https://blog.jessfraz.com/post/home-hardware-part-one/)  
-- [2026-09-08-Chinese-tech-giants-Huawei-and-Xiaomi-launch-new-foldable-phones-ahead-of-Apple](https://www.nbcnews.com/world/asia/chinese-tech-companies-huawei-xiaomi-launch-new-foldable-phones-apple-rcna596533)  
-- [2026-09-08-Finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium](https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/)  
-- [2026-09-08-Ultra-Instinct-Claude-Code](https://github.com/infiniV/ultra-instinct-claude-code/blob/main/llms.txt)  
-- [2026-09-08-The-SaaS-Subscription-Trap:-How-"Forgot-to-Cancel"-Became-a-Business-Model](https://www.indiehackers.com/post/the-saas-subscription-trap-how-forgot-to-cancel-became-a-business-model-7ce68ac4e8)  
-- [2026-09-08-Slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence](https://www.theguardian.com/news/ng-interactive/2026/sep/08/this-is-dangerous-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence)  
-- [2026-09-08-Show-HN:-Wirebot-–-talk-to-your-Codex-in-messengers](https://wirebot.ai/codex)  
-- [2026-09-08-TrustFinder:-Deep-Search-AI](https://play.google.com/store/apps/details?id=com.popyakter.cheaterbusterai&hl=en_US)  
-- [2026-09-08-1.5M-lines-of-code:-Software-becomes-a-key-factor-in-Porsche's-new-Formula-E-car](https://e-formula.news/news/formula-e-news/formula-e-news-detail/1-5-million-lines-of-code-software-becomes-a-key-factor-in-porsche-s-new-formula-e-car-10346)  
-- [2026-09-08-Show-HN:-I-made-Artle-–-a-quick,-daily-art-guessing-game](https://artle.eu)  
-- [2026-09-08-Try-DuckDB-v2.0-Alpha](https://duckdb.org/2026/09/02/try-duckdb-20-alpha)  
+- [2026-09-08-How-to-Make-a-Control-Plane-for-Coding-Agents-in-2026](https://abhishek.it/blog/how-to-make-a-control-plane-for-coding-agents-2026)  
+- [2026-09-08-Canonical-Data-Mesh:-scaling-data-governance](https://canonical.com/blog/canonical-data-mesh-scaling-data-governance)  
+- [2026-09-08-Show-HN:-Malinois-–-Open-Source-iOS-Unattended-Device-Tamper-Detection](https://github.com/john-comptonemail-com/malinois)  
+- [2026-09-08-Show-HN:-SiteDownload:-export-Webflow-and-Framer-sites-with-CMS-content-intact](https://www.sitedownload.app)  
+- [2026-09-08-Show-HN:-Ebitengine-v2.10.0-Released-A-2D-Game-Engine-for-Go](https://ebitengine.org/en/blog/v2.10.0.html)  
+- [2026-09-08-Home-Broadband-Is-5G's-Surprise-Killer-App](https://spectrum.ieee.org/fixed-wireless-access)  
+- [2026-09-08-How-to-Build-an-API-First-Engine-for-100k+-Digital-Product-Passports](https://dppflash.de/)  
+- [2026-09-08-Show-HN:-Gremlord-–-Run-Claude-Code-on-any-model,-with-a-budget](https://gremlord.com/)  
+- [2026-09-08-2025-Pisa-Results](https://www.oecd.org/en/publications/pisa-2025-results-volume-i_73451bc5-en.html)  
+- [2026-09-08-OpenAI-hires-Chuck-Schumer's-daughter-as-Big-Tech-cozies-up-to-Democrats](https://nypost.com/2026/09/07/business/openai-hires-chuck-schumers-daughter-as-big-tech-cozies-up-to-democrats-ahead-of-midterms-report/)  
+- [2026-09-08-The-Dark-Forest-and-Generative-AI](https://maggieappleton.com/ai-dark-forest)  
+- [2026-09-08-Show-HN:-Inspyry-–-AI-Based-SVG-Generator-Platform](https://inspyry.com)  
+- [2026-09-08-Show-HN:-Notifyd-–-notification-queue-on-Postgres-alone-Rust,-MCP,-no-UI](https://rmzlb.github.io/notifyd/articles/postgres-queue-what-skip-locked-does-not-give-you.html)  
+- [2026-09-08-My-So-Called-Alpha-School](https://buildcognitiveresonance.substack.com/p/special-report-my-so-called-alpha)  
+- [2026-09-08-GitHub-CI-outages-in-EU-due-to-status-401-on-public-repos](https://github.com/orgs/community/discussions/206581)  
+- [2026-09-08-Show-HN:-AI-means-the-end-of-software-as-we-know-it](https://github.com/jamison/ilc/blob/main/HUMANS.md)  
+- [2026-09-08-Show-HN:-I-built-Pinterest-for-data-visualizations](https://iindex.co/)  
+- [2026-09-08-Novus-–-A-self-improving-AI-agent-that-lives-on-an-Android-phone](https://github.com/RexHuang/novus)  
+- [2026-09-08-AI-agents-will-not-get-Estonian-ID-codes,-responsibility-will-stay-with-humans](https://news.err.ee/1610132113/ai-agents-will-not-get-estonian-id-codes-and-responsibility-will-stay-with-humans)  
+- [2026-09-08-So-you-want-to-use-OpenRouter?](https://mmoustafa.com/blog/2026/09/07/so-you-want-to-use-openrouter/)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -743,26 +745,26 @@ https://railmid.com/blog/how-it-works?utm_source=echojs
 </summary>
 
 
-- [2026-09-08-Le-Creuset-x-Star-Trek-Collection:-Prices,-availability,-release-date](https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/)  
+- [2026-09-08-Meta-Failed-to-Catch-Hundreds-of-AI-Child-Abuse-Ads.-Some-Included-Images-of-Real-Kids](https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/)  
+- [2026-09-08-How-NASA-Testing-Changed-US-Food-Inspection-Forever](https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/)  
+- [2026-09-08-5-Best-Smart-Speakers-2026:-Alexa,-Google,-Apple](https://www.wired.com/story/best-smart-speakers/)  
+- [2026-09-08-Insta360-X6-Review-2026:-A-Great-360-and-Action-Camera-Hybrid](https://www.wired.com/review/insta360-x6-camera/)  
+- [2026-09-08-Gen-AI-Tools-Are-Now-Being-Used-to-Push-‘Slop-Jihad’](https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/)  
 - [2026-09-08-Best-Tech-Labor-Day-Sales-I’d-Shop-Myself-2026:-Vacuums,-Headphones,-and-More](https://www.wired.com/story/tech-labor-day-sales-2026/)  
-- [2026-09-08-Gen-AI-Tools-Are-Now-Being-Used-to-Push-‘Slop-Jihad’](https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/) ![](/assets/new.png)  
-- [2026-09-08-Insta360-X6-Review-2026:-A-Great-360-and-Action-Camera-Hybrid](https://www.wired.com/review/insta360-x6-camera/) ![](/assets/new.png)  
-- [2026-09-08-5-Best-Smart-Speakers-2026:-Alexa,-Google,-Apple](https://www.wired.com/story/best-smart-speakers/) ![](/assets/new.png)  
-- [2026-09-08-How-NASA-Testing-Changed-US-Food-Inspection-Forever](https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/) ![](/assets/new.png)  
-- [2026-09-08-Meta-Failed-to-Catch-Hundreds-of-AI-Child-Abuse-Ads.-Some-Included-Images-of-Real-Kids](https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/) ![](/assets/new.png)  
-- [2026-09-07-Two-of-the-Universe's-Great-Mysteries-May-Have-Their-Own-Dimension](https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/)  
-- [2026-09-07-Astronomers-Have-Completed-the-Largest-Map-of-Space.-Yes,-You-Can-Play-With-It.](https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/)  
-- [2026-09-07-Every-Samsung-Galaxy-Phone-Comes-With-This-Unique-Add-On](https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/)  
-- [2026-09-07-Whispering-Complaints-Into-Your-Phone-May-Be-the-Future-of-Customer-Feedback](https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/)  
-- [2026-09-07-How-to-Watch-the-Apple-September-Event-2026](https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/)  
-- [2026-09-07-Plastics-Companies-Are-Writing-Lesson-Plans.-What-Could-Go-Wrong?](https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/)  
+- [2026-09-08-Le-Creuset-x-Star-Trek-Collection:-Prices,-availability,-release-date](https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/)  
+- [2026-09-08-Richard-Kelly-on-Donnie-Darko-at-25:-‘It’s-a-Miracle-That-Any-Movie-Gets-Made’](https://www.wired.com/story/richard-kelly-donnie-darko-25th-anniversary-interview/) ![](/assets/new.png)  
 - [2026-09-07-The-Best-Labor-Day-Mattress-Deals-on-Beds-We’ve-Tried-in-Our-Homes](https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/)  
-- [2026-09-06-The-Best-Laptop-Backpacks-for-Work,-Travel,-and-Everything-Between-2026](https://www.wired.com/story/best-laptop-backpacks/)  
-- [2026-09-06-Create-Custom-Windows-11-Notifications-to-Remind-Yourself-of-Anything](https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything/)  
-- [2026-09-06-These-Cyborg-Cockroaches-Could-Save-Your-Life](https://www.wired.com/story/cyborg-cockroaches-disaster-response/)  
-- [2026-09-06-My-Brief-Summer-Fling-With-Siri-AI](https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/)  
-- [2026-09-06-Best-Water-Leak-Detectors-2026:-Moen,-Phyn,-TP-Link](https://www.wired.com/gallery/best-water-leak-detector/)  
+- [2026-09-07-Plastics-Companies-Are-Writing-Lesson-Plans.-What-Could-Go-Wrong?](https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/)  
+- [2026-09-07-How-to-Watch-the-Apple-September-Event-2026](https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/)  
+- [2026-09-07-Whispering-Complaints-Into-Your-Phone-May-Be-the-Future-of-Customer-Feedback](https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/)  
+- [2026-09-07-Every-Samsung-Galaxy-Phone-Comes-With-This-Unique-Add-On](https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/)  
+- [2026-09-07-Astronomers-Have-Completed-the-Largest-Map-of-Space.-Yes,-You-Can-Play-With-It.](https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/)  
+- [2026-09-07-Two-of-the-Universe's-Great-Mysteries-May-Have-Their-Own-Dimension](https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/)  
+- [2026-09-06-The-Best-Gaming-Chairs-2026:-Are-They-Worth-It?](https://www.wired.com/gallery/best-gaming-chairs/)  
 - [2026-09-06-Why-China-Is-the-Bogeyman-Data-Center-Enthusiasts-Just-Can't-Quit](https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/)  
+- [2026-09-06-Best-Water-Leak-Detectors-2026:-Moen,-Phyn,-TP-Link](https://www.wired.com/gallery/best-water-leak-detector/)  
+- [2026-09-06-My-Brief-Summer-Fling-With-Siri-AI](https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/)  
+- [2026-09-06-These-Cyborg-Cockroaches-Could-Save-Your-Life](https://www.wired.com/story/cyborg-cockroaches-disaster-response/)  
 - [......【查看更多】......](/details/Wired.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -774,26 +776,26 @@ https://railmid.com/blog/how-it-works?utm_source=echojs
 </summary>
 
 
-- [2026-09-08-Xiaomi’s-wide-foldable-promises-more-power-than-Samsung’s](https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide)  
-- [2026-09-08-Audi’s-new-A2-E-tron-is-its-most-affordable-and-efficient-EV-yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)  
-- [2026-09-08-Six-years-later,-Sony-revisits-its-legendary-XM4-headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)  
+- [2026-09-08-Adobe-is-trying-to-make-its-AI-generators-idiot-proof-in-Premiere](https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere)  
+- [2026-09-08-Apple-says-‘Fold’-and-competitors-ask-‘how-wide?’](https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus)  
+- [2026-09-08-LG-TVs-caught-spying-even-when-offline-or-on-standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)  
 - [2026-09-08-First-Xiaomi,-then-the-world:-why-Arm-might-give-phone-gaming-a-huge-graphics-boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3)  
-- [2026-09-08-LG-TVs-caught-spying-even-when-offline-or-on-standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus) ![](/assets/new.png)  
-- [2026-09-08-Apple-says-‘Fold’-and-competitors-ask-‘how-wide?’](https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus) ![](/assets/new.png)  
-- [2026-09-08-Adobe-is-trying-to-make-its-AI-generators-idiot-proof-in-Premiere](https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere) ![](/assets/new.png)  
-- [2026-09-07-Seattle-Times-and-Newsday-sue-OpenAI-and-Microsoft-for-infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)  
-- [2026-09-07-Boox’s-tiny-Picco-e-reader-should-land-in-November](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa)  
-- [2026-09-07-Europe-has-its-first-commercial-orbital-rocket](https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch)  
-- [2026-09-07-An-Amazon-cargo-plane-crashed-at-Miami-International-Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami)  
-- [2026-09-07-Huawei-copies-Samsung’s-privacy-display-in-its-latest-trifold](https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display)  
-- [2026-09-07-Bentley’s-Torcal-EV-tries-to-balance-authenticity-with-fake-V8-sounds](https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8)  
-- [2026-09-07-The-real-reason-your-phone-is-getting-more-expensive](https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone)  
+- [2026-09-08-Six-years-later,-Sony-revisits-its-legendary-XM4-headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)  
+- [2026-09-08-Audi’s-new-A2-E-tron-is-its-most-affordable-and-efficient-EV-yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)  
+- [2026-09-08-Xiaomi’s-wide-foldable-promises-more-power-than-Samsung’s](https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide)  
+- [2026-09-08-Intel-CPUs-are-reportedly-getting-a-10-percent-price-hike-in-October](https://www.theverge.com/tech/991285/intel-cpu-price-increase-october) ![](/assets/new.png)  
+- [2026-09-08-The-Legend-of-Zelda-40th-Anniversary-Direct:-All-the-news-and-trailers](https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct) ![](/assets/new.png)  
+- [2026-09-08-Google’s-Atlas-of-the-human-genome-could-pave-the-way-for-new-treatments](https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas) ![](/assets/new.png)  
+- [2026-09-08-Microsoft-breaks-another-patch-Tuesday-record](https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad) ![](/assets/new.png)  
+- [2026-09-08-SteelSeries’-pro-grade,-wireless-Xbox-controller-sure-is-expensive](https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features) ![](/assets/new.png)  
+- [2026-09-08-A-word-with-a-woman-who’s-trying-to-pull-off-a-crossbody-phone-strap](https://www.theverge.com/tech/990849/crossbody-phone-strap-style) ![](/assets/new.png)  
+- [2026-09-08-Nintendo’s-Ocarina-of-Time-remake-launches-in-November](https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer) ![](/assets/new.png)  
 - [2026-09-07-EcoFlow-makes-the-miniature-power-station-even-smaller](https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller)  
-- [2026-09-06-The-Fairphone-6-Plus-is-the-midrange-phone-we-desperately-needed](https://www.theverge.com/tech/990436/fairphone-6-plus-review)  
-- [2026-09-06-Competitive-Pokémon-is-on-phones-now,-but-you-still-need-a-Switch-to-become-a-champion](https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility)  
-- [2026-09-06-Explore-the-globe-in-field-recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)  
-- [2026-09-06-iPhone-Handoff-will-seamlessly-share-one-number-between-two-phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27)  
-- [2026-09-06-CD-sales-are-booming-as-physical-media-continues-its-resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence)  
+- [2026-09-07-The-real-reason-your-phone-is-getting-more-expensive](https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone)  
+- [2026-09-07-Bentley’s-Torcal-EV-tries-to-balance-authenticity-with-fake-V8-sounds](https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8)  
+- [2026-09-07-Huawei-copies-Samsung’s-privacy-display-in-its-latest-trifold](https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display)  
+- [2026-09-07-An-Amazon-cargo-plane-crashed-at-Miami-International-Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami)  
+- [2026-09-07-Europe-has-its-first-commercial-orbital-rocket](https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch)  
 - [......【查看更多】......](/details/Engadget.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -809,7 +811,7 @@ https://railmid.com/blog/how-it-works?utm_source=echojs
 - [2026-09-08-一日一技｜我的-Windows-11-头像会动，你也可以](https://sspai.com/post/114312)  
 - [2026-09-08-派早报：华为举办-HarmonyOS-7-|-HUAWEI-Mate-XT-2-及全场景新品发布会等](https://sspai.com/post/114307)  
 - [2026-09-08-日本浮生录-11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)  
-- [2026-09-08-Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations) ![](/assets/new.png)  
+- [2026-09-08-Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)  
 - [2026-09-07-「弯道超车」赛车入门指北-04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)  
 - [2026-09-07-派早报：微软公布-Project-Zenith-计划、F-Droid-拟效仿-Debian-制定生成式-AI-使用政策](https://sspai.com/post/114250)  
 - [2026-09-07-定义了-Apple-10-年的白色产品：iBook-G3-Snow-怀旧手记](https://sspai.com/post/114103)  
