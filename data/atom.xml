@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-08T07:02:15.991Z</updated>
+    <updated>2026-09-08T10:02:02.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源]]></title>
+        <id>https://sspai.com/post/114327</id>
+        <link href="https://sspai.com/post/114327"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xiaomi’s wide foldable promises more power than Samsung’s]]></title>
         <id>https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide</id>
@@ -43,114 +50,51 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From dance floor to war: China readies humanoid robots for combat]]></title>
-        <id>https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/</id>
-        <link href="https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/"/>
+        <title type="html"><![CDATA[Netflix Moves Toward Open Source Flink Autoscaler for 30k Streaming Jobs]]></title>
+        <id>https://www.infoq.com/news/2026/09/netflix-flink-autoscaler/</id>
+        <link href="https://www.infoq.com/news/2026/09/netflix-flink-autoscaler/"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UAE-based Falcon AI NSFW classifier among top global open-source models (2025)]]></title>
-        <id>https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly</id>
-        <link href="https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly"/>
+        <title type="html"><![CDATA[Why getting your hands dirty is good for you]]></title>
+        <id>https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks</id>
+        <link href="https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PS5 emulator can now run the console version of GTA V]]></title>
-        <id>https://www.tomshardware.com/video-games/pc-gaming/ps5-emulator-can-now-run-the-console-version-of-gta-v-at-up-to-60-fps-on-pc-but-quickly-crashes-as-tweakers-continue-to-optimize-ps5-emulation-advancing-at-an-astronomical-pace-leading-up-to-gta-vi-launch</id>
-        <link href="https://www.tomshardware.com/video-games/pc-gaming/ps5-emulator-can-now-run-the-console-version-of-gta-v-at-up-to-60-fps-on-pc-but-quickly-crashes-as-tweakers-continue-to-optimize-ps5-emulation-advancing-at-an-astronomical-pace-leading-up-to-gta-vi-launch"/>
+        <title type="html"><![CDATA[Quantum-Drive-Solver high-performance, memory-efficient optimization engine]]></title>
+        <id>https://github.com/blueray313164-a11y/Quantum-Drive-Solver</id>
+        <link href="https://github.com/blueray313164-a11y/Quantum-Drive-Solver"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is your thought about the future on video extend developing?]]></title>
-        <id>https://videoall.ai/video‑extend</id>
-        <link href="https://videoall.ai/video‑extend"/>
+        <title type="html"><![CDATA[TLS fingerprinting: How Cloudflare spots your scraper before the HTTP request]]></title>
+        <id>https://igorkozlowski.substack.com/p/tls-fingerprinting-what-websites</id>
+        <link href="https://igorkozlowski.substack.com/p/tls-fingerprinting-what-websites"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Working with Git Worktrees in Magit]]></title>
-        <id>https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/</id>
-        <link href="https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/"/>
+        <title type="html"><![CDATA[Antiquated HTML Snippets and Artefacts]]></title>
+        <id>https://vale.rocks/posts/html-relics</id>
+        <link href="https://vale.rocks/posts/html-relics"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[0Pirate – AST-level code anonymizer and MCP proxy for frontier LLMs]]></title>
-        <id>https://pypi.org/project/0pirate/</id>
-        <link href="https://pypi.org/project/0pirate/"/>
+        <title type="html"><![CDATA[TrustFinder: Deep Search AI]]></title>
+        <id>https://play.google.com/store/apps/details?id=com.popyakter.cheaterbusterai&amp;hl=en_US</id>
+        <link href="https://play.google.com/store/apps/details?id=com.popyakter.cheaterbusterai&amp;hl=en_US"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TrustNotch – Tamper-evident audit logs for AI agents, verifiable offline]]></title>
-        <id>https://trustnotch.com/</id>
-        <link href="https://trustnotch.com/"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How does Astra's computer use actually work?]]></title>
-        <id>https://twitter.com/kylejeong/status/2097077446663372966</id>
-        <link href="https://twitter.com/kylejeong/status/2097077446663372966"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Intelligence curse" means promise of abundance and UBI unlikely to be fulfilled]]></title>
-        <id>https://intelligence-curse.ai/defining/</id>
-        <link href="https://intelligence-curse.ai/defining/"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Known registered domain count for every TLD]]></title>
-        <id>https://namedesk.app/stats/tlds</id>
-        <link href="https://namedesk.app/stats/tlds"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speeding up a Phoenix LiveView web app with a CDN]]></title>
-        <id>https://jola.dev/posts/speeding-up-phoenix-liveview-cdn</id>
-        <link href="https://jola.dev/posts/speeding-up-phoenix-liveview-cdn"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michigan Scientist Buried Seeds in Glass Bottles in 1879, 142 Yr Later Some Grew]]></title>
-        <id>https://timesofindia.indiatimes.com/science/a-michigan-scientist-buried-seeds-in-20-glass-bottles-in-1879-142-years-later-some-still-grew-and-the-experiment-is-set-to-run-until-2100/articleshow/133791011.cms</id>
-        <link href="https://timesofindia.indiatimes.com/science/a-michigan-scientist-buried-seeds-in-20-glass-bottles-in-1879-142-years-later-some-still-grew-and-the-experiment-is-set-to-run-until-2100/articleshow/133791011.cms"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cool Web Tool – I got tired of paying for multiple SEO tools]]></title>
-        <id>https://coolwebtool.com/</id>
-        <link href="https://coolwebtool.com/"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Object A – Visible Passes]]></title>
-        <id>https://heavens-above.com/PassSummary.aspx?satid=60235&amp;lat=30.0324&amp;lng=-98.2969&amp;loc=Unnamed&amp;alt=0&amp;tz=CST</id>
-        <link href="https://heavens-above.com/PassSummary.aspx?satid=60235&amp;lat=30.0324&amp;lng=-98.2969&amp;loc=Unnamed&amp;alt=0&amp;tz=CST"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The most Unreasonable Music Video build by Astra, it's amazing]]></title>
-        <id>https://www.youtube.com/watch?v=_h1KgS169iM</id>
-        <link href="https://www.youtube.com/watch?v=_h1KgS169iM"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperboloids made out of sticks [video]]]></title>
-        <id>https://www.youtube.com/watch?v=CJCL92W8Z9w</id>
-        <link href="https://www.youtube.com/watch?v=CJCL92W8Z9w"/>
+        <title type="html"><![CDATA[How the heart, lungs and brain work together to shape experience]]></title>
+        <id>https://medicalxpress.com/news/2026-09-heart-lungs-brain.html</id>
+        <link href="https://medicalxpress.com/news/2026-09-heart-lungs-brain.html"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -162,9 +106,114 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the heart, lungs and brain work together to shape experience]]></title>
-        <id>https://medicalxpress.com/news/2026-09-heart-lungs-brain.html</id>
-        <link href="https://medicalxpress.com/news/2026-09-heart-lungs-brain.html"/>
+        <title type="html"><![CDATA[Hyperboloids made out of sticks [video]]]></title>
+        <id>https://www.youtube.com/watch?v=CJCL92W8Z9w</id>
+        <link href="https://www.youtube.com/watch?v=CJCL92W8Z9w"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The most Unreasonable Music Video build by Astra, it's amazing]]></title>
+        <id>https://www.youtube.com/watch?v=_h1KgS169iM</id>
+        <link href="https://www.youtube.com/watch?v=_h1KgS169iM"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Object A – Visible Passes]]></title>
+        <id>https://heavens-above.com/PassSummary.aspx?satid=60235&amp;lat=30.0324&amp;lng=-98.2969&amp;loc=Unnamed&amp;alt=0&amp;tz=CST</id>
+        <link href="https://heavens-above.com/PassSummary.aspx?satid=60235&amp;lat=30.0324&amp;lng=-98.2969&amp;loc=Unnamed&amp;alt=0&amp;tz=CST"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool Web Tool – I got tired of paying for multiple SEO tools]]></title>
+        <id>https://coolwebtool.com/</id>
+        <link href="https://coolwebtool.com/"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Michigan Scientist Buried Seeds in Glass Bottles in 1879, 142 Yr Later Some Grew]]></title>
+        <id>https://timesofindia.indiatimes.com/science/a-michigan-scientist-buried-seeds-in-20-glass-bottles-in-1879-142-years-later-some-still-grew-and-the-experiment-is-set-to-run-until-2100/articleshow/133791011.cms</id>
+        <link href="https://timesofindia.indiatimes.com/science/a-michigan-scientist-buried-seeds-in-20-glass-bottles-in-1879-142-years-later-some-still-grew-and-the-experiment-is-set-to-run-until-2100/articleshow/133791011.cms"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speeding up a Phoenix LiveView web app with a CDN]]></title>
+        <id>https://jola.dev/posts/speeding-up-phoenix-liveview-cdn</id>
+        <link href="https://jola.dev/posts/speeding-up-phoenix-liveview-cdn"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Known registered domain count for every TLD]]></title>
+        <id>https://namedesk.app/stats/tlds</id>
+        <link href="https://namedesk.app/stats/tlds"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Intelligence curse" means promise of abundance and UBI unlikely to be fulfilled]]></title>
+        <id>https://intelligence-curse.ai/defining/</id>
+        <link href="https://intelligence-curse.ai/defining/"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does Astra's computer use actually work?]]></title>
+        <id>https://twitter.com/kylejeong/status/2097077446663372966</id>
+        <link href="https://twitter.com/kylejeong/status/2097077446663372966"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TrustNotch – Tamper-evident audit logs for AI agents, verifiable offline]]></title>
+        <id>https://trustnotch.com/</id>
+        <link href="https://trustnotch.com/"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0Pirate – AST-level code anonymizer and MCP proxy for frontier LLMs]]></title>
+        <id>https://pypi.org/project/0pirate/</id>
+        <link href="https://pypi.org/project/0pirate/"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Git Worktrees in Magit]]></title>
+        <id>https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/</id>
+        <link href="https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is your thought about the future on video extend developing?]]></title>
+        <id>https://videoall.ai/video‑extend</id>
+        <link href="https://videoall.ai/video‑extend"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PS5 emulator can now run the console version of GTA V]]></title>
+        <id>https://www.tomshardware.com/video-games/pc-gaming/ps5-emulator-can-now-run-the-console-version-of-gta-v-at-up-to-60-fps-on-pc-but-quickly-crashes-as-tweakers-continue-to-optimize-ps5-emulation-advancing-at-an-astronomical-pace-leading-up-to-gta-vi-launch</id>
+        <link href="https://www.tomshardware.com/video-games/pc-gaming/ps5-emulator-can-now-run-the-console-version-of-gta-v-at-up-to-60-fps-on-pc-but-quickly-crashes-as-tweakers-continue-to-optimize-ps5-emulation-advancing-at-an-astronomical-pace-leading-up-to-gta-vi-launch"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UAE-based Falcon AI NSFW classifier among top global open-source models (2025)]]></title>
+        <id>https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly</id>
+        <link href="https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From dance floor to war: China readies humanoid robots for combat]]></title>
+        <id>https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/</id>
+        <link href="https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -272,107 +321,58 @@ https://xec.sh/
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I stopped uploading PDFs to random websites — here's the browser-only version]]></title>
-        <id>https://dev.to/akshaymadhan/i-stopped-uploading-pdfs-to-random-websites-heres-the-browser-only-version-3m72</id>
-        <link href="https://dev.to/akshaymadhan/i-stopped-uploading-pdfs-to-random-websites-heres-the-browser-only-version-3m72"/>
+        <title type="html"><![CDATA[Cut Costs Fast: Embed Zyctra AI Into Your App]]></title>
+        <id>https://dev.to/zyctraai/cut-costs-fast-embed-zyctra-ai-into-your-app-404i</id>
+        <link href="https://dev.to/zyctraai/cut-costs-fast-embed-zyctra-ai-into-your-app-404i"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rendering 24 Shareable Images a Day With HTML, CSS and Playwright]]></title>
-        <id>https://dev.to/zongkai_sun_0946ae0d49db2/rendering-24-shareable-images-a-day-with-html-css-and-playwright-1ne5</id>
-        <link href="https://dev.to/zongkai_sun_0946ae0d49db2/rendering-24-shareable-images-a-day-with-html-css-and-playwright-1ne5"/>
+        <title type="html"><![CDATA[I Implemented npm, Cargo, Composer and pip Semver. Only 2 of 13 Ranges Mean the Same Thing in All Four.]]></title>
+        <id>https://dev.to/dev48v/i-implemented-npm-cargo-composer-and-pip-semver-only-2-of-13-ranges-mean-the-same-thing-in-all-3ah1</id>
+        <link href="https://dev.to/dev48v/i-implemented-npm-cargo-composer-and-pip-semver-only-2-of-13-ranges-mean-the-same-thing-in-all-3ah1"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code Permission Modes in 2026: What `--allowedTools`, Whitelists, and Sandbox Boundaries Actually Restrict]]></title>
-        <id>https://dev.to/jsmanifest/claude-code-permission-modes-in-2026-what-allowedtools-whitelists-and-sandbox-boundaries-28k3</id>
-        <link href="https://dev.to/jsmanifest/claude-code-permission-modes-in-2026-what-allowedtools-whitelists-and-sandbox-boundaries-28k3"/>
+        <title type="html"><![CDATA[The Optimistic-UI Rollback Everyone Writes Is Exactly Right for a Toggle and the Worst Option for a Set]]></title>
+        <id>https://dev.to/dev48v/the-optimistic-ui-rollback-everyone-writes-is-exactly-right-for-a-toggle-and-the-worst-option-for-a-4l97</id>
+        <link href="https://dev.to/dev48v/the-optimistic-ui-rollback-everyone-writes-is-exactly-right-for-a-toggle-and-the-worst-option-for-a-4l97"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A small contract for catching data drift before it breaks a pipeline]]></title>
-        <id>https://dev.to/nimbliquestudio/a-small-contract-for-catching-data-drift-before-it-breaks-a-pipeline-1430</id>
-        <link href="https://dev.to/nimbliquestudio/a-small-contract-for-catching-data-drift-before-it-breaks-a-pipeline-1430"/>
+        <title type="html"><![CDATA[How to Add Images to a PDF in JavaScript (React) | Complete Guide]]></title>
+        <id>https://dev.to/eiceblue/how-to-add-images-to-a-pdf-in-javascript-react-complete-guide-322g</id>
+        <link href="https://dev.to/eiceblue/how-to-add-images-to-a-pdf-in-javascript-react-complete-guide-322g"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Three ways LLM tool calls lie to you — and the action layer I built to catch them]]></title>
-        <id>https://dev.to/linxi8590jpg/three-ways-llm-tool-calls-lie-to-you-and-the-action-layer-i-built-to-catch-them-2pf0</id>
-        <link href="https://dev.to/linxi8590jpg/three-ways-llm-tool-calls-lie-to-you-and-the-action-layer-i-built-to-catch-them-2pf0"/>
+        <title type="html"><![CDATA[I Scraped 100 Sports Matches — Here Is What I Found: Pietersen joins Englands white-ball coaching team]]></title>
+        <id>https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-sports-matches-here-is-what-i-found-pietersen-joins-englands-white-ball-coaching-1iaf</id>
+        <link href="https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-sports-matches-here-is-what-i-found-pietersen-joins-englands-white-ball-coaching-1iaf"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building an MVP Agentic Tool-Use Bot with Node.js and OpenRouter 🌤️🤖]]></title>
-        <id>https://dev.to/ankit_halder_7840b622b962/building-an-mvp-ai-weather-agent-with-nodejs-and-openrouter-49eg</id>
-        <link href="https://dev.to/ankit_halder_7840b622b962/building-an-mvp-ai-weather-agent-with-nodejs-and-openrouter-49eg"/>
+        <title type="html"><![CDATA[Stop Treating 'use client' Like a Code Smell in Next.js]]></title>
+        <id>https://dev.to/nainikmehta/stop-treating-use-client-like-a-code-smell-in-nextjs-3a1j</id>
+        <link href="https://dev.to/nainikmehta/stop-treating-use-client-like-a-code-smell-in-nextjs-3a1j"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Real-Time Chat App Using WebSockets]]></title>
-        <id>https://dev.to/techgeekdivya/how-to-build-a-real-time-chat-app-using-websockets-2h6</id>
-        <link href="https://dev.to/techgeekdivya/how-to-build-a-real-time-chat-app-using-websockets-2h6"/>
+        <title type="html"><![CDATA[Web Vitals in JavaScript: How to Measure, Debug, and Fix Real-World Performance Problems]]></title>
+        <id>https://dev.to/amalmktk/web-vitals-in-javascript-how-to-measure-debug-and-fix-real-world-performance-problems-1l2d</id>
+        <link href="https://dev.to/amalmktk/web-vitals-in-javascript-how-to-measure-debug-and-fix-real-world-performance-problems-1l2d"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a local call-review panel with Python]]></title>
-        <id>https://dev.to/nathanroll/build-a-local-call-review-panel-with-python-2dgh</id>
-        <link href="https://dev.to/nathanroll/build-a-local-call-review-panel-with-python-2dgh"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok Events API Wants ISO 8601. Unix Epoch Gets Stamped as Arrival Time.]]></title>
-        <id>https://dev.to/aleksuix/tiktok-events-api-wants-iso-8601-unix-epoch-gets-stamped-as-arrival-time-46o8</id>
-        <link href="https://dev.to/aleksuix/tiktok-events-api-wants-iso-8601-unix-epoch-gets-stamped-as-arrival-time-46o8"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Text Summary Client That Refuses Ambiguous Retries]]></title>
-        <id>https://dev.to/voorai/build-a-text-summary-client-that-refuses-ambiguous-retries-3hm0</id>
-        <link href="https://dev.to/voorai/build-a-text-summary-client-that-refuses-ambiguous-retries-3hm0"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rusty Reality of OSS: Chasing Socket Leaks, Replacing DNS Libraries, and the Unseen Cost of Building in Public]]></title>
-        <id>https://dev.to/tamizuddin/the-rusty-reality-of-oss-chasing-socket-leaks-replacing-dns-libraries-and-the-unseen-cost-of-561l</id>
-        <link href="https://dev.to/tamizuddin/the-rusty-reality-of-oss-chasing-socket-leaks-replacing-dns-libraries-and-the-unseen-cost-of-561l"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schema Markup for SEO: What Worthwhile Sites Actually Implement]]></title>
-        <id>https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0</id>
-        <link href="https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
-        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-32i1</id>
-        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-32i1"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Vector Search: Building Zero-Hallucination Semantic Graphs with SPARQL and N3.js in Node.js]]></title>
-        <id>https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch</id>
-        <link href="https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Made My React Website Load Faster by Fixing Images]]></title>
-        <id>https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d</id>
-        <link href="https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d"/>
+        <title type="html"><![CDATA[OpenGraph, Schema.org, and JSON-LD: The Ultimate AI Search Triad]]></title>
+        <id>https://dev.to/willsun/opengraph-schemaorg-and-json-ld-the-ultimate-ai-search-triad-38ik</id>
+        <link href="https://dev.to/willsun/opengraph-schemaorg-and-json-ld-the-ultimate-ai-search-triad-38ik"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
