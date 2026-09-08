@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-08T00:02:09.521Z</updated>
+    <updated>2026-09-08T02:02:01.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,23 +78,9 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The KV Cache Explained: Why Long Conversations Get Expensive]]></title>
-        <id>https://pub.towardsai.net/the-kv-cache-explained-why-long-conversations-get-expensive-4bd8f77dd7e7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-kv-cache-explained-why-long-conversations-get-expensive-4bd8f77dd7e7?source=rss----98111c9905da---4"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does One GPU Serve Hundreds of Users at the Same Time?]]></title>
-        <id>https://pub.towardsai.net/how-does-one-gpu-serve-hundreds-of-users-at-the-same-time-b999e60a440e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-does-one-gpu-serve-hundreds-of-users-at-the-same-time-b999e60a440e?source=rss----98111c9905da---4"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI Agents Trust Memory More Than Reality]]></title>
-        <id>https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Shieldstral: Build an AI Content Moderation Classifier with Python]]></title>
+        <id>https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -106,16 +92,23 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shieldstral: Build an AI Content Moderation Classifier with Python]]></title>
-        <id>https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why AI Agents Trust Memory More Than Reality]]></title>
+        <id>https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creepy crawlies]]></title>
-        <id>https://simonwillison.net/2026/Sep/7/creepy-crawlies/</id>
-        <link href="https://simonwillison.net/2026/Sep/7/creepy-crawlies/"/>
+        <title type="html"><![CDATA[How Does One GPU Serve Hundreds of Users at the Same Time?]]></title>
+        <id>https://pub.towardsai.net/how-does-one-gpu-serve-hundreds-of-users-at-the-same-time-b999e60a440e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-does-one-gpu-serve-hundreds-of-users-at-the-same-time-b999e60a440e?source=rss----98111c9905da---4"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The KV Cache Explained: Why Long Conversations Get Expensive]]></title>
+        <id>https://pub.towardsai.net/the-kv-cache-explained-why-long-conversations-get-expensive-4bd8f77dd7e7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-kv-cache-explained-why-long-conversations-get-expensive-4bd8f77dd7e7?source=rss----98111c9905da---4"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -127,51 +120,44 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bắt LLM trả JSON đúng chuẩn: ba lớp và vòng repair]]></title>
-        <id>https://dev.to/bean_bean/bat-llm-tra-json-dung-chuan-ba-lop-va-vong-repair-hjp</id>
-        <link href="https://dev.to/bean_bean/bat-llm-tra-json-dung-chuan-ba-lop-va-vong-repair-hjp"/>
+        <title type="html"><![CDATA[Creepy crawlies]]></title>
+        <id>https://simonwillison.net/2026/Sep/7/creepy-crawlies/</id>
+        <link href="https://simonwillison.net/2026/Sep/7/creepy-crawlies/"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js microservices without Kubernetes (and without a platform team)]]></title>
-        <id>https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe</id>
-        <link href="https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe"/>
+        <title type="html"><![CDATA[Build a local call-review panel with Python]]></title>
+        <id>https://dev.to/nathanroll/build-a-local-call-review-panel-with-python-2dgh</id>
+        <link href="https://dev.to/nathanroll/build-a-local-call-review-panel-with-python-2dgh"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This reset token uses MD5 — but that's not the real bug]]></title>
-        <id>https://dev.to/oopssec-store/this-reset-token-uses-md5-but-thats-not-the-real-bug-1f2j</id>
-        <link href="https://dev.to/oopssec-store/this-reset-token-uses-md5-but-thats-not-the-real-bug-1f2j"/>
+        <title type="html"><![CDATA[TikTok Events API Wants ISO 8601. Unix Epoch Gets Stamped as Arrival Time.]]></title>
+        <id>https://dev.to/aleksuix/tiktok-events-api-wants-iso-8601-unix-epoch-gets-stamped-as-arrival-time-46o8</id>
+        <link href="https://dev.to/aleksuix/tiktok-events-api-wants-iso-8601-unix-epoch-gets-stamped-as-arrival-time-46o8"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moleculer vs NestJS: which one, and when]]></title>
-        <id>https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp</id>
-        <link href="https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp"/>
+        <title type="html"><![CDATA[Build a Text Summary Client That Refuses Ambiguous Retries]]></title>
+        <id>https://dev.to/voorai/build-a-text-summary-client-that-refuses-ambiguous-retries-3hm0</id>
+        <link href="https://dev.to/voorai/build-a-text-summary-client-that-refuses-ambiguous-retries-3hm0"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A reader asked what a 250 MiB file costs a browser tab. The JS heap said 2.4 MiB and was off by 500.]]></title>
-        <id>https://dev.to/artificial_wasteland/a-reader-asked-what-a-250-mib-file-costs-a-browser-tab-the-js-heap-said-24-mib-and-was-off-by-500-2ck0</id>
-        <link href="https://dev.to/artificial_wasteland/a-reader-asked-what-a-250-mib-file-costs-a-browser-tab-the-js-heap-said-24-mib-and-was-off-by-500-2ck0"/>
+        <title type="html"><![CDATA[The Rusty Reality of OSS: Chasing Socket Leaks, Replacing DNS Libraries, and the Unseen Cost of Building in Public]]></title>
+        <id>https://dev.to/tamizuddin/the-rusty-reality-of-oss-chasing-socket-leaks-replacing-dns-libraries-and-the-unseen-cost-of-561l</id>
+        <link href="https://dev.to/tamizuddin/the-rusty-reality-of-oss-chasing-socket-leaks-replacing-dns-libraries-and-the-unseen-cost-of-561l"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Made My React Website Load Faster by Fixing Images]]></title>
-        <id>https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d</id>
-        <link href="https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Vector Search: Building Zero-Hallucination Semantic Graphs with SPARQL and N3.js in Node.js]]></title>
-        <id>https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch</id>
-        <link href="https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch"/>
+        <title type="html"><![CDATA[Schema Markup for SEO: What Worthwhile Sites Actually Implement]]></title>
+        <id>https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0</id>
+        <link href="https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -183,9 +169,51 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Schema Markup for SEO: What Worthwhile Sites Actually Implement]]></title>
-        <id>https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0</id>
-        <link href="https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0"/>
+        <title type="html"><![CDATA[Beyond Vector Search: Building Zero-Hallucination Semantic Graphs with SPARQL and N3.js in Node.js]]></title>
+        <id>https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch</id>
+        <link href="https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Made My React Website Load Faster by Fixing Images]]></title>
+        <id>https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d</id>
+        <link href="https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A reader asked what a 250 MiB file costs a browser tab. The JS heap said 2.4 MiB and was off by 500.]]></title>
+        <id>https://dev.to/artificial_wasteland/a-reader-asked-what-a-250-mib-file-costs-a-browser-tab-the-js-heap-said-24-mib-and-was-off-by-500-2ck0</id>
+        <link href="https://dev.to/artificial_wasteland/a-reader-asked-what-a-250-mib-file-costs-a-browser-tab-the-js-heap-said-24-mib-and-was-off-by-500-2ck0"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moleculer vs NestJS: which one, and when]]></title>
+        <id>https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp</id>
+        <link href="https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This reset token uses MD5 — but that's not the real bug]]></title>
+        <id>https://dev.to/oopssec-store/this-reset-token-uses-md5-but-thats-not-the-real-bug-1f2j</id>
+        <link href="https://dev.to/oopssec-store/this-reset-token-uses-md5-but-thats-not-the-real-bug-1f2j"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js microservices without Kubernetes (and without a platform team)]]></title>
+        <id>https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe</id>
+        <link href="https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bắt LLM trả JSON đúng chuẩn: ba lớp và vòng repair]]></title>
+        <id>https://dev.to/bean_bean/bat-llm-tra-json-dung-chuan-ba-lop-va-vong-repair-hjp</id>
+        <link href="https://dev.to/bean_bean/bat-llm-tra-json-dung-chuan-ba-lop-va-vong-repair-hjp"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -333,34 +361,6 @@
         <title type="html"><![CDATA[VCF West 2026: Making games in the 1980s – David Crane, Garry Kitchen [video]]]></title>
         <id>https://www.youtube.com/watch?v=9ramxZ1a6NM</id>
         <link href="https://www.youtube.com/watch?v=9ramxZ1a6NM"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slop-Creep: When Building Gets Cheaper Than Thinking]]></title>
-        <id>https://awaitinginput.substack.com/p/slop-creep-when-building-gets-cheaper</id>
-        <link href="https://awaitinginput.substack.com/p/slop-creep-when-building-gets-cheaper"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: MaskShift – a maximalist coding agent with zero NPM dependencies]]></title>
-        <id>https://github.com/nafeeur/MaskShift</id>
-        <link href="https://github.com/nafeeur/MaskShift"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Rumsey Map Collection]]></title>
-        <id>https://www.davidrumsey.com</id>
-        <link href="https://www.davidrumsey.com"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: AlternateRealities.lol – Create any kind of poing and click story]]></title>
-        <id>https://alternaterealities.lol</id>
-        <link href="https://alternaterealities.lol"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
