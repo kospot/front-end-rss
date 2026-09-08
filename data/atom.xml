@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-08T02:02:01.387Z</updated>
+    <updated>2026-09-08T04:02:20.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,37 +36,37 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How does Astra's computer use actually work?]]></title>
-        <id>https://twitter.com/kylejeong/status/2097077446663372966</id>
-        <link href="https://twitter.com/kylejeong/status/2097077446663372966"/>
+        <title type="html"><![CDATA[How the heart, lungs and brain work together to shape experience]]></title>
+        <id>https://medicalxpress.com/news/2026-09-heart-lungs-brain.html</id>
+        <link href="https://medicalxpress.com/news/2026-09-heart-lungs-brain.html"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Intelligence curse" means promise of abundance and UBI unlikely to be fulfilled]]></title>
-        <id>https://intelligence-curse.ai/defining/</id>
-        <link href="https://intelligence-curse.ai/defining/"/>
+        <title type="html"><![CDATA[I tested 10 model/harness combinations on the same Three.js task]]></title>
+        <id>https://alvins82.github.io/hangar-harness-model-tests/</id>
+        <link href="https://alvins82.github.io/hangar-harness-model-tests/"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Known registered domain count for every TLD]]></title>
-        <id>https://namedesk.app/stats/tlds</id>
-        <link href="https://namedesk.app/stats/tlds"/>
+        <title type="html"><![CDATA[Hyperboloids made out of sticks [video]]]></title>
+        <id>https://www.youtube.com/watch?v=CJCL92W8Z9w</id>
+        <link href="https://www.youtube.com/watch?v=CJCL92W8Z9w"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Speeding up a Phoenix LiveView web app with a CDN]]></title>
-        <id>https://jola.dev/posts/speeding-up-phoenix-liveview-cdn</id>
-        <link href="https://jola.dev/posts/speeding-up-phoenix-liveview-cdn"/>
+        <title type="html"><![CDATA[The most Unreasonable Music Video build by Astra, it's amazing]]></title>
+        <id>https://www.youtube.com/watch?v=_h1KgS169iM</id>
+        <link href="https://www.youtube.com/watch?v=_h1KgS169iM"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Michigan Scientist Buried Seeds in Glass Bottles in 1879, 142 Yr Later Some Grew]]></title>
-        <id>https://timesofindia.indiatimes.com/science/a-michigan-scientist-buried-seeds-in-20-glass-bottles-in-1879-142-years-later-some-still-grew-and-the-experiment-is-set-to-run-until-2100/articleshow/133791011.cms</id>
-        <link href="https://timesofindia.indiatimes.com/science/a-michigan-scientist-buried-seeds-in-20-glass-bottles-in-1879-142-years-later-some-still-grew-and-the-experiment-is-set-to-run-until-2100/articleshow/133791011.cms"/>
+        <title type="html"><![CDATA[Object A – Visible Passes]]></title>
+        <id>https://heavens-above.com/PassSummary.aspx?satid=60235&amp;lat=30.0324&amp;lng=-98.2969&amp;loc=Unnamed&amp;alt=0&amp;tz=CST</id>
+        <link href="https://heavens-above.com/PassSummary.aspx?satid=60235&amp;lat=30.0324&amp;lng=-98.2969&amp;loc=Unnamed&amp;alt=0&amp;tz=CST"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -78,30 +78,44 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shieldstral: Build an AI Content Moderation Classifier with Python]]></title>
-        <id>https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Michigan Scientist Buried Seeds in Glass Bottles in 1879, 142 Yr Later Some Grew]]></title>
+        <id>https://timesofindia.indiatimes.com/science/a-michigan-scientist-buried-seeds-in-20-glass-bottles-in-1879-142-years-later-some-still-grew-and-the-experiment-is-set-to-run-until-2100/articleshow/133791011.cms</id>
+        <link href="https://timesofindia.indiatimes.com/science/a-michigan-scientist-buried-seeds-in-20-glass-bottles-in-1879-142-years-later-some-still-grew-and-the-experiment-is-set-to-run-until-2100/articleshow/133791011.cms"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built an AI Reactive DevOps Agent for AWS — It Detects, Investigates, and Fixes Incidents -Using…]]></title>
-        <id>https://pub.towardsai.net/i-built-an-ai-reactive-devops-agent-for-aws-it-detects-investigates-and-fixes-incidents-using-06ed7864e11f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-built-an-ai-reactive-devops-agent-for-aws-it-detects-investigates-and-fixes-incidents-using-06ed7864e11f?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Speeding up a Phoenix LiveView web app with a CDN]]></title>
+        <id>https://jola.dev/posts/speeding-up-phoenix-liveview-cdn</id>
+        <link href="https://jola.dev/posts/speeding-up-phoenix-liveview-cdn"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why AI Agents Trust Memory More Than Reality]]></title>
-        <id>https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Known registered domain count for every TLD]]></title>
+        <id>https://namedesk.app/stats/tlds</id>
+        <link href="https://namedesk.app/stats/tlds"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Does One GPU Serve Hundreds of Users at the Same Time?]]></title>
-        <id>https://pub.towardsai.net/how-does-one-gpu-serve-hundreds-of-users-at-the-same-time-b999e60a440e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-does-one-gpu-serve-hundreds-of-users-at-the-same-time-b999e60a440e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA["Intelligence curse" means promise of abundance and UBI unlikely to be fulfilled]]></title>
+        <id>https://intelligence-curse.ai/defining/</id>
+        <link href="https://intelligence-curse.ai/defining/"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does Astra's computer use actually work?]]></title>
+        <id>https://twitter.com/kylejeong/status/2097077446663372966</id>
+        <link href="https://twitter.com/kylejeong/status/2097077446663372966"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Board That Runs the Sprint: A Fresher’s First Real Lesson in JIRA]]></title>
+        <id>https://pub.towardsai.net/the-board-that-runs-the-sprint-a-freshers-first-real-lesson-in-jira-b58d84155aaf?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-board-that-runs-the-sprint-a-freshers-first-real-lesson-in-jira-b58d84155aaf?source=rss----98111c9905da---4"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -113,9 +127,30 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video compressor]]></title>
-        <id>https://simonwillison.net/2026/Sep/7/video-compressor/</id>
-        <link href="https://simonwillison.net/2026/Sep/7/video-compressor/"/>
+        <title type="html"><![CDATA[How Does One GPU Serve Hundreds of Users at the Same Time?]]></title>
+        <id>https://pub.towardsai.net/how-does-one-gpu-serve-hundreds-of-users-at-the-same-time-b999e60a440e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-does-one-gpu-serve-hundreds-of-users-at-the-same-time-b999e60a440e?source=rss----98111c9905da---4"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI Agents Trust Memory More Than Reality]]></title>
+        <id>https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built an AI Reactive DevOps Agent for AWS — It Detects, Investigates, and Fixes Incidents -Using…]]></title>
+        <id>https://pub.towardsai.net/i-built-an-ai-reactive-devops-agent-for-aws-it-detects-investigates-and-fixes-incidents-using-06ed7864e11f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-built-an-ai-reactive-devops-agent-for-aws-it-detects-investigates-and-fixes-incidents-using-06ed7864e11f?source=rss----98111c9905da---4"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shieldstral: Build an AI Content Moderation Classifier with Python]]></title>
+        <id>https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -127,86 +162,70 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a local call-review panel with Python]]></title>
-        <id>https://dev.to/nathanroll/build-a-local-call-review-panel-with-python-2dgh</id>
-        <link href="https://dev.to/nathanroll/build-a-local-call-review-panel-with-python-2dgh"/>
+        <title type="html"><![CDATA[Video compressor]]></title>
+        <id>https://simonwillison.net/2026/Sep/7/video-compressor/</id>
+        <link href="https://simonwillison.net/2026/Sep/7/video-compressor/"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TikTok Events API Wants ISO 8601. Unix Epoch Gets Stamped as Arrival Time.]]></title>
-        <id>https://dev.to/aleksuix/tiktok-events-api-wants-iso-8601-unix-epoch-gets-stamped-as-arrival-time-46o8</id>
-        <link href="https://dev.to/aleksuix/tiktok-events-api-wants-iso-8601-unix-epoch-gets-stamped-as-arrival-time-46o8"/>
+        <title type="html"><![CDATA[
+Neutralinojs v6.9 released!
+]]></title>
+        <id>
+https://neutralino.js.org/docs/release-notes/framework#v690
+</id>
+        <link href="
+https://neutralino.js.org/docs/release-notes/framework#v690
+"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Text Summary Client That Refuses Ambiguous Retries]]></title>
-        <id>https://dev.to/voorai/build-a-text-summary-client-that-refuses-ambiguous-retries-3hm0</id>
-        <link href="https://dev.to/voorai/build-a-text-summary-client-that-refuses-ambiguous-retries-3hm0"/>
+        <title type="html"><![CDATA[
+Xec — the zx-style $ that also runs over SSH, Docker and Kubernetes
+]]></title>
+        <id>
+https://xec.sh/
+</id>
+        <link href="
+https://xec.sh/
+"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Rusty Reality of OSS: Chasing Socket Leaks, Replacing DNS Libraries, and the Unseen Cost of Building in Public]]></title>
-        <id>https://dev.to/tamizuddin/the-rusty-reality-of-oss-chasing-socket-leaks-replacing-dns-libraries-and-the-unseen-cost-of-561l</id>
-        <link href="https://dev.to/tamizuddin/the-rusty-reality-of-oss-chasing-socket-leaks-replacing-dns-libraries-and-the-unseen-cost-of-561l"/>
+        <title type="html"><![CDATA[How to Add Images to a PDF in JavaScript (React) | Complete Guide]]></title>
+        <id>https://dev.to/eiceblue/how-to-add-images-to-a-pdf-in-javascript-react-complete-guide-322g</id>
+        <link href="https://dev.to/eiceblue/how-to-add-images-to-a-pdf-in-javascript-react-complete-guide-322g"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Schema Markup for SEO: What Worthwhile Sites Actually Implement]]></title>
-        <id>https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0</id>
-        <link href="https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0"/>
+        <title type="html"><![CDATA[I Scraped 100 Sports Matches — Here Is What I Found: Pietersen joins Englands white-ball coaching team]]></title>
+        <id>https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-sports-matches-here-is-what-i-found-pietersen-joins-englands-white-ball-coaching-1iaf</id>
+        <link href="https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-sports-matches-here-is-what-i-found-pietersen-joins-englands-white-ball-coaching-1iaf"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
-        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-32i1</id>
-        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-32i1"/>
+        <title type="html"><![CDATA[Stop Treating 'use client' Like a Code Smell in Next.js]]></title>
+        <id>https://dev.to/nainikmehta/stop-treating-use-client-like-a-code-smell-in-nextjs-3a1j</id>
+        <link href="https://dev.to/nainikmehta/stop-treating-use-client-like-a-code-smell-in-nextjs-3a1j"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond Vector Search: Building Zero-Hallucination Semantic Graphs with SPARQL and N3.js in Node.js]]></title>
-        <id>https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch</id>
-        <link href="https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch"/>
+        <title type="html"><![CDATA[Web Vitals in JavaScript: How to Measure, Debug, and Fix Real-World Performance Problems]]></title>
+        <id>https://dev.to/amalmktk/web-vitals-in-javascript-how-to-measure-debug-and-fix-real-world-performance-problems-1l2d</id>
+        <link href="https://dev.to/amalmktk/web-vitals-in-javascript-how-to-measure-debug-and-fix-real-world-performance-problems-1l2d"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Made My React Website Load Faster by Fixing Images]]></title>
-        <id>https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d</id>
-        <link href="https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A reader asked what a 250 MiB file costs a browser tab. The JS heap said 2.4 MiB and was off by 500.]]></title>
-        <id>https://dev.to/artificial_wasteland/a-reader-asked-what-a-250-mib-file-costs-a-browser-tab-the-js-heap-said-24-mib-and-was-off-by-500-2ck0</id>
-        <link href="https://dev.to/artificial_wasteland/a-reader-asked-what-a-250-mib-file-costs-a-browser-tab-the-js-heap-said-24-mib-and-was-off-by-500-2ck0"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moleculer vs NestJS: which one, and when]]></title>
-        <id>https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp</id>
-        <link href="https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This reset token uses MD5 — but that's not the real bug]]></title>
-        <id>https://dev.to/oopssec-store/this-reset-token-uses-md5-but-thats-not-the-real-bug-1f2j</id>
-        <link href="https://dev.to/oopssec-store/this-reset-token-uses-md5-but-thats-not-the-real-bug-1f2j"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js microservices without Kubernetes (and without a platform team)]]></title>
-        <id>https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe</id>
-        <link href="https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe"/>
+        <title type="html"><![CDATA[OpenGraph, Schema.org, and JSON-LD: The Ultimate AI Search Triad]]></title>
+        <id>https://dev.to/willsun/opengraph-schemaorg-and-json-ld-the-ultimate-ai-search-triad-38ik</id>
+        <link href="https://dev.to/willsun/opengraph-schemaorg-and-json-ld-the-ultimate-ai-search-triad-38ik"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -218,9 +237,93 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Huawei copies Samsung’s privacy display in its latest trifold]]></title>
-        <id>https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display</id>
-        <link href="https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display"/>
+        <title type="html"><![CDATA[Node.js microservices without Kubernetes (and without a platform team)]]></title>
+        <id>https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe</id>
+        <link href="https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This reset token uses MD5 — but that's not the real bug]]></title>
+        <id>https://dev.to/oopssec-store/this-reset-token-uses-md5-but-thats-not-the-real-bug-1f2j</id>
+        <link href="https://dev.to/oopssec-store/this-reset-token-uses-md5-but-thats-not-the-real-bug-1f2j"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moleculer vs NestJS: which one, and when]]></title>
+        <id>https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp</id>
+        <link href="https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A reader asked what a 250 MiB file costs a browser tab. The JS heap said 2.4 MiB and was off by 500.]]></title>
+        <id>https://dev.to/artificial_wasteland/a-reader-asked-what-a-250-mib-file-costs-a-browser-tab-the-js-heap-said-24-mib-and-was-off-by-500-2ck0</id>
+        <link href="https://dev.to/artificial_wasteland/a-reader-asked-what-a-250-mib-file-costs-a-browser-tab-the-js-heap-said-24-mib-and-was-off-by-500-2ck0"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Made My React Website Load Faster by Fixing Images]]></title>
+        <id>https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d</id>
+        <link href="https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Vector Search: Building Zero-Hallucination Semantic Graphs with SPARQL and N3.js in Node.js]]></title>
+        <id>https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch</id>
+        <link href="https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
+        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-32i1</id>
+        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-32i1"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schema Markup for SEO: What Worthwhile Sites Actually Implement]]></title>
+        <id>https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0</id>
+        <link href="https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rusty Reality of OSS: Chasing Socket Leaks, Replacing DNS Libraries, and the Unseen Cost of Building in Public]]></title>
+        <id>https://dev.to/tamizuddin/the-rusty-reality-of-oss-chasing-socket-leaks-replacing-dns-libraries-and-the-unseen-cost-of-561l</id>
+        <link href="https://dev.to/tamizuddin/the-rusty-reality-of-oss-chasing-socket-leaks-replacing-dns-libraries-and-the-unseen-cost-of-561l"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Text Summary Client That Refuses Ambiguous Retries]]></title>
+        <id>https://dev.to/voorai/build-a-text-summary-client-that-refuses-ambiguous-retries-3hm0</id>
+        <link href="https://dev.to/voorai/build-a-text-summary-client-that-refuses-ambiguous-retries-3hm0"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok Events API Wants ISO 8601. Unix Epoch Gets Stamped as Arrival Time.]]></title>
+        <id>https://dev.to/aleksuix/tiktok-events-api-wants-iso-8601-unix-epoch-gets-stamped-as-arrival-time-46o8</id>
+        <link href="https://dev.to/aleksuix/tiktok-events-api-wants-iso-8601-unix-epoch-gets-stamped-as-arrival-time-46o8"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a local call-review panel with Python]]></title>
+        <id>https://dev.to/nathanroll/build-a-local-call-review-panel-with-python-2dgh</id>
+        <link href="https://dev.to/nathanroll/build-a-local-call-review-panel-with-python-2dgh"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The real reason your phone is getting more expensive]]></title>
+        <id>https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone</id>
+        <link href="https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
@@ -232,9 +335,9 @@
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The real reason your phone is getting more expensive]]></title>
-        <id>https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone</id>
-        <link href="https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone"/>
+        <title type="html"><![CDATA[Huawei copies Samsung’s privacy display in its latest trifold]]></title>
+        <id>https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display</id>
+        <link href="https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
@@ -270,97 +373,6 @@
         <title type="html"><![CDATA[The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes]]></title>
         <id>https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/</id>
         <link href="https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Travis Kalanick’s Atoms might be getting into the robotaxi business]]></title>
-        <id>https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/</id>
-        <link href="https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authors push back as publishers and agents make claims on Anthropic settlement]]></title>
-        <id>https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</id>
-        <link href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC Tweaker – Windows settings with per-change restore, built in Rust]]></title>
-        <id>https://github.com/AurelioAvila/pc-tweaker-app</id>
-        <link href="https://github.com/AurelioAvila/pc-tweaker-app"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy Leakage from Gradients in Split-LLM Training]]></title>
-        <id>https://arxiv.org/abs/2609.04382</id>
-        <link href="https://arxiv.org/abs/2609.04382"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elizabeth Holmes A24 Movie – You Can See Everything – Official Teaser HD [video]]]></title>
-        <id>https://www.youtube.com/watch?v=GGJSRFWALTI</id>
-        <link href="https://www.youtube.com/watch?v=GGJSRFWALTI"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astra made Van Gogh in a single pre computed step of 5291 excalidraw shapes]]></title>
-        <id>https://twitter.com/hive_echo/status/2096848073033146580</id>
-        <link href="https://twitter.com/hive_echo/status/2096848073033146580"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta blocks accounts protesting Kushner-linked Albanian resort project]]></title>
-        <id>https://www.politico.eu/article/meta-blocks-accounts-politicians-journalists-and-activists-protesting-jared-kushner-linked-albania-resort/</id>
-        <link href="https://www.politico.eu/article/meta-blocks-accounts-politicians-journalists-and-activists-protesting-jared-kushner-linked-albania-resort/"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Dislike TypeScript Because I've Never Maintained JavaScript Before]]></title>
-        <id>https://mayberay.bearblog.dev/i-dislike-typescript-because-ive-never-maintained-javascript-before/</id>
-        <link href="https://mayberay.bearblog.dev/i-dislike-typescript-because-ive-never-maintained-javascript-before/"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LessHard: Less wrong about wanting [parody]]]></title>
-        <id>https://shimmermathlabs.com/lesshard.html</id>
-        <link href="https://shimmermathlabs.com/lesshard.html"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Blueprintr – Diagram-first knowledge base with live cloud import]]></title>
-        <id>https://blueprintr.io</id>
-        <link href="https://blueprintr.io"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Living Documents Manifesto]]></title>
-        <id>https://orionfold.com/manifesto/</id>
-        <link href="https://orionfold.com/manifesto/"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printed Hydrogels for Soft Robotic Applications (2025)]]></title>
-        <id>https://www.sciencedirect.com/org/science/article/pii/S0973862225000261</id>
-        <link href="https://www.sciencedirect.com/org/science/article/pii/S0973862225000261"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VCF West 2026: Making games in the 1980s – David Crane, Garry Kitchen [video]]]></title>
-        <id>https://www.youtube.com/watch?v=9ramxZ1a6NM</id>
-        <link href="https://www.youtube.com/watch?v=9ramxZ1a6NM"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
