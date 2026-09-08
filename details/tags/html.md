@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-08 06:01:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-08 08:02:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -8,30 +8,30 @@
 
 
 - [2026-09-02-New-Things-You-Should-Know-About-HTML-Here-in-Mid-2026](https://blog.master.dev/new-things-you-should-know-about-html-here-in-mid-2026/) 
-- [2026-09-07-My-Stack-for-a-Fully-Automated-Content-Site:-AI-+-Static-HTML-+-Staggered-Pushes](https://dev.to/zongkai_sun_0946ae0d49db2/my-stack-for-a-fully-automated-content-site-ai-static-html-staggered-pushes-1a04) 
 - [2026-09-07-Creating-Custom-3D-Anatomical-Annotations:-Free-Human-Atlas-Metadata-Generator](https://dev.to/kairo_v2/creating-custom-3d-anatomical-annotations-free-human-atlas-metadata-generator-21jb) 
+- [2026-09-07-My-Stack-for-a-Fully-Automated-Content-Site:-AI-+-Static-HTML-+-Staggered-Pushes](https://dev.to/zongkai_sun_0946ae0d49db2/my-stack-for-a-fully-automated-content-site-ai-static-html-staggered-pushes-1a04) 
 - [2026-09-03-My-Stack-for-a-Fully-Automated-Content-Site:-AI-+-Static-HTML-+-Staggered-Pushes](https://dev.to/zongkai_sun_0946ae0d49db2/my-stack-for-a-fully-automated-content-site-ai-static-html-staggered-pushes-3e1l) 
-- [2026-09-02-Building-the-MyZubster-Metaverse:-From-a-Shared-Neon-Plaza-to-a-Federated-Open-World](https://dev.to/danielioni/building-the-myzubster-metaverse-from-a-shared-neon-plaza-to-a-federated-open-world-3108) 
 - [2026-09-02-I-shipped-a-word-finder-as-one-99KB-HTML-file-with-no-build-step](https://dev.to/the5letterwords/i-shipped-a-word-finder-as-one-99kb-html-file-with-no-build-step-4cli) 
+- [2026-09-02-Building-the-MyZubster-Metaverse:-From-a-Shared-Neon-Plaza-to-a-Federated-Open-World](https://dev.to/danielioni/building-the-myzubster-metaverse-from-a-shared-neon-plaza-to-a-federated-open-world-3108) 
 - [2026-09-01-How-I-made-SQL-run-inside-a-single,-offline-HTML-file-no-WASM](https://dev.to/aurelionakamura/how-i-made-sql-run-inside-a-single-offline-html-file-no-wasm-3fk9) 
 - [2026-08-31-Reddit-CAPI-v3-Wants-Milliseconds.-Meta's-Seconds-Helper-Lands-in-1970.](https://dev.to/aleksuix/reddit-capi-v3-wants-milliseconds-metas-seconds-helper-lands-in-1970-1gdo) 
 - [2026-08-30-Why-Email-HTML-in-2026-is-Still-a-Nightmare:-Reverse-Engineering-Dark-Mode-&amp;-Outlook-MSO-Tables](https://dev.to/syzq/why-email-html-in-2026-is-still-a-nightmare-reverse-engineering-dark-mode-outlook-mso-tables-57o0) 
 - [2026-08-29-Why-Automated-HTML-Formatting-Breaks-in-Production:-5-Edge-Cases-That-Corrupt-Layouts](https://dev.to/rasika_dangamuwa_ed1074fe/why-automated-html-formatting-breaks-in-production-5-edge-cases-that-corrupt-layouts-1e72) 
-- [2026-08-28-Your-JPEG-May-Contain-GPS-Data:-How-EXIF-Metadata-Works-and-How-to-Strip-It-Before-Sharing](https://dev.to/muhayminbinmehmood/your-jpeg-may-contain-gps-data-how-exif-metadata-works-and-how-to-strip-it-before-sharing-4h2b) 
 - [2026-08-28-I-shipped-200-tools-as-single-HTML-files.-Here's-what-that-constraint-actually-buys-you.](https://dev.to/salmanahsan/i-shipped-200-tools-as-single-html-files-heres-what-that-constraint-actually-buys-you-45pi) 
-- [2026-08-27-Building-Local-First-Web-Apps:-Parsing-HTML-and-PDFs-to-Markdown-in-the-Browser](https://dev.to/__7b51d76b10fdb4b/building-local-first-web-apps-parsing-html-and-pdfs-to-markdown-in-the-browser-3p35) 
+- [2026-08-28-Your-JPEG-May-Contain-GPS-Data:-How-EXIF-Metadata-Works-and-How-to-Strip-It-Before-Sharing](https://dev.to/muhayminbinmehmood/your-jpeg-may-contain-gps-data-how-exif-metadata-works-and-how-to-strip-it-before-sharing-4h2b) 
 - [2026-08-27-Why-Your-AI-Prompts-Feel-Generic-And-the-Meta-Prompt-Architecture-That-Fixes-It](https://dev.to/hizba_31d77c41803163b8ff0/why-your-ai-prompts-feel-generic-and-the-meta-prompt-architecture-that-fixes-it-127b) 
+- [2026-08-27-Building-Local-First-Web-Apps:-Parsing-HTML-and-PDFs-to-Markdown-in-the-Browser](https://dev.to/__7b51d76b10fdb4b/building-local-first-web-apps-parsing-html-and-pdfs-to-markdown-in-the-browser-3p35) 
 - [2026-08-22-Meta's-Conversions-API-Wants-Seconds.-Date.now-Sends-Milliseconds.](https://dev.to/aleksuix/metas-conversions-api-wants-seconds-datenow-sends-milliseconds-4p80) 
 - [2026-08-21-Make-Basic-HTML-Analysis-More-Difficult](https://dev.to/uni928/make-basic-html-analysis-more-difficult-372e) 
 - [2026-08-20-Meta-AI-Có-App-Mac:-Chia-Sẻ-Màn-Hình-Và-Đọc-Chính-Tả](https://dev.to/bean_bean/meta-ai-co-app-mac-chia-se-man-hinh-va-doc-chinh-ta-3f8m) 
-- [2026-08-19-How-to-Build-a-CAD-Style-Layout-Editor-on-Top-of-Extracted-HTML](https://dev.to/bonzai2carn/how-to-build-a-cad-style-layout-editor-on-top-of-extracted-html-4ihd) 
 - [2026-08-19-The-HTML-canvas-quietly-deletes-your-photo's-metadata-—-and-one-day-that-bites-you](https://dev.to/bellsal_b44bf6d/the-html-canvas-quietly-deletes-your-photos-metadata-and-one-day-that-bites-you-2h68) 
+- [2026-08-19-How-to-Build-a-CAD-Style-Layout-Editor-on-Top-of-Extracted-HTML](https://dev.to/bonzai2carn/how-to-build-a-cad-style-layout-editor-on-top-of-extracted-html-4ihd) 
 - [2026-08-18-Your-API-Error-Is-HTML:-Keep-the-Real-Failure-Behind-an-Agent's-First-Call](https://dev.to/vectronode/your-api-error-is-html-keep-the-real-failure-behind-an-agents-first-call-9g3) 
-- [2026-08-15-If-you-render-user-HTML,-you-have-an-SSRF-problem.-Here-is-the-code-that-fixes-it.](https://dev.to/stackedboost/if-you-render-user-html-you-have-an-ssrf-problem-here-is-the-code-that-fixes-it-15e8) 
 - [2026-08-15-Securing-AI-Response-Rendering-in-Flask-—-Replacing-innerHTML-After-a-Codex-Review](https://dev.to/tosane932/securing-ai-response-rendering-in-flask-replacing-innerhtml-after-a-codex-review-44m4) 
+- [2026-08-15-If-you-render-user-HTML,-you-have-an-SSRF-problem.-Here-is-the-code-that-fixes-it.](https://dev.to/stackedboost/if-you-render-user-html-you-have-an-ssrf-problem-here-is-the-code-that-fixes-it-15e8) 
 - [2026-08-13-I-Built-a-Malaysian-Cultural-RPG-in-a-Single-HTML-File-—-Here's-What-Broke](https://dev.to/ytlow/i-built-a-malaysian-cultural-rpg-in-a-single-html-file-heres-what-broke-43eb) 
-- [2026-08-11-Why-HTML-Entity-Email-Obfuscation-Fails-in-2026-And-3-Methods-That-Work](https://dev.to/rasika_dangamuwa_ed1074fe/why-html-entity-email-obfuscation-fails-in-2026-and-3-methods-that-work-4fpa) 
 - [2026-08-11-md-to-html-without-uploading-your-files:-a-browser-based-converter-that-doesn't-choke-on-Mermaid-or-KaTeX](https://dev.to/eltacrew/md-to-html-without-uploading-your-files-a-browser-based-converter-that-doesnt-choke-on-mermaid-or-1h3a) 
+- [2026-08-11-Why-HTML-Entity-Email-Obfuscation-Fails-in-2026-And-3-Methods-That-Work](https://dev.to/rasika_dangamuwa_ed1074fe/why-html-entity-email-obfuscation-fails-in-2026-and-3-methods-that-work-4fpa) 
 - [2026-08-10-I-Automated-My-Meeting-Decisions-With-a-150-Line-HTML-File](https://dev.to/jack_green_7b74cb2cdf9e23/i-automated-my-meeting-decisions-with-a-150-line-html-file-43b6) 
 - [2026-08-28-超级Web特性HTML-in-Canvas初体验](https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/) 
 - [2026-09-01--Sacred-Geometry-Generator:-draw,-tune,-and-export-Vesica-Piscis,-Seed-of-Life,-Flower-of-Life,-Metatron's-Cube,-and-the-Golden-Spiral-as-SVG-](

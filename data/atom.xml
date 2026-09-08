@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-07T22:01:52.563Z</updated>
+    <updated>2026-09-08T00:02:09.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[Audi’s new A2 E-tron is its most affordable and efficient EV yet]]></title>
         <id>https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price</id>
         <link href="https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le Creuset x Star Trek Collection: Prices, availability, release date]]></title>
+        <id>https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/</id>
+        <link href="https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -71,23 +78,9 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shieldstral: Build an AI Content Moderation Classifier with Python]]></title>
-        <id>https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built an AI Reactive DevOps Agent for AWS — It Detects, Investigates, and Fixes Incidents -Using…]]></title>
-        <id>https://pub.towardsai.net/i-built-an-ai-reactive-devops-agent-for-aws-it-detects-investigates-and-fixes-incidents-using-06ed7864e11f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-built-an-ai-reactive-devops-agent-for-aws-it-detects-investigates-and-fixes-incidents-using-06ed7864e11f?source=rss----98111c9905da---4"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI Agents Trust Memory More Than Reality]]></title>
-        <id>https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The KV Cache Explained: Why Long Conversations Get Expensive]]></title>
+        <id>https://pub.towardsai.net/the-kv-cache-explained-why-long-conversations-get-expensive-4bd8f77dd7e7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-kv-cache-explained-why-long-conversations-get-expensive-4bd8f77dd7e7?source=rss----98111c9905da---4"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -99,9 +92,30 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The KV Cache Explained: Why Long Conversations Get Expensive]]></title>
-        <id>https://pub.towardsai.net/the-kv-cache-explained-why-long-conversations-get-expensive-4bd8f77dd7e7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-kv-cache-explained-why-long-conversations-get-expensive-4bd8f77dd7e7?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why AI Agents Trust Memory More Than Reality]]></title>
+        <id>https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-ai-agents-trust-memory-more-than-reality-d261545cc7e4?source=rss----98111c9905da---4"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built an AI Reactive DevOps Agent for AWS — It Detects, Investigates, and Fixes Incidents -Using…]]></title>
+        <id>https://pub.towardsai.net/i-built-an-ai-reactive-devops-agent-for-aws-it-detects-investigates-and-fixes-incidents-using-06ed7864e11f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-built-an-ai-reactive-devops-agent-for-aws-it-detects-investigates-and-fixes-incidents-using-06ed7864e11f?source=rss----98111c9905da---4"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shieldstral: Build an AI Content Moderation Classifier with Python]]></title>
+        <id>https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss----98111c9905da---4"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creepy crawlies]]></title>
+        <id>https://simonwillison.net/2026/Sep/7/creepy-crawlies/</id>
+        <link href="https://simonwillison.net/2026/Sep/7/creepy-crawlies/"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -113,44 +127,16 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Schema Markup for SEO: What Worthwhile Sites Actually Implement]]></title>
-        <id>https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0</id>
-        <link href="https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0"/>
+        <title type="html"><![CDATA[Bắt LLM trả JSON đúng chuẩn: ba lớp và vòng repair]]></title>
+        <id>https://dev.to/bean_bean/bat-llm-tra-json-dung-chuan-ba-lop-va-vong-repair-hjp</id>
+        <link href="https://dev.to/bean_bean/bat-llm-tra-json-dung-chuan-ba-lop-va-vong-repair-hjp"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
-        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-32i1</id>
-        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-32i1"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Vector Search: Building Zero-Hallucination Semantic Graphs with SPARQL and N3.js in Node.js]]></title>
-        <id>https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch</id>
-        <link href="https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Made My React Website Load Faster by Fixing Images]]></title>
-        <id>https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d</id>
-        <link href="https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A reader asked what a 250 MiB file costs a browser tab. The JS heap said 2.4 MiB and was off by 500.]]></title>
-        <id>https://dev.to/artificial_wasteland/a-reader-asked-what-a-250-mib-file-costs-a-browser-tab-the-js-heap-said-24-mib-and-was-off-by-500-2ck0</id>
-        <link href="https://dev.to/artificial_wasteland/a-reader-asked-what-a-250-mib-file-costs-a-browser-tab-the-js-heap-said-24-mib-and-was-off-by-500-2ck0"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moleculer vs NestJS: which one, and when]]></title>
-        <id>https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp</id>
-        <link href="https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp"/>
+        <title type="html"><![CDATA[Node.js microservices without Kubernetes (and without a platform team)]]></title>
+        <id>https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe</id>
+        <link href="https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -162,9 +148,44 @@
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js microservices without Kubernetes (and without a platform team)]]></title>
-        <id>https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe</id>
-        <link href="https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe"/>
+        <title type="html"><![CDATA[Moleculer vs NestJS: which one, and when]]></title>
+        <id>https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp</id>
+        <link href="https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A reader asked what a 250 MiB file costs a browser tab. The JS heap said 2.4 MiB and was off by 500.]]></title>
+        <id>https://dev.to/artificial_wasteland/a-reader-asked-what-a-250-mib-file-costs-a-browser-tab-the-js-heap-said-24-mib-and-was-off-by-500-2ck0</id>
+        <link href="https://dev.to/artificial_wasteland/a-reader-asked-what-a-250-mib-file-costs-a-browser-tab-the-js-heap-said-24-mib-and-was-off-by-500-2ck0"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Made My React Website Load Faster by Fixing Images]]></title>
+        <id>https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d</id>
+        <link href="https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Vector Search: Building Zero-Hallucination Semantic Graphs with SPARQL and N3.js in Node.js]]></title>
+        <id>https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch</id>
+        <link href="https://dev.to/programmingcentral/beyond-vector-search-building-zero-hallucination-semantic-graphs-with-sparql-and-n3js-in-nodejs-48ch"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
+        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-32i1</id>
+        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-32i1"/>
+        <updated>2026-09-07T16:00:00.000Z</updated>
+        <published>2026-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schema Markup for SEO: What Worthwhile Sites Actually Implement]]></title>
+        <id>https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0</id>
+        <link href="https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0"/>
         <updated>2026-09-07T16:00:00.000Z</updated>
         <published>2026-09-07T16:00:00.000Z</published>
     </entry>
@@ -190,23 +211,9 @@
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes]]></title>
-        <id>https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/</id>
-        <link href="https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?]]></title>
-        <id>https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/</id>
-        <link href="https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every Samsung Galaxy Phone Comes With This Unique Add-On]]></title>
-        <id>https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/</id>
-        <link href="https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/"/>
+        <title type="html"><![CDATA[Two of the Universe's Great Mysteries May Have Their Own Dimension]]></title>
+        <id>https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/</id>
+        <link href="https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
@@ -218,9 +225,23 @@
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two of the Universe's Great Mysteries May Have Their Own Dimension]]></title>
-        <id>https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/</id>
-        <link href="https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/"/>
+        <title type="html"><![CDATA[Every Samsung Galaxy Phone Comes With This Unique Add-On]]></title>
+        <id>https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/</id>
+        <link href="https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?]]></title>
+        <id>https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/</id>
+        <link href="https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/"/>
+        <updated>2026-09-06T16:00:00.000Z</updated>
+        <published>2026-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes]]></title>
+        <id>https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/</id>
+        <link href="https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[Show HN: AlternateRealities.lol – Create any kind of poing and click story]]></title>
         <id>https://alternaterealities.lol</id>
         <link href="https://alternaterealities.lol"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenLedger – Local-first double-entry accounting, MCP-native (Apache 2.0)]]></title>
-        <id>https://github.com/Attri-Inc/open-ledger</id>
-        <link href="https://github.com/Attri-Inc/open-ledger"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude formalized Fermat's Last Theorem in 11 days]]></title>
-        <id>https://www.anthropic.com/news/formalizing-fermats-last-theorem</id>
-        <link href="https://www.anthropic.com/news/formalizing-fermats-last-theorem"/>
-        <updated>2026-09-06T16:00:00.000Z</updated>
-        <published>2026-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS Amplifier Re-Publishes 19 Full NLJ Articles Without Permission]]></title>
-        <id>https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/</id>
-        <link href="https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/"/>
         <updated>2026-09-06T16:00:00.000Z</updated>
         <published>2026-09-06T16:00:00.000Z</published>
     </entry>
