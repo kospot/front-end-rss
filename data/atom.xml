@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-09T02:02:07.736Z</updated>
+    <updated>2026-09-09T04:02:32.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Velastar：喜欢仰望星空的你，有了一个探索异星的新选择]]></title>
+        <id>https://sspai.com/post/113668</id>
+        <link href="https://sspai.com/post/113668"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off]]></title>
         <id>https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale</id>
@@ -36,9 +43,9 @@
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Cloud races to catch up in the AI deployment wars with Accenture deal]]></title>
-        <id>https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/</id>
-        <link href="https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"/>
+        <title type="html"><![CDATA[Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market]]></title>
+        <id>https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/</id>
+        <link href="https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"/>
         <updated>2026-09-08T16:00:00.000Z</updated>
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
@@ -50,9 +57,9 @@
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market]]></title>
-        <id>https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/</id>
-        <link href="https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"/>
+        <title type="html"><![CDATA[Google Cloud races to catch up in the AI deployment wars with Accenture deal]]></title>
+        <id>https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/</id>
+        <link href="https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"/>
         <updated>2026-09-08T16:00:00.000Z</updated>
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
@@ -162,51 +169,37 @@
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering LangChain: Open-Source Models & Prompt Engineering (Part 2)]]></title>
-        <id>https://pub.towardsai.net/mastering-langchain-open-source-models-prompt-engineering-part-2-cb4e6e519292?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/mastering-langchain-open-source-models-prompt-engineering-part-2-cb4e6e519292?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Learn Matplotlib for Data Science: From Your First Plot to Real-World Visualizations]]></title>
+        <id>https://pub.towardsai.net/learn-matplotlib-for-data-science-from-your-first-plot-to-real-world-visualizations-284962f2eb77?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/learn-matplotlib-for-data-science-from-your-first-plot-to-real-world-visualizations-284962f2eb77?source=rss----98111c9905da---4"/>
         <updated>2026-09-08T16:00:00.000Z</updated>
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The $8M Deadstock Cascade: Why Autonomous Agents Cause Bullwhip Disasters in Enterprise ERPs]]></title>
-        <id>https://pub.towardsai.net/the-8m-deadstock-cascade-why-autonomous-agents-cause-bullwhip-disasters-in-enterprise-erps-b0da5e95b4b1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-8m-deadstock-cascade-why-autonomous-agents-cause-bullwhip-disasters-in-enterprise-erps-b0da5e95b4b1?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Can Quantum Computing Actually Speed Up AI? A Practical Guide]]></title>
+        <id>https://pub.towardsai.net/can-quantum-computing-actually-speed-up-ai-a-practical-guide-11f703e293d4?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/can-quantum-computing-actually-speed-up-ai-a-practical-guide-11f703e293d4?source=rss----98111c9905da---4"/>
         <updated>2026-09-08T16:00:00.000Z</updated>
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The PR Is Automated. The Review Still Isn’t.]]></title>
-        <id>https://pub.towardsai.net/the-pr-is-automated-the-review-still-isnt-af7cf6c2ddcd?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-pr-is-automated-the-review-still-isnt-af7cf6c2ddcd?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Beyond Keywords: Mastering Hybrid Search with BM25 & Vectors]]></title>
+        <id>https://pub.towardsai.net/beyond-keywords-mastering-hybrid-search-with-bm25-vectors-8e93180f8532?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beyond-keywords-mastering-hybrid-search-with-bm25-vectors-8e93180f8532?source=rss----98111c9905da---4"/>
         <updated>2026-09-08T16:00:00.000Z</updated>
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why 40% of “AI-Powered” Laravel Features Get Ripped Out Within 6 Months]]></title>
-        <id>https://pub.towardsai.net/why-40-of-ai-powered-laravel-features-get-ripped-out-within-6-months-2ce3ba25d75b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-40-of-ai-powered-laravel-features-get-ripped-out-within-6-months-2ce3ba25d75b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How Nemotron Solves the Transformer vs. State-Space Tradeoff]]></title>
+        <id>https://pub.towardsai.net/how-nemotron-solves-the-transformer-vs-state-space-tradeoff-7d5f618e6b5c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-nemotron-solves-the-transformer-vs-state-space-tradeoff-7d5f618e6b5c?source=rss----98111c9905da---4"/>
         <updated>2026-09-08T16:00:00.000Z</updated>
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The AI Inference Stack in 2026: GPUs, KV Caches, Routing, and Kubernetes]]></title>
-        <id>https://pub.towardsai.net/the-ai-inference-stack-in-2026-gpus-kv-caches-routing-and-kubernetes-c245a413dcd9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-ai-inference-stack-in-2026-gpus-kv-caches-routing-and-kubernetes-c245a413dcd9?source=rss----98111c9905da---4"/>
-        <updated>2026-09-08T16:00:00.000Z</updated>
-        <published>2026-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini Agentic Video Understanding Pipeline: Build Long-Video AI That Does Not Waste Tokens]]></title>
-        <id>https://pub.towardsai.net/gemini-agentic-video-understanding-pipeline-build-long-video-ai-that-does-not-waste-tokens-44f2f0bd3462?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/gemini-agentic-video-understanding-pipeline-build-long-video-ai-that-does-not-waste-tokens-44f2f0bd3462?source=rss----98111c9905da---4"/>
-        <updated>2026-09-08T16:00:00.000Z</updated>
-        <published>2026-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tried to Prove DocLang Beats Markdown for PDF→LLM. The Data Said Otherwise.]]></title>
-        <id>https://pub.towardsai.net/i-tried-to-prove-doclang-beats-markdown-for-pdf-llm-the-data-said-otherwise-19d256cbaa00?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-tried-to-prove-doclang-beats-markdown-for-pdf-llm-the-data-said-otherwise-19d256cbaa00?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[AI Fundamentals: Attention Mechanisms in Transformers (Part 1)]]></title>
+        <id>https://pub.towardsai.net/ai-fundamentals-attention-mechanisms-in-transformers-part-1-a91cce62fbab?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-fundamentals-attention-mechanisms-in-transformers-part-1-a91cce62fbab?source=rss----98111c9905da---4"/>
         <updated>2026-09-08T16:00:00.000Z</updated>
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
@@ -218,9 +211,51 @@
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Fundamentals: Attention Mechanisms in Transformers (Part 1)]]></title>
-        <id>https://pub.towardsai.net/ai-fundamentals-attention-mechanisms-in-transformers-part-1-a91cce62fbab?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ai-fundamentals-attention-mechanisms-in-transformers-part-1-a91cce62fbab?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I Tried to Prove DocLang Beats Markdown for PDF→LLM. The Data Said Otherwise.]]></title>
+        <id>https://pub.towardsai.net/i-tried-to-prove-doclang-beats-markdown-for-pdf-llm-the-data-said-otherwise-19d256cbaa00?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tried-to-prove-doclang-beats-markdown-for-pdf-llm-the-data-said-otherwise-19d256cbaa00?source=rss----98111c9905da---4"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini Agentic Video Understanding Pipeline: Build Long-Video AI That Does Not Waste Tokens]]></title>
+        <id>https://pub.towardsai.net/gemini-agentic-video-understanding-pipeline-build-long-video-ai-that-does-not-waste-tokens-44f2f0bd3462?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/gemini-agentic-video-understanding-pipeline-build-long-video-ai-that-does-not-waste-tokens-44f2f0bd3462?source=rss----98111c9905da---4"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Inference Stack in 2026: GPUs, KV Caches, Routing, and Kubernetes]]></title>
+        <id>https://pub.towardsai.net/the-ai-inference-stack-in-2026-gpus-kv-caches-routing-and-kubernetes-c245a413dcd9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-ai-inference-stack-in-2026-gpus-kv-caches-routing-and-kubernetes-c245a413dcd9?source=rss----98111c9905da---4"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why 40% of “AI-Powered” Laravel Features Get Ripped Out Within 6 Months]]></title>
+        <id>https://pub.towardsai.net/why-40-of-ai-powered-laravel-features-get-ripped-out-within-6-months-2ce3ba25d75b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-40-of-ai-powered-laravel-features-get-ripped-out-within-6-months-2ce3ba25d75b?source=rss----98111c9905da---4"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The PR Is Automated. The Review Still Isn’t.]]></title>
+        <id>https://pub.towardsai.net/the-pr-is-automated-the-review-still-isnt-af7cf6c2ddcd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-pr-is-automated-the-review-still-isnt-af7cf6c2ddcd?source=rss----98111c9905da---4"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $8M Deadstock Cascade: Why Autonomous Agents Cause Bullwhip Disasters in Enterprise ERPs]]></title>
+        <id>https://pub.towardsai.net/the-8m-deadstock-cascade-why-autonomous-agents-cause-bullwhip-disasters-in-enterprise-erps-b0da5e95b4b1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-8m-deadstock-cascade-why-autonomous-agents-cause-bullwhip-disasters-in-enterprise-erps-b0da5e95b4b1?source=rss----98111c9905da---4"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering LangChain: Open-Source Models & Prompt Engineering (Part 2)]]></title>
+        <id>https://pub.towardsai.net/mastering-langchain-open-source-models-prompt-engineering-part-2-cb4e6e519292?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/mastering-langchain-open-source-models-prompt-engineering-part-2-cb4e6e519292?source=rss----98111c9905da---4"/>
         <updated>2026-09-08T16:00:00.000Z</updated>
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
@@ -245,107 +280,30 @@ https://github.com/evoluteur/cymatics
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I kept pausing Japanese streams — so I built tab-audio captions on Cloudflare Workers]]></title>
-        <id>https://dev.to/xtsoft_0c4a5615ffbefe25de/i-kept-pausing-japanese-streams-so-i-built-tab-audio-captions-on-cloudflare-workers-2cdb</id>
-        <link href="https://dev.to/xtsoft_0c4a5615ffbefe25de/i-kept-pausing-japanese-streams-so-i-built-tab-audio-captions-on-cloudflare-workers-2cdb"/>
+        <title type="html"><![CDATA[React Context Is Not State Management: Stop Using It]]></title>
+        <id>https://dev.to/nainikmehta/react-context-is-not-state-management-stop-using-it-4i3l</id>
+        <link href="https://dev.to/nainikmehta/react-context-is-not-state-management-stop-using-it-4i3l"/>
         <updated>2026-09-08T16:00:00.000Z</updated>
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Free Markdown to HTML Converter (Because Dillinger Stores Your Content on Their Servers)]]></title>
-        <id>https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-markdown-to-html-converter-because-dillinger-stores-your-content-on-their-servers-52c3</id>
-        <link href="https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-markdown-to-html-converter-because-dillinger-stores-your-content-on-their-servers-52c3"/>
+        <title type="html"><![CDATA[Tackling Intermittent Android Bugs: Rolling Video Buffers and Automated Logcat Alignment in the Browser]]></title>
+        <id>https://dev.to/pactortester/tackling-intermittent-android-bugs-rolling-video-buffers-and-automated-logcat-alignment-in-the-32mo</id>
+        <link href="https://dev.to/pactortester/tackling-intermittent-android-bugs-rolling-video-buffers-and-automated-logcat-alignment-in-the-32mo"/>
         <updated>2026-09-08T16:00:00.000Z</updated>
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Error Handling Patterns That Actually Scale]]></title>
-        <id>https://dev.to/codeatlas/error-handling-patterns-that-actually-scale-h0d</id>
-        <link href="https://dev.to/codeatlas/error-handling-patterns-that-actually-scale-h0d"/>
+        <title type="html"><![CDATA[Let's build a custom React hook for cross-tab state synchronization]]></title>
+        <id>https://dev.to/mr_mornin_star/lets-build-a-custom-react-hook-for-cross-tab-state-synchronization-1poo</id>
+        <link href="https://dev.to/mr_mornin_star/lets-build-a-custom-react-hook-for-cross-tab-state-synchronization-1poo"/>
         <updated>2026-09-08T16:00:00.000Z</updated>
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cryptographic Transparency in Project Ledgers: Generating Verifiable Disbursement Receipts with Canvas]]></title>
-        <id>https://dev.to/kholipha_ahmmad_al_amin/cryptographic-transparency-in-project-ledgers-generating-verifiable-disbursement-receipts-with-cf2</id>
-        <link href="https://dev.to/kholipha_ahmmad_al_amin/cryptographic-transparency-in-project-ledgers-generating-verifiable-disbursement-receipts-with-cf2"/>
-        <updated>2026-09-08T16:00:00.000Z</updated>
-        <published>2026-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Resilient WhatsApp Cloud API Webhook Handler in Node.js]]></title>
-        <id>https://dev.to/lucas_ventavele/building-a-resilient-whatsapp-cloud-api-webhook-handler-in-nodejs-14lj</id>
-        <link href="https://dev.to/lucas_ventavele/building-a-resilient-whatsapp-cloud-api-webhook-handler-in-nodejs-14lj"/>
-        <updated>2026-09-08T16:00:00.000Z</updated>
-        <published>2026-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programmatic Video Production with Web Technologies: Rendering 4K Motion Assets from HTML and CSS]]></title>
-        <id>https://dev.to/kholipha_ahmmad_al_amin/programmatic-video-production-with-web-technologies-rendering-4k-motion-assets-from-html-and-css-14nn</id>
-        <link href="https://dev.to/kholipha_ahmmad_al_amin/programmatic-video-production-with-web-technologies-rendering-4k-motion-assets-from-html-and-css-14nn"/>
-        <updated>2026-09-08T16:00:00.000Z</updated>
-        <published>2026-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Offline-First Web Apps: Advanced Service Worker Caching with Serwist and PWA]]></title>
-        <id>https://dev.to/kholipha_ahmmad_al_amin/offline-first-web-apps-advanced-service-worker-caching-with-serwist-and-pwa-27h2</id>
-        <link href="https://dev.to/kholipha_ahmmad_al_amin/offline-first-web-apps-advanced-service-worker-caching-with-serwist-and-pwa-27h2"/>
-        <updated>2026-09-08T16:00:00.000Z</updated>
-        <published>2026-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Core Web Vitals for Data-Heavy Web Apps: Lessons from 200+ Projects]]></title>
-        <id>https://dev.to/kholipha_ahmmad_al_amin/optimizing-core-web-vitals-for-data-heavy-web-apps-lessons-from-200-projects-459c</id>
-        <link href="https://dev.to/kholipha_ahmmad_al_amin/optimizing-core-web-vitals-for-data-heavy-web-apps-lessons-from-200-projects-459c"/>
-        <updated>2026-09-08T16:00:00.000Z</updated>
-        <published>2026-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto Cut Studio: Desktop Media Automation and Video Stream Processing]]></title>
-        <id>https://dev.to/kholipha_ahmmad_al_amin/auto-cut-studio-desktop-media-automation-and-video-stream-processing-9l9</id>
-        <link href="https://dev.to/kholipha_ahmmad_al_amin/auto-cut-studio-desktop-media-automation-and-video-stream-processing-9l9"/>
-        <updated>2026-09-08T16:00:00.000Z</updated>
-        <published>2026-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Internet-Resilient Progressive Web Apps with Workbox and Cache Strategies]]></title>
-        <id>https://dev.to/kholipha_ahmmad_al_amin/building-internet-resilient-progressive-web-apps-with-workbox-and-cache-strategies-3omm</id>
-        <link href="https://dev.to/kholipha_ahmmad_al_amin/building-internet-resilient-progressive-web-apps-with-workbox-and-cache-strategies-3omm"/>
-        <updated>2026-09-08T16:00:00.000Z</updated>
-        <published>2026-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[End-to-End Type Safety in Full-Stack Web Development: TypeScript and Schema Sharing]]></title>
-        <id>https://dev.to/kholipha_ahmmad_al_amin/end-to-end-type-safety-in-full-stack-web-development-typescript-and-schema-sharing-15fb</id>
-        <link href="https://dev.to/kholipha_ahmmad_al_amin/end-to-end-type-safety-in-full-stack-web-development-typescript-and-schema-sharing-15fb"/>
-        <updated>2026-09-08T16:00:00.000Z</updated>
-        <published>2026-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced SEO in Next.js: Implementing JSON-LD for Answer Engines]]></title>
-        <id>https://dev.to/kholipha_ahmmad_al_amin/advanced-seo-in-nextjs-implementing-json-ld-for-answer-engines-134l</id>
-        <link href="https://dev.to/kholipha_ahmmad_al_amin/advanced-seo-in-nextjs-implementing-json-ld-for-answer-engines-134l"/>
-        <updated>2026-09-08T16:00:00.000Z</updated>
-        <published>2026-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling Next.js 15 for High-Density Enterprise Dashboards: Performance and State Patterns]]></title>
-        <id>https://dev.to/kholipha_ahmmad_al_amin/scaling-nextjs-15-for-high-density-enterprise-dashboards-performance-and-state-patterns-387o</id>
-        <link href="https://dev.to/kholipha_ahmmad_al_amin/scaling-nextjs-15-for-high-density-enterprise-dashboards-performance-and-state-patterns-387o"/>
-        <updated>2026-09-08T16:00:00.000Z</updated>
-        <published>2026-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Offline-First Point of Sale Architecture: Syncing Local Retail Transactions to Cloud PostgreSQL]]></title>
-        <id>https://dev.to/kholipha_ahmmad_al_amin/offline-first-point-of-sale-architecture-syncing-local-retail-transactions-to-cloud-postgresql-5fcc</id>
-        <link href="https://dev.to/kholipha_ahmmad_al_amin/offline-first-point-of-sale-architecture-syncing-local-retail-transactions-to-cloud-postgresql-5fcc"/>
-        <updated>2026-09-08T16:00:00.000Z</updated>
-        <published>2026-09-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Promises Explained: Callback Hell, Promise States, Chaining & Error Propagation]]></title>
-        <id>https://dev.to/koushikmaya/javascript-promises-explained-callback-hell-promise-states-chaining-error-propagation-2g2f</id>
-        <link href="https://dev.to/koushikmaya/javascript-promises-explained-callback-hell-promise-states-chaining-error-propagation-2g2f"/>
+        <title type="html"><![CDATA[Cursor AI vs GitHub Copilot in 2026: Which AI Code Editor Actually Ships Products?]]></title>
+        <id>https://dev.to/guang_diyuzhi_74b0fec2c09/cursor-ai-vs-github-copilot-in-2026-which-ai-code-editor-actually-ships-products-9a2</id>
+        <link href="https://dev.to/guang_diyuzhi_74b0fec2c09/cursor-ai-vs-github-copilot-in-2026-which-ai-code-editor-actually-ships-products-9a2"/>
         <updated>2026-09-08T16:00:00.000Z</updated>
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
@@ -357,17 +315,59 @@ https://github.com/evoluteur/cymatics
         <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源]]></title>
-        <id>https://sspai.com/post/114327</id>
-        <link href="https://sspai.com/post/114327"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JavaScript Promises Explained: Callback Hell, Promise States, Chaining & Error Propagation]]></title>
+        <id>https://dev.to/koushikmaya/javascript-promises-explained-callback-hell-promise-states-chaining-error-propagation-2g2f</id>
+        <link href="https://dev.to/koushikmaya/javascript-promises-explained-callback-hell-promise-states-chaining-error-propagation-2g2f"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adobe is trying to make its AI generators idiot-proof in Premiere]]></title>
-        <id>https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere</id>
-        <link href="https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <published>2026-09-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Offline-First Point of Sale Architecture: Syncing Local Retail Transactions to Cloud PostgreSQL]]></title>
+        <id>https://dev.to/kholipha_ahmmad_al_amin/offline-first-point-of-sale-architecture-syncing-local-retail-transactions-to-cloud-postgresql-5fcc</id>
+        <link href="https://dev.to/kholipha_ahmmad_al_amin/offline-first-point-of-sale-architecture-syncing-local-retail-transactions-to-cloud-postgresql-5fcc"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Next.js 15 for High-Density Enterprise Dashboards: Performance and State Patterns]]></title>
+        <id>https://dev.to/kholipha_ahmmad_al_amin/scaling-nextjs-15-for-high-density-enterprise-dashboards-performance-and-state-patterns-387o</id>
+        <link href="https://dev.to/kholipha_ahmmad_al_amin/scaling-nextjs-15-for-high-density-enterprise-dashboards-performance-and-state-patterns-387o"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced SEO in Next.js: Implementing JSON-LD for Answer Engines]]></title>
+        <id>https://dev.to/kholipha_ahmmad_al_amin/advanced-seo-in-nextjs-implementing-json-ld-for-answer-engines-134l</id>
+        <link href="https://dev.to/kholipha_ahmmad_al_amin/advanced-seo-in-nextjs-implementing-json-ld-for-answer-engines-134l"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[End-to-End Type Safety in Full-Stack Web Development: TypeScript and Schema Sharing]]></title>
+        <id>https://dev.to/kholipha_ahmmad_al_amin/end-to-end-type-safety-in-full-stack-web-development-typescript-and-schema-sharing-15fb</id>
+        <link href="https://dev.to/kholipha_ahmmad_al_amin/end-to-end-type-safety-in-full-stack-web-development-typescript-and-schema-sharing-15fb"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Internet-Resilient Progressive Web Apps with Workbox and Cache Strategies]]></title>
+        <id>https://dev.to/kholipha_ahmmad_al_amin/building-internet-resilient-progressive-web-apps-with-workbox-and-cache-strategies-3omm</id>
+        <link href="https://dev.to/kholipha_ahmmad_al_amin/building-internet-resilient-progressive-web-apps-with-workbox-and-cache-strategies-3omm"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto Cut Studio: Desktop Media Automation and Video Stream Processing]]></title>
+        <id>https://dev.to/kholipha_ahmmad_al_amin/auto-cut-studio-desktop-media-automation-and-video-stream-processing-9l9</id>
+        <link href="https://dev.to/kholipha_ahmmad_al_amin/auto-cut-studio-desktop-media-automation-and-video-stream-processing-9l9"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Core Web Vitals for Data-Heavy Web Apps: Lessons from 200+ Projects]]></title>
+        <id>https://dev.to/kholipha_ahmmad_al_amin/optimizing-core-web-vitals-for-data-heavy-web-apps-lessons-from-200-projects-459c</id>
+        <link href="https://dev.to/kholipha_ahmmad_al_amin/optimizing-core-web-vitals-for-data-heavy-web-apps-lessons-from-200-projects-459c"/>
+        <updated>2026-09-08T16:00:00.000Z</updated>
+        <published>2026-09-08T16:00:00.000Z</published>
     </entry>
 </feed>
