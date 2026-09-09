@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-09 23:02:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-10 06:01:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
@@ -11,4 +11,3 @@
 - [2026-08-25-Why-Your-Website-Should-Never-Stop-Changing](https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/) 
 - [2026-08-20-Timing-Charts:-A-Blueprint-For-SMIL-Animations](https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/) 
 - [2026-08-13-New-EU-Guidelines-For-AI-Labelling](https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/) 
-- [2026-08-11-Building-Tactile-UX:-Honoring-Intentional-Design-With-Lottie](https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/) 
