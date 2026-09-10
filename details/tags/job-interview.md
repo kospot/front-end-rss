@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-10 06:01:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-10 08:01:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -14,8 +14,8 @@
 - [2026-08-14-Fake-Forbes-websites-and-the-PR-agency-offering-guaranteed-coverage-–-at-a-price](https://pressgazette.co.uk/news/fake-forbes-websites-and-the-pr-agency-offering-guaranteed-coverage-at-a-price/) 
 - [2026-08-23-Harvard’s-$699-startup-bootcamp-offers-AI-avatars-of-its-instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) 
 - [2026-08-18-Perplexity’s-free-AI-offer-left-it-with-millions-more-users-in-India](https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/) 
-- [2026-08-12-Google’s-Pixel-11-lineup-offer-fewer-hardware-changes,-but-much-more-Gemini](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) 
 - [2026-08-12-Google’s-new-Pixel-11-Pro-Fold-offers-a-stronger-build-and-brighter-screens](https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/) 
+- [2026-08-12-Google’s-Pixel-11-lineup-offer-fewer-hardware-changes,-but-much-more-Gemini](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) 
 - [2026-09-03-TCL’s-new-Nxtpaper-phone-offers-both-e-reader-and-OLED](https://www.theverge.com/tech/988059/tcls-new-nxtpaper-phone-offers-both-e-reader-and-oled) 
 - [2026-08-25-Apple’s-new-Mac-Mini-has-fresh-M6-and-M5-Pro-chip-offerings-—-and-higher-prices](https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs) 
 - [2026-08-12-Jaguar-offers-a-first-look-inside-the-all-electric-Type-01](https://www.theverge.com/transportation/978793/jaguar-type-01-interior) 
