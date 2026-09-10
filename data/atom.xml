@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-10T02:01:34.413Z</updated>
+    <updated>2026-09-10T04:01:32.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -106,177 +106,93 @@
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How HN: Dashly – Cookieless analytics with revenue attribution and bot filtering]]></title>
-        <id>https://www.dashly.lol</id>
-        <link href="https://www.dashly.lol"/>
+        <title type="html"><![CDATA[Trump promises $5k dividend in convention speech, but only if Republicans win]]></title>
+        <id>https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance</id>
+        <link href="https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Builders Made with GPT-6 Astra (So Far)]]></title>
-        <id>https://clipnotebook.com/p/103b93d0-65fe-4b3f-a4c3-a1d0275d29cc</id>
-        <link href="https://clipnotebook.com/p/103b93d0-65fe-4b3f-a4c3-a1d0275d29cc"/>
+        <title type="html"><![CDATA[The Network Always Beats the Castle]]></title>
+        <id>https://sundaylettersfromsam.substack.com/p/the-network-always-beats-the-castle</id>
+        <link href="https://sundaylettersfromsam.substack.com/p/the-network-always-beats-the-castle"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Antiquated CSS and why we needed it]]></title>
-        <id>https://blog.omgmog.net/post/antiquated-css/</id>
-        <link href="https://blog.omgmog.net/post/antiquated-css/"/>
+        <title type="html"><![CDATA[Anthropic Just Threatened to Kill Billions of People. This Is Not Okay]]></title>
+        <id>https://calnewport.com/anthropic-just-threatened-to-kill-billions-of-people-this-is-not-okay/</id>
+        <link href="https://calnewport.com/anthropic-just-threatened-to-kill-billions-of-people-this-is-not-okay/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[He's Seen Images of 9/11 from Just About Every Angle. Except This One.]]></title>
-        <id>https://www.nytimes.com/2026/09/09/nyregion/911-disposable-camera.html</id>
-        <link href="https://www.nytimes.com/2026/09/09/nyregion/911-disposable-camera.html"/>
+        <title type="html"><![CDATA[Rebuilding an AI-made browser game with Astra 6]]></title>
+        <id>https://arcane-orb-workshop.pages.dev/</id>
+        <link href="https://arcane-orb-workshop.pages.dev/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI has solved the Navier-Stokes Millennium problem using $15M of AI effort]]></title>
-        <id>https://www.newscientist.com/article/2588063-openai-has-solved-the-navier-stokes-millennium-problem-using-15m-of-ai-effort/</id>
-        <link href="https://www.newscientist.com/article/2588063-openai-has-solved-the-navier-stokes-millennium-problem-using-15m-of-ai-effort/"/>
+        <title type="html"><![CDATA[CLI for converting JSON logs to human-readable format]]></title>
+        <id>https://github.com/poonesnerfect/jlf</id>
+        <link href="https://github.com/poonesnerfect/jlf"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A terminal Tetris game I made as my first Rust project]]></title>
-        <id>https://github.com/orangishcat/cursed-tetris</id>
-        <link href="https://github.com/orangishcat/cursed-tetris"/>
+        <title type="html"><![CDATA[Reverse engineering my e-scooter and rewriting the firmware in Rust]]></title>
+        <id>https://bensimms.moe/reverse-engineering-scooter/</id>
+        <link href="https://bensimms.moe/reverse-engineering-scooter/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[America Is the Outlier: What If We Privatized the Airport?]]></title>
-        <id>https://marbletech.us/p/america-is-the-outlier</id>
-        <link href="https://marbletech.us/p/america-is-the-outlier"/>
+        <title type="html"><![CDATA[The "rnull" Rust block driver]]></title>
+        <id>https://lwn.net/Articles/1090378/</id>
+        <link href="https://lwn.net/Articles/1090378/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Antibody studies point the way to an HIV cure]]></title>
-        <id>https://www.aidsmap.com/news/sep-2026/we-finally-understand-what-we-have-do-antibody-studies-point-way-hiv-cure</id>
-        <link href="https://www.aidsmap.com/news/sep-2026/we-finally-understand-what-we-have-do-antibody-studies-point-way-hiv-cure"/>
+        <title type="html"><![CDATA[A Decade of Rustls]]></title>
+        <id>https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/</id>
+        <link href="https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple raises prices of last years iPhones]]></title>
-        <id>https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase</id>
-        <link href="https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase"/>
+        <title type="html"><![CDATA[Show HN: Oz – a Vim-style terminal editor written in Zig]]></title>
+        <id>https://github.com/niT-Tin/oz</id>
+        <link href="https://github.com/niT-Tin/oz"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Staggering amounts of valuable metals are ending up in the trash]]></title>
-        <id>https://qz.com/copper-nickel-aluminum-metal-trash-recycling-electronic-1851428445</id>
-        <link href="https://qz.com/copper-nickel-aluminum-metal-trash-recycling-electronic-1851428445"/>
+        <title type="html"><![CDATA[CUDA Rust: Two Tracks for Writing GPU Kernels]]></title>
+        <id>https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/</id>
+        <link href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Six Chinese AI firms accused of aggressively copying US frontier models]]></title>
-        <id>https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/</id>
-        <link href="https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"/>
+        <title type="html"><![CDATA[NASA's New Experimental Jet Promises Supersonic Flight Without the Sonic Booms]]></title>
+        <id>https://nautil.us/nasas-new-experimental-jet-promises-supersonic-flight-without-the-sonic-booms-1284883</id>
+        <link href="https://nautil.us/nasas-new-experimental-jet-promises-supersonic-flight-without-the-sonic-booms-1284883"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I promise this Ollama replacement will give you the fastest t/s you've ever had]]></title>
-        <id>https://github.com/omgitsbase/llmash</id>
-        <link href="https://github.com/omgitsbase/llmash"/>
+        <title type="html"><![CDATA[Trump promises $5k payout to U.S. adults if Republicans win election]]></title>
+        <id>https://www.reuters.com/world/us/trump-promises-5000-payout-us-adults-if-republicans-win-election-2026-09-10/</id>
+        <link href="https://www.reuters.com/world/us/trump-promises-5000-payout-us-adults-if-republicans-win-election-2026-09-10/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EU and Canada Plan Deal to Boost Trade, Security as US Ties Fray]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-09-08/eu-and-canada-plan-far-reaching-alliance-to-strengthen-partnership</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-09-08/eu-and-canada-plan-far-reaching-alliance-to-strengthen-partnership"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia to impose digital duty of care on tech companies to reduce online harm]]></title>
-        <id>https://www.thetimes.com.au/world/36212-australia-will-impose-a-digital-duty-of-care-on-tech-companies-to-reduce-online-harm-it-s-a-good-idea-if-it-can-be-enforced</id>
-        <link href="https://www.thetimes.com.au/world/36212-australia-will-impose-a-digital-duty-of-care-on-tech-companies-to-reduce-online-harm-it-s-a-good-idea-if-it-can-be-enforced"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Does Gusto drop dependents randomly for anyone else?]]></title>
-        <id>https://news.ycombinator.com/item?id=49634792</id>
-        <link href="https://news.ycombinator.com/item?id=49634792"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exposing a global AI slop empire ruining the internet for profit [video]]]></title>
-        <id>https://www.youtube.com/watch?v=GEHHTh5OTnQ</id>
-        <link href="https://www.youtube.com/watch?v=GEHHTh5OTnQ"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Student's new car gets erroneously flagged by Flock twice in 2 days]]></title>
-        <id>https://www.wsbtv.com/news/local/students-new-car-gets-flagged-by-flock-twice-2-days-family-blames-old-data/SCLISOHI45BMDOKIPMAJZFXLUE/</id>
-        <link href="https://www.wsbtv.com/news/local/students-new-car-gets-flagged-by-flock-twice-2-days-family-blames-old-data/SCLISOHI45BMDOKIPMAJZFXLUE/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatic Key Exchange: faster, post-quantum secure origin handshakes]]></title>
-        <id>https://blog.cloudflare.com/automatic-key-exchange-for-origins/</id>
-        <link href="https://blog.cloudflare.com/automatic-key-exchange-for-origins/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Design Space Exploration of Async/Await]]></title>
-        <id>https://cel.cs.brown.edu/blog/design-space-async-await/</id>
-        <link href="https://cel.cs.brown.edu/blog/design-space-async-await/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World's First: Minor Authors Public License for Expression (Maple-1.0)]]></title>
-        <id>https://openrockets.com/research/maple/v1/</id>
-        <link href="https://openrockets.com/research/maple/v1/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astrophysical Journal adopts new guidelines on AI use]]></title>
-        <id>https://journals.aas.org/news/new-guidelines-on-ai-use-in-aas-journals/</id>
-        <link href="https://journals.aas.org/news/new-guidelines-on-ai-use-in-aas-journals/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things that testers wished they'd learned earlier]]></title>
-        <id>https://www.functionize.com/blog/16-things-that-testers-wished-theyd-learned-earlier</id>
-        <link href="https://www.functionize.com/blog/16-things-that-testers-wished-theyd-learned-earlier"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Let an AI Agent Hack All My Gadgets–and I'd Do It Again]]></title>
-        <id>https://www.wired.com/story/i-used-ai-to-hack-my-home-network/</id>
-        <link href="https://www.wired.com/story/i-used-ai-to-hack-my-home-network/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Ambient Context v1.0.0 (Missing context for AI assistants)]]></title>
-        <id>https://github.com/dragthelake/ambient-context/releases</id>
-        <link href="https://github.com/dragthelake/ambient-context/releases"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hybrid approach to creating low poly game-ready 3D assets using AI models]]></title>
-        <id>https://playwarpact.com/blog/lowpoly-hybrid/</id>
-        <link href="https://playwarpact.com/blog/lowpoly-hybrid/"/>
+        <title type="html"><![CDATA[The Story of VS Code [video]]]></title>
+        <id>https://www.youtube.com/watch?v=kHL3XzjpT5w</id>
+        <link href="https://www.youtube.com/watch?v=kHL3XzjpT5w"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
@@ -288,79 +204,163 @@
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Entropy for Data Science and AI — Part 1]]></title>
-        <id>https://pub.towardsai.net/understanding-entropy-for-data-science-and-ai-part-1-5b358a271294?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/understanding-entropy-for-data-science-and-ai-part-1-5b358a271294?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Hybrid approach to creating low poly game-ready 3D assets using AI models]]></title>
+        <id>https://playwarpact.com/blog/lowpoly-hybrid/</id>
+        <link href="https://playwarpact.com/blog/lowpoly-hybrid/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kubernetes for LLM Inference: How AI Workloads Run Across a GPU Cluster]]></title>
-        <id>https://pub.towardsai.net/kubernetes-for-llm-inference-how-ai-workloads-run-across-a-gpu-cluster-424f0dcfab8c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/kubernetes-for-llm-inference-how-ai-workloads-run-across-a-gpu-cluster-424f0dcfab8c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Ambient Context v1.0.0 (Missing context for AI assistants)]]></title>
+        <id>https://github.com/dragthelake/ambient-context/releases</id>
+        <link href="https://github.com/dragthelake/ambient-context/releases"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What If Attention Isn’t All You Need? Inside Mamba and the Quiet Rewiring of Modern LLMs]]></title>
-        <id>https://pub.towardsai.net/what-if-attention-isnt-all-you-need-inside-mamba-and-the-quiet-rewiring-of-modern-llms-e7187e3e4e65?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-if-attention-isnt-all-you-need-inside-mamba-and-the-quiet-rewiring-of-modern-llms-e7187e3e4e65?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I Let an AI Agent Hack All My Gadgets–and I'd Do It Again]]></title>
+        <id>https://www.wired.com/story/i-used-ai-to-hack-my-home-network/</id>
+        <link href="https://www.wired.com/story/i-used-ai-to-hack-my-home-network/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get ready for the game with new football features in Search]]></title>
-        <id>https://blog.google/products-and-platforms/products/search/football-features-google-search/</id>
-        <link href="https://blog.google/products-and-platforms/products/search/football-features-google-search/"/>
+        <title type="html"><![CDATA[Things that testers wished they'd learned earlier]]></title>
+        <id>https://www.functionize.com/blog/16-things-that-testers-wished-theyd-learned-earlier</id>
+        <link href="https://www.functionize.com/blog/16-things-that-testers-wished-theyd-learned-earlier"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript and TypeScript Interview Questions Explained With Real Production Examples]]></title>
-        <id>https://dev.to/allenarduino/javascript-and-typescript-interview-questions-explained-with-real-production-examples-176e</id>
-        <link href="https://dev.to/allenarduino/javascript-and-typescript-interview-questions-explained-with-real-production-examples-176e"/>
+        <title type="html"><![CDATA[Astrophysical Journal adopts new guidelines on AI use]]></title>
+        <id>https://journals.aas.org/news/new-guidelines-on-ai-use-in-aas-journals/</id>
+        <link href="https://journals.aas.org/news/new-guidelines-on-ai-use-in-aas-journals/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The date-parsing bug that quietly corrupts your monthly spreadsheet totals]]></title>
-        <id>https://dev.to/ali_hyder_73b624a17c7704b/the-date-parsing-bug-that-quietly-corrupts-your-monthly-spreadsheet-totals-4dab</id>
-        <link href="https://dev.to/ali_hyder_73b624a17c7704b/the-date-parsing-bug-that-quietly-corrupts-your-monthly-spreadsheet-totals-4dab"/>
+        <title type="html"><![CDATA[World's First: Minor Authors Public License for Expression (Maple-1.0)]]></title>
+        <id>https://openrockets.com/research/maple/v1/</id>
+        <link href="https://openrockets.com/research/maple/v1/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I shipped a Chrome extension, then found a permission bug and a hidden analytics call in the same week]]></title>
-        <id>https://dev.to/tuna_ergnay_d1a1a5bf2f10/i-shipped-a-chrome-extension-then-found-a-permission-bug-and-a-hidden-analytics-call-in-the-same-5adi</id>
-        <link href="https://dev.to/tuna_ergnay_d1a1a5bf2f10/i-shipped-a-chrome-extension-then-found-a-permission-bug-and-a-hidden-analytics-call-in-the-same-5adi"/>
+        <title type="html"><![CDATA[A Design Space Exploration of Async/Await]]></title>
+        <id>https://cel.cs.brown.edu/blog/design-space-async-await/</id>
+        <link href="https://cel.cs.brown.edu/blog/design-space-async-await/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leveling Up Your Code: C++ STL Secrets Every Competitive Programmer Needs (Like a Jedi Master)]]></title>
-        <id>https://dev.to/timevolt/leveling-up-your-code-c-stl-secrets-every-competitive-programmer-needs-like-a-jedi-master-2mgf</id>
-        <link href="https://dev.to/timevolt/leveling-up-your-code-c-stl-secrets-every-competitive-programmer-needs-like-a-jedi-master-2mgf"/>
+        <title type="html"><![CDATA[Automatic Key Exchange: faster, post-quantum secure origin handshakes]]></title>
+        <id>https://blog.cloudflare.com/automatic-key-exchange-for-origins/</id>
+        <link href="https://blog.cloudflare.com/automatic-key-exchange-for-origins/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I migrated a production app to Next.js App Router. Here is what the docs don't tell you.]]></title>
-        <id>https://dev.to/liammartin/i-migrated-a-production-app-to-nextjs-app-router-here-is-what-the-docs-dont-tell-you-17dn</id>
-        <link href="https://dev.to/liammartin/i-migrated-a-production-app-to-nextjs-app-router-here-is-what-the-docs-dont-tell-you-17dn"/>
+        <title type="html"><![CDATA[Student's new car gets erroneously flagged by Flock twice in 2 days]]></title>
+        <id>https://www.wsbtv.com/news/local/students-new-car-gets-flagged-by-flock-twice-2-days-family-blames-old-data/SCLISOHI45BMDOKIPMAJZFXLUE/</id>
+        <link href="https://www.wsbtv.com/news/local/students-new-car-gets-flagged-by-flock-twice-2-days-family-blames-old-data/SCLISOHI45BMDOKIPMAJZFXLUE/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
-        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-5doh</id>
-        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-5doh"/>
+        <title type="html"><![CDATA[Exposing a global AI slop empire ruining the internet for profit [video]]]></title>
+        <id>https://www.youtube.com/watch?v=GEHHTh5OTnQ</id>
+        <link href="https://www.youtube.com/watch?v=GEHHTh5OTnQ"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Letting Dirty Data Break Your Knowledge Graph: Mastering Entity Resolution & Deduplication in TypeScript]]></title>
-        <id>https://dev.to/programmingcentral/stop-letting-dirty-data-break-your-knowledge-graph-mastering-entity-resolution-deduplication-in-5a6p</id>
-        <link href="https://dev.to/programmingcentral/stop-letting-dirty-data-break-your-knowledge-graph-mastering-entity-resolution-deduplication-in-5a6p"/>
+        <title type="html"><![CDATA[Ask HN: Does Gusto drop dependents randomly for anyone else?]]></title>
+        <id>https://news.ycombinator.com/item?id=49634792</id>
+        <link href="https://news.ycombinator.com/item?id=49634792"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia to impose digital duty of care on tech companies to reduce online harm]]></title>
+        <id>https://www.thetimes.com.au/world/36212-australia-will-impose-a-digital-duty-of-care-on-tech-companies-to-reduce-online-harm-it-s-a-good-idea-if-it-can-be-enforced</id>
+        <link href="https://www.thetimes.com.au/world/36212-australia-will-impose-a-digital-duty-of-care-on-tech-companies-to-reduce-online-harm-it-s-a-good-idea-if-it-can-be-enforced"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU and Canada Plan Deal to Boost Trade, Security as US Ties Fray]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-09-08/eu-and-canada-plan-far-reaching-alliance-to-strengthen-partnership</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-09-08/eu-and-canada-plan-far-reaching-alliance-to-strengthen-partnership"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I promise this Ollama replacement will give you the fastest t/s you've ever had]]></title>
+        <id>https://github.com/omgitsbase/llmash</id>
+        <link href="https://github.com/omgitsbase/llmash"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six Chinese AI firms accused of aggressively copying US frontier models]]></title>
+        <id>https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/</id>
+        <link href="https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Staggering amounts of valuable metals are ending up in the trash]]></title>
+        <id>https://qz.com/copper-nickel-aluminum-metal-trash-recycling-electronic-1851428445</id>
+        <link href="https://qz.com/copper-nickel-aluminum-metal-trash-recycling-electronic-1851428445"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple raises prices of last years iPhones]]></title>
+        <id>https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase</id>
+        <link href="https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antibody studies point the way to an HIV cure]]></title>
+        <id>https://www.aidsmap.com/news/sep-2026/we-finally-understand-what-we-have-do-antibody-studies-point-way-hiv-cure</id>
+        <link href="https://www.aidsmap.com/news/sep-2026/we-finally-understand-what-we-have-do-antibody-studies-point-way-hiv-cure"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America Is the Outlier: What If We Privatized the Airport?]]></title>
+        <id>https://marbletech.us/p/america-is-the-outlier</id>
+        <link href="https://marbletech.us/p/america-is-the-outlier"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A terminal Tetris game I made as my first Rust project]]></title>
+        <id>https://github.com/orangishcat/cursed-tetris</id>
+        <link href="https://github.com/orangishcat/cursed-tetris"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI has solved the Navier-Stokes Millennium problem using $15M of AI effort]]></title>
+        <id>https://www.newscientist.com/article/2588063-openai-has-solved-the-navier-stokes-millennium-problem-using-15m-of-ai-effort/</id>
+        <link href="https://www.newscientist.com/article/2588063-openai-has-solved-the-navier-stokes-millennium-problem-using-15m-of-ai-effort/"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[He's Seen Images of 9/11 from Just About Every Angle. Except This One.]]></title>
+        <id>https://www.nytimes.com/2026/09/09/nyregion/911-disposable-camera.html</id>
+        <link href="https://www.nytimes.com/2026/09/09/nyregion/911-disposable-camera.html"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antiquated CSS and why we needed it]]></title>
+        <id>https://blog.omgmog.net/post/antiquated-css/</id>
+        <link href="https://blog.omgmog.net/post/antiquated-css/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
