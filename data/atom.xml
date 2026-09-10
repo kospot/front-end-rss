@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-10T15:03:44.741Z</updated>
+    <updated>2026-09-10T22:01:05.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,58 +15,149 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Another big James Talarico interview is punted to YouTube due to FCC threats]]></title>
-        <id>https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico</id>
-        <link href="https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico"/>
+        <title type="html"><![CDATA[Schools are catching on to Big Tech’s playbook]]></title>
+        <id>https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids</id>
+        <link href="https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electric air taxis get the green light for test flights in Texas]]></title>
+        <id>https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas</id>
+        <link href="https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang explains why Nvidia will grow an astounding 70% next year]]></title>
+        <id>https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/</id>
+        <link href="https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI puts Pro subscriptions on hold due to Astra demand]]></title>
+        <id>https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/</id>
+        <link href="https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta’s AI agent Muse is now the No. 2 app in the US]]></title>
+        <id>https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/</id>
+        <link href="https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers]]></title>
+        <id>https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/</id>
+        <link href="https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon makes it easier to buy what you see on Prime Video]]></title>
+        <id>https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/</id>
+        <link href="https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content]]></title>
+        <id>https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/</id>
+        <link href="https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram’s latest feature lets you add tagged posts to your profile grid]]></title>
+        <id>https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/</id>
+        <link href="https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google is making it easier to switch between password managers on Android]]></title>
+        <id>https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/</id>
+        <link href="https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot app for Beginners: Using the diff, terminal, and browser]]></title>
+        <id>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/</id>
+        <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[maxresdefault.jpg is missing for 1 in 9 YouTube videos, and the 404 still renders. What 8,664 videos showed.]]></title>
+        <id>https://dev.to/cdwm/maxresdefaultjpg-is-missing-for-1-in-9-youtube-videos-and-the-404-still-renders-what-8664-40p4</id>
+        <link href="https://dev.to/cdwm/maxresdefaultjpg-is-missing-for-1-in-9-youtube-videos-and-the-404-still-renders-what-8664-40p4"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The UN voted to drop the Mercator map. Here's exactly how wrong it was, measured.]]></title>
+        <id>https://dev.to/lucian_lkb_1f009d/the-un-voted-to-drop-the-mercator-map-heres-exactly-how-wrong-it-was-measured-4d81</id>
+        <link href="https://dev.to/lucian_lkb_1f009d/the-un-voted-to-drop-the-mercator-map-heres-exactly-how-wrong-it-was-measured-4d81"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unix Timestamps Explained: A Practical Guide for Developers]]></title>
+        <id>https://dev.to/sam_ybs/unix-timestamps-explained-a-practical-guide-for-developers-cdd</id>
+        <link href="https://dev.to/sam_ybs/unix-timestamps-explained-a-practical-guide-for-developers-cdd"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Web Development Is Easier When You Build Real Projects]]></title>
+        <id>https://dev.to/webprims/learning-web-development-is-easier-when-you-build-real-projects-1apf</id>
+        <link href="https://dev.to/webprims/learning-web-development-is-easier-when-you-build-real-projects-1apf"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BeeTime — Documentazione Tecnica (BeeEngine)]]></title>
+        <id>https://dev.to/antonioprosperi2svg/beetime-documentazione-tecnica-beeengine-gp0</id>
+        <link href="https://dev.to/antonioprosperi2svg/beetime-documentazione-tecnica-beeengine-gp0"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Standard RAG is Failing You: How GraphRAG Combines Vector Search with Knowledge Graphs for Zero Hallucinations]]></title>
+        <id>https://dev.to/programmingcentral/why-standard-rag-is-failing-you-how-graphrag-combines-vector-search-with-knowledge-graphs-for-zero-1hcc</id>
+        <link href="https://dev.to/programmingcentral/why-standard-rag-is-failing-you-how-graphrag-combines-vector-search-with-knowledge-graphs-for-zero-1hcc"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I built a 100% Client-Side JSON Beautifier & Web Tools Suite]]></title>
+        <id>https://dev.to/ads_wala_0ac2e84776dae045/why-i-built-a-100-client-side-json-beautifier-web-tools-suite-ak</id>
+        <link href="https://dev.to/ads_wala_0ac2e84776dae045/why-i-built-a-100-client-side-json-beautifier-web-tools-suite-ak"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where to preorder the new Apple Watch Series 12 and Ultra 4]]></title>
+        <id>https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy</id>
+        <link href="https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snapchat makes it easier to plan events and meetups]]></title>
-        <id>https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups</id>
-        <link href="https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups"/>
+        <title type="html"><![CDATA[Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game]]></title>
+        <id>https://www.theverge.com/games/992937/wolverine-review-ps5</id>
+        <link href="https://www.theverge.com/games/992937/wolverine-review-ps5"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verge staffers react to the iPhone Duo: What we love and don’t love]]></title>
-        <id>https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react</id>
-        <link href="https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s new iPhone camera mode promises to prove your photo isn’t AI]]></title>
-        <id>https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image</id>
-        <link href="https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4]]></title>
-        <id>https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4</id>
-        <link href="https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s how the new iPhone 18 Pro stacks up to the last-gen models]]></title>
-        <id>https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features</id>
-        <link href="https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple brought ceramic back for the Series 12]]></title>
-        <id>https://www.theverge.com/tech/989427/ceramic-apple-watch-series-12-edition</id>
-        <link href="https://www.theverge.com/tech/989427/ceramic-apple-watch-series-12-edition"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the new Apple Watches compare to the last-gen models]]></title>
-        <id>https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison</id>
-        <link href="https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison"/>
+        <title type="html"><![CDATA[Meta’s Muse AI works and creeps me out]]></title>
+        <id>https://www.theverge.com/tech/993391/meta-muse-ai-hands-on</id>
+        <link href="https://www.theverge.com/tech/993391/meta-muse-ai-hands-on"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
@@ -78,65 +169,58 @@
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Charlie Kirk Was Shot a Year Ago. The Conspiracy Theories Are More Rampant Than Ever]]></title>
-        <id>https://www.wired.com/story/charlie-kirk-was-shot-a-year-ago-the-conspiracy-theories-are-more-rampant-than-ever/</id>
-        <link href="https://www.wired.com/story/charlie-kirk-was-shot-a-year-ago-the-conspiracy-theories-are-more-rampant-than-ever/"/>
+        <title type="html"><![CDATA[How the new Apple Watches compare to the last-gen models]]></title>
+        <id>https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison</id>
+        <link href="https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Want to Get Off Your Phone? Mina Kimes Suggests Having a Baby]]></title>
-        <id>https://www.wired.com/story/user-behavior-mina-kimes/</id>
-        <link href="https://www.wired.com/story/user-behavior-mina-kimes/"/>
+        <title type="html"><![CDATA[Apple brought ceramic back for the Series 12]]></title>
+        <id>https://www.theverge.com/tech/989427/ceramic-apple-watch-series-12-edition</id>
+        <link href="https://www.theverge.com/tech/989427/ceramic-apple-watch-series-12-edition"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Watch Series 12 and Apple Watch Ultra 4: Ceramic, Specs, Release Date]]></title>
-        <id>https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/</id>
-        <link href="https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/"/>
+        <title type="html"><![CDATA[Here’s how the new iPhone 18 Pro stacks up to the last-gen models]]></title>
+        <id>https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features</id>
+        <link href="https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Let an AI Agent Hack All My Gadgets—and I’d Do It Again]]></title>
-        <id>https://www.wired.com/story/i-used-ai-to-hack-my-home-network/</id>
-        <link href="https://www.wired.com/story/i-used-ai-to-hack-my-home-network/"/>
+        <title type="html"><![CDATA[Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4]]></title>
+        <id>https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4</id>
+        <link href="https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Year After Charlie Kirk's Death, Turning Point Plans to Spend Big on the Midterms]]></title>
-        <id>https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/</id>
-        <link href="https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/"/>
+        <title type="html"><![CDATA[Apple’s new iPhone camera mode promises to prove your photo isn’t AI]]></title>
+        <id>https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image</id>
+        <link href="https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads]]></title>
-        <id>https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/</id>
-        <link href="https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/"/>
+        <title type="html"><![CDATA[Verge staffers react to the iPhone Duo: What we love and don’t love]]></title>
+        <id>https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react</id>
+        <link href="https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hungryroot Coupon Codes: 30% Off This September 2026]]></title>
-        <id>https://www.wired.com/story/hungryroot-promo-code/</id>
-        <link href="https://www.wired.com/story/hungryroot-promo-code/"/>
+        <title type="html"><![CDATA[Snapchat makes it easier to plan events and meetups]]></title>
+        <id>https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups</id>
+        <link href="https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online]]></title>
-        <id>https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/</id>
-        <link href="https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vari Electric Standing Desk Review (2026): Form and Value]]></title>
-        <id>https://www.wired.com/review/vari-ergo-electric-standing-desk/</id>
-        <link href="https://www.wired.com/review/vari-ergo-electric-standing-desk/"/>
+        <title type="html"><![CDATA[Another big James Talarico interview is punted to YouTube due to FCC threats]]></title>
+        <id>https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico</id>
+        <link href="https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
@@ -148,23 +232,72 @@
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation]]></title>
-        <id>https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/</id>
-        <link href="https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/"/>
+        <title type="html"><![CDATA[Vari Electric Standing Desk Review (2026): Form and Value]]></title>
+        <id>https://www.wired.com/review/vari-ergo-electric-standing-desk/</id>
+        <link href="https://www.wired.com/review/vari-ergo-electric-standing-desk/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day]]></title>
-        <id>https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/</id>
-        <link href="https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/"/>
+        <title type="html"><![CDATA[Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online]]></title>
+        <id>https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/</id>
+        <link href="https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Massachusetts hits data centers with new clean power rules]]></title>
-        <id>https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/</id>
-        <link href="https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"/>
+        <title type="html"><![CDATA[Hungryroot Coupon Codes: 30% Off This September 2026]]></title>
+        <id>https://www.wired.com/story/hungryroot-promo-code/</id>
+        <link href="https://www.wired.com/story/hungryroot-promo-code/"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads]]></title>
+        <id>https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/</id>
+        <link href="https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Year After Charlie Kirk's Death, Turning Point Plans to Spend Big on the Midterms]]></title>
+        <id>https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/</id>
+        <link href="https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Let an AI Agent Hack All My Gadgets—and I’d Do It Again]]></title>
+        <id>https://www.wired.com/story/i-used-ai-to-hack-my-home-network/</id>
+        <link href="https://www.wired.com/story/i-used-ai-to-hack-my-home-network/"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Series 12 and Apple Watch Ultra 4: Ceramic, Specs, Release Date]]></title>
+        <id>https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/</id>
+        <link href="https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want to Get Off Your Phone? Mina Kimes Suggests Having a Baby]]></title>
+        <id>https://www.wired.com/story/user-behavior-mina-kimes/</id>
+        <link href="https://www.wired.com/story/user-behavior-mina-kimes/"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charlie Kirk Was Shot a Year Ago. The Conspiracy Theories Are More Rampant Than Ever]]></title>
+        <id>https://www.wired.com/story/charlie-kirk-was-shot-a-year-ago-the-conspiracy-theories-are-more-rampant-than-ever/</id>
+        <link href="https://www.wired.com/story/charlie-kirk-was-shot-a-year-ago-the-conspiracy-theories-are-more-rampant-than-ever/"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defense tech Mach Industries doubles valuation to $3.7B in 3 months]]></title>
+        <id>https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/</id>
+        <link href="https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
@@ -176,9 +309,23 @@
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Defense tech Mach Industries doubles valuation to $3.7B in 3 months]]></title>
-        <id>https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/</id>
-        <link href="https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/"/>
+        <title type="html"><![CDATA[Massachusetts hits data centers with new clean power rules]]></title>
+        <id>https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/</id>
+        <link href="https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day]]></title>
+        <id>https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/</id>
+        <link href="https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/"/>
+        <updated>2026-09-09T16:00:00.000Z</updated>
+        <published>2026-09-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation]]></title>
+        <id>https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/</id>
+        <link href="https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
@@ -214,153 +361,6 @@
         <title type="html"><![CDATA[The Four-Color Theorem Gets a Rare New Proof]]></title>
         <id>https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/</id>
         <link href="https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 Years of "The Settlers 2"]]></title>
-        <id>https://www.heise.de/en/background/30-Years-of-The-Settlers-2-Veni-Vidi-Wusli-11260484.html</id>
-        <link href="https://www.heise.de/en/background/30-Years-of-The-Settlers-2-Veni-Vidi-Wusli-11260484.html"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DigitalOcean gives 3M dollars to Omarchy]]></title>
-        <id>https://omarchy.org/news/2026/09/digitalocean-joins-as-founding-corporate-patron/</id>
-        <link href="https://omarchy.org/news/2026/09/digitalocean-joins-as-founding-corporate-patron/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Interesting Conversation with Jared Diamond]]></title>
-        <id>https://marginalrevolution.com/marginalrevolution/2026/09/my-very-interesting-conversation-with-jared-diamond.html</id>
-        <link href="https://marginalrevolution.com/marginalrevolution/2026/09/my-very-interesting-conversation-with-jared-diamond.html"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deobfuscation in the Age of Agentic Reverse Engineering [video]]]></title>
-        <id>https://www.youtube.com/watch?v=3-gJ6EUFoKM</id>
-        <link href="https://www.youtube.com/watch?v=3-gJ6EUFoKM"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monitor AI visibility with n8n in five nodes]]></title>
-        <id>https://heeb.ai/blog/monitor-ai-visibility-with-n8n</id>
-        <link href="https://heeb.ai/blog/monitor-ai-visibility-with-n8n"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump promises $5k dividend in convention speech, but only if Republicans win]]></title>
-        <id>https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance</id>
-        <link href="https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Network Always Beats the Castle]]></title>
-        <id>https://sundaylettersfromsam.substack.com/p/the-network-always-beats-the-castle</id>
-        <link href="https://sundaylettersfromsam.substack.com/p/the-network-always-beats-the-castle"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Just Threatened to Kill Billions of People. This Is Not Okay]]></title>
-        <id>https://calnewport.com/anthropic-just-threatened-to-kill-billions-of-people-this-is-not-okay/</id>
-        <link href="https://calnewport.com/anthropic-just-threatened-to-kill-billions-of-people-this-is-not-okay/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebuilding an AI-made browser game with Astra 6]]></title>
-        <id>https://arcane-orb-workshop.pages.dev/</id>
-        <link href="https://arcane-orb-workshop.pages.dev/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLI for converting JSON logs to human-readable format]]></title>
-        <id>https://github.com/poonesnerfect/jlf</id>
-        <link href="https://github.com/poonesnerfect/jlf"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reverse engineering my e-scooter and rewriting the firmware in Rust]]></title>
-        <id>https://bensimms.moe/reverse-engineering-scooter/</id>
-        <link href="https://bensimms.moe/reverse-engineering-scooter/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The "rnull" Rust block driver]]></title>
-        <id>https://lwn.net/Articles/1090378/</id>
-        <link href="https://lwn.net/Articles/1090378/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Decade of Rustls]]></title>
-        <id>https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/</id>
-        <link href="https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Oz – a Vim-style terminal editor written in Zig]]></title>
-        <id>https://github.com/niT-Tin/oz</id>
-        <link href="https://github.com/niT-Tin/oz"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CUDA Rust: Two Tracks for Writing GPU Kernels]]></title>
-        <id>https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/</id>
-        <link href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA's New Experimental Jet Promises Supersonic Flight Without the Sonic Booms]]></title>
-        <id>https://nautil.us/nasas-new-experimental-jet-promises-supersonic-flight-without-the-sonic-booms-1284883</id>
-        <link href="https://nautil.us/nasas-new-experimental-jet-promises-supersonic-flight-without-the-sonic-booms-1284883"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump promises $5k payout to U.S. adults if Republicans win election]]></title>
-        <id>https://www.reuters.com/world/us/trump-promises-5000-payout-us-adults-if-republicans-win-election-2026-09-10/</id>
-        <link href="https://www.reuters.com/world/us/trump-promises-5000-payout-us-adults-if-republicans-win-election-2026-09-10/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Story of VS Code [video]]]></title>
-        <id>https://www.youtube.com/watch?v=kHL3XzjpT5w</id>
-        <link href="https://www.youtube.com/watch?v=kHL3XzjpT5w"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: What's your AI coding set up?]]></title>
-        <id>https://news.ycombinator.com/item?id=49636239</id>
-        <link href="https://news.ycombinator.com/item?id=49636239"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hybrid approach to creating low poly game-ready 3D assets using AI models]]></title>
-        <id>https://playwarpact.com/blog/lowpoly-hybrid/</id>
-        <link href="https://playwarpact.com/blog/lowpoly-hybrid/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Ambient Context v1.0.0 (Missing context for AI assistants)]]></title>
-        <id>https://github.com/dragthelake/ambient-context/releases</id>
-        <link href="https://github.com/dragthelake/ambient-context/releases"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
