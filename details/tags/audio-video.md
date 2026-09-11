@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-11 15:05:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-11 18:02:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -7,17 +7,17 @@
 
 
 
-- [2026-09-11-maxresdefault.jpg-is-missing-for-1-in-9-YouTube-videos,-and-the-404-still-renders.-What-8,664-videos-showed.](https://dev.to/cdwm/maxresdefaultjpg-is-missing-for-1-in-9-youtube-videos-and-the-404-still-renders-what-8664-40p4) 
 - [2026-09-11-In-Browser-WebM-to-MP3-Audio-Extraction:-Demuxing-Opus-&amp;-Transcoding-Without-Cloud-Uploads](https://dev.to/momahdideveloper/in-browser-webm-to-mp3-audio-extraction-demuxing-opus-transcoding-without-cloud-uploads-30pl) 
+- [2026-09-11-maxresdefault.jpg-is-missing-for-1-in-9-YouTube-videos,-and-the-404-still-renders.-What-8,664-videos-showed.](https://dev.to/cdwm/maxresdefaultjpg-is-missing-for-1-in-9-youtube-videos-and-the-404-still-renders-what-8664-40p4) 
 - [2026-09-10-Why-Most-Video-Downloaders-Suck-And-How-I-Built-a-Fast,-Ad-Free-Alternative](https://dev.to/harikrishnanh/why-most-video-downloaders-suck-and-how-i-built-a-fast-ad-free-alternative-2fib) 
-- [2026-09-09-How-I-Built-a-100%-Client-Side-Video-to-MP3-Converter-with-WebAssembly](https://dev.to/prateek_khandelwal/how-i-built-a-100-client-side-video-to-mp3-converter-with-webassembly-7c0) 
-- [2026-09-09-Tackling-Intermittent-Android-Bugs:-Rolling-Video-Buffers-and-Automated-Logcat-Alignment-in-the-Browser](https://dev.to/pactortester/tackling-intermittent-android-bugs-rolling-video-buffers-and-automated-logcat-alignment-in-the-32mo) 
-- [2026-09-09-Auto-Cut-Studio:-Desktop-Media-Automation-and-Video-Stream-Processing](https://dev.to/kholipha_ahmmad_al_amin/auto-cut-studio-desktop-media-automation-and-video-stream-processing-9l9) 
 - [2026-09-09-I-needed-audio-in-Bun,-so-I-skipped-fluent-ffmpeg](https://dev.to/kenjiginjo/i-needed-audio-in-bun-so-i-skipped-fluent-ffmpeg-5g83) 
+- [2026-09-09-Auto-Cut-Studio:-Desktop-Media-Automation-and-Video-Stream-Processing](https://dev.to/kholipha_ahmmad_al_amin/auto-cut-studio-desktop-media-automation-and-video-stream-processing-9l9) 
+- [2026-09-09-Tackling-Intermittent-Android-Bugs:-Rolling-Video-Buffers-and-Automated-Logcat-Alignment-in-the-Browser](https://dev.to/pactortester/tackling-intermittent-android-bugs-rolling-video-buffers-and-automated-logcat-alignment-in-the-32mo) 
+- [2026-09-09-How-I-Built-a-100%-Client-Side-Video-to-MP3-Converter-with-WebAssembly](https://dev.to/prateek_khandelwal/how-i-built-a-100-client-side-video-to-mp3-converter-with-webassembly-7c0) 
 - [2026-09-08-Parsing-Video-Captions:-Building-a-Secure-Client-Side-ASS-to-SRT-Converter](https://dev.to/hoangvibecode/parsing-video-captions-building-a-secure-client-side-ass-to-srt-converter-5143) 
 - [2026-09-05-How-I-Built-a-Wordle-for-Chinese-Idioms-with-7,200+-Words,-Pinyin-&amp;-Audio-and-achieved-a-100-Lighthouse-score](https://dev.to/fds2003/how-i-built-a-wordle-for-chinese-idioms-with-7200-words-pinyin-audio-and-achieved-a-100-14od) 
-- [2026-09-04-Stop-Uploading-Voice-Memos-to-"Free"-Audio-Editors-—-the-Browser-Can-Do-It-Locally](https://dev.to/tasleem_akhtarch_bfb3/stop-uploading-voice-memos-to-free-audio-editors-the-browser-can-do-it-locally-2ghk) 
 - [2026-09-04-Do-not-stop-your-AI-video-timer-at-provider-success](https://dev.to/freyavideo/do-not-stop-your-ai-video-timer-at-provider-success-3jm2) 
+- [2026-09-04-Stop-Uploading-Voice-Memos-to-"Free"-Audio-Editors-—-the-Browser-Can-Do-It-Locally](https://dev.to/tasleem_akhtarch_bfb3/stop-uploading-voice-memos-to-free-audio-editors-the-browser-can-do-it-locally-2ghk) 
 - [2026-09-03-Building-Script-Runtime-Logic:-Converting-Word-Counts-to-Video-Duration-&amp;-AI-TTS-Billing](https://dev.to/scriptcalculator/building-script-runtime-logic-converting-word-counts-to-video-duration-ai-tts-billing-2f48) 
 - [2026-09-01-I-Stopped-Paying-Descript-$24/Month-for-Audio-Editing-—-Here's-What-I-Built-Instead](https://dev.to/jack_green_7b74cb2cdf9e23/i-stopped-paying-descript-24month-for-audio-editing-heres-what-i-built-instead-1m74) 
 - [2026-08-31-Building-HIPAA-Compliant-Real-Time-WebRTC-Video-Pipelines-for-Telehealth-Platforms](https://dev.to/seo_optimization_591fad6c/building-hipaa-compliant-real-time-webrtc-video-pipelines-for-telehealth-platforms-2i4b) 
@@ -26,9 +26,9 @@
 - [2026-08-28-A-short-form-video-script-pipeline-that-runs-on-a-schedule-and-needs-no-LLM-API-key](https://dev.to/optirefine/a-short-form-video-script-pipeline-that-runs-on-a-schedule-and-needs-no-llm-api-key-1ip4) 
 - [2026-08-26-Building-Connect-Now:-My-Take-on-Real-Time-Video-Calling](https://dev.to/basantgautam/building-connect-now-my-take-on-real-time-video-calling-53ca) 
 - [2026-08-25-What-It-Takes-to-Run-an-AI-Video-Editor-Locally-in-the-Browser](https://dev.to/martindelophy/what-it-takes-to-run-an-ai-video-editor-locally-in-the-browser-103g) 
-- [2026-08-24-How-to-Build-a-Fair-A/B-Audio-Preview-for-AI-Processing](https://dev.to/yidao_713c5eeea4f16821823/how-to-build-a-fair-ab-audio-preview-for-ai-processing-52ne) 
-- [2026-08-24-How-Signed-Tokens-and-DRM-Secure-Shoppable-Videos](https://dev.to/krishan_vijayvargiya_d694/how-signed-tokens-and-drm-secure-shoppable-videos-372o) 
 - [2026-08-24-I-Built-a-Free-Loom-Video-Script-Outline-Generator-Because-Loom-Pro-Charges-$12.50/Month-for-AI-Features-That-Don't-Help](https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-loom-video-script-outline-generator-because-loom-pro-charges-1250month-for-ai-1hnh) 
+- [2026-08-24-How-Signed-Tokens-and-DRM-Secure-Shoppable-Videos](https://dev.to/krishan_vijayvargiya_d694/how-signed-tokens-and-drm-secure-shoppable-videos-372o) 
+- [2026-08-24-How-to-Build-a-Fair-A/B-Audio-Preview-for-AI-Processing](https://dev.to/yidao_713c5eeea4f16821823/how-to-build-a-fair-ab-audio-preview-for-ai-processing-52ne) 
 - [2026-08-22-What-a-Website-Can-Learn-From-Your-Browser:-IP,-WebRTC,-and-IPv6](https://dev.to/skayletdev/what-a-website-can-learn-from-your-browser-ip-webrtc-and-ipv6-2n6i) 
 - [2026-08-19-Building-image-&amp;-video-conversion-that-never-leaves-the-browser](https://dev.to/ken_lee_fc82a8ce3a147aea6/building-image-video-conversion-that-never-leaves-the-browser-iga) 
 - [2026-08-14-I-Built-a-Free-Video-Thumbnail-Generator-Because-Canva-Charges-$12.99/Month](https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-video-thumbnail-generator-because-canva-charges-1299month-3fal) 

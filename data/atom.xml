@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-11T07:05:15.184Z</updated>
+    <updated>2026-09-11T10:02:32.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[Schools are catching on to Big Tech’s playbook]]></title>
         <id>https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids</id>
         <link href="https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy S26 FE Review: Same as Before, but for More Money]]></title>
+        <id>https://www.wired.com/review/samsung-galaxy-s26-fe/</id>
+        <link href="https://www.wired.com/review/samsung-galaxy-s26-fe/"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
@@ -197,6 +204,20 @@
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[From Bad Prompts to Great Results: A Beginner’s Guide to Prompt Engineering]]></title>
+        <id>https://pub.towardsai.net/from-bad-prompts-to-great-results-a-beginners-guide-to-prompt-engineering-8dc06fdb986d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/from-bad-prompts-to-great-results-a-beginners-guide-to-prompt-engineering-8dc06fdb986d?source=rss----98111c9905da---4"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Cleaning and Preprocessing for Production RAG: Building Retrieval-Ready Documents]]></title>
+        <id>https://pub.towardsai.net/complete-rag-engineering-series-part-3-data-cleaning-and-preprocessing-for-enterprise-rag-system-af00655fb2bc?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/complete-rag-engineering-series-part-3-data-cleaning-and-preprocessing-for-enterprise-rag-system-af00655fb2bc?source=rss----98111c9905da---4"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Datasette 1.0a39 and 0.65.4 security releases]]></title>
         <id>https://simonwillison.net/2026/Sep/11/datasette-security/</id>
         <link href="https://simonwillison.net/2026/Sep/11/datasette-security/"/>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[Prevalence Determines Precision:Silent Contamination in Detector-Defined Datasets]]></title>
         <id>https://arxiv.org/abs/2609.11449</id>
         <link href="https://arxiv.org/abs/2609.11449"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generalized Score Matching for Parameter Estimation on Convex Domains]]></title>
-        <id>https://arxiv.org/abs/2609.11521</id>
-        <link href="https://arxiv.org/abs/2609.11521"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Dataset and Model for Imputing Water Surface Elevation on a Large and Extremely Sparse Spatiotemporal Graph]]></title>
-        <id>https://arxiv.org/abs/2609.11580</id>
-        <link href="https://arxiv.org/abs/2609.11580"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics]]></title>
-        <id>https://arxiv.org/abs/2609.11639</id>
-        <link href="https://arxiv.org/abs/2609.11639"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>

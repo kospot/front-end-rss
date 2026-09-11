@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-11 15:05:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-11 18:02:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -8,22 +8,22 @@
 
 
 - [2026-08-28-HelloGitHub-第-125-期](https://hellogithub.com/periodical/volume/125) 
-- [2026-09-10-Agent-xoá-test-để-build-xanh:-dựng-cổng-chặn-đọc-từ-git](https://dev.to/bean_bean/agent-xoa-test-de-build-xanh-dung-cong-chan-doc-tu-git-2654) 
 - [2026-09-10-My-number-to-words-converter-was-lying-about-big-numbers.-Here's-the-fix-36-digits,-no-floats](https://dev.to/farcrak/my-number-to-words-converter-was-lying-about-big-numbers-heres-the-fix-36-digits-no-floats-42io) 
+- [2026-09-10-Agent-xoá-test-để-build-xanh:-dựng-cổng-chặn-đọc-từ-git](https://dev.to/bean_bean/agent-xoa-test-de-build-xanh-dung-cong-chan-doc-tu-git-2654) 
 - [2026-09-09-Cursor-AI-vs-GitHub-Copilot-in-2026:-Which-AI-Code-Editor-Actually-Ships-Products?](https://dev.to/guang_diyuzhi_74b0fec2c09/cursor-ai-vs-github-copilot-in-2026-which-ai-code-editor-actually-ships-products-9a2) 
 - [2026-09-08-Mission-Candidate-Selection-Summary-—-Free-Spigit-Alternative](https://dev.to/jack_green_7b74cb2cdf9e23/mission-candidate-selection-summary-free-spigit-alternative-2cl5) 
 - [2026-09-03-Why-`zarazhangrui/frontend-slides`-Is-Trending-on-GitHub](https://dev.to/jamse_bao/why-zarazhangruifrontend-slides-is-trending-on-github-1l9m) 
-- [2026-08-31-Top-10-Sites-To-Buy-Old-Github-Accounts-In-2026-27](https://dev.to/tove_villalobos_e3872369d/top-10-sites-to-buy-old-github-accounts-in-2026-27-1ef3) 
 - [2026-08-31-Understanding-GitHub-OAuth-Login](https://dev.to/sanuranjan/understanding-github-oauth-login-1fa4) 
+- [2026-08-31-Top-10-Sites-To-Buy-Old-Github-Accounts-In-2026-27](https://dev.to/tove_villalobos_e3872369d/top-10-sites-to-buy-old-github-accounts-in-2026-27-1ef3) 
 - [2026-08-26-Digital-Business-Card-/-vCard-Generator-—-100%-Free,-No-Subscription](https://dev.to/jack_green_7b74cb2cdf9e23/digital-business-card-vcard-generator-100-free-no-subscription-469p) 
 - [2026-08-25-AgenticVani-Services:-Digital-CRM,-Salon-Management-&amp;-Business-Productivity-Solutions](https://dev.to/agentic_vani_15cf0f01c9ff/agenticvani-services-digital-crm-salon-management-business-productivity-solutions-4d57) 
 - [2026-08-22-Best-Web-Development-Course-in-Laxminagar:-Build-Skills-for-a-Successful-Digital-Career](https://dev.to/shahin_981ca06dd02c65874f/best-web-development-course-in-laxminagar-build-skills-for-a-successful-digital-career-1hba) 
-- [2026-08-21-How-to-Automate-i18n-Translations-with-GitHub-Actions:-3-Approaches](https://dev.to/arvid_andersson_0a598fa45/how-to-automate-i18n-translations-with-github-actions-3-approaches-48nd) 
 - [2026-08-21-gitignore-is-not-a-security-control](https://dev.to/veristria/gitignore-is-not-a-security-control-2gok) 
+- [2026-08-21-How-to-Automate-i18n-Translations-with-GitHub-Actions:-3-Approaches](https://dev.to/arvid_andersson_0a598fa45/how-to-automate-i18n-translations-with-github-actions-3-approaches-48nd) 
 - [2026-08-19-OpenCut:-The-Open-Source-CapCut-Alternative-That-Just-Hit-84,000-GitHub-Stars](https://dev.to/tekmag/opencut-the-open-source-capcut-alternative-that-just-hit-84000-github-stars-4cjb) 
-- [2026-08-13-Building-Modern-Digital-Products-with-Umidjon-Agency](https://dev.to/umidjon_developer/building-modern-digital-products-with-umidjon-agency-2go0) 
-- [2026-08-13-Cursor-Origin:-Git-Hosting-Riêng-Cho-AI-Agent,-Ra-Mắt-Mùa-Thu](https://dev.to/bean_bean/cursor-origin-git-hosting-rieng-cho-ai-agent-ra-mat-mua-thu-2oae) 
 - [2026-08-13-Building-Modern-Digital-Products-with-Umidjon-Agency](https://dev.to/umidjon_developer/building-modern-digital-products-with-umidjon-agency-1ll1) 
+- [2026-08-13-Cursor-Origin:-Git-Hosting-Riêng-Cho-AI-Agent,-Ra-Mắt-Mùa-Thu](https://dev.to/bean_bean/cursor-origin-git-hosting-rieng-cho-ai-agent-ra-mat-mua-thu-2oae) 
+- [2026-08-13-Building-Modern-Digital-Products-with-Umidjon-Agency](https://dev.to/umidjon_developer/building-modern-digital-products-with-umidjon-agency-2go0) 
 - [2026-09-01--Best-of-Self-Sovereign-Identity:-Digitalcourage-vs.-World-Passport-vs.-Memdeklaro-](
 https://dev.to/narehate78/vat-helpline-vs-ad-hoc-vat-advisory-which-is-more-effective-for-uk-businesses-dealing-with-151k
 ) 
@@ -95,7 +95,7 @@ https://dev.to/narehate78/vat-helpline-vs-ad-hoc-vat-advisory-which-is-more-effe
 - [2026-08-13-Circle-–-A-new-era-for-digital-businesses](https://circle.so) 
 - [2026-08-13-How-HN:-GreenTree-–-Cache-test-results-by-Git-tree,-not-commit-SHA](https://github.com/Reachpad/greentree) 
 - [2026-08-19-The-Best-Digital-Wall-Calendar-2026:-Skylight,-Everblog,-Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/) 
-- [2026-08-18-I-Put-the-Best-Digital-Notebooks-to-the-Test.-Here-Are-My-Favorites-2026](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/) 
-- [2026-08-18-Western-Digital-Promo-Code:-15%-Off](https://www.wired.com/story/western-digital-promo-code/) 
 - [2026-08-18-Logitech-Promo-Codes-and-Deals:-Up-to-$100-Off](https://www.wired.com/story/logitech-promo-code/) 
+- [2026-08-18-Western-Digital-Promo-Code:-15%-Off](https://www.wired.com/story/western-digital-promo-code/) 
+- [2026-08-18-I-Put-the-Best-Digital-Notebooks-to-the-Test.-Here-Are-My-Favorites-2026](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/) 
 - [2026-08-26-Xbox-announces-disc-to-digital-feature-that-digitizes-your-physical-games](https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official) 
