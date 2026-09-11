@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-11T10:02:32.728Z</updated>
+    <updated>2026-09-11T13:03:20.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,13 +15,6 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Electric air taxis get the green light for test flights in Texas]]></title>
-        <id>https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas</id>
-        <link href="https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Schools are catching on to Big Tech’s playbook]]></title>
         <id>https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids</id>
         <link href="https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids"/>
@@ -29,9 +22,30 @@
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samsung Galaxy S26 FE Review: Same as Before, but for More Money]]></title>
-        <id>https://www.wired.com/review/samsung-galaxy-s26-fe/</id>
-        <link href="https://www.wired.com/review/samsung-galaxy-s26-fe/"/>
+        <title type="html"><![CDATA[Electric air taxis get the green light for test flights in Texas]]></title>
+        <id>https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas</id>
+        <link href="https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[He’s One of Just 50 People With Olive Garden’s Lifetime Pasta Pass. You Choose What He Eats Next]]></title>
+        <id>https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/</id>
+        <link href="https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)]]></title>
+        <id>https://www.wired.com/gallery/best-mushroom-coffee/</id>
+        <link href="https://www.wired.com/gallery/best-mushroom-coffee/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch]]></title>
+        <id>https://www.wired.com/story/the-trump-alien-disclosure-speech-rumors-are-reaching-a-fever-pitch/</id>
+        <link href="https://www.wired.com/story/the-trump-alien-disclosure-speech-rumors-are-reaching-a-fever-pitch/"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
@@ -39,6 +53,13 @@
         <title type="html"><![CDATA[AT&T Promo Codes: $50 Off This September 2026]]></title>
         <id>https://www.wired.com/story/att-promo-code/</id>
         <link href="https://www.wired.com/story/att-promo-code/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy S26 FE Review: Same as Before, but for More Money]]></title>
+        <id>https://www.wired.com/review/samsung-galaxy-s26-fe/</id>
+        <link href="https://www.wired.com/review/samsung-galaxy-s26-fe/"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
@@ -99,100 +120,37 @@
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astra for Coding: Why Are We Doing This Again?]]></title>
-        <id>https://lucumr.pocoo.org/2026/9/7/astra-why/</id>
-        <link href="https://lucumr.pocoo.org/2026/9/7/astra-why/"/>
+        <title type="html"><![CDATA[Show HN: Underfiction – you direct a scene, a frontier model writes the prose]]></title>
+        <id>https://underfiction.com</id>
+        <link href="https://underfiction.com"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Reviving my $15,000 browser arcade with Astra]]></title>
-        <id>https://eggverse.co/</id>
-        <link href="https://eggverse.co/"/>
+        <title type="html"><![CDATA[Endomorphisms of affine spaces and the Jacobian problem]]></title>
+        <id>https://arxiv.org/abs/2609.05746</id>
+        <link href="https://arxiv.org/abs/2609.05746"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Socks Proxy for AI Agents]]></title>
-        <id>https://x402socks.com/</id>
-        <link href="https://x402socks.com/"/>
+        <title type="html"><![CDATA[Qualcomm Talks Next-Gen Oryon CPU, Adreno GPU, and Hexagon NPU – ServeTheHome]]></title>
+        <id>https://www.servethehome.com/qualcomm-details-next-gen-oryon-cpu-adreno-gpu-and-hexagon-npu/</id>
+        <link href="https://www.servethehome.com/qualcomm-details-next-gen-oryon-cpu-adreno-gpu-and-hexagon-npu/"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turn Your Data into a Video]]></title>
-        <id>https://www.racecharts.io/</id>
-        <link href="https://www.racecharts.io/"/>
+        <title type="html"><![CDATA[1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it]]></title>
+        <id>https://blog.cloudflare.com/post-quantum-dnssec-1111/</id>
+        <link href="https://blog.cloudflare.com/post-quantum-dnssec-1111/"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[INDUS-SDE: A Language Model for Scientific Content Curation and Discovery]]></title>
-        <id>https://science.data.nasa.gov/blog/indus-sde-language-model</id>
-        <link href="https://science.data.nasa.gov/blog/indus-sde-language-model"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASCII arcade: 3D engine for the terminal]]></title>
-        <id>https://ascii-arcade.dev</id>
-        <link href="https://ascii-arcade.dev"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Decent GPU for FreeBSD and OpenBSD (2023)]]></title>
-        <id>https://medium.com/@martin.baulig/a-decent-gpu-for-freebsd-and-openbsd-ee82e6ff219a</id>
-        <link href="https://medium.com/@martin.baulig/a-decent-gpu-for-freebsd-and-openbsd-ee82e6ff219a"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative AI Using Linuxulator and eGPU on FreeBSD]]></title>
-        <id>https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/</id>
-        <link href="https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sean Carroll explains the biggest ideas in the universe – Full Interview [video]]]></title>
-        <id>https://www.youtube.com/watch?v=_TBNJyztai0</id>
-        <link href="https://www.youtube.com/watch?v=_TBNJyztai0"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer created an app to detect nearby Meta glasses]]></title>
-        <id>https://www.businessinsider.com/zuckoff-app-detects-meta-ai-smart-glasses-recording-privacy-2026-9</id>
-        <link href="https://www.businessinsider.com/zuckoff-app-detects-meta-ai-smart-glasses-recording-privacy-2026-9"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Continuous video of black hole radio observations challenges shock wave theory]]></title>
-        <id>https://phys.org/news/2026-09-video-black-hole-radio-theory.html</id>
-        <link href="https://phys.org/news/2026-09-video-black-hole-radio-theory.html"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allow Carriers on Planes]]></title>
-        <id>https://www.jefftk.com/p/allow-carriers-on-planes</id>
-        <link href="https://www.jefftk.com/p/allow-carriers-on-planes"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Japan, Television Viewing Doesn't Have to Take a Back Seat (2013)]]></title>
-        <id>https://www.wsj.com/articles/SB10001424127887323296504578397020440247856</id>
-        <link href="https://www.wsj.com/articles/SB10001424127887323296504578397020440247856"/>
+        <title type="html"><![CDATA[Show HN: Basketcase.shop – paste a merchant URL, an agent tries to buy something]]></title>
+        <id>https://basketcase.shop</id>
+        <link href="https://basketcase.shop"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
@@ -204,9 +162,114 @@
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Bad Prompts to Great Results: A Beginner’s Guide to Prompt Engineering]]></title>
-        <id>https://pub.towardsai.net/from-bad-prompts-to-great-results-a-beginners-guide-to-prompt-engineering-8dc06fdb986d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/from-bad-prompts-to-great-results-a-beginners-guide-to-prompt-engineering-8dc06fdb986d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[In Japan, Television Viewing Doesn't Have to Take a Back Seat (2013)]]></title>
+        <id>https://www.wsj.com/articles/SB10001424127887323296504578397020440247856</id>
+        <link href="https://www.wsj.com/articles/SB10001424127887323296504578397020440247856"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allow Carriers on Planes]]></title>
+        <id>https://www.jefftk.com/p/allow-carriers-on-planes</id>
+        <link href="https://www.jefftk.com/p/allow-carriers-on-planes"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continuous video of black hole radio observations challenges shock wave theory]]></title>
+        <id>https://phys.org/news/2026-09-video-black-hole-radio-theory.html</id>
+        <link href="https://phys.org/news/2026-09-video-black-hole-radio-theory.html"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer created an app to detect nearby Meta glasses]]></title>
+        <id>https://www.businessinsider.com/zuckoff-app-detects-meta-ai-smart-glasses-recording-privacy-2026-9</id>
+        <link href="https://www.businessinsider.com/zuckoff-app-detects-meta-ai-smart-glasses-recording-privacy-2026-9"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sean Carroll explains the biggest ideas in the universe – Full Interview [video]]]></title>
+        <id>https://www.youtube.com/watch?v=_TBNJyztai0</id>
+        <link href="https://www.youtube.com/watch?v=_TBNJyztai0"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generative AI Using Linuxulator and eGPU on FreeBSD]]></title>
+        <id>https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/</id>
+        <link href="https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Decent GPU for FreeBSD and OpenBSD (2023)]]></title>
+        <id>https://medium.com/@martin.baulig/a-decent-gpu-for-freebsd-and-openbsd-ee82e6ff219a</id>
+        <link href="https://medium.com/@martin.baulig/a-decent-gpu-for-freebsd-and-openbsd-ee82e6ff219a"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASCII arcade: 3D engine for the terminal]]></title>
+        <id>https://ascii-arcade.dev</id>
+        <link href="https://ascii-arcade.dev"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INDUS-SDE: A Language Model for Scientific Content Curation and Discovery]]></title>
+        <id>https://science.data.nasa.gov/blog/indus-sde-language-model</id>
+        <link href="https://science.data.nasa.gov/blog/indus-sde-language-model"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turn Your Data into a Video]]></title>
+        <id>https://www.racecharts.io/</id>
+        <link href="https://www.racecharts.io/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Socks Proxy for AI Agents]]></title>
+        <id>https://x402socks.com/</id>
+        <link href="https://x402socks.com/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Reviving my $15,000 browser arcade with Astra]]></title>
+        <id>https://eggverse.co/</id>
+        <link href="https://eggverse.co/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astra for Coding: Why Are We Doing This Again?]]></title>
+        <id>https://lucumr.pocoo.org/2026/9/7/astra-why/</id>
+        <link href="https://lucumr.pocoo.org/2026/9/7/astra-why/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distillation Copies the Answers. It Doesn’t Copy the Reasoning.]]></title>
+        <id>https://pub.towardsai.net/distillation-copies-the-answers-it-doesnt-copy-the-reasoning-7ae781118c77?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/distillation-copies-the-answers-it-doesnt-copy-the-reasoning-7ae781118c77?source=rss----98111c9905da---4"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Agentic AI Lesson 8: Memory Engineering]]></title>
+        <id>https://pub.towardsai.net/learning-agentic-ai-lesson-8-memory-engineering-6706555fb53b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/learning-agentic-ai-lesson-8-memory-engineering-6706555fb53b?source=rss----98111c9905da---4"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
@@ -214,6 +277,13 @@
         <title type="html"><![CDATA[Data Cleaning and Preprocessing for Production RAG: Building Retrieval-Ready Documents]]></title>
         <id>https://pub.towardsai.net/complete-rag-engineering-series-part-3-data-cleaning-and-preprocessing-for-enterprise-rag-system-af00655fb2bc?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/complete-rag-engineering-series-part-3-data-cleaning-and-preprocessing-for-enterprise-rag-system-af00655fb2bc?source=rss----98111c9905da---4"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Bad Prompts to Great Results: A Beginner’s Guide to Prompt Engineering]]></title>
+        <id>https://pub.towardsai.net/from-bad-prompts-to-great-results-a-beginners-guide-to-prompt-engineering-8dc06fdb986d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/from-bad-prompts-to-great-results-a-beginners-guide-to-prompt-engineering-8dc06fdb986d?source=rss----98111c9905da---4"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
@@ -291,76 +361,6 @@
         <title type="html"><![CDATA[EMMI: Edge Multi-Modal Intelligence for Communication-Efficient MLLM Inference via Fused Representation Compression]]></title>
         <id>https://arxiv.org/abs/2609.11058</id>
         <link href="https://arxiv.org/abs/2609.11058"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HERALD: High-Fidelity Exemplar Retrieval with Adaptive Landmark Distillation for Heterophily-Aware Graph Condensation]]></title>
-        <id>https://arxiv.org/abs/2609.11123</id>
-        <link href="https://arxiv.org/abs/2609.11123"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bidirectional Multimodal Fusion of Sky Images and Time-Series for Solar Forecasting with Large Language Models]]></title>
-        <id>https://arxiv.org/abs/2609.11135</id>
-        <link href="https://arxiv.org/abs/2609.11135"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Semi-Tensor Product-Based Multi-Term Randomized T-SVD and Its Visual Applications]]></title>
-        <id>https://arxiv.org/abs/2609.11168</id>
-        <link href="https://arxiv.org/abs/2609.11168"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hierarchical Clustering Can Jointly Satisfy Richness, Consistency, and Scale Invariance]]></title>
-        <id>https://arxiv.org/abs/2609.11173</id>
-        <link href="https://arxiv.org/abs/2609.11173"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convex Optimization with Nested Evolving Feasible Sets (CONES) under Time-Varying Loss Functions]]></title>
-        <id>https://arxiv.org/abs/2609.11207</id>
-        <link href="https://arxiv.org/abs/2609.11207"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REVA: Reusable Evidence View Aggregation for Context-Efficient RAG Serving]]></title>
-        <id>https://arxiv.org/abs/2609.11209</id>
-        <link href="https://arxiv.org/abs/2609.11209"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legible Failures: Detecting and Repairing In-Context Binding Errors]]></title>
-        <id>https://arxiv.org/abs/2609.11216</id>
-        <link href="https://arxiv.org/abs/2609.11216"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Few-Shot Multiobjective Multitask Optimization via Iterative Sequential Transfer]]></title>
-        <id>https://arxiv.org/abs/2609.11228</id>
-        <link href="https://arxiv.org/abs/2609.11228"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local Robustness Quantification for Naive Bayes Classifiers and Generative Forests: a General Approach]]></title>
-        <id>https://arxiv.org/abs/2609.11366</id>
-        <link href="https://arxiv.org/abs/2609.11366"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prevalence Determines Precision:Silent Contamination in Detector-Defined Datasets]]></title>
-        <id>https://arxiv.org/abs/2609.11449</id>
-        <link href="https://arxiv.org/abs/2609.11449"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
