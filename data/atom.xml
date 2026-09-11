@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-11T04:02:38.604Z</updated>
+    <updated>2026-09-11T07:05:15.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[Schools are catching on to Big Tech’s playbook]]></title>
         <id>https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids</id>
         <link href="https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT&T Promo Codes: $50 Off This September 2026]]></title>
+        <id>https://www.wired.com/story/att-promo-code/</id>
+        <link href="https://www.wired.com/story/att-promo-code/"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
@@ -85,86 +92,16 @@
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Try GPT-6 Astra for a few bucks]]></title>
-        <id>https://trylatestmodel.com/</id>
-        <link href="https://trylatestmodel.com/"/>
+        <title type="html"><![CDATA[Astra for Coding: Why Are We Doing This Again?]]></title>
+        <id>https://lucumr.pocoo.org/2026/9/7/astra-why/</id>
+        <link href="https://lucumr.pocoo.org/2026/9/7/astra-why/"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In Japan, Television Viewing Doesn't Have to Take a Back Seat (2013)]]></title>
-        <id>https://www.wsj.com/articles/SB10001424127887323296504578397020440247856</id>
-        <link href="https://www.wsj.com/articles/SB10001424127887323296504578397020440247856"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allow Carriers on Planes]]></title>
-        <id>https://www.jefftk.com/p/allow-carriers-on-planes</id>
-        <link href="https://www.jefftk.com/p/allow-carriers-on-planes"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Continuous video of black hole radio observations challenges shock wave theory]]></title>
-        <id>https://phys.org/news/2026-09-video-black-hole-radio-theory.html</id>
-        <link href="https://phys.org/news/2026-09-video-black-hole-radio-theory.html"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer created an app to detect nearby Meta glasses]]></title>
-        <id>https://www.businessinsider.com/zuckoff-app-detects-meta-ai-smart-glasses-recording-privacy-2026-9</id>
-        <link href="https://www.businessinsider.com/zuckoff-app-detects-meta-ai-smart-glasses-recording-privacy-2026-9"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sean Carroll explains the biggest ideas in the universe – Full Interview [video]]]></title>
-        <id>https://www.youtube.com/watch?v=_TBNJyztai0</id>
-        <link href="https://www.youtube.com/watch?v=_TBNJyztai0"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative AI Using Linuxulator and eGPU on FreeBSD]]></title>
-        <id>https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/</id>
-        <link href="https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Decent GPU for FreeBSD and OpenBSD (2023)]]></title>
-        <id>https://medium.com/@martin.baulig/a-decent-gpu-for-freebsd-and-openbsd-ee82e6ff219a</id>
-        <link href="https://medium.com/@martin.baulig/a-decent-gpu-for-freebsd-and-openbsd-ee82e6ff219a"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASCII arcade: 3D engine for the terminal]]></title>
-        <id>https://ascii-arcade.dev</id>
-        <link href="https://ascii-arcade.dev"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INDUS-SDE: A Language Model for Scientific Content Curation and Discovery]]></title>
-        <id>https://science.data.nasa.gov/blog/indus-sde-language-model</id>
-        <link href="https://science.data.nasa.gov/blog/indus-sde-language-model"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turn Your Data into a Video]]></title>
-        <id>https://www.racecharts.io/</id>
-        <link href="https://www.racecharts.io/"/>
+        <title type="html"><![CDATA[Show HN: Reviving my $15,000 browser arcade with Astra]]></title>
+        <id>https://eggverse.co/</id>
+        <link href="https://eggverse.co/"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
@@ -176,9 +113,86 @@
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Reviving my $15,000 browser arcade with Astra]]></title>
-        <id>https://eggverse.co/</id>
-        <link href="https://eggverse.co/"/>
+        <title type="html"><![CDATA[Turn Your Data into a Video]]></title>
+        <id>https://www.racecharts.io/</id>
+        <link href="https://www.racecharts.io/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INDUS-SDE: A Language Model for Scientific Content Curation and Discovery]]></title>
+        <id>https://science.data.nasa.gov/blog/indus-sde-language-model</id>
+        <link href="https://science.data.nasa.gov/blog/indus-sde-language-model"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASCII arcade: 3D engine for the terminal]]></title>
+        <id>https://ascii-arcade.dev</id>
+        <link href="https://ascii-arcade.dev"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Decent GPU for FreeBSD and OpenBSD (2023)]]></title>
+        <id>https://medium.com/@martin.baulig/a-decent-gpu-for-freebsd-and-openbsd-ee82e6ff219a</id>
+        <link href="https://medium.com/@martin.baulig/a-decent-gpu-for-freebsd-and-openbsd-ee82e6ff219a"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generative AI Using Linuxulator and eGPU on FreeBSD]]></title>
+        <id>https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/</id>
+        <link href="https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sean Carroll explains the biggest ideas in the universe – Full Interview [video]]]></title>
+        <id>https://www.youtube.com/watch?v=_TBNJyztai0</id>
+        <link href="https://www.youtube.com/watch?v=_TBNJyztai0"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer created an app to detect nearby Meta glasses]]></title>
+        <id>https://www.businessinsider.com/zuckoff-app-detects-meta-ai-smart-glasses-recording-privacy-2026-9</id>
+        <link href="https://www.businessinsider.com/zuckoff-app-detects-meta-ai-smart-glasses-recording-privacy-2026-9"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continuous video of black hole radio observations challenges shock wave theory]]></title>
+        <id>https://phys.org/news/2026-09-video-black-hole-radio-theory.html</id>
+        <link href="https://phys.org/news/2026-09-video-black-hole-radio-theory.html"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allow Carriers on Planes]]></title>
+        <id>https://www.jefftk.com/p/allow-carriers-on-planes</id>
+        <link href="https://www.jefftk.com/p/allow-carriers-on-planes"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Japan, Television Viewing Doesn't Have to Take a Back Seat (2013)]]></title>
+        <id>https://www.wsj.com/articles/SB10001424127887323296504578397020440247856</id>
+        <link href="https://www.wsj.com/articles/SB10001424127887323296504578397020440247856"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try GPT-6 Astra for a few bucks]]></title>
+        <id>https://trylatestmodel.com/</id>
+        <link href="https://trylatestmodel.com/"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics]]></title>
         <id>https://arxiv.org/abs/2609.11639</id>
         <link href="https://arxiv.org/abs/2609.11639"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation]]></title>
-        <id>https://arxiv.org/abs/2609.11648</id>
-        <link href="https://arxiv.org/abs/2609.11648"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Does Post-Training Quantization Work?]]></title>
-        <id>https://arxiv.org/abs/2609.11716</id>
-        <link href="https://arxiv.org/abs/2609.11716"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
