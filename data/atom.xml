@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-11T00:02:06.103Z</updated>
+    <updated>2026-09-11T02:02:05.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -85,44 +85,51 @@
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Reviving my $15,000 browser arcade with Astra]]></title>
-        <id>https://eggverse.co/</id>
-        <link href="https://eggverse.co/"/>
+        <title type="html"><![CDATA[Try GPT-6 Astra for a few bucks]]></title>
+        <id>https://trylatestmodel.com/</id>
+        <link href="https://trylatestmodel.com/"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Socks Proxy for AI Agents]]></title>
-        <id>https://x402socks.com/</id>
-        <link href="https://x402socks.com/"/>
+        <title type="html"><![CDATA[In Japan, Television Viewing Doesn't Have to Take a Back Seat (2013)]]></title>
+        <id>https://www.wsj.com/articles/SB10001424127887323296504578397020440247856</id>
+        <link href="https://www.wsj.com/articles/SB10001424127887323296504578397020440247856"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turn Your Data into a Video]]></title>
-        <id>https://www.racecharts.io/</id>
-        <link href="https://www.racecharts.io/"/>
+        <title type="html"><![CDATA[Allow Carriers on Planes]]></title>
+        <id>https://www.jefftk.com/p/allow-carriers-on-planes</id>
+        <link href="https://www.jefftk.com/p/allow-carriers-on-planes"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[INDUS-SDE: A Language Model for Scientific Content Curation and Discovery]]></title>
-        <id>https://science.data.nasa.gov/blog/indus-sde-language-model</id>
-        <link href="https://science.data.nasa.gov/blog/indus-sde-language-model"/>
+        <title type="html"><![CDATA[Continuous video of black hole radio observations challenges shock wave theory]]></title>
+        <id>https://phys.org/news/2026-09-video-black-hole-radio-theory.html</id>
+        <link href="https://phys.org/news/2026-09-video-black-hole-radio-theory.html"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASCII arcade: 3D engine for the terminal]]></title>
-        <id>https://ascii-arcade.dev</id>
-        <link href="https://ascii-arcade.dev"/>
+        <title type="html"><![CDATA[Developer created an app to detect nearby Meta glasses]]></title>
+        <id>https://www.businessinsider.com/zuckoff-app-detects-meta-ai-smart-glasses-recording-privacy-2026-9</id>
+        <link href="https://www.businessinsider.com/zuckoff-app-detects-meta-ai-smart-glasses-recording-privacy-2026-9"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Decent GPU for FreeBSD and OpenBSD (2023)]]></title>
-        <id>https://medium.com/@martin.baulig/a-decent-gpu-for-freebsd-and-openbsd-ee82e6ff219a</id>
-        <link href="https://medium.com/@martin.baulig/a-decent-gpu-for-freebsd-and-openbsd-ee82e6ff219a"/>
+        <title type="html"><![CDATA[OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sean Carroll explains the biggest ideas in the universe – Full Interview [video]]]></title>
+        <id>https://www.youtube.com/watch?v=_TBNJyztai0</id>
+        <link href="https://www.youtube.com/watch?v=_TBNJyztai0"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
@@ -134,9 +141,44 @@
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sean Carroll explains the biggest ideas in the universe – Full Interview [video]]]></title>
-        <id>https://www.youtube.com/watch?v=_TBNJyztai0</id>
-        <link href="https://www.youtube.com/watch?v=_TBNJyztai0"/>
+        <title type="html"><![CDATA[A Decent GPU for FreeBSD and OpenBSD (2023)]]></title>
+        <id>https://medium.com/@martin.baulig/a-decent-gpu-for-freebsd-and-openbsd-ee82e6ff219a</id>
+        <link href="https://medium.com/@martin.baulig/a-decent-gpu-for-freebsd-and-openbsd-ee82e6ff219a"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASCII arcade: 3D engine for the terminal]]></title>
+        <id>https://ascii-arcade.dev</id>
+        <link href="https://ascii-arcade.dev"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INDUS-SDE: A Language Model for Scientific Content Curation and Discovery]]></title>
+        <id>https://science.data.nasa.gov/blog/indus-sde-language-model</id>
+        <link href="https://science.data.nasa.gov/blog/indus-sde-language-model"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turn Your Data into a Video]]></title>
+        <id>https://www.racecharts.io/</id>
+        <link href="https://www.racecharts.io/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Socks Proxy for AI Agents]]></title>
+        <id>https://x402socks.com/</id>
+        <link href="https://x402socks.com/"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Reviving my $15,000 browser arcade with Astra]]></title>
+        <id>https://eggverse.co/</id>
+        <link href="https://eggverse.co/"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
@@ -161,65 +203,51 @@ https://reactdevelopment.substack.com/p/react-router-v8-in-action-lazy-loading
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[List Comprehensions, Generators, and When to Use Each: A Pythonic Journey Through The Matrix]]></title>
-        <id>https://dev.to/timevolt/list-comprehensions-generators-and-when-to-use-each-a-pythonic-journey-through-the-matrix-4dbo</id>
-        <link href="https://dev.to/timevolt/list-comprehensions-generators-and-when-to-use-each-a-pythonic-journey-through-the-matrix-4dbo"/>
+        <title type="html"><![CDATA[What If You Could Spend Less Time Chasing Software Projects?]]></title>
+        <id>https://dev.to/yamahaito/what-if-you-could-spend-less-time-chasing-software-projects-12ob</id>
+        <link href="https://dev.to/yamahaito/what-if-you-could-spend-less-time-chasing-software-projects-12ob"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dựng remote MCP server trên Next.js: OAuth và 5 cái bẫy]]></title>
-        <id>https://dev.to/bean_bean/dung-remote-mcp-server-tren-nextjs-oauth-va-5-cai-bay-33hl</id>
-        <link href="https://dev.to/bean_bean/dung-remote-mcp-server-tren-nextjs-oauth-va-5-cai-bay-33hl"/>
+        <title type="html"><![CDATA[We tested "JSON-LD only" article extraction against 8 real news sites. It got 0.]]></title>
+        <id>https://dev.to/fetchsmith/we-tested-json-ld-only-article-extraction-against-8-real-news-sites-it-got-0-1377</id>
+        <link href="https://dev.to/fetchsmith/we-tested-json-ld-only-article-extraction-against-8-real-news-sites-it-got-0-1377"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I tried to live an entire day inside apps built with Expo. Here's where it broke.]]></title>
-        <id>https://dev.to/expo/i-tried-to-live-an-entire-day-inside-apps-built-with-expo-heres-where-it-broke-j5d</id>
-        <link href="https://dev.to/expo/i-tried-to-live-an-entire-day-inside-apps-built-with-expo-heres-where-it-broke-j5d"/>
+        <title type="html"><![CDATA[Why JWT Verification Breaks in Production: 5 Token Traps Every Engineer Hits]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-jwt-verification-breaks-in-production-5-token-traps-every-engineer-hits-2o4k</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-jwt-verification-breaks-in-production-5-token-traps-every-engineer-hits-2o4k"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Metrice: Zero-dependency post-quantum P2P mesh network]]></title>
-        <id>https://dev.to/gokturka/metrice-zero-dependency-post-quantum-p2p-mesh-network-33ae</id>
-        <link href="https://dev.to/gokturka/metrice-zero-dependency-post-quantum-p2p-mesh-network-33ae"/>
+        <title type="html"><![CDATA[Built 100 Vanilla JS Components Because I Was Tired of React]]></title>
+        <id>https://dev.to/guardrailengine/built-100-vanilla-js-components-because-i-was-tired-of-react-oh2</id>
+        <link href="https://dev.to/guardrailengine/built-100-vanilla-js-components-because-i-was-tired-of-react-oh2"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I built a 100% Client-Side JSON Beautifier & Web Tools Suite]]></title>
-        <id>https://dev.to/ads_wala_0ac2e84776dae045/why-i-built-a-100-client-side-json-beautifier-web-tools-suite-ak</id>
-        <link href="https://dev.to/ads_wala_0ac2e84776dae045/why-i-built-a-100-client-side-json-beautifier-web-tools-suite-ak"/>
+        <title type="html"><![CDATA[How I Built a Football Formation Builder with Vanilla JavaScript]]></title>
+        <id>https://dev.to/sam911/how-i-built-a-football-formation-builder-with-vanilla-javascript-4f1</id>
+        <link href="https://dev.to/sam911/how-i-built-a-football-formation-builder-with-vanilla-javascript-4f1"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Standard RAG is Failing You: How GraphRAG Combines Vector Search with Knowledge Graphs for Zero Hallucinations]]></title>
-        <id>https://dev.to/programmingcentral/why-standard-rag-is-failing-you-how-graphrag-combines-vector-search-with-knowledge-graphs-for-zero-1hcc</id>
-        <link href="https://dev.to/programmingcentral/why-standard-rag-is-failing-you-how-graphrag-combines-vector-search-with-knowledge-graphs-for-zero-1hcc"/>
+        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
+        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-5h1n</id>
+        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-5h1n"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BeeTime — Documentazione Tecnica (BeeEngine)]]></title>
-        <id>https://dev.to/antonioprosperi2svg/beetime-documentazione-tecnica-beeengine-gp0</id>
-        <link href="https://dev.to/antonioprosperi2svg/beetime-documentazione-tecnica-beeengine-gp0"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Web Development Is Easier When You Build Real Projects]]></title>
-        <id>https://dev.to/webprims/learning-web-development-is-easier-when-you-build-real-projects-1apf</id>
-        <link href="https://dev.to/webprims/learning-web-development-is-easier-when-you-build-real-projects-1apf"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unix Timestamps Explained: A Practical Guide for Developers]]></title>
-        <id>https://dev.to/sam_ybs/unix-timestamps-explained-a-practical-guide-for-developers-cdd</id>
-        <link href="https://dev.to/sam_ybs/unix-timestamps-explained-a-practical-guide-for-developers-cdd"/>
+        <title type="html"><![CDATA[maxresdefault.jpg is missing for 1 in 9 YouTube videos, and the 404 still renders. What 8,664 videos showed.]]></title>
+        <id>https://dev.to/cdwm/maxresdefaultjpg-is-missing-for-1-in-9-youtube-videos-and-the-404-still-renders-what-8664-40p4</id>
+        <link href="https://dev.to/cdwm/maxresdefaultjpg-is-missing-for-1-in-9-youtube-videos-and-the-404-still-renders-what-8664-40p4"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
@@ -231,9 +259,65 @@ https://reactdevelopment.substack.com/p/react-router-v8-in-action-lazy-loading
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[maxresdefault.jpg is missing for 1 in 9 YouTube videos, and the 404 still renders. What 8,664 videos showed.]]></title>
-        <id>https://dev.to/cdwm/maxresdefaultjpg-is-missing-for-1-in-9-youtube-videos-and-the-404-still-renders-what-8664-40p4</id>
-        <link href="https://dev.to/cdwm/maxresdefaultjpg-is-missing-for-1-in-9-youtube-videos-and-the-404-still-renders-what-8664-40p4"/>
+        <title type="html"><![CDATA[Unix Timestamps Explained: A Practical Guide for Developers]]></title>
+        <id>https://dev.to/sam_ybs/unix-timestamps-explained-a-practical-guide-for-developers-cdd</id>
+        <link href="https://dev.to/sam_ybs/unix-timestamps-explained-a-practical-guide-for-developers-cdd"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Web Development Is Easier When You Build Real Projects]]></title>
+        <id>https://dev.to/webprims/learning-web-development-is-easier-when-you-build-real-projects-1apf</id>
+        <link href="https://dev.to/webprims/learning-web-development-is-easier-when-you-build-real-projects-1apf"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BeeTime — Documentazione Tecnica (BeeEngine)]]></title>
+        <id>https://dev.to/antonioprosperi2svg/beetime-documentazione-tecnica-beeengine-gp0</id>
+        <link href="https://dev.to/antonioprosperi2svg/beetime-documentazione-tecnica-beeengine-gp0"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Standard RAG is Failing You: How GraphRAG Combines Vector Search with Knowledge Graphs for Zero Hallucinations]]></title>
+        <id>https://dev.to/programmingcentral/why-standard-rag-is-failing-you-how-graphrag-combines-vector-search-with-knowledge-graphs-for-zero-1hcc</id>
+        <link href="https://dev.to/programmingcentral/why-standard-rag-is-failing-you-how-graphrag-combines-vector-search-with-knowledge-graphs-for-zero-1hcc"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I built a 100% Client-Side JSON Beautifier & Web Tools Suite]]></title>
+        <id>https://dev.to/ads_wala_0ac2e84776dae045/why-i-built-a-100-client-side-json-beautifier-web-tools-suite-ak</id>
+        <link href="https://dev.to/ads_wala_0ac2e84776dae045/why-i-built-a-100-client-side-json-beautifier-web-tools-suite-ak"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metrice: Zero-dependency post-quantum P2P mesh network]]></title>
+        <id>https://dev.to/gokturka/metrice-zero-dependency-post-quantum-p2p-mesh-network-33ae</id>
+        <link href="https://dev.to/gokturka/metrice-zero-dependency-post-quantum-p2p-mesh-network-33ae"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried to live an entire day inside apps built with Expo. Here's where it broke.]]></title>
+        <id>https://dev.to/expo/i-tried-to-live-an-entire-day-inside-apps-built-with-expo-heres-where-it-broke-j5d</id>
+        <link href="https://dev.to/expo/i-tried-to-live-an-entire-day-inside-apps-built-with-expo-heres-where-it-broke-j5d"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dựng remote MCP server trên Next.js: OAuth và 5 cái bẫy]]></title>
+        <id>https://dev.to/bean_bean/dung-remote-mcp-server-tren-nextjs-oauth-va-5-cai-bay-33hl</id>
+        <link href="https://dev.to/bean_bean/dung-remote-mcp-server-tren-nextjs-oauth-va-5-cai-bay-33hl"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List Comprehensions, Generators, and When to Use Each: A Pythonic Journey Through The Matrix]]></title>
+        <id>https://dev.to/timevolt/list-comprehensions-generators-and-when-to-use-each-a-pythonic-journey-through-the-matrix-4dbo</id>
+        <link href="https://dev.to/timevolt/list-comprehensions-generators-and-when-to-use-each-a-pythonic-journey-through-the-matrix-4dbo"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
@@ -283,90 +367,6 @@ https://reactdevelopment.substack.com/p/react-router-v8-in-action-lazy-loading
         <title type="html"><![CDATA[Apple brought ceramic back for the Series 12]]></title>
         <id>https://www.theverge.com/tech/989427/ceramic-apple-watch-series-12-edition</id>
         <link href="https://www.theverge.com/tech/989427/ceramic-apple-watch-series-12-edition"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the new Apple Watches compare to the last-gen models]]></title>
-        <id>https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison</id>
-        <link href="https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read the Apple document explaining how new listening features still protect your privacy]]></title>
-        <id>https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy</id>
-        <link href="https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s Muse AI works and creeps me out]]></title>
-        <id>https://www.theverge.com/tech/993391/meta-muse-ai-hands-on</id>
-        <link href="https://www.theverge.com/tech/993391/meta-muse-ai-hands-on"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game]]></title>
-        <id>https://www.theverge.com/games/992937/wolverine-review-ps5</id>
-        <link href="https://www.theverge.com/games/992937/wolverine-review-ps5"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where to preorder the new Apple Watch Series 12 and Ultra 4]]></title>
-        <id>https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy</id>
-        <link href="https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charlie Kirk Was Shot a Year Ago. The Conspiracy Theories Are More Rampant Than Ever]]></title>
-        <id>https://www.wired.com/story/charlie-kirk-was-shot-a-year-ago-the-conspiracy-theories-are-more-rampant-than-ever/</id>
-        <link href="https://www.wired.com/story/charlie-kirk-was-shot-a-year-ago-the-conspiracy-theories-are-more-rampant-than-ever/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want to Get Off Your Phone? Mina Kimes Suggests Having a Baby]]></title>
-        <id>https://www.wired.com/story/user-behavior-mina-kimes/</id>
-        <link href="https://www.wired.com/story/user-behavior-mina-kimes/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watch Series 12 and Apple Watch Ultra 4: Ceramic, Specs, Release Date]]></title>
-        <id>https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/</id>
-        <link href="https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Let an AI Agent Hack All My Gadgets—and I’d Do It Again]]></title>
-        <id>https://www.wired.com/story/i-used-ai-to-hack-my-home-network/</id>
-        <link href="https://www.wired.com/story/i-used-ai-to-hack-my-home-network/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Year After Charlie Kirk's Death, Turning Point Plans to Spend Big on the Midterms]]></title>
-        <id>https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/</id>
-        <link href="https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads]]></title>
-        <id>https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/</id>
-        <link href="https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hungryroot Coupon Codes: 30% Off This September 2026]]></title>
-        <id>https://www.wired.com/story/hungryroot-promo-code/</id>
-        <link href="https://www.wired.com/story/hungryroot-promo-code/"/>
         <updated>2026-09-09T16:00:00.000Z</updated>
         <published>2026-09-09T16:00:00.000Z</published>
     </entry>
