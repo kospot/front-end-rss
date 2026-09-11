@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-11T02:02:05.289Z</updated>
+    <updated>2026-09-11T04:02:38.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -183,191 +183,185 @@
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Copilot app for Beginners: Using the diff, terminal, and browser]]></title>
-        <id>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/</id>
-        <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/"/>
+        <title type="html"><![CDATA[Datasette 1.0a39 and 0.65.4 security releases]]></title>
+        <id>https://simonwillison.net/2026/Sep/11/datasette-security/</id>
+        <link href="https://simonwillison.net/2026/Sep/11/datasette-security/"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-React Router v8 in Action: Lazy Loading and Nested Routes
-]]></title>
-        <id>
-https://reactdevelopment.substack.com/p/react-router-v8-in-action-lazy-loading
-</id>
-        <link href="
-https://reactdevelopment.substack.com/p/react-router-v8-in-action-lazy-loading
-"/>
+        <title type="html"><![CDATA[M3-Former: Multimodal Transformer with Mixture-of-Experts for Long-Term Vessel Trajectory Prediction]]></title>
+        <id>https://arxiv.org/abs/2609.10559</id>
+        <link href="https://arxiv.org/abs/2609.10559"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What If You Could Spend Less Time Chasing Software Projects?]]></title>
-        <id>https://dev.to/yamahaito/what-if-you-could-spend-less-time-chasing-software-projects-12ob</id>
-        <link href="https://dev.to/yamahaito/what-if-you-could-spend-less-time-chasing-software-projects-12ob"/>
+        <title type="html"><![CDATA[Halo: Improving forecast accuracy through heteroscedastic estimation]]></title>
+        <id>https://arxiv.org/abs/2609.10589</id>
+        <link href="https://arxiv.org/abs/2609.10589"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We tested "JSON-LD only" article extraction against 8 real news sites. It got 0.]]></title>
-        <id>https://dev.to/fetchsmith/we-tested-json-ld-only-article-extraction-against-8-real-news-sites-it-got-0-1377</id>
-        <link href="https://dev.to/fetchsmith/we-tested-json-ld-only-article-extraction-against-8-real-news-sites-it-got-0-1377"/>
+        <title type="html"><![CDATA[Artificial Intelligence Algorithms for the Detection of Pathologies Related to Lung Cancer through Image Analysis using Convolutional Neural Networks and Data Augmentation: a systematic mapping of the literature]]></title>
+        <id>https://arxiv.org/abs/2609.10652</id>
+        <link href="https://arxiv.org/abs/2609.10652"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why JWT Verification Breaks in Production: 5 Token Traps Every Engineer Hits]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-jwt-verification-breaks-in-production-5-token-traps-every-engineer-hits-2o4k</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-jwt-verification-breaks-in-production-5-token-traps-every-engineer-hits-2o4k"/>
+        <title type="html"><![CDATA[A Bellman Optimality Equation for Plasticity]]></title>
+        <id>https://arxiv.org/abs/2609.10776</id>
+        <link href="https://arxiv.org/abs/2609.10776"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Built 100 Vanilla JS Components Because I Was Tired of React]]></title>
-        <id>https://dev.to/guardrailengine/built-100-vanilla-js-components-because-i-was-tired-of-react-oh2</id>
-        <link href="https://dev.to/guardrailengine/built-100-vanilla-js-components-because-i-was-tired-of-react-oh2"/>
+        <title type="html"><![CDATA[When More Is Not Better: Component Anti-Synergy in a P300 Speller]]></title>
+        <id>https://arxiv.org/abs/2609.10961</id>
+        <link href="https://arxiv.org/abs/2609.10961"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Football Formation Builder with Vanilla JavaScript]]></title>
-        <id>https://dev.to/sam911/how-i-built-a-football-formation-builder-with-vanilla-javascript-4f1</id>
-        <link href="https://dev.to/sam911/how-i-built-a-football-formation-builder-with-vanilla-javascript-4f1"/>
+        <title type="html"><![CDATA[Phases in a class of associative memories via hidden neurons]]></title>
+        <id>https://arxiv.org/abs/2609.10976</id>
+        <link href="https://arxiv.org/abs/2609.10976"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
-        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-5h1n</id>
-        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-5h1n"/>
+        <title type="html"><![CDATA[EGGROLL, Unrolled: Understanding and Improving Low-Rank Evolution Strategies at Scale]]></title>
+        <id>https://arxiv.org/abs/2609.10980</id>
+        <link href="https://arxiv.org/abs/2609.10980"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[maxresdefault.jpg is missing for 1 in 9 YouTube videos, and the 404 still renders. What 8,664 videos showed.]]></title>
-        <id>https://dev.to/cdwm/maxresdefaultjpg-is-missing-for-1-in-9-youtube-videos-and-the-404-still-renders-what-8664-40p4</id>
-        <link href="https://dev.to/cdwm/maxresdefaultjpg-is-missing-for-1-in-9-youtube-videos-and-the-404-still-renders-what-8664-40p4"/>
+        <title type="html"><![CDATA[Importance Weighting for Unlabeled-unlabeled Learning under Distribution Shift]]></title>
+        <id>https://arxiv.org/abs/2609.10994</id>
+        <link href="https://arxiv.org/abs/2609.10994"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The UN voted to drop the Mercator map. Here's exactly how wrong it was, measured.]]></title>
-        <id>https://dev.to/lucian_lkb_1f009d/the-un-voted-to-drop-the-mercator-map-heres-exactly-how-wrong-it-was-measured-4d81</id>
-        <link href="https://dev.to/lucian_lkb_1f009d/the-un-voted-to-drop-the-mercator-map-heres-exactly-how-wrong-it-was-measured-4d81"/>
+        <title type="html"><![CDATA[Topological Necessities: Mechanism-Invariant Strategic Subgoals for Cross-Embodiment Goal-Conditioned Control]]></title>
+        <id>https://arxiv.org/abs/2609.11014</id>
+        <link href="https://arxiv.org/abs/2609.11014"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unix Timestamps Explained: A Practical Guide for Developers]]></title>
-        <id>https://dev.to/sam_ybs/unix-timestamps-explained-a-practical-guide-for-developers-cdd</id>
-        <link href="https://dev.to/sam_ybs/unix-timestamps-explained-a-practical-guide-for-developers-cdd"/>
+        <title type="html"><![CDATA[EMMI: Edge Multi-Modal Intelligence for Communication-Efficient MLLM Inference via Fused Representation Compression]]></title>
+        <id>https://arxiv.org/abs/2609.11058</id>
+        <link href="https://arxiv.org/abs/2609.11058"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learning Web Development Is Easier When You Build Real Projects]]></title>
-        <id>https://dev.to/webprims/learning-web-development-is-easier-when-you-build-real-projects-1apf</id>
-        <link href="https://dev.to/webprims/learning-web-development-is-easier-when-you-build-real-projects-1apf"/>
+        <title type="html"><![CDATA[HERALD: High-Fidelity Exemplar Retrieval with Adaptive Landmark Distillation for Heterophily-Aware Graph Condensation]]></title>
+        <id>https://arxiv.org/abs/2609.11123</id>
+        <link href="https://arxiv.org/abs/2609.11123"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BeeTime — Documentazione Tecnica (BeeEngine)]]></title>
-        <id>https://dev.to/antonioprosperi2svg/beetime-documentazione-tecnica-beeengine-gp0</id>
-        <link href="https://dev.to/antonioprosperi2svg/beetime-documentazione-tecnica-beeengine-gp0"/>
+        <title type="html"><![CDATA[Bidirectional Multimodal Fusion of Sky Images and Time-Series for Solar Forecasting with Large Language Models]]></title>
+        <id>https://arxiv.org/abs/2609.11135</id>
+        <link href="https://arxiv.org/abs/2609.11135"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Standard RAG is Failing You: How GraphRAG Combines Vector Search with Knowledge Graphs for Zero Hallucinations]]></title>
-        <id>https://dev.to/programmingcentral/why-standard-rag-is-failing-you-how-graphrag-combines-vector-search-with-knowledge-graphs-for-zero-1hcc</id>
-        <link href="https://dev.to/programmingcentral/why-standard-rag-is-failing-you-how-graphrag-combines-vector-search-with-knowledge-graphs-for-zero-1hcc"/>
+        <title type="html"><![CDATA[Semi-Tensor Product-Based Multi-Term Randomized T-SVD and Its Visual Applications]]></title>
+        <id>https://arxiv.org/abs/2609.11168</id>
+        <link href="https://arxiv.org/abs/2609.11168"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I built a 100% Client-Side JSON Beautifier & Web Tools Suite]]></title>
-        <id>https://dev.to/ads_wala_0ac2e84776dae045/why-i-built-a-100-client-side-json-beautifier-web-tools-suite-ak</id>
-        <link href="https://dev.to/ads_wala_0ac2e84776dae045/why-i-built-a-100-client-side-json-beautifier-web-tools-suite-ak"/>
+        <title type="html"><![CDATA[Hierarchical Clustering Can Jointly Satisfy Richness, Consistency, and Scale Invariance]]></title>
+        <id>https://arxiv.org/abs/2609.11173</id>
+        <link href="https://arxiv.org/abs/2609.11173"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Metrice: Zero-dependency post-quantum P2P mesh network]]></title>
-        <id>https://dev.to/gokturka/metrice-zero-dependency-post-quantum-p2p-mesh-network-33ae</id>
-        <link href="https://dev.to/gokturka/metrice-zero-dependency-post-quantum-p2p-mesh-network-33ae"/>
+        <title type="html"><![CDATA[Convex Optimization with Nested Evolving Feasible Sets (CONES) under Time-Varying Loss Functions]]></title>
+        <id>https://arxiv.org/abs/2609.11207</id>
+        <link href="https://arxiv.org/abs/2609.11207"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I tried to live an entire day inside apps built with Expo. Here's where it broke.]]></title>
-        <id>https://dev.to/expo/i-tried-to-live-an-entire-day-inside-apps-built-with-expo-heres-where-it-broke-j5d</id>
-        <link href="https://dev.to/expo/i-tried-to-live-an-entire-day-inside-apps-built-with-expo-heres-where-it-broke-j5d"/>
+        <title type="html"><![CDATA[REVA: Reusable Evidence View Aggregation for Context-Efficient RAG Serving]]></title>
+        <id>https://arxiv.org/abs/2609.11209</id>
+        <link href="https://arxiv.org/abs/2609.11209"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dựng remote MCP server trên Next.js: OAuth và 5 cái bẫy]]></title>
-        <id>https://dev.to/bean_bean/dung-remote-mcp-server-tren-nextjs-oauth-va-5-cai-bay-33hl</id>
-        <link href="https://dev.to/bean_bean/dung-remote-mcp-server-tren-nextjs-oauth-va-5-cai-bay-33hl"/>
+        <title type="html"><![CDATA[Legible Failures: Detecting and Repairing In-Context Binding Errors]]></title>
+        <id>https://arxiv.org/abs/2609.11216</id>
+        <link href="https://arxiv.org/abs/2609.11216"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[List Comprehensions, Generators, and When to Use Each: A Pythonic Journey Through The Matrix]]></title>
-        <id>https://dev.to/timevolt/list-comprehensions-generators-and-when-to-use-each-a-pythonic-journey-through-the-matrix-4dbo</id>
-        <link href="https://dev.to/timevolt/list-comprehensions-generators-and-when-to-use-each-a-pythonic-journey-through-the-matrix-4dbo"/>
+        <title type="html"><![CDATA[Solving Few-Shot Multiobjective Multitask Optimization via Iterative Sequential Transfer]]></title>
+        <id>https://arxiv.org/abs/2609.11228</id>
+        <link href="https://arxiv.org/abs/2609.11228"/>
         <updated>2026-09-10T16:00:00.000Z</updated>
         <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Another big James Talarico interview is punted to YouTube due to FCC threats]]></title>
-        <id>https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico</id>
-        <link href="https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Local Robustness Quantification for Naive Bayes Classifiers and Generative Forests: a General Approach]]></title>
+        <id>https://arxiv.org/abs/2609.11366</id>
+        <link href="https://arxiv.org/abs/2609.11366"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snapchat makes it easier to plan events and meetups]]></title>
-        <id>https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups</id>
-        <link href="https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Prevalence Determines Precision:Silent Contamination in Detector-Defined Datasets]]></title>
+        <id>https://arxiv.org/abs/2609.11449</id>
+        <link href="https://arxiv.org/abs/2609.11449"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verge staffers react to the iPhone Duo: What we love and don’t love]]></title>
-        <id>https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react</id>
-        <link href="https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Generalized Score Matching for Parameter Estimation on Convex Domains]]></title>
+        <id>https://arxiv.org/abs/2609.11521</id>
+        <link href="https://arxiv.org/abs/2609.11521"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s new iPhone camera mode promises to prove your photo isn’t AI]]></title>
-        <id>https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image</id>
-        <link href="https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A Dataset and Model for Imputing Water Surface Elevation on a Large and Extremely Sparse Spatiotemporal Graph]]></title>
+        <id>https://arxiv.org/abs/2609.11580</id>
+        <link href="https://arxiv.org/abs/2609.11580"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4]]></title>
-        <id>https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4</id>
-        <link href="https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics]]></title>
+        <id>https://arxiv.org/abs/2609.11639</id>
+        <link href="https://arxiv.org/abs/2609.11639"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here’s how the new iPhone 18 Pro stacks up to the last-gen models]]></title>
-        <id>https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features</id>
-        <link href="https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation]]></title>
+        <id>https://arxiv.org/abs/2609.11648</id>
+        <link href="https://arxiv.org/abs/2609.11648"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple brought ceramic back for the Series 12]]></title>
-        <id>https://www.theverge.com/tech/989427/ceramic-apple-watch-series-12-edition</id>
-        <link href="https://www.theverge.com/tech/989427/ceramic-apple-watch-series-12-edition"/>
-        <updated>2026-09-09T16:00:00.000Z</updated>
-        <published>2026-09-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Why Does Post-Training Quantization Work?]]></title>
+        <id>https://arxiv.org/abs/2609.11716</id>
+        <link href="https://arxiv.org/abs/2609.11716"/>
+        <updated>2026-09-10T16:00:00.000Z</updated>
+        <published>2026-09-10T16:00:00.000Z</published>
     </entry>
 </feed>
