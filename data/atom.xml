@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-12T02:01:27.540Z</updated>
+    <updated>2026-09-12T04:01:14.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -92,156 +92,37 @@
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI: "We use ... de-identified data to improve ChatGPT"]]></title>
-        <id>https://twitter.com/markchen90/status/2097400166554993041</id>
-        <link href="https://twitter.com/markchen90/status/2097400166554993041"/>
+        <title type="html"><![CDATA[How to Detect Residential Proxies]]></title>
+        <id>https://news.ycombinator.com/item?id=49668557</id>
+        <link href="https://news.ycombinator.com/item?id=49668557"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dopamine Sites Sell Nothing, and People Cannot Get Enough]]></title>
-        <id>https://www.nytimes.com/2026/09/11/world/asia/dopamine-sites-popularity.html</id>
-        <link href="https://www.nytimes.com/2026/09/11/world/asia/dopamine-sites-popularity.html"/>
+        <title type="html"><![CDATA[Google no longer provides direct URLs in search results]]></title>
+        <id>https://www.autom.dev/blog/google-search-goto-links</id>
+        <link href="https://www.autom.dev/blog/google-search-goto-links"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reduced AI cheating on a long task from 72% to 0 with 190 token agreement prompt]]></title>
-        <id>https://www.echohive.ai/grok-integrity-agreement-less-cheating</id>
-        <link href="https://www.echohive.ai/grok-integrity-agreement-less-cheating"/>
+        <title type="html"><![CDATA[Rare Earth Magnets: China Found Something Better Than Oil [video]]]></title>
+        <id>https://www.youtube.com/watch?v=BXLGV0Sj0n8</id>
+        <link href="https://www.youtube.com/watch?v=BXLGV0Sj0n8"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Last Essay]]></title>
-        <id>https://medium.com/human-parts/the-last-essay-e8ad0b0aa921</id>
-        <link href="https://medium.com/human-parts/the-last-essay-e8ad0b0aa921"/>
+        <title type="html"><![CDATA[Arguments for Apple enthusiasts whenever an Android user]]></title>
+        <id>https://blog.webb.page/WM-103</id>
+        <link href="https://blog.webb.page/WM-103"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[river-classic - dynamic tiling Wayland compositor with flexible configuration]]></title>
-        <id>https://codeberg.org/river/river-classic</id>
-        <link href="https://codeberg.org/river/river-classic"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aiope – An on-device AI agent for Android (terminal, browser, SSH, MCP)]]></title>
-        <id>https://github.com/XNet-NGO/aiope</id>
-        <link href="https://github.com/XNet-NGO/aiope"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Claude Read Aloud – Hear Claude's Replies Instead of Reading]]></title>
-        <id>https://github.com/MichaelPGifford/claude-read-aloud</id>
-        <link href="https://github.com/MichaelPGifford/claude-read-aloud"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Loop Pedal for Video]]></title>
-        <id>https://github.com/haxybaxy/video-pedal</id>
-        <link href="https://github.com/haxybaxy/video-pedal"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Is Changing Audio Restoration in 2026]]></title>
-        <id>https://audioconverterai.io/blog/ai-audio-restoration</id>
-        <link href="https://audioconverterai.io/blog/ai-audio-restoration"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Spanda – Sub-microsecond LLM epistemic uncertainty in Rust]]></title>
-        <id>https://github.com/Adarshent/Spnda</id>
-        <link href="https://github.com/Adarshent/Spnda"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues]]></title>
-        <id>https://github.com/mirza-rizvi/ResolveHQ</id>
-        <link href="https://github.com/mirza-rizvi/ResolveHQ"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreelanceFend – AI web app and extension to screen freelance clients]]></title>
-        <id>https://www.freelancefend.com/</id>
-        <link href="https://www.freelancefend.com/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASCII City Update 3: Maps and Exploration Update [video]]]></title>
-        <id>https://www.youtube.com/watch?v=SNJyKjfB8fY</id>
-        <link href="https://www.youtube.com/watch?v=SNJyKjfB8fY"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Latest Wealth Flex: Big Trees]]></title>
-        <id>https://www.nytimes.com/2026/09/05/style/the-latest-wealth-flex-big-trees.html</id>
-        <link href="https://www.nytimes.com/2026/09/05/style/the-latest-wealth-flex-big-trees.html"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yojam: A macOS default-browser shim that routes URLs through a rule engine]]></title>
-        <id>https://github.com/fluffypony/yojam</id>
-        <link href="https://github.com/fluffypony/yojam"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6 built this earth exploration site in 5 prompts]]></title>
-        <id>https://earth.ethanplus.ai/</id>
-        <link href="https://earth.ethanplus.ai/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fermyon – Deploy and manage serverless WASM apps]]></title>
-        <id>https://www.fermyon.com/cloud</id>
-        <link href="https://www.fermyon.com/cloud"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI agents carried out an undisclosed attack on RubyGems]]></title>
-        <id>https://www.rubyhack.ai/</id>
-        <link href="https://www.rubyhack.ai/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs]]></title>
-        <id>https://www.firecrawl.dev/blog/ai-software-factory</id>
-        <link href="https://www.firecrawl.dev/blog/ai-software-factory"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[102 Minutes: Last Words at the Trade Center; Fighting to Live as the Towers Die]]></title>
-        <id>https://www.nytimes.com/2002/05/26/nyregion/102-minutes-last-words-at-the-trade-center-fighting-to-live-as-the-towers-die.html</id>
-        <link href="https://www.nytimes.com/2002/05/26/nyregion/102-minutes-last-words-at-the-trade-center-fighting-to-live-as-the-towers-die.html"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astroturfing on Reddit and the Dead Internet]]></title>
-        <id>https://rushter.com/blog/astroturfing/</id>
-        <link href="https://rushter.com/blog/astroturfing/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fileless ELF Execution via O_tmpfile]]></title>
-        <id>https://matheuzsecurity.github.io/hacking/fileless-loader-bypassing-elastic-memfd/</id>
-        <link href="https://matheuzsecurity.github.io/hacking/fileless-loader-bypassing-elastic-memfd/"/>
+        <title type="html"><![CDATA[Save 80% for video generations. OpenRouter for videos and images]]></title>
+        <id>https://videorouter.sh/</id>
+        <link href="https://videorouter.sh/"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
@@ -253,9 +134,156 @@
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Save 80% for video generations. OpenRouter for videos and images]]></title>
-        <id>https://videorouter.sh/</id>
-        <link href="https://videorouter.sh/"/>
+        <title type="html"><![CDATA[Fileless ELF Execution via O_tmpfile]]></title>
+        <id>https://matheuzsecurity.github.io/hacking/fileless-loader-bypassing-elastic-memfd/</id>
+        <link href="https://matheuzsecurity.github.io/hacking/fileless-loader-bypassing-elastic-memfd/"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astroturfing on Reddit and the Dead Internet]]></title>
+        <id>https://rushter.com/blog/astroturfing/</id>
+        <link href="https://rushter.com/blog/astroturfing/"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[102 Minutes: Last Words at the Trade Center; Fighting to Live as the Towers Die]]></title>
+        <id>https://www.nytimes.com/2002/05/26/nyregion/102-minutes-last-words-at-the-trade-center-fighting-to-live-as-the-towers-die.html</id>
+        <link href="https://www.nytimes.com/2002/05/26/nyregion/102-minutes-last-words-at-the-trade-center-fighting-to-live-as-the-towers-die.html"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs]]></title>
+        <id>https://www.firecrawl.dev/blog/ai-software-factory</id>
+        <link href="https://www.firecrawl.dev/blog/ai-software-factory"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI agents carried out an undisclosed attack on RubyGems]]></title>
+        <id>https://www.rubyhack.ai/</id>
+        <link href="https://www.rubyhack.ai/"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fermyon – Deploy and manage serverless WASM apps]]></title>
+        <id>https://www.fermyon.com/cloud</id>
+        <link href="https://www.fermyon.com/cloud"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-6 built this earth exploration site in 5 prompts]]></title>
+        <id>https://earth.ethanplus.ai/</id>
+        <link href="https://earth.ethanplus.ai/"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yojam: A macOS default-browser shim that routes URLs through a rule engine]]></title>
+        <id>https://github.com/fluffypony/yojam</id>
+        <link href="https://github.com/fluffypony/yojam"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Latest Wealth Flex: Big Trees]]></title>
+        <id>https://www.nytimes.com/2026/09/05/style/the-latest-wealth-flex-big-trees.html</id>
+        <link href="https://www.nytimes.com/2026/09/05/style/the-latest-wealth-flex-big-trees.html"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASCII City Update 3: Maps and Exploration Update [video]]]></title>
+        <id>https://www.youtube.com/watch?v=SNJyKjfB8fY</id>
+        <link href="https://www.youtube.com/watch?v=SNJyKjfB8fY"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreelanceFend – AI web app and extension to screen freelance clients]]></title>
+        <id>https://www.freelancefend.com/</id>
+        <link href="https://www.freelancefend.com/"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues]]></title>
+        <id>https://github.com/mirza-rizvi/ResolveHQ</id>
+        <link href="https://github.com/mirza-rizvi/ResolveHQ"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Spanda – Sub-microsecond LLM epistemic uncertainty in Rust]]></title>
+        <id>https://github.com/Adarshent/Spnda</id>
+        <link href="https://github.com/Adarshent/Spnda"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Is Changing Audio Restoration in 2026]]></title>
+        <id>https://audioconverterai.io/blog/ai-audio-restoration</id>
+        <link href="https://audioconverterai.io/blog/ai-audio-restoration"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Loop Pedal for Video]]></title>
+        <id>https://github.com/haxybaxy/video-pedal</id>
+        <link href="https://github.com/haxybaxy/video-pedal"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Claude Read Aloud – Hear Claude's Replies Instead of Reading]]></title>
+        <id>https://github.com/MichaelPGifford/claude-read-aloud</id>
+        <link href="https://github.com/MichaelPGifford/claude-read-aloud"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aiope – An on-device AI agent for Android (terminal, browser, SSH, MCP)]]></title>
+        <id>https://github.com/XNet-NGO/aiope</id>
+        <link href="https://github.com/XNet-NGO/aiope"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[river-classic - dynamic tiling Wayland compositor with flexible configuration]]></title>
+        <id>https://codeberg.org/river/river-classic</id>
+        <link href="https://codeberg.org/river/river-classic"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last Essay]]></title>
+        <id>https://medium.com/human-parts/the-last-essay-e8ad0b0aa921</id>
+        <link href="https://medium.com/human-parts/the-last-essay-e8ad0b0aa921"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reduced AI cheating on a long task from 72% to 0 with 190 token agreement prompt]]></title>
+        <id>https://www.echohive.ai/grok-integrity-agreement-less-cheating</id>
+        <link href="https://www.echohive.ai/grok-integrity-agreement-less-cheating"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dopamine Sites Sell Nothing, and People Cannot Get Enough]]></title>
+        <id>https://www.nytimes.com/2026/09/11/world/asia/dopamine-sites-popularity.html</id>
+        <link href="https://www.nytimes.com/2026/09/11/world/asia/dopamine-sites-popularity.html"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI: "We use ... de-identified data to improve ChatGPT"]]></title>
+        <id>https://twitter.com/markchen90/status/2097400166554993041</id>
+        <link href="https://twitter.com/markchen90/status/2097400166554993041"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
@@ -333,34 +361,6 @@
         <title type="html"><![CDATA[Asabeneh/30-Days-Of-JavaScript]]></title>
         <id>https://github.com/Asabeneh/30-Days-Of-JavaScript</id>
         <link href="https://github.com/Asabeneh/30-Days-Of-JavaScript"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a free in-browser video compressor — the file never leaves your device]]></title>
-        <id>https://dev.to/breezefeng/i-built-a-free-in-browser-video-compressor-the-file-never-leaves-your-device-52pk</id>
-        <link href="https://dev.to/breezefeng/i-built-a-free-in-browser-video-compressor-the-file-never-leaves-your-device-52pk"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resize Images in Your Browser — No Upload, No Server, Free]]></title>
-        <id>https://dev.to/toolzip/resize-images-in-your-browser-no-upload-no-server-free-g85</id>
-        <link href="https://dev.to/toolzip/resize-images-in-your-browser-no-upload-no-server-free-g85"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a random chat where language doesn't matter: WebRTC, relay as a condition, and live translated captions]]></title>
-        <id>https://dev.to/vasiliy_shkitin/building-a-random-chat-where-language-doesnt-matter-webrtc-relay-as-a-condition-and-live-315g</id>
-        <link href="https://dev.to/vasiliy_shkitin/building-a-random-chat-where-language-doesnt-matter-webrtc-relay-as-a-condition-and-live-315g"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building iEditPDF.in: A Free, Privacy-First Online PDF & Image Suite]]></title>
-        <id>https://dev.to/vipsukhul/building-ieditpdfin-a-free-privacy-first-online-pdf-image-suite-1h18</id>
-        <link href="https://dev.to/vipsukhul/building-ieditpdfin-a-free-privacy-first-online-pdf-image-suite-1h18"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
