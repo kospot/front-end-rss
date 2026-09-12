@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-12T15:03:00.210Z</updated>
+    <updated>2026-09-12T22:01:59.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,16 +22,65 @@
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matt Mullenweg returns as Automattic CEO two days after getting booted]]></title>
-        <id>https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return</id>
-        <link href="https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[OpenAI’s rogue AI tried to hack another company in May]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QuiteAFancyEmerald/InvisiProxy]]></title>
+        <id>https://github.com/QuiteAFancyEmerald/InvisiProxy</id>
+        <link href="https://github.com/QuiteAFancyEmerald/InvisiProxy"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a ReDoS scanner that proves each bug offline — and hands you a verified fix]]></title>
+        <id>https://dev.to/aurelionakamura/i-built-a-redos-scanner-that-proves-each-bug-offline-and-hands-you-a-verified-fix-3a5e</id>
+        <link href="https://dev.to/aurelionakamura/i-built-a-redos-scanner-that-proves-each-bug-offline-and-hands-you-a-verified-fix-3a5e"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
+        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-1kdl</id>
+        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-1kdl"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop AI Hallucinations: Building Zero-Hallucination Inference Engines in TypeScript with json-rules-engine and N3]]></title>
+        <id>https://dev.to/programmingcentral/stop-ai-hallucinations-building-zero-hallucination-inference-engines-in-typescript-with-18ih</id>
+        <link href="https://dev.to/programmingcentral/stop-ai-hallucinations-building-zero-hallucination-inference-engines-in-typescript-with-18ih"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which US-Based Software Development Companies Offer the Best Custom Software Solutions?]]></title>
+        <id>https://dev.to/edwardsinclair/which-us-based-software-development-companies-offer-the-best-custom-software-solutions-5bok</id>
+        <link href="https://dev.to/edwardsinclair/which-us-based-software-development-companies-offer-the-best-custom-software-solutions-5bok"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ship fewer JS threads — a React Native interaction budget]]></title>
+        <id>https://dev.to/itsashis4u/ship-fewer-js-threads-a-react-native-interaction-budget-105n</id>
+        <link href="https://dev.to/itsashis4u/ship-fewer-js-threads-a-react-native-interaction-budget-105n"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic spent this week in hot water over cybersecurity]]></title>
         <id>https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity</id>
         <link href="https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matt Mullenweg returns as Automattic CEO two days after getting booted]]></title>
+        <id>https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return</id>
+        <link href="https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
@@ -64,30 +113,9 @@
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO]]></title>
-        <id>https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/</id>
-        <link href="https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ]]></title>
-        <id>https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/</id>
-        <link href="https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roblox is making it easier to build games with AI — and play them outside Roblox]]></title>
-        <id>https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/</id>
-        <link href="https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kimi-maker Moonshot AI targets $2B in annual revenue]]></title>
-        <id>https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/</id>
-        <link href="https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/"/>
+        <title type="html"><![CDATA[Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road]]></title>
+        <id>https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/</id>
+        <link href="https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
@@ -99,9 +127,30 @@
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road]]></title>
-        <id>https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/</id>
-        <link href="https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/"/>
+        <title type="html"><![CDATA[Kimi-maker Moonshot AI targets $2B in annual revenue]]></title>
+        <id>https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/</id>
+        <link href="https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roblox is making it easier to build games with AI — and play them outside Roblox]]></title>
+        <id>https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/</id>
+        <link href="https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ]]></title>
+        <id>https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/</id>
+        <link href="https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO]]></title>
+        <id>https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/</id>
+        <link href="https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
@@ -312,55 +361,6 @@
         <title type="html"><![CDATA[Yojam: A macOS default-browser shim that routes URLs through a rule engine]]></title>
         <id>https://github.com/fluffypony/yojam</id>
         <link href="https://github.com/fluffypony/yojam"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6 built this earth exploration site in 5 prompts]]></title>
-        <id>https://earth.ethanplus.ai/</id>
-        <link href="https://earth.ethanplus.ai/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fermyon – Deploy and manage serverless WASM apps]]></title>
-        <id>https://www.fermyon.com/cloud</id>
-        <link href="https://www.fermyon.com/cloud"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI agents carried out an undisclosed attack on RubyGems]]></title>
-        <id>https://www.rubyhack.ai/</id>
-        <link href="https://www.rubyhack.ai/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs]]></title>
-        <id>https://www.firecrawl.dev/blog/ai-software-factory</id>
-        <link href="https://www.firecrawl.dev/blog/ai-software-factory"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[102 Minutes: Last Words at the Trade Center; Fighting to Live as the Towers Die]]></title>
-        <id>https://www.nytimes.com/2002/05/26/nyregion/102-minutes-last-words-at-the-trade-center-fighting-to-live-as-the-towers-die.html</id>
-        <link href="https://www.nytimes.com/2002/05/26/nyregion/102-minutes-last-words-at-the-trade-center-fighting-to-live-as-the-towers-die.html"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astroturfing on Reddit and the Dead Internet]]></title>
-        <id>https://rushter.com/blog/astroturfing/</id>
-        <link href="https://rushter.com/blog/astroturfing/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fileless ELF Execution via O_tmpfile]]></title>
-        <id>https://matheuzsecurity.github.io/hacking/fileless-loader-bypassing-elastic-memfd/</id>
-        <link href="https://matheuzsecurity.github.io/hacking/fileless-loader-bypassing-elastic-memfd/"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
