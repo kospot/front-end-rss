@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-12T00:01:55.137Z</updated>
+    <updated>2026-09-12T02:01:27.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Perplexity trusts GPT-6 Astra with end-to-end systems]]></title>
+        <id>https://openai.com/index/perplexity-improving-accuracy-with-astra</id>
+        <link href="https://openai.com/index/perplexity-improving-accuracy-with-astra"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Matt Mullenweg returns as Automattic CEO two days after getting booted]]></title>
         <id>https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return</id>
@@ -85,121 +92,44 @@
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Save 80% for video generations. OpenRouter for videos and images]]></title>
-        <id>https://videorouter.sh/</id>
-        <link href="https://videorouter.sh/"/>
+        <title type="html"><![CDATA[OpenAI: "We use ... de-identified data to improve ChatGPT"]]></title>
+        <id>https://twitter.com/markchen90/status/2097400166554993041</id>
+        <link href="https://twitter.com/markchen90/status/2097400166554993041"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A burst of "pink noise" may lead to more restorative sleep]]></title>
-        <id>https://news.mit.edu/2026/pink-noise-burst-may-mean-more-restorative-sleep-0909</id>
-        <link href="https://news.mit.edu/2026/pink-noise-burst-may-mean-more-restorative-sleep-0909"/>
+        <title type="html"><![CDATA[Dopamine Sites Sell Nothing, and People Cannot Get Enough]]></title>
+        <id>https://www.nytimes.com/2026/09/11/world/asia/dopamine-sites-popularity.html</id>
+        <link href="https://www.nytimes.com/2026/09/11/world/asia/dopamine-sites-popularity.html"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fileless ELF Execution via O_tmpfile]]></title>
-        <id>https://matheuzsecurity.github.io/hacking/fileless-loader-bypassing-elastic-memfd/</id>
-        <link href="https://matheuzsecurity.github.io/hacking/fileless-loader-bypassing-elastic-memfd/"/>
+        <title type="html"><![CDATA[Reduced AI cheating on a long task from 72% to 0 with 190 token agreement prompt]]></title>
+        <id>https://www.echohive.ai/grok-integrity-agreement-less-cheating</id>
+        <link href="https://www.echohive.ai/grok-integrity-agreement-less-cheating"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astroturfing on Reddit and the Dead Internet]]></title>
-        <id>https://rushter.com/blog/astroturfing/</id>
-        <link href="https://rushter.com/blog/astroturfing/"/>
+        <title type="html"><![CDATA[The Last Essay]]></title>
+        <id>https://medium.com/human-parts/the-last-essay-e8ad0b0aa921</id>
+        <link href="https://medium.com/human-parts/the-last-essay-e8ad0b0aa921"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[102 Minutes: Last Words at the Trade Center; Fighting to Live as the Towers Die]]></title>
-        <id>https://www.nytimes.com/2002/05/26/nyregion/102-minutes-last-words-at-the-trade-center-fighting-to-live-as-the-towers-die.html</id>
-        <link href="https://www.nytimes.com/2002/05/26/nyregion/102-minutes-last-words-at-the-trade-center-fighting-to-live-as-the-towers-die.html"/>
+        <title type="html"><![CDATA[river-classic - dynamic tiling Wayland compositor with flexible configuration]]></title>
+        <id>https://codeberg.org/river/river-classic</id>
+        <link href="https://codeberg.org/river/river-classic"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs]]></title>
-        <id>https://www.firecrawl.dev/blog/ai-software-factory</id>
-        <link href="https://www.firecrawl.dev/blog/ai-software-factory"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI agents carried out an undisclosed attack on RubyGems]]></title>
-        <id>https://www.rubyhack.ai/</id>
-        <link href="https://www.rubyhack.ai/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fermyon – Deploy and manage serverless WASM apps]]></title>
-        <id>https://www.fermyon.com/cloud</id>
-        <link href="https://www.fermyon.com/cloud"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6 built this earth exploration site in 5 prompts]]></title>
-        <id>https://earth.ethanplus.ai/</id>
-        <link href="https://earth.ethanplus.ai/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yojam: A macOS default-browser shim that routes URLs through a rule engine]]></title>
-        <id>https://github.com/fluffypony/yojam</id>
-        <link href="https://github.com/fluffypony/yojam"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Latest Wealth Flex: Big Trees]]></title>
-        <id>https://www.nytimes.com/2026/09/05/style/the-latest-wealth-flex-big-trees.html</id>
-        <link href="https://www.nytimes.com/2026/09/05/style/the-latest-wealth-flex-big-trees.html"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASCII City Update 3: Maps and Exploration Update [video]]]></title>
-        <id>https://www.youtube.com/watch?v=SNJyKjfB8fY</id>
-        <link href="https://www.youtube.com/watch?v=SNJyKjfB8fY"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreelanceFend – AI web app and extension to screen freelance clients]]></title>
-        <id>https://www.freelancefend.com/</id>
-        <link href="https://www.freelancefend.com/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues]]></title>
-        <id>https://github.com/mirza-rizvi/ResolveHQ</id>
-        <link href="https://github.com/mirza-rizvi/ResolveHQ"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Spanda – Sub-microsecond LLM epistemic uncertainty in Rust]]></title>
-        <id>https://github.com/Adarshent/Spnda</id>
-        <link href="https://github.com/Adarshent/Spnda"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Is Changing Audio Restoration in 2026]]></title>
-        <id>https://audioconverterai.io/blog/ai-audio-restoration</id>
-        <link href="https://audioconverterai.io/blog/ai-audio-restoration"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Loop Pedal for Video]]></title>
-        <id>https://github.com/haxybaxy/video-pedal</id>
-        <link href="https://github.com/haxybaxy/video-pedal"/>
+        <title type="html"><![CDATA[Aiope – An on-device AI agent for Android (terminal, browser, SSH, MCP)]]></title>
+        <id>https://github.com/XNet-NGO/aiope</id>
+        <link href="https://github.com/XNet-NGO/aiope"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
@@ -211,44 +141,128 @@
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-6 Astra’s 1M Context Window Is a Trap here is why]]></title>
-        <id>https://pub.towardsai.net/gpt-6-astras-1m-context-window-is-a-trap-here-is-why-15a8cba3a9fc?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/gpt-6-astras-1m-context-window-is-a-trap-here-is-why-15a8cba3a9fc?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Loop Pedal for Video]]></title>
+        <id>https://github.com/haxybaxy/video-pedal</id>
+        <link href="https://github.com/haxybaxy/video-pedal"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Insane! Run Kimi K3, 2.8 Trillion Parameters, on a Single 4GB GPU]]></title>
-        <id>https://pub.towardsai.net/insane-run-kimi-k3-2-8-trillion-parameters-on-a-single-4gb-gpu-33ab8a8eec94?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/insane-run-kimi-k3-2-8-trillion-parameters-on-a-single-4gb-gpu-33ab8a8eec94?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How AI Is Changing Audio Restoration in 2026]]></title>
+        <id>https://audioconverterai.io/blog/ai-audio-restoration</id>
+        <link href="https://audioconverterai.io/blog/ai-audio-restoration"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Text-to-SQL Agent in Python: LLM Tool Calling Tutorial]]></title>
-        <id>https://pub.towardsai.net/text-to-sql-agent-in-python-llm-tool-calling-tutorial-a664c3276a43?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/text-to-sql-agent-in-python-llm-tool-calling-tutorial-a664c3276a43?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Spanda – Sub-microsecond LLM epistemic uncertainty in Rust]]></title>
+        <id>https://github.com/Adarshent/Spnda</id>
+        <link href="https://github.com/Adarshent/Spnda"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Two Days of EDA to “Solve This Competition”: A Kaggle Workflow, Compressed]]></title>
-        <id>https://pub.towardsai.net/from-two-days-of-eda-to-solve-this-competition-a-kaggle-workflow-compressed-aa5cea49c416?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/from-two-days-of-eda-to-solve-this-competition-a-kaggle-workflow-compressed-aa5cea49c416?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues]]></title>
+        <id>https://github.com/mirza-rizvi/ResolveHQ</id>
+        <link href="https://github.com/mirza-rizvi/ResolveHQ"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data Engineers Are No Longer Just Moving Data. They Are Becoming Trust Engineers.]]></title>
-        <id>https://pub.towardsai.net/data-engineers-are-no-longer-just-moving-data-they-are-becoming-trust-engineers-56746802174d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/data-engineers-are-no-longer-just-moving-data-they-are-becoming-trust-engineers-56746802174d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[FreelanceFend – AI web app and extension to screen freelance clients]]></title>
+        <id>https://www.freelancefend.com/</id>
+        <link href="https://www.freelancefend.com/"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Rebuilt My Laravel API’s Auth Layer With an AI Code Reviewer.]]></title>
-        <id>https://pub.towardsai.net/i-rebuilt-my-laravel-apis-auth-layer-with-an-ai-code-reviewer-33fd6cddbda7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-rebuilt-my-laravel-apis-auth-layer-with-an-ai-code-reviewer-33fd6cddbda7?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[ASCII City Update 3: Maps and Exploration Update [video]]]></title>
+        <id>https://www.youtube.com/watch?v=SNJyKjfB8fY</id>
+        <link href="https://www.youtube.com/watch?v=SNJyKjfB8fY"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Latest Wealth Flex: Big Trees]]></title>
+        <id>https://www.nytimes.com/2026/09/05/style/the-latest-wealth-flex-big-trees.html</id>
+        <link href="https://www.nytimes.com/2026/09/05/style/the-latest-wealth-flex-big-trees.html"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yojam: A macOS default-browser shim that routes URLs through a rule engine]]></title>
+        <id>https://github.com/fluffypony/yojam</id>
+        <link href="https://github.com/fluffypony/yojam"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-6 built this earth exploration site in 5 prompts]]></title>
+        <id>https://earth.ethanplus.ai/</id>
+        <link href="https://earth.ethanplus.ai/"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fermyon – Deploy and manage serverless WASM apps]]></title>
+        <id>https://www.fermyon.com/cloud</id>
+        <link href="https://www.fermyon.com/cloud"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI agents carried out an undisclosed attack on RubyGems]]></title>
+        <id>https://www.rubyhack.ai/</id>
+        <link href="https://www.rubyhack.ai/"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs]]></title>
+        <id>https://www.firecrawl.dev/blog/ai-software-factory</id>
+        <link href="https://www.firecrawl.dev/blog/ai-software-factory"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[102 Minutes: Last Words at the Trade Center; Fighting to Live as the Towers Die]]></title>
+        <id>https://www.nytimes.com/2002/05/26/nyregion/102-minutes-last-words-at-the-trade-center-fighting-to-live-as-the-towers-die.html</id>
+        <link href="https://www.nytimes.com/2002/05/26/nyregion/102-minutes-last-words-at-the-trade-center-fighting-to-live-as-the-towers-die.html"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astroturfing on Reddit and the Dead Internet]]></title>
+        <id>https://rushter.com/blog/astroturfing/</id>
+        <link href="https://rushter.com/blog/astroturfing/"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fileless ELF Execution via O_tmpfile]]></title>
+        <id>https://matheuzsecurity.github.io/hacking/fileless-loader-bypassing-elastic-memfd/</id>
+        <link href="https://matheuzsecurity.github.io/hacking/fileless-loader-bypassing-elastic-memfd/"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A burst of "pink noise" may lead to more restorative sleep]]></title>
+        <id>https://news.mit.edu/2026/pink-noise-burst-may-mean-more-restorative-sleep-0909</id>
+        <link href="https://news.mit.edu/2026/pink-noise-burst-may-mean-more-restorative-sleep-0909"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save 80% for video generations. OpenRouter for videos and images]]></title>
+        <id>https://videorouter.sh/</id>
+        <link href="https://videorouter.sh/"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cognition helps Devin test its own work with GPT‑6 Astra]]></title>
+        <id>https://openai.com/index/cognition-devin-testing-with-astra</id>
+        <link href="https://openai.com/index/cognition-devin-testing-with-astra"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
@@ -260,6 +274,48 @@
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I Rebuilt My Laravel API’s Auth Layer With an AI Code Reviewer.]]></title>
+        <id>https://pub.towardsai.net/i-rebuilt-my-laravel-apis-auth-layer-with-an-ai-code-reviewer-33fd6cddbda7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-rebuilt-my-laravel-apis-auth-layer-with-an-ai-code-reviewer-33fd6cddbda7?source=rss----98111c9905da---4"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Engineers Are No Longer Just Moving Data. They Are Becoming Trust Engineers.]]></title>
+        <id>https://pub.towardsai.net/data-engineers-are-no-longer-just-moving-data-they-are-becoming-trust-engineers-56746802174d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/data-engineers-are-no-longer-just-moving-data-they-are-becoming-trust-engineers-56746802174d?source=rss----98111c9905da---4"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Two Days of EDA to “Solve This Competition”: A Kaggle Workflow, Compressed]]></title>
+        <id>https://pub.towardsai.net/from-two-days-of-eda-to-solve-this-competition-a-kaggle-workflow-compressed-aa5cea49c416?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/from-two-days-of-eda-to-solve-this-competition-a-kaggle-workflow-compressed-aa5cea49c416?source=rss----98111c9905da---4"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text-to-SQL Agent in Python: LLM Tool Calling Tutorial]]></title>
+        <id>https://pub.towardsai.net/text-to-sql-agent-in-python-llm-tool-calling-tutorial-a664c3276a43?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/text-to-sql-agent-in-python-llm-tool-calling-tutorial-a664c3276a43?source=rss----98111c9905da---4"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insane! Run Kimi K3, 2.8 Trillion Parameters, on a Single 4GB GPU]]></title>
+        <id>https://pub.towardsai.net/insane-run-kimi-k3-2-8-trillion-parameters-on-a-single-4gb-gpu-33ab8a8eec94?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/insane-run-kimi-k3-2-8-trillion-parameters-on-a-single-4gb-gpu-33ab8a8eec94?source=rss----98111c9905da---4"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-6 Astra’s 1M Context Window Is a Trap here is why]]></title>
+        <id>https://pub.towardsai.net/gpt-6-astras-1m-context-window-is-a-trap-here-is-why-15a8cba3a9fc?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/gpt-6-astras-1m-context-window-is-a-trap-here-is-why-15a8cba3a9fc?source=rss----98111c9905da---4"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <published>2026-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Marketing ops as code: Automating events from planning to follow-up on GitHub]]></title>
         <id>https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/</id>
         <link href="https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/"/>
@@ -267,58 +323,37 @@
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[# 🎤 Come funziona il riconoscimento vocale di Oreste AI con la Web Speech API]]></title>
-        <id>https://dev.to/oreste_dechiara_94b056fb/-come-funziona-il-riconoscimento-vocale-di-oreste-ai-con-la-web-speech-api-30il</id>
-        <link href="https://dev.to/oreste_dechiara_94b056fb/-come-funziona-il-riconoscimento-vocale-di-oreste-ai-con-la-web-speech-api-30il"/>
+        <title type="html"><![CDATA[h5bp/html5-boilerplate]]></title>
+        <id>https://github.com/h5bp/html5-boilerplate</id>
+        <link href="https://github.com/h5bp/html5-boilerplate"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Optimized My Bump Version Tool and Made It 1,000,000x Faster Than Its Python Counterparts.]]></title>
-        <id>https://dev.to/wiseai/i-optimized-my-bump-version-tool-and-made-it-1000000x-faster-than-its-python-counterparts-2i83</id>
-        <link href="https://dev.to/wiseai/i-optimized-my-bump-version-tool-and-made-it-1000000x-faster-than-its-python-counterparts-2i83"/>
+        <title type="html"><![CDATA[Asabeneh/30-Days-Of-JavaScript]]></title>
+        <id>https://github.com/Asabeneh/30-Days-Of-JavaScript</id>
+        <link href="https://github.com/Asabeneh/30-Days-Of-JavaScript"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Replaced My Ad-Video Spreadsheet With a Tiny JSON Contract]]></title>
-        <id>https://dev.to/ybouane/i-replaced-my-ad-video-spreadsheet-with-a-tiny-json-contract-1jim</id>
-        <link href="https://dev.to/ybouane/i-replaced-my-ad-video-spreadsheet-with-a-tiny-json-contract-1jim"/>
+        <title type="html"><![CDATA[I built a free in-browser video compressor — the file never leaves your device]]></title>
+        <id>https://dev.to/breezefeng/i-built-a-free-in-browser-video-compressor-the-file-never-leaves-your-device-52pk</id>
+        <link href="https://dev.to/breezefeng/i-built-a-free-in-browser-video-compressor-the-file-never-leaves-your-device-52pk"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React 19.3 ships View Transitions and Fragment Refs]]></title>
-        <id>https://dev.to/techaiwire/react-193-ships-view-transitions-and-fragment-refs-5gof</id>
-        <link href="https://dev.to/techaiwire/react-193-ships-view-transitions-and-fragment-refs-5gof"/>
+        <title type="html"><![CDATA[Resize Images in Your Browser — No Upload, No Server, Free]]></title>
+        <id>https://dev.to/toolzip/resize-images-in-your-browser-no-upload-no-server-free-g85</id>
+        <link href="https://dev.to/toolzip/resize-images-in-your-browser-no-upload-no-server-free-g85"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shipping ffmpeg.wasm 0.12 in production without SharedArrayBuffer: every dead end, mapped]]></title>
-        <id>https://dev.to/tasleem_akhtarch_bfb3/shipping-ffmpegwasm-012-in-production-without-sharedarraybuffer-every-dead-end-mapped-a65</id>
-        <link href="https://dev.to/tasleem_akhtarch_bfb3/shipping-ffmpegwasm-012-in-production-without-sharedarraybuffer-every-dead-end-mapped-a65"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I created an offline survey widget that works on any website and mobile app.]]></title>
-        <id>https://dev.to/andres_davidperezrios_a/i-created-an-offline-survey-widget-that-works-on-any-website-and-mobile-app-2hho</id>
-        <link href="https://dev.to/andres_davidperezrios_a/i-created-an-offline-survey-widget-that-works-on-any-website-and-mobile-app-2hho"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Agent Did Not Install Chromium. $HOME Already Had It.]]></title>
-        <id>https://dev.to/gitlab_3188/the-agent-did-not-install-chromium-home-already-had-it-2al2</id>
-        <link href="https://dev.to/gitlab_3188/the-agent-did-not-install-chromium-home-already-had-it-2al2"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bulletproof AI: Running Z3 SAT/SMT Logic Engines in Node.js & Browser via WebAssembly]]></title>
-        <id>https://dev.to/programmingcentral/bulletproof-ai-running-z3-satsmt-logic-engines-in-nodejs-browser-via-webassembly-5e9h</id>
-        <link href="https://dev.to/programmingcentral/bulletproof-ai-running-z3-satsmt-logic-engines-in-nodejs-browser-via-webassembly-5e9h"/>
+        <title type="html"><![CDATA[Building a random chat where language doesn't matter: WebRTC, relay as a condition, and live translated captions]]></title>
+        <id>https://dev.to/vasiliy_shkitin/building-a-random-chat-where-language-doesnt-matter-webrtc-relay-as-a-condition-and-live-315g</id>
+        <link href="https://dev.to/vasiliy_shkitin/building-a-random-chat-where-language-doesnt-matter-webrtc-relay-as-a-condition-and-live-315g"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
@@ -328,40 +363,5 @@
         <link href="https://dev.to/vipsukhul/building-ieditpdfin-a-free-privacy-first-online-pdf-image-suite-1h18"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta may have leaked the first look at its slim &#8216;Project Phoenix&#8217; headset]]></title>
-        <id>https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak</id>
-        <link href="https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anime reaction YouTubers are at war with copyright enforcers]]></title>
-        <id>https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media</id>
-        <link href="https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schools are catching on to Big Tech’s playbook]]></title>
-        <id>https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids</id>
-        <link href="https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electric air taxis get the green light for test flights in Texas]]></title>
-        <id>https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas</id>
-        <link href="https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New York City’s last pickpocket doesn’t need a smartphone]]></title>
-        <id>https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york</id>
-        <link href="https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <published>2026-09-10T16:00:00.000Z</published>
     </entry>
 </feed>
