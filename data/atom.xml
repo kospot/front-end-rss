@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-13T02:01:56.154Z</updated>
+    <updated>2026-09-13T04:02:34.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -120,58 +120,44 @@
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Bulk Download Images: From URL Lists to a ZIP File]]></title>
-        <id>https://dev.to/jadeydi/how-to-bulk-download-images-from-url-lists-to-a-zip-file-3fph</id>
-        <link href="https://dev.to/jadeydi/how-to-bulk-download-images-from-url-lists-to-a-zip-file-3fph"/>
+        <title type="html"><![CDATA[Three things that bit us moving a document scanner fully into the browser]]></title>
+        <id>https://dev.to/yanwang/three-things-that-bit-us-moving-a-document-scanner-fully-into-the-browser-15cc</id>
+        <link href="https://dev.to/yanwang/three-things-that-bit-us-moving-a-document-scanner-fully-into-the-browser-15cc"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lowercase apiFramework="simid" Passes VAST. SIMID Players Skip the Interactive Layer.]]></title>
-        <id>https://dev.to/aleksuix/lowercase-apiframeworksimid-passes-vast-simid-players-skip-the-interactive-layer-2bin</id>
-        <link href="https://dev.to/aleksuix/lowercase-apiframeworksimid-passes-vast-simid-players-skip-the-interactive-layer-2bin"/>
+        <title type="html"><![CDATA[I Found an Undocumented MCP Server on OpenSea — and It Leaked Usernames for Any Wallet]]></title>
+        <id>https://dev.to/tinycoder-studio/i-found-an-undocumented-mcp-server-on-opensea-and-it-leaked-usernames-for-any-wallet-43om</id>
+        <link href="https://dev.to/tinycoder-studio/i-found-an-undocumented-mcp-server-on-opensea-and-it-leaked-usernames-for-any-wallet-43om"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Advanced Server-Side Caching Patterns in Next.js 14]]></title>
-        <id>https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-14-1kl2</id>
-        <link href="https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-14-1kl2"/>
+        <title type="html"><![CDATA[Stop Making Your React Components Reusable | React Design]]></title>
+        <id>https://dev.to/nainikmehta/stop-making-your-react-components-reusable-react-design-4086</id>
+        <link href="https://dev.to/nainikmehta/stop-making-your-react-components-reusable-react-design-4086"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a ReDoS scanner that proves each bug offline — and hands you a verified fix]]></title>
-        <id>https://dev.to/aurelionakamura/i-built-a-redos-scanner-that-proves-each-bug-offline-and-hands-you-a-verified-fix-3a5e</id>
-        <link href="https://dev.to/aurelionakamura/i-built-a-redos-scanner-that-proves-each-bug-offline-and-hands-you-a-verified-fix-3a5e"/>
+        <title type="html"><![CDATA[Why Parameterized Queries Matter for SQL Security]]></title>
+        <id>https://dev.to/khg5293/why-parameterized-queries-matter-for-sql-security-1iem</id>
+        <link href="https://dev.to/khg5293/why-parameterized-queries-matter-for-sql-security-1iem"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
-        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-1kdl</id>
-        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-1kdl"/>
+        <title type="html"><![CDATA[How to Convert GLB to STL for 3D Printing (No Software Install)]]></title>
+        <id>https://dev.to/caseymarlin/how-to-convert-glb-to-stl-for-3d-printing-no-software-install-3g74</id>
+        <link href="https://dev.to/caseymarlin/how-to-convert-glb-to-stl-for-3d-printing-no-software-install-3g74"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop AI Hallucinations: Building Zero-Hallucination Inference Engines in TypeScript with json-rules-engine and N3]]></title>
-        <id>https://dev.to/programmingcentral/stop-ai-hallucinations-building-zero-hallucination-inference-engines-in-typescript-with-18ih</id>
-        <link href="https://dev.to/programmingcentral/stop-ai-hallucinations-building-zero-hallucination-inference-engines-in-typescript-with-18ih"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which US-Based Software Development Companies Offer the Best Custom Software Solutions?]]></title>
-        <id>https://dev.to/edwardsinclair/which-us-based-software-development-companies-offer-the-best-custom-software-solutions-5bok</id>
-        <link href="https://dev.to/edwardsinclair/which-us-based-software-development-companies-offer-the-best-custom-software-solutions-5bok"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ship fewer JS threads — a React Native interaction budget]]></title>
-        <id>https://dev.to/itsashis4u/ship-fewer-js-threads-a-react-native-interaction-budget-105n</id>
-        <link href="https://dev.to/itsashis4u/ship-fewer-js-threads-a-react-native-interaction-budget-105n"/>
+        <title type="html"><![CDATA[Building a Freelance Rate Calculator for Mexico with Plain HTML and JavaScript]]></title>
+        <id>https://dev.to/franciscopadillamx/building-a-privacy-first-freelance-rate-calculator-with-plain-html-and-javascript-15k4</id>
+        <link href="https://dev.to/franciscopadillamx/building-a-privacy-first-freelance-rate-calculator-with-plain-html-and-javascript-15k4"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
@@ -183,9 +169,58 @@
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Freelance Rate Calculator for Mexico with Plain HTML and JavaScript]]></title>
-        <id>https://dev.to/franciscopadillamx/building-a-privacy-first-freelance-rate-calculator-with-plain-html-and-javascript-15k4</id>
-        <link href="https://dev.to/franciscopadillamx/building-a-privacy-first-freelance-rate-calculator-with-plain-html-and-javascript-15k4"/>
+        <title type="html"><![CDATA[Ship fewer JS threads — a React Native interaction budget]]></title>
+        <id>https://dev.to/itsashis4u/ship-fewer-js-threads-a-react-native-interaction-budget-105n</id>
+        <link href="https://dev.to/itsashis4u/ship-fewer-js-threads-a-react-native-interaction-budget-105n"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which US-Based Software Development Companies Offer the Best Custom Software Solutions?]]></title>
+        <id>https://dev.to/edwardsinclair/which-us-based-software-development-companies-offer-the-best-custom-software-solutions-5bok</id>
+        <link href="https://dev.to/edwardsinclair/which-us-based-software-development-companies-offer-the-best-custom-software-solutions-5bok"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop AI Hallucinations: Building Zero-Hallucination Inference Engines in TypeScript with json-rules-engine and N3]]></title>
+        <id>https://dev.to/programmingcentral/stop-ai-hallucinations-building-zero-hallucination-inference-engines-in-typescript-with-18ih</id>
+        <link href="https://dev.to/programmingcentral/stop-ai-hallucinations-building-zero-hallucination-inference-engines-in-typescript-with-18ih"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
+        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-1kdl</id>
+        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-1kdl"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a ReDoS scanner that proves each bug offline — and hands you a verified fix]]></title>
+        <id>https://dev.to/aurelionakamura/i-built-a-redos-scanner-that-proves-each-bug-offline-and-hands-you-a-verified-fix-3a5e</id>
+        <link href="https://dev.to/aurelionakamura/i-built-a-redos-scanner-that-proves-each-bug-offline-and-hands-you-a-verified-fix-3a5e"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Advanced Server-Side Caching Patterns in Next.js 14]]></title>
+        <id>https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-14-1kl2</id>
+        <link href="https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-14-1kl2"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lowercase apiFramework="simid" Passes VAST. SIMID Players Skip the Interactive Layer.]]></title>
+        <id>https://dev.to/aleksuix/lowercase-apiframeworksimid-passes-vast-simid-players-skip-the-interactive-layer-2bin</id>
+        <link href="https://dev.to/aleksuix/lowercase-apiframeworksimid-passes-vast-simid-players-skip-the-interactive-layer-2bin"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Bulk Download Images: From URL Lists to a ZIP File]]></title>
+        <id>https://dev.to/jadeydi/how-to-bulk-download-images-from-url-lists-to-a-zip-file-3fph</id>
+        <link href="https://dev.to/jadeydi/how-to-bulk-download-images-from-url-lists-to-a-zip-file-3fph"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
@@ -326,41 +361,6 @@
         <title type="html"><![CDATA[TablePro: A native, open-source database client for macOS]]></title>
         <id>https://github.com/TableProApp/TablePro</id>
         <link href="https://github.com/TableProApp/TablePro"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robust Solution of Laplacian Equations by Random Approx Cholesky Factorization]]></title>
-        <id>https://epubs.siam.org/doi/10.1137/24M1673577</id>
-        <link href="https://epubs.siam.org/doi/10.1137/24M1673577"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is really bad: AI Safety Threat]]></title>
-        <id>https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html</id>
-        <link href="https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rare Not Random Using Token Efficiency for Secrets Scanning]]></title>
-        <id>https://lookingatcomputer.substack.com/p/rare-not-random</id>
-        <link href="https://lookingatcomputer.substack.com/p/rare-not-random"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching an M4 CPU to Tell Stories with XOR, Popcount and SDOT]]></title>
-        <id>https://dnhkng.substack.com/p/teaching-an-m4-cpu-to-tell-stories</id>
-        <link href="https://dnhkng.substack.com/p/teaching-an-m4-cpu-to-tell-stories"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Why are the tech companies tracking humans?]]></title>
-        <id>https://news.ycombinator.com/item?id=49669460</id>
-        <link href="https://news.ycombinator.com/item?id=49669460"/>
         <updated>2026-09-11T16:00:00.000Z</updated>
         <published>2026-09-11T16:00:00.000Z</published>
     </entry>
