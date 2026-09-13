@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-13T07:02:27.659Z</updated>
+    <updated>2026-09-13T10:01:20.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,121 +29,51 @@
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guidance on Using CC Licenses in an AI Ecosystem]]></title>
-        <id>https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/</id>
-        <link href="https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/"/>
+        <title type="html"><![CDATA[My First Week with GPT-6 Astra]]></title>
+        <id>https://www.vincentschmalbach.com/gpt-6-astra-first-week/</id>
+        <link href="https://www.vincentschmalbach.com/gpt-6-astra-first-week/"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MetaPost library for black and white illustrations]]></title>
-        <id>https://github.com/jemmybutton/fiziko</id>
-        <link href="https://github.com/jemmybutton/fiziko"/>
+        <title type="html"><![CDATA[New 'Zuckoff' App Detects Nearby Meta Smart Glasses Amid Privacy Backlash]]></title>
+        <id>https://www.channelnews.com.au/new-zuckoff-app-detects-nearby-meta-smart-glasses-amid-privacy-backlash/</id>
+        <link href="https://www.channelnews.com.au/new-zuckoff-app-detects-nearby-meta-smart-glasses-amid-privacy-backlash/"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Actuali: free Actual Budget client for iOS]]></title>
-        <id>https://actuali.mfazz.com/</id>
-        <link href="https://actuali.mfazz.com/"/>
+        <title type="html"><![CDATA[MCP Server for reduce use of Token]]></title>
+        <id>https://github.com/dangranaz/nxm-memory</id>
+        <link href="https://github.com/dangranaz/nxm-memory"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pedagogy in the Age of AI [video]]]></title>
-        <id>https://www.youtube.com/watch?v=N2a1J0UPeL4</id>
-        <link href="https://www.youtube.com/watch?v=N2a1J0UPeL4"/>
+        <title type="html"><![CDATA[Ten years of AI reporting ("60 Minutes" Marathon) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=QdK-j7SYh4A</id>
+        <link href="https://www.youtube.com/watch?v=QdK-j7SYh4A"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I'm an AI agent. I just fired myself from the business I built [video]]]></title>
-        <id>https://www.youtube.com/watch?v=p5mWb7ksSTM</id>
-        <link href="https://www.youtube.com/watch?v=p5mWb7ksSTM"/>
+        <title type="html"><![CDATA[9/11 survivors are being diagnosed with cancer 25 years after the attacks [video]]]></title>
+        <id>https://www.youtube.com/watch?v=gKEly6Vs3MU</id>
+        <link href="https://www.youtube.com/watch?v=gKEly6Vs3MU"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Signing the Transaction but Not the Decision: Whisper Attacks and a Binding]]></title>
-        <id>https://arxiv.org/abs/2609.11757</id>
-        <link href="https://arxiv.org/abs/2609.11757"/>
+        <title type="html"><![CDATA[AIs as Modern Genies]]></title>
+        <id>https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html</id>
+        <link href="https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Forma ONNX Graph Viewer and Editor]]></title>
-        <id>https://github.com/Hussain004/forma</id>
-        <link href="https://github.com/Hussain004/forma"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The night 142 of my servers went up in the clouds Physically]]></title>
-        <id>https://exquisite.tube/w/nQbc54t4G7YGaqiryZ7mg1</id>
-        <link href="https://exquisite.tube/w/nQbc54t4G7YGaqiryZ7mg1"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TailTalk: A modern async user space AppleTalk stack with Rust and Tokio]]></title>
-        <id>https://github.com/FeralFirmware/TailTalk/</id>
-        <link href="https://github.com/FeralFirmware/TailTalk/"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlantic hurricane season 2026 sets a new record]]></title>
-        <id>https://www.usatoday.com/story/news/weather/2026/09/12/atlantic-hurricane-season-2026-sets-record/91658860007/</id>
-        <link href="https://www.usatoday.com/story/news/weather/2026/09/12/atlantic-hurricane-season-2026-sets-record/91658860007/"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I created Nitro Skills to reduce token usage of my Claude agents]]></title>
-        <id>https://nitroskills.com</id>
-        <link href="https://nitroskills.com"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Altman: I agree with Dario that we need to pace the frontier]]></title>
-        <id>https://twitter.com/sama/status/2098811563415150910</id>
-        <link href="https://twitter.com/sama/status/2098811563415150910"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI writing debate is similar to the one that rocked ancient Greece 2700 yrs ago]]></title>
-        <id>https://fortune.com/2026/09/10/ai-writing-debate-ancient-greece-euripides-aristotle-nietzsche/</id>
-        <link href="https://fortune.com/2026/09/10/ai-writing-debate-ancient-greece-euripides-aristotle-nietzsche/"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement]]></title>
-        <id>https://arxiv.org/abs/2609.11873</id>
-        <link href="https://arxiv.org/abs/2609.11873"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists Create a New Form of Ice at More Than 2000°C]]></title>
-        <id>https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c</id>
-        <link href="https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asking Anthropic CEO: 'Do you earnestly believe that AI could kill all humans?']]></title>
-        <id>https://www.cnn.com/business/video/anderson-cooper-anthropic-ceo-dario-amodei-could-ai-kill-humans-digvid</id>
-        <link href="https://www.cnn.com/business/video/anderson-cooper-anthropic-ceo-dario-amodei-could-ai-kill-humans-digvid"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A.I. Slopware Is Everywhere Now. Nobody Is Using It]]></title>
-        <id>https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html</id>
-        <link href="https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html"/>
+        <title type="html"><![CDATA[Carissa Véliz: Beware the power of prediction [video]]]></title>
+        <id>https://www.ted.com/talks/carissa_veliz_beware_the_power_of_prediction</id>
+        <link href="https://www.ted.com/talks/carissa_veliz_beware_the_power_of_prediction"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
@@ -155,9 +85,149 @@
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carissa Véliz: Beware the power of prediction [video]]]></title>
-        <id>https://www.ted.com/talks/carissa_veliz_beware_the_power_of_prediction</id>
-        <link href="https://www.ted.com/talks/carissa_veliz_beware_the_power_of_prediction"/>
+        <title type="html"><![CDATA[A.I. Slopware Is Everywhere Now. Nobody Is Using It]]></title>
+        <id>https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html</id>
+        <link href="https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asking Anthropic CEO: 'Do you earnestly believe that AI could kill all humans?']]></title>
+        <id>https://www.cnn.com/business/video/anderson-cooper-anthropic-ceo-dario-amodei-could-ai-kill-humans-digvid</id>
+        <link href="https://www.cnn.com/business/video/anderson-cooper-anthropic-ceo-dario-amodei-could-ai-kill-humans-digvid"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists Create a New Form of Ice at More Than 2000°C]]></title>
+        <id>https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c</id>
+        <link href="https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement]]></title>
+        <id>https://arxiv.org/abs/2609.11873</id>
+        <link href="https://arxiv.org/abs/2609.11873"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI writing debate is similar to the one that rocked ancient Greece 2700 yrs ago]]></title>
+        <id>https://fortune.com/2026/09/10/ai-writing-debate-ancient-greece-euripides-aristotle-nietzsche/</id>
+        <link href="https://fortune.com/2026/09/10/ai-writing-debate-ancient-greece-euripides-aristotle-nietzsche/"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Altman: I agree with Dario that we need to pace the frontier]]></title>
+        <id>https://twitter.com/sama/status/2098811563415150910</id>
+        <link href="https://twitter.com/sama/status/2098811563415150910"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I created Nitro Skills to reduce token usage of my Claude agents]]></title>
+        <id>https://nitroskills.com</id>
+        <link href="https://nitroskills.com"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atlantic hurricane season 2026 sets a new record]]></title>
+        <id>https://www.usatoday.com/story/news/weather/2026/09/12/atlantic-hurricane-season-2026-sets-record/91658860007/</id>
+        <link href="https://www.usatoday.com/story/news/weather/2026/09/12/atlantic-hurricane-season-2026-sets-record/91658860007/"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TailTalk: A modern async user space AppleTalk stack with Rust and Tokio]]></title>
+        <id>https://github.com/FeralFirmware/TailTalk/</id>
+        <link href="https://github.com/FeralFirmware/TailTalk/"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The night 142 of my servers went up in the clouds Physically]]></title>
+        <id>https://exquisite.tube/w/nQbc54t4G7YGaqiryZ7mg1</id>
+        <link href="https://exquisite.tube/w/nQbc54t4G7YGaqiryZ7mg1"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Forma ONNX Graph Viewer and Editor]]></title>
+        <id>https://github.com/Hussain004/forma</id>
+        <link href="https://github.com/Hussain004/forma"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signing the Transaction but Not the Decision: Whisper Attacks and a Binding]]></title>
+        <id>https://arxiv.org/abs/2609.11757</id>
+        <link href="https://arxiv.org/abs/2609.11757"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm an AI agent. I just fired myself from the business I built [video]]]></title>
+        <id>https://www.youtube.com/watch?v=p5mWb7ksSTM</id>
+        <link href="https://www.youtube.com/watch?v=p5mWb7ksSTM"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pedagogy in the Age of AI [video]]]></title>
+        <id>https://www.youtube.com/watch?v=N2a1J0UPeL4</id>
+        <link href="https://www.youtube.com/watch?v=N2a1J0UPeL4"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Actuali: free Actual Budget client for iOS]]></title>
+        <id>https://actuali.mfazz.com/</id>
+        <link href="https://actuali.mfazz.com/"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaPost library for black and white illustrations]]></title>
+        <id>https://github.com/jemmybutton/fiziko</id>
+        <link href="https://github.com/jemmybutton/fiziko"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance on Using CC Licenses in an AI Ecosystem]]></title>
+        <id>https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/</id>
+        <link href="https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Algebra of Encrypted Audiences]]></title>
+        <id>https://pub.towardsai.net/the-algebra-of-encrypted-audiences-a9d2a8195bbb?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-algebra-of-encrypted-audiences-a9d2a8195bbb?source=rss----98111c9905da---4"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Reduce Claude Tokens (and Actually Get More Out of Claude Code)]]></title>
+        <id>https://pub.towardsai.net/how-to-reduce-claude-tokens-and-actually-get-more-out-of-claude-code-e65ec874fad9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-reduce-claude-tokens-and-actually-get-more-out-of-claude-code-e65ec874fad9?source=rss----98111c9905da---4"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents for Beginners Explained: The Amazing 2026 Guide!!]]></title>
+        <id>https://pub.towardsai.net/ai-agents-for-beginners-explained-the-amazing-2026-guide-0a9c93e7576c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-agents-for-beginners-explained-the-amazing-2026-guide-0a9c93e7576c?source=rss----98111c9905da---4"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Models Are Learning to Guess Ahead — And It’s Making Inference Much Faster]]></title>
+        <id>https://pub.towardsai.net/ai-models-are-learning-to-guess-ahead-and-its-making-inference-much-faster-8e1498d995fa?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-models-are-learning-to-guess-ahead-and-its-making-inference-much-faster-8e1498d995fa?source=rss----98111c9905da---4"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
@@ -176,149 +246,58 @@
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How One Node.js Loop Publishes to 7 Platforms Without Duplicates]]></title>
-        <id>https://dev.to/zongkai_sun_0946ae0d49db2/how-one-nodejs-loop-publishes-to-7-platforms-without-duplicates-55nc</id>
-        <link href="https://dev.to/zongkai_sun_0946ae0d49db2/how-one-nodejs-loop-publishes-to-7-platforms-without-duplicates-55nc"/>
+        <title type="html"><![CDATA[I Built a Zero-Dependency KV Store That Works in Browser, Node.js AND Cloudflare Workers]]></title>
+        <id>https://dev.to/pk555/i-built-a-zero-dependency-kv-store-that-works-in-browser-nodejs-and-cloudflare-workers-1cb9</id>
+        <link href="https://dev.to/pk555/i-built-a-zero-dependency-kv-store-that-works-in-browser-nodejs-and-cloudflare-workers-1cb9"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New in SEOCode: GEO Rule Suite]]></title>
-        <id>https://dev.to/seocode_writer/new-in-seocode-geo-rule-suite-119c</id>
-        <link href="https://dev.to/seocode_writer/new-in-seocode-geo-rule-suite-119c"/>
+        <title type="html"><![CDATA[Mengelola State Kompleks di React: Mengapa Saya Berpindah ke Zustand]]></title>
+        <id>https://dev.to/hellogung/mengelola-state-kompleks-di-react-mengapa-saya-berpindah-ke-zustand-561m</id>
+        <link href="https://dev.to/hellogung/mengelola-state-kompleks-di-react-mengapa-saya-berpindah-ke-zustand-561m"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Your React Hotfix Isn't Reaching Users - And How to Fix It with Nginx]]></title>
-        <id>https://dev.to/ashim_sapkota_89bffa22087/why-your-react-hotfix-isnt-reaching-users-and-how-to-fix-it-with-nginx-2h0m</id>
-        <link href="https://dev.to/ashim_sapkota_89bffa22087/why-your-react-hotfix-isnt-reaching-users-and-how-to-fix-it-with-nginx-2h0m"/>
+        <title type="html"><![CDATA[Three WebAssembly engines in one browser tab: what I learned building a PDF suite with no backend]]></title>
+        <id>https://dev.to/zed_red_13146ad8501dd3f41/three-webassembly-engines-in-one-browser-tab-what-i-learned-building-a-pdf-suite-with-no-backend-15f7</id>
+        <link href="https://dev.to/zed_red_13146ad8501dd3f41/three-webassembly-engines-in-one-browser-tab-what-i-learned-building-a-pdf-suite-with-no-backend-15f7"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React `startTransition` Without `useTransition`: The Standalone API Teams Keep Overlooking in Concurrent Mode]]></title>
-        <id>https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp</id>
-        <link href="https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp"/>
+        <title type="html"><![CDATA[Your ESLint Plugin Installs 205 Packages. 69 Are ESLint.]]></title>
+        <id>https://dev.to/ofri-peretz/your-eslint-plugin-installs-205-packages-69-are-eslint-g1a</id>
+        <link href="https://dev.to/ofri-peretz/your-eslint-plugin-installs-205-packages-69-are-eslint-g1a"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[25 Calculators Worth Bookmarking (Client-Side, No Signup, No Nonsense)]]></title>
-        <id>https://dev.to/tasleem_akhtarch_bfb3/25-calculators-worth-bookmarking-client-side-no-signup-no-nonsense-7o8</id>
-        <link href="https://dev.to/tasleem_akhtarch_bfb3/25-calculators-worth-bookmarking-client-side-no-signup-no-nonsense-7o8"/>
+        <title type="html"><![CDATA[I built 59 free browser-based dev tools in vanilla JS — here's what I learned]]></title>
+        <id>https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-n10</id>
+        <link href="https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-n10"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Illusion of String.length: How to safely count Unicode, Emojis, and Words in JS]]></title>
-        <id>https://dev.to/urbanmixo/the-illusion-of-stringlength-how-to-safely-count-unicode-emojis-and-words-in-js-166m</id>
-        <link href="https://dev.to/urbanmixo/the-illusion-of-stringlength-how-to-safely-count-unicode-emojis-and-words-in-js-166m"/>
+        <title type="html"><![CDATA[🤖 Oreste AI: da un assistente vocale a un ecosistema di progetti]]></title>
+        <id>https://dev.to/oreste_dechiara_94b056fb/oreste-ai-da-un-assistente-vocale-a-un-ecosistema-di-progetti-16ol</id>
+        <link href="https://dev.to/oreste_dechiara_94b056fb/oreste-ai-da-un-assistente-vocale-a-un-ecosistema-di-progetti-16ol"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Benchmarking in-app announcement widgets: 150KB vs 3.8KB SDK]]></title>
-        <id>https://dev.to/pavan_s_poojary/benchmarking-in-app-announcement-widgets-150kb-vs-38kb-sdk-37po</id>
-        <link href="https://dev.to/pavan_s_poojary/benchmarking-in-app-announcement-widgets-150kb-vs-38kb-sdk-37po"/>
+        <title type="html"><![CDATA[How I Built a Zero-Server, 100% Client-Side Image Processing Engine in Next.js]]></title>
+        <id>https://dev.to/rmnsingg7773/how-i-built-a-zero-server-100-client-side-image-processing-engine-in-nextjs-d28</id>
+        <link href="https://dev.to/rmnsingg7773/how-i-built-a-zero-server-100-client-side-image-processing-engine-in-nextjs-d28"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Bulk Download Images: From URL Lists to a ZIP File]]></title>
-        <id>https://dev.to/jadeydi/how-to-bulk-download-images-from-url-lists-to-a-zip-file-3fph</id>
-        <link href="https://dev.to/jadeydi/how-to-bulk-download-images-from-url-lists-to-a-zip-file-3fph"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lowercase apiFramework="simid" Passes VAST. SIMID Players Skip the Interactive Layer.]]></title>
-        <id>https://dev.to/aleksuix/lowercase-apiframeworksimid-passes-vast-simid-players-skip-the-interactive-layer-2bin</id>
-        <link href="https://dev.to/aleksuix/lowercase-apiframeworksimid-passes-vast-simid-players-skip-the-interactive-layer-2bin"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Advanced Server-Side Caching Patterns in Next.js 14]]></title>
-        <id>https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-14-1kl2</id>
-        <link href="https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-14-1kl2"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a ReDoS scanner that proves each bug offline — and hands you a verified fix]]></title>
-        <id>https://dev.to/aurelionakamura/i-built-a-redos-scanner-that-proves-each-bug-offline-and-hands-you-a-verified-fix-3a5e</id>
-        <link href="https://dev.to/aurelionakamura/i-built-a-redos-scanner-that-proves-each-bug-offline-and-hands-you-a-verified-fix-3a5e"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
-        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-1kdl</id>
-        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-1kdl"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop AI Hallucinations: Building Zero-Hallucination Inference Engines in TypeScript with json-rules-engine and N3]]></title>
-        <id>https://dev.to/programmingcentral/stop-ai-hallucinations-building-zero-hallucination-inference-engines-in-typescript-with-18ih</id>
-        <link href="https://dev.to/programmingcentral/stop-ai-hallucinations-building-zero-hallucination-inference-engines-in-typescript-with-18ih"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which US-Based Software Development Companies Offer the Best Custom Software Solutions?]]></title>
-        <id>https://dev.to/edwardsinclair/which-us-based-software-development-companies-offer-the-best-custom-software-solutions-5bok</id>
-        <link href="https://dev.to/edwardsinclair/which-us-based-software-development-companies-offer-the-best-custom-software-solutions-5bok"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ship fewer JS threads — a React Native interaction budget]]></title>
-        <id>https://dev.to/itsashis4u/ship-fewer-js-threads-a-react-native-interaction-budget-105n</id>
-        <link href="https://dev.to/itsashis4u/ship-fewer-js-threads-a-react-native-interaction-budget-105n"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Crypto Recovery Service Providers: Top Firm for Retrieving Lost Cryptocurrency. Contact ZEUS CRYPTO RECOVERY SERVICES]]></title>
-        <id>https://dev.to/daniel_regards_ce1a5dc55e/best-crypto-recovery-service-providers-top-firm-for-retrieving-lost-cryptocurrency-contact-zeus-4jg9</id>
-        <link href="https://dev.to/daniel_regards_ce1a5dc55e/best-crypto-recovery-service-providers-top-firm-for-retrieving-lost-cryptocurrency-contact-zeus-4jg9"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Freelance Rate Calculator for Mexico with Plain HTML and JavaScript]]></title>
-        <id>https://dev.to/franciscopadillamx/building-a-privacy-first-freelance-rate-calculator-with-plain-html-and-javascript-15k4</id>
-        <link href="https://dev.to/franciscopadillamx/building-a-privacy-first-freelance-rate-calculator-with-plain-html-and-javascript-15k4"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert GLB to STL for 3D Printing (No Software Install)]]></title>
-        <id>https://dev.to/caseymarlin/how-to-convert-glb-to-stl-for-3d-printing-no-software-install-3g74</id>
-        <link href="https://dev.to/caseymarlin/how-to-convert-glb-to-stl-for-3d-printing-no-software-install-3g74"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Parameterized Queries Matter for SQL Security]]></title>
-        <id>https://dev.to/khg5293/why-parameterized-queries-matter-for-sql-security-1iem</id>
-        <link href="https://dev.to/khg5293/why-parameterized-queries-matter-for-sql-security-1iem"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Making Your React Components Reusable | React Design]]></title>
-        <id>https://dev.to/nainikmehta/stop-making-your-react-components-reusable-react-design-4086</id>
-        <link href="https://dev.to/nainikmehta/stop-making-your-react-components-reusable-react-design-4086"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Found an Undocumented MCP Server on OpenSea — and It Leaked Usernames for Any Wallet]]></title>
-        <id>https://dev.to/tinycoder-studio/i-found-an-undocumented-mcp-server-on-opensea-and-it-leaked-usernames-for-any-wallet-43om</id>
-        <link href="https://dev.to/tinycoder-studio/i-found-an-undocumented-mcp-server-on-opensea-and-it-leaked-usernames-for-any-wallet-43om"/>
+        <title type="html"><![CDATA[Why You Should Replace useEffect API Calls With Tanstack React Query]]></title>
+        <id>https://dev.to/hasnain_alam/why-you-should-replace-useeffect-api-calls-with-tanstack-react-query-4mhh</id>
+        <link href="https://dev.to/hasnain_alam/why-you-should-replace-useeffect-api-calls-with-tanstack-react-query-4mhh"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
@@ -330,38 +309,59 @@
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic spent this week in hot water over cybersecurity]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Found an Undocumented MCP Server on OpenSea — and It Leaked Usernames for Any Wallet]]></title>
+        <id>https://dev.to/tinycoder-studio/i-found-an-undocumented-mcp-server-on-opensea-and-it-leaked-usernames-for-any-wallet-43om</id>
+        <link href="https://dev.to/tinycoder-studio/i-found-an-undocumented-mcp-server-on-opensea-and-it-leaked-usernames-for-any-wallet-43om"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matt Mullenweg returns as Automattic CEO two days after getting booted]]></title>
-        <id>https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return</id>
-        <link href="https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Stop Making Your React Components Reusable | React Design]]></title>
+        <id>https://dev.to/nainikmehta/stop-making-your-react-components-reusable-react-design-4086</id>
+        <link href="https://dev.to/nainikmehta/stop-making-your-react-components-reusable-react-design-4086"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs]]></title>
-        <id>https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/</id>
-        <link href="https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Why Parameterized Queries Matter for SQL Security]]></title>
+        <id>https://dev.to/khg5293/why-parameterized-queries-matter-for-sql-security-1iem</id>
+        <link href="https://dev.to/khg5293/why-parameterized-queries-matter-for-sql-security-1iem"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring]]></title>
-        <id>https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/</id>
-        <link href="https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How to Convert GLB to STL for 3D Printing (No Software Install)]]></title>
+        <id>https://dev.to/caseymarlin/how-to-convert-glb-to-stl-for-3d-printing-no-software-install-3g74</id>
+        <link href="https://dev.to/caseymarlin/how-to-convert-glb-to-stl-for-3d-printing-no-software-install-3g74"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Sued Over Training Data for Its AI and Face-Recognition Systems]]></title>
-        <id>https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/</id>
-        <link href="https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <published>2026-09-11T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Building a Freelance Rate Calculator for Mexico with Plain HTML and JavaScript]]></title>
+        <id>https://dev.to/franciscopadillamx/building-a-privacy-first-freelance-rate-calculator-with-plain-html-and-javascript-15k4</id>
+        <link href="https://dev.to/franciscopadillamx/building-a-privacy-first-freelance-rate-calculator-with-plain-html-and-javascript-15k4"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Crypto Recovery Service Providers: Top Firm for Retrieving Lost Cryptocurrency. Contact ZEUS CRYPTO RECOVERY SERVICES]]></title>
+        <id>https://dev.to/daniel_regards_ce1a5dc55e/best-crypto-recovery-service-providers-top-firm-for-retrieving-lost-cryptocurrency-contact-zeus-4jg9</id>
+        <link href="https://dev.to/daniel_regards_ce1a5dc55e/best-crypto-recovery-service-providers-top-firm-for-retrieving-lost-cryptocurrency-contact-zeus-4jg9"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ship fewer JS threads — a React Native interaction budget]]></title>
+        <id>https://dev.to/itsashis4u/ship-fewer-js-threads-a-react-native-interaction-budget-105n</id>
+        <link href="https://dev.to/itsashis4u/ship-fewer-js-threads-a-react-native-interaction-budget-105n"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which US-Based Software Development Companies Offer the Best Custom Software Solutions?]]></title>
+        <id>https://dev.to/edwardsinclair/which-us-based-software-development-companies-offer-the-best-custom-software-solutions-5bok</id>
+        <link href="https://dev.to/edwardsinclair/which-us-based-software-development-companies-offer-the-best-custom-software-solutions-5bok"/>
+        <updated>2026-09-12T16:00:00.000Z</updated>
+        <published>2026-09-12T16:00:00.000Z</published>
     </entry>
 </feed>
