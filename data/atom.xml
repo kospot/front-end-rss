@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-14T00:01:59.189Z</updated>
+    <updated>2026-09-14T02:01:50.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,30 +36,51 @@
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can an R/C Car Hit 100k Scale Miles? Self Driving Edition]]></title>
-        <id>https://www.youtube.com/watch?v=LjQ59b9OKyg</id>
-        <link href="https://www.youtube.com/watch?v=LjQ59b9OKyg"/>
+        <title type="html"><![CDATA[Bruce Schneier: No, AI doesn't mean the end of mathematics – at least not yet]]></title>
+        <id>https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers</id>
+        <link href="https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Math in the Movies – Sneakers (1998)]]></title>
-        <id>https://theworld.com/~reinhold/math/sneakers.adleman.html</id>
-        <link href="https://theworld.com/~reinhold/math/sneakers.adleman.html"/>
+        <title type="html"><![CDATA["Oopsies " FreeBSD Devs Say There's Still GPL in the Kernel]]></title>
+        <id>https://fossforce.com/2026/07/oopsies-freebsd-devs-say-theres-still-gpl-in-the-kernel/</id>
+        <link href="https://fossforce.com/2026/07/oopsies-freebsd-devs-say-theres-still-gpl-in-the-kernel/"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Society Tears Down Its Heroes]]></title>
-        <id>https://medium.com/theentertainmentbreakdown/on-the-demolition-of-heroes-aec8912d8c11</id>
-        <link href="https://medium.com/theentertainmentbreakdown/on-the-demolition-of-heroes-aec8912d8c11"/>
+        <title type="html"><![CDATA[new free website for people who are interested in free trading tools]]></title>
+        <id>https://news.ycombinator.com/item?id=49690844</id>
+        <link href="https://news.ycombinator.com/item?id=49690844"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DuckDB 2.0 Pushes Whole Queries Through ADBC–10–11× Faster on PostgreSQL]]></title>
-        <id>https://query.farm/blog/one-query-one-arrow-stream-adbc-duckdb-2/</id>
-        <link href="https://query.farm/blog/one-query-one-arrow-stream-adbc-duckdb-2/"/>
+        <title type="html"><![CDATA[Opportunistic AI detects colorectal cancer using routine, noncontrast CT]]></title>
+        <id>https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct</id>
+        <link href="https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Godfather of AI welcomes pause in development (interview with Hinton)]]></title>
+        <id>https://www.abc.net.au/listen/programs/radionational-breakfast/godfather-of-ai-welcomes-pause-in-development/107148300</id>
+        <link href="https://www.abc.net.au/listen/programs/radionational-breakfast/godfather-of-ai-welcomes-pause-in-development/107148300"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aviloop: YouTube's Darkest Mystery [video]]]></title>
+        <id>https://www.youtube.com/watch?v=DU9JCFMJp8E</id>
+        <link href="https://www.youtube.com/watch?v=DU9JCFMJp8E"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A malleable IDE for typed knowledge]]></title>
+        <id>https://github.com/arsumbris/arsumbris</id>
+        <link href="https://github.com/arsumbris/arsumbris"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
@@ -71,9 +92,30 @@
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A malleable IDE for typed knowledge]]></title>
-        <id>https://github.com/arsumbris/arsumbris</id>
-        <link href="https://github.com/arsumbris/arsumbris"/>
+        <title type="html"><![CDATA[DuckDB 2.0 Pushes Whole Queries Through ADBC–10–11× Faster on PostgreSQL]]></title>
+        <id>https://query.farm/blog/one-query-one-arrow-stream-adbc-duckdb-2/</id>
+        <link href="https://query.farm/blog/one-query-one-arrow-stream-adbc-duckdb-2/"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Society Tears Down Its Heroes]]></title>
+        <id>https://medium.com/theentertainmentbreakdown/on-the-demolition-of-heroes-aec8912d8c11</id>
+        <link href="https://medium.com/theentertainmentbreakdown/on-the-demolition-of-heroes-aec8912d8c11"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math in the Movies – Sneakers (1998)]]></title>
+        <id>https://theworld.com/~reinhold/math/sneakers.adleman.html</id>
+        <link href="https://theworld.com/~reinhold/math/sneakers.adleman.html"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can an R/C Car Hit 100k Scale Miles? Self Driving Edition]]></title>
+        <id>https://www.youtube.com/watch?v=LjQ59b9OKyg</id>
+        <link href="https://www.youtube.com/watch?v=LjQ59b9OKyg"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
@@ -133,58 +175,30 @@ https://github.com/evoluteur/evolutility-server-node
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code: Hook, Skill hay Subagent — chọn sai mất gì?]]></title>
-        <id>https://dev.to/bean_bean/claude-code-hook-skill-hay-subagent-chon-sai-mat-gi-1k3a</id>
-        <link href="https://dev.to/bean_bean/claude-code-hook-skill-hay-subagent-chon-sai-mat-gi-1k3a"/>
+        <title type="html"><![CDATA[Most frontend performance advice is generic. This is what I actually did in a real production app to fix slow loading and improve user experience.]]></title>
+        <id>https://dev.to/danishasif/most-frontend-performance-advice-is-generic-this-is-what-i-actually-did-in-a-real-production-app-3597</id>
+        <link href="https://dev.to/danishasif/most-frontend-performance-advice-is-generic-this-is-what-i-actually-did-in-a-real-production-app-3597"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Giá token 13/9: 12 thay đổi giá, tính lại budget model LLM]]></title>
-        <id>https://dev.to/bean_bean/gia-token-139-12-thay-doi-gia-tinh-lai-budget-model-llm-1b69</id>
-        <link href="https://dev.to/bean_bean/gia-token-139-12-thay-doi-gia-tinh-lai-budget-model-llm-1b69"/>
+        <title type="html"><![CDATA[Playwright email verification can pass for the wrong reason: six checks for a trustworthy test]]></title>
+        <id>https://dev.to/sefara/playwright-email-verification-can-pass-for-the-wrong-reason-six-checks-for-a-trustworthy-test-20nd</id>
+        <link href="https://dev.to/sefara/playwright-email-verification-can-pass-for-the-wrong-reason-six-checks-for-a-trustworthy-test-20nd"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Writing Boilerplate: A Visual Generator for MCP Server Schemas]]></title>
-        <id>https://dev.to/minh_phuongnguyen_b13201/stop-writing-boilerplate-a-visual-generator-for-mcp-server-schemas-5cec</id>
-        <link href="https://dev.to/minh_phuongnguyen_b13201/stop-writing-boilerplate-a-visual-generator-for-mcp-server-schemas-5cec"/>
+        <title type="html"><![CDATA[Audio Trimmer: Cut Any Audio Clip Free, Right in Your Browser]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/audio-trimmer-cut-any-audio-clip-free-right-in-your-browser-3476</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/audio-trimmer-cut-any-audio-clip-free-right-in-your-browser-3476"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built an email scorer in one HTML file with zero dependencies. Here is every threshold and where it came from.]]></title>
-        <id>https://dev.to/leaderr700/i-built-an-email-scorer-in-one-html-file-with-zero-dependencies-here-is-every-threshold-and-where-5fkm</id>
-        <link href="https://dev.to/leaderr700/i-built-an-email-scorer-in-one-html-file-with-zero-dependencies-here-is-every-threshold-and-where-5fkm"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review Agent PRs That Hide Missing Data With Optional Chaining]]></title>
-        <id>https://dev.to/codejs_6920/review-agent-prs-that-hide-missing-data-with-optional-chaining-4nob</id>
-        <link href="https://dev.to/codejs_6920/review-agent-prs-that-hide-missing-data-with-optional-chaining-4nob"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Hallucinating: How to Build the Neuro-Symbolic Loop with LLMs and TypeScript]]></title>
-        <id>https://dev.to/programmingcentral/stop-hallucinating-how-to-build-the-neuro-symbolic-loop-with-llms-and-typescript-5f07</id>
-        <link href="https://dev.to/programmingcentral/stop-hallucinating-how-to-build-the-neuro-symbolic-loop-with-llms-and-typescript-5f07"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Letter to Friday-Me: Budget, Isolate, Then Stamp the Receipt]]></title>
-        <id>https://dev.to/codejs_8314/letter-to-friday-me-budget-isolate-then-stamp-the-receipt-28ie</id>
-        <link href="https://dev.to/codejs_8314/letter-to-friday-me-budget-isolate-then-stamp-the-receipt-28ie"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chat Logs Aren't Homework: A Bootcamp Lab on Agent Write-Set Contracts]]></title>
-        <id>https://dev.to/hackjs_7468/chat-logs-arent-homework-a-bootcamp-lab-on-agent-write-set-contracts-3abp</id>
-        <link href="https://dev.to/hackjs_7468/chat-logs-arent-homework-a-bootcamp-lab-on-agent-write-set-contracts-3abp"/>
+        <title type="html"><![CDATA[Self-taught dev with real client work, looking for a team to learn from]]></title>
+        <id>https://dev.to/monicah/self-taught-dev-with-real-client-work-looking-for-a-team-to-learn-from-130g</id>
+        <link href="https://dev.to/monicah/self-taught-dev-with-real-client-work-looking-for-a-team-to-learn-from-130g"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
@@ -196,9 +210,58 @@ https://github.com/evoluteur/evolutility-server-node
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Self-taught dev with real client work, looking for a team to learn from]]></title>
-        <id>https://dev.to/monicah/self-taught-dev-with-real-client-work-looking-for-a-team-to-learn-from-130g</id>
-        <link href="https://dev.to/monicah/self-taught-dev-with-real-client-work-looking-for-a-team-to-learn-from-130g"/>
+        <title type="html"><![CDATA[Chat Logs Aren't Homework: A Bootcamp Lab on Agent Write-Set Contracts]]></title>
+        <id>https://dev.to/hackjs_7468/chat-logs-arent-homework-a-bootcamp-lab-on-agent-write-set-contracts-3abp</id>
+        <link href="https://dev.to/hackjs_7468/chat-logs-arent-homework-a-bootcamp-lab-on-agent-write-set-contracts-3abp"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Letter to Friday-Me: Budget, Isolate, Then Stamp the Receipt]]></title>
+        <id>https://dev.to/codejs_8314/letter-to-friday-me-budget-isolate-then-stamp-the-receipt-28ie</id>
+        <link href="https://dev.to/codejs_8314/letter-to-friday-me-budget-isolate-then-stamp-the-receipt-28ie"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Hallucinating: How to Build the Neuro-Symbolic Loop with LLMs and TypeScript]]></title>
+        <id>https://dev.to/programmingcentral/stop-hallucinating-how-to-build-the-neuro-symbolic-loop-with-llms-and-typescript-5f07</id>
+        <link href="https://dev.to/programmingcentral/stop-hallucinating-how-to-build-the-neuro-symbolic-loop-with-llms-and-typescript-5f07"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review Agent PRs That Hide Missing Data With Optional Chaining]]></title>
+        <id>https://dev.to/codejs_6920/review-agent-prs-that-hide-missing-data-with-optional-chaining-4nob</id>
+        <link href="https://dev.to/codejs_6920/review-agent-prs-that-hide-missing-data-with-optional-chaining-4nob"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built an email scorer in one HTML file with zero dependencies. Here is every threshold and where it came from.]]></title>
+        <id>https://dev.to/leaderr700/i-built-an-email-scorer-in-one-html-file-with-zero-dependencies-here-is-every-threshold-and-where-5fkm</id>
+        <link href="https://dev.to/leaderr700/i-built-an-email-scorer-in-one-html-file-with-zero-dependencies-here-is-every-threshold-and-where-5fkm"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Writing Boilerplate: A Visual Generator for MCP Server Schemas]]></title>
+        <id>https://dev.to/minh_phuongnguyen_b13201/stop-writing-boilerplate-a-visual-generator-for-mcp-server-schemas-5cec</id>
+        <link href="https://dev.to/minh_phuongnguyen_b13201/stop-writing-boilerplate-a-visual-generator-for-mcp-server-schemas-5cec"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giá token 13/9: 12 thay đổi giá, tính lại budget model LLM]]></title>
+        <id>https://dev.to/bean_bean/gia-token-139-12-thay-doi-gia-tinh-lai-budget-model-llm-1b69</id>
+        <link href="https://dev.to/bean_bean/gia-token-139-12-thay-doi-gia-tinh-lai-budget-model-llm-1b69"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code: Hook, Skill hay Subagent — chọn sai mất gì?]]></title>
+        <id>https://dev.to/bean_bean/claude-code-hook-skill-hay-subagent-chon-sai-mat-gi-1k3a</id>
+        <link href="https://dev.to/bean_bean/claude-code-hook-skill-hay-subagent-chon-sai-mat-gi-1k3a"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
@@ -231,142 +294,79 @@ https://github.com/evoluteur/evolutility-server-node
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA['I'm Terrified': A Mathematician Grapples with AI's Recent Breakthroughs]]></title>
-        <id>https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/</id>
-        <link href="https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/"/>
+        <title type="html"><![CDATA[Gemma 4 26B on a 24 GB Mac Mini M4: from 66% CPU to 100% GPU]]></title>
+        <id>https://mac-mini-m4-doc.masterfabric.co/</id>
+        <link href="https://mac-mini-m4-doc.masterfabric.co/"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Hop – project sessions beyond tmux]]></title>
-        <id>https://github.com/artemave/hop</id>
-        <link href="https://github.com/artemave/hop"/>
+        <title type="html"><![CDATA[Show HN: AgentJIT – Compile dynamic LLM agent workflows into 0.1ms Python]]></title>
+        <id>https://github.com/eminsk/agentjit</id>
+        <link href="https://github.com/eminsk/agentjit"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vinix is a modern, fast, and useful OS in the V programming language]]></title>
-        <id>https://github.com/vlang/vinix</id>
-        <link href="https://github.com/vlang/vinix"/>
+        <title type="html"><![CDATA[Show HN: InterviewsRadar – Sell or find interview experiences]]></title>
+        <id>https://interviewsradar.com</id>
+        <link href="https://interviewsradar.com"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Sweet, a whole website of video game menus" The Game UI Database]]></title>
-        <id>https://unsung.aresluna.org/sweet-a-whole-website-of-video-game-menus/</id>
-        <link href="https://unsung.aresluna.org/sweet-a-whole-website-of-video-game-menus/"/>
+        <title type="html"><![CDATA[SQLite natively supports JSON as output format]]></title>
+        <id>https://mastodon.social/@chr1stian/117263681445001754</id>
+        <link href="https://mastodon.social/@chr1stian/117263681445001754"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Scriptlet – a native macOS app for package.json scripts]]></title>
-        <id>https://scriptlet.app/</id>
-        <link href="https://scriptlet.app/"/>
+        <title type="html"><![CDATA[Free domain monitoring through echelongraoh.io]]></title>
+        <id>https://news.ycombinator.com/item?id=49683299</id>
+        <link href="https://news.ycombinator.com/item?id=49683299"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linguistic Systems, Architect, and Coding]]></title>
-        <id>https://github.com/Billinmail79/Linguistic-Systems-Architecture-and-Coding/blob/main/README.md</id>
-        <link href="https://github.com/Billinmail79/Linguistic-Systems-Architecture-and-Coding/blob/main/README.md"/>
+        <title type="html"><![CDATA["Deciphering Visceral Instincts" by Diego Bohórquez [video]]]></title>
+        <id>https://www.youtube.com/watch?v=YXXYM3Z4fV0</id>
+        <link href="https://www.youtube.com/watch?v=YXXYM3Z4fV0"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astra and Fable still hack on simple variants of alignment evals from 2025]]></title>
-        <id>https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment</id>
-        <link href="https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment"/>
+        <title type="html"><![CDATA[Principal Component Analysis]]></title>
+        <id>https://brashandplucky.com/2023/09/07/principal-component-analysis.html</id>
+        <link href="https://brashandplucky.com/2023/09/07/principal-component-analysis.html"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Choose OAuth Scopes for Wrangler and the Cloudflare API MCP Server]]></title>
-        <id>https://developers.cloudflare.com/changelog/post/2026-08-22-wrangler-mcp-optional-oauth-scopes/</id>
-        <link href="https://developers.cloudflare.com/changelog/post/2026-08-22-wrangler-mcp-optional-oauth-scopes/"/>
+        <title type="html"><![CDATA[Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted]]></title>
+        <id>https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return</id>
+        <link href="https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My First Week with GPT-6 Astra]]></title>
-        <id>https://www.vincentschmalbach.com/gpt-6-astra-first-week/</id>
-        <link href="https://www.vincentschmalbach.com/gpt-6-astra-first-week/"/>
+        <title type="html"><![CDATA[Guidance on Using CC Licenses in an AI Ecosystem]]></title>
+        <id>https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/</id>
+        <link href="https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New 'Zuckoff' App Detects Nearby Meta Smart Glasses Amid Privacy Backlash]]></title>
-        <id>https://www.channelnews.com.au/new-zuckoff-app-detects-nearby-meta-smart-glasses-amid-privacy-backlash/</id>
-        <link href="https://www.channelnews.com.au/new-zuckoff-app-detects-nearby-meta-smart-glasses-amid-privacy-backlash/"/>
+        <title type="html"><![CDATA[MetaPost library for black and white illustrations]]></title>
+        <id>https://github.com/jemmybutton/fiziko</id>
+        <link href="https://github.com/jemmybutton/fiziko"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MCP Server for reduce use of Token]]></title>
-        <id>https://github.com/dangranaz/nxm-memory</id>
-        <link href="https://github.com/dangranaz/nxm-memory"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten years of AI reporting ("60 Minutes" Marathon) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=QdK-j7SYh4A</id>
-        <link href="https://www.youtube.com/watch?v=QdK-j7SYh4A"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9/11 survivors are being diagnosed with cancer 25 years after the attacks [video]]]></title>
-        <id>https://www.youtube.com/watch?v=gKEly6Vs3MU</id>
-        <link href="https://www.youtube.com/watch?v=gKEly6Vs3MU"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIs as Modern Genies]]></title>
-        <id>https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html</id>
-        <link href="https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carissa Véliz: Beware the power of prediction [video]]]></title>
-        <id>https://www.ted.com/talks/carissa_veliz_beware_the_power_of_prediction</id>
-        <link href="https://www.ted.com/talks/carissa_veliz_beware_the_power_of_prediction"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nova Seed. Create an AI friend and build something together]]></title>
-        <id>https://github.com/mas-bandwidth/nova</id>
-        <link href="https://github.com/mas-bandwidth/nova"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A.I. Slopware Is Everywhere Now. Nobody Is Using It]]></title>
-        <id>https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html</id>
-        <link href="https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asking Anthropic CEO: 'Do you earnestly believe that AI could kill all humans?']]></title>
-        <id>https://www.cnn.com/business/video/anderson-cooper-anthropic-ceo-dario-amodei-could-ai-kill-humans-digvid</id>
-        <link href="https://www.cnn.com/business/video/anderson-cooper-anthropic-ceo-dario-amodei-could-ai-kill-humans-digvid"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists Create a New Form of Ice at More Than 2000°C]]></title>
-        <id>https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c</id>
-        <link href="https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c"/>
-        <updated>2026-09-12T16:00:00.000Z</updated>
-        <published>2026-09-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement]]></title>
-        <id>https://arxiv.org/abs/2609.11873</id>
-        <link href="https://arxiv.org/abs/2609.11873"/>
+        <title type="html"><![CDATA[Actuali: free Actual Budget client for iOS]]></title>
+        <id>https://actuali.mfazz.com/</id>
+        <link href="https://actuali.mfazz.com/"/>
         <updated>2026-09-12T16:00:00.000Z</updated>
         <published>2026-09-12T16:00:00.000Z</published>
     </entry>
