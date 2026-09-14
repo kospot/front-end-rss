@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-14T13:03:25.407Z</updated>
+    <updated>2026-09-14T15:03:13.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The Units’ Digital Stimulation is synthpunk perfection]]></title>
-        <id>https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review</id>
-        <link href="https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review"/>
+        <title type="html"><![CDATA[The four-hour-long Elon Musk documentary might be preaching to the choir]]></title>
+        <id>https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026</id>
+        <link href="https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[Trump and Mike Johnson think the AI industry is overreacting]]></title>
         <id>https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting</id>
         <link href="https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Units’ Digital Stimulation is synthpunk perfection]]></title>
+        <id>https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review</id>
+        <link href="https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
@@ -50,6 +57,13 @@
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?]]></title>
+        <id>https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/</id>
+        <link href="https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs]]></title>
         <id>https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/</id>
         <link href="https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/"/>
@@ -57,226 +71,65 @@
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fake GitHub Repositories Spreading Malware via PowerShell]]></title>
-        <id>https://jdstaerk.substack.com/p/greetings-from-the-rabbids-team</id>
-        <link href="https://jdstaerk.substack.com/p/greetings-from-the-rabbids-team"/>
+        <title type="html"><![CDATA[Show HN: I built a URL shortener from scratch]]></title>
+        <id>https://news.ycombinator.com/item?id=49698049</id>
+        <link href="https://news.ycombinator.com/item?id=49698049"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Portfolio in Pokedex(First Post)]]></title>
-        <id>https://news.ycombinator.com/item?id=49695952</id>
-        <link href="https://news.ycombinator.com/item?id=49695952"/>
+        <title type="html"><![CDATA[Disruption scenarios map for oil and gas reserves, infrastructure and LNG flows]]></title>
+        <id>https://energymap.marain.space/</id>
+        <link href="https://energymap.marain.space/"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React instructors – where do your students get stuck every term?]]></title>
-        <id>https://blog.crossui.com/2026/09/every-react-instructor-has-drawn-this-box-diagram</id>
-        <link href="https://blog.crossui.com/2026/09/every-react-instructor-has-drawn-this-box-diagram"/>
+        <title type="html"><![CDATA[One Gets Through – Missile Command, but you launch the missiles]]></title>
+        <id>https://onegetsthrough.com/</id>
+        <link href="https://onegetsthrough.com/"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oracle tries to appease Stargate data center opponents with renewables push]]></title>
-        <id>https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/</id>
-        <link href="https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/"/>
+        <title type="html"><![CDATA[The trust infrastructure behind buying a bottle of bourbon]]></title>
+        <id>https://syntheticauth.ai/posts/the-trust-stack-01-nobody-trusts-anybody</id>
+        <link href="https://syntheticauth.ai/posts/the-trust-stack-01-nobody-trusts-anybody"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Most Advanced Storage System [video]]]></title>
-        <id>https://www.youtube.com/watch?v=QstEkNJhJKo</id>
-        <link href="https://www.youtube.com/watch?v=QstEkNJhJKo"/>
+        <title type="html"><![CDATA[Scientists Find a Subtle Clue to ADHD Hidden in the Eyes]]></title>
+        <id>https://www.sciencealert.com/scientists-find-a-subtle-clue-to-adhd-hidden-in-the-eyes</id>
+        <link href="https://www.sciencealert.com/scientists-find-a-subtle-clue-to-adhd-hidden-in-the-eyes"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zizka AI Called This Already. Now Dario, Musk, and Altman Agree]]></title>
-        <id>https://medium.com/@MirArshadTalpur/zizka-ai-called-this-already-now-dario-musk-and-altman-agree-7aaff0a74399</id>
-        <link href="https://medium.com/@MirArshadTalpur/zizka-ai-called-this-already-now-dario-musk-and-altman-agree-7aaff0a74399"/>
+        <title type="html"><![CDATA[Show HN: Pushie – Get notified with a simple webhook]]></title>
+        <id>https://pushie.net</id>
+        <link href="https://pushie.net"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I built an infinite canvas for game masters]]></title>
-        <id>https://overseer.studio</id>
-        <link href="https://overseer.studio"/>
+        <title type="html"><![CDATA[Post Peek – Litterbox-Inspired Tweet Viewing Extension for Chrome]]></title>
+        <id>https://daringfireball.net/linked/2026/09/12/post-peek</id>
+        <link href="https://daringfireball.net/linked/2026/09/12/post-peek"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI]]></title>
-        <id>https://github.com/Newspicel/sdrminusminus</id>
-        <link href="https://github.com/Newspicel/sdrminusminus"/>
+        <title type="html"><![CDATA[Component Hashes in SBOMs]]></title>
+        <id>https://worklifenotes.com/2026/09/14/component-hashes-in-sboms/</id>
+        <link href="https://worklifenotes.com/2026/09/14/component-hashes-in-sboms/"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Detecting and Weaponizing NetScaler]]></title>
-        <id>https://bishopfox.com/blog/mind-the-config-detecting-and-weaponizing-netscaler-cve-2026-19490</id>
-        <link href="https://bishopfox.com/blog/mind-the-config-detecting-and-weaponizing-netscaler-cve-2026-19490"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Quiet Collapse After Letting Go]]></title>
-        <id>https://medium.com/freedomofthought/the-quiet-collapse-after-letting-go-d8149f119868</id>
-        <link href="https://medium.com/freedomofthought/the-quiet-collapse-after-letting-go-d8149f119868"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Soviet Nail Factory: how KPIs killed efficiency (June 2026)]]></title>
-        <id>https://vincent.bernat.ch/en/blog/2026-kpi-goodhart</id>
-        <link href="https://vincent.bernat.ch/en/blog/2026-kpi-goodhart"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Below the Root: JavaScript port of the Commodore 64 game]]></title>
-        <id>https://below-the-root.saul.pw/about</id>
-        <link href="https://below-the-root.saul.pw/about"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: SutraDB v2.1 – Pure-Python Hybrid Vector DB and IVF-Flat ANN]]></title>
-        <id>https://pypi.org/project/sutradb-core/</id>
-        <link href="https://pypi.org/project/sutradb-core/"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmarterPlaylists by the Numbers – A Decade in Review]]></title>
-        <id>https://musicmachinery.com/2026/03/06/smarterplaylists-by-the-numbers-a-decade-in-review/</id>
-        <link href="https://musicmachinery.com/2026/03/06/smarterplaylists-by-the-numbers-a-decade-in-review/"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvin Minsky and Eliezer Yudkowsky(2001)]]></title>
-        <id>https://extropians.weidai.com/extropians.1Q01/4767.html</id>
-        <link href="https://extropians.weidai.com/extropians.1Q01/4767.html"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelonJS: Modern and featured HTML5 game engine]]></title>
-        <id>https://melonjs.org/</id>
-        <link href="https://melonjs.org/"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can an R/C Car Hit 100k Scale Miles? Self Driving Edition]]></title>
-        <id>https://www.youtube.com/watch?v=LjQ59b9OKyg</id>
-        <link href="https://www.youtube.com/watch?v=LjQ59b9OKyg"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math in the Movies – Sneakers (1998)]]></title>
-        <id>https://theworld.com/~reinhold/math/sneakers.adleman.html</id>
-        <link href="https://theworld.com/~reinhold/math/sneakers.adleman.html"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Society Tears Down Its Heroes]]></title>
-        <id>https://medium.com/theentertainmentbreakdown/on-the-demolition-of-heroes-aec8912d8c11</id>
-        <link href="https://medium.com/theentertainmentbreakdown/on-the-demolition-of-heroes-aec8912d8c11"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDB 2.0 Pushes Whole Queries Through ADBC–10–11× Faster on PostgreSQL]]></title>
-        <id>https://query.farm/blog/one-query-one-arrow-stream-adbc-duckdb-2/</id>
-        <link href="https://query.farm/blog/one-query-one-arrow-stream-adbc-duckdb-2/"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Human Use of Human Beings - Norbert Wiener (1989) [pdf]]]></title>
-        <id>https://monoskop.org/images/6/60/Wiener_Norbert_The_Human_Use_of_Human_Beings_1989.pdf</id>
-        <link href="https://monoskop.org/images/6/60/Wiener_Norbert_The_Human_Use_of_Human_Beings_1989.pdf"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A malleable IDE for typed knowledge]]></title>
-        <id>https://github.com/arsumbris/arsumbris</id>
-        <link href="https://github.com/arsumbris/arsumbris"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aviloop: YouTube's Darkest Mystery [video]]]></title>
-        <id>https://www.youtube.com/watch?v=DU9JCFMJp8E</id>
-        <link href="https://www.youtube.com/watch?v=DU9JCFMJp8E"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Godfather of AI welcomes pause in development (interview with Hinton)]]></title>
-        <id>https://www.abc.net.au/listen/programs/radionational-breakfast/godfather-of-ai-welcomes-pause-in-development/107148300</id>
-        <link href="https://www.abc.net.au/listen/programs/radionational-breakfast/godfather-of-ai-welcomes-pause-in-development/107148300"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opportunistic AI detects colorectal cancer using routine, noncontrast CT]]></title>
-        <id>https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct</id>
-        <link href="https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[new free website for people who are interested in free trading tools]]></title>
-        <id>https://news.ycombinator.com/item?id=49690844</id>
-        <link href="https://news.ycombinator.com/item?id=49690844"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Oopsies " FreeBSD Devs Say There's Still GPL in the Kernel]]></title>
-        <id>https://fossforce.com/2026/07/oopsies-freebsd-devs-say-theres-still-gpl-in-the-kernel/</id>
-        <link href="https://fossforce.com/2026/07/oopsies-freebsd-devs-say-theres-still-gpl-in-the-kernel/"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bruce Schneier: No, AI doesn't mean the end of mathematics – at least not yet]]></title>
-        <id>https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers</id>
-        <link href="https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunsetting Remove.bg]]></title>
-        <id>https://www.remove.bg/faq</id>
-        <link href="https://www.remove.bg/faq"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Does SpaceX Have 11,000 Starlink Satellites? [video]]]></title>
-        <id>https://www.youtube.com/watch?v=DW-aL_MiUz4</id>
-        <link href="https://www.youtube.com/watch?v=DW-aL_MiUz4"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BYD has apparently canceled this year's profit bonus]]></title>
-        <id>https://www.kucoin.com/news/insight/BYD/6aa543e9ccf4ec00077d0eb2</id>
-        <link href="https://www.kucoin.com/news/insight/BYD/6aa543e9ccf4ec00077d0eb2"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anecdotally, Programmers Dislike "Reduce"]]></title>
-        <id>https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</id>
-        <link href="https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/"/>
+        <title type="html"><![CDATA[A list of 1,325 AI assisted repositories, mined from GitHub]]></title>
+        <id>https://github.com/ActuallyTaylor/strata/blob/main/paper/data/large/datasets/ai-assisted-repositories.csv</id>
+        <link href="https://github.com/ActuallyTaylor/strata/blob/main/paper/data/large/datasets/ai-assisted-repositories.csv"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
@@ -288,79 +141,226 @@
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Perplexity trusts GPT-6 Astra with end-to-end systems]]></title>
-        <id>https://openai.com/index/perplexity-improving-accuracy-with-astra</id>
-        <link href="https://openai.com/index/perplexity-improving-accuracy-with-astra"/>
+        <title type="html"><![CDATA[Anecdotally, Programmers Dislike "Reduce"]]></title>
+        <id>https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</id>
+        <link href="https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Knowledge Graphs vs Vector Databases: The 2026 Verdict for AI Engineers]]></title>
-        <id>https://pub.towardsai.net/knowledge-graphs-vs-vector-databases-the-2026-verdict-for-ai-engineers-aec93ad6a130?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/knowledge-graphs-vs-vector-databases-the-2026-verdict-for-ai-engineers-aec93ad6a130?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[BYD has apparently canceled this year's profit bonus]]></title>
+        <id>https://www.kucoin.com/news/insight/BYD/6aa543e9ccf4ec00077d0eb2</id>
+        <link href="https://www.kucoin.com/news/insight/BYD/6aa543e9ccf4ec00077d0eb2"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Gave GPT-6 Astra and Claude Fable 5.1 One Messy Codebase. Here’s Who Survived.]]></title>
-        <id>https://pub.towardsai.net/i-gave-gpt-6-astra-and-claude-fable-5-1-one-messy-codebase-heres-who-survived-e1f402b4a2a2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-gave-gpt-6-astra-and-claude-fable-5-1-one-messy-codebase-heres-who-survived-e1f402b4a2a2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why Does SpaceX Have 11,000 Starlink Satellites? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=DW-aL_MiUz4</id>
+        <link href="https://www.youtube.com/watch?v=DW-aL_MiUz4"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-6 Astra Scored 100%. Another Test Gave It 39%. Which Number Should You Trust?]]></title>
-        <id>https://pub.towardsai.net/gpt-6-astra-scored-100-another-test-gave-it-39-which-number-should-you-trust-c03ee450978b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/gpt-6-astra-scored-100-another-test-gave-it-39-which-number-should-you-trust-c03ee450978b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Sunsetting Remove.bg]]></title>
+        <id>https://www.remove.bg/faq</id>
+        <link href="https://www.remove.bg/faq"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qwen Prompting Guide 2026: The Local Text Models]]></title>
-        <id>https://pub.towardsai.net/qwen-prompting-guide-2026-the-local-text-models-021dbb6f5d19?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/qwen-prompting-guide-2026-the-local-text-models-021dbb6f5d19?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Bruce Schneier: No, AI doesn't mean the end of mathematics – at least not yet]]></title>
+        <id>https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers</id>
+        <link href="https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond LLMs: The Rise of Foundation Models for Tables, Time Series, and Structured Data]]></title>
-        <id>https://pub.towardsai.net/beyond-llms-the-rise-of-foundation-models-for-tables-time-series-and-structured-data-8ccf2a3274bf?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/beyond-llms-the-rise-of-foundation-models-for-tables-time-series-and-structured-data-8ccf2a3274bf?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA["Oopsies " FreeBSD Devs Say There's Still GPL in the Kernel]]></title>
+        <id>https://fossforce.com/2026/07/oopsies-freebsd-devs-say-theres-still-gpl-in-the-kernel/</id>
+        <link href="https://fossforce.com/2026/07/oopsies-freebsd-devs-say-theres-still-gpl-in-the-kernel/"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which Claude Certification Should You Take? A Practical Roadmap to Choosing Your Path]]></title>
-        <id>https://pub.towardsai.net/which-claude-certification-should-you-take-a-practical-roadmap-to-choosing-your-path-4fc0732acc37?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/which-claude-certification-should-you-take-a-practical-roadmap-to-choosing-your-path-4fc0732acc37?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[new free website for people who are interested in free trading tools]]></title>
+        <id>https://news.ycombinator.com/item?id=49690844</id>
+        <link href="https://news.ycombinator.com/item?id=49690844"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Llama 3.1 8B on a 4 GB GPU: Soup's Validator Rejects 20 of Its 21 Templates]]></title>
-        <id>https://pub.towardsai.net/llama-3-1-8b-on-a-4-gb-gpu-soups-validator-rejects-20-of-its-21-templates-77d2e32d4349?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/llama-3-1-8b-on-a-4-gb-gpu-soups-validator-rejects-20-of-its-21-templates-77d2e32d4349?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Opportunistic AI detects colorectal cancer using routine, noncontrast CT]]></title>
+        <id>https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct</id>
+        <link href="https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TRACING (Observability Series — Part 1 · Langfuse overview + Setting up Tracing for Any…]]></title>
-        <id>https://pub.towardsai.net/tracing-observability-series-part-1-langfuse-overview-setting-up-tracing-for-any-8f6a1ae1d4b3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/tracing-observability-series-part-1-langfuse-overview-setting-up-tracing-for-any-8f6a1ae1d4b3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Godfather of AI welcomes pause in development (interview with Hinton)]]></title>
+        <id>https://www.abc.net.au/listen/programs/radionational-breakfast/godfather-of-ai-welcomes-pause-in-development/107148300</id>
+        <link href="https://www.abc.net.au/listen/programs/radionational-breakfast/godfather-of-ai-welcomes-pause-in-development/107148300"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cortex Agents Left Unmonitored for a Month — Here’s What Trust Center Found]]></title>
-        <id>https://pub.towardsai.net/cortex-agents-left-unmonitored-for-a-month-heres-what-trust-center-found-94bce70a3d39?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/cortex-agents-left-unmonitored-for-a-month-heres-what-trust-center-found-94bce70a3d39?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Aviloop: YouTube's Darkest Mystery [video]]]></title>
+        <id>https://www.youtube.com/watch?v=DU9JCFMJp8E</id>
+        <link href="https://www.youtube.com/watch?v=DU9JCFMJp8E"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Durable Asset is the Control Plane, not the Frontier Model]]></title>
-        <id>https://pub.towardsai.net/the-durable-asset-is-the-control-plane-not-the-frontier-model-a399446bb1f1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-durable-asset-is-the-control-plane-not-the-frontier-model-a399446bb1f1?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[A malleable IDE for typed knowledge]]></title>
+        <id>https://github.com/arsumbris/arsumbris</id>
+        <link href="https://github.com/arsumbris/arsumbris"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Human Use of Human Beings - Norbert Wiener (1989) [pdf]]]></title>
+        <id>https://monoskop.org/images/6/60/Wiener_Norbert_The_Human_Use_of_Human_Beings_1989.pdf</id>
+        <link href="https://monoskop.org/images/6/60/Wiener_Norbert_The_Human_Use_of_Human_Beings_1989.pdf"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDB 2.0 Pushes Whole Queries Through ADBC–10–11× Faster on PostgreSQL]]></title>
+        <id>https://query.farm/blog/one-query-one-arrow-stream-adbc-duckdb-2/</id>
+        <link href="https://query.farm/blog/one-query-one-arrow-stream-adbc-duckdb-2/"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Society Tears Down Its Heroes]]></title>
+        <id>https://medium.com/theentertainmentbreakdown/on-the-demolition-of-heroes-aec8912d8c11</id>
+        <link href="https://medium.com/theentertainmentbreakdown/on-the-demolition-of-heroes-aec8912d8c11"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math in the Movies – Sneakers (1998)]]></title>
+        <id>https://theworld.com/~reinhold/math/sneakers.adleman.html</id>
+        <link href="https://theworld.com/~reinhold/math/sneakers.adleman.html"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can an R/C Car Hit 100k Scale Miles? Self Driving Edition]]></title>
+        <id>https://www.youtube.com/watch?v=LjQ59b9OKyg</id>
+        <link href="https://www.youtube.com/watch?v=LjQ59b9OKyg"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MelonJS: Modern and featured HTML5 game engine]]></title>
+        <id>https://melonjs.org/</id>
+        <link href="https://melonjs.org/"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvin Minsky and Eliezer Yudkowsky(2001)]]></title>
+        <id>https://extropians.weidai.com/extropians.1Q01/4767.html</id>
+        <link href="https://extropians.weidai.com/extropians.1Q01/4767.html"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmarterPlaylists by the Numbers – A Decade in Review]]></title>
+        <id>https://musicmachinery.com/2026/03/06/smarterplaylists-by-the-numbers-a-decade-in-review/</id>
+        <link href="https://musicmachinery.com/2026/03/06/smarterplaylists-by-the-numbers-a-decade-in-review/"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: SutraDB v2.1 – Pure-Python Hybrid Vector DB and IVF-Flat ANN]]></title>
+        <id>https://pypi.org/project/sutradb-core/</id>
+        <link href="https://pypi.org/project/sutradb-core/"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Below the Root: JavaScript port of the Commodore 64 game]]></title>
+        <id>https://below-the-root.saul.pw/about</id>
+        <link href="https://below-the-root.saul.pw/about"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Soviet Nail Factory: how KPIs killed efficiency (June 2026)]]></title>
+        <id>https://vincent.bernat.ch/en/blog/2026-kpi-goodhart</id>
+        <link href="https://vincent.bernat.ch/en/blog/2026-kpi-goodhart"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Quiet Collapse After Letting Go]]></title>
+        <id>https://medium.com/freedomofthought/the-quiet-collapse-after-letting-go-d8149f119868</id>
+        <link href="https://medium.com/freedomofthought/the-quiet-collapse-after-letting-go-d8149f119868"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting and Weaponizing NetScaler]]></title>
+        <id>https://bishopfox.com/blog/mind-the-config-detecting-and-weaponizing-netscaler-cve-2026-19490</id>
+        <link href="https://bishopfox.com/blog/mind-the-config-detecting-and-weaponizing-netscaler-cve-2026-19490"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI]]></title>
+        <id>https://github.com/Newspicel/sdrminusminus</id>
+        <link href="https://github.com/Newspicel/sdrminusminus"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I built an infinite canvas for game masters]]></title>
+        <id>https://overseer.studio</id>
+        <link href="https://overseer.studio"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zizka AI Called This Already. Now Dario, Musk, and Altman Agree]]></title>
+        <id>https://medium.com/@MirArshadTalpur/zizka-ai-called-this-already-now-dario-musk-and-altman-agree-7aaff0a74399</id>
+        <link href="https://medium.com/@MirArshadTalpur/zizka-ai-called-this-already-now-dario-musk-and-altman-agree-7aaff0a74399"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Advanced Storage System [video]]]></title>
+        <id>https://www.youtube.com/watch?v=QstEkNJhJKo</id>
+        <link href="https://www.youtube.com/watch?v=QstEkNJhJKo"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle tries to appease Stargate data center opponents with renewables push]]></title>
+        <id>https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/</id>
+        <link href="https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React instructors – where do your students get stuck every term?]]></title>
+        <id>https://blog.crossui.com/2026/09/every-react-instructor-has-drawn-this-box-diagram</id>
+        <link href="https://blog.crossui.com/2026/09/every-react-instructor-has-drawn-this-box-diagram"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portfolio in Pokedex(First Post)]]></title>
+        <id>https://news.ycombinator.com/item?id=49695952</id>
+        <link href="https://news.ycombinator.com/item?id=49695952"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake GitHub Repositories Spreading Malware via PowerShell]]></title>
+        <id>https://jdstaerk.substack.com/p/greetings-from-the-rabbids-team</id>
+        <link href="https://jdstaerk.substack.com/p/greetings-from-the-rabbids-team"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
