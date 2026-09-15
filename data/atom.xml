@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-15T00:02:20.117Z</updated>
+    <updated>2026-09-15T02:02:04.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,9 @@
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance]]></title>
-        <id>https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/</id>
-        <link href="https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"/>
+        <title type="html"><![CDATA[Volkswagen’s crazy-efficient EV borrows an idea from Slate]]></title>
+        <id>https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/</id>
+        <link href="https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
@@ -36,9 +36,9 @@
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volkswagen’s crazy-efficient EV borrows an idea from Slate]]></title>
-        <id>https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/</id>
-        <link href="https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/"/>
+        <title type="html"><![CDATA[AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance]]></title>
+        <id>https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/</id>
+        <link href="https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
@@ -106,58 +106,51 @@
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debugging Minified JavaScript Production Errors in React and Next.js]]></title>
-        <id>https://dev.to/frozensigh2853916/debugging-minified-javascript-production-errors-in-react-and-nextjs-28ee</id>
-        <link href="https://dev.to/frozensigh2853916/debugging-minified-javascript-production-errors-in-react-and-nextjs-28ee"/>
+        <title type="html"><![CDATA[How to Calculate the Real APR of a Loan with Fees in TypeScript]]></title>
+        <id>https://dev.to/daikuantool/how-to-calculate-the-real-apr-of-a-loan-with-fees-in-typescript-163c</id>
+        <link href="https://dev.to/daikuantool/how-to-calculate-the-real-apr-of-a-loan-with-fees-in-typescript-163c"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bro.js v2.4.0 - Redis clustering, API key rotation, and a rate limiter that actually survives outages]]></title>
-        <id>https://dev.to/yass1n/brojs-v240-redis-clustering-api-key-rotation-and-a-rate-limiter-that-actually-survives-4pja</id>
-        <link href="https://dev.to/yass1n/brojs-v240-redis-clustering-api-key-rotation-and-a-rate-limiter-that-actually-survives-4pja"/>
+        <title type="html"><![CDATA[Fix: "Unable to extract timestamp and signatures from header" (Stripe webhooks)]]></title>
+        <id>https://dev.to/saasfactory/fix-unable-to-extract-timestamp-and-signatures-from-header-stripe-webhooks-27e7</id>
+        <link href="https://dev.to/saasfactory/fix-unable-to-extract-timestamp-and-signatures-from-header-stripe-webhooks-27e7"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Visual Website Builder with React: The Architecture Behind Webruno’s Page Editor]]></title>
-        <id>https://dev.to/idehweb/building-a-visual-website-builder-with-react-the-architecture-behind-webrunos-page-editor-3mdd</id>
-        <link href="https://dev.to/idehweb/building-a-visual-website-builder-with-react-the-architecture-behind-webrunos-page-editor-3mdd"/>
+        <title type="html"><![CDATA[WPS 开放平台实战：软件工程师如何用 JS 插件 + AI API 打造下一代办公自动化]]></title>
+        <id>https://dev.to/zhang_zhemin_22ab34ce2f74/wps-kai-fang-ping-tai-shi-zhan-ruan-jian-gong-cheng-shi-ru-he-yong-js-cha-jian-ai-api-da-zao-xia-dai-ban-gong-zi-dong-hua-5c6a</id>
+        <link href="https://dev.to/zhang_zhemin_22ab34ce2f74/wps-kai-fang-ping-tai-shi-zhan-ruan-jian-gong-cheng-shi-ru-he-yong-js-cha-jian-ai-api-da-zao-xia-dai-ban-gong-zi-dong-hua-5c6a"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
-        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-2kgf</id>
-        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-2kgf"/>
+        <title type="html"><![CDATA[Progressive Web Apps in 2025: A Production-Focused Guide to Service Workers, Caching, and the Install Experience]]></title>
+        <id>https://dev.to/emongmarcc/progressive-web-apps-in-2025-a-production-focused-guide-to-service-workers-caching-and-the-4n0i</id>
+        <link href="https://dev.to/emongmarcc/progressive-web-apps-in-2025-a-production-focused-guide-to-service-workers-caching-and-the-4n0i"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Source Liquidation: Multi-Tenant AI SaaS + Secure Browser DOM Automation Extension IP Assets]]></title>
-        <id>https://dev.to/syedimranzafar/open-source-liquidation-multi-tenant-ai-saas-secure-browser-dom-automation-extension-ip-assets-23ch</id>
-        <link href="https://dev.to/syedimranzafar/open-source-liquidation-multi-tenant-ai-saas-secure-browser-dom-automation-extension-ip-assets-23ch"/>
+        <title type="html"><![CDATA[JavaScript Promises and Async/Await Explained: A Complete Guide]]></title>
+        <id>https://dev.to/rawas_aditya/javascript-promises-and-asyncawait-explained-a-complete-guide-1ohb</id>
+        <link href="https://dev.to/rawas_aditya/javascript-promises-and-asyncawait-explained-a-complete-guide-1ohb"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Integrated OpenAI Function Calling into a Next.js App in My First 30 Days as an Autonomous AI]]></title>
-        <id>https://dev.to/genesis777/how-i-integrated-openai-function-calling-into-a-nextjs-app-in-my-first-30-days-as-an-autonomous-ai-2295</id>
-        <link href="https://dev.to/genesis777/how-i-integrated-openai-function-calling-into-a-nextjs-app-in-my-first-30-days-as-an-autonomous-ai-2295"/>
+        <title type="html"><![CDATA[React Hooks Explained: useState and useEffect in Depth]]></title>
+        <id>https://dev.to/rawas_aditya/react-hooks-explained-usestate-and-useeffect-in-depth-20bd</id>
+        <link href="https://dev.to/rawas_aditya/react-hooks-explained-usestate-and-useeffect-in-depth-20bd"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Sites To Buy Old Github Accounts In 2014-26]]></title>
-        <id>https://dev.to/colettabowers8v4en/top-10-sites-to-buy-old-github-accounts-in-2014-26-156k</id>
-        <link href="https://dev.to/colettabowers8v4en/top-10-sites-to-buy-old-github-accounts-in-2014-26-156k"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[03 Easy Ways to Buy Old Github Accounts Smartly]]></title>
-        <id>https://dev.to/colettabowers8v4en/03-easy-ways-to-buy-old-github-accounts-smartly-14mj</id>
-        <link href="https://dev.to/colettabowers8v4en/03-easy-ways-to-buy-old-github-accounts-smartly-14mj"/>
+        <title type="html"><![CDATA[Six ATS job boards publish their jobs as public JSON — and no two agree what a "job" is]]></title>
+        <id>https://dev.to/fetchsmith/six-ats-job-boards-publish-their-jobs-as-public-json-and-no-two-agree-what-a-job-is-5e57</id>
+        <link href="https://dev.to/fetchsmith/six-ats-job-boards-publish-their-jobs-as-public-json-and-no-two-agree-what-a-job-is-5e57"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
@@ -169,6 +162,62 @@
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[03 Easy Ways to Buy Old Github Accounts Smartly]]></title>
+        <id>https://dev.to/colettabowers8v4en/03-easy-ways-to-buy-old-github-accounts-smartly-14mj</id>
+        <link href="https://dev.to/colettabowers8v4en/03-easy-ways-to-buy-old-github-accounts-smartly-14mj"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Sites To Buy Old Github Accounts In 2014-26]]></title>
+        <id>https://dev.to/colettabowers8v4en/top-10-sites-to-buy-old-github-accounts-in-2014-26-156k</id>
+        <link href="https://dev.to/colettabowers8v4en/top-10-sites-to-buy-old-github-accounts-in-2014-26-156k"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Integrated OpenAI Function Calling into a Next.js App in My First 30 Days as an Autonomous AI]]></title>
+        <id>https://dev.to/genesis777/how-i-integrated-openai-function-calling-into-a-nextjs-app-in-my-first-30-days-as-an-autonomous-ai-2295</id>
+        <link href="https://dev.to/genesis777/how-i-integrated-openai-function-calling-into-a-nextjs-app-in-my-first-30-days-as-an-autonomous-ai-2295"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Source Liquidation: Multi-Tenant AI SaaS + Secure Browser DOM Automation Extension IP Assets]]></title>
+        <id>https://dev.to/syedimranzafar/open-source-liquidation-multi-tenant-ai-saas-secure-browser-dom-automation-extension-ip-assets-23ch</id>
+        <link href="https://dev.to/syedimranzafar/open-source-liquidation-multi-tenant-ai-saas-secure-browser-dom-automation-extension-ip-assets-23ch"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
+        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-2kgf</id>
+        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-2kgf"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Visual Website Builder with React: The Architecture Behind Webruno’s Page Editor]]></title>
+        <id>https://dev.to/idehweb/building-a-visual-website-builder-with-react-the-architecture-behind-webrunos-page-editor-3mdd</id>
+        <link href="https://dev.to/idehweb/building-a-visual-website-builder-with-react-the-architecture-behind-webrunos-page-editor-3mdd"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bro.js v2.4.0 - Redis clustering, API key rotation, and a rate limiter that actually survives outages]]></title>
+        <id>https://dev.to/yass1n/brojs-v240-redis-clustering-api-key-rotation-and-a-rate-limiter-that-actually-survives-4pja</id>
+        <link href="https://dev.to/yass1n/brojs-v240-redis-clustering-api-key-rotation-and-a-rate-limiter-that-actually-survives-4pja"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging Minified JavaScript Production Errors in React and Next.js]]></title>
+        <id>https://dev.to/frozensigh2853916/debugging-minified-javascript-production-errors-in-react-and-nextjs-28ee</id>
+        <link href="https://dev.to/frozensigh2853916/debugging-minified-javascript-production-errors-in-react-and-nextjs-28ee"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Comparing Values With CSS progress()]]></title>
         <id>https://blog.master.dev/comparing-values-with-css-progress/</id>
         <link href="https://blog.master.dev/comparing-values-with-css-progress/"/>
@@ -176,9 +225,9 @@
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The four-hour-long Elon Musk documentary might be preaching to the choir]]></title>
-        <id>https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026</id>
-        <link href="https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026"/>
+        <title type="html"><![CDATA[The Units’ Digital Stimulation is synthpunk perfection]]></title>
+        <id>https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review</id>
+        <link href="https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
@@ -190,23 +239,9 @@
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Units’ Digital Stimulation is synthpunk perfection]]></title>
-        <id>https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review</id>
-        <link href="https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roborock Qrevo 2 Review (2026): A New Budget Vacuum King?]]></title>
-        <id>https://www.wired.com/review/roborock-qrevo-2-pro/</id>
-        <link href="https://www.wired.com/review/roborock-qrevo-2-pro/"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe]]></title>
-        <id>https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/</id>
-        <link href="https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/"/>
+        <title type="html"><![CDATA[The four-hour-long Elon Musk documentary might be preaching to the choir]]></title>
+        <id>https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026</id>
+        <link href="https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
@@ -218,9 +253,16 @@
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs]]></title>
-        <id>https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/</id>
-        <link href="https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/"/>
+        <title type="html"><![CDATA[Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe]]></title>
+        <id>https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/</id>
+        <link href="https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roborock Qrevo 2 Review (2026): A New Budget Vacuum King?]]></title>
+        <id>https://www.wired.com/review/roborock-qrevo-2-pro/</id>
+        <link href="https://www.wired.com/review/roborock-qrevo-2-pro/"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
@@ -228,6 +270,13 @@
         <title type="html"><![CDATA[Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?]]></title>
         <id>https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/</id>
         <link href="https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/"/>
+        <updated>2026-09-13T16:00:00.000Z</updated>
+        <published>2026-09-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs]]></title>
+        <id>https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/</id>
+        <link href="https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
@@ -312,55 +361,6 @@
         <title type="html"><![CDATA[Below the Root: JavaScript port of the Commodore 64 game]]></title>
         <id>https://below-the-root.saul.pw/about</id>
         <link href="https://below-the-root.saul.pw/about"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: SutraDB v2.1 – Pure-Python Hybrid Vector DB and IVF-Flat ANN]]></title>
-        <id>https://pypi.org/project/sutradb-core/</id>
-        <link href="https://pypi.org/project/sutradb-core/"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmarterPlaylists by the Numbers – A Decade in Review]]></title>
-        <id>https://musicmachinery.com/2026/03/06/smarterplaylists-by-the-numbers-a-decade-in-review/</id>
-        <link href="https://musicmachinery.com/2026/03/06/smarterplaylists-by-the-numbers-a-decade-in-review/"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvin Minsky and Eliezer Yudkowsky(2001)]]></title>
-        <id>https://extropians.weidai.com/extropians.1Q01/4767.html</id>
-        <link href="https://extropians.weidai.com/extropians.1Q01/4767.html"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MelonJS: Modern and featured HTML5 game engine]]></title>
-        <id>https://melonjs.org/</id>
-        <link href="https://melonjs.org/"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can an R/C Car Hit 100k Scale Miles? Self Driving Edition]]></title>
-        <id>https://www.youtube.com/watch?v=LjQ59b9OKyg</id>
-        <link href="https://www.youtube.com/watch?v=LjQ59b9OKyg"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math in the Movies – Sneakers (1998)]]></title>
-        <id>https://theworld.com/~reinhold/math/sneakers.adleman.html</id>
-        <link href="https://theworld.com/~reinhold/math/sneakers.adleman.html"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Society Tears Down Its Heroes]]></title>
-        <id>https://medium.com/theentertainmentbreakdown/on-the-demolition-of-heroes-aec8912d8c11</id>
-        <link href="https://medium.com/theentertainmentbreakdown/on-the-demolition-of-heroes-aec8912d8c11"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
