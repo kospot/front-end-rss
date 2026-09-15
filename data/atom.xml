@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-15T04:02:56.154Z</updated>
+    <updated>2026-09-15T07:02:22.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,58 +43,79 @@
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All > Apple Cut Frequencies in WWDC Keynote to Prevent Siri Activations]]></title>
-        <id>https://www.macrumors.com/2026/06/12/apple-cut-frequencies-to-prevent-siri-activations/</id>
-        <link href="https://www.macrumors.com/2026/06/12/apple-cut-frequencies-to-prevent-siri-activations/"/>
+        <title type="html"><![CDATA[Web-Doc-Scanner: Best Web Document Scanner]]></title>
+        <id>https://web-doc-scanner.app/</id>
+        <link href="https://web-doc-scanner.app/"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: How to Protect Your Brand Before AI Copies It?]]></title>
-        <id>https://news.ycombinator.com/item?id=49707514</id>
-        <link href="https://news.ycombinator.com/item?id=49707514"/>
+        <title type="html"><![CDATA[Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces]]></title>
+        <id>https://maggieappleton.com/planning-agents</id>
+        <link href="https://maggieappleton.com/planning-agents"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rethinking skills and prompts for GPT-6 Astra]]></title>
-        <id>https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra</id>
-        <link href="https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra"/>
+        <title type="html"><![CDATA[Kenwea Notary run a package's install scripts in a sandbox, get a signed verdict]]></title>
+        <id>https://www.kenwea.com/verify</id>
+        <link href="https://www.kenwea.com/verify"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Researchers find Apple Pay, Visa contactless hack]]></title>
-        <id>https://www.bbc.com/news/technology-58719891</id>
-        <link href="https://www.bbc.com/news/technology-58719891"/>
+        <title type="html"><![CDATA[The emerging landscape of engineered bacteria cancer therapies (2025)]]></title>
+        <id>https://www.nature.com/articles/s41587-025-02623-x</id>
+        <link href="https://www.nature.com/articles/s41587-025-02623-x"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why the best AI startups write bad prompts (& how to fix this)]]></title>
-        <id>https://twitter.com/wulfie_bain_/status/2098060386813566990</id>
-        <link href="https://twitter.com/wulfie_bain_/status/2098060386813566990"/>
+        <title type="html"><![CDATA[You're Using Neovim Registers Wrong [video]]]></title>
+        <id>https://www.youtube.com/watch?v=gBEDT-QFQJg</id>
+        <link href="https://www.youtube.com/watch?v=gBEDT-QFQJg"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Personal Statement on AI Risk (Daniel Selsam, OpenAI capabilities)]]></title>
-        <id>https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub</id>
-        <link href="https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub"/>
+        <title type="html"><![CDATA[A simple way to identify slow Postgres SQLs]]></title>
+        <id>https://bookofrevenue.com/blog/6aa8d8b292d31a00012a8642/identify-slow-postgres-query</id>
+        <link href="https://bookofrevenue.com/blog/6aa8d8b292d31a00012a8642/identify-slow-postgres-query"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Autopoietic Ethics Constitution]]></title>
-        <id>https://www.guidavid.com/writing/autopoietic-ethics-constitution.txt</id>
-        <link href="https://www.guidavid.com/writing/autopoietic-ethics-constitution.txt"/>
+        <title type="html"><![CDATA[Digital ID comes of age as pubs and bars get go-ahead for biometric scan tech]]></title>
+        <id>https://www.theguardian.com/business/2026/sep/15/pubs-and-bars-get-go-ahead-digital-id-biometric-scan-tech</id>
+        <link href="https://www.theguardian.com/business/2026/sep/15/pubs-and-bars-get-go-ahead-digital-id-biometric-scan-tech"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: VideoHighlighter – offline self-hosted video analyzer]]></title>
-        <id>https://github.com/Aseiel/VideoHighlighter</id>
-        <link href="https://github.com/Aseiel/VideoHighlighter"/>
+        <title type="html"><![CDATA[NASA and IBM open source lunar mapping tools]]></title>
+        <id>https://www.theregister.com/ai-and-ml/2026/09/10/nasa-and-ibm-open-source-lunar-mapping-tools/5295633</id>
+        <link href="https://www.theregister.com/ai-and-ml/2026/09/10/nasa-and-ibm-open-source-lunar-mapping-tools/5295633"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I can't stop thinking about Papua New Guinea]]></title>
+        <id>https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua</id>
+        <link href="https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why CSS-Tricks Has Been Quiet Lately]]></title>
+        <id>https://geoffgraham.me/why-css-tricks-has-been-quiet/</id>
+        <link href="https://geoffgraham.me/why-css-tricks-has-been-quiet/"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enron Email Dataset]]></title>
+        <id>https://www.cs.cmu.edu/~enron/</id>
+        <link href="https://www.cs.cmu.edu/~enron/"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
@@ -106,9 +127,79 @@
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Enron Email Dataset]]></title>
-        <id>https://www.cs.cmu.edu/~enron/</id>
-        <link href="https://www.cs.cmu.edu/~enron/"/>
+        <title type="html"><![CDATA[Show HN: VideoHighlighter – offline self-hosted video analyzer]]></title>
+        <id>https://github.com/Aseiel/VideoHighlighter</id>
+        <link href="https://github.com/Aseiel/VideoHighlighter"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autopoietic Ethics Constitution]]></title>
+        <id>https://www.guidavid.com/writing/autopoietic-ethics-constitution.txt</id>
+        <link href="https://www.guidavid.com/writing/autopoietic-ethics-constitution.txt"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personal Statement on AI Risk (Daniel Selsam, OpenAI capabilities)]]></title>
+        <id>https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub</id>
+        <link href="https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the best AI startups write bad prompts (& how to fix this)]]></title>
+        <id>https://twitter.com/wulfie_bain_/status/2098060386813566990</id>
+        <link href="https://twitter.com/wulfie_bain_/status/2098060386813566990"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers find Apple Pay, Visa contactless hack]]></title>
+        <id>https://www.bbc.com/news/technology-58719891</id>
+        <link href="https://www.bbc.com/news/technology-58719891"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking skills and prompts for GPT-6 Astra]]></title>
+        <id>https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra</id>
+        <link href="https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How to Protect Your Brand Before AI Copies It?]]></title>
+        <id>https://news.ycombinator.com/item?id=49707514</id>
+        <link href="https://news.ycombinator.com/item?id=49707514"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All > Apple Cut Frequencies in WWDC Keynote to Prevent Siri Activations]]></title>
+        <id>https://www.macrumors.com/2026/06/12/apple-cut-frequencies-to-prevent-siri-activations/</id>
+        <link href="https://www.macrumors.com/2026/06/12/apple-cut-frequencies-to-prevent-siri-activations/"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Series Analysis and Forecasting — Part 3: Forecasting Models, Evaluation, and Practical Cases]]></title>
+        <id>https://pub.towardsai.net/time-series-analysis-and-forecasting-part-3-forecasting-models-evaluation-and-practical-cases-2caf95217532?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/time-series-analysis-and-forecasting-part-3-forecasting-models-evaluation-and-practical-cases-2caf95217532?source=rss----98111c9905da---4"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Series Analysis and Forecasting — Part 2: Data Preparation with Pandas]]></title>
+        <id>https://pub.towardsai.net/time-series-analysis-and-forecasting-part-2-data-preparation-with-pandas-39b5506fdd77?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/time-series-analysis-and-forecasting-part-2-data-preparation-with-pandas-39b5506fdd77?source=rss----98111c9905da---4"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Series Analysis and Forecasting — Part 1: Fundamentals, Use Cases, and a Case Study from…]]></title>
+        <id>https://pub.towardsai.net/time-series-analysis-and-forecasting-part-1-fundamentals-use-cases-and-a-case-study-from-954496437d8b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/time-series-analysis-and-forecasting-part-1-fundamentals-use-cases-and-a-case-study-from-954496437d8b?source=rss----98111c9905da---4"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
@@ -270,97 +361,6 @@
         <title type="html"><![CDATA[Accuracy Is Not Service: A Decision-Aware Benchmark for Intermittent-Demand Forecasting]]></title>
         <id>https://arxiv.org/abs/2609.13840</id>
         <link href="https://arxiv.org/abs/2609.13840"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pre-training with Graph Transformers]]></title>
-        <id>https://arxiv.org/abs/2609.13844</id>
-        <link href="https://arxiv.org/abs/2609.13844"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReH-FUSE: Reliability-Aware Hierarchical Fusion of Experts for Multimodal Emotion Recognition in Conversation]]></title>
-        <id>https://arxiv.org/abs/2609.13857</id>
-        <link href="https://arxiv.org/abs/2609.13857"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Filter Metric is Safety-Critical: Phantom Advantages in Group-Relative RL under Shaped Rewards]]></title>
-        <id>https://arxiv.org/abs/2609.13866</id>
-        <link href="https://arxiv.org/abs/2609.13866"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Multi-Resolution Multi-Domain Pre-Training Framework for Universal Traffic Forecasting]]></title>
-        <id>https://arxiv.org/abs/2609.13878</id>
-        <link href="https://arxiv.org/abs/2609.13878"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lie to me: Detecting Managerial Evasiveness in Earnings Calls via Conversational Audio Encoders]]></title>
-        <id>https://arxiv.org/abs/2609.13893</id>
-        <link href="https://arxiv.org/abs/2609.13893"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finite-Time Node Separation in Recurrent Graph Neural Networks with Persistent Gaussian Perturbations]]></title>
-        <id>https://arxiv.org/abs/2609.13920</id>
-        <link href="https://arxiv.org/abs/2609.13920"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal Transport for Efficient, Unsupervised Anomaly Detection on Industrial Data]]></title>
-        <id>https://arxiv.org/abs/2609.13940</id>
-        <link href="https://arxiv.org/abs/2609.13940"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tabby: An Open Pretraining Recipe for Time Series Foundation Models]]></title>
-        <id>https://arxiv.org/abs/2609.13956</id>
-        <link href="https://arxiv.org/abs/2609.13956"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data-Efficient Agentic Graph Domain Adaptation via Reliability-Aware Prototype Learning]]></title>
-        <id>https://arxiv.org/abs/2609.14045</id>
-        <link href="https://arxiv.org/abs/2609.14045"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Modal Tumor Survival Prediction via Graph-Guided Mixture of Experts]]></title>
-        <id>https://arxiv.org/abs/2609.14072</id>
-        <link href="https://arxiv.org/abs/2609.14072"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To do($x$) or not to do($x$): Medical Image Counterfactuals for Dataset Augmentation]]></title>
-        <id>https://arxiv.org/abs/2609.14124</id>
-        <link href="https://arxiv.org/abs/2609.14124"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIMBO: Lifelong Inference-Time Memory and Budget Optimization for LLM Agents]]></title>
-        <id>https://arxiv.org/abs/2609.14138</id>
-        <link href="https://arxiv.org/abs/2609.14138"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T-SMART: Mechanism-Level Attribution for Tool-Augmented Time-Series Question Answering]]></title>
-        <id>https://arxiv.org/abs/2609.14142</id>
-        <link href="https://arxiv.org/abs/2609.14142"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
