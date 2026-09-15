@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-15 23:04:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-16 06:01:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -8,14 +8,14 @@
 
 
 - [2026-09-15-How-to-Compress-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-compress-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-5dd4) 
-- [2026-09-14-Vue-nextTick-Explained:-How-DOM-Updates-Are-Batched](https://dev.to/parsajiravand/vue-nexttick-explained-how-dom-updates-are-batched-3gnp) 
 - [2026-09-14-How-to-Rotate-PDF-Pages-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-rotate-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-ag7) 
+- [2026-09-14-Vue-nextTick-Explained:-How-DOM-Updates-Are-Batched](https://dev.to/parsajiravand/vue-nexttick-explained-how-dom-updates-are-batched-3gnp) 
 - [2026-09-11-How-to-Convert-Excel-to-PDF-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-excel-to-pdf-in-the-browser-with-vue-3-35a0) 
 - [2026-09-10-How-to-Convert-PDF-to-Image-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-pdf-to-image-in-the-browser-with-vue-3-2pk4) 
 - [2026-09-08-How-to-Sign-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-sign-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-4n03) 
 - [2026-09-06-How-to-Remove-Blank-Pages-from-PDF-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-remove-blank-pages-from-pdf-in-the-browser-with-vue-3-and-pdf-lib-227p) 
-- [2026-09-05-Solid-Vue-|-The-Minimalist-Vue-+-Vite-Web-Frameworks-No-relation-to-SolidJS-or-SolidStart-at-all](https://dev.to/joni_ilman12/solid-vue-the-minimalist-vue-vite-web-frameworks-no-relation-to-solidjs-or-solidstart-at-all-l9e) 
 - [2026-09-05-How-to-Crop-PDF-Margins-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-crop-pdf-margins-in-the-browser-with-vue-3-and-pdf-lib-54li) 
+- [2026-09-05-Solid-Vue-|-The-Minimalist-Vue-+-Vite-Web-Frameworks-No-relation-to-SolidJS-or-SolidStart-at-all](https://dev.to/joni_ilman12/solid-vue-the-minimalist-vue-vite-web-frameworks-no-relation-to-solidjs-or-solidstart-at-all-l9e) 
 - [2026-09-04-How-to-Add-Page-Numbers-to-PDF-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-add-page-numbers-to-pdf-in-the-browser-with-vue-3-and-pdf-lib-9g1) 
 - [2026-09-02-How-to-Encrypt-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-encrypt-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-135k) 
 - [2026-09-01-How-to-Add-Watermarks-to-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-add-watermarks-to-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-10kn) 
@@ -28,12 +28,10 @@
 - [2026-08-22-How-to-Convert-Word-to-PDF-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-word-to-pdf-in-the-browser-with-vue-3-3c2f) 
 - [2026-08-21-How-to-Encrypt-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-encrypt-pdfs-in-the-browser-with-vue-3-and-pdf-lib-2bfe) 
 - [2026-08-20-How-to-Convert-PDF-to-Word-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-convert-pdf-to-word-in-the-browser-with-vue-3-and-pdf-lib-21co) 
-- [2026-08-19-How-to-Fix-Duplex-Scan-Page-Order-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-fix-duplex-scan-page-order-in-the-browser-with-vue-3-and-pdf-lib-35ln) 
 - [2026-08-19-5-Practical-Solutions-for-Large-List-Rendering-in-Vue-3](https://dev.to/alan_529cf536b9cf0f88ec8c/5-practical-solutions-for-large-list-rendering-in-vue-3-4lbi) 
-- [2026-08-18-How-to-Build-a-Duplex-Print-Helper-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-build-a-duplex-print-helper-in-the-browser-with-vue-3-and-pdf-lib-1jf5) 
+- [2026-08-19-How-to-Fix-Duplex-Scan-Page-Order-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-fix-duplex-scan-page-order-in-the-browser-with-vue-3-and-pdf-lib-35ln) 
 - [2026-08-18-7-Hidden-Business-Advantages-of-Choosing-AngularJS-for-Your-App](https://dev.to/sahil_khurana_486f374ecf2/7-hidden-business-advantages-of-choosing-angularjs-for-your-app-oeg) 
-- [2026-08-17-Supabase-in-Vue-Made-Simple](https://dev.to/jacobandrewsky/supabase-in-vue-made-simple-akk) 
-- [2026-08-17-PDF-Privacy-Cleanup-with-Vue-3-and-pdf-lib:-Metadata,-Annotations,-Links-&amp;-Inspection](https://dev.to/sunshey/pdf-privacy-cleanup-with-vue-3-and-pdf-lib-metadata-annotations-links-inspection-1jho) 
+- [2026-08-18-How-to-Build-a-Duplex-Print-Helper-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-build-a-duplex-print-helper-in-the-browser-with-vue-3-and-pdf-lib-1jf5) 
 - [2026-09-15-The-Filter-Metric-is-Safety-Critical:-Phantom-Advantages-in-Group-Relative-RL-under-Shaped-Rewards](https://arxiv.org/abs/2609.13866) 
 - [2026-09-14-Performance,-Efficiency-and-Collapse----Advantages-and-Challenges-in-Offline-Post-training-of-Code-LLMs](https://arxiv.org/abs/2609.11956) 
 - [2026-09-11-Geospatial-Foundation-Models-Capture-Health-Relevant-Dimensions-of-Place-Beyond-Conventional-Social-Risk-Indices](https://arxiv.org/abs/2609.11689) 
