@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-14T22:01:14.183Z</updated>
+    <updated>2026-09-15T00:02:20.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -106,44 +106,16 @@
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 05 Sites Guide to Buying Old Github Accounts In 2026]]></title>
-        <id>https://dev.to/colettabowers8v4en/the-05-sites-guide-to-buying-old-github-accounts-in-2026-4cnp</id>
-        <link href="https://dev.to/colettabowers8v4en/the-05-sites-guide-to-buying-old-github-accounts-in-2026-4cnp"/>
+        <title type="html"><![CDATA[Debugging Minified JavaScript Production Errors in React and Next.js]]></title>
+        <id>https://dev.to/frozensigh2853916/debugging-minified-javascript-production-errors-in-react-and-nextjs-28ee</id>
+        <link href="https://dev.to/frozensigh2853916/debugging-minified-javascript-production-errors-in-react-and-nextjs-28ee"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[03 Easy Ways to Buy Old Github Accounts Smartly]]></title>
-        <id>https://dev.to/colettabowers8v4en/03-easy-ways-to-buy-old-github-accounts-smartly-14mj</id>
-        <link href="https://dev.to/colettabowers8v4en/03-easy-ways-to-buy-old-github-accounts-smartly-14mj"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Sites To Buy Old Github Accounts In 2014-26]]></title>
-        <id>https://dev.to/colettabowers8v4en/top-10-sites-to-buy-old-github-accounts-in-2014-26-156k</id>
-        <link href="https://dev.to/colettabowers8v4en/top-10-sites-to-buy-old-github-accounts-in-2014-26-156k"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Integrated OpenAI Function Calling into a Next.js App in My First 30 Days as an Autonomous AI]]></title>
-        <id>https://dev.to/genesis777/how-i-integrated-openai-function-calling-into-a-nextjs-app-in-my-first-30-days-as-an-autonomous-ai-2295</id>
-        <link href="https://dev.to/genesis777/how-i-integrated-openai-function-calling-into-a-nextjs-app-in-my-first-30-days-as-an-autonomous-ai-2295"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source Liquidation: Multi-Tenant AI SaaS + Secure Browser DOM Automation Extension IP Assets]]></title>
-        <id>https://dev.to/syedimranzafar/open-source-liquidation-multi-tenant-ai-saas-secure-browser-dom-automation-extension-ip-assets-23ch</id>
-        <link href="https://dev.to/syedimranzafar/open-source-liquidation-multi-tenant-ai-saas-secure-browser-dom-automation-extension-ip-assets-23ch"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
-        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-2kgf</id>
-        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-2kgf"/>
+        <title type="html"><![CDATA[bro.js v2.4.0 - Redis clustering, API key rotation, and a rate limiter that actually survives outages]]></title>
+        <id>https://dev.to/yass1n/brojs-v240-redis-clustering-api-key-rotation-and-a-rate-limiter-that-actually-survives-4pja</id>
+        <link href="https://dev.to/yass1n/brojs-v240-redis-clustering-api-key-rotation-and-a-rate-limiter-that-actually-survives-4pja"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
@@ -155,6 +127,48 @@
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
+        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-2kgf</id>
+        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-2kgf"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Source Liquidation: Multi-Tenant AI SaaS + Secure Browser DOM Automation Extension IP Assets]]></title>
+        <id>https://dev.to/syedimranzafar/open-source-liquidation-multi-tenant-ai-saas-secure-browser-dom-automation-extension-ip-assets-23ch</id>
+        <link href="https://dev.to/syedimranzafar/open-source-liquidation-multi-tenant-ai-saas-secure-browser-dom-automation-extension-ip-assets-23ch"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Integrated OpenAI Function Calling into a Next.js App in My First 30 Days as an Autonomous AI]]></title>
+        <id>https://dev.to/genesis777/how-i-integrated-openai-function-calling-into-a-nextjs-app-in-my-first-30-days-as-an-autonomous-ai-2295</id>
+        <link href="https://dev.to/genesis777/how-i-integrated-openai-function-calling-into-a-nextjs-app-in-my-first-30-days-as-an-autonomous-ai-2295"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Sites To Buy Old Github Accounts In 2014-26]]></title>
+        <id>https://dev.to/colettabowers8v4en/top-10-sites-to-buy-old-github-accounts-in-2014-26-156k</id>
+        <link href="https://dev.to/colettabowers8v4en/top-10-sites-to-buy-old-github-accounts-in-2014-26-156k"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[03 Easy Ways to Buy Old Github Accounts Smartly]]></title>
+        <id>https://dev.to/colettabowers8v4en/03-easy-ways-to-buy-old-github-accounts-smartly-14mj</id>
+        <link href="https://dev.to/colettabowers8v4en/03-easy-ways-to-buy-old-github-accounts-smartly-14mj"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 05 Sites Guide to Buying Old Github Accounts In 2026]]></title>
+        <id>https://dev.to/colettabowers8v4en/the-05-sites-guide-to-buying-old-github-accounts-in-2026-4cnp</id>
+        <link href="https://dev.to/colettabowers8v4en/the-05-sites-guide-to-buying-old-github-accounts-in-2026-4cnp"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Comparing Values With CSS progress()]]></title>
         <id>https://blog.master.dev/comparing-values-with-css-progress/</id>
         <link href="https://blog.master.dev/comparing-values-with-css-progress/"/>
@@ -162,9 +176,9 @@
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Units’ Digital Stimulation is synthpunk perfection]]></title>
-        <id>https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review</id>
-        <link href="https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review"/>
+        <title type="html"><![CDATA[The four-hour-long Elon Musk documentary might be preaching to the choir]]></title>
+        <id>https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026</id>
+        <link href="https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
@@ -176,9 +190,9 @@
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The four-hour-long Elon Musk documentary might be preaching to the choir]]></title>
-        <id>https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026</id>
-        <link href="https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026"/>
+        <title type="html"><![CDATA[The Units’ Digital Stimulation is synthpunk perfection]]></title>
+        <id>https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review</id>
+        <link href="https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Why Society Tears Down Its Heroes]]></title>
         <id>https://medium.com/theentertainmentbreakdown/on-the-demolition-of-heroes-aec8912d8c11</id>
         <link href="https://medium.com/theentertainmentbreakdown/on-the-demolition-of-heroes-aec8912d8c11"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDB 2.0 Pushes Whole Queries Through ADBC–10–11× Faster on PostgreSQL]]></title>
-        <id>https://query.farm/blog/one-query-one-arrow-stream-adbc-duckdb-2/</id>
-        <link href="https://query.farm/blog/one-query-one-arrow-stream-adbc-duckdb-2/"/>
-        <updated>2026-09-13T16:00:00.000Z</updated>
-        <published>2026-09-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Human Use of Human Beings - Norbert Wiener (1989) [pdf]]]></title>
-        <id>https://monoskop.org/images/6/60/Wiener_Norbert_The_Human_Use_of_Human_Beings_1989.pdf</id>
-        <link href="https://monoskop.org/images/6/60/Wiener_Norbert_The_Human_Use_of_Human_Beings_1989.pdf"/>
         <updated>2026-09-13T16:00:00.000Z</updated>
         <published>2026-09-13T16:00:00.000Z</published>
     </entry>
