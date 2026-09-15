@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-15T07:02:22.763Z</updated>
+    <updated>2026-09-15T10:02:03.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,30 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性]]></title>
+        <id>https://sspai.com/post/114565</id>
+        <link href="https://sspai.com/post/114565"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TIFF 2026: The latest movie reviews from Toronto]]></title>
         <id>https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews</id>
         <link href="https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Headset to Help With Depression Is Now Available in the US]]></title>
+        <id>https://www.wired.com/story/flow-neuroscience-headset-help-depression-available-in-us/</id>
+        <link href="https://www.wired.com/story/flow-neuroscience-headset-help-depression-available-in-us/"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System 76 Pangolin Pro Review (2026): Powerhouse Linux Laptop]]></title>
+        <id>https://www.wired.com/review/system76-pangolin-pro-linux-laptop/</id>
+        <link href="https://www.wired.com/review/system76-pangolin-pro-linux-laptop/"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
@@ -43,128 +64,58 @@
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web-Doc-Scanner: Best Web Document Scanner]]></title>
-        <id>https://web-doc-scanner.app/</id>
-        <link href="https://web-doc-scanner.app/"/>
+        <title type="html"><![CDATA[Show HN: LM-Kit One – private AI on your infrastructure]]></title>
+        <id>https://lm-kit.com/products/lm-kit-one/</id>
+        <link href="https://lm-kit.com/products/lm-kit-one/"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces]]></title>
-        <id>https://maggieappleton.com/planning-agents</id>
-        <link href="https://maggieappleton.com/planning-agents"/>
+        <title type="html"><![CDATA[I found an old video in my own AI workflow and decided to remake it]]></title>
+        <id>https://nexus-hits.netlify.app/</id>
+        <link href="https://nexus-hits.netlify.app/"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kenwea Notary run a package's install scripts in a sandbox, get a signed verdict]]></title>
-        <id>https://www.kenwea.com/verify</id>
-        <link href="https://www.kenwea.com/verify"/>
+        <title type="html"><![CDATA[Reaching 100M key lookups per second with REST API and Python clients]]></title>
+        <id>https://www.rondb.com/post/the-process-to-reach-100m-key-lookups-per-second-with-rest-api-and-python-clients</id>
+        <link href="https://www.rondb.com/post/the-process-to-reach-100m-key-lookups-per-second-with-rest-api-and-python-clients"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The emerging landscape of engineered bacteria cancer therapies (2025)]]></title>
-        <id>https://www.nature.com/articles/s41587-025-02623-x</id>
-        <link href="https://www.nature.com/articles/s41587-025-02623-x"/>
+        <title type="html"><![CDATA[Show HN: Stage Captions – streaming browser audio into live event captions]]></title>
+        <id>https://stagecaptions.io</id>
+        <link href="https://stagecaptions.io"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You're Using Neovim Registers Wrong [video]]]></title>
-        <id>https://www.youtube.com/watch?v=gBEDT-QFQJg</id>
-        <link href="https://www.youtube.com/watch?v=gBEDT-QFQJg"/>
+        <title type="html"><![CDATA[Meta-analysis of the association between childhood maltreatment and depression]]></title>
+        <id>https://doi.org/10.1111/acps.13794</id>
+        <link href="https://doi.org/10.1111/acps.13794"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A simple way to identify slow Postgres SQLs]]></title>
-        <id>https://bookofrevenue.com/blog/6aa8d8b292d31a00012a8642/identify-slow-postgres-query</id>
-        <link href="https://bookofrevenue.com/blog/6aa8d8b292d31a00012a8642/identify-slow-postgres-query"/>
+        <title type="html"><![CDATA[FastAPI-Crons – Cron jobs that live inside your FastAPI app]]></title>
+        <id>https://crons.darcode.dev</id>
+        <link href="https://crons.darcode.dev"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital ID comes of age as pubs and bars get go-ahead for biometric scan tech]]></title>
-        <id>https://www.theguardian.com/business/2026/sep/15/pubs-and-bars-get-go-ahead-digital-id-biometric-scan-tech</id>
-        <link href="https://www.theguardian.com/business/2026/sep/15/pubs-and-bars-get-go-ahead-digital-id-biometric-scan-tech"/>
+        <title type="html"><![CDATA[Show HN: Knecht, a tool for building software factories for agencies]]></title>
+        <id>https://knecht.works</id>
+        <link href="https://knecht.works"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NASA and IBM open source lunar mapping tools]]></title>
-        <id>https://www.theregister.com/ai-and-ml/2026/09/10/nasa-and-ibm-open-source-lunar-mapping-tools/5295633</id>
-        <link href="https://www.theregister.com/ai-and-ml/2026/09/10/nasa-and-ibm-open-source-lunar-mapping-tools/5295633"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I can't stop thinking about Papua New Guinea]]></title>
-        <id>https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua</id>
-        <link href="https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why CSS-Tricks Has Been Quiet Lately]]></title>
-        <id>https://geoffgraham.me/why-css-tricks-has-been-quiet/</id>
-        <link href="https://geoffgraham.me/why-css-tricks-has-been-quiet/"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enron Email Dataset]]></title>
-        <id>https://www.cs.cmu.edu/~enron/</id>
-        <link href="https://www.cs.cmu.edu/~enron/"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prosecute Dario and Sam for the felonies their companies have committed [video]]]></title>
-        <id>https://www.youtube.com/watch?v=0YIczZDCgsM</id>
-        <link href="https://www.youtube.com/watch?v=0YIczZDCgsM"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: VideoHighlighter – offline self-hosted video analyzer]]></title>
-        <id>https://github.com/Aseiel/VideoHighlighter</id>
-        <link href="https://github.com/Aseiel/VideoHighlighter"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autopoietic Ethics Constitution]]></title>
-        <id>https://www.guidavid.com/writing/autopoietic-ethics-constitution.txt</id>
-        <link href="https://www.guidavid.com/writing/autopoietic-ethics-constitution.txt"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Personal Statement on AI Risk (Daniel Selsam, OpenAI capabilities)]]></title>
-        <id>https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub</id>
-        <link href="https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the best AI startups write bad prompts (& how to fix this)]]></title>
-        <id>https://twitter.com/wulfie_bain_/status/2098060386813566990</id>
-        <link href="https://twitter.com/wulfie_bain_/status/2098060386813566990"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers find Apple Pay, Visa contactless hack]]></title>
-        <id>https://www.bbc.com/news/technology-58719891</id>
-        <link href="https://www.bbc.com/news/technology-58719891"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking skills and prompts for GPT-6 Astra]]></title>
-        <id>https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra</id>
-        <link href="https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra"/>
+        <title type="html"><![CDATA[All > Apple Cut Frequencies in WWDC Keynote to Prevent Siri Activations]]></title>
+        <id>https://www.macrumors.com/2026/06/12/apple-cut-frequencies-to-prevent-siri-activations/</id>
+        <link href="https://www.macrumors.com/2026/06/12/apple-cut-frequencies-to-prevent-siri-activations/"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
@@ -176,9 +127,128 @@
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All > Apple Cut Frequencies in WWDC Keynote to Prevent Siri Activations]]></title>
-        <id>https://www.macrumors.com/2026/06/12/apple-cut-frequencies-to-prevent-siri-activations/</id>
-        <link href="https://www.macrumors.com/2026/06/12/apple-cut-frequencies-to-prevent-siri-activations/"/>
+        <title type="html"><![CDATA[Rethinking skills and prompts for GPT-6 Astra]]></title>
+        <id>https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra</id>
+        <link href="https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers find Apple Pay, Visa contactless hack]]></title>
+        <id>https://www.bbc.com/news/technology-58719891</id>
+        <link href="https://www.bbc.com/news/technology-58719891"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the best AI startups write bad prompts (& how to fix this)]]></title>
+        <id>https://twitter.com/wulfie_bain_/status/2098060386813566990</id>
+        <link href="https://twitter.com/wulfie_bain_/status/2098060386813566990"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personal Statement on AI Risk (Daniel Selsam, OpenAI capabilities)]]></title>
+        <id>https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub</id>
+        <link href="https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autopoietic Ethics Constitution]]></title>
+        <id>https://www.guidavid.com/writing/autopoietic-ethics-constitution.txt</id>
+        <link href="https://www.guidavid.com/writing/autopoietic-ethics-constitution.txt"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: VideoHighlighter – offline self-hosted video analyzer]]></title>
+        <id>https://github.com/Aseiel/VideoHighlighter</id>
+        <link href="https://github.com/Aseiel/VideoHighlighter"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prosecute Dario and Sam for the felonies their companies have committed [video]]]></title>
+        <id>https://www.youtube.com/watch?v=0YIczZDCgsM</id>
+        <link href="https://www.youtube.com/watch?v=0YIczZDCgsM"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enron Email Dataset]]></title>
+        <id>https://www.cs.cmu.edu/~enron/</id>
+        <link href="https://www.cs.cmu.edu/~enron/"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why CSS-Tricks Has Been Quiet Lately]]></title>
+        <id>https://geoffgraham.me/why-css-tricks-has-been-quiet/</id>
+        <link href="https://geoffgraham.me/why-css-tricks-has-been-quiet/"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I can't stop thinking about Papua New Guinea]]></title>
+        <id>https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua</id>
+        <link href="https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA and IBM open source lunar mapping tools]]></title>
+        <id>https://www.theregister.com/ai-and-ml/2026/09/10/nasa-and-ibm-open-source-lunar-mapping-tools/5295633</id>
+        <link href="https://www.theregister.com/ai-and-ml/2026/09/10/nasa-and-ibm-open-source-lunar-mapping-tools/5295633"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital ID comes of age as pubs and bars get go-ahead for biometric scan tech]]></title>
+        <id>https://www.theguardian.com/business/2026/sep/15/pubs-and-bars-get-go-ahead-digital-id-biometric-scan-tech</id>
+        <link href="https://www.theguardian.com/business/2026/sep/15/pubs-and-bars-get-go-ahead-digital-id-biometric-scan-tech"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A simple way to identify slow Postgres SQLs]]></title>
+        <id>https://bookofrevenue.com/blog/6aa8d8b292d31a00012a8642/identify-slow-postgres-query</id>
+        <link href="https://bookofrevenue.com/blog/6aa8d8b292d31a00012a8642/identify-slow-postgres-query"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You're Using Neovim Registers Wrong [video]]]></title>
+        <id>https://www.youtube.com/watch?v=gBEDT-QFQJg</id>
+        <link href="https://www.youtube.com/watch?v=gBEDT-QFQJg"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The emerging landscape of engineered bacteria cancer therapies (2025)]]></title>
+        <id>https://www.nature.com/articles/s41587-025-02623-x</id>
+        <link href="https://www.nature.com/articles/s41587-025-02623-x"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kenwea Notary run a package's install scripts in a sandbox, get a signed verdict]]></title>
+        <id>https://www.kenwea.com/verify</id>
+        <link href="https://www.kenwea.com/verify"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces]]></title>
+        <id>https://maggieappleton.com/planning-agents</id>
+        <link href="https://maggieappleton.com/planning-agents"/>
+        <updated>2026-09-14T16:00:00.000Z</updated>
+        <published>2026-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web-Doc-Scanner: Best Web Document Scanner]]></title>
+        <id>https://web-doc-scanner.app/</id>
+        <link href="https://web-doc-scanner.app/"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
@@ -291,76 +361,6 @@
         <title type="html"><![CDATA[Pretraining for Sample-Efficient Neural Interfaces]]></title>
         <id>https://arxiv.org/abs/2609.13507</id>
         <link href="https://arxiv.org/abs/2609.13507"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adaptive Phase-Switching for Communication-Efficient Federated LoRA Fine-Tuning]]></title>
-        <id>https://arxiv.org/abs/2609.13512</id>
-        <link href="https://arxiv.org/abs/2609.13512"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rolling Day-Wise Mortality Prediction in Critically Ill Patients With AKI on CRRT Utilizing Machine Pressure Waveforms]]></title>
-        <id>https://arxiv.org/abs/2609.13524</id>
-        <link href="https://arxiv.org/abs/2609.13524"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AttnFuse: A Composable DSL for Compiling Attentions to Fused GPU Kernels]]></title>
-        <id>https://arxiv.org/abs/2609.13612</id>
-        <link href="https://arxiv.org/abs/2609.13612"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Efficient and Modular Framework for Targeted Harm Mitigation in LLMS]]></title>
-        <id>https://arxiv.org/abs/2609.13624</id>
-        <link href="https://arxiv.org/abs/2609.13624"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Bayesian Node Classification on Inductive Graphs under Distribution Shift]]></title>
-        <id>https://arxiv.org/abs/2609.13655</id>
-        <link href="https://arxiv.org/abs/2609.13655"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JumpStart Your Policy Learning with Lessons from 160,000 Training Runs]]></title>
-        <id>https://arxiv.org/abs/2609.13730</id>
-        <link href="https://arxiv.org/abs/2609.13730"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training Specialist Models without Reasoning Trajectories for Domain Expert Distillation]]></title>
-        <id>https://arxiv.org/abs/2609.13770</id>
-        <link href="https://arxiv.org/abs/2609.13770"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PPDL: A Real-world Industrial User Retention Ratio Forecasting Framework Integrating Physical Priors with Deep Learning]]></title>
-        <id>https://arxiv.org/abs/2609.13789</id>
-        <link href="https://arxiv.org/abs/2609.13789"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph Neural Networks for Influence Maximization in Social Networks: An Unsupervised Minimum Dominating Set Approach]]></title>
-        <id>https://arxiv.org/abs/2609.13836</id>
-        <link href="https://arxiv.org/abs/2609.13836"/>
-        <updated>2026-09-14T16:00:00.000Z</updated>
-        <published>2026-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accuracy Is Not Service: A Decision-Aware Benchmark for Intermittent-Demand Forecasting]]></title>
-        <id>https://arxiv.org/abs/2609.13840</id>
-        <link href="https://arxiv.org/abs/2609.13840"/>
         <updated>2026-09-14T16:00:00.000Z</updated>
         <published>2026-09-14T16:00:00.000Z</published>
     </entry>
