@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-16T02:02:25.400Z</updated>
+    <updated>2026-09-16T04:02:28.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Kia’s electric van lineup is getting more interesting with reveal of PV7]]></title>
-        <id>https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale</id>
-        <link href="https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale"/>
+        <title type="html"><![CDATA[当我怀念旧版 Edge 浏览器时，我在怀念什么？]]></title>
+        <id>https://sspai.com/post/113295</id>
+        <link href="https://sspai.com/post/113295"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boox Palma 3 gets stylus support and a sleek redesign]]></title>
+        <id>https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16</id>
+        <link href="https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voters mostly don’t like AI and data centers, but neither party seems to have an edge]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
@@ -29,9 +43,9 @@
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Voters mostly don’t like AI and data centers, but neither party seems to have an edge]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"/>
+        <title type="html"><![CDATA[Kia’s electric van lineup is getting more interesting with reveal of PV7]]></title>
+        <id>https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale</id>
+        <link href="https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
@@ -246,121 +260,107 @@
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Root-Level VAST Error and Ad in One Response Breaks the VAST 4.0 Choice]]></title>
-        <id>https://dev.to/aleksuix/root-level-vast-error-and-ad-in-one-response-breaks-the-vast-40-choice-1p15</id>
-        <link href="https://dev.to/aleksuix/root-level-vast-error-and-ad-in-one-response-breaks-the-vast-40-choice-1p15"/>
+        <title type="html"><![CDATA[Causal neural set filtering for online multi-target tracking]]></title>
+        <id>https://arxiv.org/abs/2609.16054</id>
+        <link href="https://arxiv.org/abs/2609.16054"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Engineering for JavaScript Developers: What You Actually Need to Learn]]></title>
-        <id>https://dev.to/allenarduino/ai-engineering-for-javascript-developers-what-you-actually-need-to-learn-ka5</id>
-        <link href="https://dev.to/allenarduino/ai-engineering-for-javascript-developers-what-you-actually-need-to-learn-ka5"/>
+        <title type="html"><![CDATA[Managing Action Preconditions in Neuro-Symbolic RL: Three Placement Strategies for Embodied Agents]]></title>
+        <id>https://arxiv.org/abs/2609.16056</id>
+        <link href="https://arxiv.org/abs/2609.16056"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript and TypeScript Interview Questions Explained With Real Production Examples, Part 2: Algorithms]]></title>
-        <id>https://dev.to/allenarduino/javascript-and-typescript-interview-questions-explained-with-real-production-examples-part-2-47ip</id>
-        <link href="https://dev.to/allenarduino/javascript-and-typescript-interview-questions-explained-with-real-production-examples-part-2-47ip"/>
+        <title type="html"><![CDATA[Driver Behavior Estimation at Signalized Intersections Using a Physics-Constrained Decision-Conditioned Autoregressive Transformer]]></title>
+        <id>https://arxiv.org/abs/2609.16058</id>
+        <link href="https://arxiv.org/abs/2609.16058"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React 19.3, el compilador y un CVSS 10: lo que cambió mientras no mirabas]]></title>
-        <id>https://dev.to/gabbs279/react-193-el-compilador-y-un-cvss-10-lo-que-cambio-mientras-no-mirabas-c2d</id>
-        <link href="https://dev.to/gabbs279/react-193-el-compilador-y-un-cvss-10-lo-que-cambio-mientras-no-mirabas-c2d"/>
+        <title type="html"><![CDATA[HintMiner: Automatic Question Hints Mining From Q&A Web Posts with Language Model via Self-Supervised Learning]]></title>
+        <id>https://arxiv.org/abs/2609.16060</id>
+        <link href="https://arxiv.org/abs/2609.16060"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React 19.3, the Compiler, and a CVSS 10: What Changed While You Weren't Looking]]></title>
-        <id>https://dev.to/gabbs279/react-193-the-compiler-and-a-cvss-10-what-changed-while-you-werent-looking-1h35</id>
-        <link href="https://dev.to/gabbs279/react-193-the-compiler-and-a-cvss-10-what-changed-while-you-werent-looking-1h35"/>
+        <title type="html"><![CDATA[POSPAN: Position-Constrained Span Masking for Language Model Pre-training]]></title>
+        <id>https://arxiv.org/abs/2609.16061</id>
+        <link href="https://arxiv.org/abs/2609.16061"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS vs Android vs PWA for Nigerian Apps — Technical Decision Framework 2026]]></title>
-        <id>https://dev.to/zikarelhub/ios-vs-android-vs-pwa-for-nigerian-apps-technical-decision-framework-2026-4355</id>
-        <link href="https://dev.to/zikarelhub/ios-vs-android-vs-pwa-for-nigerian-apps-technical-decision-framework-2026-4355"/>
+        <title type="html"><![CDATA[Signed p-adic Residual Encodings of Finite-Domain All-Different Systems with a Sudoku Case Study]]></title>
+        <id>https://arxiv.org/abs/2609.16063</id>
+        <link href="https://arxiv.org/abs/2609.16063"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Array Methods in JavaScript]]></title>
-        <id>https://dev.to/ragul_kannadasan/array-methods-in-javascript-2n84</id>
-        <link href="https://dev.to/ragul_kannadasan/array-methods-in-javascript-2n84"/>
+        <title type="html"><![CDATA[A panoramic aerodynamic performance prediction method for turbomachinery cascades using transformer-enhanced neural operator]]></title>
+        <id>https://arxiv.org/abs/2609.16066</id>
+        <link href="https://arxiv.org/abs/2609.16066"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RxJS in Practice: Reactive Programming, Operators, Patterns, and Real-World Examples]]></title>
-        <id>https://dev.to/abanoubkerols/rxjs-in-practice-reactive-programming-operators-patterns-and-real-world-examples-48mj</id>
-        <link href="https://dev.to/abanoubkerols/rxjs-in-practice-reactive-programming-operators-patterns-and-real-world-examples-48mj"/>
+        <title type="html"><![CDATA[A Dynamic Aggregation Strategy Enhanced Efficient Global Optimization Algorithm for Solving High-Dimensional Turbomachinery Design Problems]]></title>
+        <id>https://arxiv.org/abs/2609.16067</id>
+        <link href="https://arxiv.org/abs/2609.16067"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 10 Best Sites to Buy Old GitHub Accounts in 2026]]></title>
-        <id>https://dev.to/karleencriderytb1d/the-10-best-sites-to-buy-old-github-accounts-in-2026-2f10</id>
-        <link href="https://dev.to/karleencriderytb1d/the-10-best-sites-to-buy-old-github-accounts-in-2026-2f10"/>
+        <title type="html"><![CDATA[A Decision-Support Audit Protocol for Supervision Drift in Proxy-Labeled Credit-Risk Prediction]]></title>
+        <id>https://arxiv.org/abs/2609.16102</id>
+        <link href="https://arxiv.org/abs/2609.16102"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Easy Ways to Buy Old GitHub Accounts Smartly end...]]></title>
-        <id>https://dev.to/karleencriderytb1d/5-easy-ways-to-buy-old-github-accounts-smartly-end-nec</id>
-        <link href="https://dev.to/karleencriderytb1d/5-easy-ways-to-buy-old-github-accounts-smartly-end-nec"/>
+        <title type="html"><![CDATA[LLMs as Master Forgers: Generating Synthetic Time Series Data for Manufacturing]]></title>
+        <id>https://arxiv.org/abs/2609.16155</id>
+        <link href="https://arxiv.org/abs/2609.16155"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hire a Hacker in 2026 – Your Guide to Ethical Hacking Services]]></title>
-        <id>https://dev.to/valeria_lucero_2417ae9286/hire-a-hacker-in-2026-your-guide-to-ethical-hacking-services-270o</id>
-        <link href="https://dev.to/valeria_lucero_2417ae9286/hire-a-hacker-in-2026-your-guide-to-ethical-hacking-services-270o"/>
+        <title type="html"><![CDATA[Skeletal Prototypes on Iterative Nerve Expansions]]></title>
+        <id>https://arxiv.org/abs/2609.16170</id>
+        <link href="https://arxiv.org/abs/2609.16170"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 Best Sites to Buy Old GitHub Accounts (New & Aged)]]></title>
-        <id>https://dev.to/karleencriderytb1d/10-best-sites-to-buy-old-github-accounts-new-aged-2p2j</id>
-        <link href="https://dev.to/karleencriderytb1d/10-best-sites-to-buy-old-github-accounts-new-aged-2p2j"/>
+        <title type="html"><![CDATA[Anatomy of Associative Recall in Fixed-State Recurrences: A Matched-State Decomposition, an Interference Wall, and a Curriculum That Breaks It]]></title>
+        <id>https://arxiv.org/abs/2609.16183</id>
+        <link href="https://arxiv.org/abs/2609.16183"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Print is a feature: laying out A4 QR sheets in the browser with jsPDF]]></title>
-        <id>https://dev.to/daniel_pertu/print-is-a-feature-laying-out-a4-qr-sheets-in-the-browser-with-jspdf-2d7b</id>
-        <link href="https://dev.to/daniel_pertu/print-is-a-feature-laying-out-a4-qr-sheets-in-the-browser-with-jspdf-2d7b"/>
+        <title type="html"><![CDATA[Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration]]></title>
+        <id>https://arxiv.org/abs/2609.16204</id>
+        <link href="https://arxiv.org/abs/2609.16204"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Five things that break when you drive a real Chrome over CDP (and how to verify your writes actually landed)]]></title>
-        <id>https://dev.to/amrhares/five-things-that-break-when-you-drive-a-real-chrome-over-cdp-and-how-to-verify-your-writes-2jfk</id>
-        <link href="https://dev.to/amrhares/five-things-that-break-when-you-drive-a-real-chrome-over-cdp-and-how-to-verify-your-writes-2jfk"/>
+        <title type="html"><![CDATA[How I learned to stop worrying and love StopGrads: Stationarity, Convergence, and a case study on Flow Map Learning]]></title>
+        <id>https://arxiv.org/abs/2609.16222</id>
+        <link href="https://arxiv.org/abs/2609.16222"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Facebook Ads Library Scraper Runs Drop Connections Past 300 Seconds]]></title>
-        <id>https://dev.to/crawlerbros/why-facebook-ads-library-scraper-runs-drop-connections-past-300-seconds-2po3</id>
-        <link href="https://dev.to/crawlerbros/why-facebook-ads-library-scraper-runs-drop-connections-past-300-seconds-2po3"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Relying on Static Reviews: How to Compare Proxies with Live Benchmark Data]]></title>
-        <id>https://dev.to/proxyvero/stop-relying-on-static-reviews-how-to-compare-proxies-with-live-benchmark-data-5go1</id>
-        <link href="https://dev.to/proxyvero/stop-relying-on-static-reviews-how-to-compare-proxies-with-live-benchmark-data-5go1"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paste your Stripe webhook handler here: 7 checks that run in this post]]></title>
-        <id>https://dev.to/saasfactory/paste-your-stripe-webhook-handler-here-7-checks-that-run-in-this-post-2bdj</id>
-        <link href="https://dev.to/saasfactory/paste-your-stripe-webhook-handler-here-7-checks-that-run-in-this-post-2bdj"/>
+        <title type="html"><![CDATA[Efficient Reasoning Distillation: Small Video-Language Models via Synthetic CoT and Difficulty-Aware Fine-Tuning]]></title>
+        <id>https://arxiv.org/abs/2609.16255</id>
+        <link href="https://arxiv.org/abs/2609.16255"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
