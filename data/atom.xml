@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-16T07:04:35.540Z</updated>
+    <updated>2026-09-16T10:02:34.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性]]></title>
+        <id>https://sspai.com/post/114607</id>
+        <link href="https://sspai.com/post/114607"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[当我怀念旧版 Edge 浏览器时，我在怀念什么？]]></title>
         <id>https://sspai.com/post/113295</id>
         <link href="https://sspai.com/post/113295"/>
@@ -22,23 +29,9 @@
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Boox Palma 3 gets stylus support and a sleek redesign]]></title>
-        <id>https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16</id>
-        <link href="https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voters mostly don’t like AI and data centers, but neither party seems to have an edge]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of the best 3D printers for beginners is almost $100 off]]></title>
-        <id>https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale"/>
+        <title type="html"><![CDATA[Meta is reportedly ready to launch less pervy smart glasses]]></title>
+        <id>https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect</id>
+        <link href="https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
@@ -50,16 +43,30 @@
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Naturepedic Promo Codes: Get 20% Off Plus Free Pillows]]></title>
-        <id>https://www.wired.com/story/naturepedic-promo-code/</id>
-        <link href="https://www.wired.com/story/naturepedic-promo-code/"/>
+        <title type="html"><![CDATA[One of the best 3D printers for beginners is almost $100 off]]></title>
+        <id>https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Casetify Promo Codes | 15% Off September 2026]]></title>
-        <id>https://www.wired.com/story/casetify-promo-code/</id>
-        <link href="https://www.wired.com/story/casetify-promo-code/"/>
+        <title type="html"><![CDATA[Voters mostly don’t like AI and data centers, but neither party seems to have an edge]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boox Palma 3 gets stylus support and a sleek redesign]]></title>
+        <id>https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16</id>
+        <link href="https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZuckOff Is a Free App That Sees Meta Glasses Before They See You]]></title>
+        <id>https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/</id>
+        <link href="https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
@@ -71,9 +78,16 @@
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZuckOff Is a Free App That Sees Meta Glasses Before They See You]]></title>
-        <id>https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/</id>
-        <link href="https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/"/>
+        <title type="html"><![CDATA[Casetify Promo Codes | 15% Off September 2026]]></title>
+        <id>https://www.wired.com/story/casetify-promo-code/</id>
+        <link href="https://www.wired.com/story/casetify-promo-code/"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naturepedic Promo Codes: Get 20% Off Plus Free Pillows]]></title>
+        <id>https://www.wired.com/story/naturepedic-promo-code/</id>
+        <link href="https://www.wired.com/story/naturepedic-promo-code/"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[POSPAN: Position-Constrained Span Masking for Language Model Pre-training]]></title>
         <id>https://arxiv.org/abs/2609.16061</id>
         <link href="https://arxiv.org/abs/2609.16061"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signed p-adic Residual Encodings of Finite-Domain All-Different Systems with a Sudoku Case Study]]></title>
-        <id>https://arxiv.org/abs/2609.16063</id>
-        <link href="https://arxiv.org/abs/2609.16063"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A panoramic aerodynamic performance prediction method for turbomachinery cascades using transformer-enhanced neural operator]]></title>
-        <id>https://arxiv.org/abs/2609.16066</id>
-        <link href="https://arxiv.org/abs/2609.16066"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
