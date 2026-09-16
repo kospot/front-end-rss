@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-16 23:04:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-17 06:01:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -9,14 +9,14 @@
 
 - [2026-09-16-How-to-Merge-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-merge-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-25n2) 
 - [2026-09-15-How-to-Compress-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-compress-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-5dd4) 
-- [2026-09-14-Vue-nextTick-Explained:-How-DOM-Updates-Are-Batched](https://dev.to/parsajiravand/vue-nexttick-explained-how-dom-updates-are-batched-3gnp) 
 - [2026-09-14-How-to-Rotate-PDF-Pages-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-rotate-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-ag7) 
+- [2026-09-14-Vue-nextTick-Explained:-How-DOM-Updates-Are-Batched](https://dev.to/parsajiravand/vue-nexttick-explained-how-dom-updates-are-batched-3gnp) 
 - [2026-09-11-How-to-Convert-Excel-to-PDF-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-excel-to-pdf-in-the-browser-with-vue-3-35a0) 
 - [2026-09-10-How-to-Convert-PDF-to-Image-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-pdf-to-image-in-the-browser-with-vue-3-2pk4) 
 - [2026-09-08-How-to-Sign-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-sign-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-4n03) 
 - [2026-09-06-How-to-Remove-Blank-Pages-from-PDF-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-remove-blank-pages-from-pdf-in-the-browser-with-vue-3-and-pdf-lib-227p) 
-- [2026-09-05-Solid-Vue-|-The-Minimalist-Vue-+-Vite-Web-Frameworks-No-relation-to-SolidJS-or-SolidStart-at-all](https://dev.to/joni_ilman12/solid-vue-the-minimalist-vue-vite-web-frameworks-no-relation-to-solidjs-or-solidstart-at-all-l9e) 
 - [2026-09-05-How-to-Crop-PDF-Margins-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-crop-pdf-margins-in-the-browser-with-vue-3-and-pdf-lib-54li) 
+- [2026-09-05-Solid-Vue-|-The-Minimalist-Vue-+-Vite-Web-Frameworks-No-relation-to-SolidJS-or-SolidStart-at-all](https://dev.to/joni_ilman12/solid-vue-the-minimalist-vue-vite-web-frameworks-no-relation-to-solidjs-or-solidstart-at-all-l9e) 
 - [2026-09-04-How-to-Add-Page-Numbers-to-PDF-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-add-page-numbers-to-pdf-in-the-browser-with-vue-3-and-pdf-lib-9g1) 
 - [2026-09-02-How-to-Encrypt-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-encrypt-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-135k) 
 - [2026-09-01-How-to-Add-Watermarks-to-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-add-watermarks-to-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-10kn) 
@@ -29,10 +29,8 @@
 - [2026-08-22-How-to-Convert-Word-to-PDF-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-word-to-pdf-in-the-browser-with-vue-3-3c2f) 
 - [2026-08-21-How-to-Encrypt-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-encrypt-pdfs-in-the-browser-with-vue-3-and-pdf-lib-2bfe) 
 - [2026-08-20-How-to-Convert-PDF-to-Word-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-convert-pdf-to-word-in-the-browser-with-vue-3-and-pdf-lib-21co) 
-- [2026-08-19-How-to-Fix-Duplex-Scan-Page-Order-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-fix-duplex-scan-page-order-in-the-browser-with-vue-3-and-pdf-lib-35ln) 
 - [2026-08-19-5-Practical-Solutions-for-Large-List-Rendering-in-Vue-3](https://dev.to/alan_529cf536b9cf0f88ec8c/5-practical-solutions-for-large-list-rendering-in-vue-3-4lbi) 
-- [2026-08-18-How-to-Build-a-Duplex-Print-Helper-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-build-a-duplex-print-helper-in-the-browser-with-vue-3-and-pdf-lib-1jf5) 
-- [2026-08-18-7-Hidden-Business-Advantages-of-Choosing-AngularJS-for-Your-App](https://dev.to/sahil_khurana_486f374ecf2/7-hidden-business-advantages-of-choosing-angularjs-for-your-app-oeg) 
+- [2026-08-19-How-to-Fix-Duplex-Scan-Page-Order-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-fix-duplex-scan-page-order-in-the-browser-with-vue-3-and-pdf-lib-35ln) 
 - [2026-09-16-BASIS:-Batchwise-Advantage-Estimation-from-Single-Rollout-Information-Sharing-for-LLM-Reasoning](https://arxiv.org/abs/2605.27293) 
 - [2026-09-16-Adapting-to-Decision-Relevant-Non-Stationarity-in-Decentralized-Heterogeneous-Bandits](https://arxiv.org/abs/2609.16824) 
 - [2026-09-15-The-Filter-Metric-is-Safety-Critical:-Phantom-Advantages-in-Group-Relative-RL-under-Shaped-Rewards](https://arxiv.org/abs/2609.13866) 
@@ -44,7 +42,6 @@
 - [2026-09-01-PAC:-Progress-Augmented-Advantage-Curriculum-for-Multi-Task-Reinforcement-Learning-of-LLMs](https://arxiv.org/abs/2608.30528) 
 - [2026-08-21-An-Irreducible-Quantum-Advantage-in-Aligning-World-Models-with-Reality](https://arxiv.org/abs/2608.19779) 
 - [2026-08-20-How-Quantum-Is-the-Advantage?-A-Fair,-Calibration--and-Noise-Aware-Benchmark-and-Attribution-Audit-of-Quantum-Machine-Learning-for-Network-Intrusion-Detection](https://arxiv.org/abs/2608.18155) 
-- [2026-08-18-Learn-What's-Left,-Not-What's-Mastered:-Saturation-Aware-Advantage-Reweighting-for-Multi-Reward-Policy-Optimization](https://arxiv.org/abs/2608.16072) 
 - [2026-08-20-Intent-Based-UX:-The-New-Enterprise-Advantage-for-AI-Design](https://pub.towardsai.net/intent-based-ux-the-new-enterprise-advantage-for-ai-design-1b51aa3a7765?source=rss----98111c9905da---4) 
 - [2026-08-27-Japanese-avant-garde-artist-Yayoi-Kusama-dies-aged-97](https://www.bbc.com/news/articles/c3v4k0re3vwo) 
 - [2026-08-29-Nvidia’s-AI-advantage-is-moving-beyond-the-GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/) 

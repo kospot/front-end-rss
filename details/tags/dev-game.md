@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-16 23:04:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-17 06:01:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -8,7 +8,6 @@
 
 
 - [2026-08-24-Particle-effects-for-Three.js-and-PixiJS-without-the-reload-loop](https://dev.to/sam_novak_574b07811e18495/particle-effects-for-threejs-and-pixijs-without-the-reload-loop-7ld) 
-- [2026-08-18-Authoring-particle-VFX-for-Three.js-—-and-the-delta-time-bug-everyone-hits](https://dev.to/patilrb/authoring-particle-vfx-for-threejs-and-the-delta-time-bug-everyone-hits-2447) 
 - [2026-08-22-mrdoob/three.js](https://github.com/mrdoob/three.js) 
 - [2026-09-08-I-tested-10-model/harness-combinations-on-the-same-Three.js-task](https://alvins82.github.io/hangar-harness-model-tests/) 
 - [2026-09-09-华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842) 
