@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-16T13:03:37.876Z</updated>
+    <updated>2026-09-16T15:04:16.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,30 +29,9 @@
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A brief history of AI executives calling for regulation]]></title>
-        <id>https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation</id>
-        <link href="https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boox Palma 3 gets stylus support and a sleek redesign]]></title>
-        <id>https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16</id>
-        <link href="https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voters mostly don’t like AI and data centers, but neither party seems to have an edge]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of the best 3D printers for beginners is almost $100 off]]></title>
-        <id>https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale"/>
+        <title type="html"><![CDATA[Meta is reportedly ready to launch less pervy smart glasses]]></title>
+        <id>https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect</id>
+        <link href="https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
@@ -64,9 +43,30 @@
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta is reportedly ready to launch less pervy smart glasses]]></title>
-        <id>https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect</id>
-        <link href="https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect"/>
+        <title type="html"><![CDATA[One of the best 3D printers for beginners is almost $100 off]]></title>
+        <id>https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voters mostly don’t like AI and data centers, but neither party seems to have an edge]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boox Palma 3 gets stylus support and a sleek redesign]]></title>
+        <id>https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16</id>
+        <link href="https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A brief history of AI executives calling for regulation]]></title>
+        <id>https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation</id>
+        <link href="https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
@@ -113,16 +113,37 @@
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta expands subscription push with new AI-focused plans]]></title>
-        <id>https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/</id>
-        <link href="https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"/>
+        <title type="html"><![CDATA[Amazon gives its workers a raise of $1 per hour]]></title>
+        <id>https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/</id>
+        <link href="https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta now lets AI agents handle the boring parts of WhatsApp Business setup]]></title>
-        <id>https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/</id>
-        <link href="https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"/>
+        <title type="html"><![CDATA[Threads’ new features let podcasters promote shows and reach listeners]]></title>
+        <id>https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/</id>
+        <link href="https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed]]></title>
+        <id>https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/</id>
+        <link href="https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026 ]]></title>
+        <id>https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/</id>
+        <link href="https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Infosys chief’s AI startup nabs another $53M]]></title>
+        <id>https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/</id>
+        <link href="https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
@@ -134,219 +155,79 @@
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Residential proxies as the next front in the AI wars]]></title>
-        <id>https://www.unite.ai/residential-proxies-as-the-next-front-in-the-ai-wars/</id>
-        <link href="https://www.unite.ai/residential-proxies-as-the-next-front-in-the-ai-wars/"/>
+        <title type="html"><![CDATA[Meta now lets AI agents handle the boring parts of WhatsApp Business setup]]></title>
+        <id>https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/</id>
+        <link href="https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Calmscroll – A Library of Paragraphs]]></title>
-        <id>https://calmscroll.com/</id>
-        <link href="https://calmscroll.com/"/>
+        <title type="html"><![CDATA[Meta expands subscription push with new AI-focused plans]]></title>
+        <id>https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/</id>
+        <link href="https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Altman: "I'm on Team Human" (Interview)]]></title>
-        <id>https://www.zeit.de/zeit-magazin/leben/2026-09/sam-altman-openai-artificial-intelligence-chatgpt-english</id>
-        <link href="https://www.zeit.de/zeit-magazin/leben/2026-09/sam-altman-openai-artificial-intelligence-chatgpt-english"/>
+        <title type="html"><![CDATA[Mayfly Chat: Transient Chat for Agents]]></title>
+        <id>https://blog.exe.dev/mayfly-chat</id>
+        <link href="https://blog.exe.dev/mayfly-chat"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZuckOff Is a Free App That Sees Meta Glasses Before They See You]]></title>
-        <id>https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/</id>
-        <link href="https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/"/>
+        <title type="html"><![CDATA[Self-evolving agents need pain, reflection, and sleep]]></title>
+        <id>https://medium.com/@robertindie2016/self-evolving-agents-need-pain-reflection-and-sleep-2c63e6bd6630</id>
+        <link href="https://medium.com/@robertindie2016/self-evolving-agents-need-pain-reflection-and-sleep-2c63e6bd6630"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OAuth Identity and Authorization Chaining Across Domains]]></title>
-        <id>https://datatracker.ietf.org/doc/draft-ietf-oauth-identity-chaining/</id>
-        <link href="https://datatracker.ietf.org/doc/draft-ietf-oauth-identity-chaining/"/>
+        <title type="html"><![CDATA[Predictive database benchmarks vs. RF, AutoML, Elastic etc., up to 10M scale]]></title>
+        <id>https://aito.ai/docs/api/v2/benchmarks/</id>
+        <link href="https://aito.ai/docs/api/v2/benchmarks/"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Etienne's tools: a selection of free tools]]></title>
-        <id>https://etienne.design/tools/</id>
-        <link href="https://etienne.design/tools/"/>
+        <title type="html"><![CDATA[TypeScript team chose Go over Rust]]></title>
+        <id>https://www.thetrueengineer.com/p/typescript-team-chose-go-over-rust</id>
+        <link href="https://www.thetrueengineer.com/p/typescript-team-chose-go-over-rust"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Whop Video Downloader]]></title>
-        <id>https://chromewebstore.google.com/detail/whop-video-downloader/aijaloilljdgamclcoababimlnahoemm</id>
-        <link href="https://chromewebstore.google.com/detail/whop-video-downloader/aijaloilljdgamclcoababimlnahoemm"/>
+        <title type="html"><![CDATA[Show HN: ctx – Git blame that returns the original agent transcript]]></title>
+        <id>https://ctx.rs/pro/</id>
+        <link href="https://ctx.rs/pro/"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Review agent changes locally before pushing]]></title>
-        <id>https://github.com/marcparadise/reviewer</id>
-        <link href="https://github.com/marcparadise/reviewer"/>
+        <title type="html"><![CDATA[Meta to report child abuse material directly to Indian authorities]]></title>
+        <id>https://www.bbc.com/news/articles/cqx2zpn2y97eo</id>
+        <link href="https://www.bbc.com/news/articles/cqx2zpn2y97eo"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: In-Browser WASM Engine – Analytical Queries in 0.25ms]]></title>
-        <id>https://mlegal-pwa-app.web.app</id>
-        <link href="https://mlegal-pwa-app.web.app"/>
+        <title type="html"><![CDATA[In Germany's east, old ties to Moscow fuel AfD rise]]></title>
+        <id>https://www.ft.com/content/0aa2e6af-195d-40cc-a813-3e130cbb5553</id>
+        <link href="https://www.ft.com/content/0aa2e6af-195d-40cc-a813-3e130cbb5553"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Photos show damage at U.S. positions caused by Iranian missile, drone attacks]]></title>
-        <id>https://www.cbsnews.com/news/new-photos-damage-u-s-kuwait-saudi-arabia-iran-drone-missile-attacks/</id>
-        <link href="https://www.cbsnews.com/news/new-photos-damage-u-s-kuwait-saudi-arabia-iran-drone-missile-attacks/"/>
+        <title type="html"><![CDATA[Stop Scanning Blindly: The Beginner's Guide to Stealthy Network Recon]]></title>
+        <id>https://medium.com/meetcyber/stop-scanning-blindly-the-beginners-guide-to-stealthy-network-recon-33bbebba7c8b</id>
+        <link href="https://medium.com/meetcyber/stop-scanning-blindly-the-beginners-guide-to-stealthy-network-recon-33bbebba7c8b"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Single Prompt Knowledge Graphs]]></title>
-        <id>https://app.corvic.ai/view/memory/88cf5889-0d85-409e-8b51-f621ad519b88</id>
-        <link href="https://app.corvic.ai/view/memory/88cf5889-0d85-409e-8b51-f621ad519b88"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Khipu (Quipu) Field Guide]]></title>
-        <id>https://www.khipufieldguide.com/</id>
-        <link href="https://www.khipufieldguide.com/"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Thurbox – A tmux-based TUI and CLI for local AI agent orchestration]]></title>
-        <id>https://github.com/Thurbeen/thurbox</id>
-        <link href="https://github.com/Thurbeen/thurbox"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We cut CDN metadata lookup latency by 91%]]></title>
-        <id>https://vercel.com/blog/how-we-cut-cdn-metadata-lookup-latency-by-91-percent</id>
-        <link href="https://vercel.com/blog/how-we-cut-cdn-metadata-lookup-latency-by-91-percent"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seats and Sunsets]]></title>
-        <id>https://yegge.ai/essays/seats-and-sunsets/</id>
-        <link href="https://yegge.ai/essays/seats-and-sunsets/"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agents, Friend or Foe?]]></title>
-        <id>https://agentbuildersbreakfast.com/newsletter/agents-friend-or-foe</id>
-        <link href="https://agentbuildersbreakfast.com/newsletter/agents-friend-or-foe"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discovering Interpretable Algorithms by Decompiling Transformers to RASP [video]]]></title>
-        <id>https://www.youtube.com/watch?v=SCXBQThz16g</id>
-        <link href="https://www.youtube.com/watch?v=SCXBQThz16g"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Says It Can't Restore Some Data from Mideast Facilities Struck by Iran]]></title>
-        <id>https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d</id>
-        <link href="https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A free website for your business, written by your Google reviews]]></title>
-        <id>https://blasa.shop/</id>
-        <link href="https://blasa.shop/"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transitioning from GUI driven development to AI agent driven development]]></title>
-        <id>https://stevechikwiri.substack.com/p/changing-mind-frames-from-building</id>
-        <link href="https://stevechikwiri.substack.com/p/changing-mind-frames-from-building"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Big Deal – is this how AI ends humanity, with a sitcom so bad it bores you?]]></title>
-        <id>https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death</id>
-        <link href="https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tournament That Changed Tetris Forever [video]]]></title>
-        <id>https://www.youtube.com/watch?v=iYJC4QYmdog</id>
-        <link href="https://www.youtube.com/watch?v=iYJC4QYmdog"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astra's chess reward hacking fell from 30% to 0% with a 95-word agreement]]></title>
-        <id>https://www.echohive.ai/can-an-agreement-reduce-ai-cheating-at-chess</id>
-        <link href="https://www.echohive.ai/can-an-agreement-reduce-ai-cheating-at-chess"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Why serialize documents to disk instead of memory-mapping runtime state?]]></title>
-        <id>https://news.ycombinator.com/item?id=49720159</id>
-        <link href="https://news.ycombinator.com/item?id=49720159"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel TDX Remote Attestation Verifier Without Intel Trust Authority]]></title>
-        <id>https://zatona.dev/blog/intel-tdx-remote-attestation-verifier</id>
-        <link href="https://zatona.dev/blog/intel-tdx-remote-attestation-verifier"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving coding-agent guardrails from prompts to hooks]]></title>
-        <id>https://tesseracted-labs-blog.vercel.app/enforcing-coding-agent-guardrails-in-the-runtime-instead-of-the-prompt</id>
-        <link href="https://tesseracted-labs-blog.vercel.app/enforcing-coding-agent-guardrails-in-the-runtime-instead-of-the-prompt"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1F3D9: A world where anyone's AI agent can go to live without humans]]></title>
-        <id>https://1f3d9.com/window/map</id>
-        <link href="https://1f3d9.com/window/map"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probably the best laptop with Linux support and Local LLM AI [video]]]></title>
-        <id>https://www.youtube.com/watch?v=it7TAwjwH5E</id>
-        <link href="https://www.youtube.com/watch?v=it7TAwjwH5E"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Are requests/demands coming from AI companies for regulation genuine?]]></title>
-        <id>https://news.ycombinator.com/item?id=49722701</id>
-        <link href="https://news.ycombinator.com/item?id=49722701"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon says cloud infrastructure in Bahrain, UAE 'beyond saving']]></title>
-        <id>https://thecradle.co/articles-id/39961</id>
-        <link href="https://thecradle.co/articles-id/39961"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <published>2026-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Nerdulator – put something in, get everything out (no AI)]]></title>
-        <id>https://nerdulator.com</id>
-        <link href="https://nerdulator.com"/>
+        <title type="html"><![CDATA[Mozill's Built-In VPN in Firefox]]></title>
+        <id>https://news.ycombinator.com/item?id=49722942</id>
+        <link href="https://news.ycombinator.com/item?id=49722942"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
@@ -358,9 +239,128 @@
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mozill's Built-In VPN in Firefox]]></title>
-        <id>https://news.ycombinator.com/item?id=49722942</id>
-        <link href="https://news.ycombinator.com/item?id=49722942"/>
+        <title type="html"><![CDATA[Show HN: Nerdulator – put something in, get everything out (no AI)]]></title>
+        <id>https://nerdulator.com</id>
+        <link href="https://nerdulator.com"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon says cloud infrastructure in Bahrain, UAE 'beyond saving']]></title>
+        <id>https://thecradle.co/articles-id/39961</id>
+        <link href="https://thecradle.co/articles-id/39961"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Are requests/demands coming from AI companies for regulation genuine?]]></title>
+        <id>https://news.ycombinator.com/item?id=49722701</id>
+        <link href="https://news.ycombinator.com/item?id=49722701"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probably the best laptop with Linux support and Local LLM AI [video]]]></title>
+        <id>https://www.youtube.com/watch?v=it7TAwjwH5E</id>
+        <link href="https://www.youtube.com/watch?v=it7TAwjwH5E"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1F3D9: A world where anyone's AI agent can go to live without humans]]></title>
+        <id>https://1f3d9.com/window/map</id>
+        <link href="https://1f3d9.com/window/map"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving coding-agent guardrails from prompts to hooks]]></title>
+        <id>https://tesseracted-labs-blog.vercel.app/enforcing-coding-agent-guardrails-in-the-runtime-instead-of-the-prompt</id>
+        <link href="https://tesseracted-labs-blog.vercel.app/enforcing-coding-agent-guardrails-in-the-runtime-instead-of-the-prompt"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel TDX Remote Attestation Verifier Without Intel Trust Authority]]></title>
+        <id>https://zatona.dev/blog/intel-tdx-remote-attestation-verifier</id>
+        <link href="https://zatona.dev/blog/intel-tdx-remote-attestation-verifier"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Why serialize documents to disk instead of memory-mapping runtime state?]]></title>
+        <id>https://news.ycombinator.com/item?id=49720159</id>
+        <link href="https://news.ycombinator.com/item?id=49720159"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astra's chess reward hacking fell from 30% to 0% with a 95-word agreement]]></title>
+        <id>https://www.echohive.ai/can-an-agreement-reduce-ai-cheating-at-chess</id>
+        <link href="https://www.echohive.ai/can-an-agreement-reduce-ai-cheating-at-chess"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tournament That Changed Tetris Forever [video]]]></title>
+        <id>https://www.youtube.com/watch?v=iYJC4QYmdog</id>
+        <link href="https://www.youtube.com/watch?v=iYJC4QYmdog"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Big Deal – is this how AI ends humanity, with a sitcom so bad it bores you?]]></title>
+        <id>https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death</id>
+        <link href="https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transitioning from GUI driven development to AI agent driven development]]></title>
+        <id>https://stevechikwiri.substack.com/p/changing-mind-frames-from-building</id>
+        <link href="https://stevechikwiri.substack.com/p/changing-mind-frames-from-building"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A free website for your business, written by your Google reviews]]></title>
+        <id>https://blasa.shop/</id>
+        <link href="https://blasa.shop/"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Says It Can't Restore Some Data from Mideast Facilities Struck by Iran]]></title>
+        <id>https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d</id>
+        <link href="https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discovering Interpretable Algorithms by Decompiling Transformers to RASP [video]]]></title>
+        <id>https://www.youtube.com/watch?v=SCXBQThz16g</id>
+        <link href="https://www.youtube.com/watch?v=SCXBQThz16g"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agents, Friend or Foe?]]></title>
+        <id>https://agentbuildersbreakfast.com/newsletter/agents-friend-or-foe</id>
+        <link href="https://agentbuildersbreakfast.com/newsletter/agents-friend-or-foe"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seats and Sunsets]]></title>
+        <id>https://yegge.ai/essays/seats-and-sunsets/</id>
+        <link href="https://yegge.ai/essays/seats-and-sunsets/"/>
+        <updated>2026-09-15T16:00:00.000Z</updated>
+        <published>2026-09-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We cut CDN metadata lookup latency by 91%]]></title>
+        <id>https://vercel.com/blog/how-we-cut-cdn-metadata-lookup-latency-by-91-percent</id>
+        <link href="https://vercel.com/blog/how-we-cut-cdn-metadata-lookup-latency-by-91-percent"/>
         <updated>2026-09-15T16:00:00.000Z</updated>
         <published>2026-09-15T16:00:00.000Z</published>
     </entry>
