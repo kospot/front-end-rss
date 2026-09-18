@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-18T00:01:55.400Z</updated>
+    <updated>2026-09-18T02:02:27.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,16 +29,9 @@
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crusoe raises $3.9B to build massive data centers and small modular “AI factories”]]></title>
-        <id>https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/</id>
-        <link href="https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple will let EU apps use less-alarming tracking-consent screens]]></title>
-        <id>https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/</id>
-        <link href="https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/"/>
+        <title type="html"><![CDATA[Waymo restarts San Antonio service 5 months after flooding troubles]]></title>
+        <id>https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/</id>
+        <link href="https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
@@ -50,9 +43,16 @@
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waymo restarts San Antonio service 5 months after flooding troubles]]></title>
-        <id>https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/</id>
-        <link href="https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/"/>
+        <title type="html"><![CDATA[Apple will let EU apps use less-alarming tracking-consent screens]]></title>
+        <id>https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/</id>
+        <link href="https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crusoe raises $3.9B to build massive data centers and small modular “AI factories”]]></title>
+        <id>https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/</id>
+        <link href="https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
@@ -106,30 +106,9 @@
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gemini 3.8 Flash vs GPT-6 Astra: I Compared Both. The Price Gap Surprised Me]]></title>
-        <id>https://pub.towardsai.net/gemini-3-8-flash-vs-gpt-6-astra-i-compared-both-the-price-gap-surprised-me-018b7ccca839?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/gemini-3-8-flash-vs-gpt-6-astra-i-compared-both-the-price-gap-surprised-me-018b7ccca839?source=rss----98111c9905da---4"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Autonomous SRE Agents Default to Root: The AST Mechanics of Agentic IAM Escalation]]></title>
-        <id>https://pub.towardsai.net/why-autonomous-sre-agents-default-to-root-the-ast-mechanics-of-agentic-iam-escalation-529163ef40dd?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-autonomous-sre-agents-default-to-root-the-ast-mechanics-of-agentic-iam-escalation-529163ef40dd?source=rss----98111c9905da---4"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Agents API Sandbox Boundaries: Ship Long-Running Agents Without Shipping Your Secrets]]></title>
-        <id>https://pub.towardsai.net/openai-agents-api-sandbox-boundaries-ship-long-running-agents-without-shipping-your-secrets-afd2dfad7151?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/openai-agents-api-sandbox-boundaries-ship-long-running-agents-without-shipping-your-secrets-afd2dfad7151?source=rss----98111c9905da---4"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model Collapse: The Slow-Motion Problem That Could Quietly Poison Every Future AI Model]]></title>
-        <id>https://pub.towardsai.net/model-collapse-the-slow-motion-problem-that-could-quietly-poison-every-future-ai-model-f4feec3efd2f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/model-collapse-the-slow-motion-problem-that-could-quietly-poison-every-future-ai-model-f4feec3efd2f?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How Did AI Became So Good At Video Generation]]></title>
+        <id>https://pub.towardsai.net/how-did-ai-became-so-good-at-video-generation-728c2ebdd388?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-did-ai-became-so-good-at-video-generation-728c2ebdd388?source=rss----98111c9905da---4"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
@@ -141,9 +120,30 @@
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Did AI Became So Good At Video Generation]]></title>
-        <id>https://pub.towardsai.net/how-did-ai-became-so-good-at-video-generation-728c2ebdd388?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-did-ai-became-so-good-at-video-generation-728c2ebdd388?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Model Collapse: The Slow-Motion Problem That Could Quietly Poison Every Future AI Model]]></title>
+        <id>https://pub.towardsai.net/model-collapse-the-slow-motion-problem-that-could-quietly-poison-every-future-ai-model-f4feec3efd2f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/model-collapse-the-slow-motion-problem-that-could-quietly-poison-every-future-ai-model-f4feec3efd2f?source=rss----98111c9905da---4"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Agents API Sandbox Boundaries: Ship Long-Running Agents Without Shipping Your Secrets]]></title>
+        <id>https://pub.towardsai.net/openai-agents-api-sandbox-boundaries-ship-long-running-agents-without-shipping-your-secrets-afd2dfad7151?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openai-agents-api-sandbox-boundaries-ship-long-running-agents-without-shipping-your-secrets-afd2dfad7151?source=rss----98111c9905da---4"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Autonomous SRE Agents Default to Root: The AST Mechanics of Agentic IAM Escalation]]></title>
+        <id>https://pub.towardsai.net/why-autonomous-sre-agents-default-to-root-the-ast-mechanics-of-agentic-iam-escalation-529163ef40dd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-autonomous-sre-agents-default-to-root-the-ast-mechanics-of-agentic-iam-escalation-529163ef40dd?source=rss----98111c9905da---4"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3.8 Flash vs GPT-6 Astra: I Compared Both. The Price Gap Surprised Me]]></title>
+        <id>https://pub.towardsai.net/gemini-3-8-flash-vs-gpt-6-astra-i-compared-both-the-price-gap-surprised-me-018b7ccca839?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/gemini-3-8-flash-vs-gpt-6-astra-i-compared-both-the-price-gap-surprised-me-018b7ccca839?source=rss----98111c9905da---4"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
@@ -183,58 +183,51 @@
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a digital city where brands can own the advertising space]]></title>
-        <id>https://dev.to/inmukibuilds2/i-built-a-digital-city-where-brands-can-own-the-advertising-space-3dm3</id>
-        <link href="https://dev.to/inmukibuilds2/i-built-a-digital-city-where-brands-can-own-the-advertising-space-3dm3"/>
+        <title type="html"><![CDATA[科技爱好者周刊（第 413 期）：再见了，React Native]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safari runs a module worker's entry file twice if anything imports it]]></title>
-        <id>https://dev.to/tom_limb/safari-runs-a-module-workers-entry-file-twice-if-anything-imports-it-dbp</id>
-        <link href="https://dev.to/tom_limb/safari-runs-a-module-workers-entry-file-twice-if-anything-imports-it-dbp"/>
+        <title type="html"><![CDATA[How to Generate GS1 Barcodes in JavaScript for Scanner Testing]]></title>
+        <id>https://dev.to/yushulx/how-to-generate-gs1-barcodes-in-javascript-for-scanner-testing-33ah</id>
+        <link href="https://dev.to/yushulx/how-to-generate-gs1-barcodes-in-javascript-for-scanner-testing-33ah"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building an Auth Backend: JWT, Refresh Tokens, Rate Limiting, and Timing Attacks Explained]]></title>
-        <id>https://dev.to/banujafar/building-an-auth-backend-jwt-refresh-tokens-rate-limiting-and-timing-attacks-explained-3mom</id>
-        <link href="https://dev.to/banujafar/building-an-auth-backend-jwt-refresh-tokens-rate-limiting-and-timing-attacks-explained-3mom"/>
+        <title type="html"><![CDATA[Handling Files Over 2GB with WebAssembly in the Browser]]></title>
+        <id>https://dev.to/feiy_redpanda/handling-files-over-2gb-with-webassembly-in-the-browser-1cmm</id>
+        <link href="https://dev.to/feiy_redpanda/handling-files-over-2gb-with-webassembly-in-the-browser-1cmm"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Privacy-First Web Utilities with Utilvo]]></title>
-        <id>https://dev.to/utilvo/building-privacy-first-web-utilities-with-utilvo-4272</id>
-        <link href="https://dev.to/utilvo/building-privacy-first-web-utilities-with-utilvo-4272"/>
+        <title type="html"><![CDATA[I Built a Free Embeddable Whale Sentiment Widget for Crypto Sites]]></title>
+        <id>https://dev.to/deepbluealpha/i-built-a-free-embeddable-whale-sentiment-widget-for-crypto-sites-189p</id>
+        <link href="https://dev.to/deepbluealpha/i-built-a-free-embeddable-whale-sentiment-widget-for-crypto-sites-189p"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shopify drops React Native for Swift and Kotlin]]></title>
-        <id>https://dev.to/techaiwire/shopify-drops-react-native-for-swift-and-kotlin-2nfa</id>
-        <link href="https://dev.to/techaiwire/shopify-drops-react-native-for-swift-and-kotlin-2nfa"/>
+        <title type="html"><![CDATA[JavaScript Objects]]></title>
+        <id>https://dev.to/jaisurya/javascript-objects-3070</id>
+        <link href="https://dev.to/jaisurya/javascript-objects-3070"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Bulletproof Enterprise Compliance Engines in Next.js: Eliminating AI Hallucinations in FinTech, Healthcare, and Legal]]></title>
-        <id>https://dev.to/programmingcentral/building-bulletproof-enterprise-compliance-engines-in-nextjs-eliminating-ai-hallucinations-in-23f2</id>
-        <link href="https://dev.to/programmingcentral/building-bulletproof-enterprise-compliance-engines-in-nextjs-eliminating-ai-hallucinations-in-23f2"/>
+        <title type="html"><![CDATA[Migrate a DNS Zone with Enumerate Diff Apply Verify Before Nameservers]]></title>
+        <id>https://dev.to/dorianreed2186/migrate-a-dns-zone-with-enumerate-diff-apply-verify-before-nameservers-p2h</id>
+        <link href="https://dev.to/dorianreed2186/migrate-a-dns-zone-with-enumerate-diff-apply-verify-before-nameservers-p2h"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
-        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-5chm</id>
-        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-5chm"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Server Components vs traditional SSR: what changed and why it matters]]></title>
-        <id>https://dev.to/amitshuklabag/react-server-components-vs-traditional-ssr-what-changed-and-why-it-matters-emn</id>
-        <link href="https://dev.to/amitshuklabag/react-server-components-vs-traditional-ssr-what-changed-and-why-it-matters-emn"/>
+        <title type="html"><![CDATA[Building a PNG Compressor in V…]]></title>
+        <id>https://dev.to/norviktech/building-a-png-compressor-in-v-2b5g</id>
+        <link href="https://dev.to/norviktech/building-a-png-compressor-in-v-2b5g"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
@@ -246,6 +239,62 @@
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[React Server Components vs traditional SSR: what changed and why it matters]]></title>
+        <id>https://dev.to/amitshuklabag/react-server-components-vs-traditional-ssr-what-changed-and-why-it-matters-emn</id>
+        <link href="https://dev.to/amitshuklabag/react-server-components-vs-traditional-ssr-what-changed-and-why-it-matters-emn"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
+        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-5chm</id>
+        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-5chm"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Bulletproof Enterprise Compliance Engines in Next.js: Eliminating AI Hallucinations in FinTech, Healthcare, and Legal]]></title>
+        <id>https://dev.to/programmingcentral/building-bulletproof-enterprise-compliance-engines-in-nextjs-eliminating-ai-hallucinations-in-23f2</id>
+        <link href="https://dev.to/programmingcentral/building-bulletproof-enterprise-compliance-engines-in-nextjs-eliminating-ai-hallucinations-in-23f2"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopify drops React Native for Swift and Kotlin]]></title>
+        <id>https://dev.to/techaiwire/shopify-drops-react-native-for-swift-and-kotlin-2nfa</id>
+        <link href="https://dev.to/techaiwire/shopify-drops-react-native-for-swift-and-kotlin-2nfa"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Privacy-First Web Utilities with Utilvo]]></title>
+        <id>https://dev.to/utilvo/building-privacy-first-web-utilities-with-utilvo-4272</id>
+        <link href="https://dev.to/utilvo/building-privacy-first-web-utilities-with-utilvo-4272"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an Auth Backend: JWT, Refresh Tokens, Rate Limiting, and Timing Attacks Explained]]></title>
+        <id>https://dev.to/banujafar/building-an-auth-backend-jwt-refresh-tokens-rate-limiting-and-timing-attacks-explained-3mom</id>
+        <link href="https://dev.to/banujafar/building-an-auth-backend-jwt-refresh-tokens-rate-limiting-and-timing-attacks-explained-3mom"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari runs a module worker's entry file twice if anything imports it]]></title>
+        <id>https://dev.to/tom_limb/safari-runs-a-module-workers-entry-file-twice-if-anything-imports-it-dbp</id>
+        <link href="https://dev.to/tom_limb/safari-runs-a-module-workers-entry-file-twice-if-anything-imports-it-dbp"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a digital city where brands can own the advertising space]]></title>
+        <id>https://dev.to/inmukibuilds2/i-built-a-digital-city-where-brands-can-own-the-advertising-space-3dm3</id>
+        <link href="https://dev.to/inmukibuilds2/i-built-a-digital-city-where-brands-can-own-the-advertising-space-3dm3"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Better Centering with CSS text-box]]></title>
         <id>https://blog.master.dev/better-centering-with-css-text-box/</id>
         <link href="https://blog.master.dev/better-centering-with-css-text-box/"/>
@@ -253,30 +302,9 @@
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Camp Snap’s 110D gives slim retro film cameras a digital upgrade]]></title>
-        <id>https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film</id>
-        <link href="https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film"/>
-        <updated>2026-09-16T16:00:00.000Z</updated>
-        <published>2026-09-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Apple Watch Series 12 is the start of a new wearable era]]></title>
-        <id>https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch</id>
-        <link href="https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch"/>
-        <updated>2026-09-16T16:00:00.000Z</updated>
-        <published>2026-09-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple might make servers again to cash in on the AI rush]]></title>
-        <id>https://www.theverge.com/tech/996321/apple-servers-ai-nvidia</id>
-        <link href="https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"/>
-        <updated>2026-09-16T16:00:00.000Z</updated>
-        <published>2026-09-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI data center e-waste problem is huge — and getting bigger]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"/>
+        <title type="html"><![CDATA[Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins]]></title>
+        <id>https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst</id>
+        <link href="https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst"/>
         <updated>2026-09-16T16:00:00.000Z</updated>
         <published>2026-09-16T16:00:00.000Z</published>
     </entry>
@@ -288,9 +316,30 @@
         <published>2026-09-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins]]></title>
-        <id>https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst</id>
-        <link href="https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst"/>
+        <title type="html"><![CDATA[The AI data center e-waste problem is huge — and getting bigger]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"/>
+        <updated>2026-09-16T16:00:00.000Z</updated>
+        <published>2026-09-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple might make servers again to cash in on the AI rush]]></title>
+        <id>https://www.theverge.com/tech/996321/apple-servers-ai-nvidia</id>
+        <link href="https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"/>
+        <updated>2026-09-16T16:00:00.000Z</updated>
+        <published>2026-09-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Apple Watch Series 12 is the start of a new wearable era]]></title>
+        <id>https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch</id>
+        <link href="https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch"/>
+        <updated>2026-09-16T16:00:00.000Z</updated>
+        <published>2026-09-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Camp Snap’s 110D gives slim retro film cameras a digital upgrade]]></title>
+        <id>https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film</id>
+        <link href="https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film"/>
         <updated>2026-09-16T16:00:00.000Z</updated>
         <published>2026-09-16T16:00:00.000Z</published>
     </entry>
@@ -312,55 +361,6 @@
         <title type="html"><![CDATA[‘Fast & Furious’ Takes a Victory Lap With a Ferociously Fun Roller Coaster]]></title>
         <id>https://www.wired.com/story/fast-and-furious-roller-coaster/</id>
         <link href="https://www.wired.com/story/fast-and-furious-roller-coaster/"/>
-        <updated>2026-09-16T16:00:00.000Z</updated>
-        <published>2026-09-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hundreds of Election Deniers Will Be on the Ballot This November]]></title>
-        <id>https://www.wired.com/story/hundreds-of-election-deniers-will-be-on-the-ballot-this-november/</id>
-        <link href="https://www.wired.com/story/hundreds-of-election-deniers-will-be-on-the-ballot-this-november/"/>
-        <updated>2026-09-16T16:00:00.000Z</updated>
-        <published>2026-09-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteelSeries Coupon Codes: 15% Off in September 2026]]></title>
-        <id>https://www.wired.com/story/steelseries-coupon-code/</id>
-        <link href="https://www.wired.com/story/steelseries-coupon-code/"/>
-        <updated>2026-09-16T16:00:00.000Z</updated>
-        <published>2026-09-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivid Seats Promo Codes and Deals: Get 10% Off]]></title>
-        <id>https://www.wired.com/story/vivid-seats-promo-code/</id>
-        <link href="https://www.wired.com/story/vivid-seats-promo-code/"/>
-        <updated>2026-09-16T16:00:00.000Z</updated>
-        <published>2026-09-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)]]></title>
-        <id>https://www.wired.com/story/amazon-prime-day-october-2026-tips/</id>
-        <link href="https://www.wired.com/story/amazon-prime-day-october-2026-tips/"/>
-        <updated>2026-09-16T16:00:00.000Z</updated>
-        <published>2026-09-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Movies to Stream This Month (September 2026)]]></title>
-        <id>https://www.wired.com/story/the-8-best-movies-to-stream-right-now/</id>
-        <link href="https://www.wired.com/story/the-8-best-movies-to-stream-right-now/"/>
-        <updated>2026-09-16T16:00:00.000Z</updated>
-        <published>2026-09-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trump Administration Sends a New Signal to Alien Disclosure Whistleblowers]]></title>
-        <id>https://www.wired.com/story/trump-defense-department-sends-alien-disclosure-signal/</id>
-        <link href="https://www.wired.com/story/trump-defense-department-sends-alien-disclosure-signal/"/>
-        <updated>2026-09-16T16:00:00.000Z</updated>
-        <published>2026-09-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last call: Disrupt volunteer application closes soon ]]></title>
-        <id>https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/</id>
-        <link href="https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/"/>
         <updated>2026-09-16T16:00:00.000Z</updated>
         <published>2026-09-16T16:00:00.000Z</published>
     </entry>
