@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-18T04:02:25.396Z</updated>
+    <updated>2026-09-18T07:02:37.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -57,107 +57,37 @@
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Age of Beyond [video]]]></title>
-        <id>https://www.youtube.com/watch?v=vp7xoPeWzEw</id>
-        <link href="https://www.youtube.com/watch?v=vp7xoPeWzEw"/>
+        <title type="html"><![CDATA[BYOK vs. fixed subscription like GitHub Copilot, codex or Claude]]></title>
+        <id>https://news.ycombinator.com/item?id=49750964</id>
+        <link href="https://news.ycombinator.com/item?id=49750964"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Free GitHub Action that scans PR diffs for malicious code, not quality]]></title>
-        <id>https://github.com/marketplace/actions/vigil-pr-scanner</id>
-        <link href="https://github.com/marketplace/actions/vigil-pr-scanner"/>
+        <title type="html"><![CDATA[Turns out, Astra cannot build manufacturing CAD yet]]></title>
+        <id>https://interpretai.tech/benchmark/cad</id>
+        <link href="https://interpretai.tech/benchmark/cad"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Bitterest Lesson]]></title>
-        <id>https://typesafe.ai/blog/bitterest-lesson</id>
-        <link href="https://typesafe.ai/blog/bitterest-lesson"/>
+        <title type="html"><![CDATA[I built a free AI tarot reader for Android]]></title>
+        <id>https://play.google.com/store/apps/details?id=com.earthbound_tarot&amp;hl=en_US</id>
+        <link href="https://play.google.com/store/apps/details?id=com.earthbound_tarot&amp;hl=en_US"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google announces new experimental "CC" AI agent for families]]></title>
-        <id>https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/</id>
-        <link href="https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/"/>
+        <title type="html"><![CDATA[Grounds to believe US committed war crimes in Iran strikes]]></title>
+        <id>https://www.bbc.com/news/articles/cm9w4n5nverdo</id>
+        <link href="https://www.bbc.com/news/articles/cm9w4n5nverdo"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built the fastest PHP webserver in the world]]></title>
-        <id>https://qbixserver.com</id>
-        <link href="https://qbixserver.com"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running OpenBAO on Kubernetes with a CloudNativePG PostgreSQL Back End]]></title>
-        <id>https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/</id>
-        <link href="https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pre-Greek: The lost language hidden within Ancient Greek]]></title>
-        <id>https://linguisticdiscovery.com/posts/pre-greek/</id>
-        <link href="https://linguisticdiscovery.com/posts/pre-greek/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warez: The Infrastructure and Aesthetics of Piracy Culture]]></title>
-        <id>https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157</id>
-        <link href="https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Jinx – a link shortener you host free on GitHub Pages]]></title>
-        <id>https://jinx.fyi</id>
-        <link href="https://jinx.fyi"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Day in the Life of an Enshittificator [video]]]></title>
-        <id>https://www.youtube.com/watch?v=T4Upf_B9RLQ</id>
-        <link href="https://www.youtube.com/watch?v=T4Upf_B9RLQ"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric S. Raymond – This is the case against AI Doom – pass it on]]></title>
-        <id>https://twitter.com/esrtweet/status/2100530353270100334</id>
-        <link href="https://twitter.com/esrtweet/status/2100530353270100334"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The first new species of cat discovered in more than a century]]></title>
-        <id>https://www.scientificamerican.com/article/see-the-first-new-species-of-cat-discovered-in-more-than-a-century-its-adorable/</id>
-        <link href="https://www.scientificamerican.com/article/see-the-first-new-species-of-cat-discovered-in-more-than-a-century-its-adorable/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHOW HN: I built the fastest PHP webserver in the world]]></title>
-        <id>https://news.ycombinator.com/item?id=49748067</id>
-        <link href="https://news.ycombinator.com/item?id=49748067"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fix It in Post]]></title>
-        <id>https://chuang.oncemarked.com/fix-it-in-post</id>
-        <link href="https://chuang.oncemarked.com/fix-it-in-post"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PPPlayer – An open-source music player built with Flutter]]></title>
-        <id>https://ppplayer.com</id>
-        <link href="https://ppplayer.com"/>
+        <title type="html"><![CDATA[Inside ZCode: Silently Uploading Your Git History to the Cloud]]></title>
+        <id>https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/</id>
+        <link href="https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
@@ -169,30 +99,121 @@
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Did AI Became So Good At Video Generation]]></title>
-        <id>https://pub.towardsai.net/how-did-ai-became-so-good-at-video-generation-728c2ebdd388?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-did-ai-became-so-good-at-video-generation-728c2ebdd388?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[PPPlayer – An open-source music player built with Flutter]]></title>
+        <id>https://ppplayer.com</id>
+        <link href="https://ppplayer.com"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Three Levers That Get AI Architecture Approved]]></title>
-        <id>https://pub.towardsai.net/the-three-levers-that-get-ai-architecture-approved-3dfd96813ad2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-three-levers-that-get-ai-architecture-approved-3dfd96813ad2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Fix It in Post]]></title>
+        <id>https://chuang.oncemarked.com/fix-it-in-post</id>
+        <link href="https://chuang.oncemarked.com/fix-it-in-post"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Model Collapse: The Slow-Motion Problem That Could Quietly Poison Every Future AI Model]]></title>
-        <id>https://pub.towardsai.net/model-collapse-the-slow-motion-problem-that-could-quietly-poison-every-future-ai-model-f4feec3efd2f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/model-collapse-the-slow-motion-problem-that-could-quietly-poison-every-future-ai-model-f4feec3efd2f?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[SHOW HN: I built the fastest PHP webserver in the world]]></title>
+        <id>https://news.ycombinator.com/item?id=49748067</id>
+        <link href="https://news.ycombinator.com/item?id=49748067"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Agents API Sandbox Boundaries: Ship Long-Running Agents Without Shipping Your Secrets]]></title>
-        <id>https://pub.towardsai.net/openai-agents-api-sandbox-boundaries-ship-long-running-agents-without-shipping-your-secrets-afd2dfad7151?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/openai-agents-api-sandbox-boundaries-ship-long-running-agents-without-shipping-your-secrets-afd2dfad7151?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The first new species of cat discovered in more than a century]]></title>
+        <id>https://www.scientificamerican.com/article/see-the-first-new-species-of-cat-discovered-in-more-than-a-century-its-adorable/</id>
+        <link href="https://www.scientificamerican.com/article/see-the-first-new-species-of-cat-discovered-in-more-than-a-century-its-adorable/"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eric S. Raymond – This is the case against AI Doom – pass it on]]></title>
+        <id>https://twitter.com/esrtweet/status/2100530353270100334</id>
+        <link href="https://twitter.com/esrtweet/status/2100530353270100334"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Day in the Life of an Enshittificator [video]]]></title>
+        <id>https://www.youtube.com/watch?v=T4Upf_B9RLQ</id>
+        <link href="https://www.youtube.com/watch?v=T4Upf_B9RLQ"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Jinx – a link shortener you host free on GitHub Pages]]></title>
+        <id>https://jinx.fyi</id>
+        <link href="https://jinx.fyi"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warez: The Infrastructure and Aesthetics of Piracy Culture]]></title>
+        <id>https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157</id>
+        <link href="https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pre-Greek: The lost language hidden within Ancient Greek]]></title>
+        <id>https://linguisticdiscovery.com/posts/pre-greek/</id>
+        <link href="https://linguisticdiscovery.com/posts/pre-greek/"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running OpenBAO on Kubernetes with a CloudNativePG PostgreSQL Back End]]></title>
+        <id>https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/</id>
+        <link href="https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built the fastest PHP webserver in the world]]></title>
+        <id>https://qbixserver.com</id>
+        <link href="https://qbixserver.com"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google announces new experimental "CC" AI agent for families]]></title>
+        <id>https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/</id>
+        <link href="https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bitterest Lesson]]></title>
+        <id>https://typesafe.ai/blog/bitterest-lesson</id>
+        <link href="https://typesafe.ai/blog/bitterest-lesson"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Free GitHub Action that scans PR diffs for malicious code, not quality]]></title>
+        <id>https://github.com/marketplace/actions/vigil-pr-scanner</id>
+        <link href="https://github.com/marketplace/actions/vigil-pr-scanner"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Age of Beyond [video]]]></title>
+        <id>https://www.youtube.com/watch?v=vp7xoPeWzEw</id>
+        <link href="https://www.youtube.com/watch?v=vp7xoPeWzEw"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An in-depth introduction to Pydantic: Making Your Python Type Hints Actually Do Something]]></title>
+        <id>https://pub.towardsai.net/an-in-depth-introduction-to-pydantic-making-your-python-type-hints-actually-do-something-68681328c538?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/an-in-depth-introduction-to-pydantic-making-your-python-type-hints-actually-do-something-68681328c538?source=rss----98111c9905da---4"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3.8 Flash vs GPT-6 Astra: I Compared Both. The Price Gap Surprised Me]]></title>
+        <id>https://pub.towardsai.net/gemini-3-8-flash-vs-gpt-6-astra-i-compared-both-the-price-gap-surprised-me-018b7ccca839?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/gemini-3-8-flash-vs-gpt-6-astra-i-compared-both-the-price-gap-surprised-me-018b7ccca839?source=rss----98111c9905da---4"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
@@ -204,9 +225,30 @@
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gemini 3.8 Flash vs GPT-6 Astra: I Compared Both. The Price Gap Surprised Me]]></title>
-        <id>https://pub.towardsai.net/gemini-3-8-flash-vs-gpt-6-astra-i-compared-both-the-price-gap-surprised-me-018b7ccca839?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/gemini-3-8-flash-vs-gpt-6-astra-i-compared-both-the-price-gap-surprised-me-018b7ccca839?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[OpenAI Agents API Sandbox Boundaries: Ship Long-Running Agents Without Shipping Your Secrets]]></title>
+        <id>https://pub.towardsai.net/openai-agents-api-sandbox-boundaries-ship-long-running-agents-without-shipping-your-secrets-afd2dfad7151?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openai-agents-api-sandbox-boundaries-ship-long-running-agents-without-shipping-your-secrets-afd2dfad7151?source=rss----98111c9905da---4"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model Collapse: The Slow-Motion Problem That Could Quietly Poison Every Future AI Model]]></title>
+        <id>https://pub.towardsai.net/model-collapse-the-slow-motion-problem-that-could-quietly-poison-every-future-ai-model-f4feec3efd2f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/model-collapse-the-slow-motion-problem-that-could-quietly-poison-every-future-ai-model-f4feec3efd2f?source=rss----98111c9905da---4"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Three Levers That Get AI Architecture Approved]]></title>
+        <id>https://pub.towardsai.net/the-three-levers-that-get-ai-architecture-approved-3dfd96813ad2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-three-levers-that-get-ai-architecture-approved-3dfd96813ad2?source=rss----98111c9905da---4"/>
+        <updated>2026-09-17T16:00:00.000Z</updated>
+        <published>2026-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Did AI Became So Good At Video Generation]]></title>
+        <id>https://pub.towardsai.net/how-did-ai-became-so-good-at-video-generation-728c2ebdd388?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-did-ai-became-so-good-at-video-generation-728c2ebdd388?source=rss----98111c9905da---4"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[Alliance Beats Isolation: Unifying Heterogeneous Allied Datasets Improves Classifier Performance]]></title>
         <id>https://arxiv.org/abs/2609.19748</id>
         <link href="https://arxiv.org/abs/2609.19748"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OceanMoE: Structured Conditional Sparse Computation for Long-Horizon Multivariate Ocean Forecasting]]></title>
-        <id>https://arxiv.org/abs/2609.19768</id>
-        <link href="https://arxiv.org/abs/2609.19768"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PhyRestore: Physics-Structured Latent-Factor Restoration]]></title>
-        <id>https://arxiv.org/abs/2609.19776</id>
-        <link href="https://arxiv.org/abs/2609.19776"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning-Based Reconstruction of Optical Properties in Bilayered Media from Single-distance Time-Resolved Reflectance Measurements]]></title>
-        <id>https://arxiv.org/abs/2609.19786</id>
-        <link href="https://arxiv.org/abs/2609.19786"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeliveryGym: An RL Environment for Long-Horizon Embodied Agent Planning with Adaptive Curriculum]]></title>
-        <id>https://arxiv.org/abs/2609.19801</id>
-        <link href="https://arxiv.org/abs/2609.19801"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expected Hypervolume Maximization for Multiobjective Optimization under Uncertainties]]></title>
-        <id>https://arxiv.org/abs/2609.19858</id>
-        <link href="https://arxiv.org/abs/2609.19858"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pretrained Medical Representations for the Practical Screening of Drug Repositioning Candidates]]></title>
-        <id>https://arxiv.org/abs/2609.19865</id>
-        <link href="https://arxiv.org/abs/2609.19865"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
