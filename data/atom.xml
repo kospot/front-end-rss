@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-19T00:02:24.847Z</updated>
+    <updated>2026-09-19T02:02:05.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -57,30 +57,51 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exclusive-Anthropic sets up biology lab as it ramps AI drug program]]></title>
-        <id>https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html</id>
-        <link href="https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html"/>
+        <title type="html"><![CDATA[Kev – A Jev-Compatible API on top of DiffusionGemma running on Workers AI]]></title>
+        <id>https://kev.workers-ai-mle.workers.dev/</id>
+        <link href="https://kev.workers-ai-mle.workers.dev/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI cloud provider Nscale files for IPO on $140.6M revenue, $1.02B net loss]]></title>
-        <id>https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html</id>
-        <link href="https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html"/>
+        <title type="html"><![CDATA[Gemini hacked three companies in first known breakout by Google's AI]]></title>
+        <id>https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/</id>
+        <link href="https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic sets up a bio research lab for physical experiments]]></title>
-        <id>https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/</id>
-        <link href="https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/"/>
+        <title type="html"><![CDATA[Nuclear tests at Mt. Mantap have reactivated intraplate faults]]></title>
+        <id>https://www.science.org/doi/10.1126/science.adx5917</id>
+        <link href="https://www.science.org/doi/10.1126/science.adx5917"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: TypeSeer – on-device autocomplete for every text field on macOS]]></title>
-        <id>https://typeseer.com/</id>
-        <link href="https://typeseer.com/"/>
+        <title type="html"><![CDATA[Muse gets all your unclaimed money back!]]></title>
+        <id>https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai</id>
+        <link href="https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Typesafe Java SDK (Unofficial)]]></title>
+        <id>https://github.com/QAInsights/typesafe-java-sdk</id>
+        <link href="https://github.com/QAInsights/typesafe-java-sdk"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked]]></title>
+        <id>https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html</id>
+        <link href="https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: An OSS Python dependency scanner for exploited, unmaintained packages]]></title>
+        <id>https://github.com/binuka200/package-doctor</id>
+        <link href="https://github.com/binuka200/package-doctor"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -92,16 +113,37 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use OpenCode for Free: The Complete Beginner’s Guide]]></title>
-        <id>https://pub.towardsai.net/how-to-use-opencode-for-free-the-complete-beginners-guide-c7ebe7f43de3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-use-opencode-for-free-the-complete-beginners-guide-c7ebe7f43de3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: TypeSeer – on-device autocomplete for every text field on macOS]]></title>
+        <id>https://typeseer.com/</id>
+        <link href="https://typeseer.com/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CLAUDE.md + Skills + Hooks: The Claude Code Power Stack]]></title>
-        <id>https://pub.towardsai.net/claude-md-skills-hooks-the-claude-code-power-stack-1e5eaa028f32?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-md-skills-hooks-the-claude-code-power-stack-1e5eaa028f32?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Anthropic sets up a bio research lab for physical experiments]]></title>
+        <id>https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/</id>
+        <link href="https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI cloud provider Nscale files for IPO on $140.6M revenue, $1.02B net loss]]></title>
+        <id>https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html</id>
+        <link href="https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclusive-Anthropic sets up biology lab as it ramps AI drug program]]></title>
+        <id>https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html</id>
+        <link href="https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PodDisruptionBudget: The Safety Net Nobody Sets Up Until It’s Too Late]]></title>
+        <id>https://pub.towardsai.net/poddisruptionbudget-the-safety-net-nobody-sets-up-until-its-too-late-7f2eda7b20a2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/poddisruptionbudget-the-safety-net-nobody-sets-up-until-its-too-late-7f2eda7b20a2?source=rss----98111c9905da---4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -113,9 +155,16 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PodDisruptionBudget: The Safety Net Nobody Sets Up Until It’s Too Late]]></title>
-        <id>https://pub.towardsai.net/poddisruptionbudget-the-safety-net-nobody-sets-up-until-its-too-late-7f2eda7b20a2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/poddisruptionbudget-the-safety-net-nobody-sets-up-until-its-too-late-7f2eda7b20a2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[CLAUDE.md + Skills + Hooks: The Claude Code Power Stack]]></title>
+        <id>https://pub.towardsai.net/claude-md-skills-hooks-the-claude-code-power-stack-1e5eaa028f32?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-md-skills-hooks-the-claude-code-power-stack-1e5eaa028f32?source=rss----98111c9905da---4"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenCode for Free: The Complete Beginner’s Guide]]></title>
+        <id>https://pub.towardsai.net/how-to-use-opencode-for-free-the-complete-beginners-guide-c7ebe7f43de3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-use-opencode-for-free-the-complete-beginners-guide-c7ebe7f43de3?source=rss----98111c9905da---4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -140,86 +189,44 @@ https://github.com/aboviq/supapower
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[May the Async Be With You: async/await Patterns That Will Save You Hours]]></title>
-        <id>https://dev.to/timevolt/may-the-async-be-with-you-asyncawait-patterns-that-will-save-you-hours-57mp</id>
-        <link href="https://dev.to/timevolt/may-the-async-be-with-you-asyncawait-patterns-that-will-save-you-hours-57mp"/>
+        <title type="html"><![CDATA[Ingest SERP Data on a Schedule with Cloudflare Workers (Cron + KV)]]></title>
+        <id>https://dev.to/dodou88/ingest-serp-data-on-a-schedule-with-cloudflare-workers-cron-kv-11j0</id>
+        <link href="https://dev.to/dodou88/ingest-serp-data-on-a-schedule-with-cloudflare-workers-cron-kv-11j0"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Apps Script answers webhooks with a 302: why Stripe retries forever, and how to fix it]]></title>
-        <id>https://dev.to/takuyaauto/google-apps-script-answers-webhooks-with-a-302-why-stripe-retries-forever-and-how-to-fix-it-481e</id>
-        <link href="https://dev.to/takuyaauto/google-apps-script-answers-webhooks-with-a-302-why-stripe-retries-forever-and-how-to-fix-it-481e"/>
+        <title type="html"><![CDATA[Price Range Slider with Min-Max Input using HTML, CSS and JavaScript]]></title>
+        <id>https://dev.to/karthick_07/price-range-slider-with-min-max-input-using-html-css-and-javascript-319l</id>
+        <link href="https://dev.to/karthick_07/price-range-slider-with-min-max-input-using-html-css-and-javascript-319l"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[spawn npx ENOENT và 9 lỗi MCP server hay gặp: cách sửa]]></title>
-        <id>https://dev.to/bean_bean/spawn-npx-enoent-va-9-loi-mcp-server-hay-gap-cach-sua-4na</id>
-        <link href="https://dev.to/bean_bean/spawn-npx-enoent-va-9-loi-mcp-server-hay-gap-cach-sua-4na"/>
+        <title type="html"><![CDATA[Understanding async/await pitfalls in JavaScript]]></title>
+        <id>https://dev.to/eme_gug_0821b41b948be6516/understanding-asyncawait-pitfalls-in-javascript-42m6</id>
+        <link href="https://dev.to/eme_gug_0821b41b948be6516/understanding-asyncawait-pitfalls-in-javascript-42m6"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chi phí AI coding assistant 2026: free tier, $10 hay local?]]></title>
-        <id>https://dev.to/bean_bean/chi-phi-ai-coding-assistant-2026-free-tier-10-hay-local-3fbi</id>
-        <link href="https://dev.to/bean_bean/chi-phi-ai-coding-assistant-2026-free-tier-10-hay-local-3fbi"/>
+        <title type="html"><![CDATA[Screen sharing without screen mirroring: a phone-controlled TV display built on WebSockets and a QR code]]></title>
+        <id>https://dev.to/vuthis/screen-sharing-without-screen-mirroring-a-phone-controlled-tv-display-built-on-websockets-and-a-qr-7hb</id>
+        <link href="https://dev.to/vuthis/screen-sharing-without-screen-mirroring-a-phone-controlled-tv-display-built-on-websockets-and-a-qr-7hb"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Streaming Chatbot with Node.js]]></title>
-        <id>https://dev.to/whoismarce/building-a-streaming-chatbot-with-nodejs-250g</id>
-        <link href="https://dev.to/whoismarce/building-a-streaming-chatbot-with-nodejs-250g"/>
+        <title type="html"><![CDATA[GIF to Video: Convert Any Animated GIF to MP4 or WebM Free]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/gif-to-video-convert-any-animated-gif-to-mp4-or-webm-free-4h80</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/gif-to-video-convert-any-animated-gif-to-mp4-or-webm-free-4h80"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite]]></title>
-        <id>https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m</id>
-        <link href="https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-Performance In-Memory Graph Processing in Node.js: Zero-Hallucination Neuro-Symbolic AI]]></title>
-        <id>https://dev.to/programmingcentral/high-performance-in-memory-graph-processing-in-nodejs-zero-hallucination-neuro-symbolic-ai-3ioa</id>
-        <link href="https://dev.to/programmingcentral/high-performance-in-memory-graph-processing-in-nodejs-zero-hallucination-neuro-symbolic-ai-3ioa"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I render screenshot mockups entirely in the browser (and why DOM-to-image was the wrong start)]]></title>
-        <id>https://dev.to/sudarshan_s_hosalli/how-i-render-screenshot-mockups-entirely-in-the-browser-and-whydom-to-image-was-the-wrong-start-458a</id>
-        <link href="https://dev.to/sudarshan_s_hosalli/how-i-render-screenshot-mockups-entirely-in-the-browser-and-whydom-to-image-was-the-wrong-start-458a"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handling Long Running Instagram Comment Scrapes Without Client Timeouts]]></title>
-        <id>https://dev.to/crawlerbros/handling-long-running-instagram-comment-scrapes-without-client-timeouts-2f1m</id>
-        <link href="https://dev.to/crawlerbros/handling-long-running-instagram-comment-scrapes-without-client-timeouts-2f1m"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taming Async Race Conditions and Unmounted State in React: What's New in react-hook-lab]]></title>
-        <id>https://dev.to/saurav_tb_pandey/taming-async-race-conditions-and-unmounted-state-in-react-whats-new-in-react-hook-lab-45e</id>
-        <link href="https://dev.to/saurav_tb_pandey/taming-async-race-conditions-and-unmounted-state-in-react-whats-new-in-react-hook-lab-45e"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I Built ToolStash: Free, Client-Side Developer Tools]]></title>
-        <id>https://dev.to/hammadrasool2000svg/why-i-built-toolstash-free-client-side-developer-tools-3pi7</id>
-        <link href="https://dev.to/hammadrasool2000svg/why-i-built-toolstash-free-client-side-developer-tools-3pi7"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 Best Sites to Buy Verified Alipay Accounts (Aged & PVA ...]]></title>
-        <id>https://dev.to/teddygilmoreh0oei/12-best-sites-to-buy-verified-alipay-accounts-aged-pva--5eck</id>
-        <link href="https://dev.to/teddygilmoreh0oei/12-best-sites-to-buy-verified-alipay-accounts-aged-pva--5eck"/>
+        <title type="html"><![CDATA[Scraping Meta's Ad Library Without a Browser: the 200 OK That Means Blocked]]></title>
+        <id>https://dev.to/nikita_iakovlev_415524c19/scraping-metas-ad-library-without-a-browser-the-200-ok-that-means-blocked-18og</id>
+        <link href="https://dev.to/nikita_iakovlev_415524c19/scraping-metas-ad-library-without-a-browser-the-200-ok-that-means-blocked-18og"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -231,9 +238,86 @@ https://github.com/aboviq/supapower
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scraping Meta's Ad Library Without a Browser: the 200 OK That Means Blocked]]></title>
-        <id>https://dev.to/nikita_iakovlev_415524c19/scraping-metas-ad-library-without-a-browser-the-200-ok-that-means-blocked-18og</id>
-        <link href="https://dev.to/nikita_iakovlev_415524c19/scraping-metas-ad-library-without-a-browser-the-200-ok-that-means-blocked-18og"/>
+        <title type="html"><![CDATA[12 Best Sites to Buy Verified Alipay Accounts (Aged & PVA ...]]></title>
+        <id>https://dev.to/teddygilmoreh0oei/12-best-sites-to-buy-verified-alipay-accounts-aged-pva--5eck</id>
+        <link href="https://dev.to/teddygilmoreh0oei/12-best-sites-to-buy-verified-alipay-accounts-aged-pva--5eck"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Built ToolStash: Free, Client-Side Developer Tools]]></title>
+        <id>https://dev.to/hammadrasool2000svg/why-i-built-toolstash-free-client-side-developer-tools-3pi7</id>
+        <link href="https://dev.to/hammadrasool2000svg/why-i-built-toolstash-free-client-side-developer-tools-3pi7"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taming Async Race Conditions and Unmounted State in React: What's New in react-hook-lab]]></title>
+        <id>https://dev.to/saurav_tb_pandey/taming-async-race-conditions-and-unmounted-state-in-react-whats-new-in-react-hook-lab-45e</id>
+        <link href="https://dev.to/saurav_tb_pandey/taming-async-race-conditions-and-unmounted-state-in-react-whats-new-in-react-hook-lab-45e"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handling Long Running Instagram Comment Scrapes Without Client Timeouts]]></title>
+        <id>https://dev.to/crawlerbros/handling-long-running-instagram-comment-scrapes-without-client-timeouts-2f1m</id>
+        <link href="https://dev.to/crawlerbros/handling-long-running-instagram-comment-scrapes-without-client-timeouts-2f1m"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I render screenshot mockups entirely in the browser (and why DOM-to-image was the wrong start)]]></title>
+        <id>https://dev.to/sudarshan_s_hosalli/how-i-render-screenshot-mockups-entirely-in-the-browser-and-whydom-to-image-was-the-wrong-start-458a</id>
+        <link href="https://dev.to/sudarshan_s_hosalli/how-i-render-screenshot-mockups-entirely-in-the-browser-and-whydom-to-image-was-the-wrong-start-458a"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Performance In-Memory Graph Processing in Node.js: Zero-Hallucination Neuro-Symbolic AI]]></title>
+        <id>https://dev.to/programmingcentral/high-performance-in-memory-graph-processing-in-nodejs-zero-hallucination-neuro-symbolic-ai-3ioa</id>
+        <link href="https://dev.to/programmingcentral/high-performance-in-memory-graph-processing-in-nodejs-zero-hallucination-neuro-symbolic-ai-3ioa"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite]]></title>
+        <id>https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m</id>
+        <link href="https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Streaming Chatbot with Node.js]]></title>
+        <id>https://dev.to/whoismarce/building-a-streaming-chatbot-with-nodejs-250g</id>
+        <link href="https://dev.to/whoismarce/building-a-streaming-chatbot-with-nodejs-250g"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chi phí AI coding assistant 2026: free tier, $10 hay local?]]></title>
+        <id>https://dev.to/bean_bean/chi-phi-ai-coding-assistant-2026-free-tier-10-hay-local-3fbi</id>
+        <link href="https://dev.to/bean_bean/chi-phi-ai-coding-assistant-2026-free-tier-10-hay-local-3fbi"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[spawn npx ENOENT và 9 lỗi MCP server hay gặp: cách sửa]]></title>
+        <id>https://dev.to/bean_bean/spawn-npx-enoent-va-9-loi-mcp-server-hay-gap-cach-sua-4na</id>
+        <link href="https://dev.to/bean_bean/spawn-npx-enoent-va-9-loi-mcp-server-hay-gap-cach-sua-4na"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Apps Script answers webhooks with a 302: why Stripe retries forever, and how to fix it]]></title>
+        <id>https://dev.to/takuyaauto/google-apps-script-answers-webhooks-with-a-302-why-stripe-retries-forever-and-how-to-fix-it-481e</id>
+        <link href="https://dev.to/takuyaauto/google-apps-script-answers-webhooks-with-a-302-why-stripe-retries-forever-and-how-to-fix-it-481e"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May the Async Be With You: async/await Patterns That Will Save You Hours]]></title>
+        <id>https://dev.to/timevolt/may-the-async-be-with-you-asyncawait-patterns-that-will-save-you-hours-57mp</id>
+        <link href="https://dev.to/timevolt/may-the-async-be-with-you-asyncawait-patterns-that-will-save-you-hours-57mp"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -283,90 +367,6 @@ https://github.com/aboviq/supapower
         <title type="html"><![CDATA[Napster Is Back, and It Wants to Digitally Clone Teachers]]></title>
         <id>https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/</id>
         <link href="https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI ‘Slowdown’ Is an Antitrust Mess]]></title>
-        <id>https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/</id>
-        <link href="https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mophie’s Extendable MagSafe 3-in-1 Charging Stand Is 50 Percent Off]]></title>
-        <id>https://www.wired.com/story/mophie-magsafe-3-in-1-wireless-charging-stand-deal/</id>
-        <link href="https://www.wired.com/story/mophie-magsafe-3-in-1-wireless-charging-stand-deal/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders]]></title>
-        <id>https://www.wired.com/story/best-gifts-for-moms-2026/</id>
-        <link href="https://www.wired.com/story/best-gifts-for-moms-2026/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crusoe raises $3.9B to build massive data centers and small modular “AI factories”]]></title>
-        <id>https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/</id>
-        <link href="https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple will let EU apps use less-alarming tracking-consent screens]]></title>
-        <id>https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/</id>
-        <link href="https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI]]></title>
-        <id>https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/</id>
-        <link href="https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo restarts San Antonio service 5 months after flooding troubles]]></title>
-        <id>https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/</id>
-        <link href="https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s Muse hits Mac, letting the AI take actions on your computer]]></title>
-        <id>https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/</id>
-        <link href="https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI, Coast Guard boarded hacked oil tankers heading toward US coast]]></title>
-        <id>https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/</id>
-        <link href="https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Putin envoy and far-right AfD prepare talks to get Russian gas back for Germany]]></title>
-        <id>https://www.reuters.com/world/putin-envoy-far-right-afd-prepare-talks-get-russian-gas-back-germany-sources-say-2026-09-18/</id>
-        <link href="https://www.reuters.com/world/putin-envoy-far-right-afd-prepare-talks-get-russian-gas-back-germany-sources-say-2026-09-18/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Bastionskill – scan an AI agent skill for malicious code]]></title>
-        <id>https://news.ycombinator.com/item?id=49753727</id>
-        <link href="https://news.ycombinator.com/item?id=49753727"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Return of the Utah Teapot – Siggraph 2026 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=k-23LgrFcvs</id>
-        <link href="https://www.youtube.com/watch?v=k-23LgrFcvs"/>
         <updated>2026-09-17T16:00:00.000Z</updated>
         <published>2026-09-17T16:00:00.000Z</published>
     </entry>
