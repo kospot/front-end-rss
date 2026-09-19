@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-19T02:02:05.042Z</updated>
+    <updated>2026-09-19T04:02:17.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,16 +29,9 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?]]></title>
-        <id>https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/</id>
-        <link href="https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s new ‘CC’ is an AI agent that helps families run their households]]></title>
-        <id>https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/</id>
-        <link href="https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/"/>
+        <title type="html"><![CDATA[World model companies are keeping a lot of secrets]]></title>
+        <id>https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/</id>
+        <link href="https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -50,79 +43,72 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World model companies are keeping a lot of secrets]]></title>
-        <id>https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/</id>
-        <link href="https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"/>
+        <title type="html"><![CDATA[Google’s new ‘CC’ is an AI agent that helps families run their households]]></title>
+        <id>https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/</id>
+        <link href="https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kev – A Jev-Compatible API on top of DiffusionGemma running on Workers AI]]></title>
-        <id>https://kev.workers-ai-mle.workers.dev/</id>
-        <link href="https://kev.workers-ai-mle.workers.dev/"/>
+        <title type="html"><![CDATA[Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?]]></title>
+        <id>https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/</id>
+        <link href="https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gemini hacked three companies in first known breakout by Google's AI]]></title>
-        <id>https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/</id>
-        <link href="https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"/>
+        <title type="html"><![CDATA[Dashes suggest which model you're copy-pasting from]]></title>
+        <id>https://will-keleher.com/posts/your-dashes-suggest-which-model-youre-copy-pasting-from/</id>
+        <link href="https://will-keleher.com/posts/your-dashes-suggest-which-model-youre-copy-pasting-from/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nuclear tests at Mt. Mantap have reactivated intraplate faults]]></title>
-        <id>https://www.science.org/doi/10.1126/science.adx5917</id>
-        <link href="https://www.science.org/doi/10.1126/science.adx5917"/>
+        <title type="html"><![CDATA[Reality Is the Final Verifier: On Two Key Gaps in Agentic Software Engineering]]></title>
+        <id>https://arxiv.org/abs/2609.12039</id>
+        <link href="https://arxiv.org/abs/2609.12039"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Muse gets all your unclaimed money back!]]></title>
-        <id>https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai</id>
-        <link href="https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai"/>
+        <title type="html"><![CDATA[Left Brain, Right Brain: Facts and Fantasies]]></title>
+        <id>https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/</id>
+        <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Typesafe Java SDK (Unofficial)]]></title>
-        <id>https://github.com/QAInsights/typesafe-java-sdk</id>
-        <link href="https://github.com/QAInsights/typesafe-java-sdk"/>
+        <title type="html"><![CDATA[Why You Can't Overcook Mushrooms and the Science Behind Them [video]]]></title>
+        <id>https://www.youtube.com/watch?v=XLPLCmwBLBY</id>
+        <link href="https://www.youtube.com/watch?v=XLPLCmwBLBY"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked]]></title>
-        <id>https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html</id>
-        <link href="https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html"/>
+        <title type="html"><![CDATA[ASI risk debate with Nate Soares [video]]]></title>
+        <id>https://www.youtube.com/watch?v=OhOmLqR5nN4</id>
+        <link href="https://www.youtube.com/watch?v=OhOmLqR5nN4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: An OSS Python dependency scanner for exploited, unmaintained packages]]></title>
-        <id>https://github.com/binuka200/package-doctor</id>
-        <link href="https://github.com/binuka200/package-doctor"/>
+        <title type="html"><![CDATA[Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools]]></title>
+        <id>https://github.com/JOxKxER/garza-global-graviton</id>
+        <link href="https://github.com/JOxKxER/garza-global-graviton"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stack Overflow relaunched Developer Story (who certifies that a human wrote it?)]]></title>
-        <id>https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/</id>
-        <link href="https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/"/>
+        <title type="html"><![CDATA[Is Dan Ariely Telling the Truth?]]></title>
+        <id>https://chronicleofhighereducation.substack.com/p/is-dan-ariely-telling-the-truth</id>
+        <link href="https://chronicleofhighereducation.substack.com/p/is-dan-ariely-telling-the-truth"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: TypeSeer – on-device autocomplete for every text field on macOS]]></title>
-        <id>https://typeseer.com/</id>
-        <link href="https://typeseer.com/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic sets up a bio research lab for physical experiments]]></title>
-        <id>https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/</id>
-        <link href="https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/"/>
+        <title type="html"><![CDATA[Exclusive-Anthropic sets up biology lab as it ramps AI drug program]]></title>
+        <id>https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html</id>
+        <link href="https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -134,9 +120,72 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exclusive-Anthropic sets up biology lab as it ramps AI drug program]]></title>
-        <id>https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html</id>
-        <link href="https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html"/>
+        <title type="html"><![CDATA[Anthropic sets up a bio research lab for physical experiments]]></title>
+        <id>https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/</id>
+        <link href="https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: TypeSeer – on-device autocomplete for every text field on macOS]]></title>
+        <id>https://typeseer.com/</id>
+        <link href="https://typeseer.com/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stack Overflow relaunched Developer Story (who certifies that a human wrote it?)]]></title>
+        <id>https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/</id>
+        <link href="https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: An OSS Python dependency scanner for exploited, unmaintained packages]]></title>
+        <id>https://github.com/binuka200/package-doctor</id>
+        <link href="https://github.com/binuka200/package-doctor"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked]]></title>
+        <id>https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html</id>
+        <link href="https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Typesafe Java SDK (Unofficial)]]></title>
+        <id>https://github.com/QAInsights/typesafe-java-sdk</id>
+        <link href="https://github.com/QAInsights/typesafe-java-sdk"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muse gets all your unclaimed money back!]]></title>
+        <id>https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai</id>
+        <link href="https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuclear tests at Mt. Mantap have reactivated intraplate faults]]></title>
+        <id>https://www.science.org/doi/10.1126/science.adx5917</id>
+        <link href="https://www.science.org/doi/10.1126/science.adx5917"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini hacked three companies in first known breakout by Google's AI]]></title>
+        <id>https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/</id>
+        <link href="https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kev – A Jev-Compatible API on top of DiffusionGemma running on Workers AI]]></title>
+        <id>https://kev.workers-ai-mle.workers.dev/</id>
+        <link href="https://kev.workers-ai-mle.workers.dev/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -189,128 +238,9 @@ https://github.com/aboviq/supapower
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ingest SERP Data on a Schedule with Cloudflare Workers (Cron + KV)]]></title>
-        <id>https://dev.to/dodou88/ingest-serp-data-on-a-schedule-with-cloudflare-workers-cron-kv-11j0</id>
-        <link href="https://dev.to/dodou88/ingest-serp-data-on-a-schedule-with-cloudflare-workers-cron-kv-11j0"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Price Range Slider with Min-Max Input using HTML, CSS and JavaScript]]></title>
-        <id>https://dev.to/karthick_07/price-range-slider-with-min-max-input-using-html-css-and-javascript-319l</id>
-        <link href="https://dev.to/karthick_07/price-range-slider-with-min-max-input-using-html-css-and-javascript-319l"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding async/await pitfalls in JavaScript]]></title>
-        <id>https://dev.to/eme_gug_0821b41b948be6516/understanding-asyncawait-pitfalls-in-javascript-42m6</id>
-        <link href="https://dev.to/eme_gug_0821b41b948be6516/understanding-asyncawait-pitfalls-in-javascript-42m6"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Screen sharing without screen mirroring: a phone-controlled TV display built on WebSockets and a QR code]]></title>
-        <id>https://dev.to/vuthis/screen-sharing-without-screen-mirroring-a-phone-controlled-tv-display-built-on-websockets-and-a-qr-7hb</id>
-        <link href="https://dev.to/vuthis/screen-sharing-without-screen-mirroring-a-phone-controlled-tv-display-built-on-websockets-and-a-qr-7hb"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIF to Video: Convert Any Animated GIF to MP4 or WebM Free]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/gif-to-video-convert-any-animated-gif-to-mp4-or-webm-free-4h80</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/gif-to-video-convert-any-animated-gif-to-mp4-or-webm-free-4h80"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scraping Meta's Ad Library Without a Browser: the 200 OK That Means Blocked]]></title>
-        <id>https://dev.to/nikita_iakovlev_415524c19/scraping-metas-ad-library-without-a-browser-the-200-ok-that-means-blocked-18og</id>
-        <link href="https://dev.to/nikita_iakovlev_415524c19/scraping-metas-ad-library-without-a-browser-the-200-ok-that-means-blocked-18og"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🖱️ How I Fixed Canvas Click Coordinates in Limn Engine]]></title>
-        <id>https://dev.to/kehinde_owolabi_e2e54567a/how-i-fixed-canvas-click-coordinates-in-limn-engine-2ppd</id>
-        <link href="https://dev.to/kehinde_owolabi_e2e54567a/how-i-fixed-canvas-click-coordinates-in-limn-engine-2ppd"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 Best Sites to Buy Verified Alipay Accounts (Aged & PVA ...]]></title>
-        <id>https://dev.to/teddygilmoreh0oei/12-best-sites-to-buy-verified-alipay-accounts-aged-pva--5eck</id>
-        <link href="https://dev.to/teddygilmoreh0oei/12-best-sites-to-buy-verified-alipay-accounts-aged-pva--5eck"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I Built ToolStash: Free, Client-Side Developer Tools]]></title>
-        <id>https://dev.to/hammadrasool2000svg/why-i-built-toolstash-free-client-side-developer-tools-3pi7</id>
-        <link href="https://dev.to/hammadrasool2000svg/why-i-built-toolstash-free-client-side-developer-tools-3pi7"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taming Async Race Conditions and Unmounted State in React: What's New in react-hook-lab]]></title>
-        <id>https://dev.to/saurav_tb_pandey/taming-async-race-conditions-and-unmounted-state-in-react-whats-new-in-react-hook-lab-45e</id>
-        <link href="https://dev.to/saurav_tb_pandey/taming-async-race-conditions-and-unmounted-state-in-react-whats-new-in-react-hook-lab-45e"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handling Long Running Instagram Comment Scrapes Without Client Timeouts]]></title>
-        <id>https://dev.to/crawlerbros/handling-long-running-instagram-comment-scrapes-without-client-timeouts-2f1m</id>
-        <link href="https://dev.to/crawlerbros/handling-long-running-instagram-comment-scrapes-without-client-timeouts-2f1m"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I render screenshot mockups entirely in the browser (and why DOM-to-image was the wrong start)]]></title>
-        <id>https://dev.to/sudarshan_s_hosalli/how-i-render-screenshot-mockups-entirely-in-the-browser-and-whydom-to-image-was-the-wrong-start-458a</id>
-        <link href="https://dev.to/sudarshan_s_hosalli/how-i-render-screenshot-mockups-entirely-in-the-browser-and-whydom-to-image-was-the-wrong-start-458a"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-Performance In-Memory Graph Processing in Node.js: Zero-Hallucination Neuro-Symbolic AI]]></title>
-        <id>https://dev.to/programmingcentral/high-performance-in-memory-graph-processing-in-nodejs-zero-hallucination-neuro-symbolic-ai-3ioa</id>
-        <link href="https://dev.to/programmingcentral/high-performance-in-memory-graph-processing-in-nodejs-zero-hallucination-neuro-symbolic-ai-3ioa"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite]]></title>
-        <id>https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m</id>
-        <link href="https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Streaming Chatbot with Node.js]]></title>
-        <id>https://dev.to/whoismarce/building-a-streaming-chatbot-with-nodejs-250g</id>
-        <link href="https://dev.to/whoismarce/building-a-streaming-chatbot-with-nodejs-250g"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chi phí AI coding assistant 2026: free tier, $10 hay local?]]></title>
-        <id>https://dev.to/bean_bean/chi-phi-ai-coding-assistant-2026-free-tier-10-hay-local-3fbi</id>
-        <link href="https://dev.to/bean_bean/chi-phi-ai-coding-assistant-2026-free-tier-10-hay-local-3fbi"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[spawn npx ENOENT và 9 lỗi MCP server hay gặp: cách sửa]]></title>
-        <id>https://dev.to/bean_bean/spawn-npx-enoent-va-9-loi-mcp-server-hay-gap-cach-sua-4na</id>
-        <link href="https://dev.to/bean_bean/spawn-npx-enoent-va-9-loi-mcp-server-hay-gap-cach-sua-4na"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Apps Script answers webhooks with a 302: why Stripe retries forever, and how to fix it]]></title>
-        <id>https://dev.to/takuyaauto/google-apps-script-answers-webhooks-with-a-302-why-stripe-retries-forever-and-how-to-fix-it-481e</id>
-        <link href="https://dev.to/takuyaauto/google-apps-script-answers-webhooks-with-a-302-why-stripe-retries-forever-and-how-to-fix-it-481e"/>
+        <title type="html"><![CDATA[Why console.log Shows 'Promise {<pending>}' Instead of Your Actual Value]]></title>
+        <id>https://dev.to/systemcraftdev/why-consolelog-shows-promise-instead-of-your-actual-value-1c60</id>
+        <link href="https://dev.to/systemcraftdev/why-consolelog-shows-promise-instead-of-your-actual-value-1c60"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -322,52 +252,122 @@ https://github.com/aboviq/supapower
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount]]></title>
-        <id>https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount</id>
-        <link href="https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Google Apps Script answers webhooks with a 302: why Stripe retries forever, and how to fix it]]></title>
+        <id>https://dev.to/takuyaauto/google-apps-script-answers-webhooks-with-a-302-why-stripe-retries-forever-and-how-to-fix-it-481e</id>
+        <link href="https://dev.to/takuyaauto/google-apps-script-answers-webhooks-with-a-302-why-stripe-retries-forever-and-how-to-fix-it-481e"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flash floods can strike without warning — this new technology could change that]]></title>
-        <id>https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning</id>
-        <link href="https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
+        <title type="html"><![CDATA[spawn npx ENOENT và 9 lỗi MCP server hay gặp: cách sửa]]></title>
+        <id>https://dev.to/bean_bean/spawn-npx-enoent-va-9-loi-mcp-server-hay-gap-cach-sua-4na</id>
+        <link href="https://dev.to/bean_bean/spawn-npx-enoent-va-9-loi-mcp-server-hay-gap-cach-sua-4na"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xbox’s clever disc-to-digital feature was 15 years in the making]]></title>
-        <id>https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad</id>
-        <link href="https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Chi phí AI coding assistant 2026: free tier, $10 hay local?]]></title>
+        <id>https://dev.to/bean_bean/chi-phi-ai-coding-assistant-2026-free-tier-10-hay-local-3fbi</id>
+        <link href="https://dev.to/bean_bean/chi-phi-ai-coding-assistant-2026-free-tier-10-hay-local-3fbi"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket]]></title>
-        <id>https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge</id>
-        <link href="https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Building a Streaming Chatbot with Node.js]]></title>
+        <id>https://dev.to/whoismarce/building-a-streaming-chatbot-with-nodejs-250g</id>
+        <link href="https://dev.to/whoismarce/building-a-streaming-chatbot-with-nodejs-250g"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adopt This Data Center Plushie and Hear Its Piercing Scream]]></title>
-        <id>https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/</id>
-        <link href="https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite]]></title>
+        <id>https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m</id>
+        <link href="https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s Copyright System Is Being Weaponized Against Albanian Protesters]]></title>
-        <id>https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/</id>
-        <link href="https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
+        <title type="html"><![CDATA[High-Performance In-Memory Graph Processing in Node.js: Zero-Hallucination Neuro-Symbolic AI]]></title>
+        <id>https://dev.to/programmingcentral/high-performance-in-memory-graph-processing-in-nodejs-zero-hallucination-neuro-symbolic-ai-3ioa</id>
+        <link href="https://dev.to/programmingcentral/high-performance-in-memory-graph-processing-in-nodejs-zero-hallucination-neuro-symbolic-ai-3ioa"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Napster Is Back, and It Wants to Digitally Clone Teachers]]></title>
-        <id>https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/</id>
-        <link href="https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/"/>
-        <updated>2026-09-17T16:00:00.000Z</updated>
-        <published>2026-09-17T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How I render screenshot mockups entirely in the browser (and why DOM-to-image was the wrong start)]]></title>
+        <id>https://dev.to/sudarshan_s_hosalli/how-i-render-screenshot-mockups-entirely-in-the-browser-and-whydom-to-image-was-the-wrong-start-458a</id>
+        <link href="https://dev.to/sudarshan_s_hosalli/how-i-render-screenshot-mockups-entirely-in-the-browser-and-whydom-to-image-was-the-wrong-start-458a"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handling Long Running Instagram Comment Scrapes Without Client Timeouts]]></title>
+        <id>https://dev.to/crawlerbros/handling-long-running-instagram-comment-scrapes-without-client-timeouts-2f1m</id>
+        <link href="https://dev.to/crawlerbros/handling-long-running-instagram-comment-scrapes-without-client-timeouts-2f1m"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taming Async Race Conditions and Unmounted State in React: What's New in react-hook-lab]]></title>
+        <id>https://dev.to/saurav_tb_pandey/taming-async-race-conditions-and-unmounted-state-in-react-whats-new-in-react-hook-lab-45e</id>
+        <link href="https://dev.to/saurav_tb_pandey/taming-async-race-conditions-and-unmounted-state-in-react-whats-new-in-react-hook-lab-45e"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Built ToolStash: Free, Client-Side Developer Tools]]></title>
+        <id>https://dev.to/hammadrasool2000svg/why-i-built-toolstash-free-client-side-developer-tools-3pi7</id>
+        <link href="https://dev.to/hammadrasool2000svg/why-i-built-toolstash-free-client-side-developer-tools-3pi7"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Best Sites to Buy Verified Alipay Accounts (Aged & PVA ...]]></title>
+        <id>https://dev.to/teddygilmoreh0oei/12-best-sites-to-buy-verified-alipay-accounts-aged-pva--5eck</id>
+        <link href="https://dev.to/teddygilmoreh0oei/12-best-sites-to-buy-verified-alipay-accounts-aged-pva--5eck"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🖱️ How I Fixed Canvas Click Coordinates in Limn Engine]]></title>
+        <id>https://dev.to/kehinde_owolabi_e2e54567a/how-i-fixed-canvas-click-coordinates-in-limn-engine-2ppd</id>
+        <link href="https://dev.to/kehinde_owolabi_e2e54567a/how-i-fixed-canvas-click-coordinates-in-limn-engine-2ppd"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scraping Meta's Ad Library Without a Browser: the 200 OK That Means Blocked]]></title>
+        <id>https://dev.to/nikita_iakovlev_415524c19/scraping-metas-ad-library-without-a-browser-the-200-ok-that-means-blocked-18og</id>
+        <link href="https://dev.to/nikita_iakovlev_415524c19/scraping-metas-ad-library-without-a-browser-the-200-ok-that-means-blocked-18og"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIF to Video: Convert Any Animated GIF to MP4 or WebM Free]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/gif-to-video-convert-any-animated-gif-to-mp4-or-webm-free-4h80</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/gif-to-video-convert-any-animated-gif-to-mp4-or-webm-free-4h80"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Screen sharing without screen mirroring: a phone-controlled TV display built on WebSockets and a QR code]]></title>
+        <id>https://dev.to/vuthis/screen-sharing-without-screen-mirroring-a-phone-controlled-tv-display-built-on-websockets-and-a-qr-7hb</id>
+        <link href="https://dev.to/vuthis/screen-sharing-without-screen-mirroring-a-phone-controlled-tv-display-built-on-websockets-and-a-qr-7hb"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding async/await pitfalls in JavaScript]]></title>
+        <id>https://dev.to/eme_gug_0821b41b948be6516/understanding-asyncawait-pitfalls-in-javascript-42m6</id>
+        <link href="https://dev.to/eme_gug_0821b41b948be6516/understanding-asyncawait-pitfalls-in-javascript-42m6"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Price Range Slider with Min-Max Input using HTML, CSS and JavaScript]]></title>
+        <id>https://dev.to/karthick_07/price-range-slider-with-min-max-input-using-html-css-and-javascript-319l</id>
+        <link href="https://dev.to/karthick_07/price-range-slider-with-min-max-input-using-html-css-and-javascript-319l"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
     </entry>
 </feed>
