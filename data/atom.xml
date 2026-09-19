@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-19T10:02:30.798Z</updated>
+    <updated>2026-09-19T13:02:09.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,16 +22,23 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6 Best VPN Services (2026), Tested and Reviewed]]></title>
-        <id>https://www.wired.com/gallery/best-vpn/</id>
-        <link href="https://www.wired.com/gallery/best-vpn/"/>
+        <title type="html"><![CDATA[Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening]]></title>
+        <id>https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/</id>
+        <link href="https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap]]></title>
-        <id>https://www.wired.com/review/apple-watch-ultra-4/</id>
-        <link href="https://www.wired.com/review/apple-watch-ultra-4/"/>
+        <title type="html"><![CDATA[Tired of Cluttered Productivity Apps? This One’s Just a Text Document]]></title>
+        <id>https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/</id>
+        <link href="https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score]]></title>
+        <id>https://www.wired.com/review/samsung-galaxy-watch9/</id>
+        <link href="https://www.wired.com/review/samsung-galaxy-watch9/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -43,23 +50,16 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World model companies are keeping a lot of secrets]]></title>
-        <id>https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/</id>
-        <link href="https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"/>
+        <title type="html"><![CDATA[Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap]]></title>
+        <id>https://www.wired.com/review/apple-watch-ultra-4/</id>
+        <link href="https://www.wired.com/review/apple-watch-ultra-4/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In India, the new iPhone can arrive faster than a pizza]]></title>
-        <id>https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/</id>
-        <link href="https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s new ‘CC’ is an AI agent that helps families run their households]]></title>
-        <id>https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/</id>
-        <link href="https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/"/>
+        <title type="html"><![CDATA[6 Best VPN Services (2026), Tested and Reviewed]]></title>
+        <id>https://www.wired.com/gallery/best-vpn/</id>
+        <link href="https://www.wired.com/gallery/best-vpn/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -71,170 +71,58 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-6 Astra Solves a WWI German Radio Cipher]]></title>
-        <id>https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</id>
-        <link href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"/>
+        <title type="html"><![CDATA[Google’s new ‘CC’ is an AI agent that helps families run their households]]></title>
+        <id>https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/</id>
+        <link href="https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI hallucination of Chinese nuclear components almost led to US Military attack]]></title>
-        <id>https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/</id>
-        <link href="https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"/>
+        <title type="html"><![CDATA[In India, the new iPhone can arrive faster than a pizza]]></title>
+        <id>https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/</id>
+        <link href="https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If math is more than proof, we need to better celebrate the rest of it]]></title>
-        <id>https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</id>
-        <link href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/"/>
+        <title type="html"><![CDATA[World model companies are keeping a lot of secrets]]></title>
+        <id>https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/</id>
+        <link href="https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7]]></title>
-        <id>https://browser.geekbench.com/v7/cpu/389219</id>
-        <link href="https://browser.geekbench.com/v7/cpu/389219"/>
+        <title type="html"><![CDATA[Show HN: Htmldoc – A pastebin that renders the HTML your coding agent writes]]></title>
+        <id>https://htmldoc.space</id>
+        <link href="https://htmldoc.space"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Members of right‑leaning parties prefer leaders with dark triad personality]]></title>
-        <id>https://theconversation.com/members-of-right-leaning-parties-prefer-leaders-with-dark-triad-personality-traits-292011</id>
-        <link href="https://theconversation.com/members-of-right-leaning-parties-prefer-leaders-with-dark-triad-personality-traits-292011"/>
+        <title type="html"><![CDATA[What failed when I trained an object detector on synthetic images only]]></title>
+        <id>https://datasint.tech/rendered-training-data.html</id>
+        <link href="https://datasint.tech/rendered-training-data.html"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google's Gemini AI hacked three companies in security test]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c607l0k72rlvo</id>
-        <link href="https://www.bbc.co.uk/news/articles/c607l0k72rlvo"/>
+        <title type="html"><![CDATA[How to add comments to a static site using GitHub Pull Requests(2023)]]></title>
+        <id>https://nateeagle.com/posts/how-to-add-comments-to-a-static-site-using-github-pull-requests/</id>
+        <link href="https://nateeagle.com/posts/how-to-add-comments-to-a-static-site-using-github-pull-requests/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kev – A Jev-Compatible API on top of DiffusionGemma running on Workers AI]]></title>
-        <id>https://kev.workers-ai-mle.workers.dev/</id>
-        <link href="https://kev.workers-ai-mle.workers.dev/"/>
+        <title type="html"><![CDATA[When "Review" Becomes Permission: A Prompt Injection Lab]]></title>
+        <id>https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx</id>
+        <link href="https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gemini hacked three companies in first known breakout by Google's AI]]></title>
-        <id>https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/</id>
-        <link href="https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuclear tests at Mt. Mantap have reactivated intraplate faults]]></title>
-        <id>https://www.science.org/doi/10.1126/science.adx5917</id>
-        <link href="https://www.science.org/doi/10.1126/science.adx5917"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muse gets all your unclaimed money back!]]></title>
-        <id>https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai</id>
-        <link href="https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Typesafe Java SDK (Unofficial)]]></title>
-        <id>https://github.com/QAInsights/typesafe-java-sdk</id>
-        <link href="https://github.com/QAInsights/typesafe-java-sdk"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked]]></title>
-        <id>https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html</id>
-        <link href="https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: An OSS Python dependency scanner for exploited, unmaintained packages]]></title>
-        <id>https://github.com/binuka200/package-doctor</id>
-        <link href="https://github.com/binuka200/package-doctor"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stack Overflow relaunched Developer Story (who certifies that a human wrote it?)]]></title>
-        <id>https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/</id>
-        <link href="https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: TypeSeer – on-device autocomplete for every text field on macOS]]></title>
-        <id>https://typeseer.com/</id>
-        <link href="https://typeseer.com/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic sets up a bio research lab for physical experiments]]></title>
-        <id>https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/</id>
-        <link href="https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI cloud provider Nscale files for IPO on $140.6M revenue, $1.02B net loss]]></title>
-        <id>https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html</id>
-        <link href="https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive-Anthropic sets up biology lab as it ramps AI drug program]]></title>
-        <id>https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html</id>
-        <link href="https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Dan Ariely Telling the Truth?]]></title>
-        <id>https://chronicleofhighereducation.substack.com/p/is-dan-ariely-telling-the-truth</id>
-        <link href="https://chronicleofhighereducation.substack.com/p/is-dan-ariely-telling-the-truth"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools]]></title>
-        <id>https://github.com/JOxKxER/garza-global-graviton</id>
-        <link href="https://github.com/JOxKxER/garza-global-graviton"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASI risk debate with Nate Soares [video]]]></title>
-        <id>https://www.youtube.com/watch?v=OhOmLqR5nN4</id>
-        <link href="https://www.youtube.com/watch?v=OhOmLqR5nN4"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Can't Overcook Mushrooms and the Science Behind Them [video]]]></title>
-        <id>https://www.youtube.com/watch?v=XLPLCmwBLBY</id>
-        <link href="https://www.youtube.com/watch?v=XLPLCmwBLBY"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Left Brain, Right Brain: Facts and Fantasies]]></title>
-        <id>https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/</id>
-        <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reality Is the Final Verifier: On Two Key Gaps in Agentic Software Engineering]]></title>
-        <id>https://arxiv.org/abs/2609.12039</id>
-        <link href="https://arxiv.org/abs/2609.12039"/>
+        <title type="html"><![CDATA[AI companies sued for "colluding" to slow down]]></title>
+        <id>https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit</id>
+        <link href="https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -246,65 +134,184 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube Sends 1.3 MB of HTML to Your AI Agent. Twenty-One Words Survive.]]></title>
-        <id>https://pub.towardsai.net/youtube-sends-1-3-mb-of-html-to-your-ai-agent-twenty-one-words-survive-ce45e8a42eea?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/youtube-sends-1-3-mb-of-html-to-your-ai-agent-twenty-one-words-survive-ce45e8a42eea?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Reality Is the Final Verifier: On Two Key Gaps in Agentic Software Engineering]]></title>
+        <id>https://arxiv.org/abs/2609.12039</id>
+        <link href="https://arxiv.org/abs/2609.12039"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI's Codex Ships Two Subagent Toolsets. The Agents API Matches Neither.]]></title>
-        <id>https://pub.towardsai.net/openais-codex-ships-two-subagent-toolsets-the-agents-api-matches-neither-480822de5617?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/openais-codex-ships-two-subagent-toolsets-the-agents-api-matches-neither-480822de5617?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Left Brain, Right Brain: Facts and Fantasies]]></title>
+        <id>https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/</id>
+        <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RoPE : Rotary Position Embedding]]></title>
-        <id>https://pub.towardsai.net/rope-rotary-position-embedding-1971034b4bf3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/rope-rotary-position-embedding-1971034b4bf3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why You Can't Overcook Mushrooms and the Science Behind Them [video]]]></title>
+        <id>https://www.youtube.com/watch?v=XLPLCmwBLBY</id>
+        <link href="https://www.youtube.com/watch?v=XLPLCmwBLBY"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pandas on Steroids: Cleaning Data 10x Faster with Fabric Data Wrangler]]></title>
-        <id>https://pub.towardsai.net/pandas-on-steroids-cleaning-data-10x-faster-with-fabric-data-wrangler-3421093e1cbb?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/pandas-on-steroids-cleaning-data-10x-faster-with-fabric-data-wrangler-3421093e1cbb?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[ASI risk debate with Nate Soares [video]]]></title>
+        <id>https://www.youtube.com/watch?v=OhOmLqR5nN4</id>
+        <link href="https://www.youtube.com/watch?v=OhOmLqR5nN4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Who Gets the Brake?]]></title>
-        <id>https://pub.towardsai.net/who-gets-the-brake-295d2ae25e8f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/who-gets-the-brake-295d2ae25e8f?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools]]></title>
+        <id>https://github.com/JOxKxER/garza-global-graviton</id>
+        <link href="https://github.com/JOxKxER/garza-global-graviton"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tried 100+ Claude Code Skills. These 7 Are The Best.]]></title>
-        <id>https://pub.towardsai.net/i-tried-100-claude-code-skills-these-7-are-the-best-f6bfb13d04f5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-tried-100-claude-code-skills-these-7-are-the-best-f6bfb13d04f5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Is Dan Ariely Telling the Truth?]]></title>
+        <id>https://chronicleofhighereducation.substack.com/p/is-dan-ariely-telling-the-truth</id>
+        <link href="https://chronicleofhighereducation.substack.com/p/is-dan-ariely-telling-the-truth"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use OpenCode for Free: The Complete Beginner’s Guide]]></title>
-        <id>https://pub.towardsai.net/how-to-use-opencode-for-free-the-complete-beginners-guide-c7ebe7f43de3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-use-opencode-for-free-the-complete-beginners-guide-c7ebe7f43de3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Exclusive-Anthropic sets up biology lab as it ramps AI drug program]]></title>
+        <id>https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html</id>
+        <link href="https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CLAUDE.md + Skills + Hooks: The Claude Code Power Stack]]></title>
-        <id>https://pub.towardsai.net/claude-md-skills-hooks-the-claude-code-power-stack-1e5eaa028f32?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-md-skills-hooks-the-claude-code-power-stack-1e5eaa028f32?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[AI cloud provider Nscale files for IPO on $140.6M revenue, $1.02B net loss]]></title>
+        <id>https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html</id>
+        <link href="https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic Studied How People Actually Use Claude. The Findings Were Surprising]]></title>
-        <id>https://pub.towardsai.net/anthropic-studied-how-people-actually-use-claude-the-findings-were-surprising-69823ced1846?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/anthropic-studied-how-people-actually-use-claude-the-findings-were-surprising-69823ced1846?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Anthropic sets up a bio research lab for physical experiments]]></title>
+        <id>https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/</id>
+        <link href="https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: TypeSeer – on-device autocomplete for every text field on macOS]]></title>
+        <id>https://typeseer.com/</id>
+        <link href="https://typeseer.com/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stack Overflow relaunched Developer Story (who certifies that a human wrote it?)]]></title>
+        <id>https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/</id>
+        <link href="https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: An OSS Python dependency scanner for exploited, unmaintained packages]]></title>
+        <id>https://github.com/binuka200/package-doctor</id>
+        <link href="https://github.com/binuka200/package-doctor"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked]]></title>
+        <id>https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html</id>
+        <link href="https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Typesafe Java SDK (Unofficial)]]></title>
+        <id>https://github.com/QAInsights/typesafe-java-sdk</id>
+        <link href="https://github.com/QAInsights/typesafe-java-sdk"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muse gets all your unclaimed money back!]]></title>
+        <id>https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai</id>
+        <link href="https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuclear tests at Mt. Mantap have reactivated intraplate faults]]></title>
+        <id>https://www.science.org/doi/10.1126/science.adx5917</id>
+        <link href="https://www.science.org/doi/10.1126/science.adx5917"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini hacked three companies in first known breakout by Google's AI]]></title>
+        <id>https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/</id>
+        <link href="https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kev – A Jev-Compatible API on top of DiffusionGemma running on Workers AI]]></title>
+        <id>https://kev.workers-ai-mle.workers.dev/</id>
+        <link href="https://kev.workers-ai-mle.workers.dev/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google's Gemini AI hacked three companies in security test]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c607l0k72rlvo</id>
+        <link href="https://www.bbc.co.uk/news/articles/c607l0k72rlvo"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Members of right‑leaning parties prefer leaders with dark triad personality]]></title>
+        <id>https://theconversation.com/members-of-right-leaning-parties-prefer-leaders-with-dark-triad-personality-traits-292011</id>
+        <link href="https://theconversation.com/members-of-right-leaning-parties-prefer-leaders-with-dark-triad-personality-traits-292011"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7]]></title>
+        <id>https://browser.geekbench.com/v7/cpu/389219</id>
+        <link href="https://browser.geekbench.com/v7/cpu/389219"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If math is more than proof, we need to better celebrate the rest of it]]></title>
+        <id>https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</id>
+        <link href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI hallucination of Chinese nuclear components almost led to US Military attack]]></title>
+        <id>https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/</id>
+        <link href="https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-6 Astra Solves a WWI German Radio Cipher]]></title>
+        <id>https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</id>
+        <link href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I set it up: Obsidian, Claude and ChatGPT]]></title>
+        <id>https://pub.towardsai.net/context-engineering-obsidian-claude-chatgpt-e5477b48688c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/context-engineering-obsidian-claude-chatgpt-e5477b48688c?source=rss----98111c9905da---4"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The DROP TABLE Failure Mode: Why Autonomous SRE Agents Can’t Be Trusted With DDL Keys]]></title>
+        <id>https://pub.towardsai.net/the-drop-table-failure-mode-why-autonomous-sre-agents-cant-be-trusted-with-ddl-keys-15ce87d0d13e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-drop-table-failure-mode-why-autonomous-sre-agents-cant-be-trusted-with-ddl-keys-15ce87d0d13e?source=rss----98111c9905da---4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -316,57 +323,44 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gemini Hacked Three Companies in First Known Breakout by Google’s AI]]></title>
-        <id>https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</id>
-        <link href="https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/"/>
+        <title type="html"><![CDATA[Anthropic Studied How People Actually Use Claude. The Findings Were Surprising]]></title>
+        <id>https://pub.towardsai.net/anthropic-studied-how-people-actually-use-claude-the-findings-were-surprising-69823ced1846?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/anthropic-studied-how-people-actually-use-claude-the-findings-were-surprising-69823ced1846?source=rss----98111c9905da---4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-Supapower - A sync engine that keeps a local PGlite database in sync with Supabase, inspired by PowerSync
-]]></title>
-        <id>
-https://github.com/aboviq/supapower
-</id>
-        <link href="
-https://github.com/aboviq/supapower
-"/>
+        <title type="html"><![CDATA[CLAUDE.md + Skills + Hooks: The Claude Code Power Stack]]></title>
+        <id>https://pub.towardsai.net/claude-md-skills-hooks-the-claude-code-power-stack-1e5eaa028f32?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-md-skills-hooks-the-claude-code-power-stack-1e5eaa028f32?source=rss----98111c9905da---4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Built an SEO-Friendly Loan Calculator with Next.js]]></title>
-        <id>https://dev.to/calccove/how-we-built-an-seo-friendly-loan-calculator-with-nextjs-cf9</id>
-        <link href="https://dev.to/calccove/how-we-built-an-seo-friendly-loan-calculator-with-nextjs-cf9"/>
+        <title type="html"><![CDATA[How to Use OpenCode for Free: The Complete Beginner’s Guide]]></title>
+        <id>https://pub.towardsai.net/how-to-use-opencode-for-free-the-complete-beginners-guide-c7ebe7f43de3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-use-opencode-for-free-the-complete-beginners-guide-c7ebe7f43de3?source=rss----98111c9905da---4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review Agent PRs That Hold Row Locks Across Fetch]]></title>
-        <id>https://dev.to/codejs_6920/review-agent-prs-that-hold-row-locks-across-fetch-352g</id>
-        <link href="https://dev.to/codejs_6920/review-agent-prs-that-hold-row-locks-across-fetch-352g"/>
+        <title type="html"><![CDATA[I Tried 100+ Claude Code Skills. These 7 Are The Best.]]></title>
+        <id>https://pub.towardsai.net/i-tried-100-claude-code-skills-these-7-are-the-best-f6bfb13d04f5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tried-100-claude-code-skills-these-7-are-the-best-f6bfb13d04f5?source=rss----98111c9905da---4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bukiety kwiatów Warszawa – jak wybrać właściwy]]></title>
-        <id>https://dev.to/kupprawojazdyonline_3d20d/bukiety-kwiatow-warszawa-jak-wybrac-wlasciwy-2n4d</id>
-        <link href="https://dev.to/kupprawojazdyonline_3d20d/bukiety-kwiatow-warszawa-jak-wybrac-wlasciwy-2n4d"/>
+        <title type="html"><![CDATA[Who Gets the Brake?]]></title>
+        <id>https://pub.towardsai.net/who-gets-the-brake-295d2ae25e8f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/who-gets-the-brake-295d2ae25e8f?source=rss----98111c9905da---4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Domain coloring: plotting complex functions f(z) in the browser]]></title>
-        <id>https://dev.to/lucian_lkb_1f009d/domain-coloring-plotting-complex-functions-fz-in-the-browser-56ne</id>
-        <link href="https://dev.to/lucian_lkb_1f009d/domain-coloring-plotting-complex-functions-fz-in-the-browser-56ne"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why console.log Shows 'Promise {<pending>}' Instead of Your Actual Value]]></title>
-        <id>https://dev.to/systemcraftdev/why-consolelog-shows-promise-instead-of-your-actual-value-1c60</id>
-        <link href="https://dev.to/systemcraftdev/why-consolelog-shows-promise-instead-of-your-actual-value-1c60"/>
+        <title type="html"><![CDATA[Pandas on Steroids: Cleaning Data 10x Faster with Fabric Data Wrangler]]></title>
+        <id>https://pub.towardsai.net/pandas-on-steroids-cleaning-data-10x-faster-with-fabric-data-wrangler-3421093e1cbb?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/pandas-on-steroids-cleaning-data-10x-faster-with-fabric-data-wrangler-3421093e1cbb?source=rss----98111c9905da---4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
