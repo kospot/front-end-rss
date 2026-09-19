@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-19T15:03:13.507Z</updated>
+    <updated>2026-09-19T22:01:48.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,121 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????]]></title>
-        <id>https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition</id>
-        <link href="https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition"/>
+        <title type="html"><![CDATA[Flock reportedly tries to shrink workforce with employee buyouts]]></title>
+        <id>https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/</id>
+        <link href="https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Gemini is the latest AI model to hack other companies]]></title>
+        <id>https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/</id>
+        <link href="https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Compressed a 27B Model by 60% With No Loss on Charts. One Default Setting Cost Me 40 Points]]></title>
+        <id>https://pub.towardsai.net/i-compressed-a-27b-model-by-60-with-no-loss-on-charts-one-default-setting-cost-me-40-points-5ead7fa65c90?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-compressed-a-27b-model-by-60-with-no-loss-on-charts-one-default-setting-cost-me-40-points-5ead7fa65c90?source=rss----98111c9905da---4"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Idle Agent: Designing Ambient, Event-Driven Systems That Wait Well]]></title>
+        <id>https://pub.towardsai.net/the-idle-agent-designing-ambient-event-driven-systems-that-wait-well-9317b9c13ccd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-idle-agent-designing-ambient-event-driven-systems-that-wait-well-9317b9c13ccd?source=rss----98111c9905da---4"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Tell If Your LLM Judge Can Be Trusted]]></title>
+        <id>https://pub.towardsai.net/how-to-tell-if-your-llm-judge-can-be-trusted-80747dad179f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-tell-if-your-llm-judge-can-be-trusted-80747dad179f?source=rss----98111c9905da---4"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[datasette-auth-github 1.0]]></title>
+        <id>https://simonwillison.net/2026/Sep/19/datasette-auth-github/</id>
+        <link href="https://simonwillison.net/2026/Sep/19/datasette-auth-github/"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three PWA decisions that survived a real dining room]]></title>
+        <id>https://dev.to/deusautomations/three-pwa-decisions-that-survived-a-real-dining-room-5950</id>
+        <link href="https://dev.to/deusautomations/three-pwa-decisions-that-survived-a-real-dining-room-5950"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Big Data Price Discrimination Detector in 198 Lines of Vanilla JS]]></title>
+        <id>https://dev.to/473185670/how-i-built-a-big-data-price-discrimination-detector-in-198-lines-of-vanilla-js-2ifm</id>
+        <link href="https://dev.to/473185670/how-i-built-a-big-data-price-discrimination-detector-in-198-lines-of-vanilla-js-2ifm"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Como Criei um Cardápio Digital para TV Usando IA e JavaScript]]></title>
+        <id>https://dev.to/eduardo_henrique_42e5ebc8/como-criei-um-cardapio-digital-para-tv-usando-ia-e-javascript-3gl8</id>
+        <link href="https://dev.to/eduardo_henrique_42e5ebc8/como-criei-um-cardapio-digital-para-tv-usando-ia-e-javascript-3gl8"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an Interactive I-Beam Dimensions Diagram with HTML, CSS & JavaScript]]></title>
+        <id>https://dev.to/beamchart/building-an-interactive-i-beam-dimensions-diagram-with-html-css-javascript-15jk</id>
+        <link href="https://dev.to/beamchart/building-an-interactive-i-beam-dimensions-diagram-with-html-css-javascript-15jk"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cutting a Three.js product configurator from 16.7 MB to 2.4 MB]]></title>
+        <id>https://dev.to/rifatsarkerraju/cutting-a-threejs-product-configurator-from-167-mb-to-24-mb-2bka</id>
+        <link href="https://dev.to/rifatsarkerraju/cutting-a-threejs-product-configurator-from-167-mb-to-24-mb-2bka"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I open-sourced 3 small Node utilities I pulled out of building an edtech platform]]></title>
+        <id>https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd</id>
+        <link href="https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Perimeter Security: Implementing Node-Level RBAC and Cryptographic Tenant Isolation in Enterprise Knowledge Graphs]]></title>
+        <id>https://dev.to/programmingcentral/beyond-perimeter-security-implementing-node-level-rbac-and-cryptographic-tenant-isolation-in-3hg6</id>
+        <link href="https://dev.to/programmingcentral/beyond-perimeter-security-implementing-node-level-rbac-and-cryptographic-tenant-isolation-in-3hg6"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entendiendo la desestructuración en Javascript]]></title>
+        <id>https://dev.to/javier_ee5cb8a318b2596536/entendiendo-la-desestructuracion-en-javascript-gb7</id>
+        <link href="https://dev.to/javier_ee5cb8a318b2596536/entendiendo-la-desestructuracion-en-javascript-gb7"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The story of morphing-scroll, my npm library]]></title>
+        <id>https://dev.to/voodoofugu/the-story-of-morphing-scroll-my-npm-library-1agb</id>
+        <link href="https://dev.to/voodoofugu/the-story-of-morphing-scroll-my-npm-library-1agb"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svelte's runes are just React hooks wearing a Svelte hoodie]]></title>
+        <id>https://dev.to/adioof/sveltes-runes-are-just-react-hooks-wearing-a-svelte-hoodie-10l3</id>
+        <link href="https://dev.to/adioof/sveltes-runes-are-just-react-hooks-wearing-a-svelte-hoodie-10l3"/>
+        <updated>2026-09-19T16:00:00.000Z</updated>
+        <published>2026-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini went rogue, hacked three companies, and Google hid it]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -25,6 +137,13 @@
         <title type="html"><![CDATA[Virginia governor creates an AI task force and moves to restrain data centers]]></title>
         <id>https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force</id>
         <link href="https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????]]></title>
+        <id>https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition</id>
+        <link href="https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -71,23 +190,16 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI safety conversations have gotten unbelievable]]></title>
-        <id>https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/</id>
-        <link href="https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"/>
+        <title type="html"><![CDATA[Prices go up in 7 days. Get your Disrupt ticket now.]]></title>
+        <id>https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/</id>
+        <link href="https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World model companies are keeping a lot of secrets]]></title>
-        <id>https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/</id>
-        <link href="https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In India, the new iPhone can arrive faster than a pizza]]></title>
-        <id>https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/</id>
-        <link href="https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/"/>
+        <title type="html"><![CDATA[Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?]]></title>
+        <id>https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/</id>
+        <link href="https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -99,9 +211,23 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?]]></title>
-        <id>https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/</id>
-        <link href="https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"/>
+        <title type="html"><![CDATA[In India, the new iPhone can arrive faster than a pizza]]></title>
+        <id>https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/</id>
+        <link href="https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World model companies are keeping a lot of secrets]]></title>
+        <id>https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/</id>
+        <link href="https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI safety conversations have gotten unbelievable]]></title>
+        <id>https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/</id>
+        <link href="https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -235,132 +361,6 @@
         <title type="html"><![CDATA[Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked]]></title>
         <id>https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html</id>
         <link href="https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: An OSS Python dependency scanner for exploited, unmaintained packages]]></title>
-        <id>https://github.com/binuka200/package-doctor</id>
-        <link href="https://github.com/binuka200/package-doctor"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stack Overflow relaunched Developer Story (who certifies that a human wrote it?)]]></title>
-        <id>https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/</id>
-        <link href="https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: TypeSeer – on-device autocomplete for every text field on macOS]]></title>
-        <id>https://typeseer.com/</id>
-        <link href="https://typeseer.com/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic sets up a bio research lab for physical experiments]]></title>
-        <id>https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/</id>
-        <link href="https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI cloud provider Nscale files for IPO on $140.6M revenue, $1.02B net loss]]></title>
-        <id>https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html</id>
-        <link href="https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive-Anthropic sets up biology lab as it ramps AI drug program]]></title>
-        <id>https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html</id>
-        <link href="https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Dan Ariely Telling the Truth?]]></title>
-        <id>https://chronicleofhighereducation.substack.com/p/is-dan-ariely-telling-the-truth</id>
-        <link href="https://chronicleofhighereducation.substack.com/p/is-dan-ariely-telling-the-truth"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools]]></title>
-        <id>https://github.com/JOxKxER/garza-global-graviton</id>
-        <link href="https://github.com/JOxKxER/garza-global-graviton"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASI risk debate with Nate Soares [video]]]></title>
-        <id>https://www.youtube.com/watch?v=OhOmLqR5nN4</id>
-        <link href="https://www.youtube.com/watch?v=OhOmLqR5nN4"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Can't Overcook Mushrooms and the Science Behind Them [video]]]></title>
-        <id>https://www.youtube.com/watch?v=XLPLCmwBLBY</id>
-        <link href="https://www.youtube.com/watch?v=XLPLCmwBLBY"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Left Brain, Right Brain: Facts and Fantasies]]></title>
-        <id>https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/</id>
-        <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reality Is the Final Verifier: On Two Key Gaps in Agentic Software Engineering]]></title>
-        <id>https://arxiv.org/abs/2609.12039</id>
-        <link href="https://arxiv.org/abs/2609.12039"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dashes suggest which model you're copy-pasting from]]></title>
-        <id>https://will-keleher.com/posts/your-dashes-suggest-which-model-youre-copy-pasting-from/</id>
-        <link href="https://will-keleher.com/posts/your-dashes-suggest-which-model-youre-copy-pasting-from/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI companies sued for "colluding" to slow down]]></title>
-        <id>https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit</id>
-        <link href="https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When "Review" Becomes Permission: A Prompt Injection Lab]]></title>
-        <id>https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx</id>
-        <link href="https://rsec.uk/insights/when-review-becomes-permission-a-prompt-injection-lab-mu5tsobx"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to add comments to a static site using GitHub Pull Requests(2023)]]></title>
-        <id>https://nateeagle.com/posts/how-to-add-comments-to-a-static-site-using-github-pull-requests/</id>
-        <link href="https://nateeagle.com/posts/how-to-add-comments-to-a-static-site-using-github-pull-requests/"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What failed when I trained an object detector on synthetic images only]]></title>
-        <id>https://datasint.tech/rendered-training-data.html</id>
-        <link href="https://datasint.tech/rendered-training-data.html"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Htmldoc – A pastebin that renders the HTML your coding agent writes]]></title>
-        <id>https://htmldoc.space</id>
-        <link href="https://htmldoc.space"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>

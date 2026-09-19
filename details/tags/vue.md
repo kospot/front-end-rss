@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-19 23:03:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-20 06:01:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -11,14 +11,14 @@
 - [2026-09-18-How-to-Split-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-split-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-252j) 
 - [2026-09-16-How-to-Merge-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-merge-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-25n2) 
 - [2026-09-15-How-to-Compress-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-compress-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-5dd4) 
-- [2026-09-14-Vue-nextTick-Explained:-How-DOM-Updates-Are-Batched](https://dev.to/parsajiravand/vue-nexttick-explained-how-dom-updates-are-batched-3gnp) 
 - [2026-09-14-How-to-Rotate-PDF-Pages-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-rotate-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-ag7) 
+- [2026-09-14-Vue-nextTick-Explained:-How-DOM-Updates-Are-Batched](https://dev.to/parsajiravand/vue-nexttick-explained-how-dom-updates-are-batched-3gnp) 
 - [2026-09-11-How-to-Convert-Excel-to-PDF-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-excel-to-pdf-in-the-browser-with-vue-3-35a0) 
 - [2026-09-10-How-to-Convert-PDF-to-Image-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-pdf-to-image-in-the-browser-with-vue-3-2pk4) 
 - [2026-09-08-How-to-Sign-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-sign-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-4n03) 
 - [2026-09-06-How-to-Remove-Blank-Pages-from-PDF-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-remove-blank-pages-from-pdf-in-the-browser-with-vue-3-and-pdf-lib-227p) 
-- [2026-09-05-Solid-Vue-|-The-Minimalist-Vue-+-Vite-Web-Frameworks-No-relation-to-SolidJS-or-SolidStart-at-all](https://dev.to/joni_ilman12/solid-vue-the-minimalist-vue-vite-web-frameworks-no-relation-to-solidjs-or-solidstart-at-all-l9e) 
 - [2026-09-05-How-to-Crop-PDF-Margins-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-crop-pdf-margins-in-the-browser-with-vue-3-and-pdf-lib-54li) 
+- [2026-09-05-Solid-Vue-|-The-Minimalist-Vue-+-Vite-Web-Frameworks-No-relation-to-SolidJS-or-SolidStart-at-all](https://dev.to/joni_ilman12/solid-vue-the-minimalist-vue-vite-web-frameworks-no-relation-to-solidjs-or-solidstart-at-all-l9e) 
 - [2026-09-04-How-to-Add-Page-Numbers-to-PDF-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-add-page-numbers-to-pdf-in-the-browser-with-vue-3-and-pdf-lib-9g1) 
 - [2026-09-02-How-to-Encrypt-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-encrypt-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-135k) 
 - [2026-09-01-How-to-Add-Watermarks-to-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-add-watermarks-to-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-10kn) 
@@ -29,7 +29,6 @@
 - [2026-08-25-How-to-Delete-PDF-Pages-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-delete-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-2gge) 
 - [2026-08-23-How-to-Convert-Images-to-PDF-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-images-to-pdf-in-the-browser-with-vue-3-551g) 
 - [2026-08-22-How-to-Convert-Word-to-PDF-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-word-to-pdf-in-the-browser-with-vue-3-3c2f) 
-- [2026-08-21-How-to-Encrypt-PDFs-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-encrypt-pdfs-in-the-browser-with-vue-3-and-pdf-lib-2bfe) 
 - [2026-09-18-Advantage-Scale-Calibration-Imbalance-in-Group-Relative-Optimization-under-Low-Variance-Rewards:-Diagnosis-and-Bounded-Recovery](https://arxiv.org/abs/2609.19164) 
 - [2026-09-18-A-Transferable-Learned-Temporal-Prior-for-Transmission-Reconstruction-and-Decision-Relevant-Uncertainty-in-Real-Outbreak-Labels](https://arxiv.org/abs/2606.30842) 
 - [2026-09-16-BASIS:-Batchwise-Advantage-Estimation-from-Single-Rollout-Information-Sharing-for-LLM-Reasoning](https://arxiv.org/abs/2605.27293) 
@@ -41,6 +40,5 @@
 - [2026-09-10-Tracking-the-Moving-Frontier:-Long-Short-Term-Advantage-Estimator](https://arxiv.org/abs/2609.06671) 
 - [2026-09-02-Advantage-Weighted-Matching:-Aligning-RL-with-Pretraining-in-Diffusion-Models](https://arxiv.org/abs/2509.25050) 
 - [2026-09-01-PAC:-Progress-Augmented-Advantage-Curriculum-for-Multi-Task-Reinforcement-Learning-of-LLMs](https://arxiv.org/abs/2608.30528) 
-- [2026-08-21-An-Irreducible-Quantum-Advantage-in-Aligning-World-Models-with-Reality](https://arxiv.org/abs/2608.19779) 
 - [2026-08-27-Japanese-avant-garde-artist-Yayoi-Kusama-dies-aged-97](https://www.bbc.com/news/articles/c3v4k0re3vwo) 
 - [2026-08-29-Nvidia’s-AI-advantage-is-moving-beyond-the-GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/) 

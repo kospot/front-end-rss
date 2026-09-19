@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-19 23:03:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-20 06:01:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-09-20-Cutting-a-Three.js-product-configurator-from-16.7-MB-to-2.4-MB](https://dev.to/rifatsarkerraju/cutting-a-threejs-product-configurator-from-167-mb-to-24-mb-2bka) 
 - [2026-08-24-Particle-effects-for-Three.js-and-PixiJS-without-the-reload-loop](https://dev.to/sam_novak_574b07811e18495/particle-effects-for-threejs-and-pixijs-without-the-reload-loop-7ld) 
 - [2026-08-22-mrdoob/three.js](https://github.com/mrdoob/three.js) 
 - [2026-09-17-Show-HN:-ThreeJS-Runtime-Performance-Optimization-Tools-for-ClaudeCode](https://github.com/wonglok/effectnode-b3-template-code/tree/main/src/runtime-intelligence) 
