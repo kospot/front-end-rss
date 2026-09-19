@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-19T07:02:44.349Z</updated>
+    <updated>2026-09-19T10:02:30.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,9 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Whoop Promo Codes: 20% Off This September 2026]]></title>
-        <id>https://www.wired.com/story/whoop-promo-code/</id>
-        <link href="https://www.wired.com/story/whoop-promo-code/"/>
+        <title type="html"><![CDATA[6 Best VPN Services (2026), Tested and Reviewed]]></title>
+        <id>https://www.wired.com/gallery/best-vpn/</id>
+        <link href="https://www.wired.com/gallery/best-vpn/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap]]></title>
         <id>https://www.wired.com/review/apple-watch-ultra-4/</id>
         <link href="https://www.wired.com/review/apple-watch-ultra-4/"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whoop Promo Codes: 20% Off This September 2026]]></title>
+        <id>https://www.wired.com/story/whoop-promo-code/</id>
+        <link href="https://www.wired.com/story/whoop-promo-code/"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -239,16 +246,51 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PodDisruptionBudget: The Safety Net Nobody Sets Up Until It’s Too Late]]></title>
-        <id>https://pub.towardsai.net/poddisruptionbudget-the-safety-net-nobody-sets-up-until-its-too-late-7f2eda7b20a2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/poddisruptionbudget-the-safety-net-nobody-sets-up-until-its-too-late-7f2eda7b20a2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[YouTube Sends 1.3 MB of HTML to Your AI Agent. Twenty-One Words Survive.]]></title>
+        <id>https://pub.towardsai.net/youtube-sends-1-3-mb-of-html-to-your-ai-agent-twenty-one-words-survive-ce45e8a42eea?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/youtube-sends-1-3-mb-of-html-to-your-ai-agent-twenty-one-words-survive-ce45e8a42eea?source=rss----98111c9905da---4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic Studied How People Actually Use Claude. The Findings Were Surprising]]></title>
-        <id>https://pub.towardsai.net/anthropic-studied-how-people-actually-use-claude-the-findings-were-surprising-69823ced1846?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/anthropic-studied-how-people-actually-use-claude-the-findings-were-surprising-69823ced1846?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[OpenAI's Codex Ships Two Subagent Toolsets. The Agents API Matches Neither.]]></title>
+        <id>https://pub.towardsai.net/openais-codex-ships-two-subagent-toolsets-the-agents-api-matches-neither-480822de5617?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openais-codex-ships-two-subagent-toolsets-the-agents-api-matches-neither-480822de5617?source=rss----98111c9905da---4"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RoPE : Rotary Position Embedding]]></title>
+        <id>https://pub.towardsai.net/rope-rotary-position-embedding-1971034b4bf3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/rope-rotary-position-embedding-1971034b4bf3?source=rss----98111c9905da---4"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandas on Steroids: Cleaning Data 10x Faster with Fabric Data Wrangler]]></title>
+        <id>https://pub.towardsai.net/pandas-on-steroids-cleaning-data-10x-faster-with-fabric-data-wrangler-3421093e1cbb?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/pandas-on-steroids-cleaning-data-10x-faster-with-fabric-data-wrangler-3421093e1cbb?source=rss----98111c9905da---4"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Gets the Brake?]]></title>
+        <id>https://pub.towardsai.net/who-gets-the-brake-295d2ae25e8f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/who-gets-the-brake-295d2ae25e8f?source=rss----98111c9905da---4"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried 100+ Claude Code Skills. These 7 Are The Best.]]></title>
+        <id>https://pub.towardsai.net/i-tried-100-claude-code-skills-these-7-are-the-best-f6bfb13d04f5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tried-100-claude-code-skills-these-7-are-the-best-f6bfb13d04f5?source=rss----98111c9905da---4"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenCode for Free: The Complete Beginner’s Guide]]></title>
+        <id>https://pub.towardsai.net/how-to-use-opencode-for-free-the-complete-beginners-guide-c7ebe7f43de3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-use-opencode-for-free-the-complete-beginners-guide-c7ebe7f43de3?source=rss----98111c9905da---4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -260,9 +302,16 @@
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use OpenCode for Free: The Complete Beginner’s Guide]]></title>
-        <id>https://pub.towardsai.net/how-to-use-opencode-for-free-the-complete-beginners-guide-c7ebe7f43de3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-use-opencode-for-free-the-complete-beginners-guide-c7ebe7f43de3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Anthropic Studied How People Actually Use Claude. The Findings Were Surprising]]></title>
+        <id>https://pub.towardsai.net/anthropic-studied-how-people-actually-use-claude-the-findings-were-surprising-69823ced1846?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/anthropic-studied-how-people-actually-use-claude-the-findings-were-surprising-69823ced1846?source=rss----98111c9905da---4"/>
+        <updated>2026-09-18T16:00:00.000Z</updated>
+        <published>2026-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PodDisruptionBudget: The Safety Net Nobody Sets Up Until It’s Too Late]]></title>
+        <id>https://pub.towardsai.net/poddisruptionbudget-the-safety-net-nobody-sets-up-until-its-too-late-7f2eda7b20a2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/poddisruptionbudget-the-safety-net-nobody-sets-up-until-its-too-late-7f2eda7b20a2?source=rss----98111c9905da---4"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
@@ -287,86 +336,37 @@ https://github.com/aboviq/supapower
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[📘 Code Tracker AI: Why AI‑Narratives + Build Logs Are the Future of Engineering Documentation.]]></title>
-        <id>https://dev.to/monahidalgo/code-tracker-ai-why-ai-narratives-build-logs-are-the-future-of-engineering-documentation-4pm7</id>
-        <link href="https://dev.to/monahidalgo/code-tracker-ai-why-ai-narratives-build-logs-are-the-future-of-engineering-documentation-4pm7"/>
+        <title type="html"><![CDATA[How We Built an SEO-Friendly Loan Calculator with Next.js]]></title>
+        <id>https://dev.to/calccove/how-we-built-an-seo-friendly-loan-calculator-with-nextjs-cf9</id>
+        <link href="https://dev.to/calccove/how-we-built-an-seo-friendly-loan-calculator-with-nextjs-cf9"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I Stopped Recommending Website-to-APK Tools to Clients (And Built My Own)]]></title>
-        <id>https://dev.to/megsonmorgan/why-i-stopped-recommending-website-to-apk-tools-to-clients-and-built-my-own-59pd</id>
-        <link href="https://dev.to/megsonmorgan/why-i-stopped-recommending-website-to-apk-tools-to-clients-and-built-my-own-59pd"/>
+        <title type="html"><![CDATA[Review Agent PRs That Hold Row Locks Across Fetch]]></title>
+        <id>https://dev.to/codejs_6920/review-agent-prs-that-hold-row-locks-across-fetch-352g</id>
+        <link href="https://dev.to/codejs_6920/review-agent-prs-that-hold-row-locks-across-fetch-352g"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Businesses Should Map Their Workflows Before Choosing New Software]]></title>
-        <id>https://dev.to/nativeclusters_b695bf2918/why-businesses-should-map-their-workflows-before-choosing-new-software-mmg</id>
-        <link href="https://dev.to/nativeclusters_b695bf2918/why-businesses-should-map-their-workflows-before-choosing-new-software-mmg"/>
+        <title type="html"><![CDATA[Bukiety kwiatów Warszawa – jak wybrać właściwy]]></title>
+        <id>https://dev.to/kupprawojazdyonline_3d20d/bukiety-kwiatow-warszawa-jak-wybrac-wlasciwy-2n4d</id>
+        <link href="https://dev.to/kupprawojazdyonline_3d20d/bukiety-kwiatow-warszawa-jak-wybrac-wlasciwy-2n4d"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What actually breaks when you build a WebRTC SFU in Go]]></title>
-        <id>https://dev.to/ailaohuyu/what-actually-breaks-when-you-build-a-webrtc-sfu-in-go-45af</id>
-        <link href="https://dev.to/ailaohuyu/what-actually-breaks-when-you-build-a-webrtc-sfu-in-go-45af"/>
+        <title type="html"><![CDATA[Domain coloring: plotting complex functions f(z) in the browser]]></title>
+        <id>https://dev.to/lucian_lkb_1f009d/domain-coloring-plotting-complex-functions-fz-in-the-browser-56ne</id>
+        <link href="https://dev.to/lucian_lkb_1f009d/domain-coloring-plotting-complex-functions-fz-in-the-browser-56ne"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cookies vs LocalStorage vs SessionStorage: The Difference Developers Actually Need to Know]]></title>
-        <id>https://dev.to/syed_anzar/cookies-vs-localstorage-vs-sessionstorage-the-difference-developers-actually-need-to-know-26m5</id>
-        <link href="https://dev.to/syed_anzar/cookies-vs-localstorage-vs-sessionstorage-the-difference-developers-actually-need-to-know-26m5"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert HEIC to PDF in the Browser with Vue 3]]></title>
-        <id>https://dev.to/sunshey/how-to-convert-heic-to-pdf-in-the-browser-with-vue-3-177n</id>
-        <link href="https://dev.to/sunshey/how-to-convert-heic-to-pdf-in-the-browser-with-vue-3-177n"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transitive dependencies explained: why a package you never installed can still break your build]]></title>
-        <id>https://dev.to/rushabh5000/transitive-dependencies-explained-why-a-package-you-never-installed-can-still-break-your-build-6hn</id>
-        <link href="https://dev.to/rushabh5000/transitive-dependencies-explained-why-a-package-you-never-installed-can-still-break-your-build-6hn"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIGÍA ML: Gas-Well Predictive Monitoring That Runs Entirely in the Browser (TensorFlow.js + React)]]></title>
-        <id>https://dev.to/edison_flores_6d2cd381b13/vigia-ml-gas-well-predictive-monitoring-that-runs-entirely-in-the-browser-tensorflowjs-react-2coa</id>
-        <link href="https://dev.to/edison_flores_6d2cd381b13/vigia-ml-gas-well-predictive-monitoring-that-runs-entirely-in-the-browser-tensorflowjs-react-2coa"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Load the Omniston Widget with @ston-fi/omniston-widget-loader]]></title>
-        <id>https://dev.to/ivan_cryptovazimazima/how-to-load-the-omniston-widget-with-ston-fiomniston-widget-loader-47i7</id>
-        <link href="https://dev.to/ivan_cryptovazimazima/how-to-load-the-omniston-widget-with-ston-fiomniston-widget-loader-47i7"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ingest SERP Data on a Schedule with Cloudflare Workers (Cron + KV)]]></title>
-        <id>https://dev.to/dodou88/ingest-serp-data-on-a-schedule-with-cloudflare-workers-cron-kv-11j0</id>
-        <link href="https://dev.to/dodou88/ingest-serp-data-on-a-schedule-with-cloudflare-workers-cron-kv-11j0"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Price Range Slider with Min-Max Input using HTML, CSS and JavaScript]]></title>
-        <id>https://dev.to/karthick_07/price-range-slider-with-min-max-input-using-html-css-and-javascript-319l</id>
-        <link href="https://dev.to/karthick_07/price-range-slider-with-min-max-input-using-html-css-and-javascript-319l"/>
-        <updated>2026-09-18T16:00:00.000Z</updated>
-        <published>2026-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding async/await pitfalls in JavaScript]]></title>
-        <id>https://dev.to/eme_gug_0821b41b948be6516/understanding-asyncawait-pitfalls-in-javascript-42m6</id>
-        <link href="https://dev.to/eme_gug_0821b41b948be6516/understanding-asyncawait-pitfalls-in-javascript-42m6"/>
+        <title type="html"><![CDATA[Why console.log Shows 'Promise {<pending>}' Instead of Your Actual Value]]></title>
+        <id>https://dev.to/systemcraftdev/why-consolelog-shows-promise-instead-of-your-actual-value-1c60</id>
+        <link href="https://dev.to/systemcraftdev/why-consolelog-shows-promise-instead-of-your-actual-value-1c60"/>
         <updated>2026-09-18T16:00:00.000Z</updated>
         <published>2026-09-18T16:00:00.000Z</published>
     </entry>
