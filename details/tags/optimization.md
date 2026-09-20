@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-20 10:01:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-20 12:01:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -13,8 +13,8 @@
 - [2026-09-06-Why-my-prerendered-pages-shipped-with-three-&lt;title&gt;-tags](https://dev.to/dquillman/why-my-prerendered-pages-shipped-with-three-tags-3aal) 
 - [2026-08-26-How-I-Vibe-Coded-a-Fast-Client-Side-SERP-Preview-Tool-for-SEO-Optimization](https://dev.to/hoangvibecode/how-i-vibe-coded-a-fast-client-side-serp-preview-tool-for-seo-optimization-2fa3) 
 - [2026-08-25-How-I-Vibe-Coded-a-Fast-Client-Side-N-Gram-Analyzer-for-NLP-&amp;-SEO](https://dev.to/hoangvibecode/how-i-vibe-coded-a-fast-client-side-n-gram-analyzer-for-nlp-seo-450) 
-- [2026-08-23-Master-Technical-SEO,-Core-Web-Vitals,-and-the-12-Point-Audit-Checklist-for-2026](https://dev.to/edo911/master-technical-seo-core-web-vitals-and-the-12-point-audit-checklist-for-2026-32oi) 
 - [2026-08-23-URL-Slugs:-The-Boring-Detail-That-Quietly-Affects-Your-SEO,-Caching,-and-Bug-Reports](https://dev.to/dada_qi_c70e404eada88b6f4/url-slugs-the-boring-detail-that-quietly-affects-your-seo-caching-and-bug-reports-23jk) 
+- [2026-08-23-Master-Technical-SEO,-Core-Web-Vitals,-and-the-12-Point-Audit-Checklist-for-2026](https://dev.to/edo911/master-technical-seo-core-web-vitals-and-the-12-point-audit-checklist-for-2026-32oi) 
 - [2026-09-16-HintMiner:-Automatic-Question-Hints-Mining-From-Q&amp;A-Web-Posts-with-Language-Model-via-Self-Supervised-Learning](https://arxiv.org/abs/2609.16060) 
 - [2026-09-10-Adaptively-Incorporating-Directional-Hints-into-Zeroth-Order-Optimization](https://arxiv.org/abs/2609.08277) 
 - [2026-09-18-An-in-depth-introduction-to-Pydantic:-Making-Your-Python-Type-Hints-Actually-Do-Something](https://pub.towardsai.net/an-in-depth-introduction-to-pydantic-making-your-python-type-hints-actually-do-something-68681328c538?source=rss----98111c9905da---4) 
