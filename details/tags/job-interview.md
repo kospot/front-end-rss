@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-20 23:02:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-21 06:01:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2026-08-22-Guaranteeing-You-Never-Show-an-Expired-Offer,-by-Design](https://dev.to/takahiro_hashito_a1f3f0dc/guaranteeing-you-never-show-an-expired-offer-by-design-c09) 
 - [2026-09-18-Multiple-providers-offer-free-mystery-model,-Union-Alpha](https://tokenstead.ai/models/union-alpha) 
 - [2026-08-28-330-applications.-No-offer.-Don’t-send-application-331-yet.](https://medium.com/@mike.salari.dev/330-applications-no-offer-dont-send-application-331-yet-24494eabc9e0) 
 - [2026-09-14-A-Vinyl-Bar-in-Shibuya-is-a-startup-offering-fun-music-apps-without-any-AI-prompting](https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/) 
