@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-21T02:00:55.373Z</updated>
+    <updated>2026-09-21T04:02:17.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,114 +29,37 @@
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK productivity grew twice as fast as thought after 2008 financial crisis]]></title>
-        <id>https://www.ft.com/content/560fc2ad-5c7e-4878-ae9b-a3183004c394</id>
-        <link href="https://www.ft.com/content/560fc2ad-5c7e-4878-ae9b-a3183004c394"/>
+        <title type="html"><![CDATA[Lint-HTTP 0.1.0 – Easy to use, complete HTTP traffic linter]]></title>
+        <id>https://crates.io/crates/lint-http/0.1.0</id>
+        <link href="https://crates.io/crates/lint-http/0.1.0"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Post Train]]></title>
-        <id>https://howtoposttrain.com/</id>
-        <link href="https://howtoposttrain.com/"/>
+        <title type="html"><![CDATA[Presley Gerber, Son of Cindy Crawford and Rande Gerber, Dies at 27]]></title>
+        <id>https://www.hollywoodreporter.com/lifestyle/lifestyle-news/presley-gerber-dead-cindy-crawford-rande-gerber-kaia-gerber-1236706714/</id>
+        <link href="https://www.hollywoodreporter.com/lifestyle/lifestyle-news/presley-gerber-dead-cindy-crawford-rande-gerber-kaia-gerber-1236706714/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A study of sequence weighting at scale]]></title>
-        <id>https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/</id>
-        <link href="https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/"/>
+        <title type="html"><![CDATA[New wild cat species is identified for first time in 100 years]]></title>
+        <id>https://www.nbcnews.com/science/environment/new-wild-cat-species-identified-rcna598113</id>
+        <link href="https://www.nbcnews.com/science/environment/new-wild-cat-species-identified-rcna598113"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It]]></title>
-        <id>https://arxiv.org/abs/2609.16247</id>
-        <link href="https://arxiv.org/abs/2609.16247"/>
+        <title type="html"><![CDATA[China is not ready for a post-American world]]></title>
+        <id>https://www.economist.com/international/2026/09/15/china-is-not-ready-for-a-post-american-world</id>
+        <link href="https://www.economist.com/international/2026/09/15/china-is-not-ready-for-a-post-american-world"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nipple tattooist 'frustrated' by online censorship]]></title>
-        <id>https://www.bbc.com/news/articles/cx2z7ejn891o</id>
-        <link href="https://www.bbc.com/news/articles/cx2z7ejn891o"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mini-Microsoft Wins at Last]]></title>
-        <id>https://molochinations.substack.com/p/mini-microsoft-wins-at-last</id>
-        <link href="https://molochinations.substack.com/p/mini-microsoft-wins-at-last"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's Easy to Dismiss Jev as Just a Classifier]]></title>
-        <id>https://sebastianraschka.com/blog/2026/jev-classification-generalization.html</id>
-        <link href="https://sebastianraschka.com/blog/2026/jev-classification-generalization.html"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omarchy Quattro [video]]]></title>
-        <id>https://www.youtube.com/watch?v=F7fe9pa8OeE</id>
-        <link href="https://www.youtube.com/watch?v=F7fe9pa8OeE"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is this website more boring than it used to be, or am I just used to it?]]></title>
-        <id>https://news.ycombinator.com/item?id=49780267</id>
-        <link href="https://news.ycombinator.com/item?id=49780267"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How have NLP researchers adapted since LLM disrupted their field]]></title>
-        <id>https://news.ycombinator.com/item?id=49780238</id>
-        <link href="https://news.ycombinator.com/item?id=49780238"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death and Life of Chinese Civil Society]]></title>
-        <id>https://madeinchinajournal.com/2026/07/29/the-death-and-life-of-chinese-civil-society/</id>
-        <link href="https://madeinchinajournal.com/2026/07/29/the-death-and-life-of-chinese-civil-society/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The viewers ditching streaming 'rot' in favour of DVDs]]></title>
-        <id>https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds</id>
-        <link href="https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navier-Stokes, AI, Future of Mathematics with Martin Hairer (2014 Fields Medal) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=G8HMa_tgM34</id>
-        <link href="https://www.youtube.com/watch?v=G8HMa_tgM34"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Goes to the Pyramids [video]]]></title>
-        <id>https://media.ccc.de/v/kde2026-58-kde_goes_to_the_pyramids</id>
-        <link href="https://media.ccc.de/v/kde2026-58-kde_goes_to_the_pyramids"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Netscape – 1997 Chrome, 2026 AI]]></title>
-        <id>https://ainetscape.com/</id>
-        <link href="https://ainetscape.com/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turn curiosity into a map you can explore]]></title>
-        <id>https://www.echohive.ai/experiments/drift</id>
-        <link href="https://www.echohive.ai/experiments/drift"/>
+        <title type="html"><![CDATA[Chemical and Biological Weapons Explained – Brett Edwards (2024) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=x3J2w7-9XC8</id>
+        <link href="https://www.youtube.com/watch?v=x3J2w7-9XC8"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
@@ -148,228 +71,297 @@
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-Draw a mandala with mirrored symmetry and export it as PNG or SVG.
-]]></title>
-        <id>
-https://github.com/evoluteur/mandala-maker
-</id>
-        <link href="
-https://github.com/evoluteur/mandala-maker
-"/>
+        <title type="html"><![CDATA[Turn curiosity into a map you can explore]]></title>
+        <id>https://www.echohive.ai/experiments/drift</id>
+        <link href="https://www.echohive.ai/experiments/drift"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reviewing AI-generated code by breaking one invariant and reading the failing test]]></title>
-        <id>https://dev.to/hirodeath/reviewing-ai-generated-code-by-breaking-one-invariant-and-reading-the-failing-test-2c9f</id>
-        <link href="https://dev.to/hirodeath/reviewing-ai-generated-code-by-breaking-one-invariant-and-reading-the-failing-test-2c9f"/>
+        <title type="html"><![CDATA[AI Netscape – 1997 Chrome, 2026 AI]]></title>
+        <id>https://ainetscape.com/</id>
+        <link href="https://ainetscape.com/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[India GST Utilities API: Validate GSTINs, Calculate Tax & Look Up HSN/SAC Codes (Free)]]></title>
-        <id>https://dev.to/professorhemant/india-gst-utilities-api-validate-gstins-calculate-tax-look-up-hsnsac-codes-free-2i7h</id>
-        <link href="https://dev.to/professorhemant/india-gst-utilities-api-validate-gstins-calculate-tax-look-up-hsnsac-codes-free-2i7h"/>
+        <title type="html"><![CDATA[KDE Goes to the Pyramids [video]]]></title>
+        <id>https://media.ccc.de/v/kde2026-58-kde_goes_to_the_pyramids</id>
+        <link href="https://media.ccc.de/v/kde2026-58-kde_goes_to_the_pyramids"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How do I safely back up my files and reinstall Windows without losing important documents?]]></title>
-        <id>https://dev.to/hostiqen/how-do-i-safely-back-up-my-files-and-reinstall-windows-without-losing-important-documents-40jo</id>
-        <link href="https://dev.to/hostiqen/how-do-i-safely-back-up-my-files-and-reinstall-windows-without-losing-important-documents-40jo"/>
+        <title type="html"><![CDATA[Navier-Stokes, AI, Future of Mathematics with Martin Hairer (2014 Fields Medal) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=G8HMa_tgM34</id>
+        <link href="https://www.youtube.com/watch?v=G8HMa_tgM34"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Mental Health Data Never Leaves Your Browser: 36 Tools with Zero Backend, Zero Signup, Zero Cookie]]></title>
-        <id>https://dev.to/473185670/your-mental-health-data-never-leaves-your-browser-36-tools-with-zero-backend-zero-signup-zero-459l</id>
-        <link href="https://dev.to/473185670/your-mental-health-data-never-leaves-your-browser-36-tools-with-zero-backend-zero-signup-zero-459l"/>
+        <title type="html"><![CDATA[The viewers ditching streaming 'rot' in favour of DVDs]]></title>
+        <id>https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds</id>
+        <link href="https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pixel Fury 3D]]></title>
-        <id>https://dev.to/rylen_galloway_5b15f8e262/pixel-fury-3d-2c2n</id>
-        <link href="https://dev.to/rylen_galloway_5b15f8e262/pixel-fury-3d-2c2n"/>
+        <title type="html"><![CDATA[The Death and Life of Chinese Civil Society]]></title>
+        <id>https://madeinchinajournal.com/2026/07/29/the-death-and-life-of-chinese-civil-society/</id>
+        <link href="https://madeinchinajournal.com/2026/07/29/the-death-and-life-of-chinese-civil-society/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We timed HTTP-only scraping against a headless browser on the same page. It wasn't close.]]></title>
-        <id>https://dev.to/fetchsmith/we-timed-http-only-scraping-against-a-headless-browser-on-the-same-page-it-wasnt-close-5bfj</id>
-        <link href="https://dev.to/fetchsmith/we-timed-http-only-scraping-against-a-headless-browser-on-the-same-page-it-wasnt-close-5bfj"/>
+        <title type="html"><![CDATA[Ask HN: How have NLP researchers adapted since LLM disrupted their field]]></title>
+        <id>https://news.ycombinator.com/item?id=49780238</id>
+        <link href="https://news.ycombinator.com/item?id=49780238"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why React & Next.js Users Get `ChunkLoadError` After Deployment — And How to Fix It]]></title>
-        <id>https://dev.to/abanoubkerols/why-react-nextjs-users-get-chunkloaderror-after-deployment-and-how-to-fix-it-5f87</id>
-        <link href="https://dev.to/abanoubkerols/why-react-nextjs-users-get-chunkloaderror-after-deployment-and-how-to-fix-it-5f87"/>
+        <title type="html"><![CDATA[Is this website more boring than it used to be, or am I just used to it?]]></title>
+        <id>https://news.ycombinator.com/item?id=49780267</id>
+        <link href="https://news.ycombinator.com/item?id=49780267"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Clients Actually Expect From a Freelance Web Developer]]></title>
-        <id>https://dev.to/arslaniftikhar533/what-clients-actually-expect-from-a-freelance-web-developer-1d24</id>
-        <link href="https://dev.to/arslaniftikhar533/what-clients-actually-expect-from-a-freelance-web-developer-1d24"/>
+        <title type="html"><![CDATA[Omarchy Quattro [video]]]></title>
+        <id>https://www.youtube.com/watch?v=F7fe9pa8OeE</id>
+        <link href="https://www.youtube.com/watch?v=F7fe9pa8OeE"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript Tips to Write Safer, Cleaner Code: A Gandalf's Guide]]></title>
-        <id>https://dev.to/timevolt/typescript-tips-to-write-safer-cleaner-code-a-gandalfs-guide-7mi</id>
-        <link href="https://dev.to/timevolt/typescript-tips-to-write-safer-cleaner-code-a-gandalfs-guide-7mi"/>
+        <title type="html"><![CDATA[It's Easy to Dismiss Jev as Just a Classifier]]></title>
+        <id>https://sebastianraschka.com/blog/2026/jev-classification-generalization.html</id>
+        <link href="https://sebastianraschka.com/blog/2026/jev-classification-generalization.html"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React Router Finally Clicked --- Because I Stopped Treating It Like a List of APIs]]></title>
-        <id>https://dev.to/blackjosh007/the-test-is-working-going-deep-on-react-router-3bdk</id>
-        <link href="https://dev.to/blackjosh007/the-test-is-working-going-deep-on-react-router-3bdk"/>
+        <title type="html"><![CDATA[Mini-Microsoft Wins at Last]]></title>
+        <id>https://molochinations.substack.com/p/mini-microsoft-wins-at-last</id>
+        <link href="https://molochinations.substack.com/p/mini-microsoft-wins-at-last"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hey devs! Built a web app with Python & JS for Mexican labor/tax calculations.
-Would love some feedback on UI & performance: https://labor-lex.com
-Thanks!]]></title>
-        <id>https://dev.to/valdivia/hey-devs-built-a-web-app-with-python-js-for-mexican-labortax-calculations-would-love-some-572f</id>
-        <link href="https://dev.to/valdivia/hey-devs-built-a-web-app-with-python-js-for-mexican-labortax-calculations-would-love-some-572f"/>
+        <title type="html"><![CDATA[Nipple tattooist 'frustrated' by online censorship]]></title>
+        <id>https://www.bbc.com/news/articles/cx2z7ejn891o</id>
+        <link href="https://www.bbc.com/news/articles/cx2z7ejn891o"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Starting a React API-Driven App? 8 Decisions to Make Before Coding]]></title>
-        <id>https://dev.to/appinit/starting-a-react-api-driven-app-8-decisions-to-make-before-coding-3hfb</id>
-        <link href="https://dev.to/appinit/starting-a-react-api-driven-app-8-decisions-to-make-before-coding-3hfb"/>
+        <title type="html"><![CDATA[The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It]]></title>
+        <id>https://arxiv.org/abs/2609.16247</id>
+        <link href="https://arxiv.org/abs/2609.16247"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
-        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-4j5</id>
-        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-4j5"/>
+        <title type="html"><![CDATA[A study of sequence weighting at scale]]></title>
+        <id>https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/</id>
+        <link href="https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Company Domain Finder Results Cost More When Emitting Many Result Events]]></title>
-        <id>https://dev.to/crawlerbros/company-domain-finder-results-cost-more-when-emitting-many-result-events-1969</id>
-        <link href="https://dev.to/crawlerbros/company-domain-finder-results-cost-more-when-emitting-many-result-events-1969"/>
+        <title type="html"><![CDATA[How to Post Train]]></title>
+        <id>https://howtoposttrain.com/</id>
+        <link href="https://howtoposttrain.com/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why We Moved 100% of Our Web Tools Client-Side (And Saved 95% Server Costs)]]></title>
-        <id>https://dev.to/zovixia/why-we-moved-100-of-our-web-tools-client-side-and-saved-95-server-costs-5ap</id>
-        <link href="https://dev.to/zovixia/why-we-moved-100-of-our-web-tools-client-side-and-saved-95-server-costs-5ap"/>
+        <title type="html"><![CDATA[UK productivity grew twice as fast as thought after 2008 financial crisis]]></title>
+        <id>https://www.ft.com/content/560fc2ad-5c7e-4878-ae9b-a3183004c394</id>
+        <link href="https://www.ft.com/content/560fc2ad-5c7e-4878-ae9b-a3183004c394"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript: async/await patterns that will save you hours – The Neo Way]]></title>
-        <id>https://dev.to/timevolt/javascript-asyncawait-patterns-that-will-save-you-hours-the-neo-way-1f6f</id>
-        <link href="https://dev.to/timevolt/javascript-asyncawait-patterns-that-will-save-you-hours-the-neo-way-1f6f"/>
+        <title type="html"><![CDATA[Sparse Priors for Efficient Distribution Learning]]></title>
+        <id>https://arxiv.org/abs/2609.20883</id>
+        <link href="https://arxiv.org/abs/2609.20883"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bro.js v3.0.0 – What’s new]]></title>
-        <id>https://dev.to/yass1n/brojs-v300-whats-new-53op</id>
-        <link href="https://dev.to/yass1n/brojs-v300-whats-new-53op"/>
+        <title type="html"><![CDATA[Elastic Threshold Attention: Learned Contextual Sparsity for Long-Context Decoding]]></title>
+        <id>https://arxiv.org/abs/2609.20888</id>
+        <link href="https://arxiv.org/abs/2609.20888"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Traditional Henna Art Is Evolving Through Creativity and Modern Experiences"]]></title>
-        <id>https://dev.to/stylish_henna_1d6f3da02fc/how-traditional-henna-art-is-evolving-through-creativity-and-modern-experiences-4ch5</id>
-        <link href="https://dev.to/stylish_henna_1d6f3da02fc/how-traditional-henna-art-is-evolving-through-creativity-and-modern-experiences-4ch5"/>
+        <title type="html"><![CDATA[Continuous Delayed-Memory Stochastic Gradient Descent and Continuous-Time Reinforcement Learning from History of Astrophysical Time Series Studies]]></title>
+        <id>https://arxiv.org/abs/2609.20906</id>
+        <link href="https://arxiv.org/abs/2609.20906"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s Muse is creepy, but maybe not for the reasons you think]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy"/>
-        <updated>2026-09-19T16:00:00.000Z</updated>
-        <published>2026-09-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Do Quantum Models Scale Like LLMs?]]></title>
+        <id>https://arxiv.org/abs/2609.20912</id>
+        <link href="https://arxiv.org/abs/2609.20912"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A great new video game movie]]></title>
-        <id>https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave</id>
-        <link href="https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave"/>
-        <updated>2026-09-19T16:00:00.000Z</updated>
-        <published>2026-09-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[When AI Reviews Train AI Reviewers: Scientific-Judgment Collapse and Mitigation]]></title>
+        <id>https://arxiv.org/abs/2609.20942</id>
+        <link href="https://arxiv.org/abs/2609.20942"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A24’s reputation is on the line with the SCP Foundation movie]]></title>
-        <id>https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license</id>
-        <link href="https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license"/>
-        <updated>2026-09-19T16:00:00.000Z</updated>
-        <published>2026-09-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Efficient Bayes-Adaptive Reinforcement Learning with Temporal Logic Specifications]]></title>
+        <id>https://arxiv.org/abs/2609.20954</id>
+        <link href="https://arxiv.org/abs/2609.20954"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thermacell LIV 2.0 Review: Taking My Yard Back]]></title>
-        <id>https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/</id>
-        <link href="https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/"/>
-        <updated>2026-09-19T16:00:00.000Z</updated>
-        <published>2026-09-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[From Switching to Dynamic Regret: A Simple Reduction via Unbiased Random Sequences]]></title>
+        <id>https://arxiv.org/abs/2609.20968</id>
+        <link href="https://arxiv.org/abs/2609.20968"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta's Muse Is Better at Surveilling Than Helping Me]]></title>
-        <id>https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/</id>
-        <link href="https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/"/>
-        <updated>2026-09-19T16:00:00.000Z</updated>
-        <published>2026-09-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[ASGARD: Action-Space Guard for UAV Resilience via Reinforcement Learning]]></title>
+        <id>https://arxiv.org/abs/2609.20982</id>
+        <link href="https://arxiv.org/abs/2609.20982"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flock reportedly tries to shrink workforce with employee buyouts]]></title>
-        <id>https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/</id>
-        <link href="https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"/>
-        <updated>2026-09-19T16:00:00.000Z</updated>
-        <published>2026-09-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[From Stress to Affect: Multimodal Deep Learning for Physiological Emotion Recognition Across Wearable Sensor Modalities]]></title>
+        <id>https://arxiv.org/abs/2609.20991</id>
+        <link href="https://arxiv.org/abs/2609.20991"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google’s Gemini is the latest AI model to hack other companies]]></title>
-        <id>https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/</id>
-        <link href="https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"/>
-        <updated>2026-09-19T16:00:00.000Z</updated>
-        <published>2026-09-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[MOSAIC-SR: Transformer-Guided Symbolic Regression for Scientific Equation Recovery]]></title>
+        <id>https://arxiv.org/abs/2609.20997</id>
+        <link href="https://arxiv.org/abs/2609.20997"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6 days left to get ahead at TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/</id>
-        <link href="https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"/>
-        <updated>2026-09-19T16:00:00.000Z</updated>
-        <published>2026-09-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Stiefel-AdamW: Geometry-Aware AdamW for Linear Factorization Blocks]]></title>
+        <id>https://arxiv.org/abs/2609.21039</id>
+        <link href="https://arxiv.org/abs/2609.21039"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A small but growing number of founders are betting on bringing people together offline]]></title>
-        <id>https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/</id>
-        <link href="https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/"/>
-        <updated>2026-09-19T16:00:00.000Z</updated>
-        <published>2026-09-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A Lightweight Plug-in Gate for Transformer-Based Time-Series Forecasters]]></title>
+        <id>https://arxiv.org/abs/2609.21044</id>
+        <link href="https://arxiv.org/abs/2609.21044"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Be Careful with Your Select * Queries]]></title>
-        <id>https://notesonsystems.com/articles/why-im-done-with-select-star</id>
-        <link href="https://notesonsystems.com/articles/why-im-done-with-select-star"/>
-        <updated>2026-09-19T16:00:00.000Z</updated>
-        <published>2026-09-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[FedeRage: Provably Convergent Agnostic Federated Learning under General Client Drift]]></title>
+        <id>https://arxiv.org/abs/2609.21057</id>
+        <link href="https://arxiv.org/abs/2609.21057"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leaping Sun Dogs (2016) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=KPPaGmtuHCY</id>
-        <link href="https://www.youtube.com/watch?v=KPPaGmtuHCY"/>
-        <updated>2026-09-19T16:00:00.000Z</updated>
-        <published>2026-09-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Toward individual-level calibration in affect recognition with perceptual adjustment queries]]></title>
+        <id>https://arxiv.org/abs/2609.21073</id>
+        <link href="https://arxiv.org/abs/2609.21073"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jev is the fastest-adopted model in AI Gateway history]]></title>
-        <id>https://vercel.com/blog/ai-gateway-jev-model-launch</id>
-        <link href="https://vercel.com/blog/ai-gateway-jev-model-launch"/>
-        <updated>2026-09-19T16:00:00.000Z</updated>
-        <published>2026-09-19T16:00:00.000Z</published>
+        <title type="html"><![CDATA[REFINEPPO: Learning Continuous Control Policies by Iterative Action Refinement]]></title>
+        <id>https://arxiv.org/abs/2609.21108</id>
+        <link href="https://arxiv.org/abs/2609.21108"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talk to Me, Jarvis: An Open-Source Edge-Deployable Voice Assistant Framework for Autonomous Racecars]]></title>
+        <id>https://arxiv.org/abs/2609.21109</id>
+        <link href="https://arxiv.org/abs/2609.21109"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HMB-GAN: Hybrid Multi-B\'ezier GAN for Vector Shape Synthesis]]></title>
+        <id>https://arxiv.org/abs/2609.21158</id>
+        <link href="https://arxiv.org/abs/2609.21158"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TierKV: Long-Context On-Device LLMs via Predictive Multi-Tier KV Caching]]></title>
+        <id>https://arxiv.org/abs/2609.21172</id>
+        <link href="https://arxiv.org/abs/2609.21172"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reliability-Centered Evaluation of Sparse Longitudinal CT Lesion-Size Forecasting with Conformal Interval Calibration and Gompertz-Inspired Regularization]]></title>
+        <id>https://arxiv.org/abs/2609.21197</id>
+        <link href="https://arxiv.org/abs/2609.21197"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast And Accurate Text Content File Type Identification]]></title>
+        <id>https://arxiv.org/abs/2609.21306</id>
+        <link href="https://arxiv.org/abs/2609.21306"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Reinforcement Learning with Buffered Quantile Objectives]]></title>
+        <id>https://arxiv.org/abs/2609.21327</id>
+        <link href="https://arxiv.org/abs/2609.21327"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Routine Blood Tests Outperform CRP for Distinguishing Bacterial From Viral Infection in Children]]></title>
+        <id>https://arxiv.org/abs/2609.21332</id>
+        <link href="https://arxiv.org/abs/2609.21332"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts]]></title>
+        <id>https://arxiv.org/abs/2609.21346</id>
+        <link href="https://arxiv.org/abs/2609.21346"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge-Graph-Augmented Chronos-2 for HEC-RAS Surrogate Forecasting]]></title>
+        <id>https://arxiv.org/abs/2609.21381</id>
+        <link href="https://arxiv.org/abs/2609.21381"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probabilistic Forecasting of Business Process Executions with Neural Temporal Point Processes]]></title>
+        <id>https://arxiv.org/abs/2609.21382</id>
+        <link href="https://arxiv.org/abs/2609.21382"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracing the Evidence Behind Zero-Shot Time-Series Forecasting: A Source-First Taxonomy and Audit Framework]]></title>
+        <id>https://arxiv.org/abs/2609.21425</id>
+        <link href="https://arxiv.org/abs/2609.21425"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
     </entry>
 </feed>
