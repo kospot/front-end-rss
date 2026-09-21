@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-21T04:02:17.412Z</updated>
+    <updated>2026-09-21T07:02:22.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[体验过华为 Pura X View 后，他们最想留下的「阔体验」是……]]></title>
+        <id>https://sspai.com/post/114734</id>
+        <link href="https://sspai.com/post/114734"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World model companies are keeping a lot of secrets]]></title>
         <id>https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/</id>
@@ -29,142 +36,44 @@
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lint-HTTP 0.1.0 – Easy to use, complete HTTP traffic linter]]></title>
-        <id>https://crates.io/crates/lint-http/0.1.0</id>
-        <link href="https://crates.io/crates/lint-http/0.1.0"/>
+        <title type="html"><![CDATA[Ask HN: My recent show HN post got flagged need guidance]]></title>
+        <id>https://news.ycombinator.com/item?id=49783865</id>
+        <link href="https://news.ycombinator.com/item?id=49783865"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Presley Gerber, Son of Cindy Crawford and Rande Gerber, Dies at 27]]></title>
-        <id>https://www.hollywoodreporter.com/lifestyle/lifestyle-news/presley-gerber-dead-cindy-crawford-rande-gerber-kaia-gerber-1236706714/</id>
-        <link href="https://www.hollywoodreporter.com/lifestyle/lifestyle-news/presley-gerber-dead-cindy-crawford-rande-gerber-kaia-gerber-1236706714/"/>
+        <title type="html"><![CDATA[Rosenbjerg/local-review: Minimal webapp for local code review of branches]]></title>
+        <id>https://github.com/rosenbjerg/local-review</id>
+        <link href="https://github.com/rosenbjerg/local-review"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New wild cat species is identified for first time in 100 years]]></title>
-        <id>https://www.nbcnews.com/science/environment/new-wild-cat-species-identified-rcna598113</id>
-        <link href="https://www.nbcnews.com/science/environment/new-wild-cat-species-identified-rcna598113"/>
+        <title type="html"><![CDATA[Replacing an agentic classification loop with Jev: 7x faster]]></title>
+        <id>https://blog.r6i.it/typesafe-jev-vs-agentic-loop.html</id>
+        <link href="https://blog.r6i.it/typesafe-jev-vs-agentic-loop.html"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China is not ready for a post-American world]]></title>
-        <id>https://www.economist.com/international/2026/09/15/china-is-not-ready-for-a-post-american-world</id>
-        <link href="https://www.economist.com/international/2026/09/15/china-is-not-ready-for-a-post-american-world"/>
+        <title type="html"><![CDATA[Should you trust Al to deliver financial advice?]]></title>
+        <id>https://www.saturnos.com/report/artificial-authority</id>
+        <link href="https://www.saturnos.com/report/artificial-authority"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chemical and Biological Weapons Explained – Brett Edwards (2024) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=x3J2w7-9XC8</id>
-        <link href="https://www.youtube.com/watch?v=x3J2w7-9XC8"/>
+        <title type="html"><![CDATA[Simple and Efficient Row-Level Security]]></title>
+        <id>https://acadia.engineering/blog/simple-and-efficient-row-level-security</id>
+        <link href="https://acadia.engineering/blog/simple-and-efficient-row-level-security"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are we talking less? A Q&A with psychologist Matthias Mehl (March 2026)]]></title>
-        <id>https://news.arizona.edu/news/are-we-talking-less-qa-psychologist-matthias-mehl</id>
-        <link href="https://news.arizona.edu/news/are-we-talking-less-qa-psychologist-matthias-mehl"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turn curiosity into a map you can explore]]></title>
-        <id>https://www.echohive.ai/experiments/drift</id>
-        <link href="https://www.echohive.ai/experiments/drift"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Netscape – 1997 Chrome, 2026 AI]]></title>
-        <id>https://ainetscape.com/</id>
-        <link href="https://ainetscape.com/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Goes to the Pyramids [video]]]></title>
-        <id>https://media.ccc.de/v/kde2026-58-kde_goes_to_the_pyramids</id>
-        <link href="https://media.ccc.de/v/kde2026-58-kde_goes_to_the_pyramids"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navier-Stokes, AI, Future of Mathematics with Martin Hairer (2014 Fields Medal) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=G8HMa_tgM34</id>
-        <link href="https://www.youtube.com/watch?v=G8HMa_tgM34"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The viewers ditching streaming 'rot' in favour of DVDs]]></title>
-        <id>https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds</id>
-        <link href="https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death and Life of Chinese Civil Society]]></title>
-        <id>https://madeinchinajournal.com/2026/07/29/the-death-and-life-of-chinese-civil-society/</id>
-        <link href="https://madeinchinajournal.com/2026/07/29/the-death-and-life-of-chinese-civil-society/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How have NLP researchers adapted since LLM disrupted their field]]></title>
-        <id>https://news.ycombinator.com/item?id=49780238</id>
-        <link href="https://news.ycombinator.com/item?id=49780238"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is this website more boring than it used to be, or am I just used to it?]]></title>
-        <id>https://news.ycombinator.com/item?id=49780267</id>
-        <link href="https://news.ycombinator.com/item?id=49780267"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omarchy Quattro [video]]]></title>
-        <id>https://www.youtube.com/watch?v=F7fe9pa8OeE</id>
-        <link href="https://www.youtube.com/watch?v=F7fe9pa8OeE"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's Easy to Dismiss Jev as Just a Classifier]]></title>
-        <id>https://sebastianraschka.com/blog/2026/jev-classification-generalization.html</id>
-        <link href="https://sebastianraschka.com/blog/2026/jev-classification-generalization.html"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mini-Microsoft Wins at Last]]></title>
-        <id>https://molochinations.substack.com/p/mini-microsoft-wins-at-last</id>
-        <link href="https://molochinations.substack.com/p/mini-microsoft-wins-at-last"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nipple tattooist 'frustrated' by online censorship]]></title>
-        <id>https://www.bbc.com/news/articles/cx2z7ejn891o</id>
-        <link href="https://www.bbc.com/news/articles/cx2z7ejn891o"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It]]></title>
-        <id>https://arxiv.org/abs/2609.16247</id>
-        <link href="https://arxiv.org/abs/2609.16247"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A study of sequence weighting at scale]]></title>
-        <id>https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/</id>
-        <link href="https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/"/>
+        <title type="html"><![CDATA[UK productivity grew twice as fast as thought after 2008 financial crisis]]></title>
+        <id>https://www.ft.com/content/560fc2ad-5c7e-4878-ae9b-a3183004c394</id>
+        <link href="https://www.ft.com/content/560fc2ad-5c7e-4878-ae9b-a3183004c394"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
@@ -176,9 +85,156 @@
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK productivity grew twice as fast as thought after 2008 financial crisis]]></title>
-        <id>https://www.ft.com/content/560fc2ad-5c7e-4878-ae9b-a3183004c394</id>
-        <link href="https://www.ft.com/content/560fc2ad-5c7e-4878-ae9b-a3183004c394"/>
+        <title type="html"><![CDATA[A study of sequence weighting at scale]]></title>
+        <id>https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/</id>
+        <link href="https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It]]></title>
+        <id>https://arxiv.org/abs/2609.16247</id>
+        <link href="https://arxiv.org/abs/2609.16247"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nipple tattooist 'frustrated' by online censorship]]></title>
+        <id>https://www.bbc.com/news/articles/cx2z7ejn891o</id>
+        <link href="https://www.bbc.com/news/articles/cx2z7ejn891o"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mini-Microsoft Wins at Last]]></title>
+        <id>https://molochinations.substack.com/p/mini-microsoft-wins-at-last</id>
+        <link href="https://molochinations.substack.com/p/mini-microsoft-wins-at-last"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Easy to Dismiss Jev as Just a Classifier]]></title>
+        <id>https://sebastianraschka.com/blog/2026/jev-classification-generalization.html</id>
+        <link href="https://sebastianraschka.com/blog/2026/jev-classification-generalization.html"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omarchy Quattro [video]]]></title>
+        <id>https://www.youtube.com/watch?v=F7fe9pa8OeE</id>
+        <link href="https://www.youtube.com/watch?v=F7fe9pa8OeE"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is this website more boring than it used to be, or am I just used to it?]]></title>
+        <id>https://news.ycombinator.com/item?id=49780267</id>
+        <link href="https://news.ycombinator.com/item?id=49780267"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How have NLP researchers adapted since LLM disrupted their field]]></title>
+        <id>https://news.ycombinator.com/item?id=49780238</id>
+        <link href="https://news.ycombinator.com/item?id=49780238"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Death and Life of Chinese Civil Society]]></title>
+        <id>https://madeinchinajournal.com/2026/07/29/the-death-and-life-of-chinese-civil-society/</id>
+        <link href="https://madeinchinajournal.com/2026/07/29/the-death-and-life-of-chinese-civil-society/"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The viewers ditching streaming 'rot' in favour of DVDs]]></title>
+        <id>https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds</id>
+        <link href="https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navier-Stokes, AI, Future of Mathematics with Martin Hairer (2014 Fields Medal) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=G8HMa_tgM34</id>
+        <link href="https://www.youtube.com/watch?v=G8HMa_tgM34"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Goes to the Pyramids [video]]]></title>
+        <id>https://media.ccc.de/v/kde2026-58-kde_goes_to_the_pyramids</id>
+        <link href="https://media.ccc.de/v/kde2026-58-kde_goes_to_the_pyramids"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Netscape – 1997 Chrome, 2026 AI]]></title>
+        <id>https://ainetscape.com/</id>
+        <link href="https://ainetscape.com/"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turn curiosity into a map you can explore]]></title>
+        <id>https://www.echohive.ai/experiments/drift</id>
+        <link href="https://www.echohive.ai/experiments/drift"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are we talking less? A Q&A with psychologist Matthias Mehl (March 2026)]]></title>
+        <id>https://news.arizona.edu/news/are-we-talking-less-qa-psychologist-matthias-mehl</id>
+        <link href="https://news.arizona.edu/news/are-we-talking-less-qa-psychologist-matthias-mehl"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chemical and Biological Weapons Explained – Brett Edwards (2024) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=x3J2w7-9XC8</id>
+        <link href="https://www.youtube.com/watch?v=x3J2w7-9XC8"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China is not ready for a post-American world]]></title>
+        <id>https://www.economist.com/international/2026/09/15/china-is-not-ready-for-a-post-american-world</id>
+        <link href="https://www.economist.com/international/2026/09/15/china-is-not-ready-for-a-post-american-world"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New wild cat species is identified for first time in 100 years]]></title>
+        <id>https://www.nbcnews.com/science/environment/new-wild-cat-species-identified-rcna598113</id>
+        <link href="https://www.nbcnews.com/science/environment/new-wild-cat-species-identified-rcna598113"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presley Gerber, Son of Cindy Crawford and Rande Gerber, Dies at 27]]></title>
+        <id>https://www.hollywoodreporter.com/lifestyle/lifestyle-news/presley-gerber-dead-cindy-crawford-rande-gerber-kaia-gerber-1236706714/</id>
+        <link href="https://www.hollywoodreporter.com/lifestyle/lifestyle-news/presley-gerber-dead-cindy-crawford-rande-gerber-kaia-gerber-1236706714/"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lint-HTTP 0.1.0 – Easy to use, complete HTTP traffic linter]]></title>
+        <id>https://crates.io/crates/lint-http/0.1.0</id>
+        <link href="https://crates.io/crates/lint-http/0.1.0"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Does LangChain's New Jev Auto Mode Forget Your Request at Tool Call 16?]]></title>
+        <id>https://pub.towardsai.net/why-does-langchains-new-jev-auto-mode-forget-your-request-at-tool-call-16-493b5018a259?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-does-langchains-new-jev-auto-mode-forget-your-request-at-tool-call-16-493b5018a259?source=rss----98111c9905da---4"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek-V3: The Engineering Behind a Frontier Language Model — Part 1]]></title>
+        <id>https://pub.towardsai.net/inside-deepseek-v3-the-engineering-behind-a-frontier-language-model-part-1-7e2b371abb05?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/inside-deepseek-v3-the-engineering-behind-a-frontier-language-model-part-1-7e2b371abb05?source=rss----98111c9905da---4"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
@@ -305,62 +361,6 @@
         <title type="html"><![CDATA[TierKV: Long-Context On-Device LLMs via Predictive Multi-Tier KV Caching]]></title>
         <id>https://arxiv.org/abs/2609.21172</id>
         <link href="https://arxiv.org/abs/2609.21172"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reliability-Centered Evaluation of Sparse Longitudinal CT Lesion-Size Forecasting with Conformal Interval Calibration and Gompertz-Inspired Regularization]]></title>
-        <id>https://arxiv.org/abs/2609.21197</id>
-        <link href="https://arxiv.org/abs/2609.21197"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast And Accurate Text Content File Type Identification]]></title>
-        <id>https://arxiv.org/abs/2609.21306</id>
-        <link href="https://arxiv.org/abs/2609.21306"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Reinforcement Learning with Buffered Quantile Objectives]]></title>
-        <id>https://arxiv.org/abs/2609.21327</id>
-        <link href="https://arxiv.org/abs/2609.21327"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Routine Blood Tests Outperform CRP for Distinguishing Bacterial From Viral Infection in Children]]></title>
-        <id>https://arxiv.org/abs/2609.21332</id>
-        <link href="https://arxiv.org/abs/2609.21332"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts]]></title>
-        <id>https://arxiv.org/abs/2609.21346</id>
-        <link href="https://arxiv.org/abs/2609.21346"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knowledge-Graph-Augmented Chronos-2 for HEC-RAS Surrogate Forecasting]]></title>
-        <id>https://arxiv.org/abs/2609.21381</id>
-        <link href="https://arxiv.org/abs/2609.21381"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probabilistic Forecasting of Business Process Executions with Neural Temporal Point Processes]]></title>
-        <id>https://arxiv.org/abs/2609.21382</id>
-        <link href="https://arxiv.org/abs/2609.21382"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tracing the Evidence Behind Zero-Shot Time-Series Forecasting: A Source-First Taxonomy and Audit Framework]]></title>
-        <id>https://arxiv.org/abs/2609.21425</id>
-        <link href="https://arxiv.org/abs/2609.21425"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
