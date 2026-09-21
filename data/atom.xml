@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-21T13:03:16.128Z</updated>
+    <updated>2026-09-21T15:02:59.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,9 @@
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s clever software solution lets iPhone batteries skirt shipping limits]]></title>
-        <id>https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit</id>
-        <link href="https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit"/>
+        <title type="html"><![CDATA[iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement]]></title>
+        <id>https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement</id>
+        <link href="https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
@@ -36,9 +36,23 @@
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory]]></title>
-        <id>https://www.wired.com/review/bambu-p2s-combo-3d-printer/</id>
-        <link href="https://www.wired.com/review/bambu-p2s-combo-3d-printer/"/>
+        <title type="html"><![CDATA[Apple’s clever software solution lets iPhone batteries skirt shipping limits]]></title>
+        <id>https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit</id>
+        <link href="https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Mac Mini (M6) Review: For the AI Curious]]></title>
+        <id>https://www.wired.com/review/apple-mac-mini-m6/</id>
+        <link href="https://www.wired.com/review/apple-mac-mini-m6/"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow]]></title>
+        <id>https://www.wired.com/review/factor-perpared-meals-2026/</id>
+        <link href="https://www.wired.com/review/factor-perpared-meals-2026/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
@@ -50,9 +64,9 @@
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow]]></title>
-        <id>https://www.wired.com/review/factor-perpared-meals-2026/</id>
-        <link href="https://www.wired.com/review/factor-perpared-meals-2026/"/>
+        <title type="html"><![CDATA[Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory]]></title>
+        <id>https://www.wired.com/review/bambu-p2s-combo-3d-printer/</id>
+        <link href="https://www.wired.com/review/bambu-p2s-combo-3d-printer/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Engineering Memory: Thoughts on learning to memorize first 100 digits of pi]]></title>
         <id>https://gregorygundersen.com/blog/2024/12/21/engineering-memory/</id>
         <link href="https://gregorygundersen.com/blog/2024/12/21/engineering-memory/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Six Frontier AI Models Traded $60,000 in Real Money for 17 Days — the Leaderboard Lied to Everyone…]]></title>
-        <id>https://pub.towardsai.net/six-frontier-ai-models-traded-60-000-in-real-money-for-17-days-the-leaderboard-lied-to-everyone-9f73591a8d4b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/six-frontier-ai-models-traded-60-000-in-real-money-for-17-days-the-leaderboard-lied-to-everyone-9f73591a8d4b?source=rss----98111c9905da---4"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI Query Got 33x More Efficient. The Power Grid Is Still Buckling Anyway.]]></title>
-        <id>https://pub.towardsai.net/your-ai-query-got-33x-more-efficient-the-power-grid-is-still-buckling-anyway-34968a7173f9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-ai-query-got-33x-more-efficient-the-power-grid-is-still-buckling-anyway-34968a7173f9?source=rss----98111c9905da---4"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
