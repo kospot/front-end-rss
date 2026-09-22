@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-22T10:01:52.367Z</updated>
+    <updated>2026-09-22T13:03:29.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,16 +29,9 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can you forget how you feel about Meta?]]></title>
-        <id>https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram</id>
-        <link href="https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paramount settles lawsuit blocking $110 billion Warner Bros. merger]]></title>
-        <id>https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement</id>
-        <link href="https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement"/>
+        <title type="html"><![CDATA[Meta patches Muse exploit that let attackers control the AI agent]]></title>
+        <id>https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent</id>
+        <link href="https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -50,23 +43,51 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records]]></title>
-        <id>https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/</id>
-        <link href="https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/"/>
+        <title type="html"><![CDATA[Paramount settles lawsuit blocking $110 billion Warner Bros. merger]]></title>
+        <id>https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement</id>
+        <link href="https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Western Digital Promo Code: 15% Off]]></title>
-        <id>https://www.wired.com/story/western-digital-promo-code/</id>
-        <link href="https://www.wired.com/story/western-digital-promo-code/"/>
+        <title type="html"><![CDATA[Can you forget how you feel about Meta?]]></title>
+        <id>https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram</id>
+        <link href="https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logitech Promo Codes and Deals: Up to $100 Off]]></title>
-        <id>https://www.wired.com/story/logitech-promo-code/</id>
-        <link href="https://www.wired.com/story/logitech-promo-code/"/>
+        <title type="html"><![CDATA[Viture’s Vonder Glasses Are Meant to Map Your Mind]]></title>
+        <id>https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/</id>
+        <link href="https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Premiere, One of the iPhone’s Best Video-Editing Apps, Is Now on Android]]></title>
+        <id>https://www.wired.com/story/adobe-premiere-now-on-android/</id>
+        <link href="https://www.wired.com/story/adobe-premiere-now-on-android/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoPro Mission 1 Pro ILS Review (2026): Cinema-Quality Action Cam]]></title>
+        <id>https://www.wired.com/review/gopro-mission-1-ils-camera/</id>
+        <link href="https://www.wired.com/review/gopro-mission-1-ils-camera/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built AI Clones of My Coworkers. Things Got Weird]]></title>
+        <id>https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/</id>
+        <link href="https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight]]></title>
+        <id>https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/</id>
+        <link href="https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -78,30 +99,37 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Morphotonics raises €40M to expand its display tech into data centers]]></title>
-        <id>https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/</id>
-        <link href="https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/"/>
+        <title type="html"><![CDATA[Logitech Promo Codes and Deals: Up to $100 Off]]></title>
+        <id>https://www.wired.com/story/logitech-promo-code/</id>
+        <link href="https://www.wired.com/story/logitech-promo-code/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s Muse is outpacing ChatGPT’s early mobile launch]]></title>
-        <id>https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/</id>
-        <link href="https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"/>
+        <title type="html"><![CDATA[Western Digital Promo Code: 15% Off]]></title>
+        <id>https://www.wired.com/story/western-digital-promo-code/</id>
+        <link href="https://www.wired.com/story/western-digital-promo-code/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google]]></title>
-        <id>https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/</id>
-        <link href="https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/"/>
+        <title type="html"><![CDATA[A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records]]></title>
+        <id>https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/</id>
+        <link href="https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s AI agent has been blocked from using Amazon.com]]></title>
-        <id>https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/</id>
-        <link href="https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"/>
+        <title type="html"><![CDATA[Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again]]></title>
+        <id>https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/</id>
+        <link href="https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta deal will help plastics recycling startup MacroCycle build its first factory]]></title>
+        <id>https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/</id>
+        <link href="https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -113,121 +141,79 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeSafe AI Jev vs. GPT-6 Astra]]></title>
-        <id>https://vercel.com/i/jev-vs-gpt-6-astra</id>
-        <link href="https://vercel.com/i/jev-vs-gpt-6-astra"/>
+        <title type="html"><![CDATA[Meta’s AI agent has been blocked from using Amazon.com]]></title>
+        <id>https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/</id>
+        <link href="https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Detecting and Tracking Flying Objects]]></title>
-        <id>https://intellycode.dev/case-studies/drone-detection</id>
-        <link href="https://intellycode.dev/case-studies/drone-detection"/>
+        <title type="html"><![CDATA[Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google]]></title>
+        <id>https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/</id>
+        <link href="https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verda (Finland) raises $189M in Series B]]></title>
-        <id>https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers</id>
-        <link href="https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers"/>
+        <title type="html"><![CDATA[Meta’s Muse is outpacing ChatGPT’s early mobile launch]]></title>
+        <id>https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/</id>
+        <link href="https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Commodore's forgotten Amiga Unix gets a modern revival]]></title>
-        <id>https://www.theregister.com/software/2026/09/22/commodores-forgotten-amiga-unix-gets-a-modern-revival/5297805</id>
-        <link href="https://www.theregister.com/software/2026/09/22/commodores-forgotten-amiga-unix-gets-a-modern-revival/5297805"/>
+        <title type="html"><![CDATA[Morphotonics raises €40M to expand its display tech into data centers]]></title>
+        <id>https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/</id>
+        <link href="https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lean Verified Transformers]]></title>
-        <id>https://srush.github.io/lean-transformer/</id>
-        <link href="https://srush.github.io/lean-transformer/"/>
+        <title type="html"><![CDATA[Create digital product stores in minutes and start earning your first dollars]]></title>
+        <id>https://cloud.freshlimepay.com/?lang=en</id>
+        <link href="https://cloud.freshlimepay.com/?lang=en"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lula Footage Dataset]]></title>
-        <id>https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train</id>
-        <link href="https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train"/>
+        <title type="html"><![CDATA[ForgeMT: Multi-tenant platform for self-hosted GitHub Actions runners on AWS]]></title>
+        <id>https://github.com/cisco-open/forge</id>
+        <link href="https://github.com/cisco-open/forge"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built an AI Dating Assistant Because Swiping Is Statistically Inefficient]]></title>
-        <id>https://medium.com/@mgcblee/i-built-an-ai-dating-assistant-because-swiping-is-statistically-inefficient-bdafd31c0738</id>
-        <link href="https://medium.com/@mgcblee/i-built-an-ai-dating-assistant-because-swiping-is-statistically-inefficient-bdafd31c0738"/>
+        <title type="html"><![CDATA[Google's Intrinsic open-sources its infrastructure for intelligent robots]]></title>
+        <id>https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/</id>
+        <link href="https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LibreOffice dev explains why it cannot display some Microsoft Office charts]]></title>
-        <id>https://www.neowin.net/news/libreoffice-developer-explains-why-it-cannot-display-some-microsoft-office-charts/</id>
-        <link href="https://www.neowin.net/news/libreoffice-developer-explains-why-it-cannot-display-some-microsoft-office-charts/"/>
+        <title type="html"><![CDATA[MongoDB Sharding: Manage a Sharded Cluster Visually]]></title>
+        <id>https://visualeaf.com/blog/mongodb-sharding-manage-sharded-cluster-visually/</id>
+        <link href="https://visualeaf.com/blog/mongodb-sharding-manage-sharded-cluster-visually/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I_am_done_with_this_shit]]></title>
-        <id>https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/</id>
-        <link href="https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/"/>
+        <title type="html"><![CDATA[Hedge-fund manager built his firm to be powered by AI agents]]></title>
+        <id>https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html</id>
+        <link href="https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Edit HTML Directly in the Browser]]></title>
-        <id>https://github.com/kenxle/live-agentic-html-editor</id>
-        <link href="https://github.com/kenxle/live-agentic-html-editor"/>
+        <title type="html"><![CDATA[I built 13 small Apify Actors this month, mostly AI-grounded]]></title>
+        <id>https://apify.com/rumi7911</id>
+        <link href="https://apify.com/rumi7911"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: ghfs – A read-only FUSE filesystem that keeps GitHub issues on disk]]></title>
-        <id>https://ghfs.dev/</id>
-        <link href="https://ghfs.dev/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Apple Succeeded in Japan [video]]]></title>
-        <id>https://www.youtube.com/watch?v=vkJU1nmI55I</id>
-        <link href="https://www.youtube.com/watch?v=vkJU1nmI55I"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 out of 9 Planetary Boundaries are breached]]></title>
-        <id>https://www.planetaryhealthcheck.org/</id>
-        <link href="https://www.planetaryhealthcheck.org/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD briefly joins the $1T club]]></title>
-        <id>https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998</id>
-        <link href="https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Exploitation Techniques: Dangling COM Object Registrations]]></title>
-        <id>https://projectzero.google/2026/09/windows-dangling-com.html</id>
-        <link href="https://projectzero.google/2026/09/windows-dangling-com.html"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be the first human to review your own code]]></title>
-        <id>https://abhinavr.me/posts/be-the-first-human-to-review-your-own-code/</id>
-        <link href="https://abhinavr.me/posts/be-the-first-human-to-review-your-own-code/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complex KDA:Understanding and Enhancing the Expressivity of Kimi Delta Attention]]></title>
-        <id>https://arxiv.org/abs/2609.24797</id>
-        <link href="https://arxiv.org/abs/2609.24797"/>
+        <title type="html"><![CDATA[Devin Fusion: the first multi-model coding agent on the Pareto frontier]]></title>
+        <id>https://twitter.com/ArtificialAnlys/status/2098504939781906684</id>
+        <link href="https://twitter.com/ArtificialAnlys/status/2098504939781906684"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -239,51 +225,121 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jev AI Just Killed the Most Wasteful Habit in Software (And Nobody’s Talking About It)]]></title>
-        <id>https://pub.towardsai.net/jev-ai-just-killed-the-most-wasteful-habit-in-software-and-nobodys-talking-about-it-576706112df6?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/jev-ai-just-killed-the-most-wasteful-habit-in-software-and-nobodys-talking-about-it-576706112df6?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Complex KDA:Understanding and Enhancing the Expressivity of Kimi Delta Attention]]></title>
+        <id>https://arxiv.org/abs/2609.24797</id>
+        <link href="https://arxiv.org/abs/2609.24797"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The End of General-Purpose AI? GPU, TPU, & ASIC Explained]]></title>
-        <id>https://pub.towardsai.net/the-end-of-general-purpose-ai-gpu-tpu-asic-explained-a6ebb8151a57?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-end-of-general-purpose-ai-gpu-tpu-asic-explained-a6ebb8151a57?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Be the first human to review your own code]]></title>
+        <id>https://abhinavr.me/posts/be-the-first-human-to-review-your-own-code/</id>
+        <link href="https://abhinavr.me/posts/be-the-first-human-to-review-your-own-code/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why AI Infrastructure Could Be More Valuable Than AI Applications]]></title>
-        <id>https://pub.towardsai.net/why-ai-infrastructure-could-be-more-valuable-than-ai-applications-9fe7253970a0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-ai-infrastructure-could-be-more-valuable-than-ai-applications-9fe7253970a0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Windows Exploitation Techniques: Dangling COM Object Registrations]]></title>
+        <id>https://projectzero.google/2026/09/windows-dangling-com.html</id>
+        <link href="https://projectzero.google/2026/09/windows-dangling-com.html"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stanford’s 37,000 AI Agents Put Reasoning-Layer Governance on the Life Sciences Agenda]]></title>
-        <id>https://pub.towardsai.net/stanfords-37-000-ai-agents-put-reasoning-layer-governance-on-the-life-sciences-agenda-1b2d5d45e6b7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/stanfords-37-000-ai-agents-put-reasoning-layer-governance-on-the-life-sciences-agenda-1b2d5d45e6b7?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[AMD briefly joins the $1T club]]></title>
+        <id>https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998</id>
+        <link href="https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring Impact When You Can’t A/B Test — a Quick and Practical Guide to Causal Inference]]></title>
-        <id>https://pub.towardsai.net/causal-inference-without-ab-testing-3ddf8996ffee?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/causal-inference-without-ab-testing-3ddf8996ffee?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[7 out of 9 Planetary Boundaries are breached]]></title>
+        <id>https://www.planetaryhealthcheck.org/</id>
+        <link href="https://www.planetaryhealthcheck.org/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GLM-5.3-Flash vs GPT-6 Astra: the open model that rewrites the cost equation]]></title>
-        <id>https://pub.towardsai.net/glm-5-3-flash-vs-gpt-6-astra-the-open-model-that-rewrites-the-cost-equation-a132406aa464?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/glm-5-3-flash-vs-gpt-6-astra-the-open-model-that-rewrites-the-cost-equation-a132406aa464?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why Apple Succeeded in Japan [video]]]></title>
+        <id>https://www.youtube.com/watch?v=vkJU1nmI55I</id>
+        <link href="https://www.youtube.com/watch?v=vkJU1nmI55I"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The AI Model That Doesn’t Generate Text Is Up to 200x Faster]]></title>
-        <id>https://pub.towardsai.net/the-ai-model-that-doesnt-generate-text-is-up-to-200x-faster-9d2c6da82e51?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-ai-model-that-doesnt-generate-text-is-up-to-200x-faster-9d2c6da82e51?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: ghfs – A read-only FUSE filesystem that keeps GitHub issues on disk]]></title>
+        <id>https://ghfs.dev/</id>
+        <link href="https://ghfs.dev/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edit HTML Directly in the Browser]]></title>
+        <id>https://github.com/kenxle/live-agentic-html-editor</id>
+        <link href="https://github.com/kenxle/live-agentic-html-editor"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I_am_done_with_this_shit]]></title>
+        <id>https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/</id>
+        <link href="https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice dev explains why it cannot display some Microsoft Office charts]]></title>
+        <id>https://www.neowin.net/news/libreoffice-developer-explains-why-it-cannot-display-some-microsoft-office-charts/</id>
+        <link href="https://www.neowin.net/news/libreoffice-developer-explains-why-it-cannot-display-some-microsoft-office-charts/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built an AI Dating Assistant Because Swiping Is Statistically Inefficient]]></title>
+        <id>https://medium.com/@mgcblee/i-built-an-ai-dating-assistant-because-swiping-is-statistically-inefficient-bdafd31c0738</id>
+        <link href="https://medium.com/@mgcblee/i-built-an-ai-dating-assistant-because-swiping-is-statistically-inefficient-bdafd31c0738"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lula Footage Dataset]]></title>
+        <id>https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train</id>
+        <link href="https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lean Verified Transformers]]></title>
+        <id>https://srush.github.io/lean-transformer/</id>
+        <link href="https://srush.github.io/lean-transformer/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commodore's forgotten Amiga Unix gets a modern revival]]></title>
+        <id>https://www.theregister.com/software/2026/09/22/commodores-forgotten-amiga-unix-gets-a-modern-revival/5297805</id>
+        <link href="https://www.theregister.com/software/2026/09/22/commodores-forgotten-amiga-unix-gets-a-modern-revival/5297805"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verda (Finland) raises $189M in Series B]]></title>
+        <id>https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers</id>
+        <link href="https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting and Tracking Flying Objects]]></title>
+        <id>https://intellycode.dev/case-studies/drone-detection</id>
+        <link href="https://intellycode.dev/case-studies/drone-detection"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeSafe AI Jev vs. GPT-6 Astra]]></title>
+        <id>https://vercel.com/i/jev-vs-gpt-6-astra</id>
+        <link href="https://vercel.com/i/jev-vs-gpt-6-astra"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -295,72 +351,16 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare Python Workers are now generally available]]></title>
-        <id>https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/</id>
-        <link href="https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/"/>
+        <title type="html"><![CDATA[The AI Model That Doesn’t Generate Text Is Up to 200x Faster]]></title>
+        <id>https://pub.towardsai.net/the-ai-model-that-doesnt-generate-text-is-up-to-200x-faster-9d2c6da82e51?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-ai-model-that-doesnt-generate-text-is-up-to-200x-faster-9d2c6da82e51?source=rss----98111c9905da---4"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rank Portability Does Not Imply Feasibility Portability: Target-Specific Evaluation of Joint Hardware Constraints]]></title>
-        <id>https://arxiv.org/abs/2609.22122</id>
-        <link href="https://arxiv.org/abs/2609.22122"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StationPDE: Station-Oriented Surface PDE Learning for Multi-Station Multivariate Weather Forecasting]]></title>
-        <id>https://arxiv.org/abs/2609.22123</id>
-        <link href="https://arxiv.org/abs/2609.22123"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helix-FNO: Spectral-Domain Operator Learning Coupled with a High-Fidelity Mechanistic Model for Fast Surrogate Simulation]]></title>
-        <id>https://arxiv.org/abs/2609.22129</id>
-        <link href="https://arxiv.org/abs/2609.22129"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hierarchical Bayesian optimization of an aircraft-based multi-agent system-of-systems]]></title>
-        <id>https://arxiv.org/abs/2609.22130</id>
-        <link href="https://arxiv.org/abs/2609.22130"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weak Ties, Strong Signals: Efficient Training Data Detection in Diffusion LLMs via Independent Token Sampling]]></title>
-        <id>https://arxiv.org/abs/2609.22145</id>
-        <link href="https://arxiv.org/abs/2609.22145"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GRRR: The Geometry of Reshaping, Rotation, and Routing in Decoder LLM post-training]]></title>
-        <id>https://arxiv.org/abs/2609.22146</id>
-        <link href="https://arxiv.org/abs/2609.22146"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SafeTune: A Unified Faithful Library for Auditing and Repairing Safety Drift in Fine-Tuned LLMs]]></title>
-        <id>https://arxiv.org/abs/2609.22153</id>
-        <link href="https://arxiv.org/abs/2609.22153"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Latent Biomarkers to Clinical Rules: Embedding-Guided Rule Mining and Attribution-Based Translation for Interpretable Tabular Learning]]></title>
-        <id>https://arxiv.org/abs/2609.22155</id>
-        <link href="https://arxiv.org/abs/2609.22155"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TARGet: Topology-Aware Fusion-based Radio Frequency Circuit Functional Modeling using Graph Neural Networks]]></title>
-        <id>https://arxiv.org/abs/2609.22165</id>
-        <link href="https://arxiv.org/abs/2609.22165"/>
+        <title type="html"><![CDATA[GLM-5.3-Flash vs GPT-6 Astra: the open model that rewrites the cost equation]]></title>
+        <id>https://pub.towardsai.net/glm-5-3-flash-vs-gpt-6-astra-the-open-model-that-rewrites-the-cost-equation-a132406aa464?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/glm-5-3-flash-vs-gpt-6-astra-the-open-model-that-rewrites-the-cost-equation-a132406aa464?source=rss----98111c9905da---4"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
