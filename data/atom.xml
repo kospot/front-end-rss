@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-21T22:01:24.257Z</updated>
+    <updated>2026-09-22T00:01:08.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,13 +15,6 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Paramount settles lawsuit blocking $110 billion Warner Bros. merger]]></title>
-        <id>https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement</id>
-        <link href="https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content]]></title>
         <id>https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations</id>
         <link href="https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations"/>
@@ -29,23 +22,9 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s Muse is outpacing ChatGPT’s early mobile launch]]></title>
-        <id>https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/</id>
-        <link href="https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google]]></title>
-        <id>https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/</id>
-        <link href="https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s AI agent has been blocked from using Amazon.com]]></title>
-        <id>https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/</id>
-        <link href="https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"/>
+        <title type="html"><![CDATA[Paramount settles lawsuit blocking $110 billion Warner Bros. merger]]></title>
+        <id>https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement</id>
+        <link href="https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -57,30 +36,37 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code Skills vs Subagents vs Hooks vs Workflows: Which to Use in 2026]]></title>
-        <id>https://pub.towardsai.net/claude-code-skills-vs-subagents-vs-hooks-vs-workflows-which-to-use-in-2026-120db6ae5b3c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-code-skills-vs-subagents-vs-hooks-vs-workflows-which-to-use-in-2026-120db6ae5b3c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Meta’s AI agent has been blocked from using Amazon.com]]></title>
+        <id>https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/</id>
+        <link href="https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The AI Model That Doesn’t Generate Text Is Up to 200x Faster]]></title>
-        <id>https://pub.towardsai.net/the-ai-model-that-doesnt-generate-text-is-up-to-200x-faster-9d2c6da82e51?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-ai-model-that-doesnt-generate-text-is-up-to-200x-faster-9d2c6da82e51?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google]]></title>
+        <id>https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/</id>
+        <link href="https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GLM-5.3-Flash vs GPT-6 Astra: the open model that rewrites the cost equation]]></title>
-        <id>https://pub.towardsai.net/glm-5-3-flash-vs-gpt-6-astra-the-open-model-that-rewrites-the-cost-equation-a132406aa464?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/glm-5-3-flash-vs-gpt-6-astra-the-open-model-that-rewrites-the-cost-equation-a132406aa464?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Meta’s Muse is outpacing ChatGPT’s early mobile launch]]></title>
+        <id>https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/</id>
+        <link href="https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring Impact When You Can’t A/B Test — a Quick and Practical Guide to Causal Inference]]></title>
-        <id>https://pub.towardsai.net/causal-inference-without-ab-testing-3ddf8996ffee?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/causal-inference-without-ab-testing-3ddf8996ffee?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[7 out of 9 Planetary Boundaries are breached]]></title>
+        <id>https://www.planetaryhealthcheck.org/</id>
+        <link href="https://www.planetaryhealthcheck.org/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI Infrastructure Could Be More Valuable Than AI Applications]]></title>
+        <id>https://pub.towardsai.net/why-ai-infrastructure-could-be-more-valuable-than-ai-applications-9fe7253970a0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-ai-infrastructure-could-be-more-valuable-than-ai-applications-9fe7253970a0?source=rss----98111c9905da---4"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -92,44 +78,100 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java'ya Veda Edin: %100 Tarayıcı Tabanlı Açık Kaynak UYAP UDF Editörü (PDF, DOCX ve OCR Destekli) 🚀]]></title>
-        <id>https://dev.to/eimza/javaya-veda-edin-100-tarayici-tabanli-acik-kaynak-uyap-udf-editoru-pdf-docx-ve-ocr-destekli-1c2b</id>
-        <link href="https://dev.to/eimza/javaya-veda-edin-100-tarayici-tabanli-acik-kaynak-uyap-udf-editoru-pdf-docx-ve-ocr-destekli-1c2b"/>
+        <title type="html"><![CDATA[Measuring Impact When You Can’t A/B Test — a Quick and Practical Guide to Causal Inference]]></title>
+        <id>https://pub.towardsai.net/causal-inference-without-ab-testing-3ddf8996ffee?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/causal-inference-without-ab-testing-3ddf8996ffee?source=rss----98111c9905da---4"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pinterest CAPI Requires event_id. Meta Only Warns on the Same Field.]]></title>
-        <id>https://dev.to/aleksuix/pinterest-capi-requires-eventid-meta-only-warns-on-the-same-field-3ek8</id>
-        <link href="https://dev.to/aleksuix/pinterest-capi-requires-eventid-meta-only-warns-on-the-same-field-3ek8"/>
+        <title type="html"><![CDATA[GLM-5.3-Flash vs GPT-6 Astra: the open model that rewrites the cost equation]]></title>
+        <id>https://pub.towardsai.net/glm-5-3-flash-vs-gpt-6-astra-the-open-model-that-rewrites-the-cost-equation-a132406aa464?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/glm-5-3-flash-vs-gpt-6-astra-the-open-model-that-rewrites-the-cost-equation-a132406aa464?source=rss----98111c9905da---4"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Benchmarked Five Ways to Speed Up a Slow React Table. Two of Them Did Nothing.]]></title>
-        <id>https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i</id>
-        <link href="https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i"/>
+        <title type="html"><![CDATA[The AI Model That Doesn’t Generate Text Is Up to 200x Faster]]></title>
+        <id>https://pub.towardsai.net/the-ai-model-that-doesnt-generate-text-is-up-to-200x-faster-9d2c6da82e51?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-ai-model-that-doesnt-generate-text-is-up-to-200x-faster-9d2c6da82e51?source=rss----98111c9905da---4"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Turned 36 Free GitHub Tools into a $9.99 Product (Zero Backend)]]></title>
-        <id>https://dev.to/473185670/how-i-turned-36-free-github-tools-into-a-999-product-zero-backend-278l</id>
-        <link href="https://dev.to/473185670/how-i-turned-36-free-github-tools-into-a-999-product-zero-backend-278l"/>
+        <title type="html"><![CDATA[Claude Code Skills vs Subagents vs Hooks vs Workflows: Which to Use in 2026]]></title>
+        <id>https://pub.towardsai.net/claude-code-skills-vs-subagents-vs-hooks-vs-workflows-which-to-use-in-2026-120db6ae5b3c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-code-skills-vs-subagents-vs-hooks-vs-workflows-which-to-use-in-2026-120db6ae5b3c?source=rss----98111c9905da---4"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 91 Buy Verified Payoneer Account Websites – 2026 Edition]]></title>
-        <id>https://dev.to/joshua_fisher_ff455b9f60a/top-91-buy-verified-payoneer-account-websites-2026-edition-57p3</id>
-        <link href="https://dev.to/joshua_fisher_ff455b9f60a/top-91-buy-verified-payoneer-account-websites-2026-edition-57p3"/>
+        <title type="html"><![CDATA[Cloudflare Python Workers are now generally available]]></title>
+        <id>https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/</id>
+        <link href="https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Benchmarked My Vanilla JS CBT Detector Against 5 NLP Libraries — Here Is When Rule-Based Wins]]></title>
-        <id>https://dev.to/473185670/i-benchmarked-my-vanilla-js-cbt-detector-against-5-nlp-libraries-here-is-when-rule-based-wins-2068</id>
-        <link href="https://dev.to/473185670/i-benchmarked-my-vanilla-js-cbt-detector-against-5-nlp-libraries-here-is-when-rule-based-wins-2068"/>
+        <title type="html"><![CDATA[How I built an in-browser RAW photo editor with zero server uploads (WebGL/Client-side)]]></title>
+        <id>https://dev.to/ham_snap_c9f34bca7dfdc1fe/how-i-built-an-in-browser-raw-photo-editor-with-zero-server-uploads-webglclient-side-27dl</id>
+        <link href="https://dev.to/ham_snap_c9f34bca7dfdc1fe/how-i-built-an-in-browser-raw-photo-editor-with-zero-server-uploads-webglclient-side-27dl"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Signup Tests Need Intent, Not Just Clicks]]></title>
+        <id>https://dev.to/ryanlee91/react-signup-tests-need-intent-not-just-clicks-1npl</id>
+        <link href="https://dev.to/ryanlee91/react-signup-tests-need-intent-not-just-clicks-1npl"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built HashDup: A Fast, Memory-Safe Duplicate File Finder CLI in Node.js]]></title>
+        <id>https://dev.to/mahdyarmonfared/how-i-built-hashdup-a-fast-memory-safe-duplicate-file-finder-cli-in-nodejs-3oa3</id>
+        <link href="https://dev.to/mahdyarmonfared/how-i-built-hashdup-a-fast-memory-safe-duplicate-file-finder-cli-in-nodejs-3oa3"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cắt chi phí agentic coding: tách planner và worker]]></title>
+        <id>https://dev.to/bean_bean/cat-chi-phi-agentic-coding-tach-planner-va-worker-44a5</id>
+        <link href="https://dev.to/bean_bean/cat-chi-phi-agentic-coding-tach-planner-va-worker-44a5"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping Large JSON Smooth: Update Only What Changed]]></title>
+        <id>https://dev.to/loggerhead_turtle_13b0d7e/keeping-large-json-smooth-update-only-what-changed-18al</id>
+        <link href="https://dev.to/loggerhead_turtle_13b0d7e/keeping-large-json-smooth-update-only-what-changed-18al"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Translated captions in a Chrome extension: tab audio in MV3, and one stream instead of two services]]></title>
+        <id>https://dev.to/skrylkovs/translated-captions-in-a-chrome-extension-tab-audio-in-mv3-and-one-stream-instead-of-two-services-1ha3</id>
+        <link href="https://dev.to/skrylkovs/translated-captions-in-a-chrome-extension-tab-audio-in-mv3-and-one-stream-instead-of-two-services-1ha3"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building XML-to-Markdown Converters: Algorithms and Edge Cases]]></title>
+        <id>https://dev.to/eimza/building-xml-to-markdown-converters-algorithms-and-edge-cases-3nk1</id>
+        <link href="https://dev.to/eimza/building-xml-to-markdown-converters-algorithms-and-edge-cases-3nk1"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsing ZIP Archives in the Browser with JSZip: A Practical Guide]]></title>
+        <id>https://dev.to/eimza/parsing-zip-archives-in-the-browser-with-jszip-a-practical-guide-19bn</id>
+        <link href="https://dev.to/eimza/parsing-zip-archives-in-the-browser-with-jszip-a-practical-guide-19bn"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse Engineering UYAP's .udf File Format: What's Inside a Turkish Court Document?]]></title>
+        <id>https://dev.to/eimza/reverse-engineering-uyaps-udf-file-format-whats-inside-a-turkish-court-document-220m</id>
+        <link href="https://dev.to/eimza/reverse-engineering-uyaps-udf-file-format-whats-inside-a-turkish-court-document-220m"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -141,6 +183,48 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I Benchmarked My Vanilla JS CBT Detector Against 5 NLP Libraries — Here Is When Rule-Based Wins]]></title>
+        <id>https://dev.to/473185670/i-benchmarked-my-vanilla-js-cbt-detector-against-5-nlp-libraries-here-is-when-rule-based-wins-2068</id>
+        <link href="https://dev.to/473185670/i-benchmarked-my-vanilla-js-cbt-detector-against-5-nlp-libraries-here-is-when-rule-based-wins-2068"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 91 Buy Verified Payoneer Account Websites – 2026 Edition]]></title>
+        <id>https://dev.to/joshua_fisher_ff455b9f60a/top-91-buy-verified-payoneer-account-websites-2026-edition-57p3</id>
+        <link href="https://dev.to/joshua_fisher_ff455b9f60a/top-91-buy-verified-payoneer-account-websites-2026-edition-57p3"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Turned 36 Free GitHub Tools into a $9.99 Product (Zero Backend)]]></title>
+        <id>https://dev.to/473185670/how-i-turned-36-free-github-tools-into-a-999-product-zero-backend-278l</id>
+        <link href="https://dev.to/473185670/how-i-turned-36-free-github-tools-into-a-999-product-zero-backend-278l"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Benchmarked Five Ways to Speed Up a Slow React Table. Two of Them Did Nothing.]]></title>
+        <id>https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i</id>
+        <link href="https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinterest CAPI Requires event_id. Meta Only Warns on the Same Field.]]></title>
+        <id>https://dev.to/aleksuix/pinterest-capi-requires-eventid-meta-only-warns-on-the-same-field-3ek8</id>
+        <link href="https://dev.to/aleksuix/pinterest-capi-requires-eventid-meta-only-warns-on-the-same-field-3ek8"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java'ya Veda Edin: %100 Tarayıcı Tabanlı Açık Kaynak UYAP UDF Editörü (PDF, DOCX ve OCR Destekli) 🚀]]></title>
+        <id>https://dev.to/eimza/javaya-veda-edin-100-tarayici-tabanli-acik-kaynak-uyap-udf-editoru-pdf-docx-ve-ocr-destekli-1c2b</id>
+        <link href="https://dev.to/eimza/javaya-veda-edin-100-tarayici-tabanli-acik-kaynak-uyap-udf-editoru-pdf-docx-ve-ocr-destekli-1c2b"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[体验过华为 Pura X View 后，他们最想留下的「阔体验」是……]]></title>
         <id>https://sspai.com/post/114734</id>
         <link href="https://sspai.com/post/114734"/>
@@ -148,16 +232,9 @@
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grab an Xbox controller and a $50 Xbox gift card together for just $80]]></title>
-        <id>https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s clever software solution lets iPhone batteries skirt shipping limits]]></title>
-        <id>https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit</id>
-        <link href="https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit"/>
+        <title type="html"><![CDATA[iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement]]></title>
+        <id>https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement</id>
+        <link href="https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
@@ -169,9 +246,16 @@
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement]]></title>
-        <id>https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement</id>
-        <link href="https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"/>
+        <title type="html"><![CDATA[Apple’s clever software solution lets iPhone batteries skirt shipping limits]]></title>
+        <id>https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit</id>
+        <link href="https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit"/>
+        <updated>2026-09-20T16:00:00.000Z</updated>
+        <published>2026-09-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grab an Xbox controller and a $50 Xbox gift card together for just $80]]></title>
+        <id>https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
@@ -204,9 +288,9 @@
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/</id>
-        <link href="https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"/>
+        <title type="html"><![CDATA[ScrollEd wants to turn textbooks into TikTok]]></title>
+        <id>https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/</id>
+        <link href="https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
@@ -218,149 +302,65 @@
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ScrollEd wants to turn textbooks into TikTok]]></title>
-        <id>https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/</id>
-        <link href="https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/"/>
+        <title type="html"><![CDATA[Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026]]></title>
+        <id>https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/</id>
+        <link href="https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX Restricts Airspace over McGregor Facility Ahead of Tesla Roadster Event]]></title>
-        <id>https://driveteslacanada.ca/news/spacex-mcgregor-tfr-roadster-event/</id>
-        <link href="https://driveteslacanada.ca/news/spacex-mcgregor-tfr-roadster-event/"/>
+        <title type="html"><![CDATA[Engineering Memory: Thoughts on learning to memorize first 100 digits of pi]]></title>
+        <id>https://gregorygundersen.com/blog/2024/12/21/engineering-memory/</id>
+        <link href="https://gregorygundersen.com/blog/2024/12/21/engineering-memory/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stanford, Silicon Valley, and the pursuit of power [video]]]></title>
-        <id>https://www.youtube.com/watch?v=XsfJTbdVFo0</id>
-        <link href="https://www.youtube.com/watch?v=XsfJTbdVFo0"/>
+        <title type="html"><![CDATA[Show HN: Race – Terminal Multiplexer on Infinite Canvas (macOS and Linux Beta)]]></title>
+        <id>https://race-term.com/</id>
+        <link href="https://race-term.com/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There is no way to get ChatGPT to stop injecting your location in context]]></title>
-        <id>https://chatgpt.com/share/6ab11f30-4c08-83eb-a82d-6673219f8cc4</id>
-        <link href="https://chatgpt.com/share/6ab11f30-4c08-83eb-a82d-6673219f8cc4"/>
+        <title type="html"><![CDATA[Show HN: A GUI for non programmers for Epic's version control system Lore]]></title>
+        <id>https://www.anchorpoint.app/lore</id>
+        <link href="https://www.anchorpoint.app/lore"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Codex Is Retiring the Last Model That Behaves Like an Assistant]]></title>
-        <id>https://www.vincentschmalbach.com/gpt-5-5-retirement-codex/</id>
-        <link href="https://www.vincentschmalbach.com/gpt-5-5-retirement-codex/"/>
+        <title type="html"><![CDATA[Show HN: A solar-powered, privacy-preserving vehicle counter (Pi 5 and YOLOv8)]]></title>
+        <id>https://www.mch170.com/projects/traffic_monitoring</id>
+        <link href="https://www.mch170.com/projects/traffic_monitoring"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Disney Hires Character.ai Chief to Drive Its Technology Push]]></title>
-        <id>https://www.nytimes.com/2026/09/18/business/media/disney-ai-technology-karandeep-anand.html</id>
-        <link href="https://www.nytimes.com/2026/09/18/business/media/disney-ai-technology-karandeep-anand.html"/>
+        <title type="html"><![CDATA[Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust]]></title>
+        <id>https://github.com/gosuda/bitcoin-rs</id>
+        <link href="https://github.com/gosuda/bitcoin-rs"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: M0saic – deterministic video compiler (CLI, web, desktop)]]></title>
-        <id>https://m0saic.io</id>
-        <link href="https://m0saic.io"/>
+        <title type="html"><![CDATA[A Dangerous Castle]]></title>
+        <id>https://chloemashitermakesthings.wordpress.com/2026/09/14/a-dangerous-castle/</id>
+        <link href="https://chloemashitermakesthings.wordpress.com/2026/09/14/a-dangerous-castle/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT Plus and Pro Will Get Ads in 2027]]></title>
-        <id>https://www.vincentschmalbach.com/chatgpt-plus-and-pro-will-get-ads-in-2027/</id>
-        <link href="https://www.vincentschmalbach.com/chatgpt-plus-and-pro-will-get-ads-in-2027/"/>
+        <title type="html"><![CDATA[Lint-HTTP 0.1.0 – Easy to use, complete HTTP traffic linter]]></title>
+        <id>https://crates.io/crates/lint-http/0.1.0</id>
+        <link href="https://crates.io/crates/lint-http/0.1.0"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: My recent show HN post got flagged need guidance]]></title>
-        <id>https://news.ycombinator.com/item?id=49783865</id>
-        <link href="https://news.ycombinator.com/item?id=49783865"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rosenbjerg/local-review: Minimal webapp for local code review of branches]]></title>
-        <id>https://github.com/rosenbjerg/local-review</id>
-        <link href="https://github.com/rosenbjerg/local-review"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replacing an agentic classification loop with Jev: 7x faster]]></title>
-        <id>https://blog.r6i.it/typesafe-jev-vs-agentic-loop.html</id>
-        <link href="https://blog.r6i.it/typesafe-jev-vs-agentic-loop.html"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should you trust Al to deliver financial advice?]]></title>
-        <id>https://www.saturnos.com/report/artificial-authority</id>
-        <link href="https://www.saturnos.com/report/artificial-authority"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple and Efficient Row-Level Security]]></title>
-        <id>https://acadia.engineering/blog/simple-and-efficient-row-level-security</id>
-        <link href="https://acadia.engineering/blog/simple-and-efficient-row-level-security"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK productivity grew twice as fast as thought after 2008 financial crisis]]></title>
-        <id>https://www.ft.com/content/560fc2ad-5c7e-4878-ae9b-a3183004c394</id>
-        <link href="https://www.ft.com/content/560fc2ad-5c7e-4878-ae9b-a3183004c394"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Post Train]]></title>
-        <id>https://howtoposttrain.com/</id>
-        <link href="https://howtoposttrain.com/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A study of sequence weighting at scale]]></title>
-        <id>https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/</id>
-        <link href="https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It]]></title>
-        <id>https://arxiv.org/abs/2609.16247</id>
-        <link href="https://arxiv.org/abs/2609.16247"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nipple tattooist 'frustrated' by online censorship]]></title>
-        <id>https://www.bbc.com/news/articles/cx2z7ejn891o</id>
-        <link href="https://www.bbc.com/news/articles/cx2z7ejn891o"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mini-Microsoft Wins at Last]]></title>
-        <id>https://molochinations.substack.com/p/mini-microsoft-wins-at-last</id>
-        <link href="https://molochinations.substack.com/p/mini-microsoft-wins-at-last"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's Easy to Dismiss Jev as Just a Classifier]]></title>
-        <id>https://sebastianraschka.com/blog/2026/jev-classification-generalization.html</id>
-        <link href="https://sebastianraschka.com/blog/2026/jev-classification-generalization.html"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omarchy Quattro [video]]]></title>
-        <id>https://www.youtube.com/watch?v=F7fe9pa8OeE</id>
-        <link href="https://www.youtube.com/watch?v=F7fe9pa8OeE"/>
+        <title type="html"><![CDATA[Presley Gerber, Son of Cindy Crawford and Rande Gerber, Dies at 27]]></title>
+        <id>https://www.hollywoodreporter.com/lifestyle/lifestyle-news/presley-gerber-dead-cindy-crawford-rande-gerber-kaia-gerber-1236706714/</id>
+        <link href="https://www.hollywoodreporter.com/lifestyle/lifestyle-news/presley-gerber-dead-cindy-crawford-rande-gerber-kaia-gerber-1236706714/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
