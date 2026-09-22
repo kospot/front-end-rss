@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-22T02:02:35.376Z</updated>
+    <updated>2026-09-22T04:03:02.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -53,6 +53,62 @@
         <title type="html"><![CDATA[Meta’s Muse is outpacing ChatGPT’s early mobile launch]]></title>
         <id>https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/</id>
         <link href="https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lean Verified Transformers]]></title>
+        <id>https://srush.github.io/lean-transformer/</id>
+        <link href="https://srush.github.io/lean-transformer/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lula Footage Dataset]]></title>
+        <id>https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train</id>
+        <link href="https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built an AI Dating Assistant Because Swiping Is Statistically Inefficient]]></title>
+        <id>https://medium.com/@mgcblee/i-built-an-ai-dating-assistant-because-swiping-is-statistically-inefficient-bdafd31c0738</id>
+        <link href="https://medium.com/@mgcblee/i-built-an-ai-dating-assistant-because-swiping-is-statistically-inefficient-bdafd31c0738"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice dev explains why it cannot display some Microsoft Office charts]]></title>
+        <id>https://www.neowin.net/news/libreoffice-developer-explains-why-it-cannot-display-some-microsoft-office-charts/</id>
+        <link href="https://www.neowin.net/news/libreoffice-developer-explains-why-it-cannot-display-some-microsoft-office-charts/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I_am_done_with_this_shit]]></title>
+        <id>https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/</id>
+        <link href="https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edit HTML Directly in the Browser]]></title>
+        <id>https://github.com/kenxle/live-agentic-html-editor</id>
+        <link href="https://github.com/kenxle/live-agentic-html-editor"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: ghfs – A read-only FUSE filesystem that keeps GitHub issues on disk]]></title>
+        <id>https://ghfs.dev/</id>
+        <link href="https://ghfs.dev/"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Apple Succeeded in Japan [video]]]></title>
+        <id>https://www.youtube.com/watch?v=vkJU1nmI55I</id>
+        <link href="https://www.youtube.com/watch?v=vkJU1nmI55I"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -113,279 +169,199 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-structured-filter-react: React component for structured queries
-]]></title>
-        <id>
-https://github.com/evoluteur/structured-filter-react
-</id>
-        <link href="
-https://github.com/evoluteur/structured-filter-react
-"/>
+        <title type="html"><![CDATA[Rank Portability Does Not Imply Feasibility Portability: Target-Specific Evaluation of Joint Hardware Constraints]]></title>
+        <id>https://arxiv.org/abs/2609.22122</id>
+        <link href="https://arxiv.org/abs/2609.22122"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-How React Keeps You Logged In With JWT and Zustand
-]]></title>
-        <id>
-https://www.jstools.space/blog/react-jwt-zustand/
-</id>
-        <link href="
-https://www.jstools.space/blog/react-jwt-zustand/
-"/>
+        <title type="html"><![CDATA[StationPDE: Station-Oriented Surface PDE Learning for Multi-Station Multivariate Weather Forecasting]]></title>
+        <id>https://arxiv.org/abs/2609.22123</id>
+        <link href="https://arxiv.org/abs/2609.22123"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-My Redis library said the write succeeded. Redis was down — anatomy of a Node.js client rewrite
-]]></title>
-        <id>
-https://dev.to/pinceladasdaweb/my-redis-library-said-the-write-succeeded-redis-was-down-3dmn
-</id>
-        <link href="
-https://dev.to/pinceladasdaweb/my-redis-library-said-the-write-succeeded-redis-was-down-3dmn
-"/>
+        <title type="html"><![CDATA[Helix-FNO: Spectral-Domain Operator Learning Coupled with a High-Fidelity Mechanistic Model for Fast Surrogate Simulation]]></title>
+        <id>https://arxiv.org/abs/2609.22129</id>
+        <link href="https://arxiv.org/abs/2609.22129"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-React component for bubble, bars, and pie charts, with animated morphing transitions between charts
-]]></title>
-        <id>
-https://github.com/evoluteur/react-morph-charts
-</id>
-        <link href="
-https://github.com/evoluteur/react-morph-charts
-"/>
+        <title type="html"><![CDATA[Hierarchical Bayesian optimization of an aircraft-based multi-agent system-of-systems]]></title>
+        <id>https://arxiv.org/abs/2609.22130</id>
+        <link href="https://arxiv.org/abs/2609.22130"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transparent PNGs: the 3 background-removal algorithms, why JPG can't do it, and the color-key gotcha]]></title>
-        <id>https://dev.to/_8729c5bde46be2/transparent-pngs-the-3-background-removal-algorithms-why-jpg-cant-do-it-and-the-color-key-gotcha-3gl6</id>
-        <link href="https://dev.to/_8729c5bde46be2/transparent-pngs-the-3-background-removal-algorithms-why-jpg-cant-do-it-and-the-color-key-gotcha-3gl6"/>
+        <title type="html"><![CDATA[Weak Ties, Strong Signals: Efficient Training Data Detection in Diffusion LLMs via Independent Token Sampling]]></title>
+        <id>https://arxiv.org/abs/2609.22145</id>
+        <link href="https://arxiv.org/abs/2609.22145"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A request for /.env shouldn't render your React app]]></title>
-        <id>https://dev.to/lomray-software/a-request-for-env-shouldnt-render-your-react-app-4j0p</id>
-        <link href="https://dev.to/lomray-software/a-request-for-env-shouldnt-render-your-react-app-4j0p"/>
+        <title type="html"><![CDATA[GRRR: The Geometry of Reshaping, Rotation, and Routing in Decoder LLM post-training]]></title>
+        <id>https://arxiv.org/abs/2609.22146</id>
+        <link href="https://arxiv.org/abs/2609.22146"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[gclid on the Next Page Does Not Grant ad_storage. URL Passthrough Is Not Consent.]]></title>
-        <id>https://dev.to/aleksuix/gclid-on-the-next-page-does-not-grant-adstorage-url-passthrough-is-not-consent-3bm4</id>
-        <link href="https://dev.to/aleksuix/gclid-on-the-next-page-does-not-grant-adstorage-url-passthrough-is-not-consent-3bm4"/>
+        <title type="html"><![CDATA[SafeTune: A Unified Faithful Library for Auditing and Repairing Safety Drift in Fine-Tuned LLMs]]></title>
+        <id>https://arxiv.org/abs/2609.22153</id>
+        <link href="https://arxiv.org/abs/2609.22153"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🐜 Nemla – a small Python network recon tool that shows its evidence (no dependencies, EN/AR/HE, 3D UI)]]></title>
-        <id>https://dev.to/hdada_mhajne_ecf35bcc0ec2/nemla-a-small-python-network-recon-tool-that-shows-its-evidence-no-dependencies-enarhe-3d-120f</id>
-        <link href="https://dev.to/hdada_mhajne_ecf35bcc0ec2/nemla-a-small-python-network-recon-tool-that-shows-its-evidence-no-dependencies-enarhe-3d-120f"/>
+        <title type="html"><![CDATA[From Latent Biomarkers to Clinical Rules: Embedding-Guided Rule Mining and Attribution-Based Translation for Interpretable Tabular Learning]]></title>
+        <id>https://arxiv.org/abs/2609.22155</id>
+        <link href="https://arxiv.org/abs/2609.22155"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generating the XML Isn't Invoicing: What I Learned Building a Dominican E-Invoice Issuer]]></title>
-        <id>https://dev.to/gabbs279/generating-the-xml-isnt-invoicing-what-i-learned-building-a-dominican-e-invoice-issuer-26hl</id>
-        <link href="https://dev.to/gabbs279/generating-the-xml-isnt-invoicing-what-i-learned-building-a-dominican-e-invoice-issuer-26hl"/>
+        <title type="html"><![CDATA[TARGet: Topology-Aware Fusion-based Radio Frequency Circuit Functional Modeling using Graph Neural Networks]]></title>
+        <id>https://arxiv.org/abs/2609.22165</id>
+        <link href="https://arxiv.org/abs/2609.22165"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Real Time Prediction Game: Architecture, WebSockets, and Lessons Learned published: true]]></title>
-        <id>https://dev.to/pakclub_game/building-a-real-time-prediction-game-architecture-websockets-and-lessons-learnedpublished-true-4i8k</id>
-        <link href="https://dev.to/pakclub_game/building-a-real-time-prediction-game-architecture-websockets-and-lessons-learnedpublished-true-4i8k"/>
+        <title type="html"><![CDATA[Role-Aware Morgan Fingerprints for Reaction Yield Prediction]]></title>
+        <id>https://arxiv.org/abs/2609.22167</id>
+        <link href="https://arxiv.org/abs/2609.22167"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java'ya Veda Edin: %100 Tarayıcı Tabanlı Açık Kaynak UYAP UDF Editörü (PDF, DOCX ve OCR Destekli) 🚀]]></title>
-        <id>https://dev.to/eimza/javaya-veda-edin-100-tarayici-tabanli-acik-kaynak-uyap-udf-editoru-pdf-docx-ve-ocr-destekli-1c2b</id>
-        <link href="https://dev.to/eimza/javaya-veda-edin-100-tarayici-tabanli-acik-kaynak-uyap-udf-editoru-pdf-docx-ve-ocr-destekli-1c2b"/>
+        <title type="html"><![CDATA[Contrastive World Models]]></title>
+        <id>https://arxiv.org/abs/2609.22175</id>
+        <link href="https://arxiv.org/abs/2609.22175"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pinterest CAPI Requires event_id. Meta Only Warns on the Same Field.]]></title>
-        <id>https://dev.to/aleksuix/pinterest-capi-requires-eventid-meta-only-warns-on-the-same-field-3ek8</id>
-        <link href="https://dev.to/aleksuix/pinterest-capi-requires-eventid-meta-only-warns-on-the-same-field-3ek8"/>
+        <title type="html"><![CDATA[OpenBlock: Constructive and Verified Content Generation for Adaptive Tile-Matching Games]]></title>
+        <id>https://arxiv.org/abs/2609.22177</id>
+        <link href="https://arxiv.org/abs/2609.22177"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Benchmarked Five Ways to Speed Up a Slow React Table. Two of Them Did Nothing.]]></title>
-        <id>https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i</id>
-        <link href="https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i"/>
+        <title type="html"><![CDATA[DPTM-DT: Dual-Pretrained Transformer Multitask Representation Learning for Drug-Target Prediction]]></title>
+        <id>https://arxiv.org/abs/2609.22184</id>
+        <link href="https://arxiv.org/abs/2609.22184"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Turned 36 Free GitHub Tools into a $9.99 Product (Zero Backend)]]></title>
-        <id>https://dev.to/473185670/how-i-turned-36-free-github-tools-into-a-999-product-zero-backend-278l</id>
-        <link href="https://dev.to/473185670/how-i-turned-36-free-github-tools-into-a-999-product-zero-backend-278l"/>
+        <title type="html"><![CDATA[Correlation-Guided Flow Matching with Annealed Masking for Spatial Transcriptomics Generation]]></title>
+        <id>https://arxiv.org/abs/2609.22187</id>
+        <link href="https://arxiv.org/abs/2609.22187"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 91 Buy Verified Payoneer Account Websites – 2026 Edition]]></title>
-        <id>https://dev.to/joshua_fisher_ff455b9f60a/top-91-buy-verified-payoneer-account-websites-2026-edition-57p3</id>
-        <link href="https://dev.to/joshua_fisher_ff455b9f60a/top-91-buy-verified-payoneer-account-websites-2026-edition-57p3"/>
+        <title type="html"><![CDATA[EvoRank: LLM-Guided Evolution of Multi-Objective Learning-to-Rank Pipelines]]></title>
+        <id>https://arxiv.org/abs/2609.22196</id>
+        <link href="https://arxiv.org/abs/2609.22196"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Benchmarked My Vanilla JS CBT Detector Against 5 NLP Libraries — Here Is When Rule-Based Wins]]></title>
-        <id>https://dev.to/473185670/i-benchmarked-my-vanilla-js-cbt-detector-against-5-nlp-libraries-here-is-when-rule-based-wins-2068</id>
-        <link href="https://dev.to/473185670/i-benchmarked-my-vanilla-js-cbt-detector-against-5-nlp-libraries-here-is-when-rule-based-wins-2068"/>
+        <title type="html"><![CDATA[Dissecting Hierarchical Reasoning Models: A Mechanistic Study]]></title>
+        <id>https://arxiv.org/abs/2609.22197</id>
+        <link href="https://arxiv.org/abs/2609.22197"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
-        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-27kc</id>
-        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-27kc"/>
+        <title type="html"><![CDATA[Improving Parameter Utilization by Sharing Neural Experts Across Layers in Transformers]]></title>
+        <id>https://arxiv.org/abs/2609.22199</id>
+        <link href="https://arxiv.org/abs/2609.22199"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reverse Engineering UYAP's .udf File Format: What's Inside a Turkish Court Document?]]></title>
-        <id>https://dev.to/eimza/reverse-engineering-uyaps-udf-file-format-whats-inside-a-turkish-court-document-220m</id>
-        <link href="https://dev.to/eimza/reverse-engineering-uyaps-udf-file-format-whats-inside-a-turkish-court-document-220m"/>
+        <title type="html"><![CDATA[The Effect of Quantization on Clinical Benchmarks: Accuracy and Safety Across Model Families]]></title>
+        <id>https://arxiv.org/abs/2609.22216</id>
+        <link href="https://arxiv.org/abs/2609.22216"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parsing ZIP Archives in the Browser with JSZip: A Practical Guide]]></title>
-        <id>https://dev.to/eimza/parsing-zip-archives-in-the-browser-with-jszip-a-practical-guide-19bn</id>
-        <link href="https://dev.to/eimza/parsing-zip-archives-in-the-browser-with-jszip-a-practical-guide-19bn"/>
+        <title type="html"><![CDATA[UniGIO: Unified Generative Global In-situ Weather Modeling from Spatiotemporal Incomplete Observations]]></title>
+        <id>https://arxiv.org/abs/2609.22217</id>
+        <link href="https://arxiv.org/abs/2609.22217"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building XML-to-Markdown Converters: Algorithms and Edge Cases]]></title>
-        <id>https://dev.to/eimza/building-xml-to-markdown-converters-algorithms-and-edge-cases-3nk1</id>
-        <link href="https://dev.to/eimza/building-xml-to-markdown-converters-algorithms-and-edge-cases-3nk1"/>
+        <title type="html"><![CDATA[Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles]]></title>
+        <id>https://arxiv.org/abs/2609.22220</id>
+        <link href="https://arxiv.org/abs/2609.22220"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Translated captions in a Chrome extension: tab audio in MV3, and one stream instead of two services]]></title>
-        <id>https://dev.to/skrylkovs/translated-captions-in-a-chrome-extension-tab-audio-in-mv3-and-one-stream-instead-of-two-services-1ha3</id>
-        <link href="https://dev.to/skrylkovs/translated-captions-in-a-chrome-extension-tab-audio-in-mv3-and-one-stream-instead-of-two-services-1ha3"/>
+        <title type="html"><![CDATA[Can Coding Agents Reproduce Official Statistics? Metadata, Retry Budget and the Limits of Execution Feedback in a Controlled Eurostat Benchmark]]></title>
+        <id>https://arxiv.org/abs/2609.22222</id>
+        <link href="https://arxiv.org/abs/2609.22222"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keeping Large JSON Smooth: Update Only What Changed]]></title>
-        <id>https://dev.to/loggerhead_turtle_13b0d7e/keeping-large-json-smooth-update-only-what-changed-18al</id>
-        <link href="https://dev.to/loggerhead_turtle_13b0d7e/keeping-large-json-smooth-update-only-what-changed-18al"/>
+        <title type="html"><![CDATA[A Synthetic Multivariate Refrigerator Time-Series Dataset for Predictive Maintenance]]></title>
+        <id>https://arxiv.org/abs/2609.22229</id>
+        <link href="https://arxiv.org/abs/2609.22229"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cắt chi phí agentic coding: tách planner và worker]]></title>
-        <id>https://dev.to/bean_bean/cat-chi-phi-agentic-coding-tach-planner-va-worker-44a5</id>
-        <link href="https://dev.to/bean_bean/cat-chi-phi-agentic-coding-tach-planner-va-worker-44a5"/>
+        <title type="html"><![CDATA[CNA: An AI-Oriented Comprehensive Normalized Assessment for Healthy Status and Application to Optimize RRT Strategies by Reinforcement Learning]]></title>
+        <id>https://arxiv.org/abs/2609.22232</id>
+        <link href="https://arxiv.org/abs/2609.22232"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built HashDup: A Fast, Memory-Safe Duplicate File Finder CLI in Node.js]]></title>
-        <id>https://dev.to/mahdyarmonfared/how-i-built-hashdup-a-fast-memory-safe-duplicate-file-finder-cli-in-nodejs-3oa3</id>
-        <link href="https://dev.to/mahdyarmonfared/how-i-built-hashdup-a-fast-memory-safe-duplicate-file-finder-cli-in-nodejs-3oa3"/>
+        <title type="html"><![CDATA[SCALE: Simulation-Calibrated Amortized Learning for Energy Materials (A hybrid architecture connecting deterministic modeling, real-world data, and transformer-scale inference for accelerated energy-materials discovery)]]></title>
+        <id>https://arxiv.org/abs/2609.22233</id>
+        <link href="https://arxiv.org/abs/2609.22233"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React Signup Tests Need Intent, Not Just Clicks]]></title>
-        <id>https://dev.to/ryanlee91/react-signup-tests-need-intent-not-just-clicks-1npl</id>
-        <link href="https://dev.to/ryanlee91/react-signup-tests-need-intent-not-just-clicks-1npl"/>
+        <title type="html"><![CDATA[Not All Ranks Are Equal: Budget-Aware LoRA Merging Across Tasks]]></title>
+        <id>https://arxiv.org/abs/2609.22237</id>
+        <link href="https://arxiv.org/abs/2609.22237"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I built an in-browser RAW photo editor with zero server uploads (WebGL/Client-side)]]></title>
-        <id>https://dev.to/ham_snap_c9f34bca7dfdc1fe/how-i-built-an-in-browser-raw-photo-editor-with-zero-server-uploads-webglclient-side-27dl</id>
-        <link href="https://dev.to/ham_snap_c9f34bca7dfdc1fe/how-i-built-an-in-browser-raw-photo-editor-with-zero-server-uploads-webglclient-side-27dl"/>
+        <title type="html"><![CDATA[Predictors and Orchestrators: Parsimonious Machine Learning within an Agentic AI Harness for Multi-Horizon Karst Aquifer Forecasting]]></title>
+        <id>https://arxiv.org/abs/2609.22251</id>
+        <link href="https://arxiv.org/abs/2609.22251"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[体验过华为 Pura X View 后，他们最想留下的「阔体验」是……]]></title>
-        <id>https://sspai.com/post/114734</id>
-        <link href="https://sspai.com/post/114734"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Strategy Accumulation and Guided Execution for Automated LLM Fine-Tuning]]></title>
+        <id>https://arxiv.org/abs/2609.22257</id>
+        <link href="https://arxiv.org/abs/2609.22257"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement]]></title>
-        <id>https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement</id>
-        <link href="https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon doesn’t trust Meta’s Muse AI agent]]></title>
-        <id>https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping</id>
-        <link href="https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s clever software solution lets iPhone batteries skirt shipping limits]]></title>
-        <id>https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit</id>
-        <link href="https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grab an Xbox controller and a $50 Xbox gift card together for just $80]]></title>
-        <id>https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory]]></title>
-        <id>https://www.wired.com/review/bambu-p2s-combo-3d-printer/</id>
-        <link href="https://www.wired.com/review/bambu-p2s-combo-3d-printer/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Justice for CSS]]></title>
-        <id>https://www.wired.com/story/justice-for-css/</id>
-        <link href="https://www.wired.com/story/justice-for-css/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow]]></title>
-        <id>https://www.wired.com/review/factor-perpared-meals-2026/</id>
-        <link href="https://www.wired.com/review/factor-perpared-meals-2026/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Mac Mini (M6) Review: For the AI Curious]]></title>
-        <id>https://www.wired.com/review/apple-mac-mini-m6/</id>
-        <link href="https://www.wired.com/review/apple-mac-mini-m6/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScrollEd wants to turn textbooks into TikTok]]></title>
-        <id>https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/</id>
-        <link href="https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Contrastive Siamese Representation Learning for Predictive Maintenance of Electrical Submersible Pumps]]></title>
+        <id>https://arxiv.org/abs/2609.22360</id>
+        <link href="https://arxiv.org/abs/2609.22360"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
     </entry>
 </feed>
