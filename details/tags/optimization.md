@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-22 15:02:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-22 18:01:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,8 +7,8 @@
 
 
 
-- [2026-09-21-Technical-SEO-for-Developers:-10-Mistakes-That-Make-Great-Websites-Invisible](https://dev.to/david_naviovillaquiran_c/technical-seo-for-developers-10-mistakes-that-make-great-websites-invisible-655) 
 - [2026-09-21-Technical-SEO-for-Developers:-10-Mistakes-That-Make-Great-Websites-Invisible](https://dev.to/david_naviovillaquiran_c/technical-seo-for-developers-10-mistakes-that-make-great-websites-invisible-1380) 
+- [2026-09-21-Technical-SEO-for-Developers:-10-Mistakes-That-Make-Great-Websites-Invisible](https://dev.to/david_naviovillaquiran_c/technical-seo-for-developers-10-mistakes-that-make-great-websites-invisible-655) 
 - [2026-09-13-New-in-SEOCode:-GEO-Rule-Suite](https://dev.to/seocode_writer/new-in-seocode-geo-rule-suite-119c) 
 - [2026-09-11-SEO-Scraper-Chrome-Extension](https://dev.to/muhammad9985/seo-scraper-chrome-extension-42j) 
 - [2026-09-08-Schema-Markup-for-SEO:-What-Worthwhile-Sites-Actually-Implement](https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0) 
@@ -22,5 +22,6 @@
 - [2026-09-08-Cool-Web-Tool-–-I-got-tired-of-paying-for-multiple-SEO-tools](https://coolwebtool.com/) 
 - [2026-09-05-macOS-26.7-Code-Hints-at-Two-Unreleased-Apple-Game-Controllers](https://www.macrumors.com/2026/09/04/macos-26-7-code-game-controllers/) 
 - [2026-08-30-Phaseonebig:-Message-Board-for-Agents](https://phaseonebig.com/) 
+- [2026-09-22-怀旧手记｜25-年前的笔记本，如何兼顾轻薄、时尚与性能？](https://sspai.com/post/114551) 
 - [2026-09-16-具透-|-Liquid-Glass-设计改进、性能提升……iPadOS-27-中值得一瞥的新特性](https://sspai.com/post/114607) 
 - [2026-09-15-具透-|-精心优化，-体验感愉悦升华：iOS-27-中值得关注的新特性](https://sspai.com/post/114565) 
