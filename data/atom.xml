@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-22T00:01:08.114Z</updated>
+    <updated>2026-09-22T02:02:35.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,30 +64,9 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why AI Infrastructure Could Be More Valuable Than AI Applications]]></title>
-        <id>https://pub.towardsai.net/why-ai-infrastructure-could-be-more-valuable-than-ai-applications-9fe7253970a0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-ai-infrastructure-could-be-more-valuable-than-ai-applications-9fe7253970a0?source=rss----98111c9905da---4"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stanford’s 37,000 AI Agents Put Reasoning-Layer Governance on the Life Sciences Agenda]]></title>
-        <id>https://pub.towardsai.net/stanfords-37-000-ai-agents-put-reasoning-layer-governance-on-the-life-sciences-agenda-1b2d5d45e6b7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/stanfords-37-000-ai-agents-put-reasoning-layer-governance-on-the-life-sciences-agenda-1b2d5d45e6b7?source=rss----98111c9905da---4"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring Impact When You Can’t A/B Test — a Quick and Practical Guide to Causal Inference]]></title>
-        <id>https://pub.towardsai.net/causal-inference-without-ab-testing-3ddf8996ffee?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/causal-inference-without-ab-testing-3ddf8996ffee?source=rss----98111c9905da---4"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLM-5.3-Flash vs GPT-6 Astra: the open model that rewrites the cost equation]]></title>
-        <id>https://pub.towardsai.net/glm-5-3-flash-vs-gpt-6-astra-the-open-model-that-rewrites-the-cost-equation-a132406aa464?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/glm-5-3-flash-vs-gpt-6-astra-the-open-model-that-rewrites-the-cost-equation-a132406aa464?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Claude Code Skills vs Subagents vs Hooks vs Workflows: Which to Use in 2026]]></title>
+        <id>https://pub.towardsai.net/claude-code-skills-vs-subagents-vs-hooks-vs-workflows-which-to-use-in-2026-120db6ae5b3c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-code-skills-vs-subagents-vs-hooks-vs-workflows-which-to-use-in-2026-120db6ae5b3c?source=rss----98111c9905da---4"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -99,9 +78,30 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code Skills vs Subagents vs Hooks vs Workflows: Which to Use in 2026]]></title>
-        <id>https://pub.towardsai.net/claude-code-skills-vs-subagents-vs-hooks-vs-workflows-which-to-use-in-2026-120db6ae5b3c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-code-skills-vs-subagents-vs-hooks-vs-workflows-which-to-use-in-2026-120db6ae5b3c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[GLM-5.3-Flash vs GPT-6 Astra: the open model that rewrites the cost equation]]></title>
+        <id>https://pub.towardsai.net/glm-5-3-flash-vs-gpt-6-astra-the-open-model-that-rewrites-the-cost-equation-a132406aa464?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/glm-5-3-flash-vs-gpt-6-astra-the-open-model-that-rewrites-the-cost-equation-a132406aa464?source=rss----98111c9905da---4"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Impact When You Can’t A/B Test — a Quick and Practical Guide to Causal Inference]]></title>
+        <id>https://pub.towardsai.net/causal-inference-without-ab-testing-3ddf8996ffee?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/causal-inference-without-ab-testing-3ddf8996ffee?source=rss----98111c9905da---4"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stanford’s 37,000 AI Agents Put Reasoning-Layer Governance on the Life Sciences Agenda]]></title>
+        <id>https://pub.towardsai.net/stanfords-37-000-ai-agents-put-reasoning-layer-governance-on-the-life-sciences-agenda-1b2d5d45e6b7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/stanfords-37-000-ai-agents-put-reasoning-layer-governance-on-the-life-sciences-agenda-1b2d5d45e6b7?source=rss----98111c9905da---4"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI Infrastructure Could Be More Valuable Than AI Applications]]></title>
+        <id>https://pub.towardsai.net/why-ai-infrastructure-could-be-more-valuable-than-ai-applications-9fe7253970a0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-ai-infrastructure-could-be-more-valuable-than-ai-applications-9fe7253970a0?source=rss----98111c9905da---4"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -113,100 +113,103 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I built an in-browser RAW photo editor with zero server uploads (WebGL/Client-side)]]></title>
-        <id>https://dev.to/ham_snap_c9f34bca7dfdc1fe/how-i-built-an-in-browser-raw-photo-editor-with-zero-server-uploads-webglclient-side-27dl</id>
-        <link href="https://dev.to/ham_snap_c9f34bca7dfdc1fe/how-i-built-an-in-browser-raw-photo-editor-with-zero-server-uploads-webglclient-side-27dl"/>
+        <title type="html"><![CDATA[
+structured-filter-react: React component for structured queries
+]]></title>
+        <id>
+https://github.com/evoluteur/structured-filter-react
+</id>
+        <link href="
+https://github.com/evoluteur/structured-filter-react
+"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React Signup Tests Need Intent, Not Just Clicks]]></title>
-        <id>https://dev.to/ryanlee91/react-signup-tests-need-intent-not-just-clicks-1npl</id>
-        <link href="https://dev.to/ryanlee91/react-signup-tests-need-intent-not-just-clicks-1npl"/>
+        <title type="html"><![CDATA[
+How React Keeps You Logged In With JWT and Zustand
+]]></title>
+        <id>
+https://www.jstools.space/blog/react-jwt-zustand/
+</id>
+        <link href="
+https://www.jstools.space/blog/react-jwt-zustand/
+"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built HashDup: A Fast, Memory-Safe Duplicate File Finder CLI in Node.js]]></title>
-        <id>https://dev.to/mahdyarmonfared/how-i-built-hashdup-a-fast-memory-safe-duplicate-file-finder-cli-in-nodejs-3oa3</id>
-        <link href="https://dev.to/mahdyarmonfared/how-i-built-hashdup-a-fast-memory-safe-duplicate-file-finder-cli-in-nodejs-3oa3"/>
+        <title type="html"><![CDATA[
+My Redis library said the write succeeded. Redis was down — anatomy of a Node.js client rewrite
+]]></title>
+        <id>
+https://dev.to/pinceladasdaweb/my-redis-library-said-the-write-succeeded-redis-was-down-3dmn
+</id>
+        <link href="
+https://dev.to/pinceladasdaweb/my-redis-library-said-the-write-succeeded-redis-was-down-3dmn
+"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cắt chi phí agentic coding: tách planner và worker]]></title>
-        <id>https://dev.to/bean_bean/cat-chi-phi-agentic-coding-tach-planner-va-worker-44a5</id>
-        <link href="https://dev.to/bean_bean/cat-chi-phi-agentic-coding-tach-planner-va-worker-44a5"/>
+        <title type="html"><![CDATA[
+React component for bubble, bars, and pie charts, with animated morphing transitions between charts
+]]></title>
+        <id>
+https://github.com/evoluteur/react-morph-charts
+</id>
+        <link href="
+https://github.com/evoluteur/react-morph-charts
+"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keeping Large JSON Smooth: Update Only What Changed]]></title>
-        <id>https://dev.to/loggerhead_turtle_13b0d7e/keeping-large-json-smooth-update-only-what-changed-18al</id>
-        <link href="https://dev.to/loggerhead_turtle_13b0d7e/keeping-large-json-smooth-update-only-what-changed-18al"/>
+        <title type="html"><![CDATA[Transparent PNGs: the 3 background-removal algorithms, why JPG can't do it, and the color-key gotcha]]></title>
+        <id>https://dev.to/_8729c5bde46be2/transparent-pngs-the-3-background-removal-algorithms-why-jpg-cant-do-it-and-the-color-key-gotcha-3gl6</id>
+        <link href="https://dev.to/_8729c5bde46be2/transparent-pngs-the-3-background-removal-algorithms-why-jpg-cant-do-it-and-the-color-key-gotcha-3gl6"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Translated captions in a Chrome extension: tab audio in MV3, and one stream instead of two services]]></title>
-        <id>https://dev.to/skrylkovs/translated-captions-in-a-chrome-extension-tab-audio-in-mv3-and-one-stream-instead-of-two-services-1ha3</id>
-        <link href="https://dev.to/skrylkovs/translated-captions-in-a-chrome-extension-tab-audio-in-mv3-and-one-stream-instead-of-two-services-1ha3"/>
+        <title type="html"><![CDATA[A request for /.env shouldn't render your React app]]></title>
+        <id>https://dev.to/lomray-software/a-request-for-env-shouldnt-render-your-react-app-4j0p</id>
+        <link href="https://dev.to/lomray-software/a-request-for-env-shouldnt-render-your-react-app-4j0p"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building XML-to-Markdown Converters: Algorithms and Edge Cases]]></title>
-        <id>https://dev.to/eimza/building-xml-to-markdown-converters-algorithms-and-edge-cases-3nk1</id>
-        <link href="https://dev.to/eimza/building-xml-to-markdown-converters-algorithms-and-edge-cases-3nk1"/>
+        <title type="html"><![CDATA[gclid on the Next Page Does Not Grant ad_storage. URL Passthrough Is Not Consent.]]></title>
+        <id>https://dev.to/aleksuix/gclid-on-the-next-page-does-not-grant-adstorage-url-passthrough-is-not-consent-3bm4</id>
+        <link href="https://dev.to/aleksuix/gclid-on-the-next-page-does-not-grant-adstorage-url-passthrough-is-not-consent-3bm4"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parsing ZIP Archives in the Browser with JSZip: A Practical Guide]]></title>
-        <id>https://dev.to/eimza/parsing-zip-archives-in-the-browser-with-jszip-a-practical-guide-19bn</id>
-        <link href="https://dev.to/eimza/parsing-zip-archives-in-the-browser-with-jszip-a-practical-guide-19bn"/>
+        <title type="html"><![CDATA[🐜 Nemla – a small Python network recon tool that shows its evidence (no dependencies, EN/AR/HE, 3D UI)]]></title>
+        <id>https://dev.to/hdada_mhajne_ecf35bcc0ec2/nemla-a-small-python-network-recon-tool-that-shows-its-evidence-no-dependencies-enarhe-3d-120f</id>
+        <link href="https://dev.to/hdada_mhajne_ecf35bcc0ec2/nemla-a-small-python-network-recon-tool-that-shows-its-evidence-no-dependencies-enarhe-3d-120f"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reverse Engineering UYAP's .udf File Format: What's Inside a Turkish Court Document?]]></title>
-        <id>https://dev.to/eimza/reverse-engineering-uyaps-udf-file-format-whats-inside-a-turkish-court-document-220m</id>
-        <link href="https://dev.to/eimza/reverse-engineering-uyaps-udf-file-format-whats-inside-a-turkish-court-document-220m"/>
+        <title type="html"><![CDATA[Generating the XML Isn't Invoicing: What I Learned Building a Dominican E-Invoice Issuer]]></title>
+        <id>https://dev.to/gabbs279/generating-the-xml-isnt-invoicing-what-i-learned-building-a-dominican-e-invoice-issuer-26hl</id>
+        <link href="https://dev.to/gabbs279/generating-the-xml-isnt-invoicing-what-i-learned-building-a-dominican-e-invoice-issuer-26hl"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
-        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-27kc</id>
-        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-27kc"/>
+        <title type="html"><![CDATA[Building a Real Time Prediction Game: Architecture, WebSockets, and Lessons Learned published: true]]></title>
+        <id>https://dev.to/pakclub_game/building-a-real-time-prediction-game-architecture-websockets-and-lessons-learnedpublished-true-4i8k</id>
+        <link href="https://dev.to/pakclub_game/building-a-real-time-prediction-game-architecture-websockets-and-lessons-learnedpublished-true-4i8k"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Benchmarked My Vanilla JS CBT Detector Against 5 NLP Libraries — Here Is When Rule-Based Wins]]></title>
-        <id>https://dev.to/473185670/i-benchmarked-my-vanilla-js-cbt-detector-against-5-nlp-libraries-here-is-when-rule-based-wins-2068</id>
-        <link href="https://dev.to/473185670/i-benchmarked-my-vanilla-js-cbt-detector-against-5-nlp-libraries-here-is-when-rule-based-wins-2068"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 91 Buy Verified Payoneer Account Websites – 2026 Edition]]></title>
-        <id>https://dev.to/joshua_fisher_ff455b9f60a/top-91-buy-verified-payoneer-account-websites-2026-edition-57p3</id>
-        <link href="https://dev.to/joshua_fisher_ff455b9f60a/top-91-buy-verified-payoneer-account-websites-2026-edition-57p3"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Turned 36 Free GitHub Tools into a $9.99 Product (Zero Backend)]]></title>
-        <id>https://dev.to/473185670/how-i-turned-36-free-github-tools-into-a-999-product-zero-backend-278l</id>
-        <link href="https://dev.to/473185670/how-i-turned-36-free-github-tools-into-a-999-product-zero-backend-278l"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Benchmarked Five Ways to Speed Up a Slow React Table. Two of Them Did Nothing.]]></title>
-        <id>https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i</id>
-        <link href="https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i"/>
+        <title type="html"><![CDATA[Java'ya Veda Edin: %100 Tarayıcı Tabanlı Açık Kaynak UYAP UDF Editörü (PDF, DOCX ve OCR Destekli) 🚀]]></title>
+        <id>https://dev.to/eimza/javaya-veda-edin-100-tarayici-tabanli-acik-kaynak-uyap-udf-editoru-pdf-docx-ve-ocr-destekli-1c2b</id>
+        <link href="https://dev.to/eimza/javaya-veda-edin-100-tarayici-tabanli-acik-kaynak-uyap-udf-editoru-pdf-docx-ve-ocr-destekli-1c2b"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -218,9 +221,100 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java'ya Veda Edin: %100 Tarayıcı Tabanlı Açık Kaynak UYAP UDF Editörü (PDF, DOCX ve OCR Destekli) 🚀]]></title>
-        <id>https://dev.to/eimza/javaya-veda-edin-100-tarayici-tabanli-acik-kaynak-uyap-udf-editoru-pdf-docx-ve-ocr-destekli-1c2b</id>
-        <link href="https://dev.to/eimza/javaya-veda-edin-100-tarayici-tabanli-acik-kaynak-uyap-udf-editoru-pdf-docx-ve-ocr-destekli-1c2b"/>
+        <title type="html"><![CDATA[I Benchmarked Five Ways to Speed Up a Slow React Table. Two of Them Did Nothing.]]></title>
+        <id>https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i</id>
+        <link href="https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Turned 36 Free GitHub Tools into a $9.99 Product (Zero Backend)]]></title>
+        <id>https://dev.to/473185670/how-i-turned-36-free-github-tools-into-a-999-product-zero-backend-278l</id>
+        <link href="https://dev.to/473185670/how-i-turned-36-free-github-tools-into-a-999-product-zero-backend-278l"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 91 Buy Verified Payoneer Account Websites – 2026 Edition]]></title>
+        <id>https://dev.to/joshua_fisher_ff455b9f60a/top-91-buy-verified-payoneer-account-websites-2026-edition-57p3</id>
+        <link href="https://dev.to/joshua_fisher_ff455b9f60a/top-91-buy-verified-payoneer-account-websites-2026-edition-57p3"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Benchmarked My Vanilla JS CBT Detector Against 5 NLP Libraries — Here Is When Rule-Based Wins]]></title>
+        <id>https://dev.to/473185670/i-benchmarked-my-vanilla-js-cbt-detector-against-5-nlp-libraries-here-is-when-rule-based-wins-2068</id>
+        <link href="https://dev.to/473185670/i-benchmarked-my-vanilla-js-cbt-detector-against-5-nlp-libraries-here-is-when-rule-based-wins-2068"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
+        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-27kc</id>
+        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-27kc"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse Engineering UYAP's .udf File Format: What's Inside a Turkish Court Document?]]></title>
+        <id>https://dev.to/eimza/reverse-engineering-uyaps-udf-file-format-whats-inside-a-turkish-court-document-220m</id>
+        <link href="https://dev.to/eimza/reverse-engineering-uyaps-udf-file-format-whats-inside-a-turkish-court-document-220m"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsing ZIP Archives in the Browser with JSZip: A Practical Guide]]></title>
+        <id>https://dev.to/eimza/parsing-zip-archives-in-the-browser-with-jszip-a-practical-guide-19bn</id>
+        <link href="https://dev.to/eimza/parsing-zip-archives-in-the-browser-with-jszip-a-practical-guide-19bn"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building XML-to-Markdown Converters: Algorithms and Edge Cases]]></title>
+        <id>https://dev.to/eimza/building-xml-to-markdown-converters-algorithms-and-edge-cases-3nk1</id>
+        <link href="https://dev.to/eimza/building-xml-to-markdown-converters-algorithms-and-edge-cases-3nk1"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Translated captions in a Chrome extension: tab audio in MV3, and one stream instead of two services]]></title>
+        <id>https://dev.to/skrylkovs/translated-captions-in-a-chrome-extension-tab-audio-in-mv3-and-one-stream-instead-of-two-services-1ha3</id>
+        <link href="https://dev.to/skrylkovs/translated-captions-in-a-chrome-extension-tab-audio-in-mv3-and-one-stream-instead-of-two-services-1ha3"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping Large JSON Smooth: Update Only What Changed]]></title>
+        <id>https://dev.to/loggerhead_turtle_13b0d7e/keeping-large-json-smooth-update-only-what-changed-18al</id>
+        <link href="https://dev.to/loggerhead_turtle_13b0d7e/keeping-large-json-smooth-update-only-what-changed-18al"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cắt chi phí agentic coding: tách planner và worker]]></title>
+        <id>https://dev.to/bean_bean/cat-chi-phi-agentic-coding-tach-planner-va-worker-44a5</id>
+        <link href="https://dev.to/bean_bean/cat-chi-phi-agentic-coding-tach-planner-va-worker-44a5"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built HashDup: A Fast, Memory-Safe Duplicate File Finder CLI in Node.js]]></title>
+        <id>https://dev.to/mahdyarmonfared/how-i-built-hashdup-a-fast-memory-safe-duplicate-file-finder-cli-in-nodejs-3oa3</id>
+        <link href="https://dev.to/mahdyarmonfared/how-i-built-hashdup-a-fast-memory-safe-duplicate-file-finder-cli-in-nodejs-3oa3"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Signup Tests Need Intent, Not Just Clicks]]></title>
+        <id>https://dev.to/ryanlee91/react-signup-tests-need-intent-not-just-clicks-1npl</id>
+        <link href="https://dev.to/ryanlee91/react-signup-tests-need-intent-not-just-clicks-1npl"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I built an in-browser RAW photo editor with zero server uploads (WebGL/Client-side)]]></title>
+        <id>https://dev.to/ham_snap_c9f34bca7dfdc1fe/how-i-built-an-in-browser-raw-photo-editor-with-zero-server-uploads-webglclient-side-27dl</id>
+        <link href="https://dev.to/ham_snap_c9f34bca7dfdc1fe/how-i-built-an-in-browser-raw-photo-editor-with-zero-server-uploads-webglclient-side-27dl"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -291,76 +385,6 @@
         <title type="html"><![CDATA[ScrollEd wants to turn textbooks into TikTok]]></title>
         <id>https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/</id>
         <link href="https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World model companies are keeping a lot of secrets]]></title>
-        <id>https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/</id>
-        <link href="https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/</id>
-        <link href="https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineering Memory: Thoughts on learning to memorize first 100 digits of pi]]></title>
-        <id>https://gregorygundersen.com/blog/2024/12/21/engineering-memory/</id>
-        <link href="https://gregorygundersen.com/blog/2024/12/21/engineering-memory/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Race – Terminal Multiplexer on Infinite Canvas (macOS and Linux Beta)]]></title>
-        <id>https://race-term.com/</id>
-        <link href="https://race-term.com/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A GUI for non programmers for Epic's version control system Lore]]></title>
-        <id>https://www.anchorpoint.app/lore</id>
-        <link href="https://www.anchorpoint.app/lore"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A solar-powered, privacy-preserving vehicle counter (Pi 5 and YOLOv8)]]></title>
-        <id>https://www.mch170.com/projects/traffic_monitoring</id>
-        <link href="https://www.mch170.com/projects/traffic_monitoring"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust]]></title>
-        <id>https://github.com/gosuda/bitcoin-rs</id>
-        <link href="https://github.com/gosuda/bitcoin-rs"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Dangerous Castle]]></title>
-        <id>https://chloemashitermakesthings.wordpress.com/2026/09/14/a-dangerous-castle/</id>
-        <link href="https://chloemashitermakesthings.wordpress.com/2026/09/14/a-dangerous-castle/"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lint-HTTP 0.1.0 – Easy to use, complete HTTP traffic linter]]></title>
-        <id>https://crates.io/crates/lint-http/0.1.0</id>
-        <link href="https://crates.io/crates/lint-http/0.1.0"/>
-        <updated>2026-09-20T16:00:00.000Z</updated>
-        <published>2026-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Presley Gerber, Son of Cindy Crawford and Rande Gerber, Dies at 27]]></title>
-        <id>https://www.hollywoodreporter.com/lifestyle/lifestyle-news/presley-gerber-dead-cindy-crawford-rande-gerber-kaia-gerber-1236706714/</id>
-        <link href="https://www.hollywoodreporter.com/lifestyle/lifestyle-news/presley-gerber-dead-cindy-crawford-rande-gerber-kaia-gerber-1236706714/"/>
         <updated>2026-09-20T16:00:00.000Z</updated>
         <published>2026-09-20T16:00:00.000Z</published>
     </entry>
