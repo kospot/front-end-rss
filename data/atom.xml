@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-22T22:01:59.537Z</updated>
+    <updated>2026-09-23T00:01:06.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset]]></title>
-        <id>https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6</id>
-        <link href="https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6"/>
+        <title type="html"><![CDATA[Paramount will need to release way more movies to make this merger work]]></title>
+        <id>https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails</id>
+        <link href="https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras]]></title>
-        <id>https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style</id>
-        <link href="https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style"/>
+        <title type="html"><![CDATA[Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
@@ -36,9 +36,16 @@
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy"/>
+        <title type="html"><![CDATA[Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras]]></title>
+        <id>https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style</id>
+        <link href="https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset]]></title>
+        <id>https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6</id>
+        <link href="https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
@@ -57,13 +64,6 @@
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta admits Muse’s likeness to OpenClaw isn’t a coincidence]]></title>
-        <id>https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/</id>
-        <link href="https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"/>
-        <updated>2026-09-22T16:00:00.000Z</updated>
-        <published>2026-09-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes]]></title>
         <id>https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/</id>
         <link href="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"/>
@@ -71,9 +71,72 @@
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transfer Learning with MobileNetV2 in Keras: A Practical Guide]]></title>
-        <id>https://pub.towardsai.net/transfer-learning-with-mobilenetv2-in-keras-a-practical-guide-f5cc4935108a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/transfer-learning-with-mobilenetv2-in-keras-a-practical-guide-f5cc4935108a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Meta admits Muse’s likeness to OpenClaw isn’t a coincidence]]></title>
+        <id>https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/</id>
+        <link href="https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflections on object oriented design patterns (2026)]]></title>
+        <id>https://news.ycombinator.com/item?id=49809846</id>
+        <link href="https://news.ycombinator.com/item?id=49809846"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new CC, an AI agent built for families]]></title>
+        <id>https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/</id>
+        <link href="https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sovereign Substrate Appliance: Layer-1 Edge Node on ARM64]]></title>
+        <id>https://richardkugel.substack.com/p/sovereign-substrate-appliance-re</id>
+        <link href="https://richardkugel.substack.com/p/sovereign-substrate-appliance-re"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 'AI Safety' Movement Is Making AI Less Safe]]></title>
+        <id>https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/</id>
+        <link href="https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Livenerf – a benchmark for whether Opus 5.5 gets nerfed]]></title>
+        <id>https://github.com/ninjahawk/livenerf</id>
+        <link href="https://github.com/ninjahawk/livenerf"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding side drawer with workspace concepts to rio (rust terminal) like cmux has]]></title>
+        <id>https://github.com/raphamorim/rio/pull/1954</id>
+        <link href="https://github.com/raphamorim/rio/pull/1954"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercury Is Shrinking, and Faster Than We Thought]]></title>
+        <id>https://www.nytimes.com/2026/09/11/science/space/mercury-shrinking-wrinkles.html</id>
+        <link href="https://www.nytimes.com/2026/09/11/science/space/mercury-shrinking-wrinkles.html"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A WIP Lego Sorter: Maybe a million pounds is possible [video]]]></title>
+        <id>https://www.youtube.com/watch?v=9G2R9ZcgAhA</id>
+        <link href="https://www.youtube.com/watch?v=9G2R9ZcgAhA"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a News Article Triage Pipeline with Jev and Python]]></title>
+        <id>https://pub.towardsai.net/building-a-news-article-triage-pipeline-with-jev-and-python-f284765013a5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-a-news-article-triage-pipeline-with-jev-and-python-f284765013a5?source=rss----98111c9905da---4"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
@@ -85,44 +148,51 @@
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Buy Old & New TikTok Accounts Complete Guide In 2026]]></title>
-        <id>https://dev.to/fngmgmhmfnf/how-to-buy-old-new-tiktok-accounts-complete-guide-in-2026-f3m</id>
-        <link href="https://dev.to/fngmgmhmfnf/how-to-buy-old-new-tiktok-accounts-complete-guide-in-2026-f3m"/>
+        <title type="html"><![CDATA[Transfer Learning with MobileNetV2 in Keras: A Practical Guide]]></title>
+        <id>https://pub.towardsai.net/transfer-learning-with-mobilenetv2-in-keras-a-practical-guide-f5cc4935108a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/transfer-learning-with-mobilenetv2-in-keras-a-practical-guide-f5cc4935108a?source=rss----98111c9905da---4"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built an in-browser Swiss Army Knife with zero server uploads (PDFs, Images, JWT, Hashes)]]></title>
-        <id>https://dev.to/lyon24/i-built-an-in-browser-swiss-army-knife-with-zero-server-uploads-pdfs-images-jwt-hashes-25gh</id>
-        <link href="https://dev.to/lyon24/i-built-an-in-browser-swiss-army-knife-with-zero-server-uploads-pdfs-images-jwt-hashes-25gh"/>
+        <title type="html"><![CDATA[Best JavaScript Books in 2026 — From Beginner to Advanced]]></title>
+        <id>https://dev.to/devbookreader/best-javascript-books-in-2026-from-beginner-to-advanced-2c1k</id>
+        <link href="https://dev.to/devbookreader/best-javascript-books-in-2026-from-beginner-to-advanced-2c1k"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vue Composables: The Shared State Trap (+ Cheat Sheet)]]></title>
-        <id>https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia</id>
-        <link href="https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia"/>
+        <title type="html"><![CDATA[A Complete Step-by-Step Guide to Telegram Accounts ...]]></title>
+        <id>https://dev.to/fngmgmhmfnf/a-complete-step-by-step-guide-to-telegram-accounts--28bm</id>
+        <link href="https://dev.to/fngmgmhmfnf/a-complete-step-by-step-guide-to-telegram-accounts--28bm"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js proxy.ts Explained (with Cheat Sheet)]]></title>
-        <id>https://dev.to/parsajiravand/nextjs-proxyts-explained-with-cheat-sheet-j4i</id>
-        <link href="https://dev.to/parsajiravand/nextjs-proxyts-explained-with-cheat-sheet-j4i"/>
+        <title type="html"><![CDATA[10 Best Sites for Buy Verified Snapchat Ads Accounts ...]]></title>
+        <id>https://dev.to/fngmgmhmfnf/10-best-sites-for-buy-verified-snapchat-ads-accounts--1bg3</id>
+        <link href="https://dev.to/fngmgmhmfnf/10-best-sites-for-buy-verified-snapchat-ads-accounts--1bg3"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ESP32 WebSocket Dashboard: Live Browser Sensor Chart]]></title>
-        <id>https://dev.to/shilleh/esp32-websocket-dashboard-live-browser-sensor-chart-48l7</id>
-        <link href="https://dev.to/shilleh/esp32-websocket-dashboard-live-browser-sensor-chart-48l7"/>
+        <title type="html"><![CDATA[Legendas traduzidas ao vivo numa extensão do Chrome: áudio da aba no MV3 e um fluxo em vez de dois serviços]]></title>
+        <id>https://dev.to/skrylkovs/legendas-traduzidas-ao-vivo-numa-extensao-do-chrome-audio-da-aba-no-mv3-e-um-fluxo-em-vez-de-dois-28ae</id>
+        <link href="https://dev.to/skrylkovs/legendas-traduzidas-ao-vivo-numa-extensao-do-chrome-audio-da-aba-no-mv3-e-um-fluxo-em-vez-de-dois-28ae"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 84 Buy Verified PayPal Account Support Options – USA, UK & Worldwide]]></title>
-        <id>https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-support-options-usa-uk-worldwide-fgo</id>
-        <link href="https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-support-options-usa-uk-worldwide-fgo"/>
+        <title type="html"><![CDATA[Top 10 Places to Buy Verified OnlyFans Accounts In 2026]]></title>
+        <id>https://dev.to/fngmgmhmfnf/top-10-places-to-buy-verified-onlyfans-accounts-in-2026-3250</id>
+        <link href="https://dev.to/fngmgmhmfnf/top-10-places-to-buy-verified-onlyfans-accounts-in-2026-3250"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 84 Buy Verified PayPal Account Setup Services – USA, UK & Worldwide]]></title>
+        <id>https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-setup-services-usa-uk-worldwide-221l</id>
+        <link href="https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-setup-services-usa-uk-worldwide-221l"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
@@ -134,9 +204,44 @@
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 84 Buy Verified PayPal Account Setup Services – USA, UK & Worldwide]]></title>
-        <id>https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-setup-services-usa-uk-worldwide-221l</id>
-        <link href="https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-setup-services-usa-uk-worldwide-221l"/>
+        <title type="html"><![CDATA[Top 84 Buy Verified PayPal Account Support Options – USA, UK & Worldwide]]></title>
+        <id>https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-support-options-usa-uk-worldwide-fgo</id>
+        <link href="https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-support-options-usa-uk-worldwide-fgo"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESP32 WebSocket Dashboard: Live Browser Sensor Chart]]></title>
+        <id>https://dev.to/shilleh/esp32-websocket-dashboard-live-browser-sensor-chart-48l7</id>
+        <link href="https://dev.to/shilleh/esp32-websocket-dashboard-live-browser-sensor-chart-48l7"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js proxy.ts Explained (with Cheat Sheet)]]></title>
+        <id>https://dev.to/parsajiravand/nextjs-proxyts-explained-with-cheat-sheet-j4i</id>
+        <link href="https://dev.to/parsajiravand/nextjs-proxyts-explained-with-cheat-sheet-j4i"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue Composables: The Shared State Trap (+ Cheat Sheet)]]></title>
+        <id>https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia</id>
+        <link href="https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built an in-browser Swiss Army Knife with zero server uploads (PDFs, Images, JWT, Hashes)]]></title>
+        <id>https://dev.to/lyon24/i-built-an-in-browser-swiss-army-knife-with-zero-server-uploads-pdfs-images-jwt-hashes-25gh</id>
+        <link href="https://dev.to/lyon24/i-built-an-in-browser-swiss-army-knife-with-zero-server-uploads-pdfs-images-jwt-hashes-25gh"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Buy Old & New TikTok Accounts Complete Guide In 2026]]></title>
+        <id>https://dev.to/fngmgmhmfnf/how-to-buy-old-new-tiktok-accounts-complete-guide-in-2026-f3m</id>
+        <link href="https://dev.to/fngmgmhmfnf/how-to-buy-old-new-tiktok-accounts-complete-guide-in-2026-f3m"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
@@ -155,23 +260,9 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta patches Muse exploit that let attackers control the AI agent]]></title>
-        <id>https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent</id>
-        <link href="https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content]]></title>
-        <id>https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations</id>
-        <link href="https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paramount settles lawsuit blocking $110 billion Warner Bros. merger]]></title>
-        <id>https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement</id>
-        <link href="https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement"/>
+        <title type="html"><![CDATA[Waymo is offering transit discounts again, this time with Visa]]></title>
+        <id>https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa</id>
+        <link href="https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -183,9 +274,23 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waymo is offering transit discounts again, this time with Visa]]></title>
-        <id>https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa</id>
-        <link href="https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa"/>
+        <title type="html"><![CDATA[Paramount settles lawsuit blocking $110 billion Warner Bros. merger]]></title>
+        <id>https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement</id>
+        <link href="https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content]]></title>
+        <id>https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations</id>
+        <link href="https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations"/>
+        <updated>2026-09-21T16:00:00.000Z</updated>
+        <published>2026-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta patches Muse exploit that let attackers control the AI agent]]></title>
+        <id>https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent</id>
+        <link href="https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
@@ -253,114 +358,9 @@
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again]]></title>
-        <id>https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/</id>
-        <link href="https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta deal will help plastics recycling startup MacroCycle build its first factory]]></title>
-        <id>https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/</id>
-        <link href="https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X will now tell users when governments have forced it to limit their posts]]></title>
-        <id>https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/</id>
-        <link href="https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s AI agent has been blocked from using Amazon.com]]></title>
-        <id>https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/</id>
-        <link href="https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google]]></title>
-        <id>https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/</id>
-        <link href="https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s Muse is outpacing ChatGPT’s early mobile launch]]></title>
-        <id>https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/</id>
-        <link href="https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morphotonics raises €40M to expand its display tech into data centers]]></title>
-        <id>https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/</id>
-        <link href="https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/</id>
-        <link href="https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AstroForge is putting AI in command of its next spacecraft]]></title>
-        <id>https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/</id>
-        <link href="https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt]]></title>
         <id>https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/</id>
         <link href="https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Five yes/no questions read your X posts for $0.00004 a reading]]></title>
-        <id>https://postneedle.com/accounts</id>
-        <link href="https://postneedle.com/accounts"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixing cringeworthy bugs in the OpenBSD console code]]></title>
-        <id>https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console</id>
-        <link href="https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UN chief says 'Cracks have become canyons' as world faces four tests of power]]></title>
-        <id>https://news.un.org/en/story/2026/09/1168392</id>
-        <link href="https://news.un.org/en/story/2026/09/1168392"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU States plan "digital expropriation" of Europeans in the interest of AI comp]]></title>
-        <id>https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies</id>
-        <link href="https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Husky: A model-specific inference engine up to 4.5x faster than Apple's MLX]]></title>
-        <id>https://husky.underdog.ai/</id>
-        <link href="https://husky.underdog.ai/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeSafe AI Jev vs. GPT-6 Astra]]></title>
-        <id>https://vercel.com/i/jev-vs-gpt-6-astra</id>
-        <link href="https://vercel.com/i/jev-vs-gpt-6-astra"/>
         <updated>2026-09-21T16:00:00.000Z</updated>
         <published>2026-09-21T16:00:00.000Z</published>
     </entry>
