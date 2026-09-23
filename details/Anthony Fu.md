@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-23 23:04:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-24 06:01:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Anthony Fu
 
@@ -6,4 +6,3 @@
 
 
 - [2026-09-16-Pluggable,-Extensible,-and-Playful-DevTools](https://antfu.me/posts/pluggable-extensible-playful-devtools) 
-- [2026-08-25-Ecosystem-Sponsorship-Forwarding](https://antfu.me/posts/ecosystem-sponsorship-forwarding) 
