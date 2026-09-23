@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-23T02:02:44.981Z</updated>
+    <updated>2026-09-23T04:02:19.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,13 +64,6 @@
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes]]></title>
-        <id>https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/</id>
-        <link href="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"/>
-        <updated>2026-09-22T16:00:00.000Z</updated>
-        <published>2026-09-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meta admits Muse’s likeness to OpenClaw isn’t a coincidence]]></title>
         <id>https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/</id>
         <link href="https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"/>
@@ -78,93 +71,51 @@
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump's sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent]]></title>
-        <id>https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/</id>
-        <link href="https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/"/>
+        <title type="html"><![CDATA[OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes]]></title>
+        <id>https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/</id>
+        <link href="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tsetlin Machine MNIST classifier running on a Tang Nano 9K FPGA board]]></title>
-        <id>https://github.com/philtomson/hotc_examples/tree/main/examples/Tsetlin_hotstate_uart</id>
-        <link href="https://github.com/philtomson/hotc_examples/tree/main/examples/Tsetlin_hotstate_uart"/>
+        <title type="html"><![CDATA[Data-Only Attacks Are Easier Than You Think]]></title>
+        <id>https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think</id>
+        <link href="https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chess boxing: a sport where brain meets brawn [video]]]></title>
-        <id>https://www.youtube.com/watch?v=VmOFhZbgXIc</id>
-        <link href="https://www.youtube.com/watch?v=VmOFhZbgXIc"/>
+        <title type="html"><![CDATA[Porting Bhyve to Rust]]></title>
+        <id>https://github.com/TritonDataCenter/rshyve</id>
+        <link href="https://github.com/TritonDataCenter/rshyve"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Energy could use your support]]></title>
-        <id>https://html.energy/</id>
-        <link href="https://html.energy/"/>
+        <title type="html"><![CDATA[Anatomy of a (Postgres) Search Engine]]></title>
+        <id>https://planetscale.com/blog/anatomy-of-a-postgres-search-engine</id>
+        <link href="https://planetscale.com/blog/anatomy-of-a-postgres-search-engine"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Infrastructure – that just works: Waitlist]]></title>
-        <id>https://onepersoninfra.dev/</id>
-        <link href="https://onepersoninfra.dev/"/>
+        <title type="html"><![CDATA[RGPU – Use a remote Nvidia GPU from PyTorch on a machine that has none]]></title>
+        <id>https://rgpu.dev</id>
+        <link href="https://rgpu.dev"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solitaire Alone Together]]></title>
-        <id>https://eieio.games/blog/solitaire-alone-together/</id>
-        <link href="https://eieio.games/blog/solitaire-alone-together/"/>
+        <title type="html"><![CDATA[Show HN: SubRead: line up an audiobook with its eBook, in the browser]]></title>
+        <id>https://subread.space</id>
+        <link href="https://subread.space"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What an MCP server costs you in tokens]]></title>
-        <id>https://workos.com/blog/mcp-server-token-cost</id>
-        <link href="https://workos.com/blog/mcp-server-token-cost"/>
-        <updated>2026-09-22T16:00:00.000Z</updated>
-        <published>2026-09-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A WIP Lego Sorter: Maybe a million pounds is possible [video]]]></title>
-        <id>https://www.youtube.com/watch?v=9G2R9ZcgAhA</id>
-        <link href="https://www.youtube.com/watch?v=9G2R9ZcgAhA"/>
-        <updated>2026-09-22T16:00:00.000Z</updated>
-        <published>2026-09-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mercury Is Shrinking, and Faster Than We Thought]]></title>
-        <id>https://www.nytimes.com/2026/09/11/science/space/mercury-shrinking-wrinkles.html</id>
-        <link href="https://www.nytimes.com/2026/09/11/science/space/mercury-shrinking-wrinkles.html"/>
-        <updated>2026-09-22T16:00:00.000Z</updated>
-        <published>2026-09-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding side drawer with workspace concepts to rio (rust terminal) like cmux has]]></title>
-        <id>https://github.com/raphamorim/rio/pull/1954</id>
-        <link href="https://github.com/raphamorim/rio/pull/1954"/>
-        <updated>2026-09-22T16:00:00.000Z</updated>
-        <published>2026-09-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Livenerf – a benchmark for whether Opus 5.5 gets nerfed]]></title>
-        <id>https://github.com/ninjahawk/livenerf</id>
-        <link href="https://github.com/ninjahawk/livenerf"/>
-        <updated>2026-09-22T16:00:00.000Z</updated>
-        <published>2026-09-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 'AI Safety' Movement Is Making AI Less Safe]]></title>
-        <id>https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/</id>
-        <link href="https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/"/>
-        <updated>2026-09-22T16:00:00.000Z</updated>
-        <published>2026-09-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sovereign Substrate Appliance: Layer-1 Edge Node on ARM64]]></title>
-        <id>https://richardkugel.substack.com/p/sovereign-substrate-appliance-re</id>
-        <link href="https://richardkugel.substack.com/p/sovereign-substrate-appliance-re"/>
+        <title type="html"><![CDATA[Reflections on object oriented design patterns (2026)]]></title>
+        <id>https://news.ycombinator.com/item?id=49809846</id>
+        <link href="https://news.ycombinator.com/item?id=49809846"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
@@ -176,9 +127,93 @@
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reflections on object oriented design patterns (2026)]]></title>
-        <id>https://news.ycombinator.com/item?id=49809846</id>
-        <link href="https://news.ycombinator.com/item?id=49809846"/>
+        <title type="html"><![CDATA[Sovereign Substrate Appliance: Layer-1 Edge Node on ARM64]]></title>
+        <id>https://richardkugel.substack.com/p/sovereign-substrate-appliance-re</id>
+        <link href="https://richardkugel.substack.com/p/sovereign-substrate-appliance-re"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 'AI Safety' Movement Is Making AI Less Safe]]></title>
+        <id>https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/</id>
+        <link href="https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Livenerf – a benchmark for whether Opus 5.5 gets nerfed]]></title>
+        <id>https://github.com/ninjahawk/livenerf</id>
+        <link href="https://github.com/ninjahawk/livenerf"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding side drawer with workspace concepts to rio (rust terminal) like cmux has]]></title>
+        <id>https://github.com/raphamorim/rio/pull/1954</id>
+        <link href="https://github.com/raphamorim/rio/pull/1954"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercury Is Shrinking, and Faster Than We Thought]]></title>
+        <id>https://www.nytimes.com/2026/09/11/science/space/mercury-shrinking-wrinkles.html</id>
+        <link href="https://www.nytimes.com/2026/09/11/science/space/mercury-shrinking-wrinkles.html"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A WIP Lego Sorter: Maybe a million pounds is possible [video]]]></title>
+        <id>https://www.youtube.com/watch?v=9G2R9ZcgAhA</id>
+        <link href="https://www.youtube.com/watch?v=9G2R9ZcgAhA"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What an MCP server costs you in tokens]]></title>
+        <id>https://workos.com/blog/mcp-server-token-cost</id>
+        <link href="https://workos.com/blog/mcp-server-token-cost"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solitaire Alone Together]]></title>
+        <id>https://eieio.games/blog/solitaire-alone-together/</id>
+        <link href="https://eieio.games/blog/solitaire-alone-together/"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infrastructure – that just works: Waitlist]]></title>
+        <id>https://onepersoninfra.dev/</id>
+        <link href="https://onepersoninfra.dev/"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Energy could use your support]]></title>
+        <id>https://html.energy/</id>
+        <link href="https://html.energy/"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chess boxing: a sport where brain meets brawn [video]]]></title>
+        <id>https://www.youtube.com/watch?v=VmOFhZbgXIc</id>
+        <link href="https://www.youtube.com/watch?v=VmOFhZbgXIc"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tsetlin Machine MNIST classifier running on a Tang Nano 9K FPGA board]]></title>
+        <id>https://github.com/philtomson/hotc_examples/tree/main/examples/Tsetlin_hotstate_uart</id>
+        <link href="https://github.com/philtomson/hotc_examples/tree/main/examples/Tsetlin_hotstate_uart"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump's sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent]]></title>
+        <id>https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/</id>
+        <link href="https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
@@ -204,164 +239,129 @@
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Partner Accelerator Review: My Experience With an AI Business Partner Built for 7-Figure Potential**]]></title>
-        <id>https://dev.to/al_beruni_6f2dfaf29b51d96/ai-partner-accelerator-review-my-experience-with-an-ai-business-partner-built-for-7-figure-53kp</id>
-        <link href="https://dev.to/al_beruni_6f2dfaf29b51d96/ai-partner-accelerator-review-my-experience-with-an-ai-business-partner-built-for-7-figure-53kp"/>
+        <title type="html"><![CDATA[Entropy Can Flow, or It Can Guide. Be Entropy. LEDFlow: Introducing Entropy-guided Generation Order into Uniform Discrete Flow]]></title>
+        <id>https://arxiv.org/abs/2609.25131</id>
+        <link href="https://arxiv.org/abs/2609.25131"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Buy Old & New TikTok Accounts Complete Guide In 2026]]></title>
-        <id>https://dev.to/fngmgmhmfnf/how-to-buy-old-new-tiktok-accounts-complete-guide-in-2026-f3m</id>
-        <link href="https://dev.to/fngmgmhmfnf/how-to-buy-old-new-tiktok-accounts-complete-guide-in-2026-f3m"/>
+        <title type="html"><![CDATA[Stable Unsupervised Continual Chunking with Sheaf SyncMap]]></title>
+        <id>https://arxiv.org/abs/2609.25143</id>
+        <link href="https://arxiv.org/abs/2609.25143"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built an in-browser Swiss Army Knife with zero server uploads (PDFs, Images, JWT, Hashes)]]></title>
-        <id>https://dev.to/lyon24/i-built-an-in-browser-swiss-army-knife-with-zero-server-uploads-pdfs-images-jwt-hashes-25gh</id>
-        <link href="https://dev.to/lyon24/i-built-an-in-browser-swiss-army-knife-with-zero-server-uploads-pdfs-images-jwt-hashes-25gh"/>
+        <title type="html"><![CDATA[Brain-Inspired Hierarchical Modularity for General Continual Learning]]></title>
+        <id>https://arxiv.org/abs/2609.25146</id>
+        <link href="https://arxiv.org/abs/2609.25146"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vue Composables: The Shared State Trap (+ Cheat Sheet)]]></title>
-        <id>https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia</id>
-        <link href="https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia"/>
+        <title type="html"><![CDATA[Dual-GNN Multilevel Coarsening for Maximum Independent Set]]></title>
+        <id>https://arxiv.org/abs/2609.25149</id>
+        <link href="https://arxiv.org/abs/2609.25149"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js proxy.ts Explained (with Cheat Sheet)]]></title>
-        <id>https://dev.to/parsajiravand/nextjs-proxyts-explained-with-cheat-sheet-j4i</id>
-        <link href="https://dev.to/parsajiravand/nextjs-proxyts-explained-with-cheat-sheet-j4i"/>
+        <title type="html"><![CDATA[Multi-Term Fourier Graph Neural Network with Sample Relationship Learning for Enhanced Remaining Useful Life Prediction]]></title>
+        <id>https://arxiv.org/abs/2609.25179</id>
+        <link href="https://arxiv.org/abs/2609.25179"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ESP32 WebSocket Dashboard: Live Browser Sensor Chart]]></title>
-        <id>https://dev.to/shilleh/esp32-websocket-dashboard-live-browser-sensor-chart-48l7</id>
-        <link href="https://dev.to/shilleh/esp32-websocket-dashboard-live-browser-sensor-chart-48l7"/>
+        <title type="html"><![CDATA[Trains but Doesn't Learn: A Post-Training Delivery Benchmark for LLM Agents as Forward-Deployed Engineers]]></title>
+        <id>https://arxiv.org/abs/2609.25237</id>
+        <link href="https://arxiv.org/abs/2609.25237"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 84 Buy Verified PayPal Account Support Options – USA, UK & Worldwide]]></title>
-        <id>https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-support-options-usa-uk-worldwide-fgo</id>
-        <link href="https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-support-options-usa-uk-worldwide-fgo"/>
+        <title type="html"><![CDATA[Topological Signal Processing With Unoriented Operators]]></title>
+        <id>https://arxiv.org/abs/2609.25310</id>
+        <link href="https://arxiv.org/abs/2609.25310"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 84 Buy Verified PayPal Account Resources – USA, UK & Worldwide]]></title>
-        <id>https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-resources-usa-uk-worldwide-57oe</id>
-        <link href="https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-resources-usa-uk-worldwide-57oe"/>
+        <title type="html"><![CDATA[A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization]]></title>
+        <id>https://arxiv.org/abs/2609.25471</id>
+        <link href="https://arxiv.org/abs/2609.25471"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 84 Buy Verified PayPal Account Setup Services – USA, UK & Worldwide]]></title>
-        <id>https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-setup-services-usa-uk-worldwide-221l</id>
-        <link href="https://dev.to/cosetta_walker_19c05c105d/top-84-buy-verified-paypal-account-setup-services-usa-uk-worldwide-221l"/>
+        <title type="html"><![CDATA[Learning Defensive Policies against Diverse Inference Attacks for Smart Meter Privacy]]></title>
+        <id>https://arxiv.org/abs/2609.25484</id>
+        <link href="https://arxiv.org/abs/2609.25484"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Places to Buy Verified OnlyFans Accounts In 2026]]></title>
-        <id>https://dev.to/fngmgmhmfnf/top-10-places-to-buy-verified-onlyfans-accounts-in-2026-3250</id>
-        <link href="https://dev.to/fngmgmhmfnf/top-10-places-to-buy-verified-onlyfans-accounts-in-2026-3250"/>
+        <title type="html"><![CDATA[SambaGraph: Action-Reaction Spatio-Temporal Graphs for Soccer Tactical Response Modeling]]></title>
+        <id>https://arxiv.org/abs/2609.25569</id>
+        <link href="https://arxiv.org/abs/2609.25569"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Legendas traduzidas ao vivo numa extensão do Chrome: áudio da aba no MV3 e um fluxo em vez de dois serviços]]></title>
-        <id>https://dev.to/skrylkovs/legendas-traduzidas-ao-vivo-numa-extensao-do-chrome-audio-da-aba-no-mv3-e-um-fluxo-em-vez-de-dois-28ae</id>
-        <link href="https://dev.to/skrylkovs/legendas-traduzidas-ao-vivo-numa-extensao-do-chrome-audio-da-aba-no-mv3-e-um-fluxo-em-vez-de-dois-28ae"/>
+        <title type="html"><![CDATA[Rewired or Gated? How Instruction Tuning Shapes Knowledge-Conflict Circuits in LLMs]]></title>
+        <id>https://arxiv.org/abs/2609.25602</id>
+        <link href="https://arxiv.org/abs/2609.25602"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 Best Sites for Buy Verified Snapchat Ads Accounts ...]]></title>
-        <id>https://dev.to/fngmgmhmfnf/10-best-sites-for-buy-verified-snapchat-ads-accounts--1bg3</id>
-        <link href="https://dev.to/fngmgmhmfnf/10-best-sites-for-buy-verified-snapchat-ads-accounts--1bg3"/>
+        <title type="html"><![CDATA[An Exploratory Replica-Overlap Probe of the Grokking Transition]]></title>
+        <id>https://arxiv.org/abs/2609.25634</id>
+        <link href="https://arxiv.org/abs/2609.25634"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Complete Step-by-Step Guide to Telegram Accounts ...]]></title>
-        <id>https://dev.to/fngmgmhmfnf/a-complete-step-by-step-guide-to-telegram-accounts--28bm</id>
-        <link href="https://dev.to/fngmgmhmfnf/a-complete-step-by-step-guide-to-telegram-accounts--28bm"/>
+        <title type="html"><![CDATA[Efficient Cost-Aware LLM Evaluation via Bayesian Bandit Gittins Indices]]></title>
+        <id>https://arxiv.org/abs/2609.25645</id>
+        <link href="https://arxiv.org/abs/2609.25645"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best JavaScript Books in 2026 — From Beginner to Advanced]]></title>
-        <id>https://dev.to/devbookreader/best-javascript-books-in-2026-from-beginner-to-advanced-2c1k</id>
-        <link href="https://dev.to/devbookreader/best-javascript-books-in-2026-from-beginner-to-advanced-2c1k"/>
+        <title type="html"><![CDATA[From Experts to Sub-experts: Fine-grained Parameter-Efficient Fine-Tuning for MoE LLMs]]></title>
+        <id>https://arxiv.org/abs/2609.25655</id>
+        <link href="https://arxiv.org/abs/2609.25655"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？]]></title>
-        <id>https://sspai.com/post/114551</id>
-        <link href="https://sspai.com/post/114551"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Targeted Review for AI-Assisted Biodiversity Surveys: Active Continuous-Score Occupancy Modeling]]></title>
+        <id>https://arxiv.org/abs/2609.25657</id>
+        <link href="https://arxiv.org/abs/2609.25657"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[App+1 | Coast：用十年经验，给记账这件事一个「终点」]]></title>
-        <id>https://sspai.com/post/114479</id>
-        <link href="https://sspai.com/post/114479"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[When Riemann flows with Wasserstein: Generative Modeling of Probability Distributions on Manifolds]]></title>
+        <id>https://arxiv.org/abs/2609.25659</id>
+        <link href="https://arxiv.org/abs/2609.25659"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta patches Muse exploit that let attackers control the AI agent]]></title>
-        <id>https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent</id>
-        <link href="https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Graph Domain Adaptation Does Not End with Representation Learning]]></title>
+        <id>https://arxiv.org/abs/2609.25692</id>
+        <link href="https://arxiv.org/abs/2609.25692"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content]]></title>
-        <id>https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations</id>
-        <link href="https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paramount settles lawsuit blocking $110 billion Warner Bros. merger]]></title>
-        <id>https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement</id>
-        <link href="https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you forget how you feel about Meta?]]></title>
-        <id>https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram</id>
-        <link href="https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo is offering transit discounts again, this time with Visa]]></title>
-        <id>https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa</id>
-        <link href="https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viture’s Vonder Glasses Are Meant to Map Your Mind]]></title>
-        <id>https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/</id>
-        <link href="https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Premiere, One of the iPhone’s Best Video-Editing Apps, Is Now on Android]]></title>
-        <id>https://www.wired.com/story/adobe-premiere-now-on-android/</id>
-        <link href="https://www.wired.com/story/adobe-premiere-now-on-android/"/>
-        <updated>2026-09-21T16:00:00.000Z</updated>
-        <published>2026-09-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Fully Byzantine-Resilient Multi-Agent Reinforcement Learning]]></title>
+        <id>https://arxiv.org/abs/2609.25701</id>
+        <link href="https://arxiv.org/abs/2609.25701"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
     </entry>
 </feed>
