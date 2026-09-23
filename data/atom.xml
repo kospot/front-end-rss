@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-23T04:02:19.690Z</updated>
+    <updated>2026-09-23T07:04:21.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,13 +50,6 @@
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Claim Your Cut of Apple’s $250 Million Siri Settlement]]></title>
-        <id>https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/</id>
-        <link href="https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/"/>
-        <updated>2026-09-22T16:00:00.000Z</updated>
-        <published>2026-09-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rabbit Is Back, This Time With an AI Agent App]]></title>
         <id>https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/</id>
         <link href="https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/"/>
@@ -64,9 +57,16 @@
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta admits Muse’s likeness to OpenClaw isn’t a coincidence]]></title>
-        <id>https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/</id>
-        <link href="https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"/>
+        <title type="html"><![CDATA[How to Claim Your Cut of Apple’s $250 Million Siri Settlement]]></title>
+        <id>https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/</id>
+        <link href="https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI]]></title>
+        <id>https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/</id>
+        <link href="https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
@@ -74,6 +74,13 @@
         <title type="html"><![CDATA[OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes]]></title>
         <id>https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/</id>
         <link href="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"/>
+        <updated>2026-09-22T16:00:00.000Z</updated>
+        <published>2026-09-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta admits Muse’s likeness to OpenClaw isn’t a coincidence]]></title>
+        <id>https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/</id>
+        <link href="https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Graph Domain Adaptation Does Not End with Representation Learning]]></title>
         <id>https://arxiv.org/abs/2609.25692</id>
         <link href="https://arxiv.org/abs/2609.25692"/>
-        <updated>2026-09-22T16:00:00.000Z</updated>
-        <published>2026-09-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fully Byzantine-Resilient Multi-Agent Reinforcement Learning]]></title>
-        <id>https://arxiv.org/abs/2609.25701</id>
-        <link href="https://arxiv.org/abs/2609.25701"/>
         <updated>2026-09-22T16:00:00.000Z</updated>
         <published>2026-09-22T16:00:00.000Z</published>
     </entry>
