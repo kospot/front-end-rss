@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-24T07:02:18.108Z</updated>
+    <updated>2026-09-24T10:01:26.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」]]></title>
+        <id>https://sspai.com/post/113823</id>
+        <link href="https://sspai.com/post/113823"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等]]></title>
         <id>https://sspai.com/post/114913</id>
         <link href="https://sspai.com/post/114913"/>
@@ -22,79 +29,9 @@
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta is making a standalone Muse AI gadget]]></title>
-        <id>https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware</id>
-        <link href="https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s AI agent is a cute little guy who’s great at spending my money]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech’s new Blue Yeti 2 mic adjusts itself to where you are]]></title>
-        <id>https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability</id>
-        <link href="https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech’s new haptics-based gaming mouse is a little better and $20 more]]></title>
-        <id>https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price</id>
-        <link href="https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch]]></title>
-        <id>https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote</id>
-        <link href="https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Connect 2026: The biggest news and announcements]]></title>
-        <id>https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements</id>
-        <link href="https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta is making Muse more powerful and will let you video chat with it, too]]></title>
-        <id>https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026</id>
-        <link href="https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta ditches the camera on its newest smart glasses]]></title>
-        <id>https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026</id>
-        <link href="https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muse is coming to Meta smart glasses]]></title>
-        <id>https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features</id>
-        <link href="https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s next VR device isn’t a headset — it’s glasses]]></title>
-        <id>https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on</id>
-        <link href="https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on"/>
+        <title type="html"><![CDATA[Gemini 4 is almost ready, says new Google DeepMind chief]]></title>
+        <id>https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu</id>
+        <link href="https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
@@ -106,23 +43,93 @@
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TurboTax Full Service Coupons This September 2026]]></title>
-        <id>https://www.wired.com/story/turbotax-coupon/</id>
-        <link href="https://www.wired.com/story/turbotax-coupon/"/>
+        <title type="html"><![CDATA[Meta’s next VR device isn’t a headset — it’s glasses]]></title>
+        <id>https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on</id>
+        <link href="https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot]]></title>
-        <id>https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/</id>
-        <link href="https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/"/>
+        <title type="html"><![CDATA[Muse is coming to Meta smart glasses]]></title>
+        <id>https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features</id>
+        <link href="https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs]]></title>
-        <id>https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/</id>
-        <link href="https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/"/>
+        <title type="html"><![CDATA[Meta ditches the camera on its newest smart glasses]]></title>
+        <id>https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026</id>
+        <link href="https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta is making Muse more powerful and will let you video chat with it, too]]></title>
+        <id>https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026</id>
+        <link href="https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Connect 2026: The biggest news and announcements]]></title>
+        <id>https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements</id>
+        <link href="https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch]]></title>
+        <id>https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote</id>
+        <link href="https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech’s new haptics-based gaming mouse is a little better and $20 more]]></title>
+        <id>https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price</id>
+        <link href="https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech’s new Blue Yeti 2 mic adjusts itself to where you are]]></title>
+        <id>https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability</id>
+        <link href="https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta’s AI agent is a cute little guy who’s great at spending my money]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta is making a standalone Muse AI gadget]]></title>
+        <id>https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware</id>
+        <link href="https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists Detect Radio Signals from an Exoplanet for the First Time in History]]></title>
+        <id>https://www.wired.com/story/scientists-detect-radio-signals-from-exoplanet-for-first-time-in-history/</id>
+        <link href="https://www.wired.com/story/scientists-detect-radio-signals-from-exoplanet-for-first-time-in-history/"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices]]></title>
+        <id>https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/</id>
+        <link href="https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
@@ -134,9 +141,23 @@
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices]]></title>
-        <id>https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/</id>
-        <link href="https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/"/>
+        <title type="html"><![CDATA[The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs]]></title>
+        <id>https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/</id>
+        <link href="https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot]]></title>
+        <id>https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/</id>
+        <link href="https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TurboTax Full Service Coupons This September 2026]]></title>
+        <id>https://www.wired.com/story/turbotax-coupon/</id>
+        <link href="https://www.wired.com/story/turbotax-coupon/"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
@@ -197,156 +218,58 @@
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Contrastive Language Model (CLM): An Ultra-Fast System One Model]]></title>
-        <id>https://twitter.com/jackyk02/status/2102905335925424285</id>
-        <link href="https://twitter.com/jackyk02/status/2102905335925424285"/>
+        <title type="html"><![CDATA[Asteroid (14331) Alyankovic named after 'Weird Al' Yankovic]]></title>
+        <id>https://www.minorplanetcenter.net/db_search/show_object?utf8=%E2%9C%93&amp;object_id=alyankovic</id>
+        <link href="https://www.minorplanetcenter.net/db_search/show_object?utf8=%E2%9C%93&amp;object_id=alyankovic"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Update: Source Download – Inspect, grab assets, screenshot and record video/GIF]]></title>
-        <id>https://chromewebstore.google.com/detail/source-download/nockdgincmpfojabnhbofkddgcmnodpd</id>
-        <link href="https://chromewebstore.google.com/detail/source-download/nockdgincmpfojabnhbofkddgcmnodpd"/>
+        <title type="html"><![CDATA[Apple "Audio Intelligence" is real bad [video]]]></title>
+        <id>https://www.youtube.com/watch?v=GyxYEYsNUn4</id>
+        <link href="https://www.youtube.com/watch?v=GyxYEYsNUn4"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can open-source prompt-injection detectors catch realistic AI agent attacks?]]></title>
-        <id>https://github.com/rudratoshs/buried-injections</id>
-        <link href="https://github.com/rudratoshs/buried-injections"/>
+        <title type="html"><![CDATA[Show HN: Tachyon – Java MCP Server SDK]]></title>
+        <id>https://tachyonmcp.dev</id>
+        <link href="https://tachyonmcp.dev"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The cost and quality frontier across 29 AI coding models]]></title>
-        <id>https://bito.ai/benchmarks/ai-coding-model-cost/</id>
-        <link href="https://bito.ai/benchmarks/ai-coding-model-cost/"/>
+        <title type="html"><![CDATA[Meta takes down satirical video confronting Meta employees with Meta glasses]]></title>
+        <id>https://mastodon.social/@Roelmaalderink/117324258010446819</id>
+        <link href="https://mastodon.social/@Roelmaalderink/117324258010446819"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inferact's Kimi K3 Megakernel hits 700 tok/s on TPU, Beating GPU]]></title>
-        <id>https://inferact.ai/blog/tpu-megakernels</id>
-        <link href="https://inferact.ai/blog/tpu-megakernels"/>
+        <title type="html"><![CDATA[I reverse-engineered AutoCAD's 3D format to convert DWG to STEP with Claude]]></title>
+        <id>https://cadyon.com/</id>
+        <link href="https://cadyon.com/"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Europe's fastest supercomputer is finally getting its domestic silicon infusion]]></title>
-        <id>https://www.theregister.com/systems/2026/09/23/europes-fastest-supercomputer-is-finally-getting-its-domestic-silicon-infusion/5298665</id>
-        <link href="https://www.theregister.com/systems/2026/09/23/europes-fastest-supercomputer-is-finally-getting-its-domestic-silicon-infusion/5298665"/>
+        <title type="html"><![CDATA[Looks promising for document editing with your agent]]></title>
+        <id>https://www.paperinstruments.com/blog/introducing-paper-office</id>
+        <link href="https://www.paperinstruments.com/blog/introducing-paper-office"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I asked 5 LLMs 10k questions and indexed every domain they cited]]></title>
-        <id>https://citegeo.uvansa.com</id>
-        <link href="https://citegeo.uvansa.com"/>
+        <title type="html"><![CDATA[Chrome Extension Job Alerts]]></title>
+        <id>https://www.talentize.com</id>
+        <link href="https://www.talentize.com"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jev deserves hype but not the type its getting]]></title>
-        <id>https://github.com/YidiDev/jev-benchmark</id>
-        <link href="https://github.com/YidiDev/jev-benchmark"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta VR Glasses]]></title>
-        <id>https://www.meta.com/vr-glasses/</id>
-        <link href="https://www.meta.com/vr-glasses/"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux on Snapdragon X2 Series Early Developer Preview]]></title>
-        <id>https://www.qualcomm.com/developer/blog/2026/09/announcing-linux-on-snapdragon-x2-series-early-developer-preview</id>
-        <link href="https://www.qualcomm.com/developer/blog/2026/09/announcing-linux-on-snapdragon-x2-series-early-developer-preview"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Submit asynchronous LLM batch jobs through one interface]]></title>
-        <id>https://github.com/gojiplus/batchlane</id>
-        <link href="https://github.com/gojiplus/batchlane"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A CC0 museum of retro 3D tricks you can paste into a page]]></title>
-        <id>https://3d-retro.com/</id>
-        <link href="https://3d-retro.com/"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post-Training Post-Morten: Tenet / Harvey]]></title>
-        <id>https://newpriors.substack.com/p/post-training-post-mortem-tenet-by</id>
-        <link href="https://newpriors.substack.com/p/post-training-post-mortem-tenet-by"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surprise, Meta's latest AI gimmick is just underpaid humans]]></title>
-        <id>https://www.avclub.com/meta-muse-ai-human-labor</id>
-        <link href="https://www.avclub.com/meta-muse-ai-human-labor"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New England RetroFest and the Maine Vintage Computer Society]]></title>
-        <id>https://www.goto10retro.com/p/new-england-retrofest-and-the-maine</id>
-        <link href="https://www.goto10retro.com/p/new-england-retrofest-and-the-maine"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI agent hacked Medicare, Albanese expressed 'extreme concern' to Sam Altman]]></title>
-        <id>https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman</id>
-        <link href="https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The last IMO problem AI could not solve [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Nbwv5wHQoj0</id>
-        <link href="https://www.youtube.com/watch?v=Nbwv5wHQoj0"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple Git Management Tool]]></title>
-        <id>https://github.com/sascha10000/gitman</id>
-        <link href="https://github.com/sascha10000/gitman"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: ChaosTree – Cache-Aware Java NavigableMap and NavigableSet Library]]></title>
-        <id>https://github.com/Chaos-vy/ChaosTree</id>
-        <link href="https://github.com/Chaos-vy/ChaosTree"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FLAWED's Flaws and What This Means for Industry Research]]></title>
-        <id>https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</id>
-        <link href="https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rendering pull requests in the GitHub Copilot app]]></title>
-        <id>https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/</id>
-        <link href="https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Complete History of the Elves of Middle-Earth [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ENbgJUfuVbY</id>
-        <link href="https://www.youtube.com/watch?v=ENbgJUfuVbY"/>
+        <title type="html"><![CDATA[The Death of Reading (With James Marriott) [audio]]]></title>
+        <id>https://www.econtalk.org/the-death-of-reading-with-james-marriott/</id>
+        <link href="https://www.econtalk.org/the-death-of-reading-with-james-marriott/"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
@@ -358,9 +281,86 @@
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Death of Reading (With James Marriott) [audio]]]></title>
-        <id>https://www.econtalk.org/the-death-of-reading-with-james-marriott/</id>
-        <link href="https://www.econtalk.org/the-death-of-reading-with-james-marriott/"/>
+        <title type="html"><![CDATA[The Complete History of the Elves of Middle-Earth [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ENbgJUfuVbY</id>
+        <link href="https://www.youtube.com/watch?v=ENbgJUfuVbY"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rendering pull requests in the GitHub Copilot app]]></title>
+        <id>https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/</id>
+        <link href="https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FLAWED's Flaws and What This Means for Industry Research]]></title>
+        <id>https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</id>
+        <link href="https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: ChaosTree – Cache-Aware Java NavigableMap and NavigableSet Library]]></title>
+        <id>https://github.com/Chaos-vy/ChaosTree</id>
+        <link href="https://github.com/Chaos-vy/ChaosTree"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple Git Management Tool]]></title>
+        <id>https://github.com/sascha10000/gitman</id>
+        <link href="https://github.com/sascha10000/gitman"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The last IMO problem AI could not solve [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Nbwv5wHQoj0</id>
+        <link href="https://www.youtube.com/watch?v=Nbwv5wHQoj0"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI agent hacked Medicare, Albanese expressed 'extreme concern' to Sam Altman]]></title>
+        <id>https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman</id>
+        <link href="https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New England RetroFest and the Maine Vintage Computer Society]]></title>
+        <id>https://www.goto10retro.com/p/new-england-retrofest-and-the-maine</id>
+        <link href="https://www.goto10retro.com/p/new-england-retrofest-and-the-maine"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surprise, Meta's latest AI gimmick is just underpaid humans]]></title>
+        <id>https://www.avclub.com/meta-muse-ai-human-labor</id>
+        <link href="https://www.avclub.com/meta-muse-ai-human-labor"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post-Training Post-Morten: Tenet / Harvey]]></title>
+        <id>https://newpriors.substack.com/p/post-training-post-mortem-tenet-by</id>
+        <link href="https://newpriors.substack.com/p/post-training-post-mortem-tenet-by"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A CC0 museum of retro 3D tricks you can paste into a page]]></title>
+        <id>https://3d-retro.com/</id>
+        <link href="https://3d-retro.com/"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Submit asynchronous LLM batch jobs through one interface]]></title>
+        <id>https://github.com/gojiplus/batchlane</id>
+        <link href="https://github.com/gojiplus/batchlane"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
