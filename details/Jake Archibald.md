@@ -1,8 +1,7 @@
-:alarm_clock: 更新时间: 2026-09-24 23:03:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-25 06:00:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Jake Archibald
 
 
 
 
-- [2026-08-26-Controlling-when-CSS-custom-properties-are-computed](https://jakearchibald.com/2026/css-custom-property-compute-time/) 

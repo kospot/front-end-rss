@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-24 23:03:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-25 06:00:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,13 +7,12 @@
 
 
 
-- [2026-09-21-Technical-SEO-for-Developers:-10-Mistakes-That-Make-Great-Websites-Invisible](https://dev.to/david_naviovillaquiran_c/technical-seo-for-developers-10-mistakes-that-make-great-websites-invisible-1380) 
 - [2026-09-21-Technical-SEO-for-Developers:-10-Mistakes-That-Make-Great-Websites-Invisible](https://dev.to/david_naviovillaquiran_c/technical-seo-for-developers-10-mistakes-that-make-great-websites-invisible-655) 
+- [2026-09-21-Technical-SEO-for-Developers:-10-Mistakes-That-Make-Great-Websites-Invisible](https://dev.to/david_naviovillaquiran_c/technical-seo-for-developers-10-mistakes-that-make-great-websites-invisible-1380) 
 - [2026-09-13-New-in-SEOCode:-GEO-Rule-Suite](https://dev.to/seocode_writer/new-in-seocode-geo-rule-suite-119c) 
 - [2026-09-11-SEO-Scraper-Chrome-Extension](https://dev.to/muhammad9985/seo-scraper-chrome-extension-42j) 
 - [2026-09-08-Schema-Markup-for-SEO:-What-Worthwhile-Sites-Actually-Implement](https://dev.to/zlatko_marjanovic_a206f1e/schema-markup-for-seo-what-worthwhile-sites-actually-implement-3hp0) 
 - [2026-09-06-Why-my-prerendered-pages-shipped-with-three-&lt;title&gt;-tags](https://dev.to/dquillman/why-my-prerendered-pages-shipped-with-three-tags-3aal) 
-- [2026-08-26-How-I-Vibe-Coded-a-Fast-Client-Side-SERP-Preview-Tool-for-SEO-Optimization](https://dev.to/hoangvibecode/how-i-vibe-coded-a-fast-client-side-serp-preview-tool-for-seo-optimization-2fa3) 
 - [2026-09-22-Memento-No-More:-Coaching-AI-Agents-to-Master-Multiple-Tasks-via-Hints-Internalization](https://arxiv.org/abs/2502.01562) 
 - [2026-09-16-HintMiner:-Automatic-Question-Hints-Mining-From-Q&amp;A-Web-Posts-with-Language-Model-via-Self-Supervised-Learning](https://arxiv.org/abs/2609.16060) 
 - [2026-09-10-Adaptively-Incorporating-Directional-Hints-into-Zeroth-Order-Optimization](https://arxiv.org/abs/2609.08277) 
