@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-25T13:03:17.189Z</updated>
+    <updated>2026-09-25T15:04:19.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,30 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal]]></title>
-        <id>https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta is going to let you build games with AI right on your phone]]></title>
-        <id>https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games</id>
-        <link href="https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now Google Chrome shares tabs to new devices that save where you were]]></title>
-        <id>https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates</id>
-        <link href="https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s sinister that Meta’s Muse AI mascot is so cute]]></title>
-        <id>https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute</id>
-        <link href="https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute"/>
+        <title type="html"><![CDATA[Gaming’s biggest horror series are more vital than ever]]></title>
+        <id>https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil</id>
+        <link href="https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
@@ -50,9 +29,30 @@
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine]]></title>
-        <id>https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/</id>
-        <link href="https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/"/>
+        <title type="html"><![CDATA[It’s sinister that Meta’s Muse AI mascot is so cute]]></title>
+        <id>https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute</id>
+        <link href="https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now Google Chrome shares tabs to new devices that save where you were]]></title>
+        <id>https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates</id>
+        <link href="https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta is going to let you build games with AI right on your phone]]></title>
+        <id>https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games</id>
+        <link href="https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal]]></title>
+        <id>https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
@@ -60,6 +60,13 @@
         <title type="html"><![CDATA[Party Invite Phishing Scams Are the New Missed Connections]]></title>
         <id>https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/</id>
         <link href="https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine]]></title>
+        <id>https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/</id>
+        <link href="https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
@@ -106,191 +113,44 @@
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Satin: Dark mode PDF reader via affine mapping on Oklab lightness dimension]]></title>
-        <id>https://github.com/samestep/satin</id>
-        <link href="https://github.com/samestep/satin"/>
+        <title type="html"><![CDATA[Grieving the Loss of Details]]></title>
+        <id>https://purplesyringa.moe/blog/grieving-the-loss-of-details/</id>
+        <link href="https://purplesyringa.moe/blog/grieving-the-loss-of-details/"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[System Design Unboxed: new digital book]]></title>
-        <id>https://books.lextrem.com/system-design-1/</id>
-        <link href="https://books.lextrem.com/system-design-1/"/>
+        <title type="html"><![CDATA[Servers in Dawn-Dusk Orbit]]></title>
+        <id>https://www.johndcook.com/blog/2026/09/25/dawn-dusk-orbit/</id>
+        <link href="https://www.johndcook.com/blog/2026/09/25/dawn-dusk-orbit/"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ormaos: What happened inside your Python execution?]]></title>
-        <id>https://ormaos.com/</id>
-        <link href="https://ormaos.com/"/>
+        <title type="html"><![CDATA[Show HN: PitchDrops offline-first ear training PWA built w Web Audio and React]]></title>
+        <id>https://pitchdrops.com/</id>
+        <link href="https://pitchdrops.com/"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT composed a BEAUTIFUL, original piano solo with code. Is this AGI?]]></title>
-        <id>https://twitter.com/AdamHincu/status/2103462960463311100</id>
-        <link href="https://twitter.com/AdamHincu/status/2103462960463311100"/>
+        <title type="html"><![CDATA[LLM Policies: Progress at All Costs]]></title>
+        <id>https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/</id>
+        <link href="https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peter Thiel on "Back to the Future" (2011) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ROrUea0gLlY</id>
-        <link href="https://www.youtube.com/watch?v=ROrUea0gLlY"/>
+        <title type="html"><![CDATA[Compared four spec driven, tools. I didn't expect this gap]]></title>
+        <id>https://twitter.com/SSShken/status/2101284944534204771</id>
+        <link href="https://twitter.com/SSShken/status/2101284944534204771"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Patches Posted for Enabling NVMe on All Apple M3 Based SoCs with Linux]]></title>
-        <id>https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches</id>
-        <link href="https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The moon matters NASA chief: China may deny access to Moon's South Pole]]></title>
-        <id>https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/</id>
-        <link href="https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google plans first test ofAl chips in space under Project Suncatcher]]></title>
-        <id>https://blog.google/innovation-and-ai/technology/research/google-project-suncatcher/</id>
-        <link href="https://blog.google/innovation-and-ai/technology/research/google-project-suncatcher/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just how hot and dry was your summer? – UK postcode lookup]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cy9zvw47v90o</id>
-        <link href="https://www.bbc.co.uk/news/articles/cy9zvw47v90o"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Lift and Coast (Browser based F1 game)]]></title>
-        <id>https://lift-and-coast.vercel.app</id>
-        <link href="https://lift-and-coast.vercel.app"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recipe for Disaster v1.0]]></title>
-        <id>https://news.ycombinator.com/item?id=49840727</id>
-        <link href="https://news.ycombinator.com/item?id=49840727"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Jevper – an LLM API client constrained to the Jev wire format]]></title>
-        <id>https://github.com/zhulinchng/jevper</id>
-        <link href="https://github.com/zhulinchng/jevper"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models]]></title>
-        <id>https://arxiv.org/abs/2609.26637</id>
-        <link href="https://arxiv.org/abs/2609.26637"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A single-use authorization boundary in Rust]]></title>
-        <id>https://news.ycombinator.com/item?id=49840686</id>
-        <link href="https://news.ycombinator.com/item?id=49840686"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party]]></title>
-        <id>https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850</id>
-        <link href="https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Koi.rest – watch some fish and regain your balance]]></title>
-        <id>https://koi.rest</id>
-        <link href="https://koi.rest"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CrowdStrike: Frontier AI for Cybersecurity]]></title>
-        <id>https://strategyofsecurity.com/p/crowdstrike-frontier-ai-for-cybersecurity</id>
-        <link href="https://strategyofsecurity.com/p/crowdstrike-frontier-ai-for-cybersecurity"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A perfect join algorithm? Answering queries in optimal time – Michael Arntzenius [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ambisA2jegA</id>
-        <link href="https://www.youtube.com/watch?v=ambisA2jegA"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$183M vanishes from Bitget exchange wallet as users fear potential hack]]></title>
-        <id>https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets</id>
-        <link href="https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MySky: Open, Controllable Feed Infrastructure for the Atmosphere]]></title>
-        <id>https://atproto.com/blog/mysky-feed-infrastructure</id>
-        <link href="https://atproto.com/blog/mysky-feed-infrastructure"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joanna Stern Interviews Mark Zuckerberg]]></title>
-        <id>https://daringfireball.net/linked/2026/09/24/stern-zuck-meta-connect</id>
-        <link href="https://daringfireball.net/linked/2026/09/24/stern-zuck-meta-connect"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two compromised GitHub Actions have been reenabled]]></title>
-        <id>https://socket.dev/blog/mini-shai-hulud-actions</id>
-        <link href="https://socket.dev/blog/mini-shai-hulud-actions"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS bodies in England impose 2-year minimum wait for ADHD and autism assessments]]></title>
-        <id>https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments</id>
-        <link href="https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the future for soace science missions after all this?]]></title>
-        <id>https://www.scientificamerican.com/article/nasa-goddards-shrinking-workforce-could-stifle-future-space-missions-experts-say/</id>
-        <link href="https://www.scientificamerican.com/article/nasa-goddards-shrinking-workforce-could-stifle-future-space-missions-experts-say/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Selfime, a cassette-style recorder for meditations in your own voice]]></title>
-        <id>https://selfime.com/</id>
-        <link href="https://selfime.com/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI as a Tool in Taste Research: decoding the taste of bitterness]]></title>
-        <id>https://www.leibniz-lsb.de/en/press-public-relations/pm-20260922-press-release-ai-as-a-tool-in-taste-research</id>
-        <link href="https://www.leibniz-lsb.de/en/press-public-relations/pm-20260922-press-release-ai-as-a-tool-in-taste-research"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: LabLoop – isolated infrastructure for LLM-driven scientific experiments]]></title>
-        <id>https://github.com/cloudcell/labloop</id>
-        <link href="https://github.com/cloudcell/labloop"/>
+        <title type="html"><![CDATA[Scientists Mapped a Hidden Glacier Using Gravity]]></title>
+        <id>https://eos.org/articles/scientists-mapped-a-hidden-glacier-using-gravity</id>
+        <link href="https://eos.org/articles/scientists-mapped-a-hidden-glacier-using-gravity"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
@@ -302,58 +162,198 @@
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Confidence Comes From Experience: What XConf Changes About How We Measure LLM Confidence]]></title>
-        <id>https://pub.towardsai.net/confidence-comes-from-experience-what-xconf-changes-about-how-we-measure-llm-confidence-c23e490af6b8?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/confidence-comes-from-experience-what-xconf-changes-about-how-we-measure-llm-confidence-c23e490af6b8?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: LabLoop – isolated infrastructure for LLM-driven scientific experiments]]></title>
+        <id>https://github.com/cloudcell/labloop</id>
+        <link href="https://github.com/cloudcell/labloop"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More Tokens Won’t Replace Your Point of View]]></title>
-        <id>https://pub.towardsai.net/more-tokens-wont-replace-your-point-of-view-20e57f14fd4d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/more-tokens-wont-replace-your-point-of-view-20e57f14fd4d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[AI as a Tool in Taste Research: decoding the taste of bitterness]]></title>
+        <id>https://www.leibniz-lsb.de/en/press-public-relations/pm-20260922-press-release-ai-as-a-tool-in-taste-research</id>
+        <link href="https://www.leibniz-lsb.de/en/press-public-relations/pm-20260922-press-release-ai-as-a-tool-in-taste-research"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Agents API Artifact Contract: Make Long-Running Agent Work Reviewable]]></title>
-        <id>https://pub.towardsai.net/openai-agents-api-artifact-contract-make-long-running-agent-work-reviewable-8a581a2a5f23?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/openai-agents-api-artifact-contract-make-long-running-agent-work-reviewable-8a581a2a5f23?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Selfime, a cassette-style recorder for meditations in your own voice]]></title>
+        <id>https://selfime.com/</id>
+        <link href="https://selfime.com/"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make Claude Code as Cheap Per Task as GPT-6 Astra, Without Talking Like a Caveman]]></title>
-        <id>https://pub.towardsai.net/how-to-make-claude-code-as-cheap-per-task-as-gpt-6-astra-without-talking-like-a-caveman-753366be7a13?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-make-claude-code-as-cheap-per-task-as-gpt-6-astra-without-talking-like-a-caveman-753366be7a13?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[What is the future for soace science missions after all this?]]></title>
+        <id>https://www.scientificamerican.com/article/nasa-goddards-shrinking-workforce-could-stifle-future-space-missions-experts-say/</id>
+        <link href="https://www.scientificamerican.com/article/nasa-goddards-shrinking-workforce-could-stifle-future-space-missions-experts-say/"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java + AI: The Stack Nobody Is Talking About]]></title>
-        <id>https://pub.towardsai.net/java-ai-the-stack-nobody-is-talking-about-c2c8412195d9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/java-ai-the-stack-nobody-is-talking-about-c2c8412195d9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[NHS bodies in England impose 2-year minimum wait for ADHD and autism assessments]]></title>
+        <id>https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments</id>
+        <link href="https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Transition from a DevOps/Cloud Role to an AI Engineer / AI Infra Role]]></title>
-        <id>https://pub.towardsai.net/how-to-transition-from-a-devops-cloud-role-to-an-ai-engineer-ai-infra-role-164b301b974e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-transition-from-a-devops-cloud-role-to-an-ai-engineer-ai-infra-role-164b301b974e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Two compromised GitHub Actions have been reenabled]]></title>
+        <id>https://socket.dev/blog/mini-shai-hulud-actions</id>
+        <link href="https://socket.dev/blog/mini-shai-hulud-actions"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agentic Skill Decay: How to Use AI Coding Agents Without Losing Your Edge]]></title>
-        <id>https://pub.towardsai.net/agentic-skill-decay-how-to-use-ai-coding-agents-without-losing-your-edge-73d1cd91a52b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/agentic-skill-decay-how-to-use-ai-coding-agents-without-losing-your-edge-73d1cd91a52b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Joanna Stern Interviews Mark Zuckerberg]]></title>
+        <id>https://daringfireball.net/linked/2026/09/24/stern-zuck-meta-connect</id>
+        <link href="https://daringfireball.net/linked/2026/09/24/stern-zuck-meta-connect"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic’s Opus 5.5 Prompting Guide Has 11 Sections, and More of Them Say Delete Than Add]]></title>
-        <id>https://pub.towardsai.net/anthropics-opus-5-5-prompting-guide-has-11-sections-and-more-of-them-say-delete-than-add-b241dcc1500e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/anthropics-opus-5-5-prompting-guide-has-11-sections-and-more-of-them-say-delete-than-add-b241dcc1500e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[MySky: Open, Controllable Feed Infrastructure for the Atmosphere]]></title>
+        <id>https://atproto.com/blog/mysky-feed-infrastructure</id>
+        <link href="https://atproto.com/blog/mysky-feed-infrastructure"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$183M vanishes from Bitget exchange wallet as users fear potential hack]]></title>
+        <id>https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets</id>
+        <link href="https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A perfect join algorithm? Answering queries in optimal time – Michael Arntzenius [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ambisA2jegA</id>
+        <link href="https://www.youtube.com/watch?v=ambisA2jegA"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CrowdStrike: Frontier AI for Cybersecurity]]></title>
+        <id>https://strategyofsecurity.com/p/crowdstrike-frontier-ai-for-cybersecurity</id>
+        <link href="https://strategyofsecurity.com/p/crowdstrike-frontier-ai-for-cybersecurity"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Koi.rest – watch some fish and regain your balance]]></title>
+        <id>https://koi.rest</id>
+        <link href="https://koi.rest"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party]]></title>
+        <id>https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850</id>
+        <link href="https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A single-use authorization boundary in Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=49840686</id>
+        <link href="https://news.ycombinator.com/item?id=49840686"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models]]></title>
+        <id>https://arxiv.org/abs/2609.26637</id>
+        <link href="https://arxiv.org/abs/2609.26637"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Jevper – an LLM API client constrained to the Jev wire format]]></title>
+        <id>https://github.com/zhulinchng/jevper</id>
+        <link href="https://github.com/zhulinchng/jevper"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recipe for Disaster v1.0]]></title>
+        <id>https://news.ycombinator.com/item?id=49840727</id>
+        <link href="https://news.ycombinator.com/item?id=49840727"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Lift and Coast (Browser based F1 game)]]></title>
+        <id>https://lift-and-coast.vercel.app</id>
+        <link href="https://lift-and-coast.vercel.app"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just how hot and dry was your summer? – UK postcode lookup]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cy9zvw47v90o</id>
+        <link href="https://www.bbc.co.uk/news/articles/cy9zvw47v90o"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google plans first test ofAl chips in space under Project Suncatcher]]></title>
+        <id>https://blog.google/innovation-and-ai/technology/research/google-project-suncatcher/</id>
+        <link href="https://blog.google/innovation-and-ai/technology/research/google-project-suncatcher/"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The moon matters NASA chief: China may deny access to Moon's South Pole]]></title>
+        <id>https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/</id>
+        <link href="https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patches Posted for Enabling NVMe on All Apple M3 Based SoCs with Linux]]></title>
+        <id>https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches</id>
+        <link href="https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Thiel on "Back to the Future" (2011) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ROrUea0gLlY</id>
+        <link href="https://www.youtube.com/watch?v=ROrUea0gLlY"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT composed a BEAUTIFUL, original piano solo with code. Is this AGI?]]></title>
+        <id>https://twitter.com/AdamHincu/status/2103462960463311100</id>
+        <link href="https://twitter.com/AdamHincu/status/2103462960463311100"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ormaos: What happened inside your Python execution?]]></title>
+        <id>https://ormaos.com/</id>
+        <link href="https://ormaos.com/"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System Design Unboxed: new digital book]]></title>
+        <id>https://books.lextrem.com/system-design-1/</id>
+        <link href="https://books.lextrem.com/system-design-1/"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satin: Dark mode PDF reader via affine mapping on Oklab lightness dimension]]></title>
+        <id>https://github.com/samestep/satin</id>
+        <link href="https://github.com/samestep/satin"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI for AWS Cost Optimization: Finding Waste Before It Becomes a Bill]]></title>
+        <id>https://pub.towardsai.net/ai-for-aws-cost-optimization-finding-waste-before-it-becomes-a-bill-4ddf8d5329b9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-for-aws-cost-optimization-finding-waste-before-it-becomes-a-bill-4ddf8d5329b9?source=rss----98111c9905da---4"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
