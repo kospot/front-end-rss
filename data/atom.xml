@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-25T00:01:59.620Z</updated>
+    <updated>2026-09-25T02:02:12.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,23 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures]]></title>
-        <id>https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats</id>
-        <link href="https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s sinister that Meta’s Muse AI mascot is so cute]]></title>
-        <id>https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute</id>
-        <link href="https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now Google Chrome shares tabs to new devices that save where you were]]></title>
-        <id>https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates</id>
-        <link href="https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates"/>
+        <title type="html"><![CDATA[Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal]]></title>
+        <id>https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
@@ -43,9 +29,23 @@
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal]]></title>
-        <id>https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale"/>
+        <title type="html"><![CDATA[Now Google Chrome shares tabs to new devices that save where you were]]></title>
+        <id>https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates</id>
+        <link href="https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s sinister that Meta’s Muse AI mascot is so cute]]></title>
+        <id>https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute</id>
+        <link href="https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures]]></title>
+        <id>https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats</id>
+        <link href="https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
@@ -134,16 +134,16 @@
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java + AI: The Stack Nobody Is Talking About]]></title>
-        <id>https://pub.towardsai.net/java-ai-the-stack-nobody-is-talking-about-c2c8412195d9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/java-ai-the-stack-nobody-is-talking-about-c2c8412195d9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Confidence Comes From Experience: What XConf Changes About How We Measure LLM Confidence]]></title>
+        <id>https://pub.towardsai.net/confidence-comes-from-experience-what-xconf-changes-about-how-we-measure-llm-confidence-c23e490af6b8?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/confidence-comes-from-experience-what-xconf-changes-about-how-we-measure-llm-confidence-c23e490af6b8?source=rss----98111c9905da---4"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make Claude Code as Cheap Per Task as GPT-6 Astra, Without Talking Like a Caveman]]></title>
-        <id>https://pub.towardsai.net/how-to-make-claude-code-as-cheap-per-task-as-gpt-6-astra-without-talking-like-a-caveman-753366be7a13?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-make-claude-code-as-cheap-per-task-as-gpt-6-astra-without-talking-like-a-caveman-753366be7a13?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[More Tokens Won’t Replace Your Point of View]]></title>
+        <id>https://pub.towardsai.net/more-tokens-wont-replace-your-point-of-view-20e57f14fd4d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/more-tokens-wont-replace-your-point-of-view-20e57f14fd4d?source=rss----98111c9905da---4"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
@@ -155,9 +155,16 @@
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More Tokens Won’t Replace Your Point of View]]></title>
-        <id>https://pub.towardsai.net/more-tokens-wont-replace-your-point-of-view-20e57f14fd4d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/more-tokens-wont-replace-your-point-of-view-20e57f14fd4d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How to Make Claude Code as Cheap Per Task as GPT-6 Astra, Without Talking Like a Caveman]]></title>
+        <id>https://pub.towardsai.net/how-to-make-claude-code-as-cheap-per-task-as-gpt-6-astra-without-talking-like-a-caveman-753366be7a13?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-make-claude-code-as-cheap-per-task-as-gpt-6-astra-without-talking-like-a-caveman-753366be7a13?source=rss----98111c9905da---4"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java + AI: The Stack Nobody Is Talking About]]></title>
+        <id>https://pub.towardsai.net/java-ai-the-stack-nobody-is-talking-about-c2c8412195d9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/java-ai-the-stack-nobody-is-talking-about-c2c8412195d9?source=rss----98111c9905da---4"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
@@ -176,58 +183,72 @@
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Effective TypeScript by Dan Vanderkam — Developer Book Review]]></title>
-        <id>https://dev.to/devbookreader/effective-typescript-by-dan-vanderkam-developer-book-review-510d</id>
-        <link href="https://dev.to/devbookreader/effective-typescript-by-dan-vanderkam-developer-book-review-510d"/>
+        <title type="html"><![CDATA[How OmniGIF Removes GIF Backgrounds Entirely in the Browser]]></title>
+        <id>https://dev.to/sunkehappy/how-omnigif-removes-gif-backgrounds-entirely-in-the-browser-5e23</id>
+        <link href="https://dev.to/sunkehappy/how-omnigif-removes-gif-backgrounds-entirely-in-the-browser-5e23"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Broke When I Moved Client Projects to the Next.js App Router]]></title>
-        <id>https://dev.to/abubakarfarooq/what-broke-when-i-moved-client-projects-to-the-nextjs-app-router-4g3d</id>
-        <link href="https://dev.to/abubakarfarooq/what-broke-when-i-moved-client-projects-to-the-nextjs-app-router-4g3d"/>
+        <title type="html"><![CDATA[15 Practical HTMX Project Ideas to Master Hypermedia published]]></title>
+        <id>https://dev.to/digitalgh0st/15-practical-htmx-project-ideas-to-master-hypermediapublished-27ia</id>
+        <link href="https://dev.to/digitalgh0st/15-practical-htmx-project-ideas-to-master-hypermediapublished-27ia"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review code bằng LLM: 3 lượt quét thay vì một prompt]]></title>
-        <id>https://dev.to/bean_bean/review-code-bang-llm-3-luot-quet-thay-vi-mot-prompt-1hin</id>
-        <link href="https://dev.to/bean_bean/review-code-bang-llm-3-luot-quet-thay-vi-mot-prompt-1hin"/>
+        <title type="html"><![CDATA[List Comprehensions: The Matrix of Python Magic]]></title>
+        <id>https://dev.to/timevolt/list-comprehensions-the-matrix-of-python-magic-4i5m</id>
+        <link href="https://dev.to/timevolt/list-comprehensions-the-matrix-of-python-magic-4i5m"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roadmap to Web Development]]></title>
-        <id>https://dev.to/kyl67899/roadmap-to-web-development-19ic</id>
-        <link href="https://dev.to/kyl67899/roadmap-to-web-development-19ic"/>
+        <title type="html"><![CDATA[Day 8: HTML Media Tags & Starting My JavaScript Journey 🚀]]></title>
+        <id>https://dev.to/saravanan_cn_183fcba7cc7a/day-8-html-media-tags-starting-my-javascript-journey-1f9e</id>
+        <link href="https://dev.to/saravanan_cn_183fcba7cc7a/day-8-html-media-tags-starting-my-javascript-journey-1f9e"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review Agent PRs That Mark User JSON Public]]></title>
-        <id>https://dev.to/codejs_6920/review-agent-prs-that-mark-user-json-public-2f9f</id>
-        <link href="https://dev.to/codejs_6920/review-agent-prs-that-mark-user-json-public-2f9f"/>
+        <title type="html"><![CDATA[UUID v4 vs. UUID v7: Was ist der Unterschied?]]></title>
+        <id>https://dev.to/uuidtools/uuid-v4-vs-uuid-v7-was-ist-der-unterschied-5d3k</id>
+        <link href="https://dev.to/uuidtools/uuid-v4-vs-uuid-v7-was-ist-der-unterschied-5d3k"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Refining Recipe Imports: A Deep Dive into Facebook and Instagram Challenges]]></title>
-        <id>https://dev.to/adriaanbalt/refining-recipe-imports-a-deep-dive-into-facebook-and-instagram-challenges-1l4i</id>
-        <link href="https://dev.to/adriaanbalt/refining-recipe-imports-a-deep-dive-into-facebook-and-instagram-challenges-1l4i"/>
+        <title type="html"><![CDATA[Co-Living PG and Hostel in Knowledge Park 2]]></title>
+        <id>https://dev.to/thehotelproperties/co-living-pg-and-hostel-in-knowledge-park-2-2m6k</id>
+        <link href="https://dev.to/thehotelproperties/co-living-pg-and-hostel-in-knowledge-park-2-2m6k"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This video is about how this video was made]]></title>
-        <id>https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl</id>
-        <link href="https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl"/>
+        <title type="html"><![CDATA[AdCP Scopes the Buy in adagents.json. OpenRTB imp Does Not Carry That Scope Back.]]></title>
+        <id>https://dev.to/aleksuix/adcp-scopes-the-buy-in-adagentsjson-openrtb-imp-does-not-carry-that-scope-back-4kkg</id>
+        <link href="https://dev.to/aleksuix/adcp-scopes-the-buy-in-adagentsjson-openrtb-imp-does-not-carry-that-scope-back-4kkg"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Free IP Lookup Tool with Vanilla JS — Here's What I Learned]]></title>
-        <id>https://dev.to/adado_2e958757fa4dbf/i-built-a-free-ip-lookup-tool-with-vanilla-js-heres-what-i-learned-3h5j</id>
-        <link href="https://dev.to/adado_2e958757fa4dbf/i-built-a-free-ip-lookup-tool-with-vanilla-js-heres-what-i-learned-3h5j"/>
+        <title type="html"><![CDATA[How to track Google Hotels prices with Python (no browser, no API key)]]></title>
+        <id>https://dev.to/rel8ble/how-to-track-google-hotels-prices-with-python-no-browser-no-api-key-590g</id>
+        <link href="https://dev.to/rel8ble/how-to-track-google-hotels-prices-with-python-no-browser-no-api-key-590g"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAM.gov's exclusions list looked key-gated. The dataset wasn't — the endpoint was.]]></title>
+        <id>https://dev.to/fetchsmith/samgovs-exclusions-list-looked-key-gated-the-dataset-wasnt-the-endpoint-was-2237</id>
+        <link href="https://dev.to/fetchsmith/samgovs-exclusions-list-looked-key-gated-the-dataset-wasnt-the-endpoint-was-2237"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome Back, React Hooks Made Simple: The Complete Guide, Part-2]]></title>
+        <id>https://dev.to/abrar_galib_5c0cf41ad3a3e/-welcome-back-react-hook-part-2-41gg</id>
+        <link href="https://dev.to/abrar_galib_5c0cf41ad3a3e/-welcome-back-react-hook-part-2-41gg"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
@@ -239,9 +260,58 @@
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Welcome Back, React Hooks Made Simple: The Complete Guide, Part-2]]></title>
-        <id>https://dev.to/abrar_galib_5c0cf41ad3a3e/-welcome-back-react-hook-part-2-41gg</id>
-        <link href="https://dev.to/abrar_galib_5c0cf41ad3a3e/-welcome-back-react-hook-part-2-41gg"/>
+        <title type="html"><![CDATA[I Built a Free IP Lookup Tool with Vanilla JS — Here's What I Learned]]></title>
+        <id>https://dev.to/adado_2e958757fa4dbf/i-built-a-free-ip-lookup-tool-with-vanilla-js-heres-what-i-learned-3h5j</id>
+        <link href="https://dev.to/adado_2e958757fa4dbf/i-built-a-free-ip-lookup-tool-with-vanilla-js-heres-what-i-learned-3h5j"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This video is about how this video was made]]></title>
+        <id>https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl</id>
+        <link href="https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refining Recipe Imports: A Deep Dive into Facebook and Instagram Challenges]]></title>
+        <id>https://dev.to/adriaanbalt/refining-recipe-imports-a-deep-dive-into-facebook-and-instagram-challenges-1l4i</id>
+        <link href="https://dev.to/adriaanbalt/refining-recipe-imports-a-deep-dive-into-facebook-and-instagram-challenges-1l4i"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review Agent PRs That Mark User JSON Public]]></title>
+        <id>https://dev.to/codejs_6920/review-agent-prs-that-mark-user-json-public-2f9f</id>
+        <link href="https://dev.to/codejs_6920/review-agent-prs-that-mark-user-json-public-2f9f"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roadmap to Web Development]]></title>
+        <id>https://dev.to/kyl67899/roadmap-to-web-development-19ic</id>
+        <link href="https://dev.to/kyl67899/roadmap-to-web-development-19ic"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review code bằng LLM: 3 lượt quét thay vì một prompt]]></title>
+        <id>https://dev.to/bean_bean/review-code-bang-llm-3-luot-quet-thay-vi-mot-prompt-1hin</id>
+        <link href="https://dev.to/bean_bean/review-code-bang-llm-3-luot-quet-thay-vi-mot-prompt-1hin"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Broke When I Moved Client Projects to the Next.js App Router]]></title>
+        <id>https://dev.to/abubakarfarooq/what-broke-when-i-moved-client-projects-to-the-nextjs-app-router-4g3d</id>
+        <link href="https://dev.to/abubakarfarooq/what-broke-when-i-moved-client-projects-to-the-nextjs-app-router-4g3d"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effective TypeScript by Dan Vanderkam — Developer Book Review]]></title>
+        <id>https://dev.to/devbookreader/effective-typescript-by-dan-vanderkam-developer-book-review-510d</id>
+        <link href="https://dev.to/devbookreader/effective-typescript-by-dan-vanderkam-developer-book-review-510d"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
@@ -260,93 +330,16 @@
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waymo’s driverless cars continue to crash less often than people]]></title>
-        <id>https://www.theverge.com/transportation/999891/waymo-safety-data-injury-crash-human-driver</id>
-        <link href="https://www.theverge.com/transportation/999891/waymo-safety-data-injury-crash-human-driver"/>
+        <title type="html"><![CDATA[Control Resonant gets tough, but gives you the tools to deal with it]]></title>
+        <id>https://www.theverge.com/games/999464/control-resonant-assist-mode</id>
+        <link href="https://www.theverge.com/games/999464/control-resonant-assist-mode"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s Muse AI Charms can interact with each other]]></title>
-        <id>https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem</id>
-        <link href="https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 4 is almost ready, says new Google DeepMind chief]]></title>
-        <id>https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu</id>
-        <link href="https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Connect 2026: The 7 biggest announcements]]></title>
-        <id>https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced</id>
-        <link href="https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s next VR device isn’t a headset — it’s glasses]]></title>
-        <id>https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on</id>
-        <link href="https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muse is coming to Meta smart glasses]]></title>
-        <id>https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features</id>
-        <link href="https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta ditches the camera on its newest smart glasses]]></title>
-        <id>https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026</id>
-        <link href="https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta is making Muse more powerful and will let you video chat with it, too]]></title>
-        <id>https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026</id>
-        <link href="https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Connect 2026: The biggest news and announcements]]></title>
-        <id>https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements</id>
-        <link href="https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch]]></title>
-        <id>https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote</id>
-        <link href="https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech’s new haptics-based gaming mouse is a little better and $20 more]]></title>
-        <id>https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price</id>
-        <link href="https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech’s new Blue Yeti 2 mic adjusts itself to where you are]]></title>
-        <id>https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability</id>
-        <link href="https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <published>2026-09-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"/>
+        <title type="html"><![CDATA[Meta is making a standalone Muse AI gadget]]></title>
+        <id>https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware</id>
+        <link href="https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
@@ -358,9 +351,16 @@
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta is making a standalone Muse AI gadget]]></title>
-        <id>https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware</id>
-        <link href="https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"/>
+        <title type="html"><![CDATA[Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <published>2026-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech’s new Blue Yeti 2 mic adjusts itself to where you are]]></title>
+        <id>https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability</id>
+        <link href="https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability"/>
         <updated>2026-09-23T16:00:00.000Z</updated>
         <published>2026-09-23T16:00:00.000Z</published>
     </entry>
