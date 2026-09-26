@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-26T07:02:35.598Z</updated>
+    <updated>2026-09-26T10:02:53.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,107 +78,37 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Translate a SVG back to a diagram – drawio]]></title>
-        <id>https://zoosky.github.io/accent-draw/</id>
-        <link href="https://zoosky.github.io/accent-draw/"/>
+        <title type="html"><![CDATA[Ask HN: Indie hackers on X (Twitter) feels like a mega bubble these days]]></title>
+        <id>https://news.ycombinator.com/item?id=49854851</id>
+        <link href="https://news.ycombinator.com/item?id=49854851"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OnionGuard – IP-agnostic, zero-JS DDoS defense in Go for Tor services]]></title>
-        <id>https://github.com/ihatemyfcklife/onionguard</id>
-        <link href="https://github.com/ihatemyfcklife/onionguard"/>
+        <title type="html"><![CDATA[Show HN: Aerofi – a rofi-inspired, scriptable launcher for macOS (Rust, GPUI)]]></title>
+        <id>https://github.com/frostymur/aerofi</id>
+        <link href="https://github.com/frostymur/aerofi"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Workers' Inquiry 2026]]></title>
-        <id>https://techworkersinquiry.org/ai/</id>
-        <link href="https://techworkersinquiry.org/ai/"/>
+        <title type="html"><![CDATA[AMD Takes the Lid Off of Next-Gen EPYC 9006 Venice as Zen 6 Comes to Servers]]></title>
+        <id>https://www.servethehome.com/amd-takes-the-lid-off-of-next-gen-epyc-9006-venice-as-zen-6-comes-to-servers/</id>
+        <link href="https://www.servethehome.com/amd-takes-the-lid-off-of-next-gen-epyc-9006-venice-as-zen-6-comes-to-servers/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: VNetMap – A zero-knowledge E2E encrypted network topology mapper]]></title>
-        <id>https://news.ycombinator.com/item?id=49850400</id>
-        <link href="https://news.ycombinator.com/item?id=49850400"/>
+        <title type="html"><![CDATA[Demo of a concept "fractal" window manager [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Kd9AbKawwhg</id>
+        <link href="https://www.youtube.com/watch?v=Kd9AbKawwhg"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kiro adds jev to decide turn in preview]]></title>
-        <id>https://kiro.dev/changelog/</id>
-        <link href="https://kiro.dev/changelog/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Initial-scale no longer needed]]></title>
-        <id>https://www.quirksmode.org/quirksblog/2026/0902-initial.html</id>
-        <link href="https://www.quirksmode.org/quirksblog/2026/0902-initial.html"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is z.ai shipping a different ZCode client than the source?]]></title>
-        <id>https://news.ycombinator.com/item?id=49850328</id>
-        <link href="https://news.ycombinator.com/item?id=49850328"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to copy URLs of multiple Firefox tabs without installing an extension]]></title>
-        <id>https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/</id>
-        <link href="https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI and human tutoring yield equivalent GRE learning gains]]></title>
-        <id>https://arxiv.org/abs/2609.28470</id>
-        <link href="https://arxiv.org/abs/2609.28470"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimal Assumptions for Societal Resilience]]></title>
-        <id>https://chillphysicsenjoyer.substack.com/p/minimal-assumptions-for-societal</id>
-        <link href="https://chillphysicsenjoyer.substack.com/p/minimal-assumptions-for-societal"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Farm.js – A full-stack framework with an AOT compiler for React]]></title>
-        <id>https://farmjs.dev/</id>
-        <link href="https://farmjs.dev/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%]]></title>
-        <id>https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342</id>
-        <link href="https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: CoordMap – free browser tools for coordinates, elevation, and distance]]></title>
-        <id>https://www.coordmap.com/</id>
-        <link href="https://www.coordmap.com/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walgit: A Git server that is one binary in front of an object store]]></title>
-        <id>https://github.com/rgodha24/walgithub</id>
-        <link href="https://github.com/rgodha24/walgithub"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lecture: Blowup for the Euler Equations with Smooth Forcing – Tristan Buckmaster [video]]]></title>
-        <id>https://www.youtube.com/watch?v=tn45ZOp3lXM</id>
-        <link href="https://www.youtube.com/watch?v=tn45ZOp3lXM"/>
+        <title type="html"><![CDATA[The millionth.bid: the last bidder's quest]]></title>
+        <id>https://millionth.bid/</id>
+        <link href="https://millionth.bid/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -190,9 +120,107 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The millionth.bid: the last bidder's quest]]></title>
-        <id>https://millionth.bid/</id>
-        <link href="https://millionth.bid/"/>
+        <title type="html"><![CDATA[Lecture: Blowup for the Euler Equations with Smooth Forcing – Tristan Buckmaster [video]]]></title>
+        <id>https://www.youtube.com/watch?v=tn45ZOp3lXM</id>
+        <link href="https://www.youtube.com/watch?v=tn45ZOp3lXM"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walgit: A Git server that is one binary in front of an object store]]></title>
+        <id>https://github.com/rgodha24/walgithub</id>
+        <link href="https://github.com/rgodha24/walgithub"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: CoordMap – free browser tools for coordinates, elevation, and distance]]></title>
+        <id>https://www.coordmap.com/</id>
+        <link href="https://www.coordmap.com/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%]]></title>
+        <id>https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342</id>
+        <link href="https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Farm.js – A full-stack framework with an AOT compiler for React]]></title>
+        <id>https://farmjs.dev/</id>
+        <link href="https://farmjs.dev/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minimal Assumptions for Societal Resilience]]></title>
+        <id>https://chillphysicsenjoyer.substack.com/p/minimal-assumptions-for-societal</id>
+        <link href="https://chillphysicsenjoyer.substack.com/p/minimal-assumptions-for-societal"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI and human tutoring yield equivalent GRE learning gains]]></title>
+        <id>https://arxiv.org/abs/2609.28470</id>
+        <link href="https://arxiv.org/abs/2609.28470"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to copy URLs of multiple Firefox tabs without installing an extension]]></title>
+        <id>https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/</id>
+        <link href="https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is z.ai shipping a different ZCode client than the source?]]></title>
+        <id>https://news.ycombinator.com/item?id=49850328</id>
+        <link href="https://news.ycombinator.com/item?id=49850328"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Initial-scale no longer needed]]></title>
+        <id>https://www.quirksmode.org/quirksblog/2026/0902-initial.html</id>
+        <link href="https://www.quirksmode.org/quirksblog/2026/0902-initial.html"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiro adds jev to decide turn in preview]]></title>
+        <id>https://kiro.dev/changelog/</id>
+        <link href="https://kiro.dev/changelog/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: VNetMap – A zero-knowledge E2E encrypted network topology mapper]]></title>
+        <id>https://news.ycombinator.com/item?id=49850400</id>
+        <link href="https://news.ycombinator.com/item?id=49850400"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Workers' Inquiry 2026]]></title>
+        <id>https://techworkersinquiry.org/ai/</id>
+        <link href="https://techworkersinquiry.org/ai/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnionGuard – IP-agnostic, zero-JS DDoS defense in Go for Tor services]]></title>
+        <id>https://github.com/ihatemyfcklife/onionguard</id>
+        <link href="https://github.com/ihatemyfcklife/onionguard"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Translate a SVG back to a diagram – drawio]]></title>
+        <id>https://zoosky.github.io/accent-draw/</id>
+        <link href="https://zoosky.github.io/accent-draw/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -225,128 +253,65 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 JavaScript Behaviors That Look Weird Until You Understand the Rules]]></title>
-        <id>https://dev.to/mittens420/10-javascript-behaviors-that-look-weird-until-you-understand-the-rules-3i35</id>
-        <link href="https://dev.to/mittens420/10-javascript-behaviors-that-look-weird-until-you-understand-the-rules-3i35"/>
+        <title type="html"><![CDATA[How to Build a Multi Step Registration Form with HTML, CSS & JavaScript]]></title>
+        <id>https://dev.to/getcoderipple/how-to-build-a-multi-step-registration-form-with-html-css-javascript-20gh</id>
+        <link href="https://dev.to/getcoderipple/how-to-build-a-multi-step-registration-form-with-html-css-javascript-20gh"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Javascript - Project 1 :Marks with Grade]]></title>
-        <id>https://dev.to/sajin_joe/javascript-project-1-marks-with-grade-904</id>
-        <link href="https://dev.to/sajin_joe/javascript-project-1-marks-with-grade-904"/>
+        <title type="html"><![CDATA[Upscaling anime in the browser: why I stopped trusting the AI model alone]]></title>
+        <id>https://dev.to/maxslashwang/upscaling-anime-in-the-browser-why-i-stopped-trusting-the-ai-model-alone-52ba</id>
+        <link href="https://dev.to/maxslashwang/upscaling-anime-in-the-browser-why-i-stopped-trusting-the-ai-model-alone-52ba"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Limn League 2027: A Complete Football Game in Pure JavaScript]]></title>
-        <id>https://dev.to/kehinde_owolabi_e2e54567a/building-limn-league-2027-a-complete-football-game-in-pure-javascript-2idm</id>
-        <link href="https://dev.to/kehinde_owolabi_e2e54567a/building-limn-league-2027-a-complete-football-game-in-pure-javascript-2idm"/>
+        <title type="html"><![CDATA[Going Back to TypeScript Basics]]></title>
+        <id>https://dev.to/sabimantock/going-back-to-typescript-basics-159a</id>
+        <link href="https://dev.to/sabimantock/going-back-to-typescript-basics-159a"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A verified beacon can still give you the wrong number]]></title>
-        <id>https://dev.to/kepler_ops/a-verified-beacon-can-still-give-you-the-wrong-number-1oj4</id>
-        <link href="https://dev.to/kepler_ops/a-verified-beacon-can-still-give-you-the-wrong-number-1oj4"/>
+        <title type="html"><![CDATA[I Built 40+ Free Browser Tools Solo — Here's What 171 Users Taught Me About Building Without a Backend#webdev #javascript #showdev #buildinpublic]]></title>
+        <id>https://dev.to/waqar112/i-built-40-free-browser-tools-solo-heres-what-171-users-taught-me-about-building-without-a-5343</id>
+        <link href="https://dev.to/waqar112/i-built-40-free-browser-tools-solo-heres-what-171-users-taught-me-about-building-without-a-5343"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Offensive Coding: Exploiting JavaScript's Tiny Door]]></title>
-        <id>https://dev.to/one_user_4e8b9b04ce8/offensive-coding-exploiting-javascripts-tiny-door-58fn</id>
-        <link href="https://dev.to/one_user_4e8b9b04ce8/offensive-coding-exploiting-javascripts-tiny-door-58fn"/>
+        <title type="html"><![CDATA[Your AI wrote 40 tests. How many would catch a real bug?]]></title>
+        <id>https://dev.to/nikolay_chernev_a67479931/your-ai-wrote-40-tests-how-many-would-catch-a-real-bug-16df</id>
+        <link href="https://dev.to/nikolay_chernev_a67479931/your-ai-wrote-40-tests-how-many-would-catch-a-real-bug-16df"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MC/DC coverage for JavaScript]]></title>
-        <id>https://dev.to/nedomas/mcdc-coverage-for-javascript-4388</id>
-        <link href="https://dev.to/nedomas/mcdc-coverage-for-javascript-4388"/>
+        <title type="html"><![CDATA[Launching a browser game Beta with no save wipes and 2,000 free copies]]></title>
+        <id>https://dev.to/idlecultivation/launching-a-browser-game-beta-with-no-save-wipes-and-2000-free-copies-27oc</id>
+        <link href="https://dev.to/idlecultivation/launching-a-browser-game-beta-with-no-save-wipes-and-2000-free-copies-27oc"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Searching 10,000 Printable Pages Without a Search Server: A Prebuilt Index, Synonyms and Kid-Friendly Typos]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/searching-10000-printable-pages-without-a-search-server-a-prebuilt-index-synonyms-and-1lcp</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/searching-10000-printable-pages-without-a-search-server-a-prebuilt-index-synonyms-and-1lcp"/>
+        <title type="html"><![CDATA[I built 59 free browser-based dev tools in vanilla JS — here's what I learned]]></title>
+        <id>https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-31kj</id>
+        <link href="https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-31kj"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Fair Trivia Quiz Engine: Unbiased Shuffling, Answer Position Balance and Team Scoring]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/building-a-fair-trivia-quiz-engine-unbiased-shuffling-answer-position-balance-and-team-scoring-12o8</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/building-a-fair-trivia-quiz-engine-unbiased-shuffling-answer-position-balance-and-team-scoring-12o8"/>
+        <title type="html"><![CDATA[HTML to Markdown to embeddings: a RAG ingestion pipeline in ~50 lines of JavaScript]]></title>
+        <id>https://dev.to/owen_king_e3d7d83a33c46c8/html-to-markdown-to-embeddings-a-rag-ingestion-pipeline-in-50-lines-of-javascript-3mon</id>
+        <link href="https://dev.to/owen_king_e3d7d83a33c46c8/html-to-markdown-to-embeddings-a-rag-ingestion-pipeline-in-50-lines-of-javascript-3mon"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
-        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-43gh</id>
-        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-43gh"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Graffiti Text Generator With Canvas: FontFace Loading, Seeded Spray Effects and PNG Export]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/building-a-graffiti-text-generator-with-canvas-fontface-loading-seeded-spray-effects-and-png-3j67</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/building-a-graffiti-text-generator-with-canvas-fontface-loading-seeded-spray-effects-and-png-3j67"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generating Printable Math Worksheets in JavaScript: Seeded Randomness, Constraints and Answer Keys]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/generating-printable-math-worksheets-in-javascript-seeded-randomness-constraints-and-answer-keys-3d9i</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/generating-printable-math-worksheets-in-javascript-seeded-randomness-constraints-and-answer-keys-3d9i"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Converting Video and Audio Entirely in the Browser With WebAssembly: Lessons From Building a Free Converter]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/converting-video-and-audio-entirely-in-the-browser-with-webassembly-lessons-from-building-a-free-4fmn</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/converting-video-and-audio-entirely-in-the-browser-with-webassembly-lessons-from-building-a-free-4fmn"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LeveloJS Went Quiet. We Were Rebuilding the Foundation.]]></title>
-        <id>https://dev.to/motionmind2007/levelojs-went-quiet-we-were-rebuilding-the-foundation-4812</id>
-        <link href="https://dev.to/motionmind2007/levelojs-went-quiet-we-were-rebuilding-the-foundation-4812"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We shipped a proxy extension for Firefox and Edge. Both browsers quietly reuse the old proxy tunnel, and that almost broke it.]]></title>
-        <id>https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i</id>
-        <link href="https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cổng CI cho code agent: reviewer sạch context và 3 chốt remote]]></title>
-        <id>https://dev.to/bean_bean/cong-ci-cho-code-agent-reviewer-sach-context-va-3-chot-remote-2nfl</id>
-        <link href="https://dev.to/bean_bean/cong-ci-cho-code-agent-reviewer-sach-context-va-3-chot-remote-2nfl"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[i built a cookieless analytics tool (and deleted my cookie banner)]]></title>
-        <id>https://dev.to/omyvnss/i-built-a-cookieless-analytics-tool-and-deleted-my-cookie-banner-13ih</id>
-        <link href="https://dev.to/omyvnss/i-built-a-cookieless-analytics-tool-and-deleted-my-cookie-banner-13ih"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Training with Live Projects: Why Practical Experience Matters]]></title>
-        <id>https://dev.to/webdevcommunity/javascript-training-with-live-projects-why-practical-experience-matters-205m</id>
-        <link href="https://dev.to/webdevcommunity/javascript-training-with-live-projects-why-practical-experience-matters-205m"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Sites to Buy Edu Emails - Get Your Discounts &]]></title>
-        <id>https://dev.to/shakiralee1/top-5-sites-to-buy-edu-emails-get-your-discounts--4229</id>
-        <link href="https://dev.to/shakiralee1/top-5-sites-to-buy-edu-emails-get-your-discounts--4229"/>
+        <title type="html"><![CDATA[canvas.toBlob won't tell you it ignored your format or your quality]]></title>
+        <id>https://dev.to/token111/canvastoblob-wont-tell-you-it-ignored-your-format-or-your-quality-48d</id>
+        <link href="https://dev.to/token111/canvastoblob-wont-tell-you-it-ignored-your-format-or-your-quality-48d"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -358,9 +323,44 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Randomly Place an Element Along Edge of Another Element]]></title>
-        <id>https://blog.master.dev/randomly-place-an-element-along-edge-of-another-element/</id>
-        <link href="https://blog.master.dev/randomly-place-an-element-along-edge-of-another-element/"/>
+        <title type="html"><![CDATA[Top 5 Sites to Buy Edu Emails - Get Your Discounts &]]></title>
+        <id>https://dev.to/shakiralee1/top-5-sites-to-buy-edu-emails-get-your-discounts--4229</id>
+        <link href="https://dev.to/shakiralee1/top-5-sites-to-buy-edu-emails-get-your-discounts--4229"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Training with Live Projects: Why Practical Experience Matters]]></title>
+        <id>https://dev.to/webdevcommunity/javascript-training-with-live-projects-why-practical-experience-matters-205m</id>
+        <link href="https://dev.to/webdevcommunity/javascript-training-with-live-projects-why-practical-experience-matters-205m"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[i built a cookieless analytics tool (and deleted my cookie banner)]]></title>
+        <id>https://dev.to/omyvnss/i-built-a-cookieless-analytics-tool-and-deleted-my-cookie-banner-13ih</id>
+        <link href="https://dev.to/omyvnss/i-built-a-cookieless-analytics-tool-and-deleted-my-cookie-banner-13ih"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cổng CI cho code agent: reviewer sạch context và 3 chốt remote]]></title>
+        <id>https://dev.to/bean_bean/cong-ci-cho-code-agent-reviewer-sach-context-va-3-chot-remote-2nfl</id>
+        <link href="https://dev.to/bean_bean/cong-ci-cho-code-agent-reviewer-sach-context-va-3-chot-remote-2nfl"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We shipped a proxy extension for Firefox and Edge. Both browsers quietly reuse the old proxy tunnel, and that almost broke it.]]></title>
+        <id>https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i</id>
+        <link href="https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LeveloJS Went Quiet. We Were Rebuilding the Foundation.]]></title>
+        <id>https://dev.to/motionmind2007/levelojs-went-quiet-we-were-rebuilding-the-foundation-4812</id>
+        <link href="https://dev.to/motionmind2007/levelojs-went-quiet-we-were-rebuilding-the-foundation-4812"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
