@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-26T13:03:39.564Z</updated>
+    <updated>2026-09-26T15:06:23.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,44 +43,9 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[At Meta Connect, the company’s smart glasses were everywhere]]></title>
-        <id>https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/</id>
-        <link href="https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta opens early access program for new Muse features]]></title>
-        <id>https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/</id>
-        <link href="https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing]]></title>
-        <id>https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/</id>
-        <link href="https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astra and Opus just passed Turing’s other test]]></title>
-        <id>https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/</id>
-        <link href="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta is putting its muscle behind Muse as the AI app takes off]]></title>
-        <id>https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/</id>
-        <link href="https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s AI Tamagotchi bet is…working?]]></title>
-        <id>https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/</id>
-        <link href="https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"/>
+        <title type="html"><![CDATA[I created an interactive digital avatar of myself — and you can talk to it]]></title>
+        <id>https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/</id>
+        <link href="https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -92,184 +57,107 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No Blind Trust in AI-Generated Code]]></title>
-        <id>https://wearecommunity.io/communities/jacov/articles/8709</id>
-        <link href="https://wearecommunity.io/communities/jacov/articles/8709"/>
+        <title type="html"><![CDATA[Meta’s AI Tamagotchi bet is…working?]]></title>
+        <id>https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/</id>
+        <link href="https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Discovery Tax: Why Coding Agents Waste 2,500 Tokens Before Writing Code]]></title>
-        <id>https://blog.jarv.dev/the-discovery-tax</id>
-        <link href="https://blog.jarv.dev/the-discovery-tax"/>
+        <title type="html"><![CDATA[Meta is putting its muscle behind Muse as the AI app takes off]]></title>
+        <id>https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/</id>
+        <link href="https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Typed-lm: a Rust jev open source alternative]]></title>
-        <id>https://github.com/neurono-ml/typed-lm</id>
-        <link href="https://github.com/neurono-ml/typed-lm"/>
+        <title type="html"><![CDATA[Astra and Opus just passed Turing’s other test]]></title>
+        <id>https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/</id>
+        <link href="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Catching Rogue Agents in Real Time with Synchronous Control Monitoring]]></title>
-        <id>https://max.ax/writing/synchronous-control-monitoring/</id>
-        <link href="https://max.ax/writing/synchronous-control-monitoring/"/>
+        <title type="html"><![CDATA[Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing]]></title>
+        <id>https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/</id>
+        <link href="https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The computer hacker who tried to take down Man City]]></title>
-        <id>https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo</id>
-        <link href="https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo"/>
+        <title type="html"><![CDATA[Meta opens early access program for new Muse features]]></title>
+        <id>https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/</id>
+        <link href="https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Docspira – JSON/YAML/regex tools that never leave the browser]]></title>
-        <id>https://docspira.com/</id>
-        <link href="https://docspira.com/"/>
+        <title type="html"><![CDATA[At Meta Connect, the company’s smart glasses were everywhere]]></title>
+        <id>https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/</id>
+        <link href="https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI says its AI agents posted user images online in error]]></title>
-        <id>https://techxplore.com/news/2026-09-openai-ai-agents-user-images.html</id>
-        <link href="https://techxplore.com/news/2026-09-openai-ai-agents-user-images.html"/>
+        <title type="html"><![CDATA[All Quiet on the AI Front: The Future of Undergraduate Math Research]]></title>
+        <id>https://arxiv.org/abs/2609.28615</id>
+        <link href="https://arxiv.org/abs/2609.28615"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Translate a SVG back to a diagram – drawio]]></title>
-        <id>https://zoosky.github.io/accent-draw/</id>
-        <link href="https://zoosky.github.io/accent-draw/"/>
+        <title type="html"><![CDATA[Whistleblower: Driscoll berries sent to Canada w excess chemicals]]></title>
+        <id>https://www.cbc.ca/news/canada/montreal/whistleblower-allege-driscoll-s-berries-9.7359158</id>
+        <link href="https://www.cbc.ca/news/canada/montreal/whistleblower-allege-driscoll-s-berries-9.7359158"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OnionGuard – IP-agnostic, zero-JS DDoS defense in Go for Tor services]]></title>
-        <id>https://github.com/ihatemyfcklife/onionguard</id>
-        <link href="https://github.com/ihatemyfcklife/onionguard"/>
+        <title type="html"><![CDATA[This Won't Make You Rich. But It Might Help You Avoid Losing It All]]></title>
+        <id>https://laggingtruth.substack.com/p/this-wont-make-you-rich</id>
+        <link href="https://laggingtruth.substack.com/p/this-wont-make-you-rich"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Workers' Inquiry 2026]]></title>
-        <id>https://techworkersinquiry.org/ai/</id>
-        <link href="https://techworkersinquiry.org/ai/"/>
+        <title type="html"><![CDATA[Golang: Crypto/fips140: do not bloat crypto code unnecessarily]]></title>
+        <id>https://github.com/golang/go/issues/81639</id>
+        <link href="https://github.com/golang/go/issues/81639"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: VNetMap – A zero-knowledge E2E encrypted network topology mapper]]></title>
-        <id>https://news.ycombinator.com/item?id=49850400</id>
-        <link href="https://news.ycombinator.com/item?id=49850400"/>
+        <title type="html"><![CDATA[Qualcomm posts GPU patches for lower-tier Snapdragon X2 SoCs]]></title>
+        <id>https://www.phoronix.com/news/Qualcomm-Mahua-GPU-Support</id>
+        <link href="https://www.phoronix.com/news/Qualcomm-Mahua-GPU-Support"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kiro adds jev to decide turn in preview]]></title>
-        <id>https://kiro.dev/changelog/</id>
-        <link href="https://kiro.dev/changelog/"/>
+        <title type="html"><![CDATA[I created an interactive digital avatar of myself you can to talk to]]></title>
+        <id>https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/</id>
+        <link href="https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Initial-scale no longer needed]]></title>
-        <id>https://www.quirksmode.org/quirksblog/2026/0902-initial.html</id>
-        <link href="https://www.quirksmode.org/quirksblog/2026/0902-initial.html"/>
+        <title type="html"><![CDATA[CropCode – Convert UI Crops into Structured JSON for LLMs]]></title>
+        <id>https://chromewebstore.google.com/detail/cropcode/pcgcpipdelhclccjoaphjelkdidkiecj</id>
+        <link href="https://chromewebstore.google.com/detail/cropcode/pcgcpipdelhclccjoaphjelkdidkiecj"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is z.ai shipping a different ZCode client than the source?]]></title>
-        <id>https://news.ycombinator.com/item?id=49850328</id>
-        <link href="https://news.ycombinator.com/item?id=49850328"/>
+        <title type="html"><![CDATA[ThinkingCap-Qwen3.8-27B: Less Thinking, Similar Accuracy]]></title>
+        <id>https://kaitchup.substack.com/p/thinkingcap-qwen38-27b-less-thinking</id>
+        <link href="https://kaitchup.substack.com/p/thinkingcap-qwen38-27b-less-thinking"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to copy URLs of multiple Firefox tabs without installing an extension]]></title>
-        <id>https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/</id>
-        <link href="https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI and human tutoring yield equivalent GRE learning gains]]></title>
-        <id>https://arxiv.org/abs/2609.28470</id>
-        <link href="https://arxiv.org/abs/2609.28470"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimal Assumptions for Societal Resilience]]></title>
-        <id>https://chillphysicsenjoyer.substack.com/p/minimal-assumptions-for-societal</id>
-        <link href="https://chillphysicsenjoyer.substack.com/p/minimal-assumptions-for-societal"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Farm.js – A full-stack framework with an AOT compiler for React]]></title>
-        <id>https://farmjs.dev/</id>
-        <link href="https://farmjs.dev/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%]]></title>
-        <id>https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342</id>
-        <link href="https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: CoordMap – free browser tools for coordinates, elevation, and distance]]></title>
-        <id>https://www.coordmap.com/</id>
-        <link href="https://www.coordmap.com/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walgit: A Git server that is one binary in front of an object store]]></title>
-        <id>https://github.com/rgodha24/walgithub</id>
-        <link href="https://github.com/rgodha24/walgithub"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lecture: Blowup for the Euler Equations with Smooth Forcing – Tristan Buckmaster [video]]]></title>
-        <id>https://www.youtube.com/watch?v=tn45ZOp3lXM</id>
-        <link href="https://www.youtube.com/watch?v=tn45ZOp3lXM"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make an animated pelican on unicycle jugging fish while explaining bash command]]></title>
-        <id>https://twitter.com/goodside/status/2103149526244618682</id>
-        <link href="https://twitter.com/goodside/status/2103149526244618682"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The millionth.bid: the last bidder's quest]]></title>
-        <id>https://millionth.bid/</id>
-        <link href="https://millionth.bid/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demo of a concept "fractal" window manager [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Kd9AbKawwhg</id>
-        <link href="https://www.youtube.com/watch?v=Kd9AbKawwhg"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Takes the Lid Off of Next-Gen EPYC 9006 Venice as Zen 6 Comes to Servers]]></title>
-        <id>https://www.servethehome.com/amd-takes-the-lid-off-of-next-gen-epyc-9006-venice-as-zen-6-comes-to-servers/</id>
-        <link href="https://www.servethehome.com/amd-takes-the-lid-off-of-next-gen-epyc-9006-venice-as-zen-6-comes-to-servers/"/>
+        <title type="html"><![CDATA[Ask HN: Indie hackers on X (Twitter) feels like a mega bubble these days]]></title>
+        <id>https://news.ycombinator.com/item?id=49854851</id>
+        <link href="https://news.ycombinator.com/item?id=49854851"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -281,9 +169,184 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Indie hackers on X (Twitter) feels like a mega bubble these days]]></title>
-        <id>https://news.ycombinator.com/item?id=49854851</id>
-        <link href="https://news.ycombinator.com/item?id=49854851"/>
+        <title type="html"><![CDATA[AMD Takes the Lid Off of Next-Gen EPYC 9006 Venice as Zen 6 Comes to Servers]]></title>
+        <id>https://www.servethehome.com/amd-takes-the-lid-off-of-next-gen-epyc-9006-venice-as-zen-6-comes-to-servers/</id>
+        <link href="https://www.servethehome.com/amd-takes-the-lid-off-of-next-gen-epyc-9006-venice-as-zen-6-comes-to-servers/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demo of a concept "fractal" window manager [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Kd9AbKawwhg</id>
+        <link href="https://www.youtube.com/watch?v=Kd9AbKawwhg"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The millionth.bid: the last bidder's quest]]></title>
+        <id>https://millionth.bid/</id>
+        <link href="https://millionth.bid/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make an animated pelican on unicycle jugging fish while explaining bash command]]></title>
+        <id>https://twitter.com/goodside/status/2103149526244618682</id>
+        <link href="https://twitter.com/goodside/status/2103149526244618682"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lecture: Blowup for the Euler Equations with Smooth Forcing – Tristan Buckmaster [video]]]></title>
+        <id>https://www.youtube.com/watch?v=tn45ZOp3lXM</id>
+        <link href="https://www.youtube.com/watch?v=tn45ZOp3lXM"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walgit: A Git server that is one binary in front of an object store]]></title>
+        <id>https://github.com/rgodha24/walgithub</id>
+        <link href="https://github.com/rgodha24/walgithub"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: CoordMap – free browser tools for coordinates, elevation, and distance]]></title>
+        <id>https://www.coordmap.com/</id>
+        <link href="https://www.coordmap.com/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%]]></title>
+        <id>https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342</id>
+        <link href="https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Farm.js – A full-stack framework with an AOT compiler for React]]></title>
+        <id>https://farmjs.dev/</id>
+        <link href="https://farmjs.dev/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minimal Assumptions for Societal Resilience]]></title>
+        <id>https://chillphysicsenjoyer.substack.com/p/minimal-assumptions-for-societal</id>
+        <link href="https://chillphysicsenjoyer.substack.com/p/minimal-assumptions-for-societal"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI and human tutoring yield equivalent GRE learning gains]]></title>
+        <id>https://arxiv.org/abs/2609.28470</id>
+        <link href="https://arxiv.org/abs/2609.28470"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to copy URLs of multiple Firefox tabs without installing an extension]]></title>
+        <id>https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/</id>
+        <link href="https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is z.ai shipping a different ZCode client than the source?]]></title>
+        <id>https://news.ycombinator.com/item?id=49850328</id>
+        <link href="https://news.ycombinator.com/item?id=49850328"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Initial-scale no longer needed]]></title>
+        <id>https://www.quirksmode.org/quirksblog/2026/0902-initial.html</id>
+        <link href="https://www.quirksmode.org/quirksblog/2026/0902-initial.html"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiro adds jev to decide turn in preview]]></title>
+        <id>https://kiro.dev/changelog/</id>
+        <link href="https://kiro.dev/changelog/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: VNetMap – A zero-knowledge E2E encrypted network topology mapper]]></title>
+        <id>https://news.ycombinator.com/item?id=49850400</id>
+        <link href="https://news.ycombinator.com/item?id=49850400"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Workers' Inquiry 2026]]></title>
+        <id>https://techworkersinquiry.org/ai/</id>
+        <link href="https://techworkersinquiry.org/ai/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnionGuard – IP-agnostic, zero-JS DDoS defense in Go for Tor services]]></title>
+        <id>https://github.com/ihatemyfcklife/onionguard</id>
+        <link href="https://github.com/ihatemyfcklife/onionguard"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Translate a SVG back to a diagram – drawio]]></title>
+        <id>https://zoosky.github.io/accent-draw/</id>
+        <link href="https://zoosky.github.io/accent-draw/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI says its AI agents posted user images online in error]]></title>
+        <id>https://techxplore.com/news/2026-09-openai-ai-agents-user-images.html</id>
+        <link href="https://techxplore.com/news/2026-09-openai-ai-agents-user-images.html"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Docspira – JSON/YAML/regex tools that never leave the browser]]></title>
+        <id>https://docspira.com/</id>
+        <link href="https://docspira.com/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The computer hacker who tried to take down Man City]]></title>
+        <id>https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo</id>
+        <link href="https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Catching Rogue Agents in Real Time with Synchronous Control Monitoring]]></title>
+        <id>https://max.ax/writing/synchronous-control-monitoring/</id>
+        <link href="https://max.ax/writing/synchronous-control-monitoring/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typed-lm: a Rust jev open source alternative]]></title>
+        <id>https://github.com/neurono-ml/typed-lm</id>
+        <link href="https://github.com/neurono-ml/typed-lm"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Discovery Tax: Why Coding Agents Waste 2,500 Tokens Before Writing Code]]></title>
+        <id>https://blog.jarv.dev/the-discovery-tax</id>
+        <link href="https://blog.jarv.dev/the-discovery-tax"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Blind Trust in AI-Generated Code]]></title>
+        <id>https://wearecommunity.io/communities/jacov/articles/8709</id>
+        <link href="https://wearecommunity.io/communities/jacov/articles/8709"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -298,69 +361,6 @@
         <title type="html"><![CDATA[uv is 200x faster than pip. Put it in Docker and it’s 4x.]]></title>
         <id>https://pub.towardsai.net/uv-is-200x-faster-than-pip-put-it-in-docker-and-its-4x-e3851d45b8eb?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/uv-is-200x-faster-than-pip-put-it-in-docker-and-its-4x-e3851d45b8eb?source=rss----98111c9905da---4"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Day 16/100] Document Loaders, Text Splitters, and Output Parsers]]></title>
-        <id>https://pub.towardsai.net/day-16-100-document-loaders-text-splitters-and-output-parsers-420efb439350?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-16-100-document-loaders-text-splitters-and-output-parsers-420efb439350?source=rss----98111c9905da---4"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot app for Beginners: How to build custom workflows with canvases]]></title>
-        <id>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/</id>
-        <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your PNG quality slider does nothing — I measured canvas.toBlob() for PNG, JPEG and WebP]]></title>
-        <id>https://dev.to/sharefun2023/your-png-quality-slider-does-nothing-i-measured-canvastoblob-for-png-jpeg-and-webp-7l2</id>
-        <link href="https://dev.to/sharefun2023/your-png-quality-slider-does-nothing-i-measured-canvastoblob-for-png-jpeg-and-webp-7l2"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[getCurrentPosition() Doesn't Just Check — It Prompts]]></title>
-        <id>https://dev.to/parsajiravand/getcurrentposition-doesnt-just-check-it-prompts-52ap</id>
-        <link href="https://dev.to/parsajiravand/getcurrentposition-doesnt-just-check-it-prompts-52ap"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[localStorage Isn't Free — It's Blocking Your Main Thread]]></title>
-        <id>https://dev.to/parsajiravand/localstorage-isnt-free-its-blocking-your-main-thread-nmn</id>
-        <link href="https://dev.to/parsajiravand/localstorage-isnt-free-its-blocking-your-main-thread-nmn"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSON.stringify Is Quietly Deleting Your File Uploads]]></title>
-        <id>https://dev.to/parsajiravand/jsonstringify-is-quietly-deleting-your-file-uploads-55ka</id>
-        <link href="https://dev.to/parsajiravand/jsonstringify-is-quietly-deleting-your-file-uploads-55ka"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Background Task That Waited 40 Seconds for 'Idle']]></title>
-        <id>https://dev.to/parsajiravand/the-background-task-that-waited-40-seconds-for-idle-5736</id>
-        <link href="https://dev.to/parsajiravand/the-background-task-that-waited-40-seconds-for-idle-5736"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Arrays in JavaScript for Beginners]]></title>
-        <id>https://dev.to/soubhagya_dash/understanding-arrays-in-javascript-for-beginners-2ck8</id>
-        <link href="https://dev.to/soubhagya_dash/understanding-arrays-in-javascript-for-beginners-2ck8"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite+ — Chapter 4: Vite+ at Scale — Monorepos, Tasks, Caching, and CI]]></title>
-        <id>https://dev.to/othmane_nemli/vite-chapter-4-vite-at-scale-monorepos-tasks-caching-and-ci-2pmh</id>
-        <link href="https://dev.to/othmane_nemli/vite-chapter-4-vite-at-scale-monorepos-tasks-caching-and-ci-2pmh"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
