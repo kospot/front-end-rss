@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-25T22:02:07.159Z</updated>
+    <updated>2026-09-26T00:01:56.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,23 +29,16 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta opens early access program for new Muse features]]></title>
-        <id>https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/</id>
-        <link href="https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"/>
+        <title type="html"><![CDATA[Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge]]></title>
+        <id>https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/</id>
+        <link href="https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing]]></title>
-        <id>https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/</id>
-        <link href="https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astra and Opus just passed Turing’s other test]]></title>
-        <id>https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/</id>
-        <link href="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"/>
+        <title type="html"><![CDATA[Meta’s AI Tamagotchi bet is…working?]]></title>
+        <id>https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/</id>
+        <link href="https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -57,9 +50,23 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s AI Tamagotchi bet is…working?]]></title>
-        <id>https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/</id>
-        <link href="https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"/>
+        <title type="html"><![CDATA[Astra and Opus just passed Turing’s other test]]></title>
+        <id>https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/</id>
+        <link href="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing]]></title>
+        <id>https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/</id>
+        <link href="https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta opens early access program for new Muse features]]></title>
+        <id>https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/</id>
+        <link href="https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -141,9 +148,9 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From AI Feature to AI-Native SaaS: How the Right Development Partner Shapes Your Roadmap]]></title>
-        <id>https://pub.towardsai.net/from-ai-feature-to-ai-native-saas-how-the-right-development-partner-shapes-your-roadmap-fce6772ad272?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/from-ai-feature-to-ai-native-saas-how-the-right-development-partner-shapes-your-roadmap-fce6772ad272?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[[Day 16/100] Document Loaders, Text Splitters, and Output Parsers]]></title>
+        <id>https://pub.towardsai.net/day-16-100-document-loaders-text-splitters-and-output-parsers-420efb439350?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-16-100-document-loaders-text-splitters-and-output-parsers-420efb439350?source=rss----98111c9905da---4"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -155,6 +162,13 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[From AI Feature to AI-Native SaaS: How the Right Development Partner Shapes Your Roadmap]]></title>
+        <id>https://pub.towardsai.net/from-ai-feature-to-ai-native-saas-how-the-right-development-partner-shapes-your-roadmap-fce6772ad272?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/from-ai-feature-to-ai-native-saas-how-the-right-development-partner-shapes-your-roadmap-fce6772ad272?source=rss----98111c9905da---4"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub Copilot app for Beginners: How to build custom workflows with canvases]]></title>
         <id>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/</id>
         <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/"/>
@@ -162,51 +176,23 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MC/DC coverage for JavaScript]]></title>
-        <id>https://dev.to/nedomas/mcdc-coverage-for-javascript-4388</id>
-        <link href="https://dev.to/nedomas/mcdc-coverage-for-javascript-4388"/>
+        <title type="html"><![CDATA[i built a cookieless analytics tool (and deleted my cookie banner)]]></title>
+        <id>https://dev.to/omyvnss/i-built-a-cookieless-analytics-tool-and-deleted-my-cookie-banner-13ih</id>
+        <link href="https://dev.to/omyvnss/i-built-a-cookieless-analytics-tool-and-deleted-my-cookie-banner-13ih"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Searching 10,000 Printable Pages Without a Search Server: A Prebuilt Index, Synonyms and Kid-Friendly Typos]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/searching-10000-printable-pages-without-a-search-server-a-prebuilt-index-synonyms-and-1lcp</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/searching-10000-printable-pages-without-a-search-server-a-prebuilt-index-synonyms-and-1lcp"/>
+        <title type="html"><![CDATA[Cổng CI cho code agent: reviewer sạch context và 3 chốt remote]]></title>
+        <id>https://dev.to/bean_bean/cong-ci-cho-code-agent-reviewer-sach-context-va-3-chot-remote-2nfl</id>
+        <link href="https://dev.to/bean_bean/cong-ci-cho-code-agent-reviewer-sach-context-va-3-chot-remote-2nfl"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Fair Trivia Quiz Engine: Unbiased Shuffling, Answer Position Balance and Team Scoring]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/building-a-fair-trivia-quiz-engine-unbiased-shuffling-answer-position-balance-and-team-scoring-12o8</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/building-a-fair-trivia-quiz-engine-unbiased-shuffling-answer-position-balance-and-team-scoring-12o8"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
-        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-43gh</id>
-        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-43gh"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Graffiti Text Generator With Canvas: FontFace Loading, Seeded Spray Effects and PNG Export]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/building-a-graffiti-text-generator-with-canvas-fontface-loading-seeded-spray-effects-and-png-3j67</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/building-a-graffiti-text-generator-with-canvas-fontface-loading-seeded-spray-effects-and-png-3j67"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generating Printable Math Worksheets in JavaScript: Seeded Randomness, Constraints and Answer Keys]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/generating-printable-math-worksheets-in-javascript-seeded-randomness-constraints-and-answer-keys-3d9i</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/generating-printable-math-worksheets-in-javascript-seeded-randomness-constraints-and-answer-keys-3d9i"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Converting Video and Audio Entirely in the Browser With WebAssembly: Lessons From Building a Free Converter]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/converting-video-and-audio-entirely-in-the-browser-with-webassembly-lessons-from-building-a-free-4fmn</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/converting-video-and-audio-entirely-in-the-browser-with-webassembly-lessons-from-building-a-free-4fmn"/>
+        <title type="html"><![CDATA[We shipped a proxy extension for Firefox and Edge. Both browsers quietly reuse the old proxy tunnel, and that almost broke it.]]></title>
+        <id>https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i</id>
+        <link href="https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -218,9 +204,51 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We shipped a proxy extension for Firefox and Edge. Both browsers quietly reuse the old proxy tunnel, and that almost broke it.]]></title>
-        <id>https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i</id>
-        <link href="https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i"/>
+        <title type="html"><![CDATA[Converting Video and Audio Entirely in the Browser With WebAssembly: Lessons From Building a Free Converter]]></title>
+        <id>https://dev.to/akbo_ichou_c41c249cc2783d/converting-video-and-audio-entirely-in-the-browser-with-webassembly-lessons-from-building-a-free-4fmn</id>
+        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/converting-video-and-audio-entirely-in-the-browser-with-webassembly-lessons-from-building-a-free-4fmn"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating Printable Math Worksheets in JavaScript: Seeded Randomness, Constraints and Answer Keys]]></title>
+        <id>https://dev.to/akbo_ichou_c41c249cc2783d/generating-printable-math-worksheets-in-javascript-seeded-randomness-constraints-and-answer-keys-3d9i</id>
+        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/generating-printable-math-worksheets-in-javascript-seeded-randomness-constraints-and-answer-keys-3d9i"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Graffiti Text Generator With Canvas: FontFace Loading, Seeded Spray Effects and PNG Export]]></title>
+        <id>https://dev.to/akbo_ichou_c41c249cc2783d/building-a-graffiti-text-generator-with-canvas-fontface-loading-seeded-spray-effects-and-png-3j67</id>
+        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/building-a-graffiti-text-generator-with-canvas-fontface-loading-seeded-spray-effects-and-png-3j67"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
+        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-43gh</id>
+        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-43gh"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Fair Trivia Quiz Engine: Unbiased Shuffling, Answer Position Balance and Team Scoring]]></title>
+        <id>https://dev.to/akbo_ichou_c41c249cc2783d/building-a-fair-trivia-quiz-engine-unbiased-shuffling-answer-position-balance-and-team-scoring-12o8</id>
+        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/building-a-fair-trivia-quiz-engine-unbiased-shuffling-answer-position-balance-and-team-scoring-12o8"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Searching 10,000 Printable Pages Without a Search Server: A Prebuilt Index, Synonyms and Kid-Friendly Typos]]></title>
+        <id>https://dev.to/akbo_ichou_c41c249cc2783d/searching-10000-printable-pages-without-a-search-server-a-prebuilt-index-synonyms-and-1lcp</id>
+        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/searching-10000-printable-pages-without-a-search-server-a-prebuilt-index-synonyms-and-1lcp"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MC/DC coverage for JavaScript]]></title>
+        <id>https://dev.to/nedomas/mcdc-coverage-for-javascript-4388</id>
+        <link href="https://dev.to/nedomas/mcdc-coverage-for-javascript-4388"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -274,13 +302,6 @@
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine]]></title>
-        <id>https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/</id>
-        <link href="https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Party Invite Phishing Scams Are the New Missed Connections]]></title>
         <id>https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/</id>
         <link href="https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/"/>
@@ -288,65 +309,16 @@
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack]]></title>
-        <id>https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/</id>
-        <link href="https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/"/>
+        <title type="html"><![CDATA[The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine]]></title>
+        <id>https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/</id>
+        <link href="https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware]]></title>
-        <id>https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/</id>
-        <link href="https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass]]></title>
-        <id>https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/</id>
-        <link href="https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum]]></title>
-        <id>https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/</id>
-        <link href="https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korean hackers suspected in $351M crypto theft, the largest so far this year]]></title>
-        <id>https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/</id>
-        <link href="https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo is scaling fast. Here’s what the fleet data shows.]]></title>
-        <id>https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/</id>
-        <link href="https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/</id>
-        <link href="https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS]]></title>
-        <id>https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/</id>
-        <link href="https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend]]></title>
-        <id>https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/</id>
-        <link href="https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/"/>
+        <title type="html"><![CDATA[Lightspeed targets $250M for new India fund, focusing on early-stage AI]]></title>
+        <id>https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/</id>
+        <link href="https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
@@ -358,9 +330,37 @@
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lightspeed targets $250M for new India fund, focusing on early-stage AI]]></title>
-        <id>https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/</id>
-        <link href="https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"/>
+        <title type="html"><![CDATA[Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend]]></title>
+        <id>https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/</id>
+        <link href="https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS]]></title>
+        <id>https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/</id>
+        <link href="https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026]]></title>
+        <id>https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/</id>
+        <link href="https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waymo is scaling fast. Here’s what the fleet data shows.]]></title>
+        <id>https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/</id>
+        <link href="https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/"/>
+        <updated>2026-09-24T16:00:00.000Z</updated>
+        <published>2026-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korean hackers suspected in $351M crypto theft, the largest so far this year]]></title>
+        <id>https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/</id>
+        <link href="https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
