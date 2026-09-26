@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-26T02:02:07.682Z</updated>
+    <updated>2026-09-26T04:02:13.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,65 +78,44 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OnionGuard – IP-agnostic, zero-JS DDoS defense in Go for Tor services]]></title>
-        <id>https://github.com/ihatemyfcklife/onionguard</id>
-        <link href="https://github.com/ihatemyfcklife/onionguard"/>
+        <title type="html"><![CDATA[The millionth.bid: the last bidder's quest]]></title>
+        <id>https://millionth.bid/</id>
+        <link href="https://millionth.bid/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Workers' Inquiry 2026]]></title>
-        <id>https://techworkersinquiry.org/ai/</id>
-        <link href="https://techworkersinquiry.org/ai/"/>
+        <title type="html"><![CDATA[Make an animated pelican on unicycle jugging fish while explaining bash command]]></title>
+        <id>https://twitter.com/goodside/status/2103149526244618682</id>
+        <link href="https://twitter.com/goodside/status/2103149526244618682"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: VNetMap – A zero-knowledge E2E encrypted network topology mapper]]></title>
-        <id>https://news.ycombinator.com/item?id=49850400</id>
-        <link href="https://news.ycombinator.com/item?id=49850400"/>
+        <title type="html"><![CDATA[Lecture: Blowup for the Euler Equations with Smooth Forcing – Tristan Buckmaster [video]]]></title>
+        <id>https://www.youtube.com/watch?v=tn45ZOp3lXM</id>
+        <link href="https://www.youtube.com/watch?v=tn45ZOp3lXM"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kiro adds jev to decide turn in preview]]></title>
-        <id>https://kiro.dev/changelog/</id>
-        <link href="https://kiro.dev/changelog/"/>
+        <title type="html"><![CDATA[Walgit: A Git server that is one binary in front of an object store]]></title>
+        <id>https://github.com/rgodha24/walgithub</id>
+        <link href="https://github.com/rgodha24/walgithub"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Initial-scale no longer needed]]></title>
-        <id>https://www.quirksmode.org/quirksblog/2026/0902-initial.html</id>
-        <link href="https://www.quirksmode.org/quirksblog/2026/0902-initial.html"/>
+        <title type="html"><![CDATA[Show HN: CoordMap – free browser tools for coordinates, elevation, and distance]]></title>
+        <id>https://www.coordmap.com/</id>
+        <link href="https://www.coordmap.com/"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is z.ai shipping a different ZCode client than the source?]]></title>
-        <id>https://news.ycombinator.com/item?id=49850328</id>
-        <link href="https://news.ycombinator.com/item?id=49850328"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to copy URLs of multiple Firefox tabs without installing an extension]]></title>
-        <id>https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/</id>
-        <link href="https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI and human tutoring yield equivalent GRE learning gains]]></title>
-        <id>https://arxiv.org/abs/2609.28470</id>
-        <link href="https://arxiv.org/abs/2609.28470"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimal Assumptions for Societal Resilience]]></title>
-        <id>https://chillphysicsenjoyer.substack.com/p/minimal-assumptions-for-societal</id>
-        <link href="https://chillphysicsenjoyer.substack.com/p/minimal-assumptions-for-societal"/>
+        <title type="html"><![CDATA[Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%]]></title>
+        <id>https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342</id>
+        <link href="https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -148,9 +127,65 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%]]></title>
-        <id>https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342</id>
-        <link href="https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342"/>
+        <title type="html"><![CDATA[Minimal Assumptions for Societal Resilience]]></title>
+        <id>https://chillphysicsenjoyer.substack.com/p/minimal-assumptions-for-societal</id>
+        <link href="https://chillphysicsenjoyer.substack.com/p/minimal-assumptions-for-societal"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI and human tutoring yield equivalent GRE learning gains]]></title>
+        <id>https://arxiv.org/abs/2609.28470</id>
+        <link href="https://arxiv.org/abs/2609.28470"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to copy URLs of multiple Firefox tabs without installing an extension]]></title>
+        <id>https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/</id>
+        <link href="https://www.autodidacts.io/how-to-copy-urls-of-multiple-firefox-tabs-without-installing-an-extension/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is z.ai shipping a different ZCode client than the source?]]></title>
+        <id>https://news.ycombinator.com/item?id=49850328</id>
+        <link href="https://news.ycombinator.com/item?id=49850328"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Initial-scale no longer needed]]></title>
+        <id>https://www.quirksmode.org/quirksblog/2026/0902-initial.html</id>
+        <link href="https://www.quirksmode.org/quirksblog/2026/0902-initial.html"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiro adds jev to decide turn in preview]]></title>
+        <id>https://kiro.dev/changelog/</id>
+        <link href="https://kiro.dev/changelog/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: VNetMap – A zero-knowledge E2E encrypted network topology mapper]]></title>
+        <id>https://news.ycombinator.com/item?id=49850400</id>
+        <link href="https://news.ycombinator.com/item?id=49850400"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Workers' Inquiry 2026]]></title>
+        <id>https://techworkersinquiry.org/ai/</id>
+        <link href="https://techworkersinquiry.org/ai/"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnionGuard – IP-agnostic, zero-JS DDoS defense in Go for Tor services]]></title>
+        <id>https://github.com/ihatemyfcklife/onionguard</id>
+        <link href="https://github.com/ihatemyfcklife/onionguard"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -183,86 +218,30 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Limn League 2027: A Complete Football Game in Pure JavaScript]]></title>
-        <id>https://dev.to/kehinde_owolabi_e2e54567a/building-limn-league-2027-a-complete-football-game-in-pure-javascript-2idm</id>
-        <link href="https://dev.to/kehinde_owolabi_e2e54567a/building-limn-league-2027-a-complete-football-game-in-pure-javascript-2idm"/>
+        <title type="html"><![CDATA[I Built Two Free Productivity Tools in Pure HTML — Here's How They Work]]></title>
+        <id>https://dev.to/mou1z/i-built-two-free-productivity-tools-in-pure-html-heres-how-they-work-4em6</id>
+        <link href="https://dev.to/mou1z/i-built-two-free-productivity-tools-in-pure-html-heres-how-they-work-4em6"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A verified beacon can still give you the wrong number]]></title>
-        <id>https://dev.to/kepler_ops/a-verified-beacon-can-still-give-you-the-wrong-number-1oj4</id>
-        <link href="https://dev.to/kepler_ops/a-verified-beacon-can-still-give-you-the-wrong-number-1oj4"/>
+        <title type="html"><![CDATA[Top 5 Sites to Buy Edu Emails - Get Your Discounts &]]></title>
+        <id>https://dev.to/shakiralee1/top-5-sites-to-buy-edu-emails-get-your-discounts--4229</id>
+        <link href="https://dev.to/shakiralee1/top-5-sites-to-buy-edu-emails-get-your-discounts--4229"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Offensive Coding: Exploiting JavaScript's Tiny Door]]></title>
-        <id>https://dev.to/one_user_4e8b9b04ce8/offensive-coding-exploiting-javascripts-tiny-door-58fn</id>
-        <link href="https://dev.to/one_user_4e8b9b04ce8/offensive-coding-exploiting-javascripts-tiny-door-58fn"/>
+        <title type="html"><![CDATA[JavaScript Training with Live Projects: Why Practical Experience Matters]]></title>
+        <id>https://dev.to/webdevcommunity/javascript-training-with-live-projects-why-practical-experience-matters-205m</id>
+        <link href="https://dev.to/webdevcommunity/javascript-training-with-live-projects-why-practical-experience-matters-205m"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MC/DC coverage for JavaScript]]></title>
-        <id>https://dev.to/nedomas/mcdc-coverage-for-javascript-4388</id>
-        <link href="https://dev.to/nedomas/mcdc-coverage-for-javascript-4388"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Searching 10,000 Printable Pages Without a Search Server: A Prebuilt Index, Synonyms and Kid-Friendly Typos]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/searching-10000-printable-pages-without-a-search-server-a-prebuilt-index-synonyms-and-1lcp</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/searching-10000-printable-pages-without-a-search-server-a-prebuilt-index-synonyms-and-1lcp"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Fair Trivia Quiz Engine: Unbiased Shuffling, Answer Position Balance and Team Scoring]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/building-a-fair-trivia-quiz-engine-unbiased-shuffling-answer-position-balance-and-team-scoring-12o8</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/building-a-fair-trivia-quiz-engine-unbiased-shuffling-answer-position-balance-and-team-scoring-12o8"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
-        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-43gh</id>
-        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-43gh"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Graffiti Text Generator With Canvas: FontFace Loading, Seeded Spray Effects and PNG Export]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/building-a-graffiti-text-generator-with-canvas-fontface-loading-seeded-spray-effects-and-png-3j67</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/building-a-graffiti-text-generator-with-canvas-fontface-loading-seeded-spray-effects-and-png-3j67"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generating Printable Math Worksheets in JavaScript: Seeded Randomness, Constraints and Answer Keys]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/generating-printable-math-worksheets-in-javascript-seeded-randomness-constraints-and-answer-keys-3d9i</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/generating-printable-math-worksheets-in-javascript-seeded-randomness-constraints-and-answer-keys-3d9i"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Converting Video and Audio Entirely in the Browser With WebAssembly: Lessons From Building a Free Converter]]></title>
-        <id>https://dev.to/akbo_ichou_c41c249cc2783d/converting-video-and-audio-entirely-in-the-browser-with-webassembly-lessons-from-building-a-free-4fmn</id>
-        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/converting-video-and-audio-entirely-in-the-browser-with-webassembly-lessons-from-building-a-free-4fmn"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LeveloJS Went Quiet. We Were Rebuilding the Foundation.]]></title>
-        <id>https://dev.to/motionmind2007/levelojs-went-quiet-we-were-rebuilding-the-foundation-4812</id>
-        <link href="https://dev.to/motionmind2007/levelojs-went-quiet-we-were-rebuilding-the-foundation-4812"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We shipped a proxy extension for Firefox and Edge. Both browsers quietly reuse the old proxy tunnel, and that almost broke it.]]></title>
-        <id>https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i</id>
-        <link href="https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i"/>
+        <title type="html"><![CDATA[i built a cookieless analytics tool (and deleted my cookie banner)]]></title>
+        <id>https://dev.to/omyvnss/i-built-a-cookieless-analytics-tool-and-deleted-my-cookie-banner-13ih</id>
+        <link href="https://dev.to/omyvnss/i-built-a-cookieless-analytics-tool-and-deleted-my-cookie-banner-13ih"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -274,9 +253,86 @@
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[i built a cookieless analytics tool (and deleted my cookie banner)]]></title>
-        <id>https://dev.to/omyvnss/i-built-a-cookieless-analytics-tool-and-deleted-my-cookie-banner-13ih</id>
-        <link href="https://dev.to/omyvnss/i-built-a-cookieless-analytics-tool-and-deleted-my-cookie-banner-13ih"/>
+        <title type="html"><![CDATA[We shipped a proxy extension for Firefox and Edge. Both browsers quietly reuse the old proxy tunnel, and that almost broke it.]]></title>
+        <id>https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i</id>
+        <link href="https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LeveloJS Went Quiet. We Were Rebuilding the Foundation.]]></title>
+        <id>https://dev.to/motionmind2007/levelojs-went-quiet-we-were-rebuilding-the-foundation-4812</id>
+        <link href="https://dev.to/motionmind2007/levelojs-went-quiet-we-were-rebuilding-the-foundation-4812"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Converting Video and Audio Entirely in the Browser With WebAssembly: Lessons From Building a Free Converter]]></title>
+        <id>https://dev.to/akbo_ichou_c41c249cc2783d/converting-video-and-audio-entirely-in-the-browser-with-webassembly-lessons-from-building-a-free-4fmn</id>
+        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/converting-video-and-audio-entirely-in-the-browser-with-webassembly-lessons-from-building-a-free-4fmn"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating Printable Math Worksheets in JavaScript: Seeded Randomness, Constraints and Answer Keys]]></title>
+        <id>https://dev.to/akbo_ichou_c41c249cc2783d/generating-printable-math-worksheets-in-javascript-seeded-randomness-constraints-and-answer-keys-3d9i</id>
+        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/generating-printable-math-worksheets-in-javascript-seeded-randomness-constraints-and-answer-keys-3d9i"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Graffiti Text Generator With Canvas: FontFace Loading, Seeded Spray Effects and PNG Export]]></title>
+        <id>https://dev.to/akbo_ichou_c41c249cc2783d/building-a-graffiti-text-generator-with-canvas-fontface-loading-seeded-spray-effects-and-png-3j67</id>
+        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/building-a-graffiti-text-generator-with-canvas-fontface-loading-seeded-spray-effects-and-png-3j67"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
+        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-43gh</id>
+        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-43gh"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Fair Trivia Quiz Engine: Unbiased Shuffling, Answer Position Balance and Team Scoring]]></title>
+        <id>https://dev.to/akbo_ichou_c41c249cc2783d/building-a-fair-trivia-quiz-engine-unbiased-shuffling-answer-position-balance-and-team-scoring-12o8</id>
+        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/building-a-fair-trivia-quiz-engine-unbiased-shuffling-answer-position-balance-and-team-scoring-12o8"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Searching 10,000 Printable Pages Without a Search Server: A Prebuilt Index, Synonyms and Kid-Friendly Typos]]></title>
+        <id>https://dev.to/akbo_ichou_c41c249cc2783d/searching-10000-printable-pages-without-a-search-server-a-prebuilt-index-synonyms-and-1lcp</id>
+        <link href="https://dev.to/akbo_ichou_c41c249cc2783d/searching-10000-printable-pages-without-a-search-server-a-prebuilt-index-synonyms-and-1lcp"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MC/DC coverage for JavaScript]]></title>
+        <id>https://dev.to/nedomas/mcdc-coverage-for-javascript-4388</id>
+        <link href="https://dev.to/nedomas/mcdc-coverage-for-javascript-4388"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Offensive Coding: Exploiting JavaScript's Tiny Door]]></title>
+        <id>https://dev.to/one_user_4e8b9b04ce8/offensive-coding-exploiting-javascripts-tiny-door-58fn</id>
+        <link href="https://dev.to/one_user_4e8b9b04ce8/offensive-coding-exploiting-javascripts-tiny-door-58fn"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A verified beacon can still give you the wrong number]]></title>
+        <id>https://dev.to/kepler_ops/a-verified-beacon-can-still-give-you-the-wrong-number-1oj4</id>
+        <link href="https://dev.to/kepler_ops/a-verified-beacon-can-still-give-you-the-wrong-number-1oj4"/>
+        <updated>2026-09-25T16:00:00.000Z</updated>
+        <published>2026-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Limn League 2027: A Complete Football Game in Pure JavaScript]]></title>
+        <id>https://dev.to/kehinde_owolabi_e2e54567a/building-limn-league-2027-a-complete-football-game-in-pure-javascript-2idm</id>
+        <link href="https://dev.to/kehinde_owolabi_e2e54567a/building-limn-league-2027-a-complete-football-game-in-pure-javascript-2idm"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
@@ -305,62 +361,6 @@
         <title type="html"><![CDATA[Now Google Chrome shares tabs to new devices that save where you were]]></title>
         <id>https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates</id>
         <link href="https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s sinister that Meta’s Muse AI mascot is so cute]]></title>
-        <id>https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute</id>
-        <link href="https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures]]></title>
-        <id>https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats</id>
-        <link href="https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaming’s biggest horror series are more vital than ever]]></title>
-        <id>https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil</id>
-        <link href="https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine]]></title>
-        <id>https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/</id>
-        <link href="https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Party Invite Phishing Scams Are the New Missed Connections]]></title>
-        <id>https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/</id>
-        <link href="https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack]]></title>
-        <id>https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/</id>
-        <link href="https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware]]></title>
-        <id>https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/</id>
-        <link href="https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"/>
-        <updated>2026-09-24T16:00:00.000Z</updated>
-        <published>2026-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass]]></title>
-        <id>https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/</id>
-        <link href="https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"/>
         <updated>2026-09-24T16:00:00.000Z</updated>
         <published>2026-09-24T16:00:00.000Z</published>
     </entry>
