@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-26 23:06:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-27 06:01:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -8,7 +8,6 @@
 
 
 - [2026-09-18-Multiple-providers-offer-free-mystery-model,-Union-Alpha](https://tokenstead.ai/models/union-alpha) 
-- [2026-08-28-330-applications.-No-offer.-Don’t-send-application-331-yet.](https://medium.com/@mike.salari.dev/330-applications-no-offer-dont-send-application-331-yet-24494eabc9e0) 
 - [2026-09-14-A-Vinyl-Bar-in-Shibuya-is-a-startup-offering-fun-music-apps-without-any-AI-prompting](https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/) 
 - [2026-09-19-Flock-Offers-Employees-Buyouts-as-Customers-Flee](https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/) 
 - [2026-09-12-Petlibro-Offers:-30%-Off-in-September-2026](https://www.wired.com/story/petlibro-discount-code/) 
