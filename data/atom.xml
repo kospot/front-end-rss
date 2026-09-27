@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-27T15:04:17.959Z</updated>
+    <updated>2026-09-27T22:01:58.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,88 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The smart home graveyard is getting crowded]]></title>
-        <id>https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard</id>
-        <link href="https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[OpenAI agents tried to ‘bruteforce’ a UN website]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Muse overcome Meta’s trust issues?]]></title>
+        <id>https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/</id>
+        <link href="https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s Dario Amodei gets the SNL treatment]]></title>
+        <id>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</id>
+        <link href="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TechCrunch Mobility: AV companies pick their lanes]]></title>
+        <id>https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/</id>
+        <link href="https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried Emulating JEV Locally with Ollama: Here Are the 3 Structural Traps I Hit]]></title>
+        <id>https://pub.towardsai.net/i-tried-emulating-jev-locally-with-ollama-here-are-the-3-structural-traps-i-hit-bde20823caf7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tried-emulating-jev-locally-with-ollama-here-are-the-3-structural-traps-i-hit-bde20823caf7?source=rss----98111c9905da---4"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add AI Voice to Your Django App]]></title>
+        <id>https://dev.to/voice_developer/how-to-add-ai-voice-to-your-django-app-4o8b</id>
+        <link href="https://dev.to/voice_developer/how-to-add-ai-voice-to-your-django-app-4o8b"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Are Lying to Your Compiler. Use "satisfies" Instead of "as".]]></title>
+        <id>https://dev.to/ogeobubu/you-are-lying-to-your-compiler-use-satisfies-instead-of-as-55j2</id>
+        <link href="https://dev.to/ogeobubu/you-are-lying-to-your-compiler-use-satisfies-instead-of-as-55j2"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KryonOS v2.0.0 brings a JavaScript GUI OS to ESP32-S3 (N16R8), Cardputer, CYD, and LilyGO T-HMI with a 3D engine]]></title>
+        <id>https://dev.to/haris18/kryonos-v200-brings-a-javascript-gui-os-to-esp32-s3-n16r8-cardputer-cyd-and-lilygo-t-hmi-1k8k</id>
+        <link href="https://dev.to/haris18/kryonos-v200-brings-a-javascript-gui-os-to-esp32-s3-n16r8-cardputer-cyd-and-lilygo-t-hmi-1k8k"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Quick Steps To Buy Verified Airbnb Accounts in Bulk]]></title>
+        <id>https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-airbnb-accounts-in-bulk-2817</id>
+        <link href="https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-airbnb-accounts-in-bulk-2817"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Quick Steps To Buy Verified PayPal Accounts in Bulk]]></title>
+        <id>https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-paypal-accounts-in-bulk-18nc</id>
+        <link href="https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-paypal-accounts-in-bulk-18nc"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can I Find a Trusted Source to Buy Verified Cash App Accounts?]]></title>
+        <id>https://dev.to/gesep95508/how-can-i-find-a-trusted-source-to-buy-verified-cash-app-accounts-4ce2</id>
+        <link href="https://dev.to/gesep95508/how-can-i-find-a-trusted-source-to-buy-verified-cash-app-accounts-4ce2"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Quick Steps To Buy Verified Cash App Accounts in Bulk]]></title>
+        <id>https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-cash-app-accounts-in-bulk-126b</id>
+        <link href="https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-cash-app-accounts-in-bulk-126b"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kids turned the comment section of an NPR podcast into a group chat]]></title>
@@ -29,16 +106,16 @@
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises]]></title>
-        <id>https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/</id>
-        <link href="https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/"/>
+        <title type="html"><![CDATA[The smart home graveyard is getting crowded]]></title>
+        <id>https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard</id>
+        <link href="https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TikTok agrees to pay at least $100M in Alabama settlement]]></title>
-        <id>https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/</id>
-        <link href="https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"/>
+        <title type="html"><![CDATA[Levoit’s new air purifier is for the pet odors that have taken over your apartment]]></title>
+        <id>https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/</id>
+        <link href="https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
@@ -50,9 +127,16 @@
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Levoit’s new air purifier is for the pet odors that have taken over your apartment]]></title>
-        <id>https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/</id>
-        <link href="https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/"/>
+        <title type="html"><![CDATA[TikTok agrees to pay at least $100M in Alabama settlement]]></title>
+        <id>https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/</id>
+        <link href="https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises]]></title>
+        <id>https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/</id>
+        <link href="https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
@@ -277,90 +361,6 @@
         <title type="html"><![CDATA[Minicut AI: Higgsfield but for AI Drama and Film]]></title>
         <id>https://www.minicut.ai</id>
         <link href="https://www.minicut.ai"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Promised the Truth About UFOs. These Scientists Are Waiting]]></title>
-        <id>https://www.politico.com/news/magazine/2026/09/26/ufos-trump-aliens-uaps-government-01088254</id>
-        <link href="https://www.politico.com/news/magazine/2026/09/26/ufos-trump-aliens-uaps-government-01088254"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust for C#/.NET Developers]]></title>
-        <id>https://microsoft.github.io/rust-for-dotnet-devs/latest/introduction.html</id>
-        <link href="https://microsoft.github.io/rust-for-dotnet-devs/latest/introduction.html"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nom Army: Don't trust coding agents when they say they're done]]></title>
-        <id>https://github.com/rayson-tech/nomarmy</id>
-        <link href="https://github.com/rayson-tech/nomarmy"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfectly Replicating Red Bull Then Making It Caffeine-Free [video]]]></title>
-        <id>https://www.youtube.com/watch?v=7pTqGJ3KSLE</id>
-        <link href="https://www.youtube.com/watch?v=7pTqGJ3KSLE"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Unreal Tournament 2003 Master Server patch + Ultrawide and No Sound Fix]]></title>
-        <id>https://github.com/rokyed/ut2003-ultrawide-screen-patch</id>
-        <link href="https://github.com/rokyed/ut2003-ultrawide-screen-patch"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citizenship Restored (2023)]]></title>
-        <id>https://www.lrb.co.uk/the-paper/v45/n18/daniel-trilling/diary</id>
-        <link href="https://www.lrb.co.uk/the-paper/v45/n18/daniel-trilling/diary"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Windows NT's object-based model better suited for AI agents than Linux?]]></title>
-        <id>https://www.windowslatest.com/2026/09/26/google-researcher-explains-why-windows-nt-puts-linux-to-shame-and-imagines-an-alternate-history-where-it-won/</id>
-        <link href="https://www.windowslatest.com/2026/09/26/google-researcher-explains-why-windows-nt-puts-linux-to-shame-and-imagines-an-alternate-history-where-it-won/"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Dicty – Privacy-first local voice dictation and dev documentation tool]]></title>
-        <id>https://dicty.io</id>
-        <link href="https://dicty.io"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Four AI Risk Domains]]></title>
-        <id>https://sdarchitect.blog/2026/09/27/ai-risk-a-users-guide-part-iv-understanding-the-four-ai-risk-domains/</id>
-        <link href="https://sdarchitect.blog/2026/09/27/ai-risk-a-users-guide-part-iv-understanding-the-four-ai-risk-domains/"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citizens' Assemblies Can Help Repair Dysfunctional Democracies (2022)]]></title>
-        <id>https://www.noemamag.com/a-movement-thats-quietly-reshaping-democracy-for-the-better/</id>
-        <link href="https://www.noemamag.com/a-movement-thats-quietly-reshaping-democracy-for-the-better/"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Review of Don Quixote]]></title>
-        <id>https://flowtwo.io/post/don-quixote</id>
-        <link href="https://flowtwo.io/post/don-quixote"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why mathematicians are hiding research results in zero-knowledge proofs]]></title>
-        <id>https://www.scientificamerican.com/article/why-mathematicians-are-hiding-research-results-in-zero-knowledge-proofs/</id>
-        <link href="https://www.scientificamerican.com/article/why-mathematicians-are-hiding-research-results-in-zero-knowledge-proofs/"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
