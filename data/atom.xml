@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-27T00:01:15.012Z</updated>
+    <updated>2026-09-27T02:01:30.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,9 @@
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TikTok agrees to pay at least $100M in Alabama settlement]]></title>
-        <id>https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/</id>
-        <link href="https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"/>
+        <title type="html"><![CDATA[Levoit’s new air purifier is for the pet odors that have taken over your apartment]]></title>
+        <id>https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/</id>
+        <link href="https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
@@ -36,86 +36,65 @@
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Levoit’s new air purifier is for the pet odors that have taken over your apartment]]></title>
-        <id>https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/</id>
-        <link href="https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/"/>
+        <title type="html"><![CDATA[TikTok agrees to pay at least $100M in Alabama settlement]]></title>
+        <id>https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/</id>
+        <link href="https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["can't a guy walk down the street anymore without being harassed by AI" [video]]]></title>
-        <id>https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z</id>
-        <link href="https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z"/>
+        <title type="html"><![CDATA[Relnotely, hosted changelog on your own domain, no vendor badge]]></title>
+        <id>https://relnotely.com</id>
+        <link href="https://relnotely.com"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Detailed Guide to Agent Memory]]></title>
-        <id>https://www.cognee.ai/agent-memory</id>
-        <link href="https://www.cognee.ai/agent-memory"/>
+        <title type="html"><![CDATA[A Friendlier Version of I2cdetect]]></title>
+        <id>https://github.com/bitbank2/ls_i2c</id>
+        <link href="https://github.com/bitbank2/ls_i2c"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First ever 3D animation (40 year old 3D computer graphics Pixar 1972)]]></title>
-        <id>https://www.youtube.com/watch?v=T5seU-5U0ms</id>
-        <link href="https://www.youtube.com/watch?v=T5seU-5U0ms"/>
+        <title type="html"><![CDATA[Check is your OpenAI GPT-6-Astra nerfed?]]></title>
+        <id>https://is-my-astra-real.pages.dev/</id>
+        <link href="https://is-my-astra-real.pages.dev/"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top AI companies probing security incidents]]></title>
-        <id>https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents</id>
-        <link href="https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents"/>
+        <title type="html"><![CDATA[Speeding up screensaver 17x by porting from Rust to x86-64 assembler via LLMs]]></title>
+        <id>https://twitter.com/dhh/status/2103595410921279635</id>
+        <link href="https://twitter.com/dhh/status/2103595410921279635"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[react-html-3.2]]></title>
-        <id>https://jkosoy.github.io/react-html-3.2/</id>
-        <link href="https://jkosoy.github.io/react-html-3.2/"/>
+        <title type="html"><![CDATA[PostgreSQL and the Linux OOM Killer: A Better Default]]></title>
+        <id>https://clickhouse.com/blog/strict-memory-overcommit-for-postgres</id>
+        <link href="https://clickhouse.com/blog/strict-memory-overcommit-for-postgres"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vibe coding a real product: a 3D game on the App Store, 20 species, zero revenue]]></title>
-        <id>https://apps.apple.com/us/app/dinomino/id6809052147</id>
-        <link href="https://apps.apple.com/us/app/dinomino/id6809052147"/>
+        <title type="html"><![CDATA[OpenAI agents tried to bruteforce a UN website's API fields]]></title>
+        <id>https://swarmcha.se/posts/openai-unctad</id>
+        <link href="https://swarmcha.se/posts/openai-unctad"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns]]></title>
-        <id>https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard</id>
-        <link href="https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard"/>
+        <title type="html"><![CDATA[Real-Time Feedback: My Closing Move in Every Interview]]></title>
+        <id>https://mgrebler.substack.com/p/real-time-feedback-my-closing-move</id>
+        <link href="https://mgrebler.substack.com/p/real-time-feedback-my-closing-move"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hackers hijack AI accounts and servers to fuel new cyber crime boom]]></title>
-        <id>https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32</id>
-        <link href="https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Simple Puzzle Reveals the Jagged Edge of AI's Abilities]]></title>
-        <id>https://aatishb.com/blog/2026/ai-jagged-intelligence/</id>
-        <link href="https://aatishb.com/blog/2026/ai-jagged-intelligence/"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Meta CTO's Strategy on Scaling Green Tech (Mike Schroepfer) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=KdBTEhLRLDU</id>
-        <link href="https://www.youtube.com/watch?v=KdBTEhLRLDU"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dofigen: A high(er)-level YAML/JSON format for generating Dockerfiles]]></title>
-        <id>https://github.com/lenra-io/dofigen</id>
-        <link href="https://github.com/lenra-io/dofigen"/>
+        <title type="html"><![CDATA[What if you removed every electron from 1kg of metal?]]></title>
+        <id>https://www.youtube.com/watch?v=jw7x2RoeGIY</id>
+        <link href="https://www.youtube.com/watch?v=jw7x2RoeGIY"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
@@ -127,30 +106,86 @@
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fine-Tuning to Quantization: What Free-Tier Hardware Can Prove]]></title>
-        <id>https://pub.towardsai.net/fine-tuning-to-quantization-what-free-tier-hardware-can-prove-bb4359c2a5cd?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/fine-tuning-to-quantization-what-free-tier-hardware-can-prove-bb4359c2a5cd?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Dofigen: A high(er)-level YAML/JSON format for generating Dockerfiles]]></title>
+        <id>https://github.com/lenra-io/dofigen</id>
+        <link href="https://github.com/lenra-io/dofigen"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Dataset That Grows With Your Model: Deterministic Synthetic Objects for Research and CI]]></title>
-        <id>https://pub.towardsai.net/a-dataset-that-grows-with-your-model-deterministic-synthetic-objects-for-research-and-ci-6ac6b019c5af?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/a-dataset-that-grows-with-your-model-deterministic-synthetic-objects-for-research-and-ci-6ac6b019c5af?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Former Meta CTO's Strategy on Scaling Green Tech (Mike Schroepfer) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=KdBTEhLRLDU</id>
+        <link href="https://www.youtube.com/watch?v=KdBTEhLRLDU"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Think AI Made You a Faster Coder. A New Study Says You’re Wrong.]]></title>
-        <id>https://pub.towardsai.net/you-think-ai-made-you-a-faster-coder-a-new-study-says-youre-wrong-13f74d353c68?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/you-think-ai-made-you-a-faster-coder-a-new-study-says-youre-wrong-13f74d353c68?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[A Simple Puzzle Reveals the Jagged Edge of AI's Abilities]]></title>
+        <id>https://aatishb.com/blog/2026/ai-jagged-intelligence/</id>
+        <link href="https://aatishb.com/blog/2026/ai-jagged-intelligence/"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Multi-Agent Swarm Governance: Zero Trust for Mesh APIs]]></title>
-        <id>https://pub.towardsai.net/multi-agent-swarm-governance-zero-trust-for-mesh-apis-cc1eab9edee1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/multi-agent-swarm-governance-zero-trust-for-mesh-apis-cc1eab9edee1?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Hackers hijack AI accounts and servers to fuel new cyber crime boom]]></title>
+        <id>https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32</id>
+        <link href="https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns]]></title>
+        <id>https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard</id>
+        <link href="https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe coding a real product: a 3D game on the App Store, 20 species, zero revenue]]></title>
+        <id>https://apps.apple.com/us/app/dinomino/id6809052147</id>
+        <link href="https://apps.apple.com/us/app/dinomino/id6809052147"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[react-html-3.2]]></title>
+        <id>https://jkosoy.github.io/react-html-3.2/</id>
+        <link href="https://jkosoy.github.io/react-html-3.2/"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top AI companies probing security incidents]]></title>
+        <id>https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents</id>
+        <link href="https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First ever 3D animation (40 year old 3D computer graphics Pixar 1972)]]></title>
+        <id>https://www.youtube.com/watch?v=T5seU-5U0ms</id>
+        <link href="https://www.youtube.com/watch?v=T5seU-5U0ms"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Detailed Guide to Agent Memory]]></title>
+        <id>https://www.cognee.ai/agent-memory</id>
+        <link href="https://www.cognee.ai/agent-memory"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["can't a guy walk down the street anymore without being harassed by AI" [video]]]></title>
+        <id>https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z</id>
+        <link href="https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI In Future Will Remember Past Without Reading Everything ]]></title>
+        <id>https://pub.towardsai.net/how-ai-in-future-will-remember-past-without-reading-everything-3f81b61a8537?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-ai-in-future-will-remember-past-without-reading-everything-3f81b61a8537?source=rss----98111c9905da---4"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
@@ -162,9 +197,30 @@
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How AI In Future Will Remember Past Without Reading Everything ]]></title>
-        <id>https://pub.towardsai.net/how-ai-in-future-will-remember-past-without-reading-everything-3f81b61a8537?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-ai-in-future-will-remember-past-without-reading-everything-3f81b61a8537?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Multi-Agent Swarm Governance: Zero Trust for Mesh APIs]]></title>
+        <id>https://pub.towardsai.net/multi-agent-swarm-governance-zero-trust-for-mesh-apis-cc1eab9edee1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/multi-agent-swarm-governance-zero-trust-for-mesh-apis-cc1eab9edee1?source=rss----98111c9905da---4"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Think AI Made You a Faster Coder. A New Study Says You’re Wrong.]]></title>
+        <id>https://pub.towardsai.net/you-think-ai-made-you-a-faster-coder-a-new-study-says-youre-wrong-13f74d353c68?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/you-think-ai-made-you-a-faster-coder-a-new-study-says-youre-wrong-13f74d353c68?source=rss----98111c9905da---4"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Dataset That Grows With Your Model: Deterministic Synthetic Objects for Research and CI]]></title>
+        <id>https://pub.towardsai.net/a-dataset-that-grows-with-your-model-deterministic-synthetic-objects-for-research-and-ci-6ac6b019c5af?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-dataset-that-grows-with-your-model-deterministic-synthetic-objects-for-research-and-ci-6ac6b019c5af?source=rss----98111c9905da---4"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-Tuning to Quantization: What Free-Tier Hardware Can Prove]]></title>
+        <id>https://pub.towardsai.net/fine-tuning-to-quantization-what-free-tier-hardware-can-prove-bb4359c2a5cd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/fine-tuning-to-quantization-what-free-tier-hardware-can-prove-bb4359c2a5cd?source=rss----98111c9905da---4"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
@@ -183,72 +239,44 @@
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Browser-Based Boggle Game with Astro and Vue 3]]></title>
-        <id>https://dev.to/cliffwang/building-a-browser-based-boggle-game-with-astro-and-vue-3-1m6l</id>
-        <link href="https://dev.to/cliffwang/building-a-browser-based-boggle-game-with-astro-and-vue-3-1m6l"/>
+        <title type="html"><![CDATA[Why Is My Map Marker in the Wrong Place? 5 Coordinate Mistakes Developers Make]]></title>
+        <id>https://dev.to/echoluoluo/why-is-my-map-marker-in-the-wrong-place-5-coordinate-mistakes-developers-make-55h6</id>
+        <link href="https://dev.to/echoluoluo/why-is-my-map-marker-in-the-wrong-place-5-coordinate-mistakes-developers-make-55h6"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hooking URL.createObjectURL: How My Chrome Extension Saves Instagram Voice Notes as They Play]]></title>
-        <id>https://dev.to/jinchaoh/hooking-urlcreateobjecturl-how-my-chrome-extension-saves-instagram-voice-notes-as-they-play-4e7c</id>
-        <link href="https://dev.to/jinchaoh/hooking-urlcreateobjecturl-how-my-chrome-extension-saves-instagram-voice-notes-as-they-play-4e7c"/>
+        <title type="html"><![CDATA[Infected by git pull and npm run build — Malware planted in a build config through a forged merge commit]]></title>
+        <id>https://dev.to/itskill_jp/infected-by-git-pull-and-npm-run-build-malware-planted-in-a-build-config-through-a-forged-merge-3c6l</id>
+        <link href="https://dev.to/itskill_jp/infected-by-git-pull-and-npm-run-build-malware-planted-in-a-build-config-through-a-forged-merge-3c6l"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electron says 'unspecified', Playwright wants 'Lax', and the session cookies vanished]]></title>
-        <id>https://dev.to/daniel_pertu/electron-says-unspecified-playwright-wants-lax-and-the-session-cookies-vanished-l0j</id>
-        <link href="https://dev.to/daniel_pertu/electron-says-unspecified-playwright-wants-lax-and-the-session-cookies-vanished-l0j"/>
+        <title type="html"><![CDATA[Why JSON-to-SQL Conversion Fails in Production: 5 Schema Traps That Corrupt Data Migrations]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-json-to-sql-conversion-fails-in-production-5-schema-traps-that-corrupt-data-migrations-3dca</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-json-to-sql-conversion-fails-in-production-5-schema-traps-that-corrupt-data-migrations-3dca"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
-        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-5c5n</id>
-        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-5c5n"/>
+        <title type="html"><![CDATA[I Started With One Tiny Web Tool. Now This Website Has 120+]]></title>
+        <id>https://dev.to/axevora_0414a92c2b8f10a94/i-started-with-one-tiny-web-tool-now-this-website-has-120-3gkf</id>
+        <link href="https://dev.to/axevora_0414a92c2b8f10a94/i-started-with-one-tiny-web-tool-now-this-website-has-120-3gkf"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LocalBusiness Schema for Multi-Location Sites: A Practical JSON-LD Pattern]]></title>
-        <id>https://dev.to/hello_nakama_f89fb103e925/localbusiness-schema-for-multi-location-sites-a-practical-json-ld-pattern-2a1h</id>
-        <link href="https://dev.to/hello_nakama_f89fb103e925/localbusiness-schema-for-multi-location-sites-a-practical-json-ld-pattern-2a1h"/>
+        <title type="html"><![CDATA[How to Build a Lightning-Fast, Real-Time Text Analyzer Using Vanilla JavaScript]]></title>
+        <id>https://dev.to/yaar_raj_52ad16766065d31c/how-to-build-a-lightning-fast-real-time-text-analyzer-using-vanilla-javascript-5ad8</id>
+        <link href="https://dev.to/yaar_raj_52ad16766065d31c/how-to-build-a-lightning-fast-real-time-text-analyzer-using-vanilla-javascript-5ad8"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From HTML to JavaScript: My Learning Journey]]></title>
-        <id>https://dev.to/fafacodes/from-html-to-javascript-my-learning-journey-15j9</id>
-        <link href="https://dev.to/fafacodes/from-html-to-javascript-my-learning-journey-15j9"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Missed @Service in Node.js, So I Built It with Express]]></title>
-        <id>https://dev.to/mikejung/i-missed-service-in-nodejs-so-i-built-it-with-express-1d7m</id>
-        <link href="https://dev.to/mikejung/i-missed-service-in-nodejs-so-i-built-it-with-express-1d7m"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get access to DOM from Service Worker?]]></title>
-        <id>https://dev.to/jcubic/how-to-get-access-to-dom-from-service-worker-43e3</id>
-        <link href="https://dev.to/jcubic/how-to-get-access-to-dom-from-service-worker-43e3"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy-Preserving Client-Side Processing: Rethinking Where Web Applications Handle User Data]]></title>
-        <id>https://dev.to/utilvo/privacy-preserving-client-side-processing-rethinking-where-web-applications-handle-user-data-3d57</id>
-        <link href="https://dev.to/utilvo/privacy-preserving-client-side-processing-rethinking-where-web-applications-handle-user-data-3d57"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[what i learned about referrers building a cookieless analytics tool]]></title>
-        <id>https://dev.to/omyvnss/what-i-learned-about-referrers-building-a-cookieless-analytics-tool-51fi</id>
-        <link href="https://dev.to/omyvnss/what-i-learned-about-referrers-building-a-cookieless-analytics-tool-51fi"/>
+        <title type="html"><![CDATA[Integrating ElevenLabs with Next.js: Step-by-Step Guide]]></title>
+        <id>https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-5hk3</id>
+        <link href="https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-5hk3"/>
         <updated>2026-09-26T16:00:00.000Z</updated>
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
@@ -260,107 +288,79 @@
         <published>2026-09-26T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[what i learned about referrers building a cookieless analytics tool]]></title>
+        <id>https://dev.to/omyvnss/what-i-learned-about-referrers-building-a-cookieless-analytics-tool-51fi</id>
+        <link href="https://dev.to/omyvnss/what-i-learned-about-referrers-building-a-cookieless-analytics-tool-51fi"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy-Preserving Client-Side Processing: Rethinking Where Web Applications Handle User Data]]></title>
+        <id>https://dev.to/utilvo/privacy-preserving-client-side-processing-rethinking-where-web-applications-handle-user-data-3d57</id>
+        <link href="https://dev.to/utilvo/privacy-preserving-client-side-processing-rethinking-where-web-applications-handle-user-data-3d57"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get access to DOM from Service Worker?]]></title>
+        <id>https://dev.to/jcubic/how-to-get-access-to-dom-from-service-worker-43e3</id>
+        <link href="https://dev.to/jcubic/how-to-get-access-to-dom-from-service-worker-43e3"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Missed @Service in Node.js, So I Built It with Express]]></title>
+        <id>https://dev.to/mikejung/i-missed-service-in-nodejs-so-i-built-it-with-express-1d7m</id>
+        <link href="https://dev.to/mikejung/i-missed-service-in-nodejs-so-i-built-it-with-express-1d7m"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From HTML to JavaScript: My Learning Journey]]></title>
+        <id>https://dev.to/fafacodes/from-html-to-javascript-my-learning-journey-15j9</id>
+        <link href="https://dev.to/fafacodes/from-html-to-javascript-my-learning-journey-15j9"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LocalBusiness Schema for Multi-Location Sites: A Practical JSON-LD Pattern]]></title>
+        <id>https://dev.to/hello_nakama_f89fb103e925/localbusiness-schema-for-multi-location-sites-a-practical-json-ld-pattern-2a1h</id>
+        <link href="https://dev.to/hello_nakama_f89fb103e925/localbusiness-schema-for-multi-location-sites-a-practical-json-ld-pattern-2a1h"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
+        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-5c5n</id>
+        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-5c5n"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron says 'unspecified', Playwright wants 'Lax', and the session cookies vanished]]></title>
+        <id>https://dev.to/daniel_pertu/electron-says-unspecified-playwright-wants-lax-and-the-session-cookies-vanished-l0j</id>
+        <link href="https://dev.to/daniel_pertu/electron-says-unspecified-playwright-wants-lax-and-the-session-cookies-vanished-l0j"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hooking URL.createObjectURL: How My Chrome Extension Saves Instagram Voice Notes as They Play]]></title>
+        <id>https://dev.to/jinchaoh/hooking-urlcreateobjecturl-how-my-chrome-extension-saves-instagram-voice-notes-as-they-play-4e7c</id>
+        <link href="https://dev.to/jinchaoh/hooking-urlcreateobjecturl-how-my-chrome-extension-saves-instagram-voice-notes-as-they-play-4e7c"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Browser-Based Boggle Game with Astro and Vue 3]]></title>
+        <id>https://dev.to/cliffwang/building-a-browser-based-boggle-game-with-astro-and-vue-3-1m6l</id>
+        <link href="https://dev.to/cliffwang/building-a-browser-based-boggle-game-with-astro-and-vue-3-1m6l"/>
+        <updated>2026-09-26T16:00:00.000Z</updated>
+        <published>2026-09-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meta makes the Muse filesystem even more accessible]]></title>
         <id>https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem</id>
         <link href="https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand]]></title>
-        <id>https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/</id>
-        <link href="https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Browser Extension Lets You Snooze Open Tabs Until Later]]></title>
-        <id>https://www.wired.com/story/tuck-browser-extension-lets-you-snooze-open-tabs-until-later/</id>
-        <link href="https://www.wired.com/story/tuck-browser-extension-lets-you-snooze-open-tabs-until-later/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?]]></title>
-        <id>https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/</id>
-        <link href="https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[At Meta Connect, the company’s smart glasses were everywhere]]></title>
-        <id>https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/</id>
-        <link href="https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta opens early access program for new Muse features]]></title>
-        <id>https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/</id>
-        <link href="https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing]]></title>
-        <id>https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/</id>
-        <link href="https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astra and Opus just passed Turing’s other test]]></title>
-        <id>https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/</id>
-        <link href="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta is putting its muscle behind Muse as the AI app takes off]]></title>
-        <id>https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/</id>
-        <link href="https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s AI Tamagotchi bet is…working?]]></title>
-        <id>https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/</id>
-        <link href="https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge]]></title>
-        <id>https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/</id>
-        <link href="https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I created an interactive digital avatar of myself — and you can talk to it]]></title>
-        <id>https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/</id>
-        <link href="https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Quiet on the AI Front: The Future of Undergraduate Math Research]]></title>
-        <id>https://arxiv.org/abs/2609.28615</id>
-        <link href="https://arxiv.org/abs/2609.28615"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whistleblower: Driscoll berries sent to Canada w excess chemicals]]></title>
-        <id>https://www.cbc.ca/news/canada/montreal/whistleblower-allege-driscoll-s-berries-9.7359158</id>
-        <link href="https://www.cbc.ca/news/canada/montreal/whistleblower-allege-driscoll-s-berries-9.7359158"/>
-        <updated>2026-09-25T16:00:00.000Z</updated>
-        <published>2026-09-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Won't Make You Rich. But It Might Help You Avoid Losing It All]]></title>
-        <id>https://laggingtruth.substack.com/p/this-wont-make-you-rich</id>
-        <link href="https://laggingtruth.substack.com/p/this-wont-make-you-rich"/>
         <updated>2026-09-25T16:00:00.000Z</updated>
         <published>2026-09-25T16:00:00.000Z</published>
     </entry>
