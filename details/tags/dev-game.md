@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-28 10:02:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-28 12:01:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -11,6 +11,7 @@
 - [2026-09-25-mrdoob/three.js](https://github.com/mrdoob/three.js) 
 - [2026-09-17-Show-HN:-ThreeJS-Runtime-Performance-Optimization-Tools-for-ClaudeCode](https://github.com/wonglok/effectnode-b3-template-code/tree/main/src/runtime-intelligence) 
 - [2026-09-08-I-tested-10-model/harness-combinations-on-the-same-Three.js-task](https://alvins82.github.io/hangar-harness-model-tests/) 
+- [2026-09-28-摸鱼+3-|-还剩三天班，一天一个解谜游戏](https://sspai.com/post/114967) 
 - [2026-09-24-微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」](https://sspai.com/post/113823) 
 - [2026-09-09-华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842) 
 - [2026-08-31-派早报：GTA-6-引发请假玩游戏热潮](https://sspai.com/post/114022) 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-28T02:02:39.306Z</updated>
+    <updated>2026-09-28T04:01:31.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[摸鱼+3 | 还剩三天班，一天一个解谜游戏]]></title>
+        <id>https://sspai.com/post/114967</id>
+        <link href="https://sspai.com/post/114967"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI agents tried to ‘bruteforce’ a UN website]]></title>
         <id>https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</id>
@@ -43,93 +50,44 @@
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comet SWAN26Q – The unconfirmed Scout object warrants monitoring, not concern]]></title>
-        <id>https://www.astrophyzix.com/2026/09/SWAN26Q-NEOCP-Report.html</id>
-        <link href="https://www.astrophyzix.com/2026/09/SWAN26Q-NEOCP-Report.html"/>
+        <title type="html"><![CDATA[How the stories about all-powerful AI are swallowing the world]]></title>
+        <id>https://www.bloodinthemachine.com/p/how-the-stories-about-all-powerful</id>
+        <link href="https://www.bloodinthemachine.com/p/how-the-stories-about-all-powerful"/>
         <updated>2026-09-27T16:00:00.000Z</updated>
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I made a tool that turns Jetpack Compose Previews to embeddable scripts]]></title>
-        <id>https://composables.com/</id>
-        <link href="https://composables.com/"/>
+        <title type="html"><![CDATA[Thinking Fast and Slow in AI: The Role of Metacognition]]></title>
+        <id>https://arxiv.org/abs/2110.01834</id>
+        <link href="https://arxiv.org/abs/2110.01834"/>
         <updated>2026-09-27T16:00:00.000Z</updated>
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Behold the pawpaw, the tropical 'alien banana' that grows right here in Canada]]></title>
-        <id>https://www.cbc.ca/radio/thecurrent/pawpaw-tropical-fruit-canada-9.7356882</id>
-        <link href="https://www.cbc.ca/radio/thecurrent/pawpaw-tropical-fruit-canada-9.7356882"/>
+        <title type="html"><![CDATA[RFPeptides: De novo design of protein-binding macrocycles using deep learning]]></title>
+        <id>https://www.nature.com/articles/s41589-025-01929-w</id>
+        <link href="https://www.nature.com/articles/s41589-025-01929-w"/>
         <updated>2026-09-27T16:00:00.000Z</updated>
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI pauses top-model work after AI bypasses internet safeguards [video]]]></title>
-        <id>https://www.youtube.com/watch?v=a1qnCu1t9hI</id>
-        <link href="https://www.youtube.com/watch?v=a1qnCu1t9hI"/>
+        <title type="html"><![CDATA[What 'ferritin face' means – and how to tell if you may be iron-deficient]]></title>
+        <id>https://www.washingtonpost.com/wellness/2026/09/15/what-ferritin-face-means-how-tell-if-you-may-be-iron-deficient/</id>
+        <link href="https://www.washingtonpost.com/wellness/2026/09/15/what-ferritin-face-means-how-tell-if-you-may-be-iron-deficient/"/>
         <updated>2026-09-27T16:00:00.000Z</updated>
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PostgreSQL 19's "scary patch contest"]]></title>
-        <id>https://lwn.net/Articles/1092003/</id>
-        <link href="https://lwn.net/Articles/1092003/"/>
+        <title type="html"><![CDATA[YouTube has a Propaganda Problem [video]]]></title>
+        <id>https://www.youtube.com/watch?v=H8YdOF1yXfM</id>
+        <link href="https://www.youtube.com/watch?v=H8YdOF1yXfM"/>
         <updated>2026-09-27T16:00:00.000Z</updated>
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Guess which repository has more GitHub stars]]></title>
-        <id>https://higherlower.focuslab.pk/</id>
-        <link href="https://higherlower.focuslab.pk/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In preparation for Wow Forever, here is a guided tour of Warcraft]]></title>
-        <id>https://ryeceps.github.io/azeroth-chronicle/</id>
-        <link href="https://ryeceps.github.io/azeroth-chronicle/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing the same book three times [audio]]]></title>
-        <id>https://www.swarmia.com/podcast/build-third-edition/</id>
-        <link href="https://www.swarmia.com/podcast/build-third-edition/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?']]></title>
-        <id>https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html</id>
-        <link href="https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research finds 485 chemicals in US pesticide products linked to breast cancer]]></title>
-        <id>https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products</id>
-        <link href="https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hitachi to double US production of small and medium-sized power transformers]]></title>
-        <id>https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/</id>
-        <link href="https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge orders release of records on Nazi war criminals who settled in Canada]]></title>
-        <id>https://ottawacitizen.com/public-service/defence-watch/judge-orders-release-of-records-on-nazi-war-criminals-who-settled-in-canada</id>
-        <link href="https://ottawacitizen.com/public-service/defence-watch/judge-orders-release-of-records-on-nazi-war-criminals-who-settled-in-canada"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do you turn a random idea into a good X post?]]></title>
-        <id>https://hokly.vercel.app</id>
-        <link href="https://hokly.vercel.app"/>
+        <title type="html"><![CDATA[Trust No Bot]]></title>
+        <id>https://trustnobot.com</id>
+        <link href="https://trustnobot.com"/>
         <updated>2026-09-27T16:00:00.000Z</updated>
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
@@ -141,9 +99,93 @@
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trust No Bot]]></title>
-        <id>https://trustnobot.com</id>
-        <link href="https://trustnobot.com"/>
+        <title type="html"><![CDATA[How do you turn a random idea into a good X post?]]></title>
+        <id>https://hokly.vercel.app</id>
+        <link href="https://hokly.vercel.app"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge orders release of records on Nazi war criminals who settled in Canada]]></title>
+        <id>https://ottawacitizen.com/public-service/defence-watch/judge-orders-release-of-records-on-nazi-war-criminals-who-settled-in-canada</id>
+        <link href="https://ottawacitizen.com/public-service/defence-watch/judge-orders-release-of-records-on-nazi-war-criminals-who-settled-in-canada"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hitachi to double US production of small and medium-sized power transformers]]></title>
+        <id>https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/</id>
+        <link href="https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research finds 485 chemicals in US pesticide products linked to breast cancer]]></title>
+        <id>https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products</id>
+        <link href="https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?']]></title>
+        <id>https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html</id>
+        <link href="https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing the same book three times [audio]]]></title>
+        <id>https://www.swarmia.com/podcast/build-third-edition/</id>
+        <link href="https://www.swarmia.com/podcast/build-third-edition/"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In preparation for Wow Forever, here is a guided tour of Warcraft]]></title>
+        <id>https://ryeceps.github.io/azeroth-chronicle/</id>
+        <link href="https://ryeceps.github.io/azeroth-chronicle/"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Guess which repository has more GitHub stars]]></title>
+        <id>https://higherlower.focuslab.pk/</id>
+        <link href="https://higherlower.focuslab.pk/"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL 19's "scary patch contest"]]></title>
+        <id>https://lwn.net/Articles/1092003/</id>
+        <link href="https://lwn.net/Articles/1092003/"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI pauses top-model work after AI bypasses internet safeguards [video]]]></title>
+        <id>https://www.youtube.com/watch?v=a1qnCu1t9hI</id>
+        <link href="https://www.youtube.com/watch?v=a1qnCu1t9hI"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behold the pawpaw, the tropical 'alien banana' that grows right here in Canada]]></title>
+        <id>https://www.cbc.ca/radio/thecurrent/pawpaw-tropical-fruit-canada-9.7356882</id>
+        <link href="https://www.cbc.ca/radio/thecurrent/pawpaw-tropical-fruit-canada-9.7356882"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made a tool that turns Jetpack Compose Previews to embeddable scripts]]></title>
+        <id>https://composables.com/</id>
+        <link href="https://composables.com/"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comet SWAN26Q – The unconfirmed Scout object warrants monitoring, not concern]]></title>
+        <id>https://www.astrophyzix.com/2026/09/SWAN26Q-NEOCP-Report.html</id>
+        <link href="https://www.astrophyzix.com/2026/09/SWAN26Q-NEOCP-Report.html"/>
         <updated>2026-09-27T16:00:00.000Z</updated>
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
@@ -221,114 +263,37 @@ https://dev.to/pinceladasdaweb/nodejs-has-plenty-of-circuit-breakers-so-why-did-
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scraping Coles supermarket prices and weekly specials with Python]]></title>
-        <id>https://dev.to/rel8ble/scraping-coles-supermarket-prices-and-weekly-specials-with-python-38o0</id>
-        <link href="https://dev.to/rel8ble/scraping-coles-supermarket-prices-and-weekly-specials-with-python-38o0"/>
+        <title type="html"><![CDATA[How I Built a Real-Time Football Stats Tracker: Man City? I feel cheated when do Stoke City get our FA Cup?]]></title>
+        <id>https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-football-stats-tracker-man-city-i-feel-cheated-when-do-stoke-city-get-our-1j4g</id>
+        <link href="https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-football-stats-tracker-man-city-i-feel-cheated-when-do-stoke-city-get-our-1j4g"/>
         <updated>2026-09-27T16:00:00.000Z</updated>
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trimming Video in the Browser: Why "Precise" and "Fast" Give Different Cuts]]></title>
-        <id>https://dev.to/aihangsoft/trimming-video-in-the-browser-why-precise-and-fast-give-different-cuts-4cfo</id>
-        <link href="https://dev.to/aihangsoft/trimming-video-in-the-browser-why-precise-and-fast-give-different-cuts-4cfo"/>
+        <title type="html"><![CDATA[Building Bulletproof Social Media Import Pipelines: Designing UX That Survives API Failures]]></title>
+        <id>https://dev.to/hamza_dev_talks/building-bulletproof-social-media-import-pipelines-designing-ux-that-survives-api-failures-5b3f</id>
+        <link href="https://dev.to/hamza_dev_talks/building-bulletproof-social-media-import-pipelines-designing-ux-that-survives-api-failures-5b3f"/>
         <updated>2026-09-27T16:00:00.000Z</updated>
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Your Video-to-GIF Conversions Look Dirty, and the Two-Pass Palette Fix]]></title>
-        <id>https://dev.to/aihangsoft/why-your-video-to-gif-conversions-look-dirty-and-the-two-pass-palette-fix-3ii7</id>
-        <link href="https://dev.to/aihangsoft/why-your-video-to-gif-conversions-look-dirty-and-the-two-pass-palette-fix-3ii7"/>
+        <title type="html"><![CDATA[Understanding Key Software Design Patterns: Factory, Singleton, Observer, Decorator, and More]]></title>
+        <id>https://dev.to/sharique_siddiqui_8242dad/understanding-key-software-design-patterns-factory-singleton-observer-decorator-and-more-2fl8</id>
+        <link href="https://dev.to/sharique_siddiqui_8242dad/understanding-key-software-design-patterns-factory-singleton-observer-decorator-and-more-2fl8"/>
         <updated>2026-09-27T16:00:00.000Z</updated>
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nested Arrays in JavaScript]]></title>
-        <id>https://dev.to/farah_ismahhana_1c67ec83/nested-arrays-in-javascript-3h68</id>
-        <link href="https://dev.to/farah_ismahhana_1c67ec83/nested-arrays-in-javascript-3h68"/>
+        <title type="html"><![CDATA[Why Headless Browser Scraping Breaks In Production (And It’s Not Just Anti-Bot Blocks)]]></title>
+        <id>https://dev.to/buildpilots/why-headless-browser-scraping-breaks-in-production-and-its-not-just-anti-bot-blocks-2j1k</id>
+        <link href="https://dev.to/buildpilots/why-headless-browser-scraping-breaks-in-production-and-its-not-just-anti-bot-blocks-2j1k"/>
         <updated>2026-09-27T16:00:00.000Z</updated>
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zero-install P2P file transfer: WebRTC signalling on Cloudflare Durable Objects]]></title>
-        <id>https://dev.to/pinnadash/zero-install-p2p-file-transfer-webrtc-signalling-on-cloudflare-durable-objects-10ap</id>
-        <link href="https://dev.to/pinnadash/zero-install-p2p-file-transfer-webrtc-signalling-on-cloudflare-durable-objects-10ap"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why JSON-to-CSV Conversion Fails in Production: 5 Flattening Traps and Edge Cases]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-json-to-csv-conversion-fails-in-production-5-flattening-traps-and-edge-cases-2085</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-json-to-csv-conversion-fails-in-production-5-flattening-traps-and-edge-cases-2085"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create an AI Podcast Generator with ElevenLabs]]></title>
-        <id>https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-4e9m</id>
-        <link href="https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-4e9m"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add AI Voice to Your Django App]]></title>
-        <id>https://dev.to/voice_developer/how-to-add-ai-voice-to-your-django-app-4o8b</id>
-        <link href="https://dev.to/voice_developer/how-to-add-ai-voice-to-your-django-app-4o8b"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Are Lying to Your Compiler. Use "satisfies" Instead of "as".]]></title>
-        <id>https://dev.to/ogeobubu/you-are-lying-to-your-compiler-use-satisfies-instead-of-as-55j2</id>
-        <link href="https://dev.to/ogeobubu/you-are-lying-to-your-compiler-use-satisfies-instead-of-as-55j2"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KryonOS v2.0.0 brings a JavaScript GUI OS to ESP32-S3 (N16R8), Cardputer, CYD, and LilyGO T-HMI with a 3D engine]]></title>
-        <id>https://dev.to/haris18/kryonos-v200-brings-a-javascript-gui-os-to-esp32-s3-n16r8-cardputer-cyd-and-lilygo-t-hmi-1k8k</id>
-        <link href="https://dev.to/haris18/kryonos-v200-brings-a-javascript-gui-os-to-esp32-s3-n16r8-cardputer-cyd-and-lilygo-t-hmi-1k8k"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Quick Steps To Buy Verified Airbnb Accounts in Bulk]]></title>
-        <id>https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-airbnb-accounts-in-bulk-2817</id>
-        <link href="https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-airbnb-accounts-in-bulk-2817"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Quick Steps To Buy Verified PayPal Accounts in Bulk]]></title>
-        <id>https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-paypal-accounts-in-bulk-18nc</id>
-        <link href="https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-paypal-accounts-in-bulk-18nc"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can I Find a Trusted Source to Buy Verified Cash App Accounts?]]></title>
-        <id>https://dev.to/gesep95508/how-can-i-find-a-trusted-source-to-buy-verified-cash-app-accounts-4ce2</id>
-        <link href="https://dev.to/gesep95508/how-can-i-find-a-trusted-source-to-buy-verified-cash-app-accounts-4ce2"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Quick Steps To Buy Verified Cash App Accounts in Bulk]]></title>
-        <id>https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-cash-app-accounts-in-bulk-126b</id>
-        <link href="https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-cash-app-accounts-in-bulk-126b"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Tiled to PixiJS and back: editable maps in TypeScript]]></title>
-        <id>https://dev.to/riebel/from-tiled-to-pixijs-and-back-editable-maps-in-typescript-4gje</id>
-        <link href="https://dev.to/riebel/from-tiled-to-pixijs-and-back-editable-maps-in-typescript-4gje"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Chrome extension that reads Hanifi Rohingya webpages in Latin script]]></title>
-        <id>https://dev.to/abaziz/building-a-chrome-extension-that-reads-hanifi-rohingya-webpages-in-latin-script-35e1</id>
-        <link href="https://dev.to/abaziz/building-a-chrome-extension-that-reads-hanifi-rohingya-webpages-in-latin-script-35e1"/>
+        <title type="html"><![CDATA[NestJS API Quota Management: meet nestjs-quota]]></title>
+        <id>https://dev.to/silentwatcher_95/nestjs-api-quota-management-meet-nestjs-quota-2fcd</id>
+        <link href="https://dev.to/silentwatcher_95/nestjs-api-quota-management-meet-nestjs-quota-2fcd"/>
         <updated>2026-09-27T16:00:00.000Z</updated>
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
@@ -340,52 +305,87 @@ https://dev.to/pinceladasdaweb/nodejs-has-plenty-of-circuit-breakers-so-why-did-
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HelloGitHub 第 126 期]]></title>
-        <id>https://hellogithub.com/periodical/volume/126</id>
-        <link href="https://hellogithub.com/periodical/volume/126"/>
+        <title type="html"><![CDATA[Building a Chrome extension that reads Hanifi Rohingya webpages in Latin script]]></title>
+        <id>https://dev.to/abaziz/building-a-chrome-extension-that-reads-hanifi-rohingya-webpages-in-latin-script-35e1</id>
+        <link href="https://dev.to/abaziz/building-a-chrome-extension-that-reads-hanifi-rohingya-webpages-in-latin-script-35e1"/>
         <updated>2026-09-27T16:00:00.000Z</updated>
         <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The smart home graveyard is getting crowded]]></title>
-        <id>https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard</id>
-        <link href="https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[From Tiled to PixiJS and back: editable maps in TypeScript]]></title>
+        <id>https://dev.to/riebel/from-tiled-to-pixijs-and-back-editable-maps-in-typescript-4gje</id>
+        <link href="https://dev.to/riebel/from-tiled-to-pixijs-and-back-editable-maps-in-typescript-4gje"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kids turned the comment section of an NPR podcast into a group chat]]></title>
-        <id>https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section</id>
-        <link href="https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Top 5 Quick Steps To Buy Verified Cash App Accounts in Bulk]]></title>
+        <id>https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-cash-app-accounts-in-bulk-126b</id>
+        <link href="https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-cash-app-accounts-in-bulk-126b"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Levoit’s new air purifier is for the pet odors that have taken over your apartment]]></title>
-        <id>https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/</id>
-        <link href="https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How Can I Find a Trusted Source to Buy Verified Cash App Accounts?]]></title>
+        <id>https://dev.to/gesep95508/how-can-i-find-a-trusted-source-to-buy-verified-cash-app-accounts-4ce2</id>
+        <link href="https://dev.to/gesep95508/how-can-i-find-a-trusted-source-to-buy-verified-cash-app-accounts-4ce2"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta and YouTube say they will run ads for ‘Musk’ documentary after all]]></title>
-        <id>https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/</id>
-        <link href="https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Top 5 Quick Steps To Buy Verified PayPal Accounts in Bulk]]></title>
+        <id>https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-paypal-accounts-in-bulk-18nc</id>
+        <link href="https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-paypal-accounts-in-bulk-18nc"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TikTok agrees to pay at least $100M in Alabama settlement]]></title>
-        <id>https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/</id>
-        <link href="https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Top 5 Quick Steps To Buy Verified Airbnb Accounts in Bulk]]></title>
+        <id>https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-airbnb-accounts-in-bulk-2817</id>
+        <link href="https://dev.to/gesep95508/top-5-quick-steps-to-buy-verified-airbnb-accounts-in-bulk-2817"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises]]></title>
-        <id>https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/</id>
-        <link href="https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/"/>
-        <updated>2026-09-26T16:00:00.000Z</updated>
-        <published>2026-09-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[KryonOS v2.0.0 brings a JavaScript GUI OS to ESP32-S3 (N16R8), Cardputer, CYD, and LilyGO T-HMI with a 3D engine]]></title>
+        <id>https://dev.to/haris18/kryonos-v200-brings-a-javascript-gui-os-to-esp32-s3-n16r8-cardputer-cyd-and-lilygo-t-hmi-1k8k</id>
+        <link href="https://dev.to/haris18/kryonos-v200-brings-a-javascript-gui-os-to-esp32-s3-n16r8-cardputer-cyd-and-lilygo-t-hmi-1k8k"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Are Lying to Your Compiler. Use "satisfies" Instead of "as".]]></title>
+        <id>https://dev.to/ogeobubu/you-are-lying-to-your-compiler-use-satisfies-instead-of-as-55j2</id>
+        <link href="https://dev.to/ogeobubu/you-are-lying-to-your-compiler-use-satisfies-instead-of-as-55j2"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add AI Voice to Your Django App]]></title>
+        <id>https://dev.to/voice_developer/how-to-add-ai-voice-to-your-django-app-4o8b</id>
+        <link href="https://dev.to/voice_developer/how-to-add-ai-voice-to-your-django-app-4o8b"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create an AI Podcast Generator with ElevenLabs]]></title>
+        <id>https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-4e9m</id>
+        <link href="https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-4e9m"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why JSON-to-CSV Conversion Fails in Production: 5 Flattening Traps and Edge Cases]]></title>
+        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-json-to-csv-conversion-fails-in-production-5-flattening-traps-and-edge-cases-2085</id>
+        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-json-to-csv-conversion-fails-in-production-5-flattening-traps-and-edge-cases-2085"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-install P2P file transfer: WebRTC signalling on Cloudflare Durable Objects]]></title>
+        <id>https://dev.to/pinnadash/zero-install-p2p-file-transfer-webrtc-signalling-on-cloudflare-durable-objects-10ap</id>
+        <link href="https://dev.to/pinnadash/zero-install-p2p-file-transfer-webrtc-signalling-on-cloudflare-durable-objects-10ap"/>
+        <updated>2026-09-27T16:00:00.000Z</updated>
+        <published>2026-09-27T16:00:00.000Z</published>
     </entry>
 </feed>
