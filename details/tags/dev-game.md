@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-28 21:02:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-28 23:03:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-09-28-What-I-learned-building-a-3D-browser-RTS-with-three.js-and-no-build-step](https://dev.to/webgamerush/what-i-learned-building-a-3d-browser-rts-with-threejs-and-no-build-step-1a31) 
 - [2026-09-20-Cutting-a-Three.js-product-configurator-from-16.7-MB-to-2.4-MB](https://dev.to/rifatsarkerraju/cutting-a-threejs-product-configurator-from-167-mb-to-24-mb-2bka) 
 - [2026-09-25-mrdoob/three.js](https://github.com/mrdoob/three.js) 
 - [2026-09-17-Show-HN:-ThreeJS-Runtime-Performance-Optimization-Tools-for-ClaudeCode](https://github.com/wonglok/effectnode-b3-template-code/tree/main/src/runtime-intelligence) 
