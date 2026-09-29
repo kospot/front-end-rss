@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-29T02:02:55.464Z</updated>
+    <updated>2026-09-29T04:01:39.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,6 +71,55 @@
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: I turned Google Drive folders into professional photo galleries]]></title>
+        <id>https://www.scansgallery.com/</id>
+        <link href="https://www.scansgallery.com/"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI risk is not sentience by computers, it is negligence by humans]]></title>
+        <id>https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/</id>
+        <link href="https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jev vs. Fruit Fly Brain solving a maze in Roblox [video]]]></title>
+        <id>https://www.youtube.com/watch?v=0zY_yzrcF9c</id>
+        <link href="https://www.youtube.com/watch?v=0zY_yzrcF9c"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Realist vs. 20 AI Optimists (Ft. Andrew Yang) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=020ZvO0FbMM</id>
+        <link href="https://www.youtube.com/watch?v=020ZvO0FbMM"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An article on frontier agentic work]]></title>
+        <id>https://medium.com/@jonahturnquist/durable-agentic-teams-maximizing-your-software-development-workflow-aae4096069a2</id>
+        <link href="https://medium.com/@jonahturnquist/durable-agentic-teams-maximizing-your-software-development-workflow-aae4096069a2"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Slopware Factory [video]]]></title>
+        <id>https://www.youtube.com/watch?v=xI6Ei7PTWnU</id>
+        <link href="https://www.youtube.com/watch?v=xI6Ei7PTWnU"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Hovertag.io fly around the world on a hoverboard and tag up big cities]]></title>
+        <id>https://hovertag.io/</id>
+        <link href="https://hovertag.io/"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GLiNER2.5-Decide Fine-Tuned: Local System One Model, Jev-Level Accuracy, ~7× Faster]]></title>
         <id>https://pub.towardsai.net/gliner2-5-decide-fine-tuned-local-system-one-model-jev-level-accuracy-7-faster-367f82c01bf7?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/gliner2-5-decide-fine-tuned-local-system-one-model-jev-level-accuracy-7-faster-367f82c01bf7?source=rss----98111c9905da---4"/>
@@ -85,283 +134,234 @@
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roundtables: The Deadly Failures of The Virtual Border Wall]]></title>
-        <id>https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/</id>
-        <link href="https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"/>
+        <title type="html"><![CDATA[HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference]]></title>
+        <id>https://arxiv.org/abs/2609.30270</id>
+        <link href="https://arxiv.org/abs/2609.30270"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When can we say AI made a scientific discovery?]]></title>
-        <id>https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/</id>
-        <link href="https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"/>
+        <title type="html"><![CDATA[ENAS: An Efficient Hardware-Aware Neural Architecture Search Framework for TinyML on Resource-Constrained Microcontrollers]]></title>
+        <id>https://arxiv.org/abs/2609.30272</id>
+        <link href="https://arxiv.org/abs/2609.30272"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How we found 24 Android vulnerabilities using our open source AI security agent]]></title>
-        <id>https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/</id>
-        <link href="https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/"/>
+        <title type="html"><![CDATA[Seasonal and Quantum-inspired Models for Neutron Monitor Time Series Forecasting]]></title>
+        <id>https://arxiv.org/abs/2609.30281</id>
+        <link href="https://arxiv.org/abs/2609.30281"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Highlights from Git 2.56]]></title>
-        <id>https://github.blog/open-source/git/highlights-from-git-2-56/</id>
-        <link href="https://github.blog/open-source/git/highlights-from-git-2-56/"/>
+        <title type="html"><![CDATA[When Does Advection-Aware Graph Nowcasting Help? A Controlled Study of Distributed Solar Ramp Forecasting with a Self-Supervised Cloud-Motion Estimator]]></title>
+        <id>https://arxiv.org/abs/2609.30286</id>
+        <link href="https://arxiv.org/abs/2609.30286"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Developer Tools in 2026 Need to be 100% Client-Side]]></title>
-        <id>https://dev.to/minh_phuongnguyen_b13201/why-developer-tools-in-2026-need-to-be-100-client-side-2jmi</id>
-        <link href="https://dev.to/minh_phuongnguyen_b13201/why-developer-tools-in-2026-need-to-be-100-client-side-2jmi"/>
+        <title type="html"><![CDATA[NeuralCert: certified computational discovery of extremal mathematical constructions]]></title>
+        <id>https://arxiv.org/abs/2609.30296</id>
+        <link href="https://arxiv.org/abs/2609.30296"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端性能优化:15个工具页面首屏加载<2秒实践]]></title>
-        <id>https://dev.to/chilam_chan_68a518a731328/qian-duan-xing-neng-you-hua-15ge-gong-ju-ye-mian-shou-ping-jia-zai-2miao-shi-jian-e72</id>
-        <link href="https://dev.to/chilam_chan_68a518a731328/qian-duan-xing-neng-you-hua-15ge-gong-ju-ye-mian-shou-ping-jia-zai-2miao-shi-jian-e72"/>
+        <title type="html"><![CDATA[Guarded Gradient-Based Activation Steering of Shutdown Responses in Qwen3.5-0.8B: A Minimum-Step Policy]]></title>
+        <id>https://arxiv.org/abs/2609.30326</id>
+        <link href="https://arxiv.org/abs/2609.30326"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why JSON-to-Markdown Table Conversion Fails in Production: 5 Formatting Traps and Edge Cases]]></title>
-        <id>https://dev.to/rasika_dangamuwa_ed1074fe/why-json-to-markdown-table-conversion-fails-in-production-5-formatting-traps-and-edge-cases-51j8</id>
-        <link href="https://dev.to/rasika_dangamuwa_ed1074fe/why-json-to-markdown-table-conversion-fails-in-production-5-formatting-traps-and-edge-cases-51j8"/>
+        <title type="html"><![CDATA[Parameters vs. Context: TRACE Fine-Tuning for Robust Retrieval-Augmented Generation]]></title>
+        <id>https://arxiv.org/abs/2609.30337</id>
+        <link href="https://arxiv.org/abs/2609.30337"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ElevenLabs + React: Building a Voice-Enabled UI]]></title>
-        <id>https://dev.to/voice_developer/elevenlabs-react-building-a-voice-enabled-ui-23k9</id>
-        <link href="https://dev.to/voice_developer/elevenlabs-react-building-a-voice-enabled-ui-23k9"/>
+        <title type="html"><![CDATA[GAUDI: Geometry-Aware Diffusion for Calibrated Air-Quality Time-Series Imputation]]></title>
+        <id>https://arxiv.org/abs/2609.30340</id>
+        <link href="https://arxiv.org/abs/2609.30340"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I shipped a themeable component. It ignored every theme.]]></title>
-        <id>https://dev.to/juandagarcia/i-shipped-a-themeable-component-it-ignored-every-theme-5doh</id>
-        <link href="https://dev.to/juandagarcia/i-shipped-a-themeable-component-it-ignored-every-theme-5doh"/>
+        <title type="html"><![CDATA[From Weak Data to Strong Policy: Q-Targets Enable Provable In-Context Reinforcement Learning]]></title>
+        <id>https://arxiv.org/abs/2609.30391</id>
+        <link href="https://arxiv.org/abs/2609.30391"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From bug report to verified pull request: how an agent fixes bugs using EAS Simulator]]></title>
-        <id>https://dev.to/expo/from-bug-report-to-verified-pull-request-how-an-agent-fixes-bugs-using-eas-simulator-7o6</id>
-        <link href="https://dev.to/expo/from-bug-report-to-verified-pull-request-how-an-agent-fixes-bugs-using-eas-simulator-7o6"/>
+        <title type="html"><![CDATA[Fake News Theories: Harnessing Disciplinary Insights for Computational Modeling, Detection, and Explanation]]></title>
+        <id>https://arxiv.org/abs/2609.30427</id>
+        <link href="https://arxiv.org/abs/2609.30427"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
-        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-52o4</id>
-        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-52o4"/>
+        <title type="html"><![CDATA[Improving Molecular-Morphology Contrastive Pretraining using Deep-Learning-based Morphology Profiles]]></title>
+        <id>https://arxiv.org/abs/2609.30433</id>
+        <link href="https://arxiv.org/abs/2609.30433"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a handwriting engine in zero-dependency TypeScript (text, icons and charts that draw themselves)]]></title>
-        <id>https://dev.to/a_elhaag/i-built-a-handwriting-engine-in-zero-dependency-typescript-text-icons-and-charts-that-draw-3mh1</id>
-        <link href="https://dev.to/a_elhaag/i-built-a-handwriting-engine-in-zero-dependency-typescript-text-icons-and-charts-that-draw-3mh1"/>
+        <title type="html"><![CDATA[Auditing System-1 Models on Biosecurity-Relevant Benchmarks: Calibration, Selective Prediction, and Permutation Instability in a Non-Generative Model]]></title>
+        <id>https://arxiv.org/abs/2609.30454</id>
+        <link href="https://arxiv.org/abs/2609.30454"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Made React Smart Image Easier to Use with Providers and Presets]]></title>
-        <id>https://dev.to/jaimin_patel/how-i-made-react-smart-image-easier-to-use-with-providers-and-presets-1g4a</id>
-        <link href="https://dev.to/jaimin_patel/how-i-made-react-smart-image-easier-to-use-with-providers-and-presets-1g4a"/>
+        <title type="html"><![CDATA[Moment-guided edge sampling]]></title>
+        <id>https://arxiv.org/abs/2609.30472</id>
+        <link href="https://arxiv.org/abs/2609.30472"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I gave 24 awkward JSON documents to 6 parsers. Five behaved the same everywhere.]]></title>
-        <id>https://dev.to/remdore/i-gave-24-awkward-json-documents-to-6-parsers-five-behaved-the-same-everywhere-4p5p</id>
-        <link href="https://dev.to/remdore/i-gave-24-awkward-json-documents-to-6-parsers-five-behaved-the-same-everywhere-4p5p"/>
+        <title type="html"><![CDATA[Mentored Decoding: Faster Inference meets Boosting]]></title>
+        <id>https://arxiv.org/abs/2609.30474</id>
+        <link href="https://arxiv.org/abs/2609.30474"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Persistent Text Highlighting for Vue 3]]></title>
-        <id>https://dev.to/marat_shagidullin_93df625/persistent-text-highlighting-for-vue-3-k7f</id>
-        <link href="https://dev.to/marat_shagidullin_93df625/persistent-text-highlighting-for-vue-3-k7f"/>
+        <title type="html"><![CDATA[Federated Targeted Maximum Likelihood Estimation]]></title>
+        <id>https://arxiv.org/abs/2609.30503</id>
+        <link href="https://arxiv.org/abs/2609.30503"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a text checker: Unicode counts, source offsets, and stale results]]></title>
-        <id>https://dev.to/mylistenapp/building-a-text-checker-unicode-counts-source-offsets-and-stale-results-34ao</id>
-        <link href="https://dev.to/mylistenapp/building-a-text-checker-unicode-counts-source-offsets-and-stale-results-34ao"/>
+        <title type="html"><![CDATA[AutoResearch at Production Scale: Failure Modes and a Multi-Agent Framework]]></title>
+        <id>https://arxiv.org/abs/2609.30541</id>
+        <link href="https://arxiv.org/abs/2609.30541"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cheap bloom for a Canvas 2D game in 8 lines (no WebGL)]]></title>
-        <id>https://dev.to/nightdrivelabs/cheap-bloom-for-a-canvas-2d-game-in-8-lines-no-webgl-4jah</id>
-        <link href="https://dev.to/nightdrivelabs/cheap-bloom-for-a-canvas-2d-game-in-8-lines-no-webgl-4jah"/>
+        <title type="html"><![CDATA[GyroNovo: Error-Guided Fragment Imputation with Mass-Aware Attention for \textit{De Novo} Peptide Sequencing]]></title>
+        <id>https://arxiv.org/abs/2609.30542</id>
+        <link href="https://arxiv.org/abs/2609.30542"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Đo chi phí mỗi lượt khi chạy coding agent headless]]></title>
-        <id>https://dev.to/bean_bean/do-chi-phi-moi-luot-khi-chay-coding-agent-headless-3pkl</id>
-        <link href="https://dev.to/bean_bean/do-chi-phi-moi-luot-khi-chay-coding-agent-headless-3pkl"/>
+        <title type="html"><![CDATA[Entropy Regularization: A Free Correction to Cross-Entropy for Verified Demonstrations]]></title>
+        <id>https://arxiv.org/abs/2609.30572</id>
+        <link href="https://arxiv.org/abs/2609.30572"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a Chrome extension because Kick's VOD chat can't keep up with 1.5x]]></title>
-        <id>https://dev.to/mateus_bentes_52a21170551/i-built-a-chrome-extension-because-kicks-vod-chat-cant-keep-up-with-15x-4a4l</id>
-        <link href="https://dev.to/mateus_bentes_52a21170551/i-built-a-chrome-extension-because-kicks-vod-chat-cant-keep-up-with-15x-4a4l"/>
+        <title type="html"><![CDATA[Energy-efficient operation of neural operators for virtual sensing]]></title>
+        <id>https://arxiv.org/abs/2609.30580</id>
+        <link href="https://arxiv.org/abs/2609.30580"/>
         <updated>2026-09-28T16:00:00.000Z</updated>
         <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[摸鱼+3 | 还剩三天班，一天一个解谜游戏]]></title>
-        <id>https://sspai.com/post/114967</id>
-        <link href="https://sspai.com/post/114967"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[In-Context Binding Capacity in Language Models]]></title>
+        <id>https://arxiv.org/abs/2609.30634</id>
+        <link href="https://arxiv.org/abs/2609.30634"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI agents tried to ‘bruteforce’ a UN website]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Population loss in shallow ReLU networks: Bias & families of critical points]]></title>
+        <id>https://arxiv.org/abs/2609.30661</id>
+        <link href="https://arxiv.org/abs/2609.30661"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government]]></title>
-        <id>https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/</id>
-        <link href="https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant]]></title>
+        <id>https://arxiv.org/abs/2609.30692</id>
+        <link href="https://arxiv.org/abs/2609.30692"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Space Lasers Are About to Get Their First Real Test Generating Energy]]></title>
-        <id>https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/</id>
-        <link href="https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[When 10,000 Windows Are Not 10,000 Tests: Auditing Statistical Confidence in Sliding-Window Time-Series Classification]]></title>
+        <id>https://arxiv.org/abs/2609.30721</id>
+        <link href="https://arxiv.org/abs/2609.30721"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Apple Watch: Series 12, Ultra 4, and SE 3 (2026)]]></title>
-        <id>https://www.wired.com/story/best-apple-watch/</id>
-        <link href="https://www.wired.com/story/best-apple-watch/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Learning Provable Neural Network Observer for Uncertain Dynamical Systems]]></title>
+        <id>https://arxiv.org/abs/2609.30819</id>
+        <link href="https://arxiv.org/abs/2609.30819"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ocean surveillance startup Quartermaster raises another $140M]]></title>
-        <id>https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/</id>
-        <link href="https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Quantizing Looped Transformers: Feedback Exposure and Calibration Blindness]]></title>
+        <id>https://arxiv.org/abs/2609.30820</id>
+        <link href="https://arxiv.org/abs/2609.30820"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can Muse overcome Meta’s trust issues?]]></title>
-        <id>https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/</id>
-        <link href="https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Attention-Based Adaptive Policies for Simultaneous Speech-to-Text Translation]]></title>
+        <id>https://arxiv.org/abs/2609.30839</id>
+        <link href="https://arxiv.org/abs/2609.30839"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic’s Dario Amodei gets the SNL treatment]]></title>
-        <id>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</id>
-        <link href="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Robust to Which Model Change? A Unified Evaluation of Robust Counterfactual Explanations]]></title>
+        <id>https://arxiv.org/abs/2609.30918</id>
+        <link href="https://arxiv.org/abs/2609.30918"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TechCrunch Mobility: AV companies pick their lanes]]></title>
-        <id>https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/</id>
-        <link href="https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[EPOC: Endpoint-Preserving Online Correction With Compressed Residual State for Multi-Horizon Time Series Forecasting]]></title>
+        <id>https://arxiv.org/abs/2609.30929</id>
+        <link href="https://arxiv.org/abs/2609.30929"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maritime intelligence startup Quartermaster raises another $140M]]></title>
-        <id>https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/</id>
-        <link href="https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Gradient Surgery for Physics-Informed Neural Networks]]></title>
+        <id>https://arxiv.org/abs/2609.30966</id>
+        <link href="https://arxiv.org/abs/2609.30966"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Viral AI agent Instinct raises $1B Series C at a $10B valuation]]></title>
-        <id>https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/</id>
-        <link href="https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Learning Hierarchical Causal Representations of the Effects of Forcings on Temperature in Climate Models]]></title>
+        <id>https://arxiv.org/abs/2609.30995</id>
+        <link href="https://arxiv.org/abs/2609.30995"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ElevenLabs’ new v4 speech model supports more expression control and 90 languages]]></title>
-        <id>https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/</id>
-        <link href="https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Metacognitive Selective Ensemble for Mobile Systems]]></title>
+        <id>https://arxiv.org/abs/2609.31031</id>
+        <link href="https://arxiv.org/abs/2609.31031"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next five VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/</id>
-        <link href="https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Aurora-X: Built for Extreme Time Series Forecasting]]></title>
+        <id>https://arxiv.org/abs/2609.31038</id>
+        <link href="https://arxiv.org/abs/2609.31038"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[After a deepfake voice fooled her grandfather, this founder sprang into action]]></title>
-        <id>https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/</id>
-        <link href="https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why a style panel should know which components support breakpoint objects?]]></title>
-        <id>https://blog.crossui.com/2026/09/your-sx-prop-is-already-a-data-structure</id>
-        <link href="https://blog.crossui.com/2026/09/your-sx-prop-is-already-a-data-structure"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starship Flight 14 – Live Broadcast]]></title>
-        <id>https://x.com/i/broadcasts/1qxvvenMPMQxB</id>
-        <link href="https://x.com/i/broadcasts/1qxvvenMPMQxB"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debugging Postgres Performance Under Row-Level Security]]></title>
-        <id>https://engineering.myhoai.com/posts/debugging-postgres-performance-under-row-level-security/</id>
-        <link href="https://engineering.myhoai.com/posts/debugging-postgres-performance-under-row-level-security/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the stories about all-powerful AI are swallowing the world]]></title>
-        <id>https://www.bloodinthemachine.com/p/how-the-stories-about-all-powerful</id>
-        <link href="https://www.bloodinthemachine.com/p/how-the-stories-about-all-powerful"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinking Fast and Slow in AI: The Role of Metacognition]]></title>
-        <id>https://arxiv.org/abs/2110.01834</id>
-        <link href="https://arxiv.org/abs/2110.01834"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RFPeptides: De novo design of protein-binding macrocycles using deep learning]]></title>
-        <id>https://www.nature.com/articles/s41589-025-01929-w</id>
-        <link href="https://www.nature.com/articles/s41589-025-01929-w"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What 'ferritin face' means – and how to tell if you may be iron-deficient]]></title>
-        <id>https://www.washingtonpost.com/wellness/2026/09/15/what-ferritin-face-means-how-tell-if-you-may-be-iron-deficient/</id>
-        <link href="https://www.washingtonpost.com/wellness/2026/09/15/what-ferritin-face-means-how-tell-if-you-may-be-iron-deficient/"/>
-        <updated>2026-09-27T16:00:00.000Z</updated>
-        <published>2026-09-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[SAGE: A sampling-aware global evaluation benchmark for species distribution modeling]]></title>
+        <id>https://arxiv.org/abs/2609.31082</id>
+        <link href="https://arxiv.org/abs/2609.31082"/>
+        <updated>2026-09-28T16:00:00.000Z</updated>
+        <published>2026-09-28T16:00:00.000Z</published>
     </entry>
 </feed>
