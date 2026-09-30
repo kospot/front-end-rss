@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-30T07:03:25.007Z</updated>
+    <updated>2026-09-30T10:02:48.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,16 +50,9 @@
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-laptop-docking-stations/</id>
-        <link href="https://www.wired.com/gallery/best-laptop-docking-stations/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Gets Sued Over the Hugging Face Hack]]></title>
-        <id>https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/</id>
-        <link href="https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/"/>
+        <title type="html"><![CDATA[OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse]]></title>
+        <id>https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/</id>
+        <link href="https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
@@ -71,9 +64,16 @@
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse]]></title>
-        <id>https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/</id>
-        <link href="https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"/>
+        <title type="html"><![CDATA[OpenAI Gets Sued Over the Hugging Face Hack]]></title>
+        <id>https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/</id>
+        <link href="https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)]]></title>
+        <id>https://www.wired.com/gallery/best-laptop-docking-stations/</id>
+        <link href="https://www.wired.com/gallery/best-laptop-docking-stations/"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
@@ -127,212 +127,30 @@
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Operational HPC lessons learnt training the Tessera geospatial foundation models [pdf]]]></title>
-        <id>https://www.cl.cam.ac.uk/~avsm2/tessera-hpc-report-20260922.pdf</id>
-        <link href="https://www.cl.cam.ac.uk/~avsm2/tessera-hpc-report-20260922.pdf"/>
+        <title type="html"><![CDATA[Show HN:I built an AI agent team that recreates the style of any video]]></title>
+        <id>https://github.com/edenfunf/reelmimic</id>
+        <link href="https://github.com/edenfunf/reelmimic"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Frontiers]]></title>
-        <id>https://www.proximal.ai/blog/new-frontiers/</id>
-        <link href="https://www.proximal.ai/blog/new-frontiers/"/>
+        <title type="html"><![CDATA[Carnegie Mellon University Announces Historic $3B Gift from Ken Griffin]]></title>
+        <id>https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a-new-model</id>
+        <link href="https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a-new-model"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Six Flags Magic Mountain retires X2 roller coaster amid brain injury lawsuits]]></title>
-        <id>https://apnews.com/article/six-flags-x2-roller-coaster-lawsuits-injuries-225c195a3549fee3637eed99318b62e6</id>
-        <link href="https://apnews.com/article/six-flags-x2-roller-coaster-lawsuits-injuries-225c195a3549fee3637eed99318b62e6"/>
+        <title type="html"><![CDATA[Show HN: Fast, Lightroom-compatible RAW photo editor for Linux and macOS]]></title>
+        <id>https://github.com/pch/rawmakase</id>
+        <link href="https://github.com/pch/rawmakase"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postgres with QUIC]]></title>
-        <id>https://blogs.lupyd.com/blog/postgres-with-quic/</id>
-        <link href="https://blogs.lupyd.com/blog/postgres-with-quic/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CAISI's Assessment of Z.ai's GLM-5.3 Cyber Capabilities]]></title>
-        <id>https://www.nist.gov/news-events/news/2026/09/caisis-assessment-zais-glm-53-cyber-capabilities</id>
-        <link href="https://www.nist.gov/news-events/news/2026/09/caisis-assessment-zais-glm-53-cyber-capabilities"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State of the (Tagged) Union Address by Andrew Kelley [video]]]></title>
-        <id>https://www.youtube.com/watch?v=zwi5b5xSsKA</id>
-        <link href="https://www.youtube.com/watch?v=zwi5b5xSsKA"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Anxiety Checklist – 3 years of itterate with no success yet]]></title>
-        <id>https://anxietychecklist.com/</id>
-        <link href="https://anxietychecklist.com/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightweight Resilient Recursive Parsing]]></title>
-        <id>https://andraskovacs.github.io/posts/2026/09/resilient-parsing/</id>
-        <link href="https://andraskovacs.github.io/posts/2026/09/resilient-parsing/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sculptures honoring N. Korean soldiers to be erected in Vietnam]]></title>
-        <id>https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260928/sculptures-honoring-n-korean-soldiers-to-be-erected-in-vietnam</id>
-        <link href="https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260928/sculptures-honoring-n-korean-soldiers-to-be-erected-in-vietnam"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basecamp 5 and Hey Outage Postmortem]]></title>
-        <id>https://www.37status.com/incidents/l1yn9n8f21p6</id>
-        <link href="https://www.37status.com/incidents/l1yn9n8f21p6"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)]]></title>
-        <id>https://mightygodking.com/2008/04/21/fun-from-yesterday/</id>
-        <link href="https://mightygodking.com/2008/04/21/fun-from-yesterday/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LLMs: A Post-Transformer World Emerges]]></title>
-        <id>https://cacm.acm.org/news/beyond-llms-a-post-transformer-world-emerges/</id>
-        <link href="https://cacm.acm.org/news/beyond-llms-a-post-transformer-world-emerges/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Alter Zero – RAM-efficient agent for coding, security and automation]]></title>
-        <id>https://github.com/linuztx/alter-zero</id>
-        <link href="https://github.com/linuztx/alter-zero"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Reflex Engine Beats Both Llama.cpp and vLLM on Cold-Start to TTFT]]></title>
-        <id>https://github.com/lateos-ai/reflex</id>
-        <link href="https://github.com/lateos-ai/reflex"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Important Update About My Apps and Apple Developer Account]]></title>
-        <id>https://ibanks.craft.me/EzHqVCrHtslL8X</id>
-        <link href="https://ibanks.craft.me/EzHqVCrHtslL8X"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do you deal with people who strongly disagree with your views?]]></title>
-        <id>https://lemire.me/blog/2026/09/30/how-do-you-deal-with-people-who-strongly-disagree-with-your-views/</id>
-        <link href="https://lemire.me/blog/2026/09/30/how-do-you-deal-with-people-who-strongly-disagree-with-your-views/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Before Comparing Meta Muse Sentinel,Read the Earlier Disclosures in June 2026]]></title>
-        <id>https://zenodo.org/records/23040181</id>
-        <link href="https://zenodo.org/records/23040181"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want to protect yourself against cancer? Get vaccinated]]></title>
-        <id>https://www.scientificamerican.com/article/one-in-eight-new-cancers-are-likely-caused-by-infections-theres-an-easy-way-to-protect-yourself/</id>
-        <link href="https://www.scientificamerican.com/article/one-in-eight-new-cancers-are-likely-caused-by-infections-theres-an-easy-way-to-protect-yourself/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drift: An AI idea map that grows as you explore. free to use]]></title>
-        <id>https://www.echohive.ai/drift</id>
-        <link href="https://www.echohive.ai/drift"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6.1 Astra Is Grounded: OpenAI's Safety Decision Puts the AI Race on Notice]]></title>
-        <id>https://predx-article.fika.bar/gpt-6-1-astra-is-grounded-openai-s-safety-decision-puts-the-01M3NFXDZ5S2X22FYZNNECEHK3</id>
-        <link href="https://predx-article.fika.bar/gpt-6-1-astra-is-grounded-openai-s-safety-decision-puts-the-01M3NFXDZ5S2X22FYZNNECEHK3"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Gets Sued over the Hugging Face Hack]]></title>
-        <id>https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/</id>
-        <link href="https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: OpenAI's New Pro 500 subscription, reduced Pro 200 usage]]></title>
-        <id>https://news.ycombinator.com/item?id=49901067</id>
-        <link href="https://news.ycombinator.com/item?id=49901067"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plastic Is Melting onto Corals]]></title>
-        <id>https://www.wired.com/story/plastic-is-melting-onto-corals/</id>
-        <link href="https://www.wired.com/story/plastic-is-melting-onto-corals/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deser: Rethinking Rust Serialization]]></title>
-        <id>https://lucumr.pocoo.org/2026/9/29/deser/</id>
-        <link href="https://lucumr.pocoo.org/2026/9/29/deser/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Early users to get 90% off for life to test calories counter app]]></title>
-        <id>https://www.calready.app</id>
-        <link href="https://www.calready.app"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Didn't GitHub Copilot Win?]]></title>
-        <id>https://jacobg.co/copilot/</id>
-        <link href="https://jacobg.co/copilot/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS Feeds for Last.fm]]></title>
-        <id>https://lfm.xiffy.nl/</id>
-        <link href="https://lfm.xiffy.nl/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astroforge will fly a spacecraft autonomously using AI next year]]></title>
-        <id>https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/</id>
-        <link href="https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New LiteLLM Vulnerability: Privilege Escalation to Proxy Admin and RCE]]></title>
-        <id>https://github.com/BerriAI/litellm/security/advisories/GHSA-7hp6-4w63-5g45</id>
-        <link href="https://github.com/BerriAI/litellm/security/advisories/GHSA-7hp6-4w63-5g45"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSSA: A non-transformer language model written from scratch in Rust]]></title>
-        <id>https://github.com/Sparticle62ops/pssa</id>
-        <link href="https://github.com/Sparticle62ops/pssa"/>
+        <title type="html"><![CDATA[Japan's fusion energy startup to begin power-on tests at pilot reactor in 2027]]></title>
+        <id>https://www.asahi.com/ajw/articles/16925398</id>
+        <link href="https://www.asahi.com/ajw/articles/16925398"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
@@ -344,23 +162,205 @@
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Harness, One Agent, Three GPUs: Running Qwen on a DGX Spark, an RTX 5090, and a Radeon R9700]]></title>
-        <id>https://pub.towardsai.net/one-harness-one-agent-three-gpus-running-qwen-on-a-dgx-spark-an-rtx-5090-and-a-radeon-r9700-d23585ec6a2f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/one-harness-one-agent-three-gpus-running-qwen-on-a-dgx-spark-an-rtx-5090-and-a-radeon-r9700-d23585ec6a2f?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[PSSA: A non-transformer language model written from scratch in Rust]]></title>
+        <id>https://github.com/Sparticle62ops/pssa</id>
+        <link href="https://github.com/Sparticle62ops/pssa"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can You Run Jev Locally? We Checked 520 Jev Clients — Only 193 Switch to Ollaya With One Setting]]></title>
-        <id>https://pub.towardsai.net/can-you-run-jev-locally-we-checked-520-jev-clients-only-193-switch-to-ollaya-with-one-setting-1d7e48e22e05?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/can-you-run-jev-locally-we-checked-520-jev-clients-only-193-switch-to-ollaya-with-one-setting-1d7e48e22e05?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[New LiteLLM Vulnerability: Privilege Escalation to Proxy Admin and RCE]]></title>
+        <id>https://github.com/BerriAI/litellm/security/advisories/GHSA-7hp6-4w63-5g45</id>
+        <link href="https://github.com/BerriAI/litellm/security/advisories/GHSA-7hp6-4w63-5g45"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Half-Life of a Github Repo]]></title>
-        <id>https://pub.towardsai.net/the-half-life-of-a-github-repo-aba552dc8d93?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-half-life-of-a-github-repo-aba552dc8d93?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Astroforge will fly a spacecraft autonomously using AI next year]]></title>
+        <id>https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/</id>
+        <link href="https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS Feeds for Last.fm]]></title>
+        <id>https://lfm.xiffy.nl/</id>
+        <link href="https://lfm.xiffy.nl/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Didn't GitHub Copilot Win?]]></title>
+        <id>https://jacobg.co/copilot/</id>
+        <link href="https://jacobg.co/copilot/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Early users to get 90% off for life to test calories counter app]]></title>
+        <id>https://www.calready.app</id>
+        <link href="https://www.calready.app"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deser: Rethinking Rust Serialization]]></title>
+        <id>https://lucumr.pocoo.org/2026/9/29/deser/</id>
+        <link href="https://lucumr.pocoo.org/2026/9/29/deser/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plastic Is Melting onto Corals]]></title>
+        <id>https://www.wired.com/story/plastic-is-melting-onto-corals/</id>
+        <link href="https://www.wired.com/story/plastic-is-melting-onto-corals/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: OpenAI's New Pro 500 subscription, reduced Pro 200 usage]]></title>
+        <id>https://news.ycombinator.com/item?id=49901067</id>
+        <link href="https://news.ycombinator.com/item?id=49901067"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Gets Sued over the Hugging Face Hack]]></title>
+        <id>https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/</id>
+        <link href="https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-6.1 Astra Is Grounded: OpenAI's Safety Decision Puts the AI Race on Notice]]></title>
+        <id>https://predx-article.fika.bar/gpt-6-1-astra-is-grounded-openai-s-safety-decision-puts-the-01M3NFXDZ5S2X22FYZNNECEHK3</id>
+        <link href="https://predx-article.fika.bar/gpt-6-1-astra-is-grounded-openai-s-safety-decision-puts-the-01M3NFXDZ5S2X22FYZNNECEHK3"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drift: An AI idea map that grows as you explore. free to use]]></title>
+        <id>https://www.echohive.ai/drift</id>
+        <link href="https://www.echohive.ai/drift"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want to protect yourself against cancer? Get vaccinated]]></title>
+        <id>https://www.scientificamerican.com/article/one-in-eight-new-cancers-are-likely-caused-by-infections-theres-an-easy-way-to-protect-yourself/</id>
+        <link href="https://www.scientificamerican.com/article/one-in-eight-new-cancers-are-likely-caused-by-infections-theres-an-easy-way-to-protect-yourself/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before Comparing Meta Muse Sentinel,Read the Earlier Disclosures in June 2026]]></title>
+        <id>https://zenodo.org/records/23040181</id>
+        <link href="https://zenodo.org/records/23040181"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you deal with people who strongly disagree with your views?]]></title>
+        <id>https://lemire.me/blog/2026/09/30/how-do-you-deal-with-people-who-strongly-disagree-with-your-views/</id>
+        <link href="https://lemire.me/blog/2026/09/30/how-do-you-deal-with-people-who-strongly-disagree-with-your-views/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Important Update About My Apps and Apple Developer Account]]></title>
+        <id>https://ibanks.craft.me/EzHqVCrHtslL8X</id>
+        <link href="https://ibanks.craft.me/EzHqVCrHtslL8X"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Reflex Engine Beats Both Llama.cpp and vLLM on Cold-Start to TTFT]]></title>
+        <id>https://github.com/lateos-ai/reflex</id>
+        <link href="https://github.com/lateos-ai/reflex"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Alter Zero – RAM-efficient agent for coding, security and automation]]></title>
+        <id>https://github.com/linuztx/alter-zero</id>
+        <link href="https://github.com/linuztx/alter-zero"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond LLMs: A Post-Transformer World Emerges]]></title>
+        <id>https://cacm.acm.org/news/beyond-llms-a-post-transformer-world-emerges/</id>
+        <link href="https://cacm.acm.org/news/beyond-llms-a-post-transformer-world-emerges/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)]]></title>
+        <id>https://mightygodking.com/2008/04/21/fun-from-yesterday/</id>
+        <link href="https://mightygodking.com/2008/04/21/fun-from-yesterday/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basecamp 5 and Hey Outage Postmortem]]></title>
+        <id>https://www.37status.com/incidents/l1yn9n8f21p6</id>
+        <link href="https://www.37status.com/incidents/l1yn9n8f21p6"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sculptures honoring N. Korean soldiers to be erected in Vietnam]]></title>
+        <id>https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260928/sculptures-honoring-n-korean-soldiers-to-be-erected-in-vietnam</id>
+        <link href="https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260928/sculptures-honoring-n-korean-soldiers-to-be-erected-in-vietnam"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightweight Resilient Recursive Parsing]]></title>
+        <id>https://andraskovacs.github.io/posts/2026/09/resilient-parsing/</id>
+        <link href="https://andraskovacs.github.io/posts/2026/09/resilient-parsing/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Anxiety Checklist – 3 years of itterate with no success yet]]></title>
+        <id>https://anxietychecklist.com/</id>
+        <link href="https://anxietychecklist.com/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of the (Tagged) Union Address by Andrew Kelley [video]]]></title>
+        <id>https://www.youtube.com/watch?v=zwi5b5xSsKA</id>
+        <link href="https://www.youtube.com/watch?v=zwi5b5xSsKA"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CAISI's Assessment of Z.ai's GLM-5.3 Cyber Capabilities]]></title>
+        <id>https://www.nist.gov/news-events/news/2026/09/caisis-assessment-zais-glm-53-cyber-capabilities</id>
+        <link href="https://www.nist.gov/news-events/news/2026/09/caisis-assessment-zais-glm-53-cyber-capabilities"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres with QUIC]]></title>
+        <id>https://blogs.lupyd.com/blog/postgres-with-quic/</id>
+        <link href="https://blogs.lupyd.com/blog/postgres-with-quic/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six Flags Magic Mountain retires X2 roller coaster amid brain injury lawsuits]]></title>
+        <id>https://apnews.com/article/six-flags-x2-roller-coaster-lawsuits-injuries-225c195a3549fee3637eed99318b62e6</id>
+        <link href="https://apnews.com/article/six-flags-x2-roller-coaster-lawsuits-injuries-225c195a3549fee3637eed99318b62e6"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Frontiers]]></title>
+        <id>https://www.proximal.ai/blog/new-frontiers/</id>
+        <link href="https://www.proximal.ai/blog/new-frontiers/"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
