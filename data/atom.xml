@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-30T10:02:48.860Z</updated>
+    <updated>2026-09-30T13:04:06.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,30 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Suspected ShinyHunters leader arrested in the Netherlands]]></title>
-        <id>https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested</id>
-        <link href="https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Razer’s low-latency wireless gaming keyboard is almost half off]]></title>
-        <id>https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies]]></title>
-        <id>https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature</id>
-        <link href="https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature"/>
+        <title type="html"><![CDATA[Samsung’s new SmartTag is smaller, longer-lasting, and works with iPhones]]></title>
+        <id>https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features</id>
+        <link href="https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
@@ -50,23 +29,44 @@
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse]]></title>
-        <id>https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/</id>
-        <link href="https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"/>
+        <title type="html"><![CDATA[Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies]]></title>
+        <id>https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature</id>
+        <link href="https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Away’s New Series 3 Luggage Plays It Safe—That’s the Point]]></title>
-        <id>https://www.wired.com/story/away-launches-series-3-luggage/</id>
-        <link href="https://www.wired.com/story/away-launches-series-3-luggage/"/>
+        <title type="html"><![CDATA[Razer’s low-latency wireless gaming keyboard is almost half off]]></title>
+        <id>https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Gets Sued Over the Hugging Face Hack]]></title>
-        <id>https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/</id>
-        <link href="https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/"/>
+        <title type="html"><![CDATA[AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suspected ShinyHunters leader arrested in the Netherlands]]></title>
+        <id>https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested</id>
+        <link href="https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Gifts for Book Lovers (2026): E-Readers, Handy Accessories, Book Sets]]></title>
+        <id>https://www.wired.com/story/gifts-for-book-lovers/</id>
+        <link href="https://www.wired.com/story/gifts-for-book-lovers/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Israeli Checkpoints Choke Palestinian Life in the Occupied West Bank]]></title>
+        <id>https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/</id>
+        <link href="https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
@@ -78,37 +78,30 @@
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus]]></title>
-        <id>https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/</id>
-        <link href="https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/"/>
+        <title type="html"><![CDATA[OpenAI Gets Sued Over the Hugging Face Hack]]></title>
+        <id>https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/</id>
+        <link href="https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Pay set to launch in India with Axis Bank today, sources say]]></title>
-        <id>https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/</id>
-        <link href="https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/"/>
+        <title type="html"><![CDATA[Away’s New Series 3 Luggage Plays It Safe—That’s the Point]]></title>
+        <id>https://www.wired.com/story/away-launches-series-3-luggage/</id>
+        <link href="https://www.wired.com/story/away-launches-series-3-luggage/"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dutch police arrest ShinyHunters hacker accused of planning two murders]]></title>
-        <id>https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/</id>
-        <link href="https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/"/>
+        <title type="html"><![CDATA[OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse]]></title>
+        <id>https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/</id>
+        <link href="https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI-powered app maker Wabi pivots to a messaging experience]]></title>
-        <id>https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/</id>
-        <link href="https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less]]></title>
-        <id>https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/</id>
-        <link href="https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"/>
+        <title type="html"><![CDATA[America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch]]></title>
+        <id>https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/</id>
+        <link href="https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
@@ -120,9 +113,37 @@
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch]]></title>
-        <id>https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/</id>
-        <link href="https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"/>
+        <title type="html"><![CDATA[OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less]]></title>
+        <id>https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/</id>
+        <link href="https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-powered app maker Wabi pivots to a messaging experience]]></title>
+        <id>https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/</id>
+        <link href="https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dutch police arrest ShinyHunters hacker accused of planning two murders]]></title>
+        <id>https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/</id>
+        <link href="https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Pay set to launch in India with Axis Bank today, sources say]]></title>
+        <id>https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/</id>
+        <link href="https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/"/>
+        <updated>2026-09-29T16:00:00.000Z</updated>
+        <published>2026-09-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus]]></title>
+        <id>https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/</id>
+        <link href="https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[CAISI's Assessment of Z.ai's GLM-5.3 Cyber Capabilities]]></title>
         <id>https://www.nist.gov/news-events/news/2026/09/caisis-assessment-zais-glm-53-cyber-capabilities</id>
         <link href="https://www.nist.gov/news-events/news/2026/09/caisis-assessment-zais-glm-53-cyber-capabilities"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres with QUIC]]></title>
-        <id>https://blogs.lupyd.com/blog/postgres-with-quic/</id>
-        <link href="https://blogs.lupyd.com/blog/postgres-with-quic/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Six Flags Magic Mountain retires X2 roller coaster amid brain injury lawsuits]]></title>
-        <id>https://apnews.com/article/six-flags-x2-roller-coaster-lawsuits-injuries-225c195a3549fee3637eed99318b62e6</id>
-        <link href="https://apnews.com/article/six-flags-x2-roller-coaster-lawsuits-injuries-225c195a3549fee3637eed99318b62e6"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Frontiers]]></title>
-        <id>https://www.proximal.ai/blog/new-frontiers/</id>
-        <link href="https://www.proximal.ai/blog/new-frontiers/"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
