@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-30 23:03:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-01 06:01:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -8,22 +8,22 @@
 
 
 - [2026-09-24-12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642) 
-- [2026-09-30-Your-JS-Secret-Scanner-Is-Reading-webpack-Polyfills](https://dev.to/rxkov/your-js-secret-scanner-is-reading-webpack-polyfills-46c9) 
 - [2026-09-30-Known-errors-don't-need-an-LLM:-deterministic-explanations-for-Node,-npm,-Next.js,-CORS-and-Postgres](https://dev.to/mahdi_br_c9ebef53dc250d84/known-errors-dont-need-an-llm-deterministic-explanations-for-node-npm-nextjs-cors-and-postgres-5bam) 
-- [2026-09-29-yarn.lock:-may-the-`--force`-be-with-you](https://dev.to/antongolub/yarnlock-may-the-force-be-with-you-50pm) 
-- [2026-09-29-yarn.lock:-you-can't-`sed`-a-graph](https://dev.to/antongolub/-yarnlock-you-cant-sed-a-graph-5ffp) 
+- [2026-09-30-Your-JS-Secret-Scanner-Is-Reading-webpack-Polyfills](https://dev.to/rxkov/your-js-secret-scanner-is-reading-webpack-polyfills-46c9) 
 - [2026-09-29-yarn-audit-still-does-not-fix](https://dev.to/antongolub/yarn-audit-still-does-not-fix-3n3) 
+- [2026-09-29-yarn.lock:-you-can't-`sed`-a-graph](https://dev.to/antongolub/-yarnlock-you-cant-sed-a-graph-5ffp) 
+- [2026-09-29-yarn.lock:-may-the-`--force`-be-with-you](https://dev.to/antongolub/yarnlock-may-the-force-be-with-you-50pm) 
 - [2026-09-28-Oxc-Parser-in-2026:-The-Rust-Powered-AST-Tool-That-Is-Making-Babel-Replaceable-for-Real-Codebases](https://dev.to/jsmanifest/oxc-parser-in-2026-the-rust-powered-ast-tool-that-is-making-babel-replaceable-for-real-codebases-2k7g) 
-- [2026-09-27-Your-npm-install-Is-Doing-More-Than-You-Think](https://dev.to/mridudixit15/your-npm-install-is-doing-more-than-you-think-2e3k) 
 - [2026-09-27-Infected-by-git-pull-and-npm-run-build-—-Malware-planted-in-a-build-config-through-a-forged-merge-commit](https://dev.to/itskill_jp/infected-by-git-pull-and-npm-run-build-malware-planted-in-a-build-config-through-a-forged-merge-3c6l) 
-- [2026-09-26-Vite+-—-Chapter-4:-Vite+-at-Scale-—-Monorepos,-Tasks,-Caching,-and-CI](https://dev.to/othmane_nemli/vite-chapter-4-vite-at-scale-monorepos-tasks-caching-and-ci-2pmh) 
+- [2026-09-27-Your-npm-install-Is-Doing-More-Than-You-Think](https://dev.to/mridudixit15/your-npm-install-is-doing-more-than-you-think-2e3k) 
 - [2026-09-26-Vite+-—-Chapter-5:-Should-You-Use-Vite+?](https://dev.to/othmane_nemli/vite-chapter-5-should-you-use-vite-4l8b) 
+- [2026-09-26-Vite+-—-Chapter-4:-Vite+-at-Scale-—-Monorepos,-Tasks,-Caching,-and-CI](https://dev.to/othmane_nemli/vite-chapter-4-vite-at-scale-monorepos-tasks-caching-and-ci-2pmh) 
 - [2026-09-20-The-story-of-morphing-scroll,-my-npm-library](https://dev.to/voodoofugu/the-story-of-morphing-scroll-my-npm-library-1agb) 
-- [2026-09-19-Building-a-Zero-Disk-Video-Stream-Proxy-with-Node.js,-Express,-and-Vite](https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m) 
-- [2026-09-19-spawn-npx-ENOENT-và-9-lỗi-MCP-server-hay-gặp:-cách-sửa](https://dev.to/bean_bean/spawn-npx-enoent-va-9-loi-mcp-server-hay-gap-cach-sua-4na) 
 - [2026-09-19-Fixing-a-Next.js-16-deployment-on-Hostinger:-glibc,-SWC,-and-Webpack](https://dev.to/paulovarassin/fixing-a-nextjs-16-deployment-on-hostinger-glibc-swc-and-webpack-278h) 
-- [2026-09-17-You-Probably-Don't-Need-That-npm-Package:-6-Native-Web-APIs-That-Made-Our-Tools-100%-Dependency-Free](https://dev.to/urbanmixo/you-probably-dont-need-that-npm-package-6-native-web-apis-that-made-our-tools-100-dependency-free-2fjp) 
+- [2026-09-19-spawn-npx-ENOENT-và-9-lỗi-MCP-server-hay-gặp:-cách-sửa](https://dev.to/bean_bean/spawn-npx-enoent-va-9-loi-mcp-server-hay-gap-cach-sua-4na) 
+- [2026-09-19-Building-a-Zero-Disk-Video-Stream-Proxy-with-Node.js,-Express,-and-Vite](https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m) 
 - [2026-09-17-What-a-Job-Take-Home-Taught-Me-About-npm-Supply-Chain-Attacks](https://dev.to/navalsaini27/what-a-job-take-home-taught-me-about-npm-supply-chain-attacks-2an5) 
+- [2026-09-17-You-Probably-Don't-Need-That-npm-Package:-6-Native-Web-APIs-That-Made-Our-Tools-100%-Dependency-Free](https://dev.to/urbanmixo/you-probably-dont-need-that-npm-package-6-native-web-apis-that-made-our-tools-100-dependency-free-2fjp) 
 - [2026-09-16-Navigating-npm-ERESOLVE-Errors:-A-Strategic-Guide-for-Engineering-Leaders](https://dev.to/devactivity/navigating-npm-eresolve-errors-a-strategic-guide-for-engineering-leaders-4h79) 
 - [2026-09-15-Vite-Builds-My-Project-in-2.7s.-The-Next-Ionify-Build-Takes-50ms.-Here's-Why.](https://dev.to/khaledmsalem/vite-builds-my-project-in-27s-the-next-ionify-build-takes-50ms-heres-why-kic) 
 - [2026-09-14-WPS-AI-时代的插件开发：软件工程师如何用-JSAPI-构建智能办公自动化](https://dev.to/charles_zhang_caffc21ad75/wps-ai-shi-dai-de-cha-jian-kai-fa-ruan-jian-gong-cheng-shi-ru-he-yong-jsapi-gou-jian-zhi-neng-ban-gong-zi-dong-hua-e33) 
@@ -35,17 +35,15 @@
 - [2026-09-06-VITE_-Is-a-Promotion-Operator:-How-Build-Pipelines-Ship-Server-Side-Secrets-to-the-Browser](https://dev.to/roxdavirox/vite-is-a-promotion-operator-how-build-pipelines-ship-server-side-secrets-to-the-browser-1h2n) 
 - [2026-09-05-What-Actually-Happens-When-You-Run-`npm-install`?](https://dev.to/syed_anzar/what-actually-happens-when-you-run-npm-install-4135) 
 - [2026-09-02-I-Shipped-ESLint-to-the-Browser-in-362-KB.-Now-My-Blog-Posts-Lint-Your-Code,-Not-Mine.](https://dev.to/ofri-peretz/i-shipped-eslint-to-the-browser-in-362-kb-now-my-blog-posts-lint-your-code-not-mine-3a4m) 
-- [2026-09-01-Fixing-npm-Global-Command-Not-Found-on-Windows](https://dev.to/devlog/fixing-npm-global-command-not-found-on-windows-50e1) 
-- [2026-09-01-The-npm-Worm-That-Brought-Its-Own-Interpreter](https://dev.to/madhavan_srajangupta_34c/the-npm-worm-that-brought-its-own-interpreter-4ck1) 
 - [2026-09-28--Vite+-1.0-is-out-](
 https://voidzero.dev/posts/announcing-vite-plus-1-0
 ) 
 - [2026-09-25--Node.JS-Built-Ins-That-Replaced-NPM-Packages-](
 https://flaviocopes.com/node-builtins/
 ) 
-- [2026-09-01-webpack/webpack](https://github.com/webpack/webpack) 
 - [2026-09-16-High-Performance-Tensor-Formulation-of-the-Viterbi-Algorithm-for-Hidden-Semi-Markov-Models](https://arxiv.org/abs/2609.16500) 
+- [2026-10-01-AI-invite-codes-and-referral-codes,-live](https://aiinvitecode.com) 
 - [2026-09-09-NPM-Status-–-Intermittent-Failures-Impacting-NPM-Publish](https://status.npmjs.org/incidents/b6958bgj1sm3) 
-- [2026-09-07-Show-HN:-MaskShift-–-a-maximalist-coding-agent-with-zero-NPM-dependencies](https://github.com/nafeeur/MaskShift) 
 - [2026-09-07-JavaScript-installer-pnpm-recast-in-Rust-because-ECMAScript-can't-keep-up](https://www.theregister.com/devops/2026/09/04/javascript-installer-pnpm-recast-in-rust-because-ecmascript-cant-keep-up/5294394) 
+- [2026-09-07-Show-HN:-MaskShift-–-a-maximalist-coding-agent-with-zero-NPM-dependencies](https://github.com/nafeeur/MaskShift) 
 - [2026-09-25-Party-Invite-Phishing-Scams-Are-the-New-Missed-Connections](https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/) 

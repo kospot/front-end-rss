@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-30 23:03:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-01 06:01:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## MDN Blog
 
