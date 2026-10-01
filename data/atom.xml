@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-01T13:04:13.105Z</updated>
+    <updated>2026-10-01T15:03:51.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,30 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[This very fancy e-bike is one of the first to go semi-solid state]]></title>
-        <id>https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery</id>
-        <link href="https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery"/>
+        <title type="html"><![CDATA[OpenAI’s new agent is a shot at Meta — but can it compete with free?]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie]]></title>
-        <id>https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie</id>
-        <link href="https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie"/>
+        <title type="html"><![CDATA[Amazon’s Carrie is a cyberbullying nightmare]]></title>
+        <id>https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video</id>
+        <link href="https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now]]></title>
-        <id>https://www.theverge.com/tech/1002980/google-gemini-4-argon</id>
-        <link href="https://www.theverge.com/tech/1002980/google-gemini-4-argon"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This blog could help you poop better]]></title>
-        <id>https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health</id>
-        <link href="https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health"/>
+        <title type="html"><![CDATA[Noise from Universal&#8217;s latest ride made rich locals furious, fast]]></title>
+        <id>https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise</id>
+        <link href="https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
@@ -50,9 +43,30 @@
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Noise from Universal&#8217;s latest ride made rich locals furious, fast]]></title>
-        <id>https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise</id>
-        <link href="https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise"/>
+        <title type="html"><![CDATA[This blog could help you poop better]]></title>
+        <id>https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health</id>
+        <link href="https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now]]></title>
+        <id>https://www.theverge.com/tech/1002980/google-gemini-4-argon</id>
+        <link href="https://www.theverge.com/tech/1002980/google-gemini-4-argon"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie]]></title>
+        <id>https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie</id>
+        <link href="https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This very fancy e-bike is one of the first to go semi-solid state]]></title>
+        <id>https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery</id>
+        <link href="https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
@@ -85,9 +99,9 @@
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI’s Jev clone could help the frontier lab stop its swarming agents]]></title>
-        <id>https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/</id>
-        <link href="https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"/>
+        <title type="html"><![CDATA[Destro AI’s secret sauce is getting robots and humans on the same page]]></title>
+        <id>https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/</id>
+        <link href="https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
@@ -99,9 +113,9 @@
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Destro AI’s secret sauce is getting robots and humans on the same page]]></title>
-        <id>https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/</id>
-        <link href="https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"/>
+        <title type="html"><![CDATA[OpenAI’s Jev clone could help the frontier lab stop its swarming agents]]></title>
+        <id>https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/</id>
+        <link href="https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Man Killed After Bag Gets Stuck in Subway Doors, Police Say]]></title>
         <id>https://www.nytimes.com/2026/09/29/nyregion/subway-backpack-dragging-death.html</id>
         <link href="https://www.nytimes.com/2026/09/29/nyregion/subway-backpack-dragging-death.html"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Linguistics Iceberg Explained [video]]]></title>
-        <id>https://www.youtube.com/watch?v=GFz6KqZurFY</id>
-        <link href="https://www.youtube.com/watch?v=GFz6KqZurFY"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent-db-scan – See what a Postgres login can do]]></title>
-        <id>https://github.com/vaultkit-inc/agent-db-scan</id>
-        <link href="https://github.com/vaultkit-inc/agent-db-scan"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
