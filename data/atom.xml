@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-01T00:01:17.460Z</updated>
+    <updated>2026-10-01T02:02:24.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief]]></title>
-        <id>https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview</id>
-        <link href="https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This blog could help you poop better]]></title>
-        <id>https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health</id>
-        <link href="https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health"/>
+        <title type="html"><![CDATA[Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie]]></title>
+        <id>https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie</id>
+        <link href="https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
@@ -36,9 +29,16 @@
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie]]></title>
-        <id>https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie</id>
-        <link href="https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie"/>
+        <title type="html"><![CDATA[This blog could help you poop better]]></title>
+        <id>https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health</id>
+        <link href="https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief]]></title>
+        <id>https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview</id>
+        <link href="https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
@@ -64,86 +64,44 @@
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent-db-scan – See what a Postgres login can do]]></title>
-        <id>https://github.com/vaultkit-inc/agent-db-scan</id>
-        <link href="https://github.com/vaultkit-inc/agent-db-scan"/>
+        <title type="html"><![CDATA[Show HN: [Symmetric-chat] symmetric encrypted chat (text, file, audio, video)]]></title>
+        <id>https://news.ycombinator.com/item?id=49916706</id>
+        <link href="https://news.ycombinator.com/item?id=49916706"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Linguistics Iceberg Explained [video]]]></title>
-        <id>https://www.youtube.com/watch?v=GFz6KqZurFY</id>
-        <link href="https://www.youtube.com/watch?v=GFz6KqZurFY"/>
+        <title type="html"><![CDATA[Show HN: gmGPU – click your way up to become a hyperscaler (game)]]></title>
+        <id>https://gmgpu.xyz/</id>
+        <link href="https://gmgpu.xyz/"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Man Killed After Bag Gets Stuck in Subway Doors, Police Say]]></title>
-        <id>https://www.nytimes.com/2026/09/29/nyregion/subway-backpack-dragging-death.html</id>
-        <link href="https://www.nytimes.com/2026/09/29/nyregion/subway-backpack-dragging-death.html"/>
+        <title type="html"><![CDATA[10-year Treasury yield climbs above 5.3% to a level not seen in 24 years]]></title>
+        <id>https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f</id>
+        <link href="https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Check a cold-chain shipment from its logger CSVs and get a signed, offline-verif]]></title>
-        <id>https://paywall.bsvkey.com/credits</id>
-        <link href="https://paywall.bsvkey.com/credits"/>
+        <title type="html"><![CDATA[The Microplastics Epidemic in Indonesia]]></title>
+        <id>https://www.nytimes.com/interactive/2026/09/07/world/asia/indonesia-jakarta-landfill-fire-microplastics.html</id>
+        <link href="https://www.nytimes.com/interactive/2026/09/07/world/asia/indonesia-jakarta-landfill-fire-microplastics.html"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Justice for CSS]]></title>
-        <id>https://www.wired.com/story/justice-for-css/</id>
-        <link href="https://www.wired.com/story/justice-for-css/"/>
+        <title type="html"><![CDATA[OpenVMS E9.2-4 now in Field Test]]></title>
+        <id>https://vmssoftware.com/about/v924</id>
+        <link href="https://vmssoftware.com/about/v924"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Testbox – A fast test runner with zero dependencies]]></title>
-        <id>https://github.com/dhuan/testbox</id>
-        <link href="https://github.com/dhuan/testbox"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Select an Experiment: More on experiment metastrategy]]></title>
-        <id>https://chillphysicsenjoyer.substack.com/p/how-to-select-an-experiment</id>
-        <link href="https://chillphysicsenjoyer.substack.com/p/how-to-select-an-experiment"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube lunatic designed and 3D printed a working mechanical calculator]]></title>
-        <id>https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273</id>
-        <link href="https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hegseth Announces AutoWarCom]]></title>
-        <id>https://www.militarytimes.com/news/your-military/2026/09/30/hegseth-announces-new-four-star-command-for-autonomous-warfare/</id>
-        <link href="https://www.militarytimes.com/news/your-military/2026/09/30/hegseth-announces-new-four-star-command-for-autonomous-warfare/"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jev predicts every plate appearance of the 2026 MLB postseason]]></title>
-        <id>https://live.bitgraph.ing/</id>
-        <link href="https://live.bitgraph.ing/"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cycode Extends Its ADLC Security Capabilities to Developers' Workstations]]></title>
-        <id>https://radicaldatascience.wpcomstaging.com/2026/09/25/cycode-extends-its-adlc-security-capabilities-to-developers-workstations-stopping-software-supply-chain-attacks-before-they-start/</id>
-        <link href="https://radicaldatascience.wpcomstaging.com/2026/09/25/cycode-extends-its-adlc-security-capabilities-to-developers-workstations-stopping-software-supply-chain-attacks-before-they-start/"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warp Factories Overview]]></title>
-        <id>https://docs.warp.dev/factories/</id>
-        <link href="https://docs.warp.dev/factories/"/>
+        <title type="html"><![CDATA[Show HN: Kanmaps – Product roadmaps like videogame skill trees]]></title>
+        <id>https://kanmaps.com/show</id>
+        <link href="https://kanmaps.com/show"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
@@ -155,9 +113,86 @@
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MCP’s Biggest Update Made AI Agents Scale. It Also Turned a Prompt Into a Password.]]></title>
-        <id>https://pub.towardsai.net/mcps-biggest-update-made-ai-agents-scale-it-also-turned-a-prompt-into-a-password-43b3ff534a89?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/mcps-biggest-update-made-ai-agents-scale-it-also-turned-a-prompt-into-a-password-43b3ff534a89?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Warp Factories Overview]]></title>
+        <id>https://docs.warp.dev/factories/</id>
+        <link href="https://docs.warp.dev/factories/"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cycode Extends Its ADLC Security Capabilities to Developers' Workstations]]></title>
+        <id>https://radicaldatascience.wpcomstaging.com/2026/09/25/cycode-extends-its-adlc-security-capabilities-to-developers-workstations-stopping-software-supply-chain-attacks-before-they-start/</id>
+        <link href="https://radicaldatascience.wpcomstaging.com/2026/09/25/cycode-extends-its-adlc-security-capabilities-to-developers-workstations-stopping-software-supply-chain-attacks-before-they-start/"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jev predicts every plate appearance of the 2026 MLB postseason]]></title>
+        <id>https://live.bitgraph.ing/</id>
+        <link href="https://live.bitgraph.ing/"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hegseth Announces AutoWarCom]]></title>
+        <id>https://www.militarytimes.com/news/your-military/2026/09/30/hegseth-announces-new-four-star-command-for-autonomous-warfare/</id>
+        <link href="https://www.militarytimes.com/news/your-military/2026/09/30/hegseth-announces-new-four-star-command-for-autonomous-warfare/"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube lunatic designed and 3D printed a working mechanical calculator]]></title>
+        <id>https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273</id>
+        <link href="https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Select an Experiment: More on experiment metastrategy]]></title>
+        <id>https://chillphysicsenjoyer.substack.com/p/how-to-select-an-experiment</id>
+        <link href="https://chillphysicsenjoyer.substack.com/p/how-to-select-an-experiment"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Testbox – A fast test runner with zero dependencies]]></title>
+        <id>https://github.com/dhuan/testbox</id>
+        <link href="https://github.com/dhuan/testbox"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Justice for CSS]]></title>
+        <id>https://www.wired.com/story/justice-for-css/</id>
+        <link href="https://www.wired.com/story/justice-for-css/"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check a cold-chain shipment from its logger CSVs and get a signed, offline-verif]]></title>
+        <id>https://paywall.bsvkey.com/credits</id>
+        <link href="https://paywall.bsvkey.com/credits"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man Killed After Bag Gets Stuck in Subway Doors, Police Say]]></title>
+        <id>https://www.nytimes.com/2026/09/29/nyregion/subway-backpack-dragging-death.html</id>
+        <link href="https://www.nytimes.com/2026/09/29/nyregion/subway-backpack-dragging-death.html"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Linguistics Iceberg Explained [video]]]></title>
+        <id>https://www.youtube.com/watch?v=GFz6KqZurFY</id>
+        <link href="https://www.youtube.com/watch?v=GFz6KqZurFY"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent-db-scan – See what a Postgres login can do]]></title>
+        <id>https://github.com/vaultkit-inc/agent-db-scan</id>
+        <link href="https://github.com/vaultkit-inc/agent-db-scan"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
@@ -169,6 +204,13 @@
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MCP’s Biggest Update Made AI Agents Scale. It Also Turned a Prompt Into a Password.]]></title>
+        <id>https://pub.towardsai.net/mcps-biggest-update-made-ai-agents-scale-it-also-turned-a-prompt-into-a-password-43b3ff534a89?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/mcps-biggest-update-made-ai-agents-scale-it-also-turned-a-prompt-into-a-password-43b3ff534a89?source=rss----98111c9905da---4"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[He Built This City]]></title>
         <id>https://simonwillison.net/2026/Sep/30/he-built-this-city/</id>
         <link href="https://simonwillison.net/2026/Sep/30/he-built-this-city/"/>
@@ -176,65 +218,36 @@
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parsing tweets.js Without the Encoding Headaches]]></title>
-        <id>https://dev.to/ahmed_isam_752b775a50fd90/parsing-tweetsjs-without-the-encoding-headaches-4ncl</id>
-        <link href="https://dev.to/ahmed_isam_752b775a50fd90/parsing-tweetsjs-without-the-encoding-headaches-4ncl"/>
+        <title type="html"><![CDATA[
+Sacred Geometry Generator: draw, tune, and export Vesica Piscis, Seed of Life, Flower of Life, Metatron's Cube, and the Golden Spiral as SVG
+]]></title>
+        <id>
+https://github.com/evoluteur/sacred-geometry
+</id>
+        <link href="
+https://github.com/evoluteur/sacred-geometry
+"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Chrome new-tab extension you can audit in ten seconds]]></title>
-        <id>https://dev.to/monkeyrun/a-chrome-new-tab-extension-you-can-audit-in-ten-seconds-42mf</id>
-        <link href="https://dev.to/monkeyrun/a-chrome-new-tab-extension-you-can-audit-in-ten-seconds-42mf"/>
+        <title type="html"><![CDATA[Deno CVE-2026-103473 — CVSS 8.1 Command Injection in node:child_process on Windows]]></title>
+        <id>https://dev.to/threataft_dev/deno-cve-2026-103473-cvss-81-command-injection-in-nodechildprocess-on-windows-dah</id>
+        <link href="https://dev.to/threataft_dev/deno-cve-2026-103473-cvss-81-command-injection-in-nodechildprocess-on-windows-dah"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TensorFlow.js in the browser: why one new tensor shape cost 8-17 seconds, and how I cut a 40 s freeze]]></title>
-        <id>https://dev.to/convertilo/tensorflowjs-in-the-browser-why-one-new-tensor-shape-cost-8-17-seconds-and-how-i-cut-a-40-s-4ho3</id>
-        <link href="https://dev.to/convertilo/tensorflowjs-in-the-browser-why-one-new-tensor-shape-cost-8-17-seconds-and-how-i-cut-a-40-s-4ho3"/>
+        <title type="html"><![CDATA[I asked an AI to make my career-switch video. It took 9 versions, 666 frames and no video editor]]></title>
+        <id>https://dev.to/hamdi_laadhari/i-asked-an-ai-to-make-my-career-switch-video-it-took-9-versions-666-frames-and-no-video-editor-3ebf</id>
+        <link href="https://dev.to/hamdi_laadhari/i-asked-an-ai-to-make-my-career-switch-video-it-took-9-versions-666-frames-and-no-video-editor-3ebf"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Boundary Problem: How the Jev TypeScript SDK Keeps Type Safety Alive Across the Wire]]></title>
-        <id>https://dev.to/programmingcentral/the-boundary-problem-how-the-jev-typescript-sdk-keeps-type-safety-alive-across-the-wire-53mk</id>
-        <link href="https://dev.to/programmingcentral/the-boundary-problem-how-the-jev-typescript-sdk-keeps-type-safety-alive-across-the-wire-53mk"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
-        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-5bhn</id>
-        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-5bhn"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building High-Performance Web Calculators with React & Prerendering for Max SEO]]></title>
-        <id>https://dev.to/muhammad_ahmed_6631d2cc13/building-high-performance-web-calculators-with-react-prerendering-for-max-seo-2bd3</id>
-        <link href="https://dev.to/muhammad_ahmed_6631d2cc13/building-high-performance-web-calculators-with-react-prerendering-for-max-seo-2bd3"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing the Destiny Matrix in TypeScript: reducing a birth date to Major Arcana]]></title>
-        <id>https://dev.to/convertilo/implementing-the-destiny-matrix-in-typescript-reducing-a-birth-date-to-major-arcana-38mi</id>
-        <link href="https://dev.to/convertilo/implementing-the-destiny-matrix-in-typescript-reducing-a-birth-date-to-major-arcana-38mi"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a lightweight 2D Web Game Engine in Pure Vanilla JS (BeeEngine v2.8.4)]]></title>
-        <id>https://dev.to/antonioprosperi2svg/i-built-a-lightweight-2d-web-game-engine-in-pure-vanilla-js-beeengine-v284-4n9</id>
-        <link href="https://dev.to/antonioprosperi2svg/i-built-a-lightweight-2d-web-game-engine-in-pure-vanilla-js-beeengine-v284-4n9"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use this PIPE to feel the FLOW]]></title>
-        <id>https://dev.to/pengeszikra/use-this-pipe-to-feel-the-flow-483j</id>
-        <link href="https://dev.to/pengeszikra/use-this-pipe-to-feel-the-flow-483j"/>
+        <title type="html"><![CDATA[Once Async Enters the Reactive Graph, Where Should the UI Wait?]]></title>
+        <id>https://dev.to/luciano0322/once-async-enters-the-reactive-graph-where-should-the-ui-wait-463k</id>
+        <link href="https://dev.to/luciano0322/once-async-enters-the-reactive-graph-where-should-the-ui-wait-463k"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
@@ -246,58 +259,72 @@
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Use this PIPE to feel the FLOW]]></title>
+        <id>https://dev.to/pengeszikra/use-this-pipe-to-feel-the-flow-483j</id>
+        <link href="https://dev.to/pengeszikra/use-this-pipe-to-feel-the-flow-483j"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a lightweight 2D Web Game Engine in Pure Vanilla JS (BeeEngine v2.8.4)]]></title>
+        <id>https://dev.to/antonioprosperi2svg/i-built-a-lightweight-2d-web-game-engine-in-pure-vanilla-js-beeengine-v284-4n9</id>
+        <link href="https://dev.to/antonioprosperi2svg/i-built-a-lightweight-2d-web-game-engine-in-pure-vanilla-js-beeengine-v284-4n9"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing the Destiny Matrix in TypeScript: reducing a birth date to Major Arcana]]></title>
+        <id>https://dev.to/convertilo/implementing-the-destiny-matrix-in-typescript-reducing-a-birth-date-to-major-arcana-38mi</id>
+        <link href="https://dev.to/convertilo/implementing-the-destiny-matrix-in-typescript-reducing-a-birth-date-to-major-arcana-38mi"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building High-Performance Web Calculators with React & Prerendering for Max SEO]]></title>
+        <id>https://dev.to/muhammad_ahmed_6631d2cc13/building-high-performance-web-calculators-with-react-prerendering-for-max-seo-2bd3</id>
+        <link href="https://dev.to/muhammad_ahmed_6631d2cc13/building-high-performance-web-calculators-with-react-prerendering-for-max-seo-2bd3"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
+        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-5bhn</id>
+        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-5bhn"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boundary Problem: How the Jev TypeScript SDK Keeps Type Safety Alive Across the Wire]]></title>
+        <id>https://dev.to/programmingcentral/the-boundary-problem-how-the-jev-typescript-sdk-keeps-type-safety-alive-across-the-wire-53mk</id>
+        <link href="https://dev.to/programmingcentral/the-boundary-problem-how-the-jev-typescript-sdk-keeps-type-safety-alive-across-the-wire-53mk"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TensorFlow.js in the browser: why one new tensor shape cost 8-17 seconds, and how I cut a 40 s freeze]]></title>
+        <id>https://dev.to/convertilo/tensorflowjs-in-the-browser-why-one-new-tensor-shape-cost-8-17-seconds-and-how-i-cut-a-40-s-4ho3</id>
+        <link href="https://dev.to/convertilo/tensorflowjs-in-the-browser-why-one-new-tensor-shape-cost-8-17-seconds-and-how-i-cut-a-40-s-4ho3"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Chrome new-tab extension you can audit in ten seconds]]></title>
+        <id>https://dev.to/monkeyrun/a-chrome-new-tab-extension-you-can-audit-in-ten-seconds-42mf</id>
+        <link href="https://dev.to/monkeyrun/a-chrome-new-tab-extension-you-can-audit-in-ten-seconds-42mf"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsing tweets.js Without the Encoding Headaches]]></title>
+        <id>https://dev.to/ahmed_isam_752b775a50fd90/parsing-tweetsjs-without-the-encoding-headaches-4ncl</id>
+        <link href="https://dev.to/ahmed_isam_752b775a50fd90/parsing-tweetsjs-without-the-encoding-headaches-4ncl"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[从玩家的世界掠过：Bungie 的「列车」如何驶向终焉]]></title>
         <id>https://sspai.com/post/115070</id>
         <link href="https://sspai.com/post/115070"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram is adding an AI ‘assistant’ to tell you how to post]]></title>
-        <id>https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube</id>
-        <link href="https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can text DoorDash&#8217;s AI bot to &#8216;order my usual&#8217; and it will figure the rest out]]></title>
-        <id>https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability</id>
-        <link href="https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suspected ShinyHunters leader arrested in the Netherlands]]></title>
-        <id>https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested</id>
-        <link href="https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Razer’s low-latency wireless gaming keyboard is almost half off]]></title>
-        <id>https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies]]></title>
-        <id>https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature</id>
-        <link href="https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMW’s revamped i3 boasts up to 468 miles of range]]></title>
-        <id>https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range</id>
-        <link href="https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
@@ -309,58 +336,37 @@
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse]]></title>
-        <id>https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/</id>
-        <link href="https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"/>
+        <title type="html"><![CDATA[BMW’s revamped i3 boasts up to 468 miles of range]]></title>
+        <id>https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range</id>
+        <link href="https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Away’s New Series 3 Luggage Plays It Safe—That’s the Point]]></title>
-        <id>https://www.wired.com/story/away-launches-series-3-luggage/</id>
-        <link href="https://www.wired.com/story/away-launches-series-3-luggage/"/>
+        <title type="html"><![CDATA[Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies]]></title>
+        <id>https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature</id>
+        <link href="https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Gets Sued Over the Hugging Face Hack]]></title>
-        <id>https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/</id>
-        <link href="https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/"/>
+        <title type="html"><![CDATA[Razer’s low-latency wireless gaming keyboard is almost half off]]></title>
+        <id>https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-laptop-docking-stations/</id>
-        <link href="https://www.wired.com/gallery/best-laptop-docking-stations/"/>
+        <title type="html"><![CDATA[AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Israeli Checkpoints Choke Palestinian Life in the Occupied West Bank]]></title>
-        <id>https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/</id>
-        <link href="https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Gifts for Book Lovers (2026): E-Readers, Handy Accessories, Book Sets]]></title>
-        <id>https://www.wired.com/story/gifts-for-book-lovers/</id>
-        <link href="https://www.wired.com/story/gifts-for-book-lovers/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pledge signed by President Trump and top AI leaders misspells the United States]]></title>
-        <id>https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/</id>
-        <link href="https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <published>2026-09-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram rolls out an AI video editor for creators]]></title>
-        <id>https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/</id>
-        <link href="https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/"/>
+        <title type="html"><![CDATA[Suspected ShinyHunters leader arrested in the Netherlands]]></title>
+        <id>https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested</id>
+        <link href="https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested"/>
         <updated>2026-09-29T16:00:00.000Z</updated>
         <published>2026-09-29T16:00:00.000Z</published>
     </entry>
