@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-01 10:02:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-01 12:02:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -7,28 +7,28 @@
 
 
 
-- [2026-09-30-Why-I-Built-Solid-Vue-JS:-File-Based-API-Routing-for-Vue-+-Vite](https://dev.to/joni_ilman12/why-i-built-solid-vue-js-file-based-api-routing-for-vue-vite-4if4) 
 - [2026-09-30-Vue-computed:-What-It-Caches-and-When-It-Reruns](https://dev.to/parsajiravand/vue-computed-what-it-caches-and-when-it-reruns-1e03) 
+- [2026-09-30-Why-I-Built-Solid-Vue-JS:-File-Based-API-Routing-for-Vue-+-Vite](https://dev.to/joni_ilman12/why-i-built-solid-vue-js-file-based-api-routing-for-vue-vite-4if4) 
 - [2026-09-29-Persistent-Text-Highlighting-for-Vue-3](https://dev.to/marat_shagidullin_93df625/persistent-text-highlighting-for-vue-3-k7f) 
 - [2026-09-28-How-to-Resize-PDF-Pages-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-resize-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-450p) 
 - [2026-09-27-Building-a-Browser-Based-Boggle-Game-with-Astro-and-Vue-3](https://dev.to/cliffwang/building-a-browser-based-boggle-game-with-astro-and-vue-3-1m6l) 
 - [2026-09-24-How-to-Remove-Annotations-from-PDF-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-remove-annotations-from-pdf-in-the-browser-with-vue-3-and-pdf-lib-36p2) 
-- [2026-09-23-How-to-Convert-PDF-to-Word-in-the-Browser-with-Vue-3-and-pdf.js](https://dev.to/sunshey/how-to-convert-pdf-to-word-in-the-browser-with-vue-3-and-pdfjs-cbh) 
 - [2026-09-23-Vue-Composables:-The-Shared-State-Trap-+-Cheat-Sheet](https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia) 
+- [2026-09-23-How-to-Convert-PDF-to-Word-in-the-Browser-with-Vue-3-and-pdf.js](https://dev.to/sunshey/how-to-convert-pdf-to-word-in-the-browser-with-vue-3-and-pdfjs-cbh) 
 - [2026-09-21-How-to-Edit-PDF-Metadata-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-edit-pdf-metadata-in-the-browser-with-vue-3-and-pdf-lib-1h5) 
 - [2026-09-20-How-to-Convert-Word-to-PDF-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-word-to-pdf-in-the-browser-with-vue-3-27ga) 
 - [2026-09-19-How-to-Convert-HEIC-to-PDF-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-heic-to-pdf-in-the-browser-with-vue-3-177n) 
 - [2026-09-18-How-to-Split-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-split-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-252j) 
 - [2026-09-16-How-to-Merge-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-merge-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-25n2) 
 - [2026-09-15-How-to-Compress-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-compress-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-5dd4) 
-- [2026-09-14-How-to-Rotate-PDF-Pages-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-rotate-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-ag7) 
 - [2026-09-14-Vue-nextTick-Explained:-How-DOM-Updates-Are-Batched](https://dev.to/parsajiravand/vue-nexttick-explained-how-dom-updates-are-batched-3gnp) 
+- [2026-09-14-How-to-Rotate-PDF-Pages-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-rotate-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-ag7) 
 - [2026-09-11-How-to-Convert-Excel-to-PDF-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-excel-to-pdf-in-the-browser-with-vue-3-35a0) 
 - [2026-09-10-How-to-Convert-PDF-to-Image-in-the-Browser-with-Vue-3](https://dev.to/sunshey/how-to-convert-pdf-to-image-in-the-browser-with-vue-3-2pk4) 
 - [2026-09-08-How-to-Sign-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-sign-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-4n03) 
 - [2026-09-06-How-to-Remove-Blank-Pages-from-PDF-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-remove-blank-pages-from-pdf-in-the-browser-with-vue-3-and-pdf-lib-227p) 
-- [2026-09-05-How-to-Crop-PDF-Margins-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-crop-pdf-margins-in-the-browser-with-vue-3-and-pdf-lib-54li) 
 - [2026-09-05-Solid-Vue-|-The-Minimalist-Vue-+-Vite-Web-Frameworks-No-relation-to-SolidJS-or-SolidStart-at-all](https://dev.to/joni_ilman12/solid-vue-the-minimalist-vue-vite-web-frameworks-no-relation-to-solidjs-or-solidstart-at-all-l9e) 
+- [2026-09-05-How-to-Crop-PDF-Margins-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-crop-pdf-margins-in-the-browser-with-vue-3-and-pdf-lib-54li) 
 - [2026-09-04-How-to-Add-Page-Numbers-to-PDF-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-add-page-numbers-to-pdf-in-the-browser-with-vue-3-and-pdf-lib-9g1) 
 - [2026-09-02-How-to-Encrypt-PDF-Files-in-the-Browser-with-Vue-3-and-pdf-lib](https://dev.to/sunshey/how-to-encrypt-pdf-files-in-the-browser-with-vue-3-and-pdf-lib-135k) 
 - [2026-09-30-ABC:-Advantage-Based-Control-Variates-for-Reinforcement-Learning-with-Verifiable-Rewards](https://arxiv.org/abs/2609.36058) 
