@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-02T10:03:12.578Z</updated>
+    <updated>2026-10-02T13:03:34.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,23 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Google’s new Guided Vision feature can help you read the fine print]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge dismisses antitrust lawsuits over Google’s AI Overviews]]></title>
-        <id>https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</id>
-        <link href="https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft’s Office and Teams chief is leaving]]></title>
-        <id>https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving</id>
-        <link href="https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving"/>
+        <title type="html"><![CDATA[Amazon writes scary blog warning communities not to block data centers]]></title>
+        <id>https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning</id>
+        <link href="https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
@@ -43,23 +29,37 @@
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Health Care Workers Are Tired of Cleaning Up Palantir’s Mess]]></title>
-        <id>https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/</id>
-        <link href="https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/"/>
+        <title type="html"><![CDATA[Microsoft’s Office and Teams chief is leaving]]></title>
+        <id>https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving</id>
+        <link href="https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Whatever AI Safety Is, It’s Not This]]></title>
-        <id>https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/</id>
-        <link href="https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/"/>
+        <title type="html"><![CDATA[Judge dismisses antitrust lawsuits over Google’s AI Overviews]]></title>
+        <id>https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</id>
+        <link href="https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Experience What It’s Like to Travel in the Occupied West Bank]]></title>
-        <id>https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/</id>
-        <link href="https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/"/>
+        <title type="html"><![CDATA[Google’s new Guided Vision feature can help you read the fine print]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Driverless Cab Is Spying on You]]></title>
+        <id>https://www.wired.com/story/when-the-robotaxis-are-watching-you/</id>
+        <link href="https://www.wired.com/story/when-the-robotaxis-are-watching-you/"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Election Deniers Think the GOP’s Terrible Midterm Polling Is a ‘Psyop’]]></title>
+        <id>https://www.wired.com/story/election-deniers-think-the-gops-terrible-midterm-polling-is-a-psyop/</id>
+        <link href="https://www.wired.com/story/election-deniers-think-the-gops-terrible-midterm-polling-is-a-psyop/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
@@ -71,37 +71,30 @@
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know]]></title>
-        <id>https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</id>
-        <link href="https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"/>
+        <title type="html"><![CDATA[Experience What It’s Like to Travel in the Occupied West Bank]]></title>
+        <id>https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/</id>
+        <link href="https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shopify debuts Canvas, a way to build online stores by chatting with AI]]></title>
-        <id>https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/</id>
-        <link href="https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/"/>
+        <title type="html"><![CDATA[Whatever AI Safety Is, It’s Not This]]></title>
+        <id>https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/</id>
+        <link href="https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This startup wants to turn idle car inventory into rental revenue]]></title>
-        <id>https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/</id>
-        <link href="https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/"/>
+        <title type="html"><![CDATA[Health Care Workers Are Tired of Cleaning Up Palantir’s Mess]]></title>
+        <id>https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/</id>
+        <link href="https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)]]></title>
-        <id>https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/</id>
-        <link href="https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI cuts ties with 3 safety researchers, WSJ reports]]></title>
-        <id>https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/</id>
-        <link href="https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"/>
+        <title type="html"><![CDATA[Lyft is paying $272.5M to settle lawsuit over how it classified drivers]]></title>
+        <id>https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/</id>
+        <link href="https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
@@ -113,9 +106,37 @@
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lyft is paying $272.5M to settle lawsuit over how it classified drivers]]></title>
-        <id>https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/</id>
-        <link href="https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/"/>
+        <title type="html"><![CDATA[OpenAI cuts ties with 3 safety researchers, WSJ reports]]></title>
+        <id>https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/</id>
+        <link href="https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)]]></title>
+        <id>https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/</id>
+        <link href="https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This startup wants to turn idle car inventory into rental revenue]]></title>
+        <id>https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/</id>
+        <link href="https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopify debuts Canvas, a way to build online stores by chatting with AI]]></title>
+        <id>https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/</id>
+        <link href="https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know]]></title>
+        <id>https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</id>
+        <link href="https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[Toronto hospital to expand permanent housing program that reduces ER visits]]></title>
         <id>https://www.cbc.ca/news/canada/toronto/ont-dunn-house-9.7365728</id>
         <link href="https://www.cbc.ca/news/canada/toronto/ont-dunn-house-9.7365728"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apex: Agentic coding for mobile and web, fluent in React]]></title>
-        <id>https://apex.callstack.com/</id>
-        <link href="https://apex.callstack.com/"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luainstaller: "Pyinstaller" for Lua [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ctYfIRZeuYc</id>
-        <link href="https://www.youtube.com/watch?v=ctYfIRZeuYc"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exhaling may speed up reaction times]]></title>
-        <id>https://www.sciencenews.org/article/reaction-times-sync-breathing-brain</id>
-        <link href="https://www.sciencenews.org/article/reaction-times-sync-breathing-brain"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
