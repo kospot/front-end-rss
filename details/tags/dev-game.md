@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-02 23:03:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-03 06:01:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-10-03-How-I-drew-a-4D-tesseract-in-Three.js](https://dev.to/jonasjavier/how-i-drew-a-4d-tesseract-in-threejs-1npc) 
 - [2026-09-28-What-I-learned-building-a-3D-browser-RTS-with-three.js-and-no-build-step](https://dev.to/webgamerush/what-i-learned-building-a-3d-browser-rts-with-threejs-and-no-build-step-1a31) 
 - [2026-09-20-Cutting-a-Three.js-product-configurator-from-16.7-MB-to-2.4-MB](https://dev.to/rifatsarkerraju/cutting-a-threejs-product-configurator-from-167-mb-to-24-mb-2bka) 
 - [2026-09-25-mrdoob/three.js](https://github.com/mrdoob/three.js) 
