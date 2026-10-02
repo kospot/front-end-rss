@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-01T22:01:35.107Z</updated>
+    <updated>2026-10-02T00:00:54.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Google’s new Guided Vision feature can help you read the fine print]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge dismisses antitrust lawsuits over Google’s AI Overviews]]></title>
-        <id>https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</id>
-        <link href="https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"/>
+        <title type="html"><![CDATA[Apple’s reportedly developing a smart home camera that doesn’t record video]]></title>
+        <id>https://www.theverge.com/tech/1003877/apple-security-camera-no-video</id>
+        <link href="https://www.theverge.com/tech/1003877/apple-security-camera-no-video"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
@@ -36,9 +29,23 @@
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot]]></title>
-        <id>https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/</id>
-        <link href="https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/"/>
+        <title type="html"><![CDATA[Judge dismisses antitrust lawsuits over Google’s AI Overviews]]></title>
+        <id>https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</id>
+        <link href="https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s new Guided Vision feature can help you read the fine print]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whatever AI Safety Is, It’s Not This]]></title>
+        <id>https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/</id>
+        <link href="https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
@@ -46,6 +53,13 @@
         <title type="html"><![CDATA[Experience What It’s Like to Travel in the Occupied West Bank]]></title>
         <id>https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/</id>
         <link href="https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot]]></title>
+        <id>https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
@@ -92,37 +106,44 @@
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A category 5 Reply-All storm [video]]]></title>
-        <id>https://www.youtube.com/shorts/Yj9EHWVZAIA</id>
-        <link href="https://www.youtube.com/shorts/Yj9EHWVZAIA"/>
+        <title type="html"><![CDATA[Mass exploitation of Citrix NetScaler: What we currently know]]></title>
+        <id>https://www.cybersecuritydive.com/news/exploitation-citrix-netscaler-what-we-know/831780/</id>
+        <link href="https://www.cybersecuritydive.com/news/exploitation-citrix-netscaler-what-we-know/831780/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Smart Compilers Unleash GPUs for Scientific Solvers]]></title>
-        <id>https://blog.cheshmi.cc/lcd.html</id>
-        <link href="https://blog.cheshmi.cc/lcd.html"/>
+        <title type="html"><![CDATA[What is zero-knowledge, end-to-end encryption?]]></title>
+        <id>https://blog.mega.io/what-is-zero-knowledge-end-to-end-encryption</id>
+        <link href="https://blog.mega.io/what-is-zero-knowledge-end-to-end-encryption"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't Be Fooled by this Summer of AI Hype]]></title>
-        <id>https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/</id>
-        <link href="https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"/>
+        <title type="html"><![CDATA[Show HN: Pyxel – A Python retro game engine with built-in art and sound editors]]></title>
+        <id>https://github.com/kitao/pyxel</id>
+        <link href="https://github.com/kitao/pyxel"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Si Sheppard – How did a few hundred Spanish soldiers topple two empires?]]></title>
-        <id>https://www.dwarkesh.com/p/si-sheppard</id>
-        <link href="https://www.dwarkesh.com/p/si-sheppard"/>
+        <title type="html"><![CDATA[Butterflies use optical illusions to dodge predators]]></title>
+        <id>https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators</id>
+        <link href="https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tech in cars can be used to snoop on you, Dutch spy chiefs warn]]></title>
-        <id>https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports</id>
-        <link href="https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports"/>
+        <title type="html"><![CDATA[LibDragon (N64): Explicit Anti-AI Contributor Stance (GitHub Issue)]]></title>
+        <id>https://github.com/DragonMinded/libdragon/issues/1012</id>
+        <link href="https://github.com/DragonMinded/libdragon/issues/1012"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Several vulnerabilities have been discovered in the Linux kernel]]></title>
+        <id>https://lwn.net/Articles/1097401/</id>
+        <link href="https://lwn.net/Articles/1097401/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
@@ -134,6 +155,41 @@
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tech in cars can be used to snoop on you, Dutch spy chiefs warn]]></title>
+        <id>https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports</id>
+        <link href="https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Si Sheppard – How did a few hundred Spanish soldiers topple two empires?]]></title>
+        <id>https://www.dwarkesh.com/p/si-sheppard</id>
+        <link href="https://www.dwarkesh.com/p/si-sheppard"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Be Fooled by this Summer of AI Hype]]></title>
+        <id>https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/</id>
+        <link href="https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Smart Compilers Unleash GPUs for Scientific Solvers]]></title>
+        <id>https://blog.cheshmi.cc/lcd.html</id>
+        <link href="https://blog.cheshmi.cc/lcd.html"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A category 5 Reply-All storm [video]]]></title>
+        <id>https://www.youtube.com/shorts/Yj9EHWVZAIA</id>
+        <link href="https://www.youtube.com/shorts/Yj9EHWVZAIA"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Albertsons Companies is reimagining retail from the inside out]]></title>
         <id>https://openai.com/index/albertsons-reimagining-retail</id>
         <link href="https://openai.com/index/albertsons-reimagining-retail"/>
@@ -141,37 +197,9 @@
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why your .env.local change did nothing in Next.js or Vite]]></title>
-        <id>https://dev.to/arthur031221/why-your-envlocal-change-did-nothing-in-nextjs-or-vite-16lp</id>
-        <link href="https://dev.to/arthur031221/why-your-envlocal-change-did-nothing-in-nextjs-or-vite-16lp"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
-        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-39ga</id>
-        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-39ga"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reading any marketplace product page from a Chrome extension: JSON-LD first, selectors second]]></title>
-        <id>https://dev.to/neo_xia_3f4c019330af5fb9d/reading-any-marketplace-product-page-from-a-chrome-extension-json-ld-first-selectors-second-c2i</id>
-        <link href="https://dev.to/neo_xia_3f4c019330af5fb9d/reading-any-marketplace-product-page-from-a-chrome-extension-json-ld-first-selectors-second-c2i"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yatta JS launches Sunday, October 4]]></title>
-        <id>https://dev.to/psrockstar098/yatta-js-launches-sunday-october-4-1jm4</id>
-        <link href="https://dev.to/psrockstar098/yatta-js-launches-sunday-october-4-1jm4"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I track protein, not calories. So I built a dead-simple tracker for lifters.]]></title>
-        <id>https://dev.to/haoli/i-track-protein-not-calories-so-i-built-a-dead-simple-tracker-for-lifters-1bod</id>
-        <link href="https://dev.to/haoli/i-track-protein-not-calories-so-i-built-a-dead-simple-tracker-for-lifters-1bod"/>
+        <title type="html"><![CDATA[How I Shipped a Bilingual EN/ES Calculator Site on Next.js Static Generation]]></title>
+        <id>https://dev.to/mubeenkhaaan/how-i-shipped-a-bilingual-enes-calculator-site-on-nextjs-static-generation-4no1</id>
+        <link href="https://dev.to/mubeenkhaaan/how-i-shipped-a-bilingual-enes-calculator-site-on-nextjs-static-generation-4no1"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
@@ -183,44 +211,44 @@
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This very fancy e-bike is one of the first to go semi-solid state]]></title>
-        <id>https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery</id>
-        <link href="https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I track protein, not calories. So I built a dead-simple tracker for lifters.]]></title>
+        <id>https://dev.to/haoli/i-track-protein-not-calories-so-i-built-a-dead-simple-tracker-for-lifters-1bod</id>
+        <link href="https://dev.to/haoli/i-track-protein-not-calories-so-i-built-a-dead-simple-tracker-for-lifters-1bod"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie]]></title>
-        <id>https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie</id>
-        <link href="https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Yatta JS launches Sunday, October 4]]></title>
+        <id>https://dev.to/psrockstar098/yatta-js-launches-sunday-october-4-1jm4</id>
+        <link href="https://dev.to/psrockstar098/yatta-js-launches-sunday-october-4-1jm4"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now]]></title>
-        <id>https://www.theverge.com/tech/1002980/google-gemini-4-argon</id>
-        <link href="https://www.theverge.com/tech/1002980/google-gemini-4-argon"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Reading any marketplace product page from a Chrome extension: JSON-LD first, selectors second]]></title>
+        <id>https://dev.to/neo_xia_3f4c019330af5fb9d/reading-any-marketplace-product-page-from-a-chrome-extension-json-ld-first-selectors-second-c2i</id>
+        <link href="https://dev.to/neo_xia_3f4c019330af5fb9d/reading-any-marketplace-product-page-from-a-chrome-extension-json-ld-first-selectors-second-c2i"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This blog could help you poop better]]></title>
-        <id>https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health</id>
-        <link href="https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
+        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-39ga</id>
+        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-39ga"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief]]></title>
-        <id>https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview</id>
-        <link href="https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Why your .env.local change did nothing in Next.js or Vite]]></title>
+        <id>https://dev.to/arthur031221/why-your-envlocal-change-did-nothing-in-nextjs-or-vite-16lp</id>
+        <link href="https://dev.to/arthur031221/why-your-envlocal-change-did-nothing-in-nextjs-or-vite-16lp"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Noise from Universal&#8217;s latest ride made rich locals furious, fast]]></title>
-        <id>https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise</id>
-        <link href="https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise"/>
+        <title type="html"><![CDATA[OpenAI’s new agent is a shot at Meta — but can it compete with free?]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
@@ -232,23 +260,51 @@
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI’s new agent is a shot at Meta — but can it compete with free?]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"/>
+        <title type="html"><![CDATA[Noise from Universal&#8217;s latest ride made rich locals furious, fast]]></title>
+        <id>https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise</id>
+        <link href="https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Mac Studio (M5 Ultra) Review: Unlimited Power]]></title>
-        <id>https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/</id>
-        <link href="https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/"/>
+        <title type="html"><![CDATA[&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief]]></title>
+        <id>https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview</id>
+        <link href="https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tractive Cat 6 Mini Review: A Fitbit for Your Cat]]></title>
-        <id>https://www.wired.com/review/tractive-cat-6-mini/</id>
-        <link href="https://www.wired.com/review/tractive-cat-6-mini/"/>
+        <title type="html"><![CDATA[This blog could help you poop better]]></title>
+        <id>https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health</id>
+        <link href="https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now]]></title>
+        <id>https://www.theverge.com/tech/1002980/google-gemini-4-argon</id>
+        <link href="https://www.theverge.com/tech/1002980/google-gemini-4-argon"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie]]></title>
+        <id>https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie</id>
+        <link href="https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This very fancy e-bike is one of the first to go semi-solid state]]></title>
+        <id>https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery</id>
+        <link href="https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing]]></title>
+        <id>https://www.wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing/</id>
+        <link href="https://www.wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing/"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
@@ -260,9 +316,16 @@
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing]]></title>
-        <id>https://www.wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing/</id>
-        <link href="https://www.wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing/"/>
+        <title type="html"><![CDATA[Tractive Cat 6 Mini Review: A Fitbit for Your Cat]]></title>
+        <id>https://www.wired.com/review/tractive-cat-6-mini/</id>
+        <link href="https://www.wired.com/review/tractive-cat-6-mini/"/>
+        <updated>2026-09-30T16:00:00.000Z</updated>
+        <published>2026-09-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Mac Studio (M5 Ultra) Review: Unlimited Power]]></title>
+        <id>https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/</id>
+        <link href="https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
@@ -295,72 +358,9 @@
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[To Grieve, or Not to Grieve?]]></title>
-        <id>https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/</id>
-        <link href="https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The price of artificial thought has rapidly decreased faster than any technology]]></title>
-        <id>https://epoch.ai/publications/the-plunging-price-of-thought</id>
-        <link href="https://epoch.ai/publications/the-plunging-price-of-thought"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Interview with Bill Gates on AI]]></title>
-        <id>https://www.youtube.com/watch?v=A_156w0aYtU</id>
-        <link href="https://www.youtube.com/watch?v=A_156w0aYtU"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["You're Not Crazy": A Case of New-Onset AI-Associated Psychosis]]></title>
-        <id>https://innovationscns.com/youre-not-crazy-a-case-of-new-onset-ai-associated-psychosis/</id>
-        <link href="https://innovationscns.com/youre-not-crazy-a-case-of-new-onset-ai-associated-psychosis/"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What managing emergencies at Burning Man teaches about tech incident management]]></title>
-        <id>https://greatcircle.com/blog/2026/09/29/burning-man-incident-management/</id>
-        <link href="https://greatcircle.com/blog/2026/09/29/burning-man-incident-management/"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Bombadier beetle, Brachinus crepitans, found at Hampshire, England, in 2023]]></title>
-        <id>https://collections.hampshireculture.org.uk/object/insect-coleoptera-beetle-11</id>
-        <link href="https://collections.hampshireculture.org.uk/object/insect-coleoptera-beetle-11"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: DOMolition – turn any web page into a destructible platformer]]></title>
-        <id>https://domolition.chirkut.xyz/</id>
-        <link href="https://domolition.chirkut.xyz/"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is sandboxing sufficient to contain rogue agents?]]></title>
-        <id>https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/</id>
-        <link href="https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Second judge blocks $100k fee for new H-1B worker visas]]></title>
-        <id>https://www.usnews.com/news/politics/articles/2026-09-30/second-judge-blocks-trumps-100-000-fee-for-new-h-1b-worker-visas</id>
-        <link href="https://www.usnews.com/news/politics/articles/2026-09-30/second-judge-blocks-trumps-100-000-fee-for-new-h-1b-worker-visas"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent-db-scan – See what a Postgres login can do]]></title>
-        <id>https://github.com/vaultkit-inc/agent-db-scan</id>
-        <link href="https://github.com/vaultkit-inc/agent-db-scan"/>
+        <title type="html"><![CDATA[SubX (x86 Subset) Opcodes]]></title>
+        <id>https://github.com/akkartik/mu/blob/main/subx_opcodes</id>
+        <link href="https://github.com/akkartik/mu/blob/main/subx_opcodes"/>
         <updated>2026-09-30T16:00:00.000Z</updated>
         <published>2026-09-30T16:00:00.000Z</published>
     </entry>
