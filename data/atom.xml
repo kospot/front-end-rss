@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-02T02:01:37.327Z</updated>
+    <updated>2026-10-02T04:02:04.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -113,156 +113,37 @@
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI fires three workers over mishandling 'sensitive information']]></title>
-        <id>https://www.bbc.com/news/articles/c6y9z9r4ejzwo</id>
-        <link href="https://www.bbc.com/news/articles/c6y9z9r4ejzwo"/>
+        <title type="html"><![CDATA[Funtech Experience 2026]]></title>
+        <id>https://experience2026.funtech.inc/</id>
+        <link href="https://experience2026.funtech.inc/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pentagon launches Office of Religious Affairs, will report directly to Hegseth]]></title>
-        <id>https://www.militarytimes.com/news/pentagon-congress/2026/10/01/pentagon-launches-office-of-religious-affairs-will-report-directly-to-hegseth/</id>
-        <link href="https://www.militarytimes.com/news/pentagon-congress/2026/10/01/pentagon-launches-office-of-religious-affairs-will-report-directly-to-hegseth/"/>
+        <title type="html"><![CDATA[Show HN: Fast Ollama like router that gives a text-only model eyes and ears]]></title>
+        <id>https://github.com/SpaceSwordAI/funcroute</id>
+        <link href="https://github.com/SpaceSwordAI/funcroute"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A userspace only nwing client for Tailscale nw]]></title>
-        <id>https://github.com/krishnakumar4a4/tail-userspace</id>
-        <link href="https://github.com/krishnakumar4a4/tail-userspace"/>
+        <title type="html"><![CDATA[Running Windows 11 and Server 2025 with macOS Virtualization.framework]]></title>
+        <id>https://mustafaakin.dev/blog/windows-on-tart/</id>
+        <link href="https://mustafaakin.dev/blog/windows-on-tart/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pg_redact: Content-aware PII redaction with Jev, enforced in Postgres]]></title>
-        <id>https://neon.com/blog/pg-redact-content-aware-pii-redaction-with-jev-enforced-in-postgres</id>
-        <link href="https://neon.com/blog/pg-redact-content-aware-pii-redaction-with-jev-enforced-in-postgres"/>
+        <title type="html"><![CDATA[Parsing compressed JSON at 40 GB/s]]></title>
+        <id>https://lemire.me/blog/2026/10/01/parsing-compressed-json-at-40-gb-s/</id>
+        <link href="https://lemire.me/blog/2026/10/01/parsing-compressed-json-at-40-gb-s/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exhaling may speed up reaction times]]></title>
-        <id>https://www.sciencenews.org/article/reaction-times-sync-breathing-brain</id>
-        <link href="https://www.sciencenews.org/article/reaction-times-sync-breathing-brain"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luainstaller: "Pyinstaller" for Lua [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ctYfIRZeuYc</id>
-        <link href="https://www.youtube.com/watch?v=ctYfIRZeuYc"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apex: Agentic coding for mobile and web, fluent in React]]></title>
-        <id>https://apex.callstack.com/</id>
-        <link href="https://apex.callstack.com/"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toronto hospital to expand permanent housing program that reduces ER visits]]></title>
-        <id>https://www.cbc.ca/news/canada/toronto/ont-dunn-house-9.7365728</id>
-        <link href="https://www.cbc.ca/news/canada/toronto/ont-dunn-house-9.7365728"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI decompiling and combining Games: The Skate 3 in MW2 Mod is Unbelievable [video]]]></title>
-        <id>https://www.youtube.com/watch?v=I6BkcPdKQ8U</id>
-        <link href="https://www.youtube.com/watch?v=I6BkcPdKQ8U"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Praxis-1]]></title>
-        <id>https://runway.com/research/introducing-praxis-1</id>
-        <link href="https://runway.com/research/introducing-praxis-1"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bevy - a refreshingly simple data-driven game engine built in Rust]]></title>
-        <id>https://bevy.org/</id>
-        <link href="https://bevy.org/"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A category 5 Reply-All storm [video]]]></title>
-        <id>https://www.youtube.com/shorts/Yj9EHWVZAIA</id>
-        <link href="https://www.youtube.com/shorts/Yj9EHWVZAIA"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Smart Compilers Unleash GPUs for Scientific Solvers]]></title>
-        <id>https://blog.cheshmi.cc/lcd.html</id>
-        <link href="https://blog.cheshmi.cc/lcd.html"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Be Fooled by this Summer of AI Hype]]></title>
-        <id>https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/</id>
-        <link href="https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Si Sheppard – How did a few hundred Spanish soldiers topple two empires?]]></title>
-        <id>https://www.dwarkesh.com/p/si-sheppard</id>
-        <link href="https://www.dwarkesh.com/p/si-sheppard"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech in cars can be used to snoop on you, Dutch spy chiefs warn]]></title>
-        <id>https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports</id>
-        <link href="https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crafting Express – isolated local environments for AI coding agents]]></title>
-        <id>https://github.com/crafting-dev/express</id>
-        <link href="https://github.com/crafting-dev/express"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Several vulnerabilities have been discovered in the Linux kernel]]></title>
-        <id>https://lwn.net/Articles/1097401/</id>
-        <link href="https://lwn.net/Articles/1097401/"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibDragon (N64): Explicit Anti-AI Contributor Stance (GitHub Issue)]]></title>
-        <id>https://github.com/DragonMinded/libdragon/issues/1012</id>
-        <link href="https://github.com/DragonMinded/libdragon/issues/1012"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Butterflies use optical illusions to dodge predators]]></title>
-        <id>https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators</id>
-        <link href="https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Pyxel – A Python retro game engine with built-in art and sound editors]]></title>
-        <id>https://github.com/kitao/pyxel</id>
-        <link href="https://github.com/kitao/pyxel"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is zero-knowledge, end-to-end encryption?]]></title>
-        <id>https://blog.mega.io/what-is-zero-knowledge-end-to-end-encryption</id>
-        <link href="https://blog.mega.io/what-is-zero-knowledge-end-to-end-encryption"/>
+        <title type="html"><![CDATA[Greg Kroah-Hartman – Security in the LLM Age [video]]]></title>
+        <id>https://www.youtube.com/watch?v=NnV_cWeoo5Q</id>
+        <link href="https://www.youtube.com/watch?v=NnV_cWeoo5Q"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
@@ -274,6 +155,160 @@
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What is zero-knowledge, end-to-end encryption?]]></title>
+        <id>https://blog.mega.io/what-is-zero-knowledge-end-to-end-encryption</id>
+        <link href="https://blog.mega.io/what-is-zero-knowledge-end-to-end-encryption"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Pyxel – A Python retro game engine with built-in art and sound editors]]></title>
+        <id>https://github.com/kitao/pyxel</id>
+        <link href="https://github.com/kitao/pyxel"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Butterflies use optical illusions to dodge predators]]></title>
+        <id>https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators</id>
+        <link href="https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibDragon (N64): Explicit Anti-AI Contributor Stance (GitHub Issue)]]></title>
+        <id>https://github.com/DragonMinded/libdragon/issues/1012</id>
+        <link href="https://github.com/DragonMinded/libdragon/issues/1012"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Several vulnerabilities have been discovered in the Linux kernel]]></title>
+        <id>https://lwn.net/Articles/1097401/</id>
+        <link href="https://lwn.net/Articles/1097401/"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crafting Express – isolated local environments for AI coding agents]]></title>
+        <id>https://github.com/crafting-dev/express</id>
+        <link href="https://github.com/crafting-dev/express"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech in cars can be used to snoop on you, Dutch spy chiefs warn]]></title>
+        <id>https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports</id>
+        <link href="https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Si Sheppard – How did a few hundred Spanish soldiers topple two empires?]]></title>
+        <id>https://www.dwarkesh.com/p/si-sheppard</id>
+        <link href="https://www.dwarkesh.com/p/si-sheppard"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Be Fooled by this Summer of AI Hype]]></title>
+        <id>https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/</id>
+        <link href="https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Smart Compilers Unleash GPUs for Scientific Solvers]]></title>
+        <id>https://blog.cheshmi.cc/lcd.html</id>
+        <link href="https://blog.cheshmi.cc/lcd.html"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A category 5 Reply-All storm [video]]]></title>
+        <id>https://www.youtube.com/shorts/Yj9EHWVZAIA</id>
+        <link href="https://www.youtube.com/shorts/Yj9EHWVZAIA"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bevy - a refreshingly simple data-driven game engine built in Rust]]></title>
+        <id>https://bevy.org/</id>
+        <link href="https://bevy.org/"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Praxis-1]]></title>
+        <id>https://runway.com/research/introducing-praxis-1</id>
+        <link href="https://runway.com/research/introducing-praxis-1"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI decompiling and combining Games: The Skate 3 in MW2 Mod is Unbelievable [video]]]></title>
+        <id>https://www.youtube.com/watch?v=I6BkcPdKQ8U</id>
+        <link href="https://www.youtube.com/watch?v=I6BkcPdKQ8U"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toronto hospital to expand permanent housing program that reduces ER visits]]></title>
+        <id>https://www.cbc.ca/news/canada/toronto/ont-dunn-house-9.7365728</id>
+        <link href="https://www.cbc.ca/news/canada/toronto/ont-dunn-house-9.7365728"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apex: Agentic coding for mobile and web, fluent in React]]></title>
+        <id>https://apex.callstack.com/</id>
+        <link href="https://apex.callstack.com/"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luainstaller: "Pyinstaller" for Lua [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ctYfIRZeuYc</id>
+        <link href="https://www.youtube.com/watch?v=ctYfIRZeuYc"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exhaling may speed up reaction times]]></title>
+        <id>https://www.sciencenews.org/article/reaction-times-sync-breathing-brain</id>
+        <link href="https://www.sciencenews.org/article/reaction-times-sync-breathing-brain"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pg_redact: Content-aware PII redaction with Jev, enforced in Postgres]]></title>
+        <id>https://neon.com/blog/pg-redact-content-aware-pii-redaction-with-jev-enforced-in-postgres</id>
+        <link href="https://neon.com/blog/pg-redact-content-aware-pii-redaction-with-jev-enforced-in-postgres"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A userspace only nwing client for Tailscale nw]]></title>
+        <id>https://github.com/krishnakumar4a4/tail-userspace</id>
+        <link href="https://github.com/krishnakumar4a4/tail-userspace"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentagon launches Office of Religious Affairs, will report directly to Hegseth]]></title>
+        <id>https://www.militarytimes.com/news/pentagon-congress/2026/10/01/pentagon-launches-office-of-religious-affairs-will-report-directly-to-hegseth/</id>
+        <link href="https://www.militarytimes.com/news/pentagon-congress/2026/10/01/pentagon-launches-office-of-religious-affairs-will-report-directly-to-hegseth/"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI fires three workers over mishandling 'sensitive information']]></title>
+        <id>https://www.bbc.com/news/articles/c6y9z9r4ejzwo</id>
+        <link href="https://www.bbc.com/news/articles/c6y9z9r4ejzwo"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <published>2026-10-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Albertsons Companies is reimagining retail from the inside out]]></title>
         <id>https://openai.com/index/albertsons-reimagining-retail</id>
         <link href="https://openai.com/index/albertsons-reimagining-retail"/>
@@ -281,87 +316,52 @@
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Processing video in the browser without ffmpeg.wasm: WebCodecs + MediaBunny, 95s 9s]]></title>
-        <id>https://dev.to/sharksevenro/processing-video-in-the-browser-without-ffmpegwasm-webcodecs-mediabunny-95s-9s-34p</id>
-        <link href="https://dev.to/sharksevenro/processing-video-in-the-browser-without-ffmpegwasm-webcodecs-mediabunny-95s-9s-34p"/>
+        <title type="html"><![CDATA[EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents]]></title>
+        <id>https://arxiv.org/abs/2609.38193</id>
+        <link href="https://arxiv.org/abs/2609.38193"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Voice-Over Tool for YouTube Videos]]></title>
-        <id>https://dev.to/voice_developer/how-to-build-a-voice-over-tool-for-youtube-videos-56le</id>
-        <link href="https://dev.to/voice_developer/how-to-build-a-voice-over-tool-for-youtube-videos-56le"/>
+        <title type="html"><![CDATA[A Moving-Horizon Approximate Branch-and-Reduce Method for Deep Classification Trees]]></title>
+        <id>https://arxiv.org/abs/2609.38194</id>
+        <link href="https://arxiv.org/abs/2609.38194"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MCP validate_vast Passes the XML the Agent Pasted. The Live Tag URL Still Has Wrappers.]]></title>
-        <id>https://dev.to/aleksuix/mcp-validatevast-passes-the-xml-the-agent-pasted-the-live-tag-url-still-has-wrappers-580b</id>
-        <link href="https://dev.to/aleksuix/mcp-validatevast-passes-the-xml-the-agent-pasted-the-live-tag-url-still-has-wrappers-580b"/>
+        <title type="html"><![CDATA[A Data-Free Physics-Informed Neural Operator for Level-Set Interface Advection]]></title>
+        <id>https://arxiv.org/abs/2609.38195</id>
+        <link href="https://arxiv.org/abs/2609.38195"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your news app works on localhost and breaks on deploy. Here's what each news API's free tier actually allows]]></title>
-        <id>https://dev.to/noozzzzz/your-news-app-works-on-localhost-and-breaks-on-deploy-heres-what-each-news-apis-free-tier-308l</id>
-        <link href="https://dev.to/noozzzzz/your-news-app-works-on-localhost-and-breaks-on-deploy-heres-what-each-news-apis-free-tier-308l"/>
+        <title type="html"><![CDATA[DualCast: A Dual-Path Language Model for Bimodal Financial Time-Series Forecasting]]></title>
+        <id>https://arxiv.org/abs/2609.38197</id>
+        <link href="https://arxiv.org/abs/2609.38197"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why your .env.local change did nothing in Next.js or Vite]]></title>
-        <id>https://dev.to/arthur031221/why-your-envlocal-change-did-nothing-in-nextjs-or-vite-16lp</id>
-        <link href="https://dev.to/arthur031221/why-your-envlocal-change-did-nothing-in-nextjs-or-vite-16lp"/>
+        <title type="html"><![CDATA[FlashDiffusion: Fused Tiled Kernel Spectral Decomposition]]></title>
+        <id>https://arxiv.org/abs/2609.38198</id>
+        <link href="https://arxiv.org/abs/2609.38198"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
-        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-39ga</id>
-        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-39ga"/>
+        <title type="html"><![CDATA[Function-Space Transformer with Adaptive Anchors]]></title>
+        <id>https://arxiv.org/abs/2609.38348</id>
+        <link href="https://arxiv.org/abs/2609.38348"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reading any marketplace product page from a Chrome extension: JSON-LD first, selectors second]]></title>
-        <id>https://dev.to/neo_xia_3f4c019330af5fb9d/reading-any-marketplace-product-page-from-a-chrome-extension-json-ld-first-selectors-second-c2i</id>
-        <link href="https://dev.to/neo_xia_3f4c019330af5fb9d/reading-any-marketplace-product-page-from-a-chrome-extension-json-ld-first-selectors-second-c2i"/>
+        <title type="html"><![CDATA[Learning to Plan from Random Exploration]]></title>
+        <id>https://arxiv.org/abs/2609.38383</id>
+        <link href="https://arxiv.org/abs/2609.38383"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yatta JS launches Sunday, October 4]]></title>
-        <id>https://dev.to/psrockstar098/yatta-js-launches-sunday-october-4-1jm4</id>
-        <link href="https://dev.to/psrockstar098/yatta-js-launches-sunday-october-4-1jm4"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I track protein, not calories. So I built a dead-simple tracker for lifters.]]></title>
-        <id>https://dev.to/haoli/i-track-protein-not-calories-so-i-built-a-dead-simple-tracker-for-lifters-1bod</id>
-        <link href="https://dev.to/haoli/i-track-protein-not-calories-so-i-built-a-dead-simple-tracker-for-lifters-1bod"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Props in React – Introduction]]></title>
-        <id>https://dev.to/abishek_m_82/props-in-react-introduction-15m4</id>
-        <link href="https://dev.to/abishek_m_82/props-in-react-introduction-15m4"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Shipped a Bilingual EN/ES Calculator Site on Next.js Static Generation]]></title>
-        <id>https://dev.to/mubeenkhaaan/how-i-shipped-a-bilingual-enes-calculator-site-on-nextjs-static-generation-4no1</id>
-        <link href="https://dev.to/mubeenkhaaan/how-i-shipped-a-bilingual-enes-calculator-site-on-nextjs-static-generation-4no1"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s new agent is a shot at Meta — but can it compete with free?]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <published>2026-09-30T16:00:00.000Z</published>
     </entry>
 </feed>
