@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-02T22:01:55.721Z</updated>
+    <updated>2026-10-03T00:01:34.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -57,13 +57,6 @@
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RAG vs. Long Context in 2026: When Retrieval Still Wins]]></title>
-        <id>https://pub.towardsai.net/rag-vs-long-context-in-2026-when-retrieval-still-wins-e6ebad9a4096?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/rag-vs-long-context-in-2026-when-retrieval-still-wins-e6ebad9a4096?source=rss----98111c9905da---4"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Built My Own MCP Server in 80 Lines of Python. Now Claude Knows My Sales Pipeline.]]></title>
         <id>https://pub.towardsai.net/built-my-own-mcp-server-in-80-lines-of-python-now-claude-knows-my-sales-pipeline-2331bd9d5f3b?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/built-my-own-mcp-server-in-80-lines-of-python-now-claude-knows-my-sales-pipeline-2331bd9d5f3b?source=rss----98111c9905da---4"/>
@@ -71,44 +64,58 @@
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I drew a 4D tesseract in Three.js]]></title>
-        <id>https://dev.to/jonasjavier/how-i-drew-a-4d-tesseract-in-threejs-1npc</id>
-        <link href="https://dev.to/jonasjavier/how-i-drew-a-4d-tesseract-in-threejs-1npc"/>
+        <title type="html"><![CDATA[RAG vs. Long Context in 2026: When Retrieval Still Wins]]></title>
+        <id>https://pub.towardsai.net/rag-vs-long-context-in-2026-when-retrieval-still-wins-e6ebad9a4096?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/rag-vs-long-context-in-2026-when-retrieval-still-wins-e6ebad9a4096?source=rss----98111c9905da---4"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How JavaScript Is Defined: From ECMAScript to Array.prototype.map]]></title>
-        <id>https://dev.to/rafael_dev/how-javascript-is-defined-from-ecmascript-to-arrayprototypemap-5971</id>
-        <link href="https://dev.to/rafael_dev/how-javascript-is-defined-from-ecmascript-to-arrayprototypemap-5971"/>
+        <title type="html"><![CDATA[美团智播——数字人直播技术创新与实践]]></title>
+        <id>https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html</id>
+        <link href="https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Your LLM Architecture is Flawed: Mastering Dot-and-Index Paths and Context Isolation in Jev]]></title>
-        <id>https://dev.to/programmingcentral/why-your-llm-architecture-is-flawed-mastering-dot-and-index-paths-and-context-isolation-in-jev-4ie8</id>
-        <link href="https://dev.to/programmingcentral/why-your-llm-architecture-is-flawed-mastering-dot-and-index-paths-and-context-isolation-in-jev-4ie8"/>
+        <title type="html"><![CDATA[Optimizing JavaScript Doom Game for Level Stability, Android Performance, and WebRTC Multiplayer Without Server]]></title>
+        <id>https://dev.to/pavkode/optimizing-javascript-doom-game-for-level-stability-android-performance-and-webrtc-multiplayer-41l4</id>
+        <link href="https://dev.to/pavkode/optimizing-javascript-doom-game-for-level-stability-android-performance-and-webrtc-multiplayer-41l4"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uploading Attachments to Jira Service Management Cloud Assets Without Public API Documentation]]></title>
-        <id>https://dev.to/mihai_leanzero/uploading-attachments-to-jira-service-management-cloud-assets-without-public-api-documentation-ll6</id>
-        <link href="https://dev.to/mihai_leanzero/uploading-attachments-to-jira-service-management-cloud-assets-without-public-api-documentation-ll6"/>
+        <title type="html"><![CDATA[InfraWire VPS Hosting in 2026: Which Server Type Is Right for Your Project?]]></title>
+        <id>https://dev.to/loubna_yasmine_a8991d2d93/infrawire-vps-hosting-in-2026-which-server-type-is-right-for-your-project-50kd</id>
+        <link href="https://dev.to/loubna_yasmine_a8991d2d93/infrawire-vps-hosting-in-2026-which-server-type-is-right-for-your-project-50kd"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Matrix: Python List Comprehensions, Generators, and When to Use Each]]></title>
-        <id>https://dev.to/timevolt/the-matrix-python-list-comprehensions-generators-and-when-to-use-each-1nle</id>
-        <link href="https://dev.to/timevolt/the-matrix-python-list-comprehensions-generators-and-when-to-use-each-1nle"/>
+        <title type="html"><![CDATA[Create an AI Voice Assistant with ElevenLabs and Node.js]]></title>
+        <id>https://dev.to/voice_developer/create-an-ai-voice-assistant-with-elevenlabs-and-nodejs-2nci</id>
+        <link href="https://dev.to/voice_developer/create-an-ai-voice-assistant-with-elevenlabs-and-nodejs-2nci"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Array Methods You Must Know]]></title>
-        <id>https://dev.to/soubhagya_dash/array-methods-you-must-know-21o3</id>
-        <link href="https://dev.to/soubhagya_dash/array-methods-you-must-know-21o3"/>
+        <title type="html"><![CDATA[Microsoft Graph to Jira Assets User Ingestion]]></title>
+        <id>https://dev.to/mihai_leanzero/microsoft-graph-to-jira-assets-user-ingestion-2jlf</id>
+        <link href="https://dev.to/mihai_leanzero/microsoft-graph-to-jira-assets-user-ingestion-2jlf"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the OpenTelemetry browser SDK wouldn't start on Safari 17]]></title>
+        <id>https://dev.to/adityareddy_dev/why-the-opentelemetry-browser-sdk-wouldnt-start-on-safari-17-55j5</id>
+        <link href="https://dev.to/adityareddy_dev/why-the-opentelemetry-browser-sdk-wouldnt-start-on-safari-17-55j5"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The three startup gates in Spirestorm's browser adapter]]></title>
+        <id>https://dev.to/nextgenrungames/the-three-startup-gates-in-spirestorms-browser-adapter-2031</id>
+        <link href="https://dev.to/nextgenrungames/the-three-startup-gates-in-spirestorms-browser-adapter-2031"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
@@ -120,9 +127,44 @@
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The three startup gates in Spirestorm's browser adapter]]></title>
-        <id>https://dev.to/nextgenrungames/the-three-startup-gates-in-spirestorms-browser-adapter-2031</id>
-        <link href="https://dev.to/nextgenrungames/the-three-startup-gates-in-spirestorms-browser-adapter-2031"/>
+        <title type="html"><![CDATA[Array Methods You Must Know]]></title>
+        <id>https://dev.to/soubhagya_dash/array-methods-you-must-know-21o3</id>
+        <link href="https://dev.to/soubhagya_dash/array-methods-you-must-know-21o3"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Matrix: Python List Comprehensions, Generators, and When to Use Each]]></title>
+        <id>https://dev.to/timevolt/the-matrix-python-list-comprehensions-generators-and-when-to-use-each-1nle</id>
+        <link href="https://dev.to/timevolt/the-matrix-python-list-comprehensions-generators-and-when-to-use-each-1nle"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uploading Attachments to Jira Service Management Cloud Assets Without Public API Documentation]]></title>
+        <id>https://dev.to/mihai_leanzero/uploading-attachments-to-jira-service-management-cloud-assets-without-public-api-documentation-ll6</id>
+        <link href="https://dev.to/mihai_leanzero/uploading-attachments-to-jira-service-management-cloud-assets-without-public-api-documentation-ll6"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your LLM Architecture is Flawed: Mastering Dot-and-Index Paths and Context Isolation in Jev]]></title>
+        <id>https://dev.to/programmingcentral/why-your-llm-architecture-is-flawed-mastering-dot-and-index-paths-and-context-isolation-in-jev-4ie8</id>
+        <link href="https://dev.to/programmingcentral/why-your-llm-architecture-is-flawed-mastering-dot-and-index-paths-and-context-isolation-in-jev-4ie8"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How JavaScript Is Defined: From ECMAScript to Array.prototype.map]]></title>
+        <id>https://dev.to/rafael_dev/how-javascript-is-defined-from-ecmascript-to-arrayprototypemap-5971</id>
+        <link href="https://dev.to/rafael_dev/how-javascript-is-defined-from-ecmascript-to-arrayprototypemap-5971"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I drew a 4D tesseract in Three.js]]></title>
+        <id>https://dev.to/jonasjavier/how-i-drew-a-4d-tesseract-in-threejs-1npc</id>
+        <link href="https://dev.to/jonasjavier/how-i-drew-a-4d-tesseract-in-threejs-1npc"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[Tmux Plugins Galore]]></title>
         <id>https://www.olafalders.com/2026/10/02/tmux-plugins-galore/</id>
         <link href="https://www.olafalders.com/2026/10/02/tmux-plugins-galore/"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI notifies 100 orgs about its AI agents bypassing their security controls]]></title>
-        <id>https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/</id>
-        <link href="https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guided Vision in Gemini Live: built for accessibility]]></title>
-        <id>https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/</id>
-        <link href="https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git-Carrier]]></title>
-        <id>https://fosstodon.org/@mollyim/117370617094247940</id>
-        <link href="https://fosstodon.org/@mollyim/117370617094247940"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI data center e-waste problem is huge]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's rise as a health tech superpower is important]]></title>
-        <id>https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/</id>
-        <link href="https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <published>2026-10-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI cuts ties with 3 safety researchers]]></title>
-        <id>https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/</id>
-        <link href="https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"/>
         <updated>2026-10-01T16:00:00.000Z</updated>
         <published>2026-10-01T16:00:00.000Z</published>
     </entry>
