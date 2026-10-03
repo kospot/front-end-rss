@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-03T15:04:37.411Z</updated>
+    <updated>2026-10-03T22:06:49.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,97 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Capcom is preparing for a ‘future where we create games together with AI’]]></title>
+        <id>https://www.theverge.com/games/1004418/capcom-ai-game-development</id>
+        <link href="https://www.theverge.com/games/1004418/capcom-ai-game-development"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike]]></title>
+        <id>https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/</id>
+        <link href="https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theaster Gates bets on fine China]]></title>
+        <id>https://text.npr.org/nx-s1-5977069</id>
+        <link href="https://text.npr.org/nx-s1-5977069"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kent Beck: Software Engineering in the Age of AI [video]]]></title>
+        <id>https://www.youtube.com/watch?v=F8fBgDCf2Y4</id>
+        <link href="https://www.youtube.com/watch?v=F8fBgDCf2Y4"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Metaphysical Impossibility of AI [video]]]></title>
+        <id>https://www.youtube.com/watch?v=nzCtuKSt3gA</id>
+        <link href="https://www.youtube.com/watch?v=nzCtuKSt3gA"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A blind listening test: can you hear our audio watermark?]]></title>
+        <id>https://2afc.parseval.net/?src=show-hn</id>
+        <link href="https://2afc.parseval.net/?src=show-hn"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Server-Side Rendering (SSR) and Hydration: How Modern Web Applications Become Fast and Interactive]]></title>
+        <id>https://dev.to/abanoubkerols/server-side-rendering-ssr-and-hydration-how-modern-web-applications-become-fast-and-interactive-4c9o</id>
+        <link href="https://dev.to/abanoubkerols/server-side-rendering-ssr-and-hydration-how-modern-web-applications-become-fast-and-interactive-4c9o"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run Lighthouse on hundreds of pages from Node (no PageSpeed API key), and why the scores move]]></title>
+        <id>https://dev.to/swiftkit_dev/run-lighthouse-on-hundreds-of-pages-from-node-no-pagespeed-api-key-and-why-the-scores-move-2dk4</id>
+        <link href="https://dev.to/swiftkit_dev/run-lighthouse-on-hundreds-of-pages-from-node-no-pagespeed-api-key-and-why-the-scores-move-2dk4"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why crypto.getRandomValues is not the whole password generator]]></title>
+        <id>https://dev.to/edchapman/why-cryptogetrandomvalues-is-not-the-whole-password-generator-cco</id>
+        <link href="https://dev.to/edchapman/why-cryptogetrandomvalues-is-not-the-whole-password-generator-cco"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auditing a Jira Migration: a Wrong Field ID Counts to Zero, Not to an Error]]></title>
+        <id>https://dev.to/mihai_leanzero/auditing-a-jira-migration-a-wrong-field-id-counts-to-zero-not-to-an-error-209p</id>
+        <link href="https://dev.to/mihai_leanzero/auditing-a-jira-migration-a-wrong-field-id-counts-to-zero-not-to-an-error-209p"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate Interactive Three.js 3D Web Scenes with Zero Build Setup]]></title>
+        <id>https://dev.to/andmd555/how-to-generate-interactive-threejs-3d-web-scenes-with-zero-build-setup-4g8n</id>
+        <link href="https://dev.to/andmd555/how-to-generate-interactive-threejs-3d-web-scenes-with-zero-build-setup-4g8n"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
+        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-46cc</id>
+        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-46cc"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Type-Safe AI Decisions in TypeScript: How to Consume Jev Without Crashing in Production]]></title>
+        <id>https://dev.to/programmingcentral/type-safe-ai-decisions-in-typescript-how-to-consume-jev-without-crashing-in-production-455b</id>
+        <link href="https://dev.to/programmingcentral/type-safe-ai-decisions-in-typescript-how-to-consume-jev-without-crashing-in-production-455b"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验]]></title>
         <id>https://sspai.com/post/114922</id>
         <link href="https://sspai.com/post/114922"/>
@@ -22,23 +113,9 @@
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta open sources code to let you make Muse AI gadgets]]></title>
-        <id>https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</id>
-        <link href="https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix is pivoting away from prestige]]></title>
-        <id>https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig</id>
-        <link href="https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nacon’s new PS5 controller can mix audio from your phone and console]]></title>
-        <id>https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller</id>
-        <link href="https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller"/>
+        <title type="html"><![CDATA[Splice CEO Kakul Srivastava thinks AI emails are killing conversations]]></title>
+        <id>https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview</id>
+        <link href="https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
@@ -50,16 +127,23 @@
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Muse Creates Detailed Profiles of All Your Friends and Family]]></title>
-        <id>https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/</id>
-        <link href="https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/"/>
+        <title type="html"><![CDATA[Nacon’s new PS5 controller can mix audio from your phone and console]]></title>
+        <id>https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller</id>
+        <link href="https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off]]></title>
-        <id>https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/</id>
-        <link href="https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/"/>
+        <title type="html"><![CDATA[Netflix is pivoting away from prestige]]></title>
+        <id>https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig</id>
+        <link href="https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta open sources code to let you make Muse AI gadgets]]></title>
+        <id>https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</id>
+        <link href="https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
@@ -71,16 +155,16 @@
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vessev built an electric ferry that almost flies]]></title>
-        <id>https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/</id>
-        <link href="https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/"/>
+        <title type="html"><![CDATA[This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off]]></title>
+        <id>https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/</id>
+        <link href="https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass]]></title>
-        <id>https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/</id>
-        <link href="https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"/>
+        <title type="html"><![CDATA[Muse Creates Detailed Profiles of All Your Friends and Family]]></title>
+        <id>https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/</id>
+        <link href="https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
@@ -92,212 +176,16 @@
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gobstopper – context compaction proxy for Claude Code and Codex]]></title>
-        <id>https://gobstopper.sh</id>
-        <link href="https://gobstopper.sh"/>
+        <title type="html"><![CDATA[Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass]]></title>
+        <id>https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/</id>
+        <link href="https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: RAG without embeddings, running in the browser (vanilla JavaScript)]]></title>
-        <id>https://github.com/gmaterni/ragindex</id>
-        <link href="https://github.com/gmaterni/ragindex"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swiss scientist soils underpants, wins silly science prize]]></title>
-        <id>https://www.cbc.ca/lite/story/9.7366091</id>
-        <link href="https://www.cbc.ca/lite/story/9.7366091"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI training crawlers hit my site 1,534 times. One fetch read the rights files]]></title>
-        <id>https://juanlentino.com/notes/the-rights-files-nobody-reads/</id>
-        <link href="https://juanlentino.com/notes/the-rights-files-nobody-reads/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Why don't we just use hashcat to evaluate GPU performance]]></title>
-        <id>https://news.ycombinator.com/item?id=49942621</id>
-        <link href="https://news.ycombinator.com/item?id=49942621"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot Flashing Guide Rev. 2.0 (2004)]]></title>
-        <id>https://archive.techarp.com/showarticle504a.html?pgno=0</id>
-        <link href="https://archive.techarp.com/showarticle504a.html?pgno=0"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI says hacking at scale is expensive to investigate]]></title>
-        <id>https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day</id>
-        <link href="https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: UsageAtlas(OSS), All your AI coding usage insights. One beautiful view]]></title>
-        <id>https://usageatlas.com</id>
-        <link href="https://usageatlas.com"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DJ_Dave – Give it 2 me [video]]]></title>
-        <id>https://www.youtube.com/watch?v=03lKVs-ZZMA</id>
-        <link href="https://www.youtube.com/watch?v=03lKVs-ZZMA"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BT accused of 'bullying' customers by pausing broadband in digital landline push]]></title>
-        <id>https://www.theguardian.com/business/2026/oct/03/bt-customers-broadband-digital-landline-switch-internet</id>
-        <link href="https://www.theguardian.com/business/2026/oct/03/bt-customers-broadband-digital-landline-switch-internet"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pete Hegseth: Speech to the Troops]]></title>
-        <id>https://www.youtube.com/watch?v=eUiY4VT5c2A</id>
-        <link href="https://www.youtube.com/watch?v=eUiY4VT5c2A"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Google Maps Scraper MCP]]></title>
-        <id>https://gmapscrawl.com/google-maps-scraper-mcp</id>
-        <link href="https://gmapscrawl.com/google-maps-scraper-mcp"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shed Etching 3D Transistors for Homemade RAM [video]]]></title>
-        <id>https://www.youtube.com/watch?v=iuXw9CZKFh8</id>
-        <link href="https://www.youtube.com/watch?v=iuXw9CZKFh8"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slovenia's .si domain sees surge in registrations after 'super intelligence']]></title>
-        <id>https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/</id>
-        <link href="https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence]]></title>
-        <id>https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/</id>
-        <link href="https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixora: A Python Library for Pixel Art Conversion]]></title>
-        <id>https://pypi.org/project/pixora/</id>
-        <link href="https://pypi.org/project/pixora/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math's pedagogical curse – Grant Sanderson [video]]]></title>
-        <id>https://www.youtube.com/watch?v=UOuxo6SA8Uc</id>
-        <link href="https://www.youtube.com/watch?v=UOuxo6SA8Uc"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mulleted, Meme-Loving Billionaire Behind Meta's Hit AI App]]></title>
-        <id>https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659</id>
-        <link href="https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What even are Cloudflare Durable Objects?]]></title>
-        <id>https://boristane.com/blog/what-are-cloudflare-durable-objects/</id>
-        <link href="https://boristane.com/blog/what-are-cloudflare-durable-objects/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Museum of All Shells – Every Shell Is the Same Formula [video]]]></title>
-        <id>https://www.youtube.com/watch?v=j4Ecdgn9GLg</id>
-        <link href="https://www.youtube.com/watch?v=j4Ecdgn9GLg"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory-Safe WebP Decoding]]></title>
-        <id>https://halide.cx/blog/wpd/</id>
-        <link href="https://halide.cx/blog/wpd/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could this be Microsoft's moment?]]></title>
-        <id>https://sjg.io/writing/could-this-finally-be-microsofts-moment/</id>
-        <link href="https://sjg.io/writing/could-this-finally-be-microsofts-moment/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Global Vision is a digital video archive project from 2002]]></title>
-        <id>https://archive.org/details/ngvision?tab=about</id>
-        <link href="https://archive.org/details/ngvision?tab=about"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The characters of plastics (2024)]]></title>
-        <id>https://yarchive.net/blog/plastics/</id>
-        <link href="https://yarchive.net/blog/plastics/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Server Side Cloud Swift SDK]]></title>
-        <id>https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/</id>
-        <link href="https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Without search, even the best AI models get 1 in 4 answers wrong]]></title>
-        <id>https://twitter.com/randal_olson/status/2105298222562582591</id>
-        <link href="https://twitter.com/randal_olson/status/2105298222562582591"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto thieves attack man in home]]></title>
-        <id>https://www.bbc.com/news/articles/c6eq84eygz0qo</id>
-        <link href="https://www.bbc.com/news/articles/c6eq84eygz0qo"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US appeals court blocks Minnesota law barring 'nudified' photos in xAI lawsuit]]></title>
-        <id>https://www.reuters.com/world/us-appeals-court-blocks-minnesotas-ai-nudification-law-now-xai-lawsuit-2026-10-02/</id>
-        <link href="https://www.reuters.com/world/us-appeals-court-blocks-minnesotas-ai-nudification-law-now-xai-lawsuit-2026-10-02/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[House prices across Europe: where they're rising fastest and why]]></title>
-        <id>https://www.euronews.com/2026/10/03/house-prices-keep-rising-across-europe-which-countries-saw-the-biggest-increases-and-why</id>
-        <link href="https://www.euronews.com/2026/10/03/house-prices-keep-rising-across-europe-which-countries-saw-the-biggest-increases-and-why"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 157]]></title>
-        <id>https://www.firefox.com/en-US/firefox/157.0/releasenotes/</id>
-        <link href="https://www.firefox.com/en-US/firefox/157.0/releasenotes/"/>
+        <title type="html"><![CDATA[Vessev built an electric ferry that almost flies]]></title>
+        <id>https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/</id>
+        <link href="https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
@@ -309,58 +197,170 @@
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A model guide for the GPT-6 family]]></title>
-        <id>https://openai.com/index/practical-guide-building-gpt-6</id>
-        <link href="https://openai.com/index/practical-guide-building-gpt-6"/>
+        <title type="html"><![CDATA[Firefox 157]]></title>
+        <id>https://www.firefox.com/en-US/firefox/157.0/releasenotes/</id>
+        <link href="https://www.firefox.com/en-US/firefox/157.0/releasenotes/"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transparent AI UX: 7 Rules for Designing AI People Actually Trust]]></title>
-        <id>https://pub.towardsai.net/transparent-ai-ux-7-rules-for-designing-ai-people-actually-trust-85de21d85ac5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/transparent-ai-ux-7-rules-for-designing-ai-people-actually-trust-85de21d85ac5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[House prices across Europe: where they're rising fastest and why]]></title>
+        <id>https://www.euronews.com/2026/10/03/house-prices-keep-rising-across-europe-which-countries-saw-the-biggest-increases-and-why</id>
+        <link href="https://www.euronews.com/2026/10/03/house-prices-keep-rising-across-europe-which-countries-saw-the-biggest-increases-and-why"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RAG vs. Long Context in 2026: When Retrieval Still Wins]]></title>
-        <id>https://pub.towardsai.net/rag-vs-long-context-in-2026-when-retrieval-still-wins-e6ebad9a4096?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/rag-vs-long-context-in-2026-when-retrieval-still-wins-e6ebad9a4096?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[US appeals court blocks Minnesota law barring 'nudified' photos in xAI lawsuit]]></title>
+        <id>https://www.reuters.com/world/us-appeals-court-blocks-minnesotas-ai-nudification-law-now-xai-lawsuit-2026-10-02/</id>
+        <link href="https://www.reuters.com/world/us-appeals-court-blocks-minnesotas-ai-nudification-law-now-xai-lawsuit-2026-10-02/"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Built My Own MCP Server in 80 Lines of Python. Now Claude Knows My Sales Pipeline.]]></title>
-        <id>https://pub.towardsai.net/built-my-own-mcp-server-in-80-lines-of-python-now-claude-knows-my-sales-pipeline-2331bd9d5f3b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/built-my-own-mcp-server-in-80-lines-of-python-now-claude-knows-my-sales-pipeline-2331bd9d5f3b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Crypto thieves attack man in home]]></title>
+        <id>https://www.bbc.com/news/articles/c6eq84eygz0qo</id>
+        <link href="https://www.bbc.com/news/articles/c6eq84eygz0qo"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Engineer’s Guide to YOLO Object Detection]]></title>
-        <id>https://pub.towardsai.net/yolo-object-detection-0eb6d71825c9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/yolo-object-detection-0eb6d71825c9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Without search, even the best AI models get 1 in 4 answers wrong]]></title>
+        <id>https://twitter.com/randal_olson/status/2105298222562582591</id>
+        <link href="https://twitter.com/randal_olson/status/2105298222562582591"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Sonnet 5.5 Rejects Forced Tool Use, and 3 of 5 Python Libraries Still Send It]]></title>
-        <id>https://pub.towardsai.net/claude-sonnet-5-5-rejects-forced-tool-use-and-3-of-5-python-libraries-still-send-it-5a63c8458957?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-sonnet-5-5-rejects-forced-tool-use-and-3-of-5-python-libraries-still-send-it-5a63c8458957?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Server Side Cloud Swift SDK]]></title>
+        <id>https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/</id>
+        <link href="https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Far is Adam from Natural Gradient Descent?]]></title>
-        <id>https://arxiv.org/abs/2610.00004</id>
-        <link href="https://arxiv.org/abs/2610.00004"/>
+        <title type="html"><![CDATA[The characters of plastics (2024)]]></title>
+        <id>https://yarchive.net/blog/plastics/</id>
+        <link href="https://yarchive.net/blog/plastics/"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law]]></title>
-        <id>https://arxiv.org/abs/2610.00009</id>
-        <link href="https://arxiv.org/abs/2610.00009"/>
+        <title type="html"><![CDATA[New Global Vision is a digital video archive project from 2002]]></title>
+        <id>https://archive.org/details/ngvision?tab=about</id>
+        <link href="https://archive.org/details/ngvision?tab=about"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could this be Microsoft's moment?]]></title>
+        <id>https://sjg.io/writing/could-this-finally-be-microsofts-moment/</id>
+        <link href="https://sjg.io/writing/could-this-finally-be-microsofts-moment/"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory-Safe WebP Decoding]]></title>
+        <id>https://halide.cx/blog/wpd/</id>
+        <link href="https://halide.cx/blog/wpd/"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Museum of All Shells – Every Shell Is the Same Formula [video]]]></title>
+        <id>https://www.youtube.com/watch?v=j4Ecdgn9GLg</id>
+        <link href="https://www.youtube.com/watch?v=j4Ecdgn9GLg"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What even are Cloudflare Durable Objects?]]></title>
+        <id>https://boristane.com/blog/what-are-cloudflare-durable-objects/</id>
+        <link href="https://boristane.com/blog/what-are-cloudflare-durable-objects/"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mulleted, Meme-Loving Billionaire Behind Meta's Hit AI App]]></title>
+        <id>https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659</id>
+        <link href="https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math's pedagogical curse – Grant Sanderson [video]]]></title>
+        <id>https://www.youtube.com/watch?v=UOuxo6SA8Uc</id>
+        <link href="https://www.youtube.com/watch?v=UOuxo6SA8Uc"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixora: A Python Library for Pixel Art Conversion]]></title>
+        <id>https://pypi.org/project/pixora/</id>
+        <link href="https://pypi.org/project/pixora/"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence]]></title>
+        <id>https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/</id>
+        <link href="https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slovenia's .si domain sees surge in registrations after 'super intelligence']]></title>
+        <id>https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/</id>
+        <link href="https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shed Etching 3D Transistors for Homemade RAM [video]]]></title>
+        <id>https://www.youtube.com/watch?v=iuXw9CZKFh8</id>
+        <link href="https://www.youtube.com/watch?v=iuXw9CZKFh8"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Google Maps Scraper MCP]]></title>
+        <id>https://gmapscrawl.com/google-maps-scraper-mcp</id>
+        <link href="https://gmapscrawl.com/google-maps-scraper-mcp"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pete Hegseth: Speech to the Troops]]></title>
+        <id>https://www.youtube.com/watch?v=eUiY4VT5c2A</id>
+        <link href="https://www.youtube.com/watch?v=eUiY4VT5c2A"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BT accused of 'bullying' customers by pausing broadband in digital landline push]]></title>
+        <id>https://www.theguardian.com/business/2026/oct/03/bt-customers-broadband-digital-landline-switch-internet</id>
+        <link href="https://www.theguardian.com/business/2026/oct/03/bt-customers-broadband-digital-landline-switch-internet"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DJ_Dave – Give it 2 me [video]]]></title>
+        <id>https://www.youtube.com/watch?v=03lKVs-ZZMA</id>
+        <link href="https://www.youtube.com/watch?v=03lKVs-ZZMA"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: UsageAtlas(OSS), All your AI coding usage insights. One beautiful view]]></title>
+        <id>https://usageatlas.com</id>
+        <link href="https://usageatlas.com"/>
+        <updated>2026-10-02T16:00:00.000Z</updated>
+        <published>2026-10-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI says hacking at scale is expensive to investigate]]></title>
+        <id>https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day</id>
+        <link href="https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
