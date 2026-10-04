@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-04T02:00:57.740Z</updated>
+    <updated>2026-10-04T04:01:36.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,107 +29,72 @@
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Driving slower beats driving less]]></title>
-        <id>https://maxmautner.com/2026/10/02/slower.html</id>
-        <link href="https://maxmautner.com/2026/10/02/slower.html"/>
+        <title type="html"><![CDATA[Show HN: LC3 VM in Golang]]></title>
+        <id>https://github.com/shraddhaag/toyvm</id>
+        <link href="https://github.com/shraddhaag/toyvm"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust's derive often implies inline]]></title>
-        <id>https://yossarian.net/til/post/rust-s-derive-often-implies-inline/</id>
-        <link href="https://yossarian.net/til/post/rust-s-derive-often-implies-inline/"/>
+        <title type="html"><![CDATA[The East Asian Fertility Disaster]]></title>
+        <id>https://twitter.com/MoreBirths/status/2097805266473324859</id>
+        <link href="https://twitter.com/MoreBirths/status/2097805266473324859"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Doubles Down on Rust]]></title>
-        <id>https://www.infoworld.com/article/4227839/microsoft-doubles-down-on-rust.html</id>
-        <link href="https://www.infoworld.com/article/4227839/microsoft-doubles-down-on-rust.html"/>
+        <title type="html"><![CDATA[Pi-based coding agent with hard budget caps]]></title>
+        <id>https://kimchi.dev/</id>
+        <link href="https://kimchi.dev/"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bob Cringely Has Died]]></title>
-        <id>https://news.ycombinator.com/item?id=49949438</id>
-        <link href="https://news.ycombinator.com/item?id=49949438"/>
+        <title type="html"><![CDATA[Forms in HTML Tables]]></title>
+        <id>https://forum.palemoon.org/viewtopic.php?t=33817</id>
+        <link href="https://forum.palemoon.org/viewtopic.php?t=33817"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Private capital is reshaping Hollywood moviemaking]]></title>
-        <id>https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html</id>
-        <link href="https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html"/>
+        <title type="html"><![CDATA[AI can clone your indie game, but not its soul]]></title>
+        <id>https://twitter.com/robertvaradan/status/2106061989122334778</id>
+        <link href="https://twitter.com/robertvaradan/status/2106061989122334778"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Theaster Gates bets on fine China]]></title>
-        <id>https://text.npr.org/nx-s1-5977069</id>
-        <link href="https://text.npr.org/nx-s1-5977069"/>
+        <title type="html"><![CDATA[China's space plane appears to have released a mystery object in orbit]]></title>
+        <id>https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit</id>
+        <link href="https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kent Beck: Software Engineering in the Age of AI [video]]]></title>
-        <id>https://www.youtube.com/watch?v=F8fBgDCf2Y4</id>
-        <link href="https://www.youtube.com/watch?v=F8fBgDCf2Y4"/>
+        <title type="html"><![CDATA[What September's Employment Numbers Say [video]]]></title>
+        <id>https://www.youtube.com/watch?v=mlZg8gQAUTk</id>
+        <link href="https://www.youtube.com/watch?v=mlZg8gQAUTk"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Metaphysical Impossibility of AI [video]]]></title>
-        <id>https://www.youtube.com/watch?v=nzCtuKSt3gA</id>
-        <link href="https://www.youtube.com/watch?v=nzCtuKSt3gA"/>
+        <title type="html"><![CDATA[Decoding Looped Transformers Better for Almost Free]]></title>
+        <id>https://arxiv.org/abs/2610.02185</id>
+        <link href="https://arxiv.org/abs/2610.02185"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A blind listening test: can you hear our audio watermark?]]></title>
-        <id>https://2afc.parseval.net/?src=show-hn</id>
-        <link href="https://2afc.parseval.net/?src=show-hn"/>
+        <title type="html"><![CDATA[How the bad science of AI doomerism is good for big business]]></title>
+        <id>https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/</id>
+        <link href="https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Self-Documenting Atmospheric Breakbeat]]></title>
-        <id>https://johnoestmannmusic.com/0010-a-shrine-of-teaching/</id>
-        <link href="https://johnoestmannmusic.com/0010-a-shrine-of-teaching/"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Declaring a Bird Extinct: The Median Wait Is 36 Years After the Last Sighting]]></title>
-        <id>https://birdshistory.com/how-long-to-declare-a-bird-extinct/</id>
-        <link href="https://birdshistory.com/how-long-to-declare-a-bird-extinct/"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: AgentiLoop Agent Mac GUI Agent Loop for macOS 14.6 or Later]]></title>
-        <id>https://agentiloop.ai/</id>
-        <link href="https://agentiloop.ai/"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["8-pinski" – EIGHT() bytes intro for MSDOS [video]]]></title>
-        <id>https://www.youtube.com/watch?v=9A-XJjnU5Oo</id>
-        <link href="https://www.youtube.com/watch?v=9A-XJjnU5Oo"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Unstoppable Green Revolution: Adam Tooze [video]]]></title>
-        <id>https://www.youtube.com/watch?v=BEmYzxc97K4</id>
-        <link href="https://www.youtube.com/watch?v=BEmYzxc97K4"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pipework problems when cancer spreads to an area bordering the brain]]></title>
-        <id>https://www.nature.com/articles/d41586-026-02783-z</id>
-        <link href="https://www.nature.com/articles/d41586-026-02783-z"/>
+        <title type="html"><![CDATA[Opus 5.5 and ElevenLabs MCP LeetCode explainer video]]></title>
+        <id>https://www.youtube.com/watch?v=vNRnP6oALmc</id>
+        <link href="https://www.youtube.com/watch?v=vNRnP6oALmc"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
@@ -141,9 +106,107 @@
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Opus 5.5 and ElevenLabs MCP LeetCode explainer video]]></title>
-        <id>https://www.youtube.com/watch?v=vNRnP6oALmc</id>
-        <link href="https://www.youtube.com/watch?v=vNRnP6oALmc"/>
+        <title type="html"><![CDATA[Pipework problems when cancer spreads to an area bordering the brain]]></title>
+        <id>https://www.nature.com/articles/d41586-026-02783-z</id>
+        <link href="https://www.nature.com/articles/d41586-026-02783-z"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Unstoppable Green Revolution: Adam Tooze [video]]]></title>
+        <id>https://www.youtube.com/watch?v=BEmYzxc97K4</id>
+        <link href="https://www.youtube.com/watch?v=BEmYzxc97K4"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["8-pinski" – EIGHT() bytes intro for MSDOS [video]]]></title>
+        <id>https://www.youtube.com/watch?v=9A-XJjnU5Oo</id>
+        <link href="https://www.youtube.com/watch?v=9A-XJjnU5Oo"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: AgentiLoop Agent Mac GUI Agent Loop for macOS 14.6 or Later]]></title>
+        <id>https://agentiloop.ai/</id>
+        <link href="https://agentiloop.ai/"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Declaring a Bird Extinct: The Median Wait Is 36 Years After the Last Sighting]]></title>
+        <id>https://birdshistory.com/how-long-to-declare-a-bird-extinct/</id>
+        <link href="https://birdshistory.com/how-long-to-declare-a-bird-extinct/"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Documenting Atmospheric Breakbeat]]></title>
+        <id>https://johnoestmannmusic.com/0010-a-shrine-of-teaching/</id>
+        <link href="https://johnoestmannmusic.com/0010-a-shrine-of-teaching/"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A blind listening test: can you hear our audio watermark?]]></title>
+        <id>https://2afc.parseval.net/?src=show-hn</id>
+        <link href="https://2afc.parseval.net/?src=show-hn"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Metaphysical Impossibility of AI [video]]]></title>
+        <id>https://www.youtube.com/watch?v=nzCtuKSt3gA</id>
+        <link href="https://www.youtube.com/watch?v=nzCtuKSt3gA"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kent Beck: Software Engineering in the Age of AI [video]]]></title>
+        <id>https://www.youtube.com/watch?v=F8fBgDCf2Y4</id>
+        <link href="https://www.youtube.com/watch?v=F8fBgDCf2Y4"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theaster Gates bets on fine China]]></title>
+        <id>https://text.npr.org/nx-s1-5977069</id>
+        <link href="https://text.npr.org/nx-s1-5977069"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Private capital is reshaping Hollywood moviemaking]]></title>
+        <id>https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html</id>
+        <link href="https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bob Cringely Has Died]]></title>
+        <id>https://news.ycombinator.com/item?id=49949438</id>
+        <link href="https://news.ycombinator.com/item?id=49949438"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Doubles Down on Rust]]></title>
+        <id>https://www.infoworld.com/article/4227839/microsoft-doubles-down-on-rust.html</id>
+        <link href="https://www.infoworld.com/article/4227839/microsoft-doubles-down-on-rust.html"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust's derive often implies inline]]></title>
+        <id>https://yossarian.net/til/post/rust-s-derive-often-implies-inline/</id>
+        <link href="https://yossarian.net/til/post/rust-s-derive-often-implies-inline/"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving slower beats driving less]]></title>
+        <id>https://maxmautner.com/2026/10/02/slower.html</id>
+        <link href="https://maxmautner.com/2026/10/02/slower.html"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
@@ -169,79 +232,16 @@
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open-Source PDF Editor for React. Here’s How to Add PDF Editing to Your App]]></title>
-        <id>https://dev.to/valeedanjum/open-source-pdf-editor-for-react-heres-how-to-add-pdf-editing-to-your-app-9i0</id>
-        <link href="https://dev.to/valeedanjum/open-source-pdf-editor-for-react-heres-how-to-add-pdf-editing-to-your-app-9i0"/>
+        <title type="html"><![CDATA[I Built a QR-Code File Transfer App with Spring Boot and Vanilla JavaScript]]></title>
+        <id>https://dev.to/arshisabah/i-built-a-qr-code-file-transfer-app-with-spring-boot-and-vanilla-javascript-kem</id>
+        <link href="https://dev.to/arshisabah/i-built-a-qr-code-file-transfer-app-with-spring-boot-and-vanilla-javascript-kem"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Simple POS Billing Page with HTML, CSS and JavaScript]]></title>
-        <id>https://dev.to/zahriontech/build-a-simple-pos-billing-page-with-html-css-and-javascript-4h24</id>
-        <link href="https://dev.to/zahriontech/build-a-simple-pos-billing-page-with-html-css-and-javascript-4h24"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Give your AI agent a 'read this URL' tool: clean Markdown in ~2 seconds, even for JavaScript apps]]></title>
-        <id>https://dev.to/swiftkit_dev/give-your-ai-agent-a-read-this-url-tool-clean-markdown-in-2-seconds-even-for-javascript-apps-6d6</id>
-        <link href="https://dev.to/swiftkit_dev/give-your-ai-agent-a-read-this-url-tool-clean-markdown-in-2-seconds-even-for-javascript-apps-6d6"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your page has two readers: humans, and machines that never run your JavaScript]]></title>
-        <id>https://dev.to/lumen_firstdrafts/your-page-has-two-readers-humans-and-machines-that-never-run-your-javascript-cg7</id>
-        <link href="https://dev.to/lumen_firstdrafts/your-page-has-two-readers-humans-and-machines-that-never-run-your-javascript-cg7"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Server-Side Rendering (SSR) and Hydration: How Modern Web Applications Become Fast and Interactive]]></title>
-        <id>https://dev.to/abanoubkerols/server-side-rendering-ssr-and-hydration-how-modern-web-applications-become-fast-and-interactive-4c9o</id>
-        <link href="https://dev.to/abanoubkerols/server-side-rendering-ssr-and-hydration-how-modern-web-applications-become-fast-and-interactive-4c9o"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run Lighthouse on hundreds of pages from Node (no PageSpeed API key), and why the scores move]]></title>
-        <id>https://dev.to/swiftkit_dev/run-lighthouse-on-hundreds-of-pages-from-node-no-pagespeed-api-key-and-why-the-scores-move-2dk4</id>
-        <link href="https://dev.to/swiftkit_dev/run-lighthouse-on-hundreds-of-pages-from-node-no-pagespeed-api-key-and-why-the-scores-move-2dk4"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why crypto.getRandomValues is not the whole password generator]]></title>
-        <id>https://dev.to/edchapman/why-cryptogetrandomvalues-is-not-the-whole-password-generator-cco</id>
-        <link href="https://dev.to/edchapman/why-cryptogetrandomvalues-is-not-the-whole-password-generator-cco"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auditing a Jira Migration: a Wrong Field ID Counts to Zero, Not to an Error]]></title>
-        <id>https://dev.to/mihai_leanzero/auditing-a-jira-migration-a-wrong-field-id-counts-to-zero-not-to-an-error-209p</id>
-        <link href="https://dev.to/mihai_leanzero/auditing-a-jira-migration-a-wrong-field-id-counts-to-zero-not-to-an-error-209p"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Generate Interactive Three.js 3D Web Scenes with Zero Build Setup]]></title>
-        <id>https://dev.to/andmd555/how-to-generate-interactive-threejs-3d-web-scenes-with-zero-build-setup-4g8n</id>
-        <link href="https://dev.to/andmd555/how-to-generate-interactive-threejs-3d-web-scenes-with-zero-build-setup-4g8n"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
-        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-46cc</id>
-        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-46cc"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Type-Safe AI Decisions in TypeScript: How to Consume Jev Without Crashing in Production]]></title>
-        <id>https://dev.to/programmingcentral/type-safe-ai-decisions-in-typescript-how-to-consume-jev-without-crashing-in-production-455b</id>
-        <link href="https://dev.to/programmingcentral/type-safe-ai-decisions-in-typescript-how-to-consume-jev-without-crashing-in-production-455b"/>
+        <title type="html"><![CDATA[How to Deliver Earthquake Data (Oct 3) with a Fast,]]></title>
+        <id>https://dev.to/learn2027/how-to-deliver-earthquake-data-oct-3-with-a-fast-4mhb</id>
+        <link href="https://dev.to/learn2027/how-to-deliver-earthquake-data-oct-3-with-a-fast-4mhb"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
@@ -253,9 +253,79 @@
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Deliver Earthquake Data (Oct 3) with a Fast,]]></title>
-        <id>https://dev.to/learn2027/how-to-deliver-earthquake-data-oct-3-with-a-fast-4mhb</id>
-        <link href="https://dev.to/learn2027/how-to-deliver-earthquake-data-oct-3-with-a-fast-4mhb"/>
+        <title type="html"><![CDATA[Type-Safe AI Decisions in TypeScript: How to Consume Jev Without Crashing in Production]]></title>
+        <id>https://dev.to/programmingcentral/type-safe-ai-decisions-in-typescript-how-to-consume-jev-without-crashing-in-production-455b</id>
+        <link href="https://dev.to/programmingcentral/type-safe-ai-decisions-in-typescript-how-to-consume-jev-without-crashing-in-production-455b"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
+        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-46cc</id>
+        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-46cc"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate Interactive Three.js 3D Web Scenes with Zero Build Setup]]></title>
+        <id>https://dev.to/andmd555/how-to-generate-interactive-threejs-3d-web-scenes-with-zero-build-setup-4g8n</id>
+        <link href="https://dev.to/andmd555/how-to-generate-interactive-threejs-3d-web-scenes-with-zero-build-setup-4g8n"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auditing a Jira Migration: a Wrong Field ID Counts to Zero, Not to an Error]]></title>
+        <id>https://dev.to/mihai_leanzero/auditing-a-jira-migration-a-wrong-field-id-counts-to-zero-not-to-an-error-209p</id>
+        <link href="https://dev.to/mihai_leanzero/auditing-a-jira-migration-a-wrong-field-id-counts-to-zero-not-to-an-error-209p"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why crypto.getRandomValues is not the whole password generator]]></title>
+        <id>https://dev.to/edchapman/why-cryptogetrandomvalues-is-not-the-whole-password-generator-cco</id>
+        <link href="https://dev.to/edchapman/why-cryptogetrandomvalues-is-not-the-whole-password-generator-cco"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run Lighthouse on hundreds of pages from Node (no PageSpeed API key), and why the scores move]]></title>
+        <id>https://dev.to/swiftkit_dev/run-lighthouse-on-hundreds-of-pages-from-node-no-pagespeed-api-key-and-why-the-scores-move-2dk4</id>
+        <link href="https://dev.to/swiftkit_dev/run-lighthouse-on-hundreds-of-pages-from-node-no-pagespeed-api-key-and-why-the-scores-move-2dk4"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Server-Side Rendering (SSR) and Hydration: How Modern Web Applications Become Fast and Interactive]]></title>
+        <id>https://dev.to/abanoubkerols/server-side-rendering-ssr-and-hydration-how-modern-web-applications-become-fast-and-interactive-4c9o</id>
+        <link href="https://dev.to/abanoubkerols/server-side-rendering-ssr-and-hydration-how-modern-web-applications-become-fast-and-interactive-4c9o"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your page has two readers: humans, and machines that never run your JavaScript]]></title>
+        <id>https://dev.to/lumen_firstdrafts/your-page-has-two-readers-humans-and-machines-that-never-run-your-javascript-cg7</id>
+        <link href="https://dev.to/lumen_firstdrafts/your-page-has-two-readers-humans-and-machines-that-never-run-your-javascript-cg7"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Give your AI agent a 'read this URL' tool: clean Markdown in ~2 seconds, even for JavaScript apps]]></title>
+        <id>https://dev.to/swiftkit_dev/give-your-ai-agent-a-read-this-url-tool-clean-markdown-in-2-seconds-even-for-javascript-apps-6d6</id>
+        <link href="https://dev.to/swiftkit_dev/give-your-ai-agent-a-read-this-url-tool-clean-markdown-in-2-seconds-even-for-javascript-apps-6d6"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Simple POS Billing Page with HTML, CSS and JavaScript]]></title>
+        <id>https://dev.to/zahriontech/build-a-simple-pos-billing-page-with-html-css-and-javascript-4h24</id>
+        <link href="https://dev.to/zahriontech/build-a-simple-pos-billing-page-with-html-css-and-javascript-4h24"/>
+        <updated>2026-10-03T16:00:00.000Z</updated>
+        <published>2026-10-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source PDF Editor for React. Here’s How to Add PDF Editing to Your App]]></title>
+        <id>https://dev.to/valeedanjum/open-source-pdf-editor-for-react-heres-how-to-add-pdf-editing-to-your-app-9i0</id>
+        <link href="https://dev.to/valeedanjum/open-source-pdf-editor-for-react-heres-how-to-add-pdf-editing-to-your-app-9i0"/>
         <updated>2026-10-03T16:00:00.000Z</updated>
         <published>2026-10-03T16:00:00.000Z</published>
     </entry>
@@ -291,76 +361,6 @@
         <title type="html"><![CDATA[Netflix is pivoting away from prestige]]></title>
         <id>https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig</id>
         <link href="https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta open sources code to let you make Muse AI gadgets]]></title>
-        <id>https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</id>
-        <link href="https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Decade-Long Experiment Is Unlocking the Mysteries of the Ocean’s ‘Deep Reefs’]]></title>
-        <id>https://www.wired.com/story/inside-decade-long-experiment-to-understand-oceans-mysterious-deep-reefs/</id>
-        <link href="https://www.wired.com/story/inside-decade-long-experiment-to-understand-oceans-mysterious-deep-reefs/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off]]></title>
-        <id>https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/</id>
-        <link href="https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muse Creates Detailed Profiles of All Your Friends and Family]]></title>
-        <id>https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/</id>
-        <link href="https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta wants your next gadget to be Muse-infused]]></title>
-        <id>https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/</id>
-        <link href="https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass]]></title>
-        <id>https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/</id>
-        <link href="https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vessev built an electric ferry that almost flies]]></title>
-        <id>https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/</id>
-        <link href="https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twelve AI clay films for $184: The agents cost more than the video model]]></title>
-        <id>https://getsweat.ai/blog/twelve-ai-clay-films/</id>
-        <link href="https://getsweat.ai/blog/twelve-ai-clay-films/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 157]]></title>
-        <id>https://www.firefox.com/en-US/firefox/157.0/releasenotes/</id>
-        <link href="https://www.firefox.com/en-US/firefox/157.0/releasenotes/"/>
-        <updated>2026-10-02T16:00:00.000Z</updated>
-        <published>2026-10-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[House prices across Europe: where they're rising fastest and why]]></title>
-        <id>https://www.euronews.com/2026/10/03/house-prices-keep-rising-across-europe-which-countries-saw-the-biggest-increases-and-why</id>
-        <link href="https://www.euronews.com/2026/10/03/house-prices-keep-rising-across-europe-which-countries-saw-the-biggest-increases-and-why"/>
         <updated>2026-10-02T16:00:00.000Z</updated>
         <published>2026-10-02T16:00:00.000Z</published>
     </entry>
