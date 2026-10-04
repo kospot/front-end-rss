@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-10-04 12:01:35，:rocket: 更新条数: +2724， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-04 15:02:36，:rocket: 更新条数: +2735， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -33,7 +33,7 @@
 - [阮一峰](#阮一峰)![](/assets/dot.png)   
 - [Anthony-Fu](#anthony-fu)![](/assets/dot.png)   
 - [Randy's-Blog](#randy's-blog)![](/assets/dot.png)   
-- [GitHub-Trending-JS](#github-trending-js)  
+- [GitHub-Trending-JS](#github-trending-js)![](/assets/dot.png)   
 - [美团技术团队](#美团技术团队)  
 - [InfoQ](#infoq)  
 - [GitHub-Engineering](#github-engineering)  
@@ -235,26 +235,26 @@
 </summary>
 
 
-- [2026-10-04-Why-I-built-a-spaced-repetition-app-for-coding-drills](https://dev.to/tulid_digital_da622eee07/why-i-built-a-spaced-repetition-app-for-coding-drills-4bia)  
-- [2026-10-04-I-crawled-3,014-Houston-business-websites-to-see-what-AI-crawlers-actually-see](https://dev.to/marketingandai/i-crawled-3014-houston-business-websites-to-see-what-ai-crawlers-actually-see-1fj7)  
-- [2026-10-04-Add-an-FAQ-bot-and-appointment-booking-to-any-website-with-3-API-calls](https://dev.to/sy_int999_fb11fa1a4f69806/add-an-faq-bot-and-appointment-booking-to-any-website-with-3-api-calls-6lk)  
-- [2026-10-04-A-browser-QR-scanner-without-BarcodeDetector-or-a-CDN](https://dev.to/icyzip/a-browser-qr-scanner-without-barcodedetector-or-a-cdn-3joc)  
-- [2026-10-04-Open-Source-PDF-Editor-for-React.-Here’s-How-to-Add-PDF-Editing-to-Your-App](https://dev.to/valeedanjum/open-source-pdf-editor-for-react-heres-how-to-add-pdf-editing-to-your-app-9i0)  
-- [2026-10-04-Build-a-Simple-POS-Billing-Page-with-HTML,-CSS-and-JavaScript](https://dev.to/zahriontech/build-a-simple-pos-billing-page-with-html-css-and-javascript-4h24)  
-- [2026-10-04-Give-your-AI-agent-a-'read-this-URL'-tool:-clean-Markdown-in-~2-seconds,-even-for-JavaScript-apps](https://dev.to/swiftkit_dev/give-your-ai-agent-a-read-this-url-tool-clean-markdown-in-2-seconds-even-for-javascript-apps-6d6)  
-- [2026-10-04-Your-page-has-two-readers:-humans,-and-machines-that-never-run-your-JavaScript](https://dev.to/lumen_firstdrafts/your-page-has-two-readers-humans-and-machines-that-never-run-your-javascript-cg7)  
-- [2026-10-04-EmbedCatalog-is-participating-in-Hacktoberfest-2026](https://dev.to/anthonymax/embedcatalog-is-participating-in-hacktoberfest-2026-7f4)  
-- [2026-10-04-Why-word-counters-disagree-about-the-same-text](https://dev.to/edchapman/why-word-counters-disagree-about-the-same-text-39lb)  
-- [2026-10-04-Server-Side-Rendering-SSR-and-Hydration:-How-Modern-Web-Applications-Become-Fast-and-Interactive](https://dev.to/abanoubkerols/server-side-rendering-ssr-and-hydration-how-modern-web-applications-become-fast-and-interactive-4c9o)  
-- [2026-10-04-Run-Lighthouse-on-hundreds-of-pages-from-Node-no-PageSpeed-API-key,-and-why-the-scores-move](https://dev.to/swiftkit_dev/run-lighthouse-on-hundreds-of-pages-from-node-no-pagespeed-api-key-and-why-the-scores-move-2dk4)  
-- [2026-10-04-Why-crypto.getRandomValues-is-not-the-whole-password-generator](https://dev.to/edchapman/why-cryptogetrandomvalues-is-not-the-whole-password-generator-cco)  
-- [2026-10-04-Skip-the-migration-writes-that-change-nothing,-without-skipping-the-ones-that-matter](https://dev.to/mihai_leanzero/skip-the-migration-writes-that-change-nothing-without-skipping-the-ones-that-matter-3on9)  
-- [2026-10-04-Build-your-migration's-gap-list-before-you-start,-and-make-the-differ-refuse-to-guess](https://dev.to/mihai_leanzero/build-your-migrations-gap-list-before-you-start-and-make-the-differ-refuse-to-guess-37pn)  
-- [2026-10-04-Auditing-a-Jira-Migration:-a-Wrong-Field-ID-Counts-to-Zero,-Not-to-an-Error](https://dev.to/mihai_leanzero/auditing-a-jira-migration-a-wrong-field-id-counts-to-zero-not-to-an-error-209p)  
-- [2026-10-04-How-to-Generate-Interactive-Three.js-3D-Web-Scenes-with-Zero-Build-Setup](https://dev.to/andmd555/how-to-generate-interactive-threejs-3d-web-scenes-with-zero-build-setup-4g8n)  
-- [2026-10-04-Query-Every-Token-on-the-XRP-Ledger-With-One-Endpoint](https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-46cc)  
-- [2026-10-04-Type-Safe-AI-Decisions-in-TypeScript:-How-to-Consume-Jev-Without-Crashing-in-Production](https://dev.to/programmingcentral/type-safe-ai-decisions-in-typescript-how-to-consume-jev-without-crashing-in-production-455b)  
+- [2026-10-04-I-Built-a-QR-Code-File-Transfer-App-with-Spring-Boot-and-Vanilla-JavaScript](https://dev.to/arshisabah/i-built-a-qr-code-file-transfer-app-with-spring-boot-and-vanilla-javascript-kem)  
+- [2026-10-04-Someone-Asked-If-My-CSV-Export-Worked-in-Excel.-It-Didn't.](https://dev.to/glenn_ree_c3534b3ab234d93/someone-asked-if-my-csv-export-worked-in-excel-it-didnt-8in)  
+- [2026-10-04-A-success-message-does-not-prove-your-form-saved-anything](https://dev.to/goatscancode/a-success-message-does-not-prove-your-form-saved-anything-2obl)  
+- [2026-10-04-How-to-Deliver-Earthquake-Data-Oct-3-with-a-Fast,](https://dev.to/learn2027/how-to-deliver-earthquake-data-oct-3-with-a-fast-4mhb)  
+- [2026-10-04-Live-chart-updates-without-re-rendering-the-DOM-—-st-core-+-one-CSS-variable-write](https://dev.to/fscss/live-chart-updates-without-re-rendering-the-dom-st-core-one-css-variable-write-20ai)  
 - [2026-10-04-Build-a-Real-Time-Voice-Translation-App](https://dev.to/voice_developer/build-a-real-time-voice-translation-app-1pa8)  
+- [2026-10-04-Type-Safe-AI-Decisions-in-TypeScript:-How-to-Consume-Jev-Without-Crashing-in-Production](https://dev.to/programmingcentral/type-safe-ai-decisions-in-typescript-how-to-consume-jev-without-crashing-in-production-455b)  
+- [2026-10-04-Query-Every-Token-on-the-XRP-Ledger-With-One-Endpoint](https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-46cc)  
+- [2026-10-04-How-to-Generate-Interactive-Three.js-3D-Web-Scenes-with-Zero-Build-Setup](https://dev.to/andmd555/how-to-generate-interactive-threejs-3d-web-scenes-with-zero-build-setup-4g8n)  
+- [2026-10-04-Auditing-a-Jira-Migration:-a-Wrong-Field-ID-Counts-to-Zero,-Not-to-an-Error](https://dev.to/mihai_leanzero/auditing-a-jira-migration-a-wrong-field-id-counts-to-zero-not-to-an-error-209p)  
+- [2026-10-04-Build-your-migration's-gap-list-before-you-start,-and-make-the-differ-refuse-to-guess](https://dev.to/mihai_leanzero/build-your-migrations-gap-list-before-you-start-and-make-the-differ-refuse-to-guess-37pn)  
+- [2026-10-04-Skip-the-migration-writes-that-change-nothing,-without-skipping-the-ones-that-matter](https://dev.to/mihai_leanzero/skip-the-migration-writes-that-change-nothing-without-skipping-the-ones-that-matter-3on9)  
+- [2026-10-04-Why-crypto.getRandomValues-is-not-the-whole-password-generator](https://dev.to/edchapman/why-cryptogetrandomvalues-is-not-the-whole-password-generator-cco)  
+- [2026-10-04-Run-Lighthouse-on-hundreds-of-pages-from-Node-no-PageSpeed-API-key,-and-why-the-scores-move](https://dev.to/swiftkit_dev/run-lighthouse-on-hundreds-of-pages-from-node-no-pagespeed-api-key-and-why-the-scores-move-2dk4)  
+- [2026-10-04-Server-Side-Rendering-SSR-and-Hydration:-How-Modern-Web-Applications-Become-Fast-and-Interactive](https://dev.to/abanoubkerols/server-side-rendering-ssr-and-hydration-how-modern-web-applications-become-fast-and-interactive-4c9o)  
+- [2026-10-04-Why-word-counters-disagree-about-the-same-text](https://dev.to/edchapman/why-word-counters-disagree-about-the-same-text-39lb)  
+- [2026-10-04-EmbedCatalog-is-participating-in-Hacktoberfest-2026](https://dev.to/anthonymax/embedcatalog-is-participating-in-hacktoberfest-2026-7f4)  
+- [2026-10-04-Your-page-has-two-readers:-humans,-and-machines-that-never-run-your-JavaScript](https://dev.to/lumen_firstdrafts/your-page-has-two-readers-humans-and-machines-that-never-run-your-javascript-cg7)  
+- [2026-10-04-Give-your-AI-agent-a-'read-this-URL'-tool:-clean-Markdown-in-~2-seconds,-even-for-JavaScript-apps](https://dev.to/swiftkit_dev/give-your-ai-agent-a-read-this-url-tool-clean-markdown-in-2-seconds-even-for-javascript-apps-6d6)  
+- [2026-10-04-Build-a-Simple-POS-Billing-Page-with-HTML,-CSS-and-JavaScript](https://dev.to/zahriontech/build-a-simple-pos-billing-page-with-html-css-and-javascript-4h24)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -329,28 +329,32 @@
 </summary>
 
 
-- [2026-10-04-sveltejs/kit](https://github.com/sveltejs/kit)  
 - [2026-10-04-jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)  
+- [2026-10-04-sveltejs/kit](https://github.com/sveltejs/kit)  
+- [2026-10-04--Turn-the-five-Platonic-solids-in-3D,-show-their-duals,-and-read-their-measurements-](
+https://github.com/evoluteur/platonic-solids
+) ![](/assets/new.png)  
 - [2026-10-03--Sharing-Application-State-in-a-URL-](
 https://ivakin.dev/blog/state-in-url
 )  
-- [2026-10-02-webbrain-one/webbrain](https://github.com/webbrain-one/webbrain)  
-- [2026-10-02-tabler/tabler-icons](https://github.com/tabler/tabler-icons)  
-- [2026-10-02-libnoname/noname](https://github.com/libnoname/noname)  
 - [2026-10-02-coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)  
-- [2026-10-01-openai/plugins](https://github.com/openai/plugins)  
-- [2026-10-01-tt-a1i/archify](https://github.com/tt-a1i/archify)  
-- [2026-10-01-bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)  
-- [2026-10-01-Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader)  
-- [2026-10-01-michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)  
-- [2026-10-01-openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  
-- [2026-10-01-Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)  
-- [2026-10-01-NomaDamas/k-skill](https://github.com/NomaDamas/k-skill)  
-- [2026-10-01-WesselKroos/youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight)  
-- [2026-10-01-mokshablr/gander](https://github.com/mokshablr/gander)  
-- [2026-10-01-xiufengsun/TokenTracker](https://github.com/xiufengsun/TokenTracker)  
-- [2026-10-01-decolua/9router](https://github.com/decolua/9router)  
+- [2026-10-02-libnoname/noname](https://github.com/libnoname/noname)  
+- [2026-10-02-tabler/tabler-icons](https://github.com/tabler/tabler-icons)  
+- [2026-10-02-webbrain-one/webbrain](https://github.com/webbrain-one/webbrain)  
+- [2026-10-01--Sacred-Geometry-Generator:-draw,-tune,-and-export-Vesica-Piscis,-Seed-of-Life,-Flower-of-Life,-Metatron's-Cube,-and-the-Golden-Spiral-as-SVG-](
+https://github.com/evoluteur/sacred-geometry
+)  
+- [2026-10-01-FB208/OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao)  
+- [2026-10-01-Javis603/token-monitor](https://github.com/Javis603/token-monitor)  
 - [2026-10-01-Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)  
+- [2026-10-01-decolua/9router](https://github.com/decolua/9router)  
+- [2026-10-01-xiufengsun/TokenTracker](https://github.com/xiufengsun/TokenTracker)  
+- [2026-10-01-mokshablr/gander](https://github.com/mokshablr/gander)  
+- [2026-10-01-WesselKroos/youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight)  
+- [2026-10-01-NomaDamas/k-skill](https://github.com/NomaDamas/k-skill)  
+- [2026-10-01-Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)  
+- [2026-10-01-openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)  
+- [2026-10-01-michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)  
 - [......【查看更多】......](/details/GitHub Trending JS.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -455,16 +459,16 @@ https://ivakin.dev/blog/state-in-url
 
 
 - [2026-09-30-Principles-for-effective-slides](https://martinfowler.com/articles/never-send-slides/slide-principles.html)  
-- [2026-09-29-Fragments:-September-29](https://martinfowler.com/fragments/2026-09-29.html)  
 - [2026-09-29-Bliki:-Sensible-Default](https://martinfowler.com/bliki/SensibleDefault.html)  
-- [2026-09-24-Fragments:-September-24](https://martinfowler.com/fragments/2026-09-24.html)  
+- [2026-09-29-Fragments:-September-29](https://martinfowler.com/fragments/2026-09-29.html)  
 - [2026-09-24-Healthy-Feedback](https://martinfowler.com/articles/healthy-peer-feedback.html)  
-- [2026-09-17-Fragments:-September-16](https://martinfowler.com/fragments/2026-09-16.html)  
+- [2026-09-24-Fragments:-September-24](https://martinfowler.com/fragments/2026-09-24.html)  
 - [2026-09-17-I-don't-like-LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)  
+- [2026-09-17-Fragments:-September-16](https://martinfowler.com/fragments/2026-09-16.html)  
 - [2026-09-15-Nail-the-Narrative](https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html)  
 - [2026-09-10-Social-Media-Engagement:-summer-2026](https://martinfowler.com/articles/2026-social-traffic.html)  
-- [2026-09-08-Fragments:-September-8](https://martinfowler.com/fragments/2026-09-08.html)  
 - [2026-09-08-Do-you-even-need-a-presentation?](https://martinfowler.com/articles/never-send-slides/need-presentation.html)  
+- [2026-09-08-Fragments:-September-8](https://martinfowler.com/fragments/2026-09-08.html)  
 - [......【查看更多】......](/details/Martin Fowler.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -538,8 +542,8 @@ https://ivakin.dev/blog/state-in-url
 </summary>
 
 
-- [2026-09-09-not-much-happened-today](https://news.smol.ai/issues/26-09-09-not-much/)  
 - [2026-09-09-not-much-happened-today](https://news.smol.ai/issues/26-09-10-not-much/)  
+- [2026-09-09-not-much-happened-today](https://news.smol.ai/issues/26-09-09-not-much/)  
 - [2026-09-08-OpenAI-reports-Navier-Stokes-singularity-find,-a-contender-for-second-ever-Millenium-Prize-awarded,-overshadowing-Cognition's-$48B-Series-E,-Mistral's-$24B-Series-D,-Meta's-Muse-agent,-and-GPT-Image-2.5](https://news.smol.ai/issues/26-09-08-navier-stokes/)  
 - [......【查看更多】......](/details/smol.ai.md)
 
@@ -608,25 +612,25 @@ https://ivakin.dev/blog/state-in-url
 
 
 - [2026-10-03-A-model-guide-for-the-GPT-6-family](https://openai.com/index/practical-guide-building-gpt-6)  
-- [2026-10-02-Chatham-scales-its-capital-markets-expertise-with-OpenAI](https://openai.com/index/chatham-financial)  
-- [2026-10-02-The-eternal-complement](https://openai.com/index/the-eternal-complement)  
 - [2026-10-02-How-Albertsons-Companies-is-reimagining-retail-from-the-inside-out](https://openai.com/index/albertsons-reimagining-retail)  
+- [2026-10-02-The-eternal-complement](https://openai.com/index/the-eternal-complement)  
+- [2026-10-02-Chatham-scales-its-capital-markets-expertise-with-OpenAI](https://openai.com/index/chatham-financial)  
 - [2026-10-01-The-Den-frees-up-10-15-hours-a-week-to-grow-with-ChatGPT-Work](https://openai.com/index/the-den-family-social)  
-- [2026-09-30-Disrupting-a-coordinated-model-distillation-campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign)  
 - [2026-09-30-Helping-small-businesses-put-AI-to-work](https://openai.com/index/helping-small-businesses-put-ai-to-work)  
-- [2026-09-29-Introducing-GPT-6.1-Sol](https://openai.com/index/introducing-gpt-6-1-sol)  
-- [2026-09-29-DevDay-2026-Recap](https://openai.com/index/devday-2026-recap)  
-- [2026-09-29-Introducing-dots](https://openai.com/index/introducing-dots)  
-- [2026-09-29-How-we-will-do-better-for-Australia](https://openai.com/index/how-we-will-do-better-for-australia)  
+- [2026-09-30-Disrupting-a-coordinated-model-distillation-campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign)  
 - [2026-09-29-Towards-safety-cases-for-frontier-AI-training](https://openai.com/index/towards-safety-cases-for-frontier-ai-training)  
-- [2026-09-28-The-Lenfest-Institute-grows-landmark-program-with-expanded-OpenAI-support](https://openai.com/index/lenfest-ai-collaborative-expansion)  
-- [2026-09-28-Are-you-a-Codex-Original?](https://openai.com/form/codex-originals)  
+- [2026-09-29-How-we-will-do-better-for-Australia](https://openai.com/index/how-we-will-do-better-for-australia)  
+- [2026-09-29-Introducing-dots](https://openai.com/index/introducing-dots)  
+- [2026-09-29-DevDay-2026-Recap](https://openai.com/index/devday-2026-recap)  
+- [2026-09-29-Introducing-GPT-6.1-Sol](https://openai.com/index/introducing-gpt-6-1-sol)  
 - [2026-09-28-Basis-completes-a-tax-workbook-2x-faster-with-GPT-6-Astra](https://openai.com/index/basis-tax-workbook-with-astra)  
+- [2026-09-28-Are-you-a-Codex-Original?](https://openai.com/form/codex-originals)  
+- [2026-09-28-The-Lenfest-Institute-grows-landmark-program-with-expanded-OpenAI-support](https://openai.com/index/lenfest-ai-collaborative-expansion)  
 - [2026-09-26-Proaction-boosts-sales-60%-and-saves-75+-hours-with-Codex](https://openai.com/index/proaction)  
 - [2026-09-24-Two-years-of-OpenAI-Academy](https://openai.com/index/two-years-of-openai-academy)  
-- [2026-09-23-Sam-Altman’s-remarks-at-the-United-Nations-Security-Council](https://openai.com/index/sam-altman-un-security-council-remarks)  
-- [2026-09-23-Harvey-turns-legal-context-into-stronger-drafts-with-GPT-6-Astra](https://openai.com/index/harvey-from-context-to-confidence-with-astra)  
-- [2026-09-23-How-invideo-improves-color-grading-3x-with-GPT‑6-Astra](https://openai.com/index/invideo-builds-with-gpt-6-astra)  
+- [2026-09-23-ChatGPT-Ads-expands-to-Southeast-Asia-and-Taiwan](https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan)  
+- [2026-09-23-Introducing-GPT-6-Sol-and-Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)  
+- [2026-09-23-Better-prompt-caching-for-GPT-6](https://openai.com/index/better-prompt-caching-for-gpt-6)  
 - [......【查看更多】......](/details/OpenAI Blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -638,26 +642,26 @@ https://ivakin.dev/blog/state-in-url
 </summary>
 
 
-- [2026-10-04-The-Engineering-Minded-PM](https://www.ryadh.net/writing/the-engineering-minded-product-manager/)  
-- [2026-10-04-X-signups-now-require-a-face-photo](https://news.ycombinator.com/item?id=49949787)  
-- [2026-10-04-IP-Address-Notations:-Decimal-to-32-Bit](https://toolsphere.in/blog/ip-address-notations)  
-- [2026-10-04-Disrupting-a-coordinated-model-distillation-campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/)  
-- [2026-10-04-Parser-Error-Recovery](https://github.com/ProCode-Software/klar/blob/main/docs/Syntax/ParserErrorRecovery.md)  
-- [2026-10-04-Squarespace-official-MCP-is-here](https://developers.squarespace.com/mcp/overview)  
-- [2026-10-04-Driving-slower-beats-driving-less](https://maxmautner.com/2026/10/02/slower.html)  
-- [2026-10-04-Poll:-What-do-you-use-personal-AI-bots-for?](https://news.ycombinator.com/item?id=49949699)  
-- [2026-10-04-The-ugly-economics-of-consumer-AI](https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/)  
-- [2026-10-04-RuneScape-4](https://www.techpowerup.com/353372/jagex-announces-runescape-4-a-new-mmo-built-in-unreal-engine)  
-- [2026-10-04-Rust's-derive-often-implies-inline](https://yossarian.net/til/post/rust-s-derive-often-implies-inline/)  
-- [2026-10-04-We're-working-on-a-new-RuneScape-MMO](https://play.runescape.com/4)  
-- [2026-10-04-Glean-for-Personal-Use](https://proxyagent.netlify.app)  
-- [2026-10-04-Microsoft-Doubles-Down-on-Rust](https://www.infoworld.com/article/4227839/microsoft-doubles-down-on-rust.html)  
-- [2026-10-04-How-a-Boeing-737-MAX-Survived-a-Nosedive-Traveling-at-the-Speed-of-Sound](https://www.wsj.com/business/airlines/how-a-boeing-737-max-survived-a-nosedive-traveling-at-the-speed-of-sound-e8cae3b4)  
-- [2026-10-04-marimohub-–-self-hostable-marimo-notebooks](https://github.com/marimo-team/marimohub)  
-- [2026-10-04-Elon-Musk’s-emails](https://elonmuskmails.com/)  
-- [2026-10-04-Bob-Cringely-Has-Died](https://news.ycombinator.com/item?id=49949438)  
-- [2026-10-04-Private-capital-is-reshaping-Hollywood-moviemaking](https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html)  
-- [2026-10-04-The-System-for-Using-Evidence-to-Improve-Federal-Programs-Has-Been-Gutted](https://donmoynihan.substack.com/p/the-system-for-using-evidence-to)  
+- [2026-10-04-Show-HN:-LC3-VM-in-Golang](https://github.com/shraddhaag/toyvm)  
+- [2026-10-04-The-East-Asian-Fertility-Disaster](https://twitter.com/MoreBirths/status/2097805266473324859)  
+- [2026-10-04-Lego-Machine-Plays-Tic-Tac-Toe](https://www.youtube.com/watch?v=soklpa_JZOI)  
+- [2026-10-04-Pi-based-coding-agent-with-hard-budget-caps](https://kimchi.dev/)  
+- [2026-10-04-Write-Your-Own-Virtual-Machine](https://www.jmeiners.com/lc3-vm/)  
+- [2026-10-04-Forms-in-HTML-Tables](https://forum.palemoon.org/viewtopic.php?t=33817)  
+- [2026-10-04-AI-can-clone-your-indie-game,-but-not-its-soul](https://twitter.com/robertvaradan/status/2106061989122334778)  
+- [2026-10-04-Iran-says-it-seized-US-underwater-vehicle-conducting-'espionage'](https://thearabweekly.com/iran-says-it-seized-us-underwater-vehicle-conducting-espionage)  
+- [2026-10-04-Survival-Ball-Versus:-The-Sabbatical-Sprint](https://lopespm.com/2026/10/04/survival_ball_versus.html)  
+- [2026-10-04-Chalkboard-and-Avatar-for-AI-Agents](https://github.com/zohayrslileh/more-space)  
+- [2026-10-04-Give-your-AI-agent-awareness-of-what's-happening-around-you](https://github.com/SyncSo-Inc/syncso)  
+- [2026-10-04-Musk-explains-why-Tesla-Robotaxi-isn't-running-at-night,-and-Lidar-is-the-answer](https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/)  
+- [2026-10-04-China's-space-plane-appears-to-have-released-a-mystery-object-in-orbit](https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit)  
+- [2026-10-04-What-is-the-true-reach-of-a-human-being?](https://www.echohive.ai/the-reach-of-being)  
+- [2026-10-04-Ask-HN:-How-different-is-Apple-App-Store-and-Play-Store-paid-apps-market](https://news.ycombinator.com/item?id=49950177)  
+- [2026-10-04-What-September's-Employment-Numbers-Say-video](https://www.youtube.com/watch?v=mlZg8gQAUTk)  
+- [2026-10-04-Look-for-the-Helpers](https://1429.help/about/)  
+- [2026-10-04-Kansas-Legislature's-Cuts-Compel-Fort-Hays-State-Uni-to-Close-Sternberg-Museum](https://kansasreflector.com/2026/09/30/budget-woes-compel-fort-hays-state-university-to-prepare-sternberg-museum-for-closure/)  
+- [2026-10-04-Decoding-Looped-Transformers-Better-for-Almost-Free](https://arxiv.org/abs/2610.02185)  
+- [2026-10-04-How-the-bad-science-of-AI-doomerism-is-good-for-big-business](https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/)  
 - [......【查看更多】......](/details/Hacker News.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
