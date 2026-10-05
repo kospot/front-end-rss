@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-05T02:01:07.459Z</updated>
+    <updated>2026-10-05T04:01:35.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,128 +29,44 @@
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Random Topic Generator with built-in talking points]]></title>
-        <id>https://random-topic.com</id>
-        <link href="https://random-topic.com"/>
+        <title type="html"><![CDATA[Rewind VM: a flaky build you only catch once]]></title>
+        <id>https://fzakaria.com/2026/10/03/rewind-vm-a-flaky-build-you-only-catch-once</id>
+        <link href="https://fzakaria.com/2026/10/03/rewind-vm-a-flaky-build-you-only-catch-once"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mystery surrounding the formation of asteroid Bennu solved]]></title>
-        <id>https://ethz.ch/en/news-and-events/eth-news/news/2026/09/mystery-surrounding-the-formation-of-asteroid-bennu-solved.html</id>
-        <link href="https://ethz.ch/en/news-and-events/eth-news/news/2026/09/mystery-surrounding-the-formation-of-asteroid-bennu-solved.html"/>
+        <title type="html"><![CDATA[Tmux Buffers and Popups: Load, Save, Paste]]></title>
+        <id>https://saurabhkushwah.com/blog/tmux-buffers</id>
+        <link href="https://saurabhkushwah.com/blog/tmux-buffers"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: HyperCMD, write CLI applications using plain HTML]]></title>
-        <id>https://github.com/fusor-rs/hypercmd</id>
-        <link href="https://github.com/fusor-rs/hypercmd"/>
+        <title type="html"><![CDATA[Show HN: Ramen – self-hosted multi-zone MCP server for Kubernetes(Rust & Python)]]></title>
+        <id>https://github.com/bkraad47/ramen</id>
+        <link href="https://github.com/bkraad47/ramen"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L402 edge cache for AI agents paying over Lightning]]></title>
-        <id>https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp</id>
-        <link href="https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp"/>
+        <title type="html"><![CDATA[Irrelevant visual details interfere with decisions under uncertainty]]></title>
+        <id>https://medicalxpress.com/news/2026-10-irrelevant-visual-decisions-uncertainty-brain.html</id>
+        <link href="https://medicalxpress.com/news/2026-10-irrelevant-visual-decisions-uncertainty-brain.html"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Superpowers Race to Put Nuclear Reactors on the Moon]]></title>
-        <id>https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html</id>
-        <link href="https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"/>
+        <title type="html"><![CDATA[Anatomy Unzipped: John of Arderne's Sweden Scroll (Ca. 1425–35)]]></title>
+        <id>https://publicdomainreview.org/collection/arderne-scroll/</id>
+        <link href="https://publicdomainreview.org/collection/arderne-scroll/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Orrery, a Three.js solar system visualization powered by real NAIF data]]></title>
-        <id>https://orrery.ryboso.me/</id>
-        <link href="https://orrery.ryboso.me/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huawei Kirin 9050 Pro uses impressive 3D V-Cache-like stacked design for the SoC]]></title>
-        <id>https://www.notebookcheck.net/Teardown-shows-Huawei-Kirin-9050-Pro-uses-a-3D-V-Cache-like-stacked-design-for-the-SoC-and-the-results-are-impressive.1414228.0.html</id>
-        <link href="https://www.notebookcheck.net/Teardown-shows-Huawei-Kirin-9050-Pro-uses-a-3D-V-Cache-like-stacked-design-for-the-SoC-and-the-results-are-impressive.1414228.0.html"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Court Tosses Sentence After A.I. Video of Victim 'Forgiving' His Killer]]></title>
-        <id>https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html</id>
-        <link href="https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fix Your AI Slop Problem by Giving Reviewers Credit]]></title>
-        <id>https://danunparsed.com/p/giving-code-reviewers-credit</id>
-        <link href="https://danunparsed.com/p/giving-code-reviewers-credit"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["But it would have bothered us the rest of our lives."]]></title>
-        <id>https://unsung.aresluna.org/but-it-would-have-bothered-us-the-rest-of-our-lives/</id>
-        <link href="https://unsung.aresluna.org/but-it-would-have-bothered-us-the-rest-of-our-lives/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skyfall – open-source WebGPU aircombat game that runs in your browser]]></title>
-        <id>https://github.com/a7ul/skyfall</id>
-        <link href="https://github.com/a7ul/skyfall"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Demos – Practical browser-based JavaScript examples, no frameworks]]></title>
-        <id>https://brysonbw.github.io/js-demos/#/</id>
-        <link href="https://brysonbw.github.io/js-demos/#/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is HLS Streaming? HTTP Live Streaming Explained]]></title>
-        <id>https://www.red5.net/blog/what-is-hls-streaming/</id>
-        <link href="https://www.red5.net/blog/what-is-hls-streaming/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researcher at Russian plague laboratory dies of 'unknown' infection]]></title>
-        <id>https://www.scrippsnews.com/world/europe/researcher-at-russian-plague-laboratory-dies-of-unknown-infection</id>
-        <link href="https://www.scrippsnews.com/world/europe/researcher-at-russian-plague-laboratory-dies-of-unknown-infection"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RustQC: Rust reimplementation of dupRadar, RSeQC, Qualimap, preseq, and samtools]]></title>
-        <id>https://seqeralabs.github.io/RustQC/</id>
-        <link href="https://seqeralabs.github.io/RustQC/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every Map Everywhere All at Once: exact neutral redistricting maps on a GPU]]></title>
-        <id>https://www.mccomb.ca/writing/everymap/</id>
-        <link href="https://www.mccomb.ca/writing/everymap/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astronaut back on Earth – forgets about gravity]]></title>
-        <id>https://www.youtube.com/watch?v=PVxaL8CAO4M</id>
-        <link href="https://www.youtube.com/watch?v=PVxaL8CAO4M"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Digital scarcity; app where photos gradually decay with time / views]]></title>
-        <id>https://joinfaded.com/</id>
-        <link href="https://joinfaded.com/"/>
+        <title type="html"><![CDATA[Show HN: Side-by-side California ADU cost ledger (800 vs. 400 sq ft)]]></title>
+        <id>https://everylineitem.com/compare/</id>
+        <link href="https://everylineitem.com/compare/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
@@ -162,206 +78,290 @@
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Every Shopify store has a public products.json: how to export a full catalog (and the currency trap)]]></title>
-        <id>https://dev.to/swiftkit_dev/every-shopify-store-has-a-public-productsjson-how-to-export-a-full-catalog-and-the-currency-trap-3fnb</id>
-        <link href="https://dev.to/swiftkit_dev/every-shopify-store-has-a-public-productsjson-how-to-export-a-full-catalog-and-the-currency-trap-3fnb"/>
+        <title type="html"><![CDATA[Show HN: Digital scarcity; app where photos gradually decay with time / views]]></title>
+        <id>https://joinfaded.com/</id>
+        <link href="https://joinfaded.com/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Base64URL Explained: Encoding Data for URLs and JWTs]]></title>
-        <id>https://dev.to/zahriontech/base64url-explained-encoding-data-for-urls-and-jwts-3ic</id>
-        <link href="https://dev.to/zahriontech/base64url-explained-encoding-data-for-urls-and-jwts-3ic"/>
+        <title type="html"><![CDATA[Astronaut back on Earth – forgets about gravity]]></title>
+        <id>https://www.youtube.com/watch?v=PVxaL8CAO4M</id>
+        <link href="https://www.youtube.com/watch?v=PVxaL8CAO4M"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Decode Base64 in JavaScript (and a Free Tool That Does It Instantly)]]></title>
-        <id>https://dev.to/zahriontech/how-to-decode-base64-in-javascript-and-a-free-tool-that-does-it-instantly-8o5</id>
-        <link href="https://dev.to/zahriontech/how-to-decode-base64-in-javascript-and-a-free-tool-that-does-it-instantly-8o5"/>
+        <title type="html"><![CDATA[Every Map Everywhere All at Once: exact neutral redistricting maps on a GPU]]></title>
+        <id>https://www.mccomb.ca/writing/everymap/</id>
+        <link href="https://www.mccomb.ca/writing/everymap/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parsing and Formatting SQL in JavaScript — Without a Grammar File]]></title>
-        <id>https://dev.to/toolzip/parsing-and-formatting-sql-in-javascript-without-a-grammar-file-18hk</id>
-        <link href="https://dev.to/toolzip/parsing-and-formatting-sql-in-javascript-without-a-grammar-file-18hk"/>
+        <title type="html"><![CDATA[RustQC: Rust reimplementation of dupRadar, RSeQC, Qualimap, preseq, and samtools]]></title>
+        <id>https://seqeralabs.github.io/RustQC/</id>
+        <link href="https://seqeralabs.github.io/RustQC/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create an AI Dubbing Tool for Video Content]]></title>
-        <id>https://dev.to/voice_developer/create-an-ai-dubbing-tool-for-video-content-4g9j</id>
-        <link href="https://dev.to/voice_developer/create-an-ai-dubbing-tool-for-video-content-4g9j"/>
+        <title type="html"><![CDATA[Researcher at Russian plague laboratory dies of 'unknown' infection]]></title>
+        <id>https://www.scrippsnews.com/world/europe/researcher-at-russian-plague-laboratory-dies-of-unknown-infection</id>
+        <link href="https://www.scrippsnews.com/world/europe/researcher-at-russian-plague-laboratory-dies-of-unknown-infection"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://tobiaschc.github.io/petite/]]></title>
-        <id>https://dev.to/tobiaschc/httpstobiaschcgithubiopetite-2d85</id>
-        <link href="https://dev.to/tobiaschc/httpstobiaschcgithubiopetite-2d85"/>
+        <title type="html"><![CDATA[What Is HLS Streaming? HTTP Live Streaming Explained]]></title>
+        <id>https://www.red5.net/blog/what-is-hls-streaming/</id>
+        <link href="https://www.red5.net/blog/what-is-hls-streaming/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One layout file, three outputs: building printer test pages as real CMYK PDFs with Astro]]></title>
-        <id>https://dev.to/printertestpage/one-layout-file-three-outputs-building-printer-test-pages-as-real-cmyk-pdfs-with-astro-243d</id>
-        <link href="https://dev.to/printertestpage/one-layout-file-three-outputs-building-printer-test-pages-as-real-cmyk-pdfs-with-astro-243d"/>
+        <title type="html"><![CDATA[JavaScript Demos – Practical browser-based JavaScript examples, no frameworks]]></title>
+        <id>https://brysonbw.github.io/js-demos/#/</id>
+        <link href="https://brysonbw.github.io/js-demos/#/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Matrix of Rust Ownership: A JavaScript Dev's Guide]]></title>
-        <id>https://dev.to/timevolt/the-matrix-of-rust-ownership-a-javascript-devs-guide-koc</id>
-        <link href="https://dev.to/timevolt/the-matrix-of-rust-ownership-a-javascript-devs-guide-koc"/>
+        <title type="html"><![CDATA[Skyfall – open-source WebGPU aircombat game that runs in your browser]]></title>
+        <id>https://github.com/a7ul/skyfall</id>
+        <link href="https://github.com/a7ul/skyfall"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chron passed 10,000 npm downloads on September 30th. 10,158 as of this morning]]></title>
-        <id>https://dev.to/sirinivask/chron-passed-10000-npm-downloads-on-september-30th-10158-as-of-this-morning-k0h</id>
-        <link href="https://dev.to/sirinivask/chron-passed-10000-npm-downloads-on-september-30th-10158-as-of-this-morning-k0h"/>
+        <title type="html"><![CDATA["But it would have bothered us the rest of our lives."]]></title>
+        <id>https://unsung.aresluna.org/but-it-would-have-bothered-us-the-rest-of-our-lives/</id>
+        <link href="https://unsung.aresluna.org/but-it-would-have-bothered-us-the-rest-of-our-lives/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tested 11 HTTP Resilience Libraries]]></title>
-        <id>https://dev.to/gkoos/i-tested-11-http-resilience-libraries-312</id>
-        <link href="https://dev.to/gkoos/i-tested-11-http-resilience-libraries-312"/>
+        <title type="html"><![CDATA[Fix Your AI Slop Problem by Giving Reviewers Credit]]></title>
+        <id>https://danunparsed.com/p/giving-code-reviewers-credit</id>
+        <link href="https://danunparsed.com/p/giving-code-reviewers-credit"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I put a free QR code generator in 2 lines of HTML — no signup, no API key]]></title>
-        <id>https://dev.to/max_musterman_dd8655b9fcb/i-put-a-free-qr-code-generator-in-2-lines-of-html-no-signup-no-api-key-4o2d</id>
-        <link href="https://dev.to/max_musterman_dd8655b9fcb/i-put-a-free-qr-code-generator-in-2-lines-of-html-no-signup-no-api-key-4o2d"/>
+        <title type="html"><![CDATA[Court Tosses Sentence After A.I. Video of Victim 'Forgiving' His Killer]]></title>
+        <id>https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html</id>
+        <link href="https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Essential DOM Manipulation Techniques for Dynamic Web Applications]]></title>
-        <id>https://dev.to/greatness_10xxx7/essential-dom-manipulation-techniques-for-dynamic-web-applications-a7f</id>
-        <link href="https://dev.to/greatness_10xxx7/essential-dom-manipulation-techniques-for-dynamic-web-applications-a7f"/>
+        <title type="html"><![CDATA[Huawei Kirin 9050 Pro uses impressive 3D V-Cache-like stacked design for the SoC]]></title>
+        <id>https://www.notebookcheck.net/Teardown-shows-Huawei-Kirin-9050-Pro-uses-a-3D-V-Cache-like-stacked-design-for-the-SoC-and-the-results-are-impressive.1414228.0.html</id>
+        <link href="https://www.notebookcheck.net/Teardown-shows-Huawei-Kirin-9050-Pro-uses-a-3D-V-Cache-like-stacked-design-for-the-SoC-and-the-results-are-impressive.1414228.0.html"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Text-to-Speech Chrome Extension]]></title>
-        <id>https://dev.to/voice_developer/build-a-text-to-speech-chrome-extension-10ai</id>
-        <link href="https://dev.to/voice_developer/build-a-text-to-speech-chrome-extension-10ai"/>
+        <title type="html"><![CDATA[Show HN: Orrery, a Three.js solar system visualization powered by real NAIF data]]></title>
+        <id>https://orrery.ryboso.me/</id>
+        <link href="https://orrery.ryboso.me/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Add Voice to Your React App with ElevenLabs]]></title>
-        <id>https://dev.to/voice_developer/how-to-add-voice-to-your-react-app-with-elevenlabs-58ck</id>
-        <link href="https://dev.to/voice_developer/how-to-add-voice-to-your-react-app-with-elevenlabs-58ck"/>
+        <title type="html"><![CDATA[Superpowers Race to Put Nuclear Reactors on the Moon]]></title>
+        <id>https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html</id>
+        <link href="https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My FAQ Schema and My FAQ Had Become Two Different Documents]]></title>
-        <id>https://dev.to/steven_browning_70ac8fbfa/my-faq-schema-and-my-faq-had-become-two-different-documents-1j92</id>
-        <link href="https://dev.to/steven_browning_70ac8fbfa/my-faq-schema-and-my-faq-had-become-two-different-documents-1j92"/>
+        <title type="html"><![CDATA[L402 edge cache for AI agents paying over Lightning]]></title>
+        <id>https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp</id>
+        <link href="https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Standardizing HTTP Resilience Library Behavior in JavaScript for Predictable Performance Across Scenarios]]></title>
-        <id>https://dev.to/pavkode/standardizing-http-resilience-library-behavior-in-javascript-for-predictable-performance-across-3l10</id>
-        <link href="https://dev.to/pavkode/standardizing-http-resilience-library-behavior-in-javascript-for-predictable-performance-across-3l10"/>
+        <title type="html"><![CDATA[Show HN: HyperCMD, write CLI applications using plain HTML]]></title>
+        <id>https://github.com/fusor-rs/hypercmd</id>
+        <link href="https://github.com/fusor-rs/hypercmd"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This toolless modular lever-action wallet is the coolest I’ve stuck to my phone]]></title>
-        <id>https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone</id>
-        <link href="https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Mystery surrounding the formation of asteroid Bennu solved]]></title>
+        <id>https://ethz.ch/en/news-and-events/eth-news/news/2026/09/mystery-surrounding-the-formation-of-asteroid-bennu-solved.html</id>
+        <link href="https://ethz.ch/en/news-and-events/eth-news/news/2026/09/mystery-surrounding-the-formation-of-asteroid-bennu-solved.html"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Capcom is preparing for a ‘future where we create games together with AI’]]></title>
-        <id>https://www.theverge.com/games/1004418/capcom-ai-game-development</id>
-        <link href="https://www.theverge.com/games/1004418/capcom-ai-game-development"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Show HN: Random Topic Generator with built-in talking points]]></title>
+        <id>https://random-topic.com</id>
+        <link href="https://random-topic.com"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The forgotten Chromebook that started it all]]></title>
-        <id>https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all</id>
-        <link href="https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Claude Forgets My Rules After an Hour. A Hook Doesn’t.]]></title>
+        <id>https://pub.towardsai.net/claude-forgets-my-rules-after-an-hour-a-hook-doesnt-f0561061d60a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-forgets-my-rules-after-an-hour-a-hook-doesnt-f0561061d60a?source=rss----98111c9905da---4"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The AirPods Pro 3 are a fantastic deal at $179]]></title>
-        <id>https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Stop Writing If/Else to Handle Human Replies in LangGraph]]></title>
+        <id>https://pub.towardsai.net/stop-writing-if-else-to-handle-human-replies-in-langgraph-d3ac2c590b72?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/stop-writing-if-else-to-handle-human-replies-in-langgraph-d3ac2c590b72?source=rss----98111c9905da---4"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Online Gift Cards and Digital Gift Ideas (2026)]]></title>
-        <id>https://www.wired.com/story/gift-cards-and-digital-gift-ideas/</id>
-        <link href="https://www.wired.com/story/gift-cards-and-digital-gift-ideas/"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[The Romeo and Juliet Problem, a Soft Introduction to Double Integrals]]></title>
+        <id>https://pub.towardsai.net/double-integrals-joint-distributions-station-meeting-d771b7f6628f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/double-integrals-joint-distributions-station-meeting-d771b7f6628f?source=rss----98111c9905da---4"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Glasses Nova (Gen 3) Review: Not Much New]]></title>
-        <id>https://www.wired.com/review/meta-glasses-gen-3/</id>
-        <link href="https://www.wired.com/review/meta-glasses-gen-3/"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Qwen3.8-Flash-Next on 4 GPUs: device_map="auto" Leaves GPU 0 Empty and Offloads 22 GB]]></title>
+        <id>https://pub.towardsai.net/qwen3-8-flash-next-on-4-gpus-device-map-auto-leaves-gpu-0-empty-and-offloads-22-gb-4440442f24f7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/qwen3-8-flash-next-on-4-gpus-device-map-auto-leaves-gpu-0-empty-and-offloads-22-gb-4440442f24f7?source=rss----98111c9905da---4"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike]]></title>
-        <id>https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/</id>
-        <link href="https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[State-Space Unlearning for Non-Stationary Bias in Land Surface Forecasting]]></title>
+        <id>https://arxiv.org/abs/2610.02248</id>
+        <link href="https://arxiv.org/abs/2610.02248"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior]]></title>
-        <id>https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/</id>
-        <link href="https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Nearest-neighbour baselines for fingerprint prediction from MS/MS spectra under different assumptions]]></title>
+        <id>https://arxiv.org/abs/2610.02249</id>
+        <link href="https://arxiv.org/abs/2610.02249"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keurig Alta First-Look: No More Plastic K-Cups]]></title>
-        <id>https://www.wired.com/story/keurig-alta-coffee-brewer/</id>
-        <link href="https://www.wired.com/story/keurig-alta-coffee-brewer/"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Counterfactual Predictions in Scientific Emulators Without Controlled Experiments]]></title>
+        <id>https://arxiv.org/abs/2610.02252</id>
+        <link href="https://arxiv.org/abs/2610.02252"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Herbarium – keep and review the HTML pages AI tools generate]]></title>
-        <id>https://github.com/abdoufermat5/herbarium</id>
-        <link href="https://github.com/abdoufermat5/herbarium"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[MACTS-EM: Multi-Agent Collaborative Time Series Forecasting with Emergent Memory]]></title>
+        <id>https://arxiv.org/abs/2610.02255</id>
+        <link href="https://arxiv.org/abs/2610.02255"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A complete web build of OrcaSlicer for 3D printing]]></title>
-        <id>https://cubbycad.com/slicer/</id>
-        <link href="https://cubbycad.com/slicer/"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[TRACE: A Reproducible Benchmark for Electricity Price Forecasting with Official Operational Text]]></title>
+        <id>https://arxiv.org/abs/2610.02256</id>
+        <link href="https://arxiv.org/abs/2610.02256"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Power Struggle: two phones fight to get each other's charge]]></title>
-        <id>https://github.com/kenkawakenkenke/power-struggle</id>
-        <link href="https://github.com/kenkawakenkenke/power-struggle"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[$\Psi$-Resilience: Model-Free Feature Importance from 1D Topological Signals]]></title>
+        <id>https://arxiv.org/abs/2610.02299</id>
+        <link href="https://arxiv.org/abs/2610.02299"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Minds of Mark Zuckerberg, Palmer Luckey, Josh Kushner and Scott Wu [video]]]></title>
-        <id>https://www.youtube.com/watch?v=cvmgnpxr-Lk</id>
-        <link href="https://www.youtube.com/watch?v=cvmgnpxr-Lk"/>
-        <updated>2026-10-03T16:00:00.000Z</updated>
-        <published>2026-10-03T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Slow-Fast Multi-Teacher On-Policy Distillation for Capability Preservation]]></title>
+        <id>https://arxiv.org/abs/2610.02324</id>
+        <link href="https://arxiv.org/abs/2610.02324"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitigating Convergence Collapse in Fixed-Target Anomaly Detectors via Kernel-Anchored Locality Regularization]]></title>
+        <id>https://arxiv.org/abs/2610.02345</id>
+        <link href="https://arxiv.org/abs/2610.02345"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lexicographic Multi-Objective On-Policy Distillation]]></title>
+        <id>https://arxiv.org/abs/2610.02359</id>
+        <link href="https://arxiv.org/abs/2610.02359"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Co-design Gym: A Unified Benchmark for Embodiment-Policy Co-optimization]]></title>
+        <id>https://arxiv.org/abs/2610.02366</id>
+        <link href="https://arxiv.org/abs/2610.02366"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Surprising Effectiveness of Shared Memory in Looped Transformers]]></title>
+        <id>https://arxiv.org/abs/2610.02383</id>
+        <link href="https://arxiv.org/abs/2610.02383"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Validated Data Onboarding for AI Demand Forecasting on U.S. Building Meter Data: Design, Controlled Evaluation, and a Corrected Negative Result]]></title>
+        <id>https://arxiv.org/abs/2610.02397</id>
+        <link href="https://arxiv.org/abs/2610.02397"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Neural Field Learning via Adaptive Coverage and Focused Sampling]]></title>
+        <id>https://arxiv.org/abs/2610.02410</id>
+        <link href="https://arxiv.org/abs/2610.02410"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry-Aware Time Reparameterization for Flow-Map Distillation]]></title>
+        <id>https://arxiv.org/abs/2610.02427</id>
+        <link href="https://arxiv.org/abs/2610.02427"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRISP: A Framework for Clause-Reconstructed Interpretable NeuroSymbolic Propositions]]></title>
+        <id>https://arxiv.org/abs/2610.02431</id>
+        <link href="https://arxiv.org/abs/2610.02431"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are you Synthesizing or Recalling? Evaluating LLMs on Algorithmic Code Retrieval]]></title>
+        <id>https://arxiv.org/abs/2610.02438</id>
+        <link href="https://arxiv.org/abs/2610.02438"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Composable AI-Accelerated Iterative Solver for 3D-IC Thermal Modeling]]></title>
+        <id>https://arxiv.org/abs/2610.02461</id>
+        <link href="https://arxiv.org/abs/2610.02461"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LiteEMG-FM: An Efficient and Deployable Foundation Model for Robust EMG Sensing]]></title>
+        <id>https://arxiv.org/abs/2610.02497</id>
+        <link href="https://arxiv.org/abs/2610.02497"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Fidelity Policy Gradients Stabilize Data-Scarce Reinforcement Learning]]></title>
+        <id>https://arxiv.org/abs/2610.02505</id>
+        <link href="https://arxiv.org/abs/2610.02505"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
     </entry>
 </feed>
