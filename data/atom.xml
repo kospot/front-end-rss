@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-05T13:02:52.177Z</updated>
+    <updated>2026-10-05T15:02:56.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,6 +43,20 @@
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lola Vision Systems is trying to make it easier to run AI models on chips]]></title>
+        <id>https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/</id>
+        <link href="https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026]]></title>
+        <id>https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/</id>
+        <link href="https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?]]></title>
         <id>https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/</id>
         <link href="https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"/>
@@ -50,303 +64,58 @@
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I built a video transcript tool that also reads what is on screen]]></title>
-        <id>https://scribiz.com</id>
-        <link href="https://scribiz.com"/>
+        <title type="html"><![CDATA[Show HN: Cachetoast]]></title>
+        <id>https://github.com/rhunterharris/cachetoast</id>
+        <link href="https://github.com/rhunterharris/cachetoast"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measles disaster in Florida might not be far off, analysis finds]]></title>
-        <id>https://www.cidrap.umn.edu/public-health/measles-disaster-florida-might-not-be-far-analysis-finds</id>
-        <link href="https://www.cidrap.umn.edu/public-health/measles-disaster-florida-might-not-be-far-analysis-finds"/>
+        <title type="html"><![CDATA[Commodified Intelligence]]></title>
+        <id>https://herecomesthemoon.net/2026/09/commodified-intelligence/</id>
+        <link href="https://herecomesthemoon.net/2026/09/commodified-intelligence/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pivot – Real-time analytics on Iceberg and Delta, faster than ClickHouse]]></title>
-        <id>https://github.com/pivotlake/pivot/</id>
-        <link href="https://github.com/pivotlake/pivot/"/>
+        <title type="html"><![CDATA[Discover AI – A Learning Guide]]></title>
+        <id>https://github.com/Fazmin/AILearningGuide</id>
+        <link href="https://github.com/Fazmin/AILearningGuide"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS does your tooltip positioning now]]></title>
-        <id>https://allthingssmitty.com/2026/10/05/css-does-your-tooltip-positioning-now/</id>
-        <link href="https://allthingssmitty.com/2026/10/05/css-does-your-tooltip-positioning-now/"/>
+        <title type="html"><![CDATA[Walden [video]]]></title>
+        <id>https://www.youtube.com/watch?v=DPRKPmvYsHw</id>
+        <link href="https://www.youtube.com/watch?v=DPRKPmvYsHw"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Science Slop Index]]></title>
-        <id>https://yerimoh.github.io/scientific-slop-demo/</id>
-        <link href="https://yerimoh.github.io/scientific-slop-demo/"/>
+        <title type="html"><![CDATA[Rust for CPython (Python Language Summit 2026) – Python Insider]]></title>
+        <id>https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/</id>
+        <link href="https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build and fly drones with a C flight controller running as WebAssembly]]></title>
-        <id>https://mrtksn.github.io/liftlab/</id>
-        <link href="https://mrtksn.github.io/liftlab/"/>
+        <title type="html"><![CDATA[Linux Plumbers Conference Timetable]]></title>
+        <id>https://lpc.events/event/20/timetable/</id>
+        <link href="https://lpc.events/event/20/timetable/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Steve Jobs died 15 years ago today. I built an interactive tribute]]></title>
-        <id>https://thankyousteve.org/</id>
-        <link href="https://thankyousteve.org/"/>
+        <title type="html"><![CDATA[Spicycrab (Python Language Summit 2026) – Python Insider]]></title>
+        <id>https://blog.python.org/2026/09/language-summit-2026-spicycrab/</id>
+        <link href="https://blog.python.org/2026/09/language-summit-2026-spicycrab/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Metacognitive Agents (2025) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=mE28UJ3tkos</id>
-        <link href="https://www.youtube.com/watch?v=mE28UJ3tkos"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of AI in Software Development: Data from 400 Orgs [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Se8jHLliLXE</id>
-        <link href="https://www.youtube.com/watch?v=Se8jHLliLXE"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kosmora – open packs of Wikipedia posts as cards (I'm addicted)]]></title>
-        <id>https://kosmora.io</id>
-        <link href="https://kosmora.io"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build on ECS Primitives, Not Convenience Layers]]></title>
-        <id>https://awsfundamentals.com/blog/ecs-primitives-not-convenience-layers</id>
-        <link href="https://awsfundamentals.com/blog/ecs-primitives-not-convenience-layers"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Mooring – a better screen sharing experience for Macs]]></title>
-        <id>https://kcirtapfromspace.github.io/mooring/</id>
-        <link href="https://kcirtapfromspace.github.io/mooring/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researcher at Russian plague laboratory dies of 'unknown' infection]]></title>
-        <id>https://www.cnn.com/2026/10/04/europe/russia-laboratory-plague-accident-intl</id>
-        <link href="https://www.cnn.com/2026/10/04/europe/russia-laboratory-plague-accident-intl"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waste colonialism: Turkish city carrying the weight of Britain's pollution issue]]></title>
-        <id>https://www.theguardian.com/environment/2026/aug/06/waste-colonialism-the-turkish-city-carrying-the-weight-of-britains-pollution-problem</id>
-        <link href="https://www.theguardian.com/environment/2026/aug/06/waste-colonialism-the-turkish-city-carrying-the-weight-of-britains-pollution-problem"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI: 28 Days of Codex Improvements – Or a Full Usage Reset]]></title>
-        <id>https://twitter.com/Codexresets_/status/2106946116294000889</id>
-        <link href="https://twitter.com/Codexresets_/status/2106946116294000889"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Split an ultrawide monitor into two real displays on macOS]]></title>
-        <id>https://github.com/eduardoworrel/telas</id>
-        <link href="https://github.com/eduardoworrel/telas"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panda Express to help 55,000 employees become homeowners]]></title>
-        <id>https://www.fastcompany.com/91616008/panda-expresss-founders-employee-homeowners</id>
-        <link href="https://www.fastcompany.com/91616008/panda-expresss-founders-employee-homeowners"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Random Topic Generator with built-in talking points]]></title>
-        <id>https://random-topic.com</id>
-        <link href="https://random-topic.com"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mystery surrounding the formation of asteroid Bennu solved]]></title>
-        <id>https://ethz.ch/en/news-and-events/eth-news/news/2026/09/mystery-surrounding-the-formation-of-asteroid-bennu-solved.html</id>
-        <link href="https://ethz.ch/en/news-and-events/eth-news/news/2026/09/mystery-surrounding-the-formation-of-asteroid-bennu-solved.html"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: HyperCMD, write CLI applications using plain HTML]]></title>
-        <id>https://github.com/fusor-rs/hypercmd</id>
-        <link href="https://github.com/fusor-rs/hypercmd"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L402 edge cache for AI agents paying over Lightning]]></title>
-        <id>https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp</id>
-        <link href="https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superpowers Race to Put Nuclear Reactors on the Moon]]></title>
-        <id>https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html</id>
-        <link href="https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Orrery, a Three.js solar system visualization powered by real NAIF data]]></title>
-        <id>https://orrery.ryboso.me/</id>
-        <link href="https://orrery.ryboso.me/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huawei Kirin 9050 Pro uses impressive 3D V-Cache-like stacked design for the SoC]]></title>
-        <id>https://www.notebookcheck.net/Teardown-shows-Huawei-Kirin-9050-Pro-uses-a-3D-V-Cache-like-stacked-design-for-the-SoC-and-the-results-are-impressive.1414228.0.html</id>
-        <link href="https://www.notebookcheck.net/Teardown-shows-Huawei-Kirin-9050-Pro-uses-a-3D-V-Cache-like-stacked-design-for-the-SoC-and-the-results-are-impressive.1414228.0.html"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Court Tosses Sentence After A.I. Video of Victim 'Forgiving' His Killer]]></title>
-        <id>https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html</id>
-        <link href="https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fix Your AI Slop Problem by Giving Reviewers Credit]]></title>
-        <id>https://danunparsed.com/p/giving-code-reviewers-credit</id>
-        <link href="https://danunparsed.com/p/giving-code-reviewers-credit"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["But it would have bothered us the rest of our lives."]]></title>
-        <id>https://unsung.aresluna.org/but-it-would-have-bothered-us-the-rest-of-our-lives/</id>
-        <link href="https://unsung.aresluna.org/but-it-would-have-bothered-us-the-rest-of-our-lives/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skyfall – open-source WebGPU aircombat game that runs in your browser]]></title>
-        <id>https://github.com/a7ul/skyfall</id>
-        <link href="https://github.com/a7ul/skyfall"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Demos – Practical browser-based JavaScript examples, no frameworks]]></title>
-        <id>https://brysonbw.github.io/js-demos/#/</id>
-        <link href="https://brysonbw.github.io/js-demos/#/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is HLS Streaming? HTTP Live Streaming Explained]]></title>
-        <id>https://www.red5.net/blog/what-is-hls-streaming/</id>
-        <link href="https://www.red5.net/blog/what-is-hls-streaming/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researcher at Russian plague laboratory dies of 'unknown' infection]]></title>
-        <id>https://www.scrippsnews.com/world/europe/researcher-at-russian-plague-laboratory-dies-of-unknown-infection</id>
-        <link href="https://www.scrippsnews.com/world/europe/researcher-at-russian-plague-laboratory-dies-of-unknown-infection"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RustQC: Rust reimplementation of dupRadar, RSeQC, Qualimap, preseq, and samtools]]></title>
-        <id>https://seqeralabs.github.io/RustQC/</id>
-        <link href="https://seqeralabs.github.io/RustQC/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every Map Everywhere All at Once: exact neutral redistricting maps on a GPU]]></title>
-        <id>https://www.mccomb.ca/writing/everymap/</id>
-        <link href="https://www.mccomb.ca/writing/everymap/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astronaut back on Earth – forgets about gravity]]></title>
-        <id>https://www.youtube.com/watch?v=PVxaL8CAO4M</id>
-        <link href="https://www.youtube.com/watch?v=PVxaL8CAO4M"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Digital scarcity; app where photos gradually decay with time / views]]></title>
-        <id>https://joinfaded.com/</id>
-        <link href="https://joinfaded.com/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teen suspected of running KillSec ransomware group as cops seize servers]]></title>
-        <id>https://www.theregister.com/cyber-crime/2026/10/02/teen-suspected-of-running-killsec-ransomware-group-as-cops-seize-servers-arrest-three/5300784</id>
-        <link href="https://www.theregister.com/cyber-crime/2026/10/02/teen-suspected-of-running-killsec-ransomware-group-as-cops-seize-servers-arrest-three/5300784"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Side-by-side California ADU cost ledger (800 vs. 400 sq ft)]]></title>
-        <id>https://everylineitem.com/compare/</id>
-        <link href="https://everylineitem.com/compare/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anatomy Unzipped: John of Arderne's Sweden Scroll (Ca. 1425–35)]]></title>
-        <id>https://publicdomainreview.org/collection/arderne-scroll/</id>
-        <link href="https://publicdomainreview.org/collection/arderne-scroll/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irrelevant visual details interfere with decisions under uncertainty]]></title>
-        <id>https://medicalxpress.com/news/2026-10-irrelevant-visual-decisions-uncertainty-brain.html</id>
-        <link href="https://medicalxpress.com/news/2026-10-irrelevant-visual-decisions-uncertainty-brain.html"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Ramen – self-hosted multi-zone MCP server for Kubernetes(Rust & Python)]]></title>
-        <id>https://github.com/bkraad47/ramen</id>
-        <link href="https://github.com/bkraad47/ramen"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tmux Buffers and Popups: Load, Save, Paste]]></title>
-        <id>https://saurabhkushwah.com/blog/tmux-buffers</id>
-        <link href="https://saurabhkushwah.com/blog/tmux-buffers"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rewind VM: a flaky build you only catch once]]></title>
-        <id>https://fzakaria.com/2026/10/03/rewind-vm-a-flaky-build-you-only-catch-once</id>
-        <link href="https://fzakaria.com/2026/10/03/rewind-vm-a-flaky-build-you-only-catch-once"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure's Weakest Link – Five Full Cross-Tenant Compromises]]></title>
-        <id>https://binsec.no/posts/2026/10/one-root-case</id>
-        <link href="https://binsec.no/posts/2026/10/one-root-case"/>
+        <title type="html"><![CDATA[Building Maintainable PHP Applications: Foundations]]></title>
+        <id>https://codyssey.dev/courses/building-maintainable-php-applications-foundations</id>
+        <link href="https://codyssey.dev/courses/building-maintainable-php-applications-foundations"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
@@ -358,9 +127,240 @@
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Maintainable PHP Applications: Foundations]]></title>
-        <id>https://codyssey.dev/courses/building-maintainable-php-applications-foundations</id>
-        <link href="https://codyssey.dev/courses/building-maintainable-php-applications-foundations"/>
+        <title type="html"><![CDATA[Azure's Weakest Link – Five Full Cross-Tenant Compromises]]></title>
+        <id>https://binsec.no/posts/2026/10/one-root-case</id>
+        <link href="https://binsec.no/posts/2026/10/one-root-case"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewind VM: a flaky build you only catch once]]></title>
+        <id>https://fzakaria.com/2026/10/03/rewind-vm-a-flaky-build-you-only-catch-once</id>
+        <link href="https://fzakaria.com/2026/10/03/rewind-vm-a-flaky-build-you-only-catch-once"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tmux Buffers and Popups: Load, Save, Paste]]></title>
+        <id>https://saurabhkushwah.com/blog/tmux-buffers</id>
+        <link href="https://saurabhkushwah.com/blog/tmux-buffers"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Ramen – self-hosted multi-zone MCP server for Kubernetes(Rust & Python)]]></title>
+        <id>https://github.com/bkraad47/ramen</id>
+        <link href="https://github.com/bkraad47/ramen"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irrelevant visual details interfere with decisions under uncertainty]]></title>
+        <id>https://medicalxpress.com/news/2026-10-irrelevant-visual-decisions-uncertainty-brain.html</id>
+        <link href="https://medicalxpress.com/news/2026-10-irrelevant-visual-decisions-uncertainty-brain.html"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anatomy Unzipped: John of Arderne's Sweden Scroll (Ca. 1425–35)]]></title>
+        <id>https://publicdomainreview.org/collection/arderne-scroll/</id>
+        <link href="https://publicdomainreview.org/collection/arderne-scroll/"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Side-by-side California ADU cost ledger (800 vs. 400 sq ft)]]></title>
+        <id>https://everylineitem.com/compare/</id>
+        <link href="https://everylineitem.com/compare/"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teen suspected of running KillSec ransomware group as cops seize servers]]></title>
+        <id>https://www.theregister.com/cyber-crime/2026/10/02/teen-suspected-of-running-killsec-ransomware-group-as-cops-seize-servers-arrest-three/5300784</id>
+        <link href="https://www.theregister.com/cyber-crime/2026/10/02/teen-suspected-of-running-killsec-ransomware-group-as-cops-seize-servers-arrest-three/5300784"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Digital scarcity; app where photos gradually decay with time / views]]></title>
+        <id>https://joinfaded.com/</id>
+        <link href="https://joinfaded.com/"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astronaut back on Earth – forgets about gravity]]></title>
+        <id>https://www.youtube.com/watch?v=PVxaL8CAO4M</id>
+        <link href="https://www.youtube.com/watch?v=PVxaL8CAO4M"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Map Everywhere All at Once: exact neutral redistricting maps on a GPU]]></title>
+        <id>https://www.mccomb.ca/writing/everymap/</id>
+        <link href="https://www.mccomb.ca/writing/everymap/"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RustQC: Rust reimplementation of dupRadar, RSeQC, Qualimap, preseq, and samtools]]></title>
+        <id>https://seqeralabs.github.io/RustQC/</id>
+        <link href="https://seqeralabs.github.io/RustQC/"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researcher at Russian plague laboratory dies of 'unknown' infection]]></title>
+        <id>https://www.scrippsnews.com/world/europe/researcher-at-russian-plague-laboratory-dies-of-unknown-infection</id>
+        <link href="https://www.scrippsnews.com/world/europe/researcher-at-russian-plague-laboratory-dies-of-unknown-infection"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is HLS Streaming? HTTP Live Streaming Explained]]></title>
+        <id>https://www.red5.net/blog/what-is-hls-streaming/</id>
+        <link href="https://www.red5.net/blog/what-is-hls-streaming/"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Demos – Practical browser-based JavaScript examples, no frameworks]]></title>
+        <id>https://brysonbw.github.io/js-demos/#/</id>
+        <link href="https://brysonbw.github.io/js-demos/#/"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skyfall – open-source WebGPU aircombat game that runs in your browser]]></title>
+        <id>https://github.com/a7ul/skyfall</id>
+        <link href="https://github.com/a7ul/skyfall"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["But it would have bothered us the rest of our lives."]]></title>
+        <id>https://unsung.aresluna.org/but-it-would-have-bothered-us-the-rest-of-our-lives/</id>
+        <link href="https://unsung.aresluna.org/but-it-would-have-bothered-us-the-rest-of-our-lives/"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix Your AI Slop Problem by Giving Reviewers Credit]]></title>
+        <id>https://danunparsed.com/p/giving-code-reviewers-credit</id>
+        <link href="https://danunparsed.com/p/giving-code-reviewers-credit"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Court Tosses Sentence After A.I. Video of Victim 'Forgiving' His Killer]]></title>
+        <id>https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html</id>
+        <link href="https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huawei Kirin 9050 Pro uses impressive 3D V-Cache-like stacked design for the SoC]]></title>
+        <id>https://www.notebookcheck.net/Teardown-shows-Huawei-Kirin-9050-Pro-uses-a-3D-V-Cache-like-stacked-design-for-the-SoC-and-the-results-are-impressive.1414228.0.html</id>
+        <link href="https://www.notebookcheck.net/Teardown-shows-Huawei-Kirin-9050-Pro-uses-a-3D-V-Cache-like-stacked-design-for-the-SoC-and-the-results-are-impressive.1414228.0.html"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Orrery, a Three.js solar system visualization powered by real NAIF data]]></title>
+        <id>https://orrery.ryboso.me/</id>
+        <link href="https://orrery.ryboso.me/"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superpowers Race to Put Nuclear Reactors on the Moon]]></title>
+        <id>https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html</id>
+        <link href="https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L402 edge cache for AI agents paying over Lightning]]></title>
+        <id>https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp</id>
+        <link href="https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: HyperCMD, write CLI applications using plain HTML]]></title>
+        <id>https://github.com/fusor-rs/hypercmd</id>
+        <link href="https://github.com/fusor-rs/hypercmd"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mystery surrounding the formation of asteroid Bennu solved]]></title>
+        <id>https://ethz.ch/en/news-and-events/eth-news/news/2026/09/mystery-surrounding-the-formation-of-asteroid-bennu-solved.html</id>
+        <link href="https://ethz.ch/en/news-and-events/eth-news/news/2026/09/mystery-surrounding-the-formation-of-asteroid-bennu-solved.html"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Random Topic Generator with built-in talking points]]></title>
+        <id>https://random-topic.com</id>
+        <link href="https://random-topic.com"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panda Express to help 55,000 employees become homeowners]]></title>
+        <id>https://www.fastcompany.com/91616008/panda-expresss-founders-employee-homeowners</id>
+        <link href="https://www.fastcompany.com/91616008/panda-expresss-founders-employee-homeowners"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Split an ultrawide monitor into two real displays on macOS]]></title>
+        <id>https://github.com/eduardoworrel/telas</id>
+        <link href="https://github.com/eduardoworrel/telas"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI: 28 Days of Codex Improvements – Or a Full Usage Reset]]></title>
+        <id>https://twitter.com/Codexresets_/status/2106946116294000889</id>
+        <link href="https://twitter.com/Codexresets_/status/2106946116294000889"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waste colonialism: Turkish city carrying the weight of Britain's pollution issue]]></title>
+        <id>https://www.theguardian.com/environment/2026/aug/06/waste-colonialism-the-turkish-city-carrying-the-weight-of-britains-pollution-problem</id>
+        <link href="https://www.theguardian.com/environment/2026/aug/06/waste-colonialism-the-turkish-city-carrying-the-weight-of-britains-pollution-problem"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researcher at Russian plague laboratory dies of 'unknown' infection]]></title>
+        <id>https://www.cnn.com/2026/10/04/europe/russia-laboratory-plague-accident-intl</id>
+        <link href="https://www.cnn.com/2026/10/04/europe/russia-laboratory-plague-accident-intl"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Mooring – a better screen sharing experience for Macs]]></title>
+        <id>https://kcirtapfromspace.github.io/mooring/</id>
+        <link href="https://kcirtapfromspace.github.io/mooring/"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build on ECS Primitives, Not Convenience Layers]]></title>
+        <id>https://awsfundamentals.com/blog/ecs-primitives-not-convenience-layers</id>
+        <link href="https://awsfundamentals.com/blog/ecs-primitives-not-convenience-layers"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kosmora – open packs of Wikipedia posts as cards (I'm addicted)]]></title>
+        <id>https://kosmora.io</id>
+        <link href="https://kosmora.io"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
