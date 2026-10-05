@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-10-05 08:01:33，:rocket: 更新条数: +2725， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-05 10:01:06，:rocket: 更新条数: +2731， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -235,26 +235,26 @@
 </summary>
 
 
-- [2026-10-05-https://tobiaschc.github.io/petite/](https://dev.to/tobiaschc/httpstobiaschcgithubiopetite-2d85)  
-- [2026-10-05-One-layout-file,-three-outputs:-building-printer-test-pages-as-real-CMYK-PDFs-with-Astro](https://dev.to/printertestpage/one-layout-file-three-outputs-building-printer-test-pages-as-real-cmyk-pdfs-with-astro-243d)  
-- [2026-10-05-The-Matrix-of-Rust-Ownership:-A-JavaScript-Dev's-Guide](https://dev.to/timevolt/the-matrix-of-rust-ownership-a-javascript-devs-guide-koc)  
-- [2026-10-05-Chron-passed-10,000-npm-downloads-on-September-30th.-10,158-as-of-this-morning](https://dev.to/sirinivask/chron-passed-10000-npm-downloads-on-september-30th-10158-as-of-this-morning-k0h)  
-- [2026-10-05-I-Tested-11-HTTP-Resilience-Libraries](https://dev.to/gkoos/i-tested-11-http-resilience-libraries-312)  
-- [2026-10-05-Build-an-XRPL-Token-Screener-in-About-50-Lines](https://dev.to/nyxagi/build-an-xrpl-token-screener-in-about-50-lines-36bp)  
-- [2026-10-05-StudyBuddy-—-Pomodoro,-Flashcards-&amp;-Quiz-in-One-Beautiful-App-🦉](https://dev.to/ujjwalgupta2021/studybuddy-pomodoro-flashcards-quiz-in-one-beautiful-app-1kjc)  
-- [2026-10-05-Boost](https://dev.to/adamalmounayar/-4a8f)  
-- [2026-10-05-Create-a-Voice-Powered-News-Reader-App](https://dev.to/voice_developer/create-a-voice-powered-news-reader-app-5ahc)  
-- [2026-10-05-How-Image-Sharpening,-Blur-&amp;-Pixelation-Actually-Work-With-Free-Browser-Tools-to-Try](https://dev.to/bellal_hossain_057bfd620a/how-image-sharpening-blur-pixelation-actually-work-with-free-browser-tools-to-try-3ion)  
-- [2026-10-05-I-put-a-free-QR-code-generator-in-2-lines-of-HTML-—-no-signup,-no-API-key](https://dev.to/max_musterman_dd8655b9fcb/i-put-a-free-qr-code-generator-in-2-lines-of-html-no-signup-no-api-key-4o2d)  
+- [2026-10-05-Standardizing-HTTP-Resilience-Library-Behavior-in-JavaScript-for-Predictable-Performance-Across-Scenarios](https://dev.to/pavkode/standardizing-http-resilience-library-behavior-in-javascript-for-predictable-performance-across-3l10)  
+- [2026-10-05-My-FAQ-Schema-and-My-FAQ-Had-Become-Two-Different-Documents](https://dev.to/steven_browning_70ac8fbfa/my-faq-schema-and-my-faq-had-become-two-different-documents-1j92)  
+- [2026-10-05-How-to-Add-Voice-to-Your-React-App-with-ElevenLabs](https://dev.to/voice_developer/how-to-add-voice-to-your-react-app-with-elevenlabs-58ck)  
+- [2026-10-05-Build-a-Text-to-Speech-Chrome-Extension](https://dev.to/voice_developer/build-a-text-to-speech-chrome-extension-10ai)  
 - [2026-10-05-Essential-DOM-Manipulation-Techniques-for-Dynamic-Web-Applications](https://dev.to/greatness_10xxx7/essential-dom-manipulation-techniques-for-dynamic-web-applications-a7f)  
-- [2026-10-05-Build-a-Text-to-Speech-Chrome-Extension](https://dev.to/voice_developer/build-a-text-to-speech-chrome-extension-10ai) ![](/assets/new.png)  
-- [2026-10-05-How-to-Add-Voice-to-Your-React-App-with-ElevenLabs](https://dev.to/voice_developer/how-to-add-voice-to-your-react-app-with-elevenlabs-58ck) ![](/assets/new.png)  
-- [2026-10-05-My-FAQ-Schema-and-My-FAQ-Had-Become-Two-Different-Documents](https://dev.to/steven_browning_70ac8fbfa/my-faq-schema-and-my-faq-had-become-two-different-documents-1j92) ![](/assets/new.png)  
-- [2026-10-05-Standardizing-HTTP-Resilience-Library-Behavior-in-JavaScript-for-Predictable-Performance-Across-Scenarios](https://dev.to/pavkode/standardizing-http-resilience-library-behavior-in-javascript-for-predictable-performance-across-3l10) ![](/assets/new.png)  
-- [2026-10-04-I-built-a-daily-regex-game.-Scoring-regex-fairly-was-the-hard-part](https://dev.to/mrdebugger/i-built-a-daily-regex-game-scoring-regex-fairly-was-the-hard-part-52h9)  
-- [2026-10-04-How-to-Build-a-Zero-Knowledge-AI-Prompt-Anonymizer-in-Pure-JavaScript-Two-Way-PII-Masking](https://dev.to/bhutto_sahab_95fe7b5d5581/how-to-build-a-zero-knowledge-ai-prompt-anonymizer-in-pure-javascript-two-way-pii-masking-1nl8)  
-- [2026-10-04-The-5-Trade-Offs-Your-System-Design-Interview-Is-Actually-Scored-On](https://dev.to/nurrehman/the-5-trade-offs-your-system-design-interview-is-actually-scored-on-1o5h)  
-- [2026-10-04-Looping-and-Modifying-Nested-Arrays-in-JavaScript](https://dev.to/farah_ismahhana_1c67ec83/looping-and-modifying-nested-arrays-in-javascript-3m4c)  
+- [2026-10-05-I-put-a-free-QR-code-generator-in-2-lines-of-HTML-—-no-signup,-no-API-key](https://dev.to/max_musterman_dd8655b9fcb/i-put-a-free-qr-code-generator-in-2-lines-of-html-no-signup-no-api-key-4o2d)  
+- [2026-10-05-How-Image-Sharpening,-Blur-&amp;-Pixelation-Actually-Work-With-Free-Browser-Tools-to-Try](https://dev.to/bellal_hossain_057bfd620a/how-image-sharpening-blur-pixelation-actually-work-with-free-browser-tools-to-try-3ion)  
+- [2026-10-05-Create-a-Voice-Powered-News-Reader-App](https://dev.to/voice_developer/create-a-voice-powered-news-reader-app-5ahc)  
+- [2026-10-05-Boost](https://dev.to/adamalmounayar/-4a8f)  
+- [2026-10-05-StudyBuddy-—-Pomodoro,-Flashcards-&amp;-Quiz-in-One-Beautiful-App-🦉](https://dev.to/ujjwalgupta2021/studybuddy-pomodoro-flashcards-quiz-in-one-beautiful-app-1kjc)  
+- [2026-10-05-Build-an-XRPL-Token-Screener-in-About-50-Lines](https://dev.to/nyxagi/build-an-xrpl-token-screener-in-about-50-lines-36bp)  
+- [2026-10-05-I-Tested-11-HTTP-Resilience-Libraries](https://dev.to/gkoos/i-tested-11-http-resilience-libraries-312)  
+- [2026-10-05-Chron-passed-10,000-npm-downloads-on-September-30th.-10,158-as-of-this-morning](https://dev.to/sirinivask/chron-passed-10000-npm-downloads-on-september-30th-10158-as-of-this-morning-k0h)  
+- [2026-10-05-The-Matrix-of-Rust-Ownership:-A-JavaScript-Dev's-Guide](https://dev.to/timevolt/the-matrix-of-rust-ownership-a-javascript-devs-guide-koc)  
+- [2026-10-05-One-layout-file,-three-outputs:-building-printer-test-pages-as-real-CMYK-PDFs-with-Astro](https://dev.to/printertestpage/one-layout-file-three-outputs-building-printer-test-pages-as-real-cmyk-pdfs-with-astro-243d)  
+- [2026-10-05-https://tobiaschc.github.io/petite/](https://dev.to/tobiaschc/httpstobiaschcgithubiopetite-2d85)  
+- [2026-10-05-Trying-Loupe-in-a-web-app:-install-and-integration-notes](https://dev.to/andrei_veridox/trying-loupe-in-a-web-app-install-and-integration-notes-4ff7) ![](/assets/new.png)  
+- [2026-10-05-Create-an-AI-Dubbing-Tool-for-Video-Content](https://dev.to/voice_developer/create-an-ai-dubbing-tool-for-video-content-4g9j) ![](/assets/new.png)  
+- [2026-10-05-Build-a-Voice-Notification-System-with-ElevenLabs](https://dev.to/voice_developer/build-a-voice-notification-system-with-elevenlabs-3a8g) ![](/assets/new.png)  
+- [2026-10-05-Parsing-and-Formatting-SQL-in-JavaScript-—-Without-a-Grammar-File](https://dev.to/toolzip/parsing-and-formatting-sql-in-javascript-without-a-grammar-file-18hk) ![](/assets/new.png)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -460,16 +460,16 @@ https://github.com/evoluteur/sacred-geometry
 
 
 - [2026-09-30-Principles-for-effective-slides](https://martinfowler.com/articles/never-send-slides/slide-principles.html)  
-- [2026-09-29-Fragments:-September-29](https://martinfowler.com/fragments/2026-09-29.html)  
 - [2026-09-29-Bliki:-Sensible-Default](https://martinfowler.com/bliki/SensibleDefault.html)  
-- [2026-09-24-Fragments:-September-24](https://martinfowler.com/fragments/2026-09-24.html)  
+- [2026-09-29-Fragments:-September-29](https://martinfowler.com/fragments/2026-09-29.html)  
 - [2026-09-24-Healthy-Feedback](https://martinfowler.com/articles/healthy-peer-feedback.html)  
-- [2026-09-17-Fragments:-September-16](https://martinfowler.com/fragments/2026-09-16.html)  
+- [2026-09-24-Fragments:-September-24](https://martinfowler.com/fragments/2026-09-24.html)  
 - [2026-09-17-I-don't-like-LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)  
+- [2026-09-17-Fragments:-September-16](https://martinfowler.com/fragments/2026-09-16.html)  
 - [2026-09-15-Nail-the-Narrative](https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html)  
 - [2026-09-10-Social-Media-Engagement:-summer-2026](https://martinfowler.com/articles/2026-social-traffic.html)  
-- [2026-09-08-Fragments:-September-8](https://martinfowler.com/fragments/2026-09-08.html)  
 - [2026-09-08-Do-you-even-need-a-presentation?](https://martinfowler.com/articles/never-send-slides/need-presentation.html)  
+- [2026-09-08-Fragments:-September-8](https://martinfowler.com/fragments/2026-09-08.html)  
 - [......【查看更多】......](/details/Martin Fowler.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -543,8 +543,8 @@ https://github.com/evoluteur/sacred-geometry
 </summary>
 
 
-- [2026-09-09-not-much-happened-today](https://news.smol.ai/issues/26-09-09-not-much/)  
 - [2026-09-09-not-much-happened-today](https://news.smol.ai/issues/26-09-10-not-much/)  
+- [2026-09-09-not-much-happened-today](https://news.smol.ai/issues/26-09-09-not-much/)  
 - [2026-09-08-OpenAI-reports-Navier-Stokes-singularity-find,-a-contender-for-second-ever-Millenium-Prize-awarded,-overshadowing-Cognition's-$48B-Series-E,-Mistral's-$24B-Series-D,-Meta's-Muse-agent,-and-GPT-Image-2.5](https://news.smol.ai/issues/26-09-08-navier-stokes/)  
 - [......【查看更多】......](/details/smol.ai.md)
 
@@ -613,25 +613,25 @@ https://github.com/evoluteur/sacred-geometry
 
 
 - [2026-10-03-A-model-guide-for-the-GPT-6-family](https://openai.com/index/practical-guide-building-gpt-6)  
-- [2026-10-02-Chatham-scales-its-capital-markets-expertise-with-OpenAI](https://openai.com/index/chatham-financial)  
-- [2026-10-02-The-eternal-complement](https://openai.com/index/the-eternal-complement)  
 - [2026-10-02-How-Albertsons-Companies-is-reimagining-retail-from-the-inside-out](https://openai.com/index/albertsons-reimagining-retail)  
+- [2026-10-02-The-eternal-complement](https://openai.com/index/the-eternal-complement)  
+- [2026-10-02-Chatham-scales-its-capital-markets-expertise-with-OpenAI](https://openai.com/index/chatham-financial)  
 - [2026-10-01-The-Den-frees-up-10-15-hours-a-week-to-grow-with-ChatGPT-Work](https://openai.com/index/the-den-family-social)  
-- [2026-09-30-Disrupting-a-coordinated-model-distillation-campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign)  
 - [2026-09-30-Helping-small-businesses-put-AI-to-work](https://openai.com/index/helping-small-businesses-put-ai-to-work)  
-- [2026-09-29-Introducing-GPT-6.1-Sol](https://openai.com/index/introducing-gpt-6-1-sol)  
-- [2026-09-29-DevDay-2026-Recap](https://openai.com/index/devday-2026-recap)  
-- [2026-09-29-Introducing-dots](https://openai.com/index/introducing-dots)  
-- [2026-09-29-How-we-will-do-better-for-Australia](https://openai.com/index/how-we-will-do-better-for-australia)  
+- [2026-09-30-Disrupting-a-coordinated-model-distillation-campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign)  
 - [2026-09-29-Towards-safety-cases-for-frontier-AI-training](https://openai.com/index/towards-safety-cases-for-frontier-ai-training)  
-- [2026-09-28-The-Lenfest-Institute-grows-landmark-program-with-expanded-OpenAI-support](https://openai.com/index/lenfest-ai-collaborative-expansion)  
-- [2026-09-28-Are-you-a-Codex-Original?](https://openai.com/form/codex-originals)  
+- [2026-09-29-How-we-will-do-better-for-Australia](https://openai.com/index/how-we-will-do-better-for-australia)  
+- [2026-09-29-Introducing-dots](https://openai.com/index/introducing-dots)  
+- [2026-09-29-DevDay-2026-Recap](https://openai.com/index/devday-2026-recap)  
+- [2026-09-29-Introducing-GPT-6.1-Sol](https://openai.com/index/introducing-gpt-6-1-sol)  
 - [2026-09-28-Basis-completes-a-tax-workbook-2x-faster-with-GPT-6-Astra](https://openai.com/index/basis-tax-workbook-with-astra)  
+- [2026-09-28-Are-you-a-Codex-Original?](https://openai.com/form/codex-originals)  
+- [2026-09-28-The-Lenfest-Institute-grows-landmark-program-with-expanded-OpenAI-support](https://openai.com/index/lenfest-ai-collaborative-expansion)  
 - [2026-09-26-Proaction-boosts-sales-60%-and-saves-75+-hours-with-Codex](https://openai.com/index/proaction)  
 - [2026-09-24-Two-years-of-OpenAI-Academy](https://openai.com/index/two-years-of-openai-academy)  
-- [2026-09-23-Sam-Altman’s-remarks-at-the-United-Nations-Security-Council](https://openai.com/index/sam-altman-un-security-council-remarks)  
-- [2026-09-23-Harvey-turns-legal-context-into-stronger-drafts-with-GPT-6-Astra](https://openai.com/index/harvey-from-context-to-confidence-with-astra)  
-- [2026-09-23-How-invideo-improves-color-grading-3x-with-GPT‑6-Astra](https://openai.com/index/invideo-builds-with-gpt-6-astra)  
+- [2026-09-23-ChatGPT-Ads-expands-to-Southeast-Asia-and-Taiwan](https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan)  
+- [2026-09-23-Introducing-GPT-6-Sol-and-Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)  
+- [2026-09-23-Better-prompt-caching-for-GPT-6](https://openai.com/index/better-prompt-caching-for-gpt-6)  
 - [......【查看更多】......](/details/OpenAI Blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -643,25 +643,25 @@ https://github.com/evoluteur/sacred-geometry
 </summary>
 
 
-- [2026-10-05-Show-HN:-NESH-–-A-from-scratch-UEFI-shell-with-BASIC-scripting](https://nesh.nicfio.it/)  
-- [2026-10-05-Proposed-Solution-to-Global-Warming-2006](https://qntm.org/global)  
-- [2026-10-05-Typst-0.15-Contains-Multitudes](https://typst.app/blog/2026/typst-0.15/)  
-- [2026-10-05-Claude-Code-Found-My-Pirc-and-King's-Indian-Mistakes](https://quickchat.ai/post/claude-code-stockfish-chess-opening-mistakes)  
-- [2026-10-05-Show-HN:-HN-Parody-of-AI-SF-Mania-–-Runescapesque-Mmorpg](https://fogscape.vercel.app/)  
-- [2026-10-05-Time-Travel-in-Braid-2015](https://qntm.org/braid)  
-- [2026-10-05-New-recession-odds-and-economic-metric-website](https://cyclewatch.org/)  
-- [2026-10-05-Donate-AI-Tokens-for-Open-Source-Projects](https://moochy.dev)  
-- [2026-10-05-Ideogram-4.5:-The-most-precise-edit-model](https://ideogram.ai/models/4.5/)  
-- [2026-10-05-Skyfall-–-open-source-WebGPU-aircombat-game-that-runs-in-your-browser](https://github.com/a7ul/skyfall)  
-- [2026-10-05-Ghost-Debt---How-influence-outlives-you,-and-the-debt-it-leaves-behind](https://medium.com/@aggelosbellos/ghost-debt-43437f792256)  
-- [2026-10-05-Against-Personal-Agents-Theory-of-Everything-Why-the-Future-of-Work-Is-a-Factory](https://www.gettheleverage.com/p/against-the-personal-agents-theory)  
-- [2026-10-05-NDS-National-Design-Studio](https://en.wikipedia.org/wiki/National_Design_Studio)  
-- [2026-10-05-Gen-Z-is-betting-on-sports.-Experts-warn-of-the-risks](https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html)  
-- [2026-10-05-Site-Blocking-Will-Not-Defend-IP,-No-Matter-the-Bill's-Name](https://www.eff.org/deeplinks/2026/10/site-blocking-will-not-defend-ip-no-matter-bills-name)  
-- [2026-10-05-Ultrise](https://www.ultrise.com)  
-- [2026-10-05-JavaScript-Demos-–-Practical-browser-based-JavaScript-examples,-no-frameworks](https://brysonbw.github.io/js-demos/#/)  
-- [2026-10-05-Show-HN:-DoubtBench-–-does-Jev-know-when-humans-disagree?](https://github.com/deeplearningguy/doubtbench)  
-- [2026-10-05-What-Is-HLS-Streaming?-HTTP-Live-Streaming-Explained](https://www.red5.net/blog/what-is-hls-streaming/)  
+- [2026-10-05-Desulforudis-Audaxviator:-radiotrophic-bacterium-kms-below-the-surface](https://en.wikipedia.org/wiki/Desulforudis_audaxviator)  
+- [2026-10-05-Orbital-Sunrise](https://orbitalsunrise.cc/)  
+- [2026-10-05-US-removes-all-Air-Force-bombers-from-UK-base-following-new-threat](https://www.cnn.com/2026/10/04/politics/us-air-force-bombers-removed-fairford-iran)  
+- [2026-10-05-Open-Source-Instinct](https://github.com/mariagorskikh/open-instinct)  
+- [2026-10-05-Teen-suspected-of-running-KillSec-ransomware-group-as-cops-seize-servers](https://www.theregister.com/cyber-crime/2026/10/02/teen-suspected-of-running-killsec-ransomware-group-as-cops-seize-servers-arrest-three/5300784)  
+- [2026-10-05-Show-HN:-Digital-scarcity;-app-where-photos-gradually-decay-with-time-/-views](https://joinfaded.com/)  
+- [2026-10-05-Linux-7.3-Rc6-Released:-Normal-for-the-New-"AI-Normal"](https://www.phoronix.com/news/Linux-7.3-rc6-Released)  
+- [2026-10-05-Astronaut-back-on-Earth-–-forgets-about-gravity](https://www.youtube.com/watch?v=PVxaL8CAO4M)  
+- [2026-10-05-Radio-signal-detected-for-the-first-time-from-a-planet-outside-our-solar-system](https://www.rnz.co.nz/news/world/1736845/radio-signal-detected-for-the-first-time-from-a-planet-outside-our-solar-system)  
+- [2026-10-05-A-priors-based-argument-for-psychadelic-skepticism](https://www.technotheoria.org/p/a-priors-based-argument-for-psychadelic)  
+- [2026-10-05-Study-of-2.5M-children-finds-no-link-between-MMR-vaccine-and-autism](https://www.psypost.org/study-of-2-5-million-children-finds-no-link-between-mmr-vaccine-and-autism/)  
+- [2026-10-05-Every-Map-Everywhere-All-at-Once:-exact-neutral-redistricting-maps-on-a-GPU](https://www.mccomb.ca/writing/everymap/)  
+- [2026-10-05-Show-HN:-EditUI-–-Cursor/Claude-Design-style-UI-editing-directly-in-the-browser](https://www.editui.app/)  
+- [2026-10-05-Smart-meter-rollout-in-Germany-continues-to-be-slow](https://www.heise.de/en/news/Smart-meter-rollout-in-Germany-continues-to-be-slow-11475320.html)  
+- [2026-10-05-RustQC:-Rust-reimplementation-of-dupRadar,-RSeQC,-Qualimap,-preseq,-and-samtools](https://seqeralabs.github.io/RustQC/)  
+- [2026-10-05-An-OpenAI-agent-reached-four-Australian-government-systems.-Nobody-noticed](https://trustboundarystudio.com/posts/openai-medicare-2026/)  
+- [2026-10-05-Researcher-at-Russian-plague-laboratory-dies-of-'unknown'-infection](https://www.scrippsnews.com/world/europe/researcher-at-russian-plague-laboratory-dies-of-unknown-infection)  
+- [2026-10-05-Zelenskyy-says-Ukraine-is-developing-satellite-system-similar-to-Starlink](https://www.pravda.com.ua/eng/news/2026/10/04/8056442/)  
+- [2026-10-05-Show-HN:-Soulor-–-Rehearse-hard-conversations-with-simulated-people](https://soulor.app/)  
 - [2026-10-05-Show-HN:-Severance-inspired-terminal-that-prints-task-tickets](https://highlatencylife.com/notes/task-printer-machine-out-of-severance/)  
 - [......【查看更多】......](/details/Hacker News.md)
 
